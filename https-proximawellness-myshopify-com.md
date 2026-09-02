@@ -6,12 +6,12 @@
 - Timezone: America/Vancouver
 - Created At: 2026-08-22T10:49:56Z
 - Contact Email: goldminccarson0@icloud.com
-- Updated At: 2026-08-23T05:23:49.832Z
+- Updated At: 2026-09-02T00:00:29.291Z
 
 ## Products
 
 - [36V 2A Battery Charger Output 42V 2A Charger Input 100-240 VAC Lithium](https://proximawellness.myshopify.com/products/36v-2a-battery-charger-output-42v-2a-charger-input-100-240-vac-lithium-li-ion-li-poly-charger-for-10series-36v-battery): 36V 2A Battery Charger Output 42V 2A Charger Input 100-240 VAC Lithium36V 2A Battery ChargerProximaSPECIFICATIONSBrand Name: YYHQQBADCertification: CEChoice: yesData
-  Updated: 2026-08-23T04:24:13Z
+  Updated: 2026-08-23T14:06:14Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -33,14 +33,14 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/H0d497faa73bf464fa2905a972d9ae87bf.webp?v=1787458088
     Price: $15.03 CAD
 - [FFC1108-1 Alarm 100M Portable Sonar Fish Finders 45 Degrees Sonar Cove](https://proximawellness.myshopify.com/products/ffc1108-1-alarm-100m-portable-sonar-fish-finders-45-degrees-sonar-coverage-echo-sounder-alarm-transducer-lake-sea-fishing): FFC1108-1 Alarm 100M Portable Sonar Fish Finders 45 Degrees Sonar CoveAlarm 100M Portable SonarProximaSPECIFICATIONSBack lighting: On/off White LEDBrand Name: LUCKYL
-  Updated: 2026-08-23T04:24:13Z
+  Updated: 2026-08-23T14:06:15Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S87857e4a8c3c45a298da7e497cf60c7e7.webp?v=1787458081
   Price: $41.25 CAD
 - [Men Slimming Body Shaper Belly Control Shapewear Man Shapers Modeling](https://proximawellness.myshopify.com/products/men-slimming-body-shaper-belly-control-shapewear-man-shapers-modeling-underwear-waist-trainer-corrective-posture-vest-corset): Men Slimming Body Shaper Belly Control Shapewear Man Shapers Modeling Men Slimming Body ShaperProximaSPECIFICATIONSBrand Name: miss molyCN: GuangdongChoice: yesColor
-  Updated: 2026-08-23T04:24:13Z
+  Updated: 2026-08-23T14:06:17Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/HTB1jhXCXLc3T1VjSZLeq6zZsVXau.webp?v=1787458077
     Price: $12.47 CAD
 - [NORTH EDGE Men's Sport Digital Watch Hours Running Swimming Military A](https://proximawellness.myshopify.com/products/north-edge-mens-sport-digital-watch-hours-running-swimming-military-army-watches-altimeter-barometer-compass-waterproof-50m): NORTH EDGE Men's Sport Digital Watch Hours Running Swimming Military ANorth Edge Men's Sport Digital WatchProximaSPECIFICATIONSBand Length: 25Band Material Type: Rub
-  Updated: 2026-08-23T04:24:13Z
+  Updated: 2026-08-23T14:06:16Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -200,7 +200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/H3db85c562fc841f99d7f2abd02cd25d3N.webp?v=1787458053
     Price: $73.61 CAD
 - [600pcs DIY Building Blocks Thin Figures Bricks Lamp 12Colors Education](https://proximawellness.myshopify.com/products/600pcs-diy-building-blocks-thin-figures-bricks-lamp-12colors-educational-creative-size-compatible-with-4037-toys-for-children): 600pcs DIY Building Blocks Thin Figures Bricks Lamp 12Colors Education600pcs DIY Building BlocksProximaSPECIFICATIONSBarcode: NoBlock Size: Small building block（Comp
-  Updated: 2026-08-23T04:24:13Z
+  Updated: 2026-08-23T14:06:17Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -258,7 +258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/H5359305ccc6d46beb4c9d6f76ee81e2fS.webp?v=1787458055
     Price: $5.79 CAD
 - [Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories Ma](https://proximawellness.myshopify.com/products/vegetable-chopper-multifunctional-grater-cutter-kitchen-accessories-manual-fruit-slicer-potatos-shredders-cheese-onions-slicers): Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories MaVegetable ChopperProximaSPECIFICATIONSBlade: 6 interchangeable and ultra sharp stainless steelB
-  Updated: 2026-08-23T04:24:14Z
+  Updated: 2026-08-23T14:06:18Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -272,7 +272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S8e4b2a4211ed4dd084bc038b9ff001e27.webp?v=1787458029
     Price: $44.01 CAD
 - [Women's Floral Sleeveless Mini Dress Vintage V-neck Straighten The Hem](https://proximawellness.myshopify.com/products/womens-floral-sleeveless-mini-dress-vintage-v-neck-straighten-the-hem-slim-short-dresses-2026-lady-summer-daily-commute-wear): Women's Floral Sleeveless Mini Dress Vintage V-neck Straighten The HemWomen's Floral Sleeveless Mini DressProximaSPECIFICATIONSAge: Middle AgeBrand Name: BeainmmryCl
-  Updated: 2026-08-23T04:24:14Z
+  Updated: 2026-08-23T14:13:15Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -302,7 +302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S1bd9fe22b6bf4c73af1f191f36f4d17bB.webp?v=1787458034
     Price: $44.73 CAD
 - [They're Not Bruises They're Pole Kisses Printed Cotton Tank Top Pole D](https://proximawellness.myshopify.com/products/theyre-not-bruises-theyre-pole-kisses-printed-cotton-tank-top-pole-dancer-funny-sexy-training-crop-top-gym-fitness-camisole): They're Not Bruises They're Pole Kisses Printed Cotton Tank Top Pole DPole Kisses PrintedProximaSPECIFICATIONSAge: JuniorBrand Name: NoEnName_NullCN: ShandongChoice:
-  Updated: 2026-08-23T04:24:14Z
+  Updated: 2026-08-23T14:13:16Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -368,7 +368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S94cc0cf008f44b43b151a637f9b982446.webp?v=1787458025
     Price: $10.98 CAD
 - [Miyake Pleated Women's Suit 2026 Japanese Design Loose Ruffled Round N](https://proximawellness.myshopify.com/products/miyake-pleated-womens-suit-2026-japanese-design-loose-ruffled-round-neck-short-sleeved-top-elastic-waist-skirt-two-piece-set): Miyake Pleated Women's Suit 2026 Japanese Design Loose Ruffled Round NMiyake Pleated Women's SuitProximaSPECIFICATIONSAge: Middle AgeBrand Name: HANGXICN: GuangdongC
-  Updated: 2026-08-23T04:24:14Z
+  Updated: 2026-08-23T14:13:19Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -390,7 +390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S5ff9883149f64ebaa34b2d27221c933dC.webp?v=1787458010
     Price: $83.34 CAD
 - [BEAUKEY Fashion Sexy Blue Bandage Top Camis 2023 For Women Strips Yell](https://proximawellness.myshopify.com/products/beaukey-fashion-sexy-blue-bandage-top-camis-2023-for-women-strips-yellow-bodycon-pencil-skirt-split-office-lady-sets-2-piece-xl): BEAUKEY Fashion Sexy Blue Bandage Top Camis 2023 For Women Strips YellBEAUKEY FashionProximaSPECIFICATIONSAge: Middle AgeBrand Name: BEAUKEYCN: FujianClosure Type: Z
-  Updated: 2026-08-23T04:24:15Z
+  Updated: 2026-08-23T14:13:17Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -416,7 +416,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S3049a60106de48d59d27d8d1138b2c14P.webp?v=1787458021
     Price: $53.39 CAD
 - [Women Sequin Tassel Mesh 2 Piece Set Fringe Crop Top Drawstring Maxi S](https://proximawellness.myshopify.com/products/women-sequin-tassel-mesh-2-piece-set-fringe-crop-top-drawstring-maxi-skirt-suits-sexy-lacy-party-beach-vacation-matching-outfit): Women Sequin Tassel Mesh 2 Piece Set Fringe Crop Top Drawstring Maxi SWomen Sequin Tassel MeshProximaSPECIFICATIONSAge: Middle AgeBrand Name: TbputCN: ZhejiangClosur
-  Updated: 2026-08-23T04:24:15Z
+  Updated: 2026-08-23T14:13:18Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -470,7 +470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sb181b9dba5874a5fb4918f180ad3677av.webp?v=1787458009
     Price: $51.39 CAD
 - [Women Turquoise Ribbed Halter Crop Top Deep V Sleeveless Side Ruched S](https://proximawellness.myshopify.com/products/women-turquoise-ribbed-halter-crop-top-deep-v-sleeveless-side-ruched-slim-fit-cropped-tank-2026-ladies-summer-casual-outfit-new): Women Turquoise Ribbed Halter Crop Top Deep V Sleeveless Side Ruched SWomen Turquoise Ribbed HalterProximaSPECIFICATIONS1: Women's Slim Fit Halter V-Neck Blouse2: Wo
-  Updated: 2026-08-23T04:24:15Z
+  Updated: 2026-08-23T14:13:19Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -548,7 +548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S9233e0e1c40044448572e3423eeb28659.webp?v=1787457987
     Price: $26.06 CAD
 - [Women Retro Floral V Neck Sleeveless Mini Dress French Style Sleeveles](https://proximawellness.myshopify.com/products/women-retro-floral-v-neck-sleeveless-mini-dress-french-style-sleeveless-waist-slim-casual-sundress-daily-vacation-street-outfit): Women Retro Floral V Neck Sleeveless Mini Dress French Style SleevelesWomen Retro FloralProximaSPECIFICATIONSAge: Middle AgeBrand Name: BeainmmryCN: ZhejiangClothing
-  Updated: 2026-08-23T04:24:15Z
+  Updated: 2026-08-23T14:13:25Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -578,7 +578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S304ccd985b8d4e759c10350f18cfe1a6a.webp?v=1787457986
     Price: $50.07 CAD
 - [BOOFEENAA Elegant Two Piece Set for Woman Polka Dot Mesh Sheer Sleevel](https://proximawellness.myshopify.com/products/boofeenaa-elegant-two-piece-set-for-woman-polka-dot-mesh-sheer-sleeveless-top-long-skirt-suit-french-style-matching-sets-c16be18): BOOFEENAA Elegant Two Piece Set for Woman Polka Dot Mesh Sheer SleevelElegant Two Piece SetProximaSPECIFICATIONSAge: Middle AgeBrand Name: BOOFEENAACN: GuangdongClos
-  Updated: 2026-08-23T04:24:15Z
+  Updated: 2026-08-23T14:13:18Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -596,7 +596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sf3bdf8160fb045a1b9796081232d0000V.webp?v=1787457964
     Price: $18.26 CAD
 - [Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched Lace](https://proximawellness.myshopify.com/products/women-white-satin-lace-corset-set-sweetheart-straps-waist-cinched-lace-hem-mini-skirt-sets-nightclub-shaping-sexy-2-piece-outfit): Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched LaceWomen Satin Lace CorsetProximaSPECIFICATIONS1: Women Colorful Striped Shirt Two Piece Se2: Colo
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:18Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -674,7 +674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S03d9ff150b544fe48b6b0fec004c5566J.webp?v=1787457977
     Price: $45.50 CAD
 - [Gothic Subculture Black White 2 Piece Set Women Punk Ruffle Puff Sleev](https://proximawellness.myshopify.com/products/gothic-subculture-black-white-2-piece-set-women-punk-ruffle-puff-sleeve-crop-tops-cake-skort-skirt-korean-popular-casual-outfits): Gothic Subculture Black White 2 Piece Set Women Punk Ruffle Puff SleevGothic Subculture Black WhiteProximaSPECIFICATIONSAge: JuniorBrand Name: OPKVEDOCN: GuangdongCl
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:20Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -776,7 +776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sb88863f625ff48dfa14654f6f98f1c17F.webp?v=1787457968
     Price: $35.86 CAD
 - [Fashionable Pure Color Women's Long Skirt Set TW828 Sexy Hollow out Casual Pleated Two-Piece Spring Leisure Macaron Color Pol...](https://proximawellness.myshopify.com/products/fashionable-pure-color-womens-long-skirt-set-tw828-sexy-hollow-out-casual-pleated-two-piece-spring-leisure-macaron-color-pol): SPECIFICATIONS Brand Name: NONE Choice: yes Closure Type: Pullover Dresses Length: Floor-Length Fabric Type: POLYESTER Material: POLYESTER Origin: Mainland China Season: Spring Style: Casual Comfortable Material Crafted from polyester and spandex, this set offers comfort and flexibility, ensuring you stay stylish and comfortable all day long. Sexy Style With its sexy style and hollow out design, this set is perfect for those who want to make a bold fashion statement. Versatile Seasonal Wear Designed for universal appeal, this set is suitable for all seasons, making it a versatile addition to your fashion collection. Pure Color Design The TW828 Amazon European Women's Spring Fashion Sexy Hollow Out Casual Pleated Long Dress Two-Piece Set features a pure color design, adding a touch of elegance and simplicity to your wardrobe. Resin Color Fixing Process The resin color fixing process ensures that the vibrant colors of the set remain vivid and fresh, even after multiple washes.
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:21Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -842,7 +842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S83972f0e736c476f98fcf7af2096faf9R.webp?v=1787457963
     Price: $48.06 CAD
 - [hirigin Chic Women Camisoles Solid Color Spaghetti Strap Casual Tank T](https://proximawellness.myshopify.com/products/hirigin-chic-women-camisoles-solid-color-spaghetti-strap-casual-tank-tops-summer-fashion-sleeveless-tops-y2k-streetwear): hirigin Chic Women Camisoles Solid Color Spaghetti Strap Casual Tank TChic Women CamisolesProximaSPECIFICATIONSAge: Middle AgeBrand Name: hiriginCN: GuangdongClothin
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:20Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -896,7 +896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S4e3753244359400ca0bffad6eadf03aer.webp?v=1787457958
     Price: $8.90 CAD
 - [Conservative Pure Color One-Piece Swimsuit Women's Sports Bikini Cross-Border Popular Swimwear High Elasticity Quick Dry](https://proximawellness.myshopify.com/products/conservative-pure-color-one-piece-swimsuit-womens-sports-bikini-cross-border-popular-swimwear-high-elasticity-quick-dry): SPECIFICATIONS Brand Name: NONE Choice: yes Details: none Material: Nylon Origin: Mainland China Pattern Type: Solid Style: Beach Style Durable Material Crafted from durable nylon and polyester materials, this swimsuit withstands frequent use and maintains its shape. Versatile Use Ideal for running, fitness, swimming, and other water activities, this swimsuit caters to diverse athletic needs. Ready Stock With immediate availability, this swimsuit can be shipped within 24 hours, providing convenience for customers. Quick Dry Feature The quick dry feature of this swimsuit allows you to move swiftly from poolside to beach without any delay. High Elasticity This one-piece swimsuit offers high elasticity, ensuring a comfortable fit for various body types.
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:20Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1002,7 +1002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Se9323f1604364d3e9dd64fcb7376196c4.webp?v=1787457946
     Price: $46.13 CAD
 - [Fashion Sleeveless Spaghetti Strap Top Waist-cinching Vintage Floral J](https://proximawellness.myshopify.com/products/fashion-sleeveless-spaghetti-strap-top-waist-cinching-vintage-floral-jacquard-vest-spring-summer-forest-cottage-date-outfit): Fashion Sleeveless Spaghetti Strap Top Waist-cinching Vintage Floral JSleeveless Spaghetti Strap TopProximaSPECIFICATIONSAge: Middle AgeBrand Name: NONEClothing Leng
-  Updated: 2026-08-23T04:24:16Z
+  Updated: 2026-08-23T14:13:20Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1020,7 +1020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S5a1ffddbbbc143319c0a76c7ae7587156.webp?v=1787457942
     Price: $46.60 CAD
 - [TACVASEN Women's Lightweight Puffer Sleeveless Vest Winter Warm Quilte](https://proximawellness.myshopify.com/products/womens-lightweight-puffer-vest): TACVASEN Women's Lightweight Puffer Sleeveless Vest Winter Warm QuilteWomen's Lightweight Puffer VestProximaSPECIFICATIONSAge: Middle AgeBrand Name: TACVASENCN: Fuji
-  Updated: 2026-08-23T04:24:17Z
+  Updated: 2026-08-23T14:13:23Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1166,7 +1166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sa2efcf20da9b4af8a2918f340258b48a7.webp?v=1787457920
     Price: $35.52 CAD
 - [Sexy Print Top Skirt Suit Women Slim Full Sleeve V-neck Lace Up Tops L](https://proximawellness.myshopify.com/products/sexy-print-top-women-slim-summer-suit): Sexy Print Top Skirt Suit Women Slim Full Sleeve V-neck Lace Up Tops LSexy Print TopProximaSPECIFICATIONSAge: Middle AgeBrand Name: hfwomenfzCN: ZhejiangClosure Type
-  Updated: 2026-08-23T04:24:17Z
+  Updated: 2026-08-23T14:13:23Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1232,7 +1232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sd817e99ffb184ca8b376d55ae327a94bv.webp?v=1787457922
     Price: $41.23 CAD
 - [Sexy Tie Cross Push Up Padded Bikini Set 2026 Women Bandeau Pleate Hig](https://proximawellness.myshopify.com/products/sexy-tie-cross-push-up-bikini-set): Sexy Tie Cross Push Up Padded Bikini Set 2026 Women Bandeau Pleate HigSexy Tie Cross Push UpProximaSPECIFICATIONSAge: Middle AgeBrand Name: DaxiyeeCN: LiaoningCraft
-  Updated: 2026-08-23T04:24:17Z
+  Updated: 2026-08-23T14:13:21Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1250,7 +1250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Se7077e7e64374e2098d8270993a1f2d6s.webp?v=1787457924
     Price: $16.65 CAD
 - [Elegant Printed Women's Shirt Skirts Suit Half Bell-Bottomed Sleeve V-](https://proximawellness.myshopify.com/products/women-shirt-skirts): Elegant Printed Women's Shirt Skirts Suit Half Bell-Bottomed Sleeve V-Women's Shirt SkirtsProximaSPECIFICATIONSAge: Middle AgeBrand Name: Chin.SweetyCN: ZhejiangChoi
-  Updated: 2026-08-23T04:24:17Z
+  Updated: 2026-08-23T14:13:22Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1268,7 +1268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sd441e126957d4d5281034c14f3f1a59dS.webp?v=1787457911
     Price: $29.27 CAD
 - [New Arrival Women Pure Cotton Elegant Sleeveless Waistcoat, Minimalist](https://proximawellness.myshopify.com/products/women-pure-cotton-elegant-sleeveless-waistcoat): New Arrival Women Pure Cotton Elegant Sleeveless Waistcoat, MinimalistWomen Pure CottonProximaSPECIFICATIONSAge: JuniorBrand Name: DIYUNQCN: GuangdongChoice: yesClos
-  Updated: 2026-08-23T04:24:17Z
+  Updated: 2026-08-23T14:13:25Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S05915f4ccd914209a42c27c6da3d6000A.webp?v=1787457453
     Price: $24.50 CAD
 - [Brown Casual Gentleman Men's Army Green Vest Plaid Soft Wool Jacket Tw](https://proximawellness.myshopify.com/products/casual-gentleman-mens-vest): Brown Casual Gentleman Men's Army Green Vest Plaid Soft Wool Jacket TwCasual Gentleman Men's VestProximaSPECIFICATIONSAmoy category: Fashion City (24-35 years old)Ap
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T14:13:24Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1372,7 +1372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S785d151c487343ddadd5e6242c29058fP.webp?v=1787457898
     Price: $24.85 CAD
 - [Attractive Sexy Black Rivet Tie Bikini Women's Separate Beach Swimming](https://proximawellness.myshopify.com/products/black-rivet-tie-bikini): Attractive Sexy Black Rivet Tie Bikini Women's Separate Beach SwimmingBlack Rivet Tie BikiniProximaSPECIFICATIONSBrand Name: othersCraft of Weaving: KnitDetails: Ban
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T18:39:41Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1394,7 +1394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S8a9391ec276d4e89ae3242b3e5eff5bbF.webp?v=1787457891
     Price: $18.97 CAD
 - [New Arrival Women's Swimwear Swimming Suit Beach Outfits Swimming Clot](https://proximawellness.myshopify.com/products/womens-swimwear): New Arrival Women's Swimwear Swimming Suit Beach Outfits Swimming ClotWomen's SwimwearProximaSPECIFICATIONSAge: Middle AgeBrand Name: QusussCN: LiaoningChoice: yesCr
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T18:39:41Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1420,7 +1420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sdb0292a4300b422c83956b7e32691794v.webp?v=1787457891
     Price: $32.48 CAD
 - [Starfish Sexy Bikinis 2026 Women Swimwear Female Swimsuit For Swim Wea](https://proximawellness.myshopify.com/products/starfish-sexy-bikinis): Starfish Sexy Bikinis 2026 Women Swimwear Female Swimsuit For Swim WeaStarfish Sexy BikinisProximaSPECIFICATIONSAge: Middle AgeBrand Name: biligosheCN: LiaoningCraft
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T18:39:42Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1450,7 +1450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S25a9bbd04a534a7383998bbe65c8fbc3j.webp?v=1787457889
     Price: $23.64 CAD
 - [Karrcat Trashy Y2k Flag Print Tank Top Grunge Aesthetics Long Tanktop](https://proximawellness.myshopify.com/products/karrcat-trashy-y2k-flag-print-tank-top): Karrcat Trashy Y2k Flag Print Tank Top Grunge Aesthetics Long Tanktop Karrcat Trashy Y2k Flag Print Tank TopProximaSPECIFICATIONSAge: JuniorBrand Name: karrramCN: Gu
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T18:39:42Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1468,7 +1468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S877e94dbc58c4cdb83e9887b13c73c2ay.webp?v=1787457886
     Price: $14.84 CAD
 - [BOOFEENAA Elegant Two Piece Set for Woman Polka Dot Mesh Sheer Sleevel](https://proximawellness.myshopify.com/products/two-piece-set-for-woman): BOOFEENAA Elegant Two Piece Set for Woman Polka Dot Mesh Sheer SleevelTwo Piece Set for WomanProximaSPECIFICATIONSAge: Middle AgeBrand Name: BOOFEENAACN: GuangdongCl
-  Updated: 2026-08-23T04:24:18Z
+  Updated: 2026-08-23T18:39:42Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1486,7 +1486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sf3bdf8160fb045a1b9796081232d0000V_7066b3ee-f7ef-4cf3-a3de-02c57368c722.webp?v=1787457977
     Price: $18.26 CAD
 - [Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched Lace](https://proximawellness.myshopify.com/products/women-white-satin-lace-corset-set): Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched LaceWomen White Satin Lace Corset SetProximaSPECIFICATIONS1: Women Colorful Striped Shirt Two Piece
-  Updated: 2026-08-23T04:24:19Z
+  Updated: 2026-08-23T18:39:42Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1564,7 +1564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S03d9ff150b544fe48b6b0fec004c5566J_d455283c-67aa-41ef-a404-2a45c9254867.webp?v=1787457877
     Price: $45.50 CAD
 - [Gothic Subculture Black White 2 Piece Set Women Punk Ruffle Puff Sleev](https://proximawellness.myshopify.com/products/gothic-subculture-black-white-2-piece-set): Gothic Subculture Black White 2 Piece Set Women Punk Ruffle Puff SleevGothic Subculture Black WhiteProximaSPECIFICATIONSAge: JuniorBrand Name: OPKVEDOCN: GuangdongCl
-  Updated: 2026-08-23T04:24:19Z
+  Updated: 2026-08-23T18:39:42Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1666,7 +1666,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sb88863f625ff48dfa14654f6f98f1c17F_1cbdbbbe-bf7d-4bea-b5b8-7ed2ade75cd4.webp?v=1787457883
     Price: $35.86 CAD
 - [Women's Long Skirt - Fashionable Pure Color Two-Piece Set for Spring](https://proximawellness.myshopify.com/products/womens-long-skirt): Explore the Women's Long Skirt set with a pure color design, perfect for spring casual wear. Crafted from polyester for comfort and style, featuring a hollow out sexy style.
-  Updated: 2026-08-23T04:24:19Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1732,7 +1732,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S83972f0e736c476f98fcf7af2096faf9R_6b0416ab-5411-434e-9ca1-427dc827790b.webp?v=1787457562
     Price: $48.06 CAD
 - [Sexy Blue Plaid Bikini Set 2026 Women Bow Strap Bandage Push Up High W](https://proximawellness.myshopify.com/products/sexy-blue-plaid-bikini-set): Sexy Blue Plaid Bikini Set 2026 Women Bow Strap Bandage Push Up High WSexy Blue Plaid Bikini SetProximaSPECIFICATIONSAge: Middle AgeBrand Name: DaxiyeeCN: LiaoningCr
-  Updated: 2026-08-23T04:24:19Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1818,7 +1818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S2adebac6fdf7449b8ed4473b11f762833.webp?v=1787457862
     Price: $16.79 CAD
 - [Miyake Pleated Women's Suit 2026 Japanese Design Loose Ruffled Round N](https://proximawellness.myshopify.com/products/miyake-pleated-womens-suit): Miyake Pleated Women's Suit 2026 Japanese Design Loose Ruffled Round NMiyake Pleated Women's SuitProximaSPECIFICATIONSAge: Middle AgeBrand Name: HANGXICN: GuangdongC
-  Updated: 2026-08-23T04:24:19Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1840,7 +1840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S5ff9883149f64ebaa34b2d27221c933dC_bbaed343-b926-4385-bb3f-f2b097be6c00.webp?v=1787457578
     Price: $83.34 CAD
 - [BEAUKEY Fashion Sexy Blue Bandage Top Camis 2023 For Women Strips Yell](https://proximawellness.myshopify.com/products/beaukey-fashion-sexy-blue-bandage-top-camis): BEAUKEY Fashion Sexy Blue Bandage Top Camis 2023 For Women Strips YellBEAUKEY FashionProximaSPECIFICATIONSAge: Middle AgeBrand Name: BEAUKEYCN: FujianClosure Type: Z
-  Updated: 2026-08-23T04:24:20Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1866,7 +1866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S3049a60106de48d59d27d8d1138b2c14P_052a9e2f-fbcf-43bb-b358-fa609e748903.webp?v=1787457861
     Price: $53.39 CAD
 - [Women Sequin Tassel Mesh 2 Piece Set Fringe Crop Top Drawstring Maxi S](https://proximawellness.myshopify.com/products/women-sequin-tassel-mesh-2-piece-set): Women Sequin Tassel Mesh 2 Piece Set Fringe Crop Top Drawstring Maxi SWomen Sequin Tassel MeshProximaSPECIFICATIONSAge: Middle AgeBrand Name: TbputCN: ZhejiangClosur
-  Updated: 2026-08-23T04:24:20Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1920,7 +1920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sb181b9dba5874a5fb4918f180ad3677av_87207cab-1ae7-406a-b680-dd0886a41700.webp?v=1787457843
     Price: $51.39 CAD
 - [Women Retro Floral V Neck Sleeveless Mini Dress French Style Sleeveles](https://proximawellness.myshopify.com/products/women-retro-floral-v-neck-sleeveless-mini-dress): Women Retro Floral V Neck Sleeveless Mini Dress French Style SleevelesWomen Retro FloralProximaSPECIFICATIONSAge: Middle AgeBrand Name: BeainmmryCN: ZhejiangClothing
-  Updated: 2026-08-23T04:24:20Z
+  Updated: 2026-08-23T18:39:43Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1950,7 +1950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S304ccd985b8d4e759c10350f18cfe1a6a_63c82a32-7d09-4f2c-bcec-35a58f2c0b50.webp?v=1787457606
     Price: $50.07 CAD
 - [Women Turquoise Ribbed Halter Crop Top Deep V Sleeveless Side Ruched S](https://proximawellness.myshopify.com/products/women-turquoise-ribbed-halter-crop-top): Women Turquoise Ribbed Halter Crop Top Deep V Sleeveless Side Ruched SWomen Turquoise Ribbed Halter Crop TopProximaSPECIFICATIONS1: Women's Slim Fit Halter V-Neck Bl
-  Updated: 2026-08-23T04:24:20Z
+  Updated: 2026-08-23T18:39:44Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2028,7 +2028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S9233e0e1c40044448572e3423eeb28659_cdfc388d-6a54-4b4d-a4ae-dadad18792d4.webp?v=1787457829
     Price: $26.06 CAD
 - [Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories Ma](https://proximawellness.myshopify.com/products/vegetable-chopper-multifunctional-grater-cutter): Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories MaVegetable ChopperProximaSPECIFICATIONSBlade: 6 interchangeable and ultra sharp stainless steelB
-  Updated: 2026-08-23T04:24:21Z
+  Updated: 2026-08-23T18:39:44Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2042,7 +2042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S8e4b2a4211ed4dd084bc038b9ff001e27_80738352-eeee-4ebf-8ced-697b61639eed.webp?v=1787457782
     Price: $44.01 CAD
 - [Ladies High Waist Bikini Set Two-Piece Women Swimsuit Plus Size Swimwe](https://proximawellness.myshopify.com/products/ladies-high-waist-bikini): Ladies High Waist Bikini Set Two-Piece Women Swimsuit Plus Size SwimweLadies High Waist BikiniProximaSPECIFICATIONSAge: Middle AgeBikini: plus size swimwearBrand Nam
-  Updated: 2026-08-23T04:24:21Z
+  Updated: 2026-08-23T18:39:44Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2088,7 +2088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S3bba0bcc58c843e88ad28fe57dd5b9f0n.webp?v=1787457800
     Price: $17.93 CAD
 - [Karrram Japanese Y2k Pink Halter Tops 2000s Cutecore Rhinestone Print](https://proximawellness.myshopify.com/products/karrram-japanese-y2k-pink-halter-tops): Karrram Japanese Y2k Pink Halter Tops 2000s Cutecore Rhinestone Print Karrram Japanese Y2k Pink Halter TopsProximaSPECIFICATIONSAge: JuniorBrand Name: karrramCN: Gua
-  Updated: 2026-08-23T04:24:21Z
+  Updated: 2026-08-23T18:39:44Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2106,7 +2106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S439d321c7a86417da135a5f486e3a486F.webp?v=1787457701
     Price: $15.54 CAD
 - [Retro Leopard Print Backless Fashion Sleeveless Summer Women's Casual](https://proximawellness.myshopify.com/products/leopard-print-backless-womens-summer-top): Retro Leopard Print Backless Fashion Sleeveless Summer Women's Casual Leopard Print BacklessProximaSPECIFICATIONSAge: Middle AgeBrand Name: XXOWENLICN: GuangdongClot
-  Updated: 2026-08-23T04:24:21Z
+  Updated: 2026-08-23T18:39:44Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2232,7 +2232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S9009789596d448dab288f0677a53ba8dy.webp?v=1787457586
     Price: $11.76 CAD
 - [Women Casual Stripe Shawl T Shirt Skirts Two Piece Set 2025 Summer Stu](https://proximawellness.myshopify.com/products/women-casual-stripe-shawl): Women Casual Stripe Shawl T Shirt Skirts Two Piece Set 2025 Summer StuWomen Casual Stripe ShawlProximaSPECIFICATIONSAge: JuniorBrand Name: JiaoAmpleCN: ZhejiangClosu
-  Updated: 2026-08-23T04:24:21Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2298,7 +2298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S6fb833c2d086491484f77e44e12c092di.webp?v=1787457779
     Price: $25.39 CAD
 - [Women's Floral Sleeveless Mini Dress Vintage V-neck Straighten The Hem](https://proximawellness.myshopify.com/products/womens-floral-sleeveless-dress): Women's Floral Sleeveless Mini Dress Vintage V-neck Straighten The HemWomen's Floral Sleeveless DressProximaSPECIFICATIONSAge: Middle AgeBrand Name: BeainmmryClothin
-  Updated: 2026-08-23T04:24:22Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2328,7 +2328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S1bd9fe22b6bf4c73af1f191f36f4d17bB_a3cf1d3c-34d5-4f2d-b8cd-554dd8983fab.webp?v=1787457759
     Price: $44.73 CAD
 - [They're Not Bruises They're Pole Kisses Printed Cotton Tank Top Pole D](https://proximawellness.myshopify.com/products/pole-kisses-printed-cotton-tank-top): They're Not Bruises They're Pole Kisses Printed Cotton Tank Top Pole DPole Kisses Printed Cotton Tank TopProximaSPECIFICATIONSAge: JuniorBrand Name: NoEnName_NullCN:
-  Updated: 2026-08-23T04:24:22Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2394,7 +2394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S94cc0cf008f44b43b151a637f9b982446_0375c4c7-5ce7-4af7-ad73-617cd0256a5f.webp?v=1787457585
     Price: $10.98 CAD
 - [Push Up Bikinis 2026 Sexy Women Swimsuit Swimwear Female Stone Bikini](https://proximawellness.myshopify.com/products/push-up-bikinis-2026-sexy-women-swimsuit): Push Up Bikinis 2026 Sexy Women Swimsuit Swimwear Female Stone Bikini Push Up BikinisProximaSPECIFICATIONSAge: Middle AgeBrand Name: ZHBDMMCN: ZhejiangColor: print b
-  Updated: 2026-08-23T04:24:22Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2412,7 +2412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S2a69c8ca0cd14c159d4a69efca93f42bB_a95d08be-430e-45fd-83d3-0defa67b75d5.webp?v=1787457769
     Price: $23.51 CAD
 - [White Satin Lace Patchwork Corset 2 Piece Set Women Spaghetti Strap Wa](https://proximawellness.myshopify.com/products/white-satin-lace-corset-set): White Satin Lace Patchwork Corset 2 Piece Set Women Spaghetti Strap WaWhite Satin LaceProximaSPECIFICATIONS1: Lace Patchwork Corset Bodycon Mini Dress Set2: Lace Tri
-  Updated: 2026-08-23T04:24:22Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2526,7 +2526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sde27516a7e8d4ccd9f9d7aacf680bf8en.webp?v=1787457760
     Price: $59.64 CAD
 - [Women's Beach Style Halter Backless Sleeveless Short Top with Maxi Ski](https://proximawellness.myshopify.com/products/womens-beach-style-halter-backless-sleeveless-short-top-with-maxi-skirt-two-piece-set-summer-sexy-solid-patchwork-slim-outfit): Women's Beach Style Halter Backless Sleeveless Short Top with Maxi SkiWomen's Beach StyleProximaSPECIFICATIONSAge: Middle AgeBrand Name: MAFIRRYCN: GuangdongClosure
-  Updated: 2026-08-23T04:24:23Z
+  Updated: 2026-08-23T18:39:45Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2564,7 +2564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/See05929ed03c431d991f746e8e2657d8i.webp?v=1787457757
     Price: $69.56 CAD
 - [3 Pieces Bikini 2026 Sexy Women Swimsuit Swimwear Female Short Skirt C](https://proximawellness.myshopify.com/products/3-pieces-bikini-2026-sexy-women-swimsuit-swimwear-female-short-skirt-cover-ups-bikini-set-beachwear-bathing-suit-swimming-suit): 3 Pieces Bikini 2026 Sexy Women Swimsuit Swimwear Female Short Skirt C3 Pieces BikiniProximaSPECIFICATIONSAge: SeniorBrand Name: NONECN: Guangdong,LiaoningCraft of W
-  Updated: 2026-08-23T04:24:23Z
+  Updated: 2026-08-23T18:39:46Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2770,7 +2770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S06a27798b96d41a8912ff2e8b63eba53M.webp?v=1787457757
     Price: $17.14 CAD
 - [600pcs DIY Building Blocks Thin Figures Bricks Lamp 12Colors Education](https://proximawellness.myshopify.com/products/600pcs-diy-building-blocks-thin-figures-bricks-lamp-12colors-educational-creative-size-compatible-with-4037-toys-for-children-1): 600pcs DIY Building Blocks Thin Figures Bricks Lamp 12Colors EducationDIY Building BlocksProximaSPECIFICATIONSBarcode: NoBlock Size: Small building block（Compatible
-  Updated: 2026-08-23T04:24:23Z
+  Updated: 2026-08-23T18:39:46Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2828,7 +2828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/H5359305ccc6d46beb4c9d6f76ee81e2fS_c0649332-f62a-49ee-a164-ec9779553895.webp?v=1787457533
     Price: $5.79 CAD
 - [2 Piece Sets Tops And Skirt Elegant Women Sleeveless Sexy Long Maxi Dr](https://proximawellness.myshopify.com/products/2-piece-sets-tops-and-skirt-elegant-women-sleeveless-sexy-long-maxi-dress-fashion-evening-ladies-street-party-vestidos-summer): 2 Piece Sets Tops And Skirt Elegant Women Sleeveless Sexy Long Maxi Dr2 Piece SetsProximaSPECIFICATIONSAge: Middle AgeBrand Name: CarlapasCN: GuangdongClosure Type:
-  Updated: 2026-08-23T04:24:23Z
+  Updated: 2026-08-23T18:39:46Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2850,7 +2850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S27c92896ffec42f680a2e3280b53f8614.webp?v=1787457509
     Price: $29.11 CAD
 - [Korea Chic Patchwork Design Party Sets Loose Cardigan Jacket + Lace Bo](https://proximawellness.myshopify.com/products/korea-chic-patchwork-design-party-sets-loose-cardigan-jacket-lace-bow-camisole-top-mini-skirt-sweet-three-piece-set-women): Korea Chic Patchwork Design Party Sets Loose Cardigan Jacket + Lace BoKorea Chic PatchworkProximaSPECIFICATIONSAge: JuniorBrand Name: Miss ToughCN: GuangdongClosure
-  Updated: 2026-08-23T04:24:23Z
+  Updated: 2026-08-23T18:39:46Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2875,15 +2875,24 @@
 
 ## Collections
 
-- [Home page](https://proximawellness.myshopify.com/collections/frontpage)
-  Updated: 2026-08-23T04:24:10Z
+- [Swimwear & Bikinis](https://proximawellness.myshopify.com/collections/swimwear-bikinis): Shop our collection of swimwear, bikinis, and beachwear.
+  Updated: 2026-08-23T05:27:17Z
+  Total Products: 7
+- [Women's Clothing](https://proximawellness.myshopify.com/collections/womens-clothing): Shop our women's clothing collection featuring the latest styles and trends.
+  Updated: 2026-08-23T05:29:24Z
+  Total Products: 9
+- [Men's Clothing](https://proximawellness.myshopify.com/collections/mens-clothing): Shop our men's clothing collection featuring the latest styles and trends.
+  Updated: 2026-08-23T05:29:51Z
   Total Products: 1
-- [Default example products](https://proximawellness.myshopify.com/collections/asset-pack-116483227650-example-products)
-  Updated: 2026-08-23T04:24:10Z
-  Total Products: 3
-- [Default example products](https://proximawellness.myshopify.com/collections/asset-pack-116548108290-example-products)
-  Updated: 2026-08-23T04:24:10Z
-  Total Products: 3
+- [Supplements](https://proximawellness.myshopify.com/collections/supplements): Shop our supplements collection including protein, weight gainers, protein bars, and BCAAs.
+  Updated: 2026-08-23T05:30:17Z
+  Total Products: 5
+- [Accessories](https://proximawellness.myshopify.com/collections/accessories): Shop our accessories collection including bags, watches, and kitchen accessories.
+  Updated: 2026-08-23T05:30:34Z
+  Total Products: 2
+- [Fashion & Streetwear](https://proximawellness.myshopify.com/collections/fashion-streetwear): Shop our fashion and streetwear collection featuring harajuku, gothic, Y2K, and clubwear styles.
+  Updated: 2026-08-23T05:30:50Z
+  Total Products: 4
 
 ## Store Pages
 
