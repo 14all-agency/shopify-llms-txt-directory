@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-12-01T19:12:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-23T00:00:35.595Z
+- Updated At: 2026-09-02T00:00:38.016Z
 
 ## Products
 
 - [2025 Tour Tee](https://james.merchmadeeasy.com/products/2025-tour-tee): 100% combed ring-spun cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-04T16:40:47Z
+  Updated: 2026-08-28T21:36:12Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Mosaic Flower Tee - Cool Blue](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue): 100% combed ring-spun cotton t-shirt in cool blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-17T07:52:12Z
+  Updated: 2026-08-28T21:36:12Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Flower Tee - Natural](https://james.merchmadeeasy.com/products/flower-tee-natural): 100% combed ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-03T15:01:51Z
+  Updated: 2026-08-28T21:36:12Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -160,7 +160,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Flower Logo Tee - Maroon](https://james.merchmadeeasy.com/products/flower-logo-tee-maroon): 100% combed ring-spun cotton t-shirt in maroon Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-19T14:42:17Z
+  Updated: 2026-08-28T21:36:13Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -184,7 +184,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Embroidered Flower Hoodie](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie): 80/20 ring-spun cotton/polyester hoodie with contrast hood in jet black/orange Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-18T12:25:07Z
+  Updated: 2026-08-28T21:36:13Z
   Vendor: James US
   Product Type: Hoodie
   Availability: Available
@@ -208,35 +208,35 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [Lolly Beach Towel](https://james.merchmadeeasy.com/products/lolly-beach-towel): 100% microfiber front side / 100% cotton reverse side Beach towel in yellow/orange
-  Updated: 2026-08-03T15:01:49Z
+  Updated: 2026-08-28T21:36:13Z
   Vendor: James US
   Product Type: Beach Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Lolly_Beach_Towel.png?v=1766428339
   Price: $25.00 USD
 - [Flower Campfire Mug](https://james.merchmadeeasy.com/products/flower-campfire-mug): Enamel campfire mug in white
-  Updated: 2026-08-03T15:01:49Z
+  Updated: 2026-08-28T21:36:14Z
   Vendor: James US
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Campfire_Mug_Front.png?v=1766428603
   Price: $15.00 USD
 - [Flower Picnic Cup](https://james.merchmadeeasy.com/products/flower-picnic-cup): Picnic cup
-  Updated: 2026-08-03T15:01:49Z
+  Updated: 2026-08-28T21:36:14Z
   Vendor: James US
   Product Type: Cup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Picnic_Cup_Front.png?v=1766428338
   Price: $5.00 USD
 - [Lolly Enamel Pin Set](https://james.merchmadeeasy.com/products/lolly-enamel-pin-set): Set of three enamel pins with card backing
-  Updated: 2026-08-03T15:01:49Z
+  Updated: 2026-08-28T21:36:14Z
   Vendor: James US
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Pin_Set.png?v=1766428339
   Price: $10.00 USD
 - [Laid - Vinyl LP](https://james.merchmadeeasy.com/products/laid-vinyl-lp): Laid, the 5th studio album by James, pressed on vinyl. Track listing Out to Get You Sometimes (Lester Piggott) Dream Thrum One of the Three Say Something Five-O P.S. Everybody Knows Knuckle Too Far Low Low Low Laid Lullaby Skindiving
-  Updated: 2026-07-23T17:58:14Z
+  Updated: 2026-08-28T21:36:14Z
   Vendor: James US
   Product Type: Vinyl
   Availability: Available
@@ -246,16 +246,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://james.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-20T11:14:22Z
+  Updated: 2026-08-24T11:13:30Z
   Total Products: 13
 - [Apparel](https://james.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-20T11:14:22Z
+  Updated: 2026-08-24T11:13:30Z
   Total Products: 5
 - [Accessories](https://james.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-03T15:01:51Z
   Total Products: 8
 - [All](https://james.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-20T11:14:22Z
+  Updated: 2026-08-24T11:13:30Z
   Total Products: 13
 
 ## Store Pages
