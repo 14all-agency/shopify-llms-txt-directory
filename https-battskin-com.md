@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-02-10T08:47:42Z
 - Contact Email: sales@battskin.com
-- Updated At: 2026-08-23T00:00:40.645Z
+- Updated At: 2026-09-02T00:00:41.945Z
 
 Home Battery Covers - Protect Your Solar Battery
 Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, BYD and GoodWe Home Solar Battery from heat, UV and harsh weather — extending the life of your Solar Batteries.
@@ -56,6 +56,10 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
   - [Australia’s Home Battery Boom Has a Hidden Enemy: Heat](https://battskin.com/blogs/news/australia-s-home-battery-boom-has-a-hidden-enemy-heat)
     Updated: 2026-08-18T07:08:36Z
     Author: Ian Boake
+  - [Battery Solar Covers Australia | Solar Battery Covers for Heat & UV Protection](https://battskin.com/blogs/news/battery-sun-covers-protect-your-home-solar-battery-from-australian-heat): Battery Solar Covers Australia | Solar Battery Covers for Heat & UV Protection
+    Updated: 2026-08-23T03:16:19Z
+    Author: Ian Boake
+    Tags: Battery solar covers, battery sun cover, Battery sun covers, inverter cover, Simply covers
 
 ## Store Pages
 
