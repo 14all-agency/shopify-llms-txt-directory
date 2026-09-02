@@ -6,14 +6,14 @@
 - Timezone: Europe/Warsaw
 - Created At: 2024-10-28T22:50:21Z
 - Contact Email: contact@spinex.digital
-- Updated At: 2026-08-22T00:00:40.053Z
+- Updated At: 2026-09-02T00:00:42.720Z
 
 SpineX is an educational platform specializing in personalized, fitness-based scoliosis training. The SpineX™ 3D Scoliosis Method combines unilateral strength training, 3D de-rotation principles, individualized assessment, and progressive exercise programming to help teenagers and adults manage scoliosis through evidence-informed, non-surgical exercise.
 
 ## Products
 
 - [Surgery-Avoidance Assessment](https://spinex.digital/products/surgery-avoidance-consultation): Advanced scoliosis assessment via live video call designed to identify what’s actually driving curve progression—and what can be done to help avoid surgery. This is not a generic consultation. This assessment focuses on spinal rotation, which plays a major role in scoliosis progression. Rotation cannot be properly assessed on standard X-rays. X-rays are 2D—they show only side bending—but scoliosis is a 3D condition involving both side bending + rotation. Spinal rotation is best assessed through guided movement tests during a live video call. The goal of this consultation is to assess rotation, identify underlying muscle imbalances, and provide clear next steps to address those imbalances by strengthening weaker areas unilaterally and working to reduce spinal rotation to help avoid surgery. You’ll receive a personalized 3D analysis of rotation, rib cage asymmetry, and movement patterns—so you fully understand what’s happening with your child’s spine and what to do next. Based on real cases, including a 12-year-old patient from the United States who reduced rib hump and avoided surgery through a fully online process. See all Scoliosis Programs
-  Updated: 2026-08-18T14:24:20Z
+  Updated: 2026-08-24T10:10:57Z
   Vendor: SpineX
   Product Type: 
   Availability: Available
@@ -27,37 +27,37 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/BEFORE_AFTER_TEMPLATE_9.png?v=1781297914
   Price: €500.00 EUR
 - [HUNCHBACK BLUEPRINT: SpineX™ Posture Improvement Guide for Desk Workers, Entrepreneurs, and Students](https://spinex.digital/products/hunchback-blueprint-2026): Built by a trainer booked out across Europe. 1,500+ clients coached — now it’s finally digital. You won’t find this system anywhere else. See all Kyphosis Programs
-  Updated: 2026-08-21T17:49:26Z
+  Updated: 2026-09-01T11:35:27Z
   Vendor: SpineX
   Product Type: eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/ChatGPT_Image_Jul_20_2026_08_13_06_PM.png?v=1784571222
   Price: €79.00 EUR
 - [SpineX 3D Scoliosis Method | Personalized 12-Week Correction Plan](https://spinex.digital/products/spinex-3d-scoliosis-method): Personalized 12-week SpineX™ 3D Scoliosis Method featuring unilateral strength training, 3D de-rotation, and individualized exercise programming.
-  Updated: 2026-08-11T11:18:51Z
+  Updated: 2026-08-30T14:05:29Z
   Vendor: SpineX
   Product Type: Scoliosis Training Program
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/46988d9d-f360-49eb-814e-f95e67ef66fb.jpg?v=1781104463
+  Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/BEFOREAFTERTEMPLATE_2_cdb8f0e8-6eef-4b74-980f-3ed2e8900330.png?v=1788055509
   Price: €2,500.00 EUR
 - [SpineX 3D Scoliosis Method | Personalized 4-Week Correction Plan](https://spinex.digital/products/spinex-3d-scoliosis-method-4-week): Personalized 4-week SpineX™ 3D Scoliosis Method featuring unilateral strength training, 3D de-rotation, and individualized exercise programming.
-  Updated: 2026-08-17T18:12:36Z
+  Updated: 2026-08-30T14:06:11Z
   Vendor: SpineX
   Product Type: Scoliosis Training Program
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/46988d9d-f360-49eb-814e-f95e67ef66fb.jpg?v=1781104463
+  Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/BEFOREAFTERTEMPLATE_2_cdb8f0e8-6eef-4b74-980f-3ed2e8900330.png?v=1788055509
   Price: €1,000.00 EUR
 
 ## Collections
 
 - [Best ](https://spinex.digital/collections/best-)
-  Updated: 2026-08-19T11:21:44Z
+  Updated: 2026-08-31T23:43:57Z
   Total Products: 1
 - [Scoliosis](https://spinex.digital/collections/scoliosis): Explore SpineX personalized scoliosis programs and the Surgery-Avoidance Assessment, designed around individual spinal and muscular asymmetries.
-  Updated: 2026-08-19T11:21:44Z
+  Updated: 2026-08-24T11:18:02Z
   Total Products: 3
 - [Kyphosis](https://spinex.digital/collections/kyphosis): Explore SpineX kyphosis correction programs and the Hunchback Blueprint for addressing posture and muscular factors associated with a hunched-back appearance.
-  Updated: 2026-08-21T17:49:27Z
+  Updated: 2026-08-24T11:18:02Z
   Total Products: 2
 
 ## Blogs
@@ -72,11 +72,11 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Author: My Store Admin
     Tags: Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Personalized Exercise Program, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment
   - [How to Reduce Scoliosis Curvature Naturally– From 40° to 12°](https://spinex.digital/blogs/news/how-to-reduce-scoliosis-curvature-naturally-from-40-to-12): How to Reduce Scoliosis Curvature Naturally– From 40° to 12°
-    Updated: 2026-07-31T13:35:34Z
+    Updated: 2026-08-27T13:48:35Z
     Author: My Store Admin
     Tags: Cobb Angle, Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Personalized Exercise Program, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment
   - [Fix Hunchback Posture Naturally: 3 Exercises That Work](https://spinex.digital/blogs/news/fix-hunchback-posture-naturally-3-exercises-to-reverse-kyphosis-curvature): Fix Hunchback Posture Naturally: 3 Exercises That Work
-    Updated: 2026-07-31T13:35:34Z
+    Updated: 2026-08-27T17:26:53Z
     Author: My Store Admin
     Tags: Hunchback, Kyphosis, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX, SpineX Kyphosis Correction Method
   - [Posture Tips for Students: What Every Parent Should Know](https://spinex.digital/blogs/news/posture-tips-for-students-what-every-parent-should-know): Posture Tips for Students: What Every Parent Should Know
@@ -91,12 +91,12 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Updated: 2026-07-31T13:35:50Z
     Author: My Store Admin
     Tags: Kyphosis, Non-Surgical Scoliosis Management, Personalized Exercise Program, Personalized Online Training, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, SpineX Kyphosis Correction Method, Surgery-Avoidance Assessment
-  - [Why Full-Body Training Is Essential for Posture Correction](https://spinex.digital/blogs/news/ull-body-training-for-posture-correction): Why Full-Body Training Is Essential for Posture Correction
-    Updated: 2026-07-31T13:35:50Z
+  - [Why Full-Body Training Is Essential for Posture Correction](https://spinex.digital/blogs/news/full-body-training-for-posture-correction): Why Full-Body Training Is Essential for Posture Correction
+    Updated: 2026-08-27T21:37:04Z
     Author: My Store Admin
     Tags: Movement Quality, Personalized Online Training, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX
   - [Unilateral Training for Scoliosis Correction Explained](https://spinex.digital/blogs/news/the-importance-of-unilateral-training-for-scoliosis-correction-fixing-imbalances-through-fitness): Unilateral Training for Scoliosis Correction Explained
-    Updated: 2026-07-31T13:52:23Z
+    Updated: 2026-08-27T13:43:41Z
     Author: My Store Admin
     Tags: Curve Progression, Lumbar Scoliosis, Muscle Asymmetry, Non-Surgical Scoliosis Management, Scoliosis Exercises, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment, Thoracic Scoliosis, Unilateral Strength Training
   - [How to Fix Kyphosis Without Surgery? Here’s the Truth](https://spinex.digital/blogs/news/how-to-fix-kyphosis-without-surgery-heres-the-truth): How to Fix Kyphosis Without Surgery? Here’s the Truth
@@ -128,7 +128,7 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Author: My Store Admin
     Tags: Muscle Asymmetry, Pelvic Alignment, Personalized Exercise Program, Scoliosis Exercises, SpineX, Surgery-Avoidance Assessment, Thoracic Scoliosis, Unilateral Strength Training
   - [Correct Scoliosis Imbalance: Unilateral Training Guide](https://spinex.digital/blogs/news/correct-scoliosis-imbalance-unilateral-training-guide): Correct Scoliosis Imbalance: Unilateral Training Guide
-    Updated: 2026-07-31T13:35:51Z
+    Updated: 2026-08-27T13:36:32Z
     Author: My Store Admin
     Tags: Muscle Asymmetry, Non-Surgical Scoliosis Management, Scoliosis Exercises, SpineX, Surgery-Avoidance Assessment, Unilateral Strength Training
   - [How to Stretch for Kyphosis: Correct Your Posture Naturally](https://spinex.digital/blogs/news/how-to-stretch-for-kyphosis-correct-your-posture-naturally): How to Stretch for Kyphosis: Correct Your Posture Naturally
@@ -183,8 +183,8 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Updated: 2026-07-31T13:36:15Z
     Author: SpineX Team
     Tags: Adolescent Idiopathic Scoliosis, Curve Progression, Non-Surgical Scoliosis Management, Scoliosis Bracing, Scoliosis Exercises, Spinal Fusion Surgery, Surgery Decision, Surgery-Avoidance Assessment, Teen Scoliosis
-  - [Can Lumbar Scoliosis Cause Hip Pain in Teens?](https://spinex.digital/blogs/news/can-lumbar-scoliosis-cause-hip-pain-in-teens)
-    Updated: 2026-07-31T13:36:15Z
+  - [Can Lumbar Scoliosis Cause Hip Pain in Teens?](https://spinex.digital/blogs/news/can-lumbar-scoliosis-cause-hip-pain-in-teens): Can Lumbar Scoliosis Cause Hip Pain in Teens?
+    Updated: 2026-08-27T21:36:58Z
     Author: SpineX Team
     Tags: Hip Pain, Lumbar Scoliosis, Muscle Asymmetry, Non-Surgical Scoliosis Management, Postural Imbalance, Scoliosis Bracing, Scoliosis Exercises, Spinal Fusion Surgery, Surgery-Avoidance Assessment
   - [What Is the SpineX™ Method? Personalized Online Scoliosis Training](https://spinex.digital/blogs/news/spinex-method): What Is the SpineX™ Method? Personalized Online Scoliosis Training
@@ -207,14 +207,46 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Updated: 2026-08-11T09:49:13Z
     Author: Kamil, founder of SpineX™
     Tags: 3d de-rotation principles, back health, effective scoliosis  at home, individualized assessment, movement quality, muscle asymmetry, non-surgical scoliosis management, online, pelvic alignment, personalized management, personalized online scoliosis training, progressive exercise programming, scoliosis, scoliosis exercises online, spinex™, spinex™ method, strength training for scoliosis, teen programs, training, unilateral strength training
-  - [SpineX 3D De-rotation Techniques for Progressive Scoliosis Management](https://spinex.digital/blogs/news/spinex-3d-derotation-techniques-progressive-scoliosis): Discover how SpineX 3D de-rotation techniques offer a non-surgical, evidence-informed approach to managing progressive scoliosis through personalized strength training, unilateral exercise programming, and biomechanical correction.
-    Updated: 2026-08-13T13:00:00Z
+  - [SpineX 3D De-rotation Techniques for Scoliosis](https://spinex.digital/blogs/news/spinex-3d-derotation-techniques-progressive-scoliosis): SpineX 3D De-rotation Techniques for Scoliosis
+    Updated: 2026-08-27T21:36:59Z
     Author: Kamil
     Tags: 3D de-rotation, exercise, non-surgical management, scoliosis, spinal health
   - [SpineX Method: Unilateral Strength Training for Scoliosis](https://spinex.digital/blogs/news/spinex-method-individualizing-unilateral-strength-training-for-scoliosis): SpineX Method: Unilateral Strength Training for Scoliosis
     Updated: 2026-08-15T12:01:04Z
     Author: Kamil, founder of SpineX™
     Tags: 3d de-rotation principles, fitness, individualized assessment, individualized workout plan, movement quality, muscle asymmetry, non-surgical scoliosis management, online scoliosis, pelvic alignment, personalized online scoliosis training, personalized program, progressive exercise programming, scoliosis, spinex™, spinex™ method, strength training, strength training for scoliosis, training, unilateral strength training, unilateral training for scoliosis
+  - [Personalized Scoliosis Exercise Program | SpineX™](https://spinex.digital/blogs/news/personalized-scoliosis-exercise-program): Personalized Scoliosis Exercise Program | SpineX™
+    Updated: 2026-08-23T07:30:47Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, adolescent idiopathic scoliosis, cobb angle, custom scoliosis workouts, exercise, individualized assessment, movement quality, muscle asymmetry, non-surgical scoliosis management, online program, pelvic alignment, personalized exercises, personalized online scoliosis training, Personalized scoliosis exercise program, progressive exercise programming, scoliosis, spinex method, spinex™, spinex™ method, strength training for scoliosis, surgery avoidance, tailored scoliosis training program, training, unilateral strength training
+  - [Non-Surgical Adolescent Idiopathic Scoliosis Management | SpineX™](https://spinex.digital/blogs/news/non-surgical-adolescent-idiopathic-scoliosis-management): Non-Surgical Adolescent Idiopathic Scoliosis Management | SpineX™
+    Updated: 2026-08-27T19:17:22Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, adolescent idiopathic scoliosis, adolescent scoliosis, bracing, cobb angle, individualized assessment, management, movement quality, muscle asymmetry, non-surgical scoliosis management, non-surgical  options, online scoliosis, pelvic alignment, personalized exercise, personalized online scoliosis training, progressive exercise programming, scoliosis, scoliosis rehabilitation strategies, spinex™, spinex™ method, strength training for scoliosis, surgery avoidance, training, unilateral strength training
+  - [Can Pelvic Alignment Affect Teen Scoliosis? | SpineX](https://spinex.digital/blogs/news/blogs-news-pelvic-alignment-teen-scoliosis): Can Pelvic Alignment Affect Teen Scoliosis? | SpineX
+    Updated: 2026-08-25T07:16:55Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, adolescent idiopathic scoliosis, alignment, cobb angle, impact of alignment on scoliosis, individualized assessment, movement quality, muscle asymmetry, non-surgical scoliosis management, online program, pelvic alignment, pelvic alignment exercises, personalized online scoliosis training, personalized therapy, progressive exercise programming, scoliosis, spinex™, spinex™ method, strength training for scoliosis, surgery avoidance, teen scoliosis, training, unilateral strength training
+  - [Online Scoliosis Training for Teens | SpineX™](https://spinex.digital/blogs/news/online-scoliosis-training-for-teens): Online Scoliosis Training for Teens | SpineX™
+    Updated: 2026-08-25T08:55:09Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, adolescent idiopathic scoliosis, individualized assessment, movement quality, muscle asymmetry, non-surgical scoliosis management, online scoliosis training, pelvic alignment, personalized online scoliosis training, progressive exercise programming, scoliosis exercises, spinex method, teen scoliosis, unilateral strength training
+  - [Is Unilateral Strength Training Effective for Scoliosis?](https://spinex.digital/blogs/news/blogs-news-unilateral-strength-training-for-scoliosis): Is Unilateral Strength Training Effective for Scoliosis?
+    Updated: 2026-08-30T01:50:43Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, effective scoliosis therapy, exercises, individualized assessment, movement quality, muscle asymmetry, non-surgical scoliosis management, online training, pelvic alignment, personalized online scoliosis training, personalized program, progressive exercise programming, scoliosis, spinex™, spinex™ method, strength training for scoliosis, training, unilateral strength, unilateral strength training
+  - [Why Scoliosis X-Rays Miss 3D Spinal Rotation](https://spinex.digital/blogs/news/why-scoliosis-x-rays-miss-3d-spinal-rotation): Why Scoliosis X-Rays Miss 3D Spinal Rotation
+    Updated: 2026-08-28T20:44:18Z
+    Author: Kamil, founder of SpineX™
+    Tags: 3d de-rotation principles, 3d spinal analysis, cobb angle, individualized assessment, movement quality, muscle asymmetry, muscle imbalance therapy, non-surgical scoliosis management, online assessment, pelvic alignment, personalized online scoliosis training, personalized program, progressive exercise programming, rib hump, rotation, scoliosis, spinal imbalances, spinal rotation, spinex™, spinex™ method, strength training for scoliosis, training, unilateral strength training, x-ray limitations
+  - [Cobb Angle vs Spinal Rotation in Scoliosis: What X-Rays Miss](https://spinex.digital/blogs/news/cobb-angle-vs-spinal-rotation): Cobb Angle vs Spinal Rotation in Scoliosis: What X-Rays Miss
+    Updated: 2026-08-30T18:46:04Z
+    Author: Kamil, founder of SpineX™
+    Tags: Cobb Angle, Scoliosis, Scoliosis Education, Spinal Rotation
+  - [How to Naturally Slow Scoliosis Progression | SpineX™](https://spinex.digital/blogs/news/how-to-naturally-slow-scoliosis-progression): How to Naturally Slow Scoliosis Progression | SpineX™
+    Updated: 2026-09-01T00:30:03Z
+    Author: Kamil
+    Tags: Adolescent Idiopathic Scoliosis, Cobb Angle, Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Pelvic Alignment, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment, Unilateral Strength Training
 
 ## Store Pages
 
@@ -399,15 +431,15 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
 - [FAQ](https://spinex.digital/pages/parents-faq)
   Updated: 2026-08-07T18:12:37Z
 - [Exercise & Fitness FAQ](https://spinex.digital/pages/exercise-fitness-faq)
-  Updated: 2026-07-30T14:38:18Z
+  Updated: 2026-08-27T21:29:16Z
 - [Unilateral Strength Training FAQ](https://spinex.digital/pages/unilateral-strength-training-faq)
   Updated: 2026-08-20T12:25:38Z
 - [Surgery FAQ](https://spinex.digital/pages/surgery-faq)
-  Updated: 2026-07-30T14:38:18Z
-- [Bracing FAQ](https://spinex.digital/pages/bracing-faq)
-  Updated: 2026-07-30T14:38:18Z
+  Updated: 2026-08-28T19:50:38Z
+- [Bracing FAQ](https://spinex.digital/pages/bracing-faq): This FAQ is provided for educational purposes and reflects the SpineX™ approach to bracing and conservative spinal care. Bracing is prescribed, fit...
+  Updated: 2026-09-01T19:00:59Z
 - [SpineX™ 3D Scoliosis Method FAQ](https://spinex.digital/pages/spinex™-3d-scoliosis-method-faq)
-  Updated: 2026-08-21T18:33:04Z
+  Updated: 2026-08-24T20:51:01Z
 - [Kyphosis FAQ](https://spinex.digital/pages/kyphosis-faq)
   Updated: 2026-07-30T14:38:18Z
 - [Hunchback Blueprint FAQ](https://spinex.digital/pages/hunchback-blueprint-faq)
@@ -415,7 +447,7 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
 - [Online Coaching FAQ](https://spinex.digital/pages/online-coaching-faq)
   Updated: 2026-07-30T14:38:18Z
 - [Personalized Exercise Programming FAQ](https://spinex.digital/pages/personalized-exercise-programming-faq)
-  Updated: 2026-07-30T14:38:18Z
+  Updated: 2026-08-25T17:56:28Z
 - [Breathing Push-ins](https://spinex.digital/pages/breathing-push-ins)
   Updated: 2026-08-09T14:03:41Z
 - [Wall Lumbar correction hold](https://spinex.digital/pages/lumbar-correction-hold)
@@ -442,6 +474,12 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
   Updated: 2026-08-12T20:11:12Z
 - [Inner adductor machine](https://spinex.digital/pages/inner-adductor-machine)
   Updated: 2026-08-12T20:21:19Z
+- [Hip to the Wall](https://spinex.digital/pages/hip-to-the-wall)
+  Updated: 2026-08-27T07:38:05Z
+- [Walk Assessment - 1](https://spinex.digital/pages/walk-assessment-1)
+  Updated: 2026-08-30T13:21:28Z
+- [Walk Assessment - 2](https://spinex.digital/pages/walk-assessment-2)
+  Updated: 2026-08-30T13:21:55Z
 
 ## Policies
 
