@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2024-08-22T11:47:34Z
 - Contact Email: hello@transferhippo.com
-- Updated At: 2026-08-26T19:52:37.062Z
+- Updated At: 2026-09-03T00:00:23.655Z
 
 # Transfer Hippo
 
@@ -25,14 +25,14 @@ Official website: https://transferhippo.com
 ## Products
 
 - [DTF Auto Gang sheet Builder](https://transferhippo.com/products/dtf-gang-sheet-calculators): Full Color Transfers On Gang Sheet No Setup Fees Fits Two 11" Wide Artwork No Minimum 24 - 48 Hour Production Free Shipping Over $100+ OEKO TEX  Supplies Used Soft Hand Feel Durable & Stretchable Recommended Commercial Grade Heat Press Use heavy pressure For cotton, cotton/poly blends press at 300F for 10-12 seconds For 100% polyester press at 275F for 15 seconds Warm or cold peel Second press after peeling for 5 seconds (optional) WASHING : Turn t-shirt inside out. Use cold water & wash with similar colors. Wash on gentle setting. DRYING : Tumble dry on low, or hang dry. IRONING : If ironing is needed, turn the garment inside out. DO NOT : Do not use bleach. Do not dry clean.
-  Updated: 2026-08-25T19:13:23Z
+  Updated: 2026-09-02T19:12:11Z
   Vendor: Transfer Hippo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4424/7868/files/transfer_roll_mockup_homepage_v3.webp?v=1724735045
   Price: $0.01 USD
 - [UV DTF Stickers](https://transferhippo.com/products/uv-dtf-stickers): Full Color UV Stickers On Gang Sheet No Setup Fees Unlimited Length Fit As Many As Needed No Minimum 24 - 48 Hour Production Free Shipping Over $50+ No Heat Application Very Strong Tack No heat needed - just peel and stick Clean surface of object prior to application Use firm pressure to apply the UV DTF transfer on the substrate WASHING : For drink ware hand wash is recommended DO NOT : Do not use harsh chemicals such as acetone
-  Updated: 2026-08-18T19:02:27Z
+  Updated: 2026-08-28T20:53:08Z
   Vendor: Transfer Hippo
   Product Type: 
   Availability: Available
@@ -88,10 +88,6 @@ Official website: https://transferhippo.com
   Updated: 2024-08-29T05:47:23Z
 - [Register](https://transferhippo.com/pages/register)
   Updated: 2024-08-27T09:05:03Z
-- [Hippo Merch](https://transferhippo.com/pages/swag)
-  Updated: 2024-08-29T06:31:56Z
-- [Free Stuff](https://transferhippo.com/pages/free-stuff)
-  Updated: 2024-08-29T06:19:39Z
 - [DTF Gang Sheet Builder](https://transferhippo.com/pages/build-your-gang-sheet): Use our gang sheet builder to create custom DTF transfers in minutes. Upload your artwork, resize and arrange your designs, and maximize your sheet...
   Updated: 2026-05-15T19:02:45Z
 - [DTF Quick Quote](https://transferhippo.com/pages/quick-quote): Use our quick quote tool to instantly estimate the cost of your DTF transfers or gang sheets. Whether you’re pricing a front, back, or sleeve print...
@@ -100,6 +96,8 @@ Official website: https://transferhippo.com
   Updated: 2026-05-15T12:24:05Z
 - [Free Tiny Tee](https://transferhippo.com/pages/free-tiny-tee)
   Updated: 2026-08-03T20:53:12Z
+- [Custom DTF Gang Sheets | Transfer Hippo](https://transferhippo.com/pages/dtf-gang-sheets): Custom DTF Gang Sheets Made Easy Order high-quality DTF gang sheets without manually arranging every design. Upload your artwork, choose your sizes...
+  Updated: 2026-08-27T17:36:02Z
 
 ## Policies
 
