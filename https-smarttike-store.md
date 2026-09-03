@@ -6,19 +6,19 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-06-15T15:44:10Z
 - Contact Email: smarttike76@gmail.com
-- Updated At: 2026-08-27T00:00:36.155Z
+- Updated At: 2026-09-03T00:00:37.964Z
 
 ## Products
 
 - [U-Shaped Window Air Conditioner 12,000 BTU With Dehumidifier](https://smarttike.store/products/large-room-window-ac-unit-u-shaped-12-000-btu-saddle-design-with-dehumidifier-white-abs-plastic-cools-up-to-550-sq-ft-ful): U-shaped 12,000 BTU window air conditioner cools up to 550 sq. ft, dehumidifies, and runs at just 45dB for quiet comfort. Easy window install—order now.
-  Updated: 2026-08-10T18:23:48Z
+  Updated: 2026-08-28T21:16:59Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0834/8159/2052/files/image_4f4b7343-30e1-40b1-90e8-b48bf83fcf92.jpg?v=1785058039
   Price: $650.00 USD
 - [Midea Duo 14,000 BTU (12,000 BTU SACC) High Efficiency Inverter Ultra Quiet Portable Air Conditioner, with Heat up to 550 Sq. Ft., Works with Alexa/Google Assistant, with Remote Control & Window Kit"](https://smarttike.store/products/midea-duo-14-000-btu-12-000-btu-sacc-high-efficiency-inverter-ultra-quiet-portable-air-conditioner-with-heat-up-to-550-sq-ft-works-with-alexa-google-assistant-with-remote-control-window-kit): The Midea Duo 14,000 BTU (12,000 BTU SACC) High Efficiency Inverter Ultra Quiet Portable Air Conditioner is designed to provide optimal comfort in spaces up to 550 sq. ft. This versatile unit offers 4-in-1 functionality, allowing users to cool, ventilate, dehumidify, and heat their environment effectively. Equipped with a powerful cooling system, it features customizable temperature and fan speed settings accessible via an electronic control panel, LCD display, or remote control. Additionally, the unit supports app and voice control, compatible with Alexa, Google Assistant, and Siri for hands-free operation. Enhancing convenience, the Midea Duo includes a 24-hour timer and sleep mode, ensuring a comfortable atmosphere tailored to your needs. ‏small restaurant, ceiling cassette mini split for office, high occupancy AC unit, heavy duty inverter split AC.
-  Updated: 2026-08-10T17:59:51Z
+  Updated: 2026-08-28T21:17:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -51,6 +51,9 @@
     Author: User
   - [Explained: The Benefits of a Quiet 5000 BTU Portable Air Conditioner with Remote](https://smarttike.store/blogs/news/explained-the-benefits-of-a-quiet-5000-btu-portable-air-conditioner-with-remote): Explained: The Benefits of a Quiet 5000 BTU Portable Air Conditioner with Remote
     Updated: 2026-08-24T18:00:42Z
+    Author: User
+  - [Frequently Asked Questions about Quiet 5000 BTU Portable Air Conditioners for Small Rooms](https://smarttike.store/blogs/news/frequently-asked-questions-about-quiet-5000-btu-portable-air-conditioners-for-small-rooms): Frequently Asked Questions about Quiet 5000 BTU Portable Air Conditioners for Small Rooms
+    Updated: 2026-08-31T18:00:28Z
     Author: User
 - [Transform Your Space with Functional Home Essentials](https://smarttike.store/blogs/transform-your-space-with-functional-home-essentials-755)
   - [Transform Your Space with Functional Home Essentials](https://smarttike.store/blogs/transform-your-space-with-functional-home-essentials-755/transform-your-space-with-functional-home-essentials-755): Explore functional home essentials that blend style and practicality. Transform your space with our curated collection!
