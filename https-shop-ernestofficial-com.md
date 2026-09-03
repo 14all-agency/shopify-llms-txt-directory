@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-21T15:47:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:15:35.643Z
+- Updated At: 2026-09-03T00:00:41.711Z
 
 ## Products
 
 - [1992 Hoodie](https://shop.ernestofficial.com/products/1992-hoodie): Black unisex hoodie 1992 graphic on the front Two Dozen Roses graphic on the back
-  Updated: 2026-07-17T10:59:18Z
+  Updated: 2026-08-27T16:21:21Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -38,7 +38,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Horse Hoodie](https://shop.ernestofficial.com/products/horse-hoodie): Unisex hoodie in black or grey Horse graphic on the front with Ernest western inspired logo
-  Updated: 2026-07-19T22:52:06Z
+  Updated: 2026-08-27T16:21:22Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Ernest for Mayor Bomber Jacket](https://shop.ernestofficial.com/products/ernest-for-mayor-bomber-jacket): Black unisex hoodie Vintage pins inspired graphic on the chest Ernest for Mayor graphic on the back
-  Updated: 2026-07-15T21:46:10Z
+  Updated: 2026-08-27T16:23:41Z
   Vendor: ERNEST Official Store
   Product Type: Bomber Jacket
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Not Available
     Price: $80.00 USD
 - [Collegiate Sweatpants](https://shop.ernestofficial.com/products/collegiate-sweatpants): Grey unisex sweatpants Collegiate inspired graphics on the pant legs
-  Updated: 2026-07-16T11:26:27Z
+  Updated: 2026-08-27T16:22:58Z
   Vendor: ERNEST Official Store
   Product Type: Sweatpants
   Availability: Available
@@ -122,7 +122,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Collegiate Hoodie](https://shop.ernestofficial.com/products/collegiate-hoodie): Grey unisex hoodie Collegiate inspired graphics on the front and back
-  Updated: 2026-07-15T20:04:30Z
+  Updated: 2026-08-27T16:21:21Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -143,7 +143,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Nashville Crewneck](https://shop.ernestofficial.com/products/nashville-crewneck): Cream unisex sweatshirt Photo graphic on the front Nashville, Tennesse graphic with album tracklist on the back
-  Updated: 2026-07-15T12:16:23Z
+  Updated: 2026-08-27T16:21:21Z
   Vendor: ERNEST Official Store
   Product Type: Sweatshirt
   Availability: Available
@@ -167,7 +167,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Cadillac Hoodie](https://shop.ernestofficial.com/products/cadillac-hoodie): Black unisex hoodie Cadillac graphics on the front
-  Updated: 2026-07-17T18:46:59Z
+  Updated: 2026-08-27T16:21:21Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Rose Hoodie](https://shop.ernestofficial.com/products/rose-hoodie): Grey unisex hoodie Tatto inspired graphics on the front over the pocket and sleeves
-  Updated: 2026-07-17T01:19:15Z
+  Updated: 2026-08-27T16:21:21Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -212,7 +212,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Ernest Portrait Tee](https://shop.ernestofficial.com/products/ernest-portrait-tee): Black unisex tee Portrait style photo on the front Legalize Country Music road shows on the back
-  Updated: 2026-07-15T10:40:31Z
+  Updated: 2026-08-27T16:21:20Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Cadillac Flowers Tee](https://shop.ernestofficial.com/products/cadillac-flowers-tee): Black unisex tee Cadillac with roses graphic on the front
-  Updated: 2026-07-17T04:55:00Z
+  Updated: 2026-08-27T16:21:20Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -257,7 +257,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Cadillac Rose Tee](https://shop.ernestofficial.com/products/cadillac-rose-tee): Black unisex tee Cadillac graphic on the front Rose graphic with Ernest logo on the back
-  Updated: 2026-07-17T21:06:19Z
+  Updated: 2026-08-27T16:21:20Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -281,7 +281,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Legalize Country Music Road Show Tee](https://shop.ernestofficial.com/products/legalize-country-music-road-show-tee): Garment-dyed blue unisex tee Vintage inspired graphic on the front for the Legalize Country Music Road Show
-  Updated: 2026-07-18T19:14:44Z
+  Updated: 2026-08-27T16:21:20Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -305,7 +305,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Legalize Country Music Tee](https://shop.ernestofficial.com/products/legalize-country-music-tee-1): Black unisex tee Legalize Country Music on the front
-  Updated: 2026-07-16T11:59:42Z
+  Updated: 2026-08-27T16:21:19Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -329,7 +329,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Two Dozen Roses Tee](https://shop.ernestofficial.com/products/two-dozen-roses-tee): Cream unisex tee Two Dozen Roses graphic on the front and back
-  Updated: 2026-07-22T20:53:58Z
+  Updated: 2026-08-27T16:21:19Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -338,7 +338,7 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://shop.ernestofficial.com/products/two-dozen-roses-tee?variant=47152493002990)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://shop.ernestofficial.com/products/two-dozen-roses-tee?variant=47152493035758)
     Availability: Not Available
@@ -353,7 +353,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Vintage Photo Flowers Tee](https://shop.ernestofficial.com/products/vintage-photo-flowers-tee): Black unisex tee Vintage inspired photo with roses graphic on the front
-  Updated: 2026-07-15T19:26:46Z
+  Updated: 2026-08-27T16:21:19Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -377,7 +377,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Would If I Could Lyric Tee](https://shop.ernestofficial.com/products/would-if-i-could-tee): Cream unisex tee Would If I Could lyrics on the front with guitar and roses graphic
-  Updated: 2026-07-16T03:43:55Z
+  Updated: 2026-08-27T16:21:19Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Ernest for Mayor Tee](https://shop.ernestofficial.com/products/ernest-for-mayor-tee): Black unisex tee Ernest for Mayor graphic on the front Vintage pins inspired graphic on the back
-  Updated: 2026-07-18T04:14:43Z
+  Updated: 2026-08-27T16:21:18Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -425,7 +425,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Nashville Tracklist Tee](https://shop.ernestofficial.com/products/nashville-tracklist-tee): Black unisex tee Ernest photo graphic on the front Nashville, Tennessee album tracklist and graphic on the back
-  Updated: 2026-07-15T02:32:32Z
+  Updated: 2026-08-27T16:21:18Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [This Fire Tour 2023 Tee](https://shop.ernestofficial.com/products/this-fire-2023-tour-tee): Black unisex tee This Fire tour 2023 graphic on the chest 2023 tour cities on the back
-  Updated: 2026-07-21T03:36:38Z
+  Updated: 2026-08-28T22:25:18Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -470,7 +470,7 @@
     Availability: Available
     Price: $25.00 USD
 - [This Fire Tour Long Sleeve](https://shop.ernestofficial.com/products/this-fire-tour-long-sleeve): fire that's coming around, wreckin' my world, burnin' it down Grey unisex long sleeve This Fire lyrics on the front 2023 tour cities on the back
-  Updated: 2026-07-17T07:04:47Z
+  Updated: 2026-08-27T16:21:18Z
   Vendor: ERNEST Official Store
   Product Type: Long Sleeve
   Availability: Available
@@ -494,7 +494,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Legalize Country Music Long Sleeve](https://shop.ernestofficial.com/products/legalize-country-music-long-sleeve): Black unisex long sleeve Eagle graphic on the front chest Legalize Country Music with American flag graphic on the back
-  Updated: 2026-07-17T11:37:24Z
+  Updated: 2026-08-27T16:21:17Z
   Vendor: ERNEST Official Store
   Product Type: Long Sleeve
   Availability: Available
@@ -518,7 +518,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Tracklist Long Sleeve](https://shop.ernestofficial.com/products/tracklist-long-sleeve): Black unisex long sleeve Ernest photo graphic on the front Nashville, Tennessee album tracklist on the back
-  Updated: 2026-07-17T12:54:36Z
+  Updated: 2026-08-27T16:21:17Z
   Vendor: ERNEST Official Store
   Product Type: Long Sleeve
   Availability: Available
@@ -542,14 +542,14 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Enamel Pin Set](https://shop.ernestofficial.com/products/enamel-pin-set): Set of two enamel pins
-  Updated: 2026-06-25T13:00:24Z
+  Updated: 2026-08-27T16:21:47Z
   Vendor: ERNEST Official Store
   Product Type: Pins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/ERN-PIN-SET-OF-2-AO_07f9c025-9f10-4b0b-a6fe-4e42d3bf056f.png?v=1762283373
   Price: $10.00 USD
-- [2026 Tour Photo Tee](https://shop.ernestofficial.com/products/2026-tour-photo-tee): Live From The South graphic on the front 2026 tour cities on the back Unisex tee in Black SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26.5 18 M 28.5 20 L 30.5 22 XL 31.5 24 2XL 32.5 26
-  Updated: 2026-07-15T11:05:44Z
+- [2026 Tour Photo Tee](https://shop.ernestofficial.com/products/2026-tour-photo-tee): Live From The South graphic on the front 2026 tour cities on the back Unisex tee in Black
+  Updated: 2026-08-28T08:09:19Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -569,29 +569,8 @@
   - [2X](https://shop.ernestofficial.com/products/2026-tour-photo-tee?variant=47525428461806)
     Availability: Not Available
     Price: $35.00 USD
-- [Locals Only Parrot Hoodie](https://shop.ernestofficial.com/products/locals-only-hoodie): Ernest chest hit on the front Parrot with a guitar graphic on the back Unisex Hoodie in Ivory SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 1/2 23 1/4 M 28 1/2 24 1/2 L 29 1/2 25 1/2 XL 30 1/2 26 3/4 2XL 32 28 3XL 33 29
-  Updated: 2026-07-29T06:32:07Z
-  Vendor: ERNEST Official Store
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/ERNLOCALSHOODIE2.png?v=1770934191
-  - [S](https://shop.ernestofficial.com/products/locals-only-hoodie?variant=47525432852718)
-    Availability: Available
-    Price: $75.00 USD
-  - [M](https://shop.ernestofficial.com/products/locals-only-hoodie?variant=47525432885486)
-    Availability: Available
-    Price: $75.00 USD
-  - [L](https://shop.ernestofficial.com/products/locals-only-hoodie?variant=47525432918254)
-    Availability: Not Available
-    Price: $75.00 USD
-  - [XL](https://shop.ernestofficial.com/products/locals-only-hoodie?variant=47525432951022)
-    Availability: Available
-    Price: $75.00 USD
-  - [2X](https://shop.ernestofficial.com/products/locals-only-hoodie?variant=47525432983790)
-    Availability: Available
-    Price: $75.00 USD
-- [Silhouette Tee](https://shop.ernestofficial.com/products/silhouette-tee): Silhouette graphic of Ernest on the front Unisex tee in Navy SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26.5 18 M 28.5 20 L 30.5 22 XL 31.5 24 2XL 32.5 26
-  Updated: 2026-07-18T05:57:44Z
+- [Silhouette Tee](https://shop.ernestofficial.com/products/silhouette-tee): Silhouette graphic of Ernest on the front Unisex tee in Navy
+  Updated: 2026-08-28T07:56:43Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -611,8 +590,8 @@
   - [2X](https://shop.ernestofficial.com/products/silhouette-tee?variant=47525440454894)
     Availability: Available
     Price: $35.00 USD
-- [Wolf Moon Tee](https://shop.ernestofficial.com/products/wolf-moon-tee): Live From The South graphic on the front Wolf howlin' at the moon graphic on the back Unisex tee in Charcoal SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26.5 18 M 28.5 20 L 30.5 22 XL 31.5 24 2XL 32.5 26
-  Updated: 2026-07-18T12:29:58Z
+- [Wolf Moon Tee](https://shop.ernestofficial.com/products/wolf-moon-tee): Live From The South graphic on the front Wolf howlin' at the moon graphic on the back Unisex tee in Charcoal
+  Updated: 2026-08-28T08:10:05Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -627,34 +606,34 @@
     Availability: Available
     Price: $35.00 USD
   - [XL](https://shop.ernestofficial.com/products/wolf-moon-tee?variant=47525444321518)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [2X](https://shop.ernestofficial.com/products/wolf-moon-tee?variant=47525444354286)
     Availability: Available
     Price: $35.00 USD
 - [SouthERN Hat](https://shop.ernestofficial.com/products/southern-hat): Mid Profile Baseball Cap with embroidery on the front SouthERN graphic with Tenessee stars in the middle
-  Updated: 2026-07-27T20:30:36Z
+  Updated: 2026-08-27T16:21:47Z
   Vendor: ERNEST Official Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/SOUTHERNHAT.png?v=1768249249
   Price: $40.00 USD
 - [Flags Patch Hat](https://shop.ernestofficial.com/products/flags-patch-hat): USA and Tennessee flags with Live From The South on the front Mid Profile Baseball Cap with patch sewn on the front in Navy/White
-  Updated: 2026-07-28T17:51:16Z
+  Updated: 2026-08-30T16:16:19Z
   Vendor: ERNEST Official Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/ERNFLAGSHAT.png?v=1768249431
   Price: $40.00 USD
 - [Wolf Moon Koozie](https://shop.ernestofficial.com/products/wolf-moon-koozie): Wolf howlin' at the moon graphic on both sides Fits standard size cans
-  Updated: 2026-07-16T23:01:38Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/ERNKOOZIE.png?v=1768249651
   Price: $5.00 USD
 - [Flower Shops Vinyl](https://shop.ernestofficial.com/products/flower-shops-vinyl): 11-track debut record FLOWER SHOPS, from Ernest Option of Coke bottle vinyl or clear vinyl
-  Updated: 2026-07-29T01:29:45Z
+  Updated: 2026-09-02T03:39:38Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
@@ -666,14 +645,14 @@
     Availability: Available
     Price: $30.00 USD
 - [Ernest & The Fellas Unplugged](https://shop.ernestofficial.com/products/ernest-the-fellas-unplugged): Live performance audio from the Salvage Sessions and Circle Sessions in a limited double-sided vinyl, Ernest & The Fellas Unplugged
-  Updated: 2026-06-23T19:52:47Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/The-Fellas-Vinyl.png?v=1772742160
   Price: $30.00 USD
 - [Sucker for Small Towns Tour Tee](https://shop.ernestofficial.com/products/sucker-for-small-towns-tour-tee): 2022 Tour Tee graphic 100% cotton tee in black Unisex
-  Updated: 2026-07-21T03:36:42Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -694,7 +673,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [SouthERN Tee](https://shop.ernestofficial.com/products/southern-tee): SouthERN graphic 100% cotton tee in black Unisex
-  Updated: 2026-07-16T11:58:23Z
+  Updated: 2026-08-27T16:21:14Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -718,7 +697,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Nashville Zip Hoodie](https://shop.ernestofficial.com/products/nashville-zip-hoodie): Nashville graphic on the front and back Black unisex hoodie
-  Updated: 2026-07-18T09:10:50Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -742,7 +721,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Locals Only Album Tee](https://shop.ernestofficial.com/products/locals-only-album-tee): Locals Only album graphic 100% cotton tee in Black Unisex
-  Updated: 2026-07-16T10:53:10Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -766,7 +745,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Just Being Ernest Flamingo Tee](https://shop.ernestofficial.com/products/just-being-ernest-tee): Just Being Ernest graphic 100% cotton tee Unisex
-  Updated: 2026-07-16T04:54:19Z
+  Updated: 2026-08-27T16:21:15Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -787,7 +766,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Flower Shop Long Sleeve](https://shop.ernestofficial.com/products/flower-shop-long-sleeve): Flower Shop graphics 100% cotton long sleeve in black Unisex
-  Updated: 2026-07-17T08:39:03Z
+  Updated: 2026-08-27T16:21:14Z
   Vendor: ERNEST Official Store
   Product Type: Long Sleeve
   Availability: Available
@@ -811,7 +790,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Flower Shops Lyric Tee](https://shop.ernestofficial.com/products/flower-shops-lyric-tee): Flower Shops lyrics and graphics 100% cotton tee Unisex
-  Updated: 2026-07-18T04:15:37Z
+  Updated: 2026-08-27T16:21:14Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -835,41 +814,48 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Oval Sticker](https://shop.ernestofficial.com/products/oval-sticker)
-  Updated: 2026-07-03T00:07:57Z
+  Updated: 2026-08-27T16:21:14Z
   Vendor: ERNEST Official Store
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Ern-Sticker.png?v=1773768269
   Price: $5.00 USD
 - [Brown Ernest Logo Hat](https://shop.ernestofficial.com/products/brown-logo-hat)
-  Updated: 2026-07-16T12:18:05Z
+  Updated: 2026-08-27T16:21:47Z
   Vendor: ERNEST Official Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Legalize-Country-Music-Hat.png?v=1773768254
   Price: $40.00 USD
 - [Deep Blue CD](https://shop.ernestofficial.com/products/deep-blue-cd): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
-  Updated: 2026-07-16T23:01:38Z
+  Updated: 2026-09-01T16:31:57Z
   Vendor: ERNEST Official Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-CD.png?v=1773857892
   Price: $13.98 USD
 - [Deep Blue Vinyl](https://shop.ernestofficial.com/products/deep-blue-vinyl): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Deep Blue by Ernest on Dark Water 2LP vinyl Gatefold jacket with inner sleeve Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
-  Updated: 2026-07-24T18:23:51Z
+  Updated: 2026-08-29T18:28:47Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-Vinyl_1b275325-9b0f-40bb-957e-9b5a2bbf4df0.png?v=1774626970
   Price: $39.98 USD
-- [It Ain't That Deep Tee](https://shop.ernestofficial.com/products/it-aint-that-deep-tee): Life isn't fair out in the Deep Blue Unisex tee in Indigo Blue 100% USA cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-28T23:02:05Z
+- [Deep Blue Vinyl (Signed)](https://shop.ernestofficial.com/products/deep-blue-vinyl-signed): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Deep Blue by Ernest on Dark Water 2LP vinyl Inner sleeve SIGNED by Ernest Gatefold jacket Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
+  Updated: 2026-09-02T09:13:23Z
+  Vendor: ERNEST Official Store
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-Signed.png?v=1774626985
+  Price: $45.98 USD
+- [It Ain't That Deep Tee](https://shop.ernestofficial.com/products/it-aint-that-deep-tee): Life isn't fair out in the Deep Blue Unisex tee in Indigo Blue 100% USA cotton
+  Updated: 2026-08-31T03:36:41Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Aint-That-Deep-Tee_00.png?v=1782787483
   - [S](https://shop.ernestofficial.com/products/it-aint-that-deep-tee?variant=48220309356782)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://shop.ernestofficial.com/products/it-aint-that-deep-tee?variant=48220309389550)
     Availability: Available
@@ -890,31 +876,31 @@
 ## Collections
 
 - [Home page](https://shop.ernestofficial.com/collections/frontpage)
-  Updated: 2026-07-01T11:26:42Z
+  Updated: 2026-08-25T11:23:42Z
   Total Products: 12
 - [Apparel](https://shop.ernestofficial.com/collections/apparel)
-  Updated: 2026-07-28T11:26:16Z
+  Updated: 2026-08-31T11:25:24Z
   Total Products: 38
 - [Accessories](https://shop.ernestofficial.com/collections/accessories)
-  Updated: 2026-07-15T11:26:20Z
+  Updated: 2026-08-26T20:39:35Z
   Total Products: 12
 - [Hats](https://shop.ernestofficial.com/collections/hats)
-  Updated: 2026-07-28T11:26:16Z
+  Updated: 2026-08-31T11:25:24Z
   Total Products: 11
 - [Music](https://shop.ernestofficial.com/collections/music)
-  Updated: 2026-07-25T11:26:35Z
+  Updated: 2026-09-02T11:27:23Z
   Total Products: 7
 - [All](https://shop.ernestofficial.com/collections/all)
-  Updated: 2026-07-28T11:26:16Z
+  Updated: 2026-09-02T11:27:23Z
   Total Products: 63
 - [Live From The South Tour](https://shop.ernestofficial.com/collections/live-from-the-south-tour)
-  Updated: 2026-07-20T11:22:27Z
+  Updated: 2026-08-27T16:30:40Z
   Total Products: 7
 - [Deep Blue](https://shop.ernestofficial.com/collections/deep-blue)
-  Updated: 2026-07-28T11:26:16Z
+  Updated: 2026-09-02T11:27:23Z
   Total Products: 8
 - [Summer ](https://shop.ernestofficial.com/collections/summer-)
-  Updated: 2026-07-21T11:25:11Z
+  Updated: 2026-08-29T11:26:32Z
   Total Products: 38
 
 ## Store Pages
