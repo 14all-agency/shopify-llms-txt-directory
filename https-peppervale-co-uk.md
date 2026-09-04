@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-08-26T00:00:44.444Z
+- Updated At: 2026-09-04T00:00:47.870Z
 
 ## Products
 
 - [Mock Neck Micro Modal Top](https://peppervale.co.uk/products/mock-neck-micro-modal-top): Women's Mock Neck Micro Modal Top – Ribbed Half Sleeve Elevate your wardrobe with our Mock Neck T-Shirt, a chic and versatile essential that combines elegance with everyday comfort. Crafted from a premium ribbed fabric made of 94% TENCEL™ Modal and 6% Elastane in Portugal, this t-shirt offers exceptional softness, breathability, and a gentle stretch for all-day wear. The refined mock neck design adds a sophisticated touch, making it perfect for layering under blazers and cardigans or wearing as a statement piece. Thoughtfully designed with a flattering fit and irritation-free branded hem labels, this t-shirt is a timeless addition to any outfit. Style it with tailored trousers for the office, pair with jeans for weekend wear, or layer it for transitional weather. It seamlessly transitions from day to night. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-08-19T09:14:22Z
+  Updated: 2026-08-30T11:36:45Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Half Sleeve T-shirt
   Availability: Available
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
     Price: £65.00 GBP
 - [Striped Cotton Roll Neck](https://peppervale.co.uk/products/striped-cotton-roll-neck): Women's Striped Cotton Roll Neck – Long Sleeve Effortlessly stylish and timeless, our Striped Cotton Polo Neck is the long-sleeve version of our popular sleeveless style. Crafted from a lightweight and breathable cotton blend in Portugal, this top features a chic striped pattern and a sophisticated polo neck design. Perfect for cooler weather, the long sleeves add warmth while maintaining a sleek and polished look. Designed with comfort and versatility in mind, this top is ideal for layering under blazers or coats, or wearing as a standalone statement piece. Style it with tailored trousers for work, pair with jeans for weekend wear, or layer it for transitional weather. The flattering fit and irritation-free branded hem labels ensure all-day comfort and practicality. Available in UK sizes 8-14. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-08-13T08:03:10Z
+  Updated: 2026-08-30T09:22:55Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -222,28 +222,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
     Price: £65.00 GBP
-  - [Blue / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664579397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sBlueWhiteStripedCottonRollNeckTopbyLavenderHillClothing_850_HiResx_850_1.webp?v=1786024243
-    Price: £65.00 GBP
-  - [Blue / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664612165)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sBlueWhiteStripedCottonRollNeckTopbyLavenderHillClothing_850_HiResx_850_1.webp?v=1786024243
-    Price: £65.00 GBP
-  - [Blue / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664644933)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sBlueWhiteStripedCottonRollNeckTopbyLavenderHillClothing_850_HiResx_850_1.webp?v=1786024243
-    Price: £65.00 GBP
-  - [Blue / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664677701)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sBlueWhiteStripedCottonRollNeckTopbyLavenderHillClothing_850_HiResx_850_1.webp?v=1786024243
-    Price: £65.00 GBP
-  - [Blue / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664710469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sBlueWhiteStripedCottonRollNeckTopbyLavenderHillClothing_850_HiResx_850_1.webp?v=1786024243
-    Price: £65.00 GBP
 - [Supima Cotton Crew Neck T-Shirt](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt): Premium Supima Cotton Crew Neck T-Shirt for Women Effortlessly airy and elegantly understated, our Supima Cotton Crew Neck T-Shirt is designed with summer in mind. Crafted from premium, breathable Supima cotton, it features a loose, A-line silhouette that drapes softly for maximum comfort in warmer weather—perfect for summer travel, everyday wear, or layering under blazers and cardigans. Delicate stitch detailing around the neckline, sleeves and hem adds a thoughtful touch of texture, while the slightly extended sleeve length offers flattering, breezy coverage. Lightweight yet non-sheer—even in white—this tee is the perfect elevated basic for relaxed summer dressing and pairs beautifully with jeans, tailored trousers, or skirts. Available in UK sizes 8-18. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-08-25T09:29:33Z
+  Updated: 2026-08-26T08:10:23Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Crew Neck T-shirts
   Availability: Available
@@ -269,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
     Price: £55.00 GBP
 - [Sleeveless Micro Modal Vest Top](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top): Simplify your wardrobe with our Women's Sleeveless Vest Top, a lightweight and versatile essential for any season. Crafted from sustainably sourced micro modal fabric in Portugal, this vest top offers a silky, second-skin feel that is luxuriously soft, breathable, and perfect for layering or wearing on its own during warmer days. The sleeveless design and classic scoop neckline create a flattering silhouette that complements every outfit. Thoughtfully designed for comfort and practicality, this vest top features irritation-free branded hem labels and a tailored fit that moves effortlessly with you. The thermal and heat-regulating properties make it ideal as a base layer. Whether paired with jeans, shorts, layered under knitwear and blazers, or worn solo, it's a timeless addition to your collection. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-08-18T19:28:36Z
+  Updated: 2026-08-31T16:30:36Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Sleeveless Top
   Availability: Available
@@ -419,7 +399,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
     Price: £45.00 GBP
 - [High Neck Tank](https://peppervale.co.uk/products/high-neck-tank): Women's High Neck Tank Top – TENCEL™ Lyocell Redefine comfort and style with our High Neck Tank Top, the perfect base layer for every wardrobe. Crafted from sustainably sourced TENCEL™ Lyocell in Portugal, this ribbed high neck tank top offers natural antibacterial properties, exceptional breathability, and a luxuriously soft feel. Designed for practicality and versatility, it's an essential piece for layering under blazers, cardigans, and jumpers, or wearing solo during warmer days. Thoughtfully made with branded hem labels that provide irritation-free comfort, you can enjoy all-day wear without distractions. Style it with tailored trousers for work, pair with jeans for casual weekends, or layer it for transitional weather. A true wardrobe essential. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-08-13T08:03:06Z
+  Updated: 2026-08-30T05:17:00Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Sleeveless Top
   Availability: Available
@@ -511,7 +491,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
     Price: £79.00 GBP
 - [Half Sleeve Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt): Elevate your wardrobe basics with our Half Sleeve Crew Neck T-Shirt, designed for maximum comfort and effortless style. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is lightweight, breathable, and irresistibly soft. Its classic crew neck and half-sleeve design make it the perfect versatile piece to wear solo or as a layering essential. Ideal for casual outings, workdays, or lounging at home, this t-shirt offers the perfect combination of style and practicality. Style it with jeans for relaxed weekends, layer under blazers for the office, or pair with skirts for a polished look. With its flattering fit and durable fabric, it's a timeless staple you'll reach for again and again. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-08-13T08:03:12Z
+  Updated: 2026-08-27T04:47:21Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Half Sleeve T-shirt
   Availability: Available
@@ -597,7 +577,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
     Price: £52.00 GBP
 - [Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt): Upgrade your wardrobe basics with our Short Sleeve Crew Neck Cotton Modal Blend T-Shirt, a perfect blend of comfort, durability, and timeless style. Made from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it ideal for everyday wear. The classic crew neckline and short sleeves create a versatile design that pairs effortlessly with any outfit. Thoughtfully designed for practicality, this t-shirt features a flattering fit and irritation-free branded hem labels, ensuring all-day comfort. Style it with jeans for casual weekends, layer under blazers and cardigans, or pair with skirts for a polished look. Whether worn as a standalone piece or layered, it's a wardrobe essential you'll reach for time and time again. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-08-17T19:15:46Z
+  Updated: 2026-09-03T13:05:56Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Short Sleeve T-shirt
   Availability: Available
@@ -695,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
     Price: £49.00 GBP
 - [Long Sleeve Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt): Classic, comfortable, and endlessly versatile, our Long Sleeve Crew Neck T-Shirt is a year-round essential for every wardrobe. Crafted from a luxurious cotton-modal blend in Portugal, this t-shirt offers exceptional softness, breathability, and natural stretch, ensuring a perfect fit and feel. With its timeless crew neck design and long sleeves, it's ideal for layering or wearing solo on cooler days. Thoughtfully designed with branded hem labels for irritation-free comfort, this t-shirt combines style with practicality. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Whether you're heading to the office, lounging at home, or going out, this piece adapts effortlessly to any occasion. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-08-13T08:03:11Z
+  Updated: 2026-08-30T12:47:16Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -873,7 +853,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
     Price: £49.00 GBP
 - [Long Sleeve Cotton Modal Scoop Neck T-Shirt](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt): Discover effortless style with our Long Sleeve Scoop Neck T-Shirt, a timeless addition to your wardrobe. Crafted from a premium cotton-modal blend in Portugal, this t-shirt offers unparalleled softness, breathability, and a gentle stretch for all-day comfort. The elegant scoop neckline enhances its versatility, making it perfect for layering or wearing as a standalone piece. Designed with practicality and comfort in mind, the white version features a slightly thicker fabric to minimise transparency. Thoughtfully placed branded hem labels ensure irritation-free wear. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-08-21T13:22:06Z
+  Updated: 2026-08-31T17:30:23Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -947,7 +927,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
     Price: £59.00 GBP
 - [Scoop Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt): Refresh your everyday wardrobe with our Scoop Neck Cotton Modal Blend T-Shirt, a perfect combination of comfort, style, and sustainability. Made from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it ideal for year-round wear. The classic scoop neckline flatters all body shapes, adding a touch of timeless elegance to this versatile staple. Designed with practicality in mind, this t-shirt features a tailored fit and irritation-free branded hem labels, ensuring all-day comfort and effortless styling. Style it with jeans for casual weekends, layer under jackets for work, or pair with skirts for a polished look. Whether dressed up or down, it's the ultimate wardrobe essential. Available in UK sizes 6-18. Machine washable at 30°C.
-  Updated: 2026-08-20T01:37:46Z
+  Updated: 2026-09-03T13:05:52Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Short Sleeve T-shirt
   Availability: Available
@@ -1129,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
     Price: £49.00 GBP
 - [Half Sleeve Cotton Modal Scoop Neck T-Shirt](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt): Refresh your wardrobe with our Half Sleeve Scoop Neck T-Shirt, a perfect balance of elegance and comfort. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is irresistibly soft, lightweight, and breathable. The scoop neckline creates a flattering silhouette, while the half-sleeve design adds versatility to this timeless staple. Perfect for layering or wearing on its own, this t-shirt is ideal for casual outings, workdays, or relaxed weekends. With its slightly thicker white option to minimize transparency and branded labels positioned on the hem to avoid irritation, it's a thoughtfully designed piece you'll reach for every day. Style it with jeans for casual weekends, layer under blazers for work, or pair with skirts for a polished look. Available in UK sizes 6-18. Machine washable at 30°C.
-  Updated: 2026-08-24T15:51:11Z
+  Updated: 2026-09-02T10:41:41Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Half Sleeve T-shirt
   Availability: Available
@@ -1339,7 +1319,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Natural_Alpaca_Alpaca_Scarf.png?v=1786028934
     Price: £110.00 GBP
 - [3/4 Sleeve Scoop Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt): Elevate your everyday essentials with our 3/4 Sleeve Scoop Neck T-Shirt, a perfect blend of comfort and style. Crafted from a luxurious cotton-modal fabric in Portugal, this wardrobe staple is designed to keep you looking and feeling great all day long. The scoop neckline adds a touch of elegance while offering a flattering fit for all body shapes. Whether you're dressing up for an evening out or keeping it casual, this versatile t-shirt adapts effortlessly to any look. The breathable, lightweight fabric and tailored design make it a reliable choice for every season. Style it with jeans for relaxed weekends, layer under blazers for work, or pair with skirts for a polished evening look. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-08-25T10:01:28Z
+  Updated: 2026-09-02T10:41:40Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's 3/4 Sleeve T-shirt
   Availability: Available
@@ -1481,7 +1461,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
     Price: £54.00 GBP
   - [Black / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276751173)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
     Price: £54.00 GBP
   - [White / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276783941)
@@ -1541,7 +1521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
     Price: £54.00 GBP
 - [Roll Neck Micro Modal Top](https://peppervale.co.uk/products/roll-neck-micro-modal-top): Meet our best- Micro Modal Roll Neck Top, the ultimate combination of elegance, comfort, and versatility. Crafted from luxuriously soft and sustainably sourced TENCEL™ Modal with Micro technology in Portugal, this top offers unparalleled softness, breathability, and stretch, making it perfect for layering or wearing on its own. The roll neck design adds a touch of sophistication, while the lightweight material ensures all-day comfort. Designed with a flattering, tailored fit and irritation-free branded hem labels, this roll neck is a timeless wardrobe essential. Style it with tailored trousers for the office, layer under blazers and cardigans, or pair with jeans for casual weekends. Whether dressed up or down, it's the perfect piece for cooler weather and transitional seasons. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-08-13T08:03:10Z
+  Updated: 2026-09-01T12:48:37Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -1679,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
     Price: £79.00 GBP
 - [Linen T-shirt](https://peppervale.co.uk/products/linen-t-shirt): Women's Linen T-Shirt – 100% Linen Stay cool and stylish in our Linen T-Shirt, the perfect addition to your warm-weather wardrobe. Made from 100% linen in Portugal, this t-shirt is naturally breathable, lightweight, and moisture-wicking, keeping you comfortable even on the hottest days. With its relaxed fit and classic crew neck design, it's a versatile staple that effortlessly combines comfort and sophistication. Thoughtfully designed with branded hem labels for irritation-free comfort, this t-shirt is an essential piece for all-day wear. Style it with linen trousers for a coordinated summer look, pair with denim shorts for weekend wear, or layer under a blazer for smart-casual occasions. The natural linen fabric softens with each wash. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry. Linen naturally softens with each wash.
-  Updated: 2026-08-20T11:31:38Z
+  Updated: 2026-09-01T17:28:16Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Short Sleeve T-shirt
   Availability: Available
@@ -1805,7 +1785,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
     Price: £55.00 GBP
 - [Striped Crew Neck T-shirt](https://peppervale.co.uk/products/striped-crew-neck-t-shirt): Timeless and versatile, our Striped Crew Neck T-Shirt is the perfect balance of style and practicality. Crafted from a premium organic cotton blend in the UK, this t-shirt is luxuriously soft, breathable, and lightweight, offering unmatched comfort throughout the day. The classic striped design and flattering long sleeves make it a wardrobe staple for all seasons. Designed for everyday wear, this t-shirt pairs effortlessly with everything from jeans to tailored trousers. Style it with denim for casual weekends, layer under blazers for smart-casual looks, or pair with skirts for a polished outfit. The irritation-free branded hem labels and tailored fit ensure both style and practicality, making it a go-to piece for any occasion. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-08-13T08:03:11Z
+  Updated: 2026-08-27T04:47:16Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -1917,7 +1897,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
     Price: £59.00 GBP
 - [Organic Colours Tank Top Womens](https://peppervale.co.uk/products/organic-colours-tank-top-womens): The Organic Colours tank top is a simple, 100% organic cotton vest available in a wide selection of colours. It's a customer favourite and can be worn as an undervest in winter or as a lightweight, breathable vest in the summer. An ultimate wardrobe staple.
-  Updated: 2026-08-25T10:41:57Z
+  Updated: 2026-09-03T23:12:16Z
   Vendor: Earth Wardrobe
   Product Type: 
   Availability: Available
@@ -1935,7 +1915,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
     Price: £8.96 GBP
   - [XS / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376267589)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
     Price: £10.30 GBP
   - [XS / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376300357)
@@ -2149,7 +2129,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-2749_a76fd729-7cd5-4cd7-abf1-b0972eb8d67a.png?v=1786029432
     Price: £30.00 GBP
 - [Sleeveless Blue Pink Floral Maxi Dress](https://peppervale.co.uk/products/sleeveless-blue-pink-floral-maxi-dress): Say hello to effortless holiday style with our Sleeveless Blue Pink Floral Maxi Dress – a stunning full-length piece designed to flatter and flow. With a classic round neckline and sleeveless design, this plus-size summer dress is light, breathable, and perfect for warm-weather days. The bold blue and pink floral print adds a pop of colour, while the crease-resistant fabric makes it an ideal travel companion. Whether you're strolling through the city or lounging by the beach, this maxi dress delivers easy elegance with zero fuss. Product Features: 🌸 Bold blue and pink floral print – Bright, feminine, and eye-catching 👗 Sleeveless maxi design – Full-length style perfect for summer days 🔵 Round neckline – Clean, classic and flattering 🚫 Crease-resistant fabric – Ideal for packing and travel ➕ Perfect for plus-size women – Flattering fit for sizes 14–28 The ultimate throw-on-and-go summer dress – easy, elegant, and made to rock your curves.
-  Updated: 2026-08-24T06:33:11Z
+  Updated: 2026-09-01T07:47:01Z
   Vendor: rockthosecurves
   Product Type: Dresses
   Availability: Available
@@ -2171,7 +2151,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/STRAIGHT_MAXI_BU-PI.png?v=1786029432
     Price: £33.00 GBP
   - [BLUE / UK 22-24](https://peppervale.co.uk/products/sleeveless-blue-pink-floral-maxi-dress?variant=58787410051397)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/STRAIGHT_MAXI_BU-PI.png?v=1786029432
     Price: £33.00 GBP
   - [BLUE / UK 26-28](https://peppervale.co.uk/products/sleeveless-blue-pink-floral-maxi-dress?variant=58787410084165)
@@ -2393,7 +2373,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-4555.png?v=1786029432
     Price: £18.00 GBP
 - [Black Pink Floral Short Sleeve Stretchy Midi Dress](https://peppervale.co.uk/products/black-pink-floral-short-sleeve-stretchy-midi-dress): Bring colour and comfort together with the ROCKTHOSECURVES™ Black Pink Floral Short Sleeve Stretchy Midi Dress — a flattering, easy-to-wear style designed to move beautifully with your curves. Featuring a soft, stretchy fabric, this midi dress offers a comfortable fit, while the short sleeves and classic midi length make it perfect for everyday wear, holidays, or casual occasions. The black and pink floral print adds a fresh, feminine touch that’s easy to dress up or down. Effortless, flattering and versatile — this is the kind of dress you’ll reach for again and again. ✨ Why you’ll love it:✔ Soft, stretchy fabric for all-day comfort✔ Flattering midi length✔ Short sleeves for easy wear✔ Eye-catching blue & pink floral print✔ Designed to suit plus size figures✔ Slip-on style — no fuss, no effort A feel-good dress that combines colour, comfort and confidence — exclusively from ROCKTHOSECURVES™. Dresses from ROCKTHOSECURVES™ 💖
-  Updated: 2026-08-13T08:03:08Z
+  Updated: 2026-09-03T09:37:21Z
   Vendor: rockthosecurves
   Product Type: Dresses
   Availability: Available
@@ -2501,7 +2481,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1275.png?v=1786029433
     Price: £29.00 GBP
 - [Flared Hem Studded Butterflies Long Top](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top): 🦋 Add a touch of sparkle to your everyday wardrobe with our Flared Hem Studded Butterflies Long Top. Beautifully designed with shimmering studded butterfly embellishments and a flattering flared hem, this stylish longline top offers the perfect blend of comfort and elegance. The relaxed fit drapes effortlessly, creating a flattering silhouette that's ideal for everyday wear. Perfect for pairing with leggings, jeans or jeggings, this versatile top is long enough to provide extra coverage while keeping your look effortlessly chic. Whether you're shopping, meeting friends or heading out for lunch, this is a piece you'll wear again and again. ✨ Why You'll Love It: 🦋 Sparkling studded butterfly design 👚 Flattering longline length 🌸 Stylish flared hem for a feminine silhouette 🌿 Soft, lightweight and comfortable fabric 💕 Relaxed fit for effortless everyday wear 👖 Perfect with leggings, jeans or jeggings ☀️ Ideal for casual days, holidays and weekends 💖 Designed to complement curves Style with skinny jeans and trainers for a relaxed daytime outfit, or pair with leggings, ankle boots and a statement bag for an effortlessly stylish look. Sparkly • Flattering • Effortlessly Stylish ✨ 💖 A must-have long top from Rockthosecurves™. ✨
-  Updated: 2026-08-25T10:59:12Z
+  Updated: 2026-08-26T06:07:01Z
   Vendor: rockthosecurves
   Product Type: swing top
   Availability: Available
@@ -2519,7 +2499,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_3264.png?v=1786029432
     Price: £28.00 GBP
   - [Black / UK 20](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top?variant=58787412672837)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_3264.png?v=1786029432
     Price: £28.00 GBP
   - [Black / UK 22-24](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top?variant=58787412705605)
@@ -2754,210 +2734,12 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
     Price: £36.00 GBP
-- [ROCKTHOSECURVES SHORT SLEEVE HANKY HEM STUDDED OWL LONG LENGTH TOP](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top): Transform your look with the stunning ROCKTHOSECURVES SHORT SLEEVE HANKY HEM STUDDED OWL LONG LENGTH TOP. Featuring a round neck, hanky hem, and intricate studded owl detailing, this top is perfect for adding a touch of charm to any outfit. Elevate your style and embrace your curves with this must-have piece from Rockthosecurves.
-  Updated: 2026-08-13T08:03:05Z
-  Vendor: rockthosecurves
-  Product Type: Tops
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428_6657397d-cc78-406a-a1f8-eb74c6b24e48.png?v=1786029433
-  - [Fuchsia Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414507845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Fuchsia Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414540613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Fuchsia Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414573381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Fuchsia Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414606149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Fuchsia Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414638917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Fuchsia Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414671685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414704453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414737221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414769989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414802757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414835525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Royal Blue Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414868293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
-    Price: £23.00 GBP
-  - [Black Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414901061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Black Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414933829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Black Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414966597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Black Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414999365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Black Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415032133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Black Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415064901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415097669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415130437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415163205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415195973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415228741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Wine Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415261509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415294277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415327045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415359813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415392581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415425349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Grey Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415458117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415490885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415523653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415556421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415589189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415621957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [Purple Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415654725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415687493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415720261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415753029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415785797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415818565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [White Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415851333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415884101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415916869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415949637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415982405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787416015173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-  - [Mocha Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787416047941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
-    Price: £23.00 GBP
-[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MTUyMjc1NywibGFzdF92YWx1ZSI6IjE2MDcxNTQxNTIyNzU3In0%3D)
+[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MTQ4OTk4OSwibGFzdF92YWx1ZSI6IjE2MDcxNTQxNDg5OTg5In0%3D)
 
 ## Collections
 
 - [Women’s Clothing](https://peppervale.co.uk/collections/womens-clothing): Shop women's clothing at PepperVale, including dresses, tops, knitwear, jackets and easy everyday layers from independent brands, with UK delivery.
-  Updated: 2026-08-25T11:38:39Z
+  Updated: 2026-08-28T15:08:42Z
   Total Products: 13731
 - [Dresses & One-Pieces](https://peppervale.co.uk/collections/dresses-one-pieces): Explore PepperVale’s dresses and one-piece styles, from easy day dresses to standout occasion pieces. Shop women’s fashion with UK delivery and secure checkout.
   Updated: 2026-08-11T17:24:24Z
@@ -2981,7 +2763,7 @@
   Updated: 2026-08-11T21:34:12Z
   Total Products: 195
 - [Shorts](https://peppervale.co.uk/collections/shorts): Discover PepperVale’s women’s shorts for sunny days, holidays and effortless everyday outfits. Shop UK delivery with secure checkout.
-  Updated: 2026-08-25T11:38:39Z
+  Updated: 2026-08-28T15:05:39Z
   Total Products: 554
 - [Footwear](https://peppervale.co.uk/collections/footwear): Shop shoes, boots, trainers, sandals and safety footwear at PepperVale, with trusted brands, clear UK delivery information and secure checkout.
   Updated: 2026-08-13T07:10:31Z
@@ -2993,7 +2775,7 @@
   Updated: 2026-08-11T17:24:14Z
   Total Products: 255
 - [Loungewear & Sleepwear](https://peppervale.co.uk/collections/loungewear-sleepwear): Shop women’s loungewear, pyjamas and sleepwear at PepperVale, with comfortable everyday styles from independent brands and secure UK checkout.
-  Updated: 2026-08-13T10:15:51Z
+  Updated: 2026-08-28T15:08:42Z
   Total Products: 563
 - [Activewear](https://peppervale.co.uk/collections/activewear): Shop women’s activewear at PepperVale, including leggings, tops and comfortable layers for workouts and everyday movement from independent brands.
   Updated: 2026-08-13T09:08:24Z
@@ -3011,28 +2793,28 @@
   Updated: 2026-08-25T11:38:39Z
   Total Products: 5586
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-08-25T19:37:38Z
-  Total Products: 933
+  Updated: 2026-09-03T12:30:13Z
+  Total Products: 928
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-08-25T21:08:50Z
-  Total Products: 400
+  Updated: 2026-09-03T21:40:29Z
+  Total Products: 392
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
   Updated: 2026-08-25T04:55:04Z
   Total Products: 2534
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-08-25T04:54:43Z
+  Updated: 2026-08-28T15:05:39Z
   Total Products: 15190
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-08-25T04:54:19Z
-  Total Products: 10052
+  Updated: 2026-09-01T08:07:21Z
+  Total Products: 10051
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-08-25T04:54:31Z
+  Updated: 2026-08-31T06:17:22Z
   Total Products: 15695
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-08-25T11:38:39Z
-  Total Products: 12115
+  Updated: 2026-09-01T08:07:21Z
+  Total Products: 12116
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-08-25T04:53:58Z
+  Updated: 2026-08-28T07:14:54Z
   Total Products: 5209
 - [Homeware & Décor](https://peppervale.co.uk/collections/homeware-decor)
   Updated: 2026-08-19T09:39:19Z
@@ -3141,6 +2923,54 @@
     Updated: 2026-08-25T07:17:25Z
     Author: PepperVale
     Tags: budget fashion, everyday style, uk clothing sizes, uk women's fashion, womenswear trends
+  - [Trending Sustainable Fashion Tips You Should Know](https://peppervale.co.uk/blogs/news/trending-sustainable-fashion-tips-you-should-know): Trending Sustainable Fashion Tips You Should Know
+    Updated: 2026-08-26T01:50:34Z
+    Author: PepperVale Editorial Team
+  - [Duvet Cover Set UK: The Complete Buyer's Guide](https://peppervale.co.uk/blogs/news/duvet-cover-set-uk): Find the perfect duvet cover set UK shoppers can trust. Learn sizing, materials, styling, and care tips to make the right choice for your bed.
+    Updated: 2026-08-26T07:14:59Z
+    Author: PepperVale
+    Tags: bamboo duvet cover, bed linen guide, bedding care tips, duvet cover set uk, uk bedding sizes
+  - [Bamboo Fitted Sheet Buying Guide for UK Shoppers](https://peppervale.co.uk/blogs/news/bamboo-fitted-sheet): Find the perfect bamboo fitted sheet for your mattress. Learn about deep-pocket fit, fabric construction, moisture-wicking performance, and care tips
+    Updated: 2026-08-27T07:12:12Z
+    Author: PepperVale
+    Tags: bamboo bedding, bamboo fitted sheet, bamboo sheets UK, bedding care, deep pocket sheets
+  - [Seven Ways to Make Your Garden More Eco-Friendly and Productive](https://peppervale.co.uk/blogs/news/seven-ways-to-make-your-garden-more-eco-friendly-and-productive): Seven Ways to Make Your Garden More Eco-Friendly and Productive
+    Updated: 2026-08-28T01:46:07Z
+    Author: PepperVale Editorial Team
+  - [Women's T-Shirts UK: The Complete Buying and Styling Guide](https://peppervale.co.uk/blogs/news/womens-t-shirts-uk): Shop smarter for women's t-shirts UK with our guide to cuts, fabrics, sizing, care, and where to buy the best everyday tees online.
+    Updated: 2026-08-28T07:14:13Z
+    Author: PepperVale
+    Tags: bamboo t-shirts, everyday tees, t-shirt sizing, uk t-shirt guide, womens t-shirts uk
+  - [Bamboo Bedding Set Buying Guide for UK Shoppers](https://peppervale.co.uk/blogs/news/bamboo-bedding-set): Find the right bamboo bedding set for your UK bedroom. Learn what to look for, sizing, care tips, and how bamboo compares to cotton.
+    Updated: 2026-08-29T07:34:40Z
+    Author: PepperVale
+    Tags: bamboo bedding set, bamboo duvet cover, bamboo sheets UK, bedding buying guide, sustainable bedding
+  - [Soft Bed Sheets UK: A Buyer's Guide to Truly Soft Bedding](https://peppervale.co.uk/blogs/news/soft-bed-sheets-uk): Soft Bed Sheets UK. Find the softest bed sheets in the UK with our buyer's guide. Learn what makes sheets feel soft, how fibre and weave matter, and which
+    Updated: 2026-08-30T07:27:26Z
+    Author: PepperVale
+    Tags: bamboo bedding, best bed sheets, soft bed sheets uk, thread count, uk bedding guide
+  - [How to Choose the Right Eco-Conscious Household Products for Beginners](https://peppervale.co.uk/blogs/news/how-to-choose-the-right-eco-conscious-household-products-for-beginners): How to Choose the Right Eco-Conscious Household Products for Beginners
+    Updated: 2026-08-31T02:46:24Z
+    Author: PepperVale Editorial Team
+  - [Luxury Bed Linen UK: A Buyer's Guide to Real Quality](https://peppervale.co.uk/blogs/news/luxury-bed-linen-uk): A practical buyer's guide to luxury bed linen UK shoppers can trust. Learn what really defines quality, from thread count to weave and craftsmanship.
+    Updated: 2026-08-31T07:16:27Z
+    Author: PepperVale
+    Tags: bamboo bedding, bed linen guide, luxury bed linen uk, premium bedding, thread count explained
+  - [Affordable Women's Clothing UK: Smart Shopping Guide](https://peppervale.co.uk/blogs/news/affordable-womens-clothing-uk): Master affordable women's clothing UK shopping with expert strategies for budget brands, quality buying, and smart saving. Shop smarter in 2026.
+    Updated: 2026-09-01T08:02:50Z
+    Author: PepperVale
+    Tags: affordable wardrobe, affordable women's clothing UK, budget fashion UK, UK clothing deals, UK fashion tips
+  - [A Beginner's Guide to Understanding Renewable Energy Sources at Home](https://peppervale.co.uk/blogs/news/a-beginners-guide-to-understanding-renewable-energy-sources-at-home): A Beginner's Guide to Understanding Renewable Energy Sources at Home
+    Updated: 2026-09-02T01:52:30Z
+    Author: PepperVale Editorial Team
+  - [Capri Trousers for Women: A Practical UK Buying Guide](https://peppervale.co.uk/blogs/news/capri-trousers-for-women): Find the best capri trousers for women with our practical UK guide. Learn about fits, fabrics, sizing and styling tips to shop with confidence.
+    Updated: 2026-09-02T07:43:51Z
+    Author: PepperVale
+    Tags: capri trousers, cropped trousers, summer trousers, UK fit guide, women's capris
+  - [Womens Midi Dresses UK: A Practical Buying Guide](https://peppervale.co.uk/blogs/news/womens-midi-dresses-uk): Shop womens midi dresses UK with confidence. Learn midi length, UK sizing, fabrics, styling for every occasion, and value-driven buying tips.
+    Updated: 2026-09-03T07:07:01Z
+    Author: PepperVale
+    Tags: midi dress fabrics, midi dress guide, midi dress styling, UK dress sizing, womens midi dresses uk
 
 ## Store Pages
 
