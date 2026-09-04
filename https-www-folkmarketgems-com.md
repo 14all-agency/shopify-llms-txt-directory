@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2023-12-09T13:41:33Z
 - Contact Email: info@folkmarketgems.com
-- Updated At: 2026-08-27T22:48:52.122Z
+- Updated At: 2026-09-04T00:00:27.288Z
 
 ## Products
 
 - [Natural Kyanite Crystals 1kg Bulk - Blue Kyanite Healing Stones Wholesale](https://www.folkmarketgems.com/products/1kg-natural-kyanite-crystals): Buy 1kg natural rough kyanite crystals wholesale. Premium blue kyanite healing stones for jewelry making, meditation, chakra balancing. Bulk gemstones at best prices!
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:28Z
   Vendor: Folkmarketgems
   Product Type: Raw Crystals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/kynite1_1.jpg?v=1734723739
   Price: $450.00 USD
 - [Facet Grade Raw Lemon Quartz for Faceting - 100 to 400 Gram Deals](https://www.folkmarketgems.com/products/facet-grade-natural-lemon-quartz): Explore our deals on Facet Grade Raw Lemon Quartz for faceting. Available in sizes ranging from 100 to 400 grams, these heated lemon quartz stones offer excellent color, clarity, and shape for faceting. Shop now for high-quality raw stones!
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:29Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
@@ -35,175 +35,175 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/2BDF86B2-B394-4269-AD3C-24032F88AB6A.jpg?v=1734723742
     Price: $550.00 USD
 - [4mm Round Brilliant Rainbow Sapphires - Loose Gemstones](https://www.folkmarketgems.com/products/4mm-round-brilliant-rainbow-sapphires): Discover our 4mm Round Brilliant Rainbow Sapphires. These loose gemstones are perfect for creating stunning jewelry pieces. Shop now for high-quality sapphires.
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:29Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/3mm.png?v=1734723740
   Price: $1,400.00 USD
 - [Rutile Quartz Crystals - High-Quality Mineral Specimens](https://www.folkmarketgems.com/products/golden-rutile-quartz-for-lapidary): Explore our collection of Rutile Quartz Crystals. High-quality mineral specimens with excellent crystallization. Perfect for collectors and enthusiasts.
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:29Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/23e_1.jpg?v=1734723739
   Price: $890.00 USD
 - [Natural Rough Spinels - 1 KG | Raw Spinel for Lapidary Artists](https://www.folkmarketgems.com/products/1-kg-natural-rough-burmese-spinels): Discover our 1 KG parcel of natural rough spinels, perfect for beading, wire wrapping, and cabbing. These Burmese spinels are of high quality and come in a variety of colors. Ideal for lapidary artists and jewelry makers.
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:30Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/spinel8888.jpg?v=1773489503
   Price: $490.00 USD
 - [Facet Grade Blue Raw Topaz 500 ct - Ideal for Faceting](https://www.folkmarketgems.com/products/rough-blue-topaz): Discover our Facet Grade Blue Raw Topaz, a 500-carat gemstone perfect for faceting. This rough topaz is of high quality and ideal for jewelry-making. Shop now for unique, one-of-a-kind pieces!
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:30Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/348360182_786422556533601_5429662787762975746_n.jpg?v=1734723745
   Price: $750.00 USD
 - [1kg Natural Rose Quartz Rough | Cabbing Lapidary Material](https://www.folkmarketgems.com/products/1-killo-gram-natural-rose-quartz): Premium 1kg rose quartz rough for cabochons, carving, tumbling. Natural pink translucent stones, 2-20g pieces. Untreated lapidary material, bulk pricing.
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:31Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/rose6.jpg?v=1734723751
   Price: $550.00 USD
 - [141 carat Natural Double Terminated Quartz Crystal with Petroleum Inclusion](https://www.folkmarketgems.com/products/141ct-double-terminated-quartz-crystal-with-petroleum-inclusion): This is a parcel of 141 ct small size petroluem included quartz crystals. The quartz are double terminated and popular as diamond quartz herkimer like crystals. Total Weight: 141 carats Total Pieces: 114 pieces Average Sizes of Pieces: 1 carat to 6.20carat per piece : No Origin: Baluchistan, Pakistan This is a very nice parcel of Double Terminated Quartz Crystal having petroleum inclusion. Some pieces have black carbon inclusions and mud inclusions which are making the stones very lovely. The stones are from the Baluchistan area. Baluchistan is an oil-rich region of Pakistan. It has many other minerals like Brucite, Uranium, gold, copper, coal, and many others. Watch Video about our Quartz Stock
-  Updated: 2026-08-26T20:54:18Z
+  Updated: 2026-09-01T08:02:32Z
   Vendor: Rough Crystals
   Product Type: Double terminated Quartz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/img_8781.jpg?v=1734723758
   Price: $450.00 USD
 - [200 carats Natural Gemy Rough Mali Garnet Gems Package](https://www.folkmarketgems.com/products/natural-gemy-rough-mali-garnet-gems-package): Mali Garnet parcel is Very gemy can be cut in beads, cabs or some good cutting grade pieces. Clarity is VS. Garnets have a very nice round shape perfect for beading. The pieces are gemy and have great colour and luster. However, there will be a few inclusions in the cutting. The stones are from Mali, Africa. The lot weight is 400 carats. Stone: Garnet Colors: green, light green, dark green, brownish-green, yellowish-green. Clarity: si to vs Weight: 200 carats Sizes: 5mm to 13mm size : No Origin: Mali
-  Updated: 2026-08-26T20:54:19Z
+  Updated: 2026-09-01T08:02:32Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/mg3.jpg?v=1734723762
   Price: $550.00 USD
 - [500 Grams Rough Fadden Quartz Crystals for  | Raw Fadden Quartz Crystals](https://www.folkmarketgems.com/products/500-grams-natural-fadden-quartz-crystals-for-): This is a parcel of 500 grams raw Fadden quartz crystals from Baluchistan, Pakistan. The quartz crystals has fadden lines in the midst of the stones. Stone: Raw faden Quartz Crystals Weight: 500 grams Sizes: 10 to 30mm Origin: Pakistan Big pieces of Fadden Quartz are included in this package. Each piece has a unique and very perfect natural shape. Each piece is very complete.Sizes: 10mm to 2 inchesOrigin: Baluchistan, PakistanShipping: DHL Checkout online with Paypal or .
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:32Z
   Vendor: Rough Crystals
   Product Type: Quartz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/faden-quartz43.jpg?v=1750629100
   Price: $250.00 USD
 - [400 grams Double Terminated Quartz Crystal (Herkimer Diamond like)](https://www.folkmarketgems.com/products/400gram-double-terminated-quartz-crystal-herkimer-like): This is a very nice parcel of Double Terminated Quartz Crystal. They have nice clarity, stunning brilliance, and shapes. They are of very very good quality quartz crystals. Details of Deals Stone: Raw Herkimer Diamond-like Quartz Crystals Total Weight: 400 grams Average Sizes of Pieces: 1 carat to 6.20carat per piece Transparency: Good Transparency : No Origin: Baluchistan, Pakistan Some pieces have black carbon inclusions and mud inclusions which are making the stones very lovely. The stones are from the Baluchistan area. Baluchistan is oil-rich region of Pakistan. It has many other minerals like Brucite, Uranium, gold, copper, coal, and many others.
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:33Z
   Vendor: Rough Crystals
   Product Type: Double terminated Quartz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/dq.jpg?v=1734723766
   Price: $750.00 USD
 - [1000 Grams Natural Terminated Rough Quartz Crystals](https://www.folkmarketgems.com/products/1kg-natural-terminated-rough-quartz-crystals): Take advantage to acquire a bulk  of 1000 grams of terminated rough Quartz Crystal in a wholesale price. These raw quartz crystals have a natural shape with either double-sided termination or single-sided termination. It means that termination will be on both sides or on one side. These crystals are based on natural clarity and natural distinct shapes. Sizes: 10mm to 1.5 inchesOrigin: Baluchistan, PakistanSizes: 10mm to 1.5 inchesOrigin: Baluchistan, Pakistan Watch about our Quartz Stock
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:33Z
   Vendor: Rough Crystals
   Product Type: Quartz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/qc6.jpg?v=1734723769
   Price: $250.00 USD
 - [Shop Wholesale Rough Idocrase / Vesuvianite Hydrogrossular Garnet 1 Killo](https://www.folkmarketgems.com/products/idocrase-vesuvianite-hydrogrossular-garnet-1-killo): This is one Killo Lot package of Idocrase / Vesuvianite Hydrogrossular Garnet. The average piece weight is 35 grams to 100 + grams. They are of nice colour and will… COLOUR Green GEMSTONE TYPE Idocrase / Vesuvianite Hydrogrossular Garnet  No  ORIGIN OF STONE Baluchistan, Pakistan CUSTOM COLOR Green DIMENSION 100 to 1000 Killo sizes more or less per piece size WEIGHT 1000 Grams / 1 Killo Gram
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:33Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/15033746_1447958395232678_1698670967_n-768x576.jpg?v=1734723770
   Price: $680.00 USD
 - [600 grams Natural Rough Kunzite Crystal](https://www.folkmarketgems.com/products/600grams-natural-rough-kunzite-crystal): This is 600 grams Parcel of Kunzite crystals having multiple colours. No . CODE rgems-00013 STONE NAME Kunzite STONE TYPE Rough Crystal DIMENSION 1 to 4 gram size TOTAL WEIGHT 600 grams TOTAL PIECES lumsum CLARITY medium grade  No COLOR Pink, green, yellow, white, grey SHAPE crystals ORIGIN OF STONE Afghanistan OTHER INFO
-  Updated: 2026-08-26T20:54:33Z
+  Updated: 2026-09-01T08:02:33Z
   Vendor: Rough Crystals
   Product Type: Kunzite
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/kunzite.jpg?v=1734723772
   Price: $450.00 USD
 - [1 Killo Gram Natura Raw Morganite Gemstones](https://www.folkmarketgems.com/products/natural-raw-morganite-gemstones): Grab this 1000 grams Parcel of rough morganite gemstones for carving and cabbing. The Colour of morganite stone is very very nice peach pink. STONE NAME: Morganite STONE TYPE : Rough DIMENSION : 1 to 4 gram size per piece TOTAL WEIGHT: 1000 grams TOTAL PIECES : lumpsum CLARITY : medium grade : No COLOR : Pink, orangish pink, peach SHAPE : raw ORIGIN OF STONE: Madagascar OTHER INFO: Stones are very very nice in color and size, perfect for carving and cabbing
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:34Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/morg1.jpg?v=1734723774
   Price: $799.00 USD
 - [40 Kilo Natural Rough Ruby on Zoisite | Wholesale Raw Ruby on Zoisite](https://www.folkmarketgems.com/products/raw-ruby-on-zoisite-for-cabbing-in-bulk): This is a 40-kilogram parcel of raw Ruby on Zoisite gemstones, ideal for carving and cabbing. Each piece ranges in dimension from 50 grams to 1000 grams, with a mix of small, medium, and large sizes in one lot. The stones feature a beautiful combination of pink, pinkish red, and green colors, creating a watermelon-like pattern with green on the sides and red in the center. The material is opaque, untreated, and completely natural, ensuring authentic lapidary quality. The parcel includes lump sum mixed sizes ranging from 10 grams to 500 grams per piece, offering flexibility for different creative uses. With a total weight of 40,000 grams (40 kilograms), this parcel is an excellent option for wholesalers, artisans, and gemstone carvers. The stones are sourced from Madagascar, a region renowned for producing vibrant Ruby on Zoisite with excellent natural patterns. Raw Ruby on Zoisite is commonly carved, cabbed into cabochons, or tumbled, making it perfect for custom jewelry, artistic carvings, and collector’s items. These stones have very attractive colors and sizes, making them perfect for both professional lapidaries and collectors. Frequently Asked Questions About Raw Ruby on Zoisite What is Ruby on Zoisite used for? Ruby on Zoisite is commonly carved into decorative objects, shaped into cabochons for jewelry, or tumbled for collections. Its vivid pink-and-green contrast makes it a favorite for lapidary projects. What sizes are included in this 40 kg parcel? The parcel includes a mix of sizes from 10 grams up to 1000 grams per piece. Typical sizes include 10 g, 20 g, 50 g, 100 g, 200 g, 400 g, and 500 g, making it suitable for both small and large projects. Is this Ruby on Zoisite treated? No, the stones are untreated and presented in their natural raw form. They have not undergone any color or clarity enhancements. Where does this Ruby on Zoisite come from? This parcel originates from Madagascar, which is known for producing high-quality Ruby on Zoisite with striking watermelon-like patterns. Why does Ruby on Zoisite have a watermelon-like appearance? The watermelon pattern comes from the natural combination of green zoisite surrounding red ruby inclusions. This creates a unique color contrast that resembles the look of a watermelon slice. What are the benefits of buying raw Ruby on Zoisite in wholesale? As this is a wholesale parcel of raw Ruby on Zoisite, it helps you save costs compared to buying already polished stones. The bulk lot pricing offers significant discounts on the total price.
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:34Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ruby_on_zoiit3.jpg?v=1734723775
   Price: $26,000.00 USD
 - [40 KG Natural Rare Grandidierite Stones - Extremely Rarest Stone](https://www.folkmarketgems.com/products/extremely-rare-cabs-grade-raw-grandidierite-stones): Grab the 40 Kilo Gram Natural Rare rough Grandidierite with us. Sizes are 10, 20, 50, 100 gram per piece. The Colour is very nice. Perfect for cabbing. Check the video in a detailed description. The minimum order should be 25 KG. for getting price, please contact us by Email. STONE NAME Grandidierite STONE TYPE Rough DIMENSION under 10 to 100 gram size in between TOTAL WEIGHT 40 Killo Gram TOTAL PIECES lumsum mixed size parcel CLARITY medium grade  No COLOR Indicolite, sea green, blue, bluish green SHAPE raw ORIGIN OF STONE Madagascar OTHER INFO Stones are very very nice in colour and size, perfect for carving and cabbing
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:34Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/wrqwe.jpg?v=1734723777
   Price: $22,000.00 USD
 - [1 Kilo Natural Copal Stones / Copal (Amber Variety) for ](https://www.folkmarketgems.com/products/1killo-natura-copal): This is 1000 grams Parcel of rough copal for carving, cabbing. The Colour is very very nice. STONE NAME copal STONE TYPE Rough DIMENSION 1 to 5 inches plus TOTAL WEIGHT 1000 grams TOTAL PIECES lumsum mixed size parcel CLARITY medium grade  No COLOR yellow, orangish brown, brown SHAPE raw ORIGIN OF STONE Burma OTHER INFO Stones are very very nice in colour and size, perfect for carving and cabbing Know about Fake and Real Copal
-  Updated: 2026-08-26T20:54:22Z
+  Updated: 2026-09-01T08:02:35Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/copal.jpg?v=1734723778
   Price: $490.00 USD
 - [1 Killo Gram Natural Raw Aquamarine for Cabbing /Carving](https://www.folkmarketgems.com/products/1kg-rough-aquamarine-bulk): Introducing the beautiful color cabs grade raw aquamarine stones. The aquamarine is very nice in color and sizes. Perfectly suited for cabbing, carving or beading. If you want to resell or use for cutting, this is best for you in a cheap price. Stone: Aquamarine Sizes: under 1 to 3 gram | 2 to 15mm : No Luster: Excellent Clarity: Translucent, Transparent, a few opaque Origin: Madagascar Color: blue, bluish-green, greenish-blue Explore the raw aquamarine stones with sea green hue. Sourced from Madagascar, renowned for its top-notch aquamarine, these raw gems aquamarine gemstones eagerly await their transformation into exquisite treasures. Whether you're a seasoned lapidary or an enthusiastic hobbyist, the potential for crafting extraordinary jewelry, beadwork, cabochons, wire wrapping, and more knows no bounds with these stones. Buy now the raw aquamarine by saving in wholesale rough stones. Expose your creativity with these raw stones. Seize this exclusive opportunity to possess these gemstones and infuse your creations with an aura of awe-inspiring elegance.
-  Updated: 2026-08-26T20:54:39Z
+  Updated: 2026-09-01T08:02:35Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/aqua2.jpg?v=1734723781
   Price: $590.00 USD
 - [1 kilo gram Natural Rough Ruby Stone Blocks | Raw Ruby Hexagonal Crystals](https://www.folkmarketgems.com/products/1killo-natural-ruby-blocks): This is 1000 grams Parcel of rough ruby blocks for carving, cabbing. The shape is hexagonal with corundum marks over the slices. The blocks are in nice crystal shapes perfect for those who want to make jewelry from these raw crystals or want to keep them as raw gemstone collections. The parcel is of one killo gram in quantity with the cheapest price. Key Features of the Ruby Slices:- STONE NAME Ruby, Corundum blocks STONE TYPE Rough DIMENSION 1 to 3 gram TOTAL WEIGHT 1000 grams TOTAL PIECES lumpsum mixed size parcel CLARITY medium grade  No COLOR pink SHAPE Hexagonal Rough Crystals ORIGIN OF STONE Africa OTHER INFO Stones are very very nice in colour and size, perfect for carving and cabbing Where I can Use these Raw Ruby Crystals? Learn about Corundum / Rubies
-  Updated: 2026-08-26T20:54:33Z
+  Updated: 2026-09-01T08:02:35Z
   Vendor: Rough Crystals
   Product Type: Ruby
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/6756.jpg?v=1734723781
   Price: $380.00 USD
 - [1 killo LapisLazuli Tumbled Stone / Lapislazulli Stones for ](https://www.folkmarketgems.com/products/1kglapis-lazuli-tumble): This package is of natural lapis lazuli tumble 1 kg. The origin of lapis is Jindkh, Afghanistan. The pieces have various shapes. Some pieces have dark and some will have white calcite. STONE NAME Lapislazulli STONE TYPE cut cabs shape Brilliance Excellent luster DIMENSION under 1 to 5 gram plus TOTAL WEIGHT 1000 g TOTAL PIECES lumsum mixed sizes CLARITY opaque  No COLOR blue, royal bue, golden SHAPE Oval, Pear, Round ORIGIN OF STONE Afghanistan OTHER INFO Stones are excellent and perfect for making jewelry and jewelry designers.
-  Updated: 2026-08-26T20:54:46Z
+  Updated: 2026-09-01T08:02:36Z
   Vendor: Cabochons Tumbles
   Product Type: Lapislazulli
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/01_2.jpg?v=1734723788
   Price: $200.00 USD
 - [1Kg Black Tourmaline Tumbles Gemstones](https://www.folkmarketgems.com/products/1kg-black-tourmaline-tumbles): 1 Killo gram package of natural black tourmaline tumbled stones. The tumbles are 1 gram to 5 gram plus. STONE NAME Tourmaline STONE TYPE cut Brilliance Excellent luster DIMENSION 1 to 5 grams TOTAL WEIGHT 1000 grams TOTAL PIECES lumsp sizes CLARITY Transparent  No COLOR Black SHAPE Oval, Pear, Round ORIGIN OF STONE Skardu, Pakistan OTHER INFO Stones are excellent and perfect for making jewelry and jewelry designers.
-  Updated: 2026-08-26T20:54:47Z
+  Updated: 2026-09-01T08:02:36Z
   Vendor: Cabochons Tumbles
   Product Type: Tourmaline
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/sdc12439_1.jpg?v=1734723789
   Price: $280.00 USD
 - [1 kg Natural Serpentine Polished Tumble Stone](https://www.folkmarketgems.com/products/1kg-natural-serpentine-polished-tumble-stone): Beautiful colours of Serpentine in one KG Tumbles. This tumble is nicely cut and polished. his price is for 1 KG Lot. STONE NAME Serpentine STONE TYPE tumbled Brilliance Excellent luster DIMENSION under 1 to 5 gram TOTAL WEIGHT 1000g TOTAL PIECES lumpsum CLARITY Opaque  No COLOR Green SHAPE Tumbled ORIGIN OF STONE Afghanistan OTHER INFO -
-  Updated: 2026-08-26T20:54:48Z
+  Updated: 2026-09-01T08:02:37Z
   Vendor: Cabochons Tumbles
   Product Type: Serpentine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/85.jpg?v=1734723792
   Price: $290.00 USD
 - [60ct Hydrogrossular garnet Cabochon Stones with idocrase inclusions](https://www.folkmarketgems.com/products/60ct-hydrogrossular-garnet-cabochon-stones-with-idocrase-inclusions): These are Hydrogrossular garnet cabochons, nice translucent with idocrase green spot inclusions. The weight is approximately 60 carats for all. STONE NAME Hydroclossuar Garnets STONE TYPE cabochon Brilliance Excellent luster DIMENSION 10 x 15 mm TOTAL WEIGHT 60ct TOTAL PIECES lumpsum CLARITY Opaque  No COLOR Green SHAPE Cabochon ORIGIN OF STONE Pakistan OTHER INFO -
-  Updated: 2026-08-26T20:54:48Z
+  Updated: 2026-09-01T08:02:37Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/13087802_1745158199053212_8977318151240478560_n.jpg?v=1734723792
   Price: $200.00 USD
 - [1 KG Dark Raw Burmese Spinels for Lapidary](https://www.folkmarketgems.com/products/1-kg-dark-raw-burmese-spinels): This is 1000 grams Parcel of rough spinels. The Colour is very nice. They are perfect for making beads, wire wrapping stuff. They have mixed colors. They can also be used in other decorative crafts.  is available on wholesale bulk order price. Sizes: under 1 to 3 carat : No Origin: Burma STONE NAME Spinels STONE TYPE Rough DIMENSION under 1 to 1.40 ct TOTAL WEIGHT 1000 grams TOTAL PIECES lumpsum mixed size parcel CLARITY medium grade  No COLOR Pink, red, yellow, grey, orange, white SHAPE raw ORIGIN OF STONE Burma OTHER INFO
-  Updated: 2026-08-26T20:54:48Z
+  Updated: 2026-09-01T08:02:37Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/spinels.jpg?v=1734723795
   Price: $699.00 USD
 - [100 ct Spinel Octahedral Crystals](https://www.folkmarketgems.com/products/100ct-raw-spinel-octahedralcrystals-forsale): Offering natural raw spinel octahedral crystals. Spinels have nice crystal structure and shapes. They are perfect for collections. STONE NAME Spinels STONE TYPE Rough crystals DIMENSION under 1 to 3 ct TOTAL WEIGHT 100ct TOTAL PIECES lumpsum mixed size parcel CLARITY medium grade  No COLOR Pink, red, yellow, grey, orange, white SHAPE raw octahedral ORIGIN OF STONE Burma OTHER INFO The parcel is of 100 carats natural spinel crystals in octahedral shapes. What is Spinel Gemstones? Watch video
-  Updated: 2026-08-26T20:55:01Z
+  Updated: 2026-09-01T08:02:37Z
   Vendor: Folkmarketgems
   Product Type: Raw Crystals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/spinel_crysal.jpg?v=1734723797
   Price: $650.00 USD
 - [Fadden Quartz Crystal Pendants Sterling Silver 925 - Jewelry Deals](https://www.folkmarketgems.com/products/fadden-quartz-crystal-pendants): Beautiful Fadden quartz crystal pendants in sterling silver 925. Available in 1, 5, or 10 piece deals. Perfect for jewelry making and crystal healing.
-  Updated: 2026-08-26T20:55:01Z
+  Updated: 2026-09-01T08:02:38Z
   Vendor: Folkmarket
   Product Type: Quartz
   Availability: Available
@@ -218,7 +218,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Kunzite Crystal Pendants  Silver Sterling 925](https://www.folkmarketgems.com/products/natural-kunzite-crystal-pendants-deals): Grab the natural Kunzite crystal pendants with silver sterling 925 material. There are deals of one pendant, 5 pendants, 10 pendants. STONE NAME Kunzite STONE TYPE crystal shape Brilliance Excellent luster DIMENSION 15 to 40mm TOTAL WEIGHT under 200 grams TOTAL PIECES 1 to 10 pendants deals CLARITY transparent  No COLOR pink SHAPE Crystal ORIGIN OF STONE Afghanistan OTHER INFO -
-  Updated: 2026-08-26T22:08:55Z
+  Updated: 2026-09-01T08:02:39Z
   Vendor: Crystal Pendants
   Product Type: Kunzite
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/kunzite3_1_2_1.jpg?v=1734723809
     Price: $120.00 USD
 - [Lapis Lazuli Crystal Silver Pendants Deals](https://www.folkmarketgems.com/products/lapis-lazuli-crystal-pendants-silver-sterling): Grab  of Lapislazulli Silver Sterling Pendants. The size of the pendants varies from others. STONE NAME Lapislazulli STONE TYPE crystal shape Brilliance Excellent luster DIMENSION 15 to50mm TOTAL WEIGHT under 200 grams TOTAL PIECES 1 CLARITY opaque  No COLOR blue SHAPE Crystal ORIGIN OF STONE Afghanistan OTHER INFO -
-  Updated: 2026-08-26T22:07:35Z
+  Updated: 2026-09-01T08:02:39Z
   Vendor: Crystal Pendants
   Product Type: Lapislazulli
   Availability: Available
@@ -254,7 +254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/50_1__4_1.jpg?v=1734723809
     Price: $80.00 USD
 - [Black Tourmaline Crystal Pendants Deals | Silver Sterling 925](https://www.folkmarketgems.com/products/black-tourmaline-crystal-silver-pendant): A randomly selected one piece of black tourmaline crystal silver sterling pendant will be included in this parcel. Total Pieces: 1 to 20 pieces dealStone: Black TourmalineMetal: Silver Sterling 925 Dimension: Average size will be between 15 to 40mmShape: Raw CrystalColors: BlackCut: Slightly PolishedComment: No 
-  Updated: 2026-08-26T22:02:36Z
+  Updated: 2026-09-01T08:02:39Z
   Vendor: Crystal Pendants
   Product Type: Tourmaline
   Availability: Available
@@ -276,7 +276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/bt1_1_1.jpg?v=1734723813
     Price: $130.00 USD
 - [Calibrated Rare Chrome Diopside Loose Stone Deals | Bulk Loose Gems](https://www.folkmarketgems.com/products/chrome-diopside-loose-stones): Chrome Diopside is an uncommon gemstone, typically sourced from limited locations such as Russia or select regions in Africa. This parcel consists of bulk pieces ranging from 5 to 25 carats each. The stones are calibrated to 5mm in size, predominantly pear and oval in shape. Additional calibrated shapes are included in the . These stones exhibit a striking emerald green hue. Stone: Loose faceted chrome diopside Total Weight: 5 to 15 carats Deals Sizes: 5mm calibrated Clarity: VVS to VS Shapes: Pear, Oval mixed Color: Emerald Green Color Origin: Africa The one-piece certificate will be available from the parcel How can I use calibrated chrome diopside in jewelry? You Can Create Classic Solitaire Pendant: Calibrated stones can be set into design featuring set in a sleek metal pendant. The stone is usually held in place by prongs or a bezel setting. Crafting Eternity Band: An elegant ring can be crafted with a continuous row of calibrated gemstones encircling the band. Each stone is meticulously set to ensure a seamless display of stones. Create Cluster Stud Earrings from Calibrated Diopside: These earrings presents a cluster of calibrated gemstones arranged closely together to create a beautiful focal point. Using chrome diopside, the arrangement increases brilliance while creating a stunning visual impact. Tennis Bracelet made of Diopside: the tennis bracelet features a line of calibrated gemstones set in a flexible metal band. The stones are uniformly sized and spaced, creating a luxurious piece suitable for any occasion. Chrome diopside can be used in tennis bracelet.
-  Updated: 2026-08-26T20:55:02Z
+  Updated: 2026-09-01T08:02:41Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
@@ -294,104 +294,104 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/chrome_tourm3.jpg?v=1748684220
     Price: $335.00 USD
 - [90 carats Loose  Brown Oval Topaz Gemstones Wholesale Price](https://www.folkmarketgems.com/products/topaz-gemstones-for-): This is a very nice parcel of natural topaz gemstones. Topaz has a brownish brilliant color. They are big sizes. Excellent cutting. Total Weight: 90caratsTotal Quantity: 15 to 18 pieces Dimension: 2 to to 10.35 caratsShape: round, oval, Emerald cut, Colors: Brown. Orangish BrownCut: Brilliant Clarity: VVS to VSOrigin: PakistanTreatment: Heated
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:42Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_2020121_0114_378.jpg?v=1734723836
   Price: $690.00 USD
 - [10 ct Round Brilliant Tsavorite Green Garnets](https://www.folkmarketgems.com/products/10ct-tsavoritegarnets-mmsize): Get the 10 carats calibrated sizes, the best quality round brilliant Tsavorite garnets in diamond cut. Total Weight: 10 carats Dimension: 1.5 x 1.5 mm to 2 x 2 mm | Calibrated size Shape: round Colors: green Cut: Round brilliant diamond cut Comment: No Heat Certificate of one piece from Bangkok lab will be sent with the parcel Tsavorite has always been a favorite for people in the place of Emerald. Tsavorite is also one of the rare Gemstones. This is a very very nice calibrated Tsavorite for jewelry setting. The sizes are equal and calibrated. A beautiful parcel of 1.5 to 2mm size round brilliant cut Tsavorite. Tsavorite is a popular Gemstone. Usually, it is taken in replacement of Emeralds because of vivid green color.
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:42Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/Sat_28_11_2020_12_36_28.png?v=1734723837
   Price: $550.00 USD
 - [1 kg Smoky Citrine for Faceting | Rough Citrine | Raw Smoky Citrine](https://www.folkmarketgems.com/products/smoky-quartz): 1 Kilo Gram / 1000 Grams Natural Citrine for Faceting. result will be VVS, VS, Eye clean , Transparent. Stone: Smoky Citrine Sizes are 5 gram to 41 gram per piece Average Size 15 to 20 gram Total Weight: 1 Kilo Gram Shape: Raw Colors: Orangish Yellow, Blackish Yellow, Smoky Yellow Cut: Raw Clarity: VVS to VS , some Transparent to Translucent : No heat / No  Smoky Citrine is a very very lovely quality of Natural Quartz. This is usually unheated. The color comes as natural after Faceting. The clarity of the pieces is very nice however it will be mixed. Some VVS, Some VS. Inclusion in some should be expected. Some will be inclusion-free. Cut result of some pieces is also attached to the picture. Cutting Result of Citrine after Cutting What is Raw Smoky Citrine? This is raw variety of Smoky Quartz which has blackish tone with orange or yellow. It can also be called honey smoky quartz or smoky citrine quartz. This raw citrine is perfect for faceting. What I can cut from this raw smoky citrine? This facet grade raw citrine can be cut into faceted stones, cabochons, beads. The stones have nice color, clarity and sizes. The big sizes allow you to facet the raw citrine into desired sizes or calibrate gemstones. How rare is raw citrine? Raw citrine quartz is considered moderately rare stone. However its rarity is depending on whether it is natural or heat-treated. Here's an overview: True natural citrine is very rare in nature. It is a variety of quartz with its yellow to orange hues resulting from natural iron impurities. Most natural citrine comes from deposits in Brazil and Madagascar How to identify Natural Citrine? Natural citrine tends to have a softer, more subtle yellow or golden tone, compared to the often bright or reddish-orange hue of heat-treated stones.
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:43Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/Rough-citrine.png?v=1734723842
   Price: $790.00 USD
 - [1 kilo Burma Raw Amber for faceting, Cabbing, Beading | MyanmarAmber Rough](https://www.folkmarketgems.com/products/rough-amber): A wholesale raw stone  of 1 Kilo Gram Natural Raw Amber from Burma. The stones are 100% original earthly mined from Myanmar. STONE NAME: Raw Burma Amber Stones STONE TYPE: Rough DIMENSION: 2 to 12 gram per piece TOTAL WEIGHT: 1000 grams | 1 kg TOTAL PIECES: lumpsum mixed size parcel CLARITY: Transparent to VS : No COLOR: Orange, Brown with slight red tone SHAPE: raw ORIGIN OF STONE: Myanmar OTHER INFO Raw amber is perfect making cabochons, beads, can be faceted in any shape. SHIPPING FREE Myanmar Amber keeps presence in the market because of their unique color, geographical and geological characteristics. This is Amber's parcel from Burma. It has good transparency, sizes, and clarity. It is a lovely material for Gem Cutters. One can cut them for Faceting, beading, cabbing, and carving.
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:43Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ambr3.jpg?v=1734723841
   Price: $650.00 USD
 - [1 killo Rough Citrine Stones for Faceting | Facet grade Citrine Uncut Stones](https://www.folkmarketgems.com/products/citrine-for-cutting): Take this exclusive offer for a one-kilogram of Natural Raw Citrine Stones  which is perfect for your upcoming faceting or cabbing projects. Total Weight: 1 Killo / 1000 grams Sizes are 1 gram to 10 gram plus The Colour is yellow orangish Clarity: Si, VS, VVS, Eye Clean : No Origin: Brazil We present a collection of Orangish Yellow raw Citrine stones, distinguished by its raw form. This parcel comprises of pieces selected for both precision faceting and cabbing, culminating in a sophisticated and diverse mixed parcel. The parcel is mainly for faceting gemstones into various shapes such as oval, round, emerald cut, cushion cut, octagonal etc. The cut stones will be of good transparency with minimum inclusions.
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:43Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/image_dd19c3b3-5afd-4beb-ae26-7357ef0f7d69.jpg?v=1734723848
   Price: $1,100.00 USD
 - [Burma Raw Amber Bermite One Killo Parcel  - For Faceting / Cabbing](https://www.folkmarketgems.com/products/1kg-rough-burma-amber-for-faceting-cabbing): One kg raw amber stones are selected for faceting or cabbing work Key Features of the stones:- Stone Name: Burma Amber Total Weight: one killo gram Sizes: under 1 to 10 gram approximately Clarity: Si to VVS Color: Orangish Brown Inclusion: Fossilised vegetation /Insects parts or particles in form of dots or feathers. Some are almost clean : No Origin: Burma Learn About Amber / How to Identify Real Amber Stone How Can I Use Raw Amber? Amber, a fossilized organic gemstone known for its warm hues and unique inclusions, has many versatile applications in jewelry-making and decorative arts. Raw amber can be transformed into stunning beads, faceted gems, or cabochons, each enhancing its natural beauty and appeal. Here’s how you can make the most of raw amber, especially from high-quality sources like Myanmar. Faceting and Cabochoning Raw amber can be cut and polished into faceted stones or smooth cabochons. Faceting involves shaping the stone into small, polished faces to enhance its brilliance, while cabochoning gives a rounded, smooth appearance. Both techniques bring out the color and clarity of amber, making it ideal for various types of jewelry or as a striking centerpiece for pendants. Creating Amber Beads Transforming raw amber into beads is a popular choice. Beads are versatile and can be used in different jewelry pieces, from necklaces and bracelets to earrings. Amber beads, particularly in rich yellow or honey shades, offer a warm and inviting aesthetic. When made from natural and high-quality amber, such as Myanmar’s fossilized variety, they create an eye-catching and earthy look. Designing Unique Jewelry Pieces Amber is perfect for those who enjoy crafting or designing one-of-a-kind jewelry. With amber beads, you can design necklaces, earrings, and bracelets that capture the natural essence of this fossilized resin. The warmth of amber pairs well with other gemstones and metals, allowing for endless creativity in crafting distinct, memorable pieces. Example Pictures after Cutting Carving ------------ Beads------------Cabochons ------------ Beads Organic and Natural Appeal Myanmar-sourced amber is 100% natural and fossilized, retaining the organic allure of ancient resin. Its unique inclusions, often containing tiny remnants of prehistoric life, make each piece distinct. This organic quality adds value and an authentic feel to any jewelry piece created with raw amber. With its aesthetic and historical appeal, raw amber is a versatile and beautiful addition to any jewelry-making venture.
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:44Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/amr.jpg?v=1734723844
   Price: $750.00 USD
 - [Raw Rhodolite Garnets Stones for Cabbing / Faceting / Beading](https://www.folkmarketgems.com/products/rhodolite-garnet-facet-grade): This is 1000 grams Parcel of rough Rhodolite Garnets gemstones Sizes under 1 to 8 carats The Colour is very very nice peach pink. Quality is for Cabbing,beading and a few for Faceting Colour is purple STONE NAME Rhodolite Garnets STONE TYPE Rough DIMENSION under 1 to 8 carats TOTAL WEIGHT 1000 grams TOTAL PIECES lumpsum mixed size parcel CLARITY medium grade  No COLOR purple SHAPE raw ORIGIN OF STONE Madagascar OTHER INFO Stones are very very nice in colour and size, perfect for carving and cabbing
-  Updated: 2026-08-26T20:55:11Z
+  Updated: 2026-09-01T08:02:44Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/rhodolite-garnet.jpg?v=1734723847
   Price: $1,500.00 USD
 - [Wholesale Ethiopian Opal Cabochons – Best Prices & Quality](https://www.folkmarketgems.com/products/100ct-opals): Buy wholesale opal gemstones for jewelry making at unbeatable prices! Choose bulk deals (100, 200, 500, or 1000 carats) with competitive discounts. Perfect for designers & artisans. Shop now for high-quality opals!
-  Updated: 2026-08-26T20:55:19Z
+  Updated: 2026-09-01T08:02:44Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/opal6.jpg?v=1734723851
   Price: $1,300.00 USD
 - [Ethiopian Opal Cabochons 50 ct Loose Stones Bulk | Fire Opals](https://www.folkmarketgems.com/products/50ct-opals): Grab a parcel of 50 carats Ethiopian Opals Cabochons in Bulk. The stones have excellent play of colors sparkling under lights. The  is of 50 carats loose opal cabochons in bulk with wholesale price. Enjoy Free Shipping in Bulk Purchase Total Weight: 50carats Dimension: 2ct to 5ct mixed sizes Shape: Oval, pear, square mixed shape parcel Colors: white, yellowish shade mixed Cut: Excellent Clarity: VVS to VS Origin: Ethiopian : No Usage of Opals: Make jewelry out of Opals such as earrings, rings, necklace, bracelet, Pendnats. Opals have always majestic and secret beauty. It always have been favourite. This Ethiopian opals have stunning play of colours and fire . They are white and yellowish shade when lot of fires. A perfect parcel for resellers or jewelry designers.
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:45Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/opal8.jpg?v=1734723854
   Price: $690.00 USD
 - [25 ct / 2mm Green Tsavorite Garnets - Round Brilliant Diamond Cut](https://www.folkmarketgems.com/products/25ct-tsavorite-garnets-2mm): Obtain the 25 carats of selection of calibrated natural Tsavorite garnet stones, each measuring 2mm in size in calibration. These precisely calibrated gems provide an array of possibilities for crafting various jewelry designs with uniform dimensions. Whether creating a tennis bracelet, a round ring, or a necklace showcasing a striking centrepiece, the consistent sizing facilitates similar beauty. Tsavorite garnets exhibit a natural green hue. Revered for their scarcity, tsavorites are often favored as substitutes for precious gemstones such as emeralds. Stone: Loose Faceted Tsavorites Size: 2mm size calibrated tsavorite parcel Weight: 25 carats Shape: Round Brilliant Diamond Cut Tsavorites Clarity: VVS to VS in Color: Emerald green color Origin: Madagascar : No The one-piece certificate will be forwarded with the parcel This is a small parcel of emerald green tsavorite. They are all calibrated in sizes. They have excellent clarity, shape cutting, and brilliance.
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:45Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ts.jpg?v=1734723859
   Price: $1,000.00 USD
 - [10 ct 2mm Red Sapphires Round Brilliant Diamond Cut](https://www.folkmarketgems.com/products/10ct-2mm-red-sapphire-round-brilliant-diamond-cut): This is a parcel of 10 carats round brilliant reddish-orange sapphires for jewelry setting. They have excellent brilliance and colors. 10carats Reddish Orange Sapphires Cutting is round brilliant Diamond Cut Sizes: 2mm in calibration Clarity is excellent : Beryllium Heated Perfect red sapphires for jewelry settings. They are excellent in clarity, color, and brilliance. They are from 1 to 2.5mm in size.
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:45Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/or3.jpg?v=1734723860
   Price: $450.00 USD
 - [500 Carats Swiss Blue Topaz Loose Stones Wholesale Gems](https://www.folkmarketgems.com/products/blue-topaz-big-sizes): Experience significant cost savings with our wholesale offer on blue topaz loose stones. This exclusive  comprises 500 carats of blue topaz in different sizes, ideal for crafting jewelry pieces like rings, necklaces, bracelets, and pendants. The stones can be set as a center piece in rings, necklace, earrings, pendants. These stones boast exceptional clarity, brilliance, and size, ensuring unparalleled quality for your creations. Enjoy free shipping on bulk loose stone purchase. Total Weight: 500 carats Total Quantity: amongst 22 to 30 pieces approximately in 500 carats Dimension: 15mm to 50mm from lowest to high Shape: Oval, Pear, Emerald, Square, Round shape mixed Colors: Blue Cut: Excellent Clarity: VVS to VS Origin: Madagascar : Heated
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:45Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/to5.jpg?v=1734723866
   Price: $1,750.00 USD
 - [250 Carats Blue Topaz  - Oval, Cushion, Emerald, Round Wholesale](https://www.folkmarketgems.com/products/250ct-blue-topaz-big-sizes): Discover our collection of bulk natural Blue Topaz gemstones, total weighing 250 carats. These stunning blue gems boast exceptional luster, clarity, and impressive sizes, making them perfect for creating center-pieces in jewelry designs. Their sky blue hue adds a touch of elegance to the blue topaz stones. With clarity ranging from VVS to Eye Clean, these gems have excellent quality and brilliance. Take advantage of additional discounts on larger bulk orders of Blue Topaz. Enjoy Free shipping in this . Stone: Loose faceted Blue Topaz Sizes: 8ct, 10ct, 15, 20ct to 30 carat plus per piece Clarity: VVS to VS : Heated 1 Piece certificate will be sent with a lot
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:46Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Price: $1,300.00 USD
 - [200 Carats Natural Ethiopian Fire Opal Cacboshons– Bulk Gemstone Lot](https://www.folkmarketgems.com/products/wholesale-opals-cabochons): Buy best Wholesale opals online in  price. Hydrophane and Non-Hydrophane opals in Bulk.
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:46Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/opl7.jpg?v=1734723867
   Price: $3,000.00 USD
 - [2mm to 2.3 mm Calibrated Round Brilliant Rainbow Sapphire Stones](https://www.folkmarketgems.com/products/2mm-rainbow-sapphire-round-brilliant-cut-calibrated): This is package of Calibrated Rainbow Sapphires in between 2mm to 2.3mm for Jewelry Designing. Stone: Loose Faceted Fancy Sapphires | Rainbow Sapphires Size: 2mm x 2mm |2.2. mm or 2.3 mm Calibrated . It means any one of these sizes in calibration will be dispatched or shipped. It can be 2mm or 2.2 mm or 2.3mm. Total Weight: 3 to 4 carats Colors: Green, pink, yellow, orange, red, blue, purple Total Pieces 84 pieces more or lessCut: Round brilliant Diamond cut Clarity: VVS to VS Origin: Ceylon | Africa mixed : Other colors are Normal Standard Heat. red is beryllium heated Usage: Jewelry Designers would always love equally calibration sizes, multiple colors in Cut Faceted Gemstones. Our Rainbow sapphire fulfills your demand. Sapphire is a birthstone of September. Sapphire is a variety of corundum mineral. Sapphire comes in various color due to trace elements contribution. It symbolizes truth, nobility, faithfulness and sincerity. FREE SHIPPING
-  Updated: 2026-08-26T20:55:20Z
+  Updated: 2026-09-01T08:02:46Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
@@ -405,56 +405,56 @@
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ec-s.jpg?v=1734723872
   Price: $2,800.00 USD
 - [Neon Blue Apatite Stones cabochons- Paraiba like colour](https://www.folkmarketgems.com/products/neon-blue-apatite-cabs): Unveil the mesmerizing neon blue apatite cabochons. Having nice transparency, these cabochons are perfect selection for creating stunning jewelry creations. Total Weight: 30carats Total Quantity: Dimension: 3 to 7mm Shape: Oval Colors: Neyon Blue, Paraiba like Cut: Excellent Clarity: VVS to VS Origin: Madagascar : No Rare Neyon Colours give stunning beauty to jewellery. This blue apatite Cabochons are having colours like Paraiba Tourmaline. Paraiba is however extremely expensive. Apatite gives you opportunity Paraiba beautiful colour in Apatite with cheap price.
-  Updated: 2026-08-26T20:55:29Z
+  Updated: 2026-09-01T08:02:47Z
   Vendor: Folkmarketgems
   Product Type: Cabochons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ap.jpg?v=1734723874
   Price: $280.00 USD
 - [5x4mm Rainbow Sapphire octagonal - Calibrated Sapphire Stones](https://www.folkmarketgems.com/products/5x4mm-rainbow-sapphire-emerald-cut-calibrated): This calibrated rainbow Emerald-cut / Octagonal gives you the opportunity to design beautiful multicolor sapphire jewelry. They have multiple colors, calibrated shapes, and excellent clarity with brilliance. Total Weight: 18 caratsDimension: 5 x 4 mmShape: Emerald CutColors: Green, pink, orange, red, yellow, blueCut: ExcellentClarity: VVS to VSOrigin: Ceylon, Africa mixed : No
-  Updated: 2026-08-26T20:55:43Z
+  Updated: 2026-09-01T08:02:47Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/rs22_0c41df99-990a-420f-952c-e8ec3c3ef55a.jpg?v=1734723878
   Price: $1,800.00 USD
 - [Hessonite Garnet Rough Gems Deals](https://www.folkmarketgems.com/products/hessonite-garnet-rough-gems): Lovely Bug size Raw Perfect Hessonite Garnet colour, size for Gem Cutters This is a parcel of 1killo gram rough Hessonite Garnets. This is perfect for Cabbing, Beading. beautiful orange shade. Sizes are big Total Weight: 1000 Grams | 1KGTotal Quantity: 1KGDimension: 1gram, 2gram, 10gramShape: RawColors: Brownish OrangeCut: RawClarity: Cabs GradeOrigin: MadagascarTreatment: No
-  Updated: 2026-08-26T20:55:29Z
+  Updated: 2026-09-01T08:02:47Z
   Vendor: Lapidary Rough
   Product Type: Hessonite Garnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/hess.jpg?v=1734723878
   Price: $380.00 USD
 - [10 ct Rare Yellow Sphene / Titanite - Oval, Round, Octagonal, Emerald Cut, Pear](https://www.folkmarketgems.com/products/10ct-sphene-gemstones-rare-yellow-sphene-forsale): The parcel is of 40 carats. The  will be 10 carats selection from the lot comprises of different shapes Stone Name: Titanite / Sphene Sizes: 4mm to 12mm Shapes: Oval, Triangular, Square : No Total Weight: 10 carats Colors: yellowish Clarity: Included, Si, VS, VVS mixed clarity stones Origin: Fata Pakistan Yellow Sphene from Fata, Pakistan is a rare Gemstone variety found in the world. This has a unique play of colors and fires. This is a 10carat Sphene parcel in a faceted cut form. Sizes are under 1 to 3 carat per piece Watch Video about Sphene
-  Updated: 2026-08-26T20:55:29Z
+  Updated: 2026-09-01T08:02:48Z
   Vendor: Loose Gemstones / Faceted Stones
   Product Type: Sphenes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_20201130_145439_266.jpg?v=1734723879
   Price: $450.00 USD
 - [30 ct Red Orange Oval Shape Sapphires Loose Gems Bulk](https://www.folkmarketgems.com/products/red-sapphires-loose-gems): Stone: Loose Faceted Sapphire Stones Total Weight: 30 carats Sapphires Calibrated Sizes (4 mm to 6mm ) equal pairs Weight per piece: Under 1 carat : Beryllium heated Clarity: VVS This is a beautiful parcel of red sapphires. Sapphires are excellent brilliant. Clarity is VVS. Total Weight: 30 caratsDimension: 4 mm to 6mmShape: Pear Shape, OvalColors: RedClarity: VVSOrigin: ThailandTreatment: No glass filled / Beryllium heated Only Watch Online
-  Updated: 2026-08-26T20:55:29Z
+  Updated: 2026-09-01T08:02:48Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_2020121_0178_697.jpg?v=1734723886
   Price: $850.00 USD
 - [50 ct Emerald Cut Yellow Citrine Gemstones Wholesale](https://www.folkmarketgems.com/products/50ct-citrin-gemstones-for-): Total Weight: 50caras Total Quantity: 20 pieces Dimension: 5×5mm to 10x8mm Size: 2ct to 3ct Shape: Emerald Cut Colors: Yellow Cut: Excellent Clarity: VVS to VS Origin: Madagascar : Heated A beautiful Citrine Parcel in Calibration. Citrin is a beautiful stone and variety of Quartz.
-  Updated: 2026-08-26T20:55:44Z
+  Updated: 2026-09-01T08:02:49Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_2020121_0652_394.jpg?v=1734723887
   Price: $350.00 USD
 - [White Topaz Loose Gemstones  of 50 carats](https://www.folkmarketgems.com/products/white-topaz-loose-stones-for-): procure natural white topaz for crafting diversified designs of jewelry. These stones are in calibrated sizes, offering the opportunity to create jewelry designs. With VVS to Eye clean clarity, these stones are quality wise perfect. Their brilliance is excellent. Total Weight: 50 carats Dimension: 1.65ct to 3.70ct | 7x6mm to 9x8mm Shape: Emerald-cut Colors: White Colourless Cut: Excellent cutting Clarity: VVS to VS Origin: Madagascar : No
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:49Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_2020121_01337_60.jpg?v=1734723893
   Price: $380.00 USD
 - [Yellow Sapphire Gemstones for  - Loose Sapphires Stones](https://www.folkmarketgems.com/products/32ct-yellow-sapphire-gemstones-for-): This is an excellent parcel of round shape mixed sizes yellow sapphires. They have very nice color, clarity, and brilliance. They are natural sapphire stones. Stone: Natural Yellow Sapphire - Loose Faceted Sapphires Total Weight: 5 to 32 carats deals Sizes: 3mm to 4mm mixed Shape: Round Brilliance Color: yellow : Heated Origin: African Ceylon mixed Certificate of one piece randomly selected will be attached to the parcel while shipping. This is 32ct Yellow Sapphires having 3 to 4mm sizes in between. The shape is Round Brilliant Diamond Cut. Clarity is VVS to VS. Origin is Srilanka.  is normal heated stones. Excellent brilliance and cutting. The Colour is very very nice. Sapphire Gemstones are ways desired Gemstones for jewelry lovers and gemstone lovers. This is a very nice yellow sapphire parcel for jewelry settings. Watch Online Video
-  Updated: 2026-08-26T20:55:44Z
+  Updated: 2026-09-01T08:02:49Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
@@ -480,84 +480,84 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/store_carmera_20201130_23595_624.jpg?v=1734723898
     Price: $500.00 USD
 - [5x3mm Calibrated Rainbow Sapphires Multicolor, Pink Sapphire, Blue Sapphire, Purple, Green, Red, Yellow](https://www.folkmarketgems.com/products/5x3-rainbow-sapphires-gemstones): Grab this caliberated sapphire stones in rainbow colors. Multicolor rainbow sapphire stones for jewelry designing Total Weight: 13 carats approximately (can be less or more in one row)Total Quantity: One Row in calibrated sizes Dimension: 5 x 3 mm Shape: Emerald-cut /Octagonal Colors: yellow, orangish-yellow, red, blue, pink, green,purpleClarity: VVS to VSOrigin: Thailand / Srilanka / Africa : All are normal standard Heated. Red is Beryllium Heated Rainbow sapphire stones are used in different gemstone jewelry designing. They have rainbow like colors of sapphires such as pink sapphire, blue sapphire, yellow sapphire, green sapphire, purple sapphire and many other colors. They are in calibrated equal sizes which are perfect for making rainbow color sapphire rings, bracelets or necklaces. //
-  Updated: 2026-08-26T20:55:44Z
+  Updated: 2026-09-01T08:02:50Z
   Vendor: Loose Gems Calliberated
   Product Type: Sapphire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ec-s_3500670a-3a7a-4fa5-987a-b4bc16b065ce.jpg?v=1734723895
   Price: $850.00 USD
 - [Cubic Fluorite on Matrix | Fine Mineral Specimen](https://www.folkmarketgems.com/products/cubic-fluorite-on-matrix): Beautiful Flourite Specimen 197 grams . 70mm x 60 mm is dimension Total Weight: 197 grams Total Quantity: 75mm x 60mm Dimension: 75mm x 60mm Shape: Natural Colors: Smoky Purplish on Brown matrix Cut: Excellent Clarity: nice Origin: Pakistan : No Beautiful Flourite Specimen on matrix //
-  Updated: 2026-08-26T20:55:44Z
+  Updated: 2026-09-01T08:02:50Z
   Vendor: Fine Mineral Specimens
   Product Type: Flourite
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/dfs.jpg?v=1734723899
   Price: $70.00 USD
 - [Vesuvianite Combined with Feldspar on Matrix  | Mineral Specimen](https://www.folkmarketgems.com/products/buy-yellow-sapphire): Combined Vesuvianite Crystals with Feldspar on Matrix from Shilman, Khyber. 136grams, Dimensions: 65 x 58 mm | 2.5cm x 2.2cm From Skardu, Pakistan [SHORTDESCRIPTION] Total Weight: 136 grams Total Quantity: Between Dimension: 65 x 58 mm | 2.5cm x 2.2cm Shape: Skardu, Pakistan Shape: Natural Colors: black, white , brown : No HOW TO ORDER? : Order Online by adding a cart. Checkout by Paypal or  SHIPMENT / RETURN POLICY: https://folkmarketgems.myshopify.com/pages/terms-and-conditions IMPORT  WILL BE RESPONSIBILITY OF IMPORTER. FEEDBACK : Your feedback is very important and positive feedback is highly appreciated. If you are unhappy for any reason, please ask us immediately. We are here to resolve any kind of issue(s). Write us feedback here: https://folkmarketgems.com/pages/share-review Thank you ”  available on wholesale/bulk / combined sales ” Contact US for wholesale /**/
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:51Z
   Vendor: Wholesale Cut Loose Gemstones
   Product Type: Vesuvianite
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/Untitled-1se.jpg?v=1734723905
   Price: $100.00 USD
 - [180 grams Black Tourmaline Crystals / Raw Tourmaline Gemstones](https://www.folkmarketgems.com/products/black-tourmaline-crystals): 11 pieces of Black Tourmaline including 1 specimen. 180 grams Total Weight: 180grams Origin: Skardu, Pakistan Dimension: 37grams.. 30mm x 25, 30 x 20mm, etc Shape: Natural crystals Colors: black : No //
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:51Z
   Vendor: Rough Crystals
   Product Type: Tourmaline
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/20210111_171531.jpg?v=1734723908
   Price: $150.00 USD
 - [5ct Brown Topaz Gemstone](https://www.folkmarketgems.com/products/brown-topaz): 5carat piece . 11 x 6 mm is size [SHORTDESCRIPTION] Total Weight: 5 caratsTotal Quantity: 1 pieceDimension: 11 x 6 mmShape: OvalColors: BrownClarity: VVS to VSOrigin: Skardu, PakistanTreatment: Heated This is nice brown topaz //
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:52Z
   Vendor: Loose Gemstones / Faceted Stones
   Product Type: Topaz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/mobile_3_1_800x800SD.jpg?v=1734723906
   Price: $60.00 USD
 - [4.70 ct Lemon Quartz Gemstone](https://www.folkmarketgems.com/products/lemon-quartz-cut-gemstone): Total Weight: 4.70 caraats Total Quantity: 1 piece Dimension: 10 x 4 mm Shape: Oval Colors: Yellow Clarity: VVS to VS Origin: Brazil : Heated This is a beautiful 1 piece of lemon quartz. This is also called citrine quartz. Colour is brilliant. Cutting is excellent. Luster and brilliance is great Lemon Quartz is variety of citrine which is birthstone of November. //
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:53Z
   Vendor: Loose Gemstones / Faceted Stones
   Product Type: Lemon Quartz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/lemon-quartz.jpg?v=1734723915
   Price: $35.00 USD
 - [Shop Facet Rough Peridots Stone  for Faceting | Gem Quality Raw Peridots](https://www.folkmarketgems.com/products/raw-peridot-stone-deals-for-faceting): Buy 100ct natural rough peridot stones from Pakistan for faceting and cutting. Premium lapidary material perfect for jewelry designers. Wholesale pricing available.
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:53Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/peridot5.png?v=1734723920
   Price: $350.00 USD
 - [3.85 carats Yellow Citrine Pairs - Cushion Cut](https://www.folkmarketgems.com/products/3-85-caras-citrine-pairs): Stone: Loose Faceted Citrine Pair Shape: Square Total Weight: 3.85 carats Dimension: 2carats ( 8 x 5mm) 1.90 carats ( 8 x 5 mm) Total Quantity: 2 piece / Pair Clarity: VVS Color: Yellow : Heated
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:54Z
   Vendor: Folkmarketgems
   Product Type: Loose Gemstones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/Untitled-1eq_989b2980-540a-48f4-b600-7e5d1dd38cf4.jpg?v=1734723921
   Price: $100.00 USD
 - [100 Grams Rough Neon Blue Apatite Gemstones- Raw Gemstones](https://www.folkmarketgems.com/products/100-grams-blue-apatite-rough): A 100 grams / 500 carats natural raw neon blue apatite for faceting. This is a small parcel perfect for lapidary artists to work upon. 100 grams nice blue Apatite Rough stones sizes: Under 1ct to 5 ct Color: Neon Blue Quality: cutting grade or cabbing Clarity: si to vs Location: From Madagascar
-  Updated: 2026-08-26T20:55:57Z
+  Updated: 2026-09-01T08:02:54Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/image_cc9e9344-b1c4-420d-9bd5-cc1fb16265ac.png?v=1734723925
   Price: $250.00 USD
 - [1 kg Sunstone Rough for Lapidary- Raw Gemstones](https://www.folkmarketgems.com/products/1kg-sunstone-rough): 1kg Rough Sunstone Gemstone for Cabbing experience, wirewrapping Colour is golden Brown glittering Cabs grade . Cabs sample is in the photo. glittering stones Sizes are 5 to 15 gram plus Origin: Madagascar This is very nice parcel of rough sunstone. They have glittering presence. Cabs will be nice after cutting.
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:54Z
   Vendor: Lapidary Rough
   Product Type: Sunstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/sns5555.jpg?v=1734723930
   Price: $750.00 USD
 - [10 kg Mogok Spinel Rough - Rough Gemstones Wholesale](https://www.folkmarketgems.com/products/10kg-mogok-raw-spinel-stones-forsale): This is 10kg Mogok Spinel rough for wholesale gemstone . Spinels are good for beading, cabbing or si quality faceting. Colors are very very nice . 10kg Raw Spinels Very nice colors Small sizes : under 1 to 1.50 Carat per piece Colours: red, pink, white, grey, mixed Quantity; 10KG Colors are mixed Clarity is VS (Slight Included) Can be faceted but inclusion can come perfect for cabbing, beading, wirewrapping Origin; Myanmar This is a very nice parcel of rough Mogok Spinels. They have almost all colors. Sizes of the pieces are small. The colors are very bright.
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:55Z
   Vendor: Folkmarketgems
   Product Type: Faceting Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/image.png?v=1734723930
   Price: $8,000.00 USD
 - [1 Kilo Gram Rough Sapphire Crystals](https://www.folkmarketgems.com/products/buy-raw-sapphire-crsytals): Get a package of 1 Kilo Gram grams raw sapphires crystals for your lapidary / wirewrapping or other craft projects Detail of the One kg Sapphire  Stone: _____Sapphire Crystals Type: ____Blue Corundum Total Weight: ____1 Kilo Gram grams Color: ____deep Blue with Grey Tone sizes : ______under 10mm to 20 mm Shapes: _____Hexagonal shapes Treatments:_____ no  Origin; ____Madagascar
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:55Z
   Vendor: Folkmarketgems
   Product Type: Raw Crystals
   Availability: Available
@@ -569,7 +569,7 @@
     Availability: Available
     Price: $450.00 USD
 - [Natural Moonstone Cabochons Deals - Moon Stone Cabs](https://www.folkmarketgems.com/products/moonstone-cabochons-deals-moon-stone-cabs): Excellent parcel of moonstone cabochons. These are bulk deals of excellent moonstone cabochon with blue fire Key Features Stone: Moonstone Quantity; 100 grams to 1000 grams Color: White, blue Flash Sizes: 10mm to 30mm plus Quality: Some are opaque. Some are transparent Clarity: Opaque with a small transparency
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:55Z
   Vendor: Folkmarketgems
   Product Type: Cabochons
   Availability: Available
@@ -587,14 +587,14 @@
     Availability: Available
     Price: $1,200.00 USD
 - [300 Grams Peridot Rough Stones for Cabbing](https://www.folkmarketgems.com/products/cabs-grade-raw-peridots): This is a cabochon grade raw Kohistan mine peridots from Pakistan. They have a good color small parcel for collectors, wire wrapping jewelry artists, or for lapidary artists engaged in cabochon or tumbled making. 300 Peridot Stones Sizes are under 1 to 8 gram They are for Cabbing Parrot green color Origin: Pakistan This is 300 gram parcel of Natural Peridots rough in wholesale. They are cabs grade Peridots from Pakistan. Their colour is very nice.
-  Updated: 2026-08-26T20:56:06Z
+  Updated: 2026-09-01T08:02:55Z
   Vendor: Lapidary Rough
   Product Type: Peridots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/image_a7d887fd-6072-4fb4-a1ca-47c7c38874be.png?v=1734723945
   Price: $320.00 USD
 - [Rare Raw Grandidierite Stones for Lapidary Rough Deals](https://www.folkmarketgems.com/products/raw-grandidierite-stones-deals): Rare Grandidierite Stones Bluish Grey Colour Small sizes: under 5 gram to 50 gram per piece Quantity; 50 grams to 300 grams deals Colours is grey or bluish grey Clarity is cabochon grade perfect for cabbing, beading, wirewrapping Origin; Madagascar Checkout parcel of extremely rare Grandidierite Stones. Grandidierite is an extremely rare Gemstone. Sizes of these parcels are from 5 gram to 50 gram per piece. The Colour is very very nice. Stones are perfect for Cabbing or carving For Wholesale Grandidierite in 5 to 10 kg plus, please contact us
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:56Z
   Vendor: Lapidary Rough
   Product Type: Grandidierite
   Availability: Available
@@ -612,14 +612,14 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/image_12b72e33-db49-4af3-ab20-c6c0387cadaa.png?v=1734723949
     Price: $400.00 USD
 - [1 Kg Natural Rough Ruby on Zoisite - Raw Ruby on Zoisite](https://www.folkmarketgems.com/products/1killo-natura-rough-ruby-on-zoisite-1): This is a 1000 grams parcel of rough Ruby on Zoisite gemstones that is perfect for carving and cabbing. Each stone displays a beautiful peach pink color with striking green combinations that makes them visually unique. The parcel includes mixed sizes ranging from under 50 grams up to 500 grams per piece, offering great variety for different projects. The stones are in their raw, uncut form, maintaining their natural texture and appeal. With a total parcel weight of 1000 grams (1 kilogram), it provides an ample supply for carvers, jewelers, and collectors. The stones are opaque with no treatments, preserving their authenticity and natural beauty. The material is sourced from Madagascar, known for producing high-quality Ruby on Zoisite. These stones are ideal for carving, cabbing, and creative lapidary work, thanks to their excellent size and color contrast. Frequently Asked Questions About Raw Ruby on Zoisite What is Ruby on Zoisite? Ruby on Zoisite (also called Anyolite) is a natural gemstone where pink to red ruby crystals occur within green zoisite, sometimes with black hornblende. The vivid pink-and-green contrast makes it popular for carving, cabbing, and ornamental objects. Is this material untreated and in raw form? Yes. The parcel consists of untreated, rough stones in their natural, uncut state. No color or clarity enhancement is applied, preserving authenticity for lapidary work. What sizes are included in the parcel? The lot contains mixed sizes, generally ranging from under 50 grams up to 500 grams per piece, providing flexibility for small cabochons to larger carvings. Is Ruby on Zoisite good for carving and cabbing? Yes. Its contrasting colors and opaque nature make it excellent for carving and cabbing. Many artisans orient the ruby patches as focal points while keeping green zoisite as a balanced background. Where is this Ruby on Zoisite from? This parcel is sourced from Madagascar, a well-known origin for quality Ruby on Zoisite with striking color contrast. How should I cut and finish Ruby on Zoisite? Use standard lapidary techniques for opaque material: coarse shaping to reveal color zones, then progressive sanding and a final polish on softer laps. Avoid overheating and orient ruby areas for the best visual impact. How do I care for Ruby on Zoisite? Clean with mild soap, water, and a soft cloth. Avoid harsh chemicals, ultrasonic cleaners, and sudden temperature changes to protect both ruby inclusions and the zoisite matrix.
-  Updated: 2026-08-26T20:55:58Z
+  Updated: 2026-09-01T08:02:57Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/ruby_on_ziosite_301d1cfe-53ee-47b1-9e27-6b1f7168de53.jpg?v=1750597715
   Price: $470.00 USD
 - [Buy Natural Lapis Lazuli Rough Stone  Wholesale Best Price](https://www.folkmarketgems.com/products/100kg-bulk-lapis-lazuli-roughstone-forsale): Natural Rough Lapis Lazuli stone available in wholesale and bulk. Contact us to know Lapis lazuli rough wholesale price. Contact: WhatsApp: +923268999919 / Email: info@folkmarketgems.com
-  Updated: 2026-08-26T20:56:06Z
+  Updated: 2026-09-01T08:02:57Z
   Vendor: Folkmarketgems
   Product Type: Lapidary Rough
   Availability: Available
@@ -651,16 +651,16 @@
   Updated: 2026-08-27T00:18:41Z
   Total Products: 681
 - [List of Gemstones of Pakistan | Pakistan Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-of-pakistan-pakistan-gemstones-and-minerals): Explore wide variety of rare gemstones, minerals and crystals from Pakistan. High-quality stones with unique properties. Perfect for collectors and jewelry enthusiasts.
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 589
 - [Emeralds](https://www.folkmarketgems.com/collections/emerald-gemstones): Shop 100% natural emeralds: Swat, Panjshir, Chitral plus selected Zambian & Colombian. Rough for faceting, crystals, specimens, loose cut stones & wholesale parcels. Transparent grading and  disclosure.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 223
 - [Ruby](https://www.folkmarketgems.com/collections/ruby-gemstones): Shop natural ruby gemstones including raw crystals and  loose stones. Discover authentic ruby stone pricing, origins, grading, and buying guide for collectors and jewelry buyers.
   Updated: 2026-08-27T00:18:43Z
   Total Products: 87
 - [Pakistan Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-in-pakistan): Buy with Folkmarket Gems Rare Gemstones and minerals from Pakistan i.e. aquamarine, peridot, zircons, demontoid, rubies, Swat Emeralds, Katlang Topaz, Kashmir Sapphires, axinite etc
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 591
 - [Hackmanite Minerals](https://www.folkmarketgems.com/collections/buy-hackmanite-stone-rare-hackmanite-fluorescent-mineral): Explore rare fluorescent Hackmanite raw stones at FolkmarketGems. Hackmanite, a unique variant of sodalite, will be unique touch to your gemstone collections. Browse online at FolkmarketGems multiple deals on uncut Hackmanite stone for your faceting / lapidary work or loose hackmantie stones for jewelry designs.
   Updated: 2026-08-11T20:23:22Z
@@ -798,7 +798,7 @@
   Updated: 2026-07-08T22:57:48Z
   Total Products: 4
 - [Tsavorite Gemstones](https://www.folkmarketgems.com/collections/tsavorite-garnet-gemstone): Shop natural tsavorite garnet gemstones including raw crystals and faceted stones. Discover vivid green varieties with transparent pricing and origin insights.
-  Updated: 2026-08-27T00:18:37Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 38
 - [Petroleum included Diamond Quartz](https://www.folkmarketgems.com/collections/petroleum-quartz): Checkout unique Petroleum included Diamond Quartz crystals. These rare specimens feature natural oil inclusions. Wholesale pricing for collectors and dealers.
   Updated: 2026-07-08T22:55:12Z
@@ -807,13 +807,13 @@
   Updated: 2026-07-08T23:01:54Z
   Total Products: 4
 - [Loose Emerald Stones](https://www.folkmarketgems.com/collections/buy-loose-emerald-stones): Shop natural loose emerald stones from Swat & Panjshir.  options available. Worldwide shipping. Order now.
-  Updated: 2026-08-27T00:18:35Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 83
 - [Scapolite](https://www.folkmarketgems.com/collections/buy-scapolite-crystals): natural Scapolite crystals at wholesale prices. Available as raw specimens and loose gemstones
   Updated: 2026-07-08T22:59:40Z
   Total Products: 5
 - [Swat Emeralds Raw Cut | Rough Swat Emeralds](https://www.folkmarketgems.com/collections/buy-swat-emeralds): Premium Swat Emeralds for  | Authentic Pakistani Emerald Gemstones Online Discover the world's finest Swat Valley emeralds from Pakistan's legendary Hindu Kush mountains. Our curated collection features authentic natural emerald gemstones ranging from rare rough specimens to expertly cut loose stones, perfect for collectors, jewelers, and gemstone enthusiasts. Swat Valley is a breathtaking province of Hindu Kush Mountain range in Khyber Pakhtunkhwa in Pakistan. It is renowned for its rich cultural heritage. The valley has an ideal geological conditions for emerald formation. With the passage of time, the geological factors led with combination factors of temperature, pressure and mineral rich fluids necessary for crystallisation of beryllium aluminium silicate in forming vivid green emerald stones of Swat. Formation and Origin of Swat Emeralds Stones Natural Swat Emeralds dates back millions of years. The geological processes worked their magic deep within the Earth's crust. Swat Valley's geological composition, with its unique combination of pegmatite veins and metamorphic rocks, created the ideal conditions for the formation of these mesmerizing gemstones. Through intricate process, beryllium rich fluids started to interact with the minerals in surroundings. Which resulted into formation of emerald crystals. Emeralds are from beryl family. The other stones in beryl family are aquamarine, morganite, goshenite, hellidor, bixbite. Pakistan Emeralds or Swat Emeralds Deposits The most interesting feature of Natural Swat Emeralds is their rich green color. The reserves of emeralds are estimated around 70 million carats in Pakistan of emeralds in Swat Valley. The Swat Valley emeralds are popular for their vibrant colors. There are four locations of emeralds in Pakistan. They include Swat Valley in Swat District, Gandao in Mohmand Agency, B Barang in Bajaur Agency Khaltaro in Gilgit-Baltistan Chitral Swat emerald deposits are one of the largest despots in Pakistan as overall. Swat has four mining areas in Norther Khyber Pakhtunkhua. The northwestern end of the Himalayan mountain range. There are 5 mines in Swat Valley. Shamozai, Mingora, Gujar Killi, Charbagh Makhad Learn about Swat Emeralds how they were discovered initially. Striking Characteristics of Swat Emeralds Dazzling Green Hue: The prominent characteristic of natural Swat Emeralds is their deep rich green color. The saturation and hue of emeralds is ranging from a vibrant green to a deep lush forest shade. This differentiates Swat emeralds among others. Good Clarity: Swat Emeralds are known for their exceptional clarity in melee sizes. Melee sizes are fixed in watches like rolex and other diamond settings. Swat has one of the best melee size emeralds. They are highly demanded in diamond industry for that. Exquisite Cut and Shape: Mostly Swat emeralds have proper hexagonal shapes mixed with stunning colors. They are best for lapidary artists due to their complete shapes. Swat melee size also have proper hexagonal crystal shapes which make them unique among other emeralds. Rarity and Value of Natural Swat Emeralds Limited Supply: Swat emeralds have high demand within limited supply. Fine Swat emerald is extremely rare in big sizes. Whenever there comes big size with maximum clarity, it is always attracted to the buyers immediately due to combination of color and clarity.  Potential: Swat Emeralds are best to be invested in. Their rich green color is highly demanded among gemstone lovers. They are sold at very good market price. Conclusion: What Folkmarketgems Offers in Swat Emeralds Collection Type of Swat Emeralds Available: 1. Loose Cut Emeralds (Ready for Setting) Faceted emerald gemstones from 0.65 to 11 carats plus Professional emerald cuts Perfect for jewelry making and  Price range: $180 - $1,250 plus 2. Rough Emerald Parcels (For Cutting & Faceting) Bulk deals from small deals like 22 carats to Wholesale deals like 1000 carats plus at discounted prices Premium facet grade rough emeralds for lapidary artists Wholesale emerald lots for dealers for  or reselling. Price range: $150 - $15,000 USD 3. Mineral Specimens (Collector's Items) Natural emerald crystals on calcite matrix Miniature and tiny specimen collections Perfect for mineral collectors and museums Price range: $50- $220 ++ 4.  Grade Emeralds High-carat vivid green emeralds (10-1000 carats) Premium quality stones for serious investors  natural Swat emeralds Price range: $1,500 - $15,000 Why Choose Vivid Green Swat Emeralds at Folkmarketgems? Exceptional Quality Features: ✓ Vivid Green Color: Deep forest to vibrant green hues unique to Swat Valley ✓ Superior Clarity: Exceptional transparency, especially in melee sizes ✓ Perfect Crystal Formation: Natural hexagonal shapes ideal for cutting ✓  Value: Limited supply with increasing market demand ✓ Authentic Origin: Directly sourced from Swat Valley mines in Pakistan 🏔️ Geographic Significance: Our emeralds come from the prestigious Swat Valley mining areas: Shamozai Mine Mingora District Gujar Killi Charbagh Makhad Collection Highlights by Size & Budget Loose Swat Emerald Stones For Jewelry Makers ($180-$1,250) Individual cut emeralds ready for setting Various carat weights and cuts available Perfect for rings, pendants, and earrings Swat Emeralds For Lapidary Artists ($340-$2,400) Small to medium rough parcels High-quality faceting material Excellent yield potential Emeralds For Serious Collectors ($1,500-$15,000) Large rough emerald specimens -grade quality stones Rare high-carat pieces For Emerald Mineral Specimen Collectors ($121-$220) Natural crystal specimens Educational and display pieces Authentic matrix specimens Frequently Asked Questions (FAQs) About Swat Emeralds 🔍 About Swat Emeralds Q: What makes Swat emeralds special compared to other emeralds? A: Swat emeralds are popular and widely liked for their vivid green color, good clarity (especially in smaller sizes for watches). Mostly Swat emeralds come with perfect hexagonal crystal formation. They're formed in unique geological conditions in Pakistan's Hindu Kush mountains, creating emeralds with distinctive characteristics highly valued by collectors and jewelers worldwide. Q: Are these emeralds natural or treated? A: All our Swat emeralds are 100% natural and untreated. They come directly from the mines in Swat Valley, Pakistan, maintaining their authentic geological properties and natural beauty. Q: What's the difference between rough and cut emeralds in your collection? A: Rough emerald stones are uncut stones which are used in lapidary work, faceting, or collecting as natural specimens. Cut or loose emeralds are professionally faceted and polished, ready for jewelry setting. Rough stones offer more value for money and cutting potential, while cut stones are ready for immediate use. Quality & Authenticity of Swat Emerald Stones Q: Do you provide certificates of authenticity? A: Yes, we provide detailed information about the origin and characteristics of each emerald. For high-value pieces, we can arrange professional gemological certification upon request. Q: How do you grade the quality of your emeralds? A: We evaluate our emeralds based on the traditional 4 Cs: Color (vivid green being premium), Clarity (eye-clean to slightly included), Cut (for finished stones), and Carat weight. We also consider crystal formation and origin authenticity. Q: What's the clarity like in Swat emeralds? A: Swat emeralds are particularly known for exceptional clarity in melee sizes (small stones). Larger stones may have natural inclusions typical of emeralds, which actually confirm their natural origin and don't significantly impact their beauty or value. Purchasing &  of Swat Stones Q: Which emerald size should I choose for ? A: For  purposes, we recommend our larger rough parcels (100+ carats) or quality cut stones in any sizes. Swat emeralds have shown consistent value appreciation due to limited supply and increasing global demand. Q: Can I buy emeralds for custom jewelry projects? A: Absolutely! Our cut emeralds are perfect for custom jewelry. We offer various sizes and cuts suitable for rings, pendants, earrings, and other jewelry pieces. Our rough emeralds can also be custom cut to your specifications. Q: Do you offer wholesale pricing for bulk purchases? A: Yes, we offer competitive wholesale pricing for bulk orders and repeat customers. Contact us directly for volume discounts on our rough emerald parcels and multiple stone purchases. Shipping & Handling Q: How are the emeralds packaged and shipped? A: All emeralds are carefully packaged in protective gem boxes with detailed documentation. We use secure, insured shipping methods with tracking for all orders to ensure safe delivery. Q: Can I return an emerald if I'm not satisfied? A: We stand behind the quality of our emeralds. Please review our return policy for specific terms and conditions regarding returns and exchanges. Technical Information Q: What's the geological composition of Swat emeralds? A: Swat emeralds are beryllium aluminum silicate crystals formed through interaction of beryllium-rich fluids with surrounding minerals in pegmatite veins and metamorphic rocks. This unique geological process creates their distinctive color and clarity. Q: Are Swat emeralds suitable for daily wear jewelry? A: Emeralds rate 7.5-8 on the Mohs hardness scale. This hardness makes emerald stone very suitable for jewelry. However, emeralds are brittle stones by nature thats why we recommend protective settings while designing jewelry such as rings. Jewelry designers should carefully handle to maintain their beauty over time. Q: How should I care for my Swat emerald? A: Clean with stones warm soapy water and a soft brush. Avoid ultrasonic cleaners and harsh chemicals. Store separately to prevent scratching, and have jewelry professionally checked periodically.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 151
 - [Chrysoberyl](https://www.folkmarketgems.com/collections/chrysoberyl)
   Updated: 2026-07-08T23:00:41Z
@@ -840,10 +840,10 @@
   Updated: 2026-07-08T22:56:53Z
   Total Products: 4
 - [Rare Gems](https://www.folkmarketgems.com/collections/rare-gemstone-and-minerals): Buy rare gemstones including Hackmanite, Sphene, Tsavorite & Emerald. Facet rough, specimens & loose stones from $150. Shop Folkmarketgems today.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 479
 - [Beryl Gems & Minerals](https://www.folkmarketgems.com/collections/beryl): Shop natural beryl gemstones: rough emeralds, aquamarine, heliodor & mineral specimens from Pakistan, Brazil & Afghanistan. Wholesale lots available. Buy now.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 304
 - [Colombian Emeralds Raw Cut](https://www.folkmarketgems.com/collections/colombian-emeralds-raw-cut)
   Updated: 2026-07-08T21:52:46Z
@@ -855,7 +855,7 @@
   Updated: 2026-08-16T13:28:18Z
   Total Products: 21
 - [Garnets](https://www.folkmarketgems.com/collections/garnets-gemstones): Shop natural garnet gemstones including red, green, and rare varieties. Explore garnet pricing, origins, and buying insights for this January birthstone.
-  Updated: 2026-08-27T00:18:37Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 91
 - [Quote Now | Ask for Price](https://www.folkmarketgems.com/collections/wholesale-gemstones-deals): Buy Wholesale Gemstone Deals with Folkmarketgems at competitive prices. Attractive bulk prices on Emeralds, Rubies, Sapphire, Aquamarine, Peridots, Topaz and many more
   Updated: 2026-08-27T00:18:41Z
@@ -867,13 +867,13 @@
   Updated: 2026-08-27T00:18:35Z
   Total Products: 32
 - [Loose Gemstones](https://www.folkmarketgems.com/collections/buy-loose-gemstones-for-jewelry): Shop natural loose gemstones for jewelry making, including sapphire, emerald, ruby, tourmaline and more. Available in various cuts and carat sizes.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 565
 - [Gemstone Jewelry](https://www.folkmarketgems.com/collections/gemstone-jewelry): Folkmarket Gems has included natural gemstones jewelry section also on demand of our customers. We have included beautiful sophisticated jewelry designs made of natural gemstones, silver sterling 925, or 14 to 18 k Gold.
   Updated: 2026-07-14T11:16:38Z
   Total Products: 33
 - [ Deals on Gemstones and Minerals](https://www.folkmarketgems.com/collections/sales-deals): Shop gemstone  deals on rough rubies, sapphires, emeralds, tourmaline & mineral specimens. Wholesale & single lots. Secure checkout. Buy now.
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 397
 - [Under $500 Gems Deals](https://www.folkmarketgems.com/collections/under-500)
   Updated: 2026-08-27T00:18:37Z
@@ -891,7 +891,7 @@
   Updated: 2026-08-27T00:18:27Z
   Total Products: 31
 - [Home](https://www.folkmarketgems.com/collections/home)
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 1463
 - [Fluorescent Minerals and Gems | UV Reactive Minerals](https://www.folkmarketgems.com/collections/fluorescent-minerals-and-gems): Shop fluorescent minerals, UV reactive gems & rare rough stones. Kashmir rubies, sapphires, hackmanite & more. Free shipping on orders over $200.
   Updated: 2026-08-27T00:18:21Z
@@ -921,22 +921,22 @@
   Updated: 2026-07-08T22:56:31Z
   Total Products: 1
 - [Faceted Gemstones](https://www.folkmarketgems.com/collections/faceted-gemstones): Buy natural faceted loose gemstones — emeralds, rubies, sapphires, garnet & more. Singles, pairs & parcels. Direct-source pricing. Shop Folkmarketgems.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 545
 - [Precious Stones](https://www.folkmarketgems.com/collections/precious-stones): Shop 432+ natural precious stones — emerald, ruby & sapphire rough, specimens & loose gems from Pakistan, Afghanistan & Mozambique. Wholesale deals available.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 448
 - [Semi Precious Stones](https://www.folkmarketgems.com/collections/semi-precious-stones): Shop natural semi precious stones – facet-grade rough, lapidary rough & wholesale lots. Tourmaline, aquamarine, garnet, topaz & more at Folkmarketgems.
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 900
 - [All Natural Gemstones](https://www.folkmarketgems.com/collections/natural-gemstones-for-): Folkmarketgems offers  Wholesale & retail gemstone supplying -  natural gems marketplace in raw gems, polished colored stones, precious
-  Updated: 2026-08-27T00:18:41Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 1453
 - [Octahedron Crystals](https://www.folkmarketgems.com/collections/octahedron)
   Updated: 2026-07-08T22:59:10Z
   Total Products: 5
 - [Start Up Gems Lots](https://www.folkmarketgems.com/collections/gemstones-for-beginners): Shop gemstone starter lots: tourmaline, garnet, topaz, spinel & more. Budget-friendly rough & faceted deals from $40. Secure checkout. Shop now.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 689
 - [Industrial Minerals](https://www.folkmarketgems.com/collections/commercial-quantity-wholesale-raw-gems-industrial-minerals): Provides a wide selection of industrial-grade or commercial-scale stones, including Himalayan Salt Rocks, Milky Quartz, Lapis Lazuli, Onyx, Serpentine, Jade, Hydroglossuar Garnets, and many others. Reach out to inquire about pricing at info@folkmarketgems.com.
   Updated: 2026-08-27T00:18:18Z
@@ -963,7 +963,7 @@
   Updated: 2026-08-27T00:18:39Z
   Total Products: 398
 - [Natural Gemstones for Engagement Rings](https://www.folkmarketgems.com/collections/natural-gems-for-engagement): Shop  natural gemstones for engagement rings — Kashmir rubies, sapphires, emeralds, aquamarine & more. Rough & faceted. Worldwide shipping. Buy now.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 790
 - [Bulk Mixed Stone Gem Boxes](https://www.folkmarketgems.com/collections/bulk-mixed-stone-gem-boxes): Explore our treasures of raw gemstones, cut crystals, and natural minerals—whether you want for personal, for collection or for your cutting or jewelry making projects in bulk, we’ve got something for for you. Our mixed gemstone boxes are like a surprise adventure—each box is packed with a vibrant mix of unique gemstone varieties, healing crystals, and natural stones sourced from around the world. Want something special? We’ll create a custom gemstone box just for you! Tell us your requirements—maybe you’re after affordable gemstones for jewelry-making, unique crystal specimens, or a luxury gemstone gift that’ll wow someone special. No stress about budgets or specifics—just contact us, and we’ll select the stones that match your needs or project goals. Perfect for wholesale crystal buyers to buy in samples, hobbyists, or anyone cutting a little natural magic.
   Updated: 2026-07-08T23:01:32Z
@@ -972,7 +972,7 @@
   Updated: 2026-08-20T10:43:58Z
   Total Products: 4
 - [Loose Emerald Gems](https://www.folkmarketgems.com/collections/loose-gemstones-emeralds): Buy  loose emerald stones for engagement rings and fine jewelry. Discover graded natural emerald gemstones with  authenticity and detailed pricing.
-  Updated: 2026-08-27T00:18:35Z
+  Updated: 2026-09-01T18:01:35Z
   Total Products: 83
 - [Loose Sapphires Gemstones](https://www.folkmarketgems.com/collections/loose-gemstone-sapphires): Browse  loose sapphires in various colors, shapes and sizes. Natural sapphire stones ready for fine jewelry,  and custom settings worldwide.
   Updated: 2026-08-27T00:18:35Z
@@ -1017,7 +1017,7 @@
   Updated: 2026-07-08T21:52:52Z
   Total Products: 0
 - [Loose Gemstones Tsavorite](https://www.folkmarketgems.com/collections/loose-gemstones-tsavorite): Shop  loose tsavorite garnet stones from Kenya & Tanzania. Single stones & parcels from $450. Natural, untreated. Order at Folkmarketgems.
-  Updated: 2026-07-08T23:01:46Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 9
 - [Loose Gemstones Spinels](https://www.folkmarketgems.com/collections/loose-gemstones-spinels): Buy loose spinel stones for rings and fine jewelry. Explore  red and rare cobalt blue spinel gemstones with detailed pricing and grading information.
   Updated: 2026-08-27T00:18:17Z
@@ -1062,8 +1062,8 @@
   Updated: 2026-08-27T00:18:39Z
   Total Products: 360
 - [Sold Out Gems and Minerals](https://www.folkmarketgems.com/collections/sold-out-gemstones-and-minerals): Sold Out – Limited Preorders Available While these items are currently sold out, selected gemstones are available for preorder. Preordered items will be similar in color / clarity/sizes, though minor variations in gemstone color, size, or quantity may occur. Since all our gemstones are 100% natural (not lab-created), each stone has its own unique characteristics. Natural variations in color, clarity, and cut are to be expected, making every piece one-of-a-kind. Preorder now to secure your item—limited stock remaining!
-  Updated: 2026-08-27T00:18:43Z
-  Total Products: 490
+  Updated: 2026-09-01T21:16:32Z
+  Total Products: 489
 - [Top  Gemstones](https://www.folkmarketgems.com/collections/top--products): Shop our best- jewelry and gemstones. Discover customer favorites and trending pieces that everyone loves. Quality gems at great prices.
   Updated: 2026-08-10T16:18:34Z
   Total Products: 69
@@ -1161,7 +1161,7 @@
   Updated: 2026-08-19T20:52:06Z
   Total Products: 32
 - [Green Gemstones](https://www.folkmarketgems.com/collections/green-gemstones): Shop natural green gemstones — rough emeralds, peridot, tourmaline & prasiolite. Direct-from-mine sourcing. Worldwide shipping. Buy now at Folkmarketgems.
-  Updated: 2026-08-27T00:18:39Z
+  Updated: 2026-09-01T18:02:44Z
   Total Products: 531
 
 ## Blogs
