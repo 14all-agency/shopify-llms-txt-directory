@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-28T00:00:39.139Z
+- Updated At: 2026-09-04T00:00:40.494Z
 
 ## Products
 
 - [Photo Tee](https://sofiacamara.merchmadeeasy.com/products/photo-tee): Sofia Camara Photo Tee in white with front print only. 100% ring-spun heavyweight cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 33 26
-  Updated: 2026-08-18T11:14:21Z
+  Updated: 2026-09-01T04:56:28Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
@@ -32,14 +32,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [It's Complicated Hat](https://sofiacamara.merchmadeeasy.com/products/logo-hat): Sofia Camara It's Complicated two tone Hat in white/black. Snapback closure / one size fits most
-  Updated: 2026-08-25T16:31:58Z
+  Updated: 2026-09-01T04:56:27Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SOFIACOMPLICATEDHAT.png?v=1759939839
   Price: $35.00 USD
 - [SC Hoodie](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie): Sofia Camara Initials Hoodie in black with front and back print. 80/20 ring-spun cotton/polyester 3-end fleece with 100% cotton face yarns on solid color recycled polyester from plastic bottles Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-08-07T22:30:33Z
+  Updated: 2026-09-01T18:43:41Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
@@ -77,22 +77,22 @@
 ## Collections
 
 - [Home page](https://sofiacamara.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-26T11:22:35Z
+  Updated: 2026-09-02T11:25:12Z
   Total Products: 5
 - [Apparel](https://sofiacamara.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-19T11:23:42Z
+  Updated: 2026-09-02T11:25:12Z
   Total Products: 2
 - [Accessories](https://sofiacamara.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-26T11:22:35Z
+  Updated: 2026-09-01T11:27:51Z
   Total Products: 3
 - [Hats](https://sofiacamara.merchmadeeasy.com/collections/hats)
-  Updated: 2026-08-26T11:22:35Z
+  Updated: 2026-09-01T11:27:51Z
   Total Products: 1
 - [Music](https://sofiacamara.merchmadeeasy.com/collections/music)
   Updated: 2026-08-05T20:01:12Z
   Total Products: 0
 - [All](https://sofiacamara.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-26T11:22:35Z
+  Updated: 2026-09-02T11:25:12Z
   Total Products: 5
 
 ## Store Pages
