@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-09T15:21:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-26T00:00:40.124Z
+- Updated At: 2026-09-04T00:00:41.834Z
 
 ## Products
 
 - [Dirty Blonde EP](https://mollieelizabeth.merchmadeeasy.com/products/dirty-blonde-ep): Mollie Elizabeth's debut EP, Dirty Blonde on Transparent Sky Blue 10" Vinyl
-  Updated: 2026-08-22T01:21:16Z
+  Updated: 2026-09-03T21:05:07Z
   Vendor: Mollie Elizabeth
   Product Type: Vinyl
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Run Rabbit Tee](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-08-25T10:25:55Z
+  Updated: 2026-09-03T21:05:05Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -63,7 +63,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Puppet Show Tote](https://mollieelizabeth.merchmadeeasy.com/products/puppet-show-tote): I'll stitch you, stuff you, crush you Light pink canvas tote bag Portrait of a doll in a pink dress inside an oval frame with 'Mollie Elizabeth' text Artwork by @lavender_seance
-  Updated: 2026-08-21T03:56:56Z
+  Updated: 2026-09-01T20:00:35Z
   Vendor: Mollie Elizabeth
   Product Type: Tote
   Availability: Available
@@ -73,10 +73,10 @@
 ## Collections
 
 - [Home page](https://mollieelizabeth.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-22T11:22:59Z
+  Updated: 2026-09-03T11:23:44Z
   Total Products: 4
 - [Apparel](https://mollieelizabeth.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-21T11:19:46Z
+  Updated: 2026-09-03T11:23:44Z
   Total Products: 2
 - [Accessories](https://mollieelizabeth.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-21T11:19:46Z
@@ -85,10 +85,10 @@
   Updated: 2026-08-03T18:16:02Z
   Total Products: 0
 - [Music](https://mollieelizabeth.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-22T11:22:59Z
+  Updated: 2026-09-03T11:23:44Z
   Total Products: 1
 - [All](https://mollieelizabeth.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-22T11:22:59Z
+  Updated: 2026-09-03T11:23:44Z
   Total Products: 4
 
 ## Store Pages
