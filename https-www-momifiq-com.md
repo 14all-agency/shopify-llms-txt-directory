@@ -10,12 +10,12 @@
 - Contact Email: support@momifiq.com
 - Contact Phone: +1 833-699-9916
 - Address: 16000 Heron Ave, La Mirada, CA 90638, United States
-- Updated At: 2026-08-27T11:32:28.514Z
+- Updated At: 2026-09-04T00:00:30.007Z
 
 ## Products
 
 - [Momifiq Hip Seat Baby Carrier | Padded Waist Belt & Structured Seat | Hands-Free Carry](https://www.momifiq.com/products/hip-seat-baby-carrier): The Momifiq Hip Seat Baby Carrier is a versatile, hands-free carrier with a padded waist belt and structured hip seat that makes carrying your baby comfortable and convenient. The wide padded waist belt and solid seat spread your baby's weight evenly across the carrier, letting you carry comfortably for longer stretches. Suitable for newborns and toddlers, the seat holds your baby in a cozy, secure seated position. The fully adjustable waist strap fits a wide range of body types and fastens quickly without assistance. Lightweight and compact for travel, shopping, and family outings. A practical carrying solution that keeps your baby close while keeping your hands free.
-  Updated: 2026-07-03T23:28:45Z
+  Updated: 2026-08-28T18:36:20Z
   Vendor: Momifiq
   Product Type: Baby Carriers > Hip Seat Baby Carrier
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/products/9018064259_283857898.jpg?v=1773864018
     Price: $29.90 USD
 - [Vesta - Seamless Wireless Full-Support Nursing Bra](https://www.momifiq.com/products/vesta): Soft, seamless everyday support for pregnancy and nursing. Made from a flexible, breathable fabric that gives a smooth, comfortable fit whether you are at home or out and about. Key Features: Ultra-Soft & Seamless: Buttery-soft, breathable fabric with a smooth, invisible look under tees and blouses. Easy One-Handed Clips: Quick-release drop-down clasps at the shoulders for simple, discreet nursing access. Wire-Free Comfort: A wide, ribbed underbust band gives gentle, steady support with no underwire.
-  Updated: 2026-07-17T01:40:21Z
+  Updated: 2026-08-28T18:36:20Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Nursing Bras > Full-Support Nursing Bra
   Availability: Available
@@ -131,7 +131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/hf_20260703_222726_3d119b67-d262-4837-bf78-32b619226692.png?v=1783119671
     Price: $29.90 USD
 - [Wayfarer - Maternity Bag](https://www.momifiq.com/products/wayfarer-maternity-backpack): Stylish and practical diaper backpack designed for modern parents on the go. This multifunctional baby bag features a spacious main compartment with smart internal organization, allowing you to easily store diapers, bottles, wipes, clothes, and personal essentials. Insulated pockets help keep bottles at the right temperature, while durable waterproof fabric protects your belongings from spills and weather. Comfortable shoulder straps and stroller hooks make it easy to carry or attach to your stroller. With its sleek, minimalist design, this bag works perfectly for both moms and dads - combining functionality with everyday style
-  Updated: 2026-07-03T23:28:45Z
+  Updated: 2026-08-28T18:36:21Z
   Vendor: Momifiq
   Product Type: Diaper Bags > Travel Baby Diaper Bag with Changing Pad
   Availability: Available
@@ -153,7 +153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/8_660e7e26-bef5-448e-8806-d7c35c0763a2.png?v=1773926276
     Price: $89.90 USD
 - [Momifiq Baby Shoes | Flexible Grip Sole Toddler Shoes | Breathable, Wide Toe Box, Machine Washable](https://www.momifiq.com/products/mooch-baby-shoes): Momifiq Baby Shoes are flexible, lightweight toddler shoes designed to let little feet move as naturally as possible. Their thin, tactile soles allow toddlers to feel the ground with every step, encouraging confident and curious movement during early walking. Flat insoles and a generously wide toe box give little toes plenty of room to spread and move freely. The strong grip TPR rubber sole provides reliable traction on indoor and outdoor surfaces. A premium breathable cotton upper with ventilation holes keeps feet fresh and comfortable, while the padded protective front bumper adds an extra layer of care during active play. Machine washable and quick-drying. Available in multiple sizes with age approximations.
-  Updated: 2026-08-13T15:16:21Z
+  Updated: 2026-08-28T18:36:21Z
   Vendor: Momifiq
   Product Type: Baby & Toddler Apparel > Baby Shoes
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/pixelcut-export_16.jpg?v=1773931139
     Price: $17.90 USD
 - [Athena - 3-Pack High-Waist Adjustable Support Maternity Panties](https://www.momifiq.com/products/athena-3-pack-high-waist-adjustable-support-maternity-panties): Soft, breathable high-waist maternity briefs with an adjustable waistband for a secure, comfortable fit through every stage of pregnancy. Key Features: Cotton-Rich Comfort: A soft cotton and elastane blend that feels gentle against the skin and stays breathable for all-day wear. Gentle High-Waist Coverage: A high-waist design that sits comfortably over the bump for smooth, gentle coverage. Customizable Fit: An adjustable waistband lets you fine-tune the fit for non-restrictive comfort as your body changes. Seamless Daily Wear: Smooth, flat finish in everyday colors that stays invisible under any outfit, from loungewear to workwear.
-  Updated: 2026-08-24T21:05:57Z
+  Updated: 2026-08-28T18:36:21Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Maternity Panties > Pregnancy Belly Support Panties
   Availability: Available
@@ -525,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/ATHENA_8.png?v=1778953830
     Price: $49.90 USD
 - [Freya - Airy-Soft Wireless Front-Open Nursing & Maternity Bralette](https://www.momifiq.com/products/freya-airy-soft-wireless-front-open-nursing-maternity-bralette): Lightweight, seamless support for pregnancy and nursing. A soft, flexible fabric gives a smooth, comfortable fit at home or out and about. Key Features: Ultra-Soft & Seamless: Buttery-soft, breathable fabric with a smooth, invisible look under tees and blouses. Easy One-Handed Clips: Quick-release drop-down clasps for simple, discreet nursing access. Wire-Free Comfort: A wide, ribbed underbust band offers gentle, steady support with no underwire.
-  Updated: 2026-07-18T14:36:04Z
+  Updated: 2026-08-28T18:36:21Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Nursing Bras > Full-Support Nursing Bra
   Availability: Available
@@ -611,7 +611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/ISIS_6.png?v=1778832248
     Price: $39.90 USD
 - [Amatesaru - Breathable Maternity Support Belt - Adjustable Belly Band for Pregnancy & Postpartum](https://www.momifiq.com/products/amatesaru-maternity-belt): Gentle, adjustable belly support for pregnancy and beyond. The Amatesaru Maternity Support Belt cradles your bump with soft, breathable fabric for comfortable, supported movement from pregnancy through the postpartum months. Key Features: Soft, Breathable Feel: Lightweight, breathable fabric that stays comfortable against the skin throughout the day. Gentle Bump Support: Cradles and gently supports your growing bump for a comfortable, secure feel as you move. Even, Comfortable Fit: Helps distribute the weight of your bump evenly for easy, comfortable wear while walking, standing, or sitting. Fully Adjustable: Simple to put on and adjust as your bump grows, with a wide hook-and-loop fastener for a customizable fit. Pregnancy to Postpartum: Transitions from a pregnancy support band into a comfortable postpartum wrap.
-  Updated: 2026-08-08T13:01:52Z
+  Updated: 2026-08-28T18:36:22Z
   Vendor: Momifiq
   Product Type: Maternity Belly Bands > Pregnancy Belly Support Belt
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/AMATERASU_13.png?v=1778894949
     Price: $59.90 USD
 - [Bastet - Airy-Lift Dual-Adjustable Antenatal Support Belt](https://www.momifiq.com/products/bastet-airy-lift-dual-adjustable-antenatal-support-belt): Soft, structured support for active expectant mothers. The Bastet Maternity Support Band gently lifts and cradles your bump for comfortable, supported movement from pregnancy into the postpartum months. Key Features: Soft, Breathable Feel: Lightweight, breathable fabric that keeps skin cool, dry, and comfortable all day. Gentle Bump Support: Cushions and gently lifts the bump for a comfortable, secure feel as you move. Comfortable Everyday Wear: Soft, even support that makes walking, standing, and daily activity feel more comfortable. Adjustable & Stabilizing: A supportive design that helps you stay comfortable and steady through everyday movement. Pregnancy to Postpartum: Continues as a comfortable postpartum support wrap after your baby arrives.
-  Updated: 2026-07-18T03:39:17Z
+  Updated: 2026-08-28T18:36:22Z
   Vendor: Momifiq
   Product Type: Maternity Belly Bands > Pregnancy Belly Support Belt
   Availability: Available
@@ -647,7 +647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/BASTET_8.png?v=1780173427
     Price: $69.90 USD
 - [Kali - Sculpt-Lift Wireless Seamless Nursing Bra](https://www.momifiq.com/products/kali-nursing-bras): Easy shaping and wire-free comfort for pregnancy and nursing. The Kali Nursing Bra has a built-in front lift design and a breathable, seamless build for full-stage maternity and nursing wear. Key Features: Front Lift Design: A structured front design that lifts and centers for a smooth, supported shape without rigid underwires. Wire-Free Full-Stage Support: Steady, gentle support that is comfortable enough for overnight wear and supportive enough for active days through pregnancy and nursing. Breathable Tri-Blend: A blend of nylon, spandex, and cotton that supports airflow and moisture management to keep skin cool and dry. Seamless, Invisible Profile: Smooth, stitch-free edges that resist pinching and visible lines, staying undetectable under fitted tops and loungewear.
-  Updated: 2026-08-24T22:32:58Z
+  Updated: 2026-08-28T18:36:22Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Nursing Bras > Full-Support Nursing Bra
   Availability: Available
@@ -821,7 +821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/KALI_20.png?v=1779380888
     Price: $39.90 USD
 - [Aphrodite - Wireless Nursing Bra with Breathable Full Cup Support for Maternity & Leisure](https://www.momifiq.com/products/aphrodite-wireless-nursing-bra-with-breathable-full-cup-support-for-maternity-leisure): Gentle support and easy everyday comfort with the Aphrodite Wireless Nursing Bra. Designed for expecting and nursing mothers, this full-cup bra gives a smooth, lifted shape without the poke of underwires. Soft, breathable, moisture-wicking fabric keeps you cool and comfortable through all four seasons, and the seamless stretch adapts to your natural shape. With a front-access design and wide, dig-free straps, it offers easy, comfortable everyday wear. Key Features: Wire-Free Support: Full-cup coverage and a gentle lift without underwires for smooth, dig-free comfort. Breathable Fabric: A soft nylon-polyester blend that supports airflow to keep skin cool and dry. Easy Front-Drop Clips: Effortless, one-handed nursing access for day or nighttime feeds. Smooth, Seamless Fit: Resists bulges and sits smoothly under tees and loungewear. All-Day Wear: A multi-purpose bra for pregnancy, postpartum, sleep, and casual daily use.
-  Updated: 2026-07-17T05:12:15Z
+  Updated: 2026-08-28T18:36:23Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Nursing Bras > Full-Support Nursing Bra
   Availability: Available
@@ -971,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/APHRODITE_23.png?v=1779480445
     Price: $39.90 USD
 - [Hera - Seamless Lift Maternity & Nursing Bra](https://www.momifiq.com/products/hera-seamless-push-up-maternity-nursing-bra): Easy lift and wire-free comfort in one. The Hera Maternity & Nursing Bra supports your changing body through every stage of motherhood, pairing a gentle front lift with the soft, seamless feel of a wire-free lounge bra. Through pregnancy and nursing, it moves with you, breathes with you, and keeps you feeling comfortable all day. Key Features: Front Lift Design: A gentle, natural lift and steady support without underwires. True Seamless Comfort: A breathable blend of nylon, spandex, cotton, and polyester that feels like a second skin, with no scratching or digging. Grows With You: Adjustable straps and a rear double-row closure make it easy to adjust the fit as your body changes through maternity and nursing. All-Day Breathability: Moisture-wicking fabric keeps you cool in summer and comfortable in winter for a year-round staple.
-  Updated: 2026-07-21T05:21:47Z
+  Updated: 2026-08-28T18:36:23Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Nursing Bras > Full-Support Nursing Bra
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/HERA_18.png?v=1779520219
     Price: $39.90 USD
 - [Apate - Maternity Leggings – Over Belly Pregnancy Yoga Pants](https://www.momifiq.com/products/apate-maternity-leggings-over-belly-pregnancy-yoga-pants): Experience ultimate comfort from studio to street. Crafted with an ultra-elastic, breathable fabric, these over-the-belly maternity leggings offer gentle, weightless support for your growing bump. Designed to stretch freely without restriction, they seamlessly blend style and relief for work, workouts, or cozy days at home. Key Features: Ultra-Soft & Breathable: Crafted from a buttery-soft, premium fabric that keeps you cool and comfortable, offering a sleek, elegant look that pairs effortlessly with any outfit. Over-The-Belly Panel: Features a supportive high-waist structure designed to expand naturally with your bump, easing lower back pressure while staying securely in place. All-Day Stretch Comfort: Engineered with high-elasticity fabric that moves freely with your body changes, delivering gentle, zero-restriction support from morning workouts to casual lounge days.
-  Updated: 2026-08-24T22:32:32Z
+  Updated: 2026-08-28T18:36:23Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Maternity Leggings > Pregnancy Belly Support Leggings
   Availability: Available
@@ -1095,7 +1095,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/TRANI_58.png?v=1781382449
     Price: $69.90 USD
 - [Artemis - 3-Pack Maternity Workout Leggings – Adjustable Over-Belly Support & Pockets](https://www.momifiq.com/products/apate-full-support-maternity-leggings-copy): Designed with an innovative adjustable waistband and ergonomic U-shaped bump support, they gently cradle your growing belly without applying uncomfortable pressure. Complete with spacious side pockets to keep your phone and essentials within reach, this Artemis 3-Pack Maternity Leggings is your perfect go-to for yoga, active workouts, or daily errands. Key Features 360° Smart Growth Adaptation: Features an innovative, built-in adjustable elastic waistband with button slots. It seamlessly expands and adjusts to your changing waist circumference throughout all stages of pregnancy. Ergonomic U-Shaped Bump Support: The ultra-high waist design includes a specialized 180° stomach-protecting, belly-supporting wrap. It gently cradles your growing bump, delivering stable support without applying uncomfortable pressure. Flexible Side Panels: Engineered with a dedicated side elastic band structure to naturally flex alongside your unique body changes. Premium 4-Way Stretch Fabric: High-elasticity material provides a soft, breathable texture that prevents overheating during active workouts. Flattering Contour Silhouette: Designed with a signature dual-line rear U-shaped lifting layout to create a beautifully structured, supportive, and flattering silhouette. Deep Functional Side Pockets: Includes spacious, integrated side pockets perfectly sized to keep small daily essentials like your phone, keys, or cards safely within reach.
-  Updated: 2026-07-19T13:25:35Z
+  Updated: 2026-08-28T18:36:24Z
   Vendor: Momifiq
   Product Type: Maternity Clothing > Maternity Leggings > Pregnancy Belly Support Leggings
   Availability: Available
@@ -1124,6 +1124,164 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/ARTEMIS_15.png?v=1781420814
     Price: $179.90 USD
+- [Demeter - Detachable Maternity Pillow – G-Shaped Crystal Velvet Lumbar Support Cushion](https://www.momifiq.com/products/demeter-detachable-maternity-pillow-g-shaped-crystal-velvet-lumbar-support-cushion-for-pregnant-side-lying): Designed with a supportive G-shaped contour and soft crystal velvet cover, this Demeter Detachable Maternity Pillow comfortably adapts to the body's natural curves during pregnancy. Its high-density fiber filling provides gentle, stable support for side sleeping, while the flexible detachable design allows it to be adjusted for reading, relaxing, watching TV, or elevating the legs. A breathable mesh-infused velvet cover helps maintain comfortable airflow for restful use throughout the day and night. Key Features Ergonomic G-Shaped Pregnancy Support: Features a body-contouring G-shaped design that comfortably follows the natural curves of the body, providing supportive cushioning for the back, neck, waist, and growing belly. Soft High-Density Fiber Filling: Filled with premium filament fiber that maintains a smooth, stable structure inside the pillow while providing soft, comfortable support for side sleeping and relaxation. Detachable & Flexible Design: The versatile detachable construction allows the pillow to be adjusted into different positions and configurations to suit various resting and relaxation needs. Multifunctional Wedge Support: Can be folded into a wedge-shaped cushion to comfortably elevate the legs while reading, watching TV, playing games, or relaxing, providing versatile support beyond sleep. Breathable Crystal Velvet Cover: Crafted with soft crystal velvet and breathable mesh fabric, the cover promotes air circulation while providing a smooth, cozy feel against the skin for comfortable all-time use. Versatile Comfort for Everyone: Designed with pregnancy support in mind but suitable for anyone who prefers comfortable body support while lying on the side, back, or prone.
+  Updated: 2026-08-29T21:09:28Z
+  Vendor: Momifiq
+  Product Type: Home & Garden > Linens & Bedding > Bedding > Pillows
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/DEMETER.png?v=1786370736
+  Price: $179.90 USD
+- [Gaia - Inflatable O-Shaped Maternity Pillow  with Air-Pump Included](https://www.momifiq.com/products/nike-inflatable-o-shaped-maternity-pillow-pregnancy-support-air-mattress-with-pump-for-sleeping-yoga-relaxation): Designed with a supportive O-shaped contour and durable phthalate-free PVC construction, this Gaia Inflatable Maternity Pillow provides comfortable support for expectant mothers during rest, sleep, exercise, and relaxation. Best of all, an air pump is included with your purchase to make inflation quick and effortless. Its raised edges and elevated abdominal section help support the hips, pelvis, waist, and growing belly, while the dual inflatable chambers with individual safety valves allow for convenient inflation and adjustment. Lightweight and versatile, it can be used at home or taken along for pregnancy yoga, Pilates, massages, beach trips, or poolside relaxation. Key Features Ergonomic O-Shaped Pregnancy Support: Features a thoughtfully designed O-shaped opening that provides space for the growing belly while the surrounding raised contours help support the hips, pelvis, waist, and body during rest. Supportive Elevated Abdominal Area: The specially raised belly section provides additional cushioning and support for the abdomen, helping maintain a comfortable and supported body position while lying down. Dual Inflatable Chamber Design: Built with two separate inflatable sections, each equipped with its own safety valve for convenient inflation, adjustment, and secure use. Convenient Air Pump Included: Every pillow comes with a handy air pump included, ensuring you can easily inflate and set up your maternity pillow anywhere, anytime. Durable Phthalate-Free PVC: Crafted from high-quality, non-adhesive, phthalate-free PVC designed to provide a durable and comfortable surface for everyday pregnancy use. Multifunctional Pregnancy Comfort: Suitable for sleeping, relaxing, pregnancy yoga, Pilates, massages, sunbathing, beach outings, and poolside activities, making it a versatile companion throughout pregnancy. Portable & Easy to Carry: The inflatable design allows the pillow to be deflated for convenient storage and transportation, making it easy to bring along wherever pregnancy comfort is needed.
+  Updated: 2026-08-29T21:09:28Z
+  Vendor: Momifiq
+  Product Type: Home & Garden > Linens & Bedding > Bedding > Pillows
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/NIKE_3.png?v=1786398493
+  - [Brown](https://www.momifiq.com/products/nike-inflatable-o-shaped-maternity-pillow-pregnancy-support-air-mattress-with-pump-for-sleeping-yoga-relaxation?variant=71123348685053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/Gaia.png?v=1787614265
+    Price: $129.90 USD
+  - [Pink](https://www.momifiq.com/products/nike-inflatable-o-shaped-maternity-pillow-pregnancy-support-air-mattress-with-pump-for-sleeping-yoga-relaxation?variant=71123348717821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/Gaia_1.png?v=1787614266
+    Price: $129.90 USD
+  - [Blue](https://www.momifiq.com/products/nike-inflatable-o-shaped-maternity-pillow-pregnancy-support-air-mattress-with-pump-for-sleeping-yoga-relaxation?variant=71123348750589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/Gaia_2.png?v=1787614265
+    Price: $129.90 USD
+- [Hestia - Soft U-Shaped Full-Body Pregnancy Pillow](https://www.momifiq.com/products/hestia-soft-full-body-pregnancy-pillow-130-70cm-u-shaped-maternity-support-cushion-for-side-sleeping-nursing-relaxation): Designed with a soft U-shaped full-body contour, this Hestia Pregnancy Pillow provides comfortable support for expectant mothers while sleeping, nursing, breastfeeding, or relaxing at home. Its 130 × 70 cm size offers supportive cushioning around the body, helping create a comfortable resting position for side sleepers. The pillow arrives in compressed packaging and can be gently fluffed, rubbed, and aired after unpacking to restore its full shape. Key Features Full-Body U-Shaped Support: Features a spacious U-shaped design that comfortably surrounds the body, providing supportive cushioning for side sleeping, resting, and relaxation. Soft & Comfortable Cushioning: Filled with soft cushioning material designed to provide a cozy and supportive surface for expectant mothers throughout pregnancy. Pregnancy & Nursing Support: Versatile design provides comfortable support during pregnancy and can also be used while nursing or breastfeeding after the baby arrives. 130 × 70cm Body-Friendly Size: Measuring approximately 130 × 70 cm and weighing around 1700g, the pillow provides full-body support while maintaining a practical size for everyday household use. Multi-Functional Rest Cushion: Suitable for side sleeping, lounging, reading, watching TV, nursing, breastfeeding, or simply relaxing at home. Fluffs Back to Full Shape: The pillow is shipped in compressed packaging to reduce shipping volume. After unpacking, gently tap, rub, and air the pillow in sunlight to help restore its original fullness and shape.
+  Updated: 2026-08-29T21:09:28Z
+  Vendor: Momifiq
+  Product Type: Home & Garden > Linens & Bedding > Bedding > Pillows
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/HESTIA_5.png?v=1786458551
+  Price: $99.90 USD
+- [Persephone - Women's Maternity Nursing Top – Double-Layer Breastfeeding T-Shirt with Short Sleeves](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves): Designed for comfort throughout pregnancy and beyond, the Persephone Maternity Nursing Top combines a soft, stretchy fabric with a practical double-layer design for convenient breastfeeding access. Featuring a classic round neckline, short sleeves, and a relaxed regular-length silhouette, this versatile top is ideal for pregnancy, nursing, sleeping, lounging, or everyday wear. Key Features Easy Breastfeeding Access: Features a convenient double-layer construction with quick drop-down cups, allowing easy and discreet access for breastfeeding without needing to remove the entire top. Soft & Stretchy Fabric: Made with a comfortable blend of 95% Rayon and 5% Spandex, providing a soft, breathable, and flexible feel that comfortably adapts to the changing body during pregnancy. Pregnancy-Friendly Fit: The elastic and relaxed construction provides comfortable room throughout early pregnancy, the second trimester, late pregnancy, and the postpartum period. Classic Everyday Design: Features a round neckline, short sleeves, regular length, pull-on closure, and casual loose fit for effortless everyday styling. Versatile for Any Occasion: Suitable for sleeping, lounging, relaxing at home, running errands, or layering under a sweater or jacket for a simple everyday look. Easy-Care Construction: Designed for convenient maintenance and can be hand washed or machine washed. Hang dry after washing and avoid bleach to help maintain the fabric's softness and appearance.
+  Updated: 2026-08-29T21:09:28Z
+  Vendor: Momifiq
+  Product Type: Maternity Clothing > Maternity Nursing Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHONE_3.png?v=1786434623
+  - [S / Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71097488048381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_2.png?v=1786233240
+    Price: $39.90 USD
+  - [S / Black](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083774717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_1.png?v=1786233240
+    Price: $39.90 USD
+  - [S / Blue](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083807485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_3.png?v=1786233240
+    Price: $39.90 USD
+  - [S / Red](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083840253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_5.png?v=1786233241
+    Price: $39.90 USD
+  - [S / Dark Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083873021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE.png?v=1786233240
+    Price: $39.90 USD
+  - [S / Green](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083905789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_4.png?v=1786233241
+    Price: $39.90 USD
+  - [M / Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71097488081149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_2.png?v=1786233240
+    Price: $39.90 USD
+  - [M / Black](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083938557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_1.png?v=1786233240
+    Price: $39.90 USD
+  - [M / Blue](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122083971325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_3.png?v=1786233240
+    Price: $39.90 USD
+  - [M / Red](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084004093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_5.png?v=1786233241
+    Price: $39.90 USD
+  - [M / Dark Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084036861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE.png?v=1786233240
+    Price: $39.90 USD
+  - [M / Green](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084069629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_4.png?v=1786233241
+    Price: $39.90 USD
+  - [L / Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71097488113917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_2.png?v=1786233240
+    Price: $39.90 USD
+  - [L / Black](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084102397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_1.png?v=1786233240
+    Price: $39.90 USD
+  - [L / Blue](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084135165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_3.png?v=1786233240
+    Price: $39.90 USD
+  - [L / Red](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084167933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_5.png?v=1786233241
+    Price: $39.90 USD
+  - [L / Dark Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084200701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE.png?v=1786233240
+    Price: $39.90 USD
+  - [L / Green](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122084233469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_4.png?v=1786233241
+    Price: $39.90 USD
+  - [XL / Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086559997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_2.png?v=1786233240
+    Price: $39.90 USD
+  - [XL / Black](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086592765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_1.png?v=1786233240
+    Price: $39.90 USD
+  - [XL / Blue](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086625533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_3.png?v=1786233240
+    Price: $39.90 USD
+  - [XL / Red](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086658301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_5.png?v=1786233241
+    Price: $39.90 USD
+  - [XL / Dark Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086691069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE.png?v=1786233240
+    Price: $39.90 USD
+  - [XL / Green](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086723837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_4.png?v=1786233241
+    Price: $39.90 USD
+  - [XXL / Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086756605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_2.png?v=1786233240
+    Price: $39.90 USD
+  - [XXL / Black](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086789373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_1.png?v=1786233240
+    Price: $39.90 USD
+  - [XXL / Blue](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086822141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_3.png?v=1786233240
+    Price: $39.90 USD
+  - [XXL / Red](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086854909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_5.png?v=1786233241
+    Price: $39.90 USD
+  - [XXL / Dark Gray](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086887677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE.png?v=1786233240
+    Price: $39.90 USD
+  - [XXL / Green](https://www.momifiq.com/products/persephone-womens-maternity-nursing-top-double-layer-breastfeeding-t-shirt-with-short-sleeves?variant=71122086920445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/PERSEPHNE_4.png?v=1786233241
+    Price: $39.90 USD
 
 ## Collections
 
@@ -1137,7 +1295,7 @@
   Updated: 2026-05-26T16:39:35Z
   Total Products: 10
 - [Maternity](https://www.momifiq.com/collections/maternity): Maternity products for pregnant moms. First time mom? This section will give you a tip on how to make your life easier with Pregnancy bras, Pregnancy pajamas, Pregnancy leggings, and more.
-  Updated: 2026-08-25T11:06:19Z
+  Updated: 2026-08-29T17:21:57Z
   Total Products: 34
 - [Postpartum & Nursing](https://www.momifiq.com/collections/postpartum-nursing): Maternity products for moms and their babies. First time mom? This section will give you a tip on how to make your life easier with Nursing Wear, Mommy Backpacks, Baby Shoes, Baby Bottle Warmers, and more.
   Updated: 2026-08-14T11:08:19Z
@@ -1155,7 +1313,7 @@
   Updated: 2026-05-26T16:39:36Z
   Total Products: 2
 - [Multifeeds](https://www.momifiq.com/collections/multifeeds)
-  Updated: 2026-08-25T11:06:19Z
+  Updated: 2026-08-29T17:21:57Z
   Total Products: 19
 - [Support belts](https://www.momifiq.com/collections/support-belts)
   Updated: 2026-08-04T11:06:34Z
