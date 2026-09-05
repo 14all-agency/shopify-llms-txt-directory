@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T03:29:44Z
 - Contact Email: support@vetcardsfl.com
-- Updated At: 2026-08-29T00:00:44.874Z
+- Updated At: 2026-09-05T00:00:47.075Z
 
 ## Products
 
@@ -1396,13 +1396,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62721276-front.jpg?v=1782916518
   Price: $1.00 USD
-- [2025 Panini Absolute Black 21 Audric Estime 15414](https://ruc1qy-fa.myshopify.com/products/2025-panini-absolute-black-21-audric-estime-15414-11cc1p): Football 2025 Panini Absolute #21 Audric Estime Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-08-16T07:13:34Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62721277-front.jpg?v=1782916518
-  Price: $1.25 USD
 - [2025 Panini Absolute Red 66 Bucky Irving 15415](https://ruc1qy-fa.myshopify.com/products/2025-panini-absolute-red-66-bucky-irving-15415-11cc1q): Football 2025 Panini Absolute #66 Bucky Irving Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-08-16T06:08:50Z
   Vendor: CDP
@@ -1760,7 +1753,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62824569-front.jpg?v=1782960206
   Price: $1.99 USD
-[List Continued](https://ruc1qy-fa.myshopify.com/a/llms-agent/llms.txt?shop=ruc1qy-fa.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTM1MjY1NzY3NDY2LCJsYXN0X3ZhbHVlIjoiNzkzNTI2NTc2NzQ2NiJ9)
+- [2023 Panini Select Silver Prizms Die Cuts 98 Andre Jones 15520](https://ruc1qy-fa.myshopify.com/products/2023-panini-select-silver-prizms-die-cuts-98-andre-jones-15520-11ejqu): Football 2023 Panini Select #98 Andre Jones Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-08-16T09:07:00Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62824566-front.jpg?v=1782960205
+  Price: $1.42 USD
+[List Continued](https://ruc1qy-fa.myshopify.com/a/llms-agent/llms.txt?shop=ruc1qy-fa.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTM1MjY1ODAwMjM0LCJsYXN0X3ZhbHVlIjoiNzkzNTI2NTgwMDIzNCJ9)
 
 ## Collections
 
@@ -1768,20 +1768,20 @@
   Updated: 2026-08-15T14:10:48Z
   Total Products: 2
 - [Baseball](https://ruc1qy-fa.myshopify.com/collections/baseball): Browse our Baseball Card collection — from golden-age legends to modern superstars, we carry raw singles and graded slabs spanning the full history of the game. Whether you're hunting a high-grade vintage key or looking for the next great submission candidate, our inventory is sourced for quality collectors. New cards added regularly.
-  Updated: 2026-08-27T19:31:50Z
-  Total Products: 507
+  Updated: 2026-09-04T12:16:01Z
+  Total Products: 617
 - [Football](https://ruc1qy-fa.myshopify.com/collections/football): Browse our Football Card collection — from vintage legends to modern rookies, we stock raw singles and graded slabs across all eras of the game. Whether you're chasing a high-grade key rookie or digging for hidden gems to submit, our inventory is curated for serious collectors. New cards added regularly.
-  Updated: 2026-08-27T16:04:32Z
-  Total Products: 1812
+  Updated: 2026-09-04T01:14:07Z
+  Total Products: 1975
 - [Basketball](https://ruc1qy-fa.myshopify.com/collections/basketball): Browse our Basketball Card collection — from rookie cards to graded slabs, we carry singles and sets spanning decades of the game. Whether you're chasing a PSA 10 of your favorite player or hunting raw gems to submit, our inventory is sourced for quality and authenticity. New arrivals added regularly.
-  Updated: 2026-08-27T14:53:13Z
-  Total Products: 481
+  Updated: 2026-09-01T03:25:23Z
+  Total Products: 478
 - [Gaming Cards](https://ruc1qy-fa.myshopify.com/collections/gaming-cards): Browse our Gaming Cards collection — Pokémon, Magic: The Gathering, Yu-Gi-Oh!, and more. We carry singles, holos, and graded slabs for collectors and players alike. Whether you're chasing a PSA 10 chase card or hunting raw gems to submit, our inventory is sourced for quality. New cards added regularly.
-  Updated: 2026-08-19T04:27:06Z
-  Total Products: 28
-- [Other Sports Cards](https://ruc1qy-fa.myshopify.com/collections/other-sports-cards-fl): Browse our Other Sports Cards collection — hockey, soccer, golf, boxing, and beyond. We carry raw singles and graded slabs from across the sporting world, sourced for collectors who know the hobby isn't limited to the big three. Niche finds, key rookies, and vintage gems — all in one place. New cards added regularly.
-  Updated: 2026-08-26T19:00:35Z
+  Updated: 2026-09-01T12:23:46Z
   Total Products: 41
+- [Other Sports Cards](https://ruc1qy-fa.myshopify.com/collections/other-sports-cards-fl): Browse our Other Sports Cards collection — hockey, soccer, golf, boxing, and beyond. We carry raw singles and graded slabs from across the sporting world, sourced for collectors who know the hobby isn't limited to the big three. Niche finds, key rookies, and vintage gems — all in one place. New cards added regularly.
+  Updated: 2026-09-03T13:29:18Z
+  Total Products: 50
 
 ## Blogs
 
@@ -1928,6 +1928,34 @@
     Updated: 2026-08-28T06:01:50Z
     Author: Monty Van Dyke - VetCardsFL
     Tags: amon-ra st. brown tips, baseball cards, basketball cards, card collecting, card value, cards, football, football cards, graded cards, graded rookie cards, grading,  strategies, maximize card value, psa 10 football cards, psa cards, rookie cards, sports cards, wcg cards
+  - [Essential Tips for Collecting 1989-90 Larry Bird Fleer Stickers PSA Cards](https://ruc1qy-fa.myshopify.com/blogs/news/essential-tips-for-collecting-1989-90-larry-bird-fleer-stickers-psa-cards): Essential Tips for Collecting 1989-90 Larry Bird Fleer Stickers PSA Cards
+    Updated: 2026-08-29T06:01:12Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, basketball  stickers, card collecting, cards, collecting, fleer stickers, football cards, graded cards, graded rookie cards, larry, larry bird cards, psa 10 football cards, psa cards, psa grading, rookie cards, sports cards, sports memorabilia, wcg cards
+  - [The Intricacies of 1994 Sportflics 2026 Roger Clemens in the Graded Sports Card Market](https://ruc1qy-fa.myshopify.com/blogs/news/the-intricacies-of-1994-sportflics-2026-roger-clemens-in-the-graded-sports-card-market): The Intricacies of 1994 Sportflics 2026 Roger Clemens in the Graded Sports Card Market
+    Updated: 2026-08-30T06:20:45Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: 1994 cards, baseball cards, basketball cards, card collecting, clemens, football cards, graded, graded card market trends, graded cards, graded rookie cards, psa 10 football cards, psa cards, roger clemens value, rookie cards, sportflics, sports cards,  cards, wcg cards
+  - [2026 Profile: Grading Potential of Topps #225 Brusdar Graterol for Rookie Card Collecting](https://ruc1qy-fa.myshopify.com/blogs/news/2026-profile-grading-potential-of-topps-225-brusdar-graterol-for-rookie-card-collecting): 2026 Profile: Grading Potential of Topps #225 Brusdar Graterol for Rookie Card Collecting
+    Updated: 2026-08-31T06:03:16Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, card collecting, collecting, football cards, graded cards, graded rookie cards, grading potential analysis, graterol, player profiling, psa 10 football cards, psa cards, rookie, rookie card trends, rookie cards, sports cards, topps cards, wcg cards
+  - [Elevate Your Collection with Roki Sasaki PSA Graded Rookie Baseball Cards](https://ruc1qy-fa.myshopify.com/blogs/news/elevate-your-collection-with-roki-sasaki-psa-graded-rookie-baseball-cards): Elevate Your Collection with Roki Sasaki PSA Graded Rookie Baseball Cards
+    Updated: 2026-09-01T06:01:40Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball, baseball cards, basketball cards, card collecting, cards, collectible baseball cards, football cards, graded baseball, graded cards, graded rookie cards, psa 10 football cards, psa cards, roki sasaki, roki sasaki rookie cards, rookie, rookie cards, sports cards, wcg cards
+  - [Exploring Daniel Jones 2026 All Topps Rookie Cards: A Sports Card Collector's Guide](https://ruc1qy-fa.myshopify.com/blogs/news/exploring-daniel-jones-2026-all-topps-rookie-cards-a-sports-card-collectors-guide): Exploring Daniel Jones 2026 All Topps Rookie Cards: A Sports Card Collector's Guide
+    Updated: 2026-09-02T06:01:14Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: 2026 rookie cards, baseball cards, basketball cards, card collecting, cards, collecting, daniel jones guide, football cards, graded cards, graded rookie cards, jones, psa 10 football cards, psa cards, rookie cards, sports card collection, sports cards, sports memorabilia, topps rookie, wcg cards
+  - [Exploring the 2026-25 Panini Prizm Nikola Topic Rookie Card for Basketball Card Collecting](https://ruc1qy-fa.myshopify.com/blogs/news/exploring-the-2026-25-panini-prizm-nikola-topic-rookie-card-for-basketball-card-collecting): Exploring the 2026-25 Panini Prizm Nikola Topic Rookie Card for Basketball Card Collecting
+    Updated: 2026-09-03T06:01:58Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: 2026 prizm cards, baseball cards, basketball, basketball card review, basketball cards, card, card collecting, football cards, graded cards, graded rookie cards, nikola topic, prizm, psa 10 football cards, psa cards, rookie card, rookie cards, sports cards, wcg cards
+  - [Exploring the 2026 Topps Update Matt Shaw Rookie Card: Collector's Ultimate Guide](https://ruc1qy-fa.myshopify.com/blogs/news/exploring-the-2026-topps-update-matt-shaw-rookie-card-collectors-ultimate-guide): Exploring the 2026 Topps Update Matt Shaw Rookie Card: Collector's Ultimate Guide
+    Updated: 2026-09-04T06:01:17Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: 2026 rookie card, baseball, baseball cards, basketball cards, card collecting, cards, collector guide, football cards, graded cards, graded rookie cards, matt shaw, psa 10 football cards, psa cards, rookie, rookie cards, sports cards, topps update, ultimate card collecting, wcg cards
 
 ## Store Pages
 
