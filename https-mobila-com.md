@@ -1,5 +1,7 @@
 # Tamos (https://mobila.com)
 
+> Comanda mobila ieftina online direct din fabrica. Peste 200.000 clienti multumiti recomanda mobila de calitate. Te asteptam in magazinele TAMOS.
+
 - Domain: https://mobila.com
 - Locale: ro
 - Currency: RON
@@ -7,7 +9,7 @@
 - Created At: 2025-12-15T18:58:27Z
 - Contact Email: online@tamos.ro
 - Contact Phone: +40745171717
-- Updated At: 2026-08-07T07:27:15.986Z
+- Updated At: 2026-09-05T00:00:42.773Z
 
 ## Products
 
