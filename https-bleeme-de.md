@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-12T13:00:41Z
 - Contact Email: hallo@bleeme.de
-- Updated At: 2026-08-29T00:00:32.135Z
+- Updated At: 2026-09-05T00:00:34.893Z
 
 ## Products
 
 - [ENERGY BOOST: Energie ohne Koffein & Stimulanz | BLEEME™](https://bleeme.de/products/energie-komplex-vitamin-b-coenzym-q10): BLEEME™ ENERGY BOOST: 83% wach ohne Koffein-Abhängigkeit. Bioaktive B-Vitamine + Q10 + Eisen. Nur 1 Kapsel täglich. Hergestellt in Deutschland → Jetzt bestellen
-  Updated: 2026-08-26T14:51:23Z
+  Updated: 2026-09-03T07:30:36Z
   Vendor: bleeme.™
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/IMMUN_STARK-MULTIPACK-3er.jpg?v=1771003975
     Price: 99,61 € EUR
 - [Ganzheitlicher 8-fach Hormon-Komplex | BLEEME™](https://bleeme.de/products/frauen-hormone-komplex-moenchspfeffer-eisen): Ersetzt 3–5 Einzelpräparate. 81% keine Krämpfe mehr. 8-Wirkstoff-Komplex mit Mönchspfeffer + B6 + Eisen + Östrogen-Balance. Hergestellt in Deutschland → Jetzt bestellen
-  Updated: 2026-08-26T14:47:46Z
+  Updated: 2026-09-03T07:30:37Z
   Vendor: bleeme.™
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/STRESS_BALANCE-MULTIPACK-3er.jpg?v=1771003976
     Price: 99,61 € EUR
 - [KÖRPER BALANCE: Curcuma + Boswellia + Quercetin | BLEEME™](https://bleeme.de/products/entzuendung-komplex-curcuma-boswellia): BLEEME™ KÖRPER BALANCE: Stille Entzündungen ganzheitlich begleiten. 95% Curcuminoide + Piperin + Boswellia + Quercetin. Gelenke, Darm, Haut. Hergestellt in Deutschland → Jetzt bestellen
-  Updated: 2026-08-26T14:52:56Z
+  Updated: 2026-09-03T07:30:37Z
   Vendor: bleeme.™
   Product Type: 
   Availability: Available
@@ -233,34 +233,34 @@
   Updated: 2026-01-27T13:40:19Z
   Total Products: 0
 - [Alle Produkte](https://bleeme.de/collections/alle-produkte): Das komplette bleeme. Sortiment: Energie, Schlaf, Beauty, Immunsystem & mehr in synergetischen Komplexen. ✓ Eine Kapsel statt vier Präparate ✓ Für jeden Bereich deiner Gesundheit ✓ Jetzt entdecken!
-  Updated: 2026-08-27T15:53:42Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 14
 - [Für die Frau](https://bleeme.de/collections/frauengesundheit): Ganzheitliche Frauengesundheit: Hormonbalance, Beauty, Schlaf & Stress-Reduktion in synergetischen Komplexen. ✓ Für jede Lebensphase ✓ Eine Kapsel statt vier Präparate ✓ Jetzt entdecken!
-  Updated: 2026-08-27T15:58:00Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 8
 - [Für den Mann](https://bleeme.de/collections/mannergesundheit): Männliche Performance & Regeneration: Kraft, Fokus, Energie & Erholung in einer Kapsel. ✓ Für Sport & Alltag ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-08-27T15:57:16Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 7
 - [Wirkung & Bedarf](https://bleeme.de/collections/wirkung-bedarf): Finde deine passende Nahrungsergänzung nach Bedarf: Energie, Schlaf, Immunsystem & Hormonbalance. ✓ Gezielt statt pauschal ✓ Für dein individuelles Ziel ✓ Jetzt finden!
-  Updated: 2026-08-27T15:54:52Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 14
 - [Immunsystem & Abwehr](https://bleeme.de/collections/immunsystem-abwehr): Starke Abwehrkräfte durch Erkältungszeit & stressige Phasen: mit Inhaltsstoffen für Darmflora & Zellschutz. ✓ Gegen Infektanfälligkeit ✓ Für den Alltag & unterwegs ✓ Jetzt stärken!
-  Updated: 2026-08-27T15:51:02Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 4
 - [Energie & Leistung](https://bleeme.de/collections/energie-leistung): Mehr Energie & Leistung im Alltag: B-Vitamine, natürliche Fokus-Booster & Stoffwechsel-Aktivatoren. ✓ Gegen Müdigkeit ✓ Für Sport & Beruf ✓ Jetzt testen!
-  Updated: 2026-08-27T15:44:26Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 5
 - [Schlaf & Regeneration](https://bleeme.de/collections/schlaf-regeneration): Erholsamer Schlaf & echte Regeneration: mit beruhigenden Inhaltsstoffen für Körper & Kopf. ✓ Gegen Ein- & Durchschlafprobleme ✓ Für mehr Erholung ✓ Jetzt ausprobieren!
-  Updated: 2026-08-27T15:52:18Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 4
 - [Beauty & Anti-Aging](https://bleeme.de/collections/beauty-anti-aging): Beauty & Anti-Aging Komplexe für Haut, Haar & Zellschutz: mit hochwertigen Inhaltsstoffen für Kollagenbildung & Haarwachstum. ✓ Gegen Hautalterung ✓ Für volles Haar ✓ Jetzt entdecken!
-  Updated: 2026-08-27T17:37:02Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 4
 - [Bestseller](https://bleeme.de/collections/bestseller): Die meistgekauften bleeme. Komplexe: Energie, Hormonbalance & Anti-Aging in einer Kapsel. ✓ Von tausenden Kund:innen bestätigt ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-08-27T15:45:53Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 8
 - [Ermäßigter Steuersatz](https://bleeme.de/collections/ermassigter-steuersatz)
-  Updated: 2026-08-27T11:27:00Z
+  Updated: 2026-09-03T11:30:48Z
   Total Products: 13
 
 ## Store Pages
@@ -279,11 +279,11 @@
 - [Shipping Policy](https://bleeme.de/policies/shipping-policy)
   Updated: 2026-07-10T20:42:57+02:00
 - [Refund Policy](https://bleeme.de/policies/refund-policy)
-  Updated: 2026-04-11T02:24:21+02:00
+  Updated: 2026-09-01T13:40:26+02:00
 - [Terms of Service](https://bleeme.de/policies/terms-of-service)
-  Updated: 2026-06-12T21:24:08+02:00
+  Updated: 2026-09-01T13:55:55+02:00
 - [Contact Information](https://bleeme.de/policies/contact-information)
-  Updated: 2026-08-22T21:46:38+02:00
+  Updated: 2026-09-01T13:57:14+02:00
 
 ## Optional
 
