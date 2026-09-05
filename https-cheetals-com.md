@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-08-27T14:47:01.891Z
+- Updated At: 2026-09-05T00:00:30.865Z
 
 ## Products
 
@@ -25,21 +25,47 @@
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/8._MAJOR_STRUCTURAL_RED_FLAGS_9._ELECTRICAL_RED_FLAGS_10._PLUMBING_RED_FLAGS_11._ROOF_EXTERIOR_RED_FLAGS_12._RENOVATION_ROI_QUICK_CHECK_13._PROPERTY_COMPARISON_WORKSHEET.png?v=1776638750
   Price: $29.00 CAD
 - [Smart Home Buyer Bundle](https://cheetals.com/products/smart-home-buyer-bundle): Smart Home Buyer Bundle Don’t Buy a Home Before You Read This Everything You Need Before You Buy — In One Place Buying a home is one of the biggest financial decisions you’ll ever make… But most buyers go in unprepared — and pay for it later. Hidden issues. Overpaying. Regret after closing. 👉 This bundle was created to make sure that doesn’t happen to you. ✅ What You Get (2 Powerful Toolkits) 1- The Canadian Homebuyer Toolkit – Essential Steps Designed specifically for first-time buyers in Canada, this guide walks you through the entire process with clarity and confidence. ✔ Step-by-step home buying roadmap ✔ What to do before making an offer ✔ Key financial and planning insights ✔ Avoid common first-time buyer mistakes 2- Home Buyer Due-Diligence Toolkit Your protection against costly surprises. ✔ What to check before buying a property ✔ Red flags most buyers miss ✔ Practical checklists for showings & inspections ✔ Make smarter, more confident decisions 💡 Why This Bundle Matters Most buyers rely only on assumptions…And that’s where expensive mistakes happen. This bundle puts professional-level knowledge in your hands so you can: ✔ Avoid overpaying ✔ Spot hidden problems early ✔ Feel confident before making an offer ✔ Created by professionals ✔ Designed for real-world use ✔ No fluff — just actionable steps 💰 Best Value – Save When You Bundle Instead of buying separately, get both toolkits together and save. 👉 Complete preparation. Lower risk. Smarter decisions. Price : $48 $39✅ Save $9 – Best Value ⚡ Instant Access Download immediately after purchase Easy-to-follow, practical, and actionable Use it before showings, offers, and inspections 🛑 Before You Buy a Home… Make sure you’re fully prepared. 👉 Get the Smart Home Buyer Bundle today and avoid costly mistakes tomorrow
-  Updated: 2026-05-26T23:20:44Z
+  Updated: 2026-09-01T14:34:54Z
   Vendor: Cheetals
   Product Type: Digital Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/complete-Canadian-home-buyer-bundle-toolkit.png?v=1776820686
   Price: $39.00 CAD
+- [The Passive Income Solution Toolkit | Cheetals](https://cheetals.com/products/the-passive-income-solution-toolkit): Get instant access to the Passive Income Solution Toolkit — your step-by-step guide to building wealth, launching income streams, and achieving financial freedom.
+  Updated: 2026-09-01T01:22:41Z
+  Vendor: Cheetals
+  Product Type: Digital Guide
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/Copyof8.MAJORSTRUCTURALREDFLAGS9.ELECTRICALREDFLAGS10.PLUMBINGREDFLAGS11.ROOFEXTERIORREDFLAGS12.RENOVATIONROIQUICKCHECK13.PROPERTYCOMPARISONWORKSHEET.png?v=1788223981
+  Price: $27.00 CAD
 
 ## Collections
 
 - [Home page](https://cheetals.com/collections/frontpage)
-  Updated: 2026-05-26T23:18:45Z
+  Updated: 2026-09-01T01:16:16Z
+  Total Products: 4
+- [Real Estate](https://cheetals.com/collections/first-time-home-buyer)
+  Updated: 2026-09-01T02:48:51Z
   Total Products: 3
-- [First-Time Home Buyer](https://cheetals.com/collections/first-time-home-buyer)
-  Updated: 2026-05-26T23:18:46Z
-  Total Products: 3
+- [Money Tools](https://cheetals.com/collections/money-tools): Browse Cheetals Money Tools collection — digital toolkits, passive income guides, and business blueprints to help you build wealth and achieve financial freedom.
+  Updated: 2026-09-01T02:25:44Z
+  Total Products: 1
+
+## Blogs
+
+- [News](https://cheetals.com/blogs/news)
+  - [Due Diligence 101 Essential Tips for First-Time Home Buyers Who Want the Smart Home Buyer Bundle](https://cheetals.com/blogs/news/due-diligence-101-essential-tips-for-first-time-home-buyers-who-want-the-smart-home-buyer-bundle): Due Diligence 101 Essential Tips for First-Time Home Buyers Who Want the Smart Home Buyer Bundle
+    Updated: 2026-08-27T17:28:58Z
+    Author: CHEETALS
+    Tags: buyer, due diligence, first time home buyers, first-time buyers, home, home buyer due-diligence, home buying tips, mortgage, real estate process, smart home
+  - [Mastering Home Buyer Due Diligence: A Guide for First-Time Buyers](https://cheetals.com/blogs/news/mastering-home-buyer-due-diligence-a-guide-for-first-time-buyers): Mastering Home Buyer Due Diligence: A Guide for First-Time Buyers
+    Updated: 2026-09-01T18:13:18Z
+    Author: CHEETALS
+    Tags: buying, checklist for home buyers, diligence, due diligence guide, first time home buyers, first-time buyers, home buyer due-diligence, home buying, inspection, navigating the housing market
+  - [First-Time Homebuyers' Guide to the Ultimate Home Buyer Due-Diligence Toolkit](https://cheetals.com/blogs/news/first-time-homebuyers-guide-to-the-ultimate-home-buyer-due-diligence-toolkit): First-Time Homebuyers' Guide to the Ultimate Home Buyer Due-Diligence Toolkit
+    Updated: 2026-09-03T12:03:18Z
+    Author: CHEETALS
+    Tags: due diligence checklist, financial planning, first time home buyers, first-time homebuyer tips, home buyer due-diligence, home buying, income, , passive income, passive income strategies, real estate
 
 ## Store Pages
 
@@ -47,6 +73,8 @@
   Updated: 2026-03-14T22:48:22Z
 - [About us](https://cheetals.com/pages/about-us): About Cheetals Cheetals is a Canadian financial and market education company dedicated to developingstructured, accessible learning resources acros...
   Updated: 2026-03-16T23:20:27Z
+- [Money Tools | Cheetals](https://cheetals.com/pages/money-tools): Welcome to Money ToolsYour go-to hub for practical resources to build wealth and achieve financial freedom. Explore our curated digital products be...
+  Updated: 2026-08-31T20:11:42Z
 
 ## Policies
 
