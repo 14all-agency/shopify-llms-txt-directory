@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-08-14T00:07:00.610Z
+- Updated At: 2026-09-05T00:00:43.395Z
 
 ## Products
 
@@ -2353,14 +2353,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b5af1a99-f50d-4c1a-8fb2-6ba5bed7350b.jpg?v=1698014364
   Price: $35.75 USD
-- [Women's 2 Karat Full Diamond Moissanite Bracelet](https://surazy.com/products/womens-2-karat-full-diamond-moissanite-bracelet): Elegance, Extraordinary Impact: Experience the extraordinary impact of our Women's 2 Karat Full Diamond Moissanite Bracelet. Designed for everyday elegance, this bracelet seamlessly transitions from casual to formal, ensuring you always make a statement with your style. Indulge in timeless elegance with our Women's 2 Karat Full Diamond Moissanite Bracelet. Crafted to perfection, this exquisite piece features brilliant moissanite stones totaling 2 karats, set in a captivating design that effortlessly complements any style. Elevate your look with the unparalleled sparkle of this stunning bracelet, a radiant symbol of sophistication and glamour.  Process: Diamond Color: 1 karat \ Diamond Bracelet, 2 Karat \ Diamond Bracelet Material: Diamond Packing list: 1* Bracelet
-  Updated: 2026-07-10T13:39:00Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/f5651ddf-5e68-4685-b258-216874ce485b.jpg?v=1698014822
-  Price: $152.95 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTcxMjM1NjMyLCJsYXN0X3ZhbHVlIjoiODc4NDk3MTIzNTYzMiJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY3NjMxMTUyLCJsYXN0X3ZhbHVlIjoiODc4NDk2NzYzMTE1MiJ9)
 
 ## Collections
 
@@ -3054,6 +3047,33 @@
 - [News](https://surazy.com/blogs/news)
   - [The Ultimate Guide to Styling Judy Blue Color Block Denim Shorts for Every Occasion](https://surazy.com/blogs/news/the-ultimate-guide-to-styling-judy-blue-color-block-denim-shorts-for-every-occasion): The Ultimate Guide to Styling Judy Blue Color Block Denim Shorts for Every Occasion
     Updated: 2026-08-14T00:03:03Z
+    Author: Surazy.com
+  - [How to Choose the Perfect Split Swimsuit Set This Summer](https://surazy.com/blogs/news/how-to-choose-the-perfect-split-swimsuit-set-this-summer): How to Choose the Perfect Split Swimsuit Set This Summer
+    Updated: 2026-08-15T01:09:02Z
+    Author: Surazy.com
+  - [Guide to Styling Women's Hot Drilling Backless Long Sleeves Dress for Evening Events](https://surazy.com/blogs/news/guide-to-styling-womens-hot-drilling-backless-long-sleeves-dress-for-evening-events): Guide to Styling Women's Hot Drilling Backless Long Sleeves Dress for Evening Events
+    Updated: 2026-08-17T02:50:19Z
+    Author: Surazy.com
+  - [Mastering the Art of Putting Together a Chic Look With a Button Front Short Sleeve Denim Dress](https://surazy.com/blogs/news/mastering-the-art-of-putting-together-a-chic-look-with-a-button-front-short-sleeve-denim-dress): Mastering the Art of Putting Together a Chic Look With a Button Front Short Sleeve Denim Dress
+    Updated: 2026-08-19T02:26:10Z
+    Author: Surazy.com
+  - [Sculpt and Comfort Unveiled Exploring the Benefits of High Waist Satin Plus Size Underwear](https://surazy.com/blogs/news/sculpt-and-comfort-unveiled-exploring-the-benefits-of-high-waist-satin-plus-size-underwear): Sculpt and Comfort Unveiled Exploring the Benefits of High Waist Satin Plus Size Underwear
+    Updated: 2026-08-22T00:51:32Z
+    Author: Surazy.com
+  - [Exploring Perfect Pairings for Your Denim Dress Retro Look](https://surazy.com/blogs/news/exploring-perfect-pairings-for-your-denim-dress-retro-look): Exploring Perfect Pairings for Your Denim Dress Retro Look
+    Updated: 2026-08-24T02:46:48Z
+    Author: Surazy.com
+  - [Elevate Your Wardrobe with Essential Tips for Lace Large Size Underwear](https://surazy.com/blogs/news/elevate-your-wardrobe-with-essential-tips-for-lace-large-size-underwear): Elevate Your Wardrobe with Essential Tips for Lace Large Size Underwear
+    Updated: 2026-08-26T02:31:26Z
+    Author: Surazy.com
+  - [A Warm Embrace: How Loose High Collar Sweaters Keep You Cozy](https://surazy.com/blogs/news/a-warm-embrace-how-loose-high-collar-sweaters-keep-you-cozy): A Warm Embrace: How Loose High Collar Sweaters Keep You Cozy
+    Updated: 2026-08-29T01:02:28Z
+    Author: Surazy.com
+  - [Unlocking Summer Style Potential with Judy Blue Full Size Raw Hem Denim Shorts](https://surazy.com/blogs/news/unlocking-summer-style-potential-with-judy-blue-full-size-raw-hem-denim-shorts): Unlocking Summer Style Potential with Judy Blue Full Size Raw Hem Denim Shorts
+    Updated: 2026-08-31T03:28:33Z
+    Author: Surazy.com
+  - [7 Reasons Judy Blue Vintage Wash Jeans Are a Plus Size Essential](https://surazy.com/blogs/news/7-reasons-judy-blue-vintage-wash-jeans-are-a-plus-size-essential): 7 Reasons Judy Blue Vintage Wash Jeans Are a Plus Size Essential
+    Updated: 2026-09-02T02:30:47Z
     Author: Surazy.com
 
 ## Store Pages
