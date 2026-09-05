@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-08-29T16:00:38.146Z
+- Updated At: 2026-09-05T20:00:37.587Z
 
 ## Products
 
@@ -244,13 +244,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Essentials-Wallet-JOLIE_S-JOLIE_S-51943212.webp?v=1724964548
   Price: AED 270.00 AED
-- [Brazilian Organic Protein  | Honey Liss 1000 ML](https://www.jolies.ae/products/abpnatural-cosmetics-honey-liss-organic-hair-straightening-protein-1000-ml): Shop Honey Liss brazilian organic protein  1000 ML for smoother, shinier, more manageable hair with salon-style results.
-  Updated: 2026-08-28T18:51:30Z
-  Vendor: ABPNATURAL
-  Product Type: Keratin & Smoothing 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Abpnatural-Cosmetics-Honey-Liss-Organic-Hair-Straightening-Protein-1000-ML-ABPNATURAL-JOLIE_S-205064916.png?v=1779549853
-  Price: AED 600.00 AED
 - [HB Gold Caviar & Argan Hair Care Kit 5 pcs | JOLIES UAE](https://www.jolies.ae/products/hb-hair-solution-caviar-argan-oil-hair-care-kit): Shop the HB Hair Solution five-piece Gold Caviar and Argan Oil kit for cleansing, conditioning and caring for dry or damaged hair.
   Updated: 2026-08-28T18:51:30Z
   Vendor: HB
@@ -291,7 +284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HB-HAIR-SOLUTION-5G-Therapy-Anti-Frizz-Protein-5-in-1-Smoothing-HB-JOLIE_S-127909980.jpg?v=1724965189
     Price: AED 200.00 AED
 - [Brazilian Caviar Hair  | HB HAIR SOLUTION Protein](https://www.jolies.ae/products/hb-hair-solution-brazilian-caviar-anti-frizz-protein-1000-ml): Shop Brazilian caviar hair  by HB HAIR SOLUTION with Caviar Extract, Pracaxi oil, tannin, and 0% formaldehyde for smoother hair.
-  Updated: 2026-08-28T18:51:32Z
+  Updated: 2026-09-04T13:08:36Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -480,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Rubi-Liss-Pro-Therapy-Brazilian-Blowout-With-Amino-Macadamia-1-L-RUBI-LISS-JOLIE_S-128003492.png?v=1724965606
   Price: AED 600.00 AED
 - [ABP African Smooth Brazilian Protein 1L | JOLIES UAE](https://www.jolies.ae/products/abpnatural-cosmetics-african-smooth-straightening-brazilian-protein-1-l): Shop ABP Natural Cosmetics African Smooth Brazilian Protein 1 litre for professional smoothing care that helps frizz-prone hair feel manageable at JOLIES UAE.
-  Updated: 2026-08-28T18:51:38Z
+  Updated: 2026-09-01T22:33:45Z
   Vendor: ABPNATURAL
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -1174,20 +1167,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Travel-Kit-SKIN1004-JOLIE_S-132670753.png?v=1743091377
   Price: AED 130.00 AED
-- [OLAPLEX No.4P Blonde Toning Shampoo 250 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-no-4p-blonde-enhancer-toning-shampoo-250-ml): Shop OLAPLEX No.4P Blonde Enhancer Toning Shampoo 250 ml, a purple shampoo for neutralising unwanted yellow tones in suitable light hair.
-  Updated: 2026-08-28T18:52:09Z
-  Vendor: OLAPLEX
-  Product Type: Shampoo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-4P-Blonde-Enhancer-Toning-Shampoo-250-ML-OLAPLEX-JOLIE_S-132783360.png?v=1743091404
-  Price: AED 140.00 AED
-- [OLAPLEX No.4C Clarifying Shampoo 250 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-no-4cbond-maintenance-clarifying-shampoo-250-ml-copy): Shop OLAPLEX No.4C Bond Maintenance Clarifying Shampoo 250 ml for periodically removing product buildup, excess oil and impurities.
-  Updated: 2026-08-28T18:52:09Z
-  Vendor: OLAPLEX
-  Product Type: Shampoo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-4C-Bond-Maintenance-Clarifying-Shampoo-250-ML-OLAPLEX-JOLIE_S-132783919.png?v=1743091443
-  Price: AED 140.00 AED
 - [Shiseido Tsubaki Volume & Repair Set 490 ml | JOLIES UAE](https://www.jolies.ae/products/shiseido-tsubaki-premium-repair-hair-mask-180-gm-copy): Shop the Shiseido Tsubaki Volume & Repair Shampoo and Conditioner Set, designed for cleansing, conditioning and supporting fuller-looking hair.
   Updated: 2026-08-28T18:52:10Z
   Vendor: Shiseido Tsubaki
@@ -1328,34 +1307,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Mixsoon-Bean-Essence-50-ml-mixsoon-JOLIE_S-132767079.jpg?v=1743091759
   Price: AED 115.00 AED
-- [OLAPLEX No.9 Bond Protector Hair Serum 90 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-n-9-bond-protector-nourishing-hair-serum-au): Shop OLAPLEX No.9 Bond Protector Nourishing Hair Serum 90 ml, a lightweight leave-in serum for heat styling, shine and frizz control.
-  Updated: 2026-08-28T18:52:16Z
-  Vendor: OLAPLEX
-  Product Type: Retail
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-N_.9-BOND-PROTECTOR-NOURISHING-HAIR-SERUM-90-ML-OLAPLEX-JOLIE_S-132784564.png?v=1743091766
-  Price: AED 140.00 AED
-- [OLAPLEX No.8 Bond Intense Moisture Mask 150 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-n-8-bond-intense-moisture-mask-ca): Shop OLAPLEX No.8 Bond Intense Moisture Mask 150 ml, an intensive rinse-out  for dry, damaged or frizz-prone hair.
-  Updated: 2026-08-28T18:52:16Z
-  Vendor: OLAPLEX
-  Product Type: Retail
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-N_.8-BOND-INTENSE-MOISTURE-MASK-150-ML-OLAPLEX-JOLIE_S-132785022.png?v=1743091794
-  Price: AED 140.00 AED
-- [OLAPLEX No.6 Bond Smoother 150 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-n-6-bond-smoother-ca): Shop OLAPLEX No.6 Bond Smoother 150 ml, a leave-in styling cream designed to smooth frizz and support softness and manageability.
-  Updated: 2026-08-28T18:52:17Z
-  Vendor: OLAPLEX
-  Product Type: Retail
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-N_.6-BOND-SMOOTHER-150-ML-OLAPLEX-JOLIE_S-132786317.png?v=1743091877
-  Price: AED 140.00 AED
-- [OLAPLEX No.0 Intensive Bond  180 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-n-0-intensive-bond-building--au): Shop OLAPLEX No.0 Intensive Bond Building  180 ml, a pre-shampoo  designed for use before compatible OLAPLEX care.
-  Updated: 2026-08-28T18:52:17Z
-  Vendor: OLAPLEX
-  Product Type: Retail
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-N_.0-INTENSIVE-BOND-BUILDING--180-ML-OLAPLEX-JOLIE_S-132787475.png?v=1743091943
-  Price: AED 140.00 AED
 - [St Dalfour Philpina Beauty Cream & Soap Set | JOLIES UAE](https://www.jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap): Shop the St Dalfour Philpina Beauty Cream and Soap set for cleansing and cosmetic care of uneven-looking skin. Follow the current package directions.
   Updated: 2026-08-28T18:52:17Z
   Vendor: St Dalfour
@@ -1514,27 +1465,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-The-Vitamin-C-23-Serum-20-ml-COSRX-JOLIE_S-132909523.webp?v=1743092643
   Price: AED 100.00 AED
-- [OLAPLEX No.7 Bonding Oil 30 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-no-7-bonding-oil-7-5-ml): Shop OLAPLEX No.7 Bonding Oil 30 ml, a lightweight finishing oil for shine, frizz control and heat-styling support.
-  Updated: 2026-08-28T18:52:24Z
-  Vendor: OLAPLEX
-  Product Type: Conditioners
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-7-Bonding-Oil-30-ML-OLAPLEX-JOLIE_S-132923445.png?v=1743092723
-  Price: AED 140.00 AED
-- [OLAPLEX No. 5 Bond Maintenance Conditioner 250 ML - JOLIE'S](https://www.jolies.ae/products/olaplex-no-5-bond-maintenance-conditioner-250-ml): OLAPLEX OLAPLEX No. 5 Bond Maintenance Conditioner 250 ML Description : A hydrating conditioner that repairs  JOLIE'S
-  Updated: 2026-08-28T18:52:25Z
-  Vendor: OLAPLEX
-  Product Type: Hair Conditioner
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-5-Bond-Maintenance-Conditioner-250-ML-OLAPLEX-JOLIE_S-132923876.png?v=1743092780
-  Price: AED 140.00 AED
-- [OLAPLEX No.4 Bond Maintenance Shampoo 250 ml | JOLIES UAE](https://www.jolies.ae/products/olaplex-no-4-bond-maintenance-shampoo-250-ml): Shop OLAPLEX No.4 Bond Maintenance Shampoo 250 ml, a concentrated cleanser for damaged, colour-treated or regularly styled hair.
-  Updated: 2026-08-28T18:52:25Z
-  Vendor: OLAPLEX
-  Product Type: Shampoo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-4-Bond-Maintenance-Shampoo-250-ML-OLAPLEX-JOLIE_S-132924118.png?v=1743092804
-  Price: AED 140.00 AED
 - [Embryolisse Lait-Crème Concentré 75 ml | JOLIES UAE](https://www.jolies.ae/products/embryolisse-lait-creme-concentre-multi-function-moisturiser-75-ml): Shop Embryolisse Lait-Crème Concentré 75 ml, a multi-use moisturising cream suitable for skincare and makeup preparation.
   Updated: 2026-08-28T18:52:25Z
   Vendor: Embryolisse
@@ -2788,7 +2718,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Collagen-Booster-Set-JOLIE_S-JOLIE_S-200517837.png?v=1749251170
   Price: AED 800.00 AED
 - [EVA Skin Clinic Eye & Lip Makeup Remover | JOLIES UAE](https://www.jolies.ae/products/eva-skin-clinic-collagen-makeup-remover-for-eyes-lips): Shop EVA Skin Clinic Collagen Eyes & Lips Makeup Remover for gentle removal of eye and lip makeup.
-  Updated: 2026-08-28T22:35:44Z
+  Updated: 2026-09-05T14:13:02Z
   Vendor: EVA
   Product Type: Skin Care
   Availability: Available
@@ -3032,19 +2962,89 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Hydro-Cera-nol-Real-Deep-Mask-Set-_-Cera-nol-Gel-Toner-Pads-Medicube-JOLIE_S-201979751.webp?v=1753362443
   Price: AED 170.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwNTk2MjI0MzIxLCJsYXN0X3ZhbHVlIjoiOTk4MDU5NjIyNDMyMSJ9)
+- [BIODANCE Sea Kelp Mask & Toner Pad Set | JOLIES UAE](https://www.jolies.ae/products/biodance-refreshing-sea-kelp-real-deep-mask-set-sea-kelp-gel-toner-pads): Shop the BIODANCE Sea Kelp Real Deep Mask and Sea Kelp Gel Toner Pad Set for refreshing hydration and convenient skincare care.
+  Updated: 2026-08-28T22:35:56Z
+  Vendor: BIODANCE
+  Product Type: Skin Care Kits & Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Refreshing-Sea-Kelp-Real-Deep-Mask-Set-_-Sea-Kelp-Gel-Toner-Pads-Medicube-JOLIE_S-201980828.webp?v=1753362591
+  Price: AED 170.00 AED
+- [ANUA Zero-Cast Moisturizing Sunscreen 50ml | JOLIES UAE](https://www.jolies.ae/products/zero-cast-moisturizing-finish-sunscreen): Shop ANUA Zero-Cast Moisturizing Finish Sunscreen 50ml for lightweight daily facial sun protection and hydration.
+  Updated: 2026-08-28T22:35:56Z
+  Vendor: ANUA
+  Product Type: Sunscreen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Zero-Cast-Moisturizing-Finish-Sunscreen-50-ml-Anua-JOLIE_S-201982668.png?v=1753369630
+  Price: AED 95.00 AED
+- [ANUA Heartleaf Centella Red Spot Cream 30g | JOLIES UAE](https://www.jolies.ae/products/heartleaf-centella-red-spot-cream-30-g): Shop ANUA Heartleaf Centella Red Spot Cream 30g for targeted soothing and moisturising care of blemish-prone-looking skin.
+  Updated: 2026-08-28T22:35:56Z
+  Vendor: ANUA
+  Product Type: Face Moisturizer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Heartleaf-Centella-Red-Spot-Cream-30-g-Anua-JOLIE_S-201982965.png?v=1753369643
+  Price: AED 80.00 AED
+- [ANUA Niacinamide 5 TXA Brightening Pads 60 | JOLIES UAE](https://www.jolies.ae/products/niacinamide-5-txa-brightening-pad-60-pads): Shop ANUA Niacinamide 5 TXA Brightening Pads, 60 pads, for convenient toner-pad care of dull or uneven-looking skin.
+  Updated: 2026-08-28T22:35:57Z
+  Vendor: ANUA
+  Product Type: Toner Pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Niacinamide-5-TXA-Brightening-Pad-60-Pads-Anua-JOLIE_S-201983283.png?v=1753369656
+  Price: AED 99.00 AED
+- [ANUA Azelaic 10 Hyaluron Soothing Pads 90 | JOLIES UAE](https://www.jolies.ae/products/azelaic-10-hyaluron-redness-soothing-pad-90-pads): Shop ANUA Azelaic 10 Hyaluron Redness Soothing Pads, 90 pads, for convenient hydration and calming care of redness-prone-looking skin.
+  Updated: 2026-08-28T22:35:57Z
+  Vendor: ANUA
+  Product Type: Toner Pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Azelaic-10-Hyaluron-Redness-Soothing-Pad-90-Pads-Anua-JOLIE_S-201983520.png?v=1753369672
+  Price: AED 99.00 AED
+- [ANUA PDRN 100 Hyaluronic Acid Glow Pads 60 | JOLIES UAE](https://www.jolies.ae/products/pdrn-100-hyaluronic-acid-glow-pad-60-pads): Shop ANUA PDRN 100 Hyaluronic Acid Glow Pads, 60 pads, for convenient hydration and cosmetic care of plump, radiant-looking skin.
+  Updated: 2026-08-28T22:35:57Z
+  Vendor: ANUA
+  Product Type: Toner Pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PDRN-100-Hyaluronic-Acid-Glow-Pad-60-Pads-Anua-JOLIE_S-201983854.png?v=1753369683
+  Price: AED 99.00 AED
+- [ANUA Heartleaf Low pH Cleansing Water 500ml | JOLIES UAE](https://www.jolies.ae/products/heartleaf-low-ph-deep-cleansing-water-500-ml): Shop ANUA Heartleaf Low pH Deep Cleansing Water 500ml for gentle makeup removal and daily facial cleansing.
+  Updated: 2026-08-28T22:35:58Z
+  Vendor: ANUA
+  Product Type: Face Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Heartleaf-Low-pH-Deep-Cleansing-Water-500-ml-Anua-JOLIE_S-201984267.png?v=1753369701
+  Price: AED 80.00 AED
+- [DR ALTHEA Aqua Glowing Sunscreen SPF50+ | JOLIES UAE](https://www.jolies.ae/products/aqua-glowing-sunscreen-45-ml): Shop DR ALTHEA Aqua Glowing Sunscreen SPF50+ PA++++ 45 ml for daily broad-spectrum UV protection with lightweight hydration at JOLIES UAE.
+  Updated: 2026-08-28T22:35:59Z
+  Vendor: DR ALTHEA
+  Product Type: Uncategorized
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Aqua-Glowing-Sunscreen-45-ml-Dr.-Althea-JOLIE_S-201994057.png?v=1753392363
+  Price: AED 90.00 AED
+- [DR ALTHEA 15% Niacinamide Serum 30ml | JOLIES UAE](https://www.jolies.ae/products/15-niacinamide-purity-serum-30-ml): Shop DR ALTHEA 15% Niacinamide Purity Serum 30ml for cosmetic care of visible pores, uneven-looking tone and excess shine.
+  Updated: 2026-08-28T22:35:59Z
+  Vendor: DR ALTHEA
+  Product Type: Face Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/15_-Niacinamide-Purity-Serum-30-ml-Dr.-Althea-JOLIE_S-201994373.png?v=1753392382
+  Price: AED 99.00 AED
+- [DR ALTHEA 0.1% Gentle Retinol Serum 30ml | JOLIES UAE](https://www.jolies.ae/products/0-1-gentle-retinol-serum-30-ml): Shop DR ALTHEA 0.1% Gentle Retinol Serum 30ml for targeted evening care of texture, fine lines and firmness.
+  Updated: 2026-08-28T22:35:59Z
+  Vendor: DR ALTHEA
+  Product Type: Face Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/0.1_-Gentle-Retinol-Serum-30-ml-Dr.-Althea-JOLIE_S-201994769.png?v=1753392408
+  Price: AED 99.00 AED
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwODk5MTk3MjQ5LCJsYXN0X3ZhbHVlIjoiOTk4MDg5OTE5NzI0OSJ9)
 
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-08-29T11:10:32Z
+  Updated: 2026-09-04T11:09:48Z
   Total Products: 29
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-08-29T11:10:32Z
-  Total Products: 115
+  Updated: 2026-09-01T11:10:36Z
+  Total Products: 106
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-08-28T22:48:47Z
-  Total Products: 617
+  Updated: 2026-09-05T10:05:44Z
+  Total Products: 618
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-08-22T19:49:08Z
   Total Products: 40
@@ -3055,8 +3055,8 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-08-29T11:10:32Z
-  Total Products: 192
+  Updated: 2026-09-05T14:56:54Z
+  Total Products: 194
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
   Total Products: 4
@@ -3076,10 +3076,10 @@
   Updated: 2026-08-28T19:02:56Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-08-29T11:10:32Z
-  Total Products: 510
+  Updated: 2026-09-05T14:56:54Z
+  Total Products: 503
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-08-29T11:10:32Z
+  Updated: 2026-09-05T10:06:15Z
   Total Products: 366
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
   Updated: 2026-08-28T20:18:47Z
