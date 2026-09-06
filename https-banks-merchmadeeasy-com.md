@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-23T15:53:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-30T00:00:39.670Z
+- Updated At: 2026-09-06T00:00:41.233Z
 
 ## Products
 
 - [Serpentina Vinyl](https://banks.merchmadeeasy.com/products/serpentina-lp-white-pre-order): BANKS' 2022 vinyl, pressed on opaque white vinyl
-  Updated: 2026-08-25T03:49:42Z
+  Updated: 2026-08-31T23:51:31Z
   Vendor: BANKS
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/SerpentinaVinyl.png?v=1725389218
   Price: $34.98 USD
 - [Serpentina Hoodie - White](https://banks.merchmadeeasy.com/products/banks-white-hoodie): Front and back print with "Serpentina" artwork. 80/20 cotton/polyester blend fleece with 100% cotton face
-  Updated: 2026-07-24T02:15:47Z
+  Updated: 2026-08-31T23:51:31Z
   Vendor: BANKS
   Product Type: Hoodie
   Availability: Available
@@ -42,7 +42,7 @@
     Availability: Available
     Price: $39.00 USD
 - [Eyes Tee](https://banks.merchmadeeasy.com/products/eyes-tees): Banks Eyes Tee, available in white or black! 100% combed ring spun cotton
-  Updated: 2026-08-11T04:01:07Z
+  Updated: 2026-08-31T23:51:31Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -84,7 +84,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Tracklist Hoodie](https://banks.merchmadeeasy.com/products/serpentina-tracklist-hoodie): Front and back print with "Serpentina" track list artwork. 80/20 cotton/polyester blend fleece with 100% cotton face
-  Updated: 2026-08-10T15:58:10Z
+  Updated: 2026-08-31T23:51:31Z
   Vendor: BANKS
   Product Type: Hoodie
   Availability: Available
@@ -108,7 +108,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Serpentina Portrait Tee](https://banks.merchmadeeasy.com/products/face-tee): A black t-shirt with a portrait of BANKS on the front with Serpentina text. 100% combed ring spun cotton
-  Updated: 2026-08-12T15:30:58Z
+  Updated: 2026-08-31T23:51:32Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -132,7 +132,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Meteorite Tee](https://banks.merchmadeeasy.com/products/meteorite-tee): White tee with meteorite artwork and lyrics 100% combed ring spun cotton
-  Updated: 2026-08-11T03:58:08Z
+  Updated: 2026-08-31T23:51:32Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -156,14 +156,14 @@
     Availability: Available
     Price: $25.00 USD
 - [Plant Eyes Beret](https://banks.merchmadeeasy.com/products/banks-beret): A classic beret featuring a custom illustration by BANKS embroidered on the front
-  Updated: 2026-08-10T15:55:30Z
+  Updated: 2026-08-31T23:51:32Z
   Vendor: BANKS
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/products/BANKSBERET.png?v=1680113162
   Price: $15.00 USD
 - [Plant Eyes Tee](https://banks.merchmadeeasy.com/products/plant-eyes-tee): BANKS Plant Eyes Tee 100% combed ring spun cotton
-  Updated: 2026-08-12T18:53:57Z
+  Updated: 2026-08-31T23:51:33Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -187,7 +187,7 @@
     Availability: Available
     Price: $20.00 USD
 - [New Name Long Sleeve](https://banks.merchmadeeasy.com/products/write-my-new-name-down-long-sleeve): Black long sleeve shirt featuring the Eyes design on the front and "someone write my new name down" printed on the sleeves. 100% Airlume combed and ring-spun cotton
-  Updated: 2026-08-10T15:53:46Z
+  Updated: 2026-08-31T23:51:33Z
   Vendor: BANKS
   Product Type: Long Sleeve
   Availability: Available
@@ -211,14 +211,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Serpentina Sticker](https://banks.merchmadeeasy.com/products/serpentina-sticker): Serpentina album art sticker.
-  Updated: 2026-08-17T22:34:23Z
+  Updated: 2026-08-31T23:51:33Z
   Vendor: BANKS
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/products/serpentina-cover-artwork-sticker_Banks.jpg?v=1652882472
   Price: $5.00 USD
 - [Meteorite Long Sleeve](https://banks.merchmadeeasy.com/products/banks-original-art-print-long-sleeve): Green tee with original "We're Already In Bed" art print. 100% ring spun cotton
-  Updated: 2026-08-10T16:35:40Z
+  Updated: 2026-08-31T23:51:33Z
   Vendor: BANKS
   Product Type: Long Sleeve
   Availability: Available
@@ -242,7 +242,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Serpentina Hoodie - Black](https://banks.merchmadeeasy.com/products/banks-black-hoodie): Front and back print with "Serpentina" artwork. 80/20 cotton/polyester blend fleece with 100% cotton face
-  Updated: 2026-08-11T04:34:45Z
+  Updated: 2026-08-31T23:51:34Z
   Vendor: BANKS
   Product Type: Hoodie
   Availability: Available
@@ -266,7 +266,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Serpentina Tie Dye Tee](https://banks.merchmadeeasy.com/products/serpentina-tie-dye-tee): Banks "Serpentina" photo graphic on red and black tie dye tee.
-  Updated: 2026-08-25T12:27:41Z
+  Updated: 2026-09-01T00:11:48Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -284,7 +284,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Serpentina Tour Tee](https://banks.merchmadeeasy.com/products/serpentina-tour-tee): BANKS Photo tee from the Serpentina tour Tour cities on the back 100% combed ring spun cotton Shoulder to shoulder taping
-  Updated: 2026-08-12T18:54:11Z
+  Updated: 2026-09-01T00:11:55Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -305,14 +305,14 @@
     Availability: Available
     Price: $15.00 USD
 - [BANKS Face Cover](https://banks.merchmadeeasy.com/products/banks-mask): Black reusable face cover with the BANKS logo
-  Updated: 2026-07-15T21:53:07Z
+  Updated: 2026-08-31T23:51:35Z
   Vendor: BANKS
   Product Type: Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/products/banksmask_3a8816a1-ae14-4ccc-9d89-266b775552b8.png?v=1680113502
   Price: $3.99 USD
 - [Serpentina Anniversary Cropped Tee](https://banks.merchmadeeasy.com/products/serpentina-anniversary-cropped-tee): Celebrating BANKS' Serpentina Anniversary with this cropped, black tee! 100% combed ringspun cotton
-  Updated: 2026-08-10T15:51:25Z
+  Updated: 2026-08-31T23:51:35Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -330,7 +330,7 @@
     Availability: Available
     Price: $25.00 USD
 - [The Altar CD](https://banks.merchmadeeasy.com/products/the-altar-cd): Altar CD by BANKS
-  Updated: 2026-08-10T15:51:01Z
+  Updated: 2026-09-05T15:57:29Z
   Vendor: BANKS
   Product Type: CD
   Availability: Available
@@ -339,7 +339,7 @@
 - [Mineral Wash Photo Tee](https://banks.merchmadeeasy.com/products/goddess-anniversary-tee): BANKS photo tee in black and white
 
 100% pre-shrunk heavyweight cotton
-  Updated: 2026-08-27T15:51:57Z
+  Updated: 2026-09-01T00:11:56Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -363,21 +363,21 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Off With Her Head Poster](https://banks.merchmadeeasy.com/products/off-with-her-head-poster): 24x18" poster of BANKS from the Off With Her Head release
-  Updated: 2026-08-10T15:49:23Z
+  Updated: 2026-08-31T23:51:36Z
   Vendor: BANKS
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/BANKS_OWHH_Poster.png?v=1737067323
   Price: $30.00 USD
 - [Off With Her Head - Standard Vinyl](https://banks.merchmadeeasy.com/products/off-with-her-head-mauve-vinyl): "Off With Her Head" Vinyl by BANKS. The vinyl itself is displayed in a rich mauve color.
-  Updated: 2026-08-13T03:49:26Z
+  Updated: 2026-09-05T15:57:26Z
   Vendor: BANKS
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/BANKS_OWHH_Vinyl.png?v=1736959864
   Price: $34.98 USD
 - [Icon Tee](https://banks.merchmadeeasy.com/products/icon-tee): White t-shirt with 'OFF WITH HER HEAD' text, a cross, and BANKS in cursive script on the front in black screenprint
-  Updated: 2026-08-10T15:46:55Z
+  Updated: 2026-08-31T23:51:36Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Vertical Tank](https://banks.merchmadeeasy.com/products/vertical-tank): This image features a sleek, white tank top made from 100% ring-spun cotton, emphasizing both comfort and style. The tank top is presented in a semi-fitted cut, tailored to accentuate the body shape while providing a loose and flattering fit.
-  Updated: 2026-08-10T15:46:02Z
+  Updated: 2026-08-31T23:51:37Z
   Vendor: BANKS
   Product Type: Tank Top
   Availability: Available
@@ -422,7 +422,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Off With Her Head Tour Tee](https://banks.merchmadeeasy.com/products/off-with-her-head-tour-tee): 100% heavyweight cotton t-shirt 2025 tour dates on the back Unisex size chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-13T14:48:32Z
+  Updated: 2026-08-31T23:51:37Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Delulu Hoodie](https://banks.merchmadeeasy.com/products/delulu-hoodie): i o n l y w a n n a b e w i t h y o u 50/50 cotton/polyester hoodie in Ash Grey
-  Updated: 2026-08-10T15:45:49Z
+  Updated: 2026-08-31T23:51:37Z
   Vendor: BANKS
   Product Type: Hoodie
   Availability: Available
@@ -470,14 +470,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Off With Her Head - CD (Signed)](https://banks.merchmadeeasy.com/products/off-with-her-head-cd-copy): Limited signed quantity now available. The brand new studio album from BANKS. The CD edition features exclusive artwork and lyrics. Tracklist: Guillotine I  Your Ex-Girlfriend (feat. Doechii) Love Is Unkind Delulu Move Stay Best Friends Meddle In The Mold Direction Make It Up River Off With Her Head Release Date: February 28, 2025
-  Updated: 2026-08-17T22:34:26Z
+  Updated: 2026-09-05T15:57:27Z
   Vendor: BANKS
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/BANKSSignedCD.png?v=1749654843
   Price: $25.00 USD
 - [Off With Her Head Tour Long Sleeve](https://banks.merchmadeeasy.com/products/off-with-her-head-tour-long-sleeve): 100% cotton long sleeve in black Off With Her Head typeface on the front 2025 tour dates on the back Unisex
-  Updated: 2026-08-12T15:48:43Z
+  Updated: 2026-08-31T23:51:38Z
   Vendor: BANKS
   Product Type: Long Sleeve
   Availability: Available
@@ -501,7 +501,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Off With Her Head Tour Crewneck](https://banks.merchmadeeasy.com/products/off-with-her-head-tour-crewneck): 50/50 cotton/polyester crewneck sweatshirt in black Banks Tour typeface on the front Unisex
-  Updated: 2026-08-10T15:44:06Z
+  Updated: 2026-08-31T23:51:38Z
   Vendor: BANKS
   Product Type: Sweatshirt
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Off With Her Head Photo Tee - Black](https://banks.merchmadeeasy.com/products/off-with-her-head-photo-tee): 100% heavyweight cotton t-shirt in black Off With Her Head photo on the front in black and white Unisex
-  Updated: 2026-08-10T15:43:51Z
+  Updated: 2026-08-31T23:51:38Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -549,7 +549,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Off With Her Head Photo Tee - Mineral Wash](https://banks.merchmadeeasy.com/products/off-with-her-head-photo-tee-mineral-wash): Fitted style with shorter length, review size chart or size up 100% heavyweight cotton t-shirt in black Off With Her Head photo on the front in black and white Unisex size chart
-  Updated: 2026-08-10T15:43:21Z
+  Updated: 2026-08-31T23:51:38Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -573,35 +573,35 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Off With Her Head Hat | Official BANKS Merch Store](https://banks.merchmadeeasy.com/products/off-with-her-head-hat): A dark gray washed baseball cap with red embroidered text reading 'Off With Her Head' on the front
-  Updated: 2026-08-25T12:27:42Z
+  Updated: 2026-09-03T00:31:47Z
   Vendor: BANKS
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/BANKSHATNEW_1_5fed1fee-7415-42ad-8674-4a606d020e3f.png?v=1784150280
   Price: $35.00 USD
 - [Watch Me Burn Candle](https://banks.merchmadeeasy.com/products/burn-candle): I'll be your candle, watch me burn The bestselling candle is back and better than ever in a larger size, a sandalwood scent, and lyrics from Burn on the front. BANKS logo on the back in slate grey. Once the candle is empty, reuse the glass Get up to 30 hours of clean, long-lasting burn time and reuse the glass after. 8.5 oz. Scent: Sandalwood **Avoid touching the jar after the candle has been burning for a while. The glass is not insulated and can become very hot during use**
-  Updated: 2026-08-13T14:48:32Z
+  Updated: 2026-08-31T23:51:39Z
   Vendor: BANKS
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/BANKSCandle_369ec056-7187-4085-9b23-11d4b6ce541d.png?v=1784150234
   Price: $30.00 USD
 - [Road Case Polaroid Sticker](https://banks.merchmadeeasy.com/products/polaroid-sticker)
-  Updated: 2026-08-13T14:48:32Z
+  Updated: 2026-08-31T23:51:39Z
   Vendor: Banks Official Store
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/Road-Case-Polaroid_70214fbd-8dbb-4edc-8108-796cecbc2f9a.png?v=1784149624
   Price: $8.00 USD
 - [Backstage Polaroid Sticker](https://banks.merchmadeeasy.com/products/backstage-polaroid-sticker): Polaroid-style photo sticker of BANKS wearing a white dress and hat backstage
-  Updated: 2026-08-14T15:30:46Z
+  Updated: 2026-08-31T23:51:39Z
   Vendor: Banks Official Store
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/Backstage-Polaroid_07d63490-249c-4801-aaeb-937691414d63.png?v=1763740228
   Price: $8.00 USD
 - [Off With Her Head Tote Bag](https://banks.merchmadeeasy.com/products/off-with-her-head-tote-bag): 100% cotton canvas tote with black printed text reading "OFF WITH HER HEAD" and a cross graphic with BANKS in cursive script
-  Updated: 2026-08-12T15:30:57Z
+  Updated: 2026-08-31T23:51:40Z
   Vendor: BANKS
   Product Type: Tote
   Availability: Available
@@ -611,16 +611,16 @@
 ## Collections
 
 - [Home page](https://banks.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 58
 - [Apparel](https://banks.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 24
 - [Music](https://banks.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-18T11:19:19Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 14
 - [Accessories](https://banks.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-03T11:18:33Z
   Total Products: 31
 - [Digital Albums](https://banks.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:56:27Z
@@ -629,10 +629,10 @@
   Updated: 2026-07-08T20:56:27Z
   Total Products: 0
 - [All](https://banks.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 76
 - [NEW](https://banks.merchmadeeasy.com/collections/new)
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 10
 - [FROM THE VAULT](https://banks.merchmadeeasy.com/collections/from-the-vault-drop-1)
   Updated: 2026-06-10T16:22:49Z
@@ -641,10 +641,10 @@
   Updated: 2026-06-02T01:19:53Z
   Total Products: 2
 - [Featured](https://banks.merchmadeeasy.com/collections/featured)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 32
 - [Tees](https://banks.merchmadeeasy.com/collections/tees)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 18
 - [$40 Hoodies](https://banks.merchmadeeasy.com/collections/40-hoodies)
   Updated: 2026-07-24T11:20:21Z
@@ -659,31 +659,31 @@
   Updated: 2026-08-13T11:21:53Z
   Total Products: 12
 - [Serpentina](https://banks.merchmadeeasy.com/collections/serpentina): "This album was made mostly during covid. I lived alone at the time and therefore lived in my head. It was a really hard time. I put it all into music and learning how to produce, so I’m so grateful I had the time for it. My friend Tala came to stay with me for a few weeks and I remember so many magical late nights dancing on my couch listening to what we had just stayed up for days creating. I remember the hikes I took while writing. How I found my favorite rock to sit on. And a random swing on a tree that kind of freaked me out cuz it coulda been a horror story. But I ended up swinging on it and it was alllllll good. In general, I worked through a lot of crud I kept in my belly with this album, and fell in love with myself again :) it helped me turn a page and open up to lightness. I am forever grateful. And I LOVE the songs.. i hope more and more people discover Serpentina and her beauty. I love u all so much. "
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 16
 - [EasyGift All Products](https://banks.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 74
 - [Goddess 10th Anniversary Collection](https://banks.merchmadeeasy.com/collections/goddess-10th-anniversary-collection)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 9
 - [BFCM 2024](https://banks.merchmadeeasy.com/collections/bfcm-2024)
   Updated: 2026-07-08T20:56:28Z
   Total Products: 0
 - [Off With Her Head](https://banks.merchmadeeasy.com/collections/off-with-her-head)
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 16
 - [Off With Her Head Tour Merch](https://banks.merchmadeeasy.com/collections/off-with-her-head-tour-merch)
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-03T11:18:33Z
   Total Products: 8
 - [Music & Prints](https://banks.merchmadeeasy.com/collections/music-prints)
-  Updated: 2026-08-18T11:19:19Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 24
 - [Signature Collection](https://banks.merchmadeeasy.com/collections/signature-collection)
-  Updated: 2026-08-18T11:19:19Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 12
 - [](https://banks.merchmadeeasy.com/collections/)
-  Updated: 2026-08-26T11:18:43Z
+  Updated: 2026-09-01T11:19:57Z
   Total Products: 24
 - [National Vinyl Record Day](https://banks.merchmadeeasy.com/collections/national-vinyl-record-day)
   Updated: 2026-08-13T11:21:53Z
@@ -692,7 +692,7 @@
   Updated: 2026-08-13T11:21:53Z
   Total Products: 8
 - [Black Friday ](https://banks.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-08-28T11:17:33Z
+  Updated: 2026-09-05T11:19:05Z
   Total Products: 72
 
 ## Store Pages
