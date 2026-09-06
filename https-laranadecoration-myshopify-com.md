@@ -6,7 +6,7 @@
 - Timezone: Europe/Budapest
 - Created At: 2026-08-09T18:18:48Z
 - Contact Email: marcirtv@gmail.com
-- Updated At: 2026-08-30T00:00:37.105Z
+- Updated At: 2026-09-06T00:00:38.061Z
 
 ## Products
 
