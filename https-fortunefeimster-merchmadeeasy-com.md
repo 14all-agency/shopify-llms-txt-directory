@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-09-27T20:59:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-25T00:00:35.349Z
+- Updated At: 2026-09-06T00:00:38.525Z
 
 ## Products
 
 - [I'm Butch Tee](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee): Butch, please...Flaunt your style with the black I'm Butch Tee! 100% ring spun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4
-  Updated: 2026-07-28T23:01:16Z
+  Updated: 2026-09-02T18:42:01Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [2023 Live Laugh Love Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee): The Live Laugh Love Tour Tee features a sweet ice cream design on the front and Fortune's 2023 tour dates on the back! 100% ring spun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4
-  Updated: 2026-07-16T12:33:36Z
+  Updated: 2026-09-02T18:41:15Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -166,35 +166,35 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
     Price: $15.00 USD
 - [Good Fortune Trucker Hat](https://fortunefeimster.merchmadeeasy.com/products/good-fortune-trucker-hat): 5-Panel, 4" Structured Crown Polyester Foam Front Mesh Back With Braid Snap Closure
-  Updated: 2026-07-18T10:38:46Z
+  Updated: 2026-09-02T18:40:44Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/FFTruckerHatRainbow.png?v=1674757320
   Price: $25.00 USD
 - [Live Laugh Love Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-poster): The tour poster from Fortune's Live, Laugh, Love Tour!
-  Updated: 2026-07-13T17:38:11Z
+  Updated: 2026-09-02T18:39:55Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/Myproject-1.png?v=1681233018
   Price: $15.00 USD
 - [FORTUNE Hat](https://fortunefeimster.merchmadeeasy.com/products/fortune-hat): 5-panel polyester foam front mesh back, with string braid 4" structured crown Plastic snap adjust One size fits most
-  Updated: 2026-07-16T02:53:09Z
+  Updated: 2026-09-02T18:39:37Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/FFTruckerHat.jpg?v=1675182717
   Price: $25.00 USD
 - [2 Sweet 2 Salty Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/2-sweet-2-salty-poster): Fortune's 2 Sweet 2 Salty Tour poster!
-  Updated: 2026-07-13T17:38:12Z
+  Updated: 2026-09-02T18:39:16Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/products/473970471-ff-2-sweet-2-salty-poster.png?v=1676991743
   Price: $15.00 USD
 - [Turquoise Ice Cream Tee](https://fortunefeimster.merchmadeeasy.com/products/turquiose-ice-cream-t-shirt): This classic Ice Cream Tee sure is sweet! 100% combed ringspun cotton t-shirt in turquoise Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2026-07-17T04:55:26Z
+  Updated: 2026-09-02T18:38:57Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -215,7 +215,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $15.00 USD
 - [Brenda Tee](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt): Don't be an S.O.B. like Teeyum...Make Brenda proud and grab her tee now 100% combed ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2026-07-28T23:01:16Z
+  Updated: 2026-09-03T16:23:17Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -245,7 +245,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $15.00 USD
 - [Tie Dye Hoodie](https://fortunefeimster.merchmadeeasy.com/products/tie-dye-hoodie): Tie dye hoodie featuring the FF Ice Cream logo. A throwback classic!
-  Updated: 2026-08-09T14:46:37Z
+  Updated: 2026-09-02T18:37:58Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -266,7 +266,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Biggie Tee](https://fortunefeimster.merchmadeeasy.com/products/biggie-tee): Channel some Biggie energy and be stress-free with this adorable blue tee! Pre-shrunk 100% ringspun USA cotton in blue Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-20T23:45:21Z
+  Updated: 2026-08-28T17:38:55Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -314,14 +314,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Live Laugh Love 2023 Ice Cream Tour Poster](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-ice-cream-tour-poster): This Live Laugh Love Tour Poster is sweet!
-  Updated: 2026-07-13T17:38:13Z
+  Updated: 2026-09-02T18:35:16Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFLLL2023TourPoster.png?v=1690573355
   Price: $20.00 USD
 - [Sunbeam Hoodie](https://fortunefeimster.merchmadeeasy.com/products/sunbeam-hoodie): 80/20 cotton/polyester blend fleece with 100% cotton face hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/2 M 29 22 35 1/2 L 30 24 36 1/2 XL 31 26 37 1/2 2XL 32 27 38 1/2 3XL 33 28 39 1/2 4XL 34 29 1/2 40
-  Updated: 2026-07-14T22:51:01Z
+  Updated: 2026-09-02T18:34:50Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -348,14 +348,14 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $55.00 USD
 - [Fortune Beanie](https://fortunefeimster.merchmadeeasy.com/products/fortune-beanie): 100% acrylic beanie
-  Updated: 2026-07-15T23:36:35Z
+  Updated: 2026-09-02T18:34:24Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FORBeanie.png?v=1700237613
   Price: $25.00 USD
 - [Livin' Laughin' Lovin' Tee](https://fortunefeimster.merchmadeeasy.com/products/livin-laughin-lovin-tee): 65% polyester, 35% cotton in heather purple Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4 4XL 34 30 23 3/4
-  Updated: 2026-07-15T09:48:11Z
+  Updated: 2026-09-02T18:32:18Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -382,7 +382,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [2024 Live Laugh Love Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/2024-live-laugh-love-tour-tee): The Live Laugh Love Tour Tee features a sweet ice cream design on the front and Fortune's 2024 tour dates on the back! 100% ring spun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4
-  Updated: 2026-07-18T06:15:37Z
+  Updated: 2026-09-02T18:31:49Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -416,21 +416,21 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/160163_1_291366_d-5.png?v=1704486393
   Price: $20.00 USD
 - [2 Sweet 2 Salty Tour Poster - SIGNED](https://fortunefeimster.merchmadeeasy.com/products/2-sweet-2-salty-tour-poster-signed): Fortune's 2 Sweet 2 Salty Tour poster - hand-signed by Fortune!
-  Updated: 2026-07-28T23:01:16Z
+  Updated: 2026-09-02T18:31:01Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/473970471-ff-2-sweet-2-salty-poster_4d003fa4-2121-4781-95c6-ec1a8441f321.png?v=1721918880
   Price: $25.00 USD
 - [Fortune In Canada Poster - SIGNED](https://fortunefeimster.merchmadeeasy.com/products/fortune-in-canada-poster-signed): Get a hand-signed moose-tastic Canada poster today!
-  Updated: 2026-07-28T23:01:16Z
+  Updated: 2026-09-02T18:30:42Z
   Vendor: Fortune Feimster
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSignedCanadaPoster.png?v=1739205282
   Price: $20.00 USD
 - [Crushing It Hoodie](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie): 50/50 cotton/poly fleece hoodie in pink Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-07-18T07:25:40Z
+  Updated: 2026-09-02T18:30:20Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -454,7 +454,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Biscuit Time Tee](https://fortunefeimster.merchmadeeasy.com/products/biscuit-time-tee): 100% cotton t-shirt in light blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-07-18T07:24:17Z
+  Updated: 2026-09-02T18:29:28Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -478,7 +478,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Racing Tee](https://fortunefeimster.merchmadeeasy.com/products/racing-tee): 100% cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-08-20T23:45:26Z
+  Updated: 2026-09-02T18:29:07Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -490,7 +490,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648053321)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/racing-tee?variant=41875648086089)
     Availability: Available
@@ -502,14 +502,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Crushed Ice Tumbler](https://fortunefeimster.merchmadeeasy.com/products/crushed-ice-tumbler): 16 oz double wall stainless steel tumbler with threaded snap-fit lid
-  Updated: 2026-07-13T17:38:15Z
+  Updated: 2026-09-02T18:28:51Z
   Vendor: Fortune Feimster
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0002_163565_1_299226_d.png?v=1732746090
   Price: $35.00 USD
 - [Takin' Care of Biscuits Hoodie](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie): 50/50 cotton/poly fleece hoodie in heather navy Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-07-15T17:20:16Z
+  Updated: 2026-09-02T18:27:55Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -533,7 +533,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Neon Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/neon-tee): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 34 26 3XL 35 28
-  Updated: 2026-08-13T03:47:27Z
+  Updated: 2026-09-02T18:27:30Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -557,7 +557,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Gradient Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/gradient-tour-tee): 65% polyester/35% ringspun cotton t-shirt in dark heather grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 34 26 3XL 35 28
-  Updated: 2026-08-20T23:45:26Z
+  Updated: 2026-09-02T18:27:15Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -581,7 +581,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lesbian Swimsuit Tank - Navy](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy): 100% cotton sleeveless t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 23 1/2 2XL 32 25 3XL 32 1/2 27
-  Updated: 2026-08-21T15:18:57Z
+  Updated: 2026-09-02T18:26:52Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -608,34 +608,34 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://fortunefeimster.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-08-30T11:10:56Z
   Total Products: 28
 - [Apparel](https://fortunefeimster.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 20
 - [Accessories](https://fortunefeimster.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-15T11:07:20Z
+  Updated: 2026-09-02T18:31:02Z
   Total Products: 18
 - [All](https://fortunefeimster.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 38
 - [Vintage Merch](https://fortunefeimster.merchmadeeasy.com/collections/old-merch)
-  Updated: 2026-08-10T11:07:32Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 8
 - [](https://fortunefeimster.merchmadeeasy.com/collections/)
   Updated: 2026-07-13T17:38:11Z
   Total Products: 2
 - [Tees & Tanks](https://fortunefeimster.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 16
 - [Ice Cream Collection](https://fortunefeimster.merchmadeeasy.com/collections/ice-cream-collection)
   Updated: 2026-08-10T11:07:32Z
   Total Products: 5
 - [$40](https://fortunefeimster.merchmadeeasy.com/collections/40)
-  Updated: 2026-08-10T11:07:32Z
+  Updated: 2026-08-30T11:10:56Z
   Total Products: 4
 - [$30](https://fortunefeimster.merchmadeeasy.com/collections/30)
-  Updated: 2026-08-21T11:07:42Z
+  Updated: 2026-09-02T18:41:38Z
   Total Products: 7
 - [$20](https://fortunefeimster.merchmadeeasy.com/collections/20)
   Updated: 2026-07-13T17:38:11Z
@@ -644,7 +644,7 @@ your agent can transact everywhere.
   Updated: 2026-07-13T17:38:11Z
   Total Products: 3
 - [Crushing It Collection](https://fortunefeimster.merchmadeeasy.com/collections/crushing-it-collection)
-  Updated: 2026-08-21T11:07:42Z
+  Updated: 2026-08-30T11:10:56Z
   Total Products: 5
 - [$20.24](https://fortunefeimster.merchmadeeasy.com/collections/20-24)
   Updated: 2026-07-13T17:38:11Z
@@ -653,10 +653,10 @@ your agent can transact everywhere.
   Updated: 2026-08-21T11:07:42Z
   Total Products: 7
 - [New Arrivals](https://fortunefeimster.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 38
 - [Best Sellers](https://fortunefeimster.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-22T11:10:09Z
+  Updated: 2026-09-04T11:08:22Z
   Total Products: 38
 - [$5 Treats](https://fortunefeimster.merchmadeeasy.com/collections/5-bin)
   Updated: 2026-07-13T17:38:12Z
