@@ -6,75 +6,68 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2026-08-24T00:00:46.157Z
+- Updated At: 2026-09-06T00:01:04.295Z
 
 ## Products
 
 - [Turquoise Blue Horse Wall Decor - Handcrafted Rustic 16-Inch Hanging](https://kbart.in/products/turquoise-blue-horse-wall-decor): Enhance your home with the KB ART Turquoise Blue Horse Wall Decor. This 16-inch distressed wooden piece features a golden touch, offering a unique rustic vibe for any space.
-  Updated: 2026-08-06T19:54:29Z
+  Updated: 2026-09-05T11:18:11Z
   Vendor: KB ART
   Product Type: Wooden Handcrafted Handpianted Horse Head
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Artistic_handcrafted_horse_wall_sculpture.jpg?v=1758721487
-  Price: ₹999.00 INR
+  Price: ₹1,200.00 INR
 - [Rustic Wooden Horse Wall Decor - Handcrafted Vintage 16-Inch Art Piece](https://kbart.in/products/rustic-wooden-horse-wall-decor): Enhance your space with our KB ART Rustic Wooden Horse Wall Decor. This 16-inch orange distressed horse head features a golden touch, perfect for vintage-style Indian home decor.
-  Updated: 2026-07-30T22:24:17Z
+  Updated: 2026-09-05T11:18:11Z
   Vendor: KB ART
   Product Type: Wooden Handcrafted Handpianted Horse Head
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Decorative_wooden_horse_wall_piece_234d3027-4e6b-4deb-b0f3-d2a9e197109e.jpg?v=1758721536
-  Price: ₹999.00 INR
+  Price: ₹1,200.00 INR
+- [Multicolor Handpainted Wooden Wall Mirror | 9.5x19 Inch Jharokha Decor](https://kbart.in/products/multicolor-handpainted-wooden-wall-mirror): Enhance your space with the KB ART Multicolor Handpainted Wooden Wall Mirror. This stunning 9.5x19 inch traditional Misri Art piece adds a boho charm to any decor. Perfect for unique styling!
+  Updated: 2026-09-05T11:18:19Z
+  Vendor: KB ART
+  Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Handpainted_wooden_wall_mirror.png?v=1758721665
+  Price: ₹1,400.00 INR
 - [Jodhpuri Handpainted Wooden Wall Mirror | Unique Boho Home Décor](https://kbart.in/products/jodhpuri-handpainted-wooden-wall-mirror): Enhance your home décor with the KB ART Jodhpuri handpainted wooden wall mirror. Featuring a stunning Pichwai cow & lady design, this 9.5x19 inch arch jharokha piece adds a boho touch.
-  Updated: 2026-07-30T22:24:18Z
+  Updated: 2026-09-05T11:18:10Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Wooden_Handpainted_Mirror_9209d236-3583-449c-8de8-e677d7f1f399.png?v=1758721710
-  Price: ₹1,099.00 INR
+  Price: ₹1,400.00 INR
 - [Handpainted Wooden Wall Mirror - KB ART Yellow Arch Jharokha Decor](https://kbart.in/products/kb-art-multicolor-handpainted-wooden-wall-mirror-9-5x19-inch-traditional-misri-art-arch-mirror-jharokha-boho-decor-frame): Elevate your decor with the KB ART Handpainted Wooden Wall Mirror. This 9.5x19 inch mirror features vibrant yellow with white Amboz embroidery, perfect for traditional boho style.
-  Updated: 2026-07-30T22:24:18Z
+  Updated: 2026-09-05T11:18:09Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Wooden_Handpainted_Pichwai_Mirror.png?v=1758721760
-  Price: ₹1,099.00 INR
+  Price: ₹1,400.00 INR
 - [Pichwai Wall Decor - KB ART Handpainted 12x12 Inch Rajasthani Lady](https://kbart.in/products/pichwai-wall-decor): Elevate your home with our KB ART Handpainted 12x12 Inch Round Pichwai Wall Decor. Featuring a traditional Rajasthani lady, this charming piece adds elegance to any space.
-  Updated: 2026-07-30T22:24:18Z
+  Updated: 2026-09-05T11:18:08Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pichwai WallPlates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Pichwai_wall_decor.jpg?v=1758721896
-  Price: ₹980.00 INR
-- [Radha Rani Handpainted Wall Plate - 12x12 Inch Rajasthani Decor](https://kbart.in/products/radha-rani-handpainted-wall-plate): Discover the exquisite KB ART Radha Rani Handpainted Wall Plate. This 12x12 inch traditional Rajasthani wooden decor in a striking black base adds elegance to any space.
-  Updated: 2026-07-30T22:24:19Z
-  Vendor: KB ART
-  Product Type: Wooden Handpainted Pichwai WallPlates
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Handpainted_Pichwai_art_86930b7b-8905-45b7-befe-0debdb423a46.jpg?v=1758721917
-  Price: ₹980.00 INR
-- [Wooden Horse Head Statue – Handcarved 11 Inch Antique Look Decor](https://kbart.in/products/wooden-horse-head-statue): Discover the KB ART 11 Inch Wooden Horse Head Statue, a hand-carved piece with a turquoise distress finish and gold touch. Perfect table decor to elevate your space!
-  Updated: 2026-07-30T22:24:19Z
-  Vendor: KB ART
-  Product Type: Wooden Handcrafted Handpianted Horse Head
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Interior_decor_798adbf6-d2ff-469f-859a-b7359a3bc01c.jpg?v=1758721933
-  Price: ₹830.00 INR
+  Price: ₹1,450.00 INR
 - [Handpainted Wooden Temple Decor - KB ART Multicolor Amboz Work Mandir](https://kbart.in/products/handpainted-wooden-temple-decor): Elevate your space with our KB ART handpainted wooden temple decor. This multicolor Amboz work antique handcarved wall hanging mandir adds a touch of elegance and spirituality to any home.
-  Updated: 2026-07-30T22:24:19Z
+  Updated: 2026-09-05T11:18:17Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Temple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Handpaintedwoodentemplewallhanging.png?v=1758721986
   Price: ₹1,250.00 INR
 - [Handpainted Wooden Temple Wall Decor - Antique Look Handcarved Mandir](https://kbart.in/products/kb-art-handpainted-wooden-temple-wall-decor-white-colour-handpainted-motifs-work-antique-look-handcarved-wall-hanging-mandir): Transform your space with KB ART's handpainted wooden temple wall decor. This antique-look, handcarved mandir features intricate white motifs, perfect for adding elegance to your home.
-  Updated: 2026-07-30T22:24:19Z
+  Updated: 2026-09-05T11:18:16Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Temple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Colorfulwoodenwalltempleforpoojaroom.png?v=1758722079
   Price: ₹1,250.00 INR
 - [Handcarved Wooden Temple Decor - Antique Brown Wall Hanging Mandir](https://kbart.in/products/handcarved-wooden-temple-decor): Discover the elegance of KB ART Handcarved Wooden Temple Decor. This Antique Brown Wall Hanging Mandir brings warmth and spirituality to your home. Perfect for enhancing any space!
-  Updated: 2026-07-30T22:24:19Z
+  Updated: 2026-09-05T11:18:13Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Temple
   Availability: Available
@@ -108,34 +101,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Colorfulhandcraftedwoodenjharokha_baa57817-24fc-4e56-a00f-eac73136611c.png?v=1758722410
   Price: ₹850.00 INR
-- [Handpainted Wooden Elephant Stool – Antique Look Home Decor & Gifting](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-black-red-misri-art-handcarved-antique-look-home-decor-gifting): Enhance your home decor with the KB ART Handpainted Wooden Elephant Stool. This 8-inch black and red Misri art piece is perfect for gifting or adding an antique touch to any space.
-  Updated: 2026-07-30T22:24:20Z
-  Vendor: KB ART
-  Product Type: Wooden 8inches elephant stool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/TraditionalIndianElephantStool.png?v=1758722459
-  Price: ₹950.00 INR
-- [Handpainted Wooden Elephant Stool - 8 Inch Yellow Base & Amboz Art](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-multicolour-amboz-jodhpuri-art-antique-look-handcarved-home-table-decor): Shop the KB ART Handpainted Wooden Elephant Stool featuring a vibrant yellow base and multicolour Amboz Jodhpuri art. Perfect for adding an antique touch to your home décor!
-  Updated: 2026-07-30T22:24:20Z
-  Vendor: KB ART
-  Product Type: Wooden 8inches elephant stool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/TraditionalIndianElephantStool_855f5a3e-6704-4fd1-8b2e-1c11e7b0e938.png?v=1758722539
-  Price: ₹950.00 INR
-- [Handpainted Wooden Elephant Stool – Antique Look Multicolour Décor](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-natural-multicolour-misri-art-antique-look-handcarved-home-table-decor): Discover the KB ART Handpainted Wooden Elephant Stool, a stunning 8-inch piece featuring Multicolour Amboz Jodhpuri Art. Perfect for antique-look home décor and enhancing any table setting!
-  Updated: 2026-07-30T22:24:21Z
-  Vendor: KB ART
-  Product Type: Wooden 8inches elephant stool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/ElephantShapedWoodenAccentTable_b2bdcfd9-8d53-4cdb-aa8f-6028ee7b5884.png?v=1758722602
-  Price: ₹950.00 INR
-- [Handpainted Wooden Elephant Stool – 8 Inch Antique Misri Art Décor](https://kbart.in/products/kb-art-handpainted-wooden-elephant-stool-8-inch-natural-multicolour-misri-art-antique-look-handcarved-home-table-decor-1): Elevate your home decor with the KB ART Handpainted Wooden Elephant Stool. This 8-inch stool features vibrant Misri art and an antique look, perfect for any table or living space.
-  Updated: 2026-07-30T22:24:21Z
-  Vendor: KB ART
-  Product Type: Wooden 8inches elephant stool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/ElephantShapedWoodenAccentTable_2eff7e2d-0d47-44a6-9de4-0b908013337b.png?v=1758722641
-  Price: ₹950.00 INR
 - [Wooden Nandi Bull Head Brass Fitted | KB ART Jodhpur Handicraft](https://kbart.in/products/kb-art-wooden-nandi-bull-head-brass-fitted): Shop the Wooden Nandi Bull Head Brass Fitted by KB ART - a hand-carved Brass & Wood wall art panel in Natural Wood-Tone hand-polished matte finish, crafted b...
   Updated: 2026-08-03T19:28:09Z
   Vendor: KB ART
@@ -143,6 +108,62 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/traditional-nandi-wall-hanging-brass-inlay-wooden-mask-bull-mask-home-decor.jpg?v=1784060995
   Price: ₹2,100.00 INR
+- [Wooden Blue Mandala Tlight Candle Holders | KB ART Jodhpur Handicraft](https://kbart.in/products/wooden-blue-mandala-tlight-candle-holders): Shop the Wooden Blue Mandala Tlight Candle Holders by KB ART - a hand-carved Solid Wood tealight & candle holder in Blue distressed antique finish, crafted b...
+  Updated: 2026-09-05T11:18:15Z
+  Vendor: KB ART
+  Product Type: T-Light Holder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Blue-Mandala-Tea-Light-Holders-Set-of-2-Wooden-Candle-Holders-Gold-Mandala-T-Light-Stand.jpg?v=1784059000
+  Price: ₹750.00 INR
+- [Handcrafted Teal Blue Wooden Arch Mirror with Lotus Floral Design | Indian Traditional Wall Decor](https://kbart.in/products/handcrafted-teal-blue-wooden-arch-mirror-with-lotus-floral-design-indian-traditional-wall-decor): Shop a handcrafted teal blue wooden arch mirror featuring lotus flowers and floral vine artwork. A distinctive Indian-inspired wall decor piece for elegant homes and interiors.
+  Updated: 2026-09-05T22:31:18Z
+  Vendor: KB ART
+  Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/vintage-indian-arch-wooden-vanity-mirror.jpg?v=1788612581
+  Price: ₹2,100.00 INR
+- [Sage Green Wooden Jharokha Mirror Frame | Hand-Painted Botanical Decor](https://kbart.in/products/sage-green-wooden-arch-jharokha-wall-mirror-jasmine-floral): Handcrafted sage green wooden Jharokha wall mirror with hand-painted jasmine florals & leaf vines. Authentic Rajasthani arch mirror for bedroom & living room.
+  Updated: 2026-09-05T21:54:42Z
+  Vendor: KB ART
+  Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/ethnic-wooden-entryway-arch-mirror-home-decor.jpg?v=1788617699
+  Price: ₹2,800.00 INR
+- [Off-White Wooden Arch Jharokha Mirror | Maroon Floral Decor](https://kbart.in/products/off-white-wooden-arch-jharokha-wall-mirror-maroon-floral-vine): Handcrafted off-white wooden Jharokha wall mirror with hand-painted maroon florals & green leaf vines. Authentic Rajasthani arch mirror for home decor.
+  Updated: 2026-09-05T15:03:44Z
+  Vendor: KB ART
+  Product Type: Wooden Jharokha Wall Mirror
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/rajasthani-handcrafted-cream-jharokha-mirror-frame.jpg?v=1788619981
+  Price: ₹2,800.00 INR
+- [Pastel Peach Wooden Jharokha Mirror Frame | Floral Vanity Wall Decor](https://kbart.in/products/peach-cream-wooden-arch-jharokha-wall-mirror-botanical-floral): Handcrafted peach cream wooden Jharokha wall mirror with hand-painted peach & blue botanical florals. Authentic Rajasthani arch mirror for home decor.
+  Updated: 2026-09-05T15:50:15Z
+  Vendor: KB ART
+  Product Type: Wooden Jharokha Wall Mirror
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/vintage-mughal-floral-arched-wooden-dresser-mirror.jpg?v=1788620855
+  Price: ₹2,800.00 INR
+- [Handcrafted Wooden Pattachitra Art Cow Head Wall Hanging | Sacred Decor | KB ART](https://kbart.in/products/multicolor-wooden-cow-head-wall-hanging-sunburst-pattachitra): Handcrafted wooden cow head wall hanging with hand-painted orange, yellow & green Pattachitra sunburst floral design. Authentic Jodhpur folk art decor.
+  Updated: 2026-09-05T19:34:53Z
+  Vendor: KB ART
+  Product Type: Wooden Handcrafted Handpianted Cow head
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/traditional-rajasthani-handpainted-bull-head-wall-decor.jpg?v=1788624347
+  Price: ₹1,900.00 INR
+- [Handcrafted Wooden Cow Head Wall Hanging (10 Inch) | Folk Art Decor](https://kbart.in/products/black-wooden-cow-head-wall-hanging-lotus-tribal-geometric): Buy handcrafted Rajasthani wooden cow head wall art (10 inches). Features 100% hand-painted Pichwai lotus motifs, vibrant horns, and sacred Kamdhenu styling.
+  Updated: 2026-09-05T20:10:45Z
+  Vendor: KB ART
+  Product Type: Wooden Handcrafted Handpianted Cow head
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/traditional-rajasthani-carved-wooden-bull-head-wall-decor.jpg?v=1788638364
+  Price: ₹1,900.00 INR
+- [Radha Rani Hand-Painted Wooden Wall Plate (12x12") | Wall Decor](https://kbart.in/products/wooden-wall-plate-radha-rani-flute-golden-yellow-pichwai): KB ART 12 inch wooden wall plate with hand-painted Radha Rani playing flute on a golden yellow Pichwai background. Authentic Jodhpur wall decor.
+  Updated: 2026-09-05T21:31:06Z
+  Vendor: KB ART
+  Product Type: Wooden Hand-Painted Wall Plate
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/traditional-rajasthani-round-wooden-godess-radha-rani-pichwai-platter-art.jpg?v=1788639419
+  Price: ₹1,900.00 INR
 
 ## Collections
 
@@ -150,142 +171,142 @@
   Updated: 2026-08-07T13:48:14Z
   Total Products: 0
 - [Wall Art Decor Collection: Transform Your Space with Stunning Art and Designs](https://kbart.in/collections/wall-art-decor): Transform your space with our Wall Art Decor Collection. Discover stunning art and designs that elevate your home aesthetics and create a personalized atmosphere. Shop now!
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 26
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 629
 - [Elephant Stools](https://kbart.in/collections/elephant-stools): Discover our unique elephant stools collection, perfect for adding a touch of elegance and charm to any space. Shop now to enhance your home decor with these stylish pieces!
-  Updated: 2026-08-07T13:48:14Z
-  Total Products: 9
+  Updated: 2026-08-30T09:41:57Z
+  Total Products: 64
 - [Elephant Head Decor Collection for Stunning Home Accents](https://kbart.in/collections/elephant-head-decor): Discover our Elephant Head Decor Collection for stunning home accents. Enhance your space with unique elephant head decor pieces that blend elegance and charm effortlessly.
-  Updated: 2026-08-07T13:48:14Z
-  Total Products: 7
+  Updated: 2026-09-05T04:10:03Z
+  Total Products: 48
 - [Handcrafted Gifts — Ready to Ship](https://kbart.in/collections/handcrafted-gifts-ready-to-ship): Shop our curated collection of handcrafted products available for immediate dispatch. Unique handmade gifts delivered to your door. - KB ART
-  Updated: 2026-08-07T13:48:16Z
-  Total Products: 20
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 38
 - [Wholesale Wooden Handicrafts — Bulk Orders](https://kbart.in/collections/wholesale-handicrafts-bulk-orders): Browse our entire collection of hand crafted items available for bulk and wholesale purchases. Contact us for custom quantities & pricing - KB ART
-  Updated: 2026-08-07T13:48:21Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Toys & Wooden Playthings](https://kbart.in/collections/toys-wooden-playthings): Handmade Wooden Toys India | Traditional Rajasthani Toys — KB Art Shop KB Art's handcrafted wooden toys made by artisans in Rajasthan. Safe, sustainable and beautifully made traditional Indian toys — perfect for children and collectors alike. Collection Description Rediscover the joy of play with KB Art's handcrafted wooden toys — made with love, skill and generations of artisan tradition. Each toy is carefully crafted in Rajasthan using natural wood and non-toxic finishes, bringing sustainability, culture and imagination into the hands of children everywhere. wooden-toys, handmade-toys, traditional-indian-toys, rajasthani-toys, kids-gifts - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 61
+  Updated: 2026-08-31T19:30:52Z
+  Total Products: 132
 - [Gifts for Kids](https://kbart.in/collections/gifts-for-kids): Handmade Gifts for Kids | Wooden Toys & Décor for Children — KB Art Discover KB Art's handcrafted wooden gifts for kids — safe, creative and made by artisans in Rajasthan. Unique toys, playful décor and traditional Indian craft gifts children will love. Spark curiosity and creativity with gifts that go beyond the ordinary. KB Art's handcrafted wooden gifts for kids blend imaginative design with authentic Indian craftsmanship from Rajasthan. Safe, sustainable and full of character, these gifts inspire young minds while connecting them to India's rich artisan heritage. gifts-for-kids, kids-wooden-gifts, handmade-children-gifts, traditional-toys-india - KB ART
-  Updated: 2026-08-07T13:48:15Z
-  Total Products: 69
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 252
 - [Hotel & Cafe decor](https://kbart.in/collections/hotel-cafe-decor): Handcrafted Hotel & Café Décor | Wooden Artisan Interiors — KB Art Elevate your hospitality space with KB Art's handcrafted wooden décor for hotels, cafés and restaurants. Artisan-made in Rajasthan — bulk orders and custom designs available. Create a space your guests never want to leave. KB Art's hotel and café décor collection brings the warmth and authenticity of Rajasthani craftsmanship into your hospitality interiors. From statement wall pieces to table accents, every item is handcrafted by skilled artisans and available for bulk and custom orders. hotel-decor, cafe-decor, restaurant-decor, hospitality-decor, wooden-interior-decor - KB ART
-  Updated: 2026-08-07T13:48:17Z
-  Total Products: 822
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Traditional & Ethnic Décor](https://kbart.in/collections/traditional-ethnic-decor): Traditional & Ethnic Wooden Décor | Rajasthani Handicrafts — KB Art Shop KB Art's traditional and ethnic wooden décor crafted by artisans in Rajasthan. Authentic Indian handicrafts that bring cultural richness and heritage into your home. Honour India's living heritage with décor that carries centuries of craft tradition. KB Art's traditional and ethnic collection showcases handcrafted wooden pieces deeply rooted in Rajasthani artisan culture — intricate carvings, vibrant motifs and timeless forms that transform any space into a celebration of Indian identity. traditional-decor, ethnic-decor, rajasthani-handicrafts, indian-wooden-decor, heritage-crafts - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 822
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Spiritual & Divine](https://kbart.in/collections/spiritual-divine): Spiritual & Divine Wooden Décor | Handcrafted Sacred Art India — KB Art Shop KB Art's spiritual and divine wooden décor — handcrafted sacred art, pooja pieces and meditation décor from Rajasthan. Bring peace, positivity and sacred beauty into your space. Fill your space with peace, purpose and sacred beauty. KB Art's Spiritual & Divine collection features handcrafted wooden décor inspired by India's rich spiritual traditions — from intricately carved deity figures to meditation corner accents. Each piece is made by artisans in Rajasthan and carries the quiet energy of devotion and craft. spiritual-decor, divine-wooden-art, pooja-decor, meditation-decor, sacred-home-decor - KB ART
-  Updated: 2026-08-07T13:48:19Z
-  Total Products: 109
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 581
 - [Ancestral Wall Art Decor](https://kbart.in/collections/ancestral-wall-art-decor): Ancestral Wooden Wall Art | Heritage Carved Panels India — KB Art Shop KB Art's ancestral wall art — handcrafted carved wooden panels and heritage wall pieces from Rajasthan. Timeless artisan art that connects your home to India's craft legacy. Some art speaks across generations. KB Art's Ancestral Wall Art collection features handcrafted wooden wall panels, carved reliefs and heritage-inspired pieces that carry the visual language of Rajasthan's ancient artisan tradition. Each work is a living connection to India's craft legacy — destined to become a heirloom in your own home. wall-art, wooden-wall-panels, heritage-carved-art, ancestral-decor, rajasthani-wall-art - KB ART
-  Updated: 2026-08-07T13:48:10Z
-  Total Products: 140
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 455
 - [Heritage Mask Gallery](https://kbart.in/collections/heritage-mask-gallery): Heritage Wooden Masks India | Handcrafted Decorative Masks — KB Art Explore KB Art's Heritage Mask Gallery — handcrafted decorative wooden masks from Rajasthan. Tribal, folk and ceremonial mask art beautifully made by Indian artisans. Masks carry stories no other art form can tell. KB Art's Heritage Mask Gallery presents a curated collection of handcrafted wooden masks rooted in Rajasthan's tribal, folk and ceremonial traditions. Each mask is a work of cultural preservation — vividly detailed, deeply symbolic and made by artisans who are custodians of living tradition. wooden-masks, heritage-masks, decorative-masks-india, tribal-mask-art, folk-art-india - KB ART
-  Updated: 2026-08-07T13:48:16Z
-  Total Products: 37
+  Updated: 2026-09-05T21:21:50Z
+  Total Products: 247
 - [Pooja & Festive Décor](https://kbart.in/collections/pooja-festive-decor): Pooja & Festive Wooden Décor | Handcrafted Sacred Décor India — KB Art Beautify your pooja space with KB Art's handcrafted wooden pooja and festive décor. Traditional Rajasthani artisan pieces for Diwali, Navratri, puja rooms and festive celebrations. Where devotion meets artistry. KB Art's Pooja & Festive Décor collection brings handcrafted wooden pieces of sacred beauty into your rituals and celebrations. From ornate pooja room accents to festive table décor for Diwali and Navratri, each item is crafted by artisans in Rajasthan with reverence for both craft and tradition. pooja-decor, festive-decor, diwali-decor, navratri-decor, puja-room-decor - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Heritage Glow](https://kbart.in/collections/heritage-glow): Heritage Glow Décor | Handcrafted Wooden Candle & Light Holders — KB Art Shop KB Art's Heritage Glow collection — handcrafted wooden candle holders, tealight stands and lamp décor from Rajasthan. Warm, glowing artisan pieces for festive and everyday décor. Light takes on a new meaning when it passes through artisan craft. KB Art's Heritage Glow collection features handcrafted wooden candle holders, tealight stands and lamp accents that cast warm, golden light through intricate carved patterns. Made by artisans in Rajasthan, these pieces bring an ancient, flickering beauty to any space. candle-holders, tealight-holders, wooden-lamp-decor, festive-lighting-decor, heritage-glow - KB ART
-  Updated: 2026-08-07T13:48:16Z
-  Total Products: 37
+  Updated: 2026-09-05T08:36:38Z
+  Total Products: 480
 - [Real Estate Closing Gifts](https://kbart.in/collections/real-estate-closing-gifts): Real Estate Closing Gifts India | Handcrafted Wooden Housewarming Gifts — KB Art Impress your real estate clients with KB Art's handcrafted wooden closing gifts. Premium artisan pieces from Rajasthan — elegant, meaningful and available for bulk corporate orders. A new home is a milestone worth marking with something extraordinary. KB Art's Real Estate Closing Gifts collection offers premium handcrafted wooden pieces that real estate professionals can give with pride. Each item — made by artisans in Rajasthan — speaks of quality, thoughtfulness and the good taste of the giver. Available in bulk with custom branding. real-estate-gifts, closing-gifts, housewarming-corporate-gifts, realtor-gifts-india - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Festive Artisanal Hampers](https://kbart.in/collections/festive-artisanal-hampers): Festive Artisanal Hampers | Handcrafted Wooden Gift Hampers India — KB Art Gift KB Art's festive artisanal hampers — curated handcrafted wooden gift sets for Diwali, Christmas, Eid and all celebrations. Artisan-made in Rajasthan with premium packaging. The most festive gift is one that can't be found anywhere else. KB Art's Festive Artisanal Hampers bring together handpicked wooden handicrafts in premium curated sets — perfect for Diwali, Christmas, Eid and every celebration worth commemorating. Each hamper is assembled with care, packed beautifully and made entirely by artisans in Rajasthan. festive-hampers, gift-hampers, diwali-hampers, artisan-gift-sets, handcrafted-hampers-india - KB ART
-  Updated: 2026-08-07T13:48:15Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Royal Rajasthan — Haveli Style](https://kbart.in/collections/royal-rajasthan-haveli-style): Royal Rajasthan Haveli Décor | Handcrafted Heritage Interiors — KB Art Bring the grandeur of a Rajasthani haveli into your home with KB Art's Royal Rajasthan collection. Handcrafted wooden décor rich in heritage detail and regal beauty. Live like royalty. KB Art's Royal Rajasthan — Haveli Style collection brings the opulence of Rajasthan's magnificent havelis into contemporary living spaces through handcrafted wooden décor of extraordinary detail and heritage beauty. Ornate carvings, grand motifs and regal forms — each piece a tribute to the grandeur of Rajputana craftsmanship. rajasthan-decor, haveli-style, royal-indian-decor, heritage-wooden-art, rajputana-crafts - KB ART
-  Updated: 2026-08-07T13:48:19Z
-  Total Products: 834
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [The Art Collector](https://kbart.in/collections/the-art-collector): Collectible Wooden Art India | Handcrafted Art Pieces for Collectors — KB Art Discover KB Art's Art Collector series — limited edition handcrafted wooden art pieces from Rajasthan. Unique, -worthy artisan sculptures and wall art for discerning collectors. For those who collect not just things, but stories. KB Art's The Art Collector series features handcrafted wooden art pieces of collector-grade quality — limited in number, extraordinary in craft and deeply rooted in the artisan traditions of Rajasthan. Each piece is a singular work, signed by its maker and worthy of a place in any serious collection. wooden-art-collector, collectible-handicrafts, limited-edition-wooden-art, artisan-sculptures-india - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Wooden Bajot, Chowki, coffee tables, pedestal stools](https://kbart.in/collections/wooden-bajot-chowki-cooffe-tables-pedestal-stools): Shop solid wood bajots, pooja chowkis, coffee tables, pedestal stands & hand-carved elephant stools. Authentic artisan craftsmanship for everyday home - KB ART
-  Updated: 2026-08-07T13:48:21Z
-  Total Products: 42
+  Updated: 2026-08-30T09:41:58Z
+  Total Products: 116
 - [Wooden Brass Decor](https://kbart.in/collections/wooden-brass-decor): Elevate your home with artisanal wooden and brass handicrafts. Hand-carved from premium hardwood with solid brass inlays. Shop unique decor & gifts - KB ART
   Updated: 2026-08-07T13:48:21Z
   Total Products: 28
 - [The New Home Collection](https://kbart.in/collections/the-new-home-collection): The New Home Collection — Housewarming Décor by KB ARTCurated handcrafted wooden décor perfect for new homeowners: wall art, mirrors, and accent furniture from Jodhpur artisans, ideal as griha pravesh and housewarming gifts.FAQWhat is a good housewarming gift? Handcrafted wall art, a jharokha mirror, or an accent stool that brings cultural warmth to a new home. - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Boutique Cafe & Restaurant Decor](https://kbart.in/collections/boutique-cafe-restaurant-decor): Boutique Cafe & Restaurant Decor by KB ARTRustic, handcrafted wooden décor accents for boutique cafes and restaurants — wall art, centerpieces, and tabletop pieces from Jodhpur artisans that create memorable dining ambiance.FAQWhat decor suits a boutique cafe? Warm, handcrafted wooden pieces like wall art and centerpieces that add character without overwhelming the space. - KB ART
-  Updated: 2026-08-07T13:48:13Z
-  Total Products: 834
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Artisanal Hospitality Decor](https://kbart.in/collections/artisanal-hospitality-decor): Artisanal Hospitality Decor by KB ARTHandmade wooden décor for hospitality brands that want an artisan-crafted, story-rich aesthetic — sourced directly from Rajasthani craftsmen in Jodhpur.FAQWhy choose artisanal decor for hospitality projects? Handmade pieces bring authenticity and a unique story that mass-produced decor cannot match. - KB ART
-  Updated: 2026-08-07T13:48:13Z
-  Total Products: 691
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Boutique Hotel Accents](https://kbart.in/collections/boutique-hotel-accents): Boutique Hotel Accents by KB ARTStatement wooden accent pieces designed for boutique hotels — handcarved wall art, mirrors, and furniture pieces that create a distinctive, photograph-worthy guest experience.FAQWhat are good boutique hotel accent pieces? Handcrafted wall mirrors and carved wall art make strong visual anchors in lobbies and guest rooms. - KB ART
-  Updated: 2026-08-07T13:48:13Z
-  Total Products: 834
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Cafe & Restaurant Ambiance](https://kbart.in/collections/cafe-restaurant-ambiance): Cafe & Restaurant Ambiance by KB ARTHandpicked wooden décor to set the mood in cafes and restaurants — wall panels, mirrors, and rustic accents from Jodhpur that turn dining spaces into experiences.FAQHow do I improve restaurant ambiance affordably? A few well-placed handcrafted wall pieces or mirrors can transform a space without a full renovation. - KB ART
-  Updated: 2026-08-07T13:46:58Z
-  Total Products: 834
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Hand-Carved Wall Art](https://kbart.in/collections/hand-carved-wall-art): Hand-Carved Wall Art by KB ARTIntricately hand-carved wooden wall art from Jodhpur artisans — Pichwai panels, elephant heads, jharokha frames, and folk-art wall hangings for statement interiors.FAQIs hand-carved wall art durable? Yes, solid wood construction with protective finishes ensures it lasts for decades with basic care. - KB ART
-  Updated: 2026-08-07T13:48:15Z
-  Total Products: 160
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 660
 - [Lobby Statement Pieces](https://kbart.in/collections/lobby-statement-pieces): Lobby Statement Pieces by KB ARTLarge-format handcrafted wooden decor built to anchor hotel and office lobbies — oversized wall art, benches, and carved furniture pieces from Jodhpur.FAQWhat makes a good lobby statement piece? Scale and craftsmanship — an oversized carved wall panel or bench draws the eye and sets the tone for the space. - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 311
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Room Decor for Resorts](https://kbart.in/collections/room-decor-for-resorts): Room Decor for Resorts by KB ARTHandcrafted wooden décor pieces sized and styled for resort guest rooms — wall art, mirrors, and accent furniture with a relaxed, artisanal feel.FAQWhat decor works for resort rooms? Lightweight wall art and mirrors that reflect local craft heritage without overpowering the room. - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 822
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Heritage Style Interior](https://kbart.in/collections/heritage-style-interior): Heritage Style Interior by KB ARTDécor to recreate haveli-inspired, heritage Rajasthani interiors — hand-carved furniture, jharokha panels, and Pichwai wall art from Jodhpur.FAQHow do I create a heritage-style interior? Combine carved wooden furniture with jharokha-style mirrors and traditional wall art for an authentic haveli feel. - KB ART
-  Updated: 2026-08-07T13:48:16Z
-  Total Products: 834
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Traditional Indian Craft](https://kbart.in/collections/traditional-indian-craft): Traditional Indian Craft by KB ARTAuthentic traditional Indian handicrafts made using centuries-old woodworking and hand-painting techniques passed down by artisans in Jodhpur, Rajasthan.FAQWhat makes a craft "traditional Indian"? Techniques, motifs, and materials passed down through generations of regional artisan families — like Pichwai painting and hand-carving. - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 822
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Premium Guest Amenities](https://kbart.in/collections/premium-guest-amenities): Premium Guest Amenities by KB ARTElevated handcrafted wooden pieces for premium guest amenity kits — small keepsakes and décor accents that reflect Rajasthani craftsmanship.FAQWhat makes a guest amenity feel premium? Handmade, locally-sourced pieces that guests can't buy elsewhere — a strong point of differentiation for hospitality brands. - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Handcrafted Room Gifts](https://kbart.in/collections/handcrafted-room-gifts): Handcrafted Room Gifts by KB ARTThoughtful, handmade wooden décor gifts sized for guest rooms and personal spaces — from Jodhpur's woodworking artisans.FAQWhat room gifts feel most personal? Small handcrafted pieces like tealight holders or wall accents that guests can take home. - KB ART
-  Updated: 2026-08-07T13:48:16Z
-  Total Products: 521
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1301
 - [Corporate Desk Essentials](https://kbart.in/collections/corporate-desk-essentials): Corporate Desk Essentials by KB ARTHandcrafted wooden desk accessories and accents that bring warmth and craft to office spaces — from Jodhpur's artisan workshops.FAQWhat desk accents work well in an office? Small carved figures, trays, or planters that add personality without cluttering the workspace. - KB ART
-  Updated: 2026-08-07T13:48:14Z
-  Total Products: 54
+  Updated: 2026-09-05T08:42:47Z
+  Total Products: 289
 - [Bohemian Artisanal](https://kbart.in/collections/bohemian-artisanal): Bohemian Artisanal by KB ARTFree-spirited, handmade wooden décor with a boho edge — jharokha mirrors, hanging planters, and folk-art wall pieces from Jodhpur.FAQWhat defines boho decor? Natural materials, handmade textures, and eclectic patterns that feel relaxed and personal. - KB ART
-  Updated: 2026-08-07T13:48:13Z
-  Total Products: 526
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [The Royal Aviary](https://kbart.in/collections/the-royal-aviary): The Royal Aviary by KB ARTHandcrafted wooden bird-motif décor — peacocks, sparrows, and roosters — inspired by the ornamental bird art found in Rajasthani palaces.FAQWhy are birds common in Indian decor motifs? Peacocks and other birds are traditional symbols of grace and royalty in Indian art. - KB ART
-  Updated: 2026-08-07T13:48:20Z
-  Total Products: 822
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 1614
 - [Wooden Wall Hooks & Key Holders](https://kbart.in/collections/wooden-wall-hooks-key-holders): Wooden Wall Hooks & Key Holders by KB ARTHand-painted wooden wall hooks and key holders — functional entryway organizers with authentic Jodhpur craftsmanship.FAQAre wooden wall hooks durable for daily use? Yes, KB ART's wall hooks use solid wood construction designed to hold coats, bags, and keys reliably. - KB ART
-  Updated: 2026-08-07T13:48:22Z
+  Updated: 2026-09-05T08:24:17Z
   Total Products: 15
 - [Iron & Metal Accent Decor](https://kbart.in/collections/iron-metal-accent-decor): Iron & Metal Accent Decor by KB ARTHand-carved iron and metal decor accents — filigree lanterns, iron pots, and metal-fitted pieces crafted alongside KB ART's signature woodwork.FAQWhat is filigree iron decor? A cut-work metal technique used to create decorative lanterns and vases with intricate perforated patterns. - KB ART
   Updated: 2026-08-07T13:48:17Z
   Total Products: 52
 - [MDF & Wooden Storage Boxes](https://kbart.in/collections/mdf-wooden-storage-boxes): MDF & Wooden Storage Boxes by KB ARTHand-painted MDF and wooden storage boxes — jewelry cases, drawer chests, and decorative sandook boxes crafted in Jodhpur.FAQWhat can wooden storage boxes be used for? Jewelry, keepsakes, stationery, or as a decorative accent — KB ART's boxes combine function with hand-painted artistry. - KB ART
-  Updated: 2026-08-07T13:48:18Z
-  Total Products: 53
+  Updated: 2026-09-05T09:07:03Z
+  Total Products: 108
 - [Wooden Tealight & Candle Holders](https://kbart.in/collections/wooden-tealight-candle-holders): Wooden Tealight & Candle Holders by KB ARTHand-carved wooden tealight and candle holders in animal and floral motifs — festive, gifting, and everyday ambient lighting pieces from Jodhpur.FAQWhat sizes do tealight holders come in? KB ART offers single-tealight stands to multi-candle sets, from pocket-sized gifting pieces to statement holders. - KB ART
-  Updated: 2026-08-07T13:48:22Z
-  Total Products: 32
+  Updated: 2026-09-05T08:36:38Z
+  Total Products: 55
 - [Wooden Serving Trays](https://kbart.in/collections/wooden-serving-trays): Wooden Serving Trays by KB ARTHand-painted wooden serving trays from Jodhpur — floral, tile-inlay, and brass-fitted designs for dining, entertaining, and gifting.FAQAre hand-painted wooden trays food-safe? They're designed for serving food in cups, plates, or wrapped items; avoid prolonged direct contact with wet or oily food on the painted surface. - KB ART
-  Updated: 2026-08-07T13:48:22Z
-  Total Products: 17
+  Updated: 2026-09-05T09:19:12Z
+  Total Products: 55
 - [Wooden Wall Decor](https://kbart.in/collections/wooden-wall-decor): Wooden Wall Decor by KB ARTHand-carved wooden wall decor from Jodhpur — shelves, jharokha panels, wall hangings, and mixed-media pieces for statement interiors.FAQHow do I hang heavy wooden wall decor safely? Use wall anchors rated for the piece's weight; most KB ART pieces come with a rear hanging fixture. - KB ART
-  Updated: 2026-08-07T13:48:22Z
-  Total Products: 163
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 666
 - [Corporate & Event Bulk Orders](https://kbart.in/collections/curated-corporate-bundles-copy): Corporate & Event Bulk Orders by KB ARTBulk handcrafted wooden gifting solutions for corporate events, conferences, and large celebrations
-  Updated: 2026-08-07T13:48:13Z
-  Total Products: 187
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 739
 - [Antique Almirahs & Vintage Wooden Armoires](https://kbart.in/collections/antique-almirahs-vintage-wooden-armoires): Explore our handpicked collection of solid wood antique almirahs, vintage armoires, and distressed storage cabinets. Free delivery & authentic craftsmanship.
   Updated: 2026-08-07T13:48:10Z
   Total Products: 101
 - [Antique Furniture](https://kbart.in/collections/antique-furniture): Shop our curated collection of antique furniture, featuring handcrafted vintage pieces with timeless charm and rich character. Each piece tells a story, bringing authentic old-world elegance to your home or office. - KB ART
-  Updated: 2026-08-07T13:48:12Z
-  Total Products: 484
+  Updated: 2026-09-01T20:02:45Z
+  Total Products: 579
 - [Antique Decor](https://kbart.in/collections/antique-decor): Explore our antique decor collection, featuring vintage accents and decorative pieces that add character and history to any space. Timeless finds to elevate your home's ambiance. - KB ART
-  Updated: 2026-08-07T13:48:12Z
-  Total Products: 73
+  Updated: 2026-09-01T20:04:11Z
+  Total Products: 216
 - [Antique Bar Table](https://kbart.in/collections/antique-bar-table): Add vintage flair to your entertaining space with our antique bar tables. Handcrafted from solid wood, each table blends rustic charm with functional elegance for home bars and lounges. - KB ART
-  Updated: 2026-08-07T13:48:10Z
+  Updated: 2026-09-03T21:21:12Z
   Total Products: 5
 - [Antique Bedside Table](https://kbart.in/collections/antique-bedside-table): Shop antique bedside tables crafted from solid wood, combining vintage character with practical storage. A timeless addition to any bedroom decor. - KB ART
   Updated: 2026-08-07T13:48:10Z
@@ -297,23 +318,53 @@
   Updated: 2026-08-07T13:48:10Z
   Total Products: 99
 - [Antique Coffee Table](https://kbart.in/collections/antique-coffee-table): Shop our antique coffee tables, handcrafted from solid wood with rich vintage detailing. A timeless centerpiece for your living room. - KB ART
-  Updated: 2026-08-07T13:48:11Z
-  Total Products: 37
+  Updated: 2026-09-05T09:20:27Z
+  Total Products: 49
 - [Antique Damchiya (Wooden Trunk)](https://kbart.in/collections/antique-damchiya-wooden-trunk): Explore antique damchiya, traditional wooden trunks handcrafted with intricate detailing. Perfect for storage and as a vintage statement piece in your home. - KB ART
-  Updated: 2026-08-07T13:48:12Z
-  Total Products: 27
+  Updated: 2026-09-01T20:02:45Z
+  Total Products: 48
 - [Antique Old Haveli Gate & Door](https://kbart.in/collections/antique-old-haveli-gate-door): Shop authentic antique haveli gates and doors, handcrafted with intricate carvings that showcase timeless heritage craftsmanship. Ideal statement pieces for entryways and interior design. - KB ART
   Updated: 2026-08-07T13:48:12Z
   Total Products: 37
 - [Antique Mirrors](https://kbart.in/collections/antique-mirrors): Discover our collection of antique mirrors, featuring vintage frames and timeless designs. Add character and elegance to any wall with these handcrafted statement pieces. - KB ART
-  Updated: 2026-08-07T13:48:12Z
-  Total Products: 33
+  Updated: 2026-09-05T11:18:11Z
+  Total Products: 118
 - [Antique Wooden Room Divider](https://kbart.in/collections/antique-wooden-room-divider): Shop handcrafted antique wooden room dividers, perfect for adding vintage charm while creating functional, stylish separation in any space. - KB ART
   Updated: 2026-08-07T13:48:12Z
   Total Products: 5
 - [Rustic Wood Furniture](https://kbart.in/collections/rustic-wood-furniture): Explore our rustic wood furniture collection, featuring handcrafted solid wood pieces with natural textures and timeless character. Perfect for adding warmth to any home. - KB ART
-  Updated: 2026-08-07T13:48:19Z
-  Total Products: 484
+  Updated: 2026-09-01T20:04:11Z
+  Total Products: 581
+- [Wooden Name Plates](https://kbart.in/collections/wooden-name-plates): Personalize your home with our handcrafted wooden name plates. Custom-engraved and finished with premium wood, these name plates make an elegant statement piece for your entrance, door, or office. A perfect blend of tradition and personalization. - KB ART
+  Updated: 2026-09-03T21:20:03Z
+  Total Products: 9
+- [Wooden Deer Head & Ram Head Wall Decor](https://kbart.in/collections/wooden-deer-head-ram-head-wall-decor): Add character to your walls with our wooden deer head and ram head wall decor. Hand-carved from solid wood, these decorative animal heads bring a rustic, statement-making touch to living rooms, hallways, and lounges — a stylish alternative to hunting trophies. - KB ART
+  Updated: 2026-09-05T09:12:12Z
+  Total Products: 13
+- [Wooden Wall Panels & Shelves](https://kbart.in/collections/wooden-wall-panels-shelves): Transform your space with our range of wooden wall panels and shelves. Combining functional storage with decorative wall art, these handcrafted wooden pieces are perfect for displaying books, decor, or plants while adding warmth and texture to any room. - KB ART
+  Updated: 2026-09-05T11:18:06Z
+  Total Products: 68
+- [Wooden Handcarved Chakki for Home Decor](https://kbart.in/collections/wooden-handcarved-chakki-for-home-decor): Bring timeless charm to your living space with our wooden handcarved chakki — a  reimagined as a stunning home decor piece. Each chakki is hand-carved by skilled artisans from solid wood, capturing intricate detailing and rustic craftsmanship that celebrates Indian heritage.Perfect as a coffee table centerpiece, entryway accent, or decorative showpiece, this handcrafted wooden chakki adds warmth and cultural elegance to any room. Its unique, one-of-a-kind carving makes it a conversation starter and a meaningful gift for housewarmings, festivals, or special occasions.Shop our collection of authentic handcarved wooden chakki decor pieces — durable, eco-friendly, and designed to bring rustic charm and traditional beauty into modern homes. - KB ART
+  Updated: 2026-09-03T21:23:16Z
+  Total Products: 9
+- [KB ART all products for wholesale or Bulk order only](https://kbart.in/collections/kb-art-all-products-for-wholesale-or-bulk-order-only): - KB ART
+  Updated: 2026-09-05T11:18:13Z
+  Total Products: 1607
+- [Indian Home Decor](https://kbart.in/collections/indian-home-decor): - KB ART
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 7
+- [Wooden Home Decor](https://kbart.in/collections/wooden-home-decor): - KB ART
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 7
+- [Indian Handicrafts](https://kbart.in/collections/indian-handicrafts): - KB ART
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 7
+- [Bedroom Wall Decor](https://kbart.in/collections/bedroom-wall-decor): - KB ART
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 7
+- [Living Room Wall Decor](https://kbart.in/collections/living-room-wall-decor): - KB ART
+  Updated: 2026-09-05T21:23:13Z
+  Total Products: 7
 
 ## Blogs
 
