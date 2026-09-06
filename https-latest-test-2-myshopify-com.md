@@ -6,64 +6,35 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-08-21T00:00:24.769Z
+- Updated At: 2026-09-06T00:00:35.643Z
 
 ## Products
 
-- [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard-day-1-jyxvt): Stocked at both of our locations, so it ships from whichever one is closest to you.
-  Updated: 2026-08-11T17:26:10Z
+- [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard): Stocked at both of our locations, so it ships from whichever one is closest to you.
+  Updated: 2026-09-01T07:20:46Z
   Vendor: Northline Supply
   Product Type: Snowboard
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/image.png?v=1788246900
   Price: $579.95 USD
-- [Complete Snowboard](https://latest-test-2.myshopify.com/products/the-complete-snowboard-day-2026-05-14-xqnaz): snowboard winter sport snowboarding
-  Updated: 2026-08-11T17:36:39Z
+- [Complete Snowboard](https://latest-test-2.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
+  Updated: 2026-09-01T18:45:56Z
   Vendor: Summit Rebel
   Product Type: Snowboard
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/the-complete-snowboard.png?v=1788246933
   Price: $899.95 USD
-- [Gift Card edited](https://latest-test-2.myshopify.com/products/gift-card-edited): Four denominations, from $10 to $100. Sent straight to the recipient's inbox.
-  Updated: 2026-08-14T21:54:17Z
-  Vendor: Latest Test
-  Product Type: Gift Card
-  Availability: Available
-  - [$10](https://latest-test-2.myshopify.com/products/gift-card-edited?variant=54093486489873)
-    Availability: Available
-    Price: $10.00 USD
-  - [$25](https://latest-test-2.myshopify.com/products/gift-card-edited?variant=54093486588177)
-    Availability: Available
-    Price: $25.00 USD
-  - [$50](https://latest-test-2.myshopify.com/products/gift-card-edited?variant=54093486620945)
-    Availability: Available
-    Price: $50.00 USD
-  - [$100](https://latest-test-2.myshopify.com/products/gift-card-edited?variant=54093486653713)
-    Availability: Available
-    Price: $100.00 USD
-- [Boom boom pao](https://latest-test-2.myshopify.com/products/-plans-ski-wax): Three tins on a repeating plan: standard, special and sample. Skip or cancel any cycle. download image 502 from here
-  Updated: 2026-08-20T01:52:49Z
-  Vendor: Frostline Labs
-  Product Type: Snowboard Accessories
-  Availability: Available
-  - [ Plans Ski Wax](https://latest-test-2.myshopify.com/products/-plans-ski-wax?variant=54093486752017)
-    Availability: Available
-    Price: $22.95 USD
-  - [Special  Plans Ski Wax](https://latest-test-2.myshopify.com/products/-plans-ski-wax?variant=54093486817553)
-    Availability: Available
-    Price: $44.95 USD
-  - [Sample  Plans Ski Wax](https://latest-test-2.myshopify.com/products/-plans-ski-wax?variant=54093486850321)
-    Availability: Available
-    Price: $8.95 USD
 
 ## Collections
 
 - [Some another collection [CC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/some-another-collection): Auto-updated by tester on 2026-05-14 12:56:10. Seed: 20261511
-  Updated: 2026-08-19T12:22:53Z
+  Updated: 2026-09-01T07:02:37Z
   Total Products: 3
 - [Smart collection v1 [SC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/smart-collection)
-  Updated: 2026-08-10T09:46:13Z
+  Updated: 2026-09-01T07:10:13Z
   Total Products: 1
 - [Random v3 [CC-Day-2026-06-10]](https://latest-test-2.myshopify.com/collections/random-v3): Auto-updated by tester on 2026-06-10 12:56:10. Seed: 20261511
-  Updated: 2026-08-19T12:22:53Z
+  Updated: 2026-09-01T07:13:48Z
   Total Products: 3
 
 ## Blogs
@@ -95,7 +66,7 @@
     Tags: kid, story
 - [New Blog Title [Blog-Day-2026-05-14]](https://latest-test-2.myshopify.com/blogs/new-blog-title-12)
   - [Eco Article](https://latest-test-2.myshopify.com/blogs/new-blog-title-12/eco-article): This is a summary of the article.
-    Updated: 2026-08-13T10:34:01Z
+    Updated: 2026-08-31T10:57:00Z
     Author: Eco demon
     Tags: Tag1, Tag2
 
