@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-08-27T00:00:30.879Z
+- Updated At: 2026-09-06T00:00:35.184Z
 
 ## About RareLyf 
 
@@ -69,6 +69,8 @@
   Updated: 2026-07-14T10:28:11Z
 - [Why Ashwagandha Stopped Working — And What Finally Finishes the Job](https://rarelyf.com/pages/why-ashwagandha-stopped-working-and-what-finally-finishes-the-job)
   Updated: 2026-08-10T06:17:41Z
+- [Melatonin Knocks You Out. It Doesn't Fix Your Sleep.](https://rarelyf.com/pages/melatonin-knocks-you-out-it-doesnt-fix-your-sleep)
+  Updated: 2026-09-03T11:11:31Z
 
 ## Policies
 
