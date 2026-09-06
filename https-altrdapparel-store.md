@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-05-30T09:23:54Z
 - Contact Email: altrdco.support@gmail.com
-- Updated At: 2026-08-28T00:00:48.936Z
+- Updated At: 2026-09-06T00:00:45.533Z
 
 ## Products
 
 - [Anime Grunge Girl Micro Rib Baby Tee | ALTRD Apparel](https://altrdapparel.store/products/womens-micro-rib-baby-tee-anime-grunge-girl-graphic-crop-top-with-tribal-chest-tattoo): Cropped micro-rib tee in Airlume cotton-poly blend with a gritty anime-inspired graphic. Stretch fit, cap sleeves — underground streetwear energy in a slim silhouette.
-  Updated: 2026-08-27T00:53:19Z
+  Updated: 2026-08-29T06:01:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -166,14 +166,14 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/20260705214604-1f178bae-bc2b-6b38-8eb1-064edb207fbc.png?v=1783288116
     Price: $57.85 USD
 - [ALTRD Embroidered Bucket Hat | Gothic Tree Logo Streetwear](https://altrdapparel.store/products/altrd-embroidered-bucket-hat-gothic-tree-logo-minimal-streetwear): 100% cotton twill bucket hat with dark gothic tree embroidery. Breathable eyelets, relaxed brim — a low-key streetwear accessory built for everyday wear.
-  Updated: 2026-08-27T00:53:06Z
+  Updated: 2026-08-29T06:01:29Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/20260705215106-1f178bb9-fd39-6e9e-aeca-0ae31384b813.png?v=1783288307
   Price: $30.99 USD
 - [Misery Oversize Fleeced Hoodie | ALTRD Apparel](https://altrdapparel.store/products/oversize-fleeced-hoodie): Heavyweight fleece hoodie in a relaxed oversized silhouette. Cotton-poly blend built for cold-weather street style with a dark, effortless edge.
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:29Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -379,7 +379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/42e1268a17f844f59f2f2f864b517cdf.png?v=1785990811
     Price: $74.36 USD
 - [Authentic Snow Washed Oversized T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/authentic-snow-washed-oversized-cotton-t-shirt): 100% cotton snow-washed tee with a lived-in fade and loose drop-shoulder fit. Unisex streetwear with an authentic worn-in edge.
-  Updated: 2026-08-27T00:53:22Z
+  Updated: 2026-08-29T06:01:30Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -585,7 +585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1743b66144c0439c8086ae1da3bfffbb.png?v=1783357556
     Price: $53.90 USD
 - [Illusion Sunfade Two-Way Zip Boxy Hoodie | ALTRD Apparel](https://altrdapparel.store/products/illusion-sunfade-two-way-zipper-boxy-fleece-hoodie): Handcrafted sunfade fleece hoodie with a two-way zipper and boxy drop-shoulder fit. Cotton-poly blend, artisanal finish — every piece is uniquely worn-in.
-  Updated: 2026-08-27T00:53:16Z
+  Updated: 2026-08-29T06:01:30Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -671,7 +671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/75b6fb0c66d94899add36c43010664c2.png?v=1783360324
     Price: $88.58 USD
 - [Chaos Crewneck Crop Tank Top for Women | ALTRD Apparel](https://altrdapparel.store/products/chaos-women-s-tight-crewneck-crop-tank-top): Bodycon rayon-spandex crop tank with a bold Chaos graphic and a clean crewneck. Sleek, stretchy, and made for summer streetwear fits.
-  Updated: 2026-08-27T00:53:09Z
+  Updated: 2026-08-29T06:01:30Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -709,7 +709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ad5e2137fd8e43d19741381bd86f62b8.png?v=1783360759
     Price: $28.74 USD
 - [Snow Washed Loose Cotton Hoodie | ALTRD Apparel](https://altrdapparel.store/products/snow-washed-loose-cotton-hoodie): 420gsm 100% cotton snow-washed hoodie with rib cuffs and a relaxed loose fit. Unisex streetwear with a faded, lived-in finish built for fall and winter.
-  Updated: 2026-08-27T00:53:23Z
+  Updated: 2026-08-29T06:01:31Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -815,7 +815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8ee874dd199c4b2687bfe83026bdfc05.png?v=1783361149
     Price: $70.68 USD
 - [Oversized Unisex Long Sleeve T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt): 100% cotton drop-shoulder long sleeve tee in a relaxed oversized fit. Clean, versatile streetwear for layering or wearing solo across every season.
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -841,7 +841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e84e972e05a54db3b232ac1d1128a981.png?v=1783395830
     Price: $63.40 USD
 - [Misery II Oversize Fleeced Hoodie | ALTRD Apparel](https://altrdapparel.store/products/oversize-fleeced-hoodie-1): Thick cotton-poly fleece hoodie in a relaxed oversized drop-shoulder silhouette. Built heavy for cold-weather street style — effortless, dark, and durable.
-  Updated: 2026-08-27T00:53:19Z
+  Updated: 2026-08-29T06:01:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1047,7 +1047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3662264fd61b49df86ffc8939fed9b05.png?v=1783495234
     Price: $74.36 USD
 - [Vintage Wash Boxy Distressed Hem T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/vintage-wash-boxy-distressed-hem-t-shirt): Hand-cut raw hem tee in 100% cotton with a vintage wash and boxy drop-shoulder silhouette. Each piece is slightly unique — distressed streetwear with an authentic edge.
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:32Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a387ca0c991442d68a08dd644fe48b52.png?v=1783495534
     Price: $47.94 USD
 - [Off-the-Shoulder Bell Sleeve Crop Top for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-off-the-shoulder-bell-sleeve-crop-t-shirt): Bodycon rayon-spandex crop top with off-shoulder neckline and flared bell sleeves. Feminine streetwear with a bold graphic and a sleek, stretchy fit.
-  Updated: 2026-08-27T00:53:25Z
+  Updated: 2026-08-29T06:01:32Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/540172bd66834f7f918c12f15053a2db.png?v=1783495804
     Price: $33.96 USD
 - [Flared Leg Quarter-Zip Jumpsuit for Women | ALTRD Apparel](https://altrdapparel.store/products/womens-tight-flared-leg-quarter-zip-jumpsuit): Nylon-spandex bodycon jumpsuit with a quarter-zip front and flared leg silhouette. Sleek, stretchy, and versatile — from street to studio.
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:33Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1169,7 +1169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/81867dad439e4e31a8b86229a3e30b21.png?v=1783495999
     Price: $50.00 USD
 - [Solid Color Knit Maxi Skirt for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-solid-color-knit-maxi-skirt): Bodycon rayon-spandex maxi skirt with a mid-waist fit and a clean, minimal silhouette. Effortless streetwear that transitions from day to night.
-  Updated: 2026-08-27T00:53:21Z
+  Updated: 2026-08-29T06:01:33Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1191,7 +1191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/28633f7b5dcd4b05b71bca69375c2314.png?v=1783496149
     Price: $40.00 USD
 - [Ruched Cropped Tube Top for Women | ALTRD Apparel](https://altrdapparel.store/products/womens-ruched-cropped-yoga-tube-top): Nylon-spandex ruched crop tube top with a bodycon fit and a sleek, minimal look. Built for yoga, sport, or street — versatile and form-fitting.
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:33Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1213,7 +1213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/fa337d98a79545feb3eb65e3ce4a71b7.png?v=1783496269
     Price: $40.36 USD
 - [Illusion Hand-Frayed Paint Splatter T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/hand-frayed-sunfade-paint-splatter-t-shirt): Handcrafted sunfade tee with raw frayed edges and paint splatter detailing. Every piece is one-of-a-kind — pure cotton, loose fit, artisanal streetwear.
-  Updated: 2026-08-27T00:53:21Z
+  Updated: 2026-08-29T06:01:34Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1259,7 +1259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/f91ecea142f24306983cfd81906a4223.png?v=1783496689
     Price: $53.94 USD
 - [Chaos Drawstring Mini Skirt for Women | ALTRD Apparel](https://altrdapparel.store/products/essential-drawstring-skirt): Cotton-poly mini skirt with an elastic drawstring waist and a cropped silhouette. Pairs with the Chaos Hoodie — effortless streetwear from waist down.
-  Updated: 2026-08-27T00:53:05Z
+  Updated: 2026-08-29T06:01:34Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1281,7 +1281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6959d925f11f4369904b11dd48cf4615.png?v=1785195021
     Price: $32.34 USD
 - [Women's Wide Leg Denim Jeans | ALTRD Apparel](https://altrdapparel.store/products/womens-wide-leg-denim-jeans): 430gsm wide-leg denim jeans in a loose mid-waist fit with patchwork detailing. Heavy cotton-blend construction — street-ready bottoms with a relaxed, editorial silhouette.
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:34Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1327,7 +1327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e29fcb8e64b949049bd5e5110363eca2.png?v=1785195708
     Price: $118.34 USD
 - [Chaos Cropped Hoodie for Women | ALTRD Apparel](https://altrdapparel.store/products/essential-cropped-hoodie): Oversized cropped hoodie in cotton-poly blend with a drop-shoulder cut and drawstring waist. Part of the Chaos set — made to mix, match, and move.
-  Updated: 2026-08-27T00:53:11Z
+  Updated: 2026-08-29T06:01:35Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1349,7 +1349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/altrd-apparel-black-cropped-hoodie.jpg?v=1786203961
     Price: $51.14 USD
 - [Punk Vintage Wash Wide Leg Denim Shorts | ALTRD Apparel](https://altrdapparel.store/products/mens-vintage-wash-wide-leg-denim-shorts): Heavy 420gsm wide-leg denim shorts with a vintage wash and loose mid-waist fit. Street-ready bottoms with a punk edge for warm-weather fits.
-  Updated: 2026-08-27T00:53:22Z
+  Updated: 2026-08-29T06:01:35Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3a64dcd334c64e178aba5ab43dd12e6c.png?v=1785196068
     Price: $88.56 USD
 - [Silence Snow Washed Oversized T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/snow-washed-oversized-cotton-t-shirt): 100% cotton snow-washed oversized tee with subtle embroidery and a faded drop-shoulder silhouette. Quiet on the outside, loud in the details.
-  Updated: 2026-08-27T00:53:21Z
+  Updated: 2026-08-29T06:01:35Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1581,7 +1581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/4767c02476eb49e8833fbb43fee983ff.png?v=1785196372
     Price: $53.90 USD
 - [Parental Advisory Heavyweight Hoodie | ALTRD Apparel](https://altrdapparel.store/products/parental-advisory-essential-heavyweight-hoodie): 430gsm cotton-blend oversized hoodie with a raw Parental Advisory graphic. Drop-shoulder silhouette, kangaroo pocket — built heavy for the streets.
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:36Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1747,7 +1747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5bca3219fba4475bbcf564d06d1d0566.png?v=1785312333
     Price: $90.50 USD
 - [Parental Advisory Boxy Oversized T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/boxy-oversized-t-shirt): Heavy 400gsm pure cotton tee with a boxy drop-shoulder cut and bold Parental Advisory graphic. Unisex streetwear built for those who don't ask permission.
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:36Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1873,7 +1873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/693203aa452c4a558c760cdb47e5ce51.png?v=1785312693
     Price: $60.00 USD
 - [Silence Mineral Wash Crop T-Shirt for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-mineral-wash-cotton-crop-t-shirt): Slim-fit 100% cotton crop tee with a mineral wash finish and a clean round neck. Understated streetwear with a soft, worn-in feel.
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:36Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1959,7 +1959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1b34567aea944809a37328d7930293c7.png?v=1785312903
     Price: $42.34 USD
 - [Women's Vintage Wash Distressed Wide Leg Jeans](https://altrdapparel.store/products/women-s-vintage-wash-distressed-wide-leg-jeans): Distressed. Faded. Built to stand out.The ALTRD Vintage Wash Distressed Wide Leg Jeans bring a worn-in, rebellious energy to a wide-leg silhouette. Heavyweight cotton-blend denim with a vintage wash and intentional distressing — every pair carries its own character. The loose, wide-leg cut and mid-waist fit give you a relaxed, confident stance that works with cropped tops, oversized hoodies, or anything in between.These aren’t jeans that try to look lived-in. They just are.Details Cotton blend denim Vintage wash with distressed detailing Wide leg, loose fit Mid-waist Women’s sizing — S through 2XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Do not iron over distressed areas
-  Updated: 2026-08-27T00:53:18Z
+  Updated: 2026-08-29T06:01:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1981,7 +1981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a155223700104b84ae563eb1c08179b1.png?v=1785578163
     Price: $102.52 USD
 - [Fleeced Jogger Sweatpants](https://altrdapparel.store/products/fleeced-jogger-sweatpants): Comfort that doesn't compromise. The ALTRD Fleeced Jogger Sweatpants are built for the days when you want to move easy but still look intentional. Cotton-poly fleece with a relaxed jogger fit, elastic waist, and tapered leg — the kind of sweatpants that work as hard off the couch as they do on the street. Pair them with an oversized hoodie or a graphic tee and you’re done. Soft, warm, and built to last through heavy rotation. Details Cotton-polyester fleece blend Elastic waist with drawstring Relaxed jogger fit, tapered leg Unisex sizing Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-27T00:53:19Z
+  Updated: 2026-08-29T06:01:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2087,7 +2087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6b7c1a2ce9394063a95374e838d15ae2.png?v=1785578628
     Price: $84.56 USD
 - [Chaos Sun Fade Raw Edge Cotton Shorts](https://altrdapparel.store/products/chaos-sun-fade-raw-edge-cotton-shorts): Faded. Raw. Ready.The ALTRD Chaos Sunfade Raw Edge Cotton Shorts are cut from 100% cotton with a sunfade wash and raw, unfinished hem that gives them a deconstructed, streetwear edge. The kind of shorts that look like they’ve been through something — because that’s the aesthetic. Pair them with the Chaos Cropped Hoodie for a full set, or mix into your rotation with any oversized top.Slight length variation from the raw hem is intentional and part of the design.Details 100% cotton Sunfade wash finish Raw, unfinished hem — slight variation is natural Relaxed fit Unisex sizing Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print or raw hem
-  Updated: 2026-08-27T00:53:13Z
+  Updated: 2026-08-29T06:01:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2113,7 +2113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0f01ecd62e8146f89d638e0f44956d32.png?v=1785985759
     Price: $59.52 USD
 - [Women’s U-Neck Yoga Romper](https://altrdapparel.store/products/womens-u-neck-yoga-romper): One piece. All movement.The ALTRD U-Neck Yoga Romper is a streamlined, bodycon one-piece built for movement and versatility. The U-neck cut adds an open, editorial quality to a sporty silhouette — wear it to the gym, a shoot, or anywhere you want a clean, put-together look without the effort of coordinating separates.Soft, stretchy fabric moves with you and holds its shape through long wear.Details Stretch fabric blend U-neck neckline Bodycon, one-piece romper fit Women’s sizing — S through XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-27T00:53:14Z
+  Updated: 2026-08-29T06:01:38Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2151,7 +2151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ddef22a1d3d42e7a22cb305773164c6.png?v=1785988728
     Price: $84.26 USD
 - [Women's Boxy Batwing Sleeve T-Shirt](https://altrdapparel.store/products/women-s-boxy-batwing-sleeve-t-shirt): Dramatic sleeves. Effortless fit.The ALTRD Boxy Batwing Sleeve T-Shirt is a statement silhouette that wears easy. The batwing sleeves create a sweeping, dramatic drape while the boxy cut keeps the overall look relaxed and wearable. 100% cotton construction with a drop shoulder — the kind of top that looks intentional without trying.Wear it tucked into wide-leg pants or let it hang loose over a bodycon skirt for contrast.Details 100% cotton Batwing sleeves with boxy, drop shoulder fit Relaxed, oversized silhouette Women’s sizing — S through XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:38Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2205,7 +2205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/fb825cd669d54cc9b606afca6497ffeb.png?v=1785989208
     Price: $47.94 USD
 - [Unisex Heavyweight Boxy T-Shirt](https://altrdapparel.store/products/unisex-heavyweight-boxy-t-shirt): The foundation piece.The ALTRD Unisex Heavyweight Boxy T-Shirt is the workhorse of the lineup. 100% cotton at 11.8 oz — substantial, structured, and built to hold a graphic or stand alone. The boxy, drop-shoulder cut gives it a relaxed, oversized silhouette that works across genders and styling approaches.This is the tee you reach for first. Wash after wash, it holds its shape and weight.Details 100% cotton Fabric weight: 11.8 oz/yd² (400 g/m²) — heavyweight Drop shoulder, boxy oversized fit Round neck Unisex sizing — S through 2XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:38Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2291,7 +2291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2b392d8b6b9f4d04b432865f939d29bd.png?v=1785990168
     Price: $55.14 USD
 - [Essential Heavyweight Hoodie](https://altrdapparel.store/products/essential-heavyweight-hoodie): Item Number: RW0016Gender: UnisexFabric: 56.44% cotton, 43.56% polyesterFabric Weight: 12.7 oz/yd² (430 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Street, Daily Casual, Outdoor, School, Office, Sport, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Spring, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.56 70 28.35 72 29.13 74 29.92 76 30.71 78 Shoulder 25.20 64 25.98 66 26.77 68 27.56 70 28.35 72 Chest 25.59 65 26.38 67 27.17 69 27.95 71 28.74 73 Sleeve length 20.87 53 21.26 54 21.65 55 22.05 56 22.44 57
-  Updated: 2026-08-27T00:53:27Z
+  Updated: 2026-09-01T20:17:36Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2497,7 +2497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
     Price: $90.50 USD
 - [Oversized Unisex Long Sleeve T-Shirt](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1): Item Number: R00281Gender: UnisexFabric: 100% cottonFabric Weight: 9.0 oz/yd² (305 g/m²)Fabric Thickness: ThinFabric Stretch: Non-StretchCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Casual, Street, Daily Casual, Pure Cotton, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Autumn, Winter, SpringPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. XS S M L XL inch cm inch cm inch cm inch cm inch cm Length 27.95 71 28.74 73 29.53 75 30.31 77 31.10 79 Chest 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Shoulder 22.44 57 23.23 59 24.02 61 24.80 63 25.59 65 Sleeve length 22.44 57 22.83 58 23.23 59 23.62 60 24.02 61
-  Updated: 2026-08-27T00:53:17Z
+  Updated: 2026-08-29T06:01:39Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2643,7 +2643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
     Price: $63.40 USD
 - [Unisex Oversized T-Shirt](https://altrdapparel.store/products/unisex-oversized-t-shirt): Item Number: RT0086Gender: UnisexFabric: 100% cottonFabric Weight: 8.8 oz/yd² (300 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Running, School, Office, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, SummerPrint Size: 40*52cmEmbroidery Size: 4*4cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.95 71 28.74 73 29.53 75 30.31 77 31.10 79 Shoulder 19.69 50 20.87 53 22.05 56 23.23 59 24.41 62 Chest 20.87 53 22.05 56 23.23 59 24.41 62 25.59 65 Sleeve length 8.66 22 8.86 22.5 9.06 23 9.25 23.5 9.45 24
-  Updated: 2026-08-27T00:53:13Z
+  Updated: 2026-08-29T06:01:40Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2749,7 +2749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
     Price: $49.50 USD
 - [Feel Vintage Wash Baggy Denim Shorts](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts): Item Number: RK0057Gender: UnisexFabric: 91% cotton, 7% polyester, 2% viscoseFabric Weight: 11.4 oz/yd² (385 g/m²)Care Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Party, Office, Cotton Blend, Washed, Pocket, Mid Long, Loose, Mid Waist, Autumn, Summer, SpringPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 30.71 78 31.10 79 31.50 80 31.89 81 32.28 82 Waist 14.17 36 14.96 38 15.75 40 16.54 42 17.32 44 Hip 20.47 52 21.26 54 22.05 56 22.83 58 23.62 60
-  Updated: 2026-08-27T00:53:25Z
+  Updated: 2026-08-29T06:01:40Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2775,7 +2775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
     Price: $94.56 USD
 - [Stay altrd Snow Washed Sleeveless Hoodie](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie): Item Number: RU0093Gender: MenFabric: 100% cottonFabric Weight: 9.4 oz/yd² (320 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Outdoor, School, Pure Cotton, Drawstring, Washed, Sleeveless, Hooded, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL inch cm inch cm inch cm inch cm Length 27.17 69 27.95 71 28.74 73 29.53 75 Shoulder 21.26 54 22.05 56 22.83 58 23.62 60 Chest 22.05 56 22.83 58 23.62 60 24.41 62
-  Updated: 2026-08-27T00:53:20Z
+  Updated: 2026-08-29T06:01:40Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2797,7 +2797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
     Price: $71.14 USD
 - [Parental Advisory Women’s Tencel Wide Leg Pants](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants): Item Number: WB0082Gender: WomenFabric: 30% tencel, 25% cotton, 25% bamboo fiber, 20% linenFabric Weight: 8.8 oz/yd² (300 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Daily Casual, Home, Outdoor, Holiday, Washed, Button, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 39.37 100 39.76 101 40.16 102 40.55 103 40.94 104 Waist 12.80 32.5 13.39 34 13.98 35.5 14.57 37 15.16 38.5 Hip 18.70 47.5 19.29 49 19.88 50.5 20.47 52 21.06 53.5
-  Updated: 2026-08-27T00:53:19Z
+  Updated: 2026-08-29T06:01:41Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2823,7 +2823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
     Price: $106.96 USD
 - [Radioactive Boxy Oversized T-Shirt](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt): Item Number: RT0080Gender: UnisexFabric: 100% cottonFabric Weight: 11.8 oz/yd² (400 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, School, Office, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, SummerPrint Size: 40*52cmEmbroidery Size: 4*4cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 25.59 65 26.38 67 27.17 69 27.95 71 28.74 73 Shoulder 22.44 57 23.23 59 24.02 61 24.80 63 25.59 65 Chest 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Sleeve length 8.86 22.5 9.06 23 9.25 23.5 9.45 24 9.65 24.5
-  Updated: 2026-08-27T00:53:13Z
+  Updated: 2026-08-29T06:01:41Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -3009,7 +3009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
     Price: $67.10 USD
 - [Essential Crewneck Long-Sleeve T-Shirt](https://altrdapparel.store/products/essential-crewneck-long-sleeve-t-shirt): Item Number: RT0061Gender: MenFabric: 85% cotton, 15% polyesterFabric Weight: 8.3 oz/yd² (280 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Street, Daily Casual, Home, Outdoor, Running, Sport, Cotton Blend, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, AutumnPrint Size: 40*52cmEmbroidery Size: 4*4cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 26.77 68 27.56 70 28.35 72 29.13 74 29.92 76 Shoulder 20.08 51 20.87 53 21.65 55 22.44 57 23.23 59 Chest 21.65 55 22.44 57 23.23 59 24.02 61 24.80 63 Sleeve length 22.05 56 22.44 57 22.83 58 23.23 59 23.62 60
-  Updated: 2026-08-27T00:53:16Z
+  Updated: 2026-09-01T20:18:12Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -3270,6 +3270,15 @@
     Author: ALTRD Apparel
   - [From Subculture to Mainstream: The Journey of Alternative Fashion](https://altrdapparel.store/blogs/news/from-subculture-to-mainstream-the-journey-of-alternative-fashion): From Subculture to Mainstream: The Journey of Alternative Fashion
     Updated: 2026-08-27T00:31:14Z
+    Author: ALTRD Apparel
+  - [Styling Challenges in Alternative Fashion and How to Overcome Them](https://altrdapparel.store/blogs/news/styling-challenges-in-alternative-fashion-and-how-to-overcome-them): Styling Challenges in Alternative Fashion and How to Overcome Them
+    Updated: 2026-08-30T00:12:09Z
+    Author: ALTRD Apparel
+  - [The Rise of eco-friendly Apparel in Alternative Fashion and Gothic Styles](https://altrdapparel.store/blogs/news/the-rise-of-eco-friendly-apparel-in-alternative-fashion-and-gothic-styles): The Rise of eco-friendly Apparel in Alternative Fashion and Gothic Styles
+    Updated: 2026-08-31T03:45:30Z
+    Author: ALTRD Apparel
+  - [Alternative Fashion Icons: Embracing Unique and Eco-Conscious Apparel](https://altrdapparel.store/blogs/news/alternative-fashion-icons-embracing-unique-and-eco-conscious-apparel): Alternative Fashion Icons: Embracing Unique and Eco-Conscious Apparel
+    Updated: 2026-09-03T00:29:57Z
     Author: ALTRD Apparel
 
 ## Store Pages
