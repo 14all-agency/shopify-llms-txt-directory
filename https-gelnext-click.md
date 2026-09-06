@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-08-26T00:00:35.261Z
+- Updated At: 2026-09-06T00:00:37.596Z
 
 ## Products
 
@@ -406,6 +406,39 @@
   - [45](https://gelnext.click/products/asics-gel-nyc-4?variant=52379705344282)
     Availability: Available
     Price: 18 000,00 FCFA XAF
+- [Saucony omni 9](https://gelnext.click/products/saucony-omni-9)
+  Updated: 2026-09-05T23:28:38Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_14-12-2025_201530_bysaucony.com.jpg?v=1788650917
+  - [37](https://gelnext.click/products/saucony-omni-9?variant=52385203912986)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/saucony-omni-9?variant=52385203945754)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/saucony-omni-9?variant=52385203978522)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/saucony-omni-9?variant=52385204011290)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/saucony-omni-9?variant=52385204044058)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/saucony-omni-9?variant=52385204076826)
+    Availability: Available
+    Price: 2 000 020 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/saucony-omni-9?variant=52385204109594)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/saucony-omni-9?variant=52385204142362)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/saucony-omni-9?variant=52385204175130)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
 - [New balance 530](https://gelnext.click/products/new-balance-530)
   Updated: 2026-08-04T01:31:48Z
   Vendor: GelNext
@@ -638,170 +671,170 @@
     Availability: Available
     Price: 16 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston)
-  Updated: 2026-08-04T01:40:40Z
+  Updated: 2026-08-30T17:35:31Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-6-2026_22851_www.birkenstock.com.jpg?v=1785807589
   - [37](https://gelnext.click/products/birkenstock-boston?variant=52385493287194)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston?variant=52385493319962)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston?variant=52385493352730)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston?variant=52385493385498)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston?variant=52385493418266)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston?variant=52385493451034)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston?variant=52385493483802)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston?variant=52385493516570)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston?variant=52385493549338)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-1)
-  Updated: 2026-08-04T01:41:55Z
+  Updated: 2026-09-01T20:25:07Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-6-2026_23213_www.birkenstock.com.jpg?v=1785807664
   - [37](https://gelnext.click/products/birkenstock-boston-1?variant=52385500954906)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston-1?variant=52385500987674)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston-1?variant=52385501020442)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston-1?variant=52385501053210)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston-1?variant=52385501085978)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston-1?variant=52385501118746)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston-1?variant=52385501151514)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston-1?variant=52385501184282)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston-1?variant=52385501217050)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-2)
-  Updated: 2026-08-04T01:43:11Z
+  Updated: 2026-08-30T17:33:12Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-6-2026_23014_www.birkenstock.com.jpg?v=1785807739
   - [37](https://gelnext.click/products/birkenstock-boston-2?variant=52385513767194)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston-2?variant=52385513799962)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston-2?variant=52385513832730)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston-2?variant=52385513865498)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston-2?variant=52385513898266)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston-2?variant=52385513931034)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston-2?variant=52385513963802)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston-2?variant=52385513996570)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston-2?variant=52385514029338)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-3)
-  Updated: 2026-08-04T01:44:27Z
+  Updated: 2026-08-30T17:31:21Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-6-2026_23119_www.birkenstock.com.jpg?v=1785807816
   - [37](https://gelnext.click/products/birkenstock-boston-3?variant=52385529331994)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston-3?variant=52385529364762)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston-3?variant=52385529397530)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston-3?variant=52385529430298)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston-3?variant=52385529463066)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston-3?variant=52385529495834)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston-3?variant=52385529528602)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston-3?variant=52385529561370)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston-3?variant=52385529594138)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-4)
-  Updated: 2026-08-04T01:45:50Z
+  Updated: 2026-08-30T17:29:24Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/1723559314-80475600.jpg?v=1785807890
   - [37](https://gelnext.click/products/birkenstock-boston-4?variant=52385573568794)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston-4?variant=52385573601562)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston-4?variant=52385573634330)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston-4?variant=52385573667098)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston-4?variant=52385573699866)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston-4?variant=52385573732634)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston-4?variant=52385573765402)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston-4?variant=52385573798170)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston-4?variant=52385573830938)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [New balance 740 vintage grey blue](https://gelnext.click/products/new-balance-740-vintage-grey-blue)
   Updated: 2026-08-08T18:42:23Z
   Vendor: GelNext
@@ -1412,38 +1445,38 @@
     Availability: Available
     Price: 10 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-5)
-  Updated: 2026-08-04T01:59:12Z
+  Updated: 2026-08-30T17:30:18Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_25-6-2026_22451_www.birkenstock.com.jpg?v=1785808699
   - [37](https://gelnext.click/products/birkenstock-boston-5?variant=52395567251738)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [38](https://gelnext.click/products/birkenstock-boston-5?variant=52395567284506)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [39](https://gelnext.click/products/birkenstock-boston-5?variant=52395567317274)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [40](https://gelnext.click/products/birkenstock-boston-5?variant=52395567350042)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [41](https://gelnext.click/products/birkenstock-boston-5?variant=52395567382810)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [42](https://gelnext.click/products/birkenstock-boston-5?variant=52395567415578)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [43](https://gelnext.click/products/birkenstock-boston-5?variant=52395567448346)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [44](https://gelnext.click/products/birkenstock-boston-5?variant=52395567481114)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
   - [45](https://gelnext.click/products/birkenstock-boston-5?variant=52395567513882)
     Availability: Available
-    Price: 20 000,00 FCFA XAF
+    Price: 25 000,00 FCFA XAF
 - [Birkenstock arizona](https://gelnext.click/products/birkenstock-arizona)
   Updated: 2026-08-22T22:04:49Z
   Vendor: GelNext
@@ -2005,6 +2038,105 @@
   - [45](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379154202)
     Availability: Available
     Price: 16 000,00 FCFA XAF
+- [Saucony omni 9](https://gelnext.click/products/saucony-omni-10)
+  Updated: 2026-09-05T22:07:06Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_5-9-2026_043_www.footlocker.fr.jpg?v=1788645825
+  - [37](https://gelnext.click/products/saucony-omni-10?variant=52805308186906)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/saucony-omni-10?variant=52805308219674)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/saucony-omni-10?variant=52805308252442)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/saucony-omni-10?variant=52805308285210)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/saucony-omni-10?variant=52805308317978)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/saucony-omni-10?variant=52805308350746)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/saucony-omni-10?variant=52805308383514)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/saucony-omni-10?variant=52805308416282)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/saucony-omni-10?variant=52805308449050)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+- [Saucony omni 9](https://gelnext.click/products/saucony-omni-11)
+  Updated: 2026-09-05T22:34:46Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_5-9-2026_0736_www.footlocker.fr.jpg?v=1788647375
+  - [37](https://gelnext.click/products/saucony-omni-11?variant=52805394170138)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/saucony-omni-11?variant=52805394202906)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/saucony-omni-11?variant=52805394235674)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/saucony-omni-11?variant=52805394268442)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/saucony-omni-11?variant=52805394301210)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/saucony-omni-11?variant=52805394333978)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/saucony-omni-11?variant=52805394366746)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/saucony-omni-11?variant=52805394399514)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/saucony-omni-11?variant=52805394432282)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+- [Saucony omni 9](https://gelnext.click/products/saucony-omni-12)
+  Updated: 2026-09-05T22:38:15Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_5-9-2026_03227_en.afew-store.com.jpg?v=1788647607
+  - [37](https://gelnext.click/products/saucony-omni-12?variant=52805406720282)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/saucony-omni-12?variant=52805406753050)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/saucony-omni-12?variant=52805406785818)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/saucony-omni-12?variant=52805406818586)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/saucony-omni-12?variant=52805406851354)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/saucony-omni-12?variant=52805406884122)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/saucony-omni-12?variant=52805406916890)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/saucony-omni-12?variant=52805406949658)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/saucony-omni-12?variant=52805406982426)
+    Availability: Available
+    Price: 20 000,00 FCFA XAF
 
 ## Collections
 
@@ -2021,10 +2153,10 @@
   Updated: 2026-08-08T18:42:26Z
   Total Products: 3
 - [Birkenstock boston](https://gelnext.click/collections/birkenstock-boston): - GelNext
-  Updated: 2026-08-08T18:42:27Z
+  Updated: 2026-09-01T20:25:08Z
   Total Products: 6
 - [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
-  Updated: 2026-08-13T23:26:37Z
+  Updated: 2026-09-01T20:25:08Z
   Total Products: 16
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
@@ -2039,13 +2171,16 @@
   Updated: 2026-08-03T21:48:59Z
   Total Products: 4
 - [Birkenstock](https://gelnext.click/collections/birkenstock): - GelNext
-  Updated: 2026-08-18T11:23:15Z
+  Updated: 2026-09-01T20:25:08Z
   Total Products: 10
 - [Adidas](https://gelnext.click/collections/adidas): - GelNext
   Updated: 2026-08-03T21:49:00Z
   Total Products: 4
 - [Nike P-6000](https://gelnext.click/collections/nike-p-6000): - GelNext
   Updated: 2026-08-09T16:39:14Z
+  Total Products: 4
+- [Saucony](https://gelnext.click/collections/saucony): - GelNext
+  Updated: 2026-09-05T23:25:54Z
   Total Products: 4
 
 ## Store Pages
