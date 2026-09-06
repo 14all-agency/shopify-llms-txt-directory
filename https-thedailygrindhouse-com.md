@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-08-26T00:00:47.310Z
+- Updated At: 2026-09-06T00:00:47.310Z
 
 ## Products
 
@@ -3783,7 +3783,7 @@
   Updated: 2026-08-06T00:49:13Z
   Total Products: 4
 - [Mugs & Drinkware](https://thedailygrindhouse.com/collections/mugs): Shop coffee mugs, travel mugs, enamel camp mugs & vacuum insulated bottles. Built for serious coffee drinkers. Find the perfect vessel for your ritual.
-  Updated: 2026-08-06T00:49:13Z
+  Updated: 2026-08-31T11:17:37Z
   Total Products: 6
 - [Stationary](https://thedailygrindhouse.com/collections/stationary): Shop The Daily Grindhouse stationery — journals and notebooks for the intentional coffee lover. Craft-forward desk goods for your morning routine.
   Updated: 2026-08-06T00:49:13Z
