@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-08-31T00:00:54.295Z
+- Updated At: 2026-09-07T04:00:37.405Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2228,53 +2228,7 @@ File Size: 14 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/X-Men_Bodysuit_Photo_Set.jpg?v=1744588488
   Price: $30.00 USD
-- [X-Men Bodysuit Cosplay Video](https://www.carrielachance.com/products/x-men-bodysuit-cosplay-video-download): How many X-Men fans do we have in the building? If you know Carrie, you should know she's a huge fan of the mutant superheroes. She was walking in the mall one day and though this X-Men bodysuit would look hot. Obviously, she was right. She put the Carrie LaChance spin on it and paired it with a yellow miniskirt and heels and just like that we have the sexiest girl in history to ever wear an X-Men bodysuit. Carrie struts her stuff and flashes her beautiful smile to the camera. This gallery is a can’t miss. This video is from Carrie LaChance - Gallery #145
-
-X-Men Bodysuit Cosplay Video
-Run Time: 2 min
-Year: 2014
-File Size: 115 MB
-  Updated: 2026-08-28T23:46:57Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $30.00 USD
-- [Supergirl Skinny Dip Photo Set](https://www.carrielachance.com/products/supergirl-skinny-dip-photo-set-download): This photoshoot was definitely different but easily as sexy as anything Carrie has ever done. She laced up in her favorite cosplay outfit, a sexy, skintight Supergirl costume with some sexy six-inch heels. Always one to have a little bit of a wild streak, Carrie decided the best place to do the shoot would be right next to a huge waterfall on the slippery rocks. One thing that can be said about Carrie is that she's got great balance. She not only manages to look sexy as all hell but she takes things to the next level and peels off her latex top to expose her perfect breasts. This gallery alone is reason enough to become a member.
-
-Carrie LaChance - Gallery #146 🔞
-Total Images: 50 Photos
-Year: 2014
-File Size: 14 MB
-  Updated: 2026-08-28T23:46:49Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Supergirl_Skinny_Dip_Photo_Set.jpg?v=1744588379
-  Price: $50.00 USD
-- [Supergirl Skinny Dip Video](https://www.carrielachance.com/products/supergirl-skinny-dip-video-download): This photoshoot was definitely different but easily as sexy as anything Carrie has ever done. She laced up in her favorite cosplay outfit, a sexy, skintight Supergirl costume with some sexy six-inch heels. Always one to have a little bit of a wild streak, Carrie decided the best place to do the shoot would be right next to a huge waterfall on the slippery rocks. One thing that can be said about Carrie is that she's got great balance. She not only manages to look sexy as all hell but she takes things to the next level and peels off her latex top to expose her perfect breasts. This gallery alone is reason enough to become a member. This video is from Carrie LaChance - Gallery #146
-
-Supergirl Skinny Dip Video 🔞
-Run Time: 1 min
-Year: 2014
-File Size: 49 MB
-  Updated: 2026-08-28T23:46:49Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $30.00 USD
-- [Strappy Lingerie Photo Set](https://www.carrielachance.com/products/strappy-lingerie-photo-set-download): Thank you to Victoria's Secret for making this lingerie set and an even bigger thank you to Carrie LaChance for having the body to make it look this good. Between the straps, the garters, and the thigh highs this outfit is a winner overall. If it weren't sexy enough already, Carrie throws on her sexy six-inch Christian Louboutin heels. If this is any indicator of how Carrie will dress for her man in the bedroom then whoever she ends up with is going to be a very lucky man.
-
-Carrie LaChance - Gallery #147
-Total Images: 64 Photos
-Year: 2014
-File Size: 14 MB
-  Updated: 2026-08-28T23:46:46Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Strappy_Lingerie_Photo_Set.jpg?v=1744588188
-  Price: $50.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDg1MTM2OTM3MTI3LCJsYXN0X3ZhbHVlIjoiNTQ4NTEzNjkzNzEyNyJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDg0NDg5MTEzNzY3LCJsYXN0X3ZhbHVlIjoiNTQ4NDQ4OTExMzc2NyJ9)
 
 ## Collections
 
@@ -2288,7 +2242,7 @@ File Size: 14 MB
   Updated: 2026-08-29T23:42:52Z
   Total Products: 32
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-08-29T23:43:00Z
+  Updated: 2026-09-01T11:09:56Z
   Total Products: 331
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
   Updated: 2026-08-29T23:43:00Z
@@ -2303,16 +2257,16 @@ File Size: 14 MB
   Updated: 2026-08-29T23:43:00Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-08-29T23:43:00Z
+  Updated: 2026-09-01T11:09:56Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
   Updated: 2026-08-29T23:43:00Z
   Total Products: 108
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-08-29T23:43:00Z
+  Updated: 2026-09-01T11:09:56Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
-  Updated: 2026-08-29T23:43:00Z
+  Updated: 2026-09-01T11:09:56Z
   Total Products: 38
 - [Public Collection](https://www.carrielachance.com/collections/public): Step into my Public Collection, featuring some of my most daring shoots captured out in real-world settings. From spontaneous moments to bold, eye-catching looks, these sets bring my signature heels, confidence, and style beyond the studio and into the spotlight.
   Updated: 2026-08-29T23:43:00Z
@@ -3000,6 +2954,33 @@ File Size: 14 MB
     Updated: 2026-08-30T00:03:43Z
     Author: Carrie LaChance
     Tags: allure, alluring fashion choices, chemistry of attraction,  diary,  storytelling, glamour, glamour stories, seduction, seductive attire, seductive stories, temptation closet
+  - [Carrie Lachance's Glamorous Step Into the World of High Heels Pantyhose and Latex](https://www.carrielachance.com/blogs/carrie-lachance/carrie-lachances-glamorous-step-into-the-world-of-high-heels-pantyhose-and-latex): Carrie Lachance's Glamorous Step Into the World of High Heels Pantyhose and Latex
+    Updated: 2026-08-31T08:01:01Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, fashion tips, glamour lifestyle, glamour model, heels, high heels, how to wear high heels, latex, latex model, life of a model, outfit of the day, pantyhose, pinup model, sexy model, stilettos, styling advice, tips for latex fashion
+  - [Explore the Magic of Social Media Modeling with These Proven Tips](https://www.carrielachance.com/blogs/carrie-lachance/explore-the-magic-of-social-media-modeling-with-these-proven-tips): Explore the Magic of Social Media Modeling with These Proven Tips
+    Updated: 2026-09-01T00:01:46Z
+    Author: Carrie LaChance
+    Tags: best practices for modeling online, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to model for social media, how to pose for photo shoot, model techniques, modeling, modeling tips, photo tips, photography, photoshoot, pose, posing tips, social media, social media model, taking good selfies, tips
+  - [Best Practices for Monetizing Your Unique Content Strategy](https://www.carrielachance.com/blogs/carrie-lachance/best-practices-for-monetizing-your-unique-content-strategy): Best Practices for Monetizing Your Unique Content Strategy
+    Updated: 2026-09-02T10:00:53Z
+    Author: Carrie LaChance
+  - [A Step Above: The Emotional Connection Between Glossy Legs and Male Fantasy](https://www.carrielachance.com/blogs/carrie-lachance/a-step-above-the-emotional-connection-between-glossy-legs-and-male-fantasy): A Step Above: The Emotional Connection Between Glossy Legs and Male Fantasy
+    Updated: 2026-09-03T00:01:32Z
+    Author: Carrie LaChance
+    Tags: attraction, emotional connection, footwear and allure, glossy legs, heels, high heels, high heels influence, male fantasy, psychology, psychology of high heels, why men love women in heels
+  - [The Art of Attraction: Embrace Masculinity and Impress Her with Chic Flair](https://www.carrielachance.com/blogs/carrie-lachance/the-art-of-attraction-embrace-masculinity-and-impress-her-with-chic-flair): The Art of Attraction: Embrace Masculinity and Impress Her with Chic Flair
+    Updated: 2026-09-04T00:02:04Z
+    Author: Carrie LaChance
+    Tags: attraction, confidence building strategies, courtship advice, dating, dating advice, how to find a high heel girl, how to find right girl, impress her with flair, masculinity, relationship tips, stylish approach
+  - [Nylons and High Heels How They Empower Your Style](https://www.carrielachance.com/blogs/carrie-lachance/nylons-and-high-heels-how-they-empower-your-style): Nylons and High Heels How They Empower Your Style
+    Updated: 2026-09-05T00:00:50Z
+    Author: Carrie LaChance
+    Tags: elevate your style, fashion accessories, glossy legs, heels, how to wear nylons, nylons, pantyhose, style empowerment
+  - [Diary Rendezvous: Eclipsing Glamour Fashion and Waxed Passion Under Faint Glows](https://www.carrielachance.com/blogs/carrie-lachance/diary-rendezvous-eclipsing-glamour-fashion-and-waxed-passion-under-faint-glows): Diary Rendezvous: Eclipsing Glamour Fashion and Waxed Passion Under Faint Glows
+    Updated: 2026-09-06T00:03:17Z
+    Author: Carrie LaChance
+    Tags:  diary,  storytelling, fashion diaries, glamour, glamour stories, intimate rendezvous, passion, seduction, seductive stories, sensual narrative experiences, waxed allure secrets
 
 ## Store Pages
 
