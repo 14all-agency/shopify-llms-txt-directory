@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-12-01T14:08:17Z
 - Contact Email: hello@seissense.com
-- Updated At: 2026-08-31T20:00:31.021Z
+- Updated At: 2026-09-08T00:00:46.095Z
 
 ## Products
 
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126120_Morisot_Jacket_Charcoal_02_1200x1800_f047107b-de33-4267-bcf6-ac14d701d7af.webp?v=1781071893
     Price: AED 390.00 AED
 - [Nelson Sports Cap](https://gcc.seissense.com/products/nelson-sports-cap-1): A sports cap built to match everything you own.Made from recycled fibers, the Nelson has a structured front panel and adjustable back strap for a fit that actually works. Nine vibrant colourways that can be worn with any outfit. Recycled fibers — Sustainable construction from brim to strap Structured front panel — Holds its shape through use and wash Adjustable back strap — One size that actually fits Nine colourways — Core colours plus Valentine collection tones Unisex — Works for everyone Perfect for: Training, running, everyday wearMaterials: Recycled fibers
-  Updated: 2026-08-25T01:20:36Z
+  Updated: 2026-09-02T08:01:50Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
@@ -1599,7 +1599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012519HOCKNEYCREWSOCKCORESTRIPE7.jpg?v=1781072221
     Price: AED 65.00 AED
 - [Auguste Striped Beanie](https://gcc.seissense.com/products/auguste-beanie-striped): A limited-edition beanie with a story of its own.The Striped is a limited-edition version of the core Auguste beanie, made from 100% wool with a signature stripe. One size, one colourway, while it lasts. 100% wool — Real insulation, not just warmth on paper Limited edition stripe — Not coming back once it's gone Free size — Fits everyone Unisex — No exceptions Perfect for: Cold mornings, travel, everyday wearMaterials: 100% wool
-  Updated: 2026-08-20T19:11:23Z
+  Updated: 2026-09-06T06:41:41Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
@@ -1801,7 +1801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
     Price: AED 230.00 AED
 - [Signae Cropped Cut Out Performance Tee](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee): A cropped tee built to be worn, not just trained in.Made from recycled fibers with FUZE™ technology, the Signae pairs cut-out design details with genuine performance fabric. Moisture-wicking through intense sessions, it's fashion-forward without giving up an inch of function. Cut-out design details — A look that stands out in the gym Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control Moisture-wicking — Manages sweat through intense sessions PFAS-free — No forever chemicals against your skin Perfect for: Gym training, high-intensity workoutsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-20T20:20:24Z
+  Updated: 2026-09-02T12:53:52Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1861,7 +1861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
     Price: AED 200.00 AED
 - [Emile Short Sleeve Pima Hoodie](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie): A hoodie built for warmth without the extra coverage.Made from Supima cotton and Modal with FUZE™ technology, the Emile Short Sleeve gives you the softness and hood of the long sleeve version, cropped for warmer climates. The relaxed fit makes it easy to wear all day. Supima cotton and Modal — Noticeably softer than standard cotton blends FUZE™ technology — Antimicrobial and odour control Short sleeve with hood — Warmth where you need it Relaxed fit — Easy to wear all day PFAS-free — No forever chemicals against your skin Perfect for: Studio sessions, warm climates, everyday wearMaterials: Supima cotton and Modal blend
-  Updated: 2026-08-20T02:05:11Z
+  Updated: 2026-09-02T12:53:48Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1921,7 +1921,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
     Price: AED 430.00 AED
 - [Collagen Performance Tee](https://gcc.seissense.com/products/collagen-performance-tee): A performance tee with a story unlike anything else in activewear.Woven with collagen yarn sourced from the ocean floor, the Collagen Tee gets softer with every wash and actively supports skin while you wear it. FUZE™ technology and recycled fibers round out a fabric with a genuine point of difference. Collagen-infused yarn — Sourced from the ocean floor, softens with washing FUZE™ technology — Antimicrobial and odour control Recycled fibers — Performance with a lower footprint Moisture-wicking — Manages sweat through the session PFAS-free — No forever chemicals against your skin Perfect for: Training, everyday wearMaterials: Collagen-infused yarn with recycled fibers
-  Updated: 2026-08-24T10:18:47Z
+  Updated: 2026-09-01T16:23:52Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2251,7 +2251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
     Price: AED 250.00 AED
 - [Moreau Colour Block Legging](https://gcc.seissense.com/products/moreau-color-block-legging): A legging that makes its statement in panels, not colour.Made from recycled fibers with FUZE™ technology, the Moreau uses abstract colour-blocking across the leg for a design that stands apart from a standard training legging. The high waistband stays put through every movement. Abstract colour-blocked panels — A design that earns a second look Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control High waistband — Stays in place through every movement PFAS-free — No forever chemicals against your skin Perfect for: Gym training, studio sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-23T07:15:02Z
+  Updated: 2026-09-02T12:53:50Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2683,7 +2683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
     Price: AED 200.00 AED
 - [Bayuda Oversized Tee](https://gcc.seissense.com/products/bayuda-oversized-tee): The oversized tee you never take off.Made from recycled fibers with FUZE™ technology, the Bayuda is relaxed enough for the sofa and built well enough for the session. Moisture-wicking fabric works through the workout, not just after it. The drop-tail hem stops the shirt from riding up or exposing your lower back when you bend over, squat, stretch, or lift your arms overhead. Relaxed oversized fit — Drapes well, doesn't cling Drop-tail hem — Stays in place during squats or pull-ups Recycled fibers — Feels good, does less damage getting here FUZE™ technology — Antimicrobial and odour control post-session Moisture-wicking — Works through the workout PFAS-free — No forever chemicals against your skin Perfect for: Post-training, everyday wear, travelMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-25T01:03:49Z
+  Updated: 2026-09-01T16:23:52Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2720,7 +2720,7 @@
   Updated: 2026-07-12T06:50:53Z
   Total Products: 0
 - [Summer Collection](https://gcc.seissense.com/collections/summer-collection)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 64
 - [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women)
   Updated: 2026-07-12T06:50:53Z
@@ -2756,25 +2756,25 @@
   Updated: 2026-07-12T06:50:54Z
   Total Products: 2
 - [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 63
 - [Shop The Look](https://gcc.seissense.com/collections/shop-the-look)
   Updated: 2026-07-27T09:05:31Z
   Total Products: 34
 - [New In](https://gcc.seissense.com/collections/new-in): The latest drop from Seissense. Fresh styles, core colours, designed to move.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 81
 - [All Women](https://gcc.seissense.com/collections/all-women): Every Seissense piece for women — activewear, loungewear, swim and more.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 122
 - [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Compression and high-stretch leggings built for training, running and everyday movement.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 21
 - [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Low to high impact sports bras with supportive compression fits.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-02T11:25:52Z
   Total Products: 12
 - [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Lightweight tanks for training, yoga and warm-weather days.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 9
 - [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts): Training and everyday shorts with breathable stretch.
   Updated: 2026-08-31T11:22:46Z
@@ -2783,10 +2783,10 @@
   Updated: 2026-07-17T11:22:58Z
   Total Products: 4
 - [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Maxis, midis and kaftans — effortless silhouettes in breathable fabrics.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 12
 - [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Hoodies, sweaters and half zips for cooler evenings and layering.
-  Updated: 2026-08-12T11:23:09Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 6
 - [Women's Jackets & Vests](https://gcc.seissense.com/collections/womens-jackets-vests): Bombers, vests and performance jackets for layering.
   Updated: 2026-08-31T11:22:46Z
@@ -2804,16 +2804,16 @@
   Updated: 2026-08-31T11:22:46Z
   Total Products: 20
 - [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Compression fits and supportive layers built for the gym.
-  Updated: 2026-08-30T11:24:05Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 48
 - [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Soft, flexible fits for yoga, pilates and low-impact movement.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 49
 - [Women's Running](https://gcc.seissense.com/collections/womens-running): Reflective details, compression support and breathable layers for every run.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 56
 - [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Soft loungewear sets, dresses and easy layers for downtime.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 29
 - [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Performance training gear engineered for the gym, the mat and everything in between.
   Updated: 2026-08-30T11:24:05Z
@@ -2825,7 +2825,7 @@
   Updated: 2026-08-31T11:22:46Z
   Total Products: 25
 - [All Products](https://gcc.seissense.com/collections/all-products): The full Seissense range — activewear, loungewear, swim, kids and accessories.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 185
 - [Men's Hoodies & Half Zips](https://gcc.seissense.com/collections/mens-hoodies-half-zips-1): Lightweight hoodies and technical half zips designed to layer up without slowing you down.
   Updated: 2026-08-12T11:23:09Z
@@ -2846,28 +2846,28 @@
   Updated: 2026-07-27T09:05:31Z
   Total Products: 5
 - [Best Seller](https://gcc.seissense.com/collections/best-seller)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 4
 - [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): Our most-loved dresses, from flowing maxis to elegant kaftans. Crafted in sustainable fabrics for the modern GCC woman.
   Updated: 2026-08-01T11:23:18Z
   Total Products: 5
 - [Women's Jacket & Hoodies](https://gcc.seissense.com/collections/womens-outerwear): Hoodies, sweaters, jackets and vests for every layer.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-03T11:27:35Z
   Total Products: 11
 - [Men's Jacket & Hoodies](https://gcc.seissense.com/collections/mens-outerwear): Hoodies, half zips and jackets for every condition.
-  Updated: 2026-08-27T12:59:28Z
-  Total Products: 9
+  Updated: 2026-09-03T10:18:59Z
+  Total Products: 10
 - [Men's Swim & Lounge](https://gcc.seissense.com/collections/mens-swim-lounge): Swim shorts and lounge essentials for rest and recovery.
   Updated: 2026-08-12T11:23:09Z
   Total Products: 5
 - [Best Sellers](https://gcc.seissense.com/collections/best-sellers): Our most-loved pieces — tried, tested and trusted by the Seissense community.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 14
 - [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): From pool to shore — swimwear, rashguards and beach essentials for the GCC summer.
   Updated: 2026-08-30T11:24:05Z
   Total Products: 16
 - [The Lounge](https://gcc.seissense.com/collections/the-lounge): Effortless pieces for in between — tracksuits, dresses, hoodies and everything made for slow days done right.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 22
 - [Run Collection](https://gcc.seissense.com/collections/run-collection): Built for pace — performance tees, leggings, shorts and windbreakers for men and women who run.
   Updated: 2026-08-30T11:24:05Z
@@ -2876,7 +2876,7 @@
   Updated: 2026-08-30T11:24:05Z
   Total Products: 13
 - [Women's Tees & Tanks](https://gcc.seissense.com/collections/womens-tees-tanks)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 16
 - [Men's Lounge](https://gcc.seissense.com/collections/mens-lounge-1)
   Updated: 2026-08-12T11:23:09Z
@@ -2888,13 +2888,13 @@
   Updated: 2026-08-31T11:22:46Z
   Total Products: 15
 - [Women New In](https://gcc.seissense.com/collections/women-new-in)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 29
 - [New Arrivals](https://gcc.seissense.com/collections/active-essesntials)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 25
 - [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 13
 - [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals)
   Updated: 2026-08-30T11:24:05Z
@@ -2903,16 +2903,16 @@
   Updated: 2026-08-31T11:22:46Z
   Total Products: 38
 - [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): The Style Edit You Deserve: Buy 2, Get 1 FREE! Treat yourself to the ultimate closet refresh. Explore our Exclusive Selection of stunning silhouettes, must-have statement pieces, and everyday favorites hand-picked just for you. Mix and match your top 3 picks, and watch the third one drop to £0 instantly at checkout!
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 75
 - [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Because you deserve the best. We’ve hand-crafted a special Exclusive Selection of premium items available only to our insiders. Explore this unique collection today and secure your favorites before the offer expires.
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 98
 - [Best  Products](https://gcc.seissense.com/collections/best--products)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 212
 - [Newest Products](https://gcc.seissense.com/collections/newest-products)
-  Updated: 2026-08-31T11:22:46Z
+  Updated: 2026-09-07T11:22:24Z
   Total Products: 212
 - [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products)
   Updated: 2026-07-26T05:42:13Z
