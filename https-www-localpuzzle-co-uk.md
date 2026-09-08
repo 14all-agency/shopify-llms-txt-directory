@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-01-21T23:25:32Z
 - Contact Email: info@localpuzzle.co.uk
-- Updated At: 2026-08-31T00:13:09.999Z
+- Updated At: 2026-09-08T00:00:29.201Z
 
 Local Puzzle is a UK-based jigsaw puzzle brand creating distinctive illustrated puzzles celebrating places, landmarks and communities people know and love. Our puzzles are designed to create an emotional connection with familiar places, making them more than a traditional jigsaw puzzle.
 
@@ -239,215 +239,222 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-Tokyo-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841738
   Price: £34.99 GBP
-- [Hitchin Town Centre Jigsaw Puzzle (1000pcs) | Local Puzzle](https://www.localpuzzle.co.uk/products/hitchin-town-centre-jigsaw-puzzle): Step into the charm of historic England with our "Hitchin Town Centre" Jigsaw Puzzle. This beautifully illustrated scene captures the essence of Hitchin, Hertfordshire, where cobbled streets and unique old buildings create a picturesque British townscape...
-  Updated: 2026-08-29T12:43:40Z
+- [Hitchin Town Centre Jigsaw Puzzle | 1000-Piece Hitchin Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hitchin-town-centre-jigsaw-puzzle): Hitchin Town Centre Jigsaw Puzzle Step into the charm of historic England with our "Hitchin Town Centre" Jigsaw Puzzle. This beautifully illustrated 1,000-piece jigsaw puzzle captures the essence of Hitchin, Hertfordshire, where cobbled streets and unique old buildings create a picturesque British townscape.
+  Updated: 2026-09-04T04:25:26Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hitchin-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
+  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hitchin-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1788452734
   Price: £34.99 GBP
-- [Hitchin St Mary's Church Jigsaw Puzzle (1000pcs) | Local Puzzle](https://www.localpuzzle.co.uk/products/hitchin-st-marys-church-jigsaw-puzzle): Experience the serene beauty of Hertfordshire with our "Hitchin St Mary's Church" Jigsaw Puzzle. This charming scene captures the peaceful atmosphere surrounding St Mary’s Church...
-  Updated: 2026-08-29T12:43:09Z
+- [Hitchin St Mary's Church Jigsaw Puzzle | 1000-Piece Hitchin Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hitchin-st-marys-church-jigsaw-puzzle): Hitchin St Mary's Church Jigsaw Puzzle Experience the serene beauty of Hertfordshire with our "Hitchin St Mary's Church" Jigsaw Puzzle. This charming scene captures the peaceful atmosphere surrounding St Mary’s Church, an iconic landmark nestled in the heart of Hitchin, Hertfordshire.
+  Updated: 2026-09-03T23:56:40Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hitchin-St-Mary_s-Church-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962351
   Price: £34.99 GBP
-- [Hitchin Town Hall Jigsaw Puzzle (1000pcs) | Local Puzzle](https://www.localpuzzle.co.uk/products/hitchin-town-hall-jigsaw-puzzle): Hitchin Town Hall Jigsaw Puzzle Discover the historic heart of Hertfordshire with our "Hitchin Town Hall" Jigsaw Puzzle. This beautifully illustrated scene showcases the grandeur of Hitchin’s iconic Town Hall, a stunning example of classic architecture nestled in the vibrant town centre. Surrounded by charming streets, bustling markets, and the warmth of community life, this puzzle captures the timeless appeal of a beloved local landmark.
-  Updated: 2026-08-29T12:45:12Z
+- [Hitchin Town Hall Jigsaw Puzzle | 1000-Piece Hitchin Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hitchin-town-hall-jigsaw-puzzle): Discover the historic heart of Hertfordshire with our "Hitchin Town Hall" Jigsaw Puzzle. This beautifully illustrated scene showcases the grandeur of Hitchin’s iconic Town Hall, a stunning example of classic architecture nestled in the vibrant town centre. Surrounded by charming streets, bustling markets, and the warmth of community life, this puzzle captures the timeless appeal of a beloved local landmark.
+  Updated: 2026-09-03T23:56:39Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hitchin-Town-Hall-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Letchworth Broadway Cinema Jigsaw Puzzle | 1000-Piece Letchworth Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/letchworth-broadway-cinema-jigsaw-puzzle): Step back in time with our "Letchworth Broadway Cinema" Jigsaw Puzzle, capturing the charm and nostalgia of one of Britain’s oldest and most iconic cinemas. Set in the heart of Letchworth Garden City, this beautifully illustrated scene brings to life the historic Broadway Cinema, with its striking Art Deco façade and welcoming glow. Surrounded by quaint streets and bustling with local life, this puzzle invites you to piece together a beloved landmark that has been entertaining generations. 🎁 Perfect Gift for Film Buffs & Local Historians: Whether for Letchworth locals, movie lovers, or fans of vintage architecture, our Letchworth Broadway Cinema jigsaw puzzle makes a thoughtful and memorable gift. Ideal for birthdays, holidays, or anyone who loves a touch of classic cinema charm. Celebrate the magic of movie nights and local history with every piece you place. 🎨 Premium-Quality Craftsmanship: Designed with precision and printed on high-quality eco-friendly materials, each puzzle piece is durable and vibrant. The smooth, matte finish enhances the depth of colour, ensuring an immersive and enjoyable puzzle-solving experience with minimal glare. Our bespoke jigsaw puzzles are crafted partly by-hand with love and care, and are supplied in a high-quality box to keep your product safe and they look great on display. • 1000 pieces (66 x 50 CM) • Made from high-quality pressed millboard • Full edge-to-edge printing • Deep matte finish makes for a better puzzling experience • We use Totally Chlorine Free (TCF) paper from FSC & PEFC sources • Printed using UK-sourced inks that are 100% vegan and cruelty-free • Proudly manufactured in the UK • Slimline boxes are designed to fit through most standard UK letterboxes
-  Updated: 2026-08-29T12:44:10Z
+- [Letchworth Broadway Cinema Jigsaw Puzzle | 1000-Piece Letchworth Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/letchworth-broadway-cinema-jigsaw-puzzle): Step back in time with our "Letchworth Broadway Cinema" Jigsaw Puzzle, capturing the charm and nostalgia of one of Britain’s oldest and most iconic cinemas. Set in the heart of Letchworth Garden City, this beautifully illustrated scene brings to life the historic Broadway Cinema, with its striking Art Deco façade and welcoming glow. Surrounded by quaint streets and bustling with local life, this puzzle invites you to piece together a beloved landmark that has been entertaining generations.
+  Updated: 2026-09-04T04:27:09Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Letchworth-Broadway-Cinema-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
+  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Letchworth-Broadway-Cinema-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1788452866
   Price: £34.99 GBP
-- [St Albans Town Centre Jigsaw Puzzle (1000pcs) | Local Puzzle | St Albans Puzzle](https://www.localpuzzle.co.uk/products/st-albans-town-centre-jigsaw-puzzle): Step into the heart of Hertfordshire with our "St Albans Town Centre" Jigsaw Puzzle, featuring the beloved Boot pub nestled among charming historic buildings and bustling local life.
-  Updated: 2026-08-29T12:42:15Z
+- [St Albans Town Centre Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/st-albans-town-centre-jigsaw-puzzle): St Albans Town Centre Jigsaw Puzzle Step into the heart of Hertfordshire with our "St Albans Town Centre" Jigsaw Puzzle, featuring the beloved Boot pub nestled among charming historic buildings and bustling local life. This beautifully illustrated scene captures the essence of St Albans’ unique character—where cobbled streets, cosy pubs, and timeless architecture come together to create a picturesque British townscape.
+  Updated: 2026-09-03T23:56:39Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/St-Albans-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [St Albans Clock Tower Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/st-albans-clock-tower-jigsaw-puzzle): St Albans Clock Tower Jigsaw Puzzle Step into the heart of Hertfordshire with our "St Albans Clock Town Centre" Jigsaw Puzzle, featuring the timeless gaze of the iconic Roman Clock Tower. This beautifully illustrated scene captures the charm and character of St Albans’ bustling town centre—where historic buildings meet the warmth of everyday life, and local landmarks tell centuries-old stories with every brick. This detailed 1,000-piece jigsaw puzzle captures the character, atmosphere, and local landmarks that make St Albans, Hertfordshire, so special. From familiar streets and historic architecture to the little details locals know and love, every piece celebrates the pride, memories, and sense of belonging that make this place feel like home. Whether you're a lifelong resident, a former local, or simply someone who loves St Albans, this puzzle is a wonderful way to reconnect with a place close to your heart.💛 🎁 The Perfect gift for local St Albans residents Looking for a thoughtful and meaningful gift? This St Albans Clock Tower Jigsaw puzzle makes a unique gift for parents, grandparents, puzzle enthusiasts, retirees, former residents, and anyone with a special connection to the area. Perfect for birthdays, Christmas, Mother's Day, Father's Day, retirement celebrations, housewarmings, or simply treating someone special, it's a gift that combines nostalgia, local pride, and a relaxing activity they'll genuinely enjoy. Unlike mass-produced gifts, every Local Puzzle design is created around real places and made to order, making it a truly personal keepsake. 🧠 A Relaxing, Mindful, Screen-Free Activity More than just a puzzle, it's an opportunity to slow down and enjoy a mindful, screen-free activity. Spend quality time with family, unwind after a busy day, or enjoy the satisfaction of bringing a beloved local St Albans scene to life piece by piece. Many customers choose to frame their completed puzzle as a unique piece of local artwork, while others enjoy building their collection as new locations are released. Explore our growing Hertfordshire Collection and start your Local Puzzle collection today. 🇬🇧 Made In Britain – Premium-Quality Craftsmanship Designed with precision and printed on high-quality eco-friendly materials, each jigsaw puzzle piece is durable and vibrant. The smooth, matte finish enhances the depth of colour, ensuring an immersive and enjoyable puzzle-solving experience with minimal glare. Our bespoke jigsaw puzzles are crafted partly by-hand with love and care, and are supplied in a high-quality box to keep your product safe and they look great on display. • 1000 pieces (66 x 50 CM) • Made from high-quality pressed millboard • Full edge-to-edge printing • Deep matte finish makes for a better puzzling experience • We use Totally Chlorine Free (TCF) paper from FSC & PEFC sources • Printed using UK-sourced inks that are 100% vegan and cruelty-free • Proudly manufactured in the UK • Slimline boxes are designed to fit through most standard UK letterboxes
-  Updated: 2026-08-29T12:41:07Z
+- [St Albans Clock Tower Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/st-albans-clock-tower-jigsaw-puzzle): Step into the heart of Hertfordshire with our "St Albans Clock Town Centre" Jigsaw Puzzle, featuring the timeless gaze of the iconic Roman Clock Tower. This beautifully illustrated scene captures the charm and character of St Albans’ bustling town centre—where historic buildings meet the warmth of everyday life, and local landmarks tell centuries-old stories with every brick.
+  Updated: 2026-09-03T23:56:39Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/St-Albans-Clock-Tower-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [St Albans Odyssey Cinema Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/st-albans-odyssey-cinema-jigsaw-puzzle): Take a nostalgic stroll through St Albans with our "St Albans Odyssey Cinema" Jigsaw Puzzle, capturing the timeless beauty of this iconic local treasure...
-  Updated: 2026-08-29T12:41:13Z
+- [St Albans Odyssey Cinema Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/st-albans-odyssey-cinema-jigsaw-puzzle): Take a nostalgic stroll through St Albans with our "St Albans Odyssey Cinema" Jigsaw Puzzle, capturing the timeless beauty of this iconic local treasure. Nestled within the city’s historic heart, the Odyssey stands as a glowing beacon of vintage charm and community spirit, surrounded by the soft glow of streetlights and the buzz of evening life.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/St-Albans-Odyssey-Cinema-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Letchworth Leys Square Jigsaw Puzzle (1000pcs) | Local Puzzle | Letchworth Puzzle](https://www.localpuzzle.co.uk/products/letchworth-leys-square-jigsaw-puzzle): Take a stroll through the heart of Letchworth with our "Letchworth Leys Square" Jigsaw Puzzle — a vibrant celebration of community, heritage, and everyday charm. Set in the town centre of the world’s first Garden City, this beautifully illustrated design brings to life the atmosphere of Leys Square, where locals gather, shop, and soak in the town’s unmistakable character. From the iconic art sculptures to the timeless architecture and greenery, every detail reflects the spirit of Letchworth’s bustling town centre.
-  Updated: 2026-08-29T12:40:52Z
+- [Letchworth Leys Square Jigsaw Puzzle | 1000-Piece Letchworth Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/letchworth-leys-square-jigsaw-puzzle): Take a stroll through the heart of Letchworth with our "Letchworth Leys Square" Jigsaw Puzzle — a vibrant celebration of community, heritage, and everyday charm. Set in the town centre of the world’s first Garden City, this beautifully illustrated design brings to life the atmosphere of Leys Square, where locals gather, shop, and soak in the town’s unmistakable character. From the iconic art sculptures to the timeless architecture and greenery, every detail reflects the spirit of Letchworth’s bustling town centre.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Letchworth-Leys-Square-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Waltham Cross Town Centre Jigsaw Puzzle (1000pcs) | Waltham Cross Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/waltham-cross-town-centre-jigsaw-puzzle): Waltham Cross Town Centre Jigsaw Puzzle Step into the vibrant heart of Waltham Cross with our "Waltham Cross Town Centre" Jigsaw Puzzle, a colourful celebration of local life and heritage. This beautifully illustrated scene captures a sunny day in the town centre, where the iconic Eleanor Cross monument stands proudly among historic buildings, high street shops, and the warm energy of a bustling community. From friendly faces and curious pups to street chatter and familiar sights, this puzzle brings to life the charm and rhythm of a much-loved Hertfordshire town.
-  Updated: 2026-08-29T12:36:29Z
+- [Waltham Cross Town Centre Jigsaw Puzzle | 1000-Piece Waltham Cross Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/waltham-cross-town-centre-jigsaw-puzzle): Step into the vibrant heart of Waltham Cross with our "Waltham Cross Town Centre" Jigsaw Puzzle, a colourful celebration of local life and heritage. This beautifully illustrated scene captures a sunny day in the town centre, where the iconic Eleanor Cross monument stands proudly among historic buildings, high street shops, and the warm energy of a bustling community. From friendly faces and curious pups to street chatter and familiar sights, this puzzle brings to life the charm and rhythm of a much-loved Hertfordshire town.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Waltham-Cross-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Stevenage Town Centre Jigsaw Puzzle (1000pcs) | Stevenage Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/stevenage-town-centre-jigsaw-puzzle): Stevenage Town Centre Jigsaw Puzzle Step into the modern heart of Stevenage with our “Stevenage Town Centre” Jigsaw Puzzle, a vibrant tribute to the town’s unique character. This beautifully illustrated scene captures the iconic clock tower rising above the fountains and bustling pedestrian streets, surrounded by the energy of shoppers, families, and everyday life. From striking architecture to the lively spirit of the square, this puzzle celebrates Stevenage’s proud history as one of the UK’s first new towns.
-  Updated: 2026-08-29T12:37:31Z
+- [Stevenage Town Centre Jigsaw Puzzle | 1000-Piece Stevenage Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/stevenage-town-centre-jigsaw-puzzle): Step into the modern heart of Stevenage with our “Stevenage Town Centre” Jigsaw Puzzle, a vibrant tribute to the town’s unique character. This beautifully illustrated scene captures the iconic clock tower rising above the fountains and bustling pedestrian streets, surrounded by the energy of shoppers, families, and everyday life. From striking architecture to the lively spirit of the square, this puzzle celebrates Stevenage’s proud history as one of the UK’s first new towns.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Stevenage-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962355
   Price: £34.99 GBP
-- [Hertford Parliament Square Jigsaw Puzzle (1000pcs) | Hertford Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/hertford-parliament-square-jigsaw-puzzle): Step into the historic heart of Hertford with our "Hertford Parliament Square" Jigsaw Puzzle, a charming celebration of local heritage, architecture, and community spirit. This beautifully illustrated design captures a sunny day in Parliament Square — where the iconic war memorial crowned with a proud stag stands watch over bustling cafés, independent shops, and the easy rhythm of everyday town life. It’s a warm and nostalgic tribute to one of Hertford’s most recognisable and well-loved landmarks.
-  Updated: 2026-08-29T12:35:14Z
+- [Hertford Parliament Square Jigsaw Puzzle | 1000-Piece Hertford Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hertford-parliament-square-jigsaw-puzzle): Step into the historic heart of Hertford with our "Hertford Parliament Square" Jigsaw Puzzle, a charming celebration of local heritage, architecture, and community spirit. This beautifully illustrated design captures a sunny day in Parliament Square — where the iconic war memorial crowned with a proud stag stands watch over bustling cafés, independent shops, and the easy rhythm of everyday town life. It’s a warm and nostalgic tribute to one of Hertford’s most recognisable and well-loved landmarks.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hertford-Parliament-Square-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Bedford Town Centre Jigsaw Puzzle (1000pcs) | Bedford Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/bedford-town-centre-jigsaw-puzzle): Bedford Town Centre Jigsaw Puzzle Step into the heart of Bedford with our “Bedford Town Centre” Jigsaw Puzzle — a nostalgic tribute to one of the town’s most loved landmarks. This beautifully illustrated piece captures the familiar charm of Harpur Square...
-  Updated: 2026-08-29T12:35:33Z
+- [Bedford Town Centre Jigsaw Puzzle | 1000-Piece Bedford Jigsaw Puzzle for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/bedford-town-centre-jigsaw-puzzle): Step into the heart of Bedford with our “Bedford Town Centre” Jigsaw Puzzle — a nostalgic tribute to one of the town’s most loved landmarks. This beautifully illustrated piece captures the familiar charm of Harpur Square...
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Bedford-Town-Centre-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Watford Town Centre Jigsaw Puzzle (1000pcs) | Watford Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/watford-town-centre-jigsaw-puzzle): Step into the bustling energy of Watford with our "Watford Town Centre" Jigsaw Puzzle, a colourful celebration of modern town life and local pride. This beautifully illustrated design captures the lively streets around the iconic intu Watford building and nearby shops — sunlit pavements filled with shoppers, dog-walkers, café chatter, and the little moments that make Watford feel like home.
-  Updated: 2026-08-29T12:31:32Z
+- [Watford Town Centre Jigsaw Puzzle | 1000-Piece Watford Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/watford-town-centre-jigsaw-puzzle): Step into the bustling energy of Watford with our "Watford Town Centre" Jigsaw Puzzle, a colourful celebration of modern town life and local pride. This beautifully illustrated design captures the lively streets around the iconic intu Watford building and nearby shops — sunlit pavements filled with shoppers, dog-walkers, café chatter, and the little moments that make Watford feel like home.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Watford-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle.jpg?v=1787962354
   Price: £34.99 GBP
-- [Luton Town Centre Jigsaw Puzzle (1000pcs) | Luton Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/luton-town-centre-jigsaw-puzzle): Step into the vibrant heart of Luton with our “Luton Town Centre” Jigsaw Puzzle, a colourful celebration of community, culture, and everyday life. This lively illustration captures a sunny day in the town’s most recognisable public space — where families gather by the fountains, shoppers wander between local landmarks, and the town’s modern architecture frames a scene full of movement, pride, and connection. It’s a joyful tribute to a place that brings people together.
-  Updated: 2026-08-29T12:37:03Z
+- [Luton Town Centre Jigsaw Puzzle | 1000-Piece Luton Jigsaw Puzzle for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/luton-town-centre-jigsaw-puzzle): Step into the vibrant heart of Luton with our “Luton Town Centre” Jigsaw Puzzle, a colourful celebration of community, culture, and everyday life. This lively illustration captures a sunny day in the town’s most recognisable public space — where families gather by the fountains, shoppers wander between local landmarks, and the town’s modern architecture frames a scene full of movement, pride, and connection. It’s a joyful tribute to a place that brings people together.
+  Updated: 2026-09-03T23:56:38Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Luton-Town-Centre-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Ware High Street Jigsaw Puzzle (1000pcs) | Ware Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/ware-high-street-jigsaw-puzzle): Step into the vibrant heart of East Hertfordshire with our “Ware High Street” Jigsaw Puzzle, a warm tribute to one of the county’s most characterful and cherished streets. This beautifully illustrated scene captures Ware’s mix of Tudor timber frames, red-brick shopfronts, and independent businesses...
-  Updated: 2026-08-29T12:33:58Z
+- [Ware High Street Jigsaw Puzzle | 1000-Piece Ware Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/ware-high-street-jigsaw-puzzle): Step into the vibrant heart of East Hertfordshire with our “Ware High Street” Jigsaw Puzzle, a warm tribute to one of the county’s most characterful and cherished streets. This beautifully illustrated scene captures Ware’s mix of Tudor timber frames, red-brick shopfronts, and independent businesses...
+  Updated: 2026-09-05T11:38:11Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Ware-High-Street-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Berkhamsted Grand Union Canal Jigsaw Puzzle (1000pcs) | Local Puzzle](https://www.localpuzzle.co.uk/products/berkhamsted-grand-union-canal-jigsaw-puzzle): Step into the calm, unhurried charm of Berkhamsted with our “Berkhamsted Grand Union Canal” jigsaw puzzle design — a heartfelt celebration of waterside life, local heritage, and the gentle rhythm of one of Hertfordshire’s most treasured waterways.
-  Updated: 2026-08-29T12:35:54Z
+- [Berkhamsted Grand Union Canal Jigsaw Puzzle | 1000-Piece Berkhamsted Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/berkhamsted-grand-union-canal-jigsaw-puzzle): Step into the calm, unhurried charm of Berkhamsted with our “Berkhamsted Grand Union Canal” jigsaw puzzle design — a heartfelt celebration of waterside life, local heritage, and the gentle rhythm of one of Hertfordshire’s most treasured waterways.
+  Updated: 2026-09-03T23:56:37Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Berkhamsted-Grand-Union-Canal-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Baldock Town Centre Jigsaw Puzzle (1000pcs) | Baldock Puzzle](https://www.localpuzzle.co.uk/products/baldock-town-centre-jigsaw-puzzle): Step into the heart of Baldock with our Baldock Town Centre design — a warm and characterful celebration of one of Hertfordshire’s oldest market towns. This detailed illustrated scene captures the familiar rhythm of everyday life in Baldock, where historic red-brick buildings, open skies, and well-worn pathways form the backdrop to moments shared by locals and visitors alike. It’s a nostalgic portrait of a town shaped by centuries of history and held together by community spirit
-  Updated: 2026-08-29T12:32:40Z
+- [Baldock Town Centre Jigsaw Puzzle | 1000-Piece Baldock Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/baldock-town-centre-jigsaw-puzzle): Step into the heart of Baldock with our Baldock Town Centre design — a warm and characterful celebration of one of Hertfordshire’s oldest market towns. This detailed illustrated scene captures the familiar rhythm of everyday life in Baldock, where historic red-brick buildings, open skies, and well-worn pathways form the backdrop to moments shared by locals and visitors alike. It’s a nostalgic portrait of a town shaped by centuries of history and held together by community spirit
+  Updated: 2026-09-03T23:56:37Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Baldock-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962352
   Price: £34.99 GBP
-- [Leighton Buzzard Town Centre Jigsaw Puzzle | 1000-Piece Bedfordshire Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/leighton-buzzard-town-centre-jigsaw-puzzle): Step into the vibrant heart of Bedfordshire with our “Leighton Buzzard Town Centre” Jigsaw Puzzle, a warm and characterful celebration of one of the county’s most recognisable market towns.
-  Updated: 2026-08-29T12:58:52Z
+- [Leighton Buzzard Town Centre Jigsaw Puzzle | 1000-Piece Leighton Buzzard Jigsaw Puzzle for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/leighton-buzzard-town-centre-jigsaw-puzzle): Step into the vibrant heart of Bedfordshire with our “Leighton Buzzard Town Centre” Jigsaw Puzzle, a warm and characterful celebration of one of the county’s most recognisable market towns.
+  Updated: 2026-09-03T23:56:37Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Leighton-Buzzard-Town-Centre-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787964543
   Price: £34.99 GBP
-- [Shefford High Street Jigsaw Puzzle (1000pcs) | Shefford Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/shefford-high-street-jigsaw-puzzle): Step into the welcoming heart of Bedfordshire with our “Shefford High Street” Jigsaw Puzzle, a heartfelt celebration of village heritage, community spirit, and everyday connection. This beautifully illustrated scene captures a bright day along Shefford’s historic high street, where the characterful stone church stands proudly among independent shops and familiar red-brick buildings.
-  Updated: 2026-08-29T12:31:00Z
+- [Shefford High Street Jigsaw Puzzle | 1000-Piece Shefford Jigsaw Puzzle for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/shefford-high-street-jigsaw-puzzle): Step into the welcoming heart of Bedfordshire with our “Shefford High Street” Jigsaw Puzzle, a heartfelt celebration of village heritage, community spirit, and everyday connection. This beautifully illustrated scene captures a bright day along Shefford’s historic high street, where the characterful stone church stands proudly among independent shops and familiar red-brick buildings.
+  Updated: 2026-09-06T00:42:27Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Shefford-High-Street-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Harpenden High Street Jigsaw Puzzle | 1000-Piece Harpenden Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/harpenden-high-street-jigsaw-puzzle): Step into the lively heart of Hertfordshire with our “Harpenden High Street” Jigsaw Puzzle, a warm and characterful celebration of community, heritage, and everyday town life. This beautifully illustrated scene captures a bright day at one of Harpenden’s most recognisable junctions, where elegant buildings line the bustling high street and the iconic Harpenden Arms pub stands proudly on the corner.
-  Updated: 2026-08-29T12:33:10Z
+- [Harpenden High Street Jigsaw Puzzle | 1000-Piece Harpenden Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/harpenden-high-street-jigsaw-puzzle): Step into the lively heart of Hertfordshire with our “Harpenden High Street” Jigsaw Puzzle, a warm and characterful celebration of community, heritage, and everyday town life. This beautifully illustrated scene captures a bright day at one of Harpenden’s most recognisable junctions, where elegant buildings line the bustling high street and the iconic Harpenden Arms pub stands proudly on the corner.
+  Updated: 2026-09-03T23:56:36Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Harpenden-High-Street-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Shuttleworth House Jigsaw Puzzle | 1000-Piece Biggleswade Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/biggleswade-shuttleworth-house-jigsaw-puzzle): Step into a living celebration of heritage with our “Biggleswade Shuttleworth House” Jigsaw Puzzle, a powerful tribute to history, community, and timeless British engineering. This beautifully illustrated scene captures a bright day at Shuttleworth House, where elegant grounds play host to a remarkable display of vintage aircraft and classic vehicles.
-  Updated: 2026-08-29T12:26:13Z
+- [Shuttleworth House Jigsaw Puzzle | 1000-Piece Biggleswade Jigsaw Puzzles for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/biggleswade-shuttleworth-house-jigsaw-puzzle): Step into a living celebration of heritage with our “Biggleswade Shuttleworth House” Jigsaw Puzzle, a powerful tribute to history, community, and timeless British engineering. This beautifully illustrated scene captures a bright day at Shuttleworth House, where elegant grounds play host to a remarkable display of vintage aircraft and classic vehicles.
+  Updated: 2026-09-06T00:49:16Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Biggleswade-Shuttleworth-House-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Welwyn High Street Jigsaw Puzzle (1000pcs) | Welwyn Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/welwyn-high-street-jigsaw-puzzle): Step into the welcoming charm of Hertfordshire village life with our “Welwyn High Street” Jigsaw Puzzle, a heartfelt celebration of heritage, community, and everyday connection. This beautifully illustrated scene captures a familiar moment along Welwyn’s much-loved high street, where the historic church stands proudly above a row of independent shops, cosy pubs, and passing neighbours. From friendly greetings on the pavement to the gentle rhythm of daily life, it’s a warm tribute to a place where everything feels close-knit and quietly special.
-  Updated: 2026-08-29T12:26:18Z
+- [Welwyn High Street Jigsaw Puzzle | 1000-Piece Welwyn Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/welwyn-high-street-jigsaw-puzzle): Step into the welcoming charm of Hertfordshire village life with our “Welwyn High Street” Jigsaw Puzzle, a heartfelt celebration of heritage, community, and everyday connection. This beautifully illustrated scene captures a familiar moment along Welwyn’s much-loved high street, where the historic church stands proudly above a row of independent shops, cosy pubs, and passing neighbours. From friendly greetings on the pavement to the gentle rhythm of daily life, it’s a warm tribute to a place where everything feels close-knit and quietly special.
+  Updated: 2026-09-06T00:47:25Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Welwyn-High-Street-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-Wooden-Background.jpg?v=1787962219
   Price: £34.99 GBP
-- [Ampthill Town Centre Jigsaw Puzzle (1000pcs) | Ampthill Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/ampthill-town-centre-jigsaw-puzzle): Step into the welcoming heart of Bedfordshire with our “Ampthill Town Centre” Jigsaw Puzzle, a charming celebration of heritage, community, and everyday town life. This beautifully illustrated scene captures the lively atmosphere of Ampthill’s historic square, where colourful bunting hangs overhead and the iconic clock tower rises proudly above the surrounding streets.
-  Updated: 2026-08-29T12:26:39Z
+- [Ampthill Town Centre Jigsaw Puzzle | 1000-Piece Ampthill Jigsaw Puzzle for Adults | Bedfordshire Puzzles](https://www.localpuzzle.co.uk/products/ampthill-town-centre-jigsaw-puzzle): Step into the welcoming heart of Bedfordshire with our “Ampthill Town Centre” Jigsaw Puzzle, a charming celebration of heritage, community, and everyday town life. This beautifully illustrated scene captures the lively atmosphere of Ampthill’s historic square, where colourful bunting hangs overhead and the iconic clock tower rises proudly above the surrounding streets.
+  Updated: 2026-09-06T00:45:11Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Ampthill-Town-Centre-Bedfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962352
   Price: £34.99 GBP
-- [Hatfield The Old Palace Jigsaw Puzzle (1000pcs) | Hatfield Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/hatfield-the-old-palace-jigsaw-puzzle): Hatfield The Old Palace Jigsaw Puzzle Step into one of Hertfordshire’s most treasured historic landmarks with our “Hatfield Old Palace” Jigsaw Puzzle, a stunning celebration of heritage, history, and local pride. This beautifully illustrated scene captures the grandeur of Hatfield Old Palace, a remarkable Tudor building whose walls have witnessed centuries of royal history. Experience the charm of Hatfield, Hertfordfshire, piece by piece with this beautifully illustrated 1,000-piece jigsaw puzzle.
-  Updated: 2026-08-29T12:25:50Z
+- [Hatfield The Old Palace Jigsaw Puzzle | 1000-Piece Hatfield Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hatfield-the-old-palace-jigsaw-puzzle): Step into one of Hertfordshire’s most treasured historic landmarks with our “Hatfield Old Palace” Jigsaw Puzzle, a stunning celebration of heritage, history, and local pride. This beautifully illustrated scene captures the grandeur of Hatfield Old Palace, a remarkable Tudor building whose walls have witnessed centuries of royal history. Experience the charm of Hatfield, Hertfordfshire, piece by piece with this beautifully illustrated 1,000-piece jigsaw puzzle.
+  Updated: 2026-09-06T12:40:45Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Hatfield-Old-Palace-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Tring Town Centre Jigsaw Puzzle (1000pcs) | Tring Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/tring-town-centre-jigsaw-puzzle): Tring Town Centre Jigsaw Puzzle Bring one of Hertfordshire's most characterful market towns into your home with our beautifully illustrated Tring Town Centre jigsaw puzzle. Featuring the iconic Grade II* listed Market House at the centre of the scene, this exclusive artwork captures the charm, heritage and welcoming atmosphere that makes Tring such a special place.
-  Updated: 2026-08-29T12:27:59Z
+- [Tring Town Centre Jigsaw Puzzle | 1000-Piece Tring Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/tring-town-centre-jigsaw-puzzle): Bring one of Hertfordshire's most characterful market towns into your home with our beautifully illustrated Tring Town Centre jigsaw puzzle. Featuring the iconic Grade II* listed Market House at the centre of the scene, this exclusive artwork captures the charm, heritage and welcoming atmosphere that makes Tring such a special place.
+  Updated: 2026-09-06T00:39:36Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Tring-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [St Albans Cathedral Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/st-albans-cathedral-jigsaw-puzzle): St Albans Cathedral Jigsaw Puzzle Step into the historic heart of one of Britain’s most remarkable cathedral cities with our “St Albans Cathedral” Jigsaw Puzzle, a timeless celebration of heritage, faith, and community. This beautifully illustrated scene captures the magnificent Cathedral standing proudly above the city, its soaring Norman architecture surrounded by vibrant gardens, ancient walls, and visitors enjoying a peaceful day in the sunshine.
-  Updated: 2026-08-29T12:24:40Z
+- [St Albans Cathedral Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/st-albans-cathedral-jigsaw-puzzle): St Albans Cathedral Jigsaw Puzzle Step into the historic heart of one of Britain’s most remarkable cathedral cities with our “St Albans Cathedral” Jigsaw Puzzle, a timeless celebration of heritage, faith, and community. This beautifully illustrated scene captures the magnificent Cathedral standing proudly above the city, its soaring Norman architecture surrounded by vibrant gardens, ancient walls, and visitors enjoying a peaceful day in the sunshine.
+  Updated: 2026-09-06T00:38:33Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/St-Albans-Cathedral-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Welwyn Garden City Town Centre Jigsaw Puzzle | 1000-Piece Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/welwyn-garden-city-town-centre-jigsaw-puzzle): Welwyn Garden City Town Centre Jigsaw Puzzle Experience the charm of Welwyn Garden City piece by piece with this beautifully illustrated 1,000-piece jigsaw puzzle. This detailed design captures the character, atmosphere, and local landmarks that make Welwyn Garden City, Hertfordshire, so special.
-  Updated: 2026-08-29T12:12:53Z
+- [Welwyn Garden City Town Centre Jigsaw Puzzle | 1000-Piece Welwyn Garden City Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/welwyn-garden-city-town-centre-jigsaw-puzzle): Welwyn Garden City Town Centre Jigsaw Puzzle Experience the charm of Welwyn Garden City piece by piece with this beautifully illustrated 1,000-piece jigsaw puzzle. This detailed design captures the character, atmosphere, and local landmarks that make Welwyn Garden City, Hertfordshire, so special.
+  Updated: 2026-09-07T05:19:58Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Welwyn-Garden-City-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-Wooden-Background.jpg?v=1787962217
+  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Welwyn-Garden-City-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background-2.jpg?v=1788715183
   Price: £34.99 GBP
-- [Battersea Power Station Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/london-battersea-power-station-jigsaw-puzzle): Our London Battersea Power Station jigsaw puzzle celebrates the character, history and unmistakable presence of this much-loved London landmark. It's a snapshot of a place where the industrial heritage of the capital meets its modern, vibrant spirit — making it a meaningful keepsake for anyone with a connection to London.
-  Updated: 2026-08-29T12:24:12Z
+- [Battersea Power Station Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-battersea-power-station-jigsaw-puzzle): Our London Battersea Power Station jigsaw puzzle celebrates the character, history and unmistakable presence of this much-loved London landmark. It's a snapshot of a place where the industrial heritage of the capital meets its modern, vibrant spirit — making it a meaningful keepsake for anyone with a connection to London.
+  Updated: 2026-09-06T00:35:10Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Battersea-Power-Station-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Camden Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/london-camden-market-jigsaw-puzzle): Bring the unmistakable energy of Camden home, piece by piece. Step into the heart of one of London's most vibrant and recognisable destinations. Our London Camden Market jigsaw puzzle captures the character of this much-loved part of the capital, from its distinctive architecture and iconic market entrance to the colourful people and everyday moments that give Camden its unmistakable energy.
-  Updated: 2026-08-29T12:25:43Z
+- [Camden Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-camden-market-jigsaw-puzzle): Bring the unmistakable energy of Camden home, piece by piece. Step into the heart of one of London's most vibrant and recognisable destinations. Our London Camden Market jigsaw puzzle captures the character of this much-loved part of the capital, from its distinctive architecture and iconic market entrance to the colourful people and everyday moments that give Camden its unmistakable energy.
+  Updated: 2026-09-06T00:33:30Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Camden-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Millennium Bridge Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults](https://www.localpuzzle.co.uk/products/london-millennium-bridge-jigsaw-puzzle): Bring one of London's most memorable views home, piece by piece. Walk across the Thames with our London Millennium Bridge jigsaw puzzle, capturing the iconic pedestrian bridge stretching towards the magnificent dome of St Paul’s Cathedral.
-  Updated: 2026-08-29T12:21:54Z
+- [Millennium Bridge Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-millennium-bridge-jigsaw-puzzle): Bring one of London's most memorable views home, piece by piece. Walk across the Thames with our London Millennium Bridge jigsaw puzzle, capturing the iconic pedestrian bridge stretching towards the magnificent dome of St Paul’s Cathedral.
+  Updated: 2026-09-06T00:31:01Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Millennium-Bridge-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962858
+  Price: £34.99 GBP
+- [Natural History Museum Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-natural-history-museum-jigsaw-puzzle): Bring one of London’s most iconic landmarks to life, piece by piece. From its magnificent terracotta architecture to the prehistoric wonder waiting inside, the Natural History Museum is a place filled with memories, discovery and childhood nostalgia.
+  Updated: 2026-09-04T04:28:33Z
+  Vendor: Local Puzzle
+  Product Type: Jigsaw Puzzle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Natural-History-Museum-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-Wooden-Background.jpg?v=1788396774
   Price: £34.99 GBP
 
 ## Collections
@@ -467,20 +474,14 @@ The brand's core idea is simple: reconnect people with the places they love, pie
 - [Apocalypse Puzzles](https://www.localpuzzle.co.uk/collections/apocalypse-jigsaw-puzzles): Discover a hauntingly beautiful world with our Apocalypse Jigsaw Puzzles collection – a striking series crafted for adults who appreciate dystopian art and dramatic storytelling.
   Updated: 2026-07-03T20:07:23Z
   Total Products: 5
-- [Yorkshire Puzzles](https://www.localpuzzle.co.uk/collections/yorkshire-jigsaw-puzzles)
-  Updated: 2025-08-21T15:14:26Z
-  Total Products: 4
-- [Snowdonia Puzzles](https://www.localpuzzle.co.uk/collections/snowdonia-jigsaw-puzzles)
-  Updated: 2025-08-21T15:14:21Z
-  Total Products: 3
 - [Dinosaur Puzzles](https://www.localpuzzle.co.uk/collections/dinosaur-jigsaw-puzzles): Step into a world lost in time with our Dinosaur Jigsaw Puzzles collection — a captivating range designed especially for adults who love prehistoric drama and detailed artistry.
   Updated: 2026-07-03T20:07:23Z
   Total Products: 5
 - [Local Puzzles](https://www.localpuzzle.co.uk/collections/local-jigsaw-puzzles): Explore the Local Puzzle collection – a charming range of jigsaw puzzles celebrating beloved towns, landmarks, and hidden gems across the UK. Perfect for adults who cherish nostalgia, local pride, and thoughtful gifting.
-  Updated: 2026-08-29T11:18:18Z
-  Total Products: 30
+  Updated: 2026-09-06T11:16:26Z
+  Total Products: 31
 - [Hertfordshire Puzzles](https://www.localpuzzle.co.uk/collections/hertfordshire-jigsaw-puzzles): Discover and explore our Hertfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Hitchin, St Albans, Letchworth, and more. Celebrate local landmarks and British charm with every piece.
-  Updated: 2026-08-26T11:16:55Z
+  Updated: 2026-09-06T11:16:26Z
   Total Products: 21
 - [Hitchin Puzzles](https://www.localpuzzle.co.uk/collections/hitchin-jigsaw-puzzles): Explore our Hitchin jigsaw puzzle collection, capturing the charm of this historic Hertfordshire town. Featuring St Mary’s Church, the River Hiz, Town Hall, and more—perfect for locals and puzzle lovers alike.
   Updated: 2026-08-04T11:18:46Z
@@ -492,14 +493,83 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-07-04T11:17:30Z
   Total Products: 2
 - [Local Hertfordshire Gifts](https://www.localpuzzle.co.uk/collections/local-hertfordshire-gifts): Our local jigsaw puzzle collection make the perfect Hertfordshire gifts for any occasion — they spark memories, connection, and pride in the places we call home.
-  Updated: 2026-08-26T11:16:55Z
+  Updated: 2026-09-06T11:16:26Z
   Total Products: 21
 - [Bedfordshire Puzzles](https://www.localpuzzle.co.uk/collections/bedfordshire-jigsaw-puzzles): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-08-29T11:18:18Z
   Total Products: 6
 - [London Puzzles](https://www.localpuzzle.co.uk/collections/london-jigsaw-puzzles): Immerse yourself in the charm, history, and scenic beauty of the capital with our growing range of London jigsaw puzzles. Each design showcases the rich heritage and iconic locations that make London such a special place to live, visit, and celebrate.
-  Updated: 2026-08-27T00:12:45Z
+  Updated: 2026-09-03T00:59:43Z
+  Total Products: 4
+- [London Gifts](https://www.localpuzzle.co.uk/collections/unique-london-gifts): Looking for a London gift that feels more personal than a typical souvenir? Discover our collection of beautifully illustrated London jigsaw puzzles, each inspired by the iconic landmarks, streets and places that make the capital so memorable. From Battersea Power Station and Camden Market to the Millennium Bridge and beyond, every design captures a different side of London and the memories connected to it.
+  Updated: 2026-09-03T00:59:43Z
+  Total Products: 4
+- [London souvenirs](https://www.localpuzzle.co.uk/collections/unique-london-souvenirs): Take home more than a traditional keepsake with our collection of unique London souvenirs, celebrating the places, landmarks and moments that make the capital unforgettable. Each beautifully illustrated design captures a distinctive London scene, creating a lasting reminder of a favourite visit, a beloved neighbourhood or a city full of memories.
+  Updated: 2026-09-03T00:59:43Z
+  Total Products: 4
+- [Town Centre Puzzles](https://www.localpuzzle.co.uk/collections/town-centre-jigsaw-puzzles): Step into the charm of Britain's town centres with our collection of whimsical town centre puzzles, bringing familiar streets, historic buildings, independent shops and everyday moments to life in a playful illustrated style. Each scene is filled with character and little details to discover, capturing the warmth and personality that makes every town feel unique.
+  Updated: 2026-09-06T11:16:26Z
+  Total Products: 19
+- [St Albans Housewarming Gifts](https://www.localpuzzle.co.uk/collections/housewarming-gifts-st-albans): Celebrate a new St Albans home with a 1000-piece illustrated jigsaw featuring familiar local landmarks. A thoughtful housewarming gift for friends, family or new neighbours that brings a piece of St Albans into their home.
+  Updated: 2026-09-05T23:23:01Z
+  Total Products: 4
+- [Hitchin Housewarming Gifts](https://www.localpuzzle.co.uk/collections/hitchin-housewarming-gifts): Celebrate a new Hitchin home with a 1000-piece illustrated local jigsaw. Thoughtful Hitchin housewarming gifts featuring familiar places including St Mary’s Church, Hitchin Town Hall and the town centre.
+  Updated: 2026-09-05T23:23:16Z
   Total Products: 3
+- [Letchworth Housewarming Gifts](https://www.localpuzzle.co.uk/collections/letchworth-housewarming-gifts): Celebrate a new home with a 1000-piece illustrated Letchworth jigsaw. These thoughtful housewarming gifts capture familiar places including Letchworth Broadway Cinema and Leys Square, bringing a little piece of Garden City life indoors.
+  Updated: 2026-09-05T23:22:38Z
+  Total Products: 2
+- [London Housewarming Gifts](https://www.localpuzzle.co.uk/collections/london-housewarming-gifts): Discover 1000-piece illustrated London jigsaws celebrating iconic landmarks and neighbourhoods. These London housewarming gifts bring familiar places such as Battersea Power Station, Camden Market and St Paul’s Cathedral into a new home.
+  Updated: 2026-09-05T23:25:32Z
+  Total Products: 4
+- [London Leaving Gifts](https://www.localpuzzle.co.uk/collections/london-leaving-gifts): Give them something to remember London by with a 1000-piece illustrated jigsaw featuring iconic landmarks and familiar city scenes. Thoughtful London leaving gifts for anyone moving away, starting a new chapter or saying farewell.
+  Updated: 2026-09-05T23:37:05Z
+  Total Products: 4
+- [Battersea Power Station Gifts](https://www.localpuzzle.co.uk/collections/battersea-power-station-gifts-art): Celebrate one of London’s most recognisable landmarks with 1000-piece illustrated jigsaws featuring Battersea Power Station. Thoughtful Battersea Power Station gifts for London lovers, architecture enthusiasts and anyone with a connection to this iconic riverside landmark.
+  Updated: 2026-09-05T23:50:34Z
+  Total Products: 1
+- [London Landmark Gifts](https://www.localpuzzle.co.uk/collections/london-landmark-gifts-art): Discover 1000-piece illustrated London jigsaws featuring iconic landmarks and architecture. These London landmark gifts bring familiar city scenes into your home as a relaxing activity and distinctive piece of wall art.
+  Updated: 2026-09-06T00:03:29Z
+  Total Products: 4
+- [Hertfordshire Housewarming Gifts](https://www.localpuzzle.co.uk/collections/hertfordshire-housewarming-gifts): Discover 1000-piece illustrated Hertfordshire jigsaws celebrating familiar towns and places. Thoughtful housewarming gifts for new homeowners, friends, family or neighbours, bringing a little piece of Hertfordshire into their new home.
+  Updated: 2026-09-06T11:16:26Z
+  Total Products: 21
+- [Hertfordshire Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-hertfordshire): Celebrate your first wedding anniversary with a paper anniversary gift featuring a Hertfordshire place that means something to you — where you met, married, bought your first home or began your story together
+  Updated: 2026-09-07T23:09:03Z
+  Total Products: 21
+- [London Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-london): Celebrate your first wedding anniversary with a paper anniversary gift featuring a London place that means something to you — where you met, married, lived together or began your life as a couple.
+  Updated: 2026-09-06T23:57:34Z
+  Total Products: 4
+- [St Albans Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-st-albans): Celebrate your first wedding anniversary with a paper anniversary gift featuring St Albans — a familiar place connected to where you met, married, lived together or began your life as a couple.
+  Updated: 2026-09-06T23:56:43Z
+  Total Products: 4
+- [Hitchin Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-hitchin): Celebrate your first wedding anniversary with a paper anniversary gift featuring Hitchin — a familiar place connected to where you met, married, lived together or began your life as a couple.
+  Updated: 2026-09-06T23:55:31Z
+  Total Products: 3
+- [Letchworth Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-letchworth): Celebrate your first wedding anniversary with a paper anniversary gift featuring Letchworth — a familiar place connected to where you met, married, lived together or began your life as a couple.
+  Updated: 2026-09-06T23:54:42Z
+  Total Products: 2
+- [Bedfordshire Housewarming Gifts](https://www.localpuzzle.co.uk/collections/bedfordshire-housewarming-gifts): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
+  Updated: 2026-09-07T23:06:51Z
+  Total Products: 6
+- [Bedfordshire Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
+  Updated: 2026-09-07T23:10:26Z
+  Total Products: 6
+- [Hertfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-hertfordshire): Celebrate a career spent in Hertfordshire with a retirement gift featuring familiar towns and landmarks. These illustrated 1000-piece jigsaws make thoughtful retirement gift ideas for colleagues, bosses, friends and family with memories tied to the county.
+  Updated: 2026-09-07T23:52:59Z
+  Total Products: 21
+- [Bedfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
+  Updated: 2026-09-07T23:51:49Z
+  Total Products: 6
+- [London Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-london): Celebrate a career spent in London with a retirement gift featuring iconic landmarks and familiar city scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
+  Updated: 2026-09-07T23:55:49Z
+  Total Products: 4
+- [St Albans Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-st-albans): Celebrate a career spent in St Albans with a retirement gift featuring familiar landmarks and town-centre scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
+  Updated: 2026-09-07T23:58:16Z
+  Total Products: 4
+- [Letchworth Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-letchworth): Celebrate a career spent in Letchworth with a retirement gift featuring familiar landmarks and town-centre scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
+  Updated: 2026-09-08T00:00:05Z
+  Total Products: 2
 
 ## Blogs
 
@@ -517,7 +587,7 @@ The brand's core idea is simple: reconnect people with the places they love, pie
     Updated: 2026-08-30T23:47:47Z
     Author: Samiul Islam
   - [Hertfordshire Gifts Ideas with Heart: Local Gifts With Meaning](https://www.localpuzzle.co.uk/blogs/puzzlers-post/hertfordshire-gift-ideas)
-    Updated: 2026-08-30T23:49:40Z
+    Updated: 2026-09-06T17:15:49Z
     Author: Samiul Islam
   - [How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard](https://www.localpuzzle.co.uk/blogs/puzzlers-post/how-to-start-jigsaw-puzzles): How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard
     Updated: 2026-08-30T23:47:10Z
