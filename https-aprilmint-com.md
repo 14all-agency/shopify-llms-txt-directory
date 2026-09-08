@@ -6,7 +6,7 @@
 - Timezone: Asia/Taipei
 - Created At: 2020-05-06T12:41:58Z
 - Contact Email: evan5471@gmail.com
-- Updated At: 2026-08-24T00:00:41.228Z
+- Updated At: 2026-09-08T00:00:44.773Z
 
 ## Products
 
@@ -255,7 +255,7 @@
     Availability: Available
     Price: $98.00 USD
 - [Gina Power Sculpting Bra Top](https://aprilmint.com/products/gina-power-sculpting-bra-top): EDITOR'S NOTE The lightweight Gina power sculpting bra top provides support and shapeliness without sacrificing comfort and feel like your second skin. The supple feel and seamless construction make this bra top an everyday layering staple that enhances your body' natural shape. Shown with the APRIL MINT Gina power sculpting bike short. DETAILS & CARE Everyday Comfort, Support Of An Underwire, Silicone Band, Adjustable Straps Machine Wash Cold, Do Not Bleach, Tumble Dry Low Importe SIZE & FIT Olivia Is 5'5" And Wearing Size S/M 78% Nylon / 22% Spandex DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-17T11:13:30Z
+  Updated: 2026-08-27T17:51:46Z
   Vendor: April Mint
   Product Type: shapewear
   Availability: Available
@@ -1128,7 +1128,7 @@
 ## Collections
 
 - [ALL COLLECTION](https://aprilmint.com/collections/frontpage)
-  Updated: 2026-08-22T07:56:51Z
+  Updated: 2026-08-28T11:12:56Z
   Total Products: 90
 - [Signature One-Piece Swimsuits](https://aprilmint.com/collections/swimsuit-one-piece): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
   Updated: 2026-07-30T07:00:08Z
@@ -1143,10 +1143,10 @@
   Updated: 2026-07-08T21:37:27Z
   Total Products: 3
 - [LINGERIE](https://aprilmint.com/collections/lingerie)
-  Updated: 2026-08-21T19:28:56Z
+  Updated: 2026-08-28T11:12:56Z
   Total Products: 40
 - [Front Page Collection](https://aprilmint.com/collections/front-page-collection)
-  Updated: 2026-08-21T18:38:54Z
+  Updated: 2026-08-28T11:12:56Z
   Total Products: 9
 - [ACCESSORIES & HATS](https://aprilmint.com/collections/accessories)
   Updated: 2026-08-22T07:55:58Z
@@ -1167,7 +1167,7 @@
   Updated: 2026-07-08T21:37:44Z
   Total Products: 14
 - [Shapewear](https://aprilmint.com/collections/shapewear)
-  Updated: 2026-07-08T21:37:39Z
+  Updated: 2026-08-28T11:12:56Z
   Total Products: 6
 - [Black & White](https://aprilmint.com/collections/black-white)
   Updated: 2026-08-22T07:56:51Z
