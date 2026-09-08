@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-06-03T15:50:47Z
 - Contact Email: customerservice@titantoons.com
-- Updated At: 2026-08-31T00:00:40.180Z
+- Updated At: 2026-09-08T00:00:42.727Z
 
 ## Products
 
@@ -143,8 +143,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Official_PAW_Patrol_Cozy_Bedtime_6-Pack_Bundle_Classic_Everyday_Edition_Premium_Cotton_Plush_Set_by_Titantoons.jpg?v=1784402906
   Price: $299.99 USD
-- [Official Disney Moana Wayfinder Princess – 14-Inch Premium Cotton Plush by Titantoons](https://titantoons.com/products/official-disney-moana-wayfinder-princess-14-inch-premium-cotton-plush-by-titantoons): "See the line where the sky meets the sea? It calls me!" Bring home the spirit of adventure with Disney's Moana. Fearless, determined, and deeply connected to the ocean, Moana isn't your typical princess—she’s a master wayfinder ready to lead the way to fun. This beautifully crafted 14-inch (35cm) plush captures her iconic voyager outfit, complete with her signature island skirt and beautifully embroidered Heart of Te Fiti details.
-  Updated: 2026-08-29T00:23:50Z
+- [Purchase Official Disney Moana Princess Plush](https://titantoons.com/products/official-disney-moana-wayfinder-princess-14-inch-premium-cotton-plush-by-titantoons): Cuddle up with a 14-inch Moana plush made from ultra-soft natural cotton. Featuring her iconic voyager look, it's a perfect gift for Disney fans. Shop now!
+  Updated: 2026-09-02T11:38:06Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -174,8 +174,8 @@
   - [20" (50cm)](https://titantoons.com/products/official-disney-frozen-princess-anna-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch?variant=54247329169683)
     Availability: Available
     Price: $39.99 USD
-- [Official Disney Stitch Hugging Duck Premium Cotton Plush by Titantoons – Available in 12-Inch, 18-Inch, & 24-Inch](https://titantoons.com/products/official-disney-stitch-hugging-duck-premium-cotton-plush-by-titantoons-available-in-12-inch-18-inch-24-inch): "Ohana means family." Bring home the sweetest, most heartwarming side of Experiment 626! While Stitch is famous for his chaotic alien antics, this special edition plush captures the exact moment he learns about love, kindness, and belonging from his favorite storybook ducklings. Clutching an adorable little yellow duck to his chest, this Stitch plush radiates pure warmth, making him an instant favorite for cozy cuddles.
-  Updated: 2026-08-29T00:23:51Z
+- [Get Official Disney Stitch Hugging Duck Plush](https://titantoons.com/products/official-disney-stitch-hugging-duck-premium-cotton-plush-by-titantoons-available-in-12-inch-18-inch-24-inch): Add a must-have to your collection with the Stitch Hugging Duck Plush Toy. Soft premium cotton and 12, 18 & 24-inch sizes make it perfect for gifting. Shop now!
+  Updated: 2026-09-07T04:30:10Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -189,8 +189,8 @@
   - [24" (60cm)](https://titantoons.com/products/official-disney-stitch-hugging-duck-premium-cotton-plush-by-titantoons-available-in-12-inch-18-inch-24-inch?variant=54248238973203)
     Availability: Available
     Price: $119.99 USD
-- [Official Disney Stitch & Angel Hugging Heart Premium Cotton Plush Set by Titantoons](https://titantoons.com/products/official-disney-stitch-angel-hugging-heart-premium-cotton-plush-set-by-titantoons): Bring home Disney’s most lovable cosmic duo! Whether you choose the charmingly chaotic Stitch or his sweet-singing counterpart Angel, these special "Hugging Heart" edition plushies are the ultimate way to send a big, cozy hug to someone special. Each character holds a beautifully plush, vibrant red heart right against their chest, making them a heartwarming addition to any bedroom or nursery.
-  Updated: 2026-08-29T00:23:51Z
+- [Buy Official Disney Stitch & Angel Plush Set](https://titantoons.com/products/official-disney-stitch-angel-hugging-heart-premium-cotton-plush-set-by-titantoons): Find official Disney Angel plush and Stitch set in 12-inch and 18-inch sizes. Choose blue or pink and enjoy soft, premium cotton plush made for fan and gifting.
+  Updated: 2026-09-02T11:35:23Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -460,7 +460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Growlithe.png?v=1780912387
   Price: $29.99 USD
 - [Official Pokémon Charmeleon Premium Cotton Plush by Titantoons – 8-Inch](https://titantoons.com/products/official-pokemon-charmeleon-premium-cotton-plush-by-titantoons-8-inch): "Char-meleon!" Turn up the heat with the ultimate symbol of starter evolution determination. As the fierce middle stage of the classic Charmander line, Charmeleon is universally loved for his sharp attitude, fiery spirit, and raw battle-ready confidence. Standing at a perfectly scaled 20cm, this premium cotton plush captures his intense gaze and iconic head ridge in a beautifully tailored, ultra-soft format.
-  Updated: 2026-08-29T00:23:58Z
+  Updated: 2026-09-05T00:43:49Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -537,7 +537,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Clefairy.png?v=1780915346
   Price: $29.99 USD
 - [Official Pokémon Charizard Premium Cotton Plush by Titantoons – 11-Inch](https://titantoons.com/products/official-pokemon-charizard-premium-cotton-plush-by-titantoons-11-inch): Awaken the undisputed powerhouse of the Kanto region! As one of the most legendary and iconic Pokémon across the entire global franchise, Charizard is deeply revered by veteran trainers, competitive gamers, and young fans alike. Famous for his fierce battle-ready spirit and unstoppable fire attacks, this Flame Pokémon is reimagined here in a majestic, ultra-soft 28cm plush format that perfectly balances raw draconic power with premium comfort.
-  Updated: 2026-08-29T00:24:01Z
+  Updated: 2026-09-07T07:39:16Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -551,7 +551,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Popplio.png?v=1780918675
   Price: $29.99 USD
 - [Official Pokémon Ponyta Premium Cotton Plush by Titantoons – 11-Inch](https://titantoons.com/products/official-pokemon-ponyta-premium-cotton-plush-by-titantoons-11-inch): Gallop into nostalgia with the most elegant Fire-type icon of the classic Kanto region. Ponyta has captured the hearts of trainers for decades with its fierce loyalty, swift grace, and its magnificent mane and tail made entirely of blazing fire. Standing at a proud, beautifully balanced 28cm, this premium cotton plush captures Ponyta’s majestic equine silhouette and alert posture in an ultra-soft, completely safe design.
-  Updated: 2026-08-29T00:24:02Z
+  Updated: 2026-09-04T22:40:48Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -572,7 +572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Eevee.png?v=1780918991
   Price: $29.99 USD
 - [Official Pokémon Wartortle Premium Cotton Plush by Titantoons – 8.5-Inch](https://titantoons.com/products/official-pokemon-wartortle-premium-cotton-plush-by-titantoons-8-5-inch): "War-tortle!" Turn up the battle-ready nostalgia with the definitive classic middle evolution. As the fierce, honorable middle stage of the legendary Squirtle line, Wartortle is universally loved for its tough attitude, sharp scratch markings, and its magnificent, cloud-like ears and tail which symbolize longevity and wisdom. Standing at a perfectly proportioned 22cm, this premium plush brings this iconic Kanto warrior to life in an ultra-soft, luxury cotton format.
-  Updated: 2026-08-29T00:24:03Z
+  Updated: 2026-09-06T02:19:57Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -1192,28 +1192,28 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Eren_Yeager_Figma_No.207_Highly_Poseable_Premium_Action_Figure_by_Max_Factory.jpg?v=1784379504
   Price: $69.95 USD
 - [Attack on Titan: Captain Levi Ackerman (Figma No.213) Highly Poseable Premium Action Figure by Max Factory](https://titantoons.com/products/attack-on-titan-captain-levi-ackerman-figma-no-213-highly-poseable-premium-action-figure-by-max-factory): Recreate the lightning-fast, high-velocity strikes of humanity's most lethal soldier. From the master engineers at Max Factory comes the highly acclaimed, definitive entry in the elite Figma lineup: Captain Levi Ackerman from Attack on Titan. Renowned for its flawless balance of razor-sharp anime accuracy and industry-leading joint articulation, this premium figure lets  collectors, high-end toy photographers, and series purists capture Levi's peerless combat prowess and cold, analytical stoicism directly on their display shelf.
-  Updated: 2026-08-29T00:24:25Z
+  Updated: 2026-09-05T17:44:08Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Captain_Levi_Ackerman_Figma_No.213_Highly_Poseable_Premium_Action_Figure_by_Max_Factory.jpg?v=1784379250
   Price: $49.95 USD
 - [Attack on Titan: Mikasa Ackerman (Midnight Banquet Series No.1) 1/6 Scale Premium Polyresin Statue by Model Power Studio](https://titantoons.com/products/attack-on-titan-mikasa-ackerman-midnight-banquet-series-no-1-1-6-scale-premium-polyresin-statue-by-model-power-studio): Step away from the muddy battlefields of Paradis and enter an elegant world of high-society intrigue. From the artistic team at Model Power Studio comes a stunning, high-end masterpiece that redefines traditional anime figures: Mikasa Ackerman, the first entry in the exclusive Midnight Banquet Series. Shifting away from her worn military gear, this breathtaking 1/6 scale luxury statue reimagines humanity’s most elite vanguard in a sophisticated, sleek evening gown while retaining her signature, quiet intensity. Engineered explicitly for premium  collectors, high-end display galleries, and true series purists, this rare release serves as an unmatched stylistic centerpiece for your collection.
-  Updated: 2026-08-29T00:24:25Z
+  Updated: 2026-08-31T13:36:20Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Mikasa_Ackerman_Midnight_Banquet_Series_No.1_1_6_Scale_Premium_Polyresin_Statue_by_Model_Power_Studio.jpg?v=1784379058
   Price: $99.95 USD
 - [Attack on Titan: Captain Levi Ackerman (Side Story Series No.1 - Tea Time) 19cm Premium Resin Statue by TITAN Studio](https://titantoons.com/products/attack-on-titan-captain-levi-ackerman-side-story-series-no-1-tea-time-19cm-premium-resin-statue-by-titan-studio): Step inside the quiet halls of the Scout Regiment headquarters during a rare moment of tactical respite. From the master artisans at TITAN Studio comes a spectacular, character-defining masterpiece: Captain Levi Ackerman, the debut entry in the exclusive Side Story Series. Moving away from high-velocity combat lines, this premium 19cm resin statue perfectly captures humanity's strongest soldier in his most iconic off-duty routine—holding his teacup with his signature, unmistakable overhand grip. Engineered explicitly for premium  collectors, anime purists, and high-end display galleries, this rare piece brings an unparalleled sense of atmospheric storytelling to your desk layout.
-  Updated: 2026-08-29T00:24:25Z
+  Updated: 2026-09-01T19:00:36Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Captain_Levi_Ackerman_Side_Story_Series_No.1_-_Tea_Time_19cm_Premium_Resin_Statue_by_TITAN_Studio.jpg?v=1784378855
   Price: $59.95 USD
 - [Attack on Titan: Eren Jaeger (The Jaegerist Leader / Final Season) 30cm Premium Scale Figure Statue by Herz Studio](https://titantoons.com/products/attack-on-titan-eren-jaeger-the-jaegerist-leader-final-season-30cm-premium-scale-figure-statue-by-herz-studio): Witness the chilling evolution of humanity's former hope into its ultimate, unyielding threat. This magnificent 30cm premium scale statue by Herz Studio captures Eren Jaeger in his iconic, definitive Season 4 appearance. Depicting the precise moment of his radical transformation as he effortlessly drapes his dark trench coat over his shoulders, this museum-grade masterpiece perfectly captures the cold, calculating charisma of the Jaegerist leader. Engineered specifically for  anime collectors, manga purists, and high-end display galleries, this high-impact figure brings absolute authority to your desk space or exhibition shelf.
-  Updated: 2026-08-29T00:24:26Z
+  Updated: 2026-08-31T13:36:20Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1279,7 +1279,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Eren_Jaeger_The_Final_Season_-_Nendoroid_No.2000_Authentic_Fully_Articulated_Chibi_Figure_by_Good_Smile_Company.jpg?v=1784377867
   Price: $74.95 USD
 - [Attack on Titan: Mikasa Ackerman (The Final Season - Nendoroid No.2001) Authentic Fully Articulated Chibi Figure by Good Smile Company](https://titantoons.com/products/attack-on-titan-mikasa-ackerman-the-final-season-nendoroid-no-2001-authentic-fully-articulated-chibi-figure-by-good-smile-company): Bring humanity's most dedicated elite vanguard to your collection in her hardened, final battle configuration. Released as the historic companion piece to the milestone 2000th Nendoroid, this premium figure captures Mikasa Ackerman in her older, mature appearance from Attack on Titan: The Final Season. Shifting away from her traditional cadet attire, this fully poseable masterpiece shrinks her sleek, short-haired look and specialized anti-personnel uniform into the signature luxury chibi aesthetic. It serves as an absolute essential for  collectors, high-end toy photographers, and series purists looking to display her alongside the Final Season Eren Jaeger.
-  Updated: 2026-08-29T00:24:28Z
+  Updated: 2026-09-07T07:42:17Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1548,7 +1548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Unsinkable_Ship_Liquid_Drift_Bottle_Thousand_Sunny_Going_Merry_Premium_Acrylic_Desktop_Motion_Decor_with_Separate_USB_LED_Illuminating_Base_1.jpg?v=1784364826
     Price: $39.95 USD
 - [One Piece: "Soul King" Brook Deluxe 12.99-Inch Premium PVC Exhibition Scale Statue (Soul Solid Ice Blade Edition)](https://titantoons.com/products/one-piece-soul-king-brook-deluxe-12-99-inch-premium-pvc-exhibition-scale-statue-soul-solid-ice-blade-edition): Unleash the rock-and-roll majesty, chilling underworld energy, and vibrant battle flair of the Straw Hat Crew’s legendary musician. Standing at a towering, impressive 12.99 inches in height, this premium static showcase statue captures "Soul King" Brook in his definitive, post-timeskip concert attire, unleashing a devastating slash of his frozen underworld blade. Designed specifically for  collectors looking for a high-impact, resin-quality presence without the heavy price tag, this massive piece trades distracting articulation joints for a flawless, uninterrupted cinematic sculpt. It serves as an unmissable, high-presence anchor for your media display vault, specialized gaming layout, or dedicated workspace curation.
-  Updated: 2026-08-29T00:24:39Z
+  Updated: 2026-09-01T19:11:55Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1799,10 +1799,10 @@
   Updated: 2026-07-10T11:40:50Z
   Total Products: 0
 - [Playground](https://titantoons.com/collections/playground): Shop official plush toys from Disney, Pixar, Toy Story, and Bluey. Discover soft, huggable collectibles for the whole family. Shop your favourites today!
-  Updated: 2026-08-29T11:20:14Z
+  Updated: 2026-09-07T11:41:53Z
   Total Products: 106
 - [Superhero](https://titantoons.com/collections/superhero): Buy superhero action figures of Marvel and DC at Titan Toons. Discover Batman, Spider-Man, Superman, Iron Man, and more collectible figures for collectors.
-  Updated: 2026-08-26T08:24:55Z
+  Updated: 2026-08-31T11:19:43Z
   Total Products: 64
 - [Invincible](https://titantoons.com/collections/invincible)
   Updated: 2026-07-10T11:40:50Z
@@ -1811,43 +1811,43 @@
   Updated: 2026-08-18T11:19:35Z
   Total Products: 5
 - [Anime](https://titantoons.com/collections/anime): Shop premium anime figures and collectibles from One Piece, Jujutsu Kaisen, Dragon Ball, and Attack on Titan — authentic pieces from Bandai and Good Smile.
-  Updated: 2026-08-30T11:19:21Z
+  Updated: 2026-09-06T11:38:21Z
   Total Products: 211
 - [Marvel](https://titantoons.com/collections/marvel): Unlock premium Marvel Legends action figures featuring iconic heroes and villains. Find must-have collectibles to elevate your Marvel collection. Shop today!
-  Updated: 2026-08-26T08:24:55Z
+  Updated: 2026-08-31T11:19:43Z
   Total Products: 30
 - [DC](https://titantoons.com/collections/dc): Shop DC Multiverse figures and collectibles at Titan Toons. Discover Batman, Joker, Catwoman, Green Arrow, and more premium DC action figures.
   Updated: 2026-08-18T11:19:35Z
   Total Products: 39
 - [One piece](https://titantoons.com/collections/one-piece): Get premium One Piece action figures, plush, and model kits featuring Luffy, Kaido, Chopper, and more. Discover authentic Bandai Spirits collectibles.
-  Updated: 2026-08-30T11:19:21Z
+  Updated: 2026-09-02T11:23:22Z
   Total Products: 62
 - [Solo Leveling](https://titantoons.com/collections/solo-leveling): Unleash your collection with premium Solo Leveling figures featuring Sung Jinwoo, Igris, Beru, and iconic Shadow Monarch collectibles. Shop now!
   Updated: 2026-08-23T11:18:57Z
   Total Products: 8
 - [Attack on titan](https://titantoons.com/collections/attack-on-titan): Buy Attack on Titan action figures featuring Eren, Levi, Mikasa, and more. Explore authentic Nendoroids and premium Good Smile Company collectibles.
-  Updated: 2026-08-23T11:18:57Z
+  Updated: 2026-09-06T11:38:21Z
   Total Products: 28
 - [Chainsaw Man](https://titantoons.com/collections/chainsaw-man): Elevate your collection with premium Chainsaw Man figures featuring Denji, Power, Makima, and more. Discover iconic anime collectibles. Shop now!
   Updated: 2026-08-14T11:05:26Z
   Total Products: 27
 - [Demon Slayer](https://titantoons.com/collections/demon-slayer): Level up your anime collection with premium Demon Slayer figures, plush, and props. Collect Tanjiro, Shinobu, Kokushibo, and more. Explore the collection!
-  Updated: 2026-08-17T11:19:51Z
+  Updated: 2026-09-05T11:22:50Z
   Total Products: 23
 - [Dragon Ball](https://titantoons.com/collections/dragon-ball): Unleash your collection with premium Dragon Ball figures and statues featuring Goku, Vegeta, Gohan, and more. Discover iconic collectibles today!
-  Updated: 2026-08-23T11:18:57Z
+  Updated: 2026-09-05T11:22:50Z
   Total Products: 26
 - [Jujutsu kaisen](https://titantoons.com/collections/jujutsu-kaisen): Explore Jujutsu Kaisen figures and statues featuring Gojo, Sukuna, Itadori, and more. Shop authentic Bandai S.H.Figuarts and SEGA collectibles today!
-  Updated: 2026-08-14T11:11:26Z
+  Updated: 2026-09-04T11:20:41Z
   Total Products: 37
 - [Bluey](https://titantoons.com/collections/bluey): Discover official Bluey plush toys featuring beloved characters like Bluey, Bingo, and Chattermax. Find irresistible, soft, huggable favorites. Shop today!
   Updated: 2026-08-25T11:19:06Z
   Total Products: 6
 - [Pokemon](https://titantoons.com/collections/pokemon): Purchase Pokémon plush toys featuring Pikachu, Gengar, Eevee, and more. Discover soft, huggable Pokémon collectibles for fans of all ages. Shop now!
-  Updated: 2026-08-23T11:18:57Z
+  Updated: 2026-09-06T11:38:21Z
   Total Products: 32
 - [Disney](https://titantoons.com/collections/disney): Find your next favorite Disney plush toys featuring iconic characters. Shop authentic, adorable, high-quality collectibles for fans of all ages!
-  Updated: 2026-08-16T11:19:37Z
+  Updated: 2026-09-07T11:41:53Z
   Total Products: 19
 - [PAW Patrol](https://titantoons.com/collections/paw-patrol): Shop official PAW Patrol plush toys featuring lovable rescue pups. Bring home cuddly, adorable, must-have collectibles for your little hero. Get it today!
   Updated: 2026-08-14T11:17:06Z
@@ -1875,9 +1875,13 @@
     Updated: 2026-08-05T06:55:49Z
     Author: My Store Admin
   - [What Is a Plushie? A Complete Guide](https://titantoons.com/blogs/news/what-is-a-plushie): What Is a Plushie? A Complete Guide
-    Updated: 2026-08-26T11:02:22Z
+    Updated: 2026-09-04T09:14:46Z
     Author: Abdalla Rabie
     Tags: Plushies
+  - [How to Clean Plushies: Easy Washing And Care Guide](https://titantoons.com/blogs/news/how-to-clean-plushies): How to Clean Plushies: Easy Washing And Care Guide
+    Updated: 2026-09-04T08:32:13Z
+    Author: Abdalla Rabie
+    Tags: how to clean plushies, Plushies
 
 ## Store Pages
 
