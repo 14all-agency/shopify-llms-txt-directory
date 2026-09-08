@@ -6,12 +6,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-09-01T00:00:39.582Z
+- Updated At: 2026-09-08T00:00:41.989Z
 
 ## Products
 
 - [ComfortRoll Pro™ Multifunctional Manual Neck Massager](https://digicollex.com/products/multifunctional-manual-six-wheel-neck-massager-massage-relieve-roller-massage-tool): Experience natural, therapist-like relief with our upgraded 6-Roller Cervical Neck Massager, designed to soothe sore muscles, release stiffness, and improve circulation. Featuring 360° rotating dual massage balls, this ergonomic tool delivers targeted deep tissue massage to your neck, shoulders, legs, and back—all from the comfort of your home. Key Features: 360° Smooth Rolling Massage: Equipped with 6 high-quality rotating balls that roll effortlessly to deliver a relaxing, tension-relieving experience—much better than traditional fixed ball massagers. Unique Ergonomic Design: Cute swan-shaped design with added “ears” for better grip and visual appeal. Dual massage balls are removable and washable for hygiene and easy maintenance. Deep Tissue Trigger Point Relief: Applies precise pressure on tight and stiff muscles, mimicking the hands of a physical therapist. Ideal for neck stiffness, shoulder tension, and leg muscle soreness. Adjustable Pressure: Squeeze the plated handles to control massage intensity—perfect for users who want customized pressure and comfort. Natural Stone Scraping Board Included: Crafted from natural powder crystal jade, this extra tool helps improve skin circulation, reduce puffiness, and gently massage the face, neck, and body. Lightweight & Portable: Compact and durable design makes it great for home, travel, or office use. Maintain muscle health wherever you go. Product Details: Product Name: 6-Roller Cervical Massager Colors Available: Pink, Blue Size: Approx. 35cm x 18cm Material: High-quality PP + Natural Crystal Jade Applicable For: Neck, Shoulders, Legs, Back, Face Unisex Use: Suitable for men, women, and all age groups Bonus: 1x Natural Powder Crystal Scraping Board (8.5 x 5.5 cm) Perfect For: Daily muscle pain relief Office workers, athletes, travelers, and seniors Promoting better blood flow and circulation Improving sleep quality and reducing fatigue Note: Each product includes natural raw stone, so color may vary slightly—this makes every item beautifully unique. Product information: Product name: 6-roller cervical massager Color: blue, pink Specification: 1 pack Size: about 35cm X 18cm Product category: neck massager Material: PP Applicable scene: health massage Shape: swan six-wheel pink, swan six-wheel blue Applicable scene: Health massage Applicable object: Unisex Scraping board material: high-quality natural powder crystal jade The size is 8.5cm long, 5.5cm wide, and about 0.5-0.8 thick Usage: light and comfortable on face, neck and body Features: Ergonomic design, massage cervical acupoints Packing list: Cervical spine massager*1
-  Updated: 2026-08-29T03:10:47Z
+  Updated: 2026-09-04T17:29:36Z
   Vendor: Digi Collex
   Product Type: Neck Massager
   Availability: Available
@@ -102,15 +102,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_11_2026_10_00_32_PM_4.png?v=1786449690
   Price: $24.99 USD
-- [PushPro Multifunctional Training Board With Rope](https://digicollex.com/products/home-multifunctional-push-up-training-board): Product information: Applicable scenarios: fitness equipment, fitness body, sports trend Specifications: multi-functional push-up board [professional type], multi-functional push-up board [upgraded], multi-functional push-up board [upgraded Intelligent counting], 30 types of counting push-up board [rubber-wrapped handle]], 30 types of counts push-up board pulling rope [rubber-wrapped handle], 22 types of push-up board [not rubber-wrapped handle], 22 types of push-up board [not pulling rope], 28 types of rubber-wrapped handle [push-up board]], 28 kinds of push-up board pulling rope [rubber-wrapped handle], English counting model, English counting model, English counting model pulling rope Material: ABS Packing list: Portable Push-up Board*1 Product Image:
-  Updated: 2026-08-29T16:44:06Z
-  Vendor: Digi Collex
-  Product Type: AI Assistant Smart Glasses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_11_2026_07_05_35_PM_1.png?v=1786439307
-  Price: $35.99 USD
 - [AbRova™ Pro 4-Wheel Auto Rebound Abs Roller](https://digicollex.com/products/abrova™-pro-4-wheel-automatic-rebound-ab-roller): Product information: AbRova™ Pro 4-Wheel Automatic Rebound Ab Roller Applicable scenarios: fitness equipment, fitness body shaping Color: [four-wheel 8-elbow support-Black] Strong rebound no timer mobile phone smart interconnection send hassock, [Four-wheel 8-elbow support-Orange] Strong rebound no timer mobile phone smart interconnection send ha socks, [four-wheel 8-elbow support-Blue] Strong rebound no timer mobile phone smart interconnection get no hassock Packing list: 1* Abdominal Wheel Product Image:
-  Updated: 2026-08-29T16:44:06Z
+  Updated: 2026-09-06T12:26:58Z
   Vendor: Digi Collex
   Product Type: ABRova™ Pro 4-Wheel Automatic Rebound Ab
   Availability: Available
@@ -141,13 +134,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_19_2026_07_16_45_PM_1.png?v=1787131041
     Price: $39.99 USD
-- [MoonCare™ Ear Care Soothing Drops](https://digicollex.com/products/ear-care-soothing-drops): Product information: Ingredients: Active ingredients: witch hazel extract, Sophora flavescens, safflower and forsythia fruit. Inactive ingredients: Water, glycerol, betaine salicylate, 1,2-hexanediol and disodium EDTA. Packing list: Ear care soothing drops *1
-  Updated: 2026-08-29T16:44:07Z
-  Vendor: Digi Collex
-  Product Type: ear care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_23_2026_08_00_12_PM_3.png?v=1787479654
-  Price: $17.99 USD
 - [Pelfix™ Thigh Pelvic Floor Trainer](https://digicollex.com/products/pelvic-floor-muscle-trainer-leg-beauty): Product information: Applicable scenarios: running sports, fitness equipment, health massage, fitness and body shaping, others Specifications: not counting pink, not counting Blue Category: Yoga auxiliary products Packing list: Leg clamp * 1 Product Image:
   Updated: 2026-08-30T01:35:09Z
   Vendor: Digi Collex
@@ -162,69 +148,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_29_2026_07_30_00_AM_8.png?v=1787953308
     Price: $22.99 USD
-- [Zova™ 2 Piece Casual Outfit Striped Tops High Waist Pants Set](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear): SPECIFICATIONSWomen 2 Piece Casual Bodycon Outfit Striped Short Sleeve Tops High Waist Pants Set Loungewear Suit Home Sleepwear Daily Wear Age: Middle Age Brand Name: Zova™ CN: Guangdong Choice: yes Craft of Weaving: Knit Decoration: PATCHWORK Elasticity: Slight Strech Fabric Type: Blended Fit Type: Slim High-concerned chemical: none Material: POLYESTER Origin: Mainland China Pattern Type: Striped Season: Spring/Summer Style: Office Lady size_info: {"sizeInfoList":[{"length":{"cm":"82","inch":"32.28"},"size":"S","vid":100014064},{"length":{"cm":"86","inch":"33.86"},"size":"M","vid":361386},{"length":{"cm":"98","inch":"38.58"},"size":"XL","vid":100014065},{"length":{"cm":"104","inch":"40.94"},"size":"XXL","vid":4182}]}
-  Updated: 2026-08-30T14:40:38Z
+- [Mopiq™ 360° Cleaning brush with Long Handle](https://digicollex.com/products/long-handle-floor-cleaning-brush-with-cloth-attachment): Overview Mopiq™ Long Handle Design - Extended reach for effortless cleaning without bending Cloth Clamping Mechanism - Secure fabric attachment for efficient scrubbing Multi-Surface Applicability - Effective on bathroom tiles, floor gaps, and ceramic surfaces Durable Construction - Robust materials ensure long-lasting cleaning performance Specifications Weight: 430 grams Net Content: 200ml Color Options: Floor brush crevice brush Packing List floor brush*1 cloth attachment*1
+  Updated: 2026-09-06T02:36:37Z
   Vendor: DIGICOLLEX
-  Product Type: 
+  Product Type: 360 floor brush
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_30_2026_02_44_11_PM_2.png?v=1788065424
-  - [XL / Pink](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337535259)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S2559ebb176754429ac7548b8c04e5a5bQ.webp?v=1788057441
-    Price: $24.99 USD
-  - [XL / Yellow](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337568027)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S733882815fd84429ab8f59f56eb7f6ccF.webp?v=1788057440
-    Price: $24.99 USD
-  - [XXL / Yellow](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337600795)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_30_2026_02_44_11_PM_1.png?v=1788065424
-    Price: $24.99 USD
-  - [XL / Coffee](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337633563)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S6b0c97ad5f89460bb2a59e5088bd68471.webp?v=1788057441
-    Price: $24.99 USD
-  - [XXL / Coffee](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337666331)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S6b0c97ad5f89460bb2a59e5088bd68471.webp?v=1788057441
-    Price: $24.99 USD
-  - [XXL / Pink](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337699099)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S59b62b607f594ea38535f3b25fe73073k.webp?v=1788057440
-    Price: $24.99 USD
-  - [S / Pink](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337731867)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S59b62b607f594ea38535f3b25fe73073k.webp?v=1788057440
-    Price: $24.99 USD
-  - [S / Yellow](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337764635)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S733882815fd84429ab8f59f56eb7f6ccF.webp?v=1788057440
-    Price: $24.99 USD
-  - [M / Yellow](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337797403)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S733882815fd84429ab8f59f56eb7f6ccF.webp?v=1788057440
-    Price: $24.99 USD
-  - [S / Coffee](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337830171)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S6b0c97ad5f89460bb2a59e5088bd68471.webp?v=1788057441
-    Price: $24.99 USD
-  - [M / Coffee](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337862939)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S6b0c97ad5f89460bb2a59e5088bd68471.webp?v=1788057441
-    Price: $24.99 USD
-  - [M / Pink](https://digicollex.com/products/women-2-piece-casual-bodycon-outfit-striped-short-sleeve-tops-high-waist-pants-set-loungewear-suit-home-sleepwear-daily-wear?variant=53840337895707)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/S59b62b607f594ea38535f3b25fe73073k.webp?v=1788057440
-    Price: $24.99 USD
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_5_2026_04_27_41_PM_1.png?v=1788589995
+  Price: $24.99 USD
+- [Magnova™ Magnesium Complex](https://digicollex.com/products/magnesium-capsule-complex-health-products): Product Information： Main raw material: magnesium Net content: 50g Type: Capsule Packing List： Capsule * 1 set
+  Updated: 2026-09-07T11:47:36Z
+  Vendor: Digi Collex
+  Product Type: health
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_6_2026_08_40_28_AM_1.png?v=1788671541
+  Price: $21.99 USD
 
 ## Collections
 
 - [Home page](https://digicollex.com/collections/frontpage)
-  Updated: 2026-08-26T09:37:36Z
-  Total Products: 6
-- [Quality Products](https://digicollex.com/collections/quality-products)
-  Updated: 2026-08-30T11:20:23Z
-  Total Products: 4
+  Updated: 2026-09-07T12:14:25Z
+  Total Products: 7
 - [Must Buy](https://digicollex.com/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
   Total Products: 0
@@ -259,8 +202,8 @@
   Updated: 2026-08-05T11:10:40Z
   Total Products: 1
 - [Trending Now](https://digicollex.com/collections/best-seller)
-  Updated: 2026-08-30T05:02:51Z
-  Total Products: 8
+  Updated: 2026-09-07T12:14:27Z
+  Total Products: 10
 - [SwiftChop™ Vegetable Chopper](https://digicollex.com/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
   Total Products: 1
