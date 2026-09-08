@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-08-31T00:00:36.599Z
+- Updated At: 2026-09-08T00:00:39.507Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-08-30T04:33:57Z
+  Updated: 2026-09-04T00:12:38Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -54,20 +54,20 @@
     Availability: Available
     Price: ￥2,640.00 JPY
 - [アロマミスト 100ml｜植物由来100%（※ 水を除く）](https://mckkjp.com/products/aromamist): 香りを「効かせるもの」ではなく、ひとつの行為に入る前の切り替えの所作としてのアロマミストです。 その場の空気が静かに切り替わるような気配を残します。香りが消えていく余韻も楽しんでみてください。 読書や思考、作業に入る前、次の時間へ移るための合図として。
-  Updated: 2026-08-28T01:26:13Z
+  Updated: 2026-09-04T01:48:19Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/251208_TORUN7858.jpg?v=1770119962
   - [安息](https://mckkjp.com/products/aromamist?variant=63146149151089)
     Availability: Available
-    Price: ￥3,300.00 JPY
+    Price: ￥3,630.00 JPY
   - [活力](https://mckkjp.com/products/aromamist?variant=63146149183857)
     Availability: Available
-    Price: ￥3,300.00 JPY
+    Price: ￥3,630.00 JPY
   - [集中](https://mckkjp.com/products/aromamist?variant=63146149216625)
     Availability: Available
-    Price: ￥3,300.00 JPY
+    Price: ￥3,630.00 JPY
 - [メッセージカード | MCKK](https://mckkjp.com/products/メッセージカード): ギフトに添えるメッセージカード。大切な方へのギフトにお気持ちを添えてお届けします。
   Updated: 2026-08-28T01:25:48Z
   Vendor: MCKK｜エムシーケーケー
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
 - [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
-  Updated: 2026-08-28T01:26:13Z
+  Updated: 2026-09-01T05:37:10Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-08-30T11:12:14Z
+  Updated: 2026-09-04T11:13:59Z
   Total Products: 7
 
 ## Blogs
