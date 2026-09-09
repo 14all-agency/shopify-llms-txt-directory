@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-08-30T00:00:42.251Z
+- Updated At: 2026-09-09T00:00:46.837Z
 
 HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevated ready-to-wear clothing and accessories for women, men and children. Our collections combine sophisticated design, modern styling and distinctive statement pieces. Explore our official collections, product information, sizing, shipping and brand content through the HOUSE OF OC website.
 
