@@ -6,34 +6,10 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-29T17:02:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-01T00:00:35.888Z
+- Updated At: 2026-09-09T00:00:36.992Z
 
 ## Products
 
-- [Eagle Tee](https://craigmorgan.merchmadeeasy.com/products/eagle-tee): Eagle Tee in grey with front and back print.
-  Updated: 2026-08-28T19:35:42Z
-  Vendor: Craig Morgan
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMEAGLETEE-2.png?v=1749672985
-  - [S](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635980882140)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635981013212)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [L](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635981045980)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635980914908)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [2XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635980947676)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [3XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee?variant=46635980980444)
-    Availability: Available
-    Price: $35.00 USD
 - [Enlisted Vinyl](https://craigmorgan.merchmadeeasy.com/products/enlisted-ep-vinyl): Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
   Updated: 2026-08-28T19:35:43Z
   Vendor: Craig Morgan
@@ -42,20 +18,20 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMENLISTEDVINYL.png?v=1749673205
   Price: $24.99 USD
 - [Camo Trucker Hat](https://craigmorgan.merchmadeeasy.com/products/camo-trucker-hat): Craig Morgan Camo Trucker Hat with mesh back and snapback closure. 60/40 cotton/polyester Structured, six-panel
-  Updated: 2026-08-28T19:35:43Z
+  Updated: 2026-09-08T14:00:10Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMCAMOTRUCKER.png?v=1749673583
-  Price: $30.00 USD
+  Price: $20.00 USD
 - [God Family Country Koozie](https://craigmorgan.merchmadeeasy.com/products/god-family-country-koozie): GOD • FAMILY • COUNTRY Koozies comes in 2 colors: black and grey
-  Updated: 2026-08-28T19:35:43Z
+  Updated: 2026-09-08T14:00:11Z
   Vendor: Craig Morgan
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMGFCKOOZIE.png?v=1749675275
   - [Black](https://craigmorgan.merchmadeeasy.com/products/god-family-country-koozie?variant=46636054282460)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMGFCKOOZIE.png?v=1749675275
     Price: $5.00 USD
   - [Gray](https://craigmorgan.merchmadeeasy.com/products/god-family-country-koozie?variant=46680413077724)
@@ -70,21 +46,21 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMAMERICANSOUNDTRACKCD.png?v=1751036800
   Price: $9.99 USD
 - [American Soundtrack CD (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/american-soundtrack-cd-signed): SIGNED CD Morgan has long represented the hard-working, God-fearing people who are the backbone of America. He co-wrote all but one of the EPs six tracks, and each song on American Soundtrack is infused with the singer and soldier's faith and patriotism. Tracklist:1. American Soundtrack2. Roots3. Gods Problems4. Country Education5. Blue Collar Prayer6. Who Im From
-  Updated: 2026-08-28T19:35:44Z
+  Updated: 2026-09-03T23:59:36Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMAMERICANSOUNDTRACKCDSIGNED.png?v=1751036849
   Price: $14.99 USD
 - [God Family Country Trucker Hat](https://craigmorgan.merchmadeeasy.com/products/god-family-country-trucker-hat): God Family Country Camo Trucker Hat with mesh back and snapback closure. 60/40 cotton/polyester Structured, six-panel
-  Updated: 2026-08-28T19:35:44Z
+  Updated: 2026-09-08T14:00:11Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMGODFAMILYCOUNTRYCAMOHAT-2.png?v=1751037116
-  Price: $30.00 USD
+  Price: $20.00 USD
 - [God Family Country Hoodie](https://craigmorgan.merchmadeeasy.com/products/god-family-country-hoodie): Heather navy hoodie with front and back print. 50/50 cotton/polyester
-  Updated: 2026-08-28T19:35:44Z
+  Updated: 2026-09-08T14:00:19Z
   Vendor: Craig Morgan
   Product Type: Hoodie
   Availability: Available
@@ -108,31 +84,31 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Navy Flag Hoodie](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie): Navy Flag Hoodie with front print only. Classic Hoodie fit, cotton/poly blend
-  Updated: 2026-08-28T19:35:44Z
+  Updated: 2026-09-08T14:00:13Z
   Vendor: Craig Morgan
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMNAVYFLAGHOODIE.png?v=1751037893
   - [S](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473501916)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [M](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473796828)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [L](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473829596)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [XL](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473862364)
     Availability: Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [2XL](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473895132)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $30.00 USD
   - [3XL](https://craigmorgan.merchmadeeasy.com/products/navy-flag-hoodie?variant=46680473927900)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $30.00 USD
 - [Green Flag Hoodie](https://craigmorgan.merchmadeeasy.com/products/green-flag-hoodie): Olive Green Flag Hoodie with front print only. Classic Hoodie fit, cotton/poly blend
-  Updated: 2026-08-28T19:35:44Z
+  Updated: 2026-09-08T14:00:14Z
   Vendor: Craig Morgan
   Product Type: Hoodie
   Availability: Available
@@ -156,22 +132,22 @@
     Availability: Available
     Price: $50.00 USD
 - [Vintage Redneck Yacht Club Tee](https://craigmorgan.merchmadeeasy.com/products/vintage-redneck-yacht-club-tee): Redneck Yacht Club Tee in white with front print only.
-  Updated: 2026-08-28T19:35:45Z
+  Updated: 2026-09-08T14:00:15Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMREDNECKYACHTCLUBTEE.png?v=1751039413
   - [S](https://craigmorgan.merchmadeeasy.com/products/vintage-redneck-yacht-club-tee?variant=46680496439516)
     Availability: Available
-    Price: $35.00 USD
+    Price: $15.00 USD
   - [M](https://craigmorgan.merchmadeeasy.com/products/vintage-redneck-yacht-club-tee?variant=46680496472284)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $15.00 USD
   - [L](https://craigmorgan.merchmadeeasy.com/products/vintage-redneck-yacht-club-tee?variant=46680496505052)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $15.00 USD
 - [Flag Long Sleeve Tee - Black](https://craigmorgan.merchmadeeasy.com/products/flag-long-sleeve-tee-black): Flag Long Sleeve Tee in black with front and back print.
-  Updated: 2026-08-28T19:35:46Z
+  Updated: 2026-09-08T14:00:20Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -195,7 +171,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Flag Long Sleeve Tee - White](https://craigmorgan.merchmadeeasy.com/products/flag-long-sleeve-tee-white): Flag Long Sleeve Tee in white with front and back print.
-  Updated: 2026-08-28T19:35:46Z
+  Updated: 2026-09-08T14:00:21Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -219,7 +195,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Enlisted Photo Tee](https://craigmorgan.merchmadeeasy.com/products/enlisted-tee): Enlisted Tee in black with front print only.
-  Updated: 2026-08-28T19:35:46Z
+  Updated: 2026-09-08T14:00:18Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -243,14 +219,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Enlisted Vinyl (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/enlisted-vinyl-signed): SIGNED Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-08-28T19:35:46Z
+  Updated: 2026-09-03T23:59:36Z
   Vendor: Craig Morgan
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMENLISTEDSIGNEDVINYL.png?v=1751386925
   Price: $34.99 USD
 - [Redneck Yacht Club Tee](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-tee): Redneck Yacht Club Tee in "natural" with front and back print.
-  Updated: 2026-08-28T19:35:47Z
+  Updated: 2026-09-08T17:22:13Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -268,24 +244,24 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-tee?variant=46691524739292)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
 - [Redneck Yacht Club Hat](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-hat): Craig Morgan Redneck Yacht Club Trucker Hat Foam/Mesh, 5 Panel, High Profile 100% Polyester
-  Updated: 2026-08-28T19:35:47Z
+  Updated: 2026-09-08T14:00:22Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCHAT.png?v=1753805249
   Price: $30.00 USD
 - [Redneck Yacht Club Member Koozie](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-member-koozie): MEMBER OF THE REDNECK YACHT CLUB
-  Updated: 2026-08-28T19:35:48Z
+  Updated: 2026-09-08T14:00:23Z
   Vendor: Craig Morgan
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCKOOZIE.png?v=1753805537
   Price: $5.00 USD
 - [God, Family, Country - Paperback (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/god-family-country-paperback-signed): Craig Morgan's memoir, God, Family, Country on paperback. Autographed on the inside cover. Hunting down bad guys in the jungles of Panama, working with the CIA, rescuing children from prostitution rings—these aren’t scenes out of an action movie; they’re the real-life exploits of Country Music star Craig Morgan. Even the most devoted fans don’t know all there is to know about the singer and dedicated family man. Now they can go directly to the source, as Craig tells all in his new memoir written with American Sniper co-author Jim DeFelice. God, Family, Country details the many facets of Craig's life. An on-stage appearance with his father’s band at age ten may have planted the seeds for life as a country star, but first he trained as a paratrooper in the army. With a range of combat experience and swift advancement through the ranks, he was on his way to the highest enlisted ranks in the army. Then came a momentous decision: he left the active military to pursue music. With unwavering support from his wife and a pack of part-time jobs, Craig toughed out the lean years and achieved his first big success with the poignant ballad “Almost Home.” Other hits soon followed, from party songs like “Redneck Yacht Club” to the soul-rending “The Father, My Son, and the Holy Ghost.” Born from the anguish of his son Jerry’s passing, the song’s tribute has consoled and inspired millions across the world. Duty to country has been a constant throughout his life and globe-spanning career. In 2006, as “That’s What I Love about Sunday” topped country radio charts, Craig was riding in a convoy of Humvees in Iraq. An avid outdoorsman, a former sheriff’s deputy who’s still a member of the auxiliary, and always a husband and father first, Craig Morgan will inspire you with his life lived by the deepest values: God, family, country.
-  Updated: 2026-08-28T19:35:48Z
+  Updated: 2026-09-07T16:47:27Z
   Vendor: Craig Morgan
   Product Type: Book
   Availability: Available
@@ -299,14 +275,14 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Floating Keychain](https://craigmorgan.merchmadeeasy.com/products/floating-keychain): Redneck Yacht Club Floating Keychain in red.
-  Updated: 2026-08-28T19:35:48Z
+  Updated: 2026-09-08T14:00:23Z
   Vendor: Craig Morgan
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMFLOATKEYCHAIN.png?v=1761768690
   Price: $10.00 USD
 - [Logo Hat - Two Tone](https://craigmorgan.merchmadeeasy.com/products/logo-hat-two-tone): Craig Morgan Two Tone Logo Hat in Dark Green / Natural.
-  Updated: 2026-08-28T19:35:49Z
+  Updated: 2026-09-08T14:00:24Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
@@ -320,21 +296,14 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 11/7 – Nashville, TN](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-11-7-nashville-tn): 📍 Ryman Auditorium One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show. -Tickets To Show Must Be Purchased Separately-
-  Updated: 2026-08-28T19:35:50Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
-- [Craig Morgan VIP 9/5 – Marksville, LA](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-5-marksville-la): 📍 Paragon  Resort One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show. -Tickets To Show Must Be Purchased Separately-
-  Updated: 2026-08-28T19:35:50Z
+  Updated: 2026-09-01T23:06:51Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 10/3 –   Irvington, AL](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-3-irvington-al): 📍 Southern Roots Country Festival One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:50Z
+  Updated: 2026-09-06T20:28:53Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -348,21 +317,21 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 9/18 –  Elizabethtown, NC](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-18-elizabethtown-nc): 📍 Cape Fear Vineyard and Winery One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:51Z
+  Updated: 2026-09-05T17:22:26Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 9/25 –  Baton Rouge, LA](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-25-baton-rouge-la): 📍 L'Auberge  Hotel One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:51Z
+  Updated: 2026-09-06T02:39:17Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 9/26 – Searcy, AR](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-26-searcy-ar): 📍 Get Down Downtown One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:51Z
+  Updated: 2026-09-04T18:14:26Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -376,7 +345,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 9/19 – Windsor, VA](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-19-windsor-va): 📍 Isle of Wight County Fair One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:52Z
+  Updated: 2026-09-07T01:39:22Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -397,7 +366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 10/15 – Lexington, SC](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-15-lexington-sc): 📍 IceHouse Amphitheater One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:53Z
+  Updated: 2026-09-02T12:45:07Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -410,45 +379,76 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
+- [Sunday Hat](https://craigmorgan.merchmadeeasy.com/products/sunday-hat): Craig Morgan Sunday Hat in navy/natural. Snapback Closure
+  Updated: 2026-09-08T16:08:35Z
+  Vendor: Craig Morgan
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMSUNDAYHAT.png?v=1788365573
+  Price: $35.00 USD
+- [Eagle Tee](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1): Eagle Tee in grey with front and back print. 100% Cotton
+  Updated: 2026-09-08T14:00:25Z
+  Vendor: Craig Morgan
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMEAGLETEE-2.png?v=1749672985
+  - [S](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915808988)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915841756)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915874524)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915907292)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915940060)
+    Availability: Available
+    Price: $35.00 USD
+  - [3XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915972828)
+    Availability: Not Available
+    Price: $35.00 USD
 
 ## Collections
 
 - [Home page](https://craigmorgan.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-28T11:26:03Z
-  Total Products: 32
+  Updated: 2026-09-08T14:00:26Z
+  Total Products: 34
 - [Apparel](https://craigmorgan.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-24T11:19:11Z
-  Total Products: 18
+  Updated: 2026-09-08T14:00:26Z
+  Total Products: 19
 - [Accessories](https://craigmorgan.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-28T11:26:03Z
-  Total Products: 8
+  Updated: 2026-09-08T14:00:25Z
+  Total Products: 9
 - [All](https://craigmorgan.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-28T11:26:03Z
-  Total Products: 23
+  Updated: 2026-09-08T14:00:26Z
+  Total Products: 25
 - [Music](https://craigmorgan.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-17T11:20:58Z
+  Updated: 2026-09-04T11:23:07Z
   Total Products: 6
 - [VIP TICKETS](https://craigmorgan.merchmadeeasy.com/collections/vip)
-  Updated: 2026-08-29T13:50:55Z
+  Updated: 2026-09-07T11:20:09Z
   Total Products: 60
 - [Upsell](https://craigmorgan.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-08-28T11:26:03Z
-  Total Products: 8
+  Updated: 2026-09-08T14:00:25Z
+  Total Products: 9
 - [LABOR DAY ](https://craigmorgan.merchmadeeasy.com/collections/labor-day-)
-  Updated: 2026-08-28T11:26:03Z
-  Total Products: 13
+  Updated: 2026-09-08T14:00:26Z
+  Total Products: 19
 - [$20 Tees](https://craigmorgan.merchmadeeasy.com/collections/20-tees)
-  Updated: 2026-08-24T11:19:11Z
+  Updated: 2026-09-08T14:00:22Z
   Total Products: 10
 - [$30 Hoodies](https://craigmorgan.merchmadeeasy.com/collections/30-hoodies)
-  Updated: 2026-08-09T11:22:45Z
+  Updated: 2026-09-08T14:00:20Z
   Total Products: 3
 - [Spring Break Markdowns](https://craigmorgan.merchmadeeasy.com/collections/spring-break-markdowns)
-  Updated: 2026-08-28T11:26:03Z
+  Updated: 2026-09-08T14:00:25Z
   Total Products: 10
 - [BUY ONE, GET ONE FOR $2.50](https://craigmorgan.merchmadeeasy.com/collections/buy-one-get-one-for-2-50)
-  Updated: 2026-08-24T11:19:11Z
-  Total Products: 6
+  Updated: 2026-09-08T14:00:26Z
+  Total Products: 7
 
 ## Store Pages
 
