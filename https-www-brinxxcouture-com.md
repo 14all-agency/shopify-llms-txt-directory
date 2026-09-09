@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-08-21T00:00:53.101Z
+- Updated At: 2026-09-09T00:00:53.868Z
 
 ## Products
 
@@ -61,24 +61,6 @@
   - [L / Taupe](https://www.brinxxcouture.com/products/rib-knit-houndstooth-top-and-skirt-set?variant=41811523731638)
     Availability: Not Available
     Price: $49.99 USD
-- [Floral Sweetheart Top - Brinxx Couture](https://www.brinxxcouture.com/products/floral-sweetheart-top): Be effortlessly chic in this beautiful floral sweetheart top. Crafted in a lightweight material, this piece is designed to flatter your silhouette. Ships Free!
-  Updated: 2026-07-16T02:35:55Z
-  Vendor: Brinxx Couture
-  Product Type: Default
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
-  - [S](https://www.brinxxcouture.com/products/floral-sweetheart-top?variant=41811525271734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
-    Price: $39.99 USD
-  - [M](https://www.brinxxcouture.com/products/floral-sweetheart-top?variant=41811525304502)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
-    Price: $39.99 USD
-  - [L](https://www.brinxxcouture.com/products/floral-sweetheart-top?variant=41811525337270)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
-    Price: $39.99 USD
 - [Prada Candy Perfume - Brinxx Couture](https://www.brinxxcouture.com/products/prada-candy): Prada Candy Eau De Parfum Spray is crafted with top notes of benzoin and musk for a sweet, feminine scent. The vanilla and caramel notes provide a soft, lingering finish.
   Updated: 2026-07-08T20:15:36Z
   Vendor: Brinxx Couture
@@ -356,7 +338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
     Price: $28.00 USD
 - [Textured High Waist Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings): Elevate your yoga practice with our Textured High Waist Yoga Pants. The high waist provides support while the textured fabric adds a touch of style. Move with confidence and comfort, while enhancing your silhouette. Perfect for any active lifestyle.
-  Updated: 2026-08-14T10:26:26Z
+  Updated: 2026-09-08T01:41:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -506,17 +488,17 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2026-07-24T03:53:48Z
+  Updated: 2026-09-06T07:11:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
   - [Black / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461025974)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461058742)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461091510)
@@ -576,7 +558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461550262)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461583030)
@@ -588,7 +570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461648566)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Green / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461681334)
@@ -712,7 +694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
 - [Classic Sparkle Moissanite Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/classic-sparkle-moissanite-necklace): Add a dash of dazzle to your everyday look with the Classic Sparkle Moissanite Necklace. Its shimmering moissanite stone catches the light from every angle.
-  Updated: 2026-07-08T20:15:43Z
+  Updated: 2026-09-04T09:16:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -760,7 +742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-Heart-Ring-Brinxx-Couture-7936.jpg?v=1730298377
     Price: $199.99 USD
 - [1 Carat Moissanite Heart Pendant Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-heart-pendant-necklace): This stunning necklace features a 1 carat heart-shaped moissanite stone that sparkles brilliantly. The pendant is crafted in 925 sterling silver and plated with platinum for a luxurious finish. The necklace comes with a 16-inch chain and an additional 2-inch extension chain, so you can wear it at the length that best suits you. This necklace is the perfect gift for a special occasion or simply to show your loved one how much you care.
-  Updated: 2026-07-08T20:15:43Z
+  Updated: 2026-08-26T22:06:53Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1352,7 +1334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Full-Size-Spliced-Lace-Pull-On-Shaping-Shorts-Brinxx-Couture-5820.jpg?v=1709287583
     Price: $22.00 USD
 - [Lace Trim Pull-On Lifting Shaping Shorts](https://www.brinxxcouture.com/products/full-size-lace-trim-pull-on-lifting-shaping-shorts): Define your waist and accentuate curves with our Lace Trim Pull-On Lifting Shaping Shorts. Available in sizes S-6XL. Shop now @ Brinxx Couture!
-  Updated: 2026-07-26T19:47:57Z
+  Updated: 2026-09-01T00:08:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2200,23 +2182,23 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-08-10T19:13:52Z
-  Total Products: 241
+  Updated: 2026-09-07T16:45:08Z
+  Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover coordinated sets and matching outfits designed for effortless style. From casual to dressy, find perfectly paired pieces.
-  Updated: 2026-07-08T21:35:45Z
-  Total Products: 65
+  Updated: 2026-09-07T16:34:17Z
+  Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-07-08T21:35:45Z
-  Total Products: 40
+  Updated: 2026-09-07T16:39:24Z
+  Total Products: 41
 - [Activewear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
   Updated: 2026-07-08T21:35:22Z
   Total Products: 17
 - [Accessories](https://www.brinxxcouture.com/collections/accessories): Discover curated accessories including jewelry, handbags, scarves, and belts. Elevate any outfit with refined finishing touches.
-  Updated: 2026-07-08T21:35:48Z
-  Total Products: 35
+  Updated: 2026-09-07T16:29:30Z
+  Total Products: 36
 - [Jackets](https://www.brinxxcouture.com/collections/womens-jackets): Discover refined jackets and outerwear for every season. From tailored blazers to cozy coats, find the perfect layer to elevate your style.
   Updated: 2026-08-07T02:11:08Z
   Total Products: 25
@@ -2224,7 +2206,7 @@
   Updated: 2026-07-31T13:23:32Z
   Total Products: 50
 - [Bottoms](https://www.brinxxcouture.com/collections/bottoms): Discover refined bottoms for every occasion. From tailored pants to flowing skirts, find versatile pieces that elevate your everyday style.
-  Updated: 2026-07-08T21:35:38Z
+  Updated: 2026-08-28T03:01:54Z
   Total Products: 25
 - [Hats](https://www.brinxxcouture.com/collections/hats): Discover stylish hats for every season. From classic fedoras to cozy beanies and sun hats, find the perfect topper.
   Updated: 2026-07-08T20:17:25Z
@@ -2239,7 +2221,7 @@
   Updated: 2026-07-08T21:35:06Z
   Total Products: 5
 - [Wigs](https://www.brinxxcouture.com/collections/wigs): Discover high-quality wigs in various styles and colors. From natural looks to bold transformations, find your perfect hair.
-  Updated: 2026-07-08T21:35:52Z
+  Updated: 2026-09-07T16:24:23Z
   Total Products: 11
 - [Perfume](https://www.brinxxcouture.com/collections/womens-perfume): Discover luxury perfumes and fragrances for every mood. From floral to woody scents, find your signature fragrance.
   Updated: 2026-07-08T21:34:49Z
@@ -2257,14 +2239,14 @@
   Updated: 2026-07-08T21:35:39Z
   Total Products: 22
 - [Jewelry](https://www.brinxxcouture.com/collections/womens-jewelry): Discover elegant jewelry including necklaces, earrings, bracelets, and rings. Find delicate pieces to elevate any look.
-  Updated: 2026-07-08T21:35:26Z
-  Total Products: 39
+  Updated: 2026-09-07T16:29:30Z
+  Total Products: 40
 - [Curvy & Confident Tops](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
   Updated: 2026-07-08T21:35:40Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-07-08T21:35:45Z
-  Total Products: 32
+  Updated: 2026-09-07T16:39:24Z
+  Total Products: 33
 - [Plus Size Swimwear](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
   Updated: 2026-07-08T20:16:28Z
   Total Products: 3
@@ -2290,16 +2272,16 @@
   Updated: 2026-07-08T21:35:01Z
   Total Products: 3
 - [New Arrivals – Latest Fashion, Jewelry & Accessories](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they  out.
-  Updated: 2026-08-10T19:13:52Z
-  Total Products: 35
+  Updated: 2026-09-07T16:45:08Z
+  Total Products: 41
 - [Best Sellers](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
-  Updated: 2026-07-08T21:35:36Z
+  Updated: 2026-08-28T03:01:42Z
   Total Products: 13
 - [Jeans](https://www.brinxxcouture.com/collections/jeans): Find the perfect pair of jeans at Brinxx Couture. Shop our collection of stylish and comfortable jeans for women in various fits and styles.
-  Updated: 2026-07-08T21:34:58Z
+  Updated: 2026-09-02T02:30:41Z
   Total Products: 8
 - [Skirts](https://www.brinxxcouture.com/collections/skirts): Discover our collection of trendy skirts for women. From casual to dressy, find the perfect skirt for any occasion at Brinxx Couture.
-  Updated: 2026-07-08T21:35:38Z
+  Updated: 2026-08-28T03:01:54Z
   Total Products: 6
 - [Pants](https://www.brinxxcouture.com/collections/pants): Shop stylish and comfortable pants for women at Brinxx Couture. From casual to formal, find the perfect fit for every occasion.
   Updated: 2026-07-08T21:35:38Z
@@ -2311,7 +2293,7 @@
   Updated: 2026-07-08T21:34:47Z
   Total Products: 5
 - [Heels](https://www.brinxxcouture.com/collections/heels): Shop our Women's Heels Collection for stylish, comfortable, and elegant heels. Perfect for every occasion, from casual outings to formal events. Explore now
-  Updated: 2026-07-30T11:16:31Z
+  Updated: 2026-08-25T17:45:16Z
   Total Products: 30
 - [Flats](https://www.brinxxcouture.com/collections/flats): Discover stylish and comfortable flats for women at Brinxx Couture. Perfect for everyday wear and available in various styles.
   Updated: 2026-07-08T21:35:53Z
