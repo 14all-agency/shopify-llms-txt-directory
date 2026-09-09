@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-09-28T02:47:04Z
 - Contact Email: info@blessedhex.com
-- Updated At: 2026-08-27T00:00:31.674Z
+- Updated At: 2026-09-09T00:00:35.843Z
 
 # Blessèd Hex Candle Company
 
@@ -53,7 +53,7 @@ Email: info@blessedhex.com
 ## Products
 
 - [Haunted Pumpkin — Luxury Horror Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/haunted-pumpkin): Sweet and earthy with creamy clove, nutmeg, cedarwood, and gourd — a Halloween and Samhain fragrance for the harvest season. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz, 4 oz, and 8 oz.
-  Updated: 2026-08-21T06:28:23Z
+  Updated: 2026-08-29T17:16:27Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -62,13 +62,13 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $21.00 USD
   - [4 oz Candle](https://blessedhex.com/products/haunted-pumpkin?variant=43701219360930)
-    Availability: Available
+    Availability: Not Available
     Price: $17.00 USD
   - [2 oz Tester](https://blessedhex.com/products/haunted-pumpkin?variant=36603161968802)
     Availability: Not Available
     Price: $7.00 USD
 - [Library of Alexandria — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/library-of-alexandria): Warm and heady with worn leather, vetiver, and nag champa — an ancient-knowledge fragrance for seekers of wisdom. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:24Z
+  Updated: 2026-08-28T22:46:32Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -80,7 +80,7 @@ Email: info@blessedhex.com
     Availability: Not Available
     Price: $7.00 USD
 - [Banish — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/banish): A clean, woody blend of pinon pine, white sage, and oak moss for banishing bad juju (or just bad smells). Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:13Z
+  Updated: 2026-08-29T20:22:27Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -92,7 +92,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Read the Tea Leaves — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/read-the-tea-leaves): A warm, clean citrus blend of orange peel, cranberry, clove, and black tea for divination and intuition. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:24Z
+  Updated: 2026-08-29T16:57:37Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -104,7 +104,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Yule Log — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/yule-log): Woody and spicy with balsam fir, red cedar, holly berries, and cinnamon bark — a Yule sabbat fragrance for guarding the light through the longest night. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:45Z
+  Updated: 2026-08-28T22:44:07Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -116,7 +116,7 @@ Email: info@blessedhex.com
     Availability: Not Available
     Price: $7.00 USD
 - [Krampus Nacht — Luxury Horror Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/krampus-nacht): Woody, spiced holiday horror fragrance with snow-dusted pine, hot rum, and vanilla. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. Available in 2 oz, 8 oz, and 12 oz.
-  Updated: 2026-08-21T06:28:45Z
+  Updated: 2026-08-28T22:47:37Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -131,7 +131,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $30.00 USD
 - [Eternal Life — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/eternal-life): Spicy and warm with clove, cypress, and cassia root — a healing-charm fragrance inspired by centuries-old embalming lore. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:14Z
+  Updated: 2026-08-28T22:44:27Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -164,7 +164,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $150.00 USD
 - [Bubeleh Later — Luxury Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/bubeleh-later): Warm and slightly powdery with fig, bergamot, sandalwood, and amber — a confident, cologne-like scent for commanding a room. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:13Z
+  Updated: 2026-08-29T17:22:27Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -175,7 +175,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Marie Antoinette's Last Breath — Luxury Horror Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/marie-antoinettes-last-breath): A delicate, warm floral of lavender, pink magnolia, and freshly cut grass, inspired by the final moments of history's most famous queen. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:45Z
+  Updated: 2026-08-29T17:16:27Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -187,7 +187,7 @@ Email: info@blessedhex.com
     Availability: Not Available
     Price: $7.00 USD
 - [Glastonbury Grove — Luxury Metaphysical Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/glastonbury-grove): Clean and earthy with chamomile, geranium, and sage — a mild unisex floral inspired by ancient magic and liminal thresholds. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:46Z
+  Updated: 2026-08-29T16:57:41Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -199,7 +199,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Juno — Luxury Mythology Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/juno): A juicy, sharp citrus scent of ruby red grapefruit, yuzu, and lemon inspired by the queen of the Roman gods. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:46Z
+  Updated: 2026-08-30T21:00:41Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -211,7 +211,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Aristotle's Aquatic Adventures — Luxury Horror Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/aristotles-aquatic-adventures): Earthy, woody, and spicy — Cuban tobacco flowers, white cedar, black pepper, and bay rum evoke a lightning-lit encounter with something rising from the deep. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:13Z
+  Updated: 2026-08-28T22:45:17Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -223,7 +223,7 @@ Email: info@blessedhex.com
     Availability: Not Available
     Price: $7.00 USD
 - [Nefertiti's Sarcophagus — Luxury Horror Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/nefertitis-sarcophagus): Our signature fragrance — Egyptian musk, blue lotus, neroli, and black oud, inspired by an awakened queen. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:46Z
+  Updated: 2026-08-30T21:04:37Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -259,7 +259,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $38.00 USD
 - [Dark Splendor — Luxury Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/dark-splendor): Warm and earthy, smelling exactly like freshly-ground dark roast coffee. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:14Z
+  Updated: 2026-08-29T17:16:28Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -271,7 +271,7 @@ Email: info@blessedhex.com
     Availability: Available
     Price: $7.00 USD
 - [Lustre — Luxury Candle | Vegan Soy | Blessèd Hex](https://blessedhex.com/products/lustre): Clean, woody, and sweet with sandalwood, coconut cream, and vanilla — a moonlit, mysterious island fragrance. Hand-poured with 100% American soy wax and a lead-free cotton wick in a recyclable tin. 2 oz and 8 oz.
-  Updated: 2026-08-21T06:28:47Z
+  Updated: 2026-08-29T17:16:28Z
   Vendor: Blessed Hex
   Product Type: Candle
   Availability: Available
@@ -286,25 +286,25 @@ Email: info@blessedhex.com
 ## Collections
 
 - [Home page](https://blessedhex.com/collections/frontpage): Hand-poured, vegan soy candles inspired by horror, folklore, and the occult. Lead-free cotton wicks, recyclable tins, and a tree planted with every order. Wholesale available.
-  Updated: 2026-08-21T08:18:38Z
+  Updated: 2026-08-30T11:18:45Z
   Total Products: 12
 - [Winter Collection](https://blessedhex.com/collections/winter-collection): Cozy, vegan soy candles for the darkest nights of the year, hand-poured with recyclable tins and lead-free cotton wicks. Woody, spiced, and warm winter fragrances.
   Updated: 2026-08-19T14:04:44Z
   Total Products: 3
 - [Recommended products (Seguno)](https://blessedhex.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-07-21T11:15:18Z
-  Total Products: 18
+  Updated: 2026-08-31T11:16:29Z
+  Total Products: 17
 - [Spring & Summer Collection](https://blessedhex.com/collections/spring-summer-collection): Bright, vegan soy candles for the lighter half of the year, hand-poured with recyclable tins and lead-free cotton wicks. Floral, citrus, and clean warm-weather fragrances.
-  Updated: 2026-08-19T14:04:49Z
+  Updated: 2026-08-31T11:16:29Z
   Total Products: 8
 - [Fall & Winter Collection](https://blessedhex.com/collections/fall-winter-collection): Spiced, woody, and earthy vegan soy candles for the darker half of the year, hand-poured with recyclable tins and lead-free cotton wicks.
-  Updated: 2026-08-19T14:04:53Z
+  Updated: 2026-08-30T11:18:45Z
   Total Products: 8
 - [Year-Round Favorites](https://blessedhex.com/collections/year-round-favorites): Our best- vegan soy candles, in fragrances that work in every season. Hand-poured with recyclable tins and lead-free cotton wicks.
-  Updated: 2026-08-19T14:04:58Z
+  Updated: 2026-08-30T11:18:45Z
   Total Products: 7
 - [Holiday Best Sellers](https://blessedhex.com/collections/holiday-best-sellers): Our most-gifted vegan soy candles for the holiday season, hand-poured with recyclable tins and lead-free cotton wicks. A great gift for the discerning nose on your list — wholesale available.
-  Updated: 2026-08-19T14:05:01Z
+  Updated: 2026-08-31T11:16:29Z
   Total Products: 7
 
 ## Store Pages
