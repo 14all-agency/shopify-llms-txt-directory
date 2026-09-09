@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-08-29T00:00:28.009Z
+- Updated At: 2026-09-09T00:00:28.009Z
 
 ## Products
 
 - [PickleUp Pro Cramp Shot - Pineapple](https://pickleupshot.com/products/pro-cramp-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-08-28T21:57:36Z
+  Updated: 2026-09-08T18:06:46Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -54,16 +54,16 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-08-28T11:21:12Z
+  Updated: 2026-09-08T11:25:45Z
   Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-08-28T11:21:12Z
+  Updated: 2026-09-08T11:25:45Z
   Total Products: 1
 - [Merch](https://pickleupshot.com/collections/merch)
   Updated: 2026-06-06T11:19:05Z
   Total Products: 1
 - [Performance Cramp Shots](https://pickleupshot.com/collections/performance-cramp-shots)
-  Updated: 2026-08-28T11:21:12Z
+  Updated: 2026-09-08T11:25:45Z
   Total Products: 1
 
 ## Blogs
@@ -239,6 +239,18 @@
     Updated: 2026-08-27T09:22:55Z
     Author: PickleUp
     Tags: muscle cramps, pickle juice for cramps, racket sports, sports nutrition, squash
+  - [Pickle Juice vs Bananas for Cramps: What Works? | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-vs-bananas-for-cramps): Pickle Juice vs Bananas for Cramps: What Works? | PickleUp
+    Updated: 2026-08-31T09:08:00Z
+    Author: PickleUp
+    Tags: muscle cramps, pickle juice for cramps, pickle juice vs bananas, potassium for cramps, sports nutrition
+  - [How Pro Clubs Use Pickle Juice for Cramps | PickleUp](https://pickleupshot.com/blogs/news/how-pro-clubs-use-pickleup-pro-cramp-shot): How Pro Clubs Use Pickle Juice for Cramps | PickleUp
+    Updated: 2026-09-03T09:12:37Z
+    Author: PickleUp
+    Tags: cricket, drink pickle juice for cramps, is pickle juice good for cramps, muscle cramps and pickle juice, pickle juice for cramps
+  - [Pickle Juice vs Mustard for Cramps: Does Mustard Work?](https://pickleupshot.com/blogs/news/pickle-juice-vs-mustard-for-cramps): Pickle Juice vs Mustard for Cramps: Does Mustard Work?
+    Updated: 2026-09-07T09:29:10Z
+    Author: PickleUp
+    Tags: acetic acid, cramp science, muscle cramps and pickle juice, mustard for cramps, pickle juice for cramps, pickle juice vs mustard
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
     Updated: 2025-09-17T14:51:53Z
