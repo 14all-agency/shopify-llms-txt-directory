@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-22T16:28:59Z
 - Contact Email: ArtDog@ArtDogs.co
-- Updated At: 2026-08-28T00:00:46.587Z
+- Updated At: 2026-09-09T00:00:43.402Z
 
 ## Products
 
 - [Jezebel's Tongue Mens Tracksuit Trousers](https://artdogs.net/products/jezebels-spirit-tracksuit-pants): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. The Rox Sports Jersey Fabric is smooth and comfortable. The side stripe detailing complements the silhouette. Pair with the Jezebel Tongue Jacket for a sharp tracksuit or wear with a white or black hoodie or zip polo. Either way you style them, the trousers look and feel great. Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Handmade to order Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS:73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-08-27T02:37:18Z
+  Updated: 2026-08-30T21:34:39Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
@@ -53,14 +53,14 @@
     Availability: Available
     Price: $319.00 USD
 - [Jezebel's Tongue Silk Tie](https://artdogs.net/products/jezebels-spirit-tie): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. The 100% real Silk Satin 58.5" one-size tie pairs well with either the bold and colorful shirts of the season or classic black for a dressier look. Premium Ties Premium Ties 100% real Silk Satin 58.5" long One size available Printed to order Handmade to order Dry clean only .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2026-08-27T02:50:27Z
+  Updated: 2026-08-29T22:51:36Z
   Vendor: Contrado
   Product Type: Handmade Silk Tie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-jezebels-tongue-silk-tie-handmade-silk-tie-p35263847-image-01-featured.png?v=1787797305
   Price: $189.00 USD
 - [Jezebel's Tongue Mens Short Sleeve Shirt](https://artdogs.net/products/jezebels-spirit-button-up-short-sleeve-t-shirt): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. Jezebel's Tongue short-sleeve shirt is made with a breathable fabric with mother-of-pearl buttons. Get noticed by wearing the interesting strip design that pairs well with white, dark, bright, or black jeans or shorts. The casual, breathable, comfortable fabric with Mother of Pearl buttons makes the shirt the perfect one to pack for a vacation, serving as day-to-night attire. Designer Button Up Shirt Designer Button Up Shirt Breathable, comfortable fabric Mother of pearl buttons, with extra included Casual short sleeve style Printed all over with my designs Handmade to order Wash at 86°F, low tumble dry heat, hang to dry, do not wring, low heat iron. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS:92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-08-27T02:29:48Z
+  Updated: 2026-08-30T21:34:37Z
   Vendor: Contrado
   Product Type: Mens Short Sleeve Shirt
   Availability: Available
@@ -102,7 +102,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Jezebel's Tongue Mens Tracksuit Jacket](https://artdogs.net/products/jezebels-spirit-tracksuit): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. The Rox Sports Jersey Fabric is the one you'll wear repeatedly. The smooth, soft, comfortable Rox Sports Jersey Fabric looks as good as it feels. The side strip detailing enhances the silhouette. Sizes 2XS-XL Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Handmade to order Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS:73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " About the Art Jezebel's Tongue Mens Tracksuit Jacket brings emotional intensity and dramatic contrast to this mens tracksuit jacket. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:50:37Z
+  Updated: 2026-08-30T21:34:38Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Jacket
   Availability: Available
@@ -144,7 +144,7 @@
     Availability: Available
     Price: $299.00 USD
 - [Rainbow](https://artdogs.net/products/rainbow): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standard
-  Updated: 2026-08-27T03:00:21Z
+  Updated: 2026-08-29T14:53:06Z
   Vendor: ArtDogs LLC
   Product Type: Long Scarf
   Availability: Available
@@ -162,7 +162,7 @@
     Availability: Available
     Price: $149.00 USD
 - [Rose of Pain and Joy 2 Men's Bomber Jacket](https://artdogs.net/products/x): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and responsibly made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the fine artwork of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub. You choose the fabric of the Rose of Pain and Joy Men's Bomber Jacket. Your choice is a Waterproof exterior and quilted-lined interior for warmth, a jersey exterior and lined interior, a satin exterior and lined interior, or a marble-velvet exterior and Quilted interior. The classic fit, fully lined bomber jacket features ribbed cuffs and a high-quality zipper for a fashionable layer of warmth and style. Designer Bomber Jacket (Cut & Sew) Designer Bomber Jacket (Cut & Sew) Classic fit bomber jacket Fully lined interior Ribbed cuffs and waist High quality zip Handmade to order 86°F wash. Dry flat. Do not tumble dry. Cool iron. Alternatively can be professionally dry cleaned. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: Chest XXS: 81 - 86 cm 32 - 34 " XS:86 - 91 cm 34 - 36 " S: 91 - 96 cm 36 - 38 " M: 96 - 101 cm 38 - 40 " L: 101 - 106 cm 40 - 42 " XL: 106 - 111 cm 42 - 44 " 2XL: 111 - 119 cm 44 - 47 " 3XL: 119 - 127 cm 47 - 50 " 4XL: 127 - 135 cm 50 - 53 " Waist XXS: 66 - 71 cm 26 - 28 " XS: 71 - 76 cm 28 - 30 " S: 76 - 81 cm 30 - 32 " M: 81 - 86 cm 32 - 34 " L: 86 - 91 cm 34 - 36 " XL: 91 - 96 cm 36 - 38 " 2XL: 96 - 104 cm 38 - 41 " 3XL: 104 - 112 cm 41 - 44 " 4XL: 112 - 120 cm 44 - 47 "
-  Updated: 2026-08-27T02:30:10Z
+  Updated: 2026-08-30T21:34:37Z
   Vendor: Contrado
   Product Type: Mens Bomber Jacket
   Availability: Available
@@ -276,7 +276,7 @@
     Availability: Available
     Price: $329.00 USD
 - [Peacock Feathers Women's Trousers](https://artdogs.net/products/x-1): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat! Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. Peacock Feathers Women's Trousers feature wide legs, lined pockets, and an elasticated waistband, making them ideal for lounging, travel, daywear, or outerwear. The fabric has a slight, light-reflecting sheen, making the pants versatile. The trousers dress up well, paired with a silk satin top for a night out on the town, but look and feel casual with a chambray top and duster. Designer Printed Pants Designer Printed Pants Wide leg and lined pockets Elasticated waistband Drawstring detail Handmade to order Ideal for lounge, day or outer wear Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XS: S: M: L: XL: 2XL: Waist XS:54 - 62 cm 21 - 24 " S: 62 - 70 cm 24 - 28 " M: 70 - 78 cm 28 - 31 " L: 78 - 86 cm 31 - 34 " XL: 86 - 94 cm 34 - 37 " 2XL: 94 - 106 cm 37 - 42 " Hips XS: 79 - 87 cm 31 - 34 " S: 87 - 95 cm 34 - 37 " M: 95 - 103 cm 37 - 41 " L: 103 - 111 cm 41 - 44 " XL: 111 - 119 cm 44 - 47 " 2XL: 119 - 131 cm 47 - 52 "
-  Updated: 2026-08-27T02:30:10Z
+  Updated: 2026-08-30T21:34:37Z
   Vendor: Contrado
   Product Type: Womens Trousers
   Availability: Available
@@ -300,7 +300,7 @@
     Availability: Available
     Price: $169.00 USD
 - [Spirit of Jezebel Mens Tracksuit Trousers](https://artdogs.net/products/x-2): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat. Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. The Spirit of Jezebel Tracksuit trousers pair well with sweatshirts, Hoodies, t-shirts, and the Spirit of Jezebel Tracksuit jacket. The jacket and trousers are sold separately. Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Handmade to order Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS:73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-08-27T02:37:39Z
+  Updated: 2026-08-30T13:03:22Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
@@ -342,7 +342,7 @@
     Availability: Available
     Price: $319.00 USD
 - [The Wide Path Two Sweatshirt](https://artdogs.net/products/x-3): We take our Fine art to the cloth for you because you're fine. Why? Because when you wear our clothes that end child exploitation, are sustainable, fair trade, and made with eco-friendly inks, you make a difference in the world. The comfort and wearability of our made-to-order clothes is just one of your rewards, but the quality of the garments is the real treat! Our fabric designs originate from the Fine art work of artist John Robert Hermann as Art-wear fashion. Each piece is handmade to order in London on Abbey Road, the cultural hub that was The Beatles' stomping ground. The Wide Path Two Sweatshirt Unisex is made from 100% Poly Jersey with a ribbed neck, cuffs, and hem. The sweater pairs well with jeans and khakis for a dressier twist to comfort. Choose the fabric type and size. Enjoy the comfort of the relaxed fit. Designer Sweatshirt Designer Sweatshirt 100% poly Jersey Unisex design Relaxed fit Ribbed neck, cuffs and hem Handmade to order Turn inside out, wash 86°F, hang to dry or low heat tumble dry. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XS: S: M: L: XL: 2XL: 3XL: 4XL: Chest XS:86 - 91 cm 34 - 36 " S: 91 - 96 cm 36 - 38 " M: 96 - 101 cm 38 - 40 " L: 101 - 106 cm 40 - 42 " XL: 106 - 111 cm 42 - 44 " 2XL: 111 - 119 cm 44 - 47 " 3XL: 119 - 127 cm 47 - 50 " 4XL: 127 - 135 cm 50 - 53 " Waist XS: 71 - 76 cm 28 - 30 " S: 76 - 81 cm 30 - 32 " M: 81 - 86 cm 32 - 34 " L: 86 - 91 cm 34 - 36 " XL: 91 - 96 cm 36 - 38 " 2XL: 96 - 104 cm 38 - 41 " 3XL: 104 - 112 cm 41 - 44 " 4XL: 112 - 120 cm 44 - 47 "
-  Updated: 2026-08-27T02:35:47Z
+  Updated: 2026-08-30T21:34:37Z
   Vendor: Contrado
   Product Type: Sweatshirt
   Availability: Available
@@ -420,7 +420,7 @@
     Availability: Available
     Price: $189.00 USD
 - [Spirit of the Age 1](https://artdogs.net/products/spirit-of-the-age-1): Our Art wear tracksuit jacket is a classic zip-up style. The super comfortable and stylish jacket is versatile paired with tracksuit pants or jeans. There are two pockets; both pockets have a zipper so items won't fall out when you're on the move. Rest assured, the jacket is handmade, with fair trade, sweatshop free, and produced in a green eco-friendly environment. For a "Fly" look, also buy and wear the "Spirit of the Age " tracksuit pants!
-  Updated: 2026-08-27T02:03:19Z
+  Updated: 2026-08-30T07:18:10Z
   Vendor: ArtDogs LLC
   Product Type: Men's Tracksuit Jacket
   Availability: Available
@@ -498,7 +498,7 @@
     Availability: Available
     Price: $379.00 USD
 - [Bird House 7](https://artdogs.net/products/bird-house-24): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 7 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:45Z
+  Updated: 2026-08-29T22:52:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -528,7 +528,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Too Many Flowers](https://artdogs.net/products/too-many-flowers-8): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Too Many Flowers brings energetic color and expressive rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:44Z
+  Updated: 2026-08-29T14:53:06Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -558,7 +558,7 @@
     Availability: Available
     Price: $219.00 USD
 - [In the Beginning was the Word](https://artdogs.net/products/in-the-beginning-was-the-word-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art In the Beginning was the Word brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:46Z
+  Updated: 2026-08-29T22:52:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -588,7 +588,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Grandma's Gift](https://artdogs.net/products/grandmas-gift-7): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Grandma's Gift brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:53Z
+  Updated: 2026-09-04T20:15:31Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -618,7 +618,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Carnality](https://artdogs.net/products/carnality-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Carnality brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:55Z
+  Updated: 2026-08-29T14:53:07Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -648,7 +648,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 3](https://artdogs.net/products/unfathomable-22): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 3 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:55Z
+  Updated: 2026-08-29T14:53:07Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -678,7 +678,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Beauty Behind the Veil](https://artdogs.net/products/beauty-behind-the-veil-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Beauty Behind the Veil brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:55Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -708,7 +708,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Grandma's Gift 1](https://artdogs.net/products/grandmas-gift-8): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Grandma's Gift 1 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:56Z
+  Updated: 2026-08-29T14:53:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -738,7 +738,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 9](https://artdogs.net/products/unfathomable-23): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 9 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:54Z
+  Updated: 2026-08-29T14:53:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -768,7 +768,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 2](https://artdogs.net/products/unfathomable-24): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 2 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:57Z
+  Updated: 2026-08-29T14:53:07Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -798,7 +798,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Chaos and Order](https://artdogs.net/products/chaos-and-order-4): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America.About the Art Chaos and Order brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:56Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -828,7 +828,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 8](https://artdogs.net/products/unfathomable-25): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 8 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:56Z
+  Updated: 2026-08-29T14:53:07Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -858,11 +858,11 @@
     Availability: Available
     Price: $219.00 USD
 - [Afterlife](https://artdogs.net/products/afterlife-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.
-  Updated: 2026-08-27T02:19:38Z
+  Updated: 2026-08-30T13:04:02Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-afterlife-square-scarf-p60534375-image-01-featured.png?v=1787797176
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/archived-incorrect-afterlife-square-scarf-01-2026-08-29.png?v=1787967223
   - [Silk Habotai / 16" x 16"](https://artdogs.net/products/afterlife-1?variant=41825967210599)
     Availability: Available
     Price: $99.00 USD
@@ -888,7 +888,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Depth 4](https://artdogs.net/products/depth-24): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.
-  Updated: 2026-08-27T02:26:35Z
+  Updated: 2026-08-29T14:53:09Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -918,7 +918,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Dismay](https://artdogs.net/products/dismay-3): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Dismay brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:55Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -948,7 +948,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 2](https://artdogs.net/products/bird-house-25): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Bird House 2 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:05Z
+  Updated: 2026-08-29T14:53:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -978,7 +978,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 4](https://artdogs.net/products/venery-15): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 4 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:56Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1008,7 +1008,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Life](https://artdogs.net/products/life-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary with travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.
-  Updated: 2026-08-27T02:15:36Z
+  Updated: 2026-08-29T14:53:07Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1038,7 +1038,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Rainbow Haze](https://artdogs.net/products/rainbow-haze-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.
-  Updated: 2026-08-27T02:28:13Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1068,7 +1068,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Depth 3](https://artdogs.net/products/depth-25): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.
-  Updated: 2026-08-27T02:26:35Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1098,7 +1098,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Mourning's Wrath](https://artdogs.net/products/mournings-wrath-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.
-  Updated: 2026-08-27T02:16:46Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1128,7 +1128,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 7](https://artdogs.net/products/venery-16): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 7 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:57Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1158,7 +1158,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 7](https://artdogs.net/products/unfathomable-26): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Unfathomable 7 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:59Z
+  Updated: 2026-08-29T14:53:09Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1188,7 +1188,7 @@
     Availability: Available
     Price: $219.00 USD
 - [That is Interesting](https://artdogs.net/products/that-is-interesting-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art That is Interesting brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:04Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1218,7 +1218,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Rainbow Daze](https://artdogs.net/products/rainbow-daze-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.
-  Updated: 2026-08-27T02:28:13Z
+  Updated: 2026-08-29T14:53:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1248,7 +1248,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Depth 2](https://artdogs.net/products/depth-26): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Depth 2 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:01Z
+  Updated: 2026-08-29T14:53:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1278,7 +1278,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Ethereal](https://artdogs.net/products/ethereal-3): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Ethereal brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:57Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1308,7 +1308,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Heaven/Hell or Yin/Yang 4](https://artdogs.net/products/heaven-hell-or-yin-yang-5): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Heaven/Hell or Yin/Yang 4 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:02Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1338,7 +1338,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Leafage](https://artdogs.net/products/leafage-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Leafage brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:59Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1368,7 +1368,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 8](https://artdogs.net/products/bird-house-26): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Bird House 8 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:59Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1398,7 +1398,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 5](https://artdogs.net/products/bird-house-27): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 5 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:57:58Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1428,7 +1428,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 1](https://artdogs.net/products/unfathomable-27): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 1 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:13Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1458,7 +1458,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 6](https://artdogs.net/products/unfathomable-28): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Unfathomable 6 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:12Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1488,7 +1488,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 5](https://artdogs.net/products/venery-17): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Venery 5 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:11Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1518,7 +1518,7 @@
     Availability: Available
     Price: $219.00 USD
 - [In the Beginning Was the Word](https://artdogs.net/products/in-the-beginning-was-the-word-3): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art In the Beginning Was the Word brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:13Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1548,7 +1548,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Depth 7](https://artdogs.net/products/depth-27): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight silk scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Depth 7 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:11Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1578,7 +1578,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Heaven/Hell or Yin/Yang 1](https://artdogs.net/products/heaven-hell-or-yin-yang-6): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Heaven/Hell or Yin/Yang 1 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:13Z
+  Updated: 2026-08-29T14:53:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1608,7 +1608,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 11](https://artdogs.net/products/venery-18): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Venery 11 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:14Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1638,7 +1638,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Intersect 2](https://artdogs.net/products/intersect-9): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Intersect 2 brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:12Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1668,11 +1668,11 @@
     Availability: Available
     Price: $219.00 USD
 - [Angel of Death 3](https://artdogs.net/products/angel-of-death-5): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Angel of Death 3 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:19Z
+  Updated: 2026-08-30T13:42:22Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-3-square-scarf-p63385191-image-01-featured.png?v=1787797200
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-3-square-scarf-corrected-image-04_36bbc745-37f9-4018-bab8-4df7cbe7f3b7.png?v=1788054141
   - [Silk Habotai / 16" x 16"](https://artdogs.net/products/angel-of-death-5?variant=41825976483943)
     Availability: Available
     Price: $99.00 USD
@@ -1698,7 +1698,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Resolving Ire](https://artdogs.net/products/resolving-ire-5): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Resolving Ire brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:13Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1728,7 +1728,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 1](https://artdogs.net/products/bird-house-28): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 1 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:15Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1758,7 +1758,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 12](https://artdogs.net/products/unfathomable-29): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Unfathomable 12 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:14Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1788,7 +1788,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Intersect 3](https://artdogs.net/products/intersect-10): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Intersect 3 brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:22Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1818,7 +1818,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 4](https://artdogs.net/products/bird-house-29): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Bird House 4 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:15Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1848,7 +1848,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 6](https://artdogs.net/products/venery-19): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 6 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:14Z
+  Updated: 2026-08-29T14:53:09Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1878,7 +1878,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 2](https://artdogs.net/products/venery-20): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 2 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:15Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1908,7 +1908,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Unfathomable 11](https://artdogs.net/products/unfathomable-30): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Unfathomable 11 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:20Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1938,7 +1938,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Heaven/Hell or Yin/Yang 3](https://artdogs.net/products/heaven-hell-or-yin-yang-7): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Heaven/Hell or Yin/Yang 3 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:21Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1968,7 +1968,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Depth 5](https://artdogs.net/products/depth-28): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Depth 5 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:15Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1998,7 +1998,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Possibilities of Life](https://artdogs.net/products/possibilities-of-life-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Possibilities of Life brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:15Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2028,7 +2028,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Valley of Shadow of Death](https://artdogs.net/products/valley-of-shadow-of-death-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Valley of Shadow of Death brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:16Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2058,7 +2058,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Reality](https://artdogs.net/products/reality-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Reality brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:18Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2088,7 +2088,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Grandma's Gift 3](https://artdogs.net/products/grandmas-gift-9): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Grandma's Gift 3 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:19Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2118,7 +2118,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 10](https://artdogs.net/products/venery-21): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 10 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:21Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2148,7 +2148,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Intersect 1](https://artdogs.net/products/intersect-11): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Intersect 1 brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:58:23Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2178,7 +2178,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Gathering the Four Winds](https://artdogs.net/products/gathering-the-four-winds-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Gathering the Four Winds brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:05Z
+  Updated: 2026-08-29T14:53:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2208,7 +2208,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Leaves](https://artdogs.net/products/leaves-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Leaves brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:06Z
+  Updated: 2026-08-29T14:53:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2238,7 +2238,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Grandma's Gift 2](https://artdogs.net/products/grandmas-gift-10): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Grandma's Gift 2 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:06Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2268,7 +2268,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 9](https://artdogs.net/products/venery-22): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 9 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:05Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2298,7 +2298,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 3](https://artdogs.net/products/bird-house-30): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Bird House 3 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:06Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2328,7 +2328,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Bird House 6](https://artdogs.net/products/bird-house-31): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Bird House 6 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:07Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2358,7 +2358,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Love's Passion](https://artdogs.net/products/loves-passion-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Love's Passion brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:06Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2388,7 +2388,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 8](https://artdogs.net/products/venery-23): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 8 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:07Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2418,7 +2418,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Carnality](https://artdogs.net/products/carnality-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Carnality brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-29T14:53:13Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2448,7 +2448,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Possibilities of Life](https://artdogs.net/products/possibilities-of-life-3): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Possibilities of Life brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2478,7 +2478,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Garbage Monkey 1](https://artdogs.net/products/garbage-monkey-11): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Garbage Monkey 1 brings playful disruption and unexpected visual energy to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-29T14:53:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2508,7 +2508,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Leaf](https://artdogs.net/products/leaf-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Leaf brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:07Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2538,7 +2538,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Heaven/Hell or Yin/Yang 2](https://artdogs.net/products/heaven-hell-or-yin-yang-8): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Heaven/Hell or Yin/Yang 2 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-29T22:52:19Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2568,11 +2568,11 @@
     Availability: Available
     Price: $219.00 USD
 - [Angel of Death 2](https://artdogs.net/products/angel-of-death-6): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Angel of Death 2 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:10Z
+  Updated: 2026-08-31T00:42:19Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-2-square-scarf-p66268775-image-01-featured.png?v=1787797200
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-2-square-scarf-archived-incorrect-image-06.png?v=1788046093
   - [Silk Habotai / 16" x 16"](https://artdogs.net/products/angel-of-death-6?variant=41825989001319)
     Availability: Available
     Price: $99.00 USD
@@ -2598,7 +2598,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Venery 3](https://artdogs.net/products/venery-24): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 3 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:10Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2628,7 +2628,7 @@
     Availability: Available
     Price: $219.00 USD
 - [God Log Parallel Top](https://artdogs.net/products/god-log-parallel-top-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art God Log Parallel Top brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2658,11 +2658,11 @@
     Availability: Available
     Price: $219.00 USD
 - [Angel of Death 4](https://artdogs.net/products/angel-of-death-7): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Angel of Death 4 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:08Z
+  Updated: 2026-08-31T01:41:19Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-4-square-scarf-p66596455-image-01-featured.png?v=1787797227
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-4-square-scarf-archived-incorrect-image-01.png?v=1788096904
   - [Silk Habotai / 16" x 16"](https://artdogs.net/products/angel-of-death-7?variant=41825990443111)
     Availability: Available
     Price: $99.00 USD
@@ -2688,7 +2688,7 @@
     Availability: Available
     Price: $219.00 USD
 - [God Log Top Center](https://artdogs.net/products/god-log-top-center-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art God Log Top Center brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:09Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2718,11 +2718,11 @@
     Availability: Available
     Price: $219.00 USD
 - [Angel of Death 1](https://artdogs.net/products/angel-of-death-8): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Angel of Death 1 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:10Z
+  Updated: 2026-08-31T00:41:31Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-1-square-scarf-p66760295-image-01-featured.png?v=1787797176
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-angel-of-death-1-square-scarf-archived-incorrect-image-08.png?v=1788018666
   - [Silk Habotai / 16" x 16"](https://artdogs.net/products/angel-of-death-8?variant=41825991262311)
     Availability: Available
     Price: $99.00 USD
@@ -2748,7 +2748,7 @@
     Availability: Available
     Price: $219.00 USD
 - [God Log Parallel Bottom](https://artdogs.net/products/god-log-parallel-bottom-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art God Log Parallel Bottom brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:10Z
+  Updated: 2026-08-29T22:52:17Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2778,7 +2778,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Garbage Monkey 4](https://artdogs.net/products/garbage-monkey-12): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight silk scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Garbage Monkey 4 brings playful disruption and unexpected visual energy to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:12Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2808,7 +2808,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Mire](https://artdogs.net/products/mire-2): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight silk scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Mire brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:21Z
+  Updated: 2026-08-29T14:53:12Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2838,7 +2838,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Leaves](https://artdogs.net/products/leaves-3): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Leaves brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-08-27T04:59:10Z
+  Updated: 2026-08-29T14:53:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2872,17 +2872,17 @@
 ## Collections
 
 - [Square Scarf](https://artdogs.net/collections/scarves)
-  Updated: 2026-08-26T01:27:04Z
-  Total Products: 98
+  Updated: 2026-08-29T19:21:08Z
+  Total Products: 183
 - [Long Scarf](https://artdogs.net/collections/long-scarf)
-  Updated: 2026-08-26T01:27:04Z
-  Total Products: 93
+  Updated: 2026-08-29T19:21:07Z
+  Total Products: 119
 - [Capris](https://artdogs.net/collections/capris): Shop women’s capri exercise pants designed for comfort and performance. Explore stylish, breathable, and flexible capris perfect for everyday wear.
-  Updated: 2026-08-26T01:25:09Z
-  Total Products: 8
+  Updated: 2026-08-29T19:19:27Z
+  Total Products: 14
 - [Draped Kimonos](https://artdogs.net/collections/draped-kimono)
-  Updated: 2026-08-26T01:24:13Z
-  Total Products: 5
+  Updated: 2026-08-29T19:17:46Z
+  Total Products: 7
 - [Kimono Robe](https://artdogs.net/collections/kimono-robe)
   Updated: 2026-08-26T01:25:31Z
   Total Products: 15
@@ -2893,26 +2893,26 @@
   Updated: 2026-08-26T01:24:45Z
   Total Products: 5
 - [Robed & Draped Kimonos](https://artdogs.net/collections/robed-draped-kimonos)
-  Updated: 2026-08-26T01:24:13Z
-  Total Products: 4
-- [Unisex & Women’s T-Shirts](https://artdogs.net/collections/unisex-women-s-t-shirts)
-  Updated: 2026-08-26T01:27:03Z
-  Total Products: 59
-- [Pegnoirs](https://artdogs.net/collections/peignoirs)
-  Updated: 2026-08-26T01:25:31Z
+  Updated: 2026-08-29T19:20:35Z
   Total Products: 8
+- [Unisex & Women’s T-Shirts](https://artdogs.net/collections/unisex-women-s-t-shirts)
+  Updated: 2026-08-29T19:19:22Z
+  Total Products: 74
+- [Pegnoirs](https://artdogs.net/collections/peignoirs)
+  Updated: 2026-08-29T19:18:05Z
+  Total Products: 9
 - [Women's Clothing](https://artdogs.net/collections/womens-clothing)
-  Updated: 2026-08-26T01:27:23Z
-  Total Products: 222
+  Updated: 2026-08-29T19:22:22Z
+  Total Products: 378
 - [Men's Clothing](https://artdogs.net/collections/mens-clothing)
-  Updated: 2026-08-26T01:27:04Z
-  Total Products: 106
+  Updated: 2026-08-29T19:21:48Z
+  Total Products: 149
 - [Unisex Clothing](https://artdogs.net/collections/unisex-clothing)
-  Updated: 2026-08-26T01:27:21Z
-  Total Products: 169
+  Updated: 2026-08-29T19:22:15Z
+  Total Products: 251
 - [Accessories](https://artdogs.net/collections/accessories): Shop ArtDogs women’s fashion accessories featuring stylish, unique designs. Discover scarves, apparel, and everyday essentials crafted for comfort and style.
-  Updated: 2026-08-26T01:27:04Z
-  Total Products: 209
+  Updated: 2026-08-29T19:22:05Z
+  Total Products: 324
 - [Women Bomber Jackets](https://artdogs.net/collections/bomber-jackets)
   Updated: 2026-08-26T01:27:21Z
   Total Products: 8
@@ -2923,8 +2923,8 @@
   Updated: 2026-08-26T01:27:22Z
   Total Products: 13
 - [Dresses](https://artdogs.net/collections/dresses)
-  Updated: 2026-08-26T01:27:15Z
-  Total Products: 29
+  Updated: 2026-08-29T19:22:21Z
+  Total Products: 62
 - [Long Dresses](https://artdogs.net/collections/long-dresses)
   Updated: 2026-08-26T01:27:15Z
   Total Products: 27
@@ -2932,35 +2932,35 @@
   Updated: 2026-08-26T01:25:52Z
   Total Products: 11
 - [Activewear](https://artdogs.net/collections/activewear)
-  Updated: 2026-08-26T01:23:46Z
-  Total Products: 1
+  Updated: 2026-08-29T19:22:03Z
+  Total Products: 43
 - [Lounge wear](https://artdogs.net/collections/lounge-wear): Shop women’s lounge pants designed for comfort and style. Explore soft, breathable loungewear perfect for relaxing, casual wear, and everyday comfort.
-  Updated: 2026-08-26T01:23:46Z
-  Total Products: 2
+  Updated: 2026-08-29T19:22:22Z
+  Total Products: 11
 - [Leggings](https://artdogs.net/collections/leggings)
-  Updated: 2026-04-13T18:00:16Z
-  Total Products: 0
+  Updated: 2026-08-29T19:22:23Z
+  Total Products: 14
 - [Yoga Leggings](https://artdogs.net/collections/yoga-leggings): Shop yoga leggings for women designed for comfort, flexibility, and performance. Explore stylish, breathable leggings perfect for workouts, yoga, and everyday wear.
-  Updated: 2026-08-26T01:25:10Z
-  Total Products: 18
+  Updated: 2026-08-29T19:17:46Z
+  Total Products: 21
 - [Yoga Capris](https://artdogs.net/collections/yoga-capris): Shop women’s yoga capri pants designed for comfort and flexibility. Explore stylish yoga capris perfect for workouts, stretching, and everyday wear.
-  Updated: 2026-05-20T08:20:32Z
-  Total Products: 0
+  Updated: 2026-08-29T19:19:27Z
+  Total Products: 7
 - [Robes](https://artdogs.net/collections/robes)
-  Updated: 2026-08-26T01:25:33Z
-  Total Products: 9
+  Updated: 2026-08-29T19:20:35Z
+  Total Products: 19
 - [Kimonos Robes](https://artdogs.net/collections/kimonos-robes): Shop floral kimono robes for women, including long and stylish designs. Explore comfortable, elegant kimono robes perfect for lounging and everyday wear.
-  Updated: 2026-08-26T01:25:31Z
-  Total Products: 10
+  Updated: 2026-08-29T19:20:56Z
+  Total Products: 20
 - [T-Shirts](https://artdogs.net/collections/t-shirts): Shop cotton unisex T-shirts designed for comfort and everyday wear. Explore soft, breathable tees with versatile styles for all-day comfort.
-  Updated: 2026-08-26T01:27:03Z
-  Total Products: 60
+  Updated: 2026-08-29T19:19:22Z
+  Total Products: 74
 - [Hoodie dresses](https://artdogs.net/collections/hoodie-dresses)
-  Updated: 2026-08-26T01:20:05Z
-  Total Products: 2
+  Updated: 2026-08-29T19:21:06Z
+  Total Products: 6
 - [Trousers](https://artdogs.net/collections/trousers)
-  Updated: 2026-04-13T18:00:16Z
-  Total Products: 0
+  Updated: 2026-08-29T19:21:41Z
+  Total Products: 5
 - [Kimono jacket](https://artdogs.net/collections/kimono-jacket)
   Updated: 2026-08-26T01:26:28Z
   Total Products: 9
@@ -2968,8 +2968,8 @@
   Updated: 2026-08-26T01:27:13Z
   Total Products: 8
 - [Sweaters](https://artdogs.net/collections/sweaters)
-  Updated: 2026-08-26T01:25:23Z
-  Total Products: 6
+  Updated: 2026-08-29T19:22:02Z
+  Total Products: 27
 - [Sweatshirts](https://artdogs.net/collections/sweatshirts)
   Updated: 2026-08-26T01:25:23Z
   Total Products: 6
@@ -2983,35 +2983,35 @@
   Updated: 2026-08-26T01:24:45Z
   Total Products: 6
 - [Track Pants](https://artdogs.net/collections/track-pants): Shop tracksuit pants  with stylish and comfortable men’s track pants. Explore breathable, flexible joggers perfect for workouts and everyday wear.
-  Updated: 2026-08-26T01:24:38Z
-  Total Products: 5
+  Updated: 2026-08-29T19:18:06Z
+  Total Products: 6
 - [Men](https://artdogs.net/collections/men)
-  Updated: 2026-08-26T01:27:21Z
-  Total Products: 104
+  Updated: 2026-08-29T19:21:48Z
+  Total Products: 149
 - [Women](https://artdogs.net/collections/women)
-  Updated: 2026-08-26T01:27:23Z
-  Total Products: 198
+  Updated: 2026-08-29T19:22:22Z
+  Total Products: 385
 - [Ties](https://artdogs.net/collections/ties)
-  Updated: 2026-08-26T01:20:41Z
-  Total Products: 2
+  Updated: 2026-08-29T19:21:25Z
+  Total Products: 5
 - [Espadrailles](https://artdogs.net/collections/espadrailles)
   Updated: 2026-08-26T01:27:21Z
   Total Products: 12
 - [Bags](https://artdogs.net/collections/bags)
-  Updated: 2026-07-11T19:51:10Z
-  Total Products: 2
+  Updated: 2026-08-29T19:20:58Z
+  Total Products: 5
 - [Scarves](https://artdogs.net/collections/scarves-1): Shop ArtDogs silk square scarves for men & women, including printed, unisex, and long scarves. Explore unique designs like Angel of Death & birdhouse styles..
-  Updated: 2026-08-26T01:27:04Z
-  Total Products: 152
+  Updated: 2026-08-29T19:20:26Z
+  Total Products: 302
 - [Purses](https://artdogs.net/collections/purses)
   Updated: 2026-08-26T01:22:01Z
   Total Products: 6
 - [Skirts](https://artdogs.net/collections/skirts): Shop floral flounce skirts and long flounce skirts designed for elegant, flowing style. Explore comfortable, trendy skirts perfect for everyday wear.
-  Updated: 2026-08-26T01:27:22Z
-  Total Products: 38
+  Updated: 2026-08-29T19:17:45Z
+  Total Products: 39
 - [Men Bomber Jacket](https://artdogs.net/collections/men-bomber-jacket)
-  Updated: 2026-08-26T01:27:14Z
-  Total Products: 14
+  Updated: 2026-08-29T19:18:07Z
+  Total Products: 15
 
 ## Blogs
 
