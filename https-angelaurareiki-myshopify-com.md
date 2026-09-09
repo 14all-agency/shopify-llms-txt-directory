@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T22:42:23Z
 - Contact Email: theangelaurareiki@gmail.com
-- Updated At: 2026-08-31T00:00:40.706Z
+- Updated At: 2026-09-09T00:00:42.765Z
 
 ## Products
 
@@ -990,8 +990,8 @@
   - [12 Nude + 12 Pink / Custom](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea?variant=44408149278808)
     Availability: Available
     Price: $90.00 USD
-- [Mascara, Milky Way Manifold Mascara | Botanical, Natural, Volume for Lashes Makeup angelaurareiki](https://angelaurareiki.myshopify.com/products/mascara-milky-way-manifold-mascara-botanical-natural-volume-lash-makeup): angelaurareiki
-  Updated: 2026-08-29T01:57:28Z
+- [Natural Vegan Volumizing Mascara – Milky Way Manifold](https://angelaurareiki.myshopify.com/products/mascara-milky-way-manifold-mascara-botanical-natural-volume-lash-makeup): Natural vegan mascara with botanical extracts for volume, length, and all-day curl. Gentle for sensitive eyes and contact lens wearers. Order today.
+  Updated: 2026-09-01T19:20:28Z
   Vendor: Etsy
   Product Type: Mascara
   Availability: Available
@@ -1155,7 +1155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free-angelaurareiki-nuP.webp?v=1787500941
     Price: $3.50 USD
 - [Distant Shamanic Reiki Session for Healing and Balance Today angelaurareiki](https://angelaurareiki.myshopify.com/products/reiki-session-now-distant-shamanic-reiki): angelaurareiki
-  Updated: 2026-08-29T01:57:30Z
+  Updated: 2026-09-01T21:17:24Z
   Vendor: angelaurareiki
   Product Type: shaman reiki session
   Availability: Available
@@ -3044,12 +3044,12 @@
   - [Custom](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786175576)
     Availability: Available
     Price: $14.00 USD
-- [Authentic Moldavite Crystal, Raw Green Tektite Gemstone (1.8-2.5g), Czech Republic](https://angelaurareiki.myshopify.com/products/authentic-moldavite-crystal-raw-green-tektite-gemstone-1-8-2-5g-czech-republic): Moldavite gleams in vibrant hues of various green & the cosmos, sourced directly from the mystical landscapes of the Czech Republic.
-  Updated: 2026-08-29T01:57:39Z
+- [Authentic Moldavite Crystal, Raw Green Tektite Gemstone (1.8-2.5g), Czech Republic - Angelaurareiki - Moldavite Crystal](https://angelaurareiki.myshopify.com/products/authentic-moldavite-crystal-raw-green-tektite-gemstone-1-8-2-5g-czech-republic): Authentic Moldavite Crystal - Raw Green Tektite Gemstone Unlock the mysteries of the universe with these stunning Authentic Moldavite Crystal, sourced from the enchanting landscapes of the Czech Republic. This Grade A specimen, weighing between 1.8-2.5g, radiates vibrant green hues that reflect the cosmos, making it more than just a gemstone—it's a cosmic companion for your spiritual journey. 🌟 Key Features: Origin: Czech Republic Grade: A Size: 18-25 cm Weight: 1.8-2.5g Classification: Tektite Authenticity: Comes with a certificate 🔍 Specifications: Origin Czech Republic Grade A Weight 1.8-2.5g 💬 Customer Reviews: "This moldavite is breathtaking! I feel more connected to my spiritual self every day." - Sarah "Amazing quality and fast shipping! Highly recommend." - John 🛒 Don’t Miss Out! The Moldavite market is scarce, and this piece comes from my personal collection. Take advantage of this affordable price compared to competing sellers. If you have any questions, feel free to message me! - Angelaurareiki - Authentic Moldavite Crystal, Raw Green Tektite Gemstone (1.8-2.5g), Czech Republic
+  Updated: 2026-09-01T01:25:48Z
   Vendor: angelaurareiki
   Product Type: Moldavite Crystal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy5.jpg?v=1787290170
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy5.jpg?v=1788225928
   Price: $55.00 USD
 - [Bare Organic Makeup Remover & Vegan Cleanser | angelaurareiki](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner): Gently dissolve waterproof makeup with Bare Organic Makeup Remover. Infused with botanical herbs, aloe, and rose water to clarify, soothe, and cleanse naturally.
   Updated: 2026-08-29T01:57:39Z
@@ -3177,14 +3177,7 @@
   - [Custom](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654184536)
     Availability: Available
     Price: $19.00 USD
-- [Selenite Crystal Wand for Cleansing and Charging |](https://angelaurareiki.myshopify.com/products/selenite-crystal-wand-6-cleansing-charging-wands-reiki-infused): Experience the healing power of our reiki infused selenite crystal wand, a crystal cleansing wand that amplifies energy and promotes natural purification and
-  Updated: 2026-08-29T01:57:39Z
-  Vendor: angelaurareiki
-  Product Type: Selenite Crystal Wand
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_Gemini_Flash_morning_light_572929.png?v=1787307977
-  Price: $7.50 USD
-[List Continued](https://angelaurareiki.myshopify.com/a/llms-agent/llms.txt?shop=cwphch-tu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQzMDk4NjI2MTM2LCJsYXN0X3ZhbHVlIjoiODk0MzA5ODYyNjEzNiJ9)
+[List Continued](https://angelaurareiki.myshopify.com/a/llms-agent/llms.txt?shop=cwphch-tu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQyNjc0MjQ3NzY4LCJsYXN0X3ZhbHVlIjoiODk0MjY3NDI0Nzc2OCJ9)
 
 ## Collections
 
@@ -3192,25 +3185,25 @@
   Updated: 2026-08-16T13:44:29Z
   Total Products: 7
 - [Organic Skincare](https://angelaurareiki.myshopify.com/collections/organic-skincare): Organic Skincare angelaurareiki
-  Updated: 2026-08-27T02:47:57Z
-  Total Products: 16
+  Updated: 2026-08-31T05:29:23Z
+  Total Products: 17
 - [Reiki-Infused Soap](https://angelaurareiki.myshopify.com/collections/reiki-infused-soap): Reiki-Infused Soap angelaurareiki
-  Updated: 2026-08-27T15:27:56Z
+  Updated: 2026-08-31T05:24:44Z
   Total Products: 10
 - [Herbal Cleaning](https://angelaurareiki.myshopify.com/collections/herbal-cleaning): Herbal Cleaning angelaurareiki
   Updated: 2026-08-21T07:26:39Z
   Total Products: 3
-- [Natural Makeup](https://angelaurareiki.myshopify.com/collections/natural-makeup): Natural Makeup angelaurareiki
-  Updated: 2026-08-28T07:15:46Z
+- [Natural Makeup](https://angelaurareiki.myshopify.com/collections/natural-makeup): Shop handcrafted, botanical natural makeup from $3.50-$45: vegan, cruelty-free, organic, Reiki-infused, and gluten-free, made for holistic beauty.
+  Updated: 2026-09-01T06:00:08Z
   Total Products: 14
 - [All Products (ChatGPT-AI Product Description)](https://angelaurareiki.myshopify.com/collections/all-products-chatgpt-ai-product-description): All Products (ChatGPT-AI Product Description) angelaurareiki
-  Updated: 2026-08-28T13:14:06Z
-  Total Products: 62
+  Updated: 2026-09-01T19:53:11Z
+  Total Products: 65
 - [Shamanic Reiki Sessions](https://angelaurareiki.myshopify.com/collections/reiki-sessions): Shamanic Reiki Sessions angelaurareiki
   Updated: 2026-08-21T10:32:24Z
   Total Products: 4
 - [Best  Products](https://angelaurareiki.myshopify.com/collections/best--products): Best  Products angelaurareiki
-  Updated: 2026-08-21T07:26:39Z
+  Updated: 2026-09-01T06:00:08Z
   Total Products: 10
 
 ## Blogs
@@ -3220,6 +3213,23 @@
     Updated: 2026-08-16T13:44:09Z
     Author: angelaurareiki
     Tags: natural beauty, organic skincare, radiant skin, skincare routine, summer skincare
+  - [Unclogging Pores Naturally: Organic Facial Care Guide](https://angelaurareiki.myshopify.com/blogs/news/the-ultimate-guide-to-unclogging-pores-naturally-embrace-organic-facial-care-for-luminous-skin): Unclogging Pores Naturally: Organic Facial Care Guide
+    Updated: 2026-09-01T04:31:38Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, clogged pores, how to, natural skincare, organic facial care, organic facial care clogged pores, skin barrier
+- [Plant-based and eco friendly angelaurareiki values](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values)
+  - [Top 7 Organic Skincare Products for Acne-Prone Skin](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/top-7-organic-skincare-products-for-acne-prone-skin-gentle-effective-picks): Top 7 Organic Skincare Products for Acne-Prone Skin
+    Updated: 2026-09-01T13:01:26Z
+    Author: angelaurareiki
+    Tags: acne , angelaurareiki, botanical wellness, buying guide, organic skincare, skincare routines
+  - [angelaurareiki vs Primally Pure: Sensitive Skincare Compared](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/angelaurareiki-vs-osea-which-organic-skincare-brand-is-better-for-sensitive-acne-prone-skin): angelaurareiki vs Primally Pure: Sensitive Skincare Compared
+    Updated: 2026-09-03T13:01:18Z
+    Author: angelaurareiki
+    Tags: acne , angelaurareiki, buying guide, comparison, natural skincare, sensitive skin
+  - [Vegan Body Care for Dry Skin: Top Organic Choices](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/vegan-body-care-products-that-truly-hydrate-dry-skin-our-top-organic-choices): Vegan Body Care for Dry Skin: Top Organic Choices
+    Updated: 2026-09-08T13:01:43Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, botanical wellness, comparison, dry skin, organic skincare
 
 ## Store Pages
 
