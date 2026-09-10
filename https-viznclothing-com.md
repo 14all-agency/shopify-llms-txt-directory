@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-08-23T00:00:32.204Z
+- Updated At: 2026-09-10T00:00:36.268Z
 
 ## Products
 
 - [LOST YOUTH CLUB HOODIE](https://viznclothing.com/products/lostyouthclubhoodie): Discover the Lost Youth Club Hoodie by VIZN — the perfect blend of comfort, style, and streetwear attitude.
-  Updated: 2026-08-19T05:52:44Z
+  Updated: 2026-08-29T05:54:12Z
   Vendor: VIZN
   Product Type: Hoodie
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: £50.00 GBP
 - [LOST YOUTH CLUB TEE](https://viznclothing.com/products/lost-youth-club-tee): The Lost Youth Club Boxy T-Shirt by VIZN delivers premium streetwear style with its oversized boxy fit, heavyweight 100% cotton (305GSM), and bold graphic print. Designed with dropped shoulders and a structured silhouette, it offers a modern, relaxed look while maintaining exceptional comfort and durability. The heavyweight cotton provides a soft, premium feel that holds its shape wear after wear. For an oversized fit, choose your usual size, or size down for a more regular fit. To preserve the colour and print quality, wash inside out on a cold cycle. Perfect for everyday wear and anyone who wants a clean yet expressive streetwear essential.
-  Updated: 2026-08-15T00:02:19Z
+  Updated: 2026-08-29T05:54:13Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -56,7 +56,7 @@
     Availability: Available
     Price: £25.00 GBP
 - [Lost Youth Club Drop Bundle](https://viznclothing.com/products/lyc-drop-bundle): Curated collection from the Lost Youth Club drop. Premium pieces designed to work together to elevate your rotation with this complete set. Limited availability.
-  Updated: 2026-08-18T21:29:38Z
+  Updated: 2026-08-27T02:11:37Z
   Vendor: VIZN
   Product Type: Bundle
   Availability: Available
@@ -155,10 +155,10 @@
 ## Collections
 
 - [Home page](https://viznclothing.com/collections/frontpage)
-  Updated: 2026-08-14T17:48:45Z
+  Updated: 2026-08-27T20:22:34Z
   Total Products: 0
 - [Lost Youth Club Drop](https://viznclothing.com/collections/lost-youth-club)
-  Updated: 2026-08-19T05:52:45Z
+  Updated: 2026-08-27T20:22:34Z
   Total Products: 3
 
 ## Blogs
@@ -190,6 +190,27 @@
     Author: Jake Swindells
   - [Why Minimalistic Streetwear Is Dominating UK Fashion](https://viznclothing.com/blogs/news/why-minimalistic-streetwear-is-dominating-uk-fashion): Why Minimalistic Streetwear Is Dominating UK Fashion
     Updated: 2026-08-22T16:06:10Z
+    Author: Jake Swindells
+  - [The Rise of Luxury Streetwear in the UK and How to Wear It](https://viznclothing.com/blogs/news/the-rise-of-luxury-streetwear-in-the-uk-and-how-to-wear-it): The Rise of Luxury Streetwear in the UK and How to Wear It
+    Updated: 2026-08-24T14:08:13Z
+    Author: Jake Swindells
+  - [A Complete Guide to Choosing the Perfect Heavyweight Boxy Hoodie](https://viznclothing.com/blogs/news/a-complete-guide-to-choosing-the-perfect-heavyweight-boxy-hoodie): A Complete Guide to Choosing the Perfect Heavyweight Boxy Hoodie
+    Updated: 2026-08-28T10:12:12Z
+    Author: Jake Swindells
+  - [Understanding the Popularity of Boxy Fit T-Shirts in UK Streetwear](https://viznclothing.com/blogs/news/understanding-the-popularity-of-boxy-fit-t-shirts-in-uk-streetwear): Understanding the Popularity of Boxy Fit T-Shirts in UK Streetwear
+    Updated: 2026-08-28T18:04:48Z
+    Author: Jake Swindells
+  - [Features to Look for in a Luxury Streetwear Hoodie](https://viznclothing.com/blogs/news/features-to-look-for-in-a-luxury-streetwear-hoodie): Features to Look for in a Luxury Streetwear Hoodie
+    Updated: 2026-08-31T07:15:11Z
+    Author: Jake Swindells
+  - [FAQs About UK Streetwear Brands and Minimalistic Fashion](https://viznclothing.com/blogs/news/faqs-about-uk-streetwear-brands-and-minimalistic-fashion): FAQs About UK Streetwear Brands and Minimalistic Fashion
+    Updated: 2026-09-04T03:19:18Z
+    Author: Jake Swindells
+  - [The Evolution of UK Streetwear From Classic to Modern Minimalism](https://viznclothing.com/blogs/news/the-evolution-of-uk-streetwear-from-classic-to-modern-minimalism): The Evolution of UK Streetwear From Classic to Modern Minimalism
+    Updated: 2026-09-05T02:20:08Z
+    Author: Jake Swindells
+  - [Pros and Cons of the Boxy Fit T-Shirt Trend in Luxury Streetwear](https://viznclothing.com/blogs/news/pros-and-cons-of-the-boxy-fit-t-shirt-trend-in-luxury-streetwear): Pros and Cons of the Boxy Fit T-Shirt Trend in Luxury Streetwear
+    Updated: 2026-09-07T00:22:10Z
     Author: Jake Swindells
 
 ## Store Pages
