@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-05-01T14:39:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-02T00:00:35.654Z
+- Updated At: 2026-09-10T00:00:42.435Z
 
 ## Products
 
@@ -85,7 +85,7 @@
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/products/pin2.png?v=1580423256
   Price: $5.00 USD
 - [There and Back Again Tee](https://ericnam.merchmadeeasy.com/products/eric-nam-tee): There and Back Again Tee in sand with front print only.
-  Updated: 2026-09-01T03:27:57Z
+  Updated: 2026-09-05T22:32:26Z
   Vendor: Eric Nam
   Product Type: T-Shirt
   Availability: Available
@@ -106,7 +106,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Photo Tour Tee](https://ericnam.merchmadeeasy.com/products/2022-world-tour-photo-tee): There And Back Again World Tour 2022 Color: Cream
-  Updated: 2026-09-01T03:27:57Z
+  Updated: 2026-09-04T09:50:45Z
   Vendor: Eric Nam
   Product Type: Apparel
   Availability: Available
@@ -127,21 +127,21 @@
     Availability: Available
     Price: $15.00 USD
 - [There And Back Again Dad Hat](https://ericnam.merchmadeeasy.com/products/hat): There And Back Again Charcoal Dad Hat Adjustable strap
-  Updated: 2026-09-01T03:27:57Z
+  Updated: 2026-09-04T09:50:46Z
   Vendor: Eric Nam
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/products/there-and-back-again-charcoal-dad-hat-front_Eric-Nam.png?v=1721052218
   Price: $15.00 USD
 - [There And Back Again Tote Bag](https://ericnam.merchmadeeasy.com/products/tote-bag): There And Back Again Tote Bag Two-sided Color: Natural
-  Updated: 2026-09-01T03:27:58Z
+  Updated: 2026-09-05T12:05:56Z
   Vendor: Eric Nam
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/products/there-and-back-again-canvas-tote-bag-front_Eric-Nam.png?v=1721052478
   Price: $5.00 USD
 - [There And Back Again Grey Sweatpants](https://ericnam.merchmadeeasy.com/products/album-sweatpants): Color: Grey Heather Mid-weight fleece There And Back Again printed down the left leg
-  Updated: 2026-09-01T03:27:58Z
+  Updated: 2026-09-09T23:40:41Z
   Vendor: Eric Nam
   Product Type: Apparel
   Availability: Available
@@ -299,13 +299,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/2023hat.png?v=1695246356
   Price: $10.00 USD
-- [House on a Hill Tote](https://ericnam.merchmadeeasy.com/products/house-on-a-hill-tote): Green House Eric Nam Charcoal Tote Part of the House On The Hill 2023 World Tour Collection
-  Updated: 2026-09-01T03:28:02Z
-  Vendor: Eric Nam
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/tote.png?v=1695246346
-  Price: $10.00 USD
 - [House On A Hill Sticker](https://ericnam.merchmadeeasy.com/products/house-on-a-hill-sticker)
   Updated: 2026-09-01T03:28:03Z
   Vendor: Eric Nam
@@ -433,28 +426,28 @@
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/EricNamPoster.png?v=1737648551
   Price: $10.00 USD
 - [Confessions Of A Lonely Heart - Vinyl](https://ericnam.merchmadeeasy.com/products/confessions-of-a-lonely-heart-vinyl): Eric Nam's upcoming album, Confessions Of A Lonely Heart, on Standard Black Vinyl. This item is a pre-order that will ship after release on Friday, October 2, 2026, 12 PM EST.
-  Updated: 2026-09-01T15:45:17Z
+  Updated: 2026-09-09T22:16:57Z
   Vendor: Eric Nam
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/ENCONFESSIONSOFALONELYHEARTVINYL.png?v=1780345209
   Price: $25.00 USD
 - [Confessions Of A Lonely Heart CD + Photobook](https://ericnam.merchmadeeasy.com/products/confessions-of-a-lonely-heart-cd-photobook): Eric Nam's new album, Confessions Of A Lonely Heart, packaged in exclusive CD Photobook. This item is a pre-order that will ship upon release on October 2, 2026.
-  Updated: 2026-09-01T14:51:07Z
+  Updated: 2026-09-09T23:09:41Z
   Vendor: Eric Nam
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/ENCONFESSIONSOFALONELYHEARTCD-2.png?v=1780430671
   Price: $22.00 USD
 - [Confessions of a Lonely Heart Natural Cotton Canvas Tote Eric Nam](https://ericnam.merchmadeeasy.com/products/lyric-tote): Confessions of a Lonely Heart Lyric Tote in natural. This item is a pre-order that will ship on or after October 2, 2026. 100% cotton canvas tote bag 10" x 11" / 20" self-fabric handles with 9" handle drop
-  Updated: 2026-09-01T03:28:07Z
+  Updated: 2026-09-05T22:32:26Z
   Vendor: Eric Nam
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0091/7454/8577/files/ERICNAMCONFESSIONSOFALONELYHEARTLYRICTOTE.png?v=1785950269
   Price: $20.00 USD
 - [Confessions of a Lonely Heart Black Album Photo Tee Eric Nam](https://ericnam.merchmadeeasy.com/products/confessions-photo-tee): Confessions of a Lonely Heart Album Photo Tee in white with front and back print. 100% Cotton
-  Updated: 2026-09-01T15:45:19Z
+  Updated: 2026-09-02T18:39:56Z
   Vendor: Eric Nam
   Product Type: T-Shirt
   Availability: Available
@@ -475,7 +468,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Confessions of a Lonely Heart Black Hoodie Eric Nam](https://ericnam.merchmadeeasy.com/products/confessions-of-a-lonely-heart-hoodie): Confessions of a Lonely Heart Hoodie in black with front and back print. This item is a pre-order that will ship on or after October 2, 2026. 50/50 cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2
-  Updated: 2026-09-01T03:28:08Z
+  Updated: 2026-09-02T05:36:56Z
   Vendor: Eric Nam
   Product Type: Apparel
   Availability: Available
@@ -496,7 +489,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Confessions of a Lonely Heart Tee + Vinyl Pack](https://ericnam.merchmadeeasy.com/products/confessions-of-a-lonely-heart-tee-vinyl-pack): Confessions of a Lonely Heart Tee + Vinyl Pack: contains 1 t-shirt and 1 vinyl. This item is a pre-order that will ship after release on Friday, October 2, 2026, 12 PM EST. The album product and merchandise product for  within the fan pack are also sold separately on this webstore. You can purchase media HERE and merch HERE.
-  Updated: 2026-09-01T15:45:28Z
+  Updated: 2026-09-09T22:17:06Z
   Vendor: Eric Nam
   Product Type: Music
   Availability: Available
@@ -520,13 +513,13 @@
 ## Collections
 
 - [Home page](https://ericnam.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 8
 - [Apparel](https://ericnam.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-30T11:08:53Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 22
 - [Accessories](https://ericnam.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-29T11:08:57Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 16
 - [Digital Albums](https://ericnam.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:40:21Z
@@ -535,7 +528,7 @@
   Updated: 2026-07-08T20:40:21Z
   Total Products: 0
 - [All](https://ericnam.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-07T11:07:05Z
   Total Products: 58
 - [Before We Begin](https://ericnam.merchmadeeasy.com/collections/before-we-begin)
   Updated: 2026-07-08T20:40:21Z
@@ -559,43 +552,43 @@
   Updated: 2026-07-08T20:40:22Z
   Total Products: 0
 - [There And Back Again Album Merch](https://ericnam.merchmadeeasy.com/collections/there-and-back-again-album-merch)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 11
 - [House On A Hill 2023 World Tour](https://ericnam.merchmadeeasy.com/collections/house-on-a-hill-2023-world-tour)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-04T11:07:41Z
   Total Products: 18
 - [House On A Hill World Tour](https://ericnam.merchmadeeasy.com/collections/house-on-a-hill-world-tour)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-04T11:07:41Z
   Total Products: 18
 - [Cyber Monday](https://ericnam.merchmadeeasy.com/collections/cyber-monday)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 13
 - [L.A. Encore](https://ericnam.merchmadeeasy.com/collections/l-a-encore)
   Updated: 2026-08-14T11:09:36Z
   Total Products: 3
 - [Tees](https://ericnam.merchmadeeasy.com/collections/tees)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 15
 - [Music](https://ericnam.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-07T11:07:05Z
   Total Products: 6
 - [](https://ericnam.merchmadeeasy.com/collections/)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 14
 - [$5 Posters and Tickets](https://ericnam.merchmadeeasy.com/collections/5-posters-and-tickets)
   Updated: 2026-08-16T11:09:27Z
   Total Products: 5
 - [SHOP DISCOUNTED ITEMS](https://ericnam.merchmadeeasy.com/collections/shop-discounted-items)
-  Updated: 2026-08-27T11:07:27Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 7
 - [Confessions Of A Lonely Heart](https://ericnam.merchmadeeasy.com/collections/confessions-of-a-lonely-heart)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-07T11:07:05Z
   Total Products: 7
 - [Confessions Of A Lonely Heart Media](https://ericnam.merchmadeeasy.com/collections/confessions-of-a-lonely-heart-media)
-  Updated: 2026-09-01T11:08:07Z
+  Updated: 2026-09-07T11:07:05Z
   Total Products: 3
 - [Confessions Of A Lonely Heart Merch](https://ericnam.merchmadeeasy.com/collections/confessions-of-a-lonely-heart-merch)
-  Updated: 2026-08-30T11:08:53Z
+  Updated: 2026-09-06T11:07:23Z
   Total Products: 3
 
 ## Store Pages
