@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-07-24T22:04:13Z
 - Contact Email: solsticeandstonesale@gmail.com
-- Updated At: 2026-09-01T00:00:26.179Z
+- Updated At: 2026-09-10T00:00:35.968Z
 
 ## Products
 
 - [Vanilla-Infused Honey | Sweet, Creamy Flavour](https://www.solsticeandstone.co.uk/products/vanilla-infused-honey): Discover pure honey infused with Madagascar vanilla pods for a rich, creamy taste. Choose from 4 oz, 8 oz, or 12 oz sizes.
-  Updated: 2026-08-31T14:15:48Z
+  Updated: 2026-09-07T11:51:41Z
   Vendor: More Bees Please Shop
   Product Type: n/a
   Availability: Available
@@ -26,7 +26,7 @@
     Availability: Available
     Price: £4.99 GBP
 - [Glen Scotia Infused Whisky Honey for Gifting](https://www.solsticeandstone.co.uk/products/glen-scotia-infused-whisky-honey): Blossom honey infused with Glen Scotia single malt whisky, bringing floral sweetness, oak, vanilla and dried-fruit notes to pancakes, glazes or gifting.
-  Updated: 2026-08-29T19:02:31Z
+  Updated: 2026-09-07T11:51:41Z
   Vendor: More Bees Please Shop
   Product Type: Honey
   Availability: Available
@@ -41,7 +41,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Orange Body Butter with Beeswax | Solstice and Stone](https://www.solsticeandstone.co.uk/products/orange-body-butter): Nourish dry-feeling skin with beeswax body butter and uplifting orange essential oil. Available in 60ml or 200ml sizes from Solstice and Stone.
-  Updated: 2026-08-29T14:15:16Z
+  Updated: 2026-09-07T11:51:41Z
   Vendor: More Bees Please
   Product Type: Body Butter
   Availability: Available
@@ -53,14 +53,14 @@
     Availability: Available
     Price: £13.99 GBP
 - [Large Rolled Comb Design Candle | Natural Beeswax](https://www.solsticeandstone.co.uk/products/large-rolled-comb-design-candle): Bring a warm, serene glow to your home with this large rolled beeswax candle. Its rustic comb design suits meditation, prayer, and cozy evenings.
-  Updated: 2026-08-26T07:34:40Z
+  Updated: 2026-09-07T11:51:42Z
   Vendor: More Bees Please Shop
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/20230324_052326.899.png?v=1787249327
   Price: £7.99 GBP
 - [Experience Coconut Body Butter with Beeswax](https://www.solsticeandstone.co.uk/products/coconut-body-butter): Bring home a tropical-inspired skincare ritual with creamy coconut oil, protective beeswax and botanical extracts for nourished, supple-feeling skin.
-  Updated: 2026-08-29T14:15:15Z
+  Updated: 2026-09-07T11:51:42Z
   Vendor: More Bees Please
   Product Type: Body Butter
   Availability: Available
@@ -72,7 +72,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Tattoo Balm with Beeswax & Peppermint | Aftercare](https://www.solsticeandstone.co.uk/products/tattoo-balm): Care for newly inked skin with a non-greasy beeswax and peppermint balm that soothes, nourishes and helps protect your tattoo during healing.
-  Updated: 2026-08-29T14:15:17Z
+  Updated: 2026-09-07T11:51:42Z
   Vendor: More Bees Please
   Product Type: Aftershave Balm
   Availability: Available
@@ -90,28 +90,28 @@
     Availability: Available
     Price: £49.99 GBP
 - [Large Beehive Beeswax Candle for Cozy Glow](https://www.solsticeandstone.co.uk/products/large-beehive-beeswax-candle): Bring natural warmth to your home with a large beehive candle made from pure beeswax. Its inviting glow suits quiet evenings and special occasions.
-  Updated: 2026-08-26T07:37:59Z
+  Updated: 2026-09-07T11:51:42Z
   Vendor: More Bees Please Shop
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/20230324_052314.410.png?v=1786894299
   Price: £8.99 GBP
 - [Small Skep Candle Made from Natural Beeswax](https://www.solsticeandstone.co.uk/products/small-skep-candle): Create a calm glow with the Small Skep Candle, crafted from beeswax for a rustic look and around 6 hours of burn time. Ideal for quiet evenings.
-  Updated: 2026-08-26T07:38:16Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please Shop
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/a7675a859c965be8f895800c45310e7e.jpg?v=1786894312
   Price: £3.99 GBP
 - [Beeswax Aftershave Balm for a Smooth, Refreshed Finish](https://www.solsticeandstone.co.uk/products/beeswax-aftershave-balm): Turn your daily shave into a soothing ritual with this bay rum and lime balm, enriched with beeswax, shea butter and coconut oil.
-  Updated: 2026-08-26T07:38:21Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please
   Product Type: Aftershave Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/aftershave-balm.jpg?v=1786894315
   Price: £9.99 GBP
 - [Black Gold Blossom Honey with Nigella Seeds](https://www.solsticeandstone.co.uk/products/black-gold): Savor raw blossom honey infused with nigella seeds, combining floral sweetness with earthy, gently peppery notes for cheese, toast, pancakes and dressings.
-  Updated: 2026-08-31T14:15:57Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please
   Product Type: Food, Honey
   Availability: Available
@@ -126,7 +126,7 @@
     Availability: Available
     Price: £8.99 GBP
 - [Luxury Men's £30 Gift Set | Grooming & Bath Essentials](https://www.solsticeandstone.co.uk/products/luxury-mens-30-gift-set): A thoughtful men's gift box filled with soothing bath and grooming essentials, including honey, bay rum and lime soap plus a choice of balms.
-  Updated: 2026-08-26T07:40:34Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please
   Product Type: gift
   Availability: Available
@@ -204,7 +204,7 @@
     Availability: Available
     Price: £27.99 GBP
 - [Luxury Ladies £50 Cosmetics Gift Set: Rose & Honey](https://www.solsticeandstone.co.uk/products/luxury-ladies-50-cosmetics-gift-set): Make her feel special with a natural skincare gift set containing lip balm, rescue balm, rose petals, honey and nourishing body butters.
-  Updated: 2026-08-26T07:40:48Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please
   Product Type: gift
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Available
     Price: £45.99 GBP
 - [Luxury Ladies £30 Gift Set for Pampering](https://www.solsticeandstone.co.uk/products/luxury-ladies-30-gift-set): Treat her to a thoughtful gift box with body butter, lip balm, rose petal soap, bath bomb, rescue balm, honey and a twizzle stick.
-  Updated: 2026-08-26T07:41:03Z
+  Updated: 2026-09-07T11:51:43Z
   Vendor: More Bees Please
   Product Type: gift
   Availability: Available
@@ -396,154 +396,154 @@
     Availability: Available
     Price: £27.99 GBP
 - [Smelling Bee-utiful Wax Melt Burner Gift Set](https://www.solsticeandstone.co.uk/products/large-smelling-bee-utiful-wax-melt-burner-gift-set): Add charm and fragrance to a new home with this floral wax melt burner gift set, including a pot of soy wax scented with Heather and Honey.
-  Updated: 2026-08-26T07:41:23Z
+  Updated: 2026-09-07T11:51:44Z
   Vendor: More Bees Please Shop
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/unnamed_20210004-8322-4d2c-b453-da490cefbad5.jpg?v=1786894969
   Price: £12.99 GBP
 - [Double-Sided Foot File with Wooden Handle](https://www.solsticeandstone.co.uk/products/rape-a-talon): Care for rough skin in the shower with a lightweight wooden foot file featuring fine and coarse sides for gentle exfoliation.
-  Updated: 2026-08-27T22:43:35Z
+  Updated: 2026-09-07T11:51:44Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Grattoir.jpg?v=1786896813
   Price: £6.99 GBP
 - [Coconut Butter 150g | Multi-Use Natural Skincare | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/beurre-de-coco-150g): Pure coconut oil for face, body and hair. Deeply nourishing and moisturising, ideal for dry skin and damaged hair. Natural, vegan, multi-use. 150g.
-  Updated: 2026-08-27T22:47:09Z
+  Updated: 2026-09-07T11:51:44Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Huiles-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Huile-Coco.jpg?v=1786896813
   Price: £8.99 GBP
 - [Aleppo Olive Oil Soap 100g for Sensitive Skin](https://www.solsticeandstone.co.uk/products/savon-dalep-ornemente-a-lhuile-dolive-100g): Artisan-made olive oil soap for gentle daily cleansing of face and body. A compact 100g bar suited to sensitive, delicate skin and travel.
-  Updated: 2026-08-27T23:18:11Z
+  Updated: 2026-09-07T11:51:44Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Savon-Alep-Pure-Huile-Olive-100g-4.jpg?v=1786896813
   Price: £4.99 GBP
 - [Black Seed Oil Soap 100g | Natural Artisan Bar | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/savon-dalep-ornemente-a-lhuile-de-nigelle-100g): Handcrafted olive oil soap enriched with black seed oil (black cumin). Gentle daily cleanser for face and body, suitable for all skin types. Natural, vegan. 100g.
-  Updated: 2026-08-27T22:47:10Z
+  Updated: 2026-09-07T11:51:44Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Savon-Alep-Huile-Nigelle-100g-4.jpg?v=1786896813
   Price: £4.99 GBP
 - [Loofah Body Sponge for Softer-Feeling Skin](https://www.solsticeandstone.co.uk/products/loofah): Refresh your skincare routine with a loofah sponge for gentle exfoliation. Use it with your usual products or for household cleaning.
-  Updated: 2026-08-27T22:59:18Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Loofah2.jpg?v=1786896813
   Price: £1.99 GBP
 - [Natural Peppermint & Eucalyptus Stick 7g](https://www.solsticeandstone.co.uk/products/pierre-naturelle-a-la-menthe-poivree-et-eucalyptus-7g): A natural freshness stick with peppermint and eucalyptus for an immediate cooling sensation, respiratory comfort and relaxation during targeted daily use.
-  Updated: 2026-08-27T22:54:04Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Macaron-Menthol2.jpg?v=1786896813
   Price: £12.99 GBP
 - [Black Seed Oil 50ml | Cold-Pressed Nigella Sativa | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/huile-de-nigelle-50ml): 100% pure cold-pressed black seed oil (Nigella Sativa). Rich in omega-6 and antioxidants, ideal for blemish-prone, dry and sensitive skin. Natural, vegan. 50ml.
-  Updated: 2026-08-27T22:51:51Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Huiles-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Huile-de-Nigelle.jpg?v=1786896813
   Price: £14.99 GBP
 - [200g Aleppo Soap for Oily & Sensitive Skin, 40% Laurel](https://www.solsticeandstone.co.uk/products/savon-dalep-a-lhuile-de-baies-de-laurier-40-200g): Support your daily cleansing routine with a 200g Aleppo soap bar made from olive oil and 40% laurel berry oil. Lather, massage and rinse.
-  Updated: 2026-08-27T23:09:13Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Savon-Alep-40PourCent-Huile-Baie-Laurier-2.jpg?v=1786896813
   Price: £11.99 GBP
 - [Wooden Shoe Horn for Easier Daily Dressing](https://www.solsticeandstone.co.uk/products/chausse-pieds-en-bois): Slip into shoes more easily with a durable wooden shoe horn, finished with a leather cord for convenient storage.
-  Updated: 2026-08-27T23:02:50Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Chausse-pied-1-T.jpg?v=1786896813
   Price: £9.99 GBP
 - [Natural Volcanic Pumice Stone for Foot Care](https://www.solsticeandstone.co.uk/products/pierre-ponce-volcanique): Smooth rough skin with a 100% natural volcanic pumice stone. Use on damp feet after or during a shower, then rinse and leave to dry.
-  Updated: 2026-08-27T22:51:14Z
+  Updated: 2026-09-07T11:51:45Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Pierre-ponce-volcanique-1-T-1.jpg?v=1786896814
   Price: £4.99 GBP
 - [250ml Liquid Aleppo Soap for Daily Family Cleansing](https://www.solsticeandstone.co.uk/products/savon-dalep-liquide-250-ml-a-10-huile-de-baies-de-laurier): Crafted in an artisan tradition inspired by Aleppo, this olive oil soap contains 10% laurel berry oil for everyday use on normal or blemish-prone skin.
-  Updated: 2026-08-27T22:53:41Z
+  Updated: 2026-09-07T11:51:46Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Savon-Alep-10PourCent-Huile-Baie-Laurier-LIQUIDE.jpg?v=1786896813
   Price: £9.99 GBP
 - [Aleppo Olive Oil Soap Flakes 100g | Natural Laundry & Body Soap | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/savon-dalep-paillette-a-lhuile-dolive-100g): Traditional Aleppo-inspired olive oil soap flakes. A natural alternative to conventional detergents — gentle on delicate fabrics and skin. Vegan, plastic-free. 100g.
-  Updated: 2026-08-27T22:59:50Z
+  Updated: 2026-09-07T11:51:46Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Copeaux-Savon-Alep.jpg?v=1786896813
   Price: £4.99 GBP
 - [Green Clay Powder 250g | Natural Skincare & Hair Care | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/argile-verte-en-poudre-250g): Pure green clay powder for face masks, scalp care and skin purification. Absorbs excess sebum and impurities. Natural, vegan, multi-use. 250g.
-  Updated: 2026-08-27T22:54:48Z
+  Updated: 2026-09-07T11:51:46Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Accessoires-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Masque-Argile-Verte.jpg?v=1786896813
   Price: £6.99 GBP
 - [Pure Aleppo Olive Oil Soap 200g | Traditional Artisan Bar | Savonnerie de la Cigogne](https://www.solsticeandstone.co.uk/products/savon-alep-pur-a-lhuile-dolive-200g): Authentic Aleppo-inspired olive oil soap, handcrafted using traditional artisan methods. Gentle for all skin types including normal and delicate skin. Natural, vegan. 200g.
-  Updated: 2026-08-27T22:53:20Z
+  Updated: 2026-09-07T11:51:46Z
   Vendor: Savonnerie de la Cigogne
   Product Type: Savons d'Alep-
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Savon-Alep-Pure-Huile-Olive-200g.jpg?v=1786896813
   Price: £5.99 GBP
 - [Ona Green Cotton Gauze Table Runner | Natural Home Decor | Solstice & Stone](https://www.solsticeandstone.co.uk/products/ona-green-cotton-gauze-table-runner): Elevate your table setting with this soft green cotton gauze table runner. Natural, breathable fabric perfect for everyday dining and special occasions.
-  Updated: 2026-08-25T04:22:28Z
+  Updated: 2026-09-07T11:51:47Z
   Vendor: WHAT A HOST
   Product Type: Table Runners
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Greencottongauzetablerunner_goldstainlesssteelcutleryset_roundporcelaintablewareinwhitefromWhataHostHomeDecor.jpg?v=1786901146
+  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/ona-sage-green-cotton-gauze-table-runner-250x50cm.png?v=1788453899
   Price: £25.99 GBP
 - [Joseline Ceramic Decorative Black Vase | Home Decor | Solstice & Stone](https://www.solsticeandstone.co.uk/products/joseline-ceramic-decorative-black-vase): Add a touch of elegance with the Joseline black ceramic vase. A beautiful decorative piece for any home, perfect as a gift or statement accent.
-  Updated: 2026-08-25T04:22:47Z
+  Updated: 2026-09-07T11:51:47Z
   Vendor: WHAT A HOST
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/BlackCeramicVase.jpg?v=1786901146
   Price: £13.99 GBP
 - [Anna White Ceramic Candle Holder | Artisan Home Decor | Solstice & Stone](https://www.solsticeandstone.co.uk/products/anna-white-ceramic-candle-holder): Beautiful white ceramic candle holder, handcrafted for a natural, artisan aesthetic. A perfect gift or elegant addition to any home.
-  Updated: 2026-08-25T04:22:58Z
+  Updated: 2026-09-07T11:51:47Z
   Vendor: WHAT A HOST
   Product Type: Candle Holders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/CeramiccandleholderinwhitefromWhataHostHomeDecor.jpg?v=1786901145
   Price: £17.99 GBP
 - [Malva Gold Deer Christmas Ornament | Festive Home Decor | Solstice & Stone](https://www.solsticeandstone.co.uk/products/malva-christmas-ornament-gold-deer): Add festive charm with the Malva gold deer Christmas ornament. A beautiful, artisan-inspired decoration perfect for gifting or styling your home this Christmas.
-  Updated: 2026-08-25T04:23:23Z
+  Updated: 2026-09-07T11:51:47Z
   Vendor: What a Host
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Deer_4.jpg?v=1786901146
   Price: £41.99 GBP
 - [Nea Wood Serving Board with Handle | Natural Kitchen & Gifting | Solstice & Stone](https://www.solsticeandstone.co.uk/products/nea-wood-serving-board-with-handle): Beautifully crafted wooden serving board with handle. Perfect for entertaining, charcuterie boards or as a thoughtful natural gift.
-  Updated: 2026-08-25T04:23:28Z
+  Updated: 2026-09-07T13:30:41Z
   Vendor: What a Host
   Product Type: Serveware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/What_a_Host_Home_Wooden_Serving_Board_with_Handle.jpg?v=1786901146
   Price: £25.99 GBP
 - [Hope Easter Porcelain Bunnies Set | Seasonal Home Decor | Solstice & Stone](https://www.solsticeandstone.co.uk/products/hope-easter-porcelain-bunnies-set): Delightful porcelain bunny set, perfect for Easter gifting and seasonal home styling. A charming, artisan-inspired decorative piece.
-  Updated: 2026-08-25T04:23:41Z
+  Updated: 2026-09-07T11:51:48Z
   Vendor: WHAT A HOST
   Product Type: Easter Bunnies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/EasterCeramicBunniesSet.jpg?v=1786901147
   Price: £31.99 GBP
 - [Repurposed Mini Onyx Goblet Candle | Soft Sandalwood | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/repurposed-mini-onyx-goblet-candles-soft-sandalwood): Hand-poured soft sandalwood candle in a repurposed mini onyx goblet. A sustainable, artisan candle with a warm, woody scent. Perfect for gifting.
-  Updated: 2026-08-29T14:30:22Z
+  Updated: 2026-09-07T11:51:48Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -557,7 +557,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/onyx_mini_goblets_ss_14_4.jpg?v=1786901192
     Price: £46.99 GBP
 - [Seasonal Simmer Pot Blends | Natural Home Fragrance | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/seasonal-simmer-pot-blends): Fill your home with natural fragrance using Ralph's Orchard seasonal simmer pot blends. Botanical, plastic-free and beautifully scented for every season.
-  Updated: 2026-08-28T14:30:26Z
+  Updated: 2026-09-08T16:47:56Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -567,7 +567,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Spring_simmer_blend_3_3.jpg?v=1786901192
     Price: £6.99 GBP
   - [Summer Simmer Blend – Citrus Garden](https://www.solsticeandstone.co.uk/products/seasonal-simmer-pot-blends?variant=58859285872985)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/summer_simmer_blend_6.jpg?v=1786901193
     Price: £6.99 GBP
   - [Autumn Simmer Blend – Harvest Hearth](https://www.solsticeandstone.co.uk/products/seasonal-simmer-pot-blends?variant=58859285905753)
@@ -579,18 +579,18 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Simmer_blend_-_Winter_4.jpg?v=1786901193
     Price: £6.99 GBP
 - [Natural Botanical Facial Steam Blend | Skincare | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/natural-botanical-facial-steam-blend): Treat your skin to a natural botanical facial steam. Handcrafted with pure herbs and botanicals for a spa-like skincare ritual at home. Vegan and plastic-free.
-  Updated: 2026-08-26T07:25:55Z
+  Updated: 2026-09-07T11:51:48Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/botanical_facial_steam_-_unbranded_9_7.jpg?v=1786901191
   Price: £8.99 GBP
 - [Drift Seaside Candles | Natural Hand-Poured Candles | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/drift-seaside-candles): Escape to the coast with Drift seaside candles. Hand-poured with natural wax and fresh coastal scents. Perfect for relaxation and gifting.
-  Updated: 2026-08-29T14:30:24Z
+  Updated: 2026-09-07T11:51:48Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Drift_candle_1.jpg?v=1786901191
+  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/blacktin-drift.jpg?v=1786901192
   - [Silver Tin](https://www.solsticeandstone.co.uk/products/drift-seaside-candles?variant=58859285709145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Drift_candle_1.jpg?v=1786901191
@@ -608,7 +608,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/driftblack2wick_1__1715867943261.jpg?v=1786901192
     Price: £28.99 GBP
 - [Classic Collection Fragrance Oils | Natural Home Scent | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/classic-collection-fragrance-oils): Discover Ralph's Orchard Classic Collection fragrance oils. Pure, natural scents for oil burners, diffusers and candle making. Beautifully bottled and gift-ready.
-  Updated: 2026-08-29T14:30:24Z
+  Updated: 2026-09-07T11:51:49Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -670,7 +670,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/pipettescentdropper-nolabel-192244.jpg?v=1786901192
     Price: £13.99 GBP
 - [Handmade Soap Bars | Natural Artisan Soap | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/handmade-soap-bars): Shop Ralph's Orchard handmade soap bars. Natural, small-batch artisan soaps crafted with botanical ingredients. Vegan, plastic-free and beautifully scented.
-  Updated: 2026-08-29T14:30:22Z
+  Updated: 2026-09-09T14:30:50Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
@@ -713,7 +713,7 @@
     Availability: Not Available
     Price: £4.99 GBP
 - [Hazel Rainbow Super Soft Cotton Baby & Child Dress | MilkyMoon](https://www.solsticeandstone.co.uk/products/hazel-rainbow-super-soft-cotton-baby-child-dress): Adorable rainbow cotton dress for babies and children. Super soft, natural fabric designed for comfort and play. From MilkyMoon's children's collection.
-  Updated: 2026-08-27T16:45:21Z
+  Updated: 2026-09-07T11:51:49Z
   Vendor: Stylish Mum
   Product Type: Kids Dress
   Availability: Available
@@ -743,7 +743,7 @@
     Availability: Not Available
     Price: £15.99 GBP
 - [Rainbow Breastfeeding Skater Dress | Colourful Nursing Dress | MilkyMoon](https://www.solsticeandstone.co.uk/products/rainbow-breastfeeding-skater-dress-colourful-nursing-dress-milkymoon): Stylish rainbow skater dress with discreet breastfeeding access. Soft, comfortable and colourful nursing wear from MilkyMoon. Perfect for new mums.
-  Updated: 2026-08-25T04:25:53Z
+  Updated: 2026-09-07T11:51:49Z
   Vendor: MilkyMoon
   Product Type: Breastfeeding Dress
   Availability: Available
@@ -776,7 +776,7 @@
     Availability: Not Available
     Price: £36.99 GBP
 - [MilkyMoon Kid Hoodie | Soft Children's Hoodie | MilkyMoon](https://www.solsticeandstone.co.uk/products/milkymoon-kid-hoodie): Cosy and comfortable kids hoodie from MilkyMoon. Made with soft natural fabric, perfect for everyday wear. A great gift for little ones.
-  Updated: 2026-08-25T04:26:07Z
+  Updated: 2026-09-07T11:51:50Z
   Vendor: Stylish Mum
   Product Type: Hoodie
   Availability: Available
@@ -806,7 +806,7 @@
     Availability: Available
     Price: £16.99 GBP
 - [Boob Over the Rainbow Kids Top | Breastfeeding Awareness | MilkyMoon](https://www.solsticeandstone.co.uk/products/boob-over-the-rainbow-kids-top): Fun and colourful kids top celebrating breastfeeding. Soft, comfortable and made for little ones who love their mum. From MilkyMoon's children's range.
-  Updated: 2026-08-25T04:26:25Z
+  Updated: 2026-09-07T11:51:50Z
   Vendor: Stylish Mum
   Product Type: Kids Top
   Availability: Available
@@ -836,7 +836,7 @@
     Availability: Not Available
     Price: £16.99 GBP
 - [Mocha Cotton Breastfeeding Pyjamas | Nursing Loungewear | MilkyMoon](https://www.solsticeandstone.co.uk/products/mocha-cotton-breastfeeding-pyjamas-nursing-loungewear-set-milkymoon): Soft mocha cotton breastfeeding pyjamas with easy nursing access. Comfortable, stylish loungewear for new mums. From MilkyMoon's nursing collection.
-  Updated: 2026-08-25T04:26:44Z
+  Updated: 2026-09-07T11:51:50Z
   Vendor: MilkyMoon
   Product Type: Loungewear
   Availability: Available
@@ -854,7 +854,7 @@
     Availability: Available
     Price: £36.99 GBP
 - [Brown Leopard Breastfeeding Dress | Knee Length Nursing Dress | MilkyMoon](https://www.solsticeandstone.co.uk/products/brown-leopard-knee-length-breastfeeding-dress-nursing-dress-milkymoonn): Stylish brown leopard print knee length dress with discreet breastfeeding access. Comfortable, flattering nursing wear from MilkyMoon.
-  Updated: 2026-08-25T04:26:58Z
+  Updated: 2026-09-07T11:51:50Z
   Vendor: MilkyMoon
   Product Type: Breastfeeding Dress
   Availability: Available
@@ -887,21 +887,21 @@
     Availability: Not Available
     Price: £41.99 GBP
 - [Plain & Simple Epsom Salts Cotton Pouch 250g | Natural Bath Soak | Cotswold Spa](https://www.solsticeandstone.co.uk/products/plain-simple-epsom-salts-cotton-pouch-250g): Pure Epsom salts in a reusable cotton pouch. A simple, natural bath soak for relaxation and muscle relief. Plastic-free and eco-friendly. 250g.
-  Updated: 2026-08-25T04:27:50Z
+  Updated: 2026-09-07T11:51:50Z
   Vendor: Cotswold
   Product Type: Dissolvable Pouches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/file_7bd6e3a3-d483-4826-9d04-4754b35a642d.jpg?v=1786913498
   Price: £6.99 GBP
 - [Children's Epsom Salts Barley & Mango with Colour | Cotswold Spa Bathing Co](https://www.solsticeandstone.co.uk/products/luxury-range-natural-fun-childrens-epsom-salts-barley-mango-with-colour): Make bath time fun with these natural children's Epsom salts in barley and mango. Turns the bath red! Safe, natural and plastic-free.
-  Updated: 2026-08-27T23:10:58Z
+  Updated: 2026-09-07T11:51:51Z
   Vendor: Cotswold
   Product Type: All Products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/file.jpg?v=1786913497
   Price: £10.99 GBP
 - [Children's Soothe & Heal Dead Sea Salts | Natural Bath Soak | Cotswold Spa](https://www.solsticeandstone.co.uk/products/childrens-soothe-heal-dead-sea-salts): Gentle Dead Sea salts specially formulated to soothe and heal children's sensitive skin. Natural, plastic-free and safe for little ones.
-  Updated: 2026-08-25T04:28:13Z
+  Updated: 2026-09-07T11:51:51Z
   Vendor: Cotswold
   Product Type: All Products
   Availability: Available
@@ -913,7 +913,7 @@
     Availability: Available
     Price: £3.99 GBP
 - [Natural & Fun Barley & Mango Bath Pouch | Turns Bath Red | Cotswold Spa](https://www.solsticeandstone.co.uk/products/natural-fun-with-barley-mango-turns-the-bath-red-pouch): A fun and natural bath pouch with barley and mango that turns the water red! Perfect for children's bath time. Natural, safe and plastic-free.
-  Updated: 2026-08-27T23:05:14Z
+  Updated: 2026-09-07T11:51:51Z
   Vendor: Cotswold
   Product Type: 1kg Ready to Pour
   Availability: Available
@@ -925,14 +925,14 @@
     Availability: Available
     Price: £4.99 GBP
 - [Wellness Hamper | Natural Self-Care Gift Set | Solstice & Stone](https://www.solsticeandstone.co.uk/products/wellness-hamper): A beautifully curated wellness hamper filled with natural, artisan self-care products. The perfect luxury gift for birthdays, thank yous and special occasions.
-  Updated: 2026-08-27T23:09:47Z
+  Updated: 2026-09-07T11:51:51Z
   Vendor: Cotswold
   Product Type: All Products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/file.png?v=1786913496
   Price: £44.99 GBP
 - [Cotswold Spa Bathing Co Natural Candle 140g | Luxury Scented Candle](https://www.solsticeandstone.co.uk/products/cotswold-spa-bathing-company-natural-candle-140g): Indulge in the Cotswold Spa Bathing Co natural candle. Hand-poured with pure natural wax and calming scents. A luxurious 140g candle perfect for gifting.
-  Updated: 2026-08-25T04:29:20Z
+  Updated: 2026-09-07T11:51:51Z
   Vendor: Cotswold
   Product Type: All Products
   Availability: Available
@@ -962,14 +962,14 @@
     Availability: Available
     Price: £15.99 GBP
 - [Natural Bamboo Soap Draining Dish | Ladder Style | Eco Bathroom Accessory](https://www.solsticeandstone.co.uk/products/natural-bamboo-soap-draining-dish-ladder-style): Keep your soap dry and lasting longer with this natural bamboo ladder-style soap draining dish. Eco-friendly, sustainable and perfect for natural soap bars.
-  Updated: 2026-08-25T04:29:29Z
+  Updated: 2026-09-07T11:51:52Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/DSC_0144_1759fe38-cbd3-4d5a-b81b-5e3cacaab131.jpg?v=1787041042
   Price: £4.99 GBP
 - [Creamy Coffee Soap Bar | Natural Exfoliating Soap | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/creamy-coffee-soap-bar-naturally-exfoliating-3-different-styles): Naturally exfoliating coffee soap bar handcrafted with upcycled Wavi Coffee grounds. Rich lather, warm earthy scent. Vegan, SLS-free, palm-free. Made in Devon.
-  Updated: 2026-08-27T23:05:35Z
+  Updated: 2026-09-07T11:51:52Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -986,7 +986,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/TNS_SOTR_CreamyCofee_LI_Main2_d195263a-e394-4990-9750-0e1b17d75616.jpg?v=1787041043
     Price: £3.99 GBP
 - [Charcoal Face Wash Bar | Natural Detoxifying Facial Cleanser | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/charcoal-face-wash-bar-natural-detoxifying-facial-cleanser-vegan-plastic-free-skincare-for-all-skin-types): Deep cleanse and detoxify with this natural charcoal face wash bar. Vegan, plastic-free and suitable for all skin types. Gentle yet effective.
-  Updated: 2026-08-31T00:15:35Z
+  Updated: 2026-09-07T11:51:52Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -1001,21 +1001,21 @@
     Availability: Available
     Price: £18.99 GBP
 - [Citrus Mini Conditioner Bar Sampler | 4 Mini Bars Gift Set | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/citrus-mini-conditioner-bar-sampler-gift-set-with-4-mini-conditioner-bars): Try our citrus conditioner bars with this mini sampler gift set. 4 travel-sized natural conditioner bars, vegan and plastic-free. A perfect eco hair care gift.
-  Updated: 2026-08-27T23:12:45Z
+  Updated: 2026-09-07T11:51:52Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/DSC_0041_28dc9512-2c7d-4e14-a5e3-584e1f96f8f5.jpg?v=1787041042
   Price: £5.99 GBP
 - [Soap Sampler Gift Set | 8 Mini Natural Travel Soaps | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/soap-sampler-gift-set-8-x-25g-mini-travel-soaps-natural-handcrafted-letterbox-gift-vegan-plastic-free-skincare): Discover your favourite natural soap with this letterbox-friendly sampler gift set. 8 x 25g handcrafted mini soaps, vegan and plastic-free. Perfect for gifting.
-  Updated: 2026-08-30T00:56:42Z
+  Updated: 2026-09-09T00:15:22Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/DSC_0012.jpg?v=1787041043
   Price: £13.99 GBP
 - [Lemon Calendula Body Scrub | Natural Sugar Scrub for Glowing Skin | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/lemon-calendula-body-scrub-natural-exfoliating-sugar-scrub-for-smooth-glowing-skin-vegan-plastic-free-skincare-2-size-options): Reveal smooth, glowing skin with this natural lemon and calendula sugar scrub. Vegan, plastic-free and available in 2 sizes. A luxurious eco skincare treat.
-  Updated: 2026-08-27T23:15:09Z
+  Updated: 2026-09-07T11:51:53Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -1029,14 +1029,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Lemon_Calendula_200g_scrub.png?v=1787041043
     Price: £6.99 GBP
 - [Lavender Mint Cream Deodorant Balm | Natural Aluminium-Free Deodorant | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/lavender-mint-cream-deodorant-balm-natural-bicarb-aluminium-free-gentle-vegan-plastic-free-odour-protection): Stay fresh naturally with this lavender and mint cream deodorant balm. Bicarb and aluminium-free, gentle on skin. Vegan and plastic-free odour protection.
-  Updated: 2026-08-27T23:05:35Z
+  Updated: 2026-09-07T11:51:53Z
   Vendor: TheNaturalSpaWholesale
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/DSC_0727.jpg?v=1787041076
   Price: £7.99 GBP
 - [Lemon Eucalyptus Solid Conditioner Bar | Natural Hair Conditioner | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/lemon-eucalyptus-solid-conditioner-bar-natural-hair-conditioner-for-all-hair-types-vegan-plastic-free-hair-care): Nourish all hair types with this lemon and eucalyptus solid conditioner bar. Vegan, plastic-free and long-lasting natural hair care. Zero waste and travel-friendly.
-  Updated: 2026-08-31T00:15:26Z
+  Updated: 2026-09-09T00:15:49Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -1051,7 +1051,7 @@
     Availability: Available
     Price: £18.99 GBP
 - [Rosemary Clementine Soap Bar 100g | Natural Essential Oil Soap | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/rosemary-clementine-soap-bar-100g-scented-with-essential-oils-3-different-styles): Uplifting rosemary and clementine soap bar scented with pure essential oils. Handcrafted, vegan and plastic-free. Available in 3 styles. 100g.
-  Updated: 2026-08-31T00:15:27Z
+  Updated: 2026-09-07T11:51:53Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -1068,7 +1068,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Untitled_design_2_25723538-1ac3-4827-b774-ee745280001b.png?v=1787041106
     Price: £3.99 GBP
 - [Pure Cold Process Soap | Fragrance-Free Natural Bar | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/pure-cold-process-soap-no-added-fragrance-3-different-styles): A gentle, fragrance-free cold process soap bar handcrafted with skin-loving oils. Vegan, SLS-free, palm-free and plastic-free. Available in 3 styles. Made in Devon.
-  Updated: 2026-08-29T00:15:37Z
+  Updated: 2026-09-07T11:51:53Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
@@ -1082,21 +1082,21 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Pure_Soap_on_a_Rope_-_Copy.png?v=1787041111
     Price: £2.99 GBP
 - [Patchouli Lime Shower Steamers | Aromatherapy Shower Fizzers | The Natural Spa Co](https://www.solsticeandstone.co.uk/products/patchouli-lime-shower-steamers-aromatherapy-shower-fizzers-for-relaxation-energy-uplifting-citrus-floral-scent-set-of-4): Transform your shower with patchouli and lime aromatherapy shower steamers. Uplifting citrus and floral scent, set of 4. Natural, vegan and plastic-free.
-  Updated: 2026-08-28T00:15:28Z
+  Updated: 2026-09-09T00:15:23Z
   Vendor: Thenaturalspa
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/DSC_5686_1.jpg?v=1787041116
   Price: £6.99 GBP
 - [Clary Sage & Lavender Hand & Body Wash | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/clary-sage-and-lavender-hand-body-wash): Cleanse and calm with this natural clary sage and lavender hand and body wash from Ralph's Orchard. Gentle, botanical, and beautifully scented.
-  Updated: 2026-08-28T04:42:45Z
+  Updated: 2026-09-08T16:47:46Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/handwash_-_unbranded_6_5.jpg?v=1787848941
   Price: £13.99 GBP
 - [Wild Honey Tobacco Candle | Warm & Smoky Scent | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/wild-honey-tobacco): A rich, warming blend of wild honey and tobacco in a beautifully crafted candle from Ralph's Orchard. Deep, indulgent, and utterly captivating.
-  Updated: 2026-08-28T04:42:38Z
+  Updated: 2026-09-07T11:51:54Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1114,28 +1114,28 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/2_wick_black_-_wild_honey_tobacco_1.jpg?v=1787848942
     Price: £28.99 GBP
 - [Linen Exfoliating Soap Saver Bag | Zero Waste | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/linen-exfoliating-soap-saver-bag): Make the most of every bar with this natural linen soap saver bag from Ralph's Orchard. Gently exfoliating, eco-friendly, and plastic-free.
-  Updated: 2026-08-28T04:42:57Z
+  Updated: 2026-09-07T11:51:54Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/soapsaverbag_1.jpg?v=1787848941
   Price: £1.99 GBP
 - [Apricot Kernel Carrier Oil 100ml | Vegan Facial Oil | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/apricot-kernel-carrier-oil-cold-pressed-vegan-facial-skincare-oil-100-ml): Cold-pressed and 100% vegan, this apricot kernel carrier oil from Ralph's Orchard nourishes and softens skin. Ideal for face, body, and aromatherapy blends.
-  Updated: 2026-08-28T04:42:57Z
+  Updated: 2026-09-07T11:51:55Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/apricot_kernel_oil_2_3.jpg?v=1787848940
   Price: £10.99 GBP
 - [Repurposed Silver Sugar Bowl Candle](https://www.solsticeandstone.co.uk/products/repurposed-silver-sugar-bowl-candle): An antique silver-plated sugar bowl with a pair of ornate scrolled handles and a domed lid, standing on delicate scroll feet. The lid would once have carried a finial on top, now missing, leaving just a faint round mark where it broke away, a small trace of the bowl's long history. The silver has softened into a warm, dappled patina with age, catching the light unevenly across the curved body. Hand-poured in South London using our signature soy, coconut and rapeseed wax blend, it's scented with 100% pure lavender essential oil, calm, clean and unfussy. Two cotton wicks give an even burn across the rounded surface. Fragrance: Lavender (100% pure essential oil) Wax: Soy, coconut and rapeseed blend Wicks: Two cotton wicks Dimensions: 7cm height x 10cm width Wax weight: approx. 180g Total Weight: approx. 550g Vessel: Antique silver-plated sugar bowl with domed lid, finial now missing Handmade in England Vegan and cruelty-free One tree planted and ocean plastic removed with every order The lid is kept aside while the candle burns and can be popped back on between uses. Once the wax is finished, wash it out and it returns to service as a trinket or jewellery dish, lid and all. Browse the rest of our repurposed candle collection for more one-of-a-kind vessels.
-  Updated: 2026-08-28T04:42:51Z
+  Updated: 2026-09-07T11:51:55Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/silverpottwohandles-lavender_5_2.jpg?v=1787848940
   Price: £30.99 GBP
 - [Pampas Apothecary Bottle | Botanical Home Décor | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/pampas-apothecary-bottle): Add natural elegance to your home with this pampas apothecary bottle from Ralph's Orchard. A beautiful botanical accent for any shelf or windowsill.
-  Updated: 2026-08-28T04:42:54Z
+  Updated: 2026-09-07T11:51:55Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -1149,21 +1149,21 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/pampasbottlle-medium_5_1.jpg?v=1787848942
     Price: £8.99 GBP
 - [Daisy Perfume Oil Roll-On 10ml | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/daisy-perfume-oil-roll-on-10ml): A light, floral daisy perfume oil in a convenient 10ml roll-on. Natural fragrance for everyday wear from Ralph's Orchard.
-  Updated: 2026-08-28T04:43:13Z
+  Updated: 2026-09-07T11:51:55Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/daisyperfume_2.jpg?v=1787848956
   Price: £9.99 GBP
 - [Chamomile & Lavender Pillow Mist | Sleep Spray | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/chamomile-lavender-pillow-mist): Drift off naturally with this calming chamomile and lavender pillow mist. A soothing bedtime ritual from Ralph's Orchard.
-  Updated: 2026-08-28T04:44:33Z
+  Updated: 2026-09-09T14:30:56Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/pillow_spray_10_9_7_a961d6d8-7408-4f93-a1de-b7c8041b1e4e.jpg?v=1787848958
   Price: £13.99 GBP
 - [Wooden Fragrance Diffuser with Oil | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/elegant-wooden-fragrance-diffuser-with-fragrance-oil): Fill your home with natural fragrance using this elegant wooden diffuser and oil set from Ralph's Orchard. A stylish, long-lasting home scenting solution.
-  Updated: 2026-08-28T04:43:49Z
+  Updated: 2026-09-07T11:51:55Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -1217,14 +1217,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/wooden_diffuser_3-188515.jpg?v=1787848962
     Price: £17.99 GBP
 - [Destress Gift Set | Candle, Massage Oil & Roll-On | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/destress-gift-set-candle-massage-oil-aromatherapy-roll-on): The perfect self-care gift — a curated destress set with a candle, massage oil, and aromatherapy roll-on from Ralph's Orchard.
-  Updated: 2026-08-28T04:43:25Z
+  Updated: 2026-09-07T11:51:56Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/destresswithrollonnew_3.jpg?v=1787848969
   Price: £26.99 GBP
 - [Vintage Silver Gravy Jug Candle | Upcycled | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/vintage-silver-gravy-jug-candle): A beautifully repurposed vintage silver gravy jug transformed into a hand-poured candle. A unique, characterful gift from Ralph's Orchard.
-  Updated: 2026-08-29T14:30:21Z
+  Updated: 2026-09-07T11:51:56Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1238,36 +1238,40 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/gravyjug-zen_1_1.jpg?v=1787848970
     Price: £26.99 GBP
 - [Walled Garden Candle | Botanical Fragrance | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/walled-garden): Bring the tranquillity of a walled garden indoors with this beautifully scented candle from Ralph's Orchard. A serene, botanical fragrance for your home.
-  Updated: 2026-08-28T04:43:53Z
+  Updated: 2026-09-09T14:30:48Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/zz_mood_Walled_Garden.jpg?v=1787848973
+  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/copper-_walled_garden_1_8654711a-338e-4640-bb87-ce18ffb66cde.jpg?v=1788964228
   - [Matte Black Tin](https://www.solsticeandstone.co.uk/products/walled-garden?variant=59185802740057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/black_tin_-_walled_garden_2.jpg?v=1787848973
+    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/black_tin_-_walled_garden_2_c33662d7-73a6-48fb-afee-06fcd3050e34.jpg?v=1788964228
+    Price: £19.99 GBP
+  - [Silver Tin](https://www.solsticeandstone.co.uk/products/walled-garden?variant=59350568730969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/stin-_walled_garden_2.jpg?v=1788964228
     Price: £19.99 GBP
   - [Decorative Copper](https://www.solsticeandstone.co.uk/products/walled-garden?variant=59185802772825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/copper-_walled_garden_1.jpg?v=1787848973
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/copper-_walled_garden_1_8654711a-338e-4640-bb87-ce18ffb66cde.jpg?v=1788964228
     Price: £26.99 GBP
   - [Forest Green Ceramic](https://www.solsticeandstone.co.uk/products/walled-garden?variant=59185802805593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/forestgreenceramiccandle_3.jpg?v=1787848973
+    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/forestgreenceramiccandle_3_1bdd8afd-c27d-4af0-a38e-c87bf2430531.jpg?v=1788964227
     Price: £28.99 GBP
   - [Ceramic Marble Glaze](https://www.solsticeandstone.co.uk/products/walled-garden?variant=59185802838361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/whitemarbleceramiccandle_4_2.jpg?v=1787848973
+    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/whitemarbleceramiccandle_4_2_b9f2b54f-24d9-4731-8ab3-9391510acc73.jpg?v=1788964228
     Price: £30.99 GBP
 - [Yoga Lovers Gift Set | Wellness & Relaxation | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/yoga-lovers-gift-set): A thoughtful gift for yoga lovers — a curated wellness set to support mindful movement and relaxation, from Ralph's Orchard.
-  Updated: 2026-08-28T04:43:27Z
+  Updated: 2026-09-07T11:51:56Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Yoga_lovers_gift_set_4_3.jpg?v=1787848977
   Price: £32.99 GBP
 - [Botanical Bath Tea Bag | Natural Soak | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/botanical-bath-tea-bag): Soak away stress with a natural botanical bath tea bag from Ralph's Orchard. Packed with skin-loving herbs for a truly indulgent bath ritual.
-  Updated: 2026-08-31T14:30:25Z
+  Updated: 2026-09-07T11:51:56Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
@@ -1281,14 +1285,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/botanical_bath_tea_bag_9.jpg?v=1787848981
     Price: £10.99 GBP
 - [Concrete Star Candle | Artisan Home Décor | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/concrete-star-candle): A striking concrete star candle, handcrafted for modern, natural interiors. A unique gift or statement piece from Ralph's Orchard.
-  Updated: 2026-08-28T04:44:50Z
+  Updated: 2026-09-07T11:51:57Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/concretestar_1.jpg?v=1787848986
   Price: £9.99 GBP
 - [Mini Bath Bombs | Natural Fizzing Soak | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/mini-bath-bombs): Treat yourself to a fizzing, skin-softening soak with these natural mini bath bombs from Ralph's Orchard. Perfect for gifting or everyday indulgence.
-  Updated: 2026-08-28T04:44:32Z
+  Updated: 2026-09-07T11:51:57Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
@@ -1302,21 +1306,21 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/chillpills_2-630137.jpg?v=1787848989
     Price: £8.99 GBP
 - [Mini Botanical Vial Trio | Lavender, Rose & Chamomile | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/mini-botanical-vial-trio-lavender-rose-chamomile-petals): A charming trio of botanical vials filled with lavender, rose, and chamomile petals. A delicate, natural gift from Ralph's Orchard.
-  Updated: 2026-08-28T04:43:21Z
+  Updated: 2026-09-07T11:51:57Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/trioofpetals_2.jpg?v=1787848989
   Price: £4.99 GBP
 - [Spa Pampering Gift Set | Luxury Self-Care | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/spa-pampering-gift-set): Indulge in a little luxury with this spa pampering gift set from Ralph's Orchard. A beautifully curated collection of natural self-care essentials.
-  Updated: 2026-08-28T04:43:45Z
+  Updated: 2026-09-07T11:51:57Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/veganpamperinggiftsetwithsalts_1-379468.jpg?v=1787848997
   Price: £35.99 GBP
 - [Himalayan Bath Salts | Sage, Rosemary & Olive Oil | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/himalayan-bath-salts-sage-rosemary-and-olive-oil): Soothe tired muscles with Himalayan bath salts infused with sage, rosemary, and olive oil. A natural, mineral-rich soak from Ralph's Orchard.
-  Updated: 2026-08-28T04:43:23Z
+  Updated: 2026-09-07T14:30:31Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
@@ -1330,7 +1334,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Bath_Salts_-_new_tag_label_2.jpg?v=1787848997
     Price: £8.99 GBP
 - [Gentleman's Gift Set | Natural Grooming & Wellness | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/gentlemans-gift-set): A refined gift set for him — natural grooming and wellness essentials curated with care by Ralph's Orchard. The perfect present for any occasion.
-  Updated: 2026-08-28T04:43:34Z
+  Updated: 2026-09-09T14:30:52Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
@@ -1348,14 +1352,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/gentlemans-gift-set-10.jpg?v=1787849003
     Price: £35.99 GBP
 - [Bookish Evening Gift Set | Cosy Reading Night In | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/bookish-evening-gift-set): The perfect gift for book lovers — a cosy evening set to enjoy with a good read. Naturally crafted and beautifully presented by Ralph's Orchard.
-  Updated: 2026-08-28T04:43:52Z
+  Updated: 2026-09-09T14:30:42Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Bookish_gift_set_-_new_VB_label_3_4.jpg?v=1787849015
   Price: £35.99 GBP
 - [Gardeners Gift Set | Natural Botanical Treats | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/gardeners-gift-set): A beautiful gift for garden lovers — natural botanical treats to reward hardworking hands and soothe the senses, from Ralph's Orchard.
-  Updated: 2026-08-28T04:46:37Z
+  Updated: 2026-09-07T11:51:58Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
@@ -1377,7 +1381,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Gardeners_set_-_Lavender_and_seed_bombs_1_2.jpg?v=1787849042
     Price: £23.99 GBP
 - [Matte Black Classic Candle | Luxury Home Scent | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/matte-black-classic-candle): A sleek matte black candle with a clean, classic fragrance. Effortlessly stylish home scenting from Ralph's Orchard.
-  Updated: 2026-08-28T04:44:48Z
+  Updated: 2026-09-09T14:30:46Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1478,35 +1482,35 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/blacktin-unscented_1.jpg?v=1787849048
     Price: £19.99 GBP
 - [Natural Bath Bombs with Shea Butter | Moisturising Soak | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/set-of-natural-bath-bombs-with-shea-butter): Luxuriate in a moisturising, fizzing bath with this set of natural shea butter bath bombs from Ralph's Orchard. Skin-softening and beautifully scented.
-  Updated: 2026-08-28T04:44:33Z
+  Updated: 2026-09-07T11:51:58Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Bath_bombs_trio_unbranded_6_3.jpg?v=1787849056
   Price: £9.99 GBP
 - [Letterbox Wellbeing Set | Natural Self-Care Gift | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/the-letterbox-wellbeing-set): Send a little wellness through the post with this letterbox-friendly wellbeing set from Ralph's Orchard. A thoughtful, natural gift for someone special.
-  Updated: 2026-08-31T14:30:30Z
+  Updated: 2026-09-07T11:51:59Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/TheLetterboxWellbeingSet_2_2.jpg?v=1787849063
   Price: £13.99 GBP
 - [Snowed Christmas Cone Tree](https://www.solsticeandstone.co.uk/products/christmas-cone-trees): Snowed Christmas Trees are the perfect way to add a touch of festive magic to your home. Create a stunning dining table centerpiece, or highlight any corner of your room with this dreamy decoration. Mix trees with deers, wooden houses, and gnomes to create a wintery snowed forest. Breathe life into sideboards, coffee tables, and fireplaces with this beautiful decoration, turning your home into a cosy winter village!Product Details: x1 Christmas cone treeSize: 40cm HWeight: 122gr / piece
-  Updated: 2026-08-28T04:46:52Z
+  Updated: 2026-09-07T11:51:59Z
   Vendor: WHAT A HOST
   Product Type: Seasonal & Holiday Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/ChristmassnowedconetreessetfromWhataHostHomeDecor.jpg?v=1787849192
   Price: £15.99 GBP
 - [Maeve Porcelain Round Dinner Plate Green](https://www.solsticeandstone.co.uk/products/dinner-plates-maeve-green): The stylish frame of the Maeve Porcelain Round Dinner Plate in sage colour will undoubtedly highlight the presentation of your menu and upgrade the culinary experience. Every piece of this collection stands out for its hardness and incredible resistance to high temperatures, making them a perfect restaurant quality tableware to include in your kitchen. The Maeve Porcelain Collection is dishwasher and microwave safe. Product details:Porcelain Dinner Plate 26.9cm (dia) x 2.6cm800gr (per plate)Product Info: Porcelain Sage
-  Updated: 2026-08-28T04:46:44Z
+  Updated: 2026-09-07T11:51:59Z
   Vendor: WHAT A HOST
   Product Type: Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/MaevePorcelainRoundDinnerPlatefromWhataHostHomeDecor.jpg?v=1787849191
   Price: £17.99 GBP
 - [Lavender Moth Repellent Sachet | Natural & Mineral | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/organic-lavender-drawer-sachets): Protect your wardrobe naturally with this lavender and mineral salt moth repellent sachet from Ralph's Orchard. Effective, fragrant, and chemical-free.
-  Updated: 2026-08-31T14:30:26Z
+  Updated: 2026-09-09T14:30:58Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -1520,7 +1524,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/lavender_drawer_sachets_2.jpg?v=1787849193
     Price: £10.99 GBP
 - [Calendula & Mineral Salt Sachet | Natural Home | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/calendula-mineral-salt-sachet-set): A gentle, botanical sachet of calendula and mineral salts from Ralph's Orchard. Naturally fragrant and beautifully crafted for home or gifting.
-  Updated: 2026-08-28T14:30:30Z
+  Updated: 2026-09-09T14:30:53Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -1542,14 +1546,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/calendula_sachets_2.jpg?v=1787849194
     Price: £9.99 GBP
 - [Elia Cotton Napkin Set of 4](https://www.solsticeandstone.co.uk/products/gauze-rustic-napkins): The Elia 100% Cotton Table Napkin in white is perfect for creating a stylish and texture tablescape to receive your guests at home. Produced using eco-friendly cotton materials, this napkin has a soft feel, a delicate fall, and is ideal to match with tableware and cutlery of different styles to create a vibrant table set up. The Elia Cotton Table Napkin is machine washable.Product Details:x4 Elia 100% Table NapkinSize: 40cm x 40cmProduct Info: 100% eco-friendly Cotton
-  Updated: 2026-08-28T04:46:50Z
+  Updated: 2026-09-07T11:52:00Z
   Vendor: WHAT A HOST
   Product Type: Cloth Napkins
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/BlackroundporcelainplatestablewaresetandwhitecottongauzetablenapkinsfromWhataHostHomeDecor.jpg?v=1787849190
+  Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/elia-off-white-cotton-gauze-napkins-set-of-4.png?v=1788454080
   Price: £18.99 GBP
 - [Argan Solid Shampoo Bars | Natural Hair Care | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/vegan-argan-solid-shampoo-bar-rosemary-lavender): Nourish your hair naturally with argan-rich solid shampoo bars from Ralph's Orchard. Plastic-free, long-lasting, and kind to hair and scalp.
-  Updated: 2026-08-31T14:30:27Z
+  Updated: 2026-09-07T11:52:00Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
@@ -1567,7 +1571,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/rosemary_lavender_shampoo_bar_-_unbranded_2_1.jpg?v=1787849197
     Price: £3.99 GBP
 - [Unscented Pillar Candles | Clean Burn | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/pillar-candles-fragrance-free-unscented-natural-wax): Simple, elegant unscented pillar candles from Ralph's Orchard. A clean, long-lasting burn perfect for any occasion or home setting.
-  Updated: 2026-08-28T04:46:45Z
+  Updated: 2026-09-07T11:52:00Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1585,14 +1589,14 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Pillar_set_2-699874.jpg?v=1787849195
     Price: £28.99 GBP
 - [Smoke-Free Incense Mist | Soft Ember Scent | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/smoke-free-incense-mist-soft-ember): Enjoy the warmth of incense without the smoke with this Soft Ember mist from Ralph's Orchard. A clean, atmospheric fragrance for mindful moments.
-  Updated: 2026-08-28T04:47:14Z
+  Updated: 2026-09-09T14:30:48Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Smoke_Free_Incense_Spray_2.jpg?v=1787849199
   Price: £13.99 GBP
 - [Relaxation Gift Set | Natural Calm & Wellbeing | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/luxury-pampering-gift-set-with-candle-and-botanical-wax-melts): Give the gift of calm with this natural relaxation set from Ralph's Orchard. A beautifully curated collection to help unwind and restore.
-  Updated: 2026-08-28T04:46:58Z
+  Updated: 2026-09-08T16:47:56Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
@@ -1606,21 +1610,21 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/relaxation_gift_set_with_eye_pillow.jpg?v=1787849201
     Price: £31.99 GBP
 - [Morning Reset Mist | Citrus Room Spray | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/morning-reset-mist-bright-citrus-room-spray): Start your day with an uplifting burst of bright citrus with this morning reset room spray from Ralph's Orchard. Natural, energising, and refreshing.
-  Updated: 2026-08-28T04:47:00Z
+  Updated: 2026-09-09T14:30:58Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Morning_Reset_Spray_2.jpg?v=1787849203
   Price: £13.99 GBP
 - [Letterbox Sleep Set | Natural Bedtime Gift | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/letterbox-sleep-gift-set): Help someone sleep soundly with this letterbox-friendly sleep set from Ralph's Orchard. A calming, natural gift delivered straight through the door.
-  Updated: 2026-08-28T04:46:54Z
+  Updated: 2026-09-07T11:52:01Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/TheLetterboxSleepSet_1_3.jpg?v=1787849202
   Price: £11.99 GBP
 - [Zen Candle | Cassis, Rose & Green Tea Scent | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/zen-scented-natural-wax-candle): Find your calm with the Zen candle from Ralph's Orchard — a serene blend of cassis, rose, and green tea for a truly tranquil atmosphere.
-  Updated: 2026-08-28T04:46:47Z
+  Updated: 2026-09-08T16:47:46Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1637,10 +1641,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Copper_bobble_-_unscented1.jpg?v=1787849204
     Price: £26.99 GBP
-  - [2-Wick Black](https://www.solsticeandstone.co.uk/products/zen-scented-natural-wax-candle?variant=59185853202777)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/2-wick-black-zen_1-213526.jpg?v=1787849204
-    Price: £28.99 GBP
   - [Forest Green Ceramic](https://www.solsticeandstone.co.uk/products/zen-scented-natural-wax-candle?variant=59185853235545)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/forestgreenceramiccandle_3_1b73d56c-82a7-4df8-bfb1-4ea417277f0c.jpg?v=1787849204
@@ -1650,49 +1650,49 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/whitemarbleceramiccandle_4_2_988c7880-7fdb-4b18-aef5-cd0eb8c16ad9.jpg?v=1787849204
     Price: £30.99 GBP
 - [Pure Witch Hazel Spray 30ml | Natural Toner | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/pure-witch-hazel-spray-30ml): A pure, alcohol-free witch hazel spray for naturally clear, balanced skin. A gentle, multi-use botanical toner from Ralph's Orchard.
-  Updated: 2026-08-28T04:48:06Z
+  Updated: 2026-09-09T14:30:37Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/witchhazelspray_7_8.jpg?v=1787849205
   Price: £6.99 GBP
 - [Coastal Home Escape Set | Sea Salt & Driftwood Candle Gift | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/coastal-home-escape-gift-set): Bring the coast home with this vegan sea salt and driftwood candle gift set from Ralph's Orchard. A refreshing, ocean-inspired escape in a box.
-  Updated: 2026-08-28T04:46:58Z
+  Updated: 2026-09-07T11:52:02Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/TheCoastalHomeEscapeSet_1.jpg?v=1787849207
   Price: £46.99 GBP
 - [Men's Woodland Escape Gift Set | Natural Grooming | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/mens-woodland-escape-gift-set): A rugged, nature-inspired gift set for him from Ralph's Orchard. Woodland-scented natural grooming essentials, beautifully presented.
-  Updated: 2026-08-28T04:47:01Z
+  Updated: 2026-09-09T14:30:47Z
   Vendor: Ralph's Orchard
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/woodland_escape_set_with_white_chill_pills_2_2.jpg?v=1787849209
   Price: £39.99 GBP
 - [Repurposed Vintage Goblet Candles | Upcycled | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/wellness-collection-collectible-rapeseed-candles-gift-set-with-3-popular-scents): Beautifully hand-poured candles in repurposed vintage goblets from Ralph's Orchard. Each one unique — a sustainable, characterful gift or home accent.
-  Updated: 2026-08-28T04:48:06Z
+  Updated: 2026-09-07T11:52:02Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/winterscentscollectiongoblets_1-743447_1.jpg?v=1787849209
   Price: £50.99 GBP
 - [Pure Rose Water | Natural Skin Toner & Mist | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/rose-water-natural-facial-toner-100ml): Refresh and tone your skin with pure rose water from Ralph's Orchard. A gentle, natural mist for face, body, and hair — beautifully versatile.
-  Updated: 2026-08-28T04:47:30Z
+  Updated: 2026-09-09T14:30:57Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/rose_water_2.jpg?v=1787849211
   Price: £8.99 GBP
 - [Aromatherapy Roll-On | Natural Essential Oil Blend | Ralph's Orchard](https://www.solsticeandstone.co.uk/products/patchouli-jasmine-ylang-ylang-roll-on-10ml): Carry calm wherever you go with this aromatherapy roll-on from Ralph's Orchard. A natural essential oil blend for on-the-go wellbeing.
-  Updated: 2026-08-28T04:47:09Z
+  Updated: 2026-09-07T14:31:42Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/rollon-unbranded_10_5.jpg?v=1787849213
   Price: £7.99 GBP
 - [Winter Clementine](https://www.solsticeandstone.co.uk/products/winter-clementine-fragranced-citrus-candle): Experience the crisp and vibrant essence of winter with our Winter Clementine candle. A burst of ripe clementine and zesty lemon mingles with the rich sweetness of cassis, with a heart of delicate orange blossom. Only cruelty free and eco friendly ingredients used. Hand-poured in England. Browse the full candle collection. Having trouble finding your perfect scent? Read our fragrance list to see all the option we have.
-  Updated: 2026-08-28T04:47:01Z
+  Updated: 2026-09-07T11:52:03Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
@@ -1714,35 +1714,35 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/2-wick-black-winter-clementine-7-1728470124591-355115.jpg?v=1787849212
     Price: £28.99 GBP
 - [Repurposed Vintage Silver Trophy Cup Candle - Smoky Earl](https://www.solsticeandstone.co.uk/products/repurposed-silver-trophy-cup-candle-smoky-earl): A vintage silver-plated trophy cup, mounted on its original dark marble plinth, hand-poured with our Smoky Earl fragrance - a refined blend of smoky bergamot, black tea and soft rose, grounded in cedarwood and violet. The cup is beautifully worn in the way only decades of handling, polishing and display can achieve. The ridged fan base and square marble plinth give it a presence that is impossible to replicate in anything made new. At 17cm tall, it sits with real authority on a shelf or mantelpiece. Once the candle has burned down, the cup is yours to keep, display or repurpose. Hand-poured in England using our natural soy, coconut and rapeseed wax blend. Phthalate-free fragrance. Vegan and cruelty-free. Every order plants a tree and removes ocean plastic. Part of our one-of-a-kind repurposed candle collection - vintage vessels given a second life as handmade candles. Details Size: 8cm x 17cm (including plinth) Fragrance: Smoky Earl - smoky bergamot, black tea, soft rose, cedarwood, violet Wax: Natural soy, coconut and rapeseed blend Single wick Hand-poured in England Vegan | Phthalate-free | One of a kind
-  Updated: 2026-08-28T04:47:08Z
+  Updated: 2026-09-08T16:47:44Z
   Vendor: Ralph's Orchard
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/trophycandle_4.jpg?v=1787849215
   Price: £24.99 GBP
 - [Finn Beige Linen Napkin Set of 4](https://www.solsticeandstone.co.uk/products/linen-napkins): The Finn 100% Linen Table Napkin in beige natural colour are perfect for creating a stylish and texture tablescape to receive your guests at home. Produced using eco-friendly linen materials, this napkin have a soft feel, a delicate fall, and is ideal to match with tableware and cutlery of different styles to create a vibrant table set up. The Finn Linen Table Napkin is machine washable.Product Details: x4 Finn 100% Linen Table NapkinSize: 30cm x 45cmProduct Info: 100% eco-friendly linen textile
-  Updated: 2026-08-28T04:47:26Z
+  Updated: 2026-09-07T11:52:03Z
   Vendor: WHAT A HOST
   Product Type: Cloth Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/WoodennapkinholderssetandlinentablenapkinssetfromWhataHostHomeDecor_a894ba8f-56f4-4fc3-a57d-ec9ba1b0bed1.jpg?v=1787849218
   Price: £18.99 GBP
 - [Maeve White Porcelain Round Dinner Plate](https://www.solsticeandstone.co.uk/products/dinner-plates-maeve-white): The stylish frame of the Maeve Porcelain Round Dinner Plate will undoubtedly highlight the presentation of your menu and upgrade the culinary experience. Every piece of this collection stands out for its hardness and incredible resistance to high temperatures, making them a perfect restaurant quality tableware to include in your kitchen. The Maeve Porcelain Collection is dishwasher safe. Do not use in the microwave. Product details:- Porcelain Dinner Plate 26.9cm (dia) x 2.6cm800gr (per plate) Product Info: Porcelain white
-  Updated: 2026-08-28T04:47:11Z
+  Updated: 2026-09-07T11:52:03Z
   Vendor: WHAT A HOST
   Product Type: Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/MaeveWhitePorcelainRoundDinnerPlatefromWhataHostHomeDecor.jpg?v=1787849218
   Price: £16.99 GBP
 - [Lavender, Peppermint & Chamomile Bath Oil 200ml](https://www.solsticeandstone.co.uk/products/lavender-peppermint-chamomile-natural-bath-oil): A calming 200ml bath oil blending lavender, peppermint and chamomile. Naturally soothing botanicals to unwind tired muscles and quiet the mind at day's end.
-  Updated: 2026-08-30T21:47:40Z
+  Updated: 2026-09-07T11:52:03Z
   Vendor: Ralph's Orchard
   Product Type: Bath & Body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/Bath_oil_essence_unbranded_9_3.jpg?v=1787849219
   Price: £19.99 GBP
 - [Handmade Easter & Spring Decorations | Tracy Laughton](https://www.solsticeandstone.co.uk/products/handmade-easter-spring-decorations-by-tracy-laughton): Handcrafted Easter and spring decorations by artisan maker Tracy Laughton. Unique, characterful seasonal pieces to bring warmth and nature into your home.
-  Updated: 2026-08-30T21:47:50Z
+  Updated: 2026-09-07T11:52:03Z
   Vendor: Ralph's Orchard
   Product Type: Home
   Availability: Available
@@ -1768,7 +1768,7 @@
     Image: https://cdn.shopify.com/s/files/1/1065/6396/1177/files/hangerbunny_1__1709210881702-816855_2afd8845-7564-4b62-9c9b-91c267041d4e.jpg?v=1788013824
     Price: £3.99 GBP
 - [Leia Body Shape Ceramic Vases Set](https://www.solsticeandstone.co.uk/products/vases-ceramic-body-shape): The Leia Body Shape Ceramic Vases Set will add an artistic touch to your home. Its unique sculptural shape and matte finish make it an ideal piece to bring character to your interiors and would perfectly mix with several modern home accessories. These modern and trendy decorative vase can be displayed in entryways, hallways, sideboards, table centrepieces, and modern living rooms. It can also be used as a decorative vase to display flowers.Product Details: x2 Body Shape Ceramic Vases (1 set of 2 pieces)Size: 10.5cm H x 10cm L x 10cm WWeight: 880gr / set (434gr top / 446gr bottom)Product Info: Ceramic
-  Updated: 2026-08-28T04:47:22Z
+  Updated: 2026-09-07T11:52:04Z
   Vendor: WHAT A HOST
   Product Type: Vases
   Availability: Available
@@ -1779,41 +1779,32 @@
 ## Collections
 
 - [Home page](https://www.solsticeandstone.co.uk/collections/frontpage)
-  Updated: 2026-08-16T21:19:20Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 0
 - [More Bees Please | Raw Honey, Beeswax Candles & Bee Gifts](https://www.solsticeandstone.co.uk/collections/more-bees-please): Shop More Bees Please for raw honey, beeswax candles, body butters and bee-inspired gifts. Natural, ethical and small-batch. Free UK delivery available.
-  Updated: 2026-08-25T19:30:02Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 14
 - [Savonnerie de la Cigogne | French Artisan Soaps & Skincare](https://www.solsticeandstone.co.uk/collections/savonnerie-de-la-cigogne): Discover Savonnerie de la Cigogne — handcrafted French artisan soaps and natural skincare. Small-batch, skin-loving ingredients. Shop online in the UK.
-  Updated: 2026-08-27T10:33:35Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 14
-- [Ralph's Orchard | Candles, Fragrance Oils & Botanical Soaps](https://www.solsticeandstone.co.uk/collections/ralphs-orchard): Shop Ralph's Orchard for handmade candles, fragrance oils and botanical soaps. Natural, artisan-crafted scents inspired by the orchard. UK delivery.
-  Updated: 2026-08-29T14:30:23Z
-  Total Products: 46
-- [Milky Moon | Children's Clothes, Nursing Wear & Natural Skincare](https://www.solsticeandstone.co.uk/collections/milky-moon): Shop Milky Moon for gentle children's clothing and natural skincare. Soft, safe and beautifully made for little ones. Free UK delivery available.
-  Updated: 2026-08-27T16:45:22Z
-  Total Products: 6
-- [Cotswold Spa Bathing Co | Luxury Bath & Spa Products](https://www.solsticeandstone.co.uk/collections/cotswold-spa-bathing-co): Indulge in Cotswold Spa Bathing Co — luxury bath salts, oils and spa essentials inspired by the English countryside. Natural ingredients, UK delivery.
-  Updated: 2026-08-27T10:49:57Z
-  Total Products: 5
-- [The Natural Spa Co | Natural Bath & Body Products](https://www.solsticeandstone.co.uk/collections/the-natural-spa-co): Shop The Natural Spa Co for pure, natural bath and body products. From bath soaks to body scrubs — clean ingredients, beautiful results. UK delivery.
-  Updated: 2026-08-27T10:52:34Z
-  Total Products: 10
 - [Ralph's Orchard — Candles](https://www.solsticeandstone.co.uk/collections/ralphs-orchard-candles): Shop hand-poured artisan candles from Ralph's Orchard. Natural, botanical fragrances in beautiful vessels — from vintage repurposed to classic styles.
-  Updated: 2026-08-29T14:30:23Z
+  Updated: 2026-09-08T16:47:45Z
   Total Products: 13
 - [Ralph's Orchard — Gift Sets](https://www.solsticeandstone.co.uk/collections/ralphs-orchard-gift-sets): Discover beautifully curated natural gift sets from Ralph's Orchard. Perfect for any occasion — from spa pampering to cosy evenings in.
-  Updated: 2026-08-27T17:10:24Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 11
 - [Ralph's Orchard — Bath & Body](https://www.solsticeandstone.co.uk/collections/ralphs-orchard-bath-body): Shop natural bath and body products from Ralph's Orchard. Botanical ingredients, plastic-free options, and indulgent treats for your self-care routine.
-  Updated: 2026-08-27T17:10:37Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 15
 - [Ralph's Orchard — Home & Fragrance](https://www.solsticeandstone.co.uk/collections/ralphs-orchard-home-fragrance): Discover natural home fragrance and botanical home accessories from Ralph's Orchard. Room sprays, diffusers, sachets, and more for a calmer, more beautiful home.
-  Updated: 2026-08-27T17:10:49Z
+  Updated: 2026-09-07T11:51:41Z
   Total Products: 11
 - [What a Host | Home Décor & Hostess Gifts](https://www.solsticeandstone.co.uk/collections/what-a-host): Discover What a Host — eco homewares and thoughtful hostess gifts from Solstice and Stone. Perfect for conscious homes and considered entertaining.
-  Updated: 2026-08-29T14:30:22Z
+  Updated: 2026-09-08T16:47:45Z
   Total Products: 56
+- [Ralph's Orchard](https://www.solsticeandstone.co.uk/collections/ralphs-orchard): Shop Ralph's Orchard for handcrafted candles, fragrance oils, botanical soaps and bath products. Natural, artisan lifestyle products from Solstice and Stone.
+  Updated: 2026-09-08T16:47:45Z
+  Total Products: 50
 
 ## Blogs
 
