@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-07-07T07:57:56Z
 - Contact Email: patelsupriya228@gmail.com
-- Updated At: 2026-08-27T00:00:40.321Z
+- Updated At: 2026-09-10T00:00:44.005Z
 
 ## Products
 
@@ -3149,43 +3149,43 @@
 ## Collections
 
 - [Devotional Tees](https://aravaisutextiles.in/collections/devotional-tees): Shop premium devotional graphic tees featuring Radha Krishna, Ganesha, Shri Ram & Baby Krishna. Unisex cotton tshirts. Perfect festive & spiritual gift.
-  Updated: 2026-08-16T06:29:11Z
+  Updated: 2026-08-31T19:27:23Z
   Total Products: 11
 - [Couple Matching Tees](https://aravaisutextiles.in/collections/couple-matching-tees): Shop couple matching graphic tees — romantic, anime, desi & K-drama designs. Unisex cotton tshirts. Best anniversary & couple gift in India.
-  Updated: 2026-08-16T06:29:39Z
+  Updated: 2026-08-31T19:27:51Z
   Total Products: 18
 - [Hindi Slogan Tees](https://aravaisutextiles.in/collections/hindi-slogan-tees): Shop bold Hindi slogan graphic tees — chai premi, sakht launda, desi meme & folk art designs. Unisex cotton tshirts. Best desi gift in India.
-  Updated: 2026-08-16T06:30:02Z
+  Updated: 2026-08-31T19:26:21Z
   Total Products: 6
 - [Kids Tees](https://aravaisutextiles.in/collections/kids-tees): Shop cute kids graphic tees for boys & girls — dinosaurs, unicorns, Baby Krishna & more. Premium cotton crew neck. Best gift for kids in India.
-  Updated: 2026-08-16T06:30:23Z
+  Updated: 2026-08-31T19:27:02Z
   Total Products: 10
 - [Women's Crop Tops & Baby Tees](https://aravaisutextiles.in/collections/womens-crop-tops-baby-tees): Shop women's fitted crop tops & baby tees — kawaii, anime, quirky & art prints. Premium cotton. Best graphic crop top for women in India.
-  Updated: 2026-08-16T06:31:25Z
+  Updated: 2026-08-31T19:27:51Z
   Total Products: 25
 - [All-Over Print (AOP) Tees](https://aravaisutextiles.in/collections/all-over-print-tees): Shop all-over print sublimation tees — florals, animals, kawaii & couple designs. Full-coverage AOP graphic tshirts. Best AOP tee in India.
-  Updated: 2026-08-16T06:32:05Z
+  Updated: 2026-08-31T19:26:43Z
   Total Products: 12
 - [Oversized Tees](https://aravaisutextiles.in/collections/oversized-tees): Shop oversized graphic tees — heritage art, meme, couple & sassy prints. Relaxed fit unisex cotton tshirts. Best oversized tee in India.
-  Updated: 2026-08-16T06:32:22Z
+  Updated: 2026-08-31T19:26:32Z
   Total Products: 6
 - [Anime & Cartoon Tees](https://aravaisutextiles.in/collections/anime-cartoon-tees): Shop anime & cartoon graphic tees — Shinchan, Doraemon, K-drama & more. Premium cotton tshirts. Best anime tee for fans in India.
-  Updated: 2026-08-16T06:33:13Z
+  Updated: 2026-08-31T19:26:43Z
   Total Products: 6
 - [Heritage & Indian Culture Tees](https://aravaisutextiles.in/collections/heritage-indian-culture-tees): Shop Indian heritage graphic tees — Kathakali, Yakshagana, Madhubani folk art & culture prints. Premium unisex tshirts. Celebrate India in style.
-  Updated: 2026-08-16T06:33:54Z
+  Updated: 2026-08-31T19:26:42Z
   Total Products: 3
 - [Meme & Quirky Tees](https://aravaisutextiles.in/collections/meme-quirky-tees): Shop meme & quirky graphic tees — WFH cat, desi humour & offbeat prints. Unisex cotton tshirts. Funniest graphic tee in India.
-  Updated: 2026-08-16T06:34:16Z
+  Updated: 2026-08-31T19:27:41Z
   Total Products: 6
 - [Women's Tees](https://aravaisutextiles.in/collections/womens-tees): Shop women's graphic tees & crop tops — kawaii, anime, AOP, quirky & romantic prints. Premium fitted cotton. Best women's tshirt in India.
-  Updated: 2026-08-16T06:48:14Z
+  Updated: 2026-08-31T19:26:44Z
   Total Products: 25
 - [Kids' Tees](https://aravaisutextiles.in/collections/kids-tees-gender): Shop cute kids' graphic tees for boys & girls — dinosaurs, unicorns, Baby Krishna & more. Premium cotton crew neck. Best gift for kids in India.
-  Updated: 2026-08-16T06:48:31Z
+  Updated: 2026-08-31T19:26:42Z
   Total Products: 10
 - [Unisex Tees](https://aravaisutextiles.in/collections/unisex-tees): Shop unisex graphic tees — devotional, couple matching, Hindi slogan, heritage art & meme prints. Premium cotton. Best unisex tshirt in India.
-  Updated: 2026-08-16T06:48:48Z
+  Updated: 2026-08-31T19:27:02Z
   Total Products: 38
 
 ## Blogs
@@ -3196,11 +3196,11 @@
     Author: Aravaisu Textiles
     Tags: about, brand, couple matching, devotional, hindi slogan, indian brand, made in india, printed t-shirts
   - [Top 10 Devotional T-Shirts for Navratri 2026 | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/top-10-devotional-t-shirts-for-navratri-2026): Top 10 Devotional T-Shirts for Navratri 2026 | Aravaisu Textiles
-    Updated: 2026-08-09T13:39:10Z
+    Updated: 2026-08-31T19:27:33Z
     Author: supriya patel
     Tags: aravaisu-textiles, devotional, festival, ganesha, graphic-tee, navratri, radha-krishna
   - [Top 10 Devotional T-Shirts for Navratri 2026 | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/top-10-devotional-t-shirts-for-navratri-2027): Top 10 Devotional T-Shirts for Navratri 2026 | Aravaisu Textiles
-    Updated: 2026-08-09T13:39:10Z
+    Updated: 2026-08-31T19:26:43Z
     Author: supriya patel
     Tags: aravaisu-textiles, devotional, festival, ganesha, graphic-tee, navratri, radha-krishna
   - [Complete Guide to Devotional Graphic T-Shirts in India | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/the-complete-guide-to-devotional-graphic-t-shirts-in-india): Complete Guide to Devotional Graphic T-Shirts in India | Aravaisu Textiles
@@ -3219,34 +3219,34 @@
     Updated: 2026-08-06T18:00:32Z
     Author: supriya patel
   - [What Are Devotional T-Shirts & Why Indians Are Wearing Them | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/what-are-devotional-t-shirts-why-indians-are-wearing-them): What Are Devotional T-Shirts & Why Indians Are Wearing Them | Aravaisu Textiles
-    Updated: 2026-08-08T23:30:34Z
+    Updated: 2026-08-31T19:26:42Z
     Author: Aravaisu Textiles
     Tags: devotional-tee, ganesha, graphic-tee, indian-brand, indian-fashion, radha-krishna, ram, spiritual-wear
   - [How to Style Indian Graphic Tees for Every Occasion | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/how-to-style-indian-graphic-tees-for-every-occasion): How to Style Indian Graphic Tees for Every Occasion | Aravaisu Textiles
-    Updated: 2026-08-08T23:30:16Z
+    Updated: 2026-08-31T19:26:51Z
     Author: Aravaisu Textiles
     Tags: aop-crop-top, baby-tee, couple-tee, fashion-tips, graphic-tee, indian-fashion, styling-guide
   - [Cotton vs Poly-Cotton — The Indian Summer Fabric Guide | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/cotton-vs-poly-cotton-the-indian-summer-fabric-guide): Cotton vs Poly-Cotton — The Indian Summer Fabric Guide | Aravaisu Textiles
-    Updated: 2026-08-08T23:25:47Z
+    Updated: 2026-08-31T19:27:01Z
     Author: Aravaisu Textiles
     Tags: 180-gsm, cotton-tee, fabric-guide, fashion-tips, indian-summer, t-shirt-care
   - [How to Style Indian Graphic Tees for Every Occasion | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/how-to-style-indian-graphic-tees-for-every-occasion-1): How to Style Indian Graphic Tees for Every Occasion | Aravaisu Textiles
-    Updated: 2026-08-08T23:28:09Z
+    Updated: 2026-08-31T19:27:02Z
     Author: Aravaisu Textiles
     Tags: aop-crop-top, baby-tee, couple-tee, fashion-tips, graphic-tee, indian-fashion, styling-guide
   - [Cotton vs Poly-Cotton — The Indian Summer Fabric Guide | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/cotton-vs-poly-cotton-the-indian-summer-fabric-guide-1): Cotton vs Poly-Cotton — The Indian Summer Fabric Guide | Aravaisu Textiles
-    Updated: 2026-08-08T23:32:35Z
+    Updated: 2026-08-31T19:26:53Z
     Author: Aravaisu Textiles
     Tags: 180-gsm, cotton-tee, fabric-guide, fashion-tips, indian-summer, t-shirt-care
   - [About Aravaisu Textiles — Our Story & Mission | Indian Graphic Apparel Brand](https://aravaisutextiles.in/blogs/news/about-aravaisu-textiles-our-story-our-mission): About Aravaisu Textiles — Our Story & Mission | Indian Graphic Apparel Brand
-    Updated: 2026-08-08T23:35:59Z
+    Updated: 2026-08-31T19:26:52Z
     Author: Aravaisu Textiles
     Tags: about-us, aravaisu-textiles, brand-story, devotional-fashion, indian-brand, made-in-india
   - [Top 10 Couple T-Shirt Ideas for Every Occasion India 2026 | Aravaisu Textiles](https://aravaisutextiles.in/blogs/news/top-10-couple-t-shirt-ideas-for-every-occasion-in-india-2026): Top 10 Couple T-Shirt Ideas for Every Occasion India 2026 | Aravaisu Textiles
-    Updated: 2026-08-09T06:34:15Z
+    Updated: 2026-08-31T19:27:03Z
     Author: supriya patel
   - [How to Choose the Perfect Printed T-Shirt in India — Buyer's Guide 2026](https://aravaisutextiles.in/blogs/news/how-to-choose-the-perfect-printed-t-shirt-complete-buyers-guide-for-india): How to Choose the Perfect Printed T-Shirt in India — Buyer's Guide 2026
-    Updated: 2026-08-09T06:43:00Z
+    Updated: 2026-08-31T19:26:52Z
     Author: supriya patel
 
 ## Store Pages
