@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2025-11-02T16:10:48Z
-- Updated At: 2026-08-31T00:00:41.099Z
+- Updated At: 2026-09-10T00:00:41.879Z
 
 ## Products
 
@@ -772,7 +772,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_nocomfort_front_frau.webp?v=1775565717
 - [No Comfort Tee – Caballeros](https://el-capitano.net/products/unisex-classic-tee): Nicht gemacht für Komfortzonen. Gemacht für Männer, die auch unter Druck ihren eigenen Kurs halten. Das No Comfort Tee – Caballeros kombiniert einen geraden, klaren Schnitt mit einem kompromisslosen Design. Vorne reduziert. Hinten BUILT UNDER PRESSURE. Kein überladener Fashion-Print, sondern eine klare Ansage. Der Stoff trägt sich angenehm und stabil, ohne dünn oder beliebig zu wirken. Ob unterwegs, auf Treffen oder einfach im Alltag. Das Shirt passt zu Männern, die lieber Haltung zeigen als jedem Trend hinterherzulaufen. Teil der Capitano Crew Line Edition. Details • Gerader Schnitt mit klarer Linie• angenehmes und stabiles Tragegefühl• Frontprint „NO COMFORT“ mit vertikalem GIT-Design• Rückenprint „BUILT UNDER PRESSURE“ im Distressed-Look• mehrere Farbvarianten erhältlich Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-24T03:27:46Z
+  Updated: 2026-09-02T12:25:46Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -820,10 +820,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_mann.webp?v=1775565337
   - [Military Green / 4XL](https://el-capitano.net/products/unisex-classic-tee?variant=56522618929538)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_mann.webp?v=1775565337
   - [Military Green / 5XL](https://el-capitano.net/products/unisex-classic-tee?variant=56522618962306)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_mann.webp?v=1775565337
   - [Sport Grey / S](https://el-capitano.net/products/unisex-classic-tee?variant=56522619191682)
     Availability: Available
@@ -844,10 +844,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_mann.webp?v=1775565337
   - [Sport Grey / 4XL](https://el-capitano.net/products/unisex-classic-tee?variant=56522619388290)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_mann.webp?v=1775565337
   - [Sport Grey / 5XL](https://el-capitano.net/products/unisex-classic-tee?variant=56522619421058)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_mann.webp?v=1775565337
   - [Navy / S](https://el-capitano.net/products/unisex-classic-tee?variant=56522618208642)
     Availability: Available
@@ -871,7 +871,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_nocomfort_front_mann.webp?v=1775565337
   - [Navy / 5XL](https://el-capitano.net/products/unisex-classic-tee?variant=56522618438018)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_nocomfort_front_mann.webp?v=1775565337
   - [Sapphire / S](https://el-capitano.net/products/unisex-classic-tee?variant=56522618470786)
     Availability: Available
@@ -1216,7 +1216,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_dilligaffu_front_mann.webp?v=1781456367
 - [DILLIFU Hoodie - Caballeros](https://el-capitano.net/products/dillifu-hoodie): DILLIGAF FU Hoodie – Caballeros Man muss nicht jedem gefallen. Der DILLIGAF FU Hoodie – Caballeros verbindet ein klares Utility-Design mit einem angenehmen, robusten Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode-Print auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Touren und alle, die lieber ihren eigenen Weg gehen, als sich nach der Meinung anderer zu richten. Teil der Capitano Crew Line Edition. Details • angenehmes und robustes Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich• Hinweis: Wer es etwas weicher und leichter mag, findet bei der Señoras-Version eine angenehm softere Stoffqualität. Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-30T15:39:37Z
+  Updated: 2026-09-02T14:23:01Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1527,6 +1527,294 @@
   - [Red / M](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130282370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_frau_89b33a72-5254-4986-a2f0-fa7f1ffd36b7.webp?v=1784907226
+- [REVOLUTION Sweater – Señoras](https://el-capitano.net/products/unisex-pullover): Freiheit kennt kein Geschlecht. Der REVOLUTION Sweater bringt den markanten REVOLUTION-Look in eine feminine Passform und verbindet klares Design mit einem angenehmen, weicheren Tragegefühl. Der auffällige REVOLUTION-Print auf der Vorderseite mit seinen markanten Spray- und Dripping-Effekten macht den Sweater zum Statement, ohne dabei überladen zu wirken. Für kühle Tage, lange Abende und alle, die ihren eigenen Weg gehen, statt sich nach der Meinung anderer zu richten. Teil der El Capitano Crew Line Edition. Details • angenehme und weichere Stoffqualität• feminine Passform• klassischer Rundhalsausschnitt• gerippte Bündchen an Hals, Ärmeln und Saum• markanter REVOLUTION Frontprint im Industrial-Look• auffällige Spray- und Dripping-Effekte• mehrere Farbvarianten erhältlich• klassischer Sweater-Schnitt Teil der El Capitano Crew Line-Kollektion.
+  Updated: 2026-09-08T06:17:41Z
+  Vendor: El Capitano
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / S](https://el-capitano.net/products/unisex-pullover?variant=56893149741442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / M](https://el-capitano.net/products/unisex-pullover?variant=56893149774210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / L](https://el-capitano.net/products/unisex-pullover?variant=56893149806978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / XL](https://el-capitano.net/products/unisex-pullover?variant=56893149839746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893149872514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893149905282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893149938050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [White / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893149970818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_frau.webp?v=1788698796
+  - [Black / S](https://el-capitano.net/products/unisex-pullover?variant=56893148496258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / M](https://el-capitano.net/products/unisex-pullover?variant=56893148529026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / L](https://el-capitano.net/products/unisex-pullover?variant=56893148561794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / XL](https://el-capitano.net/products/unisex-pullover?variant=56893148594562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893148627330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893148660098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893148692866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Black / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893148725634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_frau.webp?v=1788698796
+  - [Navy / S](https://el-capitano.net/products/unisex-pullover?variant=56893148758402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / M](https://el-capitano.net/products/unisex-pullover?variant=56893148791170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / L](https://el-capitano.net/products/unisex-pullover?variant=56893148823938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / XL](https://el-capitano.net/products/unisex-pullover?variant=56893148856706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893148889474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893148922242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893148955010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Navy / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893148987778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / S](https://el-capitano.net/products/unisex-pullover?variant=56893149020546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / M](https://el-capitano.net/products/unisex-pullover?variant=56893149053314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / L](https://el-capitano.net/products/unisex-pullover?variant=56893149086082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / XL](https://el-capitano.net/products/unisex-pullover?variant=56893149118850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893149151618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893149184386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893149217154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Dark Grey / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893149249922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
+  - [Military Green / S](https://el-capitano.net/products/unisex-pullover?variant=56893149282690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Military Green / M](https://el-capitano.net/products/unisex-pullover?variant=56893149315458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Military Green / L](https://el-capitano.net/products/unisex-pullover?variant=56893149348226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Military Green / XL](https://el-capitano.net/products/unisex-pullover?variant=56893149380994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Military Green / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893149413762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Military Green / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893149446530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / S](https://el-capitano.net/products/unisex-pullover?variant=56893149479298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / M](https://el-capitano.net/products/unisex-pullover?variant=56893149512066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / L](https://el-capitano.net/products/unisex-pullover?variant=56893149544834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / XL](https://el-capitano.net/products/unisex-pullover?variant=56893149577602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / 2XL](https://el-capitano.net/products/unisex-pullover?variant=56893149610370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / 3XL](https://el-capitano.net/products/unisex-pullover?variant=56893149643138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893149675906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+  - [Sport Grey / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893149708674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
+- [REVOLUTION Sweater – Caballeros](https://el-capitano.net/products/unisex-sweatshirt): Nicht jeder muss mitmachen. Der REVOLUTION Sweater – Caballeros steht für einen klaren, kompromisslosen Look und ein angenehmes, robustes Tragegefühl. Der markante REVOLUTION-Print auf der Vorderseite verbindet harte Typografie mit markanten Spray- und Dripping-Effekten. Kein überladenes Design, kein unnötiger Schnickschnack. Einfach ein Statement. Für kühle Tage, lange Abende und alle, die ihren eigenen Weg gehen, statt sich von der Masse treiben zu lassen. Teil der El Capitano Crew Line Edition. Details • angenehmes und robustes Tragegefühl• klassischer Rundhalsausschnitt• gerippte Bündchen an Hals, Ärmeln und Saum• markanter REVOLUTION Frontprint im Industrial-Look• auffällige Spray- und Dripping-Effekte• mehrere Farbvarianten erhältlich• klassischer Sweater-Schnitt Teil der El Capitano Crew Line-Kollektion.
+  Updated: 2026-09-07T14:45:13Z
+  Vendor: El Capitano
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282779522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282812290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282845058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282877826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282910594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282943362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893282976130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Black / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283008898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/black_revolution_front_mann.webp?v=1788698480
+  - [Navy / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283041666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283074434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283107202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283139970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283172738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283205506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283238274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Navy / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283271042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283303810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283336578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283369346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283402114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283434882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283467650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283500418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Dark Grey / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283533186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
+  - [Military Green / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283565954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Military Green / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283598722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Military Green / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283631490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Military Green / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283664258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Military Green / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283697026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Military Green / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283729794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283762562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283795330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283828098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283860866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283893634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283926402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283959170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [Sport Grey / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283991938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_mann.webp?v=1788698480
+  - [White / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284024706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / M](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284057474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / L](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284090242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284123010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / 2XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284155778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / 3XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284188546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284221314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
+  - [White / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893284254082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_revolution_front_mann.webp?v=1788698480
 
 ## Collections
 
@@ -1537,8 +1825,8 @@
   Updated: 2026-08-15T11:38:10Z
   Total Products: 24
 - [Crew Line](https://el-capitano.net/collections/crew-line): Everyday Streetwear mit Haltung. El Capitano Crew Line.
-  Updated: 2026-07-26T12:29:58Z
-  Total Products: 8
+  Updated: 2026-09-06T13:14:09Z
+  Total Products: 10
 - [Extras](https://el-capitano.net/collections/gadgets): Extras von El Capitano. Kleine Details. Großer Unterschied.
   Updated: 2026-06-04T09:05:23Z
   Total Products: 19
@@ -1603,29 +1891,29 @@
   Updated: 2026-07-28T15:21:52Z
   Total Products: 3
 - [Crew Line - Señoras](https://el-capitano.net/collections/crew-line-senoras): Crew Line für Damen. Klarer Stil. Klarer Preis.
-  Updated: 2026-07-28T15:23:06Z
-  Total Products: 4
+  Updated: 2026-09-06T13:14:09Z
+  Total Products: 5
 - [Crew Line - Caballeros](https://el-capitano.net/collections/crew-line-caballeros): Crew Line für Herren. Klarer Stil. Klarer Preis.
-  Updated: 2026-07-28T15:14:39Z
-  Total Products: 4
+  Updated: 2026-09-06T12:59:24Z
+  Total Products: 5
 - [🂡](https://el-capitano.net/collections/ctc): Kuratierte Streetwear von El Capitano. Nicht für jeden gedacht.
   Updated: 2026-08-15T11:38:10Z
   Total Products: 18
 - [New](https://el-capitano.net/collections/new): Neu eingetroffen. Mit Charakter statt Kompromissen.Nicht für jeden. Aber vielleicht für dich.
-  Updated: 2026-08-07T22:53:35Z
+  Updated: 2026-09-06T12:59:25Z
+  Total Products: 3
+- [Crew Line - Caballeros - Hoodie & Sweater](https://el-capitano.net/collections/crew-line-caballeros-hoodie): Kein Hype. Kein Bullshit. Einfach Haltung.
+  Updated: 2026-09-06T13:07:41Z
   Total Products: 2
-- [Crew Line - Caballeros - Hoodie](https://el-capitano.net/collections/crew-line-caballeros-hoodie): Kein Hype. Kein Bullshit. Einfach Haltung.
-  Updated: 2026-07-28T15:22:18Z
-  Total Products: 1
-- [Crew Line - Señoras - Hoodie](https://el-capitano.net/collections/crew-line-senoras-hoodie): Nicht angepasst. Nicht austauschbar.
-  Updated: 2026-07-28T15:23:38Z
-  Total Products: 1
-- [Crew Line – Hoodies](https://el-capitano.net/collections/crew-line-hoodies): Unangepasst. Punkt.
-  Updated: 2026-07-28T15:24:06Z
+- [Crew Line - Señoras - Hoodies & Sweater](https://el-capitano.net/collections/crew-line-senoras-hoodie): Nicht angepasst. Nicht austauschbar.
+  Updated: 2026-09-06T13:14:09Z
   Total Products: 2
+- [Crew Line – Hoodies & Sweater](https://el-capitano.net/collections/crew-line-hoodies): Unangepasst. Punkt.
+  Updated: 2026-09-06T13:14:09Z
+  Total Products: 4
 - [Neuheiten](https://el-capitano.net/collections/neuheiten): Frische Designs. Klare Haltung.
-  Updated: 2026-07-30T12:24:52Z
-  Total Products: 0
+  Updated: 2026-09-07T14:46:05Z
+  Total Products: 2
 
 ## Store Pages
 
