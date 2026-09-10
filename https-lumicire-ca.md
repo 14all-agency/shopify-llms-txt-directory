@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2026-06-10T19:18:29Z
 - Contact Email: lumicirebougie@gmail.com
-- Updated At: 2026-08-28T00:00:37.995Z
+- Updated At: 2026-09-10T00:00:37.652Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/IMG-5298.png?v=1784058420
   Price: 24,99 $ CAD
 - [Sac fourre-tout écologique Lumicire pratique](https://lumicire.ca/products/eco-tote-bag): Découvrez le sac fourre-tout écologique Lumicire, élégant, résistant et idéal pour un usage quotidien responsable.
-  Updated: 2026-08-11T22:07:08Z
+  Updated: 2026-08-28T17:28:54Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
@@ -182,6 +182,21 @@
     Author: Lumicire
   - [Pourquoi les couleurs et les arômes des bougies influencent votre humeur](https://lumicire.ca/blogs/actualites/pourquoi-les-couleurs-et-les-aromes-des-bougies-influencent-votre-humeur): Pourquoi les couleurs et les arômes des bougies influencent votre humeur
     Updated: 2026-08-27T12:02:26Z
+    Author: Lumicire
+  - [Astuces pour prolonger la durée de vie de vos bougies parfumées](https://lumicire.ca/blogs/actualites/astuces-pour-prolonger-la-duree-de-vie-de-vos-bougies-parfumees): Astuces pour prolonger la durée de vie de vos bougies parfumées
+    Updated: 2026-08-30T12:01:46Z
+    Author: Lumicire
+  - [Les bougies dans les traditions et rituels du monde entier](https://lumicire.ca/blogs/actualites/les-bougies-dans-les-traditions-et-rituels-du-monde-entier): Les bougies dans les traditions et rituels du monde entier
+    Updated: 2026-08-31T12:08:09Z
+    Author: Lumicire
+  - [L'art de choisir la bougie parfaite selon les saisons](https://lumicire.ca/blogs/actualites/lart-de-choisir-la-bougie-parfaite-selon-les-saisons): L'art de choisir la bougie parfaite selon les saisons
+    Updated: 2026-09-03T12:02:27Z
+    Author: Lumicire
+  - [Comparaison des meilleures marques de bougies artisanales](https://lumicire.ca/blogs/actualites/comparaison-des-meilleures-marques-de-bougies-artisanales): Comparaison des meilleures marques de bougies artisanales
+    Updated: 2026-09-06T12:02:09Z
+    Author: Lumicire
+  - [Comment un éclairage à la bougie transforme l'atmosphère de votre maison](https://lumicire.ca/blogs/actualites/comment-un-eclairage-a-la-bougie-transforme-latmosphere-de-votre-maison): Comment un éclairage à la bougie transforme l'atmosphère de votre maison
+    Updated: 2026-09-07T12:07:49Z
     Author: Lumicire
 
 ## Store Pages
