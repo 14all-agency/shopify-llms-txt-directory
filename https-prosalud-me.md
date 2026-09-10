@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2026-07-11T13:41:51Z
 - Contact Email: contacto@prosalud.me
-- Updated At: 2026-09-02T00:00:49.459Z
+- Updated At: 2026-09-10T00:00:48.803Z
 
 ## Products
 
@@ -897,21 +897,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-detector-medidor-de-co2-portatil-para-interiores-multifuncional-entrega-inmediata-54722441707631.jpg?v=1784297461
   Price: 1850,00 $ MXN
-- [Detector Calidad Aire Formaldehído Y Medidor CO2 Con Detección Rápida - Entrega Inmediata](https://prosalud.me/products/detector-calidad-aire-formaldehido-y-medidor-co2-con-deteccion-rapida-entrega-inmediata): Detector Calidad Aire Formaldehído Y Medidor CO2 Detector de calidad del aire, Monitor Detector de formaldehído de CO2, Chip inteligente, Puerto USB Tipo C Recargable, 5 indicadores Detección rápida con Luz de advertencia, Diez horas en espera. Chip inteligente de detección rápida: Un chip altamente inteligente puede detectar rápidamente un índice en el aire en dos minutos. Puede capturar con precisión los cambios en el aire, para lograr un cálculo preciso de los resultados de la medición. Calidad del aire fácilmente distinguible: Simplemente mantenga presionado el interruptor 3S y espere 120 segundos para medir la calidad del aire actual. Puede detectar "CO2, TVOC, HCHO, Temperatura y Humedad". Los tres colores muestran una calidad de aire diferente. El verde es de buena calidad , el amarillo es de calidad media, el rojo es de mala calidad. Diseño térmico: Diseño de malla científica, múltiples ventilaciones para fortalecer el efecto de disipación de calor. Este diseño garantiza la precisión de los datos. Batería incorporada:Es ecológico y ahorra energía. El detector de calidad del aire tiene una capacidad de batería de 1200 mA, hasta 10 horas de tiempo de espera cuando está completamente cargado. También emite un pitido para avisarle cuando la batería está baja. Puerto de carga USB Tipo-C. Detalle de diseño: El diseño compacto le permite llevar fácilmente el detector de calidad del aire al lugar donde desea verificar la calidad del aire. Cambie Celsius / Fahrenheit con solo un clic del botón de encendido / apagado. La pantalla a color muestra la calidad de el aire mas claramente Descripción: Este detector de aire le permite medir rápida y fácilmente cinco indicadores interiores en 2 minutos. Tiene las ventajas de recordatorio de bajo consumo, luz indicadora que advierte que el contenido de aire excede el estándar, uso en espera durante diez horas, peso liviano y fácil de transportar. Característica Fácil de llevar. Recargable. Hasta 10 horas en espera. 2 mins para medir rápidamente. Luz de alerta. Recordatorio de capacidad de la batería.
-  Updated: 2026-08-28T20:24:20Z
-  Vendor: Prosalud.me
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-detector-calidad-aire-formaldehido-y-medidor-co2-con-deteccion-rapida-entrega-inmediata-54722441969775.png?v=1784297461
-  Price: 2000,00 $ MXN
-- [Medidor Portátil De Calidad Del Aire Co2 Modelo KCO2 - Entrega Inmediata](https://prosalud.me/products/medidor-portatil-de-calidad-del-aire-co2-modelo-kco2-entrega-inmediata): Medidor Portátil De Calidad Del Aire Co2 Modelo KCO2 En nuestra vida diaria, hoy más que nunca es IMPORTANTE monitorear la calidad del aire en nuestro entorno. Prevé contagios con el monitor de CO2 y monitorea la calidad del aire en tus instalaciones, oficinas, restaurantes, bares, casa, cine. escuela y más para evitar aglomeraciones y siempre buscar la ventilación adecuada. El medidor de CO2 detecta el Dióxido de Carbono del ambiente, la temperatura y la humedad en tiempo real a través del sensor NDIR de alta precisión que incorpora basado en el principio de absorción de fuentes de luz infrarroja Características: *Dimensiones: alto: alto: 134 mm, largo: 140 mm, ancho: 33 mm *Longitud del cable: 1.00 m *Características eléctricas de alimentación: 5VCD, 1A mediante cable USB a mini USB. Incluye cable *¿Recargable?: Sí *Características eléctricas de batería recargable: 5 VCD, 2200 mAh *Pantalla: LCD *Tiempo de carga: 3.0 horas *Duración de batería: 9 horas *Mandos: 3 Botones (Encendido, Cambiar a menú de gráfica de medición, Cambio de grados de Celsius o Fahrenheit, Valor de la alarma, Enter, Ajustes) *Sujeción: Puede colocarse sobre superficies y contiene un accesorio de montaje. *Parámetros de medición: Dióxido de Carbono CO2 PPM, porcentaje de humedad y temperatura en grados Celsius o Fahrenheit *Rango de parámetros: CO2: 0 a 9999 PPM (Resolución 1 PPM) Temperatura: -20 a 60 °C Humedad: 0% a 99% RH *Tipo de alarma: Audible https://www.youtube.com/watch?v=sWMBJ6c7KbA
-  Updated: 2026-08-28T20:24:20Z
-  Vendor: Prosalud.me
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-medidor-portatil-de-calidad-del-aire-co2-modelo-kco2-entrega-inmediata-54722442199151.jpg?v=1784297456
-  Price: 4900,00 $ MXN
-[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc4MDE1NDQ3OSwibGFzdF92YWx1ZSI6IjE1MzYxNzgwMTU0NDc5In0%3D)
+[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc3OTkyNTEwMywibGFzdF92YWx1ZSI6IjE1MzYxNzc5OTI1MTAzIn0%3D)
 
 ## Collections
 
@@ -919,379 +905,379 @@
   Updated: 2026-07-21T08:49:48Z
   Total Products: 1
 - [Sin categorizar](https://prosalud.me/collections/sin-categorizar)
-  Updated: 2026-07-20T23:06:20Z
+  Updated: 2026-09-07T21:35:51Z
   Total Products: 47
 - [Gel Antibacterial](https://prosalud.me/collections/gel-antibacterial): Gel antibacterial y alcohol en gel al 70% para manos, presentaciones institucionales. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 8
 - [Cubrebocas](https://prosalud.me/collections/cubrebocas): Cubrebocas quirúrgicos, KN95 y N95 para protección del personal de salud. Envío a todo México. Cotiza tus cubrebocas en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 27
 - [Termómetros](https://prosalud.me/collections/termometros): Termómetros digitales, infrarrojos y clínicos para consultorio y hogar. Precisión y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:23Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 24
 - [Higiene Personal](https://prosalud.me/collections/higiene-personal): Productos de higiene personal para pacientes y personal de salud. Amplio catálogo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 27
 - [Caretas](https://prosalud.me/collections/caretas): Caretas y protectores faciales para el personal de salud. Protección confiable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:39Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 4
 - [Guantes](https://prosalud.me/collections/guantes): Guantes de látex, nitrilo y exploración para uso médico. Cajas y mayoreo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 8
 - [Sanitizantes](https://prosalud.me/collections/sanitizantes): Sanitizantes y soluciones desinfectantes para superficies y manos en el sector salud. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:23Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 40
 - [Tapetes Sanitizantes](https://prosalud.me/collections/tapetes-sanitizantes): Tapetes sanitizantes para desinfección de calzado en accesos. Higiene y control de infecciones. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 10
 - [Desinfectante](https://prosalud.me/collections/desinfectante): Desinfectantes de grado hospitalario para superficies e instrumental. Amplio catálogo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 29
 - [Dispensadores](https://prosalud.me/collections/dispensadores): Dispensadores de gel, jabón y toallas para clínicas y hospitales. Higiene garantizada y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 20
 - [Oxímetros](https://prosalud.me/collections/oximetros): Oxímetros de pulso de dedo y de mesa para medición de saturación de oxígeno. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 4
 - [Nebulizadoras y Termonebulizadoras](https://prosalud.me/collections/nebulizadoras-y-termonebulizadoras): Nebulizadores y termonebulizadores para terapia respiratoria en casa y clínica. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 12
 - [Equipo Médico](https://prosalud.me/collections/equipo-medico): Más de 2,500 productos de equipo médico y hospitalario de las mejores marcas. Precios competitivos y envío a todo México. Cotiza hoy en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-05T02:32:33Z
   Total Products: 2566
 - [Concentradores de Oxígeno](https://prosalud.me/collections/concentradores-de-oxigeno): Concentradores de Oxígeno de Grado Doméstico y Grado Médico. Compra tu equipo para oxigenoterapia sin salir de casa. Contamos con entregas gratis en toda la republica Mexicana.
   Updated: 2026-07-18T00:27:09Z
   Total Products: 0
 - [Medidores de CO2](https://prosalud.me/collections/medidores-de-co2): Medidores y capnógrafos de CO2 para monitoreo respiratorio. Precisión y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 5
 - [Pruebas médicas](https://prosalud.me/collections/pruebas-medicas): Pruebas rápidas y test de diagnóstico médico para consultorios y laboratorios. Resultados confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 43
 - [Camas hospitalarias](https://prosalud.me/collections/camas-hospitalarias): Camas hospitalarias eléctricas y manuales de varias posiciones para pacientes. Resistentes y con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-01T04:22:39Z
   Total Products: 41
 - [Analizadores de Equipos](https://prosalud.me/collections/analizadores-de-equipos): Analizadores y probadores para calibración de equipo médico y biomédico. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:39Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Aparatos para Anestesia](https://prosalud.me/collections/aparatos-para-anestesia): Máquinas y aparatos para anestesia con monitoreo integrado para quirófano. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:39Z
+  Updated: 2026-09-07T15:12:11Z
   Total Products: 11
 - [Aspiradores y Accesorios](https://prosalud.me/collections/aspiradores-y-accesorios): Aspiradores de secreciones y succión para uso médico, más accesorios. Confiables y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:39Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 15
 - [Autoclaves y Esterilizadores](https://prosalud.me/collections/autoclaves-y-esterilizadores): Autoclaves y esterilizadores de vapor para clínicas, consultorios y laboratorios. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:39Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 16
 - [Bombas y Jeringas de Infusión](https://prosalud.me/collections/bombas-y-jeringas-de-infusion): Bombas de infusión y jeringas para administración precisa de medicamentos. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 15
 - [Calentadores de Fluídos](https://prosalud.me/collections/calentadores-de-fluidos): Calentadores de fluidos y soluciones para procedimientos médicos y quirófano. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 3
 - [Central de Enfermeras](https://prosalud.me/collections/central-de-enfermeras): Centrales de enfermeras y mobiliario modular para áreas hospitalarias. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Consolas para Especialidades](https://prosalud.me/collections/consolas-para-especialidades): Consolas y unidades para especialidades como ORL y oftalmología. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 11
 - [Criocirugía](https://prosalud.me/collections/criocirugia): Equipos de criocirugía y crioterapia para dermatología y ginecología. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 6
 - [Cuidado Respiratorio](https://prosalud.me/collections/cuidado-respiratorio): Equipos para cuidado respiratorio: oxígeno, CPAP y terapia. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 6
 - [Desfibriladores y Accesorios](https://prosalud.me/collections/desfibriladores-y-accesorios): Desfibriladores automáticos (DEA), electrodos y accesorios para emergencias. Equipo que salva vidas con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:07:54Z
   Total Products: 36
 - [Equipos para Corte de Yeso](https://prosalud.me/collections/equipos-para-corte-de-yeso): Sierras y equipos para corte de yeso en traumatología y ortopedia. Seguras y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Equipos para Isquemia](https://prosalud.me/collections/equipos-para-isquemia): Torniquetes neumáticos y equipos para isquemia en cirugía. Control preciso y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 5
 - [Electrocirugía](https://prosalud.me/collections/electrocirugia): Unidades de electrocirugía, lápices y electrodos para quirófano. Marcas confiables y envío a todo México. Cotiza tu electrobisturí en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 95
 - [Fuentes De Energía- Ups](https://prosalud.me/collections/fuentes-de-energia-ups): Fuentes de energía ininterrumpida (UPS) y reguladores para equipo médico. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Gases Hospitalarios -Sistemas](https://prosalud.me/collections/gases-hospitalarios-sistemas): Sistemas y tomas de gases medicinales para hospitales y clínicas. Instalación confiable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:07:52Z
   Total Products: 69
 - [Gruas para Paciente](https://prosalud.me/collections/gruas-para-paciente): Grúas y elevadores para traslado seguro de pacientes. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 5
 - [Incubadoras y Cunas Térmicas](https://prosalud.me/collections/incubadoras-y-cunas-termicas): Incubadoras neonatales y cunas de calor radiante para el cuidado del recién nacido. Equipo confiable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 31
 - [Invasion Minima](https://prosalud.me/collections/invasion-minima): Torres de laparoscopia e instrumental para cirugía de mínima invasión. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 35
 - [Lámparas para Procedimientos](https://prosalud.me/collections/lamparas-para-procedimientos): Lámparas de exploración, quirúrgicas y de procedimientos LED. Iluminación de alta calidad y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 104
 - [Laringoscopios](https://prosalud.me/collections/laringoscopios): Laringoscopios de fibra óptica y convencionales, hojas Miller y Macintosh. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:10Z
   Total Products: 144
 - [Mesas Quirurgicas](https://prosalud.me/collections/mesas-quirurgicas): Mesas quirúrgicas eléctricas y manuales para quirófano. Resistentes, ajustables y con envío a todo México. Cotiza tu mesa de cirugía en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 80
 - [Monitores, Cámaras Y Fuentes De Luz](https://prosalud.me/collections/monitores-camaras-y-fuentes-de-luz): Monitores, cámaras endoscópicas y fuentes de luz para quirófano y diagnóstico. Imagen de calidad y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 28
 - [Rayos X](https://prosalud.me/collections/rayos-x): Equipos de rayos X fijos y portátiles para diagnóstico por imagen. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 44
 - [Resucitadores Manuales](https://prosalud.me/collections/resucitadores-manuales): Resucitadores manuales tipo Ambu para adulto, pediátrico y neonatal. Reanimación confiable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 29
 - [Refrigeradores y Congeladores](https://prosalud.me/collections/refrigeradores-y-congeladores): Refrigeradores y congeladores para vacunas, medicamentos y laboratorio. Control de temperatura y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 63
 - [Sillas de Ruedas](https://prosalud.me/collections/sillas-de-ruedas): Sillas de ruedas estándar, de traslado y especiales para pacientes. Ligeras, resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-05T02:32:34Z
   Total Products: 52
 - [Sierras para Corte](https://prosalud.me/collections/sierras-para-corte): Sierras para corte óseo y quirúrgico en traumatología. Precisas y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 1
 - [Venoscopios para Localización de Venas](https://prosalud.me/collections/venoscopios-para-localizacion-de-venas): Venoscopios y localizadores de venas por luz infrarroja para punción. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 3
 - [Ventiladores](https://prosalud.me/collections/ventiladores): Ventiladores y respiradores para cuidado respiratorio en hospitales y clínicas. Equipo confiable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 41
 - [Equipos Dentales](https://prosalud.me/collections/equipos-dentales): Unidades dentales, compresores y equipo para odontología. Marcas confiables y envío a todo México. Cotiza tu equipo dental en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:07:54Z
   Total Products: 38
 - [Equipos Para Laboratorio](https://prosalud.me/collections/equipos-para-laboratorio): Centrífugas, microscopios, incubadoras y más equipo para laboratorio clínico. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:10Z
   Total Products: 117
 - [Equipos para Movilidad](https://prosalud.me/collections/equipos-para-movilidad)
   Updated: 2026-07-18T00:28:06Z
   Total Products: 0
 - [Equipos para Rescate](https://prosalud.me/collections/equipos-para-rescate): Tablas rígidas, férulas, inmovilizadores y equipo de rescate para emergencias. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 103
 - [Equipos para Rehabilitación](https://prosalud.me/collections/equipos-para-rehabilitacion): Equipo de rehabilitación física y fisioterapia para clínicas y pacientes. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:10Z
   Total Products: 287
 - [Equipos para Oftalmologia](https://prosalud.me/collections/equipos-para-oftalmologia): Lámparas de hendidura, autorefractómetros y equipo para oftalmología. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 52
 - [Equipos Veterinarios](https://prosalud.me/collections/equipos-veterinarios): Equipo médico veterinario para clínicas y hospitales de animales. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 16
 - [Anaqueles Para Almacenaje](https://prosalud.me/collections/anaqueles-para-almacenaje): Anaqueles y estantería para almacenaje de insumos médicos y farmacia. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 23
 - [Bancos, Sillas y Sillones](https://prosalud.me/collections/bancos-sillas-y-sillones): Bancos giratorios, sillas y sillones para consultorios y hospitales. Mobiliario médico resistente con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 105
 - [Banquetas y Escaleras](https://prosalud.me/collections/banquetas-y-escaleras): Banquetas y escaleras de un peldaño para exploración médica. Antiderrapantes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 19
 - [Baños de Artesa](https://prosalud.me/collections/banos-de-artesa): Baños de artesa y baño maría para laboratorio clínico. Control de temperatura y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 3
 - [Biombos y Cortinas](https://prosalud.me/collections/biombos-y-cortinas): Biombos y cortinas divisorias para privacidad en hospitales y clínicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 12
 - [Botes para Basura](https://prosalud.me/collections/botes-para-basura): Botes y contenedores de basura clínicos, de pedal y para RPBI. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 13
 - [Botiquines y Mochilas](https://prosalud.me/collections/botiquines-y-mochilas): Botiquines y mochilas de primeros auxilios para emergencias y traslado. Equipados y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Buros para Cuarto de Hospital](https://prosalud.me/collections/buros-para-cuarto-de-hospital): Burós y mesas de noche para cuarto de hospital, con superficie abatible. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 12
 - [Camas y Cunas](https://prosalud.me/collections/camas-y-cunas): Camas hospitalarias, cunas y camas pediátricas para hospitales y clínicas. Resistentes, seguras y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:06:11Z
   Total Products: 98
 - [Camillas Hospitalarias](https://prosalud.me/collections/camillas-hospitalarias): Camillas hospitalarias, de exploración y traslado para clínicas y hospitales. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-05T02:32:34Z
   Total Products: 108
 - [Carros para Uso Hospitalario](https://prosalud.me/collections/carros-para-uso-hospitalario): Carros de curaciones, de paro y de transporte para hospitales y clínicas. Acero inoxidable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:10Z
   Total Products: 104
 - [Chaisse Long y Divanes](https://prosalud.me/collections/chaisse-long-y-divanes): Chaise longue y divanes para exploración y tratamientos médicos. Cómodos y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 5
 - [Colchones Médicos](https://prosalud.me/collections/colchones-medicos): Colchones médicos, antiescaras y de presión alterna para pacientes. Previenen úlceras y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:07:54Z
   Total Products: 39
 - [Cómodos y orinales para Hospitales](https://prosalud.me/collections/comodos-y-orinales-para-hospitales): Cómodos, orinales y patos para el cuidado del paciente en hospital y casa. Higiénicos y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 5
 - [Dispensadores de antisépticos](https://prosalud.me/collections/dispensadores-de-antisepticos): Dispensadores de antisépticos y soluciones para higiene de manos en áreas clínicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 6
 - [Escritorios](https://prosalud.me/collections/escritorios): Escritorios y mobiliario para consultorios y áreas administrativas de salud. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 20
 - [Lavamanos y tarjas](https://prosalud.me/collections/lavamanos-y-tarjas): Lavamanos y tarjas de acero inoxidable para áreas médicas y quirófano. Higiénicas y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:34Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 13
 - [Mesas para exploración](https://prosalud.me/collections/mesas-para-exploracion): Mesas de exploración y reconocimiento para consultorios y clínicas. Cómodas, resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 49
 - [Negatoscopios](https://prosalud.me/collections/negatoscopios): Negatoscopios LED de uno y varios cuerpos para lectura de radiografías. Iluminación uniforme y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:15Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 50
 - [Percheros y ganchos](https://prosalud.me/collections/percheros-y-ganchos): Percheros y ganchos de acero para uso hospitalario y consultorios. Durables y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 22
 - [Sillones para procedimiento](https://prosalud.me/collections/sillones-para-procedimiento): Sillones para procedimientos, toma de muestras y tratamientos. Cómodos, ajustables y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 14
 - [Vitrinas](https://prosalud.me/collections/vitrinas): Vitrinas y gabinetes de acero para instrumental y material médico. Resistentes y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 25
 - [Utensilios de acero](https://prosalud.me/collections/utensilios-de-acero): Charolas, riñones, cubetas y utensilios de acero inoxidable para uso médico. Durables y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:07:52Z
   Total Products: 64
 - [Mobiliario forense](https://prosalud.me/collections/mobiliario-forense): Mesas de autopsia, planchas y mobiliario forense de acero inoxidable. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 12
 - [Diagnóstico](https://prosalud.me/collections/diagnostico): Baumanómetros, estetoscopios, oxímetros, otoscopios y más equipo de diagnóstico médico. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:04:51Z
+  Updated: 2026-09-05T02:32:33Z
   Total Products: 598
 - [Audiómetros](https://prosalud.me/collections/audiometros): Audiómetros clínicos y de diagnóstico para audiología y otorrinolaringología. Equipo preciso y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 39
 - [Timpanometros y Cabinas](https://prosalud.me/collections/timpanometros-y-cabinas): Timpanómetros y cabinas sonoamortiguadas para audiología. Equipo especializado con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-07T15:06:10Z
   Total Products: 104
 - [Básculas y medición corporal](https://prosalud.me/collections/basculas-y-medicion-corporal): Básculas médicas, pesa-bebés y analizadores corporales para consultorios y hospitales. Precisión y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-05T02:32:34Z
   Total Products: 153
 - [Baumanometros](https://prosalud.me/collections/baumanometros): Baumanómetros aneroides y digitales de marcas como Welch Allyn y Riester. Garantía y envío a todo México. Cotiza tu esfigmomanómetro en PROSALUD.
-  Updated: 2026-09-01T04:17:38Z
+  Updated: 2026-09-05T02:32:33Z
   Total Products: 197
 - [Colposcopios](https://prosalud.me/collections/colposcopios): Colposcopios ópticos y digitales para diagnóstico ginecológico. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 29
 - [Densitometros óseos](https://prosalud.me/collections/densitometros-oseos): Densitómetros óseos para medición de densidad mineral y diagnóstico de osteoporosis. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 6
 - [Equipos para oftalmologia](https://prosalud.me/collections/equipos-para-oftalmologia-diagnostico): Oftalmoscopios, retinógrafos y equipo de diagnóstico oftalmológico. Marcas líderes y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 41
 - [Seguridad e Higiene](https://prosalud.me/collections/seguridad-e-higiene): Cubrebocas, sanitizantes, guantes y equipo de protección para el sector salud. Amplio catálogo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:18:55Z
+  Updated: 2026-09-05T02:32:34Z
   Total Products: 332
 - [Covid](https://prosalud.me/collections/covid): Insumos de protección y prevención COVID-19: pruebas, cubrebocas y sanitizantes. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:14Z
   Total Products: 5
 - [Alcoholimetros y deteccion de drogas](https://prosalud.me/collections/alcoholimetros-y-deteccion-de-drogas): Alcoholímetros y pruebas de detección de drogas para uso clínico y laboral. Resultados confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:10:37Z
   Total Products: 25
 - [Equipos para lavado](https://prosalud.me/collections/equipos-para-lavado): Lavabos y equipos para lavado quirúrgico de manos en quirófano. Acero inoxidable y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 15
 - [Esterilizacion](https://prosalud.me/collections/esterilizacion): Autoclaves, esterilizadores y equipo de esterilización para clínicas y hospitales. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 43
 - [Limpieza](https://prosalud.me/collections/limpieza): Productos y equipos de limpieza para áreas hospitalarias y clínicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 1
 - [Manejo de residuos](https://prosalud.me/collections/manejo-de-residuos): Contenedores y equipo para manejo de residuos peligrosos biológico-infecciosos (RPBI). Cumple la norma y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 40
 - [Protección radiologica](https://prosalud.me/collections/proteccion-radiologica): Mandiles, collarines y protección radiológica de plomo para rayos X. Seguridad certificada y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 45
 - [Ropa para personal de salud](https://prosalud.me/collections/ropa-para-personal-de-salud): Uniformes, batas y ropa quirúrgica para personal de salud. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 5
 - [Purificacion de aire y agua](https://prosalud.me/collections/purificacion-de-aire-y-agua): Sistemas de purificación de aire y agua para áreas médicas. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 1
 - [Sistemas para entrenamiento](https://prosalud.me/collections/sistemas-para-entrenamiento): Simuladores, maniquíes y modelos anatómicos para capacitación médica. Material didáctico realista con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:07:52Z
   Total Products: 94
 - [Transporte de vacunas y organos](https://prosalud.me/collections/transporte-de-vacunas-y-organos): Contenedores y cajas para transporte de vacunas, muestras y órganos con cadena de frío. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 14
 - [Estetoscopios](https://prosalud.me/collections/estetoscopios): Estetoscopios clínicos y de especialidad, marcas como Littmann. Envío a todo México. Cotiza tu estetoscopio en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 3
 - [Mangos](https://prosalud.me/collections/mangos): Mangos recargables y de baterías para otoscopios y oftalmoscopios, compatibles con cabezales de diagnóstico. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 16
 - [Otoscopio](https://prosalud.me/collections/otoscopio): Otoscopios de luz LED y halógena para exploración de oído. Marcas como Welch Allyn y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 10
 - [Transformadores para carga de equipos](https://prosalud.me/collections/transformadores-para-carga-de-equipos): Transformadores y fuentes de carga para equipo médico. Compatibles y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:13Z
   Total Products: 6
 - [Electrocardiógrafo](https://prosalud.me/collections/electrocardiografo): Electrocardiógrafos de 1, 3 y 12 canales para diagnóstico cardiológico. Marcas líderes y envío a todo México. Cotiza tu ECG en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:11:20Z
   Total Products: 16
-- [Mastógrafos](https://prosalud.me/collections/mastografos)
-  Updated: 2026-07-18T00:29:24Z
-  Total Products: 0
+- [Mastógrafos](https://prosalud.me/collections/mastografos): Mastógrafos y equipos de mastografía para diagnóstico mamario. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
+  Updated: 2026-09-08T04:07:51Z
+  Total Products: 18
 - [Tococardiógrafos](https://prosalud.me/collections/tococardiografos): Tococardiógrafos y monitores fetales para vigilancia del embarazo. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:51Z
   Total Products: 5
-- [Tomógrafos](https://prosalud.me/collections/tomografos)
-  Updated: 2026-07-18T00:31:01Z
-  Total Products: 0
+- [Tomógrafos](https://prosalud.me/collections/tomografos): Tomógrafos y equipos de tomografía para diagnóstico por imagen. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
+  Updated: 2026-09-08T04:07:51Z
+  Total Products: 15
 - [Ultrasonidos](https://prosalud.me/collections/ultrasonidos): Equipos de ultrasonido y ecógrafos para diagnóstico por imagen. Marcas líderes y envío a todo México. Cotiza tu ultrasonido en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-05T02:32:34Z
   Total Products: 13
-- [Insumos Médicos](https://prosalud.me/collections/insumos-medicos): Los mejores insumos médicos y de la mejor calidad.
-  Updated: 2026-07-18T00:29:00Z
-  Total Products: 0
+- [Insumos Médicos](https://prosalud.me/collections/insumos-medicos): Insumos médicos y consumibles: gasas, jeringas, guantes, sondas y más para el sector salud. Envío a todo México. Cotiza en PROSALUD.
+  Updated: 2026-09-08T04:07:51Z
+  Total Products: 342
 - [Proteina vegetal](https://prosalud.me/collections/proteina-vegetal)
   Updated: 2026-07-18T00:30:07Z
   Total Products: 0
 - [Escariadores](https://prosalud.me/collections/escariadores): Escariadores e instrumental para traumatología y ortopedia. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 7
 - [Baterías](https://prosalud.me/collections/baterias): Baterías y pilas recargables de repuesto para equipo médico. Compatibles y con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 1
-- [Espejos](https://prosalud.me/collections/espejos)
-  Updated: 2026-07-18T00:28:30Z
-  Total Products: 0
+- [Espejos](https://prosalud.me/collections/espejos): Espejos médicos y de exploración para consultorios y clínicas. Envío a todo México. Cotiza en PROSALUD.
+  Updated: 2026-09-08T04:07:51Z
+  Total Products: 44
 - [Incubadoras](https://prosalud.me/collections/incubadoras): Incubadoras neonatales para el cuidado del recién nacido en hospital. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-07T15:12:52Z
   Total Products: 2
 - [Ondas de Choque](https://prosalud.me/collections/ondas-de-choque): Equipos de ondas de choque para fisioterapia y rehabilitación. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-09T18:37:56Z
   Total Products: 1
 - [Láser](https://prosalud.me/collections/laser): Equipos láser médicos para cirugía, dermatología y estética. Marcas confiables y envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:24:35Z
+  Updated: 2026-09-09T18:37:56Z
   Total Products: 3
 - [Philips](https://prosalud.me/collections/philips): Catálogo de equipo médico Philips: monitoreo, imagen y más. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:25:16Z
+  Updated: 2026-09-07T15:11:21Z
   Total Products: 15
 - [Drager](https://prosalud.me/collections/drager): Catálogo de equipo médico Dräger: cuidado respiratorio, anestesia y monitoreo. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 9
 - [Stryker](https://prosalud.me/collections/stryker): Catálogo de equipo médico y quirúrgico Stryker. Distribución en México con envío a todo el país. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:12:11Z
   Total Products: 12
 - [Siemens](https://prosalud.me/collections/siemens)
   Updated: 2026-07-18T00:26:00Z
   Total Products: 0
 - [B.Braun](https://prosalud.me/collections/b-braun): Catálogo de productos médicos B.Braun: infusión, cirugía y más. Distribución en México con envío a todo el país. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:22:40Z
+  Updated: 2026-09-07T15:12:12Z
   Total Products: 10
 - [Desinfectantes y Sanitizantes](https://prosalud.me/collections/desinfectantes-y-sanitizantes): Desinfectantes, sanitizantes y germicidas para clínicas, hospitales y consultorios. Amplio catálogo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T21:35:51Z
   Total Products: 92
 - [Termómetros y Diagnóstico](https://prosalud.me/collections/termometros-y-diagnostico): Termómetros digitales, infrarrojos y de diagnóstico clínico. Precisión y envío a todo México. Cotiza tu termómetro médico en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T15:10:36Z
   Total Products: 100
 - [Equipos de Protección Personal](https://prosalud.me/collections/equipos-de-proteccion-personal): Batas, caretas, guantes y equipo de protección personal para el sector salud. Amplio catálogo con envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:23:25Z
+  Updated: 2026-09-07T15:07:53Z
   Total Products: 41
 - [Tapetes y Superficies](https://prosalud.me/collections/tapetes-y-superficies): Tapetes sanitizantes y superficies de descontaminación para el control de infecciones. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T04:26:24Z
+  Updated: 2026-09-07T21:35:51Z
   Total Products: 30
 - [Ostomía](https://prosalud.me/collections/ostomia): Bolsas de ostomía, barreras cutáneas y accesorios New Image de Hollister. Cuidado del estoma con envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-01T04:25:16Z
@@ -1315,7 +1301,7 @@
   Updated: 2026-09-01T05:39:57Z
   Total Products: 119
 - [Higiene y Desinfección](https://prosalud.me/collections/higiene-y-desinfeccion): Sanitizantes, desinfectantes, gel antibacterial y dispensadores para el control de infecciones. Envío a todo México. Cotiza en PROSALUD.
-  Updated: 2026-09-01T05:40:00Z
+  Updated: 2026-09-07T21:35:51Z
   Total Products: 219
 - [Manejo y Logística](https://prosalud.me/collections/manejo-y-logistica): Carros, contenedores RPBI, anaqueles y equipo para el manejo, transporte y almacenaje en el sector salud. Envío a todo México. Cotiza en PROSALUD.
   Updated: 2026-09-01T05:39:56Z
@@ -1640,36 +1626,61 @@
     Updated: 2026-08-23T13:19:54Z
     Author: Admin
   - [Monitor fetal versus Doppler portátil: cuál elegir](https://prosalud.me/blogs/noticias/monitor-fetal-versus-doppler-portatil-cual-elegir): Monitor fetal versus Doppler portátil: cuál elegir
-    Updated: 2026-08-25T01:51:32Z
+    Updated: 2026-09-04T05:09:47Z
     Author: Admin
   - [Guía de bombas de infusión para compras clínicas](https://prosalud.me/blogs/noticias/guia-de-bombas-de-infusion-para-compras-clinicas): Guía de bombas de infusión para compras clínicas
-    Updated: 2026-08-27T01:46:06Z
+    Updated: 2026-09-04T05:09:40Z
     Author: Admin
   - [¿Salud pública o privada en Querétaro?](https://prosalud.me/blogs/noticias/salud-publica-o-privada-en-queretaro)
-    Updated: 2026-08-26T18:08:36Z
+    Updated: 2026-09-04T05:10:01Z
     Author: Eduardo campos
     Tags: Experiencia del Paciente, prosalud, Querétaro Salud, Reputación Médica, Retención de Pacientes
   - [Evita multas de COFEPRIS: Guía para consultorios](https://prosalud.me/blogs/noticias/evita-multas-de-cofepris-guia-para-consultorios)
-    Updated: 2026-08-27T20:22:53Z
+    Updated: 2026-09-04T05:09:37Z
     Author: Eduardo campos
     Tags: Diseño de Consultorios
   - [Guía de mobiliario odontológico para clínicas](https://prosalud.me/blogs/noticias/guia-de-mobiliario-odontologico-para-clinicas): Guía de mobiliario odontológico para clínicas
-    Updated: 2026-08-29T01:45:08Z
+    Updated: 2026-09-04T05:09:42Z
     Author: Admin
   - [¿Tu consultorio se está quedando atrás? 3 equipos de salud digital que debes tener este año](https://prosalud.me/blogs/noticias/tu-consultorio-se-esta-quedando-atras-3-equipos-de-salud-digital-que-debes-tener-este-ano)
-    Updated: 2026-08-28T18:54:36Z
+    Updated: 2026-09-04T05:10:03Z
     Author: Eduardo campos
     Tags: Diseño de Consultorios
   - [Reseña de monitor de signos vitales para compra clínica](https://prosalud.me/blogs/noticias/resena-de-monitor-de-signos-vitales-para-compra-clinica): Reseña de monitor de signos vitales para compra clínica
-    Updated: 2026-08-31T01:54:07Z
+    Updated: 2026-09-04T05:09:52Z
     Author: Admin
-  - [Cómo calibrar un monitor multiparámetro clínico](https://prosalud.me/blogs/noticias/como-calibrar-monitor-multiparametro-clinico): Cómo calibrar un monitor multiparámetro clínico
-    Updated: 2026-09-01T06:54:55Z
+  - [Cómo calibrar un monitor multiparámetro clínico](https://prosalud.me/blogs/noticias/como-calibrar-un-monitor-multiparametro-clinico): Cómo calibrar un monitor multiparámetro clínico
+    Updated: 2026-09-04T05:09:30Z
     Author: Admin
   - [Tráfico en la Carretera 57: ¿Cómo afecta a las emergencias médicas?](https://prosalud.me/blogs/noticias/trafico-en-la-carretera-57-como-afecta-a-las-emergencias-medicas)
-    Updated: 2026-09-01T23:47:12Z
+    Updated: 2026-09-04T05:09:54Z
     Author: Eduardo campos
     Tags: Category_Pro Salud
+  - [Cómo almacenar reactivos diagnósticos sin riesgos](https://prosalud.me/blogs/noticias/como-almacenar-reactivos-diagnosticos-sin-riesgos): Cómo almacenar reactivos diagnósticos sin riesgos
+    Updated: 2026-09-04T05:09:27Z
+    Author: Admin
+  - [Cómo desechar agujas hospitalarias correctamente](https://prosalud.me/blogs/noticias/como-desechar-agujas-hospitalarias-correctamente): Cómo desechar agujas hospitalarias correctamente
+    Updated: 2026-09-05T07:01:12Z
+    Author: Admin
+  - [Ganaste una Licitación, nosotros te Surtiremos todo el Equipo Médico](https://prosalud.me/blogs/noticias/ganaste-una-licitacion-nosotros-te-surtiremos-todo-el-equipo-medico)
+    Updated: 2026-09-06T14:23:23Z
+    Author: Mi tienda Admin
+    Tags: COFEPRIS, Licitaciones, México
+  - [Mejores mastógrafos digitales para clínicas](https://prosalud.me/blogs/noticias/mejores-mastografos-digitales): Mejores mastógrafos digitales para clínicas
+    Updated: 2026-09-07T07:01:04Z
+    Author: Admin
+  - [Cómo elegir un baumanómetro: guía completa 2026](https://prosalud.me/blogs/noticias/como-elegir-un-baumanometro-guia-completa-2026): Aneroide vs digital, tamaños de brazalete, marcas y recomendaciones para elegir el baumanómetro ideal para tu consultorio, hospital o casa.
+    Updated: 2026-09-07T21:38:48Z
+    Author: PROSALUD
+  - [Cómo equipar un consultorio médico: lista de equipo esencial](https://prosalud.me/blogs/noticias/como-equipar-un-consultorio-medico-lista-de-equipo-esencial): Lista completa del equipo esencial para abrir o renovar un consultorio médico: diagnóstico, mobiliario, medición e higiene, con enlaces a cada categoría.
+    Updated: 2026-09-07T21:38:48Z
+    Author: PROSALUD
+  - [Cómo elegir una báscula médica para tu consultorio](https://prosalud.me/blogs/noticias/como-elegir-una-bascula-medica-para-tu-consultorio): Tipos de báscula médica (plataforma, pesa-bebés, silla, analizador corporal) y qué considerar para elegir la ideal para tu consultorio o clínica.
+    Updated: 2026-09-07T21:38:48Z
+    Author: PROSALUD
+  - [Mamógrafo digital versus ultrasonido mamario](https://prosalud.me/blogs/noticias/mamografo-digital-versus-ultrasonido-mamario): Mamógrafo digital versus ultrasonido mamario
+    Updated: 2026-09-09T02:00:27Z
+    Author: Admin
 
 ## Store Pages
 
@@ -1709,8 +1720,6 @@
   Updated: 2026-07-21T08:49:48Z
 - [Tiempos de Entrega](https://prosalud.me/pages/tiempos-de-entrega): Paquetes y Sobres envío a todo México 1-5 días hábiles. Cargas de Mayoreo, Palets & Carga Pesada envíos a todo México 3-15 días hábiles Paquetes y ...
   Updated: 2026-07-18T00:32:27Z
-- [Aprobación y rechazo de cotizaciones](https://prosalud.me/pages/aprobacion-y-rechazo-de-cotizaciones-1)
-  Updated: 2026-07-30T07:49:12Z
 - [Aprobación y rechazo de cotizaciones](https://prosalud.me/pages/aprobacion-y-rechazo-de-cotizaciones)
   Updated: 2026-07-21T08:49:53Z
 - [Contacto – Pro Salud México](https://prosalud.me/pages/contacto-pro-salud-mexico): ¿Quiénes Somos? Portal de Ventas ProSalud S de RL de CV, es una empresa mexicana. Dedicada a la venta de Insumos Médicos, Productos Médicos, Equipo...
@@ -1739,6 +1748,10 @@
   Updated: 2026-07-21T08:49:49Z
 - [Tus opciones de privacidad](https://prosalud.me/pages/tus-opciones-de-privacidad): Como se describe en nuestra Política de privacidad, recopilamos información personal de sus interacciones con nosotros y nuestro sitio web, incluso...
   Updated: 2026-07-21T08:49:46Z
+- [Preguntas Frecuentes](https://prosalud.me/pages/preguntas-frecuentes): .psl-faq{--t:#019BA7;--tb:#2ABFBF;--ink:#18262F;--gray:#5a6b72;--soft:#E9F6F6;--line:#E0EAEA; font-family:"Hanken Grotesk",system-ui,sans-serif;col...
+  Updated: 2026-09-08T04:15:22Z
+- [Envíos y Entregas](https://prosalud.me/pages/envios): .psl-env{--t:#019BA7;--tb:#2ABFBF;--ink:#18262F;--gray:#5a6b72;--soft:#E9F6F6;--line:#E0EAEA; font-family:"Hanken Grotesk",system-ui,sans-serif;col...
+  Updated: 2026-09-08T15:23:40Z
 
 ## Policies
 
