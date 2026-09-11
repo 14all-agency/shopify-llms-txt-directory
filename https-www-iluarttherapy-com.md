@@ -1,35 +1,3 @@
-# Ilu Art Therapy (https://www.iluarttherapy.com)
-
-- Domain: https://www.iluarttherapy.com
-- Locale: en
-- Currency: INR
-- Timezone: Asia/Kolkata
-- Created At: 2025-12-23T01:48:24Z
-- Contact Email: info@iluarttherapy.com
-- Updated At: 2026-09-02T11:43:19.351Z
-
-## Products
-
-[List Continued](https://www.iluarttherapy.com/a/llms-agent/llms.txt?shop=3a4rgd-1f.myshopify.com&type=PRODUCTS)
-
-## Policies
-
-- [Privacy Policy](https://www.iluarttherapy.com/policies/privacy-policy)
-  Updated: 2026-01-01T08:05:47+05:30
-- [Shipping Policy](https://www.iluarttherapy.com/policies/shipping-policy)
-  Updated: 2026-08-26T18:16:26+05:30
-- [Refund Policy](https://www.iluarttherapy.com/policies/refund-policy)
-  Updated: 2026-08-26T18:22:03+05:30
-- [Terms of Service](https://www.iluarttherapy.com/policies/terms-of-service)
-  Updated: 2026-08-26T18:23:56+05:30
-- [Contact Information](https://www.iluarttherapy.com/policies/contact-information)
-  Updated: 2026-06-30T14:39:04+05:30
-
-## Optional
-
-- [robots.txt](https://www.iluarttherapy.com/robots.txt)
-- [sitemap.xml](https://www.iluarttherapy.com/sitemap.xml)
-
 # Agent Instructions
 
 This document describes how AI agents can interact with the online store
@@ -106,3 +74,35 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+# Ilu Art Therapy (https://www.iluarttherapy.com)
+
+- Domain: https://www.iluarttherapy.com
+- Locale: en
+- Currency: INR
+- Timezone: Asia/Kolkata
+- Created At: 2025-12-23T01:48:24Z
+- Contact Email: info@iluarttherapy.com
+- Updated At: 2026-09-11T00:00:38.147Z
+
+## Products
+
+[List Continued](https://www.iluarttherapy.com/a/llms-agent/llms.txt?shop=3a4rgd-1f.myshopify.com&type=PRODUCTS)
+
+## Policies
+
+- [Privacy Policy](https://www.iluarttherapy.com/policies/privacy-policy)
+  Updated: 2026-01-01T08:05:47+05:30
+- [Shipping Policy](https://www.iluarttherapy.com/policies/shipping-policy)
+  Updated: 2026-08-26T18:16:26+05:30
+- [Refund Policy](https://www.iluarttherapy.com/policies/refund-policy)
+  Updated: 2026-08-26T18:22:03+05:30
+- [Terms of Service](https://www.iluarttherapy.com/policies/terms-of-service)
+  Updated: 2026-08-26T18:23:56+05:30
+- [Contact Information](https://www.iluarttherapy.com/policies/contact-information)
+  Updated: 2026-06-30T14:39:04+05:30
+
+## Optional
+
+- [robots.txt](https://www.iluarttherapy.com/robots.txt)
+- [sitemap.xml](https://www.iluarttherapy.com/sitemap.xml)
