@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-12-27T15:49:36Z
 - Contact Email: Bigpawmastiffs@gmail.com
-- Updated At: 2026-08-30T00:00:34.341Z
+- Updated At: 2026-09-11T00:00:45.685Z
 
 ## Products
 
@@ -3948,17 +3948,17 @@
   Updated: 2026-08-26T00:40:35Z
   Total Products: 2
 - [Best  Mastiff Shirts](https://bigpawmastiffs.com/collections/featured): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
-  Updated: 2026-08-29T11:09:24Z
-  Total Products: 72
+  Updated: 2026-09-06T11:08:09Z
+  Total Products: 57
 - [All Things Mastiff](https://bigpawmastiffs.com/collections/mastiff): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
-  Updated: 2026-08-29T11:09:24Z
+  Updated: 2026-09-06T11:08:09Z
   Total Products: 117
 - [Halloween / Fall](https://bigpawmastiffs.com/collections/halloween): Everything is made to order with an approximate turn around time of 5 to 12 days. Thanks for supporting my small business.
-  Updated: 2026-08-29T11:09:24Z
-  Total Products: 36
-- [Team Spirit](https://bigpawmastiffs.com/collections/team-spirit): Everything is made to order with an approximate turn around time of 5 to 10 days. Thanks for supporting my small business.
-  Updated: 2026-08-29T23:31:25Z
-  Total Products: 28
+  Updated: 2026-09-06T11:08:09Z
+  Total Products: 40
+- [Team Spirit](https://bigpawmastiffs.com/collections/team-spirit): Want another Team or Design? Just send me a message! Everything is made to order with an approximate turn around time of 5 to 10 days. Thanks for supporting my small business.
+  Updated: 2026-09-03T22:22:55Z
+  Total Products: 60
 - [DOG LOVER](https://bigpawmastiffs.com/collections/dog-lover): Everything is made to order with an approximate turn around time of 10 to 21 days. Thanks for supporting my small business.
   Updated: 2026-07-10T19:55:15Z
   Total Products: 6
