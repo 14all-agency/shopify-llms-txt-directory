@@ -10,7 +10,7 @@
 - Contact Email: office@nircura.com
 - Contact Phone: +40 728 553 355
 - Address: Str. Intrarea Roma 7, Sector 1, București, 011772
-- Updated At: 2026-09-02T00:00:45.617Z
+- Updated At: 2026-09-11T00:00:44.697Z
 
 ## Products
 
@@ -169,22 +169,22 @@
   Updated: 2026-06-12T11:22:32Z
   Total Products: 18
 - [Kinetoterapie & Recuperare (Calculator ROI)](https://www.nircura.ro/collections/kinetoterapie-recuperare-calculator-roi)
-  Updated: 2026-05-27T11:19:09Z
+  Updated: 2026-09-07T09:22:16Z
   Total Products: 10
 - [SPA & Wellness (Calculator ROI)](https://www.nircura.ro/collections/spa-wellness-calculator-roi)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-07T09:22:16Z
   Total Products: 9
 - [Fitness & Performance (Calculator ROI)](https://www.nircura.ro/collections/fitness-performance-calculator-roi)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-07T09:22:16Z
   Total Products: 12
 - [Dermatologie & Estetică (Calculator ROI)](https://www.nircura.ro/collections/dermatologie-estetica-1)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-07T09:22:16Z
   Total Products: 8
 - [Psihologie & Psihiatrie (Calculator ROI)](https://www.nircura.ro/collections/psihologie-psihiatrie-1)
-  Updated: 2026-05-27T11:19:09Z
+  Updated: 2026-09-07T09:22:17Z
   Total Products: 4
 - [Alte servicii (Calculator ROI)](https://www.nircura.ro/collections/alte-servicii-calculator-roi)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-07T09:22:17Z
   Total Products: 12
 - [Sectiune Products Showcase](https://www.nircura.ro/collections/sectiune-products-showcase)
   Updated: 2026-06-12T11:22:32Z
@@ -235,8 +235,8 @@
   - [Brain fog: cum il combati cu terapia cu lumina rosie](https://www.nircura.ro/blogs/blog/brain-fog-terapia-cu-lumina-rosie): Brain fog: cum il combati cu terapia cu lumina rosie
     Updated: 2026-05-12T08:33:49Z
     Author: Dr. Drd. Psih. Costin Dămășaru
-  - [Terapia cu lumina rosie acasa: ghid complet de utilizare](https://www.nircura.ro/blogs/blog/terapia-cu-lumina-rosie-acasa): Terapia cu lumina rosie acasa: ghid complet de utilizare
-    Updated: 2026-06-19T10:56:50Z
+  - [Alegerea corecta a dispozitivului cu lumina rosie](https://www.nircura.ro/blogs/blog/terapia-cu-lumina-rosie-acasa): Alegerea corecta a dispozitivului cu lumina rosie
+    Updated: 2026-09-07T06:08:51Z
     Author: Dr. Drd. Psih. Costin Dămășaru
     Tags: Aplicații si Beneficii
   - [Anti-aging fără proceduri invazive: unde se încadrează fotobiomodularea?](https://www.nircura.ro/blogs/blog/anti-aging-fara-proceduri-invazive-fotobiomodulare): <p>Soluțiile anti-aging au evoluat dincolo de creme și proceduri estetice clasice. Tot mai multe persoane caută soluții non-invazive care să susțină organismul în procesul natural de regenerare, fără intervenții agresive și fără perioade de recuperare. Abordarea s-a mutat de la mascarea efectelor îmbătrânirii spre susținerea proceselor biologice care determină, în fapt, cât de repede îmbătrânim.</p>
@@ -386,8 +386,8 @@
   Updated: 2026-03-10T15:27:06Z
 - [Despre noi](https://www.nircura.ro/pages/despre-noi)
   Updated: 2026-05-28T10:32:55Z
-- [Cum funcționează](https://www.nircura.ro/pages/cum-funcționeaza)
-  Updated: 2026-03-10T15:22:04Z
+- [Cum funcționează](https://www.nircura.ro/pages/cum-functioneaza)
+  Updated: 2026-09-07T08:21:49Z
 - [Știință și efecte](https://www.nircura.ro/pages/stiinta-si-efecte)
   Updated: 2026-03-11T11:59:07Z
 - [Metode de plată](https://www.nircura.ro/pages/metode-de-plata): 1. Informații generale Prezenta politică reglementează metodele de plată disponibile pentru comenzile plasate prin intermediul website-ului nircura...
@@ -410,16 +410,12 @@
   Updated: 2026-04-06T07:24:24Z
 - [Calculator ROI](https://www.nircura.ro/pages/calculator-roi)
   Updated: 2026-05-18T13:03:33Z
-- [Solicită Consultanță](https://www.nircura.ro/pages/solicita-consultanta)
-  Updated: 2026-05-07T07:51:06Z
 - [Studii de caz](https://www.nircura.ro/pages/studii-de-caz)
   Updated: 2026-04-06T07:26:35Z
-- [Solicită consultanță](https://www.nircura.ro/pages/solicita-consultanța)
-  Updated: 2026-05-14T05:56:01Z
-- [Recuperare & Sport](https://www.nircura.ro/pages/recuperare-sport)
-  Updated: 2026-05-18T12:36:06Z
-- [Creștere & regenerare păr](https://www.nircura.ro/pages/creștere-regenerare-par)
-  Updated: 2026-05-14T10:01:53Z
+- [Solicită consultanță](https://www.nircura.ro/pages/solicita-consultanta)
+  Updated: 2026-09-07T07:38:57Z
+- [Refacere musculară cu lumină roșie (630–660 nm) și NIR (850 nm)](https://www.nircura.ro/pages/recuperare-sport)
+  Updated: 2026-09-07T06:07:11Z
 
 ## Policies
 
