@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-04-23T15:00:02Z
 - Contact Email: grownature211@gmail.com
-- Updated At: 2026-08-23T00:00:45.212Z
+- Updated At: 2026-09-11T00:00:19.846Z
 
 ## Products
 
 - [Grow Nature Hair Care Oil – Reduce Hair Fall India](https://grownatureofficial.com/products/grow-nature-hair-care-oil): Grow Nature Hair Care Oil helps reduce hair fall, support new growth & strengthen roots. 100% natural formula. Shop now with free shipping across India.
-  Updated: 2026-08-21T00:14:37Z
+  Updated: 2026-09-10T10:42:07Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹555.00 INR
 - [Anti Dandruff Oil – Soothe Scalp & Remove Dandruff](https://grownatureofficial.com/products/grow-nature-anti-dandruff-oil): Say goodbye to dandruff with Grow Nature Anti Dandruff Oil. Relieves itching, soothes scalp irritation & supports a clean, healthy scalp. Order online.
-  Updated: 2026-08-20T06:03:27Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [Herbal Shampoo – pH Balanced Natural Shampoo India](https://grownatureofficial.com/products/grow-nature-herbal-shampoo): Grow Nature Herbal Shampoo gently cleanses without drying. pH 5.5 balanced, suitable for daily use. Leaves hair soft & manageable. Free shipping India.
-  Updated: 2026-07-24T10:13:15Z
+  Updated: 2026-09-10T10:42:07Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: ₹390.00 INR
 - [Fairness Oil – Natural Skin Brightening Oil India](https://grownatureofficial.com/products/glow-care-fairness-oil): Glow & Care Fairness Oil nourishes skin, reduces tanning & improves brightness naturally. Get smoother, even-toned skin with regular use. Shop in India.
-  Updated: 2026-07-24T10:14:02Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: ₹540.00 INR
 - [Anti-Dandruff Combo – Oil & Shampoo for Scalp Care](https://grownatureofficial.com/products/anti-dandruff-oil-herbal-shampoo-combo): Control dandruff & keep your scalp clean with this Anti-Dandruff Oil + Herbal Shampoo Combo by Grow Nature. Best value combo. Free shipping in India.
-  Updated: 2026-08-17T16:49:16Z
+  Updated: 2026-09-10T10:42:03Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: ₹865.00 INR
 - [Hair Care Combo – Oil & Shampoo for Hair Fall Control](https://grownatureofficial.com/products/hair-care-oil-herbal-shampoo-combo): Reduce hair fall & support new growth with Grow Nature's Hair Care Oil + Herbal Shampoo Combo. Complete hair care routine. Free shipping across India.
-  Updated: 2026-08-20T13:32:20Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: ₹945.00 INR
 - [3-in-1 Hair Care Combo – Oil, Anti-Dandruff & Shampoo](https://grownatureofficial.com/products/hair-care-oil-herbal-shampoo-combo-copy): Grow Nature's 3-in-1 Combo fights dandruff, hair fall & scalp issues in one routine. Hair Oil + Anti-Dandruff Oil + Shampoo. Best value. Shop India.
-  Updated: 2026-07-24T10:16:46Z
+  Updated: 2026-09-10T10:42:02Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -95,28 +95,28 @@
     Availability: Available
     Price: ₹1,420.00 INR
 - [Beard Oil – Natural Beard Growth Oil for Men India](https://grownatureofficial.com/products/grow-nature-beard-oil): Grow Nature Beard Oil supports beard growth, reduces patchiness & nourishes beard hair. Get a fuller, healthier beard naturally. Free shipping in India.
-  Updated: 2026-07-24T10:17:54Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/4993/6979/files/BEARD_CARE_OIL_50mL_1.jpg?v=1777705661
   Price: ₹380.00 INR
 - [Herbal Face Wash – Brighten Skin & Control Acne India](https://grownatureofficial.com/products/clear-glow-herbal-face-wash): Clear & Glow Herbal Face Wash removes tan, controls acne & brightens skin gently. No over-drying formula. Fresh, clean skin every day. Shop in India.
-  Updated: 2026-07-24T10:17:32Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/4993/6979/files/Clear_Glow_Herbal_Face_Wash_-_100mL.jpg?v=1778088143
   Price: ₹190.00 INR
 - [Beard & Face Combo – Grooming Kit for Men in India](https://grownatureofficial.com/products/beard-care-face-clean-combo): Grow Nature's Beard Care + Face Wash Combo supports beard growth & keeps skin fresh and bright. Complete men's grooming kit. Free shipping across India.
-  Updated: 2026-07-24T10:18:21Z
+  Updated: 2026-09-10T10:42:01Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/4993/6979/files/WhatsApp_Image_2026-05-08_at_8.53.34_AM_1.jpg?v=1778216223
   Price: ₹570.00 INR
 - [Skin Care Combo – Brighten & Nourish Skin Naturally](https://grownatureofficial.com/products/glow-care-skin-combo): Glow & Care Skin Combo cleanses, brightens & nourishes skin daily. Reduce tan, dullness & uneven tone naturally. Best skincare combo. Shop in India.
-  Updated: 2026-07-24T10:20:58Z
+  Updated: 2026-09-10T10:42:05Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Available
     Price: ₹730.00 INR
 - [Hair & Anti-Dandruff Combo – Stronger Hair, Less Dandruff](https://grownatureofficial.com/products/hair-care-anti-dandruff-combo): Grow Nature's Hair Care + Anti-Dandruff Combo fights dandruff & hair fall together. Supports stronger, healthier hair. Great value. Free shipping India.
-  Updated: 2026-07-24T10:19:33Z
+  Updated: 2026-09-10T10:42:51Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -143,10 +143,10 @@
 ## Collections
 
 - [All Products](https://grownatureofficial.com/collections/products): Shop all 100% natural hair care oils, herbal shampoos, skin care combos & more by Grow Nature. Free shipping across India. Order now.
-  Updated: 2026-08-21T11:18:25Z
+  Updated: 2026-09-10T11:19:50Z
   Total Products: 12
 - [Haircare](https://grownatureofficial.com/collections/haircare): Shop Grow Nature's herbal hair care range – hair oils, shampoos & more. 100% natural, free shipping across India. Reduce hair fall & nourish your scalp.
-  Updated: 2026-08-21T11:18:25Z
+  Updated: 2026-09-10T11:19:50Z
   Total Products: 4
 - [Skin care](https://grownatureofficial.com/collections/skin-care): Discover Grow Nature's natural skin care range – fairness oils, face wash & combos. Reduce tan, control acne & glow naturally. Free shipping in India.
   Updated: 2026-07-24T10:33:20Z
@@ -158,7 +158,7 @@
   Updated: 2026-07-24T10:34:04Z
   Total Products: 2
 - [Hair care Combo](https://grownatureofficial.com/collections/hair-care-combo): Shop Grow Nature's hair care combo packs – hair oil & herbal shampoo bundles for hair fall control. Best value, free shipping across India.
-  Updated: 2026-08-18T11:18:59Z
+  Updated: 2026-09-10T11:19:50Z
   Total Products: 4
 
 ## Blogs
