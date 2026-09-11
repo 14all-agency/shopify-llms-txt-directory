@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-23T00:00:39.015Z
+- Updated At: 2026-09-11T00:00:42.090Z
 
 ## Products
 
 - [Hot and Healed Tote Bag](https://jvn.merchmadeeasy.com/products/hot-and-healed-tote-bag): Hot & Healed graphic printed on the front 100% cotton canvas 20" self-fabric handles
-  Updated: 2026-08-10T19:20:21Z
+  Updated: 2026-09-02T23:02:57Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_Hot-and-Healed-Tote.png?v=1777397821
   Price: $20.00 USD
 - [Hot and Healed Tour Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee): Hot and Healed graphic on the front chest Jonathan Van Ness photo on the back 100% cotton tee in natural SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-10T19:20:27Z
+  Updated: 2026-09-01T15:22:06Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -27,10 +27,10 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee?variant=47809675493594)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee?variant=47809675526362)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee?variant=47809675559130)
     Availability: Available
@@ -42,7 +42,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot Slut University Hoodie](https://jvn.merchmadeeasy.com/products/hot-slut-university-hoodie): Hot Slut University graphic on the front Black hoodie Unisex
-  Updated: 2026-08-11T07:21:02Z
+  Updated: 2026-09-01T20:26:16Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198516-jvn-2a2a3548.png?v=1779121017
   Price: $10.00 USD
 - [Valentine Card](https://jvn.merchmadeeasy.com/products/valentine-cards)
-  Updated: 2026-08-10T19:26:26Z
+  Updated: 2026-09-05T05:00:57Z
   Vendor: Jonathan Van Ness
   Product Type: Card
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198546-jvn-2a2a3603.png?v=1779121117
   Price: $3.00 USD
 - [Stun Queen Tee](https://jvn.merchmadeeasy.com/products/stun-queen-tee): Stun Queen graphic with photo of Jonathan on the front 100% cotton tee
-  Updated: 2026-08-11T23:01:40Z
+  Updated: 2026-08-28T23:56:28Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -170,13 +170,13 @@
     Availability: Available
     Price: $20.00 USD
   - [L / Blue](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836721610970)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [L / Purple](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=48320678494426)
     Availability: Not Available
     Price: $20.00 USD
   - [XL / Black](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836718596314)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [XL / White](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836721643738)
     Availability: Not Available
@@ -188,7 +188,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Stun Queen Crop Hoodie](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie): Stun Queen graphic with photo of Jonathan on the front Cropped hoodie Unisex
-  Updated: 2026-08-11T07:28:26Z
+  Updated: 2026-09-02T23:02:56Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -197,7 +197,7 @@
     Availability: Not Available
     Price: $50.00 USD
   - [XL / Beige](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836723314906)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
   - [2X / Pink](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836722856154)
     Availability: Available
@@ -235,17 +235,166 @@
   - [2X / Crop in Navy](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck?variant=47893914845402)
     Availability: Available
     Price: $50.00 USD
+- [IUD Hoodie](https://jvn.merchmadeeasy.com/products/iud-hoodie): Jonathan Van Ness IUD 100% cotton Hoodie with IUD text graphic on the front.
+  Updated: 2026-08-28T13:59:55Z
+  Vendor: Jonathan Van Ness
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+  - [S / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333408986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [S / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333441754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [M / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333474522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [M / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333507290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [L / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333540058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [L / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333572826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [XL / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333605594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [XL / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333638362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [2XL / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333671130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [2XL / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333703898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [3XL / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333736666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [3XL / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333769434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [4XL / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333802202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [4XL / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333834970)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+  - [5XL / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333867738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+    Price: $65.00 USD
+  - [5XL / Pink](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333900506)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
+    Price: $65.00 USD
+- [Hot Pink Hot and Healed Tote](https://jvn.merchmadeeasy.com/products/hot-pink-hot-and-healed-tote): Jonathan Van Ness Hot Pink Hot and Healed tote with a Hot and Healed graphic on the front. Made of 100% cotton canvas with 20" self-fabric handles.
+  Updated: 2026-08-28T13:59:56Z
+  Vendor: Jonathan Van Ness
+  Product Type: Tote
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0003_Hot-and-Healed-Tote-New.png?v=1785948409
+  Price: $25.00 USD
+- [Pro Hydration Trucker Hat](https://jvn.merchmadeeasy.com/products/pro-hydration-trucker-hat): Pro Hydration graphic printed on the front 100% polyester foam front, mesh back trucker hat in jade Adjustable single snapback closure
+  Updated: 2026-09-02T23:02:56Z
+  Vendor: Jonathan Van Ness
+  Product Type: trucker hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0004_Pro-Hydration-Hat.png?v=1785949334
+  Price: $30.00 USD
+- [Starburst Sticker](https://jvn.merchmadeeasy.com/products/starburst-sticker): Jonathan Van Ness starburst sticker 3.3" in size
+  Updated: 2026-08-29T09:48:35Z
+  Vendor: Jonathan Van Ness
+  Product Type: sticker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0005_Sticker.png?v=1785949830
+  Price: $5.00 USD
+- [Pro Hydration Crop Tee](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee): Jonathan Van Ness Pro Hydration Crop Tee with Pro Hydration graphic on the front. Made of  60/40 combed ring-spun cotton/polyester in Grey.
+  Updated: 2026-08-28T13:59:58Z
+  Vendor: Jonathan Van Ness
+  Product Type: Crop Tee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0006_Pro-Hydration-Crop-Top.png?v=1785958333
+  - [S](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee?variant=48306872320218)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee?variant=48306872352986)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee?variant=48306872385754)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee?variant=48306872418522)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee?variant=48306872451290)
+    Availability: Available
+    Price: $35.00 USD
+- [Hot and Healed Photo Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee): The Jonathan Van Ness Hot and Healed Live On Tour charcoal t-shirt is made of 100% cotton and features a graphic with a photo of Jonathan Van Ness on the front.
+  Updated: 2026-08-28T23:56:27Z
+  Vendor: Jonathan Van Ness
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/NewHotandHealedTourTee.png?v=1785964290
+  - [S](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842394330)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842427098)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842459866)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842492634)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842525402)
+    Availability: Available
+    Price: $35.00 USD
+  - [3XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842558170)
+    Availability: Available
+    Price: $35.00 USD
+  - [4XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842590938)
+    Availability: Available
+    Price: $35.00 USD
+  - [5XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee?variant=48303842623706)
+    Availability: Available
+    Price: $35.00 USD
+- [IUD Keychain](https://jvn.merchmadeeasy.com/products/iud-keychain): Jonathan Van Ness IUD Keychain in pink and blue that is 2.2 inches wide x 2.5 inches tall
+  Updated: 2026-09-05T05:00:56Z
+  Vendor: Jonathan Van Ness
+  Product Type: keychain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/IUDKeychain.png?v=1785965719
+  Price: $12.00 USD
 
 ## Collections
 
 - [Home page](https://jvn.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-06-09T11:25:09Z
+  Updated: 2026-09-03T11:23:09Z
   Total Products: 6
 - [Apparel](https://jvn.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-10T19:23:59Z
+  Updated: 2026-09-03T11:23:09Z
   Total Products: 12
 - [Accessories](https://jvn.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-10T19:27:05Z
+  Updated: 2026-09-05T11:24:07Z
   Total Products: 10
 - [Hats](https://jvn.merchmadeeasy.com/collections/hats)
   Updated: 2026-06-03T15:43:39Z
@@ -254,10 +403,10 @@
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
 - [All](https://jvn.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-17T16:04:32Z
+  Updated: 2026-09-05T11:24:07Z
   Total Products: 21
 - [Tour](https://jvn.merchmadeeasy.com/collections/tour)
-  Updated: 2026-08-06T19:52:37Z
+  Updated: 2026-09-05T11:24:07Z
   Total Products: 7
 
 ## Store Pages
