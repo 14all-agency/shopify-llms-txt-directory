@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-06-10T19:18:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-30T00:00:39.072Z
+- Updated At: 2026-09-12T00:00:45.945Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Photo Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/photo-tee): Jackson Dean Photo Tee-- order the new tee now! Unisex fit 100% Cotton
-  Updated: 2026-08-16T19:15:08Z
+  Updated: 2026-09-02T03:40:47Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -117,7 +117,7 @@
     Availability: Available
     Price: $35.00 USD
   - [XL](https://jacksondeanofficialstore.merchmadeeasy.com/products/photo-tee?variant=42866242027554)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XXL](https://jacksondeanofficialstore.merchmadeeasy.com/products/photo-tee?variant=42866242093090)
     Availability: Not Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Crow Pocket Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/crow-pocket-tee): Jackson Dean Crow Pocket Tee in Black 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 18 M 29 20 L 31 22 XL 32 24 2XL 33 26 3XL 34 28
-  Updated: 2026-08-14T14:42:26Z
+  Updated: 2026-09-03T16:23:17Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -206,7 +206,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Magnolia Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee): Jackson Dean Magnolia Tee in Charcoal 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-19T14:36:07Z
+  Updated: 2026-09-10T03:07:59Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -265,7 +265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/JDMAGNOLIASAGECD.png?v=1777041540
   Price: $12.98 USD
 - [Magnolia Women's V-Neck](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-womens-v-neck): Jackson Dean Magnolia Tee in Forest Green 100% Cotton Women's cut
-  Updated: 2026-08-20T23:10:28Z
+  Updated: 2026-09-10T03:07:51Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -283,22 +283,22 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-womens-v-neck?variant=45746596347938)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 
 ## Collections
 
 - [Featured](https://jacksondeanofficialstore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-22T11:15:56Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 25
 - [Apparel](https://jacksondeanofficialstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-21T11:07:01Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 14
 - [Accessories](https://jacksondeanofficialstore.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-22T11:15:56Z
   Total Products: 7
 - [All](https://jacksondeanofficialstore.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-22T11:15:56Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 16
 - [Music](https://jacksondeanofficialstore.merchmadeeasy.com/collections/music)
   Updated: 2026-08-22T11:15:56Z
@@ -307,16 +307,16 @@
   Updated: 2026-08-22T11:15:56Z
   Total Products: 2
 - [New Arrivals](https://jacksondeanofficialstore.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-08-22T11:15:56Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 10
 - [EasyGift All Products](https://jacksondeanofficialstore.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-22T11:15:56Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 29
 - [Memorial Day ](https://jacksondeanofficialstore.merchmadeeasy.com/collections/memorial-day-)
-  Updated: 2026-08-17T11:08:24Z
+  Updated: 2026-09-04T11:10:06Z
   Total Products: 7
 - [Magnolia Sage](https://jacksondeanofficialstore.merchmadeeasy.com/collections/magnolia-sage-collection)
-  Updated: 2026-08-21T11:07:01Z
+  Updated: 2026-09-10T11:08:56Z
   Total Products: 4
 
 ## Store Pages
