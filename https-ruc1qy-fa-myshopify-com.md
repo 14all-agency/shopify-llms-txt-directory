@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T03:29:44Z
 - Contact Email: support@vetcardsfl.com
-- Updated At: 2026-09-05T00:00:47.075Z
+- Updated At: 2026-09-12T00:00:48.951Z
 
 ## Products
 
@@ -969,13 +969,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/61434508-front.jpg?v=1782022361
   Price: $2.00 USD
-- [2022 Pro Set Draft Autographs Psa Ee1 Erik Ezukanma 15347](https://ruc1qy-fa.myshopify.com/products/2022-pro-set-draft-autographs-psa-ee1-erik-ezukanma-15347-10kr66): 2022 Pro Set Draft Autographs #PSA-EE1 Erik EzukanmaCard ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-08-15T14:11:20Z
+- [2022 Pro Set Draft Autographs #PSA-EE1 Erik Ezukanma](https://ruc1qy-fa.myshopify.com/products/2022-pro-set-draft-autographs-psa-ee1-erik-ezukanma-15347-10kr66): Football 2022 Pro Set Draft #PSA-EE1 Erik Ezukanma AU Near Mint or Better AutoCard ships securely in a protective sleeve and top loader. Veteran Sports Cards FL — Veteran-Owned Business 🇺🇸We stand behind every card we .
+  Updated: 2026-09-11T23:57:51Z
   Vendor: CDP
   Product Type:  Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/61434510-front.jpg?v=1782022370
-  Price: $2.00 USD
+  Price: $2.99 USD
 - [2025 Sage Hit Autographs Blue Low Series A Cjc Cj Clark 15348](https://ruc1qy-fa.myshopify.com/products/2025-sage-hit-autographs-blue-low-series-a-cjc-cj-clark-15348-10kr67): 2025 SAGE HIT Autographs Blue (Low Series) #A-CJC C.J. ClarkCard ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-08-15T14:11:20Z
   Vendor: CDP
@@ -1765,23 +1765,23 @@
 ## Collections
 
 - [Sealed Packs & Boxes](https://ruc1qy-fa.myshopify.com/collections/sealed-packs-and-boxes): Shop Sealed Packs & Boxes  cards at Veteran Sports Cards FL. Veteran-owned, trusted source with fast shipping.
-  Updated: 2026-08-15T14:10:48Z
-  Total Products: 2
+  Updated: 2026-09-11T22:17:24Z
+  Total Products: 6
 - [Baseball](https://ruc1qy-fa.myshopify.com/collections/baseball): Browse our Baseball Card collection — from golden-age legends to modern superstars, we carry raw singles and graded slabs spanning the full history of the game. Whether you're hunting a high-grade vintage key or looking for the next great submission candidate, our inventory is sourced for quality collectors. New cards added regularly.
-  Updated: 2026-09-04T12:16:01Z
-  Total Products: 617
+  Updated: 2026-09-11T23:57:33Z
+  Total Products: 728
 - [Football](https://ruc1qy-fa.myshopify.com/collections/football): Browse our Football Card collection — from vintage legends to modern rookies, we stock raw singles and graded slabs across all eras of the game. Whether you're chasing a high-grade key rookie or digging for hidden gems to submit, our inventory is curated for serious collectors. New cards added regularly.
-  Updated: 2026-09-04T01:14:07Z
-  Total Products: 1975
+  Updated: 2026-09-11T23:57:26Z
+  Total Products: 2045
 - [Basketball](https://ruc1qy-fa.myshopify.com/collections/basketball): Browse our Basketball Card collection — from rookie cards to graded slabs, we carry singles and sets spanning decades of the game. Whether you're chasing a PSA 10 of your favorite player or hunting raw gems to submit, our inventory is sourced for quality and authenticity. New arrivals added regularly.
-  Updated: 2026-09-01T03:25:23Z
-  Total Products: 478
+  Updated: 2026-09-11T23:58:03Z
+  Total Products: 556
 - [Gaming Cards](https://ruc1qy-fa.myshopify.com/collections/gaming-cards): Browse our Gaming Cards collection — Pokémon, Magic: The Gathering, Yu-Gi-Oh!, and more. We carry singles, holos, and graded slabs for collectors and players alike. Whether you're chasing a PSA 10 chase card or hunting raw gems to submit, our inventory is sourced for quality. New cards added regularly.
-  Updated: 2026-09-01T12:23:46Z
-  Total Products: 41
+  Updated: 2026-09-08T23:00:16Z
+  Total Products: 75
 - [Other Sports Cards](https://ruc1qy-fa.myshopify.com/collections/other-sports-cards-fl): Browse our Other Sports Cards collection — hockey, soccer, golf, boxing, and beyond. We carry raw singles and graded slabs from across the sporting world, sourced for collectors who know the hobby isn't limited to the big three. Niche finds, key rookies, and vintage gems — all in one place. New cards added regularly.
-  Updated: 2026-09-03T13:29:18Z
-  Total Products: 50
+  Updated: 2026-09-11T22:48:04Z
+  Total Products: 64
 
 ## Blogs
 
@@ -1956,6 +1956,30 @@
     Updated: 2026-09-04T06:01:17Z
     Author: Monty Van Dyke - VetCardsFL
     Tags: 2026 rookie card, baseball, baseball cards, basketball cards, card collecting, cards, collector guide, football cards, graded cards, graded rookie cards, matt shaw, psa 10 football cards, psa cards, rookie, rookie cards, sports cards, topps update, ultimate card collecting, wcg cards
+  - [Collecting 2026 Topps #181 James Wood Cards: Expert Tips for PSA and WCG Grading](https://ruc1qy-fa.myshopify.com/blogs/news/collecting-2026-topps-181-james-wood-cards-expert-tips-for-psa-and-wcg-grading): Collecting 2026 Topps #181 James Wood Cards: Expert Tips for PSA and WCG Grading
+    Updated: 2026-09-05T06:01:39Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, card collecting, cards, collecting, expert tips for grading, football cards, graded cards, graded rookie cards, grading, james wood, psa 10 football cards, psa cards, psa grading, rookie cards, sports cards, topps 2026, wcg card grading, wcg cards
+  - [Meeting A'ja Wilson in 2026 Panini Select: A Comprehensive Guide for Graded Rookie Cards Collectors](https://ruc1qy-fa.myshopify.com/blogs/news/meeting-aja-wilson-in-2026-panini-select-a-comprehensive-guide-for-graded-rookie-cards-collectors): Meeting A'ja Wilson in 2026 Panini Select: A Comprehensive Guide for Graded Rookie Cards Collectors
+    Updated: 2026-09-06T06:01:00Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: 2026 card collectors, a'ja wilson guide, baseball cards, basketball cards, card collecting, cards, collecting, football cards, graded cards, graded rookie cards, panini select, psa 10 football cards, psa cards, rookie cards, sports cards, wcg cards, wilson
+  - [2026 Topps Chrome Platinum Johnny Damon Card: Grading Steps for Sports Card Collectors](https://ruc1qy-fa.myshopify.com/blogs/news/2026-topps-chrome-platinum-johnny-damon-card-grading-steps-for-sports-card-collectors): 2026 Topps Chrome Platinum Johnny Damon Card: Grading Steps for Sports Card Collectors
+    Updated: 2026-09-07T06:01:46Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, card collecting, cards, damon, football cards, graded cards, graded rookie cards, grading, how to grade sports cards, johnny damon card review, platinum card grading, psa 10 football cards, psa cards, rookie cards, sports cards, sports collectibles, topps chrome, wcg cards
+  - [Navigating Jackson Holliday's Rookie Cards in the Sports Card World](https://ruc1qy-fa.myshopify.com/blogs/news/navigating-jackson-hollidays-rookie-cards-in-the-sports-card-world): Navigating Jackson Holliday's Rookie Cards in the Sports Card World
+    Updated: 2026-09-08T06:00:48Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, buy rookie cards, card collecting, cards, collectibles, football cards, graded cards, graded rookie cards, jackson holliday, jackson holliday rookie guide, psa 10 football cards, psa cards, rookie, rookie cards, sports cards,  cards, wcg cards
+  - [The Investing Strategy for Sam Darnold's 2026 Topps Flagship Cards with PSA Grading Focus](https://ruc1qy-fa.myshopify.com/blogs/news/the-investing-strategy-for-sam-darnolds-2026-topps-flagship-cards-with-psa-grading-focus): The Investing Strategy for Sam Darnold's 2026 Topps Flagship Cards with PSA Grading Focus
+    Updated: 2026-09-09T06:00:58Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, card collecting, cards, darnold, football cards, graded cards, graded rookie cards, investing, psa 10 football cards, psa cards, psa grading, rookie cards, sam darnold rookie card value, sports cards, sports collectibles, topps flagship cards ,  strategy, wcg cards
+  - [Ryan Loutos Rookie Cards: Exploring Graded Options for Collectors of PSA and WCG Cards](https://ruc1qy-fa.myshopify.com/blogs/news/ryan-loutos-rookie-cards-exploring-graded-options-for-collectors-of-psa-and-wcg-cards): Ryan Loutos Rookie Cards: Exploring Graded Options for Collectors of PSA and WCG Cards
+    Updated: 2026-09-10T06:01:36Z
+    Author: Monty Van Dyke - VetCardsFL
+    Tags: baseball cards, basketball cards, best rookie cards for collectors, card collecting, cards, collecting, football cards, graded cards, graded options, graded rookie cards, psa 10 football cards, psa cards, rookie cards, ryan, ryan loutos rookie cards, sports cards, wcg cards, wcg grading
 
 ## Store Pages
 
