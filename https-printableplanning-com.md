@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-09-05T16:00:33.423Z
+- Updated At: 2026-09-12T16:00:34.168Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -50,7 +50,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Bill_Payment_Tracker_Log_2_-_Printable_Planning.jpg?v=1558039068
   Price: $5.95 USD
 - [Debt Snowball Tracker & Payoff Plan Bundle | Printable PDF](https://printableplanning.com/products/debt-snowball-sheet-and-debt-payoff-plan-printable-bundle): Plan debt payoff order and track monthly payments and balances with printable debt snowball and payoff plan worksheets for up to 20 debts per page.
-  Updated: 2026-08-29T10:40:07Z
+  Updated: 2026-09-07T15:47:46Z
   Vendor: Artistically Invited
   Product Type: Financial Sheets
   Availability: Available
@@ -1198,7 +1198,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Turquoise_Header_Full_Page_Weekly_Grocery_List_-_Printable_Planning_587e8c7c-5d9b-4301-9a9c-a9fa8d8f247d.jpg?v=1564501484
   Price: $5.95 USD
 - [Half-Page Daily To-Do List | 4 Bold Color Printable Bundle](https://printableplanning.com/products/daily-to-do-lists-2-per-page-task-checklists-bundle-in-4-bold-colors-printable): Print 2 half-page daily checklists per sheet in red, orange, green, and navy blue, with 15 task lines, check-off circles, notes, and print-as-needed use.
-  Updated: 2026-08-28T12:27:31Z
+  Updated: 2026-09-08T21:50:55Z
   Vendor: Artistically Invited
   Product Type: To-Do List
   Availability: Available
@@ -1384,28 +1384,28 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-09-04T11:01:42Z
+  Updated: 2026-09-10T11:01:22Z
   Total Products: 423
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-08-28T18:28:30Z
+  Updated: 2026-09-09T11:01:39Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-09-04T11:01:42Z
+  Updated: 2026-09-10T11:01:22Z
   Total Products: 423
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-09-02T11:01:45Z
   Total Products: 15
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-09-04T11:01:42Z
+  Updated: 2026-09-10T11:01:22Z
   Total Products: 48
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-08-30T15:39:46Z
+  Updated: 2026-09-08T11:01:30Z
   Total Products: 44
 - [Holiday and Occasion Printable Pages](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
   Updated: 2026-08-12T13:53:19Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-08-21T11:01:57Z
+  Updated: 2026-09-10T11:01:22Z
   Total Products: 26
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-08-12T13:53:19Z
@@ -1414,10 +1414,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-08-12T14:11:13Z
   Total Products: 27
 - [Bookmarks and Bookplates](https://printableplanning.com/collections/bookmarks-and-bookplates): Printable bookmarks and bookplates for kids and adults. Personalize names, label book ownership, and create easy gifts for readers and teachers.
-  Updated: 2026-08-12T13:53:19Z
+  Updated: 2026-09-09T11:01:39Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-09-02T11:01:45Z
+  Updated: 2026-09-10T11:01:22Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-08-12T13:53:19Z
@@ -1429,7 +1429,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-08-30T15:14:33Z
   Total Products: 22
 - [To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-08-28T00:23:42Z
+  Updated: 2026-09-09T11:01:39Z
   Total Products: 35
 - [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
   Updated: 2026-08-12T13:53:19Z
