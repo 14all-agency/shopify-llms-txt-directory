@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-09-03T10:29:29.132Z
+- Updated At: 2026-09-12T00:00:29.036Z
 
 ## Products
 
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/2599/3382/files/08.png?v=1787205439
   Price: $19.99 USD
 - [Personalized Love & Energy Reading | Private 1:1 Reading](https://sky-beauty-diaries-2.myshopify.com/products/1-1-personalized-energy-reading-private-written-reading): Product Description Sometimes you don't need another general reading. You need answers that speak directly to your situation, your questions and what you're currently experiencing. The 1:1 Personalized Energy Reading is a private written spiritual reading created individually for you. After booking your reading, you'll be invited to share your situation and the question you would most like guidance on. I will personally review your message, reflect on the energy surrounding your situation and prepare a personalized written reading and digital report based on the information you provide. There is no live video call or phone call required. Simply send me your question and allow me the time and space to prepare your private reading. Your completed report will then be delivered digitally for you to read privately, revisit whenever you need and keep for yourself. What Can You Ask About? Choose one primary area for your reading. 💗 Love & Relationships Questions about: A current relationship Emotional distance An ex or past connection Reconnection Relationship uncertainty New love Your emotional patterns What to focus on next ✨ Manifestation Questions about: A specific manifestation Feeling blocked or uncertain Setting a clearer intention Choosing the right ritual Your next manifestation practice 💰 Money & Abundance Questions around: Career direction Business intentions Abundance New opportunities Your relationship with money Creating a clearer financial intention 🌙 Energy & Alignment For moments when: You feel energetically drained Something feels "off" You're entering a period of change You want to reset your intentions You're looking for spiritual reflection 💎 Self-Love & Confidence Questions around: Confidence Personal magnetism Self-worth Feminine energy Becoming more aligned with yourself 🔮 New Beginnings For: Career changes New relationships Moving forward after a breakup Starting a business Major life transitions Entering a new chapter What You Receive Your $49 Personalized Energy Reading includes: ✨ Personal Review of Your Question I will personally read the situation and question you submit. ✨ 1:1 Written Energy Reading Your reading is created specifically around the information and intention you provide. ✨ Personalized Digital Report You will receive a beautifully prepared electronic report containing your reading and guidance. ✨ Energy & Intention Insights The report will explore the emotional and energetic themes surrounding your question from a spiritual and reflective perspective. ✨ Personalized Guidance I'll share what I believe may be most useful for you to focus on moving forward. ✨ Ritual Recommendation When appropriate, I may recommend an intention, visualization, Reiki-inspired practice or ritual that complements your reading. How It Works STEP 1 — Book Your Reading Purchase your 1:1 Personalized Energy Reading online. Price: $49 STEP 2 — Submit Your Question After booking, leave me a private message describing your situation. Please include: Your first name Your primary topic Love / Relationship / Money / Career / Manifestation / Confidence / Energy / New Beginning Your question A short explanation of your situation The more clearly you explain what you're experiencing, the more focused I can make your reading. STEP 3 — I Personally Review Your Message Once your request is received, I will personally review the information you've shared and prepare your reading. There is no live video call required. You can simply submit your question and continue with your day. STEP 4 — Your Reading Is Created I will prepare your personalized written interpretation and organize it into your private Digital Energy Reading Report. STEP 5 — Receive Your Digital Report Once completed, your personalized report will be delivered electronically. You can read it privately, save it and return to it whenever you need. Your Personalized Report May Include Depending on your question, your report may explore: 01 — Your Current Energy The primary emotional and energetic themes surrounding your situation. 02 — What May Be Influencing the Situation Patterns, emotions or intentions worth reflecting on. 03 — Your Question A focused interpretation centered around the question you submitted. 04 — What You May Need to Release Thought patterns, attachments or emotional tension that may no longer be serving you. 05 — What to Focus on Next Personalized spiritual and reflective guidance for your next chapter. 06 — Your Personalized Intention A simple intention created around your situation. 07 — Recommended Energy Practice A ritual, visualization, affirmation or Reiki-inspired practice you can explore after receiving your reading. Who Is This For? This reading may be right for you if: You have a specific question you can't stop thinking about. You want something more personal than a general online reading. You prefer written guidance instead of a video call. You want time to privately process your reading. You're experiencing uncertainty in love or relationships. You're trying to manifest something specific. You're entering a new chapter. You want personalized spiritual reflection and guidance. Why Written Instead of Live? A written reading gives me time to carefully review your question and organize my interpretation rather than rushing through your situation during a short live session. It also gives you something valuable: A reading you can keep. You don't need to remember everything that was said during a call. Your personalized report allows you to revisit your guidance whenever you want. FAQ Do I need to attend a video call? No. This is a written personalized reading. You submit your question online and receive your completed digital report electronically. What should I write when submitting my question? Briefly explain what is happening and tell me the one primary question you would most like guidance on. Can I ask about my ex or relationship? Yes. Love, relationships, emotional distance and past connections can all be explored from a spiritual and reflective perspective. However, I cannot guarantee or claim to know another person's private thoughts, feelings or future actions. Can I ask multiple questions? The $49 reading is designed around one primary situation or question. If several questions relate to the same situation, you may include them as context, but the reading will focus on the central question. How will I receive my reading? Your completed personalized report will be delivered electronically using the contact information provided with your order. Is this an automatically generated reading? No. Your submitted question and situation are reviewed individually before your personalized report is prepared. Will you tell me exactly what will happen in the future? The reading is intended to offer spiritual reflection, perspective and guidance rather than  predictions of future events. Important Disclaimer The 1:1 Personalized Energy Reading is intended for spiritual, reflective and entertainment purposes only. Readings are subjective and individual experiences vary. No specific romantic, financial, career, manifestation or future outcome is promised or . This service does not provide , psychological, legal, financial or  advice and should not be used as a replacement for qualified professional services. Please respect the autonomy, privacy, consent and personal boundaries of other people when submitting relationship-related questions.
-  Updated: 2026-09-03T10:05:15Z
+  Updated: 2026-09-04T06:07:21Z
   Vendor: Sky Beauty Diaries
   Product Type: 
   Availability: Available
@@ -76,9 +76,6 @@
 
 ## Collections
 
-- [AI music player](https://sky-beauty-diaries-2.myshopify.com/collections/music-player)
-  Updated: 2026-08-29T12:20:18Z
-  Total Products: 0
 - [Digital Ritual — Love & Relationships](https://sky-beauty-diaries-2.myshopify.com/collections/digital-ritual-love-relationships): Explore a guided Love Attraction Ritual with intention setting, visualization and energy practices designed for love, self-connection and emotional openness.
   Updated: 2026-08-20T03:48:56Z
   Total Products: 5
@@ -95,12 +92,51 @@
   Updated: 2026-09-03T10:05:17Z
   Total Products: 1
 
+## Blogs
+
+- [新闻](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻)
+  - [10 Self-Care Routines to Transform Your Daily Life](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/10-self-care-routines-to-transform-your-daily-life): 10 Self-Care Routines to Transform Your Daily Life
+    Updated: 2026-09-03T13:07:16Z
+    Author: User
+  - [The Ultimate Self-Care Checklist for Everyday Wellness](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/the-ultimate-self-care-checklist-for-everyday-wellness): The Ultimate Self-Care Checklist for Everyday Wellness
+    Updated: 2026-09-04T02:04:56Z
+    Author: User
+  - [How to Incorporate Self-Care Into a Busy Schedule](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/how-to-incorporate-self-care-into-a-busy-schedule): How to Incorporate Self-Care Into a Busy Schedule
+    Updated: 2026-09-06T00:28:18Z
+    Author: User
+  - [Self-Care FAQ: Your Questions Answered](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/self-care-faq-your-questions-answered): Self-Care FAQ: Your Questions Answered
+    Updated: 2026-09-09T00:41:50Z
+    Author: User
+  - [The History of Self-Care and Its Impact on Modern Life](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/the-history-of-self-care-and-its-impact-on-modern-life): The History of Self-Care and Its Impact on Modern Life
+    Updated: 2026-09-11T00:43:51Z
+    Author: User
+
 ## Store Pages
 
 - [Your Privacy Choices](https://sky-beauty-diaries-2.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-03-16T15:48:55Z
 - [Shipping](https://sky-beauty-diaries-2.myshopify.com/pages/shipping): .shipping-policy-wrapper { max-width: 800px; margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height:...
   Updated: 2026-03-19T06:04:03Z
+- [What Is a Personalized Energy Reading?](https://sky-beauty-diaries-2.myshopify.com/pages/what-is-a-personalized-energy-reading): What Is a Personalized Energy Reading? A personalized energy reading is a private spiritual and reflective experience created around your individua...
+  Updated: 2026-09-03T11:47:33Z
+- [How Does a Written Love Reading Work?](https://sky-beauty-diaries-2.myshopify.com/pages/how-does-a-written-love-reading-work): How Does a Written Love Reading Work? When you're experiencing uncertainty in love, sometimes the hardest part isn't knowing that you have question...
+  Updated: 2026-09-05T08:33:19Z
+- [What Is a Love Attraction Ritual? How It Works & What to Expect](https://sky-beauty-diaries-2.myshopify.com/pages/what-is-a-love-attraction-ritual-how-it-works-what-to-expect): A love attraction ritual is a spiritual and reflective practice designed to help you focus your attention, emotions, and intentions around love. Fo...
+  Updated: 2026-09-05T08:32:03Z
+- [How Does a Personalized Energy Reading Work? A Step-by-Step Guide](https://sky-beauty-diaries-2.myshopify.com/pages/how-does-a-personalized-energy-reading-work-a-step-by-step-guide): How Does a Personalized Energy Reading Work? A Step-by-Step Guide If you’ve never had a personalized energy reading before, you may be wondering wh...
+  Updated: 2026-09-03T12:14:16Z
+- [About us | Personalized Energy Readings & Spiritual Guidance](https://sky-beauty-diaries-2.myshopify.com/pages/about-us): About Sky Beauty Diaries PERSONALIZED SPIRITUAL GUIDANCE, CREATED WITH INTENTION Welcome to Sky Beauty Diaries, a space dedicated to personalized e...
+  Updated: 2026-09-05T08:38:48Z
+- [Personalized Energy Reading vs Tarot Reading: What’s the Difference?](https://sky-beauty-diaries-2.myshopify.com/pages/personalized-energy-reading-vs-tarot-reading-what-s-the-difference): Personalized Energy Reading vs Tarot Reading: What’s the Difference? If you are looking for spiritual guidance online, you may have come across bot...
+  Updated: 2026-09-05T09:33:23Z
+- [How Much Does a Personalized Energy Reading Cost?](https://sky-beauty-diaries-2.myshopify.com/pages/how-much-does-a-personalized-energy-reading-cost): If you are considering booking a personalized energy reading online, one of the first questions you may have is: How much does a personalized energ...
+  Updated: 2026-09-05T09:31:55Z
+- [What Questions Should You Ask in a Love Reading?](https://sky-beauty-diaries-2.myshopify.com/pages/what-questions-should-you-ask-in-a-love-reading): What Questions Should You Ask in a Love Reading? A love reading can be a meaningful way to reflect on your emotions, relationship patterns, and the...
+  Updated: 2026-09-05T09:40:58Z
+- [Can an Energy Reading Help With Relationship Clarity?](https://sky-beauty-diaries-2.myshopify.com/pages/can-an-energy-reading-help-with-relationship-clarity): Can an Energy Reading Help With Relationship Clarity? Relationships are not always easy to understand. Sometimes nothing is obviously wrong, yet so...
+  Updated: 2026-09-05T09:44:36Z
+- [Online Energy Reading: What to Expect Before Booking One](https://sky-beauty-diaries-2.myshopify.com/pages/online-energy-reading-what-to-expect-before-booking-one): If you are thinking about booking an online energy reading, you may be wondering what actually happens after you purchase one. Do you need to join ...
+  Updated: 2026-09-05T10:00:40Z
 
 ## Policies
 
