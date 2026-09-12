@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-05T00:00:42.763Z
+- Updated At: 2026-09-12T00:00:43.471Z
 
 ## Products
 
@@ -107,7 +107,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
-  Updated: 2026-08-29T03:54:13Z
+  Updated: 2026-09-08T23:02:58Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -153,7 +153,7 @@
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0000_Chunk-of-Change-Vinyl.png?v=1778188939
   Price: $29.98 USD
 - [2026 Tour Photo Tee](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee): Passion Pit graphic on the front 2026 tour dates on the back 100% cotton tee in Black
-  Updated: 2026-08-29T03:54:15Z
+  Updated: 2026-09-08T01:33:38Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -220,7 +220,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Sleepyhead Hat](https://passionpit.merchmadeeasy.com/products/sleepyhead-hat): Sleepyhead embroidered in blue on the front Passion Pit embroidered on the back Tan baseball cap
-  Updated: 2026-08-29T03:54:15Z
+  Updated: 2026-09-10T19:58:28Z
   Vendor: Passion Pit
   Product Type: Hat
   Availability: Available
@@ -234,7 +234,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0007_Passion-Pit-Tote.png?v=1778791414
   Price: $25.00 USD
 - [Sticker Pack](https://passionpit.merchmadeeasy.com/products/sticker-pack): Set of 5 stickers
-  Updated: 2026-08-29T03:54:16Z
+  Updated: 2026-09-09T01:21:38Z
   Vendor: Passion Pit
   Product Type: Stickers
   Availability: Available
@@ -244,25 +244,25 @@ Unisex
 ## Collections
 
 - [Home page](https://passionpit.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-30T11:19:56Z
+  Updated: 2026-09-09T11:25:55Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-31T11:22:30Z
+  Updated: 2026-09-09T11:25:55Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-28T11:20:44Z
+  Updated: 2026-09-09T11:25:55Z
   Total Products: 5
 - [Music](https://passionpit.merchmadeeasy.com/collections/music)
   Updated: 2026-08-30T11:19:56Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
-  Updated: 2026-08-31T11:22:30Z
+  Updated: 2026-09-09T11:25:55Z
   Total Products: 6
 - [Hats](https://passionpit.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-05T20:25:30Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-31T11:22:30Z
+  Updated: 2026-09-09T11:25:55Z
   Total Products: 15
 
 ## Store Pages
