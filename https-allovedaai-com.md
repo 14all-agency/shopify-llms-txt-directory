@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-09-04T10:54:17.211Z
+- Updated At: 2026-09-12T00:00:44.741Z
 
 ## Products
 
@@ -137,6 +137,12 @@
     Author: Manan Mehta
   - [9 Daily Habits That Support a Healthy Immune System](https://allovedaai.com/blogs/alloveda-ai/daily-habits-immune-support): 9 Daily Habits That Support a Healthy Immune System
     Updated: 2026-08-19T11:01:57Z
+    Author: Manan Mehta
+  - [The Inflammatory Index: A Modern Way to Track Inflammation](https://allovedaai.com/blogs/alloveda-ai/the-inflammatory-index-a-modern-way-to-track-inflammation-balance): The Inflammatory Index: A Modern Way to Track Inflammation
+    Updated: 2026-09-09T13:24:20Z
+    Author: Manan Mehta
+  - [Immune System Support for Seniors: What Changes After 50](https://allovedaai.com/blogs/alloveda-ai/immune-system-support-for-seniors-what-changes-after-50)
+    Updated: 2026-09-11T13:59:08Z
     Author: Manan Mehta
 
 ## Store Pages
