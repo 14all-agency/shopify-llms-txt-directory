@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-03-02T15:47:42Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-26T00:00:40.152Z
+- Updated At: 2026-09-12T00:00:46.590Z
 
 ## Products
 
 - [LFDH Guitar Strap](https://darylhall.merchmadeeasy.com/products/lfdh-guitar-strap): Custom Guitar Strap Regular/Adjustable (45" - 55") 2" Polyester Durable Plastic Hardware
-  Updated: 2026-08-13T08:34:01Z
+  Updated: 2026-09-10T22:54:57Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
@@ -24,27 +24,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DH.png?v=1746652459
   Price: $20.00 USD
-- [LFDH Graphic Tee](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee): 100% cotton short sleeve tee in black Live From Daryls House graphic on the front As seen worn by Daryl on Episode 12 with Eric Hutchinson SIZE CHART Size Body Length (In.) Body Width (In.) S 28 18 1/4 M 29 20 L 30 22 XL 31 24 XXL 32 26
-  Updated: 2026-08-12T20:39:49Z
-  Vendor: Daryl Hall
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DARYLHALLBORDERTEE.png?v=1743517298
-  - [S](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee?variant=33000118255755)
-    Availability: Not Available
-    Price: $25.00 USD
-  - [M](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee?variant=33000118288523)
-    Availability: Not Available
-    Price: $25.00 USD
-  - [L](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee?variant=33000118321291)
-    Availability: Available
-    Price: $25.00 USD
-  - [XL](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee?variant=33000118354059)
-    Availability: Not Available
-    Price: $25.00 USD
-  - [XXL](https://darylhall.merchmadeeasy.com/products/lfdh-graphic-tee?variant=33000118386827)
-    Availability: Not Available
-    Price: $25.00 USD
 - [Live From Daryl's House Tee](https://darylhall.merchmadeeasy.com/products/lfdh-shirt): The original Live From Daryl's House graphic on a 100% Cotton Black Tee
   Updated: 2026-08-12T20:40:33Z
   Vendor: Daryl Hall
@@ -147,7 +126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/Myproject-1-28_1.png?v=1742497658
   Price: $70.00 USD
 - [Daryl's House Pullover Hoodie Yellow](https://darylhall.merchmadeeasy.com/products/lfdh-pullover-hoodie-yellow): Unisex drawstring pullover hoodie WITH Daryl's House screenprint in yellow. 80/20 ring-spun cotton/polyester
-  Updated: 2026-08-12T20:43:56Z
+  Updated: 2026-09-05T21:29:26Z
   Vendor: Daryl Hall
   Product Type: Hoodie
   Availability: Available
@@ -159,7 +138,7 @@
     Availability: Available
     Price: $50.00 USD
   - [L](https://darylhall.merchmadeeasy.com/products/lfdh-pullover-hoodie-yellow?variant=41470999625867)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
   - [XL](https://darylhall.merchmadeeasy.com/products/lfdh-pullover-hoodie-yellow?variant=41470999658635)
     Availability: Not Available
@@ -270,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHallCD.png?v=1786567925
   Price: $15.00 USD
 - [2025 Tour Tee | Official Daryl Hall Merch Store](https://darylhall.merchmadeeasy.com/products/2025-tour-tee): Daryl Hall photo graphic on the front 2025 Tour dates on the back 100% cotton tee in black
-  Updated: 2026-08-12T20:50:28Z
+  Updated: 2026-09-10T22:54:47Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -301,7 +280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHTOTE.png?v=1746651791
   Price: $25.00 USD
 - [Daryl Hall x Elvis Costello Tee](https://darylhall.merchmadeeasy.com/products/daryl-hall-x-elvis-costello-tee): 100% Cotton Black Tee Daryl's House screen print in red on the front.
-  Updated: 2026-08-12T20:48:47Z
+  Updated: 2026-09-05T21:29:26Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -328,34 +307,34 @@
 ## Collections
 
 - [Accessories](https://darylhall.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 28
 - [Apparel](https://darylhall.merchmadeeasy.com/collections/apparel): Visit to shop all Daryl Hall apparel including tees, hoodies, long sleeves and more!
-  Updated: 2026-08-12T20:50:29Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 22
 - [All](https://darylhall.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-17T11:06:25Z
-  Total Products: 22
+  Updated: 2026-09-11T11:06:21Z
+  Total Products: 21
 - [Music](https://darylhall.merchmadeeasy.com/collections/music)
   Updated: 2026-08-04T11:06:04Z
   Total Products: 8
 - [](https://darylhall.merchmadeeasy.com/collections/)
-  Updated: 2026-08-12T20:50:29Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 10
 - [Our Favorites](https://darylhall.merchmadeeasy.com/collections/home-page)
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 8
 - [2025 Tour Merch](https://darylhall.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 7
 - [Stocking Stuffers](https://darylhall.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 9
 - [$5 FRENZY ](https://darylhall.merchmadeeasy.com/collections/5-frenzy-)
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 21
 - [EG All Products - DO NOT EDIT](https://darylhall.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-08-17T11:06:25Z
+  Updated: 2026-09-11T11:06:21Z
   Total Products: 58
 
 ## Store Pages
