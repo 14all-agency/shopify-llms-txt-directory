@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-04-30T12:04:32Z
 - Contact Email: woniry27@gmail.com
-- Updated At: 2026-08-30T00:00:47.232Z
+- Updated At: 2026-09-12T00:00:48.585Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/cruiseacremote.png?v=1783147163
   Price: ₹599.00 INR
 - [Samsung Split AC Remote For 5-in-1 Inverter AR12AY4YAWK](https://woniry.in/products/samsung-ac-remote-convertible-5-in-1-inverter-split-ac-ar12ay4yawk): The woniry replacement remote for Samsung Split AC helps you to get ease control of your ac. Which helps you to comfort your life. Shop it now.
-  Updated: 2026-07-04T06:39:23Z
+  Updated: 2026-09-07T13:46:16Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/AUXacremote.png?v=1783147163
   Price: ₹399.00 INR
 - [Buy Godrej Split AC Remote Online - Woniry](https://woniry.in/products/godrej-ac-replacement-remote): Works with Godrej split and window AC models featuring WYQ, i-Sense, and 5-in-1 Convertible functions. IR control, no pairing required. Ships India-wide.
-  Updated: 2026-07-10T00:36:19Z
+  Updated: 2026-09-07T12:02:57Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Voltasacremote185JY.png?v=1783147163
   Price: ₹399.00 INR
 - [Buy Bluestar AC Remote Replacement Fr RG66Y2 - Woniry](https://woniry.in/products/bluestar-ac-rg66y2-bgef-remote): Efficiently replace your AC remote with the Bluestar AC RG66Y2 BGEF Replacement Remote. Easy setup and reliable performance ensures comfort.
-  Updated: 2026-07-17T10:26:37Z
+  Updated: 2026-08-31T02:18:45Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/carrierflexicoolacremoteFrontback.png?v=1783147163
   Price: ₹599.00 INR
 - [Buy Samsung (Solar Powered)TV Remote For Crystal 4K Vista Pro - Woniry](https://woniry.in/products/samsung-crystal-vista-pro-ua43ue86afulxl-solar-voice-remote): Discover the stunning clarity of the Samsung Crystal 4K Vista Pro. Enjoy immersive viewing and seamless control with a solar-powered voice remote.
-  Updated: 2026-07-15T08:34:03Z
+  Updated: 2026-09-02T11:28:14Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Lgacremote16.png?v=1783147160
   Price: ₹399.00 INR
 - [Hitachi RAS‑18XWV AC Remote With Backlight: Comfort Control](https://woniry.in/products/hitachi-ras-18xwv-split-ac-remote): Boost your comfort with Hitachi RAS-18XWV AC, featuring energy efficiency and smart remote control for tailored climate solutions at home. Free Shipping.
-  Updated: 2026-08-29T05:26:51Z
+  Updated: 2026-09-01T12:36:47Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/hitachiRSRG517HEXAacremote.png?v=1783147161
   Price: ₹699.00 INR
 - [Buy Hitachi AC Remote Replacement | Woniry](https://woniry.in/products/hitachi-split-window-air-conditioner-remote-with-backlight): Upgrade to our premium Hitachi AC replacement remote. Compatible with RAR-3U4, RAR-2P2, & RAR-3U3 models. Plug-and-play, ergonomic design. Free Shipping.
-  Updated: 2026-08-13T08:18:01Z
+  Updated: 2026-09-09T10:16:07Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -193,14 +193,14 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/acernew.png?v=1783147162
   Price: ₹399.00 INR
 - [Acer Smart TV Remote | All I, H, V Series Models | Non-Voice | Woniry](https://woniry.in/products/acer-smart-led-tv-remote-universal-replacement): Premium replacement for Acer Smart TV remotes. Works with I, H, V, XL, and Advanced series. Dedicated App keys for Netflix & YouTube. No setup required.
-  Updated: 2026-08-06T06:27:06Z
+  Updated: 2026-09-07T04:25:08Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/ACERsmartledtvremote.png?v=1783147162
   Price: ₹399.00 INR
 - [Buy Samsung Universal Voice Remote 2019-2025 - Woniry](https://woniry.in/products/samsung-smart-tv-voice-remote-bn59-01357a): Bluetooth voice remote for Samsung Smart TVs 2019 to 2025. Pairing required. Works with Crystal UHD, QLED, The Frame, Neo QLED series. Ships from Ahmedabad.
-  Updated: 2026-07-15T10:49:51Z
+  Updated: 2026-09-04T14:27:05Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Sony_bravia_tv_remote_RMF-TX810P_Voice.png?v=1783147161
   Price: ₹999.00 INR
 - [Buy Xiaomi Fire TV Remote With Voice Function - Woniry](https://woniry.in/products/buy-xiaomi-fire-tv-remote): Bluetooth voice remote for Xiaomi Fire TV L55MB-FPIN. Pairing required. Quick access to apps, voice search, playback control. AAA batteries not included.
-  Updated: 2026-08-29T08:07:06Z
+  Updated: 2026-08-31T12:58:35Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Mibox.png?v=1783147162
   Price: ₹499.00 INR
 - [MR25GA LG ORIGINAL Magic Remote with AI Voice 2025 - Woniry](https://woniry.in/products/lg-magic-remote-mr25ga-ai-voice-oled-qned-uhd): LG MR25GA Magic Remote with AI voice, pointer wheel control. Pairs with LG OLED, QNED, UHD, LED, LCD TVs 2019 onwards. Bluetooth remote, pairing required.
-  Updated: 2026-07-15T05:45:05Z
+  Updated: 2026-09-05T14:55:07Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/vusmarttvremotevoice_b44bab7a-a750-4dfa-b5c8-da10aca06176.png?v=1783147163
   Price: ₹1,299.00 INR
 - [Hisense 43A6H Android TV Bluetooth Remote](https://woniry.in/products/hisense-43a6h-android-tv-voice-remote): Bluetooth voice remote for Hisense 43A6H, 43A6K, 50A6K, 55A6H, 55A7H, 65A7H Android TV models. Works with Google Assistant. Pairing required. Free shipping.
-  Updated: 2026-07-28T05:46:29Z
+  Updated: 2026-09-06T08:05:46Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/kodaktvremote.png?v=1783147163
   Price: ₹399.00 INR
 - [Buy Kodak Smart LED TV Remote Control | Woniry](https://woniry.in/products/kodak-smart-tv-remote-replacement): Looking for a Kodak Smart TV remote replacement? This compatible remote features ergonomic design, and full compatibility with Kodak Android & 4K LED TVs.
-  Updated: 2026-08-29T07:11:26Z
+  Updated: 2026-09-10T04:56:16Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/lloydacremote41.png?v=1782979757
   Price: ₹399.00 INR
 - [Replacement Remote for Voltas Split AC 155 CY](https://woniry.in/products/voltas-155-cy-ac-remote-18a): Replacement remote for Voltas 155 CY split and window AC units. Also works with Onida, Godrej, Electrolux, and Gree AC models using the 18A pattern.
-  Updated: 2026-07-04T06:04:06Z
+  Updated: 2026-09-03T06:59:56Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/HitachiRAU518KUDB.png?v=1778244868
   Price: ₹399.00 INR
 - [Buy Hitachi RSQG318HEEA AC Remote With Backlight - Woniry](https://woniry.in/products/hitachi-rsqg318heea-inverter-split-ac-remote): Works with Hitachi 1.5 ton 3 star inverter split AC models RSQG318HEEA, RSNG318HCEA, RSM318HFEOBWF. No pairing needed, ready to use out of the box.
-  Updated: 2026-07-10T12:38:15Z
+  Updated: 2026-09-04T08:32:07Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -438,7 +438,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/hitachinon-inverteracremote220.png?v=1778245686
   Price: ₹399.00 INR
 - [Voltas Split AC Remote Replacement - Easy Control](https://woniry.in/products/voltas-eu-245v-adz-ac-remote): Easily replace your lost or damaged remote with our compatible Voltas Split AC EU 245V ADZ Replacement Remote to enjoy your comfortable climate control again.
-  Updated: 2026-07-23T06:58:03Z
+  Updated: 2026-09-07T12:58:57Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/voltas49.png?v=1778309545
   Price: ₹399.00 INR
 - [Buy LG AKB75415302 AC Remote India - Woniry](https://woniry.in/products/lg-split-ac-akb75415302-replacement-remote): Direct replacement for LG split ACs. Works with AKB75415302, AKB75215414, AKB75415306 models. No programming required. Ships across India with free delivery.
-  Updated: 2026-07-10T12:56:47Z
+  Updated: 2026-09-07T09:49:37Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -522,7 +522,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/lloyd125_48c5516c-ffcc-4f2e-a598-da779bc7fb66.png?v=1778321575
   Price: ₹399.00 INR
 - [Buy Mitsubishi RKX502A007 AC Remote Online India - Woniry](https://woniry.in/products/mitsubishi-heavy-rkx502a007-ac-remote): Direct replacement for Mitsubishi Heavy Industries split AC remotes RKX502A007, RKX502A007B, and RKX502A008. Works with all standard AC functions out of the box
-  Updated: 2026-07-04T06:04:23Z
+  Updated: 2026-09-10T03:36:16Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -585,7 +585,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/lloydacremote60.png?v=1778578290
   Price: ₹399.00 INR
 - [Buy 5000-in-1 Universal AC Remote India - Woniry](https://woniry.in/products/universal-ac-remote-5000-in-1-all-brands): Universal AC remote supporting 5000+ models. Works with Voltas, Daikin, LG, Hitachi, Blue Star, Carrier, O General, Samsung. Simple auto-code setup.
-  Updated: 2026-08-06T08:13:28Z
+  Updated: 2026-09-09T13:26:42Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/universaltvremote.png?v=1778582758
   Price: ₹399.00 INR
 - [Buy TCL TAC-18CSD/V3 Split AC Remote Online India - Woniry](https://woniry.in/products/tcl-tac-18csd-v3-split-ac-remote): Upgrade your TCL Elite Turbo Ultra-Inverter Split AC with our precise remote replacement. Enjoy seamless control and energy efficiency today.
-  Updated: 2026-07-17T10:20:22Z
+  Updated: 2026-09-02T18:11:03Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -620,7 +620,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/daiwasmarttvremote_3a278420-29f0_front.png?v=1778838063
   Price: ₹399.00 INR
 - [Buy VW Visio World Smart LED TV Remote Online - Woniry](https://woniry.in/products/vw-visio-world-vw40aq1-led-tv-remote): IR remote for VW Visio World smart LED TVs. Works with VW40AQ1, VW43AQ1, VW32F5, VW32A, VW32S, VW32C2, VW40F1, VW40F2, VW43S1, VW43F2. No pairing needed.
-  Updated: 2026-08-28T01:51:47Z
+  Updated: 2026-09-06T14:25:56Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -683,14 +683,14 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/voltasacremoteno55.png?v=1781247523
   Price: ₹499.00 INR
 - [Buy Panasonic AC Remote For A75C3740 - Woniry](https://woniry.in/products/panasonic-split-ac-a75c3740-44a-remote): Discover the reliable Panasonic Split AC Remote Replacement for A75C3740, ensuring easy control and comfort. Enhance your cooling experience seamlessly.
-  Updated: 2026-07-24T12:55:02Z
+  Updated: 2026-09-04T06:25:05Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/panasonicacremote44.png?v=1781249122
   Price: ₹399.00 INR
 - [Buy Hitachi Split AC Remote For RAU012HUEA - Woniry](https://woniry.in/products/hitachi-rau012hueaz1-ac-remote-154): Replacement remote for Hitachi split and window ACs using remote model 154. Works with RAU012HUEAZ1 and similar series. Ships free across India.
-  Updated: 2026-07-04T06:05:03Z
+  Updated: 2026-09-05T05:41:48Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -767,14 +767,14 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/logitechsoundbarremotez906online.png?v=1781608614
   Price: ₹549.00 INR
 - [Buy Portronics Beem 470 / 440 Projector Remote - Woniry](https://woniry.in/products/portronics-beem-470-projector-remote): Replacement remote for Portronics Beem 470, 470 mini, and 440 projectors. Ships with batteries included. Works straight out of the box. COD available.
-  Updated: 2026-08-18T18:28:37Z
+  Updated: 2026-09-05T08:47:16Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/technoviewprojectorremote1.png?v=1781609261
   Price: ₹749.00 INR
 - [Buy Lifelong Lightbeam / Truepixel Projector Remote Online - Woniry](https://woniry.in/products/lifelong-lightbeam-llpjh20-projector-remote): Find the perfect replacement for your projector remote with the reliable Lifelong Lightbeam Truepixel Remote. Easy to use, ensures seamless control.
-  Updated: 2026-07-28T05:46:32Z
+  Updated: 2026-09-07T15:41:07Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -788,7 +788,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/zebronicsprojectorremoteoriginal.png?v=1781611280
   Price: ₹399.00 INR
 - [Buy O General AC Remote For ASGA24BMWA-B - Woniry](https://woniry.in/products/o-general-asga24bmwa-b-split-ac-remote): Replacement remote for O General split AC units including ASGA24BMWA-B, ASGA12CLWA-B, ASGA18BMAA-B. Works with 1, 1.5, and 2 ton models. Fastest Shipping.
-  Updated: 2026-07-26T16:08:27Z
+  Updated: 2026-09-01T16:36:36Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -816,7 +816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/panasonicacremote157f.png?v=1781676667
   Price: ₹449.00 INR
 - [Buy Panasonic TH-43MS550DX TV Remote Online India - Woniry](https://woniry.in/products/panasonic-th-43ms550dx-led-tv-remote): IR remote for Panasonic TH-43MS550DX Smart LED TV. No pairing needed. Drop in batteries and use. Works with most 2016-2020 Panasonic LED models.
-  Updated: 2026-07-28T05:46:34Z
+  Updated: 2026-09-09T07:56:25Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -830,7 +830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/panasonicoriginaltvremotefront.png?v=1781678832
   Price: ₹1,349.00 INR
 - [Buy Thomson JioTele OS TV Remote - Woniry](https://woniry.in/products/thomson-jio-tv-remote-without-voice): IR remote for Thomson JioTele OS TVs: 32TJHQ002, 43TJQ0012, 50TJQ0022, 55TJQ0032. Direct replacement. No pairing needed. Ships across India from Ahmedabad.
-  Updated: 2026-07-04T06:05:22Z
+  Updated: 2026-09-10T07:20:46Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -872,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/blaupunktsoundbarremotesbw550.png?v=1781762184
   Price: ₹399.00 INR
 - [TCL Smart TV Remote With Voice Command - Woniry](https://woniry.in/products/tcl-rc602s-arc602s-voice-remote): Voice remote for TCL Android TVs (2017 onwards). Works with C2, P6, X2, X4 series including 55C2US, 65X9006, 50DP660. Bluetooth pairing needed.
-  Updated: 2026-08-02T04:22:45Z
+  Updated: 2026-09-08T10:42:16Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/voltasacremote7b.png?v=1781949175
   Price: ₹399.00 INR
 - [Buy Epson Projector Remote Online - Woniry](https://woniry.in/products/epson-eh-tw6600-projector-remote): Works with Epson EH-TW6600, TW7000, TW7100, TW7200, TW7400, TW8200, TW9200W, TW9300W, TW9500 home cinema projectors. Plug and play IR remote.
-  Updated: 2026-08-04T06:03:56Z
+  Updated: 2026-09-07T07:26:58Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Xiaomimitvremote.png?v=1783504671
   Price: ₹549.00 INR
 - [Wzatco Yuva Go Projector Remote Online - Woniry](https://woniry.in/products/wzatco-yuva-go-pro-automatic-projector-replacement-remote): Works with Wzatco Yuva Go and Yuva Go Pro automatic projectors. Soft rubber buttons, rigid ABS body. Ships across India from Ahmedabad.
-  Updated: 2026-08-29T09:10:46Z
+  Updated: 2026-09-03T06:48:02Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -1054,7 +1054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/RM-ANU200sonysystemremotefront.png?v=1784358480
   Price: ₹399.00 INR
 - [Egate Projector Remote Replacement - Woniry](https://woniry.in/products/egate-projector-remote-replacement-for-atom3x): IR replacement remote for Egate Atom3x projector. Plug-and-play setup, no pairing. Ships with quality check. Available at woniry.in. Buy2get5 off.
-  Updated: 2026-08-27T17:59:36Z
+  Updated: 2026-09-09T05:45:56Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -1089,7 +1089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/thomsontvremote.png?v=1784794048
   Price: ₹399.00 INR
 - [Westinghouse Smart TV Remote - Woniry Remote](https://woniry.in/products/westinghouse-smart-tv-replacement-remote): This replaces the original remote that came with Westinghouse Smart TVs sold in India between 2016 and 2022. Compatible Models: Westinghouse Smart TV series (Android and non-Android models from 2016 to 2022). Kodak, thomson etc.. What is in the box:One Woniry replacement remote. Batteries not included (needs two AAA cells). How to use:Pop in two AAA batteries (not included). Point at the TV sensor and press a button. That is the whole setup. Honest notes:This is an infrared remote, so you need a clear line of sight to the TV. If the TV sensor is behind a cabinet door or blocked, it will not respond. Some very early Westinghouse CRT models (2010 to 2012) used a different IR protocol and may not work with this remote. For LED and Smart TV models from 2016 onwards, compatibility is solid. Battery life runs about 8 to 10 months with normal daily use. Range is roughly 8 to 10 metres in a typical living room. FAQ: Q: Does this remote work with Westinghouse Android TV?A: Yes, it works with both Android and non-Android Westinghouse Smart TVs from 2016 onwards. Q: Do I need to pair this remote?A: No. It is an IR remote. Insert batteries and it works immediately. Q: Why is my remote not responding?A: Check three things: batteries are fresh and correctly installed, TV sensor is not blocked, and you are pointing the remote at the TV (not at the wall). Q: Does it have Netflix and YouTube buttons?A: Yes, if your original remote had app shortcuts, this one includes Netflix, Prime Video, YouTube, and Hotstar buttons. Q: What if my exact model is not listed?A: Westinghouse used the same IR codes across most LED and Smart TV models. If your TV was sold in India after 2016, this remote will likely work. Contact us on WhatsApp at +91 6354583783 if you want to confirm before ordering.
-  Updated: 2026-07-29T19:07:42Z
+  Updated: 2026-08-31T11:31:38Z
   Vendor: Woniry
   Product Type: 
   Availability: Available
@@ -1156,95 +1156,17 @@
 ## Collections
 
 - [AC Remote Control](https://woniry.in/collections/ac-remote-control): Shop our selection of universal AC remote control replacements compatible with all top brands. Find the right remote to easily manage your home cooling system.
-  Updated: 2026-08-29T11:05:41Z
+  Updated: 2026-09-10T11:05:53Z
   Total Products: 76
 - [TV Remote Control](https://woniry.in/collections/tv-remote): Buy original & compatible TV remote for Samsung, LG, Sony, Mi, OnePlus & all brands online. Best price, fast delivery & COD across India. Order now!
-  Updated: 2026-08-29T11:05:41Z
+  Updated: 2026-09-10T11:05:53Z
   Total Products: 64
 - [Home Theater Remote](https://woniry.in/collections/home-theater): Buy home theater remote for Sony, Samsung, LG, JBL, Philips, Bose & all brands. Original & compatible replacement remotes. Fast delivery & COD across India.
   Updated: 2026-08-22T11:06:13Z
   Total Products: 11
 - [Projector Remotes](https://woniry.in/collections/projector-remotes): Shop projector remote control online for Epson, BenQ, Sony, LG, ViewSonic & all brands. Compatible replacement remotes. Fast delivery & COD across India.
-  Updated: 2026-08-29T11:05:41Z
+  Updated: 2026-09-09T11:07:11Z
   Total Products: 8
-- [Samsung TV & AC Remotes](https://woniry.in/collections/samsung-remotes): Shop Samsung TV & AC remote controls at WONIRY. Find compatible replacement remotes for Smart TVs, LED TVs with reliable performance. Fastest Shipping.
-  Updated: 2026-07-23T11:06:19Z
-  Total Products: 10
-- [LG TV & AC Remotes](https://woniry.in/collections/lg-remotes): Discover compatible LG TV and AC remote controls at WONIRY. Choose quality replacement remotes for LG Smart TVs, LED TVs and air conditioners.
-  Updated: 2026-07-17T11:06:30Z
-  Total Products: 9
-- [Kodak TV Remotes](https://woniry.in/collections/kodak-remotes): Shop from our collection of Kodak TV remotes, designed for optimal performance. Enhance your viewing experience with our range of intuitive controls.
-  Updated: 2026-08-29T11:05:41Z
-  Total Products: 4
-- [Thomson TV Remotes](https://woniry.in/collections/thomson-remotes): Discover a range of Thomson TV remotes tailored for seamless connectivity and effortless usability. Perfect for every Thomson TV model, ensuring precision.
-  Updated: 2026-08-20T11:06:32Z
-  Total Products: 4
-- [Acer TV Remote Replacement](https://woniry.in/collections/acer-remotes): Discover high-quality Acer TV remote replacements designed for seamless compatibility with your device. Explore durable, easy-to-use options tailored for you.
-  Updated: 2026-08-27T06:55:44Z
-  Total Products: 2
-- [Sony TV  Remotes](https://woniry.in/collections/sony-remotes): Looking for a Sony remote? Explore compatible Sony TV and AC remote controls at WONIRY. replacement remotes for Smart TVs, Android TVs and air conditioners.
-  Updated: 2026-07-20T11:05:58Z
-  Total Products: 6
-- [Croma TV & AC Remote Replacements](https://woniry.in/collections/croma-remotes): Buy compatible Croma remote replacements online in India for Smart TVs, Google TVs and AC models. Easy ordering and fast delivery from WONIRY.
-  Updated: 2026-08-29T11:05:41Z
-  Total Products: 3
-- [Xiaomi & Mi TV Remotes](https://woniry.in/collections/xiaomi-remotes): Find a high-quality Xiaomi Remote for your smart TV. Our selection offers reliable performance and full compatibility for your home entertainment system.
-  Updated: 2026-08-27T11:06:34Z
-  Total Products: 4
-- [Voltas AC Remotes](https://woniry.in/collections/voltas-ac-remotes): Replace your Voltas AC remote control today. Exact-match compatible remotes for Voltas Split, Window & Inverter AC models. Ship Across India!
-  Updated: 2026-08-26T07:10:21Z
-  Total Products: 18
-- [Daikin AC Remotes](https://woniry.in/collections/daikin-remotes): Buy compatible Daikin AC remote replacements online in India. Find remotes for Split AC and Inverter AC models with easy ordering and delivery from WONIRY.
-  Updated: 2026-08-06T06:33:21Z
-  Total Products: 4
-- [Hitachi AC & TV Remote Replacement](https://woniry.in/collections/hitachi-remotes): Buy compatible Hitachi TV and AC remote replacements online in India. Find replacement remotes for supported models with fast delivery from WONIRY.
-  Updated: 2026-08-29T11:05:41Z
-  Total Products: 14
-- [Blue Star AC Remotes](https://woniry.in/collections/blue-star-ac-remotes): Restore your Blue Star AC experience with a compatible replacement remote from WONIRY. Blue Star air conditioner models with quick dispatch across India.
-  Updated: 2026-07-10T06:24:04Z
-  Total Products: 4
-- [Onida TV & AC Remote Controls](https://woniry.in/collections/onida-remotes): Discover compatible TV and AC replacement remotes at WONIRY, designed for dependable performance, comfortable use and free delivery across India.
-  Updated: 2026-07-10T06:32:48Z
-  Total Products: 1
-- [Videocon TV & AC Remote Controls](https://woniry.in/collections/videocon-remotes): Find the perfect Videocon TV or AC remote at WONIRY. Explore compatible replacement remotes  Videocon models with responsive controls and reliable performance
-  Updated: 2026-07-03T07:31:44Z
-  Total Products: 1
-- [O General AC Remote Controls](https://woniry.in/collections/o-general-ac-remotes): Bring your O General AC back under control with a compatible remote from WONIRY. remotes for split and window AC models, delivered across India.
-  Updated: 2026-07-27T11:05:16Z
-  Total Products: 2
-- [Whirlpool AC Remotes](https://woniry.in/collections/whirlpool-remotes): Replace your lost or damaged Whirlpool remote with a compatible AC remote from WONIRY. replacement remotes for multiple Whirlpool AC delivered across India.
-  Updated: 2026-07-17T11:06:30Z
-  Total Products: 1
-- [Carrier AC Remotes](https://woniry.in/collections/carrier-ac-remotes): Keep your Carrier air conditioner running  with a compatible remote from WONIRY. Explore  AC remotes for  Carrier models with fast delivery across India
-  Updated: 2026-08-20T11:06:32Z
-  Total Products: 2
-- [Panasonic TV & AC Remotes](https://woniry.in/collections/panasonic-remotes): Find compatible Panasonic remote controls for everyday convenience. Shop quality replacement remotes at WONIRY with delivery across India. Free delivery.
-  Updated: 2026-08-01T06:35:34Z
-  Total Products: 5
-- [Mitsubishi AC Remotes](https://woniry.in/collections/mitsubishi-ac-remotes): Control your Mitsubishi air conditioner with confidence using compatible replacement remotes from WONIRY. Fast delivery across India. COD Available.
-  Updated: 2026-07-03T07:34:15Z
-  Total Products: 1
-- [TCL Smart TV & AC Remotes](https://woniry.in/collections/tcl-smart-tv-ac-remotes): Enjoy seamless control of your TCL Smart TV with compatible replacement remotes from WONIRY. Find remotes for Android models with fast delivery across India.
-  Updated: 2026-08-02T11:06:05Z
-  Total Products: 6
-- [AUX AC Remote Controls](https://woniry.in/collections/aux-ac-remotes): Looking for an AUX AC remote? Explore compatible replacement remotes for split air conditioners at WONIRY. Reliable performance And fast delivery across India.
-  Updated: 2026-07-03T07:33:46Z
-  Total Products: 1
-- [Sanyo TV & AC Remotes](https://woniry.in/collections/sanyo-tv-ac-remotes): Bring your Sanyo TV back to life with a compatible remote from WONIRY. Discover replacement remotes for Smart, LED and Android TV and fast India-wide delivery.
-  Updated: 2026-07-03T07:33:30Z
-  Total Products: 1
-- [Haier TV & AC Remote Controls](https://woniry.in/collections/haier-tv-ac-remotes): Find the right Haier remote for your TV or air conditioner at WONIRY. Browse compatible replacement remotes and convenient delivery across India.
-  Updated: 2026-07-17T11:06:30Z
-  Total Products: 2
-- [Lloyd TV & AC Remotes](https://woniry.in/collections/lloyd-remotes): Power your Lloyd TV or air conditioner with a compatible replacement remote from WONIRY. Explore  remotes for multiple models And delivery across India.
-  Updated: 2026-07-27T11:05:16Z
-  Total Products: 6
-- [Electrolux AC Remotes](https://woniry.in/collections/electrolux-ac-remotes): Need an Electrolux AC remote? Choose a compatible replacement from WONIRY for smooth And Suitable for multiple Electrolux air conditioner models across India.
-  Updated: 2026-07-03T07:32:50Z
-  Total Products: 1
-- [VW TV Remotes](https://woniry.in/collections/vw-tv-remotes): Searching for a VW TV remote? Discover compatible replacement remotes for VW Smart, LED and Android TVs at WONIRY,  fast delivery across India.
-  Updated: 2026-08-28T11:06:20Z
-  Total Products: 4
 
 ## Store Pages
 
@@ -1252,10 +1174,8 @@
   Updated: 2026-07-03T07:39:31Z
 - [Partial Payment Policy](https://woniry.in/pages/partial-payment-policy): How Partial Payment Works: We offer Partial Cash on Delivery (COD) to provide flexibility: Initial Payment (Online): Pay a portion of your order to...
   Updated: 2026-07-13T09:47:32Z
-- [html sitemap pages](https://woniry.in/pages/html-sitemap-pages): Pages Contact Partial Payment Policy html sitemap products html sitemap collections html sitemap blogs .seoant-html-sitemap-row { margin-bottom: 2....
-  Updated: 2026-08-08T10:44:19Z
-- [html sitemap](https://woniry.in/pages/html-sitemap): Products Akai TV Remote For Led AKLT24N... Vestar AC Remote for VASYA123A... Original Cruise AC Remote Repl... Samsung Ac Remote Convertible ... Vo...
-  Updated: 2026-08-08T10:44:20Z
+- [About us](https://woniry.in/pages/about-us): Hey there, and welcome to Woniry (woniry.in)! Let's be honest, few things are more annoying than sitting down to relax, picking up your remote, and...
+  Updated: 2026-09-02T11:14:50Z
 
 ## Policies
 
