@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T05:33:08Z
 - Contact Email: 119074729@qq.com
-- Updated At: 2026-09-05T00:00:45.380Z
+- Updated At: 2026-09-13T00:00:45.452Z
 
 ## Products
 
@@ -1757,12 +1757,12 @@ Self-Matching Hat Band.
   Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/79879dc5_3f53c63a-4f8e-4ec7-8795-8a3475e2c750.jpg?v=1784945576
   Price: $14.99 USD
 - [Natural Wispy Lash Clusters 5–18mm C Curl | ColMagic](https://www.tusshop.com/products/natural-wispy-lash-clusters-5-18mm-c-curl-144-pcs): Create customizable natural or wispy looks with 144 ColMagic C-curl lash clusters in mixed 5–18mm lengths, made with lightweight synthetic fibers.
-  Updated: 2026-08-28T22:28:48Z
+  Updated: 2026-09-07T09:40:30Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/caa994f7_4907c514-eaa8-4386-a19e-100270aa7ca9.jpg?v=1784945579
-  Price: $14.99 USD
+  Price: $4.99 USD
 - [FUNTOUCH Rechargeable Travel Makeup Mirror with 72 Led Lights | Portable Lighted Beauty Mirror, 3 Color Lighting, Dimmable Touch Screen, Tabletop LED Folding Cosmetic Vanity Mirror](https://www.tusshop.com/products/funtouch-rechargeable-travel-makeup-mirror-with-72-led-lights-portable-lighted-beauty-mirror-3-color-lighting-dimmable-touch-screen-tabletop-led-folding-cosmetic-vanity-mirror): 1 USB Rechargeable
 2
 
@@ -1872,6 +1872,56 @@ Bring Back the Look of Volume — Anytime, AnywhereThe PDRN Pink Collagen Volume
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/53182815_c4c2c2ab-1ff8-40fe-9b0d-0516f04af91c.jpg?v=1785121211
     Price: $39.99 USD
+- [MIAAFOX Hip Hop Rhinestone Watch Men Fashion Calendar Quartz Large Dial Luminous Stainless Steel Luxury Wristwatch](https://www.tusshop.com/products/miaafox-hip-hop-rhinestone-watch-men-fashion-calendar-quartz-large-dial-luminous-stainless-steel-luxury-wristwatch): MIAAFOX Hip Hop Rhinestone Watch Men Fashion Calendar Quartz Large Dial Luminous Stainless Steel Luxury Wristwatch
+  Updated: 2026-09-07T21:50:58Z
+  Vendor: TUSSHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01OqobpU2GepvMAiCJw__2208634569041-0-cib.jpg?v=1788774648
+  - [silver](https://www.tusshop.com/products/miaafox-hip-hop-rhinestone-watch-men-fashion-calendar-quartz-large-dial-luminous-stainless-steel-luxury-wristwatch?variant=46177784168531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01OqobpU2GepvMAiCJw__2208634569041-0-cib.jpg?v=1788774648
+    Price: $29.99 USD
+  - [Black](https://www.tusshop.com/products/miaafox-hip-hop-rhinestone-watch-men-fashion-calendar-quartz-large-dial-luminous-stainless-steel-luxury-wristwatch?variant=46177784201299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01YKVEtW2GepvMc4YGx__2208634569041-0-cib.jpg?v=1788774648
+    Price: $29.99 USD
+  - [Gold](https://www.tusshop.com/products/miaafox-hip-hop-rhinestone-watch-men-fashion-calendar-quartz-large-dial-luminous-stainless-steel-luxury-wristwatch?variant=46177784234067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01w82Uia2GepvNVJDyB__2208634569041-0-cib.jpg?v=1788774648
+    Price: $29.99 USD
+- [Green Diamond Hip Hop Men Watch Unique Thorn Dial Zircon Inlaid Big Case Luxury](https://www.tusshop.com/products/green-diamond-hip-hop-men-watch-unique-thorn-dial-zircon-inlaid-big-case-luxury): Green Diamond Hip Hop Men Watch Unique Thorn Dial Zircon Inlaid Big Case Luxury
+  Updated: 2026-09-07T22:02:14Z
+  Vendor: TUSSHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN017IaZdx2GepwkEc9lP__2208634569041-0-cib.jpg?v=1788775329
+  - [Green Diamond](https://www.tusshop.com/products/green-diamond-hip-hop-men-watch-unique-thorn-dial-zircon-inlaid-big-case-luxury?variant=46178059124819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN0173AvDU2Gepwkz8GF3__2208634569041-0-cib.jpg?v=1788775329
+    Price: $49.99 USD
+  - [Black Diamond](https://www.tusshop.com/products/green-diamond-hip-hop-men-watch-unique-thorn-dial-zircon-inlaid-big-case-luxury?variant=46178059157587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01mF06Bi2GepwkRGVjd__2208634569041-0-cib.jpg?v=1788775329
+    Price: $49.99 USD
+- [starry diamond men watch stainless steel waterproof quartz watch](https://www.tusshop.com/products/hot--starry-diamond-men-watch-calendar-three-eye-chronograph-hip-hop-style-stainless-steel-waterproof-quartz-watch): Hot  starry diamond men watch calendar three eye chronograph hip hop style stainless steel waterproof quartz watch
+  Updated: 2026-09-07T22:11:56Z
+  Vendor: TUSSHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN016dtDFfXKF9F24uCu__2222224359275-0-cib.jpg?v=1788775909
+  - [BLACK](https://www.tusshop.com/products/hot--starry-diamond-men-watch-calendar-three-eye-chronograph-hip-hop-style-stainless-steel-waterproof-quartz-watch?variant=46178091270227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01WN1E4skq4kJ1chua__2222224359275-0-cib.jpg?v=1788775909
+    Price: $39.99 USD
+  - [BLUE](https://www.tusshop.com/products/hot--starry-diamond-men-watch-calendar-three-eye-chronograph-hip-hop-style-stainless-steel-waterproof-quartz-watch?variant=46178091302995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01armZPk2Mr4B1chua__2222224359275-0-cib.jpg?v=1788775910
+    Price: $39.99 USD
+  - [GREEN](https://www.tusshop.com/products/hot--starry-diamond-men-watch-calendar-three-eye-chronograph-hip-hop-style-stainless-steel-waterproof-quartz-watch?variant=46178091335763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0728/1770/5043/files/O1CN01KYvKLumNT1L1chua__2222224359275-0-cib.jpg?v=1788775909
+    Price: $39.99 USD
 
 ## Collections
 
@@ -1879,14 +1929,14 @@ Bring Back the Look of Volume — Anytime, AnywhereThe PDRN Pink Collagen Volume
   Updated: 2026-08-08T13:54:48Z
   Total Products: 9
 - [Beauty & Personal Care](https://www.tusshop.com/collections/cosmetics): Refresh your everyday beauty routine with practical products for makeup, skincare, grooming, and personal care. Whether you are getting ready at home, touching up throughout the day, or packing for a trip, this collection offers convenient beauty essentials designed to help you look and feel your best with less effort.
-  Updated: 2026-07-28T08:54:08Z
+  Updated: 2026-09-07T09:40:31Z
   Total Products: 17
 - [Home & Mirror](https://www.tusshop.com/collections/home-appliances): Discover mirrors designed to make everyday routines easier, brighter, and more convenient. Explore rechargeable travel mirrors, wall-mounted magnifying mirrors, vanity mirrors, and practical designs with adjustable lighting, flexible angles, and space-saving features for your bedroom, bathroom, dressing area, or travel bag.
   Updated: 2026-08-08T13:55:46Z
   Total Products: 25
 - [Clothing & Accessories](https://www.tusshop.com/collections/clothing-accessories): Explore comfortable and versatile clothing designed for everyday wear, relaxed weekends, travel, and casual occasions. This collection brings together easy-to-style pieces that balance comfort, practicality, and modern design, helping you create simple outfits that fit naturally into your daily routine.
-  Updated: 2026-07-28T08:54:08Z
-  Total Products: 1
+  Updated: 2026-09-07T10:11:48Z
+  Total Products: 4
 - [Best Sellers](https://www.tusshop.com/collections/best-sellers): Discover the products our customers are choosing most. From practical home and beauty essentials to everyday health, lifestyle, and personal care items, this collection highlights popular products selected for their convenience, useful features, and ability to make everyday routines easier.
   Updated: 2026-07-29T12:37:32Z
   Total Products: 6
