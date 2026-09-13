@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-09-06T00:00:37.596Z
+- Updated At: 2026-09-13T00:00:38.725Z
 
 ## Products
 
@@ -44,7 +44,7 @@
     Availability: Available
     Price: 18 000,00 FCFA XAF
 - [Asics Gel-Kayano 14 : Chaussures Confort et Performance](https://gelnext.click/products/asics-gel-kayano-15): Découvrez l'Asics Gel-Kayano 14, la chaussure qui combine confort et performance. Améliorez votre course avec un soutien exceptionnel et un amorti de qualité.
-  Updated: 2026-08-10T05:26:56Z
+  Updated: 2026-09-11T10:59:26Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: 18 000,00 FCFA XAF
 - [Saucony omni 9](https://gelnext.click/products/saucony-omni-9)
-  Updated: 2026-09-05T23:28:38Z
+  Updated: 2026-09-11T10:59:26Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2039,7 +2039,7 @@
     Availability: Available
     Price: 16 000,00 FCFA XAF
 - [Saucony omni 9](https://gelnext.click/products/saucony-omni-10)
-  Updated: 2026-09-05T22:07:06Z
+  Updated: 2026-09-06T09:41:45Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2072,7 +2072,7 @@
     Availability: Available
     Price: 20 000,00 FCFA XAF
 - [Saucony omni 9](https://gelnext.click/products/saucony-omni-11)
-  Updated: 2026-09-05T22:34:46Z
+  Updated: 2026-09-06T09:26:39Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2105,7 +2105,7 @@
     Availability: Available
     Price: 20 000,00 FCFA XAF
 - [Saucony omni 9](https://gelnext.click/products/saucony-omni-12)
-  Updated: 2026-09-05T22:38:15Z
+  Updated: 2026-09-06T07:50:26Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2141,7 +2141,7 @@
 ## Collections
 
 - [Asics gel-kayano 14](https://gelnext.click/collections/asics-gel-kayano-14): - GelNext
-  Updated: 2026-08-13T23:26:37Z
+  Updated: 2026-09-12T11:23:19Z
   Total Products: 7
 - [Asics gel-NYC](https://gelnext.click/collections/asics-gel-nyc): - GelNext
   Updated: 2026-08-08T18:42:26Z
@@ -2156,7 +2156,7 @@
   Updated: 2026-09-01T20:25:08Z
   Total Products: 6
 - [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
-  Updated: 2026-09-01T20:25:08Z
+  Updated: 2026-09-12T11:23:19Z
   Total Products: 16
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
@@ -2165,7 +2165,7 @@
   Updated: 2026-08-18T11:23:15Z
   Total Products: 4
 - [Asics](https://gelnext.click/collections/asics): - GelNext
-  Updated: 2026-08-13T23:26:37Z
+  Updated: 2026-09-12T11:23:19Z
   Total Products: 12
 - [New Balance](https://gelnext.click/collections/new-balance-1): - GelNext
   Updated: 2026-08-03T21:48:59Z
@@ -2180,7 +2180,7 @@
   Updated: 2026-08-09T16:39:14Z
   Total Products: 4
 - [Saucony](https://gelnext.click/collections/saucony): - GelNext
-  Updated: 2026-09-05T23:25:54Z
+  Updated: 2026-09-12T11:23:19Z
   Total Products: 4
 
 ## Store Pages
