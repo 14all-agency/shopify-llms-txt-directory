@@ -6,12 +6,12 @@
 - Timezone: Africa/Nairobi
 - Created At: 2026-07-20T22:05:33Z
 - Contact Email: joboejo9@gmail.com
-- Updated At: 2026-08-31T00:00:28.357Z
+- Updated At: 2026-09-13T00:00:35.774Z
 
 ## Products
 
-- [Luxury Watch For Men](https://jozyboewatches.myshopify.com/products/binbang-business-light-luxury-quartz-watch-for-men): Elevate your everyday style with the Binbang Business Light-Luxury Quartz Watch for Men — a sleek, precision-crafted stainless steel timepiece designed for the modern professional. With a quartz movement for reliable accuracy and a polished gold or black-steel finish, this men's dress watch pairs effortlessly with office attire or a night out. Durable stainless steel case and band Precise quartz movement Available in classic gold, black-steel, and two-tone styles Great gift for men who value understated luxury Ships worldwide with tracked delivery — estimated 10–20 business days to the USA.
-  Updated: 2026-08-29T08:17:50Z
+- [Luxury Watch For Men](https://jozyboewatches.myshopify.com/products/binbang-business-light-luxury-quartz-watch-for-men): Men's Business Quartz WatchA clean stainless-steel timepiece designed for work, formal occasions and everyday style. Its classic look makes it easy to pair with office outfits, casual wear or a night out. Stainless steel case and band Reliable quartz movement Gold, black-steel and two-tone styles Classic business-inspired design Great gift for men FREE SHIPPING included.Delivery: tracked shipping is available; estimated delivery to the USA is 10–20 business days.Color and finish may vary slightly by selected variant.
+  Updated: 2026-09-07T18:23:40Z
   Vendor: JOZY WATCHES
   Product Type: Men's Watch
   Availability: Available
@@ -115,7 +115,7 @@
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/c6b73f56-6901-4686-97cc-b0fcd5352c2b.jpg?v=1786495442
     Price: $25.99 USD
 - [Smart whatch computer contol](https://jozyboewatches.myshopify.com/products/color-screen-f21-smart-bracelet-monitor-sleep): Product information: Color: Black gray, black red, black Green Applicable people: business Battery capacity: 100mAh Operation mode: Touch Battery life: 7-14 days Functions: Waterproof, photographing, step counting, heart rate monitoring, social entertainment, Bluetooth calling, smart reminder, remote control selfie, sleep monitoring, blood oxygen detection Packing list: Bracelet * 1, charging cable * 1, instruction manual *
-  Updated: 2026-08-29T08:17:50Z
+  Updated: 2026-09-08T19:47:13Z
   Vendor: JOZY WATCHES
   Product Type: Fitness Tracker
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/4349903902411.jpg?v=1786500606
     Price: $14.99 USD
 - [Men's Classic Black Watch - Jozy Boe Watches](https://jozyboewatches.myshopify.com/products/mens-classic-black-watch): Shop stylish men's watches at Jozy Boe Watches. Quality timepieces, fast delivery across 28 countries, secure payment via  CRDB Bank.
-  Updated: 2026-08-29T08:17:51Z
+  Updated: 2026-09-07T20:29:29Z
   Vendor: JOZY WATCHES
   Product Type: Men's Watch
   Availability: Available
@@ -262,30 +262,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1a8c7fa9-8615-484f-84cb-bc9f124a4535.jpg?v=1787061603
     Price: $30.99 USD
-- [Wireless Smart Watch for Men & Women – 1.83" Touch Screen, Calls & Pedometer](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer): An elegant and functional wireless smart watch with a 1.83-inch full touch screen, built for both men and women. Make and receive calls directly from your wrist, track your steps with the built-in pedometer, and stay on top of your day without reaching for your phone. 1.83-inch full touchscreen display Dial and answer calls via Bluetooth connection Built-in pedometer for step tracking Available in Black, Navy Blue, Pink, Light Purple, and Gray Ships worldwide with tracked delivery — estimated 10–20 business days to the USA.
-  Updated: 2026-08-29T08:17:51Z
+- [1.83" Bluetooth Smart Watch | Calls, Touchscreen & Step Tracker](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer): 1.83-inch Bluetooth Smart WatchStay connected and keep your day organized from your wrist. This modern smartwatch combines a large touchscreen with Bluetooth calling and everyday activity tracking. 1.83-inch full touchscreen display Bluetooth calling support Built-in step tracking Comfortable everyday design Multiple color choices FREE SHIPPING is included.Delivery: tracked shipping is available; estimated delivery to the USA is 10–20 business days.Perfect for: everyday wear, work, walking, workouts and staying connected on the go.Bluetooth features, battery life, app support and compatibility vary by model. Please check the supplier specifications before ordering.
+  Updated: 2026-09-07T17:32:18Z
   Vendor: JOZY WATCHES
   Product Type: Watches & Smart Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/S35ab22f80dc14225861774d2760a752bE.webp?v=1787086048
   - [Black](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913081115)
     Availability: Available
-    Price: $28.99 USD
+    Price: $34.99 USD
   - [Navy Blue](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913113883)
     Availability: Available
-    Price: $28.99 USD
+    Price: $34.99 USD
   - [Pink](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913146651)
     Availability: Available
-    Price: $28.99 USD
+    Price: $34.99 USD
   - [Light Purple](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913179419)
     Availability: Available
-    Price: $28.99 USD
+    Price: $34.99 USD
   - [Gray](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913212187)
     Availability: Available
-    Price: $28.99 USD
+    Price: $34.99 USD
   - [Beige](https://jozyboewatches.myshopify.com/products/smart-watch-wireless-mens-and-womens-1-83-inch-full-screen-touch-dialing-answering-calls-pedometer?variant=53651913244955)
     Availability: Available
-    Price: $20.50 USD
+    Price: $34.99 USD
 - [W8 ECG Smart Bracelet – Stainless Steel Blood Pressure & Heart Rate Monitor](https://jozyboewatches.myshopify.com/products/w8-ecg-smart-bracelet): Take control of your wellness with the W8 ECG Smart Bracelet — a sleek, health-focused wearable built with a durable 304 stainless steel body and an elegant round color screen for a comfortable, refined fit. Tracks blood pressure, heart rate, and ECG readings Premium stainless steel construction for lasting durability Elegant round display with all-day comfort Available in Black, Brown, and Coffee finishes Ships worldwide with tracked delivery — estimated 10–20 business days to the USA.
   Updated: 2026-08-29T08:17:51Z
   Vendor: JOZY WATCHES
@@ -304,8 +304,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/538329919016.jpg?v=1787518070
     Price: $59.99 USD
-- [LEMFO LF26 Smart Bracelet – Touch Screen Fitness Tracker with Heart Rate Monitor](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet): Stay on top of your health goals with the LEMFO LF26 Smart Bracelet, featuring a crisp 1.3" touch display and responsive button control for effortless navigation. Built for everyday wear, this fitness tracker keeps you connected and informed around the clock. 1.3-inch touchscreen with dual touch + button operation Tracks heart rate, steps, and daily activity Lightweight, comfortable design for all-day wear Available in classic black, brown, and silver tones Ships worldwide with tracked delivery — estimated 10–20 business days to the USA.
-  Updated: 2026-08-29T08:17:51Z
+- [LEMFO LF26 Smart Bracelet | Fitness & Everyday Activity Tracker](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet): LEMFO LF26 Smart BraceletA sleek everyday wearable designed to help you stay connected to your daily activity goals. The 1.3-inch touchscreen and button controls make navigation simple while the lightweight design is comfortable for everyday wear. 1.3-inch touchscreen display Touch + button controls Activity and step tracking Heart-rate monitoring* Lightweight design for everyday wear Multiple color options FREE SHIPPING is included.Delivery: tracked shipping is available; estimated delivery to the USA is 10–20 business days.What's included: LEMFO LF26 wearable and included accessories supplied with the selected variant.*Features, app support, battery life and compatibility vary by model. Please review supplier specifications before ordering.
+  Updated: 2026-09-07T17:51:42Z
   Vendor: JOZY WATCHES
   Product Type: Watches & Smart Accessories
   Availability: Available
@@ -313,39 +313,64 @@
   - [Black A](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet?variant=53809287037211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/372013961593.jpg?v=1787518334
-    Price: $58.99 USD
+    Price: $49.99 USD
   - [Black B](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet?variant=53809287069979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/16949780513070.jpg?v=1787518334
-    Price: $58.99 USD
+    Price: $49.99 USD
   - [Brown Silver](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet?variant=53809287102747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1088113108440.jpg?v=1787518334
-    Price: $58.99 USD
+    Price: $49.99 USD
   - [Brown black](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet?variant=53809287135515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1338947248300.jpg?v=1787518334
-    Price: $58.99 USD
+    Price: $49.99 USD
   - [Silver](https://jozyboewatches.myshopify.com/products/lemfo-lf26-smart-bracelet?variant=53809287168283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1658035059220.jpg?v=1787518334
-    Price: $58.99 USD
-- [NEW BRAND WHATCHES](https://jozyboewatches.myshopify.com/products/https-jozyboewatches-myshopify-com-products-lemfo-lf26-smart-bracelet): "Shop the LEMFO LF26 Smart Bracelet – 1.3" touch screen, heart rate monitor & fitness tracking. Free shipping. Order now at JOZY WATCHES!"
-  Updated: 2026-08-29T08:17:52Z
-  Vendor: JOZY WATCHES
+    Price: $49.99 USD
+- [LIGE 1.3" Smart Watch | Fitness, Notifications & Everyday Wear](https://jozyboewatches.myshopify.com/products/liges-new-smart-watch-upgrade-smart-wearable-watch): LIGE 1.3" Smart WatchUpgrade your everyday style with a sleek LIGE smartwatch designed for staying active, connected and organized. The compact 1.3-inch display gives you quick access to everyday functions from your wrist.Why You'll Love It 1.3-inch display — compact and easy to use throughout the day. Activity tracking — track steps and daily movement. Sleep analysis — review sleep-related activity data. Smart notifications — receive supported information and alerts on your wrist. Remote selfie control — use the watch as a supported remote for your phone camera. USB charging — rechargeable design with an 80mAh battery. Classic buckle strap — simple, secure and comfortable for everyday wear. Water-resistant design — suitable for everyday use; no specific water-resistance rating is provided by the supplier. Specifications Brand: LIGE Display: 1.3 inches Battery: 80mAh Charging/interface: USB 2.0 Wireless range: approximately 5–10m, depending on conditions Connectivity: compatible with supported smartphones Strap: classic buckle style Colors: Black, Gray What's Included1 × LIGE Smart WatchImportant NoteHealth, sleep and activity features are for general wellness and fitness information only and are not intended to diagnose, treat or prevent any  condition. Compatibility and available functions can vary by phone, operating system and app.ShippingFREE SHIPPING is available on this product. Tracked delivery to the USA is typically estimated at 10–20 business days, depending on destination and carrier.
+  Updated: 2026-09-07T19:28:20Z
+  Vendor: WATCHES
   Product Type: Watches & Smart Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/WHATCH.webp?v=1787832925
-  Price: $58.00 USD
+  Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1622272310837.jpg?v=1788762678
+  - [Black](https://jozyboewatches.myshopify.com/products/liges-new-smart-watch-upgrade-smart-wearable-watch?variant=53901480231195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1622272525969.jpg?v=1788762678
+    Price: $49.99 USD
+  - [Gray](https://jozyboewatches.myshopify.com/products/liges-new-smart-watch-upgrade-smart-wearable-watch?variant=53901480263963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1039/0339/6123/files/1622272310834.jpg?v=1788762678
+    Price: $49.99 USD
 
 ## Collections
 
 - [Home page](https://jozyboewatches.myshopify.com/collections/frontpage)
-  Updated: 2026-08-28T09:35:26Z
-  Total Products: 11
+  Updated: 2026-09-07T06:38:52Z
+  Total Products: 10
 - [Watches & Smart Accessories](https://jozyboewatches.myshopify.com/collections/watches-example-products): Discover our full collection of premium watches and smart accessories — from classic automatic watches to modern smart bracelets. Affordable style, shipped worldwide.
-  Updated: 2026-08-28T09:35:26Z
+  Updated: 2026-09-07T06:38:52Z
   Total Products: 11
+- [Smart Fitness Rings](https://jozyboewatches.myshopify.com/collections/smart-fitness-rings): Smart fitness rings for discreet everyday fitness, activity and wellness tracking.
+  Updated: 2026-09-07T05:54:53Z
+  Total Products: 1
+- [Smart Watches](https://jozyboewatches.myshopify.com/collections/smart-watches): Modern smart watches for everyday connection, calls, touchscreen control and activity tracking.
+  Updated: 2026-09-07T05:17:17Z
+  Total Products: 1
+- [Men's Watches](https://jozyboewatches.myshopify.com/collections/mens-watches): Classic and modern men's watches designed for everyday style, work and special occasions.
+  Updated: 2026-09-07T05:54:50Z
+  Total Products: 3
+- [Women's Watches](https://jozyboewatches.myshopify.com/collections/womens-watches): Elegant smart watches and everyday timepieces selected for women's style and daily wear.
+  Updated: 2026-09-07T05:17:27Z
+  Total Products: 1
+- [Fitness Trackers](https://jozyboewatches.myshopify.com/collections/fitness-trackers): Smart fitness wearables for everyday activity, steps, sleep and wellness tracking.
+  Updated: 2026-09-07T05:54:45Z
+  Total Products: 1
+- [Featured Watches](https://jozyboewatches.myshopify.com/collections/featured-watches): Our handpicked watches and fitness wearables selected for everyday style, fitness and value.FREE SHIPPING available on featured products.
+  Updated: 2026-09-07T06:34:04Z
+  Total Products: 6
 
 ## Store Pages
 
