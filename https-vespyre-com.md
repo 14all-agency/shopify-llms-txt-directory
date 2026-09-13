@@ -6,12 +6,12 @@
 - Timezone: Europe/Brussels
 - Created At: 2026-08-31T14:05:07Z
 - Contact Email: noreply@vespyre.com
-- Updated At: 2026-09-05T11:42:51.711Z
+- Updated At: 2026-09-13T00:00:27.745Z
 
 ## Products
 
 - [Vespyre Gift Card | Dark Academia Wall Art](https://vespyre.com/products/the-vespyre-gift-card): Give the freedom to choose with a Vespyre gift card, redeemable on cinematic dark academia posters, canvas art and framed wall pieces.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:09Z
   Vendor: Vespyre
   Product Type: 
   Availability: Available
@@ -37,7 +37,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/150.png?v=1788450351
     Price: €150.00 EUR
 - [A Page Kept Close | Literary Wall Poster](https://vespyre.com/products/a-page-kept-close-vespers-enhanced-matte-paper-poster): A Page Kept Close is a Vespers literary wall poster of reading by lantern light, made for bedrooms, book corners and quieter evenings.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:09Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -59,7 +59,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-lifestyle-1-6a9ac4924fead.jpg?v=1788527788
     Price: €23.99 EUR
 - [Between the Pews | Cathedral Framed Poster](https://vespyre.com/products/between-the-pews-vespers-enhanced-matte-paper-framed-poster): Between the Pews is a framed Vespers poster of a woman walking through a candlelit cathedral nave at the hour of evening prayer.
-  Updated: 2026-09-05T09:52:47Z
+  Updated: 2026-09-05T16:18:09Z
   Vendor: Vespyre
   Product Type: FRAMED-POSTER
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-framed-poster-_cm_-white-50x70-cm-front-6a9ac63f4e1bc.jpg?v=1788528256
     Price: €79.99 EUR
 - [Evening Devotion | Candlelit Framed Canvas](https://vespyre.com/products/evening-devotion-vespers-framed-canvas): Evening Devotion is a framed canvas from Vespers, a dark academia piece of candlelight, stillness and an evening pause turned inward.
-  Updated: 2026-09-05T09:52:47Z
+  Updated: 2026-09-05T16:18:09Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9ac8dd9192f.jpg?v=1788528898
     Price: €94.99 EUR
 - [Gilded Hour | Stained Glass Canvas Art](https://vespyre.com/products/gilded-hour-vespers-canvas): Gilded Hour is a Vespers canvas art print shaped by stained-glass light, warm gold and the final quiet minutes before night.
-  Updated: 2026-09-05T09:52:47Z
+  Updated: 2026-09-05T16:18:09Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: €49.99 EUR
 - [Soft Devotion | Candlelight Luster Poster](https://vespyre.com/products/letters-unopened-vespers-thin-canvas): Soft Devotion is a premium luster poster from Vespers, a warm close study of hands, candlelight and an evening ritual kept for yourself.
-  Updated: 2026-09-05T09:52:47Z
+  Updated: 2026-09-05T16:18:10Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -266,7 +266,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/thin-canvas-_in_-20x28-front-6a9ad881248f4.jpg?v=1788532943
     Price: €57.99 EUR
 - [Soft Devotion | Candlelight Luster Poster](https://vespyre.com/products/soft-devotion-vespers-premium-luster-photo-paper-poster): Soft Devotion is a premium luster poster from Vespers, a warm close study of hands, candlelight and an evening ritual kept for yourself.
-  Updated: 2026-09-05T09:52:47Z
+  Updated: 2026-09-05T16:18:10Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -340,7 +340,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/premium-luster-photo-paper-poster-_in_-24x24-front-6a9adacf3d7c7.jpg?v=1788533555
     Price: €25.99 EUR
 - [The Hour of Vespers | Candlelit Wall Poster](https://vespyre.com/products/the-hour-of-vespers-vespers-enhanced-matte-paper-poster): The Hour of Vespers is a candlelit dark academia wall poster, capturing quiet ritual, stained glass and the pause before night.
-  Updated: 2026-09-05T09:52:48Z
+  Updated: 2026-09-05T16:18:10Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-front-6a9ae3c46db39.jpg?v=1788535793
     Price: €28.99 EUR
 - [The Last Vesper Bell | Framed Canvas Art](https://vespyre.com/products/the-last-vesper-bell-vespers-framed-canvas): The Last Vesper Bell is a framed Vespers canvas of a candlelit climb toward the bell tower at the close of the day.
-  Updated: 2026-09-05T09:52:48Z
+  Updated: 2026-09-05T16:18:10Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9ae5c8bd9ec.jpg?v=1788536302
     Price: €94.99 EUR
 - [The Quiet Nave | Dark Academia Canvas Art](https://vespyre.com/products/the-quiet-nave-vespers-canvas): The Quiet Nave is a Vespers canvas art print of one woman in a silent cathedral, made for rooms that ask for a little less noise.
-  Updated: 2026-09-05T09:52:48Z
+  Updated: 2026-09-05T16:18:11Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -486,7 +486,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/canvas-_in_-20x28-front-6a9ae987280fb.jpg?v=1788537367
     Price: €49.99 EUR
 - [Where the Candles Gather | Candlelit Canvas Art](https://vespyre.com/products/where-the-candles-gather-vespers-thin-canvas): Where the Candles Gather is a Vespers thin canvas print of votive candles and cathedral stillness for candlelit reading corners and quiet rooms.
-  Updated: 2026-09-05T09:52:48Z
+  Updated: 2026-09-05T16:18:11Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -524,7 +524,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/thin-canvas-_in_-20x28-front-6a9aeadab07ad.jpg?v=1788537643
     Price: €57.99 EUR
 - [A Secret Kept in Stone | Raven Wall Poster](https://vespyre.com/products/a-secret-kept-in-stone-ravensong-enhanced-matte-paper-poster): A Secret Kept in Stone is a Ravensong dark academia poster of ravens on a ruined cathedral arch and a secret held in old stone.
-  Updated: 2026-09-05T09:52:48Z
+  Updated: 2026-09-05T16:18:11Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -546,7 +546,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-front-6a9aec8ea4f7f.jpg?v=1788538042
     Price: €28.99 EUR
 - [Beneath the Broken Vault | Raven Framed Poster](https://vespyre.com/products/beneath-the-broken-vault-ravensong-enhanced-matte-paper-framed-poster): Beneath the Broken Vault is a Ravensong framed poster of circling ravens, broken cathedral arches and one woman walking through the ruin.
-  Updated: 2026-09-05T09:52:49Z
+  Updated: 2026-09-05T16:18:11Z
   Vendor: Vespyre
   Product Type: FRAMED-POSTER
   Availability: Available
@@ -616,7 +616,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-framed-poster-_cm_-white-a2-_42x59.4-cm_-front-6a9aee0d1769e.jpg?v=1788538457
     Price: €77.99 EUR
 - [Feathers on the Altar | Raven Framed Canvas](https://vespyre.com/products/framed-canvas): Feathers on the Altar is a framed Ravensong canvas: dark academia wall art of raven feathers, candlelight and worn stone.
-  Updated: 2026-09-05T09:52:49Z
+  Updated: 2026-09-05T16:18:11Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -634,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9af0b3eba77.jpg?v=1788539114
     Price: €114.90 EUR
 - [Midnight Correspondence | Raven Canvas Art](https://vespyre.com/products/midnight-correspondence-ravensong-canvas): Midnight Correspondence is a Ravensong canvas art print of a letter opened by lantern light, a raven nearby and stained glass underfoot.
-  Updated: 2026-09-05T09:52:49Z
+  Updated: 2026-09-05T16:18:12Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -712,7 +712,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/canvas-_in_-20x28-wall-6a9af303f235b.jpg?v=1788539811
     Price: €50.99 EUR
 - [Requiem for the Living | Ravensong Thin Canvas](https://vespyre.com/products/requiem-for-the-living-ravensong-thin-canvas): Requiem for the Living is a Ravensong thin canvas print of a woman at dusk, ravens in flight and a ruined cathedral above the valley.
-  Updated: 2026-09-05T09:52:49Z
+  Updated: 2026-09-05T16:18:12Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -750,7 +750,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/thin-canvas-_in_-20x28-front-6a9b15f9ef422.jpg?v=1788548678
     Price: €57.90 EUR
 - [She Who Speaks to Crows | Raven Wall Poster](https://vespyre.com/products/she-who-speaks-to-crows-ravensong-enhanced-matte-paper-poster): She Who Speaks to Crows is a Ravensong raven wall poster, a cinematic dark academia portrait of quiet authority in a shadowed cloister.
-  Updated: 2026-09-05T09:52:49Z
+  Updated: 2026-09-05T16:18:12Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -772,7 +772,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-front-6a9b171720cf4.jpg?v=1788548970
     Price: €28.99 EUR
 - [The Hollow Choir — Framed Poster](https://vespyre.com/products/the-hollow-choir-ravensong-enhanced-matte-paper-framed-poster): The Hollow Choir is a framed dark academia poster from Ravensong, with ravens gathered in a ruined cathedral beneath a rose window.
-  Updated: 2026-09-05T09:52:50Z
+  Updated: 2026-09-05T16:18:12Z
   Vendor: Vespyre
   Product Type: FRAMED-POSTER
   Availability: Available
@@ -842,7 +842,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-framed-poster-_cm_-white-a2-_42x59.4-cm_-front-6a9b1857ed349.jpg?v=1788549337
     Price: €77.99 EUR
 - [The Raven’s Confession | Raven Framed Canvas](https://vespyre.com/products/the-ravens-confession-ravensong-framed-canvas): The Raven’s Confession is a framed canvas from Ravensong: dark academia wall art of candlelight, ivy-covered stone and a raven’s trust.
-  Updated: 2026-09-05T09:52:50Z
+  Updated: 2026-09-05T16:18:12Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -884,7 +884,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9b19b5dd121.jpg?v=1788549594
     Price: €114.99 EUR
 - [The Unsent Letter | Ravensong Canvas Art](https://vespyre.com/products/the-unsent-letter-ravensong-canvas): The Unsent Letter is a Ravensong canvas art print of a woman writing by candlelight beside a raven in a moonlit ruined chapel.
-  Updated: 2026-09-05T09:52:50Z
+  Updated: 2026-09-05T16:18:13Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -966,7 +966,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/canvas-_in_-20x28-front-6a9b1ae7abf80.jpg?v=1788550115
     Price: €50.99 EUR
 - [Where the Ravens Keep Watch | Raven Canvas Art](https://vespyre.com/products/where-the-ravens-keep-watch-ravensong-thin-canvas): Where the Ravens Keep Watch is a Ravensong thin canvas: dark academia raven wall art set among ruined arches, shadow and candlelight.
-  Updated: 2026-09-05T09:52:50Z
+  Updated: 2026-09-05T16:18:13Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1004,7 +1004,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/thin-canvas-_in_-20x28-front-6a9b1bd7a2d44.jpg?v=1788550216
     Price: €57.99 EUR
 - [A Letter Left at the Gate | Requiem Poster](https://vespyre.com/products/a-letter-left-at-the-gate-requiem-enhanced-matte-paper-poster): A Letter Left at the Gate is a Requiem poster for quiet walls, shaped by sealed letters, candlelight and the dignity of farewell.
-  Updated: 2026-09-05T09:52:50Z
+  Updated: 2026-09-05T16:18:13Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -1026,7 +1026,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-front-6a9b1d84b00c4.jpg?v=1788550574
     Price: €28.99 EUR
 - [Ashes of a Vow | Requiem Framed Poster](https://vespyre.com/products/ashes-of-a-vow-requiem-enhanced-matte-paper-framed-poster): Ashes of a Vow is a framed dark academia poster from Requiem, a cinematic study of rain, memory and a vow left behind.
-  Updated: 2026-09-05T09:52:51Z
+  Updated: 2026-09-05T16:18:13Z
   Vendor: Vespyre
   Product Type: FRAMED-POSTER
   Availability: Available
@@ -1096,7 +1096,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-framed-poster-_cm_-white-a2-_42x59.4-cm_-front-6a9b1e8d129dc.jpg?v=1788550844
     Price: €77.99 EUR
 - [Beneath a Requiem Sky | Framed Canvas Art](https://vespyre.com/products/beneath-a-requiem-sky-requiem-framed-canvas): Beneath a Requiem Sky is a framed canvas art piece of moonlit spires and quiet distance, from Vespyre’s most sacred collection.
-  Updated: 2026-09-05T09:52:51Z
+  Updated: 2026-09-05T16:18:14Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1138,7 +1138,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9b1f60e42b6.jpg?v=1788551035
     Price: €114.99 EUR
 - [Eternal Vigil - Requiem | Canvas](https://vespyre.com/products/eternal-vigil-requiem-canvas): She's already stepped through the door, and still, she can't stop looking back. The candles keep their vigil down the length of the nave regardless of who leaves or stays that was always their purpose, long before she arrived and long after she'll be gone. Her hand lingers on the old wood, half a decision, half a habit she isn't ready to break yet. Some doorways ask you to choose twice. Eternal Vigil brings that same suspended departure to bedrooms, reading corners, and the walls that hold your own unfinished goodbyes. This closes Requiem's arc where it should, not with resolution, but with the quiet act of continuing anyway. Some lights keep watch long after we've stopped looking for them.
-  Updated: 2026-09-05T09:52:51Z
+  Updated: 2026-09-05T16:18:14Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1220,7 +1220,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/canvas-_in_-20x28-wall-6a9b202f727c3.jpg?v=1788551373
     Price: €50.99 EUR
 - [Her Shadow Against the Stone - Requiem | Thin Canvas](https://vespyre.com/products/her-shadow-against-the-stone-requiem-thin-canvas): Her Shadow Against the Stone is a Requiem thin canvas: cinematic wall art of solitude, old stone and a figure meeting her own shadow.
-  Updated: 2026-09-05T09:52:51Z
+  Updated: 2026-09-05T16:18:14Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1258,7 +1258,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/thin-canvas-_in_-20x28-front-6a9b2217cff67.jpg?v=1788551798
     Price: €57.99 EUR
 - [Memory of the Spires | Dark Academia Poster](https://vespyre.com/products/memory-of-the-spires-requiem-enhanced-matte-paper-poster): Memory of the Spires is a dark academia poster from Requiem, pairing Gothic spires, night fog and quiet memory for a literary wall.
-  Updated: 2026-09-05T09:52:51Z
+  Updated: 2026-09-05T16:18:14Z
   Vendor: Vespyre
   Product Type: POSTER
   Availability: Available
@@ -1280,7 +1280,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-poster-_cm_-50x70-cm-front-6a9b2615a9b1b.jpg?v=1788552764
     Price: €28.99 EUR
 - [Requiem’s End | Framed Dark Academia Poster](https://vespyre.com/products/requiems-end-requiem-enhanced-matte-paper-framed-poster): Requiem’s End is a framed dark academia poster from Vespyre’s Requiem collection, a moonlit passage toward candlelit doors and what comes next.
-  Updated: 2026-09-05T09:52:52Z
+  Updated: 2026-09-05T16:18:14Z
   Vendor: Vespyre
   Product Type: FRAMED-POSTER
   Availability: Available
@@ -1350,7 +1350,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/enhanced-matte-paper-framed-poster-_cm_-white-a2-_42x59.4-cm_-front-6a9b26dd3075a.jpg?v=1788552966
     Price: €77.99 EUR
 - [The Bride of No One | Requiem Framed Canvas | Vespyre](https://vespyre.com/products/the-bride-of-no-one-requiem-framed-canvas): The Bride of No One is a framed canvas from Requiem: solemn dark academia wall art of devotion, memory and self-possession.
-  Updated: 2026-09-05T09:52:52Z
+  Updated: 2026-09-05T16:18:15Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1380,7 +1380,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/framed-canvas-_in_-white-11x14-front-6a9b289d6564d.jpg?v=1788553404
     Price: €114.99 EUR
 - [The Last Farewell | Requiem Canvas Art | Vespyre](https://vespyre.com/products/the-last-farewell-requiem-canvas): The Last Farewell is a Requiem canvas art print for private rooms, carrying a cinematic dark academia mood of farewell, memory and stillness.
-  Updated: 2026-09-05T09:52:52Z
+  Updated: 2026-09-05T16:18:15Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1462,7 +1462,7 @@
     Image: https://cdn.shopify.com/s/files/1/1073/8463/5726/files/canvas-_in_-20x28-wall-6a9b29ddea229.jpg?v=1788553869
     Price: €50.99 EUR
 - [The Weight of Endings | Requiem Thin Canvas | Vespyre](https://vespyre.com/products/the-weight-of-endings-requiem-thin-canvas): The Weight of Endings is a Requiem thin canvas print: dark academia wall art shaped by memory, farewell and the quiet gravity of night.
-  Updated: 2026-09-05T09:52:52Z
+  Updated: 2026-09-05T16:18:15Z
   Vendor: Vespyre
   Product Type: CANVAS
   Availability: Available
@@ -1503,16 +1503,16 @@
 ## Collections
 
 - [Vespers](https://vespyre.com/collections/vespers): Explore Vespers: candlelit dark academia wall art for quiet evenings, reading corners and rooms made softer at the end of the day.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:08Z
   Total Products: 10
 - [Ravensong](https://vespyre.com/collections/ravensong): Explore Ravensong: dark academia wall art of ravens, hidden letters, ruined cathedrals and midnight secrets in poster, canvas and framed formats.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:09Z
   Total Products: 10
 - [Requiem](https://vespyre.com/collections/requiem): Explore Requiem: cinematic dark academia canvas art, framed prints and posters shaped by memory, longing, sacred endings and candlelit night.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:09Z
   Total Products: 10
 - [Bestsellers](https://vespyre.com/collections/bestsellers): Shop Vespyre’s bestselling dark academia wall art, including cinematic posters, canvas art and framed pieces for bedrooms and reading corners.
-  Updated: 2026-09-05T09:52:46Z
+  Updated: 2026-09-05T16:18:09Z
   Total Products: 0
 
 ## Store Pages
