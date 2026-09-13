@@ -6,12 +6,12 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-09-05T00:00:30.865Z
+- Updated At: 2026-09-13T00:00:34.403Z
 
 ## Products
 
-- [The Canadian Homebuyer Toolkit – Essential Steps](https://cheetals.com/products/the-canadian-homebuyer-toolkit-essential-steps): This guide is designed for home buyers across Canada, including first-time purchasers and newcomers seeking structured and practical information on buying a home. ✔ Avoid Costly Mistakes Understand the critical steps of buying property in Canada before you commit — and reduce the risk of expensive errors. ✔ Clear, Structured Process Follow a straightforward framework of essential steps that simplifies a complex system. ✔ Built for the Canadian Market Designed specifically around how property transactions work across Canada. ✔ Save Time & Reduce Uncertainty Gain clarity in under 30 minutes instead of spending hours searching scattered information online. ✔ Created by Industry Professionals Professionally developed educational content designed to support informed, confident decisions. Format: Digital PDFInstant download after purchase
-  Updated: 2026-05-26T23:20:44Z
+- [Canadian Homebuyer Toolkit: Step-by-Step Guide for First-Time Buyers](https://cheetals.com/products/the-canadian-homebuyer-toolkit-essential-steps): Navigate Canada's home buying process with confidence. Essential steps, financial insights, and a clear roadmap for first-time buyers. Instant PDF download.
+  Updated: 2026-09-07T16:43:55Z
   Vendor: Cheetals
   Product Type: Digital Guide
   Availability: Available
@@ -44,8 +44,8 @@
 - [Home page](https://cheetals.com/collections/frontpage)
   Updated: 2026-09-01T01:16:16Z
   Total Products: 4
-- [Real Estate](https://cheetals.com/collections/first-time-home-buyer)
-  Updated: 2026-09-01T02:48:51Z
+- [Real Estate](https://cheetals.com/collections/first-time-home-buyer): Practical home buying guides built for first-time buyers in Canada. Step-by-step toolkits to help you avoid costly mistakes, evaluate properties, and buy with confidence.
+  Updated: 2026-09-07T16:43:11Z
   Total Products: 3
 - [Money Tools](https://cheetals.com/collections/money-tools): Browse Cheetals Money Tools collection — digital toolkits, passive income guides, and business blueprints to help you build wealth and achieve financial freedom.
   Updated: 2026-09-01T02:25:44Z
@@ -66,6 +66,14 @@
     Updated: 2026-09-03T12:03:18Z
     Author: CHEETALS
     Tags: due diligence checklist, financial planning, first time home buyers, first-time homebuyer tips, home buyer due-diligence, home buying, income, , passive income, passive income strategies, real estate
+  - [10 Essential Due Diligence Steps for First-Time Home Buyers](https://cheetals.com/blogs/news/10-essential-due-diligence-steps-for-first-time-home-buyers): 10 Essential Due Diligence Steps for First-Time Home Buyers
+    Updated: 2026-09-08T12:02:34Z
+    Author: CHEETALS
+    Tags: due diligence, first-time home buyers, home buyer due-diligence, home buyers, income, money, passive income, real estate, real estate investing tips
+  - [Smart Home Buyer Bundle: Top Tips for First-Time Home Buyers on Mastering Due Diligence](https://cheetals.com/blogs/news/smart-home-buyer-bundle-top-tips-for-first-time-home-buyers-on-mastering-due-diligence): Smart Home Buyer Bundle: Top Tips for First-Time Home Buyers on Mastering Due Diligence
+    Updated: 2026-09-10T12:02:51Z
+    Author: CHEETALS
+    Tags: due diligence tips, finance, first time home buyers, first-time buyers, home buyer due-diligence, home buying, income, passive income, passive income strategies, real estate, smart home buying
 
 ## Store Pages
 
