@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-09-02T05:00:31Z
 - Contact Email: obrooks333@gmail.com
-- Updated At: 2026-09-06T00:00:21.099Z
+- Updated At: 2026-09-13T03:03:57.209Z
 
 ## Products
 
-- [Legendary Zipper Footie](https://cuddlegrove.store/products/legendary-zipper-footie): Zippity Do Da - Zippity YEAH! Meet the footie that earns legendary status. The Legendary Zipper Footie is crafted from ultra-soft bamboo fabric — naturally breathable, hypoallergenic, and gentle on sensitive newborn skin. It hugs in all the right places while keeping your little one cozy from head to toe. 2-way zip for easy diaper changes day and night Foldover cuffs on smaller sizes to protect tiny hands Non-slip silicone grip foot pads for little movers Tagless size label for total comfort Hypoallergenic and safe for sensitive skin Fabric: 97% Bamboo Viscose, 3% Spandex — incredibly soft, moisture-wicking, and temperature-regulating for year-round comfort. Sizing: Available in sizes 0–3M, 3–6M, 6–12M, 12–18M, and 18–24M. We recommend sizing up if your baby is between sizes for a longer wear. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach. Gets softer with every wash.
-  Updated: 2026-09-05T22:08:38Z
+- [Legendary Zipper Footie - Comfort & Style for Your Baby](https://cuddlegrove.store/products/legendary-zipper-footie): Discover the Legendary Zipper Footie for ultimate comfort. Made from soft bamboo, it's perfect for sensitive skin. Easy diaper changes and cozy fit await!
+  Updated: 2026-09-11T09:00:28Z
   Vendor: Sweet Bamboo
   Product Type: Footies
   Availability: Available
@@ -34,8 +34,8 @@
   - [18-24 Months / Legendary / Boy](https://cuddlegrove.store/products/legendary-zipper-footie?variant=53936119546132)
     Availability: Available
     Price: $39.00 USD
-- [Monthly Milestones Organic Baby Bodysuit Long Sleeve](https://cuddlegrove.store/products/monthly-milestones-organic-baby-bodysuit-long-sleeve): Celebrate every precious moment, month by month. Our Monthly Milestone Organic Cotton Baby Bodysuits are thoughtfully made in the USA from 100%  organic cotton, ensuring softness, breathability, and comfort for your little one's sensitive skin. Each long sleeve one-piece features eco-friendly, water-based prints and nickel-free snaps for easy changes, making them perfect for milestone photos, keepsake albums, or thoughtful baby shower gifts. Capture their first year in timeless, heirloom-quality comfort — designed to be loved, photographed, and cherished forever. Fabric: 100%  Organic Cotton — soft, breathable, and free from harmful chemicals. Safe for the most sensitive newborn skin. Sizing: Available in sizes 0–3M, 3–6M, 6–12M, and 12–18M. For a relaxed fit or if your baby is between sizes, we recommend sizing up. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach or use fabric softener to preserve the organic cotton and eco-friendly prints.
-  Updated: 2026-09-05T20:57:21Z
+- [Organic Baby Bodysuit – Celebrate Every Milestone in Comfort](https://cuddlegrove.store/products/monthly-milestones-organic-baby-bodysuit-long-sleeve): Capture every milestone with our Organic Baby Bodysuit! Soft, eco-friendly, and designed for comfort, it's the perfect keepsake for your baby's first year.
+  Updated: 2026-09-12T16:40:00Z
   Vendor: Tenth & Pine
   Product Type: Long Sleeve Onesie
   Availability: Available
@@ -240,8 +240,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOElevenMonths.png?v=1788331215
     Price: $32.00 USD
-- [Girls Thanksgiving Pumpkin Pie Baby Girls Sleeper](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-baby-girls-sleeper): Cozy and festive, this baby girls sleeper features a charming pumpkin pie design perfect for Thanksgiving celebrations. Soft, breathable fabric keeps little ones comfortable through the night, while the playful print adds seasonal charm to her wardrobe. Ideal for holiday photos and family gatherings. SKU:RPG63897 95%polyester,5%spandex
-  Updated: 2026-09-05T21:43:36Z
+- [Thanksgiving Pumpkin Pie Baby Sleeper - Cozy Holiday Comfort](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-baby-girls-sleeper): Embrace cozy celebrations with our Thanksgiving Pumpkin Pie Baby Sleeper. Perfect for holiday gatherings, this stylish sleeper ensures comfort while shining in festive photos!
+  Updated: 2026-09-11T09:13:04Z
   Vendor: Rylee Faith Designs
   Product Type: Romper
   Availability: Available
@@ -261,8 +261,8 @@
   - [18M](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-baby-girls-sleeper?variant=53936248717588)
     Availability: Available
     Price: $29.99 USD
-- [Christmas Girls Gingerbread Peter Pan Collar Bloomer Set](https://cuddlegrove.store/products/christmas-girls-gingerbread-peter-pan-collar-bloomer-set): Dress your little one in holiday magic with this charming Christmas two-piece set. Featuring a pink plaid top and coordinating brown bloomers, this boutique-quality outfit is perfect for Christmas celebrations, holiday photos, family gatherings, and special occasions. The top showcases a crisp white Peter Pan collar, short puff sleeves with ruffle cuffs, a scalloped hem, and oversized side bows finished with adorable embroidered gingerbread accents. The matching bloomers feature an elastic waistband and ruffle leg openings for a comfortable, picture-perfect fit. Fabric: Top: 40% Cotton, 60% Polyester. Bloomers: 97% Cotton, 3% Spandex — soft, stretchy, and comfortable for all-day wear. Sizing: Available in sizes 3–6M, 6–12M, 12–18M, 18–24M, and 2T–4T. We recommend sizing up if your little one is between sizes. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach. Iron on low if needed, avoiding embroidered details.
-  Updated: 2026-09-05T23:42:16Z
+- [Christmas Girls Gingerbread Outfit – Adorable Holiday Set for Kids](https://cuddlegrove.store/products/christmas-girls-gingerbread-peter-pan-collar-bloomer-set): Cozy up your little one this Christmas with our Adorable Christmas Girls Gingerbread Outfit, featuring delightful details perfect for festive celebrations!
+  Updated: 2026-09-13T02:44:47Z
   Vendor: Rylee Faith Designs
   Product Type: Romper
   Availability: Available
@@ -282,15 +282,15 @@
   - [18M](https://cuddlegrove.store/products/christmas-girls-gingerbread-peter-pan-collar-bloomer-set?variant=53936248881428)
     Availability: Available
     Price: $37.99 USD
-- [Green Buffalo Quilt](https://cuddlegrove.store/products/green-buffalo-quilt): A blanket they’ll reach for every day and keep for years Our Green Buffalo Muslin Baby Quilt is designed to be more than just a baby blanket. It becomes part of your routine. The one you grab for bedtime, pack for outings, and keep close through every stage. Made with four layers of 100% muslin cotton, this baby quilt is soft, breathable, and gentle on sensitive skin. It feels lightweight enough for everyday use while still being cozy enough for naps, quiet moments, and everything in between. Simple, neutral, and made to last, it’s a piece your family will hold onto long after the baby stage. Why Moms Love Our Muslin Baby Quilt Four Layers of Soft, Breathable Muslin Cotton: The layered muslin design creates the perfect balance of comfort and airflow, making this quilt ideal for year-round use. Buttery Soft That Gets Better Over Time: It starts soft from the very first use and continues to get softer with every wash. Oversized for Long-Term Use: At 47 by 47 inches, this quilt is intentionally designed to grow with your baby. It’s oversized and snuggly for infants and still cozy and comforting for toddlers. A Quilt That Grows With Your Baby From late-night feedings to slow mornings and afternoon naps, this baby quilt is made to be part of your everyday rhythm. Use it as a cozy blanket for snuggles, a soft surface for tummy time, or something familiar to bring along when you’re out and about. It folds easily into your diaper bag and adds a layer of comfort wherever you go. The Perfect Baby Shower Gift If you’re looking for a gift that feels both thoughtful and practical, this is it. A high-quality muslin baby quilt that’s soft, versatile, and designed to be used every single day is something every parent will appreciate and remember. Made for Snuggles, Built to Last Some things just become part of your routine without you even realizing it. This is one of them. Add to your cart today and create a cozy go-to your little one will love from day one.
-  Updated: 2026-09-05T23:57:05Z
+- [Green Buffalo Quilt: Ultimate Comfort for Your Baby's Snuggle Time](https://cuddlegrove.store/products/green-buffalo-quilt): Shop the Green Buffalo Quilt for ultimate comfort! Soft, breathable, and oversized, it's perfect for snuggles, playtime, and year-round use. Add to your cart today!
+  Updated: 2026-09-13T02:56:52Z
   Vendor: Parker Baby Co.
   Product Type: Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/GreenBuffFold1600.jpg?v=1788333910
   Price: $45.00 USD
-- [Swell Days Baby Onesie – Dope Threads](https://cuddlegrove.store/products/dope-threads-swell-days-onesie): Wrap your little one in dreamy-soft comfort with our 100% organic cotton onesie, designed for babies with sensitive skin. Crafted sustainably in the USA with high-quality imported materials, this onesie is as gentle on the planet as it is on your baby's skin. Breathable & Hypoallergenic – Made from organic cotton, free from harsh chemicals and perfect for delicate skin. Sustainably Made – Ethically crafted in the USA using premium, eco-friendly materials. True to Size Fit – Runs true to size, but for extra room to grow, we recommend sizing up. At Little Rad Things, we believe in rad moments and quality that lasts. This cream-colored onesie is designed to keep your little one comfortable, stylish, and ready for adventure. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach or use fabric softener to preserve the organic cotton and keep it soft wash after wash.
-  Updated: 2026-09-05T20:58:50Z
+- [Organic Cotton Baby Onesie – Swell Days for Total Comfort](https://cuddlegrove.store/products/dope-threads-swell-days-onesie): Shop the Swell Days Organic Cotton Baby Onesie for dreamy softness and eco-friendly comfort. Perfect for sensitive skin and sustainable parenting!
+  Updated: 2026-09-11T09:18:38Z
   Vendor: LITTLE RAD THINGS
   Product Type: T-Shirt
   Availability: Available
@@ -310,8 +310,8 @@
   - [18-24M](https://cuddlegrove.store/products/dope-threads-swell-days-onesie?variant=53936249438484)
     Availability: Available
     Price: $20.00 USD
-- [Allen Work Zipper Footie](https://cuddlegrove.store/products/allen-work-zipper-footie): Zippity Do Da - Zippity YEAH! Meet the footie your baby deserves. The Allen Work Zipper Footie is crafted from ultra-soft bamboo fabric — naturally breathable, hypoallergenic, and gentle on sensitive newborn skin. It hugs in all the right places while keeping your little one cozy from head to toe. 2-way zip for easy diaper changes day and night Foldover cuffs on smaller sizes to protect tiny hands Non-slip silicone grip foot pads for little movers Tagless size label for total comfort Hypoallergenic and safe for sensitive skin Fabric: 97% Bamboo Viscose, 3% Spandex — incredibly soft, moisture-wicking, and temperature-regulating for year-round comfort. Sizing: Available in sizes 0–3M, 3–6M, 6–12M, 12–18M, and 18–24M. We recommend sizing up if your baby is between sizes for a longer wear. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach. Gets softer with every wash.
-  Updated: 2026-09-05T21:02:13Z
+- [Allen Work Zipper Footie: Ultimate Comfort for Your Baby](https://cuddlegrove.store/products/allen-work-zipper-footie): Discover the Allen Work Zipper Footie for ultimate comfort. Soft, hypoallergenic, and perfect for easy diaper changes. Make dressing your baby a breeze!
+  Updated: 2026-09-11T09:20:27Z
   Vendor: Sweet Bamboo
   Product Type: Footies
   Availability: Available
@@ -334,8 +334,8 @@
   - [18-24 Months / Allen Work / Boy](https://cuddlegrove.store/products/allen-work-zipper-footie?variant=53936249733396)
     Availability: Available
     Price: $39.00 USD
-- [Baby Girl Skirted Bodysuit – Soft Bamboo Cactus Trails](https://cuddlegrove.store/products/baby-girl-skirted-bodysuit-soft-bamboo-cactus-trails): Saddle up for sweet style with this ultra-soft skirted bodysuit, perfect for little desert dreamers. Made from a silky bamboo-spandex jersey, it's breathable, hypoallergenic, and eco-friendly—ideal for sensitive skin. Featuring flutter sleeves and a cactus-kissed print, this romper brings a touch of the Wild West to every waddle. With back neck buttons and snap closures underneath, diaper duty stays as smooth as a desert breeze. 🌵 Fabric: 95% Bamboo Viscose, 5% Spandex — silky soft, breathable, and naturally hypoallergenic for delicate skin. Sizing: Available in sizes 0–3M, 3–6M, 6–12M, 12–18M, and 18–24M. For a relaxed fit or if your baby is between sizes, we recommend sizing up. Care: Machine wash cold, gentle cycle. Tumble dry low. Do not bleach. Fabric softens beautifully with every wash.
-  Updated: 2026-09-05T20:53:37Z
+- [Baby Girl Skirted Bodysuit – Soft, Stylish, and Comfortable Attire](https://cuddlegrove.store/products/baby-girl-skirted-bodysuit-soft-bamboo-cactus-trails): Dress your baby in comfort and style with our Baby Girl Skirted Bodysuit. Soft, breathable, and playful, perfect for every adventure!
+  Updated: 2026-09-11T09:23:10Z
   Vendor: Tesa Babe
   Product Type: Bodysuits-Skirted
   Availability: Available
@@ -356,8 +356,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/450SCST8-8-25copy.jpg?v=1788333931
     Price: $19.99 USD
-- [Hunter Green Convertible Romper](https://cuddlegrove.store/products/hunter-green-convertible-romper): Zippity Do Da - Zippity YEAH! Made at your request for absolute ease of use. Not to mention - it shows off every single delicious baby curve! Made with the softest silkiest fabric ever, this will be your go-to romper! 2 way zip for easy changing Fold over legs and foldover cuff arms on smaller sizes Tagless size label for total comfort Flexible for active lifestyles Safe for sensitive skin
-  Updated: 2026-09-05T19:59:16Z
+- [Hunter Green Convertible Romper - Comfort Meets Style for Kids](https://cuddlegrove.store/products/hunter-green-convertible-romper): Discover the Hunter Green Convertible Romper for effortless style and comfort. Perfect for every day adventures, it's a must-have for your little one's wardrobe!
+  Updated: 2026-09-11T09:30:58Z
   Vendor: Sweet Bamboo
   Product Type: Rompers
   Availability: Available
@@ -380,8 +380,8 @@
   - [18-24 Months / Hunter Green / Boy](https://cuddlegrove.store/products/hunter-green-convertible-romper?variant=53936250192148)
     Availability: Available
     Price: $39.00 USD
-- [Zipper Footie Captain Blue](https://cuddlegrove.store/products/zipper-footie-captain-blue): Zippity Do Da - Zippity YEAH! Ask and you shall receive. This yummy footie is equipped with a smooth 2-way zipper, silicone grips on the foot pads and fold-over handcuffs. Plus our silky-soft fabric hugs in all the right places to show off those baby curves. 2 way zip for easy changing Foldover cuffs on smaller sizes Non-slip grip foot pads Tagless size label for total comfort Safe for sensitive skin
-  Updated: 2026-09-05T19:59:19Z
+- [Zipper Footie for Baby – Comfortable Captain Blue Delight](https://cuddlegrove.store/products/zipper-footie-captain-blue): Elevate your baby's comfort with our Zipper Footie for Baby – Captain Blue Delight. Soft, stylish, and perfect for easy diaper changes. Shop now!
+  Updated: 2026-09-12T19:49:07Z
   Vendor: Sweet Bamboo
   Product Type: Footies
   Availability: Available
@@ -398,39 +398,39 @@
   - [6-12 Months / Captain Blue Ribbed / Boy](https://cuddlegrove.store/products/zipper-footie-captain-blue?variant=53936250421524)
     Availability: Available
     Price: $38.00 USD
-- [Girls Thanksgiving Pumpkin Pie Dress Fall Twirl Dress](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress): Celebrate the cozy spirit of Thanksgiving with this adorable pumpkin pie print dress, designed to bring warmth and seasonal charm to your little girl’s wardrobe. SKU:DRG63992 Body:95%polyester,5%spandex
-  Updated: 2026-09-05T19:59:22Z
+- [Girls Thanksgiving Pumpkin Dress – Perfect Fall Twirling Fun](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall): Dress your little girl in our charming Girls Thanksgiving Pumpkin Dress. Perfect for festive twirls and family gatherings this fall. Get yours today!
+  Updated: 2026-09-11T09:29:31Z
   Vendor: Rylee Faith Designs
   Product Type: Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/20260701.jpg?v=1788333950
-  - [2](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250519828)
+  - [2](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250519828)
     Availability: Available
     Price: $23.99 USD
-  - [3](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250552596)
+  - [3](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250552596)
     Availability: Available
     Price: $23.99 USD
-  - [4](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250585364)
+  - [4](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250585364)
     Availability: Available
     Price: $23.99 USD
-  - [5](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250618132)
+  - [5](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250618132)
     Availability: Available
     Price: $23.99 USD
-  - [6](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250650900)
+  - [6](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250650900)
     Availability: Available
     Price: $23.99 USD
-  - [7](https://cuddlegrove.store/products/girls-thanksgiving-pumpkin-pie-dress-fall-twirl-dress?variant=53936250683668)
+  - [7](https://cuddlegrove.store/products/adorable-girls-thanksgiving-pumpkin-dress-for-fall?variant=53936250683668)
     Availability: Available
     Price: $23.99 USD
-- [Breast Pump Bag Backpack - Chertsey](https://cuddlegrove.store/products/breast-pump-bag-backpack-chertsey): If you’re carrying your pump, milk, parts, laptop, and work essentials, this keeps it all in one place. Designed for commuting and pumping at work Keeps pump gear and daily essentials organised Hands-free backpack style for easier carrying Works beautifully with your cooler and parts bag Doubles as a great diaper bag
-  Updated: 2026-09-05T19:59:25Z
+- [Breast Pump Backpack: Convenient, Organized Pumping On the Go](https://cuddlegrove.store/products/breast-pump-bag-backpack-chertsey): Discover the Chertsey Breast Pump Backpack, your essential companion for convenient and organized pumping while on the go. Perfect for busy parents!
+  Updated: 2026-09-11T09:30:41Z
   Vendor: Idaho Jones
   Product Type: Breast Pump Bags > Large Backpack for large pumps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/IJ0095_-_Chertsey_Breast_Pump_Backpack_-_Infographics_-_Square.png?v=1788333956
   Price: $79.99 USD
-- [Mama's Little Love Organic Bodysuit Long Sleeve](https://cuddlegrove.store/products/mamas-little-love-organic-bodysuit-long-sleeve): Celebrate mama’s biggest fan. Our Mama’s Little Love organic cotton baby bodysuit is the sweetest way to show off the special bond between mama and baby. Thoughtfully crafted in the USA from luxuriously soft, breathable cotton that’s gentle on sensitive skin. Designed with a lap-shoulder neckline and nickel-free snaps for quick changes, it’s perfect for everyday wear, milestone photos, and gifting to new moms.
-  Updated: 2026-09-05T19:59:29Z
+- [Organic Cotton Baby Bodysuit - Soft Comfort for Your Little One](https://cuddlegrove.store/products/mamas-little-love-organic-bodysuit-long-sleeve): Discover ultimate comfort with Mama's Little Love organic cotton baby bodysuit. Perfect for sensitive skin, easy dressing, and stylish moments with your little one!
+  Updated: 2026-09-12T16:39:37Z
   Vendor: Tenth & Pine
   Product Type: Long Sleeve Onesie
   Availability: Available
@@ -455,8 +455,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/mamas-little-love-long-sleeve-organic-bodysuit-645570.jpg?v=1788333960
     Price: $32.00 USD
-- [Once Upon a Castle Flutter Sleeve Twirl Dress](https://cuddlegrove.store/products/once-upon-a-castle-flutter-sleeve-twirl-dress): The perfect dress for school, special occasions, and everyday play! Designed by a mom and a dad. Mom wanted something twirly, comfortable and easy to wash. Dad wanted something easy to get on his chubby, big headed toddler. Designed with a scoop back for quick on and off, and higher neckline for modesty. Pair with Twirl Shorts or Leggings for the perfect everyday outfit. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T19:59:32Z
+- [Twirl Dress for Girls: Enchanting Flutter Sleeve Dress](https://cuddlegrove.store/products/once-upon-a-castle-flutter-sleeve-twirl-dress): Elevate playtime and special occasions with our Twirl Dress for Girls! Comfortable, stylish, and perfect for endless spinning fun—shop now and inspire creativity!
+  Updated: 2026-09-12T18:57:19Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - Flutter
   Availability: Available
@@ -485,8 +485,8 @@
   - [9/10](https://cuddlegrove.store/products/once-upon-a-castle-flutter-sleeve-twirl-dress?variant=53936251633940)
     Availability: Available
     Price: $28.00 USD
-- [Sleigh All Day Christmas Monster Truck Toddler Tee – Beige](https://cuddlegrove.store/products/sleigh-all-day-toddler-christmas-monster-truck-tee-beige): Forget the reindeer, this crew is taking the monster truck. Our Sleigh All Day Tee is made for kids who love big tires, Christmas adventures, and making holiday memories outside. Featuring a vintage-inspired lifted monster truck driven by the coolest snowman around (with his elf crew riding shotgun), this retro holiday tee was designed to become an instant Christmas favorite. Printed on our signature ultra-soft tee, it's built for Christmas parades, tree farms, cookie decorating, family photos, and every holiday adventure in between. Because around here...we Sleigh All Day. Details Ultra-soft premium cotton blend Professionally screen printed for a vintage look Designed in-house by Little Rad Things True-to-size toddler fit Built for holiday adventures
-  Updated: 2026-09-05T19:59:35Z
+- [Christmas Monster Truck Toddler Tee - Ride into Holiday Fun!](https://cuddlegrove.store/products/sleigh-all-day-toddler-christmas-monster-truck-tee-beige): Celebrate the season in style with our Christmas Monster Truck Toddler Tee! Perfect for holiday adventures, this tee promises comfort and festive fun for your little one.
+  Updated: 2026-09-11T12:12:06Z
   Vendor: LITTLE RAD THINGS
   Product Type: Baby & Toddler Tops
   Availability: Available
@@ -506,8 +506,8 @@
   - [9/10Y](https://cuddlegrove.store/products/sleigh-all-day-toddler-christmas-monster-truck-tee-beige?variant=53940957151508)
     Availability: Available
     Price: $24.00 USD
-- [Crimson Spark Kids Track Pants – Black](https://cuddlegrove.store/products/crimson-spark-track-pant-black): Play hard. Lounge harder. Built for all-day comfort and nonstop movement, these track pants are the ultimate go-to for kids on the move. Made from midweight fleece with a soft cotton-recycled polyester blend, they’re warm, breathable, and tough enough to keep up with every jump, climb, and chill session. Designed with an elastic waistband, ribbed cuffs, and a tonal drawcord for a snug fit, plus plenty of pockets to stash treasures, toys, or snacks. Pre-shrunk so they keep their shape wear after wear. Why You’ll Love Them: Midweight 9.4 oz fleece = cozy but breathable 80% cotton / 20% recycled polyester blend Elastic waistband + hem cuffs with internal drawcord Two side pockets + single back pocket Preshrunk to minimize shrinkage
-  Updated: 2026-09-05T19:59:38Z
+- [Crimson Spark Kids Track Pants - Style Meets Comfort for Active Kids](https://cuddlegrove.store/products/crimson-spark-track-pant-black): Explore comfort and style with Crimson Spark Kids Track Pants. Perfect for active adventures, these cozy pants keep your little ones happy while they play!
+  Updated: 2026-09-11T09:37:03Z
   Vendor: LITTLE RAD THINGS
   Product Type: Baby & Toddler Bottoms
   Availability: Available
@@ -527,8 +527,8 @@
   - [9/10Y](https://cuddlegrove.store/products/crimson-spark-track-pant-black?variant=53940957511956)
     Availability: Not Available
     Price: $38.00 USD
-- [Haunted Horsepower Halloween Toddler Tee – Ash](https://cuddlegrove.store/products/haunted-horsepower-halloween-tee-ash): Every Halloween needs a little horsepower. The Haunted Horsepower Tee was made for kids who'd rather spend October around monster trucks than haunted houses. Featuring our hand-drawn vintage-inspired haunted race car graphic, this tee brings together everything we love—Halloween, racing, and childhood adventures. Printed on our signature ultra-soft cotton tee, it's built for pumpkin patch weekends, trick-or-treating, bonfires, hayrides, and every spooky memory in between. Because Halloween is even better at full throttle. Why You'll Love It Ultra-soft premium cotton blend Vintage hand-drawn Halloween artwork Lightweight enough for layering Durable enough for everyday play Designed exclusively by Little Rad Things Unisex fit True to size Perfect for: Pumpkin patches Halloween parties Trick-or-treating Fall festivals Racing families Everyday October outfits
-  Updated: 2026-09-05T20:01:17Z
+- [Haunted Horsepower Toddler Tee – Spook Up Your Child's Adventures!](https://cuddlegrove.store/products/haunted-horsepower-halloween-tee-ash): Rev up Halloween fun with our Haunted Horsepower Halloween Toddler Tee! This cozy cotton tee features unique racing graphics perfect for trick-or-treating and fall festivities.
+  Updated: 2026-09-11T22:37:36Z
   Vendor: LITTLE RAD THINGS
   Product Type: 
   Availability: Available
@@ -548,8 +548,8 @@
   - [9/10Y](https://cuddlegrove.store/products/haunted-horsepower-halloween-tee-ash?variant=53940957675796)
     Availability: Available
     Price: $24.00 USD
-- [Duck Pond L/S Polo](https://cuddlegrove.store/products/duck-pond-l-s-polo): Our Polo is a versatile essential with a polished look and everyday comfort. A relaxed fit pairs easily with shorts or pants, making it perfect for school days, family outings, or weekend plans. Designed with the right length for easy movement and all-day wear. A go-to staple from our Mila & Bros Boys Collection that’s made to be worn again and again. INSTRUCTIONS: Wear–Play–Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash with Like Colors Tumble Dry Low
-  Updated: 2026-09-05T19:59:44Z
+- [Duck Pond Long Sleeve Polo: Stylish Comfort for Every Adventure](https://cuddlegrove.store/products/duck-pond-l-s-polo): Shop the Duck Pond Long Sleeve Polo for kids. Enjoy effortless style and all-day comfort in this versatile wardrobe staple. Perfect for any adventure!
+  Updated: 2026-09-11T09:40:55Z
   Vendor: Mila & Rose ®
   Product Type: Boys Polo - L/S
   Availability: Available
@@ -566,14 +566,14 @@
   - [5/6](https://cuddlegrove.store/products/duck-pond-l-s-polo?variant=53940959314196)
     Availability: Available
     Price: $26.00 USD
-- [Duck Pond L/S Polo One-Piece](https://cuddlegrove.store/products/duck-pond-l-s-polo-one-piece): Our super soft one-piece is perfect for summer! Available in a range of adorable prints. Button snap closure for easy diaper changes. Check out our collection for Boys. INSTRUCTIONS: Wear - Play - Repeat FIT - FABRIC - CARE True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry
-  Updated: 2026-09-05T19:59:47Z
+- [Duck Pond Polo One-Piece: Adorably Soft Summer Style](https://cuddlegrove.store/products/duck-pond-l-s-polo-one-piece): Discover the Duck Pond Polo One-Piece, perfect for summer fun! Adorably designed with easy diaper changes for your little ones. Shop now!
+  Updated: 2026-09-11T18:13:12Z
   Vendor: Mila & Rose ®
   Product Type: One-Piece - L/S Polo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/DuckPondL_SPoloOne-Piece.jpg?v=1788415590
   - [0-6M](https://cuddlegrove.store/products/duck-pond-l-s-polo-one-piece?variant=53940959346964)
-    Availability: Not Available
+    Availability: Available
     Price: $26.00 USD
   - [6-12M](https://cuddlegrove.store/products/duck-pond-l-s-polo-one-piece?variant=53940959379732)
     Availability: Not Available
@@ -584,8 +584,8 @@
   - [18-24M](https://cuddlegrove.store/products/duck-pond-l-s-polo-one-piece?variant=53940959445268)
     Availability: Available
     Price: $26.00 USD
-- [Varsity Bears Polo Shorty One-Piece](https://cuddlegrove.store/products/varsity-bears-polo-shorty-one-piece): Our super soft shorty one-piece is perfect for summer! Available in a range of adorable prints. Button snap closure for easy diaper changes. Check out our collection for Boys INSTRUCTIONS: Wear - Play - Repeat FIT - FABRIC - CARE True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry
-  Updated: 2026-09-05T20:37:16Z
+- [Varsity Bears Polo One-Piece: Chic Comfort for Active Kids](https://cuddlegrove.store/products/varsity-bears-polo-shorty-one-piece): Shop the Varsity Bears Polo One-Piece, blending style and comfort for your little explorer! Ideal for playtime and easy to care for. Discover the fun today!
+  Updated: 2026-09-11T09:47:03Z
   Vendor: Mila & Rose ®
   Product Type: Shorty One-Piece - Polo
   Availability: Available
@@ -602,8 +602,8 @@
   - [18-24M](https://cuddlegrove.store/products/varsity-bears-polo-shorty-one-piece?variant=53940959609108)
     Availability: Available
     Price: $24.00 USD
-- [Retro Bloom Wide Leg Jumpsuit](https://cuddlegrove.store/products/retro-bloom-wide-leg-jumpsuit): Effortless, modern, and oh-so-cute — our Girls’ Wide Leg Jumpsuit is a must-have for little trendsetters! Designed with comfort and style in mind, this one-piece wonder features a high neckline in front and a scoop back, adding a touch of chic detail to a playful silhouette. Made from soft, breathable fabric with just the right amount of stretch, this girls’ wide leg jumpsuit is perfect for everything from birthday parties to playdates. The wide legs give it a flowy, dress-like feel, while the pull-on design makes getting dressed a breeze. Perfect on its own or layered with a jacket or cardigan, this girls’ jumpsuit is a year-round favorite for fashionable fun. Why You'll Love It: High front neckline & lower scoop back for modern flair Wide leg design = twirl-worthy comfort Soft, stretchy knit fabric for all-day play Easy pull-on style with no fuss Great for toddlers and young girls who love to move in style
-  Updated: 2026-09-05T19:59:54Z
+- [Girls Wide Leg Jumpsuit: Effortless Style & Comfort for Playtime](https://cuddlegrove.store/products/retro-bloom-wide-leg-jumpsuit): Shop the chic and comfortable Girls Wide Leg Jumpsuit that blends style and ease. Perfect for playtime or parties, it’s a must-have for every girl's wardrobe!
+  Updated: 2026-09-12T20:16:43Z
   Vendor: Mila & Rose ®
   Product Type: Wide Leg Jumpsuit
   Availability: Available
@@ -623,8 +623,8 @@
   - [7/8](https://cuddlegrove.store/products/retro-bloom-wide-leg-jumpsuit?variant=53940959772948)
     Availability: Available
     Price: $30.00 USD
-- [Sugar Rush L/S Pocket Twirl Dress](https://cuddlegrove.store/products/sugar-rush-l-s-pocket-twirl-dress): The perfect dress for Halloween, school, and everyday play! Designed by a mom and a dad. Mom wanted something twirly, comfortable and easy to wash. Dad wanted something easy to get on his chubby, big headed toddler. Designed with a scoop back for quick on and off, and higher neckline for modesty. Pair with Twirl Shorts or Leggings for the perfect everyday outfit. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T19:59:57Z
+- [Twirl Dress for Kids: Fun & Comfort in Every Spin!](https://cuddlegrove.store/products/sugar-rush-l-s-pocket-twirl-dress): Discover joy with the Twirl Dress for Kids! Perfect for daily adventures, this stylish dress offers comfort, twirl factor, and easy care for timeless fun.
+  Updated: 2026-09-11T09:45:05Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - L/S - Pocket
   Availability: Available
@@ -653,8 +653,8 @@
   - [9/10](https://cuddlegrove.store/products/sugar-rush-l-s-pocket-twirl-dress?variant=53940960035092)
     Availability: Available
     Price: $28.00 USD
-- [Hocus Pocus 3/4 Sleeve Pocket Twirl Dress](https://cuddlegrove.store/products/hocus-pocus-3-4-sleeve-pocket-twirl-dress): The perfect dress for Halloween, school, and everyday play! Designed by a mom and a dad. Mom wanted something twirly, comfortable and easy to wash. Dad wanted something easy to get on his chubby, big headed toddler. Designed with a scoop back for quick on and off, and higher neckline for modesty. Pair with Twirl Shorts or Leggings for the perfect everyday outfit. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T20:00:00Z
+- [Hocus Pocus Twirl Dress - Magical Halloween Fun Awaits!](https://cuddlegrove.store/products/hocus-pocus-3-4-sleeve-pocket-twirl-dress): Discover playful magic with the Hocus Pocus Twirl Dress! Perfect for Halloween fun, everyday wear, and easy dressing. Let your child's imagination soar!
+  Updated: 2026-09-12T17:20:49Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - 3/4 - Pocket
   Availability: Available
@@ -683,8 +683,8 @@
   - [9/10](https://cuddlegrove.store/products/hocus-pocus-3-4-sleeve-pocket-twirl-dress?variant=53940960297236)
     Availability: Available
     Price: $28.00 USD
-- [Bright Yellow Faux Suede Pinafore](https://cuddlegrove.store/products/bright-yellow-faux-suede-pinafore): Our Faux Suede Pinafore is the perfect blend of polished, playful, and endlessly wearable. Designed with a buttery-soft faux suede finish, this piece instantly elevates everyday outfits while still being comfy enough for all-day play. The standout detail? Adjustable straps that crisscross in the back for the sweetest, most secure fit. Whether you’re styling it for school, family photos, or holiday outings, this pinafore layers like a dream and grows right along with her. Why moms (and girls) love it: Adjustable crossback straps for a custom, stay-put fit Ultra-soft faux suede with a luxe, elevated feel Easy, pull-on silhouette for quick outfit changes Perfect for layering across seasons How to style it:Pair it with our long sleeve tees for practicality or layer over our leotards for a polished look that is perfect for family photos (although not potty friendly). Add tights and boots for the perfect fall look. From playground to picture day, the Faux Suede Pinafore is the piece you’ll reach for again and again—because cute should always be this easy.
-  Updated: 2026-09-05T20:00:03Z
+- [Bright Yellow Faux Suede Pinafore for Effortless Everyday Style](https://cuddlegrove.store/products/bright-yellow-faux-suede-pinafore): Discover the Bright Yellow Faux Suede Pinafore, a chic and comfortable layer that elevates her style for any occasion. Effortless dressing that delights!
+  Updated: 2026-09-11T09:47:54Z
   Vendor: Mila & Rose ®
   Product Type: Pinafore
   Availability: Available
@@ -704,8 +704,8 @@
   - [7/8](https://cuddlegrove.store/products/bright-yellow-faux-suede-pinafore?variant=53940960461076)
     Availability: Available
     Price: $28.00 USD
-- [Christmas Tree Dog Smocking Embroidered Baby Boys Romper](https://cuddlegrove.store/products/christmas-tree-dog-smocking-embroidered-baby-boys-romper): Dress your little one in festive charm with this Christmas Tree Dog Smocking Embroidered Baby Boys Romper. Featuring delicate smocking and adorable embroidered details, it’s designed for both comfort and style. Perfect for holiday photos and gatherings, this romper keeps your baby cozy while celebrating the season in a truly unique way. body:97% Cotton 3%Spandex combo:100%Cotton SKU:RPB50825
-  Updated: 2026-09-05T20:04:40Z
+- [Christmas Dog Embroidered Romper for Baby Boys - Cozy & Festive](https://cuddlegrove.store/products/christmas-tree-dog-smocking-embroidered-baby-boys-romper): Dress your little one in our Christmas Dog Embroidered Romper for baby boys! Stylish, cozy, and perfect for holiday memories. Get yours now!
+  Updated: 2026-09-11T22:08:35Z
   Vendor: Rylee Faith Designs
   Product Type: Romper
   Availability: Available
@@ -725,8 +725,8 @@
   - [18M](https://cuddlegrove.store/products/christmas-tree-dog-smocking-embroidered-baby-boys-romper?variant=53940969046292)
     Availability: Available
     Price: $23.99 USD
-- [Christmas Smocking Embroidered Girls Dress with Green Plaid Bow](https://cuddlegrove.store/products/christmas-smocking-embroidered-girls-dress-with-green-plaid-bow): Celebrate the holiday season in style with this Christmas Smocking Embroidered Girls Dress. Featuring delicate smocking and festive embroidery, it adds timeless charm to any special occasion. The green plaid bow offers a classic holiday touch that perfectly complements the dress. Crafted for comfort and elegance, this dress ensures your little one looks picture-perfect while enjoying holiday festivities. SKU:DRG54447 body:97% Cotton 3%Spandex combo:100%Cotton
-  Updated: 2026-09-05T20:05:53Z
+- [Christmas Smocking Embroidered Girls Dress with Festive Green Bow](https://cuddlegrove.store/products/christmas-smocking-embroidered-girls-dress-with-green-plaid-bow): Delight your little girl this holiday season with our charming Christmas Smocking Embroidered Girls Dress. Perfect for festive occasions, order today!
+  Updated: 2026-09-11T22:08:36Z
   Vendor: Rylee Faith Designs
   Product Type: Dress
   Availability: Available
@@ -746,8 +746,8 @@
   - [6](https://cuddlegrove.store/products/christmas-smocking-embroidered-girls-dress-with-green-plaid-bow?variant=53940969210132)
     Availability: Available
     Price: $25.99 USD
-- [Christmas Red Velvet Girls Dress](https://cuddlegrove.store/products/christmas-red-velvet-girls-dress): Bring holiday cheer to your little girl's wardrobe with our Christmas Red Velvet Girls Dress! Made with luxurious red velvet fabric, this dress is perfect for holiday parties and family gatherings. With its classic design and comfortable fit, your little one will be the talk of the season. Order now and make this Christmas one to remember! SKU:DRG42932 Material: 95% Polyester 5% Spandex
-  Updated: 2026-09-05T20:00:07Z
+- [Christmas Red Velvet Dress - Enchanting Style for Your Little Girl](https://cuddlegrove.store/products/christmas-red-velvet-girls-dress): Dress your little girl in our enchanting Christmas Red Velvet Dress! Perfect for holiday cheer, it combines luxury and comfort for memorable celebrations.
+  Updated: 2026-09-11T09:49:07Z
   Vendor: Rylee Faith Designs
   Product Type: Dress
   Availability: Available
@@ -773,29 +773,29 @@
   - [8/9Y](https://cuddlegrove.store/products/christmas-red-velvet-girls-dress?variant=53940969439508)
     Availability: Available
     Price: $25.99 USD
-- [Felt Drawer Organizers](https://cuddlegrove.store/products/felt-drawer-organizers): A Calm Drawer Changes More Than You Think Less morning prep stress, faster outfit changes, and fewer laundry-day freak outs. Our Felt Drawer Organizers are designed to bring effortless order to your nursery (and beyond), so you can focus on what matters most. With 3 soft, structured felt bins in versatile sizes, these organizers help you control the chaos — whether you’re a Type A mom who loves a system or a Type B mom who just wants things to stay put. Why Moms Love Our Felt Drawer Organizers Organizes without the effort Set them up once, and your drawers stay organized — no matter how many times clothes get tossed haphazardly back in. Versatile 3-Pack (Three Practical Sizes) Perfect for baby socks, onesies, bibs, diapers, accessories, and more. Works just as well in kids’ rooms and parents’ drawers. Soft, Durable Felt Made with high-quality felt that’s gentle to the touch, safe for baby, and durable enough to hide wear and tear after years of use. Designed for Any Drawer Flexible structure fits and organizes nearly any drawer — nursery dressers, changing tables, kids’ rooms, or  bedrooms. Collapsible + Space-Saving Each organizer folds flat to fit into any space when not in use. Neutral, Minimalist Design Available in our heathered white felt that coordinates seamlessly with any room and matches our bestselling Felt Diaper Caddy (+ our other felt organization essentials!) Buy Once, Use for Years Felt = long-lasting Neutral design = won’t age out Multi-room use = fewer products over time From diapers today to kids’ socks tomorrow — and even your own essentials down the road — these organizers grow with your family. Thoughtfully Designed for Real Life High-quality felt with flexible structure Hand-cut edges for a clean, finished look Soft and safe for baby’s nursery Durable enough for everyday use A Gift That Actually Gets Used The gift no one thinks to register for — but everyone ends up using. Our Felt Drawer Organizers make a thoughtful baby shower or registry gift that brings real, everyday relief to new moms. Start with one drawer. Feel the difference. Organize your nursery (and your routine) with our Felt Drawer Organizers for a calmer, simpler system. Click the Add to Cart button + simplify your routine today!
-  Updated: 2026-09-05T23:51:22Z
+- [Felt Drawer Organizers for Nursery: Simplify Baby Storage Today!](https://cuddlegrove.store/products/felt-drawer-organizers): Discover peace with our Felt Drawer Organizers for Nursery—perfect for streamlining baby essentials and keeping your space clutter-free. Order now!
+  Updated: 2026-09-13T02:57:06Z
   Vendor: Parker Baby Co.
   Product Type: Organizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Felt-organizers-POW-3set-shopify_1b5ebb7f-2b0a-45fa-8246-70eadc845d23.jpg?v=1788415957
   Price: $25.00 USD
-- [Bear Felt Laundry Hamper](https://cuddlegrove.store/products/bear-felt-laundry-hamper): Who says laundry can't be cute? Our Bear Felt Laundry Hamper is the charming, practical solution for keeping dirty clothes, blankets, toys, and everyday clutter contained while adding a playful touch to your nursery. Designed with soft yet durable felt, this nursery laundry hamper is lightweight, collapsible, and easy to carry from room to room, even when you're holding a baby on your hip. Whether you're organizing a nursery, toddler room, playroom, or laundry space, this adorable bear hamper helps make everyday cleanup feel a little easier. Why Parents Love It Adorable Bear Design A sweet bear face adds personality and warmth to any nursery while complementing a wide range of nursery themes and decor styles. Soft & Safe for Baby Unlike hard plastic hampers or bulky baskets, our felt laundry hamper is soft to the touch and gentle around little ones. No sharp edges, no heavy lids, and no worries about bumps or tumbles. Lightweight Yet Surprisingly Strong Made from durable felt that holds its shape while handling heavy loads of baby clothes, blankets, towels, and more. Carry One-Handed Parenting rarely leaves you with two free hands. The flexible felt construction and sturdy side handles make it easy to move laundry from room to room while carrying your little one. Collapsible for Easy Storage Need extra space? Simply fold the hamper flat and tuck it between the washer and dryer, inside a closet, or under a bed until you need it again. Grows With Your Family From nursery laundry hamper to kids' room organizer, toy storage bin, or playroom catch-all, this versatile hamper remains useful long after the baby stage. Designed to Coordinate Beautifully Available in neutral colors that blend seamlessly with modern nursery decor, the Bear Felt Laundry Hamper pairs perfectly with our bestselling Felt Diaper Caddy and other felt organization essentials. Create a cohesive, organized nursery without sacrificing style. A Nursery Essential That Works Hard The best baby products make everyday life a little simpler. Our Bear Felt Laundry Hamper helps keep messes out of sight, makes laundry easier to manage, and adds a touch of charm to the spaces where your family spends the most time. From tiny newborn outfits to growing piles of toddler laundry, this nursery hamper is ready to help every step of the way. Add to cart today and bring a little more organization, style, and simplicity to your family's routine. Please note: Due to the nature of felt material, slight variations in color and heathering may occur.
-  Updated: 2026-09-05T20:07:16Z
+- [Bear Felt Laundry Hamper – Stylish & Functional Storage Solution](https://cuddlegrove.store/products/bear-felt-laundry-hamper): Discover the Bear Felt Laundry Hamper, a stylish storage solution for your nursery that keeps it tidy while adding a playful touch. Perfect for easy cleanup!
+  Updated: 2026-09-13T02:57:01Z
   Vendor: Parker Baby Co.
   Product Type: Organizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/KidsFeltHamper-Oatmeal-POW-1600.jpg?v=1788415962
   - [Oatmeal](https://cuddlegrove.store/products/bear-felt-laundry-hamper?variant=53940974223636)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/KidsFeltHamper-Oatmeal-POW-1600.jpg?v=1788415962
     Price: $26.00 USD
   - [White](https://cuddlegrove.store/products/bear-felt-laundry-hamper?variant=53940974256404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/KidsBearHamper-White-POW-1600.jpg?v=1788415963
     Price: $26.00 USD
-- [Baby Beanies - 2-Pack](https://cuddlegrove.store/products/baby-beanies-2-pack): Those first days with your newborn are filled with quiet moments you’ll never forget: bringing baby home, meeting family for the first time, and soaking up every snuggle in between. A soft baby beanie is one of those simple essentials that helps keep your little one warm, cozy, and comfortable through it all. Our Baby Beanie 2-Pack is designed for those early months when comfort matters most. Made with breathable 100% cotton jersey, these soft newborn hats help keep baby’s head warm while still feeling gentle against sensitive skin. With two coordinating beanies in each set, you’ll always have a clean one ready, whether it’s for everyday wear, hospital photos, or baby’s first outing. Thoughtfully designed for babies 0-3 months, these newborn baby beanies feature a stretchy, comfortable fit that stays in place without feeling tight, making them a must-have for any hospital bag, diaper bag, or nursery drawer. Why Parents Love Our Baby Beanies Our baby beanie hats combine softness, practicality, and timeless style so parents can focus on what matters most - enjoying those early days with their little one. • 100% Cotton Jersey Fabric – breathable, hypoallergenic, and gentle on baby’s delicate skin• Double-Layered Design – two layers of soft cotton keep baby warm and cozy• Comfortable Stretch Fit – flexible material that won’t feel tight or restrictive• Neutral, Timeless Colors – easy to match with baby’s outfits or nursery essentials• Convenient 2-Pack Set – always have a backup when one is in the wash• Designed for 0-3 Months – perfectly sized for newborns and early infancy• Safe and Soft for Baby – made with materials parents can feel good about Perfect for Hospital Bags & Baby Announcements A newborn baby beanie is one of those little pieces that often shows up in life’s sweetest photos. Whether you’re packing your hospital bag, planning baby announcement pictures, or dressing your little one for their first trip home, these soft cotton baby hats add a cozy finishing touch. Our Baby Beanies also coordinate beautifully with other Parker Baby Co. nursery favorites like our Muslin Loveys and Muslin Swaddle Sets, making them a thoughtful addition to any baby registry or baby shower gift. A Newborn Essential You’ll Reach for Daily From first hospital photos to slow mornings at home, our Baby Beanie 2-Pack keeps your little one warm, comfortable, and cozy in those early months. Click Add to Cart and have this newborn essential ready when baby arrives.
-  Updated: 2026-09-05T20:18:21Z
+- [Baby Beanies 2-Pack: Soft Cotton Hats for Cozy Newborns](https://cuddlegrove.store/products/baby-beanies-2-pack): Keep your newborn cozy and stylish with our Baby Beanies 2-Pack. Soft, breathable cotton hats designed for ultimate comfort during those precious first months.
+  Updated: 2026-09-12T21:06:00Z
   Vendor: Parker Baby Co.
   Product Type: Baby Hats
   Availability: Available
@@ -816,64 +816,64 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/rosewood-beanies-POW-1600.jpg?v=1788415962
     Price: $14.00 USD
-- [Butterfly Swaddle Set](https://cuddlegrove.store/products/butterfly-swaddle-set): Better sleep for your baby starts with feeling safe, secure, and comforted. Our Butterfly Swaddle Set is designed to help your newborn settle easier and sleep more soundly so you can rest, too. Made from ultra-soft, breathable cotton muslin, these swaddle blankets recreate that cozy, womb-like feeling babies love while staying gentle on sensitive skin. And because you’ll use them all day, every day, we made sure you always have one on hand with a convenient 3-pack that’s perfect for home, diaper bags, and gifting. Why Moms Love Our Swaddle Blankets • Ultra-soft muslin cottonMade from 100% muslin cotton that gets softer with every wash • Breathable and temperature-regulatingKeeps baby cool in the summer and comfortably warm in the winter • Perfect size for a secure swaddleGenerously sized at 47” x 47” for easy wrapping and longer use • Pre-washed for everyday lifeDesigned to prevent shrinking and ready to use right out of the box • Safe for sensitive skinCrafted with lead-free dyes and baby-safe materials More Than Just a Swaddle These aren’t just newborn swaddle blankets. They’re everyday essentials you’ll reach for again and again. Use them for swaddling at naps and bedtime, tummy time on the floor, a lightweight stroller blanket, a nursing or feeding cover, or quick clean-ups throughout the day. One set, countless little moments. A Baby Shower Gift That Actually Gets Used If you’re looking for a practical baby shower gift, this is one parents will thank you for again and again. With three coordinating swaddle blankets in sweet, girly prints and tones, this set will blend beautifully into your nursery decor while giving parents the essentials they truly need. More softness, more convenience, and more peace of mind. Designed for Better Sleep (for Both of You) A simple essential that makes a big difference. Add to your cart and make bedtime a little easier for both of you.
-  Updated: 2026-09-05T23:57:04Z
+- [Butterfly Swaddle Set: Cozy Comfort for Sweet Baby Dreams](https://cuddlegrove.store/products/butterfly-swaddle-set): Discover the ultimate comfort for your baby with our Butterfly Swaddle Set. Designed for serene sleep, it's the perfect blend of softness and style.
+  Updated: 2026-09-13T02:51:50Z
   Vendor: Parker Baby Co.
   Product Type: Baby Swaddles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/butterfly-swaddles-POW-1600.jpg?v=1788415962
   Price: $20.00 USD
-- [Stormy Swaddle Set](https://cuddlegrove.store/products/stormy-swaddle-set): Better sleep for your baby starts with feeling safe, secure, and comforted. Our Stormy Swaddle Set is designed to help your newborn settle easier and sleep more soundly so you can rest, too. Made from ultra-soft, breathable cotton muslin, these swaddle blankets recreate that cozy, womb-like feeling babies love while staying gentle on sensitive skin. And because you’ll use them all day, every day, we made sure you always have one on hand with a convenient 3-pack that’s perfect for home, diaper bags, and gifting. Why Moms Love Our Swaddle Blankets • Ultra-soft muslin cottonMade from 100% muslin cotton that gets softer with every wash • Breathable and temperature-regulatingKeeps baby cool in the summer and comfortably warm in the winter • Perfect size for a secure swaddleGenerously sized at 47” x 47” for easy wrapping and longer use • Pre-washed for everyday lifeDesigned to prevent shrinking and ready to use right out of the box • Safe for sensitive skinCrafted with lead-free dyes and baby-safe materials More Than Just a Swaddle These aren’t just newborn swaddle blankets. They’re everyday essentials you’ll reach for again and again. Use them for swaddling at naps and bedtime, tummy time on the floor, a lightweight stroller blanket, a nursing or feeding cover, or quick clean-ups throughout the day. One set, countless little moments. A Baby Shower Gift That Actually Gets Used If you’re looking for a practical baby shower gift, this is one parents will thank you for again and again. With three coordinating swaddle blankets in cozy, neutral prints and tones, this set will blend beautifully into your nursery decor while giving parents the essentials they truly need. More softness, more convenience, and more peace of mind. Designed for Better Sleep (for Both of You) A simple essential that makes a big difference. Add to your cart and make bedtime a little easier for both of you.
-  Updated: 2026-09-05T23:56:57Z
+- [Stormy Swaddle Set: Cozy Comfort for Your Baby's Best Sleep](https://cuddlegrove.store/products/stormy-swaddle-set): Discover the Stormy Swaddle Set to help your baby sleep soundly and securely. Ultra-soft, breathable, and perfectly sized for comfort.
+  Updated: 2026-09-13T02:57:06Z
   Vendor: Parker Baby Co.
   Product Type: Baby Swaddles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/swaddles-stormy-POW-1600.jpg?v=1788415962
   Price: $20.00 USD
-- [Multi-use Cover, Bliss](https://cuddlegrove.store/products/multi-use-cover-bliss): Life with a baby means juggling a lot. Feeding, errands, outings, and everything in between. You need baby essentials that keep up without adding more to your plate. Our Multi-Use Cover is designed to simplify your day with one beautifully made, ultra-versatile essential. Made from soft, stretchy, breathable fabric, this 4-in-1 baby cover functions as a car seat cover, nursing cover, grocery cart cover, and high chair cover so you are always prepared wherever you go. Because when you are out with your baby, the little things matter most. Why Moms Love Our Multi-Use Cover • 4-in-1 Versatility for Everyday LifeOne cover, four essential uses. Easily switch between a nursing cover, infant car seat cover, shopping cart cover, and high chair cover with no extra packing required • Soft, Stretchy, and Easy to UseDesigned with flexible, high-quality fabric that slips on in seconds. Whether you are covering a car seat or nursing on the go, it just works with no fuss • Breathable + Comfortable (All Year Long)Lightweight and breathable so your baby stays comfortable in every season. Never too hot, never see-through, just the right balance of airflow and coverage • Privacy When You Need It MostNurse confidently wherever you are. This nursing cover for breastfeeding offers full coverage while still allowing airflow and comfort for both you and baby • Protection On the GoHelps shield your baby from wind, cold, sun, and everyday germs. Perfect for errands, walks, and travel days • Compact + Diaper Bag FriendlyFolds down small so you can tuck it into any diaper bag and go. Always within reach when you need it • Designed to Match Your StyleFeaturing our soft, feminine Bliss polka dot print, this cover blends beautifully with your everyday essentials Made for Moms on the Move From quick grocery runs to longer outings, this multi-use baby cover keeps you ready for anything. No digging through your bag for different covers. No overpacking. Just one thoughtfully designed essential that does it all. Because you already have enough to think about. A Thoughtful Gift for New Moms Looking for a practical and actually used baby shower gift? This multi-purpose cover is a go-to favorite for moms who want simplicity, comfort, and versatility in one. Add to cart and simplify life on the go. One less thing to worry about.
-  Updated: 2026-09-05T20:18:41Z
+- [Multi-Use Baby Cover: Your Essential Parenting Companion](https://cuddlegrove.store/products/multi-use-cover-bliss): Discover the ultimate Multi-Use Baby Cover! Enjoy 4-in-1 functionality as a car seat, nursing, grocery cart, and high chair cover. Simplify outings today!
+  Updated: 2026-09-12T14:48:31Z
   Vendor: Parker Baby Co.
   Product Type: Multi-Use Cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/cover-bliss-POW-1280.jpg?v=1788415962
   Price: $25.00 USD
-- [Butterfly Set - Muslin Burp Cloths (4 Pack)](https://cuddlegrove.store/products/butterfly-set-muslin-burp-cloths-4-pack): Spit up, milk dribbles, snack-time chaos… It all adds up fast. And when you’re already juggling everything, you need burp cloths that actually keep up. These are the ones you’ll reach for all day. Made with 6 layers of 100% muslin cotton, our burp cloths are designed to handle real-life messes with ease. They’re soft on your baby’s skin, highly absorbent when it matters most, and oversized so you’re not constantly reaching for a new one. Because the little things, like having a burp cloth that actually works, make your day feel a whole lot easier. Designed for the Messy Moments You Didn’t Plan For From middle-of-the-night feeds to on-the-go diaper bag changes, these burp cloths are ready when you need them. Each cloth is thoughtfully designed to give you more coverage and fewer swaps throughout the day: Oversized at 11" x 20" to catch more mess in one go Perfect for your shoulder, lap, or diaper bag 4-pack means you’ll always have a clean one within reach Soft Enough for Sensitive Skin When something touches your baby’s face all day, it needs to feel just right. Our muslin cotton is made to be gentle where it matters most: Buttery soft from the very first use Ideal for delicate, sensitive skin Breathable and lightweight, even with multiple layers No rough textures. No stiffness. Just softness you can trust, every time you reach for it. Absorbent Where It Matters With 6 layers of muslin cotton, these burp cloths are made to quickly soak up spit up, drool, and everyday spills without soaking through. Less outfit changes, less stress, and more confidence that you’re covered. Made for Real Life (and Real Laundry) Just toss them in the wash and reuse again and again. They hold up beautifully and get even softer over time, making them a staple you’ll rely on from newborn days and beyond. A Simple Essential You’ll Use Everywhere Keep one in your diaper bag, one by your nursing chair, one in the car, and one within arm’s reach at home. You’ll find yourself reaching for them all day long: Burping and feeding Wiping little faces and hands Catching spills at the table Everyday cleanups you didn’t see coming Add to cart when you're ready to make everyday messes a little easier!
-  Updated: 2026-09-05T21:51:02Z
+- [Muslin Burp Cloths Set - Essential for Effortless Baby Care](https://cuddlegrove.store/products/butterfly-set-muslin-burp-cloths-4-pack): Discover the ultimate Muslin Burp Cloths Set! Oversized, soft, and absorbent for all-day mess protection. Perfect for new parents seeking comfort and convenience.
+  Updated: 2026-09-13T02:48:26Z
   Vendor: Parker Baby Co.
   Product Type: Burp Cloths
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/butterfly-burpcloths-POW-1600.jpg?v=1788415963
   Price: $24.00 USD
-- [Pebble Quilt](https://cuddlegrove.store/products/pebble-quilt): A blanket they’ll reach for every day and keep for years Our Pebble Muslin Baby Quilt is designed to be more than just a baby blanket. It becomes part of your routine. The one you grab for bedtime, pack for outings, and keep close through every stage. Made with four layers of 100% muslin cotton, this baby quilt is soft, breathable, and gentle on sensitive skin. It feels lightweight enough for everyday use while still being cozy enough for naps, quiet moments, and everything in between. Simple, neutral, and made to last, it’s a piece your family will hold onto long after the baby stage. Why Moms Love Our Muslin Baby Quilt Four Layers of Soft, Breathable Muslin Cotton: The layered muslin design creates the perfect balance of comfort and airflow, making this quilt ideal for year-round use. Buttery Soft That Gets Better Over Time: It starts soft from the very first use and continues to get softer with every wash. Oversized for Long-Term Use: At 47 by 47 inches, this quilt is intentionally designed to grow with your baby. It’s oversized and snuggly for infants and still cozy and comforting for toddlers. A Quilt That Grows With Your Baby From late-night feedings to slow mornings and afternoon naps, this baby quilt is made to be part of your everyday rhythm. Use it as a cozy blanket for snuggles, a soft surface for tummy time, or something familiar to bring along when you’re out and about. It folds easily into your diaper bag and adds a layer of comfort wherever you go. The Perfect Baby Shower Gift If you’re looking for a gift that feels both thoughtful and practical, this is it. A high-quality muslin baby quilt that’s soft, versatile, and designed to be used every single day is something every parent will appreciate and remember. Made for Snuggles, Built to Last Some things just become part of your routine without you even realizing it. This is one of them. Add to your cart today and create a cozy go-to your little one will love from day one.
-  Updated: 2026-09-05T20:07:05Z
+- [Muslin Baby Quilt: Ultimate Comfort for Your Little One](https://cuddlegrove.store/products/pebble-quilt): Wrap your little one in cozy love with our Muslin Baby Quilt—soft, breathable, and perfect for snuggles, playtime, and peaceful sleeps.
+  Updated: 2026-09-12T04:50:11Z
   Vendor: Parker Baby Co.
   Product Type: Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/pebble-quilt-POW-1600.jpg?v=1788415962
   Price: $45.00 USD
-- [Rain Set - Terry Baby Washcloths (4 Pack)](https://cuddlegrove.store/products/rain-set-terry-baby-washcloths-4-pack): Gentle Baby Washcloths for Worry-Free Bath Time Transform bath time into a soothing experience with our ultra-soft Terry Baby Washcloths. Designed for babies with sensitive skin, eczema, baby acne, or cradle cap, these gentle washcloths give parents one less thing to worry about during those precious early months. Cotton/Poly Blend | Chemical-Free | 4-Pack Convenience What Makes Our Washcloths Special: Butterfly-soft terry texture that's gentle on delicate baby skin Cotton/poly blend that provides the perfect balance between softness & durability Chemical-free: safe for babies with sensitive skin conditions Highly absorbent for effective yet gentle cleaning Practical 4-Pack Design Never Run Out During Bath Time: Each set includes 4 individual washcloths ensuring you always have a clean, soft washcloth ready. Perfect for daily baths, quick cleanups, and having backups while others are in the wash. Tired of thin, scratchy washcloths that get crusty after bath time? Our Terry Washcloths are better - designed to be durable to grow with your baby. They'll stay soft wash after wash, so you don't have to worry about crusty washcloths every again! Buttery-Soft Benefits: Gentle enough for newborn's first baths Absorbent material for effective cleansing Soft texture that won't irritate delicate skin Durable design feels soft wash after wash Coordinates with the Complete Bath Collection Available in 4 Beautiful Colors: Choose neutral tones that complement your bathroom decor and coordinate perfectly with our full Bath Collection. Don’t forget to grab a matching Bath Caddy, Spout Cover, and Rinse Cup for the ultimate bath setup! Why Choose Terry? Our buttery soft washcloths are designed for parents who want: Convenience - A versatile 4-pack means you'll always have a clean washcloth ready Quality - Buttery-soft terry that stays gentle over time Style - Coordinated colors for a beautiful bath setup (check out our full collection here!) Peace of mind - No more worrying about harsh materials on baby's skin Perfect for Every Stage From Newborn to Toddler: First baths with ultra-gentle care Daily cleansing for growing babies Gentle on Sensitive skin through every age and stage Long-term use with durable, lasting softness Ready for stress-free bath time? Our terry baby washcloths provide the gentle care your baby deserves with the convenience busy parents need. Give yourself one less thing to worry about – add to cart today!
-  Updated: 2026-09-05T20:05:00Z
+- [Gentle Baby Washcloths – Soft Terry 4-Pack for Happy Bath Time](https://cuddlegrove.store/products/rain-set-terry-baby-washcloths-4-pack): Discover gentle baby washcloths crafted from soft Terry, perfect for stress-free bath time! Ensure comfort and care for your baby's sensitive skin with our 4-pack.
+  Updated: 2026-09-12T04:50:46Z
   Vendor: Parker Baby Co.
   Product Type: Washcloths
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Washcloths-POW-stacked-1280.jpg?v=1788415962
   Price: $18.00 USD
-- [Multi-use Cover, Stormy Blue Stripe](https://cuddlegrove.store/products/multi-use-cover-stormy-blue-stripe): Life with a baby means juggling a lot. Feeding, errands, outings, and everything in between. You need baby essentials that keep up without adding more to your plate. Our Multi-Use Cover is designed to simplify your day with one beautifully made, ultra-versatile essential. Made from soft, stretchy, breathable fabric, this 4-in-1 baby cover functions as a car seat cover, nursing cover, grocery cart cover, and high chair cover so you are always prepared wherever you go. Because when you are out with your baby, the little things matter most. Why Moms Love Our Multi-Use Cover • 4-in-1 Versatility for Everyday LifeOne cover, four essential uses. Easily switch between a nursing cover, infant car seat cover, shopping cart cover, and high chair cover with no extra packing required • Soft, Stretchy, and Easy to UseDesigned with flexible, high-quality fabric that slips on in seconds. Whether you are covering a car seat or nursing on the go, it just works with no fuss • Breathable + Comfortable (All Year Long)Lightweight and breathable so your baby stays comfortable in every season. Never too hot, never see-through, just the right balance of airflow and coverage • Privacy When You Need It MostNurse confidently wherever you are. This nursing cover for breastfeeding offers full coverage while still allowing airflow and comfort for both you and baby • Protection On the GoHelps shield your baby from wind, cold, sun, and everyday germs. Perfect for errands, walks, and travel days • Compact + Diaper Bag FriendlyFolds down small so you can tuck it into any diaper bag and go. Always within reach when you need it • Designed to Match Your StyleFeaturing our soft, neutral Stormy Blue Stripe print, this cover blends beautifully with your everyday essentials Made for Moms on the Move From quick grocery runs to longer outings, this multi-use baby cover keeps you ready for anything. No digging through your bag for different covers. No overpacking. Just one thoughtfully designed essential that does it all. Because you already have enough to think about. A Thoughtful Gift for New Moms Looking for a practical and actually used baby shower gift? This multi-purpose cover is a go-to favorite for moms who want simplicity, comfort, and versatility in one. Add to cart and simplify life on the go. One less thing to worry about.
-  Updated: 2026-09-05T23:51:08Z
+- [Multi-Use Baby Cover: Simplify Parenting with Style & Versatility](https://cuddlegrove.store/products/multi-use-cover-stormy-blue-stripe): Simplify parenting with our Multi-Use Baby Cover! This versatile 4-in-1 essential offers comfort, style, and privacy for moms on the go. Shop now!
+  Updated: 2026-09-13T02:57:05Z
   Vendor: Parker Baby Co.
   Product Type: Multi-Use Cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/cover-stormy-stripe-POW-1280.jpg?v=1788415963
   Price: $25.00 USD
-- [Rosewood Swaddle Set](https://cuddlegrove.store/products/rosewood-swaddle-set): Better sleep for your baby starts with feeling safe, secure, and comforted. Our Rosewood Swaddle Set is designed to help your newborn settle easier and sleep more soundly so you can rest, too. Made from ultra-soft, breathable cotton muslin, these swaddle blankets recreate that cozy, womb-like feeling babies love while staying gentle on sensitive skin. And because you’ll use them all day, every day, we made sure you always have one on hand with a convenient 3-pack that’s perfect for home, diaper bags, and gifting. Why Moms Love Our Swaddle Blankets • Ultra-soft muslin cottonMade from 100% muslin cotton that gets softer with every wash • Breathable and temperature-regulatingKeeps baby cool in the summer and comfortably warm in the winter • Perfect size for a secure swaddleGenerously sized at 47” x 47” for easy wrapping and longer use • Pre-washed for everyday lifeDesigned to prevent shrinking and ready to use right out of the box • Safe for sensitive skinCrafted with lead-free dyes and baby-safe materials More Than Just a Swaddle These aren’t just newborn swaddle blankets. They’re everyday essentials you’ll reach for again and again. Use them for swaddling at naps and bedtime, tummy time on the floor, a lightweight stroller blanket, a nursing or feeding cover, or quick clean-ups throughout the day. One set, countless little moments. A Baby Shower Gift That Actually Gets Used If you’re looking for a practical baby shower gift, this is one parents will thank you for again and again. With three coordinating swaddle blankets in warm, neutral prints, this set will blend beautifully into your nursery decor while giving parents the essentials they truly need. More softness, more convenience, and more peace of mind. Designed for Better Sleep (for Both of You) A simple essential that makes a big difference. Add to your cart and make bedtime a little easier for both of you.
-  Updated: 2026-09-05T23:57:06Z
+- [Rosewood Baby Swaddle Set - Ensure Peaceful Sleep for Your Baby](https://cuddlegrove.store/products/rosewood-swaddle-set): Discover the Rosewood Baby Swaddle Set for ultimate comfort and restful nights. Perfect for your newborn, this breathable, soft cotton set ensures peaceful sleep.
+  Updated: 2026-09-13T02:57:05Z
   Vendor: Parker Baby Co.
   Product Type: Baby Swaddles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/swaddles-rosewood-POW-1600.jpg?v=1788415963
   Price: $20.00 USD
-- [Banana Split Convertible Bamboo Zipper Romper for Baby](https://cuddlegrove.store/products/banana-split-convertible-bamboo-zipper-romper-for-baby): Full of fun and made for everyday comfort, the Banana Split zipper romper is crafted from a buttery-soft bamboo-spandex blend that’s breathable, absorbent, hypoallergenic, and eco-friendly—perfect for delicate skin. A cheerful banana print adds playful charm, while the full-length front zipper with a protective neck guard makes changes quick and gentle. Designed with extra-long cuffs that can be folded or unfolded to cover baby’s feet, it offers added warmth and growing room. A cozy essential with a pop of personality.
-  Updated: 2026-09-05T20:05:11Z
+- [Banana Split Bamboo Zipper Romper: Ultimate Comfort for Babies](https://cuddlegrove.store/products/banana-split-convertible-bamboo-zipper-romper-for-baby): Discover the Banana Split Bamboo Zipper Romper, designed for your baby's ultimate comfort and easy changes. Soft, breathable, and playful—perfect for everyday adventures!
+  Updated: 2026-09-11T22:01:37Z
   Vendor: Tesa Babe
   Product Type: Rompers - Zipper
   Availability: Available
@@ -902,8 +902,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/199CBANcopy_2c41e5dc-5fda-411c-9f13-ccc2269acf4c.jpg?v=1788416194
     Price: $13.80 USD
-- [Seashore Shortall Romper – Bamboo Baby Neutral One Piece](https://cuddlegrove.store/products/seashore-shortall-romper-bamboo-baby-neutral-one-piece): Set course for comfort in the Seashore Shorty Romper. Designed with adventure-ready softness, this breathable bamboo-spandex romper keeps baby cool, cozy, and cute from sunrise strolls to sunset snuggles. The playful seaside print adds a splash of fun to every moment. Featuring easy top buttons and bottom snaps for smooth sailing during outfit or diaper changes, this romper is absorbent, hypoallergenic, and kind to the planet. Just toss it in the wash warm and tumble dry low—no tide of effort required.
-  Updated: 2026-09-05T20:05:15Z
+- [Bamboo Baby Romper | Seashore Shortall for Cozy Adventures](https://cuddlegrove.store/products/seashore-shortall-romper-bamboo-baby-neutral-one-piece): Discover the Seashore Shortall Romper, the ultimate bamboo baby romper for style and comfort. Soft, breathable, and perfect for adventure, your baby deserves this!
+  Updated: 2026-09-11T10:15:08Z
   Vendor: Tesa Babe
   Product Type: Rompers - Shorty
   Availability: Available
@@ -928,8 +928,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/289SES.jpg?v=1788416194
     Price: $36.00 USD
-- [Western Cowboy Rodeo Baby Bodysuit - Bamboo](https://cuddlegrove.store/products/western-cowboy-rodeo-baby-bodysuit-bamboo): Saddle up little ones in both style and comfort with this delightful Western themed bodysuit. Designed with a clever envelope neckline and convenient snap closures, changing is a breeze. Carefully made from a premium bamboo with a touch of spandex that pampers delicate skin. Hypoallergenic, absorbent, and eco-friendly, it stays cozy and carefree. An ideal choice for any pint-sized pardner!
-  Updated: 2026-09-05T20:05:37Z
+- [Western Cowboy Baby Bodysuit - Soft & Adorable Comfort for Kids](https://cuddlegrove.store/products/western-cowboy-rodeo-baby-bodysuit-bamboo): Shop our Western Cowboy Baby Bodysuit for your little wrangler! Soft bamboo fabric, hypoallergenic, and easy diaper changes for ultimate comfort and style.
+  Updated: 2026-09-11T17:55:34Z
   Vendor: Tesa Babe
   Product Type: Bodysuits
   Availability: Available
@@ -950,8 +950,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/958LSC.jpg?v=1788416194
     Price: $21.00 USD
-- [Seashore Dress – Soft Bamboo Summer Dress](https://cuddlegrove.store/products/seashore-dress-soft-bamboo-summer-dress): Breezy days and beachside play call for the Seashore Baby Girl Dress. Made from a luxurious bamboo-spandex jersey, this dress pairs whimsical nautical charm with whisper-soft comfort—perfect for everything from seashell hunts to sunny strolls. Ruffled sleeves add a splash of sweetness, while back buttons make dressing a breeze. Naturally absorbent, hypoallergenic, and eco-friendly, it's as kind to the planet as it is to baby’s skin. Machine wash warm, tumble dry low, and she’s ready to sail through the day in style.
-  Updated: 2026-09-05T20:15:11Z
+- [Soft Bamboo Summer Dress – Comfort and Style for Your Little Girl](https://cuddlegrove.store/products/seashore-dress-soft-bamboo-summer-dress): Discover the Seashore Dress, a soft bamboo summer dress perfect for your little girl's comfort and style. Ideal for sunny adventures and eco-friendly too!
+  Updated: 2026-09-11T10:29:06Z
   Vendor: Tesa Babe
   Product Type: Dresses
   Availability: Available
@@ -984,8 +984,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/376SES.jpg?v=1788416194
     Price: $24.50 USD
-- [Vintage Floral Zipper Romper - Soft Bamboo Baby](https://cuddlegrove.store/products/vintage-floral-zipper-romper-soft-bamboo-baby): This ultra-soft baby girl's zipper romper blends classic beauty with everyday functionality. Showcasing the vintage-inspired Florabelle floral print, it's crafted from a breathable bamboo-spandex blend that's hypoallergenic, absorbent, and eco-friendly, gentle on delicate skin. A full-length zipper with protective neck guard ensures quick, fuss-free changes, while the ruffled trim and sleeve cuffs add a touch of sweetness. Designed with convertible cuffs that unfold to cover the feet or stay open to accommodate growth, it's a perfect piece for play, sleep, and everything in between.
-  Updated: 2026-09-05T20:05:23Z
+- [Vintage Floral Baby Romper - Comfort & Style for Your Little One](https://cuddlegrove.store/products/vintage-floral-zipper-romper-soft-bamboo-baby): Discover comfort and style with our Vintage Floral Baby Romper. Soft bamboo fabric, easy changing, and charming design make it perfect for your little one!
+  Updated: 2026-09-11T10:22:24Z
   Vendor: Tesa Babe
   Product Type: Rompers - Zipper
   Availability: Available
@@ -1014,8 +1014,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/799CFRBBRITER.jpg?v=1788416194
     Price: $44.00 USD
-- [Seashore Bubble Romper – Bamboo Baby Girl Outfit](https://cuddlegrove.store/products/seashore-bubble-romper-bamboo-baby-girl-outfit): Set sail for cuteness with the Seashore Bubble Romper! Designed for sunshine and seaside strolls, this ultra-soft romper is made from a breathable bamboo-spandex blend that’s as gentle on skin as a sea breeze. With playful nautical sketches and fluttery sleeves, it’s a summer must-have for mini adventurers. Buttons at the back and bottom snaps make outfit swaps and diaper changes smooth sailing. Naturally absorbent, hypoallergenic, and eco-friendly, it’s perfect for beach days or boardwalk play.
-  Updated: 2026-09-05T20:05:54Z
+- [Bamboo Baby Girl Outfit: Seashore Bubble Romper for Summer Fun](https://cuddlegrove.store/products/seashore-bubble-romper-bamboo-baby-girl-outfit): Discover summer fun with the Seashore Bubble Romper, the ultimate bamboo baby girl outfit. Soft, breathable, and stylish—perfect for sunny adventures!
+  Updated: 2026-09-11T10:21:34Z
   Vendor: Tesa Babe
   Product Type: Rompers - Shorty
   Availability: Available
@@ -1040,8 +1040,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/85SES.jpg?v=1788416194
     Price: $18.00 USD
-- [Boy's Southwest Tee & Shorts Set – Cactus Trails Bamboo](https://cuddlegrove.store/products/boys-southwest-tee-shorts-set-cactus-trails-bamboo): Trail-ready and toddler-! The Cactus Trails Crew Neck Tee & Shorts Set brings cool comfort to warm days. The short sleeve crew neck tee is made from a breathable bamboo-spandex blend—naturally soft, hypoallergenic, and eco-friendly. Paired with easy-fit cotton rib shorts featuring a stretchy waistband, this outfit is made for little explorers who like to roam in style. 🌵
-  Updated: 2026-09-05T20:05:19Z
+- [Boy's Cactus Trails Set: Comfort and Style for Summer Adventures](https://cuddlegrove.store/products/boys-southwest-tee-shorts-set-cactus-trails-bamboo): Explore with style and comfort in the Boy's Cactus Trails Set! Perfect for summer adventures, this outfit blends eco-friendly fabric with a trendy design.
+  Updated: 2026-09-11T10:26:00Z
   Vendor: Tesa Babe
   Product Type: Two-Piece Sets
   Availability: Available
@@ -1074,8 +1074,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/TB138CSTPC32PC.jpg?v=1788416194
     Price: $25.20 USD
-- [Little Brother Cotton Romper](https://cuddlegrove.store/products/little-brother-cotton-romper): This baby boy romper features a “Little Brother” graphic paired with soft grey striped trim—perfect for celebrating a new addition or announcing the big news. Made from natural fibers, it’s breathable, stretchy, and gentle on baby’s delicate skin. An envelope neckline and snap closures underneath make changes quick and easy. It’s a thoughtful pick for baby showers, sibling reveals, or cozy cuddles with the whole crew.
-  Updated: 2026-09-05T20:05:07Z
+- [Little Brother Romper - Adorable Baby Outfit for Every Occasion](https://cuddlegrove.store/products/little-brother-cotton-romper): Discover the adorable Little Brother Romper! Perfect for new arrivals, this soft and breathable outfit keeps your baby comfortable while celebrating family joy.
+  Updated: 2026-09-11T17:55:54Z
   Vendor: Tesa Babe
   Product Type: Rompers - Classic
   Availability: Available
@@ -1096,8 +1096,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ChatGPTImageFeb23_2026_02_04_29PM.png?v=1788416194
     Price: $30.00 USD
-- [Western Cowboy Rodeo Children's Bamboo Pajama Set](https://cuddlegrove.store/products/western-cowboy-rodeo-childrens-bamboo-pajama-set): Bedtime gets a Western twist with this ultra-soft pajama set! Featuring a lively rodeo print with bucking broncos, hats, and lassos, this two-piece ensemble is crafted from a breathable bamboo-spandex blend that's stretchy, hypoallergenic, and gentle on sensitive skin. The classic crewneck top and elastic-waist bottoms offer a comfy fit that's perfect for winding down or horsin' around before lights out.
-  Updated: 2026-09-05T20:00:10Z
+- [Children's Western Pajama Set - Cozy Bamboo PJs for Sweet Dreams](https://cuddlegrove.store/products/western-cowboy-rodeo-childrens-bamboo-pajama-set): Discover our cozy Children's Western Pajama Set! Soft bamboo rodeo PJs for sweet dreams and ultimate comfort. Perfect for bedtime adventures!
+  Updated: 2026-09-11T10:17:47Z
   Vendor: Tesa Babe
   Product Type: Pajama Set-Kids
   Availability: Available
@@ -1126,8 +1126,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LS933LSC935LSC.jpg?v=1788416195
     Price: $46.00 USD
-- [Forest Frolic Baby Bodysuit - Bamboo Autumn](https://cuddlegrove.store/products/forest-frolic-baby-bodysuit-bamboo-autumn): Perfect for playtime, tummy time, or first-class naps, this long-sleeve forest woodland bodysuit is thoughtfully designed with an envelope neckline and quick-snap closures for stress-free changes. Made from our premium bamboo, it's ultra-gentle on baby's skin - hypoallergenic, breathable, and naturally absorbent. Whether for day-to-day wear or gifting little adventurers, this eco-friendly essential is ready for every escapade (and nap) in style.
-  Updated: 2026-09-05T20:05:03Z
+- [Forest Frolic Baby Bodysuit - Cozy Bamboo Comfort for Your Little One](https://cuddlegrove.store/products/forest-frolic-baby-bodysuit-bamboo-autumn): Gift your baby the ultimate comfort with the Forest Frolic Baby Bodysuit. Soft, stylish, and perfect for adventures, it's a must-have for little explorers!
+  Updated: 2026-09-11T10:24:48Z
   Vendor: Tesa Babe
   Product Type: Bodysuits
   Availability: Available
@@ -1145,11 +1145,11 @@
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/958FTF.jpg?v=1788416200
     Price: $21.00 USD
   - [12-18M](https://cuddlegrove.store/products/forest-frolic-baby-bodysuit-bamboo-autumn?variant=53940980416788)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/958FTF.jpg?v=1788416200
     Price: $21.00 USD
-- [Rope Diaper Caddy](https://cuddlegrove.store/products/rope-diaper-caddy): Diaper changes happen everywhere: the nursery, the living room, the car, and sometimes all in the same hour. Having everything you need within reach can make those moments feel so much easier. Our Rope Diaper Caddy was designed to help parents stay organized without sacrificing style. Made with a durable woven rope design and thoughtful compartments, this cotton rope diaper caddy keeps diapers, wipes, creams, and baby essentials neatly stored and easy to grab whenever you need them. Whether you're creating a changing station, organizing baby accessories, or packing supplies for another room, this versatile diaper caddy organizer keeps your routine simple and flexible. Why Parents Love Our Rope Diaper Caddy • Durable Rope Design – A timeless, sturdy rope construction that holds its shape, lasts for years, and looks beautiful in any nursery. • 3 Spacious Inner Compartments – Keep diapers, wipes, creams, and baby essentials organized and easy to find during busy diaper changes. • Long, Sturdy Handles – Designed for easy carrying so you can move your diaper caddy from the nursery to the living room, car, or wherever your day takes you. • Soft, Baby-Safe Materials – Made with gentle materials and cotton rope that are safe to keep around your baby and comfortable to carry. • Versatile Organization for Any Room – Use it as a diaper organizer, pumping caddy, toy storage bin, book holder, or craft organizer. • Two Neutral Colors – Available in tasteful shades that blend beautifully into any nursery or home. A Nursery Essential You'll Use Every Day The beauty of a rope diaper caddy organizer is how flexible it is. Keep one in the nursery for diaper changes, another in the living room for quick grab-and-go essentials, or bring it along in the car with snacks, spare outfits, and wipes. Parents also love using our woven diaper caddy as a baby shower gift basket. Simply fill it with diapers, baby accessories, and a few favorite essentials for a thoughtful gift any new parent will appreciate. Designed to simplify your routine and keep your home organized, our Rope Diaper Caddy helps you spend less time searching for baby essentials and more time enjoying those everyday moments with your little one. Add to your cart today and create a beautifully organized space for your baby’s essentials.
-  Updated: 2026-09-05T23:49:30Z
+- [Rope Diaper Caddy: Stylish Organization for Effortless Baby Care](https://cuddlegrove.store/products/rope-diaper-caddy): Elevate your baby care experience with our stylish Rope Diaper Caddy. Keep essentials organized and within reach for effortless diaper changes. Shop now!
+  Updated: 2026-09-13T02:46:55Z
   Vendor: Parker Baby Co.
   Product Type: Organizer
   Availability: Available
@@ -1162,22 +1162,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/GrayRope1-1280_80cf8ada-981d-4c3f-a832-d30a7ca5bcba.jpg?v=1788419402
     Price: $30.00 USD
-- [Rope Storage Basket](https://cuddlegrove.store/products/rope-storage-basket): You balance a lot as a mom, and you need products that can multitask as much as you do. The Parker Baby Co. Rope Storage Basket was designed to make everyday cleanup simpler while blending beautifully into your home. Made from durable cotton rope with a soft neutral design, this nursery storage basket is the perfect catch-all for toys, stuffed animals, blankets, books, baby essentials, and more. Whether you're organizing your nursery, tidying up the playroom, or adding stylish storage to your living room, this woven rope basket helps keep everyday clutter contained without sacrificing your aesthetic. Its sturdy construction holds shape while remaining soft enough for family spaces, making it a practical and beautiful solution for modern parents. Why Parents Love Our Rope Storage Basket Versatile toy storage basket for nurseries, playrooms, bedrooms, and living spaces Soft woven rope construction that's durable and family-friendly Neutral cream and beige design complements any home decor style Sturdy knotted handles for easy carrying from room to room Perfect for stuffed animals, blankets, books, toys, laundry, and baby essentials Designed to hold everyday clutter while keeping spaces feeling calm and organized Stylish enough to leave out as part of your home decor Stylish Storage for Every Room We believe storage products should work hard while still looking beautiful in your home. That’s why our Rope Storage Basket was thoughtfully designed with a timeless neutral color palette and textured rope detailing that seamlessly blends into nurseries, bedrooms, living rooms, and playrooms. Use it beside the rocking chair to store swaddles and baby blankets, in the playroom for toy organization, or in your living room to keep everyday essentials within reach while maintaining a clean, cozy space. The soft rope material is gentle for homes with little ones, while the durable design is made to hold up through years of daily use. Designed for Real Family Life From toy cleanup to nursery organization, this decorative storage basket helps simplify busy routines and create a more peaceful home environment. Lightweight handles make it easy to carry between rooms, while the oversized design gives you plenty of space to tuck away the things family life tends to leave behind. Functional, timeless, and endlessly versatile, the Parker Baby Co. Rope Storage Basket is the kind of organization essential you'll reach for every single day. Create a calmer, more organized space with storage designed for real family life and add to cart today.
-  Updated: 2026-09-05T22:18:13Z
+- [Multifunctional Rope Storage Basket - Stylish Organization Solution](https://cuddlegrove.store/products/rope-storage-basket): Discover the Multifunctional Rope Storage Basket, the perfect blend of style and utility. Keep your home organized and clutter-free with our chic, durable solution.
+  Updated: 2026-09-13T02:57:01Z
   Vendor: Parker Baby Co.
   Product Type: Organizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Rope_StoragePOW-1600.jpg?v=1788419402
   Price: $37.00 USD
-- [Muslin Cotton Baby Washcloths - 6 Pack](https://cuddlegrove.store/products/muslin-cotton-baby-washcloths-6-pack): Bath time with a new baby can feel overwhelming. And when you’re figuring out what works, the little things truly matter. Our Muslin Cotton Baby Washcloths are one less thing to worry about. Made from buttery-soft 100% muslin cotton, these gentle baby washcloths keep your baby comfortable, clean, and cared for from the very first bath. Soft on their skin, simple for you. Gentle, safe, and made for sensitive skin Your baby’s skin is delicate, and what you use matters. These muslin baby washcloths are designed to be as gentle and worry-free as possible. • Made with 6 layers of 100% muslin cotton for a breathable, ultra-soft feel• Ideal for sensitive skin, including eczema, baby acne, or cradle cap• A simple, safe choice for parents who pay attention to every detail Thoughtful details for everyday use It’s the little things that make your routine smoother. • Practical 6-pack so you always have a clean baby washcloth ready• Built-in hanging loops for quick, easy drying• Quick-drying fabric that gets softer with every wash A bath time essential you’ll actually use These are the kind of essentials you reach for every single day. Thoughtful, practical, and especially loved by moms who care about what touches their baby’s skin. They also make a meaningful baby shower gift that feels both useful and intentional. A bath time essential you’ll reach for daily With the right essentials, bath time becomes less stressful and more about connection. Add to cart today and make your routine softer, easier, and a little more enjoyable for both of you.
-  Updated: 2026-09-05T22:17:41Z
+- [Muslin Cotton Baby Washcloths - Gentle Care for Delightful Bath Time](https://cuddlegrove.store/products/muslin-cotton-baby-washcloths-6-pack): Transform bath time with our muslin cotton baby washcloths - ultra-soft, breathable, and perfect for your baby's delicate skin. Grab your 6-pack today!
+  Updated: 2026-09-13T02:46:30Z
   Vendor: Parker Baby Co.
   Product Type: Washcloths
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Washcloth1.jpg?v=1788419408
   Price: $19.00 USD
-- [Beach Bum Tank Twirl Dress](https://cuddlegrove.store/products/beach-bum-tank-twirl-dress): The perfect dress for school, special occasions, and everyday play! Designed by a mom and a dad. Mom wanted something twirly, comfortable and easy to wash. Dad wanted something easy to get on his chubby, big headed toddler. Designed with a scoop back for quick on and off, and higher neckline for modesty. Pair with Twirl Shorts or Leggings for the perfect everyday outfit. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T20:00:28Z
+- [Beach Bum Tank Twirl Dress: Fun, Comfort & Style for Little Girls](https://cuddlegrove.store/products/beach-bum-tank-twirl-dress): Twirl into joy with the Beach Bum Tank Twirl Dress! Perfect for playdates or outings, it’s comfy, stylish, and easy to wear. Grab yours today!
+  Updated: 2026-09-11T10:49:28Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - Tank
   Availability: Available
@@ -1206,8 +1206,8 @@
   - [9/10](https://cuddlegrove.store/products/beach-bum-tank-twirl-dress?variant=53944467521812)
     Availability: Available
     Price: $28.00 USD
-- [Penguin Party L/S Pocket Twirl Dress](https://cuddlegrove.store/products/penguin-party-l-s-pocket-twirl-dress): The perfect dress for school, special occasions, and everyday play! This dress is a staple in Mila’s wardrobe. Scoop back and ballet neckline make getting dressed a breeze. Full skirt makes twirling extra fun. Super soft fabric stays bright wash after wash. INSTRUCTIONS: Wear-Twirl-Repeat FIT & FABRIC & CARE: True to Size Polyester/Spandex Machine Wash / Tumble Dry
-  Updated: 2026-09-05T20:00:31Z
+- [Penguin Twirl Dress for Kids – Fun, Flowy, & Adorable Style!](https://cuddlegrove.store/products/penguin-party-l-s-pocket-twirl-dress): Discover the Penguin Twirl Dress for Kids! Perfect for any occasion, this delightful dress enhances playtime with twirls and comfort. Order now for joyful memories!
+  Updated: 2026-09-11T10:48:35Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - L/S - Pocket
   Availability: Available
@@ -1236,8 +1236,8 @@
   - [9/10](https://cuddlegrove.store/products/penguin-party-l-s-pocket-twirl-dress?variant=53944467783956)
     Availability: Available
     Price: $28.00 USD
-- [Snow Much Sunshine Flutter Sleeve Twirl Dress](https://cuddlegrove.store/products/snow-much-sunshine-flutter-sleeve-twirl-dress): The perfect dress for school, special occasions, and everyday play! Designed by a mom and a dad. Mom wanted something twirly, comfortable and easy to wash. Dad wanted something easy to get on his chubby, big headed toddler. Designed with a scoop back for quick on and off, and higher neckline for modesty. Pair with Twirl Shorts or Leggings for the perfect everyday outfit. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size 95% Polyester/5% Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T20:00:34Z
+- [Flutter Sleeve Twirl Dress: Stylish Comfort for Everyday Play](https://cuddlegrove.store/products/snow-much-sunshine-flutter-sleeve-twirl-dress): Twirl your way into fun with our Flutter Sleeve Twirl Dress! Perfect for playdate adventures with style and comfort your child will love.
+  Updated: 2026-09-11T14:22:27Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - Flutter
   Availability: Available
@@ -1266,8 +1266,8 @@
   - [9/10](https://cuddlegrove.store/products/snow-much-sunshine-flutter-sleeve-twirl-dress?variant=53944468046100)
     Availability: Available
     Price: $28.00 USD
-- [Cranberry Velvet Sequin Jacket](https://cuddlegrove.store/products/cranberry-velvet-sequin-jacket): A dazzling piece that will make your little one shine like a star! Perfect for both special occasions and everyday wear. Whether she is twirling, posing for photos, or simply embracing her inner fashionista, this sequin jacket is sure to make a statement. Let her sparkle and shine with confidence and style! Check out our Velvet Collection INSTRUCTIONS: Wear - Sparkle - Repeat FIT - FABRIC - CARE: True to Size (size up if you plan to layer for chilly months) Polyester Blend (exclusive of sequin trim) Hand Wash/Lay Flat to Dry
-  Updated: 2026-09-05T20:00:38Z
+- [Cranberry Velvet Sequin Jacket: Sparkle and Shine Daily!](https://cuddlegrove.store/products/cranberry-velvet-sequin-jacket): Elevate her style with the Cranberry Velvet Sequin Jacket. Perfect for any occasion, this luxurious jacket combines comfort and glamour for endless twirls and smiles!
+  Updated: 2026-09-11T10:46:58Z
   Vendor: Mila & Rose ®
   Product Type: Sequin Jacket
   Availability: Available
@@ -1293,8 +1293,8 @@
   - [11/12](https://cuddlegrove.store/products/cranberry-velvet-sequin-jacket?variant=53944468275476)
     Availability: Available
     Price: $40.00 USD
-- [Hit the Ice L/S Tutu Dress](https://cuddlegrove.store/products/hit-the-ice-l-s-tutu-dress): Perfect for the girl who likes to dress up every single day. Great for the entire holiday season, but comfortable for everyday play! Mila wears them everywhere, from the playground to Sunday school! INSTRUCTIONS: Wear - Twirl - Repeat FIT & FABRIC & CARE: True to Size 95% Polyester / 5% Spandex Machine Wash Delicate / Lay Flat to Dry
-  Updated: 2026-09-05T20:00:41Z
+- [Tutu Dress for Girls - Charming Hit the Ice L/S Tutu Dress](https://cuddlegrove.store/products/hit-the-ice-l-s-tutu-dress): Discover the Charming Hit the Ice L/S Tutu Dress for girls! Perfect for play and parties, this tutu dress offers style and comfort for your little fashionista.
+  Updated: 2026-09-11T10:52:54Z
   Vendor: Mila & Rose ®
   Product Type: Tutu Dress L/S
   Availability: Available
@@ -1320,8 +1320,8 @@
   - [7/8](https://cuddlegrove.store/products/hit-the-ice-l-s-tutu-dress?variant=53944471781652)
     Availability: Available
     Price: $28.00 USD
-- [Fall Watercolors L/S Tutu Dress](https://cuddlegrove.store/products/fall-watercolors-l-s-tutu-dress): Perfect for the girl who likes to dress up every single day. Great for special occasions, but comfortable for everyday play! Mila wears them everywhere, from the playground to Sunday school! INSTRUCTIONS: Wear - Twirl - Repeat FIT & FABRIC & CARE: True to Size 95% Polyester / 5% Spandex Machine Wash Delicate / Lay Flat to Dry
-  Updated: 2026-09-05T20:00:44Z
+- [Fall Watercolors Tutu Dress: Everyday Elegance for Little Girls](https://cuddlegrove.store/products/fall-watercolors-l-s-tutu-dress): Discover everyday elegance with our enchanting Fall Watercolors Tutu Dress. Perfect for play or special occasions, it's stylish, comfortable, and easy to care for!
+  Updated: 2026-09-13T01:09:24Z
   Vendor: Mila & Rose ®
   Product Type: Tutu Dress L/S
   Availability: Available
@@ -1347,8 +1347,8 @@
   - [7/8](https://cuddlegrove.store/products/fall-watercolors-l-s-tutu-dress?variant=53944472011028)
     Availability: Available
     Price: $28.00 USD
-- [Red Velvet L/S Tutu Leotard](https://cuddlegrove.store/products/red-velvet-l-s-tutu-leotard): Our Tutu Leotard is perfect for any little lady's dance class or birthday! Also adorable for everyday play. We've added extra layers to make this super full and fluffy. Simply separate the layers individually for maximum fluffiness! INSTRUCTIONS: Wear-Twirl-Repeat FIT & FABRIC & CARE: True to Size Polyester/Spandex Hand Wash or Wash in a Garment Bag/Lay Flat to Dry
-  Updated: 2026-09-05T20:00:48Z
+- [Red Velvet Tutu Leotard: Delight in Every Dance Moment](https://cuddlegrove.store/products/red-velvet-l-s-tutu-leotard): Discover the charm of our Red Velvet Tutu Leotard! Perfect fit, plush comfort, and fluffy layers make every dance moment magical. Shop now and let the twirling begin!
+  Updated: 2026-09-11T10:51:09Z
   Vendor: Mila & Rose ®
   Product Type: Tutu Leotard L/S
   Availability: Available
@@ -1374,8 +1374,8 @@
   - [7/8](https://cuddlegrove.store/products/red-velvet-l-s-tutu-leotard?variant=53944472240404)
     Availability: Available
     Price: $36.00 USD
-- [Harvest Florals L/S Tutu Dress](https://cuddlegrove.store/products/harvest-florals-l-s-tutu-dress): Perfect for the girl who likes to dress up every single day. Great for special occasions, but comfortable for everyday play! Mila wears them everywhere, from the playground to Sunday school! INSTRUCTIONS: Wear - Twirl - Repeat FIT & FABRIC & CARE: True to Size 95% Polyester / 5% Spandex Machine Wash Delicate / Lay Flat to Dry
-  Updated: 2026-09-05T20:00:51Z
+- [Harvest Florals Tutu Dress: Everyday Magic for Your Little One](https://cuddlegrove.store/products/harvest-florals-l-s-tutu-dress): Unleash everyday magic with our Harvest Florals Tutu Dress. Perfect for playdates or gatherings, this enchanting dress offers comfort and style for your little one.
+  Updated: 2026-09-12T22:34:01Z
   Vendor: Mila & Rose ®
   Product Type: Tutu Dress L/S
   Availability: Available
@@ -1402,7 +1402,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Botanical Beauty Leggings](https://cuddlegrove.store/products/botanical-beauty-leggings): Our leggings are perfect for layering under dresses and skirts. Our founders designed these leggings when they could not find the perfect pair for Mila. Everything was either cut too low in the waist or fit too baggy in the leg. *Leggings are high waisted for extra bum coverage and cut slimmer in the leg for a tight fit. INSTRUCTIONS: Wear-Twirl-Repeat FIT & FABRIC & CARE: Slim Fit Polyester/Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T20:00:54Z
+  Updated: 2026-09-11T21:00:31Z
   Vendor: Mila & Rose ®
   Product Type: Leggings
   Availability: Available
@@ -1423,7 +1423,7 @@
     Availability: Available
     Price: $12.00 USD
   - [5/6](https://cuddlegrove.store/products/botanical-beauty-leggings?variant=53944472862996)
-    Availability: Available
+    Availability: Not Available
     Price: $12.00 USD
   - [7/8](https://cuddlegrove.store/products/botanical-beauty-leggings?variant=53944472895764)
     Availability: Not Available
@@ -1432,10 +1432,10 @@
     Availability: Not Available
     Price: $12.00 USD
   - [11/12](https://cuddlegrove.store/products/botanical-beauty-leggings?variant=53944472961300)
-    Availability: Available
+    Availability: Not Available
     Price: $12.00 USD
 - [Bluebird S/S Ruffle Polo](https://cuddlegrove.store/products/bluebird-s-s-ruffle-polo): Classic meets cute with our girls' Ruffle Polo, designed to make everyday school style feel just a little more special. With a timeless polo silhouette and our signature feminine ruffle detail, this top is the perfect blend of polished and playful—just right for classroom days, picture day, and everything in between. Made from a soft, breathable knit, this girls’ uniform polo keeps her comfortable from morning drop-off to afternoon play. The structured collar gives a neat, uniform- look, while the subtle ruffle trim adds that extra Mila & Rose charm moms love and girls get excited to wear. Pair this ruffle polo with your favorite pieces from our uniform collection for an effortless, coordinated look. It’s especially cute with twirl skorts, skeggings, or layered under jumpers for cooler days. 💕 Why moms (and girls!) love it: Classic polo design with a sweet ruffle detail Soft, breathable fabric for all-day comfort Easy to mix and match with skirts, skorts, and leggings Holds its shape and color wash after wash Perfect for school uniforms, events, and everyday wear
-  Updated: 2026-09-05T20:00:58Z
+  Updated: 2026-09-08T20:38:37Z
   Vendor: Mila & Rose ®
   Product Type: S/S Ruffle Polo
   Availability: Available
@@ -1458,8 +1458,8 @@
   - [9/10](https://cuddlegrove.store/products/bluebird-s-s-ruffle-polo?variant=53944472666388)
     Availability: Available
     Price: $24.00 USD
-- [Swirly Whirly 3/4 Sleeve Pocket Twirl Dress](https://cuddlegrove.store/products/swirly-whirly-3-4-sleeve-pocket-twirl-dress): Twirl into something magical! The Swirly Whirly dress features playful 3/4 sleeves, a flowy skirt perfect for spinning, and a convenient pocket — because every great outfit needs one. Designed for those who love to move, this dress is as fun to wear as it is to say. Dress it up or keep it casual — either way, you're going to want to twirl. Super soft fabric stays bright wash after wash. INSTRUCTIONS: Wear-Twirl-Repeat FIT & FABRIC & CARE: True to Size Polyester/Spandex Machine Wash/Tumble Dry
-  Updated: 2026-09-05T20:01:01Z
+- [Swirly Whirly Twirl Dress for Ultimate Playtime Fun](https://cuddlegrove.store/products/swirly-whirly-3-4-sleeve-pocket-twirl-dress): Let your little one twirl in joy with the Swirly Whirly Twirl Dress! Perfect for playtime adventures, this comfy dress features a fun design and convenient pockets.
+  Updated: 2026-09-13T00:07:58Z
   Vendor: Mila & Rose ®
   Product Type: Twirl Dress - 3/4 - Pocket
   Availability: Available
@@ -1488,8 +1488,8 @@
   - [9/10](https://cuddlegrove.store/products/swirly-whirly-3-4-sleeve-pocket-twirl-dress?variant=53944473223444)
     Availability: Available
     Price: $28.00 USD
-- [Bubblegum Pink L/S Ruffle Pocket Tee](https://cuddlegrove.store/products/bubblegum-pink-l-s-ruffle-pocket-tee): Our Ruffle Pocket Tee is the perfect trendy basic. Boxy fit pairs great with leggings or shorts. Slightly cropped, but still long enough to cover the tummy. Great for casual days at school or the playground. Mila loves wearing this tee for her hip hop classes because it is trendy but still girly. INSTRUCTIONS: Wear-Twirl-Repeat FIT - FABRIC - CARE: True to Size Polyester/Spandex Machine Wash/Tumble Dry Low
-  Updated: 2026-09-05T20:01:05Z
+- [Bubblegum Pink Ruffle Pocket Tee: Comfort Meets Style](https://cuddlegrove.store/products/bubblegum-pink-l-s-ruffle-pocket-tee): Shop the Bubblegum Pink Ruffle Pocket Tee for a vibrant blend of style and comfort. Perfect for your active days, this tee elevates any outfit effortlessly.
+  Updated: 2026-09-11T10:53:43Z
   Vendor: Mila & Rose ®
   Product Type: Ruffle Pocket Tee-L/S
   Availability: Available
@@ -1518,31 +1518,1261 @@
   - [11/12](https://cuddlegrove.store/products/bubblegum-pink-l-s-ruffle-pocket-tee?variant=53944473485588)
     Availability: Available
     Price: $20.00 USD
-- [Small Business Daily Planner – Printable Template | Instant Download](https://cuddlegrove.store/products/small-business-daily-planner-printable-template): Stay organized and productive with this printable daily planner designed for small business owners. Instant download, print-ready, US Letter & A4.
-  Updated: 2026-09-05T20:01:08Z
+- [Small Business Daily Planner: Boost Your Productivity Today!](https://cuddlegrove.store/products/small-business-daily-planner-printable-template): Boost your productivity with the Small Business Daily Planner! Stay organized, track expenses, and conquer your daily goals with this printable template.
+  Updated: 2026-09-11T10:28:30Z
   Vendor: Cuddle Grove
   Product Type: Digital Download
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/image.png?v=1788492232
   Price: $9.99 USD
+- [Americana Baby Romper - Celebrate 4th of July in Style!](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july): Dress your baby in the Americana Baby Romper for a comfy, stylish 4th of July! Ideal for celebrations, this romper offers soft, eco-friendly comfort.
+  Updated: 2026-09-11T10:29:25Z
+  Vendor: Tesa Babe
+  Product Type: Rompers - Shorty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/BRITER11.jpg?v=1788731509
+  - [0-3M](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july?variant=53956556521748)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/239PRTIO.jpg?v=1788731509
+    Price: $18.00 USD
+  - [3-6M](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july?variant=53956556554516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/239PRTIO.jpg?v=1788731509
+    Price: $18.00 USD
+  - [6-9M](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july?variant=53956556587284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/239PRTIO.jpg?v=1788731509
+    Price: $18.00 USD
+  - [9-12M](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july?variant=53956556620052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/239PRTIO.jpg?v=1788731509
+    Price: $18.00 USD
+  - [12-18M](https://cuddlegrove.store/products/americana-bamboo-short-baby-romper-4th-of-july?variant=53956556652820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/239PRTIO.jpg?v=1788731509
+    Price: $18.00 USD
+- [Twirl Dress for Girls - Painted Skies 3/4 Sleeve Fun Fashion](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress): Unleash creativity with our Painted Skies 3/4 Sleeve Pocket Twirl Dress for girls. Perfect for playdates and special occasions. Easy care and endless twirling fun!
+  Updated: 2026-09-12T18:38:07Z
+  Vendor: Mila & Rose ®
+  Product Type: Twirl Dress - 3/4 - Pocket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Painted-Skies-34-Sleeve-Pocket-Twirl-Dress-Mila-Rose.jpg?v=1788731532
+  - [6-12M](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556751124)
+    Availability: Available
+    Price: $28.00 USD
+  - [12-24M](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556783892)
+    Availability: Available
+    Price: $28.00 USD
+  - [2T](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556816660)
+    Availability: Available
+    Price: $28.00 USD
+  - [3T](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556849428)
+    Availability: Available
+    Price: $28.00 USD
+  - [4T](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556882196)
+    Availability: Available
+    Price: $28.00 USD
+  - [5/6](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556914964)
+    Availability: Available
+    Price: $28.00 USD
+  - [7/8](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556947732)
+    Availability: Available
+    Price: $28.00 USD
+  - [9/10](https://cuddlegrove.store/products/painted-skies-3-4-sleeve-pocket-twirl-dress?variant=53956556980500)
+    Availability: Available
+    Price: $28.00 USD
+- [Happy Days Twirl Dress - Comfort & Style for Every Occasion](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress): Shop the Happy Days Twirl Dress for ultimate comfort and style! Perfect for playdates or special occasions. Easy to wear, easy to care for, and endlessly twirl-worthy!
+  Updated: 2026-09-13T02:06:48Z
+  Vendor: Mila & Rose ®
+  Product Type: Twirl Dress - 3/4 - Pocket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Happy-Days-34-Pocket-Twirl-Dress-Mila-Rose.jpg?v=1788731555
+  - [6-12M](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557046036)
+    Availability: Available
+    Price: $28.00 USD
+  - [12-24M](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557078804)
+    Availability: Available
+    Price: $28.00 USD
+  - [2T](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557111572)
+    Availability: Available
+    Price: $28.00 USD
+  - [3T](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557144340)
+    Availability: Available
+    Price: $28.00 USD
+  - [4T](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557177108)
+    Availability: Available
+    Price: $28.00 USD
+  - [5/6](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557209876)
+    Availability: Available
+    Price: $28.00 USD
+  - [7/8](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557242644)
+    Availability: Available
+    Price: $28.00 USD
+  - [9/10](https://cuddlegrove.store/products/happy-days-3-4-pocket-twirl-dress?variant=53956557275412)
+    Availability: Not Available
+    Price: $28.00 USD
+- [Organic Cotton Kids Tee - Enjoy Comfort & Style with Good Times Cafe](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal): Dress your child in joy! The Organic Cotton Kids Tee: The Good Times Cafe Tee - Coal offers comfort and style, perfect for every little adventure.
+  Updated: 2026-09-11T10:32:05Z
+  Vendor: LITTLE RAD THINGS
+  Product Type: Baby & Toddler Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/the-good-times-cafe-tee-coal-little-rad-things-6134237.jpg?v=1788731571
+  - [12/18M](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557308180)
+    Availability: Available
+    Price: $24.00 USD
+  - [18/24M](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557340948)
+    Availability: Available
+    Price: $24.00 USD
+  - [2/3T](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557373716)
+    Availability: Available
+    Price: $24.00 USD
+  - [3/4T](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557406484)
+    Availability: Available
+    Price: $24.00 USD
+  - [5/6T](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557439252)
+    Availability: Available
+    Price: $24.00 USD
+  - [7/8Y](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557472020)
+    Availability: Available
+    Price: $24.00 USD
+  - [9/10Y](https://cuddlegrove.store/products/the-good-times-cafe-tee-coal?variant=53956557504788)
+    Availability: Available
+    Price: $24.00 USD
+- [Pink Twirl Dress for Kids – Fun, Comfort, and Style for Any Occasion](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress): Discover the Charming Pink Twirl Dress for Kids! Perfect for all occasions, this stylish dress combines comfort and fun, making every day a twirling adventure.
+  Updated: 2026-09-11T21:40:06Z
+  Vendor: Mila & Rose ®
+  Product Type: Twirl Dress - S/S - Pocket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/milaandrose.december.wildoak-420.jpg?v=1788731623
+  - [6-12M](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557537556)
+    Availability: Not Available
+    Price: $28.00 USD
+  - [12-24M](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557570324)
+    Availability: Not Available
+    Price: $28.00 USD
+  - [2T](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557603092)
+    Availability: Available
+    Price: $28.00 USD
+  - [3T](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557635860)
+    Availability: Available
+    Price: $28.00 USD
+  - [4T](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557668628)
+    Availability: Available
+    Price: $28.00 USD
+  - [5/6](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557701396)
+    Availability: Available
+    Price: $28.00 USD
+  - [7/8](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557734164)
+    Availability: Available
+    Price: $28.00 USD
+  - [9/10](https://cuddlegrove.store/products/pink-ranch-hand-s-s-pocket-twirl-dress?variant=53956557766932)
+    Availability: Not Available
+    Price: $28.00 USD
+- [Twirl Dress for Kids - Adorable Azalea Style & Comfort](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress): Discover the Twirl Dress for Kids – a vibrant Azalea dress designed for comfort and fun! Perfect for twirling and easy to care for, making dress-up a delight.
+  Updated: 2026-09-13T02:57:37Z
+  Vendor: Mila & Rose ®
+  Product Type: Twirl Dress - 3/4 - Pocket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Azalea-34-Sleeve-Pocket-Twirl-Dress-Mila-Rose.jpg?v=1788731678
+  - [6-12M](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956557898004)
+    Availability: Available
+    Price: $28.00 USD
+  - [12-24M](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956557930772)
+    Availability: Available
+    Price: $28.00 USD
+  - [2T](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956557963540)
+    Availability: Available
+    Price: $28.00 USD
+  - [3T](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956557996308)
+    Availability: Available
+    Price: $28.00 USD
+  - [4T](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956558029076)
+    Availability: Available
+    Price: $28.00 USD
+  - [5/6](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956558061844)
+    Availability: Available
+    Price: $28.00 USD
+  - [7/8](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956558094612)
+    Availability: Available
+    Price: $28.00 USD
+  - [9/10](https://cuddlegrove.store/products/azalea-3-4-sleeve-pocket-twirl-dress?variant=53956558127380)
+    Availability: Not Available
+    Price: $28.00 USD
+- [Unicorn Kitties Dress: Perfect Twirl Dress for Imaginative Play](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress): Discover the magical Unicorn Kitties Dress—perfect for twirling and adventures. Comfort and style come together for your little one's imagination to shine!
+  Updated: 2026-09-12T11:47:12Z
+  Vendor: Mila & Rose ®
+  Product Type: Twirl Dress - 3/4 - Pocket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Unicorn-Kitties-34-Sleeve-Pocket-Twirl-Dress-Mila-Rose.jpg?v=1788731709
+  - [6-12M](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558258452)
+    Availability: Not Available
+    Price: $28.00 USD
+  - [12-24M](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558291220)
+    Availability: Available
+    Price: $28.00 USD
+  - [2T](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558323988)
+    Availability: Available
+    Price: $28.00 USD
+  - [3T](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558356756)
+    Availability: Available
+    Price: $28.00 USD
+  - [4T](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558389524)
+    Availability: Available
+    Price: $28.00 USD
+  - [5/6](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558422292)
+    Availability: Not Available
+    Price: $28.00 USD
+  - [7/8](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558455060)
+    Availability: Not Available
+    Price: $28.00 USD
+  - [9/10](https://cuddlegrove.store/products/unicorn-kitties-3-4-sleeve-pocket-twirl-dress?variant=53956558487828)
+    Availability: Available
+    Price: $28.00 USD
+- [Toddler Tower Step Stool: Empower Your Child’s Independence](https://cuddlegrove.store/products/toddler-tower-foldable-step-stool-for-toddlers-beige): Empower your child with our Toddler Tower Step Stool, promoting independence safely during everyday activities. Perfect for learning and fun!
+  Updated: 2026-09-12T14:27:36Z
+  Vendor: Goodevas
+  Product Type: Toddler Tower
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/toddler-tower-foldable-step-stool-for-toddlers-beige-8335480.jpg?v=1788731730
+  Price: $99.00 USD
+- [Toddler Step Stool: Boost Independence with Safe, Versatile Design](https://cuddlegrove.store/products/2-step-wooden-stool-for-toddlersstep-stool-for-children-ages-2): Boost your child's confidence with our safe and sturdy toddler step stool. Perfect for everyday use, it ensures secure footing and freedom to explore!
+  Updated: 2026-09-13T00:50:13Z
+  Vendor: Ocodile.com
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/1-gray.jpg?v=1788731753
+  - [Gray](https://cuddlegrove.store/products/2-step-wooden-stool-for-toddlersstep-stool-for-children-ages-2?variant=53956558717204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/1-gray.jpg?v=1788731753
+    Price: $39.99 USD
+  - [White](https://cuddlegrove.store/products/2-step-wooden-stool-for-toddlersstep-stool-for-children-ages-2?variant=53956558749972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/1-white.jpg?v=1788731753
+    Price: $39.99 USD
+  - [Varnished](https://cuddlegrove.store/products/2-step-wooden-stool-for-toddlersstep-stool-for-children-ages-2?variant=53956558782740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2-Wooden_Step_Stool_Varnished_92af5c63-4880-42c4-b6bf-2398fa16d814.jpg?v=1788731753
+    Price: $39.99 USD
+- [Toddler Tower with Safety Door: Safe Play for Growing Kids](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door): Unlock your child's potential with the Toddler Tower with Safety Door, designed for safe exploration and fun learning experiences in your home.
+  Updated: 2026-09-13T02:31:43Z
+  Vendor: Ocodile.com
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/OC61_Profile_Image.jpg?v=1788731773
+  - [Gray](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door?variant=53956558848276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/OC61_Profile_Image.jpg?v=1788731773
+    Price: $129.99 USD
+  - [White](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door?variant=53956558881044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Profile-White.jpg?v=1788731773
+    Price: $129.99 USD
+  - [Varnished](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door?variant=53956558913812)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Profile-varnished.jpg?v=1788731773
+    Price: $129.99 USD
+  - [Green](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door?variant=53956558946580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ToddlerTowerwithDoor.jpg?v=1788731773
+    Price: $129.99 USD
+  - [Ivory](https://cuddlegrove.store/products/standing-toddler-tower-with-sliding-safety-door?variant=53956558979348)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Standing_Toddler_Tower_with_Extra_Safety_Door_b0addd5b-8a75-455e-8e77-7c3ce2d2011c.jpg?v=1788731773
+    Price: $129.99 USD
+- [Double Stroller Wagon - Momfann 4-in-1 Family Adventure Companion](https://cuddlegrove.store/products/momfann-double-stroller-wagon): Discover the Momfann Double Stroller Wagon - the 4-in-1 family companion for versatile, safe, and comfortable adventures with your kids on the go!
+  Updated: 2026-09-12T23:39:18Z
+  Vendor: Momfann
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/MomfannDoubleStrollerWagon-03.jpg?v=1788731797
+  - [Lavender Blue](https://cuddlegrove.store/products/momfann-double-stroller-wagon?variant=53956559372564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/MomfannDoubleStrollerWagon-03.jpg?v=1788731797
+    Price: $149.99 USD
+  - [Meadow Green](https://cuddlegrove.store/products/momfann-double-stroller-wagon?variant=53956559405332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_Double_Stroller_Wagon-Meadow_Green-09.jpg?v=1788731797
+    Price: $139.99 USD
+  - [Gray](https://cuddlegrove.store/products/momfann-double-stroller-wagon?variant=53956559438100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_StrollerWagon__for_Kids_2-Seater_All_Terrain_Baby_Wagon-gray.jpg?v=1788731797
+    Price: $168.99 USD
+  - [Brown](https://cuddlegrove.store/products/momfann-double-stroller-wagon?variant=53956559470868)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Stroller_001.jpg?v=1788731797
+    Price: $168.99 USD
+- [All-Terrain Baby Wagon: Comfort & Quality for Family Adventures](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon): Explore the All-Terrain Baby Wagon by Momfann. Perfect for outdoor adventures, offering comfort, safety, and ample storage for your kids. Shop now and enjoy free shipping!
+  Updated: 2026-09-13T02:53:47Z
+  Vendor: Momfann
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_StrollerWagon__for_Kids_2-Seater_All_Terrain_Baby_Wagon-blue.jpg?v=1788731825
+  - [Gray](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon?variant=53956559569172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_StrollerWagon__for_Kids_2-Seater_All_Terrain_Baby_Wagon-gray_8be60abc-c81f-4678-99f0-8a92078bfb8a.jpg?v=1788731825
+    Price: $119.99 USD
+  - [Brown](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon?variant=53956559536404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Stroller_001_411e7d6b-8e00-4b94-84de-c64b4545b1cf.jpg?v=1788731825
+    Price: $129.99 USD
+  - [Purple](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon?variant=53956559601940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/74b96dbb2d19db9758ba306fc55ad040.jpg?v=1788731825
+    Price: $124.99 USD
+  - [Dark Blue](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon?variant=53956559503636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_StrollerWagon__for_Kids_2-Seater_All_Terrain_Baby_Wagon-blue.jpg?v=1788731825
+    Price: $129.99 USD
+  - [4 Seater](https://cuddlegrove.store/products/momfann-stroller-wagon-for-kids-2-seater-all-terrain-baby-wagon?variant=53956559634708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Momfann_4_Seater_Kids_Stroller_Wagon-s-01.jpg?v=1788731825
+    Price: $254.99 USD
+- [Parker Bandana Bib Set: Stylish & Absorbent for Your Baby](https://cuddlegrove.store/products/parker-bandana-bib-set): Keep your baby stylish and dry with the Parker Bandana Bib Set. Featuring absorbent fabrics and adjustable snaps, it's perfect for teething and mealtime messes!
+  Updated: 2026-09-12T04:48:50Z
+  Vendor: Parker Baby Co.
+  Product Type: Baby Bibs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ParkerBandanaBIb-POW-1600.jpg?v=1788731839
+  Price: $13.00 USD
+- [Golf Jacquard Knit Baby Blanket](https://cuddlegrove.store/products/golf-jacquard-knit-baby-blanket): Most themed nursery decor is an eyesore of aggressive prints and cheap synthetic materials. If you are building a timeless, preppy space or looking for a personalized baby gift that won't end up forgotten in a closet, this golf baby blanket delivers the perfect balance of heritage charm and safety. Beautifully woven in a subtle country club style, it transitions flawlessly from morning stroller walks to a stylish throw on the nursery glider. We cut out the toxic chemical flame retardants and low-grade fibers common in mass-market textiles. Instead, this piece relies on the weight and pure breathability of organic cotton to naturally calm your infant. Explore our full curation of Baby Essentials to discover pieces engineered for infant health and parental sanity. Why Mom Loves It: Specification Details Why Mom Loves It Design Theme Classic Sport Golf Perfect for a clean, sophisticated sport theme nursery without aggressive, cartoonish prints. Customizable Heirloom Weave Style Works perfectly inside a curated baby blanket gift set or paired with monogramming for a personalized touch. Material 100% Premium Pure Cotton Buttery soft, highly breathable weave that completely avoids the synthetic sweaty feeling of polyester minky. Safety Zero Toxic Chemical Retardants Exceeds ASTM F963 standards; zero chemical treatments to protect sensitive, eczema-prone skin. Care Machine Washable & Pre-shrunk Colorfast and handles the inevitable spit-up blowout without shrinking or losing its structural shape. Best For All-Season Stroller & Nursery Heavy enough to cut a brisk morning wind on the golf cart but breathable enough for a summer afternoon nap.
+  Updated: 2026-09-13T02:12:07Z
+  Vendor: SwaddleAn
+  Product Type: Jacquard Knit Blankets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddleANGolfJacquardKnitBlanket1.webp?v=1788731912
+  - [Golf / 30"x40"](https://cuddlegrove.store/products/golf-jacquard-knit-baby-blanket?variant=53956559798548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddleANGolfJacquardKnitBlanket3.webp?v=1788731912
+    Price: $44.95 USD
+  - [Golf / 40"x60"](https://cuddlegrove.store/products/golf-jacquard-knit-baby-blanket?variant=53956559831316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddleANGolfJacquardKnitBlanket3.webp?v=1788731912
+    Price: $68.95 USD
+- [BodyBib™ Full-Coverage Baby & Toddler Bib](https://cuddlegrove.store/products/bodybib™-full-coverage-baby-toddler-bib): A full-coverage baby and toddler bib for seriously messy meals.Regular bibs cover the chest. The BodyBib™ goes much farther, helping protect a baby or toddler's clothes from chest to ankle during self-feeding, baby-led weaning, daycare meals, and the wonderfully chaotic foods that somehow end up everywhere.Created by a childcare provider who needed a faster way to handle messy meals, the BodyBib™ helps cut down on outfit changes, stain scrubbing, and the cleanup that comes after a little one feeds themselves.Why the BodyBib™ is different Chest-to-ankle coverage helps protect clothing, laps, and legs from spills and splatters. Open-back design makes it quick to put on and take off. Snap closures mean no Velcro collecting crumbs and fuzz. Lightweight and wipeable for easier cleanup after meals. Machine washable when the mess deserves the full . Made for caregivers at home, in daycare, and in childcare programs. Great for messy eaters and self-feedingUse the BodyBib™ for baby-led weaning, finger foods, purees, pasta, yogurt, oatmeal, berries, sauces, and other meals that regular bibs were never emotionally prepared for.More than a feeding bibThe BodyBib™ can also help protect clothes during painting, crafts, sensory play, and other messy activities.BodyBib™ FAQWhat does the BodyBib™ cover?The BodyBib™ provides full coverage from the chest down to the ankles, helping keep food and mess off clothing during meals and activities.Who is the BodyBib™ for?It is designed for self-feeding babies and toddlers and is especially useful for parents, daycare providers, and childcare programs managing messy meals.Is the BodyBib™ good for baby-led weaning?Yes. Its extended coverage makes it useful for messy self-feeding foods and baby-led weaning meals where food often lands well beyond a standard bib.Is the BodyBib™ machine washable?Yes. It is machine washable and can also be wiped down between lighter messes.Can I use it for crafts and sensory play?Yes. The full-coverage design also works well for painting, crafts, and messy sensory activities.Messy meals are not going anywhere. Make cleanup easier with the BodyBib™.
+  Updated: 2026-09-07T13:06:39Z
+  Vendor: BodyBibShop
+  Product Type: Baby & Toddler Bibs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ChatGPT_Image_Feb_10_2026_08_09_39_PM_1f6a473d-b5d9-4ce1-9f1c-1ac6fa84433f.png?v=1788731927
+  - [Purple](https://cuddlegrove.store/products/bodybib™-full-coverage-baby-toddler-bib?variant=53956559896852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ChatGPT_Image_Feb_10_2026_08_09_39_PM_1f6a473d-b5d9-4ce1-9f1c-1ac6fa84433f.png?v=1788731927
+    Price: $24.99 USD
+  - [Blue](https://cuddlegrove.store/products/bodybib™-full-coverage-baby-toddler-bib?variant=53956559929620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ChatGPTImageFeb11_2026_12_01_51PM_09758b37-6d1f-424b-ae1e-ee7545c235e3.png?v=1788731928
+    Price: $24.99 USD
+- [The Tuttle Toddlers 123s of Innovation](https://cuddlegrove.store/products/the-tuttle-toddlers-123s-of-innovation): Embark on a journey of wonder and discovery with ‘The Tuttle Toddlers 123s of Innovation’! Delightfully illustrated and thoughtfully crafted, this book ignites young minds with the magic of creativity and the power of human ingenuity. Watch as your little one’s imagination soars while exploring the amazing innovations that shape our world. It’s not just a book—it’s a gateway to a world of endless possibilities!
+  Updated: 2026-09-12T22:47:27Z
+  Vendor: The Tuttle Twins
+  Product Type: Print Book
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/the-tuttle-toddlers-123s-of-innovation1200-Photoroom.png-Photoroom.webp?v=1788731974
+  Price: $7.99 USD
+- [Dibly Amber - Baltic Amber & Natural Rubber Dinosaur Teether with Toothbrush Tail](https://cuddlegrove.store/products/dibly-amber-baltic-amber-natural-rubber-dinosaur-teether-with-toothbrush-tail): Dibly - Baltic Amber and Natural Rubber Dinosaur Teether with Toothbrush Tail ALL-NATURAL COMPOSITION - Dibly is crafted from 100% natural materials, combining the soothing properties of Baltic amber with sustainably sourced natural rubber. This eco-friendly teething toy is completely free from artificial additives, fragrances, masking agents, or flavorings, offering a pure and safe experience for your baby's sensitive gums. ANCIENT WISDOM MEETS MODERN DESIGN - Our teether harnesses the time-honored benefits of Baltic amber and natural rubber, materials treasured for centuries across Europe and Asia, in a contemporary, child-friendly design. INNOVATIVE 2-IN-1 FUNCTIONALITY - The award-winning Dibly features a clever dual-purpose design. The dinosaur body provides relief for sore gums, while the toothbrush tail introduces early dental hygiene habits, making it more than just a teether. BABY-FRIENDLY ERGONOMICS - Thoughtfully shaped for little hands, this dinosaur teether is easy for infants to grasp and explore. Various textures across the design encourage tactile discovery and provide different soothing surfaces for tender gums. PERFECT GIFT FOR NEW PARENTS - Elegantly packaged, Dibly makes an impressive and practical baby shower gift. It's not just a teether, but a playful dental tool that new parents will appreciate for its functionality and all-natural composition. UNIVERSALLY APPEALING DESIGN - With its charming dinosaur shape and eco-conscious craftsmanship, Dibly appeals to all babies regardless of gender. It ensures a delightful teething experience while gently introducing early dental care habits.
+  Updated: 2026-09-12T15:57:08Z
+  Vendor: Bambeado
+  Product Type: Baby Teething Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/BamBamArrows_8.png?v=1788731992
+  Price: $24.90 USD
+- [Dune Set - Muslin Burp Cloths (4 Pack)](https://cuddlegrove.store/products/dune-set-muslin-burp-cloths-4-pack): Spit up, milk dribbles, snack-time chaos… It all adds up fast. And when you’re already juggling everything, you need burp cloths that actually keep up. These are the ones you’ll reach for all day. Made with 6 layers of 100% muslin cotton, our burp cloths are designed to handle real-life messes with ease. They’re soft on your baby’s skin, highly absorbent when it matters most, and oversized so you’re not constantly reaching for a new one. Because the little things, like having a burp cloth that actually works, make your day feel a whole lot easier. Designed for the Messy Moments You Didn’t Plan For From middle-of-the-night feeds to on-the-go diaper bag changes, these burp cloths are ready when you need them. Each cloth is thoughtfully designed to give you more coverage and fewer swaps throughout the day: Oversized at 11" x 20" to catch more mess in one go Perfect for your shoulder, lap, or diaper bag 4-pack means you’ll always have a clean one within reach Soft Enough for Sensitive Skin When something touches your baby’s face all day, it needs to feel just right. Our muslin cotton is made to be gentle where it matters most: Buttery soft from the very first use Ideal for delicate, sensitive skin Breathable and lightweight, even with multiple layers No rough textures. No stiffness. Just softness you can trust, every time you reach for it. Absorbent Where It Matters With 6 layers of muslin cotton, these burp cloths are made to quickly soak up spit up, drool, and everyday spills without soaking through. Less outfit changes, less stress, and more confidence that you’re covered. Made for Real Life (and Real Laundry) Just toss them in the wash and reuse again and again. They hold up beautifully and get even softer over time, making them a staple you’ll rely on from newborn days and beyond. A Simple Essential You’ll Use Everywhere Keep one in your diaper bag, one by your nursing chair, one in the car, and one within arm’s reach at home. You’ll find yourself reaching for them all day long: Burping and feeding Wiping little faces and hands Catching spills at the table Everyday cleanups you didn’t see coming Add to cart when you're ready to make everyday messes a little easier!
+  Updated: 2026-09-13T02:11:00Z
+  Vendor: Parker Baby Co.
+  Product Type: Burp Cloths
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Dune-Burp-Cloths-stagger-1600.jpg?v=1788731998
+  Price: $24.00 USD
+- [Little bamBAM Baby Teething Toy - Magenta](https://cuddlegrove.store/products/little-bambam-baby-teething-toy-magenta): SAVE YOUR SANITY - When your wee bubby is teething the whole household can be put under STRESS, lots and lots of it! Our Little bamBam teether toys can help reduce that stress for all, allowing you to enjoy this wonderful period with your child rather than wishing it away. PROVIDE RELIEF FOR BUBBIES SORE GUMS - All babies instinctively want to chew on whatever they can get their little hands on when the teeth start to push through. Made from soft, chewable, baby-safe silicone, Little bamBAM baby teether toys are the perfect texture for those tender gums – we call it the Goldilocks Zone, not too hard and not too soft, just perfect. MOST HYGIENIC OPTION FOR YOUR BABY - Nearly every Baby Teether on the market has joins or cracks in it, Bambeado teethers do not. It is s a single molded product, so there is NO WHERE FOR BACTERIA TO ACCUMULATE AND MOLD TO GROW.  BPA Free, PVC Free, Lead Free. LOTS OF COLOR, LOTS OF TEXTURE - The ears, legs and horns are just the right size for little hands to hold and the bright color will help stimulate your baby.
+  Updated: 2026-09-09T02:58:51Z
+  Vendor: Bambeado
+  Product Type: Baby Teething Toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Silicone-Baby-Teething_Toy-Bambam-15cm-Magenta-awards-NEW_alone.jpg?v=1788732004
+  Price: $14.90 USD
+- [(No Fragrance) Super Sensitive™ Shampoo & Bodywash](https://cuddlegrove.store/products/no-fragrance-super-sensitive™-shampoo-bodywash): A wash so gentle, many hospitals use it in their pediatric intensive care units. And with zero scent-masking or clear-formula agents that can cause irritation, our super-sensitive formula is perfect for baby’s first bath. Our long-lasting wash is a safe, 100% plant-based option for the whole family. No harsh chemicals make it ideal for those with sensitive skin, chemical sensitivities or allergy concerns. Its cleansing power comes from  organic soap bark and plant-based glucosides, which clean without irritating or drying the skin. Meanwhile,  organic calendula and aloe vera further soothe and moisturize the skin. This new Shampoo & Bodywash formula features our exclusive, 100% plant-based preservative system that we developed after 6 years of research and development. This first-of-its-kind preservative system includes isolates of basil and anise (not essential oils) and is exclusive to California Baby products! Learn more here. Our entire Super Sensitive collection has no added fragrance and is recommended for newborns, and those with scent sensitivities, and during pregnancy. Save over 15% by purchasing a half gallon! (compared to 8.5oz price per oz) Tested & ! Our new Shampoo & Bodywash formulations have achieved 100% bio-based USDA certification. This means every ingredient in our Shampoos & Bodywashes (excluding water) is plant-based! No petrochemical synthetics!
+  Updated: 2026-09-13T02:34:18Z
+  Vendor: California Baby
+  Product Type: Shampoo & Bodywash
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/8-5_Super-Sensitive-sbw.jpg?v=1788732011
+  - [8.5oz/251mL](https://cuddlegrove.store/products/no-fragrance-super-sensitive™-shampoo-bodywash?variant=53956560158996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/8-5_Super-Sensitive-sbw.jpg?v=1788732011
+    Price: $12.99 USD
+  - [19oz/562mL](https://cuddlegrove.store/products/no-fragrance-super-sensitive™-shampoo-bodywash?variant=53956560191764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/19_Super-Sensitive-sbw.jpg?v=1788732011
+    Price: $25.99 USD
+  - [64oz/half gallon](https://cuddlegrove.store/products/no-fragrance-super-sensitive™-shampoo-bodywash?variant=53956560224532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/super_sensitive_SBW_half_gallon.jpg?v=1788732011
+    Price: $79.99 USD
+  - [2oz/59mL](https://cuddlegrove.store/products/no-fragrance-super-sensitive™-shampoo-bodywash?variant=53956560257300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2_SuperSensitive-ShampooBodywash-2019_4200536c-0df8-4b00-9b35-427be79da7af.jpg?v=1788732011
+    Price: $2.99 USD
+- [Baby Lotion Naturally Unscented](https://cuddlegrove.store/products/baby-lotion-naturally-unscented): Give your baby's delicate skin the gentle care it deserves with our unscented lotion. This specially formulated lotion is free of harsh chemicals and fragrances, making it perfect for even the most sensitive skin. Our unscented lotion is perfect for: Newborns: Our gentle formula is perfect for soothing and protecting your baby's delicate skin. Babies with dry or sensitive skin: Our lotion helps moisturize and hydrate dry skin. Adults that prefer unscented products: Our lotion is gentle enough for delicate skin. Product Weight: 8oz
+  Updated: 2026-09-10T04:10:18Z
+  Vendor: Poofy Organics
+  Product Type: Body
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/babyunscentedlotion.jpg?v=1788732017
+  Price: $25.00 USD
+- [Indestructibles: Love You, Baby: Chew Proof - Rip Proof - Nontoxic - 100% Washable (Book for Babies, Newborn Books, Safe to Chew) - Paperback](https://cuddlegrove.store/products/indestructibles-love-you-baby-chew-proof-rip-proof-nontoxic-100-washable-book-for-babies-newborn-books-safe-to-chew-paperback): Report copyright infringementby Stephan Lomp (Illustrator), Amy Pixton (Created by)Show baby loads of love in a book that's indestructible! Baby loves hugs. Just like baby kitty! Baby loves nuzzles. Just like baby bunny! Baby loves snuggles. Just like baby piggy! Indestructibles is the trusted series for easing little ones into story time. Beloved by babies and their parents, Indestructibles are built for the way babies "read" (i.e., with their hands and mouths) and are: Rip Proof--made of ultra-durable tight-woven material Waterproof--can be chewed on, drooled on, and washed! Emergent Literacy Tool--bright pictures and few or no words encourage dialogic reading Portable--lightweight books can go anywhere, perfect for the diaper bag and for travel Safe for Baby--meets ASTM safety standards Back JacketBooks babies can really sink their gums into! Baby loves hugs. Just like baby kitty! Baby loves nuzzles. Just like baby bunny! Baby loves snuggles. Just like baby piggy! Show baby loads of love in a book that's INDESTRUCTIBLE. Dear Parents: INDESTRUCTIBLES are built for the way babies "read" with their hands and mouths. INDESTRUCTIBLES won't rip or tear and are 100% washable. They're made for baby to hold, grab, chew, pull, and bend.Author BiographyStephan Lomp has been writing and illustrating books with publishers in Germany, the UK, France, Spain, and the United States since 1996. He lives with his family in Düsseldorf, Germany. Amy Pixton, a mother of triplets, created Indestructibles after bits of traditional board books found their way into her babies' mouths. Amy lives in Kansas City with her husband and their three children. Number of Pages: 12 Dimensions: 0.1 x 6.8 x 6.7 IN Illustrated: Yes Publication Date: August 08, 2017
+  Updated: 2026-09-08T06:49:56Z
+  Vendor: Books by splitShops
+  Product Type: Books
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/mTsL0GOgWk9781523501229.webp?v=1788732022
+  Price: $5.99 USD
+- [Baby Everything Soap Naturally Unscented](https://cuddlegrove.store/products/baby-everything-soap-naturally-unscented): Baby Everything Soap is a naturally unscented, multi-purpose liquid soap created for babies, children, and anyone who prefers a simple, fragrance-free cleanser. Use it as a baby shampoo, body wash, hand soap, bubble bath, or gentle facial cleanser for an easy everyday routine. Made with plant-based cleansing ingredients, organic vegetable glycerin, and organic apple cider vinegar, it gently cleanses while helping skin and hair feel soft and refreshed. Its simple formula makes it an excellent choice for families looking for one versatile cleanser without added fragrance. Naturally unscented for babies and sensitive skin One gentle formula for hair, hands, body, bath, and face Made with plant-based cleansing ingredients, Product Weight: 16 oz
+  Updated: 2026-09-09T03:32:56Z
+  Vendor: Poofy Organics
+  Product Type: Bath
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ES_babypoof.jpg?v=1788732027
+  Price: $37.00 USD
+- [Besitos Organic Baby Bodysuit](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit): Made for all the little kisses. Our Besitos organic cotton baby bodysuit is a darling way to celebrate snuggles, cuddles, and baby love. Thoughtfully crafted in the USA from luxuriously soft, breathable organic cotton that’s gentle on sensitive skin. Featuring a lap-shoulder neckline and nickel-free snaps for quick changes, it’s perfect for everyday wear, milestone photos, and gifting to Spanish-speaking families or anyone who loves a little bilingual charm.
+  Updated: 2026-09-12T20:23:47Z
+  Vendor: Tenth & Pine
+  Product Type: Bodysuits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Shopify_Images_25.png?v=1788732032
+  - [Black / 0-3M](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit?variant=53956560421140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/organic-cotton-bodysuit-besitos-264223.jpg?v=1788732031
+    Price: $30.00 USD
+  - [Black / 3-6M](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit?variant=53956560453908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/organic-cotton-bodysuit-besitos-264223.jpg?v=1788732031
+    Price: $30.00 USD
+  - [Black / 6-12M](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit?variant=53956560486676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/organic-cotton-bodysuit-besitos-264223.jpg?v=1788732031
+    Price: $30.00 USD
+  - [Black / 12-18M](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit?variant=53956560519444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/organic-cotton-bodysuit-besitos-264223.jpg?v=1788732031
+    Price: $30.00 USD
+  - [Black / 18-24M](https://cuddlegrove.store/products/besitos-organic-baby-bodysuit?variant=53956560552212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/organic-cotton-bodysuit-besitos-264223.jpg?v=1788732031
+    Price: $30.00 USD
+- [Pro Baby Monitor (Long Range)](https://cuddlegrove.store/products/pro-baby-monitor-long-range)
+  Updated: 2026-09-07T19:13:47Z
+  Vendor: Sense-U
+  Product Type: Pro Baby
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Sense-U_ProBB-Long_Range-1-Main-Dark_07768f6b-3623-4cd1-aecd-89fe307713e2.jpg?v=1788732037
+  - [Long Range](https://cuddlegrove.store/products/pro-baby-monitor-long-range?variant=53956560584980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Sense-U_ProBB-Long_Range-1-Main-Dark_07768f6b-3623-4cd1-aecd-89fe307713e2.jpg?v=1788732037
+    Price: $199.99 USD
+  - [Bundle](https://cuddlegrove.store/products/pro-baby-monitor-long-range?variant=53956560617748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Sense-U_Pro_Bundle-1-Main-Post_Dark-1.jpg?v=1788732037
+    Price: $299.99 USD
+- [Baby Eczema Relief Balm](https://cuddlegrove.store/products/baby-eczema-relief-balm): Soothing Moisture for Dry, Sensitive & Eczema-Prone Skin Dry, irritated skin can flare up fast — especially for babies and toddlers with sensitive or eczema-prone skin. Our Baby Eczema Relief Balm was thoughtfully created to deeply moisturize, soothe irritation, and support the skin barrier using gentle, organic ingredients parents can trust. This rich, nourishing balm helps calm dry patches, redness, and itchiness while locking in moisture — without harsh chemicals, synthetic fragrances, or unnecessary fillers. Why Parents Love This Balm ✔ Deeply moisturizes dry, irritated skin✔ Helps calm itchiness and redness✔ Supports the skin’s natural barrier✔ Gentle enough for daily use✔ Safe for babies & toddlers Designed for cheeks, arms, legs, hands, and any areas affected by dryness or eczema flare-ups. Made with Simple, Organic Ingredients Every ingredient in our Baby Eczema Relief Balm is carefully selected to nourish delicate skin and provide gentle, effective relief. Ingredients Organic Shea Butter, Organic Coconut Oil, Organic Beeswax, Organic Grapeseed Oil, Organic Calendula Oil, Lavender Essential Oil, Chamomile Essential Oil Why These Ingredients Matter Organic Shea Butter – Deeply hydrates and softens dry, sensitive skin Organic Coconut Oil – Helps support moisture retention and skin comfort Organic Beeswax – Creates a breathable barrier to lock in hydration Organic Grapeseed Oil – Lightweight and nourishing for delicate skin Organic Calendula Oil – Traditionally used to soothe irritation and support skin healing Lavender Essential Oil – Provides gentle calming benefits (used in very small, baby-safe amounts) Chamomile Essential Oil – Helps calm redness and sensitive skin How to Use Apply a small amount to clean, dry skin as needed. Use daily or during flare-ups to help maintain soft, hydrated skin. Suitable for use on the body and face (avoid direct eye contact). Perfect For ✔ Dry, itchy skin ✔ Eczema-prone or sensitive baby skin ✔ Seasonal dryness ✔ Daily moisture support ✔ Newborn Cradle Cap ✔ Toddlers and babies with reactive skin For Best Results: Complete the Routine While this balm deeply moisturizes and soothes, pairing it with a calming oatmeal bath helps prep the skin to absorb moisture more effectively. 👉 Upgrade to our Baby Eczema Bundle or Complete Baby Skincare Collection to save and enjoy free shipping while giving your baby full-routine care. Crafted by a Mom, Trusted by Parents Irene Organics was founded by a mom who couldn’t find truly gentle products she felt comfortable using on her own family. Every formula is created with care, transparency, and real-life parenting in mind. Size 4 oz (120 mL)
+  Updated: 2026-09-07T10:00:51Z
+  Vendor: Irene Organics
+  Product Type: Balm
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/ChatGPTImageJan18_2026_03_20_05PM.png?v=1788732043
+  - [4oz](https://cuddlegrove.store/products/baby-eczema-relief-balm?variant=53956560650516)
+    Availability: Not Available
+    Price: $29.00 USD
+  - [3 pack (Value Pack)](https://cuddlegrove.store/products/baby-eczema-relief-balm?variant=53956560683284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/EZ3_b4c45e13-0004-4c89-8a97-7e1cb550de8a.png?v=1788732043
+    Price: $79.00 USD
+- [Loved. Organic Baby Bodysuit Long Sleeve](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve): Wrapped in love, from head to tiny toes. Our Loved organic cotton baby bodysuit is thoughtfully crafted in the USA from luxuriously soft, breathable cotton that’s gentle on sensitive skin. Featuring a lap-shoulder neckline and nickel-free snaps for quick diaper changes, it’s perfect for everyday wear, newborn photos, baby shower gifts, and keepsakes you’ll treasure forever.
+  Updated: 2026-09-12T16:39:51Z
+  Vendor: Tenth & Pine
+  Product Type: Long Sleeve Onesie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved_organic_cotton_bodysuit_long_sleeve.jpg?v=1788732099
+  - [Black / 0-3M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561404180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved-long-sleeve-organic-baby-bodysuit-236114.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Black / 3-6M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561436948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved-long-sleeve-organic-baby-bodysuit-236114.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Black / 6-12M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561469716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved-long-sleeve-organic-baby-bodysuit-236114.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Black / 12-18M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561502484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved-long-sleeve-organic-baby-bodysuit-236114.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Black / 18-24M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561535252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/loved-long-sleeve-organic-baby-bodysuit-236114.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Clay / 0-3M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561568020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDCLAY.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Clay / 3-6M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561600788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDCLAY.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Clay / 6-12M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561633556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDCLAY.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Clay / 12-18M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561666324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDCLAY.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Clay / 18-24M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561699092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDCLAY.jpg?v=1788732099
+    Price: $32.00 USD
+  - [Red / 0-3M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561731860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDRED.png?v=1788732100
+    Price: $32.00 USD
+  - [Red / 3-6M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561764628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDRED.png?v=1788732100
+    Price: $32.00 USD
+  - [Red / 6-12M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561797396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDRED.png?v=1788732100
+    Price: $32.00 USD
+  - [Red / 12-18M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561830164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDRED.png?v=1788732100
+    Price: $32.00 USD
+  - [Red / 18-24M](https://cuddlegrove.store/products/loved-organic-baby-bodysuit-long-sleeve?variant=53956561862932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/LSOLVDRED.png?v=1788732100
+    Price: $32.00 USD
+- [Bear Mountain Baby Boy Cotton Romper](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper): This baby boy romper features a playful bear and mountain print with soft aqua trim, capturing the spirit of the great outdoors. Made from 100% cotton rib, it's super-soft, breathable, and gentle on delicate skin. Designed with an envelope neckline and snap closures underneath for quick and easy changes.
+  Updated: 2026-09-07T10:01:48Z
+  Vendor: Tesa Babe
+  Product Type: Rompers - Classic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/81TMIASDBMBRITERcopy.jpg?v=1788732104
+  - [NB](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper?variant=53956561928468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-boy-clothes-baby-boy-woodland-romper-28862695768131.jpg?v=1788732104
+    Price: $30.00 USD
+  - [0-3M](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper?variant=53956561961236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-boy-clothes-baby-boy-woodland-romper-28862695768131.jpg?v=1788732104
+    Price: $30.00 USD
+  - [3-6M](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper?variant=53956561994004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-boy-clothes-baby-boy-woodland-romper-28862695768131.jpg?v=1788732104
+    Price: $30.00 USD
+  - [6-12M](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper?variant=53956562026772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-boy-clothes-baby-boy-woodland-romper-28862695768131.jpg?v=1788732104
+    Price: $30.00 USD
+  - [12-18M](https://cuddlegrove.store/products/bear-mountain-baby-boy-cotton-romper?variant=53956562059540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-boy-clothes-baby-boy-woodland-romper-28862695768131.jpg?v=1788732104
+    Price: $30.00 USD
+- [Baby & Diaper Balm — Grass-Fed Tallow, Shea & Roman Chamomile, 4 oz](https://cuddlegrove.store/products/baby-diaper-balm-grass-fed-tallow-shea-roman-chamomile-4-oz): .ck-buybox h1{font-weight:600!important;font-size:clamp(2.4rem,7vw,3.8rem)!important;line-height:1.0!important;}section[style*="var(--ash)"] .ck-sc{color:#6E5528!important;}section[style*="var(--ash)"] .ck-ed{color:#6E5528!important;}.ck-buybox .lpbb-l,.ck-buybox .lpbb-total-lbl{color:#4F483D!important;font-size:.9rem!important;}.ck-buybox .lpbb-total-sub{color:#5F584C!important;font-size:.9rem!important;}.ck-buybox .lpbb-ql{color:#4F483D!important;font-size:.86rem!important;}.ck-buybox .lpbb-gc-track{height:11px!important;background:#E6ECE2!important;box-shadow:inset 0 0 0 1px #C3D0BB!important;}.ck-buybox .lpbb-gc-fill{background:linear-gradient(90deg,#B89968 0%,#8C7C3E 42%,#3D5B3B 100%)!important;}@media(max-width:640px){.ck-buybox .lpbb-l,.ck-buybox .lpbb-total-lbl,.ck-buybox .lpbb-total-sub{font-size:.96rem!important;}.ck-persona-card p,.ck-review-card p,.ck-sp-item p,.ck-usecase-card p{font-size:15.5px!important;line-height:1.62!important;}.ck-faq-card .ck-acc-body div{font-size:15.5px!important;}.ck-faq{font-size:16.5px!important;}} (function(){function r(){try{var box=document.querySelector('.ck-buybox');if(!box)return;var s=box.querySelector('[aria-label^="Rated"]');if(s){var row=s.parentElement;if(!row.dataset.ckRated){var a=row.querySelector('a');var sp=row.querySelector('span');var val=sp?sp.textContent.trim():'4.8';if(sp)sp.remove();if(a){a.textContent='Rated '+val+'/5.0 \u2013 Excellent';a.setAttribute('style','font-weight:600;text-decoration:underline;text-underline-offset:2px;color:#2A2520;');}row.dataset.ckRated='1';}var h1m=box.querySelector('h1');if(h1m&&!row.dataset.ckMoved){row.style.marginTop='2px';h1m.parentNode.insertBefore(row,h1m);row.dataset.ckMoved='1';}}var chip=box.querySelector('.ck-chip');if(chip&&chip.parentElement)chip.parentElement.style.display='none';var fsb=Array.prototype.slice.call(box.querySelectorAll('div')).filter(function(d){var st=d.getAttribute('style');return st&&st.indexOf('#eaf3e0')>-1;})[0];if(fsb)fsb.style.display='none';var priceEl=box.querySelector('[id^="ck-price-"]');if(priceEl&&priceEl.parentElement)priceEl.parentElement.style.display='none';var acc=box.querySelector('[id^="ck-buybox-acc-"]');if(acc&&!acc.dataset.ckAcc){var tablist=acc.querySelector('[role="tablist"]');var btns=tablist?Array.prototype.slice.call(tablist.querySelectorAll('.ck-tab-btn')):[];var panels=Array.prototype.slice.call(acc.querySelectorAll('.ck-tab-panel'));if(tablist)tablist.style.display='none';acc.style.border='1px solid var(--line)';acc.style.borderRadius='16px';acc.style.overflow='hidden';acc.style.background='var(--paper)';var idx=0;function makeItem(label,node){var item=document.createElement('div');if(idx>0)item.style.borderTop='1px solid var(--line)';idx++;var head=document.createElement('button');head.type='button';head.style.cssText='width:100%;display:flex;justify-content:space-between;align-items:center;gap:16px;background:none;border:none;cursor:pointer;padding:18px 18px;text-align:left;font-family:\'Cormorant Garamond\',Georgia,serif;font-size:1.5rem;font-weight:600;color:#2A2520;';head.innerHTML=''+label+'';var bodyWrap=document.createElement('div');bodyWrap.className='ck-acc-body-w';bodyWrap.style.cssText='display:none;padding:0 18px 18px;';bodyWrap.appendChild(node);item.appendChild(head);item.appendChild(bodyWrap);acc.appendChild(item);head.addEventListener('click',function(){var open=bodyWrap.style.display!=='none';acc.querySelectorAll('.ck-acc-body-w').forEach(function(b){b.style.display='none';});acc.querySelectorAll('.ck-acc-ch').forEach(function(c){c.style.transform='';});if(!open){bodyWrap.style.display='';head.querySelector('.ck-acc-ch').style.transform='rotate(180deg)';}});}panels.forEach(function(panel,i){var label=btns[i]?btns[i].textContent.trim():('Section '+(i+1));panel.style.display='';panel.style.marginTop='0';makeItem(label,panel);});var pd=document.createElement('div');pd.style.cssText='font-size:15px;color:rgba(42,37,32,.85);line-height:1.7;';var rte=box.querySelector('.rte');if(rte){Array.prototype.slice.call(rte.childNodes).forEach(function(n){if(n.nodeType===1){var tn=n.tagName.toLowerCase();if(tn==='script'||tn==='style')return;pd.appendChild(n.cloneNode(true));}else if(n.nodeType===3){pd.appendChild(n.cloneNode(true));}});}if(pd.textContent.trim().length<3){pd.innerHTML='';var h1t=box.querySelector('h1');var tgp=h1t&&h1t.nextElementSibling&&h1t.nextElementSibling.tagName==='P'?h1t.nextElementSibling:null;if(tgp)pd.textContent=tgp.textContent.trim();}if(pd.textContent.trim().length>2){makeItem('Product Details',pd);}var sd=document.createElement('div');sd.style.cssText='font-size:15px;color:rgba(42,37,32,.85);line-height:1.7;';sd.innerHTML='Same-day processing on orders placed before 2 PM ET.Fast, tracked shipping — free on orders $30+.';makeItem('Shipping & Delivery',sd);acc.dataset.ckAcc='1';}var vw=box.querySelector('[id^="lpbb-varwrap-"]');var lt=box.querySelector('.lpbb-total');var lar=box.querySelector('.lpbb-addrow');if(vw&&lt&&lar&&!vw.dataset.ckReord){vw.parentNode.insertBefore(lt,vw.nextSibling);lt.parentNode.insertBefore(lar,lt.nextSibling);vw.dataset.ckReord='1';}var grid=Array.prototype.slice.call(box.querySelectorAll('div')).filter(function(d){var st=d.getAttribute('style');return st&&st.indexOf('grid-template-columns:1fr 1fr')>-1;})[0];if(grid&&!grid.dataset.ckBadge){var endo=Array.prototype.slice.call(box.querySelectorAll('div')).filter(function(d){var st=d.getAttribute('style');return st&&st.indexOf('flex-direction:column;gap:5px;text-align:center')>-1;})[0];var badgeRow=document.createElement('div');badgeRow.style.cssText='margin-top:14px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px;';function mk(node){var b=document.createElement('span');b.style.cssText='display:inline-flex;align-items:center;gap:6px;padding:8px 15px;border-radius:999px;background:#F4F1EA;border:1px solid #D9D2C4;font-size:13px;font-weight:600;color:#2A2520;white-space:nowrap;';while(node.firstChild){b.appendChild(node.firstChild);}return b;}if(endo){var ei=endo.querySelector('div')||endo;badgeRow.appendChild(mk(ei));endo.style.display='none';}Array.prototype.slice.call(grid.querySelectorAll('p')).forEach(function(p){badgeRow.appendChild(mk(p));});grid.parentNode.insertBefore(badgeRow,grid);grid.style.display='none';grid.dataset.ckBadge='1';}if(!document.getElementById('ckStickyBar')){var addBtn=box.querySelector('[id^="lpbb-addbtn-"]')||box.querySelector('.lpbb-add');var bar=document.createElement('div');bar.id='ckStickyBar';bar.style.cssText='position:fixed;left:0;right:0;bottom:0;z-index:9999;background:rgba(244,249,241,.97);border-top:1px solid #D9D2C4;box-shadow:0 -4px 24px -12px rgba(42,37,32,.25);transform:translateY(100%);transition:transform .3s ease;padding:10px 16px;';var pt=((box.querySelector('h1')||{}).textContent||'').trim();bar.innerHTML=''+pt+'Add to Cart';document.body.appendChild(bar);bar.querySelector('#ckStickyBtn').addEventListener('click',function(){try{if(window.lpbbGoCart){window.lpbbGoCart();}else if(addBtn){addBtn.click();}}catch(e){}});var anchor=box.querySelector('.lpbb-addrow')||addBtn;if(anchor&&'IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){bar.style.transform=e.isIntersecting?'translateY(100%)':'translateY(0)';});},{threshold:0}).observe(anchor);}}}catch(e){}}if(document.readyState!=='loading'){r();}else{document.addEventListener('DOMContentLoaded',r);}})(); .ck-buybox .lpbb-ao-hint{display:none!important;} .ck-buybox .lpbb-addons.ckAoCol .lpbb-ao:nth-child(n+4){display:none!important;} .ck-buybox .ckMoreBtn{display:block;width:100%;margin-top:8px;padding:10px;border:1px dashed #C9BFA9;border-radius:12px;background:transparent;color:#4F483D;font-family:'Inter',sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.06em;cursor:pointer;transition:background .15s;} .ck-buybox .ckMoreBtn:hover{background:#F4F1EA;} .ck-buybox .lpbb-gc-row.ckRwCol{display:none!important;} .ck-buybox .ckRwToggle{display:inline-flex;align-items:center;gap:5px;margin-top:2px;background:none;border:none;padding:0;color:#8C7C3E;font-family:'Inter',sans-serif;font-size:.74rem;font-weight:700;cursor:pointer;} .ck-buybox .ckRwToggle svg{transition:transform .2s;} .ck-buybox .ckRwToggle.open svg{transform:rotate(180deg);} (function(){function c(){try{ var box=document.querySelector('.ck-buybox');if(!box)return; var lpbb=box.querySelector('[id^="lpbb-"]');if(!lpbb||lpbb.dataset.ckCond)return; var ad=lpbb.querySelector('.lpbb-addons'); if(ad){var t=ad.querySelectorAll('.lpbb-ao');if(t.length>3){ad.classList.add('ckAoCol'); var h=t.length-3;var mb=document.createElement('button');mb.type='button';mb.className='ckMoreBtn';mb.textContent='+ '+h+' more add-ons'; ad.parentNode.insertBefore(mb,ad.nextSibling); mb.addEventListener('click',function(){var col=ad.classList.toggle('ckAoCol');mb.textContent=col?('+ '+h+' more add-ons'):'Show fewer';});}} var gr=lpbb.querySelector('.lpbb-gc-row'); if(gr){gr.classList.add('ckRwCol'); var tg=document.createElement('button');tg.type='button';tg.className='ckRwToggle'; tg.innerHTML='See all rewards'; gr.parentNode.insertBefore(tg,gr); tg.addEventListener('click',function(){var open=!gr.classList.toggle('ckRwCol');tg.classList.toggle('open',open);tg.querySelector('span').textContent=open?'Hide rewards':'See all rewards';});} lpbb.dataset.ckCond='1'; }catch(e){}} if(document.readyState!=='loading'){c();}else{document.addEventListener('DOMContentLoaded',c);} })();
+  Updated: 2026-09-09T21:32:37Z
+  Vendor: Clean + Kind
+  Product Type: Balm
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Clean_KindBaby_DiaperBalm.png?v=1788732110
+  Price: $22.99 USD
+- [Classic Knit Baby Sweater in Cream](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream): Wool is itchy. Acrylic is a sweat trap. Cotton is the answer. Most 'cute' knitwear sits unused in the drawer because it irritates skin. We fixed that. The SwaddleAn Classic Knit Baby Sweater is crafted from 100% Premium Cotton that passes the 'Cheek Test' (rub it against your face - if you don't love it, they won't either). It delivers that timeless, chunky-knit aesthetic without the heat rash or the scratchiness. Perfect for Newborn Announcements or keeping active toddlers cozy without overheating. Why Mom Loves It Specification Details Why Mom Loves It (Real Talk) Material 100% Premium Cotton Zero Itch Factor. Soft enough to wear directly against bare skin. No red marks. Thermal Reg. Breathable Natural Fibers No 'Sweaty Back'. Cotton releases heat; acrylic traps it. Keeps baby warm, not hot. Fit Profile Relaxed / Semi-Oversized Easy Dressing. Stretches over giant baby heads without the tears. Durability Tight-Gauge Knit Heirloom Quality. Holds shape after 20+ washes. Won't pill like cheap synthetics. Safety OEKO-TEX® Standard 100 Chemical-Free. Safe for babies who chew on their sleeves (because they will). Style Solid, Earthy Tones Instagram Gold. The perfect blank canvas for personalized name embroidery.
+  Updated: 2026-09-08T01:13:57Z
+  Vendor: SwaddleAn
+  Product Type: Baby & Toddler Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+  - [Cream / 0-3M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562125076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 3-6M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562157844)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 6-9M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562190612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 9-12M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562223380)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 12-18M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562256148)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 18-24M](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562288916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 3T](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562321684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 4T](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562354452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+  - [Cream / 5T](https://cuddlegrove.store/products/classic-knit-baby-sweater-in-cream?variant=53956562387220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Classic_Baby_Sweater_in_Cream_1_34193486-b95f-44f7-b17c-1e33cde67c4e.webp?v=1788732115
+    Price: $31.00 USD
+- [Vintage Floral Baby Romper – Cotton Long Sleeve One-Piece](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece): Little ones look sweet and stay comfortable in this Pretty in Pink floral baby romper. Made from soft, breathable cotton, it offers gentle stretch for all-day wear. The envelope neckline allows for easy changes, while the long sleeves and cuffed legs keep baby cozy. With its charming floral print, this romper is perfect for playtime, outings, or cuddly naps.
+  Updated: 2026-09-11T18:27:34Z
+  Vendor: Tesa Babe
+  Product Type: Rompers - Classic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-31578196049987.jpg?v=1788732120
+  - [NB](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562419988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+  - [0-3M](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562452756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+  - [3-6M](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562485524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+  - [6-9M](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562518292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+  - [9-12M](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562551060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+  - [12-18M](https://cuddlegrove.store/products/vintage-floral-baby-romper-cotton-long-sleeve-one-piece?variant=53956562583828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-vintage-rose-cotton-romper-81vrnb-31578196017219.jpg?v=1788732121
+    Price: $30.00 USD
+- [Western Christmas Baby Bamboo Zipper Romper - Cowboy Holiday](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday): This Western-themed Christmas baby romper is ready to wrangle in some holiday cheer! Crafted from a buttery-soft bamboo blend, it's hypoallergenic, eco-friendly, and breathable—perfect for sensitive skin and cozy winter days. The festive cowboy print adds a playful twist, while the full-length zipper with a protective neck guard makes changes fast and fuss-free. A merry must-have for little holiday cowpokes!
+  Updated: 2026-09-07T10:02:11Z
+  Vendor: Tesa Babe
+  Product Type: Rompers - Zipper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/moreclose_cooler.png?v=1788732127
+  - [NB](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562714900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+  - [0-3M](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562747668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+  - [3-6M](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562780436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+  - [6-9M](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562813204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+  - [9-12M](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562845972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+  - [12-18M](https://cuddlegrove.store/products/western-christmas-baby-bamboo-zipper-romper-cowboy-holiday?variant=53956562878740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/2499FHYH.jpg?v=1788732127
+    Price: $46.00 USD
+- [Western Cowgirl Boots Baby Cotton Romper](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper): Round up the cuteness with this western cowgirl baby romper! Featuring a delightful boots-and-horseshoe print and trimmed with soft pink stripes, it's made for mini adventurers with big charm. This romper is crafted from 100% cotton rib—gentle on delicate skin, naturally hypoallergenic, and breathable to keep baby comfy from nap time to playtime. Designed with parents in mind, it includes an envelope neckline and handy snap closures for hassle-free changes. A stylish, comfy piece that brings southern flair to baby’s everyday wardrobe.
+  Updated: 2026-09-12T17:22:32Z
+  Vendor: Tesa Babe
+  Product Type: Rompers - Classic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-baby-girl-clothes-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-31372373327939.jpg?v=1788732131
+  - [NB](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956562911508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+  - [0-3M](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956562944276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+  - [3-6M](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956562977044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+  - [6-9M](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956563009812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+  - [9-12M](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956563042580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+  - [12-18M](https://cuddlegrove.store/products/western-cowgirl-boots-baby-cotton-romper?variant=53956563075348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/tesa-babe-base-product-cowgirl-boots-bamboo-romper-w-pink-stripe-sleeves-81cgbpislts-00nb-31372226920515.jpg?v=1788732131
+    Price: $30.00 USD
+- [Sebamed Baby Shampoo Gentle Cleansing Formula 750ml](https://cuddlegrove.store/products/sebamed-baby-shampoo-gentle-cleansing-formula-750ml): The tear-free formula minimizes irritation during bath time, making it a comfortable experience for both babies and parents.Key IngredientsMild Cleansing Agents - gently remove dirt and excess oil without stripping moistureHow to Use Wet your baby's hair with warm water. Apply a small amount of shampoo to the palm of your hand and gently massage into the scalp. Rinse thoroughly with warm water. Soap-free and alkali-free formulation Tear-free formula minimizes eye irritation Generous 750ml size for daily family use
+  Updated: 2026-09-09T04:21:14Z
+  Vendor: Beauty Care Bag
+  Product Type: Body Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/sebamed-baby-sampuan-750-ml-bebek-sampuani-sebamed-83969-30-B.jpg?v=1788732138
+  Price: $35.74 USD
+- [2-in-1 Foldable Pushchair Newborn Infant Baby Stroller-Gray](https://cuddlegrove.store/products/2-in-1-foldable-pushchair-newborn-infant-baby-stroller-gray): This is 2 in1 baby stroller which can bring baby a comfortable place to sleep. The foldable design is perfect for storage and carrying. The material is non-toxic and breathable. It features a wide seat base and multi-position recline seat. Reclining multi-position backrest with a convenient one-hand recline adjustment and extendable leg rest make it perfect for infant to use. The fully adjustable canopy is designed to protect your baby from harmful sun and the large storage basket provides a convenient place for your essentials. Welcome! High quality with competitive price can be realized here! Don't hesitate to buy it! Brand new and high quality Foot cover can prevent from windy in the winter and can be removed in summer Adjustable back rest and handles Five-point harness one key to release quickly Convenient foot brakes for safety and flexibility Foldable design for more convenience Non-toxic and breathable oxford cover Basket on the bottom for placing accessories Sleeping cushion equipped for comfortable sleeping Strong construction and light weighted aluminum frame Adjustable seats and shed not only can sit but sleep seat also can be two-way conversion Fit for babies with the age raging from 0 to 36 months Note: 1. Simple assembly is required according to the included instruction 2. Please consider the weight capacity before using 3. Please fasten the seat belt when your baby is seated inside Foot Cover is Available: It can not only be considered as an ordinary stroller but also a warm removal bed for your baby! Equipped with a Foot Cover: It can prevent pitiless wind in winter to well protect your baby. When summer comes you can remove the foot cover to keep cool. Adjustable back rest and handle: You can adjust the back of this stroller to meet your baby different requirements to lie sit or sleep. The comfortable seat with 5-point safety harness and tilt-adjustable sleeping cushion equipped for babies comfortable sleeping. Pushing handle have two-way conversions. You can choose to face your baby at your convenience. Color: Gray Material: Aluminum alloy + iron pipe + PP + Oxford (cover) Weight capacity: 33 lbs Unit weight: 22 lbs Size: 37" x 15" x 43" (L x W x H) Style: Pushchairs & Travel system Applicable baby: About 0-36 months Package includes: 1 x Baby stroller 1 x Instruction
+  Updated: 2026-09-08T18:50:10Z
+  Vendor: VYSN
+  Product Type: Baby & Kids
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/x1_7_1_3.jpg?v=1788732143
+  Price: $170.99 USD
+- [Dr. Bronner's Pure Castile Liquid Soap Baby Mild Unscented - 16 Fl Oz](https://cuddlegrove.store/products/dr-bronners-pure-castile-liquid-soap-baby-mild-unscented-16-fl-oz): Dr. Bronner's Pure Castile Liquid Soap Baby Mild Unscented, 16 Fl Oz is a pure Castile liquid soap in a gentle, unscented formulation designed to complement personal cleansing and care routines. Its liquid format makes it convenient for different hygiene and cleaning applications. The Baby Mild Unscented version is made without added fragrance, providing an option for those who prefer fragrance-free products. It can be used for various cleansing purposes according to the manufacturer's recommended applications and directions. The 16 fl oz size provides a practical amount for regular household use. Its bottle format makes the product easy to store and dispense. Check the package for ingredients, recommended uses, directions, and applicable precautions.
+  Updated: 2026-09-07T10:51:03Z
+  Vendor: Pasteur Pharmacy
+  Product Type: Bath & Body
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/46048630.jpg?v=1788732149
+  Price: $11.99 USD
+- [Baby Shusher Sound Machine – Real Human Shushing Sound for Newborn Sleep & Soothing](https://cuddlegrove.store/products/baby-shusher-sound-machine-real-human-shushing-sound-for-newborn-sleep-soothing): Add to Poppylist Registry When nothing else works, the Baby Shusher does. Trusted by parents and recommended by pediatric sleep experts, the Baby Shusher has been soothing babies and saving parents' sanity for over 10 years. Unlike traditional white noise machines, the Baby Shusher uses a real human shushing sound — rhythmic, warm, and deeply familiar to newborns — to trigger the calming reflex that helps babies settle quickly and sleep soundly. The science is simple: babies spend months in the womb surrounded by constant sound. That familiar rhythm doesn't stop being comforting just because they're born. The Baby Shusher recreates that environment with a real recorded "shhh," helping to quiet cries, ease fussiness, and signal to your baby that it's time to rest. With two timer options — 15 or 30 minutes — you can customize each soothing session to your baby's needs. The compact, wireless design makes it just as effective during car rides, stroller walks, and travel as it is at home during bedtime. A handy wrist strap lets you clip it to a car seat, stroller, or carry it hands-free, and it comes ready to use with 2 AA Duracell® batteries included. Whether you're a first-time parent navigating newborn sleep or looking for the perfect baby shower gift, the Baby Shusher is the tool that generations of parents swear by — because it works. REAL HUMAN SHUSHING SOUND: Unlike white noise, the Baby Shusher uses a real recorded human "shh" to activate your baby's natural calming reflex — the same soothing rhythm newborns recognize from the womb. TRUSTED BY 3+ MILLION PARENTS: The original Baby Shusher has been a go-to sleep essential for new parents for years, recommended by pediatric sleep consultants and beloved by families worldwide. CUSTOMIZABLE & READY TO USE: Choose from 15- or 30-minute timer settings to match your baby's soothing needs, and get started right away with 2 AA Duracell® batteries included. PORTABLE FOR EVERY MOMENT: Compact and wireless with a built-in wrist strap, the Baby Shusher clips to strollers and car seats and travels wherever your baby does — from bedtime routines to road trips and beyond.
+  Updated: 2026-09-12T21:36:48Z
+  Vendor: Shusher
+  Product Type: Sound Machine for Babies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/baby-shusher-mockup-ai-mod-1.jpg?v=1788732156
+  - [Single Unit](https://cuddlegrove.store/products/baby-shusher-sound-machine-real-human-shushing-sound-for-newborn-sleep-soothing?variant=53956563206420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/baby-shusher-mockup-ai-mod-1.jpg?v=1788732156
+    Price: $34.99 USD
+  - [3-Pack](https://cuddlegrove.store/products/baby-shusher-sound-machine-real-human-shushing-sound-for-newborn-sleep-soothing?variant=53956563239188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/B0B8L14MRM_MAIN_jpg_389f6cb5-3404-4ab4-bc8f-f7450d84345e.jpg?v=1788732156
+    Price: $99.99 USD
+  - [Gift Box - Premium Packaging](https://cuddlegrove.store/products/baby-shusher-sound-machine-real-human-shushing-sound-for-newborn-sleep-soothing?variant=53956563271956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Hero_-_Gift_Box_-_Front_d590adb2-5dba-47f9-85f3-d2f42f76a4e0.jpg?v=1788732156
+    Price: $35.99 USD
+- [Ruffle Chunky Knit Baby Romper in Beige](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige): Forget the saggy, scratchy knits of the past. Our Ruffle Chunky Knit Baby Romper is engineered from 100% premium cotton to provide the structural 'heirloom' look you love without the bulk. Designed for those tricky 'in-between' seasons, it offers a breathable warmth that keeps your baby cozy, not sweaty. It’s the essential vintage baby girl romper for parents who prioritize fabric integrity over fast-fashion trends. Explore more timeless styles in our Baby Daywear collection. Specification Details Why Mom Loves It Material 100% Organic Cotton Knit Holds its shape wash after wash; zero sagging or pilling. Design Ruffle Neckline & Cuffs Elevates a simple outfit to a 'milestone-ready' look. Functionality Reinforced Bottom Snaps Makes diaper changes quick and prevents 'crotch-gap' sagging. Safety Non-Toxic & Hypoallergenic Safe for delicate skin and curious babies who chew on everything. Customization Standard Ready-to-ship; focuses on pure craftsmanship and texture. Care Machine Washable (Delicate) Durable enough for daily play, soft enough for naps. Season Spring / Autumn / Winter The ultimate layering piece for year-round comfort.
+  Updated: 2026-09-09T07:49:47Z
+  Vendor: SwaddleAn
+  Product Type: Romper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+  - [Beige / Newborn](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563337492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 0-3M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563370260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 3-6M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563403028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 6-9M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563435796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 9-12M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563468564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 12-18M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563501332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+  - [Beige / 18-24M](https://cuddlegrove.store/products/ruffle-chunky-knit-baby-romper-in-beige?variant=53956563534100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Ruffle_Romper_in_Beige_1.webp?v=1788732161
+    Price: $30.95 USD
+- [Bamboo Swaddle Blankets in Blue Depths](https://cuddlegrove.store/products/bamboo-swaddle-blankets-in-blue-depths): In the profound quiet of parenthood, your deepest wish is to provide your baby with a world of calm, comfort, and security. The SwaddleAn Bamboo Swaddle Blanket in our rich Blue Depths hue is designed to be that tranquil embrace. More than just a blanket, it’s a cocoon of deep comfort that mimics your loving arms, helping to soothe your baby into a longer, more peaceful sleep and giving you invaluable peace of mind. Luxuriously Soft on Newborn Skin Crafted from our signature blend of 95% viscose from bamboo and 5% spandex, this swaddle offers a butter-soft touch that is essential for a newborn’s delicate skin. The hypoallergenic and breathable fabric provides a gentle caress, minimizing irritation and wrapping your baby in pure, cloud-like softness. You will feel a deep sense of joy each time you cocoon your little one in its comforting touch. Promotes Deeper, Safer Sleep Expertly designed to provide a snug, womb-like feeling, our swaddle helps to calm the natural Moro (startle) reflex that can interrupt sleep. This secure wrap is a safe alternative to loose blankets in the crib or bassinet, aligning with pediatrician recommendations for creating a secure sleep environment. You can rest more easily, filled with the profound reassurance that your baby is sleeping safely and soundly. Timeless Elegance and Everyday Versatility The sophisticated, deep navy of Blue Depths brings a timeless and calming elegance to your nursery. Beyond its beauty, the generous 46 x 46-inch size makes this an indispensable essential that grows with your child. It transforms effortlessly from a swaddle to a lightweight stroller cover, a private nursing shawl, or a treasured comfort blanket, bringing both style and function to your life. A Sophisticated Gift for New Beginnings The classic Blue Depths color and premium quality make this swaddle a thoughtful and stylish gift for any expecting parent. It is a gesture that communicates care and refined taste, offering a practical tool for comfort and peace during the precious first months. To give this swaddle is to give the gift of better sleep, security, and impeccable style. At SwaddleAn, our philosophy is a blend of Eastern and Western wisdom, celebrating the universal love that welcomes a new child. The color Blue Depths represents tranquility, serenity, and the deep, quiet love that protects and nurtures. This swaddle is a reflection of our commitment to that belief—a simple, beautiful essential designed to support you and your baby with a profound sense of calm. Materials: 95% Viscose from Bamboo, 5% Spandex Size: 46 in x 46 in (117 cm x 117 cm) Care: Machine wash on a cold, gentle cycle. Tumble dry on low. Certifications: Proudly OEKO-TEX® STANDARD 100 , ensuring it is free from harmful substances. Our bamboo is sourced from FSC®  forests, protecting our planet for future generations.
+  Updated: 2026-09-07T21:09:14Z
+  Vendor: SwaddleAn
+  Product Type: Swaddle Blankets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Swaddle_Blanket_in_Blue_Depths_1.webp?v=1788771922
+  Price: $20.00 USD
+- [Bamboo Baby Bodysuit in Mary Rose](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose): Inspired by the timeless elegance of English gardens, the Bamboo Baby Bodysuit in Mary Rose offers a sophisticated twist on the classic baby pink. This isn't a loud, sugary hue; it is a muted, dusty rose designed to complement your baby’s natural complexion rather than overpower it. Woven from our signature bamboo blend, this bodysuit is a tender embrace that combines heirloom aesthetics with modern, science-backed comfort. Specification Details Why Mom Loves It Color Profile Mary Rose (Dusty Pink) The "Blush" Effect: A warm, vintage pink that reflects a healthy, rosy glow onto the baby’s cheeks in photos. Material 95% Bamboo Viscose, 5% Spandex Silk-Like Softness: gentle enough for the most delicate skin, preventing irritation often caused by rougher cottons. Climate Control Thermoregulating Fiber All-Season Wear: Keeps baby cool during summer playdates and acts as a warm, breathable base layer in winter. Design Feature Lap Shoulder Neckline Easy On, Easy Off: The neckline expands to slide down over the shoulders, making blowout cleanups significantly less stressful. Safety Oeko-Tex® Standard 100 Chemical-Free: Free from harmful dyes and allergens, ensuring safety for babies who love to chew on their clothes. Best For 0-36 Months Gift Ready: A stunning, sophisticated choice for a baby shower gift or a "Coming Home" outfit.
+  Updated: 2026-09-07T21:08:05Z
+  Vendor: SwaddleAn
+  Product Type: Baby Bodysuits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Bodysuit_in_Mary_Rose_1.webp?v=1788771922
+  - [Mary Rose / Preemie](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958578897172)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / Newborn](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958578929940)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / 0-3M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958578962708)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / 3-6M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958578995476)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / 6-12M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958579028244)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / 12-18M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958579061012)
+    Availability: Available
+    Price: $16.95 USD
+  - [Mary Rose / 18-24M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-mary-rose?variant=53958579093780)
+    Availability: Available
+    Price: $16.95 USD
+- [Bamboo Baby Bodysuit in Peach Fuzz](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz): Capture the warmth of a summer sunrise. The Bamboo Baby Bodysuit in Peach Fuzz is more than just a trendy color; it’s a mood. Gentle, nurturing, and effortlessly sweet, this soft orange-pink hue brings out the natural rosy glow in your baby’s cheeks. Crafted from our signature cooling bamboo blend, it feels as velvety as the fruit itself—minus the fuzz—providing a friction-free sanctuary for delicate new skin. Specification Details Why Mom Loves It Color Profile Peach Fuzz (Soft Warm Orange-Pink) The "Healthy Glow": Unlike harsh neons, this warm tone reflects light beautifully, making your baby look radiant even after a sleepless night. Material 95% Bamboo Viscose, 5% Spandex Second Skin: Incredibly smooth and breathable; ideal for soothing sensitive skin or eczema flare-ups. Climate Control Thermoregulating Fiber Summer Essential: Keeps baby cool and dry during hot days, preventing the "sticky" feeling of traditional cotton. Design Feature Lap Shoulder Neckline The "Blowout" Savior: The neckline stretches specifically to pull down over the body, keeping messes away from the face. Safety Oeko-Tex® Standard 100 Toxin-Free: No harmful chemicals or residues. Safe enough for babies who constantly put their sleeves in their mouths. Best For 0-36 Months Versatile Style: Adorable on its own with a headband, or layered under denim overalls for a chic autumn look.
+  Updated: 2026-09-07T21:08:13Z
+  Vendor: SwaddleAn
+  Product Type: Baby Bodysuits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Bodysuit_in_Peach_Fuzz_1.webp?v=1788771922
+  - [Peach Fuzz / Preemie](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579650836)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / Newborn](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579683604)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / 0-3M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579716372)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / 3-6M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579749140)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / 6-12M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579781908)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / 12-18M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579814676)
+    Availability: Available
+    Price: $16.95 USD
+  - [Peach Fuzz / 18-24M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-peach-fuzz?variant=53958579847444)
+    Availability: Available
+    Price: $16.95 USD
+- [Blue Depths Convertible Footie Pajamas](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas): A peaceful night's sleep begins with a calm and comforting routine. Our Convertible Footie Pajamas, in a serene Blue Depths hue, are designed to be a foundational part of that tranquility. This is more than just sleepwear, it's an intelligently designed essential that combines lasting value with the soothing softness your baby needs for deep, restorative rest. The Smart Pajama That Grows With Them: At the heart of this piece is the brilliantly engineered convertible footie pajamas cuff. Effortlessly fold it over to create a cozy footed sleeper for chilly nights, then fold it back for a footless romper that gives little feet the freedom and grip they need for playtime and first steps. This single feature extends the life of the garment and provides a safer option for active toddler pajamas, offering you the peace of mind that comes from a thoughtful, long-lasting . A Soothing Embrace of Comfort: The rich, calming Blue Depths color is perfectly matched by the fabric's exquisite feel. Our signature bamboo baby pajamas are exceptionally soft, making them a gentle sanctuary for the most delicate skin. This breathable, thermoregulating material helps to prevent overheating and provides year-round comfort, making it the ideal choice for babies with pajamas for sensitive skin or eczema. Designed for Uninterrupted Dreams: We believe in simplifying your life so you can focus on what matters most. A full-length, two-way zipper allows for quick and easy diaper changes from the bottom up, minimizing disruptions and keeping your baby snug and content. It's a small detail that brings a world of ease to your day and night. An Unwavering Commitment to Safety: Your baby’s well-being is our highest priority. As a trusted safe sleep solution, these pajamas are tailored for a snug, comfortable fit that aligns with AAP safety recommendations, eliminating the risks associated with loose blankets. Furthermore, every single component is OEKO-TEX® STANDARD 100 , guaranteeing it is absolutely free of harmful substances. This pajama set is a perfect expression of our SwaddleAn™ philosophy. It marries the innovative, problem-solving design of the West-the convertible footie-with the gentle wisdom of the East, found in the natural, time-honored comfort of bamboo. The deep, serene Blue Depths color, reminiscent of a calm ocean, bridges both worlds, creating a garment that is as intelligent as it is peaceful. Material: 95% Bamboo Viscose, 5% Spandex Sizes: Available in a range of sizes for newborns, infants, and toddlers. Please consult our size chart for the perfect fit. Care: Machine wash cold on a gentle cycle with like colors. Tumble dry low. Safety Certifications:  according to OEKO-TEX® STANDARD 100 and sourced from FSC®  forests.
+  Updated: 2026-09-07T21:05:38Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+  - [Blue Depths / Preemie](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579159316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Depths / Newborn](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579192084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Depths / 0-3M](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579224852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Depths / 3-6M](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579257620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Depths / 6-12M](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579290388)
+    Availability: Available
+    Price: $29.95 USD
+  - [Blue Depths / 12-18M](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579323156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Depths / 18-24M](https://cuddlegrove.store/products/blue-depths-convertible-footie-pajamas?variant=53958579355924)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Depths_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Knitted Booties in White](https://cuddlegrove.store/products/knitted-booties-in-white): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our White Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic White A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-07T21:09:48Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_White_1_4f357ac8-2b98-4889-890f-3505ee1e53ce.webp?v=1788771922
+  Price: $24.00 USD
+- [Knitted Booties in Rose Pink](https://cuddlegrove.store/products/knitted-booties-in-rose-pink): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our Rose Pink Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic Rose Pink A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-11T19:47:07Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_Rose_Pink_1_4f5f0e08-60ca-49eb-8ffb-c8382aaf39c3.webp?v=1788771922
+  Price: $24.00 USD
+- [Bamboo Baby Bodysuit in White](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white): A blank canvas for their first memories. Whether it’s their first nap, first smile, or that monthly milestone photo, the Bamboo Baby Bodysuit in Cloud White is the unsung hero of your baby's wardrobe. It isn’t just a piece of clothing; it’s a second skin designed to protect, soothe, and adapt to your baby’s needs from day one. Specification Details Why Mom Loves It Material 95% Bamboo Viscose, 5% Spandex Buttery soft feel that calms fussy babies; creates a friction-free zone for eczema-prone skin. Design Feature Lap Shoulder (Envelope Neckline) The "Emergency Exit": Allows you to pull the bodysuit down instead of over the head during messy diaper blowouts. Safety Oeko-Tex® Standard 100  Peace of mind: Free from harmful chemicals, ensuring only the safest fabric touches your newborn. Climate Control Thermoregulating Fiber Better Sleep: Keeps baby ~3°F cooler in summer and warm in winter, preventing overheating wake-ups. Durability 4-Way Stretch Recovery Long-lasting fit: Retains shape after endless washes, unlike 100% cotton that tends to shrink or sag. Best For Newborn to 36 Months Daily Essential: Perfect as a standalone summer outfit or a breathable base layer under pajamas.
+  Updated: 2026-09-07T21:05:33Z
+  Vendor: SwaddleAn
+  Product Type: Baby Bodysuits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Baby_Bodysuit_in_White_1.webp?v=1788771922
+  - [White / Preemie](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579421460)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / Newborn](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579454228)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / 0-3M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579486996)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / 3-6M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579519764)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / 6-12M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579552532)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / 12-18M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579585300)
+    Availability: Available
+    Price: $16.95 USD
+  - [White / 18-24M](https://cuddlegrove.store/products/bamboo-baby-bodysuit-in-white?variant=53958579618068)
+    Availability: Available
+    Price: $16.95 USD
+- [Long Sleeve Baby Bodysuit in Mint](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint): Your search for the perfect foundational layer for your baby’s delicate skin ends here. We understand that finding a material pure enough for your little one's sensitive skin is your highest priority. That’s why we created our Bamboo Baby Bodysuit, a daily essential meticulously designed not just to clothe, but to care for and protect, wrapping your baby in a hug of unparalleled softness and safety from their very first days. A Haven of Buttery-Soft Comfort: Crafted from our signature blend of 95% bamboo viscose and 5% spandex, this bamboo baby bodysuit is a testament to what true softness feels like. The fabric’s naturally round and smooth fibers glide over your baby’s skin without friction, making it an ideal choice for easily irritated or eczema-prone skin. This isn't just softness; it's a scientifically superior material chosen to provide your baby with serene, itch-free comfort, giving you profound peace of mind. Intelligent Thermo-Regulating Fabric: One of a parent’s constant worries is whether their baby is too hot or too cold. Our bamboo fabric provides a brilliant solution. Its micro-gap structure is exceptionally breathable, wicking moisture away from the skin to keep baby cool and comfortable in warmer rooms, yet forming a cozy insulating layer in cooler temperatures. This intelligent thermo-regulating ability helps maintain a perfect balance, crucial for safe and restful sleep. Thoughtful Design for Fuss-Free Routines: We know that the small details make the biggest difference in your day. The classic envelope neckline is engineered for tear-free dressing, stretching wide so you can easily pull the bodysuit down over your baby’s shoulders instead of up over their delicate head. Paired with three durable, nickel-free snaps at the bottom, it makes for fuss-free diaper changes, transforming a challenging task into a quick and easy moment of connection.  Safe from The Thread Up: Your trust is our most valued asset. That is why every single component of this bodysuit, from the gentle fabric to the snaps and stitching, is rigorously tested and  under OEKO-TEX® STANDARD 100. This is our verifiable promise to you that our bodysuits are free from over 100 harmful substances, ensuring nothing unsafe ever touches your baby's perfect skin, making it a truly hypoallergenic choice. This bodysuit is a perfect expression of our SwaddleAn™ mission. It beautifully merges the data-driven precision of Western skin science - which demands breathable, hypoallergenic materials for infant health - with the gentle wisdom of the East, which has long cherished bamboo for its natural, soothing properties. It’s a wearable story of two cultures, woven with your baby’s well-being at its heart, and a perfect newborn essential or a thoughtful baby shower gift. Details & Trust Material: 95% Bamboo Viscose, 5% Spandex Sizes: Newborn, 0-3M, 3-6M, 6-12M, 12-18M, 18-24M Care: Machine wash cold on a gentle cycle. Tumble dry low. Safety:  by OEKO-TEX® STANDARD 100 and from FSC®  bamboo.
+  Updated: 2026-09-07T21:10:14Z
+  Vendor: SwaddleAn
+  Product Type: Baby Bodysuits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Long_Sleeve_Baby_Bodysuit_in_Mint_1.webp?v=1788771922
+  - [Mint / Preemie](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580109588)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / Newborn](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580142356)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / 0-3M](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580175124)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / 3-6M](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580207892)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / 6-12M](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580240660)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / 12-18M](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580273428)
+    Availability: Available
+    Price: $19.95 USD
+  - [Mint / 18-24M](https://cuddlegrove.store/products/long-sleeve-baby-bodysuit-in-mint?variant=53958580306196)
+    Availability: Available
+    Price: $19.95 USD
+- [Mint Convertible Footie Pajamas](https://cuddlegrove.store/products/mint-convertible-footie-pajamas): The "Team Green" Essential you’ll reach for every night. Whether you're keeping the gender a surprise or just love a clean, calming aesthetic, this Mint Convertible Footie is the hero of the nursery. It solves the "too fast to grow" problem with ingenious fold-over cuffs that switch from a cozy footie to a barefoot romper in seconds. No more buying new pajamas just because their legs grew an inch overnight. Shop all Bamboo Footie Pajamas Specification Details Why Mom Loves It Color Fresh Mint 100% Gender Neutral. The perfect "pass-down" piece for future siblings. Convertibility Fold-over Foot Cuffs Value for Money. Adapts to growth spurts so they wear it longer. Material 95% Bamboo Viscose / 5% Spandex Temp-Regulating. Keeps skin 3°C cooler than heavy cotton. Zipper 2-Way "J" Zipper Diaper changes don't require freezing the baby. Zip from the bottom up. Safety CPSC Yellow Tag (Snug-fit) No flame retardants. Just a safe, hug-like fit. Care Cold Wash / Tumble Low Durable fabric that resists pilling, wash after wash.
+  Updated: 2026-09-07T21:05:38Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+  - [Mint / Preemie](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958579880212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mint / Newborn](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958579912980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mint / 0-3M](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958579945748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mint / 3-6M](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958579978516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mint / 6-12M](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958580011284)
+    Availability: Available
+    Price: $29.95 USD
+  - [Mint / 12-18M](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958580044052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mint / 18-24M](https://cuddlegrove.store/products/mint-convertible-footie-pajamas?variant=53958580076820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mint_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Bamboo Swaddle Blankets in Sage Green](https://cuddlegrove.store/products/bamboo-swaddle-blankets-in-sage-green): Wrap your baby in comfort with the SwaddleAn Bamboo Swaddle Blanket—a soft, breathable, and gentle essential for every newborn. Made from our signature bamboo rayon fabric, these swaddles offer a silky-smooth touch that’s perfect for delicate skin and ideal for year-round use. Fabric Content: 95% Rayon made from Bamboo, 5% Spandex 46 in x 46 in
+  Updated: 2026-09-07T21:06:24Z
+  Vendor: SwaddleAn
+  Product Type: Swaddle Blankets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Swaddle_Blanket_in_Sage_Green_1.webp?v=1788771922
+  Price: $20.00 USD
+- [Convertible Footie Pajamas in Blue Bell](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell): As a parent, you seek pieces that are not only beautiful but also intelligently designed to adapt to your baby's rapid growth. Our Convertible Footie Pajamas are the answer. Crafted in a serene Blue Bell hue, this is more than just sleepwear; it's a smart, versatile solution that offers lasting value and grows with your little one, making it the perfect baby shower gift for discerning parents. The Smarter, Grow-With-Me Design: At the heart of these pajamas is the brilliantly designed convertible footie pajamas cuff. Effortlessly fold it over to create a cozy footed sleeper for chilly nights, then fold it back to give little feet the freedom and grip they need for playtime and taking their first brave steps. This single feature extends the life of the garment and provides a safer option for active toddler pajamas, giving you the peace of mind that comes from a smart and practical choice. A Soothing Embrace of Softness: The calming Blue Bell color is perfectly matched by the fabric's soothing touch. Our signature bamboo baby pajamas are exceptionally soft, making them a gentle sanctuary for the most delicate skin. This breathable, thermoregulating material helps to prevent overheating and provides year-round comfort, making it the ideal choice for babies with pajamas for sensitive skin or eczema. Effortless Changes, Day or Night: We understand that convenience is key. A full-length, two-way zipper allows for quick and easy diaper changes from the bottom up, minimizing disruptions and keeping your baby snug and content. It's a small detail that makes a world of difference during late-night routines. An Uncompromising Promise of Safety: Your baby’s well-being is our highest priority. As a trusted safe sleep solution, these pajamas are tailored for a snug, comfortable fit that aligns with AAP safety recommendations. Furthermore, every single component is OEKO-TEX® STANDARD 100 , guaranteeing it is absolutely free of harmful substances, so your baby is wrapped in pure, gentle security. This pajama set is a perfect expression of our SwaddleAn™ philosophy. It marries the innovative, problem-solving design of the West-the convertible footie-with the gentle wisdom of the East, found in the natural, time-honored comfort of bamboo. It is a fusion of modern ingenuity and ancient care, designed to make your parenting journey a little easier and a lot more comfortable. Material: 95% Bamboo Viscose, 5% Spandex Sizes: Available in a range of sizes for newborns, infants, and toddlers. Please consult our size chart for the perfect fit. Care: Machine wash cold on a gentle cycle with like colors. Tumble dry low. Safety Certifications:  according to OEKO-TEX® STANDARD 100 and sourced from FSC®  forests.
+  Updated: 2026-09-07T21:06:20Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+  - [Blue Bell / Preemie](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580371732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Bell / Newborn](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580404500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Bell / 0-3M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580437268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Bell / 3-6M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580470036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Bell / 6-12M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580502804)
+    Availability: Available
+    Price: $29.95 USD
+  - [Blue Bell / 12-18M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580535572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Blue Bell / 18-24M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-blue-bell?variant=53958580568340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Blue_Bell_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Convertible Footie Pajamas in Sage Green](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green): In the world of baby essentials, the most cherished pieces are those that are both serenely beautiful and brilliantly practical. Our Convertible Footie Pajamas are the embodiment of this principle. Crafted in a calming, earthy Sage Green, this is more than just sleepwear; it's a smart, adaptable solution designed to bring peace and comfort to your daily routines. The Pajama That Adapts and Grows: At the heart of this design is the brilliantly engineered convertible footie pajamas cuff. Effortlessly fold it over to create a cozy footed sleeper for sleep, then fold it back for a footless romper that gives little feet the freedom and grip they need for playtime and first steps. This feature extends the life of the garment and provides a safer option for active toddler pajamas, offering you the peace of mind that comes from a thoughtful, long-lasting . A Touch of Nature's Calm: The tranquil Sage Green hue is perfectly matched by the fabric's soothing touch. Our signature bamboo baby pajamas are exceptionally soft, making them a gentle sanctuary for the most delicate skin. Because of its natural, earthy tone, it is the perfect gender neutral baby gift, making it a cherished and practical choice for any baby shower gift. This breathable material is also ideal for babies with pajamas for sensitive skin. Designed for Effortless Living: We believe in simplifying your life so you can focus on what matters most. A full-length, two-way zipper allows for quick and easy diaper changes from the bottom up, minimizing disruptions and keeping your baby snug and content. It's a small detail that brings a world of ease to your day and night. An Unwavering Commitment to Safety: Your baby’s well-being is our highest priority. As a trusted safe sleep solution, these pajamas are tailored for a snug, comfortable fit that aligns with AAP safety recommendations, eliminating the risks associated with loose blankets. Furthermore, every single component is OEKO-TEX® STANDARD 100 , guaranteeing it is absolutely free of harmful substances. This pajama set is a beautiful expression of our SwaddleAn™ philosophy. It marries the innovative, problem-solving design of the West-the convertible footie-with the gentle wisdom of the East, found in the natural comfort of bamboo. The calming Sage Green color, drawn from the heart of nature, bridges both worlds, creating a garment that is as intelligent as it is serene. Material: 95% Bamboo Viscose, 5% Spandex Sizes: Available in a range of sizes for newborns, infants, and toddlers. Please consult our size chart for the perfect fit. Care: Machine wash cold on a gentle cycle with like colors. Tumble dry low. Safety Certifications:  according to OEKO-TEX® STANDARD 100 and sourced from FSC®  forests.
+  Updated: 2026-09-07T21:05:31Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+  - [Sage Green / Preemie](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580830484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sage Green / Newborn](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580863252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sage Green / 0-3M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580896020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sage Green / 3-6M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580928788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sage Green / 6-12M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580961556)
+    Availability: Available
+    Price: $29.95 USD
+  - [Sage Green / 12-18M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958580994324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sage Green / 18-24M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-sage-green?variant=53958581027092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sage_Green_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Convertible Footie Pajamas in Mary Rose](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose): You shouldn't have to choose between smart design and sweet style. Our Convertible Footie Pajamas are a testament to that belief. Crafted in a timeless Mary Rose hue, this piece is an intelligent  in your baby's comfort-a versatile solution that adapts to their needs while blanketing them in softness. It's the perfect, thoughtful baby shower gift for girl. The Pajama That Grows With Them: At the heart of this piece is the brilliantly designed convertible footie pajamas cuff. Simply fold it over their toes for a snug, footed sleeper on cool nights, then flip it back for a footless romper that gives them grip for crawling and taking those first wobbly steps. This single feature extends the life of the garment and makes it a safer choice for active toddler girl pajamas, offering you the peace of mind that comes from a truly smart purchase. A Petal-Soft Embrace: The gentle Mary Rose color is perfectly complemented by the fabric's exquisite feel. Our signature bamboo baby pajamas are exceptionally soft and breathable, creating a soothing sanctuary for the most delicate skin. This naturally thermoregulating material provides year-round comfort, making it a superior choice for babies with pajamas for sensitive skin. Designed for Effortless Moments: We believe the little things make the biggest difference. A full-length, two-way zipper allows for quick and easy diaper changes from the bottom up, minimizing fuss and keeping your baby cozy and content. It’s a practical detail that simplifies your routine and lets you focus on sweet snuggles. An Uncompromising Commitment to Safety: Your baby’s well-being is our highest priority. As a trusted safe sleep solution, these pajamas are tailored for a snug, comfortable fit that aligns with AAP safety recommendations, eliminating the risks associated with loose blankets. Furthermore, every single component is OEKO-TEX® STANDARD 100 , guaranteeing it is absolutely free of harmful substances. This pajama set is a beautiful expression of our SwaddleAn™ philosophy. It marries the innovative, problem-solving design of the West-the convertible footie-with the gentle wisdom of the East, found in the natural comfort of bamboo. The timeless Mary Rose color, inspired by the quiet beauty of a blooming garden, bridges both worlds, creating a garment that is as intelligent as it is lovely. Material: 95% Bamboo Viscose, 5% Spandex Sizes: Available in a range of sizes for newborns, infants, and toddlers. Please consult our size chart for the perfect fit. Care: Machine wash cold on a gentle cycle with like colors. Tumble dry low. Safety Certifications:  according to OEKO-TEX® STANDARD 100 and sourced from FSC®  forests.
+  Updated: 2026-09-11T00:44:16Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+  - [Mary Rose / Preemie](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580601108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mary Rose / Newborn](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580633876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mary Rose / 0-3M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580666644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mary Rose / 3-6M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580699412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mary Rose / 6-12M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580732180)
+    Availability: Available
+    Price: $29.95 USD
+  - [Mary Rose / 12-18M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580764948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Mary Rose / 18-24M](https://cuddlegrove.store/products/convertible-footie-pajamas-in-mary-rose?variant=53958580797716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Mary_Rose_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Baby Knotted Cap in Mary Rose](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose): Keep your newborn snug and stylish with our Baby Knotted Cap, made from buttery-soft, breathable fabric that's gentle on delicate skin. The adjustable knot lets you customize the fit as your baby grows, while the lightweight material keeps them warm without overheating. Perfect for hospital bags, first photos, and everyday wear. Fabric Content: 95% Rayon made from Bamboo, 5% Spandex
+  Updated: 2026-09-07T21:08:15Z
+  Vendor: SwaddleAn
+  Product Type: Baby Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+  - [Mary Rose / Preemie](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose?variant=53958581059860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+    Price: $12.95 USD
+  - [Mary Rose / Newborn](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose?variant=53958581092628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+    Price: $12.95 USD
+  - [Mary Rose / 0-3M](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose?variant=53958581125396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+    Price: $12.95 USD
+  - [Mary Rose / 3-6M](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose?variant=53958581158164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+    Price: $12.95 USD
+  - [Mary Rose / 6-12M](https://cuddlegrove.store/products/baby-knotted-cap-in-mary-rose?variant=53958581190932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/SWaddle_AN_Baby_Knotted_Cap_in_Mary_rose_1.webp?v=1788771922
+    Price: $12.95 USD
+- [Sand Convertible Footie Pajamas](https://cuddlegrove.store/products/sand-convertible-footie-pajamas): Sometimes, you just want simplicity. No loud trucks, no neon dinos—just calm, earthy comfort. This Sand Convertible Footie is the grounding piece every modern nursery needs. It’s designed to be the hardest-working item in the drawer, featuring our signature fold-over cuffs that switch from sleep-ready footie to play-ready romper in a split second. Shop all Bamboo Footie Pajamas Specification Details Why Mom Loves It Color Sand (Warm Beige) The Ultimate Neutral. Matches every bib, blanket, and bow you own. Convertibility Fold-over Foot Cuffs 2-in-1 Design. Buy one size, wear it for months as they grow. Material 95% Bamboo Viscose / 5% Spandex Butter Soft. Soothes sensitive skin and feels like a hug. Zipper 2-Way "J" Zipper Middle-of-the-night ease. Change diapers without exposing their chest to cold air. Safety CPSC Yellow Tag (Snug-fit) Flame resistant without the chemicals. Safe for deep sleep. Care Cold Wash / Tumble Low Stain Resistant. Dirt and spit-up wash out easier than you'd think.
+  Updated: 2026-09-07T21:08:30Z
+  Vendor: SwaddleAn
+  Product Type: Footie Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+  - [Sand / Preemie](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581223700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sand / Newborn](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581256468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sand / 0-3M](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581289236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sand / 3-6M](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581322004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sand / 6-12M](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581354772)
+    Availability: Available
+    Price: $29.95 USD
+  - [Sand / 12-18M](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581387540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+  - [Sand / 18-24M](https://cuddlegrove.store/products/sand-convertible-footie-pajamas?variant=53958581420308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Convertible_Footie_Pajamas_in_Sand_1.webp?v=1788771922
+    Price: $29.95 USD
+- [Knitted Booties in Lilac](https://cuddlegrove.store/products/knitted-booties-in-lilac): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our Lilac Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic Lilac A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-07T21:06:28Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_Lilac_1.webp?v=1788771923
+  Price: $24.00 USD
+- [Knitted Oversized Topknot in Lilac](https://cuddlegrove.store/products/knitted-oversized-topknot-in-lilac): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:06:24Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Lilac_1.webp?v=1788771923
+  Price: $20.00 USD
+- [Knit Baby Pom Beanie in Baby Blue](https://cuddlegrove.store/products/knit-baby-pom-beanie-in-baby-blue): This cozy hat is the pom-pom on top of a perfect winter outfit. Made from soft cotton fibers in a chunky knit, this beanie has it all - warmth, texture, and supreme comfort. A soft pom pom on the end adds an adorable pop of style. 100% Cotton Soft and stretchy Pom-pom detail Chunky knit Perfect for 0-6 months newborn / baby IMPORTANT: Babies should not wear any loose items, such as beanies, bows or hoodies while sleeping or unattended.
+  Updated: 2026-09-07T21:06:01Z
+  Vendor: SwaddleAn
+  Product Type: Baby Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Beanie_in_Baby_Blue_1.webp?v=1788771924
+  Price: $22.00 USD
+- [Knitted Oversized Topknot in Forest Green](https://cuddlegrove.store/products/knitted-oversized-topknot-in-forest-green): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:06:21Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Forest_Green_1_9a8578ae-e331-41a9-877e-d463c50e9f9d.webp?v=1788771924
+  Price: $20.00 USD
+- [Knitted Booties in Sage Green](https://cuddlegrove.store/products/knitted-booties-in-sage-green): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our Sage Green Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic Sage Green A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-12T14:49:47Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_Sage_Green_1.webp?v=1788771924
+  Price: $24.00 USD
+- [Knitted Booties in Red Xmas](https://cuddlegrove.store/products/knitted-booties-in-red-xmas): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our Red Xmas Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic Red Xmas A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-07T21:05:48Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_Red_Xmas_1_b72c7e85-84df-4863-be9f-5b775f3c38c3.webp?v=1788771927
+  Price: $24.00 USD
+- [Knitted Oversized Topknot in Baby Blue](https://cuddlegrove.store/products/knitted-oversized-topknot-in-baby-blue): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:06:56Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Baby_Blue_1.webp?v=1788771926
+  Price: $20.00 USD
+- [Knitted Oversized Topknot in Sage Green](https://cuddlegrove.store/products/knitted-oversized-topknot-in-sage-green): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-12T16:58:37Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Sage_Green_1.webp?v=1788771926
+  Price: $20.00 USD
+- [Knitted Oversized Topknot in Red Xmas](https://cuddlegrove.store/products/knitted-oversized-topknot-in-red-xmas): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:09:54Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Red_Xmas_1_36e75a9a-ef51-4c31-b740-f40804f42166.webp?v=1788771926
+  Price: $20.00 USD
+- [Knitted Oversized Topknot in Mocha](https://cuddlegrove.store/products/knitted-oversized-topknot-in-mocha): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:06:59Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Mocha_1.webp?v=1788771927
+  Price: $20.00 USD
+- [Knit Baby Pom Beanie in Sage Green](https://cuddlegrove.store/products/knit-baby-pom-beanie-in-sage-green): This cozy hat is the pom-pom on top of a perfect winter outfit. Made from soft cotton fibers in a chunky knit, this beanie has it all - warmth, texture, and supreme comfort. A soft pom pom on the end adds an adorable pop of style. 100% Cotton Soft and stretchy Pom-pom detail Chunky knit Perfect for 0-6 months newborn / baby IMPORTANT: Babies should not wear any loose items, such as beanies, bows or hoodies while sleeping or unattended.
+  Updated: 2026-09-13T01:18:58Z
+  Vendor: SwaddleAn
+  Product Type: Baby Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Beanie_in_Sage_Green_1_dc31ade0-c8c9-4e87-8ad3-b904caec8bfe.webp?v=1788771926
+  Price: $22.00 USD
+- [Knit Baby Pom Beanie in Lilac](https://cuddlegrove.store/products/knit-baby-pom-beanie-in-lilac): This cozy hat is the pom-pom on top of a perfect winter outfit. Made from soft cotton fibers in a chunky knit, this beanie has it all—warmth, texture, and supreme comfort. A soft pom pom on the end adds an adorable pop of style. 100% Cotton Soft and stretchy Pom-pom detail Chunky knit Perfect for 0-6 months newborn / baby IMPORTANT: Babies should not wear any loose items, such as beanies, bows or hoodies while sleeping or unattended.
+  Updated: 2026-09-07T21:06:39Z
+  Vendor: SwaddleAn
+  Product Type: Baby Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Beanie_in_Lilac_1.webp?v=1788771929
+  Price: $22.00 USD
+- [Knitted Oversized Topknot in Beige](https://cuddlegrove.store/products/knitted-oversized-topknot-in-beige): Keep your little one snug this winter with our Knitted Oversized Topknot. Crafted from 100% cotton, this fresh take on our beloved oversized topknots is inspired by the cosy knit season. Soft, stretchy, and oh-so comfortable, it’s the perfect accessory to keep your baby warm and adorable all season long—while staying true to the same size and design you already love. Care Instructions:Hand wash gently in cool water. Lay flat to dry. Please avoid tumble drying to keep the knit in perfect shape.
+  Updated: 2026-09-07T21:07:20Z
+  Vendor: SwaddleAn
+  Product Type: Bow Headbands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knitted_Oversized_Topknot_in_Beige_1_1df5406c-99bc-4b91-833d-0e51675d18f0.webp?v=1788771929
+  Price: $20.00 USD
+- [Knitted Booties in Pink](https://cuddlegrove.store/products/knitted-booties-in-pink): Tiny feet lose heat quickly, but keeping socks on a wiggling newborn can feel like a full-time job. Our Pink Knit Booties are designed to solve the "kick-off" crisis while wrapping your baby’s toes in pure, chemical-free softness. More than just a shoe, this is a layer of protection woven with the care of a handmade family treasure. Specification Details Why Mom Loves It Material 100% Cotton Knit Zero itch, breathable, and safe for sensitive newborn skin. Stay-On Tech Engineered Ribbed Ankle Gently hugs the ankle so booties stay put, even during "happy kicks." Color Classic Pink A timeless hue perfect for coming home outfits or gender reveals. Season All-Season Breathability Warm in winter, cool in summer (avoids sweaty toes). Safety Chemical-Free Dye No harsh toxins; safe if baby decides to taste their toes. Care Machine Washable Keeps its shape and softness wash after wash.
+  Updated: 2026-09-12T22:47:38Z
+  Vendor: SwaddleAn
+  Product Type: Baby Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/2998/9908/files/Swaddle_AN_Knit_Baby_Booties_in_Pink_1_71e02ece-e0cd-437c-9996-57b080c020e8.webp?v=1788771929
+  Price: $24.00 USD
+[List Continued](https://cuddlegrove.store/a/llms-agent/llms.txt?shop=rqtp1e-ap.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDM2NjQ5NjI3Njc1NiwibGFzdF92YWx1ZSI6IjEwMzY2NDk2Mjc2NzU2In0%3D)
 
 ## Collections
 
 - [Home page](https://cuddlegrove.store/collections/frontpage)
-  Updated: 2026-09-05T18:26:32Z
-  Total Products: 1
+  Updated: 2026-09-07T01:39:53Z
+  Total Products: 0
 - [Baby & Toddler Apparel](https://cuddlegrove.store/collections/baby-and-toddler-apparel-example-products): Shop Cuddle Grove's baby & toddler apparel — soft, safe clothing from newborn to toddler sizes. Onesies, sleepwear, and everyday outfits.
-  Updated: 2026-09-05T18:26:32Z
-  Total Products: 6
+  Updated: 2026-09-10T22:51:06Z
+  Total Products: 2
 - [Baby & Toddler Clothing](https://cuddlegrove.store/collections/clothing): Shop soft, safe, and adorable clothing for babies and toddlers at Cuddle Grove. Onesies, outfits, pajamas & more for newborns to toddlers.
-  Updated: 2026-09-05T18:26:32Z
-  Total Products: 37
+  Updated: 2026-09-10T22:54:26Z
+  Total Products: 92
 - [Accessories](https://cuddlegrove.store/collections/accessories): Shop baby accessories including swaddles, hats, burp cloths, washcloths, hair accessories, and multi-use covers.
-  Updated: 2026-09-05T18:26:32Z
-  Total Products: 10
+  Updated: 2026-09-10T22:45:42Z
+  Total Products: 42
 - [Nursery & Organization](https://cuddlegrove.store/collections/nursery-organization): Shop nursery organization essentials including blankets, quilts, felt organizers, hampers, storage baskets, and diaper caddies.
-  Updated: 2026-09-05T18:26:32Z
-  Total Products: 10
+  Updated: 2026-09-10T22:44:45Z
+  Total Products: 25
+- [Baby Essentials](https://cuddlegrove.store/collections/baby-essentials): Shop baby essentials at Cuddle Grove — gentle skincare, soothing tools, nursery gear & more. Everything your little one needs, all in one place.
+  Updated: 2026-09-10T22:45:42Z
+  Total Products: 16
+- [Blankets & Swaddles](https://cuddlegrove.store/collections/blankets-swaddles): Shop soft knit baby blankets and swaddles at Cuddle Grove. Cozy, gentle wraps perfect for newborns and toddlers.
+  Updated: 2026-09-07T09:15:46Z
+  Total Products: 15
 
 ## Store Pages
 
@@ -1550,15 +2780,17 @@
   Updated: 2026-09-02T05:00:35Z
 - [Your Privacy Choices](https://cuddlegrove.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-02T05:00:37Z
+- [About Us | Cuddle Grove](https://cuddlegrove.store/pages/about-us): Welcome to Cuddle Grove Hi, I'm Olivia — a mom who knows firsthand that the early years are equal parts magical and overwhelming. Between the sleep...
+  Updated: 2026-09-07T00:27:59Z
 
 ## Policies
 
 - [Privacy Policy](https://cuddlegrove.store/policies/privacy-policy)
   Updated: 2026-09-01T22:00:37-07:00
 - [Shipping Policy](https://cuddlegrove.store/policies/shipping-policy)
-  Updated: 2026-09-05T16:48:23-07:00
+  Updated: 2026-09-06T18:16:35-07:00
 - [Refund Policy](https://cuddlegrove.store/policies/refund-policy)
-  Updated: 2026-09-03T16:09:42-07:00
+  Updated: 2026-09-06T18:08:08-07:00
 - [Terms of Service](https://cuddlegrove.store/policies/terms-of-service)
   Updated: 2026-09-03T16:10:16-07:00
 - [Contact Information](https://cuddlegrove.store/policies/contact-information)
