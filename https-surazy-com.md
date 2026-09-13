@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-09-05T00:00:43.395Z
+- Updated At: 2026-09-13T00:00:46.397Z
 
 ## Products
 
@@ -2346,14 +2346,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b282c307-ab01-40e5-a990-97792c8b16f3.jpg?v=1698014291
     Price: $45.75 USD
-- [Pearl Heart Women's Design Sense Grain Of Rice Beaded Advanced Earrings](https://surazy.com/products/pearl-heart-womens-design-sense-grain-of-rice-beaded-advanced-personalized-earrings): Intricately Woven Elegance: Admire the intricate weaving of elegance in every detail of our advanced earrings. The delicate design, combined with the subtle shimmer of pearls, ensures you stand out with grace and poise. Elevate your style with our exquisite Pearl Heart Women's Design Sense Grain Of Rice Beaded Advanced Earrings. Crafted with precision and adorned with delicate pearls, these earrings effortlessly blend sophistication with a touch of modern design. Perfect for any occasion, these earrings showcase your unique sense of style and add a timeless charm to your look. Make a statement with these elegant and versatile accessories  Process: Pearl Inlaid Shape: Heart Shape Popular Elements: Love / Heart Packing list: 1pair * Earrings
-  Updated: 2026-07-10T13:39:00Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b5af1a99-f50d-4c1a-8fb2-6ba5bed7350b.jpg?v=1698014364
-  Price: $35.75 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY3NjMxMTUyLCJsYXN0X3ZhbHVlIjoiODc4NDk2NzYzMTE1MiJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY2Nzc5MTg0LCJsYXN0X3ZhbHVlIjoiODc4NDk2Njc3OTE4NCJ9)
 
 ## Collections
 
@@ -3074,6 +3067,18 @@
     Author: Surazy.com
   - [7 Reasons Judy Blue Vintage Wash Jeans Are a Plus Size Essential](https://surazy.com/blogs/news/7-reasons-judy-blue-vintage-wash-jeans-are-a-plus-size-essential): 7 Reasons Judy Blue Vintage Wash Jeans Are a Plus Size Essential
     Updated: 2026-09-02T02:30:47Z
+    Author: Surazy.com
+  - [Crisscross V-Neck One-Piece Swimwear Trends to Watch for This Summer](https://surazy.com/blogs/news/crisscross-v-neck-one-piece-swimwear-trends-to-watch-for-this-summer): Crisscross V-Neck One-Piece Swimwear Trends to Watch for This Summer
+    Updated: 2026-09-05T00:46:26Z
+    Author: Surazy.com
+  - [Exploring the Elegance of Plus Size Women's Beads Chiffon Party Evening Dresses](https://surazy.com/blogs/news/exploring-the-elegance-of-plus-size-womens-beads-chiffon-party-evening-dresses): Exploring the Elegance of Plus Size Women's Beads Chiffon Party Evening Dresses
+    Updated: 2026-09-07T02:30:07Z
+    Author: Surazy.com
+  - [Embrace Minimalism with Solid Color One-piece Swimsuits](https://surazy.com/blogs/news/embrace-minimalism-with-solid-color-one-piece-swimsuits): Embrace Minimalism with Solid Color One-piece Swimsuits
+    Updated: 2026-09-09T02:24:43Z
+    Author: Surazy.com
+  - [Unlocking Effortless Style with RISEN Mid Rise Ankle Straight Jeans](https://surazy.com/blogs/news/unlocking-effortless-style-with-risen-mid-rise-ankle-straight-jeans): Unlocking Effortless Style with RISEN Mid Rise Ankle Straight Jeans
+    Updated: 2026-09-12T00:44:06Z
     Author: Surazy.com
 
 ## Store Pages
