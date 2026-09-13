@@ -18,7 +18,7 @@ ArchEnemys is more than a store, it’s a legacy brand built on decades of iconi
 - Contact Email: support@archenemys.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-09-06T16:00:34.727Z
+- Updated At: 2026-09-13T16:00:38.820Z
 
 ArchEnemys is an iconic online magazine and store founded in 1997, built around high heels, bold visual storytelling, and a fearless attitude. Known for pushing boundaries, the brand has spent decades creating content that blends glamour, edge, and raw environments into a signature style that is instantly recognizable.
 
@@ -971,7 +971,7 @@ Resolution: HD 1920x1080
 Run Time: 62 min
 Year: 2003
 File Size: 4 GB
-  Updated: 2026-06-24T22:53:44Z
+  Updated: 2026-09-08T17:20:43Z
   Vendor: ArchEnemys
   Product Type: Videos
   Availability: Available
@@ -1062,7 +1062,7 @@ Resolution: HD 1920x1080
 Run Time: 40 min
 Year: 2002
 File Size: 3 GB
-  Updated: 2026-07-03T19:01:23Z
+  Updated: 2026-09-11T19:05:46Z
   Vendor: ArchEnemys
   Product Type: Videos
   Availability: Available
@@ -1088,7 +1088,7 @@ Resolution: HD 1920x1080
 Run Time: 49 min
 Year: 2002
 File Size: 3 GB
-  Updated: 2026-08-08T09:36:25Z
+  Updated: 2026-09-10T17:47:42Z
   Vendor: ArchEnemys
   Product Type: Videos
   Availability: Available
@@ -1114,7 +1114,7 @@ Resolution: HD 1920x1080
 Run Time: 56 min
 Year: 2003
 File Size: 3 GB
-  Updated: 2026-09-03T17:41:37Z
+  Updated: 2026-09-06T16:00:58Z
   Vendor: ArchEnemys
   Product Type: Videos
   Availability: Available
@@ -1387,7 +1387,7 @@ Resolution: HD 1920x1080
 Run Time: 59 min
 Year: 2003
 File Size: 3 GB
-  Updated: 2026-09-06T06:47:08Z
+  Updated: 2026-09-13T00:18:17Z
   Vendor: ArchEnemys
   Product Type: Videos
   Availability: Available
@@ -1418,46 +1418,7 @@ File Size: 3 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0775/5907/1040/files/BaileyWasson00182.jpg?v=1766872613
   Price: $10.00 USD
-- [Bailey SuperArch 01](https://www.archenemys.com/products/bailey-superarch-01): Bailey Wasson showed up for an unscheduled photoshoot, and we were instantly all in. Carrie LaChance didn’t waste a second, grabbing the highest heels she could find and getting Bailey ready to go 👠🔥✨ Walking in them was a whole nother story 😏
-
-Bailey Wasson stepped into it wearing a denim skirt, pantyhose, and bold red Superarch high heels, rising up into those extreme arches like it was all part of the plan 💋✨ She found her rhythm fast, posing, shifting, and letting the camera capture every angle. It’s raw, unexpected, and one of those shoots that just comes together perfectly. This video is from Bailey Wasson – Gallery #3
-
-Resolution: HD 1920x1080
-Run Time: 40 min
-Year: 2005
-File Size: 4 GB
-  Updated: 2026-05-26T16:57:54Z
-  Vendor: ArchEnemys
-  Product Type: Videos
-  Availability: Available
-  Price: $40.00 USD
-- [Randi Johnson Gallery 64](https://www.archenemys.com/products/randi-johnson-gallery-64): Randi Johnson wanted to have a cookout later in the day, so she made a quick run to the store to grab hamburgers, hotdogs, and chicken 👠🛒🔥 Dressed in a black blouse, black mini skirt, suntan pantyhose, and red patent Superarch high heel pumps, she moved through the aisles like it was her own runway, turning a simple grocery trip into something a little more fun 😏
-
-She took her time picking everything out, pausing here and there, letting the camera catch those in between moments while the list came together 💋✨ Randi Johnson makes even a quick prep run feel polished and effortless, setting the tone perfectly for what’s coming next.
-
-Total Images: 39 Photos
-Year: 2003
-File Size: 4 MB
-  Updated: 2026-05-26T16:57:54Z
-  Vendor: ArchEnemys
-  Product Type: Photos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/5907/1040/files/RandiJohnson04759.jpg?v=1766874803
-  Price: $10.00 USD
-- [Randi Superarch 02](https://www.archenemys.com/products/randi-superarch-02): Randi Johnson wanted to have a cookout later in the day, so she made a quick run to the store to grab hamburgers, hotdogs, and chicken 👠🛒🔥 Dressed in a black blouse, black mini skirt, suntan pantyhose, and red patent Superarch high heel pumps, she moved through the aisles like it was her own runway, turning a simple grocery trip into something a little more fun 😏
-
-She took her time picking everything out, pausing here and there, letting the camera catch those in between moments while the list came together 💋✨ Randi Johnson makes even a quick prep run feel polished and effortless, setting the tone perfectly for what’s coming next. This video is from Randi Johnson – Gallery #64
-
-Resolution: HD 1920x1080
-Run Time:55 min
-Year: 2003
-File Size: 3 GB
-  Updated: 2026-09-06T08:07:38Z
-  Vendor: ArchEnemys
-  Product Type: Videos
-  Availability: Available
-  Price: $40.00 USD
-[List Continued](https://www.archenemys.com/a/llms-agent/llms.txt?shop=ee287b.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAwNjE4OTU3MjQxNiwibGFzdF92YWx1ZSI6IjEwMDA2MTg5NTcyNDE2In0%3D)
+[List Continued](https://www.archenemys.com/a/llms-agent/llms.txt?shop=ee287b.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAwNjE4NTg2OTYzMiwibGFzdF92YWx1ZSI6IjEwMDA2MTg1ODY5NjMyIn0%3D)
 
 ## Collections
 
@@ -1470,10 +1431,10 @@ Height: 5' 4"
 Weight: 125 lbs
 Hair Color: Red
 Shoe Size: 8.5
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 93
 - [Video Collection](https://www.archenemys.com/collections/videos): Our ArchEnemys Video Collection features over 25 years of iconic content, showcasing unforgettable shoots, stunning models, and signature high heel style. From classic scenes to newly remastered HD releases, these videos deliver the bold, cinematic energy that defines ArchEnemys.
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 187
 - [Photo Collection](https://www.archenemys.com/collections/photos): Our ArchEnemys Photo Collection showcases decades of iconic photo sets, featuring stunning models, unforgettable shoots, and signature high heel style. From classic pinup to bold, creative concepts, these galleries capture the beauty, confidence, and attitude that define ArchEnemys.
   Updated: 2026-08-10T11:18:14Z
@@ -1498,7 +1459,7 @@ Height: 5'
 Weight: 103 lbs
 Hair Color: Red
 Shoe Size: 4.5
-  Updated: 2026-09-05T11:13:21Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 22
 - [Alexis Keith](https://www.archenemys.com/collections/alexis-keith): Alexis Keith is one of those models you just can’t say no to. She’s smoking hot and always pushes herself. Just look at her corset photos. She could barely breathe, let alone stand in superarch heels, but she never complains.
 
@@ -1531,10 +1492,10 @@ Height: 5' 3"
 Weight: 124 lbs
 Hair Color: Blonde
 Shoe Size: 5
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 247
 - [Doubleshot](https://www.archenemys.com/collections/doubleshot): Doubleshot is our signature collection featuring more than one model in a single shoot. These fan favorite sessions capture chemistry, confidence, and fun in stunning locations, always styled with the highest heels we can find. Model Collaborations: Amanda Spargo, Ashlyn Rose, Bailey Wasson, Bianca Beauchamp, Brittany Prescott, Carrie LaChance, Candace Lyons, Christina, Courtney Spargo, Danielle Raftus, Danielle Mcquillan, Emily Owen, Ivi Marie, Heidi Green, Jennyfer Kang, Jessica Staples, Kim Scarduzio, Liz Kasperzak, Michelle Rethmeier, Randi Johnson, Shaylee Richardson, Shayna Ferguson, Stephanie Milan, Tasha, Tiana Frederickson
-  Updated: 2026-09-05T11:13:21Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 82
 - [Amber](https://www.archenemys.com/collections/amber): Amber graduated from high school just months ago and arrived at our studio in a sheer white button down blouse and mini skirt. We added a pair of high heels and this young bombshell was ready to go.
 
@@ -1578,7 +1539,7 @@ Height: 5' 3"
 Weight: 120 lbs
 Hair Color: Brown
 Shoe Size: 6
-  Updated: 2026-09-02T11:14:52Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 21
 - [Candace Lyons](https://www.archenemys.com/collections/candace-lyons): Candace Lyons was recommended by her friend Carrie LaChance. After spending time together, Candace asked if she could join a shoot. Once we saw those long slender legs in suntan pantyhose and high heels, we were glad we said yes.
 
@@ -1614,7 +1575,7 @@ Shoe Size: 9
   Updated: 2026-07-10T11:18:40Z
   Total Products: 7
 - [All Products](https://www.archenemys.com/collections/all-products)
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 610
 - [Courtney Spargo](https://www.archenemys.com/collections/courtney-spargo): Courtney Spargo was referred to us by her sister Amanda. It was her first photo shoot, but she slipped into a spandex cheetah dress and 6" heels like a pro. Despite never wearing heels that high, she nailed every pose.
 
@@ -1691,7 +1652,7 @@ Height: 5' 5"
 Weight: 130 lbs
 Hair Color: Brunette
 Shoe Size: 8
-  Updated: 2026-08-12T11:22:26Z
+  Updated: 2026-09-09T11:12:36Z
   Total Products: 10
 - [Kyle Welch](https://www.archenemys.com/collections/kyle-welch): We woke up one morning to a message from Kyle saying she was the perfect model for ArchEnemys. She described herself as confident, sexy, and fit. After seeing her, we think everyone would agree she was absolutely right.
 
@@ -1724,7 +1685,7 @@ Height: 5' 1"
 Weight: 90 lbs
 Hair Color: Brunette
 Shoe Size: 5
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-09T11:12:36Z
   Total Products: 37
 - [Liz Kasperzak](https://www.archenemys.com/collections/liz-kasperzak): Liz was referred to us by her friend Carrie LaChance, a high school cheerleading teammate. She joined Carrie for a few shoots, though ballet boots and quicksand probably weren’t what she expected. Thankfully, we captured the whole experience.
 
@@ -1746,7 +1707,7 @@ Height: 5' 6
 Weight: 120 lbs
 Hair Color: Blonde
 Shoe Size: 7
-  Updated: 2026-07-17T11:12:45Z
+  Updated: 2026-09-09T11:12:36Z
   Total Products: 43
 - [Kim Scarduzio](https://www.archenemys.com/collections/kim-scarduzio): We met Kim Scarduzio on a local film set after a friend suggested she’d be perfect for ArchEnemys. They were right. With olive skin, a petite toned body, and a great attitude, Kim is a total knockout.
 
@@ -1793,10 +1754,10 @@ Shoe Size: 7
   Updated: 2026-06-02T18:04:39Z
   Total Products: 7
 - [Quicksand Collection](https://www.archenemys.com/collections/quicksand-collection): Our ArchEnemys Quicksand Collection features our most daring mud, clay, and quicksand shoots, capturing real reactions in unpredictable environments. From deep pits to thick terrain, these scenes deliver raw intensity, bold styling, and the fearless energy that makes ArchEnemys truly unforgettable.
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-12T11:13:02Z
   Total Products: 74
 - [Bondage Collection](https://www.archenemys.com/collections/bondage-collection): ArchEnemys bondage collection highlights tight, visually captivating restraints with expertly crafted rope ties. Each scene blends precision, tension, and elegance, creating the unmistakable ArchEnemys experience fans love.
-  Updated: 2026-08-09T11:14:06Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 60
 - [Michelle Rethmeier](https://www.archenemys.com/collections/michelle-rethmeier): We met Michelle Rethmeier at a dance club dancing with her friend Stephanie. Both agreed to shoot the next day. Michelle has the perfect girl next door look, appearing shy at first but incredibly outgoing and fearless in front of the camera.
 
@@ -1821,7 +1782,7 @@ Shoe Size: 8
   Updated: 2026-06-02T18:07:55Z
   Total Products: 7
 - [Film Collection](https://www.archenemys.com/collections/films): Our ArchEnemys Films Collection showcases our most creative productions, featuring enhanced themes, cinematic styling, and elevated storytelling. These videos bring added flair and direction while still delivering the signature high heel energy and bold visual style that define ArchEnemys.
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-08T11:14:26Z
   Total Products: 13
 - [Natasha](https://www.archenemys.com/collections/natasha): What can we say about Natasha that you don’t already know? She’s one of the hardest working people we know and always gives 100% effort. One thing is certain, if anyone aims to misbehave, it’s Natasha.
 
@@ -1832,7 +1793,7 @@ Height: 6'
 Weight: 250 lbs
 Hair Color: Brunette
 Shoe Size: 14
-  Updated: 2026-08-12T11:22:26Z
+  Updated: 2026-09-09T11:12:36Z
   Total Products: 2
 - [Amy Kendall](https://www.archenemys.com/collections/amy-kendall): Amy Kendall is a striking 19-year-old beauty with jet black hair and glowing golden brown suntan skin that radiates under the lights. Standing 5'6" with a beautifully balanced, confident figure, she brings bold energy and effortless allure to every ArchEnemys shoot. Amy loves stepping into high heels and sexy outfits, embracing the power, posture, and attitude they create. Whether she’s serving a fierce stare or a playful tease, her presence is warm, captivating, and impossible to ignore..
 
@@ -1871,7 +1832,7 @@ Shoe Size: 7
   Updated: 2026-06-02T18:17:09Z
   Total Products: 4
 - [Pantyhose Collection](https://www.archenemys.com/collections/pantyhose-collection): Our ArchEnemys Pantyhose Collection is dedicated to one of our most iconic signature looks. Featuring stunning models in silky, glossy pantyhose, these shoots highlight smooth lines, flawless legs, and the timeless elegance and allure that define the ArchEnemys style.
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 261
 - [Brittany Prescott](https://www.archenemys.com/collections/brittany-prescott): Brittany Prescott is a tall brunette beauty with striking long legs and a fit, athletic figure that makes her a natural in front of the camera. Standing 5'8", Brittany brings confidence and elegance to every ArchEnemys shoot, especially when stepping into her favorite high heels. With her strong posture, captivating look, and effortless style, she delivers a bold presence that perfectly captures the signature ArchEnemys vibe.
 
@@ -1940,7 +1901,7 @@ Shoe Size: 5.5
   Updated: 2026-06-02T18:22:54Z
   Total Products: 2
 - [High Heel Collection](https://www.archenemys.com/collections/high-heel-collection): Our ArchEnemys High Heel Collection puts the spotlight on our signature obsession, towering heels. Featuring stunning models in sky high styles paired with sexy outfits, these photo sets capture confidence, power, and attitude with every pose, delivering the bold, iconic look ArchEnemys is known for.
-  Updated: 2026-09-06T11:12:09Z
+  Updated: 2026-09-13T11:12:23Z
   Total Products: 610
 - [Jessica Coffin](https://www.archenemys.com/collections/jessica-coffin): Jessica Coffin is a fiery redhead with a petite frame and short, sexy hair that perfectly complements her bold, confident look. Standing at 5'1", she brings a playful attitude and natural charm to every ArchEnemys shoot. Jessica loves stepping into high heels and eye-catching outfits that highlight her curves and unique style, delivering a presence that is both fun, flirty, and undeniably captivating.
 
@@ -3143,6 +3104,30 @@ Shoe Size: 5
     Updated: 2026-09-05T00:01:20Z
     Author: ArchEnemys
     Tags: benefits of latex fashion, fashion, fetish wear, glossy style, latex, latex fashion, latex fetish, men’s clothing, rubber, trendy latex outfits
+  - [Glamour Strike: Harnessing the Power of Towering Superarch Heels on the Street](https://www.archenemys.com/blogs/archenemys/glamour-strike-harnessing-the-power-of-towering-superarch-heels-on-the-street): Glamour Strike: Harnessing the Power of Towering Superarch Heels on the Street
+    Updated: 2026-09-07T00:01:33Z
+    Author: ArchEnemys
+    Tags: elevate your look, fashion, glamour, heel height, heels, high heels, highheels, street style, stylish footwear, superarch, superarch heels, walking in high heels
+  - [Exploring the Allure of Mud with Superarch High Heels](https://www.archenemys.com/blogs/archenemys/exploring-the-allure-of-mud-with-superarch-high-heels): Exploring the Allure of Mud with Superarch High Heels
+    Updated: 2026-09-08T08:00:35Z
+    Author: ArchEnemys
+    Tags: archenemys, exploring mud with heels, extreme heels, fashion, fetish, heels, high heel fetish, high heels, mud, muddy terrain adventures, pantyhose, photoshoots, pinup models, sexy models, stylish footwear, superarch heels, trendy shoes, walking in high heels, walking in public in heels
+  - [Glossy Legs Revealed: The Captivation and Bold Charisma of High Heel Fashion Shoots](https://www.archenemys.com/blogs/archenemys/glossy-legs-revealed-the-captivation-and-bold-charisma-of-high-heel-fashion-shoots): Glossy Legs Revealed: The Captivation and Bold Charisma of High Heel Fashion Shoots
+    Updated: 2026-09-09T00:02:49Z
+    Author: ArchEnemys
+    Tags: allure of glossy legs, fashion, fashion shoots, glossy legs, high heel, high heel photography tips, nylons, pantyhose, stockings, tights
+  - [Lingerie & Landmarks: Staging Iconic Pinup Moments in Audacious Spaces](https://www.archenemys.com/blogs/archenemys/lingerie-landmarks-staging-iconic-pinup-moments-in-audacious-spaces): Lingerie & Landmarks: Staging Iconic Pinup Moments in Audacious Spaces
+    Updated: 2026-09-10T00:01:57Z
+    Author: ArchEnemys
+    Tags: audacious spaces, creative photography ideas, glamour, glamour photography, high heels in public, iconic moments, lingerie photos, photography, photoshoots in public, pinup, pinup photography, reality photography, vintage pinup styles
+  - [The Allurement of Mud and Clay: Untangling Mysteries of Quicksand Temptations](https://www.archenemys.com/blogs/archenemys/the-allurement-of-mud-and-clay-untangling-mysteries-of-quicksand-temptations): The Allurement of Mud and Clay: Untangling Mysteries of Quicksand Temptations
+    Updated: 2026-09-11T00:02:22Z
+    Author: ArchEnemys
+    Tags: clay, clay art, creative photoshoot concepts, damsel in distress, exploring quicksand photography techniqu, messy in heels, mud, mud photography, photoshoot ideas, quicksand, wam
+  - [Cinematic Seduction: Crafting Timeless Looks with Latex and Fetish Glamour](https://www.archenemys.com/blogs/archenemys/cinematic-seduction-crafting-timeless-looks-with-latex-and-fetish-glamour): Cinematic Seduction: Crafting Timeless Looks with Latex and Fetish Glamour
+    Updated: 2026-09-12T00:01:15Z
+    Author: ArchEnemys
+    Tags: fashion, fetish wear, film costumes, glamorous looks, latex, latex fashion, latex fetish, latex style tips, seduction, timeless fetish fashion
 
 ## Store Pages
 
