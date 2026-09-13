@@ -6,13 +6,94 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-19T15:43:14Z
 - Contact Email: shopifyadmin@futureshirts.com
-- Updated At: 2026-08-27T00:00:30.207Z
+- Updated At: 2026-09-13T00:00:36.669Z
+
+## Products
+
+- [It Ain't The Whiskey Photo Tee](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee): It Ain't The Whiskey Photo Tee in black with front print only.
+  Updated: 2026-09-10T07:17:03Z
+  Vendor: Jake Worthington
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWAINTTHEWHISKEYTEE.png?v=1788981046
+  - [S](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee?variant=43745376501837)
+    Availability: Available
+    Price: $30.00 USD
+  - [M](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee?variant=43745376534605)
+    Availability: Available
+    Price: $30.00 USD
+  - [L](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee?variant=43745376567373)
+    Availability: Available
+    Price: $30.00 USD
+  - [XL](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee?variant=43745376600141)
+    Availability: Available
+    Price: $30.00 USD
+  - [2XL](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee?variant=43745376632909)
+    Availability: Available
+    Price: $30.00 USD
+- [Straws & Ralls Tee](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee): Straws & Ralls Tee in heather columbia blue with front print only.
+  Updated: 2026-09-10T07:35:51Z
+  Vendor: Jake Worthington
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWSTRAWSTEE.png?v=1788981202
+  - [S](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee?variant=43745389871181)
+    Availability: Available
+    Price: $30.00 USD
+  - [M](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee?variant=43745389903949)
+    Availability: Available
+    Price: $30.00 USD
+  - [L](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee?variant=43745389936717)
+    Availability: Available
+    Price: $30.00 USD
+  - [XL](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee?variant=43745389969485)
+    Availability: Available
+    Price: $30.00 USD
+  - [2XL](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee?variant=43745390002253)
+    Availability: Available
+    Price: $30.00 USD
+- [Cowboy Trucker Hat](https://hetu4v-eb.myshopify.com/products/cowboy-trucker-hat): Cowboy Trucker Hat in black with embroidery on front and mesh back.
+  Updated: 2026-09-10T07:17:19Z
+  Vendor: Jake Worthington
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWHATHAT.png?v=1788981229
+  Price: $35.00 USD
+- [Logo Hat](https://hetu4v-eb.myshopify.com/products/logo-hat): Jake Worthington Logo Hat in burnt orange with embroidery on front.
+  Updated: 2026-09-10T07:39:19Z
+  Vendor: Jake Worthington
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWORANGELOGOHAT.png?v=1788981307
+  Price: $35.00 USD
+- [Jake Worthington - Standard Black Vinyl](https://hetu4v-eb.myshopify.com/products/jake-worthington-standard-black-vinyl)
+  Updated: 2026-09-10T07:24:35Z
+  Vendor: Jake Worthington
+  Product Type: Music
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWVINYL.png?v=1788981358
+  Price: $24.99 USD
 
 ## Collections
 
 - [Home page](https://hetu4v-eb.myshopify.com/collections/frontpage)
-  Updated: 2026-08-19T15:43:20Z
-  Total Products: 0
+  Updated: 2026-09-09T19:38:29Z
+  Total Products: 5
+- [Apparel](https://hetu4v-eb.myshopify.com/collections/apparel)
+  Updated: 2026-09-09T19:16:57Z
+  Total Products: 2
+- [Accessories](https://hetu4v-eb.myshopify.com/collections/accessories)
+  Updated: 2026-09-09T19:17:16Z
+  Total Products: 2
+- [Hats](https://hetu4v-eb.myshopify.com/collections/hats)
+  Updated: 2026-09-09T19:17:16Z
+  Total Products: 2
+- [Music](https://hetu4v-eb.myshopify.com/collections/music)
+  Updated: 2026-09-09T19:17:23Z
+  Total Products: 1
+- [All](https://hetu4v-eb.myshopify.com/collections/all)
+  Updated: 2026-09-09T19:17:23Z
+  Total Products: 5
 
 ## Store Pages
 
