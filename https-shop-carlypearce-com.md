@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-07T22:02:26Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-28T00:00:40.162Z
+- Updated At: 2026-09-13T00:00:44.818Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Give Yourself Some Grace Cropped Tee](https://shop.carlypearce.com/products/i-hope-youre-happy-now-cropped-tee): "Give Yourself Some Grace" - front chest Logo - back neck Black Modest Crop 65% Polyester, 35% Viscose
-  Updated: 2026-08-27T19:24:58Z
+  Updated: 2026-09-10T13:39:26Z
   Vendor: Carly Pearce Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Not Available
     Price: $20.00 USD
   - [XL](https://shop.carlypearce.com/products/i-hope-youre-happy-now-cropped-tee?variant=40604057698453)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [2XL](https://shop.carlypearce.com/products/i-hope-youre-happy-now-cropped-tee?variant=40604057731221)
     Availability: Available
@@ -82,7 +82,7 @@
   Price: $12.98 USD
 - [Roses Hide Thorns Tee](https://shop.carlypearce.com/products/29-rose-tee): White t-shirt with red rose and the lyrics "Roses hide thorns & devils hide horns' on the back Vintage white tee
 Unisex
-  Updated: 2026-08-27T19:42:56Z
+  Updated: 2026-08-29T23:00:55Z
   Vendor: Carly Pearce
   Product Type: Apparel
   Availability: Available
@@ -102,6 +102,37 @@ Unisex
   - [2XL](https://shop.carlypearce.com/products/29-rose-tee?variant=41131882807445)
     Availability: Not Available
     Price: $30.00 USD
+- [29 Tour Tee](https://shop.carlypearce.com/products/29-tour-tee): Carly Pearce photo tee with tour dates on the back 100% Cotton Unisex
+  Updated: 2026-08-28T20:53:57Z
+  Vendor: Carly Pearce Official Merchandise
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-photo-the-29-black-tour-tee-front_Carly-Pearce.png?v=1745850228
+  - [XS](https://shop.carlypearce.com/products/29-tour-tee?variant=44228888297621)
+    Availability: Available
+    Price: $10.00 USD
+  - [S](https://shop.carlypearce.com/products/29-tour-tee?variant=42014213144725)
+    Availability: Available
+    Price: $10.00 USD
+  - [M](https://shop.carlypearce.com/products/29-tour-tee?variant=42014213177493)
+    Availability: Available
+    Price: $10.00 USD
+  - [L](https://shop.carlypearce.com/products/29-tour-tee?variant=42014213210261)
+    Availability: Available
+    Price: $10.00 USD
+  - [XL](https://shop.carlypearce.com/products/29-tour-tee?variant=42014213275797)
+    Availability: Available
+    Price: $10.00 USD
+  - [2XL](https://shop.carlypearce.com/products/29-tour-tee?variant=42014213308565)
+    Availability: Available
+    Price: $10.00 USD
+- [29 Dad Hat](https://shop.carlypearce.com/products/29-dad-hat): 29 black dad hat with '29' embroidered on the front & Carly Pearce's logo embroidered above the adjustable strap.
+  Updated: 2026-08-30T01:00:21Z
+  Vendor: Carly Pearce
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/products/29-embroidered-black-dad-hat-front_Carly-Pearce.png?v=1655400568
+  Price: $25.00 USD
 - [Heart-Break Isn't Sexy Tee](https://shop.carlypearce.com/products/heart-break-isnt-sexy-tee): A deep heather unisex tee with "heart-break isn't sexy" screen printed on the front in orchid colored ink. Carly Pearce logo printed on the back neck. size chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
   Updated: 2026-08-27T19:42:43Z
   Vendor: Carly Pearce Official Merchandise
@@ -124,7 +155,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Carly Pearce Star Poster](https://shop.carlypearce.com/products/11x17-poster): Vintage inspired photo and typeface on the front 11x17 Official Poster Unsigned
-  Updated: 2026-08-27T19:30:02Z
+  Updated: 2026-09-03T19:02:36Z
   Vendor: Carly Pearce Official Merchandise
   Product Type: Poster
   Availability: Available
@@ -155,7 +186,7 @@ Unisex
     Availability: Not Available
     Price: $10.00 USD
 - [What He Didn't Do Tank](https://shop.carlypearce.com/products/what-he-didnt-do-tank): "What He Didn't Do" ladies tank top in charcoal.
-  Updated: 2026-08-27T19:42:24Z
+  Updated: 2026-08-29T23:50:02Z
   Vendor: Carly Pearce
   Product Type: Apparel
   Availability: Available
@@ -175,15 +206,22 @@ Unisex
   - [2XL](https://shop.carlypearce.com/products/what-he-didnt-do-tank?variant=42215642824853)
     Availability: Not Available
     Price: $10.00 USD
+- [Wine Tote Bag | Official Carly Pearce Merch Store](https://shop.carlypearce.com/products/wine-tote-bag): Canvas wine tote bag! Perfect for summer or gifting Fits one wine bottle
+  Updated: 2026-08-29T08:49:22Z
+  Vendor: Carly Pearce
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/products/winetote.png?v=1667831760
+  Price: $30.00 USD
 - [29: Written In Stone (Live From Music City) - CD](https://shop.carlypearce.com/products/29-written-in-stone-live-in-music-city-cd): CD of Carly Pearce's album 29: Written In Stone Live From Music City Track Listing: Diamondback (Live From Music City) What He Didn’t Do (Live From Music City) Easy Going (Live From Music City) Dear Miss Loretta (Live From Music City) Next Girl (Live From Music City) Should’ve Known Better (Live From Music City) 29 (Live From Music City) Never Wanted To Be That Girl (Live From Music City) – Carly Pearce and Ashley McBryde Your Drinkin’, My Problem (Live From Music City) Liability (Live From Music City) Messy (Live From Music City) Show Me Around (Live From Music City) Day One (Live From Music City) All The Whiskey In The World (Live From Music City) Mean It This Time (Live From Music City) Truth Be Told (Live From Music City) – Carly Pearce and Matthew West Every Little Thing (Live From Music City) Hide The Wine (Live From Music City) I Hope You’re Happy Now (Live From Music City) – Carly Pearce and Lee Brice
-  Updated: 2026-08-27T19:24:57Z
+  Updated: 2026-08-31T22:18:46Z
   Vendor: Carly Pearce
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/products/CYP_WEB_29WIS_LiveFromMusicCity_ProductMockup_CD_2023.01.12_FNL.png?v=1675281499
   Price: $12.98 USD
 - [2023 Live On Tour Tee](https://shop.carlypearce.com/products/black-photo-tour-tee-2023): This vintage black tee is an officially item of the 2023 Carly Pearce Live on Tour. It features the dates and cities for the shows that take will take place on Carly's tour this year. This black unisex tee is made from a durable, 100% cotton fabric that is soft & pre-shrunk.
-  Updated: 2026-08-27T19:41:56Z
+  Updated: 2026-08-30T23:09:47Z
   Vendor: Carly Pearce
   Product Type: Apparel
   Availability: Available
@@ -207,7 +245,7 @@ Unisex
     Availability: Available
     Price: $25.00 USD
 - [Cowgirl Tee](https://shop.carlypearce.com/products/natural-cowgirl-tee): Cowgirl tee in a natural color! 100% Cotton / Front and back print
-  Updated: 2026-08-27T19:41:38Z
+  Updated: 2026-08-28T07:41:43Z
   Vendor: Carly Pearce
   Product Type: Accessories
   Availability: Available
@@ -228,12 +266,33 @@ Unisex
     Availability: Not Available
     Price: $25.00 USD
 - [29: Written in Stone | Live From Music City Poster](https://shop.carlypearce.com/products/29-written-in-stone-live-in-music-city-poster): 29: Written in Stone | Live From Music City Poster Size: 18"x24" Limited edition poster
-  Updated: 2026-08-27T19:30:02Z
+  Updated: 2026-08-31T22:18:46Z
   Vendor: Carly Pearce
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/products/cp.png?v=1680272743
   Price: $10.00 USD
+- [Country Music Tour Tee](https://shop.carlypearce.com/products/cmmmdi-tour-tee): Country Music Made Me Do It chest hit on the front 2023 Tour dates on the back 100% Cotton Unisex
+  Updated: 2026-08-29T08:51:55Z
+  Vendor: Carly Pearce
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/tourteeback_ccaccc99-7d90-4872-a7a2-9bdc61c5e590.png?v=1745851443
+  - [S](https://shop.carlypearce.com/products/cmmmdi-tour-tee?variant=43683915792533)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://shop.carlypearce.com/products/cmmmdi-tour-tee?variant=43683915825301)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://shop.carlypearce.com/products/cmmmdi-tour-tee?variant=43683915858069)
+    Availability: Not Available
+    Price: $35.00 USD
+  - [XL](https://shop.carlypearce.com/products/cmmmdi-tour-tee?variant=43683915890837)
+    Availability: Not Available
+    Price: $35.00 USD
+  - [XXL](https://shop.carlypearce.com/products/cmmmdi-tour-tee?variant=43683915923605)
+    Availability: Not Available
+    Price: $35.00 USD
 - [Triangle Photo Tee](https://shop.carlypearce.com/products/cmmmdi-triangle-tee): Carly Pearce photo tee Country Music Made Me Do It text on the front 100% Cotton
   Updated: 2026-08-27T19:41:17Z
   Vendor: Carly Pearce
@@ -283,6 +342,13 @@ Unisex
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/poster_14cc030d-c75d-4c44-8b7e-ba5a8e9357a1.png?v=1696517744
   Price: $5.00 USD
+- [Say Anything Journal](https://shop.carlypearce.com/products/say-anything-journal): Say Anything blue journal featuring a special note from Carly w/ her autograph printed inside!
+  Updated: 2026-09-04T21:49:41Z
+  Vendor: Carly Pearce
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/SayAnythingJournal_e309c0d5-dc83-4f7a-801c-9af31b87f1cd.png?v=1739376146
+  Price: $20.00 USD
 - [Hummingbird - CD](https://shop.carlypearce.com/products/hummingbird-cd): Tracklist: Country Music Made Me Do It Truck On Fire Still Blue Head Over Heels We Don't Fight Anymore Rock Paper Scissors Oklahoma My Place Things I Don't Chase Woman to Woman Fault Line Pretty Please Trust Issues Hummingbird
   Updated: 2026-08-27T19:24:55Z
   Vendor: Carly Pearce
@@ -291,21 +357,21 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-HUMMINGBIRD-CD.png?v=1709300095
   Price: $12.98 USD
 - [hummingbird - exclusive ruby vinyl](https://shop.carlypearce.com/products/hummingbird-translucent-ruby-exclusive-lp): Double Vinyl LP in translucent ruby color Tracklist: Country Music Made Me Do It Truck On Fire Still Blue Head Over Heels We Don't Fight Anymore Rock Paper Scissors Oklahoma My Place Things I Don't Chase Woman to Woman Fault Line Pretty Please Trust Issues Hummingbird
-  Updated: 2026-08-27T19:24:55Z
+  Updated: 2026-09-03T19:02:36Z
   Vendor: Carly Pearce
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-RUBY-VINYL-STAND-ALONE.png?v=1720647020
   Price: $29.98 USD
 - [hummingbird - exclusive foil poster [signed]](https://shop.carlypearce.com/products/hummingbird-exclusive-foil-poster-signed): SIGNED BY CARLY Shop the limited edition hummingbird exclusive foil poster. This commemorative poster features multiple layers of both gold and iridescent foil. These are hand numbered and signed. Due to the intricate detail of the printing, no two posters are alike. Hand-numbered / 250 available 11 x 17 in
-  Updated: 2026-08-27T19:30:02Z
+  Updated: 2026-09-11T18:05:36Z
   Vendor: Carly Pearce
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/output-onlinegiftools_5.gif?v=1722464413
   Price: $40.00 USD
 - [liar liar sticker](https://shop.carlypearce.com/products/liar-liar-sticker): Liar Liar sticker! approx 2 x 3 in
-  Updated: 2026-08-27T19:24:55Z
+  Updated: 2026-09-03T18:14:36Z
   Vendor: Carly Pearce
   Product Type: Accessories
   Availability: Available
@@ -336,7 +402,7 @@ Unisex
     Availability: Not Available
     Price: $25.00 USD
 - [Cowboys & Whiskey Tee](https://shop.carlypearce.com/products/cowboys-whiskey-tee): Cowboys & Whiskey Tee with front and back print! 100% Cotton
-  Updated: 2026-08-27T19:39:16Z
+  Updated: 2026-09-04T00:16:06Z
   Vendor: Carly Pearce
   Product Type: Apparel
   Availability: Available
@@ -356,6 +422,13 @@ Unisex
   - [2XL](https://shop.carlypearce.com/products/cowboys-whiskey-tee?variant=45531826028693)
     Availability: Available
     Price: $35.00 USD
+- [Christmas Sticker Sheet](https://shop.carlypearce.com/products/carly-christmas-sticker-sheet): Carly Christmas Sticker Sheet Contains 3 stickers / Each approx 2 x 2 in
+  Updated: 2026-09-03T19:50:13Z
+  Vendor: Carly Pearce
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-CHRISTMAS-STICKERS.png?v=1730760519
+  Price: $12.00 USD
 - [Country Music Hoodie](https://shop.carlypearce.com/products/cmmmdi-hoodie-1): Country Music Made Me Do It Unisex Hoodie in grey
   Updated: 2026-08-11T14:31:29Z
   Vendor: Carly Pearce
@@ -371,8 +444,15 @@ Unisex
   - [L](https://shop.carlypearce.com/products/cmmmdi-hoodie-1?variant=45937264197781)
     Availability: Available
     Price: $45.00 USD
+- [Country Music Hat](https://shop.carlypearce.com/products/country-music-hat): Country Music Made Me Do It design Puff print on the front Black/Natural hat with adjustable sizing 65% polyester, 35% cotton blend
+  Updated: 2026-09-12T17:36:07Z
+  Vendor: Carly Pearce
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPHAT.png?v=1747172100
+  Price: $35.00 USD
 - [2025 Hummingbird Tour Tee](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee): Carly Pearce typeface and photo graphic on the front 2025 Hummingbird tour dates on the back 100% Cotton Unisex
-  Updated: 2026-08-27T19:36:03Z
+  Updated: 2026-08-28T07:36:05Z
   Vendor: Carly Pearce
   Product Type: Apparel
   Availability: Available
@@ -420,15 +500,8 @@ Unisex
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/760288189-louisville-poster-signed.png?v=1752780492
   Price: $20.00 USD
-- [SIGNED hummingbird ruby exclusive LP + signed art print](https://shop.carlypearce.com/products/signed-hummingbird-ruby-exclusive-lp-signed-art-print): Cover Signed by Carly Pearce This item is a Double Vinyl LP in translucent ruby color Also includes a exclusive signed 12.5 in x 12.5 in art print Tracklist: Country Music Made Me Do It Truck On Fire Still Blue Head Over Heels We Don't Fight Anymore Rock Paper Scissors Oklahoma My Place Things I Don't Chase Woman to Woman Fault Line Pretty Please Trust Issues Hummingbird
-  Updated: 2026-08-27T19:24:53Z
-  Vendor: Carly Pearce
-  Product Type: Music
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CYP_WEB_hummingbird_VinylMockup_TranslucentRuby_SignedArtPrint_D2C_2024.02.27_FNL.png?v=1709651212
-  Price: $30.00 USD
 - [Hummingbird Hoodie](https://shop.carlypearce.com/products/hummingbird-hoodie-1): Hummingbird graphic on the front and sleeve Unisex Hoodie in black
-  Updated: 2026-08-27T19:35:41Z
+  Updated: 2026-08-28T07:35:46Z
   Vendor: Carly Pearce
   Product Type: Outerwear
   Availability: Available
@@ -449,7 +522,7 @@ Unisex
     Availability: Available
     Price: $50.00 USD
 - [Carly Pearce Self Titled CD](https://shop.carlypearce.com/products/carly-pearce-self-titled-cd)
-  Updated: 2026-08-27T19:24:53Z
+  Updated: 2026-08-29T18:15:30Z
   Vendor: Carly Pearce Shop
   Product Type: CD
   Availability: Available
@@ -462,15 +535,22 @@ Unisex
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPPoster.png?v=1768344132
   Price: $10.00 USD
+- [Country Music Sticker Sheet](https://shop.carlypearce.com/products/cmmmdi-sticker-sheet): Country Music Made Me Do It Sticker Sheet Contains 4 stickers
+  Updated: 2026-09-03T02:32:18Z
+  Vendor: Carly Pearce
+  Product Type: Sticker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-STicker.png?v=1771365006
+  Price: $12.00 USD
 - [Church Girl Bracelet](https://shop.carlypearce.com/products/church-girl-bracelet): Beaded friendship bracelet with Church Girl letters and a custom cowgirl hat charm
-  Updated: 2026-08-27T19:29:32Z
+  Updated: 2026-09-04T21:49:43Z
   Vendor: Carly Pearce
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/Church-Girl-Bracelet.png?v=1774367285
   Price: $5.00 USD
 - [2026 Live On Tour Tee](https://shop.carlypearce.com/products/2026-live-on-tour-tee): Carly Pearce typeface on the front chest 2026 tour dates and photo of Carly on the back 100% Cotton tee in Black Unisex
-  Updated: 2026-08-27T19:35:03Z
+  Updated: 2026-09-03T15:48:31Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -491,7 +571,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Country Music Crewneck](https://shop.carlypearce.com/products/country-music-crewneck): Country Music Crewneck in Forest Green 50/50 cotton/polyester Front and back print Size Chart Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-08-27T19:34:52Z
+  Updated: 2026-09-10T18:51:16Z
   Vendor: Carly Pearce
   Product Type: Crewneck
   Availability: Available
@@ -512,7 +592,7 @@ Unisex
     Availability: Available
     Price: $60.00 USD
 - [Floral Photo Tee](https://shop.carlypearce.com/products/floral-photo-tee): Carly Pearce photo on the front chest framed by flowers 100% Cotton tee in Sand Unisex
-  Updated: 2026-08-27T19:34:27Z
+  Updated: 2026-09-10T18:51:16Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -533,7 +613,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Choose Love Tee](https://shop.carlypearce.com/products/choose-love-tee): Choose Love on the front chest Carly Pearce on the sleeve 100% Cotton tee in muted green Unisex
-  Updated: 2026-08-27T19:34:17Z
+  Updated: 2026-08-28T07:34:19Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -554,108 +634,188 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Country Music Koozie - Green](https://shop.carlypearce.com/products/country-music-koozie-green): Country Music Made Me Do It graphic on one side Carly Pearce graphic on the other side Green koozie for 12 oz can
-  Updated: 2026-08-27T19:24:52Z
+  Updated: 2026-09-04T21:49:38Z
   Vendor: Carly Pearce
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/Mockup_0001s_0003_167420_1_308147_d.png?v=1775682384
   Price: $5.00 USD
-- [Honest Woman CD](https://shop.carlypearce.com/products/honest-woman-cd): Pre-order Carly's latest album, Honest Woman, on CD sometimes finding yourself means finding your way back home. for me, it meant coming home...to my truth, my story, and the woman i am at my core.these songs tell that story. they hold pieces of my heart, where i come from, and the journey that brought me here. i’m so proud of this album and i can’t wait to share it with you. - love, Carly Tracklist Dream Come True Church Girl She Don’t You Can Have Him How Long WWJD Same Circus Happy For Myself If I Don’t Leave I’m Gonna Stay (Carly Pearce & Riley Green) I Don’t Have The Heart He Don’t Like My Dogs Leave My Heart Alone Who’s Lying Here (Carly Pearce & Dan Tyminski) Daisy What If You Loved Me (Carly Pearce, Molly Tuttle, Dan Tyminski) Why God Why Me
-  Updated: 2026-08-27T19:24:52Z
-  Vendor: Carly Pearce
-  Product Type: CD
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPCD_78d9b32e-4b83-4e66-a0bb-4313304b4f14.png?v=1781813554
-  Price: $14.98 USD
-- [Honest Woman CD + Signed Art Card](https://shop.carlypearce.com/products/honest-woman-cd-signed): Art card SIGNED by Carly, limited quantity available Pre-order Carly's latest album, Honest Woman, on CD sometimes finding yourself means finding your way back home. for me, it meant coming home...to my truth, my story, and the woman i am at my core.these songs tell that story. they hold pieces of my heart, where i come from, and the journey that brought me here. i’m so proud of this album and i can’t wait to share it with you. - love, Carly Tracklist Dream Come True Church Girl She Don’t You Can Have Him How Long WWJD Same Circus Happy For Myself If I Don’t Leave I’m Gonna Stay (Carly Pearce & Riley Green) I Don’t Have The Heart He Don’t Like My Dogs Leave My Heart Alone Who’s Lying Here (Carly Pearce & Dan Tyminski) Daisy What If You Loved Me (Carly Pearce, Molly Tuttle, Dan Tyminski) Why God Why Me
-  Updated: 2026-08-27T19:24:52Z
+- [Honest Woman CD + Signed Art Card](https://shop.carlypearce.com/products/honest-woman-cd-signed): Art card SIGNED by Carly, limited quantity available Carly's latest album, Honest Woman, on CD sometimes finding yourself means finding your way back home. for me, it meant coming home...to my truth, my story, and the woman i am at my core.these songs tell that story. they hold pieces of my heart, where i come from, and the journey that brought me here. i’m so proud of this album and i can’t wait to share it with you. - love, Carly Tracklist Dream Come True Church Girl She Don’t You Can Have Him How Long WWJD Same Circus Happy For Myself If I Don’t Leave I’m Gonna Stay (Carly Pearce & Riley Green) I Don’t Have The Heart He Don’t Like My Dogs Leave My Heart Alone Who’s Lying Here (Carly Pearce & Dan Tyminski) Daisy What If You Loved Me (Carly Pearce, Molly Tuttle, Dan Tyminski) Why God Why Me
+  Updated: 2026-09-11T16:35:35Z
   Vendor: Carly Pearce
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/HONESTWOMANSIGNEDARTCARD_04d0e837-e3fe-405a-8960-e77d04e37cb7_EDIT.png?v=1785939919
   Price: $19.98 USD
 - [Honest Woman Vinyl - Signed](https://shop.carlypearce.com/products/honest-woman-vinyl-signed): Cover SIGNED by Carly, limited quantity available Pre-order Carly's latest album, Honest Woman, on this special edition white vinyl
-  Updated: 2026-08-27T23:55:46Z
+  Updated: 2026-09-12T09:01:07Z
   Vendor: Carly Pearce
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPVinylSigned_dc60b304-26bd-435d-b28c-a68b2654356c.png?v=1786387007
   Price: $39.98 USD
+- [Banjo Photo Tee](https://shop.carlypearce.com/products/banjo-photo-tee): Carly Pearce logo on the front chest Honest Woman graphic on the back with a photo of Carly and her banjo Short sleeve tee in Dark Brown 100% cotton
+  Updated: 2026-09-12T20:36:48Z
+  Vendor: Carly Pearce
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0000_Honest-Woman-Tee-B.png?v=1787854192
+  - [S](https://shop.carlypearce.com/products/banjo-photo-tee?variant=47849271361685)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://shop.carlypearce.com/products/banjo-photo-tee?variant=47849271394453)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://shop.carlypearce.com/products/banjo-photo-tee?variant=47849271427221)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://shop.carlypearce.com/products/banjo-photo-tee?variant=47849271459989)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://shop.carlypearce.com/products/banjo-photo-tee?variant=47849271492757)
+    Availability: Available
+    Price: $35.00 USD
+- [Honest Crewneck](https://shop.carlypearce.com/products/honest-crewneck): HONEST screenprinted on the front with Carly Pearce logo on the sleeve Unisex sweatshirt in Sand 80/20 cotton/polyester
+  Updated: 2026-09-12T20:36:47Z
+  Vendor: Carly Pearce
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0002_Honest-Crewneck.png?v=1787854606
+  - [S](https://shop.carlypearce.com/products/honest-crewneck?variant=47849273360533)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://shop.carlypearce.com/products/honest-crewneck?variant=47849273393301)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://shop.carlypearce.com/products/honest-crewneck?variant=47849273426069)
+    Availability: Available
+    Price: $60.00 USD
+  - [XL](https://shop.carlypearce.com/products/honest-crewneck?variant=47849273458837)
+    Availability: Available
+    Price: $60.00 USD
+  - [2XL](https://shop.carlypearce.com/products/honest-crewneck?variant=47849273491605)
+    Availability: Available
+    Price: $60.00 USD
+- [If I Don't Leave Koozie](https://shop.carlypearce.com/products/if-i-dont-leave-koozie): If I don't leave, I'm gonna stay Beige koozie with lyrics on one side and Carly Pearce on the other
+  Updated: 2026-09-11T23:00:52Z
+  Vendor: Carly Pearce
+  Product Type: Koozie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0004_Cream-Koozie.png?v=1787880320
+  Price: $5.00 USD
+- [Happy For Myself Sticker](https://shop.carlypearce.com/products/happy-for-myself-sticker): happy for myself 4x1in sticker
+  Updated: 2026-09-10T20:14:35Z
+  Vendor: Carly Pearce
+  Product Type: Sticker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0006_Happy-For-Myself-Sticker.png?v=1787880158
+  Price: $5.00 USD
+- [Circus Sticker](https://shop.carlypearce.com/products/circus-sticker): same circus, different clown 3x3in sticker
+  Updated: 2026-09-10T20:14:38Z
+  Vendor: Carly Pearce
+  Product Type: Sticker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0005_Circus-Sticker.png?v=1787880023
+  Price: $5.00 USD
+- [Daisy Tour Tee](https://shop.carlypearce.com/products/daisy-tour-tee): Photo of Carly with daisies on the front Honest Woman Live On Tour cities on the back Short sleeve tee in Black Unisex
+  Updated: 2026-09-12T20:36:52Z
+  Vendor: Carly Pearce
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0000_Honest-Woman-Tour-Tee-A.png?v=1787880523
+  - [S](https://shop.carlypearce.com/products/daisy-tour-tee?variant=47853025886357)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://shop.carlypearce.com/products/daisy-tour-tee?variant=47853025919125)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://shop.carlypearce.com/products/daisy-tour-tee?variant=47853025951893)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://shop.carlypearce.com/products/daisy-tour-tee?variant=47853025984661)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://shop.carlypearce.com/products/daisy-tour-tee?variant=47853026017429)
+    Availability: Available
+    Price: $35.00 USD
 
 ## Collections
 
 - [apparel](https://shop.carlypearce.com/collections/apparel)
-  Updated: 2026-08-25T11:02:55Z
-  Total Products: 46
+  Updated: 2026-09-11T11:02:35Z
+  Total Products: 45
 - [accessories](https://shop.carlypearce.com/collections/accessories)
-  Updated: 2026-08-27T19:20:53Z
-  Total Products: 21
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 24
 - [music](https://shop.carlypearce.com/collections/music)
-  Updated: 2026-08-27T18:25:56Z
-  Total Products: 20
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 21
 - [BEST SELLERS](https://shop.carlypearce.com/collections/hummingbird-collection)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-12T11:02:51Z
   Total Products: 21
 - [CP ARCHIVES](https://shop.carlypearce.com/collections/cp-archives)
-  Updated: 2026-08-23T11:03:07Z
+  Updated: 2026-09-04T11:02:47Z
   Total Products: 24
 - [Hummingbird Collection](https://shop.carlypearce.com/collections/hummingbird-tour-collection)
-  Updated: 2026-08-27T18:25:56Z
-  Total Products: 23
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 22
 - [Valentine's Free Gift](https://shop.carlypearce.com/collections/valentines-free-gift)
-  Updated: 2026-08-23T11:03:07Z
+  Updated: 2026-09-05T11:03:04Z
   Total Products: 7
 - [Classics](https://shop.carlypearce.com/collections/classics)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-11T11:02:35Z
   Total Products: 11
 - [All](https://shop.carlypearce.com/collections/all)
-  Updated: 2026-08-27T19:20:53Z
-  Total Products: 132
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 59
 - [](https://shop.carlypearce.com/collections/)
-  Updated: 2026-08-27T19:20:41Z
+  Updated: 2026-09-11T11:02:35Z
   Total Products: 49
 - [New Arrivals](https://shop.carlypearce.com/collections/new-arrivals)
-  Updated: 2026-08-27T19:20:53Z
-  Total Products: 20
-- [Under $10 Upsell](https://shop.carlypearce.com/collections/under-10)
-  Updated: 2026-08-27T19:20:53Z
-  Total Products: 22
-- [EasyGift All Products](https://shop.carlypearce.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-27T19:20:53Z
-  Total Products: 134
-- [Country Music Made Me Do It](https://shop.carlypearce.com/collections/country-music-made-me-do-it)
-  Updated: 2026-08-16T11:03:01Z
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 19
+- [Under $10](https://shop.carlypearce.com/collections/under-10)
+  Updated: 2026-09-11T11:02:35Z
   Total Products: 13
+- [EasyGift All Products](https://shop.carlypearce.com/collections/easygift-all-products): EasyGift all products collection
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 137
+- [Country Music Made Me Do It](https://shop.carlypearce.com/collections/country-music-made-me-do-it)
+  Updated: 2026-09-05T11:03:04Z
+  Total Products: 12
 - [Signed From the Archives](https://shop.carlypearce.com/collections/posters)
-  Updated: 2026-08-27T19:20:41Z
+  Updated: 2026-09-12T11:02:51Z
   Total Products: 13
 - [$5 and Under](https://shop.carlypearce.com/collections/5-and-under)
-  Updated: 2026-08-27T18:17:56Z
-  Total Products: 19
+  Updated: 2026-09-11T11:02:35Z
+  Total Products: 22
 - [National Vinyl Day](https://shop.carlypearce.com/collections/national-vinyl-day)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-04T11:02:47Z
   Total Products: 5
 - [Black Friday: 10 and Under](https://shop.carlypearce.com/collections/black-friday-10-and-under)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-11T11:02:35Z
   Total Products: 26
 - [Black Friday: $20](https://shop.carlypearce.com/collections/black-friday-20)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-04T11:02:47Z
   Total Products: 11
 - [Black Friday: 30 & Above](https://shop.carlypearce.com/collections/black-friday-30-and-above)
-  Updated: 2026-08-27T18:25:56Z
+  Updated: 2026-09-12T11:02:51Z
   Total Products: 52
 - [Sticker ](https://shop.carlypearce.com/collections/sticker-)
-  Updated: 2026-08-27T11:02:48Z
+  Updated: 2026-09-12T11:02:51Z
   Total Products: 44
 - [Live on Tour](https://shop.carlypearce.com/collections/live-on-tour)
-  Updated: 2026-08-27T19:20:53Z
+  Updated: 2026-09-11T11:02:35Z
   Total Products: 12
 - [Members Only](https://shop.carlypearce.com/collections/memcp32586)
-  Updated: 2026-08-07T19:35:24Z
-  Total Products: 2
+  Updated: 2026-09-01T18:21:47Z
+  Total Products: 0
 - [Honest Woman](https://shop.carlypearce.com/collections/honest-woman)
-  Updated: 2026-08-27T19:19:05Z
-  Total Products: 6
+  Updated: 2026-09-12T11:02:51Z
+  Total Products: 11
+- [Honest Woman Live on Tour](https://shop.carlypearce.com/collections/honest-woman-live-on-tour)
+  Updated: 2026-09-11T11:02:35Z
+  Total Products: 8
 
 ## Blogs
 
