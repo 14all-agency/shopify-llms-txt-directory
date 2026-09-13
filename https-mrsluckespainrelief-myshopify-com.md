@@ -6,98 +6,17 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-09-01T08:36:29Z
 - Contact Email: ghasnataliep@outlook.com
-- Updated At: 2026-09-02T07:39:37.518Z
+- Updated At: 2026-09-13T00:00:29.018Z
 
 ## Products
 
-- [Ultrasonic Therapy Device For Pain Relief - 1MHz Body Massager](https://mrsluckespainrelief.myshopify.com/products/ultrasonic-therapy-device-for-body-pain-physiotherapy-equipment-for-muscle-heating-reliever-knee-shoulder-back-1mhz): Relieve back, knee & shoulder pain with our 1MHz ultrasonic therapy device. Professional physiotherapy equipment for muscle heating & pain relief at home.
-  Updated: 2026-09-02T07:22:19Z
-  Vendor: My Store 3
-  Product Type: Therapy Device
+- [ReliefCore Pro — Heat & Massage Back Cushion for Pain Relief](https://mrsluckespainrelief.myshopify.com/products/reliefcore-pro-back-massager): Deep-kneading massage nodes + soothing heat therapy in one premium back cushion. Relieve back pain at home with ReliefCore Pro. Free US shipping.
+  Updated: 2026-09-08T05:01:06Z
+  Vendor: ReliefCore Pro
+  Product Type: Pain Relief Device
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/1d7ff3db-65f9-4f47-87ce-c1a9e0515d46.jpg?v=1788259620
+  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/a9258524-7f6d-4ce1-9ee7-c89784e64eec.jpg?v=1788843666
   Price: $250.00 USD
-- [Red Light Therapy Panel 80W - 660nm & 850nm Pain Relief Device](https://mrsluckespainrelief.myshopify.com/products/red-light-therapy-for-body-face-60-dual-chip-leds-red-660nm-near-infrared-850nm-combo-high-power-red-light-therapy-panel-for-recovery-pain-relief-wound-healing-skin-health-80w): 80W red light therapy panel with 60 dual-chip LEDs at 660nm & 850nm. Accelerate recovery, relieve pain & improve skin health. FDA-cleared wavelengths.
-  Updated: 2026-09-02T07:22:19Z
-  Vendor: My Store 3
-  Product Type: Therapy Device
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/d89f2957-79e4-432b-b9a4-b1af1588c012.jpg?v=1788260115
-  Price: $190.00 USD
-- [XXXL Posture Corrector for Women - Invisible Back Brace Strap](https://mrsluckespainrelief.myshopify.com/products/xxxl-anti-hunchback-correction-strap-for-women-invisible-posture-correction-strap-posture-correction-shoulder-opening-beautiful-back-straight-waist-anti-hunchback-artifact): Invisible XXXL posture correction strap for women. Straightens back, opens shoulders & corrects hunchback posture comfortably throughout the day.
-  Updated: 2026-09-02T07:22:19Z
-  Vendor: My Store 3
-  Product Type: Posture Corrector
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/509596e3-e08e-4c2e-a2e5-60cf257708f3.jpg?v=1788260719
-  - [XXL](https://mrsluckespainrelief.myshopify.com/products/xxxl-anti-hunchback-correction-strap-for-women-invisible-posture-correction-strap-posture-correction-shoulder-opening-beautiful-back-straight-waist-anti-hunchback-artifact?variant=49778878185624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/509596e3-e08e-4c2e-a2e5-60cf257708f3.jpg?v=1788260719
-    Price: $45.00 USD
-  - [XXXL](https://mrsluckespainrelief.myshopify.com/products/xxxl-anti-hunchback-correction-strap-for-women-invisible-posture-correction-strap-posture-correction-shoulder-opening-beautiful-back-straight-waist-anti-hunchback-artifact?variant=49778878218392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/509596e3-e08e-4c2e-a2e5-60cf257708f3.jpg?v=1788260719
-    Price: $45.00 USD
-  - [XL](https://mrsluckespainrelief.myshopify.com/products/xxxl-anti-hunchback-correction-strap-for-women-invisible-posture-correction-strap-posture-correction-shoulder-opening-beautiful-back-straight-waist-anti-hunchback-artifact?variant=49778878251160)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/509596e3-e08e-4c2e-a2e5-60cf257708f3.jpg?v=1788260719
-    Price: $45.00 USD
-- [Air Pressure Knee Massager - Electric Knee Pain Relief Device](https://mrsluckespainrelief.myshopify.com/products/air-pressure-knee-massager-dark-blue): Relieve knee pain with our air pressure knee massager. Adjustable compression therapy for arthritis, joint pain & post-workout recovery. -free relief.
-  Updated: 2026-09-02T07:22:19Z
-  Vendor: My Store 3
-  Product Type: Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/7744c984-8f22-44cb-bf16-dfad5a4cea01.jpg?v=1788261045
-  Price: $180.00 USD
-- [Full Body Electric Massage Mat With Neck & Foot Pillow - Timer](https://mrsluckespainrelief.myshopify.com/products/advanced-version-1-set-full-body-electric-massage-mat-with-neck-foot-massage-head-pillow-and-cloth-lumbar-pillow-timer-anti-slip-bottom-earplugs): Full body electric massage mat with neck & foot pillow, lumbar support & 30-min timer. Relax muscles & relieve pain from head to toe at home.
-  Updated: 2026-09-02T07:22:20Z
-  Vendor: My Store 3
-  Product Type: Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/fc9eaa4b-783e-46d6-9a5b-cc2878ac96b6.jpg?v=1788261710
-  Price: $200.00 USD
-- [Red Light Therapy Wand For Face & Neck - 3-in-1 LED Beauty Wand](https://mrsluckespainrelief.myshopify.com/products/red-light-therapy-wand-for-face-and-neck-3-in-1-led-facial-wand-red-light-therapy-device-with-heating-therapy-vibrating-facial-massage-portable-led-beauty-wand): 3-in-1 LED red light therapy wand with heating & vibration massage for face and neck. Portable pain relief & skin rejuvenation device.
-  Updated: 2026-09-02T07:22:20Z
-  Vendor: My Store 3
-  Product Type: Therapy Device
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/b5c675d4-9f60-43b6-b1fc-1c18f91267e1.jpg?v=1788262336
-  Price: $50.00 USD
-- [Copper Compression Socks Unisex - Running, Nursing & Swelling Relief](https://mrsluckespainrelief.myshopify.com/products/unisex-copper-compression-socks-women-man-durable-hose-graduated-support-socks-for-running-nursing-shin-splints-edema-swelling-recovery): Graduated copper compression socks for men & women. Relieve shin splints, edema & swelling. Perfect for running, nursing & all-day wear.
-  Updated: 2026-09-02T07:22:20Z
-  Vendor: My Store 3
-  Product Type: Therapy socks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/cb9aecd7-33a0-4814-acb3-4bdc7365d5b9.jpg?v=1788262632
-  Price: $35.00 USD
-- [Neck Massager Pillow With Heat & Vibration - Shoulder Pain Relief](https://mrsluckespainrelief.myshopify.com/products/neck-massager-pillow-ergonomic-massager-memory-foam-pillow-with-3-level-heating-3-intensity-vibration-30min-timer-for-neck-back-shoulder-pain-relief): Memory foam neck massager pillow with 3-level heating, vibration & 30-min timer. Relieves neck, back & shoulder pain. Perfect for home & office use.
-  Updated: 2026-09-02T07:22:20Z
-  Vendor: My Store 3
-  Product Type: Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/a191395b-eeb4-4851-90f2-8f55d63ac14b.jpg?v=1788262968
-  Price: $150.00 USD
-- [Ergonomic Cotton Pillow For Side & Back Sleepers - Back Support](https://mrsluckespainrelief.myshopify.com/products/ergonomic-cotton-pillow-multi-use-prone-pillow-for-sleeping-breathable-bed-pillow-for-side-back-sleepers-detachable-washable-cover-back-support): Multi-use ergonomic cotton pillow with detachable washable cover. Supports back, neck & spine for side and back sleepers. Breathable & comfortable.
-  Updated: 2026-09-02T07:22:21Z
-  Vendor: My Store 3
-  Product Type: Cotton Neck Pillow
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/5558bba2-db1b-4502-8432-968c3ef77869.jpg?v=1788263584
-  - [Blue](https://mrsluckespainrelief.myshopify.com/products/ergonomic-cotton-pillow-multi-use-prone-pillow-for-sleeping-breathable-bed-pillow-for-side-back-sleepers-detachable-washable-cover-back-support?variant=49779228147864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/b605dfd5-b6c0-4283-8108-72391ad73a7e.jpg?v=1788263584
-    Price: $70.00 USD
-  - [Gray](https://mrsluckespainrelief.myshopify.com/products/ergonomic-cotton-pillow-multi-use-prone-pillow-for-sleeping-breathable-bed-pillow-for-side-back-sleepers-detachable-washable-cover-back-support?variant=49779228180632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/b5e3b14e-cbed-4539-8b34-ab87cf81a295.jpg?v=1788263584
-    Price: $70.00 USD
-- [Handheld Chiropractic Massager - Variable Speed Vibration Therapy](https://mrsluckespainrelief.myshopify.com/products/chiropractic-massager-400-4600rpm-variable-speed-professional-vibrating-therapy-massager-handheld-therapeutic-orbital-body-massager-for-back-neck-shoulder-muscle-pain-relief): Professional handheld chiropractic massager with 400-4600rpm variable speed. Relieves back, neck & shoulder muscle pain with deep vibration therapy.
-  Updated: 2026-09-02T07:22:21Z
-  Vendor: My Store 3
-  Product Type: Therapy Device
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5731/4200/files/55085684-6f97-442f-aeb6-c672dc19f87e.jpg?v=1788263853
-  Price: $190.00 USD
 
 ## Store Pages
 
@@ -107,6 +26,12 @@
   Updated: 2026-09-01T12:31:29Z
 - [Review Submission](https://mrsluckespainrelief.myshopify.com/pages/review-submission)
   Updated: 2026-09-01T18:13:53Z
+- [About Us](https://mrsluckespainrelief.myshopify.com/pages/about-us): At Mrsluckes Pain Relief, we believe no one should have to live with chronic pain. Born out of a personal journey to find real, lasting relief, our...
+  Updated: 2026-09-07T06:05:12Z
+- [FAQ](https://mrsluckespainrelief.myshopify.com/pages/faq): Frequently Asked Questions How does the product work? Our device uses targeted therapy to help relieve pain at the source. It's designed to be easy...
+  Updated: 2026-09-07T06:11:43Z
+- [Shipping & Returns](https://mrsluckespainrelief.myshopify.com/pages/shipping-returns): Shipping Information We currently ship within the United States only. Orders are processed within 1–2 business days (Monday–Friday, excluding publi...
+  Updated: 2026-09-07T06:16:43Z
 
 ## Policies
 
