@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-09T15:21:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-04T00:00:41.834Z
+- Updated At: 2026-09-13T00:00:44.857Z
 
 ## Products
 
 - [Dirty Blonde EP](https://mollieelizabeth.merchmadeeasy.com/products/dirty-blonde-ep): Mollie Elizabeth's debut EP, Dirty Blonde on Transparent Sky Blue 10" Vinyl
-  Updated: 2026-09-03T21:05:07Z
+  Updated: 2026-09-12T21:04:05Z
   Vendor: Mollie Elizabeth
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MOLLIEELIZABETHVINYL.png?v=1748527481
   Price: $16.00 USD
 - [Arrow Tee](https://mollieelizabeth.merchmadeeasy.com/products/arrow-tee): How could you do it to me? 100% cotton tee in Natural Unisex
-  Updated: 2026-08-25T09:55:55Z
+  Updated: 2026-09-07T04:55:25Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Run Rabbit Tee](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-09-03T21:05:05Z
+  Updated: 2026-09-10T04:54:09Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -60,10 +60,10 @@
     Availability: Available
     Price: $30.00 USD
   - [3XL](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee?variant=62874032734579)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
 - [Puppet Show Tote](https://mollieelizabeth.merchmadeeasy.com/products/puppet-show-tote): I'll stitch you, stuff you, crush you Light pink canvas tote bag Portrait of a doll in a pink dress inside an oval frame with 'Mollie Elizabeth' text Artwork by @lavender_seance
-  Updated: 2026-09-01T20:00:35Z
+  Updated: 2026-09-11T11:34:41Z
   Vendor: Mollie Elizabeth
   Product Type: Tote
   Availability: Available
@@ -73,22 +73,22 @@
 ## Collections
 
 - [Home page](https://mollieelizabeth.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-03T11:23:44Z
+  Updated: 2026-09-12T11:19:37Z
   Total Products: 4
 - [Apparel](https://mollieelizabeth.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-03T11:23:44Z
+  Updated: 2026-09-10T11:21:40Z
   Total Products: 2
 - [Accessories](https://mollieelizabeth.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-21T11:19:46Z
+  Updated: 2026-09-12T11:19:37Z
   Total Products: 1
 - [Hats](https://mollieelizabeth.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-03T18:16:02Z
   Total Products: 0
 - [Music](https://mollieelizabeth.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-03T11:23:44Z
+  Updated: 2026-09-12T11:19:37Z
   Total Products: 1
 - [All](https://mollieelizabeth.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-03T11:23:44Z
+  Updated: 2026-09-12T11:19:37Z
   Total Products: 4
 
 ## Store Pages
