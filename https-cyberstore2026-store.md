@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Regina
 - Created At: 2026-07-29T04:24:32Z
 - Contact Email: support@cyberstore2026.store
-- Updated At: 2026-09-07T16:00:23.794Z
+- Updated At: 2026-09-14T16:00:24.869Z
 
 ## Products
 
 - [ZenStand 3-in-1 Wood MagSafe Wireless Charging Stand | iPhone, Watch & AirPods | Cyber Store](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-wireless-charging-stand): ZenStand real wood MagSafe stand charges iPhone, Apple Watch & AirPods at once. StandBy mode ready. With or without 30W GaN adapter. Free shipping.
-  Updated: 2026-09-04T03:43:54Z
+  Updated: 2026-09-14T08:01:17Z
   Vendor: Cyber Store
   Product Type: wireless charger
   Availability: Available
@@ -102,14 +102,14 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC02AmazonHero2_13fc3a48-675a-4dcf-b0f4-da425416fd3d.jpg?v=1786555880
     Price: $99.99 CAD
 - [ZenStand 3-in-1 Wood MagSafe Charging Dock | 30W GaN | iPhone, Watch & AirPods | Cyber Store](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-charging-dock-with-30w-gan-adapter): ZenStand wood MagSafe dock charges iPhone, Apple Watch & AirPods simultaneously. Includes 30W GaN adapter. Walnut finish, StandBy mode ready.
-  Updated: 2026-08-31T20:21:15Z
+  Updated: 2026-09-14T08:01:07Z
   Vendor: Cyber Store
   Product Type: wireless charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC02_Amazon_Bundle.jpg?v=1785349641
   Price: $99.99 CAD
 - [OneSnap MagSafe-Compatible Wireless Charger for iPhone | Cyber Store](https://cyberstore2026.store/products/onesnap-magnetic-wireless-charger-for-iphone-magsafe-compatible): OneSnap magnetic wireless charger for iPhone — snap-on alignment, up to 15W fast charge, compact & portable. Only $29.99. Ships from Canada.
-  Updated: 2026-09-04T02:19:50Z
+  Updated: 2026-09-09T06:42:07Z
   Vendor: Cyber Store
   Product Type: wireless charger
   Availability: Available
@@ -145,7 +145,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/120-7209-BluElement-BEA2XIP15PRMMB-1.jpg?v=1787543530
   Price: $24.99 CAD
 - [PEJE Smart Watch 1.83" | Heart Rate, Blood Oxygen & Fitness Tracker | Cyber Store](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker): PEJE Smart Watch with 1.83" display, 24H heart rate & SpO2 monitoring, Bluetooth calling, 100+ sport modes & 200+ watch faces. CE & FCC .
-  Updated: 2026-09-07T03:42:22Z
+  Updated: 2026-09-14T03:45:46Z
   Vendor: Cyber Store
   Product Type: Smart Watch
   Availability: Available
@@ -161,7 +161,7 @@ your agent can transact everywhere.
   - [Purple](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810123582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/Sd543890dd42b489d969049d7aa6365f08.webp?v=1787806797
-    Price: $83.99 CAD
+    Price: $84.99 CAD
   - [Silvery](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810156350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/S90a7201818b94d79bc3addf1d36293c3o.webp?v=1787806797
@@ -192,13 +192,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Featured Collection](https://cyberstore2026.store/collections/frontpage): Shop wireless chargers, power banks, Bluetooth speakers, microphones & smart car mounts. Premium tech accessories at Cyber Store.
-  Updated: 2026-09-04T03:43:55Z
+  Updated: 2026-09-14T03:45:52Z
   Total Products: 3
 - [Charging & Accessories](https://cyberstore2026.store/collections/charging-accessories): Shop premium charging docks, fast GaN adapters, wireless earbuds, and tech accessories to power your entire setup at Cyber Store.
-  Updated: 2026-09-04T03:43:55Z
+  Updated: 2026-09-14T03:45:52Z
   Total Products: 3
 - [Smartwatches](https://cyberstore2026.store/collections/smartwatches): Shop premium smartwatches with Bluetooth calling, fitness tracking, sleep monitoring, and more. Compatible with Android and iPhone.
-  Updated: 2026-09-01T03:46:25Z
+  Updated: 2026-09-14T03:45:47Z
   Total Products: 1
 - [Smart Rings](https://cyberstore2026.store/collections/smart-rings): Shop premium smart rings including the Oura Ring 5. Track sleep, heart rate, SpO2, and activity with the world's smallest health tracker.
   Updated: 2026-08-30T14:18:01Z
@@ -210,10 +210,10 @@ your agent can transact everywhere.
   Updated: 2026-09-02T00:39:23Z
   Total Products: 1
 - [Best Sellers](https://cyberstore2026.store/collections/best-sellers): Shop Cyber Store's best- smart rings, MagSafe chargers, smartwatches & wireless audio. Premium tech curated for performance and design.
-  Updated: 2026-09-04T03:43:55Z
+  Updated: 2026-09-14T03:45:52Z
   Total Products: 4
 - [Desk & Workspace](https://cyberstore2026.store/collections/desk-workspace): Shop premium desk and workspace accessories — wireless charging pads, cable organizers, LED lighting, and more. Built for clean, high-performance setups.
-  Updated: 2026-09-04T03:43:55Z
+  Updated: 2026-09-14T03:45:52Z
   Total Products: 2
 
 ## Blogs
@@ -288,6 +288,18 @@ your agent can transact everywhere.
     Updated: 2026-09-07T09:23:28Z
     Author: Cyber Store
     Tags: benefits of smartwatch for athletes, best fitness smartwatch, fitness, fitness tracking, multi-sport fitness, peje watch, smartwatch, technology
+  - [Say Goodbye to Clutter with the ZenStand 3-in-1 Wood Wireless Charging Stand](https://cyberstore2026.store/blogs/news/say-goodbye-to-clutter-with-the-zenstand-3-in-1-wood-wireless-charging-stand): Say Goodbye to Clutter with the ZenStand 3-in-1 Wood Wireless Charging Stand
+    Updated: 2026-09-09T09:20:53Z
+    Author: Cyber Store
+    Tags: clutter, desk accessories, eliminate clutter solutions, minimalism, organization, wireless charging, wooden stand, zenstand charging solution
+  - [Achieve Health Goals with Precision Using the PEJE Smart Watch Advanced Fitness Tracking Capabilities](https://cyberstore2026.store/blogs/news/achieve-health-goals-with-precision-using-the-peje-smart-watch-advanced-fitness-tracking-capabilities): Achieve Health Goals with Precision Using the PEJE Smart Watch Advanced Fitness Tracking Capabilities
+    Updated: 2026-09-12T09:07:33Z
+    Author: Cyber Store
+    Tags: advanced tracking, fitness, fitness goals, health, precision health monitoring, smart watch, tracking, wearable fitness technology
+  - [PEJE Smart Watch 1.83 Inch Your Ultimate Fitness and Health Companion Augmenting Sport Modes](https://cyberstore2026.store/blogs/news/peje-smart-watch-1-83-inch-your-ultimate-fitness-and-health-companion-augmenting-sport-modes): PEJE Smart Watch 1.83 Inch Your Ultimate Fitness and Health Companion Augmenting Sport Modes
+    Updated: 2026-09-14T09:22:40Z
+    Author: Cyber Store
+    Tags: 1.83 inch smartwatch reviews, best fitness watch for sports, fitness, fitness tracker, health, health companion, smartwatch, sport modes
 - [Cyber Guide](https://cyberstore2026.store/blogs/cyber-guide)
   - [MagSafe Wireless Charging Guide 2026 – Everything You Need to Know | Cyber Store](https://cyberstore2026.store/blogs/cyber-guide/magsafe-wireless-charging-guide): MagSafe Wireless Charging Guide 2026 – Everything You Need to Know | Cyber Store
     Updated: 2026-08-26T20:22:21Z
@@ -320,7 +332,7 @@ your agent can transact everywhere.
 - [Shipping Policy](https://cyberstore2026.store/policies/shipping-policy)
   Updated: 2026-07-29T15:19:02-06:00
 - [Refund Policy](https://cyberstore2026.store/policies/refund-policy)
-  Updated: 2026-08-30T20:04:55-06:00
+  Updated: 2026-09-09T00:48:41-06:00
 - [Terms of Service](https://cyberstore2026.store/policies/terms-of-service)
   Updated: 2026-08-16T15:46:59-06:00
 - [Contact Information](https://cyberstore2026.store/policies/contact-information)
