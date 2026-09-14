@@ -6,39 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-11-05T15:02:40Z
 - Contact Email: info@buydigitalsignage.co.uk
-- Updated At: 2026-09-07T00:00:37.100Z
+- Updated At: 2026-09-14T00:00:37.879Z
 
 ## Products
 
-- [In House Content Design](https://www.buydigitalsignage.co.uk/products/in-house-design): In-house design services delivering custom digital signage content, eye-catching visuals, and on-brand layouts that stand out.
-  Updated: 2026-07-22T22:31:19Z
-  Vendor: Add Vision
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0988/1393/5962/files/inhouse_design.jpg?v=1767154964
-  - [Landscape Menu](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53314531098970)
-    Availability: Available
-    Price: £240.00 GBP
-  - [Portrait Menu](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53314531197274)
-    Availability: Available
-    Price: £240.00 GBP
-  - [ Landscape / Portrait](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53375419547994)
-    Availability: Available
-    Price: £150.00 GBP
-  - [Services Landscape / Portrait](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53375419646298)
-    Availability: Available
-    Price: £150.00 GBP
-  - [Estate Agent Window Card Portrait/ Landscape](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53375419744602)
-    Availability: Available
-    Price: £150.00 GBP
-  - [Contact screen with QR Landscape / Portrait](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53375419842906)
-    Availability: Available
-    Price: £150.00 GBP
-  - [Opening Times Landscape / Portrait](https://www.buydigitalsignage.co.uk/products/in-house-design?variant=53375419941210)
-    Availability: Available
-    Price: £150.00 GBP
-- [Digital Signage Software](https://www.buydigitalsignage.co.uk/products/digital-signage-software): Digital signage software with cloud-based content management, remote screen control, and flexible scheduling for any display network.
-  Updated: 2026-04-20T08:37:46Z
+- [Digital Signage CMS Software](https://www.buydigitalsignage.co.uk/products/digital-signage-software): Digital signage software with cloud-based content management, remote screen control, and flexible scheduling for any display network.
+  Updated: 2026-09-09T07:59:11Z
   Vendor: Add Vision
   Product Type: 
   Availability: Available
@@ -415,17 +388,45 @@
   - [White](https://www.buydigitalsignage.co.uk/products/outdoor-digital-battery-a-boards?variant=54464557744474)
     Availability: Not Available
     Price: £2,370.00 GBP
+- [Superslim Freestanding Double-Sided Digital Posters 43"](https://www.buydigitalsignage.co.uk/products/superslim-freestanding-double-sided-digital-posters-43inch): Two screens. One superslim design. Maximum visibility. Make an impact from both directions with our 43” Superslim Double-Sided Digital Poster.
+  Updated: 2026-09-09T08:32:39Z
+  Vendor: BuyDigitalSignage.co.uk
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0988/1393/5962/files/LHDSBxxHD8-WhiteBackgroundImage_4.jpg?v=1788898922
+  Price: £2,456.00 GBP
+- [Hanging Double-Sided Window Display 43"](https://www.buydigitalsignage.co.uk/products/hanging-double-sided-window-display-43): Make your windows work harder. Turn your window space into a powerful digital  platform with a 43” double-sided hanging digital display.
+  Updated: 2026-09-08T21:16:03Z
+  Vendor: BuyDigitalSignage.co.uk
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0988/1393/5962/files/HDSxxHD10-WhiteBackgroundImage_3.jpg?v=1788899467
+  Price: £1,780.00 GBP
+- [4K Slim Bezel Interactive Touch Displays 55"](https://www.buydigitalsignage.co.uk/products/4k-slim-bezel-interactive-touch-displays-55): Create a more engaging and interactive experience with a 55” 4K interactive touch display, combining ultra-sharp image quality with responsive touchscreen technology. The slim bezel design provides a modern, professional appearance while maximising the usable screen area, making it ideal for meeting rooms, classrooms, reception areas, showrooms, training environments and interactive presentations. 4K clarity. Interactive control. Deliver presentations, videos, websites, documents and other digital content in stunning 4K resolution. The responsive touchscreen allows users to interact directly with the content, making information easier to explore and presentations more engaging. Whether you're presenting to clients, collaborating with colleagues or creating an interactive customer experience, the display gives you a simple and intuitive way to interact with digital content. Designed for professional environments The slim bezel creates a sleek, contemporary appearance that fits seamlessly into modern commercial spaces. With a generous 55” screen size, content is easy to see while the interactive functionality encourages greater engagement. Use it for everything from collaborative meetings and training sessions to product demonstrations and customer information. Key Features 55” interactive touchscreen display 4K Ultra HD resolution Slim bezel design Responsive touch technology Large-format interactive screen Ideal for presentations and collaboration Display videos, images, websites and documents Professional, modern design Suitable for wall-mounted or professional installation Perfect for business, education, retail and hospitality environments
+  Updated: 2026-09-08T21:26:12Z
+  Vendor: BuyDigitalSignage.co.uk
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0988/1393/5962/files/PT55J-ApplicationImage_2.jpg?v=1788899795
+  Price: £1,139.00 GBP
+- [LCD Shelf Edge Displays 23"](https://www.buydigitalsignage.co.uk/products/lcd-shelf-edge-displays-23): Turn your shelves into powerful digital displays. Transform traditional shelving into engaging digital retail experiences with a 23” LCD shelf edge display. Designed to sit alongside or above retail shelving, these displays allow you to showcase products, promotions, pricing, offers and digital content directly where customers are making purchasing decisions. Replace static printed signage with dynamic content that can be changed quickly and easily, helping you keep your in-store messaging fresh and relevant. Make every shelf work harder Give customers more information at the point of purchase. Use vibrant digital content to highlight special offers, new products, promotions, product features or important information without relying on printed POS materials. The 23” format provides a clear, eye-catching display while remaining compact enough for retail environments where space is at a premium. Update your content with ease Keep your messaging up to date without having to replace printed materials. With compatible cloud-based content management,  campaigns and digital signage content can be updated remotely, allowing you to change what customers see whenever you need to. Run different content across multiple displays and keep your messaging consistent throughout your store. Key Features 23” LCD digital display Designed for retail shelf environments High-impact digital  content Ideal for product information and offers Compact design for space-conscious installations Display images, videos, promotions and messaging Remote content management available Easily update campaigns and  content Perfect for retail and commercial environments An alternative to traditional printed shelf signage
+  Updated: 2026-09-08T21:27:44Z
+  Vendor: BuyDigitalSignage.co.uk
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0988/1393/5962/files/SE23B-ApplicationImage_7.jpg?v=1788900115
+  Price: £450.00 GBP
 
 ## Collections
 
 - [Digital Window Displays](https://www.buydigitalsignage.co.uk/collections/window-displays): Window Displays Elevate your digital displays with Digital Signage Window Display Solutions. Explore our premium range of window display mounts and accessories designed to securely showcase your signage on glass surfaces. From sleek, minimal designs to durable, high-performance solutions, find the perfect option to attract attention and maximize visibility in storefronts and commercial spaces. Experience reliability, innovation, and superior performance with our quality Digital Signage Window Display Solutions. Shop now and transform your storefront.
-  Updated: 2026-07-23T12:16:31Z
-  Total Products: 3
+  Updated: 2026-09-08T20:28:27Z
+  Total Products: 4
 - [Digital Menu Screens](https://www.buydigitalsignage.co.uk/collections/digital-menu-screens): Digital Menu Screens Enhance your hospitality experience with Digital Menu Screen Solutions. Explore our range of bright, easy-to-update screens designed to showcase menus, promotions, and specials with clarity and style. Built for performance and reliability, our digital menu screens deliver vivid visuals, flexible content management, and seamless operation for restaurants, cafés, takeaways, and bars. From single-screen setups to multi-screen networks, find the perfect solution to improve order accuracy, upsell effectively, and create a modern, professional look. Experience convenience, efficiency, and engaging customer experiences
   Updated: 2026-07-23T08:14:54Z
   Total Products: 3
 - [Digital Signage Services](https://www.buydigitalsignage.co.uk/collections/digital-signage-services): Digital signage services delivering high-impact displays, cloud-based content management, and bespoke solutions for businesses across the UK.
-  Updated: 2026-07-22T12:21:30Z
+  Updated: 2026-09-08T20:38:55Z
   Total Products: 3
 - [Digital Menu Board Mounting Systems](https://www.buydigitalsignage.co.uk/collections/digital-menu-board-mounting-systems): Digital Menu Board Mounting Systems Elevate your space with Add Vision's Multibrackets and B-Tech Floor to Ceiling Mounting Kit, the ultimate solution for versatile display setups. Ideal for both commercial and residential use, our mounting kit offers robust support for TVs, monitors, and digital signage, ensuring a sleek, space-saving installation. With adjustable height and easy assembly, it's perfect for creating stunning visual displays or optimizing your viewing angle.
   Updated: 2026-07-22T10:09:42Z
@@ -446,14 +447,14 @@
   Updated: 2026-07-22T10:08:11Z
   Total Products: 10
 - [Services](https://www.buydigitalsignage.co.uk/collections/services)
-  Updated: 2026-07-22T12:21:30Z
+  Updated: 2026-09-08T20:38:55Z
   Total Products: 3
 - [Outdoor LCD Display](https://www.buydigitalsignage.co.uk/collections/outdoor-lcd-displays): Outdoor LCD Displays Elevate your outdoor  with Outdoor LCD Display Solutions. Explore our premium range of high-brightness outdoor displays and mounting solutions designed to deliver exceptional visibility in all weather and lighting conditions. Built for durability and performance, our Outdoor LCD Displays feature robust enclosures, sunlight-readable screens, and reliable operation for demanding outdoor environments. From storefront exteriors to commercial and public spaces, find the perfect solution to capture attention and communicate with impact. Experience innovation, reliability, and superior outdoor performance. Shop now and transform your outdoor presence.
   Updated: 2026-07-23T08:29:22Z
   Total Products: 3
 - [Digital Posters](https://www.buydigitalsignage.co.uk/collections/digital-posters): Digital Posters Elevate your visual communication with Digital Poster Solutions. Explore our premium range of sleek, high-resolution digital posters designed to deliver impactful content with clarity and style. Perfect for retail spaces, storefronts, and commercial environments, our digital posters combine modern design with reliable performance to attract attention and engage audiences. From vibrant visuals to continuous operation, find the ideal solution to showcase your messaging effectively. Experience innovation, reliability, and superior display quality. Shop now and transform your space.
-  Updated: 2026-07-23T08:34:54Z
-  Total Products: 2
+  Updated: 2026-09-08T20:32:37Z
+  Total Products: 3
 - [Digital Signage Media Players](https://www.buydigitalsignage.co.uk/collections/digital-signage-media-players): Digital Signage Media Players Power your digital signage network with Media Player Solutions. Discover our range of reliable Android and 4K cloud media players, designed to deliver seamless content playback, remote scheduling, and multi-screen management with ease. Built for performance and continuous operation, our media players ensure your displays are always updated, engaging, and impactful. From standalone units to cloud-managed network players, find the perfect solution for retail, hospitality, corporate, and public environments. Experience flexibility, control, and effortless content management. Shop now and elevate your digital signage network.
   Updated: 2026-07-22T10:07:36Z
   Total Products: 3
@@ -492,22 +493,21 @@
   - [Where to Buy Digital Signage Online | UK Buying Guide](https://www.buydigitalsignage.co.uk/blogs/news/where-to-buy-digital-signage-online-uk-buying-guide): Where to Buy Digital Signage Online | UK Buying Guide
     Updated: 2026-08-31T08:00:02Z
     Author: add vision
+  - [What to Look for When Buying Digital Signage Screens](https://www.buydigitalsignage.co.uk/blogs/news/what-to-look-for-when-buying-digital-signage-screens): What to Look for When Buying Digital Signage Screens
+    Updated: 2026-09-07T08:00:03Z
+    Author: add vision
   - [Why Your Restaurant Is Losing Customers at the Door (And How a Digital Menu Screen Fixes It in 48 Hours)](https://www.buydigitalsignage.co.uk/blogs/news/why-your-restaurant-is-losing-customers-at-the-door-and-how-a-digital-menu-screen-fixes-it-in-48-hours)
     Updated: 2026-08-24T09:17:33Z
     Author: EmergeRank
     Tags: digital menu screen for restaurants
-  - [Cloud Based Digital Signage Platform vs. Standalone Player: Which Architecture Is Right for Your Retail Network?](https://www.buydigitalsignage.co.uk/blogs/news/cloud-based-digital-signage-platform-vs-standalone-player-which-architecture-is-right-for-your-retail-network)
-    Updated: 2026-08-24T14:02:06Z
+  - [Cloud Based Digital Signage Platform vs. Standalone Player](https://www.buydigitalsignage.co.uk/blogs/news/cloud-based-digital-signage-platform-vs-standalone-player-which-architecture-is-right-for-your-retail-network)
+    Updated: 2026-09-08T20:55:10Z
     Author: EmergeRank
     Tags: cloud based digital signage platform
   - [Retail Digital Signage That Actually Converts: Why Screen Placement Beats Screen Size Every Time](https://www.buydigitalsignage.co.uk/blogs/news/retail-digital-signage-that-actually-converts-why-screen-placement-beats-screen-size-every-time)
     Updated: 2026-08-24T14:02:08Z
     Author: EmergeRank
     Tags: retail digital signage
-  - [Why Raspberry Pi Digital Signage Falls Short for Business (And What Mid-Range Solutions Actually Deliver)](https://www.buydigitalsignage.co.uk/blogs/news/why-raspberry-pi-digital-signage-falls-short-for-business-and-what-mid-range-solutions-actually-deliver)
-    Updated: 2026-08-24T14:02:11Z
-    Author: EmergeRank
-    Tags: raspberry pi digital signage
   - [The Complete Guide to Outdoor Digital Signage for Business: Brightness, Weatherproofing and Mounting Done Right](https://www.buydigitalsignage.co.uk/blogs/news/the-complete-guide-to-outdoor-digital-signage-for-business-brightness-weatherproofing-and-mounting-done-right)
     Updated: 2026-08-24T14:02:18Z
     Author: EmergeRank
@@ -517,7 +517,7 @@
     Author: EmergeRank
     Tags: digital directory boards
   - [Digital Signage LCD Display vs. LED: Why Most Buyers Choose Wrong and Pay Twice](https://www.buydigitalsignage.co.uk/blogs/news/digital-signage-lcd-display-vs-led-why-most-buyers-choose-wrong-and-pay-twice)
-    Updated: 2026-08-31T12:01:16Z
+    Updated: 2026-09-08T20:57:19Z
     Author: EmergeRank
     Tags: digital signage lcd display
   - [Digital Signage Platforms Compared: Why the Software You Choose Locks You Into a Hardware Ecosystem Whether You Know It or Not](https://www.buydigitalsignage.co.uk/blogs/news/digital-signage-platforms-compared-why-the-software-you-choose-locks-you-into-a-hardware-ecosystem-whether-you-know-it-or-not)
@@ -525,17 +525,29 @@
     Author: EmergeRank
     Tags: digital signage platforms
   - [Retail Digital Screens in High-Footfall Environments: Why Mount Type Determines ROI More Than Resolution](https://www.buydigitalsignage.co.uk/blogs/news/retail-digital-screens-in-high-footfall-environments-why-mount-type-determines-roi-more-than-resolution)
-    Updated: 2026-08-31T12:01:21Z
+    Updated: 2026-09-08T20:57:37Z
     Author: EmergeRank
     Tags: retail digital screens
   - [Exterior Digital Signage Installation: The Mounting Mistakes That Void Warranties and Create Liability](https://www.buydigitalsignage.co.uk/blogs/news/exterior-digital-signage-installation-the-mounting-mistakes-that-void-warranties-and-create-liability)
     Updated: 2026-08-31T12:01:21Z
     Author: EmergeRank
     Tags: exterior digital signage
-  - [How to Choose a Digital Signage Media Player That Won't Bottleneck Your Entire Network in 12 Months](https://www.buydigitalsignage.co.uk/blogs/news/how-to-choose-a-digital-signage-media-player-that-wont-bottleneck-your-entire-network-in-12-months)
-    Updated: 2026-08-31T12:01:24Z
+  - [Cloud-Based Digital Signage Platforms: Why Hosted Software Beats On-Premise for Multi-Site Retail Deployments](https://www.buydigitalsignage.co.uk/blogs/news/cloud-based-digital-signage-platforms-why-hosted-software-beats-on-premise-for-multi-site-retail-deployments)
+    Updated: 2026-09-07T13:01:26Z
     Author: EmergeRank
-    Tags: digital signage media player
+    Tags: cloud based digital signage platform
+  - [Outdoor Digital Signage for Business](https://www.buydigitalsignage.co.uk/blogs/news/outdoor-digital-signage-for-business-why-brightness-specs-alone-wont-save-your-display-from-failing-in-6-months)
+    Updated: 2026-09-08T20:56:00Z
+    Author: EmergeRank
+    Tags: outdoor digital signage for business
+  - [Digital Menu Screens: Why Restaurant Owners Are Choosing the Wrong Display Format and Losing Upsell Revenue](https://www.buydigitalsignage.co.uk/blogs/news/digital-menu-screens-why-restaurant-owners-are-choosing-the-wrong-display-format-and-losing-upsell-revenue)
+    Updated: 2026-09-08T20:56:49Z
+    Author: EmergeRank
+    Tags: digital signage display screens
+  - [Retail Digital Signage](https://www.buydigitalsignage.co.uk/blogs/news/retail-digital-signage-why-the-stores-getting-the-best-roi-are-obsessing-over-mount-placement-not-screen-size)
+    Updated: 2026-09-08T20:56:32Z
+    Author: EmergeRank
+    Tags: retail digital signage
 
 ## Store Pages
 
