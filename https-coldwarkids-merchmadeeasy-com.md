@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-05-22T15:25:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-03T00:00:41.411Z
+- Updated At: 2026-09-14T00:00:44.268Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $30.00 USD
 - [2023 Tour Pocket Tee](https://coldwarkids.merchmadeeasy.com/products/2023-tour-pocket-tee): 100% Pre-shrunk cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-31T23:19:00Z
+  Updated: 2026-09-10T05:29:40Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -84,14 +84,14 @@
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/products/size960_c70328f5-76ba-4d57-84d8-9e3460b0ee52.png?v=1691777109
   Price: $24.98 USD
 - [Strings & Keys EP Cassette](https://coldwarkids.merchmadeeasy.com/products/strings-keys-cassette): Release Date: January 4, 2020 Tracklist: Complainers Waiting for Your Love Beyond the Pale Dirt in my Eyes Freedom
-  Updated: 2026-08-31T23:19:00Z
+  Updated: 2026-09-08T08:16:07Z
   Vendor: Cold War Kids
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/Untitleddesigncopy2.png?v=1692133318
   Price: $7.98 USD
 - [New Age Norms 1 White Vinyl](https://coldwarkids.merchmadeeasy.com/products/new-age-norms-1-vinyl-lp): Released in 2019 Tracklist: Complainer Fine Fine Fine Waiting For Your Love Beyond The Pale Dirt In My Eyes 4th Of July Calm Your Nerves Tricky Devil
-  Updated: 2026-08-31T23:19:01Z
+  Updated: 2026-09-07T23:23:06Z
   Vendor: Cold War Kids
   Product Type: Music
   Availability: Available
@@ -133,14 +133,14 @@
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK20YearsPoster.png?v=1705509235
   Price: $10.00 USD
 - [20 Years Artwork Koozie](https://coldwarkids.merchmadeeasy.com/products/20-years-artwork-koozie): Cold War Kids 12 oz. black koozie featuring sublimated artwork by Maust
-  Updated: 2026-08-31T23:19:03Z
+  Updated: 2026-09-12T17:14:21Z
   Vendor: Cold War Kids
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/KooziebaCK.png?v=1711467609
   Price: $5.00 USD
 - [Cold War Kids Pepper Photo Tee](https://coldwarkids.merchmadeeasy.com/products/cold-war-kids-pepper-photo-tee): Pre-shrunk 100% ring spun cotton Size Body Length (in) Chest Width (Laid Flat) Sleeve Length (in) S 26 1/2 18 1/4 16 1/4 M 28 20 1/4 17 3/4 L 29 1/2 22 19 XL 30 3/4 24 20 1/2 2XL 31 1/2 26 21 3/4 3XL 32 1/2 27 3/4 23 1/4
-  Updated: 2026-08-31T23:19:03Z
+  Updated: 2026-09-07T22:33:21Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -164,14 +164,14 @@
     Availability: Available
     Price: $30.00 USD
 - [Cold War Kids Black Beanie](https://coldwarkids.merchmadeeasy.com/products/cold-war-kids-black-beanie): 100% acrylic knit Adjustable cuff, shown as 3" 12" knit
-  Updated: 2026-08-31T23:19:04Z
+  Updated: 2026-09-07T22:30:55Z
   Vendor: Cold War Kids
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/cwkbEANIE.png?v=1705509351
   Price: $20.00 USD
 - [20 Years Black Artwork Hoodie](https://coldwarkids.merchmadeeasy.com/products/20-years-black-artwork-hoodie): Cold War Kids Black Hoodie featuring artwork by Maust across the back 50/50 cotton/poly blend Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-08-31T23:19:04Z
+  Updated: 2026-09-04T13:34:37Z
   Vendor: Cold War Kids
   Product Type: Hoodie
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Meditations Tee](https://coldwarkids.merchmadeeasy.com/products/meditations-tee): “Meditations” tee Pre-shrunk 100% ring spun cotton. Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 33 26 3XL 34 28
-  Updated: 2026-08-31T23:19:05Z
+  Updated: 2026-09-10T00:37:40Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -257,7 +257,7 @@
     Availability: Available
     Price: $30.00 USD
 - [New Age Norms 3 Vinyl (SIGNED)](https://coldwarkids.merchmadeeasy.com/products/new-age-norms-3-vinyl-signed): Signed by Nathan Willett and Matt Maust Release Date: November 19, 2021 Tracklist I Can't Walk Away What You Say Always Underground Times Have Changed Worlds Nowhere To Be Wasted All Night
-  Updated: 2026-08-31T23:19:06Z
+  Updated: 2026-09-09T10:15:27Z
   Vendor: Cold War Kids
   Product Type: Music
   Availability: Available
@@ -271,7 +271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/Mockup_0008_CWK-Hat.png?v=1778703158
   Price: $30.00 USD
 - [Sketch Tote](https://coldwarkids.merchmadeeasy.com/products/sketch-tote): Sketched design on the front 100% cotton canvas tote
-  Updated: 2026-08-31T23:19:06Z
+  Updated: 2026-09-03T03:43:47Z
   Vendor: Cold War Kids
   Product Type: Tote
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: $35.00 USD
 - [2026 Tour Tee](https://coldwarkids.merchmadeeasy.com/products/2026-tour-tee): Cold War Kids hearts card design on the front Summer 2026 tour cities on the back
-  Updated: 2026-09-01T03:15:09Z
+  Updated: 2026-09-04T13:34:46Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -340,26 +340,96 @@
   - [2XL](https://coldwarkids.merchmadeeasy.com/products/playing-card-hoodie?variant=52679507640609)
     Availability: Available
     Price: $65.00 USD
+- [Robbers & Cowards 20th Anniversary Edition 2CD](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-20th-anniversary-edition-2cd): In celebration of the 20th Anniversary of Cold War Kids' breakout debut, Robbers & Cowards, an expanded 2CD is now available featuring alternate & new artwork, a 20 page booklet, 4 lost songs written in 2006 and uncovered and recorded in 2026, and 6 previously unreleased live tracks. CD 1 We Used To Vacation Hang Me Up To Dry Tell Me In The Morning Hair Down Passing The Hat Saint John Robbers Hospital Beds Pregnant Red Wine, Success! God, Make Up Your Mind CD 2 Rubidoux Sermons vs. the Gospel Loyalty There Goes The Night Jesse Latour She Can Do No Wrong Saint John (Live in Amsterdam, NL - The Paradiso - 2/8/07) Hair Down (Live in Atlanta, GA - Vinyl - 3/23/07) God, Make Up Your Mind (Live in Paris, FR - La Cigale - 2/12/07) Passing The Hat (Live in Paris, FR - La Cigale - 2/12/07) Dirt In The Ground (Live in Philadelphia, PA - First Unitarian Church - 3/29/07) Hospital Beds (Live in Philadelphia, PA - First Unitarian Church - 3/29/07)
+  Updated: 2026-09-07T23:22:16Z
+  Vendor: Cold War Kids
+  Product Type: CD
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK_C_R_CD_199957741941_1000x1000_5cf76bd3-4609-4f88-a784-8a1914e9a1df.png?v=1787688839
+  Price: $19.98 USD
+- [Robbers & Cowards 20th Anniversary Edition 2LP Black](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-20th-anniversary-edition-2lp-black): In celebration of the 20th Anniversary of Cold War Kids' breakout debut, Robbers & Cowards, a classic 2LP black vinyl is now available featuring alternate & new artwork, a 16-page booklet, 4 lost songs written in 2006 and uncovered and recorded in 2026, and 6 previously unreleased live tracks. Disc 1 We Used To Vacation Hang Me Up To Dry Tell Me In The Morning Hair Down Passing The Hat Saint John Robbers Hospital Beds Pregnant Red Wine, Success! God, Make Up Your Mind Rubidoux Sermons vs. the Gospel Disc 2 Loyalty There Goes The Night Jesse Latour She Can Do No Wrong Saint John (Live in Amsterdam, NL - The Paradiso - 2/8/07) Hair Down (Live in Atlanta, GA - Vinyl - 3/23/07) God, Make Up Your Mind (Live in Paris, FR - La Cigale - 2/12/07) Passing The Hat (Live in Paris, FR - La Cigale - 2/12/07) Dirt In The Ground (Live in Philadelphia, PA - First Unitarian Church - 3/29/07) Hospital Beds (Live in Philadelphia, PA - First Unitarian Church - 3/29/07)
+  Updated: 2026-09-08T21:44:19Z
+  Vendor: Cold War Kids
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK_C_R_STD_LP_199957741958_1000x1000_8cc4051b-8832-4687-b208-60a6bfaf9eb3.png?v=1787754245
+  Price: $39.98 USD
+- [Robbers & Cowards 20th Anniversary Edition 2LP Red](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-20th-anniversary-edition-2lp-red): In celebration of the 20th Anniversary of Cold War Kids' breakout debut, Robbers & Cowards, a classic 2LP vinyl is now available on in brick red, featuring alternate & new artwork, a 16-page booklet, 4 lost songs written in 2006 and uncovered and recorded in 2026, and 6 previously unreleased live tracks. Disc 1 We Used To Vacation Hang Me Up To Dry Tell Me In The Morning Hair Down Passing The Hat Saint John Robbers Hospital Beds Pregnant Red Wine, Success! God, Make Up Your Mind Rubidoux Sermons vs. the Gospel Disc 2 Loyalty There Goes The Night Jesse Latour She Can Do No Wrong Saint John (Live in Amsterdam, NL - The Paradiso - 2/8/07) Hair Down (Live in Atlanta, GA - Vinyl - 3/23/07) God, Make Up Your Mind (Live in Paris, FR - La Cigale - 2/12/07) Passing The Hat (Live in Paris, FR - La Cigale - 2/12/07) Dirt In The Ground (Live in Philadelphia, PA - First Unitarian Church - 3/29/07) Hospital Beds (Live in Philadelphia, PA - First Unitarian Church - 3/29/07)
+  Updated: 2026-09-13T03:25:12Z
+  Vendor: Cold War Kids
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK_C_R_DTC_LP_199957741965_1000x1000_5186576c-1818-4624-8a5a-65d53841a8a8.png?v=1787754425
+  Price: $39.98 USD
+- [Robbers & Cowards Matchbook](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-matchbook)
+  Updated: 2026-09-13T01:23:16Z
+  Vendor: Cold War Kids
+  Product Type: Matchbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/ColdWarKidsMatchbook.png?v=1788291461
+  Price: $5.00 USD
+- [Robbers & Cowards Tee](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee): Cold War Kids Robbers & Cowards design on the front and back 100% cotton tee in White Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-09-12T01:32:46Z
+  Vendor: Cold War Kids
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK_0000_R_C-Tee.png?v=1788455024
+  - [S](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee?variant=53431816192289)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee?variant=53431816225057)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee?variant=53431816257825)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee?variant=53431816290593)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-tee?variant=53431816323361)
+    Availability: Available
+    Price: $35.00 USD
+- [Robbers & Cowards Hoodie](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie): Robbers text on the front & Cowards text on the back Unisex hoodie in Black 80/20 cotton/polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
+  Updated: 2026-09-11T23:32:57Z
+  Vendor: Cold War Kids
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/CWK_0003_R_C-Hoodie.png?v=1788455218
+  - [S](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie?variant=53431817077025)
+    Availability: Available
+    Price: $65.00 USD
+  - [M](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie?variant=53431817109793)
+    Availability: Available
+    Price: $65.00 USD
+  - [L](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie?variant=53431817142561)
+    Availability: Available
+    Price: $65.00 USD
+  - [XL](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie?variant=53431817175329)
+    Availability: Available
+    Price: $65.00 USD
+  - [2XL](https://coldwarkids.merchmadeeasy.com/products/robbers-cowards-hoodie?variant=53431817208097)
+    Availability: Available
+    Price: $65.00 USD
 
 ## Collections
 
 - [Home page](https://coldwarkids.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-29T11:11:40Z
+  Updated: 2026-09-10T11:13:43Z
   Total Products: 17
 - [Apparel](https://coldwarkids.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-02T14:25:31Z
-  Total Products: 35
+  Updated: 2026-09-12T11:10:56Z
+  Total Products: 37
 - [Accessories](https://coldwarkids.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-02T14:25:27Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 18
 - [Music](https://coldwarkids.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-02T14:25:23Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 17
 - [All](https://coldwarkids.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-01T19:45:15Z
-  Total Products: 30
+  Updated: 2026-09-13T11:11:48Z
+  Total Products: 32
 - [On ](https://coldwarkids.merchmadeeasy.com/collections/on-)
-  Updated: 2026-08-29T11:11:40Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 10
 - [Digital Albums](https://coldwarkids.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:13:16Z
@@ -368,53 +438,53 @@
   Updated: 2026-07-08T20:13:16Z
   Total Products: 0
 - [20 Years Tour](https://coldwarkids.merchmadeeasy.com/collections/20-years-tour)
-  Updated: 2026-08-29T11:11:40Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 11
 - [MAUST](https://coldwarkids.merchmadeeasy.com/collections/maust)
-  Updated: 2026-09-02T14:25:14Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 2
 - [7 Years of LA Divine](https://coldwarkids.merchmadeeasy.com/collections/save-7-for-the-7th)
-  Updated: 2026-08-29T11:11:40Z
+  Updated: 2026-09-10T11:13:43Z
   Total Products: 12
 - [$5 Collection](https://coldwarkids.merchmadeeasy.com/collections/5-collection)
-  Updated: 2026-09-02T14:25:14Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 6
 - [$15 Collection](https://coldwarkids.merchmadeeasy.com/collections/15-collection)
-  Updated: 2026-09-02T14:25:15Z
+  Updated: 2026-09-10T11:13:43Z
   Total Products: 16
 - [$25 Collection](https://coldwarkids.merchmadeeasy.com/collections/25-collection)
   Updated: 2026-09-02T14:25:15Z
   Total Products: 3
 - [$50 Collection](https://coldwarkids.merchmadeeasy.com/collections/50-collection)
-  Updated: 2026-09-02T14:25:16Z
+  Updated: 2026-09-05T11:12:42Z
   Total Products: 2
 - [2025](https://coldwarkids.merchmadeeasy.com/collections/2025)
-  Updated: 2026-09-02T14:25:16Z
+  Updated: 2026-09-10T11:13:43Z
   Total Products: 2
 - [Flash ](https://coldwarkids.merchmadeeasy.com/collections/5-flash-)
-  Updated: 2026-09-01T19:38:03Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 13
 - [Last Chance](https://coldwarkids.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-09-01T19:38:03Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 61
 - [Signed Vinyl](https://coldwarkids.merchmadeeasy.com/collections/signed-vinyl)
-  Updated: 2026-08-15T11:14:10Z
+  Updated: 2026-09-09T11:10:22Z
   Total Products: 3
 - [EasyGift All Products](https://coldwarkids.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-09-01T19:38:03Z
-  Total Products: 76
+  Updated: 2026-09-13T11:11:48Z
+  Total Products: 78
 - [$15 Tees](https://coldwarkids.merchmadeeasy.com/collections/15-tees)
-  Updated: 2026-09-02T14:25:17Z
+  Updated: 2026-09-10T11:13:43Z
   Total Products: 16
 - [Best Sellers](https://coldwarkids.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-29T11:11:40Z
+  Updated: 2026-09-13T11:11:48Z
   Total Products: 10
 - [2026 Tour](https://coldwarkids.merchmadeeasy.com/collections/2026-tour)
-  Updated: 2026-09-01T11:11:06Z
+  Updated: 2026-09-05T11:12:42Z
   Total Products: 5
 - [Robbers & Cowards 20th Anniversary](https://coldwarkids.merchmadeeasy.com/collections/robbers-cowards-20th-anniversary)
-  Updated: 2026-09-02T14:24:27Z
-  Total Products: 4
+  Updated: 2026-09-13T11:11:48Z
+  Total Products: 5
 
 ## Store Pages
 
