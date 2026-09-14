@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2018-07-05T20:37:18Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-07T00:00:39.177Z
+- Updated At: 2026-09-14T00:00:41.100Z
 
 ## Products
 
@@ -133,7 +133,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0141/5223/7114/files/marrakeshlyrics.png?v=1698680544
   Price: $100.00 USD
 - [Teach Your Children Navy Tee](https://grahamnash.merchmadeeasy.com/products/teach-your-children-t-shirt-1): Navy t-shirt with "Teach Your Children" in handwritten script on the front and the lyrics in a spiral on the back. Made of 100% airlume combed and ring-spun cotton Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-09-03T05:54:36Z
+  Updated: 2026-09-13T20:26:25Z
   Vendor: Graham Nash
   Product Type: T-Shirt
   Availability: Available
@@ -148,7 +148,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
   - [XL](https://grahamnash.merchmadeeasy.com/products/teach-your-children-t-shirt-1?variant=22208221347898)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [2XL](https://grahamnash.merchmadeeasy.com/products/teach-your-children-t-shirt-1?variant=22208221380666)
     Availability: Available
@@ -360,7 +360,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [2024 Navy Tour Tee](https://grahamnash.merchmadeeasy.com/products/2024-tour-tee): 100% combed cotton t-shirt in Indigo Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-02T16:44:37Z
+  Updated: 2026-09-12T00:27:55Z
   Vendor: Graham Nash
   Product Type: T-Shirt
   Availability: Available
@@ -536,7 +536,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [SIGNED 2026 Tour Poster](https://grahamnash.merchmadeeasy.com/products/signed-2026-tour-poster): Signed 2026 Tour Ponte Vedra Event Poster Dimensions: 11" x 15"
-  Updated: 2026-09-04T21:50:41Z
+  Updated: 2026-09-12T00:27:55Z
   Vendor: Graham Nash
   Product Type: Poster
   Availability: Available
@@ -546,13 +546,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://grahamnash.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 39
 - [Apparel](https://grahamnash.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-04T11:12:45Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 12
 - [Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 14
 - [Music](https://grahamnash.merchmadeeasy.com/collections/music)
   Updated: 2026-07-26T11:14:07Z
@@ -564,10 +564,10 @@ your agent can transact everywhere.
   Updated: 2026-09-06T11:14:32Z
   Total Products: 10
 - [All Products](https://grahamnash.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 62
 - [Featured](https://grahamnash.merchmadeeasy.com/collections/featured)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 62
 - [Digital Albums](https://grahamnash.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:26:33Z
@@ -576,40 +576,40 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:26:33Z
   Total Products: 0
 - [All](https://grahamnash.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 62
 - [$15 ](https://grahamnash.merchmadeeasy.com/collections/15-)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 62
 - [All Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories-1)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 20
 - [Hats](https://grahamnash.merchmadeeasy.com/collections/hats)
   Updated: 2026-06-03T20:11:45Z
   Total Products: 1
 - [Posters](https://grahamnash.merchmadeeasy.com/collections/posters)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 8
 - [Tour Collection](https://grahamnash.merchmadeeasy.com/collections/tour-tees)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 18
 - [Best Sellers](https://grahamnash.merchmadeeasy.com/collections/avada-best-sellers)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 36
 - [SIGNED COLLECTION](https://grahamnash.merchmadeeasy.com/collections/signed-photos-and-lyric-manuscript)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 16
 - [Tour Bundles](https://grahamnash.merchmadeeasy.com/collections/tour-bundles)
   Updated: 2026-09-02T16:43:16Z
   Total Products: 5
 - [2024 Tour Collection](https://grahamnash.merchmadeeasy.com/collections/2024-tour-collection-1)
-  Updated: 2026-09-04T11:12:45Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 3
 - [](https://grahamnash.merchmadeeasy.com/collections/)
-  Updated: 2026-09-05T11:13:28Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 12
 - [New Arrivals](https://grahamnash.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-06T11:14:32Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 62
 - [2025 Tour Merch](https://grahamnash.merchmadeeasy.com/collections/2025-tour-merch)
   Updated: 2026-08-30T11:13:35Z
@@ -621,7 +621,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:26:34Z
   Total Products: 0
 - [2026 Tour Merch](https://grahamnash.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-09-05T11:13:28Z
+  Updated: 2026-09-12T11:14:21Z
   Total Products: 2
 
 ## Store Pages
