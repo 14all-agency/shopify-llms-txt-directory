@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-21T11:17:34Z
 - Contact Email: kashmirgemsjewelry@gmail.com
-- Updated At: 2026-09-03T22:28:48.462Z
+- Updated At: 2026-09-14T00:00:30.988Z
 
 ## Products
 
@@ -497,6 +497,13 @@ collectors. September birthstone.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Kashmir-purple-sapphire.webp?v=1785672021
   Price: $380.00 USD
+- [1.03 carats Burma Ruby](https://www.kashmirstones.com/products/1-03-carats-burma-ruby): 1.03 carats Burma ruby
+  Updated: 2026-09-06T00:30:46Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/334C4425-FD49-46A5-A7D8-DE0641CA226E.jpg?v=1788479940
+  Price: $2,500.00 USD
 
 ## Collections
 
@@ -519,8 +526,8 @@ collectors. September birthstone.
   Updated: 2026-08-03T11:43:20Z
   Total Products: 19
 - [Rubies](https://www.kashmirstones.com/collections/rubies-gemstones-for-): Shop premium natural rubies in stunning red hues.  authentic, ethically sourced ruby gemstones for engagement rings & fine jewelry. Free shipping.
-  Updated: 2026-08-21T15:28:21Z
-  Total Products: 17
+  Updated: 2026-09-06T00:30:38Z
+  Total Products: 18
 - [Sapphires](https://www.kashmirstones.com/collections/buy-sapphires-gemstones): Shop  natural blue sapphires from Kashmir, Ceylon & Burma. Premium quality sapphire gemstones for engagement rings. Ethically sourced, expert-.
   Updated: 2026-08-05T06:17:09Z
   Total Products: 33
@@ -528,11 +535,11 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:44Z
   Total Products: 5
 - [Corundum](https://www.kashmirstones.com/collections/corundum): Shop  natural rubies and sapphires from our premium corundum collection. Ethically sourced, -grade gemstones with authentication. Free worldwide shipping.
-  Updated: 2026-08-21T15:28:21Z
-  Total Products: 49
+  Updated: 2026-09-06T00:30:38Z
+  Total Products: 50
 - [Precious Colored Stones](https://www.kashmirstones.com/collections/buy-precious-colored-stones): Shop -grade natural rubies, emeralds & sapphires with authenticity certificates. Expert-curated precious colored stones, transparent sourcing, competitive prices.
-  Updated: 2026-08-21T15:28:21Z
-  Total Products: 75
+  Updated: 2026-09-06T00:30:38Z
+  Total Products: 76
 - [Loose Rubies Stones](https://www.kashmirstones.com/collections/buy-loose-rubies-gemstones): Shop  loose ruby gemstones including pigeon blood, Burmese & Mozambique rubies. Natural, unheated options available. Perfect for engagement rings. Free shipping.
   Updated: 2026-07-08T21:38:44Z
   Total Products: 8
