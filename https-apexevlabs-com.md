@@ -6,12 +6,12 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-07-17T10:31:35Z
 - Contact Email: apexevlabs@gmail.com
-- Updated At: 2026-09-05T00:00:45.173Z
+- Updated At: 2026-09-14T00:00:46.888Z
 
 ## Products
 
 - [Tesla Touchscreen Swivel Mount – 360° Tilt & Rotate | Apex EV Labs](https://apexevlabs.com/products/apex-360-cockpit-swivel-screen-mount-kit): Eliminate sun glare and improve ergonomics with the Apex 360° swivel screen mount for Tesla. Aerospace-grade aluminum, zero wobble, no permanent modifications.
-  Updated: 2026-09-04T17:21:00Z
+  Updated: 2026-09-13T04:03:55Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Tesla Ambient Lighting & Blind Spot Detection System – ActiveVision™ | Apex EV Labs](https://apexevlabs.com/products/apex-activevision™-ambient-lighting-bsd-system): Supercar-level RGB ambient lighting with live blind spot detection for Tesla Model 3 Highland. Telemetry-synced, app-controlled, zero permanent modifications.
-  Updated: 2026-09-04T17:22:00Z
+  Updated: 2026-09-05T15:50:46Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -144,14 +144,14 @@
     Availability: Available
     Price: $409.00 USD
 - [Tesla Model Y Juniper Centre Console Fridge | Apex EV Labs](https://apexevlabs.com/products/apex-centre-console-fridge-tesla-model-y-juniper): Drop-in fridge for the Tesla Model Y Juniper rear console. Cools and heats, plug-and-play, no cutting. Fits 2025–2026 Juniper only.
-  Updated: 2026-08-10T16:21:05Z
+  Updated: 2026-09-06T15:14:54Z
   Vendor: Apex EV Labs
   Product Type: Interior Upgrade
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/E0897737-772E-4EA9-9053-E70038738238.jpg?v=1785854888
   Price: $289.00 USD
 - [Apex Screen-Edge Pro™ – Foldable MagSafe EV Phone Mount | Apex EV Labs](https://apexevlabs.com/products/apex-screen-edge-pro-magsafe-ev-mount): The cleanest MagSafe phone mount for Tesla Model 3/Y & modern EVs. Folds flat behind your screen. No vents, no clutter. Ships in 24hrs. Shop now.
-  Updated: 2026-08-31T14:10:38Z
+  Updated: 2026-09-09T18:19:26Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Available
     Price: $48.99 USD
 - [Apex Hurricane Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-hurricane): Shop the Apex Hurricane wheel covers for Tesla. Bold aftermarket design, easy no-drill fit, no permanent modifications. Premium quality. Apex EV Labs.
-  Updated: 2026-09-04T17:24:54Z
+  Updated: 2026-09-05T16:15:55Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -181,7 +181,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Echo Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-black-hole): Upgrade your Tesla with Apex Echo wheel covers. Sleek aftermarket design, easy no-drill fit, no permanent modifications. Shop Apex EV Labs.
-  Updated: 2026-09-04T17:24:55Z
+  Updated: 2026-09-05T18:29:28Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -199,7 +199,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Flower Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-white-ring): Stand out with Apex Flower wheel covers for Tesla. Unique aftermarket design, easy no-drill fit, no permanent modifications. Shop Apex EV Labs.
-  Updated: 2026-09-04T17:24:55Z
+  Updated: 2026-09-05T16:15:58Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -217,7 +217,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Devil Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-devil-niuniu): Turn heads with Apex Devil wheel covers for Tesla. Bold aftermarket design, easy no-drill fit, no permanent modifications. Shop Apex EV Labs.
-  Updated: 2026-09-04T17:24:55Z
+  Updated: 2026-09-05T16:21:06Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -235,7 +235,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Retro Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-black-ring): Classic meets modern with Apex Retro wheel covers for Tesla. Easy no-drill fit, no permanent modifications. Premium aftermarket quality. Apex EV Labs.
-  Updated: 2026-09-04T17:24:56Z
+  Updated: 2026-09-05T14:33:47Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -253,7 +253,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Pure Black Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-pure-black): Elevate your Tesla with Apex Pure Black wheel covers. Sleek, stealthy aftermarket design, easy no-drill fit, no permanent modifications. Apex EV Labs.
-  Updated: 2026-09-04T17:24:56Z
+  Updated: 2026-09-07T17:44:38Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -283,7 +283,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Pure White Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-pure-white): Clean, minimal style with Apex Pure White wheel covers for Tesla. Easy no-drill fit, no permanent modifications. Premium aftermarket quality. Apex EV Labs.
-  Updated: 2026-09-04T17:24:57Z
+  Updated: 2026-09-05T18:13:28Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -301,7 +301,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Storm Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-transparent): Command the road with Apex Storm wheel covers for Tesla. Dynamic aftermarket design, easy no-drill fit, no permanent modifications. Shop Apex EV Labs.
-  Updated: 2026-09-04T17:24:57Z
+  Updated: 2026-09-05T14:49:18Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -319,7 +319,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Spinner Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-aero-disc): Make a statement with Apex Spinner wheel covers for Tesla. Eye-catching aftermarket design, easy no-drill fit, no permanent modifications. Apex EV Labs.
-  Updated: 2026-09-04T17:24:57Z
+  Updated: 2026-09-05T18:00:52Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -337,7 +337,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Uberturbine Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-uberturbine): Get the Uberturbine look with Apex wheel covers for Tesla. Premium aftermarket design, easy no-drill fit, no permanent modifications. Shop Apex EV Labs.
-  Updated: 2026-09-04T17:24:58Z
+  Updated: 2026-09-05T15:29:38Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Cyclone](https://apexevlabs.com/products/apex-wheel-covers-cyclone): Factory-look wheels, without the factory-look price of forged rims.Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes.What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Cyclone pattern — swept curved spokes for a sense of motion even parked Fits more than TeslaSized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds.FitmentSelect your wheel size — fits Model 3 and Model Y equally at each size.What's in the boxSet of 4 wheel covers.Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:24:58Z
+  Updated: 2026-09-05T16:00:26Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Nova](https://apexevlabs.com/products/apex-wheel-covers-nova): Factory-look wheels, without the factory-look price of forged rims.Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes.What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Nova pattern — fine radial spokes for a sharper, more premium finish than the stock cap Fits more than TeslaSized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds.FitmentSelect your wheel size — fits Model 3 and Model Y equally at each size.What's in the boxSet of 4 wheel covers.Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:24:59Z
+  Updated: 2026-09-05T14:35:22Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -391,7 +391,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Gemini](https://apexevlabs.com/products/apex-wheel-covers-gemini): Factory-look wheels, without the factory-look price of forged rims.Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes.What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Gemini pattern — twin-spoke split design for a wider, more aggressive stance Fits more than TeslaSized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds.FitmentSelect your wheel size — fits Model 3 and Model Y equally at each size.What's in the boxSet of 4 wheel covers.Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:24:59Z
+  Updated: 2026-09-05T14:59:06Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -409,7 +409,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Vortex](https://apexevlabs.com/products/apex-wheel-covers-vortex): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Vortex pattern — deep-set concave spokes for a forged-wheel look at a fraction of the price Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:19Z
+  Updated: 2026-09-05T15:40:35Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -427,7 +427,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Funky](https://apexevlabs.com/products/apex-wheel-covers-halo): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Halo pattern — a clean ring accent around the rim edge for a subtle, upscale finish Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:20Z
+  Updated: 2026-09-05T16:13:44Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -445,7 +445,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Venom](https://apexevlabs.com/products/apex-wheel-covers-spiral): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Spiral pattern — curved spokes that wrap toward the centre for a distinct rotational look Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:20Z
+  Updated: 2026-09-05T17:36:34Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -463,7 +463,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Zeek](https://apexevlabs.com/products/apex-wheel-covers-diamond-cut): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Diamond Cut pattern — faceted geometric spokes that catch light differently from every angle Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:20Z
+  Updated: 2026-09-05T15:48:47Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -481,7 +481,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Tempest](https://apexevlabs.com/products/apex-wheel-covers-tempest): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Tempest pattern — a bold multi-tier spoke design borrowed from Tesla's higher-end wheel styling Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:21Z
+  Updated: 2026-09-05T16:45:47Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -499,7 +499,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Phantom](https://apexevlabs.com/products/apex-wheel-covers-phantom): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Phantom pattern — a near-solid disc face with subtle vents for a stealthy, blacked-out look Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:21Z
+  Updated: 2026-09-05T16:17:15Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -517,7 +517,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Flash](https://apexevlabs.com/products/apex-wheel-covers-eclipse): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Eclipse pattern — a dark centre fading to a lighter outer ring for a two-tone layered look Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:21Z
+  Updated: 2026-09-05T17:20:55Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -535,7 +535,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Black Flower](https://apexevlabs.com/products/apex-wheel-covers-blade): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Blade pattern — sharp angular spokes for an aggressive, track-inspired look Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:22Z
+  Updated: 2026-09-05T14:29:47Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -553,7 +553,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Onyx](https://apexevlabs.com/products/apex-wheel-covers-onyx): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Onyx finish — deep gloss black for a mirror-like, showroom stance Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:22Z
+  Updated: 2026-09-05T16:14:40Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -571,7 +571,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers — Aero Disc](https://apexevlabs.com/products/apex-wheel-covers-twilight): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Twilight pattern — a soft gradient finish that shifts tone across the face of the cover Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:22Z
+  Updated: 2026-09-05T13:54:22Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -622,7 +622,7 @@
     Availability: Available
     Price: $339.99 USD
 - [Apex AutoShade Pro™ | Automatic Retractable Windshield Sunshade for Tesla & Any Car](https://apexevlabs.com/products/apex-autoshade-pro): Block heat before it builds. The Apex AutoShade Pro deploys in one touch, retracts flush when you drive, and is custom-cut for Tesla Model 3, Model Y, Model S, Model X — or any car. No tools, no folding, no oven cabin.
-  Updated: 2026-09-04T18:59:48Z
+  Updated: 2026-09-13T22:00:36Z
   Vendor: Apex EV Labs
   Product Type: Sunshade
   Availability: Available
@@ -643,7 +643,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Apex Wheel Covers - Batman](https://apexevlabs.com/products/apex-wheel-covers-batman): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Batman pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Batman fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:23Z
+  Updated: 2026-09-05T14:31:39Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -661,7 +661,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers - Rainbow](https://apexevlabs.com/products/apex-wheel-covers-rainbow): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Rainbow pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Rainbow fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:25Z
+  Updated: 2026-09-05T16:24:58Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -679,7 +679,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers - Panther](https://apexevlabs.com/products/apex-wheel-covers): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Panther pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Panther fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:26Z
+  Updated: 2026-09-05T14:24:29Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -697,7 +697,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers - Halloween](https://apexevlabs.com/products/apex-wheel-covers-halloween): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Halloween pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Halloween fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:26Z
+  Updated: 2026-09-05T16:47:48Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -715,7 +715,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Wheel Covers - Spokes](https://apexevlabs.com/products/apex-wheel-covers-spokes): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Spokes pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Spokes fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns Faulty or incorrect item? Report it within 14 days of delivery and we replace or refund it. Change-of-mind returns are not accepted. Free shipping — no minimum
-  Updated: 2026-09-04T17:26:27Z
+  Updated: 2026-09-05T17:09:33Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -733,7 +733,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Magnetic Mini Head Buddy - Tesla Car Interior Figurine](https://apexevlabs.com/products/magnetic-mini-head-buddy): Fun magnetic mini head figurine for your car's interior. Snaps onto Tesla and most vehicle dashboards. A quirky collectible gift for car lovers.
-  Updated: 2026-09-04T21:48:47Z
+  Updated: 2026-09-13T21:55:56Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -874,7 +874,7 @@
     Availability: Available
     Price: $26.99 USD
 - [Sculpted Metal NFC Key Card Holder | Apex EV Labs](https://apexevlabs.com/products/apex-sculpted-metal-nfc-key-card-holder): A rigid zinc-alloy shell for your Tesla NFC key card, cut with an open lattice so the signal still passes through. Keyring-ready.
-  Updated: 2026-09-02T04:26:13Z
+  Updated: 2026-09-07T18:29:46Z
   Vendor: Apex EV Labs
   Product Type: Accessories
   Availability: Available
@@ -934,7 +934,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Apex CyberWheel™ — Cybertruck-Style Steering Wheel for Tesla Model 3 Highland & Model Y Juniper](https://apexevlabs.com/products/cybertruck-steering-wheel-tesla-model-3-highland-model-y-juniper): Upgrade to the Apex CyberWheel™ — a Cybertruck square steering wheel for Tesla Model 3 Highland & Model Y Juniper. Keeps your OEM airbag, buttons & heating. 45-min install, no coding. Free worldwide shipping.
-  Updated: 2026-09-04T17:20:59Z
+  Updated: 2026-09-05T16:33:23Z
   Vendor: Apex EV Labs
   Product Type: Interior Upgrade
   Availability: Available
@@ -969,6 +969,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/asky-black-install.jpg?v=1788341282
     Price: $359.99 USD
+- [Tesla Model Y Hidden Trunk Fridge 2020–2026 | 16L Compressor, −6°C | Apex Glacier](https://apexevlabs.com/products/tesla-model-y-hidden-trunk-fridge): A real compressor fridge hidden in the Model Y trunk side wall. 16L holds 20 cans, chills to −6°C, ECO mode, low-voltage protection, zero floor space lost. One version for Model Y 2020–2024, one for Model Y 2025–2026 Juniper. 20-minute reversible install, free tracked shipping.
+  Updated: 2026-09-10T21:47:16Z
+  Vendor: Apex EV Labs
+  Product Type: Fridge
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Sep_6_2026_04_07_37_AM.png?v=1788639118
+  - [Model Y 2020, 2021, 2022, 2023 or 2024](https://apexevlabs.com/products/tesla-model-y-hidden-trunk-fridge?variant=52573412786407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/81XnEv4qKiL._AC_UF1000_1000_QL80.jpg?v=1788638969
+    Price: $499.00 USD
+  - [Model Y 2025 or 2026 (new Juniper shape)](https://apexevlabs.com/products/tesla-model-y-hidden-trunk-fridge?variant=52573495001319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/tesery-rear-trunk-on-board-refrigerator-for-tesla-model-y-5-seaters-545952_3a7dc4c0-0845-4388-9003-1e5c55383ee6.webp?v=1788639032
+    Price: $499.00 USD
+- [Retractable Car Window Sun Shade 2-Pack | Apex RollShade™](https://apexevlabs.com/products/apex-rollshade-retractable-window-sun-shade): Apex RollShade™ retractable side window sun shade, 2-pack. One-touch roll-up, suction-cup or hook mount, blocks harsh sun and heat for kids and pets. Fits any car, SUV or truck. Free worldwide shipping.
+  Updated: 2026-09-11T16:59:53Z
+  Vendor: Apex EV Labs
+  Product Type: Sun Shades
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/81sp5limmNL._AC_SL1500.jpg?v=1789051076
+  Price: $39.00 USD
+- [Foldable Silicone Phone & Tablet Stand | Apex FlexStand™](https://apexevlabs.com/products/apex-flexstand-foldable-phone-tablet-stand): Apex FlexStand™ is a 20 × 10 cm bendable silicone stand with an aluminium core. Fold it into a phone stand, tablet stand, hanging clip or laptop riser; roll it flat for travel. Orange or Black. Free worldwide shipping.
+  Updated: 2026-09-11T16:16:37Z
+  Vendor: Apex EV Labs
+  Product Type: Phone Stands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/Sf91413b2bcc94110a0cebfe669d32acea.webp?v=1789051106
+  - [Orange](https://apexevlabs.com/products/apex-flexstand-foldable-phone-tablet-stand?variant=52612480532711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/Sf91413b2bcc94110a0cebfe669d32acea.webp?v=1789051106
+    Price: $29.00 USD
+  - [Black](https://apexevlabs.com/products/apex-flexstand-foldable-phone-tablet-stand?variant=52612480565479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/IMG_6906.jpg?v=1789067863
+    Price: $29.00 USD
+  - [Orange + Black (pair)](https://apexevlabs.com/products/apex-flexstand-foldable-phone-tablet-stand?variant=52614770557159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/613QJ7jUSbL._AC_SL1500.jpg?v=1789054037
+    Price: $54.00 USD
+- [LED Hand Gesture Light for Car with Remote | Apex GestureGlow™](https://apexevlabs.com/products/apex-gestureglow-led-hand-gesture-light): Apex GestureGlow™: a 203-LED amber hand for your rear window. Wave, rock on, thumbs up or the finger from a wireless remote. 3M Velcro mount, no wiring, months on 3 AA batteries. Free worldwide shipping.
+  Updated: 2026-09-11T20:58:42Z
+  Vendor: Apex EV Labs
+  Product Type: Car Lighting
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/1ee6f42d-22b4-4940-ba6c-00f2e2e89adc.jpg?v=1789051122
+  Price: $59.00 USD
+- [Apex AutoCover™ – Automatic Solar Car Cover with Remote | Apex EV Labs](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover): Press once and your car is covered in 10 seconds. Solar-charged, 4-layer waterproof cover with touch alarm. Sized to your car, free worldwide shipping.
+  Updated: 2026-09-13T17:18:45Z
+  Vendor: Apex EV Labs
+  Product Type: Car Cover
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Sep_13_2026_11_53_58_PM.png?v=1789315039
+  - [Graphite Black](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898616551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-black.jpg?v=1789317202
+    Price: $349.00 USD
+  - [Silver](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898649319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-silver.jpg?v=1789317202
+    Price: $349.00 USD
+  - [Champagne Gold](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626898682087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-gold.jpg?v=1789317202
+    Price: $349.00 USD
+  - [Pearl White](https://apexevlabs.com/products/apex-autocover-automatic-solar-car-cover?variant=52626928173287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/autocover-colour-white.jpg?v=1789317202
+    Price: $349.00 USD
 
 ## Collections
 
@@ -976,38 +1044,41 @@
   Updated: 2026-08-05T14:45:43Z
   Total Products: 0
 - [Tesla Model S](https://apexevlabs.com/collections/tesla-model-s): Shop premium carbon fiber and Alcantara interior upgrades for Tesla Model S. Precision-crafted components for a luxury cabin experience.
-  Updated: 2026-08-05T14:45:43Z
-  Total Products: 0
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 8
 - [Tesla Model 3](https://apexevlabs.com/collections/tesla-model-3): Shop premium interior/exterior upgrades for Tesla Model 3. Precision-crafted components for a luxury cabin experience.
-  Updated: 2026-09-04T11:24:48Z
-  Total Products: 12
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 22
 - [Tesla Model X](https://apexevlabs.com/collections/tesla-model-x): Shop premium carbon fiber and Alcantara interior upgrades for Tesla Model X. Precision-crafted components for a luxury SUV cabin experience.
-  Updated: 2026-08-05T14:45:44Z
-  Total Products: 0
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 8
 - [Tesla Model Y](https://apexevlabs.com/collections/tesla-model-y): Shop premium interior/exterior upgrades for Tesla Model Y. Precision-crafted components for a luxury crossover cabin experience.
-  Updated: 2026-09-04T11:24:48Z
-  Total Products: 12
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 23
 - [Upgrades Under $200](https://apexevlabs.com/collections/upgrades-under-200): Shop the best Tesla upgrades under $200. Affordable interior mods, accessories, and lighting for Model 3 & Model Y. Fitment confirmed before you order.
-  Updated: 2026-09-04T17:21:02Z
-  Total Products: 11
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 14
 - [Lighting](https://apexevlabs.com/collections/lighting): Shop RGB ambient lighting, BSD alert strips, and illuminated door handles for Tesla Model 3 & Model Y. Premium lighting upgrades from Apex.
   Updated: 2026-08-05T14:45:44Z
   Total Products: 0
 - [Comfort &amp; Convenience](https://apexevlabs.com/collections/comfort-amp-convenience): Ventilated seats, sunshades, tray tables, fridges & more for Tesla Model 3 & Model Y. Premium comfort upgrades, fitment confirmed before you order.
-  Updated: 2026-09-04T17:21:02Z
-  Total Products: 1
+  Updated: 2026-09-11T11:23:58Z
+  Total Products: 2
 - [Cockpit &amp; Screens](https://apexevlabs.com/collections/cockpit-amp-screens): CarPlay instrument clusters, rear screens & rotary docks for Tesla Model 3 & Model Y. Wireless CarPlay, live vehicle data, plug-in install.
   Updated: 2026-08-06T11:10:19Z
   Total Products: 2
 - [Wheel Covers](https://apexevlabs.com/collections/wheel-covers): Shop premium Tesla wheel covers for Model 3 & Model Y. Aero-optimized designs that improve range and transform your stance. Ships across the USA.
-  Updated: 2026-08-29T11:24:35Z
+  Updated: 2026-09-08T11:24:23Z
   Total Products: 28
 - [Best Sellers](https://apexevlabs.com/collections/best-sellers): Our best- upgrades, ranked by real sales.
-  Updated: 2026-09-04T11:24:48Z
+  Updated: 2026-09-13T11:24:30Z
   Total Products: 10
 - [Steering Wheels](https://apexevlabs.com/collections/steering-wheels): Upgrade your Tesla interior with our collection of premium aftermarket steering wheels, featuring sporty yoke designs, carbon fiber finishes, and luxurious Nappa leather options. Designed for Tesla enthusiasts who want a more personalized and performance-inspired driving experience.
   Updated: 2026-08-29T09:50:15Z
   Total Products: 4
+- [Tesla Cybertruck](https://apexevlabs.com/collections/tesla-cybertruck): Upgrades that fit the Cybertruck: the custom-cut AutoShade Pro, the starlight sunshade, and universal cabin accessories.
+  Updated: 2026-09-13T11:24:30Z
+  Total Products: 9
 
 ## Blogs
 
