@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2024-06-17T20:31:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-31T00:00:40.059Z
+- Updated At: 2026-09-14T00:00:42.627Z
 
 ## Products
 
 - [Mid-Twenties Crisis Vinyl](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-vinyl): The Mid-Twenties Crisis vinyl is back in stock with a limited number available! Order now.
-  Updated: 2026-08-27T21:31:41Z
+  Updated: 2026-09-10T18:53:13Z
   Vendor: Dylan Marlowe Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_Vinyl_mockup_2000x2000_e8cbbb71-9d0e-4dcb-84d1-5dd3b43dd08c.png?v=1726776327
   Price: $34.98 USD
 - [Mid-Twenties Crisis CD](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-cd): Tracklist: Heaven’s Sake Deer On The Wall Mid-Twenties Crisis Heart Brakes Stick to My  Hungover In A Deer Stand Hang It Up Shop Radio Devil On My Shoulder I Never Miss There Goes That Boys Back Home You Did It Too Bat Outta Hell The Fence
-  Updated: 2026-08-22T18:19:25Z
+  Updated: 2026-09-05T01:35:16Z
   Vendor: Dylan Marlowe Store
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_CD_1080x1080_21cac1e5-ca8c-49e5-9abd-c395259e104b.png?v=1726776277
   Price: $13.98 USD
 - [Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee): Deer Tee in natural with front print only. 100% Cotton
-  Updated: 2026-08-18T20:40:41Z
+  Updated: 2026-09-09T23:16:50Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -200,39 +200,63 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $35.00 USD
 - [Embroidered Duck Hat](https://dylanmarlowe.merchmadeeasy.com/products/embroidered-duck-hat): Specialty patch on the front Forest/Walnut hat with rope detail 100% cotton Adjustable sizing with snapback closure
-  Updated: 2026-08-18T20:39:26Z
+  Updated: 2026-09-11T13:12:56Z
   Vendor: Dylan Marlowe Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/Mockup_0003_DM_Duck_Snapback.png?v=1783018471
   Price: $40.00 USD
+- [Duck Hoodie](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie): Duck Hoodie in Sand with front and back print 80% Cotton / 20% Polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
+  Updated: 2026-09-13T00:18:51Z
+  Vendor: Dylan Marlowe Store
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/Mockups_0000_Sand-Duck-Hoodie_916e2864-6166-410c-8c16-93e87131da70.png?v=1788191810
+  - [S](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624276126)
+    Availability: Available
+    Price: $65.00 USD
+  - [M](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624308894)
+    Availability: Available
+    Price: $65.00 USD
+  - [L](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624341662)
+    Availability: Available
+    Price: $65.00 USD
+  - [XL](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624374430)
+    Availability: Available
+    Price: $65.00 USD
+  - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624407198)
+    Availability: Available
+    Price: $65.00 USD
 
 ## Collections
 
 - [ALL](https://dylanmarlowe.merchmadeeasy.com/collections/all-1)
-  Updated: 2026-08-23T11:12:09Z
-  Total Products: 39
+  Updated: 2026-09-13T11:10:16Z
+  Total Products: 42
 - [APPAREL](https://dylanmarlowe.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-22T11:14:53Z
-  Total Products: 13
+  Updated: 2026-09-13T11:10:16Z
+  Total Products: 14
 - [ACCESSORIES](https://dylanmarlowe.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-13T16:38:29Z
+  Updated: 2026-09-12T11:11:08Z
   Total Products: 7
 - [Music](https://dylanmarlowe.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-23T11:12:09Z
-  Total Products: 3
+  Updated: 2026-09-11T11:10:59Z
+  Total Products: 5
 - [NEW ARRIVALS](https://dylanmarlowe.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-08-22T11:14:53Z
-  Total Products: 16
+  Updated: 2026-09-13T11:10:16Z
+  Total Products: 12
 - [All excluding Music](https://dylanmarlowe.merchmadeeasy.com/collections/all-excluding-music)
-  Updated: 2026-08-22T11:14:53Z
-  Total Products: 35
+  Updated: 2026-09-13T11:10:16Z
+  Total Products: 36
 - [Mid-Twenties Crisis Anniversary](https://dylanmarlowe.merchmadeeasy.com/collections/mid-twenties-crisis-anniversary)
-  Updated: 2026-08-02T11:15:48Z
+  Updated: 2026-09-11T17:38:39Z
   Total Products: 5
 - [Black Friday ](https://dylanmarlowe.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-08-23T11:12:09Z
-  Total Products: 11
+  Updated: 2026-09-13T11:10:16Z
+  Total Products: 14
+- [Dylan Marlowe](https://dylanmarlowe.merchmadeeasy.com/collections/dylan-marlowe)
+  Updated: 2026-09-11T17:38:50Z
+  Total Products: 2
 
 ## Store Pages
 
