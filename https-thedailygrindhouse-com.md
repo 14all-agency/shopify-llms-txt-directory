@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-09-06T00:00:47.310Z
+- Updated At: 2026-09-14T00:00:45.553Z
 
 ## Products
 
@@ -542,7 +542,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Caramel Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/caramel): Sweet, buttery, and irresistibly smooth — our Caramel flavored coffee wraps a medium roast specialty-grade Arabica in a rich, all-natural caramel flavor that’s
-  Updated: 2026-08-22T15:11:29Z
+  Updated: 2026-09-13T02:39:27Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -3092,7 +3092,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $19.99 USD
 - [Jasmine Green Tea | Delicate Floral Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/jasmine): Delicate, floral, and timelessly elegant — our Jasmine tea is a masterclass in patience and craft. Hand-picked green tea leaves are carefully paired with
-  Updated: 2026-08-22T15:12:02Z
+  Updated: 2026-09-13T02:39:29Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
@@ -3756,13 +3756,13 @@
 ## Collections
 
 - [Coffee](https://thedailygrindhouse.com/collections/coffee): Shop single origins, blends, flavored roasts, cold brew & specialty coffees. Every bag selected for quality and roasted for flavor. Find your perfect cup.
-  Updated: 2026-08-07T23:43:12Z
+  Updated: 2026-09-13T11:18:07Z
   Total Products: 61
 - [Blends](https://thedailygrindhouse.com/collections/blends): Shop signature coffee blends crafted for balance and depth. From smooth Breakfast Blend to bold Cowboy Blend — roasted for every brewing method.
   Updated: 2026-08-07T23:43:12Z
   Total Products: 23
 - [Flavored](https://thedailygrindhouse.com/collections/flavored): Shop craft flavored coffees — Mocha, Hazelnut, Pumpkin Spice, Caramel & more. Quality roasted beans with natural flavors. Find your next morning ritual.
-  Updated: 2026-08-07T23:36:32Z
+  Updated: 2026-09-13T11:18:07Z
   Total Products: 15
 - [Sample Packs](https://thedailygrindhouse.com/collections/sample-packs): Explore The Daily Grindhouse with curated coffee sample packs. Single origins, flavored roasts & fan favorites. Perfect for discovering your next go-to.
   Updated: 2026-08-06T00:49:12Z
@@ -3771,7 +3771,7 @@
   Updated: 2026-08-07T23:40:43Z
   Total Products: 20
 - [Tea](https://thedailygrindhouse.com/collections/tea): Shop craft specialty teas — Matcha, Hojicha, Moroccan Mint & more. Sourced for quality, brewed for flavor. The same craft-forward approach as our coffee.
-  Updated: 2026-08-07T23:58:00Z
+  Updated: 2026-09-13T11:18:07Z
   Total Products: 11
 - [Tees](https://thedailygrindhouse.com/collections/tees): Shop The Daily Grindhouse graphic tees. Premium coffee-inspired t-shirts for the serious coffee lover. Soft, comfortable, and built to last.
   Updated: 2026-08-06T00:49:13Z
@@ -4158,6 +4158,8 @@
   Updated: 2026-07-29T10:14:18Z
 - [Did You Find Our Gift Card? | The Daily Grindhouse](https://thedailygrindhouse.com/pages/gift-card-found): First of all — lucky you! That card in your hand is a gift from The Daily Grindhouse, a specialty coffee and tea roaster dedicated to bringing you ...
   Updated: 2026-08-11T20:56:23Z
+- [About The Daily Grindhouse | Fresh Roasted Coffee & Tea](https://thedailygrindhouse.com/pages/about-the-daily-grindhouse): About The Daily GrindhouseGood coffee should feel personal. It should have a story, a sense of place, and a little room for you to make it your own...
+  Updated: 2026-09-13T02:18:06Z
 
 ## Policies
 
