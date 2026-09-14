@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-08T14:30:33Z
 - Contact Email: info@splasharts.in
-- Updated At: 2026-09-06T00:00:46.524Z
+- Updated At: 2026-09-14T00:00:47.666Z
 
 ## Products
 
@@ -109,11 +109,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/flower-double-layered-rangoli-design-diy-kit-i-splash-by-arts-184.webp?v=1779699828
   Price: ₹299.00 INR
 - [Petal Double Layered Rangoli Design DIY Kit I](https://splasharts.in/products/red-rangoli-design-diy-kit): Create beautiful colorful rangoli mandala art diy Kit. Includes pre-marked designs, colors, mirrors, glue & tools for fun festive creativity and home decor. Inspired by traditional Indian rangoli art.
-  Updated: 2026-07-10T12:12:37Z
+  Updated: 2026-09-09T06:14:14Z
   Vendor: splashdiy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/petal-double-layered-rangoli-design-diy-kit-i-splash-by-arts-539.webp?v=1779699860
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/petal-double-layered-rangoli-design-diy-kit-i-splash-by-arts-539.webp?v=1788934307
   Price: ₹299.00 INR
 - [Animal Bookmark DIY Kit Create 10 Unique Art Designs](https://splasharts.in/products/animal-bookmark-diy-kit): The Animal Bookmark DIY Kit includes 10 pre-printed cutouts with inspirational quotes and 12 brush pens. This SPLASH DIY Kit provides animal facts for learning.
   Updated: 2026-07-10T12:12:37Z
@@ -130,11 +130,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/anime-character-bookmark-diy-kit-i-splash-333.webp?v=1779699928
   Price: ₹199.00 INR
 - [Leaf and Flower Double Layerd  Rangoli Design - 9inch DIY Kit](https://splasharts.in/products/big-rangoli-design-9inch): Design a beautiful festive rangoli with the Leaf and Flower Double Layered 9 Inch DIY Kit by SPLASH DIY. Includes pre-marked wooden rangoli, colors, mirrors, glue and decorative accessories for creative fun.
-  Updated: 2026-07-10T12:12:38Z
+  Updated: 2026-09-09T18:26:07Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-and-flower-double-layerd-rangoli-design-9inch-diy-kit-i-splash-611.webp?v=1779699958
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-and-flower-double-layerd-rangoli-design-9inch-diy-kit-i-splash-611.webp?v=1788933885
   Price: ₹499.00 INR
 - [DIY Ceramic Tea Light Candle Holder Craft Kit for Kids](https://splasharts.in/products/tea-light-holder-making-splash-diy-kit): Ceramic Tea Light Holders DIY Kit by SPLASH DIY with paint colors, decorative materials and ceramic candle holders for festive home decor and kids creative activity.
   Updated: 2026-07-10T12:12:38Z
@@ -158,18 +158,18 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/fairytale-bookmark-diy-kit-i-splash-779.webp?v=1779700079
   Price: ₹149.00 INR
 - [Flower Tea Light Candle Holder DIY Kit Craft Set](https://splasharts.in/products/flower-tea-light-candle-holder-diy-kit-i-splash-diy-kit): The Flower Tea Light Candle Holder DIY Kit by SPLASH DIY includes two flower bases and three acrylic colors. Children decorate holders for festivals and home decor.
-  Updated: 2026-07-10T12:12:38Z
+  Updated: 2026-09-09T06:20:46Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/flower-tea-light-candle-holder-diy-kit-splash-by-arts-festival-531.webp?v=1779700105
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/flower-tea-light-candle-holder-diy-kit-splash-by-arts-festival-531.webp?v=1788934804
   Price: ₹399.00 INR
 - [Peacock Tea Light Candle Holder DIY Craft Painting Kit](https://splasharts.in/products/peacock-tea-light-candle-holder-diy-kit): Peacock Tea Light Candle Holder DIY Kit comes with paint colors, decorative materials and candle holders for festive home decor and kids creative activity.
-  Updated: 2026-07-10T12:12:38Z
+  Updated: 2026-09-09T06:21:35Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-tea-light-candle-holder-diy-kit-splash-by-arts-festival-846.webp?v=1779700129
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-tea-light-candle-holder-diy-kit-splash-by-arts-festival-846.webp?v=1788934874
   Price: ₹399.00 INR
 - [Floral Tea Light and Leaf Rangoli Design DIY Kit](https://splasharts.in/products/leaf-and-flower-double-layerd-rangoli-diy-kit): Create stunning festive decor with the Floral Tea Light and Leaf Rangoli Design DIY Kit. Includes rangoli base, tea light holders, colors, mirrors, glue and decorative accessories for creative fun.
   Updated: 2026-07-10T12:12:38Z
@@ -179,25 +179,25 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-tea-light-and-leaf-rangoli-design-diy-kit-i-splash-by-arts-736.webp?v=1779700149
   Price: ₹599.00 INR
 - [Festive Blossom Double Layered Rangoli 9 inch DIY Kit](https://splasharts.in/products/festive-blossom-double-layerd-rangoli-design-diy-kit-9inch-i-splash-diy-kit-layerd-rangoli-design-diy-kit-9inch-i-splash-diy-kit): Festive Blossom Double Layered Rangoli Design DIY Kit measures 9 inches. SPLASH DIY Kit includes pre-marked patterns, 12 acrylic sets, and 3 decorative types.
-  Updated: 2026-07-10T12:12:39Z
+  Updated: 2026-09-09T18:16:11Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/festive-blossom-double-layerd-rangoli-design-diy-kit-9inch-i-splash-803.webp?v=1779700174
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/festive-blossom-double-layerd-rangoli-design-diy-kit-9inch-i-splash-803.webp?v=1788934005
   Price: ₹499.00 INR
 - [Circle Spark Tea Light Candle Holder DIY Craft Kit](https://splasharts.in/products/circle-tea-light-candle-holder-diy-kit-splash-diy-kit): Create beautiful festive decor with the Circle Spark Tea Light Candle Holder DIY Kit by SPLASH DIY. Includes colors, kundans, glue, dotting tool & tea lights.
-  Updated: 2026-07-10T12:12:39Z
+  Updated: 2026-09-09T06:18:06Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/circle-spark-tea-light-candle-holder-diy-kit-splash-festival-416.webp?v=1779700202
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/circle-spark-tea-light-candle-holder-diy-kit-splash-festival-416.webp?v=1788934644
   Price: ₹299.00 INR
 - [Floral Tea Light Candle Holder DIY Craft Kit Splash](https://splasharts.in/products/floral-tea-light-candle-holder-diy-kit-splash-diy-kit): Floral Tea Light and Leaf Rangoli Design DIY Kit with floral rangoli pattern, tea light holders, acrylic colors, mirrors and decorative materials for festive home decoration.
-  Updated: 2026-07-10T12:12:39Z
+  Updated: 2026-09-09T06:19:21Z
   Vendor: splashdiy
   Product Type: Festival
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-tea-light-candle-holder-diy-kit-splash-by-arts-festival-149.webp?v=1779700224
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-tea-light-candle-holder-diy-kit-splash-by-arts-festival-149.webp?v=1788934726
   Price: ₹399.00 INR
 - [Peacock & Flower Block Painting DIY Kit |Paint Your Own Tote Bag](https://splasharts.in/products/peacock-flower-block-printing-diy-kit-splash-diy-kit): Peacock & Flower Block Painting DIY Kit . Includes wooden blocks, colors, and tools for a fun, creative activity perfect for gifting, and return favors.
   Updated: 2026-07-10T12:12:39Z
@@ -278,12 +278,12 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1785303598
   Price: ₹2,199.00 INR
 - [Ganesha Wooden Effect Nameplate Spiritual Door Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate-copy): The Ganesha Wooden Effect Nameplate features premium MDF marine wood construction. This entrance accessory provides durability and a wood appearance for homes.
-  Updated: 2026-08-24T06:02:03Z
+  Updated: 2026-09-12T13:38:05Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/ganesha-wooden-effect-nameplate-606.webp?v=1779700423
-  Price: ₹1,999.00 INR
+  Price: ₹2,099.00 INR
 - [Lotus Nameplate Elegant Floral Entrance Decor](https://splasharts.in/products/lotus-nameplate): The SplashArts Lotus Nameplate features MDF marine wood construction and Vastu principles. This door plate provides durability plus symbols of purity and harmony.
   Updated: 2026-08-17T11:05:23Z
   Vendor: splasharts
@@ -299,7 +299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-nameplate-593.webp?v=1779700473
   Price: ₹3,899.00 INR
 - [Divine Ganesha Nameplate for Home Entrance Decor](https://splasharts.in/products/divine-ganesha-nameplate): The Divine Ganesha Nameplate features MDF marine wood construction for durability. This entrance accessory displays spiritual symbols to represent enlightenment.
-  Updated: 2026-08-17T10:49:06Z
+  Updated: 2026-09-12T06:17:25Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -959,7 +959,7 @@
     Availability: Available
     Price: ₹1,250.00 INR
 - [Unicorn Nameboard DIY Kit for Kids | Personalized Nameboard Kit](https://splasharts.in/products/unicorn-nameboard-diy-kit-for-kids): Make creativity magical with the Unicorn Nameboard DIY Kit for kids. A fun and engaging personalized Diy kit designed for kids. Perfect for Birthday Return gift
-  Updated: 2026-08-22T07:35:07Z
+  Updated: 2026-09-10T05:03:56Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -1931,7 +1931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/holi-fridge-magnet-diy-kit-for-kids-paint-your-own-festival-craft-277.jpg?v=1779697892
     Price: ₹599.00 INR
 - [Theme Personalised Fridge Magnet DIY Kit |Paint Your Own Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit): Personalized fridge magnet in themes like Unicorn, Spiderman, Roblox, Peppa Pig, Minion, Teddy, Mermaid, Fairy, Ronaldo & Rumi. Perfect birthday return gift.
-  Updated: 2026-09-04T10:01:37Z
+  Updated: 2026-09-13T18:22:15Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
@@ -1983,7 +1983,7 @@
   - [Unicorn / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553232541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
-    Price: ₹1,699.00 INR
+    Price: ₹1,799.00 INR
   - [Dino / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582616221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
@@ -2031,7 +2031,7 @@
   - [Dino / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553429149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹1,699.00 INR
+    Price: ₹1,799.00 INR
   - [Spiderman / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060453533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
@@ -2079,7 +2079,7 @@
   - [Spiderman / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553625757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹1,699.00 INR
+    Price: ₹1,799.00 INR
   - [Kpop Demon Hunter / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493705373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
@@ -2127,7 +2127,7 @@
   - [Kpop Demon Hunter / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553822365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kpop.webp?v=1786103747
-    Price: ₹1,699.00 INR
+    Price: ₹1,799.00 INR
   - [Kpop Demon Hunter - Boy / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48638028578973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kpop_demon_hunter_-_boy.webp?v=1784027857
@@ -2553,7 +2553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-297.png?v=1786014294
     Price: ₹150.00 INR
 - [3 Layer Car DIY Photo Frame Paint Your Own Magnet Kit](https://splasharts.in/products/3-layer-rainbow-photo-frame-fridge-magnet-diy-kit-copy): Create a personalized rainbow photo magnet with this kid-friendly DIY kit—includes MDF rainbow magnet, 6 paints, brush, and sketch pen for gift-worthy fun.
-  Updated: 2026-07-10T12:13:04Z
+  Updated: 2026-09-11T03:16:45Z
   Vendor: splashdiy
   Product Type: photoframe
   Availability: Available
@@ -2598,7 +2598,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Aeroplane Theme Nameboard DIY Kit |Personalized Paint Your Own Kit](https://splasharts.in/products/personalised-aeroplane-nameboard-diy-kit): Aeroplane theme nameboard DIY kit for kids with paints & brush. Personalised craft for room decor, birthday return gifts & fun creative play.
-  Updated: 2026-07-21T16:41:07Z
+  Updated: 2026-09-10T05:03:56Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2655,7 +2655,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Minion Theme Nameboard DIY Kit| Personalised Kids Paint Your Own Kit](https://splasharts.in/products/minion-nameboard-diy-kit): Minion theme nameboard DIY kit for kids with paints & brush. Fun personalised craft for room décor, return gifts & creative learning activity.
-  Updated: 2026-07-10T12:13:05Z
+  Updated: 2026-09-10T05:03:56Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2826,7 +2826,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Kpop Demon Hunter Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board): Kpop Demon Hunter Nameplate DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-09-01T06:54:07Z
+  Updated: 2026-09-12T11:54:25Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -3092,7 +3092,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-31T04:52:47Z
+  Updated: 2026-09-09T10:14:32Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3110,42 +3110,25 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/my-sweet-home-nameplate-i-handcrafted-personalized-wooden-for-entrance-367.png?v=1783664674
   Price: ₹2,499.00 INR
-- [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
+- [Partial Payment](https://splasharts.in/products/partial-payment)
   Updated: 2026-07-10T12:13:08Z
   Vendor: SplashArts
-  Product Type: DIY Craft Kit
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rakhi-diy-kit-little-god-i-paint-your-own-splasharts-craft-989.webp?v=1783664687
-  Price: ₹499.00 INR
-- [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-little-hand-rakhi-diy-kit-i-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
-  Updated: 2026-07-10T12:13:08Z
-  Vendor: SplashArts
-  Product Type: DIY Craft Kit
+  Price: ₹0.00 INR
+- [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/tulips-elegance-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
+  Updated: 2026-08-17T10:43:40Z
+  Vendor: splasharts
+  Product Type: nameplate
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rakhi-diy-kit-little-hand-i-paint-your-own-splasharts-craft-650.webp?v=1783664703
-  Price: ₹499.00 INR
-- [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-little-india-rakhi-diy-kit-i-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
-  Updated: 2026-07-10T12:13:08Z
-  Vendor: SplashArts
-  Product Type: DIY Craft Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rakhi-diy-kit-little-india-i-paint-your-own-splasharts-craft-737.webp?v=1783664718
-  Price: ₹499.00 INR
-- [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-k-pop-demon-hunter-besties-rakhi-diy-kit-i-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
-  Updated: 2026-07-10T12:13:08Z
-  Vendor: SplashArts
-  Product Type: DIY Craft Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rakhi-diy-kit-k-pop-demon-hunter-besties-i-paint-your-own-596.webp?v=1783664734
-  Price: ₹499.00 INR
-- [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-anime-fantasy-rakhi-diy-kit-i-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
-  Updated: 2026-07-10T12:13:08Z
-  Vendor: SplashArts
-  Product Type: DIY Craft Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rakhi-diy-kit-anime-fantasy-i-paint-your-own-splasharts-craft-876.webp?v=1783664749
-  Price: ₹499.00 INR
-[List Continued](https://splasharts.in/a/llms-agent/llms.txt?shop=6d71a8-cf.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTcxNTk0MjY4ODI5LCJsYXN0X3ZhbHVlIjoiODk3MTU5NDI2ODgyOSJ9)
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-08-10_at_4.27.55_PM.webp?v=1786359674
+  - [12 inch](https://splasharts.in/products/tulips-elegance-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48783644950685)
+    Availability: Available
+    Price: ₹2,399.00 INR
+  - [15 inch](https://splasharts.in/products/tulips-elegance-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48783644983453)
+    Availability: Available
+    Price: ₹2,699.00 INR
+[List Continued](https://splasharts.in/a/llms-agent/llms.txt?shop=6d71a8-cf.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDIxMTEzOTkxMzI1LCJsYXN0X3ZhbHVlIjoiOTAyMTExMzk5MTMyNSJ9)
 
 ## Collections
 
@@ -3153,7 +3136,7 @@
   Updated: 2026-08-11T11:10:42Z
   Total Products: 12
 - [Fridge Magnets and Key Chain DIY Kit](https://splasharts.in/collections/fridge-magnets): SplashArts offers Splash DIY kits for fridge magnets and keychains. The collection includes animal themes, nameboards, tote painting, coasters, and photo frames.
-  Updated: 2026-09-04T11:10:13Z
+  Updated: 2026-09-13T11:09:31Z
   Total Products: 33
 - [Bookmarks Making DIY Kit](https://splasharts.in/collections/bookmarks): SplashArts offers the Butterfly Bookmark DIY Kit featuring paintable wooden bookmarks. This Splash DIY collection includes creative art and craft activities for kids.
   Updated: 2026-07-28T09:39:13Z
@@ -3162,19 +3145,19 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 3
 - [Kids Nameboard DIY kit](https://splasharts.in/collections/diy-kids-nameboard): SplashArts offers personalized SPLASH DIY nameboard kits for kids featuring themes like Aeroplane and Aqua World alongside tote painting and fridge magnet sets.
-  Updated: 2026-09-01T11:12:37Z
-  Total Products: 23
+  Updated: 2026-09-13T11:09:31Z
+  Total Products: 24
 - [NAMEPLATES](https://splasharts.in/collections/house-nameplates): SplashArts offers handcrafted personalized wooden nameplates for home entrances including the Royale Luxe, Elegance Edge, Love Nest, and Nanaks Grace collections.
-  Updated: 2026-08-31T11:09:31Z
+  Updated: 2026-09-13T11:09:31Z
   Total Products: 62
 - [DIY KIT](https://splasharts.in/collections/diy-kits): SplashArts offers Splash DIY kits for fridge magnets, nameboards, tote painting, coasters, and bookmarks. This collection features themed and festival gift sets.
-  Updated: 2026-09-04T11:10:13Z
-  Total Products: 91
+  Updated: 2026-09-13T11:09:31Z
+  Total Products: 92
 - [Tote Painting DIY Kit](https://splasharts.in/collections/block-painting-diy-kit): SplashArts offers a diverse collection of Tote Painting DIY Kits and themed sets including Squid Game designs, Bird and Bee block painting, and fridge magnets.
   Updated: 2026-08-31T11:09:31Z
   Total Products: 8
 - [Photo Frame DIY kit](https://splasharts.in/collections/photo-frame-diy-kit): SplashArts offers Splash DIY photo frame kits for kids featuring unicorn and space themes along with fridge magnets, keychains, and tote painting craft sets.
-  Updated: 2026-08-28T11:10:58Z
+  Updated: 2026-09-11T11:10:39Z
   Total Products: 10
 - [PAINTINGS](https://splasharts.in/collections/paintings-1): SplashArts offers original textured paintings including urban skylines, seascapes, cosmic abstracts, waves, butterflies, birds, florals, and golden sail artworks.
   Updated: 2026-07-28T09:39:13Z
@@ -3183,17 +3166,20 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 19
 - [Festival Collection](https://splasharts.in/collections/festival-collection): SplashArts Festival Collection features DIY kits for rangoli designs, Holi magnets, tote painting, and coasters. These craft sets include nameboards and bookmarks.
-  Updated: 2026-08-09T11:09:53Z
+  Updated: 2026-09-09T06:10:22Z
   Total Products: 19
 - [Best Sellers DIY](https://splasharts.in/collections/best-sellers-diy): SplashArts offers best  DIY kits including fridge magnets, nameboards, tote painting, coasters, and festive rangoli designs from the Splash DIY brand.
-  Updated: 2026-09-04T11:10:13Z
-  Total Products: 15
+  Updated: 2026-09-13T11:09:31Z
+  Total Products: 16
 - [Clock DIY Kit](https://splasharts.in/collections/clock)
   Updated: 2026-09-04T11:10:13Z
   Total Products: 5
 - [Rakhi DIY Kit](https://splasharts.in/collections/rakhi-diy-kits): Shop Rakhi DIY Kits for kids with rakhis, sketch pens, paints, diya craft & festive essentials. Fun, creative Raksha Bandhan activity by SplashArts.
-  Updated: 2026-08-09T11:09:53Z
+  Updated: 2026-09-09T05:49:55Z
   Total Products: 6
+- [Return Gifts](https://splasharts.in/collections/return-gifts)
+  Updated: 2026-09-13T11:09:31Z
+  Total Products: 4
 
 ## Blogs
 
