@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-09-06T00:00:35.184Z
+- Updated At: 2026-09-14T00:00:36.927Z
 
 ## About RareLyf 
 
@@ -42,12 +42,19 @@
 ## Products
 
 - [RareLyf Calm](https://rarelyf.com/products/rarelyf-calm): Every ingredient in RareLyf Calm was chosen for three reasons: classical Ayurvedic precedent, modern clinical validation, and compound synergy. Nothing is in here for label decoration. Everything earns its place.
-  Updated: 2026-08-18T07:25:42Z
+  Updated: 2026-09-12T11:28:12Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Images_Hero_with_badges_2.2.jpg?v=1785128333
   Price: $59.99 USD
+- [90 Days Restoration Scatchcard](https://rarelyf.com/products/90-days-restoration-scatchcard)
+  Updated: 2026-09-13T04:52:21Z
+  Vendor: RareLyf
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/Scratchcardmainimage_88e2423b-281d-4b45-854f-c27d0c0cf626.jpg?v=1789212236
+  Price: $5.00 USD
 
 ## Collections
 
