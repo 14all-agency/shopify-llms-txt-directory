@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-09-07T04:00:37.405Z
+- Updated At: 2026-09-14T04:00:37.945Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2181,54 +2181,7 @@ File Size: 6 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Ballet_Boots_Photo_Set.jpg?v=1744589117
   Price: $40.00 USD
-- [Ironing Pinup Babe Photo Set](https://www.carrielachance.com/products/ironing-pinup-babe-photo-set-download): Carrie covers all the bases in this shoot. She starts off by wearing some sexy old school lingerie with Jimmy Choo high heels while ironing for some pinup shots. She strikes some of her sexiest poses, displaying for us every gorgeous part of her body. All you bondage fetishists are in for a treat as Carrie winds up bound and gagged by the end of the shoot. As I said, this gallery has something for everyone, especially those who just appreciate a truly stunning woman.
-
-Carrie LaChance – Gallery #143
-Total Images: 63 Photos
-Year: 2014
-File Size: 20 MB
-  Updated: 2026-08-28T23:46:03Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Ironing_Pinup_Babe_Photo_Set.jpg?v=1744588889
-  Price: $50.00 USD
-- [Ironing Pinup Babe Video](https://www.carrielachance.com/products/ironing-pinup-babe-video-download): Carrie covers all the bases in this shoot. She starts off by wearing some sexy old school lingerie with Jimmy Choo high heels while ironing for some pin up shots. She strikes some of her sexiest poses, displaying for us every gorgeous part of her body. All you bondage fetishists are in for a treat as Carrie winds up bound and gagged by the end of the shoot. As I said, this gallery has something for everyone, especially those who just appreciate a truly stunning woman. This video is from Carrie LaChance – Gallery #143
-
-Ironing Pinup Babe Video 🔞
-Run Time: 3 min
-Year: 2014
-File Size: 161 MB
-  Updated: 2026-08-28T23:46:03Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $50.00 USD
-- [Windy Pinup Photo Set](https://www.carrielachance.com/products/windy-pinup-photo-set-download): Carrie decided it would be fun to do some sexy pinup photos in the windy weather letting her skirt blow up a la Marilyn Monroe. She was right about it being fun….for us that is. Carrie strikes playful poses as her skirt blows up to expose not only her perfect butt but all the tops of her thigh highs and the garters clipped to them. Needless to say, this is extremely sexy. It has an old school feel to it yet Carrie makes it modern and her own. Definitely a keeper.
-
-Carrie LaChance – Gallery #144
-Total Images: 32 Photos
-Year: 2014
-File Size: 13 MB
-  Updated: 2026-08-28T23:46:56Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Windy_Pinup_Photo_Set.jpg?v=1744588804
-  Price: $40.00 USD
-- [X-Men Bodysuit Photo Set](https://www.carrielachance.com/products/x-men-bodysuit-photo-set-download): How many X-Men fans do we have in the building? If you know Carrie, you should know she's a huge fan of the mutant superheroes. She was walking in the mall one day and though this X-Men bodysuit would look hot. Obviously, she was right. She put the Carrie LaChance spin on it and paired it with a yellow miniskirt and heels and just like that we have the sexiest girl in history to ever wear an X-Men bodysuit. Carrie struts her stuff and flashes her beautiful smile to the camera. This gallery is a can’t miss.
-
-Carrie LaChance - Gallery #145
-Total Images: 32 Photos
-Year: 2014
-File Size: 14 MB
-  Updated: 2026-08-28T23:46:57Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/X-Men_Bodysuit_Photo_Set.jpg?v=1744588488
-  Price: $30.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDg0NDg5MTEzNzY3LCJsYXN0X3ZhbHVlIjoiNTQ4NDQ4OTExMzc2NyJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDgzNzI5MTI1NTQzLCJsYXN0X3ZhbHVlIjoiNTQ4MzcyOTEyNTU0MyJ9)
 
 ## Collections
 
@@ -2239,7 +2192,7 @@ File Size: 14 MB
   Updated: 2026-06-01T23:10:54Z
   Total Products: 5
 - [Carries Closet Collection](https://www.carrielachance.com/collections/carries-closet): Carrie LaChance Memorabilia autographed from my personal own wardrobe, pantyhose, skirts, tops, high heels, boots, panties and autographed photos.
-  Updated: 2026-08-29T23:42:52Z
+  Updated: 2026-09-07T11:08:28Z
   Total Products: 32
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
   Updated: 2026-09-01T11:09:56Z
@@ -2260,7 +2213,7 @@ File Size: 14 MB
   Updated: 2026-09-01T11:09:56Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-08-29T23:43:00Z
+  Updated: 2026-09-07T11:08:28Z
   Total Products: 108
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
   Updated: 2026-09-01T11:09:56Z
@@ -2981,6 +2934,33 @@ File Size: 14 MB
     Updated: 2026-09-06T00:03:17Z
     Author: Carrie LaChance
     Tags:  diary,  storytelling, fashion diaries, glamour, glamour stories, intimate rendezvous, passion, seduction, seductive stories, sensual narrative experiences, waxed allure secrets
+  - [Dream in Stilettos: My Glorious World of High Heels Lingerie and Glamour Photography](https://www.carrielachance.com/blogs/carrie-lachance/dream-in-stilettos-my-glorious-world-of-high-heels-lingerie-and-glamour-photography): Dream in Stilettos: My Glorious World of High Heels Lingerie and Glamour Photography
+    Updated: 2026-09-07T08:00:40Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, creative expression, fashion photography, glamour, glamour model, heels, high heels, latex model, life of a model, lingerie, luxury lifestyle, outfit of the day, pantyhose, pinup model, sexy model, stilettos, stunning imagery
+  - [Step Up Your Selfies: Expert Tricks for Exceptional Lighting and Angles](https://www.carrielachance.com/blogs/carrie-lachance/step-up-your-selfies-expert-tricks-for-exceptional-lighting-and-angles): Step Up Your Selfies: Expert Tricks for Exceptional Lighting and Angles
+    Updated: 2026-09-08T00:01:25Z
+    Author: Carrie LaChance
+    Tags: angles, best lighting for selfies, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to pose for pictures, lighting, modeling tips, photography, photoshoot, portrait photography, posing tips, selfie tricks, social media model, taking good selfies
+  - [Dynamic Tips for Generating Full-Time Income as a Creator](https://www.carrielachance.com/blogs/carrie-lachance/dynamic-tips-for-generating-full-time-income-as-a-creator): Dynamic Tips for Generating Full-Time Income as a Creator
+    Updated: 2026-09-09T10:00:46Z
+    Author: Carrie LaChance
+  - [Embodying Elegance: How Lingerie and Heels Effortlessly Captivate the Male Mind](https://www.carrielachance.com/blogs/carrie-lachance/embodying-elegance-how-lingerie-and-heels-effortlessly-captivate-the-male-mind): Embodying Elegance: How Lingerie and Heels Effortlessly Captivate the Male Mind
+    Updated: 2026-09-10T00:01:26Z
+    Author: Carrie LaChance
+    Tags: attraction, confidence boost, feminine power, heels, high heels, how high heels affect attraction, lingerie and high heels allure, psychology, psychology of high heels,  appeal, why men love women in heels
+  - [Mysteries of Romance: Discover What Effort Feels Like to a High Heel Girl](https://www.carrielachance.com/blogs/carrie-lachance/mysteries-of-romance-discover-what-effort-feels-like-to-a-high-heel-girl): Mysteries of Romance: Discover What Effort Feels Like to a High Heel Girl
+    Updated: 2026-09-11T00:01:55Z
+    Author: Carrie LaChance
+    Tags: attraction tips, dating, dating advice, high heels, how to find a high heel girl, how to find right girl, men’s dating strategies, relationships, romance, understanding women's expectations
+  - [Unraveling the Seductive Mystery of Glossy Legs](https://www.carrielachance.com/blogs/carrie-lachance/unraveling-the-seductive-mystery-of-glossy-legs): Unraveling the Seductive Mystery of Glossy Legs
+    Updated: 2026-09-12T00:00:46Z
+    Author: Carrie LaChance
+    Tags: glossy, how to wear pantyhose, leg fashion, nylons, pantyhose, seductive legs, smooth skin, styling glossy legs
+  - [The Isthmus of Crimson Lust: Fashion Tales Only an  Diary Could Share](https://www.carrielachance.com/blogs/carrie-lachance/the-isthmus-of-crimson-lust-fashion-tales-only-an--diary-could-share): The Isthmus of Crimson Lust: Fashion Tales Only an  Diary Could Share
+    Updated: 2026-09-13T00:03:42Z
+    Author: Carrie LaChance
+    Tags: crimson lust, diaries of desire, ,  diary, fashion diaries, glamour, glamour stories, intimate fashion stories, seductive, seductive stories, storytelling techniques
 
 ## Store Pages
 
