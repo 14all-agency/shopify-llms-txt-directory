@@ -6,12 +6,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-09-08T00:00:41.989Z
+- Updated At: 2026-09-15T00:00:43.010Z
 
 ## Products
 
 - [ComfortRoll Pro™ Multifunctional Manual Neck Massager](https://digicollex.com/products/multifunctional-manual-six-wheel-neck-massager-massage-relieve-roller-massage-tool): Experience natural, therapist-like relief with our upgraded 6-Roller Cervical Neck Massager, designed to soothe sore muscles, release stiffness, and improve circulation. Featuring 360° rotating dual massage balls, this ergonomic tool delivers targeted deep tissue massage to your neck, shoulders, legs, and back—all from the comfort of your home. Key Features: 360° Smooth Rolling Massage: Equipped with 6 high-quality rotating balls that roll effortlessly to deliver a relaxing, tension-relieving experience—much better than traditional fixed ball massagers. Unique Ergonomic Design: Cute swan-shaped design with added “ears” for better grip and visual appeal. Dual massage balls are removable and washable for hygiene and easy maintenance. Deep Tissue Trigger Point Relief: Applies precise pressure on tight and stiff muscles, mimicking the hands of a physical therapist. Ideal for neck stiffness, shoulder tension, and leg muscle soreness. Adjustable Pressure: Squeeze the plated handles to control massage intensity—perfect for users who want customized pressure and comfort. Natural Stone Scraping Board Included: Crafted from natural powder crystal jade, this extra tool helps improve skin circulation, reduce puffiness, and gently massage the face, neck, and body. Lightweight & Portable: Compact and durable design makes it great for home, travel, or office use. Maintain muscle health wherever you go. Product Details: Product Name: 6-Roller Cervical Massager Colors Available: Pink, Blue Size: Approx. 35cm x 18cm Material: High-quality PP + Natural Crystal Jade Applicable For: Neck, Shoulders, Legs, Back, Face Unisex Use: Suitable for men, women, and all age groups Bonus: 1x Natural Powder Crystal Scraping Board (8.5 x 5.5 cm) Perfect For: Daily muscle pain relief Office workers, athletes, travelers, and seniors Promoting better blood flow and circulation Improving sleep quality and reducing fatigue Note: Each product includes natural raw stone, so color may vary slightly—this makes every item beautifully unique. Product information: Product name: 6-roller cervical massager Color: blue, pink Specification: 1 pack Size: about 35cm X 18cm Product category: neck massager Material: PP Applicable scene: health massage Shape: swan six-wheel pink, swan six-wheel blue Applicable scene: Health massage Applicable object: Unisex Scraping board material: high-quality natural powder crystal jade The size is 8.5cm long, 5.5cm wide, and about 0.5-0.8 thick Usage: light and comfortable on face, neck and body Features: Ergonomic design, massage cervical acupoints Packing list: Cervical spine massager*1
-  Updated: 2026-09-04T17:29:36Z
+  Updated: 2026-09-13T21:28:15Z
   Vendor: Digi Collex
   Product Type: Neck Massager
   Availability: Available
@@ -24,20 +24,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/532265e3-d325-422f-a480-05775e744b80.png?v=1784890130
   Price: $24.99 USD
-- [NuroStep Pro™ Walk pain free Feel alive again](https://digicollex.com/products/foot-massager-pad-portable-electric-mat-improve-blood-circulation-relief-pain-relax-feet): Overview: 1. Low Frequency EMS Pulse Technology---Electrical Muscle Stimulation current is conducted to the skin, and by activating the cells of the human body, it prevents soreness caused by muscle stiffness. Promotes blood circulation and relaxes the feet. 2. Smart Acupoint Capture---Through accurate acupoint massage, it will be a more comfortable experience. 3. 8 Massage Modes & 19 Levels Intensity---Beat Mode, Massage Mode, Activation Mode, Train Mode, Knead mode, Shaping Mode, Extrusion Mode, Slap Mode, Plus 19 Levels intensity, you will be more effective massage for feet. 4. Cordless Remote Controller Design---Intelligence and convenience, it is super easy to operate. 5. USB Rechargeable Battery---We use USB charge, when charged for 2 hours, it can be used for 8-10 days (15 minutes per day). It will automatically shut down within 15 minutes of working. 6. Lightweight & Portable---A soft and comfortable foot pad, lightweight, foldable, easy to carry anywhere. You can have a little relaxing Therapy wherever you go. Product Information: Function: Timing Color: Type A: LCD: USB rechargeable [8 modes 19 intensity pulse care], Type A: LCD USB rechargeable with remote control [8 modes 19 intensity pulse care]] Specification: English Output; Max 98ma Size; 32.5 * 29.5cm Packing List: Massager * 1 set Product Image:
-  Updated: 2026-08-29T03:10:48Z
-  Vendor: Digi Collex
-  Product Type: Foot Massager
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/772af31c-b543-44f8-b7f7-7b6e15f386bd.png?v=1785203202
-  Price: $29.99 USD
-- [Precision Waterproof Liquid Eyeliner — Matte Black](https://digicollex.com/products/oil-proof-smudge-proof-liquid-eyeliner): Precision that doesn't blink. A saturated matte-black liquid liner built for long days, humid nights and everything in between — waterproof, oil-proof and smudge-proof from the first flick to the final wipe. Why you'll reach for it every morning Ultra-fine brush tip — tapered for hairline strokes and buildable wings, without drag or skipping. Waterproof & oil-proof — holds its line through heat, humidity and sweat. Smudge-proof wear — no transfer onto the lid, no grey shadows beneath the eye. One-pass depth — a true, opaque black that doesn't need a second coat. How to apply Start with a clean, dry lid — skip oils and heavy creams where you'll be lining. Rest your elbow on a firm surface and gently pull the outer corner of the lid taut. Draw short, connected strokes from the inner corner along the lash line. For a wing, extend a line from the lower lash line toward the tail of the brow, then fill the triangle. Let it set for ten seconds before opening the eye fully. Specifications Shade Matte Black Format Liquid eyeliner pen Applicator Fine-tip precision brush Net volume 1 ml Wear Waterproof, oil-proof, smudge-proof Removal & care Because the formula is built to resist water, remove it with an oil-based or bi-phase cleanser. Press a soaked pad to the lash line, hold for a few seconds to dissolve, then sweep outward — no rubbing needed. Cap firmly after every use to keep the tip from drying. In the box 1 × Precision Waterproof Liquid Eyeliner
-  Updated: 2026-08-29T03:10:49Z
-  Vendor: Digi Collex
-  Product Type: Eyeliner
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/742e51ab-ebc3-413d-bfa6-87dc20a214c8.jpg?v=1784022944
-  Price: $17.99 USD
 - [Frovia™ Foldable Ice Ball 2in1 Portable Cup](https://digicollex.com/products/foldable-ice-ball-cup-2in1-silicone-portable): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. Product information: Color: [1-piece set] Lemon Yellow – easy to unmold/smooth, uniform ice cubes; [1-piece set] Sky Blue – easy to unmold/smooth, uniform ice cubes Material: Food-grade silicone Product capacity: 380 mL Unfolded dimensions: 91 × 91 × 152 mm Folded dimensions: 91 × 91 × 81 mm Packing list: 1 * Mold Product Image:
   Updated: 2026-08-29T03:10:49Z
   Vendor: Digi Collex
@@ -53,26 +39,12 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/df5d2548-0897-47f7-a24d-8a57cd6932ab_trans.jpg?v=1784104501
   Price: $21.99 USD
 - [Nuvella Collagen Neck Wrinkle Cream](https://digicollex.com/products/collagen-scraping-neck-wrinkle-cream): Product information: 💖 Restore Youthful, Firmer & Smoother Skin in Just Minutes a Day Turn your daily skincare routine into a luxurious anti-aging ritual. Our Collagen Neck Wrinkle Cream™ combines a deeply nourishing collagen formula with an innovative built-in Gua Sha massage applicator Ingredients: water, glycerin, mineral oil, glycerol stearate, 1,2- hexanediol, carbomer, arginine, hydrolyzed collagen, DNA sodium. Packing list: Neck cream *1
-  Updated: 2026-08-29T03:10:49Z
+  Updated: 2026-09-09T07:31:52Z
   Vendor: Digi Collex
   Product Type: Neck Wrinkle Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/42d7125d-2743-4d08-be3d-b36d6227936b.png?v=1784852807
   Price: $24.99 USD
-- [Air Bluetooth Headset Open Bone Conduction Concept In-ear Sports Headset](https://digicollex.com/products/air-bluetooth-headset-open-bone-conduction-concept-in-ear-sports-headset): Product information: Color: AS20 Black, AS20 Ivory White, AS20 black red Transmission range: 10 meters Chip type: Jerry Battery life: 4-8 hours Function: Other Material: ABS Usage: Ear-mounted Style: sports style Packing list: Headset*1 pc Product Image:
-  Updated: 2026-08-29T03:10:50Z
-  Vendor: Digi Collex
-  Product Type: In-ear Sports Headset
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/c7d01bd5-8ac7-4173-98d2-2cc0f392c1bd.png?v=1785058750
-  Price: $29.99 USD
-- [Pluvio™ Faucet Aerator Removal Wrench Kitchen & Bathroom Tap Tool](https://digicollex.com/products/kitchen-faucet-spout-aerator-wrench-mouth): Pluvio™ Remove and refit stubborn faucet aerators in seconds — no more scraped knuckles or slipping fingers. This purpose-built wrench grips the aerator securely so you can loosen clogged, limescale-stuck spouts with an easy, controlled turn. Soft anti-slip rubber tips protect the finish on your tap while delivering firm, damage-free torque. The rounded, comfortable handle gives you a confident grip and keeps hands safe throughout. Compact, lightweight and made from durable PP, it fits neatly in any kitchen or bathroom drawer — a simple tool that makes cleaning, unclogging and replacing aerators effortless.
-  Updated: 2026-08-29T03:10:50Z
-  Vendor: Digi Collex
-  Product Type: Kitchen Faucet Spout Aerator Wrench Mout
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/842ca994-ef08-45b6-b365-8137d9d4e774_trans.jpg?v=1785758555
-  Price: $13.99 USD
 - [Golf Bottle Opener Beer Bottle Opener](https://digicollex.com/products/golf-bottle-opener-beer-bottle-opener): Product information: Material: Environmentally friendly PLA Size: Golf ball player coverer - brown face with adhesive backing, golf ball player coverer - white face with adhesive backing, golf ball player coverer - skin-colored face with adhesive backing, golf ball player coverer - women's style with adhesive backing Packing list: Bottle opener * 1 Product Image:
   Updated: 2026-08-29T16:44:05Z
   Vendor: Digi Collex
@@ -103,7 +75,7 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_11_2026_10_00_32_PM_4.png?v=1786449690
   Price: $24.99 USD
 - [AbRova™ Pro 4-Wheel Auto Rebound Abs Roller](https://digicollex.com/products/abrova™-pro-4-wheel-automatic-rebound-ab-roller): Product information: AbRova™ Pro 4-Wheel Automatic Rebound Ab Roller Applicable scenarios: fitness equipment, fitness body shaping Color: [four-wheel 8-elbow support-Black] Strong rebound no timer mobile phone smart interconnection send hassock, [Four-wheel 8-elbow support-Orange] Strong rebound no timer mobile phone smart interconnection send ha socks, [four-wheel 8-elbow support-Blue] Strong rebound no timer mobile phone smart interconnection get no hassock Packing list: 1* Abdominal Wheel Product Image:
-  Updated: 2026-09-06T12:26:58Z
+  Updated: 2026-09-09T15:28:08Z
   Vendor: Digi Collex
   Product Type: ABRova™ Pro 4-Wheel Automatic Rebound Ab
   Availability: Available
@@ -162,12 +134,32 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_6_2026_08_40_28_AM_1.png?v=1788671541
   Price: $21.99 USD
+- [RootNova™Hair Growth Cap Set](https://digicollex.com/products/red-light-physical-therapy-hair-care-cap-portable-carry-on): Product information: Material:Polyester Style:Fashion Simple Features:Red light hair care Color:black Size Information: Packing list: Hat*1 Microneedle roller *1 1 x Head Massager Essential oil * 1 Product Image:
+  Updated: 2026-09-11T09:40:53Z
+  Vendor: Digi Collex
+  Product Type: 1 Hair Growth Cap
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_10_2026_07_29_46_AM_f8a85adf-7005-49b2-9d12-7c41500cc967.png?v=1788993089
+  Price: $59.99 USD
+- [Rootiva™ Rosemary Rice Water Hair Growth Spray](https://digicollex.com/products/rosemary-rice-water-hair-spray): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
+  Updated: 2026-09-14T19:10:27Z
+  Vendor: Digi Collex
+  Product Type: 1 Hair Growth Cap
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_14_2026_06_22_01_PM.png?v=1789374154
+  - [100ml](https://digicollex.com/products/rosemary-rice-water-hair-spray?variant=53936975446299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/995be626-364a-40b9-80e5-0d7a712e0dc8.jpg?v=1789293154
+    Price: $15.00 USD
+  - [200ml](https://digicollex.com/products/rosemary-rice-water-hair-spray?variant=53936975479067)
+    Availability: Available
+    Price: $20.00 USD
 
 ## Collections
 
 - [Home page](https://digicollex.com/collections/frontpage)
-  Updated: 2026-09-07T12:14:25Z
-  Total Products: 7
+  Updated: 2026-09-14T01:05:44Z
+  Total Products: 8
 - [Must Buy](https://digicollex.com/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
   Total Products: 0
@@ -178,7 +170,7 @@
   Updated: 2026-08-26T09:37:36Z
   Total Products: 1
 - [Waterproof Eyeliner](https://digicollex.com/collections/waterproof-eyeliner)
-  Updated: 2026-08-02T11:44:51Z
+  Updated: 2026-09-11T10:58:09Z
   Total Products: 1
 - [Neck relax wheels](https://digicollex.com/collections/neck-relax-wheels)
   Updated: 2026-08-23T01:50:08Z
@@ -187,7 +179,7 @@
   Updated: 2026-08-13T11:23:38Z
   Total Products: 1
 - [Foot Massager](https://digicollex.com/collections/foot-massager)
-  Updated: 2026-07-21T09:35:39Z
+  Updated: 2026-09-11T10:58:07Z
   Total Products: 1
 - [AI Smart Auto Power-off adaptor](https://digicollex.com/collections/ai-smart-auto-power-off-adaptor)
   Updated: 2026-07-21T09:35:39Z
@@ -196,10 +188,10 @@
   Updated: 2026-08-13T21:08:53Z
   Total Products: 1
 - [Bone Conduction Bluetooth Earphones](https://digicollex.com/collections/bone-conduction-bluetooth-earphones)
-  Updated: 2026-07-30T03:40:35Z
+  Updated: 2026-09-11T10:58:10Z
   Total Products: 1
 - [Pluvio™ Faucet Aerator Removal Wrench](https://digicollex.com/collections/faucet-aerator-removal-wrench)
-  Updated: 2026-08-05T11:10:40Z
+  Updated: 2026-09-11T10:58:11Z
   Total Products: 1
 - [Trending Now](https://digicollex.com/collections/best-seller)
   Updated: 2026-09-07T12:14:27Z
