@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-09-03T00:00:45.172Z
+- Updated At: 2026-09-15T00:00:46.726Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,28 +33,28 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Rich yet airy cream with antioxidant protection, anti-inflammatory properties, and 8-hour moisturization. Leaves skin smooth and balanced throughout the day. 100% biodegradable packaging.
-  Updated: 2026-08-31T17:38:34Z
+  Updated: 2026-09-13T14:06:02Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-moisturizing-and-protecting-day-cream-unisex-50ml-biotech-skincare.jpg?v=1754219045
   Price: kr 485.00 DKK
 - [Day Cream & Facial Towel Set – Daily Skincare | Bioli](https://bioliskincare.com/products/daily-day-cream-facial-towel): Discover mindful daily skincare with Moisturizing and Protecting Day Cream, paired with a soft Bioli face towel for simple everyday care.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-09-10T06:43:49Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
   Price: kr 549.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-09-12T21:12:10Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-strengthening_serum-30ml-grey-background.jpg?v=1776617996
   Price: kr 625.00 DKK
 - [Clarifying Cleanser and Exfoliator – 2-in-1 for all skin types | Bioli](https://bioliskincare.com/products/clarifying-cleanser-and-exfoliator): A velvety 2-in-1 gel cleanser that gently cleanses and moisturizes. When left on the skin for longer, it also exfoliates. Leaves skin clean, soft and refreshed. 100% biodegradable packaging.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-09-14T05:02:15Z
   Vendor: Bioli
   Product Type: Cleanser
   Availability: Available
@@ -89,7 +89,7 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioliskincare.com_Images_4.5.png?v=1780645959
   Price: kr 1,485.00 DKK
 - [Skincare Essentials – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/cleanser-day-cream): Mindful skincare gift set with cleanser and serum. Fragrance-free, allergy- and gentle on sensitive skin.
-  Updated: 2026-08-31T18:49:49Z
+  Updated: 2026-09-03T16:27:39Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
@@ -102,8 +102,8 @@ https://bioliskincare.com/blogs/bionotes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Serum_DayCream.png?v=1780747700
   Price: kr 999.00 DKK
-- [Moisturizing and Protecting Day Cream – 2 FOR 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): Summer : GET 2 FOR THE PRICE OF 1 on Bioli's most-loved day cream. Made in Denmark with 8-hour hydration and high antioxidant protection. Calms even the most sensitive skin.
-  Updated: 2026-08-31T20:16:42Z
+- [Moisturizing and Protecting Day Cream – 2 FOR 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): 2 FOR 1  on Bioli's most-loved day cream with 8-hour hydration and high antioxidant protection. Calms even the most sensitive skin. 100% biodegradable packaging.
+  Updated: 2026-09-05T19:14:17Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -113,20 +113,20 @@ https://bioliskincare.com/blogs/bionotes
 ## Collections
 
 - [Conscious Gift Boxes](https://bioliskincare.com/collections/conscious-gift-set): Thoughtful skincare gift sets for all skin types. Fragrance-free, allergy-, and 100% biodegradable packaging.
-  Updated: 2026-06-05T19:40:30Z
+  Updated: 2026-09-13T18:48:13Z
   Total Products: 2
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-09-01T11:09:31Z
+  Updated: 2026-09-06T11:06:41Z
   Total Products: 4
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-09-01T11:09:31Z
+  Updated: 2026-09-13T18:43:09Z
   Total Products: 4
 
 ## Blogs
 
 - [Bionotes](https://bioliskincare.com/blogs/bionotes): Achieve healthy skin while minimizing environmental impact. For conscious consumers who care about both skin health and sustainability.
-  - [Free radicals' impact on skin: translating the chemistry](https://bioliskincare.com/blogs/bionotes/free-radicals-impact-on-skin-translating-the-chemistry): <p><meta charset="utf-8"><em><span class="notion-enable-hover" data--index="0">Seemingly harmless daily tasks, like taking a walk or checking an email, can wreak serious havoc on our skin. Free radicals are everywhere and can cause cell damage. What are they exactly and h<meta charset="utf-8">ow do they affect our skin? </span></em><em><span class="notion-enable-hover" data--index="0">Learn more in this educational article including <meta charset="utf-8">a 1-minute-video, where we dive into the chemistry to understand the topic better. We also explore how antioxidants can protect your skin and maintain its health.</span></em><br><meta charset="utf-8"></p>
-    Updated: 2026-02-12T13:05:01Z
+  - [Free radicals' impact on skin: translating the chemistry](https://bioliskincare.com/blogs/bionotes/free-radicals-impact-on-skin-translating-the-chemistry): <p><meta charset="utf-8"><em><span class="notion-enable-hover">Seemingly harmless daily tasks, like taking a walk or checking an email, can wreak serious havoc on our skin. Free radicals are everywhere and can cause cell damage. What are they exactly and h<meta charset="utf-8">ow do they affect our skin? </span></em><em><span class="notion-enable-hover">Learn more in this educational article, where we dive into the chemistry to understand the topic better. We also explore how antioxidants can protect your skin and maintain its health.</span></em><br><meta charset="utf-8"></p>
+    Updated: 2026-09-05T20:00:17Z
     Author: Nina Wiberg Møller
     Tags: Skincare routines
   - [The end of the Shelfie, The rise of Skinimalism](https://bioliskincare.com/blogs/bionotes/the-end-of-the-shelfie-the-rise-of-skinimalism): <p><meta charset="utf-8"><meta charset="utf-8"><em>In today's age of social media, it's hard to miss the new trend where individuals proudly showcase their extensive beauty collections arranged on bathroom shelves, a phenomenon aptly coined the ‘Shelfie’. Yet, does this trend align with our growing desire for minimalistic consumption as environmentally conscious consumers? In this article, we delve into evolving trends within the skincare industry. </em><br></p>
@@ -205,8 +205,8 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-05-29T10:29:53Z
     Author: Nina Wiberg Møller
     Tags: Industry spotlight, Skincare trends, Sustainable care
-  - [Men vs. women: does skin differ—and should skincare?](https://bioliskincare.com/blogs/bionotes/men-vs-women-does-skin-differ-and-should-skincare): <p><meta charset="utf-8"><em>Men’s use of skincare is on the rise. Is there a difference between men's skin and women's skin? And if there is, does that mean they need different skincare—or is it all just marketing? In this article, we dive into the science behind skin structure and function to help you make smarter skincare choices.</em></p>
-    Updated: 2025-09-04T17:16:25Z
+  - [Men vs. women: does skin differ – and should skincare?](https://bioliskincare.com/blogs/bionotes/men-vs-women-does-skin-differ-and-should-skincare): <p><meta charset="utf-8">Men’s use of skincare is on the rise. Is there a difference between men's skin and women's skin? And if there is, does that mean they need different skincare – or is it all just marketing? In this article, we dive into the science behind skin structure and function to help you make smarter skincare choices.</p>
+    Updated: 2026-09-12T19:25:44Z
     Author: Nina Wiberg Møller
   - [Inflammation – The hidden issue behind five major skin disorders](https://bioliskincare.com/blogs/bionotes/inflammation-the-hidden-issue-behind-five-major-skin-disorders): <p><meta charset="utf-8">Did you know that many of the most common skin conditions — <meta charset="utf-8">perioral dermatitis, acne, eczema, psoriasis, and rosacea  — are all connected by one root cause: chronic inflammation? In this article, we take a closer look at their triggers, oxidative stress, and why conventional solutions often fall short. We’ll also explore a new approach: enzyme-based antioxidants like Superoxide Dismutase — a powerful yet gentle option that's better for your skin and the planet.</p>
     Updated: 2026-08-13T08:12:11Z
@@ -344,7 +344,7 @@ https://bioliskincare.com/blogs/bionotes
 - [Contact](https://bioliskincare.com/pages/contact): Get in touch.
   Updated: 2025-04-21T08:42:19Z
 - [Sustainability Policy](https://bioliskincare.com/pages/sustainability-policy): Sustainability is embedded in everything we do – from the lab to your skin, and back to the earth. As global skincare consumption continues to grow...
-  Updated: 2026-08-29T11:15:16Z
+  Updated: 2026-09-11T10:13:17Z
 - [The Bioli Guide to biotech skincare](https://bioliskincare.com/pages/biotech-skincare-guide): The next generation of skincare is biotech. Developed with scientists to be gentle yet high performing, biotech skincare uses bioactive ingredients...
   Updated: 2026-03-02T14:39:51Z
 - [The Bioli Guide to sensitive skin and skin conditions](https://bioliskincare.com/pages/sensitive-skin-and-skin-conditions-guide): Over 50% of the global population suffers from skin sensitivity. Establishing the root cause in consultation with a  professional is an impo...
@@ -360,23 +360,25 @@ https://bioliskincare.com/blogs/bionotes
 - [Bioli Guides](https://bioliskincare.com/pages/bioli-guides): Ever changing, our skin reflects multiple influences acting on us from the inside, and out. This means that effective skincare goes beyond the prod...
   Updated: 2026-04-09T06:26:06Z
 - [Fermented Niacinamide](https://bioliskincare.com/pages/ingredients-fermented-niacinamide): Fermented niacinamide helps even skin tone, reduce visible imperfections including hyperpigmentation and balance sebum production. Produced using b...
-  Updated: 2026-08-13T08:42:52Z
+  Updated: 2026-09-05T14:54:45Z
 - [Superoxide Dismutase](https://bioliskincare.com/pages/ingredients-superoxide-dismutase): Superoxide Dismutase (SOD) is an antioxidant enzyme naturally found in living organisms, including human skin. It forms part of the skin’s natural ...
-  Updated: 2026-07-27T22:14:21Z
+  Updated: 2026-09-05T16:48:35Z
 - [Bioactive Peptides](https://bioliskincare.com/pages/ingredients-bioactive-peptides): Bioactive peptides are short chains of amino acids designed to interact with biological processes in the skin. Their targeted functions allow them ...
-  Updated: 2026-07-27T22:14:21Z
+  Updated: 2026-09-05T14:29:35Z
 - [Multi-Weight, Full-Spectrum Hyaluronic Acid](https://bioliskincare.com/pages/ingredients-multi-weight-full-spectrum-hyaluronic-acid): Multi-weight hyaluronic acid helps attract and retain moisture in the skin, providing both immediate and long-lasting hydration. By combining multi...
-  Updated: 2026-07-27T22:14:21Z
+  Updated: 2026-09-06T08:03:01Z
 - [Acetylated Hyaluronic Acid](https://bioliskincare.com/pages/ingredients-acetylated-hyaluronic-acid): Acetylated hyaluronic acid is an advanced form of hyaluronic acid designed to provide long-lasting hydration while strengthening the skin barrier. ...
-  Updated: 2026-07-27T22:14:21Z
+  Updated: 2026-09-05T14:25:33Z
 - [Biotech-Derived Cellulose](https://bioliskincare.com/pages/ingredients-biotech-derived-cellulose): Biotech-derived cellulose is a helper ingredient that improves the absorption of formulas, reduces oiliness on the skin, and is also used as a sens...
-  Updated: 2026-08-13T08:50:09Z
+  Updated: 2026-09-06T08:55:15Z
 - [Bioactive Emollient](https://bioliskincare.com/pages/ingredients-bioactive-emollient): A bioactive emollient is an ingredient that helps soften and smooth the skin while improving the texture and application experience of skincare pro...
-  Updated: 2026-08-02T13:02:18Z
+  Updated: 2026-09-05T14:24:01Z
 - [Protease and Lipase](https://bioliskincare.com/pages/ingredients-protease-and-lipase): Protease and lipase are enzymes that naturally break down specific components found on the skin’s surface. Protease enzymes help break down protein...
-  Updated: 2026-08-13T08:43:31Z
-- [Hero Ingredients](https://bioliskincare.com/pages/hero-ingredients)
-  Updated: 2026-08-20T15:12:57Z
+  Updated: 2026-09-06T13:56:43Z
+- [Hero Ingredients](https://bioliskincare.com/pages/hero-ingredients): Harnessing the power of biotechnology, Bioli’s formulations include hero ingredients like bioactive enzymes and other biotech ingredients. Develope...
+  Updated: 2026-09-05T14:19:34Z
+- [Skincare for men](https://bioliskincare.com/pages/skincare-for-men): What does men’s skin need? Men’s skin can produce more sebum and is, on average, somewhat thicker than women’s skin. Shaving can also place additio...
+  Updated: 2026-09-13T09:38:37Z
 
 ## Policies
 
