@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-06-03T15:50:47Z
 - Contact Email: customerservice@titantoons.com
-- Updated At: 2026-09-08T00:00:42.727Z
+- Updated At: 2026-09-15T00:00:43.834Z
 
 ## Products
 
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/rubble_2.jpg?v=1780683821
   Price: $59.99 USD
 - [Skye Classic Everyday Edition – 7-Inch Premium Cotton Plush by Titantoons](https://titantoons.com/products/skye-classic-everyday-edition-7-inch-premium-cotton-plush-by-titantoons): "This pup's gotta fly!" Bring the high-flying magic of Adventure Bay straight into your child's arms. As the brave and fearless Cockapoo aerial rescue pilot, Skye is always ready to zoom into high-flying adventures. This classic edition plush captures her sweet smile and iconic pink styling, making her a comforting, adorable companion for quiet play, afternoon naps, and bedtime dreams.
-  Updated: 2026-08-29T00:23:49Z
+  Updated: 2026-09-13T20:16:35Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -150,8 +150,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Official_Disney_Moana_Wayfinder_Princess_14-Inch_Premium_Cotton_Plush_by_Titantoons.jpg?v=1784402821
   Price: $24.99 USD
-- [Official Disney Frozen Queen Elsa Premium Cotton Plush by Titantoons – Available in 16-Inch & 20-Inch](https://titantoons.com/products/official-disney-frozen-queen-elsa-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch): "Let it go!" Bring the breathtaking magic of Arendelle straight into your home with the iconic Snow Queen herself. Known for her incredible ice powers, grace, and fierce love for her sister, Elsa is an absolute favorite for children worldwide. This premium plush captures her stunning royal ice gown and flowing cape in an incredibly soft, entirely huggable form.
-  Updated: 2026-08-29T00:23:50Z
+- [Gift Official Disney Frozen Queen Elsa for Kids](https://titantoons.com/products/official-disney-frozen-queen-elsa-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch): Bring home an Elsa plush for magical playtime and cuddles! This soft Disney Frozen toy is perfect for kids and little Elsa fans. Shop now!
+  Updated: 2026-09-09T10:10:46Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -162,8 +162,8 @@
   - [20" (50cm)](https://titantoons.com/products/official-disney-frozen-queen-elsa-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch?variant=54247328940307)
     Availability: Available
     Price: $39.99 USD
-- [Official Disney Frozen Princess Anna Premium Cotton Plush by Titantoons – Available in 16-Inch & 20-Inch](https://titantoons.com/products/official-disney-frozen-princess-anna-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch): "Some people are worth melting for." Bring home the warmth, optimism, and fearless loyalty of Princess Anna. Ever-cheerful and fiercely determined, Anna teaches children the true power of family love and bravery. This beautifully designed plush features her classic winter adventure attire, complete with her signature magenta travel cape and perfectly stitched braided hair.
-  Updated: 2026-08-29T00:23:50Z
+- [Order Official Frozen Anna Plush for Kids](https://titantoons.com/products/official-disney-frozen-princess-anna-premium-cotton-plush-by-titantoons-available-in-16-inch-20-inch): Let your little Frozen fan enjoy magical adventures with the Official Disney Anna Plush! Soft premium cotton, kid-friendly design, and 16-inch & 20-inch sizes. Shop now!
+  Updated: 2026-09-09T09:55:08Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -1101,7 +1101,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/2GOODCO_1_12_Scale_LED_Light_Interactive_Annular_Suit_Gantry_Circular_Workshop_Diorama_Set.jpg?v=1784385813
   Price: $149.95 USD
 - [Attack on Titan: Reiner Braun - The Armored Titan Amazing Yamaguchi No.042 Revoltech High Quality Replica Action Figure by Kaiyodo](https://titantoons.com/products/attack-on-titan-reiner-braun-the-armored-titan-amazing-yamaguchi-no-042-revoltech-action-figure-by-kaiyodo): Breach the walls and crush humanity beneath an unstoppable wall of hardened muscle and bone. From the master engineering teams at Kaiyodo comes a towering, highly anticipated addition to the legendary Amazing Yamaguchi line: the devastating Armored Titan from Attack on Titan. Designed by master sculptor Katsuhisa Yamaguchi, this premium figure perfectly merges the terrifying, raw physical power of Reiner Braun's Titan form with an unprecedented, boundary-pushing articulation matrix. Crafted specifically for high-end toy photographers,  collectors, and anime purists, this release delivers the definitive, heavy-artillery centerpiece for your collection.
-  Updated: 2026-08-30T12:09:45Z
+  Updated: 2026-09-14T07:35:26Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1143,7 +1143,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Annie_Leonhart_Scout_Regiment_Veteran_Edition_28cm_Premium_Anime_Scale_Figure_Statue.jpg?v=1784381252
   Price: $89.95 USD
 - [Attack on Titan: Captain Levi Ackerman (ArtFX J Renewal Package Ver.) 1/8 Scale Premium Statue by Kotobukiya](https://titantoons.com/products/attack-on-titan-captain-levi-ackerman-artfx-j-renewal-package-ver-1-8-scale-premium-statue-by-kotobukiya): Freeze humanity's most lethal soldier mid-strike as he dances through the air with absolute mechanical precision. From the master artisans at Kotobukiya comes the definitive, highly anticipated Renewal Package Version of the legendary ArtFX J Captain Levi statue from Attack on Titan. Moving far beyond static poses, this premium 1/8 scale masterpiece captures humanity's strongest soldier in a gravity-defying, high-velocity slice. Engineered specifically for  collectors, high-end display galleries, and manga purists, this release stands as an absolute crown jewel of dynamic anime figure design.
-  Updated: 2026-08-29T00:24:23Z
+  Updated: 2026-09-09T20:19:55Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1481,13 +1481,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Marshall_D._Teach_Blackbeard_Four_Emperors_Ver._Authentic_S.H._Figuarts_Colossal_Fully_Articulated_Action_Figure_by_Bandai_Spirits.jpg?v=1784366927
   Price: $400.00 USD
-- [One Piece: Jewelry Bonney (Future Island Egghead Ver.) Authentic S.H. Figuarts Fully Articulated Action Figure by Bandai Spirits](https://titantoons.com/products/one-piece-jewelry-bonney-future-island-egghead-ver-authentic-s-h-figuarts-fully-articulated-action-figure-by-bandai-spirits): Bring the fierce, food-loving captain of the Bonney Pirates and pivotal player of the scientific frontier straight to your display shelf. From the master artisans at Bandai Spirits comes the highly anticipated S.H. Figuarts entry featuring Jewelry Bonney in her official "Future Island Egghead" tactical laboratory attire. Celebrated in the high-end  collecting community for its sleek design and advanced joint integration, this premium figure beautifully captures Bonney’s dynamic, athletic build and modern arc aesthetic. It balances striking futuristic style with incredible positional versatility, making it a mandatory cornerstone piece for One Piece purists, toy photographers, and collectors looking to recreate the high-stakes battles of Egghead Island.
-  Updated: 2026-08-29T00:24:37Z
-  Vendor: Titan Toons
-  Product Type: Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Jewelry_Bonney_Future_Island_Egghead_Ver._Authentic_S.H._Figuarts_Fully_Articulated_Action_Figure_by_Bandai_Spirits.jpg?v=1784366770
-  Price: $160.00 USD
 - [One Piece: Tony Tony Chopper (Drum Island Ver.) Authentic S.H. Figuarts Fully Articulated Action Figure by Bandai Spirits](https://titantoons.com/products/one-piece-tony-tony-chopper-drum-island-ver-authentic-s-h-figuarts-fully-articulated-action-figure-by-bandai-spirits): Bring the emotional heart, winter origins, and foundational debut of the Straw Hat Crew’s legendary doctor straight to your shelf. From the master artisans at Bandai Spirits comes the highly anticipated S.H. Figuarts entry featuring Tony Tony Chopper in his original "Drum Island" winter attire. Celebrated in the high-end  collecting community for its incredible ability to translate compact, non-human character proportions into highly poseable masterpieces, this premium figure captures Chopper’s adorable Brain Point form with absolute precision. It balances nostalgic, tear-jerking charm with exceptional storytelling versatility, making it a mandatory cornerstone piece for One Piece purists, toy photographers, and collectors looking to build the definitive classic crew lineup.
   Updated: 2026-08-29T00:24:37Z
   Vendor: Titan Toons
@@ -1495,27 +1488,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Tony_Tony_Chopper_Drum_Island_Ver._Authentic_S.H._Figuarts_Fully_Articulated_Action_Figure_by_Bandai_Spirits_2.jpg?v=1784366546
   Price: $109.95 USD
-- [One Piece: Nico Robin (The Shukko Ver.) Authentic 16cm PVC Exhibition Scale Statue by Banpresto](https://titantoons.com/products/one-piece-nico-robin-the-shukko-ver-authentic-16cm-pvc-exhibition-scale-statue-by-banpresto): Capture the quiet elegance, sharp intellect, and poised resolve of the Straw Hat Crew's legendary archaeologist. From the master prize figure designers at Banpresto comes a striking entry into the celebrated "The Shukko" (The Departure) collection series, featuring Nico Robin. Designed explicitly for  collectors looking for premium presence without the high-maintenance space requirements of resin pieces, this static exhibition statue captures Robin in a highly sophisticated, museum-quality stance. It trades complex joint lines for flawless, uninterrupted structural contouring, making it an unmissable aesthetic anchor for One Piece purists, workspace desks, and media display cabinets.
-  Updated: 2026-08-29T00:24:37Z
-  Vendor: Titan Toons
-  Product Type: Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nico_Robin_The_Shukko_Ver._Authentic_16cm_PVC_Exhibition_Scale_Statue_by_Banpresto.jpg?v=1784366077
-  Price: $64.95 USD
-- [One Piece: Nami (Future Island Egghead Ver.) The Shukko Authentic 16cm PVC Exhibition Scale Statue by Banpresto](https://titantoons.com/products/one-piece-nami-future-island-egghead-ver-the-shukko-authentic-16cm-pvc-exhibition-scale-statue-by-banpresto): Capture the bright energy, sharp style, and futuristic flair of the Straw Hat Crew's legendary navigator. From the master prize figure designers at Banpresto comes a highly anticipated entry into the celebrated "The Shukko" (The Departure) collection series, featuring Nami in her official Egghead Island attire. Designed explicitly for  collectors looking for premium shelf presence with a seamless silhouette, this static exhibition statue captures Nami ready to embark onto the scientific frontier. By  joint lines for uninterrupted structural contouring, it delivers a clean, high-fidelity museum-quality finish perfect for your workspace layout, PC case setup, or media display cabinets.
-  Updated: 2026-08-29T00:24:38Z
-  Vendor: Titan Toons
-  Product Type: Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nami_Future_Island_Egghead_Ver._The_Shukko_Authentic_16cm_PVC_Exhibition_Scale_Statue_by_Banpresto.jpg?v=1784365863
-  Price: $69.95 USD
-- [One Piece: Nico Robin (Future Island Egghead Ver.) Glitter & Glamours Authentic 22cm PVC Showcase Scale Statue by Banpresto](https://titantoons.com/products/one-piece-nico-robin-future-island-egghead-ver-glitter-glamours-authentic-22cm-pvc-showcase-scale-statue-by-banpresto): Command the ultimate, high-presence showcase of the Straw Hat Crew's brilliant archaeologist. From the master figure artisans at Banpresto comes a breathtaking entry into the elite, high-scale "Glitter & Glamours" collection series, featuring Nico Robin in her official Egghead Island tactical laboratory attire. Celebrated in the  collecting community for its commanding scale, flawless facial sculpts, and striking statuesque posture, this premium static figure captures Robin's mature, elegant presence with absolute cinematic fidelity. It completely eliminates distracting joint cuts to deliver an uninterrupted, museum-quality silhouette that serves as the ultimate anchor piece for your media display cabinet, workspace desk, or high-end anime collection setup.
-  Updated: 2026-08-29T00:24:38Z
-  Vendor: Titan Toons
-  Product Type: Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nico_Robin_Future_Island_Egghead_Ver._Glitter_Glamours_Authentic_22cm_PVC_Showcase_Scale_Statue_by_Banpresto.jpg?v=1784365516
-  Price: $69.95 USD
 - [One Piece: Nico Robin Authentic 1/6 Scale Complete Painted Garage Kit Statue (D.S Studio Limited  Standard Version)](https://titantoons.com/products/one-piece-nico-robin-authentic-1-6-scale-complete-painted-garage-kit-statue-d-s-studio-limited--standard-version): Elevate your collection to the absolute pinnacle of high-end, museum-tier luxury with an exquisite masterwork of the Straw Hat Crew's legendary archaeologist. Crafted by the master artisans at D.S Studio for an exclusive, highly limited production run, this breathtaking 1/6 scale complete painted statue represents the absolute gold standard in high-end  collecting. Capturing Nico Robin in a poised, statuesque layout, this resin-quality garage kit completely moves past mass-market prize toys to deliver an elite, high-presence centerpiece. It features flawless, uninterrupted physical contours and breathtaking anatomical fidelity designed explicitly for the most discerning collectors, premium media display vaults, and dedicated workspace curation.
   Updated: 2026-08-29T00:24:38Z
   Vendor: Titan Toons
@@ -1523,13 +1495,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nico_Robin_Authentic_1_6_Scale_Complete_Painted_Garage_Kit_Statue_D.S_Studio_Limited_Sale_Standard_Version.jpg?v=1784365270
   Price: $64.95 USD
-- [One Piece: Nico Robin (The Movie "Stampede" Ver.) Authentic Ichiban Kuji All Star G Award PVC Exhibition Scale Statue by Bandai Spirits](https://titantoons.com/products/one-piece-nico-robin-the-movie-stampede-ver-authentic-ichiban-kuji-all-star-g-award-pvc-exhibition-scale-statue-by-bandai-spirits): Capture the cinematic allure, tactical brilliance, and high-octane energy of the Straw Hat Crew's archaeologist straight from the big screen. From the master prize artisans at Bandai Spirits comes a highly prized Masterlise-tier milestone entry from the legendary Ichiban Kuji One Piece All Star  line: the exclusive G Award Nico Robin statue, styled precisely after her official appearance in the blockbuster film One Piece: Stampede. Designed for  collectors who value exclusive -tier pieces with a seamless, high-presence silhouette, this premium static figure trades articulation joints for flawless structural contouring, making it a standout aesthetic anchor for your media display cabinet, office desk, or high-end anime collection shelf.
-  Updated: 2026-08-29T00:24:38Z
-  Vendor: Titan Toons
-  Product Type: Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nico_Robin_The_Movie_Stampede_Ver._Authentic_Ichiban_Kuji_All_Star_G_Award_PVC_Exhibition_Scale_Statue_by_Bandai_Spirits.jpg?v=1784364948
-  Price: $79.95 USD
 - [One Piece: Unsinkable Ship Liquid Drift Bottle – Thousand Sunny & Going Merry Premium Acrylic Desktop Motion Decor with USB LED Illuminating Base](https://titantoons.com/products/one-piece-unsinkable-ship-liquid-drift-bottle-thousand-sunny-going-merry-premium-acrylic-desktop-motion-decor-with-separate-usb-led-illuminating-base): Bring the untamed adventure of the Grand Line and the indomitable spirit of the Straw Hat Crew directly to your workspace. This mesmerizing liquid drift bottle series is the ultimate dynamic collectible for One Piece enthusiasts and discerning collectors. Inside a crystal-clear, permanently sealed acrylic vault, the legendary vessels of the Straw Hats navigate a perfectly balanced, two-tone fluid matrix. Engineered using clever buoyancy physics, these miniature ships are completely unsinkable, gracefully riding the crest of the waves no matter how the tides turn. Tailor your desk layout perfectly by choosing the exact crew setup you want: select the classic nostalgia of the Going Merry, the grand design of the Thousand Sunny, or bring home the ultimate fleet bundle featuring both ships sailing together in a single fluid display. To elevate this cinematic desktop centerpiece, every option includes a separate USB-powered LED light base that beams a brilliant glow through the ocean-blue waves, transforming it into a stunning night light or premium display grail.
   Updated: 2026-08-29T00:24:39Z
   Vendor: Titan Toons
@@ -1548,7 +1513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Unsinkable_Ship_Liquid_Drift_Bottle_Thousand_Sunny_Going_Merry_Premium_Acrylic_Desktop_Motion_Decor_with_Separate_USB_LED_Illuminating_Base_1.jpg?v=1784364826
     Price: $39.95 USD
 - [One Piece: "Soul King" Brook Deluxe 12.99-Inch Premium PVC Exhibition Scale Statue (Soul Solid Ice Blade Edition)](https://titantoons.com/products/one-piece-soul-king-brook-deluxe-12-99-inch-premium-pvc-exhibition-scale-statue-soul-solid-ice-blade-edition): Unleash the rock-and-roll majesty, chilling underworld energy, and vibrant battle flair of the Straw Hat Crew’s legendary musician. Standing at a towering, impressive 12.99 inches in height, this premium static showcase statue captures "Soul King" Brook in his definitive, post-timeskip concert attire, unleashing a devastating slash of his frozen underworld blade. Designed specifically for  collectors looking for a high-impact, resin-quality presence without the heavy price tag, this massive piece trades distracting articulation joints for a flawless, uninterrupted cinematic sculpt. It serves as an unmissable, high-presence anchor for your media display vault, specialized gaming layout, or dedicated workspace curation.
-  Updated: 2026-09-01T19:11:55Z
+  Updated: 2026-09-14T20:01:30Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1593,7 +1558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nami_Wano_Country_Kunoichi_Ver._Authentic_LX_Studio_30cm_11.81-Inch_Premium_PVC_Exhibition_Scale_Statue.jpg?v=1784364003
   Price: $89.95 USD
 - [One Piece: Roronoa Zoro 41-Inch Authentic Replica Bamboo Katana](https://titantoons.com/products/one-piece-roronoa-zoro-41-inch-authentic-replica-bamboo-katana): Unleash the legendary spirit of the Straw Hat Crew’s master swordsman and anchor your collection with the ultimate blades of absolute justice. This premium 41-inch replica katana series brings Roronoa Zoro's iconic arsenal straight from the screen to your hands. Engineered with safe, lightweight, and incredibly durable high-grade bamboo cores, these swords are crafted specifically for convention-safe cosplay, dedicated martial arts training, and striking workspace display setups. Instead of heavy, restricted steel blades, these replicas utilize flawless, dense bamboo elements that retain perfect physical flexibility, paired with high-impact ABS fittings to mirror the canonical aesthetics of Zoro’s legendary swords. Choose your favorite individual blade to anchor your desktop, or embrace the path of the pirate hunter by customizing your own Ultimate 3-Blade Style (Santoryu) Bundle to claim the title of the world's greatest swordsman!
-  Updated: 2026-08-29T19:35:05Z
+  Updated: 2026-09-08T20:59:26Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1791,7 +1756,56 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Four_Emperors_Big_Mom_Charlotte_Linlin_26cm_Premium_Statue_Soul_King_Climax_Combat_Edition_for_Collectors_Media_Rooms.jpg?v=1784361069
   Price: $99.95 USD
-[List Continued](https://titantoons.com/a/llms-agent/llms.txt?shop=vuzswr-rg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQzMjQ1MDcyNDExNSwibGFzdF92YWx1ZSI6IjEwNDMyNDUwNzI0MTE1In0%3D)
+- [One Piece: Four Emperors Whitebeard Edward Newgate 13cm Premium Figure – Marineford Climax Battle Edition](https://titantoons.com/products/one-piece-four-emperors-whitebeard-edward-newgate-13cm-premium-figure-marineford-climax-battle-edition): Unleash the world-shaking power of the legendary strongest man in the world upon your collection showcase. This premium 13cm scale figure perfectly captures Edward "Whitebeard" Newgate mid-combat, unleashing his devastating Tremor-Tremor Fruit abilities during the historic Marineford Arc. Masterfully sculpted to capture his immense, muscular physical build and unyielding presence, this high-fidelity statue balance intricate combat details with durable engineering. It serves as a striking, dynamic centerpiece for  anime collections, gaming setups, or desk layouts where fans can honor a true legend of the Grand Line.
+  Updated: 2026-08-29T00:24:47Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Four_Emperors_Whitebeard_Edward_Newgate_13cm_Premium_Figure_Marineford_Climax_Battle_Edition.jpg?v=1784360868
+  Price: $29.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Z: Final Form Frieza Authentic 14cm Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-z-final-form-frieza-authentic-14cm-premium-action-figure): Bring home the absolute pinnacle of galactic tyranny, iconic anime history, and legendary martial arts clashes. This authentic S.H.Figuarts action figure by Bandai captures Frieza in his terrifyingly sleek and powerful Final Form from the historic Planet Namek Saga. Masterfully engineered to strike the perfect balance between high-end collector articulation and durable, kid-friendly design, this official release is a must-have for  hobbyists curating a definitive Dragon Ball display and parents looking for a premium, highly interactive toy for their older kids to recreate epic battles.
+  Updated: 2026-08-29T00:24:47Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Z_Final_Form_Frieza_Authentic_14cm_Premium_Action_Figure.jpg?v=1784336607
+  Price: $69.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Z/Super: Super Saiyan Gotenks Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-z-super-super-saiyan-gotenks-authentic-premium-action-figure): Bring home the unmatched attitude, explosive power, and hilarious antics of the ultimate fused Saiyan warrior. This authentic S.H.Figuarts action figure by Bandai captures Gotenks in his brilliant Super Saiyan form, ready to unleash his unpredictable special moves. Masterfully engineered to strike the perfect balance between high-end collector articulation and durable, kid-friendly design, this official release is a must-have for  hobbyists curating a definitive Dragon Ball display and parents looking for a premium, highly interactive toy for their kids to recreate epic, high-energy battles.
+  Updated: 2026-08-29T00:24:48Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Z_Super_Super_Saiyan_Gotenks_Authentic_Premium_Action_Figure.jpg?v=1784336127
+  Price: $69.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Super: God of Destruction Beerus Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-super-god-of-destruction-beerus-authentic-premium-action-figure): Bring home the cosmic authority, unpredictable temper, and elegant power of Universe 7's supreme deity. This authentic S.H.Figuarts action figure by Bandai captures Beerus, the God of Destruction, in his signature sleek and intimidating form. Masterfully engineered to balance high-end collector articulation with a durable, kid-friendly build, this official release is a must-have for  hobbyists curating a definitive Dragon Ball Super display and parents looking for a premium, highly interactive toy for older kids to stage universe-altering clashes.
+  Updated: 2026-09-11T02:06:23Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Super_God_of_Destruction_Beerus_Authentic_Premium_Action_Figure.jpg?v=1784335986
+  Price: $69.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Z: Super Saiyan Gohan Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-z-super-saiyan-gohan-authentic-premium-action-figure): Relive the explosive awakening, emotional stakes, and legendary power of the universe's ultimate hidden prodigy. This authentic S.H.Figuarts action figure by Bandai captures Gohan during the absolute climax of the Cell Games Saga, ready to push past his limits into Super Saiyan excellence. Masterfully engineered to strike the perfect balance between high-end collector articulation and a durable, kid-friendly build, this official release is an absolute essential for  hobbyists curating a definitive Dragon Ball Z layout and parents looking for a premium, highly interactive toy for their children to recreate iconic martial arts history.
+  Updated: 2026-08-29T00:24:49Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Z_Super_Saiyan_Gohan_Authentic_Premium_Action_Figure.jpg?v=1784334751
+  Price: $69.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Super: Super Saiyan God Son Goku Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-super-super-saiyan-god-son-goku-authentic-premium-action-figure): Bring home the divine aura, cosmic power, and fiery spirit of the Saiyan race's legendary transformation. This authentic S.H.Figuarts action figure by Bandai captures Son Goku in his radiant Super Saiyan God form—the historic, red-haired state achieved through the power of righteous Saiyan hearts. Masterfully engineered to strike the perfect balance between high-end collector articulation and durable, kid-friendly design, this official release is an absolute essential for  hobbyists curating a modern Dragon Ball Super layout and parents looking for a premium, highly interactive toy for their children to recreate universe-shattering battles.
+  Updated: 2026-08-29T00:24:49Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Super_Super_Saiyan_God_Son_Goku_Authentic_Premium_Action_Figure.jpg?v=1784334634
+  Price: $69.95 USD
+- [Bandai S.H.Figuarts Dragon Ball Z: Vegeta Awakened Super Saiyan Blood Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-z-super-saiyan-vegeta-authentic-premium-action-figure): Bring home the absolute pride, fierce rivalry, and legendary golden aura of Earth’s most stubborn protector. This authentic S.H.Figuarts action figure by Bandai captures the Prince of Saiyans, Vegeta, in his iconic Super Saiyan form. Masterfully engineered to balance crisp, high-fidelity character accuracy with durable, flexible joint design, this official release is a standout choice for both  collectors building a definitive Z-Warriors lineup and parents looking to give their older kids a premium, highly interactive toy to recreate epic martial arts clashes.
+  Updated: 2026-08-29T00:24:49Z
+  Vendor: Titan Toons
+  Product Type: Figures
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/BandaiS.H.FiguartsDragonBallZVegetaAwakenedSuperSaiyanBloodAuthenticPremiumActionFigure_2.jpg?v=1785944791
+  Price: $89.95 USD
+[List Continued](https://titantoons.com/a/llms-agent/llms.txt?shop=vuzswr-rg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQzMjU2NjE2NTc3OSwibGFzdF92YWx1ZSI6IjEwNDMyNTY2MTY1Nzc5In0%3D)
 
 ## Collections
 
@@ -1799,58 +1813,58 @@
   Updated: 2026-07-10T11:40:50Z
   Total Products: 0
 - [Playground](https://titantoons.com/collections/playground): Shop official plush toys from Disney, Pixar, Toy Story, and Bluey. Discover soft, huggable collectibles for the whole family. Shop your favourites today!
-  Updated: 2026-09-07T11:41:53Z
+  Updated: 2026-09-14T11:18:49Z
   Total Products: 106
 - [Superhero](https://titantoons.com/collections/superhero): Buy superhero action figures of Marvel and DC at Titan Toons. Discover Batman, Spider-Man, Superman, Iron Man, and more collectible figures for collectors.
-  Updated: 2026-08-31T11:19:43Z
+  Updated: 2026-09-12T11:21:28Z
   Total Products: 64
 - [Invincible](https://titantoons.com/collections/invincible)
   Updated: 2026-07-10T11:40:50Z
   Total Products: 0
 - [Limited drops](https://titantoons.com/collections/limited-drops): Shop exclusive superhero limited drops! Secure rare Marvel, DC, and comic action figures before they  out. Premium grails with limited quantities.
-  Updated: 2026-08-18T11:19:35Z
+  Updated: 2026-09-12T11:21:28Z
   Total Products: 5
 - [Anime](https://titantoons.com/collections/anime): Shop premium anime figures and collectibles from One Piece, Jujutsu Kaisen, Dragon Ball, and Attack on Titan — authentic pieces from Bandai and Good Smile.
-  Updated: 2026-09-06T11:38:21Z
+  Updated: 2026-09-14T11:18:49Z
   Total Products: 211
 - [Marvel](https://titantoons.com/collections/marvel): Unlock premium Marvel Legends action figures featuring iconic heroes and villains. Find must-have collectibles to elevate your Marvel collection. Shop today!
-  Updated: 2026-08-31T11:19:43Z
+  Updated: 2026-09-12T11:21:28Z
   Total Products: 30
 - [DC](https://titantoons.com/collections/dc): Shop DC Multiverse figures and collectibles at Titan Toons. Discover Batman, Joker, Catwoman, Green Arrow, and more premium DC action figures.
   Updated: 2026-08-18T11:19:35Z
   Total Products: 39
 - [One piece](https://titantoons.com/collections/one-piece): Get premium One Piece action figures, plush, and model kits featuring Luffy, Kaido, Chopper, and more. Discover authentic Bandai Spirits collectibles.
-  Updated: 2026-09-02T11:23:22Z
+  Updated: 2026-09-11T02:11:35Z
   Total Products: 62
 - [Solo Leveling](https://titantoons.com/collections/solo-leveling): Unleash your collection with premium Solo Leveling figures featuring Sung Jinwoo, Igris, Beru, and iconic Shadow Monarch collectibles. Shop now!
   Updated: 2026-08-23T11:18:57Z
   Total Products: 8
 - [Attack on titan](https://titantoons.com/collections/attack-on-titan): Buy Attack on Titan action figures featuring Eren, Levi, Mikasa, and more. Explore authentic Nendoroids and premium Good Smile Company collectibles.
-  Updated: 2026-09-06T11:38:21Z
+  Updated: 2026-09-14T11:18:49Z
   Total Products: 28
 - [Chainsaw Man](https://titantoons.com/collections/chainsaw-man): Elevate your collection with premium Chainsaw Man figures featuring Denji, Power, Makima, and more. Discover iconic anime collectibles. Shop now!
   Updated: 2026-08-14T11:05:26Z
   Total Products: 27
 - [Demon Slayer](https://titantoons.com/collections/demon-slayer): Level up your anime collection with premium Demon Slayer figures, plush, and props. Collect Tanjiro, Shinobu, Kokushibo, and more. Explore the collection!
-  Updated: 2026-09-05T11:22:50Z
+  Updated: 2026-09-09T11:32:58Z
   Total Products: 23
 - [Dragon Ball](https://titantoons.com/collections/dragon-ball): Unleash your collection with premium Dragon Ball figures and statues featuring Goku, Vegeta, Gohan, and more. Discover iconic collectibles today!
-  Updated: 2026-09-05T11:22:50Z
+  Updated: 2026-09-11T11:21:04Z
   Total Products: 26
 - [Jujutsu kaisen](https://titantoons.com/collections/jujutsu-kaisen): Explore Jujutsu Kaisen figures and statues featuring Gojo, Sukuna, Itadori, and more. Shop authentic Bandai S.H.Figuarts and SEGA collectibles today!
-  Updated: 2026-09-04T11:20:41Z
+  Updated: 2026-09-09T11:32:58Z
   Total Products: 37
 - [Bluey](https://titantoons.com/collections/bluey): Discover official Bluey plush toys featuring beloved characters like Bluey, Bingo, and Chattermax. Find irresistible, soft, huggable favorites. Shop today!
-  Updated: 2026-08-25T11:19:06Z
+  Updated: 2026-09-09T11:32:58Z
   Total Products: 6
 - [Pokemon](https://titantoons.com/collections/pokemon): Purchase Pokémon plush toys featuring Pikachu, Gengar, Eevee, and more. Discover soft, huggable Pokémon collectibles for fans of all ages. Shop now!
   Updated: 2026-09-06T11:38:21Z
   Total Products: 32
 - [Disney](https://titantoons.com/collections/disney): Find your next favorite Disney plush toys featuring iconic characters. Shop authentic, adorable, high-quality collectibles for fans of all ages!
-  Updated: 2026-09-07T11:41:53Z
+  Updated: 2026-09-14T11:18:49Z
   Total Products: 19
 - [PAW Patrol](https://titantoons.com/collections/paw-patrol): Shop official PAW Patrol plush toys featuring lovable rescue pups. Bring home cuddly, adorable, must-have collectibles for your little hero. Get it today!
-  Updated: 2026-08-14T11:17:06Z
+  Updated: 2026-09-14T11:18:49Z
   Total Products: 14
 - [My Little Pony](https://titantoons.com/collections/my-little-pony): Discover adorable My Little Pony plush toys and huggable collectibles. Shop beloved characters and bring magical, colorful fun to your collection today!
   Updated: 2026-08-28T11:44:56Z
@@ -1875,7 +1889,7 @@
     Updated: 2026-08-05T06:55:49Z
     Author: My Store Admin
   - [What Is a Plushie? A Complete Guide](https://titantoons.com/blogs/news/what-is-a-plushie): What Is a Plushie? A Complete Guide
-    Updated: 2026-09-04T09:14:46Z
+    Updated: 2026-09-09T10:18:58Z
     Author: Abdalla Rabie
     Tags: Plushies
   - [How to Clean Plushies: Easy Washing And Care Guide](https://titantoons.com/blogs/news/how-to-clean-plushies): How to Clean Plushies: Easy Washing And Care Guide
