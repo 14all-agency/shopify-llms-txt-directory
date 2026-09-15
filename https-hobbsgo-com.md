@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-24T12:23:35Z
 - Contact Email: hobbsgoofficial@gmail.com
-- Updated At: 2026-09-06T07:06:13.644Z
+- Updated At: 2026-09-15T00:00:28.614Z
 
 ## Products
 
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/purepet-chicken-and-veg-puppy-9kg_907913c2-a287-4885-8ae0-7ecd56b8492d.jpg?v=1763958785
     Price: ₹1,169.00 INR
 - [Royal Canin Maxi Starter Dog Dry Food | HobbsGo](https://hobbsgo.com/products/maxi-starter): Order Royal Canin Maxi Starter Dog Dry Food at HobbsGo. High-energy weaning food for pups and nursing mums. Fast delivery across Lucknow & India.
-  Updated: 2026-08-22T12:34:09Z
+  Updated: 2026-09-13T13:24:06Z
   Vendor: Royal Canin
   Product Type: Dog Food
   Availability: Available
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Maxi_Starter_15kg.jpg?v=1764061448
     Price: ₹11,660.00 INR
 - [Royal Canin Mini Starter Dog Dry Food | HobbsGo](https://hobbsgo.com/products/mini-starter): Order Royal Canin Mini Starter Dog Dry Food at HobbsGo. High-energy weaning food for pups and nursing mums. Best price, delivery across India.
-  Updated: 2026-08-22T12:34:17Z
+  Updated: 2026-09-10T07:14:33Z
   Vendor: Royal Canin
   Product Type: Dog Food
   Availability: Available
@@ -335,13 +335,13 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Mini_Starter_8kg.jpg?v=1764062112
     Price: ₹6,600.00 INR
 - [Royal Canin Maxi Puppy Dry Food | HobbsGo](https://hobbsgo.com/products/maxi-puppy): Buy Royal Canin Maxi Puppy Dry Food at HobbsGo. Balanced growth nutrition with DHA and calcium. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-09-04T14:44:07Z
+  Updated: 2026-09-07T08:01:16Z
   Vendor: Royal Canin
   Product Type: Dog Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Maxi_Puppy_1kg.jpg?v=1764062446
   - [1kg](https://hobbsgo.com/products/maxi-puppy?variant=50624944701730)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Maxi_Puppy_1kg.jpg?v=1764062446
     Price: ₹906.00 INR
   - [2.5kg](https://hobbsgo.com/products/maxi-puppy?variant=50624951877922)
@@ -677,14 +677,14 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Kitty_Yums_kitten_7KG_Promo.jpg?v=1764158476
     Price: ₹1,980.00 INR
 - [PurePet Creamy Real Chicken 5 Sticks Cat Treats | HobbsGo](https://hobbsgo.com/products/purepet-real-chicken-sticks-cat-treats): Buy PurePet Creamy Real Chicken 5 Sticks Cat Treats at HobbsGo. Lickable real chicken snack cats love. Fast delivery across Lucknow & India.
-  Updated: 2026-08-22T12:36:47Z
+  Updated: 2026-09-12T13:48:25Z
   Vendor: Purepet
   Product Type: Cat Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Purepet_chicken2.png?v=1772445785
   Price: ₹72.00 INR
 - [PurePet Creamy Crab & Chicken 5 Sticks Cat Treats | HobbsGo](https://hobbsgo.com/products/purepet-crab-chicken-sticks-cat-treats): Shop PurePet Creamy Crab & Chicken 5 Sticks Cat Treats at HobbsGo. Lickable chicken snack cats love. Fast delivery across Lucknow & India.
-  Updated: 2026-09-01T13:41:36Z
+  Updated: 2026-09-13T12:54:41Z
   Vendor: Purepet
   Product Type: Cat Food
   Availability: Available
@@ -698,7 +698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Tuna_bonito1.png?v=1772444022
   Price: ₹77.00 INR
 - [Drools Creamy Salmon & Skipjack 5 Sticks Treats | HobbsGo](https://hobbsgo.com/products/drools-salmon-skipjack-sticks-cat-treats): Buy Drools Creamy Salmon & Skipjack 5 Sticks Cat Treats at HobbsGo. Lickable salmon snack cats love. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-08-22T12:36:47Z
+  Updated: 2026-09-12T13:48:26Z
   Vendor: Drools
   Product Type: Cat Food
   Availability: Available
@@ -719,7 +719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Chicken1.png?v=1772442641
   Price: ₹77.00 INR
 - [Drools Creamy Seafood Medley 5 Sticks Cat Treat | HobbsGo](https://hobbsgo.com/products/drools-seafood-medley-sticks-cat-treats): Buy Drools Creamy Seafood Medley 5 Sticks Cat Treat at HobbsGo. Lickable chicken snack cats love. Fast delivery across Lucknow & India.
-  Updated: 2026-08-25T08:48:51Z
+  Updated: 2026-09-12T12:00:15Z
   Vendor: Drools
   Product Type: Cat Food
   Availability: Available
@@ -797,7 +797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Drools_Salmon_Oil_-_Cat_Supplements.webp?v=1764565441
   Price: ₹254.00 INR
 - [Drools Puppy Real Chicken & Chicken Liver Food | HobbsGo](https://hobbsgo.com/products/drools-puppy-wet-dog-food-real-chicken-and-chicken-liver-chunks-in-gravy): Buy Drools Puppy Real Chicken & Chicken Liver Chunks Wet Dog Food at HobbsGo. Tender chunks in gravy with balanced daily nutrition.
-  Updated: 2026-08-24T14:15:38Z
+  Updated: 2026-09-06T11:56:56Z
   Vendor: Drools
   Product Type: Dog Food
   Availability: Available
@@ -874,7 +874,7 @@
     Availability: Available
     Price: ₹77.00 INR
 - [Drools Dog Treats Creamy Chicken & Spinach | HobbsGo](https://hobbsgo.com/products/drools-dog-treats-creamy-chicken-spinach): Order Drools Dog Treats Creamy Chicken & Spinach at HobbsGo. Real chicken bite-sized treats for training and reward. Fast delivery across Lucknow & India.
-  Updated: 2026-08-24T14:15:52Z
+  Updated: 2026-09-12T13:48:26Z
   Vendor: Drools
   Product Type: Dog Food
   Availability: Available
@@ -1029,7 +1029,7 @@
     Availability: Available
     Price: ₹163.00 INR
 - [Durable Braided Nylon Rope Dog Leash | HobbsGo](https://hobbsgo.com/products/durable-braided-nylon-rope-dog-leash): Order Durable Braided Nylon Rope Dog Leash at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-09-04T12:18:51Z
+  Updated: 2026-09-13T10:26:26Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1053,7 +1053,7 @@
     Availability: Available
     Price: ₹340.00 INR
 - [Reflective Pet Collars | HobbsGo](https://hobbsgo.com/products/reflective-pet-collar): Buy Reflective Pet Collars at HobbsGo. Durable, comfortable design for everyday pet use. Fast delivery across Lucknow & India.
-  Updated: 2026-08-22T12:36:46Z
+  Updated: 2026-09-10T07:14:35Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1223,7 +1223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Pet_hair_brush.png?v=1771565802
   Price: ₹238.00 INR
 - [Nunbell Professional Pet Harness | HobbsGo](https://hobbsgo.com/products/nunbell-professional-pet-harness): Order Nunbell Professional Pet Harness at HobbsGo. Durable, comfortable design for everyday pet use. Best price, delivery across India.
-  Updated: 2026-08-26T12:52:47Z
+  Updated: 2026-09-08T14:02:22Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1254,7 +1254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/Nylon_belt2.png?v=1771564971
   Price: ₹340.00 INR
 - [Adjustable Protective Pet Body Belt | HobbsGo](https://hobbsgo.com/products/adjustable-protective-pet-body-belt): Shop Adjustable Protective Pet Body Belt at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-09-04T12:27:36Z
+  Updated: 2026-09-14T13:15:00Z
   Vendor: HobbsGo
   Product Type: Leash & Collar
   Availability: Available
@@ -1909,13 +1909,13 @@
     Availability: Available
     Price: ₹595.00 INR
 - [Printed K9 Tactical Harness Vest with Hook | HobbsGo](https://hobbsgo.com/products/printed-adjustable-k9-police-dog-harness-vest-with-hook): Shop Printed K9 Tactical Harness Vest with Hook at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-08-22T12:36:46Z
+  Updated: 2026-09-13T10:30:57Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/71FNMrTuNgL.jpg?v=1778961885
   - [S](https://hobbsgo.com/products/printed-adjustable-k9-police-dog-harness-vest-with-hook?variant=51643022278946)
-    Availability: Available
+    Availability: Not Available
     Price: ₹425.00 INR
   - [M](https://hobbsgo.com/products/printed-adjustable-k9-police-dog-harness-vest-with-hook?variant=51643022311714)
     Availability: Available
@@ -1934,7 +1934,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/81363034OYL._AC_SL1500.jpg?v=1784283736
   Price: ₹808.00 INR
 - [Chicken Jerky Dog Treats - 500g Training Pack | HobbsGo](https://hobbsgo.com/products/chicken-munchy): Real chicken jerky treats, high in protein and low in fat. Ideal training rewards or daily snacks for dogs of all ages. 500g pack. Buy dog treats in India.
-  Updated: 2026-09-02T10:07:21Z
+  Updated: 2026-09-14T11:54:20Z
   Vendor: HobbsGo
   Product Type: Dog Treats
   Availability: Available
@@ -1952,7 +1952,7 @@
     Availability: Available
     Price: ₹149.00 INR
 - [Mutton Jerky Dog Treats - 500g Real Meat Pack | HobbsGo](https://hobbsgo.com/products/mutton-munchy): High-protein mutton jerky treats made with real meat - a satisfying chew and training reward for  dogs. 500g pack. Buy dog treats online in India.
-  Updated: 2026-09-03T12:29:34Z
+  Updated: 2026-09-14T11:54:15Z
   Vendor: HobbsGo
   Product Type: Dog Treats
   Availability: Available
@@ -1970,7 +1970,7 @@
     Availability: Available
     Price: ₹149.00 INR
 - [HobbsGo Chicken Spiral Munchy - Dog Chew Treats | HobbsGo](https://hobbsgo.com/products/chicken-spiral-munchy): Buy HobbsGo Chicken Spiral Munchy - Dog Chew Treats at HobbsGo. Real chicken bite-sized treats for training and reward.
-  Updated: 2026-08-24T14:16:08Z
+  Updated: 2026-09-14T11:54:15Z
   Vendor: HobbsGo
   Product Type: Dog Treats
   Availability: Available
@@ -1988,7 +1988,7 @@
     Availability: Available
     Price: ₹298.00 INR
 - [Heavy Duty Iron Basket Muzzle for Dogs | HobbsGo](https://hobbsgo.com/products/heavy-duty-iron-muzzle-for-dog): Shop Heavy Duty Iron Basket Muzzle for Dogs at HobbsGo. Durable, comfortable design for everyday pet use. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-08-16T08:06:02Z
+  Updated: 2026-09-09T06:43:08Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2000,7 +2000,7 @@
     Availability: Not Available
     Price: ₹298.00 INR
   - [M](https://hobbsgo.com/products/heavy-duty-iron-muzzle-for-dog?variant=51643022672162)
-    Availability: Not Available
+    Availability: Available
     Price: ₹340.00 INR
   - [L](https://hobbsgo.com/products/heavy-duty-iron-muzzle-for-dog?variant=51643022704930)
     Availability: Not Available
@@ -2028,19 +2028,19 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/71anqzB3A2L._AC_SL1500.jpg?v=1784283731
   Price: ₹553.00 INR
 - [Premium Plaid Frock Harness - Cat & Kitten | HobbsGo](https://hobbsgo.com/products/premium-plaid-frock-harness-for-cat-kitten): Buy Premium Plaid Frock Harness - Cat & Kitten at HobbsGo. Durable, comfortable design for everyday pet use. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-08-22T11:21:06Z
+  Updated: 2026-09-11T15:04:21Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/4104dd553a8513067d513baed6041d24_0db160c5-4085-424c-876e-0d21de7996b2.jpg?v=1778961905
   - [M](https://hobbsgo.com/products/premium-plaid-frock-harness-for-cat-kitten?variant=51643023458594)
-    Availability: Available
+    Availability: Not Available
     Price: ₹595.00 INR
   - [L](https://hobbsgo.com/products/premium-plaid-frock-harness-for-cat-kitten?variant=51643023491362)
     Availability: Available
     Price: ₹680.00 INR
 - [Frock Harness & Leash Set for Small Dogs & Cats | HobbsGo](https://hobbsgo.com/products/premium-frock-lease-harness-set): A pleated frock-style harness with matching leash for small breeds and cats. Adjustable side straps and secure buckle closure. Buy pet harnesses in India.
-  Updated: 2026-08-22T12:36:44Z
+  Updated: 2026-09-11T15:04:17Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2080,26 +2080,8 @@
   - [400gm](https://hobbsgo.com/products/petslife-rabbit-and-guinea-pig-pallettes?variant=51643023884578)
     Availability: Not Available
     Price: ₹243.00 INR
-- [Drools Tuna & Salmon  Cat Dry Food - 40 g | HobbsGo](https://hobbsgo.com/products/drools-tuna-salmon--cat-dry-food): Order Drools Tuna & Salmon  Cat Dry Food - 40 g at HobbsGo. High-protein daily meal for  cats. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-08-24T14:24:56Z
-  Vendor: Drools
-  Product Type: Cat Food
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/1013.webp?v=1780129838
-  - [15x40g](https://hobbsgo.com/products/drools-tuna-salmon--cat-dry-food?variant=52375398678818)
-    Availability: Available
-    Price: ₹230.00 INR
-  - [10x40g](https://hobbsgo.com/products/drools-tuna-salmon--cat-dry-food?variant=52332217762082)
-    Availability: Available
-    Price: ₹170.00 INR
-  - [5x40g](https://hobbsgo.com/products/drools-tuna-salmon--cat-dry-food?variant=52375398711586)
-    Availability: Available
-    Price: ₹85.00 INR
-  - [40g](https://hobbsgo.com/products/drools-tuna-salmon--cat-dry-food?variant=52254511038754)
-    Availability: Available
-    Price: ₹17.00 INR
 - [Whiskas Junior Wet Food Pouch – 80 g (2–12 Months) | HobbsGo](https://hobbsgo.com/products/whiskas-junior-wet-food-pouch-tuna-flavour-2-12-months-80g): Order Whiskas Junior Wet Food Pouch Tuna - 80 g (2–12 Months) at HobbsGo. 100% balanced 85g pouches with high moisture.
-  Updated: 2026-09-02T09:21:38Z
+  Updated: 2026-09-09T06:50:57Z
   Vendor: Whiskas
   Product Type: Cat Food
   Availability: Available
@@ -2120,7 +2102,7 @@
     Availability: Available
     Price: ₹45.00 INR
 - [Electric Spray Massage Brush - Bath Tool | HobbsGo](https://hobbsgo.com/products/electric-spray-handle-massage-brush): Buy Electric Spray Massage Brush - Bath Tool at HobbsGo. Durable, comfortable design for everyday pet use. Best price, delivery across India.
-  Updated: 2026-08-05T11:54:07Z
+  Updated: 2026-09-06T11:01:46Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
@@ -2234,7 +2216,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/whatsapp-image-2024-10-07-at-12-13-24-pm-500x500.webp?v=1780123974
   Price: ₹72.00 INR
 - [Whiskas  Wet Food Pouch Tuna - 80 g (1+ Year) | HobbsGo](https://hobbsgo.com/products/whiskas--wet-food-pouch-tuna-flavour-1-year-80g): Buy Whiskas  Wet Food Pouch Tuna - 80 g (1+ Year) at HobbsGo. 100% balanced 85g pouches with high moisture. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-09-02T09:21:36Z
+  Updated: 2026-09-13T12:54:36Z
   Vendor: Whiskas
   Product Type: Cat Food
   Availability: Available
@@ -2362,13 +2344,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/s-l960.jpg?v=1778961953
   Price: ₹170.00 INR
-- [Dog Poop Bags - 5 Rolls, Leak Proof | HobbsGo](https://hobbsgo.com/products/5-roll-dog-poop-bags-leak-proof-poop-bags-for-dogs): A bulk 5-roll pack of strong, leak-proof dog poop bags. Lightly scented and sized to tie shut, fits standard holders. Buy poop bags online in India.
-  Updated: 2026-08-17T07:31:30Z
-  Vendor: HobbsGo
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/5-roll-dog-poop-bags-leak-proof-poop-bags-for-dogs.jpg?v=1786699789
-  Price: ₹145.00 INR
 - [Hunter Training Stick for Puppies & Dogs - 26" | HobbsGo](https://hobbsgo.com/products/training-hunter-stick-for-puppies-and-dogs-26-inch): Order Hunter Training Stick for Puppies & Dogs - 26" at HobbsGo. Real meat bite-sized treats for training and reward. Fast delivery across Lucknow & India.
   Updated: 2026-08-26T12:52:47Z
   Vendor: HobbsGo
@@ -2756,7 +2731,7 @@
     Availability: Available
     Price: ₹34.00 INR
 - [Drools Tuna Mousse Kitten Gravy - 80 g | HobbsGo](https://hobbsgo.com/products/drools-tuna-mousse-kitten-gravy-80g): Buy Drools Tuna Mousse Kitten Gravy - 80 g at HobbsGo. 100% balanced 85g pouches with high moisture. Best price, delivery across India.
-  Updated: 2026-08-24T14:24:52Z
+  Updated: 2026-09-14T08:37:55Z
   Vendor: Drools
   Product Type: Cat Food
   Availability: Available
@@ -2774,7 +2749,7 @@
     Availability: Available
     Price: ₹34.00 INR
 - [Drools Chicken Mousse Kitten Gravy - 80 g | HobbsGo](https://hobbsgo.com/products/drools-chicken-mousse-kitten-gravy-80g): Shop Drools Chicken Mousse Kitten Gravy - 80 g at HobbsGo. 100% balanced 85g pouches with high moisture. Genuine brand, quick Lucknow delivery.
-  Updated: 2026-08-24T14:24:10Z
+  Updated: 2026-09-14T08:38:04Z
   Vendor: Drools
   Product Type: Cat Food
   Availability: Available
@@ -2810,7 +2785,7 @@
     Availability: Available
     Price: ₹34.00 INR
 - [Drools Ocean Fish Mousse Kitten Gravy - 80 g | HobbsGo](https://hobbsgo.com/products/drools-ocean-fish-mousse-kitten-gravy-80g): Shop Drools Ocean Fish Mousse Kitten Gravy - 80 g at HobbsGo. 100% balanced 85g pouches with high moisture. Trusted seller, fast delivery in Lucknow.
-  Updated: 2026-09-01T13:42:47Z
+  Updated: 2026-09-14T08:38:12Z
   Vendor: Drools
   Product Type: Cat Food
   Availability: Available
@@ -2834,13 +2809,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/61iKZilL9XL._SL1500.jpg?v=1778962021
   Price: ₹122.00 INR
-- [Gnawlers Lick & Likable Salmon Cat Treats | HobbsGo](https://hobbsgo.com/products/gnawlers-lick-n-likable-salmon-cat-treats): Order Gnawlers Lick & Likable Salmon Cat Treats at HobbsGo. Lickable salmon snack cats love. Best price, delivery across India.
-  Updated: 2026-08-22T12:35:17Z
-  Vendor: Gnawlers
-  Product Type: Cat Treats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/UFBUVZaD-product.avif?v=1779975979
-  Price: ₹81.00 INR
 - [Drools Milk Bone Jar - 40 pcs | HobbsGo](https://hobbsgo.com/products/drools-milk-bone-jar-40pcs): Order Drools Milk Bone Jar - 40 pcs at HobbsGo. Real meat bite-sized treats for training and reward. Best price, delivery across India.
   Updated: 2026-09-01T09:39:26Z
   Vendor: Drools
@@ -2856,20 +2824,27 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/61QqBxO2IjL._SX425.jpg?v=1779975389
   Price: ₹213.00 INR
 - [Fetch Printed Check Dog Collar - 10mm Nylon | HobbsGo](https://hobbsgo.com/products/fetch-printed-check-collar-10mm): A 10mm nylon collar in a Fetch-themed checks print with adjustable buckle and ID tag D-ring. Ideal for puppies and small breeds. Buy collars in India.
-  Updated: 2026-08-14T10:50:16Z
+  Updated: 2026-09-12T07:54:56Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/20240608212907Check-Printed-Adjustable-Pet-Cat-Bow-Collar-green-1732701358.jpg?v=1784283718
   Price: ₹170.00 INR
 - [Twin Bowl for Cats & Kittens - Food & Water Set | HobbsGo](https://hobbsgo.com/products/twin-bowl-for-cat-kitten): A side-by-side twin bowl that keeps food and water separate in one non-slip base. Compact and easy to clean. Buy cat bowls online in India at HobbsGo.
-  Updated: 2026-08-22T08:38:23Z
+  Updated: 2026-09-10T07:14:36Z
   Vendor: HobbsGo
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/twin-cat-face-plastic-bowl.png?v=1787387555
   Price: ₹255.00 INR
-[List Continued](https://hobbsgo.com/a/llms-agent/llms.txt?shop=hobbsgo.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDExNzk5NjI4MjE0NiwibGFzdF92YWx1ZSI6IjEwMTE3OTk2MjgyMTQ2In0%3D)
+- [Fish-Shaped Cat Toy | HobbsGo](https://hobbsgo.com/products/fish-toy-for-cat-kitten): Shop Fish-Shaped Cat Toy at HobbsGo. Durable, comfortable design for everyday pet use. Genuine brand, quick Lucknow delivery.
+  Updated: 2026-08-22T12:36:46Z
+  Vendor: HobbsGo
+  Product Type: Pet Supplies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0489/4242/files/81Zvnw1kO4L.jpg?v=1778962026
+  Price: ₹213.00 INR
+[List Continued](https://hobbsgo.com/a/llms-agent/llms.txt?shop=hobbsgo.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDExNzk5NjMxNDkxNCwibGFzdF92YWx1ZSI6IjEwMTE3OTk2MzE0OTE0In0%3D)
 
 ## Collections
 
@@ -2880,7 +2855,7 @@
   Updated: 2026-08-24T13:35:19Z
   Total Products: 70
 - [Cat Treats](https://hobbsgo.com/collections/cat-treats): Treat your feline to the best! Shop cat treats at Hobbsgo from top brands like Gnawlers, Drools, and Purepet. From crunchy kibble to creamy licked treats, find the perfect reward for your cat. Shop now!
-  Updated: 2026-08-04T20:27:46Z
+  Updated: 2026-09-13T11:18:24Z
   Total Products: 32
 - [Cat Dry Food](https://hobbsgo.com/collections/cat-dry-food): Shop specialized dry cat food at Hobbsgo. From growth-focused kitten kibble to tailored Persian cat formulas and balanced  diets, we have it all. Quality nutrition for every stage and breed.
   Updated: 2026-08-24T14:23:38Z
@@ -2889,13 +2864,13 @@
   Updated: 2026-08-16T11:19:36Z
   Total Products: 7
 - [Cat Wet Food](https://hobbsgo.com/collections/cat-wet-food): Satisfy your cat's cravings with HobbsGo’s wet food collection. Shop hydrating gravies, tender chunks, and smooth pâtés packed with protein. Perfect for picky eaters and healthy hydration. Shop now!
-  Updated: 2026-08-24T14:23:38Z
+  Updated: 2026-09-14T08:38:13Z
   Total Products: 45
 - [Clothing](https://hobbsgo.com/collections/clothing): Keep the cold at bay with Hobbsgo’s winter clothing. Shop cozy hoodies and insulated jackets for cats and dogs. Stylish, comfortable, and winter-ready gear for your pets. Shop our curated collection now.
   Updated: 2026-08-22T08:20:55Z
   Total Products: 20
 - [Accessories](https://hobbsgo.com/collections/accessories): Upgrade your pet's lifestyle with Hobbsgo. Shop durable dog & cat toys, stylish harnesses, heavy-duty leashes, and professional grooming essentials. Quality gear for happy pets and easier walks. Shop now!
-  Updated: 2026-08-22T08:52:28Z
+  Updated: 2026-09-08T11:19:57Z
   Total Products: 264
 - [Grooming Products](https://hobbsgo.com/collections/grooming-products)
   Updated: 2026-08-04T20:29:06Z
@@ -2910,22 +2885,22 @@
   Updated: 2026-08-04T20:29:01Z
   Total Products: 6
 - [Best For Doggos](https://hobbsgo.com/collections/best-for-doggos): Give your pup the very best! Shop our "Best for Doggos" collection featuring heavy-duty chew toys, interactive puzzles, and stylish accessories designed for active dogs of all sizes.
-  Updated: 2026-08-04T20:29:14Z
+  Updated: 2026-09-08T11:19:57Z
   Total Products: 7
 - [Doggo’s Daily Fuel](https://hobbsgo.com/collections/doggo-daily-fuel): Treat your dog to a meal they'll love. Explore Doggo’s Daily Fuel for high-protein dog food, natural dental chews, and delicious snacks made with premium, pup-safe ingredients.
   Updated: 2026-08-08T11:19:23Z
   Total Products: 6
 - [15% off on Dog & Cat Treats](https://hobbsgo.com/collections/15-off-on-dog-cat-treats): Reward your furry friends with 15% off all treats and chews. From dental sticks to gourmet kitten snacks, find the perfect healthy reward for your pet today.
-  Updated: 2026-08-24T13:35:19Z
+  Updated: 2026-09-13T11:18:24Z
   Total Products: 102
 - [10% off on Dog & Cat Food](https://hobbsgo.com/collections/10-off-on-dog-cat-food): Save 10% on premium nutrition for your pets. Shop our best- range of dry and wet food for dogs and cats. High-quality ingredients at prices you’ll love.
-  Updated: 2026-08-26T11:20:24Z
+  Updated: 2026-09-14T08:38:13Z
   Total Products: 169
 - [15% off on Dog & Cat Accessories](https://hobbsgo.com/collections/20-off-on-dog-cat-accessories): Level up your pet's style for less! Enjoy a flat 20%  on all pet accessories, including durable dog leashes & harnesses, beds, interactive cat toys, and designer bowls.
-  Updated: 2026-08-22T08:52:28Z
+  Updated: 2026-09-08T11:19:57Z
   Total Products: 264
 - [Fresh](https://hobbsgo.com/collections/fresh): Freshly prepared, human-grade meals, broths and treats for your pet — made with clean ingredients and zero onion, garlic or masalas.
-  Updated: 2026-08-14T11:20:11Z
+  Updated: 2026-09-13T11:18:24Z
   Total Products: 13
 - [Fresh Food Toppings](https://hobbsgo.com/collections/fresh-food-toppings)
   Updated: 2026-08-04T20:00:48Z
@@ -2934,7 +2909,7 @@
   Updated: 2026-08-21T14:04:25Z
   Total Products: 0
 - [Medicines](https://hobbsgo.com/collections/medicines): Veterinary medicines, treatments and health products stocked by HobbsGo. This collection is the source of truth for the medicines a HobbsGo vet can recommend at the end of a consultation. Add a product here to make it recommendable — no code change is required.
-  Updated: 2026-09-03T11:36:58Z
+  Updated: 2026-09-12T11:18:42Z
   Total Products: 73
 
 ## Blogs
@@ -3047,6 +3022,10 @@
   Updated: 2026-07-12T07:15:39Z
 - [Pet Care Journal | Dog & Cat Nutrition, Grooming, Relocation Guides | HobbsGo](https://hobbsgo.com/pages/journal): Trusted pet care stories, guides & expert tips from HobbsGo.
   Updated: 2026-08-04T22:18:51Z
+- [Talk to a Vet](https://hobbsgo.com/pages/vet-care): HobbsGo Vet-Tech connects you with  vets over chat, call or video in the HobbsGo app. Your  and recommended medicines are deliv...
+  Updated: 2026-09-10T16:47:19Z
+- [All Brands](https://hobbsgo.com/pages/brands): Shop dog and cat food, treats and accessories from every brand HobbsGo carries.
+  Updated: 2026-09-10T18:32:28Z
 
 ## Policies
 
