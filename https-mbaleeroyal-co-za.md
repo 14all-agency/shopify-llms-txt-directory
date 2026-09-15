@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-24T13:01:22Z
 - Contact Email: hello@oraxxi.co.za
-- Updated At: 2026-08-30T00:00:22.545Z
+- Updated At: 2026-09-15T00:00:37.428Z
 
 ## Products
 
@@ -898,7 +898,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/7091/6649/files/otterbox-react-series-cover-for-iphone-16e151413-clearblackotterbox-react-series-cover-for-iphone-16e151413-clearblackoraxxiiph21-react-blackcrystal-d-b-9505659.jpg?v=1787577058
   Price: R 299.00 ZAR
 - [Apple iPhone 13 128GB Midnight – Brand New](https://mbaleeroyal.co.za/products/iphone-13-128gb-midnight): iPhone 13. Your new superpower.iPhone 13. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design. Superfast 5G¹. 1. Data plan required. 5G is available in select markets and through select carriers. Speeds vary based on site conditions and carrier. For details on 5G support, contact your carrier and see apple.com/iphone/cellular.
-  Updated: 2026-08-29T16:47:03Z
+  Updated: 2026-08-31T13:23:09Z
   Vendor: Oraxxi
   Product Type: 
   Availability: Available
