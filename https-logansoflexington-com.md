@@ -7,7 +7,7 @@
 - Created At: 2014-08-25T14:32:04Z
 - Contact Phone: (859) 273-5766
 - Address: 161 Lexington Green Cir #160
-- Updated At: 2026-09-09T00:00:33.816Z
+- Updated At: 2026-09-16T00:00:36.021Z
 
 Logan's of Lexington is a family owned and operated men's clothing store in Lexington, Kentucky,  men's dress clothes, business attire, sportswear, footwear, and accessories both online and in its Lexington Green showroom.
 
