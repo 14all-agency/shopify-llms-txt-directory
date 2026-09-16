@@ -6,59 +6,75 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-09-02T11:19:31Z
 - Contact Email: johan.vestereng@gmail.com
-- Updated At: 2026-09-09T00:00:19.987Z
+- Updated At: 2026-09-16T00:00:31.015Z
 
 ## Products
 
-- [Electric Scrub Brush for Dishes: Effortless Cleaning Solution](https://scrubby-doo.store/products/electric-dish-sponge): Discover the electric scrub brush for dishes that takes the struggle out of washing up. Let the motor do the hard work for you!
-  Updated: 2026-09-08T22:27:14Z
+- [Electric Spin Scrubber for Dishes & Pans | Scrubby-doo](https://scrubby-doo.store/products/electric-dish-sponge): A cordless electric spin scrubber for baked-on pans, trays and dishes. USB rechargeable, waterproof, swappable heads — built for kitchens with no dishwasher.
+  Updated: 2026-09-15T07:33:28Z
   Vendor: Loadout
   Product Type: Kitchen
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1031/0182/5353/files/bloom-generated-1788978665891.png?v=1788949898
   Price: kr 179.00 DKK
+- [Whole Home Electric Power Scrubber: Powerful & Versatile Cleaning](https://scrubby-doo.store/products/whole-home-electric-power-scrubber): Transform your cleaning with the Whole Home Electric Power Scrubber. Stronger motor, longer battery life—perfect for every surface in your home!
+  Updated: 2026-09-15T22:19:14Z
+  Vendor: Scrubby-doo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1031/0182/5353/files/S7da00ee1496c46a2b7913634e4d62a98Z.webp?v=1789285715
+  Price: kr 329.00 DKK
 
 ## Collections
 
 - [Home page](https://scrubby-doo.store/collections/frontpage)
   Updated: 2026-09-06T19:57:05Z
   Total Products: 0
+- [Digital Goods VAT Tax](https://scrubby-doo.store/collections/digital-goods-vat-tax)
+  Updated: 2026-09-12T13:37:25Z
+  Total Products: 0
 
 ## Blogs
 
-- [News](https://scrubby-doo.store/blogs/news)
-  - [The viral TikTok face mask!](https://scrubby-doo.store/blogs/news/the-viral-tiktok-face-mask)
-    Updated: 2026-09-06T18:37:48Z
+- [News](https://scrubby-doo.store/blogs/news): Explore the most recent developments in world news today, keeping you updated with key stories and events from around the globe.
+  - [Do You  Doing the Dishes? What an Electric Scrubber Changes](https://scrubby-doo.store/blogs/news/do-you--doing-the-dishes): Do You  Doing the Dishes? What an Electric Scrubber Changes
+    Updated: 2026-09-15T07:42:06Z
     Author: johan Vestereng
-  - [10 Reasons the Viral Bio Collagen-Real Deep Face Mask is a Game Changer](https://scrubby-doo.store/blogs/news/10-reasons-the-viral-bio-collagen-real-deep-face-mask-is-a-game-changer): 10 Reasons the Viral Bio Collagen-Real Deep Face Mask is a Game Changer
-    Updated: 2026-09-07T07:28:39Z
-    Author: Solène
-  - [Unlock Radiant Skin: How to Maximize the Benefits of Viral Bio Collagen-Real Deep Face Masks](https://scrubby-doo.store/blogs/news/unlock-radiant-skin-how-to-maximize-the-benefits-of-viral-bio-collagen-real-deep-face-masks): Unlock Radiant Skin: How to Maximize the Benefits of Viral Bio Collagen-Real Deep Face Masks
-    Updated: 2026-09-07T02:51:48Z
-    Author: Solène
+    Tags: electric scrubber, kitchen, no dishwasher, washing up
+  - [5 Real Benefits of an Electric Dishwashing Scrubber](https://scrubby-doo.store/blogs/news/5-essential-benefits-of-a-viral-electric-dishwash-scrubber): 5 Real Benefits of an Electric Dishwashing Scrubber
+    Updated: 2026-09-14T09:17:13Z
+    Author: Scrubby-doo
+    Tags: cleaning tips, electric scrubber, kitchen
+  - [Electric Spin Scrubbers: Why They Took Off & Who They Suit](https://scrubby-doo.store/blogs/news/the-evolution-of-dishwashing-how-electric-scrubbers-became-viral): Electric Spin Scrubbers: Why They Took Off & Who They Suit
+    Updated: 2026-09-14T09:17:33Z
+    Author: Scrubby-doo
+    Tags: buying guide, cleaning tips, electric scrubber
 
 ## Store Pages
 
-- [Contact](https://scrubby-doo.store/pages/contact)
-  Updated: 2026-09-02T11:19:36Z
-- [Your Privacy Choices](https://scrubby-doo.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-09-02T19:38:56Z
-- [About Loadout](https://scrubby-doo.store/pages/about): Hi, I'm Johan — a designer specializing in logos, web design, and marketing visuals. I help brands look professional and stand out online. Based in...
-  Updated: 2026-09-07T14:16:00Z
-- [FAQ](https://scrubby-doo.store/pages/faq)
-  Updated: 2026-09-05T20:45:57Z
-- [Reviews](https://scrubby-doo.store/pages/reviews)
-  Updated: 2026-09-06T15:30:36Z
+- [Contact Scrubby-doo | Ask Before You Buy](https://scrubby-doo.store/pages/contact): 
+  Updated: 2026-09-14T09:16:07Z
+- [Your Privacy Choices | Scrubby-doo](https://scrubby-doo.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-09-14T09:16:07Z
+- [About Scrubby-doo | Electric Spin Scrubbers, Chosen Properly](https://scrubby-doo.store/pages/about): Hi, I'm Johan — a designer specializing in logos, web design, and marketing visuals. I help brands look professional and stand out online. Based in...
+  Updated: 2026-09-14T09:15:59Z
+- [Electric Scrubber FAQ | Shipping, Bundles & Returns](https://scrubby-doo.store/pages/faq): 
+  Updated: 2026-09-14T09:16:18Z
+- [Reviews | Scrubby-doo Electric Scrubbers](https://scrubby-doo.store/pages/reviews): 
+  Updated: 2026-09-14T09:16:18Z
+- [Electric Dish Cleaning Sponge: Your Ultimate Kitchen Tool](https://scrubby-doo.store/pages/electric-dish-sponge-vlrx): 
+  Updated: 2026-09-12T22:00:02Z
 
 ## Policies
 
 - [Privacy Policy](https://scrubby-doo.store/policies/privacy-policy)
-  Updated: 2026-09-06T18:55:20+02:00
+  Updated: 2026-09-12T15:34:54+02:00
 - [Shipping Policy](https://scrubby-doo.store/policies/shipping-policy)
   Updated: 2026-09-08T20:43:20+02:00
 - [Refund Policy](https://scrubby-doo.store/policies/refund-policy)
-  Updated: 2026-09-06T18:54:09+02:00
+  Updated: 2026-09-09T11:03:51+02:00
 - [Terms of Service](https://scrubby-doo.store/policies/terms-of-service)
-  Updated: 2026-09-06T18:56:54+02:00
+  Updated: 2026-09-12T15:33:21+02:00
 - [Contact Information](https://scrubby-doo.store/policies/contact-information)
   Updated: 2026-09-05T15:08:15+02:00
 
