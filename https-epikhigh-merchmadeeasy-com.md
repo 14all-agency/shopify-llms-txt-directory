@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-08T19:06:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-07T00:00:40.062Z
+- Updated At: 2026-09-16T00:00:46.092Z
 
 ## Products
 
@@ -70,7 +70,7 @@
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPKeychain.png?v=1720803934
   Price: $5.00 USD
 - [PUMP Tracklist Hoodie](https://epikhigh.merchmadeeasy.com/products/pump-tracklist-hoodie): The PUMP Tour | North America 2024 This black hoodie is made of a 50/50 poly-cotton blend and features The PUMP Tour 2024 North American stops on the back. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2
-  Updated: 2026-08-28T22:27:38Z
+  Updated: 2026-09-09T13:04:48Z
   Vendor: Epik High
   Product Type: Hoodie
   Availability: Available
@@ -122,26 +122,26 @@
 ## Collections
 
 - [Home page](https://epikhigh.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-31T18:22:33Z
-  Total Products: 19
+  Updated: 2026-09-15T17:05:16Z
+  Total Products: 22
 - [Featured](https://epikhigh.merchmadeeasy.com/collections/featured)
-  Updated: 2026-08-31T18:22:33Z
-  Total Products: 14
+  Updated: 2026-09-15T16:38:42Z
+  Total Products: 15
 - [HERE](https://epikhigh.merchmadeeasy.com/collections/here)
   Updated: 2026-08-31T18:22:33Z
   Total Products: 4
 - [Apparel](https://epikhigh.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-31T18:22:33Z
-  Total Products: 11
+  Updated: 2026-09-15T17:05:16Z
+  Total Products: 13
 - [Epik High - Tour](https://epikhigh.merchmadeeasy.com/collections/epik-high-tour): Epik High - Tour
   Updated: 2026-06-04T15:22:20Z
   Total Products: 0
 - [ALL TIME HIGH](https://epikhigh.merchmadeeasy.com/collections/all-time-high-collection)
-  Updated: 2026-08-31T18:22:27Z
+  Updated: 2026-09-15T16:40:05Z
   Total Products: 5
 - [Accessories](https://epikhigh.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-31T18:22:52Z
-  Total Products: 11
+  Updated: 2026-09-15T16:38:42Z
+  Total Products: 13
 - [Black Friday](https://epikhigh.merchmadeeasy.com/collections/black-friday)
   Updated: 2026-08-31T18:22:33Z
   Total Products: 11
@@ -149,16 +149,16 @@
   Updated: 2026-06-04T15:22:20Z
   Total Products: 6
 - [PUMP](https://epikhigh.merchmadeeasy.com/collections/pump)
-  Updated: 2026-08-31T18:22:52Z
+  Updated: 2026-09-15T16:59:28Z
   Total Products: 8
 - [All](https://epikhigh.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-31T18:22:52Z
-  Total Products: 17
+  Updated: 2026-09-15T17:05:16Z
+  Total Products: 21
 - [PUMP BUNDLES](https://epikhigh.merchmadeeasy.com/collections/pump-bundles)
-  Updated: 2026-08-31T18:22:52Z
+  Updated: 2026-09-15T16:34:40Z
   Total Products: 3
 - [50% OFF HOODIES](https://epikhigh.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-08-31T18:22:27Z
+  Updated: 2026-09-15T16:58:45Z
   Total Products: 3
 
 ## Store Pages
