@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-09-06T00:00:43.568Z
+- Updated At: 2026-09-16T00:00:47.559Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -56,7 +56,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 27,99 € EUR
 - [Sangle Rotulienne Nova+ — Soulager la tendinite et la douleur sous la rotule](https://novaplusstor.com/products/sangle-rotulienne): Sangle rotulienne réglable en néoprène pour soulager la tendinite rotulienne et le syndrome rotulien. Légère, discrète, efficace.
-  Updated: 2026-07-29T19:19:27Z
+  Updated: 2026-09-12T13:13:13Z
   Vendor: Nova+
   Product Type: Sangle rotulienne
   Availability: Available
@@ -364,7 +364,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:03Z
   Total Products: 0
 - [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail-hub): Genouillères de travail pour carreleurs, bricoleurs et jardiniers. Protection maximale des genoux pour tous vos travaux professionnels sur Nova+.
-  Updated: 2026-09-05T21:07:13Z
+  Updated: 2026-09-13T11:43:34Z
   Total Products: 2
 - [Genouillère Entorse](https://novaplusstor.com/collections/genouillere-entorse): Genouillères pour entorse du genou : stabilisation, maintien ligamentaire et reprise d'activité. Trouvez la solution adaptée sur Nova+.
   Updated: 2026-08-12T16:36:37Z
@@ -540,26 +540,54 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 - [Conditions SMS Mobile](https://novaplusstor.com/pages/conditions-sms-mobile): Conditions d'utilisation mobile Nova+ Dernière mise à jour : 18 juillet 2026 Le service de messagerie mobile Nova+ (le « Service ») est é pa...
   Updated: 2026-07-18T19:32:13Z
 - [FAQ Genouillère : conseils et choix — NOVA+](https://novaplusstor.com/pages/faq-genouillere): FAQ — Vos questions sur les genouillèresQuelle genouillère choisir selon ma douleur ?Tout dépend de votre situation. Pour une douleur diffuse autou...
-  Updated: 2026-07-22T22:10:26Z
+  Updated: 2026-09-15T17:39:57Z
 - [Quelle genouillère me convient ? — Quiz NOVA+](https://novaplusstor.com/pages/quiz-genouillere): Trouvez votre solution NOVA+ Répondez à quelques questions simples et découvrez le support de genou adapté à votre situation en moins de 2 minutes....
   Updated: 2026-07-22T22:56:04Z
 - [Guide des tailles Genouillère Kuangmi | Nova+](https://novaplusstor.com/pages/guide-des-tailles): Guide des tailles – Genouillère KuangmiComment mesurer pour un ajustement optimalMesurez la circonférence de votre cuisse 15 cm au-dessus de la rot...
   Updated: 2026-08-01T21:45:07Z
 - [Livraison & Retours | Nova+](https://novaplusstor.com/pages/livraison-et-retours): Livraison & Retours 📦 Livraison Délai de traitement : Les commandes sont traitées sous 1 à 2 jours ouvrables. Délai de livraison : 8 à 12 jours ouv...
   Updated: 2026-08-01T23:32:48Z
+- [Demande de rétractation](https://novaplusstor.com/pages/demande-de-retractation)
+  Updated: 2026-09-13T19:55:50Z
+- [Conditions d’utilisation](https://novaplusstor.com/pages/conditions-utilisation)
+  Updated: 2026-09-13T20:04:25Z
+- [Politique de confidentialité](https://novaplusstor.com/pages/politique-de-confidentialite-nova-plus)
+  Updated: 2026-09-14T14:08:02Z
+- [Livraison et expédition](https://novaplusstor.com/pages/livraison-et-expedition-nova-plus)
+  Updated: 2026-09-13T20:28:14Z
+- [Retours et remboursements](https://novaplusstor.com/pages/retours-et-remboursements-nova-plus)
+  Updated: 2026-09-13T20:30:14Z
+- [Mentions légales](https://novaplusstor.com/pages/mentions-legales-nova-plus)
+  Updated: 2026-09-13T20:31:31Z
+- [Suivi de commande](https://novaplusstor.com/pages/suivi-de-commande)
+  Updated: 2026-09-15T16:41:59Z
+- [mentions-legales-retour](https://novaplusstor.com/pages/mentions-legales-retour)
+  Updated: 2026-09-15T18:22:36Z
+- [Mentions légales & Retours](https://novaplusstor.com/pages/mentions-legales-retours)
+  Updated: 2026-09-15T18:31:45Z
+- [Mentions légales & Retours](https://novaplusstor.com/pages/mentions-legales-retours-1)
+  Updated: 2026-09-15T18:33:26Z
+- [Mentions légales & Retours](https://novaplusstor.com/pages/mentions-legales-retours-2)
+  Updated: 2026-09-15T18:33:26Z
+- [Mentions légales & Retours](https://novaplusstor.com/pages/mentions-legales-retours-2)
+  Updated: 2026-09-15T18:33:27Z
+- [Conditions d’utilisation](https://novaplusstor.com/pages/conditions-utilisation-nova-plus)
+  Updated: 2026-09-15T19:34:54Z
+- [Qui sommes-nous](https://novaplusstor.com/pages/qui-sommes-nous)
+  Updated: 2026-09-15T21:00:03Z
 
 ## Policies
 
 - [Privacy Policy](https://novaplusstor.com/policies/privacy-policy)
-  Updated: 2026-06-22T15:31:29+02:00
+  Updated: 2026-09-15T16:16:00+02:00
 - [Shipping Policy](https://novaplusstor.com/policies/shipping-policy)
-  Updated: 2026-06-24T03:37:40+02:00
+  Updated: 2026-09-15T16:22:34+02:00
 - [Refund Policy](https://novaplusstor.com/policies/refund-policy)
-  Updated: 2026-06-24T03:45:31+02:00
+  Updated: 2026-09-15T16:13:44+02:00
 - [Terms of Service](https://novaplusstor.com/policies/terms-of-service)
-  Updated: 2026-04-05T04:20:34+02:00
+  Updated: 2026-09-15T16:20:30+02:00
 - [Contact Information](https://novaplusstor.com/policies/contact-information)
-  Updated: 2026-04-05T04:14:29+02:00
+  Updated: 2026-09-15T16:25:15+02:00
 
 ## Réseaux sociaux
 - https://www.tiktok.com/@novaplus
