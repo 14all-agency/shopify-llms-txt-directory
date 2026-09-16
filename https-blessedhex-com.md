@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-09-28T02:47:04Z
 - Contact Email: info@blessedhex.com
-- Updated At: 2026-09-09T00:00:35.843Z
+- Updated At: 2026-09-16T00:00:36.809Z
 
 # Blessèd Hex Candle Company
 
