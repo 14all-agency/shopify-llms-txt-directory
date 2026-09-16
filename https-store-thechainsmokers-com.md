@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-08T00:00:36.892Z
+- Updated At: 2026-09-16T00:00:38.506Z
 
 ## Products
 
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Oval Tee](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-09-03T16:25:59Z
+  Updated: 2026-09-14T19:57:06Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/TCS-cream-bucket-hat_The-Chainsmokers_50ead504-d6d2-4036-8673-7da0a1cfe0a4.png?v=1680744587
   Price: $35.00 USD
 - [So Far So Good Tracklist Tee - White](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-09-03T14:21:16Z
+  Updated: 2026-09-09T23:02:10Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
@@ -186,7 +186,7 @@
     Availability: Available
     Price: $20.16 USD
 - [So Far So Good Grid Long Sleeve - White](https://store.thechainsmokers.com/products/so-far-so-good-grid-long-sleeve): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-07-17T23:49:19Z
+  Updated: 2026-09-10T11:42:05Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/TC-pin-set_The-Chainsmokers.png?v=1653600586
   Price: $15.00 USD
 - [Rodeo Houston Hat](https://store.thechainsmokers.com/products/rodeo-houston-hat): Select quantities of this item are signed and will be shipped at random. Features embroidery on front, back and sides. Snapback closure.
-  Updated: 2026-08-30T05:28:46Z
+  Updated: 2026-09-10T11:42:03Z
   Vendor: The Chainsmokers
   Product Type: Hat
   Availability: Available
@@ -354,7 +354,7 @@
     Availability: Available
     Price: $20.16 USD
 - [So Far So Good Tracklist Tee](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-09-06T02:42:31Z
+  Updated: 2026-09-10T20:45:33Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSECHOHAT-2.png?v=1778253458
   Price: $35.00 USD
 - [Stamp Long Sleeve](https://store.thechainsmokers.com/products/stamp-long-sleeve): The Chainsmokers Stamp Long Sleeve in black with front and back print. 100% Cotton
-  Updated: 2026-08-03T16:06:37Z
+  Updated: 2026-09-08T16:30:16Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -417,7 +417,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Stamp Tee](https://store.thechainsmokers.com/products/stamp-tee): The Chainsmokers Stamp Tee in black with front print only.
-  Updated: 2026-08-21T23:40:23Z
+  Updated: 2026-09-10T20:45:31Z
   Vendor: The Chainsmokers Store
   Product Type: T-Shirt
   Availability: Available
@@ -441,37 +441,37 @@
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-09-07T11:03:03Z
+  Updated: 2026-09-15T11:02:12Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
-  Updated: 2026-08-30T11:02:53Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 7
 - [Top Featured](https://store.thechainsmokers.com/collections/top-featured)
-  Updated: 2026-08-30T11:02:53Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-09-07T11:03:03Z
+  Updated: 2026-09-15T11:02:12Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-09-02T11:02:54Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
   Total Products: 3
 - [Hats](https://store.thechainsmokers.com/collections/hats)
-  Updated: 2026-08-30T11:02:53Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 19
 - [So Far So Good](https://store.thechainsmokers.com/collections/soearlysogood)
-  Updated: 2026-09-06T11:02:49Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 8
 - [](https://store.thechainsmokers.com/collections/salecollection)
-  Updated: 2026-09-06T11:02:49Z
+  Updated: 2026-09-15T11:02:12Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-09-07T11:03:03Z
+  Updated: 2026-09-15T11:02:12Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
-  Updated: 2026-09-07T11:03:03Z
+  Updated: 2026-09-08T11:04:12Z
   Total Products: 9
 - [Best Sellers](https://store.thechainsmokers.com/collections/best-sellers)
   Updated: 2026-08-12T11:02:52Z
@@ -480,7 +480,7 @@
   Updated: 2026-09-02T11:02:54Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-09-07T11:03:03Z
+  Updated: 2026-09-15T11:02:12Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-08-18T11:02:43Z
@@ -492,7 +492,7 @@
   Updated: 2026-08-11T17:14:50Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-08-22T11:02:28Z
+  Updated: 2026-09-11T11:02:18Z
   Total Products: 3
 
 ## Store Pages
