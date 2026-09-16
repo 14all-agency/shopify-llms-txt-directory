@@ -7,7 +7,7 @@
 - Created At: 2017-09-04T21:22:14Z
 - Contact Email: marc@cadeaugourmand.ca
 - Contact Phone: +14506414522
-- Updated At: 2026-09-09T12:00:26.261Z
+- Updated At: 2026-09-16T12:00:28.498Z
 
 ## Products
 
@@ -155,219 +155,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/carte-cadeau-0924.jpg?v=1727477610
     Price: 25,00 $ CAD
-- [Signature à la Livraison – Livraison Sécurisée | Cadeau Gourmand](https://cadeaugourmand.ca/products/signature-fee): Ajoutez l'option Signature à la livraison pour garantir que votre coffret cadeau gourmand est remis en mains propres. Livraison sécurisée au Québec.
-  Updated: 2026-08-27T01:10:27Z
-  Vendor: La Grande Gourmandise
-  Product Type: Service
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2332/8537/files/signature-livraison_13f8cfe5-78e7-4c89-8040-62ccce75d09d.png?v=1773089175
-  Price: 3,50 $ CAD
-- [Cartes de Voeux Illustrées – Mamzelle Victoria | Écrites à la Main | Mauricie](https://cadeaugourmand.ca/products/cartes-de-voeux): Cartes de voeux illustrées par Mamzelle Victoria, Mauricie. Écrites à la main pour votre cadeau gourmand. Mini (2,5x3,5") ou régulière (5x7"). Imprimées au Québec.
-  Updated: 2026-09-08T22:48:47Z
-  Vendor: La Grande Gourmandise
-  Product Type: Cartes de voeux
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2332/8537/files/marguerite_mini.webp?v=1772317402
-  - [ANNIVERSAIRE Laura (mini 2-1/2 x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467643650230)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/laura.webp?v=1772293584
-    Price: 4,00 $ CAD
-  - [ANNIVERSAIRE Abbie (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467643617462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/abbie-verticale.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [ANNIVERSAIRE Leonie (mini 2-1/2 x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44324120494262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/leonie-fete-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [ANNIVERSAIRE Louane (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916957020342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/louane.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [ANNIVERSAIRE Stella (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44450846867638)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/stella-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [ANNIVERSAIRE Abbie (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467643682998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/abbie-regul.webp?v=1772293338
-    Price: 6,75 $ CAD
-  - [ANNIVERSAIRE Louane (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467684577462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/ANNIVERSAIRE_Louane_r.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [COEUR Alexe (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467644829878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/alexe.webp?v=1772293339
-    Price: 4,00 $ CAD
-  - [COEUR Dorothée (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653284022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/dorothee-mini.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [COEUR Justine (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653251254)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/justine.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [COEUR Dorothée (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653316790)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/dorothee.webp?v=1772293338
-    Price: 6,75 $ CAD
-  - [COEUR Valentine (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467660558518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/valentine-regul.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [FÉLICITATIONS Maxine (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44923476410550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/maxine.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [FÉLICITATIONS Olivia (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653349558)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/olivia.webp?v=1772293339
-    Price: 4,00 $ CAD
-  - [FÉLICITATIONS Amaury (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916959609014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/FELICITATIONS_Amaury.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [FÉLICITATIONS Maxine (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44105237692598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/maxine.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [FLORAL Abigaelle (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467644862646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/abigaelle.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [FLORAL Augustine (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653415094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/augustine.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [FLORAL Camelia (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467644797110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/camelia.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [FLORAL Oahu (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44324120559798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/oahu-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [FRUITIER Casimir (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467644731574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/casimir.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [FRUITIER Frédérique (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44324125802678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/frederique-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [MERCI Marguerite (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653513398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/marguerite_mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [MERCI Selena (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44324120592566)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/selena-merci-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [MERCI Anae (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44201310945462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/anae.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [MERCI Claire (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44201312551094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/claire.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [MERCI Ophélie (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44201313271990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/ophelie.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [MERCI Véronique (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653546166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/veronique-fr-regul.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [MERCI Viviane (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44201311797430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/viviane.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [NAISSANCE Lévi (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467644764342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/levi.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [RÉTABLISSEMENT Agnès (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916969504950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/RETABLISSEMENT_Agnes.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [RÉTABLISSEMENT Victoria (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916974125238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/RETABLISSEMENT_Victoria.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [RÉTABLISSEMENT Mila (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916977828022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/RETABLISSEMENT_Mila.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [SYMPATHIE Béatrice (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916985856182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/SYMPATHIE_Beatrice.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [SYMPATHIE Emma (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916988969142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/SYMPATHIE_Emma.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [SYMPATHIE Maria (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653447862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/maria-mini.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [SYMPATHIE Béatrice (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653382326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/beatrice.webp?v=1772293338
-    Price: 6,75 $ CAD
-  - [SYMPATHIES Fay (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44201313632438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/fay.webp?v=1772317402
-    Price: 6,50 $ CAD
-  - [THANK YOU Véronique (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467653578934)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/veronique-en-regul.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [PÂQUES Joana (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916964786358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/PAQUES_Joana.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [PÂQUES Lilou (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44916966293686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/PAQUES_Lilou.webp?v=1772317402
-    Price: 6,75 $ CAD
-  - [NOEL Constance (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467699847350)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/constance_2.webp?v=1772293338
-    Price: 4,00 $ CAD
-  - [NOEL Ernest (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467699880118)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/ernest-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Finn (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467699912886)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/finn_mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Ingrid (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44450846900406)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/ingrid-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Jules (mini) (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44450928361654)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/jules-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Noah (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467699945654)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/noah-mini.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Solange (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467699978422)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/solange.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Yolande (mini 2-1/2" x 3-1/2")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=43467700109494)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/yolande.webp?v=1772317402
-    Price: 4,00 $ CAD
-  - [NOEL Brigitte (régulière 5" x 7")](https://cadeaugourmand.ca/products/cartes-de-voeux?variant=44450846933174)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/2332/8537/files/brigitte-regul.webp?v=1772317402
-    Price: 6,75 $ CAD
 - [Bombes à cocktail en 3D](https://cadeaugourmand.ca/products/bombes-a-cocktail-en-3d): La magie dans votre verre — le cocktail réinventé, une couche à la fois. 🍹✨ La technologie unique de Poseidn consiste à solidifier de fines couches d'aliments les unes sur les autres pour créer de spectaculaires bombes à cocktail 3D. Après des centaines de couches, un « drink 3D » est né — prêt à épater vos invités. Sans alcool, sans gluten, sans arachides et végétalien — la magie est pour tout le monde. 🛒 Choisissez votre saveur — boîte de 6 bombes : 🌴 Tiki Mai Tai — orange, lime et amande 🌸 Cosmopolitan — canneberge, orange et jasmin 🌿 Gin & Tonic — orange sanguine et romarin 🍹 Comment utiliser votre bombe à cocktail 3D : Versez votre boisson préférée (alcoolisée ou non) dans un verre Ajoutez la bombe à cocktail 3D Mélangez bien Ajoutez de l'eau (plate, pétillante ou tonique selon la saveur) Dégustez — et époustouplez ! 🎉 ✨ Sans alcool · Sans gluten · Sans arachides · Végétalien 🎁 Boîte de 6 bombes — un cadeau original et festif pour toutes les occasions. 💌 Parfait seul ou dans le cadre d'un coffret cadeau personnalisé.
   Updated: 2026-08-09T15:49:30Z
   Vendor: La Grande Gourmandise
@@ -405,7 +192,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/poseidn-framboise.webp?v=1772316772
     Price: 10,00 $ CAD
 - [Trio de terrines](https://cadeaugourmand.ca/products/trio-terrines-artisanales-quebec): Coffret cadeau québécois haut de gamme — trois terrines artisanales québécoises, façonnées à la main par des fermes familiales. Que ce soit pour un 5 à 7 entre amis, un souper en famille ou un cadeau gourmand à offrir, le Trio de Terrines dresse la table avec élégance. Choisissez votre duo de saveurs — bœuf ou pintade — et laissez les artisans de nos régions faire le reste. 🛒 Choisissez votre trio : 🥩 Trio Bœuf — Bœuf à la ferme, Bas-Saint-Laurent Terrine aux deux poivres – 80 gTerrine persillade – 80 gRillettes de bœuf Wagyu – 80 g 🦃 Trio Pintade — La Pintarade, Centre-du-Québec Terrine au cognac et fines herbes – 80 gTerrine aux canneberges et sirop d'érable – 80 gRillettes de foie blond au cidre de glace – 80 g ✨ Produits artisanaux issus de fermes familiales québécoises.🍷 Parfait pour l'apéro, le 5 à 7 ou comme cadeau gourmand.💌 Présenté dans un beau coffret cadeau, prêt à offrir.
-  Updated: 2026-08-10T15:38:08Z
+  Updated: 2026-09-14T20:15:37Z
   Vendor: La Grande Gourmandise
   Product Type: Charcuterie artisanale
   Availability: Available
@@ -897,14 +684,14 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/festin-du-vendredi-1025.webp?v=1772133595
     Price: 67,00 $ CAD
 - [À la Cabane à Sucre](https://cadeaugourmand.ca/products/a-la-cabane-a-sucre): Coffret cadeau érable québécois haut de gamme, sirop biologique, beurre, sucre et bonbons artisanaux des meilleures cabanes à sucre du Québec, pour célébrer le goût authentique du temps des sucres, en toute saison. 🍁 À la Cabane à Sucre est une invitation à célébrer notre plus précieux cadeau : l'érable. 🎁✨ 🛒 Ce que contient le coffret : 🍬 Bonbons durs à l'érable – 90 g | Douceurs de l'érable BrienDes bonbons artisanaux aux notes d'érable pur — un classique québécois inoubliable. 🍫 Tablette de chocolat au lait et sucre d'érable – 70 g | Chocolat BoréalLe mariage parfait du chocolat au lait artisanal et du sucre d'érable — onctueux et gourmand. 🍂 Sirop d'érable biologique – Première récolte – 200 ml | Érablière EscuminacUn sirop d'érable biologique d'exception, récolté en début de saison pour une saveur légère et délicate. 🧈 Beurre d'érable biologique – 160 g | Douceurs de l'érable BrienOnctueux et fondant — divin sur des rôties, des crêpes ou directement à la cuillère. 🍭 Sucre d'érable fin – 175 g | Érablière L'autre versantUn sucre d'érable cristallisé pur, idéal pour sucrer, cuisiner ou décorer vos desserts. 🍮 Caramel à l'érable – 60 ml | Les ZempotésUn caramel artisanal aux notes d'érable — parfait sur des crêpes, de la crème glacée ou du fromage. ✨ Tous les produits proviennent d'artisans québécois d'exception.🎀 Coffret assemblé et emballé à la main avec soin.💌 Personnalisation incluse sur demande pour les cadeaux corporatifs.
-  Updated: 2026-08-24T16:03:37Z
+  Updated: 2026-09-10T13:13:06Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2332/8537/files/a-la-cabane-a-sucre-1025.webp?v=1772133435
   Price: 67,00 $ CAD
 - [Coffret Cocooning - Cadeau Détente Québécois | 6 Produits Artisanaux](https://cadeaugourmand.ca/products/coffret-cocooning): Coffret détente avec bougie, tisane, chocolats et bonbons artisanaux québécois. Le cadeau parfait pour un moment de relaxation!
-  Updated: 2026-08-29T12:23:37Z
+  Updated: 2026-09-11T17:17:37Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -930,7 +717,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/coffret-cocooning-1025.webp?v=1772133161
     Price: 68,00 $ CAD
 - [Gros Câlin - Coffret Cadeau Gourmand Québécois | 6 Produits Artisanaux](https://cadeaugourmand.ca/products/gros-calin): Coffret cadeau avec 6 délices artisanaux québécois : bonbons, arachides au miel, salsa, popcorn à l'érable. Parfait pour toute occasion!
-  Updated: 2026-08-26T17:26:06Z
+  Updated: 2026-09-10T01:03:57Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -1254,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/Balade-au-Quebec-0626.webp?v=1780767951
     Price: 149,00 $ CAD
 - [Trio Apéro - Coffret Cadeau Québécois | 3 Produits Artisanaux Sans Alcool](https://cadeaugourmand.ca/products/trio-apero): Trio apéro québécois sans alcool : rillettes de canard, gelées aromatisées (0% alcool) et confit d'oignons. Parfait pour vos 5 à 7!
-  Updated: 2026-09-03T13:04:46Z
+  Updated: 2026-09-14T20:15:26Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret cadeau
   Availability: Available
@@ -1382,7 +1169,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/soir-de-match-1025.webp?v=1772053167
     Price: 45,00 $ CAD
 - [Coffret Trésor Gourmand - Chocolat Dubaï & Érable du Québec | Cadeau Gourmand](https://cadeaugourmand.ca/products/tresor-gourmand): Coffret sucré avec chocolat Dubaï artisanal, éclats d'érable, fondants, perles de chocolat et arachides au miel. Produits québécois pour les dents sucrées!
-  Updated: 2026-09-02T00:47:37Z
+  Updated: 2026-09-15T06:44:11Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1408,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/tresor-gourmand-0626.webp?v=1780767260
     Price: 100,00 $ CAD
 - [L'élégant](https://cadeaugourmand.ca/products/lelegant): Coffret cadeau gourmand québécois haut de gamme, une sélection raffinée de produits artisanaux québécois d'exception pour les amateurs de belles saveurs. ✨ Un coffret pour les amoureux des grandes saveurs, simple, raffiné, mémorable. L'Élégant est un coffret conçu pour ceux qui apprécient les belles choses. Chaque produit a été choisi pour son caractère et son unicité : des saveurs audacieuses, des textures surprenantes, et des artisans passionnés derrière chacun d'eux. Un cadeau qui dit tout, sans un mot. 🎁 🚚 Livraison gratuite au Québec et en Ontario. 🛒 Ce que contient le coffret : 🍂 Sirop d'érable vieilli en fût de rhum – 375 ml | Érablière La FabrickUn sirop d'érable d'exception aux notes boisées et vanillées de rhum — une découverte sensorielle vraiment unique. 🥩 Rillettes de bœuf Wagyu – 80 g | Bœuf à la fermeUne rillette onctueuse et fondante à base de bœuf Wagyu québécois — le summum de la charcuterie fine. 🧄 Crème d'ail noir – 30 g | Ail en noir et blancOnctueuse, profonde et riche en umami — une crème remarquable qui transforme chaque plat en expérience gourmande. 🍁 Gelée érable et piment – 30 ml | Blanc par RougeLa douceur de l'érable québécois rencontre le piquant du piment — un accord audacieux et irrésistible. 🥜 Mélange de noix classique – 125 g | La Grande GourmandiseUne sélection de noix de qualité, parfaite pour grignoter avec une touche d'élégance. 🍫 Tire éponge au chocolat noir – 70 g | m gourmetUne confiserie artisanale légère et croustillante enrobée de chocolat noir intense — une gâterie inoubliable. ✨ Tous les produits proviennent d'artisans québécois d'exception.🎀 Coffret assemblé et emballé à la main avec soin.💌 Personnalisation incluse sur demande pour les cadeaux corporatifs.
-  Updated: 2026-08-27T01:12:32Z
+  Updated: 2026-09-11T14:50:38Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1434,7 +1221,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/l-elegant-0626.webp?v=1780767005
     Price: 119,00 $ CAD
 - [Le Grand Luxe](https://cadeaugourmand.ca/products/le-grand-luxe): Coffret cadeau luxe québécois haut de gamme, une sélection soignée des meilleurs produits artisanaux du Québec pour une expérience gourmande inoubliable. 👑 L'excellence québécoise dans un seul coffret, pour ceux qui ne méritent que le meilleur. Le Grand Luxe est une ode aux saveurs d'exception. Chaque produit a été soigneusement sélectionné auprès des meilleurs artisans québécois pour offrir une expérience gourmande inoubliable. Un cadeau qui impressionne, qui émeut, et qui reste en mémoire bien après la dernière bouchée. ✨ 🚚 Livraison gratuite au Québec et en Ontario. 🛒 Ce que contient le coffret : 🦆 Bloc de foie gras de canard – 120 g | Les CanardisesUn foie gras d'une onctuosité remarquable, élevé et élaboré au Québec avec passion. 🍒 Gelée de cerise de terre et érable – 190 ml | Les ZempotésUne gelée artisanale d'une délicatesse unique, parfaite avec le foie gras ou les fromages fins. 🍁 Assaisonnement érable et poivre noir – 65 g | Blanc par RougeLe mariage parfait entre le sucre d'érable québécois et le poivre noir — une alliance sublime pour les viandes et les légumes. 🧄 Crème d'ail noir – 30 g | Ail en noir et blancOnctueuse, profonde et riche en umami — une crème d'exception qui transforme chaque plat. 🧂 Flocons de sel de mer – 125 g | Sel Saint-LaurentRécoltés dans le fleuve Saint-Laurent, ces flocons délicats rehaussent chaque bouchée avec élégance. 🥩 Assaisonnement bloc du boucher – 90 g | KanelUn mélange signature pour sublimer vos viandes comme un vrai chef. 🍞 Craquelins au sel de mer – 60 g | Auze par La Fabrique GourmandeCroustillants et raffinés, parfaits avec le foie gras, les fromages fins et les tartinades. 🍂 Sirop d'érable biologique extra rare – 50 ml | Érablière EscuminacUn sirop d'érable d'exception, récolté en fin de saison pour une saveur complexe et profonde. 🫐 Vinaigre balsamique de canneberge foncée – 100 ml | ZoëUn vinaigre artisanal aux notes fruitées et acidulées — idéal en vinaigrette ou en réduction. 🍫 Tartinade cacao noisette sans sucre ajouté – 200 g | SanaUne tartinade gourmande et saine, pour une fin sucrée sans compromis. ✨ Tous les produits proviennent d'artisans québécois d'exception.🎀 Coffret assemblé et emballé à la main avec soin.💌 Personnalisation incluse sur demande pour les cadeaux corporatifs.
-  Updated: 2026-09-08T21:32:47Z
+  Updated: 2026-09-11T23:54:26Z
   Vendor: La Grande Gourmandise
   Product Type: Coffret gourmand
   Availability: Available
@@ -1535,7 +1322,7 @@
     Image: https://cdn.shopify.com/s/files/1/2332/8537/files/brunch-festif.webp?v=1772050978
     Price: 68,00 $ CAD
 - [Chocolats fins Christophe Morel | Boîtes artisanales québécoises – Cadeau Gourmand](https://cadeaugourmand.ca/products/chocolats-fins-christophe-morel): Offrez les chocolats fins Christophe Morel, maître chocolatier québécois. Sphères caramélisées, ganaches et pralinés faits main. Boîtes de 9, 16 ou 25 pièces. Livraison partout au Canada.
-  Updated: 2026-09-05T15:36:07Z
+  Updated: 2026-09-13T17:33:51Z
   Vendor: La Grande Gourmandise
   Product Type: Chocolats fins
   Availability: Available
@@ -1942,61 +1729,61 @@
 ## Collections
 
 - [Nos coups de coeur](https://cadeaugourmand.ca/collections/coups-de-coeur): Ce qu'on aime, on le partage. Notre équipe a sélectionné pour vous les produits qui nous font craquer : des trouvailles artisanales, des saveurs surprenantes et des incontournables qu'on ne se lasse pas de recommander.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 8
 - [La Grande Gourmandise](https://cadeaugourmand.ca/collections/la-grande-gourmandise): Notre collection signature. La Grande Gourmandise rassemble nos coffrets et produits les plus généreux et les plus élaborés, pour ceux qui veulent offrir grand, avec goût et sans compromis.
   Updated: 2026-08-29T11:04:47Z
   Total Products: 7
 - [Notre sélection](https://cadeaugourmand.ca/collections/cadeaux): Coffrets cadeaux gourmands artisanaux du Québec. Paniers gourmets prêts-à-offrir pour entreprises, clients, famille. Produits du terroir québécois de qualité.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 50
 - [Cartes de voeux](https://cadeaugourmand.ca/collections/cartes-de-voeux): Candide et coloré, son univers illustré vous fera sourire. Stéphanie Renière fait valser les couleurs et l'eau, offrant des illustrations empreintes de légèreté.Choisissez une de ses magnifiques cartes pour vos voeux.
   Updated: 2026-08-21T14:53:34Z
   Total Products: 0
 - [Don au Fonds Jeune](https://cadeaugourmand.ca/collections/don-au-fonds-jeune): Les dons à notre Fonds Jeune nous permettent de remettre des bourses pour la persévérance scolaire des jeunes de chez nous. Déjà 21 500$ ont été remis à 17 écoles et organismes de partout au Québec.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-10T11:06:22Z
   Total Products: 3
 - [Noël](https://cadeaugourmand.ca/collections/noel): Des coffrets gourmands pensés pour le Temps des Fêtes. Des saveurs chaleureuses, des emballages féeriques et des produits artisanaux pour offrir la magie de la saison.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 20
 - [Épicurien](https://cadeaugourmand.ca/collections/epicurien): Pour ceux qui aiment bien manger et mieux boire. Des coffrets gourmands qui célèbrent les saveurs fines, les produits artisanaux et le plaisir de déguster sans retenue.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 15
 - [Réconfortant](https://cadeaugourmand.ca/collections/reconfortant): Des coffrets qui font du bien. Chaleureux, doux et savoureux, ils sont faits pour envelopper ceux qu’on aime dans un moment de pur réconfort.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 13
 - [Prestigieux](https://cadeaugourmand.ca/collections/prestigieux): Coffrets cadeaux gourmands luxueux à partir de 100$. Pour les grandes occasions et les cadeaux mémorables.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 12
 - [À partager](https://cadeaugourmand.ca/collections/a-partager): Des coffrets conçus pour être ouverts ensemble. Parfaits pour animer une tablée, célébrer un moment ou simplement profiter du plaisir de partager de bonnes choses.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 20
 - [Érable du Québec](https://cadeaugourmand.ca/collections/erable-du-quebec): L’or doux du Québec, à savourer toute l’année. Des coffrets et produits célébrant le sirop d’érable et les saveurs de notre terroir, pour offrir un morceau de chez nous en toute saison.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 16
 - [Chocolats & bonbons](https://cadeaugourmand.ca/collections/chocolats-bonbons): Chocolats fins, bonbons artisanaux et confiseries québécoises. Produits locaux de qualité supérieure, parfaits pour vos cadeaux gourmands.
   Updated: 2026-09-08T11:06:06Z
   Total Products: 22
 - [Cadeau d'entreprise](https://cadeaugourmand.ca/collections/cadeau-dentreprise): Des coffrets gourmands à l’image de votre marque. Idéaux pour vos clients, employés et partenaires d’affaires, disponibles en grande quantité avec livraison partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 27
 - [Félicitations](https://cadeaugourmand.ca/collections/felicitations): Pour souligner les belles étapes de la vie. Retraite, , remise de diplôme, naissance, mariage et plus encore : des coffrets gourmands pour célébrer avec goût ceux qui le méritent.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 19
 - [Cadeau d'hôtesse](https://cadeaugourmand.ca/collections/cadeau-dhotesse): Un merci qui se mange. Des coffrets gourmands élégants pour remercier celle ou celui qui vous reçoit, avec le soin et le goût qu’ils méritent.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 20
 - [Je pense à toi](https://cadeaugourmand.ca/collections/je-pense-a-toi): Parce que certaines personnes méritent qu’on leur montre qu’on pense à elles, sans attendre une occasion particulière. Des coffrets gourmands pour dire je t’aime, merci, ou simplement : je suis là.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 31
 - [Sans gluten](https://cadeaugourmand.ca/collections/sans-gluten): Des coffrets gourmands sans gluten, pour offrir sans compromis. Des produits artisanaux savoureux, sélectionnés avec soin pour ceux qui ont des restrictions alimentaires.
-  Updated: 2026-09-08T11:06:06Z
+  Updated: 2026-09-11T11:05:09Z
   Total Products: 5
 - [Végétarien](https://cadeaugourmand.ca/collections/vegetarien): Des coffrets gourmands 100% végétariens, pour offrir avec attention. Des produits artisanaux savoureux, sans viande, sélectionnés pour plaire à tous les palais.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-12T11:04:44Z
   Total Products: 26
 - [Sans taxes](https://cadeaugourmand.ca/collections/sans-taxes): Des produits non taxés
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 10
 - [](https://cadeaugourmand.ca/collections/): Dernière chance de profiter de ces cadeaux à prix réduit
   Updated: 2026-09-06T11:05:32Z
@@ -2005,28 +1792,28 @@
   Updated: 2026-08-21T14:51:26Z
   Total Products: 10
 - [Coffrets Découverte](https://cadeaugourmand.ca/collections/coffrets-decouverte): Coffrets découverte avec assortiments de produits artisanaux québécois : chocolats, confiseries, sirops. Parfait pour découvrir nos spécialités gourmandes.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 12
 - [Campagnes de financement](https://cadeaugourmand.ca/collections/campagnes-financement): Produits gourmands pour campagnes de financement scolaire : 30% de marge, chocolats artisanaux québécois, livraison gratuite. Idéal voyage scolaire et projets.
-  Updated: 2026-09-04T11:05:41Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 5
 - [Détaillants](https://cadeaugourmand.ca/collections/detaillants): Produits artisanaux québécois disponibles pour nos détaillants partenaires.
   Updated: 2026-06-30T14:38:21Z
   Total Products: 19
 - [Je pense à toi / Fête](https://cadeaugourmand.ca/collections/je-pense-a-toi-fete): Coffrets cadeaux gourmands pour anniversaires, fêtes et petites attentions. Livraison partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 35
 - [Entreprise / Quantité](https://cadeaugourmand.ca/collections/entreprise-quantite): Coffrets gourmands pour entreprises et commandes en volume. Livraison partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 27
 - [Noël / Événement](https://cadeaugourmand.ca/collections/noel-evenement): Coffrets gourmands pour Noël, retraite et fêtes spéciales. Livraison partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 36
 - [Moins de 50$](https://cadeaugourmand.ca/collections/moins-de-50): Coffrets cadeaux gourmands à moins de 50$. Des idées cadeaux savoureux et accessibles, livrés partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 67
 - [50$ à 100$](https://cadeaugourmand.ca/collections/50-a-100): Coffrets cadeaux gourmands entre 50$ et 100$. Généreux et savoureux, livrés partout au Canada.
-  Updated: 2026-09-09T11:05:55Z
+  Updated: 2026-09-15T11:05:03Z
   Total Products: 20
 
 ## Blogs
@@ -2136,6 +1923,12 @@
   Updated: 2026-08-21T18:07:17Z
 - [Fiche Client Ouverture de Compte](https://cadeaugourmand.ca/pages/fiche-client-ouverture-de-compte): window.jotformEmbedHandler("iframe[id='JotFormIFrame-262426054329052']", "https://form.jotform.com/")
   Updated: 2026-08-31T20:32:47Z
+- [Canneberges enrobées chocolat noir](https://cadeaugourmand.ca/pages/canneberges-enrobees-chocolat-noir): Enrobage de chocolat (chocolat non sucré, sucre, beurre de cacao, lécithine de soja (émulsifiant), extrait de vanille), Canneberges, Agent de glaça...
+  Updated: 2026-09-15T20:31:17Z
+- [Bonbons sûrs](https://cadeaugourmand.ca/pages/bonbons-surs): BONBONS SÛRS Sour Candies Ingrédients : Sirop de maïs, sucre, eau, gélatine, acide lactique, acide citrique, arômes naturels et artificiels, acide ...
+  Updated: 2026-09-15T20:34:11Z
+- [Duo canneberges et amandes au chocolat noir](https://cadeaugourmand.ca/pages/duo-amandes-et-canneberges-au-chocolat-noir): CannebergesChocolat noir (sucre, chocolat non sucré, beurre de cacao, lécithine de soja), canneberges séchées (canneberges, sucre de canne, huile d...
+  Updated: 2026-09-15T21:09:31Z
 
 ## Policies
 
