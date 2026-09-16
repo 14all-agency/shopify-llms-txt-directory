@@ -6,14 +6,14 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-08-18T01:24:17Z
 - Contact Email: zoramasc211@gmail.com
-- Updated At: 2026-09-09T03:48:57.725Z
+- Updated At: 2026-09-16T04:00:26.161Z
 
 Zora stands out for therapeutic technology designed to enhance the human body, improving both aesthetics and performance; it rejuvenates, replenishes, and enhances.
 
 ## Products
 
-- [Red Light Hair & Scalp Care Cap | Zora](https://zora-10211.myshopify.com/products/zora-red-light-hair-scalp-care-cap): Hands-free red light and LED scalp-care technology for a simple, elevated at-home personal-care routine.
-  Updated: 2026-09-09T02:21:36Z
+- [Red Light Hair Scalp Cap | Zora](https://zora-10211.myshopify.com/products/zora-red-light-hair-scalp-care-cap): Shop a wearable red light hair and scalp care cap with 48 LEDs, red and blue light modes, rechargeable battery and hands-free use.
+  Updated: 2026-09-16T02:48:27Z
   Vendor: Zora
   Product Type: Light Therapy Devices
   Availability: Available
@@ -34,37 +34,37 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sdfe39d21a48645568b86ce266fd0e1dcd.webp?v=1787067316
     Price: €119.99 EUR
-- [M300 LED Face Mask | Zora Beauty](https://zora-10211.myshopify.com/products/zora-m300-led-face-mask): A premium wearable LED facial-care device designed for a refined, convenient at-home self-care ritual.
-  Updated: 2026-09-09T02:21:47Z
+- [M300 LED Face Mask Red Blue NIR | Zora](https://zora-10211.myshopify.com/products/zora-m300-led-face-mask): Shop the M300 LED face mask with 311 LEDs, red, blue, amber and near-infrared light modes for an at-home skincare routine.
+  Updated: 2026-09-16T02:48:55Z
   Vendor: Zora
   Product Type: Light Therapy Devices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S73f0d6953e3f4f028557ea02813a49da0.webp?v=1787067317
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S73f0d6953e3f4f028557ea02813a49da0.webp?v=1788961991
   Price: €199.00 EUR
-- [3-in-1 Facial Massage & Light Care Device | Zora](https://zora-10211.myshopify.com/products/zora-3-in-1-facial-massage-light-care-device): Elevated at-home facial self-care with massage, light-based care and microcurrent features in one refined beauty device.
-  Updated: 2026-09-09T01:54:43Z
+- [ES-1081 3-in-1 Facial Beauty Device | Zora](https://zora-10211.myshopify.com/products/zora-es-1081-3-in-1-facial-neck-eye-beauty-device): ES-1081 3-in-1 facial, neck and eye beauty device combining LED light, EMS microcurrent, sonic vibration and gentle heat.
+  Updated: 2026-09-16T02:48:30Z
   Vendor: Zora
   Product Type: Facial Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf94cc810b56b4043aa7264a6fc8565ddl.webp?v=1787871026
-  - [Red 2pcs](https://zora-10211.myshopify.com/products/zora-3-in-1-facial-massage-light-care-device?variant=55884214337704)
+  - [Red 2pcs](https://zora-10211.myshopify.com/products/zora-es-1081-3-in-1-facial-neck-eye-beauty-device?variant=55884214337704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sb1f82a9c96114d1a86d7007c6ded5c58v.webp?v=1787067318
     Price: €149.99 EUR
-  - [Red](https://zora-10211.myshopify.com/products/zora-3-in-1-facial-massage-light-care-device?variant=55884214370472)
+  - [Red](https://zora-10211.myshopify.com/products/zora-es-1081-3-in-1-facial-neck-eye-beauty-device?variant=55884214370472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sb9214efc6b1a4b2c9075b83ecd768203J.webp?v=1787067318
     Price: €129.99 EUR
-  - [Black 2pcs](https://zora-10211.myshopify.com/products/zora-3-in-1-facial-massage-light-care-device?variant=55884214403240)
+  - [Black 2pcs](https://zora-10211.myshopify.com/products/zora-es-1081-3-in-1-facial-neck-eye-beauty-device?variant=55884214403240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc97eece9aad647cd9965b7435de81941p.webp?v=1787067318
     Price: €149.99 EUR
-  - [White](https://zora-10211.myshopify.com/products/zora-3-in-1-facial-massage-light-care-device?variant=55884214436008)
+  - [White](https://zora-10211.myshopify.com/products/zora-es-1081-3-in-1-facial-neck-eye-beauty-device?variant=55884214436008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6a371e4828cd49b38ee43b14426e5116D.webp?v=1787067318
     Price: €129.99 EUR
-- [Zora Cervical Neck Pillow | Zora](https://zora-10211.myshopify.com/products/zora-soybean-fiber-cervical-neck-pillow): A soft cervical pillow designed for comfortable neck support during sleep and rest.
-  Updated: 2026-09-09T02:22:03Z
+- [Soybean Fiber Cervical Neck Pillow | Zora](https://zora-10211.myshopify.com/products/zora-soybean-fiber-cervical-neck-pillow): Contoured soybean fiber cervical neck pillow designed for comfortable sleep support and everyday neck comfort.
+  Updated: 2026-09-16T02:49:16Z
   Vendor: Zora
   Product Type: Cervical Pillows
   Availability: Available
@@ -77,15 +77,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S4b7415b279084747b5d3058f67c3f682M.webp?v=1787870953
     Price: €65.00 EUR
-- [Zora Memory Foam Cervical Pillow | Neck Comfort](https://zora-10211.myshopify.com/products/zora-memory-foam-cervical-pillow): Discover the Zora Memory Foam Cervical Pillow, a contoured memory foam design made for comfortable neck support during sleep and rest.
-  Updated: 2026-09-09T02:22:17Z
+- [Memory Foam Cervical Pillow | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-cervical-pillow): Contoured memory foam cervical pillow designed for comfortable neck support during sleep and everyday rest.
+  Updated: 2026-09-16T02:49:43Z
   Vendor: Zora
   Product Type: Cervical Pillows
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S92621b2367d84de5bc2b212eb36980b7L.webp?v=1788832081
   Price: €85.00 EUR
-- [Zora Booster M2 Massage Gun | Recovery](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun): A high-performance percussion massage gun selected by Zora for adjustable, targeted at-home muscle massage and recovery routines.
-  Updated: 2026-09-09T01:03:33Z
+- [Booster M2 Percussion Massage Gun | Zora](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun): Booster M2 cordless percussion massage gun for muscle relaxation, fitness routines and post-workout recovery care.
+  Updated: 2026-09-16T02:48:51Z
   Vendor: Zora
   Product Type: Massage 
   Availability: Available
@@ -93,77 +93,63 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
   - [99 GEAR GREY / Type C Charge](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun?variant=55900755624104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S5a405c21c45e48299e80fa82fff25987G.webp?v=1787421715
-    Price: €99.99 EUR
+    Price: €109.99 EUR
   - [99 GEAR BLACK / Type C Charge](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun?variant=55900755656872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf0a57b5654204caa8114ce6fd70daa426.webp?v=1788831314
-    Price: €99.99 EUR
+    Price: €109.99 EUR
   - [6 GEAR GREY / Type C Charge](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun?variant=55900755689640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3908902a8de54e109e48010dc2d703d8S.webp?v=1788831546
-    Price: €99.99 EUR
+    Price: €79.99 EUR
   - [6 GEAR BLACK / Type C Charge](https://zora-10211.myshopify.com/products/zora-booster-m2-percussion-massage-gun?variant=55900755722408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se4785b6840fc4cbb9bb7f72d1ccb54e9Z.webp?v=1788831432
-    Price: €99.99 EUR
-- [Lip & Eye Care Massager | Zora](https://zora-10211.myshopify.com/products/zora-3-in-1-lip-eye-care-massager-precision-beauty-device): A compact lip and eye care massager selected by Zora for a gentle, relaxing self-care routine.
-  Updated: 2026-09-09T01:56:29Z
+    Price: €79.99 EUR
+- [3-in-1 Lip & Eye Care Massager | Zora](https://zora-10211.myshopify.com/products/zora-3-in-1-lip-eye-care-massager-precision-beauty-device): 3-in-1 lip and eye care massager combining targeted beauty care features in a compact device for an easy at-home routine.
+  Updated: 2026-09-16T02:48:51Z
   Vendor: Zora
   Product Type: Facial Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Scfaa774963bd4619a5f07941b2b8dea0e.webp?v=1788831631
   Price: €79.99 EUR
-- [Zora Smart Eye Massager with Bluetooth | Self-Care](https://zora-10211.myshopify.com/products/zora-smart-eye-massager-with-bluetooth-relaxation-self-care-device): Explore the Zora Smart Eye Massager with Bluetooth for convenient relaxation and everyday eye-care self-care routines.
-  Updated: 2026-09-09T00:58:48Z
-  Vendor: Zora
-  Product Type: Eye Massagers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S65a48e8cb30848ffb3551e4eaf3e7bbfY.webp?v=1787870849
-  - [With Box](https://zora-10211.myshopify.com/products/zora-smart-eye-massager-with-bluetooth-relaxation-self-care-device?variant=55900780298408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3de0e0a3640c49bc98595d2dff9fbca77.webp?v=1788831403
-    Price: €99.99 EUR
-  - [Without Box](https://zora-10211.myshopify.com/products/zora-smart-eye-massager-with-bluetooth-relaxation-self-care-device?variant=55900780331176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8347402f1b354b6aa2994fd10898d59fH.webp?v=1788831692
-    Price: €99.99 EUR
-- [Zora 4D Neck & Shoulder Massager | Heat](https://zora-10211.myshopify.com/products/zora-4d-neck-shoulder-massager-with-heat): A wearable neck and shoulder massager with heat selected by Zora for relaxing, recovery-focused self-care at home.
-  Updated: 2026-09-09T02:05:16Z
+- [4D Neck & Shoulder Massager with Heat | Zora](https://zora-10211.myshopify.com/products/zora-4d-neck-shoulder-massager-with-heat): 4D neck and shoulder massager with heat and wireless bionic-finger-style massage for everyday relaxation at home.
+  Updated: 2026-09-16T02:48:53Z
   Vendor: Zora
   Product Type: Neck & Shoulder Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S5e06e1cbf71141458c556ff9861983b3I.webp?v=1787870810
-  Price: €89.99 EUR
-- [Zora Smart Posture Corrector | App Tracking](https://zora-10211.myshopify.com/products/zora-smart-posture-corrector-with-app-tracking): A lightweight smart posture-awareness wearable with Bluetooth and app tracking, selected by Zora for mindful everyday posture routines.
-  Updated: 2026-09-09T01:11:48Z
+  Price: €84.99 EUR
+- [Smart Posture Corrector with App | Zora](https://zora-10211.myshopify.com/products/zora-smart-posture-corrector-with-app-tracking): Smart wearable posture corrector with app tracking and Bluetooth features for posture-awareness routines and everyday use.
+  Updated: 2026-09-16T02:49:21Z
   Vendor: Zora
   Product Type: Posture Correctors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd64655125b4b47c3a68ce5e777278e15J.webp?v=1788832072
   Price: €45.00 EUR
-- [Zora Cordless Knee Massager with Heat & Compression](https://zora-10211.myshopify.com/products/zora-cordless-knee-massager-heat-compression-vibration): Shop the Zora Cordless Knee Massager with heat, air compression, and vibration for a comfortable at-home wellness routine.
-  Updated: 2026-09-09T00:58:17Z
+- [Cordless Knee Massager with Heat | Zora](https://zora-10211.myshopify.com/products/zora-cordless-knee-massager-heat-compression-vibration): Cordless knee massager with heat, air compression and vibration for an easy at-home wellness and relaxation routine.
+  Updated: 2026-09-16T02:48:32Z
   Vendor: Zora
   Product Type: Knee Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d83fe1e54bc45fb8d84fd44b9ef3184H.webp?v=1787874464
-  Price: €89.00 EUR
-- [Cordless Hand Massage & Comfort Device | Zora](https://zora-10211.myshopify.com/products/zora-cordless-hand-massage-comfort-device): A premium cordless hand massage device with air compression and gentle warmth for everyday comfort and self-care.
-  Updated: 2026-09-09T01:41:57Z
+  Price: €89.99 EUR
+- [Hand Massager with Heat & Compression | Zora](https://zora-10211.myshopify.com/products/zora-intelligent-hand-massager-with-heat-air-compression): Rechargeable hand massager with heat, air compression, adjustable intensity and a 15-minute session for everyday hand relaxation.
+  Updated: 2026-09-16T02:48:28Z
   Vendor: Zora
   Product Type: Hand Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sa1b3fb22a92642cca0352a328e831938A.webp?v=1788831538
-  - [White With Box / China Mainland](https://zora-10211.myshopify.com/products/zora-cordless-hand-massage-comfort-device?variant=55922697502888)
+  - [White With Box / China Mainland](https://zora-10211.myshopify.com/products/zora-intelligent-hand-massager-with-heat-air-compression?variant=55922697502888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sb3489aae16494379af7d1ffc0e352d3ah.webp?v=1788831919
-    Price: €149.99 EUR
-  - [White No Box / China Mainland](https://zora-10211.myshopify.com/products/zora-cordless-hand-massage-comfort-device?variant=55922697535656)
+    Price: €159.99 EUR
+  - [White No Box / China Mainland](https://zora-10211.myshopify.com/products/zora-intelligent-hand-massager-with-heat-air-compression?variant=55922697535656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S85ded7757a4e437e8187b86c7172ec2bR.webp?v=1788831993
-    Price: €149.99 EUR
-- [Air Compression Leg Massage System | Zora](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system): A premium air-compression massage system designed for everyday leg relaxation, recovery routines and home wellness.
-  Updated: 2026-09-09T01:42:11Z
+    Price: €159.99 EUR
+- [Air Compression Leg Massager | Zora](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system): Full-leg air compression massage system for sequential compression, relaxation and everyday recovery routines at home.
+  Updated: 2026-09-16T02:48:51Z
   Vendor: Zora
   Product Type: Leg Massagers
   Availability: Available
@@ -171,119 +157,105 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
   - [Large / AU](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885197992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S49cba828cc0049849c6f10be6e54a0b6l.webp?v=1788831666
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large type-c / UK](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885230760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3160a19669f04f3a9aa94ca53e045d20r.webp?v=1787928066
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large type-c / AU](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885263528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3160a19669f04f3a9aa94ca53e045d20r.webp?v=1787928066
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large / EU Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885296296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S49cba828cc0049849c6f10be6e54a0b6l.webp?v=1788831666
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large type-c / US Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885329064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3160a19669f04f3a9aa94ca53e045d20r.webp?v=1787928066
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large / UK](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885361832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S49cba828cc0049849c6f10be6e54a0b6l.webp?v=1788831666
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large type-c / EU Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885394600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3160a19669f04f3a9aa94ca53e045d20r.webp?v=1787928066
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Medium / AU](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885427368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd38a9b966deb4d65a8a1bb2c4de748a8Y.webp?v=1787876706
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Large / US Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885460136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S49cba828cc0049849c6f10be6e54a0b6l.webp?v=1788831666
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Medium / EU Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885492904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd38a9b966deb4d65a8a1bb2c4de748a8Y.webp?v=1787876706
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Medium / UK](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885525672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd38a9b966deb4d65a8a1bb2c4de748a8Y.webp?v=1787876706
-    Price: €199.00 EUR
+    Price: €179.99 EUR
   - [Medium / US Plug](https://zora-10211.myshopify.com/products/zora-air-compression-leg-massage-system?variant=55922885558440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd38a9b966deb4d65a8a1bb2c4de748a8Y.webp?v=1787876706
-    Price: €199.00 EUR
-- [3D Eye Relaxation Massager | Zora](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager): A wearable eye-area massage device designed for calming breaks, evening downtime and elevated personal care.
-  Updated: 2026-09-09T02:02:20Z
+    Price: €179.99 EUR
+- [3D Eye Relaxation Massager | Zora](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager-wearable-eye-care): Wearable 3D eye relaxation massager designed for hands-free eye-area comfort and a convenient personal-care routine.
+  Updated: 2026-09-16T02:48:54Z
   Vendor: Zora
   Product Type: Eye Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3083a69990d7441dbc718bbc1d0d3b3fH.webp?v=1788060809
-  - [WHITE](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager?variant=55928021745832)
+  - [WHITE](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager-wearable-eye-care?variant=55928021745832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc01e12eaa92644d6b9eed2755885d4c5w.webp?v=1788060809
     Price: €89.99 EUR
-  - [No vibration](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager?variant=55928021778600)
+  - [No vibration](https://zora-10211.myshopify.com/products/zora-3d-eye-relaxation-massager-wearable-eye-care?variant=55928021778600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc6d9cf44e67246239ffc9caf0935f5afI.webp?v=1788060809
     Price: €89.99 EUR
-- [LED Facial Massage & Wellness Belt | Zora](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt): A wearable facial self-care device combining LED light-based care and massage for an elevated everyday beauty ritual.
-  Updated: 2026-09-09T01:42:26Z
+- [LED Facial Massage Light Therapy Belt | Zora](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt): Wearable LED facial massage belt with five light colors, vibration levels and warming comfort for an at-home beauty routine.
+  Updated: 2026-09-16T02:49:16Z
   Vendor: Zora
   Product Type: Facial Massagers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd4275e50da8b4a108c31ea827c580108p.webp?v=1788060810
-  - [pink 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021811368)
+  - [pink 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021811368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sa1039f3830674426a95a2d03701a71aa2.webp?v=1788831532
     Price: €99.99 EUR
-  - [green 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021844136)
+  - [green 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021844136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0a096f48476f482cbb40a91c7bbfebfbB.webp?v=1788831368
     Price: €99.99 EUR
-  - [Dark green 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021876904)
+  - [Dark green 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021876904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se6d1c81b63a244da9936f0384c62f7b2q.webp?v=1788831571
     Price: €99.99 EUR
-  - [green 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021909672)
+  - [green 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021909672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S70686ce670fe4a34ba74d454a8281feav.webp?v=1788831323
     Price: €99.99 EUR
-  - [pink 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021942440)
+  - [pink 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021942440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0600834603cc4ae7999f41ccfcf941b5s.webp?v=1788831393
     Price: €99.99 EUR
-  - [Dark green 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928021975208)
+  - [Dark green 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928021975208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2c553f552d7749c4a5b3963cf823331cG.webp?v=1788831354
     Price: €99.99 EUR
-  - [white 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928022007976)
+  - [white 12 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928022007976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0ea40cab1d3e45358f799d764c61b9ddj.webp?v=1788831441
     Price: €99.99 EUR
-  - [white 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-wellness-belt?variant=55928022040744)
+  - [white 3 grades](https://zora-10211.myshopify.com/products/zora-led-facial-massage-light-therapy-belt?variant=55928022040744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8b281651dd2d42d6817b343fe613a2411.webp?v=1788831522
     Price: €99.99 EUR
-- [Zora Warm Steam Eye Relaxation Mask | Self-Care](https://zora-10211.myshopify.com/products/zora-warm-steam-eye-comfort-mask): Discover a warm steam eye mask from Zora designed for relaxing, screen-break, and evening self-care routines.
-  Updated: 2026-09-09T01:51:38Z
-  Vendor: Zora
-  Product Type: Eye Massagers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc0c3e35c98644ad9b004a49a1129b0a8l.webp?v=1788831481
-  - [Black / China Mainland](https://zora-10211.myshopify.com/products/zora-warm-steam-eye-comfort-mask?variant=55928022073512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S715ab73374c14bf6a32c04a62b9f5498M.webp?v=1788832065
-    Price: €99.99 EUR
-  - [White / China Mainland](https://zora-10211.myshopify.com/products/zora-warm-steam-eye-comfort-mask?variant=55928022106280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf67354498adf44d2b4f2bd52fb805822W.webp?v=1788832055
-    Price: €99.99 EUR
-- [Inflatable Neck Support Pillow | Zora](https://zora-10211.myshopify.com/products/zora-inflatable-neck-support-pillow-adjustable-travel-comfort): A portable inflatable neck-support pillow selected by Zora for comfortable relaxation at home, work, or while traveling.
-  Updated: 2026-09-09T00:58:34Z
+- [Inflatable Neck Support Travel Pillow | Zora](https://zora-10211.myshopify.com/products/zora-inflatable-neck-support-pillow-adjustable-travel-comfort): Adjustable inflatable neck support pillow for travel, relaxation and portable comfort at home or on the go.
+  Updated: 2026-09-16T02:49:21Z
   Vendor: Zora
   Product Type: Neck Support Pillows
   Availability: Available
@@ -296,33 +268,33 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd73795962ab6496c8bd9ada9cdcce573b.webp?v=1788063870
     Price: €59.00 EUR
-- [Zora 7-Color LED Facial & Body Mask | Beauty Device](https://zora-10211.myshopify.com/products/zora-7-color-led-facial-body-mask): Shop the Zora 7-Color LED Facial & Body Mask for a simple, reusable at-home beauty and self-care routine.
-  Updated: 2026-09-09T00:58:06Z
+- [7-Color LED Facial & Body Mask | Zora](https://zora-10211.myshopify.com/products/zora-7-color-led-facial-body-mask): 7-color LED facial and body mask with selectable light modes for an at-home beauty and wellness routine.
+  Updated: 2026-09-16T02:48:53Z
   Vendor: Zora
   Product Type: LED Face Devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2d8d316b998a4c98887e26e7eb1d3dd90.webp?v=1788063870
   Price: €199.99 EUR
-- [Zora 7-in-1 Facial Care Device | At-Home Beauty](https://zora-10211.myshopify.com/products/zora-7-in-1-facial-care-device): Explore the Zora 7-in-1 Facial Care Device, a versatile at-home beauty tool for a more considered facial-care routine.
-  Updated: 2026-09-09T01:51:51Z
+- [7-in-1 Hydro Facial Care System | Zora](https://zora-10211.myshopify.com/products/zora-7-in-1-hydro-facial-care-system): 7-in-1 hydro facial care system combining multiple facial-care functions for spa-inspired skincare and professional beauty routines.
+  Updated: 2026-09-16T02:48:52Z
   Vendor: Zora
   Product Type: Facial Care Devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S9fcaccf8614b4c67ab38808447ae6510w.webp?v=1788063871
-  - [220v](https://zora-10211.myshopify.com/products/zora-7-in-1-facial-care-device?variant=55928086495400)
+  - [220v](https://zora-10211.myshopify.com/products/zora-7-in-1-hydro-facial-care-system?variant=55928086495400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sea42dc3b958c48e5a73750aeb5341e8eh.webp?v=1788824369
     Price: €399.99 EUR
-  - [DL](https://zora-10211.myshopify.com/products/zora-7-in-1-facial-care-device?variant=55928086528168)
+  - [DL](https://zora-10211.myshopify.com/products/zora-7-in-1-hydro-facial-care-system?variant=55928086528168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd4303dffcabe47a490ac08d83a0f001cI.webp?v=1788063871
     Price: €399.99 EUR
-  - [110v](https://zora-10211.myshopify.com/products/zora-7-in-1-facial-care-device?variant=55928086560936)
+  - [110v](https://zora-10211.myshopify.com/products/zora-7-in-1-hydro-facial-care-system?variant=55928086560936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sea42dc3b958c48e5a73750aeb5341e8eh.webp?v=1788824369
     Price: €399.99 EUR
-- [Professional LED Beauty Work Light | Zora](https://zora-10211.myshopify.com/products/zora-professional-led-beauty-work-light): Adjustable LED beauty work light for lash, makeup, manicure, grooming and precision-focused beauty setups at home or in the salon.
-  Updated: 2026-09-09T01:52:03Z
+- [LED Beauty Work Light for Salon | Zora](https://zora-10211.myshopify.com/products/zora-professional-led-beauty-work-light): Professional LED beauty work light for lash extensions, makeup, skincare and salon work with adjustable brightness and color temperature.
+  Updated: 2026-09-16T02:48:28Z
   Vendor: Zora
   Product Type: Beauty Salon Lamps
   Availability: Available
@@ -399,8 +371,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6b46cb9b784148d5ba40ba91cd055155y.webp?v=1788825139
     Price: €179.99 EUR
-- [UV LED Gel Nail Curing Lamp | Zora](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp): 18-bead UV/LED gel nail curing lamp with USB power for convenient at-home manicures and professional-style nail stations.
-  Updated: 2026-09-09T01:52:14Z
+- [LED Gel Nail Curing Lamp | Zora](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp): USB-powered LED gel nail curing lamp for home manicures, salon stations and convenient gel-polish curing.
+  Updated: 2026-09-16T02:49:18Z
   Vendor: Zora
   Product Type: Nail Care Devices
   Availability: Available
@@ -408,29 +380,29 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
   - [Pink-801 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086626472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se8b950712370446a9e9f5606f7330ffcI.webp?v=1788825458
-    Price: €49.99 EUR
+    Price: €59.99 EUR
   - [White-801 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086659240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se2b4050c84ae4a33895b027e5ef96363Y.webp?v=1788825810
-    Price: €49.99 EUR
+    Price: €59.99 EUR
   - [Pink-803 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086692008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S4f30ee2364e549d7b5b94e096e94bde7V.webp?v=1788825533
-    Price: €49.99 EUR
+    Price: €59.99 EUR
   - [White-803 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086724776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf191f4dcee2d432f93485af4c0b755faS.webp?v=1788825589
-    Price: €49.99 EUR
+    Price: €59.99 EUR
   - [Pink-802 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086757544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S13cc59cd38054c7cad85a06f6595466bt.webp?v=1788825830
-    Price: €49.99 EUR
+    Price: €59.99 EUR
   - [White-802 / USB](https://zora-10211.myshopify.com/products/zora-led-gel-nail-curing-lamp?variant=55928086790312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc40a65dba3214d43b5dab7d99bff9b42m.webp?v=1788825895
-    Price: €49.99 EUR
-- [Zora Acupressure Massage Mat & Pillow Set | Home Relaxation](https://zora-10211.myshopify.com/products/zora-acupressure-massage-mat-pillow-set): Explore the Zora Acupressure Massage Mat & Pillow Set, a battery-free wellness tool designed for at-home relaxation and massage.
-  Updated: 2026-09-09T01:54:32Z
+    Price: €59.99 EUR
+- [Acupressure Massage Mat & Pillow Set | Zora](https://zora-10211.myshopify.com/products/zora-acupressure-massage-mat-pillow-set): Acupressure massage mat and pillow set for a tactile at-home relaxation routine, stretching and everyday wellness.
+  Updated: 2026-09-16T02:48:52Z
   Vendor: Zora
   Product Type: Massage Mats
   Availability: Available
@@ -455,8 +427,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0a4961337aa8494ebbbb0d1fc884c773d.webp?v=1788823199
     Price: €49.99 EUR
-- [Zora LED Touch Makeup Mirror | Rechargeable Beauty Mirror](https://zora-10211.myshopify.com/products/zora-led-touch-makeup-mirror): Discover the Zora LED Touch Makeup Mirror with three light modes, rechargeable power, and a foldable design for home or travel.
-  Updated: 2026-09-09T02:27:06Z
+- [LED Touch Makeup Mirror | Zora](https://zora-10211.myshopify.com/products/zora-led-touch-makeup-mirror): Rechargeable LED touch makeup mirror with adjustable lighting for makeup application, skincare and beauty routines.
+  Updated: 2026-09-16T02:49:19Z
   Vendor: Zora
   Product Type: Makeup Mirrors
   Availability: Available
@@ -469,8 +441,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2fee1571d2dc45a98887b5566ba544fan.webp?v=1788825761
     Price: €25.00 EUR
-- [Zora Electric Face & Neck Massager | At-Home Beauty Tool](https://zora-10211.myshopify.com/products/zora-electric-face-neck-massager): Shop the Zora Electric Face & Neck Massager, a compact cordless beauty tool designed for gentle facial and neck massage at home.
-  Updated: 2026-09-09T02:22:45Z
+- [Electric Face & Neck Massager | Zora](https://zora-10211.myshopify.com/products/zora-electric-face-neck-massager): Electric face and neck massager for a convenient at-home beauty and wellness routine with a comfortable handheld design.
+  Updated: 2026-09-16T02:48:32Z
   Vendor: Zora
   Product Type: Facial Massagers
   Availability: Available
@@ -483,8 +455,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S35595695a58144af812eac9ebca8e63do.webp?v=1788825862
     Price: €25.00 EUR
-- [Bio-Collagen Hydrating Overnight Face Mask | Zora](https://zora-10211.myshopify.com/products/bio-collagen-hydrating-overnight-face-mask): A two-piece bio-collagen face mask selected by Zora for an extended, hydration-focused skincare ritual.
-  Updated: 2026-09-09T01:41:31Z
+- [Bio-Collagen Overnight Face Mask | Zora](https://zora-10211.myshopify.com/products/bio-collagen-hydrating-overnight-face-mask): Bio-collagen hydrating overnight face mask for an evening skincare routine focused on moisture and a fresh, comfortable skin feel.
+  Updated: 2026-09-16T02:49:52Z
   Vendor: Zora
   Product Type: Skincare - Face Masks
   Availability: Available
@@ -509,8 +481,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d0aad81fc704f5586551cccb51b319aT.webp?v=1788067881
     Price: €9.99 EUR
-- [Peptide + Hyaluronic Acid Face Serum | Zora](https://zora-10211.myshopify.com/products/peptide-hyaluronic-acid-collagen-face-serum): A lightweight peptide, hyaluronic acid and collagen face serum selected by Zora for a hydration-focused skincare routine.
-  Updated: 2026-09-09T01:45:30Z
+- [Peptide Hyaluronic Collagen Face Serum | Zora](https://zora-10211.myshopify.com/products/peptide-hyaluronic-acid-collagen-face-serum): Peptide, hyaluronic acid and collagen face serum for a lightweight, hydration-focused skincare routine.
+  Updated: 2026-09-16T02:49:41Z
   Vendor: Zora
   Product Type: Skincare - Serums
   Availability: Available
@@ -523,15 +495,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S372be8f3bcad45cabd52102b7c907177Q.webp?v=1788067882
     Price: €17.99 EUR
-- [Zora Nano Facial Mist Device | Portable](https://zora-10211.myshopify.com/products/zora-nano-facial-mist-care-device): A portable nano-mist facial care device selected by Zora for a fresh, hydration-focused beauty routine at home or on the go.
-  Updated: 2026-09-09T00:47:30Z
+- [Nano Facial Mist & Care Device | Zora](https://zora-10211.myshopify.com/products/zora-nano-facial-mist-care-device): Portable nano facial mist device that adds a fine misting step to hydration-focused skincare and personal-care routines.
+  Updated: 2026-09-16T02:49:22Z
   Vendor: Zora
   Product Type: Facial Care Devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf347d61db83d4ce5958da3bd14be10323.webp?v=1788067883
   Price: €39.00 EUR
-- [4-in-1 Electric Facial Cleansing Brush | Zora](https://zora-10211.myshopify.com/products/zora-4-in-1-electric-facial-cleansing-brush-waterproof-beauty-device): Premium 4-in-1 electric facial cleansing brush with IPX7 water resistance for a refined at-home skincare cleansing routine.
-  Updated: 2026-09-09T02:05:04Z
+- [4-in-1 Electric Facial Cleansing Brush | Zora](https://zora-10211.myshopify.com/products/zora-4-in-1-electric-facial-cleansing-brush-waterproof-beauty-device): Waterproof 4-in-1 electric facial cleansing brush for deep cleansing, pore care and a convenient daily skincare routine.
+  Updated: 2026-09-16T02:48:53Z
   Vendor: Zora
   Product Type: Facial Cleansing Devices
   Availability: Available
@@ -548,22 +520,22 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0c9c0caea465473999ffce4209086225R.webp?v=1788823539
     Price: €49.00 EUR
-- [Caviar + Hyaluronic Acid Facial Masks | Zora](https://zora-10211.myshopify.com/products/sadoer-caviar-hyaluronic-acid-facial-masks-5-pack-brightening-firming): Five facial sheet masks selected by Zora for a simple, hydration-focused at-home skincare ritual.
-  Updated: 2026-09-09T01:46:32Z
+- [SADOER Caviar Hyaluronic Acid Face Mask | Zora](https://zora-10211.myshopify.com/products/sadoer-caviar-hyaluronic-acid-facial-masks-5-pack-brightening-firming): SADOER caviar and hyaluronic acid facial masks for a hydration-focused sheet-mask step in a daily skincare routine.
+  Updated: 2026-09-16T02:49:23Z
   Vendor: Zora
   Product Type: Skincare - Face Masks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S34d500374d764bb1933bb31162ce71ccz.webp?v=1788824277
   Price: €12.99 EUR
-- [Gentle Hydration Facial Cleanser | Zora](https://zora-10211.myshopify.com/products/glacier-hydration-facial-cleanser-gentle-deep-pore-cleansing): A gentle facial cleanser selected by Zora for comfortable, straightforward everyday skincare.
-  Updated: 2026-09-09T01:44:30Z
+- [Glacier Hydration Facial Cleanser | Zora](https://zora-10211.myshopify.com/products/glacier-hydration-facial-cleanser-gentle-deep-pore-cleansing): Gentle hydrating facial cleanser for daily cleansing and pore care with a comfortable, fresh-feeling finish.
+  Updated: 2026-09-16T02:49:42Z
   Vendor: Zora
   Product Type: Skincare - Cleansers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se2915ee36e6c4f8d90008f6c418d1dd7n.webp?v=1788067884
   Price: €12.99 EUR
-- [Peptide Hydrating Face Ampoule | Zora](https://zora-10211.myshopify.com/products/zora-peptide-hydrating-face-ampoule): A concentrated peptide ampoule selected by Zora for a refined, hydration-focused facial skincare routine.
-  Updated: 2026-09-09T02:30:57Z
+- [Peptide Hydrating Face Ampoule | Zora](https://zora-10211.myshopify.com/products/zora-peptide-hydrating-face-ampoule): Lightweight peptide face ampoule for hydration-focused skincare. Easy to layer before moisturizer in a morning or evening routine.
+  Updated: 2026-09-16T02:48:29Z
   Vendor: Zora
   Product Type: Skincare - Serums
   Availability: Available
@@ -576,8 +548,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S79545aafb07543daac7c55332391df1dI.webp?v=1788067885
     Price: €19.00 EUR
-- [Centella Facial Cleansing Mousse with Brush | Zora](https://zora-10211.myshopify.com/products/zora-centella-facial-cleansing-mousse-with-brush-gentle-daily-cleanser): Premium centella facial cleansing mousse with an integrated brush for a refined everyday skincare routine.
-  Updated: 2026-09-09T00:45:39Z
+- [Centella Facial Cleansing Mousse | Zora](https://zora-10211.myshopify.com/products/zora-centella-facial-cleansing-mousse-with-brush-gentle-daily-cleanser): Gentle centella facial cleansing mousse with an integrated brush for daily cleansing and a fresh, comfortable skin feel.
+  Updated: 2026-09-16T02:48:50Z
   Vendor: BIOAQUA
   Product Type: Skincare - Cleansers
   Availability: Available
@@ -590,8 +562,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S697a275cc1c54ebf97396f005bbcfc61H.webp?v=1788824570
     Price: €19.00 EUR
-- [Jelly Face Mask Powder | Zora](https://zora-10211.myshopify.com/products/zora-jelly-face-mask-powder): A mix-to-apply jelly face mask powder selected by Zora for a refreshing, hydration-focused at-home skincare ritual.
-  Updated: 2026-09-09T00:45:29Z
+- [Jelly Face Mask Powder | Zora](https://zora-10211.myshopify.com/products/zora-jelly-face-mask-powder): Jelly face mask powder that mixes into a customizable mask for a more interactive hydration-focused skincare ritual at home.
+  Updated: 2026-09-16T02:49:40Z
   Vendor: Zora
   Product Type: Skincare - Face Masks
   Availability: Available
@@ -616,15 +588,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc7d3843dd76c43a0af636d4e388c4c38A.webp?v=1788067886
     Price: €19.00 EUR
-- [Rice Facial Cleanser | Zora](https://zora-10211.myshopify.com/products/zora-rice-facial-cleansing-foam-gentle-daily-cleanser): A gentle rice-focused facial cleanser selected by Zora for a simple everyday skincare routine.
-  Updated: 2026-09-09T02:30:45Z
+- [Rice Facial Cleansing Foam Cleanser | Zora](https://zora-10211.myshopify.com/products/zora-rice-facial-cleansing-foam-gentle-daily-cleanser): Gentle rice facial cleansing foam for a refreshing daily face-wash routine in the morning or evening.
+  Updated: 2026-09-16T02:48:55Z
   Vendor: Zora
   Product Type: Skincare - Cleansers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc011ffddbf7442ac8854c42f291e9a97H.webp?v=1788825121
   Price: €12.99 EUR
-- [Facial Ampoule Serum Set | Zora](https://zora-10211.myshopify.com/products/zora-jet-peel-facial-ampoule-serum-set-5-piece-skincare-ritual): A multi-ampoule serum set selected by Zora for a focused, hydration-centered skincare routine.
-  Updated: 2026-09-09T00:44:47Z
+- [Jet Peel Facial Ampoule Serum Set | Zora](https://zora-10211.myshopify.com/products/zora-jet-peel-facial-ampoule-serum-set-5-piece-skincare-ritual): Five-piece facial ampoule serum set with hydrating, brightening, exfoliating and barrier-focused options for flexible skincare routines.
+  Updated: 2026-09-16T02:49:40Z
   Vendor: Zora
   Product Type: Skincare - Serums
   Availability: Available
@@ -649,8 +621,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sa972e40f3dd34ea094bcce1c2a07aec1F.webp?v=1788067944
     Price: €39.00 EUR
-- [CO2 Bubble Facial Care Pen | Zora](https://zora-10211.myshopify.com/products/zora-co2-bubble-facial-care-pen): Compact CO2 bubble-style facial care pen selected by Zora for a spa-inspired, experience-focused at-home skincare routine.
-  Updated: 2026-09-09T01:13:56Z
+- [CO2 Bubble Facial Care Pen | Zora](https://zora-10211.myshopify.com/products/zora-co2-bubble-facial-care-pen): CO2 bubble facial care pen designed for a spa-inspired skincare routine in a compact, easy-to-use beauty device format.
+  Updated: 2026-09-16T02:48:33Z
   Vendor: Zora
   Product Type: Facial Care Devices
   Availability: Available
@@ -663,8 +635,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S1acf8fcfac9346ccba32d923f1a128ec5.webp?v=1788067945
     Price: €85.00 EUR
-- [Gentle Facial Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-gentle-facial-exfoliating-gel-daily-skin-smoothing): Lightweight facial exfoliating gel selected by Zora for a refreshing, smooth-feeling addition to a polished skincare routine.
-  Updated: 2026-09-09T01:14:06Z
+- [Gentle Facial Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-gentle-facial-exfoliating-gel-daily-skin-smoothing): Shop a gentle facial exfoliating gel for removing surface buildup and adding a smoother, fresher-feeling step to your skincare routine.
+  Updated: 2026-09-16T02:48:30Z
   Vendor: Zora
   Product Type: Skincare - Cleansers
   Availability: Available
@@ -678,14 +650,14 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S1c20f25cba4c41adae2c01ce3f1ec03bA.webp?v=1788067946
     Price: €19.00 EUR
 - [Hyaluronic Acid Facial Sheet Masks 10-Pack | Zora](https://zora-10211.myshopify.com/products/hyaluronic-acid-hydrating-facial-sheet-masks-10-pack): Shop a 10-pack of hyaluronic acid facial sheet masks selected by Zora for a convenient, hydration-focused everyday skincare ritual.
-  Updated: 2026-09-09T01:14:16Z
+  Updated: 2026-09-13T04:02:52Z
   Vendor: Zora
   Product Type: Skincare - Face Masks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Saa1266cf5cd3464b95b4e34742472e3en.webp?v=1788824856
   Price: €19.00 EUR
-- [Hyaluronic Acid Essence Vials | Zora](https://zora-10211.myshopify.com/products/hyaluronic-acid-ampoule-serum-vials-deep-hydrating-facial-essence): Individual facial essence vials selected by Zora for a lightweight, hydration-focused skincare routine.
-  Updated: 2026-09-09T01:44:58Z
+- [Hyaluronic Acid Ampoule Serum | Zora](https://zora-10211.myshopify.com/products/hyaluronic-acid-ampoule-serum-vials-deep-hydrating-facial-essence): Hyaluronic acid ampoule serum vials with a lightweight facial essence for a hydration-focused skincare routine.
+  Updated: 2026-09-16T02:49:41Z
   Vendor: Zora
   Product Type: Skincare - Serums
   Availability: Available
@@ -702,8 +674,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sef293de6ebb642f1b3c7915ae87030efR.webp?v=1788067947
     Price: €17.99 EUR
-- [Zora CO2 Oxygen Bubble Facial Device](https://zora-10211.myshopify.com/products/zora-co2-oxygen-bubble-facial-care-device): A cosmetic facial-care device selected by Zora for a spa-inspired at-home beauty ritual with CO2 oxygen-bubble style care.
-  Updated: 2026-09-09T02:31:37Z
+- [CO2 Oxygen Bubble Facial Care Device | Zora](https://zora-10211.myshopify.com/products/zora-co2-oxygen-bubble-facial-care-device): CO2 facial care device for a spa-inspired at-home skincare routine with selectable care modes and a compact beauty-device format.
+  Updated: 2026-09-16T02:48:33Z
   Vendor: Zora
   Product Type: Facial Care Devices
   Availability: Available
@@ -757,14 +729,14 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3e0db941a5ed4495a4a893b056094de7s.webp?v=1788067948
     Price: €59.00 EUR
 - [Hyaluronic Acid Foaming Cleanser | Zora](https://zora-10211.myshopify.com/products/hyaluronic-acid-foaming-facial-cleanser): A simple foaming facial cleanser selected by Zora for comfortable everyday skincare.
-  Updated: 2026-09-09T01:21:02Z
+  Updated: 2026-09-13T04:01:11Z
   Vendor: Zora
   Product Type: Skincare - Cleansers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S7a077da02e0049bcaa91431dc1d30ebfv.webp?v=1788067948
   Price: €29.00 EUR
-- [Gentle Face Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-gentle-face-exfoliating-gel): A gentle facial exfoliating gel selected by Zora for a refreshing, smoother-feeling skincare routine.
-  Updated: 2026-09-09T00:49:05Z
+- [Gentle Face Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-gentle-face-exfoliating-gel): Gentle face exfoliating gel for a simple skincare routine focused on removing surface buildup and leaving skin feeling fresh and smooth.
+  Updated: 2026-09-16T02:48:30Z
   Vendor: Zora
   Product Type: Skincare - Cleansers
   Availability: Available
@@ -778,7 +750,7 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sbe8c33e98095463493c5f9bbd78cabc19.webp?v=1788067948
     Price: €12.99 EUR
 - [Memory Foam Lumbar Cushion | Zora](https://zora-10211.myshopify.com/products/ergonomic-memory-foam-lumbar-support-cushion): A memory foam lumbar cushion selected by Zora for comfortable everyday sitting at home, work, or on the go.
-  Updated: 2026-09-09T01:20:48Z
+  Updated: 2026-09-13T04:01:29Z
   Vendor: Zora
   Product Type: Seat Cushions
   Availability: Available
@@ -803,15 +775,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S38d2d76afee541dea9fd22a843338628X.webp?v=1788828269
     Price: €29.95 EUR
-- [Hotel-Style Pillow with Neck Support | Zora](https://zora-10211.myshopify.com/products/hotel-style-pillow-with-neck-support): A plush hotel-style pillow selected by Zora for a comfortable, polished sleep and rest setup.
-  Updated: 2026-09-09T01:44:44Z
+- [Hotel-Style Pillow with Neck Support | Zora](https://zora-10211.myshopify.com/products/hotel-style-pillow-with-neck-support): Hotel-style pillow with neck support and a plush feel for sleep, rest and a more refined bedroom setup.
+  Updated: 2026-09-16T02:49:22Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6f5012b1217b43d39c0be02684f9d3adl.webp?v=1788823994
   Price: €34.95 EUR
 - [Hotel-Style Sleep Pillow | Zora](https://zora-10211.myshopify.com/products/five-star-hotel-pillow-for-deep-sleep): A plush hotel-style pillow selected by Zora for a soft, breathable and comfortable sleep setup.
-  Updated: 2026-09-09T01:20:36Z
+  Updated: 2026-09-13T04:01:36Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -912,15 +884,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2f0b5f7c19b34f29b24b4080992f9c5eW.webp?v=1788828048
     Price: €34.95 EUR
-- [Adjustable Travel Foot Hammock | Zora](https://zora-10211.myshopify.com/products/adjustable-car-travel-foot-hammock): A lightweight adjustable foot hammock selected by Zora for more comfortable seated travel, commuting, or desk time.
-  Updated: 2026-09-09T01:41:18Z
+- [Adjustable Car Travel Foot Hammock | Zora](https://zora-10211.myshopify.com/products/adjustable-car-travel-foot-hammock): Adjustable foot hammock for car journeys, flights and travel with compact portable foot support for everyday comfort.
+  Updated: 2026-09-16T02:49:52Z
   Vendor: Zora
   Product Type: Travel Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sea3f84f575fd46358d27a572c143cc4eX.webp?v=1788823836
   Price: €24.95 EUR
-- [Memory Foam Wedge Backrest Cushion | Zora](https://zora-10211.myshopify.com/products/zora-triangular-wedge-headboard-cushion-bed-sofa-comfort): A triangular memory foam wedge cushion selected by Zora for comfortable reading, relaxing, and supported sitting at home.
-  Updated: 2026-09-09T02:29:39Z
+- [Triangular Wedge Headboard Cushion | Zora](https://zora-10211.myshopify.com/products/zora-triangular-wedge-headboard-cushion-bed-sofa-comfort): Triangular wedge headboard cushion for bed and sofa comfort, reading, lounging and everyday home relaxation.
+  Updated: 2026-09-16T02:49:18Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1025,8 +997,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S56dce7de90b642c2bc34accd4eaf2f95i.webp?v=1788825432
     Price: €65.00 EUR
-- [Toast Shaped Seat Cushion – Fun Home & Office Decor](https://zora-10211.myshopify.com/products/toast-shaped-seat-back-cushion): Washable, cushioned toast-shaped seat and back cushion that adds comfort and a playful touch to home, office or car.
-  Updated: 2026-09-09T02:01:20Z
+- [Toast-Shaped Seat & Back Cushion | Zora](https://zora-10211.myshopify.com/products/toast-shaped-seat-back-cushion): Toast-shaped seat and back cushion with a playful design for office chairs, seating areas and everyday home comfort.
+  Updated: 2026-09-16T02:49:20Z
   Vendor: Zora
   Product Type: Seat Cushions
   Availability: Available
@@ -1043,8 +1015,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sa7236b5164dd40ea955cf395e117ad12x.webp?v=1788276673
     Price: €25.00 EUR
-- [Memory Foam Car Headrest Pillow | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-car-headrest-pillow): A memory foam car headrest pillow selected by Zora for comfortable everyday driving and travel.
-  Updated: 2026-09-08T22:52:06Z
+- [Memory Foam Car Headrest Pillow | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-car-headrest-pillow): Memory foam car headrest pillow for added cushioning and comfort during everyday driving and commuting.
+  Updated: 2026-09-16T02:49:53Z
   Vendor: Zora
   Product Type: Car Accessories
   Availability: Available
@@ -1073,8 +1045,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc6f6769ac48744aca62d546f9e472f98F.webp?v=1788276752
     Price: €34.95 EUR
-- [Car Headrest & Lumbar Cushion Set | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-car-headrest-lumbar-cushion-set): A memory foam cushion set selected by Zora for a more comfortable, coordinated driving and travel setup.
-  Updated: 2026-09-08T22:52:06Z
+- [Memory Foam Car Headrest Lumbar Set | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-car-headrest-lumbar-cushion-set): Memory foam car headrest and lumbar cushion set designed to add coordinated cushioning and comfort to everyday drives.
+  Updated: 2026-09-16T02:49:53Z
   Vendor: Zora
   Product Type: Car Accessories
   Availability: Available
@@ -1139,8 +1111,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0525e7620b6e45349fac199e986315a7z.webp?v=1788276752
     Price: €34.95 EUR
-- [Adjustable Reading Backrest Pillow | Zora](https://zora-10211.myshopify.com/products/zora-adjustable-reading-backrest-pillow): A padded adjustable backrest pillow selected by Zora for comfortable reading and relaxing in bed or on the sofa.
-  Updated: 2026-09-09T02:26:25Z
+- [Adjustable Reading Backrest Pillow | Zora](https://zora-10211.myshopify.com/products/zora-adjustable-reading-backrest-pillow): Adjustable reading backrest pillow with generous cushioning for bed, sofa, reading and relaxing at home.
+  Updated: 2026-09-16T02:48:52Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1165,22 +1137,22 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S5fa9835b4bb44f9b9d77bdcfc2d7464eT.webp?v=1788828175
     Price: €79.99 EUR
-- [Adjustable Memory Foam Pillow | Zora](https://zora-10211.myshopify.com/products/zora-adjustable-memory-foam-pillow-for-side-sleepers): An adjustable memory foam pillow selected by Zora for a personalized, comfortable sleep setup.
-  Updated: 2026-09-09T02:23:12Z
+- [Memory Foam Pillow for Side Sleepers | Zora](https://zora-10211.myshopify.com/products/zora-adjustable-memory-foam-pillow-for-side-sleepers): Adjustable memory foam pillow designed for side sleepers seeking adaptable comfort and supportive sleep positioning.
+  Updated: 2026-09-16T02:48:52Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S21457354213a458ba528ed72f2d235acY.webp?v=1788824003
   Price: €25.00 EUR
-- [Memory Foam Reading Pillow with Armrests | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-reading-tv-backrest-pillow): A generously sized memory foam backrest selected by Zora for comfortable reading, TV time, gaming, or relaxing.
-  Updated: 2026-09-09T02:08:11Z
+- [Memory Foam Reading Backrest Pillow | Zora](https://zora-10211.myshopify.com/products/zora-memory-foam-reading-tv-backrest-pillow): Memory foam reading and TV backrest pillow for bed, sofa lounging, reading and comfortable home relaxation.
+  Updated: 2026-09-16T02:49:19Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S342591bca5e9495d964dd6414799d31ac.webp?v=1788831261
   Price: €79.99 EUR
-- [3D Ergonomic Seat Cushion | Zora](https://zora-10211.myshopify.com/products/zora-3d-ergonomic-memory-foam-seat-cushion): A shaped memory foam seat cushion selected by Zora for comfortable everyday sitting at home, work, travel, or commuting.
-  Updated: 2026-09-09T01:56:43Z
+- [3D Ergonomic Memory Foam Seat Cushion | Zora](https://zora-10211.myshopify.com/products/zora-3d-ergonomic-memory-foam-seat-cushion): 3D ergonomic memory foam seat cushion for office chairs, car seats and everyday sitting comfort.
+  Updated: 2026-09-16T02:48:54Z
   Vendor: Zora
   Product Type: Seat Cushions
   Availability: Available
@@ -1197,8 +1169,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S537a55e716754d3c9bc25d083f066cbeC.webp?v=1788825772
     Price: €24.95 EUR
-- [Cervical Support Memory Foam Pillow | Zora](https://zora-10211.myshopify.com/products/zora-ergonomic-memory-foam-pillow): A 60x40cm memory foam pillow selected by Zora for comfortable head and neck support during sleep and rest.
-  Updated: 2026-09-09T01:56:58Z
+- [Ergonomic Memory Foam Pillow | Zora](https://zora-10211.myshopify.com/products/zora-ergonomic-memory-foam-pillow): Contoured ergonomic memory foam pillow designed for comfortable neck support and a more refined sleep and relaxation setup.
+  Updated: 2026-09-16T02:48:32Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1227,8 +1199,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S9f1c69f81bb546f7b9d38e71a731b89cL.webp?v=1788824493
     Price: €55.00 EUR
-- [Memory Foam Travel Neck Pillow | Zora](https://zora-10211.myshopify.com/products/zora-portable-memory-foam-travel-neck-pillow): A portable memory foam neck pillow selected by Zora for comfortable travel, camping, commuting, and everyday rest.
-  Updated: 2026-09-09T02:23:25Z
+- [Memory Foam Travel Neck Pillow | Zora](https://zora-10211.myshopify.com/products/zora-portable-memory-foam-travel-neck-pillow): Shop a portable memory foam travel neck pillow designed for comfortable neck support on flights, road trips, commuting and travel.
+  Updated: 2026-09-16T02:48:29Z
   Vendor: Zora
   Product Type: Travel Accessories
   Availability: Available
@@ -1241,15 +1213,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se347e779c3334f3387f29cf6a24e4b98H.webp?v=1788278197
     Price: €35.00 EUR
-- [Butterfly Memory Foam Neck Pillow | Zora](https://zora-10211.myshopify.com/products/butterfly-shaped-memory-foam-neck-pillow): A contoured memory foam neck pillow selected by Zora for comfortable support during travel, reading, and everyday rest.
-  Updated: 2026-09-08T23:07:01Z
+- [Butterfly Memory Foam Neck Pillow | Zora](https://zora-10211.myshopify.com/products/butterfly-shaped-memory-foam-neck-pillow): Butterfly-shaped memory foam neck pillow designed for travel, reading and quiet downtime with a contoured comfort profile.
+  Updated: 2026-09-16T02:49:46Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S7983fb2c04d04a02b737bcacdc411485E.webp?v=1788823127
   Price: €59.99 EUR
-- [Portable Nap Pillow – Soft Neck Support Cushion](https://zora-10211.myshopify.com/products/portable-macaron-nap-pillow-for-neck-support): Soft, portable nap pillow in fun macaron colors, perfect for neck support during travel, office breaks or quick naps anywhere.
-  Updated: 2026-09-09T02:22:59Z
+- [Portable Neck Support Nap Pillow | Zora](https://zora-10211.myshopify.com/products/portable-macaron-nap-pillow-for-neck-support): Portable neck support nap pillow for short rests, commuting, office breaks and travel with a compact comfort-focused design.
+  Updated: 2026-09-16T02:49:42Z
   Vendor: Zora
   Product Type: Travel Accessories
   Availability: Available
@@ -1270,8 +1242,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se40ddee196404adf875eaa65b563105fF.webp?v=1788278281
     Price: €25.00 EUR
-- [Memory Foam Body Pillow | Zora](https://zora-10211.myshopify.com/products/memory-foam-cervical-body-pillow-for-home-travel): A versatile memory foam body pillow selected by Zora for comfortable support while sleeping, lounging, reading, or traveling.
-  Updated: 2026-09-09T01:45:14Z
+- [Memory Foam Cervical Body Pillow | Zora](https://zora-10211.myshopify.com/products/memory-foam-cervical-body-pillow-for-home-travel): Memory foam cervical body pillow for sleep, lounging, reading and travel with a versatile supportive shape.
+  Updated: 2026-09-16T02:49:21Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1308,8 +1280,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf94a73b0c5bc4382bd4879d10bba79e0E.webp?v=1788278281
     Price: €25.00 EUR
-- [Zora Contour Memory Foam Pillow | Neck Support](https://zora-10211.myshopify.com/products/zora-contour-memory-foam-pillow): Shop the Zora Contour Memory Foam Pillow, a shaped memory foam design created for comfortable neck support during sleep and rest.
-  Updated: 2026-09-08T23:07:18Z
+- [Contour Memory Foam Pillow for Neck Support](https://zora-10211.myshopify.com/products/zora-contour-memory-foam-pillow): Contour memory foam pillow with a shaped profile designed for comfortable neck support during sleep and relaxation.
+  Updated: 2026-09-16T02:48:32Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1334,8 +1306,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf851948484eb4bf7b40cd77412fb21e3V.webp?v=1788825619
     Price: €37.45 EUR
-- [Travel Neck Pillow – U-Shaped Memory Foam](https://zora-10211.myshopify.com/products/zora-u-shaped-memory-foam-travel-pillow): U-shaped memory foam travel pillow that cushions the neck on planes, cars and at the office for comfortable rest on the go.
-  Updated: 2026-09-08T23:07:29Z
+- [U-Shaped Memory Foam Travel Pillow | Zora](https://zora-10211.myshopify.com/products/zora-u-shaped-memory-foam-travel-pillow): U-shaped memory foam travel pillow for flights, car rides, commuting and portable neck comfort.
+  Updated: 2026-09-16T02:49:45Z
   Vendor: Zora
   Product Type: Travel Accessories
   Availability: Available
@@ -1356,8 +1328,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Seebbf737fbcf4dd4a43140eb366520c3z.webp?v=1788824285
     Price: €29.95 EUR
-- [Memory Foam Sleeping Pillow | Zora](https://zora-10211.myshopify.com/products/cervical-support-memory-foam-pillow-for-sleeping): A contoured memory foam pillow selected by Zora for comfortable head and neck support during sleep and rest.
-  Updated: 2026-09-08T23:07:38Z
+- [Cervical Support Memory Foam Pillow | Zora](https://zora-10211.myshopify.com/products/cervical-support-memory-foam-pillow-for-sleeping): Contoured cervical support memory foam pillow designed for comfortable sleep and supportive-feeling neck comfort.
+  Updated: 2026-09-16T02:49:45Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1370,8 +1342,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S941f27ddc5bf4ca09cf741f189f7fddfL.webp?v=1788823159
     Price: €59.99 EUR
-- [Zora Ergonomic Memory Foam Wedge Pillow | Comfort](https://zora-10211.myshopify.com/products/zora-ergonomic-memory-foam-wedge-pillow): Discover the Zora Ergonomic Memory Foam Wedge Pillow, a versatile support cushion for comfortable rest, reading, and everyday relaxation.
-  Updated: 2026-09-08T23:09:31Z
+- [Ergonomic Memory Foam Wedge Pillow | Zora](https://zora-10211.myshopify.com/products/zora-ergonomic-memory-foam-wedge-pillow): Ergonomic memory foam wedge pillow with an inclined profile for versatile comfort, elevation and support during rest.
+  Updated: 2026-09-16T02:48:31Z
   Vendor: Zora
   Product Type: Pillows & Cushions
   Availability: Available
@@ -1404,8 +1376,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S867e5f3f8e2040729ee908624575d61eC.webp?v=1788824721
     Price: €79.99 EUR
-- [Nano Facial Steamer & Humidifying Sprayer | Zora](https://zora-10211.myshopify.com/products/nano-facial-steamer-humidifying-sprayer): A compact facial steamer and misting device for a refreshing at-home skincare ritual. Explore Zora beauty and wellness devices.
-  Updated: 2026-09-08T23:09:41Z
+- [Nano Facial Steamer & Mist Sprayer | Zora](https://zora-10211.myshopify.com/products/nano-facial-steamer-humidifying-sprayer): Nano facial steamer and mist sprayer that adds a fine misting step to an at-home skincare and beauty routine.
+  Updated: 2026-09-16T02:49:17Z
   Vendor: Zora
   Product Type: Beauty Devices
   Availability: Available
@@ -1426,30 +1398,30 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6e9c7b03cd2a43a1ac9b03f7aac70259s.webp?v=1788278396
     Price: €25.00 EUR
-- [Microcurrent Facial Massage Device | Zora](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-massage-care-device): A compact microcurrent beauty device selected by Zora for convenient facial massage and at-home self-care.
-  Updated: 2026-09-08T23:09:51Z
+- [Microcurrent Facial & Neck Massager | Zora](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-neck-massager): Microcurrent facial and neck massager with gentle thermal therapy for a simple at-home beauty and skincare routine.
+  Updated: 2026-09-16T02:49:15Z
   Vendor: Zora
   Product Type: Beauty Devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8ddcae0fc1be4bdf8733f583ed3834906.webp?v=1788824631
-  - [3 and 1-BLACK](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-massage-care-device?variant=55939053584552)
+  - [3 and 1-BLACK](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-neck-massager?variant=55939053584552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6ef34a5be2324d0b9684d9e25bf4dd4fU.webp?v=1788825379
     Price: €149.99 EUR
-  - [BLACK](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-massage-care-device?variant=55939053617320)
+  - [BLACK](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-neck-massager?variant=55939053617320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S4db458adbca0435c8b1a3c7a3719327fP.webp?v=1788278396
     Price: €129.99 EUR
-  - [3 and 1-RED](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-massage-care-device?variant=55939053650088)
+  - [3 and 1-RED](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-neck-massager?variant=55939053650088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S233ef6114b4b41ce9789fdf25d34267dt.webp?v=1788278396
     Price: €149.99 EUR
-  - [WHITE](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-massage-care-device?variant=55939053682856)
+  - [WHITE](https://zora-10211.myshopify.com/products/zora-microcurrent-facial-neck-massager?variant=55939053682856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S39326580dc034d9d8d065205c22b10aeM.webp?v=1788278396
     Price: €129.99 EUR
-- [Hyaluronic Acid Gel Moisturizer | Zora](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-gel-moisturizer): A lightweight hyaluronic acid gel moisturizer selected by Zora for comfortable daily skincare.
-  Updated: 2026-09-09T00:29:47Z
+- [Hyaluronic Acid Gel Moisturizer | Zora](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-gel-moisturizer): Lightweight hyaluronic acid gel moisturizer for hydration-focused daily skincare with a comfortable gel finish.
+  Updated: 2026-09-16T02:49:42Z
   Vendor: Zora
   Product Type: Skincare
   Availability: Available
@@ -1462,8 +1434,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6fc9b3b790234fe894501774ad2662a8k.webp?v=1788278397
     Price: €19.99 EUR
-- [Zora Hyaluronic Acid Essence Capsules](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-essence-capsules): Lightweight Zora facial essence with hyaluronic acid for a fresh, soft, hydrated feel. Easy to layer in your daily skincare routine.
-  Updated: 2026-09-09T00:29:32Z
+- [Hyaluronic Acid Essence Capsules | Zora](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-essence-capsules): Shop hyaluronic acid essence capsules for lightweight, hydration-focused facial skincare in a convenient single-use format.
+  Updated: 2026-09-16T02:48:29Z
   Vendor: Zora
   Product Type: Skincare
   Availability: Available
@@ -1492,8 +1464,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S06d7f4bb78cd4b8c91738a010b015293V.webp?v=1788278397
     Price: €15.00 EUR
-- [Collagen Overnight Peel-Off Face Mask | Zora](https://zora-10211.myshopify.com/products/collagen-overnight-peel-off-face-mask): An overnight peel-off face mask for a comfortable, hydrating skincare ritual. Explore Zora beauty and self-care essentials.
-  Updated: 2026-09-09T03:43:20Z
+- [Collagen Overnight Peel-Off Face Mask | Zora](https://zora-10211.myshopify.com/products/collagen-overnight-peel-off-face-mask): Collagen overnight peel-off face mask for an evening skincare ritual focused on hydration and a comfortable, refreshed skin feel.
+  Updated: 2026-09-16T02:49:22Z
   Vendor: Zora
   Product Type: Skincare
   Availability: Available
@@ -1514,8 +1486,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S5897c79960fd4135b85638ab094b23a1y.webp?v=1788278398
     Price: €20.00 EUR
-- [Ultrasonic Facial Skin Scrubber | Zora](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device): Premium ultrasonic facial skin scrubber for cleansing and exfoliation-focused skincare routines at home.
-  Updated: 2026-09-09T00:26:57Z
+- [Ultrasonic Facial Skin Scrubber | Zora](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device): Ultrasonic facial skin scrubber for cleansing, exfoliation and pore-care routines with a compact rechargeable beauty-device design.
+  Updated: 2026-09-16T02:49:17Z
   Vendor: Zora
   Product Type: Beauty Devices
   Availability: Available
@@ -1523,28 +1495,28 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
   - [B-Black with box](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device?variant=55939054239912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S05a4dc3504ba46b58dd0dd1877d70025d.webp?v=1788278399
-    Price: €75.00 EUR
+    Price: €119.00 EUR
   - [B-Black no box](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device?variant=55939054272680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S7178180d861d481b96e4ce487f21aee45.webp?v=1788278399
-    Price: €75.00 EUR
+    Price: €119.00 EUR
   - [B-White no box](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device?variant=55939054305448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S637bf7d9878841b9878e8624991abb231.webp?v=1788278399
-    Price: €75.00 EUR
+    Price: €119.00 EUR
   - [B-White with box](https://zora-10211.myshopify.com/products/zora-ultrasonic-facial-skin-scrubber-cleansing-exfoliation-device?variant=55939054338216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8188d6b5c80d4c0d80119ff515010907j.webp?v=1788278399
-    Price: €75.00 EUR
-- [Retinol + Hyaluronic Acid Face Cream](https://zora-10211.myshopify.com/products/retinol-hyaluronic-acid-daily-face-cream): A daily face cream with retinol and hyaluronic acid selected by Zora for a smooth, hydration-focused skincare routine.
-  Updated: 2026-09-09T01:45:43Z
+    Price: €119.00 EUR
+- [Retinol Hyaluronic Acid Face Cream | Zora](https://zora-10211.myshopify.com/products/retinol-hyaluronic-acid-daily-face-cream): Daily face cream with retinol and hyaluronic acid for a hydration-focused skincare routine. Follow packaging directions and sun-care guidance.
+  Updated: 2026-09-16T02:49:20Z
   Vendor: Zora
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8aaea69a9f4a4b6e9517c23f63f4bbc8Y.webp?v=1788823189
   Price: €19.99 EUR
-- [Full Body Massage Cushion with Heat | Zora](https://zora-10211.myshopify.com/products/zora-full-body-massage-cushion-with-heat-voice-control): A full-body massage cushion selected by Zora for relaxing massage, gentle warmth, and comfortable at-home downtime.
-  Updated: 2026-09-09T02:06:48Z
+- [Full Body Massage Cushion with Heat | Zora](https://zora-10211.myshopify.com/products/zora-full-body-massage-cushion-with-heat-voice-control): Full body massage cushion with heat and voice control for an at-home relaxation routine on a chair or resting space.
+  Updated: 2026-09-16T02:48:30Z
   Vendor: Zora
   Product Type: Massage Cushions
   Availability: Available
@@ -1557,8 +1529,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/H01a6c8188abb45f98e9dfb41bfff093dC.webp?v=1788825569
     Price: €2,499.00 EUR
-- [Vitamin C Face Serum with Thermal Spring Water | Zora](https://zora-10211.myshopify.com/products/vitamin-c-face-serum-with-thermal-spring-water): Premium Vitamin C face serum with thermal spring water for a refined, antioxidant-focused everyday skincare routine.
-  Updated: 2026-09-09T01:46:57Z
+- [Vitamin C Face Serum | Zora](https://zora-10211.myshopify.com/products/vitamin-c-face-serum-with-thermal-spring-water): Lightweight vitamin C face serum with thermal spring water for a daily skincare routine focused on hydration and a fresh-looking finish.
+  Updated: 2026-09-16T02:49:41Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
@@ -1571,8 +1543,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sec0445edf2be47b4a28d571826cfc187i.webp?v=1788462778
     Price: €16.99 EUR
-- [Vitamin C + Niacinamide Face Serum | Zora](https://zora-10211.myshopify.com/products/vitamin-c-niacinamide-face-serum-with-hyaluronic-acid): Premium Vitamin C and niacinamide face serum with hyaluronic acid for an elevated, hydration-focused daily skincare ritual.
-  Updated: 2026-09-09T01:46:46Z
+- [Vitamin C Niacinamide Hyaluronic Serum | Zora](https://zora-10211.myshopify.com/products/vitamin-c-niacinamide-face-serum-with-hyaluronic-acid): Vitamin C, niacinamide and hyaluronic acid face serum for a lightweight hydration-focused skincare and brightening routine.
+  Updated: 2026-09-16T02:49:20Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
@@ -1585,8 +1557,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf3276d6304d8490d956cfce92aff2b5ac.webp?v=1788462778
     Price: €22.00 EUR
-- [Orange Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-orange-exfoliating-gel): A gentle orange-focused exfoliating gel selected by Zora for a simple skincare exfoliation step.
-  Updated: 2026-09-09T02:31:09Z
+- [Orange Exfoliating Gel for Face | Zora](https://zora-10211.myshopify.com/products/zora-orange-exfoliating-gel): Orange exfoliating gel for facial skincare routines focused on gentle exfoliation, smoother-feeling skin and pore care.
+  Updated: 2026-09-16T02:49:18Z
   Vendor: Zora
   Product Type: Exfoliators
   Availability: Available
@@ -1599,15 +1571,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc0bb02e6c7a24e05b32faf596010ecefc.webp?v=1788825323
     Price: €24.99 EUR
-- [Zora Cherry Blossom Exfoliating Gel](https://zora-10211.myshopify.com/products/zora-cherry-blossom-exfoliating-gel): Refreshing Zora facial exfoliating gel designed to help lift surface buildup and leave skin feeling smooth, fresh and ready for skincare.
-  Updated: 2026-09-09T01:20:20Z
+- [Cherry Blossom Exfoliating Gel | Zora](https://zora-10211.myshopify.com/products/zora-cherry-blossom-exfoliating-gel): Cherry blossom exfoliating gel for a gentle facial exfoliation step focused on smoother, fresher-feeling skin and everyday pore care.
+  Updated: 2026-09-16T02:48:50Z
   Vendor: Zora
   Product Type: Exfoliators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8410095c6c4c46eeb9948884755a60d5q.webp?v=1788823938
   Price: €14.99 EUR
-- [Zora Madagascar Centella Comfort Serum](https://zora-10211.myshopify.com/products/zora-madagascar-centella-comfort-serum): Zora Centella facial serum with a lightweight texture for hydration-focused, comfortable daily skincare. Easy to layer with your routine.
-  Updated: 2026-09-09T00:28:24Z
+- [Madagascar Centella Comfort Serum | Zora](https://zora-10211.myshopify.com/products/zora-madagascar-centella-comfort-serum): Centella-focused facial serum for a lightweight, soothing-feel hydration step in an everyday skincare routine.
+  Updated: 2026-09-16T02:49:41Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
@@ -1664,8 +1636,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S35888b8a81b148e890d862ba95060acfU.webp?v=1788463250
     Price: €21.99 EUR
-- [Retinol Eye Serum Capsules | Zora](https://zora-10211.myshopify.com/products/retinol-eye-serum-capsules): Single-use retinol eye serum capsules selected by Zora for a precise, hydration-focused evening skincare routine.
-  Updated: 2026-09-09T01:46:20Z
+- [Retinol Eye Serum Capsules | Zora](https://zora-10211.myshopify.com/products/retinol-eye-serum-capsules): Retinol eye serum capsules for a dedicated evening eye-care step in a convenient single-use format. Follow packaging directions.
+  Updated: 2026-09-16T02:49:43Z
   Vendor: Zora
   Product Type: Eye Care
   Availability: Available
@@ -1686,22 +1658,22 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S08ff1063c1f3451c97af6e78551e538bR.webp?v=1788463249
     Price: €17.99 EUR
-- [345 Soothing Face Cream | Zora](https://zora-10211.myshopify.com/products/zora-345-soothing-moisturizer): A simple face cream selected by Zora for a comfortable, moisturized feel in an everyday skincare routine.
-  Updated: 2026-09-09T01:17:59Z
+- [345 Soothing Moisturizer Niacinamide B5 | Zora](https://zora-10211.myshopify.com/products/zora-345-soothing-moisturizer): 345 soothing facial moisturizer with niacinamide and panthenol B5 for a lightweight, daily hydration-focused skincare routine.
+  Updated: 2026-09-16T02:48:55Z
   Vendor: Zora
   Product Type: Moisturizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S477c81e44d20461daffb8f27c2966036P.webp?v=1788463250
   Price: €24.99 EUR
-- [Tea Oil Hand & Foot Cream | Zora](https://zora-10211.myshopify.com/products/zora-tea-oil-hand-foot-cream-daily-moisture-care): A moisturizing hand and foot cream selected by Zora for simple everyday personal care.
-  Updated: 2026-09-09T01:18:10Z
+- [Tea Oil Hand & Foot Cream | Zora](https://zora-10211.myshopify.com/products/zora-tea-oil-hand-foot-cream-daily-moisture-care): Tea oil hand and foot cream for daily moisture care, designed to add a dedicated softening step to dry-skin routines.
+  Updated: 2026-09-16T02:48:56Z
   Vendor: Zora
   Product Type: Hand & Foot Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd344bda2b9074b23a36412b9e1d6b0c2Q.webp?v=1788823635
   Price: €12.99 EUR
 - [Centella Asiatica Face Serum | Zora](https://zora-10211.myshopify.com/products/centella-asiatica-gotu-kola-serum-soothing-face-ampoule): A lightweight Centella Asiatica face serum selected by Zora for a comfortable, hydration-focused skincare routine.
-  Updated: 2026-09-09T01:20:05Z
+  Updated: 2026-09-13T04:05:06Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
@@ -1723,7 +1695,7 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3ae198a422b642929f1bca7ffbc0d1b2V.webp?v=1788463252
     Price: €54.99 EUR
 - [SUYARUN Collagen + Hyaluronic Acid Face Cream | Zora](https://zora-10211.myshopify.com/products/suyarun-collagen-hyaluronic-acid-face-cream): A smooth, comfort-focused facial moisturizer designed to elevate everyday hydration and skincare routines.
-  Updated: 2026-09-09T01:19:54Z
+  Updated: 2026-09-13T04:03:29Z
   Vendor: Zora
   Product Type: Skincare
   Availability: Available
@@ -1740,15 +1712,15 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0456ff741b6b4e6482445eae5d627409h.webp?v=1788464443
     Price: €19.99 EUR
-- [24K Golden Pearl Collagen Face Cream | Zora](https://zora-10211.myshopify.com/products/zora-24k-golden-pearl-collagen-face-cream-hydrating-skincare): Premium collagen face cream with a rich cosmetic texture for an elevated, hydration-focused skincare ritual.
-  Updated: 2026-09-09T01:19:42Z
+- [24K Golden Pearl Collagen Face Cream | Zora](https://zora-10211.myshopify.com/products/zora-24k-golden-pearl-collagen-face-cream-hydrating-skincare): 24K golden pearl collagen face cream for hydration-focused skincare with collagen and pearl extract in a rich facial-care formula.
+  Updated: 2026-09-16T02:48:55Z
   Vendor: Zora
   Product Type: Face Creams
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S4e0ae8b22e804f3a9f8a5144f7be676eI.webp?v=1788823500
   Price: €16.99 EUR
-- [Rose & Sakura Essence Serum | Zora](https://zora-10211.myshopify.com/products/zora-rose-sakura-essence-serum-hydrating-face-serum): A lightweight rose and sakura essence serum selected by Zora for a simple, hydration-focused skincare routine.
-  Updated: 2026-09-09T02:30:30Z
+- [Rose Sakura Hydrating Face Serum | Zora](https://zora-10211.myshopify.com/products/zora-rose-sakura-essence-serum-hydrating-face-serum): Rose and sakura essence face serum with a lightweight texture for a hydration-focused daily skincare routine.
+  Updated: 2026-09-16T02:49:43Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
@@ -1765,8 +1737,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sfdcc41b849bd4810b74af97d32617b1aD.webp?v=1788823864
     Price: €19.99 EUR
-- [Keratin + Collagen Rosemary Hair Mask | Zora](https://zora-10211.myshopify.com/products/zora-keratin-collagen-rosemary-hair-mask-deep-conditioning-care): Premium rinse-out hair mask with keratin, collagen and rosemary for an elevated conditioning routine.
-  Updated: 2026-09-09T02:23:46Z
+- [Keratin Collagen Rosemary Hair Mask | Zora](https://zora-10211.myshopify.com/products/zora-keratin-collagen-rosemary-hair-mask-deep-conditioning-care): Keratin, collagen and rosemary hair mask for deep conditioning and a rinse-out hair-care routine focused on softness and manageability.
+  Updated: 2026-09-16T02:49:43Z
   Vendor: Zora
   Product Type: Hair Care
   Availability: Available
@@ -1783,22 +1755,22 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc53e00a2d892496d9ee1ff0912075aefu.webp?v=1788464642
     Price: €19.99 EUR
-- [Caffeine + Niacinamide Eye Masks | Zora](https://zora-10211.myshopify.com/products/zora-caffeine-niacinamide-eye-masks): Refreshing eye masks with caffeine and niacinamide selected by Zora for an easy everyday skincare ritual.
-  Updated: 2026-09-09T02:30:03Z
+- [Caffeine Niacinamide Eye Masks | Zora](https://zora-10211.myshopify.com/products/zora-caffeine-niacinamide-eye-masks): Caffeine and niacinamide eye masks for a refreshing under-eye skincare step focused on hydration and everyday eye-area care.
+  Updated: 2026-09-16T02:48:31Z
   Vendor: Zora
   Product Type: Eye Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S14a9a37db78f40d39c82ddae2d75ba39R.webp?v=1788464643
   Price: €19.99 EUR
-- [Zora NIDA Daily Moisturizing Cream | 100ml](https://zora-10211.myshopify.com/products/zora-nida-daily-moisturizing-cream): A lightweight daily moisturizer with plant extracts for comfortable, hydrated-looking skin.
-  Updated: 2026-09-09T02:31:22Z
+- [NIDA Daily Moisturizing Face Cream | Zora](https://zora-10211.myshopify.com/products/zora-nida-daily-moisturizing-cream): Daily moisturizing face cream with a lightweight finish for simple, comfortable everyday facial hydration.
+  Updated: 2026-09-16T02:49:44Z
   Vendor: Zora
   Product Type: Face Creams
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S773ae5c50e4a4353a2c1f59a3452f3c0l.webp?v=1788464643
   Price: €22.99 EUR
-- [Zora B5 Comfort Face Cream | Daily Moisturizer](https://zora-10211.myshopify.com/products/zora-b5-comfort-face-cream-panthenol-moisturizer): A daily moisturizer with panthenol designed to support hydration and a comfortable skincare routine.
-  Updated: 2026-09-09T02:26:37Z
+- [B5 Panthenol Face Cream Moisturizer | Zora](https://zora-10211.myshopify.com/products/zora-b5-comfort-face-cream-panthenol-moisturizer): Panthenol B5 face cream moisturizer for a comfort-focused daily skincare routine with lightweight, soothing-feel hydration.
+  Updated: 2026-09-16T02:48:51Z
   Vendor: Zora
   Product Type: Face Creams
   Availability: Available
@@ -1815,8 +1787,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S123016cf730b4afcaa004835bb3cf021W.webp?v=1788824110
     Price: €37.98 EUR
-- [Lip Mask & Balm Care Set | Zora](https://zora-10211.myshopify.com/products/zora-lip-mask-balm-care-set-hydrating-lip-care-ritual): A convenient lip mask and balm set selected by Zora for a simple, moisturizing everyday self-care routine.
-  Updated: 2026-09-09T02:31:53Z
+- [Hydrating Lip Mask & Balm Care Set | Zora](https://zora-10211.myshopify.com/products/zora-lip-mask-balm-care-set-hydrating-lip-care-ritual): Lip mask and balm care set for a complete hydration-focused lip-care routine with convenient at-home use.
+  Updated: 2026-09-16T02:49:44Z
   Vendor: Zora
   Product Type: Lip Care
   Availability: Available
@@ -1833,8 +1805,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S26d178043c8648debd6aa70eac224574m.webp?v=1788824837
     Price: €17.99 EUR
-- [Zora Collagen Moisturizing Balm Stick | Face & Neck](https://zora-10211.myshopify.com/products/zora-collagen-moisturizing-balm-stick-face-eye-neck-care): A portable moisturizing balm stick for convenient face, neck and eye-area care throughout the day.
-  Updated: 2026-09-09T00:42:55Z
+- [Collagen Balm Stick for Face Eye Neck | Zora](https://zora-10211.myshopify.com/products/zora-collagen-moisturizing-balm-stick-face-eye-neck-care): Shop a collagen moisturizing balm stick for face, eye and neck care with convenient glide-on application and hydration-focused skincare.
+  Updated: 2026-09-16T02:48:31Z
   Vendor: Zora
   Product Type: Face & Eye Care
   Availability: Available
@@ -1851,8 +1823,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2baff4e4c1a5455e8065ab2a3a187e062.webp?v=1788464917
     Price: €39.99 EUR
-- [LAIKOU Sakura Lip Mask | Zora](https://zora-10211.myshopify.com/products/zora-laikou-sakura-lip-mask-moisturizing-lip-care): Sakura lip mask with a moisture-focused cosmetic patch format for an elevated everyday lip-care ritual.
-  Updated: 2026-09-09T02:26:54Z
+- [LAIKOU Sakura Lip Mask | Zora](https://zora-10211.myshopify.com/products/zora-laikou-sakura-lip-mask-moisturizing-lip-care): LAIKOU sakura lip mask for a moisture-focused lip-care routine designed to leave lips feeling softer and more comfortable.
+  Updated: 2026-09-16T02:49:44Z
   Vendor: Zora
   Product Type: Lip Care
   Availability: Available
@@ -1865,8 +1837,8 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2350802b2cd144c997971c8a7106f682m.webp?v=1788824806
     Price: €9.99 EUR
-- [Star-Shaped Blemish Cover Patches | Zora](https://zora-10211.myshopify.com/products/zora-star-shaped-blemish-cover-patches-cosmetic-spot-care): Premium star-shaped cosmetic spot patches designed for targeted coverage and a polished everyday skincare routine.
-  Updated: 2026-09-09T02:30:18Z
+- [Star-Shaped Blemish Cover Patches | Zora](https://zora-10211.myshopify.com/products/zora-star-shaped-blemish-cover-patches-cosmetic-spot-care): Star-shaped cosmetic blemish cover patches for targeted spot coverage and a distinctive everyday skincare accessory.
+  Updated: 2026-09-16T02:49:45Z
   Vendor: Zora
   Product Type: Skin Care Patches
   Availability: Available
@@ -1879,90 +1851,372 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S86d08b29e1c140b886281a8c7b1b28d5Y.webp?v=1788464918
     Price: €44.99 EUR
-- [Glow & Lift Skincare Kit | 4-Piece Beauty Ritual](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual): Explore Zora's Glow & Lift skincare kit with three beauty essentials plus one complimentary gift for a curated at-home facial-care ritual.
-  Updated: 2026-09-09T00:41:28Z
-  Vendor: Zora
-  Product Type: Skincare Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd99fbde1a69c4c5f8742fb052138b0229_685fcc6b-3c5b-49be-94a1-43423c35230a.webp?v=1788824451
-  - [BIOAQUA Hyaluronic Acid Repair Face Essence](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual?variant=55956224180392)
-    Availability: Available
-    Price: €49.99 EUR
-  - [Bio-Collagen Hydrating Overnight Face Mask](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual?variant=55956249149608)
-    Availability: Available
-    Price: €49.99 EUR
-  - [Peptide + Hyaluronic Acid Collagen Face Serum](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual?variant=55956249182376)
-    Availability: Available
-    Price: €49.99 EUR
-  - [SADOER Caviar + Hyaluronic Acid Facial Masks (5-Pack)](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual?variant=55956249215144)
-    Availability: Available
-    Price: €49.99 EUR
-  - [Glacier Hydration Facial Cleanser](https://zora-10211.myshopify.com/products/zora-glow-lift-skincare-kit-4-piece-beauty-ritual?variant=55956249247912)
-    Availability: Available
-    Price: €49.99 EUR
-- [Zora Steam Eye Mask — Nano Mist, Heat & Cold Care](https://zora-10211.myshopify.com/products/zora-steam-eye-mask-nano-mist-heat-cold-care): A More Complete Eye-Care Ritual for RelaxationZora Steam Eye Mask combines fine mist, adjustable warmth, vibration and a 3D contoured design in a hands-free device for relaxing breaks, evening downtime and travel. It adds an active self-care experience beyond simply covering the eyes.Why You'll Love It Fine nano-mist function for a refreshing moisture-focused experience around the eye area Two heat levels, approximately 40 °C and 42 °C Vibration massage to complement relaxation Designed for heat-and-cold wellness routines Lightweight 3D contoured format for hands-free use USB Type-C rechargeable design Automatic shutoff after approximately 10 minutes Designed For Relaxing after screen-heavy periods Evening self-care Travel and downtime Personal beauty and wellness routines How to Use Charge the device according to the supplied instructions. Position it comfortably around the eye area. Select the desired function and temperature according to the manufacturer's instructions. Allow the automatic session to complete or stop earlier if needed. Clean and store the device as directed, keeping electronic components dry. Product Details Temperature options: approximately 40 °C / 42 °C Charging: USB Type-C Nano-mist function: adjustable Automatic shutoff: approximately 10 minutes Material: ABS Design: lightweight 3D contour Good to KnowThis is a personal wellness device, not a  device. Follow the manufacturer's instructions for charging, settings, session duration and cleaning. Avoid use on irritated or injured skin and stop if discomfort occurs. Keep electronic components dry. If you have an eye or  condition, consult a qualified  professional before using a heated, misting or vibrating device around the eyes.Pregunta clave¿Qué diferencia aporta esta mascarilla frente a una mascarilla ocular convencional para tus momentos de descanso?Integra vapor fino, calor, vibración y una experiencia basada en temperatura en un formato manos libres, convirtiendo una pausa sencilla en un ritual de cuidado y relajación más completo.
-  Updated: 2026-09-09T03:45:35Z
+- [Zora Steam Eye Mask | Nano Mist, Heat & Cold Care](https://zora-10211.myshopify.com/products/zora-steam-eye-mask-nano-mist-heat-cold-care): Shop the Zora Steam Eye Mask with nano mist, warm and cooling modes and gentle massage for a convenient wearable eye-care routine.
+  Updated: 2026-09-12T16:29:53Z
   Vendor: Zora Terapéutica
   Product Type: Premium Eye Care Devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S639152096c034b87bc806d1b5f074707z.webp?v=1788807604
-  Price: €99.00 EUR
-- [Zora Smart Heated Eye Massager — Air Pressure & Music](https://zora-10211.myshopify.com/products/zora-smart-heated-eye-massager-air-pressure-music): Advanced Hands-Free Relaxation for the Eye AreaZora Smart Heated Eye Massager combines heat, air pressure, kneading and vibration with integrated music in a wearable 3D design. It is made for relaxing breaks, evening downtime and travel when you want a more complete experience than a traditional eye mask.Why You'll Love It 3D contoured design for comfortable placement around the eye area Heat and air-pressure functions for a relaxing massage experience Kneading and vibration features add different sensations to your routine Integrated music for a more immersive relaxation session Rechargeable 1200 mAh battery with USB Type-C charging Foldable, hands-free format that is convenient for home or travel Designed For Evening relaxation Breaks after screen-heavy periods Travel and downtime Personal beauty and wellness rituals How to Use Charge the device according to the supplied instructions. Position it comfortably around the eye area without forcing the fit. Select the desired functions according to the manufacturer's instructions. Use for the recommended session duration. Clean and store the device as directed after use. Product Details Battery: 1200 mAh rechargeable Charging: USB Type-C Functions: heat, air pressure, kneading and vibration Audio: integrated music Design: 3D foldable and adjustable Material: protein leather Good to KnowThis is a personal wellness device, not a  device. Follow the manufacturer's instructions for charging, settings and session duration. Do not use while driving or operating machinery. Avoid use on irritated or injured skin and stop if discomfort occurs. If you have an eye or  condition, consult a qualified  professional before using a heated or pressure-based device around the eyes.Preguntas frecuentes¿Qué diferencia aporta frente a un antifaz convencional?Además de cubrir el área de los ojos, integra calor, presión de aire, masaje, vibración y música en una experiencia manos libres pensada para momentos de relajación.¿Qué funciones incorpora?La ficha indica calor, presión de aire, amasado, vibración y música integrada, dentro de un diseño 3D plegable y ajustable.¿Es inalámbrico?Sí. Incorpora una batería recargable de 1200 mAh y utiliza USB Type-C para la carga.¿Puedo utilizarlo durante una pausa después de estar frente a pantallas?Sí. Está planteado para pausas de relajación, momentos de descanso y rutinas de bienestar personal. No debe interpretarse como tratamiento médico para la fatiga visual.¿Puedo usarlo mientras viajo?Su formato plegable y manos libres está pensado para facilitar el uso en casa o durante viajes. No lo utilices mientras conduces ni al manejar maquinaria.¿Puedo combinar el calor con las demás funciones?El dispositivo integra estas funciones, pero la combinación concreta depende de los ajustes disponibles y de las instrucciones del fabricante. Utilízalo conforme al manual.¿La música viene integrada?Sí. La ficha del producto indica música integrada para acompañar la experiencia de relajación.¿Cómo debo cargarlo?Utiliza la conexión USB Type-C y sigue las instrucciones de carga suministradas con la unidad. No utilices accesorios de carga que no sean compatibles.¿Es ajustable?Sí. El diseño se describe como 3D, plegable y ajustable para facilitar su colocación alrededor del área de los ojos.¿Puedo usarlo si tengo una afección ocular?Si tienes una afección ocular o médica, consulta a un profesional sanitario antes de utilizar un dispositivo con calor o presión alrededor de los ojos.¿Qué precauciones debo tener?No lo uses mientras conduces, evita aplicarlo sobre piel irritada o lesionada y detén el uso si aparece molestia. Sigue siempre las instrucciones del fabricante.¿Es un dispositivo médico?No. Es un dispositivo de bienestar personal destinado a relajación y confort; no está diseñado para diagnosticar, tratar, curar o prevenir enfermedades.¿Qué colores o versiones están disponibles?La ficha actual muestra versiones en negro, color té y una versión beige de gama alta. La disponibilidad puede variar.¿Dónde consulto los detalles exactos de funcionamiento?Consulta las instrucciones incluidas con tu unidad para conocer los ajustes, duración recomendada de las sesiones, carga y demás indicaciones específicas.
-  Updated: 2026-09-09T02:10:41Z
+  Price: €89.99 EUR
+- [Zora Smart Heated Eye Massager | Air Pressure & Music](https://zora-10211.myshopify.com/products/zora-smart-heated-eye-massager-air-pressure-music): Explore the Zora Smart Heated Eye Massager with gentle heat, air-pressure massage and music for a convenient hands-free eye-area relaxation routine.
+  Updated: 2026-09-16T02:53:03Z
   Vendor: Zora Terapéutica
   Product Type: Premium Eye Care Devices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/H27b4425c4e984ddba9a7bc73ff008520g.webp?v=1788823151
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/H27b4425c4e984ddba9a7bc73ff008520g.webp?v=1788982983
   - [Black / Plastic](https://zora-10211.myshopify.com/products/zora-smart-heated-eye-massager-air-pressure-music?variant=55960589598888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Hf750f2719d8e43049d288c2f9eb7b90eM.webp?v=1788823115
-    Price: €99.00 EUR
+    Price: €79.99 EUR
   - [tea color / Plastic](https://zora-10211.myshopify.com/products/zora-smart-heated-eye-massager-air-pressure-music?variant=55960589631656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/H0ddf65889b1942bd9bd6b21eecbb38dd9.webp?v=1788807710
-    Price: €99.00 EUR
+    Price: €79.99 EUR
   - [Beige high-end version / Plastic](https://zora-10211.myshopify.com/products/zora-smart-heated-eye-massager-air-pressure-music?variant=55960589664424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/H59bfe3e9ff9846918482e6d0c8e6b586F.webp?v=1788823296
-    Price: €99.00 EUR
-- [Zora Hyaluronic Acid Crystal Facial Mask](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-crystal-facial-mask): Zora hyaluronic acid crystal facial mask with seaweed collagen. A moisture-focused  for a soft, smooth and refreshed-looking complexion.
-  Updated: 2026-09-09T02:07:01Z
+    Price: €79.99 EUR
+- [Hyaluronic Acid Crystal Face Mask | Zora](https://zora-10211.myshopify.com/products/zora-hyaluronic-acid-crystal-facial-mask): Hydrating hyaluronic acid crystal facial mask with seaweed collagen for a fresh, soft and moisture-focused skincare routine.
+  Updated: 2026-09-16T02:48:29Z
   Vendor: Zora
   Product Type: Face Masks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sfeb485d83a4541cb95017cea274020b2l.webp?v=1788896158
   Price: €19.00 EUR
 - [Zora Hydrating Facial Serum](https://zora-10211.myshopify.com/products/zora-hydrating-facial-serum): Zora hydrating facial serum for daily skincare. Lightweight moisture-focused care for a soft, smooth and refreshed-looking complexion.
-  Updated: 2026-09-09T01:59:18Z
+  Updated: 2026-09-16T02:53:00Z
   Vendor: Zora
   Product Type: Face Serums
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S1ecb6ae470514bdd969a3eb3b37e26bdo.webp?v=1788896158
-  Price: €19.00 EUR
+  Price: €17.99 EUR
+- [Face, Neck & Eye Massage Roller Set | Zora](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools): Discover a non-electric resin massage roller set for gentle face, neck and eye-area skincare and self-care routines.
+  Updated: 2026-09-16T03:55:36Z
+  Vendor: Zora Terapéutica
+  Product Type: Skincare - Facial Massage Tools
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S75edc9d1d5d548928d4bcd83b455444ap.webp?v=1789525460
+  - [Pink-03](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789055144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S68901940f5d54f218f0055d961ea35d59.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Pink-02](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789087912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S0196915ddbfb48259b8c3b0bdcfbbe0ab.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Pink-01](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789120680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S868599001a84464c98da0e0e54594247U.webp?v=1789525460
+    Price: €19.90 EUR
+  - [White-03](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789153448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S38c8d1b8c65f471396c7f837869134d0V.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Purple-01](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789186216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sfd0546da4ac24373a5f44f567bbffbe8t.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Green-03](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789218984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S4f1ddfbf3b70462db8da0d2fdc931de5F.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Green-02](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789251752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sb9f25dbd754442dcb3b9b46a76c852c1f.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Green-01](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789284520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S14f465eb2072408b95a8e5f5c7f4875a3.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Purple-03](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789317288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S60d9756cc2a349099d4d13becde4e2a2G.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Purple-02](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789350056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S55d2ad8313644cbf91e998838982c1a69.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Black-01](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789382824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S75cafa4d999d432ebbdf85dbc38ccbc7h.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Reseda](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789415592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S914681e0b1a143c68e6364eeb0440869I.webp?v=1789525460
+    Price: €19.90 EUR
+  - [White-02](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789448360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S599323cd7b6a4e40834d59601aff6453g.webp?v=1789525460
+    Price: €19.90 EUR
+  - [White-01](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789481128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S273a09883ed24d09b7083a6ac585f81dP.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Black-03](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789513896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S6636e2fae72945b79ed002a3bd21662bA.webp?v=1789525460
+    Price: €19.90 EUR
+  - [Black-02](https://zora-10211.myshopify.com/products/roller-for-face-neck-eye-resin-facial-massage-instrumenr-health-care-scraping-board-musclee-beauty-skincare-tools?variant=55993789546664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sebcea3d7d188417e9cf9df3a073e8f82S.webp?v=1789525460
+    Price: €19.90 EUR
+- [Electric Nail Trimmer with LED Light | Zora](https://zora-10211.myshopify.com/products/2-in-1-electric-nail-trimmer-with-led-light-automatic-nail-grinder-trimmer-for-baby--mini-manicure-tools-nail-care): Shop a 3-speed electric nail trimmer with LED light, Type-C charging and a transparent dust compartment for family nail care.
+  Updated: 2026-09-16T03:55:22Z
+  Vendor: Zora Terapéutica
+  Product Type: Beauty Devices - Nail Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf775d4ff64ad4570af360804cc872d42W.webp?v=1789525460
+  Price: €29.90 EUR
+- [7-Color LED Face & Neck Light Therapy Mask](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance): Shop a flexible silicone LED face and neck mask with 168 LEDs, 7 light colors and full-face coverage for an at-home beauty routine.
+  Updated: 2026-09-16T03:54:59Z
+  Vendor: Zora Terapéutica
+  Product Type: Beauty Devices - LED Light Therapy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc3b5bac40a014e2b9d593db9425b5022R.webp?v=1789525461
+  - [EU PLUG (220-240V) / Mexico](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789776040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8ea5cfb37ff7481e83f8d89939061290d.webp?v=1789525462
+    Price: €99.90 EUR
+  - [EU PLUG (220-240V) / China Mainland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789808808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8ea5cfb37ff7481e83f8d89939061290d.webp?v=1789525462
+    Price: €99.90 EUR
+  - [USB / Mexico](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789841576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S233f63079d7e42e3b2407ed2bdf0506dx.webp?v=1789525461
+    Price: €99.90 EUR
+  - [USB / United States](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789874344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S233f63079d7e42e3b2407ed2bdf0506dx.webp?v=1789525461
+    Price: €99.90 EUR
+  - [EU PLUG (220-240V) / United States](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789907112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8ea5cfb37ff7481e83f8d89939061290d.webp?v=1789525462
+    Price: €99.90 EUR
+  - [US PLUG (100-110V) / Mexico](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789939880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S56ef0d22fae84933b430f41ce35a1577X.webp?v=1789525462
+    Price: €99.90 EUR
+  - [US PLUG (100-110V) / United States](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993789972648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S56ef0d22fae84933b430f41ce35a1577X.webp?v=1789525462
+    Price: €99.90 EUR
+  - [US PLUG (100-110V) / China Mainland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790005416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S56ef0d22fae84933b430f41ce35a1577X.webp?v=1789525462
+    Price: €99.90 EUR
+  - [AU PLUG (220-240V) / Mexico](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790038184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d7987232f9e4a2780b94eca28ab68a6O.webp?v=1789525461
+    Price: €99.90 EUR
+  - [AU PLUG (220-240V) / United States](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790070952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d7987232f9e4a2780b94eca28ab68a6O.webp?v=1789525461
+    Price: €99.90 EUR
+  - [US PLUG (100-110V) / Poland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790103720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S56ef0d22fae84933b430f41ce35a1577X.webp?v=1789525462
+    Price: €99.90 EUR
+  - [UK PLUG (220-240V) / Mexico](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790136488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3de1f7088f7847189bce2599d8759542P.webp?v=1789525461
+    Price: €99.90 EUR
+  - [UK PLUG (220-240V) / Poland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790169256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3de1f7088f7847189bce2599d8759542P.webp?v=1789525461
+    Price: €99.90 EUR
+  - [EU PLUG (220-240V) / Poland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790202024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8ea5cfb37ff7481e83f8d89939061290d.webp?v=1789525462
+    Price: €99.90 EUR
+  - [AU PLUG (220-240V) / China Mainland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790234792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d7987232f9e4a2780b94eca28ab68a6O.webp?v=1789525461
+    Price: €99.90 EUR
+  - [USB / China Mainland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790267560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S233f63079d7e42e3b2407ed2bdf0506dx.webp?v=1789525461
+    Price: €99.90 EUR
+  - [USB / Poland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790300328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S233f63079d7e42e3b2407ed2bdf0506dx.webp?v=1789525461
+    Price: €99.90 EUR
+  - [AU PLUG (220-240V) / Poland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790333096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8d7987232f9e4a2780b94eca28ab68a6O.webp?v=1789525461
+    Price: €99.90 EUR
+  - [UK PLUG (220-240V) / United States](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790365864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3de1f7088f7847189bce2599d8759542P.webp?v=1789525461
+    Price: €99.90 EUR
+  - [UK PLUG (220-240V) / China Mainland](https://zora-10211.myshopify.com/products/face-neck-silicone-led-mask-led-light-7-colors-photon-red-light-therapy-flexible-facial-beauty-mask-skin-care-anti-ance?variant=55993790398632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3de1f7088f7847189bce2599d8759542P.webp?v=1789525461
+    Price: €99.90 EUR
+- [Hello Face L6 720 LED Light Therapy System](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use): Discover the Hello Face L6 with 720 LED chips, red, blue, amber and 850nm NIR wavelengths, timed sessions and flexible body use.
+  Updated: 2026-09-16T03:54:06Z
+  Vendor: Zora Terapéutica
+  Product Type: Beauty Devices - LED Light Therapy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S62cb8555bb2f4a1db82ba65c63d7c2een.webp?v=1789525462
+  - [BLUE / United States](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790496936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf24d69975a5c4bffbcda6b9db6f946d6Y.webp?v=1789525462
+    Price: €299.00 EUR
+  - [GREY / United States](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790529704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd2be75002af143f8994aa14cb0b685328.webp?v=1789525462
+    Price: €299.00 EUR
+  - [BLUE / United Kingdom](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790562472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf24d69975a5c4bffbcda6b9db6f946d6Y.webp?v=1789525462
+    Price: €299.00 EUR
+  - [BLUE / Germany](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790595240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf24d69975a5c4bffbcda6b9db6f946d6Y.webp?v=1789525462
+    Price: €299.00 EUR
+  - [GREY / United Kingdom](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790628008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd2be75002af143f8994aa14cb0b685328.webp?v=1789525462
+    Price: €299.00 EUR
+  - [GREY / Germany](https://zora-10211.myshopify.com/products/720-leds-hello-face-l6-red-light-mask-extra-large-infrared-light-mask-full-body-panel-pad-led-face-lamp-for-home-salon-use?variant=55993790660776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd2be75002af143f8994aa14cb0b685328.webp?v=1789525462
+    Price: €299.00 EUR
+- [7-Color LED Face & Neck Massager](https://zora-10211.myshopify.com/products/home-use-led-face-neck-massager-7-colors-light-therapy-7-modes-3-levels-vibration-face-lifting-anti-wrinkle-beauty-instrument): Explore a rechargeable face and neck massager with 7 LED light modes, 3 vibration levels and USB-C charging for home skincare routines.
+  Updated: 2026-09-16T03:53:37Z
+  Vendor: Zora Terapéutica
+  Product Type: Beauty Devices - Facial Massagers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se69b899fc3954f19889f6ccd3cfde21dm.webp?v=1789525461
+  Price: €49.90 EUR
+- [Mini Ultrasonic Car Humidifier with LED](https://zora-10211.myshopify.com/products/1pc-car-humidifier-colorful-led-aromatherapy-humidifier-silent-ultrasonic-air-aromatherapy-machine-suitable-for-bedroom-office): Shop a compact 5V ultrasonic car humidifier with LED lighting, quiet mist output and a space-saving design for personal use.
+  Updated: 2026-09-16T03:53:49Z
+  Vendor: Zora Terapéutica
+  Product Type: Home & Wellness - Humidifiers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S8a93f4984db846fd976c81f913242f3cJ.webp?v=1789525461
+  - [H06 white](https://zora-10211.myshopify.com/products/1pc-car-humidifier-colorful-led-aromatherapy-humidifier-silent-ultrasonic-air-aromatherapy-machine-suitable-for-bedroom-office?variant=55993790431400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S2298b0982ae34f2fb6229015c0196decM.webp?v=1789525461
+    Price: €24.90 EUR
+  - [H06 black](https://zora-10211.myshopify.com/products/1pc-car-humidifier-colorful-led-aromatherapy-humidifier-silent-ultrasonic-air-aromatherapy-machine-suitable-for-bedroom-office?variant=55993790464168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sadd75b841056448eba4f969128facd5ak.webp?v=1789525461
+    Price: €24.90 EUR
+- [5/10/20/30pcs SADOER Collagen Face Mask Firming Moisturizing Repair Brightening Skincare Face Sheet Mask Facial Masks Skin Care](https://zora-10211.myshopify.com/products/5-10-20-30pcs-sadoer-collagen-face-mask-firming-moisturizing-repair-brightening-skincare-face-sheet-mask-facial-masks-skin-care): SPECIFICATIONSBrand Name: NONECertification: CPNPChoice: yesFeature: Anti-Aging,Moisturizing,Oil-control,Depth ReplenishmentFormulation: LiquidGender: UnisexHigh-concerned chemical: noneItem Type:  & MaskMaterial: othersModel Number: facial maskNET WT: 10/20/30pcsNumber of Pieces: ComboOrigin: Mainland ChinaPeriod After Opening: 12 monthsShelf Life: 3 yearsType: Wrapped MaskUse: Whole Faceface mask: hyaluronic acid maskhydrating mask: brightening maskmoisturizing mask: skin care maskrepairing mask: collagen masksoothing mask: firming maskSADOER Collagen Face Mask Firming Moisturizing Repair Brightening skincare Face Sheet Mask Beauty Facial Masks Skin Care#Collagen Anti-Wrinkle Mask#Collagen Facial Mask#Anti-Aging Collagen Sheet Mask#Wrinkle Reducing Face Mask#Collagen Firming Mask#Cheap Collagen Masks Bulk# Anti-Wrinkle Mask Pack#Korean Collagen Mask#Gift Set Collagen Masks#Valentine's Day Skin Care Gift
+  Updated: 2026-09-16T03:55:52Z
+  Vendor: Zora Terapéutica
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sdc041e558ff9420193bf0c21c40c2300a.webp?v=1789525462
+  - [5pcs](https://zora-10211.myshopify.com/products/5-10-20-30pcs-sadoer-collagen-face-mask-firming-moisturizing-repair-brightening-skincare-face-sheet-mask-facial-masks-skin-care?variant=55993790693544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S3e0a13c2e0ac41fcaa3103f54d1d721fI.webp?v=1789525462
+    Price: €3.35 EUR
+  - [10pcs](https://zora-10211.myshopify.com/products/5-10-20-30pcs-sadoer-collagen-face-mask-firming-moisturizing-repair-brightening-skincare-face-sheet-mask-facial-masks-skin-care?variant=55993790726312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S34d29f374b7442fca66929703e9fdc6b1.webp?v=1789525462
+    Price: €6.01 EUR
+  - [20pcs](https://zora-10211.myshopify.com/products/5-10-20-30pcs-sadoer-collagen-face-mask-firming-moisturizing-repair-brightening-skincare-face-sheet-mask-facial-masks-skin-care?variant=55993790759080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S562bdfb5777e4ce5b26e2db94c2fe1f70.webp?v=1789525462
+    Price: €13.17 EUR
+  - [30pcs](https://zora-10211.myshopify.com/products/5-10-20-30pcs-sadoer-collagen-face-mask-firming-moisturizing-repair-brightening-skincare-face-sheet-mask-facial-masks-skin-care?variant=55993790791848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sdc42ebbbb9ee4b62bad0e047baaffa83k.webp?v=1789525462
+    Price: €18.37 EUR
+- [Ice Face Roller & Gua Sha Set | Zora](https://zora-10211.myshopify.com/products/1-2-3pcs-ice-face-roller-facial-skincare-ice-roller-set-facial-roller-guasha-facetool-set-face-massage-roller-lifting-contouring): Refresh your routine with a reusable ice face roller and facial massage tool designed for cooling, soothing-feeling skincare at home.
+  Updated: 2026-09-16T03:56:21Z
+  Vendor: Zora Terapéutica
+  Product Type: Skincare - Facial Tools
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S92a66d6af9964e18a23f694c774548eaI.webp?v=1789525463
+  - [1PC-black](https://zora-10211.myshopify.com/products/1-2-3pcs-ice-face-roller-facial-skincare-ice-roller-set-facial-roller-guasha-facetool-set-face-massage-roller-lifting-contouring?variant=55993790857384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc5ccbf8d73f04128bc0b2df094f4e2cdc.webp?v=1789525462
+    Price: €24.90 EUR
+  - [4PC-black](https://zora-10211.myshopify.com/products/1-2-3pcs-ice-face-roller-facial-skincare-ice-roller-set-facial-roller-guasha-facetool-set-face-massage-roller-lifting-contouring?variant=55993790890152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S37028a48cf3d421cb0d595c351253f38P.webp?v=1789525462
+    Price: €24.90 EUR
+  - [3PC-black](https://zora-10211.myshopify.com/products/1-2-3pcs-ice-face-roller-facial-skincare-ice-roller-set-facial-roller-guasha-facetool-set-face-massage-roller-lifting-contouring?variant=55993790922920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Se9b5d38f20cb4008ac8cfa5ec6fbaf90g.webp?v=1789525462
+    Price: €24.90 EUR
+- [Retinol Microneedle Eye Patches | Zora](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair): Shop retinol microneedle-style eye patches with hyaluronic acid and peptides for a targeted, hydration-focused skincare routine.
+  Updated: 2026-09-16T03:56:36Z
+  Vendor: Zora Terapéutica
+  Product Type: Skincare - Eye Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S9a54463e780d4a54ac10c85b1485d18bL.webp?v=1789525463
+  - [R1-paor](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993790955688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sfa4c246daf3c491986210756d78a3df7M.webp?v=1789525464
+    Price: €24.90 EUR
+  - [A pair of pink](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993790988456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S381b5ca4b85d4c8b9e83172ad9ae6031d.webp?v=1789525464
+    Price: €24.90 EUR
+  - [XIN  golden](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791021224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sd5ee74cac15e4cabae5651d2a8ac16e2S.webp?v=1789525464
+    Price: €24.90 EUR
+  - [XIN pink](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791053992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Scef16f9459174bbab69f6c610bc4f75b5.webp?v=1789525464
+    Price: €24.90 EUR
+  - [1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791086760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sc67d855edc844cd0a2abb1c7ad35a1fe4.webp?v=1789525464
+    Price: €24.90 EUR
+  - [A1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791119528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S67e96d7374b04afa99c2d017cb6f897fL.webp?v=1789525464
+    Price: €24.90 EUR
+  - [B1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791152296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/Sf573d5c80c9e4ed5ad1ff918e3d55992X.webp?v=1789525464
+    Price: €24.90 EUR
+  - [C1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791185064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S70ce52ef985a44c1bd08b8b84f9645a0y.webp?v=1789525464
+    Price: €24.90 EUR
+  - [D1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791217832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S42a8f117803a4b56bf2af3b3554452077.webp?v=1789525463
+    Price: €24.90 EUR
+  - [E1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791250600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S768bd2de46b247b0b8cce51232bccebaj.webp?v=1789525464
+    Price: €24.90 EUR
+  - [F1-pair](https://zora-10211.myshopify.com/products/retinol-microneedle-eye-patches-with-hyaluronic-acid-firming-peptides-for-forehead-eye-area-crows-feet-smile-lines-1pair?variant=55993791283368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0763/9089/1688/files/S85e637e1318f473f952f153693662f5c2.webp?v=1789525464
+    Price: €24.90 EUR
 
 ## Collections
 
 - [Best Seller](https://zora-10211.myshopify.com/collections/best-seller): Shop Zora's best- wellness and beauty products, loved by customers for comfort, quality and everyday results.
-  Updated: 2026-09-08T19:48:00Z
+  Updated: 2026-09-16T02:49:55Z
   Total Products: 26
 - [Beauty & Skincare](https://zora-10211.myshopify.com/collections/beauty-skincare): Shop premium skincare and beauty essentials from Zora, including facial care, hydration, eye and lip care, hair treatments, exfoliating products and beauty kits.
-  Updated: 2026-09-09T00:40:34Z
-  Total Products: 46
+  Updated: 2026-09-16T02:56:11Z
+  Total Products: 47
 - [Recovery & Massage](https://zora-10211.myshopify.com/collections/recovery-massage): Explore premium massage and recovery essentials from Zora, including massage devices, cushions, compression and heat comfort tools for restorative self-care.
-  Updated: 2026-09-09T00:40:25Z
+  Updated: 2026-09-16T02:56:10Z
   Total Products: 15
 - [Comfort & Rest](https://zora-10211.myshopify.com/collections/comfort-rest): Shop premium comfort, sleep and travel essentials from Zora, including ergonomic pillows, supportive cushions and practical relaxation accessories.
-  Updated: 2026-09-07T22:40:53Z
+  Updated: 2026-09-16T02:49:55Z
   Total Products: 26
 - [Personal Care & Everyday Wellness](https://zora-10211.myshopify.com/collections/personal-care-everyday-wellness): Discover premium personal care and everyday wellness essentials from Zora, including hand and foot care, cosmetic spot patches, mirrors and self-care accessories.
-  Updated: 2026-09-07T22:40:57Z
-  Total Products: 3
+  Updated: 2026-09-16T02:56:25Z
+  Total Products: 4
 - [Beauty & Wellness Devices](https://zora-10211.myshopify.com/collections/beauty-wellness-devices): Explore premium beauty and wellness devices from Zora, including facial cleansing tools, massagers, eye comfort devices, LED beauty technology and self-care equipment.
-  Updated: 2026-09-09T00:40:34Z
-  Total Products: 22
+  Updated: 2026-09-16T02:56:09Z
+  Total Products: 26
 - [Nail Care & Beauty Tools](https://zora-10211.myshopify.com/collections/nail-care-beauty-tools): Shop premium nail care and beauty tools from Zora, including modern nail care devices and practical accessories for polished at-home routines.
-  Updated: 2026-09-07T22:40:56Z
-  Total Products: 1
+  Updated: 2026-09-16T02:56:22Z
+  Total Products: 2
 
 ## Blogs
 
@@ -2044,7 +2298,7 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
     Author: Admin
     Tags: beauty tech, massage, muscle recovery
   - [4D Bionic Deep Tissue Massager Benefits](https://zora-10211.myshopify.com/blogs/zora-journal/4d-bionic-deep-tissue-massager-benefits): 4D Bionic Deep Tissue Massager Benefits
-    Updated: 2026-09-09T03:47:12Z
+    Updated: 2026-09-09T13:43:54Z
     Author: Admin
     Tags: beauty tech, deep tissue, massage, muscle recovery
   - [Blue Light Safety for LED Beauty Devices](https://zora-10211.myshopify.com/blogs/zora-journal/blue-light-safety-for-led-beauty-devices): Blue Light Safety for LED Beauty Devices
@@ -2284,36 +2538,114 @@ Zora stands out for therapeutic technology designed to enhance the human body, i
   - [LED Mask Versus Professional Facial: Which Fits?](https://zora-10211.myshopify.com/blogs/zora-journal/led-mask-versus-professional-facial-which-fits): LED Mask Versus Professional Facial: Which Fits?
     Updated: 2026-09-09T03:41:57Z
     Author: Admin
+  - [LED Mask Versus Microcurrent Device: Which Fits?](https://zora-10211.myshopify.com/blogs/zora-journal/led-mask-versus-microcurrent-device-which-fits): LED Mask Versus Microcurrent Device: Which Fits?
+    Updated: 2026-09-10T01:51:09Z
+    Author: Admin
+  - [What Phototherapy Effectiveness Looks Like at Home](https://zora-10211.myshopify.com/blogs/zora-journal/what-phototherapy-effectiveness-looks-like-at-home): What Phototherapy Effectiveness Looks Like at Home
+    Updated: 2026-09-10T01:51:08Z
+    Author: Admin
+  - [Best Deep Tissue Massage Gun for Back Pain](https://zora-10211.myshopify.com/blogs/zora-journal/best-deep-tissue-massage-gun-for-back-pain): Best Deep Tissue Massage Gun for Back Pain
+    Updated: 2026-09-09T13:40:31Z
+    Author: Admin
+  - [At-Home Neck and Shoulder Massager With Heat](https://zora-10211.myshopify.com/blogs/zora-journal/at-home-neck-and-shoulder-massager-with-heat): At-Home Neck and Shoulder Massager With Heat
+    Updated: 2026-09-09T13:40:23Z
+    Author: Admin
+  - [Best Posture Corrector Devices for Office Workers](https://zora-10211.myshopify.com/blogs/zora-journal/best-posture-corrector-devices-for-office-workers): Best Posture Corrector Devices for Office Workers
+    Updated: 2026-09-10T01:51:05Z
+    Author: Admin
+  - [How to Get Rid of Dark Circles Under Eyes Fast](https://zora-10211.myshopify.com/blogs/zora-journal/how-to-get-rid-of-dark-circles-under-eyes-fast): How to Get Rid of Dark Circles Under Eyes Fast
+    Updated: 2026-09-09T13:40:50Z
+    Author: Admin
+  - [7 Electric Eye and Lip Massager Benefits](https://zora-10211.myshopify.com/blogs/zora-journal/7-electric-eye-and-lip-massager-benefits): 7 Electric Eye and Lip Massager Benefits
+    Updated: 2026-09-10T01:51:06Z
+    Author: Admin
+  - [Best Collagen Eye Patches for Wrinkles That Work](https://zora-10211.myshopify.com/blogs/zora-journal/best-collagen-eye-patches-for-wrinkles-that-work): Best Collagen Eye Patches for Wrinkles That Work
+    Updated: 2026-09-10T01:51:05Z
+    Author: Admin
+  - [At-Home LED Light Therapy Mask Before and After](https://zora-10211.myshopify.com/blogs/zora-journal/at-home-led-light-therapy-mask-before-and-after): At-Home LED Light Therapy Mask Before and After
+    Updated: 2026-09-09T13:40:21Z
+    Author: Admin
+  - [Hydrating Sheet Mask for Sensitive Skin Vitamin B5](https://zora-10211.myshopify.com/blogs/zora-journal/hydrating-sheet-mask-for-sensitive-skin-vitamin-b5): Hydrating Sheet Mask for Sensitive Skin Vitamin B5
+    Updated: 2026-09-10T01:51:09Z
+    Author: Admin
+  - [Best Alternatives to Botox With At-Home Devices](https://zora-10211.myshopify.com/blogs/zora-journal/best-alternatives-to-botox-with-at-home-devices): Best Alternatives to Botox With At-Home Devices
+    Updated: 2026-09-10T01:51:06Z
+    Author: Admin
+  - [A Beauty Device Routine That Fits Real Life](https://zora-10211.myshopify.com/blogs/zora-journal/a-beauty-device-routine-that-fits-real-life): A Beauty Device Routine That Fits Real Life
+    Updated: 2026-09-10T01:51:07Z
+    Author: Admin
+  - [Beauty Device Innovations Worth Your Time](https://zora-10211.myshopify.com/blogs/zora-journal/beauty-device-innovations-worth-your-time): Beauty Device Innovations Worth Your Time
+    Updated: 2026-09-09T13:40:26Z
+    Author: Admin
+  - [The Secret to Improving Sleep Quality and Neck Comfort with a Memory Foam Cervical Pillow](https://zora-10211.myshopify.com/blogs/zora-journal/the-secret-to-improving-sleep-quality-and-neck-comfort-with-a-memory-foam-cervical-pillow): The Secret to Improving Sleep Quality and Neck Comfort with a Memory Foam Cervical Pillow
+    Updated: 2026-09-11T09:14:44Z
+    Author: Zora Terapéutic
+  - [Wearable Mask Reviews That Look Beyond Hype](https://zora-10211.myshopify.com/blogs/zora-journal/wearable-mask-reviews-that-look-beyond-hype): Wearable Mask Reviews That Look Beyond Hype
+    Updated: 2026-09-12T15:04:52Z
+    Author: Admin
+  - [Facial Phototherapy Reviews and Real Results](https://zora-10211.myshopify.com/blogs/zora-journal/facial-phototherapy-reviews-and-real-results): Facial Phototherapy Reviews and Real Results
+    Updated: 2026-09-12T15:04:42Z
+    Author: Admin
+  - [LED Face Mask Wavelength Guide for Better Results](https://zora-10211.myshopify.com/blogs/zora-journal/led-face-mask-wavelength-guide-for-better-results): LED Face Mask Wavelength Guide for Better Results
+    Updated: 2026-09-12T15:04:47Z
+    Author: Admin
+  - [LED Face Mask: 4  Modes Explained](https://zora-10211.myshopify.com/blogs/zora-journal/led-face-mask-4--modes-explained): LED Face Mask: 4  Modes Explained
+    Updated: 2026-09-12T15:04:48Z
+    Author: Admin
+  - [Acne Device Feedback and Realistic Results](https://zora-10211.myshopify.com/blogs/zora-journal/acne-device-feedback-and-realistic-results): Acne Device Feedback and Realistic Results
+    Updated: 2026-09-12T15:04:38Z
+    Author: Admin
+  - [LED Acne Outcomes: What Consistency Can Change](https://zora-10211.myshopify.com/blogs/zora-journal/led-acne-outcomes-what-consistency-can-change): LED Acne Outcomes: What Consistency Can Change
+    Updated: 2026-09-12T15:04:45Z
+    Author: Admin
+  - [The LED Skincare Future Is Personal, Not Passive](https://zora-10211.myshopify.com/blogs/zora-journal/the-led-skincare-future-is-personal-not-passive): The LED Skincare Future Is Personal, Not Passive
+    Updated: 2026-09-12T15:04:50Z
+    Author: Admin
+  - [Five Common Problems with [Product] and How to Solve Them](https://zora-10211.myshopify.com/blogs/zora-journal/five-common-problems-with-product-and-how-to-solve-them): Five Common Problems with [Product] and How to Solve Them
+    Updated: 2026-09-15T03:05:35Z
+    Author: Zora
+  - [How to Choose LED Mask Fit for Real Comfort](https://zora-10211.myshopify.com/blogs/zora-journal/how-to-choose-led-mask-fit-for-real-comfort): How to Choose LED Mask Fit for Real Comfort
+    Updated: 2026-09-16T01:51:15Z
+    Author: Admin
+  - [Rejuvenate Your Skin Naturally with the 3-in-1 V-Line Facial Massager: An In-Depth Guide](https://zora-10211.myshopify.com/blogs/zora-journal/rejuvenate-your-skin-naturally-with-the-3-in-1-v-line-facial-massager-an-in-depth-guide): Rejuvenate Your Skin Naturally with the 3-in-1 V-Line Facial Massager: An In-Depth Guide
+    Updated: 2026-09-16T00:28:42Z
+    Author: Zora Terapéutic
 
 ## Store Pages
 
-- [Contact Zora](https://zora-10211.myshopify.com/pages/contact-zora): Contact ZoraWe are here to help. If you have a question about your order, our products, or anything else, please contact us. Email: zoramasc211@gma...
-  Updated: 2026-09-06T22:10:26Z
+- [Contact Zora](https://zora-10211.myshopify.com/pages/contact-zora): Contact ZoraWe are here to help. If you have a question about your order, our products, or anything else, please contact us. Email: soporte.zorater...
+  Updated: 2026-09-10T06:27:00Z
 - [Tus opciones de privacidad](https://zora-10211.myshopify.com/pages/tus-opciones-de-privacidad): Como se describe en nuestra Política de privacidad, recopilamos información personal de sus interacciones con nosotros y nuestro sitio web, incluso...
-  Updated: 2026-09-07T02:16:43Z
-- [Thank You](https://zora-10211.myshopify.com/pages/thank-you): 💜Thank You For Your Order! Your glow journey starts now — we're already preparing your Hello Face M300 for shipment. 1ConfirmationYou'll get an ema...
-  Updated: 2026-08-22T18:29:29Z
+  Updated: 2026-09-16T01:51:15Z
+- [Thank You for Your Order!](https://zora-10211.myshopify.com/pages/thank-you-for-your-order): Thank You For Your Order!Your order has been received and your Zora experience starts now.What Happens Next? Order Confirmation — You will receive ...
+  Updated: 2026-09-11T01:49:40Z
 - [About Zora — Technology to Rejuvenate](https://zora-10211.myshopify.com/pages/about-zora-technology-to-rejuvenate): About ZoraTechnology to RejuvenateAt Zora, we believe everyday self-care should feel confident, considered, and accessible. We curate modern beauty...
-  Updated: 2026-09-06T22:14:53Z
-- [Thank You for Your Purchase — Zora](https://zora-10211.myshopify.com/pages/thank-you-for-your-purchase): Thank You! 💚We are truly grateful for your trust in Zora. Your order means the world to us, and we can't wait for you to experience the results of ...
-  Updated: 2026-09-02T17:24:17Z
+  Updated: 2026-09-10T06:30:12Z
+- [Thank You for Your Purchase — Zora](https://zora-10211.myshopify.com/pages/thank-you-for-your-purchase): Thank You!We are grateful for your trust in Zora. Your order is being prepared.What Happens Next? Order Confirmation — You will receive an email wi...
+  Updated: 2026-09-10T06:30:12Z
 - [LLMs.txt](https://zora-10211.myshopify.com/pages/llms-txt): Zora — Store Information for AI AssistantsZora is an online store focused on premium beauty, skincare, wellness technology, comfort, recovery, mass...
   Updated: 2026-09-08T22:44:36Z
-- [Preguntas frecuentes | Zora](https://zora-10211.myshopify.com/pages/preguntas-frecuentes-zora): Preguntas frecuentesEncuentra respuestas rápidas sobre productos, pagos, pedidos, envíos, devoluciones, atención y promociones de Zora.Compras y pr...
-  Updated: 2026-09-09T03:41:42Z
+- [Frequently Asked Questions | Zora](https://zora-10211.myshopify.com/pages/frequently-asked-questions-zora): Frequently Asked Questions | ZoraFind quick answers about products, payments, orders, shipping, returns, support, and promotions at Zora.Orders & S...
+  Updated: 2026-09-11T01:49:41Z
+- [ZORA Sanctuary](https://zora-10211.myshopify.com/pages/zora-sanctuary): ZORA Sanctuary Beauty. Wellness. Self-Care. A curated space for beauty, comfort, recovery and everyday well-being.
+  Updated: 2026-09-12T15:04:31Z
+- [Privacy Choices](https://zora-10211.myshopify.com/pages/privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-09-12T15:04:30Z
+- [ZORA 90-Day Warranty — Electronics Only](https://zora-10211.myshopify.com/pages/zora-90-day-warranty-electronics-only): ZORA CUSTOMER CARE 90-Day Limited Warranty For eligible electronic products only. ZORA stands behind eligible electronic devices against manufactur...
+  Updated: 2026-09-15T03:05:29Z
 
 ## Policies
 
 - [Privacy Policy](https://zora-10211.myshopify.com/policies/privacy-policy)
-  Updated: 2026-08-18T04:42:26+01:00
+  Updated: 2026-09-10T14:31:31+01:00
 - [Shipping Policy](https://zora-10211.myshopify.com/policies/shipping-policy)
-  Updated: 2026-08-18T08:48:19+01:00
+  Updated: 2026-09-10T07:36:11+01:00
 - [Refund Policy](https://zora-10211.myshopify.com/policies/refund-policy)
-  Updated: 2026-08-18T07:13:54+01:00
+  Updated: 2026-09-15T17:53:17+01:00
 - [Terms of Service](https://zora-10211.myshopify.com/policies/terms-of-service)
-  Updated: 2026-08-18T04:07:01+01:00
+  Updated: 2026-09-10T15:47:45+01:00
 - [Contact Information](https://zora-10211.myshopify.com/policies/contact-information)
-  Updated: 2026-08-18T04:12:03+01:00
+  Updated: 2026-09-10T17:31:48+01:00
 
 ## Optional
 
