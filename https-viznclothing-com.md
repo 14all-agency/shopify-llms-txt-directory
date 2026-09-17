@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-09-10T00:00:36.268Z
+- Updated At: 2026-09-17T00:00:37.491Z
 
 ## Products
 
@@ -211,6 +211,15 @@
     Author: Jake Swindells
   - [Pros and Cons of the Boxy Fit T-Shirt Trend in Luxury Streetwear](https://viznclothing.com/blogs/news/pros-and-cons-of-the-boxy-fit-t-shirt-trend-in-luxury-streetwear): Pros and Cons of the Boxy Fit T-Shirt Trend in Luxury Streetwear
     Updated: 2026-09-07T00:22:10Z
+    Author: Jake Swindells
+  - [How UK Streetwear Brands Are Embracing the Minimalistic Trend with Boxy Fit Designs](https://viznclothing.com/blogs/news/how-uk-streetwear-brands-are-embracing-the-minimalistic-trend-with-boxy-fit-designs): How UK Streetwear Brands Are Embracing the Minimalistic Trend with Boxy Fit Designs
+    Updated: 2026-09-11T19:27:12Z
+    Author: Jake Swindells
+  - [Discovering Luxury Streetwear in the UK: The Appeal of Heavyweight Boxy Hoodies](https://viznclothing.com/blogs/news/discovering-luxury-streetwear-in-the-uk-the-appeal-of-heavyweight-boxy-hoodies): Discovering Luxury Streetwear in the UK: The Appeal of Heavyweight Boxy Hoodies
+    Updated: 2026-09-11T19:27:15Z
+    Author: Jake Swindells
+  - [Why Boxy Fit T-Shirts Are a Staple in Minimalistic Streetwear](https://viznclothing.com/blogs/news/why-boxy-fit-t-shirts-are-a-staple-in-minimalistic-streetwear): Why Boxy Fit T-Shirts Are a Staple in Minimalistic Streetwear
+    Updated: 2026-09-14T16:30:07Z
     Author: Jake Swindells
 
 ## Store Pages
