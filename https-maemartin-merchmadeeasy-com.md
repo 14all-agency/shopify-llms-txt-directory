@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-04T00:00:39.384Z
+- Updated At: 2026-09-17T00:00:41.424Z
 
 ## Products
 
 - [Bear Portal Hoodie](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie): 80/20 cotton/recycled polyester hoodie in army green
-  Updated: 2026-08-29T04:50:39Z
+  Updated: 2026-09-11T01:23:16Z
   Vendor: Mae Martin
   Product Type: Hoodie
   Availability: Available
@@ -153,16 +153,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maemartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-08T11:30:03Z
+  Updated: 2026-09-11T11:32:45Z
   Total Products: 4
 - [Apparel](https://maemartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-08T11:30:03Z
+  Updated: 2026-09-11T11:32:45Z
   Total Products: 2
 - [Accessories](https://maemartin.merchmadeeasy.com/collections/accessories)
   Updated: 2026-06-16T12:24:35Z
   Total Products: 2
 - [All](https://maemartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-08T11:30:03Z
+  Updated: 2026-09-11T11:32:45Z
   Total Products: 4
 
 ## Store Pages
