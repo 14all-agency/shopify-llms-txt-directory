@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T22:42:23Z
 - Contact Email: theangelaurareiki@gmail.com
-- Updated At: 2026-09-09T00:00:42.765Z
+- Updated At: 2026-09-17T00:00:45.977Z
 
 ## Products
 
@@ -3051,133 +3051,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy5.jpg?v=1788225928
   Price: $55.00 USD
-- [Bare Organic Makeup Remover & Vegan Cleanser | angelaurareiki](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner): Gently dissolve waterproof makeup with Bare Organic Makeup Remover. Infused with botanical herbs, aloe, and rose water to clarify, soothe, and cleanse naturally.
-  Updated: 2026-08-29T01:57:39Z
-  Vendor: angelaurareiki
-  Product Type: Makeup Remover
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy_3.jpg?v=1787296948
-  - [Christmas Tree](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652906584)
-    Availability: Available
-    Price: $17.00 USD
-  - [Gingerbread Cookies](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652939352)
-    Availability: Available
-    Price: $17.00 USD
-  - [Vanilla Bean](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652972120)
-    Availability: Available
-    Price: $17.00 USD
-  - [Candy Cane](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653004888)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Frankincense & Myrrh](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653037656)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Eggnog](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653070424)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Pumpkin Spice](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653103192)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Toasted Marshmallow](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653135960)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Witch’s Brew](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653168728)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Easter Basket](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653201496)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Hot Cross Buns](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653234264)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Spring Lily Garden](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653267032)
-    Availability: Not Available
-    Price: $17.00 USD
-  - [Chocolate Easter Egg](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653299800)
-    Availability: Available
-    Price: $17.00 USD
-  - [Strawberry Chocolate](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653332568)
-    Availability: Available
-    Price: $17.00 USD
-  - [Peach](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653365336)
-    Availability: Available
-    Price: $17.00 USD
-  - [Tomato](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653398104)
-    Availability: Available
-    Price: $17.00 USD
-  - [Carrot Cake](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653430872)
-    Availability: Available
-    Price: $17.00 USD
-  - [Buttercream](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653463640)
-    Availability: Available
-    Price: $17.00 USD
-  - [Chocolate pie](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653496408)
-    Availability: Available
-    Price: $17.00 USD
-  - [Sweet Vanilla](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653529176)
-    Availability: Available
-    Price: $17.00 USD
-  - [Rose Earth](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653561944)
-    Availability: Available
-    Price: $17.00 USD
-  - [Herbal Earthy](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653594712)
-    Availability: Available
-    Price: $17.00 USD
-  - [Lavender](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653627480)
-    Availability: Available
-    Price: $17.00 USD
-  - [Spicy Ginger](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653660248)
-    Availability: Available
-    Price: $17.00 USD
-  - [Rainstorm](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653693016)
-    Availability: Available
-    Price: $17.00 USD
-  - [Rose](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653725784)
-    Availability: Available
-    Price: $17.00 USD
-  - [Crisp Lemon](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653758552)
-    Availability: Available
-    Price: $17.00 USD
-  - [Flower Garden](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653791320)
-    Availability: Available
-    Price: $17.00 USD
-  - [Sun Drenched](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653824088)
-    Availability: Available
-    Price: $17.00 USD
-  - [Herbal Mocha Latte](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653856856)
-    Availability: Available
-    Price: $17.00 USD
-  - [Cinnamon Bun](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653889624)
-    Availability: Available
-    Price: $17.00 USD
-  - [Vanilla Choclate](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653922392)
-    Availability: Available
-    Price: $17.00 USD
-  - [Gumdrop](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653955160)
-    Availability: Available
-    Price: $17.00 USD
-  - [Cranberry](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653987928)
-    Availability: Available
-    Price: $17.00 USD
-  - [Poundcake](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654020696)
-    Availability: Available
-    Price: $17.00 USD
-  - [Blueberry pie](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654053464)
-    Availability: Available
-    Price: $17.00 USD
-  - [Lucky Charms](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654086232)
-    Availability: Available
-    Price: $17.00 USD
-  - [Fruit Loops](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654119000)
-    Availability: Available
-    Price: $17.00 USD
-  - [Unscented](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654151768)
-    Availability: Available
-    Price: $17.00 USD
-  - [Custom](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654184536)
-    Availability: Available
-    Price: $19.00 USD
-[List Continued](https://angelaurareiki.myshopify.com/a/llms-agent/llms.txt?shop=cwphch-tu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQyNjc0MjQ3NzY4LCJsYXN0X3ZhbHVlIjoiODk0MjY3NDI0Nzc2OCJ9)
+[List Continued](https://angelaurareiki.myshopify.com/a/llms-agent/llms.txt?shop=cwphch-tu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQyMzYzOTAyMDQwLCJsYXN0X3ZhbHVlIjoiODk0MjM2MzkwMjA0MCJ9)
 
 ## Collections
 
@@ -3230,6 +3104,14 @@
     Updated: 2026-09-08T13:01:43Z
     Author: angelaurareiki
     Tags: angelaurareiki, botanical wellness, comparison, dry skin, organic skincare
+  - [Botanical Lip Care for Chapped Lips: Ultimate Guide](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/the-ultimate-guide-to-botanical-lip-care-for-chapped-lips): Botanical Lip Care for Chapped Lips: Ultimate Guide
+    Updated: 2026-09-10T13:01:26Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, chapped lips, how to, lip care, natural skincare, vegan beauty
+  - [angelaurareiki vs True Botanicals: Botanical Brands Compared](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/angelaurareiki-vs-dr-bronners-which-herbal-cleaners-are-safer-for-a-non-toxic-home): angelaurareiki vs True Botanicals: Botanical Brands Compared
+    Updated: 2026-09-15T13:01:29Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, comparison, holistic wellness, natural skincare, vegan beauty
 
 ## Store Pages
 
