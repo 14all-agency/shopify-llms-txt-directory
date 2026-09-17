@@ -6,23 +6,23 @@
 - Timezone: Europe/Rome
 - Created At: 2022-01-13T10:57:35Z
 - Contact Email: info@otticamolineris.it
-- Updated At: 2026-09-09T20:03:31.659Z
+- Updated At: 2026-09-17T00:00:34.774Z
 
 ## Products
 
 - [AKIRA/P/S KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/akira-p-s): KATE SPADE NY AKIRA/P/S: occhiali da sole da donna firmati KATE SPADE NY, con montatura a farfalla in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in CR-39 offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 54 mm, ponte 17 mm, aste 125 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T17:01:52Z
+  Updated: 2026-09-16T23:05:42Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475201_q45.jpg?v=1787644896
-  - [54/17/125 / Havana green](https://otticamolineris.it/products/akira-p-s?variant=53900070617416)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475201_q45.jpg?v=1789599939
+  - [54/17/125 / Havana green](https://otticamolineris.it/products/akira-p-s?variant=54079047041352)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475201_q45.jpg?v=1787644896
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475201_q45.jpg?v=1789599939
     Price: 210,00 € EUR
   - [54/17/130 / Black](https://otticamolineris.it/products/akira-p-s?variant=53466149355848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475218_q45.jpg?v=1787644896
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716737475218_q45.jpg?v=1789599939
     Price: 205,00 € EUR
 - [ADRIANNA IV MK 3012 MICHAEL KORS - Ottica Molineris](https://otticamolineris.it/products/adrianna-iv-mk-3012): MICHAEL KORS ADRIANNA IV MK 3012: un articolo firmato MICHAEL KORS della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-25T12:42:12Z
@@ -39,57 +39,57 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689846986_q45_8fdda9b1-8aa1-4e9f-9fc1-bfc785db7c5b.jpg?v=1783430684
   Price: 350,00 € EUR
 - [ALI/S JIMMY CHOO - Ottica Molineris](https://otticamolineris.it/products/ali-s): Gli occhiali da sole da donna JIMMY CHOO ALI/S presentano una montatura geometrica in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 17 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:03:34Z
+  Updated: 2026-09-15T06:02:34Z
   Vendor: JIMMY CHOO
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290706_q45_66565a0d-c0cf-440c-ba36-47569371effe.jpg?v=1787645019
-  - [56/17/140 / Black/grey shaded](https://otticamolineris.it/products/ali-s?variant=53900162695496)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290706_q45_ef8201ec-5930-45a5-a2fb-d0baa77fd4e7.jpg?v=1789419732
+  - [56/17/140 / Black/grey shaded](https://otticamolineris.it/products/ali-s?variant=54065271144776)
     Availability: Available
     Price: 350,00 € EUR
   - [56/17/140 / Nude](https://otticamolineris.it/products/ali-s?variant=53466527891784)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290706_q45_66565a0d-c0cf-440c-ba36-47569371effe.jpg?v=1787645019
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290706_q45_ef8201ec-5930-45a5-a2fb-d0baa77fd4e7.jpg?v=1789419732
     Price: 350,00 € EUR
   - [56/17/140 / Burgundy](https://otticamolineris.it/products/ali-s?variant=53466527924552)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290713_q45_fa62e8cd-a064-45c6-8bd7-f6df9149d220.jpg?v=1787645019
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736290713_q45_745401d6-e0a3-4bf2-ac0c-360e91b01818.jpg?v=1789419731
     Price: 350,00 € EUR
 - [ADRIANNA II MK 2024 MICHAEL KORS - Ottica Molineris](https://otticamolineris.it/products/adrianna-ii-mk-2024): MICHAEL KORS ADRIANNA II MK 2024 è un modello di occhiali da sole da donna firmato MICHAEL KORS caratterizzato da una montatura in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 57 mm, ponte 16 mm, aste 135 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T05:06:33Z
+  Updated: 2026-09-16T23:01:13Z
   Vendor: MICHAEL KORS
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961653_q45.jpg?v=1787626867
-  - [57/16/135 / Havana gold/brown shaded](https://otticamolineris.it/products/adrianna-ii-mk-2024?variant=53897822961992)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961653_q45.jpg?v=1789599669
+  - [57/16/135 / Havana gold/brown shaded](https://otticamolineris.it/products/adrianna-ii-mk-2024?variant=54078877466952)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961653_q45.jpg?v=1787626867
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961653_q45.jpg?v=1789599669
     Price: 131,00 € EUR
-  - [57/16/135 / Black gold/light grey shaded](https://otticamolineris.it/products/adrianna-ii-mk-2024?variant=53897822994760)
+  - [57/16/135 / Black gold/light grey shaded](https://otticamolineris.it/products/adrianna-ii-mk-2024?variant=54078877499720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961660_q45.jpg?v=1787626867
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961660_q45.jpg?v=1789599670
     Price: 131,00 € EUR
   - [57/16/135 / Rose havana/light grey shaded](https://otticamolineris.it/products/adrianna-ii-mk-2024?variant=53466501513544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961684_q45.jpg?v=1787626867
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125961684_q45.jpg?v=1789599670
     Price: 131,00 € EUR
 - [AMIYAH/G/S KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/amiyah-g-s): KATE SPADE NY AMIYAH/G/S è un modello di occhiali da sole da donna firmato KATE SPADE NY caratterizzato da una montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti polarizzate filtrano i riflessi e migliorano il contrasto nelle giornate più luminose.Misure: calibro 56 mm, ponte 17 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:03:50Z
+  Updated: 2026-09-14T03:03:00Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389288_q45.jpg?v=1787644904
-  - [56/17/140 / Havana](https://otticamolineris.it/products/amiyah-g-s?variant=53900077465928)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389288_q45.jpg?v=1789319053
+  - [56/17/140 / Havana](https://otticamolineris.it/products/amiyah-g-s?variant=54053174739272)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389288_q45.jpg?v=1787644904
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389288_q45.jpg?v=1789319053
     Price: 245,00 € EUR
-  - [56/17/140 / Black](https://otticamolineris.it/products/amiyah-g-s?variant=53900077498696)
+  - [56/17/140 / Black](https://otticamolineris.it/products/amiyah-g-s?variant=54053174772040)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389301_q45.jpg?v=1787644904
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389301_q45.jpg?v=1789319053
     Price: 215,00 € EUR
   - [56/17/140 / Multicolor](https://otticamolineris.it/products/amiyah-g-s?variant=53466167411016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389325_q45.jpg?v=1787644904
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736389325_q45.jpg?v=1789319053
     Price: 210,00 € EUR
 - [FT0539 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/andrea-02-ft-0539): TOM FORD FT0539: occhiali da sole da uomo firmati TOM FORD, con montatura rotonda in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 48 mm, ponte 20 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T13:02:20Z
@@ -157,17 +157,17 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597335782_q45_491e385b-aa73-406f-b042-9b4ad7e50942.jpg?v=1783431062
     Price: 284,00 € EUR
 - [ARTLINE 5546/JT SILHOUETTE - Ottica Molineris](https://otticamolineris.it/products/artline-5546-jt): SILHOUETTE ARTLINE 5546/JT: un articolo firmato SILHOUETTE della linea occhiali da vista.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T15:01:20Z
+  Updated: 2026-09-16T23:01:03Z
   Vendor: SILHOUETTE
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/888465476154_q45.jpg?v=1787626876
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/888465476154_q45_e60a85e4-96dc-49d4-8e9f-440d78cb94f1.jpg?v=1789599659
   - [54/17/0 / Kt plated gold polished](https://otticamolineris.it/products/artline-5546-jt?variant=53491172933960)
     Availability: Available
     Price: 629,00 € EUR
-  - [56/17/0 / Kt plated gold polished](https://otticamolineris.it/products/artline-5546-jt?variant=53897837052232)
+  - [56/17/0 / Kt plated gold polished](https://otticamolineris.it/products/artline-5546-jt?variant=54078869963080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/888465476154_q45.jpg?v=1787626876
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/888465476154_q45_e60a85e4-96dc-49d4-8e9f-440d78cb94f1.jpg?v=1789599659
     Price: 629,00 € EUR
 - [ASH (+) DITA - Ottica Molineris](https://otticamolineris.it/products/ash): DITA ASH (+): un articolo firmato DITA della linea occhiali da vista, realizzato in titanio.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T01:04:35Z
@@ -177,18 +177,18 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0810029145466_q45.jpg?v=1783578960
   Price: 680,00 € EUR
 - [AUDRI/G KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/audri-g): KATE SPADE NY AUDRI/G: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acciaio.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:00Z
+  Updated: 2026-09-16T19:01:39Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265360_q45.jpg?v=1787619944
-  - [52/17/140 / Havana](https://otticamolineris.it/products/audri-g?variant=53897512583496)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265360_q45.jpg?v=1787619944
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265360_q45.jpg?v=1789430485
+  - [52/17/140 / Havana](https://otticamolineris.it/products/audri-g?variant=54067002736968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265360_q45.jpg?v=1789430485
     Price: 190,00 € EUR
   - [52/17/140 / Crystal beige](https://otticamolineris.it/products/audri-g?variant=53491277136200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265377_q45_6c7c0d36-ce1e-42cf-8cac-cd7fad188dab.jpg?v=1787619944
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736265377_q45_dc23ee31-50d8-48b2-b866-3cd1a8b299b1.jpg?v=1789430485
     Price: 180,00 € EUR
 - [AR 7216 GIORGIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ar-7216): GIORGIO ARMANI AR 7216: un articolo firmato GIORGIO ARMANI della linea occhiali da vista, realizzato in acetato.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T00:57:55Z
@@ -211,62 +211,62 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597415514_q45_e9bf6906-36fc-478e-9d61-83a68bf135d1.jpg?v=1783431147
     Price: 263,00 € EUR
 - [FT0904 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/aurele-ft-0904): Gli occhiali da sole da uomo TOM FORD FT0904 presentano una montatura rotonda in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 19 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:57Z
+  Updated: 2026-09-16T23:05:26Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291615_q45.jpg?v=1787645057
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291615_q45.jpg?v=1789599909
   - [50/19/145 / Shiny black](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513146184)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291615_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291615_q45.jpg?v=1789599909
     Price: 280,00 € EUR
   - [50/19/145 / Dark havana](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513178952)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291639_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291639_q45.jpg?v=1789599909
     Price: 280,00 € EUR
   - [50/19/145 / Shiny beige](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513211720)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291660_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291660_q45.jpg?v=1789599909
     Price: 280,00 € EUR
   - [52/19/145 / Shiny black](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513244488)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291677_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291677_q45.jpg?v=1789599909
     Price: 280,00 € EUR
-  - [52/19/145 / Dark havana](https://otticamolineris.it/products/aurele-ft-0904?variant=53900182552904)
+  - [52/19/145 / Dark havana](https://otticamolineris.it/products/aurele-ft-0904?variant=54079039406408)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291691_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214291691_q45.jpg?v=1789599909
     Price: 280,00 € EUR
-  - [52/19/145 / Dark havana (52R)](https://otticamolineris.it/products/aurele-ft-0904?variant=53900182585672)
+  - [52/19/145 / Dark havana (52R)](https://otticamolineris.it/products/aurele-ft-0904?variant=54079039439176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292100_q45.jpg?v=1787645056
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292100_q45.jpg?v=1789599909
     Price: 310,00 € EUR
   - [52/19/145 / Shiny beige](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513342792)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292124_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292124_q45.jpg?v=1789599909
     Price: 280,00 € EUR
   - [50/19/145 / Shiny black (01D)](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513375560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601551_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601551_q45.jpg?v=1789599909
     Price: 330,00 € EUR
   - [50/19/145 / Shiny dark green](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513408328)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601575_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601575_q45.jpg?v=1789599909
     Price: 310,00 € EUR
   - [52/19/145 / Shiny black (01D)](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513441096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601582_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601582_q45.jpg?v=1789599909
     Price: 330,00 € EUR
   - [52/19/145 / Shiny dark green](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513473864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601605_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601605_q45.jpg?v=1789599909
     Price: 310,00 € EUR
   - [50/19/145 / Shiny grey](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513506632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214605351_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214605351_q45.jpg?v=1789599909
     Price: 280,00 € EUR
   - [52/19/145 / Shiny grey](https://otticamolineris.it/products/aurele-ft-0904?variant=53466513539400)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214605368_q45.jpg?v=1787645057
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214605368_q45.jpg?v=1789599909
     Price: 280,00 € EUR
 - [0RB3026 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/aviator-large-metal-ii-rb-3026): RAY-BAN 0RB3026 è un modello di occhiali da sole unisex firmato RAY-BAN caratterizzato da una montatura a goccia in metallo. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 62 mm, ponte 14 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T13:01:24Z
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/805289628460_q45_eccdcde5-ea0f-41a2-8cbc-46b4ad1b4094.jpg?v=1783431034
     Price: 163,00 € EUR
 - [AVIATOR LARGE METAL RX 6489 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/aviator-large-metal-rx-6489): RAY-BAN AVIATOR LARGE METAL RX 6489: un articolo firmato RAY-BAN della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:05:18Z
+  Updated: 2026-09-14T09:02:23Z
   Vendor: RAY-BAN
   Product Type: Occhiali da vista
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672741841_q45.jpg?v=1787143016
     Price: 163,00 € EUR
   - [58/14/140 / Arista gold](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857258635592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672741858_q45.jpg?v=1787143017
     Price: 163,00 € EUR
   - [55/14/140 / Silver](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857258668360)
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672741872_q45.jpg?v=1787143027
     Price: 163,00 € EUR
   - [58/14/140 / Black on arista](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857259028808)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056262296219_q45.jpg?v=1787143025
     Price: 163,00 € EUR
   - [55/14/140 / Black on arista](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857258996040)
@@ -341,11 +341,11 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597660877_q45.jpg?v=1787143029
     Price: 163,00 € EUR
   - [58/14/140 / Rose gold](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857258963272)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597261852_q45.jpg?v=1787143030
     Price: 163,00 € EUR
   - [55/14/140 / Rose gold](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53857258930504)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597261869_q45.jpg?v=1787143017
     Price: 163,00 € EUR
   - [55/14/140 / Gold (2890)](https://otticamolineris.it/products/aviator-large-metal-rx-6489?variant=53858363605320)
@@ -365,14 +365,14 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392584472_q45_f2b81b21-fcac-4f58-89c7-62d6e5594dbc.jpg?v=1783431241
     Price: 74,00 € EUR
 - [BATWOLF OO 9101 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/batwolf-oo-9101): OAKLEY BATWOLF OO 9101 è un modello di occhiali da sole da uomo firmato OAKLEY. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: ponte 12 mm, aste 130 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:41Z
+  Updated: 2026-09-16T23:11:04Z
   Vendor: OAKLEY
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392333353_q45.jpg?v=1787627040
-  - [27/12/130 / Black ink/prizm black](https://otticamolineris.it/products/batwolf-oo-9101?variant=53898074915144)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392333353_q45_25338412-c679-40e3-b85e-31728419e6bf.jpg?v=1789600021
+  - [27/12/130 / Black ink/prizm black](https://otticamolineris.it/products/batwolf-oo-9101?variant=54079061098824)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392333353_q45.jpg?v=1787627040
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392333353_q45_25338412-c679-40e3-b85e-31728419e6bf.jpg?v=1789600021
     Price: 172,00 € EUR
   - [27/12/130 / Polished black/prizm sapphire](https://otticamolineris.it/products/batwolf-oo-9101?variant=53466203357512)
     Availability: Available
@@ -385,7 +385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392181077_q45_19cc4748-05b0-4b28-9eea-0b09231371e1.jpg?v=1785507191
   Price: 152,00 € EUR
 - [BELIEVER (-) DITA - Ottica Molineris](https://otticamolineris.it/products/believer): DITA BELIEVER (-): un articolo firmato DITA della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-21T00:48:55Z
+  Updated: 2026-09-16T17:04:15Z
   Vendor: DITA
   Product Type: Occhiali da vista
   Availability: Available
@@ -410,83 +410,71 @@
     Availability: Available
     Price: 395,00 € EUR
 - [BANYANS 412 MAUI JIM - Ottica Molineris](https://otticamolineris.it/products/banyans-412): Gli occhiali da sole unisex MAUI JIM BANYANS 412 presentano una montatura geometrica in nylon dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 70 mm, ponte 13 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T05:06:40Z
+  Updated: 2026-09-16T23:01:32Z
   Vendor: MAUI JIM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/603429014711_q45.jpg?v=1787626825
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/603429014711_q45.jpg?v=1789599689
   - [70/13/140 / Gloss black/neutral grey](https://otticamolineris.it/products/banyans-412?variant=53466109706568)
     Availability: Available
     Price: 237,00 € EUR
-  - [70/13/140 / Gloss black/maui ht polarizedplus](https://otticamolineris.it/products/banyans-412?variant=53897747562824)
+  - [70/13/140 / Gloss black/maui ht polarizedplus](https://otticamolineris.it/products/banyans-412?variant=54078894735688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/603429014711_q45.jpg?v=1787626825
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/603429014711_q45.jpg?v=1789599689
     Price: 237,00 € EUR
   - [70/13/140 / Tortoise/hcl bronze](https://otticamolineris.it/products/banyans-412?variant=53466109772104)
     Availability: Not Available
     Price: 237,00 € EUR
-- [BE 4291 BURBERRY - Ottica Molineris](https://otticamolineris.it/products/be-4291): BURBERRY BE 4291 è un modello di occhiali da sole da uomo firmato BURBERRY. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 38 mm, ponte 13 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:09Z
-  Vendor: BURBERRY
-  Product Type: Occhiali da sole
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597887786_q45.jpg?v=1787626878
-  - [0/138/140 / Black](https://otticamolineris.it/products/be-4291?variant=54028478873928)
-    Availability: Available
-    Price: 221,00 € EUR
-  - [0/138/140 / White](https://otticamolineris.it/products/be-4291?variant=54028478906696)
-    Availability: Available
-    Price: 221,00 € EUR
-  - [0/138/140 / Matte black](https://otticamolineris.it/products/be-4291?variant=54028478939464)
-    Availability: Available
-    Price: 221,00 € EUR
 - [BARI KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/bari): KATE SPADE NY BARI: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T07:03:09Z
+  Updated: 2026-09-13T23:04:30Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410203_q45_1893333e-7570-48e3-bba5-36954d96f2f3.jpg?v=1787601809
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410203_q45_1c80a113-9b24-4ebe-a3a0-fed4bb676c53.jpg?v=1789301077
   - [47/15/130 / Havana](https://otticamolineris.it/products/bari?variant=53491280281928)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410203_q45_1893333e-7570-48e3-bba5-36954d96f2f3.jpg?v=1787601809
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410203_q45_1c80a113-9b24-4ebe-a3a0-fed4bb676c53.jpg?v=1789301077
     Price: 129,00 € EUR
   - [47/15/130 / Pink](https://otticamolineris.it/products/bari?variant=53491280314696)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410210_q45_5defe558-5fd5-4c95-a9c1-24d54ce5a4e9.jpg?v=1787601809
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410210_q45_311d9c0a-74ed-4e74-8716-2697bdde5d1a.jpg?v=1789301077
     Price: 129,00 € EUR
-  - [47/15/130 / Black](https://otticamolineris.it/products/bari?variant=53895322501448)
+  - [47/15/130 / Black](https://otticamolineris.it/products/bari?variant=54050915549512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410227_q45.jpg?v=1787601808
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736410227_q45.jpg?v=1789301077
     Price: 129,00 € EUR
 - [FT0613 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/beatrix-02-ft-0613): TOM FORD FT0613 è un modello di occhiali da sole da donna firmato TOM FORD caratterizzato da una montatura geometrica in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 52 mm, ponte 22 mm, aste 140 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:49Z
+  Updated: 2026-09-16T23:04:58Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929290_q45_9a9284fc-f11c-484b-baeb-ace4acfac384.jpg?v=1783430688
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929290_q45.jpg?v=1789599889
   - [52/22/140 / Shiny black](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435617096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929290_q45_9a9284fc-f11c-484b-baeb-ace4acfac384.jpg?v=1783430688
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929290_q45.jpg?v=1789599889
     Price: 310,00 € EUR
   - [52/22/140 / Dark havana](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435649864)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929313_q45_d1d8481e-1ec4-41d0-a003-cbf2517fa6e4.jpg?v=1783430688
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/664689929313_q45.jpg?v=1789599889
     Price: 310,00 € EUR
+  - [52/22/140 / Blonde havana](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=54079032066376)
+    Availability: Available
+    Price: 290,00 € EUR
   - [52/22/140 / Shiny black (01D)](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435682632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214112798_q45_0ead04fa-ada4-410e-8fd3-37da4cff94b7.jpg?v=1785507958
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214112798_q45.jpg?v=1789599889
     Price: 360,00 € EUR
   - [52/22/140 / Shiny light brown](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435715400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602923_q45_45bced57-b76f-4b95-8694-4cb18cee3f92.jpg?v=1783430688
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602923_q45.jpg?v=1789599889
     Price: 310,00 € EUR
   - [52/22/140 / Coloured havana](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435748168)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602954_q45_3d361b63-ec56-47b0-bf12-dde1c55929be.jpg?v=1785508217
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602954_q45.jpg?v=1789599889
     Price: 310,00 € EUR
   - [52/22/140 / Shiny black (01W)](https://otticamolineris.it/products/beatrix-02-ft-0613?variant=53466435780936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214608789_q45_9d0fd9aa-9e58-4689-b1de-aa41ca1d9735.jpg?v=1785508029
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214608789_q45.jpg?v=1789599890
     Price: 310,00 € EUR
 - [BLEND 5555/KU SILHOUETTE - Ottica Molineris](https://otticamolineris.it/products/blend-5555-ku): SILHOUETTE BLEND 5555/KU: un articolo firmato SILHOUETTE della linea occhiali da vista, realizzato in titanio.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-20T22:01:03Z
@@ -524,22 +512,22 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_BB0161S_001_FA-large-feed_594ed9a7-aeaf-42c1-8bdd-7a3af6dea6f6.jpg?v=1688572683
     Price: 268,00 € EUR
 - [BOSS 1322/S HUGO BOSS - Ottica Molineris](https://otticamolineris.it/products/boss-1322-s): Gli occhiali da sole da uomo HUGO BOSS BOSS 1322/S presentano una montatura in acetato dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 55 mm, ponte 18 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T04:01:41Z
+  Updated: 2026-09-15T11:23:07Z
   Vendor: HUGO BOSS
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415659_q45.jpg?v=1787619675
-  - [55/18/145 / Matte black blue](https://otticamolineris.it/products/boss-1322-s?variant=53897415819592)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415659_q45.jpg?v=1789430527
+  - [55/18/145 / Matte black blue](https://otticamolineris.it/products/boss-1322-s?variant=54067043631432)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415659_q45.jpg?v=1787619675
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415659_q45.jpg?v=1789430527
     Price: 300,00 € EUR
   - [55/18/145 / Matte grey](https://otticamolineris.it/products/boss-1322-s?variant=53466501579080)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415673_q45_bf235c54-51d3-432c-9a6f-7f19089b317b.jpg?v=1787619675
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736415673_q45_0128702b-3803-4fdf-9880-2ba128bf45cf.jpg?v=1789430528
     Price: 240,00 € EUR
-  - [55/18/145 / Matte black silver](https://otticamolineris.it/products/boss-1322-s?variant=53897415852360)
+  - [55/18/145 / Matte black silver](https://otticamolineris.it/products/boss-1322-s?variant=54067043664200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736436876_q45.jpg?v=1787619675
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736436876_q45.jpg?v=1789430527
     Price: 260,00 € EUR
 - [BP0228 CABARET - Ottica Molineris](https://otticamolineris.it/products/bp0228-cabaret): Occhiali da sole originali Barton Perreira BP0228 CABARET. Modello donna, di forma cat-eye della collezione Barton Perreira 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. - Ottica Molineris
   Updated: 2026-07-31T14:52:40Z
@@ -567,75 +555,36 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_BP0228_CABARET_2OQ-large-feed.jpg?v=1688563309
     Price: 380,00 € EUR
-- [BILL RB 2198 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/bill-rb-2198): RAY-BAN BILL RB 2198 è un modello di occhiali da sole unisex firmato RAY-BAN caratterizzato da una montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 60 mm, ponte 14 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:18Z
-  Vendor: RAY-BAN
-  Product Type: Occhiali da sole
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056262897607_q45.jpg?v=1787634031
-  - [60/14/145 / Havana on transparent brown](https://otticamolineris.it/products/bill-rb-2198?variant=54028443943240)
-    Availability: Available
-    Price: 173,00 € EUR
-  - [56/14/145 / Havana on transparent brown](https://otticamolineris.it/products/bill-rb-2198?variant=54028443976008)
-    Availability: Available
-    Price: 173,00 € EUR
-  - [60/14/145 / Black](https://otticamolineris.it/products/bill-rb-2198?variant=54028444008776)
-    Availability: Available
-    Price: 163,00 € EUR
-  - [56/14/145 / Black](https://otticamolineris.it/products/bill-rb-2198?variant=54028444041544)
-    Availability: Not Available
-    Price: 163,00 € EUR
-  - [60/14/145 / Black (901/58)](https://otticamolineris.it/products/bill-rb-2198?variant=54028444074312)
-    Availability: Available
-    Price: 213,00 € EUR
-  - [56/14/145 / Black (901/58)](https://otticamolineris.it/products/bill-rb-2198?variant=54028444107080)
-    Availability: Available
-    Price: 213,00 € EUR
-  - [56/14/145 / Havana](https://otticamolineris.it/products/bill-rb-2198?variant=54028444139848)
-    Availability: Available
-    Price: 213,00 € EUR
-  - [60/14/145 / Havana](https://otticamolineris.it/products/bill-rb-2198?variant=54028444172616)
-    Availability: Available
-    Price: 163,00 € EUR
-  - [56/14/145 / Havana (902/R5)](https://otticamolineris.it/products/bill-rb-2198?variant=54028444205384)
-    Availability: Not Available
-    Price: 163,00 € EUR
-  - [60/14/145 / Grey havana](https://otticamolineris.it/products/bill-rb-2198?variant=54028444238152)
-    Availability: Not Available
-    Price: 213,00 € EUR
-  - [56/14/145 / Grey havana](https://otticamolineris.it/products/bill-rb-2198?variant=54028444270920)
-    Availability: Not Available
-    Price: 213,00 € EUR
 - [BRONWEN KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/bronwen): KATE SPADE NY BRONWEN: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T17:02:36Z
+  Updated: 2026-09-16T23:06:00Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45_91497fa5-04dc-4af5-b05c-84060b96003e.jpg?v=1787634114
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45.jpg?v=1789599952
   - [50/15/140 / Havana](https://otticamolineris.it/products/bronwen?variant=53491284967752)
     Availability: Available
     Price: 170,00 € EUR
-  - [52/15/123.8 / Havana](https://otticamolineris.it/products/bronwen?variant=53899390157128)
+  - [52/15/123.8 / Havana](https://otticamolineris.it/products/bronwen?variant=54079049990472)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45_91497fa5-04dc-4af5-b05c-84060b96003e.jpg?v=1787634114
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736152813_q45.jpg?v=1789599952
     Price: 170,00 € EUR
-  - [50/15/119.2 / Violet horn](https://otticamolineris.it/products/bronwen?variant=53899390189896)
+  - [50/15/119.2 / Violet horn](https://otticamolineris.it/products/bronwen?variant=54079050023240)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282497_q45_1007c926-fe01-4c4b-9924-c29f503ff2aa.jpg?v=1787634114
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282497_q45.jpg?v=1789599952
     Price: 170,00 € EUR
-  - [52/15/123.8 / Violet horn](https://otticamolineris.it/products/bronwen?variant=53899390222664)
+  - [52/15/123.8 / Violet horn](https://otticamolineris.it/products/bronwen?variant=54079050056008)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282503_q45_0c10d065-3d9b-4af3-a6f1-333634ab1582.jpg?v=1787634114
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282503_q45.jpg?v=1789599952
     Price: 170,00 € EUR
 - [BUTTERFLY VA 1015 VALENTINO - Ottica Molineris](https://otticamolineris.it/products/butterfly-va-1015): VALENTINO BUTTERFLY VA 1015: un articolo firmato VALENTINO della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T03:02:06Z
+  Updated: 2026-09-16T23:01:34Z
   Vendor: VALENTINO
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597055413_q45.jpg?v=1787626867
-  - [53/17/140 / Ruthenium](https://otticamolineris.it/products/butterfly-va-1015?variant=53897823256904)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597055413_q45_a3b538c1-b357-4778-a726-79a75cba32b6.jpg?v=1789599667
+  - [53/17/140 / Ruthenium](https://otticamolineris.it/products/butterfly-va-1015?variant=54078876025160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597055413_q45.jpg?v=1787626867
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597055413_q45_a3b538c1-b357-4778-a726-79a75cba32b6.jpg?v=1789599667
     Price: 209,00 € EUR
   - [53/17/140 / Rose gold pink](https://otticamolineris.it/products/butterfly-va-1015?variant=53491600654664)
     Availability: Available
@@ -648,11 +597,11 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0725125010078_q45.jpg?v=1783578856
   Price: 130,00 € EUR
 - [BV1032O BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1032o): BOTTEGA VENETA BV1032O: un articolo firmato BOTTEGA VENETA della linea occhiali da vista, realizzato in acetato.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T15:01:31Z
+  Updated: 2026-09-16T23:02:27Z
   Vendor: BOTTEGA VENETA
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652282497_q45.jpg?v=1787626888
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652282497_q45.jpg?v=1789599742
   Price: 297,00 € EUR
 - [BV1142S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1142s): Gli occhiali da sole da donna BOTTEGA VENETA BV1142S presentano una montatura geometrica in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 49 mm, ponte 22 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T13:01:41Z
@@ -672,18 +621,18 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652383422_q45_5e372e1a-24de-45bb-baa5-e492d5bf5c7f.jpg?v=1785510916
     Price: 345,00 € EUR
 - [CAILYE KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/cailye): KATE SPADE NY CAILYE: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T13:12:22Z
+  Updated: 2026-09-16T08:01:17Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282701_q45.jpg?v=1787619955
-  - [53/18/140 / Havana pattern pink](https://otticamolineris.it/products/cailye?variant=53897515139400)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282701_q45.jpg?v=1789513288
+  - [53/18/140 / Havana pattern pink](https://otticamolineris.it/products/cailye?variant=54072664719688)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282701_q45.jpg?v=1787619955
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282701_q45.jpg?v=1789513288
     Price: 170,00 € EUR
   - [53/18/140 / Black pattern white](https://otticamolineris.it/products/cailye?variant=53491287294280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282725_q45_42450a15-1774-4196-8f59-92bb70b505d8.jpg?v=1787619955
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736282725_q45_8ab78a0b-1d7b-4932-85ee-bb4f351b48fc.jpg?v=1789513288
     Price: 175,00 € EUR
 - [BV1031S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1031s): Gli occhiali da sole da donna BOTTEGA VENETA BV1031S presentano una montatura geometrica in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 52 mm, ponte 21 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T00:49:15Z
@@ -738,52 +687,52 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672494556_q45_0d5cb1ac-6634-4b8a-abb4-947a325708e0.jpg?v=1783431040
     Price: 173,00 € EUR
 - [CARDUC 001/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carduc-001-s): Gli occhiali da sole da uomo CARRERA CARDUC 001/S presentano una montatura in poliammide dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 57 mm, ponte 18 mm, aste 135 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:02:41Z
+  Updated: 2026-09-16T23:06:41Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711133_q45.jpg?v=1787645234
-  - [57/18/135 / Black red](https://otticamolineris.it/products/carduc-001-s?variant=53900269551944)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711133_q45.jpg?v=1789599993
+  - [57/18/135 / Black red](https://otticamolineris.it/products/carduc-001-s?variant=54079057002824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711133_q45.jpg?v=1787645234
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711133_q45.jpg?v=1789599993
     Price: 139,00 € EUR
-  - [57/18/135 / Grey black](https://otticamolineris.it/products/carduc-001-s?variant=53888632815944)
+  - [57/18/135 / Grey black](https://otticamolineris.it/products/carduc-001-s?variant=54052276896072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711140_q45.jpg?v=1787645234
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736711140_q45_ac1565b9-4d75-410a-80ec-d43f51953661.jpg?v=1789599992
     Price: 139,00 € EUR
-  - [57/18/135 / Blue metalized](https://otticamolineris.it/products/carduc-001-s?variant=53888632848712)
+  - [57/18/135 / Blue metalized](https://otticamolineris.it/products/carduc-001-s?variant=54052276928840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796260_q45.jpg?v=1787645234
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796260_q45_db721486-b811-4a2f-9fcd-17c9a1b6b86e.jpg?v=1789599993
     Price: 139,00 € EUR
 - [CARRERA 1001/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-1001-s): Gli occhiali da sole da uomo CARRERA 1001/S presentano una montatura squadrata in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 62 mm, ponte 11 mm, aste 140 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:06:48Z
+  Updated: 2026-09-16T23:06:52Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333713_q45.jpg?v=1787645247
-  - [62/11/140 / Havana](https://otticamolineris.it/products/carrera-1001-s?variant=53900270403912)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333713_q45.jpg?v=1789600006
+  - [62/11/140 / Havana](https://otticamolineris.it/products/carrera-1001-s?variant=54079059624264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333713_q45.jpg?v=1787645247
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333713_q45.jpg?v=1789600006
     Price: 175,00 € EUR
-  - [62/11/140 / Black gold](https://otticamolineris.it/products/carrera-1001-s?variant=53900270436680)
+  - [62/11/140 / Black gold](https://otticamolineris.it/products/carrera-1001-s?variant=54079059657032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333720_q45.jpg?v=1787645247
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333720_q45.jpg?v=1789600006
     Price: 175,00 € EUR
-  - [62/11/140 / Black gold (2M2)](https://otticamolineris.it/products/carrera-1001-s?variant=53900270469448)
+  - [62/11/140 / Black gold (2M2)](https://otticamolineris.it/products/carrera-1001-s?variant=54079059689800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333737_q45.jpg?v=1787645246
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333737_q45.jpg?v=1789600006
     Price: 175,00 € EUR
   - [62/11/140 / Black white](https://otticamolineris.it/products/carrera-1001-s?variant=53895334330696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610294_q45_b109d593-4b36-463a-bf66-44834e6216c7.jpg?v=1787645246
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610294_q45_1c036f39-fd82-409f-9e39-89176b86233c.jpg?v=1789600006
     Price: 169,00 € EUR
   - [62/11/140 / Blue red](https://otticamolineris.it/products/carrera-1001-s?variant=53466622034248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610300_q45.jpg?v=1787645246
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610300_q45.jpg?v=1789600006
     Price: 169,00 € EUR
   - [62/11/140 / Matte black red](https://otticamolineris.it/products/carrera-1001-s?variant=53895334363464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610317_q45_0a4fb6e1-c287-4a0c-868a-a3c36974447c.jpg?v=1787645246
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753610317_q45_c9324485-393e-4c05-8f21-00efca9db64a.jpg?v=1789600006
     Price: 169,00 € EUR
 - [BV1121S BOTTEGA VENETA - Ottica Molineris](https://otticamolineris.it/products/bv1121s): Gli occhiali da sole da donna BOTTEGA VENETA BV1121S presentano una montatura geometrica in acetato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 55 mm, ponte 16 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-20T22:07:10Z
@@ -803,82 +752,82 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889652352268_q45_82e35231-fa31-4b1e-9d99-cc731e2ea116.jpg?v=1783430478
     Price: 297,00 € EUR
 - [CARRERA 279/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-279-s): CARRERA 279/S: occhiali da sole da uomo firmati CARRERA, con montatura in poliammide. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 56 mm, ponte 17 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:11:06Z
+  Updated: 2026-09-16T23:07:46Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709888_q45_45b7a376-9e1a-4333-b37f-c5a4a3f150df.jpg?v=1787644831
-  - [56/17/145 / Matte black](https://otticamolineris.it/products/carrera-279-s?variant=53897455665480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709888_q45_45b7a376-9e1a-4333-b37f-c5a4a3f150df.jpg?v=1787644831
-    Price: 169,00 € EUR
-  - [56/17/145 / Havana](https://otticamolineris.it/products/carrera-279-s?variant=53897455698248)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709888_q45_7dc107b8-b482-41c2-b75f-9522cc0d1246.jpg?v=1789600054
+  - [56/17/145 / Matte black](https://otticamolineris.it/products/carrera-279-s?variant=54072688673096)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709895_q45_4ce3c78f-5052-4411-a071-feaae7147926.jpg?v=1787644831
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709888_q45_7dc107b8-b482-41c2-b75f-9522cc0d1246.jpg?v=1789600054
+    Price: 169,00 € EUR
+  - [56/17/145 / Havana](https://otticamolineris.it/products/carrera-279-s?variant=54072688705864)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709895_q45_0a7614bb-83e7-4ce0-bd9b-b64234b50431.jpg?v=1789600054
     Price: 139,00 € EUR
   - [56/17/145 / Black gold](https://otticamolineris.it/products/carrera-279-s?variant=53466081853768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709918_q45_8f697b77-c57b-4828-a42c-2d5fb676a92e.jpg?v=1787644831
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709918_q45.jpg?v=1789600054
     Price: 139,00 € EUR
-  - [56/17/145 / Havana gold](https://otticamolineris.it/products/carrera-279-s?variant=53900009406792)
+  - [56/17/145 / Havana gold](https://otticamolineris.it/products/carrera-279-s?variant=54079063556424)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736713045_q45.jpg?v=1787644830
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736713045_q45.jpg?v=1789600054
     Price: 138,00 € EUR
 - [CARRERA 1014/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-1014-s): Gli occhiali da sole da uomo CARRERA 1014/S presentano una montatura squadrata in poliammide dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 64 mm, ponte 10 mm, aste 135 mm. Disponibile in 8 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:05:16Z
+  Updated: 2026-09-16T23:06:54Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333751_q45.jpg?v=1787645248
-  - [64/10/135 / Havana](https://otticamolineris.it/products/carrera-1014-s?variant=53900270567752)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333751_q45.jpg?v=1789600009
+  - [64/10/135 / Havana](https://otticamolineris.it/products/carrera-1014-s?variant=54079059853640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333751_q45.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333751_q45.jpg?v=1789600009
     Price: 185,00 € EUR
-  - [64/10/135 / Black ruthenium](https://otticamolineris.it/products/carrera-1014-s?variant=53900270600520)
+  - [64/10/135 / Black ruthenium](https://otticamolineris.it/products/carrera-1014-s?variant=54079059886408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333768_q45.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333768_q45.jpg?v=1789600009
     Price: 185,00 € EUR
-  - [64/10/135 / Black gold](https://otticamolineris.it/products/carrera-1014-s?variant=53900270633288)
+  - [64/10/135 / Black gold](https://otticamolineris.it/products/carrera-1014-s?variant=54079059919176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333775_q45.jpg?v=1787645249
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333775_q45.jpg?v=1789600009
     Price: 185,00 € EUR
-  - [64/10/135 / White](https://otticamolineris.it/products/carrera-1014-s?variant=53900270666056)
+  - [64/10/135 / White](https://otticamolineris.it/products/carrera-1014-s?variant=54079059951944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333782_q45.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737333782_q45.jpg?v=1789600009
     Price: 185,00 € EUR
   - [64/10/135 / Matte black](https://otticamolineris.it/products/carrera-1014-s?variant=53466624622920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088907_q45_e1615f73-31c5-4407-a6d4-d26c2a3d69a9.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088907_q45.jpg?v=1789600009
     Price: 179,00 € EUR
-  - [64/10/135 / Black](https://otticamolineris.it/products/carrera-1014-s?variant=53892286939464)
+  - [64/10/135 / Black](https://otticamolineris.it/products/carrera-1014-s?variant=54062385201480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088921_q45.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088921_q45_0ff4118d-88f5-4a4f-9459-ff163ed168be.jpg?v=1789600009
     Price: 179,00 € EUR
-  - [65/10/135 / Matte black gold](https://otticamolineris.it/products/carrera-1014-s?variant=53895334822216)
+  - [65/10/135 / Matte black gold](https://otticamolineris.it/products/carrera-1014-s?variant=54072684642632)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088938_q45_db34c5af-8c18-4fe4-93d7-086b4690e5cb.jpg?v=1787645248
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736088938_q45_dfc14ed5-e691-4fa4-9b09-e610efb89bdd.jpg?v=1789600009
     Price: 179,00 € EUR
-  - [64/10/135 / Black brown](https://otticamolineris.it/products/carrera-1014-s?variant=53895334854984)
+  - [64/10/135 / Black brown](https://otticamolineris.it/products/carrera-1014-s?variant=54062385234248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072576_q45_afcfd5d3-7daa-4812-9c0c-5dbe75eef016.jpg?v=1787645249
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072576_q45_433e7482-93a4-45f1-9eab-2c939e219008.jpg?v=1789600009
     Price: 179,00 € EUR
 - [CARRERA 5039/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-5039-s): Gli occhiali da sole da uomo CARRERA 5039/S presentano una montatura in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 58 mm, ponte 16 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T04:01:38Z
+  Updated: 2026-09-16T08:01:15Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796079_q45.jpg?v=1787619817
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796079_q45.jpg?v=1789513243
   - [58/16/145 / Black](https://otticamolineris.it/products/carrera-5039-s?variant=53466194936136)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796079_q45.jpg?v=1787619817
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796079_q45.jpg?v=1789513243
     Price: 157,00 € EUR
-  - [58/16/145 / Black (807)](https://otticamolineris.it/products/carrera-5039-s?variant=53897485254984)
+  - [58/16/145 / Black (807)](https://otticamolineris.it/products/carrera-5039-s?variant=54072656265544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753604385_q45_8efb3ac9-3702-40e1-8083-7ca21ce67e8e.jpg?v=1787619817
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753604385_q45_cb011fc5-ec8a-4ff8-9b2f-f1803c72c50f.jpg?v=1789513243
     Price: 109,00 € EUR
   - [58/16/145 / Havana matte black](https://otticamolineris.it/products/carrera-5039-s?variant=53466195001672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753946164_q45_105a085f-6c56-4712-b9ff-93ef216692cd.jpg?v=1787619817
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753946164_q45_3fb49856-b2a1-4daf-9d4a-ec8d0f34c667.jpg?v=1789513243
     Price: 109,00 € EUR
 - [0BV6149B BULGARI - Ottica Molineris](https://otticamolineris.it/products/bvlgari-bvlgari-bv-6149b): BULGARI 0BV6149B è un modello di occhiali da sole da donna firmato BULGARI caratterizzato da una montatura in metallo. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 18 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T13:01:44Z
@@ -888,30 +837,30 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597232258_q45_f64ad726-c58d-40bb-b919-1e4274a49cc4.jpg?v=1783430504
   Price: 461,00 € EUR
 - [CARRERA 8056/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-8056-s): Gli occhiali da sole da uomo CARRERA 8056/S presentano una montatura pantos in poliammide dalle linee curate. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 51 mm, ponte 22 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:04:51Z
+  Updated: 2026-09-15T11:09:07Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709710_q45.jpg?v=1787619833
-  - [51/22/145 / Black green](https://otticamolineris.it/products/carrera-8056-s?variant=53897487876424)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709710_q45.jpg?v=1789430525
+  - [51/22/145 / Black green](https://otticamolineris.it/products/carrera-8056-s?variant=54067040944456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709710_q45.jpg?v=1787619833
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709710_q45.jpg?v=1789430525
     Price: 119,00 € EUR
-  - [51/22/145 / Black](https://otticamolineris.it/products/carrera-8056-s?variant=53897487909192)
+  - [51/22/145 / Black](https://otticamolineris.it/products/carrera-8056-s?variant=54067040977224)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709727_q45.jpg?v=1787619832
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709727_q45.jpg?v=1789430525
     Price: 107,00 € EUR
-  - [51/22/145 / Crystal](https://otticamolineris.it/products/carrera-8056-s?variant=53897487941960)
+  - [51/22/145 / Crystal](https://otticamolineris.it/products/carrera-8056-s?variant=54067041009992)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709734_q45.jpg?v=1787619833
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709734_q45.jpg?v=1789430525
     Price: 119,00 € EUR
-  - [51/22/145 / Grey](https://otticamolineris.it/products/carrera-8056-s?variant=53897487974728)
+  - [51/22/145 / Grey](https://otticamolineris.it/products/carrera-8056-s?variant=54067041042760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709741_q45.jpg?v=1787619832
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709741_q45.jpg?v=1789430525
     Price: 117,00 € EUR
   - [51/22/145 / Blue](https://otticamolineris.it/products/carrera-8056-s?variant=53466214498632)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709758_q45_162671ef-15ab-4eaa-a8dd-430d86e28189.jpg?v=1787619833
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709758_q45_7e313b15-5c71-4601-bcd6-9420e14b1ca7.jpg?v=1789430525
     Price: 115,00 € EUR
 - [CARRERA 256/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-256-s): CARRERA 256/S: occhiali da sole da uomo firmati CARRERA, con montatura rettangolare in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 18 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T16:00:55Z
@@ -928,22 +877,29 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360904_q45_ce96e2e0-260b-47c6-b820-cfff0322aaf8.jpg?v=1783430743
     Price: 199,00 € EUR
 - [CAMI/S JIMMY CHOO - Ottica Molineris](https://otticamolineris.it/products/cami-s): JIMMY CHOO CAMI/S: occhiali da sole da donna firmati JIMMY CHOO, con montatura in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 56 mm, ponte 17 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:04:28Z
+  Updated: 2026-09-15T06:03:05Z
   Vendor: JIMMY CHOO
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692555_q45.jpg?v=1787645020
-  - [56/17/145 / Havana](https://otticamolineris.it/products/cami-s?variant=53897405661512)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692555_q45.jpg?v=1789430579
+  - [56/17/145 / Havana](https://otticamolineris.it/products/cami-s?variant=54067089146184)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692555_q45.jpg?v=1787645020
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692555_q45.jpg?v=1789430579
     Price: 270,00 € EUR
   - [56/17/145 / Blue](https://otticamolineris.it/products/cami-s?variant=53466534641992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692586_q45.jpg?v=1787645020
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692586_q45.jpg?v=1789430580
     Price: 270,00 € EUR
-  - [56/17/145 / Ivory/burgundy](https://otticamolineris.it/products/cami-s?variant=53900163645768)
+  - [56/17/145 / Ivory/burgundy](https://otticamolineris.it/products/cami-s?variant=54067089178952)
     Availability: Not Available
     Price: 176,00 € EUR
+- [CARRERA 8037/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-8037-s): CARRERA 8037/S: occhiali da sole da uomo firmati CARRERA, con montatura rettangolare in metallo. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 58 mm, ponte 18 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-09-16T19:06:46Z
+  Vendor: CARRERA
+  Product Type: Occhiali da sole
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736230511_q45_bb0686ee-a296-4a28-9b10-73cbc6a4beec.jpg?v=1783430798
+  Price: 199,00 € EUR
 - [CATS 5000 RB 4125 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/cats-5000-rb-4125): RAY-BAN CATS 5000 RB 4125 è un modello di occhiali da sole da uomo firmato RAY-BAN. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti in cristallo offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 59 mm, ponte 13 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-09-09T13:02:10Z
   Vendor: RAY-BAN
@@ -963,30 +919,30 @@
     Availability: Available
     Price: 173,00 € EUR
 - [CARRERA 8055/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-8055-s): CARRERA 8055/S è un modello di occhiali da sole da uomo firmato CARRERA caratterizzato da una montatura rettangolare in poliammide. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 58 mm, ponte 16 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:04:51Z
+  Updated: 2026-09-16T23:01:51Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709765_q45.jpg?v=1787644924
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709765_q45.jpg?v=1789599666
   - [58/16/145 / Matte black](https://otticamolineris.it/products/carrera-8055-s?variant=53466212663624)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709765_q45.jpg?v=1787644924
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709765_q45.jpg?v=1789599666
     Price: 139,00 € EUR
-  - [58/16/145 / Black green](https://otticamolineris.it/products/carrera-8055-s?variant=53897487352136)
+  - [58/16/145 / Black green](https://otticamolineris.it/products/carrera-8055-s?variant=54072656953672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709772_q45_0f975872-2a02-468d-88da-dc6d3bc1ac59.jpg?v=1787644924
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709772_q45_c36d2c7b-1df3-482c-ba58-0274ce0afde2.jpg?v=1789599667
     Price: 119,00 € EUR
-  - [58/16/145 / Black](https://otticamolineris.it/products/carrera-8055-s?variant=53895299137864)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709789_q45_008eb274-b97f-4fef-945e-eeb09f2bae91.jpg?v=1787644924
+  - [58/16/145 / Black](https://otticamolineris.it/products/carrera-8055-s?variant=54050839429448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709789_q45.jpg?v=1789599665
     Price: 109,00 € EUR
-  - [58/16/145 / Grey](https://otticamolineris.it/products/carrera-8055-s?variant=53897487384904)
+  - [58/16/145 / Grey](https://otticamolineris.it/products/carrera-8055-s?variant=54072656986440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709819_q45_f2cddbc5-57e9-4738-a20f-f53396ea8e3e.jpg?v=1787644924
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736709819_q45_11147674-fd5b-4e70-a3c9-2f7f8c6ac2a3.jpg?v=1789599666
     Price: 119,00 € EUR
-  - [58/16/145 / Black (807)](https://otticamolineris.it/products/carrera-8055-s?variant=53900096602440)
+  - [58/16/145 / Black (807)](https://otticamolineris.it/products/carrera-8055-s?variant=54078874812744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796093_q45.jpg?v=1787644924
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736796093_q45.jpg?v=1789599665
     Price: 159,00 € EUR
 - [CAZAL 8505 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-8505): CAZAL 8505 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 57 mm, ponte 16 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T01:03:01Z
@@ -996,18 +952,18 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386522204_q45_9841c2b5-e6c0-4a26-83c2-8988b0d9c6e1.jpg?v=1785516388
   Price: 438,00 € EUR
 - [CARRERA 247/S CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-247-s): CARRERA 247/S è un modello di occhiali da sole da uomo firmato CARRERA caratterizzato da una montatura in titanio. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 58 mm, ponte 17 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:03:47Z
+  Updated: 2026-09-16T23:07:26Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360935_q45.jpg?v=1787645283
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360935_q45.jpg?v=1789600042
   - [58/17/140 / Gold grey](https://otticamolineris.it/products/carrera-247-s?variant=53466655326536)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360935_q45.jpg?v=1787645283
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360935_q45.jpg?v=1789600042
     Price: 219,00 € EUR
-  - [58/17/140 / Ruthenium](https://otticamolineris.it/products/carrera-247-s?variant=53900272206152)
+  - [58/17/140 / Ruthenium](https://otticamolineris.it/products/carrera-247-s?variant=54079062835528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360942_q45.jpg?v=1787645283
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736360942_q45.jpg?v=1789600042
     Price: 249,00 € EUR
 - [CAZAL 790 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-790): CAZAL 790: un articolo firmato CAZAL della linea occhiali da vista, realizzato in titanio.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T01:02:21Z
@@ -1043,73 +999,73 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_CAZAL_6004_3_017-large-feed.jpg?v=1785516790
     Price: 359,00 € EUR
 - [CARRERA 4410 CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-4410): CARRERA 4410: un articolo firmato CARRERA della linea occhiali da vista, realizzato in poliammide.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T07:02:15Z
+  Updated: 2026-09-14T08:01:51Z
   Vendor: CARRERA
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126500_q45.jpg?v=1787601732
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126500_q45.jpg?v=1789300946
   - [55/16/140 / Matte black](https://otticamolineris.it/products/carrera-4410?variant=53491461456200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126500_q45.jpg?v=1787601732
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126500_q45.jpg?v=1789300946
     Price: 179,00 € EUR
   - [55/16/140 / Black](https://otticamolineris.it/products/carrera-4410?variant=53491461488968)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126517_q45.jpg?v=1787601732
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126517_q45.jpg?v=1789300946
     Price: 179,00 € EUR
-  - [55/16/140 / Matte blue](https://otticamolineris.it/products/carrera-4410?variant=53895294550344)
+  - [55/16/140 / Matte blue](https://otticamolineris.it/products/carrera-4410?variant=54050830319944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126524_q45.jpg?v=1787601732
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736126524_q45.jpg?v=1789300946
     Price: 179,00 € EUR
   - [55/16/140 / Black blue](https://otticamolineris.it/products/carrera-4410?variant=53491461554504)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886070909_q45.jpg?v=1787601732
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886070909_q45.jpg?v=1789300946
     Price: 179,00 € EUR
 - [CAZAL 669 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-669): CAZAL 669 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura geometrica in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 56 mm, ponte 18 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:09:16Z
+  Updated: 2026-09-16T23:05:02Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386523430_q45.jpg?v=1787626833
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386523430_q45_8ce778d4-a5db-4d77-a17d-9114c8f9d7c3.jpg?v=1789599741
   - [56/18/0 / Crystal gold/grey gold](https://otticamolineris.it/products/cazal-669?variant=53466491879752)
     Availability: Not Available
     Price: 438,00 € EUR
-  - [56/18/0 / Dark green/green shaded](https://otticamolineris.it/products/cazal-669?variant=53897762832712)
+  - [56/18/0 / Dark green/green shaded](https://otticamolineris.it/products/cazal-669?variant=54078942806344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386523430_q45.jpg?v=1787626833
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386523430_q45_8ce778d4-a5db-4d77-a17d-9114c8f9d7c3.jpg?v=1789599741
     Price: 459,00 € EUR
 - [CARRERA 6000 CARRERA - Ottica Molineris](https://otticamolineris.it/products/carrera-6000): Gli occhiali da sole da uomo CARRERA 6000 presentano una montatura squadrata dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 23 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T03:02:36Z
+  Updated: 2026-09-16T23:03:48Z
   Vendor: CARRERA
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753084903_q45.jpg?v=1787626826
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753084903_q45_aa9803fa-88bb-41e9-a429-4843d50b5eba.jpg?v=1789599663
   - [50/23/145 / Burgundy military green/brown gold](https://otticamolineris.it/products/carrera-6000?variant=53466201162056)
     Availability: Available
     Price: 100,00 € EUR
-  - [50/23/145 / Dark blue orange/bronze blue mirror](https://otticamolineris.it/products/carrera-6000?variant=53897749299528)
+  - [50/23/145 / Dark blue orange/bronze blue mirror](https://otticamolineris.it/products/carrera-6000?variant=54078872387912)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753084903_q45.jpg?v=1787626826
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753084903_q45_aa9803fa-88bb-41e9-a429-4843d50b5eba.jpg?v=1789599663
     Price: 100,00 € EUR
   - [50/23/145 / Blue grey havana/avio blue](https://otticamolineris.it/products/carrera-6000?variant=53466201227592)
     Availability: Not Available
     Price: 100,00 € EUR
-  - [50/23/145 / Beige/grey ivory mirror](https://otticamolineris.it/products/carrera-6000?variant=53897749332296)
+  - [50/23/145 / Beige/grey ivory mirror](https://otticamolineris.it/products/carrera-6000?variant=54078872420680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886223435_q45.jpg?v=1787626826
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886223435_q45_c1af7b38-792e-41b0-bfd1-daf89d67af6e.jpg?v=1789599663
     Price: 100,00 € EUR
 - [CF 7004/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7004-s): CHIARA FERRAGNI CF 7004/S: occhiali da sole da donna firmati CHIARA FERRAGNI, con montatura ovale in propionato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 50 mm, ponte 21 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T04:02:22Z
+  Updated: 2026-09-16T19:01:15Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724003_q45.jpg?v=1787619644
-  - [50/21/140 / Yellow](https://otticamolineris.it/products/cf-7004-s?variant=53897389965640)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724003_q45.jpg?v=1789430462
+  - [50/21/140 / Yellow](https://otticamolineris.it/products/cf-7004-s?variant=54066980716872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724003_q45.jpg?v=1787619644
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724003_q45.jpg?v=1789430462
     Price: 149,00 € EUR
   - [50/21/140 / Azure](https://otticamolineris.it/products/cf-7004-s?variant=53466654114120)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724027_q45_576e2f8a-20f3-432f-912a-92b374578e02.jpg?v=1787619644
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724027_q45_e5356d9a-96d6-4c87-8e01-d49324f2b35b.jpg?v=1789430462
     Price: 149,00 € EUR
 - [0RB4187 RAY-BAN - Ottica Molineris](https://otticamolineris.it/products/chris-rb-4187): RAY-BAN 0RB4187 è un modello di occhiali da sole da uomo firmato RAY-BAN caratterizzato da una montatura squadrata in materiale iniettato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 54 mm, ponte 18 mm, aste 145 mm. Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-14T09:32:43Z
@@ -1146,37 +1102,37 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597760102_q45_ace531c9-7fbd-4c27-8455-4ce888762b2a.jpg?v=1783431318
     Price: 167,00 € EUR
 - [CK21506S CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck21506s): CALVIN KLEIN CK21506S: occhiali da sole da donna firmati CALVIN KLEIN, con montatura squadrata. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 52 mm, ponte 21 mm, aste 140 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:01:08Z
+  Updated: 2026-09-16T08:00:56Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134858_q45_3500bbee-5951-4381-9716-dd8af2a2e08f.jpg?v=1787644832
-  - [52/21/140 / Black/grey](https://otticamolineris.it/products/ck21506s?variant=53900010586440)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134858_q45_5f4012ad-fe8c-4ea3-8233-5d083bac2248.jpg?v=1789516864
+  - [52/21/140 / Black/grey](https://otticamolineris.it/products/ck21506s?variant=54072760533320)
     Availability: Available
     Price: 144,00 € EUR
-  - [52/21/140 / Havana/brown shaded](https://otticamolineris.it/products/ck21506s?variant=53900010619208)
+  - [52/21/140 / Havana/brown shaded](https://otticamolineris.it/products/ck21506s?variant=54072760566088)
     Availability: Not Available
     Price: 144,00 € EUR
   - [52/21/140 / (335) milky sage](https://otticamolineris.it/products/ck21506s?variant=53466381025608)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134858_q45_3500bbee-5951-4381-9716-dd8af2a2e08f.jpg?v=1787644832
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134858_q45_5f4012ad-fe8c-4ea3-8233-5d083bac2248.jpg?v=1789516864
     Price: 159,90 € EUR
   - [52/21/140 / (664) milky peach](https://otticamolineris.it/products/ck21506s?variant=53466381058376)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134865_q45_405243c9-558c-4cb3-8278-1bb10c5cfbb9.jpg?v=1787644832
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901134865_q45_9aeeaa2a-6b49-4bb2-b9d6-c7ecec17e50b.jpg?v=1789516864
     Price: 159,90 € EUR
 - [CF 7006/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7006-s): Gli occhiali da sole da donna CHIARA FERRAGNI CF 7006/S presentano una montatura cat-eye in materiale iniettato dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 53 mm, ponte 19 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T20:13:08Z
+  Updated: 2026-09-16T11:01:01Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724379_q45_69e598cd-deb7-4d68-8091-60857951660b.jpg?v=1787644832
-  - [53/19/140 / Yellow/grey](https://otticamolineris.it/products/cf-7006-s?variant=53900010520904)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724379_q45_d2a2c50b-ba0d-410d-982d-e80f46e1872e.jpg?v=1789516867
+  - [53/19/140 / Yellow/grey](https://otticamolineris.it/products/cf-7006-s?variant=54072763056456)
     Availability: Available
     Price: 47,00 € EUR
   - [53/19/140 / Azure](https://otticamolineris.it/products/cf-7006-s?variant=53466654572872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724379_q45_69e598cd-deb7-4d68-8091-60857951660b.jpg?v=1787644832
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736724379_q45_d2a2c50b-ba0d-410d-982d-e80f46e1872e.jpg?v=1789516867
     Price: 149,00 € EUR
 - [CAZAL 790/3 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-790-3): CAZAL 790/3: occhiali da sole unisex firmati CAZAL, con montatura geometrica in titanio. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 61 mm, ponte 16 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-21T00:31:35Z
@@ -1193,50 +1149,76 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386521276_q45_1665e068-a9b9-4576-b52e-a2438a74f704.jpg?v=1783430850
     Price: 438,00 € EUR
 - [CK20527 CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck20527): CALVIN KLEIN CK20527: un articolo firmato CALVIN KLEIN della linea occhiali da vista, realizzato in acetato.Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:20Z
+  Updated: 2026-09-16T23:02:04Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131499_q45.jpg?v=1787644827
-  - [49/20/145 / Black](https://otticamolineris.it/products/ck20527?variant=53900007342408)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131499_q45.jpg?v=1789599714
+  - [49/20/145 / Black](https://otticamolineris.it/products/ck20527?variant=54077492396360)
     Availability: Not Available
     Price: 116,00 € EUR
-  - [49/20/145 / Blue](https://otticamolineris.it/products/ck20527?variant=53900007375176)
+  - [49/20/145 / Blue](https://otticamolineris.it/products/ck20527?variant=54072756306248)
     Availability: Not Available
     Price: 116,00 € EUR
-  - [49/20/145 / Black (001)](https://otticamolineris.it/products/ck20527?variant=53900007407944)
+  - [49/20/145 / Black (001)](https://otticamolineris.it/products/ck20527?variant=54078917050696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131499_q45.jpg?v=1787644827
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131499_q45.jpg?v=1789599714
     Price: 149,90 € EUR
-  - [49/20/145 / Crystal beige](https://otticamolineris.it/products/ck20527?variant=53900007440712)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131505_q45.jpg?v=1787644827
-    Price: 149,90 € EUR
-  - [49/20/145 / Crystal blue](https://otticamolineris.it/products/ck20527?variant=53900007473480)
+  - [49/20/145 / Crystal beige](https://otticamolineris.it/products/ck20527?variant=54077492461896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131512_q45.jpg?v=1787644827
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131505_q45.jpg?v=1789599714
+    Price: 149,90 € EUR
+  - [49/20/145 / Crystal blue](https://otticamolineris.it/products/ck20527?variant=54078917083464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131512_q45.jpg?v=1789599714
     Price: 149,90 € EUR
   - [49/20/145 / Crystal clear](https://otticamolineris.it/products/ck20527?variant=53491458081096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131529_q45.jpg?v=1787644827
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901131529_q45_7f72318d-d367-41ee-a6fd-b5f9aa5f8d22.jpg?v=1789599714
     Price: 149,90 € EUR
-  - [49/20/145 / Dark havana](https://otticamolineris.it/products/ck20527?variant=53900007506248)
+  - [49/20/145 / Dark havana](https://otticamolineris.it/products/ck20527?variant=54077492527432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901175370_q45.jpg?v=1787644828
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901175370_q45.jpg?v=1789599713
     Price: 149,90 € EUR
+- [CHAMPION65/N CARRERA - Ottica Molineris](https://otticamolineris.it/products/champion65-n): CARRERA CHAMPION65/N è un modello di occhiali da sole unisex firmato CARRERA caratterizzato da una montatura in poliammide. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 62 mm, ponte 12 mm, aste 130 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-09-16T23:03:47Z
+  Vendor: CARRERA
+  Product Type: Occhiali da sole
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736442662_q45_5fd15092-7694-404b-877c-f7ecae71a2bb.jpg?v=1789599684
+  - [62/12/130 / Matte black](https://otticamolineris.it/products/champion65-n?variant=54072659214664)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736442662_q45_5fd15092-7694-404b-877c-f7ecae71a2bb.jpg?v=1789599684
+    Price: 169,00 € EUR
+  - [62/12/130 / Black](https://otticamolineris.it/products/champion65-n?variant=53466223182152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736442693_q45_c5502e82-4bac-45bb-b0a7-bd3e264b443a.jpg?v=1789599683
+    Price: 169,00 € EUR
+  - [62/12/130 / Brown havana](https://otticamolineris.it/products/champion65-n?variant=54072659247432)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736442716_q45_b846e1bd-282d-4773-b014-f83d8e9bdb62.jpg?v=1789599683
+    Price: 169,00 € EUR
+  - [62/12/130 / Black gold](https://otticamolineris.it/products/champion65-n?variant=54072659280200)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736794044_q45_efac0f86-2913-4ce0-ac1d-80930a46a1ca.jpg?v=1789599683
+    Price: 209,00 € EUR
+  - [62/12/130 / Black shaded brown](https://otticamolineris.it/products/champion65-n?variant=54078889165128)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886448838_q45.jpg?v=1789599684
+    Price: 169,00 € EUR
 - [CAZAL LEGENDS 663/3 CAZAL - Ottica Molineris](https://otticamolineris.it/products/cazal-legends-663-3): CAZAL LEGENDS 663/3 è un modello di occhiali da sole unisex firmato CAZAL caratterizzato da una montatura geometrica in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 56 mm, ponte 18 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:09:21Z
+  Updated: 2026-09-16T23:05:31Z
   Vendor: CAZAL
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508826_q45.jpg?v=1787626837
-  - [56/18/0 / Black kt gold/grey](https://otticamolineris.it/products/cazal-legends-663-3?variant=53897767715144)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508826_q45_0a25ebed-f4d5-4d14-9e9d-bad11292bdaa.jpg?v=1789599747
+  - [56/18/0 / Black kt gold/grey](https://otticamolineris.it/products/cazal-legends-663-3?variant=54078946935112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508826_q45.jpg?v=1787626837
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508826_q45_0a25ebed-f4d5-4d14-9e9d-bad11292bdaa.jpg?v=1789599747
     Price: 459,00 € EUR
-  - [56/18/0 / Crystal kt gold/grey shaded](https://otticamolineris.it/products/cazal-legends-663-3?variant=53897767747912)
+  - [56/18/0 / Crystal kt gold/grey shaded](https://otticamolineris.it/products/cazal-legends-663-3?variant=54078946967880)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508833_q45.jpg?v=1787626836
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/4251386508833_q45_a168bd8a-45a8-4326-b7f2-4ebbb2d8d9ab.jpg?v=1789599747
     Price: 459,00 € EUR
   - [56/18/0 / Matte black kt gold/grey](https://otticamolineris.it/products/cazal-legends-663-3?variant=53466548306248)
     Availability: Not Available
@@ -1249,73 +1231,73 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_CAZAL_LEGENDS_850_001_D-large-feed_c29e1f11-383b-4e9e-b8d6-f2702d394290.jpg?v=1688573497
   Price: 413,00 € EUR
 - [CK20541S CALVIN KLEIN - Ottica Molineris](https://otticamolineris.it/products/ck20541s): CALVIN KLEIN CK20541S: occhiali da sole da donna firmati CALVIN KLEIN, con montatura a farfalla in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 57 mm, ponte 19 mm, aste 140 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:19Z
+  Updated: 2026-09-16T23:02:01Z
   Vendor: CALVIN KLEIN
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0883901130805_q45.jpg?v=1787626896
-  - [57/19/140 / Black/grey](https://otticamolineris.it/products/ck20541s?variant=53897871196488)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0883901130805_q45.jpg?v=1789599716
+  - [57/19/140 / Black/grey](https://otticamolineris.it/products/ck20541s?variant=54078920589640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0883901130805_q45.jpg?v=1787626896
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0883901130805_q45.jpg?v=1789599716
     Price: 144,00 € EUR
-  - [57/19/140 / (001) black](https://otticamolineris.it/products/ck20541s?variant=53897871229256)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130805_q45.jpg?v=1787626896
+  - [57/19/140 / (001) black](https://otticamolineris.it/products/ck20541s?variant=54078920622408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130805_q45.jpg?v=1789599717
     Price: 159,90 € EUR
-  - [57/19/140 / (235) dark tortoise](https://otticamolineris.it/products/ck20541s?variant=53466373652808)
+  - [57/19/140 / (235) dark tortoise](https://otticamolineris.it/products/ck20541s?variant=54063753232712)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130812_q45.jpg?v=1787626897
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130812_q45.jpg?v=1789599716
     Price: 159,90 € EUR
   - [57/19/140 / (605) crystal burgundy](https://otticamolineris.it/products/ck20541s?variant=53466373685576)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130836_q45.jpg?v=1787626897
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/883901130836_q45_3ee2c23a-58de-4c4e-809d-fffd2cd353b8.jpg?v=1789599717
     Price: 159,90 € EUR
 - [CLARETTA/P/S KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/claretta-p-s): KATE SPADE NY CLARETTA/P/S è un modello di occhiali da sole da donna firmato KATE SPADE NY caratterizzato da una montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Le lenti in CR-39 offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 53 mm, ponte 16 mm, aste 122 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T17:02:26Z
+  Updated: 2026-09-16T23:06:06Z
   Vendor: KATE SPADE NY
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736059235_q45.jpg?v=1787644931
-  - [53/16/122 / Pink havana](https://otticamolineris.it/products/claretta-p-s?variant=53900103713096)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736059235_q45.jpg?v=1789599959
+  - [53/16/122 / Pink havana](https://otticamolineris.it/products/claretta-p-s?variant=54079051530568)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736059235_q45.jpg?v=1787644931
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736059235_q45.jpg?v=1789599959
     Price: 210,00 € EUR
   - [53/16/140 / Black havana](https://otticamolineris.it/products/claretta-p-s?variant=53466204078408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753996251_q45.jpg?v=1787644931
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/762753996251_q45.jpg?v=1789599959
     Price: 205,00 € EUR
 - [CF 7013/S CHIARA FERRAGNI - Ottica Molineris](https://otticamolineris.it/products/cf-7013-s): CHIARA FERRAGNI CF 7013/S è un modello di occhiali da sole da donna firmato CHIARA FERRAGNI caratterizzato da una montatura geometrica in materiale iniettato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 53 mm, ponte 18 mm, aste 140 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T19:01:16Z
+  Updated: 2026-09-15T06:02:31Z
   Vendor: CHIARA FERRAGNI
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726847_q45_fb2dd4c3-ec55-4aee-9bfb-7cdde87a3564.jpg?v=1787644834
-  - [53/18/140 / Pink/grey](https://otticamolineris.it/products/cf-7013-s?variant=53900013240648)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726847_q45_d13923e8-7505-4ad8-9177-bb19cf7fe1e5.jpg?v=1789419637
+  - [53/18/140 / Pink/grey](https://otticamolineris.it/products/cf-7013-s?variant=54065249091912)
     Availability: Available
     Price: 54,00 € EUR
   - [53/18/140 / Yellow](https://otticamolineris.it/products/cf-7013-s?variant=53466655195464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726847_q45_fb2dd4c3-ec55-4aee-9bfb-7cdde87a3564.jpg?v=1787644834
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726847_q45_d13923e8-7505-4ad8-9177-bb19cf7fe1e5.jpg?v=1789419637
     Price: 149,00 € EUR
   - [53/18/140 / Azure](https://otticamolineris.it/products/cf-7013-s?variant=53466655228232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726861_q45_781fde89-7614-44fa-a95f-096659af6923.jpg?v=1787644834
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736726861_q45_fb7b748d-e713-4fc1-9d25-750e2d273944.jpg?v=1789419637
     Price: 149,00 € EUR
-  - [53/18/140 / Pink glitter/grey](https://otticamolineris.it/products/cf-7013-s?variant=53900013273416)
+  - [53/18/140 / Pink glitter/grey](https://otticamolineris.it/products/cf-7013-s?variant=54065249124680)
     Availability: Not Available
     Price: 54,00 € EUR
-  - [53/18/140 / White/grey](https://otticamolineris.it/products/cf-7013-s?variant=53900013306184)
+  - [53/18/140 / White/grey](https://otticamolineris.it/products/cf-7013-s?variant=54065249157448)
     Availability: Available
     Price: 54,00 € EUR
 - [CLIFDEN OO 9440 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/clifden-oo-9440): OAKLEY CLIFDEN OO 9440 è un modello di occhiali da sole da uomo firmato OAKLEY caratterizzato da una montatura rotonda. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in policarbonato offrono una visione nitida e confortevole in ogni condizione di luce.Misure: calibro 56 mm, ponte 17 mm, aste 146 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T05:05:11Z
+  Updated: 2026-09-16T23:11:01Z
   Vendor: OAKLEY
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392459909_q45.jpg?v=1787627042
-  - [56/17/146 / Polished black/prizm snow sapphire](https://otticamolineris.it/products/clifden-oo-9440?variant=53898077700424)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392459909_q45_ff0d0417-a836-4f49-b0ed-fbc57b19f531.jpg?v=1789600025
+  - [56/17/146 / Polished black/prizm snow sapphire](https://otticamolineris.it/products/clifden-oo-9440?variant=54079061360968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392459909_q45.jpg?v=1787627042
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392459909_q45_ff0d0417-a836-4f49-b0ed-fbc57b19f531.jpg?v=1789600025
     Price: 214,00 € EUR
   - [56/17/146 / Matte traslucent blue/prizm deep water](https://otticamolineris.it/products/clifden-oo-9440?variant=53466217349448)
     Availability: Not Available
@@ -1362,7 +1344,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714684_q45.jpg?v=1783578963
   Price: 249,00 € EUR
 - [DAPHNE BE 3133 BURBERRY - Ottica Molineris](https://otticamolineris.it/products/daphne-be-3133): BURBERRY DAPHNE BE 3133: occhiali da sole da donna firmati BURBERRY, con montatura geometrica in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 16 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-24T21:03:03Z
+  Updated: 2026-09-14T09:01:18Z
   Vendor: BURBERRY
   Product Type: Occhiali da sole
   Availability: Available
@@ -1374,50 +1356,50 @@
     Availability: Available
     Price: 221,00 € EUR
   - [58/16/140 / Rose gold](https://otticamolineris.it/products/daphne-be-3133?variant=53891241935176)
-    Availability: Not Available
+    Availability: Available
     Price: 221,00 € EUR
 - [DB 1015 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1015): DAVID BECKHAM DB 1015: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in metallo.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:32Z
+  Updated: 2026-09-16T23:05:07Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255484_q45.jpg?v=1787644966
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255484_q45.jpg?v=1789599751
   - [50/21/145 / Ruthenium](https://otticamolineris.it/products/db-1015?variant=53491140591944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255484_q45.jpg?v=1787644966
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255484_q45.jpg?v=1789599751
     Price: 219,00 € EUR
-  - [52/21/150 / Ruthenium](https://otticamolineris.it/products/db-1015?variant=53900132876616)
+  - [52/21/150 / Ruthenium](https://otticamolineris.it/products/db-1015?variant=54078950441288)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255491_q45.jpg?v=1787644966
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255491_q45.jpg?v=1789599751
     Price: 219,00 € EUR
-  - [52/21/150 / Gold](https://otticamolineris.it/products/db-1015?variant=53895259095368)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255514_q45_14f20c77-5d32-45e5-8c20-e917c7e876d4.jpg?v=1787644967
-    Price: 219,00 € EUR
-  - [50/21/145 / Gold black 2](https://otticamolineris.it/products/db-1015?variant=53895259128136)
+  - [52/21/150 / Gold](https://otticamolineris.it/products/db-1015?variant=54050840248648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255521_q45_ce45244b-b981-4852-949d-3d98218ca758.jpg?v=1787644967
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255514_q45.jpg?v=1789599751
     Price: 219,00 € EUR
-  - [52/21/150 / Gold black /blue mirrored](https://otticamolineris.it/products/db-1015?variant=53900132909384)
+  - [50/21/145 / Gold black 2](https://otticamolineris.it/products/db-1015?variant=54050840281416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255521_q45.jpg?v=1789599751
+    Price: 219,00 € EUR
+  - [52/21/150 / Gold black /blue mirrored](https://otticamolineris.it/products/db-1015?variant=54072671043912)
     Availability: Not Available
     Price: 120,00 € EUR
 - [DB 1061/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1061-s): DAVID BECKHAM DB 1061/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acciaio. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 58 mm, ponte 17 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T04:02:40Z
+  Updated: 2026-09-16T19:01:31Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396828_q45.jpg?v=1787619818
-  - [58/17/145 / Matte black](https://otticamolineris.it/products/db-1061-s?variant=53897486041416)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396828_q45.jpg?v=1789430614
+  - [58/17/145 / Matte black](https://otticamolineris.it/products/db-1061-s?variant=54067119325512)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396828_q45.jpg?v=1787619818
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396828_q45.jpg?v=1789430614
     Price: 215,00 € EUR
   - [58/17/145 / Matte brown ruthenium](https://otticamolineris.it/products/db-1061-s?variant=53466147127624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396835_q45_76ae06da-5af7-48e8-ad09-dd5e9f584748.jpg?v=1787619818
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396835_q45_71495933-30e2-4d63-86e1-996055404be4.jpg?v=1789430614
     Price: 215,00 € EUR
   - [58/17/145 / Matte black ruthenium](https://otticamolineris.it/products/db-1061-s?variant=53466147160392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396842_q45_e975e4d3-e705-42ba-8258-90889fa88ede.jpg?v=1787619818
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736396842_q45_12ee89cb-ad3a-44bd-a60d-624945f225a5.jpg?v=1789430613
     Price: 215,00 € EUR
 - [DB 1079/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1079-s): DAVID BECKHAM DB 1079/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 54 mm, ponte 20 mm, aste 150 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-07-31T11:58:33Z
@@ -1438,222 +1420,222 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692050_q45_63a075cb-ab9a-4a68-9147-a1067ad3134a.jpg?v=1783430939
     Price: 215,00 € EUR
 - [DB 7000/S BOLD DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7000-s-bold): DAVID BECKHAM DB 7000/S BOLD: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 52 mm, ponte 20 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:56Z
+  Updated: 2026-09-16T23:01:09Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691985_q45_e075e426-457a-49da-9c96-93fe1c3d46f4.jpg?v=1787644871
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691985_q45_07e53b32-b75f-49bd-9fa7-1d96a8b37886.jpg?v=1789599659
   - [52/20/145 / Havana](https://otticamolineris.it/products/db-7000-s-bold?variant=53466272530760)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691985_q45_e075e426-457a-49da-9c96-93fe1c3d46f4.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691985_q45_07e53b32-b75f-49bd-9fa7-1d96a8b37886.jpg?v=1789599659
     Price: 239,00 € EUR
-  - [52/20/145 / Black](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047745352)
+  - [52/20/145 / Black](https://otticamolineris.it/products/db-7000-s-bold?variant=54053180604744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691992_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691992_q45.jpg?v=1789599659
     Price: 249,00 € EUR
-  - [52/20/145 / Havana honey](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047778120)
+  - [52/20/145 / Havana honey](https://otticamolineris.it/products/db-7000-s-bold?variant=54043893268808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692005_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692005_q45.jpg?v=1789599659
     Price: 249,00 € EUR
   - [52/20/145 / Striped brown](https://otticamolineris.it/products/db-7000-s-bold?variant=53466272629064)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692012_q45_d0aa8906-074c-480f-80cd-63400bda3226.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736692012_q45_6367ee1a-075b-40b5-8319-7b79b347a019.jpg?v=1789599659
     Price: 249,00 € EUR
-  - [54/20/145 / Havana](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047810888)
+  - [54/20/145 / Havana](https://otticamolineris.it/products/db-7000-s-bold?variant=54053180539208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736779188_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736779188_q45_f2c6b3f4-53b4-4efd-bf7d-6110f9505385.jpg?v=1789599659
     Price: 249,00 € EUR
-  - [54/20/145 / Black/blue](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047843656)
+  - [54/20/145 / Black/blue](https://otticamolineris.it/products/db-7000-s-bold?variant=54053180571976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736779195_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736779195_q45_1d74fbd1-ae39-46e8-850e-8ca0044de2d4.jpg?v=1789599659
     Price: 232,00 € EUR
-  - [52/20/145 / Black (807)](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047876424)
+  - [52/20/145 / Black (807)](https://otticamolineris.it/products/db-7000-s-bold?variant=54078869078344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736793580_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736793580_q45_a34567b2-8ce6-493c-9da7-f7706630c6dd.jpg?v=1789599659
     Price: 279,00 € EUR
-  - [54/20/145 / Black](https://otticamolineris.it/products/db-7000-s-bold?variant=53900047909192)
+  - [54/20/145 / Black](https://otticamolineris.it/products/db-7000-s-bold?variant=54053180637512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736793597_q45.jpg?v=1787644871
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736793597_q45_c316e6e0-a7ab-448a-9cea-7bec8ff8e56e.jpg?v=1789599659
     Price: 279,00 € EUR
 - [DB 7025 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7025): DAVID BECKHAM DB 7025: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:49Z
+  Updated: 2026-09-15T06:02:33Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325897_q45.jpg?v=1787644885
-  - [52/20/145 / Havana](https://otticamolineris.it/products/db-7025?variant=53897378464072)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325897_q45.jpg?v=1789430508
+  - [52/20/145 / Havana](https://otticamolineris.it/products/db-7025?variant=54067025248584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325897_q45.jpg?v=1787644885
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325897_q45.jpg?v=1789430508
     Price: 215,00 € EUR
-  - [52/20/145 / Dark brown shaded](https://otticamolineris.it/products/db-7025?variant=53900061114696)
+  - [52/20/145 / Dark brown shaded](https://otticamolineris.it/products/db-7025?variant=54067025281352)
     Availability: Available
     Price: 129,00 € EUR
-  - [52/20/145 / Black](https://otticamolineris.it/products/db-7025?variant=53897378529608)
+  - [52/20/145 / Black](https://otticamolineris.it/products/db-7025?variant=54067025314120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325910_q45.jpg?v=1787644885
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325910_q45.jpg?v=1789430508
     Price: 215,00 € EUR
   - [52/20/145 / Brown havana](https://otticamolineris.it/products/db-7025?variant=53491272515912)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325927_q45_bb82d89a-b4cd-433e-9dc5-62b28ad26f42.jpg?v=1787644885
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736325927_q45_419e665e-778c-4ee2-bb7b-f2922fa8b590.jpg?v=1789430508
     Price: 189,00 € EUR
 - [D2 0034 DSQUARED2 - Ottica Molineris](https://otticamolineris.it/products/d2-0034): DSQUARED2 D2 0034: un articolo firmato DSQUARED2 della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T00:01:08Z
+  Updated: 2026-09-15T02:00:53Z
   Vendor: DSQUARED2
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714646_q45.jpg?v=1787583646
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714646_q45.jpg?v=1789398053
   - [59/15/140 / Black gold](https://otticamolineris.it/products/d2-0034?variant=53491504644424)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714646_q45.jpg?v=1787583646
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714646_q45.jpg?v=1789398053
     Price: 259,00 € EUR
-  - [59/15/140 / Matte black dark ruthenium](https://otticamolineris.it/products/d2-0034?variant=53894255771976)
+  - [59/15/140 / Matte black dark ruthenium](https://otticamolineris.it/products/d2-0034?variant=54062409253192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714653_q45.jpg?v=1787583646
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736714653_q45.jpg?v=1789398052
     Price: 259,00 € EUR
 - [DB 1006/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1006-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 1006/S presentano una montatura rettangolare in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 50 mm, ponte 22 mm, aste 145 mm. Disponibile in 6 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:37Z
+  Updated: 2026-09-15T06:00:50Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257815_q45.jpg?v=1787644963
-  - [50/22/145 / Havana](https://otticamolineris.it/products/db-1006-s?variant=53897463267656)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257815_q45.jpg?v=1789430583
+  - [50/22/145 / Havana](https://otticamolineris.it/products/db-1006-s?variant=54067091210568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257815_q45.jpg?v=1787644963
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257815_q45.jpg?v=1789430583
     Price: 179,00 € EUR
-  - [50/22/145 / Black](https://otticamolineris.it/products/db-1006-s?variant=53897463300424)
+  - [50/22/145 / Black](https://otticamolineris.it/products/db-1006-s?variant=54067091243336)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257839_q45.jpg?v=1787644963
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257839_q45.jpg?v=1789430582
     Price: 175,00 € EUR
-  - [50/22/145 / Black/ grey polarized](https://otticamolineris.it/products/db-1006-s?variant=53900130681160)
+  - [50/22/145 / Black/ grey polarized](https://otticamolineris.it/products/db-1006-s?variant=54067091276104)
     Availability: Available
     Price: 199,00 € EUR
-  - [50/22/145 / Brown horn](https://otticamolineris.it/products/db-1006-s?variant=53897463365960)
+  - [50/22/145 / Brown horn](https://otticamolineris.it/products/db-1006-s?variant=54067091308872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257853_q45.jpg?v=1787644963
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257853_q45.jpg?v=1789430583
     Price: 179,00 € EUR
-  - [50/22/145 / Havana/blue light filter cat.](https://otticamolineris.it/products/db-1006-s?variant=53900130713928)
+  - [50/22/145 / Havana/blue light filter cat.](https://otticamolineris.it/products/db-1006-s?variant=54067091341640)
     Availability: Available
     Price: 179,00 € EUR
   - [50/22/145 / Blue](https://otticamolineris.it/products/db-1006-s?variant=53466127794504)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431000_q45.jpg?v=1787644963
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431000_q45.jpg?v=1789430582
     Price: 169,00 € EUR
 - [DB 7075/G DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7075-g): DAVID BECKHAM DB 7075/G: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in metallo.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:47Z
+  Updated: 2026-09-16T23:01:21Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433325_q45.jpg?v=1787644901
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433325_q45.jpg?v=1789599674
   - [51/21/145 / Gold grey](https://otticamolineris.it/products/db-7075-g?variant=53491280380232)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433325_q45.jpg?v=1787644901
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433325_q45.jpg?v=1789599674
     Price: 269,00 € EUR
-  - [51/21/145 / Ruthenium black](https://otticamolineris.it/products/db-7075-g?variant=53900074844488)
+  - [51/21/145 / Ruthenium black](https://otticamolineris.it/products/db-7075-g?variant=54078881857864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433332_q45.jpg?v=1787644901
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736433332_q45.jpg?v=1789599674
     Price: 269,00 € EUR
 - [DB 1018 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1018): DAVID BECKHAM DB 1018: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 18 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:07Z
+  Updated: 2026-09-16T23:02:45Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096052_q45.jpg?v=1787644969
-  - [49/20/150 / Matte blue](https://otticamolineris.it/products/db-1018?variant=53894272745800)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096052_q45_d1be02d7-2efa-4c77-9ef4-144f4e242e96.jpg?v=1789599754
+  - [49/20/150 / Matte blue](https://otticamolineris.it/products/db-1018?variant=54062492451144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096052_q45.jpg?v=1787644969
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096052_q45_d1be02d7-2efa-4c77-9ef4-144f4e242e96.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Matte havana](https://otticamolineris.it/products/db-1018?variant=53895260307784)
+  - [49/20/150 / Matte havana](https://otticamolineris.it/products/db-1018?variant=54062492483912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096069_q45_7d83ba29-95df-444b-817e-d7bc2e5729e1.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096069_q45_efd3fc7a-ce2c-4cab-9188-9f0c209de59c.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Havana](https://otticamolineris.it/products/db-1018?variant=53895260340552)
+  - [47/20/145 / Havana](https://otticamolineris.it/products/db-1018?variant=54062492516680)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255705_q45_9c50ae11-c2bc-4292-9891-99df9fa41d5e.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255705_q45_4f94b6ee-4bdd-4e50-8fe8-5e218f7220bd.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Grey horn](https://otticamolineris.it/products/db-1018?variant=53894272844104)
+  - [47/20/145 / Grey horn](https://otticamolineris.it/products/db-1018?variant=54062492549448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255712_q45.jpg?v=1787644969
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255712_q45_9c0fc8d0-9797-4a3e-818b-d23ee42470da.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Black](https://otticamolineris.it/products/db-1018?variant=53895260373320)
+  - [47/20/145 / Black](https://otticamolineris.it/products/db-1018?variant=54062492582216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255729_q45_3551bad5-9927-47a5-9a09-12dc220e90bc.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255729_q45_6fd3cf58-7111-4f21-8143-9ae83073a02c.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Havana](https://otticamolineris.it/products/db-1018?variant=53895260406088)
+  - [49/20/150 / Havana](https://otticamolineris.it/products/db-1018?variant=54062492614984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280486_q45_a3bc9258-ff1b-4f9e-b898-2e60ddd88eae.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280486_q45_d4cc75c3-f226-496b-bbd6-6024714c1fac.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Grey horn](https://otticamolineris.it/products/db-1018?variant=53895260438856)
+  - [49/20/150 / Grey horn](https://otticamolineris.it/products/db-1018?variant=54062492647752)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280493_q45_30cdf574-932d-4ff5-85ce-1ffef0b469e1.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280493_q45_e268b603-a048-4589-9233-1386c8641d2a.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Black](https://otticamolineris.it/products/db-1018?variant=53894272975176)
+  - [49/20/150 / Black](https://otticamolineris.it/products/db-1018?variant=54062492680520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280509_q45.jpg?v=1787644969
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280509_q45_f074e5dd-32bf-4595-8031-eef0c50d0b01.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Brown horn](https://otticamolineris.it/products/db-1018?variant=53894273007944)
+  - [49/20/150 / Brown horn](https://otticamolineris.it/products/db-1018?variant=54062492713288)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280516_q45.jpg?v=1787644969
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736280516_q45_1250678f-01e1-4938-8757-a0a4e7219e88.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Mud](https://otticamolineris.it/products/db-1018?variant=53894273040712)
+  - [49/20/150 / Mud](https://otticamolineris.it/products/db-1018?variant=54062492746056)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431086_q45.jpg?v=1787644969
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431086_q45_115c500f-702d-4ab8-8ad8-691933ea2234.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Grey gold](https://otticamolineris.it/products/db-1018?variant=53895260471624)
+  - [49/20/150 / Grey gold](https://otticamolineris.it/products/db-1018?variant=54062492778824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431109_q45_fd5f04bc-202b-46aa-a148-91d4d9443f2b.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431109_q45_5c2a03be-422f-430b-a8e6-19672016af42.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Grey](https://otticamolineris.it/products/db-1018?variant=53894273106248)
+  - [47/20/145 / Grey](https://otticamolineris.it/products/db-1018?variant=54062492811592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431116_q45.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431116_q45_2ec87f0e-fe0a-4761-aa8b-89300e2b5bee.jpg?v=1789599754
     Price: 179,00 € EUR
   - [49/20/150 / Grey](https://otticamolineris.it/products/db-1018?variant=53491147309384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431123_q45.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431123_q45.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Brown striped havana](https://otticamolineris.it/products/db-1018?variant=53895260504392)
+  - [47/20/145 / Brown striped havana](https://otticamolineris.it/products/db-1018?variant=54072671502664)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431253_q45_a3eed2c0-7662-4e78-9147-a9f53f770859.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431253_q45_4e14ac6f-b417-4d58-91d6-323c62715efc.jpg?v=1789599754
     Price: 169,00 € EUR
-  - [47/20/145 / Pink](https://otticamolineris.it/products/db-1018?variant=53897469133128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836706_q45_41437331-46ae-4e31-87b2-8659b14cf36c.jpg?v=1787644970
+  - [47/20/145 / Pink](https://otticamolineris.it/products/db-1018?variant=54072671535432)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836706_q45_8393f080-694b-41ae-922a-c12ac5365e6a.jpg?v=1789599754
     Price: 175,00 € EUR
-  - [49/20/150 / Pink](https://otticamolineris.it/products/db-1018?variant=53897469165896)
+  - [49/20/150 / Pink](https://otticamolineris.it/products/db-1018?variant=54072671568200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836713_q45_830db4ff-de35-4561-91d2-2c3476a979f5.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836713_q45_2d89fec6-d882-446a-9723-f0f645103de7.jpg?v=1789599754
     Price: 175,00 € EUR
-  - [49/20/150 / Blue](https://otticamolineris.it/products/db-1018?variant=53894273237320)
+  - [49/20/150 / Blue](https://otticamolineris.it/products/db-1018?variant=54062492844360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836935_q45.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736836935_q45_fa8f42cc-4970-46a5-b579-74853cbe00d4.jpg?v=1789599754
     Price: 179,00 € EUR
   - [47/20/145 / Matte black](https://otticamolineris.it/products/db-1018?variant=53491147473224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840147_q45.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840147_q45.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [49/20/150 / Matte black](https://otticamolineris.it/products/db-1018?variant=53894273270088)
+  - [49/20/150 / Matte black](https://otticamolineris.it/products/db-1018?variant=54062492877128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840154_q45.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840154_q45_f7afcd97-6453-4902-be53-97f3fdaf0e60.jpg?v=1789599754
     Price: 179,00 € EUR
-  - [47/20/145 / Matt striped brown](https://otticamolineris.it/products/db-1018?variant=53897469198664)
+  - [47/20/145 / Matt striped brown](https://otticamolineris.it/products/db-1018?variant=54072671600968)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072606_q45_ff05562a-41a8-4d5c-9eff-5b81f347a278.jpg?v=1787644970
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072606_q45_4a4fd8e7-b900-4dbe-b4e2-6c235f6af2a3.jpg?v=1789599754
     Price: 175,00 € EUR
-  - [47/20/145 / Black horn](https://otticamolineris.it/products/db-1018?variant=53900134449480)
-    Availability: Not Available
-    Price: 179,00 € EUR
-  - [49/20/150 / Black horn](https://otticamolineris.it/products/db-1018?variant=53897469231432)
-    Availability: Not Available
-    Price: 175,00 € EUR
-  - [49/20/150 / Green](https://otticamolineris.it/products/db-1018?variant=53895260668232)
+  - [47/20/145 / Black horn](https://otticamolineris.it/products/db-1018?variant=54078951817544)
     Availability: Available
     Price: 179,00 € EUR
-  - [47/20/145 / Yellow](https://otticamolineris.it/products/db-1018?variant=53897469264200)
+  - [49/20/150 / Black horn](https://otticamolineris.it/products/db-1018?variant=54072671633736)
+    Availability: Not Available
+    Price: 175,00 € EUR
+  - [49/20/150 / Green](https://otticamolineris.it/products/db-1018?variant=54062492909896)
+    Availability: Available
+    Price: 179,00 € EUR
+  - [47/20/145 / Yellow](https://otticamolineris.it/products/db-1018?variant=54072671666504)
     Availability: Available
     Price: 175,00 € EUR
   - [49/20/150 / Yellow](https://otticamolineris.it/products/db-1018?variant=53491147702600)
     Availability: Not Available
     Price: 179,00 € EUR
-  - [49/20/150 / Red](https://otticamolineris.it/products/db-1018?variant=53894273433928)
+  - [49/20/150 / Red](https://otticamolineris.it/products/db-1018?variant=54062492942664)
     Availability: Not Available
     Price: 179,00 € EUR
 - [DB 1007/S - Ottica Molineris](https://otticamolineris.it/products/db-1007-s): Occhiali da sole originali David Beckham DB 1007/S. Modello uomo, di forma arrotondata della collezione David Beckham 2023. La montatura è in acetato. Tutti gli occhiali da sole sono originali e garantiti. "Il mio percorso di stile mi ha insegnato il potere della semplicità e l'importanza dei dettagli e dell'artigianato". David Beckham ha curato una collezione di montature senza tempo realizzate con i migliori materiali. Il suo gusto esigente e il suo occhio per i dettagli hanno unito un'estetica contemporanea eccezionale all'artigianato tradizionale. Il marchio riflette la visione di David, con una costante dedizione alla qualità. - Ottica Molineris
@@ -1699,156 +1681,156 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/1007_s_FLLNU_P00.jpg?v=1785527128
     Price: 175,00 € EUR
 - [DB 1019 DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1019): DAVID BECKHAM DB 1019: un articolo firmato DAVID BECKHAM della linea occhiali da vista, realizzato in acetato.Disponibile in 12 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:47Z
+  Updated: 2026-09-16T08:01:28Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da vista
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096076_q45_2220af8b-af05-414d-9c82-8c2ae41f9e95.jpg?v=1787644973
-  - [54/16/150 / Matte blue](https://otticamolineris.it/products/db-1019?variant=53894274089288)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096076_q45.jpg?v=1789517029
+  - [54/16/150 / Matte blue](https://otticamolineris.it/products/db-1019?variant=54062495400264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096076_q45_2220af8b-af05-414d-9c82-8c2ae41f9e95.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096076_q45.jpg?v=1789517029
     Price: 179,00 € EUR
   - [54/16/150 / Matte havana](https://otticamolineris.it/products/db-1019?variant=53491152355656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096083_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/197737096083_q45.jpg?v=1789517029
     Price: 179,00 € EUR
-  - [54/16/150 / Havana](https://otticamolineris.it/products/db-1019?variant=53894274122056)
+  - [54/16/150 / Havana](https://otticamolineris.it/products/db-1019?variant=54062495433032)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255576_q45_5140c2f9-2e74-4117-8b1d-0d2704cccc5b.jpg?v=1787644974
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255576_q45.jpg?v=1789517029
     Price: 179,00 € EUR
   - [54/16/150 / Grey horn](https://otticamolineris.it/products/db-1019?variant=53491152421192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255583_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255583_q45.jpg?v=1789517029
     Price: 179,00 € EUR
   - [54/16/150 / Black](https://otticamolineris.it/products/db-1019?variant=53491152453960)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255590_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255590_q45.jpg?v=1789517029
     Price: 179,00 € EUR
-  - [54/16/150 / Brown havana](https://otticamolineris.it/products/db-1019?variant=53895262437704)
+  - [54/16/150 / Brown havana](https://otticamolineris.it/products/db-1019?variant=54072672321864)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255606_q45_274a505e-d8b9-40cf-98e7-d04027e26524.jpg?v=1787644974
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736255606_q45_81c6f118-001d-4700-be06-8406f7fb7219.jpg?v=1789517029
     Price: 169,00 € EUR
-  - [57/16/150 / Grey horn](https://otticamolineris.it/products/db-1019?variant=53897471230280)
+  - [57/16/150 / Grey horn](https://otticamolineris.it/products/db-1019?variant=54072672354632)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736398891_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736398891_q45_4e4b710b-050d-4e89-8446-ff53c63a87ab.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [57/16/150 / Brown havana](https://otticamolineris.it/products/db-1019?variant=53895262503240)
+  - [57/16/150 / Brown havana](https://otticamolineris.it/products/db-1019?variant=54072672387400)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736398914_q45_c2b0a56c-1152-4703-9af1-b11a2c2f639a.jpg?v=1787644974
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736398914_q45_e434af74-401d-4a43-995d-71b8e30d74c0.jpg?v=1789517029
     Price: 169,00 € EUR
   - [59/17/150 / Havana](https://otticamolineris.it/products/db-1019?variant=53491152585032)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736707082_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736707082_q45.jpg?v=1789517029
     Price: 179,00 € EUR
-  - [59/17/150 / Black](https://otticamolineris.it/products/db-1019?variant=53900137005384)
+  - [59/17/150 / Black](https://otticamolineris.it/products/db-1019?variant=54072894521672)
     Availability: Not Available
     Price: 179,00 € EUR
-  - [54/16/150 / Beige](https://otticamolineris.it/products/db-1019?variant=53897471295816)
+  - [54/16/150 / Beige](https://otticamolineris.it/products/db-1019?variant=54072672420168)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840208_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840208_q45_27f86e43-c2ce-4c26-aeda-13edaf612610.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [54/16/150 / Blue](https://otticamolineris.it/products/db-1019?variant=53897471328584)
+  - [54/16/150 / Blue](https://otticamolineris.it/products/db-1019?variant=54072672452936)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840222_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736840222_q45_abd50a8f-fa06-4c98-b2a0-c942eb072886.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [59/17/150 / Beige](https://otticamolineris.it/products/db-1019?variant=53897471361352)
+  - [59/17/150 / Beige](https://otticamolineris.it/products/db-1019?variant=54072672485704)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736842707_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736842707_q45_e4384c4d-7030-462d-8528-4d898e7cb5eb.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [54/16/150 / Matt striped brown](https://otticamolineris.it/products/db-1019?variant=53897471394120)
+  - [54/16/150 / Matt striped brown](https://otticamolineris.it/products/db-1019?variant=54072672518472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072675_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072675_q45_6389c00b-8018-44c7-87b7-6547447c4df4.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [57/16/150 / Black horn](https://otticamolineris.it/products/db-1019?variant=53897471426888)
+  - [57/16/150 / Black horn](https://otticamolineris.it/products/db-1019?variant=54072672551240)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072712_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072712_q45_49766b6e-d9b4-4746-85fa-038bce7f2349.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [54/16/150 / Green](https://otticamolineris.it/products/db-1019?variant=53900137038152)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886517701_q45.jpg?v=1787644973
+  - [54/16/150 / Green](https://otticamolineris.it/products/db-1019?variant=54072894554440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886517701_q45.jpg?v=1789517029
     Price: 179,00 € EUR
-  - [54/16/150 / Striped brown beige](https://otticamolineris.it/products/db-1019?variant=53897471492424)
+  - [54/16/150 / Striped brown beige](https://otticamolineris.it/products/db-1019?variant=54072672584008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886517725_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886517725_q45_de1eba6a-7717-4af0-9475-e0c61b1d5c48.jpg?v=1789517029
     Price: 175,00 € EUR
-  - [57/16/150 / Striped brown beige](https://otticamolineris.it/products/db-1019?variant=53897471525192)
+  - [57/16/150 / Striped brown beige](https://otticamolineris.it/products/db-1019?variant=54072672616776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886526321_q45.jpg?v=1787644973
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886526321_q45_254b067d-24ed-4f60-a314-0c1ead9a1177.jpg?v=1789517029
     Price: 175,00 € EUR
 - [FT0834 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/dante-ft-0834): TOM FORD FT0834: occhiali da sole da uomo firmati TOM FORD, con montatura rotonda in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 50 mm, ponte 21 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:00Z
+  Updated: 2026-09-16T23:05:07Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218872_q45.jpg?v=1787645049
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218872_q45.jpg?v=1789599902
   - [50/21/145 / Shiny black](https://otticamolineris.it/products/dante-ft-0834?variant=53466486309192)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218872_q45.jpg?v=1787645049
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218872_q45.jpg?v=1789599902
     Price: 280,00 € EUR
-  - [50/21/145 / Dark havana](https://otticamolineris.it/products/dante-ft-0834?variant=53900178817352)
+  - [50/21/145 / Dark havana](https://otticamolineris.it/products/dante-ft-0834?variant=54079036391752)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218889_q45.jpg?v=1787645049
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218889_q45.jpg?v=1789599902
     Price: 270,00 € EUR
   - [50/21/145 / Havana/monocolor](https://otticamolineris.it/products/dante-ft-0834?variant=53466486374728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218919_q45.jpg?v=1787645049
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218919_q45.jpg?v=1789599902
     Price: 280,00 € EUR
   - [52/21/145 / Shiny black](https://otticamolineris.it/products/dante-ft-0834?variant=53466486407496)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218926_q45.jpg?v=1787645049
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218926_q45.jpg?v=1789599901
     Price: 280,00 € EUR
   - [52/21/145 / Dark havana](https://otticamolineris.it/products/dante-ft-0834?variant=53466486440264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218933_q45.jpg?v=1787645049
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218933_q45.jpg?v=1789599901
     Price: 280,00 € EUR
   - [52/21/145 / Havana/monocolor](https://otticamolineris.it/products/dante-ft-0834?variant=53466486473032)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218964_q45.jpg?v=1787645049
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214218964_q45.jpg?v=1789599901
     Price: 280,00 € EUR
 - [DB 1036/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1036-s): DAVID BECKHAM DB 1036/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 49 mm, ponte 23 mm, aste 145 mm. Disponibile in 9 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:34Z
+  Updated: 2026-09-16T23:02:45Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324388_q45_33553447-163b-4ee1-a224-465e3e6e6d1d.jpg?v=1787644980
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324388_q45_a635b895-9746-4789-8978-560d72bb43af.jpg?v=1789599758
   - [49/23/145 / Havana](https://otticamolineris.it/products/db-1036-s?variant=53466134806856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324388_q45_33553447-163b-4ee1-a224-465e3e6e6d1d.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324388_q45_a635b895-9746-4789-8978-560d72bb43af.jpg?v=1789599758
     Price: 179,00 € EUR
-  - [49/23/145 / Havana horn](https://otticamolineris.it/products/db-1036-s?variant=53897481093448)
+  - [49/23/145 / Havana horn](https://otticamolineris.it/products/db-1036-s?variant=54072674189640)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324401_q45_7bd2e510-7a9b-4f5b-b04b-736846523189.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324401_q45_afed89fd-fb2a-401c-81da-3fe430dd2b22.jpg?v=1789599758
     Price: 179,00 € EUR
-  - [49/23/145 / Black horn](https://otticamolineris.it/products/db-1036-s?variant=53892151083336)
+  - [49/23/145 / Black horn](https://otticamolineris.it/products/db-1036-s?variant=54062372127048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324418_q45_a755fdb4-7cf2-4344-8dc3-a33db2d9438d.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736324418_q45_28ee0d87-de5d-4ef1-bca3-a6e242387fea.jpg?v=1789599758
     Price: 179,00 € EUR
-  - [49/23/145 / Red havana](https://otticamolineris.it/products/db-1036-s?variant=53900140904776)
+  - [49/23/145 / Red havana](https://otticamolineris.it/products/db-1036-s?variant=54078955946312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365060_q45.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365060_q45.jpg?v=1789599758
     Price: 179,00 € EUR
-  - [49/23/145 / Ochre](https://otticamolineris.it/products/db-1036-s?variant=53897481126216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431178_q45_76037854-44cd-4feb-9e7a-b4cb11691498.jpg?v=1787644980
-    Price: 179,00 € EUR
-  - [49/23/145 / Grey gold](https://otticamolineris.it/products/db-1036-s?variant=53897481158984)
+  - [49/23/145 / Ochre](https://otticamolineris.it/products/db-1036-s?variant=54072674222408)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431185_q45_8d2ff985-5289-4cc4-b9a0-d9ea96150007.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431178_q45_09384ae2-c074-48ee-a7e4-06c0516e0c38.jpg?v=1789599758
     Price: 179,00 € EUR
-  - [49/23/145 / Grey](https://otticamolineris.it/products/db-1036-s?variant=53892151214408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431192_q45_2b5a664d-6bcd-4d86-9bb9-06db023931c1.jpg?v=1787644980
-    Price: 179,00 € EUR
-  - [49/23/145 / Mud](https://otticamolineris.it/products/db-1036-s?variant=53897481191752)
+  - [49/23/145 / Grey gold](https://otticamolineris.it/products/db-1036-s?variant=54072674255176)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072835_q45_7966f3f8-3807-4df2-b7f7-55e2b47e5ce5.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431185_q45_a7353e4f-ab48-4f73-9c8f-2f8f515bb7fc.jpg?v=1789599758
+    Price: 179,00 € EUR
+  - [49/23/145 / Grey](https://otticamolineris.it/products/db-1036-s?variant=54062372159816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736431192_q45_21817605-e021-431a-a8c1-7f776b8d0f18.jpg?v=1789599758
+    Price: 179,00 € EUR
+  - [49/23/145 / Mud](https://otticamolineris.it/products/db-1036-s?variant=54072674287944)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072835_q45_526f2ca2-2a40-4b61-9ca2-02ad937e2a36.jpg?v=1789599758
     Price: 175,00 € EUR
-  - [49/23/145 / Havana honey](https://otticamolineris.it/products/db-1036-s?variant=53895266992456)
+  - [49/23/145 / Havana honey](https://otticamolineris.it/products/db-1036-s?variant=54062372192584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072842_q45_78faa70b-6d21-4b0b-9e1e-734e3dad3eb0.jpg?v=1787644980
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/827886072842_q45_1c491ef9-9cf4-4d1e-9990-e325e10cc985.jpg?v=1789599758
     Price: 179,00 € EUR
 - [DB 1039/S/FD DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1039-s-fd-folding): Gli occhiali da sole da uomo DAVID BECKHAM DB 1039/S/FD presentano una montatura a goccia in poliammide dalle linee curate. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 54 mm, ponte 20 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:27Z
+  Updated: 2026-09-16T19:01:31Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1862,7 +1844,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365862_q45_dd3c2f43-5ff2-4d57-b5d5-ae11cd71f5ac.jpg?v=1783430928
     Price: 299,00 € EUR
 - [DB 7047/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7047-s): DAVID BECKHAM DB 7047/S è un modello di occhiali da sole da uomo firmato DAVID BECKHAM caratterizzato da una montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 51 mm, ponte 22 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-19T16:13:42Z
+  Updated: 2026-09-16T09:01:12Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
@@ -1880,38 +1862,60 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736365732_q45_e758574a-8bdd-45c1-b109-f801d198b15e.jpg?v=1783430983
     Price: 229,00 € EUR
 - [DB 7029/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7029-s): Gli occhiali da sole da uomo DAVID BECKHAM DB 7029/S presentano una montatura in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 48 mm, ponte 25 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-19T16:13:41Z
+  Updated: 2026-09-16T19:01:11Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326276_q45_4bfa5685-b33f-4771-8cd8-ab1df1d7b718.jpg?v=1783430978
   - [48/25/145 / Red havana](https://otticamolineris.it/products/db-7029-s?variant=53466283049288)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326276_q45_4bfa5685-b33f-4771-8cd8-ab1df1d7b718.jpg?v=1783430978
     Price: 249,00 € EUR
   - [48/25/145 / Black](https://otticamolineris.it/products/db-7029-s?variant=53466283082056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736326283_q45_efcd7438-fbc7-4711-bdce-0900cbf00807.jpg?v=1783430978
     Price: 219,00 € EUR
-- [DB 7076/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7076-s): DAVID BECKHAM DB 7076/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 23 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:02:41Z
+- [DB 1078/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1078-s): DAVID BECKHAM DB 1078/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acciaio. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 53 mm, ponte 20 mm, aste 150 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-09-16T23:02:55Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691831_q45.jpg?v=1787644902
-  - [50/23/145 / Havana](https://otticamolineris.it/products/db-7076-s?variant=53897397469512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691831_q45.jpg?v=1787644902
-    Price: 219,00 € EUR
-  - [50/23/145 / Olive](https://otticamolineris.it/products/db-7076-s?variant=53897397502280)
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736694924_q45.jpg?v=1789599766
+  - [53/20/150 / Gold havana](https://otticamolineris.it/products/db-1078-s?variant=54078963286344)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691848_q45.jpg?v=1787644903
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736694924_q45.jpg?v=1789599766
+    Price: 269,00 € EUR
+  - [53/20/150 / Ruthenium black](https://otticamolineris.it/products/db-1078-s?variant=54078963319112)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736694948_q45.jpg?v=1789599766
+    Price: 269,00 € EUR
+  - [53/20/150 / Ruthenium havana](https://otticamolineris.it/products/db-1078-s?variant=54072676155720)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736703381_q45_e602e008-1db7-4bae-bfbf-ac25d509aae5.jpg?v=1789599766
+    Price: 259,00 € EUR
+  - [53/20/150 / Gold beige horn](https://otticamolineris.it/products/db-1078-s?variant=53466156958024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736703398_q45.jpg?v=1789599766
+    Price: 299,00 € EUR
+- [DB 7076/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7076-s): DAVID BECKHAM DB 7076/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura in acetato. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 50 mm, ponte 23 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-09-16T08:03:07Z
+  Vendor: DAVID BECKHAM
+  Product Type: Occhiali da sole
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691831_q45.jpg?v=1789513311
+  - [50/23/145 / Havana](https://otticamolineris.it/products/db-7076-s?variant=54072669274440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691831_q45.jpg?v=1789513311
+    Price: 219,00 € EUR
+  - [50/23/145 / Olive](https://otticamolineris.it/products/db-7076-s?variant=54072669307208)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736691848_q45.jpg?v=1789513311
     Price: 215,00 € EUR
   - [50/23/145 / Black](https://otticamolineris.it/products/db-7076-s?variant=53466376601928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736706610_q45.jpg?v=1787644902
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736706610_q45.jpg?v=1789513311
     Price: 219,00 € EUR
-  - [50/23/145 / Brown horn/grey shaded](https://otticamolineris.it/products/db-7076-s?variant=53900076056904)
+  - [50/23/145 / Brown horn/grey shaded](https://otticamolineris.it/products/db-7076-s?variant=54072669339976)
     Availability: Available
     Price: 208,00 € EUR
 - [DG 2285 DOLCE & GABBANA - Ottica Molineris](https://otticamolineris.it/products/dg-2285): DOLCE & GABBANA DG 2285 è un modello di occhiali da sole da uomo firmato DOLCE & GABBANA caratterizzato da una montatura geometrica in metallo. Un equilibrio riuscito tra carattere e leggerezza.Misure: calibro 60 mm, ponte 15 mm, aste 145 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
@@ -1928,26 +1932,26 @@
     Availability: Not Available
     Price: 284,00 € EUR
 - [DB 1046/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-1046-s): DAVID BECKHAM DB 1046/S è un modello di occhiali da sole da uomo firmato DAVID BECKHAM caratterizzato da una montatura in acetato. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 50 mm, ponte 22 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:49Z
+  Updated: 2026-09-15T11:06:55Z
   Vendor: DAVID BECKHAM
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366074_q45_f3c349b7-00c5-4db5-9644-787e79f391ef.jpg?v=1787619813
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366074_q45_f03ac686-ba57-4e03-9f06-1c8fe402babd.jpg?v=1789430608
   - [50/22/145 / Havana](https://otticamolineris.it/products/db-1046-s?variant=53466141491528)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366074_q45_f3c349b7-00c5-4db5-9644-787e79f391ef.jpg?v=1787619813
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366074_q45_f03ac686-ba57-4e03-9f06-1c8fe402babd.jpg?v=1789430608
     Price: 189,00 € EUR
-  - [50/22/145 / Black](https://otticamolineris.it/products/db-1046-s?variant=53897483682120)
+  - [50/22/145 / Black](https://otticamolineris.it/products/db-1046-s?variant=54067114836296)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366081_q45.jpg?v=1787619814
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366081_q45.jpg?v=1789430609
     Price: 189,00 € EUR
   - [50/22/145 / Brown horn](https://otticamolineris.it/products/db-1046-s?variant=53894805651784)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366098_q45.jpg?v=1787619814
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366098_q45.jpg?v=1789430608
     Price: 189,00 € EUR
-  - [50/22/145 / Black grey horn](https://otticamolineris.it/products/db-1046-s?variant=53897483714888)
+  - [50/22/145 / Black grey horn](https://otticamolineris.it/products/db-1046-s?variant=54067114869064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366104_q45.jpg?v=1787619814
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366104_q45.jpg?v=1789430609
     Price: 189,00 € EUR
 - [DG 1339 - Ottica Molineris](https://otticamolineris.it/products/dg-1339): Occhiali da vista originali Dolce & Gabbana DG 1339. Modello donna, di forma arrotondata della collezione Dolce & Gabbana 2023. La montatura è in metallo. Tutti gli occhiali da vista sono originali e garantiti. Artigianalità, raffinatezza ed eleganza senza tempo: gli occhiali da sole Dolce&Gabbana si distinguono per il loro stile inconfondibile, dove la cura dei dettagli e la qualità dei materiali si uniscono alla creatività Made in Italy. - Ottica Molineris
   Updated: 2026-07-31T21:22:38Z
@@ -1963,6 +1967,32 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/products/img_art_DG_1339_1298-large-feed.jpg?v=1688569518
     Price: 162,00 € EUR
+- [DB 7019/S DAVID BECKHAM - Ottica Molineris](https://otticamolineris.it/products/db-7019-s): DAVID BECKHAM DB 7019/S: occhiali da sole da uomo firmati DAVID BECKHAM, con montatura rettangolare in metallo. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 55 mm, ponte 20 mm, aste 145 mm. Disponibile in 5 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
+  Updated: 2026-09-16T23:01:07Z
+  Vendor: DAVID BECKHAM
+  Product Type: Occhiali da sole
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257136_q45.jpg?v=1789599664
+  - [55/20/145 / Gold](https://otticamolineris.it/products/db-7019-s?variant=54067015876936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257136_q45.jpg?v=1789599664
+    Price: 245,00 € EUR
+  - [55/20/145 / Dark ruthenium black](https://otticamolineris.it/products/db-7019-s?variant=53466281869640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736257143_q45.jpg?v=1789599662
+    Price: 225,00 € EUR
+  - [55/20/145 / Palladium](https://otticamolineris.it/products/db-7019-s?variant=53466281902408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736281360_q45.jpg?v=1789599662
+    Price: 239,00 € EUR
+  - [55/20/145 / Ruthenium](https://otticamolineris.it/products/db-7019-s?variant=54078872093000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736281377_q45.jpg?v=1789599662
+    Price: 245,00 € EUR
+  - [55/20/145 / Gold havana](https://otticamolineris.it/products/db-7019-s?variant=53884808757576)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736327938_q45.jpg?v=1789599663
+    Price: 239,00 € EUR
 - [DB 7043/CS - Ottica Molineris](https://otticamolineris.it/products/db-7043-cs): Occhiali da vista originali David Beckham DB 7043/CS. Modello uomo, di forma squadrata della collezione David Beckham 2023. La montatura è in acetato ed è dotata di clip-on da sole. Tutti gli occhiali da sole sono originali e garantiti. "Il mio percorso di stile mi ha insegnato il potere della semplicità e l'importanza dei dettagli e dell'artigianato". David Beckham ha curato una collezione di montature senza tempo realizzate con i migliori materiali. Il suo gusto esigente e il suo occhio per i dettagli hanno unito un'estetica contemporanea eccezionale all'artigianato tradizionale. Il marchio riflette la visione di David, con una costante dedizione alla qualità. - Ottica Molineris
   Updated: 2026-07-31T21:29:38Z
   Vendor: David Beckham
@@ -2000,18 +2030,18 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736366227_q45.jpg?v=1787418144
     Price: 225,00 € EUR
 - [DG 2279 DOLCE & GABBANA - Ottica Molineris](https://otticamolineris.it/products/dg-2279): Gli occhiali da sole da donna DOLCE & GABBANA DG 2279 presentano una montatura squadrata in metallo dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 60 mm, ponte 14 mm, aste 140 mm. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:01:07Z
+  Updated: 2026-09-10T02:31:40Z
   Vendor: DOLCE & GABBANA
   Product Type: Occhiali da sole
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597528993_q45.jpg?v=1787143126
   Price: 284,00 € EUR
 - [DESMON SUN OV 5454SU OLIVER PEOPLES - Ottica Molineris](https://otticamolineris.it/products/desmon-sun-ov-5454su): Gli occhiali da sole unisex OLIVER PEOPLES DESMON SUN OV 5454SU presentano una montatura rotonda in acetato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Misure: calibro 50 mm, ponte 21 mm, aste 145 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T17:01:29Z
+  Updated: 2026-09-16T23:03:07Z
   Vendor: OLIVER PEOPLES
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934470484_q45.jpg?v=1787634071
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934470484_q45.jpg?v=1789599761
   - [50/21/145 / Tuscany tortoise/g-](https://otticamolineris.it/products/desmon-sun-ov-5454su?variant=53466567344456)
     Availability: Not Available
     Price: 374,00 € EUR
@@ -2023,14 +2053,14 @@
     Price: 374,00 € EUR
   - [50/21/145 / Tuscany tortoise/g- [70484]](https://otticamolineris.it/products/desmon-sun-ov-5454su?variant=53466567442760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934470484_q45.jpg?v=1787634071
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934470484_q45.jpg?v=1789599761
     Price: 374,00 € EUR
-  - [48/21/145 / Standard](https://otticamolineris.it/products/desmon-sun-ov-5454su?variant=53899365318984)
+  - [48/21/145 / Standard](https://otticamolineris.it/products/desmon-sun-ov-5454su?variant=54078959255880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934483798_q45.jpg?v=1787634071
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0827934483798_q45.jpg?v=1789599761
     Price: 375,00 € EUR
 - [0DG4405 DOLCE & GABBANA - Ottica Molineris](https://otticamolineris.it/products/dg-4405): DOLCE & GABBANA 0DG4405 è un modello di occhiali da sole da donna firmato DOLCE & GABBANA caratterizzato da una montatura a farfalla in acetato. Un equilibrio riuscito tra carattere e leggerezza.Le lenti in poliammide offrono una visione nitida e confortevole in ogni condizione di luce. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 53 mm, ponte 20 mm, aste 140 mm. Disponibile in 3 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-20T22:01:11Z
+  Updated: 2026-09-14T09:02:06Z
   Vendor: DOLCE & GABBANA
   Product Type: Occhiali da sole
   Availability: Available
@@ -2040,7 +2070,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597646642_qbk_2d4779d5-60f5-4a21-b009-27b6cf825d09.jpg?v=1783430549
     Price: 242,00 € EUR
   - [53/20/140 / Havana](https://otticamolineris.it/products/dg-4405?variant=53466226295112)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597646673_q45_b90d5553-edd4-421b-97d5-d7d8e52049a3.jpg?v=1785535474
     Price: 242,00 € EUR
   - [53/20/140 / Black lace](https://otticamolineris.it/products/dg-4405?variant=53466226327880)
@@ -2048,7 +2078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597882767_q45_6bff9d79-9c8e-49f2-9448-c5493bca9c57.jpg?v=1785535425
     Price: 272,00 € EUR
 - [FT0334 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/dimitry-ft-0334): TOM FORD FT0334 è un modello di occhiali da sole da uomo firmato TOM FORD caratterizzato da una montatura a goccia in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 59 mm, ponte 14 mm, aste 130 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:36Z
+  Updated: 2026-09-14T15:01:22Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
@@ -2114,30 +2144,30 @@
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056262082966_q45_906fe04e-42bd-4ac2-975a-892ea3d2c68d.jpg?v=1783430821
     Price: 147,00 € EUR
 - [FT0907 TOM FORD - Ottica Molineris](https://otticamolineris.it/products/dunning-02-ft-0907): TOM FORD FT0907: occhiali da sole da uomo firmati TOM FORD, con montatura rettangolare in acetato. Un modello versatile, facile da abbinare in ogni occasione.Misure: calibro 55 mm, ponte 19 mm, aste 145 mm. Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:05Z
+  Updated: 2026-09-16T23:05:18Z
   Vendor: TOM FORD
   Product Type: Occhiali da sole
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292858_q45.jpg?v=1787645059
+  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292858_q45.jpg?v=1789599911
   - [55/19/145 / Shiny black](https://otticamolineris.it/products/dunning-02-ft-0907?variant=53466517340488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292858_q45.jpg?v=1787645059
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292858_q45.jpg?v=1789599911
     Price: 310,00 € EUR
-  - [55/19/145 / Shiny dark brown](https://otticamolineris.it/products/dunning-02-ft-0907?variant=53900183896392)
+  - [55/19/145 / Shiny dark brown](https://otticamolineris.it/products/dunning-02-ft-0907?variant=54079040422216)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292865_q45.jpg?v=1787645059
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292865_q45.jpg?v=1789599911
     Price: 310,00 € EUR
   - [55/19/145 / Dark havana](https://otticamolineris.it/products/dunning-02-ft-0907?variant=53466517406024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292872_q45.jpg?v=1787645059
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214292872_q45.jpg?v=1789599912
     Price: 310,00 € EUR
   - [55/19/145 / Shiny black (01E)](https://otticamolineris.it/products/dunning-02-ft-0907?variant=53875464175944)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601797_q45.jpg?v=1787645059
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214601797_q45.jpg?v=1789599911
     Price: 310,00 € EUR
   - [55/19/145 / Blonde havana](https://otticamolineris.it/products/dunning-02-ft-0907?variant=53466517471560)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602602_q45.jpg?v=1787645059
+    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/889214602602_q45.jpg?v=1789599911
     Price: 310,00 € EUR
 - [DRAW UP OX 8057 OAKLEY - Ottica Molineris](https://otticamolineris.it/products/draw-up-ox-8057): OAKLEY DRAW UP OX 8057: un articolo firmato OAKLEY della linea occhiali da vista.Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-20T22:06:05Z
@@ -2146,32 +2176,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/0888392589170_q45.jpg?v=1783578972
   Price: 154,00 € EUR
-- [0EA3193 EMPORIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ea-3193): EMPORIO ARMANI 0EA3193: un articolo firmato EMPORIO ARMANI della linea occhiali da vista, realizzato in acetato.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-09-09T13:03:08Z
-  Vendor: EMPORIO ARMANI
-  Product Type: Occhiali da vista
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597614245_q45.jpg?v=1783579139
-  - [52/16/140 / Shiny blue havana](https://otticamolineris.it/products/ea-3193?variant=53491666485576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597614245_q45.jpg?v=1783579139
-    Price: 137,00 € EUR
-  - [54/16/140 / Shiny pink havana](https://otticamolineris.it/products/ea-3193?variant=53491666518344)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597614252_q45.jpg?v=1783579138
-    Price: 137,00 € EUR
-  - [52/16/140 / Shiny pink havana](https://otticamolineris.it/products/ea-3193?variant=53491666551112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597614269_q45.jpg?v=1783579138
-    Price: 137,00 € EUR
-  - [54/16/140 / Shiny black](https://otticamolineris.it/products/ea-3193?variant=53491666583880)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597614276_q45.jpg?v=1783579139
-    Price: 137,00 € EUR
-  - [52/16/140 / Shiny transparent pink](https://otticamolineris.it/products/ea-3193?variant=53491666616648)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597850131_q45.jpg?v=1783579138
-    Price: 137,00 € EUR
 - [0EA3168 EMPORIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ea-3168): EMPORIO ARMANI 0EA3168: un articolo firmato EMPORIO ARMANI della linea occhiali da vista, realizzato in materiale iniettato.Disponibile in 4 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
   Updated: 2026-08-24T09:02:38Z
   Vendor: EMPORIO ARMANI
@@ -2223,93 +2227,55 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597644280_q45.jpg?v=1783579135
     Price: 137,00 € EUR
-- [0EA4058 EMPORIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ea-4058): Gli occhiali da sole da uomo EMPORIO ARMANI 0EA4058 presentano una montatura rettangolare in materiale iniettato dalle linee curate. Design e comfort si incontrano in un accessorio pensato per accompagnarti tutto il giorno.Le lenti polarizzate in policarbonato filtrano i riflessi e migliorano il contrasto nelle giornate più luminose. Il modello è predisposto per il montaggio di lenti graduate (RX).Misure: calibro 58 mm, ponte 17 mm, aste 140 mm. Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-07-31T11:59:19Z
-  Vendor: EMPORIO ARMANI
-  Product Type: Occhiali da sole
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056262081860_q45_32329fd8-2659-4fa7-a4df-60750537f561.jpg?v=1783430822
-  - [58/17/140 / Rubber black](https://otticamolineris.it/products/ea-4058?variant=53466676724040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8053672481389_q45_3ebbc3a7-774c-4acf-93c4-903c42d83b28.jpg?v=1783430822
-    Price: 188,00 € EUR
-  - [58/17/140 / Matte green](https://otticamolineris.it/products/ea-4058?variant=53466676756808)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056262081860_q45_32329fd8-2659-4fa7-a4df-60750537f561.jpg?v=1783430822
-    Price: 188,00 € EUR
-- [0EA1138 EMPORIO ARMANI - Ottica Molineris](https://otticamolineris.it/products/ea-1138): EMPORIO ARMANI 0EA1138: un articolo firmato EMPORIO ARMANI della linea occhiali da vista, realizzato in metallo.Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-07-31T11:59:20Z
-  Vendor: EMPORIO ARMANI
-  Product Type: Occhiali da vista
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/8056597729741_q45.jpg?v=1783579071
-  Price: 147,00 € EUR
-- [EMMALEE KATE SPADE - Ottica Molineris](https://otticamolineris.it/products/emmalee): KATE SPADE NY EMMALEE: un articolo firmato KATE SPADE NY della linea occhiali da vista, realizzato in acetato.Disponibile in 2 varianti colore. Garanzia ufficiale di 2 anni. - Ottica Molineris
-  Updated: 2026-08-25T19:04:36Z
-  Vendor: KATE SPADE NY
-  Product Type: Occhiali da vista
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736386416_q45.jpg?v=1787644953
-  - [49/16/140 / Pink](https://otticamolineris.it/products/emmalee?variant=53900122653000)
-    Availability: Not Available
-    Price: 93,00 € EUR
-  - [51/16/140 / Pink](https://otticamolineris.it/products/emmalee?variant=53491315573064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736386416_q45.jpg?v=1787644953
-    Price: 185,00 € EUR
-  - [49/16/140 / Blue](https://otticamolineris.it/products/emmalee?variant=53897371648328)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0622/6273/9179/files/716736386447_q45.jpg?v=1787644954
-    Price: 185,00 € EUR
-[List Continued](https://otticamolineris.it/a/llms-agent/llms.txt?shop=molineris.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNTY4NTU1NzU1LCJsYXN0X3ZhbHVlIjoiNzg2MDU2ODU1NTc1NSJ9)
+[List Continued](https://otticamolineris.it/a/llms-agent/llms.txt?shop=molineris.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNTY3ODM0ODU5LCJsYXN0X3ZhbHVlIjoiNzg2MDU2NzgzNDg1OSJ9)
 
 ## Collections
 
 - [Donna](https://otticamolineris.it/collections/donna): - Ottica Molineris
-  Updated: 2026-09-09T19:02:02Z
-  Total Products: 31645
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 31520
 - [Uomo](https://otticamolineris.it/collections/uomo): - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 29603
+  Updated: 2026-09-16T23:09:14Z
+  Total Products: 29402
 - [Occhiali da sole uomo](https://otticamolineris.it/collections/occhiali-da-sole): Definisci il tuo stile con la collezione di occhiali da sole da uomo di Ottica Molineris. Una selezione pensata per l'uomo contemporaneo che esige il massimo in termini di protezione visiva, materiali premium e design inconfondibile. Che tu preferisca l'eleganza di una montatura squadrata, il fascino retrò di un modello aviatore o linee più sportive e avvolgenti, qui troverai l'occhiale perfetto per ogni occasione. Il nostro catalogo spazia dal lusso assoluto di Cartier e Tom Ford, alle forme decise di Cazal, fino allo stile dinamico e versatile di brand come Calvin Klein, Arnette e Oliver Peoples. - Ottica Molineris
-  Updated: 2026-09-09T19:02:03Z
-  Total Products: 3292
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 3213
 - [Occhiali da vista uomo](https://otticamolineris.it/collections/occhiali-da-vista-uomo): Praticità, resistenza e uno stile che non passa mai di moda: scopri la linea di occhiali da vista da uomo di Ottica Molineris. Una proposta di montature progettate per accompagnarti in ogni momento della giornata, dal lavoro al tempo libero, garantendo sempre un comfort assoluto e una visione nitida. Scegli tra modelli classici in tartaruga, eleganti forme tondeggianti o versatili montature rettangolari. Un'attenzione particolare è riservata alle collezioni Hally & Son, che uniscono l'artigianalità di ispirazione vintage a soluzioni moderne e intelligenti, come i comodissimi occhiali da vista dotati di clip-on solare magnetico, perfetti per trasformare il tuo occhiale da vista in un occhiale da sole in un solo istante. - Ottica Molineris
   Updated: 2026-08-07T14:18:23Z
   Total Products: 16
 - [Occhiali da sole donna](https://otticamolineris.it/collections/occhiali-da-sole-donna): Scopri la selezione esclusiva di occhiali da sole da donna curata da Ottica Molineris. Che tu stia cercando una montatura oversize per un look da diva, un intramontabile modello cat-eye o linee geometriche moderne, il nostro catalogo offre le migliori soluzioni per esaltare il tuo viso proteggendo i tuoi occhi dai raggi UV. Nel nostro shop online e nel nostro punto vendita di Biella, proponiamo solo marchi di altissima qualità che uniscono design ricercato e lenti certificate. Lasciati conquistare dall'eleganza senza tempo di Tom Ford e Saint Laurent, dal fascino iconico di Prada, o dallo stile audace di Cazal e Oliver Peoples. - Ottica Molineris
-  Updated: 2026-09-09T19:01:56Z
-  Total Products: 4473
+  Updated: 2026-09-16T23:08:52Z
+  Total Products: 4352
 - [Occhiali da vista donna](https://otticamolineris.it/collections/occhiali-da-vista-donna): L'occhiale da vista è diventato molto più di una necessità: è l'accessorio di stile che definisce il tuo volto ogni giorno. La collezione di occhiali da vista da donna di Ottica Molineris è pensata per offrirti il perfetto equilibrio tra estetica raffinata, leggerezza e comfort visivo prolungato. Abbiamo selezionato con cura montature capaci di valorizzare ogni fisionomia, dai modelli in acetato più spessi e di carattere, fino alle montature in metallo ultra-sottili per un look minimal chic. Esplora il nostro catalogo e scopri le ultime novità firmate Givenchy, l'ironia pop di Love Moschino, il design contemporaneo di Mila ZB e l'eleganza vintage di Hally & Son. - Ottica Molineris
   Updated: 2026-07-31T11:56:14Z
   Total Products: 21
 - [Nike](https://otticamolineris.it/collections/nike): La collezione di occhiali Nike soddisfa le esigenze di ogni atleta. Fedele alla sua missione, la collezione di occhiali Nike offre una tecnologia superiore. - Ottica Molineris
-  Updated: 2026-09-09T13:05:14Z
-  Total Products: 402
+  Updated: 2026-09-16T23:05:51Z
+  Total Products: 399
 - [Prada](https://otticamolineris.it/collections/prada): Gli occhiali di Prada sono tra i più brillanti, colorati e briosi. Spesso anticipano e influenzano le tendenze future: da design ricercati arricchiti da particolari preziosi a modelli vintage in diverse nuance di colori. Una collezione imperdibile per chi vuole mostrare un’eleganza aristocratica. - Ottica Molineris
-  Updated: 2026-09-09T13:02:54Z
-  Total Products: 104
+  Updated: 2026-09-16T23:01:40Z
+  Total Products: 97
 - [Oakley](https://otticamolineris.it/collections/oakley): Da quasi 40 anni Oakley sperimenta nuove tecnologie per i suoi occhiali, fondendo scienza ed arte. A questo marchio sono stati riconosciuti oltre seicento brevetti in tutto il mondo. Oggi Oakley è sinonimo di eccellenza per coloro che affrontano la vita senza scendere a compromessi. Per questa ragione è il brand preferito degli sportivi. - Ottica Molineris
-  Updated: 2026-09-09T13:05:09Z
-  Total Products: 107
+  Updated: 2026-09-16T23:07:42Z
+  Total Products: 105
 - [David Beckham](https://otticamolineris.it/collections/david-beckham): "Il mio percorso di stile mi ha insegnato il potere della semplicità e l'importanza dei dettagli e dell'artigianato". David Beckham ha curato una collezione di montature senza tempo realizzate con i migliori materiali. Il suo gusto esigente e il suo occhio per i dettagli hanno unito un'estetica contemporanea eccezionale all'artigianato tradizionale. Il marchio riflette la visione di David, con una costante dedizione alla qualità. - Ottica Molineris
-  Updated: 2026-09-09T13:06:00Z
+  Updated: 2026-09-16T23:03:45Z
   Total Products: 242
 - [Coach](https://otticamolineris.it/collections/coach): Fondato nel 1941 come laboratorio a conduzione familiare in un loft di Manhattan, Coach è diventato un marchio di moda americano leader per donne e uomini in tutto il mondo. La collezione di occhiali Coach esprime perfettamente lo stile newyorkese senza sforzo e l'autentica eredità americana. - Ottica Molineris
   Updated: 2026-08-19T14:01:39Z
   Total Products: 0
 - [Michael Kors](https://otticamolineris.it/collections/michael-kors): Fondato nel 1981 Michael Kors propone un lifestyle da perfetto jet setter. Uno stile tanto sofisticato quando indulgente, tanto iconico quanto moderno. La collezione di occhiali unisce al lusso una squisita fattura e un glamour esplosivo. - Ottica Molineris
-  Updated: 2026-09-09T13:04:52Z
-  Total Products: 133
+  Updated: 2026-09-16T23:01:50Z
+  Total Products: 114
 - [Tory Burch](https://otticamolineris.it/collections/tory-burch): Tory Burch è un marchio americano di lifestyle di lusso: conosciuta per la sua estetica preppy bohémien, Tory Burch ha lanciato la sua collezione di occhiali con Luxottica nel 2009. Il suo uso audace di colori, stampe grafiche e dettagli eclettici sono tutti segni del marchio. - Ottica Molineris
   Updated: 2026-08-20T22:01:53Z
   Total Products: 1
 - [Versace](https://otticamolineris.it/collections/versace): Versace è il marchio moda e lifestyle dedicato a chi ama il lusso glamurous e desidera distinguersi con uno stile unico e personale. Il design innovativo e raffinato delle collezioni di occhiali Versace celebra l’ esclusività e l’eleganza senza tempo della Maison. - Ottica Molineris
-  Updated: 2026-09-09T13:05:00Z
-  Total Products: 111
+  Updated: 2026-09-16T23:02:02Z
+  Total Products: 92
 - [Dita](https://otticamolineris.it/collections/dita): La collezione Dita si ispira alle montature in voga tra gli anni 50 e gli anni 80 che imitavano le bobine del cinema hollywoodiano. Ora sono ideati con materiali moderni e con un ideale contemporaneo. I designer Dita hanno una filosofia precisa in mente: “non vediamo le cose come sono, le vediamo come siamo." - Ottica Molineris
-  Updated: 2026-09-09T13:04:55Z
-  Total Products: 43
+  Updated: 2026-09-16T08:03:01Z
+  Total Products: 41
 - [Thom Browne](https://otticamolineris.it/collections/thom-browne): Il designer Thom Browne spicca nel suo settore per l'artigianalità e l'attenzione quasi ossessiva ai dettagli che utilizza. Nella collezione metallo le montature sono realizzate con titanio di alta qualità assicurando resistenza, leggerezza e comfort. Ma in generale ogni occhiale Thom Browne è un pezzo d'arte al quale nessuno potrà resistere. - Ottica Molineris
   Updated: 2026-08-20T22:02:37Z
   Total Products: 11
@@ -2317,89 +2283,89 @@
   Updated: 2026-07-31T11:56:18Z
   Total Products: 0
 - [Oliver Peoples](https://otticamolineris.it/collections/oliver-peoples): Gusto retrò, eleganza e grande attenzione ai dettagli e alla qualità dei materiali. Chi sceglie gli occhiali Oliver Peoples vuole modelli senza tempo che non si conformino alle tendenze stagionali, ma che siano sempre attuali. - Ottica Molineris
-  Updated: 2026-09-09T13:02:19Z
-  Total Products: 105
+  Updated: 2026-09-16T23:04:00Z
+  Total Products: 80
 - [Calvin Klein](https://otticamolineris.it/collections/calvin-klein): La nuova collezione di occhiali da uomo e da donna CALVIN KLEIN offre uno stile audace e contemporaneo e un'estetica seducente, spesso minimale. È ricercata, attuale e alla moda. Con palette di colori audaci, design distintivo e mix di materiali, la collezione è un ritratto aggiornato e autentico del marchio iconico. - Ottica Molineris
-  Updated: 2026-09-09T13:03:24Z
-  Total Products: 647
+  Updated: 2026-09-16T23:04:06Z
+  Total Products: 644
 - [Calvin Klein Jeans](https://otticamolineris.it/collections/calvin-klein-jeans): Gli occhiali CALVIN KLEIN JEANS offrono un design senza tempo che attira l'attenzione per la sobrietà e l’elegante semplicità, oltre che per gli esclusivi elementi di design ripresi dalla linea denim. La nuova collezione eyewear CALVIN KLEIN JEANS presenta una gamma di modelli di tendenza che presentano lenti flash e combinazioni di colori uniche. Tocchi di colore e un mix deciso di materiali interpretano l'immagine sexy e giovane del marchio. - Ottica Molineris
   Updated: 2026-08-26T11:09:58Z
   Total Products: 97
 - [Salvatore Ferragamo](https://otticamolineris.it/collections/salvatore-ferragamo): La collezione di occhiali Salvatore Ferragamo presenta modelli caratterizzati da un design classico e sobrio. La linea, pensata sia per le donne sia per gli uomini, vanta occhiali realizzati in acetato e metallo ma anche decorati con dettagli di cristalli e pelle. Per essere glam in ogni occasione. - Ottica Molineris
-  Updated: 2026-09-09T13:02:33Z
+  Updated: 2026-09-16T23:03:02Z
   Total Products: 20
 - [Lacoste](https://otticamolineris.it/collections/lacoste): La collezione di occhiali Lacoste comprende colori vivaci, la trama classica piquet ed il sempre riconoscibile logo del coccodrillo. Una collezione elegante caratterizzata da uno stile preciso. - Ottica Molineris
-  Updated: 2026-09-09T13:02:37Z
-  Total Products: 278
+  Updated: 2026-09-16T23:05:07Z
+  Total Products: 276
 - [Liu Jo](https://otticamolineris.it/collections/liu-jo): Liu Jo è sinonimo di stile moderno Italiano, fondato nei primi anni ’90. La filosofia del brand si basa sul voler sottolineare la naturale femminilità e bellezza di ogni donna. Lo stile Liu Jo eyewear è sempre raffinato, glamour, aperto all’interpretazione personale di ogni donna, femminile e seducente, un marchio sempre rivolto al futuro pur rimanendo fedele alle proprie radici. - Ottica Molineris
-  Updated: 2026-09-09T16:01:44Z
-  Total Products: 182
+  Updated: 2026-09-16T23:06:25Z
+  Total Products: 181
 - [Arnette](https://otticamolineris.it/collections/arnette): Se pratichi sport da tavola e quel che cerchi è massimo comfort la collezione eyewear di Arnette è quello che stai cercando. Nato nel 1992, questo brand è stato fin da subito amato da surfisti e snowboarder. I modelli, oltre che dalla massima funzionalità, sono caratterizzati da un design accattivante. - Ottica Molineris
-  Updated: 2026-09-09T13:04:13Z
-  Total Products: 42
+  Updated: 2026-09-16T23:04:51Z
+  Total Products: 25
 - [Gucci](https://otticamolineris.it/collections/gucci): Fondata a Firenze nel 1921 Gucci è una delle marche protagoniste della scena mondiale della moda e del lusso. All'inizio del 2015 Gucci si è imbarcata nel capitolo successivo della sua storia, sotto la direzione creativa di Alessandro Michele, con l'introduzione di una nuova visione. Eclettico, romantico, e soprattutto contemporaneo, Gucci sta attualmente reinventando un approccio alla moda completamente moderno, ridefinendo così il lusso del 21esimo secolo. - Ottica Molineris
-  Updated: 2026-09-09T13:03:53Z
-  Total Products: 127
+  Updated: 2026-09-16T23:04:21Z
+  Total Products: 132
 - [Police](https://otticamolineris.it/collections/police): Police è sinonimo di stile underground. Questo brand, con le sue linee aggressive, è molto amato dai giovani che hanno un animo forte, sexy e ribelle. gli occhiali Police sono per chiunque possegga una personalità magnetica e indipendente. - Ottica Molineris
-  Updated: 2026-09-09T13:05:14Z
-  Total Products: 327
+  Updated: 2026-09-16T23:04:04Z
+  Total Products: 324
 - [Lozza](https://otticamolineris.it/collections/lozza): Nata nel 1878, Lozza è la più antica azienda italiana di occhiali. Si è sempre distinta con modelli sobri e raffinati. Le linee vintage rivisitano gli anni ‘70, che pur nella novità hanno un forte potere evocativo, con articoli classici ed eleganti. - Ottica Molineris
-  Updated: 2026-09-09T13:02:23Z
-  Total Products: 163
+  Updated: 2026-09-16T23:05:33Z
+  Total Products: 177
 - [Chopard](https://otticamolineris.it/collections/chopard): La collezione di occhiali Chopard è ispirata ai concetti di alta gioielleria e orologeria che la casa svizzera ha proposto negli anni. ICE CUBE, RADIANT EXTRAVAGANZA e HAPPY DIAMONDS sono le linee guida del loro design raffinato, elegante e contemporaneo. Il risultato è una collezione esclusiva dove l’alta gioielleria e l’orologeria di qualità si fondono creando dei stili unici e sorprendenti. - Ottica Molineris
-  Updated: 2026-09-09T13:05:22Z
-  Total Products: 82
+  Updated: 2026-09-16T23:02:19Z
+  Total Products: 87
 - [Furla](https://otticamolineris.it/collections/furla): Linee morbide e raffinate per una clientela esigente e di stile sempre attenta alla moda. Questi i fondamenti del brand Furla, casa di moda creata nel 1927. Materiali di qualità e tecnologie avanzate per chi è sicuro di sè e vuole essere sempre alla moda. - Ottica Molineris
-  Updated: 2026-09-09T13:05:27Z
-  Total Products: 163
+  Updated: 2026-09-16T23:02:40Z
+  Total Products: 167
 - [Garrett Leight](https://otticamolineris.it/collections/garrett-leight): Concepita a Venice Beach e modellata in L.A. la collezione eyewear Garrett Leight è cool e easy, ispirata allo stile di vita californiano. Garrett si impegna a produrre occhiali che combinano alta artigianalità ad un' estetica senza tempo... - Ottica Molineris
-  Updated: 2026-09-09T13:05:50Z
-  Total Products: 47
+  Updated: 2026-09-16T23:03:37Z
+  Total Products: 48
 - [Rodenstock](https://otticamolineris.it/collections/rodenstock): Il marchio Rodenstock è sinonimo di prodotti altamente sofisticati dal punto di vista tecnologico ed eccellenti dal punto di vista qualitativo. Questo è l’unico brand a prestare attenzione e produrre sia montature che lenti. Da qui nascono le soluzioni per creare prodotti innovativi. La collezione spazia tra modelli classici, garantendo ampia scelta e comfort alla clientela. - Ottica Molineris
-  Updated: 2026-09-09T13:04:33Z
-  Total Products: 119
+  Updated: 2026-09-16T23:03:39Z
+  Total Products: 120
 - [Porsche Design](https://otticamolineris.it/collections/porsche-design): Passione, performance, purezza, precisione. Questi i quattro pilastri del marchio Porsche Design. Le forme sono pulite e lineari, ottenute con l’impiego dei materiali più avanzati e di primissima qualità. Il lusso è essenziale, figlio di un classicismo moderno. - Ottica Molineris
-  Updated: 2026-09-09T19:01:31Z
-  Total Products: 124
+  Updated: 2026-09-16T23:05:25Z
+  Total Products: 126
 - [Mykita](https://otticamolineris.it/collections/mykita): MYKITA porta un’ondata di novità nelle tendenze eyewear. L’acciaio freddo e lucente nelle sue forme radical incontra le linee calde e i colori intensi dell’acetato: una straordinaria varietà di materiali e superfici frutto di sapiente maestria e nuove tecnologie. Per creazioni sempre moderne e sorprendenti! - Ottica Molineris
-  Updated: 2026-09-09T13:02:09Z
+  Updated: 2026-09-16T23:05:12Z
   Total Products: 23
 - [Cazal](https://otticamolineris.it/collections/cazal): E’ moda, design, attitudine...Parliamo della collezione Cazal...che vi lascerà a bocca aperta! Il brand propone una collezione creata negli anni '80, uno stile che ha definito la scena hip-hop di New York, fino ad oggi. Montature in acetato massiccio che sono diventate lo stile e lo status symbol di rapper e break-dancers. Le forme stravaganti e il design audace sono uniche nel loro aspetto e parlano una lingua che è estranea agli scettici di design. - Ottica Molineris
-  Updated: 2026-09-09T13:02:43Z
-  Total Products: 43
+  Updated: 2026-09-16T23:03:03Z
+  Total Products: 41
 - [Maui Jim](https://otticamolineris.it/collections/maui-jim): La filosofia Maui Jim si contraddistingue dall'Aloha Spirit. La “ohana” ("famiglia", in Hawaiano) Maui Jim crea con passione i migliori occhiali da sole del pianeta. "Perché, a fine giornata, vogliamo vedere il mondo al meglio, come voi, ovunque viviate. Aloha, amici!" è lo slogan del brand. - Ottica Molineris
-  Updated: 2026-09-09T13:01:25Z
+  Updated: 2026-09-13T21:02:28Z
   Total Products: 31
 - [Moschino](https://otticamolineris.it/collections/moschino): Creativo, ironico, dissacrante… ecco a voi Moschino! Sotto la direzione creativa di Jeremy Scott, Moschino si distingue per la sua abilità di abbinare elementi di glamour satirico al lusso! Gli occhiali riportano gli elementi iconici del brand: le catene, le borchie, l’orsetto, tutti riproposti in chiave moderna e unica. - Ottica Molineris
-  Updated: 2026-09-09T13:04:25Z
+  Updated: 2026-09-16T19:02:16Z
   Total Products: 192
 - [Hugo Boss](https://otticamolineris.it/collections/hugo-boss): La collezione di occhiali Boss - Hugo Boss racchiude in sé classe e fine eleganza, attenzione ai dettagli ed ai materiali di grande qualità. I prodotti BOSS, con uno stile che ben si adatta ad ogni situazione, riflettono un'ispirazione classica. - Ottica Molineris
-  Updated: 2026-09-09T19:01:50Z
-  Total Products: 714
+  Updated: 2026-09-16T23:05:53Z
+  Total Products: 700
 - [Jimmy Choo](https://otticamolineris.it/collections/jimmy-choo): La collezione di occhiali di Jimmy Choo propone occhiali dedicati ad una donna dall’eleganza moderna e seducente. Lo stile è sofisticato, impreziosito dal tocco glamour di cristalli o dettagli glitter, che aggiungono un’allure audace ad un design senza tempo. - Ottica Molineris
-  Updated: 2026-09-09T19:01:57Z
-  Total Products: 167
+  Updated: 2026-09-16T23:03:41Z
+  Total Products: 146
 - [Tommy Hilfiger](https://otticamolineris.it/collections/tommy-hilfiger): La collezione di occhiali Tommy Hilfiger incarna lo stile di vita preppy e contorto del marchio, che è diventato un simbolo globale dello spirito americano. Gli occhiali sono stati appositamente progettati con un tocco classico e moderno che rispecchia lo stile di Tommy Hilfiger. - Ottica Molineris
-  Updated: 2026-09-09T13:04:05Z
-  Total Products: 361
+  Updated: 2026-09-16T23:05:02Z
+  Total Products: 362
 - [Carrera](https://otticamolineris.it/collections/carrera): Con tecnologie di ultima generazione e un design sempre attuale, l’heritage sportiva di Carrera contamina l’urban style, fondendo perfettamente le due anime del brand. Gli occhiali Carrera sono vintage, sempre in linea con le ultime tendenze ma ispirati dai modelli cult del passato e modelli sportivi con un elevato contenuto di design e protezione. - Ottica Molineris
-  Updated: 2026-09-09T13:05:45Z
-  Total Products: 345
+  Updated: 2026-09-16T23:09:03Z
+  Total Products: 355
 - [Polaroid](https://otticamolineris.it/collections/polaroid): POLAROID eyewear è creato per permettere alle persone di vedere il mondo da un altro punto di vista: oltre il riverbero, oltre la superficie, oltre il già visto – per scoprire prospettive inaspettate e sempre nuove. Grazie alle leggendarie lenti polarizzate del marchio, gli occhiali da sole POLAROID ti permettono di vedere oltre, garantendo una visione perfetta ed una protezione assoluta, ma mantenendo sempre un carattere fresco e playful. - Ottica Molineris
-  Updated: 2026-09-09T13:04:23Z
-  Total Products: 569
+  Updated: 2026-09-16T23:05:33Z
+  Total Products: 571
 - [Love Moschino](https://otticamolineris.it/collections/love-moschino): Love Moschino è la linea contemporary del brand Moschino. Un mix di leggerezza ed ironia che creano un cocktail irresistibile, dando vita a collezioni che hanno come spunto i concetti di “peace and love”, con creatività e spensieratezza. La giovinezza e l’irriverenza delle collezioni eyewear di Love Moschino mescolano lo stile urbano con l’ironia e dettagli colorati. Le collezioni sono composte da un’ampia scelta di modelli che ogni giorno ti permettono di trasformare i tuoi occhiali in un accessorio fashion. L’attenzione al dettaglio rende il brand facilmente riconoscibile: le aste sono caratterizzate da grafiche accattivanti (con logo o con la fantasia stagionale) o avane colorate e brillanti. - Ottica Molineris
-  Updated: 2026-09-09T13:05:23Z
-  Total Products: 51
+  Updated: 2026-09-16T23:04:17Z
+  Total Products: 49
 - [Tommy Jeans](https://otticamolineris.it/collections/tommy-jeans): La collezione di occhiali Tommy Jeans incarna lo stile di vita preppy e contorto del marchio, che è diventato un simbolo globale dello spirito americano. Gli occhiali sono stati appositamente progettati con un tocco classico e moderno che rispecchia lo stile di Tommy Hilfiger. - Ottica Molineris
   Updated: 2026-07-31T11:56:29Z
   Total Products: 0
 - [Marc Jacobs](https://otticamolineris.it/collections/marc-jacobs): Marc Jacobs è in grado di esprimere diversi stati d'animo nelle sue collezioni, soffermandosi su qualcosa, per poi cambiare la sua visione di 180 gradi nella stagione successiva. Le sue linee trasmettono uno stile contemporaneo, con un perfetto mix tra eleganza ed ispirazione sporty. - Ottica Molineris
-  Updated: 2026-09-09T19:01:54Z
-  Total Products: 499
+  Updated: 2026-09-16T23:09:14Z
+  Total Products: 496
 - [Missoni](https://otticamolineris.it/collections/missoni): La collezione Eyewear Missoni Cuspidi trasforma l’iconico design fiammato del brand in una gamma di occhiali da sole ricca di glamour. Silhouette espressive si uniscono a colori audaci e terminali a zig zag per un inconfondibile fascino in stile Missoni. Un mondo caleidoscopico , dedicato a donne indipendenti e contemporanee.La famiglia Missoni, già alla terza generazione, continua a dettare lo stile della moda italiana con l’iconica texture zig zag.Colori brillanti, geometrie e giochi di luce creano uno stile allegro e multicolore, glamour e dotato di forte personalità.La collezione eyewear rispecchia il DNA del brand: una palette varia e sofisticata, fantasie striate, toni luminosi e forme geometriche. Le aste sono spesso arricchite di dettagli sobri ed eleganti, grazie alla reinterpretazione del mood Missoni. - Ottica Molineris
-  Updated: 2026-09-09T13:02:54Z
-  Total Products: 196
+  Updated: 2026-09-16T23:02:54Z
+  Total Products: 197
 - [Kate Spade](https://otticamolineris.it/collections/kate-spade): Colori "croccanti", pattern grafici ed una soffisticatezza giocosa sono gli ambasciatori del marchio Kate Spade New York. Il brand interpreta la vita di tutti giorni con un tono esuberante, incoraggiando ognuno a mostrare il proprio stile personale! Silhouette eleganti, adatte a ogni occasione e rigorosamente colorate! - Ottica Molineris
   Updated: 2026-08-07T14:22:34Z
   Total Products: 1
@@ -2407,17 +2373,17 @@
   Updated: 2026-07-31T11:56:30Z
   Total Products: 0
 - [Fendi](https://otticamolineris.it/collections/fendi): Fendi è sinonimo di eleganza assoluta. Questa caratteristica è ciò che contraddistingue la collezione di occhiali, in linea con la tradizione del brand. L’obiettivo è stupire e farsi guardare. Finalità che viene raggiunta grazie a modelli esagerati, colorati e unici. - Ottica Molineris
-  Updated: 2026-09-09T19:01:45Z
-  Total Products: 139
+  Updated: 2026-09-16T23:02:27Z
+  Total Products: 138
 - [Isabel Marant](https://otticamolineris.it/collections/isabel-marant): Con un’estetica disinvolta e ricercata in puro stile parigino, gli occhiali Isabel Marant presentano silhouette classiche dall’animo cool.Isabel ha sempre avuto un amore sconfinato per la moda. È stata un’adolescente ribelle, in lotta con le convenzioni, che creava da sé i propri look riadattando giubbe militari e maglioni del padre. È stato il suo amore per gli abiti e per i materiali a portarla allo Studio Berçot - che non ha più lasciato.C’è chi sogna le icone femminili delle riviste patinate, ma Isabel veste le donne reali, che camminano per la strada e sfrecciano in scooter. Prova personalmente tutto ciò che crea nel suo atelier. Ha sempre incoraggiato le lavorazioni manuali, e collezione dopo collezione si è impegnata a mantenere vive questo savoir-faire tradizionale, un approccio che definisce “l’ecologia della moda”. - Ottica Molineris
-  Updated: 2026-09-09T19:01:45Z
-  Total Products: 146
+  Updated: 2026-09-16T23:03:07Z
+  Total Products: 148
 - [Carrera Ducati](https://otticamolineris.it/collections/carrera-ducati): Due brand sinonimi di eccellenza, uno del mondo motori, l’altro fashion ma con forti richiami verso quell’universo, si sono uniti per creare una collezione di occhiali audace e perfetta per gli sportivi.La collezione CARRERA|DUCATI si compone di occhiali da sole e da vista rivolti a un target giovane e dinamico che può interpretare bene il carattere audace di entrambi i brand. Al tempo stesso la linea di occhiali mantiene gli standard qualitativi e l'approccio innovativo al prodotto e al design. Il risultato sono occhiali speciali, pensati per i piloti del team Ducati Lenovo, ma adatta a tutti gli sportivi. La collezione prende ispirazione dall’iconico design della moto più sportiva e performante della casa, la DUCATI Panigale V4 e ogni particolare è stato studiato per rispecchiare le creazioni del team di design di Ducati, a partire dal dettaglio sulle aste ispirato al profilo della Panigale. - Ottica Molineris
-  Updated: 2026-09-09T13:04:11Z
-  Total Products: 36
+  Updated: 2026-09-16T19:02:15Z
+  Total Products: 41
 - [Chiara Ferragni](https://otticamolineris.it/collections/chiara-ferragni): I nuovi occhiali firmati Chiara Ferragni sono un’esplosione di colori e di forme raffinate e grintose. Oltre all’aspetto estetico c’è l’incredibile magnetismo generato dalle invenzioni di Chiara Ferragni, che da anni ormai è diventata un punto di riferimento per la moda ed un’icona di stile molto amata dal pubblico giovane e dinamico a livello internazionale.Chiara Ferragni, per la sua nuova collezione di montature per occhiali da vista, ha scelto linee raffinate ed essenziali realizzate in acetato di qualità, leggero e indistruttibile. La scelta cromatica spazia dagli immancabili colori basici alle tinte più glam, talvolta impreziosite da finissimo glitter, o rese intriganti da forme cat-eye e butterfly.Immancabile il famosissimo logo Ferragni a forma di occhio sull'asta, e il nome della mitica influencer sul lato interno. - Ottica Molineris
-  Updated: 2026-08-25T08:00:32Z
-  Total Products: 12
+  Updated: 2026-09-16T23:01:40Z
+  Total Products: 11
 - [Serengeti](https://otticamolineris.it/collections/serengeti): Non appena indosserai un paio di occhiali da sole Serengeti, vedrai il mondo con nuovi occhi e con colori sono naturali, nitidi. La tecnologia utilizzata da Serengeti infatti concentra tutta la propria attenzione sull'occhio stesso. Una storia di piccoli passi sempre mirati alla ricerca di soluzioni per una visita perfetta e protetta. - Ottica Molineris
   Updated: 2026-07-31T11:56:33Z
   Total Products: 0
@@ -2425,14 +2391,14 @@
   Updated: 2026-07-31T11:56:33Z
   Total Products: 0
 - [Matsuda](https://otticamolineris.it/collections/matsuda): “Creo abiti per i sognatori che vogliono avere un look credibile”. Mitushiro Matsuda aveva questa visione quando propose pre la prima volta la sua collezione eyewear che letteralmente dominò il mercato dell’occhialeria di lusso. Gli occhiali derivano da un alta artigianalità abbinata ad un design estremamente creativo, dove la tradizione orientale si sposa alle tendenze contemporanee. - Ottica Molineris
-  Updated: 2026-09-09T13:04:59Z
+  Updated: 2026-09-16T23:01:56Z
   Total Products: 19
 - [Silhouette](https://otticamolineris.it/collections/silhouette): Flessibile e dinamici, questa la caratteristica principale degli occhiali Silhouette. Molti i modelli, per cambiare stile a secondo delle occasioni, creati con materiali innovativi. Con Silhouette gli occhiali diventano un accessorio camaleontico per essere sempre trendy. - Ottica Molineris
-  Updated: 2026-09-09T13:03:59Z
-  Total Products: 17
+  Updated: 2026-09-16T23:02:04Z
+  Total Products: 20
 - [Salice](https://otticamolineris.it/collections/salice): Salice occhiali è il marchio sportivo d' Italia, 90 anni di storia nello sport azzurro certificato da Italcheck e riconosciuto dai migliori campioni del mondo. Sotto il logo tricolore di Salice occhiali c'è la vera Identità italiana, quel mix in cui si fondono creatività, artigianalità, innovazione, ricerca, qualità, tradizione, stile e bellezza unici del Bel Paese. Salice occhiali è una garanzia perché è studiato dagli sportivi per gli sportivi. - Ottica Molineris
-  Updated: 2026-09-09T13:02:44Z
-  Total Products: 13
+  Updated: 2026-09-16T23:02:48Z
+  Total Products: 12
 - [Salice Protection Glasses](https://otticamolineris.it/collections/salice-protection-glasses): Gli articoli Visiera e Occhiali a maschera per protezioni lavoratori di Salice Occhiali Srl,sono conformi ai requisiti essenziali di salute e sicurezza applicabili e, rispettivamente, previsti dalregolamento 475/2016/UE e dalla direttiva del consiglio 89/686/CEE e sono conformi alla normaUni EN 166 “Protezione personale degli occhi - specifiche”. La procedura di Certificazione prevista dall’Art.10 della 89/686/CEEè stata eseguita da CERTOTTICA, Organismo notificato presso la Commissione Europea (codice identificativo 0530), e l’Istituto di Certificazione CSI S.p.A. ne conferma la conformità ai Requisiti Essenziali dell’Allegato II delRegolamento (UE) 2016/425 e alla norma armonizzata EN 166:2001. - Ottica Molineris
   Updated: 2026-07-31T11:56:35Z
   Total Products: 0
@@ -2446,65 +2412,65 @@
   Updated: 2026-09-02T19:05:48Z
   Total Products: 7
 - [L.G.R](https://otticamolineris.it/collections/l-g-r): Gli occhiali L.G.R sono interamente realizzati a mano in Italia da tre famiglie artigianali, che costruiscono ogni montatura dall'inizio alla fine utilizzando metodi di produzione tradizionali al fine di offrire un prodotto autentico e nobile. L.G.R preserva i valori e il patrimonio italiano attraverso il duro lavoro di persone reali che hanno trascorso la vita specializzandosi in questa meticolosa linea di artigianato. Il risultato è un prodotto genuino che traduce l'eccellenza attraverso passione e autenticità. - Ottica Molineris
-  Updated: 2026-09-09T13:03:53Z
+  Updated: 2026-09-16T23:03:18Z
   Total Products: 5
 - [Prada Linea Rossa](https://otticamolineris.it/collections/prada-linea-rossa): Lanciato nel 1997, Prada Linea Rossa è il partner ufficiale del team di vela Luna Rossa. Gli occhiali di questa collezione sono un perfetto mix di eleganza e innovazione tecnologica. Tutti i modelli, ultra leggeri, sono ideali per l’attività sportiva. - Ottica Molineris
-  Updated: 2026-08-24T09:00:44Z
+  Updated: 2026-09-14T09:02:10Z
   Total Products: 12
 - [Vogue](https://otticamolineris.it/collections/vogue): Il marchio di occhiali Vogue è nato nel 1973 con lo stesso nome della famosa rivista di moda. I modelli Vogue si distinguono per il design innovativo, per il grande assortimento di colori e montature e per i dettagli sulle aste che trasformano l’occhiale in un ambito accessorio “fashion”. - Ottica Molineris
-  Updated: 2026-09-09T13:06:13Z
-  Total Products: 161
+  Updated: 2026-09-14T09:02:49Z
+  Total Products: 141
 - [Dolce & Gabbana](https://otticamolineris.it/collections/dolce-gabbana): Distintivi e intramontabili. Questi gli occhiali delle collezioni di Dolce e Gabbana, vere icone di stile, che celebrano i valori del marchio esaltando la tradizione artigianale dell’Italia, impiegando solo materiali pregiati. Varie le linee e le forme sempre impreziosite da particolari raffinati. - Ottica Molineris
-  Updated: 2026-09-09T13:02:19Z
-  Total Products: 139
+  Updated: 2026-09-16T23:03:12Z
+  Total Products: 93
 - [Giorgio Armani](https://otticamolineris.it/collections/giorgio-armani): Lo stile Giorgio Armani significa eleganza ed esclusività riflesse in linee e forme essenziali, caratterizzate dall'estrema attenzione al dettaglio e alle rifiniture. Sempre alla ricerca di tecnologie avanzate, che garantiscano al prodotto comfort e funzionalità, la linea di occhiali Giorgio Armani si avvale di materiali di elevatissima qualità ed esclusivi per il marchio. - Ottica Molineris
-  Updated: 2026-09-09T13:02:11Z
-  Total Products: 99
+  Updated: 2026-09-14T09:04:40Z
+  Total Products: 81
 - [Emporio Armani](https://otticamolineris.it/collections/emporio-armani): “L'eleganza non è farsi notare, ma farsi ricordare”. La collezione di Emporio Armani, segue alla lettera la filosofia del suo creatore linee semplici e informali, che lasciano il segno dando un tocco di eleganza, diventando un tutt’uno con chi li indossa. - Ottica Molineris
-  Updated: 2026-09-09T13:04:08Z
-  Total Products: 135
+  Updated: 2026-09-15T06:01:30Z
+  Total Products: 112
 - [Burberry](https://otticamolineris.it/collections/burberry): Burberry è sinonimo di british style. Il brand fondato nel 1856 è diventato protagonista della storia inglese, accompagnando le grandi imprese dei sudditi di sua Maestà con classe ed eleganza. Burberry in oltre 150 anni di attività ha mantenuto inalterate queste caratteristiche, che si esprimono appieno nelle collezioni di occhiali, linee e forme innovative, che mantengono inalterato l’antico prestigio. Indossando gli occhiali Burberry, pietra miliare della moda, stile e magnetismo saranno assicurati. - Ottica Molineris
-  Updated: 2026-09-09T13:02:58Z
-  Total Products: 109
+  Updated: 2026-09-16T23:02:06Z
+  Total Products: 85
 - [Valentino](https://otticamolineris.it/collections/valentino): Il marchio Valentino è associato al glamour, all'esclusività e allo stile. La collezione di occhiali Valentino è un'armonia di contrasti, caratteristiche profonde, espressioni di femminilità ed elementi iconici del mondo di Valentino. - Ottica Molineris
-  Updated: 2026-09-09T13:04:20Z
+  Updated: 2026-09-16T23:01:06Z
   Total Products: 12
 - [Polo Ralph Lauren](https://otticamolineris.it/collections/polo-ralph-lauren): La collezione Polo by Ralph Lauren propone articoli dall’aspetto sobrio e pulito , sportivi, con un inimitabile gusto chic metropolitano. Lo stile incrocia il mondo delle università della costa orientale americana e la raffinatezza della tradizione inglese. La scelta del brand cade sulle forme intramontabili di ieri, come il modello aviatore con ricercatezze stilistiche di dettagli originali. - Ottica Molineris
-  Updated: 2026-09-09T13:05:27Z
-  Total Products: 78
+  Updated: 2026-09-14T09:08:02Z
+  Total Products: 63
 - [Ralph](https://otticamolineris.it/collections/ralph): Gli occhiali da sole RALPH catturano lo spirito di Ralph Lauren. Dal giovane trendy, al classico con un tocco innovativo, RALPH è un brand che abbina ottimo design e qualità. - Ottica Molineris
   Updated: 2026-07-31T11:56:41Z
   Total Products: 0
 - [Ralph Lauren](https://otticamolineris.it/collections/ralph-lauren): Silhouette vintage e forme oversize, che assecondano e completano il look di una donna al passo con i tempi, che desidera un’eleganza senza tempo. Questa il leitmotiv della collezione di Ralph Lauren, caratterizzata dalle creazioni raffinate della Maison. Materiali raffinati ed elementi distintivi del marchio fanno dei modelli Ralph Lauren accessori inconfondibili. Un modo per essere chic e glamour ogni giorno dell’anno. - Ottica Molineris
-  Updated: 2026-09-09T13:04:56Z
-  Total Products: 103
+  Updated: 2026-09-16T23:02:55Z
+  Total Products: 65
 - [Alain Mikli](https://otticamolineris.it/collections/alain-mikli): Alain Mikli è conosciuto per il suo gusto innovativo e provocatorio che da anni rivoluziona il mondo dell'occhialeria. La sua proposta di Collezione si basa su un'accorta ricerca di forme accostata alla scelta di lastre di alta qualità e raffinata unicità. - Ottica Molineris
-  Updated: 2026-08-25T02:00:54Z
-  Total Products: 31
+  Updated: 2026-09-14T09:04:36Z
+  Total Products: 15
 - [Bvlgari](https://otticamolineris.it/collections/bvlgari): La bellezza come parte integrante della quotidiniatà. Questo il leit motiv della collezione di Bvlgari, che applica la stessa accurata ricercatezza e i rigorosi alti standard di design sugli occhiali sia da uomo sia da donna, offrendo montature raffinate, che possono considerarsi dei piccoli gioielli. - Ottica Molineris
   Updated: 2026-08-07T14:22:35Z
   Total Products: 0
 - [Miu Miu](https://otticamolineris.it/collections/miu-miu): La collezione di occhiali Miu Miu è indirizzata ad una clientela particolarmente attenta alle nuove tendenze, disinvolta e sofisticata. Il marchio Miu Miu è urbano, giovane, sofisticato e sensuale, una visione alternativa, un “nuovo classico”. - Ottica Molineris
-  Updated: 2026-09-09T14:01:37Z
-  Total Products: 45
+  Updated: 2026-09-16T17:06:07Z
+  Total Products: 32
 - [Kuboraum](https://otticamolineris.it/collections/kuboraum): Kuboraum si distingue per produrre delle vere e proprie "maschere" sui visi dei suoi fan. Gli occhiali Kuboraum sottolieneano la personalità e danno libero sfogo all'identità di ognuno. Appaiono come stanze cubiche dentro le quali uno si sente a suo agio con se stesso e con il mondo che lo circonda. Sono oggetti da collezione, unici manufatti! - Ottica Molineris
-  Updated: 2026-09-09T13:04:23Z
+  Updated: 2026-09-16T23:02:31Z
   Total Products: 5
 - [Cartier](https://otticamolineris.it/collections/cartier): Gli occhiali Cartier incorniciano lo sguardo rendendo quest’accessorio un gioiello a cui non è possibile rinunciare. Modelli originali e ricercati che riflettono in ogni momento l’eccellenza e la passione per i dettagli della Maison francese. - Ottica Molineris
-  Updated: 2026-09-09T13:02:47Z
-  Total Products: 51
+  Updated: 2026-09-16T23:02:40Z
+  Total Products: 48
 - [Etnia Barcelona](https://otticamolineris.it/collections/etnia-barcelona): La collezione Etnia Barcelona eyewear riflette gli eventi culturalmente importanti che hanno riguardato Barcellona nel corso della storia a partire dagli anni 20. Il brand nasce a fine anni Novanta proponendo veri e propri capolavori che si distinguono per 4 aspetti fondamentali: Qualità, Arte, Cultura e Moda. La collezione sole viene proposta con lenti di altissima qualità in cristallo, Barberini. - Ottica Molineris
-  Updated: 2026-09-09T13:04:57Z
-  Total Products: 6
+  Updated: 2026-09-16T08:02:01Z
+  Total Products: 4
 - [Barton Perreira](https://otticamolineris.it/collections/barton-perreira): Quando Bill Barton e Patty Perreira nel 2007 fondano il brand che porta i loro nomi hanno una vision molto chiara: un marchio indipendente, di lusso, che si distingua dal resto del mondo dell’eyewear per stile ed eleganza. Non a caso, ogni occhiale Barton Perreira è realizzato a mano in Giappone da abili artigiani e vanta l’uso esclusivo dei migliori materiali. Le personalità differenti di Perreira e Barton si mescolano alla perfezione: la designer è caratterizzata da uno stile intuitivo che le permette di individuare in modo tempestivo la fluttuazione del mondo della moda in modo tale da modellarsi in base ai cambiamenti del mercato. Al contrario, Barton si è affacciato al mondo degli occhiali, grazie alla sua professione di ottico. Per il brand, la conoscenza tecnica dell’industria ottica, si è rivelata fondamentale nel corso degli anni.Ogni linea è prodotta in quantità limitate e rende ciascun occhiale un accessorio esclusivo ed unico per chi lo indossa. - Ottica Molineris
-  Updated: 2026-08-25T03:00:46Z
+  Updated: 2026-09-16T23:01:17Z
   Total Products: 20
 - [Tom Ford](https://otticamolineris.it/collections/tom-ford): Stravaganti e con la voglia di esprimere qualcosa di nuovo e di diverso. Questa la base della collezione eyewear Tom Ford, che rientra nel perfetto stile glam dello stilista americano. Altissimo il quoziente di  appeal, abbinato ad un crescente ritmo di audacia ed elegante sfrontatezza. Per queste sue caratteristiche Tom Ford diventa la scelta di James Bond! In "Skyfall" è apparso con il modello Marko FT 0144 mentre nel suo ultimo "Spectre" rivela tutta la sua eleganza con il Snowdon FT 0237. - Ottica Molineris
-  Updated: 2026-09-09T14:01:37Z
-  Total Products: 636
+  Updated: 2026-09-16T23:05:55Z
+  Total Products: 657
 - [Guess](https://otticamolineris.it/collections/guess): GUESS fu fondata nel 1981 dai fratelli Marciano che lasciarono il sud della Francia a caccia del sogno americano. La visione dei fratelli Marciano spinse il brand verso nuove frontiere: GUESS diventò, così, l’emblema di uno stile di vita giovane, sexy e avventuroso. GUESS si rivolge ad un pubblico giovane e alla moda. Una linea di occhiali moderna con dettagli ispirati alle ultime tendenze della moda: l’ampia gamma d’offerta incarna completamente l’essenza valoriale del brand, con forme di tendenza e audaci combinazioni interpretate con silhouettes contemporanee e un design sempre aggiornato. L’offerta sole e quella vista include modelli per lei e lui, come anche per bambini e ragazzi. - Ottica Molineris
-  Updated: 2026-09-09T13:06:20Z
-  Total Products: 540
+  Updated: 2026-09-15T11:04:03Z
+  Total Products: 541
 - [Max&Co.](https://otticamolineris.it/collections/max-co): Le collezioni di occhiali da sole e da vista MAX&Co. sono un imprescindibile complemento di stile, caratterizzati da design impeccabile e ricercato, forme sempre aggiornate, colori originali e materiali all’avanguardia. Un must-have da vera fashionista. - Ottica Molineris
   Updated: 2026-08-07T14:22:35Z
   Total Products: 30
@@ -2512,47 +2478,47 @@
   Updated: 2026-07-31T11:56:45Z
   Total Products: 0
 - [Moncler](https://otticamolineris.it/collections/moncler): I nuovi occhiali da sole Moncler esaltano gli elementi iconici dello stile senza tempo del marchio e si dividono in tre categorie: “sport”, nati per la montagna ma facilmente portabili in città; “duvet”, ossia le proposte che combinano funzionalità estetica e ricerca tecnologica; “timeless”, occhiali iconici, senza tempo d’ispirazione vintage. - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 128
+  Updated: 2026-09-16T23:03:37Z
+  Total Products: 125
 - [Adidas](https://otticamolineris.it/collections/adidas): Quattro concetti esprimono la qualità degli occhiali firmati Adidas: ottima visione e protezione, vestibilità personalizzata e durata nel tempo. La collezione dello storico marchio sportivo tedesco utilizza materiali tecnologicamente avanzati, testando il prodotto finito con i migliori atleti del mondo. Questi modelli saranno amati soprattutto dagli sportivi. - Ottica Molineris
-  Updated: 2026-09-09T19:01:48Z
-  Total Products: 565
+  Updated: 2026-09-16T23:04:06Z
+  Total Products: 570
 - [Tod's](https://otticamolineris.it/collections/tods): La collezione di occhiali Tod's è caratterizzata da una serie di design contemporaneo che ha uno spirito classico e senza tempo. - Ottica Molineris
-  Updated: 2026-08-25T08:04:27Z
+  Updated: 2026-09-16T23:05:16Z
   Total Products: 165
 - [Max Mara](https://otticamolineris.it/collections/max-mara): Max Mara è espressione di femminilità e di un'autentica eleganza senza tempo: si caratterizza per l'alta qualità dei materiali, il design moderno, il taglio sartoriale. Nei prodotti Max Mara si compenetrano modernità e tradizione, eleganza e semplicità. Max Mara è un marchio indirizzato alla donna moderna che cerca occhiali, sofisticati caratterizzati da dettagli classici e non appariscenti. - Ottica Molineris
-  Updated: 2026-09-09T19:01:33Z
-  Total Products: 309
+  Updated: 2026-09-16T23:03:14Z
+  Total Products: 316
 - [Swarovski](https://otticamolineris.it/collections/swarovski): Gli occhiali Swarovski sono sinonimo di innovazione, creatività e precisione. Le collezioni dimostrano la volontà della società di incorporare i caratterici tipici del marchio nei modelli di occhiali, inserendo i cristalli in modo originale. - Ottica Molineris
-  Updated: 2026-09-09T13:02:56Z
-  Total Products: 169
+  Updated: 2026-09-16T23:01:42Z
+  Total Products: 158
 - [Saint Laurent](https://otticamolineris.it/collections/saint-laurent): Fondata nel 1961, Yves Saint Laurent è stata la prima maison di moda a lanciare, nel 1966, il concetto del prêt-à-porter di lusso con la creazione della linea "Saint Laurent Rive Gauche", sinonimo di gioventù e di libertà. Questo cambiamento ha rappresentato un primo passo fondamentale nella modernizzazione della moda e ha rivoluzionato lo scenario socio-culturale. Nel corso degli anni, gli stili rivoluzionari della Maison sono diventati punti di riferimento culturali e artistici emblematici e il suo fondatore, il sarto Yves Saint Laurent, si è imposto come uno dei più grandi stilisti del XX secolo. Membro del gruppo Kering, la Maison è rimasta fedele alla sua identità, sempre all'avanguardia della moda. Con la direzione creativa di Anthony Vaccarello da aprile 2016, la Maison offre oggi una gamma completa di articoli di prêt-à-porter femminile e maschile, pelletteria, calzature, gioielli e occhiali con il logo "Saint Laurent Paris". - Ottica Molineris
-  Updated: 2026-09-09T19:01:38Z
-  Total Products: 46
+  Updated: 2026-09-16T23:03:55Z
+  Total Products: 48
 - [Balenciaga](https://otticamolineris.it/collections/balenciaga): Creazioni di glam e di lusso sono la parola d’ordine degli occhiali del marchio Balenciaga. un Design innovativo, volumi inediti, offrendoci vasta scelta, dalle forme più rigorose a modelli con linee sinuose, sono le principali qualità di questo brand esclusivo. I materiali sono di estrema qualità e danno vita a montature da sole e da vista sofisticati ed eleganti. - Ottica Molineris
-  Updated: 2026-08-31T12:18:48Z
+  Updated: 2026-09-16T23:01:43Z
   Total Products: 19
 - [Montblanc](https://otticamolineris.it/collections/montblanc): La collezione di occhiali Montblanc comprende una gamma di stili classici e straordinari. Le forme sono contemporanee e diverse in termini di dimensioni e stile. - Ottica Molineris
-  Updated: 2026-09-09T13:03:48Z
-  Total Products: 33
+  Updated: 2026-09-16T23:03:54Z
+  Total Products: 40
 - [Bottega Veneta](https://otticamolineris.it/collections/bottega-veneta): Riservatezza, qualità e una manualità artigianale impareggiabile: fin dalla sua fondazione nel 1966 il brand veneto ha dettato i nuovi canoni del lusso. I suoi mastri artigiani infondono alle proprie creazioni tutta l’attenzione per i dettagli, la precisione e la perfezione tipiche della tradizione artigianale Italiana. Nell’atmosfera unica della villa Ottocentesca che ospita l’Atelier di Montebello Vicentino gli artigiani di Bottega Veneta lavorano con le mani, con gli occhi e con il cuore e trasformano la lavorazione del cuoio in una vera e propria arte. - Ottica Molineris
-  Updated: 2026-09-09T13:06:03Z
-  Total Products: 63
+  Updated: 2026-09-16T23:03:17Z
+  Total Products: 66
 - [Alexander McQueen](https://otticamolineris.it/collections/alexander-mcqueen): Alexander McQueen, la casa del teschio, celebre per il suo stile “tormentato”, dove eros e tanathos trionfano e in cui luce e oscurità si fondono creando modelli quasi gotici, che hanno un fascino unico. Per essere sempre enigmatici e alla moda. - Ottica Molineris
-  Updated: 2026-09-09T13:03:34Z
+  Updated: 2026-09-15T05:02:23Z
   Total Products: 16
 - [Chloé](https://otticamolineris.it/collections/chloe): Se sei una donna pragmatica e vuoi esaltare la tua femminilità, la collezione di occhiali firmata Chloé è quella giusta per te. Questi modelli giocano con volumi e sfumature, unendo linee morbide alle forme molto grandi, donando a chi li indossa un’eleganza senza tempo. - Ottica Molineris
-  Updated: 2026-09-09T13:06:15Z
+  Updated: 2026-09-16T23:01:57Z
   Total Products: 65
 - [Persol](https://otticamolineris.it/collections/persol): Persol è la leggenda vivente degli occhiali “made in Italy”. Il suo nome è evocativo, in quanto significa “Per il sole” e i suoi modelli fondono estetica e tecnologia con un design senza tempo. L’alta qualità del prodotto offre a chi li indossa un marchio distintivo. Sono considerati gli occhiali preferiti delle star dello showbusiness. - Ottica Molineris
-  Updated: 2026-09-09T13:06:06Z
-  Total Products: 106
+  Updated: 2026-09-16T23:02:17Z
+  Total Products: 92
 - [Kartell](https://otticamolineris.it/collections/kartell): Kartell si prepara a guardare il mondo con occhi nuovi. Anzi, con occhiali di design che racchiudono tutta la tradizione, la storia, l’innovazione e la cifra stilistica del noto marchio. Il brand ha infatti deciso di buttarsi a capofitto nel mondo della moda lanciando Kartell Eyewear, la sua prima linea di occhiali da sole e vista. Due le collezioni attualmente presenti: la Main Collection e la Design Collection, un ventaglio di modelli interpretati e studiati da quattro dei più noti designer: Rodolfo Dordoni, Ferruccio Laviani, Piero Lissoni e Fabio Novembre. Fil rouge di questo nuovo progetto, la trasparenza, chiave estetica di Kartell, che viene declinata nei colori più disparati e accostata a un ventaglio variegato di materiali. Materiali che, lavorati attraverso giochi geometrici di linee e forme, strizzano l’occhio all’ambiente, sottolineando la costante ricerca e l’impegno di Kartell per la sostenibilità. - Ottica Molineris
   Updated: 2026-07-31T11:56:51Z
   Total Products: 2
 - [Web](https://otticamolineris.it/collections/web): Ispirato ai temi del viaggio e delle esplorazioni, Web Eyewear, nel corso degli anni si è evoluto interpretando a suo modo le tendenze senza dimenticare il suo passato. Accenti vintage e attitude moderna rappresentano il mix vincente che identifica Web Eyewear determinando il successo del suo stile senza tempo.Il brand si distingue per un design accattivante dei modelli proposti e collezioni easy-to-wear dall’allure atemporale.Gli occhiali da vista e da sole coniugano tendenza e funzionalità per offrire un prodotto di carattere.Web Eyewear è adatto a chi affronta la vita con curiosità e interesse verso ciò che è nuovo ed inusuale, a uomini e donne dinamici e sicuri di sé che cercano un accessorio moderno ma dal fascino senza tempo, che li accompagni nelle loro avventure quotidiane. L’occhiale diventa un accessorio essenziale, un compagno di viaggio per chi continua ad esplorare, emozionarsi e vivere. - Ottica Molineris
-  Updated: 2026-09-09T13:03:40Z
-  Total Products: 208
+  Updated: 2026-09-16T23:02:54Z
+  Total Products: 209
 - [Kador](https://otticamolineris.it/collections/kador): Kador venne fondata nel 1962 in Cadore, zona conosciuta come uno dei primi distretti dell’occhiale. La volontà del brand è quella di produrre occhiali artigianali di qualità attraverso antiche tecniche che possono essere definite pura arte. L’ispirazione arriva dalle mode passate che vengono però rivisitate in chiave moderna ed è per questo che ogni occhiale Kador è un pezzo di design unico. Obiettivo finale: creare un accessorio unico che risalti la personalità di chi li indossa. - Ottica Molineris
   Updated: 2026-09-09T09:39:13Z
   Total Products: 18
@@ -2569,20 +2535,20 @@
   Updated: 2026-09-09T07:15:25Z
   Total Products: 12
 - [tutti i prodotti](https://otticamolineris.it/collections/tutti-i-prodotti): - Ottica Molineris
-  Updated: 2026-09-09T19:01:26Z
-  Total Products: 37160
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 37188
 - [Non disponibili](https://otticamolineris.it/collections/non-disponibili): - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 25760
+  Updated: 2026-09-16T23:09:22Z
+  Total Products: 25971
 - [Solo disponibili](https://otticamolineris.it/collections/solo-disponibili): - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 21430
+  Updated: 2026-09-16T23:09:14Z
+  Total Products: 20992
 - [Carolina Herrera](https://otticamolineris.it/collections/carolina-herrera): - Ottica Molineris
-  Updated: 2026-09-09T13:04:14Z
+  Updated: 2026-09-16T23:06:39Z
   Total Products: 278
 - [Prodotti non in saldo](https://otticamolineris.it/collections/prodotti-non-in-saldo): - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 21430
+  Updated: 2026-09-16T23:09:14Z
+  Total Products: 20992
 - [Marcelo Burlon County of Milan](https://otticamolineris.it/collections/marcelo-burlon-county-of-milan): - Ottica Molineris
   Updated: 2026-07-31T11:56:56Z
   Total Products: 0
@@ -2590,8 +2556,8 @@
   Updated: 2026-08-20T22:01:14Z
   Total Products: 2
 - [Dior](https://otticamolineris.it/collections/dior): - Ottica Molineris
-  Updated: 2026-09-09T19:01:44Z
-  Total Products: 261
+  Updated: 2026-09-16T23:02:46Z
+  Total Products: 251
 - [Look](https://otticamolineris.it/collections/look): LOOK si fa portavoce dello stile italiano nell’occhialeria indipendente, interpretando le tendenze cromatiche con modernità e con uno sguardo al futuro. Con oltre 40 anni di esperienza nel settore, porta avanti l’impegno di realizzare prodotti unici, completamente made in Italy e dalle qualità eccellenti, studiati per migliorare il benessere visivo delle persone. L'uso di materiali innovativi e di tecnologie alternative per lavorarli è alla base dello sviluppo di ogni montatura LOOK. Tra questi troviamo il NIL, materiale plastico che permette di creare forme uniche senza rinunciare alla leggerezza; lo XINOX, un acciaio hi-tech ultraleggero e infine l'ALUMIX, una lega metallica composta da alluminio, titanio e acciaio che risulta 2,5 volte più leggero del titanio mantenendo robustezza ed elasticità. - Ottica Molineris
   Updated: 2026-07-31T11:56:57Z
   Total Products: 19
@@ -2611,35 +2577,35 @@
   Updated: 2026-08-07T18:33:57Z
   Total Products: 31
 - [Christian Lacroix](https://otticamolineris.it/collections/christian-lacroix): Casa di moda che nasce nel 1987 e si basa su uno stile barocco, esuberante, unico e colorato. Colori vibranti e forme innovative si fanno subito spazio nell'industria della moda. Oggi la collezione Christian Lacroix include accessori come gioielli, orologi, profumi e l'immancabile eyewear. - Ottica Molineris
-  Updated: 2026-08-25T08:02:07Z
-  Total Products: 31
+  Updated: 2026-09-16T23:02:31Z
+  Total Products: 30
 - [Derek Lam](https://otticamolineris.it/collections/derek-lam): Derek Lam è un designer americano cresciuto a San Francisco. Ha iniziato la sua carriera lavorando per le migliori etichette di New York. Il brand, fondato nel 2003, racconta uno stile classico ed eclettico. - Ottica Molineris
-  Updated: 2026-08-25T01:01:08Z
-  Total Products: 66
+  Updated: 2026-09-16T19:01:59Z
+  Total Products: 68
 - [Dries Van Noten by Linda Farrow](https://otticamolineris.it/collections/dries-van-noten-by-linda-farrow): Questa collaborazione rappresenta un'estensione del pensiero e dell'etica dei due designer. Famosa per l'uso di stampe e colori questa collezione è ricca di montature in acetato, forme feline e tonalità gioiello. - Ottica Molineris
-  Updated: 2026-08-25T01:03:28Z
-  Total Products: 65
+  Updated: 2026-09-16T19:02:27Z
+  Total Products: 58
 - [Epoca](https://otticamolineris.it/collections/epoca): Gli occhiali che rispecchiano uno stile attuale, moderno ma con la giusta classe di chi non vuole apparire, ma essere esclusivamente nella nostra Epoca. - Ottica Molineris
-  Updated: 2026-08-07T18:34:31Z
-  Total Products: 56
+  Updated: 2026-09-16T19:02:09Z
+  Total Products: 57
 - [Silvian Heach](https://otticamolineris.it/collections/silvian-heach): Il lancio della prima collezione eyewear fu nel 2014 al Mido a Milano. Lo scopo di Silvian Heach Eyewear è non solo proporre semplici occhiali da vista e da sole, ma accessori di alta qualità che impreziosiscono e danno un tocco speciale ad ogni outfit. Ogni occhiale Silvian Heach è fatto a mano in Italia nella loro fabbrica, usando solo i migliori materiali, quali acetati di cellulose e metallo da fornitori italiani per creare occhiali da sole e da vista unici e accattivanti per donne con carattere e alla moda. Ciòpermette di avere prezzi competitivi senza compromettere la qualità, e di garantire un alto livello di servizio. - Ottica Molineris
   Updated: 2026-08-24T18:02:21Z
   Total Products: 37
 - [Phillip Lim by Linda Farrow](https://otticamolineris.it/collections/phillip-lim-by-linda-farrow): In questa collaborazione viene espressa un'attitudine classica che allo stesso tempo trasmette individualità. La collezione è composta da stili diversi pieni di dettagli. - Ottica Molineris
-  Updated: 2026-08-25T01:02:54Z
+  Updated: 2026-09-15T00:03:25Z
   Total Products: 57
 - [Philipp Plein](https://otticamolineris.it/collections/philipp-plein): Le collezioni di Philipp Plein sono divertenti, provocanti, massimaliste e sempre sfarzose. Grazie ad un’estetica inconfondibile e a codici stilistici forti e innovativi, il brand Philipp Plein rende omaggio ad appassionati individualisti che trasformano i loro desideri più profondi in realtà. - Ottica Molineris
-  Updated: 2026-09-09T13:06:04Z
-  Total Products: 128
+  Updated: 2026-09-16T23:02:33Z
+  Total Products: 126
 - [Matthew Williamson by Linda Farrow](https://otticamolineris.it/collections/matthew-williamson-by-linda-farrow): Rinomato per l'uso di colori brillanti e l'iconico pattern a farfalla, l'approccio di Matthew Williamson verso l'occhialeria non è molto distante da quello per la sua collezione moda. Abbina eleganti forme femminili con un accento floreale a lenti chiare dai toni neutri. - Ottica Molineris
-  Updated: 2026-08-24T03:07:51Z
-  Total Products: 72
+  Updated: 2026-09-16T19:02:17Z
+  Total Products: 71
 - [Markus Lupfer by Linda Farrow](https://otticamolineris.it/collections/markus-lupfer-by-linda-farrow): Il marchio di Markus Lupfer ha raccolto un seguito cult per quasi 20 anni. Offrendo maglieria eccentrica adornata con motivi di paillettes e slogan accanto a una collezione di abiti su misura, stampe T-shirt e abiti da festa, Markus Lupfer si adatta anche ad un mercato di abbigliamento maschile, con felpe casual e pantaloncini all-over print. - Ottica Molineris
   Updated: 2026-08-13T07:57:06Z
   Total Products: 6
 - [Kris Van Assche by Linda Farrow](https://otticamolineris.it/collections/kris-van-assche-by-linda-farrow): Kris Van Assche ridefinisce la mascolinità nel mondo dell'eyewear con uno stile audace e contemporaneo. La linea segue un'ispirazione urban dagli accenti forti. - Ottica Molineris
-  Updated: 2026-08-25T01:02:11Z
-  Total Products: 38
+  Updated: 2026-09-16T19:02:45Z
+  Total Products: 33
 - [Elie Saab](https://otticamolineris.it/collections/elie-saab): - Ottica Molineris
   Updated: 2026-08-20T22:01:17Z
   Total Products: 16
@@ -2647,20 +2613,20 @@
   Updated: 2026-07-31T11:57:04Z
   Total Products: 0
 - [Etro](https://otticamolineris.it/collections/etro): - Ottica Molineris
-  Updated: 2026-09-09T13:05:29Z
-  Total Products: 108
+  Updated: 2026-09-16T00:01:37Z
+  Total Products: 109
 - [Boss Orange](https://otticamolineris.it/collections/boss-orange): - Ottica Molineris
   Updated: 2026-08-07T19:03:35Z
   Total Products: 8
 - [Dsquared2](https://otticamolineris.it/collections/dsquared2): - Ottica Molineris
-  Updated: 2026-09-09T19:01:57Z
-  Total Products: 239
+  Updated: 2026-09-16T23:03:48Z
+  Total Products: 237
 - [Jplus](https://otticamolineris.it/collections/jplus): - Ottica Molineris
   Updated: 2026-07-31T11:57:05Z
   Total Products: 0
 - [Lunor](https://otticamolineris.it/collections/lunor): - Ottica Molineris
-  Updated: 2026-09-09T16:01:53Z
-  Total Products: 15
+  Updated: 2026-09-16T23:05:49Z
+  Total Products: 14
 - [Neubau](https://otticamolineris.it/collections/neubau): - Ottica Molineris
   Updated: 2026-07-31T11:57:06Z
   Total Products: 0
@@ -2671,17 +2637,17 @@
   Updated: 2026-07-31T11:57:07Z
   Total Products: 0
 - [Smith](https://otticamolineris.it/collections/smith): - Ottica Molineris
-  Updated: 2026-09-09T13:02:04Z
+  Updated: 2026-09-16T23:02:16Z
   Total Products: 140
 - [Eyepetizer](https://otticamolineris.it/collections/eyepetizer): - Ottica Molineris
-  Updated: 2026-09-09T13:05:31Z
-  Total Products: 32
+  Updated: 2026-09-16T19:02:35Z
+  Total Products: 21
 - [CHANEL](https://otticamolineris.it/collections/chanel): - Ottica Molineris
-  Updated: 2026-08-25T03:01:46Z
-  Total Products: 23
+  Updated: 2026-09-16T23:03:32Z
+  Total Products: 22
 - [GIVENCHY](https://otticamolineris.it/collections/givenchy): - Ottica Molineris
-  Updated: 2026-09-09T19:01:44Z
-  Total Products: 93
+  Updated: 2026-09-16T23:04:22Z
+  Total Products: 98
 - [Boss](https://otticamolineris.it/collections/boss): - Ottica Molineris
   Updated: 2026-09-09T13:02:08Z
   Total Products: 3
@@ -2692,14 +2658,14 @@
   Updated: 2026-08-20T22:01:33Z
   Total Products: 1
 - [KENZO](https://otticamolineris.it/collections/kenzo): - Ottica Molineris
-  Updated: 2026-09-09T13:04:49Z
-  Total Products: 133
+  Updated: 2026-09-16T23:03:10Z
+  Total Products: 132
 - [STELLA MCCARTNEY](https://otticamolineris.it/collections/stella-mccartney): - Ottica Molineris
-  Updated: 2026-09-09T19:01:28Z
+  Updated: 2026-09-16T19:01:55Z
   Total Products: 52
 - [Under Armour](https://otticamolineris.it/collections/under-armour): - Ottica Molineris
-  Updated: 2026-09-09T13:04:52Z
-  Total Products: 149
+  Updated: 2026-09-16T23:06:24Z
+  Total Products: 154
 - [Scuderia Ferrari](https://otticamolineris.it/collections/scuderia-ferrari): - Ottica Molineris
   Updated: 2026-07-31T11:57:11Z
   Total Products: 0
@@ -2713,20 +2679,20 @@
   Updated: 2026-07-31T11:57:12Z
   Total Products: 0
 - [Prodotti in Saldo](https://otticamolineris.it/collections/prodotti-in-saldo): Scopri tutti i prodotti in saldo: occhiali da sole e da vista dei migliori brand a prezzi ridotti. - Ottica Molineris
-  Updated: 2026-09-09T19:01:47Z
-  Total Products: 2221
+  Updated: 2026-09-16T23:08:53Z
+  Total Products: 2185
 - [Prodotti Disponibili](https://otticamolineris.it/collections/prodotti-disponibili): - Ottica Molineris
-  Updated: 2026-09-09T19:02:04Z
-  Total Products: 21430
+  Updated: 2026-09-16T23:09:14Z
+  Total Products: 20992
 - [Occhiali da sole](https://otticamolineris.it/collections/occhiali-da-sole-1): - Ottica Molineris
-  Updated: 2026-09-09T19:01:24Z
-  Total Products: 17571
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 17592
 - [StoreRank.ai All Products](https://otticamolineris.it/collections/storerank-ai-all-products): - Ottica Molineris
-  Updated: 2026-09-09T19:01:26Z
-  Total Products: 37161
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 37189
 - [All Products (ChatGPT-AI Product Description)](https://otticamolineris.it/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Ottica Molineris
-  Updated: 2026-09-09T19:01:26Z
-  Total Products: 37161
+  Updated: 2026-09-16T23:08:32Z
+  Total Products: 37189
 
 ## Blogs
 
@@ -2784,6 +2750,15 @@
     Author: Massimiliano Vercellino
   - [Evoluzione nel Digitale: La Trasformazione delle Macchine da Scrivere con il Modello PO 3210S](https://otticamolineris.it/blogs/notizie/evoluzione-nel-digitale-la-trasformazione-delle-macchine-da-scrivere-con-il-modello-po-3210s): Evoluzione nel Digitale: La Trasformazione delle Macchine da Scrivere con il Modello PO 3210S
     Updated: 2026-09-09T10:10:01Z
+    Author: Massimiliano Vercellino
+  - [Scopri l'eleganza e la funzionalità degli occhiali LJ2824 LIU JO per un look sofisticato](https://otticamolineris.it/blogs/notizie/scopri-leleganza-e-la-funzionalita-degli-occhiali-lj2824-liu-jo-per-un-look-sofisticato): Scopri l'eleganza e la funzionalità degli occhiali LJ2824 LIU JO per un look sofisticato
+    Updated: 2026-09-12T10:02:18Z
+    Author: Massimiliano Vercellino
+  - [Esplorazione delle Innovazioni degli Occhiali FLEXON W3041 FLEXON per il Massimo Comfort Visivo](https://otticamolineris.it/blogs/notizie/esplorazione-delle-innovazioni-degli-occhiali-flexon-w3041-flexon-per-il-massimo-comfort-visivo): Esplorazione delle Innovazioni degli Occhiali FLEXON W3041 FLEXON per il Massimo Comfort Visivo
+    Updated: 2026-09-14T10:10:22Z
+    Author: Massimiliano Vercellino
+  - [Il fascino dei TH 1940 Tommy Hilfiger: guida all'eleganza quotidiana](https://otticamolineris.it/blogs/notizie/il-fascino-dei-th-1940-tommy-hilfiger-guida-alleleganza-quotidiana): Il fascino dei TH 1940 Tommy Hilfiger: guida all'eleganza quotidiana
+    Updated: 2026-09-16T10:10:40Z
     Author: Massimiliano Vercellino
 
 ## Store Pages
