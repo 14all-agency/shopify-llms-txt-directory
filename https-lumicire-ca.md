@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2026-06-10T19:18:29Z
 - Contact Email: lumicirebougie@gmail.com
-- Updated At: 2026-09-10T00:00:37.652Z
+- Updated At: 2026-09-17T00:00:39.730Z
 
 ## Products
 
@@ -197,6 +197,15 @@
     Author: Lumicire
   - [Comment un éclairage à la bougie transforme l'atmosphère de votre maison](https://lumicire.ca/blogs/actualites/comment-un-eclairage-a-la-bougie-transforme-latmosphere-de-votre-maison): Comment un éclairage à la bougie transforme l'atmosphère de votre maison
     Updated: 2026-09-07T12:07:49Z
+    Author: Lumicire
+  - [Bougies écologiques : astuces pour réduire leur empreinte carbone](https://lumicire.ca/blogs/actualites/bougies-ecologiques-astuces-pour-reduire-leur-empreinte-carbone): Bougies écologiques : astuces pour réduire leur empreinte carbone
+    Updated: 2026-09-10T12:01:58Z
+    Author: Lumicire
+  - [Histoire des bougies : de l'Antiquité à nos jours](https://lumicire.ca/blogs/actualites/histoire-des-bougies-de-lantiquite-a-nos-jours): Histoire des bougies : de l'Antiquité à nos jours
+    Updated: 2026-09-13T12:01:37Z
+    Author: Lumicire
+  - [Top 5 des erreurs à éviter lors de la fabrication de bougies maison](https://lumicire.ca/blogs/actualites/top-5-des-erreurs-a-eviter-lors-de-la-fabrication-de-bougies-maison): Top 5 des erreurs à éviter lors de la fabrication de bougies maison
+    Updated: 2026-09-14T12:09:06Z
     Author: Lumicire
 
 ## Store Pages
