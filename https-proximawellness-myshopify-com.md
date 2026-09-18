@@ -6,7 +6,7 @@
 - Timezone: America/Vancouver
 - Created At: 2026-08-22T10:49:56Z
 - Contact Email: goldminccarson0@icloud.com
-- Updated At: 2026-09-02T00:00:29.291Z
+- Updated At: 2026-09-18T00:00:37.762Z
 
 ## Products
 
@@ -258,7 +258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/H5359305ccc6d46beb4c9d6f76ee81e2fS.webp?v=1787458055
     Price: $5.79 CAD
 - [Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories Ma](https://proximawellness.myshopify.com/products/vegetable-chopper-multifunctional-grater-cutter-kitchen-accessories-manual-fruit-slicer-potatos-shredders-cheese-onions-slicers): Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories MaVegetable ChopperProximaSPECIFICATIONSBlade: 6 interchangeable and ultra sharp stainless steelB
-  Updated: 2026-08-23T14:06:18Z
+  Updated: 2026-09-10T17:30:55Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1020,7 +1020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S5a1ffddbbbc143319c0a76c7ae7587156.webp?v=1787457942
     Price: $46.60 CAD
 - [TACVASEN Women's Lightweight Puffer Sleeveless Vest Winter Warm Quilte](https://proximawellness.myshopify.com/products/womens-lightweight-puffer-vest): TACVASEN Women's Lightweight Puffer Sleeveless Vest Winter Warm QuilteWomen's Lightweight Puffer VestProximaSPECIFICATIONSAge: Middle AgeBrand Name: TACVASENCN: Fuji
-  Updated: 2026-08-23T14:13:23Z
+  Updated: 2026-09-10T17:31:01Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S05915f4ccd914209a42c27c6da3d6000A.webp?v=1787457453
     Price: $24.50 CAD
 - [Brown Casual Gentleman Men's Army Green Vest Plaid Soft Wool Jacket Tw](https://proximawellness.myshopify.com/products/casual-gentleman-mens-vest): Brown Casual Gentleman Men's Army Green Vest Plaid Soft Wool Jacket TwCasual Gentleman Men's VestProximaSPECIFICATIONSAmoy category: Fashion City (24-35 years old)Ap
-  Updated: 2026-08-23T14:13:24Z
+  Updated: 2026-09-10T17:30:54Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -1486,7 +1486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/Sf3bdf8160fb045a1b9796081232d0000V_7066b3ee-f7ef-4cf3-a3de-02c57368c722.webp?v=1787457977
     Price: $18.26 CAD
 - [Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched Lace](https://proximawellness.myshopify.com/products/women-white-satin-lace-corset-set): Women White Satin Lace Corset Set Sweetheart Straps Waist-cinched LaceWomen White Satin Lace Corset SetProximaSPECIFICATIONS1: Women Colorful Striped Shirt Two Piece
-  Updated: 2026-08-23T18:39:42Z
+  Updated: 2026-09-10T17:30:59Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
@@ -2028,7 +2028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0704/8534/4340/files/S9233e0e1c40044448572e3423eeb28659_cdfc388d-6a54-4b4d-a4ae-dadad18792d4.webp?v=1787457829
     Price: $26.06 CAD
 - [Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories Ma](https://proximawellness.myshopify.com/products/vegetable-chopper-multifunctional-grater-cutter): Vegetable Chopper Multifunctional Grater Cutter Kitchen Accessories MaVegetable ChopperProximaSPECIFICATIONSBlade: 6 interchangeable and ultra sharp stainless steelB
-  Updated: 2026-08-23T18:39:44Z
+  Updated: 2026-09-10T17:31:00Z
   Vendor: My Store 2
   Product Type: 
   Availability: Available
