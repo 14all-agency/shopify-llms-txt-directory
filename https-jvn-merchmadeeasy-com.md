@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-11T00:00:42.090Z
+- Updated At: 2026-09-18T00:00:45.466Z
 
 ## Products
 
@@ -236,7 +236,7 @@
     Availability: Available
     Price: $50.00 USD
 - [IUD Hoodie](https://jvn.merchmadeeasy.com/products/iud-hoodie): Jonathan Van Ness IUD 100% cotton Hoodie with IUD text graphic on the front.
-  Updated: 2026-08-28T13:59:55Z
+  Updated: 2026-09-14T21:30:37Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -313,7 +313,7 @@
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0003_Hot-and-Healed-Tote-New.png?v=1785948409
   Price: $25.00 USD
 - [Pro Hydration Trucker Hat](https://jvn.merchmadeeasy.com/products/pro-hydration-trucker-hat): Pro Hydration graphic printed on the front 100% polyester foam front, mesh back trucker hat in jade Adjustable single snapback closure
-  Updated: 2026-09-02T23:02:56Z
+  Updated: 2026-09-14T21:30:45Z
   Vendor: Jonathan Van Ness
   Product Type: trucker hat
   Availability: Available
@@ -391,10 +391,10 @@
   Updated: 2026-09-03T11:23:09Z
   Total Products: 6
 - [Apparel](https://jvn.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-03T11:23:09Z
+  Updated: 2026-09-15T11:22:30Z
   Total Products: 12
 - [Accessories](https://jvn.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-05T11:24:07Z
+  Updated: 2026-09-15T11:22:30Z
   Total Products: 10
 - [Hats](https://jvn.merchmadeeasy.com/collections/hats)
   Updated: 2026-06-03T15:43:39Z
@@ -403,10 +403,10 @@
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
 - [All](https://jvn.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-05T11:24:07Z
+  Updated: 2026-09-15T11:22:30Z
   Total Products: 21
 - [Tour](https://jvn.merchmadeeasy.com/collections/tour)
-  Updated: 2026-09-05T11:24:07Z
+  Updated: 2026-09-15T11:22:30Z
   Total Products: 7
 
 ## Store Pages
