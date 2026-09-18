@@ -6,69 +6,76 @@
 - Timezone: Australia/Adelaide
 - Created At: 2025-06-21T06:21:38Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-09-10T22:45:34.625Z
+- Updated At: 2026-09-18T00:00:28.563Z
 
 ## Products
 
-- [¿Quién Te Crees Que Eres? | Libro Espiritual de Autoconocimiento](https://conscioussoulopreneur.myshopify.com/products/libro-espiritual-sobre-autoconocimiento): Explora tu identidad más allá del mundo físico. Un libro espiritual de autoconocimiento y filosofía personal que despierta la conciencia interior.
-  Updated: 2026-09-09T14:37:01Z
+- [Metafisica y Autoconocimiento — ¿Quién Te Crees Que Eres? Libro](https://conscioussoulopreneur.myshopify.com/products/metafisica-libro-espiritual-autoconocimiento): Metafisica y Autoconocimiento: Un Viaje Hacia Tu Verdad InteriorSi la metafisica te ha enseñado algo, es que la verdad de quién eres va mucho más allá de los
+  Updated: 2026-09-17T22:42:21Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/gjzqzzq-front-shortedge-384.jpg?v=1788545511
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/gjzqzzq-front-shortedge-384.jpg?v=1789606883
   Price: $66.66 AUD
-- [¿Quién Te Crees Que Eres? — Edición Rústica | Filosofía Espiritual](https://conscioussoulopreneur.myshopify.com/products/libro-espiritual-autoconocimiento): Edición rústica del libro espiritual ¿Quién Te Crees Que Eres? Explora la identidad, la conciencia y el despertar interior. Perfecta para buscadores espirituales.
-  Updated: 2026-09-10T16:07:38Z
+- [¿Quién Te Crees Que Eres? — Edición Rústica | Your Self-Discovery](https://conscioussoulopreneur.myshopify.com/products/quien-te-crees-que-eres-edicion-rustica-your-self-discovery-guide-to-personal-growth): ¿Quién eres realmente, más allá de todo lo que te han dicho que eres?La mayoría de nosotros vivimos con una identidad prestada — formada por la familia, la
+  Updated: 2026-09-17T22:42:21Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1788545508
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1789606891
   Price: $55.55 AUD
-- [Who Do You Think You Are? — Paperback Color | Spiritual Memoir](https://conscioussoulopreneur.myshopify.com/products/spiritual-memoir-self-discovery): Colour-accent paperback edition of Who Do You Think You Are? — a transformative spiritual memoir on identity, consciousness and inner awakening. Glossy cover.
-  Updated: 2026-09-10T16:14:19Z
+- [Who Do You Think You Are? — Paperback Color | Spiritual](https://conscioussoulopreneur.myshopify.com/products/spiritual-self-discovery-book-paperback-color): For those who want more than just a book — they want an experience.This is the full colour edition of Who Do You Think You Are? — a spiritual memoir that
+  Updated: 2026-09-17T22:42:22Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/2mn4j9w-front-shortedge-384.jpg?v=1788545506
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/2mn4j9w-front-shortedge-384.jpg?v=1789606902
   Price: $66.66 AUD
-- [Who Do You Think You Are? — Paperback | Spiritual Memoir](https://conscioussoulopreneur.myshopify.com/products/self-discovery-memoir): Paperback edition of Who Do You Think You Are? — a transformative spiritual memoir exploring identity, consciousness and inner awakening. B&W, matte cover.
-  Updated: 2026-09-10T16:15:02Z
+- [Who Do You Think You Are? – A Self-Discovery Memoir for](https://conscioussoulopreneur.myshopify.com/products/self-discovery-memoir-paperback-bw): The question that changes everything: Who do you really think you are?Most of us go through life with a borrowed identity — shaped by family, culture, and
+  Updated: 2026-09-17T22:42:22Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/7kz6q26-front-shortedge-384.jpg?v=1788545475
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/7kz6q26-front-shortedge-384.jpg?v=1789606909
   Price: $55.55 AUD
-- [Who Do You Think You Are? eBook | Spiritual Self-Discovery & Awakening](https://conscioussoulopreneur.myshopify.com/products/spiritual-journey-ebook): Instant download spiritual eBook on identity, consciousness, and inner awakening. For seekers ready to explore the deeper truth of who they really are.
-  Updated: 2026-09-10T16:18:36Z
+- [I Am Scared — Find Your True Self | Shared Consciousness eBook](https://conscioussoulopreneur.myshopify.com/products/shared-spiritual-ebook-i-am-scared-who-do-you-think-you-are): Feeling scared and lost? Who Do You Think You Are? is a transformative spiritual eBook that guides you back to your true self. Instant download. 7-day guarantee.
+  Updated: 2026-09-17T23:38:37Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/enlishcoverrevised.jpg?v=1788545431
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/i-am-scared-spiritual-ebook-lifestyle-image.png?v=1789687075
   Price: $11.99 AUD
+- [Quantum Consciousness Transformation Guide: Unlock Your Inner Wisdom](https://conscioussoulopreneur.myshopify.com/products/quantum-consciousness-book-remembering-body): Transform Your Life Today with the Quantum Consciousness Transformation GuideImagine unlocking the answers to your deepest questions — all without ever leaving
+  Updated: 2026-09-17T22:42:24Z
+  Vendor: CONSCIOUS SOULOPRENEUR
+  Product Type: eBook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/product-photo-1787113768296_1.jpg?v=1789606960
+  Price: $0.00 AUD
 
 ## Collections
 
 - [Home page](https://conscioussoulopreneur.myshopify.com/collections/frontpage): Explore spiritual memoirs and self-discovery books by Carlos Ruben Lauthier Wendt. Available in hardcover, paperback and eBook in English and Spanish.
-  Updated: 2026-09-09T02:40:42Z
-  Total Products: 5
+  Updated: 2026-09-16T22:05:18Z
+  Total Products: 6
 - [Spanish Version](https://conscioussoulopreneur.myshopify.com/collections/spanish-version): books in Spanish books in Spanish books in Spanish books in Spanish books in Spanish
-  Updated: 2026-09-09T02:29:41Z
+  Updated: 2026-09-16T21:51:32Z
   Total Products: 2
 - [English Version](https://conscioussoulopreneur.myshopify.com/collections/english-version-1): English language books English language books English language books English language books
-  Updated: 2026-09-09T02:40:42Z
-  Total Products: 3
+  Updated: 2026-09-16T21:48:18Z
+  Total Products: 2
 - [SPANISH](https://conscioussoulopreneur.myshopify.com/collections/spanish): All books in Spanish
-  Updated: 2026-09-09T02:29:41Z
+  Updated: 2026-09-16T21:51:32Z
   Total Products: 2
 - [SPANISH VERSION](https://conscioussoulopreneur.myshopify.com/collections/spanish-version-1): books in Spanish books in Spanish books in Spanish books in Spanish books in Spanish
-  Updated: 2026-09-09T02:29:41Z
+  Updated: 2026-09-16T21:51:32Z
   Total Products: 2
 - [Self Discovery Reads](https://conscioussoulopreneur.myshopify.com/collections/self-discovery-reads): self-discovery-readsself-discovery-readsself-discovery-readsself-discovery-readsself-discovery-reads self-discovery-readsself-discovery-reads
-  Updated: 2026-09-09T02:40:42Z
-  Total Products: 5
+  Updated: 2026-09-16T22:05:18Z
+  Total Products: 6
 - [Spiritual Growth Books](https://conscioussoulopreneur.myshopify.com/collections/spiritual-growth-books): spiritual growth booksspiritual growth booksspiritual growth booksspiritual growth booksspiritual growth books
-  Updated: 2026-09-09T02:40:42Z
-  Total Products: 5
+  Updated: 2026-09-16T22:05:18Z
+  Total Products: 6
 
 ## Store Pages
 
