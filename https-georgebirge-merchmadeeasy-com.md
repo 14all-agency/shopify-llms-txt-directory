@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-31T19:06:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-10T00:00:44.027Z
+- Updated At: 2026-09-18T00:00:44.281Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Longhorn Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-tee): Longhorn Tee Unisex tee in Natural 100% ring-spun cotton comfort colors SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-08-28T20:21:42Z
+  Updated: 2026-09-12T13:52:06Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBSaddleUpHat.png?v=1768236303
   Price: $35.00 USD
 - [Longhorn Skull Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
-  Updated: 2026-09-06T00:53:01Z
+  Updated: 2026-09-12T20:07:16Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -234,17 +234,38 @@
   - [2XL](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937614401)
     Availability: Available
     Price: $35.00 USD
+- [Dive Bar Pocket Tee](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
+  Updated: 2026-09-11T16:11:36Z
+  Vendor: George Birge
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/Mockups_0003_GB-Pool-Hall-Tee-B.png?v=1788890731
+  - [S](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee?variant=44537666699329)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee?variant=44537666732097)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee?variant=44537666764865)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee?variant=44537666797633)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee?variant=44537666830401)
+    Availability: Available
+    Price: $35.00 USD
 
 ## Collections
 
 - [New Arrivals](https://georgebirge.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-08T11:12:49Z
+  Updated: 2026-09-13T11:13:57Z
   Total Products: 15
 - [All](https://georgebirge.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-08T18:07:29Z
+  Updated: 2026-09-13T11:13:57Z
   Total Products: 18
 - [Apparel](https://georgebirge.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-08T18:07:29Z
+  Updated: 2026-09-13T11:13:57Z
   Total Products: 12
 - [Music](https://georgebirge.merchmadeeasy.com/collections/music)
   Updated: 2026-05-26T16:58:26Z
@@ -253,7 +274,7 @@
   Updated: 2026-09-07T11:13:37Z
   Total Products: 6
 - [2026 Tour Merch](https://georgebirge.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-09-08T18:07:29Z
+  Updated: 2026-09-13T11:13:57Z
   Total Products: 8
 
 ## Store Pages
