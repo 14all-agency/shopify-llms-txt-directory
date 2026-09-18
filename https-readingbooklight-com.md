@@ -6,12 +6,12 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-09-09T09:15:09.881Z
+- Updated At: 2026-09-18T04:53:39.077Z
 
 ## Products
 
 - [Acrylic Book Night Light | 3 Color Reading Lamp](https://readingbooklight.com/products/acrylic-flat-book-night-light): Shop an acrylic book night light with 3 color temperatures, stepless dimming and USB charging. A stylish adjustable reading lamp for bedrooms and bedside tables
-  Updated: 2026-09-08T11:07:11Z
+  Updated: 2026-09-15T23:17:27Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-10.jpg?v=1786955114
     Price: $29.99 USD
 - [Mini Book Light – Clip-On Reading Light | USB Rechargeable](https://readingbooklight.com/products/mini-book-light-portable-clip-on-reading-light): Mini book light with USB charging, 3 dimmable levels & 360° flip design. Perfect clip-on reading light for bed, travel & camping. Eye-friendly LED.
-  Updated: 2026-09-08T11:07:11Z
+  Updated: 2026-09-15T23:17:27Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -43,7 +43,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/white-mini-book-light-product-only.png?v=1787804298
     Price: $17.99 USD
 - [Rechargeable Neck Light – Hands-Free LED Reading Lamp](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp): Rechargeable neck reading light with 3 modes & flexible arms. Hands-free LED book light for bed, travel & study. USB rechargeable, lightweight & portable.
-  Updated: 2026-09-08T11:07:11Z
+  Updated: 2026-09-15T23:17:27Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01ckawVw1Pgy9yrJGku__2219167721871-0-cib_1.jpg?v=1788166770
     Price: $24.99 USD
 - [Rechargeable Clip-On Book Light – 3 Colors & Dimmable LED](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led): Rechargeable clip-on book light with 3 color temperatures, dimmable LED & foldable hose. Eye-friendly reading light for bed, study & travel.
-  Updated: 2026-09-08T11:07:11Z
+  Updated: 2026-09-17T17:13:58Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01D02Nnz2NFNFbJASLD__2218937329933-0-cib_1.jpg?v=1788166944
     Price: $19.99 USD
   - [Pink](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led?variant=49281653112971)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01xRf67K2NFNFavCAeD__2218937329933-0-cib_1.jpg?v=1788166957
     Price: $19.99 USD
 
@@ -90,8 +90,8 @@
 ## Blogs
 
 - [Reading Light Guide](https://readingbooklight.com/blogs/reading-light-guide): Discover the best reading lights for books, beds, and night reading. Expert tips, reviews, and guides to help you find the perfect book light.
-  - [How to Choose the Best Book Night Light – ReadingBookLight](https://readingbooklight.com/blogs/reading-light-guide/how-to-select-the-perfect-book-night-light-with-the-acrylic-flat-reading-lamp-as-a-top-choice): How to Choose the Best Book Night Light – ReadingBookLight
-    Updated: 2026-08-29T15:06:49Z
+  - [How to Choose the Best Book Night Light](https://readingbooklight.com/blogs/reading-light-guide/how-to-choose-the-best-book-night-light): How to Choose the Best Book Night Light
+    Updated: 2026-09-17T10:24:00Z
     Author: ReadingBookLight
     Tags: acrylic flat book night light, adjustable reading lamp, bedroom reading light, bedside reading light, bedtime reading, book light, book night light, buying guide, reading lamp, reading light, reading light for bed, rechargeable reading light
   - [Flat Book Light vs Bedside Lamp – Which Is Better for Reading?](https://readingbooklight.com/blogs/reading-light-guide/transform-your-nighttime-reading-experience-with-the-perfect-acrylic-flat-book-night-light): Flat Book Light vs Bedside Lamp – Which Is Better for Reading?
@@ -107,11 +107,11 @@
     Author: ReadingBookLight
     Tags: book gifts, book niche gifts, books, decor, enhance reading environment, gifts, gifts for book lovers, reading accessories, reading space ideas
   - [How to Reduce Eye Strain While Reading at Night](https://readingbooklight.com/blogs/reading-light-guide/reading-in-bed-tips-for-eye-comfort-at-night): How to Reduce Eye Strain While Reading at Night
-    Updated: 2026-09-04T17:18:55Z
+    Updated: 2026-09-17T10:31:11Z
     Author: ReadingBookLight
     Tags: bedtime reading, bedtime reading habits, books, comfort, dark reading tips, eye health, night eye comfort, reading, reading in bed tips
   - [How Blue Light Affects Sleep When Reading at Night](https://readingbooklight.com/blogs/reading-light-guide/eye-strain-reading-minimize-discomfort-with-better-lighting): How Blue Light Affects Sleep When Reading at Night
-    Updated: 2026-09-04T17:21:07Z
+    Updated: 2026-09-17T13:21:17Z
     Author: ReadingBookLight
     Tags: best lighting for reading, eye, eye health, eye strain reading, reading before sleep benefits, reading tips, reduce eye strain, sleep, sleep quality, strain
   - [Best Book Light for Side Sleepers – Gift Guide | ReadingBookLight](https://readingbooklight.com/blogs/reading-light-guide/best-book-light-for-side-sleepers-ultimate-gift-guide): Best Book Light for Side Sleepers – Gift Guide | ReadingBookLight
@@ -119,29 +119,45 @@
     Author: ReadingBookLight
     Tags: acrylic book light review, best book light for side sleepers, best book light for sleep, best reading light for dark rooms, best rechargeable reading light, book, book light for bed partners, flat book night light, gift, gifts for book lovers, hands-free reading lamp, light, product guides, reading light, reading light gift ideas, side sleepers, ultimate gift guide for readers, usb rechargeable book light
   - [Transform Your Nights with Cozy Bedroom Reading Setup Ideas](https://readingbooklight.com/blogs/reading-light-guide/transform-your-nights-with-cozy-bedroom-reading-setup-ideas): Transform Your Nights with Cozy Bedroom Reading Setup Ideas
-    Updated: 2026-09-01T00:11:18Z
+    Updated: 2026-09-17T10:16:02Z
     Author: ReadingBookLight
     Tags: bedroom reading ideas, bedroom setup, best reading position in bed, books, comfortable reading environment, cozy, cozy bedroom reading setup, cozy reading setup ideas, how to create a reading nook at home, how to read at night comfortably, how to read more books every night, nighttime reading, nighttime reading routine, reading, reading before sleep benefits, reading habits for better sleep, reading in bed tips, reading nook
   - [How to Choose the Best Light Color for Reading at Night](https://readingbooklight.com/blogs/reading-light-guide/how-to-choose-the-best-light-color-for-reading-at-night): How to Choose the Best Light Color for Reading at Night
-    Updated: 2026-09-03T00:10:21Z
+    Updated: 2026-09-17T10:15:40Z
     Author: ReadingBookLight
     Tags: best color for reading at night, best light color for reading at night, blue light vs warm light for reading, does reading light affect sleep, effects of light on sleep, eye, eye strain from reading at night, how to protect eyes when reading in bed, how to read at night without eye strain, led lighting, light, melatonin and reading light effects, night reading, reading light for better sleep, reduce eye fatigue reading at night, sleep, sleep quality, warm white light for reading
   - [Best Reading Lights for Book Lovers Who Read at Night](https://readingbooklight.com/blogs/reading-light-guide/best-reading-lights-for-book-lovers-who-read-at-night): Best Reading Lights for Book Lovers Who Read at Night
-    Updated: 2026-09-05T10:06:38Z
+    Updated: 2026-09-17T12:14:04Z
     Author: ReadingBookLight
     Tags: acrylic book light review, best book light for side sleepers, best gifts for book lovers, best reading light for dark rooms, best rechargeable reading light, book gifts, book light for bed partners, enhance reading experience, flat book night light, gift ideas, gifts, gifts for book lovers, hands-free reading lamp, products, reading, reading accessories, reading light gift ideas, usb rechargeable book light
-  - [Best Gifts for Book Lovers in 2026 – Reading Lights That Actually Help](https://readingbooklight.com/blogs/reading-light-guide/best-gifts-for-book-lovers-in-2026-reading-lights-that-actually-help): Best Gifts for Book Lovers in 2026 – Reading Lights That Actually Help
-    Updated: 2026-09-07T23:14:14Z
+  - [Clip-On vs Hands-Free Reading Light: Which Should You Gift?](https://readingbooklight.com/blogs/reading-light-guide/clip-on-vs-hands-free-reading-light-which-should-you-gift): Clip-On vs Hands-Free Reading Light: Which Should You Gift?
+    Updated: 2026-09-17T08:52:02Z
     Author: ReadingBookLight Admin
     Tags: book lover gifts, bundle, gift guide, reading lights
-  - [How to Set Up the Perfect Bedside Reading Nook (Lighting Guide)](https://readingbooklight.com/blogs/reading-light-guide/how-to-set-up-the-perfect-bedside-reading-nook-lighting-guide): How to Set Up the Perfect Bedside Reading Nook (Lighting Guide)
-    Updated: 2026-09-07T16:40:21Z
+  - [Bedside Reading Nook Lighting Setup: A Step-by-Step Guide](https://readingbooklight.com/blogs/reading-light-guide/how-to-set-up-the-perfect-bedside-reading-nook-lighting-guide): Bedside Reading Nook Lighting Setup: A Step-by-Step Guide
+    Updated: 2026-09-17T08:52:37Z
     Author: ReadingBookLight Admin
     Tags: bedside reading, bundle, lighting guide, reading lights, reading nook
   - [How to Build a Bedtime Reading Habit That Improves Sleep](https://readingbooklight.com/blogs/reading-light-guide/how-to-build-a-bedtime-reading-habit-that-improves-sleep): How to Build a Bedtime Reading Habit That Improves Sleep
-    Updated: 2026-09-08T05:35:51Z
+    Updated: 2026-09-17T10:16:36Z
     Author: ReadingBookLight
     Tags: bedtime reading techniques, best reading position in bed, better sleep, cozy bedroom reading setup, cozy reading setup ideas, how to create a reading nook at home, how to read at night comfortably, how to read more books every night, improve sleep quality, nighttime reading, nighttime reading routine, reading, reading before sleep benefits, reading habits, reading habits for better sleep, reading in bed tips, routine, sleep
+  - [How Reading Light Affects Melatonin and Sleep Quality](https://readingbooklight.com/blogs/reading-light-guide/how-reading-light-affects-melatonin-and-sleep-quality): How Reading Light Affects Melatonin and Sleep Quality
+    Updated: 2026-09-17T13:22:34Z
+    Author: ReadingBookLight
+    Tags: best light color for reading at night, blue light vs warm light for reading, does reading light affect sleep, eye, eye care tips, eye strain from reading at night, how to protect eyes when reading in bed, how to read at night without eye strain, how to reduce eye strain, melatonin and reading light effects, nighttime eye, prevent eye fatigue while reading, reading health, reading light for better sleep, reduce eye fatigue reading at night, sleep, strain, warm white light for reading
+  - [Rechargeable Book Lights: What to Look For Before You Buy](https://readingbooklight.com/blogs/reading-light-guide/rechargeable-book-lights-what-to-look-for-before-you-buy): Rechargeable Book Lights: What to Look For Before You Buy
+    Updated: 2026-09-17T12:13:41Z
+    Author: ReadingBookLight
+    Tags: acrylic book light review, best book light for side sleepers, best reading light for dark rooms, best reading lights for book lovers, best rechargeable reading light, book gifts, book light for bed partners, books, flat book night light, gift, gifts for book lovers, hands-free reading lamp, light, product guide, reading light, reading light gift ideas, rechargeable reading light ideas, usb rechargeable book light
+  - [How to Choose the Right Reading Light for Bed](https://readingbooklight.com/blogs/reading-light-guide/how-to-choose-the-right-reading-light-for-bed): How to Choose the Right Reading Light for Bed
+    Updated: 2026-09-17T10:17:00Z
+    Author: ReadingBookLight
+    Tags: bedtime reading, best reading position in bed, comfortable reading environment, cozy bedroom reading setup, cozy reading, cozy reading setup ideas, effective reading, how to create a reading nook at home, how to read at night comfortably, how to read more books every night, nighttime reading routine, reading, reading before sleep benefits, reading habits for better sleep, reading in bed tips, routine, tips
+  - [How to Read in the Dark Without Disturbing Your Partner](https://readingbooklight.com/blogs/reading-light-guide/how-to-read-in-the-dark-without-disturbing-your-partner): How to Read in the Dark Without Disturbing Your Partner
+    Updated: 2026-09-18T00:00:03Z
+    Author: ReadingBookLight Admin
+    Tags: book light for couples, clip-on book light, hands-free reading light, neck reading light, reading in bed, warm light reading
 
 ## Store Pages
 
