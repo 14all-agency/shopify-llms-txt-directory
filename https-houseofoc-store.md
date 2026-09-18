@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-09-09T00:00:46.837Z
+- Updated At: 2026-09-18T00:00:46.308Z
 
 HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevated ready-to-wear clothing and accessories for women, men and children. Our collections combine sophisticated design, modern styling and distinctive statement pieces. Explore our official collections, product information, sizing, shipping and brand content through the HOUSE OF OC website.
 
@@ -184,7 +184,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/622fe479f65d20a67fd9bde90f1d6274f3ee8b171746ca3075c7ec6fa72bd762.jpg?v=1767700515
     Price: £19.99 GBP
 - [J8167 HALTER JUMPSUIT WITH WRAP TIE](https://houseofoc.store/products/j8167-halter-jumpsuit-with-wrap-tie): - HALTER JUMPSUIT WITH WRAP TIE - Style: Cocktail, Night Out, Elegant - Pattern Type: Solid - Length: Full - Season: Spring, Summer - Details: - Fit Type: Slim fit - Neckline: Halter-Neck - Sleeve Length: Sleeveless - Sheer: NO - Fabric: Stretch - 92%POLYESTER 8%SPANDEX
-  Updated: 2026-08-28T22:01:42Z
+  Updated: 2026-09-12T15:07:15Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
@@ -202,7 +202,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/f9a29a1515510da564673e7e7a4c957b99a503422f0b668938bda3d0d5fd8f69.jpg?v=1767920278
     Price: £22.32 GBP
 - [FAUX CRUSHED LEATHER MIDI DRESS](https://houseofoc.store/products/d14554-faux-crushed-leather-midi-dress): - FAUX CRUSHED LEATHER MIDI DRESS - Colors: Black, Mocha - Style: Elegant, Clubwear, Night Out, Cocktail, Holiday - Pattern Type: Solid - Length: Mini - Season: Fall/Winter - Type: Bodycon - Details: - Fit Type: Slim Fit - Neckline: Regular - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch - 96%POLYESTER 4%SPANDEX
-  Updated: 2026-08-28T22:01:42Z
+  Updated: 2026-09-12T15:02:19Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
@@ -316,7 +316,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/07a0761ca54b32da996144bda74be2f2f49379b342c6549fff4ad05807b23c5c.jpg?v=1767920308
     Price: £40.18 GBP
 - [Prestige Curve Leggings – Burgundy](https://houseofoc.store/products/b11456-faux-leather-leggings): Elevate your wardrobe with our statement Luxe Sculpt Faux Leather Leggings, designed for the woman who embodies confidence, elegance, and effortless style. Crafted from premium stretch faux leather, these leggings contour your body in all the right places, offering a sleek, sculpted silhouette with a high-gloss finish. The high-waisted design enhances your natural shape while providing a secure and flattering fit. Perfect for day-to-night styling, pair with a crisp blouse for a polished look or a fitted top and heels for an elevated evening ensemble. Why You’ll Love It: Ultra-flattering high-waisted fit Smooth, sculpting faux leather fabric Stretch comfort for all-day wear Elegant burgundy tone for a rich, luxe feel Versatile styling – dress up or down effortlessly Step into confidence. This is more than leggings — it’s a statement.
-  Updated: 2026-08-28T22:01:45Z
+  Updated: 2026-09-12T14:44:17Z
   Vendor: Uptown Apparel
   Product Type: 
   Availability: Available
@@ -334,7 +334,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/df9776a2c34ff3b8c77e041cf4831ea7b3bfbd2695e6c1c6d1a76f8475c62a92.jpg?v=1767920312
     Price: £13.39 GBP
 - [The Boutique Mini Dress](https://houseofoc.store/products/d14470-rib-mini-dress-with-front-beads): - RIB MINI DRESS WITH FRONT BEADS - Colors: Black, Burgundy, Mocha - Style: Elegant, Holiday, Sexy, Western - Pattern Type: Solid - Length: Mini - Season: Summer, fall, winter - Type: Bodycon - Details: - Fit Type: slim fit - Neckline: Round Neck - Sleeve Length: Long Sleeve - Sheer: No - Fabric: Stretch
-  Updated: 2026-08-28T22:01:45Z
+  Updated: 2026-09-12T14:53:13Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
@@ -403,7 +403,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
   Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7634.jpg?v=1768472140
   Price: £15.99 GBP
 - [The Effortless Elegance Top/Skirt Set](https://houseofoc.store/products/shape-sea-green-slinky-cross-strap-crop-top-skirt-set): Product Overview ✨ Discover the Shape Sea Green Slinky Cross Strap Crop Top/ Skirt set. This ensemble combines a crop top with a skirt, both crafted from slinky material. The cross strap design adds a stylish touch. Perfect for those looking for a versatile outfit. Key Features Material: Slinky fabric for a comfortable fit. Design: Cross strap crop top and skirt set. Color: Sea green for a fresh look. Versatility: Suitable for various occasions. Styling Tips ✨ Pair this set with your favorite accessories to enhance the look. The slinky material ensures a flattering fit. Ideal for casual outings or themed events.
-  Updated: 2026-08-28T22:01:47Z
+  Updated: 2026-09-13T03:00:38Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
@@ -429,7 +429,7 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7269.jpg?v=1768496848
     Price: £18.99 GBP
 - [Black Hook and Eye Long Sleeve &nbsp;Bodysuit](https://houseofoc.store/products/black-hook-and-eye-long-sleeve-nbsp-bodysuit): Hook and Eye Long Sleeve Bodysuit Unique Back Design: This bodysuit features a distinctive back design, adding a touch of style to your outfit. 🌟 Comfort and Style: Designed for both comfort and style, this long sleeve nude bodysuit is perfect for various occasions. 🌟 Hook and Eye Closure: The hook and eye closure ensures a secure and comfortable fit. 🌟 Key Features Long Sleeve: The long sleeve design provides extra coverage and warmth. 🌟 Nude Color: The nude color off
-  Updated: 2026-08-28T22:01:47Z
+  Updated: 2026-09-12T05:31:59Z
   Vendor: AVINCI
   Product Type: House of OC
   Availability: Available
