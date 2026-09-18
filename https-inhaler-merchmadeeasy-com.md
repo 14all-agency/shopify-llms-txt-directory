@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-12T21:02:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-11T00:00:37.383Z
+- Updated At: 2026-09-18T00:00:39.995Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/9359/5442/files/INHRBlackAsthmaLogoBeanie.png?v=1741032950
   Price: $30.00 USD
 - [It Won’t Always Be Like This Tee - Black](https://inhaler.merchmadeeasy.com/products/it-won-t-always-be-like-this-tee-black): black tee with the It Won't Always Be Like This album photo on the front and track list on the back
-  Updated: 2026-08-29T05:56:58Z
+  Updated: 2026-09-17T05:58:38Z
   Vendor: Inhaler US Store
   Product Type: Apparel
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [It Won’t Always Be Like This Tee - White](https://inhaler.merchmadeeasy.com/products/it-won-t-always-be-like-this-tee-white): white tee with the It Won't Always Be Like This album photo on the front and track list on the back
-  Updated: 2026-08-29T05:56:58Z
+  Updated: 2026-09-12T15:38:48Z
   Vendor: Inhaler US Store
   Product Type: Apparel
   Availability: Available
@@ -259,10 +259,10 @@
 ## Collections
 
 - [Home page](https://inhaler.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-07T11:16:58Z
+  Updated: 2026-09-17T11:19:13Z
   Total Products: 25
 - [Apparel](https://inhaler.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-07T11:16:58Z
+  Updated: 2026-09-17T11:19:13Z
   Total Products: 16
 - [Accessories](https://inhaler.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-26T11:18:11Z
@@ -274,7 +274,7 @@
   Updated: 2026-06-04T15:24:30Z
   Total Products: 0
 - [All](https://inhaler.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-07T11:16:58Z
+  Updated: 2026-09-17T11:19:13Z
   Total Products: 17
 - [Open Wide Tour Merch](https://inhaler.merchmadeeasy.com/collections/open-wide-tour-merch)
   Updated: 2026-08-16T11:19:19Z
@@ -283,7 +283,7 @@
   Updated: 2026-08-26T11:18:11Z
   Total Products: 9
 - [It Won't Always Be Like This](https://inhaler.merchmadeeasy.com/collections/it-wont-always-be-like-this)
-  Updated: 2026-08-29T11:19:27Z
+  Updated: 2026-09-17T11:19:13Z
   Total Products: 4
 - [UPSELL](https://inhaler.merchmadeeasy.com/collections/upsell)
   Updated: 2026-08-26T11:18:11Z
