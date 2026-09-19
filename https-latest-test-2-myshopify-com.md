@@ -1,29 +1,27 @@
 # Latest Test (https://latest-test-2.myshopify.com)
 
 - Domain: https://latest-test-2.myshopify.com
-- Locale: en
+- Locale: fr
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-09-06T00:00:35.643Z
+- Updated At: 2026-09-19T00:00:38.874Z
 
 ## Products
 
 - [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard): Stocked at both of our locations, so it ships from whichever one is closest to you.
-  Updated: 2026-09-01T07:20:46Z
+  Updated: 2026-09-14T02:13:13Z
   Vendor: Northline Supply
   Product Type: Snowboard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/image.png?v=1788246900
-  Price: $579.95 USD
+  Price: 579,95 $ USD
 - [Complete Snowboard](https://latest-test-2.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-09-01T18:45:56Z
+  Updated: 2026-09-14T05:11:06Z
   Vendor: Summit Rebel
   Product Type: Snowboard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/the-complete-snowboard.png?v=1788246933
-  Price: $899.95 USD
+  Price: 899,95 $ USD
 
 ## Collections
 
@@ -34,7 +32,7 @@
   Updated: 2026-09-01T07:10:13Z
   Total Products: 1
 - [Random v3 [CC-Day-2026-06-10]](https://latest-test-2.myshopify.com/collections/random-v3): Auto-updated by tester on 2026-06-10 12:56:10. Seed: 20261511
-  Updated: 2026-09-01T07:13:48Z
+  Updated: 2026-09-12T10:33:10Z
   Total Products: 3
 
 ## Blogs
@@ -80,7 +78,7 @@
 ## Policies
 
 - [Privacy Policy](https://latest-test-2.myshopify.com/policies/privacy-policy)
-  Updated: 2025-10-09T08:18:29-04:00
+  Updated: 2026-09-08T05:40:47-04:00
 
 ## Optional
 
