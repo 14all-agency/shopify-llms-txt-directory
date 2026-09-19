@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2025-11-02T16:10:48Z
-- Updated At: 2026-09-10T00:00:41.879Z
+- Updated At: 2026-09-19T00:00:45.777Z
 
 ## Products
 
@@ -212,7 +212,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-sweat-jacke-f-u-c-k-y-o-u?variant=56162812526978)
     Availability: Not Available
 - [CTC Bikers Best Tee – Caballeros](https://el-capitano.net/products/el-capitano-tee-ctc-bikers-best-1): Klares Design ohne unnötigen Lärm. Das CTC Bikers Best Tee kombiniert einen bequemen Regular Fit mit einem markanten Oldschool-Print und einem angenehmen Tragegefühl für jeden Tag. Der Stoff trägt sich weich, sitzt locker und bleibt auch bei häufigem Waschen formstabil. Das Motiv wirkt bewusst reduziert und setzt nicht auf überladene Effekte oder kurzlebige Trends. Ein Shirt für Menschen, die ihren eigenen Stil lieber ruhig tragen statt ständig Aufmerksamkeit einzufordern. Teil der originalen CTC Community Series. Details Regular Fit mit geradem Schnitt angenehm weiches Tragegefühl halsferner Rundhalsausschnitt strapazierfähig und langlebig hochwertiger Frontdruck tiefschwarzer Stoff Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-07-16T19:37:36Z
+  Updated: 2026-09-15T17:25:45Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -510,7 +510,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/beanie-ctc-glatt-2.webp?v=1774110454
 - [CTC Patch](https://el-capitano.net/products/el-capitano-patch-ctc): Nicht gemacht, um sauber zu bleiben. Der CTC Oldschool Circle Patch bringt genau den klassischen Club- und Werkstattstil mit, der sofort wirkt, ohne laut zu werden. Das große Runddesign mit Chopper-, Tourer- und Cruiser-Bezug macht klar, woher der Wind kommt.Ob auf Kutte, Jacke, Tasche oder Werkzeugrolle: Der Patch wirkt roh, direkt und genau richtig getragen, wenn er nicht mehr geschniegelt aussieht. Für Caballeros und Señoras, die Bikes nicht nur als Wochenendkulisse kennen.Runder C.T.C.-Patch mit markantem Oldschool-Design. Auffällig, klar und auch aus der Bewegung gut erkennbar – ideal für Jacke, Weste oder Tasche. Part of the original CTC community series. Details: • Aufnäh- und aufbügelbarer Patch• Hochwertige Stickerei mit Klebebeschichtung• Durchmesser: ca. 10 cm• Geeignet für Jacken, Westen, Hemden, Taschen oder Gear• Versand inklusive
-  Updated: 2026-07-20T17:05:17Z
+  Updated: 2026-09-15T17:25:46Z
   Vendor: El Capitano
   Product Type: Patch
   Availability: Available
@@ -616,7 +616,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/rout-66-schluesselanhanger-4.webp?v=1773583361
 - [No Comfort Tee – Señoras](https://el-capitano.net/products/klassisches-unisex-t-shirt): Nicht gemacht für Komfortzonen. Gemacht für Frauen, die Druck aushalten und trotzdem weitergehen. Das No Comfort Tee – Señoras kombiniert einen geraden, klaren Schnitt mit einem kompromisslosen Design. Vorne reduziert. Hinten BUILT UNDER PRESSURE. Kein überladener Fashion-Print, sondern eine klare Ansage. Der Stoff trägt sich angenehm und stabil, ohne dünn oder beliebig zu wirken. Ob unterwegs, auf Treffen oder einfach im Alltag. Das Shirt passt zu Frauen, die ihren eigenen Kopf behalten, auch wenn’s unbequem wird. Teil der Capitano Crew Line Edition. Details • Gerader Schnitt mit klarer Linie• angenehmes und stabiles Tragegefühl• Frontprint „NO COMFORT“ mit vertikalem GRIT-Design• Rückenprint „BUILT UNDER PRESSURE“ im Distressed-Look• mehrere Farbvarianten erhältlichTeil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-24T03:27:46Z
+  Updated: 2026-09-17T15:19:34Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -640,10 +640,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_frau.webp?v=1775565566
   - [Militär Grün / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522535862658)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_frau.webp?v=1775565566
   - [Militär Grün / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522535895426)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_nocomfort_front_frau.webp?v=1775565566
   - [Schwarz / S](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522534879618)
     Availability: Available
@@ -754,10 +754,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_frau.webp?v=1775565717
   - [Sportgrau / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522536321410)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_frau.webp?v=1775565717
   - [Sportgrau / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522536354178)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grau_nocomfort_front_frau.webp?v=1775565717
   - [Navy / S](https://el-capitano.net/products/klassisches-unisex-t-shirt?variant=56522535141762)
     Availability: Available
@@ -1060,7 +1060,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_dilligaffu_front_frau.webp?v=1781523647
 - [DILLI FU Tee - Caballeros](https://el-capitano.net/products/klassisches-unisex-t-shirt-3): Nicht gemacht für Mitläufer. Gemacht für Menschen, die ihren eigenen Kurs halten, auch wenn es unbequem wird. Das DILLIGAF FU Tee – Caballeros kombiniert einen geraden, klaren Schnitt mit einem reduzierten Industrial-Design. Vorne vertikaler DILLIGAF-Print, hinten technische Foxtrot-Uniform-Grafik im Utility-Stil. Direkt, roh und ohne Fashion-Gelaber. Der Stoff trägt sich angenehm und stabil, ohne dünn oder beliebig zu wirken. Funktioniert im Alltag, unterwegs, auf Treffen oder einfach dort, wo Charakter wichtiger ist als Trends. Der dezente Barcode-Print auf dem linken Ärmel setzt dem Look noch den letzten Akzent. Klein, technisch und genau richtig platziert. Die kleine Design-Spielerei, an der man merkt, dass sich tatsächlich jemand Gedanken gemacht hat. Selten genug inzwischen. 😏 Teil der Capitano Crew Line Edition. Details • gerader Schnitt mit klarer Linie• angenehmes und stabiles Tragegefühl• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• dezenter Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich• Hinweis: Wer es etwas weicher und leichter mag, findet hier bei der Señoras-Version eine dünnere softere Stoffqualität Teil der El Capitano Crew Line-Kollektion. • 100 % Baumwolle • Sport Grey besteht zu 90 % aus Baumwolle und 10 % aus Polyester• Stoffgewicht: 170-180 g/m² (5,0–5,3 oz/yd²) • Offenes Garn• Schlauchgewebe• Bandagierter Nacken und Schulter • Doppelnaht an Ärmeln und unterem Saum
-  Updated: 2026-08-07T14:23:03Z
+  Updated: 2026-09-17T15:15:03Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -1108,10 +1108,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_dilligaffu_front_mann.webp?v=1781456368
   - [Military Green / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011920770)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_dilligaffu_front_mann.webp?v=1781456368
   - [Military Green / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011953538)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military_green_dilligaffu_front_mann.webp?v=1781456368
   - [Punch Pink / S](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011462018)
     Availability: Available
@@ -1132,7 +1132,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch_pink_dilligaffu_front_mann.webp?v=1781456367
   - [Punch Pink / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011658626)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch_pink_dilligaffu_front_mann.webp?v=1781456367
   - [Punch Pink / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011691394)
     Availability: Available
@@ -1159,7 +1159,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_dilligaffu_front_mann.webp?v=1781456367
   - [Navy / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011167106)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_dilligaffu_front_mann.webp?v=1781456367
   - [Sport Grey / S](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011986306)
     Availability: Available
@@ -1180,10 +1180,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grey_dilligaffu_front_mann.webp?v=1781456368
   - [Sport Grey / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694012182914)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grey_dilligaffu_front_mann.webp?v=1781456368
   - [Sport Grey / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694012215682)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport_grey_dilligaffu_front_mann.webp?v=1781456368
   - [Red / S](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011199874)
     Availability: Available
@@ -1204,10 +1204,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann.webp?v=1781456367
   - [Red / 4XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011396482)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann.webp?v=1781456367
   - [Red / 5XL](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694011429250)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann.webp?v=1781456367
   - [White / S](https://el-capitano.net/products/klassisches-unisex-t-shirt-3?variant=56694012248450)
     Availability: Available
@@ -1372,7 +1372,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann_f6973dc4-571e-4063-b1fe-3475eec37585.webp?v=1784907875
 - [DILLIFU Hoodie - Señoras](https://el-capitano.net/products/unisex-kapuzenpullover): Haltung trägt man nicht nur im Sommer. Der DILLIGAF FU Hoodie – Señoras verbindet ein klares Utility-Design mit einem angenehm weichen Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Abende und alle, die lieber ihren eigenen Weg gehen als jedem Trend hinterherzulaufen. Teil der Capitano Crew Line Edition. Details • angenehm weiches Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-30T15:39:46Z
+  Updated: 2026-09-11T14:23:02Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1528,7 +1528,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_frau_89b33a72-5254-4986-a2f0-fa7f1ffd36b7.webp?v=1784907226
 - [REVOLUTION Sweater – Señoras](https://el-capitano.net/products/unisex-pullover): Freiheit kennt kein Geschlecht. Der REVOLUTION Sweater bringt den markanten REVOLUTION-Look in eine feminine Passform und verbindet klares Design mit einem angenehmen, weicheren Tragegefühl. Der auffällige REVOLUTION-Print auf der Vorderseite mit seinen markanten Spray- und Dripping-Effekten macht den Sweater zum Statement, ohne dabei überladen zu wirken. Für kühle Tage, lange Abende und alle, die ihren eigenen Weg gehen, statt sich nach der Meinung anderer zu richten. Teil der El Capitano Crew Line Edition. Details • angenehme und weichere Stoffqualität• feminine Passform• klassischer Rundhalsausschnitt• gerippte Bündchen an Hals, Ärmeln und Saum• markanter REVOLUTION Frontprint im Industrial-Look• auffällige Spray- und Dripping-Effekte• mehrere Farbvarianten erhältlich• klassischer Sweater-Schnitt Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-09-08T06:17:41Z
+  Updated: 2026-09-13T05:35:41Z
   Vendor: El Capitano
   Product Type: T-SHIRT
   Availability: Available
@@ -1600,10 +1600,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
   - [Navy / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893148955010)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
   - [Navy / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893148987778)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_frau.webp?v=1788698796
   - [Dark Grey / S](https://el-capitano.net/products/unisex-pullover?variant=56893149020546)
     Availability: Available
@@ -1624,10 +1624,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
   - [Dark Grey / 4XL](https://el-capitano.net/products/unisex-pullover?variant=56893149217154)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
   - [Dark Grey / 5XL](https://el-capitano.net/products/unisex-pullover?variant=56893149249922)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/graphite_revolution_front_frau.webp?v=1788698796
   - [Military Green / S](https://el-capitano.net/products/unisex-pullover?variant=56893149282690)
     Availability: Available
@@ -1672,7 +1672,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/sport-grey_revolution_front_frau.webp?v=1788698796
 - [REVOLUTION Sweater – Caballeros](https://el-capitano.net/products/unisex-sweatshirt): Nicht jeder muss mitmachen. Der REVOLUTION Sweater – Caballeros steht für einen klaren, kompromisslosen Look und ein angenehmes, robustes Tragegefühl. Der markante REVOLUTION-Print auf der Vorderseite verbindet harte Typografie mit markanten Spray- und Dripping-Effekten. Kein überladenes Design, kein unnötiger Schnickschnack. Einfach ein Statement. Für kühle Tage, lange Abende und alle, die ihren eigenen Weg gehen, statt sich von der Masse treiben zu lassen. Teil der El Capitano Crew Line Edition. Details • angenehmes und robustes Tragegefühl• klassischer Rundhalsausschnitt• gerippte Bündchen an Hals, Ärmeln und Saum• markanter REVOLUTION Frontprint im Industrial-Look• auffällige Spray- und Dripping-Effekte• mehrere Farbvarianten erhältlich• klassischer Sweater-Schnitt Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-09-07T14:45:13Z
+  Updated: 2026-09-13T05:35:51Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1720,10 +1720,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
   - [Navy / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283238274)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
   - [Navy / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283271042)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_revolution_front_mann.webp?v=1788698480
   - [Dark Grey / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283303810)
     Availability: Available
@@ -1744,10 +1744,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
   - [Dark Grey / 4XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283500418)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
   - [Dark Grey / 5XL](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283533186)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_revolution_front_mann.webp?v=1788698480
   - [Military Green / S](https://el-capitano.net/products/unisex-sweatshirt?variant=56893283565954)
     Availability: Available
@@ -1819,22 +1819,22 @@
 ## Collections
 
 - [Startseite](https://el-capitano.net/collections/frontpage): El Capitano Streetwear. Premium Qualität, klarer Stil. Kein Mainstream.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 43
 - [Originals](https://el-capitano.net/collections/originals): Zeitlose Streetwear für Damen & Herren. El Capitano Originals. Kein Mainstream.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 24
 - [Crew Line](https://el-capitano.net/collections/crew-line): Everyday Streetwear mit Haltung. El Capitano Crew Line.
   Updated: 2026-09-06T13:14:09Z
   Total Products: 10
 - [Extras](https://el-capitano.net/collections/gadgets): Extras von El Capitano. Kleine Details. Großer Unterschied.
-  Updated: 2026-06-04T09:05:23Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 19
 - [Originals - Señoras](https://el-capitano.net/collections/senoras): Zeitlose Damen Streetwear mit Haltung. El Capitano Originals Señoras.
   Updated: 2026-06-04T09:36:24Z
   Total Products: 12
 - [Originals - Caballeros](https://el-capitano.net/collections/caballeros): Kein Mainstream. Kein Theater. Für Caballeros.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 12
 - [Gremlin Bells](https://el-capitano.net/collections/gremlin-bells): Gremlin Bells für Biker. Alte Tradition für neue Straßen. El Capitano.
   Updated: 2026-06-04T09:37:09Z
@@ -1846,13 +1846,13 @@
   Updated: 2026-06-04T09:37:13Z
   Total Products: 3
 - [Patches](https://el-capitano.net/collections/patches): Patches von El Capitano. Kleine Details mit Haltung.
-  Updated: 2026-06-04T09:37:14Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 1
 - [Sticker](https://el-capitano.net/collections/sticker): Sticker von El Capitano. Haltung auf jeder Fläche. Kein Mainstream.
   Updated: 2026-06-04T09:37:14Z
   Total Products: 1
 - [Originals - Shirts](https://el-capitano.net/collections/originals-shirts): Originals Shirts von El Capitano. Premium Streetwear mit Haltung. Kein Mainstream.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 8
 - [Originals – Hoodies](https://el-capitano.net/collections/originals-hoodies): Originals Hoodies von El Capitano. Premium Streetwear mit Haltung. Kein Mainstream.
   Updated: 2026-06-04T09:39:23Z
@@ -1870,7 +1870,7 @@
   Updated: 2026-06-04T09:58:04Z
   Total Products: 4
 - [Originals - Caballeros - Shirts](https://el-capitano.net/collections/caballeros-shirts): Herren Shirts mit Haltung. El Capitano Originals.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 4
 - [Originals - Caballeros - Hoodies](https://el-capitano.net/collections/caballeros-hoodies): Streetwear Hoodies ohne Kompromisse. El Capitano Originals.
   Updated: 2026-06-04T09:58:04Z
@@ -1879,7 +1879,7 @@
   Updated: 2026-06-04T09:58:04Z
   Total Products: 4
 - [Startseite Auswahl](https://el-capitano.net/collections/startseite-auswahl): Die Auswahl von El Capitano. Nicht alles. Nur das Richtige.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 8
 - [Crew Line – Shirts](https://el-capitano.net/collections/crew-line-shirts): Crew Line Shirts von El Capitano. Gleicher Geist, klarer Preis. Kein Mainstream.
   Updated: 2026-07-28T15:20:20Z
@@ -1897,11 +1897,11 @@
   Updated: 2026-09-06T12:59:24Z
   Total Products: 5
 - [🂡](https://el-capitano.net/collections/ctc): Kuratierte Streetwear von El Capitano. Nicht für jeden gedacht.
-  Updated: 2026-08-15T11:38:10Z
+  Updated: 2026-09-16T11:38:22Z
   Total Products: 18
 - [New](https://el-capitano.net/collections/new): Neu eingetroffen. Mit Charakter statt Kompromissen.Nicht für jeden. Aber vielleicht für dich.
-  Updated: 2026-09-06T12:59:25Z
-  Total Products: 3
+  Updated: 2026-09-11T14:23:46Z
+  Total Products: 2
 - [Crew Line - Caballeros - Hoodie & Sweater](https://el-capitano.net/collections/crew-line-caballeros-hoodie): Kein Hype. Kein Bullshit. Einfach Haltung.
   Updated: 2026-09-06T13:07:41Z
   Total Products: 2
