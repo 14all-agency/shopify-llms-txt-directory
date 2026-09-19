@@ -6,19 +6,19 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-09-08T00:00:39.507Z
+- Updated At: 2026-09-19T00:00:42.823Z
 
 ## Products
 
 - [天然由来96.9% スクラブ入りハンドウォッシュ｜ヒノキ天然精油の香り](https://mckkjp.com/products/handwash_hinoki): 天然由来成分96.9%。酒蔵で生まれた米ぬかエキスと、ヒノキの天然精油で作ったスクラブ入りハンドウォッシュ。手を洗う所作が、静かに感覚をひらいていきます。
-  Updated: 2026-08-28T01:26:13Z
+  Updated: 2026-09-18T01:23:25Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-09-04T00:12:38Z
+  Updated: 2026-09-18T10:38:46Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/a8fcc40905c16fb5f9549a87774ce229.jpg?v=1764573108
   Price: ￥10,000.00 JPY
 - [【メンバー限定】淡路島の職人が手仕事で仕上げたお香_1種類](https://mckkjp.com/products/incense_one): 【こちらはお香3種をご購入いただいたメンバーさま専用商品となります】 安息・活力・集中よりお好きな香りのみが25本入りとなります。 毎日のルーティンとして、お気に入りの『聞香』を続けられます。お気に入りの香りで自分をブランディングすることも可能です。 毎週末の朝に同じ『聞香』で始まる大切な時間。自分の好きな香りを聞くことで、忙しさから解放されたり、無理しなくて良い時間を体験したり・・・ お部屋のフレグランスとして、自分らしさを楽しんだり、お好きな香で自分というブランドを作れます。
-  Updated: 2026-08-28T01:25:47Z
+  Updated: 2026-09-09T15:09:52Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お香
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Available
     Price: ￥2,640.00 JPY
 - [アロマミスト 100ml｜植物由来100%（※ 水を除く）](https://mckkjp.com/products/aromamist): 香りを「効かせるもの」ではなく、ひとつの行為に入る前の切り替えの所作としてのアロマミストです。 その場の空気が静かに切り替わるような気配を残します。香りが消えていく余韻も楽しんでみてください。 読書や思考、作業に入る前、次の時間へ移るための合図として。
-  Updated: 2026-09-04T01:48:19Z
+  Updated: 2026-09-18T01:23:25Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-09-04T11:13:59Z
+  Updated: 2026-09-18T11:13:00Z
   Total Products: 7
 
 ## Blogs
@@ -233,6 +233,8 @@
   Updated: 2026-07-23T23:14:42Z
 - [お香｜LP](https://mckkjp.com/pages/incense-lp)
   Updated: 2026-08-04T00:48:28Z
+- [お買い物ガイド](https://mckkjp.com/pages/store-guide)
+  Updated: 2026-09-15T00:02:29Z
 
 ## Policies
 
