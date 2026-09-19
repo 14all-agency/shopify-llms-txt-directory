@@ -6,347 +6,383 @@
 - Timezone: America/New_York
 - Created At: 2026-09-10T18:58:54Z
 - Contact Email: crew@overlandersoutfitter.com
-- Updated At: 2026-09-11T04:26:18.779Z
+- Updated At: 2026-09-19T00:00:26.788Z
 
 PreLoved G+ — sustainable marketplace for outdoor gear & apparel. Pre-loved finds & new gear from small biz collabs. Built Once. Loved Twice.
 
 ## Products
 
-- [Watershed Big Creek Day Pack – Waterproof Submersible Dry Bag Backpack](https://prelovedgear.com/products/watershed-big-creek): The Watershed Big Creek Day Pack keeps gear dry with a ZipDry® seal and 21L capacity. Perfect for kayaking, canyoneering & water adventures.
-  Updated: 2026-09-11T04:16:43Z
+- [Watershed Big Creek Day Pack - Waterproof Adventure Essential](https://prelovedgear.com/products/watershed-big-creek-day-pack): Discover the Watershed Big Creek Day Pack, your waterproof adventure companion! Stay dry on all your outings—perfect for kayaking, beach days, and more.
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Dry Bags & Backpacks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-ROY21.png?v=1789069789
-  - [Safety Orange](https://prelovedgear.com/products/watershed-big-creek?variant=49492557725851)
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-ROY21.png?v=1789122128
+  - [Safety Orange](https://prelovedgear.com/products/watershed-big-creek-day-pack?variant=49492557725851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-SA-ORG-24.jpg?v=1789069785
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-FRA-ORG-24.jpg?v=1789133488
     Price: $135.00 USD
-  - [Royal Purple](https://prelovedgear.com/products/watershed-big-creek?variant=49492557758619)
+  - [Royal Purple](https://prelovedgear.com/products/watershed-big-creek-day-pack?variant=49492557758619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-ROY12.png?v=1789069788
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/BC-ROY12.png?v=1789122135
     Price: $135.00 USD
 - [Watershed Colorado Dry Duffel – 75L Waterproof River Bag](https://prelovedgear.com/products/watershed-colorado-dry-duffel): The Watershed Colorado Dry Duffel holds 75.5L with ZipDry® waterproof seal, heavy-duty nylon, and 6 lash points. Built for river trips, road trips & more.
-  Updated: 2026-09-11T04:16:48Z
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Dry Bags & Waterproof Duffels
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/COLO-ROY21.png?v=1789085310
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/TRWSCO.png?v=1789122183
   - [Safety Orange](https://prelovedgear.com/products/watershed-colorado-dry-duffel?variant=49493761261723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/COL-ORG-0071.jpg?v=1789085295
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/COL-ORG-0071.jpg?v=1789122196
     Price: $249.00 USD
   - [Royal Purple](https://prelovedgear.com/products/watershed-colorado-dry-duffel?variant=49493761294491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/COLO-ROY11.png?v=1789085310
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/COLO-ROY11.png?v=1789122215
     Price: $249.00 USD
-- [Watershed Largo Waterproof Tote Bag – 19.5L Dry Bag](https://prelovedgear.com/products/watershed-largo-tote-bag): The Watershed Largo Tote holds 19.5L with ZipDry® seal, shoulder straps & 6 lash points. Pre-loved waterproof tote for fishing, boating & beach trips.
-  Updated: 2026-09-11T04:16:51Z
+- [Watershed Largo Tote Bag | Waterproof Adventure Awaits!](https://prelovedgear.com/products/watershed-largo-tote-bag): The Watershed Largo Tote Bag holds 19.5L with ZipDry® seal, shoulder straps & 6 lash points. Pre-loved waterproof tote for fishing, boating & beach trips.
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Dry Bags & Waterproof Totes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WSLAR-ORG158.jpg?v=1789087348
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WSLAR-ORG158.jpg?v=1789122221
   Price: $138.00 USD
-- [Watershed Aleutian Waterproof Kayak Deck Bag – 11.5L](https://prelovedgear.com/products/watershed-aleutian-deck-bag): The Watershed Aleutian Deck Bag keeps cameras & gear dry on sea kayaks & SUPs. ZipDry® seal, map window & bilge pump straps.
-  Updated: 2026-09-11T04:16:41Z
+- [Watershed Aleutian Deck Bag - Essential Storage for Paddlers](https://prelovedgear.com/products/watershed-aleutian-deck-bag): The Watershed Aleutian Deck Bag keeps cameras & gear dry on sea kayaks & SUPs. ZipDry® seal, map window & bilge pump straps.
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Kayak & Paddleboard Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-DB-ROY11.png?v=1789088017
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-DB-ROY11.png?v=1789122246
   - [Royal Purple](https://prelovedgear.com/products/watershed-aleutian-deck-bag?variant=49494044246171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-DB-ROY11.png?v=1789088017
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-DB-ROY11.png?v=1789122246
     Price: $148.00 USD
   - [Safety Orange](https://prelovedgear.com/products/watershed-aleutian-deck-bag?variant=49494044278939)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-ORG-031-scaled.jpg?v=1789088018
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/AL-ORG-031-scaled.jpg?v=1789122253
     Price: $148.00 USD
-- [Watershed Chattooga Dry Duffel – 22L Waterproof Bag](https://prelovedgear.com/products/watershed): The Watershed Chattooga Dry Duffel holds 22L with ZipDry® seal & 6 lash points. Versatile waterproof bag for sailing, hunting & expeditions. PreLoved G+.
-  Updated: 2026-09-11T04:16:54Z
+- [Watershed Chattooga Dry Duffel – 22L Waterproof Bag](https://prelovedgear.com/products/watershed-chattooga-dry-duffel): The Watershed Chattooga Dry Duffel holds 22L with ZipDry® seal & 6 lash points. Versatile waterproof bag for sailing, hunting & expeditions. PreLoved G+.
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Dry Bags & Waterproof Duffels
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/CHAT-ORG-0121.jpg?v=1789088731
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/CHAT-ORG-0121.jpg?v=1789122271
   Price: $148.00 USD
-- [Watershed Mississippi Dry Duffel – 111L Waterproof Bag](https://prelovedgear.com/products/watershed-mississippi-dry-duffel): The Watershed Mississippi holds 111L with a 38" ZipDry® opening & 6 lash points. Expedition-grade waterproof duffel for fishing & diving. PreLoved G+.
-  Updated: 2026-09-11T04:16:57Z
+- [Watershed Mississippi Dry Duffel – 111L Waterproof Bag](https://prelovedgear.com/products/watershed-mississippi-dry-duffel): Discover the Watershed Mississippi Dry Duffel—a waterproof, 111L storage solution ideal for kayaking, camping, and diving. Keep your gear organized and dry!
+  Updated: 2026-09-18T11:30:27Z
   Vendor: PreLoved G+
   Product Type: Dry Bags & Waterproof Duffels
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ROY21.png?v=1789089209
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ROY21.png?v=1789122297
   - [Royal Purple](https://prelovedgear.com/products/watershed-mississippi-dry-duffel?variant=49494106374299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ROY11.png?v=1789089223
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ROY11.png?v=1789122304
     Price: $280.00 USD
   - [Safety Orange](https://prelovedgear.com/products/watershed-mississippi-dry-duffel?variant=49494106407067)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ORG-0201.jpg?v=1789089244
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/MISS-ORG-0201.jpg?v=1789122320
     Price: $280.00 USD
-- [Watershed Animas Waterproof Backpack – 40L Dry Pack](https://prelovedgear.com/products/watershed-animas-backpack): The Watershed Animas is a 40L waterproof backpack with ZipDry® seal, padded straps & waist belt. Pre-loved dry pack for fishing & river trips. PreLoved G+.
-  Updated: 2026-09-11T04:17:00Z
+- [Watershed Animas Backpack: Ultimate Waterproof Adventure Gear](https://prelovedgear.com/products/watershed-animas-backpack): Discover the Watershed Animas Backpack for superior waterproof protection and comfort. Perfect for anglers and adventurers alike. Don't miss out!
+  Updated: 2026-09-18T11:29:58Z
   Vendor: PreLoved G+
   Product Type: Waterproof Backpacks & Dry Packs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WS55400_05_SafetyOrange_na_front_011422_1000x1000_3542aaf4-4d36-4e09-84e7-71ef685f2032.jpg?v=1789096169
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WS55400_05_SafetyOrange_na_front_011422_1000x1000_3542aaf4-4d36-4e09-84e7-71ef685f2032.jpg?v=1789122326
   - [Royal Purple](https://prelovedgear.com/products/watershed-animas-backpack?variant=49494989176987)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/ANi-ROY21.png?v=1789091710
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/ANi-ROY21.png?v=1789122353
     Price: $179.00 USD
   - [Safety Orange](https://prelovedgear.com/products/watershed-animas-backpack?variant=49494989209755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WS55400_05_SafetyOrange_na_front_011422_1000x1000_3542aaf4-4d36-4e09-84e7-71ef685f2032.jpg?v=1789096169
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WS55400_05_SafetyOrange_na_front_011422_1000x1000_3542aaf4-4d36-4e09-84e7-71ef685f2032.jpg?v=1789122326
     Price: $179.00 USD
-- [Watershed Westwater Waterproof Backpack – 65L Dry Pack](https://prelovedgear.com/products/watershed-westwater-backpack): The Watershed Westwater is a 65L waterproof backpack with ZipDry® seal & padded straps. Pre-loved expedition dry pack for rafting & camping. PreLoved G+.
-  Updated: 2026-09-11T04:17:03Z
+- [Watershed Westwater Backpack: Your Reliable Waterproof Adventure Gear](https://prelovedgear.com/products/watershed-westwater-backpack): Discover the Watershed Westwater Backpack—your ultimate waterproof companion for river adventures. Stay dry, comfortable, and ready for anything!
+  Updated: 2026-09-18T11:29:58Z
   Vendor: PreLoved G+
   Product Type: Waterproof Backpacks & Dry Packs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WW-ORG-0153.jpg?v=1789092047
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/collection_gear.png?v=1789122372
   - [Safety Orange](https://prelovedgear.com/products/watershed-westwater-backpack?variant=49494543925403)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WW-ORG-0153.jpg?v=1789092047
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WW-ORG-0153.jpg?v=1789122407
     Price: $210.00 USD
   - [Royal Purple](https://prelovedgear.com/products/watershed-westwater-backpack?variant=49494543958171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WW-ROY11.png?v=1789092085
+    Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WW-ROY11.png?v=1789122380
     Price: $210.00 USD
-- [Surplus - Round](https://prelovedgear.com/products/surplus-round): The Green Fuz Surplus Board Bag is an all canvas 2 panel bag in Dark Khaki. It's got a military fatigue feel to it & is made with our 12oz 100% cotton canvas, an anti-wax liner & a screened Green Fuz Patch. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Made in California Sizing: The Round nose bag fit boards up to 22-23" wide. If you have more of a hybrid or performance fish surfboard & want a more tailored fit, consider our Beak shape bag. Board bags are 3-4” longer than the listed size, See Size Chart for details.
-  Updated: 2026-09-11T04:17:04Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+- [Window Dry Bag - Salamander PVC Waterproof Gear Storage](https://prelovedgear.com/products/salamander-window-dry-bag): Salamander 18 oz. PVC window dry bag with full-length clear view of contents, fold-down carry handle & D-ring. Waterproof storage for kayaking, rafting & paddleboarding.
+  Updated: 2026-09-18T20:54:28Z
+  Vendor: PreLoved G+
+  Product Type: Kayak & Paddleboard Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Surplus-Canvas-Board-Bag-Short.jpg?v=1789094557
-  - [5'6](https://prelovedgear.com/products/surplus-round?variant=49494912139419)
-    Availability: Available
-    Price: $120.00 USD
-  - [6'0](https://prelovedgear.com/products/surplus-round?variant=49494912172187)
-    Availability: Available
-    Price: $125.00 USD
-  - [6'6](https://prelovedgear.com/products/surplus-round?variant=49494912204955)
-    Availability: Available
-    Price: $130.00 USD
-  - [7'0](https://prelovedgear.com/products/surplus-round?variant=49494912237723)
-    Availability: Available
-    Price: $135.00 USD
-  - [7'6](https://prelovedgear.com/products/surplus-round?variant=49494912270491)
-    Availability: Available
-    Price: $140.00 USD
-  - [8'0](https://prelovedgear.com/products/surplus-round?variant=49494912303259)
-    Availability: Available
-    Price: $145.00 USD
-  - [8'6](https://prelovedgear.com/products/surplus-round?variant=49494912336027)
-    Availability: Available
-    Price: $150.00 USD
-- [Warhol- Mid/Log](https://prelovedgear.com/products/warhol-mid-log): Our Warhol padded day/travel board bag has a Vintage White exterior with a canvas stripe panel over the top. Made for day to day or light travel use. Since this bag has a canvas panel we suggest keeping it out of heavy damp environments. Limited to jsut a couple per size. Sewn in California. 600D poly/vinyl backed exterior White denier nylon interior 1/4" foam padding Durable handle w/ padded strap Hard plastic loops, clips & zippers 9'0-10'0 come with a full coffin zipper Velcro fin slot Sewn in California Dimensions: Finish length's are 3" longer than said size to allow breathing room7'0 x 25"7'6 x 25"8'0 x 25"9'0 x 27"9'6 x 27" 10'0 x 27" * There is an "oversized" shipping fee for travel bags, cost varies by location.
-  Updated: 2026-09-11T04:17:06Z
-  Vendor: Green Fuz
-  Product Type: Surfboard Day Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/WSSwindowseriesdrybagregular.jpg?v=1789549880
+  Price: $16.50 USD
+- [Holy Cannoli Flavored Coffee – 12oz Whole Bean or Ground | Bones Coffee](https://prelovedgear.com/products/holy-cannoli-flavored-coffee-12oz-whole-bean-ground): Sweet, creamy cannoli flavor meets smooth Brazilian Arabica. Zero sugar, keto-friendly, allergen free. 12oz whole bean or ground by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:16Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Warhol-Longboard-Board-Bag-1.jpg?v=1789094583
-  - [7'0](https://prelovedgear.com/products/warhol-mid-log?variant=49494914367643)
-    Availability: Available
-    Price: $215.00 USD
-  - [7'6](https://prelovedgear.com/products/warhol-mid-log?variant=49494914400411)
-    Availability: Not Available
-    Price: $220.00 USD
-  - [8'0](https://prelovedgear.com/products/warhol-mid-log?variant=49494914433179)
-    Availability: Not Available
-    Price: $225.00 USD
-  - [9'0](https://prelovedgear.com/products/warhol-mid-log?variant=49494914465947)
-    Availability: Not Available
-    Price: $260.00 USD
-  - [9'6](https://prelovedgear.com/products/warhol-mid-log?variant=49494914498715)
-    Availability: Not Available
-    Price: $265.00 USD
-  - [10'0](https://prelovedgear.com/products/warhol-mid-log?variant=49494914531483)
-    Availability: Available
-    Price: $270.00 USD
-- [Zinger - Short/Mid](https://prelovedgear.com/products/zinger-short-mid): The Green Fuz Zinger Board Bag is an all canvas bag in burnt orange with a checker stringer on the deck. It's made with our 12oz 100% cotton canvas, an anti-wax liner & a screened Green Fuz Patch. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Made in California Sizing: The 5'6-6'6 was made wit our beak nose template, recommended for boards up to 20' wide, and 7'0-8'0 is in the round, recommended for boards up to 22" wide, See Size Chart for details.
-  Updated: 2026-09-11T04:17:07Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/16c1ff64ebb8dc43bb4a04cb966e38d476083706c822f124022a0ee43939438c.jpg?v=1789634396
+  Price: $19.99 USD
+- [Better Brain Mushroom Coffee – Dark Roast | Bones Coffee Co.](https://prelovedgear.com/products/better-brain-mushroom-coffee-dark-roast-10oz): Bold dark roast arabica + premium mushroom extract. Mental clarity, clean energy, gut & immune support. Sugar-free, keto-friendly. 10oz bag by Bones Coffee.
+  Updated: 2026-09-18T10:52:21Z
+  Vendor: Bones Coffee Company
+  Product Type: Mushroom Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Zinger-Canvas-Surfboard-Bag-Main.jpg?v=1789094583
-  - [5'6](https://prelovedgear.com/products/zinger-short-mid?variant=49494914564251)
-    Availability: Not Available
-    Price: $145.00 USD
-  - [6'0](https://prelovedgear.com/products/zinger-short-mid?variant=49494914597019)
-    Availability: Not Available
-    Price: $150.00 USD
-  - [6'6](https://prelovedgear.com/products/zinger-short-mid?variant=49494914629787)
-    Availability: Available
-    Price: $155.00 USD
-  - [7'0](https://prelovedgear.com/products/zinger-short-mid?variant=49494914662555)
-    Availability: Available
-    Price: $160.00 USD
-  - [7'6](https://prelovedgear.com/products/zinger-short-mid?variant=49494914695323)
-    Availability: Not Available
-    Price: $165.00 USD
-  - [8'0](https://prelovedgear.com/products/zinger-short-mid?variant=49494914728091)
-    Availability: Available
-    Price: $170.00 USD
-- [Satellite - Fish/Hybrid](https://prelovedgear.com/products/satellite-fish-hybrid): Our Satellite padded day/travel board bag will give ya that extra protection you crave. Light enough for everyday use while able to withstand longer trips on your roof racks, or surf travel via plane. Water & mildew resistant. 600D polyester vinyl backed exterior White denier nylon interior 1/4" foam padding Durable handle w/ padded strap Hard plastic loops, clips & zippers Inner pocket for fins, wax, etc Handmade in California Dimensions: Finish length's are 2" longer than said size to allow breathing room5'6 x 25" 6'0 x 25"6'6 x 25"7'0 x 25" * There is an "oversized" shipping fee for travel bags, cost varies by location. * We do monthly runs of these bags, if your size is out of stock, hit the notify me email feature on this page or if you want a custom size hit us up at heygreenfuz@gmail.com for other requests.
-  Updated: 2026-09-11T04:19:58Z
-  Vendor: Green Fuz
-  Product Type: Surfboard Day Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Bones-Mush-Dark-10oz-Front_1.webp?v=1789690045
+  Price: $17.99 USD
+- [Breakfast Blend Coffee – 12oz Whole Bean | Bones Coffee Co.](https://prelovedgear.com/products/breakfast-blend-coffee-12oz-whole-bean-ground): Smooth medium roast with chocolate, honey & dried fruit notes. Rainforest Alliance , small-batch roasted. 12oz whole bean by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:44Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Satellite-Short-Padded-Bag-2026.jpg?v=1789094583
-  - [5’6](https://prelovedgear.com/products/satellite-fish-hybrid?variant=49494914859163)
-    Availability: Available
-    Price: $175.00 USD
-  - [6'0](https://prelovedgear.com/products/satellite-fish-hybrid?variant=49494914891931)
-    Availability: Not Available
-    Price: $180.00 USD
-  - [6'6](https://prelovedgear.com/products/satellite-fish-hybrid?variant=49494914924699)
-    Availability: Not Available
-    Price: $185.00 USD
-  - [7'0](https://prelovedgear.com/products/satellite-fish-hybrid?variant=49494914957467)
-    Availability: Not Available
-    Price: $190.00 USD
-- [Stereo - Round](https://prelovedgear.com/products/stereo-round): The Green Fuz Stereo Board Bag is an all canvas 2 panel bag, split vertically on center, with a burnt orange left side & a blue dusk right. It's made with a 12oz 100% cotton canvas, has the anti-wax deck liner & screened Green Fuz patch. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Made in California Sizing: The Round nose bag fit boards up to 22-23" wide. If you have more of a hybrid or performance fish surfboard & want a more tailored fit, consider our Beak shape bag. Board bags are 3-4” longer than the listed size, See Size Chart for details.
-  Updated: 2026-09-11T04:17:13Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Breakfast-Blend-Bones.webp?v=1789691007
+  Price: $19.99 USD
+- [Highland Grog Flavored Coffee – 12oz Whole Bean | Bones Coffee Co.](https://prelovedgear.com/products/highland-grog-flavored-coffee-12oz-whole-bean-ground): Bold spiced rum, butterscotch & caramel flavors in every cup. Small-batch roasted arabica. 12oz whole bean by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:35Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Stereo-Canvas-Board-Bag-Short_333472bb-2da7-4e4d-adae-aff2348cbfd8.jpg?v=1789094588
-  - [5'6](https://prelovedgear.com/products/stereo-round?variant=49494915678363)
-    Availability: Not Available
-    Price: $130.00 USD
-  - [6'0](https://prelovedgear.com/products/stereo-round?variant=49494915711131)
-    Availability: Not Available
-    Price: $130.00 USD
-  - [6'6](https://prelovedgear.com/products/stereo-round?variant=49494915743899)
-    Availability: Not Available
-    Price: $130.00 USD
-  - [7'0](https://prelovedgear.com/products/stereo-round?variant=49494915776667)
-    Availability: Not Available
-    Price: $140.00 USD
-  - [7'6](https://prelovedgear.com/products/stereo-round?variant=49494915809435)
-    Availability: Not Available
-    Price: $140.00 USD
-  - [8'0](https://prelovedgear.com/products/stereo-round?variant=49494915842203)
-    Availability: Available
-    Price: $140.00 USD
-  - [8'6](https://prelovedgear.com/products/stereo-round?variant=49494915874971)
-    Availability: Not Available
-    Price: $140.00 USD
-- [Blanco - Beak](https://prelovedgear.com/products/blanco-beak): The Green Fuz Blanco beak canvas board bag is made with a natural 12oz 100% cotton canvas, water resistant anit-wax liner & Green Fuz screened patch. This is our go to bag, perfect for hot days & lots of sun exposure. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Made in California Sizing: The beak bag was designed for fuller volume shortboards to more modern fishes. It has a pulled in nose & is slightly slimmer than our round nose bag, recommended for boards in the 19-20” x 2-2.5" range. For more traditional fishes we recommend the round nose bag. All bags are 3-4” longer than the listed size. See Size Chart for details.
-  Updated: 2026-09-11T04:17:13Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/a8443887c0dbbfc80db91cb316a4240597a69f3663012aaeec085612296ef34c.jpg?v=1789689144
+  Price: $19.99 USD
+- [Decaf Dark Chocolate Coffee – 12oz Whole Bean | Bones Coffee Co.](https://prelovedgear.com/products/decaf-army-of-dark-chocolate-flavored-coffee-12oz): Bold dark chocolate flavor, zero caffeine. Rainforest Alliance  decaf dark roast. 12oz whole bean by Bones Coffee Company. Great any time of day.
+  Updated: 2026-09-18T16:19:45Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Blanco-Canvas-Board-Bag-Beak-1.jpg?v=1789094588
-  - [5'6](https://prelovedgear.com/products/blanco-beak?variant=49494915907739)
-    Availability: Available
-    Price: $120.00 USD
-  - [6'0](https://prelovedgear.com/products/blanco-beak?variant=49494915940507)
-    Availability: Not Available
-    Price: $125.00 USD
-  - [6'6](https://prelovedgear.com/products/blanco-beak?variant=49494915973275)
-    Availability: Not Available
-    Price: $130.00 USD
-- [Satellite - Mid/Log](https://prelovedgear.com/products/satellite-mid-log): Our Satellite padded day/travel board bag will give ya that extra protection you crave. Light enough for everyday use while able to withstand longer trips on your roof racks, or surf travel via plane. Water & mildew resistant. Sewn in California. 600D poly/vinyl backed exterior White denier nylon interior 1/4" foam padding Durable handle w/ padded strap Hard plastic loops, clips & zippers 9'0-10'0 come with a full coffin zipper Velcro fin slot Sewn in California Dimensions: Finish length's are 3" longer than said size to allow breathing room7'0 x 25"7'6 x 25"8'0 x 25"9'0 x 27"9'6 x 27" 10'0 x 27" * There is an "oversized" shipping fee for travel bags, cost varies by location. * We do monthly runs of these bags, if your size is out of stock, hit the notify me email feature on this page or hit us up at heygreenfuz@gmail.com for other requests.
-  Updated: 2026-09-11T04:17:15Z
-  Vendor: Green Fuz
-  Product Type: Surfboard Day Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Decaf-ArmyofdarkFRONT-DECAF.webp?v=1789691459
+  Price: $19.99 USD
+- [Jamaican Me Crazy® Coffee – 12oz Whole Bean | Bones Coffee Co.](https://prelovedgear.com/products/jamaican-me-crazy®-coffee-12oz-whole-bean-ground): Smooth medium roast with vanilla, caramel & coffee liqueur flavor. Sustainably sourced arabica, freshly roasted. 12oz whole bean by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:17Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Satellite-Board-Bag-Mid-Long-1.jpg?v=1789094589
-  - [7'0](https://prelovedgear.com/products/satellite-mid-log?variant=49494916006043)
-    Availability: Available
-    Price: $190.00 USD
-  - [7'6](https://prelovedgear.com/products/satellite-mid-log?variant=49494916038811)
-    Availability: Available
-    Price: $210.00 USD
-  - [8'0](https://prelovedgear.com/products/satellite-mid-log?variant=49494916071579)
-    Availability: Not Available
-    Price: $215.00 USD
-  - [8'6](https://prelovedgear.com/products/satellite-mid-log?variant=49494916104347)
-    Availability: Not Available
-    Price: $220.00 USD
-  - [9'0](https://prelovedgear.com/products/satellite-mid-log?variant=49494916137115)
-    Availability: Not Available
-    Price: $240.00 USD
-  - [9'6](https://prelovedgear.com/products/satellite-mid-log?variant=49494916169883)
-    Availability: Available
-    Price: $250.00 USD
-  - [10'0](https://prelovedgear.com/products/satellite-mid-log?variant=49494916202651)
-    Availability: Available
-    Price: $260.00 USD
-- [Surplus - Beak](https://prelovedgear.com/products/surplus-beak): The Green Fuz Surplus beak canvas board bag is made with a Dark Khaki 12oz 100% cotton canvas, water resistant anit-wax liner & Green Fuz screened patch. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Handmade in California Sizing: The beak bag was designed for fuller volume shortboards to more modern fishes. It has a pulled in nose & is slightly slimmer than our round nose bag, recommended for boards in the 19-20” x 2-2.5" range. For more traditional fishes we recommend the round nose bag. All bags are 3-4” longer than the listed size. See Size Chart for details.
-  Updated: 2026-09-11T04:17:16Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/caa69550198102319f742f51022bd2c4eba58d5006e3c055b7559f4db1c5c461.jpg?v=1789689154
+  Price: $19.99 USD
+- [Churro Flavored Coffee – 12oz Whole Bean or Ground | Bones Coffee](https://prelovedgear.com/products/churro-coffee-12oz-whole-bean-ground): Warm cinnamon sugar churro flavor in every cup. Freshly roasted arabica, sustainably sourced. 12oz whole bean or ground by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:38Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Surplus-Canvas-Board-Bag-Beak-1c.jpg?v=1789094589
-  - [5'6](https://prelovedgear.com/products/surplus-beak?variant=49494916235419)
-    Availability: Available
-    Price: $120.00 USD
-  - [6'0](https://prelovedgear.com/products/surplus-beak?variant=49494916268187)
-    Availability: Available
-    Price: $125.00 USD
-  - [6'6](https://prelovedgear.com/products/surplus-beak?variant=49494916300955)
-    Availability: Available
-    Price: $130.00 USD
-- [Blanco - Round](https://prelovedgear.com/products/blanco-round): The Green Fuz Blanco (round) is a 2 panel canvas board bag made with a natural 12oz 100% cotton canvas. This is our go to bag for hot days & lots of sun exposure. Outer: 12oz Canvas Duck, 100% Cotton Liner: 200 Denier Water Repellent Nylon Patch: Screen Printed Canvas Patch Drawcord: Polyurethane Waterproof Cord Hardware: Plastic Anti-Rust Clasp Made in California Sizing: The Round nose bag will fit boards up to 22-23" wide. If you have more of a hybrid or performance fish surfboard & want a more tailored fit, consider our Beak shape bag. All board bags are 3-4” longer than the listed size. See Size Chart for details.
-  Updated: 2026-09-11T04:17:16Z
-  Vendor: Green Fuz
-  Product Type: Canvas Board Bag
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/09c59862a4ce3f2823749fa889473c6252645643411dbbaea3e02780bb2050b2.jpg?v=1789689158
+  Price: $19.99 USD
+- [High Voltage Coffee – Double Caffeine 12oz Whole Bean | Bones Coffee Co.](https://prelovedgear.com/products/high-voltage-coffee-12oz-whole-bean-ground-gift): Double the caffeine, all the flavor. Bold, hand-roasted whole bean coffee for those who need the extra kick. 12oz by Bones Coffee Company.
+  Updated: 2026-09-18T16:19:28Z
+  Vendor: Bones Coffee Company
+  Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Green-Fuz-Blanco-Canvas-Board-Bag-Front-1_c29180f7-4593-4fe0-ac68-4ff959b78a79.jpg?v=1789094589
-  - [5'6](https://prelovedgear.com/products/blanco-round?variant=49494916333723)
-    Availability: Available
-    Price: $120.00 USD
-  - [6'0](https://prelovedgear.com/products/blanco-round?variant=49494916366491)
-    Availability: Not Available
-    Price: $125.00 USD
-  - [6'6](https://prelovedgear.com/products/blanco-round?variant=49494916399259)
-    Availability: Not Available
-    Price: $130.00 USD
-  - [7'0](https://prelovedgear.com/products/blanco-round?variant=49494916432027)
-    Availability: Available
-    Price: $135.00 USD
-  - [7'6](https://prelovedgear.com/products/blanco-round?variant=49494916464795)
-    Availability: Available
-    Price: $140.00 USD
-  - [8'0](https://prelovedgear.com/products/blanco-round?variant=49494916497563)
-    Availability: Not Available
-    Price: $145.00 USD
-  - [8'6](https://prelovedgear.com/products/blanco-round?variant=49494916530331)
-    Availability: Available
-    Price: $150.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/95cf9a9eae9c702244f58b888cf860b67a9d31f1814efd254eecae936817e759.jpg?v=1789689163
+  Price: $19.99 USD
+- [Smash Pop Espresso Ground Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/organic-espresso-ground-coffee-smash-pop-10oz-tin): Bold espresso blend with deep chocolate, dried fruit & subtle citrus. Post-roast Fusion blend,  organic, reusable tin. Ground by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:42Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/9db17ce0ee3704128842c02adf93673ebe77a1c3ac65239877a15c8fadd90837.png?v=1789689165
+  Price: $20.99 USD
+- [Yeah, Yeah! Medium-Dark Roast Ground Coffee – 10oz Organic Tin | Rare Breed](https://prelovedgear.com/products/medium-dark-ground-coffee-yeah-yeah-10oz-tin): Bold medium-dark roast ground coffee with baker's chocolate & caramel.  organic, Fusion Roast, reusable steel tin by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:46Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/1adc04bfb5c52244b262c7f71e15efbca29ce258c73e5f0db0741627f0187c1a.jpg?v=1789689168
+  Price: $19.99 USD
+- [Mind Warp Light Roast Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/light-roast-whole-bean-coffee-mind-warp-10oz-tin): Complex light roast with natural cane sugar sweetness, bright acidity & creamy body.  organic, Fusion Roast, reusable tin. Whole bean by Rare Breed.
+  Updated: 2026-09-18T16:19:39Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/373f545686024dec98cbf02f8608ca98b64a5a81be415582034738d753663061.png?v=1789689173
+  Price: $19.99 USD
+- [Mild Riot Decaf Hazelnut Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/decaf-whole-bean-coffee-mild-riot-hazelnut-10oz): Complex medium decaf roast with cocoa, hazelnut & milk chocolate. Sugarcane decaf process,  organic, reusable tin. Whole bean by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:35Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/ef4c9c56f1436fa575f1b7b28fad59f7b88b83a9207733c1448a67be6596596e.png?v=1789689177
+  Price: $19.99 USD
+- [Wild Muse Natural Process Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/natural-process-whole-bean-coffee-wild-muse-10oz): Natural process medium roast with fresh strawberry, tart balance & wine-like depth.  organic, Horizon Blend, reusable tin. Whole bean by Rare Breed.
+  Updated: 2026-09-18T16:19:41Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/7f7dad9019e46d45d09f4131703b9882d41a217460b615a166f49c03b78da00d.webp?v=1789689180
+  Price: $19.99 USD
+- [Cat Magic Medium Roast Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/medium-roast-whole-bean-coffee-cat-magic-10oz-tin): Syrupy sweet medium roast with dried berries & port wine notes. Washed & natural process blend.  organic, Fusion Roast, reusable tin by Rare Breed.
+  Updated: 2026-09-18T16:19:38Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/dd3b028f0800d1768a9aabec3786d967126cd371f4153c0ead0a68e2355ea7e5.png?v=1789689186
+  Price: $19.99 USD
+- [Smash Pop Espresso Whole Bean Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/organic-espresso-whole-bean-coffee-smash-pop-10oz): Bold espresso blend with deep chocolate, dried fruit & subtle citrus. Post-roast Fusion blend,  organic, reusable tin. Whole bean by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:47Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/a66fa0aaa4b4f0594187f627ed9dacfb6ddfa7acd7781046c7938dc1ce0aa6ce.png?v=1789689189
+  Price: $20.99 USD
+- [Super Groove Dark Roast Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/dark-roast-whole-bean-coffee-super-groove-10oz-tin): Rich dark roast with deep vanilla & dark chocolate. Heavy velvety body,  organic, Fusion Roast. Whole bean 10oz in a reusable tin by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:48Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/f7a9ebdca4f8a5bb91a5697a8e5724a85110a6167ce2042b46adae8bf94ecf8b.png?v=1789689194
+  Price: $21.99 USD
+- [Neon Venom Light Espresso Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/light-espresso-whole-bean-coffee-neon-venom-10oz): Bright light espresso with floral, citrus & cookie notes. Intensifies as it cools.  organic, Fusion Roast, reusable tin. Whole bean by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:36Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/1777e36a67ff33a5097bb45595e0549cc9e8ae66fd092e2f23eb808abed6d7b2.png?v=1789689198
+  Price: $19.99 USD
+- [Off Leash Medium Roast Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/medium-roast-whole-bean-coffee-off-leash-10oz-tin): Vibrant medium roast with dark berry, honey & crisp apple notes. 100% pure,  organic, Fusion Roast. Whole bean in a reusable steel tin by Rare Breed.
+  Updated: 2026-09-18T16:19:50Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/ac9ac23c425d3dc99b74c0ce0b643734f6de3f702a82dbd055a4f598ab3eac12.jpg?v=1789689200
+  Price: $19.99 USD
+- [Yeah, Yeah! Medium-Dark Roast Coffee – 10oz Organic Tin | Rare Breed Coffee](https://prelovedgear.com/products/medium-dark-whole-bean-coffee-yeah-yeah-10oz): Bold medium-dark roast with baker's chocolate & caramel. 100% pure,  organic, Fusion Roast. Whole bean in a reusable steel tin by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:47Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/e2331e7103aa901e18fd655df6fa75aeab109be7c37703d1b1eb0d4a94e349bf.jpg?v=1789689204
+  Price: $19.99 USD
+- [Son of a Beach Summer Coffee – Limited Edition Organic 10oz Tin | Rare Breed](https://prelovedgear.com/products/summer-seasonal-whole-bean-coffee-son-of-a-beach-10oz-tin): Crisp organic medium roast with citrus & chocolate notes. Fusion Roast, reusable steel tin, limited edition art. Whole bean summer seasonal by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:49Z
+  Vendor: Rare Breed Coffee
+  Product Type: Coffee Beans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/5a59f80544cbde11d1b8ac93dff8ddf26d993721640801c481704a2af5fd98f8.png?v=1789689210
+  Price: $19.99 USD
+- [Neon Venom Bulk Light Espresso Coffee – 5lb Whole Bean Bag | Rare Breed](https://prelovedgear.com/products/bulk-espresso-whole-bean-coffee-neon-venom-5lb-bag): Intense light espresso with floral, citrus & cookie notes. Pre-roast blend,  organic, Fusion Roast. 5lb bulk whole bean bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:22Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/23b8e0ab397f72c999e72b66e19d9961475b8d37b0e3220aaf88a0a51f0d0e0b.png?v=1789689213
+  Price: $100.99 USD
+- [Smash Pop Bulk Espresso Coffee – 5lb Whole Bean Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-espresso-whole-bean-coffee-smash-pop-5lb-bag): Hyper-expressive espresso with citrus, dark chocolate & dried fruit. Lower acidity, long finish,  organic, Fusion Roast. 5lb bulk whole bean by Rare Breed.
+  Updated: 2026-09-18T16:19:30Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/b9a85882657c94f9a7ad9f0e5db7d415c1d7a19a04b3d813d71a8631c0b35430.png?v=1789689217
+  Price: $100.99 USD
+- [Cat Magic Bulk Medium Roast Ground Coffee – 5lb Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-medium-roast-ground-coffee-cat-magic-5lb-bag): Earthy-sweet medium roast with syrupy sweetness, dried berries & port wine.  organic, Fusion Roast. 5lb bulk ground bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:31Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/2156d59251303420241ec401e14d19dc4c90488a617695b1ed926ded091311aa.png?v=1789689221
+  Price: $96.99 USD
+- [Yeah, Yeah! Bulk Medium-Dark Roast Coffee – 5lb Whole Bean Bag | Rare Breed](https://prelovedgear.com/products/bulk-medium-roast-whole-bean-coffee-yeah-yeah-5lb-bag): Bold medium-dark roast with baker's chocolate & caramel. 100% pure,  organic, Fusion Roast. 5lb bulk whole bean bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:28Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/09ffa44adee951758e70732e20011a53edc8efb2dbad1d72659f547b408803ad.png?v=1789689226
+  Price: $87.99 USD
+- [Head Trip Bulk Decaf Espresso – 5lb Whole Bean Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-decaf-whole-bean-coffee-head-trip-5lb-bag): Bold decaf espresso with dark chocolate, graham cracker & clean acidity. Cane Sugar EA decaf,  organic, 5lb bulk whole bean by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:40Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/641a7fe615ae764d108638f35ce298d3ec2ffe9f157067fc62566889e0d6d22b.png?v=1789689228
+  Price: $96.99 USD
+- [Cat Magic Bulk Medium Roast Coffee – 5lb Whole Bean Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-medium-roast-whole-bean-coffee-cat-magic-5lb-bag): Earthy-sweet medium roast with syrupy sweetness, dried berries & port wine.  organic, Fusion Roast. 5lb bulk whole bean bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:33Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/2156d59251303420241ec401e14d19dc4c90488a617695b1ed926ded091311aa_3c59857a-4c23-455e-9eb2-10413c598471.png?v=1789689231
+  Price: $96.99 USD
+- [Super Groove Bulk Dark Roast Coffee – 5lb Whole Bean Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-dark-roast-whole-bean-coffee-super-groove-5lb-bag): Rich dark roast with deep vanilla & dark chocolate. Heavy velvety body,  organic, Fusion Roast. 5lb bulk whole bean bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:18Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/51182fa2bd7babe3caf0ee4611f676fa4fa027cf38d6efd1f9ebe3f7d688652f.png?v=1789689235
+  Price: $90.99 USD
+- [Yeah, Yeah! Bulk Medium-Dark Roast Ground Coffee – 5lb Bag | Rare Breed](https://prelovedgear.com/products/bulk-medium-roast-ground-coffee-yeah-yeah-5lb-bag): Bold medium-dark roast ground coffee with baker's chocolate & caramel. 100% pure,  organic, Fusion Roast. 5lb bulk bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:44Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/09ffa44adee951758e70732e20011a53edc8efb2dbad1d72659f547b408803ad_60b9f1ce-c62a-4df6-83f4-124240a0e95a.png?v=1789689238
+  Price: $87.99 USD
+- [Super Groove Bulk Dark Roast Ground Coffee – 5lb Bag | Rare Breed Coffee](https://prelovedgear.com/products/bulk-dark-roast-ground-coffee-super-groove-5lb-bag): Rich dark roast with deep vanilla & dark chocolate. Heavy velvety body,  organic, Fusion Roast. 5lb bulk ground bag by Rare Breed Coffee.
+  Updated: 2026-09-18T16:19:30Z
+  Vendor: Rare Breed Coffee
+  Product Type: Bulk Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/51182fa2bd7babe3caf0ee4611f676fa4fa027cf38d6efd1f9ebe3f7d688652f_3f9832d1-7c5d-42e3-8261-f45018dd6ee9.png?v=1789689242
+  Price: $90.99 USD
+- [Better Brain Mushroom Coffee – Medium Roast | Bones Coffee Co.](https://prelovedgear.com/products/better-brain-mushroom-coffee-medium-roast-10oz): Smooth medium roast arabica + premium mushroom extract. Mental clarity, clean energy, gut & immune support. Sugar-free, keto-friendly. 10oz by Bones Coffee.
+  Updated: 2026-09-18T16:19:37Z
+  Vendor: Bones Coffee Company
+  Product Type: Mushroom Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Bones_Mushroom-Med-10oz-Front-OC26.webp?v=1789636994
+  Price: $17.99 USD
+- [Shroomates Bundle – Better Brain Mushroom Coffee Dark & Medium Roast | Bones Coffee](https://prelovedgear.com/products/shroomates-bundle-better-brain-mushroom-coffee-dark-medium-roast-2x-10oz): Get both Better Brain Mushroom Coffee roasts in one bundle. Mental clarity, clean energy, gut & immune support. 2x 10oz by Bones Coffee. Save vs buying separately.
+  Updated: 2026-09-18T12:39:21Z
+  Vendor: Bones Coffee Company
+  Product Type: Mushroom Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0784/0314/1787/files/Shroomates-Bunlde-Ocoee_Mush-Dark-10oz-Front_d273eb3e-e485-4e0c-a9bf-03063431e989.webp?v=1789685849
+  Price: $33.99 USD
 
 ## Collections
 
-- [Featured Gear](https://prelovedgear.com/collections/frontpage): Hand-picked new and pre-loved outdoor gear worth a second look. Featured on the  — updated as new inventory arrives.
-  Updated: 2026-09-11T02:16:28Z
-  Total Products: 4
-- [New Gear](https://prelovedgear.com/collections/new-gear): Shop the latest pre-loved outdoor gear arrivals at PreLoved G+. New finds added regularly — waterproof bags, packs & more at unbeatable prices.
-  Updated: 2026-09-11T03:13:38Z
-  Total Products: 7
-- [Dry Bags](https://prelovedgear.com/collections/drybags): Shop pre-loved Watershed dry bags built for extended river trips, kayaking & overland adventures. Expedition-proven gear at PreLoved G+.
-  Updated: 2026-09-11T03:13:38Z
+- [Featured Gear](https://prelovedgear.com/collections/frontpage): Shop hand-picked outdoor gear at PreLoved G+. Discover new and gently used dry bags, packs, duffels, and more — updated regularly as fresh inventory arrives. Sustainably sourced, adventure-ready.
+  Updated: 2026-09-16T09:22:39Z
+  Total Products: 9
+- [New Gear](https://prelovedgear.com/collections/new-gear): Shop new outdoor gear arrivals at PreLoved G+. Hand-picked dry bags, expedition duffels, paddling packs, and surf accessories from trusted suppliers. Updated regularly — grab it before it's gone.
+  Updated: 2026-09-16T09:22:39Z
+  Total Products: 9
+- [Dry Bags](https://prelovedgear.com/collections/drybags): Shop pre-loved and new waterproof dry bags at PreLoved G+. Expedition duffels, kayaking packs, and roll-top dry bags from Watershed and more. Built for rivers, rafting, and overland adventure.
+  Updated: 2026-09-16T09:22:39Z
+  Total Products: 9
+- [Final ](https://prelovedgear.com/collections/final-): Last chance deals on outdoor gear at PreLoved G+. Shop  dry bags, packs, duffels, and paddling gear — new and pre-loved — at deeply discounted prices. No returns. While supplies last.
+  Updated: 2026-09-16T08:08:56Z
   Total Products: 8
-- [Board Bags](https://prelovedgear.com/collections/board-bags): SUP & Surf ~ Board Bags Premium Materials - Crafted from premium materials chosen for durability, longevity, and everyday use. Handmade in California - Stitched by hands rooted in surfing. Care Instructions WASHING: To avoid shrinking and fading Green Fuz recommends that you hand wash your bag in cold water and hang it out to dry. No Washing Machines! If you get excessive wax on the inside liner of your bag, simply flip it inside out, leave it out in the hot sun until the wax softens up & wipe it off with a rag. Your bag will have a whole new life! STORAGE: Green Fuz recommends storing your bag in a cool dry place just as you would your shtick. Organic Cotton Canvas can potentially mold if left for too long in a damp environment. Example: on top of your rig for multiple nights, on your stoop at your Hawaiian beach pad.
-  Updated: 2026-09-11T03:13:38Z
-  Total Products: 10
+- [PreLoved Gear + Apparel](https://prelovedgear.com/collections/preloved-gear-apparel): Shop gently used outdoor gear and apparel at PreLoved G+. Expedition-proven packs, dry bags, jackets, and base layers — inspected, fairly priced, and ready for your next adventure.
+  Updated: 2026-09-16T08:08:23Z
+  Total Products: 0
+- [Watershed Dry Bags](https://prelovedgear.com/collections/watershed-dry-bags): Shop new and gently used Watershed dry bags at PreLoved G+. Waterproof roll-top duffels, backpacks, and zip-seal bags built for kayaking, rafting, and paddling. Sustainably sourced, adventure-ready.
+  Updated: 2026-09-16T08:08:56Z
+  Total Products: 8
+- [Coffee Beans](https://prelovedgear.com/collections/coffee-beans): A few of our favorite Roasts & Roasters! Bones Coffee featuring two Brain Health Mushroom Blends, paving the path for morning rituals. highlight perks - (see bag benefits) (add Shroomates Bundle. Rave Coffee. Whole Bean and Ground 10oz Tins & 5lb Bulk Bags oth blends) - PreLoved G+
+  Updated: 2026-09-18T21:02:42Z
+  Total Products: 32
+- [Bulk Coffee](https://prelovedgear.com/collections/bulk-coffee): - PreLoved G+
+  Updated: 2026-09-18T22:15:09Z
+  Total Products: 8
 
 ## Store Pages
 
-- [Contact](https://prelovedgear.com/pages/contact)
-  Updated: 2026-09-10T18:58:57Z
-- [Your Privacy Choices](https://prelovedgear.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-09-10T18:58:59Z
-- [About Us – PreLoved G+ | Sustainable Pre-Loved Outdoor Gear](https://prelovedgear.com/pages/about-us): Built Once. Loved Twice.PreLoved G+ is a sustainable marketplace built for explorers who believe great gear deserves more than one adventure. We sp...
-  Updated: 2026-09-11T03:47:50Z
+- [Contact PreLoved G+ | Outdoor & Adventure Gear](https://prelovedgear.com/pages/contact): Get in TouchHave a question about a piece of gear, an order, or just want to talk shop? We'd love to hear from you. Fill out the form below and we'...
+  Updated: 2026-09-11T06:45:00Z
+- [Your Privacy Choices | PreLoved G+](https://prelovedgear.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-09-11T06:43:40Z
+- [About PreLoved G+ | Pre-Loved Outdoor Gear Marketplace](https://prelovedgear.com/pages/about-us): 
+  Updated: 2026-09-16T23:34:35Z
+- [HTML Sitemap](https://prelovedgear.com/pages/html-sitemap): Products Watershed Big Creek Day Pack: Your Ultimate Waterproof Adventure Companion Friday Equipment Pickleball Backpack Watershed Colorado Dry Duf...
+  Updated: 2026-09-11T09:42:59Z
+- [Tour de Launch — Coming Soon | PreLoved G+](https://prelovedgear.com/pages/tour-de-launch): TOUR DE LAUNCH 🚀 Coming Soon Something big is dropping at PreLoved G+. Stay tuned for an exciting new launch — gear, deals, and adventures worth wa...
+  Updated: 2026-09-16T23:40:18Z
 
 ## Policies
 
 - [Privacy Policy](https://prelovedgear.com/policies/privacy-policy)
   Updated: 2026-09-10T14:59:01-04:00
 - [Shipping Policy](https://prelovedgear.com/policies/shipping-policy)
-  Updated: 2026-09-10T18:58:52-04:00
+  Updated: 2026-09-14T09:05:20-04:00
 - [Refund Policy](https://prelovedgear.com/policies/refund-policy)
-  Updated: 2026-09-10T18:48:31-04:00
+  Updated: 2026-09-14T09:10:47-04:00
 - [Terms of Service](https://prelovedgear.com/policies/terms-of-service)
   Updated: 2026-09-10T18:54:13-04:00
 - [Contact Information](https://prelovedgear.com/policies/contact-information)
