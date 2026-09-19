@@ -10,80 +10,87 @@
 - Contact Email: office@nircura.com
 - Contact Phone: +40 728 553 355
 - Address: Str. Intrarea Roma 7, Sector 1, București, 011772
-- Updated At: 2026-09-11T00:00:44.697Z
+- Updated At: 2026-09-19T00:00:45.655Z
 
 ## Products
 
 - [Centură cu lumină roșie - Nircura Light Belt Pro](https://www.nircura.ro/products/nircura-light-belt-pro): Nircura Light Belt Pro - centură cu lumină roșie Recuperare rapidă, aplicare focalizată Nircura Light Belt Pro este un dispozitiv premium de fotobiomodulare, creat pentru a reduce durerea și disconfortul, ce susține regenerarea țesuturilor și îmbunătățirea circulației, totul într-un format confortabil și ușor de folosit oriunde te-ai afla. Dispozitivul cu lumină roșie combină două lungimi de undă eficiente cu un sistem inteligent de pulsare pentru rezultate complete într-o singură sesiune. Centura pentru fototerapie acasă Nircura susține refacerea pielii și a țesuturilor, relaxarea musculară, confortul articular și recuperarea după efort, într-un mod eficient și echilibrat. Beneficiile centurii pentru fototerapie acasă Nircura Light Belt Pro Reduce durerea cronică și acută: în urma utilizării repetate, utilizatorii observă de obicei o diminuare a disconfortului în zonele frecvent afectate (gât, umeri, spate, talie, șolduri, genunchi, coate, mâini), precum și un nivel general mai scăzut al durerii resimțite în timpul activităților zilnice. Rigiditate redusă și mobilitate îmbunătățită: prin utilizare regulată, zonele tensionate tind să se relaxeze, iar articulațiile se simt mai puțin rigide, ceea ce face mișcarea mai fluidă dimineața, după perioadele de stat pe scaun sau după antrenamente. Recuperare sportivă mai rapidă (după antrenamente, suprasolicitare sau efort intens): sesiunile regulate cu acest aparat pentru recuperare sportivă susțin refacerea țesuturilor, astfel încât febra musculară și disconfortul se diminuează rapid, iar organismul revine la starea de echilibru, reducând zilele de pauză după efort. Reduce inflamația – sprijin în artrită, tendinită, contracturi musculare: centura Nicura Light Belt Pro este utilă în cazurile de articulații solicitate, tendoane suprasolicitate sau contracturi musculare, ajutând corpul să revină treptat la o stare de confort și mobilitate mai bună, ca parte a unei rutine regulate de recuperare. Calitate mai bună a somnului și relaxare îmbunătățită: pe măsură ce durerea și tensiunea se reduc, adormirea devine mai ușoară, iar trezirile nocturne tind să se diminueze, contribuind în timp la un somn mai profund și mai odihnitor. Performanță zilnică constantă și stare de spirit îmbunătățită: mai puțin disconfort și un somn mai bun se traduc adesea prin concentrare mai bună, o toleranță mai mare la stres și un nivel de energie mai ridicat de la o zi la alta. Susținerea rezilienței pe termen lung: în timp, utilizarea consecventă ajută organismul să gestioneze mai bine solicitările fizice și stresul cotidian, contribuind la reducerea reapariției disconfortului și la îmbunătățirea confortului zilnic. De ce să alegi centura pentru terapie cu lumină roșie Nircura Light Belt Pro 152 de LED-uri cu tehnologie 3-core (456 puncte de lumină): mai multă lumină utilă distribuită compact pentru ca tu sa te bucuri de sesiuni mai eficiente Terapie duală într-o singură sesiune (240 puncte de lumină roșie 660 nm + 216 puncte de lumină infraroșu apropiat 850 nm): regenerare simultană la nivel superficial și în profunzimea țesuturilor 5 niveluri de frecvență incorporate (147 Hz, 294 Hz, 587 Hz, 1174 Hz, 4625 Hz): eficiență optimă fără a crește intensitatea Materiale premium, sigure pentru piele (interfață din silicon alimentar): senzație plăcută la atingere și confort termic Design versatil (doar 0,5 kg, curele reglabile): fixare confortabilă pe diverse zone ale corpului O experiență de terapie completă adaptată vieții de zi cu zi (flexibilă, ușor de transportat): dezvoltată pentru consecvență fără efort Cui se adresează centura cu lumină infraroșie Nircura Light Belt Pro Persoanelor cu dureri fizice cronice sau recurente Persoanelor active și sportivilor, amatori sau de performanță Persoanelor cu afecțiuni inflamatorii sau disconfort asociat inflamației Angajaților cu muncă de birou Persoanelor sedentare Persoanelor aflate în recuperare (după accidentări, intervenții chirurgicale sau ca suport în fizioterapie) Adulților în vârstă, care doresc mai mult confort și mobilitate zilnică Persoanelor orientate spre longevitate și menținerea sănătății pe termen lung Persoanelor cu nivel ridicat de stres sau cu probleme de somn Nircura Light Belt Pro: specificații tehnice LED-uri: 152 LED-uri cu 3 nuclee (456 puncte de lumină – 240 roșu + 216 infraroșu apropiat) Lungime de undă: 660 nm + 850 nm Frecvențe de pulsare: 147 / 294 / 587 / 1174 / 4625 HzTimer: 5–30 minute + oprire automatăPutere: 8 WAlimentare (intrare): 100–240 V AC, 50–60 HzIeșire: 12 V ⎓ 1,67 AGreutate: 0,5 kg Nota de informare: acest dispozitiv non-invaziv este destinat susținerii stării generale de bine. Nu este conceput pentru a diagnostica, trata, vindeca sau preveni afecțiuni medicale.Rezultatele pot varia de la o persoană la alta.
-  Updated: 2026-08-28T23:59:37Z
+  Updated: 2026-09-17T21:30:21Z
   Vendor: Nircura
   Product Type: Dispozitive Portabile si semi-portabile
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/NircuraLightBeltProLed-uriaprinse.png?v=1778574789
   Price: 2.500,00 lei RON
 - [Nircura Physio Heal Ultra – Pad-uri red light therapy](https://www.nircura.ro/products/nircura-physio-heal-ultra): Sistem modular cu 3 pad-uri de fotobiomodulare 660 nm + 850 nm pentru recuperare musculara, confort articular si regenerare tisulara localizata.
-  Updated: 2026-08-28T23:59:38Z
+  Updated: 2026-09-17T21:30:55Z
   Vendor: Nircura
   Product Type: Dispozitive Portabile si semi-portabile
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/NircuraPhysioHealUltraled-uriaprinse.png?v=1778574767
   Price: 6.000,00 lei RON
 - [Sapca lumina rosie Nircura Regena Hair Cap | Dispozitiv crestere par](https://www.nircura.ro/products/regena-hair-cap): Dispozitiv cu lumina rosie 650 nm si 200 diode laser pentru regenerarea parului. Sustine reducerea caderii parului si indesirea parului prin fotobiomodulare non-invaziva.
-  Updated: 2026-08-28T23:59:38Z
+  Updated: 2026-09-17T21:31:19Z
   Vendor: Nircura
   Product Type: Căști și șepci
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/RegenaHairCapLed-uriaprinse.png?v=1778762664
   Price: 5.000,00 lei RON
 - [Patura fotobiomodulare Nircura 360° Upgrade](https://www.nircura.ro/products/nircura-360-upgrade): Patura premium de fotobiomodulare full body cu lumina rosie 660 nm si NIR 850 nm. Sustine recuperarea musculara, sanatatea pielii, relaxarea si vitalitatea.
-  Updated: 2026-08-28T23:59:39Z
+  Updated: 2026-09-17T21:31:36Z
   Vendor: Nircura
   Product Type: Echipamente full body
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/360Upgrade2.png?v=1771421111
   Price: 11.600,00 lei RON
 - [Panou compact lumina rosie Nircura Cellular Elevation PRO](https://www.nircura.ro/products/cellular-elevation-pro): Panou compact cu lumina rosie 660 nm si NIR 850 nm pentru regenerare, recuperare musculara si sanatatea pielii. Ideal pentru utilizare zilnica si aplicare locala.
-  Updated: 2026-08-28T23:59:39Z
+  Updated: 2026-09-17T21:32:01Z
   Vendor: Nircura
   Product Type: Panouri si suporturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/CellularElevationPro1.png?v=1771421717
   Price: 5.000,00 lei RON
 - [Panou mediu cu lumina rosie Nircura Cellular Elevation MAX](https://www.nircura.ro/products/cellular-elevation-max): Panou premium cu lumina rosie 660 nm si NIR 850 nm pentru regenerare, recuperare musculara, sanatatea pielii si vitalitate zilnica. Dimensiune medie.
-  Updated: 2026-08-28T23:59:39Z
+  Updated: 2026-09-17T21:32:11Z
   Vendor: Nircura
   Product Type: Panouri si suporturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/CellularElevationMax1.png?v=1771422397
   Price: 7.500,00 lei RON
 - [Panou red light therapy full body Nircura Cellular Elevation ULTRA](https://www.nircura.ro/products/cellular-elevation-ultra): Panou premium cu lumina rosie 660 nm si NIR 850 nm pentru regenerare, recuperare musculara, sanatatea pielii si vitalitate zilnica. Acoperire completa full body.
-  Updated: 2026-08-28T23:59:40Z
+  Updated: 2026-09-17T21:32:24Z
   Vendor: Nircura
   Product Type: Panouri si suporturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/CellularElevationUltra1.png?v=1771422823
   Price: 10.000,00 lei RON
 - [Nircura Floor Stand Premium – Suport panouri lumina rosie](https://www.nircura.ro/products/nircura-floor-stand-premium): Suport premium pentru panouri cu lumina rosie, cu reglaj pneumatic si baza mobila. Permite pozitionare flexibila pentru sesiuni confortabile de red light therapy.
-  Updated: 2026-08-28T23:59:40Z
+  Updated: 2026-09-17T21:32:34Z
   Vendor: Nircura
   Product Type: Panouri si suporturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/Nircurafloorstandpremium1.jpg?v=1771423260
   Price: 5.000,00 lei RON
 - [Suport panouri lumina rosie Nircura Floor Stand Enhanced](https://www.nircura.ro/products/nircura-floor-stand-enhanced): Suport mobil pentru panourile Nircura Cellular Elevation Max si Ultra. Design stabil, cu roti si montaj rapid, pentru sesiuni confortabile de red light therapy.
-  Updated: 2026-08-28T23:59:40Z
+  Updated: 2026-09-17T21:32:48Z
   Vendor: Nircura
   Product Type: Panouri si suporturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/Nircurafloorstandenhanced1.jpg?v=1771423739
   Price: 1.000,00 lei RON
 - [Nircura NeuroSINC 2100 – Casca fotobiomodulare pentru creier](https://www.nircura.ro/products/nircura-neurosinc-2100): Casca avansata de fotobiomodulare cu lumina NIR pentru optimizarea functiilor cognitive, claritate mentala si sustinerea echilibrului neurofiziologic.
-  Updated: 2026-08-28T23:59:41Z
+  Updated: 2026-09-17T21:33:02Z
   Vendor: Nircura
   Product Type: Căști și șepci
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/NircuraNeuroSINC2100.jpg?v=1771424091
   Price: 35.000,00 lei RON
+- [Masca LED multispectru Nircura AmateraSKIN](https://www.nircura.ro/products/nircura-amateraskin): Masca LED faciala multispectru pentru rutine moderne de skincare acasa. Sustine luminozitatea tenului, textura uniforma si ingrijirea pielii predispuse la imperfectiuni.
+  Updated: 2026-09-17T18:46:01Z
+  Vendor: Nircura
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/2473/3773/files/AmateraSkin_Front.jpg?v=1789134811
+  Price: 1.750,00 lei RON
 
 ## Collections
 
@@ -106,19 +113,19 @@
   Updated: 2026-06-12T11:22:32Z
   Total Products: 12
 - [Cele mai noi inovații](https://www.nircura.ro/collections/cele-mai-noi-inovații-1)
-  Updated: 2026-05-14T10:43:52Z
+  Updated: 2026-09-11T12:24:19Z
   Total Products: 0
 - [Măști faciale](https://www.nircura.ro/collections/maști-faciale-1)
-  Updated: 2026-05-14T10:43:30Z
-  Total Products: 0
+  Updated: 2026-09-18T11:20:57Z
+  Total Products: 1
 - [Recuperare & sport](https://www.nircura.ro/collections/recuperare-sport)
   Updated: 2026-05-08T22:52:54Z
   Total Products: 5
 - [Mască facială & îngrijire piele](https://www.nircura.ro/collections/masca-faciala-ingrijire-piele)
-  Updated: 2026-05-08T22:52:54Z
+  Updated: 2026-09-18T11:20:57Z
   Total Products: 7
 - [Creștere & regenerare păr](https://www.nircura.ro/collections/creștere-regenerare-par)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-11T12:30:36Z
   Total Products: 1
 - [Somn & relaxare](https://www.nircura.ro/collections/somn-relaxare)
   Updated: 2026-05-08T22:52:54Z
@@ -130,68 +137,68 @@
   Updated: 2026-05-08T22:52:54Z
   Total Products: 4
 - [Kinetoterapie & recuperare ă](https://www.nircura.ro/collections/kinetoterapie-recuperare-medicala)
-  Updated: 2026-05-27T11:19:09Z
+  Updated: 2026-09-11T12:28:06Z
   Total Products: 10
 - [SPA & wellness](https://www.nircura.ro/collections/spa-wellness)
   Updated: 2026-05-08T22:52:55Z
   Total Products: 7
 - [Fitness & performance](https://www.nircura.ro/collections/fitness-performance)
-  Updated: 2026-05-27T11:19:09Z
+  Updated: 2026-09-11T12:29:11Z
   Total Products: 9
 - [Dermatologie & Estetică](https://www.nircura.ro/collections/dermatologie-estetica)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-18T11:20:57Z
   Total Products: 8
 - [Psihologie & Psihiatrie](https://www.nircura.ro/collections/psihologie-psihiatrie)
-  Updated: 2026-05-27T11:19:09Z
+  Updated: 2026-09-11T12:27:52Z
   Total Products: 2
-- [Panouri LED (corp)](https://www.nircura.ro/collections/panouri-led-corp)
-  Updated: 2026-05-08T22:52:55Z
+- [Panouri LED (corp)](https://www.nircura.ro/collections/panouri-led-corp): Panouri LED corp pentru terapie cu lumină roșie & infraroșu! Eficacitate clinică, uz casnic. Alege dimensiunea potrivită și comandă cu livrare rapidă!
+  Updated: 2026-09-14T10:15:33Z
   Total Products: 3
-- [Dispozitive scalp & creștere păr](https://www.nircura.ro/collections/dispozitive-scalp-creștere-par)
-  Updated: 2026-06-12T11:22:32Z
+- [Dispozitive scalp & creștere păr](https://www.nircura.ro/collections/dispozitive-scalp-creștere-par): Stimulează creșterea părului cu dispozitive scalp cu lumină roșie. Rezultate vizibile, tehnologie dovedită clinic. Descoperă gama și comandă acum!
+  Updated: 2026-09-14T10:13:22Z
   Total Products: 1
-- [Măști faciale lumină roșie](https://www.nircura.ro/collections/maști-faciale-lumina-roșie)
-  Updated: 2026-05-14T10:44:44Z
+- [Măști faciale lumină roșie](https://www.nircura.ro/collections/maști-faciale-lumina-roșie): Măști LED faciale cu lumină roșie anti-acnee, anti-riduri și rejuvenare acasă. Descoperă colecția și comandă masca potrivită tipului tău de piele!
+  Updated: 2026-09-18T11:20:57Z
   Total Products: 2
-- [Căști & dispozitive neuro](https://www.nircura.ro/collections/caști-dispozitive-neuro)
-  Updated: 2026-05-27T11:19:09Z
+- [Căști & dispozitive neuro](https://www.nircura.ro/collections/caști-dispozitive-neuro): Căști și dispozitive neuro cu lumină roșie pentru fotobiomodulare creier. Claritate, focus și recuperare îmbunătățite. Comandă acum!
+  Updated: 2026-09-14T10:12:15Z
   Total Products: 2
-- [Dispozitive portabile](https://www.nircura.ro/collections/dispozitive-portabile)
-  Updated: 2026-05-08T22:52:56Z
+- [Dispozitive portabile](https://www.nircura.ro/collections/dispozitive-portabile): Terapie cu lumină roșie oriunde te afli, cu dispozitivele portabile Nircura. Compacte, eficiente, gata de folosit. Descoperă oferta și comandă!
+  Updated: 2026-09-14T10:11:56Z
   Total Products: 3
-- [Sisteme full body profesionale](https://www.nircura.ro/collections/sisteme-full-body-profesionale)
-  Updated: 2026-05-08T22:52:56Z
+- [Sisteme full body profesionale](https://www.nircura.ro/collections/sisteme-full-body-profesionale): Sisteme LED full body profesionale pentru terapie completă cu lumină roșie. Acoperire maximă, uz casnic sau clinic. Explorează gama și comandă!
+  Updated: 2026-09-14T10:11:34Z
   Total Products: 3
-- [Accesorii & suporturi](https://www.nircura.ro/collections/accesorii-suporturi)
-  Updated: 2026-05-08T22:52:56Z
+- [Accesorii & suporturi](https://www.nircura.ro/collections/accesorii-suporturi): Accesorii și suporturi pentru panouri LED. Optimizează-ți spațiul de terapie! Descoperă produsele compatibile și completează-ți setul azi!
+  Updated: 2026-09-14T10:10:05Z
   Total Products: 2
 - [Toate Produsele](https://www.nircura.ro/collections/toate-produsele)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-18T11:20:57Z
   Total Products: 18
 - [Kinetoterapie & Recuperare (Calculator ROI)](https://www.nircura.ro/collections/kinetoterapie-recuperare-calculator-roi)
-  Updated: 2026-09-07T09:22:16Z
+  Updated: 2026-09-11T12:29:28Z
   Total Products: 10
 - [SPA & Wellness (Calculator ROI)](https://www.nircura.ro/collections/spa-wellness-calculator-roi)
-  Updated: 2026-09-07T09:22:16Z
+  Updated: 2026-09-11T12:25:52Z
   Total Products: 9
 - [Fitness & Performance (Calculator ROI)](https://www.nircura.ro/collections/fitness-performance-calculator-roi)
   Updated: 2026-09-07T09:22:16Z
   Total Products: 12
 - [Dermatologie & Estetică (Calculator ROI)](https://www.nircura.ro/collections/dermatologie-estetica-1)
-  Updated: 2026-09-07T09:22:16Z
+  Updated: 2026-09-11T12:30:02Z
   Total Products: 8
 - [Psihologie & Psihiatrie (Calculator ROI)](https://www.nircura.ro/collections/psihologie-psihiatrie-1)
-  Updated: 2026-09-07T09:22:17Z
+  Updated: 2026-09-11T12:26:38Z
   Total Products: 4
 - [Alte servicii (Calculator ROI)](https://www.nircura.ro/collections/alte-servicii-calculator-roi)
   Updated: 2026-09-07T09:22:17Z
   Total Products: 12
 - [Sectiune Products Showcase](https://www.nircura.ro/collections/sectiune-products-showcase)
-  Updated: 2026-06-12T11:22:32Z
+  Updated: 2026-09-11T12:26:08Z
   Total Products: 7
 - [Produse la preț standard](https://www.nircura.ro/collections/produse-la-pret-standard)
-  Updated: 2026-06-23T11:02:48Z
-  Total Products: 7
+  Updated: 2026-09-18T11:20:57Z
+  Total Products: 18
 
 ## Blogs
 
