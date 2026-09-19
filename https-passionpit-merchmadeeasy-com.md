@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-12T00:00:43.471Z
+- Updated At: 2026-09-19T00:00:44.179Z
 
 ## Products
 
 - [Diamond Eye Tee](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee): Diamond Eye design on a 100% cotton tee Unisex
-  Updated: 2026-08-29T03:54:12Z
+  Updated: 2026-09-18T22:05:36Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Star Child Tee](https://passionpit.merchmadeeasy.com/products/star-child-tee): Star child design on a 100% cotton tee in Black Unisex
-  Updated: 2026-08-29T03:54:13Z
+  Updated: 2026-09-18T21:10:22Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
-  Updated: 2026-09-08T23:02:58Z
+  Updated: 2026-09-18T22:05:28Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -176,7 +176,7 @@
 - [Captcha Tee](https://passionpit.merchmadeeasy.com/products/captcha-tee): Passion Pit captcha graphic on the front 
 100% cotton tee in White
 Unisex
-  Updated: 2026-08-29T22:46:10Z
+  Updated: 2026-09-17T05:00:18Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -247,7 +247,7 @@ Unisex
   Updated: 2026-09-09T11:25:55Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-09T11:25:55Z
+  Updated: 2026-09-17T11:23:56Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
   Updated: 2026-09-09T11:25:55Z
@@ -256,13 +256,13 @@ Unisex
   Updated: 2026-08-30T11:19:56Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
-  Updated: 2026-09-09T11:25:55Z
+  Updated: 2026-09-17T11:23:56Z
   Total Products: 6
 - [Hats](https://passionpit.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-05T20:25:30Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-09T11:25:55Z
+  Updated: 2026-09-17T11:23:56Z
   Total Products: 15
 
 ## Store Pages
