@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-04T17:05:02Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-10T00:00:45.680Z
+- Updated At: 2026-09-19T00:00:43.022Z
 
 ## Products
 
@@ -35,7 +35,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Ladies Wings Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-neil-ladies-wing-tee): 4.3 oz./yd², 50/25/25 polyester/combed ringspun cotton/rayon Fabric laundered Set-in 1x1 triblend baby rib collar with coverstitching Scoop neck Curved hem Side seams Satin label
-  Updated: 2026-08-29T00:16:10Z
+  Updated: 2026-09-18T20:14:49Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -276,7 +276,7 @@
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG_0009_Funtastic-2023-Tour-Poster.png?v=1733845745
   Price: $10.00 USD
 - [Heartbreaker Bracelet](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/heartbreaker-bracelet): Handmade hammered metal bracelet
-  Updated: 2026-08-29T00:16:13Z
+  Updated: 2026-09-15T16:25:03Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Bracelet
   Availability: Available
@@ -321,7 +321,7 @@
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PhotoToteBag.png?v=1743627434
   Price: $20.00 USD
 - [Red Stripes Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-red-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-09-02T12:37:57Z
+  Updated: 2026-09-18T00:02:56Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/Mockup_0002s_0000_PBNG-Rose-Bandana.png?v=1783017801
   Price: $15.00 USD
 - [White Vintage Photo Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/white-vintage-photo-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-08-29T00:16:16Z
+  Updated: 2026-09-15T19:29:46Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -566,16 +566,16 @@
 ## Collections
 
 - [Home page](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-07T11:09:38Z
+  Updated: 2026-09-16T11:09:01Z
   Total Products: 53
 - [Apparel](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-04T17:55:00Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 74
 - [Accessories](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-07T11:09:38Z
+  Updated: 2026-09-16T11:09:01Z
   Total Products: 31
 - [All](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-07T11:09:38Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 115
 - [Funtastic Tour](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/funtastic-tour)
   Updated: 2026-08-15T11:11:59Z
@@ -590,7 +590,7 @@
   Updated: 2026-06-16T19:13:19Z
   Total Products: 6
 - [Bracelets](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/bracelets)
-  Updated: 2026-06-16T20:14:36Z
+  Updated: 2026-09-16T11:09:01Z
   Total Products: 2
 - [Media](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/media)
   Updated: 2026-06-16T20:14:36Z
@@ -602,13 +602,13 @@
   Updated: 2026-08-13T11:11:34Z
   Total Products: 8
 - [Tees](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/tees)
-  Updated: 2026-09-04T17:55:00Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 62
 - [BFCM Bundles](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/bfcm-bundles)
   Updated: 2026-06-30T00:20:22Z
   Total Products: 2
 - [$20.26 Tour Tees](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/2026-tour-tees)
-  Updated: 2026-09-03T11:10:18Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 20
 - [$5 FRENZY](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/5-frenzy)
   Updated: 2026-06-16T19:13:21Z
@@ -617,13 +617,13 @@
   Updated: 2026-07-02T18:44:15Z
   Total Products: 12
 - [Tour Merch](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-09-07T11:09:38Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 17
 - [2 for $12 or 3 for $15](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/memorial-day-vintage-tees)
   Updated: 2026-06-16T19:13:21Z
   Total Products: 31
 - [EasyGift All Products](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-09-07T11:09:38Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 115
 - [$10 and under](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/10-and-under)
   Updated: 2026-08-13T11:11:34Z
@@ -632,10 +632,10 @@
   Updated: 2026-09-04T17:55:00Z
   Total Products: 13
 - [Black Friday 2025](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/black-friday-2025)
-  Updated: 2026-09-03T11:10:18Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 49
 - [Heartbreaker ](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/heartbreaker-)
-  Updated: 2026-09-03T11:10:18Z
+  Updated: 2026-09-18T11:09:47Z
   Total Products: 26
 - [Last Chance](https://patbenatarandneilgiraldo.merchmadeeasy.com/collections/last-chance)
   Updated: 2026-06-16T19:13:21Z
