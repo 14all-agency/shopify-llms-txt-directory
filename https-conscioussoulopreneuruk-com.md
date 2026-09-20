@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2026-07-29T02:11:14Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-09-12T21:41:23.246Z
+- Updated At: 2026-09-20T00:00:27.270Z
 
 Conscious Soulopreneur UK is an online bookstore specialising in self-discovery and spiritual philosophy books published in English and Spanish. Our curated collection guides readers on transformative journeys of inner growth, mindfulness, and conscious living. We serve a global audience with a focus on English and Spanish-speaking markets.
 
@@ -14,65 +14,91 @@ Conscious Soulopreneur UK is an online bookstore specialising in self-discovery 
 
 ## Products
 
-- [Who Do You Think You Are paperback | Paperback](https://conscioussoulopreneuruk.com/products/who-do-you-think-you-are-paperback): Who Do You Think You Are paperback is a paperback book about spiritual self-discovery, identity, beliefs, consciousness, personal growth, and inner reflection.
-  Updated: 2026-09-10T09:32:34Z
+- [Spiritual Self-Discovery: Transform Your Journey with This Book](https://conscioussoulopreneuruk.com/products/who-do-you-think-you-are-paperback): Spiritual self-discovery. Embark on a journey of self-exploration with the 'Who Do You Think You Are?' spiritual self-discovery book, guiding you to unlock your true essence.
+  Updated: 2026-09-17T15:08:45Z
   Vendor: Conscious Soulopreneur
   Product Type: Softcover Book
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/thebookfromAmazon.jpg?v=1785369487
+  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/thebookfromAmazon.jpg?v=1789423847
   Price: $55.55 AUD
-- [Quién Te Crees Que Eres tapa blanda | Tapa Blanda](https://conscioussoulopreneuruk.com/products/quien-te-crees-que-eres-tapa-blanda): Quién Te Crees Que Eres tapa blandaes un libro de autoconocimiento y despertar espiritual que explora identidad, conciencia, creencias y crecimiento personal.
-  Updated: 2026-09-12T03:14:10Z
+- [Quien Te Crees Que Eres: Transform Your Life with Self-Discovery](https://conscioussoulopreneuruk.com/products/quien-te-crees-que-eres-tapa-blanda): Salud mental y autoconocimiento: descubre nuevas perspectivas sobre tu identidad con Quien Te Crees Que Eres, un libro para reflexionar y transformar tu vida.
+  Updated: 2026-09-17T15:41:04Z
   Vendor: Conscious Soulopreneur
   Product Type: Softcover Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/image_4eba8d87-78d7-4370-80a4-2743bbaf4087.png?v=1788958503
   Price: $55.55 AUD
-- [Who Do You Think You Are? eBook — Self-Discovery & Spiritual](https://conscioussoulopreneuruk.com/products/who-do-you-think-you-are-ebook-download): Who Do You Think You Are? Instant download eBook on identity, consciousness, and spiritual awakening. A transformative read for seekers of purpose and conscio
-  Updated: 2026-09-12T02:09:14Z
+- [Salud Mental: Quien Te Crees Que Eres | Autoconocimiento](https://conscioussoulopreneuruk.com/products/salud-mental-quien-te-crees-que-eres): salud mental Salud mental y autoconocimiento: descubre nuevas perspectivas sobre tu identidad con Quien Te Crees Que Eres, un libro para reflexionar y crecer personalmente.
+  Updated: 2026-09-17T15:52:47Z
   Vendor: Conscious Soulopreneur
   Product Type: eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/logom.jpg?v=1789178940
+  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/FrontBookCoverenglish.jpg?v=1789423911
   Price: $11.99 AUD
-- [Quién Te Crees Que Eres— eBook de Autoconocimiento, Iden](https://conscioussoulopreneuruk.com/products/quien-te-crees-que-eres-ebook): Quién Te Crees Que Eres eBook de descarga instantánea sobre identidad, conciencia y despertar espiritual. Una lectura transformadora para quienes buscan propósi
-  Updated: 2026-09-12T06:46:38Z
+- [Self-Discovery eBook: Unleash Your True Potential Today](https://conscioussoulopreneuruk.com/products/quien-te-crees-que-eres-ebook): Discover your true self with the self-discovery eBook, Who Do You Think You Are? Unlock personal growth and transformation today!
+  Updated: 2026-09-17T15:17:27Z
+  Vendor: Conscious Soulopreneur UK
+  Product Type: eBook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/WhatsAppImage2026-09-11at04.12.17_3.jpg?v=1789423739
+  Price: $11.99 AUD
+- [Spiritual Philosophy eBook: Unlock Your True Self Today](https://conscioussoulopreneuruk.com/products/who-do-you-think-you-are-ebook): Discover your true self with the enlightening spiritual philosophy eBook, Who Do You Think You Are? Explore identity and consciousness for personal growth.
+  Updated: 2026-09-18T05:46:17Z
   Vendor: Conscious Soulopreneur
   Product Type: eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/WhatsAppImage2026-09-11at04.12.17_3.jpg?v=1789178737
-  Price: $11.99 AUD
+  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/Store_Banner.png?v=1785754986
+  Price: $12.99 AUD
+- [Transformative Spirituality Book for Personal Growth & Enlightenment](https://conscioussoulopreneuruk.com/products/quien-te-crees-que-eres-tapa-dura-filosofia-espiritual-y-autoconocimiento): Unlock your potential with our transformative spirituality book. Discover wisdom, personal growth, and insight for your spiritual journey today!
+  Updated: 2026-09-18T05:45:57Z
+  Vendor: Conscious Soulopreneur
+  Product Type: Hardcover Book
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0815/8504/5756/files/3.jpg?v=1789423779
+  Price: $66.66 AUD
 
 ## Collections
 
-- [Self-Discovery Books | Spiritual Philosophy & Awakening](https://conscioussoulopreneuruk.com/collections/frontpage-self-discovery-books): Self-discovery books exploring spiritual philosophy, identity, consciousness, personal growth, and spiritual awakening. Explore English and Spanish titles.
-  Updated: 2026-09-12T06:46:39Z
+- [Self-Discovery Books | Spiritual Philosophy & Awakening](https://conscioussoulopreneuruk.com/collections/frontpage-self-discovery-books): Self-discovery books can open the door to deeper reflection, greater awareness, and new perspectives on who you are. Explore our collection of books dedicated
+  Updated: 2026-09-17T02:23:43Z
   Total Products: 4
-- [All Books for Self-Discovery and Spiritual Philosophy](https://conscioussoulopreneuruk.com/collections/all-books-for-self-discovery-and-spiritual-philosophy): All books for self-discovery and spiritual philosophy, spiritual philosophy, identity, consciousness, spiritual awakening, personal growth, and inner reflection
-  Updated: 2026-09-12T06:46:39Z
+- [All Books for Self-Discovery and Spiritual Philosophy](https://conscioussoulopreneuruk.com/collections/all-books-for-self-discovery-and-spiritual-philosophy): All Books for Self-Discovery and Spiritual Philosophy, spiritual philosophy, identity, and personal growth. This collection brings together our complete
+  Updated: 2026-09-17T02:23:43Z
   Total Products: 4
-- [English Books on self-Discovery & Spiritual Philosophy](https://conscioussoulopreneuruk.com/collections/english-books-on-self-discovery-spiritual-philosophy): Explore English books on self-discovery and spiritual philosophy covering identity, consciousness, beliefs, purpose, spirituality, and personal growth.
-  Updated: 2026-09-09T13:57:52Z
+- [English Books on self-Discovery & Spiritual Philosophy](https://conscioussoulopreneuruk.com/collections/english-books-on-self-discovery-spiritual-philosophy): Discover English books on self-discovery and spiritual philosophy for exploring identity, consciousness, beliefs, purpose, and personal growth. This collection
+  Updated: 2026-09-17T02:14:09Z
   Total Products: 4
-- [I’m really impressed with the design. It looks elegant and feels great to wear.](https://conscioussoulopreneuruk.com/collections/libros-en-espanol-de-autoconocimiento-filosofia-espiritual): Descubre libros en español de autoconocimiento y filosofía espiritual para explorar identidad, conciencia, creencias, propósito y crecimiento personal.
-  Updated: 2026-09-12T07:02:33Z
-  Total Products: 2
+- [Libros en Español — Quién Te Crees Que Eres](https://conscioussoulopreneuruk.com/collections/libros-en-espanol-de-autoconocimiento-filosofia-espiritual): I’m really impressed with the beautiful design and overall quality of this piece. It looks elegant, stylish, and even better in person. I love how comfortable
+  Updated: 2026-09-17T02:10:25Z
+  Total Products: 1
+
+## Blogs
+
+- [How to Discover Your True Self: 7 Questions That Can Change Your Life](https://conscioussoulopreneuruk.com/blogs/how-to-discover-your-true-self): Learn how to discover your true self with 7 powerful questions designed to help you explore identity, beliefs, purpose, authenticity, and personal growth.
+  - [What Does It Mean to Know Yourself? A Philosophical Perspective](https://conscioussoulopreneuruk.com/blogs/how-to-discover-your-true-self/what-does-it-mean-to-know-yourself-a-philosophical-perspective): What Does It Mean to Know Yourself? A Philosophical Perspective
+    Updated: 2026-09-14T22:08:20Z
+    Author: Carlos Ruben Lauthier Wendt
+    Tags: Body and health, mindfulness books, self-discovery, spiritual awakening, spiritual philosophy, who am i
 
 ## Store Pages
 
 - [Carlos Ruben Lauthier Wendt | Spiritual Philosopher](https://conscioussoulopreneuruk.com/pages/carlos-ruben-lauthier-wendt-spiritual-philosopher): # Carlos Ruben Lauthier Wendt – About the Author **Carlos Ruben Lauthier Wendt** is a spiritual philosopher, author, and conscious living advocate ...
   Updated: 2026-09-10T05:31:24Z
+- [Carlos Ruben Lauthier Wendt | Spiritual Author](https://conscioussoulopreneuruk.com/pages/carlos-ruben-lauthier-wendt): Carlos Ruben Lauthier Wendt is a spiritual philosopher, author, and advocate of conscious living whose work explores some of life's deeper question...
+  Updated: 2026-09-16T03:33:08Z
+- [About us](https://conscioussoulopreneuruk.com/pages/about-us): Discover the story behind Conscious Soulopreneur UK. Learn about our mission to empower conscious entrepreneurs and support your journey towards me...
+  Updated: 2026-09-14T10:58:50Z
 
 ## Policies
 
 - [Privacy Policy](https://conscioussoulopreneuruk.com/policies/privacy-policy)
-  Updated: 2026-09-12T13:05:23+09:30
+  Updated: 2026-09-16T12:36:16+09:30
 - [Shipping Policy](https://conscioussoulopreneuruk.com/policies/shipping-policy)
   Updated: 2026-08-11T14:09:51+09:30
 - [Refund Policy](https://conscioussoulopreneuruk.com/policies/refund-policy)
   Updated: 2026-08-11T14:06:50+09:30
 - [Terms of Service](https://conscioussoulopreneuruk.com/policies/terms-of-service)
-  Updated: 2026-09-12T13:06:42+09:30
+  Updated: 2026-09-16T12:22:38+09:30
 - [Contact Information](https://conscioussoulopreneuruk.com/policies/contact-information)
   Updated: 2026-08-01T11:14:50+09:30
 
