@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-09-13T00:00:56.877Z
+- Updated At: 2026-09-20T04:00:37.841Z
 
 ## Products
 
@@ -20,6 +20,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OXILLIS-Coffee-Therapy-Brazilian-Protein-Hair-Straightener-1000-ML-OXILLIS-JOLIE_S-205065155.png?v=1779549923
   Price: AED 500.00 AED
+- [Amazon Flowers Perfect Smooth Hair Protein 1L | JOLIES UAE](https://www.jolies.ae/products/amazon-flowers-brazilian-hair-protein--1000-ml): Shop Amazon Flowers Perfect Smooth Brazilian hair protein 1 litre, a professional smoothing  designed to help control frizz and improve shine.
+  Updated: 2026-09-15T15:41:20Z
+  Vendor: AMAZON FLOWERS
+  Product Type: Keratin & Smoothing 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/amazon-flowers-perfect-smooth-new-packaging-hero.png?v=1787931583
+  Price: AED 600.00 AED
 - [POSA Edge Control Hair Wax 120 ml | JOLIES UAE](https://www.jolies.ae/products/nuspa-instant-control-edge-control-hair-wax-48-hours-lasting-natural-tea-tree-oil-deep-moisturizing-edgetamer-shine-smooth-hair-styling-gel-with-shea-butter-jojoba-oil-4-1-oz): Shop POSA Edge Control 120 ml for smoothing baby hairs, defining the hairline and creating polished braids, ponytails and sleek styles.
   Updated: 2026-08-28T18:51:17Z
   Vendor: POSA
@@ -118,13 +125,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUSPA-3-Minutes-Purple-No-Yellow-Shampoo-Moisturizing-Shimmer-Correction-Sulfate-Free-Argan-Oil-Keratin-Protein-Infused-for-Color-Correction-500-ML-NUSPA-JOLIE-S-1696938107311.jpg?v=1696938109
   Price: AED 80.00 AED
-- [POSA Scalp Refreshing Shampoo 1L | JOLIES UAE](https://www.jolies.ae/products/posa-scalp-refreshing-shampoo-1000-ml): Shop POSA Scalp Refreshing Shampoo 1 litre for routine cleansing of the scalp and hair while supporting a clean, refreshed feel.
-  Updated: 2026-08-28T18:51:22Z
-  Vendor: POSA
-  Product Type: Shampoo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/POSA-Scalp-Refreshing-Shampoo-1000-ML-POSA-JOLIE-S-1696938148811.jpg?v=1696938150
-  Price: AED 100.00 AED
 - [POSA Herbs 13 Hair Mask 1L | JOLIES UAE](https://www.jolies.ae/products/posa-herbs-13-hair-mask-collection-with-black-seeds-1000-ml): Shop POSA Herbs 13 Hair Mask with black seed, a conditioning  designed to help dry or frizz-prone hair feel softer and manageable.
   Updated: 2026-08-28T18:51:22Z
   Vendor: POSA
@@ -1584,13 +1584,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/St-Dalfour-Gluta-Sunscreen-Cream-St-Dalfour-JOLIE_S-133912468.jpg?v=1743093484
   Price: AED 80.00 AED
-- [ALMOES Rosemary Mint Scalp & Hair Oil 30 ml | JOLIES UAE](https://www.jolies.ae/products/almoes-organic-rosemary-mint-scalp-hair-strengthening-oil-30-ml): Shop ALMOES Organic Rosemary Mint Scalp and Hair Oil 30 ml for conditioning dry scalp and hair and supporting a healthy-looking finish.
-  Updated: 2026-08-28T18:52:31Z
-  Vendor: ALMOES
-  Product Type: Hair Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ALMOES-Organic-Rosemary-Mint-Unique-Vitamin-30-ml-ALMOES-JOLIE_S-165528082.jpg?v=1728669512
-  Price: AED 110.00 AED
 - [BIODANCE Bio Collagen Deep Mask 4 pcs | JOLIES UAE](https://www.jolies.ae/products/biodance-bio-collagen-real-deep-mask-4-pcs-pack-34-gm): Shop BIODANCE Bio Collagen Real Deep Mask four-piece pack for intensive hydration and a smoother, plumper-looking complexion.
   Updated: 2026-08-28T18:52:31Z
   Vendor: BIODANCE
@@ -3032,22 +3025,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Deep-Vita-C-5-Pcs-Set-Medicube-JOLIE_S-202259475.png?v=1754413892
   Price: AED 420.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgxNDExMDY2MTc3LCJsYXN0X3ZhbHVlIjoiOTk4MTQxMTA2NjE3NyJ9)
+- [MEDICUBE Zero Pore Clearer 4-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-zero-pore-clearer-4-pcs-set): Shop the MEDICUBE Zero Pore Clearer four-piece set for coordinated cleansing and cosmetic care of visible pores and texture.
+  Updated: 2026-08-28T22:36:00Z
+  Vendor: Medicube
+  Product Type: Facial Cleansing Kits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Clearer-4-Pcs-Set-Medicube-JOLIE_S-202259312.png?v=1754413133
+  Price: AED 380.00 AED
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgxNDEyNzA0NTc3LCJsYXN0X3ZhbHVlIjoiOTk4MTQxMjcwNDU3NyJ9)
 
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-04T11:09:48Z
-  Total Products: 29
+  Updated: 2026-09-15T19:57:10Z
+  Total Products: 30
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-01T11:10:36Z
+  Updated: 2026-09-19T11:09:27Z
   Total Products: 106
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-09-10T11:11:15Z
+  Updated: 2026-09-17T11:09:54Z
   Total Products: 618
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
-  Updated: 2026-08-22T19:49:08Z
-  Total Products: 40
+  Updated: 2026-09-17T20:13:19Z
+  Total Products: 41
 - [Bracelets](https://www.jolies.ae/collections/bracelets): Shop elegant stone and leather bracelets online in the UAE. Explore versatile designs for everyday wear and special occasions from JOLIE'S.
   Updated: 2026-08-22T19:48:33Z
   Total Products: 45
@@ -3055,8 +3055,8 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-09-12T14:02:55Z
-  Total Products: 193
+  Updated: 2026-09-17T20:13:19Z
+  Total Products: 196
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
   Total Products: 4
@@ -3064,7 +3064,7 @@
   Updated: 2026-08-28T20:31:39Z
   Total Products: 34
 - [Skin Care Kit](https://www.jolies.ae/collections/skin-care-travel-kit): Shop skincare kits, starter sets and travel-size routines for cleansing, hydration and targeted care, with delivery across the UAE.
-  Updated: 2026-08-28T22:48:47Z
+  Updated: 2026-09-17T11:09:54Z
   Total Products: 129
 - [Hair Care Gift Set](https://www.jolies.ae/collections/hair-care-gift-set): Shop hair care gift sets in the UAE with shampoos, conditioners, masks and treatments. Compare curated sets and order online from JOLIE'S.
   Updated: 2026-08-23T11:08:50Z
@@ -3076,13 +3076,13 @@
   Updated: 2026-08-28T19:02:56Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-09-05T14:56:54Z
+  Updated: 2026-09-18T17:57:14Z
   Total Products: 503
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-09-10T11:11:15Z
-  Total Products: 366
+  Updated: 2026-09-19T11:09:27Z
+  Total Products: 369
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
-  Updated: 2026-08-28T20:18:47Z
+  Updated: 2026-09-13T11:11:02Z
   Total Products: 9
 
 ## Blogs
