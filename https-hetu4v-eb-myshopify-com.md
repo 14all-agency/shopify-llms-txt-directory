@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-19T15:43:14Z
 - Contact Email: shopifyadmin@futureshirts.com
-- Updated At: 2026-09-13T00:00:36.669Z
+- Updated At: 2026-09-20T00:00:37.492Z
 
 ## Products
 
 - [It Ain't The Whiskey Photo Tee](https://hetu4v-eb.myshopify.com/products/it-aint-the-whiskey-photo-tee): It Ain't The Whiskey Photo Tee in black with front print only.
-  Updated: 2026-09-10T07:17:03Z
+  Updated: 2026-09-19T18:52:27Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Straws & Ralls Tee](https://hetu4v-eb.myshopify.com/products/straws-ralls-tee): Straws & Ralls Tee in heather columbia blue with front print only.
-  Updated: 2026-09-10T07:35:51Z
+  Updated: 2026-09-19T18:52:27Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -53,21 +53,21 @@
     Availability: Available
     Price: $30.00 USD
 - [Cowboy Trucker Hat](https://hetu4v-eb.myshopify.com/products/cowboy-trucker-hat): Cowboy Trucker Hat in black with embroidery on front and mesh back.
-  Updated: 2026-09-10T07:17:19Z
+  Updated: 2026-09-19T18:52:28Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWHATHAT.png?v=1788981229
   Price: $35.00 USD
 - [Logo Hat](https://hetu4v-eb.myshopify.com/products/logo-hat): Jake Worthington Logo Hat in burnt orange with embroidery on front.
-  Updated: 2026-09-10T07:39:19Z
+  Updated: 2026-09-19T18:52:28Z
   Vendor: Jake Worthington
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWORANGELOGOHAT.png?v=1788981307
   Price: $35.00 USD
 - [Jake Worthington - Standard Black Vinyl](https://hetu4v-eb.myshopify.com/products/jake-worthington-standard-black-vinyl)
-  Updated: 2026-09-10T07:24:35Z
+  Updated: 2026-09-19T18:52:28Z
   Vendor: Jake Worthington
   Product Type: Music
   Availability: Available
@@ -86,7 +86,7 @@
   Updated: 2026-09-09T19:17:16Z
   Total Products: 2
 - [Hats](https://hetu4v-eb.myshopify.com/collections/hats)
-  Updated: 2026-09-09T19:17:16Z
+  Updated: 2026-09-14T14:50:04Z
   Total Products: 2
 - [Music](https://hetu4v-eb.myshopify.com/collections/music)
   Updated: 2026-09-09T19:17:23Z
