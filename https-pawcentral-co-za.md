@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-09-12T00:00:38.056Z
+- Updated At: 2026-09-20T00:00:37.982Z
 
 ## Products
 
@@ -1381,6 +1381,18 @@
     Author: PawCentral
   - [Comparing Popular Dog Breeds for First-Time Pet Owners](https://pawcentral.co.za/blogs/news/comparing-popular-dog-breeds-for-first-time-pet-owners): Comparing Popular Dog Breeds for First-Time Pet Owners
     Updated: 2026-09-09T02:25:33Z
+    Author: PawCentral
+  - [A Step-by-Step Tutorial on Teaching Basic Commands to Dogs](https://pawcentral.co.za/blogs/news/a-step-by-step-tutorial-on-teaching-basic-commands-to-dogs): A Step-by-Step Tutorial on Teaching Basic Commands to Dogs
+    Updated: 2026-09-12T00:44:48Z
+    Author: PawCentral
+  - [Trendy Pet Gadgets Every Owner Needs to Consider](https://pawcentral.co.za/blogs/news/trendy-pet-gadgets-every-owner-needs-to-consider): Trendy Pet Gadgets Every Owner Needs to Consider
+    Updated: 2026-09-14T02:53:21Z
+    Author: PawCentral
+  - [Solving Common Behavioral Issues in Cats](https://pawcentral.co.za/blogs/news/solving-common-behavioral-issues-in-cats): Solving Common Behavioral Issues in Cats
+    Updated: 2026-09-16T02:28:50Z
+    Author: PawCentral
+  - [Proper Nutrition Tips for Your Senior Dog](https://pawcentral.co.za/blogs/news/proper-nutrition-tips-for-your-senior-dog): Proper Nutrition Tips for Your Senior Dog
+    Updated: 2026-09-19T00:43:16Z
     Author: PawCentral
 
 ## Store Pages
