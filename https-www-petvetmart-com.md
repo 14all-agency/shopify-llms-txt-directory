@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-02-23T15:47:43Z
 - Contact Email: petvetmart@gmail.com
-- Updated At: 2026-09-13T00:00:32.160Z
+- Updated At: 2026-09-20T00:00:35.860Z
 
 ## Products
 
@@ -54,7 +54,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/waterproof_backpack_for_cat_carrier.png?v=1773697879
     Price: $60.99 USD
 - [Collapsible Hard Shell Dog & Cat Carrier | 40+ lbs](https://www.petvetmart.com/products/collapsible-pet-carrier-crate): hard shell collapsible pet carrier for dogs & cats. PVC shell, tear-proof foam core, 360° zip, 40+ lb zipper rating, shoulder strap & leash hook. 18.2×11.4×13.3".
-  Updated: 2026-09-08T02:11:18Z
+  Updated: 2026-09-19T03:13:35Z
   Vendor: Pet Life
   Product Type: Pet Carriers
   Availability: Available
@@ -72,7 +72,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/collapsible_military_pet_carrier.jpg?v=1773696798
     Price: $84.99 USD
 - [Dog Travel Bag | Stylish Tote for Dog Moms](https://www.petvetmart.com/products/puffer-dog-travel-bag): dog travel tote includes 2 collapsible bowls, 2 lined food containers, a poop bag pocket & 9 organized pockets. Available in 6 colors.
-  Updated: 2026-09-12T23:03:45Z
+  Updated: 2026-09-19T23:16:56Z
   Vendor: Rubyloo
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Gray_pet_travel_bag_with_pet_food.jpg?v=1785324111
     Price: $52.95 USD
 - [Dog Travel Bag with Bowls & Food Containers](https://www.petvetmart.com/products/dog-travel-bag-for-supplies): The travel bag with 2 collapsible bowls, 2 insulated food containers & poop bag dispenser. 22.4L, airline-. BPA-free.
-  Updated: 2026-09-12T23:42:47Z
+  Updated: 2026-09-19T23:59:03Z
   Vendor: Rubyloo
   Product Type: Dog Travel Bag for Supplies
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Black_Dog_Travel_Bag.jpg?v=1785323371
     Price: $54.95 USD
 - [Pet First Aid Kit for Dogs & Cats with Vet- Essentials](https://www.petvetmart.com/products/pet-first-aid-kit-for-dogs-cats-with-vet--essentials): 1. BE READY ANYWHERE, ANYTIME – Lightweight, compact cat & dog first aid kit for hiking, camping, or travel. Designed for fast, effective emergency care when space and weight matter most. 2. PACKED WITH REAL PET ESSENTIALS – Includes vet-wrap, tick remover, cleansing wipes, saline wash, thermal blanket & more—no fluff, just field-tested dog emergency tools. 3. BUILT FOR BACKPACKING & ADVENTURE – Soft case fits in backpacks, glove compartments, or car consoles. Ideal for travel, hunting, road trips, camping, and everyday dog hiking gear 4. STEP-BY-STEP PET FIRST AID GUIDE INCLUDED – Easy-to-follow, vet-reviewed manual covers injuries, bleeding, ticks, and emergencies—giving you the confidence to act quickly when it counts. 5. VET- & PET-SAFE MATERIALS – All supplies are reviewed by veterinary professionals and made with non-toxic, pet-safe materials. Trusted by hikers, adventurers, and pet lovers. 6. THE RUBYLOO PROMISE: We're a woman-owned US small business and quality and customer service are our top priorities; we're here for you and we want you and your pup to be completely satisfied with your purchase Description The Pet First Aid Kit for Dogs & Cats by Rubyloo is your go-to solution for keeping pets safe during emergencies. This comprehensive kit includes vet- essentials such as a tick remover, extra gauze, antiseptic wipes, and a detailed pet first aid handbook that works offline. Encased in a durable, waterproof hard-sided case with a strong zipper and handle, it’s designed for easy portability and quick access. Ideal for various situations like hiking, traveling, or everyday use, this kit ensures you’re always prepared. Additional Features Versatile Use: Perfect for dogs and cat first aid kits in various situations, including hiking, traveling, and daily activities. Easy to Customize: With the multiple pockets and extra room, you can add any additional items you need. Included Essentials: Pet First Aid Handbook, Tick Remover, Tweezers, Saline Solution, Scissors, Ice Pack, Leash, Antibiotic Ointment, Styptic Pencil, Antiseptic WIpes, Sting Relief Pads, Gloves, Thermal Blanket, Elastic Bandages, Non stick pads. Customer Reviews: Trusted by thousands of pet owners with over 400 5-star reviews on Amazon. Real-life testimonials highlight the kit’s effectiveness in emergencies. Support Dog Rescue: Each purchase helps a rescue dog find their forever home through the 'Every Dog Should Have A Home' initiative.
-  Updated: 2026-09-12T23:59:06Z
+  Updated: 2026-09-19T23:29:57Z
   Vendor: Rubyloo
   Product Type: Pet First Aid Kits
   Availability: Available
@@ -150,14 +150,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Trav._FAK_Main_Image_1_with_Vet_Approved_Emblem_dd630d77-bea8-4ff1-a4ff-ac613dc8d5f2.jpg?v=1784230311
     Price: $26.95 USD
 - [Large Pet Stroller | 1-Click Fold | Up to 66 lbs](https://www.petvetmart.com/products/large-pet-stroller): large pet stroller for dogs & cats up to 66 lbs. Steel frame, 600D Oxford fabric, shock absorbers, mesh windows & 1-click fold. Ships from Pet Vet Mart.
-  Updated: 2026-09-12T23:03:36Z
+  Updated: 2026-09-19T13:06:37Z
   Vendor: Berry Charmz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Dog_Cat_Carriage.jpg?v=1782412700
   Price: $349.48 USD
 - [VEVOR 3-Wheel Foldable Pet Stroller with Brake – Dogs & Cats Up to 35 lbs | Pet Vet Mart](https://www.petvetmart.com/products/vevor-3-wheel-foldable-pet-stroller-brake-35lbs): Shop the VEVOR 3-Wheel Foldable Pet Stroller – supports up to 35 lbs, one-hand fold, EVA foam wheels & rear brake. Perfect for dogs, cats & travel outings.
-  Updated: 2026-09-12T21:33:32Z
+  Updated: 2026-09-19T22:06:36Z
   Vendor: Berry Charmz
   Product Type: 
   Availability: Available
@@ -196,7 +196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Plush_penguin_toy.webp?v=1785325612
   Price: $19.99 USD
 - [LightHound LED Dog Harness – USB Rechargeable Reflective Safety Vest | Pet Vet Mart](https://www.petvetmart.com/products/lighthound-led-dog-harness): Shop the LightHound LED dog harness with 8 colors, 6 light modes, 360° reflective visibility & 12-hr rechargeable battery. Adjustable, durable & weather-resistant.
-  Updated: 2026-09-07T19:40:57Z
+  Updated: 2026-09-18T15:32:49Z
   Vendor: Wags & Whiskers Pet Supply
   Product Type: 
   Availability: Available
@@ -248,7 +248,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Pet_Grooming_Straighter.jpg?v=1785325792
     Price: $89.00 USD
 - [Puracy Pet Stain & Odor Remover – Enzyme Cleaner, Non-Toxic, No-Rinse](https://www.petvetmart.com/products/puracy-pet-stain-odor-remover): Puracy enzyme pet stain & odor remover tackles urine, vomit & feces on carpet, fabric & upholstery. Non-toxic, plant-based, no-rinse formula. 25 oz spray.
-  Updated: 2026-09-12T19:21:47Z
+  Updated: 2026-09-19T18:44:17Z
   Vendor: Puracy
   Product Type: Pet
   Availability: Available
@@ -287,7 +287,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/gimars-6-in-1-professional-stainless-steel-safety-pet-grooming-scissors-pet-supplies-dailysale-630207.jpg?v=1775422290
   Price: $39.00 USD
 - [Pet-Safe Grass Seed – Tall Fescue & Clover Mix for Dogs](https://www.petvetmart.com/products/pet-safe-grass-seed-mix): blends Tall Fescue & White Dutch Clover to resist urine burn, repair bare spots, and stay green with less water. Safe for dogs and cats. No chemicals.
-  Updated: 2026-09-12T23:59:23Z
+  Updated: 2026-09-19T23:43:41Z
   Vendor: Earthwise Seed
   Product Type: 
   Availability: Available
@@ -315,35 +315,28 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/cosequin-soft-chews-dogs-glucosamine-chondroitin-supplement.jpg?v=1783456936
   Price: $61.33 USD
 - [Dog Multivitamin Chews with Glucosamine & Probiotics – 90ct](https://www.petvetmart.com/products/10-in-1-dog-multivitamin-soft-chews-chicken-flavor): 10-in-1 dog multivitamin soft chews – 90ct. Made in USA, vet-. Glucosamine, probiotics, krill oil & vitamins for joint, gut, skin & immune health.
-  Updated: 2026-09-12T23:51:28Z
+  Updated: 2026-09-19T23:51:56Z
   Vendor: Googipet
   Product Type: Dog Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Googipet_10-in-1_Multivitamin.png?v=1784830516
   Price: $29.99 USD
 - [Dog Dental Powder – Plaque & Tartar Control](https://www.petvetmart.com/products/fresh-breath-dental-powder-dogs): Fresh Breath Dental Powder for Dogs – NASC-, PhD-formulated. Probiotics, kelp & enzymes reduce plaque & tartar. 60 scoops, mint flavor. Made in USA.
-  Updated: 2026-09-12T08:17:56Z
+  Updated: 2026-09-15T23:18:26Z
   Vendor: Googipet
   Product Type: Dog Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Googipet_Fresh_Breath_Dental_Powder.jpg?v=1784830745
   Price: $34.99 USD
-- [Dog Probiotic Chews 6 Billion CFU | Gut, Immune & Digestive Support](https://www.petvetmart.com/products/probiotic-chews-for-dogs-googipet): 3-in-1 dog probiotic chews with 6B CFU, prebiotics & postbiotics. NASC-, vet-, Made in USA. Duck flavor, 90 soft chews. Non-GMO.
-  Updated: 2026-09-12T23:52:26Z
-  Vendor: Googipet
-  Product Type: Dog Supplies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Dog_supplement_containers.jpg?v=1784829508
-  Price: $29.99 USD
 - [Soft daily chews with Glucosamine HCl, MSM, EPAX® Omega-3, FruiteX-B® & Green Lipped Mussel. NASC , all-natural, made in USA. For all breeds & ages. 90ct.](https://www.petvetmart.com/products/agility-plus-hip-joint-chews-dogs-90ct): Soft daily chews with Glucosamine HCl, MSM, EPAX® Omega-3, FruiteX-B® & Green Lipped Mussel. NASC , all-natural, made in USA. For all breeds & ages. 90ct.
-  Updated: 2026-09-12T23:50:16Z
+  Updated: 2026-09-19T21:51:06Z
   Vendor: Googipet
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Dog_supplement_container.jpg?v=1784301453
   Price: $29.99 USD
 - [Bayer Seresto Flea & Tick Collar Large Dogs 8 Months Protection](https://www.petvetmart.com/products/seresto-flea-tick-collar): Provide long-lasting flea and tick protection for large dogs with the Seresto Flea & Tick Collar. Helps protect dogs over 18 lbs for up to 8 months with convenient, odorless protection.
-  Updated: 2026-09-11T18:06:36Z
+  Updated: 2026-09-16T16:38:07Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies > Other Pet Supplies
   Availability: Available
@@ -364,14 +357,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Open_Farm_Rawmix_dog_food_item.jpg?v=1784133952
     Price: $97.99 USD
 - [Fish Treat Topper for Dogs & Cats | Wild-Caught Walleye](https://www.petvetmart.com/products/fish-treat-topper-walleye-dog-cat): Fish Treat Topper — 100% wild-caught walleye powder, single-ingredient, 74% protein, omega-3 rich. Low-allergen, dry food form. Made in USA. For dogs & cats.
-  Updated: 2026-09-11T16:51:56Z
+  Updated: 2026-09-18T16:50:18Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/farm-pet_-toppers.png?v=1784829282
   Price: $15.95 USD
 - [Chicken Dog Food Topper | Single-Ingredient, Human-Grade](https://www.petvetmart.com/products/chicken-treat-topper): Chicken Treat Topper: 100% human-grade chicken breast powder, 80% protein, 3 cal/tsp. Grain-free, single-ingredient. For dogs & cats. Made in USA.
-  Updated: 2026-09-12T22:04:46Z
+  Updated: 2026-09-19T01:15:23Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
@@ -414,7 +407,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Open Farm Grain-Free Turkey Pâté for Cats | Humanely Raised, No Corn or Soy](https://www.petvetmart.com/products/open-farm-turkey-pate-cat): Open Farm Homestead Turkey Pâté — grain-free, legume-free wet cat food made with humanely-raised turkey and turkey liver. No corn, soy, or carrageenan. Available in 2.8 oz and 5.3 oz.
-  Updated: 2026-09-05T14:22:57Z
+  Updated: 2026-09-15T21:07:03Z
   Vendor: The Family Pet
   Product Type: 
   Availability: Available
@@ -426,7 +419,7 @@
     Availability: Available
     Price: $3.19 USD
 - [Applaws Chicken Breast in Broth Wet Cat Food 2.47oz | Natural, 3-Ingredient Cat Food](https://www.petvetmart.com/products/applaws-chicken-breast-broth-wet-cat-food): Applaws Chicken Breast in Broth Wet Cat Food — only 3 natural ingredients, carrageenan-free, and additive-free. A clean, simple wet food for  cats. 2.47 oz can.
-  Updated: 2026-09-04T15:56:27Z
+  Updated: 2026-09-19T15:58:48Z
   Vendor: The Family Pet
   Product Type: Wet Cat Food
   Availability: Available
@@ -478,7 +471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Stainless_steel_bowl_with_orange.jpg?v=1786103502
     Price: $15.98 USD
 - [Herbal Defense Powder – Natural Flea & Tick Support for Dogs & Cats](https://www.petvetmart.com/products/herbal-defense-powder-flea-tick-dogs-cats): Herbal Defense Powder: vet-designed, 100% natural oral supplement that deters fleas, ticks & mosquitoes in dogs & cats. No chemicals. 4 oz.
-  Updated: 2026-09-10T20:41:26Z
+  Updated: 2026-09-18T21:42:06Z
   Vendor: Adore Pet
   Product Type: 
   Availability: Available
@@ -492,21 +485,21 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Omega_3_Fish_Oil_Salmon.jpg?v=1787603713
   Price: $28.95 USD
 - [Prenatal Multivitamin for Dogs & Cats | 60 Tabs –](https://www.petvetmart.com/products/prenatal-multivitamin-dogs-cats): Vet-formulated prenatal multivitamin for dogs & cats. 60 bacon-flavored chewable tablets with vitamins A, C, D, E, B Complex, folic acid & amino acids. Made in USA.
-  Updated: 2026-09-11T20:24:34Z
+  Updated: 2026-09-14T15:34:21Z
   Vendor: Makondo Pets
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Prenatal_Multivitamin_for_Dogs_Cats.png?v=1786645461
   Price: $24.95 USD
 - [West Paw Rawbiotic Bites Beef Dog Food Topper | Freeze-Dried, Probiotic-Rich | Pet Vet Mart](https://www.petvetmart.com/products/west-paw-rawbiotic-bites-beef-dog-food-topper): West Paw Rawbiotic Bites Beef is a freeze-dried dog food topper with raw beef proteins, fermented probiotics, real fruits & veggies. No fillers. 6.4 oz. USA-made.
-  Updated: 2026-09-11T18:25:36Z
+  Updated: 2026-09-16T21:41:48Z
   Vendor: West Paw
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/West_Paw_Rawbiotic_Bites_for_dogs.jpg?v=1787659689
   Price: $19.95 USD
 - [West Paw Rawbiotic Bites Chicken Dog Food Topper | Freeze-Dried, Probiotic, Grain-Free](https://www.petvetmart.com/products/west-paw-rawbiotic-bites-chicken-dog-food-topper): West Paw Rawbiotic Bites Chicken Dog Food Topper (6.4 oz) – freeze-dried raw chicken with fermented probiotics, real fruits & veggies. No gluten, grain, soy, or artificial additives. USA-made. Sprinkle over any kibble.
-  Updated: 2026-09-11T18:28:06Z
+  Updated: 2026-09-18T16:59:57Z
   Vendor: West Paw
   Product Type: 
   Availability: Available
@@ -594,7 +587,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Blue Buffalo  Chicken and Brown Rice Dry Dog Food](https://www.petvetmart.com/products/blue-buffalo--chicken-and-brown-rice-dry-dog-food): Formulated for the health and well-being of dogs, BLUE Life Protection Formula Chicken & Brown Rice Recipe is made with the finest natural ingredients enhanced with vitamins, minerals and other nutrients. Starting with delicious, high-quality deboned chicken, it features antioxidant-rich fruits and veggies and wholesome whole grains. Formulated With The Finest Natural Ingredients Real Deboned Chicken First Ingredient NO Chicken (or Poultry) By-Product Meals NO Corn, Wheat or Soy NO Artificial Flavors or Preservative Ingredients Deboned Chicken, Chicken Meal, Brown Rice, Oatmeal, Barley, Peas, Chicken Fat (preserved with Mixed Tocopherols), Dried Tomato Pomace, Natural Flavor, Flaxseed (source of Omega 3 & 6 Fatty Acids), Dried Yeast, Salt, Direct Dehydrated Alfalfa Pellets, Potassium Chloride, Dried Chicory Root, Alfalfa Nutrient Concentrate, Calcium Carbonate, Choline Chloride, L-Threonine, DL-Methionine, preserved with Mixed Tocopherols, Dried Sweet Potatoes, Carrots, Taurine, Zinc Amino Acid Chelate, Zinc Sulfate, Vegetable Juice for color, Ferrous Sulfate, Vitamin E Supplement, Iron Amino Acid Chelate, Glucosamine Hydrochloride, Blueberries, Cranberries, Barley Grass, Parsley, Turmeric, Dried Kelp, Yucca Schidigera Extract, Niacin (Vitamin B3), Calcium Pantothenate (Vitamin B5), Copper Sulfate, Biotin (Vitamin B7), L-Ascorbyl-2-Polyphosphate (source of Vitamin C), L-Lysine, Vitamin A Supplement, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Vitamin D3 Supplement, Vitamin B12 Supplement, Pyridoxine Hydrochloride (Vitamin B6), Calcium Iodate, Folic Acid (Vitamin B9), Sodium Selenite, Oil of Rosemary
-  Updated: 2026-09-09T19:24:27Z
+  Updated: 2026-09-16T16:04:47Z
   Vendor: The Family Pet
   Product Type: Dry Dog Food
   Availability: Available
@@ -609,7 +602,7 @@
     Availability: Available
     Price: $72.99 USD
 - [Hill's Science Diet  Urinary & Hairball Control Chicken Recipe Dry Cat Food](https://www.petvetmart.com/products/hills-science-diet--urinary-hairball-control-chicken-recipe-dry-cat-food): Cat food that supports the entire urinary system with optimal levels of magnesium A good source of natural fiber to help comfortably reduce hairballs in cats Supports healthy skin and coat with omega-6s and vitamin E High-quality protein to help your cat maintain muscle Made with natural ingredients Made in the USA with global ingredients you can trust #1 Veterinarian Recommended Hill's Science Diet Urinary Hairball Control  dry cat food supports the health of the whole urinary system and helps avoid hairball formation. Supports the health of the whole urinary system with optimal levels of magnesium Natural fiber comfortably reduces hairballs High quality fiber, fatty acids and antioxidants to support healthy digestion, skin & coat and a strong immune system Highly digestible, high quality protein to help maintain lean muscle Additional info: At Hill's we have been studying how nutrition supports cat health. We learned that a healthy urinary system is vital to overall health and how natural fiber comfortably reduces hairballs. Recommended for:  cats 1 - 6 years to help support the health of the urinary system and reduce hairballs. Not recommended for: Kittens and pregnant or nursing cats. During pregnancy or nursing, cats should be switched to Hill’s Science Diet Kitten or Hill's Science Diet Kitten Indoor dry cat food. Ingredients: Chicken, Whole Grain Wheat, Corn Gluten Meal, Pork Fat, Powdered Cellulose, Wheat Gluten, Chicken Liver Flavor, Dried Beet Pulp, Soybean Oil, Lactic Acid, Calcium Sulfate, Fish Oil, Choline Chloride, Potassium Chloride, L-Lysine, Iodized Salt, Dicalcium Phosphate, Taurine, vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (source of Vitamin C), Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Folic Acid, Vitamin D3 Supplement), Potassium Citrate, minerals (Ferrous Sulfate, Zinc Oxide, Copper Sulfate, Manganous Oxide, Calcium Iodate, Sodium Selenite), L-Carnitine, Mixed Tocopherols for freshness, Natural Flavors, Green Peas, Apples, Cranberries, Carrots, Broccoli, Beta-Carotene.
-  Updated: 2026-09-08T18:34:26Z
+  Updated: 2026-09-19T20:11:16Z
   Vendor: The Family Pet
   Product Type: Dry Cat Food
   Availability: Available
