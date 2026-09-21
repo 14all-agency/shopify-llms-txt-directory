@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-02T17:03:29Z
 - Contact Email: info@perfectpricee.in
-- Updated At: 2026-09-13T08:13:54.133Z
+- Updated At: 2026-09-21T00:00:29.462Z
 
 ## Products
 
@@ -1454,14 +1454,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0652/2322/9537/files/51ROgisQBQL.jpg?v=1789243254
   Price: ₹225.00 INR
-- [Custom Leatherette Bookmarks with Tassel 2 Pack, Classic Vintage – Personalized UV Printed Name & Quote Bookmarks for Book Lovers](https://perfectpricee.in/products/custom-leatherette-bookmarks-with-tassel-2-pack-classic-vintage-personalized-uv-printed-name-quote-bookmarks-for-book-lovers): Brand: kunya Color: 2 Features: TRADITIONAL VINTAGE LEATHER DUO (PACK OF 2): Includes two classic warm-toned bookmarks in rich Tan and Light Brown. Designed to capture a timeless, heritage aesthetic that appeals to vintage lovers, professionals, HIGH-PRECISION CUSTOM UV PRINTING: Personalize each bookmark with custom names, monograms, corporate logos, or meaningful quotes. Printed using advanced UV technology for sharp, fade-resistant typography that lasts. ULTRA-SLIM & BOOK-FRIENDLY: Features an ultra-thin 2 mm profile with smooth curved safety corners and clean perimeter stitching. Sits perfectly flat inside hardcovers, leather journals, and Bibles without creasing pages or straining book spines. MULTIPLE FONT & INK OPTIONS: Express your personal style or match corporate branding. Choose from elegant script, traditional serif, or modern bold fonts printed in crisp dark ink or warm metallic-look tones. PERFECT GIFT FOR MEN & PROFESSIONALS: An ideal 2-piece gift set for corporate giveaways, Father’s Day, groomsmen gifts, executives, teachers, and avid readers. Comes complete with matching single-string tie tassels! Part Number: BookMark Details: Elevate Your Reading Experience with Kunya Custom Leather Bookmarks!Add a personal touch to your favorite books, notebooks, and journals with the Kunya Personalized Stitched PU Leather Bookmark. Crafted from premium leatherette with smooth curved edges and neat edge stitching, our bookmarks combine classic elegance with modern custom UV printing.Why Choose Kunya Personalised Bookmarks? Customized Just for You: Personalize with names, monograms, inspirational quotes, or custom text using state-of-the-art UV printing for ultra-sharp detail and vibrant colors. Ultra-Thin Profile: Unlike bulky bookmarks, our slim $2\text{mm}$ design sits perfectly inside paperbacks, hardcovers, and planners without causing page bulges or spine damage. Rich Color Palette: Available in 8 premium neutral leather tones—Brown, Light Brown, Tan, Cream, Off-White, Pearl White, White, and Ivory. Versatile Font & Print Options: Select from multiple typography styles and color options to match your personal aesthetic.Product Specifications: Material: Premium Stitched PU Leatherette Customization Method: High-Precision Full-Color / Spot White UV Printing Includes: Matching Leather Tie Tassel Care Instructions: Wipe clean with a soft dry clothWhether you are looking for a unique personal reading accessory, a thoughtful gift for a teacher or student, or corporate gifts for an event, Kunya delivers quality craftsmanship with quick personalization!
-  Updated: 2026-09-13T08:06:30Z
-  Vendor: kunya
-  Product Type: Personalised Your Need
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0652/2322/9537/files/61tpnSyvG7L.jpg?v=1789243587
-  Price: ₹225.00 INR
-[List Continued](https://perfectpricee.in/a/llms-agent/llms.txt?shop=gz8eas-tk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjgwNzc5MzU0MjA5LCJsYXN0X3ZhbHVlIjoiNzY4MDc3OTM1NDIwOSJ9)
+[List Continued](https://perfectpricee.in/a/llms-agent/llms.txt?shop=gz8eas-tk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjgwNzc4NzMxNjE3LCJsYXN0X3ZhbHVlIjoiNzY4MDc3ODczMTYxNyJ9)
 
 ## Collections
 
@@ -1477,6 +1470,33 @@
 - [Harry Porter](https://perfectpricee.in/collections/harry-porter): Harry Porter Series
   Updated: 2026-09-13T06:08:57Z
   Total Products: 3
+- [Perfect Pricee - Best Sellers](https://perfectpricee.in/collections/perfect-pricee-best-sellers): Shop Perfect Pricee's best sellers — top-rated home and kitchen essentials at the perfect price.
+  Updated: 2026-09-14T06:57:05Z
+  Total Products: 37
+- [Perfect Pricee - Trending](https://perfectpricee.in/collections/perfect-pricee-trending): Discover what's trending at Perfect Pricee — popular home and kitchen essentials at the perfect price.
+  Updated: 2026-09-14T06:57:45Z
+  Total Products: 0
+- [Kunya - Best Sellers](https://perfectpricee.in/collections/kunya-best-sellers): Shop Kunya's best sellers — top-rated personalised stationery and stamps at great prices.
+  Updated: 2026-09-14T06:59:48Z
+  Total Products: 32
+- [Kunya - Trending](https://perfectpricee.in/collections/kunya-trending): Discover what's trending at Kunya — popular personalised stationery and stamps.
+  Updated: 2026-09-14T07:00:25Z
+  Total Products: 0
+- [Ji & Ja - Best Sellers](https://perfectpricee.in/collections/ji-and-ja-best-sellers): Shop Ji & Ja's best sellers — top-rated kids essentials loved by families across India.
+  Updated: 2026-09-15T11:10:11Z
+  Total Products: 23
+- [Ji & Ja - Trending](https://perfectpricee.in/collections/ji-and-ja-trending): Discover what's trending at Ji & Ja — popular kids essentials loved by families across India.
+  Updated: 2026-09-14T07:01:45Z
+  Total Products: 0
+- [Kunya - Wooden Stamp](https://perfectpricee.in/collections/kunya-wooden-stamp): Shop personalised wooden stamps by Kunya. Custom initial stamps, home stamps, book stamps and more. Crafted with care, personalised for you.
+  Updated: 2026-09-15T11:53:56Z
+  Total Products: 0
+- [Kunya - Self Ink Stamp](https://perfectpricee.in/collections/kunya-self-ink-stamp): Shop personalised self ink stamps by Kunya. Custom designs for gifting and everyday use. Crafted with care, personalised for you.
+  Updated: 2026-09-15T11:54:33Z
+  Total Products: 5
+- [Kunya - Bookmark](https://perfectpricee.in/collections/kunya-bookmark): Shop personalised leatherette bookmarks with tassel by Kunya. Custom names, initials or messages. Crafted with care, personalised for you.
+  Updated: 2026-09-15T11:55:17Z
+  Total Products: 8
 
 ## Store Pages
 
