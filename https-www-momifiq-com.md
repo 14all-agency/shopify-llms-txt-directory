@@ -10,7 +10,7 @@
 - Contact Email: support@momifiq.com
 - Contact Phone: +1 833-699-9916
 - Address: 16000 Heron Ave, La Mirada, CA 90638, United States
-- Updated At: 2026-09-04T00:00:30.007Z
+- Updated At: 2026-09-21T00:00:36.653Z
 
 ## Products
 
@@ -611,7 +611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0473/6545/6028/files/ISIS_6.png?v=1778832248
     Price: $39.90 USD
 - [Amatesaru - Breathable Maternity Support Belt - Adjustable Belly Band for Pregnancy & Postpartum](https://www.momifiq.com/products/amatesaru-maternity-belt): Gentle, adjustable belly support for pregnancy and beyond. The Amatesaru Maternity Support Belt cradles your bump with soft, breathable fabric for comfortable, supported movement from pregnancy through the postpartum months. Key Features: Soft, Breathable Feel: Lightweight, breathable fabric that stays comfortable against the skin throughout the day. Gentle Bump Support: Cradles and gently supports your growing bump for a comfortable, secure feel as you move. Even, Comfortable Fit: Helps distribute the weight of your bump evenly for easy, comfortable wear while walking, standing, or sitting. Fully Adjustable: Simple to put on and adjust as your bump grows, with a wide hook-and-loop fastener for a customizable fit. Pregnancy to Postpartum: Transitions from a pregnancy support band into a comfortable postpartum wrap.
-  Updated: 2026-08-28T18:36:22Z
+  Updated: 2026-09-11T18:45:56Z
   Vendor: Momifiq
   Product Type: Maternity Belly Bands > Pregnancy Belly Support Belt
   Availability: Available
@@ -1295,7 +1295,7 @@
   Updated: 2026-05-26T16:39:35Z
   Total Products: 10
 - [Maternity](https://www.momifiq.com/collections/maternity): Maternity products for pregnant moms. First time mom? This section will give you a tip on how to make your life easier with Pregnancy bras, Pregnancy pajamas, Pregnancy leggings, and more.
-  Updated: 2026-08-29T17:21:57Z
+  Updated: 2026-09-12T11:07:20Z
   Total Products: 34
 - [Postpartum & Nursing](https://www.momifiq.com/collections/postpartum-nursing): Maternity products for moms and their babies. First time mom? This section will give you a tip on how to make your life easier with Nursing Wear, Mommy Backpacks, Baby Shoes, Baby Bottle Warmers, and more.
   Updated: 2026-08-14T11:08:19Z
@@ -1313,10 +1313,10 @@
   Updated: 2026-05-26T16:39:36Z
   Total Products: 2
 - [Multifeeds](https://www.momifiq.com/collections/multifeeds)
-  Updated: 2026-08-29T17:21:57Z
+  Updated: 2026-09-12T11:07:20Z
   Total Products: 19
 - [Support belts](https://www.momifiq.com/collections/support-belts)
-  Updated: 2026-08-04T11:06:34Z
+  Updated: 2026-09-12T11:07:20Z
   Total Products: 2
 - [Panties](https://www.momifiq.com/collections/panties)
   Updated: 2026-08-25T11:06:19Z
@@ -1386,7 +1386,7 @@
 - [Refund Policy](https://www.momifiq.com/policies/refund-policy)
   Updated: 2026-03-12T11:24:37-04:00
 - [Terms of Service](https://www.momifiq.com/policies/terms-of-service)
-  Updated: 2026-03-20T05:37:26-04:00
+  Updated: 2026-09-13T10:49:26-04:00
 - [Contact Information](https://www.momifiq.com/policies/contact-information)
   Updated: 2026-03-19T12:05:17-04:00
 
