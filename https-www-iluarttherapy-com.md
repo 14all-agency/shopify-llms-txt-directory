@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-23T01:48:24Z
 - Contact Email: info@iluarttherapy.com
-- Updated At: 2026-09-11T00:00:38.147Z
+- Updated At: 2026-09-21T00:00:44.506Z
 
 ## Products
 
@@ -94,9 +94,9 @@ your agent can transact everywhere.
 - [Privacy Policy](https://www.iluarttherapy.com/policies/privacy-policy)
   Updated: 2026-01-01T08:05:47+05:30
 - [Shipping Policy](https://www.iluarttherapy.com/policies/shipping-policy)
-  Updated: 2026-08-26T18:16:26+05:30
+  Updated: 2026-09-16T07:35:48+05:30
 - [Refund Policy](https://www.iluarttherapy.com/policies/refund-policy)
-  Updated: 2026-08-26T18:22:03+05:30
+  Updated: 2026-09-16T07:37:24+05:30
 - [Terms of Service](https://www.iluarttherapy.com/policies/terms-of-service)
   Updated: 2026-08-26T18:23:56+05:30
 - [Contact Information](https://www.iluarttherapy.com/policies/contact-information)
