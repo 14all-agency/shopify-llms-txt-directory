@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-07-02T15:47:10Z
 - Contact Email: bobby009@libero.it
-- Updated At: 2026-09-11T00:00:38.562Z
+- Updated At: 2026-09-21T00:00:41.160Z
 
 ## Products
 
@@ -85,28 +85,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/S32f88cf51bee452d82af6e29f368b382r.webp?v=1788049724
   Price: €6.99 EUR
-- [Master Keyless Lock Portable Combination Directional  Padlock Gym Luggage Case Anti-Theft Security Locker Door Lock](https://petnest.it/products/master-keyless-lock-portable-combination-directional--padlock-gym-luggage-case-anti-theft-security-locker-door-lock-125289726301-jftl5): Using MenthodInitial  locationThe default  of this lock is displayed on the guide of this page as four arrows that are up,down, left, and right.How to unlock it?1. Before each use, press the lock hook to the end and release the lock hook. Repeat the above action twice to clear.2. On the  panel, slide the arrow keys to enter the default  in the user guide. NOTE: Be aware that swiping in each direction pushes the D-Pad until it can no longer be pushed. Make sure that every time you swipe the next direction, the direction returns to the middle position first.3. Pull up the shackle to open the padlock (note ||: pull out the shackle vertically)4. Insert the shackle and press to lock the padlock.IMPORTANT NOTE: Repeat step 1 above every time you open the padlock by pressing the shackle twice in succession.
-  Updated: 2026-09-08T00:49:41Z
-  Vendor: PetNest Italia
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/Sa8134918bba74cd0af9e3d4546e9e918n.webp?v=1788785288
-  - [Upgraded Style-Black](https://petnest.it/products/master-keyless-lock-portable-combination-directional--padlock-gym-luggage-case-anti-theft-security-locker-door-lock-125289726301-jftl5?variant=65843174343005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/Sed2a17dc9bb841b1bb9d23a9e35f58e5V.webp?v=1788785288
-    Price: €52.99 EUR
-  - [Upgraded Style-Blue](https://petnest.it/products/master-keyless-lock-portable-combination-directional--padlock-gym-luggage-case-anti-theft-security-locker-door-lock-125289726301-jftl5?variant=65843174375773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/S12f5d0fb06a64f6a93cbca4abba8dea4C.webp?v=1788785288
-    Price: €53.99 EUR
-  - [Upgraded Style-Red](https://petnest.it/products/master-keyless-lock-portable-combination-directional--padlock-gym-luggage-case-anti-theft-security-locker-door-lock-125289726301-jftl5?variant=65843174408541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/S35cc946e3fa14f388f43def7ef91398fr.webp?v=1788785288
-    Price: €52.99 EUR
-  - [Regular style-Black](https://petnest.it/products/master-keyless-lock-portable-combination-directional--padlock-gym-luggage-case-anti-theft-security-locker-door-lock-125289726301-jftl5?variant=65843174441309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1089/5491/1069/files/Sa64b004064c1432ab3f296f16608651fU.webp?v=1788785288
-    Price: €47.99 EUR
 
 ## Collections
 
