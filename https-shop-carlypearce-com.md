@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-07T22:02:26Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-13T00:00:44.818Z
+- Updated At: 2026-09-21T00:00:43.070Z
 
 ## Products
 
@@ -103,7 +103,7 @@ Unisex
     Availability: Not Available
     Price: $30.00 USD
 - [29 Tour Tee](https://shop.carlypearce.com/products/29-tour-tee): Carly Pearce photo tee with tour dates on the back 100% Cotton Unisex
-  Updated: 2026-08-28T20:53:57Z
+  Updated: 2026-09-20T20:24:46Z
   Vendor: Carly Pearce Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -207,7 +207,7 @@ Unisex
     Availability: Not Available
     Price: $10.00 USD
 - [Wine Tote Bag | Official Carly Pearce Merch Store](https://shop.carlypearce.com/products/wine-tote-bag): Canvas wine tote bag! Perfect for summer or gifting Fits one wine bottle
-  Updated: 2026-08-29T08:49:22Z
+  Updated: 2026-09-18T19:10:03Z
   Vendor: Carly Pearce
   Product Type: Accessories
   Availability: Available
@@ -364,7 +364,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-RUBY-VINYL-STAND-ALONE.png?v=1720647020
   Price: $29.98 USD
 - [hummingbird - exclusive foil poster [signed]](https://shop.carlypearce.com/products/hummingbird-exclusive-foil-poster-signed): SIGNED BY CARLY Shop the limited edition hummingbird exclusive foil poster. This commemorative poster features multiple layers of both gold and iridescent foil. These are hand numbered and signed. Due to the intricate detail of the printing, no two posters are alike. Hand-numbered / 250 available 11 x 17 in
-  Updated: 2026-09-11T18:05:36Z
+  Updated: 2026-09-18T14:53:55Z
   Vendor: Carly Pearce
   Product Type: Poster
   Availability: Available
@@ -451,27 +451,6 @@ Unisex
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPHAT.png?v=1747172100
   Price: $35.00 USD
-- [2025 Hummingbird Tour Tee](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee): Carly Pearce typeface and photo graphic on the front 2025 Hummingbird tour dates on the back 100% Cotton Unisex
-  Updated: 2026-08-28T07:36:05Z
-  Vendor: Carly Pearce
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CarlyPearce2025TourTeeFront.png?v=1748898953
-  - [S](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee?variant=46059234754709)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [M](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee?variant=46059234787477)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [L](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee?variant=46059234820245)
-    Availability: Available
-    Price: $20.00 USD
-  - [XL](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee?variant=46059234853013)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [2XL](https://shop.carlypearce.com/products/2025-hummingbird-tour-tee?variant=46059234885781)
-    Availability: Not Available
-    Price: $20.00 USD
 - [Knoxville Event Poster (Signed)](https://shop.carlypearce.com/products/knoxville-poster-signed): Official Poster from the Knoxville show in 2023 Signed by Carly 11x17" *There may be slight indentations from travel
   Updated: 2026-08-27T19:30:02Z
   Vendor: Carly Pearce Official Merchandise
@@ -571,7 +550,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Country Music Crewneck](https://shop.carlypearce.com/products/country-music-crewneck): Country Music Crewneck in Forest Green 50/50 cotton/polyester Front and back print Size Chart Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-09-10T18:51:16Z
+  Updated: 2026-09-13T02:57:31Z
   Vendor: Carly Pearce
   Product Type: Crewneck
   Availability: Available
@@ -592,7 +571,7 @@ Unisex
     Availability: Available
     Price: $60.00 USD
 - [Floral Photo Tee](https://shop.carlypearce.com/products/floral-photo-tee): Carly Pearce photo on the front chest framed by flowers 100% Cotton tee in Sand Unisex
-  Updated: 2026-09-10T18:51:16Z
+  Updated: 2026-09-18T17:01:12Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -613,7 +592,7 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Choose Love Tee](https://shop.carlypearce.com/products/choose-love-tee): Choose Love on the front chest Carly Pearce on the sleeve 100% Cotton tee in muted green Unisex
-  Updated: 2026-08-28T07:34:19Z
+  Updated: 2026-09-13T02:56:45Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -641,21 +620,21 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/Mockup_0001s_0003_167420_1_308147_d.png?v=1775682384
   Price: $5.00 USD
 - [Honest Woman CD + Signed Art Card](https://shop.carlypearce.com/products/honest-woman-cd-signed): Art card SIGNED by Carly, limited quantity available Carly's latest album, Honest Woman, on CD sometimes finding yourself means finding your way back home. for me, it meant coming home...to my truth, my story, and the woman i am at my core.these songs tell that story. they hold pieces of my heart, where i come from, and the journey that brought me here. i’m so proud of this album and i can’t wait to share it with you. - love, Carly Tracklist Dream Come True Church Girl She Don’t You Can Have Him How Long WWJD Same Circus Happy For Myself If I Don’t Leave I’m Gonna Stay (Carly Pearce & Riley Green) I Don’t Have The Heart He Don’t Like My Dogs Leave My Heart Alone Who’s Lying Here (Carly Pearce & Dan Tyminski) Daisy What If You Loved Me (Carly Pearce, Molly Tuttle, Dan Tyminski) Why God Why Me
-  Updated: 2026-09-11T16:35:35Z
+  Updated: 2026-09-20T17:13:56Z
   Vendor: Carly Pearce
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/HONESTWOMANSIGNEDARTCARD_04d0e837-e3fe-405a-8960-e77d04e37cb7_EDIT.png?v=1785939919
   Price: $19.98 USD
 - [Honest Woman Vinyl - Signed](https://shop.carlypearce.com/products/honest-woman-vinyl-signed): Cover SIGNED by Carly, limited quantity available Pre-order Carly's latest album, Honest Woman, on this special edition white vinyl
-  Updated: 2026-09-12T09:01:07Z
+  Updated: 2026-09-20T20:24:51Z
   Vendor: Carly Pearce
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPVinylSigned_dc60b304-26bd-435d-b28c-a68b2654356c.png?v=1786387007
   Price: $39.98 USD
 - [Banjo Photo Tee](https://shop.carlypearce.com/products/banjo-photo-tee): Carly Pearce logo on the front chest Honest Woman graphic on the back with a photo of Carly and her banjo Short sleeve tee in Dark Brown 100% cotton
-  Updated: 2026-09-12T20:36:48Z
+  Updated: 2026-09-13T01:46:42Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -704,7 +683,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0004_Cream-Koozie.png?v=1787880320
   Price: $5.00 USD
 - [Happy For Myself Sticker](https://shop.carlypearce.com/products/happy-for-myself-sticker): happy for myself 4x1in sticker
-  Updated: 2026-09-10T20:14:35Z
+  Updated: 2026-09-19T06:30:58Z
   Vendor: Carly Pearce
   Product Type: Sticker
   Availability: Available
@@ -718,7 +697,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0005_Circus-Sticker.png?v=1787880023
   Price: $5.00 USD
 - [Daisy Tour Tee](https://shop.carlypearce.com/products/daisy-tour-tee): Photo of Carly with daisies on the front Honest Woman Live On Tour cities on the back Short sleeve tee in Black Unisex
-  Updated: 2026-09-12T20:36:52Z
+  Updated: 2026-09-19T06:30:57Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -742,80 +721,80 @@ Unisex
 ## Collections
 
 - [apparel](https://shop.carlypearce.com/collections/apparel)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 45
 - [accessories](https://shop.carlypearce.com/collections/accessories)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 24
 - [music](https://shop.carlypearce.com/collections/music)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 21
 - [BEST SELLERS](https://shop.carlypearce.com/collections/hummingbird-collection)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 21
 - [CP ARCHIVES](https://shop.carlypearce.com/collections/cp-archives)
-  Updated: 2026-09-04T11:02:47Z
+  Updated: 2026-09-17T11:03:05Z
   Total Products: 24
 - [Hummingbird Collection](https://shop.carlypearce.com/collections/hummingbird-tour-collection)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-15T11:03:10Z
   Total Products: 22
 - [Valentine's Free Gift](https://shop.carlypearce.com/collections/valentines-free-gift)
   Updated: 2026-09-05T11:03:04Z
   Total Products: 7
 - [Classics](https://shop.carlypearce.com/collections/classics)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 11
 - [All](https://shop.carlypearce.com/collections/all)
-  Updated: 2026-09-12T11:02:51Z
-  Total Products: 59
+  Updated: 2026-09-19T11:02:52Z
+  Total Products: 58
 - [](https://shop.carlypearce.com/collections/)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-17T11:03:05Z
   Total Products: 49
 - [New Arrivals](https://shop.carlypearce.com/collections/new-arrivals)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 19
 - [Under $10](https://shop.carlypearce.com/collections/under-10)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 13
 - [EasyGift All Products](https://shop.carlypearce.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 137
 - [Country Music Made Me Do It](https://shop.carlypearce.com/collections/country-music-made-me-do-it)
-  Updated: 2026-09-05T11:03:04Z
+  Updated: 2026-09-13T11:03:46Z
   Total Products: 12
 - [Signed From the Archives](https://shop.carlypearce.com/collections/posters)
   Updated: 2026-09-12T11:02:51Z
   Total Products: 13
 - [$5 and Under](https://shop.carlypearce.com/collections/5-and-under)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 22
 - [National Vinyl Day](https://shop.carlypearce.com/collections/national-vinyl-day)
   Updated: 2026-09-04T11:02:47Z
   Total Products: 5
 - [Black Friday: 10 and Under](https://shop.carlypearce.com/collections/black-friday-10-and-under)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-17T11:03:05Z
   Total Products: 26
 - [Black Friday: $20](https://shop.carlypearce.com/collections/black-friday-20)
-  Updated: 2026-09-04T11:02:47Z
+  Updated: 2026-09-15T11:03:10Z
   Total Products: 11
 - [Black Friday: 30 & Above](https://shop.carlypearce.com/collections/black-friday-30-and-above)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 52
 - [Sticker ](https://shop.carlypearce.com/collections/sticker-)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-17T11:03:05Z
   Total Products: 44
 - [Live on Tour](https://shop.carlypearce.com/collections/live-on-tour)
-  Updated: 2026-09-11T11:02:35Z
+  Updated: 2026-09-13T11:03:46Z
   Total Products: 12
 - [Members Only](https://shop.carlypearce.com/collections/memcp32586)
   Updated: 2026-09-01T18:21:47Z
   Total Products: 0
 - [Honest Woman](https://shop.carlypearce.com/collections/honest-woman)
-  Updated: 2026-09-12T11:02:51Z
+  Updated: 2026-09-19T11:02:52Z
   Total Products: 11
 - [Honest Woman Live on Tour](https://shop.carlypearce.com/collections/honest-woman-live-on-tour)
-  Updated: 2026-09-11T11:02:35Z
-  Total Products: 8
+  Updated: 2026-09-19T11:02:52Z
+  Total Products: 11
 
 ## Blogs
 
