@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-30T18:18:37Z
 - Contact Email: info@getpowerflow.com
-- Updated At: 2026-09-11T00:00:41.787Z
+- Updated At: 2026-09-21T00:00:45.596Z
 
 ## Products
 
@@ -2424,45 +2424,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17683557516114692026_2048.jpg?v=1767330251
     Price: $24.28 USD
-- [Personalized Face Print Pajama Pants — Custom Couples Photo All-Over Print](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print): XS S M L XL 2XL 3XL 4XL Waist width, in 12.99 - 14.02 14.02 - 15.00 15.00 - 15.98 17.01 - 18.50 18.50 - 19.49 19.49 - 20.51 20.51 - 21.50 21.50 - 22.52 Hips width, in 16.50 17.52 19.02 22.52 24.49 26.50 28.50 30.51 Outseam length, in 39.21 40.00 40.20 40.79 41.18 42.01 42.01 42.01 These lightweight pajama pants bring familiar faces and playful doodles to your downtime. The all-over print features smiling portraits, little crowns, hearts, and handwritten notes that read like inside jokes. Soft brushed polyester drapes easily, moves with you, and keeps colors bright wash after wash. An elastic waistband and printed care label keep the fit simple and fuss-free. Wear them for cozy nights in, long lazy mornings, or when you want a fun, personal touch to your loungewear rotation.Product features- 100% brushed polyester — durable, shape-retaining, quick-drying- Lightweight fabric (5.6 oz/yd² | 190 g/m²) with soft hand-feel- Elastic waistband for easy, comfortable fit- Size and care printed on inner waistband — no scratchy tags- Seam color matched to design; assembled in the USA from global partsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-08-29T01:00:20Z
-  Vendor: Printify
-  Product Type: All Over Prints
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-  - [XS](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448686320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $39.56 USD
-  - [S](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448719088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $39.56 USD
-  - [M](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448751856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $39.56 USD
-  - [L](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448784624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $39.56 USD
-  - [XL](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448817392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $39.56 USD
-  - [2XL](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448850160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $43.51 USD
-  - [3XL](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448882928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $45.49 USD
-  - [4XL](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print?variant=48668448915696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
-    Price: $47.46 USD
-[List Continued](https://printaface.com/a/llms-agent/llms.txt?shop=vehr04-k7.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODAyOTE5NTc1NzkyLCJsYXN0X3ZhbHVlIjoiOTgwMjkxOTU3NTc5MiJ9)
+[List Continued](https://printaface.com/a/llms-agent/llms.txt?shop=vehr04-k7.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODAyMTQ5MTY3MzQ0LCJsYXN0X3ZhbHVlIjoiOTgwMjE0OTE2NzM0NCJ9)
 
 ## Collections
 
@@ -2770,6 +2732,21 @@
     Author: Sachi
   - [Exploring the Benefits of Custom Print Gifts for Birthdays](https://printaface.com/blogs/news/exploring-the-benefits-of-custom-print-gifts-for-birthdays): Exploring the Benefits of Custom Print Gifts for Birthdays
     Updated: 2026-09-09T00:31:43Z
+    Author: Sachi
+  - [FAQs About Creating Custom Printed Gifts for Any Age](https://printaface.com/blogs/news/faqs-about-creating-custom-printed-gifts-for-any-age): FAQs About Creating Custom Printed Gifts for Any Age
+    Updated: 2026-09-11T00:33:39Z
+    Author: Sachi
+  - [An Educational Look at the History of Custom Printing Technologies](https://printaface.com/blogs/news/an-educational-look-at-the-history-of-custom-printing-technologies): An Educational Look at the History of Custom Printing Technologies
+    Updated: 2026-09-12T01:20:36Z
+    Author: Sachi
+  - [Comparing Traditional Gifts to Custom Printed Creations for Birthdays](https://printaface.com/blogs/news/comparing-traditional-gifts-to-custom-printed-creations-for-birthdays): Comparing Traditional Gifts to Custom Printed Creations for Birthdays
+    Updated: 2026-09-16T00:32:28Z
+    Author: Sachi
+  - [Creating Custom Face Printed Gifts with Ease: A Tutorial](https://printaface.com/blogs/news/creating-custom-face-printed-gifts-with-ease-a-tutorial): Creating Custom Face Printed Gifts with Ease: A Tutorial
+    Updated: 2026-09-18T00:33:26Z
+    Author: Sachi
+  - [Why Custom Face Prints Are Trending in Personalized Gifting Today](https://printaface.com/blogs/news/why-custom-face-prints-are-trending-in-personalized-gifting-today): Why Custom Face Prints Are Trending in Personalized Gifting Today
+    Updated: 2026-09-19T01:12:32Z
     Author: Sachi
 
 ## Store Pages
