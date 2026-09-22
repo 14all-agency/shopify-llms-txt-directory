@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-06-14T16:33:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-14T00:00:40.408Z
+- Updated At: 2026-09-22T00:00:44.159Z
 
 ## Products
 
@@ -235,7 +235,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Heart Tee](https://shopus.lauvsongs.com/products/heart-tee): 100% cotton t-shirt in cream. Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/4 26
-  Updated: 2026-08-19T12:51:13Z
+  Updated: 2026-09-21T23:05:08Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
