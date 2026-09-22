@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-10-07T08:52:37Z
 - Contact Email: support@eridepro.com
-- Updated At: 2026-09-15T00:00:32.021Z
+- Updated At: 2026-09-22T00:00:39.064Z
 
 # E RIDE PRO
 
@@ -22,14 +22,14 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/2.5_Upgrade_kit.jpg?v=1768440915
   Price: $2,499.00 USD
 - [E7567 Firmware Cable - S/SS 2.0/3.0/Mini | E RIDE PRO](https://www.eridepro.com/products/firmware-cable): Update firmware on S/SS 2.0, SS 3.0, and Mini electric rideables with the E7567 Firmware Cable from E RIDE PRO. Essential for maintenance and upgrades.
-  Updated: 2026-09-14T07:44:57Z
+  Updated: 2026-09-21T05:32:56Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7567-old-z16.jpg?v=1769068396
   Price: $20.00 USD
 - [SHE7889 - Long Tail Kit - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7889-long-tail-kit): SKU:SHE7889--ITEM NAME:Long Tail Kit--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T17:04:56Z
+  Updated: 2026-09-21T19:50:03Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7826.jpg?v=1769066608
   Price: $19.00 USD
 - [SHE7082 - Battery Support Base (with 6pcs bolts ) - SR/SS3.0 TypeB Battery](https://www.eridepro.com/products/she7082-battery-positioning-support-base-with-6pcs-bolts-sr)
-  Updated: 2026-08-31T06:27:35Z
+  Updated: 2026-09-18T23:21:46Z
   Vendor: E RIDE PRO Global
   Product Type: 
   Availability: Available
@@ -56,8 +56,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7118.jpg?v=1769064392
   Price: $49.00 USD
-- [SHE7095 - Ignition cover plate (with 2screws) - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7095-ignition-cover-plate-with-2screws-s-ss2-0-ss3-0)
-  Updated: 2026-09-14T17:36:37Z
+- [SHE7095 - Ignition cover plate (with 2screws) - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7095-ignition-cover-plate-with-2screws-s-ss2-0-ss3-0): Ignition cover plate engineered for premium e-mobility platforms. Precision-machined component compatible with Pro S, SS2.0, SS3.0, and SR models. Includes two stainless steel fasteners for secure installation. Essential hardware for maintaining the integrity and aesthetic of your electric motorcycle's control systems.
+  Updated: 2026-09-18T17:57:57Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -85,21 +85,21 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7024.jpg?v=1768963440
   Price: $59.00 USD
 - [E7845R Front Brake Hose (Type 2) - SS3.0/SR](https://www.eridepro.com/products/e7845r-type-2-front-brake-hose-with-hardware): Enhance braking with the E7845R Front Brake Hose (Type 2) SS3.0/SR from E RIDE PRO. A durable replacement part for electric rideables, ensuring reliable performance.
-  Updated: 2026-09-14T12:26:26Z
+  Updated: 2026-09-21T01:56:55Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7845R.png?v=1768897854
   Price: $39.00 USD
 - [E7845L - Rear Brake Hose(Type 2) - SS3.0/SR](https://www.eridepro.com/products/e7845l-type-2-rear-brake-hose-with-hardware): SKU:E7845L--ITEM NAME:Type 2-Rear Brake Hose With Hardware--MODEL：SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:26:18Z
+  Updated: 2026-09-20T00:10:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7845L-OLD.png?v=1768897666
   Price: $39.00 USD
 - [E7417 - Jackshaft - SS3.0/SR](https://www.eridepro.com/products/e7417-ss-3-0-sr-jackshaft): 12mm axle hole
-  Updated: 2026-09-14T07:43:47Z
+  Updated: 2026-09-19T15:13:49Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -113,105 +113,105 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7045-1.jpg?v=1768981111
   Price: $9.00 USD
 - [SHE7047 Headlight Kit - ProS/SS2.0/SS3.0/SR | E RIDE PRO](https://www.eridepro.com/products/she7047-off-road-headlight-led-light-bar-with-bolt-kit-bracket-4pcs-screws): Enhance visibility and safety with the SHE7047 Headlight Kit for ProS, SS2.0, SS3.0, and SR electric rideables. Includes LED light, bolts, bracket, and screws. Shop E RIDE PRO.
-  Updated: 2026-09-14T23:40:07Z
+  Updated: 2026-09-21T16:12:16Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7045.jpg?v=1769653149
   Price: $49.00 USD
 - [E7970 BMS Tool - All E Ride Pro Models (Excl. 2023)](https://www.eridepro.com/products/e7970-bms-tool): Connect your E Ride Pro battery's BMS to diagnostic software with the E7970 BMS Tool. Access battery cell data and status for optimal performance. Compatible with Windows PCs.
-  Updated: 2026-09-14T10:16:46Z
+  Updated: 2026-09-20T23:38:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7970.jpg?v=1770686251
   Price: $49.00 USD
 - [SHE7863 - Mud Guard Flaps kit - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she-7863-mud-guard-flaps): SKU:SHE7863--ITEM NAME:Mud Guard Flaps kit--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:32:05Z
+  Updated: 2026-09-16T07:57:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7863.jpg?v=1769067050
   Price: $55.00 USD
 - [E7749 - 72V50Ah Battery(Type B) - SS3.0](https://www.eridepro.com/products/e7749-72v50ah-lithium-ion-battery-type-b): SKU:E7749--ITEM NAME:72V50Ah(E7 3.0）Lithium Ion Battery TYPE B--MODEL：Pro SS 3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T03:01:25Z
+  Updated: 2026-09-18T17:59:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7749.jpg?v=1769649487
   Price: $2,099.00 USD
 - [SHE7036 - Controller Hardware Kit - SR](https://www.eridepro.com/products/she7036-controller-hardware-kit): SKU:SHE7036--ITEM NAME:Controller Hardware Kit；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:50:51Z
+  Updated: 2026-09-18T23:21:17Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7036.jpg?v=1785394489
   Price: $25.00 USD
 - [E7387 - REAR AXLE NUT - All Models](https://www.eridepro.com/products/e7387): SKU:E7387--ITEM NAME:REAR AXLE NUT--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:43:26Z
+  Updated: 2026-09-20T20:54:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7387_cb6b39ed-f98d-4327-9f36-1bd01545ad18.jpg?v=1773974923
   Price: $6.00 USD
-- [(E7484-2) - FAST ACE Fork Axle Nuts (2pcs) - SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7484-2): SKU:E7484-2--ITEM NAME:FAST ACE FORK AXLE NUTS (2pcs)；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-13T00:18:15Z
-  Vendor: E RIDE PRO Global
-  Product Type: Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7484-2-z31.jpg?v=1768811654
-  Price: $7.50 USD
 - [SHE7825 - Taillight kit - SR](https://www.eridepro.com/products/she7825-taillight-kit): SKU:SHE7825--ITEM NAME:Taillight kit--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:59:07Z
+  Updated: 2026-09-21T15:51:24Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7825.jpg?v=1769066519
   Price: $35.00 USD
 - [SHE7075 - M12 Rear Wheel Axle - ProS/SS2.0(2025Version)/SS3.0/SR](https://www.eridepro.com/products/she7075-rear-wheel-axle): SKU:SHE7075--ITEM NAME:Rear Wheel Axle--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-11T07:05:31Z
+  Updated: 2026-09-18T23:24:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7075.jpg?v=1769050651
   Price: $35.00 USD
 - [SHE7014 - 12mm Jackshaft Axle + nut + shim +  2 bushings - ProS/SS2.0(2025Version)/SS3.0/SR](https://www.eridepro.com/products/she7014-jackshaft-axle): SKU:SHE7014--ITEM NAME:Jackshaft Axle + nut + shim +  2 bushings--MODEL：All Models；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:27:46Z
+  Updated: 2026-09-18T23:24:28Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7014.jpg?v=1768962342
   Price: $35.00 USD
 - [SHE7041 12mm Swingarm Bearings Kit - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7041-swingarms-bearings-kit): Upgrade your ProS, SS2.0, SS3.0, or SR with the SHE7041 12mm swingarm bearings kit. Includes four 6001 bearings for 2025+ models with 12mm axles.
-  Updated: 2026-09-11T07:07:26Z
+  Updated: 2026-09-18T23:24:27Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7041-z34.jpg?v=1768973618
   Price: $29.00 USD
+- [SHE7038 - Bolts and nuts for speedometer - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7038-bolts-and-nuts-for-speedometer): SKU:SHE7038--ITEM NAME:Bolts and nuts for speedometer--MODEL：ProS/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-16T02:31:36Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7038.jpg?v=1768283289
+  Price: $5.00 USD
 - [SHE7044 - Speedometer Adapter Cable - PRO S/SS2.0/SS3.0](https://www.eridepro.com/products/she7044-speedometer-adapter-cable): SKU:SHE7044--ITEM NAME:Speedometer Adapter Cable--MODEL：PRO S/SS2.0/SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T21:04:41Z
+  Updated: 2026-09-21T05:58:01Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7044.jpg?v=1768981127
   Price: $9.00 USD
 - [E7766L - DOT4 Type 2 Rear Brake Cylinder Pump Assembly with Caplier(with 2 Screws) - SS3.0/SR](https://www.eridepro.com/products/e7766l-brake-2-rear-brake-cylinder-pump-assy-w-caliper-2-screws): SKU:E7766L--ITEM NAME:Brake 2 Rear Brake Cylinder Pump Assy w/caliper & 2 screws--MODEL：PRO SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:25:56Z
+  Updated: 2026-09-21T05:33:11Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7766L.jpg?v=1768896639
   Price: $145.00 USD
 - [E7748 - Motor Pulley Nut - ALL MODELS](https://www.eridepro.com/products/e7748-motor-pulley-nut): SKU:E7748--ITEM NAME:Motor Pulley Nut--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T14:53:11Z
+  Updated: 2026-09-17T02:01:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7748.jpg?v=1767840098
   Price: $5.00 USD
 - [Fast Ace Front Wheel Axle - SHE7102 for SS 3.0/SR](https://www.eridepro.com/products/she7102-fast-ace-front-wheel-axle): Secure your front wheel with the SHE7102 Fast Ace Axle, specifically designed for SS 3.0 and SR models. Durable replacement part for electric rideables.
-  Updated: 2026-09-14T12:30:45Z
+  Updated: 2026-09-21T05:35:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -225,7 +225,7 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7621.jpg?v=1768888858
   Price: $25.00 USD
 - [SHE7120 - Brake 1 Rear Brake Hose - SS3.0/SR](https://www.eridepro.com/products/she7120-brake-1-rear-hose): SKU:E7685L--ITEM NAME:Brake 1 Rear Brake Hose--MODEL：SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:27Z
+  Updated: 2026-09-18T00:05:09Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -245,71 +245,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7319-z4.jpg?v=1768806280
   Price: $780.00 USD
+- [E7750 Battery Power Cable - ProS/SS2.0/3.0 - E RIDE PRO](https://www.eridepro.com/products/e7750-battery-power-cable): Connect your battery with the E7750 power cable for ProS, SS2.0, and SS3.0 models. A reliable replacement part for electric rideables from E RIDE PRO.
+  Updated: 2026-09-21T06:38:56Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7750.jpg?v=1768983003
+  Price: $69.00 USD
 - [SHE7059 - 14T SPROCKET SET WITH BOLTS - 3.0/SR](https://www.eridepro.com/products/she7059-14t-sprocket-set-with-bolts): SKU:SHE7059--ITEM NAME:14T SPROCKET SET WITH BOLTS--MODEL：3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T11:20:18Z
+  Updated: 2026-09-18T23:21:27Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7059.jpg?v=1768985229
   Price: $19.00 USD
 - [SHE7824 Brake 2 Levers - SS3.0/SR | E RIDE PRO](https://www.eridepro.com/products/she7824-brake-2-levers): Upgrade your electric rideable with SHE7824 Brake 2 Levers for SS3.0/SR systems. Find reliable eride pro brake levers and parts at E RIDE PRO.
-  Updated: 2026-09-14T03:07:37Z
+  Updated: 2026-09-21T17:30:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7824.jpg?v=1768983701
   Price: $25.00 USD
 - [SHE7103 - Battery Bottom Bracket Kit - SR/Pro SS 3.0](https://www.eridepro.com/products/she7103-battery-bottom-bracket-kit-sr-pro-ss-3-0): SKU: SHE7103 ITEM NAME: Battery Bottom Bracket Kit MODEL: SR/Pro SS 3.0
-  Updated: 2026-09-14T13:35:55Z
+  Updated: 2026-09-17T21:43:44Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/13691f32-b48777_f1c2f7c84eca4250934da929a586c4e1_mv2.jpg?v=1760251760
   Price: $25.00 USD
-- [SHE7035 - Controller Mount Hardware Kit - SS3.0](https://www.eridepro.com/products/she7035-controller-mount-hardware-kit): SKU:SHE7035--ITEM NAME:Controller Mount Hardware Kit--MODEL：SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:29Z
+- [SHE7035 - Controller Mount Hardware Kit - S/SS2.0/SS3.0](https://www.eridepro.com/products/she7035-controller-mount-hardware-kit): SKU:SHE7035--ITEM NAME:Controller Mount Hardware Kit--MODEL：SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-21T18:13:17Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7035.jpg?v=1785393405
   Price: $25.00 USD
 - [E7289 - 72V50Ah Lithium Ion Battery (Dual Connector) - SR](https://www.eridepro.com/products/e7289): Power your E Ride Pro SR with the E7289 72V50Ah lithium-ion battery. This dual connector battery provides reliable, long-lasting power for your electric rideable.
-  Updated: 2026-09-14T19:20:12Z
+  Updated: 2026-09-21T05:31:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7289.jpg?v=1770686446
   Price: $2,499.00 USD
 - [E7271 72V50Ah Battery | E Ride Pro SS3.0, SS2.0, ProS Upgrade](https://www.eridepro.com/products/e7271): Upgrade your E Ride Pro with the E7271 72V50Ah battery. Compatible with SS3.0, SS2.0, and ProS models, offering extended range and superior power. Shop E RIDE PRO.
-  Updated: 2026-09-14T07:41:56Z
+  Updated: 2026-09-18T22:20:49Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7271.jpg?v=1768803767
   Price: $2,099.00 USD
 - [SHE7068 - Rear Wheel Assembly 18''+ rim stripe+Rear wheel axle bush*2 - PRO SS3.0/SR](https://www.eridepro.com/products/she7068-rear-wheel-assembly-rim-stripe-rear-wheel-axle-bush-2): SKU:SHE7068--ITEM NAME:Rear  Wheel Assembly+ rim stripe+Rear wheel axle bush*2--MODEL：PRO SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:53:56Z
+  Updated: 2026-09-17T06:03:41Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7068-Rear_hub_assy_w_o_tire-18__Straight-pull_hub_SS_3.0_SR.jpg?v=1782296423
   Price: $279.00 USD
 - [SHE7069 - Front  Wheel Assembly+rim stripe+Hub Cone Spacer*2 - SS3.0/SR](https://www.eridepro.com/products/she7069-front-wheel-assembly-rim-stripe-front-wheel-hub-cone-spacer-2): SKU:SHE7069--ITEM NAME:Front  Wheel Assembly+rim stripe+Front Wheel  Hub Cone Spacer*2--MODEL： SS3.0/SR ；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:28:51Z
+  Updated: 2026-09-17T06:03:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7069_dca083c6-7e65-41f8-a80e-041e5b2fa491.jpg?v=1770810808
   Price: $279.00 USD
 - [SHE7823 - Brake Pads (BRAKE 2 VERSION) -  ProSS 3.0/SR](https://www.eridepro.com/products/she7823-brake-pads-brake-2-version): SKU:SHE7823--ITEM NAME:Brake Pads (BRAKE 2 VERSION)--MODEL：SS 3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T19:56:06Z
+  Updated: 2026-09-21T21:42:56Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7823.jpg?v=1769066341
   Price: $19.00 USD
 - [E6039 60V Mini Charger for E RIDE PRO Electric Rideables](https://www.eridepro.com/products/e6039): Keep your E RIDE PRO Mini charged with the E6039 60V Mini Charger. A compact and essential part for your electric scooter or skateboard.
-  Updated: 2026-09-14T07:31:16Z
+  Updated: 2026-09-21T03:27:55Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -317,7 +324,7 @@
   Price: $239.00 USD
 - [E6031 - Front Brake Cylinder Pump Assembly - Mini/Mini R](https://www.eridepro.com/products/e6031): SKU:E6031--PRODUCT NAME:Front Brake Cylinder Pump Assembly--MODEL: MINI
 Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:31:06Z
+  Updated: 2026-09-21T05:30:42Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -331,7 +338,7 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7324.jpg?v=1768806127
   Price: $18.00 USD
 - [RK 428 114L Gold Chain - E7565 for Electric Rideables](https://www.eridepro.com/products/e7565): Upgrade your electric rideable with the E7565 - RK 428 114L Gold Chain. This durable 114-link, 428 pitch chain offers reliable power transfer and corrosion resistance.
-  Updated: 2026-09-14T12:24:56Z
+  Updated: 2026-09-20T00:16:15Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -344,8 +351,15 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7016.jpg?v=1769074648
   Price: $125.00 USD
+- [SHE7001 - Skid Plate W/ BOLTS - PRO SS3.0](https://www.eridepro.com/products/she7001-skid-plate-w-bolts): SKU:SHE7001--ITEM NAME:Skid Plate W/ BOLTS--MODEL：PRO SS3.0 ；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-17T05:58:01Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7001.jpg?v=1772682017
+  Price: $59.00 USD
 - [SHE7030 - Wide Foot Peg L&R - All models](https://www.eridepro.com/products/she7030-wide-foot-peg): SKU:SHE7030--ITEM NAME:Wide foot peg LH&RH--MODEL：SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:27:56Z
+  Updated: 2026-09-21T06:39:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -358,8 +372,8 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7037.jpg?v=1768973193
   Price: $499.00 USD
-- [SHE7049 - Horn kit - S/SS2.0/SS3.0](https://www.eridepro.com/products/she7049-horn-kit): SKU:SHE7049--ITEM NAME:Horn kit--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:51:46Z
+- [SHE7049 Horn Kit - S/SS2.0/SS3.0 - E RIDE PRO](https://www.eridepro.com/products/she7049-horn-kit): The SHE7049 Horn Kit is compatible with S/SS2.0/SS3.0 models. This essential safety component provides clear auditory signaling for electric rideables.
+  Updated: 2026-09-18T20:32:35Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -387,14 +401,14 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7054.jpg?v=1768984580
   Price: $25.00 USD
 - [SHE7050 - Voltage converter - All Models](https://www.eridepro.com/products/she7050-voltage-converter): SKU:SHE7050--ITEM NAME:Voltage converter--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T22:37:37Z
+  Updated: 2026-09-17T02:02:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7050.jpg?v=1768883799
   Price: $29.00 USD
 - [SHE7065 - Rear Brake Caliper Bracket + 2 Bolts - Pro SS 3.0/SR](https://www.eridepro.com/products/she7065-rear-brake-caliper-bracket-2-bolts): SKU:SHE7065--ITEM NAME:Rear Brake Caliper Bracket + 2 Bolts--MODEL：ProSS 3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:53:35Z
+  Updated: 2026-09-15T20:23:41Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -408,84 +422,84 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7062.jpg?v=1768987261
   Price: $9.00 USD
 - [E7516 - Display Communication Cable - S/2.0/3.0](https://www.eridepro.com/products/e7516-display-communication-cable-2-0): Pro S, SS 2.0, SS 3.0 Connects Display to Wiring Harness
-  Updated: 2026-09-11T23:50:56Z
+  Updated: 2026-09-16T00:57:01Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/2724ee21-b48777_3aa19cb3ee5c49cb9fb10f01029152f3_mv2.jpg?v=1760251763
   Price: $8.00 USD
 - [SHE7066 - Foot Peg Mount Assembly for - PRO S/SS2.0/3.0/SR](https://www.eridepro.com/products/she7066-foot-peg-mount-assembly): SKU:SHE7066--ITEM NAME:Foot Peg Mount Assembly for--MODEL：PRO S/SS2.0/3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T14:24:06Z
+  Updated: 2026-09-21T06:39:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7066.jpg?v=1769047883
   Price: $19.00 USD
 - [SHE7072 - Motor Protection Guard - Pro SS3.0/SR](https://www.eridepro.com/products/she7072-motor-protection-guard): SKU:SHE7072--ITEM NAME:Motor Protection Guard--MODEL：SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:54:27Z
+  Updated: 2026-09-21T06:39:33Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7072.jpg?v=1769050127
   Price: $19.00 USD
 - [SHE7073 - Jackshaft Guard - All Models](https://www.eridepro.com/products/she7073-jackshaft-guard): SKU:SHE7073--ITEM NAME:Jackshaft Guard--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:54:37Z
+  Updated: 2026-09-21T02:23:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7073.jpg?v=1769050232
   Price: $19.00 USD
 - [SHE7076 - 330mm Kickstand + Spring+bolt kit - SS2.0/SS3.0/SR/Pro 4.0](https://www.eridepro.com/products/she7076): SKU:SHE7076--ITEM NAME:330MM Kickstand + bolt kit--MODEL：SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T09:13:06Z
+  Updated: 2026-09-15T15:41:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7076.png?v=1776932910
   Price: $29.00 USD
 - [SHE7079 - Left Foot Peg Mounting Bracket + 2 Screws - All Models](https://www.eridepro.com/products/she7079-left-foot-peg-mounting-bracket): SKU:SHE7079--ITEM NAME:Left Foot Peg Mounting Bracket + 2 Screws--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:55:17Z
+  Updated: 2026-09-21T05:34:32Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7079.jpg?v=1769056413
   Price: $37.00 USD
 - [SHE7081 - Battery Positioning Support Base with 6 bolts - Pro S/SS 2.0/3.0](https://www.eridepro.com/products/she7081-battery-positioning-support-base-with-6-bolts): SKU:SHE7081--ITEM NAME:Battery Positioning Support Base with 6 bolts--MODEL：Pro S/SS 2.0/3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T13:35:07Z
+  Updated: 2026-09-21T23:56:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7081.jpg?v=1769056906
   Price: $45.00 USD
 - [SHE7087 - Front Battery Protection Plate with bolts kit - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7087-front-battery-protection-plate): SKU:SHE7087--ITEM NAME:Front Battery Protection Plate with bolts kit--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:37Z
+  Updated: 2026-09-20T15:42:05Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7087.jpg?v=1769057786
   Price: $46.00 USD
 - [SHE7080 - Ignition Switch Seat Lock Kit - All Models](https://www.eridepro.com/products/she7080-ignition-switch-seat-lock-kit): SKU:SHE7080--ITEM NAME:Lgnition Switch Seat Lock Kit--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T20:56:27Z
+  Updated: 2026-09-21T23:51:15Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7080.jpg?v=1769056754
   Price: $45.00 USD
 - [SHE7083 - Front Fender w/ 3 bolts - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7083-front-fender-with-3-bolts): SKU:SHE7083--ITEM NAME:Front Fender w/ 3 bolts--MODEL：S/SS 2.0/SS 3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:29:26Z
+  Updated: 2026-09-21T15:51:27Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7083.jpg?v=1769057178
   Price: $25.00 USD
 - [E Ride Pro Rear Fender w/ 2 Bolts - All Models | E RIDE PRO](https://www.eridepro.com/products/she7085-rear-fender): Shop the SHE7085 rear fender with 2 bolts for all E Ride Pro models at E RIDE PRO. Durable replacement part to protect your electric rideable from debris.
-  Updated: 2026-09-14T17:52:47Z
+  Updated: 2026-09-21T23:48:45Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7085.jpg?v=1769057614
   Price: $18.00 USD
 - [SHE7086 - Tailpiece MountMud Guard w/ bolts kit - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7086-tailpiece-mountmud-guard): SKU:SHE7086--ITEM NAME:Tailpiece MountMud Guard w/ bolts kit--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:56:17Z
+  Updated: 2026-09-15T05:11:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -505,15 +519,22 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7088.jpg?v=1769057876
   Price: $13.00 USD
+- [SHE7093 - Battery Lock Cover - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7093-key-lock-ignition-cover): SHE7093 - Key Lock Ignition Cover - S/SS2.0/SS3.0/SR
+  Updated: 2026-09-16T06:32:51Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7093.jpg?v=1769063173
+  Price: $19.00 USD
 - [SHE7090 - Seat - All Models](https://www.eridepro.com/products/she7090-seat-short-seat): SKU:SHE7090--ITEM NAME:Seat (short seat)--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T19:09:06Z
+  Updated: 2026-09-21T23:48:45Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7090.jpg?v=1769062544
   Price: $49.00 USD
 - [SHE7094 - Battery Front Support With + 2 Nuts & 2 Bolts - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7094-battery-front-support-with-2-nuts-2-bolts): SKU:SHE7094--ITEM NAME:Battery Front Support With + 2 Nuts & 2 Bolts--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T22:12:36Z
+  Updated: 2026-09-17T05:21:45Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -541,7 +562,7 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7099.jpg?v=1768459746
   Price: $49.40 USD
 - [SHE7101 - Number Plate - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7101-number-plate): SKU:SHE7101--ITEM NAME:Number Plate--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:30:37Z
+  Updated: 2026-09-17T02:02:56Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -554,29 +575,15 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7008.jpg?v=1768960483
   Price: $799.00 USD
-- [SHE7071 - 19'' Fatty FRONT TIRE +TUBE+Rim Stripe - SS3.0/SR](https://www.eridepro.com/products/she7071-fattyoff-road-front-tire-tube-rim-stripe): SKU:SHE7071--ITEM NAME:Fatty(off-road) FRONT TIRE +TUBE+Rim Stripe--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:29:11Z
-  Vendor: E RIDE PRO Global
-  Product Type: Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7071F.jpg?v=1769062067
-  Price: $94.00 USD
-- [SHE7070 - 18'' Fatty(off-road) REAR TIRE +TUBE+Rim Stripe](https://www.eridepro.com/products/she7070-fattyoff-road-rear-tire-tube-rim-stripe): SKU:SHE7070--ITEM NAME:Fatty(off-road) REAR TIRE +TUBE+rim stripe--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:28:56Z
-  Vendor: E RIDE PRO Global
-  Product Type: Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7070R.jpg?v=1769062030
-  Price: $95.00 USD
 - [SHE7004 - 19" Babyfat  Front Tire +Tube+Rim Stripe - SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7004-babyfat-front-tire-tube-rim-stripe): SKU:SHE7004--ITEM NAME:Babyfat  FRONT TIRE +TUBE+Rim Stripe--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:49:36Z
+  Updated: 2026-09-21T20:06:38Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/IMG_3386.jpg?v=1770801637
   Price: $82.00 USD
 - [SHE7003 - 18" Babyfat Rear Tire +Tube+Rim Stripe - SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7003-babyfat-rear-tire-tube-rim-stripe): SKU:SHE7003--ITEM NAME:3.00*19 BABYFAT Rear Tire + Tube + Rim Stripe--MODEL：PRO SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:27:16Z
+  Updated: 2026-09-21T20:06:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -611,42 +618,42 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7055.jpg?v=1768984687
   Price: $89.00 USD
 - [SHE7042 - Subframe/Tailstock with bolts - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7042-subframe-tailstock-with-bolts): SKU:SHE7042--ITEM NAME:Subframe/Tailstock with bolts--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-13T17:02:06Z
+  Updated: 2026-09-21T06:39:19Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7042.jpg?v=1768973766
   Price: $249.00 USD
 - [SHE7092 Brake 1 Levers - ProSS 3.0/SR Compatible | E RIDE PRO](https://www.eridepro.com/products/she7092-brake-1-levers): Ensure precise control and reliable stopping power with SHE7092 Brake 1 Levers for electric rideables. Compatible with ProSS 3.0/SR systems. Shop at E RIDE PRO.
-  Updated: 2026-09-14T12:30:17Z
+  Updated: 2026-09-21T15:09:11Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7092-Type_1-Brake_Lever_2pcs_kit_SS3.0_SR.jpg?v=1782296222
   Price: $25.00 USD
 - [E7582 Display - SR | Electric Rideable Parts | E RIDE PRO](https://www.eridepro.com/products/e7582-display): Find the E7582 Display - SR, a replacement part for electric rideables. This unit provides essential controls and information for your e-bike, scooter, or skateboard.
-  Updated: 2026-09-11T08:33:42Z
+  Updated: 2026-09-17T05:39:05Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7582.jpg?v=1768887200
   Price: $169.00 USD
 - [SHE7053 - 428 58T Aluminum Sprocket (w/5screws) - SR](https://www.eridepro.com/products/she7624-58t-sprocket-w-5screws): SKU:SHE7053--ITEM NAME:428 58T Aluminum Sprocket (w/5screws)--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:45Z
+  Updated: 2026-09-18T23:21:27Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7053.jpg?v=1769067728
   Price: $65.00 USD
-- [E7635 - Battery Power Cable - SR](https://www.eridepro.com/products/e7635-battery-power-cable): SKU:E7635--ITEM NAME:Battery Power Cable--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T11:19:47Z
+- [E7635 Battery Power Cable - SR - E RIDE PRO](https://www.eridepro.com/products/e7635-battery-power-cable): The E7635 Battery Power Cable is an SR-compatible power cable for electric bicycles, scooters, and skateboards. It provides a secure and reliable connection.
+  Updated: 2026-09-16T08:58:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7635.jpg?v=1768889170
   Price: $85.00 USD
 - [E7300 - Battery Power Cable Applicable to Breaker Switch - ProS/Pro SS2.0/3.0](https://www.eridepro.com/products/e7300-battery-power-cable): SKU:E7300--ITEM NAME:Battery Power Cable Applicable to breaker switch--MODEL：S/SS2.0/SS3.0/SR/MINI/All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:46Z
+  Updated: 2026-09-21T00:29:05Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -660,14 +667,14 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7011.jpg?v=1768962095
   Price: $265.00 USD
 - [SHE7002 - FSTACE Fork Protector (L+R) - SR/3.0](https://www.eridepro.com/products/she7002-fstace-fork-protector-l-r): SKU:SHE7002--Brand:FSTACE--ITEM NAME:Fork Protector (L+R)--MODEL：SR/3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T23:01:56Z
+  Updated: 2026-09-17T05:40:45Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7002.jpg?v=1768900595
   Price: $29.00 USD
 - [E7327 - Drive Belt 18mm Width - SS3.0](https://www.eridepro.com/products/e7327): SKU:E7327--ITEM NAME:Drive Belt 18mm Width--MODEL：SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:24:15Z
+  Updated: 2026-09-21T15:10:17Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -681,49 +688,49 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7655.jpg?v=1768889469
   Price: $25.00 USD
 - [E7022 - Display - ProS/SS2.0/SS3.0](https://www.eridepro.com/products/e7022): SKU:E7022--PRODUCT NAME:Display--MODEL：SS 3.0;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:22:36Z
+  Updated: 2026-09-21T05:31:05Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7022.jpg?v=1768454699
   Price: $169.00 USD
 - [E7606 - Main Wiring Harness -  SR](https://www.eridepro.com/products/e7606-main-wiring-harness): SKU:E7606--ITEM NAME:Main Wiring Harness--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T19:23:46Z
+  Updated: 2026-09-19T22:35:08Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7606.jpg?v=1768887724
   Price: $135.00 USD
 - [E7015 - Main Wiring Harness - SS3.0](https://www.eridepro.com/products/e7015): SKU:E7015--PRODUCT NAME:3.0 Main Wiring Harness--MODEL：SS3.0/SS2.0/SR/MINI;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:36:57Z
+  Updated: 2026-09-17T02:00:31Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7015.jpg?v=1768453588
   Price: $135.00 USD
 - [E7291 - REGEN - SR](https://www.eridepro.com/products/e7291-regen): SKU:E7291--ITEM NAME:REGEN--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:23:45Z
+  Updated: 2026-09-21T05:31:56Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7291.jpg?v=1768900015
   Price: $25.00 USD
 - [E7654 - REVERSE - SR/MINI/MINI R](https://www.eridepro.com/products/e7654-reverse): SKU:E7654--ITEM NAME:REVERSE--MODEL：SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-12T22:24:46Z
+  Updated: 2026-09-15T20:40:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7654.jpg?v=1768889352
   Price: $19.00 USD
 - [SHE7063 - Brake 1 Front Brake Cylinder Pump Assembly - SS 3.0/SR](https://www.eridepro.com/products/she7063-brake-1-front-brake-cylinder-pump-assembly): SKU:SHE7063--ITEM NAME:Brake 1 Front Brake Cylinder Pump Assembly--MODEL：Pro SS 3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:28:35Z
+  Updated: 2026-09-18T22:21:47Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7063.jpg?v=1769047403
   Price: $145.00 USD
 - [E7305 - 72V UL Certificated Charger - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7305): SKU:E7305--ITEM NAME:UL  Charger--MODEL：PRO S/2.0/3.0/SR ；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T21:06:36Z
+  Updated: 2026-09-21T06:38:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -737,42 +744,42 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7021.png?v=1768962501
   Price: $689.00 USD
 - [E7570 - Control Switch - SS2.0/SS3.0](https://www.eridepro.com/products/e7570): SKU:E7570--ITEM NAME:Control Switch--MODEL：SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-13T16:36:41Z
+  Updated: 2026-09-21T05:22:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7570.jpg?v=1768885862
   Price: $49.00 USD
 - [SHE7091 - Fatty Seat(short seat) - All Models](https://www.eridepro.com/products/she7091-fatty-seat): SKU:SHE7091--ITEM NAME:Fatty Seat(short seat)--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T11:20:56Z
+  Updated: 2026-09-21T06:39:57Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7091.jpg?v=1769062694
   Price: $55.00 USD
 - [E7607 Drive Belt - 20mm Width - SR Models - E RIDE PRO](https://www.eridepro.com/products/e7607-drive-belt-20mm-width): The E7607 Drive Belt is a 20mm width replacement part for SR models. Maintain your electric rideable with this specialized drive belt from E RIDE PRO.
-  Updated: 2026-09-14T12:25:07Z
+  Updated: 2026-09-20T20:54:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7607.jpg?v=1768887879
   Price: $79.00 USD
 - [E7646 - Throttle - SS3.0/SR](https://www.eridepro.com/products/e7646-throttle): SKU:E7646--ITEM NAME:THROTTLE--MODEL：SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T23:27:47Z
+  Updated: 2026-09-21T15:51:15Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7646.jpg?v=1768889251
   Price: $99.00 USD
 - [E7313 - Front Brake Hose with hardware - SS2.0](https://www.eridepro.com/products/e7313): SKU:E7313--ITEM NAME:Front Brake Hose--MODEL：S/SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T22:02:27Z
+  Updated: 2026-09-21T06:38:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7313.jpg?v=1768804856
   Price: $16.00 USD
 - [E7314 - Rear Brake Hose with hardware - SS2.0](https://www.eridepro.com/products/e7314): SKU:E7314--ITEM NAME:Rear brake hose--MODEL：S/SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T11:19:17Z
+  Updated: 2026-09-16T07:53:53Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -786,35 +793,35 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7054.jpg?v=1768457691
   Price: $32.50 USD
 - [E7003 Controller SS2.0 - E RIDE PRO Parts](https://www.eridepro.com/products/e7003): The E7003 Controller is a direct replacement part for SS2.0 electric rideables. Manage power distribution and system functions. Find E RIDE PRO 2.0 controller.
-  Updated: 2026-09-14T12:22:20Z
+  Updated: 2026-09-15T06:30:54Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/20250815143734_122.jpg?v=1772276591
   Price: $669.00 USD
 - [E7004 - Drive Belt Pulley - ProS/SS2.0](https://www.eridepro.com/products/e7004): SKU:E7004--PRODUCT NAME:Drive Belt Pulley--MODEL：ProS/SS2.0;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:35:54Z
+  Updated: 2026-09-16T16:50:48Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7004.jpg?v=1768452611
   Price: $87.00 USD
 - [E7006 - Drive Belt - ProS/SS2.0/Mini/Mini R](https://www.eridepro.com/products/e7006): SKU:E7006--PRODUCT NAME:Drive Belt--MODEL：ProS/SS2.0/MINI;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T13:33:56Z
+  Updated: 2026-09-21T06:37:07Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7006.jpg?v=1768452846
   Price: $66.00 USD
 - [E7094 Front Brake Assembly - ProS/SS 2.0](https://www.eridepro.com/products/e7094): Ensure reliable stopping power with the E7094 Front Brake Assembly for PRO S/SS 2.0 electric rideables. Direct fit for consistent braking performance.
-  Updated: 2026-09-14T12:23:02Z
+  Updated: 2026-09-21T05:31:25Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7094f.jpg?v=1768527110
   Price: $110.00 USD
-- [E7095 - Rear Brake Assembly - ProS/SS 2.0](https://www.eridepro.com/products/e7095): SKU:E7095--PRODUCT NAME:Rear Brake Assembly--MODEL：S/SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T13:34:12Z
+- [E7095 Rear Brake Assembly - ProS/SS 2.0 | E RIDE PRO](https://www.eridepro.com/products/e7095): The E7095 Rear Brake Assembly is a direct fit replacement part for PRO S/SS 2.0 electric rideables. Ensure reliable stopping power for your device.
+  Updated: 2026-09-21T21:04:02Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -828,7 +835,7 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7012_984c8c43-98e9-4c88-8dea-9fd9eb9649e9.png?v=1788600405
   Price: $189.00 USD
 - [E7016 - Taillight - ProS/SS2.0/SS3.0](https://www.eridepro.com/products/e7016): SKU:E7016--PRODUCT NAME:Taillight(No brake light)--MODEL：ProS/SS2.0/SS3.0;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:37:05Z
+  Updated: 2026-09-17T02:00:34Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -884,14 +891,14 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7044.jpg?v=1768457032
   Price: $45.50 USD
 - [E7045 - Headlight - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7045): SKU:E7045--PRODUCT NAME:Headlight Led Light Bar；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T10:15:38Z
+  Updated: 2026-09-21T15:09:08Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7045.jpg?v=1769653149
   Price: $49.00 USD
 - [E7047 - Tilt Topple Switch - All Models](https://www.eridepro.com/products/e7047): SKU:E7047--PRODUCT NAME:Tilt Topple Switch；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:01Z
+  Updated: 2026-09-16T07:52:55Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -913,7 +920,7 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7067.jpg?v=1768457807
   Price: $18.20 USD
 - [E7078 - Tailpiece Mount/Mud Guard - ProS/SS2.O/SS3.0/SR](https://www.eridepro.com/products/e7078): SKU:E7078--PRODUCT NAME:Tailpiece Mount/Mud Guard--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:38:56Z
+  Updated: 2026-09-21T15:51:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -927,14 +934,21 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7079.jpg?v=1768459177
   Price: $11.70 USD
 - [E7080 - Chain Guard](https://www.eridepro.com/products/e7080): SKU:E7080--PRODUCT NAME:Chain Guard--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T19:09:07Z
+  Updated: 2026-09-17T03:03:45Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7080.jpg?v=1768459303
   Price: $9.10 USD
+- [E7510 - DUAL HALL THROTTLE - S/SS 2.0](https://www.eridepro.com/products/e7510-s-ss-2-0-dual-hall-throttle): replacing the previous throttle with added safety precautions
+  Updated: 2026-09-21T05:32:46Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/a49e3cde-827dc9_1b0e072f279746d6930be92d01d6157f_mv2.jpg?v=1760251766
+  Price: $60.00 USD
 - [E7085 - Control Switch - S/SS 2.0](https://www.eridepro.com/products/e7085): SKU:E7085--PRODUCT NAME:Control Switch--MODEL：S/SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T19:09:07Z
+  Updated: 2026-09-17T02:01:16Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -947,22 +961,22 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7166.jpg?v=1768542391
   Price: $45.50 USD
-- [E7206 - 55T Sprocket for Electric Rideables | E RIDE PRO](https://www.eridepro.com/products/e7206): Ensure optimal performance for your electric rideable with the E7206 - 55T Sprocket from E RIDE PRO. A durable replacement part for efficient power transfer and reliable operation.
-  Updated: 2026-09-12T14:20:25Z
+- [SHE7853 - Brake Lever 2pcs/kit - Pro S/SS 2.0/MINI/MINI R](https://www.eridepro.com/products/she7853-brake-lever-2pcs-kit): SKU:SHE7853--ITEM NAME:Brake Lever 2pcs/kit--MODEL：S/SS 2.0/MiNi；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-21T14:02:59Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/65406be6c01668d7361edda399eed8e7_703150df-8a12-4590-a746-28796f93f812.png?v=1780306078
-  Price: $58.50 USD
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7853.jpg?v=1769066698
+  Price: $19.00 USD
 - [SHE7849 220mm Rear Brake Disc for SS 2.0 - E RIDE PRO](https://www.eridepro.com/products/e7210): Upgrade or replace your SS 2.0 electric rideable's rear brake disc with the SHE7849 220mm model. Includes bolts for easy installation. Shop E RIDE PRO for parts.
-  Updated: 2026-09-14T12:31:45Z
+  Updated: 2026-09-18T03:16:42Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7210.jpg?v=1768797243
   Price: $39.00 USD
 - [SHE7850- 220mm  Front Break Disc - SS 2.0](https://www.eridepro.com/products/e7211): SKU:E7211--ITEM NAME:SS 2.0 220mm  Front Break Disc--MODEL：S/SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T10:17:42Z
+  Updated: 2026-09-15T03:41:04Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -983,21 +997,21 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7093.jpg?v=1768471231
   Price: $35.00 USD
 - [E7212 - Circuit Breaker](https://www.eridepro.com/products/e7212): SKU:E7212--ITEM NAME:Circuit Breaker(Applicable to&nbsp;ProS/SS2.0)--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:40:46Z
+  Updated: 2026-09-17T04:06:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7212.jpg?v=1768798506
   Price: $20.80 USD
 - [E7459 - Speed Meter Holder - SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7198): SKU:E7198--PRODUCT NAME:Speed Meter Holder--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:24:39Z
+  Updated: 2026-09-21T05:32:36Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7198.jpg?v=1768549728
   Price: $9.00 USD
 - [E7073 - Ignition Cover - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7073): SKU:E7073--PRODUCT NAME:Electric Door Lock Switch Cover Cap Protector--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:11Z
+  Updated: 2026-09-18T03:14:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -1011,14 +1025,14 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7071.jpg?v=1768457959
   Price: $9.10 USD
 - [E7077 - Rear Wheel Hugger - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7077): SKU:E7077--PRODUCT NAME:Rear Wheel Hugger--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T10:15:42Z
+  Updated: 2026-09-21T06:38:06Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7077.jpg?v=1768459024
   Price: $10.40 USD
 - [E7087 - Tapered Roller Bearing - All Models](https://www.eridepro.com/products/e7087): SKU:E7087--PRODUCT NAME:Tapered Roller Bearing--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:22:56Z
+  Updated: 2026-09-21T17:41:29Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -1032,35 +1046,35 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/IMG_4154.jpg?v=1767925042
   Price: $62.40 USD
 - [E7184 - Kickstand Sensor](https://www.eridepro.com/products/e7184): SKU:E7184--PRODUCT NAME:Kickstand Sensor(Magnetic Control Induction Switch&nbsp)--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T10:16:02Z
+  Updated: 2026-09-20T21:42:46Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7184.jpg?v=1768554762
   Price: $10.00 USD
 - [E7194 - Left Handlebar Grip - All models](https://www.eridepro.com/products/e7194l): SKU:E7194l--PRODUCT NAME:Left Handlebar Grip--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T09:11:03Z
+  Updated: 2026-09-21T21:34:11Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7194L.jpg?v=1768477702
   Price: $16.00 USD
 - [E7479 - Right Handlebar Grip - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7479r): SKU:E7479--ITEM NAME:Right Handlebar Grip--MODEL：S/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T09:11:40Z
+  Updated: 2026-09-21T06:38:56Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7479R.png?v=1768811382
   Price: $16.00 USD
 - [E7217 - Front Number Plate](https://www.eridepro.com/products/e7217): SKU:E7217--ITEM NAME:Front Number Plate--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:23:27Z
+  Updated: 2026-09-19T00:05:47Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7217.jpg?v=1768797716
   Price: $20.00 USD
 - [E7215 Headlight Switch - Pro S/SS2.0 - E RIDE PRO](https://www.eridepro.com/products/e7215): Replace your E7215 Headlight Switch for Pro S/SS2.0 electric rideables. Genuine part for reliable headlight control and safety. Shop at E RIDE PRO.
-  Updated: 2026-09-14T07:40:51Z
+  Updated: 2026-09-17T05:21:35Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -1074,14 +1088,57 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7333-z32.jpg?v=1768806502
   Price: $5.00 USD
 - [SHE7859 - Axle for FAST ACE - SS2.0](https://www.eridepro.com/products/e7484-axle-for-fast-ace): SKU:SHE7859--ITEM NAME:Axle for FAST ACE--MODEL：SS2.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T09:14:39Z
+  Updated: 2026-09-19T20:07:59Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7859.jpg?v=1769066808
   Price: $19.00 USD
+- [E7358 - Bolts for Belt Pulley](https://www.eridepro.com/products/e7502): SKU:E7502--ITEM NAME:Bolts for Belt Pulley；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-16T02:31:05Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7502.jpg?v=1768815858
+  Price: $5.00 USD
+- [E7383 - Foot Peg Nuts](https://www.eridepro.com/products/e7504-foot-peg-nuts)
+  Updated: 2026-09-16T02:29:15Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7504.jpg?v=1767862107
+  Price: $4.00 USD
+- [SHE7871 - Headlight Adjuster Bolt and Nut - S/SS2.0](https://www.eridepro.com/products/e7506-headlight-adjuster-bolt-and-nut)
+  Updated: 2026-09-16T02:27:06Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7871.jpg?v=1788599097
+  Price: $4.00 USD
+- [SHE7872 Ignition Switch Cover Bolts - E RIDE PRO](https://www.eridepro.com/products/e7509-ignition-switch-cover-bolts): Secure your electric rideable's ignition switch cover with SHE7872 bolts from E RIDE PRO. Durable replacement parts for electric bikes, scooters, & skateboards.
+  Updated: 2026-09-16T02:34:21Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7872.jpg?v=1788858665
+  Price: $5.00 USD
+- [SHE7873 - Rear Suspension Linkage Bolts - ProS/SS2.0](https://www.eridepro.com/products/she7873-rear-suspension-linkage-bolts): SKU: SHE7873--ITEM NAME: Rear Suspension Linkage Bolts--MODEL:S/SS2.0
+Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-19T05:02:22Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7873.jpg?v=1769067384
+  Price: $5.00 USD
+- [E7374 - Battery Door Bolts](https://www.eridepro.com/products/e7512-battery-cover-bolts)
+  Updated: 2026-09-17T03:30:55Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/Screenshot_23-10-2025_17355_manage.wix.com.jpg?v=1761266062
+  Price: $4.00 USD
 - [E7251 70/100-17" F&R Tire Tube for CST - ProS](https://www.eridepro.com/products/e7251): The E7251 tire tube for 70/100-17" front and rear tires is compatible with CST - ProS models. Maintain consistent tire pressure for your electric rideable.
-  Updated: 2026-09-14T09:24:12Z
+  Updated: 2026-09-21T21:42:22Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
@@ -1095,32 +1152,46 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7518.png?v=1769594067
   Price: $6.00 USD
 - [E7209 - RST Front Wheel Axle - ProS/SS2.0(2024Model)](https://www.eridepro.com/products/e7268): SKU:E7209--ITEM NAME:RST Front Wheel Axle--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T07:40:37Z
+  Updated: 2026-09-21T06:38:04Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7209__RST.jpg?v=1768797144
   Price: $32.00 USD
+- [E7526 - Front Fender Bolt  3pcs/kit](https://www.eridepro.com/products/e7526-front-fender-bolt-3pcs-kit): SKU:E7526--ITEM NAME:Front Fender Bolt  3pcs/kit--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-16T09:09:16Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7526.jpg?v=1768884351
+  Price: $3.00 USD
 - [E7525 - Front Wheel Hub Cone Spacer - All Models](https://www.eridepro.com/products/e7525-front-wheel-hub-cone-spacer): SKU:E7525--ITEM NAME:Front Wheel Hub Cone Spacer；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T09:11:46Z
+  Updated: 2026-09-18T03:15:17Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7525.jpg?v=1768884148
   Price: $12.00 USD
 - [E7345 - Linkage washer 8mm](https://www.eridepro.com/products/e7345): SKU:E7345--ITEM NAME:Linkage washer 8mm--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:21Z
+  Updated: 2026-09-21T05:32:16Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/IMG_3268.jpg?v=1768806853
   Price: $3.00 USD
 - [E7394 - Linkage washer 12mm](https://www.eridepro.com/products/e7394): SKU:E7394--ITEM NAME:Linkage washer 12mm--MODEL：All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:21Z
+  Updated: 2026-09-19T02:38:37Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7394.jpg?v=1768808163
+  Price: $3.00 USD
+- [E7376 - Headlight washer](https://www.eridepro.com/products/e7376): SKU:E7376--ITEM NAME:Headlight washer--MODEL：S/SS2.0/SS3.0/SR/MINI/All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-16T02:30:16Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7376.jpg?v=1768807004
   Price: $3.00 USD
 - [E7101 - 10mm Swingarm Axle Bush(short one ) - ProS/SS2.0](https://www.eridepro.com/products/e7101): SKU:E7101--PRODUCT NAME:Swing arm axle bush (short one )--MODEL：S/SS2.0/SS3.0/SR/MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Updated: 2026-09-10T00:36:22Z
@@ -1165,14 +1236,14 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/f7edc36655af8664c3fd2d3501603210.jpg?v=1781242187
   Price: $3.00 USD
 - [E7315 - Brake Sensor - Pro S/SS2.0/Mini](https://www.eridepro.com/products/e7315): SKU:E7315--ITEM NAME:Brake Sensor--MODEL：Pro S/SS2.0/Mini;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:25Z
+  Updated: 2026-09-19T04:24:26Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7315.jpg?v=1768893994
-  Price: $15.00 USD
+  Price: $19.00 USD
 - [PRO 4.0 E-Moto - Off-Road Electric Motorcycle | E RIDE PRO](https://www.eridepro.com/products/pro-4-0): Discover the PRO 4.0 e-moto at E RIDE PRO. This off-road electric motorcycle offers superior power, precise handling, and advanced customization for dynamic riding.
-  Updated: 2026-09-14T20:31:47Z
+  Updated: 2026-09-21T16:02:51Z
   Vendor: E RIDE PRO Global
   Product Type: E-MOTO
   Availability: Available
@@ -1185,8 +1256,8 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/4416002b0f16d00753399b2463ad3408.png?v=1789091381
     Price: $4,999.00 USD
-- [SR](https://www.eridepro.com/products/pro-sr): Dominate the wild with the 2025 E Ride Pro SR e-moto. The best off road e-moto of 2024 has a big, bad brother, now! The E Ride Pro SR was engineered for thrill-seekers who demand power, precision and top-tier performance.
-  Updated: 2026-09-14T07:29:56Z
+- [SR](https://www.eridepro.com/products/pro-sr): Dominate the wild with the 2025 E Ride Pro SR e-moto. The best off road e-moto of 2024 has a big, bad brother, now! The E Ride Pro SR was engineered for thrill-seekers who demand power, precision and top-tier performance. Built to conquer demanding trails and rugged terrain, the E Ride Pro SR combines instant electric torque with responsive handling and confidence-inspiring control. From steep climbs and technical sections to wide-open off-road runs, the SR delivers the acceleration, stability and durability serious riders expect. This is more than an upgrade—it is E Ride Pro performance taken to the next level.
+  Updated: 2026-09-21T19:27:17Z
   Vendor: E RIDE PRO Global
   Product Type: E-MOTO
   Availability: Available
@@ -1205,35 +1276,42 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
     Price: $5,699.00 USD
   - [Long Seat 19'' / 16''](https://www.eridepro.com/products/pro-sr?variant=47935138070742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/9708fa1627c1ee519a5a1b05cf7f9745.png?v=1789032880
+    Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/PRO_SR_25_kW_peak_power_off-road_e_moto.png?v=1789547880
     Price: $5,699.00 USD
 - [SHE7061 - 220mm Front Break Disc - PRO SS 3.0/SR](https://www.eridepro.com/products/she7061-220mm-front-break-disc): SKU:SHE7061--ITEM NAME:220mm Front Break Disc--MODEL：PRO SS 3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:28:26Z
+  Updated: 2026-09-20T19:42:15Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7061.jpg?v=1768985869
   Price: $39.00 USD
 - [SHE7060 - 220mm Rear Brake Disc With Screws - ProSS3.0/SR](https://www.eridepro.com/products/she7060-220mm-rear-brake-disc-with-screws-pross3-0-sr): SKU:E1234--ITEM NAME:220mm Rear Brake Disc With Screws--MODEL：S/SS2.0/SS3.0/SR/MINI/All Model；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:28:16Z
+  Updated: 2026-09-20T19:42:15Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7060.jpg?v=1768985364
   Price: $39.00 USD
+- [E7083 - 2″ Rise Handlebar - S/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7083): SKU:E1234--PRODUCT NAME:Handlebar（02″ rise handlebar）--MODEL：S/SS2.0/SS3.0/SR/；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-21T21:34:06Z
+  Vendor: E RIDE PRO Global
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/b2f58fdd-30d2-4f91-a68d-f1ccec6e710d.png?v=1772274822
+  Price: $65.00 USD
 - [PRO SS 2.0 E-Moto - Electric Motorcycle | E RIDE PRO](https://www.eridepro.com/products/pro-ss-2-0): Discover the PRO SS 2.0 E-Moto at E RIDE PRO. This electric motorcycle combines advanced technology with performance for an exceptional ride.
-  Updated: 2026-09-14T09:09:47Z
+  Updated: 2026-09-17T19:58:32Z
   Vendor: E RIDE PRO Global
   Product Type: E-MOTO
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/PROSS2.0-2025-10-22.png?v=1761201250
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E_RIDE_PRO_PRO_SS_2.0_off-road_e_moto.png?v=1789547930
   Price: $4,599.00 USD
 - [PRO-S](https://www.eridepro.com/products/pro-s): The sweet spot between price, power, and performance.
-  Updated: 2026-09-14T07:30:16Z
+  Updated: 2026-09-18T10:18:14Z
   Vendor: E RIDE PRO Global
   Product Type: E-MOTO
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/S16-1_b76be9e6-4390-4133-8767-31f178614516.jpg?v=1788326759
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E_RIDE_PRO_PRO-S_off-road_e_moto.jpg?v=1789548115
   - [PRO-S (16")](https://www.eridepro.com/products/pro-s?variant=47607907549398)
     Availability: Available
     Price: $3,999.00 USD
@@ -1241,21 +1319,28 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
     Availability: Available
     Price: $3,999.00 USD
 - [SHE7996 - Bluetooth dongle with connector - ProS/SS2.0/SS3.0/Mini (2024 version)](https://www.eridepro.com/products/bluetooth-cable-for-2024-2-0-models-without-bluetooth): This Bluetooth dongle is for SS2.0 models that came without the Bluetooth feature. (3 pins)
-  Updated: 2026-09-14T12:32:56Z
+  Updated: 2026-09-21T06:40:26Z
   Vendor: E RIDE PRO
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/z17.jpg?v=1761088025
   Price: $55.00 USD
 - [E7766R - DOT4 Type 2 Front Brake Assembly with hardware - SS3.0/SR](https://www.eridepro.com/products/e7766r-type-2-front-brake-cylinder-pump-assembly-with-hardware): SKU:E7766R--ITEM NAME:Type 2 - Front Brake Cylinder Pump Assembly with hardware--MODEL：PRO SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T10:16:22Z
+  Updated: 2026-09-15T06:46:28Z
   Vendor: E RIDE PRO Global
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7766R.jpg?v=1768896848
   Price: $145.00 USD
+- [SHE7970 - 16'' Rear Wheel Assembly(with J-bend hub) - ProS](https://www.eridepro.com/products/she7970-rear-wheel-assembly-16): SKU: SHE7970 ITEM NAME: Rear Wheel Assembly-16'' (with J-bend hub) INCLUDE: Tire E7788-1+Tube E7788-2+J Ben Rear Wheel Hub E7838+Brake Disc E7092+Sprocket E7206+ScrewE7681*5+E7186*6+E7788-2+E7792 Stripe MODEL: S 16"
+  Updated: 2026-09-17T06:03:41Z
+  Vendor: E RIDE PRO
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7970.jpg?v=1769150414
+  Price: $369.00 USD
 - [SHE7084 - Front Fender - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/she7084-front-fender): SKU:SHE7084--ITEM NAME:Front Fender--MODEL：SS2.0/SS3.0；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-14T12:29:35Z
+  Updated: 2026-09-21T06:39:46Z
   Vendor: E RIDE PRO
   Product Type: Parts
   Availability: Available
@@ -1275,8 +1360,22 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7112.png?v=1782277846
   Price: $279.00 USD
-- [SHE7612 - Bluetooth Dongle 2025 (4 pins)](https://www.eridepro.com/products/e7612): SKU:E7612--ITEM NAME:Bluetooth Dongle(4 pins)--MODEL：Mini/ProS/SS2.0/SS3.0 ;Deliver within 5-10 days,CLAIM YOUR RIDE>>>
-  Updated: 2026-09-10T00:36:31Z
+- [E7450 - 12mm Swingarm Axle Bush (short one) - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7450): SKU:E7450--ITEM NAME:12mm Swingarm Axle Bush (short one) --MODEL：ProS/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-17T00:21:06Z
+  Vendor: E RIDE PRO
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7450.jpg?v=1768279343
+  Price: $3.00 USD
+- [E7449 - 12mm Swingarm Axle Bush(Long one) - ProS/SS2.0/SS3.0/SR](https://www.eridepro.com/products/e7449): SKU:E7449--ITEM NAME:12mm Swingarm Axle Bush(Long one)--MODEL:ProS/SS2.0/SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-17T00:21:05Z
+  Vendor: E RIDE PRO
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7449.jpg?v=1768279334
+  Price: $5.00 USD
+- [SHE7612 Bluetooth Dongle 2025 (4 pins) - E RIDE PRO](https://www.eridepro.com/products/e7612): SHE7612 Bluetooth Dongle 2025 (4 pins) for E RIDE PRO electric rideables. This part provides Bluetooth connectivity. Compatible with E RIDE PRO systems.
+  Updated: 2026-09-20T23:39:31Z
   Vendor: E RIDE PRO
   Product Type: Parts
   Availability: Available
@@ -1298,7 +1397,7 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7881.jpg?v=1769069628
   Price: $55.00 USD
 - [SHE7882 - 428 48T Sprocket for SS3.0/SR - E RIDE PRO](https://www.eridepro.com/products/she7882-428-48t-sprocket): Get the SHE7882 - 428 48T Sprocket for SS3.0/SR electric rideables. Durable replacement part for reliable power transfer. Shop E RIDE PRO.
-  Updated: 2026-09-14T08:00:57Z
+  Updated: 2026-09-16T07:57:17Z
   Vendor: E RIDE PRO
   Product Type: Parts
   Availability: Available
@@ -1326,36 +1425,50 @@ Deliver within 5-10 days,CLAIM YOUR RIDE>>>
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7918.jpg?v=1769071705
   Price: $559.00 USD
 - [19'' Fatty Front Tire E7201-1 for 3.0/SR - E RIDE PRO](https://www.eridepro.com/products/e7201-1): Upgrade your electric rideable with the E7201-1 19'' Fatty Front Tire, specifically designed for 3.0/SR models. Tire only; tube sold separately.
-  Updated: 2026-09-14T19:56:06Z
+  Updated: 2026-09-16T06:50:52Z
   Vendor: E RIDE PRO
   Product Type: Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7201-1.jpg?v=1768790802
   Price: $69.00 USD
-[List Continued](https://www.eridepro.com/a/llms-agent/llms.txt?shop=e-ride-pro-global.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjAwNzExMzM2MTUwLCJsYXN0X3ZhbHVlIjoiOTIwMDcxMTMzNjE1MCJ9)
+- [E7235-1 - 18" Fatty Rear Tire w/o Tire Tube - SS3.0/SR](https://www.eridepro.com/products/e7235-1): SKU:E7235-1--ITEM NAME:Fatty Rear Tire 18" w/o Tire Tube(Fatty Rear tire for 3.0/SR -Does NOT include tire tube-)--MODEL：SS3.0/SR；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-21T05:31:46Z
+  Vendor: E RIDE PRO
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/E7235-1-Fatty_Rear.jpg?v=1770687810
+  Price: $69.00 USD
+- [SHE7916 - Controller - Mini](https://www.eridepro.com/products/she7916-controller): SKU:SHE7916--ITEM NAME:Controller--MODEL：MINI；Deliver within 5-10 days,CLAIM YOUR RIDE>>>
+  Updated: 2026-09-10T00:36:34Z
+  Vendor: E RIDE PRO
+  Product Type: Parts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7524/0406/files/SHE7916.jpg?v=1774243077
+  Price: $495.00 USD
+[List Continued](https://www.eridepro.com/a/llms-agent/llms.txt?shop=e-ride-pro-global.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjAwNzUyNjU2NTk4LCJsYXN0X3ZhbHVlIjoiOTIwMDc1MjY1NjU5OCJ9)
 
 ## Collections
 
 - [Parts for S/SS2.0](https://www.eridepro.com/collections/parts-for-s-ss2-0): Shop genuine E Ride Pro S and Pro SS 2.0 replacement parts, including drivetrain, brakes, batteries, wheels, and body components.
-  Updated: 2026-09-14T11:17:39Z
+  Updated: 2026-09-21T11:18:02Z
   Total Products: 203
 - [Parts for SR/SS3.0](https://www.eridepro.com/collections/parts-for-sr-ss3-0): Shop genuine E Ride Pro SR and SS 3.0 replacement parts for batteries, drivetrain, brakes, wheels, suspension, and bodywork.
-  Updated: 2026-09-14T11:17:39Z
-  Total Products: 242
+  Updated: 2026-09-21T11:18:02Z
+  Total Products: 243
 - [Parts for Mini](https://www.eridepro.com/collections/parts-for-mini): Shop genuine E Ride Pro Mini and Mini R replacement parts, including batteries, brakes, wheels, drivetrain, and body components.
-  Updated: 2026-09-14T11:17:39Z
+  Updated: 2026-09-21T11:18:02Z
   Total Products: 111
 - [All parts](https://www.eridepro.com/collections/all-parts): Shop genuine E Ride Pro replacement parts for electric dirt bikes, including batteries, brakes, drivetrain, wheels, bodywork, and more.
-  Updated: 2026-09-14T11:17:39Z
-  Total Products: 550
-- [E-MOTO](https://www.eridepro.com/collections/e-moto): Explore E Ride Pro electric dirt bikes for off-road riding, including the Pro SR, Pro 4.0, SS 3.0, SS 2.0, Pro S, and Mini R.
-  Updated: 2026-09-13T11:19:22Z
+  Updated: 2026-09-21T11:18:02Z
+  Total Products: 549
+- [E-Moto | Off-Road E Motorcycle](https://www.eridepro.com/collections/e-moto): Explore E Ride Pro electric dirt bikes for off-road riding, including the Pro SR, Pro 4.0, SS 3.0, SS 2.0, Pro S, and Mini R.
+  Updated: 2026-09-20T11:19:31Z
   Total Products: 8
 - [Merch](https://www.eridepro.com/collections/peripheral-products): Shop E Ride Pro riding accessories, apparel, and everyday gear for electric dirt bike owners and the off-road e-moto community.
-  Updated: 2026-09-12T11:18:39Z
+  Updated: 2026-09-19T11:19:42Z
   Total Products: 8
 - [Parts for Pro 4.0](https://www.eridepro.com/collections/parts-for-pro-4-0)
-  Updated: 2026-09-14T00:58:53Z
+  Updated: 2026-09-17T11:22:08Z
   Total Products: 14
 
 ## Store Pages
