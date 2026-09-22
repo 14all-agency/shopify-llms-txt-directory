@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2026-09-10T00:00:55.428Z
+- Updated At: 2026-09-22T00:00:48.651Z
 
 ## Products
 
@@ -1287,7 +1287,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Avocado Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/avocado-soft-velvet-fabric-72-inch): Shop premium avocado soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:05Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1347,7 +1347,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dark Navy Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/dark-navy-soft-velvet-fabric-72-inch): Shop premium dark navy soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:06Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1359,7 +1359,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/navy-soft-velvet-fabric-72-inch): Shop premium navy soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:07Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1419,7 +1419,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rose Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/rose-soft-velvet-fabric-72-inch): Shop premium rose soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:08Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1455,7 +1455,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dusty Rose Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/dusty-rose-soft-velvet-fabric-72-inch): Shop premium dusty rose soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:09Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1479,7 +1479,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/silver-soft-velvet-fabric-72-inch): Shop premium silver soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:10Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1491,7 +1491,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/seafoam-soft-velvet-fabric-72-inch): Shop premium seafoam soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:10Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1503,7 +1503,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/white-soft-velvet-fabric-72-inch): Shop premium white soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:11Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1515,7 +1515,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Soft Green Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/soft-green-soft-velvet-fabric-72-inch): Shop premium soft green soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:11Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1527,7 +1527,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Brass Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/brass-soft-velvet-fabric-72-inch): Shop premium brass soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:11Z
+  Updated: 2026-09-21T11:20:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2475,7 +2475,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/white-shiny-crushed-velvet-fabric-72-inch): Shop premium white shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:41Z
+  Updated: 2026-09-12T12:50:52Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2762,31 +2762,7 @@
   - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/navy-riverdale-crushed-velvet-fabric-118-inch?variant=52349956948249)
     Availability: Available
     Price: $1.00 USD
-- [Seafoam Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/seafoam-riverdale-crushed-velvet-fabric-118-inch): Shop premium seafoam riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:52Z
-  Vendor: Fabrics Star
-  Product Type: Crushed Velvet Fabric
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RIVERDALE-SEAFOAM-1.jpg?v=1757517364
-  - [Cut by the Yard](https://1d3898-2.myshopify.com/products/seafoam-riverdale-crushed-velvet-fabric-118-inch?variant=52349958324505)
-    Availability: Available
-    Price: $22.00 USD
-  - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/seafoam-riverdale-crushed-velvet-fabric-118-inch?variant=52349958357273)
-    Availability: Available
-    Price: $1.00 USD
-- [Rosset Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/rosset-riverdale-crushed-velvet-fabric-118-inch): Shop premium rosset riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-08-28T19:24:53Z
-  Vendor: Fabrics Star
-  Product Type: Crushed Velvet Fabric
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RIVERDALE-ROSSET-1.jpg?v=1757517362
-  - [Cut by the Yard](https://1d3898-2.myshopify.com/products/rosset-riverdale-crushed-velvet-fabric-118-inch?variant=52349959733529)
-    Availability: Available
-    Price: $22.00 USD
-  - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/rosset-riverdale-crushed-velvet-fabric-118-inch?variant=52349959766297)
-    Availability: Available
-    Price: $1.00 USD
-[List Continued](https://1d3898-2.myshopify.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIwNDg5NjUzNywibGFzdF92YWx1ZSI6IjEwNjEyMjA0ODk2NTM3In0%3D)
+[List Continued](https://1d3898-2.myshopify.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIwNDUwMzMyMSwibGFzdF92YWx1ZSI6IjEwNjEyMjA0NTAzMzIxIn0%3D)
 
 ## Collections
 
@@ -2797,7 +2773,7 @@
   Updated: 2026-06-24T17:19:16Z
   Total Products: 123
 - [Velvet Fabrics](https://1d3898-2.myshopify.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2026-09-08T11:13:15Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 245
 - [Lace Fabrics](https://1d3898-2.myshopify.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2026-06-24T17:19:16Z
@@ -2812,19 +2788,19 @@
   Updated: 2026-06-24T17:19:16Z
   Total Products: 46
 - [Our Full line of Fabrics](https://1d3898-2.myshopify.com/collections/our-full-line-of-fabrics)
-  Updated: 2026-09-08T11:13:15Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 1782
 - [New! Shopify performance sharing is now turned on](https://1d3898-2.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-09-08T11:13:15Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 1782
 - [110](https://1d3898-2.myshopify.com/collections/110)
   Updated: 2026-09-08T11:13:15Z
   Total Products: 873
 - [72](https://1d3898-2.myshopify.com/collections/72)
-  Updated: 2026-06-28T11:13:22Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 140
 - [APPPlaza - Best Sellers](https://1d3898-2.myshopify.com/collections/appplaza-best-sellers)
-  Updated: 2026-09-08T11:13:15Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 1782
 - [Vails Collection](https://1d3898-2.myshopify.com/collections/vails-collection): Embossed brocade velvet from the Vails Collection — 72" wide, medium-weight 100% polyester. Sold by the yard with $1 sample swatches. Available in 12 colors: Black, Red, Blush, Champagne, Forest, Gold, Ice Blue, Ivory, Navy, Burgundy, Olive, and White.
   Updated: 2026-05-08T01:39:37Z
@@ -2986,7 +2962,7 @@
   Updated: 2026-06-24T17:19:20Z
   Total Products: 4
 - [Velvet Fabrics](https://1d3898-2.myshopify.com/collections/velvet-fabrics-1): Premium velvet fabric by the yard — soft, plush, and rich. Perfect for upholstery, drapery, tablecloths, and luxury home decor. Includes brocade velvet, crushed velvet, chenille, and stretch velvet.
-  Updated: 2026-09-08T11:13:15Z
+  Updated: 2026-09-20T11:12:21Z
   Total Products: 368
 - [Jacquard Fabrics](https://1d3898-2.myshopify.com/collections/jacquard-fabrics): Jacquard fabric by the yard — woven patterns, textured feel, ideal for upholstery, drapery, and statement home decor.
   Updated: 2026-06-23T11:15:21Z
@@ -3007,7 +2983,7 @@
   Updated: 2026-09-08T11:13:15Z
   Total Products: 36
 - [White Fabrics](https://1d3898-2.myshopify.com/collections/white-fabrics): All white fabrics by the yard — from white brocade velvet to white lace and white sequin. Cut to order with $1 sample swatches.
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-09-13T11:11:34Z
   Total Products: 63
 - [Ivory Fabrics](https://1d3898-2.myshopify.com/collections/ivory-fabrics): All ivory and cream fabrics by the yard. Cut to order with $1 sample swatches.
   Updated: 2026-05-25T11:10:23Z
@@ -3501,6 +3477,21 @@
     Author: User
   - [Tackling Fabric Stains Correctly to Preserve Quality](https://1d3898-2.myshopify.com/blogs/news/tackling-fabric-stains-correctly-to-preserve-quality): Tackling Fabric Stains Correctly to Preserve Quality
     Updated: 2026-09-09T02:28:00Z
+    Author: User
+  - [Tips on Selecting the Right Fabric for Your Bedding](https://1d3898-2.myshopify.com/blogs/news/tips-on-selecting-the-right-fabric-for-your-bedding): Tips on Selecting the Right Fabric for Your Bedding
+    Updated: 2026-09-13T00:08:23Z
+    Author: User
+  - [Breaking Down the Best Fabrics for Minimalist Wardrobes](https://1d3898-2.myshopify.com/blogs/news/breaking-down-the-best-fabrics-for-minimalist-wardrobes): Breaking Down the Best Fabrics for Minimalist Wardrobes
+    Updated: 2026-09-14T03:08:58Z
+    Author: User
+  - [Knitting Basics Choosing the Perfect Yarn for Your Projects](https://1d3898-2.myshopify.com/blogs/news/knitting-basics-choosing-the-perfect-yarn-for-your-projects): Knitting Basics Choosing the Perfect Yarn for Your Projects
+    Updated: 2026-09-16T02:32:55Z
+    Author: User
+  - [Developing an Eye for Quality When Buying Fabrics](https://1d3898-2.myshopify.com/blogs/news/developing-an-eye-for-quality-when-buying-fabrics): Developing an Eye for Quality When Buying Fabrics
+    Updated: 2026-09-20T00:08:33Z
+    Author: User
+  - [Fabric 101 Understanding the Basics for Brilliant Creations](https://1d3898-2.myshopify.com/blogs/news/fabric-101-understanding-the-basics-for-brilliant-creations): Fabric 101 Understanding the Basics for Brilliant Creations
+    Updated: 2026-09-21T02:46:57Z
     Author: User
 
 ## Store Pages
