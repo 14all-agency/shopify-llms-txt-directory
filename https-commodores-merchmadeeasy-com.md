@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T17:14:57Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-15T00:00:36.562Z
+- Updated At: 2026-09-22T00:00:37.875Z
 
 ## Products
 
 - [Vintage Logo Tee](https://commodores.merchmadeeasy.com/products/vintage-logo-tee): Commodores logo printed on the front Short sleeve tee in Black Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-28T04:57:18Z
+  Updated: 2026-09-19T21:05:55Z
   Vendor: Commodores
   Product Type: T-Shirt
   Availability: Available
