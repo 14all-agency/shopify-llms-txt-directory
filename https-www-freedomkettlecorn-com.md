@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-06T15:56:29Z
 - Contact Email: admin@freedomkettlecorn.com
-- Updated At: 2026-09-12T00:00:25.023Z
+- Updated At: 2026-09-22T00:00:34.933Z
 
 ## Products
 
 - [Liberty Kettle Corn Pack – 3 Gourmet Popcorn Flavors | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/liberty-pack): Get three of Freedom Kettle Corn's best flavors in one pack: Caramel Corn, Sweet White Cheddar, and Classic Sweet & Salty. Fresh-popped to order in Arkansas.
-  Updated: 2026-09-04T04:22:27Z
+  Updated: 2026-09-16T21:56:16Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -108,7 +108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Elite-kettle-corn-pacK-Large-edited_1_d56a9956-28fa-47f1-9840-3be35ed66939.png?v=1787953727
   Price: $15.99 USD
 - [XL Bulk Party Bag – 150 Cups Gourmet Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/bulk-xl-party-bag): Feed 150+ guests with Freedom Kettle Corn’s XL Bulk Party Bag. Choose your flavor — perfect for weddings, parties, fundraisers & events. Handcrafted in Arkansas.
-  Updated: 2026-09-04T04:35:05Z
+  Updated: 2026-09-21T22:10:16Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -445,7 +445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/kettle-corn-cake.png?v=1787859004
   Price: $39.98 USD
 - [Pumpkin Pie Kettle Corn – Warm Spiced Fall Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/pumpkin-pie-ketle-corn): Cinnamon, nutmeg, and clove meet sweet-salty kettle corn in this cozy seasonal treat. Freedom Pumpkin Pie Kettle Corn is the perfect fall snack or holiday gift.
-  Updated: 2026-09-07T11:57:15Z
+  Updated: 2026-09-16T23:48:47Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -469,13 +469,13 @@
 ## Collections
 
 - [Home page](https://www.freedomkettlecorn.com/collections/frontpage)
-  Updated: 2026-09-05T19:55:53Z
+  Updated: 2026-09-17T11:15:47Z
   Total Products: 24
 - [All Popcorn](https://www.freedomkettlecorn.com/collections/imported-products): Shop all gourmet kettle corn from Freedom Kettle Corn of Arkansas. Sweet, savory, spicy & seasonal flavors handcrafted fresh in small batches. Order online!
-  Updated: 2026-09-05T19:55:53Z
+  Updated: 2026-09-17T11:15:47Z
   Total Products: 24
 - [Sweet](https://www.freedomkettlecorn.com/collections/sweet-popcorn): Shop handcrafted sweet kettle corn from Freedom Kettle Corn of Arkansas. Classic caramel, cinnamon, and more. Order online for fresh-popped gourmet flavor.
-  Updated: 2026-09-05T19:55:53Z
+  Updated: 2026-09-16T11:14:43Z
   Total Products: 13
 - [Savory](https://www.freedomkettlecorn.com/collections/savory-popcorn): Explore savory gourmet kettle corn from Freedom Kettle Corn of Arkansas. Bold, handcrafted flavors made fresh in small batches. Order online today!
   Updated: 2026-09-05T11:17:46Z
@@ -484,16 +484,16 @@
   Updated: 2026-09-03T19:36:23Z
   Total Products: 4
 - [Bulk Party Bags](https://www.freedomkettlecorn.com/collections/party-bags): Order bulk kettle corn party bags from Freedom Kettle Corn of Arkansas. Perfect for events, weddings & parties. Fresh, handcrafted gourmet popcorn. Order now!
-  Updated: 2026-09-03T19:37:20Z
+  Updated: 2026-09-16T11:14:43Z
   Total Products: 4
 - [Multi Packs](https://www.freedomkettlecorn.com/collections/multi-packs): Try multiple flavors with Freedom Kettle Corn multi packs. Handcrafted gourmet kettle corn from Arkansas. Perfect for sampling & gifting. Order online!
-  Updated: 2026-09-05T19:50:14Z
+  Updated: 2026-09-17T11:15:47Z
   Total Products: 4
 - [Seasonal](https://www.freedomkettlecorn.com/collections/seasonal): Shop limited-time seasonal kettle corn from Freedom Kettle Corn of Arkansas. Handcrafted gourmet flavors available for a limited time only. Order before they're gone!
-  Updated: 2026-09-03T19:38:13Z
+  Updated: 2026-09-16T11:14:43Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://www.freedomkettlecorn.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-09-05T19:55:53Z
+  Updated: 2026-09-17T11:15:47Z
   Total Products: 26
 
 ## Store Pages
