@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-03T21:41:59Z
 - Contact Email: contact@greenwich-emporium.com
-- Updated At: 2026-09-10T00:00:30.297Z
+- Updated At: 2026-09-23T00:00:36.333Z
 
 ## Products
 
@@ -2136,7 +2136,7 @@
     Availability: Available
     Price: $18.89 USD
 - [Maxi Short Sleeve Dress with Pockets in Solids and Print](https://greenwichemporium.com/products/maxi-short-sleeve-dress-with-pockets-in-solids-and-print): Solid or Print maxi dress, with short sleeves, a round neck, cinched waist, pleated skirt, and hidden pockets. Liverpool - 97% Polyester 3% Spandex. Manufactured in U.S.A.
-  Updated: 2026-09-09T13:00:35Z
+  Updated: 2026-09-10T02:18:23Z
   Vendor: Burgundy Daisy
   Product Type: Women's Clothing
   Availability: Available
@@ -2266,7 +2266,7 @@
     Availability: Available
     Price: $77.00 USD
 - [Women's Single Pleat Mini Skirt](https://greenwichemporium.com/products/womens-single-pleat-mini-skirt): Tommy Hilfiger updates this clean mini skirt with pockets and a single pleat at the front for chicly designed visual interest. Approx. model height is 5'10" and she is wearing a size 4 Approx. length: 16" Hidden side zipper closure Single pleat at front Slash pockets at hips Lined Shell: polyester/spandex; lining: polyester Dry clean Imported
-  Updated: 2026-09-09T03:53:47Z
+  Updated: 2026-09-11T20:18:57Z
   Vendor: Amber Chrysippus
   Product Type: Women's Clothing
   Availability: Available
@@ -2449,7 +2449,7 @@
   Updated: 2026-09-08T17:53:31Z
   Total Products: 18
 - [Shop All](https://greenwichemporium.com/collections/shop-all): Shop women's fashion and clothing at Greenwich Emporium. Discover dresses, jumpsuits, skirts, bags and stylish boho-inspired pieces for every occasion.
-  Updated: 2026-09-08T18:14:22Z
+  Updated: 2026-09-11T20:19:29Z
   Total Products: 88
 - [Jumpsuits](https://greenwichemporium.com/collections/jumpsuits): Shop stylish women's jumpsuits and rompers at Greenwich Emporium. Discover breezy boho jumpsuits, elegant wide-leg fits, and floral styles for effortless elegance.
   Updated: 2026-09-08T15:21:19Z
