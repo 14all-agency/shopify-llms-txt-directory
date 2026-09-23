@@ -6,12 +6,12 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-09-13T00:00:38.725Z
+- Updated At: 2026-09-23T00:00:41.456Z
 
 ## Products
 
 - [Asics Gel-Kayano 14 : Performance et Confort Élevés](https://gelnext.click/products/asics-gel-kayano-14): Améliorez vos performances avec les Asics Gel-Kayano 14. Confort, amorti optimal et style moderne pour coureurs passionnés ou débutants. Commandez maintenant !
-  Updated: 2026-08-15T07:25:57Z
+  Updated: 2026-09-21T18:29:50Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -77,11 +77,11 @@
     Availability: Available
     Price: 18 000,00 FCFA XAF
 - [Asics Gel-Kayano 14 - Performance et Confort](https://gelnext.click/products/asics-gel-kayano-16): Découvrez le confort et les performances des Asics Gel-Kayano 14, la chaussure idéale pour tous vos entraînements. Idéales pour améliorer vos courses !
-  Updated: 2026-08-10T05:50:59Z
+  Updated: 2026-09-22T18:27:16Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_21-6-2026_202228_www.footlocker.fr.jpg?v=1785806034
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Asics-Gel-Kayano-14-Black-Pure-Silver.jpg?v=1790101594
   - [37](https://gelnext.click/products/asics-gel-kayano-16?variant=52379544518938)
     Availability: Available
     Price: 18 000,00 FCFA XAF
@@ -439,6 +439,105 @@
   - [45](https://gelnext.click/products/saucony-omni-9?variant=52385204175130)
     Availability: Available
     Price: 20 000,00 FCFA XAF
+- [Prada cup](https://gelnext.click/products/prada-cup)
+  Updated: 2026-09-20T22:37:43Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_14-12-2025_19150_www.prada.com.jpg?v=1789943858
+  - [37](https://gelnext.click/products/prada-cup?variant=52385217806618)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/prada-cup?variant=52385217839386)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/prada-cup?variant=52385217872154)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/prada-cup?variant=52385217904922)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/prada-cup?variant=52385217937690)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/prada-cup?variant=52385217970458)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/prada-cup?variant=52385218003226)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/prada-cup?variant=52385218035994)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/prada-cup?variant=52385218068762)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+- [Prada cup](https://gelnext.click/products/prada-cup-1)
+  Updated: 2026-09-20T22:36:46Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_14-12-2025_19216_www.prada.com.jpg?v=1789943805
+  - [37](https://gelnext.click/products/prada-cup-1?variant=52385224982810)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/prada-cup-1?variant=52385225015578)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/prada-cup-1?variant=52385225048346)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/prada-cup-1?variant=52385225081114)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/prada-cup-1?variant=52385225113882)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/prada-cup-1?variant=52385225146650)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/prada-cup-1?variant=52385225179418)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/prada-cup-1?variant=52385225212186)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/prada-cup-1?variant=52385225244954)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+- [Prada cup](https://gelnext.click/products/prada-cup-2)
+  Updated: 2026-09-21T10:42:15Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_14-12-2025_191652_www.prada.com.jpg?v=1789944037
+  - [37](https://gelnext.click/products/prada-cup-2?variant=52385229963546)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/prada-cup-2?variant=52385229996314)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/prada-cup-2?variant=52385230029082)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/prada-cup-2?variant=52385230061850)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/prada-cup-2?variant=52385230094618)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/prada-cup-2?variant=52385230127386)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/prada-cup-2?variant=52385230160154)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/prada-cup-2?variant=52385230192922)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/prada-cup-2?variant=52385230225690)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
 - [New balance 530](https://gelnext.click/products/new-balance-530)
   Updated: 2026-08-04T01:31:48Z
   Vendor: GelNext
@@ -539,7 +638,7 @@
     Availability: Available
     Price: 16 500,00 FCFA XAF
 - [Nike P-6000](https://gelnext.click/products/nike-p-6000)
-  Updated: 2026-08-04T01:35:39Z
+  Updated: 2026-09-19T11:22:56Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2104,12 +2203,12 @@
   - [45](https://gelnext.click/products/saucony-omni-11?variant=52805394432282)
     Availability: Available
     Price: 20 000,00 FCFA XAF
-- [Saucony omni 9](https://gelnext.click/products/saucony-omni-12)
-  Updated: 2026-09-06T07:50:26Z
+- [Saucony omni 9 - GelNext](https://gelnext.click/products/saucony-omni-12): - GelNext
+  Updated: 2026-09-14T13:20:55Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_5-9-2026_03227_en.afew-store.com.jpg?v=1788647607
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_5-9-2026_03227_en.afew-store.com.jpg?v=1789392042
   - [37](https://gelnext.click/products/saucony-omni-12?variant=52805406720282)
     Availability: Available
     Price: 20 000,00 FCFA XAF
@@ -2137,11 +2236,242 @@
   - [45](https://gelnext.click/products/saucony-omni-12?variant=52805406982426)
     Availability: Available
     Price: 20 000,00 FCFA XAF
+- [Numeris](https://gelnext.click/products/numeris)
+  Updated: 2026-09-17T19:41:35Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_16-9-2026_211627_shop.app.jpg?v=1789597912
+  - [37](https://gelnext.click/products/numeris?variant=52896723992858)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/numeris?variant=52896724025626)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/numeris?variant=52896724058394)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/numeris?variant=52896724091162)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/numeris?variant=52896724123930)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/numeris?variant=52896724156698)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/numeris?variant=52896724189466)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/numeris?variant=52896724222234)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/numeris?variant=52896724255002)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+- [Numeris](https://gelnext.click/products/numeris-1)
+  Updated: 2026-09-17T20:41:26Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_15-9-2026_05845_shop.app.jpg?v=1789598230
+  - [37](https://gelnext.click/products/numeris-1?variant=52902564167962)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/numeris-1?variant=52902564200730)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/numeris-1?variant=52902564233498)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/numeris-1?variant=52902564266266)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/numeris-1?variant=52902564299034)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/numeris-1?variant=52902564331802)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/numeris-1?variant=52902564364570)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/numeris-1?variant=52902564397338)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/numeris-1?variant=52902564430106)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+- [Numeris](https://gelnext.click/products/numeris-2)
+  Updated: 2026-09-17T22:46:54Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_15-9-2026_1712_shop.app.jpg?v=1789674154
+  - [37](https://gelnext.click/products/numeris-2?variant=52902573441306)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/numeris-2?variant=52902573474074)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/numeris-2?variant=52902573506842)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/numeris-2?variant=52902573539610)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/numeris-2?variant=52902573572378)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/numeris-2?variant=52902573605146)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/numeris-2?variant=52902573637914)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/numeris-2?variant=52902573670682)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/numeris-2?variant=52902573703450)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+- [Numeris](https://gelnext.click/products/numeris-3)
+  Updated: 2026-09-17T23:30:08Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_16-9-2026_21157_shop.app.jpg?v=1789674402
+  - [37](https://gelnext.click/products/numeris-3?variant=52902590152986)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/numeris-3?variant=52902590185754)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/numeris-3?variant=52902590218522)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/numeris-3?variant=52902590251290)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/numeris-3?variant=52902590284058)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/numeris-3?variant=52902590316826)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/numeris-3?variant=52902590349594)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/numeris-3?variant=52902590382362)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/numeris-3?variant=52902590415130)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+- [Numeris](https://gelnext.click/products/numeris-4)
+  Updated: 2026-09-18T08:25:51Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_16-9-2026_211741_shop.app.jpg?v=1789715158
+  - [37](https://gelnext.click/products/numeris-4?variant=52907456823578)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/numeris-4?variant=52907456856346)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/numeris-4?variant=52907456889114)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/numeris-4?variant=52907456921882)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/numeris-4?variant=52907456954650)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/numeris-4?variant=52907456987418)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/numeris-4?variant=52907457020186)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/numeris-4?variant=52907457052954)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/numeris-4?variant=52907457085722)
+    Availability: Available
+    Price: 28 000,00 FCFA XAF
+- [Prada cup](https://gelnext.click/products/prada-cup-3)
+  Updated: 2026-09-19T12:33:45Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_19-9-2026_23313_www.prada.com.jpg?v=1789778005
+  - [37](https://gelnext.click/products/prada-cup-3?variant=52910411317530)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/prada-cup-3?variant=52910411350298)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/prada-cup-3?variant=52910411383066)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/prada-cup-3?variant=52910411415834)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/prada-cup-3?variant=52910411448602)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/prada-cup-3?variant=52910411481370)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/prada-cup-3?variant=52910411514138)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/prada-cup-3?variant=52910411546906)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/prada-cup-3?variant=52910411579674)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+- [Prada cup](https://gelnext.click/products/prada-cup-4)
+  Updated: 2026-09-19T12:32:28Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_19-9-2026_2321_www.prada.com.jpg?v=1789777934
+  - [37](https://gelnext.click/products/prada-cup-4?variant=52910411874586)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/prada-cup-4?variant=52910411907354)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/prada-cup-4?variant=52910411940122)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/prada-cup-4?variant=52910411972890)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/prada-cup-4?variant=52910412005658)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/prada-cup-4?variant=52910412038426)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/prada-cup-4?variant=52910412071194)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/prada-cup-4?variant=52910412103962)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/prada-cup-4?variant=52910412136730)
+    Availability: Available
+    Price: 55 000,00 FCFA XAF
 
 ## Collections
 
 - [Asics gel-kayano 14](https://gelnext.click/collections/asics-gel-kayano-14): - GelNext
-  Updated: 2026-09-12T11:23:19Z
+  Updated: 2026-09-22T11:23:10Z
   Total Products: 7
 - [Asics gel-NYC](https://gelnext.click/collections/asics-gel-nyc): - GelNext
   Updated: 2026-08-08T18:42:26Z
@@ -2149,15 +2479,9 @@
 - [New balance](https://gelnext.click/collections/new-balance): - GelNext
   Updated: 2026-08-08T18:42:26Z
   Total Products: 4
-- [Prada cup Trinity](https://gelnext.click/collections/prada-cup): - GelNext
-  Updated: 2026-08-08T18:42:26Z
-  Total Products: 3
 - [Birkenstock boston](https://gelnext.click/collections/birkenstock-boston): - GelNext
   Updated: 2026-09-01T20:25:08Z
   Total Products: 6
-- [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
-  Updated: 2026-09-12T11:23:19Z
-  Total Products: 16
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
   Total Products: 23
@@ -2165,7 +2489,7 @@
   Updated: 2026-08-18T11:23:15Z
   Total Products: 4
 - [Asics](https://gelnext.click/collections/asics): - GelNext
-  Updated: 2026-09-12T11:23:19Z
+  Updated: 2026-09-22T11:23:10Z
   Total Products: 12
 - [New Balance](https://gelnext.click/collections/new-balance-1): - GelNext
   Updated: 2026-08-03T21:48:59Z
@@ -2177,11 +2501,14 @@
   Updated: 2026-08-03T21:49:00Z
   Total Products: 4
 - [Nike P-6000](https://gelnext.click/collections/nike-p-6000): - GelNext
-  Updated: 2026-08-09T16:39:14Z
+  Updated: 2026-09-20T11:24:05Z
   Total Products: 4
 - [Saucony](https://gelnext.click/collections/saucony): - GelNext
   Updated: 2026-09-12T11:23:19Z
   Total Products: 4
+- [Numeris](https://gelnext.click/collections/numeris): - GelNext
+  Updated: 2026-09-19T00:14:54Z
+  Total Products: 5
 
 ## Store Pages
 
