@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-21T15:36:39Z
 - Contact Email: Info@WesternGunStore.com
-- Updated At: 2026-08-17T00:00:47.048Z
+- Updated At: 2026-09-23T15:34:02.425Z
 
 ## Products
 
@@ -1097,8 +1097,8 @@
   Updated: 2026-08-07T20:00:36Z
   Total Products: 208
 - [All Items – Your Ultimate Destination for , Ammo, Optics & Outdoor Gear](https://westerngunstore.com/collections/-ammo-optics): Discover the ultimate collection of , ammo, optics, and outdoor gear at Western Gun Store. All items designed to elevate your outdoor adventures await!
-  Updated: 2026-08-16T11:11:26Z
-  Total Products: 60790
+  Updated: 2026-08-18T02:16:09Z
+  Total Products: 60789
 - [ for  – Rifles, Shotguns & Handguns Online](https://westerngunstore.com/collections/-for-): Browse  for , including rifles, shotguns, and handguns from trusted brands for hunting, range use, and collecting.
   Updated: 2026-07-02T16:46:50Z
   Total Products: 10912
@@ -1139,7 +1139,7 @@
   Updated: 2026-08-16T11:11:26Z
   Total Products: 19136
 - [Reloading Supplies for  – Brass, Dies, Bullets & Reloading Equipment](https://westerngunstore.com/collections/reloading-supplies-brass-dies): Shop reloading supplies for brass, dies, bullets, and equipment. Find components for accurate, consistent handloading at Western Gun Store.
-  Updated: 2026-07-01T18:51:12Z
+  Updated: 2026-08-18T11:11:03Z
   Total Products: 6940
 - [Camping Supplies for  – Tents, Gear & Outdoor Essentials](https://westerngunstore.com/collections/camping-supplies-gear): Browse camping supplies for tents, sleeping gear, cooking equipment, and outdoor essentials for your next trip.
   Updated: 2026-07-01T18:51:12Z
@@ -1169,8 +1169,8 @@
   Updated: 2026-08-07T21:19:35Z
   Total Products: 421
 - [New Arrivals](https://westerngunstore.com/collections/wester-gun-store-new-arrivals): Browse the Wester Gun Store New Arrivals to find our most recent selection of  and gear. Stay updated with the latest inventory added to our shop.
-  Updated: 2026-08-16T11:11:26Z
-  Total Products: 60790
+  Updated: 2026-08-18T02:16:09Z
+  Total Products: 60789
 
 ## Blogs
 
@@ -1676,6 +1676,9 @@
     Author: Jason Marsh
   - [Firearm FAQs Tackling Essential Queries About Rifles and Revolvers](https://westerngunstore.com/blogs/news/firearm-faqs-tackling-essential-queries-about-rifles-and-revolvers): Firearm FAQs Tackling Essential Queries About Rifles and Revolvers
     Updated: 2026-08-16T12:02:39Z
+    Author: Jason Marsh
+  - [The Ultimate Guide to Lever Action Rifle History](https://westerngunstore.com/blogs/news/the-ultimate-guide-to-lever-action-rifle-history): The Ultimate Guide to Lever Action Rifle History
+    Updated: 2026-08-18T12:04:01Z
     Author: Jason Marsh
 
 ## Store Pages
