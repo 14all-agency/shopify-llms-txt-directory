@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-16T15:20:48Z
 - Contact Email: info@saveonfragrance.com
-- Updated At: 2026-09-15T23:45:18.217Z
+- Updated At: 2026-09-23T00:00:31.407Z
 
 ## Products
 
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_4.webp?v=1788164727
   Price: $85.00 USD
 - [BVLGARI Extreme Eau de Toilette 50 ml](https://saveonfragrance.com/products/bvlgari-extreme-men-eau-de-toilette-50ml-1-7oz): Shop BVLGARI Extreme Eau de Toilette for Men 50 ml, a refined men's fragrance from BVLGARI.
-  Updated: 2026-09-02T08:11:59Z
+  Updated: 2026-09-22T21:55:25Z
   Vendor: BVLGARI
   Product Type: Perfume
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_4662527a-fd61-4783-a4b4-5b8d3ea2f327.webp?v=1788164732
   Price: $110.00 USD
 - [MARC JACOBS Decadence Eau De Parfum Spray 3.4 oz](https://saveonfragrance.com/products/marc-jacobs-decadence-3-4-oz-100-ml-eau-de-parfum-women-s-spray): Shop MARC JACOBS Decadence Eau De Parfum Spray 3.4 oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-02T08:12:00Z
+  Updated: 2026-09-21T19:06:35Z
   Vendor: MARC JACOBS
   Product Type: Perfume
   Availability: Available
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_d6ac5484-bef5-42ab-98e3-d6ee56e8c87e.webp?v=1788164746
   Price: $110.00 USD
 - [CAROLINA HERRERA Good Girl DAZZLING GARDEN Eau de PARFUM / 2.7oz](https://saveonfragrance.com/products/carolina-herrera-good-girl-dazzling-garden-eau-de-parfum-2-7oz-80ml): Shop CAROLINA HERRERA Good Girl DAZZLING GARDEN Eau de PARFUM / 2.7oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-13T12:39:22Z
+  Updated: 2026-09-21T23:46:45Z
   Vendor: CAROLINA HERRERA
   Product Type: Perfume
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B00NBK5JHK.01.LZZZZZZZ.jpg?v=1788164756
   Price: $110.00 USD
 - [GIORGIO ARMANI Armani Code Absolu Eau De Parfum 110 ml](https://saveonfragrance.com/products/armani-code-absolu-110-ml-men-s-eau-de-parfum): Shop GIORGIO ARMANI Armani Code Absolu Eau De Parfum 110 ml. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-02T08:12:03Z
+  Updated: 2026-09-22T07:32:19Z
   Vendor: ARMANI
   Product Type: Perfume
   Availability: Available
@@ -900,10 +900,10 @@
   Updated: 2026-09-01T06:03:28Z
   Total Products: 1
 - [Women](https://saveonfragrance.com/collections/women)
-  Updated: 2026-09-14T13:51:44Z
+  Updated: 2026-09-22T11:31:55Z
   Total Products: 105
 - [Men](https://saveonfragrance.com/collections/men)
-  Updated: 2026-09-05T11:26:46Z
+  Updated: 2026-09-22T11:31:55Z
   Total Products: 83
 - [Unisex](https://saveonfragrance.com/collections/unisex)
   Updated: 2026-09-14T13:51:44Z
