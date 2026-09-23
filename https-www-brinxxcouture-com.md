@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-09-09T00:00:53.868Z
+- Updated At: 2026-09-23T00:00:55.299Z
 
 ## Products
 
@@ -338,7 +338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
     Price: $28.00 USD
 - [Textured High Waist Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings): Elevate your yoga practice with our Textured High Waist Yoga Pants. The high waist provides support while the textured fabric adds a touch of style. Move with confidence and comfort, while enhancing your silhouette. Perfect for any active lifestyle.
-  Updated: 2026-09-08T01:41:22Z
+  Updated: 2026-09-20T10:31:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -348,15 +348,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
     Price: $30.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527669942)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
     Price: $30.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527702710)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
     Price: $30.00 USD
   - [Black / XL](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527735478)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
     Price: $30.00 USD
 - [Zip-Back Ruched Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/zip-back-ruched-bodycon-dress): Look and feel amazing in our Zip-Back Ruched Bodycon Dress! The figure-hugging design accentuates your curves with ruched detailing adds flair. Free Shipping!
@@ -467,7 +467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Full-Machine-Made-Long-Wave-Wigs-26-Brinxx-Couture-1647.jpg?v=1739988357
   Price: $35.00 USD
 - [26'' Blonde Straight Wig Multi Color - Brinxx Couture](https://www.brinxxcouture.com/products/blonde-straight-wig-multi-color): This 26'' Blonde Straight Wig  adds a sleek, classic style to your look. Featuring synthetic hair, the wig provides a natural look and feel also manageability.
-  Updated: 2026-07-18T06:32:27Z
+  Updated: 2026-09-10T21:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -488,7 +488,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2026-09-06T07:11:05Z
+  Updated: 2026-09-20T05:31:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -742,7 +742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1-Carat-Moissanite-Heart-Ring-Brinxx-Couture-7936.jpg?v=1730298377
     Price: $199.99 USD
 - [1 Carat Moissanite Heart Pendant Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-heart-pendant-necklace): This stunning necklace features a 1 carat heart-shaped moissanite stone that sparkles brilliantly. The pendant is crafted in 925 sterling silver and plated with platinum for a luxurious finish. The necklace comes with a 16-inch chain and an additional 2-inch extension chain, so you can wear it at the length that best suits you. This necklace is the perfect gift for a special occasion or simply to show your loved one how much you care.
-  Updated: 2026-08-26T22:06:53Z
+  Updated: 2026-09-18T20:28:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1496,7 +1496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Full-Size-Scalloped-Lace-Trim-Pull-On-Shaping-Shorts-Brinxx-Couture-3998.jpg?v=1709287904
     Price: $33.00 USD
 - [Full Size Hook-and-Eye Shaping Shorts](https://www.brinxxcouture.com/products/full-size-hook-and-eye-shaping-shorts): Get the shaping you want with our Full-Size Hook-and-Eye Shaping Shorts. Made of 90% polyester and 10% spandex, these shorts are comfortable and effective. Shop now! #BrinxxCouture #WomensClothing
-  Updated: 2026-07-17T09:14:51Z
+  Updated: 2026-09-10T21:20:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2182,16 +2182,16 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-09-07T16:45:08Z
+  Updated: 2026-09-19T10:49:06Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover coordinated sets and matching outfits designed for effortless style. From casual to dressy, find perfectly paired pieces.
-  Updated: 2026-09-07T16:34:17Z
+  Updated: 2026-09-09T05:25:06Z
   Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-09-07T16:39:24Z
+  Updated: 2026-09-10T01:58:19Z
   Total Products: 41
 - [Activewear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
   Updated: 2026-07-08T21:35:22Z
@@ -2212,7 +2212,7 @@
   Updated: 2026-07-08T20:17:25Z
   Total Products: 5
 - [Handbags](https://www.brinxxcouture.com/collections/womens-handbags-purses): Discover refined handbags and purses for every occasion. From structured totes to elegant clutches, find the perfect bag.
-  Updated: 2026-07-08T21:35:48Z
+  Updated: 2026-09-18T09:27:11Z
   Total Products: 26
 - [Shoes](https://www.brinxxcouture.com/collections/shoes): Discover stylish women's shoes for every occasion. From elegant heels to comfortable flats and boots, find your perfect pair.
   Updated: 2026-07-08T21:35:39Z
@@ -2242,10 +2242,10 @@
   Updated: 2026-09-07T16:29:30Z
   Total Products: 40
 - [Curvy & Confident Tops](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2026-07-08T21:35:40Z
+  Updated: 2026-09-09T09:22:26Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-09-07T16:39:24Z
+  Updated: 2026-09-10T01:58:19Z
   Total Products: 33
 - [Plus Size Swimwear](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
   Updated: 2026-07-08T20:16:28Z
