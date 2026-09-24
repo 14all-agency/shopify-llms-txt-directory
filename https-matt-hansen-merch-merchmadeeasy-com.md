@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-02-21T16:02:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-15T00:00:40.920Z
+- Updated At: 2026-09-24T00:00:43.950Z
 
 ## Products
 
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $40.00 USD
 - [Yellowstone Records Tee](https://matt-hansen-merch.merchmadeeasy.com/products/yellowstone-records-tee): 100% heavyweight cotton, garment-dyed t-shirt in ivory. Features a front and back print. Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-08-27T18:52:05Z
+  Updated: 2026-09-23T08:46:56Z
   Vendor: Matt Hansen
   Product Type: Shirt
   Availability: Available
@@ -130,7 +130,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Orchid Motel Hoodie](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-motel-hoodie): 80/20 ringspun cotton/polyester blend hoodie in black with front and back print Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-08-27T18:52:05Z
+  Updated: 2026-09-17T04:57:10Z
   Vendor: Matt Hansen
   Product Type: Hoodie
   Availability: Available
@@ -151,21 +151,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $75.00 USD
 - [Orchid - Sunspot Double Vinyl [SIGNED]](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-sunspot-double-vinyl-signed): Please note: this is a pre-order item. Orders containing this item will ship in September 2026 The debut album from Matt Hansen, pressed on Sunspot vinyl. This edition is signed by Matt. Features a 2 disc double sided LP, Yellowstone postcard, exclusive BTS photo collage, full production credits and a note from Matt. Track Listing Disc 1 - Side A love is like a garden something to remember SOMEWHERE IN BETWEEN SOMEONE TO YOU GRAVITY Disc 1 - Side B VERSIONS OF FOREVER SAME TIME LET EM GO FOUND Disc 2 - Side C BEFORE WE KNOW IT yellowstone COMPASS VISION Disc 2 - Side D DON'T LOOK BACK whirlwind FIRST TIME orchid Release date: May 15th, 2026
-  Updated: 2026-09-13T08:15:27Z
+  Updated: 2026-09-23T23:14:36Z
   Vendor: Matt Hansen
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0860/5374/9030/files/MH_Orchid_Vinyl_Spread_Signed_edit.png?v=1778777122
   Price: $40.00 USD
 - [Orchid A Frame Hat](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-trucker-hat): 100% cotton twill 5-panel hat in black with embroidered patch detail
-  Updated: 2026-08-27T18:52:05Z
+  Updated: 2026-09-16T01:19:52Z
   Vendor: Matt Hansen
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0860/5374/9030/files/MH_Orchid_Hat.png?v=1778774163
   Price: $35.00 USD
 - [Orchid - SIGNED Vinyl + Hoodie Bundle](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-signed-vinyl-hoodie-bundle): Please note: this is a pre-order item. Orders containing this item will ship in September 2026 The debut album from Matt Hansen, pressed on Sunspot vinyl. This bundle includes a signed vinyl and an Orchid Motel Hoodie. Features a 2 disc double sided LP, Yellowstone postcard, exclusive BTS photo collage, full production credits and a note from Matt. Track Listing Disc 1 - Side A love is like a garden something to remember SOMEWHERE IN BETWEEN SOMEONE TO YOU GRAVITY Disc 1 - Side B VERSIONS OF FOREVER SAME TIME LET EM GO FOUND Disc 2 - Side C BEFORE WE KNOW IT yellowstone COMPASS VISION Disc 2 - Side D DON'T LOOK BACK whirlwind FIRST TIME orchid Release date: May 15th, 2026
-  Updated: 2026-09-13T08:15:38Z
+  Updated: 2026-09-23T23:14:46Z
   Vendor: Matt Hansen
   Product Type: Bundle
   Availability: Available
@@ -186,7 +186,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $105.00 USD
 - [Orchid - SIGNED Vinyl + Tee Bundle](https://matt-hansen-merch.merchmadeeasy.com/products/orchid-signed-vinyl-tee-bundle): Please note: this is a pre-order item. Orders containing this item will ship in September 2026 The debut album from Matt Hansen, pressed on Sunspot vinyl. This bundle includes a signed vinyl and a Yellowstone Records Tee. Features a 2 disc double sided LP, Yellowstone postcard, exclusive BTS photo collage, full production credits and a note from Matt. Track Listing Disc 1 - Side A love is like a garden something to remember SOMEWHERE IN BETWEEN SOMEONE TO YOU GRAVITY Disc 1 - Side B VERSIONS OF FOREVER SAME TIME LET EM GO FOUND Disc 2 - Side C BEFORE WE KNOW IT yellowstone COMPASS VISION Disc 2 - Side D DON'T LOOK BACK whirlwind FIRST TIME orchid Release date: May 15th, 2026
-  Updated: 2026-09-13T08:15:41Z
+  Updated: 2026-09-23T23:14:50Z
   Vendor: Matt Hansen
   Product Type: Bundle
   Availability: Available
@@ -207,7 +207,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $75.00 USD
 - [The Full Bloom Bundle](https://matt-hansen-merch.merchmadeeasy.com/products/the-full-bloom-bundle): Please note: this is a pre-order item. Orders containing this item will ship in September 2026 The debut album from Matt Hansen, pressed on Sunspot vinyl. This bundle includes the full Orchid collection: a signed vinyl, the Orchid Motel Hoodie, the Yellowstone Records Tee, and the Orchid A Frame Hat Features a 2 disc double sided LP, Yellowstone postcard, exclusive BTS photo collage, full production credits and a note from Matt. Track Listing Disc 1 - Side A love is like a garden something to remember SOMEWHERE IN BETWEEN SOMEONE TO YOU GRAVITY Disc 1 - Side B VERSIONS OF FOREVER SAME TIME LET EM GO FOUND Disc 2 - Side C BEFORE WE KNOW IT yellowstone COMPASS VISION Disc 2 - Side D DON'T LOOK BACK whirlwind FIRST TIME orchid Release date: May 15th, 2026
-  Updated: 2026-09-13T08:15:39Z
+  Updated: 2026-09-23T23:14:50Z
   Vendor: Matt Hansen
   Product Type: Bundle
   Availability: Available
@@ -291,22 +291,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://matt-hansen-merch.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 17
 - [Apparel](https://matt-hansen-merch.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 12
 - [Accessories](https://matt-hansen-merch.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-12T11:14:44Z
+  Updated: 2026-09-16T11:14:25Z
   Total Products: 5
 - [Hats](https://matt-hansen-merch.merchmadeeasy.com/collections/hats)
-  Updated: 2026-08-12T11:14:44Z
+  Updated: 2026-09-16T11:14:25Z
   Total Products: 2
 - [Music](https://matt-hansen-merch.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 2
 - [All](https://matt-hansen-merch.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 22
 - [2024 Fall Tour](https://matt-hansen-merch.merchmadeeasy.com/collections/2024-fall-tour)
   Updated: 2026-06-02T04:52:18Z
@@ -321,10 +321,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:41:12Z
   Total Products: 2
 - [Orchid](https://matt-hansen-merch.merchmadeeasy.com/collections/orchid)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 9
 - [Music](https://matt-hansen-merch.merchmadeeasy.com/collections/music-1)
-  Updated: 2026-09-13T11:14:03Z
+  Updated: 2026-09-23T11:14:27Z
   Total Products: 2
 
 ## Store Pages
