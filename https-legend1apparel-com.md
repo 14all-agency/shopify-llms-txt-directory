@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-09-17T20:00:41.775Z
+- Updated At: 2026-09-24T20:00:41.291Z
 
 ## Products
 
@@ -2861,7 +2861,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevrolet Corvette T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1957-chevrolet-corvette-t-shirt): Celebrate a classic with the 1957 Chevrolet Corvette T-Shirt. Featuring a C1 American muscle graphic on a premium tee, perfect for any Corvette fan.
-  Updated: 2026-09-11T04:32:51Z
+  Updated: 2026-09-18T18:44:42Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3161,7 +3161,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1960 Chevy Truck Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1960-chevy-truck-graphic-tee): Shop the 1960 Chevy Pickup graphic tee. Vintage American classic truck design on a premium tee. Perfect gift for classic truck enthusiasts.
-  Updated: 2026-09-11T04:32:43Z
+  Updated: 2026-09-19T04:52:55Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3461,7 +3461,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1963 Chevrolet Corvette T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1963-corvette-c1-muscle-shirt): Celebrate a classic with this 1963 Chevrolet Corvette T-Shirt. Featuring a bold vintage graphic design and premium quality from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:46Z
+  Updated: 2026-09-19T01:42:08Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4061,7 +4061,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1964 Chevrolet Nova SS T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1964-chevrolet-nova-ss-t-shirt): Show your love for American muscle with this 1964 Chevrolet Nova SS T-Shirt. A premium retro graphic tee for classic car enthusiasts from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:52Z
+  Updated: 2026-09-19T00:26:07Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4361,7 +4361,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1965 Chevrolet Corvette T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1965-chevrolet-corvette-t-shirt): Own a piece of automotive history with this 1965 Chevrolet Corvette T-Shirt. A classic American muscle car graphic tee for Corvette enthusiasts.
-  Updated: 2026-09-11T04:32:54Z
+  Updated: 2026-09-19T05:08:31Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4515,22 +4515,22 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-09-16T11:24:27Z
+  Updated: 2026-09-24T11:25:38Z
   Total Products: 403
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
-  Updated: 2026-09-14T11:24:18Z
+  Updated: 2026-09-24T11:25:38Z
   Total Products: 90
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
-  Updated: 2026-09-16T11:24:27Z
+  Updated: 2026-09-22T11:26:18Z
   Total Products: 83
 - [Bowtie Nation T-shirt](https://legend1apparel.com/collections/bowtie-nation-t-shirt): Shop the Bowtie Nation T-shirt collection at Legend 1 Apparel.
   Updated: 2026-08-20T11:27:25Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-09-14T11:24:18Z
+  Updated: 2026-09-22T11:26:18Z
   Total Products: 86
 - [Route 66 America's Heartland](https://legend1apparel.com/collections/route-66-americas-heartland): Shop Route 66 America's Heartland graphic tees. Bold Americana designs inspired by the iconic highway and classic roadside culture.
-  Updated: 2026-09-10T11:28:32Z
+  Updated: 2026-09-23T11:27:35Z
   Total Products: 84
 
 ## Store Pages
