@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-09-13T00:00:46.397Z
+- Updated At: 2026-09-24T00:00:47.038Z
 
 ## Products
 
@@ -2292,61 +2292,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/bedd0672-3dd6-4f0a-888c-db3470aa379e.jpg?v=1698014177
   Price: $38.95 USD
-- [Ring, Stud Earrings, Necklace Three-piece Luxury Set](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set): Timeless Beauty in a Box: The Ultimate Ring, Stud Earrings, and Necklace Collection Unwrap the essence of timeless beauty with our meticulously curated luxury set. Each piece is a testament to craftsmanship and style, promising to add a touch of sophistication to every occasion. Elevate your style with our exquisite Three-piece Luxury Jewelry Set, featuring a dazzling ring, elegant stud earrings, and a timeless necklace. Crafted with precision and adorned with sparkling details, this set effortlessly adds a touch of glamour to any ensemble. Indulge in sophistication and make a statement with this perfect combination of accessories. Shop now for a timeless and luxurious addition to your jewelry collection. Material: alloy rhinestones Color: Gold, Silver, Rose Gold - Ideal for Engagement / Wedding Size: Chain length 67cm Weight: Approximately 11.5g Packaging list: Earrings * 1 pair+necklace * 1+ring * 1
-  Updated: 2026-07-10T13:39:00Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/df01c8f3-5ebc-40d0-99f4-d839583dfc60.jpg?v=1698014283
-  - [Gold / 6th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850596144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/6e34ace1-fdb2-43fb-821e-d92c8b7bb9cf.jpg?v=1698014288
-    Price: $45.75 USD
-  - [Gold / 7th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850628912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/6e34ace1-fdb2-43fb-821e-d92c8b7bb9cf.jpg?v=1698014288
-    Price: $45.75 USD
-  - [Gold / 8th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850661680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/6e34ace1-fdb2-43fb-821e-d92c8b7bb9cf.jpg?v=1698014288
-    Price: $45.75 USD
-  - [Gold / 9th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850694448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/6e34ace1-fdb2-43fb-821e-d92c8b7bb9cf.jpg?v=1698014288
-    Price: $45.75 USD
-  - [Rose Gold / 6th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850727216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/699870fa-37e2-43c4-b076-9ffda9d477a5.jpg?v=1698014293
-    Price: $45.75 USD
-  - [Rose Gold / 7th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850759984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/699870fa-37e2-43c4-b076-9ffda9d477a5.jpg?v=1698014293
-    Price: $45.75 USD
-  - [Rose Gold / 8th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850792752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/699870fa-37e2-43c4-b076-9ffda9d477a5.jpg?v=1698014293
-    Price: $45.75 USD
-  - [Rose Gold / 9th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850825520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/699870fa-37e2-43c4-b076-9ffda9d477a5.jpg?v=1698014293
-    Price: $45.75 USD
-  - [Silver / 6th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850858288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b282c307-ab01-40e5-a990-97792c8b16f3.jpg?v=1698014291
-    Price: $45.75 USD
-  - [Silver / 7th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850891056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b282c307-ab01-40e5-a990-97792c8b16f3.jpg?v=1698014291
-    Price: $45.75 USD
-  - [Silver / 8th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850923824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b282c307-ab01-40e5-a990-97792c8b16f3.jpg?v=1698014291
-    Price: $45.75 USD
-  - [Silver / 9th](https://surazy.com/products/engagement-ring-stud-earrings-necklace-three-piece-wedding-set?variant=47000850956592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/b282c307-ab01-40e5-a990-97792c8b16f3.jpg?v=1698014291
-    Price: $45.75 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY2Nzc5MTg0LCJsYXN0X3ZhbHVlIjoiODc4NDk2Njc3OTE4NCJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY1OTI3MjE2LCJsYXN0X3ZhbHVlIjoiODc4NDk2NTkyNzIxNiJ9)
 
 ## Collections
 
@@ -3079,6 +3025,21 @@
     Author: Surazy.com
   - [Unlocking Effortless Style with RISEN Mid Rise Ankle Straight Jeans](https://surazy.com/blogs/news/unlocking-effortless-style-with-risen-mid-rise-ankle-straight-jeans): Unlocking Effortless Style with RISEN Mid Rise Ankle Straight Jeans
     Updated: 2026-09-12T00:44:06Z
+    Author: Surazy.com
+  - [How to Style the Printed Halterneck Dress for a Summer Evening Look](https://surazy.com/blogs/news/how-to-style-the-printed-halterneck-dress-for-a-summer-evening-look): How to Style the Printed Halterneck Dress for a Summer Evening Look
+    Updated: 2026-09-14T02:52:20Z
+    Author: Surazy.com
+  - [Discover the Perfect Tops to Pair with Kancan Full Size Cat's Whiskers Raw Hem High Waist Jeans](https://surazy.com/blogs/news/discover-the-perfect-tops-to-pair-with-kancan-full-size-cats-whiskers-raw-hem-high-waist-jeans): Discover the Perfect Tops to Pair with Kancan Full Size Cat's Whiskers Raw Hem High Waist Jeans
+    Updated: 2026-09-16T02:27:55Z
+    Author: Surazy.com
+  - [Exploring Versatility Styling Tips for the Button Front Corduroy Shirt Dress](https://surazy.com/blogs/news/exploring-versatility-styling-tips-for-the-button-front-corduroy-shirt-dress): Exploring Versatility Styling Tips for the Button Front Corduroy Shirt Dress
+    Updated: 2026-09-19T00:42:36Z
+    Author: Surazy.com
+  - [Unveiling Chic Comfort: Styling Judy Blue Full Size Embroidered High Rise Skinny Jeans Plus Size for Every Occasion](https://surazy.com/blogs/news/unveiling-chic-comfort-styling-judy-blue-full-size-embroidered-high-rise-skinny-jeans-plus-size-for-every-occasion): Unveiling Chic Comfort: Styling Judy Blue Full Size Embroidered High Rise Skinny Jeans Plus Size for Every Occasion
+    Updated: 2026-09-21T02:31:45Z
+    Author: Surazy.com
+  - [Master the Art of Poolside Panache with a Swimwear Long Sleeved Blouse Three Piece Suit](https://surazy.com/blogs/news/master-the-art-of-poolside-panache-with-a-swimwear-long-sleeved-blouse-three-piece-suit): Master the Art of Poolside Panache with a Swimwear Long Sleeved Blouse Three Piece Suit
+    Updated: 2026-09-23T02:09:00Z
     Author: Surazy.com
 
 ## Store Pages
