@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-04-25T16:37:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-15T00:00:38.044Z
+- Updated At: 2026-09-24T00:00:40.096Z
 
 ## Products
 
