@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2015-09-23T17:57:14Z
 - Contact Email: info@intouchclothing.net
-- Updated At: 2026-09-17T00:00:41.458Z
+- Updated At: 2026-09-24T00:00:41.891Z
 
 ## Products
 
@@ -37,7 +37,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/DSC05168_BACK.jpg?v=1541457568
     Price: $22.95 USD
 - [High Impact Capri Legging | Supplex Activewear | Intouch Clothing](https://intouchclothing.net/products/premium-supplex-mid-calf-legging): Shop our form-fitting Supplex capri legging. 4-way stretch, quick-dry, and made in the USA. Built for high-impact workouts and maximum support.
-  Updated: 2026-08-28T04:12:58Z
+  Updated: 2026-09-19T00:56:31Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -557,7 +557,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Stylish Crop Tank Top - Organic Cotton Comfort](https://intouchclothing.net/products/crop-tank-top): Discover the perfect blend of style and comfort with our organic cotton crop tank top. Ideal for layering or a casual chic look.
-  Updated: 2026-09-08T12:47:31Z
+  Updated: 2026-09-18T20:46:47Z
   Vendor: Intouch Clothing
   Product Type: fitwear
   Availability: Available
@@ -713,7 +713,7 @@
     Availability: Not Available
     Price: $37.99 USD
 - [Relax Hoodie - Cozy Comfort for Everyday Calm](https://intouchclothing.net/products/relax-hoodie): Discover the Relax Hoodie, designed for a comforting embrace that alleviates anxiety and stress with its soft cotton fabric and spacious pockets.
-  Updated: 2026-09-08T12:47:37Z
+  Updated: 2026-09-18T23:01:20Z
   Vendor: Intouch Clothing
   Product Type: orgnic
   Availability: Available
@@ -799,7 +799,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/DSC07963.jpg?v=1757388386
     Price: $40.50 USD
 - [Sexy straps leggings](https://intouchclothing.net/products/sexy-straps-leggings): These sexy straps leggings blend design and comfort, crafted from soft, breathable cotton for all-day wear. The unique strap details add a bold, fashionable edge, enhancing your silhouette while offering flexibility and support. Perfect for both casual outings and active moments, they combine expert construction with stylish appeal.
-  Updated: 2026-09-08T12:47:41Z
+  Updated: 2026-09-19T02:40:49Z
   Vendor: Intouch Clothing
   Product Type: 
   Availability: Available
@@ -1352,6 +1352,27 @@
     Author: intouch clothing
   - [When the heat rises stay cool and comfortable in Sam Slender Supplex Shorts](https://intouchclothing.net/blogs/news/when-the-heat-rises-stay-cool-and-comfortable-in-sam-slender-supplex-shorts): When the heat rises stay cool and comfortable in Sam Slender Supplex Shorts
     Updated: 2026-09-16T12:02:40Z
+    Author: intouch clothing
+  - [Unlock the Ultimate Convenience with Electronic Gift Cards for Last-Minute Shoppers](https://intouchclothing.net/blogs/news/unlock-the-ultimate-convenience-with-electronic-gift-cards-for-last-minute-shoppers): Unlock the Ultimate Convenience with Electronic Gift Cards for Last-Minute Shoppers
+    Updated: 2026-09-17T12:03:55Z
+    Author: intouch clothing
+  - [The Secret to Versatile Summer Fashion Lies in Sam Slender Supplex 7 Inch Shorts](https://intouchclothing.net/blogs/news/the-secret-to-versatile-summer-fashion-lies-in-sam-slender-supplex-7-inch-shorts): The Secret to Versatile Summer Fashion Lies in Sam Slender Supplex 7 Inch Shorts
+    Updated: 2026-09-18T12:02:23Z
+    Author: intouch clothing
+  - [The Perfect One Piece Swimwear for Every Body Type](https://intouchclothing.net/blogs/news/the-perfect-one-piece-swimwear-for-every-body-type): The Perfect One Piece Swimwear for Every Body Type
+    Updated: 2026-09-19T12:02:09Z
+    Author: intouch clothing
+  - [Embrace Minimalism Maximize Performance with an Organic Cotton Athletic Tank](https://intouchclothing.net/blogs/news/embrace-minimalism-maximize-performance-with-an-organic-cotton-athletic-tank): Embrace Minimalism Maximize Performance with an Organic Cotton Athletic Tank
+    Updated: 2026-09-20T12:01:52Z
+    Author: intouch clothing
+  - [Exploring the Eco-Conscious Comfort of Organic Cotton Bike Shorts](https://intouchclothing.net/blogs/news/exploring-the-eco-conscious-comfort-of-organic-cotton-bike-shorts): Exploring the Eco-Conscious Comfort of Organic Cotton Bike Shorts
+    Updated: 2026-09-21T12:20:22Z
+    Author: intouch clothing
+  - [Sustainable Fashion Essentials Why Organic Cotton Spandex Leggings Offer Maximum Comfort](https://intouchclothing.net/blogs/news/sustainable-fashion-essentials-why-organic-cotton-spandex-leggings-offer-maximum-comfort): Sustainable Fashion Essentials Why Organic Cotton Spandex Leggings Offer Maximum Comfort
+    Updated: 2026-09-22T12:02:23Z
+    Author: intouch clothing
+  - [Why 5 Inch Supplex Bike Shorts Are the Ultimate Choice for Cycling Enthusiasts](https://intouchclothing.net/blogs/news/why-5-inch-supplex-bike-shorts-are-the-ultimate-choice-for-cycling-enthusiasts): Why 5 Inch Supplex Bike Shorts Are the Ultimate Choice for Cycling Enthusiasts
+    Updated: 2026-09-23T12:02:38Z
     Author: intouch clothing
 
 ## Store Pages
