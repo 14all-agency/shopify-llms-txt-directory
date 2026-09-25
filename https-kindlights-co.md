@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-09-17T10:37:11.889Z
+- Updated At: 2026-09-25T00:00:29.423Z
 
 ## Products
 
@@ -56,40 +56,40 @@
 
 - [Guides](https://kindlights.co/blogs/guides)
   - [Circadian Lighting: Guide to Better Home Lighting](https://kindlights.co/blogs/guides/the-complete-guide-to-circadian-lighting): Circadian Lighting: Guide to Better Home Lighting
-    Updated: 2026-09-17T10:30:01Z
-    Author: Kip A
-  - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/guides/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
-    Updated: 2026-09-17T10:29:46Z
-    Author: Kip A
-  - [Best Color Temperature for Sleep: 1800K vs 2200K vs 2700K](https://kindlights.co/blogs/guides/best-color-temperature-for-sleep): Best Color Temperature for Sleep: 1800K vs 2200K vs 2700K
-    Updated: 2026-09-17T10:29:31Z
-    Author: Kip A
-  - [Bedroom Lighting Guide: Day & Night Color Temperature](https://kindlights.co/blogs/guides/blogs-learn-bedroom-lighting-day-night): Bedroom Lighting Guide: Day & Night Color Temperature
-    Updated: 2026-09-17T10:28:30Z
-    Author: Kip A
-  - [Best Lighting for Nighttime Reading: Color Temperature Guide](https://kindlights.co/blogs/guides/nighttime-reading-lighting-guide): Best Lighting for Nighttime Reading: Color Temperature Guide
-    Updated: 2026-09-17T10:29:02Z
+    Updated: 2026-09-24T12:20:43Z
     Author: Kip A
 - [Circadian home](https://kindlights.co/blogs/circadian-home)
   - [Circadian Lighting Benefits for Daily Rhythm](https://kindlights.co/blogs/circadian-home/why-circadian-lighting-matters-key-benefits-explained): Circadian Lighting Benefits for Daily Rhythm
-    Updated: 2026-09-17T10:30:25Z
+    Updated: 2026-09-17T12:57:53Z
     Author: Kip A
   - [Circadian Lighting for Every Room: A Practical Home Guide](https://kindlights.co/blogs/circadian-home/circadian-lighting-room-by-room-guide): Circadian Lighting for Every Room: A Practical Home Guide
-    Updated: 2026-09-17T10:27:55Z
+    Updated: 2026-09-24T13:20:21Z
+    Author: Kip A
+  - [Best Lighting for Nighttime Reading: Color Temperature Guide](https://kindlights.co/blogs/circadian-home/nighttime-reading-lighting-guide): Best Lighting for Nighttime Reading: Color Temperature Guide
+    Updated: 2026-09-24T12:45:28Z
     Author: Kip A
   - [How Should I Use Circadian Lighting Throughout the Day?](https://kindlights.co/blogs/circadian-home/daily-circadian-lighting-schedule)
-    Updated: 2026-09-17T10:25:04Z
+    Updated: 2026-09-24T12:57:50Z
+    Author: Kip A
+- [Science](https://kindlights.co/blogs/science)
+  - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/science/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
+    Updated: 2026-09-24T13:25:07Z
+    Author: Kip A
+  - [Best Color Temperature for Sleep: 1800K vs 2200K vs 2700K](https://kindlights.co/blogs/science/best-color-temperature-for-sleep): Best Color Temperature for Sleep: 1800K vs 2200K vs 2700K
+    Updated: 2026-09-24T13:22:16Z
+    Author: Kip A
+  - [Does Blue Light Suppress Melatonin? What Research Says](https://kindlights.co/blogs/science/does-blue-light-suppress-melatonin): Does Blue Light Suppress Melatonin? What Research Says
+    Updated: 2026-09-24T13:01:28Z
+    Author: Kip A
+  - [Bedroom Lighting Guide: Day & Night Color Temperature](https://kindlights.co/blogs/science/blogs-learn-bedroom-lighting-day-night): Bedroom Lighting Guide: Day & Night Color Temperature
+    Updated: 2026-09-24T13:03:56Z
     Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
-    Updated: 2026-09-17T10:30:44Z
+    Updated: 2026-09-24T13:26:59Z
     Author: Kip A
   - [1800K vs 2700K: Which Warm Light Is Better at Night?](https://kindlights.co/blogs/compare/1800k-vs-2700k-warm-light): 1800K vs 2700K: Which Warm Light Is Better at Night?
-    Updated: 2026-09-17T10:26:37Z
-    Author: Kip A
-- [Science](https://kindlights.co/blogs/science)
-  - [Does Blue Light Suppress Melatonin? What Research Says](https://kindlights.co/blogs/science/does-blue-light-suppress-melatonin): Does Blue Light Suppress Melatonin? What Research Says
-    Updated: 2026-09-17T10:26:09Z
+    Updated: 2026-09-24T11:56:37Z
     Author: Kip A
 
 ## Store Pages
