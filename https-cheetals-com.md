@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-09-13T00:00:34.403Z
+- Updated At: 2026-09-25T00:00:36.650Z
 
 ## Products
 
@@ -17,26 +17,33 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/Canadian-Homebuyer-Toolkit-Cover-2026.png?v=1776885634
   Price: $19.00 CAD
-- [HOME BUYER DUE-DILIGENCE TOOLKIT](https://cheetals.com/products/home-buyer-due-diligence-toolkit): Why Most Buyers Need This Home showings typically last 15–30 minutes. Without a system, buyers often miss: • Structural problems • Water damage • Expensive system failures • Poor renovation potential This toolkit helps you evaluate homes like a professional. Evaluate homes like a professional and save thousands of dollars. Stop Guessing During Home Showings Most buyers walk through a home and miss expensive problems. This toolkit helps you evaluate a property before making an offer, so you can avoid costly surprises and make confident decisions. Designed for first-time home buyers across Canada. What You'll Learn ✔ What to check during a showing✔ How to identify costly structural red flags✔ How to evaluate renovation potential✔ How to compare multiple properties objectively✔ How to prepare a smarter offer What’s Inside the Toolkit Important Professional Guide Includes: ✔ Pre-offer walkthrough checklist✔ Structural red flag guide✔ Electrical and plumbing warning signs✔ Kitchen & bathroom evaluation checklists✔ Basement and crawl space inspection guide✔ Renovation ROI worksheet✔ Property comparison worksheet✔ Neighborhood risk checklist✔ Offer negotiation notes✔ Final home decision scorecard Who This Is For First-time home buyers Buyers attending multiple showings Buyers who want to make confident offers Buyers who want to avoid expensive surprises Instant Digital Download Format: PDF Works on: ✔ Phone ✔ Tablet ✔ Laptop ✔ Printed copy Use it during showings or while reviewing listings. The "Risk-Free" Guarantee: Instant Access: 100% Digital Delivery. Immediate PDF download sent to your email. No physical shipping required. Secure Checkout: Your payment is processed via Shopify’s encrypted gateway (PCI Compliant).
-  Updated: 2026-05-26T23:20:44Z
+- [Home Buyer Due-Diligence Toolkit: Evaluate Properties Like a Pro](https://cheetals.com/products/home-buyer-due-diligence-toolkit): Avoid costly surprises before making an offer. Checklists for showings, red flags, inspections & more. Built for Canadian buyers. Instant PDF download.
+  Updated: 2026-09-16T21:13:11Z
   Vendor: Cheetals
   Product Type: Digital Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/8._MAJOR_STRUCTURAL_RED_FLAGS_9._ELECTRICAL_RED_FLAGS_10._PLUMBING_RED_FLAGS_11._ROOF_EXTERIOR_RED_FLAGS_12._RENOVATION_ROI_QUICK_CHECK_13._PROPERTY_COMPARISON_WORKSHEET.png?v=1776638750
   Price: $29.00 CAD
-- [Smart Home Buyer Bundle](https://cheetals.com/products/smart-home-buyer-bundle): Smart Home Buyer Bundle Don’t Buy a Home Before You Read This Everything You Need Before You Buy — In One Place Buying a home is one of the biggest financial decisions you’ll ever make… But most buyers go in unprepared — and pay for it later. Hidden issues. Overpaying. Regret after closing. 👉 This bundle was created to make sure that doesn’t happen to you. ✅ What You Get (2 Powerful Toolkits) 1- The Canadian Homebuyer Toolkit – Essential Steps Designed specifically for first-time buyers in Canada, this guide walks you through the entire process with clarity and confidence. ✔ Step-by-step home buying roadmap ✔ What to do before making an offer ✔ Key financial and planning insights ✔ Avoid common first-time buyer mistakes 2- Home Buyer Due-Diligence Toolkit Your protection against costly surprises. ✔ What to check before buying a property ✔ Red flags most buyers miss ✔ Practical checklists for showings & inspections ✔ Make smarter, more confident decisions 💡 Why This Bundle Matters Most buyers rely only on assumptions…And that’s where expensive mistakes happen. This bundle puts professional-level knowledge in your hands so you can: ✔ Avoid overpaying ✔ Spot hidden problems early ✔ Feel confident before making an offer ✔ Created by professionals ✔ Designed for real-world use ✔ No fluff — just actionable steps 💰 Best Value – Save When You Bundle Instead of buying separately, get both toolkits together and save. 👉 Complete preparation. Lower risk. Smarter decisions. Price : $48 $39✅ Save $9 – Best Value ⚡ Instant Access Download immediately after purchase Easy-to-follow, practical, and actionable Use it before showings, offers, and inspections 🛑 Before You Buy a Home… Make sure you’re fully prepared. 👉 Get the Smart Home Buyer Bundle today and avoid costly mistakes tomorrow
-  Updated: 2026-09-01T14:34:54Z
+- [Smart Home Buyer Bundle: Two Essential Toolkits for Canadian Buyers](https://cheetals.com/products/smart-home-buyer-bundle): Get the Canadian Homebuyer Toolkit + Due-Diligence Toolkit in one bundle. Avoid costly mistakes and buy with confidence. Instant PDF download.
+  Updated: 2026-09-16T21:14:01Z
   Vendor: Cheetals
   Product Type: Digital Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/complete-Canadian-home-buyer-bundle-toolkit.png?v=1776820686
   Price: $39.00 CAD
 - [The Passive Income Solution Toolkit | Cheetals](https://cheetals.com/products/the-passive-income-solution-toolkit): Get instant access to the Passive Income Solution Toolkit — your step-by-step guide to building wealth, launching income streams, and achieving financial freedom.
-  Updated: 2026-09-01T01:22:41Z
+  Updated: 2026-09-15T20:55:23Z
   Vendor: Cheetals
   Product Type: Digital Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/Copyof8.MAJORSTRUCTURALREDFLAGS9.ELECTRICALREDFLAGS10.PLUMBINGREDFLAGS11.ROOFEXTERIORREDFLAGS12.RENOVATIONROIQUICKCHECK13.PROPERTYCOMPARISONWORKSHEET.png?v=1788223981
+  Price: $27.00 CAD
+- [Rental Property  Analyzer – ROI, Cash Flow & Cap Rate Calculator](https://cheetals.com/products/rental-property--analyzer): Analyze any rental property  in minutes. Calculate ROI, cash flow, cap rate & more. Stop guessing — start investing smarter. Instant digital download.
+  Updated: 2026-09-16T21:28:05Z
+  Vendor: Cheetals
+  Product Type: Digital Download
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/4002/8196/files/CopyofCopyof8.MAJORSTRUCTURALREDFLAGS9.ELECTRICALREDFLAGS10.PLUMBINGREDFLAGS11.ROOFEXTERIORREDFLAGS12.RENOVATIONROIQUICKCHECK13.PROPERTYCOMPARISONWORKSHEET_1.png?v=1789503892
   Price: $27.00 CAD
 
 ## Collections
@@ -45,8 +52,8 @@
   Updated: 2026-09-01T01:16:16Z
   Total Products: 4
 - [Real Estate](https://cheetals.com/collections/first-time-home-buyer): Practical home buying guides built for first-time buyers in Canada. Step-by-step toolkits to help you avoid costly mistakes, evaluate properties, and buy with confidence.
-  Updated: 2026-09-07T16:43:11Z
-  Total Products: 3
+  Updated: 2026-09-15T21:04:18Z
+  Total Products: 4
 - [Money Tools](https://cheetals.com/collections/money-tools): Browse Cheetals Money Tools collection — digital toolkits, passive income guides, and business blueprints to help you build wealth and achieve financial freedom.
   Updated: 2026-09-01T02:25:44Z
   Total Products: 1
@@ -74,6 +81,22 @@
     Updated: 2026-09-10T12:02:51Z
     Author: CHEETALS
     Tags: due diligence tips, finance, first time home buyers, first-time buyers, home buyer due-diligence, home buying, income, passive income, passive income strategies, real estate, smart home buying
+  - [First-Time Home Buyers' Essential Due-Diligence Checklist for a Smooth Purchase](https://cheetals.com/blogs/news/first-time-home-buyers-essential-due-diligence-checklist-for-a-smooth-purchase): First-Time Home Buyers' Essential Due-Diligence Checklist for a Smooth Purchase
+    Updated: 2026-09-15T12:02:24Z
+    Author: CHEETALS
+    Tags: due diligence, first time home buyers, first-time buyers, home buyer due-diligence, home buying, income, , passive income, property purchase checklist, real estate, smooth buying process
+  - [Smart Home Buyer Bundle: A Comprehensive Guide for First-Time Home Buyers Focusing on Due Diligence](https://cheetals.com/blogs/news/smart-home-buyer-bundle-a-comprehensive-guide-for-first-time-home-buyers-focusing-on-due-diligence): Smart Home Buyer Bundle: A Comprehensive Guide for First-Time Home Buyers Focusing on Due Diligence
+    Updated: 2026-09-17T12:02:58Z
+    Author: CHEETALS
+    Tags: due diligence, first time home buyers, first-time home buyer guide, home buyer, home buyer due-diligence, income, money, passive income, real estate, smart home buying tips
+  - [Passive Income Strategies for First-Time Home Buyers](https://cheetals.com/blogs/news/passive-income-strategies-for-first-time-home-buyers): Passive Income Strategies for First-Time Home Buyers
+    Updated: 2026-09-22T12:02:10Z
+    Author: CHEETALS
+    Tags: financial freedom tips, first time home buyers, first-time home strategies, home buyer due-diligence, home buyers, income, money, passive income, passive investing, real estate, rental income
+  - [Empower Your Home Search with a Home Buyer Due-Diligence Toolkit for First-Time Buyers](https://cheetals.com/blogs/news/empower-your-home-search-with-a-home-buyer-due-diligence-toolkit-for-first-time-buyers): Empower Your Home Search with a Home Buyer Due-Diligence Toolkit for First-Time Buyers
+    Updated: 2026-09-24T12:02:34Z
+    Author: CHEETALS
+    Tags: due diligence, first time home buyers, first-time buyers, home buyer, home buyer due-diligence, income, investing, passive income, passive income strategies, real estate, real estate toolkit
 
 ## Store Pages
 
