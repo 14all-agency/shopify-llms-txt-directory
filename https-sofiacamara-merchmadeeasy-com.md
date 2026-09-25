@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-15T00:00:41.879Z
+- Updated At: 2026-09-25T00:00:45.180Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SOFIACOMPLICATEDHAT.png?v=1759939839
   Price: $35.00 USD
 - [SC Hoodie](https://sofiacamara.merchmadeeasy.com/products/sc-hoodie): Sofia Camara Initials Hoodie in black with front and back print. 80/20 ring-spun cotton/polyester 3-end fleece with 100% cotton face yarns on solid color recycled polyester from plastic bottles Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 1/2 23 1/4 36 M 28 1/2 24 1/2 37 L 29 1/2 25 1/2 38 XL 30 1/2 26 3/4 39 2XL 32 28 40
-  Updated: 2026-09-06T03:22:36Z
+  Updated: 2026-09-17T03:09:17Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
@@ -77,10 +77,10 @@
 ## Collections
 
 - [Home page](https://sofiacamara.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-12T11:22:34Z
+  Updated: 2026-09-17T11:26:29Z
   Total Products: 5
 - [Apparel](https://sofiacamara.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-06T11:22:16Z
+  Updated: 2026-09-17T11:26:29Z
   Total Products: 2
 - [Accessories](https://sofiacamara.merchmadeeasy.com/collections/accessories)
   Updated: 2026-09-12T11:22:34Z
@@ -92,7 +92,7 @@
   Updated: 2026-08-05T20:01:12Z
   Total Products: 0
 - [All](https://sofiacamara.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-12T11:22:34Z
+  Updated: 2026-09-17T11:26:29Z
   Total Products: 5
 
 ## Store Pages
