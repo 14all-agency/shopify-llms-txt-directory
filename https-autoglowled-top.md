@@ -6,2838 +6,3060 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-07-21T02:25:02Z
 - Contact Email: support@autoglowled.top
-- Updated At: 2026-08-22T09:41:30.453Z
+- Updated At: 2026-09-25T00:00:43.238Z
 
 ## Products
 
-- [For Mercedes-Benz (2003-2010) 19PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz (2003-2010) - 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:24Z
+- [AutoGlowLED 23 Pcs LED Interior Light Kit Bentley Flying Spur 2005-2013](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013): Upgrade your Bentley Flying Spur (2005-2013) with AutoGlowLED 23-pc LED interior kit. Canbus error-free, plug and play, 50,000 hr lifespan. Bright dome, trunk, footwell lights.
+  Updated: 2026-09-02T07:35:22Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz__2003-2010__-_19PCS__19PCS.jpg?v=1784897399
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702507417757)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/main_629aa4d1-3a01-4b75-8f33-583b0f26a84c.jpg?v=1788334419
+  - [WHITE](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867378069661)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/WHITE.jpg?v=1788334424
     Price: $41.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702507450525)
+  - [Red](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867378102429)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Red_5de1c600-8f57-4767-83bf-952be1d5f7c9.jpg?v=1788334428
     Price: $41.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702507483293)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867378135197)
     Availability: Available
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702507516061)
-    Availability: Available
-    Price: $24.99 USD
-- [For Mercedes-Benz W218 C218 2011-2018 23PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W218 C218 - 23PCS  with 23-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:27Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W218_C218_-_23PCS__23PCS.jpg?v=1784897410
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702513938589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7551603c-1d6d-41d3-bc9b-15c6f48a58f4.jpg?v=1784897440
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/PURPLE.jpg?v=1788334432
     Price: $41.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702513971357)
+  - [Warm White](https://autoglowled.top/products/autoglowled-23-pcs-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867378167965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_eb176240-603b-47c4-a5e7-33a4864d6523.jpg?v=1784897429
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Warm_White.jpg?v=1788334435
     Price: $41.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702514004125)
-    Availability: Available
-    Price: $40.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702514036893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e2f0e2e3-a651-4c90-a549-0785a2c84a11.jpg?v=1784897438
-    Price: $40.99 USD
-- [For Mercedes-Benz W211 Sedan 2003-2009 26PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w211-sedan-2003-2009-26pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your Mercedes-Benz W211 Sedan - 26PCS  with 26-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:29Z
+- [AutoGlowLED LED Interior Light Kit Bentley Flying Spur 2005-2013](https://autoglowled.top/products/autoglowled-23pc-led-interior-light-kit-bentley-flying-spur-2005-2013): Buy AutoGlowLED 23pc LED interior light kit for Bentley Flying Spur 2005-2013. Bright, error-free, plug-and-play dome, trunk, footwell lights. 50,000 hr life.
+  Updated: 2026-09-18T21:09:31Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W211_Sedan_-_26PCS__26PCS_ade0ff60-a9ca-4418-9cad-5981d0ab88fe.jpg?v=1784897539
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w211-sedan-2003-2009-26pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545526941)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/led-interior-light-kit-bentley-flying-spur-2005-2013.jpg?v=1789354485
+  - [WHITE](https://autoglowled.top/products/autoglowled-23pc-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867403464861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c293f0ca-c943-4990-a6f2-741b6d17a386.jpg?v=1784897586
-    Price: $45.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w211-sedan-2003-2009-26pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545559709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b3e7e6aa-674d-4324-b619-78b5febb5f58.jpg?v=1784897581
-    Price: $46.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w211-sedan-2003-2009-26pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545592477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9612b13d-697d-4d14-a250-cba14b98a582.jpg?v=1784897589
-    Price: $42.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w211-sedan-2003-2009-26pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545625245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_ac04fc0f-9665-471a-8c36-27eaf4099309.jpg?v=1784897578
-    Price: $42.99 USD
-- [For BMW E39 Touring 1997-2003 (22PCS) LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e39-touring-1997-2003-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your BMW E39 Touring - 22PCS  with 22-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:31Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_E39_Touring_-_22PCS__22PCS_b3a9a5e1-9bc4-4e01-a9a2-8053211ee248.jpg?v=1784897539
-  - [white](https://autoglowled.top/products/for-bmw-e39-touring-1997-2003-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545658013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_99e7a00c-ec54-462a-88a5-c71ab5b99616.jpg?v=1784897566
-    Price: $42.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-e39-touring-1997-2003-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545690781)
-    Availability: Available
-    Price: $40.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-e39-touring-1997-2003-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545723549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_157103a8-1766-4965-bc64-f802e8260453.jpg?v=1784897564
-    Price: $45.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-e39-touring-1997-2003-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702545756317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_04e8cc82-3173-4755-91de-6e25c44640e0.jpg?v=1784897562
-    Price: $45.99 USD
-- [For Mercedes-Benz (2003-2010) 19PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2): Upgrade your Mercedes-Benz (2003-2010) - 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:33Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz__2003-2010__-_19PCS__19PCS_3a135a9e-a097-42a7-a9c3-ccf35e662041.jpg?v=1784897541
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702545789085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_6979fb55-c418-47fb-a490-737de20db04d.jpg?v=1784897570
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_87a5bd62-64a4-4fd3-88e6-e140e9cd0757.jpg?v=1789032893
     Price: $41.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702545821853)
+  - [Red](https://autoglowled.top/products/autoglowled-23pc-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867403497629)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a2f7e397-ec8e-444e-a96a-0ca12c53d662.jpg?v=1789057015
     Price: $41.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702545854621)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-23pc-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867403530397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_681d2ee0-ce20-44fe-960a-2f14d95bc4e5.jpg?v=1784897575
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-2003-2010-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702545887389)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_fd2cadf3-5cad-437b-9a2e-0cbe2ea86c96.jpg?v=1789032885
+    Price: $41.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-23pc-led-interior-light-kit-bentley-flying-spur-2005-2013?variant=48867403563165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_fede00ae-8ddd-44ff-89b9-f45fdc82c60d.jpg?v=1784897565
-    Price: $24.99 USD
-- [For Mercedes-Benz W221 2006-2013 27PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w221-2006-2013-27pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W221 - 27PCS  with 27-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:35Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_74bbc2be-899d-4b47-b08b-6589e1a0e359.jpg?v=1789032889
+    Price: $41.99 USD
+- [AutoGlowLED 23Pcs LED Interior Light Kit Bentley Arnage 1998-2009](https://autoglowled.top/products/autoglowled-23pcs-led-interior-light-kit-bentley-arnage-1998-2009): Upgrade your Bentley Arnage (1998-2009) with a 23-piece AutoGlowLED interior LED kit. Error-free, plug-and-play, 50,000-hour lifespan. Bright dome, door, trunk lights.
+  Updated: 2026-09-18T21:09:33Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W221_-_27PCS__27PCS_2abbb354-c22a-462a-a51b-d9d3cf493ccc.jpg?v=1784897541
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w221-2006-2013-27pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546182301)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_6f0c7d8d-074e-402c-9407-c9a3b4439248.jpg?v=1789065837
+  - [PURPLE](https://autoglowled.top/products/autoglowled-23pcs-led-interior-light-kit-bentley-arnage-1998-2009?variant=48867407036573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_aa2b6882-bb3d-4aa3-9bc7-83379635fcb1.jpg?v=1784897572
-    Price: $49.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w221-2006-2013-27pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546215069)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_08689bc9-6068-4e6f-8076-6b81bcfc7da1.jpg?v=1789032886
+    Price: $41.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-23pcs-led-interior-light-kit-bentley-arnage-1998-2009?variant=48867407069341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_0352c245-d44d-4b1c-bdde-43a3ee5b9224.jpg?v=1784897574
-    Price: $49.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w221-2006-2013-27pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546247837)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_9ec9f1a9-3a31-4ea5-b764-efa22b8a0c36.jpg?v=1789032890
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-23pcs-led-interior-light-kit-bentley-arnage-1998-2009?variant=48867407102109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4e29dce8-6fef-416e-b0bd-fd8de985b537.jpg?v=1784897582
-    Price: $45.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w221-2006-2013-27pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546280605)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b7eea2bf-98a3-46df-9157-885831dcb79a.jpg?v=1789032893
+    Price: $41.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-23pcs-led-interior-light-kit-bentley-arnage-1998-2009?variant=48867407134877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_9719ee2c-0bae-4686-aad1-278f2202174a.jpg?v=1784897569
-    Price: $45.99 USD
-- [For Volvo 2009-2012 16PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volvo (2009-2012) 16PCS  with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:38Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_77f6df4f-4e5e-4f85-a487-5e8a4ed6f0a8.jpg?v=1789057015
+    Price: $41.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW X6 E71 2008-2014](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x6-e71-2008-2014): Upgrade your BMW X6 E71 (2008-2014) with AutoGlowLED 23pc Canbus LED interior light kit. Error-free, plug-and-play, bright. Get yours now!
+  Updated: 2026-09-18T21:10:17Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo__2009-2012__16PCS__16PCS.jpg?v=1784897543
-  - [white](https://autoglowled.top/products/for-volvo-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546313373)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_18b755b8-f59c-4907-a55e-02bc0212eed6.jpg?v=1789065837
+  - [PURPLE](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x6-e71-2008-2014?variant=48867414900893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ce975753-65c7-491e-8918-1b53eeb5ec90.jpg?v=1784897605
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546346141)
-    Availability: Available
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546378909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f817f809-257e-4b69-9b2a-d606b06df6f6.jpg?v=1784897597
-    Price: $45.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546411677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_40271bbe-a063-4545-be30-23e85a94e04f.jpg?v=1784897589
-    Price: $45.99 USD
-- [For Mercedes-Benz (2011-2015) - 25PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your Mercedes-Benz (2011-2015) - 25PCS  with 25-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:40Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz__2011-2015__-_25PCS__25PCS_129eea89-c4fe-4fbe-9e67-a11f8344b034.jpg?v=1784897552
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702546444445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_fe3152da-e685-44ed-875c-40428418a3a3.jpg?v=1784897597
-    Price: $44.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702546477213)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_16fa4039-5eea-4645-9b97-22e51feb30de.jpg?v=1789032892
     Price: $43.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702546509981)
+  - [WHITE](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x6-e71-2008-2014?variant=48867414933661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_32907a26-b987-4407-ab4f-c508bea5be09.jpg?v=1784897594
-    Price: $41.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702546542749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a000a3d9-d77e-455a-baf4-8d0d0512b10a.jpg?v=1784897608
-    Price: $41.99 USD
-- [For Nissan L31 (2002-2006) 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-nissan-l31-2002-2006-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Nissan L31 (2002-2006) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:42Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Nissan_L31__2002-2006__14PC__0PCS.jpg?v=1784897548
-  - [white](https://autoglowled.top/products/for-nissan-l31-2002-2006-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546575517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_bd014f0e-589c-40dc-8797-174b90d2e369.jpg?v=1784897583
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-nissan-l31-2002-2006-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546608285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_b4a0d81c-748a-41dc-b725-591581fc127b.jpg?v=1784897581
-    Price: $23.99 USD
-  - [ice blue](https://autoglowled.top/products/for-nissan-l31-2002-2006-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546641053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_380b0c3d-b960-4131-b7ef-b4c99ff13b4c.jpg?v=1784897573
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-nissan-l31-2002-2006-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702546673821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_47f76dab-5c59-4107-9f9f-6cebe90042c4.jpg?v=1784897578
-    Price: $23.99 USD
-- [For BMW X3 F25 2011-2017 LED Interior Light Kit, Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-x3-f25-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your BMW X3 F25 2011-2017 with 23-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:43Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_X3_F25_2011-2017_23PCS_8cb9c094-fd1a-49c0-910d-bbe20be7da3b.jpg?v=1784897547
-  - [purple](https://autoglowled.top/products/for-bmw-x3-f25-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702546706589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c44e11e8-916d-4f83-b74a-8a9697f5c289.jpg?v=1784897580
-    Price: $51.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-x3-f25-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702546739357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e8c6a86a-6d1f-4f6b-ab5d-62edf8c77d11.jpg?v=1784897585
-    Price: $51.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-x3-f25-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702546772125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_30f166ed-5e89-4eb0-bd83-2d760778bfae.jpg?v=1784897577
-    Price: $47.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-x3-f25-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702546804893)
-    Availability: Available
-    Price: $47.99 USD
-- [For Nissan L32 (2007-2012) 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-nissan-l32-2007-2012-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Nissan L32 (2007-2012) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:45Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Nissan_L32__2007-2012__14PC__0PCS.jpg?v=1784897657
-  - [white](https://autoglowled.top/products/for-nissan-l32-2007-2012-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702552834205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c5f508ca-453b-416b-b244-a8862c2a4101.jpg?v=1784897694
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-nissan-l32-2007-2012-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702552866973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3ca0f947-afe9-4467-9a1c-0a94473dacc7.jpg?v=1784897692
-    Price: $23.99 USD
-  - [ice blue](https://autoglowled.top/products/for-nissan-l32-2007-2012-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702552899741)
-    Availability: Available
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-nissan-l32-2007-2012-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702552932509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2a8c98d4-9a5b-4081-9370-7dd97c331e9a.jpg?v=1784897690
-    Price: $23.99 USD
-- [For Mercedes-Benz (2011-2015) - 25PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2): Upgrade your Mercedes-Benz (2011-2015) - 25PCS  with 25-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:47Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz__2011-2015__-_25PCS__25PCS_6b4a03ed-899c-4043-960a-36de842481da.jpg?v=1784897672
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702553227421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_2d7c22b8-cf45-4482-869c-ac137c040696.jpg?v=1784897710
-    Price: $42.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702553260189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1a5096b8-8e7b-49fe-9104-002027f09df2.jpg?v=1784897705
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702553292957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1d6b6715-01d7-4bf5-a966-67cf397832f6.jpg?v=1784897717
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-2011-2015-25pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-2?variant=48702553325725)
-    Availability: Available
-    Price: $40.99 USD
-- [For Mercedes-Benz W220 (2000-2006) 24PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w220-2000-2006-24pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your Mercedes-Benz W220 - 24PCS  with 24-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:49Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W220_-_24PCS__24PCS.jpg?v=1784897686
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w220-2000-2006-24pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702553489565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_76d5541b-5a3d-49f1-8ad5-09a761b534c2.jpg?v=1784897728
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w220-2000-2006-24pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702553522333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_05c290e1-9266-4aa6-8518-707e33181107.jpg?v=1784897730
-    Price: $46.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w220-2000-2006-24pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702553555101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_5c3c7ad1-aacd-4b83-b3d1-0ef7e10ceda1.jpg?v=1784897726
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w220-2000-2006-24pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702553587869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4dcaf4d3-db86-4405-9d74-507fd5c46f8b.jpg?v=1784897735
-    Price: $42.99 USD
-- [For BMW X3 E83 2003-2010 LED Interior Light Kit, Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-x3-e83-2003-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your BMW X3 E83 2003-2010 with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:50Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_X3_E83_2003-2010_16PCS_fff607f1-3868-4719-8c86-9203e5d530eb.jpg?v=1784897710
-  - [purple](https://autoglowled.top/products/for-bmw-x3-e83-2003-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702553882781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f6921015-c8fd-41c3-975d-e13ad4e06796.jpg?v=1784897751
-    Price: $44.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-x3-e83-2003-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702553915549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4a9dd29a-1218-4448-b76d-8fc293698fc0.jpg?v=1784897753
-    Price: $44.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-x3-e83-2003-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702553948317)
-    Availability: Available
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-x3-e83-2003-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702553981085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_dcd60440-fbb9-4922-a3ce-294c02e2c1ac.jpg?v=1784897755
-    Price: $22.99 USD
-- [For Volvo MK2 (2010-2017) 18PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-mk2-2010-2017-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volvo MK2 (2010-2017) 18PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:52Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo_MK2__2010-2017__18PC__0PCS.jpg?v=1784897729
-  - [purple](https://autoglowled.top/products/for-volvo-mk2-2010-2017-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702562926749)
-    Availability: Available
-    Price: $46.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-mk2-2010-2017-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702562959517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_186b76ad-a440-41ce-ab81-6a07c63d1426.jpg?v=1784897767
-    Price: $46.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-mk2-2010-2017-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702562992285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_500d0258-4f9a-4365-8c17-1636f687f302.jpg?v=1784897759
-    Price: $43.99 USD
-  - [white](https://autoglowled.top/products/for-volvo-mk2-2010-2017-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702563025053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_aa53610a-f639-4fc2-ba42-bbbeb3527c92.jpg?v=1784897769
-    Price: $43.99 USD
-- [For Mercedes-Benz W218 C218 2011-2018 23PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your Mercedes-Benz W218 C218 - 23PCS  with 23-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:54Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W218_C218_-_23PCS__23PCS_1ffed3d8-8951-476f-8b5b-4f8d9340108a.jpg?v=1784897764
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702584520861)
-    Availability: Available
-    Price: $41.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702584553629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_c227616b-6f23-4a0f-9440-153d87aec6b3.jpg?v=1784897798
-    Price: $41.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702584586397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b0eac0cd-d773-4260-b9f5-1d1b424443c7.jpg?v=1784897804
-    Price: $40.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w218-c218-2011-2018-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702584619165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c145a3be-b0c7-4919-b302-9bb4d57096d3.jpg?v=1784897806
-    Price: $40.99 USD
-- [For Honda Accord Civic CRV 2010-2012 12PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-honda-accord-civic-crv-2010-2012-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Honda (2010-2012) 12PCS  with 12-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:55Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Honda__2010-2012__12PCS__12PCS.jpg?v=1784897768
-  - [white](https://autoglowled.top/products/for-honda-accord-civic-crv-2010-2012-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702596415645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b1e83231-de85-43f7-8966-be355bd4ccee.jpg?v=1784897806
-    Price: $19.99 USD
-  - [ice blue](https://autoglowled.top/products/for-honda-accord-civic-crv-2010-2012-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702596448413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_4cfd6b94-616f-4da6-b243-42084cb51118.jpg?v=1784897797
-    Price: $19.99 USD
-  - [warm white](https://autoglowled.top/products/for-honda-accord-civic-crv-2010-2012-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702596481181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_7ca1da5e-22fe-4e07-9a35-f23bfef59780.jpg?v=1784897801
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-honda-accord-civic-crv-2010-2012-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702596513949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5fb1a348-fcb6-4b81-8485-5c72304d07b1.jpg?v=1784897799
-    Price: $21.99 USD
-- [For Infiniti (2007-2013) 14PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-2007-2013-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti (2007-2013) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:57Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_70983556-6e06-476a-914f-9b52845a507e.jpg?v=1784897781
-  - [white](https://autoglowled.top/products/for-infiniti-2007-2013-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702598807709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2770d39b-04aa-4592-81ba-a5684748def1.jpg?v=1784897828
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-2007-2013-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702598840477)
-    Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-infiniti-2007-2013-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702598873245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f970069e-50d8-4889-b1da-2aeb5afbc319.jpg?v=1784897816
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-2007-2013-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702598906013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c47f3159-b764-4f9c-9593-133d8cf78c65.jpg?v=1784897821
-    Price: $23.99 USD
-- [For Mercedes-Benz W140 1991-1998 24PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w140-1991-1998-24pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Mercedes-Benz W140 - 24PCS  with 24-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:12:59Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W140_-_24PCS__24PCS.jpg?v=1784897816
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w140-1991-1998-24pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702607392925)
-    Availability: Available
-    Price: $46.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w140-1991-1998-24pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702607425693)
-    Availability: Available
-    Price: $47.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w140-1991-1998-24pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702607458461)
-    Availability: Available
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w140-1991-1998-24pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702607491229)
-    Availability: Available
-    Price: $42.99 USD
-- [For Nissan Altima (2008-2013) 11PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-nissan-altima-2008-2013-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Nissan (2008-2013) 11PCS  with 11-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:00Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Nissan__2008-2013__11PCS__11PCS.jpg?v=1784897818
-  - [white](https://autoglowled.top/products/for-nissan-altima-2008-2013-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607523997)
-    Availability: Available
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-nissan-altima-2008-2013-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607556765)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-nissan-altima-2008-2013-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607589533)
-    Availability: Available
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-nissan-altima-2008-2013-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607622301)
-    Availability: Available
-    Price: $23.99 USD
-- [For Skoda Sedan 2010-2023 17PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-skoda-sedan-2010-2023-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Skoda Sedan - 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:02Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Skoda_Sedan_-_17PCS__17PCS.jpg?v=1784897870
-  - [ice blue](https://autoglowled.top/products/for-skoda-sedan-2010-2023-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607917213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_9313c1fa-93f5-4480-9796-d51ccac3d805.jpg?v=1784897900
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-skoda-sedan-2010-2023-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607949981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_167820d3-8e8f-430e-9a00-1cf58d7b31e6.jpg?v=1784897909
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-skoda-sedan-2010-2023-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702607982749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1c4a60ad-4f68-44a2-afcc-abc16be3a710.jpg?v=1784897902
-    Price: $42.99 USD
-  - [warm white](https://autoglowled.top/products/for-skoda-sedan-2010-2023-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608015517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_51a8b7e5-6db8-49e9-8b37-6888ebbb6af9.jpg?v=1784897904
-    Price: $42.99 USD
-- [For Honda Accord Civic CRV 2013-2016 14PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-honda-accord-civic-crv-2013-2016-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Honda (2013-2016) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:03Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Honda__2013-2016__14PCS__14PCS.jpg?v=1784897877
-  - [white](https://autoglowled.top/products/for-honda-accord-civic-crv-2013-2016-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608048285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6bef7009-b6e5-4553-83f6-9164c36060b7.jpg?v=1784897918
-    Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-honda-accord-civic-crv-2013-2016-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608081053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_e9111469-4cd3-4d1e-9ef8-bc3082645b0f.jpg?v=1784897901
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-honda-accord-civic-crv-2013-2016-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608113821)
-    Availability: Available
-    Price: $49.99 USD
-  - [purple](https://autoglowled.top/products/for-honda-accord-civic-crv-2013-2016-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608146589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f448faed-6317-4973-8164-fcaa484f7651.jpg?v=1784897909
-    Price: $49.99 USD
-- [For Nissan L34 2019-2024 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-nissan-l34-2019-2024-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Nissan L34 (2019-2024) 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:05Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Nissan_L34__2019-2024__13PC__0PCS.jpg?v=1784897893
-  - [white](https://autoglowled.top/products/for-nissan-l34-2019-2024-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608310429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_945c088f-be43-43eb-affa-24476a02d5e1.jpg?v=1784897953
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-nissan-l34-2019-2024-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608343197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f32a8012-a4c4-4caa-a220-533a006d5a11.jpg?v=1784897945
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-nissan-l34-2019-2024-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608375965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_707b7258-c549-4a5d-a8ef-50238b9b4320.jpg?v=1784897933
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-nissan-l34-2019-2024-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608408733)
-    Availability: Available
-    Price: $24.99 USD
-- [For Mercedes-Benz Shooting Brake -23PC 2014-2019 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-shooting-brake-23pc-2014-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz Shooting Brake -23PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:07Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_6d04a05f-d917-41cd-83b2-98197026d83d.jpg?v=1784897912
-  - [white](https://autoglowled.top/products/for-mercedes-benz-shooting-brake-23pc-2014-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608441501)
-    Availability: Available
-    Price: $41.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-shooting-brake-23pc-2014-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608474269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_91a99f8a-7370-4bfb-a3a8-b7b28543d3a3.jpg?v=1784897942
-    Price: $42.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-shooting-brake-23pc-2014-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608507037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_963deb2e-c63b-49f9-8594-0d4cef4579db.jpg?v=1784897950
-    Price: $40.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-shooting-brake-23pc-2014-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608539805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_ce10f653-3825-45c2-b51e-22fcd633140f.jpg?v=1784897945
-    Price: $40.99 USD
-- [For BMW X6 E71 2008-2014 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW X6 E71 2008-2014 with 22-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:10Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_X6_E71_2008-2014_22PCS.jpg?v=1784897921
-  - [purple](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608572573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_84a524f3-c626-4db7-a2e6-73e2b974b48a.jpg?v=1784897956
-    Price: $51.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608605341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a9eaa335-b823-4ff6-946c-17102912bbe1.jpg?v=1784897961
-    Price: $51.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608638109)
-    Availability: Available
-    Price: $47.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702608670877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_53b9fedc-5162-4a2c-86c3-efb85ac42f57.jpg?v=1784897954
-    Price: $47.99 USD
-- [For Volkswagen Passat B7 Sedan 2011-2015 17PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-passat-b7-sedan-2011-2015-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Volkswagen B7 Sedan - 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:12Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_B7_Sedan_-_17PCS__17PCS_118c7f44-3bf5-4e9e-a0eb-51aca8dbcc81.jpg?v=1784897920
-  - [white](https://autoglowled.top/products/for-volkswagen-passat-b7-sedan-2011-2015-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608703645)
-    Availability: Available
-    Price: $23.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-passat-b7-sedan-2011-2015-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608736413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_839e074b-4809-457b-89f1-e809dbb0a798.jpg?v=1784897962
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-passat-b7-sedan-2011-2015-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608769181)
-    Availability: Available
-    Price: $49.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-passat-b7-sedan-2011-2015-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702608801949)
-    Availability: Available
-    Price: $49.99 USD
-- [For Volvo S60 XC60 V70 XC70 2009-2012 16PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-s60-xc60-v70-xc70-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Volvo (2009-2012) 16PCS  with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:13Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo__2009-2012__16PCS__16PCS_924a953a-6e82-407c-bf19-6be67c539ec3.jpg?v=1784897944
-  - [ice blue](https://autoglowled.top/products/for-volvo-s60-xc60-v70-xc70-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702608965789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_88e29b84-ff24-412d-b471-5285d5c14ec8.jpg?v=1784897979
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-volvo-s60-xc60-v70-xc70-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702608998557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_534f9139-3a05-4f8b-813a-1517f26607eb.jpg?v=1784897986
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-s60-xc60-v70-xc70-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702609031325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_66a95e1b-4fbe-4a88-866c-9403bd88506f.jpg?v=1784897981
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-s60-xc60-v70-xc70-2009-2012-16pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702609064093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f7fd4e7b-32d0-4df0-84e3-0f6df4c89e6b.jpg?v=1784897983
-    Price: $46.99 USD
-- [For Jeep Wrangler JK 2007-2016 9PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-wrangler-jk-2007-2016-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep (2007-2016) 9PCS  with 9-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:15Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep__2007-2016__9PCS__9PCS.jpg?v=1784897966
-  - [warm white](https://autoglowled.top/products/for-jeep-wrangler-jk-2007-2016-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609293469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_d3a5c82b-4806-4173-afa1-ca926392198c.jpg?v=1784898025
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jeep-wrangler-jk-2007-2016-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609326237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_a8a026e0-1f85-4373-8f42-6d284ab90c0f.jpg?v=1784898014
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-wrangler-jk-2007-2016-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609359005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_36d4e64d-c9ca-4bfb-94aa-177b871b3647.jpg?v=1784898027
-    Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-wrangler-jk-2007-2016-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609391773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6250ae3a-3836-4843-a14e-208fdcd73e53.jpg?v=1784898017
-    Price: $22.99 USD
-- [For Skoda Combi 2013-2020 19PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-skoda-combi-2013-2020-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Skoda Combi - 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:17Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Skoda_Combi_-_19PCS__19PCS.jpg?v=1784897984
-  - [ice blue](https://autoglowled.top/products/for-skoda-combi-2013-2020-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609424541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_8ac3d33d-dbda-4c9e-9abb-5b47fa4ce668.jpg?v=1784898009
-    Price: $41.99 USD
-  - [white](https://autoglowled.top/products/for-skoda-combi-2013-2020-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609457309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_03d5dbb0-0174-41fc-8082-4b825e7d822b.jpg?v=1784898019
-    Price: $42.99 USD
-  - [purple](https://autoglowled.top/products/for-skoda-combi-2013-2020-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609490077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7112cfe7-f822-4580-8239-15b308ad975a.jpg?v=1784898011
-    Price: $44.99 USD
-  - [warm white](https://autoglowled.top/products/for-skoda-combi-2013-2020-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609522845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5a474349-1e34-4b7e-a561-1d9f134611f8.jpg?v=1784898013
-    Price: $44.99 USD
-- [For Porsche 9PA 2003-2010 Cayenne 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-porsche-9pa-2003-2010-cayenne-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Porsche 9PA (2003-2010) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:19Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Porsche_9PA__2003-2010__14PC__0PCS.jpg?v=1784898021
-  - [ice blue](https://autoglowled.top/products/for-porsche-9pa-2003-2010-cayenne-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609555613)
-    Availability: Available
-    Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-porsche-9pa-2003-2010-cayenne-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609588381)
-    Availability: Available
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-porsche-9pa-2003-2010-cayenne-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609621149)
-    Availability: Available
-    Price: $49.99 USD
-  - [warm white](https://autoglowled.top/products/for-porsche-9pa-2003-2010-cayenne-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702609653917)
-    Availability: Available
-    Price: $49.99 USD
-- [For Jeep Wrangler 2002-2007 14PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-wrangler-2002-2007-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Jeep (2002-2007) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:21Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep__2002-2007__14PCS__14PCS.jpg?v=1784898048
-  - [white](https://autoglowled.top/products/for-jeep-wrangler-2002-2007-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702620008605)
-    Availability: Available
-    Price: $23.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jeep-wrangler-2002-2007-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702620041373)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-wrangler-2002-2007-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702620074141)
-    Availability: Available
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-wrangler-2002-2007-14pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702620106909)
-    Availability: Available
-    Price: $23.99 USD
-- [For Infiniti EX35 EX37 07-13 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-ex35-ex37-07-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti EX35 EX37 07-13 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:22Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_EX35_EX37_07-13_14PC__0PCS.jpg?v=1784898058
-  - [purple](https://autoglowled.top/products/for-infiniti-ex35-ex37-07-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702634524829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7dc22fc2-8308-4c26-8ef5-8dbe9a44547f.jpg?v=1784898093
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-ex35-ex37-07-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702634557597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_0bdc0381-91df-4402-8cc1-af4ea87d2460.jpg?v=1784898084
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-ex35-ex37-07-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702634590365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_623cf7fd-244a-4566-bbd0-2f50efb85c7a.jpg?v=1784898095
-    Price: $47.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-ex35-ex37-07-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702634623133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_524884bb-3c80-4552-86fd-44d73317c1c3.jpg?v=1784898100
-    Price: $21.99 USD
-- [For Volkswagen Passat B7 Variant 2011-2015 18PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-passat-b7-variant-2011-2015-18pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Volkswagen B7 Variant - 18PCS  with 18-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:24Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_B7_Variant_-_18PCS__18PCS.jpg?v=1784898081
-  - [white](https://autoglowled.top/products/for-volkswagen-passat-b7-variant-2011-2015-18pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702644158621)
-    Availability: Available
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-passat-b7-variant-2011-2015-18pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702644191389)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-passat-b7-variant-2011-2015-18pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702644224157)
-    Availability: Available
-    Price: $49.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-passat-b7-variant-2011-2015-18pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702644256925)
-    Availability: Available
-    Price: $49.99 USD
-- [For Audi B8 Avant (2009-2016) 20PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-audi-b8-avant-2009-2016-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1): Upgrade your Audi B8 Avant - 20PCS  with 20-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:26Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Audi_B8_Avant_-_20PCS__20PCS_c1aa31dd-3a27-4538-a887-b06cbbfcc8ab.jpg?v=1784898095
-  - [purple](https://autoglowled.top/products/for-audi-b8-avant-2009-2016-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702672404637)
-    Availability: Available
-    Price: $45.99 USD
-  - [warm white](https://autoglowled.top/products/for-audi-b8-avant-2009-2016-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702672437405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_19b7d666-4334-4c28-92c0-fa564650e86a.jpg?v=1784898137
-    Price: $45.99 USD
-  - [ice blue](https://autoglowled.top/products/for-audi-b8-avant-2009-2016-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702672470173)
-    Availability: Available
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-audi-b8-avant-2009-2016-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled-1?variant=48702672502941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ce9aaad2-5700-48f4-baa5-5ac928dbaf9c.jpg?v=1784898139
-    Price: $43.99 USD
-- [For Volkswagen Passat B5 Variant 1997-2005 15PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-passat-b5-variant-1997-2005-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen B5 Variant - 15PCS  with 15-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:27Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_B5_Variant_-_15PCS__15PCS.jpg?v=1784898092
-  - [purple](https://autoglowled.top/products/for-volkswagen-passat-b5-variant-1997-2005-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702680301725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_261f4851-04c1-4305-ad35-91a294cd1818.jpg?v=1784898122
-    Price: $23.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-passat-b5-variant-1997-2005-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702680367261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_a6b1d599-c00a-4518-a23a-eb735fbe393c.jpg?v=1784898119
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-passat-b5-variant-1997-2005-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702680400029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c57a01ae-a9d3-4498-99a3-3d63756784f9.jpg?v=1784898124
-    Price: $51.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-passat-b5-variant-1997-2005-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702680432797)
-    Availability: Available
-    Price: $23.99 USD
-- [For Jeep Wrangler/Gladiator 2018-2024 14PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-wrangler-gladiator-2018-2024-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep (2018-2024) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:30Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep__2018-2024__14PCS__14PCS.jpg?v=1784898114
-  - [ice blue](https://autoglowled.top/products/for-jeep-wrangler-gladiator-2018-2024-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702707237021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_3a7534ed-50ce-4d50-8756-b4b573ea6edf.jpg?v=1784898140
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-wrangler-gladiator-2018-2024-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702707302557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_cfe776d4-e990-4d92-a3ef-8e242f2e6e47.jpg?v=1784898156
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-wrangler-gladiator-2018-2024-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702707335325)
-    Availability: Available
-    Price: $51.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-wrangler-gladiator-2018-2024-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702707368093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bda56641-9e08-41c6-8ae3-529c87ec044e.jpg?v=1784898148
-    Price: $49.99 USD
-- [For Mercedes-Benz W163 1998-2005 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w163-1998-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W163 2098-2005 with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:32Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W163_2098-2005_16PCS.jpg?v=1784898123
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w163-1998-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702729322653)
-    Availability: Available
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w163-1998-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702729355421)
-    Availability: Available
-    Price: $46.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w163-1998-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702729388189)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w163-1998-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702729420957)
-    Availability: Available
-    Price: $46.99 USD
-- [For Land Rover 2015-2018 10PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-land-rover-2015-2018-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Land Rover (2015-2018) 10PCS  with 10-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:34Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Land_Rover__2015-2018__10PCS__10PCS.jpg?v=1784898146
-  - [ice blue](https://autoglowled.top/products/for-land-rover-2015-2018-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702740168861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_4f5cd841-ae27-4144-8238-8e0e86980522.jpg?v=1784898182
-    Price: $16.99 USD
-  - [white](https://autoglowled.top/products/for-land-rover-2015-2018-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702740201629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_696da8b7-00f6-4c39-80e6-08a0d8b603ec.jpg?v=1784898194
-    Price: $16.99 USD
-  - [purple](https://autoglowled.top/products/for-land-rover-2015-2018-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702740234397)
-    Availability: Available
-    Price: $18.99 USD
-  - [warm white](https://autoglowled.top/products/for-land-rover-2015-2018-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702740267165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_76001b3c-f0bc-4aa7-a43f-7ebbf0387c5a.jpg?v=1784898192
-    Price: $18.99 USD
-- [For Porsche 92A 2011-2016 13PC LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-porsche-92a-2011-2016-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Porsche 92A (2011-2016) 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:36Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Porsche_92A__2011-2016__13PC__0PCS.jpg?v=1784898140
-  - [ice blue](https://autoglowled.top/products/for-porsche-92a-2011-2016-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702741676189)
-    Availability: Available
-    Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-porsche-92a-2011-2016-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702741708957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0c1429bf-08f8-44ab-a832-2a6f60fc0230.jpg?v=1784898186
-    Price: $24.99 USD
-  - [purple](https://autoglowled.top/products/for-porsche-92a-2011-2016-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702741741725)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-porsche-92a-2011-2016-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702741774493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_9a9e88ed-9556-4198-ae8d-0badf4722653.jpg?v=1784898181
-    Price: $23.99 USD
-- [For Infiniti G35 G37 07-13 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-g35-g37-07-13-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti G35 G37 07-13 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:38Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_G35_G37_07-13_13PC__0PCS.jpg?v=1784898174
-  - [purple](https://autoglowled.top/products/for-infiniti-g35-g37-07-13-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702784733341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6190438-8fa4-4c73-b76d-203752305b67.jpg?v=1784898216
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-g35-g37-07-13-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702784766109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_ad891afc-6b74-4894-b9b7-48560a40a008.jpg?v=1784898209
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-g35-g37-07-13-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702784798877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2642d2-5603-4b39-84ff-2e6a094ef898.jpg?v=1784898221
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-g35-g37-07-13-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702784831645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ac41a9fe-6c00-40c7-b8e5-668e89aad896.jpg?v=1784898223
-    Price: $20.99 USD
-- [For Volkswagen Passat B5 Sedan 1996-2005 15PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-passat-b5-sedan-1996-2005-15pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Volkswagen B5 Sedan - 15PCS  with 15-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:39Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_B5_Sedan_-_15PCS__15PCS.jpg?v=1784898220
-  - [purple](https://autoglowled.top/products/for-volkswagen-passat-b5-sedan-1996-2005-15pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702826938525)
-    Availability: Available
-    Price: $51.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-passat-b5-sedan-1996-2005-15pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702826971293)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-passat-b5-sedan-1996-2005-15pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702827004061)
-    Availability: Available
-    Price: $51.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-passat-b5-sedan-1996-2005-15pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48702827036829)
-    Availability: Available
-    Price: $23.99 USD
-- [For Volvo 2002-2012 17PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-2002-2012-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volvo (2002-2012) 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:41Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo__2002-2012__17PCS__17PCS.jpg?v=1784898236
-  - [white](https://autoglowled.top/products/for-volvo-2002-2012-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702851907741)
-    Availability: Available
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-2002-2012-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702851940509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0a8df58a-efdf-496f-a790-ef1872276ba6.jpg?v=1784898268
-    Price: $51.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-2002-2012-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702851973277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_459b5e5d-20b3-45d5-98dd-6d21ed82ba54.jpg?v=1784898266
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-2002-2012-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702852006045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e0201057-aec5-42a4-8eae-b9961ef49bb5.jpg?v=1784898270
-    Price: $51.99 USD
-- [For Mercedes-Benz W166 2012-2015 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w166-2012-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W166 2012-2015 with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:43Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W166_2012-2015_17PCS.jpg?v=1784898244
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w166-2012-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702855938205)
-    Availability: Available
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w166-2012-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702855970973)
-    Availability: Available
-    Price: $46.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w166-2012-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702856003741)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w166-2012-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702856069277)
-    Availability: Available
-    Price: $46.99 USD
-- [For Renault Megane MK2 (2004-2009) 18PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-renault-megane-mk2-2004-2009-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Renault MK2 (2004-2009) 18PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:45Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Renault_MK2__2004-2009__18PC__0PCS.jpg?v=1784898269
-  - [ice blue](https://autoglowled.top/products/for-renault-megane-mk2-2004-2009-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702880153757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_1575b7ff-0f45-420c-874f-88b5f0fcf889.jpg?v=1784898294
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-renault-megane-mk2-2004-2009-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702880186525)
-    Availability: Available
-    Price: $53.99 USD
-  - [white](https://autoglowled.top/products/for-renault-megane-mk2-2004-2009-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702880219293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a75b89fb-8ce2-4b9b-b6fa-ff5ee9304917.jpg?v=1784898305
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-renault-megane-mk2-2004-2009-18pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702880252061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b21556a2-b41c-4683-ab9e-54d8030abe13.jpg?v=1784898296
-    Price: $53.99 USD
-- [For Honda Accord Civic CRV 2008-2012 15PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-honda-accord-civic-crv-2008-2012-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Honda (2008-2012) - 15PCS  with 15-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:46Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Honda__2008-2012__-_15PCS__15PCS.jpg?v=1784898258
-  - [purple](https://autoglowled.top/products/for-honda-accord-civic-crv-2008-2012-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702881300637)
-    Availability: Available
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-honda-accord-civic-crv-2008-2012-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702881333405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_95eb742d-2b68-4b9c-8364-79bad0af4291.jpg?v=1784898296
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-honda-accord-civic-crv-2008-2012-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702881366173)
-    Availability: Available
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-honda-accord-civic-crv-2008-2012-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702881398941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_86264237-0223-4854-9ee3-6fba0cc2b398.jpg?v=1784898299
-    Price: $23.99 USD
-- [For Volkswagen R36 Variant 2008-2012 LED Interior Light Kit 18PCS Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-r36-variant-2008-2012-led-interior-light-kit-18pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen R36 Variant - 18PCS  with 18-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:48Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_a910f3b5-56f7-4f66-ab24-b9634f6acd81.jpg?v=1784898282
-  - [warm white](https://autoglowled.top/products/for-volkswagen-r36-variant-2008-2012-led-interior-light-kit-18pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702887919773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3dda8c46-9197-4cf2-801e-df974251daf1.jpg?v=1784898319
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8ac85485-c43b-472b-9a12-ebd40ee0e451.jpg?v=1789032900
     Price: $39.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-r36-variant-2008-2012-led-interior-light-kit-18pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702887985309)
+  - [Warm White](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x6-e71-2008-2014?variant=48867414966429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_33a92e7c-88ec-4033-b56d-ba666a3117e4.jpg?v=1784898306
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-r36-variant-2008-2012-led-interior-light-kit-18pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702888018077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_542a7bdc-d43e-460b-a68f-eb94d696e6a0.jpg?v=1784898324
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-r36-variant-2008-2012-led-interior-light-kit-18pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702888050845)
-    Availability: Available
-    Price: $39.99 USD
-- [For Infiniti G35 G37 03-06 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-g35-g37-03-06-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti G35 G37 03-06 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:50Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_G35_G37_03-06_13PC__0PCS.jpg?v=1784898298
-  - [purple](https://autoglowled.top/products/for-infiniti-g35-g37-03-06-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702919344285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7242e715-2f27-43fc-af84-7fbf593a58b2.jpg?v=1784898344
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-g35-g37-03-06-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702919377053)
-    Availability: Available
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-g35-g37-03-06-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702919442589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_68fdbf2a-3a07-4e5a-83ec-ff4df5f1eda4.jpg?v=1784898346
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-g35-g37-03-06-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702919475357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_66d3f909-90ad-4932-a945-2e99a9456d91.jpg?v=1784898348
-    Price: $20.99 USD
-- [For BMW Z3 E36 1996-2002 10PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-z3-e36-1996-2002-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW Z3 E36 - 10PCS  with 10-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:51Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_Z3_E36_-_10PCS__10PCS.jpg?v=1784898371
-  - [white](https://autoglowled.top/products/for-bmw-z3-e36-1996-2002-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702985207965)
-    Availability: Available
-    Price: $19.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-z3-e36-1996-2002-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702985240733)
-    Availability: Available
-    Price: $19.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-z3-e36-1996-2002-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702985273501)
-    Availability: Available
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-z3-e36-1996-2002-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702985339037)
-    Availability: Available
-    Price: $21.99 USD
-- [For Jeep Liberty 02-07 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-liberty-02-07-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Liberty 02-07 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:53Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_b90715f3-9dd0-4717-ba77-b0993d06d95c.jpg?v=1784898373
-  - [ice blue](https://autoglowled.top/products/for-jeep-liberty-02-07-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702990516381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_d218dd33-3d2b-44ad-8c62-5d1c5a3e9cc0.jpg?v=1784898399
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-liberty-02-07-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702990581917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1a6d33be-84ad-4966-9773-76e3d61a6740.jpg?v=1784898412
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-liberty-02-07-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702990647453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_e9f2819f-219d-4759-adee-c74a44135de5.jpg?v=1784898405
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-liberty-02-07-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48702990680221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_de4a0d88-8e94-4318-8e4b-74dc37959deb.jpg?v=1784898410
-    Price: $45.99 USD
-- [For Skoda 2019-2022 9PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-skoda-2019-2022-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Skoda (2019-2022) 9PCS  with 9-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:55Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Skoda__2019-2022__9PCS__9PCS.jpg?v=1784898377
-  - [white](https://autoglowled.top/products/for-skoda-2019-2022-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702993072285)
-    Availability: Available
-    Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-skoda-2019-2022-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702993105053)
-    Availability: Available
-    Price: $19.99 USD
-  - [ice blue](https://autoglowled.top/products/for-skoda-2019-2022-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702993137821)
-    Availability: Available
-    Price: $17.99 USD
-  - [warm white](https://autoglowled.top/products/for-skoda-2019-2022-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48702993170589)
-    Availability: Available
-    Price: $18.99 USD
-- [For Honda Accord Civic CRV 2003-2007 15PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-honda-accord-civic-crv-2003-2007-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Honda (2003-2007) - 15PCS  with 15-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:57Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Honda__2003-2007__-_15PCS__15PCS.jpg?v=1784898380
-  - [purple](https://autoglowled.top/products/for-honda-accord-civic-crv-2003-2007-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703001067677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_e9b5b00e-f379-459f-a126-7a7adf40b221.jpg?v=1784898418
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-honda-accord-civic-crv-2003-2007-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703001100445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5a5d6f00-feb7-4939-8fe9-dbd4aea5090c.jpg?v=1784898426
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-honda-accord-civic-crv-2003-2007-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703001133213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_e4743891-80c0-40b3-9ea1-b7680027cbbe.jpg?v=1784898416
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-honda-accord-civic-crv-2003-2007-15pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703001165981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7309b0f1-56f0-44ce-8049-c0d936c6e9f5.jpg?v=1784898429
-    Price: $23.99 USD
-- [For Renault MK3 (2010-2016) 19PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-renault-mk3-2010-2016-19pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Renault MK3 (2010-2016) 19PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:13:59Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_61230170-b879-4a4f-ba69-532cf91cd083.jpg?v=1784898381
-  - [ice blue](https://autoglowled.top/products/for-renault-mk3-2010-2016-19pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703003426973)
-    Availability: Available
-    Price: $24.99 USD
-  - [white](https://autoglowled.top/products/for-renault-mk3-2010-2016-19pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703003459741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b6a3fdef-78ac-4489-838d-11f9d0450e29.jpg?v=1784898425
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-renault-mk3-2010-2016-19pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703003492509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_b016ded0-8d15-4273-af5e-bbe28898c4ba.jpg?v=1784898422
-    Price: $53.99 USD
-  - [purple](https://autoglowled.top/products/for-renault-mk3-2010-2016-19pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703003525277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_ba6f91dd-a460-4e5d-bcae-1066853bc529.jpg?v=1784898414
-    Price: $53.99 USD
-- [For Volvo 2013-2014 17PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-2013-2014-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Volvo (2013-2014) 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:00Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_0a81ab09-2a29-4e66-89b7-3bfe676197a8.jpg?v=1784898388
-  - [warm white](https://autoglowled.top/products/for-volvo-2013-2014-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48703007686813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8734c6ba-9652-4fdf-9dcc-3d8f197ef9c8.jpg?v=1784898428
-    Price: $51.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-2013-2014-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48703007719581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d8a4d44e-6f6f-46a7-ad90-c7ec48a6ffda.jpg?v=1784898423
-    Price: $51.99 USD
-  - [white](https://autoglowled.top/products/for-volvo-2013-2014-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48703007752349)
-    Availability: Available
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-2013-2014-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48703007785117)
-    Availability: Available
-    Price: $24.99 USD
-- [For Infiniti FX35 FX37 09-13 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-fx35-fx37-09-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti FX35 FX37 09-13 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:02Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_FX35_FX37_09-13_14PC__0PCS.jpg?v=1784898422
-  - [purple](https://autoglowled.top/products/for-infiniti-fx35-fx37-09-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703085052061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_9da04787-ac53-461a-bf6b-34beeff7287e.jpg?v=1784898463
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-fx35-fx37-09-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703085084829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_c49ad5c2-ef45-4631-adc9-bbc9c6f2229d.jpg?v=1784898455
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-fx35-fx37-09-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703085117597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8dfebe5c-0c73-4cb9-aee3-95b3dd8fae2a.jpg?v=1784898466
-    Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-fx35-fx37-09-13-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703085150365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_12716133-9ddf-4c6f-9891-9ea7bcdbb24d.jpg?v=1784898468
-    Price: $21.99 USD
-- [For BMW F06 2011-2017 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-f06-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW F06 2011-2017 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:04Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_F06_2011-2017_0PCS.jpg?v=1784898477
-  - [purple](https://autoglowled.top/products/for-bmw-f06-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703192531101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1a8cb0f6-377d-4939-aa17-f14171daad55.jpg?v=1784898506
-    Price: $52.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-f06-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703192563869)
-    Availability: Available
-    Price: $52.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-f06-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703192596637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_a8d534a3-8a7f-4d2c-af7b-cdc04e852d8e.jpg?v=1784898504
-    Price: $24.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-f06-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703192629405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3c69fd7e-076b-4488-b19c-9d9d4e0c851f.jpg?v=1784898519
-    Price: $24.99 USD
-- [For Seat Leon MK2 (1994-2002) 7PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-seat-leon-mk2-1994-2002-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Seat MK2 (1994-2002) 7PCS  with 7-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:06Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Seat_MK2__1994-2002__7PCS__7PCS.jpg?v=1784898498
-  - [white](https://autoglowled.top/products/for-seat-leon-mk2-1994-2002-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703206588573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e905c9e8-7a77-426e-9f59-87ba799c49ec.jpg?v=1784898546
-    Price: $16.99 USD
-  - [ice blue](https://autoglowled.top/products/for-seat-leon-mk2-1994-2002-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703206621341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_2b091944-753f-4eac-b399-56190e2f6039.jpg?v=1784898530
-    Price: $16.99 USD
-  - [warm white](https://autoglowled.top/products/for-seat-leon-mk2-1994-2002-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703206654109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e25d05ec-5193-4bad-9744-604a1f52327b.jpg?v=1784898538
-    Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-seat-leon-mk2-1994-2002-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703206686877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6aed9784-2b29-4d15-a0a2-ebad45022dd0.jpg?v=1784898533
-    Price: $18.99 USD
-- [For Jeep Liberty 08-13 14PC LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-liberty-08-13-14pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Jeep Liberty 08-13 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:08Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Liberty_08-13_14PC__0PCS.jpg?v=1784898490
-  - [ice blue](https://autoglowled.top/products/for-jeep-liberty-08-13-14pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48703207178397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_dafb86eb-1f0d-450d-b59a-b52f3028b390.jpg?v=1784898518
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-liberty-08-13-14pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48703207211165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e0ec47a0-3ecb-4796-b69a-f6286e9da75d.jpg?v=1784898527
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-liberty-08-13-14pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48703207243933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5d54268b-9063-4bc5-a1be-e82129196289.jpg?v=1784898522
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-liberty-08-13-14pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48703207276701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e2d52c77-2865-4b99-9846-e6c7c232b7ad.jpg?v=1784898525
-    Price: $47.99 USD
-- [For Mercedes-Benz W169 (2005-2012) 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w169-2005-2012-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W169(2005-2012) 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:09Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W169_2005-2012__13PC__0PCS.jpg?v=1784898492
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w169-2005-2012-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703210193053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b7fbd4a4-7cb6-4d86-a54a-ff12205e084f.jpg?v=1784898531
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w169-2005-2012-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703210225821)
-    Availability: Available
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w169-2005-2012-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703210258589)
-    Availability: Available
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w169-2005-2012-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703210291357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_b1bae683-03b1-4931-b538-3077727f27f8.jpg?v=1784898518
-    Price: $23.99 USD
-- [For Seat Leon MK1 (1996-2010) 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-seat-leon-mk1-1996-2010-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Seat MK1 (1996-2010) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:11Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Seat_MK1__1996-2010__14PC__0PCS.jpg?v=1784898488
-  - [white](https://autoglowled.top/products/for-seat-leon-mk1-1996-2010-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703212355741)
-    Availability: Available
-    Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-seat-leon-mk1-1996-2010-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703212388509)
-    Availability: Available
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-seat-leon-mk1-1996-2010-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703212421277)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_39a30f88-a6c9-4776-8549-87385d1b8029.jpg?v=1789032896
     Price: $43.99 USD
-  - [purple](https://autoglowled.top/products/for-seat-leon-mk1-1996-2010-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703212454045)
+  - [Red](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x6-e71-2008-2014?variant=48867414999197)
     Availability: Available
-    Price: $44.99 USD
-- [For BMW Z4 E85 E86 2003-2008 12PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-z4-e85-e86-2003-2008-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW Z4 E85 E86 - 12PCS  with 12-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:13Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_893317bc-dfc5-4aa9-8cd7-e5e020000a6d.jpg?v=1789057016
+    Price: $39.99 USD
+- [AutoGlowLED 21Pcs LED Interior Light Kit VW Sharan 7N](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-vw-sharan-7n): Upgrade your VW Sharan 7N (2011-2020) with AutoGlowLED 21Pcs LED interior light kit. Error-free, plug-and-play, 50,000-hr life. Choose white, yellow, red, purple.
+  Updated: 2026-09-18T21:11:04Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_Z4_E85_E86_-_12PCS__12PCS.jpg?v=1784898497
-  - [white](https://autoglowled.top/products/for-bmw-z4-e85-e86-2003-2008-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703216255133)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_0c8aa8d7-e0a6-4889-9d95-4a96fc43c956.jpg?v=1789065839
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-vw-sharan-7n?variant=48867427549341)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2e4aabbb-b600-45a8-9064-4af936cca401.jpg?v=1789032951
+    Price: $40.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-vw-sharan-7n?variant=48867427614877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8e35ffbd-0422-4063-8e17-b7ae080dda9b.jpg?v=1789057017
+    Price: $40.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-vw-sharan-7n?variant=48867427647645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_53b6903f-e1b1-4e60-81ba-e875b16a506b.jpg?v=1789057020
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-vw-sharan-7n?variant=48867427680413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_13e46359-589c-4146-acd3-ef53f63a4357.jpg?v=1789032947
+    Price: $42.99 USD
+- [AutoGlowLED LED Interior Light Kit for Renault Espace 4](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-espace-4): Buy AutoGlowLED complete LED interior light kit for Renault Espace 4 (MK4) 2003-2014. Error-free, plug-and-play, 50,000-hour lifespan. Free tools included.
+  Updated: 2026-09-18T21:11:05Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_7fb3559f-7d5a-4d9a-866e-d9838cfa6868.jpg?v=1789065839
+  - [4300K](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-espace-4?variant=48867434135709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa.jpg?v=1788487121
+    Price: $39.99 USD
+  - [5000K](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-espace-4?variant=48867434168477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa.jpg?v=1788487121
+    Price: $42.99 USD
+- [AutoGlowLED 21 Pcs LED Interior Light Kit for Acura MDX 2001-2006](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-acura-mdx-yd1-2001-2006): Upgrade your Acura MDX YD1 2001-2006 with this 21-piece LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, door, trunk, license plate, and more.
+  Updated: 2026-09-18T21:11:06Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover.jpg?v=1789065894
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-acura-mdx-yd1-2001-2006?variant=48867437445277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a37697aa-a35c-49e7-9476-e600840230f4.jpg?v=1789057064
+    Price: $37.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-acura-mdx-yd1-2001-2006?variant=48867437478045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4dcfe5bc-4b20-4afa-bd3c-afb7c8774d9a.jpg?v=1789057061
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-acura-mdx-yd1-2001-2006?variant=48867437510813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_85728415-1902-446f-bba1-ae308cb3b7ad.jpg?v=1789032952
+    Price: $37.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-acura-mdx-yd1-2001-2006?variant=48867437543581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_88159ac2-1df4-4eae-b1dc-fccc18e1c934.jpg?v=1789032949
+    Price: $41.99 USD
+- [BMW 5 Series F11 LED Interior Light Kit | 21Pcs](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-5-series-f11-touring-2011-2016): Upgrade your BMW 5 Series F11 Touring (2011-2016) with this 21-piece AutoGlowLED interior light kit – bright, error-free, plug-and-play LEDs for dome, door, trunk & more.
+  Updated: 2026-09-18T21:11:08Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b96010eb-f7ff-40fe-9463-7edf9142d206.jpg?v=1789065896
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-5-series-f11-touring-2011-2016?variant=48867442917533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8e8a3def-0d70-4e8b-8442-299ffbccc532.jpg?v=1789057062
+    Price: $40.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-5-series-f11-touring-2011-2016?variant=48867442950301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_eb8e1994-1a6f-4ccf-a899-b92a8d603cad.jpg?v=1789032956
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-5-series-f11-touring-2011-2016?variant=48867442983069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_beabce9e-9796-45c3-8013-045fe7a621aa.jpg?v=1789032949
+    Price: $40.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-5-series-f11-touring-2011-2016?variant=48867443015837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4d0f59d8-9752-441a-afa8-dfb9f86a7135.jpg?v=1789057065
+    Price: $42.99 USD
+- [LED Interior Light Kit for Ford Focus C-Max 2003-2007](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-ford-focus-c-max-2003-2007): Buy AutoGlowLED 16pc LED interior light kit for Ford Focus C-Max 2003-2007. Canbus error-free, 50,000-hour lifespan, plug-and-play. Choose white, red, yellow, or purple.
+  Updated: 2026-09-18T21:11:09Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_8e094743-eceb-4c7a-9347-f7992ede9d98.jpg?v=1789065908
+  - [PURPLE](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-ford-focus-c-max-2003-2007?variant=48867447767197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_3df8dce4-6f7e-462e-9369-f2fbf7a67c36.jpg?v=1789032950
+    Price: $45.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-ford-focus-c-max-2003-2007?variant=48867447799965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bd0068b2-9c8e-4737-a5f8-bf5e0973f112.jpg?v=1789057062
+    Price: $45.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-ford-focus-c-max-2003-2007?variant=48867447832733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6dcf2886-430c-4125-8c7d-1ac16e1bf24b.jpg?v=1789032954
     Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-z4-e85-e86-2003-2008-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703216287901)
+  - [Red](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-ford-focus-c-max-2003-2007?variant=48867447865501)
     Availability: Available
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-z4-e85-e86-2003-2008-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703216320669)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5f1de663-205f-4f61-bef6-bf73b1b809f8.jpg?v=1789057066
+    Price: $23.99 USD
+- [LED Interior Light Kit Mercedes Viano W639 | AutoGlowLED](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639): Buy AutoGlowLED Canbus error-free LED interior light kit for Mercedes Viano W639 2003-2015. Bright, plug-and-play, 50,000hr lifespan. 19pc or 25pc kits.
+  Updated: 2026-09-18T21:11:11Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_a75b885e-9d02-457b-a75c-0df7c492a62a.jpg?v=1789065909
+  - [(2003-2010) - 19PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372709533)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6142704c-1e08-48f5-acd6-7ff33a41c52b.jpg?v=1789032950
+    Price: $38.99 USD
+  - [(2003-2010) - 19PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372742301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0212ac81-b197-4484-b752-2a1f2c83ca1e.jpg?v=1789057066
     Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-z4-e85-e86-2003-2008-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703216353437)
+  - [(2003-2010) - 19PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372775069)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f580169f-60c4-47f6-ad10-6f2e99dc485a.jpg?v=1789032954
+    Price: $21.99 USD
+  - [(2003-2010) - 19PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372807837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3884ac14-5083-48c4-8b0f-f9c29b0057b2.jpg?v=1789057063
+    Price: $38.99 USD
+  - [(2011-2015) - 25PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372840605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6142704c-1e08-48f5-acd6-7ff33a41c52b.jpg?v=1789032950
+    Price: $39.99 USD
+  - [(2011-2015) - 25PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372873373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0212ac81-b197-4484-b752-2a1f2c83ca1e.jpg?v=1789057066
     Price: $22.99 USD
-- [For Volkswagen CC (2013-2017) 14PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-cc-2013-2017-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen CC (2013-2017) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:14Z
+  - [(2011-2015) - 25PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372906141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f580169f-60c4-47f6-ad10-6f2e99dc485a.jpg?v=1789032954
+    Price: $40.99 USD
+  - [(2011-2015) - 25PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-viano-w639?variant=48868372938909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3884ac14-5083-48c4-8b0f-f9c29b0057b2.jpg?v=1789057063
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW X5 E70 2007-2013](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013): Upgrade your BMW X5 E70 (2007-2013) with AutoGlowLED 23Pcs Canbus LED interior light kit – error-free, plug-and-play, bright. Get yours today!
+  Updated: 2026-09-18T21:11:12Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_CC__2013-2017__14PCS__14PCS.jpg?v=1784898520
-  - [warm white](https://autoglowled.top/products/for-volkswagen-cc-2013-2017-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703245811869)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_3ef4b8f8-bab7-4dc8-8511-0c57bf49bb7a.jpg?v=1789065910
+  - [Red](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013?variant=48867458482333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e343734c-1b3d-4ee2-83d7-4be849d31256.jpg?v=1784898570
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-cc-2013-2017-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703245844637)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2ee89834-fc91-478d-bcd6-2f1cc4d79470.jpg?v=1789057064
+    Price: $39.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013?variant=48867458515101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0ef806cd-2c7d-40ce-acf8-3b98f75164bf.jpg?v=1784898568
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-cc-2013-2017-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703245877405)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f915ad51-2d43-49a8-b0ff-4b5533b2a0cd.jpg?v=1789032977
+    Price: $40.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013?variant=48867458547869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e73d1f85-a1a2-47a0-98b1-07b87a9ee45a.jpg?v=1784898573
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-cc-2013-2017-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703245910173)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_aab5465f-b3de-48ae-a73f-52561710c8d7.jpg?v=1789032972
+    Price: $43.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013?variant=48867458580637)
     Availability: Available
-    Price: $24.99 USD
-- [For Renault Megane MK4 2017-2022 12PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-renault-megane-mk4-2017-2022-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Renault MK4 (2017-2022) 12PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:16Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_8dc76873-5be4-4a93-a645-52a097de2dee.jpg?v=1789032967
+    Price: $43.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW 5 Series F07 GT](https://autoglowled.top/products/autoglowled-led-interior-light-kit-bmw-5-series-f07-gt): Upgrade your BMW 5 Series F07 GT (2010-2017) with AutoGlowLED 26-piece LED interior kit. Error-free, plug-and-play, 50000-hour lifespan. Shop now!
+  Updated: 2026-09-18T21:11:15Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Renault_MK4__2017-2022__12PC__0PCS.jpg?v=1784898533
-  - [ice blue](https://autoglowled.top/products/for-renault-megane-mk4-2017-2022-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703256101021)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_1c7fca95-5ee0-4722-bb41-aeb6b65f15b7.jpg?v=1789065955
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-bmw-5-series-f07-gt?variant=48867463561373)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_14f433f2-2278-4163-9aca-ce2f358e9b21.jpg?v=1789032971
+    Price: $45.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-bmw-5-series-f07-gt?variant=48867463594141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e7426d80-e805-4c9a-84e5-8ad16a8861bc.jpg?v=1789057076
+    Price: $45.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-bmw-5-series-f07-gt?variant=48867463626909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7939395c-2974-42d3-9ea8-3b216d18602f.jpg?v=1789032976
+    Price: $43.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-bmw-5-series-f07-gt?variant=48867463659677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7e6178eb-fa3b-4dc0-9128-727a3ac2b999.jpg?v=1789057081
+    Price: $43.99 USD
+- [LED Interior Light Kit for Subaru Ascent 2019-2023](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-subaru-ascent-2019-2023): Brighten your Subaru Ascent with AutoGlowLED 19pc LED interior light kit. Includes dome, map, door, vanity, trunk, license plate bulbs. Plug & play.
+  Updated: 2026-09-18T21:11:14Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_0f56c42c-3aca-4d50-995e-aa2fcac6685f.jpg?v=1789065967
+  - [Red](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-subaru-ascent-2019-2023?variant=48867469721757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_49c5e651-6368-4982-9f72-a15b531e6f69.jpg?v=1789057086
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-subaru-ascent-2019-2023?variant=48867469754525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_509bbe18-b14f-4164-a106-bf2ff9a10fb9.jpg?v=1789032978
+    Price: $22.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-subaru-ascent-2019-2023?variant=48867469787293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4238854e-94fa-4f67-b9c1-5e295360417d.jpg?v=1789057082
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-subaru-ascent-2019-2023?variant=48867469820061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1f9e67db-7040-4002-9ed0-9d37c3c8539c.jpg?v=1789032975
+    Price: $39.99 USD
+- [LED Interior Light Kit for Nissan Fuga Y50 Y51](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018): Upgrade your Nissan Fuga Y50 (2004-2009) or Y51 (2010-2018) with a bright LED interior light kit. Includes dome, map, trunk, door, and license plate bulbs. Plug-and-play, error-free.
+  Updated: 2026-09-18T21:11:15Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5aa451ed-2954-4052-930e-85d3a54679b7.jpg?v=1789065973
+  - [Y50(2004-2009) 15PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373168285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0bca02a0-c750-4065-9388-5ab621f74289.jpg?v=1789032976
+    Price: $38.99 USD
+  - [Y50(2004-2009) 15PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373201053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5e770ba7-e542-4272-b764-241d2dff44e0.jpg?v=1789057084
+    Price: $22.99 USD
+  - [Y50(2004-2009) 15PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373233821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0020d16a-aeb8-48d7-a0bf-1025c16a9c86.jpg?v=1789032986
+    Price: $22.99 USD
+  - [Y50(2004-2009) 15PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373266589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_58c36960-2f94-4288-95fc-61d9e3b1531d.jpg?v=1789032981
+    Price: $38.99 USD
+  - [Y51(2010-2018) 16PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373299357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0bca02a0-c750-4065-9388-5ab621f74289.jpg?v=1789032976
+    Price: $39.99 USD
+  - [Y51(2010-2018) 16PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373332125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5e770ba7-e542-4272-b764-241d2dff44e0.jpg?v=1789057084
+    Price: $22.99 USD
+  - [Y51(2010-2018) 16PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373364893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0020d16a-aeb8-48d7-a0bf-1025c16a9c86.jpg?v=1789032986
+    Price: $22.99 USD
+  - [Y51(2010-2018) 16PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-fuga-y50-y51-2004-2018?variant=48868373397661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_58c36960-2f94-4288-95fc-61d9e3b1531d.jpg?v=1789032981
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit Cadillac CTS 2008-2013](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-cadillac-cts-2008-2013): Upgrade your Cadillac CTS Sedan 2008-2013 with AutoGlowLED 18-piece LED interior light kit. Bright, plug-and-play, error-free bulbs for dome, door, footwell, and more.
+  Updated: 2026-09-18T21:11:16Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_be1e9895-78a3-4bc4-bc54-5c17691bf379.jpg?v=1789065974
+  - [PURPLE](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-cadillac-cts-2008-2013?variant=48867481026717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1ff20f81-c030-46f1-b430-c544ec75f99e.jpg?v=1789032980
+    Price: $38.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-cadillac-cts-2008-2013?variant=48867481059485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e75cd815-60a3-48ee-b32a-63d158ba6c48.jpg?v=1789057085
+    Price: $38.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-cadillac-cts-2008-2013?variant=48867481092253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_958b56ce-6b4f-4721-9425-1ac9394878a7.jpg?v=1789032984
+    Price: $22.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-cadillac-cts-2008-2013?variant=48867481125021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2a3c4cf0-1dfa-48ad-9136-0844b9d3f69e.jpg?v=1789057090
+    Price: $22.99 USD
+- [Hyundai H-1 LED Interior Light Kit 16Pcs AutoGlowLED](https://autoglowled.top/products/autoglowled-16pcs-hyundai-h1-led-interior-light-kit): Upgrade your 2008-2015 Hyundai H-1 Starex i800 with AutoGlowLED 16Pcs LED interior dome, reading & trunk bulbs. Brighter, 50,000-hour life, plug-and-play.
+  Updated: 2026-09-18T21:11:18Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b4a1ef76-fc4d-4442-8818-758606df64ce.jpg?v=1789065975
+  - [WHITE](https://autoglowled.top/products/autoglowled-16pcs-hyundai-h1-led-interior-light-kit?variant=48867484500125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_107d8322-2eee-486b-8c85-ddb12472af87.jpg?v=1789033003
+    Price: $23.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-16pcs-hyundai-h1-led-interior-light-kit?variant=48867484532893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fc1098e4-0854-4967-837e-502207d1f0d1.jpg?v=1789057094
+    Price: $23.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-16pcs-hyundai-h1-led-interior-light-kit?variant=48867484565661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5ac8b733-52ce-4718-b37c-0bfa454a91f6.jpg?v=1789032994
+    Price: $39.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-16pcs-hyundai-h1-led-interior-light-kit?variant=48867484598429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fc537c2a-3429-4494-bfc6-88146e0f635a.jpg?v=1789033000
+    Price: $39.99 USD
+- [Buick Lacrosse LED Interior Light Kit 2010-2016](https://autoglowled.top/products/autoglowled-16pcs-led-interior-light-kit-buick-lacrosse-2010-2016): Upgrade your Buick Lacrosse (2010-2016) with a 16-piece AutoGlowLED interior light kit. Dome, map, vanity mirror, trunk lights included. Plug-and-play, 12V, 50,000-hour lifespan.
+  Updated: 2026-09-18T21:11:18Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_897d9589-3a17-47bc-9852-b00323126e3b.jpg?v=1789066019
+  - [Red](https://autoglowled.top/products/autoglowled-16pcs-led-interior-light-kit-buick-lacrosse-2010-2016?variant=48867490103453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ab51c541-f2c5-45fa-9688-5120de5cb890.jpg?v=1789057098
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-16pcs-led-interior-light-kit-buick-lacrosse-2010-2016?variant=48867490136221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_45b741af-6325-4e7e-8b35-41aa0e496ecf.jpg?v=1789033008
+    Price: $21.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-16pcs-led-interior-light-kit-buick-lacrosse-2010-2016?variant=48867490168989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1c914996-a79e-42ce-a04b-71ba55fbf76e.jpg?v=1789033004
+    Price: $37.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-16pcs-led-interior-light-kit-buick-lacrosse-2010-2016?variant=48867490201757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_116c59ce-4371-46d9-b08e-ef952c0209c1.jpg?v=1789032997
+    Price: $37.99 USD
+- [AutoGlowLED Canbus LED Interior Light Kit Mercedes](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz): Upgrade your Mercedes with AutoGlowLED Canbus LED interior light kit. Fits C, E, S, M, CLK models. Multiple color temps. Plug-and-play.
+  Updated: 2026-09-18T21:11:19Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ebf7b723-3eb7-4320-a90e-1ea2a54276f3.jpg?v=1789066030
+  - [C-class W202 11PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373463197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $21.99 USD
+  - [C-class W202 11PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373495965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
     Price: $19.99 USD
-  - [white](https://autoglowled.top/products/for-renault-megane-mk4-2017-2022-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703256133789)
+  - [C-class W202 11PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373528733)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
     Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-renault-megane-mk4-2017-2022-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703256199325)
+  - [C-class W202 11PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373561501)
     Availability: Available
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-renault-megane-mk4-2017-2022-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703256232093)
-    Availability: Available
-    Price: $22.99 USD
-- [For Seat Leon MK2 (2011-2018) 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-seat-leon-mk2-2011-2018-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Seat MK2 (2011-2018) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:17Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Seat_MK2__2011-2018__14PC__0PCS.jpg?v=1784898620
-  - [white](https://autoglowled.top/products/for-seat-leon-mk2-2011-2018-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703364006045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_037147e7-64ee-4722-a1e6-394897ff0c06.jpg?v=1784898671
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
     Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-seat-leon-mk2-2011-2018-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703364038813)
+  - [C-class W203 18PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373594269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_81e13b15-3fbc-44bb-ac81-70a5dbf33a8a.jpg?v=1784898654
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-seat-leon-mk2-2011-2018-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703364071581)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $29.99 USD
+  - [C-class W203 18PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373627037)
     Availability: Available
-    Price: $44.99 USD
-  - [purple](https://autoglowled.top/products/for-seat-leon-mk2-2011-2018-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703364104349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_4c092239-6855-44ba-bc19-b786d4afe94b.jpg?v=1784898657
-    Price: $44.99 USD
-- [For Seat Leon MK3 (2003-2007) 8PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-seat-leon-mk3-2003-2007-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Seat MK3 (2003-2007) 8PCS  with 8-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:19Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_d69396bc-08fc-41a0-9105-76dddf819789.jpg?v=1784898636
-  - [white](https://autoglowled.top/products/for-seat-leon-mk3-2003-2007-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703366267037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a221d864-e15e-4430-8513-534493d7cb9e.jpg?v=1784898675
-    Price: $16.99 USD
-  - [ice blue](https://autoglowled.top/products/for-seat-leon-mk3-2003-2007-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703366299805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_3b230aa4-3324-49cd-b9f3-d387b01b351a.jpg?v=1784898659
-    Price: $16.99 USD
-  - [warm white](https://autoglowled.top/products/for-seat-leon-mk3-2003-2007-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703366332573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_28995f58-6c9d-4a3a-a58b-1232f309b133.jpg?v=1784898670
-    Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-seat-leon-mk3-2003-2007-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703366365341)
-    Availability: Available
-    Price: $18.99 USD
-- [For Citroen DS4 2016-2020 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-citroen-ds4-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Citroen DS4 2016-2020 with 12-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:21Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Citroen_DS4_2016-2020_12PCS.jpg?v=1784898630
-  - [white](https://autoglowled.top/products/for-citroen-ds4-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703367610525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2eca3857-d58f-4fe0-8193-b4fa918b6451.jpg?v=1784898692
-    Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-citroen-ds4-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703367643293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_1274c2ed-4b75-45ab-86ab-93812d59fd27.jpg?v=1784898678
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-citroen-ds4-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703367676061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_49906e21-b8df-488a-86dc-eede02a0ed9f.jpg?v=1784898680
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-citroen-ds4-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703367708829)
-    Availability: Available
-    Price: $23.99 USD
-- [For Infiniti M37 M56 11-18 15PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-m37-m56-11-18-15pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti M37 M56 11-18 15PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:22Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_M37_M56_11-18_15PC__0PCS.jpg?v=1784898628
-  - [purple](https://autoglowled.top/products/for-infiniti-m37-m56-11-18-15pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703370395805)
-    Availability: Available
-    Price: $49.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-m37-m56-11-18-15pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703370428573)
-    Availability: Available
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-m37-m56-11-18-15pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703370461341)
-    Availability: Available
-    Price: $49.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-m37-m56-11-18-15pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703370494109)
-    Availability: Available
-    Price: $23.99 USD
-- [For Volkswagen CC (2009-2012) 14PCS Canbus Error Free LED Interior Light Kit Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-cc-2009-2012-14pcs-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen CC (2009-2012) 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:24Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_CC__2009-2012__14PCS__14PCS.jpg?v=1784898662
-  - [warm white](https://autoglowled.top/products/for-volkswagen-cc-2009-2012-14pcs-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703400771741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1e0f1024-62d6-4354-bdcd-ea914722dbc0.jpg?v=1784898707
-    Price: $23.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-cc-2009-2012-14pcs-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703400804509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dce54a97-f746-441d-a45a-9a7d5aac4331.jpg?v=1784898705
-    Price: $23.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-cc-2009-2012-14pcs-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703400837277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_46361bb5-4f62-4886-b756-8536aafb3743.jpg?v=1784898710
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-cc-2009-2012-14pcs-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703400870045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_4e974374-ddf0-4e6a-bfd4-1c9ebc07b65b.jpg?v=1784898703
-    Price: $24.99 USD
-- [For Mercedes-Benz B W246 2012-2018 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-b-w246-2012-2018-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz B W246 2012-2018 with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:26Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_B_W246_2012-2018_13PCS.jpg?v=1784898666
-  - [white](https://autoglowled.top/products/for-mercedes-benz-b-w246-2012-2018-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703411945629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_97ae193c-1c18-4de5-9f0d-5b76fd9cf199.jpg?v=1784898721
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-b-w246-2012-2018-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703411978397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8bf8dccb-95b0-4f6b-a8ac-0b2c5868c557.jpg?v=1784898719
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-b-w246-2012-2018-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703412011165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_56cce77c-05e1-4d37-8d30-acb22c30f0b9.jpg?v=1784898712
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-b-w246-2012-2018-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703412076701)
-    Availability: Available
-    Price: $24.99 USD
-- [For BMW E38 1994-2001 21PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e38-1994-2001-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW E38 - 21PCS  with 21-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:27Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_E38_-_21PCS__21PCS.jpg?v=1784898672
-  - [ice blue](https://autoglowled.top/products/for-bmw-e38-1994-2001-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703413223581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_880645b9-4059-4a7e-b898-6f843515dee0.jpg?v=1784898709
-    Price: $49.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-e38-1994-2001-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703413256349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_3a9cacfb-a51f-4009-a9e1-f6fcf7fdbd59.jpg?v=1784898711
-    Price: $51.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-e38-1994-2001-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703413289117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f98e3a56-104d-4956-a128-9f4c86e3dd79.jpg?v=1784898719
-    Price: $51.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e38-1994-2001-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703413321885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e3d2ea29-837f-4825-b6f1-74b8f0494c1b.jpg?v=1784898724
-    Price: $48.99 USD
-- [For BMW F12 F13 2011-2017 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-f12-f13-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW F12 F13 2011-2017 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:30Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_F12_F13_2011-2017_0PCS.jpg?v=1784898681
-  - [purple](https://autoglowled.top/products/for-bmw-f12-f13-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703427838109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f42e21ae-51ea-4ac2-8077-e4bc079ad21f.jpg?v=1784898715
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-f12-f13-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703427870877)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
     Price: $25.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-f12-f13-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703427903645)
+  - [C-class W203 18PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373659805)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $25.99 USD
+  - [C-class W203 18PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373692573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $29.99 USD
+  - [C-class W204 17PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373725341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $28.99 USD
+  - [C-class W204 17PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373758109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $25.99 USD
+  - [C-class W204 17PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373790877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $25.99 USD
+  - [C-class W204 17PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373823645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $28.99 USD
+  - [CLK-class W208 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373856413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
     Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-f12-f13-2011-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703427936413)
+  - [CLK-class W208 12PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373889181)
     Availability: Available
-    Price: $24.99 USD
-- [For Mercedes-Benz W168 (1997-2004) 9PC Canbus Error Free LED Interior Light Kit Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w168-1997-2004-9pc-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W168(1997-2004) 9PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:32Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W168_1997-2004__9PC__0PCS.jpg?v=1784898732
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w168-1997-2004-9pc-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703475187869)
-    Availability: Available
-    Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w168-1997-2004-9pc-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703475220637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1b6a28c4-5259-4dd7-a10d-4cbdd2a4bd49.jpg?v=1784898767
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w168-1997-2004-9pc-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703475253405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_aa6dadc1-a5ad-4da7-891a-ed138e06d1aa.jpg?v=1784898769
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w168-1997-2004-9pc-canbus-error-free-led-interior-light-kit-dome-map-trunk-footwell-door-autoglowled?variant=48703475286173)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
     Price: $20.99 USD
-- [For Infiniti M35 M45 06-10 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-m35-m45-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti M35 M45 06-10 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:34Z
+  - [CLK-class W208 12PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373921949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $20.99 USD
+  - [CLK-class W208 12PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373954717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $22.99 USD
+  - [CLK-class W209 14PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868373987485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $22.99 USD
+  - [CLK-class W209 14PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374020253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $22.99 USD
+  - [CLK-class W209 14PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374053021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $22.99 USD
+  - [CLK-class W209 14PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374085789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $22.99 USD
+  - [E-class W210 17PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374118557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $28.99 USD
+  - [E-class W210 17PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374151325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $25.99 USD
+  - [E-class W210 17PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374184093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $25.99 USD
+  - [E-class W210 17PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374216861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $28.99 USD
+  - [E-class W211 24PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374249629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $40.99 USD
+  - [E-class W211 24PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374282397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $36.99 USD
+  - [E-class W211 24PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374315165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $36.99 USD
+  - [E-class W211 24PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374347933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $40.99 USD
+  - [E-class W212 21PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374380701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $33.99 USD
+  - [E-class W212 21PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374413469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $30.99 USD
+  - [E-class W212 21PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374446237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $30.99 USD
+  - [E-class W212 21PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374479005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $33.99 USD
+  - [M-class W163 18PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374511773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $29.99 USD
+  - [M-class W163 18PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374544541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $25.99 USD
+  - [M-class W163 18PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374577309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $25.99 USD
+  - [M-class W163 18PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374610077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $29.99 USD
+  - [M-class W164 20PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374642845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $31.99 USD
+  - [M-class W164 20PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374675613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $28.99 USD
+  - [M-class W164 20PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374708381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $28.99 USD
+  - [M-class W164 20PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374741149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $31.99 USD
+  - [S-class W220  24PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374773917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $40.99 USD
+  - [S-class W220  24PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374806685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $36.99 USD
+  - [S-class W220  24PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374839453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $36.99 USD
+  - [S-class W220  24PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374872221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $40.99 USD
+  - [S-class W221 27PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374904989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_06d12501-b897-4326-8129-2eb75f3cf759.jpg?v=1789033000
+    Price: $41.99 USD
+  - [S-class W221 27PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374937757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7a570274-8808-4473-80e5-31b2c77c2ade.jpg?v=1789057102
+    Price: $41.99 USD
+  - [S-class W221 27PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868374970525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fbb1aedd-33d7-4def-ba5e-c7d1d346f483.jpg?v=1789033010
+    Price: $41.99 USD
+  - [S-class W221 27PCS / Warm White](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz?variant=48868375003293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fe2647e9-74a0-45ab-9475-14f38030bc16.jpg?v=1789033005
+    Price: $41.99 USD
+- [AutoGlowLED LED Interior Light Kit Toyota 4Runner 2003-2009](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-toyota-4runner-2003-2009): Upgrade your Toyota 4Runner 2003-2009 with AutoGlowLED 20pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, door, trunk, and more.
+  Updated: 2026-09-18T21:11:21Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_M35_M45_06-10_14PC__0PCS.jpg?v=1784898754
-  - [purple](https://autoglowled.top/products/for-infiniti-m35-m45-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703521063069)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_d7b16409-a5b2-4048-9e6e-3b60dd58c1de.jpg?v=1789066033
+  - [Red](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-toyota-4runner-2003-2009?variant=48867505733789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b43d821a-9660-4707-9747-d5016964a3ab.jpg?v=1784898791
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_24a683d7-2929-407c-8b72-10103a38f1dd.jpg?v=1789057111
+    Price: $42.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-toyota-4runner-2003-2009?variant=48867505766557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ba59884b-f6ae-4ef2-b65e-81336ad9bcd6.jpg?v=1789033006
+    Price: $42.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-toyota-4runner-2003-2009?variant=48867505799325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fae4a193-62ab-4f87-97cd-c78ac0156208.jpg?v=1789057106
+    Price: $41.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-toyota-4runner-2003-2009?variant=48867505832093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a8547e15-ede4-44bd-b71d-addad5543e38.jpg?v=1789033002
+    Price: $41.99 USD
+- [AutoGlowLED 21Pcs LED Kit Seat Exeo 2008-2014](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-seat-exeo-2008-2014): Buy AutoGlowLED 21Pcs LED interior light kit for Seat Exeo ST (3R, 3R2, 3R5) 2008-2014. Canbus error-free, 50,000 hr lifespan, includes tools. Plug and play.
+  Updated: 2026-09-18T21:11:23Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_c35d4f54-4d00-4b1d-ba99-7c5af2adec41.jpg?v=1789066034
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-seat-exeo-2008-2014?variant=48867511664797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4a820896-db7e-426d-992e-b7e5308eb0d1.jpg?v=1789057108
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-seat-exeo-2008-2014?variant=48867511697565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_32ed3700-8974-46d2-8f04-bc3ec601d0ec.jpg?v=1789033024
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-seat-exeo-2008-2014?variant=48867511730333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7b561f94-a34a-4aa8-95c7-730cb391dd82.jpg?v=1789033019
+    Price: $41.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-seat-exeo-2008-2014?variant=48867511763101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4e810624-3375-433b-9eee-a4f3f2688366.jpg?v=1789057114
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW X5 E53 2000-2006](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006): Upgrade your BMW X5 E53 (2000-2006) with a 22-piece AutoGlowLED LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, door, footwell, trunk, and more.
+  Updated: 2026-09-18T21:11:33Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_8c155de9-31d2-4ea4-bab6-9a84ed280124.jpg?v=1789066036
+  - [Red](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006?variant=48867521986717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_bff59ac4-eeed-4b19-9233-38c5aab5c974.jpg?v=1789057109
+    Price: $41.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006?variant=48867522019485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_98ebb944-6ba0-4bdc-9653-a5623ef172d3.jpg?v=1789033030
+    Price: $39.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006?variant=48867522052253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_525348b0-7b13-410f-9036-baef69819144.jpg?v=1789033034
+    Price: $41.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006?variant=48867522085021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_29f6581e-4eac-423e-aab1-b9756887d0ee.jpg?v=1789033025
+    Price: $42.99 USD
+- [AutoGlowLED LED Interior Light Kit Mercedes W245 2005-2011](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-mercedes-b-class-w245-2005-2011): Upgrade your Mercedes B Class W245 (2005-2011) with this 19pc AutoGlowLED LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, door, footwell, and more.
+  Updated: 2026-09-18T21:11:24Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_9515be55-26eb-4262-9073-4404e839d76d.jpg?v=1789066071
+  - [WHITE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-mercedes-b-class-w245-2005-2011?variant=48867526967453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_72944d5f-bb40-47e3-87c1-44aaf59d938c.jpg?v=1789033032
+    Price: $37.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-mercedes-b-class-w245-2005-2011?variant=48867527000221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0f1654ef-7308-44f7-a9b8-40dbd442d7a4.jpg?v=1789057116
+    Price: $37.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-mercedes-b-class-w245-2005-2011?variant=48867527032989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_da33e895-41b6-43eb-9be8-8dc9f8089b4c.jpg?v=1789033027
+    Price: $39.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-mercedes-b-class-w245-2005-2011?variant=48867527065757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bb17cd74-5950-4c67-aedf-78b2f986a9d3.jpg?v=1789057112
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit for Renault Laguna 2 2001-2007](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007): AutoGlowLED 14pc LED interior light kit for Renault Laguna 2 II MK2 (2001-2007). Dome, map, trunk, glove box lights. Bright, plug-and-play upgrade.
+  Updated: 2026-09-18T21:11:24Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5b4bcbd9-1c8a-4597-be9f-e54b801bd356.jpg?v=1789066092
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007?variant=48867538436253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_01a08df1-a5a8-4318-9ed0-b60c332af273.jpg?v=1789057127
+    Price: $23.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007?variant=48867538469021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d7b4fb98-5bd1-485a-8486-88823aa73a0f.jpg?v=1789033036
+    Price: $23.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007?variant=48867538501789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_378a30a3-a9a6-4cea-9058-2f1a8b4942e9.jpg?v=1789057122
+    Price: $21.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007?variant=48867538534557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d9e4e0e3-6597-4d26-a69f-66620a709953.jpg?v=1789033032
+    Price: $21.99 USD
+- [AutoGlowLED LED Interior Light Kit Volvo S60 II 2010-2017](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-ii-2010-2017): Upgrade your Volvo S60 II (2010-2017) with this 18-piece AutoGlowLED interior light kit. Includes lamp holders, error-free LEDs, 50,000-hour life. Plug and play.
+  Updated: 2026-09-18T21:11:26Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_0fb93c2f-9114-4a40-9d1b-fd272b11cb71.jpg?v=1789066092
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-ii-2010-2017?variant=48867542401181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_db649437-41c4-4214-8148-941f971c5621.jpg?v=1789057133
+    Price: $39.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-ii-2010-2017?variant=48867542433949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3a4f169c-4004-4126-a83d-fba61d74f650.jpg?v=1789057129
+    Price: $40.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-ii-2010-2017?variant=48867542466717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c3968369-e7a2-460e-a899-3ba06d33181c.jpg?v=1789033044
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-ii-2010-2017?variant=48867542499485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f0d3ca29-ed3a-43c2-a39b-0a821ab671f2.jpg?v=1789033040
+    Price: $43.99 USD
+- [AutoGlowLED LED Interior Light Kit for Toyota Venza 2009-2016](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-toyota-venza-2009-2016): Upgrade your Toyota Venza 2009-2016 with AutoGlowLED 15pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, door, trunk & license plate.
+  Updated: 2026-09-18T21:11:28Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_9f4ba6b2-4bd5-414b-a9ff-4857a186a922.jpg?v=1789066095
+  - [PURPLE](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-toyota-venza-2009-2016?variant=48867546235037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b7c718c3-6862-49b1-94d6-ca4cf2447c72.jpg?v=1789033052
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-toyota-venza-2009-2016?variant=48867546267805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2789dd7a-d453-4496-bf85-430255302341.jpg?v=1789033064
+    Price: $20.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-toyota-venza-2009-2016?variant=48867546300573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_169c9729-609a-4419-9be5-3bc311da85e0.jpg?v=1789033060
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-toyota-venza-2009-2016?variant=48867546333341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4e5278f0-3d18-4cc4-8742-c41aeccac3db.jpg?v=1789057136
+    Price: $20.99 USD
+- [AutoGlowLED LED Interior Light Kit Mercedes CLS](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls): Upgrade your Mercedes CLS with AutoGlowLED 23pc LED interior light kit. Plug-and-play, error-free, 50,000-hour lifespan. Fits W219, C219, W218, C218, X218.
+  Updated: 2026-09-18T21:11:28Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_dfafda04-9a8b-468f-a7dd-8316ea5d9548.jpg?v=1789066097
+  - [Shooting Brake -23PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375298205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_67cc5908-7ddb-4f61-b41c-9a0a55f2a352.jpg?v=1789033058
+    Price: $41.99 USD
+  - [Shooting Brake -23PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375330973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61334846-2f49-49bf-9070-c2566410d8b7.jpg?v=1789057136
+    Price: $39.99 USD
+  - [Shooting Brake -23PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375363741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b7ffaa41-7b05-486d-9675-907e199337dd.jpg?v=1789033066
+    Price: $39.99 USD
+  - [Shooting Brake -23PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375396509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3330280-49d6-4d4c-805d-3a8a7793f7ab.jpg?v=1789033063
+    Price: $41.99 USD
+  - [W218 C218 - 23PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375429277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_67cc5908-7ddb-4f61-b41c-9a0a55f2a352.jpg?v=1789033058
+    Price: $41.99 USD
+  - [W218 C218 - 23PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375462045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61334846-2f49-49bf-9070-c2566410d8b7.jpg?v=1789057136
+    Price: $38.99 USD
+  - [W218 C218 - 23PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375494813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b7ffaa41-7b05-486d-9675-907e199337dd.jpg?v=1789033066
+    Price: $39.99 USD
+  - [W218 C218 - 23PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375527581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3330280-49d6-4d4c-805d-3a8a7793f7ab.jpg?v=1789033063
+    Price: $41.99 USD
+  - [W219 C219 - 23PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375560349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_67cc5908-7ddb-4f61-b41c-9a0a55f2a352.jpg?v=1789033058
+    Price: $41.99 USD
+  - [W219 C219 - 23PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375593117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61334846-2f49-49bf-9070-c2566410d8b7.jpg?v=1789057136
+    Price: $39.99 USD
+  - [W219 C219 - 23PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375625885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b7ffaa41-7b05-486d-9675-907e199337dd.jpg?v=1789033066
+    Price: $39.99 USD
+  - [W219 C219 - 23PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-cls?variant=48868375658653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3330280-49d6-4d4c-805d-3a8a7793f7ab.jpg?v=1789033063
+    Price: $41.99 USD
+- [AutoGlowLED LED Interior Light Kit for Renault Scenic 2010-2016](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016): Upgrade your Renault Scenic or Grand Scenic 3 MK3 (2010-2016) with this 21-piece LED interior light kit. Bright, energy-saving, plug-and-play. Buy now with 2-year warranty.
+  Updated: 2026-09-18T21:11:29Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_605f5053-f871-439d-b906-5c5f9f5e7463.jpg?v=1789066122
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016?variant=48867556327581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c5fb7d38-2a5a-4715-8ed4-afe5b5f6f0a9.jpg?v=1789057148
+    Price: $39.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016?variant=48867556360349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c5edf606-9020-450e-98a2-e1a2e25ea9a2.jpg?v=1789033067
+    Price: $39.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016?variant=48867556393117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_9bf6ca98-6d94-44f4-a435-46ad4695d36e.jpg?v=1789057143
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016?variant=48867556425885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d5fddb23-aeda-4642-881b-8f56f0a76267.jpg?v=1789033058
+    Price: $42.99 USD
+- [LED Interior Light Kit Mercedes E-Class W211 S211 2002-2008](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008): AutoGlowLED full LED interior light kit for Mercedes Benz E-Class W211 S211 2002-2008. Bright, error-free plug-and-play bulbs. 26-28 pcs available.
+  Updated: 2026-09-18T21:11:32Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_14cfadf6-e33c-402b-b9a6-b7f7fa6af9c4.jpg?v=1789066150
+  - [S211 Estate - 28PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375789725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7094d915-74cc-4cf3-afed-2295fcd07a1b.jpg?v=1789033061
+    Price: $44.99 USD
+  - [S211 Estate - 28PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375822493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c460a611-0f8e-4f13-a1de-526d352ac6ad.jpg?v=1789057155
+    Price: $41.99 USD
+  - [S211 Estate - 28PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375855261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_86b2faa1-fb86-4c64-98b3-796ba8cb86f6.jpg?v=1789033065
+    Price: $42.99 USD
+  - [S211 Estate - 28PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375888029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a5a98812-02d2-4479-a854-5a3f87f286ce.jpg?v=1789057151
+    Price: $44.99 USD
+  - [W211 Sedan - 26PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375920797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7094d915-74cc-4cf3-afed-2295fcd07a1b.jpg?v=1789033061
+    Price: $43.99 USD
+  - [W211 Sedan - 26PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375953565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c460a611-0f8e-4f13-a1de-526d352ac6ad.jpg?v=1789057155
+    Price: $40.99 USD
+  - [W211 Sedan - 26PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868375986333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_86b2faa1-fb86-4c64-98b3-796ba8cb86f6.jpg?v=1789033065
+    Price: $40.99 USD
+  - [W211 Sedan - 26PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-e-class-w211-s211-2002-2008?variant=48868376019101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a5a98812-02d2-4479-a854-5a3f87f286ce.jpg?v=1789057151
+    Price: $42.99 USD
+- [AutoGlowLED LED Interior Light Kit Lexus RX 2009-2015 20Pcs](https://autoglowled.top/products/autoglowled-led-interior-light-kit-lexus-rx-2009-2015): Bright error-free LED interior light kit for Lexus RX 2009-2015 (RX350/RX450h). 20 bulbs, plug-and-play, 50,000-hour life. Buy now with warranty.
+  Updated: 2026-09-18T21:11:32Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_d2afb3d8-8190-44fe-8452-aeed05df06de.jpg?v=1789066153
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-lexus-rx-2009-2015?variant=48867570090141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2ae0ae1a-7255-4012-a6a2-ce6f81036ecd.jpg?v=1789057157
+    Price: $38.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-lexus-rx-2009-2015?variant=48867570122909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ba46b899-2d58-414a-83f2-4f692bd0af70.jpg?v=1789033094
+    Price: $39.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-lexus-rx-2009-2015?variant=48867570155677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_519d28d3-c8f3-4fd0-af45-44ea076bbe99.jpg?v=1789057152
+    Price: $40.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-lexus-rx-2009-2015?variant=48867570188445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_4e0d667a-ef96-4d05-996e-c11b702d9302.jpg?v=1789033089
+    Price: $40.99 USD
+- [Ford Expedition LED Interior Light Kit 1997-2017](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017): Bright LED interior light kit for Ford Expedition 1997-2017. Trunk, reading, dome, map, door, license plate lights. Plug-and-play, 50,000-hr life.
+  Updated: 2026-09-18T21:11:33Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_1bed0fd3-5945-48a7-a2f3-b05963c00e9f.jpg?v=1789066154
+  - [(1999-2002) 16PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376084637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_335c8dcf-ac24-40c9-a88e-d3385b0b44ec.jpg?v=1789033090
+    Price: $46.99 USD
+  - [(1999-2002) 16PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376117405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_471f31b2-25b5-478a-b204-b01bb2516ac2.jpg?v=1789057165
+    Price: $21.99 USD
+  - [(1999-2002) 16PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376150173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e269e2e6-8b9e-42f7-9506-ceb33e5e887b.jpg?v=1789033096
+    Price: $22.99 USD
+  - [(1999-2002) 16PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376182941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_33be4aee-c0a8-40e6-9398-0426580fc527.jpg?v=1789057159
+    Price: $46.99 USD
+  - [(2003-2006) 15PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376215709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_335c8dcf-ac24-40c9-a88e-d3385b0b44ec.jpg?v=1789033090
+    Price: $45.99 USD
+  - [(2003-2006) 15PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376248477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_471f31b2-25b5-478a-b204-b01bb2516ac2.jpg?v=1789057165
+    Price: $21.99 USD
+  - [(2003-2006) 15PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376281245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e269e2e6-8b9e-42f7-9506-ceb33e5e887b.jpg?v=1789033096
+    Price: $22.99 USD
+  - [(2003-2006) 15PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376314013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_33be4aee-c0a8-40e6-9398-0426580fc527.jpg?v=1789057159
+    Price: $45.99 USD
+  - [(2007-2017) 14PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376346781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_335c8dcf-ac24-40c9-a88e-d3385b0b44ec.jpg?v=1789033090
+    Price: $44.99 USD
+  - [(2007-2017) 14PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376379549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_471f31b2-25b5-478a-b204-b01bb2516ac2.jpg?v=1789057165
+    Price: $20.99 USD
+  - [(2007-2017) 14PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376412317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e269e2e6-8b9e-42f7-9506-ceb33e5e887b.jpg?v=1789033096
+    Price: $22.99 USD
+  - [(2007-2017) 14PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-ford-expedition-1997-2017?variant=48868376445085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_33be4aee-c0a8-40e6-9398-0426580fc527.jpg?v=1789057159
+    Price: $43.99 USD
+- [AutoGlowLED LED Interior Light Kit Audi Q5 SQ5 8R 2008-2016](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016): Upgrade your Audi Q5/SQ5 (2008-2016) with AutoGlowLED's 25pc LED interior kit. Error-free, plug-and-play bulbs. 50,000-hour life. Includes tools.
+  Updated: 2026-09-18T21:11:35Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_01fd4872-dfc2-46b5-bb97-182c8b2c97c3.jpg?v=1789066160
+  - [Red](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016?variant=48867578839197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_761db648-2243-44e4-b9ff-cef7ae6d5a31.jpg?v=1788487512
+    Price: $39.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016?variant=48867578871965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e6f1032e-b1bc-462e-834d-414036126cc5.jpg?v=1789033099
+    Price: $39.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016?variant=48867578904733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_6a30149f-285f-4d5f-86aa-6dce307acddc.jpg?v=1788487520
+    Price: $41.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016?variant=48867578937501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b283fed1-13c1-4bb8-929b-17217d8646a9.jpg?v=1789033095
+    Price: $41.99 USD
+- [LED Interior Light Kit Mercedes S-Class W140 W220 W221](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221): AutoGlowLED LED Interior Light Kit for Mercedes S-Class W140 (1992-1998), W220 (1999-2005), W221 (2006-2013). 24-27pcs, plug-and-play, 50,000-hour life.
+  Updated: 2026-09-18T21:11:35Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_7b9629c7-7768-432f-a283-9ec9a30a8192.jpg?v=1789066176
+  - [W140 - 24PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377133213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f5e1a3a0-1104-4a07-86bf-ea57ebacd8a6.jpg?v=1789033114
+    Price: $44.99 USD
+  - [W140 - 24PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377165981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b15925c3-0945-4818-9377-7aefffa144a2.jpg?v=1789057169
+    Price: $39.99 USD
+  - [W140 - 24PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377198749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b97f7761-e094-45a1-800f-7f8af592e49c.jpg?v=1789033124
+    Price: $40.99 USD
+  - [W140 - 24PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377231517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bb56b6eb-d88b-4020-8c0b-f6af551d0f4d.jpg?v=1789033120
+    Price: $43.99 USD
+  - [W220 - 24PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377264285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f5e1a3a0-1104-4a07-86bf-ea57ebacd8a6.jpg?v=1789033114
+    Price: $44.99 USD
+  - [W220 - 24PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377297053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b15925c3-0945-4818-9377-7aefffa144a2.jpg?v=1789057169
+    Price: $40.99 USD
+  - [W220 - 24PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377329821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b97f7761-e094-45a1-800f-7f8af592e49c.jpg?v=1789033124
+    Price: $39.99 USD
+  - [W220 - 24PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377362589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bb56b6eb-d88b-4020-8c0b-f6af551d0f4d.jpg?v=1789033120
+    Price: $43.99 USD
+  - [W221 - 27PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377395357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f5e1a3a0-1104-4a07-86bf-ea57ebacd8a6.jpg?v=1789033114
+    Price: $46.99 USD
+  - [W221 - 27PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377428125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b15925c3-0945-4818-9377-7aefffa144a2.jpg?v=1789057169
+    Price: $42.99 USD
+  - [W221 - 27PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377460893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b97f7761-e094-45a1-800f-7f8af592e49c.jpg?v=1789033124
+    Price: $42.99 USD
+  - [W221 - 27PCS / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w140-w220-w221?variant=48868377493661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bb56b6eb-d88b-4020-8c0b-f6af551d0f4d.jpg?v=1789033120
+    Price: $46.99 USD
+- [LED Interior Light Kit for Volvo S80 MK2 2007-2016](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-volvo-s80-mk2-2007-2016): Upgrade your Volvo S80 MK2 (2007-2016) with AutoGlowLED 17-piece LED interior light kit. Includes sockets, error-free bulbs, and easy installation.
+  Updated: 2026-09-18T21:11:36Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_f7d97ada-f345-40d7-8e5e-0d8a06b45302.jpg?v=1789066208
+  - [WHITE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-volvo-s80-mk2-2007-2016?variant=48867587817629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ec375f22-3bf3-4b1e-9531-fe81d2537e52.jpg?v=1789033126
+    Price: $40.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-volvo-s80-mk2-2007-2016?variant=48867587850397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_9b133dd5-a7d9-4bc9-b6bc-0d6694d862b1.jpg?v=1788487577
+    Price: $42.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-volvo-s80-mk2-2007-2016?variant=48867587883165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_e4036509-7205-4ae4-b388-5478a98d6010.jpg?v=1788487594
+    Price: $40.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-volvo-s80-mk2-2007-2016?variant=48867587915933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_286629a6-47d2-4beb-bf0e-ffc10c55ca79.jpg?v=1789033121
+    Price: $39.99 USD
+- [LED Interior Light Kit for Seat Alhambra 1996-2018](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra): Buy AutoGlowLED 22Pcs LED interior light kit for Seat Alhambra 1996-2018. Bright, error-free, plug-and-play bulbs with 50,000-hour lifespan. 2-year warranty.
+  Updated: 2026-09-18T21:11:37Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5bea586a-5dc2-4ac1-9499-a6f07decd776.jpg?v=1789066214
+  - [MK1 (1996-2010) 22PC / PURPLE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378411165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7e0563a4-26dd-4723-b549-9d4be46e6c94.jpg?v=1789033122
+    Price: $40.99 USD
+  - [MK1 (1996-2010) 22PC / Red](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378443933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3f3a0bda-d2c4-487a-91c3-b4e17b0384a3.jpg?v=1789057174
+    Price: $38.99 USD
+  - [MK1 (1996-2010) 22PC / WHITE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378476701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6d9da3c0-1112-4ba3-b299-9067bf0e31a3.jpg?v=1789033132
+    Price: $38.99 USD
+  - [MK1 (1996-2010) 22PC / Warm White](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378509469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ba71aebb-05d1-47bb-b67c-8d283f8f9b00.jpg?v=1789033127
+    Price: $40.99 USD
+  - [MK2 (2011-2018) 22PC / PURPLE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378542237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7e0563a4-26dd-4723-b549-9d4be46e6c94.jpg?v=1789033122
+    Price: $40.99 USD
+  - [MK2 (2011-2018) 22PC / Red](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378575005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3f3a0bda-d2c4-487a-91c3-b4e17b0384a3.jpg?v=1789057174
+    Price: $38.99 USD
+  - [MK2 (2011-2018) 22PC / WHITE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378607773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6d9da3c0-1112-4ba3-b299-9067bf0e31a3.jpg?v=1789033132
+    Price: $38.99 USD
+  - [MK2 (2011-2018) 22PC / Warm White](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra?variant=48868378640541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ba71aebb-05d1-47bb-b67c-8d283f8f9b00.jpg?v=1789033127
+    Price: $40.99 USD
+- [14Pcs LED Interior Light Kit Ford C-Max 2008-2010](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-ford-c-max-2008-2010): Brighten your Ford C-Max (2008-2010) with AutoGlowLED's 14Pcs Canbus error-free LED interior light kit. Plug & play, 50,000-hour lifespan. Order now!
+  Updated: 2026-09-18T21:11:40Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ab7b16b4-e6e6-432c-90df-c92360a6b5bf.jpg?v=1789066217
+  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-ford-c-max-2008-2010?variant=48867596435613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_53611876-2185-4b04-95f8-75888df497d3.jpg?v=1789057175
+    Price: $21.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-ford-c-max-2008-2010?variant=48867596468381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5ae53e5c-9781-476e-9e27-be5c1e8396db.jpg?v=1789033138
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-ford-c-max-2008-2010?variant=48867596501149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b22150d6-98d7-45ce-9452-73c739aea2ef.jpg?v=1789057181
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-ford-c-max-2008-2010?variant=48867596533917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0a4aeaf2-f104-45ed-9104-4709494a620e.jpg?v=1789033143
+    Price: $22.99 USD
+- [Audi Q7 LED Interior Light Kit – AutoGlowLED 20pc](https://autoglowled.top/products/audi-q7-led-interior-light-kit-autoglowled-20pc): Buy AutoGlowLED 20pc LED interior light kit for Audi Q7 4L 2006-2015. Bright, error-free, plug-and-play dome, trunk, door lights. 50,000-hour life.
+  Updated: 2026-09-18T21:11:42Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_be32ccef-0c23-4432-8760-9d7f9bc02d45.jpg?v=1789066223
+  - [PURPLE](https://autoglowled.top/products/audi-q7-led-interior-light-kit-autoglowled-20pc?variant=48867603382429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0628d39c-f528-4301-aaff-e66eb777b43d.jpg?v=1789033144
+    Price: $42.99 USD
+  - [YELLOW](https://autoglowled.top/products/audi-q7-led-interior-light-kit-autoglowled-20pc?variant=48867603415197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ca30d949-d58b-4588-8369-284a7bdbae68.jpg?v=1789057182
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/audi-q7-led-interior-light-kit-autoglowled-20pc?variant=48867603447965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4ac2dedf-539a-4fd7-8b4c-927f49b8bba0.jpg?v=1789033149
+    Price: $39.99 USD
+  - [Red](https://autoglowled.top/products/audi-q7-led-interior-light-kit-autoglowled-20pc?variant=48867603480733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5c660ca5-8acb-48af-b4ee-30e412ea7c87.jpg?v=1789057187
+    Price: $39.99 USD
+- [BMW 7 Series LED Interior Light Kit | AutoGlowLED 1995-2015](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02): Upgrade your BMW 7 Series (E38/E65/E66/F01/F02, 1995-2015) with AutoGlowLED complete LED interior light kit. Bright, error-free, plug-and-play. Order now!
+  Updated: 2026-09-18T21:11:40Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_a4a4aa9d-b0cb-46bb-a6f3-69cab4e81cbd.jpg?v=1789066232
+  - [E38 - 21PCS / PURPLE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379426973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2b7d254d-157b-4605-9640-612bd4148aac.jpg?v=1789033163
+    Price: $39.99 USD
+  - [E38 - 21PCS / Red](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379459741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_d8557225-a37b-4575-807a-472db73a6165.jpg?v=1788487649
+    Price: $38.99 USD
+  - [E38 - 21PCS / WHITE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379492509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d12c3d31-384e-458e-9f5e-fc0cc109c400.jpg?v=1789033174
+    Price: $38.99 USD
+  - [E38 - 21PCS / Warm White](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379525277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3649f89-2808-4ee8-9934-1c2a06aba860.jpg?v=1789033169
+    Price: $40.99 USD
+  - [E65 E66 - 24PCS / PURPLE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379558045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2b7d254d-157b-4605-9640-612bd4148aac.jpg?v=1789033163
+    Price: $42.99 USD
+  - [E65 E66 - 24PCS / Red](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379590813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_d8557225-a37b-4575-807a-472db73a6165.jpg?v=1788487649
+    Price: $39.99 USD
+  - [E65 E66 - 24PCS / WHITE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379623581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d12c3d31-384e-458e-9f5e-fc0cc109c400.jpg?v=1789033174
+    Price: $40.99 USD
+  - [E65 E66 - 24PCS / Warm White](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379656349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3649f89-2808-4ee8-9934-1c2a06aba860.jpg?v=1789033169
+    Price: $41.99 USD
+  - [F01 F02 - 25PCS / PURPLE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379689117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2b7d254d-157b-4605-9640-612bd4148aac.jpg?v=1789033163
+    Price: $41.99 USD
+  - [F01 F02 - 25PCS / Red](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379721885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_d8557225-a37b-4575-807a-472db73a6165.jpg?v=1788487649
+    Price: $39.99 USD
+  - [F01 F02 - 25PCS / WHITE](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379754653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d12c3d31-384e-458e-9f5e-fc0cc109c400.jpg?v=1789033174
+    Price: $39.99 USD
+  - [F01 F02 - 25PCS / Warm White](https://autoglowled.top/products/autoglowled-bmw-7-series-led-interior-light-kit-e38-e65-e66-f01-f02?variant=48868379787421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3649f89-2808-4ee8-9934-1c2a06aba860.jpg?v=1789033169
+    Price: $41.99 USD
+- [AutoGlowLED LED Interior Light Kit for Chevy Tracker 2016-2020](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020): Upgrade your Chevy Tracker 2016-2020 with AutoGlowLED 13pc Canbus LED interior light kit – dome, map, trunk, license plate. Error-free, plug-and-play, 50,000-hr life.
+  Updated: 2026-09-18T21:11:40Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e9ab183f-fb41-401c-946c-cd891b0dbd80.jpg?v=1789066263
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020?variant=48867610919069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_eddb61ee-3f3c-452f-b7b5-b21f3b5e6974.jpg?v=1789033170
+    Price: $20.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020?variant=48867610951837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a4658770-eee5-4bc8-87de-a1df3d338b6c.jpg?v=1789033175
+    Price: $18.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020?variant=48867610984605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8f652106-ebfc-486e-be7c-750dc4125208.jpg?v=1789057193
+    Price: $20.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020?variant=48867611017373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_103f6dfc-e52a-4e63-ad6c-9786f14a09b3.jpg?v=1789057197
+    Price: $17.99 USD
+- [LED Interior Light Kit for Land Rover Freelander 2 2007-2015](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-land-rover-freelander-2-lr2-2007-2015): Bright, error-free 15pc LED interior light kit for Land Rover Freelander 2 LR2 (2007-2015). Includes dome, map, door, trunk, footwell lights. Plug-and-play.
+  Updated: 2026-09-18T21:11:42Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b91916b8-c4b5-48b9-b5a1-4bfe1b947e8a.jpg?v=1789066273
+  - [PURPLE](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-land-rover-freelander-2-lr2-2007-2015?variant=48867614064797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6ca21e3c-39f0-453f-8e16-ce5bddc461d1.jpg?v=1789033172
+    Price: $22.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-land-rover-freelander-2-lr2-2007-2015?variant=48867614097565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4ac855a3-041d-4733-8774-3f5db3a89d2d.jpg?v=1789057201
+    Price: $20.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-land-rover-freelander-2-lr2-2007-2015?variant=48867614130333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1631ad78-91af-42c7-bb4d-c9f52d189f99.jpg?v=1789057197
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-15pcs-led-interior-light-kit-land-rover-freelander-2-lr2-2007-2015?variant=48867614163101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_91f664c0-5725-497b-b100-fc05ea8beb19.jpg?v=1789033177
+    Price: $20.99 USD
+- [AutoGlowLED LED Interior Light Kit for VW Golf 6 GTI 2009-2013](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-vw-golf-6-mk6-gti-2009-2013): Brighten your VW Golf 6 MK6 GTI (2009-2013) with AutoGlowLED 14pc LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan. Color options included.
+  Updated: 2026-09-18T21:11:43Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_3d67a0be-06b8-48bb-99ba-22d5cad33aeb.jpg?v=1789066276
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-vw-golf-6-mk6-gti-2009-2013?variant=48867617374365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_016deadc-23ab-4a88-8586-2f547b521d0d.jpg?v=1789057204
+    Price: $18.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-vw-golf-6-mk6-gti-2009-2013?variant=48867617407133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_7e3f47fe-d3b1-47e4-8ca7-17588aa08560.jpg?v=1789057200
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-vw-golf-6-mk6-gti-2009-2013?variant=48867617439901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_10fa9ea8-e849-435a-9e86-ce1310e2b76c.jpg?v=1789033182
+    Price: $18.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-vw-golf-6-mk6-gti-2009-2013?variant=48867617472669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_84df54ca-7abb-4b79-8f9a-27558cf6fbeb.jpg?v=1789033177
+    Price: $21.99 USD
+- [LED Interior Light Kit Jeep Compass 2018-2026 AutoGlowLED](https://autoglowled.top/products/led-interior-light-kit-jeep-compass-2018-2026-autoglowled): Upgrade your Jeep Compass 2018-2026 with AutoGlowLED 14Pcs LED interior light kit. Bright, plug-and-play bulbs for dome, map, trunk, and more. 2-year warranty.
+  Updated: 2026-09-18T21:11:44Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_87203fb7-da90-4465-b5b4-51e88838913f.jpg?v=1789066282
+  - [PURPLE](https://autoglowled.top/products/led-interior-light-kit-jeep-compass-2018-2026-autoglowled?variant=48867624255645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_326c5e08-aee0-40bc-ba86-ef2075736a93.jpg?v=1789033183
+    Price: $20.99 USD
+  - [YELLOW](https://autoglowled.top/products/led-interior-light-kit-jeep-compass-2018-2026-autoglowled?variant=48867624288413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_26cfbc1a-a6c7-4a0d-8990-ca7ab6572a45.jpg?v=1789057203
+    Price: $20.99 USD
+  - [WHITE](https://autoglowled.top/products/led-interior-light-kit-jeep-compass-2018-2026-autoglowled?variant=48867624321181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0bbe9bbb-7303-4a4c-93f4-0669aa664a11.jpg?v=1789033188
+    Price: $19.99 USD
+  - [Red](https://autoglowled.top/products/led-interior-light-kit-jeep-compass-2018-2026-autoglowled?variant=48867624353949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_dbe5b2f9-813a-4baa-b280-a825bc075f5e.jpg?v=1789057207
+    Price: $19.99 USD
+- [BMW E93 LED Interior Light Kit 20-Pc by AutoGlowLED](https://autoglowled.top/products/autoglowled-20-pc-led-interior-light-kit-bmw-3-series-e93-2006-2013): Upgrade your BMW 3 Series E93 (2006-2013) with this 20-pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, footwell, door, and more. Free installation tools included.
+  Updated: 2026-09-18T21:11:45Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_2c09646d-37fb-437f-b79d-a38db50b20a7.jpg?v=1789066289
+  - [WHITE](https://autoglowled.top/products/autoglowled-20-pc-led-interior-light-kit-bmw-3-series-e93-2006-2013?variant=48867627401373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8277afa2-e84d-4c95-b8db-65901a10fe02.jpg?v=1789033197
+    Price: $34.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-20-pc-led-interior-light-kit-bmw-3-series-e93-2006-2013?variant=48867627434141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c32e7a99-1491-4f69-8fb1-0de171e04223.jpg?v=1789057205
+    Price: $36.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-20-pc-led-interior-light-kit-bmw-3-series-e93-2006-2013?variant=48867627466909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9d080e16-8ae8-4391-a4db-b441903e2253.jpg?v=1789057209
+    Price: $34.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-20-pc-led-interior-light-kit-bmw-3-series-e93-2006-2013?variant=48867627499677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_745a8725-c8a1-44cc-81b9-dd0c92ce488e.jpg?v=1789033192
+    Price: $36.99 USD
+- [AutoGlowLED LED Interior Light Kit Chrysler 200 2015-2017](https://autoglowled.top/products/autoglowled-14pcs-canbus-led-interior-light-kit-chrysler-200-2015-2017): Upgrade your Chrysler 200 (2015-2017) with a 14-piece Canbus LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan. Shop AutoGlowLED now.
+  Updated: 2026-09-18T21:11:48Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_879f272d-94b0-4199-998b-6b9c00687578.jpg?v=1789066316
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-canbus-led-interior-light-kit-chrysler-200-2015-2017?variant=48867632414877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_37e61c91-16e5-4836-ae8a-59fe2677b29d.jpg?v=1789057215
+    Price: $19.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-canbus-led-interior-light-kit-chrysler-200-2015-2017?variant=48867632447645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3660756a-f0ad-468d-a055-24b40f992642.jpg?v=1789033205
+    Price: $19.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-14pcs-canbus-led-interior-light-kit-chrysler-200-2015-2017?variant=48867632480413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e9ef8d5e-ca71-4c7b-afb5-9d63a0f9c1a9.jpg?v=1789033200
+    Price: $21.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-canbus-led-interior-light-kit-chrysler-200-2015-2017?variant=48867632513181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_de858087-7382-4c96-9c4b-77d21ed1c316.jpg?v=1789033196
+    Price: $21.99 USD
+- [AutoGlowLED LED Interior Light Kit Subaru Legacy 2010-2020](https://autoglowled.top/products/autoglowled-14pc-led-interior-light-kit-subaru-legacy-2010-2020): Upgrade your Subaru Legacy 2010-2020 with AutoGlowLED 14pc LED kit. Dome, vanity, trunk, door, license plate bulbs. Error-free, plug-and-play, 50,000-hour life.
+  Updated: 2026-09-18T21:11:53Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ea3ef7c4-5fd3-40c1-a0f3-5d0e17597837.jpg?v=1789066332
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pc-led-interior-light-kit-subaru-legacy-2010-2020?variant=48867638280349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f391fd85-7737-4318-9a11-47d12bbaadda.jpg?v=1789033208
+    Price: $19.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-14pc-led-interior-light-kit-subaru-legacy-2010-2020?variant=48867638313117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e6af39e5-c7a5-4a3f-8d14-9b96081ff4f8.jpg?v=1789033203
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-14pc-led-interior-light-kit-subaru-legacy-2010-2020?variant=48867638345885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_f2135d86-1501-49c4-8aec-388217b979f3.jpg?v=1788487745
+    Price: $19.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pc-led-interior-light-kit-subaru-legacy-2010-2020?variant=48867638378653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1f254897-a92d-447e-809c-95b44e9df396.jpg?v=1789033199
+    Price: $21.99 USD
+- [LED Interior Light Kit for Infiniti QX70 2013-2017](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017): Upgrade your Infiniti QX70 2013-2017 with AutoGlowLED 20pc full LED interior light kit. Dome, map, foot, door, trunk, and license plate bulbs. Plug & play.
+  Updated: 2026-09-18T21:11:49Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ef91e40a-7797-45e2-a34f-0ec5a0e64730.jpg?v=1789066334
+  - [WHITE](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017?variant=48867641065629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a2bcfbcc-cea2-4711-ae00-37ba5d8f5d33.jpg?v=1789033215
+    Price: $38.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017?variant=48867641098397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5e33711f-b744-4391-915e-09219b8fa68f.jpg?v=1789033211
+    Price: $39.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017?variant=48867641131165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a58baa83-7d81-4f78-a0dd-c72cc5cb3aa8.jpg?v=1789057223
+    Price: $36.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017?variant=48867641163933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_4a0bbeb8-c968-445a-a91d-e60f7216b3f7.jpg?v=1789033207
+    Price: $39.99 USD
+- [LED Interior Light Kit for Mercedes Viano W639 2003-2015](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015): Upgrade your Mercedes-Benz Viano W639 (2003-2015) with an AutoGlowLED full LED interior light kit. Error-free, plug-and-play, includes 19-25 bulbs. Bright, long-lasting.
+  Updated: 2026-09-18T21:11:50Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_692e7f5c-f183-41ef-8e63-133121979bd7.jpg?v=1789066344
+  - [(2003-2010) - 19PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380082333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c912df2d-5bf1-4754-bd5e-47f23c4d48e5.jpg?v=1789033213
+    Price: $40.99 USD
+  - [(2003-2010) - 19PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380115101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_421dae4b-f590-47fc-869c-e7dda8f0706d.jpg?v=1789057230
+    Price: $39.99 USD
+  - [(2003-2010) - 19PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380147869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_22715db5-4c81-486d-b194-3aaad2c95f95.jpg?v=1789033218
+    Price: $38.99 USD
+  - [(2003-2010) - 19PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380180637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f4320552-4bb1-4af3-a9ea-28e7633db98b.jpg?v=1789057225
+    Price: $41.99 USD
+  - [(2011-2015) - 25PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380213405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c912df2d-5bf1-4754-bd5e-47f23c4d48e5.jpg?v=1789033213
+    Price: $40.99 USD
+  - [(2011-2015) - 25PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380246173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_421dae4b-f590-47fc-869c-e7dda8f0706d.jpg?v=1789057230
+    Price: $42.99 USD
+  - [(2011-2015) - 25PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380278941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_22715db5-4c81-486d-b194-3aaad2c95f95.jpg?v=1789033218
+    Price: $42.99 USD
+  - [(2011-2015) - 25PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-viano-w639-2003-2015?variant=48868380311709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f4320552-4bb1-4af3-a9ea-28e7633db98b.jpg?v=1789057225
+    Price: $40.99 USD
+- [AutoGlowLED 22Pcs LED Interior Light Kit BMW E61 2004-2010](https://autoglowled.top/products/autoglowled-22pcs-canbus-led-interior-light-kit-bmw-5-series-e61-2004-2010): Upgrade your BMW 5 Series E61 (2004-2010) with AutoGlowLED 22Pcs Canbus LED interior light kit – error-free, plug-and-play, 50,000-hour lifespan. Shop now.
+  Updated: 2026-09-18T21:11:51Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_45b11226-757d-452b-bee1-bae0310c7502.jpg?v=1789066347
+  - [WHITE](https://autoglowled.top/products/autoglowled-22pcs-canbus-led-interior-light-kit-bmw-5-series-e61-2004-2010?variant=48867650207901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8c626f88-5db2-4a13-9730-507d1c557279.jpg?v=1789033229
+    Price: $41.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-22pcs-canbus-led-interior-light-kit-bmw-5-series-e61-2004-2010?variant=48867650240669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_7d4d1056-5c61-4c53-a81e-dc9037c31a9c.jpg?v=1788487799
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-22pcs-canbus-led-interior-light-kit-bmw-5-series-e61-2004-2010?variant=48867650273437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_82f489a0-276e-4f82-8ad7-93ca83d9ee6f.jpg?v=1789033224
+    Price: $39.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-22pcs-canbus-led-interior-light-kit-bmw-5-series-e61-2004-2010?variant=48867650306205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_7d943a00-b1c1-4da9-811c-b106aca9397b.jpg?v=1788487807
+    Price: $41.99 USD
+- [BMW X3 F25 LED Interior Light Kit 21Pcs AutoGlowLED](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-x3-f25-2011-2017): Upgrade your BMW X3 F25 (2011-2017) with the AutoGlowLED 21pc LED interior light kit. Bright, error-free, plug-and-play bulbs for map, dome, footwell, and more.
+  Updated: 2026-09-18T21:11:58Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_4fd91702-512b-4d21-a59c-a72b35d26cd4.jpg?v=1789066376
+  - [YELLOW](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-x3-f25-2011-2017?variant=48867664527517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3726dbdd-e09b-494c-8333-a2a3905bbae7.jpg?v=1789057228
+    Price: $40.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-x3-f25-2011-2017?variant=48867664560285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_66c457f0-fbd1-4374-a0d4-32ee07a01cc9.jpg?v=1789033233
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-x3-f25-2011-2017?variant=48867664593053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f46bbf8f-323c-4fc0-83f3-f1db8fd8a576.jpg?v=1789033228
+    Price: $40.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-bmw-x3-f25-2011-2017?variant=48867664625821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1f401ec2-4cd3-4c2f-ad5a-227b63f2317d.jpg?v=1789057232
+    Price: $42.99 USD
+- [AutoGlowLED LED Interior Light Kit Mercedes S-Class W220](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220): Upgrade your Mercedes-Benz S-Class W220 (1999-2005) with AutoGlowLED 23pc LED interior light kit. Bright, error-free, plug-and-play bulbs. Shop now!
+  Updated: 2026-09-18T21:11:54Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_d22a4aed-c9d8-40be-b7c8-a19e7abc3ad7.jpg?v=1789066392
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220?variant=48867673309341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1c395528-135d-47e1-96e5-e3475885d034.jpg?v=1789033237
+    Price: $40.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220?variant=48867673342109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4b405d3f-cb9b-4783-b526-c93344a82885.jpg?v=1789057229
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220?variant=48867673374877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f0080bcf-15b0-4c92-8ff1-6d34ed221ed5.jpg?v=1789033231
+    Price: $42.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220?variant=48867673407645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_752f0857-47f4-44c5-a60f-747eacdf0c34.jpg?v=1789057233
+    Price: $40.99 USD
+- [13Pcs LED Interior Light Kit for VW Sharan 7N 2011-2020](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020): Upgrade your VW Sharan 7N (2011-2020) with AutoGlowLED 13Pcs LED interior kit – bright, error-free, easy plug-and-play installation. 50,000-hour lifespan.
+  Updated: 2026-09-18T21:11:58Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ec931701-206b-4aca-9e63-3b9d86270487.jpg?v=1789066393
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020?variant=48867677241501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c8560bcc-fe8f-4357-8c2c-fbe30e0102b5.jpg?v=1789033237
+    Price: $22.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020?variant=48867677274269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_d7e36530-dded-4660-bf7b-9df37e24ff30.jpg?v=1789033242
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020?variant=48867677307037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_cf0a5194-6818-4734-b4b5-b7960c09c0fc.jpg?v=1789033247
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020?variant=48867677339805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_2f6f1ec9-a210-437b-a96b-a7d7e69d69e8.jpg?v=1788487809
+    Price: $21.99 USD
+- [LED Interior Light Kit for Ford Escape 2001-2007](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-ford-escape-2001-2007): Upgrade your 2001-2007 Ford Escape with AutoGlowLED's 13-piece LED interior kit. Bright dome, map, trunk lights – plug-and-play, long-lasting.
+  Updated: 2026-09-18T21:11:56Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_d1d1b85f-1ef4-420c-b8c3-9e47d2a20e3c.jpg?v=1789066403
+  - [Red](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-ford-escape-2001-2007?variant=48867680616605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_775e58c6-8e6d-47ad-ae6e-c9b250e47b2e.jpg?v=1789057238
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-ford-escape-2001-2007?variant=48867680649373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_de6b9b0d-c2d1-4bee-a38c-7405fb46f997.jpg?v=1789033250
+    Price: $21.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-ford-escape-2001-2007?variant=48867680682141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_94f4965d-8e42-4c88-8d1b-b5dde83e333a.jpg?v=1789057235
+    Price: $22.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-ford-escape-2001-2007?variant=48867680714909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6b4371a3-8884-45e7-b5cc-43e464efc3b6.jpg?v=1789033245
+    Price: $23.99 USD
+- [BMW E91 LED Interior Light Kit – AutoGlowLED 19pc Canbus](https://autoglowled.top/products/autoglowled-19pc-canbus-led-interior-light-kit-bmw-e91-touring-2005-2012): Upgrade your BMW 3 Series E91 Touring 2005-2012 with AutoGlowLED 19pc Canbus LED interior kit. Error-free, plug-and-play, 50,000-hour lifespan. Shop now.
+  Updated: 2026-09-18T21:11:57Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e3947346-ec2f-4f6f-913e-47ded84406a9.jpg?v=1789066405
+  - [Red](https://autoglowled.top/products/autoglowled-19pc-canbus-led-interior-light-kit-bmw-e91-touring-2005-2012?variant=48867683926173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_246c510c-d254-43f5-ae36-d894540b8c31.jpg?v=1789057237
+    Price: $38.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-19pc-canbus-led-interior-light-kit-bmw-e91-touring-2005-2012?variant=48867683958941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c9024f86-ba6f-416f-a534-a339647d8678.jpg?v=1789033248
+    Price: $39.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-19pc-canbus-led-interior-light-kit-bmw-e91-touring-2005-2012?variant=48867683991709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fb46d08b-45ba-42a5-8ea1-af1380a116b1.jpg?v=1789033252
+    Price: $39.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-19pc-canbus-led-interior-light-kit-bmw-e91-touring-2005-2012?variant=48867684024477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_36d8c721-b3d3-44b5-a467-73e2a9242044.jpg?v=1789033257
+    Price: $38.99 USD
+- [LED Interior Light Kit Ford EcoSport 2013-2025 | AutoGlowLED](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-ecosport-2013-2025): Upgrade your Ford EcoSport (2013-2025) with a 13pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk, and more.
+  Updated: 2026-09-18T21:11:59Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5af2163c-d56e-4b3d-8497-c377596ca1fc.jpg?v=1789066427
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-ecosport-2013-2025?variant=48867687301277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6b773bbf-7470-41cb-a5af-ea49acecc707.jpg?v=1789033250
+    Price: $20.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-ecosport-2013-2025?variant=48867687334045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_6c5b75e9-211a-485e-b2d8-855d2a21e81c.jpg?v=1789033255
+    Price: $20.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-ecosport-2013-2025?variant=48867687366813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f209016b-1c3e-4874-a47f-17af633adfdd.jpg?v=1789033260
+    Price: $18.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-ecosport-2013-2025?variant=48867687399581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_502a10f3-03a7-479b-9c87-76253a1b924f.jpg?v=1789057251
+    Price: $18.99 USD
+- [AutoGlowLED LED Interior Light Kit Astra J 2010-2015](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-vauxhall-opel-astra-j-2010-2015): Upgrade your Vauxhall Opel Astra J 2010-2015 with AutoGlowLED 13pc LED interior kit. Dome, reading, sun visor, trunk & more. Plug-and-play, error-free.
+  Updated: 2026-09-18T21:12:01Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_de851dde-a7cb-4a8d-a583-c970c57b4f46.jpg?v=1789066451
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-vauxhall-opel-astra-j-2010-2015?variant=48867691135133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_41467374-22e1-477c-bceb-157e946bc6de.jpg?v=1789033253
+    Price: $22.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-vauxhall-opel-astra-j-2010-2015?variant=48867691167901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5eebdf6d-66f9-4cfa-b499-2c99db1e5e1e.jpg?v=1789033258
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-vauxhall-opel-astra-j-2010-2015?variant=48867691200669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d933e721-c602-485d-a0fb-183ddd239a00.jpg?v=1789033263
+    Price: $19.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pc-led-interior-light-kit-vauxhall-opel-astra-j-2010-2015?variant=48867691233437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_10349151-0c80-40ce-9ddf-0c2fd1a68a6e.jpg?v=1789057252
+    Price: $19.99 USD
+- [AutoGlowLED LED Interior Light Kit for VW T6 2016-2020](https://autoglowled.top/products/autoglowled-led-interior-light-kit-vw-t6-2016-2020): Upgrade your VW T6 Multivan with AutoGlowLED 19pc LED interior light kit. Plug-and-play, 50000-hr lifespan, error-free. Bright, easy install.
+  Updated: 2026-09-18T21:12:01Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_f562a07c-fbb1-40c2-b243-4c4c7c7709e2.jpg?v=1789066453
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-vw-t6-2016-2020?variant=48867696115869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bc984704-dbe2-4170-a3bc-b113f8ec8553.jpg?v=1789033265
+    Price: $38.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-vw-t6-2016-2020?variant=48867696148637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a6aab39b-eb9d-4eae-a318-04202beee656.jpg?v=1789057257
+    Price: $36.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-vw-t6-2016-2020?variant=48867696181405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_46764ddf-48da-4b15-8b0a-ac06e9bdceb6.jpg?v=1789033269
+    Price: $36.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-vw-t6-2016-2020?variant=48867696214173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1a94cc62-d7d2-45ce-bfb2-d752d5734bbe.jpg?v=1789057252
+    Price: $38.99 USD
+- [AutoGlowLED 22Pcs LED Interior Light Kit P38](https://autoglowled.top/products/autoglowed-22pcs-led-interior-light-kit-land-rover-range-rover-p38-1995-2001): Buy AutoGlowLED 22Pcs LED interior light kit for Land Rover Range Rover P38 1995-2001. Error-free, plug-and-play, 50,000-hour lifespan. Red, white, yellow, purple.
+  Updated: 2026-09-18T21:12:04Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ac1c24f3-fd1b-4859-95a7-33aaa491acc9.jpg?v=1789066465
+  - [Red](https://autoglowled.top/products/autoglowed-22pcs-led-interior-light-kit-land-rover-range-rover-p38-1995-2001?variant=48867701948573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_98aa25a4-96e6-4463-807d-e7c2f3368d5f.jpg?v=1789057259
+    Price: $40.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowed-22pcs-led-interior-light-kit-land-rover-range-rover-p38-1995-2001?variant=48867701981341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_428241c0-1d3f-4ad2-b2cc-53de9b02aac6.jpg?v=1789033271
+    Price: $40.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowed-22pcs-led-interior-light-kit-land-rover-range-rover-p38-1995-2001?variant=48867702014109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_43693a2d-3075-45b9-942a-15b390a4430f.jpg?v=1789057256
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowed-22pcs-led-interior-light-kit-land-rover-range-rover-p38-1995-2001?variant=48867702046877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_43ffb40c-59d8-44fa-800a-4a3e33d8dfcb.jpg?v=1789033266
+    Price: $39.99 USD
+- [LED Interior Light Kit Infiniti G25 G35 G37 2003-2013](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013): Buy AutoGlowLED LED interior light kit for Infiniti G25 G35 G37 sedan coupe 2003-2013. Includes dome, door, license plate bulbs. Error-free, plug-and-play, 50,000-hr life.
+  Updated: 2026-09-18T21:12:02Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_6d2d41f7-ff54-4c09-b256-ca84e1dc9eef.jpg?v=1789066465
+  - [(2003-2006) 13PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380377245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1b99daaa-aeb2-48ed-9052-77f9c5d73fa6.jpg?v=1789033280
+    Price: $20.99 USD
+  - [(2003-2006) 13PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380410013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5921088e-3897-4b6f-b9a2-4959731aa910.jpg?v=1789057261
+    Price: $18.99 USD
+  - [(2003-2006) 13PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380442781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2751fcac-91aa-4950-9ce4-ad7e7c5a8912.jpg?v=1789033285
+    Price: $18.99 USD
+  - [(2003-2006) 13PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380475549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dc639860-ca36-40e9-bde4-a2ebc52c77ab.jpg?v=1789057257
+    Price: $20.99 USD
+  - [(2007-2013) 14PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380508317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1b99daaa-aeb2-48ed-9052-77f9c5d73fa6.jpg?v=1789033280
+    Price: $21.99 USD
+  - [(2007-2013) 14PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380541085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5921088e-3897-4b6f-b9a2-4959731aa910.jpg?v=1789057261
+    Price: $19.99 USD
+  - [(2007-2013) 14PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380573853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2751fcac-91aa-4950-9ce4-ad7e7c5a8912.jpg?v=1789033285
+    Price: $19.99 USD
+  - [(2007-2013) 14PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-infiniti-g25-g35-g37-2003-2013?variant=48868380606621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dc639860-ca36-40e9-bde4-a2ebc52c77ab.jpg?v=1789057257
+    Price: $21.99 USD
+- [AutoGlowLED LED Interior Light Kit for Volvo S60 2000-2017](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017): Bright, error-free LED interior light kit for Volvo S60 I (2000-2009) and S60 II (2010-2017). Plug-and-play, 50,000-hour lifespan, 6000K or 8000K options. AutoGlowLED quality.
+  Updated: 2026-09-18T21:12:04Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_3999905b-dace-42d3-808d-d11682ab0113.jpg?v=1789066481
+  - [MK1 (2000-2009) 16PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380639389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dd5c9bfa-3302-4034-9e70-f6415740d8c9.jpg?v=1789033283
+    Price: $40.99 USD
+  - [MK1 (2000-2009) 16PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380672157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_055dd99f-4d94-4700-9f06-29d60c44dec8.jpg?v=1789057263
+    Price: $18.99 USD
+  - [MK1 (2000-2009) 16PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380704925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_789ff5c4-5394-4e12-8981-fb8a5a5d4544.jpg?v=1789033291
+    Price: $18.99 USD
+  - [MK1 (2000-2009) 16PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380737693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4f567ba2-c974-4b91-bc35-749cdd355ff8.jpg?v=1789033287
+    Price: $40.99 USD
+  - [MK2 (2010-2017) 18PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380770461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dd5c9bfa-3302-4034-9e70-f6415740d8c9.jpg?v=1789033283
+    Price: $43.99 USD
+  - [MK2 (2010-2017) 18PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380803229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_055dd99f-4d94-4700-9f06-29d60c44dec8.jpg?v=1789057263
+    Price: $41.99 USD
+  - [MK2 (2010-2017) 18PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380835997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_789ff5c4-5394-4e12-8981-fb8a5a5d4544.jpg?v=1789033291
+    Price: $41.99 USD
+  - [MK2 (2010-2017) 18PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-volvo-s60-2000-2017?variant=48868380868765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4f567ba2-c974-4b91-bc35-749cdd355ff8.jpg?v=1789033287
+    Price: $43.99 USD
+- [AutoGlowLED 22Pcs LED Interior Light Kit Peugeot 5008 2009-2016](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-5008): Upgrade your Peugeot 5008 I MK1 (2009-2016) with AutoGlowLED 22-piece interior LED kit. These canbus error-free bulbs bring bright, long-lasting light to dome, door, and more.
+  Updated: 2026-09-18T21:12:08Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_bc487637-293e-43a3-b0de-20e77edc73db.jpg?v=1789066507
+  - [WHITE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-5008?variant=48867713482909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d9f73241-5c2b-4a9c-9cb8-0ed9cef20fb0.jpg?v=1789033299
+    Price: $39.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-5008?variant=48867713515677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ec24de54-86a0-446d-8a06-d418aca95a70.jpg?v=1789033294
+    Price: $41.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-5008?variant=48867713548445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f59460ed-3794-40c0-b855-106c922d267f.jpg?v=1789033287
+    Price: $41.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-5008?variant=48867713581213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_32bb4a25-e713-4f66-bc6b-b6a13e7f6906.jpg?v=1789057264
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit Toyota Corolla Verso 2004-2009](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-toyota-corolla-verso-2004-2009): Upgrade your Toyota Corolla Verso 2004-2009 with this 14-piece AutoGlowLED interior LED kit. Bright, plug-and-play bulbs with long life. Get yours now.
+  Updated: 2026-09-18T21:12:07Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b167099d-54ea-4510-9f2e-d042859f94fc.jpg?v=1789066511
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-toyota-corolla-verso-2004-2009?variant=48867718135965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_72bfa76e-f210-41dc-a3f9-6171f84db9a0.jpg?v=1789033292
+    Price: $17.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-toyota-corolla-verso-2004-2009?variant=48867718168733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_6aea7ac7-80a0-4b99-b728-51f95584078e.jpg?v=1788487945
+    Price: $43.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-toyota-corolla-verso-2004-2009?variant=48867718201501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d5b0223d-e813-4303-ac4f-96cf536981d9.jpg?v=1789033288
+    Price: $43.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-for-toyota-corolla-verso-2004-2009?variant=48867718234269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_a12b7dcb-399d-4e18-8473-6d9fdcbc291a.jpg?v=1788487957
+    Price: $17.99 USD
+- [Mercedes E Class W211 LED Interior Light Kit – 24 Pcs](https://autoglowled.top/products/autoglowled-24pcs-led-interior-light-kit-mercedes-e-class-w211-sedan-2002-2008): AutoGlowLED 24-piece LED interior dome, map, door, footwell kit for Mercedes E Class W211 Sedan 2002-2008. Plug-and-play, error-free, bright upgrade.
+  Updated: 2026-09-18T21:12:06Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_4777c429-9bac-404e-abfb-855ed325bac6.jpg?v=1789066524
+  - [Red](https://autoglowled.top/products/autoglowled-24pcs-led-interior-light-kit-mercedes-e-class-w211-sedan-2002-2008?variant=48867722068125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_2ee0e5ff-d470-4e6b-a395-f7dea9b8d4f0.jpg?v=1788487961
+    Price: $40.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-24pcs-led-interior-light-kit-mercedes-e-class-w211-sedan-2002-2008?variant=48867722100893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_028da5fa-7a63-4281-ad8d-9316265d0b89.jpg?v=1789033293
+    Price: $40.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-24pcs-led-interior-light-kit-mercedes-e-class-w211-sedan-2002-2008?variant=48867722133661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_eb99e152-42d6-49d4-9fee-c5641cbc70e4.jpg?v=1788487984
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-24pcs-led-interior-light-kit-mercedes-e-class-w211-sedan-2002-2008?variant=48867722166429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_68472958-9336-4695-ab52-2072af51f8dd.jpg?v=1789033290
+    Price: $39.99 USD
+- [LED Interior Light Kit Hyundai Sonata 2015-2023](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-hyundai-sonata-2015-2023): Brighten your Hyundai Sonata with AutoGlowLED 13-piece LED interior light kit (2015-2023). Includes map, dome, trunk, plate lights. Error-free plug-and-play.
+  Updated: 2026-09-18T21:12:09Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e21f03bd-74c0-4096-99d1-16e2deea5fb6.jpg?v=1789066527
+  - [YELLOW](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-hyundai-sonata-2015-2023?variant=48867728162973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_0fd0487b-cd4e-42ca-8c5d-c91f79989831.jpg?v=1789057280
+    Price: $20.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-hyundai-sonata-2015-2023?variant=48867728195741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_14f9584c-0708-40fc-84ca-04927a2a019d.jpg?v=1789033310
+    Price: $20.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-hyundai-sonata-2015-2023?variant=48867728228509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b18100f8-7bb9-4409-a362-873b40f56ad8.jpg?v=1789057284
+    Price: $17.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-hyundai-sonata-2015-2023?variant=48867728261277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6e1924ad-cfaf-44ad-9762-07154a3859b7.jpg?v=1789033315
+    Price: $17.99 USD
+- [LED Interior Light Kit for Daewoo Rexton 2001-2012](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012): Upgrade your Daewoo Rexton (2001-2012) with AutoGlowLED Canbus LED interior light kit. 12pc dome, map, trunk, license plate bulbs. Plug and play, 50,000hr life.
+  Updated: 2026-09-18T21:12:07Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_c6b2b59f-d23a-4d1a-a332-9b2915808b02.jpg?v=1789066541
+  - [(2001-2006) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381556893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_9e46d8d1-9f24-447f-b322-bfe858de3402.jpg?v=1789033311
+    Price: $20.99 USD
+  - [(2001-2006) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381589661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ade079b0-6459-47b9-a51a-8a275c7d7e89.jpg?v=1789057285
+    Price: $19.99 USD
+  - [(2001-2006) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381622429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c2738c0e-e2c1-4aa1-b808-d5ff8a7527f9.jpg?v=1789033316
+    Price: $19.99 USD
+  - [(2001-2006) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381655197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_299c2570-c3c4-4c79-9dfe-b1f5f8a3299d.jpg?v=1789057281
+    Price: $21.99 USD
+  - [(2007-2012) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381687965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_9e46d8d1-9f24-447f-b322-bfe858de3402.jpg?v=1789033311
+    Price: $21.99 USD
+  - [(2007-2012) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381720733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ade079b0-6459-47b9-a51a-8a275c7d7e89.jpg?v=1789057285
+    Price: $19.99 USD
+  - [(2007-2012) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381753501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c2738c0e-e2c1-4aa1-b808-d5ff8a7527f9.jpg?v=1789033316
+    Price: $19.99 USD
+  - [(2007-2012) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-daewoo-rexton-2001-2012?variant=48868381786269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_299c2570-c3c4-4c79-9dfe-b1f5f8a3299d.jpg?v=1789057281
+    Price: $21.99 USD
+- [AutoGlowLED 24Pcs LED Interior Light Kit Range Rover L322](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012): Buy AutoGlowLED 24Pcs Canbus LED interior light kit for Land Rover Range Rover L322 2002-2012. Error-free, plug-and-play, 50,000hr lifespan. Shop now.
+  Updated: 2026-09-18T21:12:16Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_10e55831-409f-4917-b8cb-62f4656fa8d0.jpg?v=1789066564
+  - [Red](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012?variant=48867740385437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9a3bc383-f634-47d3-ba8b-d1e0beacc452.jpg?v=1789057287
+    Price: $42.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012?variant=48867740418205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7e88a2f4-47e0-4dc9-b5e0-0e27f2c6fa66.jpg?v=1789033313
+    Price: $46.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012?variant=48867740450973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d6424cbd-6ffb-471f-93f8-879169d33740.jpg?v=1789033318
+    Price: $42.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012?variant=48867740483741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e509dd0b-2858-469b-9a1a-a9f3da4a60ec.jpg?v=1789057283
+    Price: $46.99 USD
+- [AutoGlowLED LED Interior Light Kit Ford Fusion 2006-2012](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-fusion-2006-2012): Upgrade your Ford Fusion 2006-2012 with AutoGlowLED 12pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk, and more.
+  Updated: 2026-09-18T21:12:13Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_a70ca387-cdfa-4e58-8abc-460221576259.jpg?v=1789066565
+  - [PURPLE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-fusion-2006-2012?variant=48867748610205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6387b0c8-6e76-49ae-80a2-04d71695641a.jpg?v=1789033322
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-fusion-2006-2012?variant=48867748642973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_44439054-1ff9-47ce-ab8f-92b81a3359fe.jpg?v=1788488007
+    Price: $18.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-fusion-2006-2012?variant=48867748675741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1c0c9292-4a08-465c-8e84-d44d2706fb77.jpg?v=1789033327
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-fusion-2006-2012?variant=48867748708509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5efe2853-8e0b-4f3f-8d01-91cffacbbe0e.jpg?v=1789033333
+    Price: $18.99 USD
+- [AutoGlowLED LED Interior Light Kit for Hyundai Venue 2019-2025](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025): Upgrade your Hyundai Venue 2019-2025 with AutoGlowLED 12pc LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk & license plate. 50,000hr life.
+  Updated: 2026-09-18T21:12:11Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_dfd88719-dfd2-42df-8ae5-864d83a24309.jpg?v=1789066582
+  - [WHITE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760308381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a860999a-c857-4554-947a-6495d37558c7.jpg?v=1789033335
+    Price: $16.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760341149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5b90ccec-f177-420e-ad37-b61735007fce.jpg?v=1789033331
+    Price: $19.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760373917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_fa982284-dcc5-4576-a535-f9e63c91dae7.jpg?v=1788488072
+    Price: $16.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-hyundai-venue-2019-2025?variant=48867760406685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_22286764-22b1-441b-a6b6-5dc7e34fe95c.jpg?v=1789033326
+    Price: $19.99 USD
+- [AutoGlowLED 19Pcs LED Interior Light Kit for Land Cruiser 100](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100): Upgrade your Toyota Land Cruiser 100 (1998-2007) with AutoGlowLED 19Pcs LED interior light kit – bright, error-free, plug-and-play bulbs with 50,000-hour lifespan.
+  Updated: 2026-09-18T21:12:12Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_37e92701-6576-46b5-bf5e-8e05bcfc7082.jpg?v=1789066586
+  - [WHITE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766927517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e06c0e1d-c8b5-4144-b9e5-d1fd1a5022aa.jpg?v=1789033337
+    Price: $35.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766960285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_dfc94229-2f29-4355-b897-fde3cf01b2e3.jpg?v=1789057293
+    Price: $35.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766993053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_48ee69f8-8ab3-4611-a5ec-0769b3ac54e4.jpg?v=1789033333
+    Price: $37.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867767025821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e960ac87-5388-4ae6-8176-1ca779479ab1.jpg?v=1789057289
+    Price: $37.99 USD
+- [Porsche Panamera LED Interior Kit – AutoGlowLED 24Pcs](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016): Upgrade your Porsche Panamera 970 (2009-2016) with AutoGlowLED 24Pcs Canbus LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan.
+  Updated: 2026-09-18T21:12:16Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_eeffb8f5-d39c-435c-b3ea-e63578a31284.jpg?v=1789066595
+  - [YELLOW](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772432541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5663579f-244d-43c0-b461-3c47d45ff355.jpg?v=1789057290
+    Price: $41.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772465309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_98066e93-2a6f-4ada-9fb3-44d829c709df.jpg?v=1789033335
+    Price: $41.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772498077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2d4339d4-f613-45d2-ae3e-7d67d27ede5a.jpg?v=1789057295
+    Price: $42.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772530845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d762e5c2-1bf6-4e03-99a5-b3b3f1f66e44.jpg?v=1789033340
+    Price: $42.99 USD
+- [AutoGlowLED LED Interior Light Kit Peugeot 508 2010-2018](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018): Upgrade your Peugeot 508 Mk1 (2010-2018) with AutoGlowLED 22Pcs LED Interior Light Kit. Bright, error-free, plug-and-play bulbs for dome, door, foot, trunk. 50,000hr life.
+  Updated: 2026-09-18T21:12:16Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_52921114-0df7-4c40-8b3b-83aabf6dc301.jpg?v=1789066620
+  - [Red](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776299165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b30a4d93-8be6-412d-a0b3-9d0fd6bc65ee.jpg?v=1789057307
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776331933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b3bbe2ec-471f-4d35-9057-14a446341af9.jpg?v=1789033347
+    Price: $41.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776364701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_773eb1a7-0f0d-43d5-bdd3-9200da2b4e92.jpg?v=1789057302
+    Price: $39.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776397469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_862bb448-166d-499a-82b1-9adb6cc9b7e3.jpg?v=1789033341
+    Price: $39.99 USD
+- [LED Interior Light Kit Toyota Avensis T25 2003-2008](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008): Upgrade your Toyota Avensis T25 (2003-2008) with this 17-piece LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk, door, and more.
+  Updated: 2026-09-18T21:12:20Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_16bdb1a8-e61a-4c58-b26e-83878cdf764f.jpg?v=1789066623
+  - [YELLOW](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867781935261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_193af41a-3698-4d14-a876-937cd99a4985.jpg?v=1789057306
     Price: $47.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-m35-m45-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703521095837)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867781968029)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_4c80c6dd-6297-460c-9c2e-155137188d4a.jpg?v=1784898789
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-m35-m45-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703521128605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_6d876e10-0047-4b13-a4c7-16d0f4266ad9.jpg?v=1784898794
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5606c364-f666-485f-a02b-a4cbc921f3a5.jpg?v=1789033357
     Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-m35-m45-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703521161373)
+  - [Red](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867782000797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_632b0fca-de1b-4fe7-ac93-0d55d5acd460.jpg?v=1784898801
-    Price: $21.99 USD
-- [For Seat Leon MK4 (2008-2017) 8PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-seat-leon-mk4-2008-2017-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Seat MK4 (2008-2017) 8PCS  with 8-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:36Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_edc82f3b-c895-4b02-869f-f16166c98c4b.jpg?v=1789057311
+    Price: $20.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867782033565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9d0ad7b1-eedb-4c47-9450-471237073352.jpg?v=1789033361
+    Price: $20.99 USD
+- [Interior LED Light Kit for Jeep Liberty 2002-2007 AutoGlowLED](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007): Shop AutoGlowLED 14Pcs Canbus LED Interior Kit for Jeep Liberty 2002-2007. Dome, map, trunk, license plate, error-free. Plug & play upgrade.
+  Updated: 2026-09-18T21:12:18Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/03_942ec1a4-1efb-4d68-8e8a-71381ba4530a.jpg?v=1784898787
-  - [white](https://autoglowled.top/products/for-seat-leon-mk4-2008-2017-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703539347613)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_7a8f4958-2aa0-4094-aa65-5d4a2cc272d0.jpg?v=1789066638
+  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783934109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f332dfad-9326-4a94-8daa-d608f3dcf07b.jpg?v=1784898819
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_353fb3db-fa51-4d6d-9a32-02cc91ad1278.jpg?v=1789057312
+    Price: $23.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783966877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7cde3ce7-dfb6-4b5b-b099-c337fbe6a55d.jpg?v=1789033357
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783999645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6ca155e1-c317-4834-9f22-981b77099ad8.jpg?v=1789057316
+    Price: $22.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867784032413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_62feb5e6-5244-4dec-a883-2ca305e84f13.jpg?v=1789033362
+    Price: $23.99 USD
+- [LED Interior Light Kit for Nissan Rogue 2008-2024](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024): Upgrade your Nissan Rogue (2008-2024) with AutoGlowLED bright, error-free LED interior light kit. Includes dome, map, trunk, vanity, and more. Plug-and-play.
+  Updated: 2026-09-18T21:12:18Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5d1e1b33-2e19-4784-a1d7-beb6c66ecfd5.jpg?v=1789066642
+  - [(2008-2013) 11PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384276637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
+    Price: $21.99 USD
+  - [(2008-2013) 11PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384309405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
+    Price: $21.99 USD
+  - [(2008-2013) 11PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384342173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
+    Price: $21.99 USD
+  - [(2008-2013) 11PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384374941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
+    Price: $23.99 USD
+  - [(2014-2020) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384407709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
+    Price: $23.99 USD
+  - [(2014-2020) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384440477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
+    Price: $22.99 USD
+  - [(2014-2020) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384473245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
+    Price: $22.99 USD
+  - [(2014-2020) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384506013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
+    Price: $21.99 USD
+  - [(2021-2024) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384538781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
+    Price: $21.99 USD
+  - [(2021-2024) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384571549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
+    Price: $22.99 USD
+  - [(2021-2024) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384604317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
+    Price: $22.99 USD
+  - [(2021-2024) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384637085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
+    Price: $23.99 USD
+- [AutoGlowLED LED Interior Light Kit for Range Rover Sport 2005-2013](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013): Bright, Canbus error-free AutoGlowLED 14pc LED kit for Range Rover Sport L320 2005-2013. Dome, reading, trunk, footwell. Plug and play, 50,000hr life. Buy now.
+  Updated: 2026-09-18T21:12:23Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_f438c90f-3ebd-48a4-a3ee-06f08c389323.jpg?v=1789066659
+  - [Red](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793207453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3a646a6f-b36d-4ba9-afd2-e7d783cb6615.jpg?v=1789057318
+    Price: $22.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793240221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_70881c21-23df-459f-a1ea-7bc8e23e41ab.jpg?v=1789057313
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793272989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ed500f46-e184-40d1-a93d-9d985f505f55.jpg?v=1789033364
+    Price: $22.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793305757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7b71cf2d-7646-4f8c-b364-9fb523b8ce76.jpg?v=1789033359
+    Price: $23.99 USD
+- [LED Interior Light Kit Ford Fiesta 2003-2007 AutoGlowLED](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007): Upgrade your Ford Fiesta 2003-2007 with AutoGlowLED 13-piece LED interior light kit. Brighter, error-free, easy plug-and-play installation for dome, map, trunk, and license plate lights.
+  Updated: 2026-09-18T21:12:23Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_6c572573-dee6-498e-9fa4-85a3d561093e.jpg?v=1789066677
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795271837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f81e195e-0e47-47cc-afae-f6f9b880fe4e.jpg?v=1789057327
+    Price: $18.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795304605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_148a85f5-84b0-4112-a534-e8f5a4c10d82.jpg?v=1789033372
+    Price: $19.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795337373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_078ef579-a955-4736-8265-fd7c0a8bee58.jpg?v=1789033367
+    Price: $20.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795370141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_655d08e3-ddbb-451a-989c-d3f8bda5ba9d.jpg?v=1789033363
+    Price: $20.99 USD
+- [LED Interior Light Kit for Nissan Teana 2003-2018](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018): Upgrade your Nissan Teana (2003-2018) with AutoGlowLED interior LED kit. Includes dome, map, trunk, door lights. Error-free, plug-and-play, 50,000-hour life.
+  Updated: 2026-09-18T21:12:22Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_18f523b7-4dbe-4fa6-b0b4-b6dbcdf4cab5.jpg?v=1789066681
+  - [J31 (2003-2008) 11PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387192989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_729db812-85d5-460b-af69-18ee9214036b.jpg?v=1789033378
+    Price: $18.99 USD
+  - [J31 (2003-2008) 11PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387225757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_0a2b23bc-3371-4601-befc-dcb81f47634c.jpg?v=1788488194
     Price: $16.99 USD
-  - [ice blue](https://autoglowled.top/products/for-seat-leon-mk4-2008-2017-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703539380381)
+  - [J31 (2003-2008) 11PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387258525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_02109bb7-d947-4b2f-b2db-b16f0b15810d.jpg?v=1784898805
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fa05d449-0f07-4b28-8a2c-0d9bf403f290.jpg?v=1789033387
     Price: $16.99 USD
-  - [warm white](https://autoglowled.top/products/for-seat-leon-mk4-2008-2017-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703539413149)
+  - [J31 (2003-2008) 11PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387291293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_5e27c595-60a7-4985-ab28-05a19f33a793.jpg?v=1784898814
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a1a4ef8e-0399-465d-aae7-19ec7486f3cf.jpg?v=1789033383
     Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-seat-leon-mk4-2008-2017-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703539445917)
+  - [J32 (2009-2013) 15PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387324061)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_729db812-85d5-460b-af69-18ee9214036b.jpg?v=1789033378
+    Price: $36.99 USD
+  - [J32 (2009-2013) 15PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387356829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_0a2b23bc-3371-4601-befc-dcb81f47634c.jpg?v=1788488194
+    Price: $20.99 USD
+  - [J32 (2009-2013) 15PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387389597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fa05d449-0f07-4b28-8a2c-0d9bf403f290.jpg?v=1789033387
+    Price: $20.99 USD
+  - [J32 (2009-2013) 15PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387422365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a1a4ef8e-0399-465d-aae7-19ec7486f3cf.jpg?v=1789033383
+    Price: $36.99 USD
+  - [J33 (2014-2018) 15PC / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387455133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_729db812-85d5-460b-af69-18ee9214036b.jpg?v=1789033378
+    Price: $36.99 USD
+  - [J33 (2014-2018) 15PC / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387487901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_0a2b23bc-3371-4601-befc-dcb81f47634c.jpg?v=1788488194
+    Price: $20.99 USD
+  - [J33 (2014-2018) 15PC / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387520669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fa05d449-0f07-4b28-8a2c-0d9bf403f290.jpg?v=1789033387
+    Price: $20.99 USD
+  - [J33 (2014-2018) 15PC / Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-for-nissan-teana-j31-j32-j33-2003-2018?variant=48868387553437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a1a4ef8e-0399-465d-aae7-19ec7486f3cf.jpg?v=1789033383
+    Price: $36.99 USD
+- [AutoGlowLED LED Interior Light Kit Citroen Dispatch 2007-2022](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-citroen-dispatch-2007-2022): Upgrade your Citroen Dispatch 2007-2022 with 11Pcs AutoGlowLED LED interior light kit. Bright, error-free, plug-and-play dome, map, trunk, and license plate lights.
+  Updated: 2026-09-18T21:12:26Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ec82a17d-a9d7-4603-8fb6-2d00cbd8bbb3.jpg?v=1789066698
+  - [PURPLE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-citroen-dispatch-2007-2022?variant=48867806150813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_e5cb7f94-17e7-4584-809f-e4e01e423e4d.jpg?v=1789033380
     Price: $18.99 USD
-- [For Porsche 911 Boxster Cayman 2003-2010 18PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-porsche-911-boxster-cayman-2003-2010-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Porsche (2003-2010) 18PCS  with 18-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:38Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Porsche__2003-2010__18PCS__18PCS.jpg?v=1784898812
-  - [purple](https://autoglowled.top/products/for-porsche-911-boxster-cayman-2003-2010-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703609995421)
+  - [Warm White](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-citroen-dispatch-2007-2022?variant=48867806183581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0d2b52f6-faa5-4eb6-9df5-1ebfdf97e432.jpg?v=1784898844
-    Price: $40.99 USD
-  - [ice blue](https://autoglowled.top/products/for-porsche-911-boxster-cayman-2003-2010-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703610028189)
-    Availability: Available
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-porsche-911-boxster-cayman-2003-2010-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703610060957)
-    Availability: Available
-    Price: $40.99 USD
-  - [white](https://autoglowled.top/products/for-porsche-911-boxster-cayman-2003-2010-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703610093725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fc51108b-bf87-4cc1-9fe0-b8775506ab2a.jpg?v=1784898854
-    Price: $24.99 USD
-- [For BMW F12 F13 - 12PCS 2011-2019 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-f12-f13-12pcs-2011-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW F12 F13 - 12PCS  with 12-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:40Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_F12_F13_-_12PCS__12PCS.jpg?v=1784898852
-  - [ice blue](https://autoglowled.top/products/for-bmw-f12-f13-12pcs-2011-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703659704477)
-    Availability: Available
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-f12-f13-12pcs-2011-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703659737245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_65e5ca4c-ad8d-4e0c-90ca-b42dbd133429.jpg?v=1784898892
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-f12-f13-12pcs-2011-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703659770013)
-    Availability: Available
-    Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-f12-f13-12pcs-2011-2019-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703659802781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9916d620-5905-4565-86db-f348b7201a93.jpg?v=1784898904
-    Price: $19.99 USD
-- [For Mercedes-Benz R172 2011-2015 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-r172-2011-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz R172 2011-2015 with 10-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:41Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_R172_2011-2015_10PCS.jpg?v=1784898854
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-r172-2011-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703666684061)
-    Availability: Available
-    Price: $19.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-r172-2011-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703666716829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_432e8c53-57a3-481c-baa4-247a671ec7fd.jpg?v=1784898891
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-r172-2011-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703666749597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_93ddfe4d-2e56-4b20-91e3-de203daac1e3.jpg?v=1784898889
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-r172-2011-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703666782365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3a28e029-707a-4b5f-aef5-e6ff9cf19814.jpg?v=1784898896
-    Price: $19.99 USD
-- [For Jeep Renegade 15-23 12PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-renegade-15-23-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Renegade 15-23 12PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:43Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Renegade_15-23_12PC__0PCS.jpg?v=1784898891
-  - [ice blue](https://autoglowled.top/products/for-jeep-renegade-15-23-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703702368413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_d3c47251-c021-4a90-91d6-1a42494efe34.jpg?v=1784898921
-    Price: $19.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-renegade-15-23-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703702401181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_56171c76-d40d-4365-9d82-4c5252f6b479.jpg?v=1784898939
-    Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-renegade-15-23-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703702433949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a366bf56-8349-4762-8ae1-25423de64eec.jpg?v=1784898926
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-renegade-15-23-12pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703702466717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_12df6ea9-f7e3-42c5-9a91-1ef39fbdc03c.jpg?v=1784898931
-    Price: $20.99 USD
-- [For Mercedes-Benz W463 2012-2016 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-w463-2012-2016-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz W463 2012-2016 with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:45Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_W463_2012-2016_14PCS.jpg?v=1784898902
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-w463-2012-2016-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703712428189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_95137ef2-8a51-4615-b4d9-ffb7e1a89ccb.jpg?v=1784898946
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-w463-2012-2016-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703712460957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d495a158-eb99-4a76-840c-69eae46ecd62.jpg?v=1784898941
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-w463-2012-2016-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703712493725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_6bc92f58-a99c-4750-ae9f-f4ac29adfe82.jpg?v=1784898939
-    Price: $17.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-w463-2012-2016-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703712526493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_00def0e0-ea9a-4436-8e1d-a5a4608e65e7.jpg?v=1784898949
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_238be917-d8ac-44bb-9593-a8bdc0ea43c0.jpg?v=1789033385
     Price: $18.99 USD
-- [For Peugeot (2016-2020) 18PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-peugeot-2016-2020-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Peugeot (2016-2020) 18PCS  with 18-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:47Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Peugeot__2016-2020__18PCS__18PCS.jpg?v=1784898952
-  - [ice blue](https://autoglowled.top/products/for-peugeot-2016-2020-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703774425245)
+  - [WHITE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-citroen-dispatch-2007-2022?variant=48867806216349)
     Availability: Available
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-peugeot-2016-2020-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703774458013)
-    Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-peugeot-2016-2020-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703774490781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6fde20dc-f466-41be-92f8-8852f8ac01a3.jpg?v=1784898988
-    Price: $50.99 USD
-  - [warm white](https://autoglowled.top/products/for-peugeot-2016-2020-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703774556317)
-    Availability: Available
-    Price: $50.99 USD
-- [For BMW E63 E64 2003-2010 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e63-e64-2003-2010-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW E63 E64 - 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:49Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_bec3049c-2c4f-484a-ac24-e20368f7f7af.jpg?v=1784898982
-  - [ice blue](https://autoglowled.top/products/for-bmw-e63-e64-2003-2010-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703803392157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_a9eb372e-5cbe-4efb-b33e-e2c86dedde3d.jpg?v=1784899007
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-e63-e64-2003-2010-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703803424925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2567c849-4fa9-4569-b3f9-79c187bcc3b1.jpg?v=1784899010
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-e63-e64-2003-2010-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703803457693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_99070bf2-91b2-46e0-bc24-bc9a6629127a.jpg?v=1784899012
-    Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e63-e64-2003-2010-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703803490461)
-    Availability: Available
-    Price: $19.99 USD
-- [For Volkswagen T6 2016-2020 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-t6-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen T6 2016-2020 with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:50Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_e83783f2-bedc-47c2-8d90-33f2251ea71b.jpg?v=1784898992
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-t6-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703807881373)
-    Availability: Available
-    Price: $39.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-t6-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703807914141)
-    Availability: Available
-    Price: $43.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-t6-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703807946909)
-    Availability: Available
-    Price: $43.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-t6-2016-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703807979677)
-    Availability: Available
-    Price: $39.99 USD
-- [For Infiniti QX70 2013-2017 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-qx70-2013-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti QX70 2013-2017 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:52Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_QX70_2013-2017_0PCS.jpg?v=1784898988
-  - [purple](https://autoglowled.top/products/for-infiniti-qx70-2013-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703819776157)
-    Availability: Available
-    Price: $49.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-qx70-2013-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703819808925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_5015398b-a884-4adc-856f-50a42a88df5f.jpg?v=1784899007
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-qx70-2013-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703819841693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3fb6a56b-02fa-46e9-b43f-3e33d5ed9e18.jpg?v=1784899011
-    Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-qx70-2013-2017-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703819874461)
-    Availability: Available
-    Price: $22.99 USD
-- [For Mercedes-Benz R171 2004-2010 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-r171-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz R171 2004-2010 with 15-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:54Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_R171_2004-2010_15PCS.jpg?v=1784899000
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-r171-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703823511709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_1f5796d8-0102-463a-960e-e259d03cd730.jpg?v=1784899040
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-r171-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703823544477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_93895706-fb94-4f34-9dce-5fff1ac221f4.jpg?v=1784899044
-    Price: $52.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-r171-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703823577245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b555df73-a6fc-4c9f-a79b-7c7a78b2e3ca.jpg?v=1784899042
-    Price: $52.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-r171-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703823610013)
-    Availability: Available
-    Price: $24.99 USD
-- [For Jeep Grand Cherokee 05-10 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-grand-cherokee-05-10-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Grand Cherokee 05-10  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:56Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Grand_Cherokee_05-10__0PCS.jpg?v=1784899031
-  - [ice blue](https://autoglowled.top/products/for-jeep-grand-cherokee-05-10-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703859884189)
-    Availability: Available
-    Price: $19.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-grand-cherokee-05-10-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703859916957)
-    Availability: Available
-    Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-grand-cherokee-05-10-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703859949725)
-    Availability: Available
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-grand-cherokee-05-10-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703859982493)
-    Availability: Available
-    Price: $20.99 USD
-- [For Mercedes-Benz CLK A209 (1997-2003) 11PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-clk-a209-1997-2003-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLK A209 - 11PCS  with 11-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:57Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLK_A209_-_11PCS__11PCS.jpg?v=1784899044
-  - [white](https://autoglowled.top/products/for-mercedes-benz-clk-a209-1997-2003-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703873155229)
-    Availability: Available
-    Price: $17.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-clk-a209-1997-2003-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703873187997)
-    Availability: Available
-    Price: $17.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-clk-a209-1997-2003-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703873220765)
-    Availability: Available
-    Price: $18.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-clk-a209-1997-2003-11pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703873253533)
-    Availability: Available
-    Price: $18.99 USD
-- [For Volkswagen G4 2006-2008 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-g4-2006-2008-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen G4 (2006-2008) 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:14:59Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_b882aa5d-703e-4a7d-9f70-088a1b1d010f.jpg?v=1784899055
-  - [purple](https://autoglowled.top/products/for-volkswagen-g4-2006-2008-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703887016093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_48244253-3fef-4de8-8a36-79252e080514.jpg?v=1784899092
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-g4-2006-2008-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703887048861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2aeefe96-c113-46ef-850e-a0bc369d327c.jpg?v=1784899098
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-g4-2006-2008-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703887081629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_cacf4cce-be75-471f-a045-aa8acef5c02e.jpg?v=1784899096
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-g4-2006-2008-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703887147165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_fa82424b-a7cf-4d49-9f04-5884789d0fef.jpg?v=1784899089
-    Price: $24.99 USD
-- [For Mercedes-Benz M-Class W164 2006-2011 20PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-m-class-w164-2006-2011-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz M-class W164 20PCS  with 20-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:01Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_M-class_W164_20PCS__20PCS.jpg?v=1784899049
-  - [white](https://autoglowled.top/products/for-mercedes-benz-m-class-w164-2006-2011-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703889080477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_87177769-14ff-4031-a0c0-fe91f4178909.jpg?v=1784899099
-    Price: $32.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-m-class-w164-2006-2011-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703889113245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_f7c431d7-4d19-43b3-ae33-dec98f1e0b98.jpg?v=1784899095
-    Price: $35.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-m-class-w164-2006-2011-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703889146013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3eb86d86-f237-4457-8400-7dbd7290618d.jpg?v=1784899097
-    Price: $35.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-m-class-w164-2006-2011-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703889178781)
-    Availability: Available
-    Price: $32.99 USD
-- [For BMW X6 E71 2008-2014 23PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW X6 E71 - 23PCS  with 23-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:02Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_X6_E71_-_23PCS__23PCS.jpg?v=1784899087
-  - [purple](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703961825437)
-    Availability: Available
-    Price: $42.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703961858205)
-    Availability: Available
-    Price: $42.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703961890973)
-    Availability: Available
-    Price: $42.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-x6-e71-2008-2014-23pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703961923741)
-    Availability: Available
-    Price: $42.99 USD
-- [For BMW F20 F21 2011-2019 5PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-5pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW F20 F21 - 5PCS  with 5-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:04Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_F20_F21_-_5PCS__5PCS.jpg?v=1784899086
-  - [warm white](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-5pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703963332765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_2da27c3f-9993-4830-9905-82f15acc0552.jpg?v=1784899122
-    Price: $16.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-5pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703963365533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_43c959db-e61d-4bba-9b1b-b507c2b8143e.jpg?v=1784899117
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_64b6bdfa-02f7-492d-83ed-09555c82d98d.jpg?v=1789033390
     Price: $15.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-5pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703963431069)
+  - [Red](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-citroen-dispatch-2007-2022?variant=48867806249117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_07716e38-acd9-4d8c-8859-b3367efa62b3.jpg?v=1784899120
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f193be86-f43a-4f96-a241-1d9ec322e562.jpg?v=1789057331
+    Price: $15.99 USD
+- [AutoGlowLED LED Interior Light Kit Mercedes G Class W463](https://autoglowled.top/products/autoglowled-18pcs-canbus-led-interior-light-kit-mercedes-g-class-w463-2001-2008): Upgrade your Mercedes G Class W463 (2001-2008) with AutoGlowLED 18pc Canbus LED kit. Error-free, plug-and-play, bright interior lighting with 50,000 hr life. Buy now!
+  Updated: 2026-09-18T21:12:24Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b3c6c0ac-7e6e-4f35-adf8-873fb137efa8.jpg?v=1789066700
+  - [Red](https://autoglowled.top/products/autoglowled-18pcs-canbus-led-interior-light-kit-mercedes-g-class-w463-2001-2008?variant=48867813458077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_64737e99-a7ff-422c-b93f-8518b5a7b5cb.jpg?v=1789057339
+    Price: $22.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-18pcs-canbus-led-interior-light-kit-mercedes-g-class-w463-2001-2008?variant=48867813490845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_8e7011b8-eeaa-4c6a-b1a4-eed4a6949820.jpg?v=1789033383
+    Price: $38.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-18pcs-canbus-led-interior-light-kit-mercedes-g-class-w463-2001-2008?variant=48867813523613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bf01db1a-345c-4d9f-a28a-8fe4d10fb592.jpg?v=1789057334
+    Price: $38.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-18pcs-canbus-led-interior-light-kit-mercedes-g-class-w463-2001-2008?variant=48867813556381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_bc1c8d3a-1b64-46ee-8b5a-44a9fbdc998d.jpg?v=1789033388
+    Price: $22.99 USD
+- [Hyundai Casper LED Interior Light Kit 10Pcs AutoGlowLED](https://autoglowled.top/products/autoglowled-10pcs-led-interior-light-kit-hyundai-casper): AutoGlowLED 10Pcs Canbus LED kit for Hyundai Casper 2021-2025: dome, map, trunk, license plate bulbs. Error-free, plug & play, bright upgrade.
+  Updated: 2026-09-18T21:12:28Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_86ee8e35-c131-4eda-b4a9-a768af5d1acf.jpg?v=1789066711
+  - [PURPLE](https://autoglowled.top/products/autoglowled-10pcs-led-interior-light-kit-hyundai-casper?variant=48867819258013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_0caaef79-8a49-4b1e-8130-9d9fa2281246.jpg?v=1789033394
+    Price: $19.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-10pcs-led-interior-light-kit-hyundai-casper?variant=48867819290781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7ec62c4c-7f71-472a-835e-b7b30689539a.jpg?v=1789057337
     Price: $16.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-5pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703963463837)
+  - [Warm White](https://autoglowled.top/products/autoglowled-10pcs-led-interior-light-kit-hyundai-casper?variant=48867819323549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7d3f23b3-c03e-498d-a8b4-a40fef5e20ab.jpg?v=1784899124
-    Price: $14.99 USD
-- [For Peugeot 2009-2015 18PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-peugeot-2009-2015-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Peugeot (2009-2015) 18PCS  with 18-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:05Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Peugeot__2009-2015__18PCS__18PCS.jpg?v=1784899100
-  - [warm white](https://autoglowled.top/products/for-peugeot-2009-2015-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703968215197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c99d22c7-66c8-4492-ab6c-59948fb55a25.jpg?v=1784899137
-    Price: $50.99 USD
-  - [ice blue](https://autoglowled.top/products/for-peugeot-2009-2015-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703968280733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_20c03305-c519-4b84-9847-aa09c51a4c2e.jpg?v=1784899129
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-peugeot-2009-2015-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703968313501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_99ab22ef-76e2-4896-b5b7-814ba108101f.jpg?v=1784899135
-    Price: $50.99 USD
-  - [white](https://autoglowled.top/products/for-peugeot-2009-2015-18pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703968346269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1d8b995d-b877-4974-a334-8f4a6b315b08.jpg?v=1784899139
-    Price: $21.99 USD
-- [For Infiniti QX60 2013-2021 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-qx60-2013-2021-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti QX60 2013-2021 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:07Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_QX60_2013-2021_0PCS.jpg?v=1784899105
-  - [purple](https://autoglowled.top/products/for-infiniti-qx60-2013-2021-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703988957341)
-    Availability: Available
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-qx60-2013-2021-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703988990109)
-    Availability: Available
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-qx60-2013-2021-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703989022877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fb274d14-5298-4b4a-8b2c-0fec437b74be.jpg?v=1784899156
-    Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-qx60-2013-2021-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48703989055645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c83891e3-ac35-4524-bb95-e079657aa719.jpg?v=1784899164
-    Price: $21.99 USD
-- [For Jeep Grand Cherokee 11-21 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-grand-cherokee-11-21-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Jeep Grand Cherokee 11-21  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:09Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Grand_Cherokee_11-21__0PCS.jpg?v=1784899162
-  - [ice blue](https://autoglowled.top/products/for-jeep-grand-cherokee-11-21-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704048595101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_0aaf9e26-7645-4b45-9f0e-0a18adba36a2.jpg?v=1784899209
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-grand-cherokee-11-21-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704048627869)
-    Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-grand-cherokee-11-21-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704048660637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_45c6ae0a-082a-44e1-bf84-8a78a036c2ad.jpg?v=1784899214
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-grand-cherokee-11-21-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704048726173)
-    Availability: Available
-    Price: $47.99 USD
-- [For Volkswagen Sharan 2011-2020 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-sharan-2011-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen Sharan 2011-2020 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:10Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_Sharan_2011-2020_0PCS.jpg?v=1784899184
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-sharan-2011-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704083624093)
-    Availability: Available
-    Price: $39.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-sharan-2011-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704083656861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_cdd9df05-ec70-4b71-bc04-0419c2a938fe.jpg?v=1784899233
-    Price: $43.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-sharan-2011-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704083722397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2e022cfb-8238-4e41-bdca-e1e49f3544fc.jpg?v=1784899225
-    Price: $43.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-sharan-2011-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704083755165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a2e6ec43-a439-42b5-b6ca-4d4b7388cf08.jpg?v=1784899236
-    Price: $39.99 USD
-- [For Mercedes-Benz CLS W219 2004-2011 22PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-cls-w219-2004-2011-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLS W219 - 22PCS  with 22-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:12Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLS_W219_-_22PCS__22PCS.jpg?v=1784899180
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-cls-w219-2004-2011-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704084803741)
-    Availability: Available
-    Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-cls-w219-2004-2011-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704084836509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7eb8706e-23ad-43f8-ac6c-19c374a74a77.jpg?v=1784899222
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-cls-w219-2004-2011-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704084869277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_4b3aae4d-1e86-42b8-9e64-288bdee7016a.jpg?v=1784899217
-    Price: $51.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-cls-w219-2004-2011-22pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704084902045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d4a7b81c-523d-4817-b52a-61c87cda9b6c.jpg?v=1784899215
-    Price: $51.99 USD
-- [For BMW E87 E81 E82 2004-2013 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e87-e81-e82-2004-2013-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW E87 E81 E82 - 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:14Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_0574bb1e-96b0-4cd9-8bde-6f47b29d5e2b.jpg?v=1784899210
-  - [warm white](https://autoglowled.top/products/for-bmw-e87-e81-e82-2004-2013-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704108626077)
-    Availability: Available
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-e87-e81-e82-2004-2013-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704108658845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_169c5f5e-57a3-4e44-bc68-79558b499881.jpg?v=1784899246
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3e3170dc-89f8-4aa7-9ca6-f9eae4eda300.jpg?v=1789033399
     Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-e87-e81-e82-2004-2013-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704108691613)
+  - [WHITE](https://autoglowled.top/products/autoglowled-10pcs-led-interior-light-kit-hyundai-casper?variant=48867819356317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_dd526e54-c07c-4df0-a295-80eee2bec818.jpg?v=1784899253
-    Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e87-e81-e82-2004-2013-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704108724381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_19cfa2ef-c684-481d-a0ad-349e38bd1df0.jpg?v=1784899257
-    Price: $19.99 USD
-- [For BMW E39 Sedan 1995-2003 19PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your BMW E39 sedan - 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:15Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_af8d157a-0588-41d2-9c5d-77e6e94acf0f.jpg?v=1789033404
+    Price: $16.99 USD
+- [AutoGlowLED Canbus LED Interior Light Kit BMW Z3 E36 1995-2003](https://autoglowled.top/products/autoglowled-10pcs-canbus-led-interior-light-kit-bmw-z3-e36-1995-2003): Buy AutoGlowLED 10Pcs Canbus LED interior light kit for BMW Z3 E36 1995-2003. Error-free, plug-and-play, 50,000-hour lifespan. Bright, easy install.
+  Updated: 2026-09-18T21:12:30Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_E39_sedan_-_19PCS__19PCS.jpg?v=1784899216
-  - [purple](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704123601053)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5457f1ba-279c-4c01-8d06-0e077dd96bc1.jpg?v=1789066742
+  - [Red](https://autoglowled.top/products/autoglowled-10pcs-canbus-led-interior-light-kit-bmw-z3-e36-1995-2003?variant=48867826106525)
     Availability: Available
-    Price: $43.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704123666589)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_885bcddc-7bd9-4629-80bb-37dbd159983e.jpg?v=1789057341
+    Price: $16.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-10pcs-canbus-led-interior-light-kit-bmw-z3-e36-1995-2003?variant=48867826139293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ae776912-38f7-43d3-9489-9b0b1d93ae0f.jpg?v=1784899264
-    Price: $43.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704123699357)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d424c4d5-7365-49f4-bfbf-be21e3affb17.jpg?v=1789033398
+    Price: $19.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-10pcs-canbus-led-interior-light-kit-bmw-z3-e36-1995-2003?variant=48867826172061)
     Availability: Available
-    Price: $39.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704123732125)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_04cf65fd-16eb-484e-9844-1bc5e9125cbb.jpg?v=1789033407
+    Price: $16.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-10pcs-canbus-led-interior-light-kit-bmw-z3-e36-1995-2003?variant=48867826204829)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_bac0524b-17b2-450c-a0f8-9b5c14277d3f.jpg?v=1789033402
+    Price: $19.99 USD
+- [AutoGlowLED LED Interior Light Kit Honda Edix FR-V 2004-2010](https://autoglowled.top/products/autoglowled-led-interior-light-kit-honda-edix-fr-v-2004-2010): AutoGlowLED 10-piece LED interior light kit for Honda Edix FR-V 2004-2010. Bright, error-free, plug-and-play bulbs for dome, trunk, glove box, plate. Buy now!
+  Updated: 2026-09-18T21:12:27Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e501c935-1f19-4687-8e64-91ff6dfa729e.jpg?v=1789066744
+  - [Warm White](https://autoglowled.top/products/autoglowled-led-interior-light-kit-honda-edix-fr-v-2004-2010?variant=48867834003613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3b96d76b-6867-470a-800a-c6567dbd991d.jpg?v=1789033410
+    Price: $17.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-honda-edix-fr-v-2004-2010?variant=48867834036381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_e5cdba16-2f09-4015-a9fc-220a004c08cf.jpg?v=1789033406
+    Price: $17.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-honda-edix-fr-v-2004-2010?variant=48867834069149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0aac8a6b-e6c0-4409-9e44-f454d862255d.jpg?v=1789057348
+    Price: $15.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-honda-edix-fr-v-2004-2010?variant=48867834101917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_41c6a58d-73f0-42f0-8a70-b12c29c6c7c4.jpg?v=1789033415
+    Price: $15.99 USD
+- [AutoGlowLED LED Interior Light Kit VW T5 Multivan 2003-2015](https://autoglowled.top/products/autoglowled-19-pcs-led-interior-light-kit-vw-t5-multivan-caravelle-transporter-2003-2015): Upgrade your VW T5 Multivan, Caravelle, Transporter with this 19-piece LED interior light kit. Bright, error-free, plug-and-play bulbs for 2003-2015. Shop AutoGlowLED now.
+  Updated: 2026-09-18T21:12:28Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_d1311b4d-6a10-48a3-a4ef-a043649b321f.jpg?v=1789066757
+  - [PURPLE](https://autoglowled.top/products/autoglowled-19-pcs-led-interior-light-kit-vw-t5-multivan-caravelle-transporter-2003-2015?variant=48867841409181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_cb8651ca-cd48-4e3f-b193-740c3a6ce91c.jpg?v=1789033413
+    Price: $34.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-19-pcs-led-interior-light-kit-vw-t5-multivan-caravelle-transporter-2003-2015?variant=48867841441949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_98722ec2-91fb-4224-af90-bb5b5cd2cb40.jpg?v=1789057351
+    Price: $34.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-19-pcs-led-interior-light-kit-vw-t5-multivan-caravelle-transporter-2003-2015?variant=48867841474717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_afc20401-d2dc-4dbc-a175-e1630664cdd1.jpg?v=1789033417
+    Price: $32.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-19-pcs-led-interior-light-kit-vw-t5-multivan-caravelle-transporter-2003-2015?variant=48867841507485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ee8752e7-7b0f-42f4-9ce8-503ba5c9cd53.jpg?v=1789057356
+    Price: $32.99 USD
+- [20Pcs LED Interior Light Kit for Lexus RX](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-lexus-rx-2004-2008): Upgrade your Lexus RX (2004-2008) with a 20pc LED interior light kit. Includes license plate lamps, 50,000hr lifespan, plug-and-play. Error-free bulbs.
+  Updated: 2026-09-18T21:12:30Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e82be97e-5c53-4e77-aaa7-898563ad67b9.jpg?v=1789066758
+  - [WHITE](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-lexus-rx-2004-2008?variant=48867852451997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a1ffac23-54cc-4217-b0f3-9adcaba7447d.jpg?v=1789033433
     Price: $40.99 USD
-- [For Infiniti 2003-2008 17PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-2003-2008-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti (2003-2008) 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:17Z
+  - [YELLOW](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-lexus-rx-2004-2008?variant=48867852484765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_1d102968-cb7a-40e1-b5ec-d663f1e0c960.jpg?v=1788488253
+    Price: $39.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-lexus-rx-2004-2008?variant=48867852517533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_385ee96d-9ac9-47ca-9ba8-fced3821db9a.jpg?v=1788488272
+    Price: $40.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-20pcs-led-interior-light-kit-lexus-rx-2004-2008?variant=48867852550301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_e7be851c-aa68-435c-be4f-7d1aac6fc58e.jpg?v=1789033428
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW E36 1992-1998](https://autoglowled.top/products/autoglowled-17pcs-canbus-led-interior-light-kit-bmw-e36-1992-1998): Upgrade your BMW 3 Series E36 (1992-1998) with AutoGlowLED 17Pcs Canbus LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan. Shop now!
+  Updated: 2026-09-18T21:12:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti__2003-2008__17PCS__17PCS.jpg?v=1784899226
-  - [white](https://autoglowled.top/products/for-infiniti-2003-2008-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704130121885)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_3cfd021d-b9f8-4ebf-b008-4ed86613297c.jpg?v=1789066767
+  - [Red](https://autoglowled.top/products/autoglowled-17pcs-canbus-led-interior-light-kit-bmw-e36-1992-1998?variant=48867857727645)
     Availability: Available
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-2003-2008-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704130154653)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e4766574fa_273610c9-fe88-4fe6-b6ae-da8b3a080114.jpg?v=1788488268
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-17pcs-canbus-led-interior-light-kit-bmw-e36-1992-1998?variant=48867857760413)
     Availability: Available
-    Price: $25.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-2003-2008-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704130187421)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_bee97ed1-72aa-4b2a-ae80-33c459fc2fe7.jpg?v=1789033436
+    Price: $21.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-17pcs-canbus-led-interior-light-kit-bmw-e36-1992-1998?variant=48867857793181)
     Availability: Available
-    Price: $49.99 USD
-  - [purple](https://autoglowled.top/products/for-infiniti-2003-2008-17pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704130220189)
-    Availability: Available
-    Price: $49.99 USD
-- [For Volkswagen Golf G6 2013-2015 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-golf-g6-2013-2015-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen G6 (2013-2015) 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:20Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_53a69e7c-5b21-418f-872d-185d64fd3a36.jpg?v=1784899245
-  - [purple](https://autoglowled.top/products/for-volkswagen-golf-g6-2013-2015-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704139821213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7230220c-6ea2-4c6c-b047-63536c7693ca.jpg?v=1784899269
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-golf-g6-2013-2015-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704139853981)
-    Availability: Available
-    Price: $24.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-golf-g6-2013-2015-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704139886749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e8067c55-5c6b-4314-aa28-c811b5bd4d87.jpg?v=1784899279
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-golf-g6-2013-2015-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704139919517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_d5110ecb-fe0e-43db-9bfe-63ff09016530.jpg?v=1784899267
-    Price: $23.99 USD
-- [For GMC 1999-2006 19PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-gmc-1999-2006-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your GMC (1999-2006) 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:21Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/GMC__1999-2006__19PCS__19PCS.jpg?v=1784899285
-  - [warm white](https://autoglowled.top/products/for-gmc-1999-2006-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704179962013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_d1da02ef-e4f8-4d19-8b4b-fca85ac78591.jpg?v=1784899338
-    Price: $46.99 USD
-  - [purple](https://autoglowled.top/products/for-gmc-1999-2006-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704179994781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bcb018b4-0ab0-4ba0-b282-14e424047c75.jpg?v=1784899330
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_df95f5b4ed_01e467e0-0601-4fb3-a3ce-86343c7a57e4.jpg?v=1788488318
     Price: $47.99 USD
-  - [white](https://autoglowled.top/products/for-gmc-1999-2006-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704180027549)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-17pcs-canbus-led-interior-light-kit-bmw-e36-1992-1998?variant=48867857825949)
     Availability: Available
-    Price: $43.99 USD
-  - [ice blue](https://autoglowled.top/products/for-gmc-1999-2006-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704180060317)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_68c08b73-c0a6-495c-879c-2b59c51187f2.jpg?v=1789033431
+    Price: $47.99 USD
+- [AutoGlowLED LED Interior Light Kit Honda CR-V 2017-2022](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-honda-cr-v-2017-2022): Upgrade your Honda CR-V 2017-2022 with AutoGlowLED 13pcs LED interior light kit. Dome, map, vanity, trunk, license plate bulbs. Plug-and-play, 50,000 hrs.
+  Updated: 2026-09-18T21:12:33Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_bbeb6f77-9df1-48ff-bd30-dc922a03a966.jpg?v=1789066801
+  - [Warm White](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-honda-cr-v-2017-2022?variant=48867863756957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_55bc0ad7-5766-433a-ae5d-a0a7b104d733.jpg?v=1784899328
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_fad3e92a-dfbf-4a28-b076-b3964e91336b.jpg?v=1789033441
+    Price: $20.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-honda-cr-v-2017-2022?variant=48867863789725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_9314c1a7-8f59-4c96-a7d1-5eb13cbab3ef.jpg?v=1789033437
+    Price: $20.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-honda-cr-v-2017-2022?variant=48867863822493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_134a8a27-eec4-4112-b93d-09be368ba2b5.jpg?v=1789057358
+    Price: $17.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-honda-cr-v-2017-2022?variant=48867863855261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4b2586b6-dded-43a3-93fc-e6128e61fac1.jpg?v=1789033445
+    Price: $17.99 USD
+- [Ford Ranger LED Interior Light Kit 12Pcs AutoGlowLED](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-ranger-2012-2019): Upgrade your 2012-2019 Ford Ranger with AutoGlowLED 12Pcs LED interior kit – dome, map, vanity, license plate lights. Bright, plug-and-play, error-free.
+  Updated: 2026-09-18T21:12:34Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_4c31eeff-1e6e-415b-90ad-418623640e40.jpg?v=1789066807
+  - [PURPLE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-ranger-2012-2019?variant=48867867885725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_16abda4b-c816-4cb0-ae6d-d3d3b6297819.jpg?v=1789033438
+    Price: $21.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-ranger-2012-2019?variant=48867867918493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_90938d07-b037-43c1-8d2d-363883d522b4.jpg?v=1789057358
+    Price: $21.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-ranger-2012-2019?variant=48867867951261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5e34be28-6ee2-4965-a753-d3213e315eae.jpg?v=1789033447
+    Price: $20.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-12pcs-led-interior-light-kit-ford-ranger-2012-2019?variant=48867867984029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_35a3ef72-a627-47b8-9dda-96adb200893d.jpg?v=1789057363
+    Price: $19.99 USD
+- [LED Interior Light Kit for Honda Civic 8 2006-2011](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-civic-8th-gen-2006-2011): Upgrade Honda Civic 8th Gen (2006-2011) with 11pc LED interior light kit. Dome, map, vanity, trunk, license plate. Plug & play, error-free.
+  Updated: 2026-09-18T21:12:35Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_7a41da3d-f520-4a50-84d4-858193d47d8f.jpg?v=1789066815
+  - [WHITE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-civic-8th-gen-2006-2011?variant=48867873521821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4cd1383a-84aa-4d7e-b047-9db1adae0d5d.jpg?v=1789033443
+    Price: $15.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-civic-8th-gen-2006-2011?variant=48867873554589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b2ad6831-dc35-441f-9702-45a1bee8f2a6.jpg?v=1789057363
+    Price: $15.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-civic-8th-gen-2006-2011?variant=48867873587357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_19159b8c-531c-4ffc-9ec6-2154c2c154bb.jpg?v=1789033439
+    Price: $17.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-civic-8th-gen-2006-2011?variant=48867873620125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_07d2c8de-42b2-443b-9178-bada2048a8c8.jpg?v=1789057359
+    Price: $17.99 USD
+- [LED Interior Light Kit for Peugeot 406 1995-2005 – AutoGlowLED](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-peugeot-406-1995-2005): Upgrade your Peugeot 406 (1995-2005) with AutoGlowLED 13-piece Canbus LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan. Buy now!
+  Updated: 2026-09-18T21:12:34Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_f5bd0756-9671-4322-bede-3f0a7d3e8337.jpg?v=1789066819
+  - [Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-peugeot-406-1995-2005?variant=48867878731933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_41d8b2de59_80151c7b-03bf-4314-88d2-9a69d3fb6e83.jpg?v=1788488313
+    Price: $21.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-peugeot-406-1995-2005?variant=48867878764701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_db72def5-25f3-47bc-92bd-d1122cb6e67a.jpg?v=1789033448
+    Price: $23.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-peugeot-406-1995-2005?variant=48867878797469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_7d5b4585-0a86-426b-bb05-7776051fa2b7.jpg?v=1789033452
+    Price: $21.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-peugeot-406-1995-2005?variant=48867878830237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_498df21ffd_a85ae2c2-696c-4774-af12-3e49302dcb80.jpg?v=1788488362
+    Price: $22.99 USD
+- [Canbus LED Interior Light Kit Ford Transit 1991-2021](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021): Upgrade your Ford Transit with AutoGlowLED Canbus LED interior light kit. Plug-and-play, error-free, bright 6000K-10000K bulbs for 1991-2021 models.
+  Updated: 2026-09-18T21:12:37Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_9bc3b21c-2243-41e6-999b-928b323d488b.jpg?v=1789066823
+  - [(1991-1999) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388274333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_80e465e5-f207-4f7c-a3ec-ad22783f8930.jpg?v=1789033450
+    Price: $19.99 USD
+  - [(1991-1999) 12PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388307101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2ae284b2-804a-4573-a953-2b6ef180d992.jpg?v=1789057369
+    Price: $16.99 USD
+  - [(1991-1999) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388339869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_39d2f2d9-be7c-428a-8307-0ee62341a200.jpg?v=1789033454
+    Price: $16.99 USD
+  - [(1991-1999) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388372637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_dab09e82-3a9a-4077-9880-5665e8d8bf42.jpg?v=1789057365
+    Price: $19.99 USD
+  - [(2000-2012) 16PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388405405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_80e465e5-f207-4f7c-a3ec-ad22783f8930.jpg?v=1789033450
+    Price: $37.99 USD
+  - [(2000-2012) 16PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388438173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2ae284b2-804a-4573-a953-2b6ef180d992.jpg?v=1789057369
+    Price: $22.99 USD
+  - [(2000-2012) 16PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388470941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_39d2f2d9-be7c-428a-8307-0ee62341a200.jpg?v=1789033454
+    Price: $22.99 USD
+  - [(2000-2012) 16PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388503709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_dab09e82-3a9a-4077-9880-5665e8d8bf42.jpg?v=1789057365
+    Price: $37.99 USD
+  - [(2013-2021) 17PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388536477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_80e465e5-f207-4f7c-a3ec-ad22783f8930.jpg?v=1789033450
+    Price: $37.99 USD
+  - [(2013-2021) 17PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388569245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2ae284b2-804a-4573-a953-2b6ef180d992.jpg?v=1789057369
+    Price: $21.99 USD
+  - [(2013-2021) 17PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388602013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_39d2f2d9-be7c-428a-8307-0ee62341a200.jpg?v=1789033454
+    Price: $21.99 USD
+  - [(2013-2021) 17PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-ford-transit-1991-2021?variant=48868388634781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_dab09e82-3a9a-4077-9880-5665e8d8bf42.jpg?v=1789057365
+    Price: $37.99 USD
+- [AutoGlowLED LED Interior Light Kit for Ford Escape 2013-2019](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-for-ford-escape-2013-2019): Upgrade your Ford Escape 2013-2019 with AutoGlowLED 9pc LED interior light kit – bright, error-free, plug-and-play dome, map, trunk lights.
+  Updated: 2026-09-18T21:12:39Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_b3b98c7f-fa47-4215-94ff-e351818c0ac2.jpg?v=1789066858
+  - [Red](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-for-ford-escape-2013-2019?variant=48867890462877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_76f7c87f-8aea-4881-8856-31064f55a324.jpg?v=1788488333
+    Price: $15.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-for-ford-escape-2013-2019?variant=48867890495645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_af19f963-0163-4e44-b44a-7b5d09ef4628.jpg?v=1789033470
+    Price: $15.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-for-ford-escape-2013-2019?variant=48867890528413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_efbe6371-a6c0-4a6c-8f36-94ee15d637bf.jpg?v=1789033465
+    Price: $17.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-for-ford-escape-2013-2019?variant=48867890561181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_21836790-e920-4ab7-8862-88bfe78da4a3.jpg?v=1789033460
+    Price: $17.99 USD
+- [AutoGlowLED LED Interior Light Kit Buick Encore GX 2020-2024](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-buick-encore-gx-2020-2024): Upgrade your Buick Encore GX with AutoGlowLED 9Pcs LED interior light kit. Dome, map, trunk, license plate bulbs. 50000 hrs, plug-and-play, error free.
+  Updated: 2026-09-18T21:12:40Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_396c1157-41f1-4f74-a614-8ed464889dcb.jpg?v=1789066866
+  - [WHITE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-buick-encore-gx-2020-2024?variant=48867896524957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e77585f5-7c7f-4401-8b81-75cbba272213.jpg?v=1789033476
+    Price: $14.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-buick-encore-gx-2020-2024?variant=48867896557725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8cb1c84f-7f3b-46ac-933d-1db5bd20104a.jpg?v=1789057374
+    Price: $14.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-buick-encore-gx-2020-2024?variant=48867896590493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_2f783a95-b363-4096-8c60-d1e1f525cece.jpg?v=1789033466
+    Price: $16.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-buick-encore-gx-2020-2024?variant=48867896623261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_dab6fd03-9b3a-4c37-a0cd-53e9c5428d44.jpg?v=1789033470
+    Price: $16.99 USD
+- [9Pcs Canbus LED Interior Light Kit Ssangyong Actyon 2013-2019](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-ssangyong-actyon-2013-2019): Upgrade your Ssangyong Actyon (2013-2019) with this 9-piece AutoGlowLED Canbus interior LED kit. Error-free, plug-and-play, bright dome, trunk, license plate bulbs. 50,000-hour life.
+  Updated: 2026-09-18T21:12:39Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_c6f25f12-780f-4166-91f2-17c38c393d4f.jpg?v=1789066875
+  - [PURPLE](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-ssangyong-actyon-2013-2019?variant=48867905372317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_443ddcf6-31aa-49b7-8d6c-820b8dcd95bf.jpg?v=1789033468
+    Price: $16.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-ssangyong-actyon-2013-2019?variant=48867905405085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_b424d664-1079-4a6d-98de-afff0ea55af1.jpg?v=1789033472
+    Price: $16.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-ssangyong-actyon-2013-2019?variant=48867905437853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_66e155e4-c876-47bf-8721-8426d91f0ece.jpg?v=1789033477
+    Price: $14.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-ssangyong-actyon-2013-2019?variant=48867905470621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0eb52bc1-6c40-457d-85a0-003213c8a8f0.jpg?v=1789057375
+    Price: $14.99 USD
+- [LED Interior Light Kit Subaru Justy 2008-2011](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-subaru-justy-2008-2011): Buy AutoGlowLED 9Pcs Canbus LED Interior Kit for Subaru Justy 2008-2011. Plug & play, error-free, 50,000 hrs. Includes dome, map, trunk, plate lights.
+  Updated: 2026-09-18T21:12:40Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ae7700b0-dd3d-4b33-8dcf-9fdb0465116a.jpg?v=1789066881
+  - [YELLOW](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-subaru-justy-2008-2011?variant=48867909664925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1aa055e2-98d9-4f15-a566-4b0dfed91378.jpg?v=1789057383
+    Price: $17.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-subaru-justy-2008-2011?variant=48867909697693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8e0117c9-1e4c-4b63-a2cf-019774b14470.jpg?v=1789033476
+    Price: $14.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-subaru-justy-2008-2011?variant=48867909730461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_3bdd586a-bd10-4515-8bc7-ee7cab3ac3b5.jpg?v=1789033471
+    Price: $17.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-9pcs-canbus-led-interior-light-kit-subaru-justy-2008-2011?variant=48867909763229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_5afd87a2-a5e1-498b-9f4f-8f86daa94da1.jpg?v=1789057388
+    Price: $14.99 USD
+- [LED Interior Light Kit Honda CR-V 2002-2006](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-honda-cr-v-2002-2006): Buy AutoGlowLED 9Pcs LED interior light kit for Honda CR-V II 2002-2006. Includes dome, map, trunk, glove box, license plate bulbs. 50000-hour life, plug and play.
+  Updated: 2026-09-18T21:12:41Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_86a832cb-b66a-472b-bbf0-709d02bc723c.jpg?v=1789066883
+  - [PURPLE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-honda-cr-v-2002-2006?variant=48867913662621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c2a7fe1a-ee9b-44d5-be3f-eae5702bc58c.jpg?v=1789033489
+    Price: $16.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-honda-cr-v-2002-2006?variant=48867913695389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/sku_e9e2bc3815_67dc1b3e-56ad-401d-b0ea-f5a86184a1c1.jpg?v=1788488403
+    Price: $14.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-honda-cr-v-2002-2006?variant=48867913728157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_31a60f53-1620-47ba-80bb-49d706bc4ee0.jpg?v=1789033494
+    Price: $16.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-9pcs-led-interior-light-kit-honda-cr-v-2002-2006?variant=48867913760925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_efc8f986-e594-44f5-86d7-d75756a3753b.jpg?v=1789033497
+    Price: $14.99 USD
+- [LED Interior Light Kit Volvo V70 II 2000-2007 AutoGlowLED](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-volvo-v70-ii-2000-2007): AutoGlowLED 16pc LED interior light kit for Volvo V70 II 2000-2007. Dome, map, trunk, vanity, footwell bulbs. Bright, error-free, plug-and-play.
+  Updated: 2026-09-18T21:12:43Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_275c3ca5-62c0-4734-858d-4c9bb50a63d7.jpg?v=1789066917
+  - [Red](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-volvo-v70-ii-2000-2007?variant=48867918676125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_8b9007fd-12c4-401e-bb61-02fa81b1faf2.jpg?v=1789057391
+    Price: $18.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-volvo-v70-ii-2000-2007?variant=48867918708893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1cb17755-25f3-4761-a48d-49e293eadbc0.jpg?v=1789033496
+    Price: $19.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-volvo-v70-ii-2000-2007?variant=48867918741661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_7a4c928a-5e74-4d62-9f95-a08ea5026b5e.jpg?v=1789057387
     Price: $44.99 USD
-- [For Jeep Compass 07-17 9PC LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-compass-07-17-9pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Jeep Compass 07-17 9PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:23Z
+  - [PURPLE](https://autoglowled.top/products/autoglowled-16pc-led-interior-light-kit-volvo-v70-ii-2000-2007?variant=48867918774429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6e762b1c-a123-416c-9170-5929303e6bee.jpg?v=1789033490
+    Price: $44.99 USD
+- [AutoGlowLED LED Interior Light Kit Honda Insight 2009-2015](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-insight-2009-2015): Upgrade your Honda Insight 2009-2015 with AutoGlowLED 11Pcs Canbus LED interior kit. Bright, error-free, plug-and-play bulbs for dome, map, door, trunk, and more.
+  Updated: 2026-09-18T21:12:46Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Compass_07-17_9PC__0PCS.jpg?v=1784899287
-  - [ice blue](https://autoglowled.top/products/for-jeep-compass-07-17-9pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704186777757)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ba984570-c11c-4c82-b278-64239cd3f1cf.jpg?v=1789066925
+  - [Red](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-insight-2009-2015?variant=48867921559709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_ee228f11-1ec1-42d6-bd6b-224c147d3991.jpg?v=1784899314
-    Price: $17.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-compass-07-17-9pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704186810525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f0f1df3b-825e-41fc-91ab-1ac6fb00bb1e.jpg?v=1784899326
-    Price: $17.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-compass-07-17-9pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704186876061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7d7de55d-13dd-4b78-972f-e8120782b550.jpg?v=1784899317
-    Price: $17.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-compass-07-17-9pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704186908829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_24b6768a-bcfc-4447-9f51-f2dcd61f59ad.jpg?v=1784899318
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c89ba5f0-2371-405f-a452-93b51e1bd9d4.jpg?v=1789057393
     Price: $20.99 USD
-- [For Mercedes-Benz CLS W218 2011-2017 21PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-cls-w218-2011-2017-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLS W218 - 21PCS  with 21-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:26Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLS_W218_-_21PCS__21PCS.jpg?v=1784899293
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-cls-w218-2011-2017-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704188547229)
+  - [WHITE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-insight-2009-2015?variant=48867921625245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_7178c3dc-fd44-4d2f-b706-1be4c31db061.jpg?v=1784899313
-    Price: $48.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-cls-w218-2011-2017-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704188579997)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_685c11a8-1577-4571-8c8b-5a70cd86f0c5.jpg?v=1789033499
+    Price: $20.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-insight-2009-2015?variant=48867921658013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0e60931f-a6eb-48d4-94e7-cc801cdf6c75.jpg?v=1784899331
-    Price: $47.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-cls-w218-2011-2017-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704188612765)
-    Availability: Available
-    Price: $50.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-cls-w218-2011-2017-21pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704188645533)
-    Availability: Available
-    Price: $49.99 USD
-- [For Volkswagen Sharan 2001-2010 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-sharan-2001-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen Sharan 2001-2010 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:28Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_8893e89f-a3bd-4ae5-8344-12afa65b287b.jpg?v=1784899315
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-sharan-2001-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704194216093)
-    Availability: Available
-    Price: $41.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-sharan-2001-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704194248861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1f6be2e3-c593-4f73-b114-023dcc85bf60.jpg?v=1784899356
-    Price: $41.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-sharan-2001-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704194281629)
-    Availability: Available
-    Price: $41.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-sharan-2001-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704194314397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_20bc36b7-5433-45b7-b680-75d21f6cd2c5.jpg?v=1784899358
-    Price: $41.99 USD
-- [For Infiniti QX56 2004-2010 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-qx56-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti QX56 2004-2010 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:31Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_QX56_2004-2010_0PCS.jpg?v=1784899319
-  - [purple](https://autoglowled.top/products/for-infiniti-qx56-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704199065757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_315c4f88-1929-4c61-b524-5736059dcea3.jpg?v=1784899355
-    Price: $49.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-qx56-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704199098525)
-    Availability: Available
-    Price: $49.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-qx56-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704199131293)
-    Availability: Available
-    Price: $22.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-qx56-2004-2010-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704199164061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_71b3a653-f330-46fd-9a56-4b571c3817ec.jpg?v=1784899353
-    Price: $22.99 USD
-- [For Infiniti 2009-2013 16PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-2009-2013-16pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Infiniti (2009-2013) 16PCS  with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:33Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti__2009-2013__16PCS__16PCS.jpg?v=1784899346
-  - [white](https://autoglowled.top/products/for-infiniti-2009-2013-16pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704200769693)
-    Availability: Available
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-2009-2013-16pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704200802461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_d94afd0c-2dec-4234-ba7e-7c1923e96335.jpg?v=1784899387
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-2009-2013-16pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704200835229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_6295847b-e3d2-4180-928c-558e1a50d6f5.jpg?v=1784899398
-    Price: $48.99 USD
-  - [purple](https://autoglowled.top/products/for-infiniti-2009-2013-16pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704200867997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_3f64a381-8979-4ffc-9e12-08f5cd672d91.jpg?v=1784899393
-    Price: $49.99 USD
-- [For Volkswagen G7 2016-2023 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-g7-2016-2023-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen G7 (2016-2023) 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:35Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_G7__2016-2023__13PCS__13PCS.jpg?v=1784899357
-  - [purple](https://autoglowled.top/products/for-volkswagen-g7-2016-2023-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704209125533)
-    Availability: Available
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-g7-2016-2023-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704209158301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_da054616-9cd1-43fb-b81e-b4cb02da5ad2.jpg?v=1784899395
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-g7-2016-2023-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704209191069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_99a0df14-21f8-4acd-8c7f-fac6df434aa1.jpg?v=1784899385
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-g7-2016-2023-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704209223837)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_121fd542-d964-4cd9-b408-1aece5a36b44.jpg?v=1789057389
     Price: $23.99 USD
-- [For Mercedes-Benz CLA C117 2013-2019 13PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-cla-c117-2013-2019-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLA C117 - 13PCS  with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:37Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLA_C117_-_13PCS__13PCS.jpg?v=1784899413
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-cla-c117-2013-2019-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704241565853)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-11pcs-led-interior-light-kit-honda-insight-2009-2015?variant=48867921690781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_96296df7-cafc-4b7f-b55e-f7cb0eda9398.jpg?v=1784899437
-    Price: $19.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-cla-c117-2013-2019-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704241598621)
-    Availability: Available
-    Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-cla-c117-2013-2019-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704241631389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7df9d375-dfde-47e1-8515-0a0da4d20f18.jpg?v=1784899439
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-cla-c117-2013-2019-13pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704241664157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3c74e1e6-2d33-4ed1-bcc2-9481712feaf9.jpg?v=1784899444
-    Price: $20.99 USD
-- [For Jeep Commander 06-10 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-commander-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Commander 06-10 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:39Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Commander_06-10_14PC__0PCS.jpg?v=1784899438
-  - [white](https://autoglowled.top/products/for-jeep-commander-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704242319517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b1d8e8fc-0349-47c2-a64e-7b50d92f06c5.jpg?v=1784899488
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_66adabe1-68f2-4b42-943f-046ca428ea9e.jpg?v=1789033495
     Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-commander-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704242352285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c7df5e3d-9d67-4067-a7a8-8ddb0a01aad8.jpg?v=1784899481
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-commander-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704242385053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c05abf36-3ac4-4175-ad16-12745963f033.jpg?v=1784899483
-    Price: $47.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jeep-commander-06-10-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704242417821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_a3e30a41-bf57-4af1-b6b3-0029d170b811.jpg?v=1784899479
-    Price: $22.99 USD
-- [For Infiniti QX30 2015-2020 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-infiniti-qx30-2015-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Infiniti QX30 2015-2020 with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:40Z
+- [LED Interior Light Kit BMW 5 Series E39 1995-2003](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003): AutoGlowLED complete LED interior light kit for BMW 5 Series E39 Sedan/Touring 1995-2003. 21-22 bulbs, plug-and-play, 5000K or 6000K, error-free.
+  Updated: 2026-09-18T21:12:45Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Infiniti_QX30_2015-2020_0PCS.jpg?v=1784899452
-  - [purple](https://autoglowled.top/products/for-infiniti-qx30-2015-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243073181)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_dd7acf4a-00af-403c-86fb-02420bef35dc.jpg?v=1789066934
+  - [E39 Sedan - 21PCS / PURPLE](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389126301)
     Availability: Available
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-infiniti-qx30-2015-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243105949)
-    Availability: Available
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-infiniti-qx30-2015-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243138717)
-    Availability: Available
-    Price: $17.99 USD
-  - [ice blue](https://autoglowled.top/products/for-infiniti-qx30-2015-2020-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243171485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_2f2896cd-0a06-4f41-a491-2be130cfa556.jpg?v=1784899486
-    Price: $20.99 USD
-- [For Mercedes-Benz S-Class W220 1999-2005 LED Interior Light Kit 24PCS Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-s-class-w220-1999-2005-led-interior-light-kit-24pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz S-class W220  24PCS  with 24-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:43Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_S-class_W220__24PCS__24PCS.jpg?v=1784899460
-  - [white](https://autoglowled.top/products/for-mercedes-benz-s-class-w220-1999-2005-led-interior-light-kit-24pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243204253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6aa51b49-6180-40b9-8b06-a0b1238eacc3.jpg?v=1784899500
-    Price: $40.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-s-class-w220-1999-2005-led-interior-light-kit-24pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243237021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_579abcb1-5ac6-4511-a595-d2ceb057293d.jpg?v=1784899490
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_554a5e7f-e780-472f-b42d-112e9dd7b2b8.jpg?v=1789033500
     Price: $41.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-s-class-w220-1999-2005-led-interior-light-kit-24pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243269789)
+  - [E39 Sedan - 21PCS / Red](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389159069)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ebd1c629-db9c-4479-b169-97ce61b9f6e5.jpg?v=1784899492
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2900550e-326a-41d7-8c84-889e4387a823.jpg?v=1789057394
     Price: $41.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-s-class-w220-1999-2005-led-interior-light-kit-24pcs-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704243302557)
+  - [E39 Sedan - 21PCS / WHITE](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389191837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_9f838fd2-bb88-44f2-a279-82ba24e5c2dc.jpg?v=1784899488
-    Price: $40.99 USD
-- [For Volvo MK1 (1996-1999) 13PC LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-mk1-1996-1999-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Volvo MK1 (1996-1999) 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:44Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo_MK1__1996-1999__13PC__0PCS.jpg?v=1784899496
-  - [white](https://autoglowled.top/products/for-volvo-mk1-1996-1999-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704243466397)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a7d767a9-700e-4309-bd29-435b40c5081d.jpg?v=1789033503
+    Price: $41.99 USD
+  - [E39 Sedan - 21PCS / YELLOW](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389224605)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_495e4e1c-c6e0-4bd6-b1d9-4fddc1796dbc.jpg?v=1784899537
-    Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-mk1-1996-1999-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704243499165)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_63d74077-f2bc-424a-ad41-30989d182aa0.jpg?v=1789057390
+    Price: $41.99 USD
+  - [E39 Touring - 22PCS / PURPLE](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389257373)
     Availability: Available
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-mk1-1996-1999-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704243531933)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_554a5e7f-e780-472f-b42d-112e9dd7b2b8.jpg?v=1789033500
+    Price: $41.99 USD
+  - [E39 Touring - 22PCS / Red](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389290141)
     Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-mk1-1996-1999-13pc-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704243564701)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2900550e-326a-41d7-8c84-889e4387a823.jpg?v=1789057394
+    Price: $39.99 USD
+  - [E39 Touring - 22PCS / WHITE](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389322909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_51d4109c-58b5-4c51-b07f-0779c77d8005.jpg?v=1784899527
-    Price: $22.99 USD
-- [For Skoda Sedan 2010-2024 20PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-skoda-sedan-2010-2024-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Skoda Sedan - 20PCS  with 20-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:46Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Skoda_Sedan_-_20PCS__20PCS.jpg?v=1784899506
-  - [white](https://autoglowled.top/products/for-skoda-sedan-2010-2024-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704245694621)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a7d767a9-700e-4309-bd29-435b40c5081d.jpg?v=1789033503
+    Price: $41.99 USD
+  - [E39 Touring - 22PCS / YELLOW](https://autoglowled.top/products/autoglowled-complete-led-interior-light-kit-bmw-5-series-e39-1995-2003?variant=48868389355677)
     Availability: Available
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-skoda-sedan-2010-2024-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704245727389)
-    Availability: Available
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-skoda-sedan-2010-2024-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704245760157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_135023d0-44c7-45b1-985d-a3038befb1d7.jpg?v=1784899540
-    Price: $40.99 USD
-  - [purple](https://autoglowled.top/products/for-skoda-sedan-2010-2024-20pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704245792925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_96ccc1f1-734f-4210-92bc-da9657a877d3.jpg?v=1784899535
-    Price: $40.99 USD
-- [For Peugeot 207 MK1 2007-2013 14PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-peugeot-207-mk1-2007-2013-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Peugeot MK1 (2007-2013) 14PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:48Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Peugeot_MK1__2007-2013__14PC__0PCS.jpg?v=1784899509
-  - [purple](https://autoglowled.top/products/for-peugeot-207-mk1-2007-2013-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704245858461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d6a54d23-b1ef-421b-8e4d-e3078c9104ef.jpg?v=1784899554
-    Price: $24.99 USD
-  - [warm white](https://autoglowled.top/products/for-peugeot-207-mk1-2007-2013-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704245891229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_b798fd45-e610-4657-b0ca-c938f5e4826a.jpg?v=1784899559
-    Price: $24.99 USD
-  - [ice blue](https://autoglowled.top/products/for-peugeot-207-mk1-2007-2013-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704245923997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_3df50235-20b8-4fe9-b44d-0009549dcb61.jpg?v=1784899551
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-peugeot-207-mk1-2007-2013-14pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704245956765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3f268844-bbe0-4a1f-a78a-38352377e2a4.jpg?v=1784899561
-    Price: $20.99 USD
-- [For Mercedes-Benz CLK W208 1997-2003 12PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-clk-w208-1997-2003-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLK W208 - 12PCS  with 12-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:49Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLK_W208_-_12PCS__12PCS.jpg?v=1784899534
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-clk-w208-1997-2003-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247333021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_fe98db1c-886f-431a-a42c-aade247a31ea.jpg?v=1784899570
-    Price: $18.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-clk-w208-1997-2003-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247365789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_70401817-289c-4d62-bef1-0309950059a3.jpg?v=1784899580
-    Price: $18.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-clk-w208-1997-2003-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247398557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7313fdb5-4e2c-45a2-871f-142016ae0d72.jpg?v=1784899575
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-clk-w208-1997-2003-12pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247431325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_a86bfe6e-2a9d-46ae-9c4e-68f1b6e0c795.jpg?v=1784899578
-    Price: $20.99 USD
-- [For Jeep Commander 21-23 16PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-commander-21-23-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Commander 21-23 16PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:51Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Commander_21-23_16PC__0PCS.jpg?v=1784899569
-  - [white](https://autoglowled.top/products/for-jeep-commander-21-23-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247726237)
-    Availability: Available
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-commander-21-23-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247759005)
-    Availability: Available
-    Price: $48.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-commander-21-23-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247791773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ce4e2f9b-8b74-492a-8e02-0489f27bdae9.jpg?v=1784899601
-    Price: $48.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jeep-commander-21-23-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704247824541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_1859c5a1-c3a0-4f29-b75f-049ce1fc05ed.jpg?v=1784899591
-    Price: $23.99 USD
-- [For BMW E91 Touring 2005-2012 17PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e91-touring-2005-2012-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your BMW E91 Touring - 17PCS  with 17-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:53Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_E91_Touring_-_17PCS__17PCS_11895187-7135-4d86-aa65-7c75ead41dcf.jpg?v=1784899590
-  - [purple](https://autoglowled.top/products/for-bmw-e91-touring-2005-2012-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704248119453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_cd30c484-87c9-4ab4-a673-c5f88916ea2b.jpg?v=1784899621
-    Price: $40.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-e91-touring-2005-2012-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704248152221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_8d7a82aa-b736-450d-b672-17292a88dfbc.jpg?v=1784899626
-    Price: $40.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-e91-touring-2005-2012-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704248184989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_c72d9220-35df-46e0-819b-4fb2e131dd98.jpg?v=1784899619
-    Price: $24.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e91-touring-2005-2012-17pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704248217757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c72c4d5e-c186-44d4-8e6f-4b0ea2f1279f.jpg?v=1784899629
-    Price: $24.99 USD
-- [For Volvo MK2 2000-2007 16PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-mk2-2000-2007-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volvo MK2 (2000-2007) 16PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:54Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_af9762b8-9c39-4a7d-aa89-649e93d6f067.jpg?v=1784899633
-  - [ice blue](https://autoglowled.top/products/for-volvo-mk2-2000-2007-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248414365)
-    Availability: Available
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-volvo-mk2-2000-2007-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248447133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c0ed946b-5149-4130-87d7-33e8342f6593.jpg?v=1784899676
-    Price: $22.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-mk2-2000-2007-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248479901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_da147d33-2024-407a-9079-565fd1beeb41.jpg?v=1784899671
-    Price: $50.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-mk2-2000-2007-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248512669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bcc0b273-a851-439c-87ea-b26c2f056a8d.jpg?v=1784899663
-    Price: $51.99 USD
-- [For Jaguar XK 2096-2005 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jaguar-xk-2096-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jaguar XK 2096-2005 with 13-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:56Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jaguar_XK_2096-2005_13PCS.jpg?v=1784899637
-  - [warm white](https://autoglowled.top/products/for-jaguar-xk-2096-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248643741)
-    Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-jaguar-xk-2096-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248676509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bb50513e-53f3-4cde-ba0b-f0e014c9ac84.jpg?v=1784899665
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jaguar-xk-2096-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248709277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_0c79f3da-692e-48ef-a67c-d803dded61ca.jpg?v=1784899663
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-jaguar-xk-2096-2005-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704248742045)
-    Availability: Available
-    Price: $18.99 USD
-- [For Volkswagen IV (2016-2019) 11PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-iv-2016-2019-11pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen IV (2016-2019) 11PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:58Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_IV__2016-2019__11PC__0PCS.jpg?v=1784899642
-  - [purple](https://autoglowled.top/products/for-volkswagen-iv-2016-2019-11pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704258015389)
-    Availability: Available
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-volkswagen-iv-2016-2019-11pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704258048157)
-    Availability: Available
-    Price: $20.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-iv-2016-2019-11pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704258080925)
-    Availability: Available
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-iv-2016-2019-11pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704258113693)
-    Availability: Available
-    Price: $22.99 USD
-- [For Mercedes-Benz CLK A208 1997-2003 10PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-clk-a208-1997-2003-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLK A208 - 10PCS  with 10-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:15:59Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_CLK_A208_-_10PCS__10PCS.jpg?v=1784899667
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-clk-a208-1997-2003-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268075165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_ab804ac8-a523-4e86-bfd7-f55741c656be.jpg?v=1784899693
-    Price: $16.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-clk-a208-1997-2003-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268107933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e5917b47-b888-4de5-a555-0bcafbeaa8f0.jpg?v=1784899705
-    Price: $16.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-clk-a208-1997-2003-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268140701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_41647946-3109-42ce-b146-5cb86ba56f4d.jpg?v=1784899695
-    Price: $18.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-clk-a208-1997-2003-10pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268173469)
-    Availability: Available
-    Price: $18.99 USD
-- [For Jeep Grand Cherokee 93-98 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-grand-cherokee-93-98-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Grand Cherokee 93-98  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:01Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Grand_Cherokee_93-98__0PCS.jpg?v=1784899669
-  - [ice blue](https://autoglowled.top/products/for-jeep-grand-cherokee-93-98-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268271773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_f3f1be1f-f453-40d2-892f-ed310427e3dd.jpg?v=1784899704
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-grand-cherokee-93-98-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268304541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_75151851-d121-4724-8597-a58f5f1c2d41.jpg?v=1784899719
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-grand-cherokee-93-98-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268337309)
-    Availability: Available
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-grand-cherokee-93-98-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268370077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_de93098f-b13c-47dd-bc5b-525349621db5.jpg?v=1784899714
-    Price: $46.99 USD
-- [For Mercedes-Benz S-Class W221 2006-2013 27PCS LED Interior Light Kit Dome Map Trunk Footwell Door Canbus Error Free | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-s-class-w221-2006-2013-27pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled): Upgrade your Mercedes-Benz S-class W221 27PCS  with 27-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:03Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Mercedes-Benz_S-class_W221_27PCS__27PCS.jpg?v=1784899678
-  - [white](https://autoglowled.top/products/for-mercedes-benz-s-class-w221-2006-2013-27pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704268402845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c398414b-29c0-4a20-bfbf-bb0ffe2dc280.jpg?v=1784899718
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_63d74077-f2bc-424a-ad41-30989d182aa0.jpg?v=1789057390
     Price: $42.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-s-class-w221-2006-2013-27pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704268435613)
+- [AutoGlowLED LED Interior Light Kit Mercedes CL C140 1992-1998](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-mercedes-cl-c140-1992-1998): Upgrade your Mercedes CL C140 (1992-1998) with AutoGlowLED 17pc LED interior kit. Bright, error-free, plug-and-play bulbs for dome, door, trunk, and plate lights.
+  Updated: 2026-09-18T21:12:50Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_e3325319-5286-45d8-a111-0ee0c9bae772.jpg?v=1789066942
+  - [PURPLE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-mercedes-cl-c140-1992-1998?variant=48867933913245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b7522cbc-a42a-4558-93a4-dd4db60a4614.jpg?v=1784899711
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_4c28c564-8a97-474a-be27-91187ef01dae.jpg?v=1789033501
     Price: $46.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-s-class-w221-2006-2013-27pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704268468381)
+  - [YELLOW](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-mercedes-cl-c140-1992-1998?variant=48867933946013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f2e72f39-2635-4758-9b35-5ee2c28d9e6f.jpg?v=1784899716
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_25e0b1df-9cf7-4239-bc1a-cb92f75fd13c.jpg?v=1789057403
     Price: $46.99 USD
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-s-class-w221-2006-2013-27pcs-led-interior-light-kit-dome-map-trunk-footwell-door-canbus-error-free-autoglowled?variant=48704268501149)
+  - [WHITE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-mercedes-cl-c140-1992-1998?variant=48867933978781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_ff896a03-5b2c-4b9d-a5d1-237eee0921e1.jpg?v=1784899709
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_fa4e022d-033e-4d99-9044-d3e3ea49e290.jpg?v=1789033505
+    Price: $21.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-mercedes-cl-c140-1992-1998?variant=48867934011549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3faf6bc7-01f7-4dfe-9131-b7f9d11db815.jpg?v=1789057407
+    Price: $20.99 USD
+- [AutoGlowLED LED Interior Light Kit BMW 7 Series E38](https://autoglowled.top/products/autoglowled-26pcs-led-interior-light-kit-bmw-7-series-e38): Upgrade your BMW 7 Series E38 (1995-2001) with AutoGlowLED 26pc LED interior kit. Canbus error-free, plug-and-play, bright 50,000-hour bulbs. Shop now!
+  Updated: 2026-09-18T21:12:48Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5b058a00-5400-4230-bb3e-8a8934090674.jpg?v=1789066942
+  - [PURPLE](https://autoglowled.top/products/autoglowled-26pcs-led-interior-light-kit-bmw-7-series-e38?variant=48867948626077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b9fc1392-4abb-4865-9360-f2bc9b1c174b.jpg?v=1789033515
     Price: $42.99 USD
-- [For Suzuki Swift 2004-2009 8PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-suzuki-swift-2004-2009-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Suzuki (2004-2009) 8PCS  with 8-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:05Z
+  - [YELLOW](https://autoglowled.top/products/autoglowled-26pcs-led-interior-light-kit-bmw-7-series-e38?variant=48867948658845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_c789bd85-009c-4201-b47b-ce5a43073dee.jpg?v=1789057405
+    Price: $41.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-26pcs-led-interior-light-kit-bmw-7-series-e38?variant=48867948691613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_761badee-76a5-44c9-b22e-8bd0846a0932.jpg?v=1789033520
+    Price: $39.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-26pcs-led-interior-light-kit-bmw-7-series-e38?variant=48867948724381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4f426598-1db4-443f-8f05-089b457ea90e.jpg?v=1789057409
+    Price: $39.99 USD
+- [AutoGlowLED LED Interior Light Kit for Fiat Punto](https://autoglowled.top/products/autoglowled-11pcs-canbus-led-interior-light-kit-fiat-punto-grande-punto-evo): Bright 11pc Canbus LED interior kit for Fiat Punto, Grande Punto, EVO 2/3 (2000-2017). Error-free, plug-and-play, 50,000-hr life. No errors, no mods.
+  Updated: 2026-09-18T21:12:53Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_11ea2add-16cd-4885-ae10-c3b8e430acbe.jpg?v=1784899715
-  - [warm white](https://autoglowled.top/products/for-suzuki-swift-2004-2009-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268664989)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_48cc60b6-4176-4798-abe5-67d25cb55756.jpg?v=1789066974
+  - [Red](https://autoglowled.top/products/autoglowled-11pcs-canbus-led-interior-light-kit-fiat-punto-grande-punto-evo?variant=48867959701661)
     Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-suzuki-swift-2004-2009-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268697757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_d44e6f7e-c8dd-4e1d-a34c-addf97e0637b.jpg?v=1784899748
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-suzuki-swift-2004-2009-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268730525)
-    Availability: Available
-    Price: $18.99 USD
-  - [ice blue](https://autoglowled.top/products/for-suzuki-swift-2004-2009-8pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268763293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_8700ef37-c236-4374-bced-1f73e1275eb0.jpg?v=1784899743
-    Price: $18.99 USD
-- [For Volkswagen III (2004-2015) 13PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volkswagen-iii-2004-2015-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volkswagen III (2004-2015) 13PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:07Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volkswagen_III__2004-2015__13PC__0PCS.jpg?v=1784899755
-  - [white](https://autoglowled.top/products/for-volkswagen-iii-2004-2015-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268959901)
-    Availability: Available
-    Price: $21.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volkswagen-iii-2004-2015-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704268992669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_e5404017-038a-4aaf-a295-0e384d7b1dbc.jpg?v=1784899786
-    Price: $22.99 USD
-  - [purple](https://autoglowled.top/products/for-volkswagen-iii-2004-2015-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269025437)
-    Availability: Available
-    Price: $23.99 USD
-  - [warm white](https://autoglowled.top/products/for-volkswagen-iii-2004-2015-13pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269058205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3c602c7d-43b3-4abe-a958-819f2da6d493.jpg?v=1784899793
-    Price: $23.99 USD
-- [For Volvo MK3 (2008-2016) 16PC LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-volvo-mk3-2008-2016-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Volvo MK3 (2008-2016) 16PC  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:09Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Volvo_MK3__2008-2016__16PC__0PCS.jpg?v=1784899770
-  - [white](https://autoglowled.top/products/for-volvo-mk3-2008-2016-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269090973)
-    Availability: Available
-    Price: $21.99 USD
-  - [warm white](https://autoglowled.top/products/for-volvo-mk3-2008-2016-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269123741)
-    Availability: Available
-    Price: $50.99 USD
-  - [ice blue](https://autoglowled.top/products/for-volvo-mk3-2008-2016-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269156509)
-    Availability: Available
-    Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-volvo-mk3-2008-2016-16pc-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269189277)
-    Availability: Available
-    Price: $51.99 USD
-- [For Jaguar XJ 2010-2015 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door Lights | AUTOGLOWLED](https://autoglowled.top/products/for-jaguar-xj-2010-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled): Upgrade your Jaguar XJ 2010-2015 with 16-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:11Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jaguar_XJ_2010-2015_16PCS.jpg?v=1784899769
-  - [warm white](https://autoglowled.top/products/for-jaguar-xj-2010-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704269222045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_87fe07e4-b2f9-483a-b0b4-68e3c86cce30.jpg?v=1784899814
-    Price: $43.99 USD
-  - [purple](https://autoglowled.top/products/for-jaguar-xj-2010-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704269254813)
-    Availability: Available
-    Price: $45.99 USD
-  - [ice blue](https://autoglowled.top/products/for-jaguar-xj-2010-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704269287581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_b7f28b83-ec7e-4e22-8d7e-e51c74655762.jpg?v=1784899802
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-jaguar-xj-2010-2015-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-lights-autoglowled?variant=48704269320349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_81ad63df-6a98-4c77-ba43-7a1f792b2526.jpg?v=1784899819
-    Price: $20.99 USD
-- [For Mercedes-Benz CLK W209 2002-2009 14PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-mercedes-benz-clk-w209-2002-2009-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Mercedes-Benz CLK W209 - 14PCS  with 14-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:13Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/02_dd44ed57-5274-4cc2-a029-ce52d3f61710.jpg?v=1784899792
-  - [ice blue](https://autoglowled.top/products/for-mercedes-benz-clk-w209-2002-2009-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269484189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_85a6e2f9-4581-4991-885b-c1570485f4bc.jpg?v=1784899814
-    Price: $20.99 USD
-  - [white](https://autoglowled.top/products/for-mercedes-benz-clk-w209-2002-2009-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269516957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_a26618dd-33a9-47ff-8a3e-6083733d84ed.jpg?v=1784899821
-    Price: $19.99 USD
-  - [purple](https://autoglowled.top/products/for-mercedes-benz-clk-w209-2002-2009-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269549725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_b676888a-ac1e-4b3a-a726-fe6092745efa.jpg?v=1784899816
-    Price: $45.99 USD
-  - [warm white](https://autoglowled.top/products/for-mercedes-benz-clk-w209-2002-2009-14pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704269582493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_2b290ebc-cdf2-43d3-88bd-bd5bf6d13d4a.jpg?v=1784899819
-    Price: $45.99 USD
-- [For Jeep Grand Cherokee 99-04 LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-jeep-grand-cherokee-99-04-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Jeep Grand Cherokee 99-04  with 0-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:14Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Jeep_Grand_Cherokee_99-04__0PCS.jpg?v=1784899806
-  - [ice blue](https://autoglowled.top/products/for-jeep-grand-cherokee-99-04-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270008477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_89c2747e-2c1b-441c-9125-67ab8e19e6d0.jpg?v=1784899854
-    Price: $22.99 USD
-  - [white](https://autoglowled.top/products/for-jeep-grand-cherokee-99-04-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270041245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1d8fe1a4-1bd1-4dd8-a5c8-86904b5c29ad.jpg?v=1784899863
-    Price: $20.99 USD
-  - [purple](https://autoglowled.top/products/for-jeep-grand-cherokee-99-04-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270074013)
-    Availability: Available
-    Price: $47.99 USD
-  - [warm white](https://autoglowled.top/products/for-jeep-grand-cherokee-99-04-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270106781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_aff334f7-ecbe-40e5-a39f-b33c53cba87f.jpg?v=1784899861
-    Price: $47.99 USD
-- [For BMW E39 Sedan 1995-2003 19PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW E39 sedan - 19PCS  with 19-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:16Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_E39_sedan_-_19PCS__19PCS_c040368e-2371-42e3-8145-12b8fbcd416d.jpg?v=1784899852
-  - [warm white](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270205085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_70b3e114-7b37-4e1c-bd95-ccab322ec308.jpg?v=1784899892
-    Price: $49.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270237853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_14cea708-3153-43bc-9f3f-ce747b54472a.jpg?v=1784899885
-    Price: $48.99 USD
-  - [purple](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270270621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_79e91f9a-07c1-48bf-ab34-54cefe3725e4.jpg?v=1784899887
-    Price: $49.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-e39-sedan-1995-2003-19pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270303389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_0a57e723-e392-4abd-9b71-2f280b4bb541.jpg?v=1784899900
-    Price: $47.99 USD
-- [For BMW F20 F21 2011-2019 7PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your BMW F20 F21 - 7PCS  with 7-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:18Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/BMW_F20_F21_-_7PCS__7PCS.jpg?v=1784899857
-  - [purple](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270336157)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d3ba138b-0194-4321-92ee-1394cf139494.jpg?v=1789057415
     Price: $16.99 USD
-  - [warm white](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270368925)
+  - [WHITE](https://autoglowled.top/products/autoglowled-11pcs-canbus-led-interior-light-kit-fiat-punto-grande-punto-evo?variant=48867959734429)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_34de719e-b4c8-44ce-bf16-a277f4237df2.jpg?v=1789033523
     Price: $16.99 USD
-  - [ice blue](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270401693)
+  - [YELLOW](https://autoglowled.top/products/autoglowled-11pcs-canbus-led-interior-light-kit-fiat-punto-grande-punto-evo?variant=48867959767197)
     Availability: Available
-    Price: $14.99 USD
-  - [white](https://autoglowled.top/products/for-bmw-f20-f21-2011-2019-7pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270434461)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_1c8792e7-d283-4c4c-be0a-646bf95d2e92.jpg?v=1789057411
+    Price: $18.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-11pcs-canbus-led-interior-light-kit-fiat-punto-grande-punto-evo?variant=48867959799965)
     Availability: Available
-    Price: $14.99 USD
-- [For Suzuki (2017-2024) 9PCS LED Interior Light Kit Canbus Error Free Dome Map Trunk Footwell Door | AUTOGLOWLED](https://autoglowled.top/products/for-suzuki-2017-2024-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled): Upgrade your Suzuki (2017-2024) 9PCS  with 9-piece LED interior light kit. Canbus error free, plug and play, 6000K white.
-  Updated: 2026-08-22T06:16:20Z
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5792ef28-9a12-466e-97f8-9a12c4a0e239.jpg?v=1789033519
+    Price: $18.99 USD
+- [LED Interior Light Kit for Fiat Fiorino Qubo 2007-2023](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023): Upgrade your Fiat Fiorino/Qubo with AutoGlowLED Canbus LED interior light kit. Plug-and-play, error-free, 50,000-hour lifespan. Fits 2007-2023 models.
+  Updated: 2026-09-18T21:12:58Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/Suzuki__2017-2024__9PCS__9PCS.jpg?v=1784899865
-  - [ice blue](https://autoglowled.top/products/for-suzuki-2017-2024-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270467229)
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_4f3fa986-9e05-4c84-b0b9-cc6e3e23a5cb.jpg?v=1789066987
+  - [(2007-2013) 8PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389617821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/ice_blue_8f9060c5-3dbc-41f2-82b6-e8f06d62b4ce.jpg?v=1784899890
-    Price: $20.99 USD
-  - [warm white](https://autoglowled.top/products/for-suzuki-2017-2024-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270499997)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6bc431dd-28d3-42be-a1ab-7a49d8c5956a.jpg?v=1789033520
+    Price: $16.99 USD
+  - [(2007-2013) 8PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389650589)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61bcd6d8-0193-4a96-b2ad-33a6ad3d0405.jpg?v=1789057417
+    Price: $14.99 USD
+  - [(2007-2013) 8PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389683357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6e8caf46-4c14-49e2-b74e-2fae84bf8c59.jpg?v=1789033524
+    Price: $15.99 USD
+  - [(2007-2013) 8PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389716125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f37e8aa4-fbad-4c78-9979-c2da550286cc.jpg?v=1789057413
+    Price: $16.99 USD
+  - [(2014-2023) 8PCS / PURPLE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389748893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_6bc431dd-28d3-42be-a1ab-7a49d8c5956a.jpg?v=1789033520
+    Price: $16.99 USD
+  - [(2014-2023) 8PCS / Red](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389781661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61bcd6d8-0193-4a96-b2ad-33a6ad3d0405.jpg?v=1789057417
+    Price: $14.99 USD
+  - [(2014-2023) 8PCS / WHITE](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389814429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6e8caf46-4c14-49e2-b74e-2fae84bf8c59.jpg?v=1789033524
+    Price: $15.99 USD
+  - [(2014-2023) 8PCS / YELLOW](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-fiat-fiorino-qubo-2007-2023?variant=48868389847197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_f37e8aa4-fbad-4c78-9979-c2da550286cc.jpg?v=1789057413
+    Price: $16.99 USD
+- [AutoGlowLED 16-Piece LED Interior Light Kit Bentley 2006-2015](https://autoglowled.top/products/autoglowled-16-piece-led-interior-light-kit-bentley-continental-gt-2006-2015): Upgrade your Bentley Continental GT (2006-2015) with AutoGlowLED 16-piece LED interior light kit. Bright, error-free, and plug-and-play for dome, map, trunk, and more.
+  Updated: 2026-09-18T21:12:50Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_68b22b76-3ab8-43d5-899c-0187241f08fe.jpg?v=1789066992
+  - [WHITE](https://autoglowled.top/products/autoglowled-16-piece-led-interior-light-kit-bentley-continental-gt-2006-2015?variant=48867987947677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_c1f3362f-0a32-44dd-88fb-df9dcbdf0c0c.jpg?v=1789033528
     Price: $21.99 USD
-  - [purple](https://autoglowled.top/products/for-suzuki-2017-2024-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270532765)
+  - [Red](https://autoglowled.top/products/autoglowled-16-piece-led-interior-light-kit-bentley-continental-gt-2006-2015?variant=48867987980445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_4ce7dc2d-b6e4-45a4-ab13-04e3ff0eef30.jpg?v=1784899892
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_61fc6b70-8c56-4c6c-b915-5b093169c766.jpg?v=1789057425
     Price: $21.99 USD
-  - [white](https://autoglowled.top/products/for-suzuki-2017-2024-9pcs-led-interior-light-kit-canbus-error-free-dome-map-trunk-footwell-door-autoglowled?variant=48704270565533)
+  - [PURPLE](https://autoglowled.top/products/autoglowled-16-piece-led-interior-light-kit-bentley-continental-gt-2006-2015?variant=48867988013213)
     Availability: Available
-    Price: $19.99 USD
-[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDAxNjY5NDkyODkzLCJsYXN0X3ZhbHVlIjoiOTAwMTY2OTQ5Mjg5MyJ9)
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_c4c2497d-ec97-4d55-91f5-510ab2cdeb6a.jpg?v=1789033524
+    Price: $37.99 USD
+  - [YELLOW](https://autoglowled.top/products/autoglowled-16-piece-led-interior-light-kit-bentley-continental-gt-2006-2015?variant=48867988045981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_28d10938-e321-4a6f-897a-f3cb57308f36.jpg?v=1789057420
+    Price: $37.99 USD
+- [17Pcs LED Interior Light Kit for Ford Transit 2013-2021](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-ford-transit-custom-tourneo-2013-2021): Upgrade your Ford Transit/Tourneo (2013-2021) with a 17-piece LED interior light kit – bright, Canbus error-free, plug-and-play, 50,000-hour lifespan.
+  Updated: 2026-09-18T21:12:53Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_ab257520-ece4-4fa0-bbb3-80d0c31ea624.jpg?v=1789067000
+  - [YELLOW](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-ford-transit-custom-tourneo-2013-2021?variant=48868000071837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_ca361ee4-1893-4dd8-8520-078215dccf32.jpg?v=1789057424
+    Price: $47.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-ford-transit-custom-tourneo-2013-2021?variant=48868000104605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6e7df3c1-4565-4512-9642-24fb4f67f1eb.jpg?v=1789033535
+    Price: $21.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-ford-transit-custom-tourneo-2013-2021?variant=48868000137373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_3351abc3-4651-4d35-bcfa-13588833d236.jpg?v=1789033530
+    Price: $47.99 USD
+  - [Red](https://autoglowled.top/products/autoglowled-17pcs-led-interior-light-kit-ford-transit-custom-tourneo-2013-2021?variant=48868000170141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_958e17ad-017a-4eb4-b62c-59402fd6437e.jpg?v=1789057428
+    Price: $22.99 USD
+- [AutoGlowLED LED Interior Light Kit for Peugeot 308 2007-2013](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-peugeot-308-2007-2013): Upgrade your Peugeot 308 with AutoGlowLED 18-piece LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk, and more. Fits 2007-2013.
+  Updated: 2026-09-18T21:12:54Z
+  Vendor: AutoGlowLED
+  Product Type: LED Interior Light Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_1374258c-9971-4a22-ab5a-3107678b9307.jpg?v=1789067002
+  - [Red](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-peugeot-308-2007-2013?variant=48868014096541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ecbe6777-b5ac-4bf1-8e19-0f0252f5076a.jpg?v=1789057428
+    Price: $17.99 USD
+  - [WHITE](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-peugeot-308-2007-2013?variant=48868014129309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_bb82170b-7813-4bb2-9c5e-d006ed462064.jpg?v=1789033548
+    Price: $18.99 USD
+  - [Warm White](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-peugeot-308-2007-2013?variant=48868014162077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_d624e3f0-cef6-4bc4-948f-874331fff5cf.jpg?v=1789033544
+    Price: $44.99 USD
+  - [PURPLE](https://autoglowled.top/products/autoglowled-18pcs-led-interior-light-kit-peugeot-308-2007-2013?variant=48868014194845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_099bf663-4249-4aa9-9fac-eda11fbc51bb.jpg?v=1789033538
+    Price: $44.99 USD
+[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM3NzkwOTM3MjQ1LCJsYXN0X3ZhbHVlIjoiOTAzNzc5MDkzNzI0NSJ9)
 
 ## Collections
 
-- [Car interior lights](https://autoglowled.top/collections/car-interior-lights)
-  Updated: 2026-08-22T06:41:33Z
-  Total Products: 2140
-- [Ford](https://autoglowled.top/collections/ford)
-  Updated: 2026-08-14T09:34:32Z
-  Total Products: 117
-- [LED Interior Light Kit](https://autoglowled.top/collections/led-interior-light-kit)
-  Updated: 2026-08-22T06:41:33Z
-  Total Products: 2836
-- [Mercedes-Benz](https://autoglowled.top/collections/mercedes-benz)
-  Updated: 2026-08-13T14:40:48Z
-  Total Products: 239
-- [AutoGlowLED](https://autoglowled.top/collections/autoglowled)
-  Updated: 2026-08-22T06:41:33Z
-  Total Products: 2184
-- [Acura](https://autoglowled.top/collections/acura)
-  Updated: 2026-08-14T09:33:49Z
-  Total Products: 52
-- [Audi](https://autoglowled.top/collections/audi)
-  Updated: 2026-08-14T09:28:49Z
-  Total Products: 80
-- [Volkswagen](https://autoglowled.top/collections/volkswagen)
-  Updated: 2026-08-22T06:41:30Z
-  Total Products: 166
-- [Honda](https://autoglowled.top/collections/honda)
-  Updated: 2026-08-22T06:37:51Z
-  Total Products: 89
-- [Nissan](https://autoglowled.top/collections/nissan)
-  Updated: 2026-08-14T09:34:14Z
-  Total Products: 168
-- [Volvo](https://autoglowled.top/collections/volvo)
-  Updated: 2026-08-14T09:32:10Z
-  Total Products: 105
-- [Skoda](https://autoglowled.top/collections/skoda)
-  Updated: 2026-08-14T09:34:21Z
-  Total Products: 47
-- [Jeep](https://autoglowled.top/collections/jeep)
-  Updated: 2026-08-14T09:33:15Z
-  Total Products: 55
-- [Porsche](https://autoglowled.top/collections/porsche)
-  Updated: 2026-08-14T09:34:26Z
-  Total Products: 37
-- [BMW](https://autoglowled.top/collections/bmw)
-  Updated: 2026-08-14T09:30:57Z
-  Total Products: 172
-- [Seat](https://autoglowled.top/collections/seat)
-  Updated: 2026-08-14T09:31:30Z
-  Total Products: 59
-- [Peugeot](https://autoglowled.top/collections/peugeot)
-  Updated: 2026-08-14T09:33:50Z
-  Total Products: 89
-- [Infiniti](https://autoglowled.top/collections/infiniti)
-  Updated: 2026-08-14T09:28:40Z
-  Total Products: 41
-- [Suzuki](https://autoglowled.top/collections/suzuki)
-  Updated: 2026-08-14T09:33:10Z
-  Total Products: 44
-- [Citroen](https://autoglowled.top/collections/citroen)
-  Updated: 2026-08-14T09:32:03Z
-  Total Products: 81
-- [Chevrolet](https://autoglowled.top/collections/chevrolet)
-  Updated: 2026-08-14T09:34:04Z
-  Total Products: 55
-- [Opel](https://autoglowled.top/collections/opel)
-  Updated: 2026-08-14T09:33:58Z
-  Total Products: 126
-- [Toyota](https://autoglowled.top/collections/toyota)
-  Updated: 2026-08-14T09:34:22Z
+- [Car interior lights](https://autoglowled.top/collections/car-interior-lights): AutoGlowLED car interior LED light kits for dome, map and footwell bulbs. CANBUS-ready options, 6000K white and color choices, fitment for 135+ vehicles.
+  Updated: 2026-09-24T06:54:23Z
+  Total Products: 6492
+- [Ford](https://autoglowled.top/collections/ford): AutoGlowLED Ford LED interior light kits for F-150, Focus, Fiesta, Escape, Explorer and more. CANBUS-compatible, plug-and-play bulbs in white or color options.
+  Updated: 2026-09-24T06:49:42Z
+  Total Products: 382
+- [LED Interior Light Kit](https://autoglowled.top/collections/led-interior-light-kit): AutoGlowLED LED Interior Light Kits fit Chevy Colorado, Hyundai Kona, Kia Seltos, Mitsubishi Eclipse Cross, and VW CC with plug-and-play CANBUS options.
+  Updated: 2026-09-24T06:54:23Z
+  Total Products: 8056
+- [Mercedes-Benz](https://autoglowled.top/collections/mercedes-benz): AutoGlowLED Mercedes-Benz LED interior light kits fit A-Class W169, C-Class W202-W205, S-Class W220, CLK, CLS, GLA, GLK, Viano W639 and more.
+  Updated: 2026-09-24T06:47:33Z
+  Total Products: 324
+- [AutoGlowLED](https://autoglowled.top/collections/autoglowled): AutoGlowLED interior LED kits for Nissan Sentra, BMW E30, Ford Fiesta MK7, and more. CANBUS-ready dome, map, and trunk bulbs in multiple colors.
+  Updated: 2026-09-24T06:54:23Z
+  Total Products: 7953
+- [Acura](https://autoglowled.top/collections/acura): Shop AutoGlowLED Acura LED interior light kits for MDX, RDX, TSX, RSX, TL, ILX, and RL. Plug-and-play 6000K or 3000K bulbs with CANBUS-ready options.
+  Updated: 2026-09-24T06:44:38Z
+  Total Products: 82
+- [Audi](https://autoglowled.top/collections/audi): Shop AutoGlowLED Audi LED interior light kits with CANBUS-ready adapters, 6000K white and accent colors. Fitment by chassis, model year, and bulb type.
+  Updated: 2026-09-24T06:39:23Z
+  Total Products: 224
+- [Volkswagen](https://autoglowled.top/collections/volkswagen): AutoGlowLED Volkswagen LED interior light kits cover Golf, Jetta, Passat, Tiguan and more with CANBUS-ready 194, 2825, and festoon bulbs in 6000K white.
+  Updated: 2026-09-24T06:35:36Z
   Total Products: 196
-- [Fiat](https://autoglowled.top/collections/fiat)
-  Updated: 2026-08-22T06:41:33Z
-  Total Products: 32
-- [Land Rover](https://autoglowled.top/collections/land-rover)
-  Updated: 2026-08-14T09:32:50Z
-  Total Products: 36
-- [Renault](https://autoglowled.top/collections/renault)
-  Updated: 2026-08-22T06:41:32Z
-  Total Products: 129
-- [Lexus](https://autoglowled.top/collections/lexus)
-  Updated: 2026-08-14T09:29:20Z
-  Total Products: 36
-- [Hyundai](https://autoglowled.top/collections/hyundai)
-  Updated: 2026-08-14T09:34:25Z
-  Total Products: 97
-- [Ferrari](https://autoglowled.top/collections/ferrari)
-  Updated: 2026-08-13T14:42:16Z
-  Total Products: 9
-- [Mitsubishi](https://autoglowled.top/collections/mitsubishi)
-  Updated: 2026-08-14T09:34:19Z
-  Total Products: 50
-- [Alfa Romeo](https://autoglowled.top/collections/alfa-romeo)
-  Updated: 2026-08-14T09:31:01Z
-  Total Products: 11
-- [Subaru](https://autoglowled.top/collections/subaru)
-  Updated: 2026-08-14T09:31:21Z
-  Total Products: 34
-- [Cadillac](https://autoglowled.top/collections/cadillac)
-  Updated: 2026-08-14T09:34:12Z
-  Total Products: 20
-- [Mini](https://autoglowled.top/collections/mini)
-  Updated: 2026-08-14T09:34:31Z
-  Total Products: 28
-- [Mazda](https://autoglowled.top/collections/mazda)
-  Updated: 2026-08-14T09:34:10Z
-  Total Products: 27
-- [Kia](https://autoglowled.top/collections/kia)
-  Updated: 2026-08-14T09:34:13Z
+- [Honda](https://autoglowled.top/collections/honda): Shop AutoGlowLED Honda LED interior light kits for Civic, Accord, CR-V, CR-Z and more. Plug-and-play T10 and festoon bulbs, CANBUS options, 5,000K–6,500K.
+  Updated: 2026-09-24T06:35:05Z
+  Total Products: 358
+- [Nissan](https://autoglowled.top/collections/nissan): AutoGlowLED Nissan LED interior light kits replace factory bulbs with CANBUS-compatible 6000K or warm white LEDs for Altima, Sentra, Rogue, and more.
+  Updated: 2026-09-24T06:46:51Z
+  Total Products: 504
+- [Volvo](https://autoglowled.top/collections/volvo): AutoGlowLED Volvo LED interior light kits: 30 plug-and-play sets for 850, 940, S40, V50, S60, V70, XC60 and XC90. 6000K white, festoon, T10 and CANBUS options.
+  Updated: 2026-09-24T06:52:23Z
+  Total Products: 193
+- [Skoda](https://autoglowled.top/collections/skoda): Shop AutoGlowLED Skoda LED interior kits for Fabia, Octavia, Superb, Kodiaq and more. CANBUS-ready, error-free, 6000K white or RGB. Plug-and-play fitment.
+  Updated: 2026-09-24T06:40:17Z
+  Total Products: 134
+- [Jeep](https://autoglowled.top/collections/jeep): Shop AutoGlowLED Jeep LED interior light kits for Wrangler, Cherokee, Grand Cherokee, Compass, and Renegade. CANBUS-ready, 6000K–6500K, plug-and-play.
+  Updated: 2026-09-24T06:19:10Z
+  Total Products: 157
+- [Porsche](https://autoglowled.top/collections/porsche): AutoGlowLED Porsche LED interior light kits for 911, Boxster, Cayenne, Panamera and Macan. CANBUS-friendly, 6000K options, direct-fit bulbs.
+  Updated: 2026-09-24T06:41:31Z
+  Total Products: 74
+- [BMW](https://autoglowled.top/collections/bmw): Shop AutoGlowLED BMW LED interior light kits. CANBUS-ready, 6000K white and color options, festoon and T10 bulbs for 3 Series, 5 Series, X3, X5 and more.
+  Updated: 2026-09-24T06:49:14Z
+  Total Products: 478
+- [Seat](https://autoglowled.top/collections/seat): AutoGlowLED Seat LED interior light kits for Leon, Ibiza, Alhambra, Ateca, Arona and more. CANBUS-ready, error-free bulbs in white and colour options.
+  Updated: 2026-09-24T06:09:44Z
+  Total Products: 185
+- [Peugeot](https://autoglowled.top/collections/peugeot): Shop AutoGlowLED Peugeot LED interior light kits for 108, 206, 207, 208, 307, 308, 407 and more. CANBUS error-free bulbs in cool white or warm white.
+  Updated: 2026-09-24T06:54:23Z
+  Total Products: 234
+- [Infiniti](https://autoglowled.top/collections/infiniti): Plug-and-play Infiniti LED interior light kits from AutoGlowLED. CANBUS-ready T10 and festoon bulbs for G37, Q50, QX60, and more. Check fitment.
+  Updated: 2026-09-24T06:36:03Z
   Total Products: 86
-- [Maserati](https://autoglowled.top/collections/maserati)
-  Updated: 2026-08-13T14:45:05Z
-  Total Products: 8
-- [Jaguar](https://autoglowled.top/collections/jaguar)
-  Updated: 2026-08-14T09:30:38Z
-  Total Products: 22
-- [Chrysler](https://autoglowled.top/collections/chrysler)
-  Updated: 2026-08-13T14:45:57Z
+- [Suzuki](https://autoglowled.top/collections/suzuki): AutoGlowLED Suzuki LED interior kits fit Swift, Vitara, Jimny, Baleno and more. T10, BA9s and festoon bulbs in 6000K–6500K white and colors. CANBUS options.
+  Updated: 2026-09-24T06:39:38Z
+  Total Products: 170
+- [Citroen](https://autoglowled.top/collections/citroen): AutoGlowLED LED interior light kits for Citroën C1-C8, DS3-DS5, Berlingo and Jumper. CANBUS-ready festoon, BA9s and T10 bulbs in 6000K or 8000K.
+  Updated: 2026-09-24T06:48:28Z
+  Total Products: 205
+- [Chevrolet](https://autoglowled.top/collections/chevrolet): Shop AutoGlowLED Chevrolet LED interior light kits for Bolt EV, Cruze, Malibu, Colorado and more. CANBUS-ready, 6000K white and RGB colors, plug-and-play fitment.
+  Updated: 2026-09-24T06:43:31Z
+  Total Products: 152
+- [Opel](https://autoglowled.top/collections/opel): Shop AutoGlowLED LED interior light kits for Opel Astra, Corsa, Insignia, Mokka and more. CANBUS-ready options, common T10, festoon and BA9s bases.
+  Updated: 2026-09-24T06:45:59Z
+  Total Products: 262
+- [Toyota](https://autoglowled.top/collections/toyota): Shop AutoGlowLED Toyota LED interior light kits with dome, map, and trunk bulbs. CANBUS-ready options and 6000K white. Check fitment by model and year.
+  Updated: 2026-09-24T06:49:08Z
+  Total Products: 839
+- [Fiat](https://autoglowled.top/collections/fiat): Shop 27 AutoGlowLED Fiat LED interior light kits for 500, Panda, Punto, Tipo, Doblo and Abarth. CANBUS-ready, cool white, warm white, color-changing options.
+  Updated: 2026-09-24T06:38:19Z
+  Total Products: 147
+- [Land Rover](https://autoglowled.top/collections/land-rover): AutoGlowLED Land Rover LED interior light kits use CANBUS-compatible festoon and T10 bulbs in 6000K cool white or warm white. Check fitment by model and year.
+  Updated: 2026-09-24T06:45:10Z
+  Total Products: 95
+- [Renault](https://autoglowled.top/collections/renault): Shop AutoGlowLED Renault LED interior light kits for Clio, Captur, Megane, Duster and more. CANBUS-ready, plug-and-play bulbs in cool white and ice blue.
+  Updated: 2026-09-24T06:53:53Z
+  Total Products: 327
+- [Lexus](https://autoglowled.top/collections/lexus): Shop AutoGlowLED Lexus LED interior light kits for CT, ES, GX, IS, LS, LX, NX, and RX models. Plug-and-play bulbs in 6000K white and color options.
+  Updated: 2026-09-24T06:36:04Z
+  Total Products: 124
+- [Hyundai](https://autoglowled.top/collections/hyundai): AutoGlowLED Hyundai LED interior light kits with direct-fit festoon, T10, and BA9s bulbs. CANBUS-ready options, 6000K white and color choices, plug-and-play.
+  Updated: 2026-09-24T06:53:32Z
+  Total Products: 423
+- [Ferrari](https://autoglowled.top/collections/ferrari): AutoGlowLED Ferrari LED interior light kits replace factory dome, map, and footwell bulbs with canbus-ready 6000K options. Confirm socket fitment by model year.
+  Updated: 2026-09-18T09:41:30Z
   Total Products: 14
-- [Dacia](https://autoglowled.top/collections/dacia)
-  Updated: 2026-08-14T09:31:31Z
-  Total Products: 13
-- [Dodge](https://autoglowled.top/collections/dodge)
-  Updated: 2026-08-14T09:34:06Z
-  Total Products: 18
-- [GMC](https://autoglowled.top/collections/gmc)
-  Updated: 2026-08-13T14:43:47Z
-  Total Products: 5
-- [Rover](https://autoglowled.top/collections/rover)
-  Updated: 2026-08-14T09:32:50Z
+- [Mitsubishi](https://autoglowled.top/collections/mitsubishi): Shop AutoGlowLED Mitsubishi LED interior light kits for ASX, Lancer, L200 Triton, Pajero and Outlander. CANBUS-compatible, plug-and-play cabin bulb upgrades.
+  Updated: 2026-09-24T06:46:36Z
+  Total Products: 230
+- [Alfa Romeo](https://autoglowled.top/collections/alfa-romeo): AutoGlowLED offers CANBUS error-free LED interior light kits for Alfa Romeo 147, 156, 159, GT, Giulietta, and MiTo. Choose 6000K white or 8000K blue.
+  Updated: 2026-09-24T06:50:49Z
+  Total Products: 81
+- [Subaru](https://autoglowled.top/collections/subaru): AutoGlowLED Subaru LED interior light kits replace factory bulbs with CANBUS-ready T10, DE3175, and festoon LEDs in 6000K or 3000K. Check fitment by year.
+  Updated: 2026-09-24T06:49:57Z
+  Total Products: 124
+- [Cadillac](https://autoglowled.top/collections/cadillac): Shop AutoGlowLED Cadillac LED interior light kits for ATS, CTS, Escalade, SRX, STS, and XTS. CANBUS-ready, plug-and-play bulbs in cool white and color options.
+  Updated: 2026-09-22T04:11:56Z
   Total Products: 41
-- [Lincoln](https://autoglowled.top/collections/lincoln)
-  Updated: 2026-08-14T09:33:32Z
-  Total Products: 7
+- [Mini](https://autoglowled.top/collections/mini): AutoGlowLED Mini LED interior light kits with festoon, T10 and BA9s bulbs, CANBUS-ready options and 6000K white or color choices. Check fitment by model.
+  Updated: 2026-09-24T06:23:48Z
+  Total Products: 68
+- [Mazda](https://autoglowled.top/collections/mazda): Shop AutoGlowLED Mazda LED interior light kits. Plug-and-play dome, map, door, trunk, and plate bulbs in 6000K white with CANBUS-ready options.
+  Updated: 2026-09-24T06:40:58Z
+  Total Products: 184
+- [Kia](https://autoglowled.top/collections/kia): AutoGlowLED offers CANBUS-ready LED interior light kits for Kia Carnival, Rio, Ceed, Forte, and more. Plug-and-play, 6000K white, error-free.
+  Updated: 2026-09-24T06:50:13Z
+  Total Products: 342
+- [Maserati](https://autoglowled.top/collections/maserati): Shop AutoGlowLED LED interior light kits for Maserati. Model-specific festoon and wedge bulbs, CANBUS-ready options, 6000K white. Confirm fitment by year.
+  Updated: 2026-09-24T06:11:53Z
+  Total Products: 24
+- [Jaguar](https://autoglowled.top/collections/jaguar): AutoGlowLED Jaguar LED interior light kits for XF, XJ, F-Type, F-Pace, X-Type and more. CANBUS error-free options in 6000K, 3000K, and color.
+  Updated: 2026-09-24T04:15:11Z
+  Total Products: 44
+- [Chrysler](https://autoglowled.top/collections/chrysler): AutoGlowLED Chrysler LED interior light kits for dome, map, door, and trunk bulbs. CANBUS-ready options in 6000K white and color. Check socket fitment.
+  Updated: 2026-09-24T06:53:11Z
+  Total Products: 50
+- [Dacia](https://autoglowled.top/collections/dacia): Shop AutoGlowLED Dacia LED interior light kits for Duster, Sandero, Logan, Jogger and Dokker. CANBUS-ready, error-free plug-and-play bulbs with confirmed fitment.
+  Updated: 2026-09-24T06:31:49Z
+  Total Products: 65
+- [Dodge](https://autoglowled.top/collections/dodge): AutoGlowLED Dodge LED interior light kits with CANBUS-ready, plug-and-play bulbs for Charger, Challenger, Durango, Journey, and more. Shop direct-fit options.
+  Updated: 2026-09-24T06:34:26Z
+  Total Products: 88
+- [GMC](https://autoglowled.top/collections/gmc): Shop AutoGlowLED GMC LED interior light kits for Acadia, Sierra, and Yukon XL (2007–2024). CANBUS-ready, 6000K or 3000K, plug-and-play fit.
+  Updated: 2026-09-24T06:22:35Z
+  Total Products: 25
+- [Rover](https://autoglowled.top/collections/rover): AutoGlowLED Rover LED interior light kits replace factory cabin bulbs with CANBUS-ready festoon, T10 and BA9s LEDs in 6000K white or warm white.
+  Updated: 2026-09-24T06:45:10Z
+  Total Products: 116
+- [Lincoln](https://autoglowled.top/collections/lincoln): Shop AutoGlowLED Lincoln LED interior light kits for MKX and Navigator. CANBUS-ready, error-free 6000K bulbs with plug-and-play fitment.
+  Updated: 2026-09-24T05:22:54Z
+  Total Products: 17
+- [Lamborghini](https://autoglowled.top/collections/lamborghini): AutoGlowLED LED interior light kits for Lamborghini Gallardo, Murcielago, Aventador, Huracan, and Urus. CANBUS-ready, 6000K white and color options.
+  Updated: 2026-09-18T09:41:49Z
+  Total Products: 1
 
 ## Blogs
 
-- [AutoGlowLED Guides](https://autoglowled.top/blogs/新闻)
-  - [What is CANBUS? Complete Guide to Error-Free LED Upgrades](https://autoglowled.top/blogs/新闻/what-is-canbus-complete-guide-to-error-free-led-upgrades): <p>Learn why CANBUS systems cause LED flickering and dashboard errors, and how CANBUS-ready LED bulbs solve the problem.</p>
-    Updated: 2026-07-28T03:34:20Z
+- [AutoGlowLED Guides](https://autoglowled.top/blogs/news): Installation guides, CANBUS explanations and product news for automotive LED interior lighting from AutoGlowLED.
+  - [What is CANBUS? Complete Guide to Error-Free LED Upgrades](https://autoglowled.top/blogs/news/what-is-canbus-complete-guide-to-error-free-led-upgrades): What is CANBUS? Complete Guide to Error-Free LED Upgrades
+    Updated: 2026-09-14T03:18:45Z
     Author: AutoGlowLED Team
-  - [How to Install LED Interior Lights: Complete Step-by-Step Guide](https://autoglowled.top/blogs/新闻/how-to-install-led-interior-lights-complete-step-by-step-guide): <p>Replace your car interior halogen bulbs with LED lights in under 30 minutes. Tools, tips, and common mistakes to avoid.</p>
-    Updated: 2026-07-28T03:34:42Z
+  - [How to Install LED Interior Lights: Complete Step-by-Step Gu](https://autoglowled.top/blogs/news/how-to-install-led-interior-lights-complete-step-by-step-guide): How to Install LED Interior Lights: Complete Step-by-Step Gu
+    Updated: 2026-09-18T09:34:25Z
     Author: AutoGlowLED Team
-  - [Audi LED Interior Light Guide: Complete Model Coverage](https://autoglowled.top/blogs/新闻/audi-led-interior-light-guide-complete-model-coverage): <p>Find the right LED interior light kit for every Audi model from 1994 to 2024. Complete compatibility guide.</p>
-    Updated: 2026-07-28T03:34:43Z
+  - [Audi LED Interior Light Guide: Complete Model Coverage](https://autoglowled.top/blogs/news/audi-led-interior-light-guide-complete-model-coverage): Audi LED Interior Light Guide: Complete Model Coverage
+    Updated: 2026-09-14T03:18:39Z
     Author: AutoGlowLED Team
+- [AutoGlowLED Guides](https://autoglowled.top/blogs/guides): Vehicle-specific LED interior light guides: bulb sizes, fitment by model year, CANBUS notes and installation steps for BMW, Audi, Ford, Toyota and more.
+  - [Best LED Interior Lights for BMW 3 Series (E90, E46, E36) —](https://autoglowled.top/blogs/guides/best-led-interior-lights-for-bmw-3-series-e90-e46-e36-bulb-sizes-install-guide): Best LED Interior Lights for BMW 3 Series (E90, E46, E36) —
+    Updated: 2026-09-18T09:34:37Z
+    Author: AutoGlowLED
+    Tags: BMW, bulb size, E36, E46, E90, LED interior lights
+  - [LED Interior Light Kit for Mercedes-Benz E-Class (W211, W212](https://autoglowled.top/blogs/guides/led-interior-light-kit-for-mercedes-benz-e-class-w211-w212-complete-guide): LED Interior Light Kit for Mercedes-Benz E-Class (W211, W212
+    Updated: 2026-09-14T03:19:40Z
+    Author: AutoGlowLED
+    Tags: CANBUS, LED interior light, Mercedes-Benz, W211, W212
+  - [VW Golf LED Interior Lights (MK5, MK6, MK7) — Bulb Sizes & I](https://autoglowled.top/blogs/guides/vw-golf-led-interior-lights-mk5-mk6-mk7-bulb-sizes-install-guide): VW Golf LED Interior Lights (MK5, MK6, MK7) — Bulb Sizes & I
+    Updated: 2026-09-18T09:34:35Z
+    Author: AutoGlowLED
+    Tags: bulb size, Golf, LED interior, MK5, MK6, MK7, Volkswagen
+  - [LED Interior Lights for Toyota Corolla & Camry — Bulb Sizes](https://autoglowled.top/blogs/guides/led-interior-lights-for-toyota-corolla-camry-bulb-sizes-install-guide): LED Interior Lights for Toyota Corolla & Camry — Bulb Sizes
+    Updated: 2026-09-18T09:34:34Z
+    Author: AutoGlowLED
+    Tags: bulb size, Camry, Corolla, LED interior lights, Toyota
+  - [Nissan Qashqai & Altima LED Interior Lights — Complete Bulb](https://autoglowled.top/blogs/guides/nissan-qashqai-altima-led-interior-lights-complete-bulb-guide): Nissan Qashqai & Altima LED Interior Lights — Complete Bulb
+    Updated: 2026-09-14T03:19:24Z
+    Author: AutoGlowLED
+    Tags: Altima, bulb size, LED interior light, Nissan, Qashqai
+  - [Audi A4 & A3 LED Interior Lights — Bulb Sizes & CANBUS Guide](https://autoglowled.top/blogs/guides/audi-a4-a3-led-interior-lights-bulb-sizes-canbus-guide): Audi A4 & A3 LED Interior Lights — Bulb Sizes & CANBUS Guide
+    Updated: 2026-09-14T03:19:19Z
+    Author: AutoGlowLED
+    Tags: A3, A4, Audi, CANBUS, LED interior lights
+  - [Honda Civic & Accord LED Interior Lights — Bulb Sizes & Inst](https://autoglowled.top/blogs/guides/honda-civic-accord-led-interior-lights-bulb-sizes-install-guide): Honda Civic & Accord LED Interior Lights — Bulb Sizes & Inst
+    Updated: 2026-09-18T09:34:33Z
+    Author: AutoGlowLED
+    Tags: Accord, bulb size, Civic, Honda, LED interior lights
+  - [Ford Fiesta & Focus LED Interior Lights — Complete Bulb Guid](https://autoglowled.top/blogs/guides/ford-fiesta-focus-led-interior-lights-complete-bulb-guide): Ford Fiesta & Focus LED Interior Lights — Complete Bulb Guid
+    Updated: 2026-09-14T03:19:12Z
+    Author: AutoGlowLED
+    Tags: bulb size, Fiesta, Focus, Ford, LED interior light
+  - [Volvo S60 V70 C70 LED Interior Lights — Bulb Sizes & Install](https://autoglowled.top/blogs/guides/volvo-s60-v70-c70-led-interior-lights-bulb-sizes-install-guide): Volvo S60 V70 C70 LED Interior Lights — Bulb Sizes & Install
+    Updated: 2026-09-18T09:34:31Z
+    Author: AutoGlowLED
+    Tags: C70, CANBUS, LED interior lights, S60, V70, Volvo
+  - [Renault Clio & Megane LED Interior Lights — Bulb Sizes & Ins](https://autoglowled.top/blogs/guides/renault-clio-megane-led-interior-lights-bulb-sizes-install-guide): Renault Clio & Megane LED Interior Lights — Bulb Sizes & Ins
+    Updated: 2026-09-18T09:34:30Z
+    Author: AutoGlowLED
+    Tags: bulb size, Clio, LED interior lights, Megane, Renault
+  - [Opel Astra & Corsa LED Interior Lights — Complete Bulb Guide](https://autoglowled.top/blogs/guides/opel-astra-corsa-led-interior-lights-complete-bulb-guide): Opel Astra & Corsa LED Interior Lights — Complete Bulb Guide
+    Updated: 2026-09-14T03:18:56Z
+    Author: AutoGlowLED
+    Tags: Astra, bulb size, Corsa, LED interior light, Opel, Vauxhall
+  - [Peugeot 206 207 307 308 LED Interior Lights — Bulb Sizes & I](https://autoglowled.top/blogs/guides/peugeot-206-207-307-308-led-interior-lights-bulb-sizes-install-guide): Peugeot 206 207 307 308 LED Interior Lights — Bulb Sizes & I
+    Updated: 2026-09-18T09:34:29Z
+    Author: AutoGlowLED
+    Tags: 206, 207, 307, 308, bulb size, LED interior lights, Peugeot
+  - [BMW 5 Series LED Interior Lights: Bulb Sizes for E60, F10 and G30](https://autoglowled.top/blogs/guides/bmw-5-series-led-interior-lights-bulb-sizes-for-e60-f10-and-g30): BMW 5 Series LED Interior Lights: Bulb Sizes for E60, F10 and G30
+    Updated: 2026-09-18T09:19:29Z
+    Author: Shopify API
+    Tags: BMW, bulb size, CANBUS, install guide, LED interior lights
+  - [Mercedes C-Class Interior LED Upgrade: W204 and W205 Bulb Sizes](https://autoglowled.top/blogs/guides/mercedes-c-class-interior-led-upgrade-w204-and-w205-bulb-sizes): Mercedes C-Class Interior LED Upgrade: W204 and W205 Bulb Sizes
+    Updated: 2026-09-18T09:19:36Z
+    Author: Shopify API
+    Tags: bulb size, CANBUS, install guide, LED interior lights, Mercedes-Benz
+  - [Jeep Wrangler and Grand Cherokee Interior LED Lights: What Fits](https://autoglowled.top/blogs/guides/jeep-wrangler-and-grand-cherokee-interior-led-lights-what-fits): Jeep Wrangler and Grand Cherokee Interior LED Lights: What Fits
+    Updated: 2026-09-18T09:19:45Z
+    Author: Shopify API
+    Tags: bulb size, CANBUS, install guide, Jeep, LED interior lights
+  - [Audi Q5 and Q7 interior LED upgrade: bulb sizes and CANBUS notes](https://autoglowled.top/blogs/guides/audi-q5-and-q7-interior-led-upgrade-bulb-sizes-and-canbus-notes): Audi Q5 and Q7 interior LED upgrade: bulb sizes and CANBUS notes
+    Updated: 2026-09-18T09:26:17Z
+    Author: Shopify API
+    Tags: Audi, bulb size, CANBUS, install guide, LED interior lights
 
 ## Store Pages
 
-- [About Us](https://autoglowled.top/pages/about-us): About AutoGlowLED Welcome to AutoGlowLED, a professional automotive lighting brand dedicated to creating stylish, comfortable, and personalized dri...
-  Updated: 2026-07-23T02:15:18Z
-- [Contact Us](https://autoglowled.top/pages/contact-us): Get In Touch We are here to help! Reach out to us through any of the channels below. Email support@autoglowled.top We typically respond within 24 h...
-  Updated: 2026-08-17T06:24:09Z
-- [FAQ](https://autoglowled.top/pages/faq): Frequently Asked Questions General What is CANBUS and why does it matter? CANBUS is the computer system in modern vehicles that monitors every bulb...
-  Updated: 2026-07-23T11:12:53Z
-- [Contact Us](https://autoglowled.top/pages/contact): Get In Touch We are here to help! Reach out to us through any of the channels below. Email support@autoglowled.top We typically respond within 24 h...
-  Updated: 2026-07-23T11:15:19Z
-- [Legal Notice](https://autoglowled.top/pages/legal-notice): Legal Notice Company Information LOCOCO(HK) CO., LIMITED 87-105 Chatham Road South Tsim Sha Tsui, Kowloon Hong Kong Phone: +86 139 2283 9542 Email:...
-  Updated: 2026-07-23T12:22:02Z
-- [BMW LED Interior Light Guide](https://autoglowled.top/pages/bmw-led-interior-guide): BMW LED Interior Light Guide: Complete Model CoverageBMW interiors are legendary for their driver-focused design. Upgrading to LED lighting takes t...
-  Updated: 2026-07-28T03:35:11Z
-- [LED Interior Lights by Brand](https://autoglowled.top/pages/led-interior-lights-by-brand): LED Interior Light Kits by BrandAutoGlowLED offers premium CANBUS error-free LED interior light kits for a wide range of vehicle brands. Every kit ...
-  Updated: 2026-07-28T03:35:12Z
+- [About AutoGlowLED — CANBUS LED Interior Light Specialists](https://autoglowled.top/pages/about-us): What AutoGlowLED Does AutoGlowLED supplies model-specific LED interior light kits for cars. Each kit is built for one vehicle make, model and produ...
+  Updated: 2026-09-18T09:12:52Z
+- [Contact AutoGlowLED — Order Support & Fitment Help](https://autoglowled.top/pages/contact-us): Get In Touch We are here to help! Reach out to us through any of the channels below. Email support@autoglowled.top We typically respond within 24 h...
+  Updated: 2026-09-14T03:11:41Z
+- [LED Interior Light FAQ — Fitment, CANBUS & Installation | AutoGlowLED](https://autoglowled.top/pages/faq): Frequently Asked Questions General What is CANBUS and why does it matter? CANBUS is the computer system in modern vehicles that monitors every bulb...
+  Updated: 2026-09-14T03:11:46Z
+- [Legal Notice, Terms & Policies | AutoGlowLED](https://autoglowled.top/pages/legal-notice): Legal Notice Company Information LOCOCO(HK) CO., LIMITED 87-105 Chatham Road South Tsim Sha Tsui, Kowloon Hong Kong Phone: +86 139 2283 9542 Email:...
+  Updated: 2026-09-14T03:11:51Z
+- [BMW LED Interior Light Guide — Bulb Sizes & Fitment | AutoGlowLED](https://autoglowled.top/pages/bmw-led-interior-guide): BMW LED Interior Light Guide: Complete Model CoverageBMW interiors are legendary for their driver-focused design. Upgrading to LED lighting takes t...
+  Updated: 2026-09-14T03:11:39Z
+- [LED Interior Lights by Car Brand — Full Fitment List | AutoGlowLED](https://autoglowled.top/pages/led-interior-lights-by-brand): LED Interior Light Kits by BrandAutoGlowLED offers premium CANBUS error-free LED interior light kits for a wide range of vehicle brands. Every kit ...
+  Updated: 2026-09-18T09:12:56Z
 
 ## Policies
 
