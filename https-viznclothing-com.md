@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-09-17T00:00:37.491Z
+- Updated At: 2026-09-26T00:00:39.668Z
 
 ## Products
 
@@ -220,6 +220,21 @@
     Author: Jake Swindells
   - [Why Boxy Fit T-Shirts Are a Staple in Minimalistic Streetwear](https://viznclothing.com/blogs/news/why-boxy-fit-t-shirts-are-a-staple-in-minimalistic-streetwear): Why Boxy Fit T-Shirts Are a Staple in Minimalistic Streetwear
     Updated: 2026-09-14T16:30:07Z
+    Author: Jake Swindells
+  - [Challenges and Solutions in Finding the Perfect Boxy Fit Hoodie for UK Streetwear Fans](https://viznclothing.com/blogs/news/challenges-and-solutions-in-finding-the-perfect-boxy-fit-hoodie-for-uk-streetwear-fans): Challenges and Solutions in Finding the Perfect Boxy Fit Hoodie for UK Streetwear Fans
+    Updated: 2026-09-18T12:34:07Z
+    Author: Jake Swindells
+  - [Essential Characteristics of Minimalistic Streetwear Featured by Top UK Brands](https://viznclothing.com/blogs/news/essential-characteristics-of-minimalistic-streetwear-featured-by-top-uk-brands): Essential Characteristics of Minimalistic Streetwear Featured by Top UK Brands
+    Updated: 2026-09-19T11:35:13Z
+    Author: Jake Swindells
+  - [Unraveling Luxury Streetwear in the UK: The Appeal of Contemporary Design and Fit](https://viznclothing.com/blogs/news/unraveling-luxury-streetwear-in-the-uk-the-appeal-of-contemporary-design-and-fit): Unraveling Luxury Streetwear in the UK: The Appeal of Contemporary Design and Fit
+    Updated: 2026-09-21T09:37:09Z
+    Author: Jake Swindells
+  - [Boxy Fit Hoodies: Transforming the Landscape of UK Luxury Streetwear](https://viznclothing.com/blogs/news/boxy-fit-hoodies-transforming-the-landscape-of-uk-luxury-streetwear): Boxy Fit Hoodies: Transforming the Landscape of UK Luxury Streetwear
+    Updated: 2026-09-25T05:41:13Z
+    Author: Jake Swindells
+  - [Heavyweight Boxy Hoodies and Their Role in Redefining UK Minimalistic Fashion](https://viznclothing.com/blogs/news/heavyweight-boxy-hoodies-and-their-role-in-redefining-uk-minimalistic-fashion): Heavyweight Boxy Hoodies and Their Role in Redefining UK Minimalistic Fashion
+    Updated: 2026-09-25T18:03:51Z
     Author: Jake Swindells
 
 ## Store Pages
