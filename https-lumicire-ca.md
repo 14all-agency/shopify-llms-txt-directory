@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2026-06-10T19:18:29Z
 - Contact Email: lumicirebougie@gmail.com
-- Updated At: 2026-09-17T00:00:39.730Z
+- Updated At: 2026-09-26T00:00:41.175Z
 
 ## Products
 
@@ -206,6 +206,18 @@
     Author: Lumicire
   - [Top 5 des erreurs à éviter lors de la fabrication de bougies maison](https://lumicire.ca/blogs/actualites/top-5-des-erreurs-a-eviter-lors-de-la-fabrication-de-bougies-maison): Top 5 des erreurs à éviter lors de la fabrication de bougies maison
     Updated: 2026-09-14T12:09:06Z
+    Author: Lumicire
+  - [La science derrière les parfums de bougies : comment sont-ils créés](https://lumicire.ca/blogs/actualites/la-science-derriere-les-parfums-de-bougies-comment-sont-ils-crees): La science derrière les parfums de bougies : comment sont-ils créés
+    Updated: 2026-09-17T12:02:13Z
+    Author: Lumicire
+  - [Avantages et inconvénients des bougies en cire naturelle vs synthétique](https://lumicire.ca/blogs/actualites/avantages-et-inconvenients-des-bougies-en-cire-naturelle-vs-synthetique): Avantages et inconvénients des bougies en cire naturelle vs synthétique
+    Updated: 2026-09-20T12:01:27Z
+    Author: Lumicire
+  - [DIY : Créer vos bougies personnalisées en trois étapes simples](https://lumicire.ca/blogs/actualites/diy-creer-vos-bougies-personnalisees-en-trois-etapes-simples): DIY : Créer vos bougies personnalisées en trois étapes simples
+    Updated: 2026-09-21T12:08:47Z
+    Author: Lumicire
+  - [Pourquoi incorporer des bougies dans votre rituel quotidien de détente](https://lumicire.ca/blogs/actualites/pourquoi-incorporer-des-bougies-dans-votre-rituel-quotidien-de-detente): Pourquoi incorporer des bougies dans votre rituel quotidien de détente
+    Updated: 2026-09-24T12:01:51Z
     Author: Lumicire
 
 ## Store Pages
