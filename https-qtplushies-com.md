@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-07-09T16:24:29Z
 - Contact Email: customercare@qtplushies.com
-- Updated At: 2026-09-18T09:13:27.054Z
+- Updated At: 2026-09-26T00:00:31.031Z
 
 ## Products
 
@@ -103,7 +103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S1c143c58a2eb4b4991a7001ae9b85f8cH.webp?v=1783673170
     Price: $47.49 USD
 - [Gojo & Geto Plush – Jujutsu Kaisen](https://qtplushies.com/products/gojo-geto-plush-jujutsu-kaisen): 🖤✨ Geto & Gojo Plush Duo Bring the iconic duo to your plush collection with the Geto & Gojo Plush Duo. Inspired by the powerful and unforgettable characters, these adorable plushies capture their signature looks in a cute, chibi-style design that fans will instantly recognize. With soft plush fabric, expressive faces, and detailed outfits, these plushies are perfect for decorating your desk, gaming setup, or anime collection while adding a fun and cozy vibe. 💙 Why you’ll love these plushies 🧸 Ultra-soft & huggableMade with premium plush material that feels soft and cozy. ✨ Adorable chibi designCute mini versions of your favorite characters. 🎨 Detailed character outfitsCarefully crafted to match their iconic looks. 🎁 Perfect gift for anime fansGreat for collectors, anime lovers, and plush fans. ⭐ Perfect for 🎮 Gaming & anime room decor🧸 Plush collections🎁 Gifts for anime fans📚 Desk or shelf decoration Bring home this legendary duo and add a touch of anime charm to your plush collection.
-  Updated: 2026-09-17T20:18:48Z
+  Updated: 2026-09-23T20:06:35Z
   Vendor: Qtplushies
   Product Type: 
   Availability: Available
@@ -286,7 +286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S6730d9575c6c4fa8bdbf825de4bbe70c7-removebg-preview.png?v=1783673180
   Price: $26.00 USD
 - [Chillet Plush – Giant Soft Plushie from Palworld Game stuffed animal](https://qtplushies.com/products/chillet-plush): Snuggle up with the official Chillet Plush from Palworld! This large, soft, and huggable plush is perfect for gamers, collectors, and fans. Bring your favorite Pal to life today!
-  Updated: 2026-09-18T01:47:15Z
+  Updated: 2026-09-25T23:25:57Z
   Vendor: chillet
   Product Type: 
   Availability: Available
@@ -294,15 +294,15 @@
   - [Blue / 39IN\100CM](https://qtplushies.com/products/chillet-plush?variant=46189014024249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/chillet_plush_palworld_giant_stuffed_animal.jpg?v=1783673181
-    Price: $36.50 USD
+    Price: $43.50 USD
   - [Blue / 47IN\120CM](https://qtplushies.com/products/chillet-plush?variant=46189014057017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/chillet_plush_palworld_giant_stuffed_animal.jpg?v=1783673181
-    Price: $42.49 USD
+    Price: $49.49 USD
   - [Blue / 6FT\180CM](https://qtplushies.com/products/chillet-plush?variant=46189014089785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/Chillet_plush_stuffed_animal_giant_plushie_pals_plushies_4.jpg?v=1783673182
-    Price: $81.49 USD
+    Price: $91.49 USD
   - [Blue / 9.8FT\3M](https://qtplushies.com/products/chillet-plush?variant=46189014122553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/Chillet_plush_stuffed_animal_giant_plushie_pals_plushies_3m.jpg?v=1783673181
@@ -318,15 +318,15 @@
   - [Pink / 39IN\100CM](https://qtplushies.com/products/chillet-plush?variant=46189014220857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/pink_giant_chillet_plush_from_palworld_cute_fluffy_pillow_bed_gift.jpg?v=1783673182
-    Price: $34.00 USD
+    Price: $41.00 USD
   - [Pink / 47IN\120CM](https://qtplushies.com/products/chillet-plush?variant=46189014253625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/pink_giant_chillet_plush_from_palworld_cute_fluffy_pillow_bed_gift.jpg?v=1783673182
-    Price: $44.00 USD
+    Price: $51.00 USD
   - [Pink / 6FT\180CM](https://qtplushies.com/products/chillet-plush?variant=46189014286393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/pink_giant_chillet_plush_from_palworld_cute_fluffy_pillow_bed_gift.jpg?v=1783673182
-    Price: $84.00 USD
+    Price: $91.00 USD
 - [Pengullet Plush soft pillow plushie from palworld rose cat pal stuffed animal gift](https://qtplushies.com/products/pengullet-plush): Little penguin does everything From keeping your food cold to water your plants and help you transport materials, Pengullet is a great pal to have by your side. Very adorable and fluffy is a great pillow and a nice bazooka ammunition!! Why this plush is amazing! 🧸Soft and huggable materials provide comfort and happiness. 🪡Featuring an endearing design with intricate details. 🌈Bright colors that don't fade over time. 🎁Perfect gift for fans.
   Updated: 2026-09-17T20:19:05Z
   Vendor: Pals Plushies
@@ -750,7 +750,7 @@ Genshin impact plush pillow soft kittens cats gift for fans.
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S7626377cf8954e208e36f5965bad3b8dH.webp?v=1783673200
     Price: $37.00 USD
 - [Sleeping Pokemon Plush Collection for Relaxation | Qtplushies](https://qtplushies.com/products/sleepy-pokemons-collection): Bring home the Sleeping Pokemon Plush Collection. Designed for comfort, softness, and happiness. Order now and cuddle your favorite Pokemon!
-  Updated: 2026-09-17T20:19:15Z
+  Updated: 2026-09-23T03:16:10Z
   Vendor: Poke
   Product Type: 
   Availability: Available
@@ -1349,7 +1349,7 @@ fluffy kitten plush toy for kids and adults, stuffed animal real cat design.
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S6f9c4898ff3e4641a6e216e8010cb4212.webp?v=1783673225
     Price: $13.00 USD
 - [Highland Cow Plush – Soft and Adorable Shaggy Cow Stuffed Animal | Pals Plushies](https://qtplushies.com/products/highland-cow-plush): Cuddle up with our Highland Cow Plush! This soft, shaggy cow stuffed animal features adorable horns and rustic charm, perfect for animal lovers of all ages. Discover cozy comfort and unique style with this Highland Cow plush at Pals Plushies!
-  Updated: 2026-09-17T20:18:51Z
+  Updated: 2026-09-18T21:43:44Z
   Vendor: Pals Plushies
   Product Type: 
   Availability: Available
@@ -1519,7 +1519,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S0b4116e810824f9481954a0eea85bb5eM.webp?v=1783673233
     Price: $74.00 USD
 - [Buy First Gen Pokemon Plush Toys | Qtplushies](https://qtplushies.com/products/pokemon-plush-collection): Shop first-gen Pokemon plush toys featuring Pikachu, Squirtle, Charmander & more. Soft, cute & perfect for fans, collectors & gifts. Click Now!
-  Updated: 2026-09-17T20:19:08Z
+  Updated: 2026-09-22T07:42:27Z
   Vendor: Poke
   Product Type: 
   Availability: Available
@@ -2208,7 +2208,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/2_68d6485c-9dd4-43d2-9a38-abe0d358873f.jpg?v=1783673252
     Price: $40.00 USD
 - [Buy Soft, Adorable Psyduck Plush Toy Online| Qtplushies](https://qtplushies.com/products/psyduck-plush): Bring home the adorable water-type Psyduck plush toy. Super soft, comforting, and perfect for everyday joy. A must-have for Pokemon lovers. Buy Now!
-  Updated: 2026-09-17T20:19:09Z
+  Updated: 2026-09-19T04:52:43Z
   Vendor: Poke
   Product Type: 
   Availability: Available
@@ -2240,7 +2240,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/Ad24f10506e6f4fb4842a6a26b0f77f53H.webp?v=1783673254
     Price: $25.00 USD
 - [Buy Greninja Plush Ultra-Soft Pokemon Comfort Toy | Qtplushies](https://qtplushies.com/products/greninja-plush): Bring home Greninja Plush toy. Ultra-soft plush made for comfort and smiles. A must-have for iconic Water/Dark-type Pokemon fans. Buy now!
-  Updated: 2026-09-17T20:18:48Z
+  Updated: 2026-09-21T10:30:56Z
   Vendor: Poke
   Product Type: 
   Availability: Available
@@ -2517,12 +2517,12 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/Se7b21d9ea5064fac89e39e5b00313ccbN.webp?v=1783673265
     Price: $16.00 USD
 - [Roz Plush – Soft and Adorable The Wild Robot Character Toy | Pals Plushies](https://qtplushies.com/products/roz-the-wild-robot): Meet Roz from The Wild Robot! This detailed and soft plush brings the beloved book character to life, perfect for fans and collectors. Find it at Pals Plushies today!
-  Updated: 2026-09-17T20:19:12Z
+  Updated: 2026-09-25T15:07:25Z
   Vendor: Roz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S4ee9b70475b94f1fbf63fddb25f368bdP.webp?v=1783673266
-  Price: $13.00 USD
+  Price: $23.00 USD
 - [Fluffy Sheep Plush – Soft and Adorable Farm Animal Toy | Pals Plushies](https://qtplushies.com/products/fluffy-sheep): Snuggle with the Fluffy Sheep Plush! This ultra-soft and huggable plush sheep is perfect for cuddles, décor, or gifting to animal lovers. Find it at Pals Plushies today!
   Updated: 2026-09-17T20:18:45Z
   Vendor: Pals Plushies
@@ -2739,7 +2739,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S170ed2d660164c96b68a4f0090835e67d.webp?v=1783673271
     Price: $7.18 USD
 - [Pete the Cat Plush – Soft and Groovy Plush Toy for  Kids & Fans | Pals Plushies](https://qtplushies.com/products/pete-the-cat): Cuddle up with Pete the Cat! This soft plush brings the beloved book character to life with cool details and cozy charm. Perfect for kids and Pete fans—shop now!
-  Updated: 2026-09-17T20:19:06Z
+  Updated: 2026-09-21T21:12:28Z
   Vendor: Pals Plushies
   Product Type: 
   Availability: Available
@@ -2771,7 +2771,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S029a7176ea5e4d4fa89c8eea2aebab329.webp?v=1783673273
     Price: $30.00 USD
 - [Buy Cozy & Iconic Pikachu Plush Online | Qtplushies](https://qtplushies.com/products/pikachu): Fan favourite Pikachu plush is here. Experience with comfort, iconic design, ultra-soft pokemon perfect for fans. Buy now and add joy to your collection!
-  Updated: 2026-09-17T20:19:06Z
+  Updated: 2026-09-18T20:11:09Z
   Vendor: Poke
   Product Type: 
   Availability: Available
@@ -2859,7 +2859,7 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
     Image: https://cdn.shopify.com/s/files/1/0808/0814/9049/files/S12ad355ba354418e811b4acc87f61fa9j.webp?v=1783673278
     Price: $45.00 USD
 - [Fall Guys Plush Collection – Iconic, Huggable Video Game Characters](https://qtplushies.com/products/cant-remenber): Cuddle the chaos with the Fall Guys Plush Collection! Ultra-soft and colorful plushies inspired by the hit video game. Perfect for fans and collectors!
-  Updated: 2026-09-17T20:18:43Z
+  Updated: 2026-09-19T00:14:36Z
   Vendor: Pals Plushies
   Product Type: 
   Availability: Available
@@ -3281,46 +3281,46 @@ Stuffed animal plush toy soft dog plushie pillow puppy using pajamas adorable gi
   Updated: 2026-08-28T16:02:59Z
   Total Products: 1
 - [Pokemon](https://qtplushies.com/collections/pokemon): Discover adorable pokemon plushies with ultra-soft fabric for comfort and joy. Perfect for fans, kids & collectors. Shop cute stuffed toys online now. Shop Now!
-  Updated: 2026-09-17T11:25:06Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 70
 - [All plushies](https://qtplushies.com/collections/all-plushies): Explore our collection of plushies and stuffed animals, from Pokémon and Palworld to cute animals, dragons and life-size plush toys.
-  Updated: 2026-09-18T08:53:10Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 273
 - [Deals Of The Week!](https://qtplushies.com/collections/deals-of-the-week)
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-22T11:16:53Z
   Total Products: 13
 - [Best sellers](https://qtplushies.com/collections/best-sellers)
   Updated: 2026-08-28T16:02:59Z
   Total Products: 0
 - [Animals](https://qtplushies.com/collections/animals): Shop soft and cute animal plush toys at affordable prices. Ideal for kids, gifts, and collectors. Browse the latest animal plush toy collection now!
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T17:22:22Z
   Total Products: 83
 - [Featured Products](https://qtplushies.com/collections/featured-products)
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-23T11:18:20Z
   Total Products: 17
 - [QTworld](https://qtplushies.com/collections/qtworld)
-  Updated: 2026-09-14T11:18:28Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 15
 - [Amuseables](https://qtplushies.com/collections/amuseables): Shop cute Amuseables plush toys online. Soft, unique, and perfect for gifts, décor, and plush collectors. Order your favorite plushies today!
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T15:14:54Z
   Total Products: 45
 - [Pal world](https://qtplushies.com/collections/pal-world): Shop adorable Palworld plush toys featuring fan-favorite characters like Chillet, Lamball & Depresso. Perfect for collectors & gifts. Order now!
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 38
 - [Big Plushies](https://qtplushies.com/collections/big-plushies)
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 76
 - [Dragons](https://qtplushies.com/collections/dragons): Shop dragon plush toys and cute stuffed dragon animals. Soft, cuddly, and perfect for kids, gifts, and fantasy lovers. Explore the collection, Shop Now!
-  Updated: 2026-09-17T08:37:56Z
+  Updated: 2026-09-23T11:18:20Z
   Total Products: 29
 - [Pokemon world](https://qtplushies.com/collections/pokemon-world): Discover Pokémon plushies with ultra-soft fabric for comfort and joy. Perfect for fans, kids & collectors. Shop cute stuffed toys online now. Shop Now!
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T20:21:38Z
   Total Products: 59
 - [Limited drop](https://qtplushies.com/collections/limited-drop)
-  Updated: 2026-08-28T16:02:59Z
+  Updated: 2026-09-19T11:57:16Z
   Total Products: 9
 - [Deals of the Day](https://qtplushies.com/collections/deals-of-the-day)
-  Updated: 2026-09-17T11:16:55Z
+  Updated: 2026-09-25T21:52:57Z
   Total Products: 47
 
 ## Blogs
