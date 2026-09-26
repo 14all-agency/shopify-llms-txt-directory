@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-09-17T00:00:37.523Z
+- Updated At: 2026-09-26T00:00:40.739Z
 
 ## Products
 
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1420.22.16.png?v=1786728222
   Price: ₺0,00 TRY
 - [Omairat Zigon Sehpa 5022](https://koltuxs.com/products/omairat-zigon-sehpa-5022): Ürün Açıklaması Farklı boyutlardaki üçlü seti sayesinde kullanım kolaylığı sunan bu zigon sehpa modeli, salonunuzda hem şık bir detay oluşturur hem de dar alanlarda pratik çözümler sağlar. Kaliteli malzemesi ve zarif ayak tasarımı ile uzun ömürlü kullanım imkanı tanır. Ürün Özellikleri Mermer desenli zarif üst tabla yüzeyi İç içe geçebilen üçlü modüler tasarım Krem tonlarında uyumlu ve şık ayak/iskelet yapısı Dayanıklı ve kaliteli malzeme yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 5022 Ağırlık: 17 Kg Hacim: 0,059 $m^3$ Ölçü: G: 69 cm – Y: 60 cm – D: 41 cm
-  Updated: 2026-08-15T17:15:18Z
+  Updated: 2026-09-22T01:52:37Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1501.08.29.png?v=1786745380
   Price: ₺0,00 TRY
 - [Omairat Yemek Masası 7200](https://koltuxs.com/products/omairat-yemek-masasi-7200): Omairat Yemek Masası (Kod: 7200) Ürün Açıklaması Ahşap dokulu şık yuvarlak üst tablası, siyah kasa detayları ve modern metal ayak tasarımıyla dikkat çeken Omairat Yemek Masası, yemek odanıza veya mutfağınıza çağdaş ve şık bir hava kazandırır. Pratik açılabilir mekanizması sayesinde günlük kullanımda konfor sunarken, misafirleriniz için ideal ve kullanışlı bir sofra alanı oluşturur. Ürün Özellikleri Ahşap dokulu şık yuvarlak üst tabla tasarımı Siyah detaylarla zenginleştirilmiş modern kasa yapısı Sağlamlık ve estetik sunan siyah metal ayak tasarımı Pratik açılabilir mekanizma Dayanıklı ve uzun ömürlü kaliteli malzeme Teknik Ölçüler ve Bilgiler Ürün Kodu: 7200 Ağırlık: 30 Kg Hacim: 0,213 $m^3$ Ölçü: G: 104 cm – Y: 77 cm – D: 104 cm
-  Updated: 2026-08-15T23:48:07Z
+  Updated: 2026-09-19T22:15:16Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/1002.jpg?v=1786782969
   Price: ₺0,00 TRY
 - [Mazzero Sandalye 1003](https://koltuxs.com/products/mazzero-sandalye-1003): Mazzero Sandalye (#S1003) Ürün Açıklaması Sıcak ahşap iskeleti ve oturum ile sırt kısmını kaplayan zarif taba renkli şerit örgü detaylarıyla dikkat çeken Mazzero Sandalye (#S1003), yaşam alanlarınıza modern ve doğal bir zarafet kazandırır. Ergonomik alçak oturum yapısıyla hem konforlu bir dinlenme deneyimi sunar hem de estetik duruşuyla odanızın atmosferini tamamlar. Ürün Özellikleri Oturum ve sırt alanında şık taba renkli şerit örgü tasarımı Sıcak ahşap tonlarında sağlam ve dayanıklı iskelet yapısı Ergonomik ve konforlu dinlenme formu Kaliteli işçilik ve uzun ömürlü kullanım
-  Updated: 2026-08-16T08:30:55Z
+  Updated: 2026-09-21T01:19:28Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -795,7 +795,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.16.17.png?v=1787264308
   Price: ₺0,00 TRY
 - [Lotus Yemek Odası Takımı](https://koltuxs.com/products/lotus-yemek-odasi-takimi)
-  Updated: 2026-08-20T23:17:33Z
+  Updated: 2026-09-20T04:29:36Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -963,7 +963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2021.png?v=1787954693
   Price: ₺0,00 TRY
 - [ZUS 2022 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2022-kafe-restoran-sandalyesi)
-  Updated: 2026-08-29T04:21:27Z
+  Updated: 2026-09-20T12:22:22Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1138,7 +1138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1001.png?v=1787957447
   Price: ₺0,00 TRY
 - [Mazzero M1002 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1002-kafe-restoran-sehpasi)
-  Updated: 2026-08-29T04:09:41Z
+  Updated: 2026-09-20T14:06:48Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1170,7 +1170,7 @@
 ## Collections
 
 - [Anasayfa](https://koltuxs.com/collections/frontpage)
-  Updated: 2026-08-20T22:25:35Z
+  Updated: 2026-09-20T11:24:14Z
   Total Products: 73
 - [Oturma Odası](https://koltuxs.com/collections/oturma-odasi)
   Updated: 2026-08-24T16:13:25Z
@@ -1191,7 +1191,7 @@
   Updated: 2026-08-15T10:49:00Z
   Total Products: 4
 - [Zigon Sehpa](https://koltuxs.com/collections/zigon-sehpa)
-  Updated: 2026-08-15T10:49:00Z
+  Updated: 2026-09-22T11:23:01Z
   Total Products: 10
 - [Yan Sehpa](https://koltuxs.com/collections/yan-sehpa)
   Updated: 2026-08-15T10:49:00Z
@@ -1227,19 +1227,19 @@
   Updated: 2026-08-15T10:49:01Z
   Total Products: 0
 - [Yemek Odası](https://koltuxs.com/collections/yemek-odasi)
-  Updated: 2026-08-20T22:20:27Z
+  Updated: 2026-09-20T11:24:14Z
   Total Products: 26
 - [Yemek Odası Takımı](https://koltuxs.com/collections/yemek-odasi-takimi)
-  Updated: 2026-08-20T22:20:27Z
+  Updated: 2026-09-20T11:24:14Z
   Total Products: 17
 - [Yemek Masası](https://koltuxs.com/collections/yemek-masasi)
-  Updated: 2026-08-15T10:49:01Z
+  Updated: 2026-09-20T11:24:14Z
   Total Products: 11
 - [Mutfak Masası](https://koltuxs.com/collections/mutfak-masasi)
   Updated: 2026-08-15T10:49:01Z
   Total Products: 0
 - [Sandalye](https://koltuxs.com/collections/sandalye)
-  Updated: 2026-08-15T10:49:01Z
+  Updated: 2026-09-21T11:22:09Z
   Total Products: 13
 - [Konsol](https://koltuxs.com/collections/konsol)
   Updated: 2026-08-15T10:49:01Z
@@ -1296,7 +1296,7 @@
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
 - [Kafe/Restoran Sehpa](https://koltuxs.com/collections/sehpalar)
-  Updated: 2026-08-28T23:25:40Z
+  Updated: 2026-09-21T11:22:09Z
   Total Products: 5
 - [Tamamlayıcı Ürünler](https://koltuxs.com/collections/tamamlayici-urunler)
   Updated: 2026-08-15T10:49:02Z
@@ -1323,13 +1323,13 @@
   Updated: 2026-08-15T10:49:03Z
   Total Products: 0
 - [Kafe/Restoran](https://koltuxs.com/collections/kafe-restoran)
-  Updated: 2026-08-28T23:25:40Z
+  Updated: 2026-09-21T11:22:09Z
   Total Products: 61
 - [Düğün Paketi](https://koltuxs.com/collections/dugun-paketi)
   Updated: 2026-08-15T10:49:03Z
   Total Products: 1
 - [Kafe/Restoran Sandalye](https://koltuxs.com/collections/kafe-restoran-sandalye)
-  Updated: 2026-08-28T23:10:02Z
+  Updated: 2026-09-21T11:22:09Z
   Total Products: 57
 
 ## Store Pages
