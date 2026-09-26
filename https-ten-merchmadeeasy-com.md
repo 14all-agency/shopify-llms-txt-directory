@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-09T16:09:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-17T15:10:16.142Z
+- Updated At: 2026-09-26T00:00:26.696Z
 
 ## Products
 
 - [OUTWEST TOTE TEN TOUR 100% COTTON](https://ten.merchmadeeasy.com/products/outwest-tote): TEN OUTWEST TOUR TOTE in natural with print on one side. 100% cotton 15"W x 16"H x 3"D
-  Updated: 2026-09-17T15:05:42Z
+  Updated: 2026-09-19T19:23:08Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/168477_1_310509_d_jpg.png?v=1789575323
   Price: $25.00 USD
 - [PHOTO TOUR TEE](https://ten.merchmadeeasy.com/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-09-17T15:05:42Z
+  Updated: 2026-09-19T19:23:09Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $40.00 USD
 - [PHOTO TOUR HOODIE](https://ten.merchmadeeasy.com/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in charcoal with front and back print. 100% Cotton
-  Updated: 2026-09-17T15:05:42Z
+  Updated: 2026-09-19T19:23:09Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -60,14 +60,14 @@
     Availability: Available
     Price: $80.00 USD
 - [OUTWEST HAT](https://ten.merchmadeeasy.com/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. Adjustable back closure
-  Updated: 2026-09-17T15:05:42Z
+  Updated: 2026-09-19T19:23:09Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTHAT.png?v=1789576954
   Price: $45.00 USD
 - [WEST TOUR TEE](https://ten.merchmadeeasy.com/products/west-tour-tee): TEN WEST TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-09-17T15:05:51Z
+  Updated: 2026-09-19T19:23:09Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -88,7 +88,7 @@
     Availability: Available
     Price: $40.00 USD
 - [OUTWEST IRL KEYCHAIN](https://ten.merchmadeeasy.com/products/outwest-irl-keychain): TEN OUTWEST IRL KEYCHAIN Acrylic charms with steel wire rings
-  Updated: 2026-09-17T15:05:51Z
+  Updated: 2026-09-19T19:23:10Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
@@ -122,6 +122,10 @@
   Updated: 2026-09-09T16:09:56Z
 - [Your Privacy Choices](https://ten.merchmadeeasy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-09T16:09:59Z
+- [Withdrawal form](https://ten.merchmadeeasy.com/pages/eu-withdrawal-form)
+  Updated: 2026-09-17T15:11:36Z
+- [Tour Dates](https://ten.merchmadeeasy.com/pages/tour-dates): Follow TEN View on Laylo
+  Updated: 2026-09-24T18:43:09Z
 
 ## Policies
 
