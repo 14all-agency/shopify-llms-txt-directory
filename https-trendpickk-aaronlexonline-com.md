@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-08-01T08:18:25Z
 - Contact Email: aaronlexbusinesssolutions@gmail.com
-- Updated At: 2026-09-16T00:00:46.471Z
+- Updated At: 2026-09-26T00:00:45.091Z
 
 ## Products
 
@@ -264,7 +264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/260204486338.jpg?v=1786230788
     Price: ₹3,000.00 INR
 - [Women's Off-Shoulder Suit Long Sleeve Top And Flare Leg Pants Set - Loose Fit Casual Two Piece Outfit](https://trendpickk.aaronlexonline.com/products/womens-off-shoulder-suit-long-sleeve-top-and-flare-leg-pants-set-loose-fit-casual-two-piece-outfit): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Colors: Black and white, white and gray, red and black Pants Length: Full-length Sizes: S, M, L, XL, 2XL, 3XL Fabric Name: Polyester Sleeve Style: Short sleeve Main Fabric Composition: Acetate fiber Top Style: T-shirt Gender: Women Sleeve Length: Long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1 * T-shirt+1 * pants Product Image:
-  Updated: 2026-09-08T08:09:26Z
+  Updated: 2026-09-18T13:09:48Z
   Vendor: TrendPickk
   Product Type: Fashion
   Availability: Available
@@ -1251,7 +1251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/2216497574802.jpg?v=1786428126
     Price: ₹2,899.00 INR
 - [Women's Fashionable Elegant Long Suede Skirt Comfortable Slim Fit](https://trendpickk.aaronlexonline.com/products/womens-fashionable-elegant-long-suede-skirt-comfortable-slim-fit): Product information: Fabric name: Polyester (polyester fiber) Skirt type: straight dress Color: light brown, dark red, black, dark gray, dark blue Elasticity: Micro elasticity Main fabric composition: Suede Size: S,M,L,XL,XXL,XS Style type: temperament commute Skirt length: mid-length skirt Skirt Category: skirt Popular elements: Tassel Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Skirt x 1 pcs Product Image:
-  Updated: 2026-09-04T17:09:56Z
+  Updated: 2026-09-21T11:08:06Z
   Vendor: TrendPickk
   Product Type: 
   Availability: Available
@@ -1457,7 +1457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/0105b100-690e-4879-842f-fb78ff4eb28b.jpg?v=1786455246
     Price: ₹2,299.00 INR
 - [Turtleneck Long-sleeved Dress Fashion Sexy Slim-fitting Bodycon Long Dresses Women's Clothing](https://trendpickk.aaronlexonline.com/products/turtleneck-long-sleeved-dress-fashion-sexy-slim-fitting-bodycon-long-dresses-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Solid color Skirt type: Pencil skirt Color: Coffee, Dark gray, Khaki, Brown Size: S, M, L, XL, XXL Skirt length: Mid-length skirt Style: Slim fit Fabric name: Polyester Sleeve length: Long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Polyester women's dress * 1 Product Image:
-  Updated: 2026-08-29T03:01:10Z
+  Updated: 2026-09-20T05:08:07Z
   Vendor: TrendPickk
   Product Type: 
   Availability: Available
@@ -2539,7 +2539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0998/9213/4209/files/7406057875094.jpg?v=1786510748
     Price: ₹2,459.92 INR
 - [Spray Water Bottle For Girls Outdoor Sport Fitness Water Cup Large Capacity Spray Bottle Drinkware Travel Bottles Kitchen Gadgets](https://trendpickk.aaronlexonline.com/products/spray-water-bottle-for-girls-outdoor-sport-fitness-water-cup-large-capacity-spray-bottle-drinkware-travel-bottles-kitchen-gadgets): Overview: Wide mouth, easy to fill and clean With a handle strap, easy to carry Leakproof lid, easy to carry Perfect for kitchen, office, sports and more Safe material, nontoxic and odorless Product information: Product Type: Water Cup Style: Modern and simple Function: Environmental protection Structure: Single layer Pattern: plain Microwave: Not available Shape: Round Color: White, green, black, pink Material: Plastic Packing list: Plastic water cup x1
-  Updated: 2026-08-29T03:01:17Z
+  Updated: 2026-09-22T18:06:59Z
   Vendor: AA Vesa
   Product Type: 0
   Availability: Available
