@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-15T16:17:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-19T00:00:38.218Z
+- Updated At: 2026-09-26T00:00:39.377Z
 
 ## Products
 
@@ -114,7 +114,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Double Osos Hat - Black](https://drinkporosos.store/products/double-osos-black-hat): New Era 2.0: with an increased crown depth and a flatter-sitting bill. Size L/XL, ranging from 7" to 7 3/4"! 100% polyester High-profile Structured Snapback closure
-  Updated: 2026-09-10T16:42:58Z
+  Updated: 2026-09-22T01:52:07Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -166,21 +166,21 @@
     Availability: Available
     Price: $80.00 USD
 - [Double Osos Hat - Maroon/Gold](https://drinkporosos.store/products/tallahassee-osos-hat): Double Osos Hat in black with maroon and gold embroidery on front and side. One size fits most 80/20 acrylic/wool Structured, six-panel, high-profile Flat bill, sewn eyelets, snapback closure
-  Updated: 2026-08-27T13:24:16Z
+  Updated: 2026-09-23T02:48:35Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POTALLAHASSEEOSOSHAT.png?v=1754666493
   Price: $45.00 USD
 - [Logo Hat - Maroon](https://drinkporosos.store/products/tallahassee-logo-hat): Por Osos Logo Hat in maroon with embroidery on front. One size fits most 80/20 acrylic/wool Structured, six-panel, high-profile Flat bill, sewn eyelets, snapback closure
-  Updated: 2026-09-18T18:01:42Z
+  Updated: 2026-09-23T15:42:49Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POTALLAHASSEELOGOHAT.png?v=1754666470
   Price: $45.00 USD
 - [Bear Tee - Maroon](https://drinkporosos.store/products/tallahassee-black-bear-tee): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-08-29T17:18:00Z
+  Updated: 2026-09-23T15:42:25Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -204,14 +204,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Vodka Co. Trucker Hat](https://drinkporosos.store/products/vodka-co-trucker-hat): Your favorite Por Osos Black Trucker Hat now with a curved visor and mesh back + NEW AND IMPROVED LOGO Structured, six-panel, mid-profile, snapback closure
-  Updated: 2026-09-13T02:10:56Z
+  Updated: 2026-09-24T23:09:05Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POVODKACOTRUCKER.png?v=1763654387
   Price: $40.00 USD
 - [Patch Hat](https://drinkporosos.store/products/patch-hat): Por Osos Patch Hat in natural/walnut with patch on front and embroidery on back. 100% cotton, snapback closure
-  Updated: 2026-09-10T16:42:56Z
+  Updated: 2026-09-19T21:48:08Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -221,16 +221,16 @@
 ## Collections
 
 - [Featured Products](https://drinkporosos.store/collections/frontpage)
-  Updated: 2026-09-16T17:29:43Z
+  Updated: 2026-09-25T11:21:54Z
   Total Products: 39
 - [Apparel](https://drinkporosos.store/collections/apparel)
-  Updated: 2026-09-16T17:29:43Z
+  Updated: 2026-09-24T11:18:54Z
   Total Products: 22
 - [Accessories](https://drinkporosos.store/collections/accessories)
-  Updated: 2026-09-16T17:28:56Z
+  Updated: 2026-09-25T11:21:54Z
   Total Products: 17
 - [Hats](https://drinkporosos.store/collections/hats)
-  Updated: 2026-09-16T17:28:56Z
+  Updated: 2026-09-25T11:21:54Z
   Total Products: 13
 - [Music](https://drinkporosos.store/collections/music)
   Updated: 2026-07-08T21:44:42Z
@@ -239,20 +239,20 @@
   Updated: 2026-08-15T11:18:07Z
   Total Products: 5
 - [T-Shirts](https://drinkporosos.store/collections/t-shirts)
-  Updated: 2026-09-16T17:29:43Z
+  Updated: 2026-09-24T11:18:54Z
   Total Products: 14
 - [Jerseys](https://drinkporosos.store/collections/jerseys)
   Updated: 2026-07-30T19:25:49Z
   Total Products: 2
 - [Drops Of Summer](https://drinkporosos.store/collections/drops-of-summer)
-  Updated: 2026-09-11T11:17:00Z
+  Updated: 2026-09-24T11:18:54Z
   Total Products: 8
 - [Vodka Collection](https://drinkporosos.store/collections/vodka-collection)
   Updated: 2026-09-11T11:17:00Z
   Total Products: 4
 - [ALL](https://drinkporosos.store/collections/all)
-  Updated: 2026-09-16T17:29:43Z
-  Total Products: 16
+  Updated: 2026-09-25T11:21:54Z
+  Total Products: 13
 - [Just Added](https://drinkporosos.store/collections/just-added)
   Updated: 2026-07-30T19:25:52Z
   Total Products: 2
@@ -266,13 +266,13 @@
   Updated: 2026-07-30T19:25:53Z
   Total Products: 2
 - [Tallahassee Merch](https://drinkporosos.store/collections/tallahassee-merch)
-  Updated: 2026-08-30T11:17:14Z
+  Updated: 2026-09-24T11:18:54Z
   Total Products: 3
 - [UPSELL](https://drinkporosos.store/collections/upsell)
   Updated: 2026-09-11T11:17:00Z
   Total Products: 5
 - [POR OSOS PALOOZA](https://drinkporosos.store/collections/por-osos-palooza)
-  Updated: 2026-09-16T17:29:43Z
+  Updated: 2026-09-25T11:21:54Z
   Total Products: 21
 
 ## Store Pages
