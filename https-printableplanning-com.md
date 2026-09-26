@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-09-19T16:00:33.914Z
+- Updated At: 2026-09-26T20:00:33.202Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -470,7 +470,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Daily_Nanny_Duties_Checklist_-_Printable_Planning_55a75c1e-14a1-47f1-9302-d0b6d004ffb6.jpg?v=1564705795
   Price: $5.95 USD
 - [Pet Sitter Daily Care Log & Report Card | Blue & Green](https://printableplanning.com/products/pet-report-card-daily-care-sheet-blue-green-printable): Track meals, potty times, sleep, activities, mood, , supplies, concerns, and notes with this blue and green printable pet sitter care log.
-  Updated: 2026-09-15T21:17:22Z
+  Updated: 2026-09-24T16:13:56Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -1384,19 +1384,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-09-19T11:01:08Z
+  Updated: 2026-09-25T11:01:27Z
   Total Products: 423
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-09-09T11:01:39Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-09-19T11:01:08Z
+  Updated: 2026-09-25T11:01:27Z
   Total Products: 423
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-09-02T11:01:45Z
   Total Products: 15
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-09-16T11:01:44Z
+  Updated: 2026-09-25T11:01:27Z
   Total Products: 48
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-09-15T11:02:01Z
