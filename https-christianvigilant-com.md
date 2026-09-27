@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2024-10-04T05:46:06Z
 - Contact Email: lk@christianvigilant.com
-- Updated At: 2026-09-05T00:00:41.086Z
+- Updated At: 2026-09-27T00:00:47.961Z
 
 ## Products
 
 - [Base Armory  & Hard Case](https://christianvigilant.com/products/basic-armory-): CVA Base Armory  Package The CVA Base Armory  Package delivers a solid balance of quality and performance for any enthusiast, whether you’re starting a build or upgrading your collection. With this setup, you’re investing in a foundation build on Aero Precision; a brand you can trust. Every CVA  package is bundled with a Custom Hard Shell Case, 2 Custom 30 Round Magazines, and Iron Sights. The Lower Receiver will be sent to your chosen FFL for transfer to you and the rest of your  package will be sent to your home. If this is shown as out of stock, this is a special-order item - delivery may be 6-8 weeks, possibly longer. This package includes: M4E1 Pro Lower Receiver - Anodized Black AR15 Upper Receiver - Anodized Black 15” AR15 R-One M-Lok Handguard - Anodized Black 16” 5.56 CMV Barrel – 4150 Chrome Moly Vanadium Mid Length Gas System, Pined Low Profile Gas Block Black Nitride M16 Cut Bolt Carrier Group w/ 9310 Tool Steel Bolt Assembly -individually HPT & MPI Tested AR15 A2 Birdcage Flash Hider AR15/M4 5.56 Charging Handle Mil-Spec Two Stage Trigger AR15 Carbine Buffer Kit Magpul MOE Grip Magpul MOE Carbine Stock Custom Hardshell Case 2 Custom 30 Rd Magazines
-  Updated: 2026-08-28T18:37:49Z
+  Updated: 2026-09-17T09:29:25Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -26,7 +26,7 @@
     Availability: Available
     Price: $1,529.98 USD
 - [Performance Armory  & Hard Case](https://christianvigilant.com/products/defense-armory-): CVA Performance Armory  Package The CVA Performance Armory  Package is meticulously crafted for shooters who demand reliability, precision, and high-performance in every component. Designed for tactical applications, competitive shooting, or personal defense, this premium package includes top-of-the-line parts from industry leaders, ensuring each part works seamlessly to deliver superior performance and durability. Every CVA  package is bundled with a Custom Hard Shell Case, 2 Custom 30 Round Magazines, and Iron Sights. The Lower Receiver will be sent to your chosen FFL for transfer to you and the rest of your  package will be sent to your home. If this is shown as out of stock, this is a special-order item - delivery may be 6-8 weeks, possibly longer. This package includes: M4E1 Pro Lower Receiver - Anodized Black AR15 Upper Receiver - Anodized Black 15” AR15 R-One M-Lok Handguard - Anodized Black 16” 5.56 CMV Barrel – 4150 Chrome Moly Vanadium Mid Length Gas System, Pined Low Profile Gas Block Radian Enhanced Bolt Carrier Group w/ 9310 Tool Steel Bolt Assembly – Black Nitride OR Geissele Reliability Enhanced Bold Carrier Group Geissele Super Semi-Automatic Enhanced (SSA-E) two Stage Trigger Geissele Premium Buffer tube assembly with super 42 Braided Spring and H1 buffer SliencerShop AR15 MuzzleBrake/Flash Hider BREACH™ Charging Handle Magpul K2 Grip Magpul CTR Carbine Stock Custom Hardshell Case 2 Custom 30 Rd Magazines Why Choose the CVA Performance Armory ? Every component in the CVA Performance Armory  package has been hand-selected to deliver maximum performance and dependability. With high-quality parts from Aero Precision, Geissele, Radian, and MagPul, this  is built for those who are serious about protection, precision, and power. The Performance Armory  package represents an  in skill and strength—whether for sport, defense, or tactical readiness.
-  Updated: 2026-08-28T18:37:50Z
+  Updated: 2026-09-17T09:29:25Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -50,7 +50,7 @@
     Availability: Available
     Price: $2,029.98 USD
 - [Performance Plus Armory  & Hard Case](https://christianvigilant.com/products/offense-armory-): CVA Performance Plus Armory  Package The CVA Performance Plus Armory  is a high-grade package designed for those who demand excellence, precision, and reliability in their . Equipped with premium components from Aero Precision, Geissele, Radian, MagPul, and Surefire, this  system provides unparalleled performance across a range of tactical and defensive applications. The Performance Plus package includes every essential for superior control, accuracy, and versatility, making it an exceptional choice for those serious about protection, personal defense, and high-stakes performance.. Every CVA  package is bundled with a Custom Hard Shell Case, 2 Custom 30 Round Magazines, and Iron Sights. The Lower Receiver will be sent to your chosen FFL for transfer to you and the rest of your  package will be sent to your home. If this is shown as out of stock, this is a special-order item - delivery may be 6-8 weeks, possibly longer. This package includes: M4E1 Pro Lower Receiver - Anodized Black AR15 Upper Receiver - Anodized Black 15” AR15 R-One M-Lok Handguard - Anodized Black 16” 5.56 CMV Barrel – 4150 Chrome Moly Vanadium Mid Length Gas System, Pined Low Profile Gas Block Radian Enhanced Bolt Carrier Group w/ 9310 Tool Steel Bolt Assembly – Black Nitride OR Geissele Reliability Enhanced Bold Carrier Group Geissele Super Semi-Automatic Enhanced (SSA-E) two Stage Trigger SliencerShop AR15 MuzzleBrake/Flash Hider BREACH™ Charging Handle Surefire Tactical Flashlight and Switch Blue Force Gear Sling with QD Attachments Magpul K2 Grip Magpul CTR Carbine Stock Custom Hardshell Case 2 Custom 30 Rd Magazines Why Choose the CVA Performance Armory ? Every part of the CVA Performance Plus Armory  package is selected for maximum performance, control, and reliability. From the advanced Geissele trigger and Radian bolt carrier group to the powerful Surefire flashlight and secure Blue Force Gear sling, this setup ensures you are prepared for any scenario. For those who require a high-performance  that’s as versatile as it is powerful, the Performance Plus package is the ultimate choice.
-  Updated: 2026-08-28T18:37:50Z
+  Updated: 2026-09-17T09:29:25Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Available
     Price: $2,601.98 USD
 - [Security Armory  & Hard Case](https://christianvigilant.com/products/basic-armory--copy): CVA Security Armory  Package The CVA Security Armory  Package is meticulously designed for individuals who prioritize security and preparedness. This  is built with premium parts from trusted brands like Aero Precision, MagPul, Surefire, and Blue Force Gear, ensuring it’s ready for any high-stakes scenario. With features tailored for quick handling, enhanced control, and dependable performance, this package is ideal for personal defense and tactical use. Every CVA  package is bundled with a Custom Hard Shell Case, 2 Custom 30 Round Magazines, and Iron Sights. The Lower Receiver will be sent to your chosen FFL for transfer to you and the rest of your  package will be sent to your home. If this is shown as out of stock, this is a special-order item - delivery may be 6-8 weeks, possibly longer. This package includes: M4E1 Pro Lower Receiver - Anodized Black AR15 Upper Receiver - Anodized Black 15” AR15 R-One M-Lok Handguard - Anodized Black 16” 5.56 CMV Barrel – 4150 Chrome Moly Vanadium Mid Length Gas System, Pined Low Profile Gas Block Black Nitride M16 Cut Bolt Carrier Group w/ 9310 Tool Steel Bolt Assembly -individually HPT & MPI Tested AR15 A2 Birdcage Flash Hider AR15/M4 5.56 Charging Handle Mil-Spec Two Stage Trigger AR15 Carbine Buffer Kit Surefire Tactical Flashlight and Switch Blue Force Gear Sling with QD Attachments Magpul MOE Grip Magpul MOE Carbine Stock Custom Hardshell Case 2 Custom 30 Rd Magazines Why Choose the CVA Security Armory ? Built for reliability in critical moments, the CVA Security Armory  package provides every essential feature for defense and control. From a tactical flashlight for low-light scenarios to a dependable sling and foregrip, this setup is optimized for security applications. Perfect for those committed to preparedness, this package delivers performance and peace of mind.
-  Updated: 2026-08-28T18:37:50Z
+  Updated: 2026-09-17T09:29:26Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -89,63 +89,63 @@
     Availability: Available
     Price: $2,263.92 USD
 - [EO Tech EXPS2-0](https://christianvigilant.com/products/defense-armory--1): The EOTech EXPS2-0 is a high-performance holographic  sight, known for its rapid target acquisition, rugged construction, and precision optics. Designed for close to mid-range engagements, the EXPS2-0 delivers clear, crisp sighting with a true heads-up display, allowing shooters to keep both eyes open for enhanced situational awareness. Key features include: Quick-Detach Lever: The EXPS2-0 includes a quick-detach lever, making it easy to mount and dismount from your firearm while ensuring a secure fit. This feature is especially useful for shooters who need to switch optics quickly or adapt to different shooting conditions. Holographic Reticle: EOTech’s signature 68 MOA ring and 1 MOA center dot reticle allow for precise aiming and fast target acquisition, making it ideal for dynamic shooting scenarios. Rugged Durability: Built to withstand tough conditions, the EXPS2-0 is waterproof, fog-resistant, and shockproof. It’s engineered to handle recoil and impacts, providing reliable performance in various environments. Compact and Lightweight Design: Its compact build offers a lower 1/3 co-witness, ensuring it pairs well with iron sights without adding bulk or weight to your firearm. User-Friendly Controls: The side-mounted buttons allow for easy adjustments, even while wearing gloves, and the optic offers up to 20 brightness settings for adaptability to different lighting conditions. Whether for tactical use, self-defense, or competitive shooting, the EOTech EXPS2-0 stands out for its quality, reliability, and ease of use. Its rugged performance and fast acquisition make it a popular choice among law enforcement, military, and civilian shooters alike.
-  Updated: 2026-08-28T18:37:51Z
+  Updated: 2026-09-17T09:29:26Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/Eotech_optic.jpg?v=1731521717
   Price: $645.00 USD
 - [Basic Armory Package](https://christianvigilant.com/products/basic-armory--4): CVA Basic Armory Package The CVA Basic Armory Package provides a robust foundation for those serious about building a versatile and dependable collection. This package includes essential , optics, ammunition, and accessories, equipping you with everything needed for defense, hunting, and training. Ideal for both beginners and experienced shooters, this armory package is crafted to cover a wide range of scenarios with quality and reliability. This is a special-order item - delivery times will be significant. Package Contents: Primary  Base Armory Weapons (2): Two CVA custom-built rifles provide a reliable and adaptable platform for both defense and range practice. Performance Armory : A high-grade CVA rifle with precision components for shooters who demand accuracy and performance. Security Armory : A tactical CVA  designed with essential security features, making it ideal for personal defense. Shotgun: Mossberg MB68224 Combo Slug Turkey Hunter, perfect for hunting or close-range applications. .22 LR Rifle: Mossberg MB37234, an excellent choice for target practice and small game hunting. Handguns (2): Glock G47 Gen5, known for its reliability and ease of use, making it a valuable addition to any defensive setup. Magazines and Optics Magazines: Includes 10 MagPul AR-15 magazines and 4 Glock magazines for ample ammunition capacity. Optics: High-quality optics for various shooting needs, including: EOTECH EXPS2-0 for rapid target acquisition. Holosun HOLHS503CU red dot sights (2) for flexibility in multiple . Sig Sauer TANGO-MSR 1-6x24 for longer-range precision. Ammunition .556 Ammo: 4 cases of Greentip, ideal for defensive applications. .556 Hunting Ammo: 2 boxes of FAF223MSR1 for versatile hunting use. 12 Gauge Ammo: A selection of 10 boxes for waterfowl, 5 boxes of Federal Power-Shok slugs, and 5 boxes of 00 buckshot to cover various hunting and defense scenarios. .22 Ammo: Two 500-count boxes of Aguilla CPHP for reliable target practice and small game hunting. 9MM Ammo: Six boxes of Defense Doubletap for personal protection, plus two 1,000-round cases of PMC Bronze 9MM FMJ for extensive training. Gun Storage: Secure storage solution to keep your  and ammunition organized and protected. Why Choose the CVA Basic Armory Package? The Basic Armory Package offers an all-encompassing setup with a diverse range of , optics, and ammunition. With top brands like Mossberg, Glock, EOTECH, Holosun, Sig Sauer, and MagPul, this package ensures you’re prepared for defense, sport, and hunting. Designed to serve multiple roles, this package provides flexibility and peace of mind, making it an excellent choice for anyone building a complete, multi-purpose armory.
-  Updated: 2026-08-28T18:37:51Z
+  Updated: 2026-09-17T09:29:26Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/SEC-300-12R-5.jpg?v=1730406177
   Price: $18,768.70 USD
 - [Offense Armory Package](https://christianvigilant.com/products/basic-armory--5): CVA Offense Armory Package The CVA Offense Armory Package is an elite-level selection crafted for those who demand an extensive, powerful, and adaptable armory. This package includes an array of offensive-focused , optics, ammunition, and accessories, making it ideal for tactical applications, advanced training, and high-readiness scenarios. With a wide range of firearm types, enhanced optics, and ample ammunition, the Offense Armory Package provides a comprehensive toolkit for aggressive and precise operations. This is a special-order item - delivery times will be significant. Package Contents: Primary  Base Armory Weapons (10): Ten CVA rifles provide a flexible foundation for various offensive configurations, ensuring you have a robust lineup ready for immediate deployment. Performance Armory Weapons (2): Two CVA precision rifles for superior accuracy and control in high-stakes situations. Security Armory Weapons (3): Built for security and tactical adaptability, these weapons offer essential features for offensive and defensive engagements. Performance Plus Armory Weapons (2): Advanced CVA rifles with high-performance components for enhanced tactical versatility and resilience. Offensive Armory Weapons (2): Purpose-built for offensive roles, these CVA weapons combine power, control, and adaptability for strategic advantage. Shotguns: Mossberg MB68224 Combo Slug Turkey Hunter (2): Versatile shotguns suited for hunting, close-quarters use, and adaptable engagements. Mossberg MB85161 Pro Tactical (2): Tactical shotguns designed for reliability and effectiveness in close-combat scenarios. .22 LR Rifle: Mossberg MB37234, perfect for precision practice, small game, or alternative tasks requiring a lighter caliber. Handguns (6): Six Glock G47 Gen5 pistols, offering reliable, quick-access sidearms for any situation. Magazines and Optics Magazines: Includes 60 MagPul AR-15 magazines and 12 Glock magazines, ensuring ample capacity for prolonged engagements or training. Optics: A selection of high-quality optics for rapid and precise target acquisition: EOTECH EXPS2-0 (6) for rapid engagement and situational awareness. Holosun HOLHS503CU red dots (10) for versatile aiming solutions across multiple weapons. Sig Sauer TANGO-MSR 1-6x24 (3) for precision targeting at mid-range distances. Ammunition .556 Ammo: 20 cases of Greentip, suitable for heavy-duty applications. .556 Hunting Ammo: 15 boxes of FAF223MSR1 for effective hunting or alternative field use. 12 Gauge Ammo: 20 boxes of waterfowl loads, 10 boxes of Federal Power-Shok slugs, and 20 boxes of 00 buckshot for a variety of offensive and defensive scenarios. .22 Ammo: Two 500-count boxes of Aguilla CPHP, great for training and small game. 9MM Ammo: 18 boxes of Defense Doubletap for personal defense, plus six 1,000-round cases of PMC Bronze 9MM FMJ for extensive practice and operational readiness. Gun Storage: Comprehensive and secure storage solution to keep all weapons, accessories, and ammunition organized and ready for rapid access. Why Choose the CVA Offense Armory Package? The CVA Offense Armory Package is designed for those who need a versatile, high-capacity armory equipped for a wide array of tactical and offensive roles. With premier brands like Mossberg, Glock, EOTECH, Holosun, Sig Sauer, and MagPul, this package ensures exceptional quality, power, and readiness for any mission or scenario. Ideal for advanced shooters, security professionals, and enthusiasts dedicated to elite performance, the Offense Armory Package offers everything needed to be equipped for the most demanding situations.
-  Updated: 2026-08-28T18:37:51Z
+  Updated: 2026-09-17T09:29:27Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/armory.jpg?v=1730239152
   Price: $77,769.48 USD
 - [Christian Vigilant Armory Builder Membership](https://christianvigilant.com/products/basic-armory--7): Experience the Value of Building Your Armory with Expert Support and Exclusive Savings Our Armory Builder Membership is ideal for firearm enthusiasts who want to elevate their skills and savings without a long-term commitment. Whether you're building your first firearm or adding to your collection, this membership is designed to maximize value and flexibility, allowing you to gain expertise and significant savings on every purchase. Here’s what you get: No CommitmentEnjoy access to CVA’s premium resources, training, and exclusive member discounts—perfect for enthusiasts wanting sustained savings without a long-term commitment. Save $100 on CVA Gun PackagesMembers receive a $100  on each CVA gun package, reducing the  needed for high-quality, custom-built . Option to Buy Gun Packages Without a Case Save $130Opt for a streamlined gun package without the case for an additional $170 in savings, maximizing value without sacrificing quality. Off-The-Shelf : Save 10-20% off MSRP, making firearm purchases incredibly cost-effective. Perfect for Multi-Gun PurchasersTailored for those expanding their armory, this membership provides savings on each additional firearm, with member pricing benefits that add value year-round. Why Choose the Armory Builder Membership? If you’re dedicated to building a reliable, customized armory, the CVA Armory Builder Membership is your gateway to expert support and meaningful savings. Each purchase offers exceptional value, covering the cost of your membership and more—whether for holiday shopping, hunting season, or regular shooting practice. With CVA, you’re not just buying ; you’re investing in skills, stewardship, and exclusive access to premium deals.
-  Updated: 2026-08-28T18:37:51Z
+  Updated: 2026-09-18T12:01:58Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/WhiteonBlack.png?v=1730835093
   Price: $9.99 USD
 - [Christian Vigilant IAM Membership](https://christianvigilant.com/products/basic-armory--9): An  That Pays for Itself Year-Round The IAM Membership is designed for those who are passionate about outdoor activities, firearm ownership, and long-term preparedness. Whether you're purchasing , stocking up on ammunition, upgrading your optics, or exploring outdoor gear, this membership delivers unmatched value and exclusive access to savings. With benefits tailored to adventurers, preppers, and outdoor enthusiasts, the Adventurer Membership ensures you're always equipped and ready for any challenge. What You Get: No CommitmentEnjoy exclusive access to CVA’s member-only pricing, discounts, and resources to support your armory-building journey. Member Pricing Off-The-Shelf : Save 15-25% off MSRP, making firearm purchases incredibly cost-effective. Off-The-Shelf Ammo: Get Ammo at our cost + $.01, keeping you stocked for regular shooting or training. - Coming Soon Off-The-Shelf Optics: Access discounts of 15-45% on optics, enhancing your shooting experience and accuracy. 1 Extreme Purchase Per Year COMING SOONMake one major purchase annually at our cost plus $0.01, with no cap on potential savings. Perfect for high-value investments like hunting rifles, premium optics, or outdoor gear upgrades. Save $120 on CVA Gun PackagesMembers receive a $120  on each CVA gun package, reducing the  needed for high-quality, custom-built . Option to Buy Gun Packages Without a Case Save $130Opt for a streamlined gun package without the case for an additional $170 in savings, maximizing value without sacrificing quality. Expanded Gear AccessAs CVA expands into outdoor and hunting gear, your membership will offer discounts on everything from clothing and camping supplies to holiday gifts and special-occasion purchases—saving you many times the cost of your membership throughout the year. Why Choose the IAM Membership? The IAM Membership goes beyond savings—it’s a commitment to preparedness, skill-building, and financial freedom. Whether you're gearing up for hunting season, expanding your outdoor toolkit, or preparing for emergencies, this plan offers a wide range of benefits to support your lifestyle. With discounts that cover everything from  and ammo to outdoor gear and clothing, your membership will pay for itself many times over, making it an essential  for those who prioritize safety, adventure, and community.
-  Updated: 2026-09-03T16:02:13Z
+  Updated: 2026-09-20T01:02:05Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/CVA-TanonBlack.png?v=1730767637
   Price: $15.49 USD
 - [HOLOSUN MICRO REFLEX SIGHT](https://christianvigilant.com/products/defense-armory--2): The Holosun Micro Reflex Sight in black combines durability, precision, and cutting-edge features to provide shooters with a reliable and versatile red dot optic. Equipped with a 2 MOA red dot and a 65 MOA circle, this compact sight is ideal for both quick target acquisition at close range and precise aiming for more accurate shots. Perfect for tactical use, home defense, and competitive shooting, this optic delivers high performance in a lightweight package. Key features Include: Dual Reticle System: This sight features a 2 MOA red dot for pinpoint accuracy and a 65 MOA circle for faster target acquisition, allowing users to switch between or combine both reticles depending on the shooting scenario. 20mm Lens: With a compact 20mm lens, the Holosun Micro Reflex Sight offers a minimal footprint on the firearm while providing a wide and clear field of view. Long Battery Life: Built with Holosun’s advanced LED technology, this sight provides up to 50,000 hours of battery life on a single CR2032 battery, allowing for worry-free use over extended periods. Durable Construction: Made to withstand rugged conditions, the sight is constructed from lightweight, durable materials that are shockproof, waterproof, and resistant to harsh environmental conditions. Multiple Brightness Settings: With 12 brightness settings, including two night vision-compatible levels, this optic adapts seamlessly to various lighting environments, from bright daylight to low-light conditions. Parallax-Free and Unlimited Eye Relief: The parallax-free design and unlimited eye relief allow for quick, accurate targeting, regardless of head position, giving shooters flexibility and speed in dynamic situations. Compact yet powerful, the Holosun Micro Reflex Sight is designed for shooters who demand reliability and versatility. Its dual reticle, extensive battery life, and robust construction make it a trusted choice for anyone looking to improve their accuracy and responsiveness across a range of applications.
-  Updated: 2026-08-28T18:37:52Z
+  Updated: 2026-09-17T09:29:28Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/HOLHS503CU-0.jpg?v=1730766194
   Price: $230.29 USD
 - [Starter Armory Package](https://christianvigilant.com/products/basic-armory-package): CVA Starter Armory Package The CVA Starter Armory Package is the perfect all-in-one solution for anyone beginning to build a versatile, well-rounded armory. This package includes essential , ammunition, optics, and storage to cover a wide range of shooting needs—from personal defense and hunting to recreational shooting. This is a special-order item - delivery times will be significant. Package Contents: Primary  Base Armory : Custom-built by CVA, this  serves as the reliable foundation of your armory. Shotgun: Mossberg MB68224 Combo Slug Turkey Hunter – An adaptable shotgun ideal for both turkey hunting and slug shooting. .22 LR Rifle: Mossberg MB37234 – A versatile .22 rifle, perfect for small game hunting and target practice. Handgun: Glock G47 Gen5 – Renowned for its reliability and ease of use, ideal for personal defense. Magazines and Optics Magazines: Two 30-round AR-15 MagPul magazines and two Glock magazines for enhanced ammunition capacity. Optics: Holosun HOLHS503CU red dot sight and Sig Sauer TANGO-MSR 1-6x24 for rapid target acquisition and versatile range coverage. Ammunition .556 Ammo: 1000 rounds Greentip for added penetration and defense. .556 Hunting Rounds: Two boxes of FAF223MSR1 for hunting applications. 12 Gauge Ammo: A mix of waterfowl loads, Federal Power-Shok slugs, and 00 buckshot for versatility in the field. .22 Ammo: Two boxes of Aguilla CPHP 38 Gr, perfect for target practice and small game. 9MM Ammo: Three boxes of Defense Doubletap for personal defense, plus a 1,000-round case of PMC Bronze 9MM FMJ for training. Storage: Secure gun storage to keep your armory safe and organized. Why Choose the CVA Starter Armory Package? The Starter Armory Package is curated to equip you with a reliable set of tools for a range of shooting activities. It includes quality , essential accessories, and a mix of ammo for various applications, making it ideal for anyone looking to begin or expand their armory. With top brands like Mossberg, Glock, Sig Sauer, Holosun, and MagPul, this package represents a solid  in readiness, skill-building, and long-term reliability.
-  Updated: 2026-08-28T18:37:52Z
+  Updated: 2026-09-17T09:29:28Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/TGS-2500-CI_4-1.jpg?v=1730406177
   Price: $8,278.18 USD
 - [Defense Armory Package](https://christianvigilant.com/products/advanced-armory-package): CVA Defense Armory Package The CVA Defense Armory Package is a top-tier selection of , ammunition, and accessories, curated for those who require a fully equipped and versatile armory. This package includes multiple  tailored for defense, tactical scenarios, and general preparedness, providing all the tools needed for serious training, personal defense, and protection. Featuring a wide array of optics, magazines, and ammunition, the Defense Armory Package is designed for those committed to security and readiness at the highest level. This is a special-order item - delivery times will be significant. Package Contents: Primary  Base Armory Weapons (4): Four CVA rifles provide a flexible foundation for defense, range use, or customization. Performance Armory : A precision CVA rifle optimized for enhanced accuracy and control. Security Armory Weapons (2): Two CVA tactical rifles equipped with security features, ideal for defensive applications. Performance Plus Armory : A high-end, feature-rich rifle for advanced tactical and defensive performance. Shotguns: Mossberg MB68224 Combo Slug Turkey Hunter for versatile hunting and close-range options. Mossberg MB85161 Pro Tactical, a rugged and reliable shotgun designed for tactical engagements. .22 LR Rifle: Mossberg MB37234, ideal for target practice, training, and small-game hunting. Handguns (3): Three Glock G47 Gen5 handguns, known for their reliability and ease of use, suitable for self-defense and backup. Magazines and Optics Magazines: 20 MagPul AR-15 magazines and 6 Glock magazines, ensuring ample ammunition capacity for extended use. Optics: A versatile set of high-quality optics for varying engagement ranges: EOTECH EXPS2-0 holographic sights (2) for rapid target acquisition. Holosun HOLHS503CU red dot sights (4) for flexible, quick-aim capabilities. Sig Sauer TANGO-MSR 1-6x24 scopes (2) for precision shooting and mid-range versatility. Ammunition .556 Ammo: 8 cases of Greentip rounds for defensive applications. .556 Hunting Rounds: 5 boxes of FAF223MSR1, suitable for hunting. 12 Gauge Ammo: A mix of 10 boxes for waterfowl, 5 boxes of Federal Power-Shok slugs, and 10 boxes of 00 buckshot to handle various defensive and hunting scenarios. .22 Ammo: Two 500-count boxes of Aguilla CPHP 38 Gr for training and small game. 9MM Ammo: Nine boxes of Defense Doubletap for personal protection, plus three 1,000-round cases of PMC Bronze FMJ for extensive training and practice. Gun Storage: Secure and organized storage solution to protect and organize your  and accessories. Why Choose the CVA Defense Armory Package? The Defense Armory Package is a comprehensive setup that delivers maximum capability, flexibility, and readiness for any defensive situation. With premium components from top brands like Mossberg, Glock, EOTECH, Holosun, Sig Sauer, and MagPul, this package ensures you have the quality and performance needed for both practice and protection. Perfect for serious enthusiasts, security-focused individuals, and anyone committed to a robust defense strategy, the Defense Armory Package provides a dependable and extensive collection for any scenario.
-  Updated: 2026-08-28T18:37:53Z
+  Updated: 2026-09-17T09:29:29Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/armory.jpg?v=1730239152
   Price: $34,595.06 USD
 - [Builders Kit](https://christianvigilant.com/products/builders-kit): CVA Builders Kit: Everything You Need to Assemble with Confidence Equip yourself for success with the CVA Builders Kit, the perfect toolset for participating in our IAM A Christian Vigilant  Assembly Experience. Whether you’re assembling your first firearm or refining your skills, this comprehensive kit includes all the essentials to ensure a smooth and efficient build. What’s Included: Wheeler Punch and Hammer Set: Precision tools for detailed assembly work. Truglo AR Armorer’s Tool: A versatile, must-have tool for AR builds. T15 Torx Wrench: Ideal for securing screws and small components. 1/16" Allen Wrench: Essential for fine adjustments and fittings. Gun Cleaning Mat: Protects your workspace while keeping parts organized. Additional Tools Available On-Site: While not included in the Builders Kit, a vise and torque wrench—are recommended for precise installation. With the CVA Builders Kit, you’ll have everything you need to tackle your project confidently and effectively. Use your own tools or upgrade with this professional-grade set to make your assembly experience seamless and enjoyable. Start building with confidence—get your CVA Builders Kit today!
-  Updated: 2026-08-28T18:37:53Z
+  Updated: 2026-09-17T09:29:29Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -160,7 +160,7 @@
     Availability: Available
     Price: $92.07 USD
 - [Shooters Kit](https://christianvigilant.com/products/shooters-kit): CVA Shooter’s Kit: Everything You Need to Hit the Range Get ready for the range with our CVA Shooter’s Kit, a valuable and highly discounted package designed to equip you with top-quality essentials. Perfect for both new and experienced shooters, this kit ensures you’re prepared with reliable gear at an unbeatable price. What’s Included: G-Outdoors Range Bag: Keep your gear organized and accessible with a durable, spacious bag. Custom CVA Ammo Can: Stylish and practical for storing and transporting your ammunition. 100 Rounds of .556 Ammo: High-quality ammunition to keep you locked and loaded. Walker’s Ear Protection: Protect your hearing with trusted, comfortable ear protection. Carhart Eye Protection: Stay safe with durable eyewear designed for shooters. Bore Sight: Ensure precision with this essential tool for zeroing your firearm. This kit delivers incredible value, offering premium equipment for a fraction of the cost. Whether you’re gearing up for practice, recreation, or competition, the CVA Shooter’s Kit has everything you need to perform at your best. Don’t miss out—grab yours today and hit the range with confidence!
-  Updated: 2026-08-28T18:37:53Z
+  Updated: 2026-09-17T09:29:30Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@
     Availability: Available
     Price: $300.10 USD
 - [Max Out the Mags](https://christianvigilant.com/products/max-out-the-mags): Enhance your armory with 4 additional 30-round CVA-customized magazines. Built for performance and style, these exclusive mags complement your firearm purchase, ensuring you're ready for anything.
-  Updated: 2026-08-28T18:37:54Z
+  Updated: 2026-09-17T09:29:30Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
@@ -197,36 +197,21 @@
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/CC.png?v=1733352877
   Price: $0.00 USD
 - [Processing](https://christianvigilant.com/products/order-fees): 2.9 %  Fee
-  Updated: 2026-08-28T18:37:54Z
+  Updated: 2026-09-17T09:29:30Z
   Vendor: Christian Vigilant Arms
   Product Type: Fee Placeholder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/CC.png?v=1733352877
   Price: $0.00 USD
 - [Save Space & Remove The Case](https://christianvigilant.com/products/members-can-save-space-remove-the-case): Save Space & Remove the Case Exclusively for Christian Vigilant Members Streamline your armory with our Save Space & Remove the Case option. Designed to save $ for members who prioritize efficiency and value, this option allows you to purchase firearm packages without the included hard-shell case—perfect for those who already have storage solutions or are looking to save space and money. What’s the Benefit? Save $130 Instantly: Enjoy significant savings when you opt out of the hard-shell case. Efficient Storage: Perfect for compact storage solutions or custom gun safes. Member-Exclusive Flexibility: Savings only available to Christian Vigilant Members, ensuring you get the best value tailored to your needs. Why Choose This Option? Whether you’re expanding your armory or optimizing your space, Save Space & Remove the Case gives you the freedom to focus on what matters most—building your collection with high-quality  at unbeatable member pricing.
-  Updated: 2026-08-28T18:37:54Z
+  Updated: 2026-09-17T09:29:31Z
   Vendor: Christian Vigilant Arms
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/GunCase-X.jpg?v=1736955055
   Price: $0.00 USD
-- [Streamlight SL-B26 Lithium Battery](https://christianvigilant.com/products/streamlight-sl-b26-lithium-battery): SL-B26 LITHIUM BATTERY
-  Updated: 2026-08-28T18:37:55Z
-  Vendor: Streamlight
-  Product Type: Accessory-Batteries
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/22101aa2b.jpg?v=1747828378
-  - [Retail](https://christianvigilant.com/products/streamlight-sl-b26-lithium-battery?variant=44450712518793)
-    Availability: Available
-    Price: $25.11 USD
-  - [Member](https://christianvigilant.com/products/streamlight-sl-b26-lithium-battery?variant=44450843426953)
-    Availability: Available
-    Price: $15.44 USD
-  - [Premium Member](https://christianvigilant.com/products/streamlight-sl-b26-lithium-battery?variant=44450843459721)
-    Availability: Available
-    Price: $14.05 USD
 - [Streamlight SL-B26 Lithium Battery](https://christianvigilant.com/products/streamlight-sl-b26-lithium-battery-1): SL-B26 LITHIUM BATTERY 8PK
-  Updated: 2026-08-28T18:37:55Z
+  Updated: 2026-09-17T09:29:32Z
   Vendor: Streamlight
   Product Type: Accessory-Batteries
   Availability: Available
@@ -241,7 +226,7 @@
     Availability: Available
     Price: $142.62 USD
 - [Streamlight ProTac HPL USB Flashlight](https://christianvigilant.com/products/streamlight-protac-hpl-usb-flashlight): PROTAC HPL USB 1,000LM BLACKLONG-RANGE FLASHLIGHT
-  Updated: 2026-09-04T21:09:16Z
+  Updated: 2026-09-22T09:11:11Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -256,7 +241,7 @@
     Availability: Available
     Price: $107.34 USD
 - [Streamlight ProTac HL 5-X Flashlight](https://christianvigilant.com/products/streamlight-protac-hl-5-x-flashlight): PROTAC HL 5-X 3500LM BLACKMULTI-FUEL TACTICAL FLASHLIGHT
-  Updated: 2026-09-03T16:48:53Z
+  Updated: 2026-09-25T20:58:26Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -271,7 +256,7 @@
     Availability: Available
     Price: $87.45 USD
 - [Streamlight ClipMate USB Clip Light](https://christianvigilant.com/products/streamlight-clipmate-usb-clip-light): CLIPMATE USB RECHARGE BLACKWHITE AND RED LEDS
-  Updated: 2026-09-02T22:37:04Z
+  Updated: 2026-09-17T09:29:34Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -286,7 +271,7 @@
     Availability: Available
     Price: $41.86 USD
 - [Streamlight Stylus Penlight](https://christianvigilant.com/products/streamlight-stylus-penlight): STYLUS PENLIGHT WHITE LED BLUEAAAA BATTERY
-  Updated: 2026-09-04T14:37:28Z
+  Updated: 2026-09-26T20:10:53Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -301,7 +286,7 @@
     Availability: Available
     Price: $15.50 USD
 - [Streamlight ProTac HL-X Flashlight](https://christianvigilant.com/products/streamlight-protac-hl-x-flashlight): PROTAC HL-X USB 1000LM BLACKMULTI-FUEL TACTICAL FLASHLIGHT
-  Updated: 2026-09-02T22:37:24Z
+  Updated: 2026-09-17T13:18:46Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -316,7 +301,7 @@
     Availability: Available
     Price: $89.46 USD
 - [Streamlight PolyTac Flashlight](https://christianvigilant.com/products/streamlight-polytac-flashlight): POLYTAC 600LM EDC COYOTESURE GRIP FLASHLIGHT
-  Updated: 2026-09-02T22:56:10Z
+  Updated: 2026-09-24T01:35:29Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -331,37 +316,37 @@
     Availability: Available
     Price: $46.28 USD
 - [Streamlight TL-RACKER](https://christianvigilant.com/products/streamlight-tl-racker): TL-RACKER 1000LM 590 SHOCKWAVEBLACK | SHOTGUN LIGHT
-  Updated: 2026-09-04T21:17:17Z
+  Updated: 2026-09-25T15:18:57Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/tlracker3bb0.jpg?v=1747828404
   - [Retail](https://christianvigilant.com/products/streamlight-tl-racker?variant=44450712813705)
     Availability: Available
-    Price: $283.15 USD
+    Price: $268.99 USD
   - [Member](https://christianvigilant.com/products/streamlight-tl-racker?variant=44450844049545)
     Availability: Available
-    Price: $283.15 USD
+    Price: $140.55 USD
   - [Premium Member](https://christianvigilant.com/products/streamlight-tl-racker?variant=44450844082313)
     Availability: Available
-    Price: $283.15 USD
+    Price: $127.78 USD
 - [Streamlight PolyTac 90X Flashlight](https://christianvigilant.com/products/streamlight-polytac-90x-flashlight): POLYTAC 90X 500LM BLACKRIGHT-ANGLE FLASHLIGHT
-  Updated: 2026-09-04T21:17:14Z
+  Updated: 2026-09-17T09:29:35Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/888358d58.jpg?v=1747828407
   - [Retail](https://christianvigilant.com/products/streamlight-polytac-90x-flashlight?variant=44450712846473)
     Availability: Available
-    Price: $135.51 USD
+    Price: $128.73 USD
   - [Member](https://christianvigilant.com/products/streamlight-polytac-90x-flashlight?variant=44450844115081)
     Availability: Available
-    Price: $135.51 USD
+    Price: $69.58 USD
   - [Premium Member](https://christianvigilant.com/products/streamlight-polytac-90x-flashlight?variant=44450844147849)
     Availability: Available
-    Price: $135.51 USD
+    Price: $63.26 USD
 - [Streamlight PolyTac X Flashlight](https://christianvigilant.com/products/streamlight-polytac-x-flashlight): POLYTAC X USB 600LM COYOTEMULTI-FUEL FLASHLIGHT
-  Updated: 2026-08-28T18:37:58Z
+  Updated: 2026-09-17T09:29:36Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -376,7 +361,7 @@
     Availability: Available
     Price: $55.52 USD
 - [Streamlight Waypoint 400 Spotlight](https://christianvigilant.com/products/streamlight-waypoint-400-spotlight): WAYPOINT 400 1400LM YELLOW120V/100V AC | SPOTLIGHT
-  Updated: 2026-09-04T04:32:11Z
+  Updated: 2026-09-17T09:29:36Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -391,7 +376,7 @@
     Availability: Available
     Price: $121.65 USD
 - [Streamlight TLR-1 HPL Gun Light](https://christianvigilant.com/products/streamlight-tlr-1-hpl-gun-light): TLR-1 HPL 1000LM BLK LG KITLONG GUN KIT
-  Updated: 2026-09-04T21:17:52Z
+  Updated: 2026-09-17T22:41:51Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -406,7 +391,7 @@
     Availability: Available
     Price: $174.24 USD
 - [Streamlight TLR-8G Sub](https://christianvigilant.com/products/streamlight-tlr-8g-sub): TLR-8G SUB 500LM G43X LGT/LSRRAIL MOUNTED LIGHT|GREEN LASER
-  Updated: 2026-09-02T22:56:02Z
+  Updated: 2026-09-24T01:35:22Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -420,53 +405,38 @@
   - [Premium Member](https://christianvigilant.com/products/streamlight-tlr-8g-sub?variant=44450844475529)
     Availability: Available
     Price: $235.85 USD
-- [Weatherby Mark V Backcountry Guide 300 Win Mag](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-win-mag): MARK V BC GUIDE 300WIN 22"300 Win Mag
-  Updated: 2026-09-03T11:51:31Z
-  Vendor: Weatherby
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/bcguide815d_34e676c2-c49e-4e25-b9ce-6cebca9ce74c.jpg?v=1747828429
-  - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-win-mag?variant=44450713141385)
-    Availability: Available
-    Price: $3,134.05 USD
-  - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-win-mag?variant=44450844639369)
-    Availability: Available
-    Price: $2,872.42 USD
-  - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-win-mag?variant=44450844672137)
-    Availability: Available
-    Price: $2,741.85 USD
 - [Weatherby Mark V Backcountry Guide 6.5 Creedmoor](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-creedmoor): MARK V BC GUIDE 6.5CR 22" LH6.5 Creedmoor
-  Updated: 2026-09-04T21:18:30Z
+  Updated: 2026-09-17T09:29:39Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/resized_6840265abb7e7.jpg?v=1749034590
   - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-creedmoor?variant=44450713206921)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $3,134.05 USD
   - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-creedmoor?variant=44450844770441)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $2,872.42 USD
   - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-creedmoor?variant=44450844803209)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $2,741.85 USD
 - [Weatherby Mark V Backcountry Guide 6.5 WBY RPM](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-wby-rpm): MARK V BC GUIDE 6.5RPM 22" LH6.5 WBY RPM
-  Updated: 2026-09-04T21:18:40Z
+  Updated: 2026-09-17T09:29:39Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/resized_6840265e97f18.jpg?v=1749034593
   - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-wby-rpm?variant=44450713272457)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $3,134.05 USD
   - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-wby-rpm?variant=44450844901513)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $2,872.42 USD
   - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-6-5-wby-rpm?variant=44450844934281)
     Availability: Available
-    Price: $3,299.00 USD
+    Price: $2,741.85 USD
 - [Weatherby Mark V Backcountry Guide Ti 257 WBY Mag](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-ti-257-wby-mag): MARK V BC GUIDE TI 257WBY 24"257 WBY Mag
-  Updated: 2026-08-28T18:38:02Z
+  Updated: 2026-09-17T09:29:40Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -481,7 +451,7 @@
     Availability: Available
     Price: $3,157.40 USD
 - [Savage Arms Axis 2 Compact 6.5 Creedmoor](https://christianvigilant.com/products/savage-arms-axis-2-compact-6-5-creedmoor-1): AXIS 2 CPT 6.5CR BL/GRY LH321436.5 Creedmoor
-  Updated: 2026-09-02T02:28:19Z
+  Updated: 2026-09-18T05:10:25Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -496,7 +466,7 @@
     Availability: Available
     Price: $410.24 USD
 - [Streamlight Lithium Battery Pack](https://christianvigilant.com/products/streamlight-lithium-battery-pack): LITHIUM BATTERY PACK PT 2AA-XPROTAC 2AA-X USB
-  Updated: 2026-09-01T20:31:36Z
+  Updated: 2026-09-24T15:13:52Z
   Vendor: Streamlight
   Product Type: Accessory-Batteries
   Availability: Available
@@ -510,38 +480,8 @@
   - [Premium Member](https://christianvigilant.com/products/streamlight-lithium-battery-pack?variant=44450846769289)
     Availability: Available
     Price: $13.28 USD
-- [Savage Arms Axis 2 7mm-08](https://christianvigilant.com/products/savage-arms-axis-2-7mm-08): AXIS 2 7MM08 BL/GRY 22" LH320977mm-08
-  Updated: 2026-09-04T16:48:47Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2graylabbe.jpg?v=1747828471
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-7mm-08?variant=44450713763977)
-    Availability: Available
-    Price: $512.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-7mm-08?variant=44450846802057)
-    Availability: Available
-    Price: $429.77 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-7mm-08?variant=44450846834825)
-    Availability: Available
-    Price: $410.24 USD
-- [Savage Arms Axis 2 Compact 243 Win](https://christianvigilant.com/products/savage-arms-axis-2-compact-243-win): AXIS 2 CPT 243REM BL/GRN 20"32106243 Win
-  Updated: 2026-09-04T21:27:37Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/hmcpgzlg2664.jpg?v=1747828474
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-compact-243-win?variant=44450713796745)
-    Availability: Available
-    Price: $512.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-243-win?variant=44450846867593)
-    Availability: Available
-    Price: $429.77 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-243-win?variant=44450846900361)
-    Availability: Available
-    Price: $410.24 USD
 - [Savage Arms Axis 2 Compact 400 Legend](https://christianvigilant.com/products/savage-arms-axis-2-compact-400-legend): AXIS 2 CPT 400LEG BL/GRN 20"32111400 Legend
-  Updated: 2026-09-04T19:49:07Z
+  Updated: 2026-09-26T14:47:17Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -556,7 +496,7 @@
     Availability: Available
     Price: $410.24 USD
 - [Savage Arms Axis 2 Compact 400 Legend](https://christianvigilant.com/products/savage-arms-axis-2-compact-400-legend-1): AXIS 2 CPT 400LEG BL/GRY 20"32126400 Legend
-  Updated: 2026-09-04T18:09:08Z
+  Updated: 2026-09-26T03:56:52Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -570,23 +510,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-400-legend-1?variant=44450847260809)
     Availability: Available
     Price: $410.24 USD
-- [Savage Arms Axis 2 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-223-rem): AXIS 2 223REM BL/FDE 22"32048223 Rem
-  Updated: 2026-09-04T18:44:02Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2fderf549.jpg?v=1747828499
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-223-rem?variant=44450714091657)
-    Availability: Available
-    Price: $493.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-223-rem?variant=44450847490185)
-    Availability: Available
-    Price: $410.84 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-223-rem?variant=44450847522953)
-    Availability: Available
-    Price: $392.16 USD
 - [Weatherby Mark V Backcountry Guide 300 PRC](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-prc): MARK V BC GUIDE 300PRC 22"300 PRC
-  Updated: 2026-08-28T18:38:08Z
+  Updated: 2026-09-17T09:29:48Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -600,38 +525,8 @@
   - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-300-prc?variant=44450847883401)
     Availability: Available
     Price: $2,741.85 USD
-- [EO Tech EOTech Magnifier](https://christianvigilant.com/products/eo-tech-eotech-magnifier): EOTECH 3X MAGNIF TAN W/STS MNTSHIFT TO SIDE MOUNT
-  Updated: 2026-09-04T21:22:59Z
-  Vendor: EO Tech
-  Product Type: Accessory-Lasers and Sights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/G33STSTAN.jpg?v=1747837090
-  - [Retail](https://christianvigilant.com/products/eo-tech-eotech-magnifier?variant=44450797125769)
-    Availability: Available
-    Price: $679.00 USD
-  - [Member](https://christianvigilant.com/products/eo-tech-eotech-magnifier?variant=44452227022985)
-    Availability: Available
-    Price: $679.00 USD
-  - [Premium Member](https://christianvigilant.com/products/eo-tech-eotech-magnifier?variant=44452227055753)
-    Availability: Available
-    Price: $679.00 USD
-- [EO Tech EOTech Magnifier](https://christianvigilant.com/products/eo-tech-eotech-magnifier-1): EOTECH 3X MAGNIFIER W/STS MNTSHIFT TO SIDE MOUNT
-  Updated: 2026-09-04T20:27:31Z
-  Vendor: EO Tech
-  Product Type: Accessory-Lasers and Sights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/EOG23FTS.jpg?v=1747837093
-  - [Retail](https://christianvigilant.com/products/eo-tech-eotech-magnifier-1?variant=44007219003529)
-    Availability: Available
-    Price: $645.05 USD
-  - [Member](https://christianvigilant.com/products/eo-tech-eotech-magnifier-1?variant=44454116589705)
-    Availability: Available
-    Price: $549.76 USD
-  - [Premium Member](https://christianvigilant.com/products/eo-tech-eotech-magnifier-1?variant=44454116622473)
-    Availability: Available
-    Price: $524.77 USD
 - [Radian Weapons Forward Assist](https://christianvigilant.com/products/radian-weapons-forward-assist): FORWARD ASSIST AR15 ALUM BLK
-  Updated: 2026-08-28T18:38:10Z
+  Updated: 2026-09-17T09:29:50Z
   Vendor: Radian Weapons
   Product Type: Accessory-Parts
   Availability: Available
@@ -646,7 +541,7 @@
     Availability: Available
     Price: $37.76 USD
 - [Wilson Combat K-Mount](https://christianvigilant.com/products/wilson-combat-k-mount): QUELL K-MOUNT 1/2X28SP-KMB16-1-2X28
-  Updated: 2026-09-04T21:18:36Z
+  Updated: 2026-09-17T09:29:50Z
   Vendor: Wilson Combat
   Product Type: Accessory-Parts
   Availability: Available
@@ -656,12 +551,12 @@
     Price: $97.95 USD
   - [Member](https://christianvigilant.com/products/wilson-combat-k-mount?variant=44451111698569)
     Availability: Available
-    Price: $97.95 USD
+    Price: $84.10 USD
   - [Premium Member](https://christianvigilant.com/products/wilson-combat-k-mount?variant=44451111731337)
     Availability: Available
-    Price: $97.95 USD
+    Price: $80.27 USD
 - [Wilson Combat Whisper Muzzle Brake](https://christianvigilant.com/products/wilson-combat-whisper-muzzle-brake): RAPID THREAD MOUNT 9MMSP-RTMB-5/8-24-9MM
-  Updated: 2026-08-28T18:38:10Z
+  Updated: 2026-09-17T09:29:51Z
   Vendor: Wilson Combat
   Product Type: Accessory-Parts
   Availability: Available
@@ -675,23 +570,8 @@
   - [Premium Member](https://christianvigilant.com/products/wilson-combat-whisper-muzzle-brake?variant=44451111993481)
     Availability: Available
     Price: $89.30 USD
-- [Wilson Combat Shim Kit](https://christianvigilant.com/products/wilson-combat-shim-kit): SHIM KIT MOUNT 11/16X24SP-RTMB-SHIMKIT3
-  Updated: 2026-08-28T18:38:11Z
-  Vendor: Wilson Combat
-  Product Type: Accessory-Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/shim6d07.jpg?v=1747909134
-  - [Retail](https://christianvigilant.com/products/wilson-combat-shim-kit?variant=44450753511561)
-    Availability: Available
-    Price: $8.95 USD
-  - [Member](https://christianvigilant.com/products/wilson-combat-shim-kit?variant=44451113336969)
-    Availability: Available
-    Price: $7.70 USD
-  - [Premium Member](https://christianvigilant.com/products/wilson-combat-shim-kit?variant=44451113369737)
-    Availability: Available
-    Price: $7.35 USD
 - [Tapco Castle Nut](https://christianvigilant.com/products/tapco-castle-nut): TAPCO CASTLE NUT
-  Updated: 2026-09-03T12:34:43Z
+  Updated: 2026-09-21T01:57:41Z
   Vendor: Tapco
   Product Type: Accessory-Parts
   Availability: Available
@@ -705,23 +585,8 @@
   - [Premium Member](https://christianvigilant.com/products/tapco-castle-nut?variant=44451337961609)
     Availability: Available
     Price: $4.58 USD
-- [Tapco Gas Block](https://christianvigilant.com/products/tapco-gas-block): TAPCO GAS BLOCK .750
-  Updated: 2026-09-03T13:27:38Z
-  Vendor: Tapco
-  Product Type: Accessory-Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/tap220700728.jpg?v=1747909317
-  - [Retail](https://christianvigilant.com/products/tapco-gas-block?variant=44450761638025)
-    Availability: Available
-    Price: $28.49 USD
-  - [Member](https://christianvigilant.com/products/tapco-gas-block?variant=44451337994377)
-    Availability: Available
-    Price: $17.20 USD
-  - [Premium Member](https://christianvigilant.com/products/tapco-gas-block?variant=44451338027145)
-    Availability: Available
-    Price: $16.42 USD
 - [Tapco Compensator](https://christianvigilant.com/products/tapco-compensator): COMPENSATOR GLOCK 17 BLACKFOR GLOCK 17 GEN 3 W/RAIL
-  Updated: 2026-09-03T13:25:24Z
+  Updated: 2026-09-17T09:29:53Z
   Vendor: Tapco
   Product Type: Accessory-Parts
   Availability: Available
@@ -736,7 +601,7 @@
     Availability: Available
     Price: $97.99 USD
 - [Tapco Compensator](https://christianvigilant.com/products/tapco-compensator-1): COMPENSATOR GLOCK 19 BLACKFOR GLOCK 19 GEN 3 W/RAIL
-  Updated: 2026-08-28T18:38:12Z
+  Updated: 2026-09-17T09:29:53Z
   Vendor: Tapco
   Product Type: Accessory-Parts
   Availability: Available
@@ -751,7 +616,7 @@
     Availability: Available
     Price: $97.99 USD
 - [Wilson Combat Whisper Muzzle Brake](https://christianvigilant.com/products/wilson-combat-whisper-muzzle-brake-1): RAPID THREAD MOUNT .30CALSP-RTMBFB-30
-  Updated: 2026-09-02T22:38:50Z
+  Updated: 2026-09-17T09:29:53Z
   Vendor: Wilson Combat
   Product Type: Accessory-Parts
   Availability: Available
@@ -766,7 +631,7 @@
     Availability: Available
     Price: $89.30 USD
 - [Wilson Combat Whisper Muzzle Brake](https://christianvigilant.com/products/wilson-combat-whisper-muzzle-brake-3): RAPID THREAD MOUNT .458SP-RTMBFB-458
-  Updated: 2026-08-28T18:38:13Z
+  Updated: 2026-09-17T09:29:54Z
   Vendor: Wilson Combat
   Product Type: Accessory-Parts
   Availability: Available
@@ -780,23 +645,8 @@
   - [Premium Member](https://christianvigilant.com/products/wilson-combat-whisper-muzzle-brake-3?variant=44449147191433)
     Availability: Available
     Price: $89.30 USD
-- [CANIK Canik Magazine Catch](https://christianvigilant.com/products/canik-canik-magazine-catch): CANIK EXT MAG CATCH ASSEMBLY
-  Updated: 2026-09-02T12:28:59Z
-  Vendor: CANIK
-  Product Type: Accessory-Parts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/pacn075020b9.jpg?v=1747914670
-  - [Retail](https://christianvigilant.com/products/canik-canik-magazine-catch?variant=44010278977673)
-    Availability: Available
-    Price: $28.49 USD
-  - [Member](https://christianvigilant.com/products/canik-canik-magazine-catch?variant=44457884876937)
-    Availability: Available
-    Price: $25.37 USD
-  - [Premium Member](https://christianvigilant.com/products/canik-canik-magazine-catch?variant=44457884909705)
-    Availability: Available
-    Price: $24.21 USD
 - [Streamlight TLR-8G Sub](https://christianvigilant.com/products/streamlight-tlr-8g-sub-1): TLR-8G SUB 500LM HELLCAT LT/LSRAIL MOUNTED LIGHT|GREEN LASER
-  Updated: 2026-09-01T20:17:35Z
+  Updated: 2026-09-17T09:29:55Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -811,7 +661,7 @@
     Availability: Available
     Price: $235.85 USD
 - [Streamlight TLR-6 HLG Gun Light](https://christianvigilant.com/products/streamlight-tlr-6-hlg-gun-light): TLR-6HLG SHIELD 300LM BLK GRNTACTICAL LIGHT W/GREEN LASER
-  Updated: 2026-09-03T22:48:56Z
+  Updated: 2026-09-17T22:41:29Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -826,7 +676,7 @@
     Availability: Available
     Price: $141.52 USD
 - [Streamlight TLR-6 HLG Gun Light](https://christianvigilant.com/products/streamlight-tlr-6-hlg-gun-light-1): TLR-6HLG GLK RAIL 300LM BLK GNTACTICAL LIGHT W/GREEN LASER
-  Updated: 2026-08-28T18:38:15Z
+  Updated: 2026-09-17T22:41:28Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -841,7 +691,7 @@
     Availability: Available
     Price: $141.52 USD
 - [Streamlight UltraStinger LED](https://christianvigilant.com/products/streamlight-ultrastinger-led): ULTRASTINGER LED 1100LM 12V12V DC FLASHLIGHT
-  Updated: 2026-09-02T22:37:10Z
+  Updated: 2026-09-26T20:11:03Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -856,7 +706,7 @@
     Availability: Available
     Price: $136.36 USD
 - [Streamlight Strion HPL](https://christianvigilant.com/products/streamlight-strion-hpl): STRION HPL 615LM BLK 12V DCFLASHLIGHT
-  Updated: 2026-09-04T14:29:06Z
+  Updated: 2026-09-17T09:29:57Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -871,7 +721,7 @@
     Availability: Available
     Price: $116.93 USD
 - [Streamlight MicroStream USB Pocket Light](https://christianvigilant.com/products/streamlight-microstream-usb-pocket-light): MICROSTREAM USB 250LM BLUEPOCKET FLASHLIGHT
-  Updated: 2026-09-02T12:33:52Z
+  Updated: 2026-09-23T02:33:24Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -886,7 +736,7 @@
     Availability: Available
     Price: $31.57 USD
 - [Streamlight ProTac 2AA Flashlight](https://christianvigilant.com/products/streamlight-protac-2aa-flashlight): PROTAC 2AA EDC 250LM BLACKEVERYDAY CARRY FLASHLIGHT
-  Updated: 2026-09-01T14:58:47Z
+  Updated: 2026-09-23T05:10:20Z
   Vendor: Streamlight
   Product Type: Accessory-Lights
   Availability: Available
@@ -901,7 +751,7 @@
     Availability: Available
     Price: $44.20 USD
 - [Fierce  Twisted Rogue 7MM PRC](https://christianvigilant.com/products/fierce--twisted-rogue-7mm-prc-1): TWISTED ROGUE 7PRC BLK/FRT 24"TWROG7PRC24BF7MM PRC
-  Updated: 2026-08-28T18:38:24Z
+  Updated: 2026-09-17T09:30:08Z
   Vendor: Fierce 
   Product Type: Rifle
   Availability: Available
@@ -915,23 +765,8 @@
   - [Premium Member](https://christianvigilant.com/products/fierce--twisted-rogue-7mm-prc-1?variant=44450863218825)
     Availability: Available
     Price: $1,545.18 USD
-- [Weatherby Mark V Backcountry 2.0 7MM Backcountry](https://christianvigilant.com/products/weatherby-mark-v-backcountry-2-0-7mm-backcountry): MARK V BACKCOUNTRY 2.0 7MMBCPATRIOT BROWN CERAKOTE7MM Backcountry
-  Updated: 2026-09-04T07:46:31Z
-  Vendor: Weatherby
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/bc20994a.jpg?v=1748529057
-  - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-2-0-7mm-backcountry?variant=44450715533449)
-    Availability: Available
-    Price: $2,516.55 USD
-  - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-2-0-7mm-backcountry?variant=44450863317129)
-    Availability: Available
-    Price: $2,306.47 USD
-  - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-2-0-7mm-backcountry?variant=44450863349897)
-    Availability: Available
-    Price: $2,201.63 USD
 - [ATN Blaze Trek Monocular](https://christianvigilant.com/products/atn-blaze-trek-monocular): BLAZE TREK 625 THERMAL MONOTHERMAL IMAGING MONOCULAR
-  Updated: 2026-08-28T18:38:25Z
+  Updated: 2026-09-17T09:30:09Z
   Vendor: ATN
   Product Type: Accessory-Scopes
   Availability: Available
@@ -946,7 +781,7 @@
     Availability: Available
     Price: $1,984.73 USD
 - [Mossberg Patriot Rifle 400 Legend](https://christianvigilant.com/products/mossberg-patriot-rifle-400-legend): PATRIOT 400LEG SS CERAKOTE/SYN400 Legend
-  Updated: 2026-09-04T14:49:58Z
+  Updated: 2026-09-23T15:24:44Z
   Vendor: Mossberg
   Product Type: Rifle
   Availability: Available
@@ -961,7 +796,7 @@
     Availability: Available
     Price: $410.73 USD
 - [SIG SAUER Alpha6 Scope Ring Set](https://christianvigilant.com/products/sig-sauer-alpha6-scope-ring-set-2): ALPHA6 SCOPE RINGS 35MM X-HIGHSOA65004|ALUMINUM|MATTE BLACK
-  Updated: 2026-08-28T18:38:27Z
+  Updated: 2026-09-17T09:30:11Z
   Vendor: SIG SAUER
   Product Type: Accessory-Rings/Mounts/Bases
   Availability: Available
@@ -976,22 +811,22 @@
     Availability: Available
     Price: $99.99 USD
 - [Weatherby 307 Range XP2 6.5 WBY RPM](https://christianvigilant.com/products/weatherby-307-range-xp2-6-5-wby-rpm): 307 RANGE XP2 6.5RPM 24" ADJMAGPUL AICS | SKIP FLUTED BBL6.5 WBY RPM
-  Updated: 2026-09-04T21:07:10Z
+  Updated: 2026-09-17T09:30:12Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/resized_684026622adf1.jpg?v=1749034597
   - [Retail](https://christianvigilant.com/products/weatherby-307-range-xp2-6-5-wby-rpm?variant=44450716319881)
     Availability: Available
-    Price: $1,215.05 USD
+    Price: $1,234.05 USD
   - [Member](https://christianvigilant.com/products/weatherby-307-range-xp2-6-5-wby-rpm?variant=44450878029961)
     Availability: Available
-    Price: $1,113.62 USD
+    Price: $1,131.03 USD
   - [Premium Member](https://christianvigilant.com/products/weatherby-307-range-xp2-6-5-wby-rpm?variant=44450878062729)
     Availability: Available
-    Price: $1,063.00 USD
+    Price: $1,079.62 USD
 - [Weatherby 307 Adventure SD 6.5 PRC](https://christianvigilant.com/products/weatherby-307-adventure-sd-6-5-prc): 307 ADVENTURE SD 6.5PRC 22"6.5 PRC
-  Updated: 2026-09-04T11:11:23Z
+  Updated: 2026-09-17T09:30:12Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1006,7 +841,7 @@
     Availability: Available
     Price: $1,786.07 USD
 - [Weatherby 307 Alpine MDT 7MM Backcountry](https://christianvigilant.com/products/weatherby-307-alpine-mdt-7mm-backcountry): 307 ALPINE MDT 7MMBC 20" ADJAICS MAGAZINE7MM Backcountry
-  Updated: 2026-09-04T21:07:12Z
+  Updated: 2026-09-17T09:30:12Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1021,7 +856,7 @@
     Availability: Available
     Price: $2,700.30 USD
 - [Weatherby Mark V Accumark 7MM Backcountry](https://christianvigilant.com/products/weatherby-mark-v-accumark-7mm-backcountry): MARK V ACCUMARK 7MMBC 20"7MM Backcountry
-  Updated: 2026-09-04T01:05:55Z
+  Updated: 2026-09-26T06:35:56Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1036,22 +871,22 @@
     Availability: Available
     Price: $1,786.07 USD
 - [Mossberg Patriot 6.5 PRC](https://christianvigilant.com/products/mossberg-patriot-6-5-prc): PATRIOT 6.5PRC WD 24" SCOPE TB6.5 PRC
-  Updated: 2026-09-04T14:48:58Z
+  Updated: 2026-09-26T23:30:47Z
   Vendor: Mossberg
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/28124e46b.jpg?v=1748529096
   - [Retail](https://christianvigilant.com/products/mossberg-patriot-6-5-prc?variant=44450716450953)
     Availability: Available
-    Price: $829.92 USD
+    Price: $873.60 USD
   - [Member](https://christianvigilant.com/products/mossberg-patriot-6-5-prc?variant=44450878292105)
     Availability: Available
-    Price: $666.26 USD
+    Price: $873.60 USD
   - [Premium Member](https://christianvigilant.com/products/mossberg-patriot-6-5-prc?variant=44450878324873)
     Availability: Available
-    Price: $635.97 USD
+    Price: $873.60 USD
 - [Fierce  Twisted Rogue 7MM PRC](https://christianvigilant.com/products/fierce--twisted-rogue-7mm-prc-2): TWISTED ROGUE 7PRC BLK/TPY 24"TWROG7PRC24BT7MM PRC
-  Updated: 2026-09-03T20:02:41Z
+  Updated: 2026-09-17T09:39:12Z
   Vendor: Fierce 
   Product Type: Rifle
   Availability: Available
@@ -1065,23 +900,8 @@
   - [Premium Member](https://christianvigilant.com/products/fierce--twisted-rogue-7mm-prc-2?variant=44450878390409)
     Availability: Available
     Price: $1,545.18 USD
-- [Weatherby Mark V Backcountry Guide 280 ACKLY](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-280-ackly): MARK V BC GUIDE 280AI 22"280 ACKLY
-  Updated: 2026-08-28T18:38:29Z
-  Vendor: Weatherby
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/bcguide815d_de64fe37-2d25-4191-9640-fda174b7272f.jpg?v=1748529102
-  - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-280-ackly?variant=44450716516489)
-    Availability: Available
-    Price: $3,134.05 USD
-  - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-280-ackly?variant=44450878423177)
-    Availability: Available
-    Price: $2,872.42 USD
-  - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-280-ackly?variant=44450878455945)
-    Availability: Available
-    Price: $2,741.85 USD
 - [Weatherby Mark V Backcountry Guide Ti 308 Win](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-ti-308-win): MARK V BC GUIDE TI 308WIN LH308 Win
-  Updated: 2026-09-03T11:51:25Z
+  Updated: 2026-09-17T09:39:13Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1096,7 +916,7 @@
     Availability: Available
     Price: $3,157.40 USD
 - [Rizzini Artemis 28 Gauge](https://christianvigilant.com/products/rizzini-artemis-28-gauge): ARTEMIS 28/29 BL/WD28 Gauge
-  Updated: 2026-08-28T18:38:29Z
+  Updated: 2026-09-17T09:30:13Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
@@ -1111,7 +931,7 @@
     Availability: Available
     Price: $4,100.46 USD
 - [Rizzini BR110 Light Luxe 12 Gauge](https://christianvigilant.com/products/rizzini-br110-light-luxe-12-gauge): BR110 LIGHT LUXE 12/28 BL/WD12 Gauge
-  Updated: 2026-08-28T18:38:30Z
+  Updated: 2026-09-24T14:25:34Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
@@ -1126,7 +946,7 @@
     Availability: Available
     Price: $2,702.70 USD
 - [Wilson Combat 1911 Magazine 9mm](https://christianvigilant.com/products/wilson-combat-1911-magazine-9mm): MAG 1911 9MM 10RD BL ETM BASEFULL-SIZE | ELITE TAC BASE9mm
-  Updated: 2026-09-04T21:06:06Z
+  Updated: 2026-09-25T10:26:10Z
   Vendor: Wilson Combat
   Product Type: Accessory-Magazines
   Availability: Available
@@ -1140,23 +960,23 @@
   - [Premium Member](https://christianvigilant.com/products/wilson-combat-1911-magazine-9mm?variant=44450878783625)
     Availability: Available
     Price: $44.22 USD
-- [Wilson Combat Full Size 1911 Handgun Magazine .45 ACP 8/rd](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp): The low-profile steel base pad on this Full-Size .45 ACP 8 round 47D series magazine increases concealability and drop resistance during hard use.Features:
-  Updated: 2026-08-28T22:15:16Z
+- [Wilson Combat Handgun Magazine Series 47 for 1911 .45 OM (Officers Model) 7/rd w/.250 Basepad](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp-1): Wilson-Rogers series 47 advanced Pistol Magazines for 1911 style Autos are the choice of experienced competitors and the U.S. Military Elite Special Forces
+  Updated: 2026-09-17T09:30:15Z
   Vendor: Wilson Combat
   Product Type: Handgun Magazines
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/47dc0a8e.jpg?v=1748529119
-  - [Retail](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp?variant=44450716745865)
+  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/47oxa43c.jpg?v=1748529123
+  - [Retail](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp-1?variant=44450716778633)
     Availability: Available
-    Price: $48.95 USD
-  - [Member](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp?variant=45133266190473)
+    Price: $41.95 USD
+  - [Member](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp-1?variant=45133266649225)
     Availability: Available
-    Price: $42.03 USD
-  - [Premium Member](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp?variant=45133266223241)
+    Price: $36.01 USD
+  - [Premium Member](https://christianvigilant.com/products/wilson-combat-1911-magazine-45-acp-1?variant=45133266681993)
     Availability: Available
-    Price: $40.12 USD
+    Price: $34.38 USD
 - [Franklin Armory G-S193 Binary Firing System Multi](https://christianvigilant.com/products/franklin-armory-g-s193-binary-firing-system-multi): G-S193 G19 G3 BINARY SLIDE BLKCOMPLETE BINARY SLIDEMulti
-  Updated: 2026-08-28T18:38:31Z
+  Updated: 2026-09-24T09:23:42Z
   Vendor: Franklin Armory
   Product Type: Accessory-Slide Assemblies
   Availability: Available
@@ -1171,7 +991,7 @@
     Availability: Available
     Price: $661.49 USD
 - [Rizzini BR220 Light 20 Gauge](https://christianvigilant.com/products/rizzini-br220-light-20-gauge): BR220 LIGHT 20/28 BL/WD20 Gauge
-  Updated: 2026-08-28T18:38:31Z
+  Updated: 2026-09-18T00:04:11Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
@@ -1186,22 +1006,22 @@
     Availability: Available
     Price: $4,580.94 USD
 - [Savage Arms Axis 2 XP 6.5 Creedmoor](https://christianvigilant.com/products/savage-arms-axis-2-xp-6-5-creedmoor): AXIS 2 6.5CR BL/GRN PKG LH321856.5 Creedmoor
-  Updated: 2026-09-04T14:18:51Z
+  Updated: 2026-09-23T22:57:46Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2xpgreenld91f.jpg?v=1748529143
   - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-xp-6-5-creedmoor?variant=44450717139081)
     Availability: Available
-    Price: $599.00 USD
+    Price: $569.05 USD
   - [Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-6-5-creedmoor?variant=44450900607113)
     Availability: Available
-    Price: $599.00 USD
+    Price: $476.53 USD
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-6-5-creedmoor?variant=44450900639881)
     Availability: Available
-    Price: $599.00 USD
+    Price: $454.87 USD
 - [Savage Arms Axis 2 XP 25-06](https://christianvigilant.com/products/savage-arms-axis-2-xp-25-06): AXIS 2 25-06 BL/GRN PKG LH3219025-06
-  Updated: 2026-09-02T23:55:53Z
+  Updated: 2026-09-26T18:27:57Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1215,38 +1035,23 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-25-06?variant=44450902147209)
     Availability: Available
     Price: $454.87 USD
-- [Rizzini BR110 Sporter X 12 Gauge](https://christianvigilant.com/products/rizzini-br110-sporter-x-12-gauge): BR110 SPORTER X 12/30 BL/WD12 Gauge
-  Updated: 2026-09-03T20:05:41Z
+- [Rizzini BR110 Light Luxe 28 Gauge](https://christianvigilant.com/products/rizzini-br110-light-luxe-28-gauge): BR110 LIGHT LUXE 28/28 BL/WD28 Gauge
+  Updated: 2026-09-26T06:46:58Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/br110sporterx1251.png?v=1748529158
-  - [Retail](https://christianvigilant.com/products/rizzini-br110-sporter-x-12-gauge?variant=44450717302921)
+  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/br110llda88_b857e386-8ab3-4673-8e5b-573c33b8f49c.jpg?v=1748529154
+  - [Retail](https://christianvigilant.com/products/rizzini-br110-light-luxe-28-gauge?variant=44450717270153)
     Availability: Available
-    Price: $4,132.50 USD
-  - [Member](https://christianvigilant.com/products/rizzini-br110-sporter-x-12-gauge?variant=44450902245513)
+    Price: $3,158.75 USD
+  - [Member](https://christianvigilant.com/products/rizzini-br110-light-luxe-28-gauge?variant=44450902179977)
     Availability: Available
-    Price: $3,672.24 USD
-  - [Premium Member](https://christianvigilant.com/products/rizzini-br110-sporter-x-12-gauge?variant=44450902278281)
+    Price: $2,831.40 USD
+  - [Premium Member](https://christianvigilant.com/products/rizzini-br110-light-luxe-28-gauge?variant=44450902212745)
     Availability: Available
-    Price: $3,505.32 USD
-- [Bergara Premier Series Barreled Action 6.5 Creedmoor](https://christianvigilant.com/products/bergara-premier-series-barreled-action-6-5-creedmoor): BARRELED ACTION 6.5CR #5.5 SSBPBA17-656.5 Creedmoor
-  Updated: 2026-09-04T22:32:55Z
-  Vendor: Bergara
-  Product Type: Accessory-Actions
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/bgno555100.jpg?v=1748529161
-  - [Retail](https://christianvigilant.com/products/bergara-premier-series-barreled-action-6-5-creedmoor?variant=44450717335689)
-    Availability: Available
-    Price: $1,349.99 USD
-  - [Member](https://christianvigilant.com/products/bergara-premier-series-barreled-action-6-5-creedmoor?variant=44450902966409)
-    Availability: Available
-    Price: $1,349.99 USD
-  - [Premium Member](https://christianvigilant.com/products/bergara-premier-series-barreled-action-6-5-creedmoor?variant=44450902999177)
-    Availability: Available
-    Price: $1,349.99 USD
+    Price: $2,702.70 USD
 - [Bergara Premier Series Barreled Action 300 Win Mag](https://christianvigilant.com/products/bergara-premier-series-barreled-action-300-win-mag): BARRELED ACTION 300WIN #6 CUREBPBA34-300WM300 Win Mag
-  Updated: 2026-09-04T01:06:31Z
+  Updated: 2026-09-17T09:39:16Z
   Vendor: Bergara
   Product Type: Accessory-Actions
   Availability: Available
@@ -1261,7 +1066,7 @@
     Availability: Available
     Price: $1,372.00 USD
 - [Magnum Research Desert Eagle L5 357 Magnum](https://christianvigilant.com/products/magnum-research-desert-eagle-l5-357-magnum): DESERT EAGLE L5 357MAG BRNZ 5"IMB / BURNT BRONZE357 Magnum
-  Updated: 2026-09-04T09:06:48Z
+  Updated: 2026-09-17T09:39:16Z
   Vendor: Magnum Research
   Product Type: Semi-Auto Pistol
   Availability: Available
@@ -1276,7 +1081,7 @@
     Availability: Available
     Price: $2,176.02 USD
 - [Magnum Research Desert Eagle L5 357 Magnum](https://christianvigilant.com/products/magnum-research-desert-eagle-l5-357-magnum-1): DESERT EAGLE L5 357MAG GRN 5"IMB / MIL-SPEC GREEN CERAKOTE357 Magnum
-  Updated: 2026-09-04T09:06:44Z
+  Updated: 2026-09-17T09:39:16Z
   Vendor: Magnum Research
   Product Type: Semi-Auto Pistol
   Availability: Available
@@ -1291,7 +1096,7 @@
     Availability: Available
     Price: $2,464.77 USD
 - [Rizzini BR110 Light Luxe 20 Gauge](https://christianvigilant.com/products/rizzini-br110-light-luxe-20-gauge): BR110 LIGHT LUXE 20/28 BL/WD20 Gauge
-  Updated: 2026-09-03T20:05:03Z
+  Updated: 2026-09-17T09:30:19Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
@@ -1306,7 +1111,7 @@
     Availability: Available
     Price: $2,702.70 USD
 - [Rizzini Rhino Express 416 Rigby](https://christianvigilant.com/products/rizzini-rhino-express-416-rigby): RHINO EXPRESS 416RIGBY 23"416 Rigby
-  Updated: 2026-09-03T20:05:13Z
+  Updated: 2026-09-17T09:30:21Z
   Vendor: Rizzini
   Product Type: Rifle
   Availability: Available
@@ -1321,7 +1126,7 @@
     Availability: Available
     Price: $12,852.84 USD
 - [Rizzini BR110 Sporter IPS 12 Gauge](https://christianvigilant.com/products/rizzini-br110-sporter-ips-12-gauge): BR110 SPORTER IPS 12/30 BL/WD12 Gauge
-  Updated: 2026-08-28T18:38:39Z
+  Updated: 2026-09-17T09:39:18Z
   Vendor: Rizzini
   Product Type: Shotgun
   Availability: Available
@@ -1335,23 +1140,8 @@
   - [Premium Member](https://christianvigilant.com/products/rizzini-br110-sporter-ips-12-gauge?variant=44450906931337)
     Availability: Available
     Price: $4,903.08 USD
-- [Savage Arms Axis 2 Pro Forest 350 Legend](https://christianvigilant.com/products/savage-arms-axis-2-pro-forest-350-legend): AXIS 2 CPT PRO FOR 350LEG 18"32378350 Legend
-  Updated: 2026-09-02T19:27:58Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/32351e561_ea26c353-4432-4ebc-935b-e69ba9858cd1.jpg?v=1748529210
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-pro-forest-350-legend?variant=44450719596681)
-    Availability: Available
-    Price: $654.55 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-forest-350-legend?variant=44450906964105)
-    Availability: Available
-    Price: $548.90 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-forest-350-legend?variant=44450906996873)
-    Availability: Available
-    Price: $523.95 USD
 - [Weatherby Mark V Backcountry Guide Ti 6.5 WBY RPM](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-ti-6-5-wby-rpm): MARK V BC GUIDE TI 6.5RPM 22"6.5 WBY RPM
-  Updated: 2026-09-03T11:51:18Z
+  Updated: 2026-09-17T09:30:22Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1366,52 +1156,22 @@
     Availability: Available
     Price: $3,157.40 USD
 - [Savage Arms Axis 2 Pro Woodland 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-1): AXIS 2 CPT PRO WDLD 223REM LH32308223 Rem
-  Updated: 2026-09-04T20:58:08Z
+  Updated: 2026-09-23T05:10:13Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/woodlandlha4c2.jpg?v=1748529224
   - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-1?variant=44450719760521)
     Availability: Available
-    Price: $659.00 USD
+    Price: $626.05 USD
   - [Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-1?variant=44450907357321)
     Availability: Available
-    Price: $659.00 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-1?variant=44450907390089)
-    Availability: Available
-    Price: $659.00 USD
-- [Savage Arms Axis XP 400 Legend](https://christianvigilant.com/products/savage-arms-axis-xp-400-legend): AXIS 400LEG BL/SYN 20" PKG LH32019400 Legend
-  Updated: 2026-08-28T18:38:41Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axisxplcf79.jpg?v=1748529226
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-xp-400-legend?variant=44450719793289)
-    Availability: Available
-    Price: $493.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-xp-400-legend?variant=44450908405897)
-    Availability: Available
-    Price: $413.07 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-xp-400-legend?variant=44450908438665)
-    Availability: Available
-    Price: $394.30 USD
-- [Savage Arms Axis 2 Pro Western 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-223-rem): AXIS 2 CPT PRO WSTRN 223REM32337223 Rem
-  Updated: 2026-09-04T11:13:35Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/western0ed0.jpg?v=1748529230
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-223-rem?variant=44450719891593)
-    Availability: Available
-    Price: $626.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-223-rem?variant=44450908471433)
-    Availability: Available
     Price: $524.40 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-223-rem?variant=44450908504201)
+  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-1?variant=44450907390089)
     Availability: Available
     Price: $500.57 USD
 - [Savage Arms Axis XP 400 Legend](https://christianvigilant.com/products/savage-arms-axis-xp-400-legend-1): AXIS CPT 400LEG BL 20" PKG LH32036400 Legend
-  Updated: 2026-09-02T23:56:03Z
+  Updated: 2026-09-20T11:55:34Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1426,7 +1186,7 @@
     Availability: Available
     Price: $394.30 USD
 - [Savage Arms Axis 2 Compact XP 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-223-rem): AXIS 2 CPT 223REM FDE PKG LH32243223 Rem
-  Updated: 2026-09-02T02:37:55Z
+  Updated: 2026-09-17T22:41:42Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1441,7 +1201,7 @@
     Availability: Available
     Price: $435.74 USD
 - [Savage Arms Axis 2 Compact 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-compact-223-rem): AXIS 2 CPT 223REM BL/FDE LH32134223 Rem
-  Updated: 2026-09-01T07:59:36Z
+  Updated: 2026-09-17T16:16:37Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1455,38 +1215,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-223-rem?variant=44450909061257)
     Availability: Available
     Price: $392.16 USD
-- [Savage Arms Axis 2 XP 22-250](https://christianvigilant.com/products/savage-arms-axis-2-xp-22-250): AXIS 2 22-250 WOOD 22" PKG LH3226922-250
-  Updated: 2026-09-04T20:58:05Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axisxphardwoodlcee3.jpg?v=1748529247
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-xp-22-250?variant=44450720645257)
-    Availability: Available
-    Price: $711.55 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-22-250?variant=44450909323401)
-    Availability: Available
-    Price: $599.01 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-22-250?variant=44450909356169)
-    Availability: Available
-    Price: $571.78 USD
-- [Savage Arms Axis 2 243 Win](https://christianvigilant.com/products/savage-arms-axis-2-243-win): AXIS 2 243WIN BL/GRN 22"32039243 Win
-  Updated: 2026-09-04T02:08:13Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2greenr0ae2.jpg?v=1748529250
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-243-win?variant=44450721300617)
-    Availability: Available
-    Price: $512.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-243-win?variant=44450909388937)
-    Availability: Available
-    Price: $429.77 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-243-win?variant=44450909421705)
-    Availability: Available
-    Price: $410.24 USD
 - [Savage Arms Axis 2 Pro Woodland 223 Rem](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-223-rem-2): AXIS 2 PRO WDLD 223REM 20" LH32290223 Rem
-  Updated: 2026-09-04T11:13:04Z
+  Updated: 2026-09-24T15:18:43Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1501,7 +1231,7 @@
     Availability: Available
     Price: $500.57 USD
 - [Savage Arms Axis 2 Pro Woodland 350 Legend](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-350-legend): AXIS 2 CPT PRO WDLD 350LEG LH32313350 Legend
-  Updated: 2026-09-04T11:13:42Z
+  Updated: 2026-09-17T09:39:21Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1515,23 +1245,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-woodland-350-legend?variant=44450910044297)
     Availability: Available
     Price: $500.57 USD
-- [Savage Arms Axis 2 Pro Western 243 Win](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-243-win-1): AXIS 2 PRO WSTRN 243WIN 20"32317243 Win
-  Updated: 2026-09-04T22:26:38Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2prowesternr222c.jpg?v=1748529267
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-243-win-1?variant=44450722283657)
-    Availability: Available
-    Price: $626.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-243-win-1?variant=44450910077065)
-    Availability: Available
-    Price: $524.40 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-pro-western-243-win-1?variant=44450910109833)
-    Availability: Available
-    Price: $500.57 USD
 - [Savage Arms Axis 2 22-250](https://christianvigilant.com/products/savage-arms-axis-2-22-250): AXIS 2 22-250 BL/GRY 22" LH3209422-250
-  Updated: 2026-09-02T23:55:41Z
+  Updated: 2026-09-17T09:39:22Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1546,7 +1261,7 @@
     Availability: Available
     Price: $410.24 USD
 - [Savage Arms Axis 2 243 Win](https://christianvigilant.com/products/savage-arms-axis-2-243-win-1): AXIS 2 243WIN BL/GRY 22" LH32095243 Win
-  Updated: 2026-09-04T11:02:53Z
+  Updated: 2026-09-25T13:58:11Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1560,38 +1275,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-243-win-1?variant=44450910240905)
     Availability: Available
     Price: $410.24 USD
-- [Savage Arms 110 Pro Pursuit Rifle 7MM PRC](https://christianvigilant.com/products/savage-arms-110-pro-pursuit-rifle-7mm-prc): 110 PRO PURSUIT 7PRC CAMO58164 | PROOF RESEARCH BARREL7MM PRC
-  Updated: 2026-09-04T14:50:46Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/110ppr48a8_ecd28adc-7ca5-412c-9c59-15a9b5c8ba62.jpg?v=1748529284
-  - [Retail](https://christianvigilant.com/products/savage-arms-110-pro-pursuit-rifle-7mm-prc?variant=44450723201161)
-    Availability: Available
-    Price: $2,374.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-110-pro-pursuit-rifle-7mm-prc?variant=44450910503049)
-    Availability: Available
-    Price: $2,014.12 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-110-pro-pursuit-rifle-7mm-prc?variant=44450910535817)
-    Availability: Available
-    Price: $1,922.57 USD
-- [Weatherby Mark V Backcountry Guide 240 WBY Mag](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-240-wby-mag): MARK V BC GUIDE 240WBY 22"240 WBY Mag
-  Updated: 2026-09-04T14:36:58Z
-  Vendor: Weatherby
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/bcguide815d_d40630db-3add-457f-9d54-db421435dc9f.jpg?v=1748529290
-  - [Retail](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-240-wby-mag?variant=44450723365001)
-    Availability: Available
-    Price: $3,134.05 USD
-  - [Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-240-wby-mag?variant=44450910634121)
-    Availability: Available
-    Price: $2,872.42 USD
-  - [Premium Member](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-240-wby-mag?variant=44450910666889)
-    Availability: Available
-    Price: $2,741.85 USD
 - [Weatherby Mark V Backcountry Guide 257 WBY Mag](https://christianvigilant.com/products/weatherby-mark-v-backcountry-guide-257-wby-mag): MARK V BC GUIDE 257WBY 24"257 WBY Mag
-  Updated: 2026-08-28T18:38:48Z
+  Updated: 2026-09-17T09:39:24Z
   Vendor: Weatherby
   Product Type: Rifle
   Availability: Available
@@ -1606,7 +1291,7 @@
     Availability: Available
     Price: $2,741.85 USD
 - [Savage Arms Axis 2 XP 7mm-08](https://christianvigilant.com/products/savage-arms-axis-2-xp-7mm-08): AXIS 2 7MM08 BL/GRY PKG LH322087mm-08
-  Updated: 2026-09-03T21:55:53Z
+  Updated: 2026-09-17T09:30:29Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1621,7 +1306,7 @@
     Availability: Available
     Price: $454.87 USD
 - [Savage Arms Axis 2 XP 25-06](https://christianvigilant.com/products/savage-arms-axis-2-xp-25-6): AXIS 2 25-06 BL/GRY PKG LH3221225-06
-  Updated: 2026-09-02T02:28:14Z
+  Updated: 2026-09-23T05:09:59Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1635,38 +1320,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-25-6?variant=44450911420553)
     Availability: Available
     Price: $454.87 USD
-- [Savage Arms Axis 2 XP 7mm-08](https://christianvigilant.com/products/savage-arms-axis-2-xp-7mm-9): AXIS 2 7MM08 WOOD 22" PKG LH322727mm-08
-  Updated: 2026-08-31T14:48:46Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axisxphardwoodlcee3_b009737c-6c0f-4192-a26e-bbffd1f44b8e.jpg?v=1748529327
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-xp-7mm-9?variant=44450726805641)
-    Availability: Available
-    Price: $711.55 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-7mm-9?variant=44450912272521)
-    Availability: Available
-    Price: $599.01 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-7mm-9?variant=44450912305289)
-    Availability: Available
-    Price: $571.78 USD
-- [Savage Arms Axis 2 XP 270 Win](https://christianvigilant.com/products/savage-arms-axis-2-xp-270-win-2): AXIS 2 270WIN BL/GRY PKG LH32213270 Win
-  Updated: 2026-09-04T04:22:07Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2xpgrayl1645_1acb10e7-4fd3-424a-ab3d-25ca5bd246b4.jpg?v=1748529339
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-xp-270-win-2?variant=44450727329929)
-    Availability: Available
-    Price: $569.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-270-win-2?variant=44450912632969)
-    Availability: Available
-    Price: $476.53 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-xp-270-win-2?variant=44450912665737)
-    Availability: Available
-    Price: $454.87 USD
 - [Savage Arms Axis 2 Compact XP 400 Legend](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-400-legend): AXIS 2 CPT 400LEG GRY PKG LH32256400 Legend
-  Updated: 2026-09-02T23:55:43Z
+  Updated: 2026-09-26T01:14:12Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1680,53 +1335,8 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-400-legend?variant=44450912927881)
     Availability: Available
     Price: $454.87 USD
-- [Savage Arms Axis 2 6.5 Creedmoor](https://christianvigilant.com/products/savage-arms-axis-2-6-5-creedmoor): AXIS 2 6.5CR BL/GRN 22" LH320746.5 Creedmoor
-  Updated: 2026-09-04T21:33:54Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2greenl3762.jpg?v=1748529345
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-6-5-creedmoor?variant=44450727723145)
-    Availability: Available
-    Price: $539.00 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-6-5-creedmoor?variant=44450912960649)
-    Availability: Available
-    Price: $539.00 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-6-5-creedmoor?variant=44450912993417)
-    Availability: Available
-    Price: $539.00 USD
-- [Savage Arms Axis 2 Compact XP 308 Win](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-308-win): AXIS 2 CPT 308WIN GRY PKG LH32254308 Win
-  Updated: 2026-09-04T20:57:57Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2compactgraylh8328_1daba51d-219d-47b8-94d3-7df3fab7e376.jpg?v=1748529362
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-308-win?variant=44450728607881)
-    Availability: Available
-    Price: $569.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-308-win?variant=44450913353865)
-    Availability: Available
-    Price: $476.53 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-308-win?variant=44450913386633)
-    Availability: Available
-    Price: $454.87 USD
-- [Savage Arms Axis 2 Compact XP 243 Win](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-243-win-1): AXIS 2 CPT 243WIN GRN PKG LH32237243 Win
-  Updated: 2026-09-03T03:47:28Z
-  Vendor: Savage Arms
-  Product Type: Rifle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/axis2compactodglh59a3.jpg?v=1748529379
-  - [Retail](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-243-win-1?variant=44450729623689)
-    Availability: Available
-    Price: $569.05 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-243-win-1?variant=44450913747081)
-    Availability: Available
-    Price: $476.53 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-243-win-1?variant=44450913779849)
-    Availability: Available
-    Price: $454.87 USD
 - [Savage Arms Axis 2 Compact XP 7mm-08](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-7mm-9): AXIS 2 CPT 7MM08 GRN PKG LH322397mm-08
-  Updated: 2026-09-03T21:55:55Z
+  Updated: 2026-09-17T18:59:04Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1741,7 +1351,7 @@
     Availability: Available
     Price: $454.87 USD
 - [Savage Arms Axis 2 Compact XP 400 Legend](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-400-legend-2): AXIS 2 CPT 400LEG GRN PKG LH32242400 Legend
-  Updated: 2026-09-02T20:29:18Z
+  Updated: 2026-09-17T09:30:38Z
   Vendor: Savage Arms
   Product Type: Rifle
   Availability: Available
@@ -1755,23 +1365,23 @@
   - [Premium Member](https://christianvigilant.com/products/savage-arms-axis-2-compact-xp-400-legend-2?variant=44450913943689)
     Availability: Available
     Price: $454.87 USD
-- [Savage Arms 110 Predator 6.5 Creedmoor](https://christianvigilant.com/products/savage-arms-110-predator-6-5-creedmoor): 110 PREDATOR 6.5CR BL/MAX-157004 | REALTREE MAX-1 | THD6.5 Creedmoor
-  Updated: 2026-09-03T18:17:42Z
-  Vendor: Savage Arms
+- [Christensen Arms Mesa Long Range 308 Win](https://christianvigilant.com/products/christensen-arms-mesa-long-range-308-win): MESA LR 308WIN TUNG/BLK 24"801-02002-00308 Win
+  Updated: 2026-09-26T08:11:19Z
+  Vendor: Christensen Arms
   Product Type: Rifle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/SV57004.jpg?v=1748529401
-  - [Retail](https://christianvigilant.com/products/savage-arms-110-predator-6-5-creedmoor?variant=44450731720841)
+  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/MESALR.jpg?v=1748529419
+  - [Retail](https://christianvigilant.com/products/christensen-arms-mesa-long-range-308-win?variant=44450759475337)
     Availability: Available
-    Price: $1,034.55 USD
-  - [Member](https://christianvigilant.com/products/savage-arms-110-predator-6-5-creedmoor?variant=44450914402441)
+    Price: $1,599.99 USD
+  - [Member](https://christianvigilant.com/products/christensen-arms-mesa-long-range-308-win?variant=44450914828425)
     Availability: Available
-    Price: $870.67 USD
-  - [Premium Member](https://christianvigilant.com/products/savage-arms-110-predator-6-5-creedmoor?variant=44450914435209)
+    Price: $1,505.23 USD
+  - [Premium Member](https://christianvigilant.com/products/christensen-arms-mesa-long-range-308-win?variant=44450914861193)
     Availability: Available
-    Price: $831.10 USD
+    Price: $1,436.81 USD
 - [Christensen Arms Mesa Long Range 6.5 Creedmoor](https://christianvigilant.com/products/christensen-arms-mesa-long-range-6-5-creedmoor): MESA LR 6.5CR BRONZE/GRN 26"801-02006-006.5 Creedmoor
-  Updated: 2026-09-04T22:09:26Z
+  Updated: 2026-09-17T09:30:42Z
   Vendor: Christensen Arms
   Product Type: Rifle
   Availability: Available
@@ -1786,7 +1396,7 @@
     Availability: Available
     Price: $1,436.81 USD
 - [Christensen Arms Mesa Long Range 6.5 PRC](https://christianvigilant.com/products/christensen-arms-mesa-long-range-6-5-prc-1): MESA LR 6.5PRC BRONZE/GRN 26"801-02012-006.5 PRC
-  Updated: 2026-09-03T12:37:25Z
+  Updated: 2026-09-17T09:30:43Z
   Vendor: Christensen Arms
   Product Type: Rifle
   Availability: Available
@@ -1800,31 +1410,31 @@
   - [Premium Member](https://christianvigilant.com/products/christensen-arms-mesa-long-range-6-5-prc-1?variant=44450915057801)
     Availability: Available
     Price: $1,436.81 USD
-- [Christensen Arms Modern Precision Rifle 308 Win](https://christianvigilant.com/products/christensen-arms-modern-precision-rifle-308-win): MPR 308WIN CHASSIS BLK 16" MB801-03001-00308 Win
-  Updated: 2026-08-28T18:39:02Z
+- [Christensen Arms Mesa Long Range 300 PRC](https://christianvigilant.com/products/christensen-arms-mesa-long-range-300-prc): MESA LR 300PRC TUNG/BLK 26"801-02016-00300 PRC
+  Updated: 2026-09-24T14:59:53Z
   Vendor: Christensen Arms
   Product Type: Rifle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/mprb16107f.jpg?v=1748529438
-  - [Retail](https://christianvigilant.com/products/christensen-arms-modern-precision-rifle-308-win?variant=44450732802185)
+  Image: https://cdn.shopify.com/s/files/1/0659/2813/4793/files/MESALR_6bf69ff1-946d-4946-8e6d-ae6795e351fe.jpg?v=1748529435
+  - [Retail](https://christianvigilant.com/products/christensen-arms-mesa-long-range-300-prc?variant=44430454325385)
     Availability: Available
-    Price: $2,199.99 USD
-  - [Member](https://christianvigilant.com/products/christensen-arms-modern-precision-rifle-308-win?variant=44450915188873)
+    Price: $1,599.99 USD
+  - [Member](https://christianvigilant.com/products/christensen-arms-mesa-long-range-300-prc?variant=44448931184777)
     Availability: Available
-    Price: $2,003.75 USD
-  - [Premium Member](https://christianvigilant.com/products/christensen-arms-modern-precision-rifle-308-win?variant=44450915221641)
+    Price: $1,505.23 USD
+  - [Premium Member](https://christianvigilant.com/products/christensen-arms-mesa-long-range-300-prc?variant=44448931217545)
     Availability: Available
-    Price: $1,912.67 USD
+    Price: $1,436.81 USD
 [List Continued](https://christianvigilant.com/a/llms-agent/llms.txt?shop=christian-vigilant-arms.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTMxMjA2MDIxMjU3LCJsYXN0X3ZhbHVlIjoiODEzMTIwNjAyMTI1NyJ9)
 
 ## Collections
 
 - [Latest Collections](https://christianvigilant.com/collections/latest-collections)
-  Updated: 2026-09-04T11:17:46Z
+  Updated: 2026-09-20T11:19:04Z
   Total Products: 18
 - [All](https://christianvigilant.com/collections/all)
-  Updated: 2026-09-05T00:00:16Z
-  Total Products: 79495
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 82756
 - [Armory Packages](https://christianvigilant.com/collections/curated-armory-packages): blah blah blah
   Updated: 2026-08-29T01:17:43Z
   Total Products: 4
@@ -1832,83 +1442,83 @@
   Updated: 2026-08-29T01:17:40Z
   Total Products: 5
 - [Standard Optics](https://christianvigilant.com/collections/standard-optics): blah
-  Updated: 2026-09-04T23:46:24Z
+  Updated: 2026-09-26T17:56:41Z
   Total Products: 14
 - [Become A Christian Vigilant](https://christianvigilant.com/collections/memberships)
-  Updated: 2026-09-04T11:17:46Z
+  Updated: 2026-09-20T11:19:04Z
   Total Products: 4
 - [Special Allocation Products](https://christianvigilant.com/collections/special-allocation-products)
-  Updated: 2026-09-04T23:56:45Z
-  Total Products: 2259
+  Updated: 2026-09-26T23:55:27Z
+  Total Products: 2428
 - [On  Products](https://christianvigilant.com/collections/on--products)
-  Updated: 2026-09-04T23:58:04Z
-  Total Products: 16664
+  Updated: 2026-09-27T00:00:39Z
+  Total Products: 17314
 - [Shotguns for Home Defense](https://christianvigilant.com/collections/shotguns): Equip your armory with a high-quality shotgun for home defense. Discover reliable models built for safety and performance. Shop the collection now.
-  Updated: 2026-09-04T23:55:12Z
-  Total Products: 4582
+  Updated: 2026-09-27T00:00:31Z
+  Total Products: 6097
 - [Muzzleloader](https://christianvigilant.com/collections/muzzleloader)
-  Updated: 2026-09-04T21:33:51Z
+  Updated: 2026-09-26T22:55:30Z
   Total Products: 101
 - [Revolver](https://christianvigilant.com/collections/revolver)
-  Updated: 2026-09-04T23:56:13Z
+  Updated: 2026-09-27T00:00:43Z
   Total Products: 1248
 - [Rifle](https://christianvigilant.com/collections/rifle)
-  Updated: 2026-09-04T23:56:47Z
-  Total Products: 8969
+  Updated: 2026-09-27T00:00:42Z
+  Total Products: 9359
 - [Semi-Auto Pistol](https://christianvigilant.com/collections/semi-auto-pistol)
-  Updated: 2026-09-04T23:56:45Z
-  Total Products: 4530
+  Updated: 2026-09-27T00:00:35Z
+  Total Products: 4869
 - [Specialty Handgun](https://christianvigilant.com/collections/specialty-handgun)
-  Updated: 2026-09-04T23:55:34Z
+  Updated: 2026-09-26T23:45:46Z
   Total Products: 184
 - [Lights](https://christianvigilant.com/collections/lights)
-  Updated: 2026-09-04T23:55:39Z
+  Updated: 2026-09-26T23:45:49Z
   Total Products: 332
 - [Magazines](https://christianvigilant.com/collections/magazines)
-  Updated: 2026-09-04T23:58:25Z
-  Total Products: 3708
+  Updated: 2026-09-27T00:00:44Z
+  Total Products: 3772
 - [Field Glasses](https://christianvigilant.com/collections/field-glasses)
-  Updated: 2026-09-04T23:52:19Z
+  Updated: 2026-09-26T20:59:51Z
   Total Products: 94
 - [Gun Parts](https://christianvigilant.com/collections/gun-parts)
-  Updated: 2026-09-04T23:53:13Z
-  Total Products: 1756
+  Updated: 2026-09-27T00:00:30Z
+  Total Products: 1758
 - [Miscellaneous Accessories](https://christianvigilant.com/collections/miscellaneous-accessories)
-  Updated: 2026-09-04T23:32:52Z
+  Updated: 2026-09-26T23:40:37Z
   Total Products: 632
 - [Knives](https://christianvigilant.com/collections/knives)
   Updated: 2026-08-29T01:17:29Z
   Total Products: 3
 - [Parts](https://christianvigilant.com/collections/parts)
-  Updated: 2026-09-04T23:18:43Z
+  Updated: 2026-09-26T23:15:31Z
   Total Products: 172
 - [Scope Parts](https://christianvigilant.com/collections/scope-parts)
-  Updated: 2026-09-04T23:31:08Z
+  Updated: 2026-09-26T21:15:30Z
   Total Products: 133
 - [Accessories](https://christianvigilant.com/collections/accessories)
-  Updated: 2026-09-05T00:00:16Z
-  Total Products: 47786
+  Updated: 2026-09-27T00:00:44Z
+  Total Products: 48617
 - [Optics](https://christianvigilant.com/collections/optics)
-  Updated: 2026-09-04T23:55:40Z
-  Total Products: 1237
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 1245
 - [Trick It Out](https://christianvigilant.com/collections/trick-it-out)
-  Updated: 2026-09-04T23:22:43Z
+  Updated: 2026-09-26T13:10:29Z
   Total Products: 34
 - [Gun](https://christianvigilant.com/collections/gun): test
   Updated: 2026-08-29T01:17:32Z
   Total Products: 1
 - [](https://christianvigilant.com/collections/-new)
-  Updated: 2026-09-04T23:58:18Z
-  Total Products: 29672
+  Updated: 2026-09-27T00:00:43Z
+  Total Products: 31491
 - [Smart Products Filter Index - Do not delete](https://christianvigilant.com/collections/globofilter-best--products-index)
-  Updated: 2026-09-05T00:00:16Z
-  Total Products: 80649
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 85065
 - [Optic](https://christianvigilant.com/collections/optic)
-  Updated: 2026-09-04T21:18:38Z
+  Updated: 2026-09-26T21:30:44Z
   Total Products: 17
 - [Default Member](https://christianvigilant.com/collections/default-member)
-  Updated: 2026-09-05T00:00:16Z
-  Total Products: 80597
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 84998
 - [Pre-Built AR-15 Packages](https://christianvigilant.com/collections/ready-to-ship-ar-15-builds)
   Updated: 2026-08-29T01:17:21Z
   Total Products: 7
@@ -1916,227 +1526,227 @@
   Updated: 2026-08-29T01:17:26Z
   Total Products: 2
 - [Actions](https://christianvigilant.com/collections/actions)
-  Updated: 2026-09-04T22:33:02Z
+  Updated: 2026-09-22T23:23:31Z
   Total Products: 29
 - [Combo](https://christianvigilant.com/collections/combo)
-  Updated: 2026-09-04T23:22:22Z
+  Updated: 2026-09-26T17:46:17Z
   Total Products: 16
 - [Fire Control Unit](https://christianvigilant.com/collections/fire-control-unit)
-  Updated: 2026-09-04T23:12:10Z
+  Updated: 2026-09-15T14:32:27Z
   Total Products: 4
 - [Frames](https://christianvigilant.com/collections/frames)
-  Updated: 2026-09-04T19:38:02Z
+  Updated: 2026-09-14T16:46:36Z
   Total Products: 4
 - [Lowers](https://christianvigilant.com/collections/lowers)
-  Updated: 2026-09-04T22:38:45Z
-  Total Products: 106
+  Updated: 2026-09-26T18:45:47Z
+  Total Products: 110
 - [Other Firearm](https://christianvigilant.com/collections/other-firearm)
-  Updated: 2026-09-04T18:43:26Z
+  Updated: 2026-09-26T23:15:32Z
   Total Products: 16
 - [Receiver Sets](https://christianvigilant.com/collections/receiver-sets)
-  Updated: 2026-09-04T22:26:36Z
+  Updated: 2026-09-26T15:31:23Z
   Total Products: 23
 - [Ammunition](https://christianvigilant.com/collections/ammunition)
-  Updated: 2026-09-04T23:57:58Z
-  Total Products: 5763
+  Updated: 2026-09-26T11:30:59Z
+  Total Products: 5862
 - [Barrels](https://christianvigilant.com/collections/barrels)
-  Updated: 2026-09-04T23:26:22Z
+  Updated: 2026-09-26T23:45:30Z
   Total Products: 271
 - [Batteries](https://christianvigilant.com/collections/batteries)
-  Updated: 2026-09-04T23:22:53Z
+  Updated: 2026-09-26T22:45:25Z
   Total Products: 18
 - [Binoculars](https://christianvigilant.com/collections/binoculars)
-  Updated: 2026-09-04T21:09:30Z
+  Updated: 2026-09-26T21:00:45Z
   Total Products: 74
 - [Bipods](https://christianvigilant.com/collections/bipods)
-  Updated: 2026-09-04T21:07:24Z
+  Updated: 2026-09-26T20:10:50Z
   Total Products: 35
 - [Bolts](https://christianvigilant.com/collections/bolts)
-  Updated: 2026-09-04T19:46:41Z
+  Updated: 2026-09-26T10:13:29Z
   Total Products: 6
 - [Braces](https://christianvigilant.com/collections/braces)
-  Updated: 2026-09-04T23:06:26Z
+  Updated: 2026-09-26T11:13:09Z
   Total Products: 8
 - [Cases](https://christianvigilant.com/collections/cases)
-  Updated: 2026-09-04T18:23:18Z
+  Updated: 2026-09-26T23:10:31Z
   Total Products: 23
-- [Charging Handles](https://christianvigilant.com/collections/charging-handles)
-  Updated: 2026-09-04T21:25:33Z
+- [Charging Handles](https://christianvigilant.com/collections/charging-handles): Shop AR-15 and AR-10 charging handles, including ambidextrous, extended-latch and gas-reducing options for 5.56 and .308 rifle platforms and builds today.
+  Updated: 2026-09-26T13:40:14Z
   Total Products: 66
 - [Cleaning](https://christianvigilant.com/collections/cleaning)
-  Updated: 2026-09-04T23:16:52Z
+  Updated: 2026-09-26T17:30:18Z
   Total Products: 14
 - [Flash Hiders](https://christianvigilant.com/collections/flash-hiders)
-  Updated: 2026-09-04T23:53:13Z
+  Updated: 2026-09-26T22:40:42Z
   Total Products: 64
 - [Grips](https://christianvigilant.com/collections/grips)
-  Updated: 2026-09-04T22:10:10Z
+  Updated: 2026-09-26T23:45:38Z
   Total Products: 150
 - [Handguards](https://christianvigilant.com/collections/handguards)
-  Updated: 2026-09-04T19:29:04Z
+  Updated: 2026-09-23T09:56:35Z
   Total Products: 44
 - [Holsters](https://christianvigilant.com/collections/holsters)
-  Updated: 2026-09-04T22:22:21Z
+  Updated: 2026-09-26T23:10:18Z
   Total Products: 29
 - [Kits](https://christianvigilant.com/collections/kits)
-  Updated: 2026-09-04T19:13:25Z
-  Total Products: 73
+  Updated: 2026-09-26T20:10:38Z
+  Total Products: 72
 - [Lasers and Sights](https://christianvigilant.com/collections/lasers-and-sights)
-  Updated: 2026-09-04T23:52:21Z
-  Total Products: 707
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 712
 - [Lights and Lasers](https://christianvigilant.com/collections/lights-and-lasers)
-  Updated: 2026-09-03T22:13:37Z
+  Updated: 2026-09-15T21:44:09Z
   Total Products: 2
 - [Locks](https://christianvigilant.com/collections/locks)
-  Updated: 2026-08-29T01:17:27Z
+  Updated: 2026-09-19T11:08:52Z
   Total Products: 1
 - [Magazine Loaders](https://christianvigilant.com/collections/magazine-loaders)
-  Updated: 2026-09-04T23:53:33Z
+  Updated: 2026-09-07T11:56:40Z
   Total Products: 2
 - [Magazine Pouches](https://christianvigilant.com/collections/magazine-pouches)
   Updated: 2026-08-29T01:17:27Z
   Total Products: 1
 - [Magazine Releases](https://christianvigilant.com/collections/magazine-releases)
-  Updated: 2026-09-04T03:25:41Z
+  Updated: 2026-09-17T13:08:42Z
   Total Products: 1
 - [Muzzle Brakes](https://christianvigilant.com/collections/muzzle-brakes)
-  Updated: 2026-09-04T23:25:30Z
+  Updated: 2026-09-26T23:10:39Z
   Total Products: 110
 - [Rails](https://christianvigilant.com/collections/rails)
-  Updated: 2026-09-04T22:36:44Z
+  Updated: 2026-09-26T21:25:40Z
   Total Products: 52
 - [Range Finders](https://christianvigilant.com/collections/range-finders)
-  Updated: 2026-09-04T23:52:19Z
+  Updated: 2026-09-24T15:43:54Z
   Total Products: 18
 - [Range Finding Bino](https://christianvigilant.com/collections/range-finding-bino)
-  Updated: 2026-09-04T08:26:26Z
+  Updated: 2026-09-23T04:22:51Z
   Total Products: 13
 - [Rings/Mounts/Bases](https://christianvigilant.com/collections/rings-mounts-bases)
-  Updated: 2026-09-04T23:31:08Z
+  Updated: 2026-09-26T21:15:30Z
   Total Products: 133
 - [Safeties](https://christianvigilant.com/collections/safeties)
-  Updated: 2026-09-04T23:22:43Z
+  Updated: 2026-09-26T13:10:29Z
   Total Products: 7
 - [Scopes](https://christianvigilant.com/collections/scopes)
-  Updated: 2026-09-04T23:46:34Z
+  Updated: 2026-09-26T23:10:35Z
   Total Products: 447
 - [Silencer Accessories](https://christianvigilant.com/collections/silencer-accessories)
-  Updated: 2026-09-04T23:31:23Z
+  Updated: 2026-09-27T00:00:30Z
   Total Products: 469
 - [Slide Assemblies](https://christianvigilant.com/collections/slide-assemblies)
-  Updated: 2026-09-04T14:52:56Z
+  Updated: 2026-09-26T23:30:19Z
   Total Products: 13
 - [Slides](https://christianvigilant.com/collections/slides)
-  Updated: 2026-09-04T22:25:49Z
+  Updated: 2026-09-06T21:05:46Z
   Total Products: 3
 - [Slings and Swivels](https://christianvigilant.com/collections/slings-and-swivels)
-  Updated: 2026-09-04T21:42:43Z
+  Updated: 2026-09-26T18:03:20Z
   Total Products: 53
 - [Spotting Scopes](https://christianvigilant.com/collections/spotting-scopes)
-  Updated: 2026-09-04T23:32:28Z
-  Total Products: 103
+  Updated: 2026-09-23T22:23:18Z
+  Total Products: 112
 - [Stocks](https://christianvigilant.com/collections/stocks)
-  Updated: 2026-09-04T23:31:31Z
+  Updated: 2026-09-26T18:47:42Z
   Total Products: 190
 - [Tools](https://christianvigilant.com/collections/tools-1)
-  Updated: 2026-09-04T23:12:22Z
+  Updated: 2026-09-26T17:55:59Z
   Total Products: 11
 - [Triggers](https://christianvigilant.com/collections/triggers)
-  Updated: 2026-09-04T21:31:07Z
+  Updated: 2026-09-26T13:40:36Z
   Total Products: 37
 - [Uppers](https://christianvigilant.com/collections/uppers)
-  Updated: 2026-09-04T22:46:14Z
+  Updated: 2026-09-26T23:15:26Z
   Total Products: 53
 - [Rifles for : Hunting, Tactical & Home Defense Rifles](https://christianvigilant.com/collections/rifles): Shop rifles for  for hunting, sport shooting, and responsible home defense. Browse tactical, semi-automatic, and AR-style rifles at Christian Vigilant.
-  Updated: 2026-09-04T23:58:18Z
-  Total Products: 4666
+  Updated: 2026-09-26T23:45:40Z
+  Total Products: 5106
 - [CVA Weapons](https://christianvigilant.com/collections/cva-weapons)
   Updated: 2026-08-29T01:17:37Z
   Total Products: 12
 - [](https://christianvigilant.com/collections/)
-  Updated: 2026-09-04T23:56:47Z
+  Updated: 2026-09-27T00:00:43Z
   Total Products: 17372
 - [Short Barreled Rifles](https://christianvigilant.com/collections/short-barreled-rifles)
-  Updated: 2026-09-04T12:30:16Z
-  Total Products: 45
+  Updated: 2026-09-23T10:15:58Z
+  Total Products: 47
 - [Used ](https://christianvigilant.com/collections/used-)
-  Updated: 2026-09-04T10:53:35Z
-  Total Products: 403
+  Updated: 2026-09-23T10:30:31Z
+  Total Products: 412
 - [CA Compliant](https://christianvigilant.com/collections/ca-compliant)
-  Updated: 2026-09-04T18:36:36Z
-  Total Products: 383
+  Updated: 2026-09-26T19:57:55Z
+  Total Products: 396
 - [Suppressors](https://christianvigilant.com/collections/suppressors): Shop suppressors for 9mm, 22LR, 5.56, .223, .308, .30 cal and 300 Blackout. Explore rifle, pistol and rimfire suppressors for hunting and range use.
-  Updated: 2026-09-04T23:58:04Z
-  Total Products: 496
+  Updated: 2026-09-26T23:09:42Z
+  Total Products: 539
 - [Suppressors Accessories](https://christianvigilant.com/collections/suppressors-accessories)
-  Updated: 2026-09-04T23:09:01Z
-  Total Products: 300
+  Updated: 2026-09-26T22:59:44Z
+  Total Products: 322
 - [Suppressors & Parts](https://christianvigilant.com/collections/suppressors-parts)
-  Updated: 2026-09-04T23:58:04Z
-  Total Products: 796
+  Updated: 2026-09-26T23:11:19Z
+  Total Products: 861
 - [Reliable Handgun Ammunition](https://christianvigilant.com/collections/handgun-ammunition): Find affordable handgun ammunition without compromising on quality. Explore top brands, compare options and grab the best deals today!
-  Updated: 2026-09-04T22:49:50Z
-  Total Products: 1420
+  Updated: 2026-09-26T20:26:50Z
+  Total Products: 1440
 - [High-Quality Rifle Ammunition](https://christianvigilant.com/collections/rifle-ammunition): Shop premium rifle ammunition, including rifle cartridges, rifle bullets, and rifle ammo. Reliable, accurate, and affordable options. Order now!
-  Updated: 2026-09-04T23:57:58Z
-  Total Products: 2212
+  Updated: 2026-09-26T22:28:46Z
+  Total Products: 2277
 - [Shotgun Ammunition](https://christianvigilant.com/collections/shotgun-ammunition): Upgrade your shooting with premium shotgun ammunition. Enjoy reliable performance, top quality and great prices. Browse now!
-  Updated: 2026-09-04T22:30:05Z
-  Total Products: 1899
+  Updated: 2026-09-26T18:18:26Z
+  Total Products: 1909
 - [Rimfire Ammunition](https://christianvigilant.com/collections/rimfire-ammunition)
-  Updated: 2026-09-04T14:27:06Z
-  Total Products: 267
+  Updated: 2026-09-26T18:17:41Z
+  Total Products: 271
 - [Rifle Scopes](https://christianvigilant.com/collections/rifle-scopes): Rifle scopes help hunters and responsible firearm owners get a clearer sight picture, identify targets with greater confidence, and match an optic to the distances and conditions they actually face. The right hunting scope is not simply the model with the highest magnification. Glass quality, reticle design, eye relief, field of view, tube size, weight, parallax control, and low-light performance can matter just as much. Christian Vigilant’s rifle scopes collection covers a wide range of optics, from conventional variable-power scopes to thermal rifle scopes and digital day/night models. That makes it useful for shoppers comparing hunting rifle scopes, tactical scopes, predator-hunting optics, and specialized scopes for low-light field use. What Should You Look for When Choosing a Rifle Scope? A good rifle scope should match the firearm, intended use, and normal engagement distance. Hunters working in timber often value a wider field of view and lower starting magnification, while open-country hunters may prefer additional top-end magnification for clearer observation at distance. How Much Magnification Does a Hunting Scope Need? Common variable-power formats such as 3-9x, 4-12x, 4-16x, and 3-18x cover many hunting situations. Lower magnification helps with a wider field of view, while higher magnification can help when confirming detail farther away. A long-range rifle scope may also include side-focus parallax adjustment and more detailed elevation and windage controls. The current collection includes examples such as the Riton X1 Primal 4-16x44 SFP and Riton 7 Conquer 3-18x50 FFP, alongside digital and thermal models. These options show why the best rifle scope depends on how and where it will be used rather than a single magnification number. Why Do Objective Lens Size, Eye Relief, and Field of View Matter? The objective lens is the front lens of the riflescope. Larger objectives can support a brighter image, but they may also require taller scope rings and add weight. Eye relief is the distance between the shooter’s eye and ocular lens where a full sight picture is visible. Adequate eye relief is especially important on heavier-recoiling hunting rifles. Which Rifle Scopes Are Best for Hunting? The best rifle scopes for hunting balance usable magnification, clear glass, dependable adjustments, manageable weight, and a reticle that remains easy to read in changing light. Hunters should choose around actual conditions rather than buying by magnification alone. What Makes a Good Deer Hunting Scope? Search phrases such as best rifle scopes for deer hunting and rifle scopes for hunting often lead shoppers toward 3-9x, 2.5-10x, 4-12x, or similar configurations. A reticle with adjustable lighting may help in dim conditions, while a simple non-lighted reticle can keep the sight picture clean. Look closely at lens coatings, scope weight, turret style, reticle pattern, and whether the scope uses a 1-inch, 30mm, or 34mm main tube. Mounts and rings must match the tube diameter and firearm platform. When Do Thermal and Night Vision Rifle Scopes Make Sense? Thermal rifle scopes and night vision rifle scopes serve a different role from standard daytime glass. The live collection currently features ATN ThOR 6 thermal scopes, Pulsar Trail and Thermion models, AGM Spectrum and Secutor optics, Nocpix RICO and BOLT scopes, plus other digital options. Thermal optics detect heat signatures, while digital night vision depends on available or supplemental infrared light. For legal predator or coyote hunting where permitted, compare sensor resolution, base magnification, objective size, battery runtime, recording features, and whether an LRF, or laser rangefinder, is built in. Always check local hunting rules before using thermal or night vision equipment in the field. Should You Choose a First Focal Plane or Second Focal Plane Scope? First focal plane, or FFP, scopes change the apparent reticle size as magnification changes, keeping reticle subtensions consistent through the zoom range. Second focal plane, or SFP, reticles stay visually the same size as magnification changes. Both designs have a place in hunting rifle scopes. FFP rifle scopes are often preferred by users who rely on reticle-based holds at different magnifications. SFP scopes remain popular for hunting because the reticle stays easy to see. The right choice depends on how much you use holdover references and how simple you want the sight picture to remain. What Do MOA, MRAD, BDC, and Reticle Lighting Mean? MOA and MRAD are angular measurement systems used for reticle markings and turret adjustments. A BDC reticle uses reference points intended to help account for bullet drop at longer distances. Reticle lighting adds a visible aiming point or reticle section for dark backgrounds or fading light. Before buying, confirm that the turret system and reticle use matching units whenever possible. Also check whether the optic has capped or exposed turrets, a zero-stop feature, and adjustable parallax. What Should Shoppers Comparing Vortex Rifle Scopes Look For? Vortex rifle scopes are a high-interest search category, and shoppers using that phrase are often comparing the same features that matter across other hunting optics: magnification range, glass clarity, reticle type, eye relief, durability, weight, and warranty support. If your search began with Vortex rifle scopes, compare those specifications against the available Riton, Burris, ATN, Pulsar, AGM, Nocpix, and other rifle scope options in the collection. Rather than treating one brand name as the answer, focus on whether the optic suits your rifle, hunting environment, mounting system, and expected distance. That approach is more useful when comparing the best rifle scopes across different price ranges. Can One Rifle Scope Work for Hunting and Preparedness? Some rifle scopes can serve more than one lawful sporting or preparedness role, but setup should always begin with safe handling, training, secure storage, positive target identification, and knowledge of local law. For general field use, a lower-power variable scope can offer a useful mix of field of view and magnification. Higher-magnification tactical scopes and precision optics are better suited to users who actually need their added adjustment range and reticle detail. For hunting, choose the scope around terrain, game, light conditions, rifle weight, and expected distance. For preparedness, reliability, simple controls, battery planning for electronic optics, and familiarity through regular training matter more than adding features that will rarely be used. How Do You Match a Rifle Scope to Your Rifle? Start with the firearm and mounting system. Confirm rail compatibility, ring diameter, objective , eye relief, and the amount of mounting space available on the scope tube. Then compare magnification, reticle, focal plane, parallax, adjustment units, total weight, and weather resistance. A shotgun scope, rimfire scope, centerfire hunting scope, LPVO, thermal scope, and night vision scope may look similar on a product grid, but they are built around different use cases. Reading manufacturer specifications before purchase helps prevent fit problems and makes it easier to choose a rifle scope for the intended role. Christian Vigilant’s Rifle Scopes collection gives hunters and responsible owners access to conventional, thermal, and digital optics across a wide price range. Whether you are searching for a hunting scope, tactical scope, deer hunting scope, long-range rifle scope, thermal rifle scope, or night vision rifle scope, compare the features that affect real field use and choose the optic that best matches your equipment, training, and legal application.
-  Updated: 2026-09-04T22:52:20Z
-  Total Products: 212
+  Updated: 2026-09-26T18:10:51Z
+  Total Products: 226
 - [Red Dot Sights](https://christianvigilant.com/collections/red-dot-sights): Shop red dot sights for pistols, rifles and shotguns. Compare compact reflex optics, reticle sizes, mounting options and trusted brands for varied platforms.
-  Updated: 2026-09-04T23:26:04Z
+  Updated: 2026-09-26T01:22:44Z
   Total Products: 210
 - [Pistol Scopes](https://christianvigilant.com/collections/pistol-scopes)
-  Updated: 2026-09-04T21:56:57Z
-  Total Products: 43
+  Updated: 2026-09-19T19:24:14Z
+  Total Products: 48
 - [Shotgun Scopes](https://christianvigilant.com/collections/shotgun-scopes)
-  Updated: 2026-09-04T12:48:08Z
+  Updated: 2026-09-07T09:54:17Z
   Total Products: 7
 - [Archery Scopes](https://christianvigilant.com/collections/archery-scopes)
-  Updated: 2026-09-04T07:34:05Z
-  Total Products: 22
+  Updated: 2026-09-26T01:20:27Z
+  Total Products: 30
 - [Night Vision](https://christianvigilant.com/collections/night-vision)
-  Updated: 2026-09-04T22:50:29Z
-  Total Products: 80
+  Updated: 2026-09-26T11:30:31Z
+  Total Products: 82
 - [Thermal Imaging](https://christianvigilant.com/collections/thermal-imaging)
-  Updated: 2026-09-04T22:35:00Z
-  Total Products: 9
+  Updated: 2026-09-16T16:30:14Z
+  Total Products: 10
 - [Scope Mounting](https://christianvigilant.com/collections/scope-mounting)
   Updated: 2026-08-29T01:17:17Z
   Total Products: 0
 - [Scope Accessories](https://christianvigilant.com/collections/scope-accessories)
-  Updated: 2026-09-04T23:23:16Z
-  Total Products: 12
+  Updated: 2026-09-25T14:30:09Z
+  Total Products: 14
 - [Binoculars & Monoculars](https://christianvigilant.com/collections/binoculars-monoculars)
-  Updated: 2026-09-04T07:35:58Z
-  Total Products: 2
+  Updated: 2026-09-08T06:48:23Z
+  Total Products: 3
 - [Rangefinders](https://christianvigilant.com/collections/rangefinders)
-  Updated: 2026-09-04T23:32:59Z
-  Total Products: 67
+  Updated: 2026-09-26T20:25:36Z
+  Total Products: 75
 - [Firearm Sights](https://christianvigilant.com/collections/firearm-sights)
   Updated: 2026-08-29T01:17:34Z
   Total Products: 0
 - [High-Performance  Lights](https://christianvigilant.com/collections/-lights): Looking for a reliable  light? Get powerful illumination and tactical performance you can trust. Don’t wait, upgrade your gear!
-  Updated: 2026-09-04T22:52:40Z
-  Total Products: 290
+  Updated: 2026-09-26T15:53:42Z
+  Total Products: 297
 - [Reloading](https://christianvigilant.com/collections/reloading)
-  Updated: 2026-09-03T23:55:24Z
+  Updated: 2026-09-25T23:15:07Z
   Total Products: 185
 - [Presses & Kits](https://christianvigilant.com/collections/presses-kits)
   Updated: 2026-08-29T01:17:20Z
   Total Products: 0
 - [Primers](https://christianvigilant.com/collections/primers)
-  Updated: 2026-09-04T22:48:38Z
-  Total Products: 87
+  Updated: 2026-09-25T21:27:34Z
+  Total Products: 98
 - [Powder](https://christianvigilant.com/collections/powder)
-  Updated: 2026-09-04T19:58:30Z
-  Total Products: 885
+  Updated: 2026-09-26T21:02:47Z
+  Total Products: 889
 - [Tools & Gauges](https://christianvigilant.com/collections/tools-gauges)
   Updated: 2026-08-29T01:17:13Z
   Total Products: 0
@@ -2144,14 +1754,14 @@
   Updated: 2026-08-29T01:17:40Z
   Total Products: 0
 - [Brass](https://christianvigilant.com/collections/brass)
-  Updated: 2026-09-04T22:29:40Z
-  Total Products: 475
+  Updated: 2026-09-26T11:30:24Z
+  Total Products: 478
 - [Shotgun Reloading](https://christianvigilant.com/collections/shotgun-reloading)
   Updated: 2026-08-29T01:17:15Z
   Total Products: 0
 - [Dies](https://christianvigilant.com/collections/dies)
-  Updated: 2026-09-04T21:45:31Z
-  Total Products: 2141
+  Updated: 2026-09-25T23:15:18Z
+  Total Products: 2147
 - [Manuals & Software](https://christianvigilant.com/collections/manuals-software)
   Updated: 2026-08-29T01:17:26Z
   Total Products: 0
@@ -2162,29 +1772,29 @@
   Updated: 2026-08-29T01:17:38Z
   Total Products: 0
 - [Ammo & Bullet Storage](https://christianvigilant.com/collections/ammo-bullet-storage)
-  Updated: 2026-08-29T01:17:45Z
+  Updated: 2026-09-05T15:54:25Z
   Total Products: 2
 - [Handgun Parts](https://christianvigilant.com/collections/handgun-parts)
   Updated: 2026-08-29T01:17:32Z
   Total Products: 0
 - [Rifle Parts](https://christianvigilant.com/collections/rifle-parts)
-  Updated: 2026-08-29T01:17:18Z
+  Updated: 2026-09-24T00:08:30Z
   Total Products: 3
 - [Shotgun Parts](https://christianvigilant.com/collections/shotgun-parts)
   Updated: 2026-08-29T01:17:15Z
   Total Products: 0
 - [Gunsmithing](https://christianvigilant.com/collections/gunsmithing)
-  Updated: 2026-08-29T01:17:32Z
-  Total Products: 2
+  Updated: 2026-09-25T09:15:12Z
+  Total Products: 3
 - [Gunsmithing Tools](https://christianvigilant.com/collections/gunsmithing-tools)
-  Updated: 2026-08-29T01:17:32Z
-  Total Products: 2
+  Updated: 2026-09-25T09:15:12Z
+  Total Products: 3
 - [Wood & Metal Preparation](https://christianvigilant.com/collections/wood-metal-preparation)
   Updated: 2026-08-29T01:17:11Z
   Total Products: 0
 - [Shooting](https://christianvigilant.com/collections/shooting)
-  Updated: 2026-09-04T23:36:33Z
-  Total Products: 606
+  Updated: 2026-09-26T21:24:06Z
+  Total Products: 621
 - [Holsters & Belts](https://christianvigilant.com/collections/holsters-belts)
   Updated: 2026-08-29T01:17:31Z
   Total Products: 0
@@ -2195,16 +1805,16 @@
   Updated: 2026-08-29T01:17:16Z
   Total Products: 0
 - [ & Ammo Storage](https://christianvigilant.com/collections/-ammo-storage)
-  Updated: 2026-08-29T01:17:32Z
+  Updated: 2026-09-16T10:30:12Z
   Total Products: 6
 - [Targets](https://christianvigilant.com/collections/targets)
-  Updated: 2026-09-04T23:16:19Z
-  Total Products: 545
+  Updated: 2026-09-26T23:55:51Z
+  Total Products: 557
 - [Tactical Gear](https://christianvigilant.com/collections/tactical-gear)
   Updated: 2026-08-29T01:17:13Z
   Total Products: 1
 - [Slings & Swivels](https://christianvigilant.com/collections/slings-swivels)
-  Updated: 2026-08-29T01:17:14Z
+  Updated: 2026-09-16T05:01:14Z
   Total Products: 9
 - [Bipods, Monopods & Shooting Sticks](https://christianvigilant.com/collections/bipods-monopods-shooting-sticks)
   Updated: 2026-08-29T01:17:42Z
@@ -2213,26 +1823,26 @@
   Updated: 2026-08-29T01:17:19Z
   Total Products: 0
 - [Airguns](https://christianvigilant.com/collections/airguns)
-  Updated: 2026-09-04T12:54:14Z
-  Total Products: 30
+  Updated: 2026-09-17T18:18:42Z
+  Total Products: 33
 - [Airgun Handguns](https://christianvigilant.com/collections/airgun-handguns)
-  Updated: 2026-09-04T22:30:34Z
-  Total Products: 45
+  Updated: 2026-09-26T18:10:25Z
+  Total Products: 46
 - [Airgun Rifles](https://christianvigilant.com/collections/airgun-rifles)
-  Updated: 2026-09-04T22:55:52Z
-  Total Products: 121
+  Updated: 2026-09-26T18:30:03Z
+  Total Products: 127
 - [Pellets & BBs](https://christianvigilant.com/collections/pellets-bbs)
-  Updated: 2026-09-04T10:27:43Z
+  Updated: 2026-09-26T18:30:05Z
   Total Products: 136
 - [Airgun Accessories](https://christianvigilant.com/collections/airgun-accessories)
-  Updated: 2026-09-04T13:31:58Z
-  Total Products: 61
+  Updated: 2026-09-24T17:27:33Z
+  Total Products: 62
 - [Muzzleloaders](https://christianvigilant.com/collections/muzzleloaders)
   Updated: 2026-08-29T01:17:24Z
   Total Products: 1
 - [Black Powder Rifles](https://christianvigilant.com/collections/black-powder-rifles)
-  Updated: 2026-09-04T19:58:30Z
-  Total Products: 44
+  Updated: 2026-09-26T18:30:27Z
+  Total Products: 45
 - [Black Powder Pistols](https://christianvigilant.com/collections/black-powder-pistols)
   Updated: 2026-08-29T01:17:41Z
   Total Products: 4
@@ -2240,32 +1850,32 @@
   Updated: 2026-08-29T01:17:42Z
   Total Products: 2
 - [Muzzleloader Bullets & Sabots](https://christianvigilant.com/collections/muzzleloader-bullets-sabots)
-  Updated: 2026-09-04T22:50:43Z
-  Total Products: 173
+  Updated: 2026-09-26T23:59:08Z
+  Total Products: 177
 - [Muzzleloader Cleaning & Accessories](https://christianvigilant.com/collections/muzzleloader-cleaning-accessories)
-  Updated: 2026-09-04T19:48:37Z
-  Total Products: 88
+  Updated: 2026-09-26T20:28:01Z
+  Total Products: 95
 - [Percussion Caps & Primers](https://christianvigilant.com/collections/percussion-caps-primers)
-  Updated: 2026-09-04T10:20:10Z
-  Total Products: 22
+  Updated: 2026-09-22T14:37:11Z
+  Total Products: 25
 - [Black Powder Substitutes](https://christianvigilant.com/collections/black-powder-substitutes)
-  Updated: 2026-09-04T12:13:02Z
+  Updated: 2026-09-15T12:47:07Z
   Total Products: 19
 - [Muzzleloader Ramrods](https://christianvigilant.com/collections/muzzleloader-ramrods)
-  Updated: 2026-09-04T10:38:49Z
+  Updated: 2026-09-25T18:11:04Z
   Total Products: 23
 - [Breech & Wrenches](https://christianvigilant.com/collections/breech-wrenches)
-  Updated: 2026-09-04T10:42:18Z
-  Total Products: 26
+  Updated: 2026-09-25T07:42:33Z
+  Total Products: 27
 - [Powder Measures](https://christianvigilant.com/collections/powder-measures)
-  Updated: 2026-09-04T16:24:37Z
-  Total Products: 415
+  Updated: 2026-09-26T18:08:48Z
+  Total Products: 417
 - [Shooting Patches & Wads](https://christianvigilant.com/collections/shooting-patches-wads)
-  Updated: 2026-09-04T10:38:42Z
-  Total Products: 10
+  Updated: 2026-09-17T03:20:52Z
+  Total Products: 12
 - [Muzzleloader Cappers & Speed Loaders](https://christianvigilant.com/collections/muzzleloader-cappers-speed-loaders)
-  Updated: 2026-09-04T10:39:03Z
-  Total Products: 25
+  Updated: 2026-09-25T07:42:34Z
+  Total Products: 27
 - [Clothing & Footwear](https://christianvigilant.com/collections/clothing-footwear)
   Updated: 2026-08-29T01:17:38Z
   Total Products: 0
@@ -2294,43 +1904,43 @@
   Updated: 2026-08-29T01:17:29Z
   Total Products: 0
 - [Hunting Pants](https://christianvigilant.com/collections/hunting-pants)
-  Updated: 2026-09-04T21:48:40Z
-  Total Products: 293
+  Updated: 2026-09-25T23:30:35Z
+  Total Products: 304
 - [Hunting Footwear](https://christianvigilant.com/collections/hunting-footwear)
   Updated: 2026-08-29T01:17:30Z
   Total Products: 0
 - [Hunting Eyewear](https://christianvigilant.com/collections/hunting-eyewear)
-  Updated: 2026-08-29T03:25:34Z
+  Updated: 2026-09-26T11:42:16Z
   Total Products: 51
 - [Hunting Accessories](https://christianvigilant.com/collections/hunting-accessories): Shop hunting accessories including camouflage makeup, camo remover and hand-warming gear designed to support comfort and concealment in the field.
-  Updated: 2026-08-29T01:17:30Z
-  Total Products: 4
+  Updated: 2026-09-05T20:57:41Z
+  Total Products: 5
 - [Closeouts](https://christianvigilant.com/collections/closeouts)
   Updated: 2026-08-29T01:17:38Z
   Total Products: 0
 - [Gun Parts & Tools](https://christianvigilant.com/collections/gun-parts-tools)
-  Updated: 2026-08-29T01:17:32Z
+  Updated: 2026-09-16T15:18:17Z
   Total Products: 15
 - [Hunting](https://christianvigilant.com/collections/hunting)
-  Updated: 2026-09-04T22:54:25Z
+  Updated: 2026-09-26T11:42:59Z
   Total Products: 438
 - [Archery Hunting Gear](https://christianvigilant.com/collections/archery): Get ready for the hunt with top-quality archery hunting gear. Explore durable bows, arrows, and essential accessories. Discover and shop today.
-  Updated: 2026-09-04T18:45:22Z
-  Total Products: 498
+  Updated: 2026-09-26T23:55:52Z
+  Total Products: 510
 - [Outdoors](https://christianvigilant.com/collections/outdoors)
-  Updated: 2026-08-29T01:17:22Z
+  Updated: 2026-09-16T15:31:55Z
   Total Products: 3
 - [Apparel](https://christianvigilant.com/collections/apparel)
   Updated: 2026-08-29T01:17:44Z
   Total Products: 46
 - [CSSI Exclusive Shop](https://christianvigilant.com/collections/cssi-exclusive-shop)
-  Updated: 2026-09-04T22:46:41Z
-  Total Products: 585
+  Updated: 2026-09-26T19:54:52Z
+  Total Products: 609
 - [Special Deals](https://christianvigilant.com/collections/special-deals)
   Updated: 2026-08-29T01:17:14Z
   Total Products: 0
 - [Treestands](https://christianvigilant.com/collections/treestands)
-  Updated: 2026-09-04T17:15:42Z
+  Updated: 2026-09-26T17:35:50Z
   Total Products: 53
 - [Hunting Blinds](https://christianvigilant.com/collections/hunting-blinds)
   Updated: 2026-08-29T01:17:30Z
@@ -2342,10 +1952,10 @@
   Updated: 2026-08-29T01:17:12Z
   Total Products: 0
 - [Decoys](https://christianvigilant.com/collections/decoys)
-  Updated: 2026-09-04T22:51:18Z
-  Total Products: 210
+  Updated: 2026-09-26T21:24:05Z
+  Total Products: 226
 - [Game Calls](https://christianvigilant.com/collections/game-calls)
-  Updated: 2026-09-04T21:58:03Z
+  Updated: 2026-09-05T16:41:27Z
   Total Products: 14
 - [Scents & Scent Eliminators](https://christianvigilant.com/collections/scents-scent-eliminators)
   Updated: 2026-08-29T01:17:17Z
@@ -2354,16 +1964,16 @@
   Updated: 2026-08-29T01:17:34Z
   Total Products: 0
 - [Game Processing](https://christianvigilant.com/collections/game-processing)
-  Updated: 2026-09-01T11:30:53Z
+  Updated: 2026-09-25T02:24:39Z
   Total Products: 10
 - [Dog Training & Supplies](https://christianvigilant.com/collections/dog-training-supplies)
   Updated: 2026-08-29T01:17:36Z
   Total Products: 0
 - [Displays](https://christianvigilant.com/collections/displays)
-  Updated: 2026-09-01T11:30:59Z
+  Updated: 2026-09-22T23:38:22Z
   Total Products: 13
 - [Bags & Packs](https://christianvigilant.com/collections/bags-packs)
-  Updated: 2026-09-04T21:53:03Z
+  Updated: 2026-09-24T03:09:48Z
   Total Products: 18
 - [Tents](https://christianvigilant.com/collections/tents)
   Updated: 2026-08-29T01:17:13Z
@@ -2378,14 +1988,14 @@
   Updated: 2026-08-29T01:17:40Z
   Total Products: 0
 - [Knives & Edged Tools](https://christianvigilant.com/collections/knives-edged-tools)
-  Updated: 2026-09-04T22:54:36Z
-  Total Products: 441
+  Updated: 2026-09-25T21:02:46Z
+  Total Products: 450
 - [Axes, Hatchets & Machetes](https://christianvigilant.com/collections/axes-hatchets-machetes)
   Updated: 2026-08-29T01:17:43Z
   Total Products: 0
 - [Bows](https://christianvigilant.com/collections/bows)
-  Updated: 2026-09-04T17:26:23Z
-  Total Products: 176
+  Updated: 2026-09-26T00:52:59Z
+  Total Products: 177
 - [Rebates](https://christianvigilant.com/collections/rebates)
   Updated: 2026-08-29T01:17:19Z
   Total Products: 0
@@ -2396,20 +2006,20 @@
   Updated: 2026-08-29T01:17:43Z
   Total Products: 0
 - [Bow Accessories](https://christianvigilant.com/collections/bow-accessories)
-  Updated: 2026-09-04T17:31:00Z
-  Total Products: 18
+  Updated: 2026-09-26T14:40:10Z
+  Total Products: 20
 - [Archery Accessories](https://christianvigilant.com/collections/archery-accessories)
-  Updated: 2026-09-04T18:38:35Z
-  Total Products: 111
+  Updated: 2026-09-26T23:57:17Z
+  Total Products: 114
 - [Multi-Tools](https://christianvigilant.com/collections/multi-tools)
-  Updated: 2026-09-01T16:28:39Z
+  Updated: 2026-09-17T19:36:01Z
   Total Products: 42
 - [Sharpeners & Maintenance](https://christianvigilant.com/collections/sharpeners-maintenance)
-  Updated: 2026-08-29T01:17:16Z
+  Updated: 2026-09-24T12:15:37Z
   Total Products: 15
 - [Water](https://christianvigilant.com/collections/water)
-  Updated: 2026-09-04T12:56:25Z
-  Total Products: 40
+  Updated: 2026-09-23T22:58:24Z
+  Total Products: 43
 - [Lighting](https://christianvigilant.com/collections/lighting)
   Updated: 2026-08-29T01:17:28Z
   Total Products: 0
@@ -2423,8 +2033,8 @@
   Updated: 2026-08-29T01:17:37Z
   Total Products: 9
 - [Parts, Ammo & Optics](https://christianvigilant.com/collections/parts-ammo-optics)
-  Updated: 2026-09-04T22:27:35Z
-  Total Products: 140
+  Updated: 2026-09-26T06:46:19Z
+  Total Products: 142
 - [Training & Safety](https://christianvigilant.com/collections/training-safety)
   Updated: 2026-08-29T01:17:12Z
   Total Products: 0
@@ -2432,26 +2042,26 @@
   Updated: 2026-08-29T01:17:31Z
   Total Products: 0
 - [Household Secure Storage (non-firearm)](https://christianvigilant.com/collections/household-secure-storage-non-firearm)
-  Updated: 2026-08-29T01:17:31Z
+  Updated: 2026-09-26T17:27:18Z
   Total Products: 38
 - [Lighting & Basic Power](https://christianvigilant.com/collections/lighting-basic-power): Find top basic lighting and power products for safety and convenience. Upgrade your setup with trusted, reliable gear and stay prepared. Order now!
-  Updated: 2026-09-04T23:55:39Z
-  Total Products: 433
+  Updated: 2026-09-26T23:45:49Z
+  Total Products: 434
 - [ & First Aid](https://christianvigilant.com/collections/-first-aid): Shop compact  first aid kits for travel and outdoor safety. Stay prepared for emergencies—browse now and get reliable protection on every trip!
-  Updated: 2026-09-04T17:45:33Z
-  Total Products: 22
+  Updated: 2026-09-24T13:30:04Z
+  Total Products: 25
 - [Water Readiness](https://christianvigilant.com/collections/water-readiness)
   Updated: 2026-08-29T01:17:11Z
   Total Products: 11
 - [April - Food Storage & Pantry](https://christianvigilant.com/collections/april-food-storage-pantry): Explore top food storage and pantry organization essentials for a clutter-free kitchen. Shop now for smart, space-saving storage upgrades today!
-  Updated: 2026-09-01T11:37:43Z
+  Updated: 2026-09-26T17:27:15Z
   Total Products: 151
 - [May - Tools & Household Capability](https://christianvigilant.com/collections/may-tools-household-capability)
-  Updated: 2026-09-04T23:12:22Z
-  Total Products: 92
+  Updated: 2026-09-26T17:55:59Z
+  Total Products: 94
 - [Outdoor Cooking & Fire](https://christianvigilant.com/collections/outdoor-cooking-fire)
-  Updated: 2026-08-29T09:16:33Z
-  Total Products: 26
+  Updated: 2026-09-18T22:45:28Z
+  Total Products: 23
 - [Travel & Navigation](https://christianvigilant.com/collections/travel-navigation)
   Updated: 2026-08-29T01:17:12Z
   Total Products: 0
@@ -2462,7 +2072,7 @@
   Updated: 2026-08-29T01:17:38Z
   Total Products: 0
 - [Home Awareness & Visibility](https://christianvigilant.com/collections/home-awareness-visibility)
-  Updated: 2026-09-04T23:55:39Z
+  Updated: 2026-09-26T23:45:49Z
   Total Products: 332
 - [Seasonal & Environmental Readiness](https://christianvigilant.com/collections/seasonal-environmental-readiness)
   Updated: 2026-08-29T01:17:17Z
@@ -2471,89 +2081,89 @@
   Updated: 2026-08-29T01:17:37Z
   Total Products: 0
 - [Off-The-Shelf ](https://christianvigilant.com/collections/off-the-shelf-)
-  Updated: 2026-09-04T23:58:18Z
-  Total Products: 22439
+  Updated: 2026-09-27T00:00:42Z
+  Total Products: 25012
 - [Handguns for : 9mm Pistols & Revolvers for Personal Defense](https://christianvigilant.com/collections/handguns): Browse handguns for  at Christian Vigilant, including 9mm pistols, revolvers and concealed carry options for responsible home defense and preparedness.
-  Updated: 2026-09-04T23:56:45Z
-  Total Products: 12043
+  Updated: 2026-09-27T00:00:43Z
+  Total Products: 12695
 - [Firearm Parts & Components (CVA only)](https://christianvigilant.com/collections/firearm-parts-components-cva-only)
-  Updated: 2026-09-04T23:31:31Z
-  Total Products: 1290
+  Updated: 2026-09-26T23:45:30Z
+  Total Products: 1311
 - [Optics](https://christianvigilant.com/collections/optics-1)
-  Updated: 2026-09-04T23:56:32Z
-  Total Products: 995
+  Updated: 2026-09-27T00:00:45Z
+  Total Products: 999
 - [Firearm Maintenance & Cleaning](https://christianvigilant.com/collections/firearm-maintenance-cleaning)
-  Updated: 2026-09-04T23:16:52Z
-  Total Products: 341
+  Updated: 2026-09-26T17:30:18Z
+  Total Products: 345
 - [Firearm Storage & Security](https://christianvigilant.com/collections/firearm-storage-security)
-  Updated: 2026-09-04T19:50:37Z
+  Updated: 2026-09-26T23:10:31Z
   Total Products: 47
 - [Range Gear & Shooting Accessories](https://christianvigilant.com/collections/range-gear-shooting-accessories)
-  Updated: 2026-09-04T23:35:45Z
-  Total Products: 319
+  Updated: 2026-09-26T21:24:07Z
+  Total Products: 322
 - [Ammunition](https://christianvigilant.com/collections/ammunition-1)
-  Updated: 2026-09-04T23:57:58Z
-  Total Products: 5271
+  Updated: 2026-09-26T11:30:59Z
+  Total Products: 5364
 - [Ammo Storage](https://christianvigilant.com/collections/ammo-storage)
   Updated: 2026-08-29T01:17:44Z
   Total Products: 0
 - [Reloading Equipment](https://christianvigilant.com/collections/reloading-equipment): Shop a complete reloading equipment kit with all essentials. Perfect for precision and control. Upgrade your reloading setup today!
-  Updated: 2026-09-04T16:01:19Z
-  Total Products: 2694
+  Updated: 2026-09-26T20:11:13Z
+  Total Products: 2698
 - [Dies, Shell Holders & Tooling](https://christianvigilant.com/collections/dies-shell-holders-tooling)
-  Updated: 2026-09-04T16:24:29Z
-  Total Products: 45
+  Updated: 2026-09-24T08:15:26Z
+  Total Products: 47
 - [Powders, Primers & Components](https://christianvigilant.com/collections/powders-primers-components)
-  Updated: 2026-09-04T13:45:27Z
+  Updated: 2026-09-06T01:54:19Z
   Total Products: 4
 - [Brass, Bullets & Projectiles](https://christianvigilant.com/collections/brass-bullets-projectiles)
-  Updated: 2026-09-04T10:33:16Z
-  Total Products: 7
+  Updated: 2026-09-17T18:50:57Z
+  Total Products: 8
 - [Reloading Accessories & Measurement Tools](https://christianvigilant.com/collections/reloading-accessories-measurement-tools)
-  Updated: 2026-09-04T10:47:58Z
+  Updated: 2026-09-25T22:15:06Z
   Total Products: 686
 - [Knives & Edged Tools](https://christianvigilant.com/collections/knives-edged-tools-1)
-  Updated: 2026-09-04T22:50:42Z
-  Total Products: 380
+  Updated: 2026-09-26T14:43:35Z
+  Total Products: 387
 - [Axes, Hatchets & Machetes](https://christianvigilant.com/collections/axes-hatchets-machetes-1)
   Updated: 2026-08-29T01:17:43Z
   Total Products: 0
 - [Multi-Tools & Field Tools](https://christianvigilant.com/collections/multi-tools-field-tools)
-  Updated: 2026-09-04T23:12:22Z
+  Updated: 2026-09-26T17:55:59Z
   Total Products: 27
 - [Hunting  & Accessories](https://christianvigilant.com/collections/hunting--accessories)
-  Updated: 2026-09-04T23:56:47Z
-  Total Products: 12247
+  Updated: 2026-09-27T00:00:42Z
+  Total Products: 14127
 - [Hunting Optics](https://christianvigilant.com/collections/hunting-optics)
-  Updated: 2026-09-04T23:56:32Z
-  Total Products: 231
+  Updated: 2026-09-26T21:01:38Z
+  Total Products: 244
 - [Decoys, Calls & Attractants](https://christianvigilant.com/collections/decoys-calls-attractants)
   Updated: 2026-08-29T01:17:37Z
   Total Products: 0
 - [Blinds, Stands & Saddles](https://christianvigilant.com/collections/blinds-stands-saddles)
-  Updated: 2026-09-04T21:29:05Z
-  Total Products: 94
+  Updated: 2026-09-26T17:36:17Z
+  Total Products: 100
 - [Hunting Apparel & Packs](https://christianvigilant.com/collections/hunting-apparel-packs)
   Updated: 2026-08-29T01:17:30Z
   Total Products: 46
 - [Game Processing & Field Dressing](https://christianvigilant.com/collections/game-processing-field-dressing)
-  Updated: 2026-09-01T11:30:53Z
+  Updated: 2026-09-25T02:25:13Z
   Total Products: 10
 - [Camping Shelters & Sleep Systems](https://christianvigilant.com/collections/camping-shelters-sleep-systems)
-  Updated: 2026-09-04T06:42:36Z
-  Total Products: 27
+  Updated: 2026-09-09T11:41:52Z
+  Total Products: 29
 - [Camp Furniture & Comfort](https://christianvigilant.com/collections/camp-furniture-comfort)
-  Updated: 2026-09-04T10:36:58Z
-  Total Products: 14
+  Updated: 2026-09-26T16:39:33Z
+  Total Products: 20
 - [Camp Cooking & Food Prep](https://christianvigilant.com/collections/camp-cooking-food-prep)
-  Updated: 2026-08-29T09:16:34Z
-  Total Products: 26
+  Updated: 2026-09-18T22:45:29Z
+  Total Products: 23
 - [Hydration & Water ](https://christianvigilant.com/collections/hydration-water-)
   Updated: 2026-08-29T01:17:29Z
   Total Products: 11
 - [Backpacks, Bags & Storage](https://christianvigilant.com/collections/backpacks-bags-storage)
-  Updated: 2026-09-04T21:57:15Z
-  Total Products: 87
+  Updated: 2026-09-25T02:26:13Z
+  Total Products: 89
 - [Outdoor Tools & Survival Gear](https://christianvigilant.com/collections/outdoor-tools-survival-gear)
   Updated: 2026-08-29T01:17:22Z
   Total Products: 2
@@ -2561,8 +2171,8 @@
   Updated: 2026-08-29T01:17:12Z
   Total Products: 0
 - [Personal Defense & Non-Lethal](https://christianvigilant.com/collections/personal-defense-non-lethal)
-  Updated: 2026-09-04T18:34:37Z
-  Total Products: 48
+  Updated: 2026-09-26T18:30:36Z
+  Total Products: 51
 - [Emergency & Survival Supplies](https://christianvigilant.com/collections/emergency-survival-supplies)
   Updated: 2026-08-29T01:17:36Z
   Total Products: 2
@@ -2648,10 +2258,6 @@
   - [10 Best Self-Defense Weapons for Home & Everyday Carry](https://christianvigilant.com/blogs/news/10-best-self-defense-weapons-for-home-and-everyday-use): 10 Best Self-Defense Weapons for Home & Everyday Carry
     Updated: 2026-08-07T07:40:34Z
     Author: Lyndall Kirkes
-  - [Tactical & Defense Shotguns for Home: Buyer’s Guide](https://christianvigilant.com/blogs/news/tactical-and-defense-shotguns-for-home): Tactical & Defense Shotguns for Home: Buyer’s Guide
-    Updated: 2026-08-07T07:44:44Z
-    Author: Lyndall Kirkes
-    Tags: shotguns, tactical
   - [Best Hunting Rifle Sling for Comfort and Rifle Support](https://christianvigilant.com/blogs/news/best-hunting-rifle-sling-for-comfort-and-support)
     Updated: 2026-08-31T09:04:08Z
     Author: Lyndall Kirkes
@@ -2665,13 +2271,21 @@
     Author: Lyndall Kirkes
     Tags: comparison, sights
   - [OEM vs Aftermarket Glock Magazines: A Guide to Reliable Stewardship](https://christianvigilant.com/blogs/news/oem-vs-aftermarket-glock-magazines)
-    Updated: 2026-08-31T09:56:33Z
+    Updated: 2026-09-16T13:17:36Z
     Author: Lyndall Kirkes
     Tags: ammo, comparison, hunting gear, magazines, OEM, personal defense
   - [5.7x28mm vs. 9mm: Cost, Recoil, Capacity and Best Use](https://christianvigilant.com/blogs/news/5-7x28mm-vs-9mm)
-    Updated: 2026-08-31T10:23:20Z
+    Updated: 2026-09-16T13:17:19Z
     Author: Lyndall Kirkes
     Tags: 5.7x28, 9mm, ammo, comparison, magazines, self defense guide
+  - [Glock OEM vs. Magpul PMAG: Which Glock Magazine Should You Choose?](https://christianvigilant.com/blogs/news/glock-oem-vs-magpul-pmag)
+    Updated: 2026-09-22T13:24:09Z
+    Author: Lyndall Kirkes
+    Tags: glock
+  - [Micro-Compact 9mm Pistols: Size, Capacity and Value](https://christianvigilant.com/blogs/news/micro-compact-9mm-pistols-size-capacity-and-value): <p>Compare leading micro-compact 9mm pistols by dimensions, capacity, optics readiness, handling, and value while understanding concealability, recoil, buyer trade-offs, and responsible considerations before choosing a carry handgun for personal needs.</p>
+    Updated: 2026-09-23T10:43:26Z
+    Author: Lyndall Kirkes
+    Tags: 9mm pistols
 
 ## Store Pages
 
