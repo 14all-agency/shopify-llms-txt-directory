@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-31T19:06:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-18T00:00:44.281Z
+- Updated At: 2026-09-27T00:00:43.482Z
 
 ## Products
 
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBSaddleUpHat.png?v=1768236303
   Price: $35.00 USD
 - [Longhorn Skull Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
-  Updated: 2026-09-12T20:07:16Z
+  Updated: 2026-09-18T16:50:36Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -235,7 +235,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Dive Bar Pocket Tee](https://georgebirge.merchmadeeasy.com/products/dive-bar-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
-  Updated: 2026-09-11T16:11:36Z
+  Updated: 2026-09-23T14:23:46Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -262,10 +262,10 @@
   Updated: 2026-09-13T11:13:57Z
   Total Products: 15
 - [All](https://georgebirge.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-13T11:13:57Z
+  Updated: 2026-09-24T11:15:13Z
   Total Products: 18
 - [Apparel](https://georgebirge.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-13T11:13:57Z
+  Updated: 2026-09-24T11:15:13Z
   Total Products: 12
 - [Music](https://georgebirge.merchmadeeasy.com/collections/music)
   Updated: 2026-05-26T16:58:26Z
@@ -274,7 +274,7 @@
   Updated: 2026-09-07T11:13:37Z
   Total Products: 6
 - [2026 Tour Merch](https://georgebirge.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-09-13T11:13:57Z
+  Updated: 2026-09-24T11:15:13Z
   Total Products: 8
 
 ## Store Pages
