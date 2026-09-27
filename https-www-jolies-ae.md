@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-09-20T04:00:37.841Z
+- Updated At: 2026-09-27T08:00:36.722Z
 
 ## Products
 
@@ -21,7 +21,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OXILLIS-Coffee-Therapy-Brazilian-Protein-Hair-Straightener-1000-ML-OXILLIS-JOLIE_S-205065155.png?v=1779549923
   Price: AED 500.00 AED
 - [Amazon Flowers Perfect Smooth Hair Protein 1L | JOLIES UAE](https://www.jolies.ae/products/amazon-flowers-brazilian-hair-protein--1000-ml): Shop Amazon Flowers Perfect Smooth Brazilian hair protein 1 litre, a professional smoothing  designed to help control frizz and improve shine.
-  Updated: 2026-09-15T15:41:20Z
+  Updated: 2026-09-20T19:48:46Z
   Vendor: AMAZON FLOWERS
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -548,7 +548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TIGI-BED-HEAD-Dumb-Blonde-Shampoo-_-Conditioner-Set-2000-ML-TIGI-JOLIE_S-128609511.jpg?v=1724965832
     Price: AED 350.00 AED
 - [TIGI BED HEAD Colour Goddess Conditioner 2000 ML - JOLIE'S](https://www.jolies.ae/products/tigi-bed-head-colour-goddess-conditioner-2000-ml): TIGI TIGI BED HEAD Colour  Conditioner 2000 ML Capacity : 2000 ML  The TIGI BED HEAD  Colour  JOLIE'S
-  Updated: 2026-08-28T18:51:40Z
+  Updated: 2026-09-25T16:00:16Z
   Vendor: TIGI
   Product Type: Shampoo & Conditioner
   Availability: Available
@@ -1655,7 +1655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR.ALTHEA-147-Barrier-Cream-50-ML-DR-ALTHEA-JOLIE_S-166759484.jpg?v=1732905554
   Price: AED 100.00 AED
 - [MEDICUBE Collagen Jelly Cream | JOLIES UAE](https://www.jolies.ae/products/medicube-collagen-jelly-cream): Shop MEDICUBE Collagen Jelly Cream, a lightweight gel moisturiser for hydration and a smooth, plump-looking finish.
-  Updated: 2026-08-28T18:52:35Z
+  Updated: 2026-09-23T02:47:47Z
   Vendor: Medicube
   Product Type: CREAM
   Availability: Available
@@ -1899,14 +1899,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-PDRN-Pink-Collagen-Gel-Mask-_1PC_-Medicube-JOLIE_S-194342912.webp?v=1741037519
   Price: AED 25.00 AED
 - [MEDICUBE Triple Collagen Toner 140 ml | JOLIES UAE](https://www.jolies.ae/products/medicube-triple-collagen-toner-140ml): Shop MEDICUBE Triple Collagen Toner 140 ml, a hydrating toner designed to support a smooth, plump-looking complexion.
-  Updated: 2026-08-28T18:52:43Z
+  Updated: 2026-09-23T02:47:47Z
   Vendor: Medicube
   Product Type: Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Triple-Collagen-Toner-_140ml_-Medicube-JOLIE_S-194344339.png?v=1741037453
   Price: AED 100.00 AED
 - [MEDICUBE Zero Pore Pads 2.0 70 pcs | JOLIES](https://www.jolies.ae/products/medicube-zero-pore-pads-2-0-70pcs): Shop MEDICUBE Zero Pore Pads 2.0, 70 pads, with AHA and BHA to exfoliate rough texture and help clear congested-looking pores. JOLIES UAE.
-  Updated: 2026-08-28T18:52:44Z
+  Updated: 2026-09-23T20:32:42Z
   Vendor: Medicube
   Product Type: Toner Pads
   Availability: Available
@@ -2703,6 +2703,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Collagen-Booster-Set-JOLIE_S-JOLIE_S-200517837.png?v=1749251170
   Price: AED 800.00 AED
+- [CAPIXY Intense Hair Tonic Spray 125ml | JOLIES UAE](https://www.jolies.ae/products/capixy-intense-hair-tonic-spray-125-ml): Shop CAPIXY Intense Hair Tonic Spray 125ml for convenient scalp and hair-care use within your regular routine.
+  Updated: 2026-09-25T07:25:49Z
+  Vendor: CAPIXY
+  Product Type: Hair Tonic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Capixy-Intense-Tonic-Spray-125ml-JOLIE_S-JOLIE_S-201146468.webp?v=1750956447
+  Price: AED 220.00 AED
 - [EVA Skin Clinic Eye & Lip Makeup Remover | JOLIES UAE](https://www.jolies.ae/products/eva-skin-clinic-collagen-makeup-remover-for-eyes-lips): Shop EVA Skin Clinic Collagen Eyes & Lips Makeup Remover for gentle removal of eye and lip makeup.
   Updated: 2026-09-06T02:01:13Z
   Vendor: EVA
@@ -3025,28 +3032,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Deep-Vita-C-5-Pcs-Set-Medicube-JOLIE_S-202259475.png?v=1754413892
   Price: AED 420.00 AED
-- [MEDICUBE Zero Pore Clearer 4-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-zero-pore-clearer-4-pcs-set): Shop the MEDICUBE Zero Pore Clearer four-piece set for coordinated cleansing and cosmetic care of visible pores and texture.
-  Updated: 2026-08-28T22:36:00Z
-  Vendor: Medicube
-  Product Type: Facial Cleansing Kits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Clearer-4-Pcs-Set-Medicube-JOLIE_S-202259312.png?v=1754413133
-  Price: AED 380.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgxNDEyNzA0NTc3LCJsYXN0X3ZhbHVlIjoiOTk4MTQxMjcwNDU3NyJ9)
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgxNDExMDY2MTc3LCJsYXN0X3ZhbHVlIjoiOTk4MTQxMTA2NjE3NyJ9)
 
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-15T19:57:10Z
+  Updated: 2026-09-21T11:09:44Z
   Total Products: 30
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-19T11:09:27Z
+  Updated: 2026-09-26T11:10:02Z
   Total Products: 106
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-09-17T11:09:54Z
-  Total Products: 618
+  Updated: 2026-09-25T21:53:35Z
+  Total Products: 619
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
-  Updated: 2026-09-17T20:13:19Z
+  Updated: 2026-09-26T11:10:02Z
   Total Products: 41
 - [Bracelets](https://www.jolies.ae/collections/bracelets): Shop elegant stone and leather bracelets online in the UAE. Explore versatile designs for everyday wear and special occasions from JOLIE'S.
   Updated: 2026-08-22T19:48:33Z
@@ -3055,8 +3055,8 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-09-17T20:13:19Z
-  Total Products: 196
+  Updated: 2026-09-26T11:10:02Z
+  Total Products: 198
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
   Total Products: 4
@@ -3076,10 +3076,10 @@
   Updated: 2026-08-28T19:02:56Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-09-18T17:57:14Z
-  Total Products: 503
+  Updated: 2026-09-26T11:10:02Z
+  Total Products: 504
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-09-19T11:09:27Z
+  Updated: 2026-09-26T11:10:02Z
   Total Products: 369
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
   Updated: 2026-09-13T11:11:02Z
