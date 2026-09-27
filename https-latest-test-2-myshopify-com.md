@@ -6,34 +6,60 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-09-19T00:00:38.874Z
+- Updated At: 2026-09-27T00:00:40.237Z
 
 ## Products
 
 - [The Multi-location Snowboard](https://latest-test-2.myshopify.com/products/the-multi-location-snowboard): Stocked at both of our locations, so it ships from whichever one is closest to you.
-  Updated: 2026-09-14T02:13:13Z
+  Updated: 2026-09-24T06:17:26Z
   Vendor: Northline Supply
   Product Type: Snowboard
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/the-multi-location-snowboard-latest-test.jpg?v=1789981995
   Price: 579,95 $ USD
 - [Complete Snowboard](https://latest-test-2.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-09-14T05:11:06Z
+  Updated: 2026-09-24T06:17:28Z
   Vendor: Summit Rebel
   Product Type: Snowboard
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0948/8629/7873/files/the-complete-snowboard-latest-test.jpg?v=1789981997
   Price: 899,95 $ USD
 
 ## Collections
 
 - [Some another collection [CC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/some-another-collection): Auto-updated by tester on 2026-05-14 12:56:10. Seed: 20261511
-  Updated: 2026-09-01T07:02:37Z
+  Updated: 2026-09-21T09:28:14Z
   Total Products: 3
 - [Smart collection v1 [SC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/smart-collection)
-  Updated: 2026-09-01T07:10:13Z
+  Updated: 2026-09-21T09:28:46Z
   Total Products: 1
 - [Random v3 [CC-Day-2026-06-10]](https://latest-test-2.myshopify.com/collections/random-v3): Auto-updated by tester on 2026-06-10 12:56:10. Seed: 20261511
-  Updated: 2026-09-12T10:33:10Z
+  Updated: 2026-09-21T09:32:11Z
   Total Products: 3
+- [Let's See](https://latest-test-2.myshopify.com/collections/lets-see): what is the issue lets find out.
+  Updated: 2026-09-21T09:34:05Z
+  Total Products: 6
+- [Test collection](https://latest-test-2.myshopify.com/collections/chiki-chiki): Random Description data
+  Updated: 2026-09-22T09:58:06Z
+  Total Products: 4
+- [Another big image edited](https://latest-test-2.myshopify.com/collections/another-with-big-image)
+  Updated: 2026-09-22T10:19:52Z
+  Total Products: 3
+- [another 2](https://latest-test-2.myshopify.com/collections/another-2)
+  Updated: 2026-09-22T10:23:18Z
+  Total Products: 0
+- [brand new lets check](https://latest-test-2.myshopify.com/collections/brand-new-lets-check)
+  Updated: 2026-09-22T10:47:06Z
+  Total Products: 2
+- [Pressing next](https://latest-test-2.myshopify.com/collections/pressing-next)
+  Updated: 2026-09-22T12:05:41Z
+  Total Products: 2
+- [test](https://latest-test-2.myshopify.com/collections/test)
+  Updated: 2026-09-23T05:09:10Z
+  Total Products: 0
+- [Best collection ever for optimization](https://latest-test-2.myshopify.com/collections/best-collection-ever-for-optimization): random text with optimization
+  Updated: 2026-09-23T05:18:03Z
+  Total Products: 4
 
 ## Blogs
 
