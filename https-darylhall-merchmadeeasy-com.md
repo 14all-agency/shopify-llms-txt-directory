@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-03-02T15:47:42Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-12T00:00:46.590Z
+- Updated At: 2026-09-27T00:00:44.091Z
 
 ## Products
 
 - [LFDH Guitar Strap](https://darylhall.merchmadeeasy.com/products/lfdh-guitar-strap): Custom Guitar Strap Regular/Adjustable (45" - 55") 2" Polyester Durable Plastic Hardware
-  Updated: 2026-09-10T22:54:57Z
+  Updated: 2026-09-23T08:58:56Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
@@ -45,13 +45,6 @@
   - [XXL](https://darylhall.merchmadeeasy.com/products/lfdh-shirt?variant=33000119992459)
     Availability: Not Available
     Price: $30.00 USD
-- [LFDH Girl's Graphic Tee](https://darylhall.merchmadeeasy.com/products/womens-graphic-tee): Girl's 100% cotton short sleeve tee "Live From Daryl's House" graphic on the front
-  Updated: 2026-08-12T20:41:00Z
-  Vendor: Daryl Hall
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/Girl_s_LFDH_Tee.png?v=1742586367
-  Price: $10.00 USD
 - [Daryl's House Wine Glass](https://darylhall.merchmadeeasy.com/products/wine-glass): This 9-ounce stemless wine glass is perfect for tasting your favorite wine! Daryl's House logo on the front
   Updated: 2026-08-12T20:41:31Z
   Vendor: Daryl Hall
@@ -88,7 +81,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Daryl Hall Signature Tee](https://darylhall.merchmadeeasy.com/products/daryl-hall-signature-1): 100% Cotton Tee in Dark Grey Daryl Hall photo and signature screen print on the front.
-  Updated: 2026-08-12T20:43:21Z
+  Updated: 2026-09-18T20:43:38Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -175,7 +168,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Daryl's House Tee - Red](https://darylhall.merchmadeeasy.com/products/daryls-house-tee-red): 100% Cotton Black Tee Daryl's House screen print in red on the front.
-  Updated: 2026-08-12T20:45:52Z
+  Updated: 2026-09-14T15:10:19Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -198,42 +191,6 @@
   - [3XL](https://darylhall.merchmadeeasy.com/products/daryls-house-tee-red?variant=46194549162123)
     Availability: Available
     Price: $5.00 USD
-- [LFDH Zip Up Hoodie](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie): 50% Polyester / 50% Cotton Fleece Metal Zipper Hooded with White finished drawcord LFDH logo on back in red or yellow
-  Updated: 2026-08-12T20:49:13Z
-  Vendor: Daryl Hall
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHLFDHHoodieZip.png?v=1742502063
-  - [Red / S](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=41518672871563)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Red / M](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545325707)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Red / L](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545358475)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Red / XL](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545391243)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Red / 2X](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545424011)
-    Availability: Available
-    Price: $35.00 USD
-  - [Yellow / S](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=43164640247947)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Yellow / M](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545456779)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Yellow / L](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545489547)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Yellow / XL](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545522315)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [Yellow / 2X](https://darylhall.merchmadeeasy.com/products/lfdh-zip-up-hoodie?variant=44499545555083)
-    Availability: Not Available
-    Price: $35.00 USD
 - [Daryl Hall - D (LP)](https://darylhall.merchmadeeasy.com/products/daryl-hall-d-lp): The sixth studio album by Daryl Hall, released on June 21, 2024. Pressed on 180g black vinyl. Side A The Whole World’s Better Too Much Information Can’t Say No To You Rather Be A Fool Rainbow Over The Graveyard Side B Not The Way I Thought It Was Walking In Between Raindrops Why You Want To Do That (To My Head) Break It Down To The Real Thing
   Updated: 2026-08-12T20:49:21Z
   Vendor: Daryl Hall
@@ -273,7 +230,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Signature Tote Bag](https://darylhall.merchmadeeasy.com/products/signature-tote-bag): Tote Bag with Daryl's signature as the graphic 100% cotton canvas 22" self-fabric handles
-  Updated: 2026-08-12T20:50:46Z
+  Updated: 2026-09-18T11:29:06Z
   Vendor: Daryl Hall
   Product Type: Tote Bag
   Availability: Available
@@ -307,34 +264,34 @@
 ## Collections
 
 - [Accessories](https://darylhall.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-23T11:06:31Z
   Total Products: 28
 - [Apparel](https://darylhall.merchmadeeasy.com/collections/apparel): Visit to shop all Daryl Hall apparel including tees, hoodies, long sleeves and more!
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-24T15:48:37Z
   Total Products: 22
 - [All](https://darylhall.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-11T11:06:21Z
-  Total Products: 21
+  Updated: 2026-09-23T11:06:31Z
+  Total Products: 19
 - [Music](https://darylhall.merchmadeeasy.com/collections/music)
   Updated: 2026-08-04T11:06:04Z
   Total Products: 8
 - [](https://darylhall.merchmadeeasy.com/collections/)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-24T15:48:37Z
   Total Products: 10
 - [Our Favorites](https://darylhall.merchmadeeasy.com/collections/home-page)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-19T11:06:27Z
   Total Products: 8
 - [2025 Tour Merch](https://darylhall.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-23T11:06:31Z
   Total Products: 7
 - [Stocking Stuffers](https://darylhall.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-23T11:06:31Z
   Total Products: 9
 - [$5 FRENZY ](https://darylhall.merchmadeeasy.com/collections/5-frenzy-)
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-24T15:48:37Z
   Total Products: 21
 - [EG All Products - DO NOT EDIT](https://darylhall.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-09-11T11:06:21Z
+  Updated: 2026-09-24T15:48:37Z
   Total Products: 58
 
 ## Store Pages
