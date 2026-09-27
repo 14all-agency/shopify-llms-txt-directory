@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-04T21:45:03Z
 - Contact Email: hello@maisonandi.com
-- Updated At: 2026-09-20T00:00:34.486Z
+- Updated At: 2026-09-27T00:00:35.669Z
 
 ## Products
 
 - [Elysia Eco One-Piece | Gender-Neutral Swimwear](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-mineral-green): Swimwear designed for every body, beyond binaries. The Elysia features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-09-17T03:31:04Z
+  Updated: 2026-09-24T10:21:12Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: €89.95 EUR
 - [Elysia Eco One-Piece | Gender-Neutral Swimwear](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-terracotta-red): Swimwear designed for every body, beyond binaries. The Elysia features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-09-18T13:22:08Z
+  Updated: 2026-09-22T12:04:15Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -52,8 +52,8 @@
   - [XL](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-terracotta-red?variant=43108982751343)
     Availability: Available
     Price: €89.95 EUR
-- [Slim Fit Cotton T-Shirt – Nature Is Queer Graphic](https://www.maisonandi.com/products/at-shirt-nature-is-queer): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
-  Updated: 2026-09-19T01:33:30Z
+- [Slim Fit Cotton T-Shirt – " Nature Is Queer " Graphic](https://www.maisonandi.com/products/at-shirt-nature-is-queer): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
+  Updated: 2026-09-22T23:59:51Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -68,7 +68,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [Anthias Eco Swim Top | Gender-Neutral Swimwear](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-terracotta-red): Swimwear designed for every body, beyond binaries. The Anthias features Soft Compression for a secure, gender-affirming fit. Inclusive, sustainable and flattening.
-  Updated: 2026-09-17T02:13:57Z
+  Updated: 2026-09-22T12:05:05Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -110,7 +110,7 @@
     Availability: Available
     Price: €49.95 EUR
 - [Coris Eco Knotted Bikini Bottom | Gender-Neutral Swimwear](https://www.maisonandi.com/products/coris-gender-neutral-knotted-bikini-bottom-terracotta-red): Swimwear designed for every body, beyond binaries. The Coris features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-09-17T03:08:33Z
+  Updated: 2026-09-22T12:02:17Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -151,8 +151,8 @@
   - [XL](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-mineral-green?variant=43112116355183)
     Availability: Available
     Price: €45.95 EUR
-- [Short Sleeve Slim Fit Cotton T-Shirt](https://www.maisonandi.com/products/plain-sleevless-t-shirt): Classic off-white tee with androgynous fit and gender-free style. Soft cotton for everyday wear.
-  Updated: 2026-07-15T10:52:00Z
+- [Essential – Slim Fit Cotton T-Shirt Short Sleeve](https://www.maisonandi.com/products/plain-sleevless-t-shirt): Classic off-white tee with androgynous fit and gender-free style. Soft cotton for everyday wear.
+  Updated: 2026-09-24T22:04:31Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -287,7 +287,7 @@
     Availability: Available
     Price: €35.95 EUR
 - [Slim Fit Cotton T-Shirt – “Mother Nature Is a Lesbian”](https://www.maisonandi.com/products/mother-nature-slim-fit-cotton-t-shirt): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
-  Updated: 2026-09-19T01:18:34Z
+  Updated: 2026-09-22T12:06:41Z
   Vendor: maison andi
   Product Type: 
   Availability: Available
@@ -305,7 +305,7 @@
 ## Collections
 
 - [Marsha One Piece Swimsuit Sibiling](https://www.maisonandi.com/collections/siblings-marsha-onepiece-swimsuit)
-  Updated: 2026-09-19T11:06:38Z
+  Updated: 2026-09-21T14:01:44Z
   Total Products: 2
 - [Audre Swim Scoop Neck Top Sibling](https://www.maisonandi.com/collections/sibling-audre-swim-scoop-neck-top)
   Updated: 2026-09-16T15:12:18Z
@@ -314,16 +314,16 @@
   Updated: 2026-09-16T15:09:21Z
   Total Products: 2
 - [Terracota Red](https://www.maisonandi.com/collections/terracotta-red)
-  Updated: 2026-09-19T11:06:38Z
+  Updated: 2026-09-21T14:01:44Z
   Total Products: 5
 - [Mineral Green](https://www.maisonandi.com/collections/mineral-green)
-  Updated: 2026-09-18T13:33:27Z
+  Updated: 2026-09-22T11:59:47Z
   Total Products: 6
 - [Skin-Wear™ : Swimwear for Freedom of Movement](https://www.maisonandi.com/collections/skin-wear): Discover Skin-Wear™ : swimwear designed for secure movement. Gender-neutral and non-binary swimwear engineered with soft compression and anatomical coverage.
-  Updated: 2026-09-19T11:06:38Z
+  Updated: 2026-09-24T10:04:28Z
   Total Products: 15
 - [T-shirt sibling](https://www.maisonandi.com/collections/sibling-t-shirt)
-  Updated: 2026-09-18T13:33:27Z
+  Updated: 2026-09-24T10:04:28Z
   Total Products: 4
 - [Sibling Doris Eco Long-Sleeve Swim Crop Top Rash Guard](https://www.maisonandi.com/collections/sibling-doris-top)
   Updated: 2026-09-16T15:05:34Z
@@ -332,7 +332,7 @@
   Updated: 2026-09-16T15:33:09Z
   Total Products: 2
 - [Pride Capsule](https://www.maisonandi.com/collections/pride-capsule)
-  Updated: 2026-09-18T13:33:27Z
+  Updated: 2026-09-24T10:04:28Z
   Total Products: 4
 
 ## Blogs
@@ -426,7 +426,7 @@
     Updated: 2026-09-14T10:58:14Z
     Author: andi
   - [How Skin-Wear™ Elevates Gender-Affirming Swimwear for Comfort and Security](https://www.maisonandi.com/blogs/journal/how-skin-wear™-elevates-gender-affirming-swimwear-for-comfort-and-security): How Skin-Wear™ Elevates Gender-Affirming Swimwear for Comfort and Security
-    Updated: 2026-09-11T18:04:15Z
+    Updated: 2026-09-21T09:50:11Z
     Author: andi
   - [How Skin-Wear™ Elevates Gender-Affirming Swimwear for Comfort and Security](https://www.maisonandi.com/blogs/journal/how-skin-wear™-elevates-gender-affirming-swimwear-for-comfort-and-security-1): How Skin-Wear™ Elevates Gender-Affirming Swimwear for Comfort and Security
     Updated: 2026-09-15T08:52:51Z
@@ -436,6 +436,15 @@
     Author: andi
   - [Fashion Meets Function: Gender-Neutral Lingerie and All-Day Comfort](https://www.maisonandi.com/blogs/journal/fashion-meets-function-gender-neutral-lingerie-and-all-day-comfort): Fashion Meets Function: Gender-Neutral Lingerie and All-Day Comfort
     Updated: 2026-09-18T18:01:20Z
+    Author: andi
+  - [Unpacking Compression Underwear for the Non-Binary Community](https://www.maisonandi.com/blogs/journal/unpacking-compression-underwear-for-the-non-binary-community): Unpacking Compression Underwear for the Non-Binary Community
+    Updated: 2026-09-21T18:01:10Z
+    Author: andi
+  - [How Gender-Neutral Underwear Boosts Comfort and Confidence](https://www.maisonandi.com/blogs/journal/how-gender-neutral-underwear-boosts-comfort-and-confidence): How Gender-Neutral Underwear Boosts Comfort and Confidence
+    Updated: 2026-09-23T18:00:38Z
+    Author: andi
+  - [Comfortable Swimwear: Perfect Fit for Trans and Non-Binary Identities](https://www.maisonandi.com/blogs/journal/comfortable-swimwear-perfect-fit-for-trans-and-non-binary-identities): Comfortable Swimwear: Perfect Fit for Trans and Non-Binary Identities
+    Updated: 2026-09-25T18:00:51Z
     Author: andi
 
 ## Store Pages
