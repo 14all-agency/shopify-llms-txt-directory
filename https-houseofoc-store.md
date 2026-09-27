@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-09-18T00:00:46.308Z
+- Updated At: 2026-09-27T00:00:45.228Z
 
 HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevated ready-to-wear clothing and accessories for women, men and children. Our collections combine sophisticated design, modern styling and distinctive statement pieces. Explore our official collections, product information, sizing, shipping and brand content through the HOUSE OF OC website.
 
@@ -201,8 +201,8 @@ HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevat
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/f9a29a1515510da564673e7e7a4c957b99a503422f0b668938bda3d0d5fd8f69.jpg?v=1767920278
     Price: £22.32 GBP
-- [FAUX CRUSHED LEATHER MIDI DRESS](https://houseofoc.store/products/d14554-faux-crushed-leather-midi-dress): - FAUX CRUSHED LEATHER MIDI DRESS - Colors: Black, Mocha - Style: Elegant, Clubwear, Night Out, Cocktail, Holiday - Pattern Type: Solid - Length: Mini - Season: Fall/Winter - Type: Bodycon - Details: - Fit Type: Slim Fit - Neckline: Regular - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch - 96%POLYESTER 4%SPANDEX
-  Updated: 2026-09-12T15:02:19Z
+- [FAUX CRUSHED LEATHER MIDI DRESS](https://houseofoc.store/products/d14554-faux-crushed-leather-midi-dress): - FAUX CRUSHED LEATHER MIDI DRESS - Colors: Mocha - Style: Elegant, Clubwear, Night Out, Cocktail, Holiday - Pattern Type: Solid - Length: Mini - Season: Fall/Winter - Type: Bodycon - Details: - Fit Type: Slim Fit - Neckline: Regular - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch - 96%POLYESTER 4%SPANDEX
+  Updated: 2026-09-19T07:43:11Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
