@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-09-20T00:00:37.982Z
+- Updated At: 2026-09-27T00:00:38.723Z
 
 ## Products
 
@@ -1393,6 +1393,15 @@
     Author: PawCentral
   - [Proper Nutrition Tips for Your Senior Dog](https://pawcentral.co.za/blogs/news/proper-nutrition-tips-for-your-senior-dog): Proper Nutrition Tips for Your Senior Dog
     Updated: 2026-09-19T00:43:16Z
+    Author: PawCentral
+  - [Essential Care Tips for Aquatic Pets](https://pawcentral.co.za/blogs/news/essential-care-tips-for-aquatic-pets): Essential Care Tips for Aquatic Pets
+    Updated: 2026-09-21T02:32:25Z
+    Author: PawCentral
+  - [An Editorial on Why Downtown Living Is Still Possible with Pets](https://pawcentral.co.za/blogs/news/an-editorial-on-why-downtown-living-is-still-possible-with-pets): An Editorial on Why Downtown Living Is Still Possible with Pets
+    Updated: 2026-09-23T02:09:26Z
+    Author: PawCentral
+  - [The Rising Trends in Holistic Veterinary Care](https://pawcentral.co.za/blogs/news/the-rising-trends-in-holistic-veterinary-care): The Rising Trends in Holistic Veterinary Care
+    Updated: 2026-09-26T00:41:49Z
     Author: PawCentral
 
 ## Store Pages
