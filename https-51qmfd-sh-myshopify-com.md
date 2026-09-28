@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-07-30T09:50:08Z
 - Contact Email: tiny@royalbeautyqueen.com
-- Updated At: 2026-09-19T00:00:40.517Z
+- Updated At: 2026-09-28T00:00:24.082Z
 
 ## Products
 
@@ -2149,21 +2149,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0990/4475/3778/files/E9189CD0ADFCA4481DC03F0CBDAC36C1.jpg?v=1785703646
   Price: $49.68 USD
-- [Manual Patting Knife, Stainless Steel, All Steel, Multifunctional Garlic Pester, Household Kitchen Cutter, Garlic Pester - Homeroyalbeautyqueen](https://51qmfd-sh.myshopify.com/products/manual-patting-knife-stainless-steel-all-steel-multifunctional-garlic-pester-household-kitchen-cutter-garlic-pester): Product attributes:Material: stainless steelStyle: Modern and minimalistElectric: NoSize: 16 * 6CM - Homeroyalbeautyqueen - Homeroyalbeautyqueen - eprolo - Product attributes:Material: stainless steelStyle: Modern and minimalistElectric: NoSize: 16 * 6CM - Manual Patting Knife, Stainless Steel, All Steel, Multifunctional Garlic Pester, Household Kitchen Cutter, Garlic Pester
-  Updated: 2026-08-28T23:19:01Z
-  Vendor: eprolo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0990/4475/3778/files/4260D4AF324FACF7A062DE7BBB4590AD.jpg?v=1785703758
-  Price: $19.28 USD
-- [Food Cutter Set for Thermomix TM5 TM6 – Multifunctional Attachments](https://51qmfd-sh.myshopify.com/products/food-cutter-for-thermomix-tm5-tm6-chopper-vegetable-peeler-cooking-masher-slicing-shredding-multifunctional-fine-peeler-set): Durable, food-grade cutter set compatible with Thermomix TM5 & TM6 for chopping, peeling, slicing, and more. Easy to install and dishwasher safe.
-  Updated: 2026-08-28T23:19:02Z
-  Vendor: eprolo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0990/4475/3778/files/E5604EA1C6A9EFF9E85A0F274389C36C.jpg?v=1785703895
-  Price: $69.70 USD
-[List Continued](https://51qmfd-sh.myshopify.com/a/llms-agent/llms.txt?shop=51qmfd-sh.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTEzODM4MzU2MTA3NCwibGFzdF92YWx1ZSI6IjE1MTM4MzgzNTYxMDc0In0%3D)
+[List Continued](https://51qmfd-sh.myshopify.com/a/llms-agent/llms.txt?shop=51qmfd-sh.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTEzODM4MzQ5NTUzOCwibGFzdF92YWx1ZSI6IjE1MTM4MzgzNDk1NTM4In0%3D)
 
 ## Collections
 
@@ -2281,6 +2267,15 @@
     Author: Royal beauty queen
   - [Common Misconceptions About Educational Toys Debunked](https://51qmfd-sh.myshopify.com/blogs/news/common-misconceptions-about-educational-toys-debunked): Common Misconceptions About Educational Toys Debunked
     Updated: 2026-09-18T01:46:26Z
+    Author: Royal beauty queen
+  - [A Historical Look at the Impact of Educational Toys on Society](https://51qmfd-sh.myshopify.com/blogs/news/a-historical-look-at-the-impact-of-educational-toys-on-society): A Historical Look at the Impact of Educational Toys on Society
+    Updated: 2026-09-21T02:09:01Z
+    Author: Royal beauty queen
+  - [Innovative Educational Toys Setting Trends in 2026](https://51qmfd-sh.myshopify.com/blogs/news/innovative-educational-toys-setting-trends-in-2026): Innovative Educational Toys Setting Trends in 2026
+    Updated: 2026-09-24T00:22:04Z
+    Author: Royal beauty queen
+  - [An Editorial on the Future of Educational Toys in Childhood Education](https://51qmfd-sh.myshopify.com/blogs/news/an-editorial-on-the-future-of-educational-toys-in-childhood-education): An Editorial on the Future of Educational Toys in Childhood Education
+    Updated: 2026-09-25T01:45:34Z
     Author: Royal beauty queen
 
 ## Store Pages
