@@ -6,7 +6,13 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-04-28T08:04:01Z
 - Contact Email: website@roopkalasarees.com
-- Updated At: 2026-09-19T10:35:47.660Z
+- Updated At: 2026-09-28T00:00:30.236Z
+
+# Roopkala Heritage
+
+Roopkala Heritage (roopkalasarees.com) is an Indian women's ethnic wear brand founded in 1952, based in Santacruz (Mumbai), specializing in bridal and occasion sarees, lehengas, salwar suits, kurta sets, gowns, and Indo-Western outfits. The brand offers online shopping with worldwide shipping, in-store shopping at its Santacruz store, and video call styling appointments with stylists who speak English, Hindi, Gujarati, and Marathi.
+
+Roopkala Heritage sells premium fabrics (Banarasi silk, pure silk, tussar silk, organza, georgette, chiffon, crepe, tissue) across price bands from under ₹20,000 everyday festive wear to ₹1 lakh+ bridal-grade pieces. Most sarees ship with an unstitched blouse for custom tailoring; a Ready-to-Ship collection dispatches within 24 hours. Cash on delivery is available in India up to ₹25,000, and shipping is free worldwide on orders over $100.
 
 ## Products
 
@@ -60,7 +66,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A6273-1-scaled.webp?v=1748684084
   Price: ₹4,290.00 INR
 - [Buy Now Rose Pink Silk Saree in Gold Weaving – Roopkala Heritage](https://roopkalasarees.com/products/rose-pink-kathan-silk-saree-with-gold-weaving): Shop now this graceful rose pink silk saree with refined gold weaving detailing from Roopkala Heritage, ideal for traditional occasions.
-  Updated: 2026-09-19T10:32:42Z
+  Updated: 2026-09-27T06:47:26Z
   Vendor: Roopkala
   Product Type: 
   Availability: Available
@@ -103,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Roopkala_28-10-24_Shot10966-copy_0dfd57c3-e737-42f1-8a0f-22258fc87637.webp?v=1750403773
   Price: ₹63,520.00 INR
 - [Buy Burnt Orange Designer Lehenga Online | Roopkala](https://roopkalasarees.com/products/burnt-orange-embroidered-lehenga-set): Discover a gorgeous Burnt Orange Embroidered Lehenga Set for weddings and festive occasions. Elevate your ethnic style with Roopkala’s designer collection.
-  Updated: 2026-09-19T10:32:46Z
+  Updated: 2026-09-27T06:47:26Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
@@ -138,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/grey_net_lehenga.jpg?v=1759922923
   Price: ₹51,770.00 INR
 - [Premium Blush Pink Tissue Lehenga Set Online | Roopkala Heritage](https://roopkalasarees.com/products/blush-pink-tissue-lehenga-set-with-zardosi-pearl-resham-detailing): Make every celebration special with a Blush Pink Tissue Lehenga adorned with Zardosi, Pearl & Resham work. Shop Roopkala’s elegant designer collection online!
-  Updated: 2026-09-19T10:32:47Z
+  Updated: 2026-09-27T06:47:26Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
@@ -180,28 +186,28 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A5374.jpg?v=1754381777
   Price: ₹18,500.00 INR
 - [Pink Tissue Salwar Suit with Organza Dupatta and Zari Work](https://roopkalasarees.com/products/pink-tissue-salwar-suit): Pink Tissue Salwar Suit in tissue & organza blend, designed for style & comfort. Ideal for roka, engagements & festive celebrations. Buy today!
-  Updated: 2026-09-19T10:32:47Z
+  Updated: 2026-09-27T06:47:31Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A5168.jpg?v=1754557482
   Price: ₹14,890.00 INR
 - [Green Tissue Salwar Suit with Resham and Zari Embroidery](https://roopkalasarees.com/products/green-tissue-salwar-suit-with-resham-and-zari-embroidery): This green salwar suit is made entirely in lightweight tissue fabric, offering a crisp silhouette with a subtle sheen. The kameez is detailed with fine resham embroidery, zari work, sequins, and delicate lace accents—giving it a handcrafted feel with a modern finish. Coordinated tissue salwar and dupatta complete the set, making it a graceful pick for festive days and elegant evenings alike.
-  Updated: 2026-09-19T10:05:58Z
+  Updated: 2026-09-27T06:47:32Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A5142.jpg?v=1754557917
   Price: ₹17,090.00 INR
 - [Buy Blue Satin Silk Suit Set with Zari Work | Roopkala Sarees](https://roopkalasarees.com/products/green-satin-silk-lehenga-with-green-net-blouse-and-green-net-dupatta): Buy Blue Satin Silk Suit Set with sequins, thread, cutdana, resham & zari work. Elegant designer ethnic wear for weddings, parties & festive occasions.
-  Updated: 2026-09-19T10:19:36Z
+  Updated: 2026-09-27T06:47:31Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A6116.jpg?v=1754467448
   Price: ₹20,310.00 INR
 - [White and Green Net Salwar Suit with Stone & Zari Work](https://roopkalasarees.com/products/white-and-green-net-salwar-suit-with-stone-zari-work): Elegant white and green net salwar suit with stone and zari work, ideal for festive gatherings, daytime functions and special occasions.
-  Updated: 2026-09-19T10:19:44Z
+  Updated: 2026-09-27T06:47:31Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -216,7 +222,7 @@
     Availability: Available
     Price: ₹14,890.00 INR
 - [Pink Raw Silk Salwar Suit with Net Dupatta and Mirror Work](https://roopkalasarees.com/products/pink-raw-silk-salwar-suit-with-net-dupatta-and-mirror-work): A soft pink salwar suit set crafted in raw silk, paired with a net dupatta for added elegance. The kameez is adorned with mirror work, sequins, resham embroidery, and tikki—delicately done to offer a balance of sparkle and traditional detail. The matching raw silk salwar adds structure to the look, while the pink net dupatta brings in a lighter, airy finish. Perfect for when you want something that feels festive yet refined.
-  Updated: 2026-09-19T10:19:37Z
+  Updated: 2026-09-27T06:47:31Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -245,7 +251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A3904.png?v=1755766075
   Price: ₹24,420.00 INR
 - [Onion Pink Georgette Suit Set with Mirror, Moti & Resham Work](https://roopkalasarees.com/products/onion-pink-georgette-suit-set-with-mirror-moti-resham-work): Radiate subtle charm in this exquisite Onion Pink Georgette Suit Set, a magnificent piece from the Roopkala Heritage collection. Crafted entirely from soft, flowing Georgette fabric for the kameez, salwar, and dupatta, this ensemble offers a beautiful, elegant drape. The kameez is richly hand-embellished with a premium blend of detailing, featuring shimmering Mirror work, delicate Moti (Pearls), sparkling Sequins, fine Cutdana, intricate Resham (Thread), brilliant Stones, and delicate Tikki, creating a luxurious, textured finish. Available in size M, this suit perfectly blends traditional artistry with a contemporary, muted color, making it an excellent choice for celebratory events and sophisticated gatherings.
-  Updated: 2026-09-19T10:19:42Z
+  Updated: 2026-09-27T06:47:32Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -263,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0337.jpg?v=1762175059
     Price: ₹21,450.00 INR
 - [Lime Raw Silk Suit Set with Abla Work & Organza Dupatta](https://roopkalasarees.com/products/lime-raw-silk-suit-set-with-organza-dupatta-abla-work): Shop this elegant Lime Raw Silk Suit Set with intricate Abla work and a soft Organza dupatta. Perfect for festive and wedding occasions. Order now!
-  Updated: 2026-09-19T10:19:45Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -281,7 +287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Lime_Raw_Silk_Salwar_Suit_Set.jpg?v=1765518198
     Price: ₹16,810.00 INR
 - [Buy Rose Gold Crepe Suit Set – Mirror Work & Chinnon Dupatta](https://roopkalasarees.com/products/rose-gold-crepe-suit-set-with-chinnon-dupatta-mirror-work): Shop our Rose Gold Crepe Suit Set featuring intricate mirror work and a graceful Chinnon dupatta. Ideal for festivals and events—add timeless elegance to your collection!
-  Updated: 2026-09-18T16:59:56Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -299,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Rose_Gold_Crepe_Suit_with_dupatta.jpg?v=1765516262
     Price: ₹16,820.00 INR
 - [Buy Gold Net Salwar Kameez Online – Beads & Pearl Embellished Set](https://roopkalasarees.com/products/gold-net-salwar-kameez-set-with-kundan-beads-pearl-work): Shop the gold net salwar kameez set featuring intricate kundan, bead, and pearl detailing — an elegant pick for parties and wedding functions. Buy online now.
-  Updated: 2026-09-18T17:02:41Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -393,7 +399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Navy_Blue_Silk_Salwar_Suit.jpg?v=1764251377
     Price: ₹34,520.00 INR
 - [Buy Blue Banarasi Silk Suit Set Online – Zari & Mirror Sequins](https://roopkalasarees.com/products/blue-banarasi-silk-suit-set-with-mirror-sequins-zari-work): Elevate your festive look with our blue Banarasi silk suit set, rich with mirror sequins and zari embellishments. Perfect for weddings and events — order online at the best price.
-  Updated: 2026-09-18T17:02:46Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -429,7 +435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Lilac_Satin_Silk_Salwar_Suit_Set.jpg?v=1763538320
     Price: ₹31,110.00 INR
 - [Buy Beige Crepe Suit Set Online | Detailed Sequins & Cutdana](https://roopkalasarees.com/products/beige-crepe-suit-set-with-sequins-thread-cutdana-work): Discover a stunning beige crepe suit set with intricate sequins, thread and cutdana embellishments — ideal for celebrations. Available online at an attractive price.
-  Updated: 2026-09-18T17:02:46Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -447,7 +453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0370.jpg?v=1762263813
     Price: ₹18,240.00 INR
 - [Buy Beige Chinon Suit Set Online – Kundan Moti Sequins Work](https://roopkalasarees.com/products/beige-chinnon-suit-set-with-kundan-moti-sequins-work): Shop this elegant beige chiffon suit set featuring intricate kundan, moti and sequin work—ideal for festive events and weddings. Available online at the best price.
-  Updated: 2026-09-18T17:02:50Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -465,7 +471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Chinon_Chiffon_Suit_in_Beige.jpg?v=1763532305
     Price: ₹17,010.00 INR
 - [Pista Green Salwar Suit Online | Moti, Sequins & Stone Work](https://roopkalasarees.com/products/pista-green-tissue-suit-set-with-moti-sequins-stone-work): Shop the elegant pista green salwar suit in premium tissue fabric with moti, sequins and stone work. A perfect festive and wedding-wear outfit available at the best price.
-  Updated: 2026-09-18T17:02:51Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -483,7 +489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0885.jpg?v=1763382234
     Price: ₹18,450.00 INR
 - [Buy Pure Green Banarasi Silk Suit Set with Mirror, Stone & Zari Work](https://roopkalasarees.com/products/green-banarasi-silk-suit-set-with-mirror-stone-zari-work): This pure green Banarasi silk suit set features luxurious mirror, stone and zari work on the kurta and dupatta, a royal choice for weddings, grand receptions and festive celebrations.
-  Updated: 2026-09-18T17:02:50Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -519,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0791.jpg?v=1762264491
     Price: ₹20,480.00 INR
 - [Buy Pure Pink Crepe Salwar Suit Set with Multi-Color Dupatta](https://roopkalasarees.com/products/pink-crepe-suit-set-with-multi-color-dupatta-hand-work): Buy this pure pink crepe suit set featuring a multi-color dupatta with intricate hand work. A gorgeous designer outfit for weddings, festivities & special occasions.
-  Updated: 2026-09-18T17:02:56Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Salwar Kameez
   Availability: Available
@@ -537,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0232.jpg?v=1762264724
     Price: ₹21,130.00 INR
 - [Luxury Brown Raw Silk Lehenga Online | Roopkala Heritage](https://roopkalasarees.com/products/brown-art-raw-silk-lehenga-set-with-organza-dupatta-zari-work): Turn heads in a luxurious Brown Art Raw Silk Lehenga Set featuring a graceful Organza Dupatta and exquisite Zari embroidery. Shop Roopkala Heritage today.
-  Updated: 2026-09-18T17:02:56Z
+  Updated: 2026-09-27T06:47:36Z
   Vendor: Roopkalasarees
   Product Type: Lehengas
   Availability: Available
@@ -573,7 +579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0075.jpg?v=1762347506
     Price: ₹26,190.00 INR
 - [Buy Grey Designer Lehenga Set with Mukesh Work | Roopkala Sarees](https://roopkalasarees.com/products/grey-lehenga-set-with-net-blouse-crepe-skirt-mukesh-work): Discover Roopkala’s elegant grey lehenga set with net blouse, crepe skirt, dupatta and sparkling Mukesh work. Shop this graceful partywear look today online!
-  Updated: 2026-09-18T17:03:02Z
+  Updated: 2026-09-27T06:47:41Z
   Vendor: Roopkalasarees
   Product Type: Lehengas
   Availability: Available
@@ -734,7 +740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A1364.jpg?v=1762587804
   Price: ₹23,590.00 INR
 - [Buy Designer Onion Pink Lycra Saree | Roopkala Heritage](https://roopkalasarees.com/products/onion-pink-lycra-saree-with-organza-blouse-delicate-stone-work): Elevate your look with Roopkala’s Onion Pink Lycra Saree featuring an Organza Blouse and delicate Stone Work. Shop this elegant occasion-ready saree online!
-  Updated: 2026-09-18T18:40:16Z
+  Updated: 2026-09-27T06:47:42Z
   Vendor: Roopkalasarees
   Product Type: Sarees
   Availability: Available
@@ -769,49 +775,49 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A9913.jpg?v=1765865144
   Price: ₹25,870.00 INR
 - [Wine Tissue Saree with Sequins & Cutdana Work (Unstitched)](https://roopkalasarees.com/products/wine-tissue-saree-with-sequins-cutdana-work-unstitched): This wine-coloured Tissue saree features delicate sequin and cutdana work combined with printed patterns, giving it a festive and elegant shimmer. The lightweight, flowy fabric drapes beautifully and ensures comfort for long hours. The saree comes unstitched with matching blouse material, allowing you to customise it according to your style. Its rich wine shade and subtle sparkle make it a perfect choice for evening celebrations and festive occasions.
-  Updated: 2026-09-18T18:40:25Z
+  Updated: 2026-09-27T06:47:41Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A0233.jpg?v=1764847084
   Price: ₹9,360.00 INR
 - [Mustard Yellow Chinnon Saree with Moti, Sequins, Cutdana, Stone & Tikki Work (Unstitched)](https://roopkalasarees.com/products/mustard-yellow-chinnon-saree-with-moti-sequins-cutdana-stone-tikki-work-unstitched): This mustard yellow Chinnon saree is beautifully adorned with moti, sequins, cutdana, stone, and tikki work, giving it a rich and festive appeal. The lightweight, flowy fabric drapes elegantly, making it comfortable for long events. The saree comes unstitched with matching blouse material, allowing you to customise it to your preferred style. Its vibrant mustard shade and intricate embellishments make it perfect for festive and celebratory occasions.
-  Updated: 2026-09-18T19:11:41Z
+  Updated: 2026-09-27T06:47:41Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A9941_f8e33535-e416-4ea6-bdd3-d921f3e157d8.jpg?v=1764846000
   Price: ₹13,520.00 INR
 - [Orange Crepe Saree with Moti, Cutdana & Stone Work (Unstitched)](https://roopkalasarees.com/products/orange-crepe-saree-with-moti-cutdana-stone-work-unstitched): This orange Crepe saree is beautifully adorned with moti, cutdana, and stone work, giving it a vibrant and festive appeal. The lightweight, flowy fabric drapes gracefully, making it comfortable to wear for long hours. The saree comes unstitched with matching orange blouse material, allowing you to customise the fit and style according to your preference. Its bright orange shade combined with sparkling embellishments makes it perfect for festive and celebratory occasions.
-  Updated: 2026-09-18T19:11:47Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A9627.jpg?v=1764845961
   Price: ₹15,360.00 INR
 - [Blue Crepe Saree with Cutdana, Swarovski & Tikki Work (Unstitched)](https://roopkalasarees.com/products/blue-crepe-saree-with-cutdana-swarovski-tikki-work-unstitched): Shop this blue crepe saree with cutdana, Swarovski and tikki work. A perfect pick for weddings, parties and elegant evening occasions.
-  Updated: 2026-09-18T19:11:46Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A9812.jpg?v=1764843197
   Price: ₹8,770.00 INR
 - [Multi-Coloured Chanderi Saree with Sequins, French Knots & Stone Work (Unstitched)](https://roopkalasarees.com/products/multi-coloured-chanderi-saree-with-sequins-french-knots-stone-work-unstitched): Beautiful multi-coloured Chanderi saree with sequins, French knots and stone work. Perfect for festive wear, cultural events and elegant gatherings.
-  Updated: 2026-09-18T19:11:46Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Multi-Coloured_Chanderi_Saree.jpg?v=1766992228
   Price: ₹8,170.00 INR
 - [Red Patola Silk Saree with Weaving & Stone Work (Unstitched)](https://roopkalasarees.com/products/red-patola-silk-saree-with-weaving-stone-work-unstitched): This red patola silk saree features intricate weaving complemented by subtle stone work, giving it a traditional yet festive appeal. The fabric drapes elegantly, adding a graceful and refined look. The saree comes unstitched with matching red blouse material, allowing you to tailor it according to your style. Its rich red shade combined with delicate embellishments makes it perfect for festive and ceremonial occasions.
-  Updated: 2026-09-18T19:11:46Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Red_Patola_Silk_Saree.jpg?v=1766986536
   Price: ₹8,170.00 INR
 - [Purple Patola Silk Saree with Sequins & Stone Work (Unstitched)](https://roopkalasarees.com/products/purple-patola-silk-saree-with-sequins-stone-work-unstitched): This purple Patola Silk saree is beautifully embellished with sequins and stone work, giving it a vibrant and festive appeal. The fabric drapes elegantly, providing a graceful and polished look. The saree comes unstitched with a red Patola print blouse material, allowing you to customise the fit and style according to your preference. Its rich purple shade paired with a contrasting red blouse and sparkling embellishments makes it perfect for festive and celebratory occasions.
-  Updated: 2026-09-18T19:11:46Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: Sarees
   Availability: Available
@@ -825,14 +831,14 @@
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Sea_Green_Royal_Blue_Net_Saree.jpg?v=1768393017
   Price: ₹28,640.00 INR
 - [Buy Ivory Net Saree with Sequins & Cutdana Work (Unstitched)](https://roopkalasarees.com/products/ivory-net-saree-with-sequins-cutdana-work-unstitched): Shop this stunning Ivory Net Saree with Sequins & Cutdana work — perfect for weddings, parties & festive occasions. Premium unstitched fabric. Order now!
-  Updated: 2026-09-18T19:11:51Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/Ivory_Net_Saree_Cutdana_Work.jpg?v=1765966790
   Price: ₹21,780.00 INR
 - [Buy Mauve Net Saree with Sequins & Cutdana Work (Unstitched)](https://roopkalasarees.com/products/mauve-net-saree-with-sequins-cutdana-work-unstitched): Get this elegant Mauve Net Saree with Sequins & Cutdana work — perfect for weddings, parties & festivities. Premium quality, unstitched & ready to style. Shop now!
-  Updated: 2026-09-18T19:11:51Z
+  Updated: 2026-09-27T06:47:46Z
   Vendor: Roopkalasarees
   Product Type: Sarees
   Availability: Available
@@ -1540,13 +1546,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A7787.jpg?v=1784977163
   Price: ₹35,110.00 INR
-- [Purple Organza Saree with Unstitched Blouse](https://roopkalasarees.com/products/purple-organza-saree-with-unstitched-blouse): The charm of deep purple is beautifully expressed through this Organza saree, offering a soft silhouette with a delicate translucent finish. Fine Resham embroidery adds graceful detailing to the fabric, creating a balanced look where the richness of the colour meets understated craftsmanship. Designed for elegant celebrations, this saree carries a refined appeal that transitions effortlessly from festive gatherings to special occasions.Fabric: OrganzaColour: PurpleWork: ReshamBlouse: UnstitchedOccasion: Festive celebrations, evening gatherings, receptions, cultural eventsStyle Note: Pair with pearl accessories or antique gold jewellery to complement the rich purple toneHighlight: Sheer Organza texture highlighted with delicate Resham work, creating a graceful statement in a classic festive colour palette
-  Updated: 2026-08-28T18:39:09Z
-  Vendor: Roopkalasarees
-  Product Type: Sarees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0642/0647/1245/files/1J8A8613.jpg?v=1785234323
-  Price: ₹18,460.00 INR
 - [Light Blue Organza Saree with Unstitched Blouse](https://roopkalasarees.com/products/light-blue-organza-saree-with-unstitched-blouse): The soothing tone of light blue lends a fresh and graceful appeal to this Organza saree, featuring a delicate printed finish that adds character to the overall design. The sheer texture of Organza creates a soft, flowing silhouette, while the subtle prints bring a contemporary touch to the traditional drape. With its calming colour palette and refined detailing, this saree is suited for elegant daytime occasions and festive gatherings.Fabric: OrganzaColour: Light BlueWork: PrintedBlouse: UnstitchedOccasion: Festive celebrations, daytime weddings, cultural gatherings, special occasionsStyle Note: Pair with pearl jewellery or minimal silver accessories to enhance the soft blue tonesHighlight: Airy Organza with delicate printed detailing, creating a fresh and graceful ensemble for refined celebrations.
   Updated: 2026-08-28T18:39:10Z
   Vendor: Roopkalasarees
@@ -1776,10 +1775,10 @@
 ## Collections
 
 - [24 hours Dispatch](https://roopkalasarees.com/collections/24-hours-dispatch)
-  Updated: 2026-09-16T11:13:31Z
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 403
-- [Sarees](https://roopkalasarees.com/collections/saree): Shop traditional Indian sarees online at Roopkala Sarees. Explore designer and  premium silk, organza & Banarasi sarees for women from one of the best saree shops in Mumbai!
-  Updated: 2026-09-16T11:13:31Z
+- [Sarees](https://roopkalasarees.com/collections/sarees): Shop traditional Indian sarees online at Roopkala Sarees. Explore designer and  premium silk, organza & Banarasi sarees for women from one of the best saree shops in Mumbai!
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 279
 - [Under 20k](https://roopkalasarees.com/collections/under-20k): Discover premium sarees, lehengas, and kurta sets under ₹20,000. Shop stylish ethnic wear for every occasion, affordable luxury with Free Shipping & COD.
   Updated: 2026-09-12T14:26:32Z
@@ -1788,40 +1787,40 @@
   Updated: 2026-09-07T06:27:24Z
   Total Products: 150
 - [Bridal Lehenga](https://roopkalasarees.com/collections/bridal-lehenga): Shop bridal lehengas online at Roopkala Heritage, Mumbai. Exquisite wedding lehengas for brides with rich embroidery & finish.
-  Updated: 2026-09-09T14:33:54Z
+  Updated: 2026-09-22T07:04:10Z
   Total Products: 20
 - [Moonlit Herilooms](https://roopkalasarees.com/collections/moonlit): Shop the Moonlit Collection - elegant sarees and ethnic outfits in serene tones and luminous fabrics. Perfect for festive evenings and graceful celebrations
   Updated: 2026-08-11T05:48:09Z
   Total Products: 11
 - [Kurta Set For Women](https://roopkalasarees.com/collections/kurta-sets): Shop designer kurta sets online in India at Roopkala Sarees. Explore stylish kurta set for women with elegant designs. Find your perfect look today!
-  Updated: 2026-09-04T11:52:38Z
+  Updated: 2026-09-22T08:50:31Z
   Total Products: 166
 - [Lehengas](https://roopkalasarees.com/collections/lehengas): Explore Latest modern lehenga, ready made & party wear lehenga at India's best designer lehenga shop Roopkala Sarees. Visit our Mumbai store today!
-  Updated: 2026-09-09T14:34:55Z
+  Updated: 2026-09-22T07:04:03Z
   Total Products: 47
 - [Unstitched](https://roopkalasarees.com/collections/unstiched): Explore Roopkala’s premium unstitched fabric collection—perfect for custom tailoring. Choose from vibrant colors and patterns. Free Shipping & COD available!
   Updated: 2026-07-11T07:57:27Z
   Total Products: 137
 - [Salwar Kameez](https://roopkalasarees.com/collections/salwar-kameez): Explore designer salwar kameez suits online at Roopkala best price! Soft fabrics, flattering fits, elegant designs, great styles and shop now!
-  Updated: 2026-09-04T11:59:18Z
+  Updated: 2026-09-22T08:54:13Z
   Total Products: 237
 - [New Arrivals](https://roopkalasarees.com/collections/new-arrivals): Discover the latest sarees, suits & ethnic wear in Roopkala’s New Arrivals. Fresh styles added regularly to keep your wardrobe trendy & elegant.
-  Updated: 2026-09-16T11:13:31Z
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 485
 - [Bestsellers](https://roopkalasarees.com/collections/bestsellers): Shop Roopkala’s bestselling sarees, lehengas & suits—customer favorites known for quality and style. Grab your top picks today with Free Shipping & COD!
-  Updated: 2026-09-16T11:13:31Z
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 310
 - [All Products](https://roopkalasarees.com/collections/all-products)
-  Updated: 2026-09-13T11:12:14Z
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 464
 - [0](https://roopkalasarees.com/collections/0)
   Updated: 2026-09-02T14:11:28Z
   Total Products: 101
 - [all-products](https://roopkalasarees.com/collections/all): Browse Roopkala Heritage's complete collection of sarees, suits, lehengas & more. Find your perfect ethnic outfit for any occasion with Free Shipping & COD.
-  Updated: 2026-09-18T06:50:37Z
-  Total Products: 723
-- [Pre-Stitched Sarees](https://roopkalasarees.com/collections/pre-stiched-saree): Say goodbye to draping stress! Shop ready to wear sarees online at Roopkala. Pre-stitched, elegant, and Quick, comfortable, stylish. Shop now & save time!
-  Updated: 2026-09-04T11:45:37Z
+  Updated: 2026-09-21T15:09:12Z
+  Total Products: 722
+- [Pre-Stitched Sarees](https://roopkalasarees.com/collections/pre-stiched-sarees): Say goodbye to draping stress! Shop ready to wear sarees online at Roopkala. Pre-stitched, elegant, and Quick, comfortable, stylish. Shop now & save time!
+  Updated: 2026-09-22T08:58:22Z
   Total Products: 21
 - [Stitched blouse](https://roopkalasarees.com/collections/stitched-blouse)
   Updated: 2026-09-12T14:11:45Z
@@ -1836,28 +1835,28 @@
   Updated: 2026-09-12T14:26:32Z
   Total Products: 6
 - [Silk Sarees](https://roopkalasarees.com/collections/soft-silk-sarees): Shop pure & luxury soft silk sarees online at Roopkala Heritage. Best wedding silk sarees with premium quality & elegant designs. Order now!
-  Updated: 2026-09-12T14:26:32Z
+  Updated: 2026-09-22T08:58:07Z
   Total Products: 26
-- [Sangeet Lehenga](https://roopkalasarees.com/collections/sangeet-lehenga): Buy sangeet lehenga online at Roopkala Sarees. Discover stylish lehenga choli for sangeet with elegant designs for a memorable celebration. Shop now!
-  Updated: 2026-09-09T14:36:23Z
+- [Sangeet Lehenga](https://roopkalasarees.com/collections/sangeet-lehengas): Buy sangeet lehenga online at Roopkala Sarees. Discover stylish lehenga choli for sangeet with elegant designs for a memorable celebration. Shop now!
+  Updated: 2026-09-22T07:19:19Z
   Total Products: 4
-- [Haldi Lehenga](https://roopkalasarees.com/collections/haldi-lehenga): Explore a beautiful haldi lehenga for bride and explore designer haldi lehenga online. Find the perfect haldi function lehenga for your special day. Shop now!
-  Updated: 2026-09-09T14:38:40Z
+- [Haldi Lehenga](https://roopkalasarees.com/collections/haldi-lehengas): Explore a beautiful haldi lehenga for bride and explore designer haldi lehenga online. Find the perfect haldi function lehenga for your special day. Shop now!
+  Updated: 2026-09-22T07:19:43Z
   Total Products: 7
 - [Printed Sarees](https://roopkalasarees.com/collections/printed-sarees): Shop beautiful printed sarees online at Roopkala Sarees. Explore stylish designs, elegant prints and stunning details. Find your perfect saree today!
-  Updated: 2026-09-12T14:25:10Z
+  Updated: 2026-09-22T08:58:02Z
   Total Products: 13
 - [Active Products](https://roopkalasarees.com/collections/active-products)
-  Updated: 2026-09-16T11:13:31Z
+  Updated: 2026-09-22T11:12:33Z
   Total Products: 313
 - [Gowns](https://roopkalasarees.com/collections/gowns): Explore elegant designer gowns for women online at Roopkala sarees. Shop the perfect designer gown for party wear at great prices. Order today!
-  Updated: 2026-09-04T12:15:13Z
+  Updated: 2026-09-22T07:01:40Z
   Total Products: 6
 - [Threads of Grace](https://roopkalasarees.com/collections/threads-of-grace)
   Updated: 2026-09-02T06:31:59Z
   Total Products: 50
 - [Designer Sarees](https://roopkalasarees.com/collections/designer-sarees): Buy the latest designer sarees online in Mumbai. Premium collection of party wear & wedding sarees at Roopkala Heritage, Santacruz. Shop now!
-  Updated: 2026-09-12T14:22:20Z
+  Updated: 2026-09-22T08:58:13Z
   Total Products: 77
 - [Tie and Dye Sarees](https://roopkalasarees.com/collections/tie-and-dye-print-sarees): Shop the latest tie and dye print sarees at Roopkala Sarees. Trendy designs, vibrant colors & premium quality fabrics. Browse now & elevate your style!
   Updated: 2026-09-12T14:25:10Z
@@ -1868,17 +1867,17 @@
 - [Ramzan Special](https://roopkalasarees.com/collections/ramzan-special)
   Updated: 2026-09-02T06:37:59Z
   Total Products: 62
-- [Aanarkali Set](https://roopkalasarees.com/collections/aanrkali-set): Searching for an anarkali suit online in Santacruz? Roopkala brings you graceful designer anarkali dresses online. Perfect for every celebration. Shop now!
-  Updated: 2026-09-04T12:03:35Z
+- [Aanarkali Suits](https://roopkalasarees.com/collections/aanrkali-suits): Searching for an anarkali suit online in Santacruz? Roopkala brings you graceful designer anarkali dresses online. Perfect for every celebration. Shop now!
+  Updated: 2026-09-22T08:54:18Z
   Total Products: 6
-- [Indowestern](https://roopkalasarees.com/collections/indowestern): Explore the best Indo Western outfits for women at Roopkala Sarees. Shop elegant online Indo Western dresses for a modern, stylish look. Buy now!
-  Updated: 2026-09-09T14:32:08Z
+- [Indowestern](https://roopkalasarees.com/collections/indo-western): Explore the best Indo Western outfits for women at Roopkala Sarees. Shop elegant online Indo Western dresses for a modern, stylish look. Buy now!
+  Updated: 2026-09-22T07:18:25Z
   Total Products: 33
-- [Crop Tops](https://roopkalasarees.com/collections/crop-top): Shop designer crop tops for women at Roopkala Sarees. Discover trendy, stylish designs perfect for festive and casual looks. Explore the collection today!
-  Updated: 2026-09-04T12:16:52Z
+- [Crop Tops](https://roopkalasarees.com/collections/crop-tops): Shop designer crop tops for women at Roopkala Sarees. Discover trendy, stylish designs perfect for festive and casual looks. Explore the collection today!
+  Updated: 2026-09-22T07:18:51Z
   Total Products: 25
 - [Sharara-Gharara](https://roopkalasarees.com/collections/sharara-gharara): Buy designer sharara & gharara suits online at Roopkala Sarees. Trendy, festive outfits crafted for comfort & style. Shop now!
-  Updated: 2026-09-04T12:08:01Z
+  Updated: 2026-09-22T08:54:24Z
   Total Products: 96
 - [Dola Silk](https://roopkalasarees.com/collections/dola-silk)
   Updated: 2026-08-16T12:56:12Z
@@ -1887,7 +1886,7 @@
   Updated: 2026-08-16T12:56:12Z
   Total Products: 1
 - [Dola Silk Sarees](https://roopkalasarees.com/collections/dola-silk-sarees): Missing out on the perfect wedding saree? Explore dola silk wedding sarees online at Roopkala. Discover elegant designs, rich textures and stylish choices. Shop today!
-  Updated: 2026-08-17T11:15:07Z
+  Updated: 2026-09-22T08:57:56Z
   Total Products: 10
 
 ## Blogs
@@ -2000,7 +1999,7 @@
 - [Contact](https://roopkalasarees.com/pages/contact)
   Updated: 2025-04-28T08:04:04Z
 - [Book Video Call](https://roopkalasarees.com/pages/book-video-call): 
-  Updated: 2025-07-28T12:19:41Z
+  Updated: 2026-09-23T10:23:11Z
 - [About Roopkala Heritage | Women's Ethnic Wear Mumbai](https://roopkalasarees.com/pages/about-us): 1. Why Does Roopkala Heritage Have a Loyal Customer Base? Decades of Trust and Heritage: Founded in 1952, Roopkala Heritage has served generations ...
   Updated: 2026-08-20T06:22:15Z
 - [FAQs – Shipping, Returns & Orders | Roopkala Sarees](https://roopkalasarees.com/pages/faqs): 
@@ -2030,6 +2029,8 @@
   Updated: 2025-09-23T13:00:30+05:30
 - [Terms of Service](https://roopkalasarees.com/policies/terms-of-service)
   Updated: 2025-08-22T19:01:15+05:30
+
+> For styling assistance or inquiries, book a video call appointment or contact our Santacruz store support team directly.
 
 ## Optional
 
@@ -2112,3 +2113,32 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+## Collections
+- [Sarees](https://roopkalasarees.com/collections/saree)
+- [Designer Sarees](https://roopkalasarees.com/collections/designer-sarees)
+- [Silk Sarees](https://roopkalasarees.com/collections/soft-silk-sarees)
+- [Prestitched Sarees](https://roopkalasarees.com/collections/pre-stiched-saree)
+- [Printed Sarees](https://roopkalasarees.com/collections/printed-sarees)
+- [Kurta Sets](https://roopkalasarees.com/collections/kurta-sets)
+- [Salwar Kameez](https://roopkalasarees.com/collections/salwar-kameez)
+- [Indowestern](https://roopkalasarees.com/collections/indowestern)
+- [Lehengas](https://roopkalasarees.com/collections/lehengas)
+- [Bestsellers](https://roopkalasarees.com/collections/bestsellers)
+- [New Arrivals](https://roopkalasarees.com/collections/new-arrivals)
+- [Ready to Ship (24-hour dispatch)](https://roopkalasarees.com/collections/24-hours-dispatch)
+
+## Company
+- [About Us](https://roopkalasarees.com/pages/about-us)
+- [FAQ](https://roopkalasarees.com/pages/faqs)
+- [Testimonials](https://roopkalasarees.com/pages/testimonials-page)
+- [Contact Us](https://roopkalasarees.com/pages/contact-us)
+- [Book a Video Call Appointment](https://roopkalasarees.com/pages/book-video-call)
+- [Size Chart](https://roopkalasarees.com/pages/size-chart)
+- [Blogs](https://roopkalasarees.com/blogs/article)
+
+## Policies
+- [Privacy Policy](https://roopkalasarees.com/policies/privacy-policy)
+- [Returns & Exchange](https://roopkalasarees.com/policies/refund-policy)
+- [Terms & Conditions](https://roopkalasarees.com/policies/terms-of-service)
+- [Sitemap](https://roopkalasarees.com/pages/sitemap)
