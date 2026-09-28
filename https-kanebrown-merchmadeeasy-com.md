@@ -83,19 +83,19 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2018-08-02T14:42:21Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-19T00:00:42.021Z
+- Updated At: 2026-09-28T00:00:46.381Z
 
 ## Products
 
 - [Kane Brown - Experiment CD](https://kanebrown.merchmadeeasy.com/products/kane-brown-experiment-cd-pre-order): Tracklist: Baby Come Back to Me Good As You Lose It It Ain't You It's Me Short Skirt Weather Homesick Weekend Work One Night Only My Where I Come From American Bad Dream Live Forever
-  Updated: 2026-09-02T21:01:28Z
+  Updated: 2026-09-21T04:29:35Z
   Vendor: Kane Brown
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB-EXPERIMENT-CD_b3c16ddf-564d-4a40-9a58-515860aeae63.png?v=1729785116
   Price: $8.00 USD
 - [KB Hoodie - Black](https://kanebrown.merchmadeeasy.com/products/kane-brown-black-hoodie): 80/20 ring-spun cotton/polyester blend fleece hoodie in black. Features a KB logo print on the front. Size Chart Size Body Length (in) Chest Width (in) S 27 1/2 23 1/4 M 28 1/2 24 1/2 L 29 1/2 25 1/2 XL 30 1/2 26 3/4 2XL 32 28 3XL 33 29
-  Updated: 2026-09-06T02:32:18Z
+  Updated: 2026-09-25T19:53:27Z
   Vendor: Kane Brown
   Product Type: Hoodie
   Availability: Available
@@ -119,21 +119,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Experiment Koozie](https://kanebrown.merchmadeeasy.com/products/kane-brown-experiment-koozie): FROM THE KB ARCHIVES / LIMITED QUANTITIES AVAILABLE Kane Brown - Experiment Koozie
-  Updated: 2026-09-15T22:57:48Z
+  Updated: 2026-09-20T22:50:25Z
   Vendor: Kane Brown
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_Ex_Koozie_Back.png?v=1754328209
   Price: $2.50 USD
 - [KB Logo Pop It](https://kanebrown.merchmadeeasy.com/products/kb-logo-pop-it): PUSH AND POP - Simply press on the bubbles to feel the "pop!" Then flip it over and start again on the other side. Silicone
-  Updated: 2026-09-05T00:52:36Z
+  Updated: 2026-09-20T16:29:16Z
   Vendor: Kane Brown
   Product Type: Fidget Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/products/KBLOGO_adobespark.png?v=1638473018
   Price: $2.50 USD
 - [Portrait Hoodie - White](https://kanebrown.merchmadeeasy.com/products/kane-brown-white-hoodie): 50% Cotton, 50% Polyester Champion logo on left sleeve
-  Updated: 2026-09-18T13:23:07Z
+  Updated: 2026-09-20T22:50:21Z
   Vendor: Kane Brown
   Product Type: Hoodie
   Availability: Available
@@ -379,7 +379,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $65.00 USD
 - [The High Road Long Sleeve - Tan](https://kanebrown.merchmadeeasy.com/products/the-high-road-long-sleeve-tan): The High Road is the newest studio album by Kane Brown. This is a 100% cotton long sleeve tee.
-  Updated: 2026-08-17T04:24:26Z
+  Updated: 2026-09-19T02:07:09Z
   Vendor: Kane Brown
   Product Type: Long Sleeve
   Availability: Available
@@ -410,7 +410,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_THR_DUSK_VinylMockup_2000x2000_ebd1febf-1771-4a6a-98ec-f4b723143f3e.png?v=1732218918
   Price: $30.98 USD
 - [The High Road - Standard Double LP in "Night" [SIGNED]](https://kanebrown.merchmadeeasy.com/products/the-high-road-standard-double-lp-in-night-signed): The High Road is the newest studio album by Kane Brown. This is a standard double LP in "Night" and signed, that features an alternate cover, while supplies last. Tracklist: I Am Fiddle in the Band Backseat Driver Miles On It (feat. Marshmello) Says I Can 3 Rescue (feat. Khalid) Haunted (feat. Jelly Roll) Start A Fire Body Talk (feat. Katelyn Brown) Gorgeous Beside Me I Can Feel It Things We Quit (feat. Brad Paisley) Back Around Stay Do Us Apart (feat. Katelyn Brown) When You Forget
-  Updated: 2026-09-17T00:25:46Z
+  Updated: 2026-09-21T04:29:36Z
   Vendor: Kane Brown
   Product Type: Vinyl
   Availability: Available
@@ -445,7 +445,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_THR_Night_Digital_Download.png?v=1737648432
   Price: $4.99 USD
 - [The High Road Tour Tee - Cream](https://kanebrown.merchmadeeasy.com/products/the-high-road-tour-tee-cream): The High Road Tour Tee in cream with front and back print. This is a 100% cotton tee. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-12T15:18:57Z
+  Updated: 2026-09-23T22:34:49Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -466,7 +466,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [The High Road Text Tee](https://kanebrown.merchmadeeasy.com/products/the-high-road-text-tee): The High Road Tour Tee in black with front print only. This is a 100% cotton tee. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-27T03:17:36Z
+  Updated: 2026-09-21T02:58:46Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -533,7 +533,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [The High Road Tour Tee - Black](https://kanebrown.merchmadeeasy.com/products/the-high-road-tour-tee-black): The High Road Tour Tee in black with front and back print. This is a 100% cotton tee. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-18T20:26:45Z
+  Updated: 2026-09-21T02:45:15Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -575,7 +575,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $70.00 USD
 - [Buckaroo Tee](https://kanebrown.merchmadeeasy.com/products/buckaroo-tee): Give me two pairs 100% cotton t-shirt in military green Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-12T14:50:48Z
+  Updated: 2026-09-26T17:48:11Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -606,7 +606,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_Buckaroo_Solid.png?v=1757004595
   Price: $35.00 USD
 - [KB Jersey](https://kanebrown.merchmadeeasy.com/products/kb-jersey): Boxy fit football-style mesh jersey with a woven KB label and a front and back print. 100% polyester jersey in red Size Chart Size Chest (in) Sleeve Length (in) S 35-38 33 M 38-41 34 L 41-44 35 XL 44-47 36 2XL 47-50 36 1/2
-  Updated: 2026-09-18T23:49:27Z
+  Updated: 2026-09-21T04:29:36Z
   Vendor: Kane Brown
   Product Type: Jersey
   Availability: Available
@@ -714,7 +714,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $70.00 USD
 - [Like I Love Country Music Youth Tee](https://kanebrown.merchmadeeasy.com/products/like-i-love-country-music-youth-tee): I love you like I love country music 🩷 100 ring-spun USA cotton, youth t-shirt in white Size Chart Size Body Length (in) Chest Width (in) YS 20 15 YM 22 17 YL 24 18 YXL 26 20
-  Updated: 2026-09-13T14:24:51Z
+  Updated: 2026-09-20T16:29:12Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -750,7 +750,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [KB Hoodie - Army Green](https://kanebrown.merchmadeeasy.com/products/kb-hoodie-army-green): 80/20 ring-spun cotton/polyester hoodie in army green. Features a KB logo print on the front. Size Chart Size Body Length (in) Chest Width (in) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 27 3XL 33 28
-  Updated: 2026-09-18T17:22:29Z
+  Updated: 2026-09-25T19:53:28Z
   Vendor: Kane Brown
   Product Type: Hoodie
   Availability: Available
@@ -774,7 +774,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $70.00 USD
 - [KB Hoodie - Natural/Camo](https://kanebrown.merchmadeeasy.com/products/kb-hoodie-natural-camo): 80/20 ring-spun cotton/polyester hoodie in natural. Features a camo-print KB logo on the front. Size Chart Size Body Length (in) Chest Width (in) S 27 1/2 23 1/4 M 28 1/2 24 1/2 L 29 1/2 25 1/2 XL 30 1/2 26 3/4 2XL 32 28 3XL 33 29
-  Updated: 2026-09-18T11:55:45Z
+  Updated: 2026-09-26T03:30:44Z
   Vendor: Kane Brown
   Product Type: Hoodie
   Availability: Available
@@ -798,7 +798,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $70.00 USD
 - [Live on Tour Tee - Natural](https://kanebrown.merchmadeeasy.com/products/live-on-tour-tee-natural): Est. 1993 100% ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-18T16:57:12Z
+  Updated: 2026-09-24T17:57:11Z
   Vendor: Kane Brown
   Product Type: T-Shirt
   Availability: Available
@@ -810,7 +810,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
   - [L](https://kanebrown.merchmadeeasy.com/products/live-on-tour-tee-natural?variant=42476482953278)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://kanebrown.merchmadeeasy.com/products/live-on-tour-tee-natural?variant=42476482986046)
     Availability: Not Available
@@ -819,21 +819,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Kane Hat - Natural/Green](https://kanebrown.merchmadeeasy.com/products/kane-hat-natural-green): 5-panel, mid-profile two-tone hat in natural/dark green with puff embroidered design
-  Updated: 2026-09-18T18:36:28Z
+  Updated: 2026-09-21T04:29:35Z
   Vendor: Kane Brown
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_0003_166570_1_306265_d.png?v=1770330841
   Price: $35.00 USD
 - [Kane Camo Koozie](https://kanebrown.merchmadeeasy.com/products/kane-camo-koozie): Neoprene koozie in faded camo
-  Updated: 2026-09-18T17:22:47Z
+  Updated: 2026-09-20T22:50:25Z
   Vendor: Kane Brown
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_0002_166881_1_306946_d.png?v=1770330842
   Price: $5.00 USD
 - [Kane Camo Hoodie](https://kanebrown.merchmadeeasy.com/products/kane-camo-hoodie): 55% cotton, 45% polyester hoodie in hunter camo. This relaxed hoodie features a front print.
-  Updated: 2026-09-18T18:14:16Z
+  Updated: 2026-09-26T17:48:07Z
   Vendor: Kane Brown
   Product Type: Hoodie
   Availability: Available
@@ -851,7 +851,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $80.00 USD
   - [2XL](https://kanebrown.merchmadeeasy.com/products/kane-camo-hoodie?variant=42636515639358)
-    Availability: Available
+    Availability: Not Available
     Price: $80.00 USD
 - [FAMILY Hat - Blue Corduroy](https://kanebrown.merchmadeeasy.com/products/family-hat-blue-corduroy): Corduroy mid-profile hat in cornflower blue
   Updated: 2026-08-16T23:03:53Z
@@ -861,7 +861,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0021/4653/3487/files/KB_0005_Fam-Hat-Blu-Front.png?v=1775484970
   Price: $35.00 USD
 - [FAMILY Hat - Maroon Corduroy](https://kanebrown.merchmadeeasy.com/products/family-hat-maroon-corduroy): Corduroy mid-profile hat in maroon
-  Updated: 2026-09-17T18:10:27Z
+  Updated: 2026-09-21T03:03:58Z
   Vendor: Kane Brown
   Product Type: Hat
   Availability: Available
@@ -871,19 +871,19 @@ your agent can transact everywhere.
 ## Collections
 
 - [Apparel](https://kanebrown.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 88
 - [Accessories](https://kanebrown.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 63
 - [Music](https://kanebrown.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-17T11:13:54Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 29
 - [NEW HOME PAGE](https://kanebrown.merchmadeeasy.com/collections/new-home-page)
   Updated: 2026-09-16T11:11:35Z
   Total Products: 27
 - [LAST CHANCE COLLECTION](https://kanebrown.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-09-16T11:11:35Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 65
 - [KB CANDLE COLLECTION](https://kanebrown.merchmadeeasy.com/collections/kane-katelyn-candle-collection)
   Updated: 2026-09-08T11:15:58Z
@@ -898,79 +898,79 @@ your agent can transact everywhere.
   Updated: 2026-07-08T21:20:04Z
   Total Products: 5
 - [The High Road Album Collection](https://kanebrown.merchmadeeasy.com/collections/the-high-road-collection)
-  Updated: 2026-09-17T15:13:49Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 21
 - [More for You](https://kanebrown.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-09-17T11:13:54Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 6
 - [The High Road Tour Collection](https://kanebrown.merchmadeeasy.com/collections/the-high-road-tour-collection)
-  Updated: 2026-09-17T11:13:54Z
+  Updated: 2026-09-24T11:12:28Z
   Total Products: 14
 - [KB Logo Collection](https://kanebrown.merchmadeeasy.com/collections/kb-logo-collection)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-26T11:12:52Z
   Total Products: 8
 - [The Signed Section](https://kanebrown.merchmadeeasy.com/collections/the-signed-section)
-  Updated: 2026-09-17T11:13:54Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 3
 - [](https://kanebrown.merchmadeeasy.com/collections/)
-  Updated: 2026-09-16T11:11:35Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 68
 - [New Arrivals](https://kanebrown.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 219
 - [Best Sellers](https://kanebrown.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 219
 - [All](https://kanebrown.merchmadeeasy.com/collections/all-1)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 219
 - [Vinyl](https://kanebrown.merchmadeeasy.com/collections/vinyl)
-  Updated: 2026-09-17T11:13:54Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 9
 - [$20 Tees](https://kanebrown.merchmadeeasy.com/collections/20-tees)
-  Updated: 2026-09-17T15:13:49Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 8
 - [Buckaroo](https://kanebrown.merchmadeeasy.com/collections/buckaroo)
-  Updated: 2026-09-13T11:11:27Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 2
 - [Bury Me In Georgia](https://kanebrown.merchmadeeasy.com/collections/bury-me-in-georgia)
-  Updated: 2026-09-16T11:11:35Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 4
 - [Youth Collection](https://kanebrown.merchmadeeasy.com/collections/youth-collection)
-  Updated: 2026-09-14T11:14:02Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 5
 - [Thank God](https://kanebrown.merchmadeeasy.com/collections/thank-god)
   Updated: 2026-08-15T11:14:14Z
   Total Products: 3
 - [EG All Products - DO NOT EDIT](https://kanebrown.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 219
 - [$20.25](https://kanebrown.merchmadeeasy.com/collections/20-25)
   Updated: 2026-04-24T18:09:48Z
   Total Products: 0
 - [New Logo Collection](https://kanebrown.merchmadeeasy.com/collections/new-logo-collection)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-26T11:12:52Z
   Total Products: 3
 - [His & Hers](https://kanebrown.merchmadeeasy.com/collections/his-hers)
   Updated: 2026-07-08T21:20:06Z
   Total Products: 2
 - [2026 Tour Merch](https://kanebrown.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 4
 - [FAMILY](https://kanebrown.merchmadeeasy.com/collections/family)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 2
 - [$10 & Under](https://kanebrown.merchmadeeasy.com/collections/10-under)
-  Updated: 2026-09-16T11:11:35Z
+  Updated: 2026-09-21T11:14:45Z
   Total Products: 57
 - [$20](https://kanebrown.merchmadeeasy.com/collections/10-under-copy)
   Updated: 2026-07-08T21:20:07Z
   Total Products: 14
 - [$30](https://kanebrown.merchmadeeasy.com/collections/20-copy)
-  Updated: 2026-09-16T11:11:35Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 23
 - [$40 & Above](https://kanebrown.merchmadeeasy.com/collections/30-copy)
-  Updated: 2026-09-18T11:13:11Z
+  Updated: 2026-09-27T11:12:00Z
   Total Products: 46
 - [Red Stickers](https://kanebrown.merchmadeeasy.com/collections/red-stickers)
   Updated: 2026-08-07T20:41:09Z
@@ -1021,11 +1021,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://kanebrown.merchmadeeasy.com/policies/privacy-policy)
   Updated: 2026-06-18T14:18:51-05:00
 - [Shipping Policy](https://kanebrown.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-26T11:02:50-06:00
+  Updated: 2026-09-25T10:52:37-05:00
 - [Refund Policy](https://kanebrown.merchmadeeasy.com/policies/refund-policy)
   Updated: 2026-06-18T14:18:31-05:00
 - [Terms of Service](https://kanebrown.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-26T11:02:50-06:00
+  Updated: 2026-09-25T10:52:21-05:00
 - [Contact Information](https://kanebrown.merchmadeeasy.com/policies/contact-information)
   Updated: 2025-06-20T13:17:03-05:00
 
