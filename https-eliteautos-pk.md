@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-04-12T06:24:32Z
 - Contact Email: saleseliteautos@gmail.com
-- Updated At: 2026-09-19T20:40:03.506Z
+- Updated At: 2026-09-28T00:00:25.792Z
 
 ## Products
 
@@ -1410,8 +1410,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHilixRevosmarttopcanopy-1.png?v=1782111139
   Price: Rs 249,999.00 PKR
-- [Dashboard Polish Spray 450ml - Gladiator - Elite Autos](https://eliteautos.pk/products/gladiator-dashboard-polish-spray): Gladiator Dashboard Polish Spray restores shine, removes dirt, and leaves a fresh cherry scent. Includes 3 microfiber towels. Order today in Pakistan.
-  Updated: 2026-09-05T09:08:24Z
+- [Gladiator Dashboard Polish Spray 450ml | Car Interior Shine - Elite Autos](https://eliteautos.pk/products/gladiator-dashboard-polish-spray): Gladiator Dashboard Polish Spray 450ml - one-step clean & shine for dashboards, seats & trim. Cherry scent, wet-look finish. Includes 3 microfiber towels.
+  Updated: 2026-09-21T19:44:52Z
   Vendor: Elite Autos
   Product Type: Car Care Packs
   Availability: Available
@@ -1425,7 +1425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireSealant_Inflator500ML-GT15-1.webp?v=1782111649
   Price: Rs 849.00 PKR
 - [Toyota Vigo Champ Tail Light Cover Black | Elite Autos](https://eliteautos.pk/products/toyota-hilux-vigo-champ-tail-light-cover-black-2012-abs): Protect and style your Hilux Vigo Champ taillights with this black ABS cover. Easy 3M tape install, no drilling required.
-  Updated: 2026-09-18T09:12:20Z
+  Updated: 2026-09-21T05:57:37Z
   Vendor: Elite Autos
   Product Type: SUV & 4x4 Accessories
   Availability: Available
@@ -1733,12 +1733,12 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaCorollaCross2022-2024LatexImportedRubberFloorMatsBlack-1.webp?v=1782203735
   Price: Rs 9,499.00 PKR
 - [Suzuki Wagon R TPE Floor Mats Premium - Elite Autos](https://eliteautos.pk/products/elite-autos-suzuki-wagon-r-tpe-floor-mats-premium-black): Suzuki Wagon R TPE Floor Mats Premium offer 3-layer waterproof, sound-absorbent, anti-slip protection against rain, dirt, and spills. Shop now in Pakistan.
-  Updated: 2026-09-05T09:08:33Z
+  Updated: 2026-09-23T08:39:22Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/SuzukiWagonRTPEFloorMatsPremium-1.webp?v=1782282286
-  Price: Rs 8,999.00 PKR
+  Price: Rs 9,999.00 PKR
 - [Toyota Hilux Vigo Mirror Cover Chrome LED | Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-hilux-vigo-mirror-cover-chrome-led): Upgrade your Hilux Vigo with Elite Autos' chrome side mirror covers with LED turn signal. OEM fit, style refresh included. Fast delivery across Pakistan!
   Updated: 2026-09-05T09:08:33Z
   Vendor: Elite Autos
@@ -1747,12 +1747,12 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxVigoSideMirrorCoverChromewithLED-1.jpg?v=1782282306
   Price: Rs 6,500.00 PKR
 - [Toyota Yaris Hatchback TPE Floor Mats 2020-23 - Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-yaris-hatchback-tpe-floor-mats-premium-2020-23): Toyota Yaris Hatchback TPE Floor Mats Premium offer 3-layer waterproof, sound-absorbent, anti-slip protection for 2020-23 models. Shop now in Pakistan.
-  Updated: 2026-09-05T09:08:33Z
+  Updated: 2026-09-23T08:38:55Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaYarisHatchbackTPEFloorMatsPremium-1.webp?v=1782283187
-  Price: Rs 7,999.00 PKR
+  Price: Rs 9,999.00 PKR
 [List Continued](https://eliteautos.pk/a/llms-agent/llms.txt?shop=4wpqbp-md.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDI5NDk2MjAxNDM5LCJsYXN0X3ZhbHVlIjoiOTQyOTQ5NjIwMTQzOSJ9)
 
 ## Collections
@@ -1767,7 +1767,7 @@
   Updated: 2026-09-06T08:26:34Z
   Total Products: 0
 - [Car care](https://eliteautos.pk/collections/car-care): Shop car care and detailing products in Pakistan: shampoo, wax, polish, scratch removers, tyre care and complete detailing kits. COD from Elite Autos Karachi.
-  Updated: 2026-09-17T13:47:53Z
+  Updated: 2026-09-21T07:44:19Z
   Total Products: 41
 - [Modifications](https://eliteautos.pk/collections/modifications): Shop car modification parts in Pakistan: body kits, splitters, spoilers, exhaust tips and steering upgrades. Cash on delivery from Elite Autos Karachi.
   Updated: 2026-09-06T08:26:34Z
@@ -1776,7 +1776,7 @@
   Updated: 2026-09-06T08:26:34Z
   Total Products: 10
 - [Interior](https://eliteautos.pk/collections/car-interior-accessories-pakistan): Shop premium car interior accessories, dashboard items, floor mats, seat organizers, steering covers, and interior styling products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-16T11:18:44Z
+  Updated: 2026-09-25T07:43:33Z
   Total Products: 71
 - [SUV & 4×4](https://eliteautos.pk/collections/suv-4-4): Shop SUV and 4x4 accessories in Pakistan: bull bars, side steps, roof racks, body kits, conversions and off-road upgrades. COD nationwide from Elite Autos.
   Updated: 2026-09-18T11:20:14Z
@@ -1932,7 +1932,7 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Floor Mats](https://eliteautos.pk/collections/car-floor-mats-floor-liners-pakistan): Shop premium car floor mats, waterproof floor liners, rubber floor mats, luxury carpet mats, and automotive interior protection accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-18T11:20:14Z
+  Updated: 2026-09-25T07:43:33Z
   Total Products: 93
 - [Tissue Boxes](https://eliteautos.pk/collections/car-tissue-boxes-tissue-holders-pakistan): Shop premium car tissue boxes, leather tissue holders, visor tissue organizers, dashboard tissue cases, and luxury interior accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:37Z
@@ -1962,10 +1962,10 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Microfiber Accessories](https://eliteautos.pk/collections/buy-now-microfiber-accessories-car-detailing-pakistan): Shop premium microfiber towels, detailing cloths, wash mitts, drying towels, polishing pads, and automotive car care accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-19T18:27:38Z
+  Updated: 2026-09-27T11:20:57Z
   Total Products: 2
 - [Car Care Packs](https://eliteautos.pk/collections/car-care-packs-detailing-kits-pakistan): Shop premium car care packs, detailing kits, wash and wax bundles, ceramic care kits, microfiber combos, and automotive cleaning accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-17T13:47:53Z
+  Updated: 2026-09-21T07:44:19Z
   Total Products: 24
 - [All-Purpose Cleaners](https://eliteautos.pk/collections/all-purpose-cleaners-car-detailing-pakistan): Shop premium all purpose cleaners, interior cleaning sprays, dashboard cleaners, upholstery cleaners, and automotive detailing products online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-08T08:28:32Z
@@ -1986,7 +1986,7 @@
   Updated: 2026-09-08T08:29:13Z
   Total Products: 16
 - [Interior Cleaning Polishes](https://eliteautos.pk/collections/interior-cleaning-polishes-pakistan): Shop premium dashboard polish, leather conditioners, interior shine sprays, vinyl cleaners, and automotive interior detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:38Z
+  Updated: 2026-09-21T07:44:19Z
   Total Products: 16
 - [Polisher Machines & Buffers](https://eliteautos.pk/collections/polisher-machines-buffers-pakistan): Shop premium polisher machines, car buffers, dual action polishers, rotary polishers, buffing pads, and automotive detailing equipment online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
@@ -2070,10 +2070,10 @@
   Updated: 2026-09-06T08:26:39Z
   Total Products: 0
 - [Deals](https://eliteautos.pk/collections/deals): Discover the best deals and discounts on top products. Limited-time offers updated regularly — shop now and save before they're gone.
-  Updated: 2026-09-19T18:27:38Z
+  Updated: 2026-09-27T11:20:57Z
   Total Products: 43
 - [XYZ collection](https://eliteautos.pk/collections/xyz-collection)
-  Updated: 2026-09-17T13:47:53Z
+  Updated: 2026-09-23T08:39:26Z
   Total Products: 4
 
 ## Blogs
@@ -2094,6 +2094,9 @@
   - [10 Car Accessories Every Karachi Driver Should Own | Elite Autos](https://eliteautos.pk/blogs/news/10-car-accessories-every-karachi-driver-should-own): 10 Car Accessories Every Karachi Driver Should Own | Elite Autos
     Updated: 2026-07-28T08:24:58Z
     Author: Elite Autos
+  - [How to Buy Car Accessories Online in Pakistan | Elite Autos](https://eliteautos.pk/blogs/news/how-to-buy-car-accessories-online): How to Buy Car Accessories Online in Pakistan | Elite Autos
+    Updated: 2026-09-21T08:07:52Z
+    Author: Elite Autos
 
 ## Store Pages
 
@@ -2109,10 +2112,10 @@
   Updated: 2026-09-09T08:10:09Z
 - [Car Wash & Maintenance Services in Karachi | Elite Autos](https://eliteautos.pk/pages/car-wash-maintenance-service): Car Wash & Maintenance Services in KarachiKeeping your car clean and well-maintained isn't just about appearance — it protects your  and ...
   Updated: 2026-09-16T08:45:57Z
-- [Car Audio & Stereo System Installation](https://eliteautos.pk/pages/car-audio-stereo-system-installation): Free consultation ke liye Abhi WhatsApp Par Poochein WhatsApp Karein Upgrade your driving experience with professional Car Audio & Stereo System In...
-  Updated: 2026-08-21T07:09:44Z
-- [4x4 Conversion & Facelif](https://eliteautos.pk/pages/4x4-conversion-facelif): Free consultation ke liye Abhi WhatsApp Par Poochein WhatsApp Karein Upgrade your vehicle with professional 4x4 Conversion & Facelift services at E...
-  Updated: 2026-08-21T07:10:02Z
+- [Car Audio & Stereo Installation in Karachi | Elite Autos](https://eliteautos.pk/pages/car-audio-stereo-system-installation): Car Audio & Stereo Installation Upgrade your driving experience with professional car audio installation in Karachi. Whether you're replacing a fac...
+  Updated: 2026-09-25T08:12:27Z
+- [4x4 Conversion & Facelift in Karachi | Elite Autos](https://eliteautos.pk/pages/4x4-conversion-facelif): 4x4 Conversion & Facelift Whether you want to take your vehicle off the beaten path or give it a completely fresh, modern look, Elite Autos offers ...
+  Updated: 2026-09-25T08:15:40Z
 - [FAQ's](https://eliteautos.pk/pages/faqs): Welcome to Elite Autos — Pakistan’s trusted destination for premium car accessories, detailing products, LED lights, body kits, SUV upgrades, and a...
   Updated: 2026-05-29T18:52:50Z
 - [Privacy Policy](https://eliteautos.pk/pages/privacy-policy): Elite Autos operates this store and website, including all related information, content, features, tools, products and services, in order to provid...
