@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-09-19T15:56:22Z
 - Contact Email: zhu261010@gmail.com
-- Updated At: 2026-09-20T16:23:02.665Z
+- Updated At: 2026-09-28T00:00:20.902Z
 
 ## Products
 
 - [Panoramic Roof Heat Shield & Clear Coating | Thermexor](https://thermexor.com/products/panoramic-roof-heat-shield-kit): Help reduce solar heat through panoramic roof glass with Thermexor’s clear DIY coating kit for sedans, SUVs and Tesla Model Y. Tools included.
-  Updated: 2026-09-20T15:41:29Z
+  Updated: 2026-09-26T15:47:13Z
   Vendor: Thermexor
   Product Type: Automotive Glass Coating Kit
   Availability: Available
@@ -29,12 +29,33 @@
     Image: https://cdn.shopify.com/s/files/1/1041/5315/3871/files/cost-product.png?v=1789834887
     Price: $169.90 USD
 
+## Blogs
+
+- [DIY Sunroof Guides](https://thermexor.com/blogs/guides): Compare sunroof film, clear coating and shade alternatives. Read practical DIY preparation and application guides for panoramic roof owners.
+  - [How to Reduce Heat from a Panoramic Sunroof | Thermexor](https://thermexor.com/blogs/guides/how-to-reduce-heat-from-panoramic-sunroof): How to Reduce Heat from a Panoramic Sunroof | Thermexor
+    Updated: 2026-09-22T16:22:38Z
+    Author: 朱嘉俊
+  - [Panoramic Sunroof Shade Alternatives | Thermexor](https://thermexor.com/blogs/guides/panoramic-sunroof-shade-alternatives): Panoramic Sunroof Shade Alternatives | Thermexor
+    Updated: 2026-09-22T16:21:44Z
+    Author: 朱嘉俊
+  - [DIY Sunroof Coating Preparation Checklist | Thermexor](https://thermexor.com/blogs/guides/diy-sunroof-coating-preparation-checklist): DIY Sunroof Coating Preparation Checklist | Thermexor
+    Updated: 2026-09-22T16:20:46Z
+    Author: 朱嘉俊
+
 ## Store Pages
 
 - [联系我们](https://thermexor.com/pages/contact)
   Updated: 2026-09-19T15:56:26Z
 - [Your Privacy Choices](https://thermexor.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-20T06:06:30Z
+- [DIY Sunroof Heat Reduction Guide | Thermexor](https://thermexor.com/pages/sunroof-heat-reduction): A hot panoramic roof can turn an open, bright cabin into an uncomfortable place to sit. If you are researching DIY sunroof heat reduction, start wi...
+  Updated: 2026-09-22T15:10:35Z
+- [DIY Sunroof Film vs Coating: What to Check | Thermexor](https://thermexor.com/pages/sunroof-film-vs-coating): Searching for DIY sunroof heat reduction film often brings up coatings as well. They are different types of products. Film is a sheet installed on ...
+  Updated: 2026-09-22T15:10:40Z
+- [How to Apply DIY Sunroof Coating | Thermexor](https://thermexor.com/pages/how-it-works): Read the full Thermexor application guide on this page and follow your supplied kit instructions for working limits and curing conditions. Start wi...
+  Updated: 2026-09-22T15:11:02Z
+- [DIY Sunroof Coating FAQ: Fitment and Care | Thermexor](https://thermexor.com/pages/faq): Find answers about the Thermexor panoramic roof coating kit, fitment and DIY application. Read the application guide, explore film vs coating, or a...
+  Updated: 2026-09-22T14:25:15Z
 
 ## Policies
 
