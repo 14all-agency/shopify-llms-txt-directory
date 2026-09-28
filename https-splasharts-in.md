@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-08T14:30:33Z
 - Contact Email: info@splasharts.in
-- Updated At: 2026-09-14T00:00:47.666Z
+- Updated At: 2026-09-28T00:00:46.652Z
 
 ## Products
 
@@ -278,7 +278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1785303598
   Price: ₹2,199.00 INR
 - [Ganesha Wooden Effect Nameplate Spiritual Door Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate-copy): The Ganesha Wooden Effect Nameplate features premium MDF marine wood construction. This entrance accessory provides durability and a wood appearance for homes.
-  Updated: 2026-09-12T13:38:05Z
+  Updated: 2026-09-14T16:13:52Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -1065,7 +1065,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/minecraft-photo-frame-diy-kit-for-kids-paint-your-own-pixel-splash-541.webp?v=1779703153
   Price: ₹599.00 INR
 - [3 Layer Rainbow Photo Frame Fridge Magnet DIY Kit for Kids](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit): 3 layer rainbow photo frame fridge magnet DIY kit for kids. Paint your own colorful magnet, perfect for birthday return gifts, party favors & creative fun.
-  Updated: 2026-08-27T14:18:57Z
+  Updated: 2026-09-25T13:42:41Z
   Vendor: splashdiy
   Product Type: photoframe
   Availability: Available
@@ -1931,7 +1931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/holi-fridge-magnet-diy-kit-for-kids-paint-your-own-festival-craft-277.jpg?v=1779697892
     Price: ₹599.00 INR
 - [Theme Personalised Fridge Magnet DIY Kit |Paint Your Own Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit): Personalized fridge magnet in themes like Unicorn, Spiderman, Roblox, Peppa Pig, Minion, Teddy, Mermaid, Fairy, Ronaldo & Rumi. Perfect birthday return gift.
-  Updated: 2026-09-13T18:22:15Z
+  Updated: 2026-09-27T16:33:05Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
@@ -2811,7 +2811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/diy-mandala-clock-kit-paint-your-own-wooden-splash-by-arts-386.png?v=1783664523
   Price: ₹799.00 INR
 - [Butterfly Rainbow Nameboard DIY Kit for Kids | Personalized Paint Your Own Kit](https://splasharts.in/products/butterfly-rainbow-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board-birthday-return-gift-i-splash-diy-by-splash-arts): Rainbow Nameboard DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts, creative play, and kids room decor.
-  Updated: 2026-08-22T07:35:05Z
+  Updated: 2026-09-22T18:16:47Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2826,7 +2826,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Kpop Demon Hunter Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board): Kpop Demon Hunter Nameplate DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-09-12T11:54:25Z
+  Updated: 2026-09-23T19:48:16Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -3032,7 +3032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/aeroplane-nameboard-diy-kit-for-kids-personalized-paint-your-own-474.webp?v=1784619677
     Price: ₹399.00 INR
 - [Floral Royal Nameplate Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Floral Royal Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-19T10:07:00Z
+  Updated: 2026-09-24T14:20:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3068,7 +3068,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/classic-lotus-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-30T18:36:05Z
+  Updated: 2026-09-25T17:54:37Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3092,7 +3092,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-09-09T10:14:32Z
+  Updated: 2026-09-19T12:01:47Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3117,7 +3117,7 @@
   Availability: Available
   Price: ₹0.00 INR
 - [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/tulips-elegance-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-17T10:43:40Z
+  Updated: 2026-09-16T07:56:05Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3136,8 +3136,8 @@
   Updated: 2026-08-11T11:10:42Z
   Total Products: 12
 - [Fridge Magnets and Key Chain DIY Kit](https://splasharts.in/collections/fridge-magnets): SplashArts offers Splash DIY kits for fridge magnets and keychains. The collection includes animal themes, nameboards, tote painting, coasters, and photo frames.
-  Updated: 2026-09-13T11:09:31Z
-  Total Products: 33
+  Updated: 2026-09-26T11:18:22Z
+  Total Products: 35
 - [Bookmarks Making DIY Kit](https://splasharts.in/collections/bookmarks): SplashArts offers the Butterfly Bookmark DIY Kit featuring paintable wooden bookmarks. This Splash DIY collection includes creative art and craft activities for kids.
   Updated: 2026-07-28T09:39:13Z
   Total Products: 1
@@ -3145,19 +3145,19 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 3
 - [Kids Nameboard DIY kit](https://splasharts.in/collections/diy-kids-nameboard): SplashArts offers personalized SPLASH DIY nameboard kits for kids featuring themes like Aeroplane and Aqua World alongside tote painting and fridge magnet sets.
-  Updated: 2026-09-13T11:09:31Z
+  Updated: 2026-09-24T11:17:33Z
   Total Products: 24
 - [NAMEPLATES](https://splasharts.in/collections/house-nameplates): SplashArts offers handcrafted personalized wooden nameplates for home entrances including the Royale Luxe, Elegance Edge, Love Nest, and Nanaks Grace collections.
-  Updated: 2026-09-13T11:09:31Z
+  Updated: 2026-09-26T11:18:22Z
   Total Products: 62
 - [DIY KIT](https://splasharts.in/collections/diy-kits): SplashArts offers Splash DIY kits for fridge magnets, nameboards, tote painting, coasters, and bookmarks. This collection features themed and festival gift sets.
-  Updated: 2026-09-13T11:09:31Z
-  Total Products: 92
+  Updated: 2026-09-26T11:18:22Z
+  Total Products: 94
 - [Tote Painting DIY Kit](https://splasharts.in/collections/block-painting-diy-kit): SplashArts offers a diverse collection of Tote Painting DIY Kits and themed sets including Squid Game designs, Bird and Bee block painting, and fridge magnets.
   Updated: 2026-08-31T11:09:31Z
   Total Products: 8
 - [Photo Frame DIY kit](https://splasharts.in/collections/photo-frame-diy-kit): SplashArts offers Splash DIY photo frame kits for kids featuring unicorn and space themes along with fridge magnets, keychains, and tote painting craft sets.
-  Updated: 2026-09-11T11:10:39Z
+  Updated: 2026-09-26T11:18:22Z
   Total Products: 10
 - [PAINTINGS](https://splasharts.in/collections/paintings-1): SplashArts offers original textured paintings including urban skylines, seascapes, cosmic abstracts, waves, butterflies, birds, florals, and golden sail artworks.
   Updated: 2026-07-28T09:39:13Z
@@ -3169,8 +3169,8 @@
   Updated: 2026-09-09T06:10:22Z
   Total Products: 19
 - [Best Sellers DIY](https://splasharts.in/collections/best-sellers-diy): SplashArts offers best  DIY kits including fridge magnets, nameboards, tote painting, coasters, and festive rangoli designs from the Splash DIY brand.
-  Updated: 2026-09-13T11:09:31Z
-  Total Products: 16
+  Updated: 2026-09-26T11:18:22Z
+  Total Products: 18
 - [Clock DIY Kit](https://splasharts.in/collections/clock)
   Updated: 2026-09-04T11:10:13Z
   Total Products: 5
@@ -3178,8 +3178,8 @@
   Updated: 2026-09-09T05:49:55Z
   Total Products: 6
 - [Return Gifts](https://splasharts.in/collections/return-gifts)
-  Updated: 2026-09-13T11:09:31Z
-  Total Products: 4
+  Updated: 2026-09-26T11:18:22Z
+  Total Products: 6
 
 ## Blogs
 
@@ -3234,12 +3234,12 @@
   Updated: 2026-05-27T12:09:32Z
 - [Terms and Conditions for SplashArts Website](https://splasharts.in/pages/terms-of-service): OVERVIEWThis website is operated by splashdiy. Throughout the site, the terms “we”, “us” and “our” refer to splashdiy. splashdiy offers this websit...
   Updated: 2026-06-01T09:24:21Z
-- [Return and refund policy information](https://splasharts.in/pages/return-and-refund): At Splash Arts, every piece is thoughtfully crafted, and your satisfaction is important to us. While we do not offer refunds, we are happy to provi...
-  Updated: 2026-06-01T09:23:01Z
+- [Return and refund policy information](https://splasharts.in/pages/return-and-refund): Return & Replacement Policy At Splash Arts, our products are carefully made, and we want you to have a happy experience. Since all our items are cu...
+  Updated: 2026-09-17T11:28:16Z
 - [Privacy Policy Details for Customer Data Protection](https://splasharts.in/pages/privacy-policy): Last updated: September 19, 2024 This Privacy Policy describes how splashdiy (the "Site", "we", "us", or "our") collects, uses, and discloses your ...
   Updated: 2026-06-01T09:23:46Z
-- [International Shipping Policy and Global Delivery Info](https://splasharts.in/pages/shipping-policy): For International buyers, orders are shipped and delivered through registered international courier companies such as DHL and/or International spee...
-  Updated: 2026-06-01T09:23:24Z
+- [International Shipping Policy and Global Delivery Info](https://splasharts.in/pages/shipping-policy): We work hard to ensure your Splash Arts order reaches you safely and on time! 📦 Order Processing & Dispatch Orders are usually dispatched within 1–...
+  Updated: 2026-09-17T11:48:59Z
 
 ## Policies
 
