@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-20T00:00:41.512Z
+- Updated At: 2026-09-28T00:00:43.822Z
 
 ## Products
 
@@ -280,11 +280,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://shop.kenzieofficial.com/policies/privacy-policy)
   Updated: 2026-06-19T10:18:28-05:00
 - [Shipping Policy](https://shop.kenzieofficial.com/policies/shipping-policy)
-  Updated: 2024-10-24T11:26:09-05:00
+  Updated: 2026-09-25T10:54:48-05:00
 - [Refund Policy](https://shop.kenzieofficial.com/policies/refund-policy)
   Updated: 2026-06-19T10:17:36-05:00
 - [Terms of Service](https://shop.kenzieofficial.com/policies/terms-of-service)
-  Updated: 2024-10-24T11:25:48-05:00
+  Updated: 2026-09-25T10:54:03-05:00
 - [Contact Information](https://shop.kenzieofficial.com/policies/contact-information)
   Updated: 2024-10-24T17:01:47-05:00
 
