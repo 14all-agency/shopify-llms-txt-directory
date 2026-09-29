@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-07T22:02:26Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-21T00:00:43.070Z
+- Updated At: 2026-09-29T00:00:45.691Z
 
 ## Products
 
@@ -74,7 +74,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [29: Written In Stone - CD](https://shop.carlypearce.com/products/29-written-in-stone-cd-pre-order): 29: Written in Stone by Carly Pearce available on CD
-  Updated: 2026-08-27T19:24:58Z
+  Updated: 2026-09-27T21:03:46Z
   Vendor: Carly Pearce Official Merchandise
   Product Type: CD
   Availability: Available
@@ -445,7 +445,7 @@ Unisex
     Availability: Available
     Price: $45.00 USD
 - [Country Music Hat](https://shop.carlypearce.com/products/country-music-hat): Country Music Made Me Do It design Puff print on the front Black/Natural hat with adjustable sizing 65% polyester, 35% cotton blend
-  Updated: 2026-09-12T17:36:07Z
+  Updated: 2026-09-27T16:24:35Z
   Vendor: Carly Pearce
   Product Type: Hat
   Availability: Available
@@ -522,14 +522,14 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP-STicker.png?v=1771365006
   Price: $12.00 USD
 - [Church Girl Bracelet](https://shop.carlypearce.com/products/church-girl-bracelet): Beaded friendship bracelet with Church Girl letters and a custom cowgirl hat charm
-  Updated: 2026-09-04T21:49:43Z
+  Updated: 2026-09-27T16:24:36Z
   Vendor: Carly Pearce
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/Church-Girl-Bracelet.png?v=1774367285
   Price: $5.00 USD
 - [2026 Live On Tour Tee](https://shop.carlypearce.com/products/2026-live-on-tour-tee): Carly Pearce typeface on the front chest 2026 tour dates and photo of Carly on the back 100% Cotton tee in Black Unisex
-  Updated: 2026-09-03T15:48:31Z
+  Updated: 2026-09-28T17:51:17Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -571,7 +571,7 @@ Unisex
     Availability: Available
     Price: $60.00 USD
 - [Floral Photo Tee](https://shop.carlypearce.com/products/floral-photo-tee): Carly Pearce photo on the front chest framed by flowers 100% Cotton tee in Sand Unisex
-  Updated: 2026-09-18T17:01:12Z
+  Updated: 2026-09-24T18:07:07Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -620,21 +620,21 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/Mockup_0001s_0003_167420_1_308147_d.png?v=1775682384
   Price: $5.00 USD
 - [Honest Woman CD + Signed Art Card](https://shop.carlypearce.com/products/honest-woman-cd-signed): Art card SIGNED by Carly, limited quantity available Carly's latest album, Honest Woman, on CD sometimes finding yourself means finding your way back home. for me, it meant coming home...to my truth, my story, and the woman i am at my core.these songs tell that story. they hold pieces of my heart, where i come from, and the journey that brought me here. i’m so proud of this album and i can’t wait to share it with you. - love, Carly Tracklist Dream Come True Church Girl She Don’t You Can Have Him How Long WWJD Same Circus Happy For Myself If I Don’t Leave I’m Gonna Stay (Carly Pearce & Riley Green) I Don’t Have The Heart He Don’t Like My Dogs Leave My Heart Alone Who’s Lying Here (Carly Pearce & Dan Tyminski) Daisy What If You Loved Me (Carly Pearce, Molly Tuttle, Dan Tyminski) Why God Why Me
-  Updated: 2026-09-20T17:13:56Z
+  Updated: 2026-09-28T17:48:46Z
   Vendor: Carly Pearce
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/HONESTWOMANSIGNEDARTCARD_04d0e837-e3fe-405a-8960-e77d04e37cb7_EDIT.png?v=1785939919
   Price: $19.98 USD
 - [Honest Woman Vinyl - Signed](https://shop.carlypearce.com/products/honest-woman-vinyl-signed): Cover SIGNED by Carly, limited quantity available Pre-order Carly's latest album, Honest Woman, on this special edition white vinyl
-  Updated: 2026-09-20T20:24:51Z
+  Updated: 2026-09-28T07:03:16Z
   Vendor: Carly Pearce
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CPVinylSigned_dc60b304-26bd-435d-b28c-a68b2654356c.png?v=1786387007
   Price: $39.98 USD
 - [Banjo Photo Tee](https://shop.carlypearce.com/products/banjo-photo-tee): Carly Pearce logo on the front chest Honest Woman graphic on the back with a photo of Carly and her banjo Short sleeve tee in Dark Brown 100% cotton
-  Updated: 2026-09-13T01:46:42Z
+  Updated: 2026-09-21T15:33:36Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -676,14 +676,14 @@ Unisex
     Availability: Available
     Price: $60.00 USD
 - [If I Don't Leave Koozie](https://shop.carlypearce.com/products/if-i-dont-leave-koozie): If I don't leave, I'm gonna stay Beige koozie with lyrics on one side and Carly Pearce on the other
-  Updated: 2026-09-11T23:00:52Z
+  Updated: 2026-09-21T15:33:42Z
   Vendor: Carly Pearce
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0004_Cream-Koozie.png?v=1787880320
   Price: $5.00 USD
 - [Happy For Myself Sticker](https://shop.carlypearce.com/products/happy-for-myself-sticker): happy for myself 4x1in sticker
-  Updated: 2026-09-19T06:30:58Z
+  Updated: 2026-09-21T21:59:37Z
   Vendor: Carly Pearce
   Product Type: Sticker
   Availability: Available
@@ -697,7 +697,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/0293/1363/0252/files/CP_0005_Circus-Sticker.png?v=1787880023
   Price: $5.00 USD
 - [Daisy Tour Tee](https://shop.carlypearce.com/products/daisy-tour-tee): Photo of Carly with daisies on the front Honest Woman Live On Tour cities on the back Short sleeve tee in Black Unisex
-  Updated: 2026-09-19T06:30:57Z
+  Updated: 2026-09-27T21:32:15Z
   Vendor: Carly Pearce
   Product Type: T-Shirt
   Availability: Available
@@ -721,79 +721,79 @@ Unisex
 ## Collections
 
 - [apparel](https://shop.carlypearce.com/collections/apparel)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 45
 - [accessories](https://shop.carlypearce.com/collections/accessories)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 24
 - [music](https://shop.carlypearce.com/collections/music)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 21
 - [BEST SELLERS](https://shop.carlypearce.com/collections/hummingbird-collection)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 21
 - [CP ARCHIVES](https://shop.carlypearce.com/collections/cp-archives)
-  Updated: 2026-09-17T11:03:05Z
+  Updated: 2026-09-21T11:02:26Z
   Total Products: 24
 - [Hummingbird Collection](https://shop.carlypearce.com/collections/hummingbird-tour-collection)
-  Updated: 2026-09-15T11:03:10Z
+  Updated: 2026-09-24T11:02:37Z
   Total Products: 22
 - [Valentine's Free Gift](https://shop.carlypearce.com/collections/valentines-free-gift)
   Updated: 2026-09-05T11:03:04Z
   Total Products: 7
 - [Classics](https://shop.carlypearce.com/collections/classics)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 11
 - [All](https://shop.carlypearce.com/collections/all)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 58
 - [](https://shop.carlypearce.com/collections/)
-  Updated: 2026-09-17T11:03:05Z
+  Updated: 2026-09-23T17:23:50Z
   Total Products: 49
 - [New Arrivals](https://shop.carlypearce.com/collections/new-arrivals)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 19
 - [Under $10](https://shop.carlypearce.com/collections/under-10)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 13
 - [EasyGift All Products](https://shop.carlypearce.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 137
 - [Country Music Made Me Do It](https://shop.carlypearce.com/collections/country-music-made-me-do-it)
-  Updated: 2026-09-13T11:03:46Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 12
 - [Signed From the Archives](https://shop.carlypearce.com/collections/posters)
   Updated: 2026-09-12T11:02:51Z
   Total Products: 13
 - [$5 and Under](https://shop.carlypearce.com/collections/5-and-under)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 22
 - [National Vinyl Day](https://shop.carlypearce.com/collections/national-vinyl-day)
   Updated: 2026-09-04T11:02:47Z
   Total Products: 5
 - [Black Friday: 10 and Under](https://shop.carlypearce.com/collections/black-friday-10-and-under)
-  Updated: 2026-09-17T11:03:05Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 26
 - [Black Friday: $20](https://shop.carlypearce.com/collections/black-friday-20)
-  Updated: 2026-09-15T11:03:10Z
+  Updated: 2026-09-23T17:23:50Z
   Total Products: 11
 - [Black Friday: 30 & Above](https://shop.carlypearce.com/collections/black-friday-30-and-above)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 52
 - [Sticker ](https://shop.carlypearce.com/collections/sticker-)
-  Updated: 2026-09-17T11:03:05Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 44
 - [Live on Tour](https://shop.carlypearce.com/collections/live-on-tour)
-  Updated: 2026-09-13T11:03:46Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 12
 - [Members Only](https://shop.carlypearce.com/collections/memcp32586)
   Updated: 2026-09-01T18:21:47Z
   Total Products: 0
 - [Honest Woman](https://shop.carlypearce.com/collections/honest-woman)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 11
 - [Honest Woman Live on Tour](https://shop.carlypearce.com/collections/honest-woman-live-on-tour)
-  Updated: 2026-09-19T11:02:52Z
+  Updated: 2026-09-28T11:02:46Z
   Total Products: 11
 
 ## Blogs
