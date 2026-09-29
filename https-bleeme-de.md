@@ -1,17 +1,27 @@
 # bleeme. (https://bleeme.de)
 
+> bleeme.™ entwickelt und verkauft Nährstoffkomplexe in Kapselform: 13 Formeln
+für Schlaf, Stress, Energie, Immunsystem, Darmflora, Zellschutz, Gelenke, Haut,
+Haare und Nägel, Gedächtnis, Frauengesundheit, Männergesundheit und
+Stoffwechsel. Jede Formel bündelt mehrere aufeinander abgestimmte Wirkstoffe in
+einer Glasdose mit 60 oder 90 Kapseln, je nach Produkt für 20 bis 90 Tage, zu
+34,95 bis 44,95 Euro. Rezeptur, Herstellung und Abfüllung in Deutschland.
+Verkauf ausschließlich im eigenen Onlineshop bleeme.de, Versand nach
+Deutschland, Österreich und in die Schweiz. Betreiber ist die XEVEN GmbH in
+Oberhausen.
+
 - Domain: https://bleeme.de
 - Locale: de
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2025-06-12T13:00:41Z
 - Contact Email: hallo@bleeme.de
-- Updated At: 2026-09-22T00:00:38.117Z
+- Updated At: 2026-09-29T07:23:41.524Z
 
 ## Products
 
 - [Energie Komplex mit B-Vitaminen & Q10 – ENERGY BOOST](https://bleeme.de/products/energie-komplex-vitamin-b-coenzym-q10): Alle B-Vitamine in bioaktiver Form, 12 mg Eisen als Bisglycinat und 50 mg Q10 in einer Kapsel. Eisen trägt zur Verringerung von Müdigkeit und Ermüdung bei. Koffeinfrei.
-  Updated: 2026-09-21T12:16:10Z
+  Updated: 2026-09-28T07:22:57Z
   Vendor: bleeme.™
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -47,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/IMMUN_STARK-MULTIPACK-3er.jpg?v=1771003975
     Price: 99,61 € EUR
 - [Hormon Komplex mit Mönchspfeffer & Eisen – FRAUEN BALANCE](https://bleeme.de/products/frauen-hormone-komplex-moenchspfeffer-eisen): Mönchspfeffer-Extrakt 10:1, 20 mg Eisen als Bisglycinat, 25 mg Vitamin B6 und 800 µg Folat als 5-MTHF. Vitamin B6 trägt zur Regulierung der Hormontätigkeit bei.
-  Updated: 2026-09-21T12:08:23Z
+  Updated: 2026-09-23T19:08:07Z
   Vendor: bleeme.™
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -101,7 +111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/STRESS_BALANCE-MULTIPACK-3er.jpg?v=1771003976
     Price: 99,61 € EUR
 - [Entzündungs Komplex mit Curcuma – KÖRPER BALANCE](https://bleeme.de/products/entzuendung-komplex-curcuma-boswellia): 570 mg Curcumin aus auf 95 % standardisiertem Kurkuma-Extrakt, dazu 150 mg Boswelliasäuren, 100 mg Quercetin und 19 mg Piperin für die Aufnahme. 2 Kapseln täglich.
-  Updated: 2026-09-14T18:45:39Z
+  Updated: 2026-09-23T19:08:06Z
   Vendor: bleeme.™
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -251,34 +261,34 @@
   Updated: 2026-09-13T22:26:36Z
   Total Products: 0
 - [Alle Produkte](https://bleeme.de/collections/alle-produkte): Das komplette bleeme. Sortiment: Energie, Schlaf, Beauty, Immunsystem & mehr in synergetischen Komplexen. ✓ Eine Kapsel statt vier Präparate ✓ Für jeden Bereich deiner Gesundheit ✓ Jetzt entdecken!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 14
 - [Für die Frau](https://bleeme.de/collections/frauengesundheit): Ganzheitliche Frauengesundheit: Hormonbalance, Beauty, Schlaf & Stress-Reduktion in synergetischen Komplexen. ✓ Für jede Lebensphase ✓ Eine Kapsel statt vier Präparate ✓ Jetzt entdecken!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-24T11:36:30Z
   Total Products: 8
 - [Für den Mann](https://bleeme.de/collections/maennergesundheit): Männliche Performance & Regeneration: Kraft, Fokus, Energie & Erholung in einer Kapsel. ✓ Für Sport & Alltag ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-09-17T21:03:10Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 7
 - [Wirkung & Bedarf](https://bleeme.de/collections/wirkung-bedarf): Finde deine passende Nahrungsergänzung nach Bedarf: Energie, Schlaf, Immunsystem & Hormonbalance. ✓ Gezielt statt pauschal ✓ Für dein individuelles Ziel ✓ Jetzt finden!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 14
 - [Immunsystem & Abwehr](https://bleeme.de/collections/immunsystem-abwehr): Starke Abwehrkräfte durch Erkältungszeit & stressige Phasen: mit Inhaltsstoffen für Darmflora & Zellschutz. ✓ Gegen Infektanfälligkeit ✓ Für den Alltag & unterwegs ✓ Jetzt stärken!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-24T11:36:30Z
   Total Products: 4
 - [Energie & Leistung](https://bleeme.de/collections/energie-leistung): Mehr Energie & Leistung im Alltag: B-Vitamine, natürliche Fokus-Booster & Stoffwechsel-Aktivatoren. ✓ Gegen Müdigkeit ✓ Für Sport & Beruf ✓ Jetzt testen!
-  Updated: 2026-09-14T19:11:52Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 5
 - [Schlaf & Regeneration](https://bleeme.de/collections/schlaf-regeneration): Erholsamer Schlaf & echte Regeneration: mit beruhigenden Inhaltsstoffen für Körper & Kopf. ✓ Gegen Ein- & Durchschlafprobleme ✓ Für mehr Erholung ✓ Jetzt ausprobieren!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-24T11:36:30Z
   Total Products: 4
 - [Beauty & Anti-Aging](https://bleeme.de/collections/beauty-anti-aging): Beauty & Anti-Aging Komplexe für Haut, Haar & Zellschutz: mit hochwertigen Inhaltsstoffen für Kollagenbildung & Haarwachstum. ✓ Gegen Hautalterung ✓ Für volles Haar ✓ Jetzt entdecken!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-24T11:36:30Z
   Total Products: 4
 - [Bestseller](https://bleeme.de/collections/bestseller): Die meistgekauften bleeme. Komplexe: Energie, Hormonbalance & Anti-Aging in einer Kapsel. ✓ Von tausenden Kund:innen bestätigt ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 8
 - [Ermäßigter Steuersatz](https://bleeme.de/collections/ermassigter-steuersatz)
-  Updated: 2026-09-20T11:26:15Z
+  Updated: 2026-09-28T11:31:19Z
   Total Products: 13
 
 ## Blogs
