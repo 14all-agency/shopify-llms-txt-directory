@@ -6,19 +6,12 @@
 - Timezone: Asia/Tokyo
 - Created At: 2021-02-17T12:40:11Z
 - Contact Email: info@motom-ec.com
-- Updated At: 2026-09-21T00:00:44.078Z
+- Updated At: 2026-09-30T00:00:44.667Z
 
 ## Products
 
-- [アシメントリー 真鍮メッキ６灯ペンダントライト GCH002-6 引掛シーリング｜ペンダントライト｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/gch002-6_1): アシンメトリーな6灯ペンダントライトGCH002-6は、真鍮古美メッキの上質な質感と剥き出しのLEDランプが、まるでアートのような立体フォルムを描きます。雪の結晶を思わせるデザインは、カフェやリビング、店舗空間を温かく照らすシンプル＆モダンな照明です。ユニークなデザインと温かみある光で、特別な時間を彩ります。
-  Updated: 2026-09-17T22:42:31Z
-  Vendor: MotoM-ec
-  Product Type: ペンダントライト
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/gch002-6_0323_8a6bb92a-bb52-4658-9029-7b125509f16d.jpg?v=1764903191
-  Price: ￥49,500.00 JPY
 - [LEDテーブルランプ GS1704 | デスクライト | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/gs1704): 〈MotoM〉LEDテーブルランプ GS1704は、木材と金属のツートーンデザインでアンティークな佇まいが人気。コンパクトながら消費電力5Wで白熱電球40W相当の明るさ（400lm）を実現し、ベッドサイドや書斎、リビングサイドテーブルで本を手にしたくなる灯りを提供。さらに葉物野菜の水耕栽培も楽しめる多用途な一台です。
-  Updated: 2026-09-17T01:57:26Z
+  Updated: 2026-09-28T02:01:07Z
   Vendor: MotoM
   Product Type: デスクライト
   Availability: Available
@@ -40,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/GS1704db_pr_adb9b71e-db33-40ec-8c42-9d995e1db9fd.jpg?v=1746015492
     Price: ￥6,028.00 JPY
 - [ワイヤレスチャージャー機能付きLEDデスクスタンドライトGST006Q｜おしゃれなインテリア照明店MotoMモトム](https://shop.motom-jp.com/products/gst006q): 〈MotoM〉LEDデスクスタンドライト GST006Qは、レザー調の高級感ある仕上げで、デスク周りをスタイリッシュに演出。ワイヤレスチャージャー対応でスマホを置くだけで充電可能、さらに2.1A USBポートも搭載。読書やデスクワーク、在宅勤務など様々なシーンで活躍し、黒・白の2色展開でインテリアに合わせやすい便利でおしゃれなデスクスタンドです。
-  Updated: 2026-09-04T06:22:53Z
+  Updated: 2026-09-28T02:01:06Z
   Vendor: MotoM
   Product Type: デスクライト
   Availability: Available
@@ -101,7 +94,7 @@
     Availability: Available
     Price: ￥11,528.00 JPY
 - [LED ツインリフラクションランプ GS1705 | デスクライト | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/gs1705): 〈MotoM〉LEDツインリフラクションランプ GS1705は、2屈折構造で自由に照射角度や範囲を調整可能。手元灯から間接照明まで幅広く使えます。メタリックの質感がおしゃれでスタイリッシュな卓上ライト。6段階調光・5段階色温度切替で、読書や勉強、デスクワークに最適。USBポート搭載でスマホやタブレットの充電も可能な多機能デスクライトです。
-  Updated: 2026-09-04T06:22:54Z
+  Updated: 2026-09-28T02:01:02Z
   Vendor: MotoM
   Product Type: デスクライト
   Availability: Available
@@ -152,7 +145,7 @@
     Availability: Available
     Price: ￥13,728.00 JPY
 - [LEDスマートテーブルランプ GS1702S | デスクライト | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/gs1702s): 〈MotoM〉LEDスマートテーブルランプ GS1702Sは、JIS A形相当の明るさで手元をしっかり照らす読書にぴったりの卓上ライト。面発光でまぶしさを抑え、目にやさしい光を実現。3色温度切り替え・5段階調光で、作業やリラックスタイムに合わせて調整できます。USBポート付きでスマホ・タブレットの充電も可能。折りたたんでコンパクトに収納できるスマートなデザインです。
-  Updated: 2026-09-04T06:22:54Z
+  Updated: 2026-09-28T02:01:16Z
   Vendor: MotoM
   Product Type: デスクライト
   Availability: Available
@@ -171,7 +164,7 @@
     Availability: Available
     Price: ￥10,780.00 JPY
 - [コンパクトリーディングライト 丸型 MBK022 ｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk022z): ショートボディ丸型リーディングライトMBK022は、直径わずか10cmのコンパクトサイズでホテルや寝室のベッドヘッドボードに最適。首振り90度・回転320度で読書灯として手元を自在に照らせます。黒・ニッケル・ブロンズの3色展開で、寝室照明やホテルインテリアに合わせやすいデザインです。
-  Updated: 2026-09-04T06:22:54Z
+  Updated: 2026-09-28T02:00:32Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
@@ -189,7 +182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk022z_16d7b563-3aa1-4d87-9c1a-c7f14d8a97b6.jpg?v=1747792278
     Price: ￥23,980.00 JPY
 - [リーディングライト 角型 ショートボディ MBK023｜ベッドルーム照明｜おしゃれなインテリア照明店モトム](https://shop.motom-jp.com/products/mbk023l): ショートボディリーディングライト角型 MBK023は、コンパクト設計でベッドボードにぴったり。首振り90度・回転320度で読書や就寝前の手元照明に最適。黒・ニッケル・ブロンズの3色展開でホテルライクな上質感を演出。コードも隠せ、寝室を落ち着いた空間に仕上げる読書灯としてもおすすめです。
-  Updated: 2026-09-04T06:22:54Z
+  Updated: 2026-09-28T02:00:06Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
@@ -207,13 +200,13 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK023z_e9e29920-7c97-4fff-9341-e35ddbacdce2.jpg?v=1777458383
     Price: ￥23,980.00 JPY
 - [リーディングライト MBK026 ヘッドボード専用 寝室・ホテル照明 読書灯｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/mbk026b): シリーズ最小の直径65mmリーディングライト(読書灯) MBK026。ヘッドボードにスッキり収まるコンパクト設計。黒・ニッケル・ブロンズ3色。ACアダプター給電で電気工事不要。※取付面裏側にACアダプターを差し込むための空間が必要です。寝室・ホテルライクな寒室を演出。
-  Updated: 2026-09-04T06:22:54Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mbk026.jpg?v=1746015441
   - [black](https://shop.motom-jp.com/products/mbk026b?variant=43664147972326)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK026B_1.jpg?v=1763691319
     Price: ￥18,480.00 JPY
   - [nickel](https://shop.motom-jp.com/products/mbk026b?variant=43664148005094)
@@ -221,7 +214,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK026L-1.jpg?v=1763691319
     Price: ￥18,480.00 JPY
   - [bronze](https://shop.motom-jp.com/products/mbk026b?variant=45916997583078)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK026Z-1.jpg?v=1763691319
     Price: ￥18,480.00 JPY
 - [間接リーディングライト丸型 MBK024 ｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk024w): ベッドボードに設置する間接光リーディングライト丸型 MBK024は、やわらかな間接光で空間を優しく照らしつつ、スポット光で読書や手元作業も快適。間接光とスポット光は独立スイッチで操作可能。黒・白・ニッケルメッキの3色展開でホテルライクな寝室や高級感あふれる客室に最適なデザイン照明です。
@@ -243,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk024_L1_064cd1e8-b531-41e1-8c66-cc40a217518e.jpg?v=1763692866
     Price: ￥30,580.00 JPY
 - [間接リーディングライト角型 MBK025 ｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk025b): 間接光リーディングライト角型 MBK025は、やわらかな間接光でベッドルームやホテル客室を優雅に演出。読書灯としても使えるスポット光と間接光は独立スイッチで操作可能。黒・白・ニッケルメッキの3色展開で、ベッドヘッドライトとして高級感ある空間照明を実現します。
-  Updated: 2026-09-04T06:22:55Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
@@ -261,7 +254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK024L_1.jpg?v=1763694534
     Price: ￥30,580.00 JPY
 - [ロングボディ リーディングライト MBK006｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk006b): MotoMのロングボディリーディングライトMBK006は、ヘッドボードに設置できる上質な読書灯。首振り90°・回転320°で手元を自在に照らし、読書やナイトライトに最適。黒色塗装・ニッケルメッキ・ブロンズメッキの3色展開で、ホテルライクで落ち着いた寝室や高級感あふれるインテリア空間に上質な光と洗練されたデザインを演出します。
-  Updated: 2026-09-04T06:22:55Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
@@ -275,21 +268,21 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk006l_img.jpg?v=1769847315
     Price: ￥23,980.00 JPY
   - [r_bronze](https://shop.motom-jp.com/products/mbk006b?variant=45916997550310)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk006z_img_a652745c-b9aa-4192-82a9-2f6fd6fa53f9.jpg?v=1769848281
     Price: ￥23,980.00 JPY
 - [フラットリーディングライト MBK027B MBK027L MBK027Z｜リーディングライト(読書灯)｜おしゃれなインテリア照明店モトム](https://shop.motom-jp.com/products/mbk027): MotoMフラットリーディングライトMBK027は、引き出すだけで自動点灯、収納で自動消灯するスマート読書灯。フラットに収納でき邪魔にならず、ベッド周りをすっきり演出。黒色塗装・ニッケルメッキ・ブロンズメッキの3色展開で、寝室やホテル、施設に最適なヘッドボード専用リーディングライト。
-  Updated: 2026-09-07T10:38:26Z
+  Updated: 2026-09-28T02:01:07Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mbk027.jpg?v=1746015421
   - [r_black](https://shop.motom-jp.com/products/mbk027?variant=39903362875557)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk027b-00.jpg?v=1748587529
     Price: ￥30,580.00 JPY
   - [r_nickel](https://shop.motom-jp.com/products/mbk027?variant=39903362908325)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk027l_oo.jpg?v=1748587529
     Price: ￥30,580.00 JPY
   - [r_bronze](https://shop.motom-jp.com/products/mbk027?variant=39903362941093)
@@ -297,7 +290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk027Z-001.jpg?v=1748587529
     Price: ￥30,580.00 JPY
 - [USBポート付きリーディングライト(読書灯)  MBK008｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk008b): USBポート付きリーディングライトMBK008は、ベッドヘッドボード埋込専用の高級感ある読書灯。スマホやタブレットを充電しながら快適に読書できる便利な寝室照明です。黒色塗装・ブロンズメッキ・ニッケルメッキつや消しの3色展開。省スペース設計と上質なデザインで、ホテルライクな寝室空間を演出します。
-  Updated: 2026-09-04T06:22:55Z
+  Updated: 2026-09-28T02:00:46Z
   Vendor: MotoM
   Product Type: リーディングライト
   Availability: Available
@@ -315,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk008z_color.jpg?v=1758183893
     Price: ￥31,900.00 JPY
 - [LEDリーディングライトGBK014｜リーディングライト(読書灯)｜おしゃれなインテリア照明モトム](https://shop.motom-jp.com/products/gbk014z): イギリスブランド〈Astro〉のリーディングライトGBK014。クローム・ニッケル・ブロンズの3色展開で、ホテルやラグジュアリーな寝室に最適。折りたたみ式でフラット収納可能、135度アーム可動と180度回転で手元照明に最適。洗練されたデザイン性と実用性を兼ね備えた高級ベッドボード用LED読書灯です。
-  Updated: 2026-09-04T06:22:55Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: ASTRO
   Product Type: リーディングライト
   Availability: Available
@@ -329,11 +322,11 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/GBK014L_3.jpg?v=1763695337
     Price: ￥57,200.00 JPY
   - [r_bronze](https://shop.motom-jp.com/products/gbk014z?variant=43664163340518)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/GBK014Z_1.jpg?v=1763695360
     Price: ￥57,200.00 JPY
 - [LEDリーディングライト(読書灯)GBK012｜おしゃれなインテリア照明店モトム](https://shop.motom-jp.com/products/gbk012l): リーディングライトシリーズ フラットタイプ【丸型リーディングライト】 フラットタイプ【角型リーディングライト】 ショートボディー【丸型リーディングライト】 ショートボディー【角型リーディングライト】 調光タイプ【丸型リーディングライト】 調光タイプ【角型リーディングライト】 間接光【丸型リーディングライト】 間接光【角型リーディングライト】 USBポート【棚付きリーディングライト】 USBポート【リーディングライト】 アストロ社【デザインリーディングライト】 アストロ社【デザインリーディングライト】 アストロ社【収納型リーディングライト】 アストロ社【折り畳み型リーディングライト】 イギリスのブランド〈astro〉スタイリッシュリーディングライト デザインと品質・こだわりを持ったイギリスのブランド〈astro〉リーディングライトです。 ※本製品は、ベッドヘッドボード用の照明です。 イギリス照明ブランド「astro」社の照明器具を日本仕様にして販売 アストロ社は、洗面スペース・寝室向けの照明を中心に、高品位なデザインが評価されている照明ブランドです。 イギリスのビジネス界において最も高い評価とされるクイーンズ・賞を2度受賞されています。 長寿命のLEDライトを使用 光源寿命は40,000時間（目安として8〜10年）と、長寿命です。でも十分な光量があり、読書などにぴったりです。※設置場所によりLEDが切れる場合がございます。 灯具の角度を垂直90度、小型回転270度まで調節できます。読書のときなどに使用するときは灯具を出して使用、使用しないときは灯具を下ろして収納できるので場所を取りません。 点灯時に光が多くの場所に広がらず対象ののみを照らすので、隣で就寝中の方にも迷惑になりません。 ON/OFFスイッチで操作が簡単 スイッチ自体が目立たないスタイリッシュなデザインで、ON/OFF操作で簡単に点灯・消灯ができます。 電気工事不要 壁に埋め込むタイプの照明ですが、埋め込み穴からコンセントにプラグを差し込んで接続するので電気工事の必要はありません。ご利用いただけます。 設置方法 （１）ブレーカーを落としてから作業を行います。ベッドボードの施工したい場所に埋め込み穴を開けて、穴の四隅に木ネジ取付穴を開けます。そして、プラグ付コードを埋め込み穴に通します（２）プレートを本体から外し、埋め込み穴に本体とプレートをセットします。※プレートを本体から外して、作業を行ってください。（３）木ネジで本体を施工面に取り付けます。（５）コンセントにつかないで、設置完了です。 ※設置する際は必ず取扱説明書を確認の上、設置してください。 カラーバリエーション 1.クロームメッキ（GBK012M）2.ニッケルメッキつや消し（GBK012L）3.白色塗装（GBK012W）4.黒色塗装（GBK012B）5.ブロンズ塗装（GBK012Z） お部屋に合ったカラーが選べます カラーは、クロームメッキ、ニッケルメッキつや消し、白色塗装、ブロンズブロンズ塗装の5種類の色があります。 ブロンズメッキは、ブロンズが経年変化で色褪せくすんだ色合いで、アンティークな家具や高級感を演出する空間ニッケルメッキつや消しは指紋も付き傷つきにくいため、美しい状態を長く保つことができます。 商品詳細 コンパクトなサイズ。 サイズ幅75×出幅32（収納時）〜115（最大）×高さ180mm、埋込穴サイズ160×50mm、埋込深さ40mm 〈ASTRO〉リーディングライト GBK012L ニッケルメッキつや消し 型 番 GBK012M（黒色メッキ）【台数限定品】GBK012L（ニッケルメッキつや消し）【台数限定品】GBK012W（白色塗装）【台数限定品】GBK012B（黒色塗装）GBK012Z（ブロンズ塗装） サイズ 幅75×出幅32(収納時)〜115(最大)×高さ180mm灯具幅φ30×高さ110mm 可動範囲 首振り角度90度、回転角270度 埋込穴サイズ 160×50mm 埋め込み深さ 40mm 質量 0.5kg 消費電力 LEDモジュール4.3W 限界光束 170ルーメン 固有エネルギー消費効率 39.5ルーメン/W 色温度 2700K 平均演色評価数 Ra80 光源寿命 40,000時間 素材 鋼板 取付 コンセントプラグ/ベッドボード埋め込み専用 保証期間 商品ご購入日より1年間 その他 スイッチ付き 注意事項 ※設置する際、ベッドのヘッドボードに穴をあける必要がございます。※壁面(取付面)の向こうでコンセントプラグを差し込むための空間が必要です。 ※この器具は調光器と組み合わせて使用​​できません。※製品の色調はお客様のご使用のモニターやブラウザなどの環境により、実物と異なる場合がございます。 取扱説明書 PDFダウンロードはこちら 仕様図 PDFダウンロードはこちら ※スケポのアプリをダウンロードしてご覧ください。
-  Updated: 2026-09-07T16:15:26Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: ASTRO
   Product Type: リーディングライト
   Availability: Available
@@ -355,7 +348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/139971607_e57b9e5e-1e72-4701-9c2f-2fa70cbfec25.jpg?v=1746015406
     Price: ￥39,270.00 JPY
   - [ブロンズ塗装](https://shop.motom-jp.com/products/gbk012l?variant=43664164192486)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/139971608_b25a3018-3950-489c-b47f-8fdea58e79eb.jpg?v=1746015406
     Price: ￥40,480.00 JPY
 - [USBポート付きリーディングライト 読書灯 ニッケルメッキつや消し MBK009 要施工｜｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk009l): MotoMオリジナルのUSBポート付き＆棚付きの便利な読書灯MBK009。スマートフォンを充電しながら置けるので快適です。ベッドボードにすっきり埋込設置でき、黒色塗装・ニッケルメッキつや消し・ブロンズメッキの3色展開で、落ち着いた寝室空間にマッチ。上質でホテルライクな寝室照明を実現します。
@@ -407,7 +400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/139971619_87c09a11-d6d8-400f-be54-67e7f284caba.jpg?v=1746015401
     Price: ￥50,600.00 JPY
 - [astro LEDリーディングライトGBK010｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/gbk010b): イギリスの照明ブランドastro(アストロ)社のリーディングライトGBK010は、ベッドヘッドボードに取付できるの読書灯。銀色ニッケルメッキ、白色塗装、黒色塗装、ブロンズ塗装の4色展開で、ホテルはもちろん新築戸建の寝室ベッドライトとしても人気。洗練されたデザインで快適な読書空間を演出します。
-  Updated: 2026-09-04T06:22:56Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: ASTRO
   Product Type: リーディングライト
   Availability: Available
@@ -433,7 +426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/GBK010_zaiko.jpg?v=1746015400
     Price: ￥47,300.00 JPY
 - [LEDリーディングライト(読書灯)GBK019｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/gbk019): イギリス〈Astro〉社のLEDリーディングライトGBK019は、ベッドヘッドボード用の読書灯でホテル採用実績もある高級デザイン。寝室やホテル客室に最適な間接照明として、快適な読書空間を演出します。カラーはニッケルメッキつや消し、金色メッキつや消し、黒色塗装、ブロンズ塗装、白色塗装の5色展開で、おしゃれでラグジュアリーな空間づくりにぴったりです。
-  Updated: 2026-09-04T06:22:56Z
+  Updated: 2026-09-28T02:01:01Z
   Vendor: ASTRO
   Product Type: リーディングライト
   Availability: Available
@@ -549,7 +542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk010rw-3_adf11844-606d-4d3a-a9f8-620fc23fb543.jpg?v=1758381168
     Price: ￥99,880.00 JPY
 - [〈Miior社〉Sun.シリーズLED一体可動型ミラーライトGBK025｜ミラーライト｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/gbk025): ポーランドMiior社の丸形可動型ミラーライトは、片手で軽く引き出せて顔に近づけられる設計。高齢者やメガネ使用者でも使いやすく、商業施設やホテルの洗面スペースにも最適です。明るくクローズアップできるLEDライト付きで、ラグジュアリーな空間を演出しながら、細部までしっかりチェックできます。
-  Updated: 2026-09-04T06:22:57Z
+  Updated: 2026-09-28T02:00:31Z
   Vendor: MotoM
   Product Type: ミラーライト
   Availability: Available
@@ -599,7 +592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk013-wwp.jpg?v=1758358615
     Price: ￥181,500.00 JPY
 - [ミラーライト 600×900 MBK012RN2 MBK013RN2｜ミラーライト｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/mbk012rn2): 600×900mmの大きめLED一体型ミラーライト。曇り止めヒーターなしMBK012RN2と曇り止めヒーター付きMBK013RN2、電球色3000K・白色4000Kを選べ、鏡の下面（縦取り付けの場合）にON/OFFスイッチ付き。影が出にくくメイクや身だしなみに最適、自宅やホテルの洗面室を上質な空間へと演出します。
-  Updated: 2026-09-04T06:22:58Z
+  Updated: 2026-09-28T02:00:37Z
   Vendor: MotoM
   Product Type: ミラーライト
   Availability: Available
@@ -609,7 +602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk012_013_rn2-l.jpg?v=1751856298
     Price: ￥110,000.00 JPY
   - [3000K 電球色 / 曇り止めヒーター付き](https://shop.motom-jp.com/products/mbk012rn2?variant=45916996632806)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk012_013_rn2-l.jpg?v=1751856298
     Price: ￥115,610.00 JPY
   - [4000K 白色 / 曇り止めヒーター無し](https://shop.motom-jp.com/products/mbk012rn2?variant=45916996665574)
@@ -634,34 +627,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/GBK023_m.jpg?v=1759635974
     Price: ￥47,080.00 JPY
-- [間接光Φ500 LED一体型ミラーライト 曇り止めヒーター無し MBK019R 非調光タイプ｜ミラーライト｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/mbk019r-l): 鏡背面からほんのり照らす間接光のミラーライトMBK019R。光の色が3000K（電球色）MBK019R-Lと、4000K（白色）MBK019R-Wから選べます。シンプルなデザインで、鏡の背面から柔らかな間接光で空間を照らす直径50センチのミラーライト。主に洗面台上の壁に設置します。ホテル・飲食店・エステ・レジャー施設などの洗面室、化粧台、パウダールーム、レストルーム、トイレなどにぴったりです。
-  Updated: 2026-09-04T06:22:59Z
-  Vendor: MotoM
-  Product Type: ミラーライト
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mbk019r.jpg?v=1746015353
-  - [3000K 電球色](https://shop.motom-jp.com/products/mbk019r-l?variant=43659783274726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK019RL.jpg?v=1750407537
-    Price: ￥94,270.00 JPY
-  - [4000K 白色](https://shop.motom-jp.com/products/mbk019r-l?variant=45916996468966)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/MBK019Rw.jpg?v=1750407537
-    Price: ￥94,270.00 JPY
-- [間接光Φ500 LED一体型ミラーライト（曇り止めヒーター無し）MBK019R 非調光タイプ｜おしゃれなインテリア照明店MotoMモトム](https://shop.motom-jp.com/products/mbk019r-w): 間接光Φ500 LED一体型ミラーライトMBK019Rは、壁面に柔らかく反射する光で落ち着いた高級感のある空間を演出。3000Kの温かみのある電球色と4000Kの清潔感ある白色の2種類から光を選べ、手をかざすだけで操作できる近接センサー付き。ホテルや店舗、自宅の玄関・洗面空間でもスタイリッシュな雰囲気を実現します。
-  Updated: 2026-09-04T06:22:59Z
-  Vendor: MotoM
-  Product Type: ミラーライト
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk019Rw2.jpg?v=1752638651
-  - [白色光](https://shop.motom-jp.com/products/mbk019r-w?variant=46455603200230)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk019Rw2.jpg?v=1752638651
-    Price: ￥94,270.00 JPY
-  - [電球色](https://shop.motom-jp.com/products/mbk019r-w?variant=46455603232998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk019Rl_3538ca60-ee78-493d-9b77-a1c7c14511d3.jpg?v=1752638651
-    Price: ￥94,270.00 JPY
 - [astro 鏡の上に設置するミラーライト 5灯 GBK020 4灯 GBK021｜ミラーライト｜おしゃれなインテリア照明店 MotoM ONLINE STOREモトム](https://shop.motom-jp.com/products/gbk020): 洗面台や洗面室の鏡上に設置できる〈astro〉LEDミラーライト。女優ミラー・ハリウッドミラーとしても人気で、丸型ガラスグローブが可愛らしくもスタイリッシュな空間を演出。小さなLED光源で顔を明るく照らし、メイクや身だしなみのチェックに最適です。5灯・4灯と、鏡のサイズに合わせて選べ、新築・リフォームやホテル・サロンの洗面空間にもおすすめ。デザイン性と機能性を兼ね備えた人気のLED照明付きミラーです。
   Updated: 2026-09-04T06:22:59Z
   Vendor: ASTRO
@@ -699,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk013R-w.jpg?v=1775992967
     Price: ￥115,610.00 JPY
 - [洗面所 LEDライト付き拡大ミラー (LED拡大鏡) 3倍 丸形 GBK022-W クロームメッキ  GBK022-B 黒｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトム](https://shop.motom-jp.com/products/gbk022): 洗面台にそっと置くだけで上質な空間を演出する丸形拡大鏡。3倍の拡大率で、メイクの仕上がりやコンタクト装着、髭剃りなどの細部までしっかり確認できます。歯科や美容院などプロにも愛用される、実用性とデザインを兼ね備えたライト付きミラーです。
-  Updated: 2026-09-18T03:02:06Z
+  Updated: 2026-09-28T02:00:55Z
   Vendor: MotoM
   Product Type: ミラーライト
   Availability: Available
@@ -720,7 +685,7 @@
   Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/ec_gbk026bimg_b2d2bdd5-30e9-42e1-9290-4d55ad27e238.jpg?v=1746015290
   Price: ￥168,300.00 JPY
 - [LEDシャンデリア6灯｜おしゃれなインテリア照明店モトム](https://shop.motom-jp.com/products/gch003-6): ＜MotoM＞LEDシャンデリア6灯 GCH003-6は、ブロンズ調のアームと乳白グローブが織りなす上質な輝きが魅力。温かみのある光が空間を包み、リビングやホテル、レストラン、サロンなどを洗練された雰囲気に演出します。クラシックとモダンを融合したデザインで、省エネLEDを採用した高級感あふれるシャンデリア照明です。
-  Updated: 2026-09-04T06:23:00Z
+  Updated: 2026-09-28T02:59:27Z
   Vendor: MotoM
   Product Type: シャンデリア
   Availability: Available
@@ -734,7 +699,7 @@
   Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/gch0015sd_1_299af50c-f5bd-4ec5-84fe-1d93edda6e28.jpg?v=1746015285
   Price: ￥59,290.00 JPY
 - [LEDシャンデリア 8灯 セード付き GCH001-8SD | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/gch001-8sd): ＜MotoM＞LEDシャンデリア 8灯 セード付き GCH001-8SDは、ブロンズのアームと支柱に白布セードを組み合わせた上品なLED8灯シャンデリア。カフェやレストラン、ホテル、ラウンジなどの店舗照明や住宅のダイニング・リビングにも最適で、シックな空間演出と柔らかな光で特別な雰囲気を演出します。
-  Updated: 2026-09-04T06:23:00Z
+  Updated: 2026-09-28T02:01:18Z
   Vendor: MotoM
   Product Type: シャンデリア
   Availability: Available
@@ -755,7 +720,7 @@
   Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/134808623_479d33af-fa8a-4b4b-bb1e-4294d32e52e5.jpg?v=1746015275
   Price: ￥71,500.00 JPY
 - [Φ100×3灯シーリングMCL009 | シーリングライト | おしゃれなインテリア照明店MotoMモトムオンラインストア](https://shop.motom-jp.com/products/mcl009): Φ100×3灯シーリングライト「MCL009」は、やわらかな光を放つ球状ガラスグローブが印象的。グローブの角度を動かして光の向きを調整でき、空間に表情をつくります。ナチュラルで温もりある光が広がり、ナチュラルでおしゃれな店舗づくりや、リビング・ダイニングの照明にもおすすめです。白と黒の2色展開でインテリアになじむデザインです。
-  Updated: 2026-09-04T06:23:01Z
+  Updated: 2026-09-28T02:01:07Z
   Vendor: MotoM
   Product Type: シーリングライト
   Availability: Available
@@ -843,7 +808,7 @@
     Availability: Available
     Price: ￥67,100.00 JPY
 - [スフィアシリーズ ペンダントライト 2灯 引掛シーリング ・ダクトレール対応 MPN034-2  | ペンダントライト | おしゃれなインテリア照明店モトム](https://shop.motom-jp.com/products/mpn034-2): 乳白フロストガラスが柔らかく光を広げるスフィアシリーズΦ100×2灯ペンダントMPN034-2。白・黒2色、引掛シーリング・ダクトレール対応。ダイニング・リビングに温もりを演出。
-  Updated: 2026-09-18T04:40:36Z
+  Updated: 2026-09-28T02:01:06Z
   Vendor: MotoM
   Product Type: ペンダントライト
   Availability: Available
@@ -877,7 +842,7 @@
     Availability: Available
     Price: ￥8,580.00 JPY
 - [磁器ペンダントMPN19 引掛シーリング MPN19D ダクトプラグ レール用 | ペンダント | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/mpn19): 〈MotoM〉LED磁器ペンダント ハーフバイアス 小 引掛シーリング MPN19は、灯りをつけることによってマットな磁器の質感からハーフバイヤス柄が浮かび上がり、ぬくもりある空間にします。コードの長さ調節ができ、カバーに収納することができ天井まわりがスッキリ!
-  Updated: 2026-09-04T06:23:03Z
+  Updated: 2026-09-28T02:00:36Z
   Vendor: MotoM
   Product Type: ペンダントライト
   Availability: Available
@@ -903,7 +868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/KRI003R.jpg?v=1780893989
     Price: ￥64,680.00 JPY
 - [円筒ペンダント3灯 | 引掛シーリング | ペンダント | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/mpn06-3): LED3灯円筒ペンダントライト  MPN06GO-3・MPN06SI-3について、金・銀の本体とオプティカルパーツから溢れる灯りがリビングルームをおしゃれな空間へ。取り付けは引掛シーリングのみ対応、コード長が調節できカバー内に収納。
-  Updated: 2026-09-04T06:23:03Z
+  Updated: 2026-09-28T02:00:05Z
   Vendor: MotoM
   Product Type: ペンダントライト
   Availability: Available
@@ -917,7 +882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mpn06si_3_img2_3050013a-f954-4ef4-b22d-47c1bcb13187.jpg?v=1720674337
     Price: ￥37,950.00 JPY
 - [磁器ペンダントMPN21 引掛シーリング MPN21D ダクトプラグ レール用 | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/mpn21): LED磁器ペンダント ツボ 小 MPN21 引掛シーリングは、昼は光沢がある磁器の質感を、夜は磁器を通したぬくもりある灯りを楽しめる磁器照明。小ぶりでどんなお部屋にでも合うデザイン。コードの長さが調節でき、カバー内に収納できます。
-  Updated: 2026-09-04T06:23:03Z
+  Updated: 2026-09-28T02:00:06Z
   Vendor: MotoM
   Product Type: ペンダントライト
   Availability: Available
@@ -1032,7 +997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mpn05-k.jpg?v=1765689716
     Price: ￥10,780.00 JPY
 - [スフィアシリーズ 2灯ペンダントライト MPN035-2 | 引掛シーリング・MPN035D-2 ダクトレール | MotoM](https://shop.motom-jp.com/products/mpn035d-2): 球状のガラスグローブに「ひろがり」を持たせてレイアウトした２灯ペンダントライト（スフィアシリーズΦ100×2灯ペンダントMPN035-2）。白・黒2色、引掛シーリング・ダクトレール対応。ダイニング・カフェなどのお店・吹き抜け空間を上品に演出。
-  Updated: 2026-09-04T06:23:05Z
+  Updated: 2026-09-28T02:01:06Z
   Vendor: MotoM
   Product Type: ペンダントライト
   Availability: Available
@@ -1054,7 +1019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mpn035db2.jpg?v=1759220221
     Price: ￥25,080.00 JPY
 - [ぴたっとLED MBK039 MBK040 黒 白｜リーディングライト(読書灯)｜おしゃれなインテリア照明店 MotoM ONLINE STORE モトムオンラインストア](https://shop.motom-jp.com/products/mbk039): ぴたっとLED MBK039は、黒（MBK039B）・白（MBK039W）の2色展開で、マグネット式だからピタッと後付け可能。ベッドヘッドボードやブックエンドに設置できる球状LEDライトで、リーディングライトとして最適。角度調整できるので快適な照明環境を実現します。クリップ付きぴたっとLED MBK040もおすすめ。
-  Updated: 2026-09-04T06:23:05Z
+  Updated: 2026-09-28T02:00:16Z
   Vendor: MotoMオンラインストア
   Product Type: リーディングライト
   Availability: Available
@@ -1144,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mbk032z_dim_5f10769a-1b94-4bf8-9dea-3bca50780a60.jpg?v=1746015178
     Price: ￥40,700.00 JPY
 - [ブラケットライト MBK034 Φ100mm スフィアシリーズ 壁付け照明 | おしゃれなインテリア照明店 MotoMオンラインストア](https://shop.motom-jp.com/products/mbk034): おしゃれな壁付け照明 MBK034。球状グローブのスフィアシリーズ、黒・白2色展開。天井・壁面兼用で玄関・廊下・寝室に最適。電球付き、電気工事要。MotoM公式ストア。
-  Updated: 2026-09-18T11:37:47Z
+  Updated: 2026-09-28T01:59:36Z
   Vendor: MotoM
   Product Type: ブラケット
   Availability: Available
@@ -1154,11 +1119,11 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk034w-00.jpg?v=1785283756
     Price: ￥11,880.00 JPY
   - [ブラック](https://shop.motom-jp.com/products/mbk034?variant=48074275815654)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/mbk034b-00.jpg?v=1785283766
     Price: ￥11,880.00 JPY
 - [球状ランプ ブラケットライト MBK035 黒・白 壁付け照明  | ブラケットライト | おしゃれなインテリア照明店 MotoMオンラインストア](https://shop.motom-jp.com/products/mbk035): おしゃれな球状ランプ（Φ65mm）1灯のブラケットライトMBK035。黒・白2色展開で玄関・廊下・寝室・店舗照明に最適。天井・壁面兼用で設置場所を選ばず、スフィアシリーズとのコーディネートも人気。¥10,780（税込）。シンプルで上品な壁付照明として、他のスフィアシリーズと組み合わせたコーディネートもおすすめです。
-  Updated: 2026-09-04T06:23:06Z
+  Updated: 2026-09-28T02:01:06Z
   Vendor: MotoM
   Product Type: ブラケット
   Availability: Available
@@ -1172,7 +1137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/156210891_o1.jpg?v=1746015173
     Price: ￥10,780.00 JPY
 - [Φ65×2灯 ブラケットライト MBK036-2 | ブラケットライト | おしゃれなインテリア照明店MotoMオンラインストア](https://shop.motom-jp.com/products/mbk036-2): Φ65mm球状ランプ2灯のブラケットライトMBK036-2は、壁や天井の色に合わせて黒・白からベースを選択可能。ナチュラルなデザインで、店舗の壁付照明としても最適。内玄関や廊下、寝室に加え、同シリーズのペンダントライトやシーリングライトと組み合わせることで、統一感ある明るくおしゃれな空間演出が可能です。
-  Updated: 2026-09-04T06:23:06Z
+  Updated: 2026-09-28T02:01:06Z
   Vendor: MotoM
   Product Type: ブラケット
   Availability: Available
@@ -1186,7 +1151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mbk036b-2.jpg?v=1746015171
     Price: ￥22,000.00 JPY
 - [Φ65×3灯ブラケットライト MBK037-3 | ブラケットライト | おしゃれなインテリア照明店MotoMオンラインストア](https://shop.motom-jp.com/products/mbk037-3): 縦向き・横向きどちらでも設置できるスフィアシリーズ Φ65球状ランプ3灯ブラケットライト MBK037-3。黒・白のベースから選べ、玄関・廊下・寝室から店舗照明まで、柔らかくナチュラルな光で空間をやさしく彩ります。他のスフィアシリーズと組み合わせれば、統一感のあるおしゃれなインテリアアクセントとしても活躍します。
-  Updated: 2026-09-04T06:23:06Z
+  Updated: 2026-09-28T02:01:01Z
   Vendor: MotoM
   Product Type: ブラケット
   Availability: Available
@@ -1323,7 +1288,43 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/mai10_002_150315.jpg?v=1746015132
     Price: ￥14,080.00 JPY
-[List Continued](https://shop.motom-jp.com/a/llms-agent/llms.txt?shop=motom-ec.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2Njk2NDUyMzkxMDc3LCJsYXN0X3ZhbHVlIjoiNjY5NjQ1MjM5MTA3NyJ9)
+- [Akarina14 OMA14 | 灯菜 LED水耕栽培器 | おしゃれなインテリア照明店 MotoM モトム MotoM モトム](https://shop.motom-jp.com/products/oma14): LED野菜栽培器 Akarina14は、室内でLEDを照らして簡単にレタスやハーブを水耕栽培できるキット。サラダ菜のタネと液体肥料とスポンジが付属しているので、届いたその日から栽培開始。コンパクトでおしゃれな家庭菜園用プランターとしてギフトに喜ばれます。
+  Updated: 2026-09-20T05:27:25Z
+  Vendor: MotoM
+  Product Type: 灯菜 LED水耕栽培器
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/oma14.jpg?v=1746015127
+  - [なし](https://shop.motom-jp.com/products/oma14?variant=45314065400038)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/oma14_60c71b31-7751-413f-8907-032bf2426790.jpg?v=1746015127
+    Price: ￥11,880.00 JPY
+  - [あり](https://shop.motom-jp.com/products/oma14?variant=45314065432806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/oma014_GIFT_LL_731a3d6c-c8d3-442c-a4a5-884553058fa8.jpg?v=1746015127
+    Price: ￥12,320.00 JPY
+- [Akarina05 OMA05 | 灯菜 LED水耕栽培器 | おしゃれなインテリア照明店 MotoM モトム](https://shop.motom-jp.com/products/oma05): LED水耕栽培器 Akarina05は、室内で日光の代わりにLEDを照らして、手軽に葉物野菜（サラダ菜・レタス）やハーブ（バジル・クレソン・レジナトマト）が水耕栽培できます。デザインは、カラフルな道具箱をイメージした家庭菜園用のプランター。色はアイボリー（OMA05-IV）、ピンク（OMA05-PN）、ブルー（OMA05-SB）、オレンジ（OMA05-OR）の4色展開。
+  Updated: 2026-09-28T02:01:01Z
+  Vendor: MotoM
+  Product Type: 灯菜 LED水耕栽培器
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/oma05_IMG_7494_c0ec9ef1-eadc-45b9-9ac7-055fae6367e1.png?v=1746015121
+  - [Ivory](https://shop.motom-jp.com/products/oma05?variant=39946301079717)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/oma05_IMG_7494_c0ec9ef1-eadc-45b9-9ac7-055fae6367e1.png?v=1746015121
+    Price: ￥18,480.00 JPY
+  - [Pink](https://shop.motom-jp.com/products/oma05?variant=39946301112485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/oma05pn_2_26d01e8c-b538-4836-be5f-dea079e6a668.png?v=1746015121
+    Price: ￥18,480.00 JPY
+  - [Skyblue](https://shop.motom-jp.com/products/oma05?variant=39946301145253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/files/oma05sb_img_jpg_ad6a1db3-4952-4859-8a8a-1540d5a17b4a.png?v=1759217561
+    Price: ￥18,480.00 JPY
+  - [Orange](https://shop.motom-jp.com/products/oma05?variant=39946301178021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0539/0113/1941/products/oma05y_612cdf67-164f-44b2-a7a3-b004d9c77e98.png?v=1746015121
+    Price: ￥18,480.00 JPY
+[List Continued](https://shop.motom-jp.com/a/llms-agent/llms.txt?shop=motom-ec.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2Njk2NDUzMjc1ODEzLCJsYXN0X3ZhbHVlIjoiNjY5NjQ1MzI3NTgxMyJ9)
 
 ## Collections
 
@@ -1331,52 +1332,52 @@
   Updated: 2026-09-18T06:33:30Z
   Total Products: 8
 - [メイクアップミラー](https://shop.motom-jp.com/collections/mirrorlight): ミラーライトとは、鏡とライトが一体型になった照明付き鏡のことです。ハリウッドミラーとも呼ばれていたり、女優さんがメイク時に使用する鏡というイメージが多く人気のアイテムです。顔を明るく照らすことで不自然な影が顔にかかることなく、メイク作業が捗ります。新築・リフォームの洗面室に人気の商品です。 ミラーライトの比較表はこちら
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 63
 - [リーディングライト(読書灯)](https://shop.motom-jp.com/collections/readinglight): ベッドのヘッドボードに設置するリーディングライト（読書灯 読書ライト ベッドライト）。ホテルライクな寝室での読書に、手元をピンポイントに照らせるので、隣に人が寝ていても迷惑をかけません。お休み前の優雅なひとときを演出します。
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 35
 - [ペンダントライト](https://shop.motom-jp.com/collections/pendantlight): テーブルの上をおしゃれに飾るペンダントライト。天井の配線器具をご確認上、引掛シーリングとダクトプラグ(レール用)の2タイプからお選びください。また工事は必要な商品もございますので、商品内容を確認の上、ご購入ください。
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 100
 - [シャンデリア](https://shop.motom-jp.com/collections/chandelier): 部屋のイメージがぐっとおしゃれに変わるシャンデリア。 クラシカルなものから、シンプルモダンなものまで部屋のテイストに合わせてお選びください。
-  Updated: 2026-09-11T00:47:05Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 15
 - [読書灯（Desk Light デスクライト）](https://shop.motom-jp.com/collections/desklight): 読書・勉強・パソコン作業にぴったりな机の上を照らすデスクライト。手元を明るくすることで目の負担を軽減することができます。多機能のもの、デザイン性が高いものとバリエーション豊富に取り揃えました。
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 48
 - [水耕栽培用種子セット](https://shop.motom-jp.com/collections/hydroponicsseed): 別売りのLED水耕栽培器「灯菜」で栽培できる種子セット。タネと計量しやすい液体肥料と根がはりやすいとご好評いただいているスポンジのセット。単品でご購入でしたら、定形外郵便を。日時指定での配達をご希望でしたら、宅配便でご注文ください。※郵送方法は定形外郵便か宅配便のどちらかをお選びになってご注文ください。混在でのご注文はお受けできません。
-  Updated: 2026-09-07T11:08:54Z
+  Updated: 2026-09-22T11:07:38Z
   Total Products: 22
 - [LED水耕栽培](https://shop.motom-jp.com/collections/hydroponics): 野菜水耕栽培・植物育成器「灯菜」なら、サラダ菜の栽培が今日から始められます。 LED植物栽培器「灯菜（アカリーナ）」とは、お部屋の中で日光の代わりにLEDライトを照らして水耕栽培にて野菜を育てます。「灯菜」をはじめる一番のポイントは、 お部屋の中で天候に左右されない 土を使わずお部屋を汚さない 簡単に葉もの野菜やハーブを育てられる 照明メーカーこだわりのLEDを使っているため育てられるインテリアとして楽しんでいただけます。「灯菜」には、お試しの液体肥料とサラダ菜の種とスポンジが付属しています。水を用意して養液を作って、種を蒔き栽培がはじめられます。 こんな種が育てられます。 「灯菜」では、ハーブや葉もの野菜 、レジナトマト(※Akarina14・Akarina15では栽培不可)、しそなどを育てることができます。※植物の種類や環境によって栽培できない場合もございます。 種子セットのご購入はこちら 野菜水耕栽培・植物育成器「灯菜」での、サラダ菜の栽培手順を説明します。 まず栽培トレーに養液（水道水＋液体肥料）を入れ、十分水を含ませたスポンジをセットしてサラダ 菜の種を蒔きます。種を蒔いたら、フタをして発芽するまで2〜10日待ちます。発芽したら、フタを開けてLEDを1日16時間照射して8時間消灯するというサイクルを繰り返して定期的に養液を注ぎ足すと、約30〜40日でサラダ菜を収穫することができます。収穫日数はお部屋の環境や温度によって異なります。 「灯菜」はどうやって植物を育てられるの？という方へ 「灯菜」のしくみは、（１）日光の代わりにオリジナル植物用LEDを使用します。植物の成長に必要な光量を維持したまま、柔らかな光を照らします。写真のように実際オリジナル植物用LEDを使用・不使用で行なった実験では、オリジナルLED不使用の（左）植物は葉数が少なく、使用した（右）植物の方が葉数が多く、葉先が色づくという違いがでています。 （２）種はスポンジにセットして植えます。「灯菜」培地スポンジは、中央のくぼみに十字の切込みがあり、種をセットしやすく根が伸びやすい、また高い保水率で発芽を促します。（3）土の代わりに養液（水道水＋液体肥料）で栽培しますので、お部屋を汚さず簡単にお手入れができます。養液はだいたい目安として週2〜3回程度注ぎ足します。※環境や植物の種類によって異なります。 灯菜栽培によるβカロテンの分析をしました。 灯菜栽培（LEDで水耕栽培した）サラダ菜は、βカロテン（ビタミンA）が増大する傾向にあります。 灯菜で栽培したサラダ菜の成分分析を行い、日本標準成分表に掲載されている路地ものサラダ菜の成分含有量と比較した結果、約1.5倍多いです。また実際に栽培したサラダ菜やレタスを召し上がったお客様からは柔らかく美味しいという声をいただいております。 βカロテン（ビタミンA)とは緑黄色野菜などに多く含まれるカロテノイドの一種。動脈硬化の予防、老化やがん発生に対して効果が期待できると言われています。※新潟県工業技術総合研究所2016年5月調べ/引用元：eヘルスネット厚生労働省、日本食品標準成分表2015年版
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-22T11:07:38Z
   Total Products: 47
 - [~1000円](https://shop.motom-jp.com/collections/1000yen): MotoMオンラインストアショップ内の0〜1000円までのアイテム
   Updated: 2026-09-14T13:04:53Z
   Total Products: 34
 - [1001円〜5000円](https://shop.motom-jp.com/collections/1001円-5000円-1)
-  Updated: 2026-09-09T11:09:38Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 121
 - [5001円〜10000円](https://shop.motom-jp.com/collections/5001円-10000円)
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 130
 - [10001円〜20000円](https://shop.motom-jp.com/collections/10001円-20000円): MotoMオンラインストアで販売している10,001円〜20,000円のアイテム。
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 188
 - [20,001円〜50,000円](https://shop.motom-jp.com/collections/20001円-50000円)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 132
 - [50001円〜](https://shop.motom-jp.com/collections/50001円)
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 125
 - [インスタグラム掲載商品](https://shop.motom-jp.com/collections/instagram)
   Updated: 2026-09-18T11:08:16Z
   Total Products: 5
 - [商品一覧](https://shop.motom-jp.com/collections/all): 空間をおしゃれに演出するスタイリッシュな照明器具をお探しでしたら、ぜひMotoM（モトム）の通販をお役立てください。新築戸建・リフォーム・店舗改装にぴったりなシーリングライト、ペンダントライト、ブラケットライト(壁付照明)、スポットライト、ミラーライト、リーディングライト(読書灯)などデザインバリエーション豊富に取り揃えております。
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 673
 - [MotoM](https://shop.motom-jp.com/collections/motom): 1966年創業オリンピア照明オリジナルブランドMotoM(モトム)。お客様からの「こんな商品が欲しい」という声をカタチにしたデザイン性の高いLED照明を開発しています。
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 563
 - [astro](https://shop.motom-jp.com/collections/astro): 世界の5つ星ホテルに多数実績を持つ「astro社」。MotoMでは、電源を日本仕様にしてPSE取得の上、2019年より販売しております。
   Updated: 2026-09-11T00:47:05Z
@@ -1385,7 +1386,7 @@
   Updated: 2026-09-11T00:47:05Z
   Total Products: 5
 - [人気商品](https://shop.motom-jp.com/collections/ranking)
-  Updated: 2026-09-19T11:08:14Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 37
 - [スタンドライト](https://shop.motom-jp.com/collections/floor-stand): スタンドライトとは、フロアスタンド・フロアライトなど床に直接置くタイプ、テーブルに置くらテーブルライトなどのことです。 玄関・リビングなど、ちょっと暗い部屋に少し照明が欲しいときに、おすすめです。
   Updated: 2026-09-04T06:22:52Z
@@ -1397,7 +1398,7 @@
   Updated: 2026-09-19T11:08:14Z
   Total Products: 23
 - [間接照明](https://shop.motom-jp.com/collections/indirect-lighting)
-  Updated: 2026-09-11T00:47:05Z
+  Updated: 2026-09-21T11:08:33Z
   Total Products: 23
 - [エクステリアライト](https://shop.motom-jp.com/collections/exterior-light)
   Updated: 2026-06-08T05:11:19Z
@@ -1406,10 +1407,10 @@
   Updated: 2026-09-11T01:14:26Z
   Total Products: 4
 - [オプション](https://shop.motom-jp.com/collections/option): 水耕栽培器「灯菜」で使える栽培ケース、液体肥料、スポンジ、Akarina05・Akarina06にご使用いただけるタイマーも販売しております。
-  Updated: 2026-09-11T00:47:05Z
+  Updated: 2026-09-23T11:08:47Z
   Total Products: 87
 - [簡易ダクトレールなど](https://shop.motom-jp.com/collections/other): 引掛シーリングタイプの簡易ダクトレールやダクトレール用の引掛シーリングボディやランプ、アダプターなどその他オプション商品を取り扱っております。
-  Updated: 2026-09-06T11:08:54Z
+  Updated: 2026-09-23T11:08:47Z
   Total Products: 43
 - [ポイント割引対象外 (EasyPoints)](https://shop.motom-jp.com/collections/easy-points--exclusion)
   Updated: 2026-03-02T07:40:03Z
@@ -1424,31 +1425,31 @@
   Updated: 2026-08-19T11:09:11Z
   Total Products: 48
 - [リビング](https://shop.motom-jp.com/collections/living): 部屋の大きさに合わせて、ダウンライトなどと併用してご使用ください。
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 132
 - [ダイニング](https://shop.motom-jp.com/collections/ダイニング)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 105
 - [寝室・ベッドルーム](https://shop.motom-jp.com/collections/bedroom)
-  Updated: 2026-09-19T11:08:14Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 124
 - [キッチン](https://shop.motom-jp.com/collections/kitchenlight): アイランドキッチンやカウントキッチンにぴったりなペンダントライトをご紹介。
-  Updated: 2026-09-20T11:08:06Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 94
 - [玄関・エントランス](https://shop.motom-jp.com/collections/玄関-エントランス)
-  Updated: 2026-09-19T11:08:14Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 55
 - [子ども部屋・キッズルーム](https://shop.motom-jp.com/collections/kidsroom)
   Updated: 2026-09-20T11:08:06Z
   Total Products: 67
 - [書斎・ホームオフィス](https://shop.motom-jp.com/collections/書斎-ホームオフィス)
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 65
 - [和室](https://shop.motom-jp.com/collections/和室)
   Updated: 2026-08-24T11:07:59Z
   Total Products: 9
 - [洗面所](https://shop.motom-jp.com/collections/洗面所)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 46
 - [スポットライト](https://shop.motom-jp.com/collections/spotlight): 天井にダクトレールが設置されていれば、簡単に設置できるスポットライトと、MotoMオリジナルの小さくて明るい24Vダクトレールシリーズのスポットライト。シンプルでスタイリッシュなデザインと高い照明効果を誇ります。どちらのスポットライトも、品質と機能性にこだわったMotoMならではの製品です。お客様のライティングニーズに合った最適な一品をお選びください。
   Updated: 2026-09-11T00:47:05Z
@@ -1460,22 +1461,22 @@
   Updated: 2026-09-11T00:47:05Z
   Total Products: 23
 - [New Item](https://shop.motom-jp.com/collections/new-item): オリンピア照明のオリジナルブランドMotoM(モトム)の新商品です。
-  Updated: 2026-09-13T11:07:49Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 42
 - [再入荷](https://shop.motom-jp.com/collections/restock)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 14
 - [おすすめ商品](https://shop.motom-jp.com/collections/newlife)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 205
 - [シリンダー（Cylinder）シリーズ](https://shop.motom-jp.com/collections/cylinder): シンプルでどんな部屋にも合わせやすおしゃれな円筒(シリンダー)照明シリーズ。
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-22T11:07:38Z
   Total Products: 11
 - [miior社](https://shop.motom-jp.com/collections/miior): miior社は革新的なミラーライトをデザインしています。女性でも片手で軽々引き出せるミラーライト(ライト付きの鏡)。ミラーを顔のそばに引き寄せることで、より明るくクローズアップして使用できます。革新的なデザインと機能性、モダンさで海外の高級ホテルでも採用されています。
   Updated: 2026-09-11T00:47:06Z
   Total Products: 3
 - [Sphere(スフィア)シリーズ](https://shop.motom-jp.com/collections/sphere): コンパクトでミニマルな球状のガラスより、やわらかなあかりを発し空間をリズミカルに演出します。G9口金のLEDランプを採用した小型グローブシリーズ。シーリング・ペンダント・ブラケットの灯数違いやサイズ・デザインなど豊富なバリエーションをご用意しています。
-  Updated: 2026-09-19T11:08:14Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 28
 - [アウトレット](https://shop.motom-jp.com/collections/outlet): オリンピア照明のオリジナルブランドMotoMが運営するオンラインストアでは、箱不良品や傷ありなど訳あり商品を最大50%OFFのお買得価格にて販売中！数に限りがございますので、ご購入はお早めに!!
   Updated: 2026-09-14T11:07:34Z
@@ -1484,7 +1485,7 @@
   Updated: 2026-09-04T06:22:53Z
   Total Products: 12
 - [MotoMリーディングライト](https://shop.motom-jp.com/collections/motomreadingright): オリンピア照明株式会社オリジナルブランドMotoM。日本の住環境にあわせたコンパクトな設計とこだわりの機能を詰め込んだラインナップ。
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 18
 - [astro リーディングライト](https://shop.motom-jp.com/collections/astroreadingright): アストロ社は、1997年イギリスでJohn Fearon と James Bassant によって設立された照明メーカーです。アストロ社のリーディングライトは世界中のアグジュアリーホテルで採用されています。
   Updated: 2026-09-11T01:14:26Z
@@ -1493,7 +1494,7 @@
   Updated: 2026-09-11T00:47:06Z
   Total Products: 15
 - [ラウンド 前面発光 ミラーライト](https://shop.motom-jp.com/collections/round_front-emitting_mirrorlight): 空間を柔らかな雰囲気にするミラーライト前面発光のラウンドタイプ。
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 4
 - [間接発光 ミラーライト](https://shop.motom-jp.com/collections/indirectluminescence_mirrorlight): 鏡の背面からほんのり照らす間接発光のミラーライト(ライト付き鏡)。丸型・角型、色温度（3000K電球色・4000K白色）からお選びください。空間演出として飲食店・ホテルに使用されています。
   Updated: 2026-09-17T11:09:12Z
@@ -1508,22 +1509,22 @@
   Updated: 2026-09-17T11:09:12Z
   Total Products: 4
 - [拡大鏡](https://shop.motom-jp.com/collections/magnifyingglass)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 5
 - [ミラーキャビネット](https://shop.motom-jp.com/collections/mirrorcabinet)
   Updated: 2026-09-13T11:07:49Z
   Total Products: 1
 - [MotoM リーディングライト](https://shop.motom-jp.com/collections/motomreadinglight)
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 19
 - [アストロリーディングライト](https://shop.motom-jp.com/collections/astro-readinglight): 世界の五つ星ホテルに多数の実績を持つイギリスの「astro(アストロ)社」。MotoMでは電源を日本仕様にしてPSEを取得の上、2019年より販売開始。
   Updated: 2026-09-11T01:14:26Z
   Total Products: 9
 - [1灯ペンダントライト](https://shop.motom-jp.com/collections/onelightpendantlight)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 42
 - [3灯ペンダントライト](https://shop.motom-jp.com/collections/treependantlight)
-  Updated: 2026-09-11T00:47:06Z
+  Updated: 2026-09-22T11:07:38Z
   Total Products: 5
 - [スフィアブラケットライト](https://shop.motom-jp.com/collections/spherebracketlight): 「スフィア」シリーズの壁付け照明（ブラケットライト）。球体の美しいフォルムから生まれるやわらかな光が、空間をミニマルかつ上質に演出します。ガラスの種類、デザイン、大きさなどバリエーション豊富にご紹介します。
   Updated: 2026-09-19T11:08:14Z
@@ -1557,22 +1558,22 @@
   Updated: 2026-09-19T11:08:14Z
   Total Products: 23
 - [ダイニングにお勧めのペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-dining)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 100
 - [キッチン向けペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-kitchen)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 29
 - [トイレ向けペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-toilet)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 39
 - [寝室向けペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-bedroom)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 100
 - [玄関向けペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-entrance)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 37
 - [廊下向けペンダントライト](https://shop.motom-jp.com/collections/pendantlight-for-hallway)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-24T11:10:23Z
   Total Products: 39
 - [リビング向けブラケットライト](https://shop.motom-jp.com/collections/bracket-for-living)
   Updated: 2026-09-19T11:08:14Z
@@ -1581,7 +1582,7 @@
   Updated: 2026-09-19T11:08:14Z
   Total Products: 23
 - [メイクアップミラー](https://shop.motom-jp.com/collections/mirrorlight-tabletop): ミラーライト(照明付き鏡)とは、鏡の周りに設置するライトや鏡とライトが一体型になった鏡のことです。女優ミラー、ハリウッドライトとも呼ばれています。顔を明るく照らすので、メイクの際に影が気にならないので、作業が捗ります。新築・リフォームの洗面室や玄関に人気の商品です。
-  Updated: 2026-09-04T11:09:07Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 2
 - [洗面台向け・壁掛けミラーライト（女優ミラー）](https://shop.motom-jp.com/collections/mirrorlight-wallmounted): ミラーライト(照明付き鏡)とは、鏡の周りに設置するライトや鏡とライトが一体型になった鏡のことです。女優ミラー、ハリウッドライトとも呼ばれています。顔を明るく照らすので、メイクの際に影が気にならないので、作業が捗ります。新築・リフォームの洗面室や玄関に人気の商品です。
   Updated: 2026-09-18T11:08:16Z
@@ -1617,17 +1618,41 @@
   Updated: 2026-09-06T11:08:54Z
   Total Products: 4
 - [dar lighting](https://shop.motom-jp.com/collections/dar-lighting): dar lighting（ダー・ライティング）は、1971年に創業した英国を代表する照明ブランド。常に優れた品質、信頼性、価値を備えたデザインを追求しています。
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 10
 - [リーディングライト](https://shop.motom-jp.com/collections/reading-light): 寝室ベッドのヘッドボードに設置する読書灯。スタイリッシュなフォルムと豊富なカラーバリエーションで様々な寝室、ベッドサイドにマッチします。 リーディングライトの比較表はこちら
-  Updated: 2026-09-17T11:09:12Z
+  Updated: 2026-09-26T11:08:22Z
   Total Products: 35
 - [磁器ペンダントライト](https://shop.motom-jp.com/collections/porcelain-pendant-light)
   Updated: 2026-09-05T11:09:46Z
   Total Products: 6
 - [新着商品](https://shop.motom-jp.com/collections/new)
-  Updated: 2026-09-18T11:08:16Z
+  Updated: 2026-09-28T11:06:58Z
   Total Products: 49
+- [取り付けかんたん](https://shop.motom-jp.com/collections/取り付けかんたん)
+  Updated: 2026-09-26T11:41:13Z
+  Total Products: 5
+- [調光・調色できる](https://shop.motom-jp.com/collections/調光-調色できる)
+  Updated: 2026-09-26T11:42:47Z
+  Total Products: 6
+- [ダクトレール対応](https://shop.motom-jp.com/collections/ダクトレール対応)
+  Updated: 2026-09-26T11:43:11Z
+  Total Products: 5
+- [目にやさしい](https://shop.motom-jp.com/collections/目にやさしい)
+  Updated: 2026-09-26T11:45:45Z
+  Total Products: 5
+- [コードレスで使える](https://shop.motom-jp.com/collections/コードレスで使える)
+  Updated: 2026-09-28T11:06:58Z
+  Total Products: 4
+- [電球交換ができる](https://shop.motom-jp.com/collections/電球交換ができる)
+  Updated: 2026-09-26T11:47:30Z
+  Total Products: 5
+- [自分仕様にカスタマイズ](https://shop.motom-jp.com/collections/自分仕様にカスタマイズ)
+  Updated: 2026-09-26T11:48:04Z
+  Total Products: 5
+- [間接光を楽しむ](https://shop.motom-jp.com/collections/間接光を楽しむ)
+  Updated: 2026-09-26T11:48:21Z
+  Total Products: 5
 
 ## Blogs
 
@@ -2410,10 +2435,6 @@
   Updated: 2025-08-28T12:46:26Z
 - [【2025年度版】引っ掛けシーリングは自分で取り付けることができるの？](https://shop.motom-jp.com/pages/hikkake): .containeritemsyoukai { display: block; } .itemsyoukai{ width:100%; } .itemsyoukair{ width:100%; } .columnheadimg img{ width:100%; margin:0 auto; t...
   Updated: 2025-08-28T13:02:15Z
-- [空間を彩る主役！ おしゃれなペンダントライト6選](https://shop.motom-jp.com/pages/osyarependant): 「部屋の雰囲気を一新したい」「もっとおしゃれで個性的な空間にしたいけど、どうすればいいかわからない」 そんな風にお考えではありませんか？ 空間の印象を大きく左右する照明の中でも、特にアクセントとなるのがペンダントライトです。点灯時はもちろん、消灯時もインテリアの一部として存在感を放ち、日々の暮...
-  Updated: 2025-09-04T02:58:36Z
-- [照明を変えるだけでリビングがおしゃれに！人気の照明5選！](https://shop.motom-jp.com/pages/osharelivinglight): 「なんだかリビングがパッとしない」「もっとおしゃれな雰囲気にしたいけど、どうすればいいか分からない」 そんなお悩みをお持ちではありませんか？ 実は、リビングの印象を大きく左右する要因の一つに照明があります。照明ひとつで部屋の雰囲気はガラリと変わり、日々の暮らしの質までアップする魔法のアイテムな...
-  Updated: 2025-09-04T02:00:08Z
 - [プライバシーの選択](https://shop.motom-jp.com/pages/data-sharing-opt-out): 当社のプライバシーポリシーに記載されているように、当社は、Cookieや類似のテクノロジーを通じて、当社および当社のウェブサイトとのやり取りから個人情報を収集します。当社は、この個人情報を広告パートナーを含む第三者と共有する場合もあります。これは、お客様の興味に関連性の高い他のウェブサイトで広...
   Updated: 2026-01-24T12:17:08Z
 - [インドアグリーン × 照明の新しい試み　ー GREEN LIGHTING](https://shop.motom-jp.com/pages/greenlighting): /* 全体のレイアウト設定 */ .sphere_main { padding-left: 80px; padding-right: 80px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helve...
