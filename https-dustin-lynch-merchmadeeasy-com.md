@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2021-07-21T21:37:44Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-10T00:00:37.811Z
+- Updated At: 2026-09-30T00:00:40.967Z
 
 ## Products
 
 - [Ladies Sunset Tank - White](https://dustin-lynch.merchmadeeasy.com/products/ladies-logo-tank): 65% poly, 35% viscose Slouchy fit White
-  Updated: 2026-09-04T16:39:30Z
+  Updated: 2026-09-16T21:11:41Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Ladies Sunset Tank - Grey](https://dustin-lynch.merchmadeeasy.com/products/grey-tank): Heather Stone Flowy fit
-  Updated: 2026-09-04T16:22:53Z
+  Updated: 2026-09-16T21:11:46Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -151,7 +151,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Party Mode Character Tee](https://dustin-lynch.merchmadeeasy.com/products/party-mode-character-tee): White crewneck with 'PARTY MODE' character printed on the front chest. Available in sizes S-2XL Unisex fit
-  Updated: 2026-09-05T17:23:40Z
+  Updated: 2026-09-11T18:40:56Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -197,7 +197,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLFLASK.png?v=1788385423
   Price: $15.00 USD
 - [Party Mode 1.5 oz Shooter](https://dustin-lynch.merchmadeeasy.com/products/party-mode-shot-glass): Plastic 1.5 oz
-  Updated: 2026-09-02T21:45:04Z
+  Updated: 2026-09-19T01:14:55Z
   Vendor: Dustin Lynch
   Product Type: Accessories
   Availability: Available
@@ -267,7 +267,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLKTCCD.png?v=1788384460
   Price: $14.98 USD
 - [Live On Tour 2024 Tee](https://dustin-lynch.merchmadeeasy.com/products/live-on-tour-2024-tee): Dustin Lynch's 2024 Live on Tour Official Tee featuring photo print on front and dates printed on back. Made of 100% airlume combed and ring-spun cotton.Unisex fit Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-09-03T16:17:30Z
+  Updated: 2026-09-23T03:24:47Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -418,20 +418,20 @@
     Availability: Available
     Price: $35.00 USD
 - [Bull Koozie](https://dustin-lynch.merchmadeeasy.com/products/bull-koozie): 12 oz. double-sided koozie
-  Updated: 2026-09-03T10:20:36Z
+  Updated: 2026-09-19T01:14:58Z
   Vendor: Dustin Lynch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLBULLKOOZIE.png?v=1788384121
   Price: $5.00 USD
 - [Bull Hoodie](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie): Dustin Lynch Bull Hoodie in shade "Vintage Arctic" with front print only.
-  Updated: 2026-09-02T21:25:14Z
+  Updated: 2026-09-15T19:09:07Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLBULLHOODIE-3.png?v=1788384304
   - [S](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie?variant=45399638999231)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [M](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie?variant=45399639031999)
     Availability: Available
@@ -440,16 +440,16 @@
     Availability: Available
     Price: $65.00 USD
   - [XL](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie?variant=45399639097535)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [2XL](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie?variant=45399639130303)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [3XL](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie?variant=45399639163071)
     Availability: Available
     Price: $65.00 USD
 - [Photo Tour Tee](https://dustin-lynch.merchmadeeasy.com/products/photo-tour-tee-2): Dustin Lynch 2026 photo tour tee in natural with front and back print.
-  Updated: 2026-09-04T00:33:37Z
+  Updated: 2026-09-27T02:57:36Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -470,13 +470,13 @@
     Availability: Available
     Price: $35.00 USD
 - [North American Tour Tee](https://dustin-lynch.merchmadeeasy.com/products/north-american-tour-tee): Dustin Lynch 2026 North American Tour Tee in grey with front print only.
-  Updated: 2026-09-02T21:20:29Z
+  Updated: 2026-09-15T18:02:09Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLNATOURTEE.png?v=1788384022
   - [S](https://dustin-lynch.merchmadeeasy.com/products/north-american-tour-tee?variant=45832385724607)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [M](https://dustin-lynch.merchmadeeasy.com/products/north-american-tour-tee?variant=45832385757375)
     Availability: Available
@@ -491,14 +491,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Dustin Lynch Clean Slate - CD (SIGNED)](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd-signed): SIGNED copy Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-09-09T18:40:36Z
+  Updated: 2026-09-26T17:20:26Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLCLEANSLATECDSIGNED_a0d0abfc-e020-446b-902f-bdf7fb465175.png?v=1788302683
   Price: $19.98 USD
 - [Dustin Lynch Clean Slate - CD](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd): Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-09-08T21:24:07Z
+  Updated: 2026-09-11T14:58:58Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
@@ -508,34 +508,34 @@
 ## Collections
 
 - [Home page](https://dustin-lynch.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-04T11:22:36Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 20
 - [Apparel](https://dustin-lynch.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-05T11:21:38Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 43
 - [Accessories](https://dustin-lynch.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-04T11:22:36Z
+  Updated: 2026-09-19T11:59:16Z
   Total Products: 32
 - [](https://dustin-lynch.merchmadeeasy.com/collections/-1)
-  Updated: 2026-09-05T11:21:38Z
+  Updated: 2026-09-17T11:18:11Z
   Total Products: 11
 - [All](https://dustin-lynch.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-09T11:22:00Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 88
 - [Featured Merch](https://dustin-lynch.merchmadeeasy.com/collections/featured-merch)
-  Updated: 2026-09-05T11:21:38Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 47
 - [Stay Country](https://dustin-lynch.merchmadeeasy.com/collections/stay-country)
   Updated: 2026-07-22T20:37:33Z
   Total Products: 1
 - [Music](https://dustin-lynch.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-09T11:22:00Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 9
 - [Hats](https://dustin-lynch.merchmadeeasy.com/collections/hats-1)
   Updated: 2026-07-22T20:37:33Z
   Total Products: 5
 - [Featured Items](https://dustin-lynch.merchmadeeasy.com/collections/featured-items)
-  Updated: 2026-09-03T11:22:43Z
+  Updated: 2026-09-17T11:18:11Z
   Total Products: 9
 - [Blue In The Sky](https://dustin-lynch.merchmadeeasy.com/collections/blue-in-the-sky)
   Updated: 2026-08-28T11:20:26Z
@@ -547,7 +547,7 @@
   Updated: 2026-07-08T20:17:33Z
   Total Products: 0
 - [Party Mode Tour Merch](https://dustin-lynch.merchmadeeasy.com/collections/party-mode-tour-merch)
-  Updated: 2026-09-03T11:22:43Z
+  Updated: 2026-09-12T11:19:59Z
   Total Products: 12
 - [2023 Tour Merch](https://dustin-lynch.merchmadeeasy.com/collections/2023-tour-merch)
   Updated: 2026-08-28T11:20:26Z
@@ -556,25 +556,25 @@
   Updated: 2026-09-02T21:27:45Z
   Total Products: 6
 - [Killed The Cowboy 2024 Tour](https://dustin-lynch.merchmadeeasy.com/collections/2024-tour-collection)
-  Updated: 2026-08-22T11:18:54Z
+  Updated: 2026-09-23T11:18:25Z
   Total Products: 8
 - [Outerwear](https://dustin-lynch.merchmadeeasy.com/collections/outerwear)
   Updated: 2026-07-25T11:20:25Z
   Total Products: 5
 - [T-Shirts](https://dustin-lynch.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-09-05T11:21:38Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 29
 - [SIGNED KILLED THE COWBOY](https://dustin-lynch.merchmadeeasy.com/collections/signed-killed-the-cowboy)
   Updated: 2026-08-31T19:40:38Z
   Total Products: 2
 - [Killed The Cowboy](https://dustin-lynch.merchmadeeasy.com/collections/killed-the-cowboy-1)
-  Updated: 2026-08-22T11:18:54Z
+  Updated: 2026-09-23T11:18:25Z
   Total Products: 8
 - [New Arrivals](https://dustin-lynch.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-04T11:22:36Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 4
 - [Clean Slate](https://dustin-lynch.merchmadeeasy.com/collections/clean-slate)
-  Updated: 2026-09-09T11:22:00Z
+  Updated: 2026-09-27T11:18:09Z
   Total Products: 2
 
 ## Store Pages
