@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-09-19T00:00:42.823Z
+- Updated At: 2026-09-30T00:00:42.992Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-09-18T10:38:46Z
+  Updated: 2026-09-28T15:07:27Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/a8fcc40905c16fb5f9549a87774ce229.jpg?v=1764573108
   Price: ￥10,000.00 JPY
 - [【メンバー限定】淡路島の職人が手仕事で仕上げたお香_1種類](https://mckkjp.com/products/incense_one): 【こちらはお香3種をご購入いただいたメンバーさま専用商品となります】 安息・活力・集中よりお好きな香りのみが25本入りとなります。 毎日のルーティンとして、お気に入りの『聞香』を続けられます。お気に入りの香りで自分をブランディングすることも可能です。 毎週末の朝に同じ『聞香』で始まる大切な時間。自分の好きな香りを聞くことで、忙しさから解放されたり、無理しなくて良い時間を体験したり・・・ お部屋のフレグランスとして、自分らしさを楽しんだり、お好きな香で自分というブランドを作れます。
-  Updated: 2026-09-09T15:09:52Z
+  Updated: 2026-09-28T10:20:27Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お香
   Availability: Available
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
 - [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
-  Updated: 2026-09-01T05:37:10Z
+  Updated: 2026-09-27T14:03:56Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-09-18T11:13:00Z
+  Updated: 2026-09-29T11:13:36Z
   Total Products: 7
 
 ## Blogs
@@ -210,6 +210,9 @@
   - [海を渡り、淡路島から始まった日本の香り。1400年の歴史と受け継がれるお香文化](https://mckkjp.com/blogs/magazine/incense-culture)
     Updated: 2026-08-12T02:10:06Z
     Author: 勇輝中町
+  - [いま伸びているコーポレートギフト市場。選ばれるブランドの共通点](https://mckkjp.com/blogs/magazine/corporate-gift)
+    Updated: 2026-09-24T02:39:24Z
+    Author: 勇輝中町
 
 ## Store Pages
 
@@ -235,6 +238,8 @@
   Updated: 2026-08-04T00:48:28Z
 - [お買い物ガイド](https://mckkjp.com/pages/store-guide)
   Updated: 2026-09-15T00:02:29Z
+- [コーポレートギフト](https://mckkjp.com/pages/corporate-gift): 
+  Updated: 2026-09-28T03:15:10Z
 
 ## Policies
 
