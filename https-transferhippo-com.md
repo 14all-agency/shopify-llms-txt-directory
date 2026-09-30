@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2024-08-22T11:47:34Z
 - Contact Email: hello@transferhippo.com
-- Updated At: 2026-09-14T00:00:34.361Z
+- Updated At: 2026-09-30T00:00:36.309Z
 
 # Transfer Hippo
 
@@ -25,7 +25,7 @@ Official website: https://transferhippo.com
 ## Products
 
 - [DTF Auto Gang sheet Builder](https://transferhippo.com/products/dtf-gang-sheet-calculators): Full Color Transfers On Gang Sheet No Setup Fees Fits Two 11" Wide Artwork No Minimum 24 - 48 Hour Production Free Shipping Over $100+ OEKO TEX  Supplies Used Soft Hand Feel Durable & Stretchable Recommended Commercial Grade Heat Press Use heavy pressure For cotton, cotton/poly blends press at 300F for 10-12 seconds For 100% polyester press at 275F for 15 seconds Warm or cold peel Second press after peeling for 5 seconds (optional) WASHING : Turn t-shirt inside out. Use cold water & wash with similar colors. Wash on gentle setting. DRYING : Tumble dry on low, or hang dry. IRONING : If ironing is needed, turn the garment inside out. DO NOT : Do not use bleach. Do not dry clean.
-  Updated: 2026-09-10T19:26:07Z
+  Updated: 2026-09-29T16:51:47Z
   Vendor: Transfer Hippo
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@ Official website: https://transferhippo.com
   Image: https://cdn.shopify.com/s/files/1/0629/4424/7868/files/UVStickerButton.png?v=1778784774
   Price: $0.01 USD
 - [24-inch DTF Film Roll – Wholesale](https://transferhippo.com/products/24-inch-dtf-film-roll-wholesale): 24-inch × 328-foot DTF transfer film roll. Wholesale pricing.
-  Updated: 2026-09-10T08:02:42Z
+  Updated: 2026-09-29T19:35:32Z
   Vendor: Transfer Hippo
   Product Type: DTF Film
   Availability: Available
