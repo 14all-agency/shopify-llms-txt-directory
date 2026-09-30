@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-18T01:50:58Z
 - Contact Email: richsoleek@gmail.com
-- Updated At: 2026-09-22T00:10:37.107Z
+- Updated At: 2026-09-30T00:00:20.235Z
 
 ## Products
 
 - [“Sorry” Tee](https://www.rich-society.com/products/sorry-tee)
-  Updated: 2026-09-14T23:08:46Z
+  Updated: 2026-09-22T03:24:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [“Rebels” Hoodie](https://www.rich-society.com/products/rebels-hoodie)
-  Updated: 2026-08-29T01:20:35Z
+  Updated: 2026-09-22T03:24:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Not Available
     Price: $88.00 USD
 - [“High Fashion” tee](https://www.rich-society.com/products/high-fashion-tee): TRUE TO SIZE DTG PRINT
-  Updated: 2026-09-14T23:10:47Z
+  Updated: 2026-09-22T03:24:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [“ Store” Tee](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1): Classic  Store design hand painted on to a heavyweight cotton shirt 7Oz boxy fit
-  Updated: 2026-09-14T23:11:08Z
+  Updated: 2026-09-22T03:24:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -82,26 +82,27 @@
   - [XL](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1?variant=43350258090045)
     Availability: Not Available
     Price: $40.00 USD
-- [Angel Trucker (red)](https://www.rich-society.com/products/angel-trucker-red): baby blue/white embroidery patch.
-  Updated: 2026-09-14T23:12:31Z
+- [“blessmeup” Trucker Hat (red)](https://www.rich-society.com/products/angel-trucker-red): baby blue/white embroidery patch.
+  Updated: 2026-09-26T15:41:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/47402A82-CA9E-4E4F-B2D6-7CEDA631A348.jpg?v=1787105196
   Price: $50.00 USD
-- [Angel Pinstripe Hat](https://www.rich-society.com/products/angel-pinstripe-hat)
-  Updated: 2026-09-18T17:35:01Z
+- [“blessmeup”
+ Pinstripe Hat](https://www.rich-society.com/products/angel-pinstripe-hat)
+  Updated: 2026-09-26T15:42:14Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/B453D4C0-276D-4277-B809-7B2466A39AC3.jpg?v=1787105354
   Price: $50.00 USD
 - [RICHES Set (steel blue)](https://www.rich-society.com/products/riches-set-steel-blue): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-18T11:26:34Z
+  Updated: 2026-09-24T22:01:56Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/D1A38D17-60FC-4869-88F9-09D57B52B78D.jpg?v=1789685631
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/97334F1E-7328-4F80-93CD-4CEDD6D19358.jpg?v=1790093262
   - [S](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472478269)
     Availability: Available
     Price: $120.00 USD
@@ -118,11 +119,11 @@
     Availability: Available
     Price: $120.00 USD
 - [RICHES Set (black)](https://www.rich-society.com/products/riches-set-black): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-17T23:28:36Z
+  Updated: 2026-09-24T22:02:03Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/6159CECC-1B2D-44D6-916C-BE40E56DF144.jpg?v=1789685631
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/AC2433D5-96BF-47BB-9B89-6B89BC54B3BD.jpg?v=1790093262
   - [S](https://www.rich-society.com/products/riches-set-black?variant=43643472871485)
     Availability: Available
     Price: $120.00 USD
@@ -139,7 +140,7 @@
     Availability: Available
     Price: $120.00 USD
 - [RICHES Set (grey)](https://www.rich-society.com/products/riches-set-grey): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-17T23:29:19Z
+  Updated: 2026-09-24T22:02:11Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -160,11 +161,11 @@
     Availability: Available
     Price: $120.00 USD
 - [RICHES Set (red)](https://www.rich-society.com/products/riches-set-red): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-17T23:29:48Z
+  Updated: 2026-09-24T22:02:18Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/6D7C3AAF-A781-497D-8723-9F13503C69CC.jpg?v=1789685631
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/69037866-A932-4203-9F77-E07852E4EF7B.jpg?v=1790093262
   - [S](https://www.rich-society.com/products/riches-set-red?variant=43643473231933)
     Availability: Available
     Price: $120.00 USD
@@ -181,11 +182,11 @@
     Availability: Available
     Price: $120.00 USD
 - [RICHES Set (olive)](https://www.rich-society.com/products/riches-set-olive): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-19T02:15:31Z
+  Updated: 2026-09-24T22:02:25Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/36B062EC-E9C8-419A-971E-35D3A12DA68B.jpg?v=1789687818
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/68A58971-C13C-4843-A251-260D606671AE.jpg?v=1790093262
   - [S](https://www.rich-society.com/products/riches-set-olive?variant=43643473395773)
     Availability: Available
     Price: $120.00 USD
@@ -202,7 +203,7 @@
     Availability: Available
     Price: $120.00 USD
 - [RICHES Set (charcoal)](https://www.rich-society.com/products/riches-set-charcoal): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-17T23:31:16Z
+  Updated: 2026-09-24T22:02:33Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -222,15 +223,16 @@
   - [XXL](https://www.rich-society.com/products/riches-set-charcoal?variant=43643474051133)
     Availability: Available
     Price: $120.00 USD
-- [Angel Trucker (camo)](https://www.rich-society.com/products/angel-trucker-camo): Camo hat w/ embroidery patch.
-  Updated: 2026-09-19T15:23:22Z
+- [“blessmeup” unstructured hat(camo)](https://www.rich-society.com/products/angel-trucker-camo): Camo hat w/ embroidery patch.
+  Updated: 2026-09-26T15:41:24Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/C5ABB71E-6BC8-4722-81FA-09380F8B5FA8.jpg?v=1789752826
   Price: $50.00 USD
-- [Angel Trucker (vintage black)](https://www.rich-society.com/products/angel-trucker-vintage-black): Vintage black hat w/ embroidery patch.
-  Updated: 2026-09-19T15:22:51Z
+- [“blessmeup”
+ unconstructed snapback (vintage black)](https://www.rich-society.com/products/angel-trucker-vintage-black): Vintage black hat w/ embroidery patch.
+  Updated: 2026-09-26T15:41:35Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
@@ -242,6 +244,15 @@
 - [Home page](https://www.rich-society.com/collections/frontpage)
   Updated: 2026-08-20T02:28:32Z
   Total Products: 0
+- [Headwear](https://www.rich-society.com/collections/headwear): Hats
+  Updated: 2026-09-26T03:42:27Z
+  Total Products: 4
+- [Sets](https://www.rich-society.com/collections/sets): Jogging Suits
+  Updated: 2026-09-26T00:48:18Z
+  Total Products: 6
+- [Tees](https://www.rich-society.com/collections/tees)
+  Updated: 2026-09-26T00:49:32Z
+  Total Products: 2
 
 ## Store Pages
 
