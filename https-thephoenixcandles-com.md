@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-09-22T19:39:14.974Z
+- Updated At: 2026-09-30T17:15:18.653Z
 
 ## Products
 
 - [Perseverance | Tiger's Eye Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-tigers-eye-crystal-infused-candle): Perseverance is an aromachology soy candle with tiger's eye. Grounding gardenia and mandarin for the days you need to remember your own strength. Handmade in NJ
-  Updated: 2026-09-21T18:06:43Z
+  Updated: 2026-09-24T19:23:28Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
@@ -144,7 +144,7 @@
 ## Collections
 
 - [classics](https://thephoenixcandles.com/collections/classics): The candles that started it all. Seven small-batch Aromachology soy candles, each paired with a genuine crystal and built on fragrance notes research has linked to specific emotional states. Handcrafted in New Jersey.
-  Updated: 2026-09-21T18:06:44Z
+  Updated: 2026-09-25T11:19:47Z
   Total Products: 7
 - [the lab](https://thephoenixcandles.com/collections/the-lab): Small-batch Aromachology soy candles born from our creative process. Poured with the same love and clean ingredients as our core collection. Handcrafted in NJ.
   Updated: 2026-09-20T11:17:02Z
@@ -156,16 +156,16 @@
   Updated: 2026-07-08T22:28:05Z
   Total Products: 1
 - [spring picks](https://thephoenixcandles.com/collections/spring-picks): You've been running on fumes since January — holding it together through the cold, the dark, the endless demands. But something is shifting. The light is coming back, and so is that quiet voice inside you whispering: it's time. Not time to add more. Time to let yourself bloom. These three candles were chosen for this season because they meet you exactly where you are — exhausted but hopeful, worn but ready. Let them be your first intentional act of renewal.Every candle is hand-poured in small batches — never mass-produced, always made with intention. New drops release every 4 to 6 weeks. Join the List to be the first to know when the next batch is ready.
-  Updated: 2026-09-21T18:06:44Z
+  Updated: 2026-09-25T11:19:47Z
   Total Products: 3
 - [shop all](https://thephoenixcandles.com/collections/shop-all): Handcrafted aromachology soy candles infused with crystals, wooden wicks, and toxin-free fragrance. Built on scent science, made by hand in New Jersey. Shop now.
-  Updated: 2026-09-21T18:06:44Z
+  Updated: 2026-09-25T11:19:47Z
   Total Products: 17
 - [summer edit](https://thephoenixcandles.com/collections/summer-edit): Three soy candles for the woman summer drains instead of restores. Be held, choose your light, believe in renewal. Science-backed Aromachology, soul-led ritual.
   Updated: 2026-09-22T19:08:29Z
   Total Products: 4
-- [fall edit](https://thephoenixcandles.com/collections/fall-edit): Fall asks more of you. It always does. The school year. The work push. The holidays stacking up before you've had a chance to catch your breath. From the outside, you handle it. You always do. This edit is for what's happening underneath that. Three candles, one quiet arc: keep going, go inward, come home to yourself. Perseverance moves alongside you on the days that demand everything. Intuition brings you back to what you already know, when the noise gets loud. Namaste is the stillness waiting at the end — not a reward you have to earn, but a place you already belong. Aromachology built on scent notes research has associated with strength, clarity, and grounding. Craftswomanship in every pour.
-  Updated: 2026-09-21T18:14:27Z
+- [fall edit](https://thephoenixcandles.com/collections/fall-edit): Fall asks more of you. It always does. The school year. The work push. The holidays stacking up before you've had a chance to catch your breath. From the outside, you handle it. You always do. This edit is for what's happening underneath that. Three candles, one quiet arc: keep going, trust yourself, come home. Perseverance moves alongside you on the days that demand everything. Intuition keeps you company while you trust what you already know. Namaste is for the quiet at the end of the day. Not a reward you have to earn. A place you already belong. Aromachology built on scent notes research has associated with strength, clarity, and grounding. Craftswomanship in every pour.
+  Updated: 2026-09-28T18:56:05Z
   Total Products: 3
 
 ## Blogs
