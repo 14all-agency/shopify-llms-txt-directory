@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-22T18:22:53Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-21T00:00:38.766Z
+- Updated At: 2026-09-30T00:00:39.884Z
 
 ## Products
 
 - [Wannabe Cowboy Hat | Zach John King Official Merch Store](https://zachjohnking.shop/products/wannabe-cowboy-hat): Embroidered "Wannabe Cowboy" hat. 5-Panel stone washed canvas hat with adjustable plastic snap closure.
-  Updated: 2026-09-20T02:39:36Z
+  Updated: 2026-09-26T16:48:37Z
   Vendor: Zach John King
   Product Type: Accessories
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Portrait Tee](https://zachjohnking.shop/products/zjk-portrait-tee): ZJK Portrait Tee in black with front print only. 100% cotton
-  Updated: 2026-09-15T05:36:27Z
+  Updated: 2026-09-29T03:32:51Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -62,6 +62,30 @@
   - [3XL](https://zachjohnking.shop/products/zjk-portrait-tee?variant=47194088767714)
     Availability: Available
     Price: $20.00 USD
+- [Slow Down Camo Tee](https://zachjohnking.shop/products/slow-down-camo-tee): 100% cotton camo RealTree t-shirt featuring front and back design.
+  Updated: 2026-09-25T06:36:47Z
+  Vendor: Zach John King
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKCAMOTEE-2.png?v=1781799141
+  - [S](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46583948837090)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [M](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46583948902626)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [L](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46583948869858)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [XL](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46583948935394)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [2XL](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46583948968162)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [3XL](https://zachjohnking.shop/products/slow-down-camo-tee?variant=46613729771746)
+    Availability: Available
+    Price: $25.00 USD
 - [Photo Tour Tee](https://zachjohnking.shop/products/photo-tour-tee): ZJK Photo Tour Tee in white with front and back print. 100% Cotton
   Updated: 2026-09-20T02:39:35Z
   Vendor: Zach John King
@@ -98,7 +122,7 @@
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKIMWHATYOUGETCD.png?v=1781641096
   Price: $14.99 USD
 - [I'm What You Get Tee](https://zachjohnking.shop/products/im-what-you-get-tee): In honor for ZJK's debut album: I'm What You Get Tee in black with front and back print. 100% Cotton
-  Updated: 2026-09-20T02:39:36Z
+  Updated: 2026-09-28T00:43:56Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -119,7 +143,7 @@
     Availability: Available
     Price: $25.00 USD
 - [I'm What You Get - Vinyl](https://zachjohnking.shop/products/im-what-you-get-vinyl): Zach John King's debut album, I'm What You Get on a Standard Black Vinyl. Track List: I’m What You Get Run For Them Hills Whiskey Lying Way To Go (feat. Brooks & Dunn) How To Not Get To Drinkin Beneath The Pines Shoulda Coulda Woulda Mama’s Praying Backwoods Little Bit Stronger Choppin’ Wood (feat. Brent Cobb) Lose You Homegrown Heaven Sunsets In Georgia Life Behind Bars (with Bayker Blankenship) High Like Her Happy For You Space What I’m Giving Up
-  Updated: 2026-09-20T16:31:27Z
+  Updated: 2026-09-29T18:46:48Z
   Vendor: Zach John King
   Product Type: Music
   Availability: Available
@@ -129,31 +153,31 @@
 ## Collections
 
 - [Home page](https://zachjohnking.shop/collections/frontpage)
-  Updated: 2026-09-20T11:20:42Z
-  Total Products: 14
+  Updated: 2026-09-29T11:20:02Z
+  Total Products: 15
 - [Apparel](https://zachjohnking.shop/collections/apparel)
-  Updated: 2026-09-20T11:20:42Z
-  Total Products: 10
+  Updated: 2026-09-29T11:20:02Z
+  Total Products: 11
 - [Accessories](https://zachjohnking.shop/collections/accessories)
-  Updated: 2026-09-20T11:20:42Z
+  Updated: 2026-09-27T11:18:51Z
   Total Products: 8
 - [Hats](https://zachjohnking.shop/collections/hats)
-  Updated: 2026-09-20T11:20:42Z
+  Updated: 2026-09-27T11:18:51Z
   Total Products: 4
 - [Music](https://zachjohnking.shop/collections/music)
-  Updated: 2026-09-19T11:19:20Z
+  Updated: 2026-09-27T11:18:51Z
   Total Products: 4
 - [All](https://zachjohnking.shop/collections/all)
-  Updated: 2026-09-20T11:20:42Z
-  Total Products: 12
+  Updated: 2026-09-29T11:20:02Z
+  Total Products: 15
 - [I'm What You Get](https://zachjohnking.shop/collections/im-what-you-get)
-  Updated: 2026-09-20T11:20:42Z
+  Updated: 2026-09-28T11:18:15Z
   Total Products: 9
 - [I'm What You Get Media](https://zachjohnking.shop/collections/im-what-you-get-media)
-  Updated: 2026-09-19T11:19:20Z
+  Updated: 2026-09-27T11:18:51Z
   Total Products: 4
 - [I'm What You Get Merch](https://zachjohnking.shop/collections/im-what-you-get-merch)
-  Updated: 2026-09-20T11:20:42Z
+  Updated: 2026-09-28T11:18:15Z
   Total Products: 2
 - [I'm What You Get Fan Packs](https://zachjohnking.shop/collections/im-what-you-get-fan-packs)
   Updated: 2026-09-16T17:31:47Z
