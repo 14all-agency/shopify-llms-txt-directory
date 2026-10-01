@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2026-07-07T23:54:29Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-09-21T00:00:32.428Z
+- Updated At: 2026-10-01T00:00:35.458Z
 
 Conscious Soulopreneur Africa is an independent publisher of philosophy and self-development books, authored by Carlos Ruben Lauthier Wendt. Our titles are available in English and Spanish, offered as instant digital downloads and print-on-demand physical copies fulfilled via Lulu. We are Africa-based with a global readership, focused on practical wisdom, conscious living, and personal transformation.
 
@@ -86,6 +86,18 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
     Author: Carlos Ruben Lauthier Wendt
   - [Embarking on Inner Journeys How Self Growth and an eBook in Personal Development Enhance Mind and Body Enlightenment](https://conscioussoulopreneur.africa/blogs/news/embarking-on-inner-journeys-how-self-growth-and-an-ebook-in-personal-development-enhance-mind-and-body-enlightenment): Embarking on Inner Journeys How Self Growth and an eBook in Personal Development Enhance Mind and Body Enlightenment
     Updated: 2026-09-19T21:01:03Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Master Your Conscious Me A How-to Guide Unleashing Self Growth with Our eBook in Personal Development Mind and Body](https://conscioussoulopreneur.africa/blogs/news/master-your-conscious-me-a-how-to-guide-unleashing-self-growth-with-our-ebook-in-personal-development-mind-and-body): Master Your Conscious Me A How-to Guide Unleashing Self Growth with Our eBook in Personal Development Mind and Body
+    Updated: 2026-09-22T21:00:20Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Exploring Self Growth The Power of an eBook in Personal Development for Mind and Body Transformation](https://conscioussoulopreneur.africa/blogs/news/exploring-self-growth-the-power-of-an-ebook-in-personal-development-for-mind-and-body-transformation): Exploring Self Growth The Power of an eBook in Personal Development for Mind and Body Transformation
+    Updated: 2026-09-24T21:00:20Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Discover Self Growth and Empower Your Conscious Me with Who Do You Think You Are eBook in Personal Development and Mind and Body Awakening](https://conscioussoulopreneur.africa/blogs/news/discover-self-growth-and-empower-your-conscious-me-with-who-do-you-think-you-are-ebook-in-personal-development-and-mind-and-body-awakening): Discover Self Growth and Empower Your Conscious Me with Who Do You Think You Are eBook in Personal Development and Mind and Body Awakening
+    Updated: 2026-09-26T21:00:52Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [The Transformative Journey of Self Growth Unveiled Through Our eBook in Personal Development for Mind and Body Enlightenment](https://conscioussoulopreneur.africa/blogs/news/the-transformative-journey-of-self-growth-unveiled-through-our-ebook-in-personal-development-for-mind-and-body-enlightenment): The Transformative Journey of Self Growth Unveiled Through Our eBook in Personal Development for Mind and Body Enlightenment
+    Updated: 2026-09-29T21:00:26Z
     Author: Carlos Ruben Lauthier Wendt
 
 ## Store Pages
