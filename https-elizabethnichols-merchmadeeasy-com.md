@@ -6,61 +6,61 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-14T20:53:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-23T17:12:12.137Z
+- Updated At: 2026-10-01T00:00:23.882Z
 
 ## Products
 
 - [I Got A New One Elizabeth Nichols Dad Hat](https://elizabethnichols.merchmadeeasy.com/products/i-got-a-new-one-hat): I Got A New One Dad Hat in shade "stone" with front, back, and side embroidery. Adjustable back closure
-  Updated: 2026-09-23T16:57:25Z
+  Updated: 2026-09-30T19:56:31Z
   Vendor: Elizabeth Nichols
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHIGOTANEWONEHAT.png?v=1789590556
-  Price: $40.00 USD
+  Price: $35.00 USD
 - [Elizabeth Nichols Photo Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/photo-tee): Elizabeth Nichols Photo Tee in white with front print only. 100% Cotton
-  Updated: 2026-09-23T16:57:25Z
+  Updated: 2026-09-30T17:27:45Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHPHOTOTEE.png?v=1789590940
   - [S](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032364268)
     Availability: Available
-    Price: $35.00 USD
+    Price: $40.00 USD
   - [M](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032397036)
     Availability: Available
-    Price: $35.00 USD
+    Price: $40.00 USD
   - [L](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032429804)
     Availability: Available
-    Price: $35.00 USD
+    Price: $40.00 USD
   - [XL](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032462572)
     Availability: Available
-    Price: $35.00 USD
+    Price: $40.00 USD
   - [2XL](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032495340)
     Availability: Available
-    Price: $35.00 USD
+    Price: $40.00 USD
 - [You're Welcome Hoodie Elizabeth Nicholes](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie): You're Welcome Hoodie in light blue with front, back, and sleeve print. 80% Cotton / 20% Polyester
-  Updated: 2026-09-23T16:57:25Z
+  Updated: 2026-09-30T23:01:46Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHYOU_REWELCOMEHOODIE.png?v=1789591332
   - [S](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie?variant=48369170874604)
     Availability: Available
-    Price: $70.00 USD
+    Price: $80.00 USD
   - [M](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie?variant=48369170907372)
     Availability: Available
-    Price: $70.00 USD
+    Price: $80.00 USD
   - [L](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie?variant=48369170940140)
     Availability: Available
-    Price: $70.00 USD
+    Price: $80.00 USD
   - [XL](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie?variant=48369170972908)
-    Availability: Available
-    Price: $70.00 USD
+    Availability: Not Available
+    Price: $80.00 USD
   - [2XL](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie?variant=48369171005676)
-    Availability: Available
-    Price: $70.00 USD
+    Availability: Not Available
+    Price: $80.00 USD
 - [Elizabeth Nichols Kiss and Tour Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee): Kiss and Tour Tee in white with front print and back print. 100% Cotton
-  Updated: 2026-09-23T16:57:25Z
+  Updated: 2026-09-30T17:27:29Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -75,7 +75,7 @@
     Availability: Available
     Price: $40.00 USD
   - [XL](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee?variant=48369213473004)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee?variant=48369213505772)
     Availability: Available
@@ -84,22 +84,22 @@
 ## Collections
 
 - [Home page](https://elizabethnichols.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-16T20:49:02Z
+  Updated: 2026-09-30T11:27:29Z
   Total Products: 4
 - [Apparel](https://elizabethnichols.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-16T21:27:32Z
+  Updated: 2026-09-30T11:27:29Z
   Total Products: 3
 - [Accessories](https://elizabethnichols.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-16T21:27:32Z
+  Updated: 2026-09-28T18:28:59Z
   Total Products: 1
 - [Hats](https://elizabethnichols.merchmadeeasy.com/collections/hats)
-  Updated: 2026-09-16T21:27:32Z
+  Updated: 2026-09-28T18:28:59Z
   Total Products: 1
 - [Music](https://elizabethnichols.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-16T21:27:33Z
+  Updated: 2026-09-28T18:28:59Z
   Total Products: 0
 - [All](https://elizabethnichols.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-16T21:27:33Z
+  Updated: 2026-09-30T11:27:29Z
   Total Products: 4
 
 ## Store Pages
@@ -108,6 +108,8 @@
   Updated: 2026-09-14T20:53:50Z
 - [Your Privacy Choices](https://elizabethnichols.merchmadeeasy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-14T20:53:52Z
+- [Withdrawal form](https://elizabethnichols.merchmadeeasy.com/pages/eu-withdrawal-form)
+  Updated: 2026-09-23T17:13:05Z
 
 ## Policies
 
