@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-12-01T19:12:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-24T00:00:41.745Z
+- Updated At: 2026-10-01T00:00:43.937Z
 
 ## Products
 
@@ -272,11 +272,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://james.merchmadeeasy.com/policies/privacy-policy)
   Updated: 2026-06-19T10:10:23-05:00
 - [Shipping Policy](https://james.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2025-12-01T13:47:41-06:00
+  Updated: 2026-09-25T10:48:49-05:00
 - [Refund Policy](https://james.merchmadeeasy.com/policies/refund-policy)
   Updated: 2026-06-19T10:10:15-05:00
 - [Terms of Service](https://james.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2025-12-01T13:47:12-06:00
+  Updated: 2026-09-25T10:48:32-05:00
 - [Contact Information](https://james.merchmadeeasy.com/policies/contact-information)
   Updated: 2025-12-01T13:47:50-06:00
 
