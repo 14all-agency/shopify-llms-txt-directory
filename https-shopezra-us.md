@@ -6,496 +6,12 @@
 - Timezone: America/Detroit
 - Created At: 2026-06-26T23:19:50Z
 - Contact Email: onesimebi2020@gmail.com
-- Updated At: 2026-09-20T06:29:08.627Z
+- Updated At: 2026-10-01T00:00:36.342Z
 
 ## Products
 
-- [Women's white one-shoulder floor-length evening dress with a fish tail design](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design): Overview Elegant Design: High-end off-shoulder fishtail gown, perfect for host banquets and formal occasions. Timeless Color: Classic white, symbolizing purity and elegance for special events. New Style: 2026 fashionable design, ensuring a modern and sophisticated look. Figure-Flattering: Fishtail silhouette accentuates curves and creates a sleek, glamorous appearance. Specifications Color: White Sizes Available: S, M, L, XL, XXL Packing List dress*1
-  Updated: 2026-09-17T06:21:35Z
-  Vendor: shopezra
-  Product Type: Evening Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/26f5af16-ab55-4bd0-b696-0f4ba0e95f39.jpg?v=1789534340
-  - [White / S](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design?variant=44042850566206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f78d6433-dc7d-4bff-9335-470d84abbe8d.jpg?v=1789534340
-    Price: $268.99 USD
-  - [White / M](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design?variant=44042850598974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/866053c2-9ea5-4126-acc3-dbb9d99b7a6e.jpg?v=1789534340
-    Price: $268.99 USD
-  - [White / L](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design?variant=44042850631742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/90ed28f5-63d6-4a62-8523-a9d727f147f2.jpg?v=1789534340
-    Price: $268.99 USD
-  - [White / XL](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design?variant=44042850664510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/43ed7b5c-594b-45ac-a4ed-21a1e0559e96.jpg?v=1789534340
-    Price: $268.99 USD
-  - [White / XXL](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design?variant=44042850697278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3ae51077-e1d3-441d-b40c-77e25c52f7d6.jpg?v=1789534340
-    Price: $268.99 USD
-- [Convertible Off-Shoulder Long Evening Gown with Slit](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit): Overview Convertible Design: Versatile off-shoulder or high-neck styling for multiple elegant looks Backless Feature: Sophisticated open-back design enhancing formal appeal Slit Detailing: Flattering thigh-high split adding movement and allure Elegant Silhouette: Flowing long gown tailored for formal occasions Specifications Material: Polyester (polyester fiber) Colors: Sage green, Royal blue, Gray blue, Champagne color, Custom colors (contact service) Sizes: US2 to US16, US14W to US26W Length: Long skirt with trailing tail Neckline: Convertible high-neck or off-shoulder Sleeves: Sleeveless Waist: Mid-rise Packing List evening gown*1
-  Updated: 2026-09-17T07:22:44Z
-  Vendor: shopezra
-  Product Type: Evening Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d65abe59-3338-4d7e-bb64-c8c0f790377a.jpg?v=1789534399
-  - [Sage Green / US 2](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856267838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6d699329-a780-4fa4-8c15-a0e10dd38f92.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 4](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856300606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/db9be156-f19d-4c50-83ff-d65f1648acbf.jpg?v=1789534398
-    Price: $114.99 USD
-  - [Sage Green / US 6](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856333374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e4635971-7469-4134-9331-42ae00101fae.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 8](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856366142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3ba6ec65-4736-4168-8a87-4b8a4750aea0.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 10](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856398910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e35c9c02-ebdf-4780-ae42-f5e4fbe18a34.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 12](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856431678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/740aaeba-03ab-4e98-8cc4-67b652ebe102.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 14](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856464446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a33b9cfd-c820-493f-a9a7-289990e53d1f.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 16](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856497214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/722a1013-f2db-42c6-9adc-aaa8e0b7ca4c.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 14W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856529982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/205939f1-85ff-47ce-bfcf-e7de44b67c31.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 16W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856562750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5530a30f-206a-4e3f-9227-9102c1df4d3f.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 18W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856595518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f8109fb6-85d7-46fd-b049-861748b5f9b7.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 20W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856628286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8114bc05-091d-44c4-bb19-733054c96c7c.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 22W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856661054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9eedf7d1-45ba-44c5-8fc9-cfa578de3bbc.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 24W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856693822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e4265250-322c-462a-9127-d9e194681a10.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Sage Green / US 26W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856726590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/49ae1066-fc70-4994-90fa-7da50d588feb.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 2](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856759358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b342f5d9-3c45-4685-aa68-d6f9e20bee69.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 4](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856792126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/52241f5e-4832-4478-845c-375f14a68aa5.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 6](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856824894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4a6b0e6a-c6f9-45e3-92c5-647781e7e874.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 8](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856857662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3c8a40ad-acc6-44b6-903d-17946186e1eb.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 10](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856890430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/93dea50c-eb22-4f44-9511-6372c4ba1d96.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 12](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856923198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/861a0649-26ab-4941-8f24-baab12572086.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 14](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856955966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0e6280e0-0b1a-45e1-9ae6-0ee061301d58.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 16](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042856988734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8b331021-4bf8-4513-ab9f-b2c94e9d6384.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 14W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857021502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/af62ad69-5fa6-4936-9177-31cc4405d95c.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 16W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857054270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/28ffc220-0a61-4828-9b55-4f6d3bc5efe3.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 18W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857087038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/08560f75-34c6-4dcf-b454-ed09b435fee5.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 20W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857119806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/38902987-4084-488c-bbed-37059416aacf.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 22W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857152574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/955694b7-5ee3-463a-a1e7-98d69519cb9d.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 24W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857185342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/16d382fe-28eb-4206-b60e-d2327e32801a.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Navy Blue / US 26W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857218110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e3359b86-c8e4-4a07-a28b-4f1b3ba7b39a.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 2](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857250878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/19e966f7-d1d0-4e88-868d-2272396c68ae.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 4](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857283646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cf6b8db5-033c-4feb-8a07-6b025d1d0f85.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 6](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857316414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/96ab1f8c-9687-4e79-8405-aeb62e710658.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 8](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857349182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/87fe8040-c541-4024-90ea-a58f1471b6a7.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 10](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857381950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fa8d92f5-34f2-4826-84ae-772d80a984e5.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 12](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857414718)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b3f9274b-14c0-4f50-897a-c82d8c051a20.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 14](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857447486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/357db5a1-822f-453a-86ce-9810995a8229.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 16](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857480254)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/64c4091c-c6ef-4bd0-af20-d4428b806151.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 14W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857513022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6ac7d54b-6068-4474-b397-1e3c0c1e1c92.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 16W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857545790)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5f5498fb-4589-48db-bc83-741dc89d7f9a.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 18W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857578558)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/64c12d74-baa0-4fe1-8654-4766aec40fb7.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 20W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857611326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c1c44e1b-a79b-47a9-944e-2cb9ea9a3dfb.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 22W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857644094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/93ed5c61-770c-4bdc-b7d5-2366f38bb77d.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 24W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857676862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/81404a91-4633-4300-ad48-3831192ed061.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Grey Blue / US 26W](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857709630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/07589521-458d-4441-be78-fa0563889bcd.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Champagne / US 2](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857742398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/faa8b130-face-43aa-adc7-3a21a91de90d.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Champagne / US 4](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857775166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3ca796f3-d3f7-4674-b009-fbb82c8a14b3.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Champagne / US 6](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857807934)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ea691ae9-52a3-4894-a43f-19c18b573c94.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Champagne / US 8](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857840702)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7e049e15-2430-424d-9ebd-7bf8849c426a.jpg?v=1789534399
-    Price: $114.99 USD
-  - [Champagne / US 10](https://shopezra.us/products/convertible-off-shoulder-long-evening-gown-with-slit?variant=44042857873470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0f78b063-840e-4df8-abbe-50546afbb643.jpg?v=1789534399
-    Price: $114.99 USD
-- [Men's Square Toe Chelsea Boots Ankle Boots](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots): Overview Classic Chelsea Design: Timeless ankle boot silhouette with elastic side panels for easy slip-on wear. Versatile Style: Suitable for casual and smart-casual outfits, pairing well with jeans, chinos, or trousers. Durable Construction: Features a plastic sole and artificial PU or suede upper for lasting wear. Comfort Features: Includes a mesh inner lining and an artificial hair insole for added comfort. Wide Size Range: Available in sizes 40 to 50, accommodating various foot sizes. Specifications Upper Material: Artificial PU or Suede Sole Material: Plastic Heel Height: Low heel (1-3cm) Heel Shape: Wedge Toe Shape: Square Closure Type: Side zipper Inner Material: Mesh Thickness: Ordinary thick Pattern: Solid color Available Colors: Pu black, Pu dark brown, Pu silver gray, Pu brown, Suede gray, Suede light brown, Suede camel, Suede off-white, Suede black, Suede burgundy, Plaid black, Plaid burgundy, Plaid green, Plaid coffee, Plaid brown Available Sizes: 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 Packing List boots*1
-  Updated: 2026-09-17T05:20:29Z
-  Vendor: shopezra
-  Product Type: shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7ad3fa16-43ba-426d-9b0d-dfba306370dd.jpg?v=1789534444
-  - [Pu black / 40](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859642942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/68fd10a1-4261-4202-a6cf-bacdd76851fa.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 41](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859675710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ab5482f7-0db1-4dfb-8ebc-31779378f210.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 42](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859708478)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5bcc0947-e10d-46e0-af48-82a00af2b4e2.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 43](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859741246)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/19dc02f5-55e8-409d-bbc6-5e4867c68459.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 44](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859774014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e73398a5-6c3f-4880-b1a1-0dce753d4cb8.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 45](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859806782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/597639de-6763-4752-b7d7-6998a163a778.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 46](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859839550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/488146fc-2085-4d71-9bd5-1b2d60eb9561.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 47](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859872318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3a18a8a7-fec7-415e-98e0-60982683b9ab.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 48](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859905086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/53d94794-5b62-49b2-81f1-65547a40d012.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 49](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859937854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0aa2711d-3585-45e6-b00e-5b2da166980a.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu black / 50](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042859970622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c2bce856-ca29-40e6-b504-8c6f0cfcf10b.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 40](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860003390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6402683f-ac65-449f-bc8e-580399710e9b.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 41](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860036158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/94853da7-81a2-420c-b6e7-6b66fcaf7657.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 42](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860068926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/68c9b04d-8913-45a9-9fc9-d77937bc68ad.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 43](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860101694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a997f454-93cc-419f-b824-249e308cf1ba.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 44](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860134462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/13bcc976-b306-429b-acc4-e737c7249965.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 45](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860167230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/eb4c7543-3af6-484b-96e5-60cdca76f631.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 46](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860199998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7a206f79-ef83-412a-a23d-8c7dc1784c6d.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 47](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860232766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/efb2acd5-9aeb-4dcb-ba60-83c038b9a982.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 48](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860265534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e8c53064-c981-4880-a802-5aeb83952846.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 49](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860298302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fa5517af-90b0-499d-98c8-63de05a3dd78.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu dark brown / 50](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860331070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bef50c77-51e9-4d70-826c-6150ee598272.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 40](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860363838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fe139213-81e1-484c-ad2a-4b0d90d14bb7.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 41](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860396606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a6be2e8a-912b-4138-8da8-cfd347927b7d.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 42](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860429374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a7d1cc43-0409-4013-93df-d651f90b24ec.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 43](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860462142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e6c0fa5d-dc67-4050-9b50-79c2b262d3e0.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 44](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860494910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6322b2b1-a645-4185-8026-79c5e32f87b7.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 45](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860527678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3444e0d4-9d8b-4034-b9df-e39d2fad76a9.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 46](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860560446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d718390a-3256-49d7-8703-d312c77eb5d9.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 47](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860593214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4a906b6d-b712-4e5e-a639-6e9c0ad46d12.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 48](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860625982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8a5bb491-1eaa-4610-8c18-b3469e87fab1.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 49](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860658750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d0a0a8bc-1c06-46f4-a6db-6a13f7561815.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu silver gray / 50](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860691518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/96748089-6be9-4253-994e-ed1664b1afeb.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 40](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860724286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1b6b9059-b034-4161-ae5d-4c0c3255b3c3.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 41](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860757054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/90c06cda-9608-4de3-bf99-291deebf06eb.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 42](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860789822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/28ac7cf6-8e89-4165-8852-dc69fcc02380.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 43](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860822590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/267548b3-5f99-4d5e-a0c7-80b18fe7b42f.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 44](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860855358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8538b9c3-cd34-455f-a616-b4c1e092fb1f.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 45](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860888126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/67fb30c3-1986-47db-a442-b05d2d6b7571.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 46](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860920894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/96f3c7d3-178f-4cb6-8460-2c6266bffaa9.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 47](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860953662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b63c32d8-18c1-4300-8e97-76145bf38db5.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 48](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042860986430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/33c62f71-9cab-4d2f-8f9e-57790cbd3f6b.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 49](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861019198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/84b72eb6-a0a2-474e-8c91-cbb64e03af9f.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Pu brown / 50](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861051966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ed3e6679-b48c-4f82-9cd0-49a1f0ac2112.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 40](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861084734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/053d15f0-b0f8-456f-bdc4-91b2af37dc71.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 41](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861117502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8d5c1f85-f47f-4874-be6c-eee0982d05ad.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 42](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861150270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cd8e4501-2625-4597-8b46-34aa4b50004e.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 43](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861183038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fd389d63-79f2-493a-8e86-8388d534bf48.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 44](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861215806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/27935e05-05db-4015-980a-cd8aede445b2.jpg?v=1789534444
-    Price: $69.99 USD
-  - [Suede gray / 45](https://shopezra.us/products/mens-square-toe-chelsea-boots-ankle-boots?variant=44042861248574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4fefb00a-420c-44b3-9596-befa62958a32.jpg?v=1789534444
-    Price: $69.99 USD
-- [Men's Washed Straight-Leg Denim Pants](https://shopezra.us/products/mens-washed-straight-leg-denim-pants): Overview Retro Washed Design: Classic American vintage style with distressed wash for authentic, timeless appeal Comfortable Fit: Loose wide-leg and straight-cut silhouette for ease of movement High-Quality Fabric: 89.5% cotton denim offering durability and breathability Versatile Style: Cleanfit design suitable for casual and leisure occasions Functional Details: Pocket decorations and zipper closure for practicality Specifications Material: 89.5% cotton denim Fit: Straight-leg, wide loose fit Waist Type: Mid-waist Length: Full-length pants Closure: Zipper fly Leg Opening: Straight hem Process: Woven craftsmanship, washed and aged  Color: Blue-black Sizes Available: 28, 29, 30, 31, 32, 33, 34, 36, 38, 40 Packing List pants*1
-  Updated: 2026-09-17T03:03:08Z
-  Vendor: shopezra
-  Product Type: man pants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ecc47508-c2e3-42a6-b314-c5d874063df9.jpg?v=1789534522
-  - [Blue-black / 28](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865016894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f5b5d89b-777b-4309-b368-9954c092d300.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 29](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865049662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0f9799b0-53a5-4cfa-a6fa-9aa9ea58fea5.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 30](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865082430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b9f5ed77-f349-4982-a423-84d54d84058f.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 31](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865115198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/350962f0-3831-4615-adf2-dfa3f686087c.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 32](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865147966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c8000a3c-acb7-4eb9-a486-c94028d4a8ab.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 33](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865180734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/78609a48-d347-46f8-812f-549e4cf8c894.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 34](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865213502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c9da4065-3a2a-4da4-a578-064dc7d17a2d.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 36](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865246270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fb2484d0-68df-4473-bef6-6a17e393229a.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 38](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865279038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/940e0406-633b-4ec0-9679-7aea9baed47f.jpg?v=1789534522
-    Price: $76.99 USD
-  - [Blue-black / 40](https://shopezra.us/products/mens-washed-straight-leg-denim-pants?variant=44042865311806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c2c62b31-4fe3-4651-816c-5565ba3b41d4.jpg?v=1789534522
-    Price: $76.99 USD
-- [V-Neck Bodycon Fishtail Evening Dress](https://shopezra.us/products/v-neck-bodycon-fishtail-evening-dress): Overview V-Neck Design: Elegant V-neckline enhances sophistication and feminine appeal. Bodycon Fit: Slim-fit silhouette contours to the body for a flattering shape. Fishtail Hem: Dramatic fishtail train adds elegance and movement. Evening Wear: Ideal for formal events, banquets, and special occasions. Polyester Fabric: Durable, wrinkle-resistant, and easy to care for. Specifications Material: 100% Polyester Colors: Red, Black Sizes: US2 to US26W (including standard and plus sizes) Dress Length: Long (ankle-length) Sleeve Type: Sleeveless Closure: Back zipper (details may vary) Style: A-line silhouette with fitted bodice Packing List dress*1
-  Updated: 2026-09-17T08:39:21Z
+- [V-Neck Bodycon Fishtail Evening Dress | ShopEZRA](https://shopezra.us/products/v-neck-bodycon-fishtail-evening-dress): Shop V-Neck Bodycon Fishtail Evening Dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:12Z
   Vendor: shopezra
   Product Type: Evening Dress
   Availability: Available
@@ -612,15 +128,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fd965c22-28f1-4969-af04-843f3ff9843c.jpg?v=1789534580
     Price: $117.99 USD
-- [Cherry Blossom Essence Cream](https://shopezra.us/products/cherry-blossom-essence-cream): Overview Cherry Blossom Essence - Infused with cherry blossom extract for gentle, nourishing care. Moisturizing Formula - Provides deep hydration to keep skin soft and supple. Skin Revitalization - Helps improve skin texture and promote a radiant complexion. English Packaging - Designed for international markets with clear English labeling. Specifications Product Type: Face Cream Net Content: 60g Shelf Life: 60 months Applicable Skin Type: All skin types Packing List Cherry Blossom Essence Cream*1
-  Updated: 2026-09-17T05:50:00Z
-  Vendor: shopezra
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/004bb68b-bbcb-40c7-b027-f2a2f5333c17.jpg?v=1789534626
-  Price: $28.99 USD
-- [Modal Seamless Camisole Women Sleeveless Vest](https://shopezra.us/products/modal-seamless-camisole-women-sleeveless-vest): Overview Seamless Design: Smooth, one-piece construction for comfortable wear without irritation. Modal Fabric: Soft, breathable, and moisture-wicking material for all-day comfort. Versatile Wear: Suitable as innerwear or outerwear, easily layered for various styles. Anti-Running: Dyeing technology prevents color fading and maintains appearance. Plus Size Options: Available in extended sizes for inclusive fitting. Specifications Material: Modal (Viscose Fiber) Weight: Moderate (181-200g/square meter) Colors: Black, White, Gray, Khaki Sizes: M, L, XL, 2XL, 3XL Collar: Round Neck Style: Vest, Seamless Packing List camisole*1
-  Updated: 2026-09-17T04:51:30Z
+- [Modal Seamless Camisole Women Sleeveless Vest | ShopEZRA](https://shopezra.us/products/modal-seamless-camisole-women-sleeveless-vest): Shop Modal Seamless Camisole Women Sleeveless Vest. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:12Z
   Vendor: shopezra
   Product Type: Tops
   Availability: Available
@@ -705,8 +214,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3e9dc008-1b1c-49b3-afe8-f779bf02a664.jpg?v=1789534695
     Price: $24.99 USD
-- [Rosemary Hair Care Essential Oil](https://shopezra.us/products/rosemary-hair-care-essential-oil): Overview Rosemary Formula - Natural rosemary extract helps improve hair texture and reduce frizz Split End Repair - Specialized care for fragile and split ends, enhancing hair resilience Smoothing Effect - Provides smooth, manageable hair with reduced tangles Damage Recovery - Repairs hair damage from chemical treatments like perming and coloring Universal Application - Suitable for all hair types Specifications Net Content: 100ml/120ml Product Type: Hair oil Efficacy: Strengthen hair, drapes smoothly, fragile split end care, hair damage repair, improve frizz Applicable Hair Type: General Packing List Hair care serum*1
-  Updated: 2026-09-17T06:38:29Z
+- [Rosemary Hair Care Essential Oil | ShopEZRA](https://shopezra.us/products/rosemary-hair-care-essential-oil): Shop Rosemary Hair Care Essential Oil. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:09Z
   Vendor: shopezra
   Product Type: Hair Oil
   Availability: Available
@@ -719,8 +228,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fefa7bf4-dfd2-4e00-a1d2-234d8d87979a.png?v=1789534705
     Price: $26.99 USD
-- [Mens Solid Color Work Jacket](https://shopezra.us/products/mens-solid-color-work-jacket): Overview Breathable fabric: Advanced material ensures optimal air circulation for comfort Moisture-wicking: Effectively absorbs and evaporates sweat to keep dry Versatile design: Classic solid color and Korean-style aesthetic suitable for multiple occasions Tailored fit: Slim-cut silhouette enhances modern, sophisticated appearance Functional pockets: Practical and stylish three-dimensional patch pockets Specifications Material: 80% polyester (outer), 80% polyester lining Colors: Black, Khaki Sizes: M, L, XL, 2XL, 3XL Collar: Lapel style Sleeve: Long regular sleeves Hem: Ribbed round hem Placket: Single-breasted Pattern: Solid color Packing List jacket*1
-  Updated: 2026-09-17T09:33:30Z
+- [Mens Solid Color Work Jacket | ShopEZRA](https://shopezra.us/products/mens-solid-color-work-jacket): Shop Mens Solid Color Work Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:11Z
   Vendor: shopezra
   Product Type: Men > Men's Clothing > Men's Jackets & Outerwear
   Availability: Available
@@ -765,8 +274,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4d76bd95-c9ce-46fd-abbd-e152f0625b39.jpg?v=1789534853
     Price: $54.99 USD
-- [Women's Hooded Winter Coat](https://shopezra.us/products/womens-hooded-winter-coat): Overview Hooded Design: Features a convenient and warm attached hood for added comfort and protection. Faux Fur Collar: Stylish and soft faux fur collar for an elegant winter look. Thick Cotton Filling: Provides excellent insulation and warmth for cold weather wear. Zipper Closure: Equipped with a practical zipper for easy wear and adjustable fit. Loose Fit: Relaxed and comfortable silhouette suitable for layering. Specifications Material: 70-80% Polyester (spun) fiber (fleece) Filling: Polyester cotton Collar Material: Faux raccoon fur Sleeve Type: Long sleeve Length: Short style (40-50cm garment length) Closure Type: Zipper Available Colors: Black, Beige, Navy Blue, Pink Available Sizes: M, L, XL, XXL Packing List coat*1
-  Updated: 2026-09-17T04:55:31Z
+- [Women's Hooded Winter Coat | ShopEZRA](https://shopezra.us/products/womens-hooded-winter-coat): Shop Women's Hooded Winter Coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:08Z
   Vendor: shopezra
   Product Type: jacket
   Availability: Available
@@ -835,8 +344,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d8f19d65-bdd6-4fdc-9ad5-b3472bd7d0d3.jpg?v=1789534910
     Price: $141.99 USD
-- [Womens Hooded Woolen Cloak Jacket](https://shopezra.us/products/womens-hooded-woolen-cloak-jacket): Overview Korean Chic Style: Modern Korean-inspired design with elegant aesthetics Hooded Design: Features a practical and stylish hood for added comfort Loose Fit: Relaxed silhouette offering ease of movement and versatility Woolen Material: Crafted from quality wool blend for warmth and durability Retro Elegance: Timeless vintage-inspired appearance suitable for various occasions Specifications Material: Polyester blend (wool-like texture) Colors: Black, Khaki, Apricot Sizes: S, M, L, XL, 2XL Clothing Length: Mid-length (65cm?80cm) Sleeve Length: Long sleeve Collar Type: Hooded Closure Type: Lace-up front Pattern: Solid color Fit: Slim fit Thickness: Medium Packing List woolen cloak*1
-  Updated: 2026-09-17T04:54:17Z
+- [Womens Hooded Woolen Cloak Jacket | ShopEZRA](https://shopezra.us/products/womens-hooded-woolen-cloak-jacket): Shop Womens Hooded Woolen Cloak Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:13Z
   Vendor: shopezra
   Product Type: jacket
   Availability: Available
@@ -901,8 +410,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/325f0400-8733-4923-acee-8d83de5df320.jpg?v=1789534973
     Price: $78.99 USD
-- [Sexy Slim Fit Slit Suspender Dress](https://shopezra.us/products/sexy-slim-fit-slit-suspender-dress): Overview Slit Design: Features a stylish slit that adds a touch of allure and modernity. Slimming Fit: Tailored to create a flattering, body-hugging silhouette. Suspender Style: Unique suspender design for a trendy and sexy look. Versatile Dress: Suitable for summer parties, night outs, and casual wear. Soft Fabric: Made from comfortable polyester material for all-day wear. Specifications Fabric: Polyester Pattern: Solid Color Craft: Compound Style: Pullover Skirt Length: Long Skirt Type: Pencil Skirt Neckline: Round Neck Sleeve: Sleeveless Waist: Mid-Waist Feature: Open-Back Season: Summer 2025 Closure: Pullover Packing List dress*1
-  Updated: 2026-09-17T05:00:17Z
+- [Sexy Slim Fit Slit Suspender Dress | ShopEZRA](https://shopezra.us/products/sexy-slim-fit-slit-suspender-dress): Shop Sexy Slim Fit Slit Suspender Dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:12Z
   Vendor: shopezra
   Product Type: dress
   Availability: Available
@@ -987,8 +496,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/be021d29-2df5-4124-b80b-25f6b99b40a8.jpg?v=1789535018
     Price: $34.99 USD
-- [Half-pack and home cotton slippers](https://shopezra.us/products/half-pack-and-home-cotton-slippers): Overview Warmth: Thickened design with plush cotton lining for excellent thermal insulation in cold seasons Comfort: Soft suede upper and rubber sole provide flexible, lightweight indoor wear Anti-slip: Textured rubber outsole enhances safety on smooth surfaces Durability: Reinforced stitching and wear-resistant materials ensure long-lasting use Style: Minimalist toe-covered design with candy color options for modern home aesthetics Specifications Material: Suede upper, rubber sole, cotton inner lining Sizes: 250 (36-37), 260 (38-39), 270 (40-41), 280 (42-43), 290 (44-45) Colors: Camel, Khaki, Beige, Gray, Pink Sole Thickness: 1.5cm (midsole) - 3.5cm (total) Packing List Slippers*1
-  Updated: 2026-09-17T06:06:34Z
+- [Half-pack and home cotton slippers | ShopEZRA](https://shopezra.us/products/half-pack-and-home-cotton-slippers): Shop Half-pack and home cotton slippers. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:18Z
   Vendor: shopezra
   Product Type: shoes
   Availability: Available
@@ -1093,158 +602,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7cf134ae-2dfe-451a-990a-679a4d0f5197.jpg?v=1789535048
     Price: $45.99 USD
-- [Women Satin Camisole Nightgown Lace Lingerie with Built-in Bra Pads](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads): Overview Built-in Bra Pads Provides convenient support and coverage without needing an extra bra Sexy Lace Design Features delicate lace accents for an attractive, seductive look Versatile Wear Suitable for both indoor loungewear and outdoor wear Lightweight & Thin Made from lightweight satin fabric ideal for warm weather Comfortable Fit Soft and breathable polyester fabric for all-day comfort Specifications Fabric: Satin Main Material: Polyester Style: Camisole Neckline: V-Neck Sleeve Length: Sleeveless Skirt Length: Short Gram Weight: Moderate (141-160g/m2) Colors Available: White, Black, Wine Red, Pink, Champagne, Navy Blue Sizes Available: S, M, L, XL, XXL, XXXL Packing List Nightgown*1
-  Updated: 2026-09-17T04:29:16Z
-  Vendor: shopezra
-  Product Type: Sexy sleepwear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/69a4953f-2b05-4f56-a6b5-f1ac42fa8d86.jpg?v=1789535083
-  - [White / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927505470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1c3fe726-131c-4a3f-83a5-060362402bdc.png?v=1789535083
-    Price: $22.99 USD
-  - [White / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927538238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b5fe2dec-f6f5-4419-b364-75ed757c3557.png?v=1789535083
-    Price: $22.99 USD
-  - [White / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927571006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/04067890-58b7-4959-bd19-3a870590f8f5.png?v=1789535083
-    Price: $22.99 USD
-  - [White / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927603774)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/537407c9-1236-4f49-975e-35b693939646.png?v=1789535083
-    Price: $22.99 USD
-  - [White / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927636542)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/180f04d3-def1-4f3a-ab81-807b7d93a900.png?v=1789535083
-    Price: $22.99 USD
-  - [White / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927669310)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/345769c7-e211-45b7-9540-2041716e930f.png?v=1789535083
-    Price: $22.99 USD
-  - [black / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927702078)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/12b4cded-0ff1-4ba0-a49f-af4b1e98d4e9.png?v=1789535083
-    Price: $22.99 USD
-  - [black / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927734846)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ef1a6e17-9d6b-4be0-b005-89849b3c4191.png?v=1789535083
-    Price: $22.99 USD
-  - [black / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927767614)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5d89493d-3df3-4512-a01c-a9aae0529adb.png?v=1789535083
-    Price: $22.99 USD
-  - [black / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927800382)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4521033d-c6f8-4823-992a-2db2332898b1.png?v=1789535083
-    Price: $22.99 USD
-  - [black / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927833150)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9ba1850f-9c5c-43ad-a77e-b028e8a01098.png?v=1789535083
-    Price: $22.99 USD
-  - [black / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927865918)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/01f504fd-4970-473c-b566-f49aa3c8c58a.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927898686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f25e6ed6-7827-423d-95cb-7cc3448acbf6.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927931454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b735bd25-ff4a-4afc-a13b-02a0a9a2681c.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927964222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4c6a2eb0-a0d7-49de-9f64-3b799b0ca5bd.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042927996990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8806a2f7-34e0-415b-9a68-235e5f1b8eb5.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928029758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/12251588-dea0-490c-a252-4e711bcceaeb.png?v=1789535083
-    Price: $22.99 USD
-  - [Wine red / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928062526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ee658eee-081a-4919-9566-1e4db15ca04c.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928095294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d7b10a23-bd64-4cb8-b6cc-b1f6536ad08f.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928128062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a4cf1826-ab08-4b9f-baa7-9e6419a6a4ac.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928160830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/75f39740-382b-4fcb-b4ca-5c8ce2213001.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928193598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ed3fc3ef-5b1c-4eea-82d5-6847bcb81579.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928226366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/15400542-0563-46b5-8991-ed8f1e891e2d.png?v=1789535083
-    Price: $22.99 USD
-  - [Pink / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928259134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4dc457af-2ee0-4f50-b3cd-77b6233c8654.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928291902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a9e6e0b3-ee0b-402e-a8bf-df1b802474b3.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928324670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1e871f33-3788-4765-b331-7527a4123663.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928357438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ddd2ea25-0e35-4a61-b609-4ff55793c5aa.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928390206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9b49a1f6-0b9d-466e-ace6-fa53aa866557.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928422974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/22a0e6f6-55a6-4e5e-a6aa-78a18e391cf5.png?v=1789535083
-    Price: $22.99 USD
-  - [Champagne color / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928455742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/75c213b7-0361-4f0c-bbb9-41cb92540ee0.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / S](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928488510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/535f212e-f49f-45b8-bba9-c4551c27ad41.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / M](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928521278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f093b436-45a9-4706-abe8-19db40d4cfd0.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / L](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928554046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8dfe4a8e-96ba-4e95-bf57-85108b9a7c21.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / XL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928586814)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c7cb6dc0-f8c2-460a-8999-fdfd7b6455f1.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / XXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928619582)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b664ec03-de66-416d-bfe9-49dd3c6e74cb.png?v=1789535083
-    Price: $22.99 USD
-  - [Navy blue / XXXL](https://shopezra.us/products/women-satin-camisole-nightgown-lace-lingerie-with-built-in-bra-pads?variant=44042928652350)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0de6a831-523e-45c7-9b5a-e725dc1be5ba.png?v=1789535083
-    Price: $22.99 USD
-- [Women's white one-shoulder floor-length evening dress with a fish tail design](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design-1): Overview Elegant Design: High-end off-shoulder fishtail gown, perfect for host banquets and formal occasions. Timeless Color: Classic white, symbolizing purity and elegance for special events. New Style: 2026 fashionable design, ensuring a modern and sophisticated look. Figure-Flattering: Fishtail silhouette accentuates curves and creates a sleek, glamorous appearance. Specifications Color: White Sizes Available: S, M, L, XL, XXL Packing List dress*1
-  Updated: 2026-09-17T06:03:28Z
+- [Women's white one-shoulder floor-length evening dress with a fish tail design](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design-1): Shop Women's white one-shoulder floor-length evening dress with a fish tail design. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:08Z
   Vendor: shopezra
   Product Type: dress
   Availability: Available
@@ -1269,8 +628,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/73ec158a-04a1-45b6-bd48-9396879c1e73.jpg?v=1789535183
     Price: $268.99 USD
-- [Round neck fresh chiffon fashion dress](https://shopezra.us/products/round-neck-fresh-chiffon-fashion-dress): Overview Elegant Design: Features a round neck and pleated details for a sophisticated look. Chiffon Fabric: Made from lightweight, breathable polyester-spandex blend for comfort. Versatile Style: Suitable for various occasions with a timeless long dress silhouette. Multiple Colors: Available in a range of shades to match different preferences. Specifications Material: Polyester-spandex blend Neckline: Round neck Sleeve Type: Sleeveless Waist Type: Mid-waist Skirt Length: Long dress Craftsmanship: Folds Colors: Yellowish green, Black, Red, Light brown, Purple, White Sizes: XS, S, M, L, XL, XXL, XXXL Packing List dress*1 ??????????????????????????????????????????
-  Updated: 2026-09-17T06:46:58Z
+- [Round neck fresh chiffon fashion dress | ShopEZRA](https://shopezra.us/products/round-neck-fresh-chiffon-fashion-dress): Shop Round neck fresh chiffon fashion dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:17Z
   Vendor: shopezra
   Product Type: dress
   Availability: Available
@@ -1443,8 +802,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/37dcf064-d14c-46da-8bb0-d2af0d005072.jpg?v=1789535223
     Price: $81.99 USD
-- [Women Chunky Heel Martin Boots](https://shopezra.us/products/women-chunky-heel-martin-boots): OverviewWaterproof - Features waterproof material for all-weather wearChunky Heels - Provides stable support and comfortable heightHeight Increase - Designed with elevated soles for added statureCommuter Style - Versatile design suitable for daily wearDurable Material - Made with wear-resistant construction for longevitySpecificationsMaterial: Two layers cowhide exterior, microfiber interior, PU insole, plastic soleHeel Height: 6-8cmHeel Type: Thick heelToe Shape: Pointed toeBoot Height: Low tubeClosure: Front tie backWeight: 780g per pairColors: Pink, Gray, Orange Red, Yellow, BlackSizes: 35, 36, 37, 38, 39, 40, 41, 42Packing ListWomen boots*1
-  Updated: 2026-09-17T07:59:37Z
+- [Women Chunky Heel Martin Boots | ShopEZRA](https://shopezra.us/products/women-chunky-heel-martin-boots): Shop Women Chunky Heel Martin Boots. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:16Z
   Vendor: shopezra
   Product Type: shoes
   Availability: Available
@@ -1609,8 +968,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d5946e81-44a0-4e16-9e2c-3ae0051a5392.jpg?v=1789535315
     Price: $60.99 USD
-- [Men's 3D Digital Stripe Casual Shirt](https://shopezra.us/products/mens-3d-digital-stripe-casual-shirt): Overview 3D Digital Print: High-definition 3D digital stripe patterns for a modern and stylish look. Breathable Fabric: Made from 60% polyester for lightweight comfort and ventilation. Casual Design: Relaxed fit with short sleeves and open collar for everyday wear. Specifications Material: 60% polyester Style: Open collar, short sleeves Pattern: 3D digital stripe Sizes: S, M, L, XL, 2XL, 3XL, 4XL Colors: ESV-QGT0XA3, ESV-VZSWXOY, ESV-GWKG8Z2, ESV-IDC8JT9, ESV-JUYDB79 Packing List shirt*1
-  Updated: 2026-09-17T03:35:54Z
+- [Men's 3D Digital Stripe Casual Shirt | ShopEZRA](https://shopezra.us/products/mens-3d-digital-stripe-casual-shirt): Shop Men's 3D Digital Stripe Casual Shirt. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:19Z
   Vendor: shopezra
   Product Type: man slim fit
   Availability: Available
@@ -1755,8 +1114,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6766c8db-249b-4776-bb8c-69255d0d006d.jpg?v=1789535453
     Price: $29.99 USD
-- [Yoga Pants High Elastic Sports Running Fitness Pants](https://shopezra.us/products/yoga-pants-high-elastic-sports-running-fitness-pants): Overview Seamless Design: Smooth construction without seams for enhanced comfort and flexibility during movement. High Elasticity: Superior stretch fabric provides excellent freedom of motion and retains shape. Moisture Wicking: Breathable material keeps skin dry and comfortable during workouts. V-Waist & Peach Hip: Flattering silhouette with contouring support for a stylish fit. Specifications Material: 90% Nylon, 10% Spandex Size Options: S, M, L, XL Colors: Black, Coffee, Brown, Light Purple, Grey, Blue Gray, Light Green, Deep Purple, Orange, Dark Blue, Khakis, Gray Green, Wine Red Packing List yoga pants*1
-  Updated: 2026-09-17T05:43:47Z
+- [Yoga Pants High Elastic Sports Running Fitness Pants | ShopEZRA](https://shopezra.us/products/yoga-pants-high-elastic-sports-running-fitness-pants): Shop Yoga Pants High Elastic Sports Running Fitness Pants. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:16Z
   Vendor: shopezra
   Product Type: Yoga Pants
   Availability: Available
@@ -1961,8 +1320,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2e4d60b2-c309-473e-89ac-b9381e03c1fb.jpg?v=1789535522
     Price: $33.99 USD
-- [Retro-style elegant jacket coat](https://shopezra.us/products/retro-style-elegant-jacket-coat): Overview Retro Style: Elegant vintage design with timeless appeal Metal Double-Breasted: Stylish metal buttons for a sophisticated look Waist-Cinching: Flattering fit with tailored waist definition Versatile Wear: Suitable for various occasions and layering Specifications Material: Polyester (polyester fiber) Pattern: Solid color Sleeve Length: Long sleeve Collar Type: Stand collar Clothing Length: Ordinary style (50cm
-  Updated: 2026-09-17T07:07:11Z
+- [Retro-style elegant jacket coat | ShopEZRA](https://shopezra.us/products/retro-style-elegant-jacket-coat): Shop Retro-style elegant jacket coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:21Z
   Vendor: shopezra
   Product Type: woman jacket
   Availability: Available
@@ -1999,8 +1358,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/85271de5-c9e0-4b84-8124-ec07f8779ef2.jpg?v=1789535726
     Price: $74.99 USD
-- [Women's High Waisted Retro Straight Leg Denim Pants](https://shopezra.us/products/womens-high-waisted-retro-straight-leg-denim-pants): Overview Retro Style: Classic American vintage design with timeless appeal High Waist: Flattering fit that enhances silhouette and provides comfort Loose Straight Cut: Relaxed, straight-leg design for effortless movement and versatility Denim Fabric: Durable, high-quality denim material with a structured yet comfortable feel Multi-Size Range: Extensive size availability from XS to 5XL for inclusive fit options Specifications Colors: Black, Light Blue, Medium Blue, Dark Blue, Black Gray, White, Pink, Khaki, Brown Sizes: XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL Style: Straight pants, High waist Fabric: Denim Length: Long pants Features: Retro, Wash effect, Distressed details, Button fastening Packing List Jeans*1 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
-  Updated: 2026-09-19T08:23:32Z
+- [Women's High Waisted Retro Straight Leg Denim Pants | ShopEZRA](https://shopezra.us/products/womens-high-waisted-retro-straight-leg-denim-pants): Shop Women's High Waisted Retro Straight Leg Denim Pants. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:10Z
   Vendor: shopezra
   Product Type: woman pants
   Availability: Available
@@ -2205,8 +1564,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/eef5b004-59ed-4142-acd3-de51ca165c3e.jpg?v=1789535773
     Price: $38.99 USD
-- [Mens Printed Quick-Dry Beach Shorts](https://shopezra.us/products/mens-printed-quick-dry-beach-shorts): Overview Quick-drying fabric for fast moisture absorption and comfort Breathable design ideal for summer and beach activities Loose-fitting cut providing relaxed movement and comfort Printed patterns adding stylish visual appeal Cotton blend material offering softness and durability Specifications Fabric: 97% Cotton Length: Five-point shorts Style: Straight type Elasticity: Slightly elastic Colors: Black, Sky blue, Dark blue, Deep khaki, Light khaki Sizes: M, L, XL, 2XL, 3XL, 4XL Collar label: No label Tag: No tag Packing List shorts*1
-  Updated: 2026-09-17T07:49:16Z
+- [Mens Printed Quick-Dry Beach Shorts | ShopEZRA](https://shopezra.us/products/mens-printed-quick-dry-beach-shorts): Shop Mens Printed Quick-Dry Beach Shorts. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:20Z
   Vendor: shopezra
   Product Type: man shorts
   Availability: Available
@@ -2331,8 +1690,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b795f397-bd25-4327-b27a-232e2eebe882.jpg?v=1789535846
     Price: $37.99 USD
-- [Smart AI Glasses with Camera and Translation](https://shopezra.us/products/smart-ai-glasses-with-camera-and-translation): Overview AI Translation: Real-time conversation translation with cloud-based AI language model Camera Function: Built-in camera for photo and video recording Bluetooth Connectivity: Wireless connection for calls and music streaming Smart Features: AMOLED display with voice and visual AI perception Multi-Platform Compatibility: Works with Android and iOS devices Specifications Model: xk one pro 100W Material: ABS Battery Capacity: 290mAh Product Weight: 39.6g Dimensions: 175*82*50mm Screen Type: AMOLED Camera: Included Memory: 4GB RAM Wireless Connectivity: Bluetooth, WiFi Wireless Range: 5-10 meters Lens Options: 3 types of lenses Operation: Button control Packing List Smart glasses*1 Charging cable*1 User manual*1 Lens options*3
-  Updated: 2026-09-17T05:38:39Z
+- [Smart AI Glasses with Camera and Translation | ShopEZRA](https://shopezra.us/products/smart-ai-glasses-with-camera-and-translation): Shop Smart AI Glasses with Camera and Translation. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:13Z
   Vendor: shopezra
   Product Type: SUNGLASSES
   Availability: Available
@@ -2345,8 +1704,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3cfddd92-455d-4399-b0fe-0bf4d4e72326.jpg?v=1789535906
     Price: $56.99 USD
-- [Childrens Cotton Padded Jacket](https://shopezra.us/products/childrens-cotton-padded-jacket): Overview Cotton Material: Made from 100% polyester fiber for softness and durability. Winter Warmth: Thickened padding provides excellent insulation in cold weather. Removable Hood: Features a detachable cap for versatile styling. Abstract Design: Modern European and American style with colorful patterns. Quality Craftsmanship: Neat stitching with trimmed threads for a clean finish. Specifications Colors: Blue, Pink Sizes: 120cm, 130cm, 140cm, 150cm, 160cm, 170cm Material: 100% Polyester (outer and lining) Filler: Polyester fiber Collar: Lapel style Closure: Single-breasted Safety: Class B certification Packing List Childrens cotton padded jacket*1
-  Updated: 2026-09-17T05:21:49Z
+- [Childrens Cotton Padded Jacket | ShopEZRA](https://shopezra.us/products/childrens-cotton-padded-jacket): Shop Childrens Cotton Padded Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:22Z
   Vendor: shopezra
   Product Type: woman jacket
   Availability: Available
@@ -2399,8 +1758,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2eefb667-5a5a-499a-8d40-080bc672a360.jpg?v=1789535975
     Price: $76.99 USD
-- [varsity jacket for men](https://shopezra.us/products/varsity-jacket-for-men): Overview Digital Print Design: Features vibrant digital printing patterns for a modern and stylish appearance. Loose Fit: Offers a comfortable and relaxed fit, suitable for casual daily wear. Durable Material: Made from 96% polyester air layer fabric, resistant to deformation and long-lasting. Versatile Style: Combines American and Korean fashion elements, suitable for various casual occasions. Specifications Material: 96% Polyester (outer and lining) Style: Baseball jacket, round hem, side seam pockets Collar: Collarless Sleeve: Long sleeve Closure: Single-breasted Pattern: Digital print Colors: Black, Green, Blue Sizes: S, M, L, XL, 2XL, 3XL, 4XL, 5XL Clothing Length: 50-65cm (ordinary style) Craft: Digital printing Packing List jacket*1 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
-  Updated: 2026-09-17T07:51:28Z
+- [Men's Digital-Print Varsity Jacket](https://shopezra.us/products/varsity-jacket-for-men): The Varsity Jacket for Men is the perfect blend of style and comfort. With vibrant digital print designs, it stands out in any casual setting. The
+  Updated: 2026-09-30T18:09:07Z
   Vendor: shopezra
   Product Type: varsity jacket
   Availability: Available
@@ -2501,8 +1860,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b959c989-b3c0-4072-a3e5-f078f41b1ce4.jpg?v=1789536034
     Price: $46.99 USD
-- [Brass Glass Chandelier Nordic Retro Homestay Bar Restaurant Bedside Lamp](https://shopezra.us/products/brass-glass-chandelier-nordic-retro-homestay-bar-restaurant-bedside-lamp): Overview Brass and Glass Construction - Durable and elegant design with high-quality brass frame and glass shades for sophisticated lighting. Nordic Retro Style - Features minimalist and vintage-inspired aesthetics, perfect for modern and classic interior decor. Versatile Application - Suitable for bedrooms, cafes, restaurants, bars, and homestays, offering ambient and functional lighting. Creative Candle-like Design - Emulates a candlelight effect, adding warmth and a cozy atmosphere to any space. Specifications Material: Brass frame, glass lampshade Light Source Type: LED (compatible) Light Color Options: Warm white (if bulb included) Adjustable Height: 1.5 meters Irradiation Area: 3-5 square meters Weight: 1500 grams (approx.) Certification: None Packing List Brass glass chandelier*1 Mounting hardware*1 LED warm light bulb*1 (if selected with bulb option) .
-  Updated: 2026-09-19T08:23:31Z
+- [Brass Glass Chandelier Nordic Retro Homestay Bar Restaurant Bedside Lamp](https://shopezra.us/products/brass-glass-chandelier-nordic-retro-homestay-bar-restaurant-bedside-lamp): Shop Brass Glass Chandelier Nordic Retro Homestay Bar Restaurant Bedside Lamp. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:16Z
   Vendor: shopezra
   Product Type: lights
   Availability: Available
@@ -2555,8 +1914,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/76b123e1-df1d-4fa0-975b-f8058aeec2ab.jpg?v=1789536089
     Price: $76.99 USD
-- [Women's wool knee-length socks](https://shopezra.us/products/womens-wool-knee-length-socks): Overview Merino Wool Blend: Contains 39.7% merino wool for natural warmth, softness, and moisture-wicking properties. Non-Slip Design: Features anti-slip elements to keep socks securely in place throughout the day. Non-Binding Fit: Designed to be non-constrictive, preventing tightness and discomfort around the legs. Antibacterial & Moisture-Wicking: Helps inhibit odor and keep feet dry by absorbing sweat. Anti-Friction: Reduces chafing and friction for added comfort during wear. Handmade Seamless Toe: Boneless, hand-sewn toe closure for a smooth, irritation-free feel. Specifications Material: 39.7% Merino Wool, Other Fibers Pattern: Solid Color Style: Casual Weaving Method: Double Needle, 176N Barrel Height: Over-the-Knee Function: Anti-slip, Antibacterial, Moisture-Wicking, Anti-friction Size: One Size Fits All Colors Available: White, Black, Beige, Apricot, Light Gray, Dark Gray, Red, Khaki, Coffee Applicable Age Group: Youth (18-40 years old) Season: Winter / All Seasons Packing List Socks*1
-  Updated: 2026-09-19T08:23:31Z
+- [Women's wool knee-length socks | ShopEZRA](https://shopezra.us/products/womens-wool-knee-length-socks): Shop Women's wool knee-length socks. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:08Z
   Vendor: shopezra
   Product Type: socks
   Availability: Available
@@ -2645,8 +2004,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/357bceb2-462d-4c14-9b2d-90ffa0910fc4.png?v=1789536168
     Price: $22.99 USD
-- [Cinched-waist mid-length trench coat](https://shopezra.us/products/cinched-waist-mid-length-trench-coat): Overview Korean Style: Features contemporary Korean-inspired design with elegant and modern aesthetics Waist-Cinching: Adjustable waist design for a flattering silhouette and customizable fit Mid-Length: Versatile mid-length cut providing coverage and style adaptability High-Quality Fabric: Blend of cotton and polyester for comfort, durability, and easy maintenance Casual Elegance: Combines relaxed comfort with sophisticated outerwear appeal Specifications Material: Cotton (80%-90%), Polyester (30%-50%) Colors: Off-white, Gray, Black, Brown Sizes: M, L, XL Length: Mid-length (65cm-80cm) Sleeve: Long sleeve Collar: Polo collar Closure: Double row two-button placket Pattern: Solid color Thickness: Medium Style: Casual, Japanese-Korean leisure Packing List windbreaker*1
-  Updated: 2026-09-17T07:44:38Z
+- [Cinched-waist mid-length trench coat | ShopEZRA](https://shopezra.us/products/cinched-waist-mid-length-trench-coat): Shop Cinched-waist mid-length trench coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:18Z
   Vendor: shopezra
   Product Type: coats
   Availability: Available
@@ -2699,8 +2058,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0ce7994b-eef4-4df3-8b37-b5665d0a394d.jpg?v=1789536232
     Price: $84.99 USD
-- [Women's wool coat](https://shopezra.us/products/womens-wool-coat): Overview Premium wool blend fabric: High-quality 65% cotton and 35% polyester material for comfort and durability. Elegant double-breasted design: Features a sophisticated stand-up collar and flap pockets for a polished look. Versatile styling: Suitable for autumn and winter seasons, offering a loose, commuting-friendly fit. Refined details: Includes woven craftsmanship, long sleeves, and suede-like texture for enhanced appeal. Specifications Material: Cotton 65%, Polyester 35% Weight: 870g Colors: Khaki, Amber, Rust, Black, Dark Blue, Grey, Apricot Sizes: XS, S, M, L Clothing Length: 50-65cm Collar Type: Stand collar Sleeve Length: Long sleeve Closure: Double-breasted Pockets: Flap pockets Packing List Jacket*1
-  Updated: 2026-09-17T07:39:41Z
+- [Women's Double-Breasted Wool-Blend Coat with Stand-Up Collar](https://shopezra.us/products/womens-wool-coat): Introducing the Women's Wool Coat, crafted from a premium wool blend of 65% cotton and 35% polyester. This coat combines comfort and durability,
+  Updated: 2026-09-30T18:09:24Z
   Vendor: shopezra
   Product Type: woo coat
   Availability: Available
@@ -2817,8 +2176,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d98e74e6-ca19-403b-8ce8-ead43ba625ef.jpg?v=1789536277
     Price: $89.99 USD
-- [Women's knitted cardigan](https://shopezra.us/products/womens-knitted-cardigan): Overview Korean Style - Elegant twist design with modern Korean fashion aesthetics Slim Fit - Flattering silhouette that accentuates the figure Hooded Cardigan - Versatile hooded design for added style and comfort Knitted Fabric - Soft, stretchy viscose fiber material for cozy wear Long Sleeves - Classic long-sleeve design suitable for layering Specifications Material: 80-90% Viscose Fiber Style: Pullover with V-neck Sleeve Length: Long Sleeve Clothing Length: 50-65cm (Ordinary Style) Pattern: Solid Color Colors: Navy Blue, Gray Sizes: S, M, L Craftsmanship: Solid Color Weave Placket: Single Breasted Packing List cardigan*1
-  Updated: 2026-09-17T09:19:00Z
+- [Women's knitted cardigan | ShopEZRA](https://shopezra.us/products/womens-knitted-cardigan): Shop Women's knitted cardigan. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:16Z
   Vendor: shopezra
   Product Type: Front Cardigan
   Availability: Available
@@ -2847,8 +2206,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7af94272-0641-451c-b1a4-fc8d10611d80.jpg?v=1789536327
     Price: $69.99 USD
-- [Ceramide Barrier Repair Facial Cleanser](https://shopezra.us/products/ceramide-barrier-repair-facial-cleanser): OverviewCeramide Enriched - Contains 5X ceramide complex for enhanced skin barrier repair and moisturizationDeep Cleansing - Effectively removes impurities while maintaining skin hydrationMulti-Efficacy Formula - Provides oil control, pore minimization, acne , and skin brighteningUniversal Compatibility - Suitable for all skin types including sensitive, oily, dry, and combinationFoam Technology - Generates rich lather for thorough yet gentle facial cleansingSpecificationsProduct Types:Ceramide barrier repair moisturizing gel: 80gCeramide facial cleanser: 80mlCeramide toner: 80mlCeramide essence: 20mlCeramide moisturizing cream: 30gShelf Life: 3 yearsNet Content: 80g/80ml/20ml/30g (varies by product)Applicable Skin: All skin typesFoam Type: Foam cleanserPacking Listceramide facial cleanser*1
-  Updated: 2026-09-19T08:23:31Z
+- [Ceramide Barrier Repair Facial Cleanser | ShopEZRA](https://shopezra.us/products/ceramide-barrier-repair-facial-cleanser): Shop Ceramide Barrier Repair Facial Cleanser. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:19Z
   Vendor: shopezra
   Product Type: Skin Repair Cream
   Availability: Available
@@ -2873,8 +2232,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bcd8d726-7dd6-46e4-99dc-2f25cf722d41.jpg?v=1789536374
     Price: $27.99 USD
-- [Womens Deep V-neck Mesh Evening Gown](https://shopezra.us/products/womens-deep-v-neck-mesh-evening-gown): Overview Deep V-neck: Elegant and alluring neckline design for a sophisticated look Waist-cinching: Mesh fabric accentuates the waist for a flattering silhouette Backless style: Fashionable open-back design adding modern elegance Long evening dress: Flowing floor-length gown suitable for formal occasions Specifications Material: Polyester (90-95% composition) Colors: Wine Sizes: XS, S, M, L, XL, XXL Style: Sleeveless, V-neck, mid-waist Pattern: Solid color Skirt length: Long skirt Skirt style: Extra-large skirt Packing List dress*1
-  Updated: 2026-09-17T08:55:45Z
+- [Womens Deep V-neck Mesh Evening Gown | ShopEZRA](https://shopezra.us/products/womens-deep-v-neck-mesh-evening-gown): Shop Womens Deep V-neck Mesh Evening Gown. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:13Z
   Vendor: shopezra
   Product Type: gown
   Availability: Available
@@ -2903,8 +2262,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/77af8f8f-2058-46b2-aac7-a794ee017a59.jpg?v=1789536437
     Price: $84.99 USD
-- [Loose-fitting trench coat](https://shopezra.us/products/loose-fitting-trench-coat): Overview Lace-up Design: Stylish front tie closure for adjustable fit and modern appeal. Large Lapel Collar: Elegant wide lapel enhances sophistication and versatility. Loose Fit: Comfortable relaxed silhouette suitable for casual and layered styling. Mid-Length Cut: Flattering length (65-80cm) ideal for daily wear and light outerwear. Casual Style: Woven polyester fabric in khaki color, offering durability and easy maintenance. Specifications Material: Polyester fiber Thickness: Medium Pattern: Loose fit Clothing Length: Mid-length (65cm < length ? 80cm) Collar Type: Lapel Sleeve Length: Long sleeve Craftsmanship: Woven Colors: Khaki Sizes: S, M, L Packing List trench coat*1
-  Updated: 2026-09-17T06:12:18Z
+- [Loose-fitting trench coat | ShopEZRA](https://shopezra.us/products/loose-fitting-trench-coat): Shop Loose-fitting trench coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:11Z
   Vendor: shopezra
   Product Type: coats
   Availability: Available
@@ -2921,40 +2280,1009 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/48f1a855-4a99-4f54-9311-f9f89f8683a6.jpg?v=1789536509
     Price: $80.99 USD
-[List Continued](https://shopezra.us/a/llms-agent/llms.txt?shop=iz1cpj-qw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjY2NzE2Njc2MTU4LCJsYXN0X3ZhbHVlIjoiODI2NjcxNjY3NjE1OCJ9)
+- [Ivory White Lace Maternity Wedding Dress with Train | ShopEZRA](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train): Shop Ivory White Lace Maternity Wedding Dress with Train. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:26Z
+  Vendor: shopezra
+  Product Type: wedding dress
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e21dbb09-90fd-4114-bb34-8b3961b36297.jpg?v=1789536552
+  - [Ivory white floor style / S](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042994942014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e783f026-7f32-4406-8774-6de41066aaec.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / M](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042994974782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b8509c48-bcd5-41c9-a03a-3a0acf6269d4.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / L](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995007550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/860c53f6-bd31-49d0-bb44-bffb8f4f8a86.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / XL](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995040318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c9ce0eec-f1bb-48ef-92cd-9ab63cd94061.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / XXL](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995073086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8f010543-e0de-4d83-90eb-d4a6b4c7ffcc.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US2](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995105854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/de893497-d6e3-46eb-afc5-5a42d86dfc16.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US4](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995138622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/94b9a85d-1688-4345-a0e7-22a16e03c7e5.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US6](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995171390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b98db187-7328-48d9-84ed-e844a1239c83.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US8](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995204158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0798679d-522c-40b0-a2fb-a32fdcbf0f99.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US10](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995236926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fd8e2504-6108-4913-8244-7955c929efc4.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US12](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995269694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/44bacd58-8a8c-4884-b46d-f634d17954b5.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US14](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995302462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/00c67788-42e5-4f40-9c4d-e6e6946dec0e.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US16](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995335230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f7d4d56d-2400-4fee-afa6-ef420caedf44.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 16W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995367998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b532a398-2ca4-4922-8f1d-c9a099d4a3ec.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 18W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995400766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/29543ffd-9d88-42c8-ab84-6c43c7b0cb6e.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 20W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995433534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6254cd41-bce7-421c-8d10-fe7156740dd0.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 22W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995466302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/40dc400a-e73e-4692-81cd-f43fa6f89cf6.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 24W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995499070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6dc6626f-edd4-440e-9611-e225992988fc.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Ivory white floor style / US 26W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995531838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9ce35113-e89d-43ac-a397-42409c179862.jpg?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / S](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995564606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/442ae2d5-ef63-44dc-a2ed-3c2c8c88773e.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / M](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995597374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/10b09e4b-fac2-4787-b5b1-5e5bd09e664b.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / L](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995630142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0623fe54-9d3f-4105-bb9c-51a283624079.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / XL](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995662910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f2782d21-ff2a-4211-92f9-cb087a6a42be.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / XXL](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995695678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e4cba93c-c669-4973-9a60-fe92fb56b08a.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US2](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995728446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/61b73c7b-dce4-4370-8537-73f65e9077aa.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US4](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995761214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cba7bcab-2199-44fe-8896-a0d8c7ca8dff.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US6](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995793982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3735e13d-a695-42a0-a6c3-78d62665c068.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US8](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995826750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/497d01fd-0905-47d5-9da4-34426717bbad.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US10](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995859518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/19aac6a4-f85d-48e1-ab51-7c0ede31f5ed.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US12](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995892286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4e9f6376-df9d-49d3-9e52-3c7cbd3313d8.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US14](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995925054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/184e6bdc-80ce-4cf3-a5ba-0e278e643239.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US16](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995957822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e2582d03-3c04-42eb-88a9-3eb018c4713a.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 16W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042995990590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4771f463-affd-432f-98ac-d9b58c6bdd3f.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 18W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042996023358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/26e1b847-434d-43bc-8c4a-1a99b1dcab9c.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 20W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042996056126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ab945b40-2b78-4ac5-94d9-1743be309f57.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 22W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042996088894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1eeccb98-05f3-42db-bc58-e442272162be.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 24W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042996121662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/aba592cb-e71e-43e3-b88a-70430bf01b28.png?v=1789536552
+    Price: $223.99 USD
+  - [Pure white floor-length / US 26W](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train?variant=44042996154430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3f313cee-7cfb-4112-a0d2-bac60c7469fe.png?v=1789536552
+    Price: $223.99 USD
+- [Court Satin Strapless Wedding Dress Long Train | ShopEZRA](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train): Shop Court Satin Strapless Wedding Dress Long Train. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:06Z
+  Vendor: shopezra
+  Product Type: wedding dress
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c33e7778-05e8-451d-99bf-d19c023b2449.jpg?v=1789536622
+  - [Qidi / S](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997235774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/77e66059-9c19-40d9-8a6f-aa7e26cdcf22.jpg?v=1789536622
+    Price: $352.99 USD
+  - [Qidi / M](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997268542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1811d144-a7a5-44f5-883e-91560251d6de.jpg?v=1789536621
+    Price: $352.99 USD
+  - [Qidi / L](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997301310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5207028c-d517-4a8b-8899-23b0ab3b114b.jpg?v=1789536621
+    Price: $352.99 USD
+  - [Qidi / XL](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997334078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/079a6581-5b4a-4381-8d27-b748c9878e7f.jpg?v=1789536621
+    Price: $352.99 USD
+  - [Qidi / XXL](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997366846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8aeaab5b-3c38-4d4b-b9a6-9f5ea9fbca7a.jpg?v=1789536622
+    Price: $352.99 USD
+  - [Trailing / S](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997399614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b2a49a65-b478-4ecf-ac08-86ee066693f2.jpg?v=1789536622
+    Price: $372.99 USD
+  - [Trailing / M](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997432382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/49758d54-9587-443d-abb2-2a32f9ebf287.jpg?v=1789536622
+    Price: $372.99 USD
+  - [Trailing / L](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997465150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1929c96b-c1ce-475a-8ce9-6248c3c3d300.jpg?v=1789536621
+    Price: $372.99 USD
+  - [Trailing / XL](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997497918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8c6aea40-66c3-4ae4-be2c-dd3cd72195af.jpg?v=1789536622
+    Price: $372.99 USD
+  - [Trailing / XXL](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train?variant=44042997530686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/01f44b2c-e705-400a-9108-b2a282f79001.jpg?v=1789536622
+    Price: $372.99 USD
+- [Women's Floral Crossbody Bag with Adjustable Strap 25x16cm](https://shopezra.us/products/crossbody-bag-for-women): Introducing our stunning crossbody bag for women, designed with vibrant floral patterns that add a touch of elegance to any outfit. Its lightweight
+  Updated: 2026-09-30T18:09:19Z
+  Vendor: shopezra
+  Product Type: Women > Accessories, Jewelry, Handbags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/edb94b68-beee-4fa4-84a2-52d6476a4f1c.jpg?v=1789536678
+  - [Black 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998349886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bd01b049-c204-45b8-bb2b-d3e9955da7ed.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Blue 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998382654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c716070f-15c2-481b-864a-974b11327343.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Purple 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998415422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8becb7f7-b77a-4651-a236-37336ee668ef.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Red 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998448190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e4e59689-ae2e-4fe1-9d45-4753a140702f.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern1 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998480958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/935de545-7cf7-40f3-a344-4032ee4c5883.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern2 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998513726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/58482c75-50ce-4662-9926-bd9e18d21043.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern3 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998546494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8db5eb52-c3fa-44d1-90b9-ef69bad74c25.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern4 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998579262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f0278903-0827-4355-b4e9-f6e4fdda4e12.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern5 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998612030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a9cabc27-ea2e-40b9-a194-a9e5128cf1e6.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern6 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998644798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/47b97c9c-2c38-4bde-8294-07c004524eb7.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern7 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998677566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6c9c3a30-645d-4606-a13a-b6575fe07947.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern8 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998710334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c87b3c5f-980f-4371-90ea-478dab9a5136.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern9 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998743102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0e37a69b-c86e-4eea-81f9-c76472565492.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern10 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998775870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/129c6eae-943e-449b-a271-f3ec90b5f069.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern11 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998808638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b04bb499-4c5c-4d06-8b66-b37e389ca305.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern12 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998841406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2563f93c-e9bc-4a6f-a531-5afa5815c01d.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern13 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998874174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6a7287e1-776a-41ad-b034-ca56722eb1a6.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern15 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998906942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/40005314-f8f3-4d35-a370-49b31cc0f911.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern16 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998939710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/16097756-b79b-4c1b-ab68-2be9e7e9ee73.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern19 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042998972478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/00ac3fb0-4c88-4b94-b578-a04d037c9feb.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern20 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999005246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/53d6b651-e472-4451-880b-e79e990054d8.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern21 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999038014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3629deb7-85e9-4e58-9dfd-a3df96f5a85d.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern22 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999070782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5f2d7b86-8522-4493-938b-2462f0c0f6b5.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern23 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999103550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5692e875-26c0-4775-a2b5-8d1b2f0417c5.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern24 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999136318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/af0b97a6-7267-4ce5-8bc9-dccd247dc039.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern25 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999169086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c5e2bd09-6714-48c9-b114-aaef424580da.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern27 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999201854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a25c54af-c12f-419c-a569-c1abce86ba52.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern28 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999234622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/827c7c90-f4fc-4633-9d80-51ba90788e42.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern29 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999267390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0b18464d-7059-4fb3-872e-2b8eedba258c.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern30 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999300158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5cfa96c2-77aa-44f0-8376-5295e435761d.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern31 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999332926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/73947e3f-affc-47db-b846-06dd028f0307.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern32 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999365694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/18ba7a83-6d29-4dd4-8da9-4fc5b45ac676.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern33 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999398462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/05f04b6a-a8d6-4c50-bc3b-4f24483de7cc.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern34 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999431230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3e4021a3-3a41-4584-bca7-31e49f9b5095.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern35 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999463998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4801627f-3905-48bd-a88c-e5ac53479676.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern36 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999496766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8b60dcb7-5450-4418-9188-c23253cf6e12.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern37 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999529534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2f05c4bc-087b-42f0-a65b-621af98ee124.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern38 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999562302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/34e7f9a8-249a-41eb-806f-fe9d3bd2c947.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern39 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999595070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/05d57872-13f9-4ac2-829f-8d73b2c68efb.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern40 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999627838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6bfd1ae2-5939-4dba-8a2b-ad5d1279a1d7.jpg?v=1789536678
+    Price: $23.99 USD
+  - [Pattern41 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999660606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f0bf4e71-f329-4a4f-8404-0c92fac1a950.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern42 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999693374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9342d08e-011b-4bcc-8553-aaf641852154.jpg?v=1789536677
+    Price: $23.99 USD
+  - [Pattern43 25x16cm](https://shopezra.us/products/crossbody-bag-for-women?variant=44042999726142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/05de3023-133c-4e36-95ea-0921f390fd6a.jpg?v=1789536677
+    Price: $23.99 USD
+- [Retro Striped Pajama Set for Women | ShopEZRA](https://shopezra.us/products/retro-striped-pajama-set-for-women): Shop Retro Striped Pajama Set for Women. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:22Z
+  Vendor: shopezra
+  Product Type: pajama set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8356cc84-ef22-4c1f-b8de-fee501962d4f.jpg?v=1789536769
+  - [Coffee Brown / S](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001200702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/753a04db-2d10-40d1-8b48-e2c34b9be440.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Coffee Brown / M](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001233470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4b5cf82b-cb7a-47bf-a75c-0257da979051.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Coffee Brown / L](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001266238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7eba8a89-3839-44f4-b5e0-31ffec1ca143.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Coffee Brown / XL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001299006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f19178da-53c1-4ed7-8633-ce10a3278b8f.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Coffee Brown / XXL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001331774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d45267cd-a62a-42a0-b89b-2a7b3373f009.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Beige White / S](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001364542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a8a809de-def5-474a-af0e-7c906eb7fdc6.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Beige White / M](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001397310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e8cb8c4a-407a-46a8-8304-5b7ffcc09acc.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Beige White / L](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001430078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bb16c741-7714-4380-8f50-fb151c1fb3ec.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Beige White / XL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001462846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fe90e597-ee96-4688-a288-d56586d637e0.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Beige White / XXL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001495614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1ac74797-f0ee-4ecb-a3c3-44e347bea271.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Burgundy / S](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001528382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/73ef20ec-9bf9-4201-99ad-87a48c15aed6.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Burgundy / M](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001561150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5931c5e2-4dfd-4bb7-bfe2-3572398b930d.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Burgundy / L](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001593918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2633a037-2296-4763-a5db-e3f453b52bd9.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Burgundy / XL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001626686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/33d34aa2-f0c3-46f6-9018-b352780893bf.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Burgundy / XXL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001659454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/59bf219d-4459-4678-b16b-59510561690d.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Sky Blue / S](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001692222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fd161b9c-5e83-48b6-a670-8488f4d8a2ab.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Sky Blue / M](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001724990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/06c2467f-6804-4d8e-a464-4c3c476f2da8.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Sky Blue / L](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001757758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d2c51dae-e3f3-475d-a3c5-c01e156813be.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Sky Blue / XL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001790526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8469d819-cf2b-44d7-9222-bcda27f7c505.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Sky Blue / XXL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001823294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ae9cc881-1303-4f99-9604-3a58dc8bcb80.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Apricot / S](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001856062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/27fe918e-a73a-4132-b24d-f663a16d387f.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Apricot / M](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001888830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/472b3df7-62be-4a45-918c-3dbcbdd847f8.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Apricot / L](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001921598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fec11eed-569b-4907-87f6-06ae0ffa7c7c.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Apricot / XL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001954366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/632dcb2d-2d05-4a16-a9c0-1c073797645c.jpg?v=1789536769
+    Price: $57.99 USD
+  - [Apricot / XXL](https://shopezra.us/products/retro-striped-pajama-set-for-women?variant=44043001987134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3327672d-8ab1-4304-8fa0-ab86c22a92b0.jpg?v=1789536769
+    Price: $57.99 USD
+- [Merino Wool Sports Bra | ShopEZRA](https://shopezra.us/products/merino-wool-sports-bra): Shop Merino Wool Sports Bra. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:20Z
+  Vendor: shopezra
+  Product Type: BRA
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/34fecf80-d373-4f88-a79a-1eba6ae4a2d9.jpg?v=1789536878
+  - [Milk tea rice 47 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003428926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6039e11d-1b48-44bd-8838-702e699b8bfd.jpg?v=1789536878
+    Price: $65.99 USD
+  - [Floral orange 81 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003461694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4fc3f39b-2580-46da-b050-09020c82ba77.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Floral orange 81 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003494462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e2d8950f-fc86-4206-8c7b-8456127398b1.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Floral orange 81 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003527230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8541fd99-eb42-4c17-8cbe-3da2c74ac3e1.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Floral orange 81 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003559998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c1793734-405f-4f23-b653-9e4be46d5339.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Printed rice 81 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003592766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e2d81697-d23d-4e5a-b218-b745f80897ec.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Printed rice 81 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003625534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7748a7ce-7e86-4db7-8f50-97d3acab7e56.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Taro purple 82 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003658302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3c15b1c2-1484-4729-8ee1-a965962b49c2.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Taro purple 82 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003691070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e4f0816a-1faa-46a5-83f5-ebbce8225852.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Taro purple 82 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003723838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c34c3c1a-0475-4f2a-84f2-9818ee19caeb.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Taro purple 82 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003756606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/03680b92-0557-4a7a-ac73-d5a4820be934.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Printed gray 82 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003789374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3156c10b-4041-434b-a414-d645f0e192ab.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Leaf print 82 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003822142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/de58b5b6-d6e7-4c32-99e9-71090ca87fa4.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Leaf print 82 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003854910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/94fe62a1-8f0a-4f7a-b018-f5a554cb894b.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Leaf print 82 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003887678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1cee1f87-8bb8-4ce9-9b66-a1f9656c4854.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Leaf print 82 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003920446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/dfa53d08-4a4a-48c4-a53e-32ecec36f1a3.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Aurora black 82 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003953214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6ab5daed-a0f2-4018-af50-c6518151e611.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Aurora black 82 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043003985982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/07379a96-0189-4246-a9b2-07799b077491.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Aurora black 82 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004018750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d98a1a82-2119-4559-964e-0386c01e8507.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Aurora black 82 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004051518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/59f51c1a-6ed0-471f-ae3f-2cb4de984290.jpg?v=1789536878
+    Price: $80.99 USD
+  - [Mist gray 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004084286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/75483257-447d-4782-8236-d5f2c77c36ec.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Mist gray 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004117054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/695b5150-1ceb-4297-8d18-4357918ef897.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Light moss green 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004149822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/02296bda-8f64-4c44-bdb1-eeb6305fbc57.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Green 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004182590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3f78f9fd-27ed-4c63-9947-8c10e8e99658.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Green 100 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004215358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bc4f6dda-92e1-4b3e-b3a4-9ff717520284.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Green 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004248126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/115cff84-9b6c-4496-b413-65f3ac6f70c2.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dark green 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004280894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/630b4211-083b-4b47-aa16-6a4a11a1d8c6.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dark green 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004313662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e9b179e5-e552-4e24-afcc-7c603394a735.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dark green 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004346430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/69c3bda2-3d12-4b11-bf66-3105b9de5a2c.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Bright rose red 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004379198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5de69f01-455c-4aa4-be83-398b34b0c7ed.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Bright rose red 100 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004411966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e077cd21-d4d5-4f95-921d-31ec36fcf2b0.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Bright rose red 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004444734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3934b336-3b55-49c3-a648-eb190c662d63.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Bright rose red 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004477502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4fbfedc9-f530-43b4-92cb-45c577a38328.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Crimson red 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004510270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/906a2ff8-3e80-4dde-b714-134601789be6.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Crimson red 100 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004543038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d819184c-dffa-4cae-a738-d8d5fc86a428.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Crimson red 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004575806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0f4cfbd3-37e8-4e8a-bb21-c5f80abc6c01.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Crimson red 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004608574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/31996fca-2fa4-4afe-b9e6-f472ae7f5e04.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Chixia red 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004641342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5cfe01d1-781f-4999-a9ab-11bc29e003fb.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Chixia red 100 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004674110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7bb1b19e-cf66-4531-a1a8-20af173961de.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Chixia red 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004706878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5e2109ea-af73-4d56-849a-16cb78c2ce4a.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Chixia red 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004739646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/24501420-e184-4456-8bd8-678f3be2a001.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Hua baolan 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004772414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/588038fb-61a3-47cc-9b26-327ea93e3783.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Hua baolan 100 wool / M](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004805182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/32ff5c77-f565-4298-9077-86848b906ded.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Hua baolan 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004837950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fe3d2c2a-8bb9-4acd-beac-9f55d541e114.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Hua baolan 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004870718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2100e15d-b8e2-4974-9623-2ee474216d3a.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Stone blue 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004903486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2767660b-a74e-46e3-b0dd-894758a2b3b4.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Stone blue 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004936254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ef2dbd6b-ec19-460c-a0f2-0f46c2e51042.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dusk blue 100 wool / S](https://shopezra.us/products/merino-wool-sports-bra?variant=44043004969022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/128b0e59-5497-449f-9239-98ab5d50b194.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dusk blue 100 wool / L](https://shopezra.us/products/merino-wool-sports-bra?variant=44043005001790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2ac001a6-325b-409e-bab7-7610ef53fec9.jpg?v=1789536878
+    Price: $85.99 USD
+  - [Dusk blue 100 wool / XL](https://shopezra.us/products/merino-wool-sports-bra?variant=44043005034558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1366d993-6f53-4dce-b290-a32b9a09e9d7.jpg?v=1789536878
+    Price: $85.99 USD
+- [Smart Automatic Aromatherapy Diffuser | ShopEZRA](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser): Shop Smart Automatic Aromatherapy Diffuser. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:14Z
+  Vendor: shopezra
+  Product Type: Perfume & Cologne
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f1bb8f70-9d74-4719-b92e-4ca6f1ce1335.jpg?v=1789536985
+  - [Sakura Avenue / Basic Package](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006640190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2e18d153-ef00-42df-a5c2-25699a737207.jpg?v=1789536985
+    Price: $112.99 USD
+  - [Sakura Avenue / Gift Box](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006672958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e27767f5-4ac2-476c-9886-3a13f38d73d8.jpg?v=1789536985
+    Price: $113.99 USD
+  - [Sakura Avenue / 500mL Refill](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006705726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f5154a5c-0785-4c3a-8ef8-1d424f42dfe3.jpg?v=1789536985
+    Price: $101.99 USD
+  - [Ebony Rose / Basic Package](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006738494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/dc5b9357-520e-4f69-ad7c-15fc6cd9d288.jpg?v=1789536985
+    Price: $112.99 USD
+  - [Ebony Rose / Gift Box](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006771262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/eb44b0b5-9720-4514-8935-878911be40fd.jpg?v=1789536985
+    Price: $113.99 USD
+  - [Ebony Rose / 500mL Refill](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006804030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/feb73443-4014-4c35-a287-d9f0c811acd1.jpg?v=1789536985
+    Price: $101.99 USD
+  - [Shangri-La / Basic Package](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006836798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4cae90a8-6809-4a8e-8b3a-0197037f70ef.jpg?v=1789536985
+    Price: $112.99 USD
+  - [Shangri-La / Gift Box](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006869566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/35d1956c-a688-4cc8-a6b5-614c9162ff1a.jpg?v=1789536985
+    Price: $113.99 USD
+  - [Shangri-La / 500mL Refill](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006902334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/24b83ab7-24f1-4758-a485-b4690495cc02.jpg?v=1789536985
+    Price: $101.99 USD
+  - [Sunlight Amber / Basic Package](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006935102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c5b9e92a-fad6-4359-a1b1-63064dd7cb46.jpg?v=1789536985
+    Price: $112.99 USD
+  - [Sunlight Amber / Gift Box](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043006967870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e5fcc5cb-f012-4ee8-9549-2acfe18639a3.jpg?v=1789536986
+    Price: $113.99 USD
+  - [Sunlight Amber / 500mL Refill](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043007000638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5a898c6d-0f8f-434b-8f26-7f62299e9b6b.jpg?v=1789536985
+    Price: $101.99 USD
+  - [Gardenia White Tea / Basic Package](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043007033406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2427bf3d-0152-457b-b5a7-1eea97887b31.jpg?v=1789536985
+    Price: $112.99 USD
+  - [Gardenia White Tea / Gift Box](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043007066174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fc808aff-6519-4f79-be96-25a59e44fa9c.jpg?v=1789536985
+    Price: $113.99 USD
+  - [Gardenia White Tea / 500mL Refill](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser?variant=44043007098942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d2deef31-b587-4a9d-a551-78d58b0aa354.jpg?v=1789536985
+    Price: $101.99 USD
+- [Outdoor Tracing Shoes Five Fingers Barefoot Shoes Diving Quick Dry](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry): Shop Outdoor Tracing Shoes Five Fingers Barefoot Shoes Diving Quick Dry. View product details and available options at ShopEZRA. Check delivery information before ordering.
+  Updated: 2026-09-30T18:09:21Z
+  Vendor: shopezra
+  Product Type: Men > Shoes, Boots
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/447f5a49-f827-45d0-8110-73b4b49755af.jpg?v=1789537375
+  - [black orange / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011588158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/61ac7fca-fd66-4053-916d-47227fc27d0a.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011620926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1e34ed47-93a8-4c09-b475-9d58204fb37c.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011653694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1994f483-d1c2-4edf-a07f-21b221996a85.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011686462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/749b4099-1c52-47f6-85eb-b655b305fd66.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011719230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6a49149f-704f-43f6-9b7d-ac216afc6dc6.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011751998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/024f349c-4d2e-4485-8441-08f195e61b0e.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011784766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/60a2a5a7-8471-4df8-885c-e30fe345a659.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011817534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/69bb855a-8edd-4487-983b-caf6cc6f4c78.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011850302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1127725a-233b-4b2e-9b40-a26442ba6e80.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011883070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/34b18575-08af-49c2-9ba8-10749fb79198.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011915838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4a6034ab-a76e-469a-867d-0d459bc82ddc.jpg?v=1789537375
+    Price: $49.99 USD
+  - [black orange / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011948606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/10951cb2-3862-4c40-b35a-e37527ea2b64.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011981374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/099d41d0-564b-4f95-bec1-239783783d61.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012014142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ed83a6a5-441e-4e7e-a210-f448fdc8c740.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012046910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f7ae9ed7-bd74-40a3-9035-922d6a471d43.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012079678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bc6ec8d9-e970-4d7c-8301-f48a60efe0c3.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012112446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7cd32042-9f9c-4955-85d9-1440ab5ba925.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012145214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b49b6460-4524-4224-b40f-f170bb8f0760.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012177982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a2bfbe15-2bb0-47bb-8c65-5425b6761907.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012210750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/602ab0e1-b356-441d-8a46-2b1aab8802c3.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012243518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fbcefd3b-60b0-46fb-98e4-52d4f3cad8be.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012276286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c21caffd-cb6a-45c6-92fa-af00b6d03f63.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012309054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/070a5949-e808-460c-bba4-b78e94611c63.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Dark gray / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012341822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2921268f-dd88-4f05-b712-9caf02607892.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012374590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c2bb24d6-ab21-4fa2-a5d9-c0b947d9967b.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012407358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a04bca89-0768-4529-9826-e78f491acfbb.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012440126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/436edecf-9763-4251-bd37-5c1c3c81b704.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012472894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c3c9a789-4277-43b8-9197-ff4713bb72b2.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012505662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f3dc6b3d-b088-45d8-901d-9c026dc63154.jpg?v=1789537376
+    Price: $49.99 USD
+  - [Light gray / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012538430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0c2f86e0-266f-4cb0-9108-fd8f8160e39e.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012571198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/14ba14f6-1942-4afa-8bcf-6bf23658774c.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012603966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fe684360-b298-474e-a6cf-47a12367460c.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012636734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bf2280e9-3fe0-4142-9f9a-18424efa19fc.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012669502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b948b1a7-bffe-41cc-8e49-14fde2a11d02.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012702270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/751a8313-2b8b-4b01-a4ba-3dfc06289734.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Light gray / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012735038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b15af836-0c74-4205-8af0-7a7ed924ad12.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012767806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/52cf6e91-e709-4a4c-a962-e4078696ea88.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012800574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9a9687cc-5801-45b2-8bac-51a9c61b5456.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012833342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/169f3245-ff92-4e5c-8617-3232473ee7b4.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012866110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cfb42916-1e06-4dbf-862b-12f92190b72e.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012898878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d9d6fbde-2085-4738-a7e2-ca53116e6309.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012931646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d527aa16-856b-435f-8024-d0f27b0f70c0.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012964414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4937bad5-c399-4241-ab2f-c139644e0544.jpg?v=1789537375
+    Price: $49.99 USD
+  - [Moonlight / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012997182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1aca5aec-1eef-411d-9a1c-fa6a87c6ef5b.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013029950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cdbb3a4d-3b53-45f9-a918-595bc1c66e22.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013062718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2c2bfe9c-a4dc-4863-a24c-6e2000536b3d.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013095486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5c8ac4b9-5436-4d00-8af9-f325d3f2bb72.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013128254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6122af97-8dd9-4de7-ba6f-254630aae77b.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013161022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/13d53d3e-ccff-4e88-b5ef-78a0f6eaeafc.jpg?v=1789537375
+    Price: $49.99 USD
+  - [lotus root starch / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013193790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/31edbfd7-2661-497f-824b-c04a3136b53a.jpg?v=1789537375
+    Price: $49.99 USD
+[List Continued](https://shopezra.us/a/llms-agent/llms.txt?shop=iz1cpj-qw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjY2NzI2MjQ0NDE0LCJsYXN0X3ZhbHVlIjoiODI2NjcyNjI0NDQxNCJ9)
 
 ## Collections
 
-- [NEW TO THE STORE](https://shopezra.us/collections/new-arrivals): Discover the latest styles with our new arrivals in store. Shop now to find exclusive pieces and trends.
-  Updated: 2026-09-20T05:25:35Z
-  Total Products: 469
-- [Women's Fashion](https://shopezra.us/collections/womens-fashion): Discover our elegant women's fashion collection, featuring evening gowns, tops, jackets, and more for the modern woman.
-  Updated: 2026-09-20T05:25:35Z
+- [NEW TO THE STORE](https://shopezra.us/collections/new-arrivals-fashion-collection): Shop new arrivals at SHOPEZRA — family-run store for the whole family. Latest jewelry, shoes & beauty trends. Ships in 1–2 business days.
+  Updated: 2026-09-30T22:42:09Z
+  Total Products: 461
+- [Lotion & Skincare](https://shopezra.us/collections/moisturizing-lotion-and-skincare-products): Explore our wide collection of moisturizing lotion and skincare products for radiant skin. Ideal for various skin types and concerns.
+  Updated: 2026-09-30T21:48:46Z
+  Total Products: 15
+- [Best Sellers](https://shopezra.us/collections/best--fashion-and-beauty-products): Discover the best  fashion and beauty products that elevate your style and enhance your confidence. Shop now!
+  Updated: 2026-09-30T22:42:09Z
+  Total Products: 864
+- [Jewelry & Accessories](https://shopezra.us/collections/affordable-gold-plated-jewelry): Discover our affordable gold-plated jewelry collection, featuring stunning pieces for every occasion. Shop now for elegant designs!
+  Updated: 2026-09-30T21:48:46Z
+  Total Products: 34
+- [Footwear](https://shopezra.us/collections/stylish-footwear-for-men-and-women): Discover stylish footwear for men and women, including boots, heels, and sneakers. Perfect for any occasion. Fast shipping available!
+  Updated: 2026-09-30T22:42:09Z
   Total Products: 111
-- [Men's Style](https://shopezra.us/collections/mens-style): Explore SHOPEZRA's men's fashion essentials, including stylish jackets, pants, and shoes for every occasion.
-  Updated: 2026-09-19T11:10:04Z
-  Total Products: 42
-- [Lotion & Skincare](https://shopezra.us/collections/lotion-skincare): Explore our Lotion and Skincare Essentials collection. Look good and feel good with top-quality skincare products.
-  Updated: 2026-09-20T05:15:17Z
-  Total Products: 18
-- [Best Sellers](https://shopezra.us/collections/best-sellers): Explore our top  products, handpicked for quality and customer satisfaction. Find the best sellers in our store today!
-  Updated: 2026-09-20T05:25:35Z
-  Total Products: 783
-- [Jewelry & Accessories](https://shopezra.us/collections/jewelry-accessories): Explore our luxury jewelry accessories collection to elevate every look with exquisite necklaces, bracelets, rings, and earrings.
-  Updated: 2026-09-20T05:23:42Z
-  Total Products: 27
-- [Footwear](https://shopezra.us/collections/premium-luxury-footwear-collection): Discover our premium luxury footwear collection for women and men, featuring stylish shoes, boots, and sneakers.
-  Updated: 2026-09-19T11:19:00Z
-  Total Products: 100
-- [Beauty](https://shopezra.us/collections/luxury-beauty-collection): Explore our luxury beauty collection featuring exquisite skincare, fragrances, and hair care products. Indulge in elegance today.
-  Updated: 2026-09-19T09:18:42Z
+- [Beauty](https://shopezra.us/collections/beauty-and-body-care-essentials): Explore our beauty and body care essentials, including lotions, sunscreens, and more, all designed to enhance your skincare routine.
+  Updated: 2026-09-30T21:48:47Z
   Total Products: 19
-- [FOOTWEAR](https://shopezra.us/collections/stylish-footwear-for-all-occasions): Discover stylish footwear for all occasions. Shop our latest collection of chic and comfortable shoes designed for every event.
-  Updated: 2026-09-19T11:18:31Z
-  Total Products: 61
-- [NEW TO THE STORE](https://shopezra.us/collections/new-arrivals-in-store): Explore our new arrivals in store. Find the latest trends, styles, and exclusive products waiting for you!
-  Updated: 2026-09-20T05:23:16Z
-  Total Products: 12
+- [FOOTWEAR](https://shopezra.us/collections/stylish-womens-footwear-collection): Explore our stylish women's footwear collection for every occasion. Discover the perfect shoes today!
+  Updated: 2026-09-30T01:45:46Z
+  Total Products: 72
+- [NEW TO THE STORE](https://shopezra.us/collections/latest-new-arrivals-in-store): Explore our latest new arrivals in store with fresh styles and exciting products. Updated regularly to reflect trends.
+  Updated: 2026-09-30T20:31:07Z
+  Total Products: 50
+- [Men's Fashion](https://shopezra.us/collections/mens-clothing-and-footwear): Discover the latest in men's clothing and footwear at SHOPEZRA. Shop jeans, shirts, and jackets today!
+  Updated: 2026-09-30T20:51:20Z
+  Total Products: 8
+- [Women's Fashion](https://shopezra.us/collections/trendy-womens-outfits): Explore our trendy women's outfits collection perfect for all occasions. Shop stylish dresses, tops, skirts, and more today.
+  Updated: 2026-09-30T22:41:23Z
+  Total Products: 31
+- [JEWELRY](https://shopezra.us/collections/handcrafted-artisan-jewelry): Discover our exquisite handcrafted artisan jewelry collection at SHOPEZRA. Unique designs with quality craftsmanship.
+  Updated: 2026-09-30T01:45:55Z
+  Total Products: 3
 
 ## Blogs
 
@@ -3039,47 +3367,59 @@
   - [Men's Streetwear Essentials for a Versatile Wardrobe](https://shopezra.us/blogs/news/best-mens-streetwear-essentials-to-build-a-versatile-wardrobe): Men's Streetwear Essentials for a Versatile Wardrobe
     Updated: 2026-08-31T00:00:17Z
     Author: BIZIMANA Onesime
+  - [Buying Women's Dresses and Men's Jeans Online - ShopEZRA](https://shopezra.us/blogs/news/buying-womens-dresses-and-mens-jeans-online): Buying Women's Dresses and Men's Jeans Online - ShopEZRA
+    Updated: 2026-09-20T21:42:30Z
+    Author: SHOPEZRA
+  - [Trendy Women's and Men's Fashion Online](https://shopezra.us/blogs/news/trendy-womens-and-mens-fashion-online): Trendy Women's and Men's Fashion Online
+    Updated: 2026-09-25T01:01:28Z
+    Author: SHOPEZRA
+  - [Affordable Women's Party Dresses and Men's Streetwear Outfits](https://shopezra.us/blogs/news/affordable-womens-party-dresses-and-mens-streetwear-outfits): Affordable Women's Party Dresses and Men's Streetwear Outfits
+    Updated: 2026-09-26T01:40:50Z
+    Author: SHOPEZRA
+  - [Latest Arrivals Women's Men's Fashion Guide](https://shopezra.us/blogs/news/latest-arrivals-womens-mens-fashion): Latest Arrivals Women's Men's Fashion Guide
+    Updated: 2026-09-27T01:20:51Z
+    Author: SHOPEZRA
 
 ## Store Pages
 
-- [Contact Us](https://shopezra.us/pages/contact-us): Contact EZRAWe would love to hear from you. Whether you have a question about an order, sizing, shipping, or a return, our team is here to help.Cus...
-  Updated: 2026-08-14T07:54:04Z
+- [Contact Us](https://shopezra.us/pages/contact-us): Customer supportQuestions about a product or an existing order? Email onesimebi2020@gmail.com or call or text 616-213-4748.For order questions, inc...
+  Updated: 2026-09-30T04:05:07Z
 - [Your Privacy Choices](https://shopezra.us/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-08-01T00:38:44Z
 - [Wholesale Registration](https://shopezra.us/pages/wholesale-registration): #wholesaleRegistrationPopup { width: 100%; background: transparent; display: block; padding: 12px; border-radius: 8px; max-width: 520px; margin: 0;...
   Updated: 2026-07-28T22:37:32Z
-- [About Us — Ezra | African Fashion & Luxury Streetwear](https://shopezra.us/pages/about-us): Welcome to EzraEzra was born from a simple but powerful belief: style is a language, and everyone deserves to speak it boldly.Our StoryWe are a fas...
-  Updated: 2026-07-28T22:36:46Z
+- [About Us — Ezra | African Fashion & Luxury Streetwear](https://shopezra.us/pages/about-us): Welcome to EZRAEzra was born from a simple but powerful belief: style is a language, and everyone deserves to speak it boldly.Our StoryWe are a fas...
+  Updated: 2026-09-30T04:05:07Z
 - [Become an  – Earn with Ezra](https://shopezra.us/pages/become-an-): Join the Ezra  ProgramLove Ezra? Turn your passion into income! Join our  program and earn commissions every time someone shops t...
   Updated: 2026-07-28T22:36:53Z
 - [ Dashboard](https://shopezra.us/pages/-dashboard)
   Updated: 2026-08-01T00:38:45Z
-- [REFUND POLICY](https://shopezra.us/pages/refund-policy)
-  Updated: 2026-07-28T22:37:25Z
-- [RETURN POLICY](https://shopezra.us/pages/return-policy)
-  Updated: 2026-07-28T22:37:27Z
-- [CUSTOMER REVIEWS](https://shopezra.us/pages/customer-reviews)
-  Updated: 2026-07-28T22:37:01Z
-- [TERMS & CONDITION](https://shopezra.us/pages/terms-condition)
-  Updated: 2026-07-28T22:37:30Z
-- [FAQs](https://shopezra.us/pages/faqs)
-  Updated: 2026-07-28T22:37:02Z
-- [SHIPPING POLICY](https://shopezra.us/pages/shipping-policy)
-  Updated: 2026-07-28T22:37:28Z
-- [CATALOG](https://shopezra.us/pages/catalog)
-  Updated: 2026-07-28T22:36:54Z
-- [Privacy Policy Guidelines for Shopezra's Premium Collection](https://shopezra.us/pages/privacy-policy): 
-  Updated: 2026-07-28T23:38:35Z
-- [Html Sitemap Fashion Collections](https://shopezra.us/pages/html-sitemap-fashion-collections): Collections MEN'S FASHION Shoes & Footwear Dresses Tops Accessories WOMEN'S FASHION BAGS & ACCESSORIES JEWELRY & WATCHES NEW ARRIVAL'S & TRENDING S...
-  Updated: 2026-08-08T21:54:25Z
+- [REFUND POLICY](https://shopezra.us/pages/refund-policy): REFUND POLICY — ALL SALES FINALAll sales are final: we don't accept returns for change of mind, wrong size, or color preference — please check size...
+  Updated: 2026-09-29T05:16:11Z
+- [RETURN POLICY](https://shopezra.us/pages/return-policy): RETURN POLICYAll sales are final; we don't accept returns for change of mind or sizing. If your item arrived damaged, defective, or wrong, see our ...
+  Updated: 2026-09-29T05:16:41Z
+- [CUSTOMER REVIEWS](https://shopezra.us/pages/customer-reviews): Open an individual product page to view any available customer reviews for that item.If you have a question about an order or want to share feedbac...
+  Updated: 2026-09-30T01:44:43Z
+- [TERMS & CONDITION](https://shopezra.us/pages/terms-condition): Read SHOPEZRA’s current Terms of Service.For questions, contact customer support.
+  Updated: 2026-09-30T01:44:43Z
+- [FAQs](https://shopezra.us/pages/faqs): Where do products ship from?All products are fulfilled by Trendsi or Teemdrop and ship from their fulfillment locations. We do not hold inventory o...
+  Updated: 2026-09-30T04:05:08Z
+- [SHIPPING POLICY](https://shopezra.us/pages/shipping-policy): Shipping and deliveryAll products are fulfilled by Trendsi or Teemdrop. We do not hold product inventory or dispatch orders from Grand Rapids. Prod...
+  Updated: 2026-09-30T04:05:09Z
+- [CATALOG](https://shopezra.us/pages/catalog): Explore current products at SHOPEZRA. Open a product for prices, available options and details. Women’s Fashion Men’s Fashion Footwear Jewelry & Ac...
+  Updated: 2026-09-30T01:44:43Z
+- [Privacy Policy Guidelines for Shopezra's Premium Collection](https://shopezra.us/pages/privacy-policy): Read SHOPEZRA’s current Privacy Policy.You can also review Your Privacy Choices.
+  Updated: 2026-09-30T01:44:43Z
+- [Html Sitemap Fashion Collections](https://shopezra.us/pages/html-sitemap-fashion-collections): Shop collectionsBrowse our current collections or shop all products. NEW TO THE STORE Lotion & Skincare Best Sellers Jewelry & Accessories Footwear...
+  Updated: 2026-09-30T04:05:09Z
 - [Html Sitemap for Blogs](https://shopezra.us/pages/html-sitemap-for-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
   Updated: 2026-08-08T21:54:15Z
-- [Html Sitemap for Website Navigation](https://shopezra.us/pages/html-sitemap-for-website-navigation): Pages CONTACT US Your Privacy Choices Wholesale Registration ABOUT US Become an   Dashboard REFUND POLICY RETURN POLICY CUSTOMER ...
-  Updated: 2026-08-08T21:54:09Z
-- [Html Sitemap for Products - Complete Guide](https://shopezra.us/pages/html-sitemap-for-products): Products Colorful Nebula - Skin Kit for... Ninja Dragon QI X Universal Wi... Soozier 42LB Pair Dumbbells Se... Striped Outdoor Umbrella For G... LO...
-  Updated: 2026-08-08T21:53:58Z
-- [Women's Clothing Size Chart - EZRA Size Guide](https://shopezra.us/pages/womens-clothing-size-chart): EZRA Size GuideUse this chart to find your perfect fit. All measurements are in inches unless noted.Women's Clothing US Size EU Size UK Size Bust (...
-  Updated: 2026-08-08T21:53:45Z
+- [Html Sitemap for Website Navigation](https://shopezra.us/pages/html-sitemap-for-website-navigation): Store pages Contact Us Your Privacy Choices Wholesale Registration ABOUT US Become an   Dashboard REFUND POLICY RETURN POLICY CUS...
+  Updated: 2026-09-30T04:05:10Z
+- [Html Sitemap for Products - Complete Guide](https://shopezra.us/pages/html-sitemap-for-products): Explore ShopEZRABrowse all productsCollections NEW TO THE STORE Lotion & Skincare Best Sellers Jewelry & Accessories Footwear Beauty FOOTWEAR NEW T...
+  Updated: 2026-09-30T04:05:10Z
+- [Women's Clothing Size Chart - EZRA Size Guide](https://shopezra.us/pages/womens-clothing-size-chart): Choose your sizeSize labels vary between products and suppliers. Use the measurements on the selected product page instead of assuming that a gener...
+  Updated: 2026-09-30T01:44:43Z
 - [Y2K Sequin Summer Dress: Sexy Lace Spliced Mini Dress](https://shopezra.us/pages/y2k-sequin-summer-dress): 
   Updated: 2026-08-08T21:53:31Z
 - [EZRA Landing Page](https://shopezra.us/pages/ezra-landing-page)
@@ -3098,17 +3438,21 @@
   Updated: 2026-09-09T03:02:38Z
 - [Withdrawal Policy Guidelines - Cancel Within 14 Days](https://shopezra.us/pages/withdrawal-policy-guidelines): .withdrawal-policy { max-width: 800px; margin: 0 auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-seri...
   Updated: 2026-09-09T03:41:58Z
-- [Withdrawal Request Form: Essential Guide](https://shopezra.us/pages/withdrawal-request-form): Understanding the Withdrawal Request FormA withdrawal request form is an essential document for individuals looking to withdraw funds from their ac...
-  Updated: 2026-09-09T03:41:44Z
+- [Withdrawal Request Form: Essential Guide](https://shopezra.us/pages/withdrawal-request-form): Order cancellation or withdrawal requestTo request cancellation or withdrawal of a store order, email onesimebi2020@gmail.com with the details belo...
+  Updated: 2026-09-30T01:44:43Z
+- [Growthhero redirect service - Seamless Navigation Solutions](https://shopezra.us/pages/growthhero-redirect-service): Welcome to the Growthhero redirect service! If you’ve landed on this page, it’s likely because a link you clicked directed you here. Our redirect s...
+  Updated: 2026-09-23T06:00:40Z
+- [One Click Registration Redirect - Growthhero.io](https://shopezra.us/pages/one-click-registration-redirect): Welcome to Growthhero.io At Growthhero.io, we believe that efficiency is key in your registration process. That's why we've implemented the one cli...
+  Updated: 2026-09-23T06:00:32Z
 
 ## Policies
 
 - [Privacy Policy](https://shopezra.us/policies/privacy-policy)
   Updated: 2026-06-26T19:19:56-04:00
 - [Shipping Policy](https://shopezra.us/policies/shipping-policy)
-  Updated: 2026-08-19T04:36:55-04:00
+  Updated: 2026-09-24T19:37:43-04:00
 - [Refund Policy](https://shopezra.us/policies/refund-policy)
-  Updated: 2026-09-09T18:49:08-04:00
+  Updated: 2026-09-24T19:41:09-04:00
 - [Terms of Service](https://shopezra.us/policies/terms-of-service)
   Updated: 2026-08-19T04:36:27-04:00
 - [Contact Information](https://shopezra.us/policies/contact-information)
