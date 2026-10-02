@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-09-23T00:00:41.456Z
+- Updated At: 2026-10-02T00:00:42.589Z
 
 ## Products
 
@@ -77,7 +77,7 @@
     Availability: Available
     Price: 18 000,00 FCFA XAF
 - [Asics Gel-Kayano 14 - Performance et Confort](https://gelnext.click/products/asics-gel-kayano-16): Découvrez le confort et les performances des Asics Gel-Kayano 14, la chaussure idéale pour tous vos entraînements. Idéales pour améliorer vos courses !
-  Updated: 2026-09-22T18:27:16Z
+  Updated: 2026-09-23T06:22:56Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -539,11 +539,11 @@
     Availability: Available
     Price: 55 000,00 FCFA XAF
 - [New balance 530](https://gelnext.click/products/new-balance-530)
-  Updated: 2026-08-04T01:31:48Z
+  Updated: 2026-09-30T20:47:56Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_21-7-2026_212123_www.newbalance.fr.jpg?v=1785807059
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_23-9-2026_214831_www.newbalance.fr.jpg?v=1790193952
   - [37](https://gelnext.click/products/new-balance-530?variant=52385242022170)
     Availability: Available
     Price: 12 000,00 FCFA XAF
@@ -572,11 +572,11 @@
     Availability: Available
     Price: 12 000,00 FCFA XAF
 - [New balance 1906R](https://gelnext.click/products/new-balnce-1906r)
-  Updated: 2026-08-04T01:33:03Z
+  Updated: 2026-09-24T08:12:13Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/R_1.jpg?v=1785807132
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_23-9-2026_215827_www.globalsneakers.fr.jpg?v=1790194094
   - [37](https://gelnext.click/products/new-balnce-1906r?variant=52385255194906)
     Availability: Available
     Price: 16 000,00 FCFA XAF
@@ -605,11 +605,11 @@
     Availability: Available
     Price: 16 000,00 FCFA XAF
 - [New balance 740](https://gelnext.click/products/new-balance-740)
-  Updated: 2026-08-08T18:42:23Z
+  Updated: 2026-09-24T07:39:34Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/R_1_2d94dc56-3d8a-4c60-a490-e83133ea72c0.jpg?v=1785807207
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_23-9-2026_21349_www.newbalance.fr.jpg?v=1790192321
   - [37](https://gelnext.click/products/new-balance-740?variant=52385263255834)
     Availability: Available
     Price: 16 500,00 FCFA XAF
@@ -1940,7 +1940,7 @@
     Availability: Available
     Price: 13 000,00 FCFA XAF
 - [Adidas Samba](https://gelnext.click/products/adidas-samba)
-  Updated: 2026-08-04T02:15:16Z
+  Updated: 2026-09-30T20:47:55Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2236,12 +2236,12 @@
   - [45](https://gelnext.click/products/saucony-omni-12?variant=52805406982426)
     Availability: Available
     Price: 20 000,00 FCFA XAF
-- [Numeris](https://gelnext.click/products/numeris)
-  Updated: 2026-09-17T19:41:35Z
+- [Numeris - GelNext](https://gelnext.click/products/numeris): - GelNext
+  Updated: 2026-09-24T07:46:54Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_16-9-2026_211627_shop.app.jpg?v=1789597912
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_16-9-2026_211627_shop.app.jpg?v=1790236003
   - [37](https://gelnext.click/products/numeris?variant=52896723992858)
     Availability: Available
     Price: 28 000,00 FCFA XAF
@@ -2269,12 +2269,12 @@
   - [45](https://gelnext.click/products/numeris?variant=52896724255002)
     Availability: Available
     Price: 28 000,00 FCFA XAF
-- [Numeris](https://gelnext.click/products/numeris-1)
-  Updated: 2026-09-17T20:41:26Z
+- [Numeris - GelNext](https://gelnext.click/products/numeris-1): - GelNext
+  Updated: 2026-09-24T19:12:16Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_15-9-2026_05845_shop.app.jpg?v=1789598230
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_15-9-2026_05845_shop.app.jpg?v=1790277125
   - [37](https://gelnext.click/products/numeris-1?variant=52902564167962)
     Availability: Available
     Price: 28 000,00 FCFA XAF
@@ -2434,12 +2434,12 @@
   - [45](https://gelnext.click/products/prada-cup-3?variant=52910411579674)
     Availability: Available
     Price: 55 000,00 FCFA XAF
-- [Prada cup](https://gelnext.click/products/prada-cup-4)
-  Updated: 2026-09-19T12:32:28Z
+- [Prada cup - GelNext](https://gelnext.click/products/prada-cup-4): - GelNext
+  Updated: 2026-09-26T00:42:38Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_19-9-2026_2321_www.prada.com.jpg?v=1789777934
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Capture_d_ecran_19-9-2026_2321_www.prada.com.jpg?v=1790383341
   - [37](https://gelnext.click/products/prada-cup-4?variant=52910411874586)
     Availability: Available
     Price: 55 000,00 FCFA XAF
@@ -2467,17 +2467,248 @@
   - [45](https://gelnext.click/products/prada-cup-4?variant=52910412136730)
     Availability: Available
     Price: 55 000,00 FCFA XAF
+- [Dior B30](https://gelnext.click/products/dior-b30)
+  Updated: 2026-09-23T21:18:08Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_204255_www.dior.com.jpg?v=1790189559
+  - [37](https://gelnext.click/products/dior-b30?variant=52937905799450)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/dior-b30?variant=52937905832218)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/dior-b30?variant=52937905864986)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/dior-b30?variant=52937905897754)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/dior-b30?variant=52937905930522)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/dior-b30?variant=52937905963290)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/dior-b30?variant=52937905996058)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/dior-b30?variant=52937906028826)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/dior-b30?variant=52937906061594)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+- [Dior B30](https://gelnext.click/products/dior-b30-1)
+  Updated: 2026-09-23T21:20:55Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_204456_www.dior.com.jpg?v=1790189959
+  - [37](https://gelnext.click/products/dior-b30-1?variant=52937917989146)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/dior-b30-1?variant=52937918021914)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/dior-b30-1?variant=52937918054682)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/dior-b30-1?variant=52937918087450)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/dior-b30-1?variant=52937918120218)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/dior-b30-1?variant=52937918152986)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/dior-b30-1?variant=52937918185754)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/dior-b30-1?variant=52937918218522)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/dior-b30-1?variant=52937918251290)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+- [Dior B30](https://gelnext.click/products/dior-b30-2)
+  Updated: 2026-09-23T21:23:28Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_204350_www.dior.com.jpg?v=1790190191
+  - [37](https://gelnext.click/products/dior-b30-2?variant=52937927295258)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/dior-b30-2?variant=52937927328026)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/dior-b30-2?variant=52937927360794)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/dior-b30-2?variant=52937927393562)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/dior-b30-2?variant=52937927426330)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/dior-b30-2?variant=52937927459098)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/dior-b30-2?variant=52937927491866)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/dior-b30-2?variant=52937927524634)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/dior-b30-2?variant=52937927557402)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+- [Dior B30](https://gelnext.click/products/dior-b30-3)
+  Updated: 2026-09-23T21:23:56Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_20521_www.dior.com.jpg?v=1790190463
+  - [37](https://gelnext.click/products/dior-b30-3?variant=52937970778394)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/dior-b30-3?variant=52937970811162)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/dior-b30-3?variant=52937970843930)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/dior-b30-3?variant=52937970876698)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/dior-b30-3?variant=52937970909466)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/dior-b30-3?variant=52937970942234)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/dior-b30-3?variant=52937970975002)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/dior-b30-3?variant=52937971007770)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/dior-b30-3?variant=52937971040538)
+    Availability: Available
+    Price: 15 000,00 FCFA XAF
+- [New balance 740 - GelNext](https://gelnext.click/products/new-balance-741): - GelNext
+  Updated: 2026-10-01T03:51:56Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_213534_www.newbalance.fr.jpg?v=1790826705
+  - [37](https://gelnext.click/products/new-balance-741?variant=52938130719002)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [38](https://gelnext.click/products/new-balance-741?variant=52938130751770)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [39](https://gelnext.click/products/new-balance-741?variant=52938130784538)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [40](https://gelnext.click/products/new-balance-741?variant=52938130817306)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [41](https://gelnext.click/products/new-balance-741?variant=52938130850074)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [42](https://gelnext.click/products/new-balance-741?variant=52938130882842)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [43](https://gelnext.click/products/new-balance-741?variant=52938130915610)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [44](https://gelnext.click/products/new-balance-741?variant=52938130948378)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [45](https://gelnext.click/products/new-balance-741?variant=52938130981146)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+- [New balance 740](https://gelnext.click/products/new-balance-742)
+  Updated: 2026-09-23T21:47:36Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_213659_www.newbalance.fr.jpg?v=1790192645
+  - [37](https://gelnext.click/products/new-balance-742?variant=52938145267994)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [38](https://gelnext.click/products/new-balance-742?variant=52938145300762)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [39](https://gelnext.click/products/new-balance-742?variant=52938145333530)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [40](https://gelnext.click/products/new-balance-742?variant=52938145366298)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [41](https://gelnext.click/products/new-balance-742?variant=52938145399066)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [42](https://gelnext.click/products/new-balance-742?variant=52938145431834)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [43](https://gelnext.click/products/new-balance-742?variant=52938145464602)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [44](https://gelnext.click/products/new-balance-742?variant=52938145497370)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+  - [45](https://gelnext.click/products/new-balance-742?variant=52938145530138)
+    Availability: Available
+    Price: 16 500,00 FCFA XAF
+- [New balance 530](https://gelnext.click/products/new-balance-531)
+  Updated: 2026-09-23T21:47:34Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_23-9-2026_215140_www.newbalance.fr.jpg?v=1790193185
+  - [37](https://gelnext.click/products/new-balance-531?variant=52938211819802)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/new-balance-531?variant=52938211852570)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/new-balance-531?variant=52938211885338)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/new-balance-531?variant=52938211918106)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/new-balance-531?variant=52938211950874)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/new-balance-531?variant=52938211983642)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/new-balance-531?variant=52938212016410)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/new-balance-531?variant=52938212049178)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/new-balance-531?variant=52938212081946)
+    Availability: Available
+    Price: 12 000,00 FCFA XAF
 
 ## Collections
 
 - [Asics gel-kayano 14](https://gelnext.click/collections/asics-gel-kayano-14): - GelNext
-  Updated: 2026-09-22T11:23:10Z
+  Updated: 2026-09-23T19:22:22Z
   Total Products: 7
 - [Asics gel-NYC](https://gelnext.click/collections/asics-gel-nyc): - GelNext
   Updated: 2026-08-08T18:42:26Z
   Total Products: 5
 - [New balance](https://gelnext.click/collections/new-balance): - GelNext
-  Updated: 2026-08-08T18:42:26Z
+  Updated: 2026-09-28T11:19:59Z
   Total Products: 4
 - [Birkenstock boston](https://gelnext.click/collections/birkenstock-boston): - GelNext
   Updated: 2026-09-01T20:25:08Z
@@ -2491,24 +2722,24 @@
 - [Asics](https://gelnext.click/collections/asics): - GelNext
   Updated: 2026-09-22T11:23:10Z
   Total Products: 12
-- [New Balance](https://gelnext.click/collections/new-balance-1): - GelNext
-  Updated: 2026-08-03T21:48:59Z
-  Total Products: 4
 - [Birkenstock](https://gelnext.click/collections/birkenstock): - GelNext
   Updated: 2026-09-01T20:25:08Z
   Total Products: 10
 - [Adidas](https://gelnext.click/collections/adidas): - GelNext
-  Updated: 2026-08-03T21:49:00Z
+  Updated: 2026-09-28T11:19:59Z
   Total Products: 4
 - [Nike P-6000](https://gelnext.click/collections/nike-p-6000): - GelNext
   Updated: 2026-09-20T11:24:05Z
   Total Products: 4
 - [Saucony](https://gelnext.click/collections/saucony): - GelNext
-  Updated: 2026-09-12T11:23:19Z
+  Updated: 2026-09-23T19:20:23Z
   Total Products: 4
 - [Numeris](https://gelnext.click/collections/numeris): - GelNext
-  Updated: 2026-09-19T00:14:54Z
+  Updated: 2026-09-23T19:19:35Z
   Total Products: 5
+- [Dior](https://gelnext.click/collections/dior): - GelNext
+  Updated: 2026-09-23T19:13:54Z
+  Total Products: 4
 
 ## Store Pages
 
