@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T17:14:57Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-22T00:00:37.875Z
+- Updated At: 2026-10-02T00:00:37.951Z
 
 ## Products
 
@@ -35,17 +35,17 @@
 ## Collections
 
 - [Home page](https://commodores.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-27T16:59:34Z
-  Total Products: 1
+  Updated: 2026-09-30T15:53:18Z
+  Total Products: 2
 - [Apparel](https://commodores.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-27T16:59:34Z
-  Total Products: 1
+  Updated: 2026-09-30T15:53:18Z
+  Total Products: 2
 - [Accessories](https://commodores.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-25T17:37:25Z
-  Total Products: 0
-- [All](https://commodores.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-27T16:59:34Z
+  Updated: 2026-09-30T16:00:34Z
   Total Products: 1
+- [All](https://commodores.merchmadeeasy.com/collections/all)
+  Updated: 2026-10-01T16:53:24Z
+  Total Products: 2
 
 ## Store Pages
 
