@@ -6,7 +6,7 @@
 - Timezone: America/Santiago
 - Created At: 2026-07-26T19:03:57Z
 - Contact Email: admin@kelvora.cl
-- Updated At: 2026-09-17T00:00:31.432Z
+- Updated At: 2026-10-02T00:00:35.447Z
 
 Kelvora es una tienda chilena de bienestar pensada para personas que trabajan sentadas todo el día. Vendemos correctores de postura, almohadas cervicales, masajeadores y accesorios de oficina, productos simples y honestos para un problema cotidiano, el cansancio de pasar muchas horas frente a un computador. No somos médicos ni prometemos soluciones milagrosas; ofrecemos apoyos reales, sin tecnicismos ni exageraciones. Antes de sumar cualquier producto a nuestro catálogo nos preguntamos siempre: ¿esto realmente ayuda a alguien que pasa el día sentado? Si la respuesta no es un sí claro, no entra a la tienda.
 
@@ -20,14 +20,14 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/cojin-ergonomico-chiporro-kelvora.webp?v=1788882546
   Price: 17.990,00 $ CLP
 - [Cojín Ortopédico para Piernas y Cadera | Kelvora](https://kelvora.cl/products/almohadas-para-piernas): Cojín de espuma viscoelástica para dormir de lado, alivia dolor de cadera, ciática y presión en las rodillas. Ideal en embarazo. Envío a todo Chile.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:06:30Z
   Vendor: Kelvora
   Product Type: Hogar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-cojin-piernas-ortopedico.png?v=1788882547
-  Price: 9990,00 $ CLP
+  Price: 10.990,00 $ CLP
 - [Masajeador Cervical Shiatsu con Calor Recargable | Kelvora](https://kelvora.cl/products/cojin-masajeador-cuello): Masajeador de cuello portátil con vibración, calor infrarrojo y batería recargable USB. Alivia la tensión de cuello y hombros en 15 minutos. Envío a todo Chile.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-25T14:19:15Z
   Vendor: Kelvora
   Product Type: Salud
   Availability: Available
@@ -41,19 +41,19 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-almohada-cervical-mariposa-pack-2.png?v=1788882546
   Price: 27.990,00 $ CLP
 - [Sillón Inflable con Reposapiés | Kelvora](https://kelvora.cl/products/silla-inflable-reposa-pies): Arma tu propio rincón de descanso en minutos. Sillón inflable ergonómico con reposapiés a juego. Envío a todo Chile.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:01:46Z
   Vendor: Kelvora
   Product Type: Hogar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-sillon-inflable-reposapies-fondo-blanco.png?v=1788882547
-  Price: 26.990,00 $ CLP
+  Price: 28.990,00 $ CLP
 - [Kelvora Manos de Alivio, Masajeador Cervical con Calor](https://kelvora.cl/products/masajeador-electrico-dedos-4d-portatil): Después de horas sentado frente a la pantalla, el cuello y los hombros son los primeros en pasar la cuenta. Manos de Alivio simula el masaje de unas manos reales sobre la nuca y los trapecios, con calor focalizado que ayuda a soltar la tensión acumulada. Sus cabezales de silicona en forma de mano se adaptan al cuello sin presionar la columna, mientras el sistema de correas te deja las manos libres para seguir trabajando, leyendo o simplemente descansando mientras se hace su trabajo. Tres modos de intensidad, calor ajustable entre 40°C y 42°C, y una batería que dura sesiones completas sin cables de por medio. Nada de esferas rígidas ni vibraciones genéricas: esto se siente distinto. Los detalles prácticos Está hecho con silicona de grado alimentario, malla textil transpirable y correas de cuero sintético materiales pensados para estar en contacto directo con la piel durante sesiones largas. Su batería de litio recargable de 2000 mAh entrega entre 90 y 120 minutos de uso continuo, con carga rápida por USB-C. Con solo 760 gramos, es liviano incluso para sesiones prolongadas, y su motor silencioso (menos de 50 dB) permite usarlo mientras trabajas, sin distraer a nadie alrededor. Viene en un solo color, Verde Musgo, con cable de carga y manual de instrucciones incluidos. Manos que realmente masajeanA diferencia de los masajeadores con esferas plásticas, sus nodos de silicona con forma de dedos aplican fricción, presión con nudillos y amasado tipo shiatsu el tipo de masaje que de verdad se siente en los trapecios. Calor que ayuda a soltar la tensiónCompresa térmica constante entre 40°C y 42°C que ayuda a estimular la circulación y relajar la musculatura tensa, sin necesidad de calentar agua ni usar compresas externas. Diseño hands-freeCorreas ajustables tipo arnés que se sujetan al cuello y hombros, para que sigas con lo tuyo trabajar, ver una serie, leer mientras el masajeador hace su trabajo. Autonomía real para el día a díaBatería de litio recargable de 2000 mAh, con hasta 90-120 minutos de uso continuo y carga rápida vía USB-C en aproximadamente 60 minutos. Silencioso y livianoMotor brushless de menos de 50 dB y solo 760 gramos de peso un 30% más liviano que los masajeadores tradicionales, para que se sienta cómodo incluso en sesiones largas. ¿Sirve para otras zonas además del cuello?Sí. Aunque está optimizado para la nuca y la zona superior de la espalda, también se puede usar en la zona lumbar, muslos, pantorrillas y brazos. ¿Cuánto dura la batería y cuánto se demora en cargar?Con carga completa tienes entre 90 y 120 minutos de uso continuo (unas 8 a 12 sesiones de 10 minutos). Se carga por USB-C en aproximadamente 60 minutos. ¿De qué material está hecho y es seguro para la piel?Silicona de grado alimentario en las manos, malla textil transpirable en la carcasa, plástico ABS de alta densidad y correas de cuero sintético. Todo pensado para estar en contacto directo con la piel. ¿Cada cuánto tiempo se puede usar seguido?Tiene apagado automático cada 10 minutos, pensado para evitar el sobrecalentamiento de la zona tratada. Puedes volver a encenderlo para otra sesión sin problema.
-  Updated: 2026-09-09T18:11:04Z
+  Updated: 2026-09-30T12:00:05Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/masajeador-mano-cuello-diseno-collage.png?v=1788882546
-  Price: 25.590,00 $ CLP
+  Price: 25.990,00 $ CLP
 - [Almohada con Túnel para el Brazo | Kelvora](https://kelvora.cl/products/kelvora-abrazo-libre-almohada-ergonomica): Duerme abrazado sin que el brazo se duerma. Almohada ergonómica con túnel de aire y memory foam. Descubre Kelvora Abrazo Libre.
   Updated: 2026-09-16T20:30:54Z
   Vendor: Kelvora
@@ -62,163 +62,163 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-almohada-tunel-brazo-frontal.png?v=1788882546
   Price: 19.990,00 $ CLP
 - [Collarín de Tracción Cervical Inflable | Kelvora](https://kelvora.cl/products/almohada-ortopedica-inflable-para-cuell): Alivia la tensión de cuello por mala postura con tracción cervical inflable. Fácil de usar, portátil. Descubre Kelvora Cuello Ligero.
-  Updated: 2026-09-09T18:11:04Z
+  Updated: 2026-09-30T11:57:08Z
   Vendor: Kelvora
   Product Type: Salud
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-collarin-traccion-cervical-inflable.png?v=1788882547
-  Price: 9990,00 $ CLP
+  Price: 10.990,00 $ CLP
 - [Faja Térmica Cervical con Vibración USB | Kelvora](https://kelvora.cl/products/masajeador-de-cuello): Alivia la tensión de cuello y hombros con calor y vibración USB. Envío a todo Chile. Descubre Kelvora Cuello en Calma.
-  Updated: 2026-09-09T18:11:04Z
+  Updated: 2026-09-30T11:56:13Z
   Vendor: Kelvora
   Product Type: DROPI CUP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-faja-termica-cervical-relajacion-sofa.png?v=1788882547
-  Price: 18.660,00 $ CLP
+  Price: 19.660,00 $ CLP
 - [Mini Masajeador de Vibración Portátil | Kelvora](https://kelvora.cl/products/mini-masajeador-electrico): Masaje rápido con solo apretar, para cuello y hombros. Pilas o USB, cabe en cualquier bolso. Envío a todo Chile en 1-2 días.
-  Updated: 2026-09-09T18:11:04Z
+  Updated: 2026-09-30T11:55:31Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-mini-masajeador-frontal.png?v=1788882546
-  Price: 6990,00 $ CLP
+  Price: 7990,00 $ CLP
 - [Masajeador Cervical Shiatsu para Casa y Auto | Kelvora](https://kelvora.cl/products/masajeador-espalda-hombro-cuello): Masaje con calor para cuello y hombros, con adaptador para casa y auto. Envío a todo Chile en 1-2 días. Pide el tuyo.
-  Updated: 2026-09-09T18:11:05Z
+  Updated: 2026-09-30T11:54:45Z
   Vendor: Kelvora
   Product Type: Otro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/masajeador-cuello-hombros-beige-naranja-detalle.png?v=1788882546
-  Price: 24.990,00 $ CLP
+  Price: 26.990,00 $ CLP
 - [Cojín Cervical para Apoyacabezas de Auto | Kelvora](https://kelvora.cl/products/cojin-apoyo-cabeza-eco-cuero-tejido): Soporte para el cuello en trayectos largos, con terminación tipo tuning deportivo. Envío a todo Chile en 1-2 días. Pide el tuyo.
-  Updated: 2026-09-09T18:11:05Z
+  Updated: 2026-09-30T11:54:00Z
   Vendor: Kelvora
   Product Type: Vehículo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-cojin-cervical-frontal.png?v=1788882547
-  Price: 8990,00 $ CLP
+  Price: 9990,00 $ CLP
 - [Guatero Eléctrico para Cintura y Espalda | Kelvora](https://kelvora.cl/products/guatero-electrico-almohadilla-termica-ca): Calor continuo y ajustable para abdomen y zona lumbar, sin agua ni microondas. Envío a todo Chile en 1-2 días. Pide el tuyo.
-  Updated: 2026-09-12T14:02:34Z
+  Updated: 2026-09-30T11:53:12Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-guatero-electrico-vista-calor.png?v=1788882548
-  Price: 12.690,00 $ CLP
+  Price: 13.690,00 $ CLP
 - [Corrector de Postura Ajustable Unisex | Kelvora Chile](https://kelvora.cl/products/corrector-de-postura-espalda-ajustable): Corrector de postura liviano y transpirable, ajustable a tu cuerpo. Ideal para la oficina y el día a día. Envío a todo Chile. Descúbrelo en Kelvora.
-  Updated: 2026-09-09T18:11:05Z
+  Updated: 2026-09-30T11:52:29Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/corrector-postura-espalda-negro-detalles.png?v=1788882547
-  Price: 14.990,00 $ CLP
+  Price: 15.790,00 $ CLP
 - [Cojín Masajeador Eléctrico con Calor | Auto y Hogar Kelvora](https://kelvora.cl/products/bodyrelax-asiento-masajeador-electrico): Masaje de cuerpo completo con calor y vibración para espalda, cuello y cintura. Úsalo en casa, oficina o auto. Envío a todo Chile. Descúbrelo.
-  Updated: 2026-09-09T18:11:05Z
+  Updated: 2026-09-30T11:51:42Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/bodyrelax-kelvora-cushion-white-bg.png?v=1788882487
-  Price: 24.990,00 $ CLP
+  Price: 26.690,00 $ CLP
 - [Corrector de Postura Ajustable | Kelvora Alineación Diaria](https://kelvora.cl/products/corrector-postura-unisex-ajustable): Un recordatorio suave para tu espalda: corrector de postura ajustable, cómodo y discreto bajo la ropa. Envío a todo Chile pide el tuyo hoy.
-  Updated: 2026-09-09T18:11:06Z
+  Updated: 2026-09-30T11:50:50Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-corrector-postura-vista-posterior.png?v=1788882487
-  Price: 9990,00 $ CLP
+  Price: 10.990,00 $ CLP
 - [Kelvora Alivio 4D | Masajeador de Percusión Cuello y Espalda](https://kelvora.cl/products/masajeador-recargable-multifuncional): Masajeador de percusión con 4 cabezales intercambiables y 6 niveles de intensidad. Alivia cuello, espalda y hombros después de un día sentado.
-  Updated: 2026-09-12T13:42:31Z
+  Updated: 2026-09-30T11:50:24Z
   Vendor: Kelvora
   Product Type: Otro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-alivio-4d-masajeador-percusion-vista-diagonal.png?v=1788882487
-  Price: 17.990,00 $ CLP
+  Price: 18.990,00 $ CLP
 - [Cojín Masajeador Shiatsu con Calor — Cuello y Espalda | Kelvora](https://kelvora.cl/products/almohadilla-termica-con-peso-para-masaje): Masajeador shiatsu con nodos bidireccionales y calor infrarrojo. Úsalo en cuello, espalda, piernas o auto. Envío a todo Chile.
-  Updated: 2026-09-09T18:11:06Z
+  Updated: 2026-09-30T11:49:31Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/sharper-image-cojin-masajeador-calor-empaque.png?v=1788882487
-  Price: 34.990,00 $ CLP
+  Price: 36.990,00 $ CLP
 - [Corrector de Postura Cruzado para Espalda y Hombros | Kelvora](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win): Corrige la postura desde los hombros y la espalda baja con un sistema de tirantes en X ajustable. Envío a todo Chile en 1-2 días. Pide el tuyo.
-  Updated: 2026-09-09T18:11:06Z
+  Updated: 2026-09-30T11:48:41Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/Diseno_sin_titulo_3.png?v=1788882547
   - [M / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027423366)
     Availability: Available
-    Price: 11.990,00 $ CLP
+    Price: 12.990,00 $ CLP
   - [XXL / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027456134)
     Availability: Available
-    Price: 10.990,00 $ CLP
+    Price: 11.990,00 $ CLP
   - [XL / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027488902)
     Availability: Available
-    Price: 10.990,00 $ CLP
+    Price: 11.990,00 $ CLP
   - [S / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027521670)
     Availability: Available
-    Price: 11.990,00 $ CLP
+    Price: 12.990,00 $ CLP
   - [L / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027554438)
     Availability: Available
-    Price: 10.990,00 $ CLP
+    Price: 11.990,00 $ CLP
   - [XXXL / NEGRO](https://kelvora.cl/products/chaleco-corrector-de-postura-cruzado-win?variant=44347027587206)
     Availability: Available
-    Price: 11.990,00 $ CLP
+    Price: 12.990,00 $ CLP
 - [Faja de Soporte Lumbar con Doble Ajuste | Kelvora](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1): Faja lumbar transpirable con doble ajuste para aliviar la tensión de la espalda baja. 3 tallas disponibles. Envío a todo Chile.
-  Updated: 2026-09-12T13:59:32Z
+  Updated: 2026-09-30T11:47:27Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-cinturon-lumbar-vista-frontal-extendido..png?v=1789221571
   - [L](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1?variant=44351251185798)
     Availability: Available
-    Price: 8990,00 $ CLP
+    Price: 9990,00 $ CLP
   - [M](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1?variant=44351251218566)
     Availability: Available
-    Price: 8990,00 $ CLP
+    Price: 9990,00 $ CLP
   - [S](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1?variant=44351251251334)
     Availability: Available
-    Price: 8990,00 $ CLP
+    Price: 9990,00 $ CLP
   - [XXL](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1?variant=44351251284102)
     Availability: Available
-    Price: 8990,00 $ CLP
+    Price: 9990,00 $ CLP
   - [XL](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1?variant=44351251316870)
     Availability: Available
-    Price: 8990,00 $ CLP
+    Price: 9990,00 $ CLP
 - [Cojín Masajeador Shiatsu con Calor , Cuello y Espalda Kelvora](https://kelvora.cl/products/cojin-masajeador): Masajeador shiatsu con nodos bidireccionales y calor infrarrojo. Úsalo en cuello, espalda, piernas o auto. Envío a todo Chile.
-  Updated: 2026-09-12T13:53:42Z
+  Updated: 2026-09-30T11:46:23Z
   Vendor: Kelvora
   Product Type: Tecnología
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-cojin-masajeador-shiatsu.png?v=1788882546
-  Price: 19.990,00 $ CLP
+  Price: 21.990,00 $ CLP
 
 ## Collections
 
 - [Bienestar de Escritorio](https://kelvora.cl/collections/frontpage): Descubre la colección Kelvora: cojines, soportes de postura y accesorios para el bienestar de quienes trabajan sentados. Sin promesas médicas, solo comodidad real.
-  Updated: 2026-09-09T18:11:02Z
+  Updated: 2026-09-30T12:01:47Z
   Total Products: 8
 - [Descanso y Sueño](https://kelvora.cl/collections/descanso-y-sueno): Almohadas y cojines Kelvora para un descanso real. Soporte para piernas, cuello y espalda mientras duermes o te relajas. Comodidad pensada para ti.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:06:31Z
   Total Products: 5
 - [Masaje y Relajación](https://kelvora.cl/collections/masaje-y-relajacion): Masajeadores Kelvora para cuello, cabeza y manos. Alivia la tensión acumulada por tu jornada frente al computador con solo unos minutos al día.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:00:06Z
   Total Products: 7
 - [Ver todos los productos](https://kelvora.cl/collections/productos)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:06:31Z
   Total Products: 21
 - [Masajeadores](https://kelvora.cl/collections/masajeadores)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:00:06Z
   Total Products: 8
 - [Correctores de postura](https://kelvora.cl/collections/correctores-de-postura)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T11:52:30Z
   Total Products: 3
 - [Cojines y almohadas](https://kelvora.cl/collections/cojines-y-almohadas)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:06:31Z
   Total Products: 7
 - [Calor y soporte lumbar](https://kelvora.cl/collections/calor-y-soporte-lumbar)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T11:53:13Z
   Total Products: 2
 - [Más vendidos](https://kelvora.cl/collections/mas-vendidos)
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-09-30T12:00:06Z
   Total Products: 6
 
 ## Blogs
@@ -243,7 +243,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
 ## Policies
 
 - [Privacy Policy](https://kelvora.cl/policies/privacy-policy)
-  Updated: 2026-08-26T11:03:18-04:00
+  Updated: 2026-09-20T00:00:54-03:00
 - [Shipping Policy](https://kelvora.cl/policies/shipping-policy)
   Updated: 2026-08-26T11:03:40-04:00
 - [Refund Policy](https://kelvora.cl/policies/refund-policy)
