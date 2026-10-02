@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-09-14T00:00:45.328Z
+- Updated At: 2026-10-02T00:00:44.665Z
 
 ## Products
 
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06859.jpg?v=1770637620
     Price: ₹2,200.00 INR
 - [Brick Red Cotton Medha Dress For Women](https://singaarabykavya.com/products/brick-red-cotton-medha-dress): Buy Brick Red Cotton Medha Dress For Women for breathable cotton comfort, relaxed elegance & handcrafted style. Shop your favourite today!
-  Updated: 2026-08-08T07:47:28Z
+  Updated: 2026-09-20T11:19:37Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -278,7 +278,7 @@
     Availability: Available
     Price: ₹2,499.00 INR
 - [Green Cotton Varsha Scallop Skirt For Women](https://singaarabykavya.com/products/green-cotton-varsha-scallop-skirt): Shop Green Cotton Varsha Scallop Skirt For Women with vibrant prints, scalloped detailing, soft cotton comfort & pockets. Order today now!
-  Updated: 2026-08-07T07:09:37Z
+  Updated: 2026-09-20T12:11:26Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -287,7 +287,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
   - [M](https://singaarabykavya.com/products/green-cotton-varsha-scallop-skirt?variant=47379481100509)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,900.00 INR
   - [L](https://singaarabykavya.com/products/green-cotton-varsha-scallop-skirt?variant=47379481133277)
     Availability: Available
@@ -733,6 +733,8 @@
   Updated: 2026-08-17T13:25:26Z
 - [Terms & Conditions | Singaara By Kavya](https://singaarabykavya.com/pages/terms-conditions): Effective Date: 23 February 2026 Welcome to Singaara by Kavya. By accessing or using our website and placing an order, you agree to be bound by the...
   Updated: 2026-08-17T13:26:44Z
+- [Wishlist](https://singaarabykavya.com/pages/wishlist)
+  Updated: 2026-09-14T16:44:26Z
 
 ## Policies
 
