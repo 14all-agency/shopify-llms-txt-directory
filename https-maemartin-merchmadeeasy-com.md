@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-25T00:00:42.444Z
+- Updated At: 2026-10-02T00:00:44.520Z
 
 ## Products
 
 - [Bear Portal Hoodie](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie): 80/20 cotton/recycled polyester hoodie in army green
-  Updated: 2026-09-18T18:39:17Z
+  Updated: 2026-09-29T17:14:57Z
   Vendor: Mae Martin
   Product Type: Hoodie
   Availability: Available
@@ -153,16 +153,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maemartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-11T11:32:45Z
+  Updated: 2026-09-30T11:29:58Z
   Total Products: 4
 - [Apparel](https://maemartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-11T11:32:45Z
+  Updated: 2026-09-30T11:29:58Z
   Total Products: 2
 - [Accessories](https://maemartin.merchmadeeasy.com/collections/accessories)
   Updated: 2026-06-16T12:24:35Z
   Total Products: 2
 - [All](https://maemartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-11T11:32:45Z
+  Updated: 2026-09-30T11:29:58Z
   Total Products: 4
 
 ## Store Pages
@@ -179,11 +179,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://maemartin.merchmadeeasy.com/policies/privacy-policy)
   Updated: 2026-06-19T10:38:24-05:00
 - [Shipping Policy](https://maemartin.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-02-20T16:05:46-06:00
+  Updated: 2026-09-25T11:01:16-05:00
 - [Refund Policy](https://maemartin.merchmadeeasy.com/policies/refund-policy)
   Updated: 2026-06-19T10:38:13-05:00
 - [Terms of Service](https://maemartin.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-02-20T16:05:24-06:00
+  Updated: 2026-09-25T11:00:57-05:00
 - [Contact Information](https://maemartin.merchmadeeasy.com/policies/contact-information)
   Updated: 2026-02-20T16:06:17-06:00
 
