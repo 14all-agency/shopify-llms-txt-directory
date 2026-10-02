@@ -8,12 +8,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-08-24T00:00:27.296Z
+- Updated At: 2026-10-02T00:00:27.532Z
 
 ## Products
 
 - [Abysmal Atmospheres – Create Dark, Moody Visuals](https://gradefruit.com/products/abysmal-atmospheres): Create a haunting and intense mood with deep shadows and mysterious tones, perfect for dark, moody scenes.
-  Updated: 2026-05-26T16:21:57Z
+  Updated: 2026-09-24T14:40:46Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -28,7 +28,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Analogue Ambience – Vintage Film Look for Your Footage](https://gradefruit.com/products/analogue-ambience): Infuse your footage with the warmth and texture of classic film, bringing a vintage, nostalgic feel to your visuals.
-  Updated: 2026-05-26T16:21:58Z
+  Updated: 2026-09-11T13:08:13Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -43,7 +43,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Black Implosion – Enhance Your Scenes with Deep Blacks](https://gradefruit.com/products/black-implosion): Add striking contrast, deep blacks and desaturated colors to your scenes, delivering a powerful and dramatic look with every frame.
-  Updated: 2026-05-26T16:21:58Z
+  Updated: 2026-09-11T13:08:12Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -58,7 +58,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Blockbuster – Epic Hollywood Looks](https://gradefruit.com/products/blockbuster): Give your footage the epic and vibrant color grading of Hollywood blockbusters, making every shot feel cinematic.
-  Updated: 2026-05-26T16:21:58Z
+  Updated: 2026-09-11T13:08:13Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Blockbuster V2 – Hollywood-Style Cinematic Color](https://gradefruit.com/products/blockbuster-v2): Enhance your visuals with the rich, saturated colors and dynamic tones that define modern blockbuster films.
-  Updated: 2026-05-26T16:21:59Z
+  Updated: 2026-09-11T13:08:13Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -88,7 +88,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Blue Steel – Cool, Edgy Tones for Intense Scenes](https://gradefruit.com/products/blue-steel): Impart a cool, steely tone to your scenes, perfect for creating an intense and edgy atmosphere.
-  Updated: 2026-08-01T11:49:20Z
+  Updated: 2026-09-11T13:08:11Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -103,7 +103,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Bright Autumn – Vibrant Fall Colors for Your Videos](https://gradefruit.com/products/bright-autumn): Capture the crisp and vibrant colors of fall with warm oranges, yellows, and earthy tones.
-  Updated: 2026-05-26T16:21:59Z
+  Updated: 2026-09-11T13:08:11Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Cinematic – Classic Cinematic Color Grading](https://gradefruit.com/products/cinematic): Achieve a classic cinematic look with balanced contrast and rich colors, ideal for narrative storytelling.
-  Updated: 2026-05-26T16:22:00Z
+  Updated: 2026-09-11T13:08:11Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -132,8 +132,8 @@
   - [LR Presets](https://gradefruit.com/products/cinematic?variant=50169624101187)
     Availability: Available
     Price: $19.00 USD
-- [Cinematic V2 – New Cinematic Looks for Dramatic Scenes](https://gradefruit.com/products/cinematic-v2): Elevate your projects with new cinematic looks combining clear contrast and a sophisticated color palette, perfect for dramatic and emotional scenes.
-  Updated: 2026-05-26T16:22:00Z
+- [Cinematic LUTs – Cinematic II LUT Pack | Gradefruit](https://gradefruit.com/products/cinematic-v2): Give your footage a cinematic look in seconds. Cinematic II includes 19 cinematic LUTs + Lightroom presets for DaVinci Resolve, Premiere Pro, Final Cut, CapCut, Lightroo and more.
+  Updated: 2026-09-12T01:36:53Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -148,7 +148,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Cinematic V3 – Punchy Cinematic Colors](https://gradefruit.com/products/cinematic-v3): Expand your creative options with a brand new collection of punchy looks, each offering a unique cinematic touch.
-  Updated: 2026-05-26T16:22:00Z
+  Updated: 2026-09-11T13:08:10Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Available
     Price: $19.00 USD
 - [City Noir – Moody Neon Noir Aesthetic for Urban Scenes](https://gradefruit.com/products/city-noir): Transport your audience to the gritty streets of neon noir with moody blacks, stark contrasts, and cyberpunk.
-  Updated: 2026-05-26T16:22:00Z
+  Updated: 2026-09-11T13:08:10Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -178,7 +178,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Colorful Dusk – Capture the Magic of Twilight with Rich Hues](https://gradefruit.com/products/colorful-dusk): Add the magic of twilight with rich, deep hues and soft gradients, perfect for capturing the transition from day to night - or vice versa.
-  Updated: 2026-05-26T16:22:01Z
+  Updated: 2026-09-11T13:08:10Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -193,7 +193,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Dark Forest – Mysterious, Enchanted Forest Look](https://gradefruit.com/products/dark-forest): Envelop your footage in the deep, mysterious greens and earthy browns of an enchanted forest, creating an eerie and mystical atmosphere.
-  Updated: 2026-05-26T16:22:01Z
+  Updated: 2026-09-11T13:08:10Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -208,7 +208,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Dramatic Darkness – High Contrast, Intense Shadows](https://gradefruit.com/products/dramatic-darkness): Infuse your scenes with intense shadows and high contrast for a dramatic, high-stakes feel.
-  Updated: 2026-05-26T16:22:01Z
+  Updated: 2026-09-11T13:08:09Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -223,7 +223,7 @@
     Availability: Available
     Price: $19.00 USD
 - [East Coast – The Dark Academia Look for Your Visuals](https://gradefruit.com/products/east-coast): Capture the Dark Academia look of the east coast with atmospheric tones characterized by wood, tweed and New England vibes.
-  Updated: 2026-05-26T16:22:02Z
+  Updated: 2026-09-11T13:08:08Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -238,7 +238,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Film Photography – Classic Film Look with Rich Colors](https://gradefruit.com/products/film-photography): Recreate the timeless look of film photography - from rich, natural colors to whimsical color shifts of expired stock.
-  Updated: 2026-05-26T16:22:02Z
+  Updated: 2026-09-11T13:08:08Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -253,7 +253,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Indian Summer – Warm, Vibrant Reds and Oranges](https://gradefruit.com/products/indian-summer): Evoke the warmth and vibrancy of a late summer day with rich reds, oranges, and golden hues.
-  Updated: 2026-05-26T16:22:02Z
+  Updated: 2026-09-11T13:08:08Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -268,7 +268,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Mediterranean Summer – Sun-Kissed Colors and Bright Blues](https://gradefruit.com/products/mediterranean-summer): Infuse your visuals with the bright, sun-kissed colors of a Mediterranean summer, featuring soft blues, warm sands, and lush greens.
-  Updated: 2026-07-30T02:25:45Z
+  Updated: 2026-09-11T13:08:07Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -283,7 +283,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Movie Looks – Iconic Film-Inspired Color Palettes](https://gradefruit.com/products/movie-looks): Bring your footage to life with the dynamic and varied color palettes of iconic films, tailored to suit a wide range of genres.
-  Updated: 2026-05-26T16:22:03Z
+  Updated: 2026-09-11T13:08:07Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -298,7 +298,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Movie Looks V2 – Expanded Collection of Cinematic Looks](https://gradefruit.com/products/movie-looks-v2): Expand your creative options with a new collection of film-inspired looks, each offering a unique cinematic touch.
-  Updated: 2026-05-26T16:22:03Z
+  Updated: 2026-09-11T13:08:07Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -313,7 +313,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Natural Beauty – Enhance Authentic, Lifelike Colors](https://gradefruit.com/products/natural-beauty): Enhance the natural beauty of your footage with soft, warm skintones and a focus on preserving authentic, lifelike colors.
-  Updated: 2026-05-26T16:22:04Z
+  Updated: 2026-09-11T13:08:07Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -328,7 +328,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Nordic Tales – Cool, Serene Tones Inspired by Nordic Landscapes](https://gradefruit.com/products/nordic-tales): Capture the serene hues of the Nordic landscape, with a focus on deep greens and muted earth tones.
-  Updated: 2026-05-26T16:22:04Z
+  Updated: 2026-09-11T13:08:05Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -343,7 +343,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Rich Black and White – Striking Monochrome Visuals](https://gradefruit.com/products/rich-black-and-white): Create striking monochrome images with deep blacks, bright whites, and a wide range of grays for a timeless, classic look.
-  Updated: 2026-05-26T16:22:04Z
+  Updated: 2026-09-11T13:08:05Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -358,7 +358,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Rustic Earth – Warm, Earthy Tones for Natural Settings](https://gradefruit.com/products/rustic-earth): Bring out the earthy tones from lush bark to hard, rusted iron - perfect for natural outdoor scenes.
-  Updated: 2026-05-26T16:22:05Z
+  Updated: 2026-09-11T13:08:05Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Straw and Sun – Bright, Cheerful Outdoor Scenes](https://gradefruit.com/products/straw-and-sun): Evoke the golden hues of sunlit fields and warm, rustic charm with this pack, ideal for bright and cheerful outdoor scenes.
-  Updated: 2026-05-26T16:22:05Z
+  Updated: 2026-09-11T13:08:06Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -388,7 +388,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Tinted Black and White – Unique, Vintage Monochrome Look](https://gradefruit.com/products/tinted-black-and-white): Add a subtle tint to your black and white footage, giving it a unique, vintage character while maintaining the classic monochrome aesthetic.
-  Updated: 2026-05-26T16:22:05Z
+  Updated: 2026-09-11T13:08:04Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -403,7 +403,7 @@
     Availability: Available
     Price: $19.00 USD
 - [TV Looks – Vibrant Color Grading for Broadcast-Ready Visuals](https://gradefruit.com/products/tv-looks): Emulate the distinct color grading of television dramas, with a mix of vibrant colors and sharp contrasts for a dynamic finish.
-  Updated: 2026-05-26T16:22:06Z
+  Updated: 2026-09-11T13:08:03Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -418,7 +418,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Vintage Black and White – Timeless, Grainy Monochrome Aesthetic](https://gradefruit.com/products/vintage-black-and-white): Achieve the timeless contrasts of vintage black and white films, perfect for evoking a sense of nostalgia.
-  Updated: 2026-05-26T16:22:06Z
+  Updated: 2026-09-11T13:08:04Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -433,7 +433,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Vintage Film – Authentic, Nostalgic Film Look](https://gradefruit.com/products/vintage-film): Infuse your footage with the faded colors aged vintage film stock, creating an authentic, nostalgic atmosphere.
-  Updated: 2026-05-26T16:22:07Z
+  Updated: 2026-09-11T13:08:04Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -448,7 +448,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Wes Anderson – Quirky, Pastel-Colored Cinematic Aesthetic](https://gradefruit.com/products/wes-anderson): Capture the quirky, pastel-colored world of Wes Anderson with these looks, perfect for adding a whimsical, offbeat charm to your visuals.
-  Updated: 2026-05-26T16:22:07Z
+  Updated: 2026-09-11T13:08:02Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -463,7 +463,7 @@
     Availability: Available
     Price: $19.00 USD
 - [West Coast – Bright and sunny beach vibes](https://gradefruit.com/products/west-coast): Capture the essence of coastal living with warm tones, vibrant blues, and golden sunlight, giving your videos a crisp, cinematic feel.
-  Updated: 2026-05-26T16:22:08Z
+  Updated: 2026-09-11T13:08:02Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -477,8 +477,8 @@
   - [LR Presets](https://gradefruit.com/products/west-coast?variant=50169844891971)
     Availability: Available
     Price: $19.00 USD
-- [Master Bundle – 500+ Cinematic LUTs and Lightroom Presets in One Collection](https://gradefruit.com/products/master-bundle): Elevate your projects with the Master Bundle, which includes all Gradefruit 530 looks. Available as LUTs and Lightroom presets. FREE BONUS editing assets included when you opt for both, giving you more than 1,600 files!
-  Updated: 2026-05-26T16:22:08Z
+- [Master Bundle – 500+ Cinematic LUTs and Lightroom Presets in One Collection](https://gradefruit.com/products/master-bundle): Not sure which pack fits your style? Get everything and explore the entire Gradefruit collection. Available as LUTs and Lightroom presets. FREE BONUS editing assets included when you opt for both, giving you more than 1,600 files!
+  Updated: 2026-09-12T00:56:25Z
   Vendor: GRADEFRUIT
   Product Type: Bundle
   Availability: Available
@@ -493,7 +493,7 @@
     Availability: Available
     Price: $99.00 USD
 - [City Noir V2 – Modern Noir with a Cinematic Edge](https://gradefruit.com/products/city-noir-v2): Elevate your urban visuals with deep contrasts, dramatic shadows, and modern noir-inspired tones, perfect for storytelling with a modern cinematic edge.
-  Updated: 2026-05-26T16:22:08Z
+  Updated: 2026-09-11T13:08:01Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -508,7 +508,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Wedding Boho – Warm, Rustic Tones for Boho Weddings](https://gradefruit.com/products/wedding-boho): Enhance your wedding footage with soft, warm hues and rustic tones, creating a dreamy, bohemian aesthetic that perfectly captures the romance of the day.
-  Updated: 2026-05-26T16:22:08Z
+  Updated: 2026-09-11T13:08:01Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -523,7 +523,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Wedding Classic – Timeless Elegance for Wedding Films](https://gradefruit.com/products/wedding-classic): Achieve a classic, elegant look with natural tones and subtle accents for daytime, or go for the bold looks that are perfect for making the night one to remember.
-  Updated: 2026-06-08T10:32:08Z
+  Updated: 2026-09-22T17:45:26Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -544,13 +544,13 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2026-08-02T11:15:25Z
+  Updated: 2026-09-25T11:18:14Z
   Total Products: 34
 - [Bundles](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2026-06-04T05:13:12Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2026-08-02T11:15:25Z
+  Updated: 2026-09-25T11:18:14Z
   Total Products: 34
 
 ## Store Pages
@@ -563,6 +563,10 @@
   Updated: 2024-10-05T16:14:12Z
 - [Video Tutorials](https://gradefruit.com/pages/tutorials): Gradefruit tutorials: because who doesn’t need a 10-step guide to adding color to their footage? Watch and learn - vibrant colors don’t just grow o...
   Updated: 2025-01-11T16:23:36Z
+- [Free Looks](https://gradefruit.com/pages/free-looks): Fruit up your visuals with seven of our best looks. For free!
+  Updated: 2026-09-11T13:39:27Z
+- [See all products](https://gradefruit.com/pages/see-all-products)
+  Updated: 2026-09-11T15:26:07Z
 
 ## Policies
 
