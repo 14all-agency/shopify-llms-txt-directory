@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-12-16T17:56:31Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-23T00:00:44.917Z
+- Updated At: 2026-10-02T00:00:41.957Z
 
 ## Products
 
 - [2024 Encore Tour Tee - Black](https://pulpofficial.us/products/2024-tour-tee): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-12T17:40:36Z
+  Updated: 2026-09-28T15:29:46Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Big Mouth Tee - White](https://pulpofficial.us/products/mouth-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-21T18:08:54Z
+  Updated: 2026-09-28T01:24:16Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
@@ -268,14 +268,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Come Alive Tote](https://pulpofficial.us/products/come-alive-tote): 75% recycled cotton and 25% recycled polyester tote bag in natural
-  Updated: 2026-09-12T01:28:17Z
+  Updated: 2026-09-30T20:03:47Z
   Vendor: PULP US
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/Pulp_0000_165614_1_304037_d.png?v=1756403636
   Price: $20.00 USD
 - [Shadow Logo Tee - Natural](https://pulpofficial.us/products/shadow-logo-tee-natural): 100% cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-09T21:16:05Z
+  Updated: 2026-09-23T04:22:55Z
   Vendor: PULP US
   Product Type: T-Shirt
   Availability: Available
@@ -303,7 +303,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0905/8877/4701/files/PULP_0001_165606_1_304006_d.png?v=1760382815
   Price: $25.00 USD
 - [Pin Badge Set](https://pulpofficial.us/products/pin-badge-set): Set of 4 pin badges on cardboard backing
-  Updated: 2026-09-17T17:12:55Z
+  Updated: 2026-09-24T16:36:58Z
   Vendor: PULP US
   Product Type: Pin Badge
   Availability: Available
@@ -320,19 +320,19 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://pulpofficial.us/collections/frontpage)
-  Updated: 2026-09-22T11:15:49Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 19
 - [Apparel](https://pulpofficial.us/collections/apparel)
-  Updated: 2026-09-22T11:15:49Z
+  Updated: 2026-09-29T11:17:42Z
   Total Products: 12
 - [Accessories](https://pulpofficial.us/collections/accessories)
-  Updated: 2026-09-19T11:17:06Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 7
 - [All](https://pulpofficial.us/collections/all)
-  Updated: 2026-09-22T11:15:49Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 19
 - [Accessories](https://pulpofficial.us/collections/accessories-1)
-  Updated: 2026-09-19T11:17:06Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 7
 - [Hats](https://pulpofficial.us/collections/hats)
   Updated: 2025-01-13T20:56:38Z
@@ -341,13 +341,13 @@ your agent can transact everywhere.
   Updated: 2025-01-13T20:56:38Z
   Total Products: 0
 - [More Merch](https://pulpofficial.us/collections/more-merch)
-  Updated: 2026-09-19T11:17:06Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 11
 - [Here Come More Tour](https://pulpofficial.us/collections/here-come-more-tour)
-  Updated: 2026-09-19T11:17:06Z
+  Updated: 2026-10-01T11:19:13Z
   Total Products: 8
 - [T-Shirts](https://pulpofficial.us/collections/t-shirts)
-  Updated: 2026-09-22T11:15:49Z
+  Updated: 2026-09-29T11:17:42Z
   Total Products: 9
 
 ## Store Pages
@@ -366,11 +366,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://pulpofficial.us/policies/privacy-policy)
   Updated: 2026-06-19T10:57:06-05:00
 - [Shipping Policy](https://pulpofficial.us/policies/shipping-policy)
-  Updated: 2024-12-18T14:16:44-06:00
+  Updated: 2026-09-25T11:11:08-05:00
 - [Refund Policy](https://pulpofficial.us/policies/refund-policy)
   Updated: 2026-06-19T10:56:51-05:00
 - [Terms of Service](https://pulpofficial.us/policies/terms-of-service)
-  Updated: 2024-12-18T14:14:11-06:00
+  Updated: 2026-09-25T11:10:44-05:00
 - [Contact Information](https://pulpofficial.us/policies/contact-information)
   Updated: 2024-12-18T14:18:08-06:00
 
