@@ -1,17 +1,20 @@
 # Unocconi (https://unocconi.com)
 
+> Unocconi GmbH ist spezialisiert auf innovative Lösungen zur Wärmerückgewinnung aus Duschwasser. Wir entwickeln und vertreiben energieeffiziente Duschsysteme für Privathaushalte, Hotels, Fitnessstudios, Sportstätten und weitere gewerbliche Anwendungen. Unsere Produkte nutzen die Wärme des abfließenden Duschwassers, um kaltes Frischwasser vorzuwärmen und dadurch Energieverbrauch und CO₂-Emissionen zu reduzieren – ohne Komfortverlust beim Duschen. Unser Sortiment umfasst Duschrohre, Duschrinnen mit integriertem Wärmetauscher sowie nachrüstbare Lösungen für bestehende Duschen. Unocconi ist im deutschsprachigen Raum (DACH) aktiv und arbeitet mit Sanitärbetrieben, Fachplanern, Energieberatern, Architekten und weiteren Fachpartnern zusammen.
+
 - Domain: https://unocconi.com
 - Locale: de
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2023-02-25T10:04:29Z
 - Contact Email: valentin.nittbaur@unocconi.com
-- Updated At: 2026-09-24T18:09:23.535Z
+- Address: Römersteinweg 21, 70794 Filderstadt
+- Updated At: 2026-10-02T00:00:22.078Z
 
 ## Products
 
 - [Duschrinne mit Wärmetauscher Joulia Inline 3-Rohr](https://unocconi.com/products/joulia-inline-3-rohr): Die Joulia Inline 3-Rohr Duschrinne erreicht bis zu 37 % Wärmerückgewinnung. Hochwertig verarbeitet, versicherter Versand – jetzt nachhaltig Duschen! 🚿♻️
-  Updated: 2026-09-07T11:58:24Z
+  Updated: 2026-09-28T16:06:42Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -65,7 +68,7 @@
     Availability: Available
     Price: 2.543,00 € EUR
 - [Duschrohr CF 170 cm (63% Wirkungsgrad)](https://unocconi.com/products/duschrohr-counter-flow-170cm): Entdecken Sie den Duschrohr-Wärmetauscher kurz (170cm) von Unocconi und sparen Sie 63% ihrer Duschenergie und Geld. Ideal für jedes Bad!
-  Updated: 2026-09-07T11:40:03Z
+  Updated: 2026-09-28T10:50:38Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -122,7 +125,7 @@
     Availability: Available
     Price: 3.707,00 € EUR
 - [Duschrinne Joulia 5-Rohr (49% Wirkungsgrad)](https://unocconi.com/products/joulia-inline-5-rohr): Die Joulia® Inline 5-Rohr Duschrinne ermöglicht bis zu 49 % Wärmerückgewinnung für maximale Energieeffizienz. Hochwertig, nachhaltig & versicherter Versand! 🚿
-  Updated: 2026-09-07T12:22:54Z
+  Updated: 2026-09-28T16:09:35Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -176,7 +179,7 @@
     Availability: Available
     Price: 2.960,00 € EUR
 - [Duschrinne mit Wärmetauscher Joulia 3-Rohr für exklusive Bodenbeläge](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag): Die Joulia Inline 3-Rohr Duschrinne erreicht bis zu 37 % Wärmerückgewinnung. Auch erhältlich mit exklusiven Bodenbelägen für Fein- und Naturstein.🚿♻️
-  Updated: 2026-09-07T11:50:15Z
+  Updated: 2026-09-28T16:11:58Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -188,7 +191,7 @@
     Availability: Available
     Price: 2.815,00 € EUR
 - [Duschrinne mit Wärmetauscher Joulia 5-Rohr für exklusive Bodenbeläge](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag): Die Joulia Inline 5-Rohr Duschrinne erreicht bis zu 49 % Wärmerückgewinnung. Auch erhältlich mit exklusiven Bodenbelägen für Fein- und Naturstein.🚿♻️
-  Updated: 2026-09-07T11:51:51Z
+  Updated: 2026-09-28T16:11:10Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -200,11 +203,11 @@
     Availability: Available
     Price: 3.474,00 € EUR
 - [Unocconi Duschplatte - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-original): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 30 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-09-21T18:22:44Z
+  Updated: 2026-09-26T21:06:20Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal_1.png?v=1787763762
+  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal_1.png?v=1790456781
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-original?variant=52862517150024)
     Availability: Available
     Price: 499,00 € EUR
@@ -236,22 +239,22 @@
     Availability: Available
     Price: 349,00 € EUR
 - [Unocconi Duschplatten - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-uebersicht): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 10 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-08-27T05:20:34Z
+  Updated: 2026-09-30T17:32:25Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967550280)
     Availability: Available
-    Price: 299,00 € EUR
+    Price: 349,00 € EUR
   - [120 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967583048)
     Availability: Available
-    Price: 299,00 € EUR
+    Price: 349,00 € EUR
   - [130 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967615816)
     Availability: Available
-    Price: 299,00 € EUR
+    Price: 349,00 € EUR
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967648584)
     Availability: Available
-    Price: 299,00 € EUR
+    Price: 349,00 € EUR
 
 ## Collections
 
@@ -259,10 +262,10 @@
   Updated: 2026-09-07T12:22:55Z
   Total Products: 6
 - [Duschrohre mit Wärmetauscher](https://unocconi.com/collections/shop-fallrohr-mit-warmetauscher): Energie sparen beim Duschen! Unsere Fallrohr-Wärmetauscher nutzen Abwasserwärme, um Ihr Duschwasser effizient vorzuwärmen. Jetzt entdecken & nachhaltig sparen!
-  Updated: 2026-09-07T11:40:54Z
+  Updated: 2026-09-29T11:12:40Z
   Total Products: 3
 - [Alle Produkte](https://unocconi.com/collections/shop): Finden Sie die besten Duschrinnen und Duschrohre mit Wärmetauscher in unserem Shop. Hochwertige Produkte für mehr Energieeffizienz – jetzt entdecken!
-  Updated: 2026-09-07T12:22:55Z
+  Updated: 2026-09-29T11:12:40Z
   Total Products: 10
 - [Duschrinne 5-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-joulia-5-rohr)
   Updated: 2026-09-07T12:22:55Z
