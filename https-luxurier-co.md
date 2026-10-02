@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2020-06-21T00:37:55Z
 - Contact Email: hello@luxurier.co
-- Updated At: 2026-09-22T00:00:45.127Z
+- Updated At: 2026-10-02T00:00:46.888Z
 
 ## Products
 
 - [Claudiette Yellow Birds Duvet Cover Set (Egyptian Cotton) | Luxurier](https://luxurier.co/products/claudiette-duvet-cover-set-egyptian-cotton): Buy Claudiette Duvet Cover Set Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium 600 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T03:37:56Z
+  Updated: 2026-09-30T11:46:52Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -129,7 +129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/claudiette-yellow-set-egyptian-cotton.jpg?v=1780339011
     Price: £245.00 GBP
 - [Elodie Green Duvet Cover Set (500TC Egyptian Cotton)](https://luxurier.co/products/elodie-green-duvet-cover-set): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bed beautifully with the Elodie Duvet Cover SetThis set gives a contemporary update to the classic green base. It's super-soft and cosy, this luxurious bedding set brings an effortless touch of understated luxury to your bedroom's décor with those carefully printed bees, ready to bring your dreams to a new level of comfort. Made with 100% Egyptian Cotton and a premium 500 Thread Count for maximum softness. SIZE GUIDE Queen (200 x 230 cm) (79x91inch) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 cm) (87x94inch) UK King (225 x 220 cm) USA King (230 x 260 cm) (102x91inch) UPGRADE YOUR BEDROOM WITH QUALITY Egyptian cotton is the quintessential fabric for bedding. Also hailed as the king of cotton, Egyptian Cotton is the best choice for your bed. The length of the fibres makes it possible to weave the finest yarns without compromising on strength. This in turn makes the fabric more resistant while also being super-soft. Egyptian Cotton’s ability to absorb liquid gives the fabrics made of this material deeper, brighter and more resistant colours. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™. PRODUCT DETAILS 4 Piece Sets Include: - 1 Duvet Cover - 1 Flat/Fitted Bed Sheet - 2 Pillowcases 48*74cm 6 Pieces Sets Include also:- 2 extra Pillowcases 48*74cmThread Count: 500TCMaterial: 100% Egyptian Cotton GET FREE & FAST SHIPPING WITH FEDEX
-  Updated: 2026-09-21T19:25:04Z
+  Updated: 2026-09-28T18:02:37Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H117c1c638f6d4e3fb3d5aa02cccf4f33J.jpg?v=1593151747
     Price: £239.00 GBP
 - [Elizabeth Duvet Cover Set 1000TC (Egyptian Cotton) | Luxury White Gold](https://luxurier.co/products/elizabeth-duvet-cover-set-egyptian-cotton): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the sophisticated Elizabeth Duvet Cover Set Made with super soft 100% Egyptian cotton and accentuated by elegant stitching and classic patterns. Pops of embroidered gold throughout the white sheets add that royal feeling to your bedroom decor that will make you feel like a queen. Experience real luxury sleep with a 1000 Thread count and finely embroidered details that bring your dreams to the next level. 4 Pieces Set Includes: - 1 Duvet Cover - 1 Flat or Fitted Bed Sheet - 2 Pillowcases 48x74cm 7 Pieces Set Includes also:- 2 Square pillowcases: 60x60cm- 1 Small decorative pillow UPGRADE YOUR BED WITH PURE LUXURY Egyptian cotton is the quintessential fabric for bedding. Also hailed as the king of cotton, Egyptian Cotton is the best choice for your bed. The length of the fibres makes it possible to weave the finest yarns without compromising on strength. This in turn makes the fabric more resistant while also being super-soft. Egyptian Cotton’s ability to absorb liquid gives the fabrics made of this material deeper, brighter and more resistant colours. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™. PRODUCT DETAILS SIZE GUIDE Queen (200 x 230 CM) (79x91inch) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 CM) (87x94inch) USA King (230 x 260 cm) (102x91inch) SuperKing (240 x 260 cm) (94.5x102inch) Material: 100% Egyptian CottonThread count: 1000TC LuxuryGET FREE & FAST SHIPPING
-  Updated: 2026-09-16T06:40:40Z
+  Updated: 2026-09-27T13:49:52Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -309,7 +309,7 @@
     Availability: Available
     Price: £285.00 GBP
 - [Estelle Purple Floral Duvet Cover Set (Egyptian Cotton)](https://luxurier.co/products/estelle-duvet-cover-set-egyptian-cotton): Buy Estelle Duvet Cover Set Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium 500 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-13T00:57:06Z
+  Updated: 2026-09-27T21:21:16Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -411,7 +411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/estellemain.jpg?v=1629764184
     Price: £259.00 GBP
 - [Amélie Duvet Cover Set Egyptian Cotton | Luxurier](https://luxurier.co/products/amelie-duvet-cover-set-egyptian-cotton): Buy Amelie Duvet Cover Set Egyptian Cotton online at luxurier. Luxurier offers an incredible range of luxury home decor products of the finest quality for you. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-16T15:18:22Z
+  Updated: 2026-10-01T08:42:42Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -455,7 +455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/Amelie.png?v=1619130151
     Price: £259.00 GBP
 - [Rosamonde Duvet Cover & Bedspread Set (Egyptian Cotton)](https://luxurier.co/products/rosamonde-duvet-cover-set-silk-cotton): Buy Rosamonde Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium Thread Count in White and Blue. Choose the finest luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-20T20:47:26Z
+  Updated: 2026-09-30T04:56:46Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -560,7 +560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/5986398167984.jpg?v=1593325221
     Price: £49.00 GBP
 - [Cecile Duvet Cover Set Egyptian Cotton Grey Floral Bedding Luxurier](https://luxurier.co/products/cecile-duvet-cover-set-egyptian-cotton): Buy Cecile Duvet Cover set in Grey with purple flowers by Luxurier in 100% Egyptian Cotton with a premium 600 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T15:43:22Z
+  Updated: 2026-09-30T12:51:03Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -764,7 +764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H3bde562ed35248b79ff9b812dc626ef9b.jpg?v=1593565829
     Price: £239.00 GBP
 - [Josephine Duvet Cover Set Egyptian Cotton | Luxurier](https://luxurier.co/products/josephine-duvet-cover-set-egyptian-cotton): Buy Josephine Duvet Cover Set Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium 600 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-15T21:44:05Z
+  Updated: 2026-09-23T18:04:23Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -886,7 +886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H21836abf226a43eab4e8453b2dcc696b7.png?v=1702403028
     Price: £319.00 GBP
 - [Darcey Duvet Cover Set (Egyptian Cotton) | Bedding Set](https://luxurier.co/products/darcey-duvet-cover-set-egyptian-cotton): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the sophisticated Darcey Duvet Cover SetThis gorgeous set gives a floral update to the gentle base in beige. It's ultra-soft and cosy, this beautiful bedding set brings an effortless touch of luxury to your bedroom's décor with its kind colours. Choose between a flat or fitted sheet in a lovely pink that will bring your dreams to the next level. SIZE GUIDE Queen (200 x 230 CM) (79x91inch) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 CM) (87x94inch) UK King (225 x 220 cm) USA King (230 x 260 cm) (102x91inch) Double Bed (180 x 210 cm) UK Double (200 x 299 cm) UPGRADE YOUR BEDROOM WITH QUALITY Egyptian cotton is the quintessential fabric for bedding. Also hailed as the king of cotton, Egyptian Cotton is the best choice for your bed. The length of the fibres makes it possible to weave the finest yarns without compromising on strength. This in turn makes the fabric more resistant while also being super-soft. Egyptian Cotton’s ability to absorb liquid gives the fabrics made of this material deeper, brighter and more resistant colours. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™. PRODUCT DETAILS 4 Piece Set Include:- 1 Duvet Cover- 1 Bed Sheet- 2 Pillowcases (48*74cm) 6 Pieces Set Include also:- 2 extra Pillowcases (48*74cm) Material: 100% Egyptian CottonThread count: 600TC PremiumNot sold in store. Online Exclusive. GET FREE & FAST SHIPPING WITH UPS AND DHL
-  Updated: 2026-09-17T03:29:17Z
+  Updated: 2026-09-28T11:29:52Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -1090,7 +1090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H7dd6fdb6965343fbb1d1f714caf0fdd0k.jpg?v=1746285751
     Price: £225.00 GBP
 - [Agnese Duvet Cover Set Egyptian Cotton Floral Pink Bedding | Luxurier](https://luxurier.co/products/agnese-duvet-cover-set-egyptian-cotton): Buy Agnese Duvet Cover Set in Pink with flowers. Shop Luxury Duvet Covers by Luxurier in 100% Egyptian Cotton with a premium 500 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T03:31:05Z
+  Updated: 2026-09-27T12:32:39Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -1213,7 +1213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/06e7989b-ab90-4ad0-bc4f-def60f9c5f7a.png?v=1612683115
     Price: £379.00 GBP
 - [Aceline Duvet Cover Set (Egyptian Cotton) | Grey Luxury Bedding Set](https://luxurier.co/products/aceline-duvet-cover-set-egyptian-cotton): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the elegant Aceline Duvet Cover Set.Coming in a lovely shade of mushroom grey, this set gives a gentle and luxurious update to the classic toile pattern. Aceline is one of the most loved sets thanks to its superior quality and uncomplicated design. It's super-soft and cosy. This beautiful bedding set brings an effortless touch of pure luxury to your bedroom's décor. Made with 100% Egyptian Cotton and a premium 1000 Thread Count. 4 Pieces Set Includes: - 1 Duvet Cover - 1 Flat Bed Sheet - 2 Standard Pillowcases 48*74cm 6 Pieces Set Includes also:- 2 Square Pillowcases 60*60cm 8 Pieces Set Includes also:- 2 Extra Standard Pillowcases 48*74cm UPGRADE YOUR BEDROOM WITH QUALITY Egyptian cotton is the quintessential fabric for bedding. Also hailed as the king of cotton, Egyptian Cotton is the best choice for your bed. The length of the fibres makes it possible to weave the finest yarns without compromising on strength. This in turn makes the fabric more resistant while also being super-soft. Egyptian Cotton’s ability to absorb liquid gives the fabrics made of this material deeper, brighter and more resistant colours. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™. PRODUCT DETAILS SIZE GUIDE Queen (200 x 230 CM) (79x91inch) UK Double (200 x 200 CM) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 CM) (87x94inch) SuperKing (240 x 260 cm) (94.5x102inch) UK King (225 x 220 CM) Fitted bedsheets are 25cm deep.Material: 100% Egyptian CottonThread count: 1000TC PremiumGET FREE & FAST SHIPPING WITH FEDEXFREQUENT QUESTIONS
-  Updated: 2026-09-13T00:59:09Z
+  Updated: 2026-09-28T18:39:37Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -1359,7 +1359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/Hcbba2ca44b2642a2b43277144463dba2B.jpg?v=1608170819
     Price: £289.00 GBP
 - [Nailah Duvet Cover & Bedspread Set (Egyptian Cotton)](https://luxurier.co/products/nailah-duvet-cover-set-egyptian-satin): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the elegant Nailah Duvet Cover SetThis outstanding set comes with an oriental geometrical pattern beautifully enriching the elegant orange base. It's ultra-soft and cosy, this luxury bedding brings a noble touch to your with its refined mandala art style. Made with high-quality 600TC Egyptian Cotton and satin jacquard fabric with finely embroidered details.The 10 pieces set includes also a beautiful thick bedspread, perfect for all seasons. 4 Pieces Set Includes:- 1 Duvet Cover- 1 Flat Bed Sheet- 2 Pillowcases (48*74cm) 6 Pieces Set includes also:- 2 Square Pillowcases (60*60cm) 10 Pieces Set includes also:- 1 Thick Bedspread (250*270cm)- 2 embroidered pillowcases (48*74cm)- 1 mini decorative pillow Need an extra flat or fitted bedsheet? Tap hereUS King/Superking sets come with 50*90cm standard pillowcases UPGRADE YOUR BEDROOM WITH QUALITY Egyptian cotton is the quintessential fabric for bedding. Also hailed as the king of cotton, Egyptian Cotton is the best choice for your bed. The length of the fibres makes it possible to weave the finest yarns without compromising on strength. This in turn makes the fabric more resistant while also being super-soft. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™. SIZE GUIDE Queen (200 x 230 CM) (79x91inch) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 CM) (87x94inch) USA King (230 x 260 cm) (102x91inch) SuperKing (240 x 260 cm) (94.5x102inch) Emperor (290 x 235 cm)* - 5 days extra (bespoke) Material: Egyptian Cotton and Jacquard FabricThread Count: 600TC PremiumComforter/Duvet not included. FREE Shipping with FedEx
-  Updated: 2026-09-20T11:28:23Z
+  Updated: 2026-10-01T19:17:06Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -1461,7 +1461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/nailah-greek.jpg?v=1743515933
     Price: £459.00 GBP
 - [Ada Duvet Cover Set (1200TC Egyptian Cotton)](https://luxurier.co/products/ada-duvet-cover-set-7-colours-for-king): EXPERIENCE THE ART OF SLEEPING WELL Crafted in a refined ivory white hue with a subtle woven stripe design, this set brings a clean, sophisticated look to any bedroom. The elegant champagne border adds a beautiful finishing touch, creating a classic hotel-inspired style with a warm luxury feel. Experience the exceptional softness and comfort of 1200 Thread Count 100% Egyptian Cotton. Smooth, breathable and naturally refined, this ultra-luxurious bedding set is designed to offer a fresh, elegant sleep experience every night. Perfect for those who appreciate understated luxury, this duvet cover set combines timeless design with the superior comfort of fine Egyptian cotton. PRODUCT DETAILS 4 Pieces Sets Include:- 1 Duvet Cover- 1 Flat/Fitted Bed Sheet- 2 Standard Pillowcases 48*74cm 6 Pieces Set Includes also:- 2 Extra Standard Pillowcases 48*74cm - US King/Superking sets come with 50*90cm pillowcases MEET THE PLEASURE OF 1200TC BEDDING Egyptian cotton is the quintessential fabric for bedding. Sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier™ with a premium 1200TC. SIZE GUIDE Queen (200 x 230 CM) (79x91inch) King (220 x 240 CM) (87x94inch) UK Double (200 x 200 CM) USA Queen (230 x 230 CM) US King/UK Superking (260 x 230 CM) Thread Count: 1200TCMaterial: 100% Egyptian CottonComforter not included.Bed runner not included. GET FREE & FAST SHIPPING
-  Updated: 2026-09-15T02:05:41Z
+  Updated: 2026-09-29T09:32:32Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -1701,7 +1701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/3ee71663-111e-4dfc-acb7-f5d372ca1dc2.png?v=1612683104
     Price: £209.00 GBP
 - [Maribel Duvet Cover Set 1000tc Egyptian Cotton | Luxurier](https://luxurier.co/products/maribel-duvet-cover-set-1000tc-egyptian-cotton): Buy Maribel Duvet Cover Set online at luxurier. Luxurier offers an incredible range of luxury bedding and home decor products in the UK. We have luxury bedding of the finest quality for you.
-  Updated: 2026-09-21T12:31:00Z
+  Updated: 2026-09-27T13:49:56Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -2143,82 +2143,106 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/18840eef-c50b-4b05-8440-64d2bd2f34e6.png?v=1633050928
     Price: £350.00 GBP
 - [Blue Bird Bedding Paon Duvet Cover Set (Egyptian Cotton) Luxurier](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton): Buy Blue Bird Bedding Paon Duvet Cover Set (Egyptian Cotton) and made with 100% Egyptian cotton and mulberry silk. Visit Now!
-  Updated: 2026-09-15T19:51:51Z
+  Updated: 2026-10-01T11:09:49Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/paonx.jpg?v=1660002336
+  Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
   - [UK Double (200 x 200 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=40417824374954)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £189.00 GBP
   - [UK Double (200 x 200 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=40417824506026)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £195.00 GBP
   - [UK Double (200 x 200 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522310314)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £219.00 GBP
   - [UK Double (200 x 200 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522506922)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £219.00 GBP
   - [Queen (200 x 230 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924339974314)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £195.00 GBP
   - [Queen (200 x 230 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340105386)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £199.00 GBP
   - [Queen (200 x 230 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522244778)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £219.00 GBP
   - [Queen (200 x 230 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522474154)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £219.00 GBP
   - [King (220 x 240 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340007082)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [King (220 x 240 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340138154)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [King (220 x 240 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522343082)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
   - [King (220 x 240 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522539690)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
   - [UK King (225 x 220 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=40899560341674)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [UK King (225 x 220 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=40899560374442)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [UK King (225 x 220 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522375850)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
   - [UK King (225 x 220 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522572458)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
   - [US Queen (230 x 230 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340039850)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £199.00 GBP
   - [US Queen (230 x 230 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340170922)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [US Queen (230 x 230 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522408618)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £229.00 GBP
   - [US Queen (230 x 230 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522605226)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £229.00 GBP
   - [US King/UK Superking (260x230 CM) / 4 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340072618)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [US King/UK Superking (260x230 CM) / 4 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=37924340203690)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £209.00 GBP
   - [US King/UK Superking (260x230 CM) / 6 pieces set / Flat Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522441386)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
   - [US King/UK Superking (260x230 CM) / 6 pieces set / Fitted Bed Sheet](https://luxurier.co/products/paon-duvet-cover-set-100-egyptian-cotton?variant=41355522637994)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/paon1.jpg?v=1790122024
     Price: £235.00 GBP
 - [Honey Duvet Cover Set (100% Egyptian Cotton)](https://luxurier.co/products/honey-duvet-cover-set-100-egyptian-cotton): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the sophisticated Honey Duvet Cover SetThis set gives a rich and detailed update to the yellow pattern with a beautiful representation of nature that will accompany your sleep. Made with 100% Egyptian Cotton and a premium 500 Thread Count, this set brings an effortless touch of pure luxury to your bedroom's décor. PRODUCT DETAILS 4 Pieces Set Includes: - 1 Duvet Cover - 1 Bed Sheet (Flat or Fitted)- 2 Pillowcases BRING POSITIVE ENERGY TO YOUR BEDROOM The best and finest Egyptian cotton is the quintessential fabric for bedding. Now you can sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier. SIZE GUIDE Queen (200 x 230 CM) (79x91inch) USA Queen (230 x 230 cm) (91x91inch) King (220 x 240 CM) (87x94inch) USA King (230 x 260 cm) (102x91inch) Material: 100% Egyptian CottonThread count: 500TC Premium GET FREE SHIPPING WITH FEDEX
   Updated: 2026-08-28T19:06:37Z
@@ -2278,30 +2302,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/bo1.png?v=1612337880
   Price: £95.00 GBP
-- [Brownie Duvet Cover Set (1000TC Egyptian Cotton)](https://luxurier.co/products/brownie-duvet-cover-set-1000tc-egyptian-cotton): RE-DISCOVER THE LUXURY OF SLEEPING WELL Dress your bedroom beautifully with the sophisticated Brownie Duvet Cover SetThis set comes in an exclusive and elegant dark gold colour. It's cozy, lived-in look and feel, the beautiful bedding that brings a noble touch of luxury to your bedroom's décor with delicate embroidery. SIZE GUIDE Queen (200 x 230 CM) (79x91inch) King (220 x 240 CM) (87x94inch) BRING LUXURY ENERGY TO YOUR BEDROOM The best and finest 1000TC Egyptian cotton is the quintessential fabric for bedding.Now you can sleep comfortably with the most breathable and luxurious fabric from the premium bedding collection by Luxurier. PRODUCT DETAILS 4 Piece Sets Include:- 1 Duvet Cover- 1 Flat Bed Sheet- 2 PillowcasesMaterial: 100% Egyptian CottonThread Count: 1000 TC Luxury GET FREE & FAST SHIPPING WITH UPS AND FEDEX
-  Updated: 2026-08-28T19:06:39Z
-  Vendor: Luxurier
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H51bf642533e841bd8273c3bdf6c0652cc.jpg?v=1612878690
-  - [Flat Bedsheet / Queen (200 x 230 CM)](https://luxurier.co/products/brownie-duvet-cover-set-1000tc-egyptian-cotton?variant=38010480459946)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H51bf642533e841bd8273c3bdf6c0652cc.jpg?v=1612878690
-    Price: £309.00 GBP
-  - [Flat Bedsheet / King (220 x 240 CM)](https://luxurier.co/products/brownie-duvet-cover-set-1000tc-egyptian-cotton?variant=38010480492714)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H51bf642533e841bd8273c3bdf6c0652cc.jpg?v=1612878690
-    Price: £319.00 GBP
-  - [Fitted Bedsheet / Queen (200 x 230 CM)](https://luxurier.co/products/brownie-duvet-cover-set-1000tc-egyptian-cotton?variant=38010480525482)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H51bf642533e841bd8273c3bdf6c0652cc.jpg?v=1612878690
-    Price: £309.00 GBP
-  - [Fitted Bedsheet / King (220 x 240 CM)](https://luxurier.co/products/brownie-duvet-cover-set-1000tc-egyptian-cotton?variant=38010480558250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H51bf642533e841bd8273c3bdf6c0652cc.jpg?v=1612878690
-    Price: £319.00 GBP
 - [Premium Goose Down Pillows (100% Cotton)](https://luxurier.co/products/premium-goose-down-pillows): RE-DISCOVER THE LUXURY OF SLEEPING WELL Experience a rejuvenating night’s sleep with the cloud-like cushioning of Luxurier premium goose down pillows.This rare set of 2 is beautifully made to donate you a fantastic sleeping experience.Perfect for all seasons and hypoallergenic, these premium goose-down pillows cushion the head and neck at a naturally restful angle throughout the night. As seen in the most luxurious hotels in the world, they come with high-quality stitching and a 100% Cotton shell. SIZE GUIDE Standard: x2 Pillows 48*74cm (18.9x29.1 inch) Superking: x2 Pillows 50*90cm Emperor: x2 Pillows 50*100cm *Superking and Emperor sizes take 3 extra days MATERIAL Cover Material: 100% Cotton Filler: Subcoat 50% Feather 800G, Other 95% Down 300G FREE SHIPPING TODAY
-  Updated: 2026-09-16T01:43:26Z
+  Updated: 2026-09-30T06:56:47Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -2366,7 +2368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/bedspread.jpg?v=1613925303
     Price: £249.00 GBP
 - [Clara Duvet Cover Set (100% Egyptian Cotton)](https://luxurier.co/products/clara-duvet-cover-set-100-egyptian-cotton): Buy Clara Duvet Cover Set Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium 600 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T12:32:34Z
+  Updated: 2026-09-30T07:04:56Z
   Vendor: Luxurier
   Product Type: Bedroom
   Availability: Available
@@ -2688,12 +2690,218 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/HTB103gxXZvrK1Rjy0Feq6ATmVXaN.jpg?v=1615495602
     Price: £150.00 GBP
-[List Continued](https://luxurier.co/a/llms-agent/llms.txt?shop=luxurierco.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTY1Mjc2Mzg1NDUwLCJsYXN0X3ZhbHVlIjoiNjU2NTI3NjM4NTQ1MCJ9)
+- [Olivia Duvet Cover Set Egyptian Cotton | Luxurier](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton): Buy Olivia Duvet Cover Set Luxury Duvet Cover by Luxurier in 100% Egyptian Cotton with a premium 600 TC (Thread Count). Choose high quality, luxury bedding set for maximum comfort with embroidered details. Free Shipping to UK, USA, Australia, UAE, Europe.
+  Updated: 2026-09-29T17:02:35Z
+  Vendor: Luxurier
+  Product Type: Bedroom
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/files/oliviamore.jpg?v=1684462820
+  - [Dark Black / UK Double (200X200cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550578346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £189.00 GBP
+  - [Dark Black / UK Double (200X200cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550611114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £195.00 GBP
+  - [Dark Black / UK Double (200X200cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550774954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £225.00 GBP
+  - [Dark Black / UK Double (200X200cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550807722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £225.00 GBP
+  - [Dark Black / Queen (200X230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550643882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £199.00 GBP
+  - [Dark Black / Queen (200X230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550676650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £199.00 GBP
+  - [Dark Black / Queen (200X230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550840490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £229.00 GBP
+  - [Dark Black / Queen (200X230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550873258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £229.00 GBP
+  - [Dark Black / King (220X240cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550709418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £205.00 GBP
+  - [Dark Black / King (220X240cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550742186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £208.00 GBP
+  - [Dark Black / King (220X240cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550906026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £239.00 GBP
+  - [Dark Black / King (220X240cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550938794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £239.00 GBP
+  - [Dark Black / US Queen (230X230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356550971562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Black / US Queen (230X230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551004330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Black / US Queen (230X230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551037098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £235.00 GBP
+  - [Dark Black / US Queen (230X230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551069866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £235.00 GBP
+  - [Dark Black / US King/Superking (264x230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551102634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Black / US King/Superking (264x230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551135402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Black / US King/Superking (264x230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551168170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £249.00 GBP
+  - [Dark Black / US King/Superking (264x230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356551200938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/olivia.jpg?v=1684462820
+    Price: £249.00 GBP
+  - [Dark Grey / UK Double (200X200cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356488810666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £189.00 GBP
+  - [Dark Grey / UK Double (200X200cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519383210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £195.00 GBP
+  - [Dark Grey / UK Double (200X200cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519547050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £225.00 GBP
+  - [Dark Grey / UK Double (200X200cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519579818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £225.00 GBP
+  - [Dark Grey / Queen (200X230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519415978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £199.00 GBP
+  - [Dark Grey / Queen (200X230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519448746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £199.00 GBP
+  - [Dark Grey / Queen (200X230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519612586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £229.00 GBP
+  - [Dark Grey / Queen (200X230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519645354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £229.00 GBP
+  - [Dark Grey / King (220X240cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519481514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £205.00 GBP
+  - [Dark Grey / King (220X240cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519514282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £208.00 GBP
+  - [Dark Grey / King (220X240cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519678122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £239.00 GBP
+  - [Dark Grey / King (220X240cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519710890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £239.00 GBP
+  - [Dark Grey / US Queen (230X230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519743658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Grey / US Queen (230X230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519776426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Grey / US Queen (230X230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519809194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £235.00 GBP
+  - [Dark Grey / US Queen (230X230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519841962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £235.00 GBP
+  - [Dark Grey / US King/Superking (264x230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519874730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Grey / US King/Superking (264x230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519907498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £209.00 GBP
+  - [Dark Grey / US King/Superking (264x230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519940266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £249.00 GBP
+  - [Dark Grey / US King/Superking (264x230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356519973034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/H6dc1ddd73032461e815033733a6bfc46w.jpg?v=1684462820
+    Price: £249.00 GBP
+  - [Light Grey / UK Double (200X200cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356488941738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £195.00 GBP
+  - [Light Grey / UK Double (200X200cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520628394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £195.00 GBP
+  - [Light Grey / UK Double (200X200cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520792234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £225.00 GBP
+  - [Light Grey / UK Double (200X200cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520825002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £225.00 GBP
+  - [Light Grey / Queen (200X230cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520661162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £199.00 GBP
+  - [Light Grey / Queen (200X230cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520693930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £199.00 GBP
+  - [Light Grey / Queen (200X230cm) - 6PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520857770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £229.00 GBP
+  - [Light Grey / Queen (200X230cm) - 6PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520890538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £229.00 GBP
+  - [Light Grey / King (220X240cm) - 4PCS / Flat Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520726698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £205.00 GBP
+  - [Light Grey / King (220X240cm) - 4PCS / Fitted Bed Sheet](https://luxurier.co/products/olivia-duvet-cover-set-egyptian-cotton?variant=39356520759466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0416/3715/0880/products/oliviafrey.png?v=1742158387
+    Price: £205.00 GBP
+[List Continued](https://luxurier.co/a/llms-agent/llms.txt?shop=luxurierco.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTY2Njk5OTU4NDQyLCJsYXN0X3ZhbHVlIjoiNjU2NjY5OTk1ODQ0MiJ9)
 
 ## Collections
 
 - [Home page](https://luxurier.co/collections/frontpage)
-  Updated: 2026-09-21T11:21:34Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 60
 - [Best Sellers](https://luxurier.co/collections/best-sellers)
   Updated: 2026-04-20T20:11:27Z
@@ -2709,8 +2917,8 @@
   Total Products: 16
 - [Bedroom](https://luxurier.co/collections/bedding): Shop the best luxury bedding sets and duvet cover sets. Made with 100% Egyptian Cotton and Mulberry Silk. Available for Double, Queen, King, Superking beds.
 Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia. Discover high quality bedding with a premium thread count up to 1000TC.
-  Updated: 2026-09-21T23:54:21Z
-  Total Products: 346
+  Updated: 2026-10-01T16:41:20Z
+  Total Products: 348
 - [Candles](https://luxurier.co/collections/candles)
   Updated: 2026-04-20T20:11:29Z
   Total Products: 0
@@ -2721,7 +2929,7 @@ Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia.
   Updated: 2026-06-03T18:46:26Z
   Total Products: 3
 - [Towels](https://luxurier.co/collections/bathroom): Find our bathroom interior and bathroom accessories online at luxurier. Luxurier offers an incredible range of luxury bathroom decor products in the UK, USA, Australia, UAE and Europe. Free Shipping
-  Updated: 2026-09-21T11:21:34Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 11
 - [Persian Carpets](https://luxurier.co/collections/carpets): Persian Carpets - The Home of Luxurious Persian Carpets UK. Browse through the selection of small to extra large classic rugs, including oriental Persian carpets. Upgrade your room with authentic high-quality Persian carpets. Made in Iran with 100% Bamboo and Natural Silk. Free Shipping from Dubai.
   Updated: 2026-04-20T20:11:30Z
@@ -2745,14 +2953,14 @@ Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia.
   Updated: 2026-06-03T19:17:06Z
   Total Products: 3
 - [Trending Now](https://luxurier.co/collections/trending-now): Check out our most loved products, Classic and Contemporary Home Décor products. Buy luxurious Home Décor accessories. Choose the perfect decorative sets for your home. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T23:54:21Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 62
 - [Cup & Mugs](https://luxurier.co/collections/cup-mugs): Browse our extensive range of shapes and colours. Coffee Mug in UK, Ceramic Coffee Mug, Coffee Mug Set, Handmade Coffee Cup. Choose the premium luxury Mug shapes with fancy details. Free Shipping to UK, USA, Australia, UAE, Europe.
   Updated: 2026-06-03T19:17:18Z
   Total Products: 4
 - [Above 135GBP](https://luxurier.co/collections/above-135gbp)
-  Updated: 2026-09-21T23:54:21Z
-  Total Products: 629
+  Updated: 2026-10-01T12:44:26Z
+  Total Products: 631
 - [Curtains](https://luxurier.co/collections/curtains)
   Updated: 2026-06-03T19:25:14Z
   Total Products: 2
@@ -2763,20 +2971,20 @@ Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia.
   Updated: 2026-04-20T20:11:36Z
   Total Products: 0
 - [Extra Bedding Pieces](https://luxurier.co/collections/extra-bedding-pieces): Looking for additional pieces for your fabulous bedding set?You're in the right place.
-  Updated: 2026-09-21T11:21:34Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 230
 - [Pillows & Pillowcases](https://luxurier.co/collections/pillows-pillowcases): Get the finest collection of luxury pillows & Pillowcases. Made with 100% Egyptian Cotton and Mulberry Silk. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T11:21:34Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 116
 - [Bedsheets](https://luxurier.co/collections/bedsheets): Upgrade your bedroom with luxury bedsheets by Luxurier. Made with 100% Egyptian Cotton. High thread count, beautifully soft. Free Shipping to UK, USA, Australia, UAE, Europe.
-  Updated: 2026-09-21T11:21:34Z
+  Updated: 2026-10-01T11:19:36Z
   Total Products: 113
 - [Mirrors](https://luxurier.co/collections/mirrors): Find the collection of luxury vintage table mirrors online at Luxurier. We provide a fine range of decorative mirrors. Get the most suitable luxury mirrors online. Free Shipping to UK, USA, Australia, UAE, Europe.
   Updated: 2026-06-03T20:47:30Z
   Total Products: 2
 - [New Arrivals](https://luxurier.co/collections/new-arrivals): Redefine the beauty of your home with the new arrivals.Luxury bedding sets and fine home decor accessories to add a touch of luxury to your house.
-  Updated: 2026-09-21T11:21:34Z
-  Total Products: 217
+  Updated: 2026-10-01T12:44:26Z
+  Total Products: 218
 - [Orgonite Pyramids](https://luxurier.co/collections/orgonite-pyramids): Infuse your home with positive energy and get inspired by the charm of the Orgonite Pyramids by Luxurier. Authentic charming stones Perfect for Focus, Yoga, Meditation Made with love and positivity Free & fast Shipping today
   Updated: 2026-06-03T20:54:33Z
   Total Products: 11
@@ -2784,19 +2992,19 @@ Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia.
   Updated: 2026-06-03T21:18:26Z
   Total Products: 4
 - [All](https://luxurier.co/collections/all)
-  Updated: 2026-09-21T23:54:21Z
-  Total Products: 867
+  Updated: 2026-10-01T12:44:26Z
+  Total Products: 869
 - [Blankets](https://luxurier.co/collections/blankets): Add a touch of beauty and warmth to your bed or sofa with the finest blankets and throws by Luxurier.
   Updated: 2026-09-10T11:22:01Z
   Total Products: 6
 - [Mulberry Silk](https://luxurier.co/collections/mulberry-silk): Indulge in the ultimate sleeping experience with our premium range of Mulberry Silk bedding sets. Beautifully crafted from the finest quality mulberry silk, renowned for its unmatched softness, luster, and durability.
-  Updated: 2026-09-21T11:21:34Z
-  Total Products: 21
+  Updated: 2026-10-01T11:19:36Z
+  Total Products: 22
 - [USA Sizes](https://luxurier.co/collections/usa-sizes)
-  Updated: 2026-09-21T23:54:21Z
-  Total Products: 163
+  Updated: 2026-10-01T12:44:26Z
+  Total Products: 165
 - [Toppers](https://luxurier.co/collections/toppers)
-  Updated: 2026-09-15T11:25:08Z
+  Updated: 2026-09-30T11:18:59Z
   Total Products: 1
 
 ## Blogs
@@ -2836,12 +3044,12 @@ Buy the best luxury duvet covers, loved in UK, USA, Australia, Ireland and Asia.
   Updated: 2023-09-04T12:58:49Z
 - [Frequently Asked Questions](https://luxurier.co/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadScript() { const elem = document.createElement('script'); elem.type = 'text/...
   Updated: 2025-05-02T20:17:01Z
-- [✅Shipping Times](https://luxurier.co/pages/shipping-times): - To UK: 5-7 days with FedEx 🇬🇧.- To USA: 5-7 days (DDP) 🇺🇸.- To Australia: 7-8 days with FedEx 🇦🇺.- To Ireland: 7-8 days with FedEx 🇮🇪.- To New Ze...
-  Updated: 2025-10-14T12:47:37Z
-- [❤️Care Guide](https://luxurier.co/pages/care-guide): Our bedding is designed to last. Follow these simple steps for best results: Wash at 30 °C (86 °F) or lower Wash separately (gentle cycle only) Use...
-  Updated: 2025-10-14T12:52:14Z
-- [⭐Our Promise](https://luxurier.co/pages/⭐our-promise): At LUXURIER, every cover and sheet is made with care, using the finest Egyptian cotton and pure Silk. For over 6 years, we have helped thousands of...
-  Updated: 2025-10-14T12:58:50Z
+- [➤ Shipping Times](https://luxurier.co/pages/shipping-times): - To UK: 5-7 days with FedEx 🇬🇧.- To USA: 5-7 days (DDP) 🇺🇸.- To Australia: 7-8 days with FedEx 🇦🇺.- To Ireland: 7-8 days with FedEx 🇮🇪.- To New Ze...
+  Updated: 2026-09-22T22:17:29Z
+- [❤︎ Care Guide](https://luxurier.co/pages/care-guide): Our bedding is designed to last. Follow these simple steps for best results: Wash at 30 °C (86 °F) or lower Wash separately (gentle cycle only) Use...
+  Updated: 2026-09-22T22:16:22Z
+- [★ Our Promise](https://luxurier.co/pages/⭐our-promise): At LUXURIER, every cover and sheet is made with care, using the finest Egyptian cotton and pure Silk. For over 6 years, we have helped thousands of...
+  Updated: 2026-09-22T22:15:52Z
 - [Klaviyo Test](https://luxurier.co/pages/klaviyo-test)
   Updated: 2025-12-25T14:41:49Z
 - [Cashback Program](https://luxurier.co/pages/cashback-program): Earn store credit cashback every time you shop at Luxurier. Luxurier Cashback Program lets you keep the value of your purchase and enjoy full flexi...
