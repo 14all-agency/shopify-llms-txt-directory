@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-09-26T00:00:49.686Z
+- Updated At: 2026-10-03T00:00:51.317Z
 
 ## Products
 
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
     Price: £70.42 GBP
 - [Striped Cotton Roll Neck](https://peppervale.co.uk/products/striped-cotton-roll-neck): Women's Striped Cotton Roll Neck – Long Sleeve Effortlessly stylish and timeless, our Striped Cotton Polo Neck is the long-sleeve version of our popular sleeveless style. Crafted from a lightweight and breathable cotton blend in Portugal, this top features a chic striped pattern and a sophisticated polo neck design. Perfect for cooler weather, the long sleeves add warmth while maintaining a sleek and polished look. Designed with comfort and versatility in mind, this top is ideal for layering under blazers or coats, or wearing as a standalone statement piece. Style it with tailored trousers for work, pair with jeans for weekend wear, or layer it for transitional weather. The flattering fit and irritation-free branded hem labels ensure all-day comfort and practicality. Available in UK sizes 8-14. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-09-18T21:19:05Z
+  Updated: 2026-10-02T09:16:09Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -249,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
     Price: £59.58 GBP
 - [Sleeveless Micro Modal Vest Top](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top): Simplify your wardrobe with our Women's Sleeveless Vest Top, a lightweight and versatile essential for any season. Crafted from sustainably sourced micro modal fabric in Portugal, this vest top offers a silky, second-skin feel that is luxuriously soft, breathable, and perfect for layering or wearing on its own during warmer days. The sleeveless design and classic scoop neckline create a flattering silhouette that complements every outfit. Thoughtfully designed for comfort and practicality, this vest top features irritation-free branded hem labels and a tailored fit that moves effortlessly with you. The thermal and heat-regulating properties make it ideal as a base layer. Whether paired with jeans, shorts, layered under knitwear and blazers, or worn solo, it's a timeless addition to your collection. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-21T17:22:27Z
+  Updated: 2026-09-29T15:26:50Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Sleeveless Top
   Availability: Available
@@ -263,7 +263,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
     Price: £48.75 GBP
   - [White / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114254661)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
     Price: £48.75 GBP
   - [White / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114287429)
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
     Price: £53.08 GBP
 - [Long Sleeve Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt): Classic, comfortable, and endlessly versatile, our Long Sleeve Crew Neck T-Shirt is a year-round essential for every wardrobe. Crafted from a luxurious cotton-modal blend in Portugal, this t-shirt offers exceptional softness, breathability, and natural stretch, ensuring a perfect fit and feel. With its timeless crew neck design and long sleeves, it's ideal for layering or wearing solo on cooler days. Thoughtfully designed with branded hem labels for irritation-free comfort, this t-shirt combines style with practicality. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Whether you're heading to the office, lounging at home, or going out, this piece adapts effortlessly to any occasion. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-24T18:41:40Z
+  Updated: 2026-09-30T14:44:15Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -779,7 +779,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Two_tone_black_grey_scarf.webp?v=1786028836
     Price: £119.17 GBP
 - [V-Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt): Elevate your wardrobe with our V-Neck Cotton Modal Blend T-Shirt, a timeless staple that combines style, comfort, and sustainability. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it perfect for all-day wear. The classic V-neck design flatters every silhouette, offering a versatile piece that pairs effortlessly with any outfit. Designed with a tailored fit and irritation-free branded hem labels, this t-shirt ensures both practicality and elegance. Style it with jeans for casual weekends, layer under blazers for work, or pair with skirts for a polished look. Whether layered or worn casually, it's a must-have for every season. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-24T18:41:37Z
+  Updated: 2026-09-27T10:28:37Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Short Sleeve T-shirt
   Availability: Available
@@ -853,7 +853,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
     Price: £53.08 GBP
 - [Long Sleeve Cotton Modal Scoop Neck T-Shirt](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt): Discover effortless style with our Long Sleeve Scoop Neck T-Shirt, a timeless addition to your wardrobe. Crafted from a premium cotton-modal blend in Portugal, this t-shirt offers unparalleled softness, breathability, and a gentle stretch for all-day comfort. The elegant scoop neckline enhances its versatility, making it perfect for layering or wearing as a standalone piece. Designed with practicality and comfort in mind, the white version features a slightly thicker fabric to minimise transparency. Thoughtfully placed branded hem labels ensure irritation-free wear. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-25T08:47:42Z
+  Updated: 2026-10-01T22:27:45Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -1319,7 +1319,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Natural_Alpaca_Alpaca_Scarf.png?v=1786028934
     Price: £119.17 GBP
 - [3/4 Sleeve Scoop Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt): Elevate your everyday essentials with our 3/4 Sleeve Scoop Neck T-Shirt, a perfect blend of comfort and style. Crafted from a luxurious cotton-modal fabric in Portugal, this wardrobe staple is designed to keep you looking and feeling great all day long. The scoop neckline adds a touch of elegance while offering a flattering fit for all body shapes. Whether you're dressing up for an evening out or keeping it casual, this versatile t-shirt adapts effortlessly to any look. The breathable, lightweight fabric and tailored design make it a reliable choice for every season. Style it with jeans for relaxed weekends, layer under blazers for work, or pair with skirts for a polished evening look. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-25T08:47:36Z
+  Updated: 2026-09-29T16:01:28Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's 3/4 Sleeve T-shirt
   Availability: Available
@@ -1521,7 +1521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
     Price: £58.50 GBP
 - [Roll Neck Micro Modal Top](https://peppervale.co.uk/products/roll-neck-micro-modal-top): Meet our best- Micro Modal Roll Neck Top, the ultimate combination of elegance, comfort, and versatility. Crafted from luxuriously soft and sustainably sourced TENCEL™ Modal with Micro technology in Portugal, this top offers unparalleled softness, breathability, and stretch, making it perfect for layering or wearing on its own. The roll neck design adds a touch of sophistication, while the lightweight material ensures all-day comfort. Designed with a flattering, tailored fit and irritation-free branded hem labels, this roll neck is a timeless wardrobe essential. Style it with tailored trousers for the office, layer under blazers and cardigans, or pair with jeans for casual weekends. Whether dressed up or down, it's the perfect piece for cooler weather and transitional seasons. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-25T12:05:26Z
+  Updated: 2026-10-02T13:35:37Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -1831,7 +1831,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
     Price: £63.92 GBP
 - [Long Sleeve V Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt): Timeless, comfortable, and effortlessly stylish, our Long Sleeve V-Neck T-Shirt is a versatile staple for every wardrobe. Made from a premium cotton-modal blend in Portugal, this t-shirt offers a luxuriously soft feel, gentle stretch, and breathable comfort. The flattering V-neckline adds a touch of elegance, making it perfect for layering or wearing solo. Designed with both style and practicality in mind, the white version features a slightly thicker fabric to minimise transparency. With thoughtfully placed branded hem labels for irritation-free wear, this t-shirt is as functional as it is stylish. Style it with jeans for casual weekends, layer under cardigans and blazers, or pair with tailored trousers for a polished look. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-18T21:19:08Z
+  Updated: 2026-09-30T14:22:18Z
   Vendor: Lavender Hill Clothing
   Product Type: Women's Long Sleeve T-shirt
   Availability: Available
@@ -1897,7 +1897,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
     Price: £63.92 GBP
 - [Organic Colours Tank Top Womens](https://peppervale.co.uk/products/organic-colours-tank-top-womens): The Organic Colours tank top is a simple, 100% organic cotton vest available in a wide selection of colours. It's a customer favourite and can be worn as an undervest in winter or as a lightweight, breathable vest in the summer. An ultimate wardrobe staple.
-  Updated: 2026-09-25T23:00:27Z
+  Updated: 2026-10-02T02:43:06Z
   Vendor: Earth Wardrobe
   Product Type: 
   Availability: Available
@@ -2481,7 +2481,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1275.png?v=1786029433
     Price: £41.08 GBP
 - [Flared Hem Studded Butterflies Long Top](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top): 🦋 Add a touch of sparkle to your everyday wardrobe with our Flared Hem Studded Butterflies Long Top. Beautifully designed with shimmering studded butterfly embellishments and a flattering flared hem, this stylish longline top offers the perfect blend of comfort and elegance. The relaxed fit drapes effortlessly, creating a flattering silhouette that's ideal for everyday wear. Perfect for pairing with leggings, jeans or jeggings, this versatile top is long enough to provide extra coverage while keeping your look effortlessly chic. Whether you're shopping, meeting friends or heading out for lunch, this is a piece you'll wear again and again. ✨ Why You'll Love It: 🦋 Sparkling studded butterfly design 👚 Flattering longline length 🌸 Stylish flared hem for a feminine silhouette 🌿 Soft, lightweight and comfortable fabric 💕 Relaxed fit for effortless everyday wear 👖 Perfect with leggings, jeans or jeggings ☀️ Ideal for casual days, holidays and weekends 💖 Designed to complement curves Style with skinny jeans and trainers for a relaxed daytime outfit, or pair with leggings, ankle boots and a statement bag for an effortlessly stylish look. Sparkly • Flattering • Effortlessly Stylish ✨ 💖 A must-have long top from Rockthosecurves™. ✨
-  Updated: 2026-09-18T21:19:10Z
+  Updated: 2026-10-01T06:24:46Z
   Vendor: rockthosecurves
   Product Type: swing top
   Availability: Available
@@ -2558,92 +2558,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1408_GREY.png?v=1786029433
     Price: £39.67 GBP
-- [FLORAL CHIFFON BLOUSE WITH BELL SLEEVES](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves): FLORAL CHIFFON BLOUSE WITH BELL SLEEVES long sleeve round neck bell sleeve blouse plus size blouse blouses from Rockthosecurves
-  Updated: 2026-09-18T21:19:10Z
-  Vendor: rockthosecurves
-  Product Type: Blouse / Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623.png?v=1786029432
-  - [BLACK BUSY FLORAL / UK 14](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413492037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK BUSY FLORAL / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413328197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK BUSY FLORAL / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413360965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK BUSY FLORAL / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413393733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK BUSY FLORAL / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413426501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK BUSY FLORAL / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413459269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK FLORAL / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413164357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK FLORAL / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413197125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK FLORAL / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413229893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK FLORAL / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413262661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK FLORAL / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413295429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 14](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413688645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413524805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413557573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413590341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413623109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-  - [BLACK PINK / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413655877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
-    Price: £34.00 GBP
-[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MTQ1NzIyMSwibGFzdF92YWx1ZSI6IjE2MDcxNTQxNDU3MjIxIn0%3D)
+[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MTQyNDQ1MywibGFzdF92YWx1ZSI6IjE2MDcxNTQxNDI0NDUzIn0%3D)
 
 ## Collections
 
 - [Women’s Clothing](https://peppervale.co.uk/collections/womens-clothing): Shop women's clothing at PepperVale, including dresses, tops, knitwear, jackets and easy everyday layers from independent brands, with UK delivery.
-  Updated: 2026-09-25T06:23:40Z
+  Updated: 2026-10-02T06:06:11Z
   Total Products: 13675
 - [Dresses & One-Pieces](https://peppervale.co.uk/collections/dresses-one-pieces): Explore PepperVale’s dresses and one-piece styles, from easy day dresses to standout occasion pieces. Shop women’s fashion with UK delivery and secure checkout.
   Updated: 2026-09-18T22:26:29Z
   Total Products: 1180
 - [Tops & Blouses](https://peppervale.co.uk/collections/tops-blouses): Find everyday tops, blouses and easy layers at PepperVale, selected for colourful UK wardrobes. Shop relaxed essentials and statement pieces with secure checkout.
-  Updated: 2026-09-25T06:23:40Z
+  Updated: 2026-10-01T06:40:49Z
   Total Products: 3206
 - [Knitwear & Sweatshirts](https://peppervale.co.uk/collections/knitwear-sweatshirts): Discover soft knitwear, cosy sweaters and easy sweatshirts at PepperVale, with colourful layers for relaxed UK dressing. Shop securely with UK delivery.
   Updated: 2026-09-19T14:51:28Z
@@ -2652,7 +2578,7 @@
   Updated: 2026-09-22T13:17:01Z
   Total Products: 1026
 - [Trousers & Shorts](https://peppervale.co.uk/collections/trousers-shorts): Shop PepperVale’s trousers, jeans, joggers and shorts for easy everyday outfits. Discover comfortable women’s separates with UK delivery and secure checkout.
-  Updated: 2026-09-20T21:43:45Z
+  Updated: 2026-10-02T06:06:11Z
   Total Products: 1496
 - [Swimwear](https://peppervale.co.uk/collections/swimwear): Make a splash with PepperVale’s swimwear edit, from bikinis and one-pieces to beach-ready layers. Shop colourful holiday styles with UK delivery and secure checkout.
   Updated: 2026-09-19T14:52:10Z
@@ -2685,31 +2611,31 @@
   Updated: 2026-09-24T10:03:55Z
   Total Products: 5194
 - [Kids & Baby](https://peppervale.co.uk/collections/kids-baby): Shop baby, toddler and children’s clothing at PepperVale, including everyday organic basics and comfortable styles from independent brands.
-  Updated: 2026-09-18T23:05:57Z
+  Updated: 2026-10-01T10:07:35Z
   Total Products: 1871
 - [Workwear & Safety Clothing](https://peppervale.co.uk/collections/workwear-safety-clothing): Shop durable UK workwear, hi-vis clothing, safety footwear, work trousers, jackets and trade accessories from trusted brands for men and women.
   Updated: 2026-09-22T15:39:05Z
   Total Products: 5586
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-09-24T12:42:32Z
-  Total Products: 862
+  Updated: 2026-10-02T17:01:22Z
+  Total Products: 855
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-09-24T15:22:58Z
-  Total Products: 381
+  Updated: 2026-10-02T06:52:11Z
+  Total Products: 383
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
   Updated: 2026-09-18T23:12:55Z
   Total Products: 2530
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-20T11:10:07Z
+  Updated: 2026-09-26T13:31:48Z
   Total Products: 15067
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
   Updated: 2026-09-22T15:39:05Z
   Total Products: 9980
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-25T10:02:47Z
+  Updated: 2026-10-01T10:07:35Z
   Total Products: 15609
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-24T10:03:55Z
+  Updated: 2026-10-02T06:06:11Z
   Total Products: 12076
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
   Updated: 2026-09-19T14:51:13Z
@@ -2724,10 +2650,10 @@
   Updated: 2026-09-18T22:52:49Z
   Total Products: 137
 - [eBay ramp - £20 profit](https://peppervale.co.uk/collections/ebay-ramp-20-profit)
-  Updated: 2026-09-25T06:23:40Z
+  Updated: 2026-10-02T06:06:11Z
   Total Products: 8350
 - [eBay ramp - £20 profit - part 01](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-01)
-  Updated: 2026-09-25T06:23:40Z
+  Updated: 2026-10-02T06:06:11Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 02](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-02)
   Updated: 2026-09-18T21:40:00Z
@@ -2742,7 +2668,7 @@
   Updated: 2026-09-18T21:54:56Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 06](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-06)
-  Updated: 2026-09-24T10:03:55Z
+  Updated: 2026-10-01T09:54:40Z
   Total Products: 997
 - [eBay ramp - £20 profit - part 07](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-07)
   Updated: 2026-09-18T22:20:11Z
@@ -2754,16 +2680,16 @@
   Updated: 2026-09-18T23:12:02Z
   Total Products: 973
 - [eBay ramp - below floor or excluded](https://peppervale.co.uk/collections/ebay-ramp-below-floor-or-excluded)
-  Updated: 2026-09-22T15:39:05Z
+  Updated: 2026-10-01T10:07:35Z
   Total Products: 11924
 - [eBay ramp - 100pc cost + 15 net](https://peppervale.co.uk/collections/ebay-ramp-100pc-cost-15-net): Auto-built. Qualifies for 100% markup on cost AND >= 15 GBP net profit at +85% MC markup. Not published to any sales channel.
-  Updated: 2026-09-25T10:02:47Z
+  Updated: 2026-10-01T09:54:40Z
   Total Products: 22496
 - [eBay eligible – stock 3+ and cost ](https://peppervale.co.uk/collections/ebay-eligible-stock-3-cost-): Internal Marketplace Connect source. Products qualify only after all variants pass the Peppervale cost check and at least one variant has Shopify inventory greater than 2.
-  Updated: 2026-09-25T21:01:46Z
-  Total Products: 40812
+  Updated: 2026-10-02T21:56:45Z
+  Total Products: 40674
 - [eBay rollout – audited stock 3+ – 13 Sep 2026](https://peppervale.co.uk/collections/ebay-rollout-audited-stock-3-2026-09-13): Internal Marketplace Connect rollout set generated from the 13 September 2026 Peppervale cost and inventory audit. The live quantity formula remains the final stock safeguard.
-  Updated: 2026-09-25T10:02:47Z
+  Updated: 2026-10-01T09:54:40Z
   Total Products: 35463
 
 ## Blogs
@@ -2967,10 +2893,10 @@
     Updated: 2026-09-11T01:31:04Z
     Author: PepperVale Editorial Team
   - [How to find women’s safety boots that fit wide feet](https://peppervale.co.uk/blogs/news/womens-safety-boots-wide-feet-guide-uk): A practical UK guide to choosing women’s safety boots for wide feet, including fit, width, EN ISO 20345 ratings, materials and comfort.
-    Updated: 2026-09-11T06:30:03Z
+    Updated: 2026-09-27T03:33:53Z
     Author: peppervale.co.uk
   - [Lightweight Bedding for Summer: A Practical UK Guide](https://peppervale.co.uk/blogs/news/lightweight-bedding-for-summer): Find the right lightweight bedding for summer in the UK. Compare tog ratings, breathable fabrics and layering tips, with bamboo bedding picks from Peppervale.
-    Updated: 2026-09-11T10:18:44Z
+    Updated: 2026-09-30T08:20:11Z
     Author: PepperVale
     Tags: bamboo bedding UK, breathable sheets, lightweight bedding for summer, summer duvet tog, UK bedding guide
   - [Affordable pillows for side sleepers that support properly](https://peppervale.co.uk/blogs/news/affordable-pillows-for-side-sleepers-that-support-properly): A practical UK guide to affordable pillows for side sleepers, comparing fill, firmness, loft and cover materials to help you choose well.
@@ -3019,7 +2945,7 @@
     Updated: 2026-09-18T01:27:53Z
     Author: PepperVale Editorial Team
   - [How to buy school cardigans for girls without overspending](https://peppervale.co.uk/blogs/news/how-to-buy-school-cardigans-for-girls-without-overspending): A practical guide to choosing girls' school cardigans in the UK, covering fabric, fit, care, sizing and how to keep costs down.
-    Updated: 2026-09-18T06:30:03Z
+    Updated: 2026-09-28T03:33:26Z
     Author: peppervale.co.uk
   - [How to get your child’s winter coat size right first time](https://peppervale.co.uk/blogs/news/kids-winter-coat-size-guide-uk): A practical UK guide to choosing the right kids’ winter coat size, with measuring tips, fit checks, layering advice and when to size up.
     Updated: 2026-09-18T06:30:05Z
@@ -3081,6 +3007,39 @@
     Author: peppervale.co.uk
   - [Can you machine wash a waterproof work jacket safely?](https://peppervale.co.uk/blogs/news/machine-wash-waterproof-work-jacket-safely): Find out when a waterproof work jacket can go in the washing machine, which settings to use, what to avoid and how to protect the waterproof finish.
     Updated: 2026-09-25T09:05:00Z
+    Author: peppervale.co.uk
+  - [When work safety boots need replacing](https://peppervale.co.uk/blogs/news/when-work-safety-boots-need-replacing): A practical UK guide to when safety boots should be replaced, what wear matters, and how to check EN ISO 20345 footwear properly.
+    Updated: 2026-09-26T06:30:13Z
+    Author: peppervale.co.uk
+  - [Winter work boots that keep feet dry on UK sites](https://peppervale.co.uk/blogs/news/winter-work-boots-keep-feet-dry-uk-sites): A practical guide to choosing men's waterproof work boots for winter in the UK, including safety ratings, materials, grip, warmth and fit.
+    Updated: 2026-09-26T06:30:31Z
+    Author: peppervale.co.uk
+  - [How to choose wall art that works in an office](https://peppervale.co.uk/blogs/news/how-to-choose-wall-art-that-works-in-an-office): A practical guide to choosing office wall art for UK workplaces, covering size, style, materials, placement and what suits different rooms.
+    Updated: 2026-09-27T06:30:04Z
+    Author: peppervale.co.uk
+  - [Key Questions Every Aspiring Sustainable Homemaker Wants Answered](https://peppervale.co.uk/blogs/news/key-questions-every-aspiring-sustainable-homemaker-wants-answered): Key Questions Every Aspiring Sustainable Homemaker Wants Answered
+    Updated: 2026-09-28T01:50:51Z
+    Author: PepperVale Editorial Team
+  - [How to choose a super king bedding set that fits properly](https://peppervale.co.uk/blogs/news/how-to-choose-a-super-king-bedding-set-that-fits-properly): A practical guide to super king bedding sets, including UK sizes, fabrics, tog rating, care, and what to check before you order.
+    Updated: 2026-09-28T06:30:03Z
+    Author: peppervale.co.uk
+  - [How to choose plain bedding that wears well](https://peppervale.co.uk/blogs/news/how-to-choose-plain-bedding-that-wears-well): A practical guide to plain bedding, covering fabrics, tog rating, fit, care and what suits children, guests and everyday UK homes.
+    Updated: 2026-09-29T06:30:07Z
+    Author: peppervale.co.uk
+  - [Reflecting on Sustainable Living Practices in Different Eras](https://peppervale.co.uk/blogs/news/reflecting-on-sustainable-living-practices-in-different-eras): Reflecting on Sustainable Living Practices in Different Eras
+    Updated: 2026-09-30T01:32:21Z
+    Author: PepperVale Editorial Team
+  - [How to choose king size bedding that fits properly](https://peppervale.co.uk/blogs/news/how-to-choose-king-size-bedding-that-fits-properly): A practical guide to UK king size bedding sizes, materials, tog rating and fit, so you can buy sheets, duvet covers and pillows with fewer mistakes.
+    Updated: 2026-09-30T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to choose a double bed set that fits properly](https://peppervale.co.uk/blogs/news/how-to-choose-a-double-bed-set-that-fits-properly): A practical guide to double bed bedding sets, including UK sizes, fabrics, tog rating, care, and what to check before you order.
+    Updated: 2026-10-01T06:30:08Z
+    Author: peppervale.co.uk
+  - [Effective Ways to Convince Family and Friends to Adopt Green Habits](https://peppervale.co.uk/blogs/news/effective-ways-to-convince-family-and-friends-to-adopt-green-habits): Effective Ways to Convince Family and Friends to Adopt Green Habits
+    Updated: 2026-10-02T01:25:41Z
+    Author: PepperVale Editorial Team
+  - [How to choose men’s work trousers that last](https://peppervale.co.uk/blogs/news/how-to-choose-mens-work-trousers-that-last): A practical guide to men’s work trousers: fabrics, fit, pockets, knee pad options and when to choose heavier or lighter pairs for UK work.
+    Updated: 2026-10-02T06:30:08Z
     Author: peppervale.co.uk
 
 ## Store Pages
