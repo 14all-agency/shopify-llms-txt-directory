@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-09-15T00:00:32.444Z
+- Updated At: 2026-10-03T00:00:32.759Z
 
 ## Products
 
@@ -28,8 +28,8 @@
   Price: 11,90 € EUR
 - [Beschichteter Caro Stoff aus Baumwolle](https://www.lotties.de/products/beschichteter-caro-stoff-aus-baumwolle): Gewebter Baumwollstoff PU-Beschichtet im Caro Design aus Baumwolle ÖkoTex100 1 Stück entspricht einem laufenden Meter Breite: 145cm Material: 100% Baumwolle mit Polyurethan Beschichtung Grammatur: 210 Gramm je laufender Meter Hergestellt in Deutschland Material 100% Baumwolle mit Polyurethan Beschichtung Pflegehinweis Maschinenwäsche bei 30°C trocknergeeignet bei niedriger Temperatur (schonend)
   Price: 9,95 € EUR
-- [Roter Woll Walk Stoff GOTS](https://www.lotties.de/products/roter-woll-walk-stoff-gots): Roter Woll Walk Stoff aus Österreich und GOTS zertifiziert 1 Stück entspricht einem laufenden Meter Breite: 155cm Material: 100% Schurwolle aus kontrolliert biologischer Tierhaltung Grammatur: 400 Gramm auf den laufenden Meter Hergestellt in Österreich Material 100% Schurwolle aus kontrolliert biologischer Tierhaltung Pflegehinweis Maschinenwäsche bei Woll Programm oder Handwäsche
-  Price: 24,95 € EUR
+- [Feinstrick Interlock mit drei Streifen Baumwolle Stoff](https://www.lotties.de/products/feinstrick-interlock-mit-drei-streifen-baumwolle-stoff): Baumwollstoff feingestrickt Interlock mit drei Streifen aus farbig gewachsener Baumwolle. 1 Stück entspricht einem laufenden Meter Breite: 140cm Material: 100% Baumwolle aus kontrolliert biologischen Anbau Grammatur: 170 Gramm je laufender Meter Hergestellt in Deutschland Material 100 % Baumwolle aus kontrolliert biologischen Anbau Pflegehinweis Maschinenwäsche bei 60°C trocknergeeignet bei niedriger Temperatur (schonend)
+  Price: 9,95 € EUR
 - [Gewebter Baumwolle Stoff mit Spielzeug Muster](https://www.lotties.de/products/gewebter-baumwolle-stoff-mit-spielzeug-muster): Glatter Baumwollstoff gewebt mit verspielten Muster 1 Stück entspricht einem laufenden Meter Breite: 140cm Material: 100% Baumwolle aus kontrolliert biologischen Anbau Grammatur: 140 Gramm je laufender Meter Hergestellt in Deutschland Material 100 % Baumwolle aus kontrolliert biologischen Anbau Pflegehinweis Maschinenwäsche bei 60°C trocknergeeignet bei niedriger Temperatur (schonend)
   Price: 9,95 € EUR
 - [Kletthose Komfort im bunten Design | jetzt bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/windeluberhose-mit-klettverschluss-bunt-bedruckt): Kletthose Komfort ✓ einfach Überstreifen über das Windelhöschen ✓ Nässeschutz bei gleichzeitiger Luftzirkulation ✓ angenehmes Hautklima ✓ jetzt günstig kaufen!
@@ -44,7 +44,7 @@
   Price: 7,95 € EUR
 - [Halstuch Dermata mit Silberfadenanteil für Babys | bei Lotties kaufen!](https://www.lotties.de/products/halstuch-dermata-mit-silberfadenanteil): Halstuch Dermata mit Silberfadenanteil für Babys ✓  Bio Baumwolle ✓ Silberionen können vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ hier einkaufen!
   Price: 9,95 € EUR
-- [Bio Unterhose Dermata mit Fuß | weitere Infos hier!](https://www.lotties.de/products/unterhose-dermata-mit-fuss-bei-neurodermitis): Bio Unterhose Dermata mit Fuß ✓ klimasteuernde Wirkung ✓ vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ jetzt schnell & günstig bestellen!
+- [Unterhose Dermata mit Fuß | weitere Infos hier!](https://www.lotties.de/products/unterhose-dermata-mit-fuss-bei-neurodermitis): Unterhose Dermata mit Fuß ✓ klimasteuernde Wirkung ✓ vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ jetzt schnell & günstig bestellen!
   Price: 34,95 € EUR
 - [Lotties Blau | Natur Unterhemd Nachthimmel | Jetzt kaufen!](https://www.lotties.de/products/kinder-unterhemd-nachthimmel-aus-baumwolle): Lotties Blaues Natur Unterhemd Nachthimmel ✓ Modisches Unterhemd für die Jungs ✓ Bequemer Schnitt ✓ beste Qualität aus reiner Bio-Baumwolle ✓ jetzt bestellen!
   Price: 10,95 € EUR
@@ -356,17 +356,17 @@
   Price: 21,95 € EUR — 24,95 € EUR
 - [Natur Body langarm aus Wolle und Seide | jetzt beraten werden!](https://www.lotties.de/products/baby-body-langarm-aus-wolle-und-seide): Natur Body langarm aus Wolle und Seide ✓ nickelfreie Druckknöpfe ✓ ideal für die kalte und warme Jahreszeit Seide kühlt und Wolle wärmt ✓ jetzt entdecken!
   Price: 24,95 € EUR — 27,95 € EUR
-- [BIO Unterwäscheset langarm Dermata | weitere Infos hier!](https://www.lotties.de/products/silberfaden-shirt-langarm-und-hose-im-set-bei-neurodermitis): BIO Unterwäscheset langarm Dermata ✓ klimasteuernde Wirkung ✓ vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ weitere Informationen hier!
+- [Unterwäscheset langarm Dermata | weitere Infos hier!](https://www.lotties.de/products/silberfaden-shirt-langarm-und-hose-im-set-bei-neurodermitis): Unterwäscheset langarm Dermata ✓ klimasteuernde Wirkung ✓ vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ weitere Informationen hier!
   Price: 69,95 € EUR
-- [BIO Schlafanzug Dermata für Kinder | jetzt bei Lotties bestellen!](https://www.lotties.de/products/silberfaden-kinder-schlafanzug-bei-neurodermitis): BIO Schlafanzug Dermata für Kinder ✓ Silberfaden-Schlafanzug bei Juckreiz ✓ Keime und Krankheitserreger wirksam abzutöten ✓ Linderung bei Neurodermitis ✓ kaufen!
+- [Schlafanzug Dermata für Kinder | jetzt bei Lotties bestellen!](https://www.lotties.de/products/silberfaden-kinder-schlafanzug-bei-neurodermitis): Schlafanzug Dermata für Kinder ✓ Silberfaden-Schlafanzug bei Juckreiz ✓ Keime und Krankheitserreger wirksam abzutöten ✓ Linderung bei Neurodermitis ✓ kaufen!
   Price: 69,95 € EUR
-- [BIO Schlafoverall Dermata | bei Lotties Naturtextilien günstig bestellen!](https://www.lotties.de/products/silberfaden-kinder-schlafoverall-bei-neurodermitis): BIO Schlafoverall Dermata ✓ Silber setzt Ionen frei, die in der Lage sind, Keime abzutöten ✓ juckreizmildernd, antibakteriell und pflegeleicht ✓ jetzt kaufen!
+- [Schlafoverall Dermata | bei Lotties Naturtextilien günstig bestellen!](https://www.lotties.de/products/silberfaden-kinder-schlafoverall-bei-neurodermitis): Schlafoverall Dermata ✓ Silber setzt Ionen frei, die in der Lage sind, Keime abzutöten ✓ juckreizmildernd, antibakteriell und pflegeleicht ✓ jetzt kaufen!
   Price: 79,95 € EUR
-- [BIO Fäustlinge Dermata für Babys | jetzt bei Lotties bestellen!](https://www.lotties.de/products/silberfaden-kinder-handschuhe-bei-neurodermitis): BIO Fäustlinge Dermata für Babys ✓ Silberfaden-Fäustlinge für Babys bei Juckreiz ✓ Keime und Krankheitserreger wirksam abzutöten ✓ Linderung ✓ jetzt kaufen!
+- [Fäustlinge Dermata für Babys | jetzt bei Lotties bestellen!](https://www.lotties.de/products/silberfaden-kinder-handschuhe-bei-neurodermitis): Fäustlinge Dermata für Babys ✓ Silberfaden-Fäustlinge für Babys bei Juckreiz ✓ Keime und Krankheitserreger wirksam abzutöten ✓ Linderung ✓ jetzt kaufen!
   Price: 12,95 € EUR
-- [Dermata Socken | bei Lotties Naturtextilien günstig bestellen](https://www.lotties.de/products/silberfaden-kinder-socken-bei-neurodermitis): BIO Socken Dermata ✓ 98 % kbA-Baumwolle und 2% Silberfäden ✓ Silber setzt Ionen frei, die in der Lage sind, Keime abzutöten ✓ Größe S - L ✓ jetzt kaufen!
+- [Dermata Socken | bei Lotties Naturtextilien günstig bestellen](https://www.lotties.de/products/silberfaden-kinder-socken-bei-neurodermitis): Socken Dermata ✓ 98 % kbA-Baumwolle und 2% Silberfäden ✓ Silber setzt Ionen frei, die in der Lage sind, Keime abzutöten ✓ Größe S - L ✓ jetzt kaufen!
   Price: 12,95 € EUR
-- [BIO Häubchen Dermata für Babys | bei Lotties kaufen!](https://www.lotties.de/products/silberfaden-baby-haubchen-bei-neurodermitis): BIO Häubchen Dermata für Babys ✓ 100 % Bio Baumwolle ✓ Silberionen können vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ hier einkaufen!
+- [Häubchen Dermata für Babys | bei Lotties kaufen!](https://www.lotties.de/products/silberfaden-baby-haubchen-bei-neurodermitis): Häubchen Dermata für Babys ✓ kbA-Baumwolle ✓ Silberionen können vor allem Neurodermitis geplagten Kindern Linderung verschaffen ✓ hier einkaufen!
   Price: 12,95 € EUR
 - [Trägertop für Damen aus Bio Baumwolle | jetzt bei Lotties kaufen!](https://www.lotties.de/products/damen-top-luftig-natur-aus-baumwolle): Trägertop für Damen aus Bio Baumwolle ✓ eleganter Borte am Ausschnitt für Damen ✓ aus Bio Baumwolle ✓ Langfaser Baumwolle aus kontrolliert Anbau ✓ kaufen!
   Price: 14,95 € EUR
@@ -396,7 +396,7 @@
   Price: 79,95 € EUR — 99,95 € EUR
 - [Windelsack | jetzt bei Lotties Naturtextilien günstig bestellen!](https://www.lotties.de/products/windelsack): Windelsack ✓ Für gebrauchte Windeln oder verschmutzte Babykleidung ✓ Ideal für unterwegs ✓ geruchsneutral ✓ praktisch mit Kordel und Stopper ✓ hier im Shop!
   Price: 14,95 € EUR — 18,95 € EUR
-- [BIO Trainingsslip Windelfrei | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/windelfrei-trainingsslip): BIO Trainingsslip Windelfrei ✓ Müllvermeidung ✓ gesteigertes Wohlbefinden des Kindes ✓ kein Wickelstress ✓ Liegt direkt auf der Haut auf ✓ jetzt bestellen!
+- [Trainingsslip Windelfrei | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/windelfrei-trainingsslip): Trainingsslip Windelfrei ✓ Müllvermeidung ✓ gesteigertes Wohlbefinden des Kindes ✓ kein Wickelstress ✓ Liegt direkt auf der Haut auf ✓ jetzt bestellen!
   Price: 17,95 € EUR — 19,95 € EUR
 - [Trainings Windelhose | jetzt bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/windelfrei-trainingshose): Trainings Windelhose ✓ Müllvermeidung ✓ gesteigertes Wohlbefinden des Kindes ✓ kein Wickelstress ✓ Liegt direkt auf der Haut auf ✓ jetzt bestellen!
   Price: 19,95 € EUR — 21,95 € EUR
@@ -450,13 +450,13 @@
   Price: 8,95 € EUR
 - [Wundschutzcreme aus kontrolliert biologischem Anbau | jetzt kaufen!](https://www.lotties.de/products/bio-wundschutzcreme-mit-calendula-und-kamille): Wundschutzcreme aus kontrolliert biologischem Anbau ✓ Schützt zarte Haut und hält sie weich und geschmeidig ✓ Zertifizierte Naturkosmetik ✓ jetzt einkaufen!
   Price: 6,95 € EUR
-- [Bio Stilleinlagen 2-lagig aus Seide | jetzt Kontakt aufnehmen!](https://www.lotties.de/products/stilleinlagen-2-lagig-aus-seide): Bio Stilleinlagen 2-lagig aus Seide ✓ paarweise ✓ 2-lagig ✓ angenehm kühlend und selbstheilend ✓ saugfähigere Stilleinlagen ✓ bei wunden Brustwarzen ✓ kaufen!
+- [Stilleinlagen 2-lagig aus Seide | jetzt Kontakt aufnehmen!](https://www.lotties.de/products/stilleinlagen-2-lagig-aus-seide): Stilleinlagen 2-lagig aus Seide ✓ paarweise ✓ 2-lagig ✓ angenehm kühlend und selbstheilend ✓ saugfähigere Stilleinlagen ✓ bei wunden Brustwarzen ✓ kaufen!
   Price: 7,95 € EUR
-- [Bio Stilleinlagen Soft 2-lagig mit Nässeschutz | jetzt günstig kaufen!](https://www.lotties.de/products/stilleinlagen-soft-2-lagig-mit-nasseschutz): Bio Stilleinlagen Soft 2-lagig mit Nässeschutz ✓ paarweise ✓ 2-lagig ✓ atmungsaktiv mit Nässeschutz ✓ saugfähigere Stilleinlagen ✓ kein Durchnässen ✓ kaufen!
+- [Stilleinlagen Soft 2-lagig mit Nässeschutz | jetzt günstig kaufen!](https://www.lotties.de/products/stilleinlagen-soft-2-lagig-mit-nasseschutz): Stilleinlagen Soft 2-lagig mit Nässeschutz ✓ paarweise ✓ 2-lagig ✓ atmungsaktiv mit Nässeschutz ✓ saugfähigere Stilleinlagen ✓ kein Durchnässen ✓ kaufen!
   Price: 5,95 € EUR
-- [Bio Stilleinlagen 2-lagig aus Wolle und Bouretteseide | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-2-lagig-aus-wolle-und-bouretteseide): Bio Stilleinlagen 2-lagig aus Wolle und Bouretteseide ✓ paarweise ✓ 2-lagig ✓ angenehm kühlend und selbstheilend ✓ saugfähigere Stilleinlagen ✓ jetzt kaufen!
+- [Stilleinlagen 2-lagig aus kbT-Wolle und Bouretteseide | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-2-lagig-aus-wolle-und-bouretteseide): Stilleinlagen 2-lagig aus kbT-Wolle und Bouretteseide ✓ paarweise ✓ 2-lagig ✓ angenehm kühlend und selbstheilend ✓ saugfähigere Stilleinlagen ✓ jetzt kaufen!
   Price: 7,95 € EUR
-- [Bio Stilleinlagen Cotton 3-lagig aus reiner Baumwolle | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-cotton-3-lagig-aus-reiner-baumwolle): Bio Stilleinlagen Cotton 3-lagig aus reiner Baumwolle ✓ paarweise ✓ 3-lagig ✓ 100 % kbA-Baumwoll-Flanell ✓ saugfähigere Stilleinlagen ✓ jetzt online kaufen!
+- [Stilleinlagen Cotton 3-lagig aus reiner Baumwolle | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-cotton-3-lagig-aus-reiner-baumwolle): Stilleinlagen Cotton 3-lagig aus reiner Baumwolle ✓ paarweise ✓ 3-lagig ✓ 100 % kbA-Baumwoll-Flanell ✓ saugfähigere Stilleinlagen ✓ jetzt online kaufen!
   Price: 4,95 € EUR
 - [Bienenwachsauflage (Wachsplatte) | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/bienenwachsauflage-wachsplatte): Bienenwachsauflage (Wachsplatte) ✓ akuter und chronischer Bronchitis ✓ spastische Bronchitis ✓ Keuchhusten ✓ Abszessen ✓ Insektenstichen ✓ jetzt einkaufen!
   Price: 7,50 € EUR
@@ -498,7 +498,9 @@
   Price: 34,95 € EUR
 - [Handtuch aus weichem Bio Frottee | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/frottee-handtuch-natur-aus-baumwolle): Handtuch aus weichem Bio Frottee ✓ Hautfreundlich und sanft für feine Hautpartien ✓ umlaufende Zick-Zack-Einfassung mit doppelter Sicherheitsnaht ✓ kaufen!
   Price: 11,95 € EUR
-[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTU1MjMxNDk4LCJsYXN0X3ZhbHVlIjoiOTY5ODk1NTIzMTQ5OCJ9)
+- [Universaltuch aus 100% Bio Frottee | jetzt bei Lotties bestellen!](https://www.lotties.de/products/frottee-universaltuch-natur-aus-baumwolle): Universaltuch aus 100% Bio Frottee ✓ Hautfreundlich und sanft für feine Hautpartien ✓ 2-lagig und Aufhänger am oberen Ende ✓ jetzt online Kontakt aufnehmen!
+  Price: 6,95 € EUR
+[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTU5NDI1ODAyLCJsYXN0X3ZhbHVlIjoiOTY5ODk1OTQyNTgwMiJ9)
 
 ## Collections
 
@@ -709,7 +711,7 @@
 - [kbA-Baumwolle: Anbau, Farbe & Verarbeitung | Lotties](https://www.lotties.de/pages/qualitatsrichtlinien): kbA-Baumwolle: Was bedeuten Bio, Naturfarbe und textile Verarbeitung? Auf Etiketten und Produktseiten begegnen Eltern viele Begriffe: Bio-Baumwolle...
 - [Lotties Rückgabe von Artikel](https://www.lotties.de/pages/ruckgabe): Sie möchten etwas zurückschicken? Kein Problem!Sie haben das Recht, Ihre Bestellung innerhalb von 14 Tagen ohne Angabe von Gründen zu widerrufen un...
 - [Lotties Defekter Artikel](https://www.lotties.de/pages/defekter-artikel): Ein Defekt liegt vor? Kein Grund zur Sorge – wir stehen Ihnen zur Seite und finden garantiert eine Lösung! Bitte kontaktieren Sie uns ganz einfach ...
-- [Lotties Größentabelle - jetzt informieren](https://www.lotties.de/pages/grossentabelle): Für unsere Baby - & Kinderklamotten Größe Gewicht Alter Bestell-Größe 39 - 44 ca. 2,5 kg Frühchen 44 45 - 50 ca. 3,3 kg Neugeboren 50 51 - 56 ca. 4...
+- [Lotties Größentabelle - jetzt informieren](https://www.lotties.de/pages/grossentabelle): Für unsere Baby - & Kinderklamotten Größe Gewicht Alter Bestell-Größe 39 - 44 cm ca. 2,5 kg Frühchen 44 45 - 50 cm ca. 3,3 kg Neugeboren 50 51 - 56...
 - [Lotties Naturtextilien: Unsere Mission & Werte](https://www.lotties.de/pages/firmenphilosophie): Lotties Naturtextilien seit 1989 Seit 1989 beschäftigt sich Lotties mit Textilien und Produkten für Babys, Kinder und Eltern. Begonnen hat unsere G...
 - [Baby- & Kinderkleidung aus Naturfasern | Lotties](https://www.lotties.de/pages/bio-baumwolle-bekleidung): Baby- und Kinderkleidung von Lotties Durchdachte Kleidung für Babys und Kinder Baby- und Kinderkleidung muss im Alltag vieles mitmachen: schlafen, ...
 - [Liefer- & Zahlungsbedingungen von Lotties](https://www.lotties.de/pages/liefer-zahlungsbedingungen): Lieferinformationen Allgemeine Informationen zum Versand: Die nachfolgenden Versandkosten gelten ausschließlich für Bestellungen von Verbrauchern (...
