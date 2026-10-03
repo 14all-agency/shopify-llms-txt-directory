@@ -6,25 +6,25 @@
 - Timezone: Europe/Rome
 - Created At: 2026-08-10T08:58:38Z
 - Contact Email: infolumora20@gmail.com
-- Updated At: 2026-09-26T00:00:38.192Z
+- Updated At: 2026-10-03T00:00:39.672Z
 
 ## Products
 
 - [LUMORA20® Lampada Solare LED d'Emergenza con Power Bank USB](https://gfdmhs-we.myshopify.com/products/lumora20®-lampada-led-solare-demergenza-6-modalita-power-bank-usb): Lampada solare LED d'emergenza LUMORA20® con 6 modalità di luce, doppia ricarica solare+USB e power bank integrato. Ideale per blackout, campeggio e outdoor.
-  Updated: 2026-08-20T06:47:38Z
+  Updated: 2026-10-02T09:50:38Z
   Vendor: Lumora20
   Product Type: Illuminazione
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1094/6369/9795/files/ae9946a7-49c6-4d7b-b224-88a4686e6169.jpg?v=1786887300
-  Price: 47,00 € EUR
+  Price: 40,00 € EUR
 
 ## Collections
 
 - [](https://gfdmhs-we.myshopify.com/collections/frontpage)
-  Updated: 2026-08-19T18:47:31Z
+  Updated: 2026-10-02T09:50:40Z
   Total Products: 1
 - [Luce di Emergenza – Campagna Meta](https://gfdmhs-we.myshopify.com/collections/luce-di-emergenza-campagna-meta): Scopri la lampada solare LED LUMORA20® con 6 modalità e power bank integrato. Perfetta per blackout, campeggio e outdoor. Ordina ora.
-  Updated: 2026-08-19T19:11:14Z
+  Updated: 2026-10-02T09:50:40Z
   Total Products: 1
 
 ## Store Pages
