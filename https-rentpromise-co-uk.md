@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-09-25T21:01:14.384Z
+- Updated At: 2026-10-03T00:00:24.995Z
 
 ## Collections
 
@@ -211,6 +211,18 @@
     Updated: 2026-09-25T09:07:39Z
     Author: RentPromise Team
     Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease , housing association leases, no void social housing , property, property management for landlords, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Housing Association Lease : Long-Term Stability for Landlords](https://rentpromise.co.uk/blogs/news/housing-association-lease--long-term-stability-for-landlords): Housing Association Lease : Long-Term Stability for Landlords
+    Updated: 2026-09-28T09:12:05Z
+    Author: RentPromise Team
+    Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off landlord management, housing, housing association lease , long-term housing leases, no void social housing , property, rent guarantee scheme, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [UK Property Guide: Embrace Hands-Off Management with  Rent](https://rentpromise.co.uk/blogs/news/uk-property-guide-embrace-hands-off-management-with--rent): UK Property Guide: Embrace Hands-Off Management with  Rent
+    Updated: 2026-09-30T09:10:20Z
+    Author: RentPromise Team
+    Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off property leasing, housing, housing association lease , management, no void social housing , property management for landlords, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Understanding No Void Social Housing  for UK Property Owners](https://rentpromise.co.uk/blogs/news/understanding-no-void-social-housing--for-uk-property-owners): Understanding No Void Social Housing  for UK Property Owners
+    Updated: 2026-10-02T09:09:05Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent schemes,  rent social housing investmen,  rent uk, hands-off property management for landlo, housing, housing association lease , , no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
 
 ## Store Pages
 
