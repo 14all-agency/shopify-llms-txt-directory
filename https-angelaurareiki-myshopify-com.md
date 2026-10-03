@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T22:42:23Z
 - Contact Email: theangelaurareiki@gmail.com
-- Updated At: 2026-09-25T00:00:46.032Z
+- Updated At: 2026-10-03T00:00:45.977Z
 
 ## Products
 
@@ -3124,6 +3124,14 @@
     Updated: 2026-09-24T13:01:21Z
     Author: angelaurareiki
     Tags: angelaurareiki, buying guide, comparison, holistic wellness, natural beauty, skincare
+  - [Simple Vegan Skincare Routine with Botanical Ingredients](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/how-to-build-a-simple-vegan-skincare-routine-with-botanical-ingredients): Simple Vegan Skincare Routine with Botanical Ingredients
+    Updated: 2026-09-29T13:01:20Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, botanical ingredients, how to, natural skincare, skincare, vegan beauty
+  - [angelaurareiki vs Primally Pure: Dry Skin Solutions Compared](https://angelaurareiki.myshopify.com/blogs/plant-based-and-eco-friendly-angelaurareiki-values/angelaurareiki-vs-acure-comparing-gentle-vegan-solutions-for-dry-skin-relief): angelaurareiki vs Primally Pure: Dry Skin Solutions Compared
+    Updated: 2026-10-01T13:01:33Z
+    Author: angelaurareiki
+    Tags: angelaurareiki, comparison, dry skin relief, organic wellness, skin barrier repair, vegan skincare
 
 ## Store Pages
 
