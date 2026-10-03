@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-09-17T00:00:29.236Z
+- Updated At: 2026-10-03T00:00:29.211Z
 
 ## Products
 
@@ -267,10 +267,11 @@
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Luna1_0a0c6564-be93-45c2-a84c-e039cf914852.jpg?v=1780143000
   Price: $20.00 USD
 - [Discover the Beaded Hair Comb | Percacciolo Collection](https://collectionbynp.com/products/beaded-hair-comb): Discover the Beaded Hair Comb from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:07Z
+  Updated: 2026-09-18T13:57:32Z
   Vendor: Percacciolo Collection
   Product Type: Hair Comb
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BeadedHeadpiece2.jpg?v=1789696132
   Price: $50.00 USD
 - [Discover the Elena Mantilla Veil | Percacciolo Collection](https://collectionbynp.com/products/elena-mantilla-veil): Discover the Elena Mantilla Veil from Percacciolo Collection.
   Updated: 2026-09-15T08:23:01Z
@@ -424,18 +425,18 @@
 - [Gloves](https://collectionbynp.com/collections/gloves): Discover the latest Gloves from Percacciolo Collection.
   Updated: 2026-05-06T19:58:00Z
   Total Products: 4
-- [Headbands](https://collectionbynp.com/collections/headbands): Discover the latest Headbands from Percacciolo Collection.
-  Updated: 2026-05-06T19:57:48Z
-  Total Products: 2
+- [Head Pieces](https://collectionbynp.com/collections/headbands): Discover the latest Headbands from Percacciolo Collection.
+  Updated: 2026-09-18T02:32:47Z
+  Total Products: 3
 - [Robes](https://collectionbynp.com/collections/robes): Discover the latest Robes from Percacciolo Collection.
   Updated: 2026-09-02T11:08:10Z
   Total Products: 3
 - [All Products](https://collectionbynp.com/collections/all-products): Discover the latest All Products from Percacciolo Collection.
-  Updated: 2026-09-15T17:17:33Z
+  Updated: 2026-09-18T02:04:30Z
   Total Products: 48
 - [Bridal](https://collectionbynp.com/collections/bridal): Discover the latest Bridal from Percacciolo Collection.
-  Updated: 2026-09-16T11:08:19Z
-  Total Products: 23
+  Updated: 2026-09-23T22:20:49Z
+  Total Products: 24
 - [Handbags](https://collectionbynp.com/collections/handbags): Discover the latest Handbags from Percacciolo Collection.
   Updated: 2026-09-11T01:21:53Z
   Total Products: 16
@@ -446,8 +447,8 @@
   Updated: 2026-09-11T01:22:15Z
   Total Products: 16
 - [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories): Discover the latest Darkwear Accessories from Percacciolo Collection.
-  Updated: 2026-09-11T01:21:53Z
-  Total Products: 35
+  Updated: 2026-09-18T02:11:28Z
+  Total Products: 36
 - [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Discover the latest Desert Veil Collection from Percacciolo Collection.
   Updated: 2026-09-10T18:45:51Z
   Total Products: 3
@@ -455,8 +456,8 @@
   Updated: 2026-08-19T11:08:28Z
   Total Products: 11
 - [Midnight Blooms Collection](https://collectionbynp.com/collections/midnight-blooms-collection)
-  Updated: 2026-09-16T11:08:19Z
-  Total Products: 7
+  Updated: 2026-09-18T01:59:13Z
+  Total Products: 8
 
 ## Store Pages
 
