@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2026-09-17T00:00:34.375Z
+- Updated At: 2026-10-03T00:00:35.422Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
@@ -107,7 +107,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-snooze-paws-sleepy-cat-plushie-catplush-stuffedanimal-white-40cm-801792.jpg?v=1756492771
     Price: $71.85 USD
 - [Mochi Meow Kawaii Fat Round Cat Plushies](https://www.hopsandpops.com/products/mochi-meow-kawaii-fat-round-cat-plushies): Meet the Mochi Meow Kawaii Fat Round Cat Plushies. These plushies are cute, round, and made for the best cuddles ever. These fat cat plushies are soft, squishy, and super huggable. Their round shape, tiny ears, and big embroidered eyes make them look just like a chubby ball of fluff. Perfect for hugging, sleeping, or adding a cozy touch to your room. Each round cat plush comes in four adorable colors: white, orange, black, and blue. They are great for kids, teens, and adults who love cute round cat plush toys or want a soft pillow to relax with. 💖 Why You’ll Love It ☁️ Super Soft and Squishy: Made with high-quality plush fabric and filled with soft PP cotton for the best hugging feel. 🐾 Cute Fat Cat Shape: Round and pudgy design that looks like a real mochi ball, perfect for squeezes and cuddles. 🎨 Four Kawaii Colors: Choose from white, orange, black, or blue to match your style or collection. 🎁 Perfect Gift for Cat Lovers: A fun and heart-warming present for birthdays, holidays, or just because. 🛋 Great for Home Decor: Use it as a pillow, sofa cushion, or cute plush accent in your bedroom or living room. 🧵 Durable Quality: Well-stitched and made to stay soft, fluffy, and adorable for a long time. 📏 Size and Material Available Sizes: 18 cm, 40 cm, 55 cm Material: Soft plush exterior with high-quality PP cotton filling 🧽 Easy Care Hand wash gently with mild soap and water Do not machine wash or iron Air dry completely to keep it fluffy and fresh 🌸 Soft, Cute, and Ready to Cuddle The Mochi Meow Kawaii Fat Round Cat Plushie is more than just a toy - it’s your new cuddle buddy. Soft, round, and full of personality, this fat cat plush pillow is perfect for hugs, naps, and decoration. Add one to your plush collection today and enjoy endless comfort and smiles. 💕🐾
-  Updated: 2026-07-15T06:34:07Z
+  Updated: 2026-09-17T16:42:17Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
   Availability: Available
@@ -304,8 +304,8 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-big-eyed-cute-kitten-plush-catplush-stuffedanimal-gray-22cm-814920.jpg?v=1756492978
     Price: $35.13 USD
-- [Chonk Cube Square Cat Plushies Kawaii Soft Pillows](https://www.hopsandpops.com/products/chonk-cube-square-cat-plushies-kawaii-soft-pillows): Meet the Chonk Cube Cats, a family of kawaii square cat plushies that combine irresistible cuteness with cozy comfort. Each chubby square shaped cat is made from ultra-soft plush fabric and filled with premium PP cotton, making it perfect for hugging, stacking, or snoozing. With their embroidered kawaii faces and plushy form, these cats are the ultimate blend of cute décor and cuddle-worthy comfort. Available in black and white, each cube cat has its own unique personality, the sleek black cat with glowing eyes and the soft white cat with a gentle smile. Whether you’re looking for a kawaii square cat pillow, a cute gift for cat lovers, or a fun addition to your plush collection, the Chonk Cube Cats are here to brighten your space. 💖 Why You’ll Love It ☁️ Super Soft and Squishy: Made from high-quality plush fabric and filled with soft PP cotton for a cloud-like feel. 🐾 Unique Cube Shape: A chubby, square style cat design that’s cute, stackable, and full of personality. 🎨 Two Kawaii Styles: Choose between the adorable white cat or the mysterious black cat with bright embroidered eyes. 🎁 Perfect Gift for Cat Lovers: A thoughtful present for kids, teens, and plush collectors who adore cats and cozy pillows. 🛋 Cute and Functional: Works as a pillow, armrest, or decorative plush for your bed, couch, or reading corner. 🧵 Durable Quality: Stitched carefully for long-lasting softness and shape retention. 📏 Size and Material Available Sizes: 25 × 20 × 20 cm, 35 × 30 × 30 cm, 50 × 40 × 40 cm Material: Soft plush exterior with premium PP cotton filling 🧽 Easy Care Hand wash gently with mild soap and water Do not machine wash or iron Air dry completely to keep your cube cats fluffy and fresh 🐾 Soft, Squishy, and Irresistibly Cute Add a Chonk Cube Square Cat Plushie to your home and let these cuddly kitties fill your days with comfort and smiles. Whether used as décor, a nap buddy, or a thoughtful gift, these kawaii cat pillows are  to bring joy to anyone who loves cute and cozy things. 🤍🖤🐱
-  Updated: 2026-07-10T13:26:02Z
+- [Chonk Cube Cat Plush – Square Kawaii Cat Pillow](https://www.hopsandpops.com/products/chonk-cube-square-cat-plushies-kawaii-soft-pillows): Chonk Cube: a chubby, square-shaped cat plush that's perfect for hugging, stacking, or snoozing. Ultra-soft, kawaii face. Free US shipping.
+  Updated: 2026-09-19T12:29:53Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
   Availability: Available
@@ -334,8 +334,8 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-chonk-cube-cats-squishy-square-plush-pillows-catplush-stuffedanimal-black-25x20x20cm-648537.jpg?v=1756493019
     Price: $115.08 USD
-- [SnuggleMeow Adorable Round Cat Plush Pillow](https://www.hopsandpops.com/products/snugglemeow-adorable-round-cat-plush-pillow): 🐱 Meet your new favorite cuddle buddies - the SnuggleMeow Plush Cats! Designed for ultimate coziness, these chubby cat plushies are perfect for snuggles, relaxation, and adding a dash of cuteness to your space. Available in four charming colors - White, Orange, Black, and Gray - each plush is made with ultra-soft fabric and filled with premium PP cotton for a squishy, huggable feel. 🎀 Whether you're a cat lover, a plush collector, or searching for the perfect gift, these adorable round kitty pillows will bring warmth and joy to every hug! WHY YOU’LL LOVE IT☁️ Ultra-Soft & Squishy - Made with cloud-like plush fabric and premium PP cotton for the perfect cuddle.🐾 Adorably Round & Chubby - Designed for maximum hug-ability and comfort.🌈 Four Cute Colors - Choose from White, Orange, Black, or Gray to match your style!🎁 Perfect Gift Idea - Ideal for birthdays, holidays, or as a cozy surprise for plush lovers of all ages.🛋 Great for Relaxing & Décor - Use it as a pillow, armrest, or a kawaii decoration for your bed or couch.🧵 Durable & Well-Made - High-quality stitching ensures long-lasting softness and shape retention. SIZE & MATERIAL📐 Available Sizes: 25cm, 35cm, 50cm🧵 Material: Ultra-soft plush exterior with premium PP cotton filling EASY CARE🧽 Hand wash recommended with mild soap and water.🚫 Do not iron or machine wash to maintain softness.🌞 Air dry to keep it fluffy and huggable!
-  Updated: 2026-09-10T23:56:37Z
+- [SnuggleMeow Round Cat Plush Pillow – Soft & Huggable](https://www.hopsandpops.com/products/snugglemeow-adorable-round-cat-plush-pillow): Meet SnuggleMeow: an oversized, ultra-soft round cat plush that doubles as a pillow. Perfect gift for cat lovers. Free US shipping, ships in 2-3 days.
+  Updated: 2026-09-19T12:29:43Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
   Availability: Available
@@ -711,7 +711,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Price: $115.42 USD
 - [Bubble Shiba Plush](https://www.hopsandpops.com/products/bubble-shiba-plush): 🐶 Meet the Bubble Shiba Plush, an irresistibly soft and chubby companion that’s perfect for snuggles! With its round, cushiony body and adorable Shiba Inu expression, this plush is designed to bring warmth, joy, and ultimate coziness to your home. Whether you're a dog lover, a plush collector, or just in need of a comforting pillow, this fluffy Shiba is here to make your day extra cuddly! Why You’ll Love It ☁️ Super Soft & Squishy - Crafted with ultra-plush fabric and premium PP cotton filling for a cloud-like hug.🐾 Adorably Round Design - A chubby, ball-shaped puppy that’s cute from every angle.🎨 Two Kawaii Colors - Choose between pink or brown, each with an irresistibly cute expression.🎁 Perfect Gift for Dog Lovers - An adorable surprise for birthdays, holidays, or just because!🛋 Great for Decor & Relaxation - Use it as a pillow, cuddle buddy, or a charming addition to your couch or bed.🧵 Durable & Well-Made - High-quality stitching ensures long-lasting fluffiness and durability. Size & Material 📐 Available Sizes: 36cm / 55cm🧵 Material: Soft plush fabric with premium PP cotton filling Easy Care 🧽 Hand wash recommended with mild soap and water.🚫 Do not iron or machine wash to maintain shape and softness.🌞 Air dry to keep it fresh and cuddly! Bring home a Bubble Shiba Plush today and experience the joy of the roundest, softest puppy hug! 🐶💖
-  Updated: 2026-07-10T13:26:07Z
+  Updated: 2026-09-20T10:03:46Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
   Availability: Available
@@ -899,84 +899,42 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-grin-o-saurus-happy-t-rex-plushies-dinosaurplush-stuffedanimal-gray-70cm-605045.jpg?v=1756492698
     Price: $30.84 USD
-- [Dreamy Dino Dragon Plushies](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies): 🦄✨ Meet the Dreamy Dino Dragons - an enchanting mix of dinosaur charm and mythical dragon magic! With their pastel colors, cute antler-like horns, and the softest plush fabric, these cuddly creatures are straight out of a fairytale. Whether you're a lover of kawaii aesthetics, fantasy creatures, or just need a comforting snuggle buddy, these dreamy dinos are ready to brighten your world. 🎀 Perfect for cuddling, decorating, or gifting, these plush companions bring a touch of magic and coziness to any space! WHY YOU’LL LOVE IT ☁️ Ultra-Soft & Huggable - Crafted with premium plush and PP cotton for the perfect squish factor.🦕 Adorably Unique Design - A delightful fusion of a dino and dragon with tiny wings and cute horns.🎨 Three Pastel Colors - Choose from dreamy green, blue, or pink for the ultimate cozy aesthetic.🎁 The Perfect Kawaii Gift - Ideal for birthdays, holidays, or anyone who loves cute fantasy creatures!🛋 Great for Decor & Comfort - Whether on your bed, couch, or desk, these plushies add a whimsical touch.🧵 Quality Craftsmanship - Durable stitching ensures your plush stays cute and cuddly for years to come. SIZE & MATERIAL 📐 Available Sizes: 35 cm, 45 cm, 60 cm🧵 Material: Soft plush fabric with premium PP cotton filling EASY CARE 🧽 Hand wash with mild soap and water for best results.🚫 Avoid ironing or machine washing to maintain softness and shape.🌞 Air dry to keep it fluffy and fresh! Add a Dreamy Dino Dragon to your plushie collection today and bring home a cuddly fantasy friend! 🦄💖
-  Updated: 2026-07-10T13:26:10Z
-  Vendor: Hops & Pops
-  Product Type: Animal Kingdom Plushies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-101363.jpg?v=1756492723
-  - [Pink / 35cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418818602)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-pink-35cm-346211.jpg?v=1756492723
-    Price: $26.29 USD
-  - [Pink / 45cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418851370)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-pink-35cm-346211.jpg?v=1756492723
-    Price: $33.20 USD
-  - [Pink / 60cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418753066)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-pink-35cm-346211.jpg?v=1756492723
-    Price: $46.12 USD
-  - [Blue / 35cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418785834)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-blue-35cm-666647.jpg?v=1756492723
-    Price: $26.29 USD
-  - [Blue / 45cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418949674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-blue-35cm-666647.jpg?v=1756492723
-    Price: $33.20 USD
-  - [Blue / 60cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418982442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-blue-35cm-666647.jpg?v=1756492723
-    Price: $46.12 USD
-  - [Green / 35cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418884138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-green-35cm-903618.jpg?v=1756492723
-    Price: $26.29 USD
-  - [Green / 45cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383418916906)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-green-35cm-903618.jpg?v=1756492723
-    Price: $33.20 USD
-  - [Green / 60cm](https://www.hopsandpops.com/products/dreamy-dino-dragon-plushies?variant=42383419015210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamy-dino-dragon-plushies-dinosaurplush-stuffedanimal-green-35cm-903618.jpg?v=1756492723
-    Price: $46.12 USD
-[List Continued](https://www.hopsandpops.com/a/llms-agent/llms.txt?shop=cmks7k-au.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTExNzMyMzg3ODgyLCJsYXN0X3ZhbHVlIjoiNzUxMTczMjM4Nzg4MiJ9)
+[List Continued](https://www.hopsandpops.com/a/llms-agent/llms.txt?shop=cmks7k-au.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTExNzMyMjg5NTc4LCJsYXN0X3ZhbHVlIjoiNzUxMTczMjI4OTU3OCJ9)
 
 ## Collections
 
 - [Home page](https://www.hopsandpops.com/collections/frontpage)
   Updated: 2026-07-10T13:12:29Z
   Total Products: 0
-- [Plush Sets with Mini Plushies Inside - Peekaboo Plush Sets](https://www.hopsandpops.com/collections/peekaboo-plush-sets): Shop plush sets with mini plushies hidden inside - large stuffed animals with surprise baby animals in a belly pocket. Perfect kawaii gift sets. Free shipping.
-  Updated: 2026-07-10T13:27:45Z
+- [Plush Sets with Mini Plushies Inside - Peekaboo Plush Sets](https://www.hopsandpops.com/collections/peekaboo-plush-sets): Unzip a plush pouch to find mini surprise plushies inside: snack bags, candy bags & more. A fun, giftable twist on stuffed animals. Free US shipping.
+  Updated: 2026-09-19T12:29:57Z
   Total Products: 12
 - [Animal Kingdom Plushies](https://www.hopsandpops.com/collections/animal-kingdom-plushies): Shop 150+ animal plush toys & stuffed animals. Cats, dinos, ducks, capybaras, pandas & more. Kawaii soft plushies, body pillows & cuddly gifts. Free shipping. Hops & Pops.
-  Updated: 2026-09-16T11:11:28Z
-  Total Products: 74
+  Updated: 2026-09-22T11:11:14Z
+  Total Products: 118
 - [Looong Plushies](https://www.hopsandpops.com/collections/looong-plushies): Looking for extra cuddles? Our Looong Plushies are oversized stuffed animals designed for ultimate snuggling and body pillow comfort. Stretching over 90cm, these plush toys are perfect for beds, couches, or cozy corners. Ideal for both kids and adults who love plush hugs that never end.
-  Updated: 2026-08-30T11:13:12Z
-  Total Products: 67
+  Updated: 2026-09-21T13:49:59Z
+  Total Products: 81
 - [Yummy Plushies](https://www.hopsandpops.com/collections/yummy-plushies): Sweeten up your space with our Yummy Plushies! They are adorable food-themed plush toys inspired by cakes, fruits, ice creams, and more. These dessert plushies make perfect gifts, room decor, and cuddly companions. Discover soft and squishy treats you can hug, only at Hops & Pops.
-  Updated: 2026-08-01T11:15:19Z
-  Total Products: 17
+  Updated: 2026-09-22T11:11:14Z
+  Total Products: 18
 - [Travel Blanket Sets for Kids](https://www.hopsandpops.com/collections/travel-blanket-sets-for-kids): ✈️ Keep your little traveler cozy wherever they go! Our Travel Blanket Sets for Kids combine the comfort of a warm blanket with the cuteness of a plush pillow, making every car ride, flight, or sleepover feel like home. Designed with both fun and functionality in mind, these 2-in-1 sets are perfect for parents who want their children to rest comfortably during travel.
   Updated: 2026-08-25T11:14:43Z
   Total Products: 12
 - [Alpacas](https://www.hopsandpops.com/collections/alpacas): Bring home cozy charm with our alpaca plushies at Hops & Pops! These ultra-soft, adorable alpaca stuffed animals make perfect companions for snuggling, gifting, or adding a playful touch to any room.
-  Updated: 2026-07-10T13:12:30Z
-  Total Products: 0
+  Updated: 2026-09-21T12:44:06Z
+  Total Products: 9
 - [Axolotl Stuffed Animals](https://www.hopsandpops.com/collections/axolotl-stufffed-animals): Shop the cutest axolotl plush and axolotl stuffed animals at Hops & Pops. Ultra-soft, huggable axolotl plushies perfect for gifts, cuddles, and kawaii room decor.
-  Updated: 2026-07-10T13:27:17Z
-  Total Products: 1
+  Updated: 2026-09-21T11:47:28Z
+  Total Products: 6
 - [Bears](https://www.hopsandpops.com/collections/bears): Fall in love with our collection of bear plushies at Hops & Pops! Whether it’s a classic teddy or a playful bear buddy, these plush toys are made for hugs, smiles, and cozy moments.
   Updated: 2026-07-10T13:12:30Z
   Total Products: 0
 - [Capybaras](https://www.hopsandpops.com/collections/capybaras): Meet your new favorite snuggle buddy with our capybara plushies! Soft, quirky, and irresistibly cute, these capybara stuffed animals are perfect for gifts, decor, or cuddles anytime.
-  Updated: 2026-08-11T11:14:19Z
-  Total Products: 3
-- [Cats](https://www.hopsandpops.com/collections/cats): Shop kawaii cat plushies & stuffed animals — round cats, long cats, loaf cats, sleeping cats & grumpy cats. Soft cat body pillows & cuddly gifts. Free shipping.
-  Updated: 2026-09-16T11:11:28Z
+  Updated: 2026-09-21T13:50:33Z
+  Total Products: 21
+- [Cats](https://www.hopsandpops.com/collections/cats): Shop every cat plush style: extra-long huggers, round cat pillows, chonky cube cats & sleepy cats. Soft, oversized, and gift-ready. Free US shipping.
+  Updated: 2026-09-19T12:29:56Z
   Total Products: 30
 - [Caterpillars](https://www.hopsandpops.com/collections/caterpillars): Bring color and fun to your space with our caterpillar plushies! These soft, vibrant caterpillar stuffed animals are perfect for imaginative play, snuggles, or unique gifting.
   Updated: 2026-07-10T13:27:01Z
@@ -988,22 +946,22 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:40Z
   Total Products: 3
 - [Crocodiles](https://www.hopsandpops.com/collections/crocodiles): Snap up smiles with our crocodile plushies at Hops & Pops! These friendly, soft crocodile stuffed animals bring a playful bite to cuddles, gifts, and imaginative decor.
-  Updated: 2026-07-10T13:27:21Z
-  Total Products: 1
+  Updated: 2026-09-20T12:58:50Z
+  Total Products: 2
 - [Deers](https://www.hopsandpops.com/collections/deers): Add woodland magic to your collection with our deer plushies! Gentle, soft, and irresistibly cute, these deer stuffed animals are perfect for cozy hugs, gifts, and decor.
   Updated: 2026-07-10T13:12:31Z
   Total Products: 0
 - [Dinosaur Stuffed Animals](https://www.hopsandpops.com/collections/dinosaur-stuffed-animals): Shop cute dinosaur plush and dinosaur stuffed animals at Hops & Pops. Soft dinosaur plush toys, dinosaur pillows, and giant dinosaur stuffed animals perfect for cuddling.
-  Updated: 2026-07-10T13:27:54Z
-  Total Products: 20
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 37
 - [Dogs](https://www.hopsandpops.com/collections/dogs): Fetch cuteness and comfort with our dog plushies at Hops & Pops! These lovable dog stuffed animals are perfect for hugs, gifting, or adding puppy charm to any space.
   Updated: 2026-08-11T11:14:19Z
   Total Products: 10
 - [Dragons](https://www.hopsandpops.com/collections/dragons): Bring a touch of magic home with our dragon plushies! Soft, mythical, and fun to cuddle, these dragon stuffed animals make enchanting gifts or fantasy-inspired decor.
-  Updated: 2026-07-10T13:27:54Z
-  Total Products: 2
-- [Duck Stuffed Animals](https://www.hopsandpops.com/collections/duck-stuffed-animals): Shop kawaii duck plush & duck stuffed animals - banana duck, floppy ducks, chubby ducks & giant goose plushies. Soft cuddly duck toys perfect for gifts. Free shipping.
-  Updated: 2026-07-10T13:27:44Z
+  Updated: 2026-09-21T11:47:14Z
+  Total Products: 9
+- [Duck Stuffed Animals](https://www.hopsandpops.com/collections/duck-stuffed-animals): Huge duck plush collection: banana duck, chubby floppy ducks, giant goose pillows. Soft, oversized, and gift-ready. Free US shipping, ships in 2-3 days.
+  Updated: 2026-09-19T12:29:55Z
   Total Products: 6
 - [Elephants](https://www.hopsandpops.com/collections/elephants): Big ears, big hearts - our elephant plushies are made for love! These soft, gentle elephant stuffed animals are perfect for snuggling, gifting, or whimsical decor.
   Updated: 2026-07-10T13:26:55Z
@@ -1045,11 +1003,11 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:10Z
   Total Products: 8
 - [Penguins](https://www.hopsandpops.com/collections/penguins): These adorable penguin plushies from Hops & Pops are ready to slide into your heart! Super soft and irresistibly cute, they’re perfect for cuddles, playful decor, or gifting a little winter wonder.
-  Updated: 2026-08-01T10:32:13Z
+  Updated: 2026-09-22T11:11:14Z
   Total Products: 4
 - [Pigs](https://www.hopsandpops.com/collections/pigs): Oink oink! Our pig plushies at Hops & Pops are bursting with cuteness. These squishy, snuggly pig stuffed animals make lovable cuddle buddies, adorable gifts, and fun companions for every age.
-  Updated: 2026-07-10T13:27:21Z
-  Total Products: 1
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 2
 - [Rabbits](https://www.hopsandpops.com/collections/rabbits): Hop into a world of cuteness with our rabbit plushies at Hops & Pops! These soft, floppy-eared bunny stuffed animals are perfect for snuggles, sweet gifts, and adding a playful charm to any space.
   Updated: 2026-09-16T11:11:28Z
   Total Products: 8
@@ -1057,38 +1015,38 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:33Z
   Total Products: 0
 - [Seals](https://www.hopsandpops.com/collections/seals): Dive into softness with our seal plushies at Hops & Pops! These chubby, ultra-huggable seal stuffed animals are perfect for cuddles, playful gifts, and adding a splash of cuteness to any space.
-  Updated: 2026-08-01T10:32:13Z
-  Total Products: 1
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 2
 - [Sharks](https://www.hopsandpops.com/collections/sharks): Snuggle up with the friendliest sharks around - our shark plushies at Hops & Pops! These soft, cuddly shark stuffed animals make fin-tastic gifts, cozy companions, and playful decor for all ages.
   Updated: 2026-08-01T10:32:13Z
   Total Products: 4
 - [Sheeps](https://www.hopsandpops.com/collections/sheeps): Bring home the fluffiest friend with our sheep plushies from Hops & Pops! These cuddly, cloud-soft stuffed animals are perfect for adding sweetness and snuggles to every cozy moment.
-  Updated: 2026-07-10T13:26:40Z
-  Total Products: 1
+  Updated: 2026-09-21T12:44:10Z
+  Total Products: 3
 - [Tigers](https://www.hopsandpops.com/collections/tigers): Pounce into cuteness with our tiger plushies at Hops & Pops! These soft, stripey tiger stuffed animals are perfect for cuddling, gifting, and adding a wild but adorable touch to your space.
   Updated: 2026-07-10T13:12:34Z
   Total Products: 0
 - [Unicorns](https://www.hopsandpops.com/collections/unicorns): Shop kawaii unicorn plushies & stuffed animals - sleeping unicorns, giant unicorns, pastel unicorns & rainbow unicorn plush pillows. Soft cuddly gifts. Free shipping.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 10
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 11
 - [Zebras](https://www.hopsandpops.com/collections/zebras): Stripes have never been this cuddly! Our zebra plushies at Hops & Pops are soft, snuggly, and full of charm, perfect for cozy hugs, playful decor, or an adorable gift.
   Updated: 2026-07-10T13:12:34Z
   Total Products: 0
 - [Best  Plushies](https://www.hopsandpops.com/collections/best--plushies)
-  Updated: 2026-09-16T11:11:28Z
-  Total Products: 181
+  Updated: 2026-09-22T11:11:14Z
+  Total Products: 240
 - [Pink Happy Unicorn Plushies](https://www.hopsandpops.com/collections/pink-happy-unicorn-plushies): Introducing the Pink Happy Unicorn Plushies, your new favorite stuffed animal from Hops & Pops. These cute and kawaii plushies are perfect for cuddling and bringing joy to any room. With their squishy texture and vibrant colors, they are an irresistible plush companion.
   Updated: 2026-07-10T13:26:43Z
   Total Products: 1
 - [Pink Unicorn Plushies](https://www.hopsandpops.com/collections/pink-unicorn-plushies): Discover the magic of Pink Unicorn Plushies from Hops & Pops. These cute and squishy stuffed animals are perfect for unicorn lovers of all ages. With their kawaii charm and soft design, they make the ideal companion for cuddles and playtime.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 9
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 10
 - [Big Unicorn Plushies](https://www.hopsandpops.com/collections/big-unicorn-plushies): Discover the magical world of Big Unicorn Plushies from Hops & Pops. These cute and squishy stuffed animals are perfect for anyone who adores kawaii plushies. Soft, plush, and irresistibly adorable, they make the perfect companion for all ages.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 8
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 9
 - [Big Pink Unicorn Plushies](https://www.hopsandpops.com/collections/big-pink-unicorn-plushies): Discover the magic of Big Pink Unicorn Plushies, where every cuddle brings a smile. These delightful plush companions are crafted by Hops & Pops, known for their cute and squishy designs. Perfect for unicorn lovers, these stuffed animals are not only adorable but also incredibly cuddly. Experience the charm of these kawaii plushies today!
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 8
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 9
 - [White Unicorn Plushies](https://www.hopsandpops.com/collections/white-unicorn-plushies): Discover the magical world of White Unicorn Plushies by Hops & Pops. These adorable plush companions are perfect for anyone who loves cute and kawaii designs. With their squishy texture and charming details, these stuffed animals are sure to bring joy to your day.
   Updated: 2026-07-10T13:27:12Z
   Total Products: 8
@@ -1132,8 +1090,8 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:26:43Z
   Total Products: 1
 - [Long Unicorn Plushies](https://www.hopsandpops.com/collections/long-unicorn-plushies): Meet the enchanting Long Unicorn Plushies from Hops & Pops, where magic meets comfort. These plush companions are not just stuffed animals but a gateway to a world of cute and kawaii wonders. Their squishy texture makes them perfect for hugs and delightful decor.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 2
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 3
 - [Big Rectangular Unicorn Plushies](https://www.hopsandpops.com/collections/big-rectangular-unicorn-plushies): Discover the whimsical world of Big Rectangular Unicorn Plushies by Hops & Pops. These plush companions are the perfect blend of cute and kawaii, offering a squishy and delightful experience. Ideal for any stuffed animal lover, they bring a touch of magic to your collection.
   Updated: 2026-07-10T13:26:49Z
   Total Products: 6
@@ -1162,11 +1120,11 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:12Z
   Total Products: 4
 - [Big Long Unicorn Plushies](https://www.hopsandpops.com/collections/big-long-unicorn-plushies): Meet the magical world of Big Long Unicorn Plushies by Hops & Pops, where every plush brings a touch of enchantment to your day. These delightful stuffed animals are perfect for anyone who loves cute, kawaii, and squishy companions. Crafted with love and care, each unicorn plush promises endless cuddles and comfort.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 2
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 3
 - [Pink Long Unicorn Plushies](https://www.hopsandpops.com/collections/pink-long-unicorn-plushies): Meet the magical world of Pink Long Unicorn Plushies, where every day is an adventure with these cute and squishy companions. These plushies by Hops & Pops are the ultimate stuffed animal friends, perfect for cuddling and imaginative play. Their kawaii charm and delightful design make them a must-have for any plush collection.
-  Updated: 2026-07-10T13:27:12Z
-  Total Products: 2
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 3
 - [Happy Cat Plushies](https://www.hopsandpops.com/collections/happy-cat-plushies): Discover the charming world of Happy Cat Plushies from Hops & Pops, designed to bring joy and warmth to any space. These delightful plush companions are perfect for adding a touch of whimsy to bedroom decor, making memorable gifts, or simply for cuddling during cozy moments. Embrace the kawaii aesthetic with our cute, squishy stuffed animals that promise endless comfort and smiles.
   Updated: 2026-09-16T11:11:28Z
   Total Products: 19
@@ -1186,10 +1144,10 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-15T11:14:06Z
   Total Products: 10
 - [Cat Plushies](https://www.hopsandpops.com/collections/cat-plushies): Welcome to the enchanting world of Cat Plushies by Hops & Pops. These adorable companions bring joy with their cute and kawaii designs, perfect for adding a touch of coziness to your living space. Whether you're a collector of stuffed animals or seeking a delightful gift, our plushies offer warmth and charm for every occasion.
-  Updated: 2026-09-16T11:11:28Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 30
 - [White Cat Plushies](https://www.hopsandpops.com/collections/white-cat-plushies): Welcome to the delightful world of White Cat Plushies by Hops & Pops, where charm and comfort meet in the most adorable way. These plush friends are perfect for adding a touch of cuteness to any space, whether it's snuggling in a cozy bedroom or enhancing a playful living room. With their kawaii aesthetic and irresistibly squishy design, these stuffed animals make wonderful gifts for loved ones or a charming addition to any plush collection. Embrace the soft and cute style that only Hops & Pops can deliver.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 13
 - [Big Happy Cat Plushies](https://www.hopsandpops.com/collections/big-happy-cat-plushies): Welcome to the delightful world of Big Happy Cat Plushies, where joy and charm come together in the most endearing way. These plush companions are perfect for adding a touch of whimsy to bedroom decor or for giving as the ultimate cute gift. Embrace the kawaii aesthetic with these lovable stuffed animals from Hops & Pops, designed to bring comfort and happiness to any playful space.
   Updated: 2026-07-10T13:27:49Z
@@ -1222,7 +1180,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:04Z
   Total Products: 8
 - [Small Cat Plushies](https://www.hopsandpops.com/collections/small-cat-plushies): Welcome to the delightful world of Small Cat Plushies from Hops & Pops. These adorable plush companions are designed to bring joy and comfort to any space. Perfect for bedroom decor or as a thoughtful gift, these cute, squishy stuffed animals embody the kawaii aesthetic. Whether you're collecting or simply adding a touch of coziness, our plushies offer a playful charm that's irresistible.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 8
 - [Big Pink Cat Plushies](https://www.hopsandpops.com/collections/big-pink-cat-plushies): Welcome to the world of Big Pink Cat Plushies, where charm meets comfort! These delightful plush companions are perfect for adding a touch of whimsy to any space. With their soft pink hues and generous size, they make a wonderful addition to bedroom decor, gift-giving, or simply collecting. Embrace the kawaii aesthetic and cozy living with these irresistibly cute, squishy, and cuddly plushies from Hops & Pops.
   Updated: 2026-07-10T13:27:03Z
@@ -1237,16 +1195,16 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-09-11T11:11:54Z
   Total Products: 8
 - [Sitting Cat Plushies](https://www.hopsandpops.com/collections/sitting-cat-plushies): Welcome to the delightful world of Sitting Cat Plushies by Hops & Pops. These cute and squishy companions are perfect for bringing a touch of charm to your bedroom decor or as a thoughtful gift for a loved one. Embrace the kawaii aesthetic and cozy living with our collection of stuffed animal plushies that promise comfort and joy. Whether you're a collector or simply seeking a playful addition to your space, our Sitting Cat Plushies are here to brighten your day.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 7
 - [Sleeping Cat Plushies](https://www.hopsandpops.com/collections/sleeping-cat-plushies): Discover the enchanting world of Sleeping Cat Plushies by Hops & Pops, where each plush is crafted to bring peace and comfort into your life. These adorable companions are perfect for bedroom decor, gifting, or adding a touch of kawaii charm to any space. With their cute and kawaii design, these plushies are an ideal choice for those who cherish cozy living and playful spaces.
   Updated: 2026-07-10T13:27:49Z
   Total Products: 10
 - [Round Cat Plushies](https://www.hopsandpops.com/collections/round-cat-plushies): Discover the delightful world of Round Cat Plushies by Hops & Pops. These adorable companions feature a charmingly round shape, perfect for adding a touch of whimsy to any space. Ideal for bedroom decor, gift-giving, or simply collecting, these plushies embody a kawaii aesthetic that brightens up playful and cozy living spaces. Enjoy the comfort and cuteness of these squishy stuffed animals.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 7
 - [Black Cat Plushies](https://www.hopsandpops.com/collections/black-cat-plushies): Discover the enchanting world of Black Cat Plushies by Hops & Pops. These plush companions are perfect for those who adore the mysterious allure of black cats. Whether used as cozy bedroom decor or delightful gifts for loved ones, these cute stuffed animals add a touch of kawaii charm to any space. Embrace the playful and squishy nature of these plushies and let them bring a little magic into your everyday life.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 10
 - [Giant Happy Cat Plushies](https://www.hopsandpops.com/collections/giant-happy-cat-plushies): Discover the joy of Giant Happy Cat Plushies from Hops & Pops. These plush companions are perfect for adding a touch of whimsy to any space. With their soft, oversized charm, they make ideal gifts for plush lovers or delightful additions to your bedroom decor. Embrace the kawaii aesthetic with these cute, squishy friends designed for cozy living and playful spaces.
   Updated: 2026-07-10T13:27:49Z
@@ -1255,7 +1213,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:49Z
   Total Products: 8
 - [Orange Cat Plushies](https://www.hopsandpops.com/collections/orange-cat-plushies): Discover the Orange Cat Plushies collection, where each plush is a delightful combination of vibrant colors and charming features. Perfect for adding a pop of color to any bedroom or play space, these plushies make wonderful companions for comforting moments and playful adventures. Embrace the kawaii aesthetic with Hops & Pops and let these cute, squishy stuffed animals bring joy to your life.
-  Updated: 2026-09-16T11:11:28Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 7
 - [White Happy Cat Plushies](https://www.hopsandpops.com/collections/white-happy-cat-plushies): Discover the charm of White Happy Cat Plushies from Hops & Pops! These adorable plush companions are designed with cheerful expressions and a soft, white fur that adds a touch of joy to any space. Perfect for bedroom decor, collecting, or gift-giving, these stuffed animals embody a cozy and kawaii aesthetic, making every moment a little more joyful.
   Updated: 2026-07-10T13:27:03Z
@@ -1273,7 +1231,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:45Z
   Total Products: 4
 - [Small Sitting Cat Plushies](https://www.hopsandpops.com/collections/small-sitting-cat-plushies): Discover the charm of Small Sitting Cat Plushies from Hops & Pops. Perfectly sized for cozy spaces, these cute and squishy companions make delightful additions to any bedroom decor. Their adorable expressions invite warmth and joy, embodying the kawaii aesthetic that brings playfulness to your living space. Ideal for gift-giving or collecting, these plushies offer comfort and style.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 5
 - [Gray Standing Cat Plushies](https://www.hopsandpops.com/collections/gray-standing-cat-plushies): Welcome to the charming world of Gray Standing Cat Plushies by Hops & Pops. These delightful plush companions offer a perfect blend of comfort and style, making them ideal for bedroom decor, thoughtful gifts, or simply adding a touch of kawaii to any space. With their cute and squishy design, these stuffed animals are a staple for cozy living and playful spaces, embodying the essence of Hops & Pops.
   Updated: 2026-09-04T11:14:25Z
@@ -1294,13 +1252,13 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:03Z
   Total Products: 6
 - [Relaxed Cat Plushies](https://www.hopsandpops.com/collections/relaxed-cat-plushies): Welcome to the world of Relaxed Cat Plushies by Hops & Pops, where comfort meets cuteness in the most delightful way. These plush companions are designed to bring a touch of tranquility to your space, making them perfect for bedroom decor, gift-giving, and cozy living. Embrace the kawaii aesthetic with these squishy, adorable plushies that add a playful vibe to any setting.
-  Updated: 2026-07-15T11:14:06Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 6
 - [Large Face Cat Plushies](https://www.hopsandpops.com/collections/large-face-cat-plushies): Meet the delightful Large Face Cat Plushies from Hops & Pops, where oversized charm meets coziness. These plush companions are perfect for adding a playful touch to any room, making them a wonderful choice for bedroom decor or as a thoughtful gift. Embrace the kawaii aesthetic with these cute and squishy stuffed animals that promise endless comfort and joy.
   Updated: 2026-07-10T13:12:42Z
   Total Products: 0
 - [Small Round Cat Plushies](https://www.hopsandpops.com/collections/small-round-cat-plushies): Discover the charm of Small Round Cat Plushies from Hops & Pops. These adorable plush companions are perfect for adding a touch of kawaii to any room. Their cute, round shape makes them a delightful addition to your decor, whether it's for your bedroom, office, or any cozy space. Ideal for gift-giving, collecting, or simply enjoying a moment of comfort, these plushies embody the playful and cozy lifestyle that Hops & Pops is known for.
-  Updated: 2026-09-11T11:11:54Z
+  Updated: 2026-09-18T11:11:45Z
   Total Products: 6
 - [Round Happy Cat Plushies](https://www.hopsandpops.com/collections/round-happy-cat-plushies): Welcome to the delightful world of Round Happy Cat Plushies by Hops & Pops. These charming plush companions are perfect for adding a touch of joy to your home decor or gifting to someone special. With their adorable round shape and cheerful expressions, they embody the kawaii aesthetic, making them ideal for cozy living and playful spaces. Each plush is designed to bring comfort and smiles, perfect for any collection of plushies or stuffed animals.
   Updated: 2026-09-04T11:14:25Z
@@ -1432,86 +1390,86 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:47Z
   Total Products: 0
 - [Green Dinosaur Plushies](https://www.hopsandpops.com/collections/green-dinosaur-plushies): Welcome to the world of Green Dinosaur Plushies by Hops & Pops, where charm and comfort meet in the form of delightful stuffed animals. These plush companions are perfect for adding a touch of whimsy to any bedroom decor or for gifting to loved ones who appreciate the kawaii aesthetic. Ideal for collectors and those who cherish cute and squishy plushies, this collection embodies a playful and cozy lifestyle.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 19
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 33
 - [Pink Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-dinosaur-plushies): Welcome to the delightful world of Pink Dinosaur Plushies by Hops & Pops. These charming plush companions combine the soft hues of pink with the whimsical nature of dinosaurs, making them perfect for any bedroom decor. Whether you're gifting them to a loved one or adding to your collection, these cute and kawaii plushies bring a touch of joy and squishy comfort to any space.Embrace the playful lifestyle these stuffed animals represent, perfect for cozy living and cheerful aesthetics.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 10
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 18
 - [Big Dinosaur Plushies](https://www.hopsandpops.com/collections/big-dinosaur-plushies): Welcome to the world of Big Dinosaur Plushies by Hops & Pops, where comfort meets cuteness in the form of delightful, larger-than-life companions. These plushies are a perfect blend of squishy comfort and playful design, making them ideal for bedroom decor, gift-giving, and adding a touch of whimsical fun to any space. Embrace the kawaii aesthetic and cozy living with these stuffed animals that promise endless hugs and smiles.
-  Updated: 2026-07-10T13:27:49Z
-  Total Products: 8
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 21
 - [Big Green Dinosaur Plushies](https://www.hopsandpops.com/collections/big-green-dinosaur-plushies): Welcome to the delightful world of Big Green Dinosaur Plushies by Hops & Pops! These plush companions are perfect for those who love a touch of whimsy and playfulness in their decor. With their cute and squishy design, they make for an adorable addition to any bedroom or living space, bringing a sense of kawaii aesthetic and cozy living.Whether you're looking for a comforting stuffed animal or a unique gift, these plushies offer both style and charm.
-  Updated: 2026-07-10T13:27:49Z
-  Total Products: 8
-- [Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/happy-dinosaur-plushies): Welcome to the enchanting world of Happy Dinosaur Plushies by Hops & Pops. These delightful companions are designed with cheerful expressions, making them perfect for adding a touch of joy to any room. Whether you're decorating a bedroom, looking for a cute gift, or adding to your plush collection, these stuffed animals bring a kawaii and squishy vibe to every setting.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 9
-- [Green Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/green-happy-dinosaur-plushies): Discover the charm of Green Happy Dinosaur Plushies from Hops & Pops. With their cheerful expressions and vibrant green color, these plushies are perfect for adding a touch of whimsy to any room. Ideal for bedroom decor, gift-giving, or collecting, these stuffed animals embody the kawaii aesthetic and promise cozy living and playful spaces.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 9
-- [Big Pink Dinosaur Plushies](https://www.hopsandpops.com/collections/big-pink-dinosaur-plushies): Welcome to the world of Big Pink Dinosaur Plushies by Hops & Pops. These plush companions are perfect for adding a touch of whimsy to any space. With their soft pink hues and larger-than-life size, they're ideal for bedroom decor, gift-giving, and creating a kawaii aesthetic. Perfect for those who adore cute, squishy stuffed animals, these plushies are a must-have for any collection.
-  Updated: 2026-07-10T13:27:02Z
-  Total Products: 5
-- [Pink Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-happy-dinosaur-plushies): Discover the charm of the Pink Happy Dinosaur Plushies from Hops & Pops. These delightful plush companions bring a splash of joy and color to any space with their soft pink hues and cheerful expressions. Perfect for adding a touch of kawaii aesthetic to your bedroom decor or as a thoughtful gift. Embrace the cozy and playful vibe these plushies represent, making them a must-have for collectors and comfort seekers alike.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 4
-- [Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/whimsical-dinosaur-plushies): Step into a world of imagination with our Whimsical Dinosaur Plushies from Hops & Pops. These delightful companions bring joy to any space with their cute and squishy designs. Perfect for bedroom decor or as a charming gift, each plush embodies the playful spirit of dinosaurs in a soft, cuddly form. Embrace the kawaii aesthetic and surround yourself with the magic of Hops & Pops plushies.
-  Updated: 2026-07-10T13:27:54Z
-  Total Products: 7
-- [Gray Dinosaur Plushies](https://www.hopsandpops.com/collections/gray-dinosaur-plushies): Discover the delightful world of Gray Dinosaur Plushies from Hops & Pops. These adorable companions are perfect for bedroom decor, gift-giving, and those who cherish a kawaii aesthetic. Crafted as cute stuffed animals, these plushies add a touch of squishy charm to any playful space.
-  Updated: 2026-07-10T13:27:54Z
-  Total Products: 3
-- [Blue Dinosaur Plushies](https://www.hopsandpops.com/collections/blue-dinosaur-plushies): Discover the enchanting world of Blue Dinosaur Plushies from Hops & Pops. These delightful plush companions bring a touch of whimsy to any space, perfect for bedroom decor or as a cherished gift for loved ones. With their soft, cuddly texture and vibrant blue color, these plushies embody the kawaii aesthetic, making them ideal for anyone who loves cute and cozy living. Whether you're a collector or seeking comfort, these stuffed animals will add a playful charm to your surroundings.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 8
-- [Yellow Dinosaur Plushies](https://www.hopsandpops.com/collections/yellow-dinosaur-plushies): Introducing the Yellow Dinosaur Plushies collection by Hops & Pops, a delightful array of plush companions perfect for adding a touch of joy to any space. These cute and kawaii stuffed animals are designed to bring smiles and comfort, making them ideal for bedroom decor, gift-giving, and cozy living. Embrace the playful and squishy nature of these plushies as they brighten up your room and your day.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 2
-- [Green Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/green-whimsical-dinosaur-plushies): Welcome to the enchanting world of Green Whimsical Dinosaur Plushies by Hops & Pops. These cute and squishy stuffed animals bring a playful and cheerful vibe to any space. Perfect for bedroom decor or as a thoughtful gift, they add a touch of kawaii aesthetic to your living area. Embrace cozy living with these delightful plush companions that are sure to bring a smile to anyone's face.
-  Updated: 2026-07-10T13:27:51Z
-  Total Products: 6
-- [Dinosaur Plushies](https://www.hopsandpops.com/collections/dinosaur-plushies): Welcome to the delightful world of Dinosaur Plushies by Hops & Pops. These charming companions are perfect for adding a touch of whimsy to any room. Whether you're looking to decorate a playful bedroom or seeking a cute gift, our plush dinosaurs are sure to bring joy. Embrace the kawaii aesthetic and cozy living with these squishy, stuffed animal friends.
-  Updated: 2026-07-10T13:27:54Z
+  Updated: 2026-09-20T12:59:00Z
   Total Products: 20
+- [Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/happy-dinosaur-plushies): Welcome to the enchanting world of Happy Dinosaur Plushies by Hops & Pops. These delightful companions are designed with cheerful expressions, making them perfect for adding a touch of joy to any room. Whether you're decorating a bedroom, looking for a cute gift, or adding to your plush collection, these stuffed animals bring a kawaii and squishy vibe to every setting.
+  Updated: 2026-09-20T12:58:53Z
+  Total Products: 14
+- [Green Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/green-happy-dinosaur-plushies): Discover the charm of Green Happy Dinosaur Plushies from Hops & Pops. With their cheerful expressions and vibrant green color, these plushies are perfect for adding a touch of whimsy to any room. Ideal for bedroom decor, gift-giving, or collecting, these stuffed animals embody the kawaii aesthetic and promise cozy living and playful spaces.
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 13
+- [Big Pink Dinosaur Plushies](https://www.hopsandpops.com/collections/big-pink-dinosaur-plushies): Welcome to the world of Big Pink Dinosaur Plushies by Hops & Pops. These plush companions are perfect for adding a touch of whimsy to any space. With their soft pink hues and larger-than-life size, they're ideal for bedroom decor, gift-giving, and creating a kawaii aesthetic. Perfect for those who adore cute, squishy stuffed animals, these plushies are a must-have for any collection.
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 12
+- [Pink Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-happy-dinosaur-plushies): Discover the charm of the Pink Happy Dinosaur Plushies from Hops & Pops. These delightful plush companions bring a splash of joy and color to any space with their soft pink hues and cheerful expressions. Perfect for adding a touch of kawaii aesthetic to your bedroom decor or as a thoughtful gift. Embrace the cozy and playful vibe these plushies represent, making them a must-have for collectors and comfort seekers alike.
+  Updated: 2026-09-20T12:58:53Z
+  Total Products: 7
+- [Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/whimsical-dinosaur-plushies): Step into a world of imagination with our Whimsical Dinosaur Plushies from Hops & Pops. These delightful companions bring joy to any space with their cute and squishy designs. Perfect for bedroom decor or as a charming gift, each plush embodies the playful spirit of dinosaurs in a soft, cuddly form. Embrace the kawaii aesthetic and surround yourself with the magic of Hops & Pops plushies.
+  Updated: 2026-09-20T12:58:46Z
+  Total Products: 9
+- [Gray Dinosaur Plushies](https://www.hopsandpops.com/collections/gray-dinosaur-plushies): Discover the delightful world of Gray Dinosaur Plushies from Hops & Pops. These adorable companions are perfect for bedroom decor, gift-giving, and those who cherish a kawaii aesthetic. Crafted as cute stuffed animals, these plushies add a touch of squishy charm to any playful space.
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 8
+- [Blue Dinosaur Plushies](https://www.hopsandpops.com/collections/blue-dinosaur-plushies): Discover the enchanting world of Blue Dinosaur Plushies from Hops & Pops. These delightful plush companions bring a touch of whimsy to any space, perfect for bedroom decor or as a cherished gift for loved ones. With their soft, cuddly texture and vibrant blue color, these plushies embody the kawaii aesthetic, making them ideal for anyone who loves cute and cozy living. Whether you're a collector or seeking comfort, these stuffed animals will add a playful charm to your surroundings.
+  Updated: 2026-09-20T12:58:56Z
+  Total Products: 17
+- [Yellow Dinosaur Plushies](https://www.hopsandpops.com/collections/yellow-dinosaur-plushies): Introducing the Yellow Dinosaur Plushies collection by Hops & Pops, a delightful array of plush companions perfect for adding a touch of joy to any space. These cute and kawaii stuffed animals are designed to bring smiles and comfort, making them ideal for bedroom decor, gift-giving, and cozy living. Embrace the playful and squishy nature of these plushies as they brighten up your room and your day.
+  Updated: 2026-09-20T12:58:46Z
+  Total Products: 4
+- [Green Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/green-whimsical-dinosaur-plushies): Welcome to the enchanting world of Green Whimsical Dinosaur Plushies by Hops & Pops. These cute and squishy stuffed animals bring a playful and cheerful vibe to any space. Perfect for bedroom decor or as a thoughtful gift, they add a touch of kawaii aesthetic to your living area. Embrace cozy living with these delightful plush companions that are sure to bring a smile to anyone's face.
+  Updated: 2026-09-20T11:38:46Z
+  Total Products: 7
+- [Dinosaur Plushies](https://www.hopsandpops.com/collections/dinosaur-plushies): Welcome to the delightful world of Dinosaur Plushies by Hops & Pops. These charming companions are perfect for adding a touch of whimsy to any room. Whether you're looking to decorate a playful bedroom or seeking a cute gift, our plush dinosaurs are sure to bring joy. Embrace the kawaii aesthetic and cozy living with these squishy, stuffed animal friends.
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 37
 - [Standing Dinosaur Plushies](https://www.hopsandpops.com/collections/standing-dinosaur-plushies): Welcome to the world of Standing Dinosaur Plushies by Hops & Pops, where imagination meets comfort! These adorable plush companions are perfect for adding a touch of whimsy to any bedroom or play area. Designed with a focus on the kawaii aesthetic, they make delightful gifts and beloved collectibles for dinosaur enthusiasts. With their cute and squishy form, our plushies are sure to bring joy and warmth to your cozy living spaces.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 7
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 14
 - [Long Dinosaur Plushies](https://www.hopsandpops.com/collections/long-dinosaur-plushies): Discover the Long Dinosaur Plushies from Hops & Pops, where plush meets playful design. These delightful companions are perfect for adding a touch of whimsy to any space, be it as a cuddly friend in the bedroom or a charming addition to a collection. Embracing the kawaii aesthetic, these cute stuffed animals bring joy and comfort to both kids and adults alike.
-  Updated: 2026-07-10T13:27:54Z
-  Total Products: 6
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 12
 - [Big Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/big-happy-dinosaur-plushies): Discover the delightful world of Big Happy Dinosaur Plushies from Hops & Pops. These plush companions are perfect for adding a touch of whimsy to any bedroom or playroom. With their cheerful expressions and larger-than-life size, they make ideal gifts for collectors and children alike. Embrace the kawaii aesthetic and cozy living with these cute, squishy, and irresistibly cuddly stuffed animals.
-  Updated: 2026-07-10T13:26:30Z
-  Total Products: 2
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 5
 - [Green Standing Dinosaur Plushies](https://www.hopsandpops.com/collections/green-standing-dinosaur-plushies): Welcome to the delightful world of Green Standing Dinosaur Plushies from Hops & Pops. These charming plush companions are designed to bring joy and a touch of whimsy to any space. Perfect for bedroom decor or as a thoughtful gift, these cute and squishy stuffed animals embody the kawaii aesthetic and playful living. Embrace the comfort of Hops & Pops with these adorable plushies today.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 7
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 13
 - [Big Long Dinosaur Plushies](https://www.hopsandpops.com/collections/big-long-dinosaur-plushies): Welcome to the delightful world of Big Long Dinosaur Plushies, where the charm of dinosaurs meets the comfort of plush toys. These uniquely designed plush companions are perfect for adding a touch of whimsy to your bedroom decor or as thoughtful gifts for loved ones. Embrace the kawaii aesthetic and cozy up with these squishy and lovable friends. Discover the joy they bring to playful spaces, embodying the spirit of Hops & Pops in every cuddle.
-  Updated: 2026-07-10T13:27:49Z
-  Total Products: 3
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 9
 - [Green Long Dinosaur Plushies](https://www.hopsandpops.com/collections/green-long-dinosaur-plushies): Welcome to the whimsical world of Green Long Dinosaur Plushies by Hops & Pops. These charming companions are perfect for adding a touch of prehistoric fun to any room. With their vibrant green hue and elongated design, they make ideal bedroom decor and delightful gifts for collectors and lovers of kawaii aesthetics. Each plushie is crafted to bring a smile with its cuddly and squishy appeal.
-  Updated: 2026-07-10T13:27:51Z
-  Total Products: 5
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 10
 - [Pink Long Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-long-dinosaur-plushies): Discover the delightful world of Pink Long Dinosaur Plushies from Hops & Pops. These plush companions are designed with a unique long shape, perfect for adding a touch of whimsy to any room. Whether they're nestled on your bed or perched on a shelf, these cute and squishy stuffed animals bring joy and comfort. Embrace the kawaii aesthetic and cozy living with these irresistibly soft plushies, ideal for gift-giving, collecting, or simply enjoying their playful charm.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 3
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 8
 - [Rectangular Dinosaur Plushies](https://www.hopsandpops.com/collections/rectangular-dinosaur-plushies): Introducing the delightful Rectangular Dinosaur Plushies from Hops & Pops! These charming stuffed animals are a perfect blend of playful design and cozy comfort. With their unique rectangular shape, they're ideal for decorating your bedroom or adding a touch of cuteness to any space. These plush companions embody a kawaii aesthetic, making them a wonderful gift for collectors and lovers of all things cute and squishy.
-  Updated: 2026-07-10T13:26:42Z
-  Total Products: 7
+  Updated: 2026-09-20T11:38:43Z
+  Total Products: 10
 - [Round Dinosaur Plushies](https://www.hopsandpops.com/collections/round-dinosaur-plushies): Welcome to the delightful world of Round Dinosaur Plushies by Hops & Pops. These cuddly companions are designed with a unique round shape that makes them irresistibly cute and squishy. Perfect for bedroom decor, these plush friends add a touch of kawaii aesthetic to any space. Whether you're a collector or looking for the perfect gift, these stuffed animals bring joy and comfort to playful spaces.
-  Updated: 2026-07-10T13:27:52Z
-  Total Products: 5
+  Updated: 2026-09-20T12:58:53Z
+  Total Products: 6
 - [Green Rectangular Dinosaur Plushies](https://www.hopsandpops.com/collections/green-rectangular-dinosaur-plushies): Introducing the Green Rectangular Dinosaur Plushies from Hops & Pops, where the charm of dinosaurs meets a unique design. These plushies are perfect for creating a playful and cozy atmosphere in any room. The rectangular shape offers a fun twist, ideal for cuddling or decorating. Embrace the kawaii aesthetic with our cute and squishy companions, perfect for gift-giving or collecting.
-  Updated: 2026-07-10T13:26:42Z
-  Total Products: 7
+  Updated: 2026-09-20T11:38:43Z
+  Total Products: 9
 - [Big Standing Dinosaur Plushies](https://www.hopsandpops.com/collections/big-standing-dinosaur-plushies): Discover the charm of Big Standing Dinosaur Plushies by Hops & Pops. These delightful plush companions are perfect for adding a touch of whimsy to any space. Ideal for bedroom decor or as a cute gift, these stuffed animals are a must-have for those who love a playful and kawaii aesthetic. Experience the joy of squishy, cuddly friends that bring comfort and happiness into your life.
-  Updated: 2026-07-10T13:26:38Z
-  Total Products: 3
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 8
 - [Green Round Dinosaur Plushies](https://www.hopsandpops.com/collections/green-round-dinosaur-plushies): Welcome to the charming world of Green Round Dinosaur Plushies by Hops & Pops. These delightful plush companions are not only irresistibly cute and squishy but also perfect for adding a touch of kawaii to any room. Whether you're looking to enhance your bedroom decor or seeking the ideal gift for a loved one, our plushies offer warmth and comfort with every hug.
   Updated: 2026-07-10T13:27:52Z
   Total Products: 5
 - [Pink Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-whimsical-dinosaur-plushies): Meet the Pink Whimsical Dinosaur Plushies from Hops & Pops! These adorable plushies bring a touch of whimsy and charm with their soft pink hues and playful design. Perfect for enhancing bedroom decor or as a delightful gift for loved ones, these stuffed animals embody the kawaii aesthetic, making any space feel cozy and inviting. Let these cute and squishy companions brighten your day with their irresistible cuteness.
-  Updated: 2026-07-10T13:27:02Z
-  Total Products: 4
+  Updated: 2026-09-20T12:58:46Z
+  Total Products: 6
 - [Yellow Happy Dinosaur Plushies](https://www.hopsandpops.com/collections/yellow-happy-dinosaur-plushies): Welcome to the delightful world of Yellow Happy Dinosaur Plushies, where cheerful expressions and vibrant colors create a realm of joy and comfort. Perfect for brightening up any bedroom or nursery, these plush companions from Hops & Pops offer a cozy, playful touch to your decor. Ideal for gift-giving or collecting, these cute and kawaii plushies are designed to bring smiles and warmth to your everyday life.
   Updated: 2026-07-10T13:27:48Z
   Total Products: 1
@@ -1519,26 +1477,26 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:50Z
   Total Products: 0
 - [Sitting Dinosaur Plushies](https://www.hopsandpops.com/collections/sitting-dinosaur-plushies): Discover the charm of our Sitting Dinosaur Plushies collection, where each plush toy embodies the delightful attributes of a dinosaur in a cute, sitting posture. Perfect for bedroom decor or as thoughtful gifts, these plushies bring the essence of Hops & Pops into your home, offering a touch of kawaii aesthetic to any space. Experience the joy of having a stuffed animal that's not only cute but also irresistibly squishy and comforting.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 7
+  Updated: 2026-09-20T12:58:53Z
+  Total Products: 11
 - [Green Sitting Dinosaur Plushies](https://www.hopsandpops.com/collections/green-sitting-dinosaur-plushies): Discover the charm of the Green Sitting Dinosaur Plushies from Hops & Pops. These delightful plush companions are perfect for adding a touch of whimsy to your home decor or as a thoughtful gift for the plush enthusiast in your life. With their cute and squishy design, these stuffed animals bring a playful vibe to any space. Embrace the cozy aesthetic and let these plushies brighten your day with their cheerful presence.
-  Updated: 2026-07-10T13:27:48Z
-  Total Products: 7
+  Updated: 2026-09-20T11:38:53Z
+  Total Products: 10
 - [Pink Standing Dinosaur Plushies](https://www.hopsandpops.com/collections/pink-standing-dinosaur-plushies): Introducing the Pink Standing Dinosaur Plushies, a delightful collection from Hops & Pops that embodies the charm of playful spaces. These plush companions are perfect for adding a touch of whimsy to any room, making them ideal for bedroom decor or as a thoughtful gift for loved ones. Whether you're a collector of cute plushies or simply enjoy the kawaii aesthetic, these squishy stuffed animals bring joy and comfort to your everyday life.
-  Updated: 2026-07-10T13:26:36Z
-  Total Products: 2
+  Updated: 2026-09-20T12:58:43Z
+  Total Products: 4
 - [Big Gray Dinosaur Plushies](https://www.hopsandpops.com/collections/big-gray-dinosaur-plushies): Welcome to the delightful world of Big Gray Dinosaur Plushies by Hops & Pops. These cuddly companions are the perfect addition to any bedroom decor, offering a touch of prehistoric charm. With their cute and squishy design, they make wonderful gifts for collectors and kids alike. Embrace the kawaii aesthetic and cozy living with our adorable dinosaur friends.
-  Updated: 2026-07-10T13:26:38Z
-  Total Products: 2
+  Updated: 2026-09-20T12:59:00Z
+  Total Products: 5
 - [Big Whimsical Dinosaur Plushies](https://www.hopsandpops.com/collections/big-whimsical-dinosaur-plushies): Welcome to the world of Big Whimsical Dinosaur Plushies, where imagination meets comfort. These delightful plush companions are perfect for adding a touch of magic to any room. Whether you're looking to enhance your bedroom decor or find the ideal gift for a loved one, these cute and squishy friends from Hops & Pops are your go-to choice. Embrace the kawaii aesthetic and create a cozy, playful space.
-  Updated: 2026-07-10T13:27:02Z
-  Total Products: 3
+  Updated: 2026-09-20T12:58:46Z
+  Total Products: 5
 - [Big Blue Dinosaur Plushies](https://www.hopsandpops.com/collections/big-blue-dinosaur-plushies): Welcome to the world of Big Blue Dinosaur Plushies by Hops & Pops, where your imagination takes flight with these delightful plush companions. These stuffed animals capture the essence of playful and cozy living. Perfect for adding a touch of kawaii charm to your bedroom decor or gifting to a fellow plushie enthusiast, these cute and squishy friends promise endless joy.
-  Updated: 2026-07-10T13:27:02Z
-  Total Products: 2
+  Updated: 2026-09-20T12:58:56Z
+  Total Products: 9
 - [Big Yellow Dinosaur Plushies](https://www.hopsandpops.com/collections/big-yellow-dinosaur-plushies): Discover the charm of Big Yellow Dinosaur Plushies from Hops & Pops. These delightful plush companions are perfect for adding a touch of whimsy to any bedroom or cozy space. Whether you're a collector or simply looking for a cute and kawaii gift, these stuffed animals offer a playful and comforting presence. Embrace the squishy joy and bring home a friend that embodies cozy living and cheerful vibes.
-  Updated: 2026-07-10T13:12:51Z
-  Total Products: 0
+  Updated: 2026-09-20T12:58:46Z
+  Total Products: 1
 - [Happy Rabbit Plushies](https://www.hopsandpops.com/collections/happy-rabbit-plushies): Introducing the Happy Rabbit Plushies collection from Hops & Pops, where joy meets plush perfection. These stuffed animals are designed with cheerful expressions that are sure to bring a smile to any face. Perfect for bedroom decor, gift-giving, or simply adding a touch of kawaii charm to any space, these plush companions embody cozy living and playful vibes. Embrace the cuteness with these cute, squishy, and kawaii plush friends.
   Updated: 2026-09-16T11:11:28Z
   Total Products: 4
@@ -1618,11 +1576,11 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:54Z
   Total Products: 0
 - [Pink Pig Plushies](https://www.hopsandpops.com/collections/pink-pig-plushies): Introducing the Pink Pig Plushies by Hops & Pops, a delightful collection of plush companions that bring a touch of whimsy and comfort to any space. These adorable stuffed animals are perfect for enhancing bedroom decor, gifting, or simply enjoying a cozy, kawaii aesthetic. With their soft pink hues and squishy design, these plushies are a must-have for anyone who loves cute and cuddly friends.
-  Updated: 2026-07-10T13:27:21Z
-  Total Products: 1
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 2
 - [Happy Pig Plushies](https://www.hopsandpops.com/collections/happy-pig-plushies): Discover the joy of our Happy Pig Plushies, a delightful collection designed to bring warmth and cheer to any space. With their charming expressions and soft, cuddly texture, these plush companions make the perfect addition to bedrooms, nurseries, or playrooms. Hops & Pops ensures each plush is crafted with love, embodying the cute and kawaii aesthetic that brightens up any decor.
-  Updated: 2026-07-10T13:12:54Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Big Pig Plushies](https://www.hopsandpops.com/collections/big-pig-plushies): Welcome to the delightful world of Big Pig Plushies by Hops & Pops! These oversized plush companions are perfect for those who adore cuddly, squishy stuffed animals. With their charming features and large size, they make ideal room decor or a cherished addition to any plush collection. Embrace the kawaii aesthetic and add a touch of joy and comfort to any space.
   Updated: 2026-07-10T13:27:21Z
   Total Products: 1
@@ -1630,11 +1588,11 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:27:21Z
   Total Products: 1
 - [Pink Happy Pig Plushies](https://www.hopsandpops.com/collections/pink-happy-pig-plushies): Meet the charming Pink Happy Pig Plushies from Hops & Pops! These delightful companions are the perfect blend of cute and kawaii, designed to bring joy to any room. With their soft pink hue and cheerful expressions, they add a playful touch to bedrooms, nurseries, and cozy corners. Ideal for gift-giving or collecting, these plushies are a sweet reminder of happiness and comfort.
-  Updated: 2026-07-10T13:12:54Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Yellow Pig Plushies](https://www.hopsandpops.com/collections/yellow-pig-plushies): Welcome to the delightful world of Yellow Pig Plushies by Hops & Pops! These plush companions bring a burst of sunshine to any space with their cheerful yellow hue. Perfect for bedroom decor or as a heartwarming gift, these plush friends capture the kawaii aesthetic with their cute and squishy design. Embrace cozy living and playful spaces with this adorable collection of plushies.
-  Updated: 2026-07-10T13:12:54Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Long Pig Plushies](https://www.hopsandpops.com/collections/long-pig-plushies): Welcome to the delightful world of Long Pig Plushies from Hops & Pops. These adorable companions are designed with a unique elongated shape, making them perfect for adding a touch of whimsy to any space. Whether you're looking to enhance your bedroom decor or searching for the perfect gift, these cute and squishy plushies are sure to bring smiles.Embrace the kawaii aesthetic and cozy living with these stuffed animal friends that promise to brighten up playful spaces.
   Updated: 2026-07-10T13:27:21Z
   Total Products: 1
@@ -1648,17 +1606,17 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-07-10T13:12:55Z
   Total Products: 0
 - [Green Pig Plushies](https://www.hopsandpops.com/collections/green-pig-plushies): Introducing the Green Pig Plushies collection from Hops & Pops, where the charm of these delightful plush friends brings a splash of color and joy to any space. Perfect for bedroom decor or as a thoughtful gift, these cute and squishy companions embody the kawaii aesthetic, making them ideal for cozy living and playful spaces.Whether you're a collector of stuffed animals or seeking comfort, the Green Pig Plushies are your go-to for creating a cheerful environment.
-  Updated: 2026-07-10T13:12:55Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Big Happy Pig Plushies](https://www.hopsandpops.com/collections/big-happy-pig-plushies): Welcome to the delightful world of Big Happy Pig Plushies, where charm and comfort meet in the form of oversized, cheerful companions. These adorable plush toys are perfect for adding a touch of whimsy to any bedroom decor or as a lovable gift for friends and family. With their soft, squishy designs, they bring the kawaii aesthetic to life, embodying the playful and cozy lifestyle that Hops & Pops is known for. Whether you're a collector or simply seeking a cute friend for cuddling, these stuffed animals are sure to bring a smile to your face.
   Updated: 2026-07-10T13:12:55Z
   Total Products: 0
 - [Green Happy Pig Plushies](https://www.hopsandpops.com/collections/green-happy-pig-plushies): Introducing the Green Happy Pig Plushies collection by Hops & Pops, where cheerful expressions meet a delightful shade of green. These plush companions are perfect for adding a touch of whimsy to any bedroom decor or for gifting to someone who appreciates the kawaii aesthetic. With their squishy texture and cute design, they embody cozy living and playful spaces.
-  Updated: 2026-07-10T13:12:55Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Yellow Happy Pig Plushies](https://www.hopsandpops.com/collections/yellow-happy-pig-plushies): Welcome to the delightful world of Yellow Happy Pig Plushies by Hops & Pops! These cheerful companions are designed to brighten up any room with their vibrant color and joyful expressions. Perfect for adding a touch of kawaii aesthetic to bedroom decor or for gifting to loved ones, these plush toys are as cute as they are comforting. Collectors and comfort seekers alike will adore the squishy softness and playful charm of these stuffed animals.
-  Updated: 2026-07-10T13:12:55Z
-  Total Products: 0
+  Updated: 2026-09-20T11:38:36Z
+  Total Products: 1
 - [Long Happy Pig Plushies](https://www.hopsandpops.com/collections/long-happy-pig-plushies): Welcome to the delightful world of Long Happy Pig Plushies by Hops & Pops. These plushies are the perfect blend of cheerful charm and cozy comfort, making them an ideal addition to any kawaii-inspired bedroom or playful space. With their elongated design and joyful expressions, they are perfect for collecting or as thoughtful gifts for loved ones. Embrace the cute and squishy lifestyle with these stuffed animal companions.
   Updated: 2026-07-10T13:12:55Z
   Total Products: 0
@@ -1711,7 +1669,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-08-01T10:32:13Z
   Total Products: 3
 - [Happy Penguin Plushies](https://www.hopsandpops.com/collections/happy-penguin-plushies): Welcome to the world of Happy Penguin Plushies by Hops & Pops! These delightful plush companions are perfect for adding a touch of cuteness to any space. Whether you're decorating a bedroom or looking for a playful gift, these stuffed animals embody the kawaii aesthetic with their cheerful expressions and squishy feel. Let these plushies bring joyful comfort into your cozy living spaces.
-  Updated: 2026-08-01T10:32:13Z
+  Updated: 2026-09-22T11:11:14Z
   Total Products: 2
 - [Pink Penguin Plushies](https://www.hopsandpops.com/collections/pink-penguin-plushies): Introducing the Pink Penguin Plushies collection from Hops & Pops, where comfort meets cuteness. These adorable plush companions add a touch of charm to any bedroom decor or play space. With their squishy softness and kawaii appeal, they make the perfect gifts for fans of cute and cuddly stuffed animals. Whether you're a collector or looking for a cozy friend, these plushies embody the playful spirit of Hops & Pops.
   Updated: 2026-07-10T13:26:51Z
@@ -1720,7 +1678,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2026-08-01T10:32:13Z
   Total Products: 1
 - [Gray Penguin Plushies](https://www.hopsandpops.com/collections/gray-penguin-plushies): Welcome to the delightful world of Gray Penguin Plushies by Hops & Pops. These adorable companions, with their soft gray tones, make the perfect addition to any bedroom decor, providing both comfort and a playful touch. Ideal for gift-giving or collecting, these stuffed animals embody the kawaii aesthetic that brings joy to cozy living spaces.
-  Updated: 2026-07-10T13:26:52Z
+  Updated: 2026-09-22T11:11:14Z
   Total Products: 2
 - [Big Penguin Plushies](https://www.hopsandpops.com/collections/big-penguin-plushies): Welcome to the delightful world of Big Penguin Plushies by Hops & Pops! These plush companions are designed to bring joy and comfort to any space. Perfect as a cute addition to your bedroom decor or as a thoughtful gift for loved ones, these plushies embody the charm of the kawaii aesthetic. With their squishy texture and adorable design, they're sure to become your favorite stuffed animal friends.
   Updated: 2026-07-10T13:26:56Z
@@ -1728,6 +1686,86 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
 - [Big Blue Penguin Plushies](https://www.hopsandpops.com/collections/big-blue-penguin-plushies): Discover the delightful world of Big Blue Penguin Plushies from Hops & Pops. These plush companions feature an adorable blue hue and generous size, perfect for adding a touch of whimsy to any space. Whether you're enhancing a cozy bedroom or seeking the ideal gift for a loved one, these cute stuffed animals bring joy and comfort. Embrace the kawaii aesthetic and create playful, squishy moments with each hug and snuggle.
   Updated: 2026-07-10T13:26:56Z
   Total Products: 1
+
+## Blogs
+
+- [The Hops & Pops Blog](https://www.hopsandpops.com/blogs/blog)
+  - [Plush Toy or Blanket? Meet the 2-in-1 Hybrid Everyone's Searching For](https://www.hopsandpops.com/blogs/blog/plush-toy-or-blanket-meet-the-2-in-1-hybrid-everyones-searching-for): What the plush-that-unfolds-into-a-blanket category actually is, what to check before buying one, and who it's genuinely useful for.
+    Updated: 2026-09-20T11:53:00Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide
+  - [The Complete Guide to Giant Dinosaur Plush Toys (Sizes, Species, Prices)](https://www.hopsandpops.com/blogs/blog/the-complete-guide-to-giant-dinosaur-plush-toys-sizes-species-prices): How to actually pick a giant dinosaur stuffed animal: size ranges, species preference by age, color/pose meaning, and quality tells.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Dinosaur Plushies
+  - [The Long Cat Plush Pillow Everyone's Obsessed With, Explained](https://www.hopsandpops.com/blogs/blog/the-long-cat-plush-pillow-everyones-obsessed-with-explained): Why the long cat body-pillow plush shape works, how to judge fill quality, and a sizing guide for side sleepers.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Cat Plushies
+  - [Is It Weird for Adults to Sleep With a Stuffed Animal? What the Research Says](https://www.hopsandpops.com/blogs/blog/is-it-weird-for-adults-to-sleep-with-a-stuffed-animal-what-the-research-says): How common  plush comfort-object use actually is, why it isn't a sign of anything wrong, and when it's worth reflecting on.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Comfort & Wellbeing
+  - [Best Stuffed Animal Gifts for a Long-Distance Girlfriend or Boyfriend](https://www.hopsandpops.com/blogs/blog/best-stuffed-animal-gifts-for-a-long-distance-girlfriend-or-boyfriend): Why plush works as a long-distance relationship gift, what to actually look for, and how to time it well.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Gift Guide
+  - [How to Wash a Stuffed Animal Without Ruining It](https://www.hopsandpops.com/blogs/blog/how-to-wash-a-stuffed-animal-without-ruining-it): Machine and hand washing instructions for plush toys, what actually causes matting and shape loss, and how to refresh between washes.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Care Guide
+  - [Plushie or Stuffed Animal? What's the Actual Difference](https://www.hopsandpops.com/blogs/blog/plushie-or-stuffed-animal-whats-the-actual-difference): The real distinction between plushie and stuffed animal terminology, where the line blurs, and whether it matters when shopping.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Brand & Culture
+  - [Looong Plushies Explained: The Body-Pillow Trend Taking Over Bedrooms](https://www.hopsandpops.com/blogs/blog/looong-plushies-explained-the-body-pillow-trend-taking-over-bedrooms): What makes the Looong plush shape different from a regular plush, why the trend took off, and what to look for beyond length.
+    Updated: 2026-09-20T11:52:59Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Looong Plushies
+  - [100cm vs 150cm: A Real Size Guide for Blanket-Plush Hybrids](https://www.hopsandpops.com/blogs/blog/100cm-vs-150cm-a-real-size-guide-for-blanket-plush-hybrids): What the 100cm and 150cm sizing on our plush-blanket hybrids actually measures, and how to pick between them based on who's using it.
+    Updated: 2026-09-21T06:49:45Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide
+  - [Matching Blanket Buddies for Siblings: A Buying Guide for More Than One Kid](https://www.hopsandpops.com/blogs/blog/matching-blanket-buddies-for-siblings-a-buying-guide-for-more-than-one-kid): How to shop our Blanket Buddies line for more than one child at a time, including how to build a matching "family set" and pick sizes fairly between siblings.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide
+  - [100+ Cute Names for Your New Plush Toy](https://www.hopsandpops.com/blogs/blog/100-cute-names-for-your-new-plush-toy): <p>Over 100 cute, funny, and food-themed name ideas for a new stuffed animal, organized by style so you can find the right fit fast.</p>
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Comfort & Wellbeing
+  - [How to Fold Your Blanket Buddy Back Into a Plush (Step by Step)](https://www.hopsandpops.com/blogs/blog/how-to-fold-your-blanket-buddy-back-into-a-plush-step-by-step): The closures, the fold sequence, and the most common reasons a 2-in-1 blanket-plush won't close back up neatly.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Care Guide
+  - [The Best Travel Pillow-Blanket Combos for Road Trips and Flights](https://www.hopsandpops.com/blogs/blog/the-best-travel-pillow-blanket-combos-for-road-trips-and-flights): What to look for in a 2-in-1 travel pillow and blanket set for kids, how car seat needs differ from airplane needs, and when a long body-pillow plush is the better pick for nap time on the road.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide, Looong Plushies
+  - [Is a Plush-Blanket Hybrid Worth It? An Honest Buyer's Breakdown](https://www.hopsandpops.com/blogs/blog/is-a-plush-blanket-hybrid-worth-it-an-honest-buyers-breakdown): A straightforward look at when a 2-in-1 plush-blanket hybrid earns its higher price, and when a plain plush or plain blanket bought separately is the smarter buy.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide
+  - [The No-Argument Car Seat: Why Parents Are Buying One Blanket Buddy Per Kid](https://www.hopsandpops.com/blogs/blog/the-no-argument-car-seat-why-parents-are-buying-one-blanket-buddy-per-kid): Why more parents are buying one Blanket Buddy per child instead of one to share, and how to pick a line with enough animal variety that every kid gets their own.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Blanket Buddies, Buying Guide
+  - [Kawaii Food Plush Toys: A Complete Guide to Dessert-Shaped Stuffed Animals](https://www.hopsandpops.com/blogs/blog/kawaii-food-plush-toys-a-complete-guide-to-dessert-shaped-stuffed-animals): Ice cream cones, birthday cakes, cheese cubes, and steamed buns you can actually hug. Here's what to know about the kawaii food plush trend before you pick one.
+    Updated: 2026-09-28T06:53:29Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Yummy Plushies
+  - [12 Dinosaur Plush Toys for Kids Who Love the T-Rex More Than Barbie](https://www.hopsandpops.com/blogs/blog/12-dinosaur-plush-toys-for-kids-who-love-the-t-rex-more-than-barbie): A roundup of 12 real dinosaur plush picks for kids, grouped by what a dino-obsessed kid actually wants: huggable classics, jumbo floor buddies, toddler-soft picks, bedtime body pillows, species-accurate sets, and a couple of novelty dinosaurs.
+    Updated: 2026-09-29T07:21:02Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Dinosaur Plushies
+  - [Green, Blue, or Pink Dinosaur Plush: Which Color Does Your Kid Actually Want?](https://www.hopsandpops.com/blogs/blog/green-blue-or-pink-dinosaur-plush-which-color-does-your-kid-actually-want): Green, blue, and pink dinosaur plush toys all  well for different reasons. Here's a practical way to pick the right color for a specific kid instead of guessing.
+    Updated: 2026-10-01T05:34:23Z
+    Author: Hops & Pops
+    Tags: Buying Guide, Dinosaur Plushies
+  - [Why Dinosaur Plush Toys Never Go Out of Style With Kids](https://www.hopsandpops.com/blogs/blog/why-dinosaur-plush-toys-never-go-out-of-style-with-kids): Dinosaur plush toys keep  year after year with no movie or trend behind them. Here's the actual reason the dinosaur phase never really goes away, and what it means for picking the right one.
+    Updated: 2026-10-01T05:34:23Z
+    Author: Hops & Pops
+    Tags: Brand & Culture, Dinosaur Plushies
 
 ## Store Pages
 
