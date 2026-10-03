@@ -6,26 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2024-06-17T20:31:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-14T00:00:42.627Z
+- Updated At: 2026-10-03T00:00:44.826Z
 
 ## Products
 
-- [Mid-Twenties Crisis Vinyl](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-vinyl): The Mid-Twenties Crisis vinyl is back in stock with a limited number available! Order now.
-  Updated: 2026-09-10T18:53:13Z
-  Vendor: Dylan Marlowe Store
-  Product Type: Vinyl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_Vinyl_mockup_2000x2000_e8cbbb71-9d0e-4dcb-84d1-5dd3b43dd08c.png?v=1726776327
-  Price: $34.98 USD
 - [Mid-Twenties Crisis CD](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-cd): Tracklist: Heaven’s Sake Deer On The Wall Mid-Twenties Crisis Heart Brakes Stick to My  Hungover In A Deer Stand Hang It Up Shop Radio Devil On My Shoulder I Never Miss There Goes That Boys Back Home You Did It Too Bat Outta Hell The Fence
-  Updated: 2026-09-05T01:35:16Z
+  Updated: 2026-09-15T14:04:41Z
   Vendor: Dylan Marlowe Store
-  Product Type: Music
+  Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_CD_1080x1080_21cac1e5-ca8c-49e5-9abd-c395259e104b.png?v=1726776277
   Price: $13.98 USD
 - [Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee): Deer Tee in natural with front print only. 100% Cotton
-  Updated: 2026-09-09T23:16:50Z
+  Updated: 2026-09-24T19:12:50Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -46,7 +39,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Eagle Tee](https://dylanmarlowe.merchmadeeasy.com/products/eagle-tee): American Made Country Music. Eagle Tee in navy with American graphic on the front. 100% Cotton, Unisex.
-  Updated: 2026-08-18T20:43:37Z
+  Updated: 2026-09-25T07:11:54Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -66,37 +59,12 @@
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/eagle-tee?variant=45278768332958)
     Availability: Available
     Price: $35.00 USD
-- [Duck Tee](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee): Here's to the boys back home
-
-Unisex tee in natural with duck graphic on the front and back
-
-100% Cotton, unisex
-  Updated: 2026-08-13T16:49:40Z
-  Vendor: Dylan Marlowe Store
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DMDUCKTEE2.png?v=1770831653
-  - [S](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee?variant=45316296376478)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [M](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee?variant=45316296409246)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [L](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee?variant=45316296442014)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [XL](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee?variant=45316296474782)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee?variant=45316296507550)
-    Availability: Available
-    Price: $35.00 USD
 - [2025 Tour Tee | Dylan Marlowe Official Merch Store](https://dylanmarlowe.merchmadeeasy.com/products/2025-tour-tee): Live on tour duck tee in black with 2025 Tour cities on the back! Shop now
-  Updated: 2026-08-13T16:42:20Z
+  Updated: 2026-09-25T07:10:18Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DMTourTee.png?v=1749132003
+  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DMTourTee.png?v=1790277024
   - [S](https://dylanmarlowe.merchmadeeasy.com/products/2025-tour-tee?variant=45539342123166)
     Availability: Available
     Price: $25.00 USD
@@ -112,8 +80,8 @@ Unisex tee in natural with duck graphic on the front and back
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/2025-tour-tee?variant=45539342254238)
     Availability: Not Available
     Price: $25.00 USD
-- [Duck Crewneck](https://dylanmarlowe.merchmadeeasy.com/products/collegiate-crewneck): Grey Crewneck with Dylan Marlowe on the front Duck emblem with roman numeral for 1997 underneath 50% Cotton / 50% Polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
-  Updated: 2026-08-18T20:44:11Z
+- [Duck Crewneck](https://dylanmarlowe.merchmadeeasy.com/products/collegiate-crewneck): Grey Crewneck with Dylan Marlowe on the front Duck emblem with roman numeral for 1997 underneath 50% Cotton / 50% Polyester
+  Updated: 2026-09-27T04:27:46Z
   Vendor: Dylan Marlowe Store
   Product Type: Outerwear
   Availability: Available
@@ -125,7 +93,7 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $55.00 USD
   - [L](https://dylanmarlowe.merchmadeeasy.com/products/collegiate-crewneck?variant=46060449267870)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 USD
   - [XL](https://dylanmarlowe.merchmadeeasy.com/products/collegiate-crewneck?variant=46060449300638)
     Availability: Available
@@ -154,8 +122,8 @@ Unisex tee in natural with duck graphic on the front and back
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/acres-quarter-zip?variant=46228482818206)
     Availability: Available
     Price: $65.00 USD
-- [Turkey Stamp Tee](https://dylanmarlowe.merchmadeeasy.com/products/turkey-stamp-tee): Turkey graphic on the front and back 100% Cotton tee in Natural Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-21T22:35:26Z
+- [Turkey Stamp Tee](https://dylanmarlowe.merchmadeeasy.com/products/turkey-stamp-tee): Turkey graphic on the front and back 100% Cotton tee in Natural Unisex
+  Updated: 2026-09-29T17:05:36Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -179,7 +147,7 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Not Available
     Price: $35.00 USD
 - [Black Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee-1): Deer graphic on the front and back 100% Cotton tee in Black Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-18T20:45:46Z
+  Updated: 2026-09-25T07:09:17Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -200,14 +168,14 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $35.00 USD
 - [Embroidered Duck Hat](https://dylanmarlowe.merchmadeeasy.com/products/embroidered-duck-hat): Specialty patch on the front Forest/Walnut hat with rope detail 100% cotton Adjustable sizing with snapback closure
-  Updated: 2026-09-11T13:12:56Z
+  Updated: 2026-10-01T15:51:06Z
   Vendor: Dylan Marlowe Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/Mockup_0003_DM_Duck_Snapback.png?v=1783018471
   Price: $40.00 USD
-- [Duck Hoodie](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie): Duck Hoodie in Sand with front and back print 80% Cotton / 20% Polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-09-13T00:18:51Z
+- [Duck Hoodie](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie): Duck Hoodie in Sand with front and back print 80% Cotton / 20% Polyester Unisex
+  Updated: 2026-10-01T02:37:46Z
   Vendor: Dylan Marlowe Store
   Product Type: Hoodie
   Availability: Available
@@ -227,35 +195,49 @@ Unisex tee in natural with duck graphic on the front and back
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/duck-hoodie?variant=48219624407198)
     Availability: Available
     Price: $65.00 USD
+- [Dylan Marlowe Vinyl (Signed)](https://dylanmarlowe.merchmadeeasy.com/products/dylan-marlowe-vinyl-signed): Pre-order Dylan's new album, Dylan Marlowe, on Forest Green vinyl out 11.6 Signed Gatefold jacket with lyrics and a handwritten note from Dylan inside. Tracklist to be announced
+  Updated: 2026-10-02T14:41:54Z
+  Vendor: Dylan Marlowe Store
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_Album_SignedVinylMockup_2000x2000_848933e0-2e7a-43c3-9fc0-086505aa7d3b.png?v=1788889114
+  Price: $44.98 USD
+- [Dylan Marlowe CD (Signed)](https://dylanmarlowe.merchmadeeasy.com/products/dylan-marlowe-cd-signed): Pre-order Dylan's new album, Dylan Marlowe, on CD out 11.6 Signed by Dylan Tracklist to be announced
+  Updated: 2026-10-02T12:04:37Z
+  Vendor: Dylan Marlowe Store
+  Product Type: CD
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_Album_SignedCDMockup_2000x2000_v2_WithDisc_c44c9e40-ac30-4854-9d63-5c6cf0359d26.png?v=1788967416
+  Price: $13.98 USD
 
 ## Collections
 
 - [ALL](https://dylanmarlowe.merchmadeeasy.com/collections/all-1)
-  Updated: 2026-09-13T11:10:16Z
+  Updated: 2026-10-02T11:12:39Z
   Total Products: 42
 - [APPAREL](https://dylanmarlowe.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-13T11:10:16Z
+  Updated: 2026-10-01T11:18:24Z
   Total Products: 14
 - [ACCESSORIES](https://dylanmarlowe.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-12T11:11:08Z
+  Updated: 2026-10-02T11:12:39Z
   Total Products: 7
 - [Music](https://dylanmarlowe.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-11T11:10:59Z
-  Total Products: 5
+  Updated: 2026-10-02T11:12:39Z
+  Total Products: 4
 - [NEW ARRIVALS](https://dylanmarlowe.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-13T11:10:16Z
+  Updated: 2026-10-02T11:12:39Z
   Total Products: 12
 - [All excluding Music](https://dylanmarlowe.merchmadeeasy.com/collections/all-excluding-music)
-  Updated: 2026-09-13T11:10:16Z
-  Total Products: 36
+  Updated: 2026-10-02T11:12:39Z
+  Total Products: 9
 - [Mid-Twenties Crisis Anniversary](https://dylanmarlowe.merchmadeeasy.com/collections/mid-twenties-crisis-anniversary)
-  Updated: 2026-09-11T17:38:39Z
+  Updated: 2026-09-23T13:06:50Z
   Total Products: 5
 - [Black Friday ](https://dylanmarlowe.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-09-13T11:10:16Z
-  Total Products: 14
+  Updated: 2026-10-02T11:12:39Z
+  Total Products: 12
 - [Dylan Marlowe](https://dylanmarlowe.merchmadeeasy.com/collections/dylan-marlowe)
-  Updated: 2026-09-11T17:38:50Z
+  Updated: 2026-10-02T11:12:39Z
   Total Products: 2
 
 ## Store Pages
