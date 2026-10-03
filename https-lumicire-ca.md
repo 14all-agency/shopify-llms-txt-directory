@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2026-06-10T19:18:29Z
 - Contact Email: lumicirebougie@gmail.com
-- Updated At: 2026-09-26T00:00:41.175Z
+- Updated At: 2026-10-03T00:00:44.385Z
 
 ## Products
 
@@ -218,6 +218,15 @@
     Author: Lumicire
   - [Pourquoi incorporer des bougies dans votre rituel quotidien de détente](https://lumicire.ca/blogs/actualites/pourquoi-incorporer-des-bougies-dans-votre-rituel-quotidien-de-detente): Pourquoi incorporer des bougies dans votre rituel quotidien de détente
     Updated: 2026-09-24T12:01:51Z
+    Author: Lumicire
+  - [Les bougies comme vecteur de bien-être : un soutien en aromathérapie](https://lumicire.ca/blogs/actualites/les-bougies-comme-vecteur-de-bien-etre-un-soutien-en-aromatherapie): Les bougies comme vecteur de bien-être : un soutien en aromathérapie
+    Updated: 2026-09-27T12:01:51Z
+    Author: Lumicire
+  - [Comment choisir des bougies adaptées à vos allergies](https://lumicire.ca/blogs/actualites/comment-choisir-des-bougies-adaptees-a-vos-allergies): Comment choisir des bougies adaptées à vos allergies
+    Updated: 2026-09-28T12:09:03Z
+    Author: Lumicire
+  - [Myths et réalités autour des bougies LED vs traditionnelles.](https://lumicire.ca/blogs/actualites/myths-et-realites-autour-des-bougies-led-vs-traditionnelles): Myths et réalités autour des bougies LED vs traditionnelles.
+    Updated: 2026-10-01T12:01:54Z
     Author: Lumicire
 
 ## Store Pages
