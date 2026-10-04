@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-09T16:09:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-26T00:00:26.696Z
+- Updated At: 2026-10-04T00:00:31.084Z
 
 ## Products
 
-- [OUTWEST TOTE TEN TOUR 100% COTTON](https://ten.merchmadeeasy.com/products/outwest-tote): TEN OUTWEST TOUR TOTE in natural with print on one side. 100% cotton 15"W x 16"H x 3"D
-  Updated: 2026-09-19T19:23:08Z
+- [OUTWEST TOTE TEN TOUR 100% COTTON](https://ten.merchmadeeasy.com/products/outwest-tote): TEN OUTWEST TOUR TOTE BAG in natural with print on one side. This item is a pre-order that will ship mid-October. 100% cotton 15"W x 16"H x 3"D
+  Updated: 2026-10-01T07:03:01Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/168477_1_310509_d_jpg.png?v=1789575323
   Price: $25.00 USD
-- [PHOTO TOUR TEE](https://ten.merchmadeeasy.com/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-09-19T19:23:09Z
+- [TOUR T-SHIRT - BLACK](https://ten.merchmadeeasy.com/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. This item is a pre-order that will ship mid-October. 100% Cotton
+  Updated: 2026-10-02T02:57:47Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -38,12 +38,12 @@
   - [2XL](https://ten.merchmadeeasy.com/products/photo-tour-tee?variant=53296413081781)
     Availability: Available
     Price: $40.00 USD
-- [PHOTO TOUR HOODIE](https://ten.merchmadeeasy.com/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in charcoal with front and back print. 100% Cotton
-  Updated: 2026-09-19T19:23:09Z
+- [TOUR HOODIE](https://ten.merchmadeeasy.com/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in shade "cement" with front and back print. This item is a pre-order that will ship mid-October. 100% Cotton
+  Updated: 2026-10-02T02:57:36Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENPHOTOTOURHOODIE.png?v=1789576674
+  Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENTOURHOODIE-2.png?v=1790796913
   - [S](https://ten.merchmadeeasy.com/products/photo-tour-hoodie?variant=53296473735349)
     Availability: Available
     Price: $80.00 USD
@@ -59,19 +59,19 @@
   - [2XL](https://ten.merchmadeeasy.com/products/photo-tour-hoodie?variant=53296473866421)
     Availability: Available
     Price: $80.00 USD
-- [OUTWEST HAT](https://ten.merchmadeeasy.com/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. Adjustable back closure
-  Updated: 2026-09-19T19:23:09Z
+- [TOUR CAP](https://ten.merchmadeeasy.com/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. This item is a pre-order that will ship mid-October. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
+  Updated: 2026-10-02T02:57:23Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTHAT.png?v=1789576954
   Price: $45.00 USD
-- [WEST TOUR TEE](https://ten.merchmadeeasy.com/products/west-tour-tee): TEN WEST TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-09-19T19:23:09Z
+- [TOUR T-SHIRT (ARTWORK BY TEN) - NATURAL](https://ten.merchmadeeasy.com/products/west-tour-tee): TEN WEST TOUR TEE in shade "natural" with print on front and dates on back. This item is a pre-order that will ship mid-October. 100% Cotton
+  Updated: 2026-10-02T04:50:19Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENWESTTOURTEE.png?v=1789577104
+  Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENTOURTEE-NATURAL_e120102d-202f-4020-81ae-52cdbcf86fdb.png?v=1790797163
   - [S](https://ten.merchmadeeasy.com/products/west-tour-tee?variant=53296506339509)
     Availability: Available
     Price: $40.00 USD
@@ -87,8 +87,8 @@
   - [2XL](https://ten.merchmadeeasy.com/products/west-tour-tee?variant=53296506470581)
     Availability: Available
     Price: $40.00 USD
-- [OUTWEST IRL KEYCHAIN](https://ten.merchmadeeasy.com/products/outwest-irl-keychain): TEN OUTWEST IRL KEYCHAIN Acrylic charms with steel wire rings
-  Updated: 2026-09-19T19:23:10Z
+- [PENDANT KEYCHAIN](https://ten.merchmadeeasy.com/products/outwest-irl-keychain): OUTWEST + IRL PENDANT KEYCHAIN SET This item is a pre-order that will ship mid-October. Acrylic charms with steel wire rings OUTWEST pendant dimensions: 2.4in x .6in IRL pendant dimensions: .8in x .6in
+  Updated: 2026-10-02T02:56:52Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
@@ -98,22 +98,22 @@
 ## Collections
 
 - [Home page](https://ten.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-16T16:49:04Z
+  Updated: 2026-10-01T18:16:46Z
   Total Products: 6
 - [Apparel](https://ten.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-16T16:45:44Z
+  Updated: 2026-10-01T18:16:46Z
   Total Products: 3
 - [Accessories](https://ten.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-16T19:23:39Z
+  Updated: 2026-09-30T19:02:56Z
   Total Products: 3
 - [Hats](https://ten.merchmadeeasy.com/collections/hats)
-  Updated: 2026-09-16T16:42:40Z
+  Updated: 2026-09-30T19:02:55Z
   Total Products: 1
 - [Music](https://ten.merchmadeeasy.com/collections/music)
   Updated: 2026-09-15T21:11:55Z
   Total Products: 0
 - [All](https://ten.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-16T19:23:27Z
+  Updated: 2026-10-01T18:16:46Z
   Total Products: 6
 
 ## Store Pages
