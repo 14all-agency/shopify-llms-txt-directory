@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-09-27T08:00:36.722Z
+- Updated At: 2026-10-04T08:00:36.995Z
 
 ## Products
 
@@ -21,7 +21,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OXILLIS-Coffee-Therapy-Brazilian-Protein-Hair-Straightener-1000-ML-OXILLIS-JOLIE_S-205065155.png?v=1779549923
   Price: AED 500.00 AED
 - [Amazon Flowers Perfect Smooth Hair Protein 1L | JOLIES UAE](https://www.jolies.ae/products/amazon-flowers-brazilian-hair-protein--1000-ml): Shop Amazon Flowers Perfect Smooth Brazilian hair protein 1 litre, a professional smoothing  designed to help control frizz and improve shine.
-  Updated: 2026-09-20T19:48:46Z
+  Updated: 2026-09-30T03:18:27Z
   Vendor: AMAZON FLOWERS
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -259,7 +259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Abpnatural-Cosmetics-New-Carolina-Natural-Sealing-Hair-1000-ML-ABPNATURAL-JOLIE_S-205064776.png?v=1779549732
   Price: AED 600.00 AED
 - [HB 5G Therapy Anti-Frizz Protein | JOLIES UAE](https://www.jolies.ae/products/hb-hair-solution-5g-therapy-anti-frizz-protein-5-in-1-smoothing-1000-ml): Shop HB Hair Solution 5G Therapy Anti-Frizz Protein for professional smoothing care that helps dry, frizz-prone hair feel softer and manageable at JOLIES UAE.
-  Updated: 2026-08-28T18:51:32Z
+  Updated: 2026-10-02T16:41:37Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HB-HAIR-SOLUTION-Blue-Diamond-Anti-Frizz-System-HB-JOLIE_S-127911579.jpg?v=1724965238
     Price: AED 200.00 AED
 - [HB Macadamia Anti-Frizz Hair System | JOLIES UAE](https://www.jolies.ae/products/hb-hair-solution-macadamia-anti-frizz-system-1-kg): Shop the HB Hair Solution Macadamia Anti-Frizz System for coordinated conditioning and smoothing care that helps dry hair feel manageable at JOLIES UAE.
-  Updated: 2026-08-28T18:51:33Z
+  Updated: 2026-09-30T13:08:03Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -416,16 +416,16 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Dalmatia-Jasper-with-lava-stone-bracelet-JOLIE_S-JOLIE_S-118225956.jpg?v=1724965349
   Price: AED 180.00 AED
 - [Round Matte Multicolour Frost Agate Stones | JOLIES UAE](https://www.jolies.ae/products/round-matte-multicolor-frost-agates-natural): Shop round matte multicolour frost agate natural stones for jewellery and accessory projects. Review the product options and measurements before ordering.
-  Updated: 2026-08-28T18:51:36Z
+  Updated: 2026-10-04T00:14:27Z
   Vendor: JOLIE'S
-  Product Type: Beauty & Personal Care
+  Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Round-Matte-multicolor-Frost-Agates-Natural-JOLIE_S-JOLIE_S-118227813.jpg?v=1724965359
   Price: AED 120.00 AED
 - [Turquoise & Tiger Eye Natural Stone | JOLIES UAE](https://www.jolies.ae/products/turquoise-and-tiger-eye-natural-stone): Shop turquoise and tiger-eye natural stone with crystal rhinestone detailing for jewellery and accessory styling in the UAE.
-  Updated: 2026-08-28T18:51:36Z
+  Updated: 2026-10-04T00:14:27Z
   Vendor: JOLIE'S
-  Product Type: Beauty & Personal Care
+  Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Turquoise-and-Tiger-Eye-Natural-Stone-JOLIE_S-JOLIE_S-118228176.jpg?v=1724965371
   Price: AED 220.00 AED
@@ -1231,9 +1231,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Cosrx-BHA-Blackhead-Power-Liquid-150-ml-COSRX-JOLIE_S-132766067.jpg?v=1743091698
   Price: AED 80.00 AED
 - [NUMBUZIN No.3 Super Glowing Essence Toner 100 ml | JOLIES UAE](https://www.jolies.ae/products/numbuzin-no-3-super-glowing-essence-toner-100ml): Shop NUMBUZIN No.3 Super Glowing Essence Toner 100 ml, a hydrating toner for smoother, more radiant-looking skin.
-  Updated: 2026-08-28T18:52:13Z
+  Updated: 2026-10-04T00:14:30Z
   Vendor: Numbuzin
-  Product Type: Uncategorized
+  Product Type: Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUMBUZIN-No.3-super-glowing-essence-toner-100-ml-Numbuzin-JOLIE_S-132766193.jpg?v=1743091703
   Price: AED 50.00 AED
@@ -1375,23 +1375,23 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TOCOBO-Cica-Calming-Serum-50-ml-TOCOBO-JOLIE_S-132889133.png?v=1743092244
   Price: AED 90.00 AED
 - [TOCOBO Cica Calming Powder Wash 50 g | JOLIES UAE](https://www.jolies.ae/products/cica-calming-powder-wash): Shop TOCOBO Cica Calming Powder Wash 50 g, a water-activated powder cleanser for gentle cleansing and light exfoliation.
-  Updated: 2026-08-28T18:52:20Z
+  Updated: 2026-10-04T00:14:29Z
   Vendor: TOCOBO
-  Product Type: Uncategorized
+  Product Type: Facial Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TOCOBO-Cica-Calming-Powder-Wash-50-g-TOCOBO-JOLIE_S-132889533.png?v=1743092271
   Price: AED 95.00 AED
 - [SKIN1004 Centella Air-Fit Suncream SPF30 50 ml | JOLIES UAE](https://www.jolies.ae/products/madagascar-centella-air-fit-suncream-light-spf30-pa-50-ml): Shop SKIN1004 Madagascar Centella Air-Fit Suncream Light SPF30, a mineral sunscreen for comfortable daily UV protection.
-  Updated: 2026-08-28T18:52:21Z
+  Updated: 2026-10-04T00:14:29Z
   Vendor: SKIN 1004
-  Product Type: Uncategorized
+  Product Type: Sunscreen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Air-Fit-Suncream-Light-SPF30-50-ml-SKIN-1004-JOLIE_S-132889950.webp?v=1743092297
   Price: AED 85.00 AED
 - [SKIN1004 Centella Ampoule Foam 125 ml | JOLIES UAE](https://www.jolies.ae/products/madagascar-centella-ampoule-foam-125-ml): Shop SKIN1004 Madagascar Centella Ampoule Foam 125 ml, a creamy facial cleanser for removing daily impurities and excess oil.
-  Updated: 2026-08-28T18:52:21Z
+  Updated: 2026-10-04T00:14:31Z
   Vendor: SKIN 1004
-  Product Type: Uncategorized
+  Product Type: Facial Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Ampoule-Foam-125-ml-SKIN-1004-JOLIE_S-132890325.jpg?v=1743092320
   Price: AED 80.00 AED
@@ -1410,9 +1410,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Tone-Brightening-Capsule-Cream-75-ml-SKIN1004-JOLIE_S-132891244.jpg?v=1743092368
   Price: AED 70.00 AED
 - [SOME BY MI Retinol Intense Eye Cream 30 ml | JOLIES UAE](https://www.jolies.ae/products/retinol-intense-advanced-triple-action-eye-cream-30-ml): Shop SOME BY MI Retinol Intense Eye Cream 30 ml for moisturising the eye area and improving the appearance of fine lines and uneven texture.
-  Updated: 2026-08-28T18:52:22Z
+  Updated: 2026-10-04T00:14:31Z
   Vendor: SOME BY MI
-  Product Type: Uncategorized
+  Product Type: Eye Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SOME-BY-MI-Retinol-Intense-Advanced-Triple-Action-Eye-Cream-30-ml-SOME-BY-MI-JOLIE_S-132891887.jpg?v=1743092411
   Price: AED 70.00 AED
@@ -1508,9 +1508,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Serum-Unscented-60-ml-PURITO-SEOUL-JOLIE_S-133574825.jpg?v=1743093055
   Price: AED 100.00 AED
 - [PURITO Wonder Releaf Centella Mini Kit | JOLIES UAE](https://www.jolies.ae/products/purito-wonder-releaf-centella-mini-kit-unscented): Shop the PURITO Wonder Releaf Centella Mini Kit Unscented with travel-size products for exploring a calming skincare routine.
-  Updated: 2026-08-28T18:52:27Z
+  Updated: 2026-10-04T00:14:31Z
   Vendor: PURITO SEOUL
-  Product Type: Special Care
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Mini-Kit-Unscented-PURITO-SEOUL-JOLIE_S-133575326.jpg?v=1743093086
   Price: AED 90.00 AED
@@ -1641,9 +1641,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Tone-Brightening-Capsule-Ampoule-100-ML-SKIN-1004-JOLIE_S-166328015.jpg?v=1731353902
   Price: AED 100.00 AED
 - [Flawless Skincare Routine Starter Kit | JOLIES UAE](https://www.jolies.ae/products/the-flawless-skin-care-routine-starter-kit): Shop the Flawless Skincare Routine Starter Kit, a curated bundle of complementary products for building a simple daily skincare routine.
-  Updated: 2026-08-28T18:52:34Z
+  Updated: 2026-10-04T00:14:39Z
   Vendor: JOLIE'S
-  Product Type: Uncategorized
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/The-Flawless-Skin-Care-Routine-Starter-Kit-DOKAN-JOLIE_S-166491264.png?v=1731786759
   Price: AED 320.00 AED
@@ -2025,16 +2025,16 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Ultimate-Glow-Booster-Kit-Medicube-JOLIE_S-202259876.png?v=1754415609
   Price: AED 980.00 AED
 - [MEDICUBE Ultimate Glow & Firmness Set | JOLIES UAE](https://www.jolies.ae/products/medicube-ultimate-glow-firmness-set): Shop the MEDICUBE Ultimate Glow & Firmness Set, a coordinated routine for hydration and supporting smoother, firmer-looking skin.
-  Updated: 2026-08-28T18:52:49Z
+  Updated: 2026-10-04T00:14:33Z
   Vendor: Medicube
-  Product Type: set
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Ultimate-Glow-_-Firmness-Set-Medicube-JOLIE_S-202259676.png?v=1754415081
   Price: AED 950.00 AED
 - [PURITO Wonder Releaf Centella Unscented Set | JOLIES UAE](https://www.jolies.ae/products/purito-wonder-releaf-centella-unscented-skincare-set): Shop the PURITO Wonder Releaf Centella Unscented Skincare Set for a fragrance-free hydrating and calming routine.
-  Updated: 2026-08-28T18:52:49Z
+  Updated: 2026-10-04T00:14:32Z
   Vendor: Purito
-  Product Type: set
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Unscented-Skincare-Set-Purito-JOLIE_S-195631484.jpg?v=1745095241
   Price: AED 255.00 AED
@@ -2046,9 +2046,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Timeless-Bloom-Bakuchiol-_-Timeless-Bloom-Bakuchiol-Spot-SET-Purito-JOLIE_S-195631518.jpg?v=1745095266
   Price: AED 160.00 AED
 - [DR.ALTHEA 345 Cream & ANUA Azelaic Serum Set | JOLIES UAE](https://www.jolies.ae/products/dr-althea-345-relief-cream-anua-azelaic-acid-10-hyaluron-serum-set): Shop the DR.ALTHEA 345 Relief Cream and ANUA Azelaic Acid 10 Hyaluron Serum Set for blemish-prone, uneven-looking skin.
-  Updated: 2026-08-28T18:52:50Z
+  Updated: 2026-10-04T00:14:34Z
   Vendor: Anua + Dr Althea
-  Product Type: set
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR-ALTHEA-345-Relief-Cream-_-ANUA-Azelaic-Acid-10_-Hyaluron-Serum-Set-Anua-_-Dr-Althea-JOLIE_S-195631654.jpg?v=1745095284
   Price: AED 172.00 AED
@@ -2564,9 +2564,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Night-Skin-Care-Set-350ml-COSRX-JOLIE_S-195639371.webp?v=1745096624
   Price: AED 163.00 AED
 - [SOME BY MI 30 Days Miracle Skincare Set | JOLIES UAE](https://www.jolies.ae/products/somebymi-blackheads-30-days-miracle-toner-serum-and-cream-set): Shop the SOME BY MI 30 Days Miracle Toner, Serum and Cream Set for exfoliating, hydrating and moisturising skincare care.
-  Updated: 2026-08-28T18:53:14Z
+  Updated: 2026-10-04T00:14:34Z
   Vendor: SOME BY MI
-  Product Type: Health & Beauty
+  Product Type: Skin Care Kits & Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Somebymi-Blackheads-30-Days-Miracle-Toner_-Serum-and-Cream-Set-SOME-BY-MI-JOLIE_S-195639461.webp?v=1745096637
   Price: AED 233.00 AED
@@ -3005,9 +3005,9 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Heartleaf-Low-pH-Deep-Cleansing-Water-500-ml-Anua-JOLIE_S-201984267.png?v=1753369701
   Price: AED 80.00 AED
 - [DR ALTHEA Aqua Glowing Sunscreen SPF50+ | JOLIES UAE](https://www.jolies.ae/products/aqua-glowing-sunscreen-45-ml): Shop DR ALTHEA Aqua Glowing Sunscreen SPF50+ PA++++ 45 ml for daily broad-spectrum UV protection with lightweight hydration at JOLIES UAE.
-  Updated: 2026-08-28T22:35:59Z
+  Updated: 2026-10-04T00:14:40Z
   Vendor: DR ALTHEA
-  Product Type: Uncategorized
+  Product Type: Sunscreen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Aqua-Glowing-Sunscreen-45-ml-Dr.-Althea-JOLIE_S-201994057.png?v=1753392363
   Price: AED 90.00 AED
@@ -3037,26 +3037,26 @@
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-21T11:09:44Z
-  Total Products: 30
+  Updated: 2026-10-03T17:18:24Z
+  Total Products: 38
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-09-26T11:10:02Z
-  Total Products: 106
+  Updated: 2026-10-03T17:18:25Z
+  Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-09-25T21:53:35Z
-  Total Products: 619
+  Updated: 2026-10-03T12:14:39Z
+  Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
-  Updated: 2026-09-26T11:10:02Z
+  Updated: 2026-10-03T12:14:35Z
   Total Products: 41
 - [Bracelets](https://www.jolies.ae/collections/bracelets): Shop elegant stone and leather bracelets online in the UAE. Explore versatile designs for everyday wear and special occasions from JOLIE'S.
-  Updated: 2026-08-22T19:48:33Z
+  Updated: 2026-10-03T12:14:25Z
   Total Products: 45
 - [Accessories](https://www.jolies.ae/collections/accessories): Shop jewellery and accessories online in the UAE, including natural-stone bracelets, necklaces, earrings and rings in distinctive everyday designs.
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-09-26T11:10:02Z
-  Total Products: 198
+  Updated: 2026-10-03T18:21:24Z
+  Total Products: 206
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
   Total Products: 4
@@ -3064,25 +3064,25 @@
   Updated: 2026-08-28T20:31:39Z
   Total Products: 34
 - [Skin Care Kit](https://www.jolies.ae/collections/skin-care-travel-kit): Shop skincare kits, starter sets and travel-size routines for cleansing, hydration and targeted care, with delivery across the UAE.
-  Updated: 2026-09-17T11:09:54Z
+  Updated: 2026-10-03T12:14:39Z
   Total Products: 129
 - [Hair Care Gift Set](https://www.jolies.ae/collections/hair-care-gift-set): Shop hair care gift sets in the UAE with shampoos, conditioners, masks and treatments. Compare curated sets and order online from JOLIE'S.
-  Updated: 2026-08-23T11:08:50Z
-  Total Products: 4
+  Updated: 2026-10-03T17:18:24Z
+  Total Products: 12
 - [Ramadan Collection](https://www.jolies.ae/collections/ramadan-collection): Shop Ramadan prayer mats for adults, couples and children online from JOLIE'S. Explore available styles and colours with delivery across the UAE.
   Updated: 2026-08-09T06:48:10Z
   Total Products: 3
 - [Body Care](https://www.jolies.ae/collections/body-care): Shop body washes, moisturising body milk, scrubs and dry oils online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-08-28T19:02:56Z
+  Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-09-26T11:10:02Z
-  Total Products: 504
+  Updated: 2026-10-04T06:57:09Z
+  Total Products: 513
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-09-26T11:10:02Z
+  Updated: 2026-10-04T06:57:09Z
   Total Products: 369
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
-  Updated: 2026-09-13T11:11:02Z
+  Updated: 2026-10-03T18:21:24Z
   Total Products: 9
 
 ## Blogs
