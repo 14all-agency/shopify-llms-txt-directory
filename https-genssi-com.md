@@ -6,12 +6,12 @@
 - Timezone: America/Tijuana
 - Created At: 2025-12-21T17:43:47Z
 - Contact Email: sales@genssi.com
-- Updated At: 2026-09-26T00:00:34.016Z
+- Updated At: 2026-10-04T00:00:35.615Z
 
 ## Products
 
 - [HID Kit Conversion X-treme Performance Xenon AC 55W](https://genssi.com/products/hid-kit-conversion-x-treme-performance-xenon-ac-55w): Illuminate your drive with the 55W X-treme Series HID Conversion Kit! Get superior visibility and longer-lasting performance for safer nighttime journeys.
-  Updated: 2026-09-21T19:40:16Z
+  Updated: 2026-10-02T22:27:26Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -202,7 +202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/9007-50W-RSTR__65371.1505160160.1280.1280.jpg?v=1769033825
   Price: $14.95 USD
 - [55W AC HID Xenon Replacement Slim Ballast](https://genssi.com/products/55w-ac-hid-xenon-replacement-slim-ballast): Illuminate your ride with the 55W AC Series Slim White Ballast. Enjoy superior brightness and unmatched durability—weatherproof & long-lasting!
-  Updated: 2026-09-21T19:43:11Z
+  Updated: 2026-09-27T18:43:17Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -244,7 +244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/7INBEZEL__82587.1506461662.1280.1280.jpg?v=1769033707
   Price: $34.95 USD
 - [APOLLO LED Black Projector Headlights for XJ and YJ](https://genssi.com/products/apollo-led-black-projector-headlights-for-xj-and-yj): Upgrade your Jeep's lighting with APOLLO Black Projector Headlights! Featuring XM-L2 CREE LED, they're the brightest choice for safety and style.
-  Updated: 2026-09-01T04:30:49Z
+  Updated: 2026-09-29T03:18:03Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -408,14 +408,14 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/AGR-AGRESSIVE-GRL_001__39023.1505923357.1280.1280.jpg?v=1766514832
   Price: $139.99 USD
 - [Remote Control Wireless Police Siren Emergency 7 Tone](https://genssi.com/products/remote-control-wireless-police-siren-emergency-7-tone): Experience ultimate convenience with our wireless horn! Control 7 powerful tones up to 125 dB from anywhere. Perfect for cars, security, and more.
-  Updated: 2026-09-04T00:06:17Z
+  Updated: 2026-09-27T23:36:17Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/srn-mh-82003_01_AMAZON__98341.1506383179.1280.1280.jpg?v=1769033825
   Price: $30.95 USD
 - [2 Channel Wireless On Off 12V Controller Waterproof](https://genssi.com/products/2-channel-wireless-on-off-12v-controller-waterproof): Discover the ultimate 12V Wireless Controller with dual outputs! Perfect for LED lights and low power devices, enjoy seamless control up to 100 feet!
-  Updated: 2026-09-25T04:22:26Z
+  Updated: 2026-10-03T03:22:15Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
@@ -590,7 +590,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RDGLID-HDLT-BLK_3__45871.1506452493.1280.1280.jpg?v=1766446591
   Price: $309.99 USD
 - [HID Xenon Performance Bulbs (2 Pack)](https://genssi.com/products/hid-xenon-performance-bulbs-2-pack): Upgrade your visibility with our HID replacement bulbs! Experience up to 500% more brightness and 2.5x longer life. Perfect fit, enhanced clarity!
-  Updated: 2026-09-21T19:44:19Z
+  Updated: 2026-10-02T22:36:47Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1286,14 +1286,14 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/100W-CHIPS__05310.1507657706.1280.1280.jpg?v=1769033466
   Price: $39.95 USD
 - [80W LED For Kawasaki ATV 92069-0019 Headlight Bulbs (2 Pack)](https://genssi.com/products/80w-led-for-kawasaki-atv-92069-0019-headlight-bulbs-2-pack): Upgrade your Kawasaki ATV or UTV with our powerful LED headlamps! Enjoy 900 lumens, 360° coverage, and a long-lasting, durable design for optimal performance.
-  Updated: 2026-09-22T16:52:12Z
+  Updated: 2026-10-03T20:53:57Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/A-800W-W_Main__74728.1579981303.1280.1280.jpg?v=1769033466
   Price: $49.95 USD
 - [80W LED bulbs Compatible With Polaris OEM ATV 27W Low Beam Headlight Bulb 4030059 Modify (Pack of 2)](https://genssi.com/products/80w-led-for-polaris-4030059-headlight-bulbs-2-pack): Revamp your ride with high-quality auto parts and vibrant LED lighting at GENSSI.com. Experience performance and style like never before!
-  Updated: 2026-09-24T15:56:13Z
+  Updated: 2026-10-03T02:54:17Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1340,7 +1340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/2X7RGBLEDCOMPARATIVE__98863.1517982097.1280.1280.jpg?v=1769033406
   Price: $379.95 USD
 - [5 Pin Automotive 30A/40A Relay 12V (Pack of 5)](https://genssi.com/products/5-pin-automotive-30a-40a-relay-12v-pack-of-5): Upgrade your vehicle with our universal 5PIN automotive relay set. Perfect for HID lighting, alarms, and more! Reliable, heavy-duty performance in every pack.
-  Updated: 2026-09-01T04:32:01Z
+  Updated: 2026-09-29T22:23:12Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-3D-TAILLIGHT_main__01883.1520294212.1280.1280.jpg?v=1766513980
   Price: $149.95 USD
 - [Xtreme LED Rock Lights 4 Piece Set](https://genssi.com/products/xtreme-led-rock-lights-4-piece-set): Illuminate your Jeep with our vibrant LED Rock Lights! Bright, durable, and expandable for endless customization. Perfect for fenders or interiors!
-  Updated: 2026-09-24T16:31:39Z
+  Updated: 2026-09-28T15:36:16Z
   Vendor: JP FEDERATION
   Product Type: Lighting
   Availability: Available
@@ -1481,7 +1481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-4R-24W_01__26800.1531427489.1280.1280.jpg?v=1769032926
   Price: $49.95 USD
 - [GX7 Pro LED Conversion Kit 6500K Superior Brightness and Reliability Headlight Bulbs](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up): Upgrade your Jeep Wrangler JL (2018+) with GENSSI GX7 LED headlight kits for unmatched brightness and durability. Easy plug-and-play installation!
-  Updated: 2026-09-21T21:53:28Z
+  Updated: 2026-10-02T15:21:19Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1679,14 +1679,14 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-FLAT-FNDR-01__59438.1570463935.1280.1280.jpg?v=1769033047
   Price: $239.95 USD
 - [1 Channel High Power 15A On/Off Wireless Remote Controller 12V](https://genssi.com/products/1-channel-high-power-15a-on-off-wireless-remote-controller-12v): Elevate your automotive experience with our high-power wireless controller! Remote operation, long-range reach, and water resistance for all your vehicles.
-  Updated: 2026-09-12T22:52:26Z
+  Updated: 2026-09-28T22:36:16Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RM02-AMAZON__82737.1574799027.1280.1280.jpg?v=1769033106
   Price: $31.95 USD
 - [LED Conversion Kit Bulbs GX7 Pro Compatible with Peterbilt 330 325 335 340 348 384 386 387 Truck Headlight Lamp Low High](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-peterbilt-330-325-335-340-348-384-386-387-truck-headlight-lamp-low-high): Upgrade your Peterbilt with the Pro GX7 LED Headlight bulb kit. Experience up to 3X better visibility and performance with a stunning 8000 Lumens output.
-  Updated: 2026-09-01T04:32:24Z
+  Updated: 2026-10-01T18:36:08Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1735,7 +1735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-CRSHR-F-R-02__12017.1578438888.1280.1280.jpg?v=1769032987
   Price: $479.95 USD
 - [G2 Titan LED Headlight Conversion Kit Bulbs](https://genssi.com/products/g2-titan-led-headlight-conversion-kit-bulbs): Transform your night driving experience with the TITAN LED Conversion Kit. Up to 300% brighter, easier installation, and cool white illumination.
-  Updated: 2026-09-04T00:15:31Z
+  Updated: 2026-09-29T21:32:33Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1818,14 +1818,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-216W-B__47150.1593033176.500.750.jpg?v=1769033166
     Price: $99.99 USD
-- [Demon Eye Halo Projector Black LED Headlights for Wrangler CJ TJ JK](https://genssi.com/products/demon-eye-halo-projector-black-led-headlights-and-fog-lights-for-wrangler-jk-2007-2018): Upgrade your ride with our Demon Series LED headlights & fog lights! Experience brilliant projection, stunning design, and remote-controlled halo effects.
-  Updated: 2026-09-04T00:13:26Z
-  Vendor: GENSSI
-  Product Type: Lighting
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JK-DEMONEYE_FOG-JK-az__13937.1629138394.1280.1280.jpg?v=1769033706
-  Price: $299.95 USD
-[List Continued](https://genssi.com/a/llms-agent/llms.txt?shop=b8ny8u-mx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Nzg0NzQ3Njk2MjExLCJsYXN0X3ZhbHVlIjoiNzc4NDc0NzY5NjIxMSJ9)
+[List Continued](https://genssi.com/a/llms-agent/llms.txt?shop=b8ny8u-mx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Nzg0NzQ3NTY1MTM5LCJsYXN0X3ZhbHVlIjoiNzc4NDc0NzU2NTEzOSJ9)
 
 ## Collections
 
@@ -1863,7 +1856,7 @@
   Updated: 2026-07-08T21:12:23Z
   Total Products: 4
 - [7x6 Inch Square](https://genssi.com/collections/auto-parts-headlights-7x6-square): Upgrade your vehicle with 7x6-inch square LED headlights or accessories, offering bright illumination, durable construction, and modern, off-road-ready performance.
-  Updated: 2026-07-08T21:11:36Z
+  Updated: 2026-09-28T11:22:48Z
   Total Products: 7
 - [4x6 Inch Square](https://genssi.com/collections/auto-parts-headlights-4x6-inch-square): Enhance your vehicle with 4x6-inch square LED headlights or accessories, providing bright illumination, durable construction, and reliable off-road-ready performance.
   Updated: 2026-07-08T21:11:08Z
@@ -1914,7 +1907,7 @@
   Updated: 2026-07-08T21:12:23Z
   Total Products: 2
 - [Relays](https://genssi.com/collections/auto-parts-accessories-relays): Relays are the first place to check in case your car’s electrical system seems faulty. This may save you a lot of headaches and troubles and even the money required for repairs. Making the replacement of a relay is simple, while a complete system overhaul is hard and time consuming. If you are in search of replacemen
-  Updated: 2026-08-28T14:34:33Z
+  Updated: 2026-09-30T11:18:46Z
   Total Products: 6
 - [LED Bulbs for Cars and Trucks](https://genssi.com/collections/led-lighting-automotive-lighting-led-bulbs-led-exterior-bulbs): Browse our wide selection of automotive LED bulbs at Genssi for exterior and interior vehicle lighting upgrades. This LED Bulbs category features high-performance replacement bulbs including wedge-style LED bulbs (e.g., T10/194/168 CANBUS options), LED bulbs for fog lights and DRL applications (such as 880/884/885/890/
   Updated: 2026-09-19T11:18:08Z
@@ -1953,31 +1946,31 @@
   Updated: 2026-08-01T11:16:41Z
   Total Products: 5
 - [Automotive LED Lighting & HID Kits | Headlights, Fog Lights & Bulbs](https://genssi.com/collections/automotive-lighting): Upgrade your vehicle with GENSSI’s premium automotive lighting. Shop high-performance LED headlights, HID kits, tail lights, and fog lamps for Jeeps, trucks, and ATVs.
-  Updated: 2026-09-25T11:20:44Z
+  Updated: 2026-10-02T11:23:16Z
   Total Products: 383
 - [LED Headlights & Sealed Beam Upgrades | Shop High-Performance Kits](https://genssi.com/collections/headlights): Upgrade your visibility with GENSSI LED headlights. Shop high-performance sealed beam replacements, halo projectors, and conversion kits for Jeep, Ford, and GMC.
-  Updated: 2026-09-25T11:20:44Z
+  Updated: 2026-09-30T11:18:46Z
   Total Products: 62
 - [LED Headlight Conversion Kits | Plug & Play Bulbs & Kits](https://genssi.com/collections/led-conversion-kits): Upgrade your lighting with GENSSI LED conversion kits. Shop high-output, plug-and-play LED bulbs for Kenworth, Mack, Freightliner, Chevy, and more. Fast shipping!
-  Updated: 2026-09-19T11:18:08Z
+  Updated: 2026-10-02T11:23:16Z
   Total Products: 43
 - [Jeep Parts & Accessories for Wrangler, Gladiator & More](https://genssi.com/collections/jeep-parts): Shop Jeep parts and accessories for Wrangler, Gladiator, TJ, YJ and more. Find lighting, bumpers, lift kits, and performance upgrades built for fit and durability.
-  Updated: 2026-09-22T11:19:19Z
+  Updated: 2026-10-02T11:23:16Z
   Total Products: 338
 - [Automotive Wiring & Electrical | 12V Harnesses, Relays & Switches](https://genssi.com/collections/wiring-electrical): Shop GENSSI for professional-grade 12V automotive wiring. From LED light bar harnesses to HID relay kits and pigtail adapters, get reliable power for your build.
-  Updated: 2026-09-25T15:17:54Z
+  Updated: 2026-09-30T11:18:46Z
   Total Products: 48
 - [Featured High-Performance Auto LED Lighting | Superior Night Visibility](https://genssi.com/collections/-featured): Upgrade to high-performance automotive LED lighting and exact-fit Jeep Wrangler headlights. Dominate the dark with proven reliability and fast US shipping.
-  Updated: 2026-08-27T11:20:23Z
+  Updated: 2026-10-02T11:23:16Z
   Total Products: 8
 - [Aftermarket Performance Grilles | Aggressive Styling](https://genssi.com/collections/grilles): Upgrade your vehicle with GENSSI performance grilles. Aggressive designs, LED options, durable ABS construction, and easy bolt-on installation.
   Updated: 2026-08-23T11:16:05Z
   Total Products: 74
 - [Jeep Air Intakes & Snorkel Kits | Boost HP & Throttle Response](https://genssi.com/collections/air-intakes): Upgrade your Jeep with high-flow air intakes and snorkel kits. Increase horsepower, torque, throttle response, and fuel efficiency while enjoying reusable filters and aggressive engine sound.
-  Updated: 2026-07-19T11:16:30Z
+  Updated: 2026-09-30T11:18:46Z
   Total Products: 21
 - [Headlights](https://genssi.com/collections/headlights-1): Upgrade your Jeep with high-performance aftermarket headlights designed to deliver maximum visibility, enhanced safety, and aggressive styling on and off the road. Factory Jeep headlights are often underpowered for night driving, trail use, and adverse weather conditions. Our premium headlight upgrades provide brighter output, modern technology, and rugged durability trusted by Jeep owners worldwide. This category features a wide selection of direct-fit Jeep headlights compatible with popular models including Wrangler JL, JK, JKU, TJ, YJ, CJ, Gladiator JT, and Cherokee XJ. Whether you are restoring a classic Jeep or upgrading a modern platform, these headlights are engineered for precise fitment, easy installation, and long-term reliability. Jeep Headlight Options LED Jeep Headlights – High-output illumination with improved efficiency and extended lifespan. Projector Headlights – Focused beam patterns for improved road clarity and reduced glare. Halo & DRL Headlights – Modern styling with enhanced daytime and nighttime visibility. DOT- Headlights – Street-legal options designed to meet safety and compliance standards. Built to handle extreme environments, these Jeep headlight assemblies are resistant to moisture, dust, vibration, and off-road abuse. Whether you drive a Wrangler JL or JK, a Gladiator JT, or a classic CJ, YJ, TJ, or XJ, upgrading your headlights improves visibility, confidence, and overall driving experience. Browse our complete selection of Jeep headlights to find the ideal lighting solution that matches your Jeep model, driving style, and performance needs.
-  Updated: 2026-08-15T11:18:33Z
+  Updated: 2026-09-28T11:22:48Z
   Total Products: 41
 - [Jeep Side Marker Lights & LED Bumper Signals | Upgrade Your Rig](https://genssi.com/collections/side-bumper-lights): Upgrade your visibility with GENSSI Jeep side marker lights and LED bumper signals. Shop smoked & clear lenses for Wrangler YJ, TJ, JK, and JL. Durable & Plug-and-Play.
   Updated: 2026-07-08T21:39:01Z
@@ -2409,6 +2402,18 @@
     Updated: 2026-09-25T09:03:05Z
     Author: James Miller
     Tags: aesthetic upgrades for jeep, enhanced safety features, jeep, jeep modification, roof wing, spoiler, taillights, wrangler accessories
+  - [Enhance Your Jeep Cherokee XJ's Performance with a High-Flow Air Filter Panel](https://genssi.com/blogs/the-genssi-garage/enhance-your-jeep-cherokee-xjs-performance-with-a-high-flow-air-filter-panel): Enhance Your Jeep Cherokee XJ's Performance with a High-Flow Air Filter Panel
+    Updated: 2026-09-28T09:06:48Z
+    Author: James Miller
+    Tags: boost airflow efficiency, cherokee xj, engine upgrade, filter, high-flow air, improve horsepower, jeep, performance
+  - [Enhance Your Off-Road Experience with 24W LED Cube Pods for Ford F-150](https://genssi.com/blogs/the-genssi-garage/enhance-your-off-road-experience-with-24w-led-cube-pods-for-ford-f-150): Enhance Your Off-Road Experience with 24W LED Cube Pods for Ford F-150
+    Updated: 2026-09-30T09:05:20Z
+    Author: James Miller
+    Tags: cube pods, enhance off-road experience, f-150 performance lighting, ford f-150, led, lighting, off-road, truck accessories
+  - [Steel Fender Flare Installation Guide for Jeep Wrangler YJ and TJ Fans](https://genssi.com/blogs/the-genssi-garage/steel-fender-flare-installation-guide-for-jeep-wrangler-yj-and-tj-fans): Steel Fender Flare Installation Guide for Jeep Wrangler YJ and TJ Fans
+    Updated: 2026-10-02T09:03:47Z
+    Author: James Miller
+    Tags: fender, installation, jeep flare, off-road modifications, steel, tj fans guide, vehicle customization tips, wrangler yj
 
 ## Store Pages
 
