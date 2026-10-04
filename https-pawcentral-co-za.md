@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-09-27T00:00:38.723Z
+- Updated At: 2026-10-04T00:00:39.998Z
 
 ## Products
 
@@ -1402,6 +1402,15 @@
     Author: PawCentral
   - [The Rising Trends in Holistic Veterinary Care](https://pawcentral.co.za/blogs/news/the-rising-trends-in-holistic-veterinary-care): The Rising Trends in Holistic Veterinary Care
     Updated: 2026-09-26T00:41:49Z
+    Author: PawCentral
+  - [The Best Methods to Demystify Exotic Pet Ownership](https://pawcentral.co.za/blogs/news/the-best-methods-to-demystify-exotic-pet-ownership): The Best Methods to Demystify Exotic Pet Ownership
+    Updated: 2026-09-28T02:32:12Z
+    Author: PawCentral
+  - [Guide to Seasonal Care for Pets Adjusting Routines Year Round](https://pawcentral.co.za/blogs/news/guide-to-seasonal-care-for-pets-adjusting-routines-year-round): Guide to Seasonal Care for Pets Adjusting Routines Year Round
+    Updated: 2026-09-30T02:12:02Z
+    Author: PawCentral
+  - [How to Ease Anxiety in Pets During Natural Events](https://pawcentral.co.za/blogs/news/how-to-ease-anxiety-in-pets-during-natural-events): How to Ease Anxiety in Pets During Natural Events
+    Updated: 2026-10-03T00:42:52Z
     Author: PawCentral
 
 ## Store Pages
