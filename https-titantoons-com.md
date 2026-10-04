@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-06-03T15:50:47Z
 - Contact Email: customerservice@titantoons.com
-- Updated At: 2026-09-26T00:00:48.139Z
+- Updated At: 2026-10-04T00:00:47.261Z
 
 ## Products
 
@@ -425,7 +425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Gastly.png?v=1780861587
   Price: $29.99 USD
 - [Official Pokémon Gengar Premium Cotton Plush by Titantoons – 9.5-Inch](https://titantoons.com/products/official-pokemon-gengar-premium-cotton-plush-by-titantoons-9-5-inch): Step into the shadows with the ultimate icon of sinister charm! Gengar is arguably one of the most popular Pokémon across the entire franchise, loved by long-time gamers, anime fans, and young trainers alike. Famous for hiding in the shadows and wearing a perpetually mischievous, wide-toothed grin, this premium 24cm plush brings Gengar's distinct round silhouette and iconic red eyes to life.
-  Updated: 2026-08-29T00:23:57Z
+  Updated: 2026-10-02T21:00:09Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -502,7 +502,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Treecko.png?v=1780913393
   Price: $29.99 USD
 - [Official Pokémon Meowth Premium Cotton Plush by Titantoons – 10-Inch](https://titantoons.com/products/official-pokemon-meowth-premium-cotton-plush-by-titantoons-10-inch): "Meowth, that's right!" Prepare for trouble and make it double with the fast-talking star of Team Rocket. Meowth is one of the most recognizable and beloved characters in anime history, famous for his witty personality, sharp claws, and undying loyalty to his villainous squad. Standing at a perfectly proportioned 25cm, this premium plush brings his iconic cat-like silhouette and sparkling charm to life in an ultra-soft format.
-  Updated: 2026-09-23T02:46:46Z
+  Updated: 2026-10-01T21:37:27Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -537,7 +537,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Clefairy.png?v=1780915346
   Price: $29.99 USD
 - [Official Pokémon Charizard Premium Cotton Plush by Titantoons – 11-Inch](https://titantoons.com/products/official-pokemon-charizard-premium-cotton-plush-by-titantoons-11-inch): Awaken the undisputed powerhouse of the Kanto region! As one of the most legendary and iconic Pokémon across the entire global franchise, Charizard is deeply revered by veteran trainers, competitive gamers, and young fans alike. Famous for his fierce battle-ready spirit and unstoppable fire attacks, this Flame Pokémon is reimagined here in a majestic, ultra-soft 28cm plush format that perfectly balances raw draconic power with premium comfort.
-  Updated: 2026-09-18T20:30:18Z
+  Updated: 2026-10-02T21:00:09Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -565,7 +565,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Dedenne.png?v=1780918874
   Price: $29.99 USD
 - [Official Pokémon Eevee Premium Cotton Plush by Titantoons – 10.5-Inch](https://titantoons.com/products/official-pokemon-eevee-premium-cotton-plush-by-titantoons-10-5-inch): Bring home the ultimate symbol of endless possibilities and pure charm. Eevee is universally recognized as one of the absolute pillars of the entire global Pokémon franchise, deeply adored by veteran Game Boy trainers and young toddlers alike. Celebrated for its sweet disposition, fox-like features, and incredible evolutionary potential, this premium 26cm plush brings Eevee's iconic large ears and fluffy cream neck ruff to life in a tailored format.
-  Updated: 2026-08-29T00:24:02Z
+  Updated: 2026-09-27T04:57:46Z
   Vendor: Titan Toons
   Product Type: Plush
   Availability: Available
@@ -1101,21 +1101,21 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/2GOODCO_1_12_Scale_LED_Light_Interactive_Annular_Suit_Gantry_Circular_Workshop_Diorama_Set.jpg?v=1784385813
   Price: $149.95 USD
 - [Attack on Titan: Reiner Braun - The Armored Titan Amazing Yamaguchi No.042 Revoltech High Quality Replica Action Figure by Kaiyodo](https://titantoons.com/products/attack-on-titan-reiner-braun-the-armored-titan-amazing-yamaguchi-no-042-revoltech-action-figure-by-kaiyodo): Breach the walls and crush humanity beneath an unstoppable wall of hardened muscle and bone. From the master engineering teams at Kaiyodo comes a towering, highly anticipated addition to the legendary Amazing Yamaguchi line: the devastating Armored Titan from Attack on Titan. Designed by master sculptor Katsuhisa Yamaguchi, this premium figure perfectly merges the terrifying, raw physical power of Reiner Braun's Titan form with an unprecedented, boundary-pushing articulation matrix. Crafted specifically for high-end toy photographers,  collectors, and anime purists, this release delivers the definitive, heavy-artillery centerpiece for your collection.
-  Updated: 2026-09-25T01:34:16Z
+  Updated: 2026-10-03T21:59:46Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Reiner_Braun_-_The_Armored_Titan_Amazing_Yamaguchi_No.042_Revoltech_Action_Figure_by_Kaiyodo.webp?v=1784385469
   Price: $79.95 USD
 - [Attack on Titan: Eren Yeager (Attack Titan Form) Amazing Yamaguchi No.041 Revoltech High Quality Replica Action Figure by Kaiyodo](https://titantoons.com/products/attack-on-titan-eren-yeager-attack-titan-form-amazing-yamaguchi-no-041-revoltech-action-figure-by-kaiyodo): Advance toward absolute freedom and tear down the walls of oppression. From the legendary engineering teams at Kaiyodo comes a spectacular, highly anticipated masterpiece in the Amazing Yamaguchi lineup: Eren Yeager in his iconic, feral Attack Titan form. Designed by master sculptor Katsuhisa Yamaguchi, this premium action figure captures the raw, unbridled kinetic energy and terrifying physical power of humanity's last hope turned ultimate vanguard. Crafted specifically for high-end toy photographers,  anime collectors, and Attack on Titan purists, this release offers an unmatched brawling articulation matrix that brings the high-stakes combat of the series straight to your shelf display.
-  Updated: 2026-09-19T19:45:14Z
+  Updated: 2026-10-03T21:59:46Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Eren_Yeager_Attack_Titan_Form_Amazing_Yamaguchi_No.041_Revoltech_Action_Figure_by_Kaiyodo.webp?v=1784385288
   Price: $79.95 USD
 - [Attack on Titan: Annie Leonhart - The Female Titan Amazing Yamaguchi No.043 Revoltech High Quality Replica Action Figure by Kaiyodo](https://titantoons.com/products/attack-on-titan-annie-leonhart-the-female-titan-amazing-yamaguchi-no-043-revoltech-action-figure-by-kaiyodo): Strike with lethal, high-velocity martial arts precision and outmaneuver all of humanity. From the visionary engineering team at Kaiyodo comes a breathtaking, powerhouse addition to the legendary Amazing Yamaguchi lineup: the deadly and agile Female Titan from Attack on Titan. Designed by master sculptor Katsuhisa Yamaguchi, this premium action figure masterfully captures the lean, athletic anatomy of Annie Leonhart's Titan form while pushing the boundaries of figure engineering. Crafted specifically for high-end toy photographers,  collectors, and anime purists, this release provides the definitive street-level and colossal brawler for your display shelf.
-  Updated: 2026-09-18T20:58:20Z
+  Updated: 2026-10-03T21:59:46Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1143,7 +1143,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Annie_Leonhart_Scout_Regiment_Veteran_Edition_28cm_Premium_Anime_Scale_Figure_Statue.jpg?v=1784381252
   Price: $89.95 USD
 - [Attack on Titan: Captain Levi Ackerman (ArtFX J Renewal Package Ver.) 1/8 Scale Premium Statue by Kotobukiya](https://titantoons.com/products/attack-on-titan-captain-levi-ackerman-artfx-j-renewal-package-ver-1-8-scale-premium-statue-by-kotobukiya): Freeze humanity's most lethal soldier mid-strike as he dances through the air with absolute mechanical precision. From the master artisans at Kotobukiya comes the definitive, highly anticipated Renewal Package Version of the legendary ArtFX J Captain Levi statue from Attack on Titan. Moving far beyond static poses, this premium 1/8 scale masterpiece captures humanity's strongest soldier in a gravity-defying, high-velocity slice. Engineered specifically for  collectors, high-end display galleries, and manga purists, this release stands as an absolute crown jewel of dynamic anime figure design.
-  Updated: 2026-09-23T22:47:11Z
+  Updated: 2026-09-28T18:45:56Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1164,7 +1164,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Mikasa_Ackerman_Eren_Yeager_A_Kiss_of_Death_Final_Farewell_Scene_1_8_Scale_Limited_Edition_Resin_Diorama_Statue_by_LC_Studio.jpg?v=1784380188
   Price: $119.95 USD
 - [Attack on Titan: Commander Erwin Smith (Figma No.446) Highly Poseable Premium Action Figure by Max Factory](https://titantoons.com/products/attack-on-titan-commander-erwin-smith-figma-no-446-highly-poseable-premium-action-figure-by-max-factory): Lead the charge, scream your heart out, and sacrifice everything for humanity's future. From the master engineers at Max Factory comes the highly sought-after, premium entry in the elite Figma lineup: the visionary commander of the Scout Regiment, Erwin Smith. Celebrated for its seamless blend of sleek anime accuracy and top-tier articulation, this figure allows  collectors, high-end toy photographers, and Attack on Titan purists to effortlessly capture Erwin’s commanding presence, unyielding resolve, and strategic brilliance directly on their display shelf.
-  Updated: 2026-08-29T00:24:23Z
+  Updated: 2026-09-29T01:44:26Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1178,7 +1178,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Mikasa_Ackerman_Battle_Damaged_Scout_Uniform_Premium_Scale_Figure_Statue_by_SanSan_Studio.jpg?v=1784379980
   Price: $99.95 USD
 - [Attack on Titan: Mikasa Ackerman (Figma No.203) Highly Poseable Premium Action Figure by Max Factory](https://titantoons.com/products/attack-on-titan-mikasa-ackerman-figma-no-203-highly-poseable-premium-action-figure-by-max-factory): Defend humanity's survival with unparalleled tactical grace and deadly martial arts precision. From the master engineers at Max Factory comes one of the most iconic and highly sought-after entries in the elite Figma lineup: humanity's most gifted vanguard, Mikasa Ackerman. Celebrated for its flawless blend of clean anime accuracy and industry-leading articulation, this premium figure allows  collectors, high-end toy photographers, and Attack on Titan purists to effortlessly capture Mikasa’s legendary agility, fierce combat stances, and stoic determination directly on their display shelf.
-  Updated: 2026-08-29T00:24:24Z
+  Updated: 2026-10-03T21:59:41Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1192,7 +1192,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Attack_on_Titan_Eren_Yeager_Figma_No.207_Highly_Poseable_Premium_Action_Figure_by_Max_Factory.jpg?v=1784379504
   Price: $69.95 USD
 - [Attack on Titan: Captain Levi Ackerman (Figma No.213) Highly Poseable Premium Action Figure by Max Factory](https://titantoons.com/products/attack-on-titan-captain-levi-ackerman-figma-no-213-highly-poseable-premium-action-figure-by-max-factory): Recreate the lightning-fast, high-velocity strikes of humanity's most lethal soldier. From the master engineers at Max Factory comes the highly acclaimed, definitive entry in the elite Figma lineup: Captain Levi Ackerman from Attack on Titan. Renowned for its flawless balance of razor-sharp anime accuracy and industry-leading joint articulation, this premium figure lets  collectors, high-end toy photographers, and series purists capture Levi's peerless combat prowess and cold, analytical stoicism directly on their display shelf.
-  Updated: 2026-09-16T21:17:06Z
+  Updated: 2026-10-03T21:59:46Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1558,7 +1558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/One_Piece_Nami_Wano_Country_Kunoichi_Ver._Authentic_LX_Studio_30cm_11.81-Inch_Premium_PVC_Exhibition_Scale_Statue.jpg?v=1784364003
   Price: $89.95 USD
 - [One Piece: Roronoa Zoro 41-Inch Authentic Replica Bamboo Katana](https://titantoons.com/products/one-piece-roronoa-zoro-41-inch-authentic-replica-bamboo-katana): Unleash the legendary spirit of the Straw Hat Crew’s master swordsman and anchor your collection with the ultimate blades of absolute justice. This premium 41-inch replica katana series brings Roronoa Zoro's iconic arsenal straight from the screen to your hands. Engineered with safe, lightweight, and incredibly durable high-grade bamboo cores, these swords are crafted specifically for convention-safe cosplay, dedicated martial arts training, and striking workspace display setups. Instead of heavy, restricted steel blades, these replicas utilize flawless, dense bamboo elements that retain perfect physical flexibility, paired with high-impact ABS fittings to mirror the canonical aesthetics of Zoro’s legendary swords. Choose your favorite individual blade to anchor your desktop, or embrace the path of the pirate hunter by customizing your own Ultimate 3-Blade Style (Santoryu) Bundle to claim the title of the world's greatest swordsman!
-  Updated: 2026-09-18T19:12:55Z
+  Updated: 2026-10-02T00:34:26Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1778,7 +1778,7 @@
   Image: https://cdn.shopify.com/s/files/1/0992/5918/7475/files/Bandai_S.H.Figuarts_Dragon_Ball_Z_Super_Super_Saiyan_Gotenks_Authentic_Premium_Action_Figure.jpg?v=1784336127
   Price: $69.95 USD
 - [Bandai S.H.Figuarts Dragon Ball Super: God of Destruction Beerus Authentic Premium Action Figure](https://titantoons.com/products/bandai-s-h-figuarts-dragon-ball-super-god-of-destruction-beerus-authentic-premium-action-figure): Bring home the cosmic authority, unpredictable temper, and elegant power of Universe 7's supreme deity. This authentic S.H.Figuarts action figure by Bandai captures Beerus, the God of Destruction, in his signature sleek and intimidating form. Masterfully engineered to balance high-end collector articulation with a durable, kid-friendly build, this official release is a must-have for  hobbyists curating a definitive Dragon Ball Super display and parents looking for a premium, highly interactive toy for older kids to stage universe-altering clashes.
-  Updated: 2026-09-11T02:06:23Z
+  Updated: 2026-10-02T01:25:45Z
   Vendor: Titan Toons
   Product Type: Figures
   Availability: Available
@@ -1806,7 +1806,7 @@
   Updated: 2026-07-10T11:40:50Z
   Total Products: 0
 - [Playground](https://titantoons.com/collections/playground): Shop official plush toys from Disney, Pixar, Toy Story, and Bluey. Discover soft, huggable collectibles for the whole family. Shop your favourites today!
-  Updated: 2026-09-25T11:19:53Z
+  Updated: 2026-10-03T11:24:27Z
   Total Products: 106
 - [Superhero](https://titantoons.com/collections/superhero): Buy superhero action figures of Marvel and DC at Titan Toons. Discover Batman, Spider-Man, Superman, Iron Man, and more collectible figures for collectors.
   Updated: 2026-09-21T11:19:10Z
@@ -1818,7 +1818,7 @@
   Updated: 2026-09-18T11:23:35Z
   Total Products: 5
 - [Anime](https://titantoons.com/collections/anime): Shop premium anime figures and collectibles from One Piece, Jujutsu Kaisen, Dragon Ball, and Attack on Titan — authentic pieces from Bandai and Good Smile.
-  Updated: 2026-09-25T11:19:53Z
+  Updated: 2026-10-03T11:24:27Z
   Total Products: 211
 - [Marvel](https://titantoons.com/collections/marvel): Unlock premium Marvel Legends action figures featuring iconic heroes and villains. Find must-have collectibles to elevate your Marvel collection. Shop today!
   Updated: 2026-09-21T11:19:10Z
@@ -1827,34 +1827,34 @@
   Updated: 2026-09-20T11:20:52Z
   Total Products: 39
 - [One piece](https://titantoons.com/collections/one-piece): Get premium One Piece action figures, plush, and model kits featuring Luffy, Kaido, Chopper, and more. Discover authentic Bandai Spirits collectibles.
-  Updated: 2026-09-11T02:11:35Z
+  Updated: 2026-10-02T11:22:28Z
   Total Products: 62
 - [Solo Leveling](https://titantoons.com/collections/solo-leveling): Unleash your collection with premium Solo Leveling figures featuring Sung Jinwoo, Igris, Beru, and iconic Shadow Monarch collectibles. Shop now!
-  Updated: 2026-09-16T11:22:03Z
+  Updated: 2026-09-26T11:39:43Z
   Total Products: 8
 - [Attack on titan](https://titantoons.com/collections/attack-on-titan): Buy Attack on Titan action figures featuring Eren, Levi, Mikasa, and more. Explore authentic Nendoroids and premium Good Smile Company collectibles.
-  Updated: 2026-09-25T11:19:53Z
+  Updated: 2026-10-03T11:24:27Z
   Total Products: 28
 - [Chainsaw Man](https://titantoons.com/collections/chainsaw-man): Elevate your collection with premium Chainsaw Man figures featuring Denji, Power, Makima, and more. Discover iconic anime collectibles. Shop now!
-  Updated: 2026-08-14T11:05:26Z
+  Updated: 2026-09-28T11:18:28Z
   Total Products: 27
 - [Demon Slayer](https://titantoons.com/collections/demon-slayer): Level up your anime collection with premium Demon Slayer figures, plush, and props. Collect Tanjiro, Shinobu, Kokushibo, and more. Explore the collection!
-  Updated: 2026-09-23T11:20:08Z
+  Updated: 2026-10-02T11:22:28Z
   Total Products: 23
 - [Dragon Ball](https://titantoons.com/collections/dragon-ball): Unleash your collection with premium Dragon Ball figures and statues featuring Goku, Vegeta, Gohan, and more. Discover iconic collectibles today!
-  Updated: 2026-09-11T11:21:04Z
+  Updated: 2026-10-02T11:22:28Z
   Total Products: 26
 - [Jujutsu kaisen](https://titantoons.com/collections/jujutsu-kaisen): Explore Jujutsu Kaisen figures and statues featuring Gojo, Sukuna, Itadori, and more. Shop authentic Bandai S.H.Figuarts and SEGA collectibles today!
   Updated: 2026-09-19T11:20:15Z
   Total Products: 37
 - [Bluey](https://titantoons.com/collections/bluey): Discover official Bluey plush toys featuring beloved characters like Bluey, Bingo, and Chattermax. Find irresistible, soft, huggable favorites. Shop today!
-  Updated: 2026-09-24T11:23:40Z
+  Updated: 2026-09-29T11:20:25Z
   Total Products: 6
 - [Pokemon](https://titantoons.com/collections/pokemon): Purchase Pokémon plush toys featuring Pikachu, Gengar, Eevee, and more. Discover soft, huggable Pokémon collectibles for fans of all ages. Shop now!
-  Updated: 2026-09-24T11:23:40Z
+  Updated: 2026-10-03T11:24:27Z
   Total Products: 32
 - [Disney](https://titantoons.com/collections/disney): Find your next favorite Disney plush toys featuring iconic characters. Shop authentic, adorable, high-quality collectibles for fans of all ages!
-  Updated: 2026-09-23T11:20:08Z
+  Updated: 2026-10-03T11:24:27Z
   Total Products: 19
 - [PAW Patrol](https://titantoons.com/collections/paw-patrol): Shop official PAW Patrol plush toys featuring lovable rescue pups. Bring home cuddly, adorable, must-have collectibles for your little hero. Get it today!
   Updated: 2026-09-14T11:18:49Z
