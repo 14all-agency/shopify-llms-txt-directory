@@ -6,19 +6,19 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-30T11:10:10Z
 - Contact Email: contact@legrimoireancien.com
-- Updated At: 2026-09-27T00:00:41.454Z
+- Updated At: 2026-10-04T00:00:42.191Z
 
 ## Products
 
 - [Le Marchand de Mémoire - Édition Française pour Passionnés de Littérature - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-marchand-de-memoire-french-edition): Buy Le Marchand de Mémoire - Édition Française pour Passionnés de Littérature for only €15.55 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:01Z
+  Updated: 2026-10-03T08:06:29Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-marchand-de-memoire-edition-francaise-pour-passionnes-de-litterature-4348928.webp?v=1778592635
   Price: 15,55 € EUR
 - [La Malédiction des Stensson : Thriller Historique Captivant sur la Lignée Suédoise en 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-malediction-des-stensson-un-thriller-historique-eblouissant-lascension-et-la-chute-dune-des-lignees-les-plus-puissantes-de-suede-nouveaute-livre-2025): Buy La Malédiction des Stensson : Thriller Historique Captivant sur la Lignée Suédoise en 2025 for only €31.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -32,56 +32,56 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-vie-est-un-voyage-que-lon-ne-fait-quune-fois-phrase-inspirante-voyage-3867326.webp?v=1778592861
   Price: 21,90 € EUR
 - [Le petit vieux qui a fait le tour du monde : une aventure inoubliable avec le petit vieux tour du monde - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-petit-vieux-qui-a-fait-le-tour-du-monde-3-fois): Buy Le petit vieux qui a fait le tour du monde : une aventure inoubliable avec le petit vieux tour du monde for only €24.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-petit-vieux-qui-a-fait-le-tour-du-monde-une-aventure-inoubliable-avec-le-petit-vieux-tour-du-monde-7399891.webp?v=1778593109
   Price: 24,90 € EUR
 - [Titre : Roman Maudit Thriller - Une Aventure captivante à ne pas manquer - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-roman-maudit-thriller-de-lavent): Buy Titre : Roman Maudit Thriller - Une Aventure captivante à ne pas manquer for only €23.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/titre-roman-maudit-thriller-une-aventure-captivante-a-ne-pas-manquer-4966872.webp?v=1778593041
   Price: 23,95 € EUR
 - [La Voix d'un ange : roman Danielle Steel captivant à succès, vendu à plus d'un milliard d'exemplaires - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-voix-dun-ange-roman-de-danielle-steel-lauteure-a-succes-avec-plus-dun-milliard-dexemplaires-vendus-a-travers-le-monde): Buy La Voix d'un ange : roman Danielle Steel captivant à succès, vendu à plus d'un milliard d'exemplaires for only €25.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:01Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-voix-dun-ange-roman-danielle-steel-captivant-a-succes-vendu-a-plus-dun-milliard-dexemplaires-2635135.webp?v=1778592554
   Price: 25,90 € EUR
 - [Je suis né du diable - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/je-suis-ne-du-diable): Buy Je suis né du diable for only €26.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/je-suis-ne-du-diable-9397490.webp?v=1778592677
   Price: 26,90 € EUR
 - [Cadeau Secret Santa original et surprenant pour les Fêtes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/secret-santa): Buy Cadeau Secret Santa original et surprenant pour les Fêtes for only €23.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:49Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/cadeau-secret-santa-original-et-surprenant-pour-les-fetes-6191359.webp?v=1778592368
   Price: 21,55 € EUR
 - [Les aventures de Tintin : Les Cigares du pharaon - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-aventures-de-tintin-les-cigares-du-pharaon): Buy Les aventures de Tintin : Les Cigares du pharaon for only €17.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:52:58Z
+  Updated: 2026-10-03T07:47:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-aventures-de-tintin-les-cigares-du-pharaon-2362329.webp?v=1778592641
   Price: 17,50 € EUR
 - [Les Aventures de Tintin, volume 5 : Le Lotus bleu - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-aventures-de-tintin-volume-5-le-lotus-bleu): Buy Les Aventures de Tintin, volume 5 : Le Lotus bleu for only €17.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-aventures-de-tintin-volume-5-le-lotus-bleu-1708668.webp?v=1778592690
   Price: 17,50 € EUR
 - [Le sceptre d'Ottokar - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-sceptre-dottokar): Buy Le sceptre d'Ottokar for only €17.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -95,91 +95,91 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-temple-du-soleil-9319306.webp?v=1778592382
   Price: 17,50 € EUR
 - [Le Trésor de Rackham le Rouge - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-tresor-de-rackham-le-rouge): Buy Le Trésor de Rackham le Rouge for only €17.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-tresor-de-rackham-le-rouge-6128585.webp?v=1778592497
   Price: 17,50 € EUR
 - [Les 7 boules de cristal - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-7-boules-de-cristal): Buy Les 7 boules de cristal for only €17.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-7-boules-de-cristal-6300808.webp?v=1778592739
   Price: 17,50 € EUR
 - [La Quête de l'oiseau du temps, tome 3 : Le Rige - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-quete-de-loiseau-du-temps-tome-3-le-rige): Buy La Quête de l'oiseau du temps, tome 3 : Le Rige for only €22.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-quete-de-loiseau-du-temps-tome-3-le-rige-7510443.webp?v=1778592640
   Price: 22,50 € EUR
 - [La Quête de l'oiseau du temps, tome 2 : Le Temple de l'oubli - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-quete-de-loiseau-du-temps-tome-2-le-temple-de-loubli): Buy La Quête de l'oiseau du temps, tome 2 : Le Temple de l'oubli for only €22.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:06Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-quete-de-loiseau-du-temps-tome-2-le-temple-de-loubli-1105722.webp?v=1778593001
   Price: 22,50 € EUR
 - [La Quête de l'oiseau du temps, tome 1 : La Conque de Ramor - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-quete-de-loiseau-du-temps-tome-1-la-conque-de-ramor): Buy La Quête de l'oiseau du temps, tome 1 : La Conque de Ramor for only €22.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-quete-de-loiseau-du-temps-tome-1-la-conque-de-ramor-2704224.webp?v=1778592607
   Price: 22,50 € EUR
 - [La Quête de l'oiseau du temps, tome 4 : L'Oeuf des ténèbres - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-quete-de-loiseau-du-temps-tome-4-loeuf-des-tenebres): Buy La Quête de l'oiseau du temps, tome 4 : L'Oeuf des ténèbres for only €22.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:15Z
+  Updated: 2026-10-03T08:50:02Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-quete-de-loiseau-du-temps-tome-4-loeuf-des-tenebres-9511482.webp?v=1778592495
   Price: 22,50 € EUR
 - [Matrice du destin ésotérisme – Guide définitif en numérologie et clés de votre âme - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-matrice-du-destin-la-guide-definitive-numerologie-et-les-cles-de-l-esoterisme-dechiffrez-le-code-de-votre-ame-grace-a-la-numerologie-vie-ainsi-que-vos-destinees-french-edition): Buy Matrice du destin ésotérisme – Guide définitif en numérologie et clés de votre âme for only €27.89 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:12Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/matrice-du-destin-esoterisme-guide-definitif-en-numerologie-et-cles-de-votre-ame-7817085.webp?v=1778592666
   Price: 27,89 € EUR
 - [Harry Potter Livre de sortilèges - Le Guide illustré non officiel pour la formation des Sorciers (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/harry-potter-livre-de-sortileges-le-guide-illustre-non-officiel-pour-la-formation-des-sorciers-french-edition): Buy Harry Potter Livre de sortilèges - Le Guide illustré non officiel pour la formation des Sorciers (French Edition) for only €15.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/harry-potter-livre-de-sortileges-le-guide-illustre-non-officiel-pour-la-formation-des-sorciers-french-edition-1262265.webp?v=1778592375
   Price: 15,99 € EUR
 - [Harry Potter Faits magiques - Le Livre illustré non officiel pour amuser les Sorciers (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/harry-potter-faits-magiques-le-livre-illustre-non-officiel-pour-amuser-les-sorciers-french-edition): Buy Harry Potter Faits magiques - Le Livre illustré non officiel pour amuser les Sorciers (French Edition) for only €15.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:16Z
+  Updated: 2026-10-03T08:50:02Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/harry-potter-faits-magiques-le-livre-illustre-non-officiel-pour-amuser-les-sorciers-french-edition-1301027.webp?v=1778592428
   Price: 15,99 € EUR
 - [POUDLARD, MANUEL A L'USAGE DES ELEVES DE PREMIERE ANNEE - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/poudlard-manuel-a-lusage-des-eleves-de-premiere-annee): Buy POUDLARD, MANUEL A L'USAGE DES ELEVES DE PREMIERE ANNEE for only €17.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/poudlard-manuel-a-lusage-des-eleves-de-premiere-annee-3269809.webp?v=1778592643
   Price: 17,95 € EUR
 - [La Librairie des livres interdits - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-librairie-des-livres-interdits): Buy La Librairie des livres interdits for only €15.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-librairie-des-livres-interdits-6527449.webp?v=1778592874
   Price: 15,00 € EUR
 - [Collector - La Librairie des livres interdits - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/collector-la-librairie-des-livres-interdits): Buy Collector - La Librairie des livres interdits for only €31.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:52:58Z
+  Updated: 2026-10-03T08:06:29Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/collector-la-librairie-des-livres-interdits-5649728.webp?v=1778592756
   Price: 29,45 € EUR
 - [La Symphonie des monstres - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-symphonie-des-monstres): Buy La Symphonie des monstres for only €14.30 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -200,21 +200,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/potager-dantan-cultiver-multiplier-et-tout-utiliser-savoir-faire-paysans-et-recettes-anciennes-pour-un-potager-simple-et-productif-4539508.webp?v=1778593049
   Price: 14,66 € EUR
 - [L'Egypte pharaonique - Un Royaume de lumière - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/legypte-pharaonique-un-royaume-de-lumiere-un-royaume-de-lumiere): Buy L'Egypte pharaonique - Un Royaume de lumière for only €54.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:01Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/legypte-pharaonique-un-royaume-de-lumiere-2584722.webp?v=1778592383
   Price: 54,95 € EUR
 - [Harry Potter et la Coupe de Feu - Édition illustrée interactive - Illustrations par Karl James Mountford - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/harry-potter-et-la-coupe-de-feu-edition-illustree-interactive-illustrations-par-karl-james-mountford): Buy Harry Potter et la Coupe de Feu - Édition illustrée interactive - Illustrations par Karl James Mountford for only €54.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:01Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Coffret Littéraire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/harry-potter-et-la-coupe-de-feu-edition-illustree-interactive-illustrations-par-karl-james-mountford-5659379.webp?v=1778592739
   Price: 54,50 € EUR
 - [Harry Potter et le prisonnier d'Azkaban - Édition illustrée interactive - Graphisme et illustrations de MinaLima - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/harry-potter-et-le-prisonnier-dazkaban-edition-illustree-interactive-graphisme-et-illustrations-de-minalima): Buy Harry Potter et le prisonnier d'Azkaban - Édition illustrée interactive - Graphisme et illustrations de MinaLima for only €47.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
@@ -228,35 +228,35 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/harry-potter-et-la-chambre-des-secrets-edition-illustree-interactive-graphisme-et-illustrations-de-minalima-8014489.webp?v=1778592383
   Price: 42,50 € EUR
 - [Harry Potter à l'école des sorciers - Édition illustrée interactive - Graphisme et illustrations de MinaLima - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/harry-potter-a-lecole-des-sorciers-edition-illustree-interactive-graphisme-et-illustrations-de-minalima): Buy Harry Potter à l'école des sorciers - Édition illustrée interactive - Graphisme et illustrations de MinaLima for only €30.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Coffret Littéraire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/harry-potter-a-lecole-des-sorciers-edition-illustree-interactive-graphisme-et-illustrations-de-minalima-8834189.webp?v=1778592984
   Price: 30,00 € EUR
 - [Croc-Blanc – Jack London - Texte Intégral - Traductions Paul Gruyer et Louis Postif - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/croc-blanc-jack-london-texte-integral-traductions-paul-gruyer-et-louis-postif-edition-illustree-174-pages-format-15-24-cm-x-22-86-cm-french-edition): Buy Croc-Blanc – Jack London - Texte Intégral - Traductions Paul Gruyer et Louis Postif for only €15.55 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-25T07:50:15Z
+  Updated: 2026-10-03T06:32:12Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/croc-blanc-jack-london-texte-integral-traductions-paul-gruyer-et-louis-postif-1496291.webp?v=1778592753
   Price: 15,55 € EUR
 - [Les Secrets de la Librairie : un roman policier cosy - Quand changer de vie mène tout droit au crime (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-secrets-de-la-librairie-un-roman-policier-cosy-quand-changer-de-vie-mene-tout-droit-au-crime-french-edition): Buy Les Secrets de la Librairie : un roman policier cosy - Quand changer de vie mène tout droit au crime (French Edition) for only €16.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-secrets-de-la-librairie-un-roman-policier-cosy-quand-changer-de-vie-mene-tout-droit-au-crime-french-edition-3315748.webp?v=1778592800
   Price: 16,95 € EUR
 - [Squelettes et robes de bal - Les Mystères d'Analyn Tome 2 – Shelly Ann Keller | Le Grimoire Ancien](https://legrimoireancien.com/products/squelettes-et-robes-de-bal-les-mysteres-danalyn-un-cosy-mystery-au-pays-de-la-feuille-derable): Analyn découvre des restes humains dans sa première maison à rénover. Cosy mystery automnal à Woodville, Canada. Tome 2 de la série Les Mystères d'Analyn.
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/squelettes-et-robes-de-bal-les-mysteres-danalyn-un-cosy-mystery-au-pays-de-la-feuille-derable-8386128.webp?v=1778592427
   Price: 19,99 € EUR
 - [Qui veut la peau du maudit Français ? Les mystères d'Analyn – Shelly Ann Keller | Le Grimoire Ancien](https://legrimoireancien.com/products/qui-veut-la-peau-du-maudit-francais-les-mysteres-danalyn-un-cozy-mystery-au-canada): Cosy mystery canadien : Analyn enquête sur les attaques contre le maudit Français de Woodville. Chaleureux, drôle et surprenant. Série Les Mystères d'Analyn.
-  Updated: 2026-09-24T05:41:21Z
+  Updated: 2026-10-03T08:50:02Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
@@ -284,14 +284,14 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/pavlova-poison-et-petales-sombres-un-roman-dautomne-cosy-mystery-francais-ou-humour-enquetes-gourmandes-et-crimes-tout-doux-se-melent-aux-secrets-cosy-de-amelia-9614518.webp?v=1778593003
   Price: 21,00 € EUR
 - [Macarons, meurtres et malice : un cosy mystery français mêlant humour, suspense et crime tout doux pour les amoureux de romans policiers gourmands (Les enquêtes cosy de Amélia Hartwell) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/macarons-meurtres-et-malice-un-cosy-mystery-francais-melant-humour-suspense-et-crime-tout-doux-pour-les-amoureux-de-romans-policiers-gourmands-les-les-enquetes-cosy-de-amelia-hartwell): Buy Macarons, meurtres et malice : un cosy mystery français mêlant humour, suspense et crime tout doux pour les amoureux de romans policiers gourmands (Les enquêtes cosy de Amélia Hartwell) for only €21.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:21Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/macarons-meurtres-et-malice-un-cosy-mystery-francais-melant-humour-suspense-et-crime-tout-doux-pour-les-amoureux-de-romans-policiers-gourmands-les-enquetes-cosy-1263937.webp?v=1778592495
   Price: 21,00 € EUR
 - [Meurtre dans les lavandes : un cosy mystery en Provence (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/meurtre-dans-les-lavandes-un-cosy-mystery-en-provence-french-edition): Buy Meurtre dans les lavandes : un cosy mystery en Provence (French Edition) for only €19.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -305,14 +305,14 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-livre-qui-fait-du-bien-a-lame-pratiques-pour-eveiller-votre-bien-etre-interieur-french-edition-2599842.webp?v=1778592860
   Price: 16,95 € EUR
 - [Le grand livre du développement personnel | 6 livres en 1 - améliorez-vous avec Intelligence émotionnelle, force mentale et TCC. - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-grand-livre-du-developpement-personnel-6-livres-en-1-ameliorez-vous-avec-intelligence-emotionnelle-force-mentale-et-tcc-apprenez-a-arreter-de-de-conversation-avancees-french-edition): Buy Le grand livre du développement personnel | 6 livres en 1 - améliorez-vous avec Intelligence émotionnelle, force mentale et TCC. for only €24.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:51Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-grand-livre-du-developpement-personnel-6-livres-en-1-ameliorez-vous-avec-intelligence-emotionnelle-force-mentale-et-tcc-1810092.webp?v=1778593058
   Price: 24,90 € EUR
 - [Glow Up : Nouveau Mindset, Nouvelle Toi (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/glow-up-nouveau-mindset-nouvelle-toi-french-edition): Buy Glow Up : Nouveau Mindset, Nouvelle Toi (French Edition) for only €20.86 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-contes-de-noel-dantan-contes-de-noel-classiques-du-xix-siecle-a-lire-en-famille-1508999.webp?v=1778592934
   Price: 19,90 € EUR
 - [Elina et le flocon magique : conte de Noël illustré pour les enfants (Les Contes Enneigés) - French Edition - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/elina-et-le-flocon-magique-conte-de-noel-illustre-pour-les-enfants-les-contes-enneiges-french-edition): Buy Elina et le flocon magique : conte de Noël illustré pour les enfants (Les Contes Enneigés) - French Edition for only €17.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:02Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -382,21 +382,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-guerisseuse-mystique-la-resurgence-du-savoir-paien-1625190.webp?v=1778592582
   Price: 30,00 € EUR
 - [2084 : la fin du monde - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/2084-la-fin-du-monde): Buy 2084 : la fin du monde for only €13.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:11Z
+  Updated: 2026-10-03T06:32:11Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/2084-la-fin-du-monde-5652144.webp?v=1778592872
   Price: 14,20 € EUR
 - [Les Ombres du monde : rentrée littéraire 2025, Sélection Prix Renaudot 2025, Prix Renaudot des Lycéens 2025 et Prix Jean Giono 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-ombres-du-monde-rentree-litteraire-2025-selection-prix-renaudot-2025-prix-renaudot-des-lyceens-2025-et-prix-jean-giono-2025): Buy Les Ombres du monde : rentrée littéraire 2025, Sélection Prix Renaudot 2025, Prix Renaudot des Lycéens 2025 et Prix Jean Giono 2025 for only €28.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:06Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-ombres-du-monde-rentree-litteraire-2025-selection-prix-renaudot-2025-prix-renaudot-des-lyceens-2025-et-prix-jean-giono-2025-9550480.webp?v=1778592435
   Price: 28,90 € EUR
 - [La Maison des Enfants : histoire vraie et fascinante de trois héros hollandais qui, à l’instar d’Oskar Schindler (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-maison-des-enfants-l-histoire-vraie-et-fascinante-de-trois-heros-hollandais-qui-a-l-instar-d-oskar-schindler-french-edition): Buy La Maison des Enfants : histoire vraie et fascinante de trois héros hollandais qui, à l’instar d’Oskar Schindler (French Edition) for only €18.70 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:21Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-secret-madeleine-les-chroniques-de-madeleine-french-edition-livre-1-8804806.webp?v=1778592375
   Price: 23,98 € EUR
 - [La Bible perdue des remèdes du Médecin oublié : le guide ultime des plantes médicinales (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-bible-perdue-des-remedes-du-medecin-oublie-le-guide-ultime-des-plantes-medicinales-huiles-essentielles-argent-colloidal-homeopathie-ayurveda-et-herboristerie-french-edition): Buy La Bible perdue des remèdes du Médecin oublié : le guide ultime des plantes médicinales (French Edition) for only €55.05 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:21Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -444,6 +444,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/rendez-vous-8392692.webp?v=1778592434
   Price: 50,00 € EUR
+- [Carte-cadeau Le Grimoire Ancien - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/carte-cadeau-le-grimoire-ancien): Buy Carte-cadeau Le Grimoire Ancien for only €10.00 at © 2026 Le Grimoire Ancien!
+  Updated: 2026-09-27T08:55:30Z
+  Vendor: Le Grimoire Ancien
+  Product Type: Carte-cadeau
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/carte-cadeau-le-grimoire-ancien-4115428.png?v=1778592695
+  - [10,00 €](https://legrimoireancien.com/products/carte-cadeau-le-grimoire-ancien?variant=56547615736133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/carte-cadeau-le-grimoire-ancien-4115428.png?v=1778592695
+    Price: 10,00 € EUR
+  - [25,00 €](https://legrimoireancien.com/products/carte-cadeau-le-grimoire-ancien?variant=56547615768901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/carte-cadeau-le-grimoire-ancien-4115428.png?v=1778592695
+    Price: 25,00 € EUR
+  - [50,00 €](https://legrimoireancien.com/products/carte-cadeau-le-grimoire-ancien?variant=56547615801669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/carte-cadeau-le-grimoire-ancien-4115428.png?v=1778592695
+    Price: 50,00 € EUR
+  - [100,00 €](https://legrimoireancien.com/products/carte-cadeau-le-grimoire-ancien?variant=56547615834437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/carte-cadeau-le-grimoire-ancien-4115428.png?v=1778592695
+    Price: 100,00 € EUR
 - [Le Sixième et le Septième livre de Moïse - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-sixieme-et-le-septieme-livre-de-moise): Buy Le Sixième et le Septième livre de Moïse for only €22.30 at © 2026 Le Grimoire Ancien!
   Updated: 2026-09-21T22:39:41Z
   Vendor: Le Grimoire Ancien
@@ -466,42 +488,42 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-librairie-de-la-seconde-chance-un-feel-good-reconfortant-pour-tous-les-amoureux-des-livres-femme-actuelle-1820022.webp?v=1778592495
   Price: 12,50 € EUR
 - [Le magasin des jouets cassés - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-magasin-des-jouets-casses): Buy Le magasin des jouets cassés for only €13.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-magasin-des-jouets-casses-9150499.webp?v=1778592931
   Price: 13,90 € EUR
 - [La Librairie Morisaki - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-librairie-morisaki): Buy La Librairie Morisaki for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-librairie-morisaki-3378944.webp?v=1778592503
   Price: 13,95 € EUR
 - [La bibliothèque des rêves secrets - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-bibliotheque-des-reves-secrets): Buy La bibliothèque des rêves secrets for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:11Z
+  Updated: 2026-10-03T02:15:46Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-bibliotheque-des-reves-secrets-5724818.webp?v=1778592615
   Price: 13,95 € EUR
 - [Un lundi parfum matcha - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/un-lundi-parfum-matcha): Buy Un lundi parfum matcha for only €13.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:06Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/un-lundi-parfum-matcha-9297600.webp?v=1778593111
   Price: 13,00 € EUR
 - [Le Dieu des Bois : GRAND PRIX DES LECTRICES ELLE 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-dieu-des-bois-grand-prix-des-lectrices-elle-2025): Buy Le Dieu des Bois : GRAND PRIX DES LECTRICES ELLE 2025 for only €29.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:01Z
+  Updated: 2026-10-03T08:06:29Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-dieu-des-bois-grand-prix-des-lectrices-elle-2025-8854745.webp?v=1778592505
   Price: 29,00 € EUR
 - [La Maison vide - Prix Goncourt 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-maison-vide-prix-goncourt-2025): Buy La Maison vide - Prix Goncourt 2025 for only €30.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:06Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -550,14 +572,14 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/cuisine-sauvage-mes-recettes-feeriques-le-grimoire-enchante-3796548.webp?v=1778592382
   Price: 12,46 € EUR
 - [La Maîtrise de la persuasion : votre attitude vaut des millions - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-maitrise-de-la-persuasion-votre-attitude-vaut-des-millions): Buy La Maîtrise de la persuasion : votre attitude vaut des millions for only €29.80 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-maitrise-de-la-persuasion-votre-attitude-vaut-des-millions-2898326.webp?v=1778592314
   Price: 29,80 € EUR
 - [L'Art de la Conversation | 4 Livres en 1 : contrôler l'anxiété sociale, décoder le langage corporel (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lart-de-la-conversation-4-livres-en-1-controler-lanxiete-sociale-decoder-le-langage-corporel-acquerir-les-tactiques-de-persuasion-maitriser-la-obtenir-le-respect-social-french-edition): Buy L'Art de la Conversation | 4 Livres en 1 : contrôler l'anxiété sociale, décoder le langage corporel (French Edition) for only €23.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -578,7 +600,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/lempire-des-marionnettistes-la-societe-secrete-qui-tire-les-ficelles-de-leurope-revelations-dune-journaliste-dinvestigation-1332637.webp?v=1778592874
   Price: 19,34 € EUR
 - [L'Encyclopédie des Remèdes à base de Plantes : 7 Livres en 1 - Histoire, propriétés & utilisations des plantes médicinales - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lencyclopedie-des-remedes-a-base-de-plantes-7-livres-en-1-histoire-proprietes-utilisations-des-plantes-medicinales-conseils-pratiques-pour-la-prevention-et-le-bien-etre-recettes-ebook-calend): Buy L'Encyclopédie des Remèdes à base de Plantes : 7 Livres en 1 - Histoire, propriétés & utilisations des plantes médicinales for only €24.97 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-25T07:50:15Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
@@ -592,7 +614,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/hokusai-le-fou-de-dessin-4530419.webp?v=1778592435
   Price: 32,00 € EUR
 - [Hokusai : 1760 - 1849 (Basic Art) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/hokusai-1760-1849-basic-art): Buy Hokusai : 1760 - 1849 (Basic Art) for only €20.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:01Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -613,42 +635,42 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/coffret-les-oiseaux-sur-un-fond-inspir-du-papier-japonais.png?v=1790414351
   Price: 29,95 € EUR
 - [Les fleurs par les grands maîtres de l'estampe japonaise (coffret) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-fleurs-par-les-grands-maitres-de-lestampe-japonaise-coffret): Buy Les fleurs par les grands maîtres de l'estampe japonaise (coffret) for only €29.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:11Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-fleurs-par-les-grands-maitres-de-lestampe-japonaise-coffret-7207594.webp?v=1778592999
   Price: 29,95 € EUR
 - [La Rivière à l'envers en bande dessinée - Tome 2 : Hannah - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-riviere-a-lenvers-en-bande-dessinee-tome-2-hannah): Buy La Rivière à l'envers en bande dessinée - Tome 2 : Hannah for only €10.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-riviere-a-lenvers-en-bande-dessinee-tome-2-hannah-5600702.webp?v=1778592246
   Price: 10,95 € EUR
 - [La rivière à l'envers - Tome 1 : Tomek - version Dyscool - Roman adapté aux Dys - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-riviere-a-lenvers-tome-1-tomek-version-dyscool-roman-adapte-aux-dys): Buy La rivière à l'envers - Tome 1 : Tomek - version Dyscool - Roman adapté aux Dys for only €19.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-riviere-a-lenvers-tome-1-tomek-version-dyscool-roman-adapte-aux-dys-7996192.webp?v=1778592931
   Price: 19,50 € EUR
 - [LE ROYAUME DE KENSUKE - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-royaume-de-kensuke): Buy LE ROYAUME DE KENSUKE for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-royaume-de-kensuke-8142089.webp?v=1778592750
   Price: 13,95 € EUR
 - [Vendredi ou la vie sauvage - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/vendredi-ou-la-vie-sauvage): Buy Vendredi ou la vie sauvage for only €11.20 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/vendredi-ou-la-vie-sauvage-3014710.webp?v=1778593111
   Price: 11,20 € EUR
 - [Personne ne doit savoir (Prix des lectrices 2023) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/personne-ne-doit-savoir-prix-des-lectrices-2023): Buy Personne ne doit savoir (Prix des lectrices 2023) for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -690,21 +712,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/tant-que-le-cafe-est-encore-chaud-tome-1-5011390.webp?v=1778592547
   Price: 23,90 € EUR
 - [Le manuscrit perdu des Chevaliers : un thriller historique captivant au cœur du Moyen Âge - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-manuscrit-perdu-des-chevaliers-un-thriller-historique-captivant-au-coeur-du-moyen-age-melant-croisades-legendes-et-un-heritage-interdit-ressurgissant-dans-le-present): Buy Le manuscrit perdu des Chevaliers : un thriller historique captivant au cœur du Moyen Âge for only €21.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-manuscrit-perdu-des-chevaliers-un-thriller-historique-captivant-au-coeur-du-moyen-age-3259397.webp?v=1778593109
   Price: 21,00 € EUR
 - [La Tatoueuse de Jaipur (Grand Prix du Roman historique 2022) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-tatoueuse-de-jaipur-grand-prix-du-roman-historique-2022): Buy La Tatoueuse de Jaipur (Grand Prix du Roman historique 2022) for only €13.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:01Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-tatoueuse-de-jaipur-grand-prix-du-roman-historique-2022-3212030.webp?v=1778592565
   Price: 13,90 € EUR
 - [Tenir debout - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/tenir-debout): Buy Tenir debout for only €15.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -718,14 +740,14 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/a-lombre-de-winnicott-5754299.webp?v=1778592253
   Price: 13,90 € EUR
 - [Notre-Dame de Paris - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/notre-dame-de-paris): Buy Notre-Dame de Paris for only €15.80 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/notre-dame-de-paris-8529550.webp?v=1778593112
   Price: 15,80 € EUR
 - [Ancêtres : retrouver la sérénité en se reconnectant à ses racines - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/ancetres-retrouver-la-serenite-en-se-reconnectant-a-ses-racines): Buy Ancêtres : retrouver la sérénité en se reconnectant à ses racines for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -739,28 +761,28 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-secrets-des-ancetres-9329562.webp?v=1778592373
   Price: 29,88 € EUR
 - [Les Clés de votre destin - Inclus : un jeu divinatoire de 24 cartes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-cles-de-votre-destin-inclus-un-jeu-divinatoire-de-24-cartes): Buy Les Clés de votre destin - Inclus : un jeu divinatoire de 24 cartes for only €34.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:02Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-cles-de-votre-destin-inclus-un-jeu-divinatoire-de-24-cartes-6608501.webp?v=1778592503
   Price: 34,90 € EUR
 - [L'Oracle des Mémoires du Sakura Éternel - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/loracle-des-memoires-du-sakura-eternel): Buy L'Oracle des Mémoires du Sakura Éternel for only €49.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:08Z
   Vendor: Le Grimoire Ancien
   Product Type: Coffret Divinatoire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/loracle-des-memoires-du-sakura-eternel-3997462.webp?v=1778592325
   Price: 49,90 € EUR
 - [L'Oracle de la Forêt de Gaïa - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/loracle-de-la-foret-de-gaia): Buy L'Oracle de la Forêt de Gaïa for only €49.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:10Z
+  Updated: 2026-10-03T06:32:06Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/loracle-de-la-foret-de-gaia-4898386.webp?v=1778592381
   Price: 49,90 € EUR
 - [L'oracle de la prophétie du feu sacré - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/loracle-de-la-prophetie-du-feu-sacre): Buy L'oracle de la prophétie du feu sacré for only €49.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:10Z
+  Updated: 2026-10-03T06:32:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -781,7 +803,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/lumina-tarot-edition-francaise-coffret-9462672.webp?v=1778592850
   Price: 23,00 € EUR
 - [This Might Hurt Tarot - Coffret - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/this-might-hurt-tarot-coffret): Buy This Might Hurt Tarot - Coffret for only €17.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:11Z
+  Updated: 2026-10-03T02:15:53Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -837,7 +859,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/loracle-des-contrats-dames-comprendre-et-debloquer-vos-relations-amoureuses-3736942.webp?v=1778592253
   Price: 29,90 € EUR
 - [Le Grand Oracle des réponses célestes – Oracle divinatoire français de 110 cartes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-grand-oracle-des-reponses-celestes-oracle-divinatoire-francais-de-110-cartes-pour-des-reponses-simples-immediates-et-precises-carte-au-petit-format): Buy Le Grand Oracle des réponses célestes – Oracle divinatoire français de 110 cartes for only €29.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:11Z
+  Updated: 2026-10-03T06:32:07Z
   Vendor: Le Grimoire Ancien
   Product Type: Coffret Divinatoire
   Availability: Available
@@ -970,21 +992,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/legendes-et-contes-chinois-histoires-traditionnelles-mythes-et-recits-populaires-de-chine-6095068.webp?v=1778592375
   Price: 18,90 € EUR
 - [Contes et Légendes de Bretagne - Voyages au cœur des Légendes celtiques - 22 histoires féeriques - Contes illustrés en couleur - Récits empreints de magie et de mystère (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/contes-et-legendes-de-bretagne-voyages-au-coeur-des-legendes-celtiques-22-histoires-feeriques-contes-illustres-en-couleur-recits-empreints-de-magie-et-de-mystere-french-edition): Buy Contes et Légendes de Bretagne - Voyages au cœur des Légendes celtiques - 22 histoires féeriques - Contes illustrés en couleur - Récits empreints de magie et de mystère (French Edition) for only €20.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:11Z
+  Updated: 2026-10-03T08:49:59Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/contes-et-legendes-de-bretagne-voyages-au-coeur-des-legendes-celtiques-22-histoires-feeriques-co_9889_1.webp?v=1780414053
   Price: 20,90 € EUR
 - [Histoires Vraies de Fantômes – Erick Fearson | Paranormal & Enquêtes | Le Grimoire Ancien](https://legrimoireancien.com/products/histoires-vraies-de-fantomes-a-ne-surtout-pas-lire-le-soir): Erick Fearson, chasseur de fantômes, compile ses cas les plus troublants : Canada, Écosse, France, USA. 408 pages de témoignages authentiques et vérifiés.
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/histoires-vraies-de-fantomes-a-ne-surtout-pas-lire-le-soir-3324215.webp?v=1778592625
   Price: 21,90 € EUR
 - [Histoires paranormales de France - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/histoires-paranormales-de-france): Buy Histoires paranormales de France for only €17.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1005,7 +1027,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/ovni-chronique-dune-divulgation-imminente-7771188.webp?v=1778593114
   Price: 27,90 € EUR
 - [Le petit Larousse illustré des légendes et des mythes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-petit-larousse-illustre-des-legendes-et-des-mythes): Buy Le petit Larousse illustré des légendes et des mythes for only €32.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:51Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1019,7 +1041,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-petit-larousse-illustre-de-lesoterisme-3783812-_1.webp?v=1780414037
   Price: 27,00 € EUR
 - [Sorcellerie - La Bibliothèque de L'ésotérisme - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/sorcellerie-la-bibliotheque-de-lesoterisme): Buy Sorcellerie - La Bibliothèque de L'ésotérisme for only €35.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:11Z
+  Updated: 2026-10-03T08:06:30Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1075,21 +1097,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-manuel-depictete-lenchiridion-le-chemin-vers-le-stoicisme-french-edition-2480005.webp?v=1778592991
   Price: 10,99 € EUR
 - [Le secret des secrets - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-secret-des-secrets): Buy Le secret des secrets for only €30.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-secret-des-secrets-8061639.webp?v=1778592580
   Price: 30,90 € EUR
 - [Le Symbole perdu - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-symbole-perdu): Buy Le Symbole perdu for only €15.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:51Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-symbole-perdu-9709704.webp?v=1778593053
   Price: 15,90 € EUR
 - [Anges et démons - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/anges-et-demons): Buy Anges et démons for only €10.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1131,49 +1153,49 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-elus-de-dieu-mystere-grace-et-mission-2077365.webp?v=1778592495
   Price: 11,44 € EUR
 - [La Talentueuse – Tome 2 de "Le Fil de la Vie" | Sandrine Meilland-Rey](https://legrimoireancien.com/products/la-talentueuse-un-roman-historique-lumineux-et-bouleversant): Grenoble, 1921 : Rose Espit dirige la création d'une ganterie de luxe dans la France des Années folles. Roman historique captivant de Sandrine Meilland-Rey.
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-talentueuse-un-roman-historique-lumineux-et-bouleversant-7997589.webp?v=1778592496
   Price: 21,90 € EUR
 - [L'Audacieuse – Tome 1 de "Le Fil de la Vie" | Sandrine Meilland-Rey](https://legrimoireancien.com/products/laudacieuse): Isère, 1918 : veuve après l'armistice, Rose ose tout reconstruire grâce à son talent de brodeuse. Tome 1 de la saga historique de Sandrine Meilland-Rey.
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/laudacieuse-7151496.webp?v=1778593044
   Price: 21,90 € EUR
 - [La Librairie des faux-semblants (Grand Prix du Roman Historique 2025) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-librairie-des-faux-semblants-grand-prix-du-roman-historique-2025): Buy La Librairie des faux-semblants (Grand Prix du Roman Historique 2025) for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:50Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-librairie-des-faux-semblants-grand-prix-du-roman-historique-2025-1107255.webp?v=1778592579
   Price: 13,95 € EUR
 - [Les filles de la chocolaterie - Le best-seller italien ! La saga de la célèbre chocolaterie Zaini - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-filles-de-la-chocolaterie-le-best-seller-italien-la-saga-de-la-celebre-chocolaterie-zaini): Buy Les filles de la chocolaterie - Le best-seller italien ! La saga de la célèbre chocolaterie Zaini for only €26.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:05Z
+  Updated: 2026-10-03T08:06:29Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-filles-de-la-chocolaterie-le-best-seller-italien-la-saga-de-la-celebre-chocolaterie-zaini-91_4422_1.webp?v=1780414018
   Price: 26,90 € EUR
 - [La librairie disparue - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-librairie-disparue): Buy La librairie disparue for only €13.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:01Z
+  Updated: 2026-10-03T04:03:56Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-librairie-disparue-6509116.webp?v=1778592503
   Price: 13,90 € EUR
 - [Les Sorcières du phare (Prix des lectrices 2025) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-sorcieres-du-phare-prix-des-lectrices-2025): Buy Les Sorcières du phare (Prix des lectrices 2025) for only €13.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:01Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-sorcieres-du-phare-prix-des-lectrices-2025-1559532-_1.webp?v=1780414013
   Price: 13,95 € EUR
 - [Du thé pour les fantômes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/du-the-pour-les-fantomes): Buy Du thé pour les fantômes for only €13.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1187,7 +1209,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-peuple-des-mots-une-quete-initiatique-drole-et-touchante-pour-les-amoureux-du-langage-et-des-_9083_1.webp?v=1780414004
   Price: 23,90 € EUR
 - [L'homme qui lisait des livres - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lhomme-qui-lisait-des-livres): Buy L'homme qui lisait des livres for only €23.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1236,56 +1258,56 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-portrait-de-dorian-gray-bibliotheque-rba-7414230-_1.webp?v=1780413987
   Price: 12,95 € EUR
 - [Le singe et la fleur de lotus : 52 histoires bouddhistes qui vont changer votre vie (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-singe-et-la-fleur-de-lotus-52-histoires-bouddhistes-qui-vont-changer-votre-vie-developpement-personnel-et-eveil-spirituel-french-edition): Buy Le singe et la fleur de lotus : 52 histoires bouddhistes qui vont changer votre vie (French Edition) for only €19.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-singe-et-la-fleur-de-lotus-52-histoires-bouddhistes-qui-vont-changer-votre-vie-french-edition-4651143.webp?v=1778592620
   Price: 19,95 € EUR
 - [La grenouille et le nénuphar : 52 contes taoïstes pour éclairer votre vie (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-grenouille-et-le-nenuphar-52-contes-taoistes-pour-eclairer-votre-vie-epanouissement-personnel-et-quete-spirituelle-french-edition): Buy La grenouille et le nénuphar : 52 contes taoïstes pour éclairer votre vie (French Edition) for only €19.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-25T07:50:13Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-grenouille-et-le-nenuphar-52-contes-taoistes-pour-eclairer-votre-vie-french-edition-1818214.webp?v=1778592503
   Price: 19,90 € EUR
 - [IKIGAI et philosophie japonaise - 3 livres en 1 : Ikigai, Kaizen et Shinrin-yoku (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/ikigai-et-philosophie-japonaise-3-livres-en-1-ikigai-kaizen-et-shinrin-yoku-les-secrets-du-bonheur-et-de-la-philosophie-japonaise-pour-une-vie-trouvant-le-sens-de-la-vie-french-edition): Buy IKIGAI et philosophie japonaise - 3 livres en 1 : Ikigai, Kaizen et Shinrin-yoku (French Edition) for only €18.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:10Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/ikigai-et-philosophie-japonaise-3-livres-en-1-ikigai-kaizen-et-shinrin-yoku-french-edition-5895695.webp?v=1778592315
   Price: 18,90 € EUR
 - [IKIGAI et les 12 piliers de la philosophie japonaise - 12 Livres en 1 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/ikigai-et-les-12-piliers-de-la-philosophie-japonaise-12-livres-en-1-un-parcours-de-developpement-personnel-et-spirituel-pour-reveler-votre-plein-trouver-votre-raison-d-etre): Buy IKIGAI et les 12 piliers de la philosophie japonaise - 12 Livres en 1 for only €19.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:16Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/ikigai-et-les-12-piliers-de-la-philosophie-japonaise-12-livres-en-1-9074156.webp?v=1778592699
   Price: 19,99 € EUR
 - [Le Pouvoir intérieur : développer la confiance, l'estime et l'amour de soi - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-pouvoir-interieur-developper-la-confiance-lestime-et-lamour-de-soi-developpement-personnel-connaissance-de-soi-psychologie-positive): Buy Le Pouvoir intérieur : développer la confiance, l'estime et l'amour de soi for only €23.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-pouvoir-interieur-developper-la-confiance-lestime-et-lamour-de-soi-7580159.webp?v=1778592936
   Price: 23,99 € EUR
 - [L'estime de soi : s'aimer pour mieux vivre avec les autres - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lestime-de-soi-saimer-pour-mieux-vivre-avec-les-autres): Buy L'estime de soi : s'aimer pour mieux vivre avec les autres for only €15.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:56Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/lestime-de-soi-saimer-pour-mieux-vivre-avec-les-autres-1059914.webp?v=1778592247
   Price: 15,50 € EUR
 - [On ne peut pas plaire à tout le monde - Un livre sur la confiance en soi (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/on-ne-peut-pas-plaire-a-tout-le-monde-un-livre-sur-la-confiance-en-soi-confiance-en-soi-changement-reussite-et-developpement-personnel-french-edition): Buy On ne peut pas plaire à tout le monde - Un livre sur la confiance en soi (French Edition) for only €18.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/on-ne-peut-pas-plaire-a-tout-le-monde-un-livre-sur-la-confiance-en-soi-french-edition-2146469.webp?v=1778592187
   Price: 18,99 € EUR
 - [Parce que tu es une femme merveilleuse : tu mérites de t'aimer et de trouver le bonheur dès maintenant ! Un baume au cœur, un livre de développement personnel pour toutes les femmes. (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/parce-que-tu-es-une-femme-merveilleuse-tu-merites-de-taimer-et-de-trouver-le-bonheur-des-maintenant-un-baume-au-coeur-un-livre-de-developpement-personnel-pour-toutes-les-femmes-french-edition): Buy Parce que tu es une femme merveilleuse : tu mérites de t'aimer et de trouver le bonheur dès maintenant ! Un baume au cœur, un livre de développement personnel pour toutes les femmes. (French Edition) for only €17.25 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-23T23:50:11Z
+  Updated: 2026-10-03T02:15:52Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1299,21 +1321,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-respiration-pour-la-maitrise-de-soi-la-voie-du-biohacking-1466615.webp?v=1778592201
   Price: 18,90 € EUR
 - [Pensées pour moi-même - Suivi du manuel d'Epictète - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/pensees-pour-moi-meme-suivi-de-manuel-depictete): Buy Pensées pour moi-même - Suivi du manuel d'Epictète for only €8.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/pensees-pour-moi-meme-suivi-du-manuel-depictete-3433426.webp?v=1778592627
   Price: 8,90 € EUR
 - [Créer le meilleur de Soi - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/creer-le-meilleur-de-soi): Buy Créer le meilleur de Soi for only €37.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/creer-le-meilleur-de-soi-9393734-_1.webp?v=1780413982
   Price: 37,00 € EUR
 - [Les principes toltèques appliqués aux enfants - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-principes-tolteques-appliques-aux-enfants): Buy Les principes toltèques appliqués aux enfants for only €13.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1530,21 +1552,21 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/marie-madeleine-femme-pascale-de-la-louange-prophetique-aux-noces-du-messie-7037207.webp?v=1778592819
   Price: 25,00 € EUR
 - [La voix des êtres de lumière - Comprendre les messages de vos guides spirituels, décrypter les signes de l’au-delà, se connecter à vos anges gardiens (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-voix-des-etres-de-lumiere-comprendre-les-messages-de-vos-guides-spirituels-decrypter-les-signes-de-l-au-dela-se-connecter-a-vos-anges-gardiens-une-vie-spirituelle-epanouie-french-edition): Buy La voix des êtres de lumière - Comprendre les messages de vos guides spirituels, décrypter les signes de l’au-delà, se connecter à vos anges gardiens (French Edition) for only €20.92 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:08Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-voix-des-etres-de-lumiere-comprendre-les-messages-de-vos-guides-spirituels-decrypter-les-signes-de-lau-dela-se-connecter-a-vos-anges-gardiens-french-edition-6111430.webp?v=1778593056
   Price: 20,92 € EUR
 - [Sept jours pour vivre - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/sept-jours-pour-vivre): Buy Sept jours pour vivre for only €19.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/sept-jours-pour-vivre-3597896.webp?v=1778593049
   Price: 19,90 € EUR
 - [L'Agence des miracles - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lagence-des-miracles): Buy L'Agence des miracles for only €13.10 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:06Z
+  Updated: 2026-10-03T06:32:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1558,35 +1580,35 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/therapie-a-emporter-50-exercices-et-outils-issus-de-la-psychologie-3671445.webp?v=1778592499
   Price: 19,90 € EUR
 - [Coeur-d'amande - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/coeur-damande): Buy Coeur-d'amande for only €13.70 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:56:10Z
+  Updated: 2026-10-03T07:47:11Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/coeur-damande-7989554.webp?v=1778592136
   Price: 13,70 € EUR
 - [L'Homme des Mille Détours - Nouveauté poche 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lhomme-des-mille-detours-nouveaute-poche-2025): Buy L'Homme des Mille Détours - Nouveauté poche 2025 for only €13.30 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/lhomme-des-mille-detours-nouveaute-poche-2025-5898757-_1.webp?v=1780413925
   Price: 13,30 € EUR
 - [Par la force des choses - Histoire d'amour - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/par-la-force-des-choses-nouveaute-2024-histoire-damour): Buy Par la force des choses - Histoire d'amour for only €13.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:16Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/par-la-force-des-choses-histoire-damour-1565649.webp?v=1778592868
   Price: 13,90 € EUR
 - [La Cité aux murs incertains - Le nouveau roman de Haruki Murakami – son dernier livre best-seller traduit en version française – nouveauté 2025 - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-cite-aux-murs-incertains-le-nouveau-roman-de-haruki-murakami-son-dernier-livre-best-seller-traduit-en-version-francaise-nouveaute-2025): Buy La Cité aux murs incertains - Le nouveau roman de Haruki Murakami – son dernier livre best-seller traduit en version française – nouveauté 2025 for only €30.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/la-cite-aux-murs-incertains-le-nouveau-roman-de-haruki-murakami-son-dernier-livre-best-seller-traduit-en-version-francaise-nouveaute-2025-2735494.webp?v=1778592863
   Price: 30,00 € EUR
 - [La Vallée de la Lumière - Nouveauté 2025 - Une aventure sur la résilience, l'amitié et le courage de se réinventer - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/la-vallee-de-la-lumiere-nouveaute-2025-une-aventure-sur-la-resiliance-lamitie-et-le-courage-de-se-reinventer): Buy La Vallée de la Lumière - Nouveauté 2025 - Une aventure sur la résilience, l'amitié et le courage de se réinventer for only €17.65 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:01Z
+  Updated: 2026-10-03T08:50:01Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1600,28 +1622,28 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/petit-livre-noir-de-lauto-sabotage-le-seul-livre-de-developpement-personnel-qui-ne-vous-motivera-pas-malgre-sa-couverture-rigide-de-toute-beaute-french-edition-7574017.webp?v=1778592573
   Price: 22,90 € EUR
 - [Le Club des apprenties égoïstes - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-club-des-apprenties-egoistes): Buy Le Club des apprenties égoïstes for only €16.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:01Z
+  Updated: 2026-10-03T08:06:31Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-club-des-apprenties-egoistes-6828873.webp?v=1778592434
   Price: 16,90 € EUR
 - [Les Sept châtiments - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/les-sept-chatiments): Buy Les Sept châtiments for only €14.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:26Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/les-sept-chatiments-9981127-_1.webp?v=1780413919
   Price: 14,90 € EUR
 - [Le Passager sans visage - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-passager-sans-visage): Buy Le Passager sans visage for only €13.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:02Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-passager-sans-visage-2328602-_1.webp?v=1780413914
   Price: 13,00 € EUR
 - [Le Voyage – Quentin Breton | Roman initiatique et spirituel](https://legrimoireancien.com/products/le-voyage): Amal part seul dans la nature sauvage pour apprendre à aimer sans souffrir. Roman initiatique poétique et spirituel de Quentin Breton, inspiré d'une histoire vraie.
-  Updated: 2026-09-24T00:22:25Z
+  Updated: 2026-10-03T02:54:25Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
@@ -1649,35 +1671,35 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/100-faits-troublants-sur-les-ovnis-phenomenes-paranormaux-et-ovnis-french-edition-8263495-_1.webp?v=1780413906
   Price: 19,90 € EUR
 - [Encyclopédie des races extraterrestres illustrée (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/encyclopedie-des-races-extraterrestres-illustree-french-edition): Buy Encyclopédie des races extraterrestres illustrée (French Edition) for only €23.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/encyclopedie-des-races-extraterrestres-illustree-french-edition-1439944-_1.webp?v=1780413901
   Price: 23,99 € EUR
 - [Le Don des Etoiles - Guide des mondes extraterrestres (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-don-des-etoiles-guide-des-mondes-extraterrestres-french-edition): Buy Le Don des Etoiles - Guide des mondes extraterrestres (French Edition) for only €29.50 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:56Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-don-des-etoiles-guide-des-mondes-extraterrestres-french-edition-2284275.webp?v=1778592924
   Price: 29,50 € EUR
 - [Le Grand Oracle des Révélations - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-grand-oracle-des-revelations): Buy Le Grand Oracle des Révélations for only €33.00 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:58Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/le-grand-oracle-des-revelations-9423767.webp?v=1778593002
   Price: 33,00 € EUR
 - [L'Alchimiste - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/lalchimiste): Buy L'Alchimiste for only €12.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T02:53:00Z
+  Updated: 2026-10-03T07:47:12Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/lalchimiste-2962204.webp?v=1778592127
   Price: 12,90 € EUR
 - [Mini calendrier - 365 jours avec Harry Potter - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/mini-calendrier-365-jours-avec-harry-potter): Buy Mini calendrier - 365 jours avec Harry Potter for only €13.90 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1712,7 +1734,7 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/relaxant-coloriage-japon-101-paysages-et-jardins-japonais-a-colorier-coloriage-relaxant-french-edition-3595634.webp?v=1778592936
   Price: 13,59 € EUR
 - [Le guide ultime de calligraphie moderne et lettrage à la main pour débutants (French Edition) - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/le-guide-ultime-de-calligraphie-moderne-et-lettrage-a-la-main-pour-debutants-french-edition): Buy Le guide ultime de calligraphie moderne et lettrage à la main pour débutants (French Edition) for only €16.99 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T00:46:05Z
+  Updated: 2026-10-03T04:03:57Z
   Vendor: Le Grimoire Ancien
   Product Type: 
   Availability: Available
@@ -1740,91 +1762,84 @@
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/savoirs-caches-regards-scientifiques-sur-lesoterisme-3530674-_1.webp?v=1780413891
   Price: 28,00 € EUR
 - [Pandemonium - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/pandemonium): Buy Pandemonium for only €44.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:41:02Z
+  Updated: 2026-10-03T08:50:02Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/pandemonium-4943698-_1.webp?v=1780413887
   Price: 44,95 € EUR
 - [MACABRE - Traité illustre de la mort - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/macabre-traite-illustre-de-la-mort): Buy MACABRE - Traité illustre de la mort for only €44.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-24T05:48:48Z
+  Updated: 2026-10-03T08:49:59Z
   Vendor: Le Grimoire Ancien
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/macabre-traite-illustre-de-la-mort-2742037.webp?v=1778592624
   Price: 44,95 € EUR
-- [Occulte, sorcellerie, magie et alchimie de l'Antiquité à nos jours - © 2026 Le Grimoire Ancien](https://legrimoireancien.com/products/occulte-sorcellerie-magie-et-alchimie-de-lantiquite-a-nos-jours): Buy Occulte, sorcellerie, magie et alchimie de l'Antiquité à nos jours for only €19.95 at © 2026 Le Grimoire Ancien!
-  Updated: 2026-09-22T01:18:21Z
-  Vendor: Le Grimoire Ancien
-  Product Type: Livre
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1007/1333/3061/files/occulte-sorcellerie-magie-et-alchimie-de-lantiquite-a-nos-jours-5662300.webp?v=1778592427
-  Price: 19,95 € EUR
-[List Continued](https://legrimoireancien.com/a/llms-agent/llms.txt?shop=aes21i-sd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTU4NjUyMjY2MTE4OSwibGFzdF92YWx1ZSI6IjE1NTg2NTIyNjYxMTg5In0%3D)
+[List Continued](https://legrimoireancien.com/a/llms-agent/llms.txt?shop=aes21i-sd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTU4NjQ5OTY5MDgyMSwibGFzdF92YWx1ZSI6IjE1NTg2NDk5NjkwODIxIn0%3D)
 
 ## Collections
 
 - [Romans mystiques : explorez des récits captivants et envoûtants](https://legrimoireancien.com/collections/romans): Bienvenue dans notre collection exclusive de romans mystiques, où chaque livre est une invitation à l'explorateur des mondes fascinants, peuplés de secrets et de mystères. Que vous soyez un passionné(e) de fantastique ou que vous cherchiez simplement un moyen d'échapper au quotidien, nos romans vous transporteront dans des univers ensorcelants qui éveilleront votre imagination. Nos romans mystiques se distinguent par des récits déroutants et captivants, explorant la magie, le surnaturel et l'inexplicable. Plongez dans chaque page et laissez-vous envoûter par les personnages intrigants et les intrigues palpitantes qui s'y cachent. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:21:48Z
-  Total Products: 280
+  Updated: 2026-10-01T08:28:28Z
+  Total Products: 284
 - [Lectures inspirantes pour Soi](https://legrimoireancien.com/collections/murmure-de-lectures-pour-soi): Comment nos Lectures inspirantes peuvent changer votre vie Chaque livre de cette collection est une porte ouverte vers un nouveau monde de possibilités. L'impact de la lecture sur votre bien-être et votre état d'esprit est immense. Que vous souhaitiez surmonter des obstacles, renforcer votre confiance en vous, ou simplement explorer de nouvelles philosophies, nos conférences inspirantes offrent des récits puissants et des enseignements suscitant la réflexion. Les histoires de succès, les conseils pratiques et les réflexions profondes vous aideront à bâtir la vie que vous méritez. En lisant régulièrement, vous cultivez une mentalité positive, ce qui est essentiel dans un monde en constante évolution. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T18:29:00Z
-  Total Products: 229
+  Updated: 2026-10-03T11:39:16Z
+  Total Products: 231
 - [BD - Dessins & Art : découvrez l'univers créatif](https://legrimoireancien.com/collections/bandes-dessinees): Bienvenue dans notre collection Art - BD - Dessins, où la créativité rencontre l'imagination au service d'œuvres vibrantes et inspirantes. Chaque pièce de cette collection est le fruit d'un travail méticuleux, conçu pour capturer l'essence de l'art du dessin animé et de la bande dessinée. Que vous soyez un amateur ou un collectionneur, notre sélection saura éveiller votre passion pour l'art BD et transformer votre en une véritable galerie d'art. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:02:23Z
-  Total Products: 118
+  Updated: 2026-10-02T07:53:47Z
+  Total Products: 119
 - [Savoirs anciens : découvrez la richesse des connaissances oubliées](https://legrimoireancien.com/collections/savoirs-anciens): Découvrez l'univers fascinant des savoirs anciens , où se rencontrent les traditions millénaires et la sagesse des ancêtres. Nos produits mettent en lumière la richesse de ces connaissances oubliées, redonnant vie à des pratiques et philosophies qui ont façonné nos civilisations. Chaque article de cette collection est soigneusement sélectionné pour sa valeur culturelle et historique, offrant à la fois un esthétisme unique et une pertinence dans notre monde moderne. Une immersion dans l'histoire Les savoirs anciens ne se limitent pas à des objets : ils racontent des histoires. Chaque pièce de notre collection est une porte d'entrée vers le passé. En adoptant ces produits, vous ne faites pas seulement un achat ; vous devenez le gardien d'un héritage riche qui mérite d'être célébré et partagé. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:15:40Z
-  Total Products: 196
+  Updated: 2026-10-03T11:39:16Z
+  Total Products: 198
 - [Tarots et Oracles : éveillez votre intuition avec des outils de divination uniques](https://legrimoireancien.com/collections/oracles): Bienvenue dans notre collection exclusive de Tarots et oracles , une sélection soigneusement choisie pour éveiller votre intuition. Que vous soyez novice ou expert en divination, ces outils uniques vous accompagneront dans votre cheminement spirituel, enrichissant votre compréhension de vous-même et de l'univers qui vous entoure. Ne manquez pas l'occasion d'éveiller votre intuition et de transformer votre vie avec nos Tarots et oracles . Explorez notre collection dès maintenant et trouvez le jeu qui résonne en vous. Chaque jeu est une porte ouverte à un monde de possibilités et de compréhension. Alors n'attendez plus, faites le premier pas sur le chemin de la découverte personnelle ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T08:57:38Z
+  Updated: 2026-10-01T08:28:21Z
   Total Products: 118
 - [La Sélection de Myriam : must-haves à découvrir pour la rentrée !](https://legrimoireancien.com/collections/coups-de-coeur): Bienvenue dans La Sélection de Myriam ! Lectures d'été ... Découvrez mes coups de cœur personnels : une collection exclusive de tarots, oracles, grimoires et livres ésotériques soigneusement choisis pour leur qualité exceptionnelle et leur pouvoir transformateur. ✨ Une sélection experte et passionnée  Chaque pièce de cette collection a été choisie avec soin pour vous offrir : Une invitation à la découverte, à l'inspiration et à l'excellence spirituelle. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T18:29:00Z
-  Total Products: 218
+  Updated: 2026-10-03T11:39:16Z
+  Total Products: 222
 - [Mythes et Légendes - UFO : explorez l'inconnu et l'étrange](https://legrimoireancien.com/collections/legendes): Bienvenue dans notre collection captivante de mythes et légendes OVNI , où le mystère rencontre la curiosité. Nous explorons ici le monde fascinant des phénomènes non expliqués, des histoires mystérieuses et des rencontres étranges. Que vous soyez un passionné d'ufologie ou simplement intrigué par l'inconnu, vous trouverez ici des récits et des produits qui éveilleront votre imagination. Ne restez pas dans l'ombre de l'incertitude. Plongez-vous dans notre collection de mythes et légendes OVNI dès aujourd'hui et découvrez des produits qui inspirent, intriguent et enchantent. Explorez maintenant et laissez-vous emporter par l'inconnu ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:15:40Z
+  Updated: 2026-09-27T11:27:55Z
   Total Products: 42
 - [Événements littéraires : Un Livre, Une Soirée](https://legrimoireancien.com/collections/evenements-un-livre-une-soiree): Plongez dans l'univers fascinant des événements littéraires où chaque livre devient une soirée inoubliable.   Rejoignez-nous Prêt à plonger dans une soirée littéraire inoubliable ? Visitez notre page d'inscription dès maintenant et réservez votre place. La lecture n'a jamais été aussi vivante ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-22T16:06:04Z
+  Updated: 2026-09-27T08:55:33Z
   Total Products: 3
 - [Remèdes naturels faits maison pour une vie saine](https://legrimoireancien.com/collections/remedes-naturels): Les remèdes naturels faits maison sont une excellente manière d'améliorer votre bien-être au quotidien.  Les erreurs à éviter avec les remèdes naturels Bien qu'ils soient généralement sûrs, il existe quelques erreurs courantes à éviter :  Ne pas se renseigner suffisamment sur les ingrédients utilisés. Trouver un équilibre, car même les remèdes naturels peuvent avoir des effets secondaires s'ils sont mal utilisés. Ignorer les symptômes et prolonger une situation sans consulter un professionnel si nécessaire.  Adopter les  remèdes naturels faits maison dans votre quotidien peut transformer votre façon de prendre soin de vous. Avec des ingrédients simples, vous pouvez améliorer votre santé de manière naturelle et efficace. N'attendez plus pour faire ce changement vers un mode de vie plus sain ! Explorez notre collection dès aujourd'hui et découvrez comment nos remèdes naturels peuvent vous accompagner vers une vie plus saine et épanouissante. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-23T18:14:29Z
+  Updated: 2026-09-27T08:55:33Z
   Total Products: 54
 - [Livres pour enfants et adolescents : aventures captivantes et apprentissages enrichissants](https://legrimoireancien.com/collections/livres-pour-enfants): Découvrez notre sélection enchantée de livres pour enfants, soigneusement choisie pour éveiller l'imagination et nourrir la curiosité des jeunes lecteurs. Des histoires captivantes pour tous les âges, de 3 à 12 ans et au-delà. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:31:27Z
-  Total Products: 98
+  Updated: 2026-09-27T10:32:13Z
+  Total Products: 99
 - [Livres en Saga](https://legrimoireancien.com/collections/livres-en-saga): Découvrez toutes nos sagas littéraires et plongez dans des univers captivants à travers plusieurs tomes. De la fantasy épique aux aventures jeunesse, en passant par les romans contemporains et les bandes dessinées cultes, retrouvez ici l'intégralité de nos collections en plusieurs volumes. Sagas disponibles : n'hésitez pas à vous abonner !  La Saga du Dagda de Fabien Olicard (3 tomes) Le Café du temps (5 tomes) Destination Jurassique (3 tomes) La Quête de l'oiseau du temps (4 tomes) Harry Potter - Éditions illustrées MinaLima La Rivière à l'envers (2 tomes) La Bible - L'Ancien Testament et bien d'autres ...  Suivez vos héros préférés d'un tome à l'autre et vivez des aventures inoubliables ! - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:16:24Z
-  Total Products: 255
+  Updated: 2026-09-29T08:17:57Z
+  Total Products: 257
 - [Livres d'Amour et Romance](https://legrimoireancien.com/collections/saint-valentin-livres-amour): Célébrez l'amour avec notre sélection spéciale !  Découvrez notre collection exclusive de livres romantiques, parfaite pour célébrer la Saint-Valentin. Que vous cherchiez une histoire d'amour touchante, un oracle pour comprendre vos relations, ou un roman de bien-être réconfortant, vous trouverez le cadeau parfait pour vous ou votre âme sœur. - Oracles des relations amoureuses - Pour approfondir votre compréhension de l'amour - Romans d'amour captivants - Des histoires qui réchauffent le cœur - Feel-good réconfortants - Pour les amoureux des livres et des belles histoires Offrez un livre qui parle au cœur et créez des moments magiques. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T08:52:26Z
+  Updated: 2026-09-27T08:55:33Z
   Total Products: 95
 - [APPPlaza - Best Sellers](https://legrimoireancien.com/collections/appplaza-best-sellers): - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T18:29:00Z
-  Total Products: 1321
+  Updated: 2026-10-03T11:39:16Z
+  Total Products: 1329
 - [AVADA - Best Sellers](https://legrimoireancien.com/collections/avada-best-sellers): - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T18:29:00Z
-  Total Products: 1321
-- [Tous les livres de la Boutique](https://legrimoireancien.com/collections/all): Ici, vous trouverez l'intégralité de notre sélection — des grimoires ancestraux aux oracles contemporains, en passant par les grands textes de philosophie orientale et les guides de développement personnel. Chaque livre a été choisi avec soin pour vous accompagner dans votre chemin : que vous soyez curieux, initié, ou simplement en quête d'une belle découverte, il y a forcément un titre qui vous attend ici. Prenez le temps de flâner, de feuilleter, de vous laisser surprendre. Les meilleurs livres sont souvent ceux qu'on ne cherchait pas. ✨ Bonne consultation, et que la lecture vous guide. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T18:29:00Z
-  Total Products: 1088
+  Updated: 2026-10-03T11:39:16Z
+  Total Products: 1329
+- [Tous les livres de la Boutique](https://legrimoireancien.com/collections/all): Tout notre catalogue : grimoires anciens, tarots, oracles, philosophie orientale et développement personnel. Des livres choisis avec soin pour chaque chemin.
+  Updated: 2026-10-01T08:28:28Z
+  Total Products: 1089
 - [Accessoires de la Librairie](https://legrimoireancien.com/collections/accessoires-esoteriques): Chaque rituel mérite ses instruments. Découvrez notre sélection d'accessoires  soigneusement choisis pour accompagner votre pratique divinatoire et spirituelle &amp; autres. Bougies rituelles, supports de tirage, pochettes de protection, cristaux et objets symboliques — chaque pièce est sélectionnée pour sa qualité, son authenticité et sa résonance énergétique. Des outils pensés pour sublimer vos séances de cartomancie, de méditation ou de travail intérieur. Le Grimoire Ancien vous invite à composer votre espace sacré avec intention. - © 2026 Le Grimoire Ancien
-  Updated: 2026-09-26T11:31:27Z
+  Updated: 2026-10-01T11:42:32Z
   Total Products: 44
 - [Automne](https://legrimoireancien.com/collections/automne): Découvrez notre sélection automne : romans cosy mystery, livres ésotériques et décorations aux couleurs de la saison.
-  Updated: 2026-09-26T10:08:14Z
+  Updated: 2026-09-27T08:55:33Z
   Total Products: 72
 - [Séries et sagas en abonnement](https://legrimoireancien.com/collections/series-et-sagas-en-abonnement): Découvrez les séries et sagas du Grimoire Ancien, avec des livres à suivre tome après tome et des offres d’abonnement selon les collections.
-  Updated: 2026-09-26T09:28:36Z
-  Total Products: 52
+  Updated: 2026-09-29T08:17:57Z
+  Total Products: 55
 - [Collection de Noël](https://legrimoireancien.com/collections/collection-de-noel): Sous le givre et la lueur des chandelles, Le Grimoire Ancien vous invite à un Noël enchanté : grimoires, tarots et oracles choisis pour éveiller la magie des longues nuits d'hiver.Des idées de cadeaux ⚜️ pour les âmes curieuses, les liseuses de signes et celles qui croient encore aux légendes.
   Updated: 2026-09-25T14:33:22Z
   Total Products: 56
 
 ## Blogs
 
-- [La Gazette des Initiés](https://legrimoireancien.com/blogs/infos): "Rituels, histoire et spiritualité : rejoignez le cercle des lecteurs de La Gazette des Initiés. Explorez l'univers et les secrets de la boutique Le Grimoire Ancien."
+- [La Gazette des initiés](https://legrimoireancien.com/blogs/infos): "Rituels, histoire et spiritualité : rejoignez le cercle des lecteurs de La Gazette des Initiés. Explorez l'univers et les secrets de la boutique Le Grimoire Ancien."
   - [10 façons d'utiliser les énergies quantiques](https://legrimoireancien.com/blogs/infos/10-facons-dutiliser-les-energies-quantiques): <p>Les énergies quantiques sont une forme d'énergie puissante et mystérieuse qui peut être utilisée de différentes manières pour améliorer notre quotidien. Découvrez 10 façons fascinantes d'exploiter les énergies quantiques pour bénéficier de leurs nombreux avantages.</p>
     Updated: 2026-05-12T13:07:17Z
     Author: Myriam CHAMAND
@@ -1974,7 +1989,13 @@
     Updated: 2026-09-23T12:20:40Z
     Author: Myriam Chamand - Le Grimoire Ancien
   - [Tutoriel pour débutants initiez-vous aux rituels ancestraux](https://legrimoireancien.com/blogs/infos/tutoriel-pour-debutants-initiez-vous-aux-rituels-ancestraux): Tutoriel pour débutants initiez-vous aux rituels ancestraux
-    Updated: 2026-09-23T12:22:48Z
+    Updated: 2026-09-27T09:08:51Z
+    Author: Myriam Chamand - Le Grimoire Ancien
+  - [Les tendances actuelles pour un autel magique parfait cet automne](https://legrimoireancien.com/blogs/infos/les-tendances-actuelles-pour-un-autel-magique-parfait-cet-automne): Les tendances actuelles pour un autel magique parfait cet automne
+    Updated: 2026-10-01T13:49:28Z
+    Author: Myriam Chamand - Le Grimoire Ancien
+  - [Les mystères du grimoire ancien révélés](https://legrimoireancien.com/blogs/infos/les-mysteres-du-grimoire-ancien-reveles): Les mystères du grimoire ancien révélés
+    Updated: 2026-10-01T13:53:23Z
     Author: Myriam Chamand - Le Grimoire Ancien
 
 ## Store Pages
@@ -1986,13 +2007,13 @@
 - [La Théorie neutrale](https://legrimoireancien.com/pages/by-myriam-chamand-la-theorie-neutrale): La Théorie neutrale (concept créé par Myriam Chamand) Chamane et coach Définition de ta Théorie neutrale en quelques mots : La théorie neutrale est...
   Updated: 2026-09-23T05:37:11Z
 - [Myriam Chamand - Fondatrice du Grimoire Ancien | Experte en Ésotérisme](https://legrimoireancien.com/pages/myriam-chamand): "Logo officiel Le Grimoire Ancien, boutique d'ésotérisme premium dans le Tarn, France - legrimoireancien.com" Myriam Chamand Fondatrice et Curatric...
-  Updated: 2026-09-23T05:37:11Z
+  Updated: 2026-10-02T17:56:11Z
 - [Soirées ésotériques mensuelles dans le Tarn - Un Livre Une Soirée | Le Grimoire Ancien](https://legrimoireancien.com/pages/un-livre-une-soiree): 🌙 Un Livre, Une Soirée Une fois par mois, quelque part dans le Tarn, Le Grimoire Ancien ouvre ses portes à celles et ceux qui osent plonger dans l'...
   Updated: 2026-09-23T05:37:11Z
 - [Mentions Légales - Le Grimoire Ancien](https://legrimoireancien.com/pages/mentions-legales): Mentions légales Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l'économie numérique, il est précisé aux ...
-  Updated: 2026-09-23T05:37:11Z
-- [Conditions Générales de Vente (CGV) - Le Grimoire Ancien](https://legrimoireancien.com/pages/conditions-generales-de-vente-bis): Conditions Générales de Vente En vigueur au 1er janvier 2026 Les présentes Conditions Générales de Vente (CGV) régissent les ventes de produits eff...
-  Updated: 2026-09-23T05:37:11Z
+  Updated: 2026-10-02T08:07:26Z
+- [Conditions Générales de Vente (CGV) - Le Grimoire Ancien](https://legrimoireancien.com/pages/conditions-generales-de-vente-bis): Conditions générales de vente En vigueur au 1er octobre 2026 Les présentes Conditions Générales de Vente (CGV) régissent les ventes de produits eff...
+  Updated: 2026-10-02T19:15:55Z
 - [Laissez votre avis - Le Grimoire Ancien](https://legrimoireancien.com/pages/votre-avis-compte): Partagez votre expérience mystique ! Votre avis éclaire le chemin d'autres chercheurs de savoirs anciens. Prenez quelques instants pour partager vo...
   Updated: 2026-09-23T05:37:15Z
 - [Les coulisses de la Librairie du Grimoire Ancien](https://legrimoireancien.com/pages/les-coulisses-de-la-librairie-du-grimoire-ancien): 🌙 Avant l'ouverture : le souffle du lieu Chaque matin, la Librairie du Grimoire Ancien s'éveille comme un vieux manuscrit qu'on ouvre avec précauti...
@@ -2000,7 +2021,7 @@
 - [ASMR Le Grimoire Ancien](https://legrimoireancien.com/pages/asmr-le-grimoire-ancien-plongee-auditive-dans-un-tome-du-18eme-siecle-pages-ultra-craquantes): Préparez-vous à une expérience auditive intense : 2 vidéos - 📜 Le crépitement ultime : ce livre est vieux, et ses pages sont devenues sèches et cas...
   Updated: 2026-09-23T05:37:11Z
 - [Tarifs d'expédition - Le Grimoire Ancien](https://legrimoireancien.com/pages/tarifs-dexpedition): Tarifs d'expédition par pays Découvrez nos tarifs d'expédition selon votre destination. Nous livrons dans le monde entier pour vous faire parvenir ...
-  Updated: 2026-09-23T05:37:12Z
+  Updated: 2026-10-02T17:43:09Z
 - [Tous nos livres et accessoires](https://legrimoireancien.com/pages/html-sitemap-products): Livres et accessoires Le Marchand de Mémoire - Éditi... La Malédiction des Stensson : ... La vie est un voyage que l’on ... Le petit vieux qui a fa...
   Updated: 2026-09-23T05:37:12Z
 - [Nos Collections](https://legrimoireancien.com/pages/html-sitemap-collections): Collections Événements littéraires : Un Li... Livres en Saga Romans mystiques : explorez de... Lectures inspirantes pour Soi BD - Dessins & Art : d...
@@ -2010,13 +2031,13 @@
 - [Nos articles de blog](https://legrimoireancien.com/pages/html-sitemap-articles): Blog Posts 10 façons d'utiliser les énerg... Le souffle divin - Une méthode... Pourquoi la solitude ? Qu'est-ce que le Mysticisme ? Pourquoi l'Amou...
   Updated: 2026-09-23T05:37:12Z
 - [Politique de Remboursement - Le Grimoire Ancien](https://legrimoireancien.com/pages/politique-de-remboursement-le-grimoire-ancien): Politique de remboursement et de retour – Le Grimoire Ancien Dernière mise à jour : Juin 2026 1. Droit légal de rétractation Conformément aux dispo...
-  Updated: 2026-09-23T05:37:12Z
+  Updated: 2026-10-02T19:00:18Z
 - [Vendre mes livres d’occasion | Le Grimoire Ancien](https://legrimoireancien.com/pages/vendre-mes-livres): Donnez une seconde vie à vos livres Vous avez des livres qui dorment dans votre bibliothèque ? Le Grimoire Ancien vous propose de leur offrir une n...
   Updated: 2026-09-23T05:37:12Z
 - [FAQ – Le Grimoire Ancien | Livres ésotériques, Tarots & Oracles](https://legrimoireancien.com/pages/foire-aux-questions): 🔮 Le Grimoire Ancien – Foire Aux Questions 📦 Commandes Comment passer une commande ? Parcourez notre catalogue, ajoutez vos articles au panier et s...
-  Updated: 2026-09-23T05:37:12Z
-- [Accessibility Statement](https://legrimoireancien.com/pages/accessibility-statement): Accessibility Commitment At © 2026 Le Grimoire Ancien, we are committed to ensuring accessibility for all our customers, including those with disab...
-  Updated: 2026-09-23T05:37:12Z
+  Updated: 2026-10-03T15:53:00Z
+- [Déclaration d’accessibilité](https://legrimoireancien.com/pages/accessibility-statement): Engagement en faveur de l’accessibilité Chez Le Grimoire Ancien, nous nous engageons à garantir l’accessibilité à tous nos clients, y compris aux p...
+  Updated: 2026-10-02T17:52:39Z
 - [My wishlist](https://legrimoireancien.com/pages/joy-wishlist)
   Updated: 2026-09-23T05:37:12Z
 
@@ -2025,13 +2046,13 @@
 - [Privacy Policy](https://legrimoireancien.com/policies/privacy-policy)
   Updated: 2026-09-22T15:58:30+02:00
 - [Shipping Policy](https://legrimoireancien.com/policies/shipping-policy)
-  Updated: 2026-08-28T21:40:35+02:00
+  Updated: 2026-10-02T10:27:17+02:00
 - [Refund Policy](https://legrimoireancien.com/policies/refund-policy)
-  Updated: 2026-08-28T21:46:56+02:00
+  Updated: 2026-10-02T20:54:55+02:00
 - [Terms of Service](https://legrimoireancien.com/policies/terms-of-service)
   Updated: 2025-12-09T11:00:47+01:00
 - [Contact Information](https://legrimoireancien.com/policies/contact-information)
-  Updated: 2026-08-28T21:50:07+02:00
+  Updated: 2026-10-02T10:22:57+02:00
 
 ## Optional
 
