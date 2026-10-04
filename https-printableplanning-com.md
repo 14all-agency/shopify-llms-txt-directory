@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-09-26T20:00:33.202Z
+- Updated At: 2026-10-04T00:00:50.403Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1384,20 +1384,20 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-09-25T11:01:27Z
-  Total Products: 423
+  Updated: 2026-10-03T11:01:42Z
+  Total Products: 424
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-09-09T11:01:39Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-09-25T11:01:27Z
-  Total Products: 423
+  Updated: 2026-10-03T11:01:42Z
+  Total Products: 424
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-09-02T11:01:45Z
+  Updated: 2026-10-03T11:01:42Z
   Total Products: 15
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-09-25T11:01:27Z
-  Total Products: 48
+  Updated: 2026-10-02T13:57:35Z
+  Total Products: 49
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-09-15T11:02:01Z
   Total Products: 44
@@ -1417,7 +1417,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-09-09T11:01:39Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-09-19T11:01:08Z
+  Updated: 2026-10-03T11:01:42Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-08-12T13:53:19Z
