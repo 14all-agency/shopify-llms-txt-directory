@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-06T11:58:58Z
 - Contact Email: imrangulzar1110@gmail.com
-- Updated At: 2026-09-23T00:00:43.840Z
+- Updated At: 2026-10-05T00:00:46.408Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Green_amethyst_rough.heic?v=1769870926
   Price: $200.00 USD
 - [100 Carat Rough Emerald Stones from Swat](https://www.gemstoneinsider.com/products/100-carat-rough-sawat-emerald-for-cutt): "Alert for Cutters: 100-Carat Rough Swat Emerald available. Perfect for creating stunning gemstones with its exceptional quality. Ideal for collectors and jewelers." Key Features Of Sawat Emerald. Total Weight: ___ 100 carat Size : 1 Carat to 11 CaratTreatment : ___ NoColor: ___ Green Shape : RoughOrigin: ___ Sawat Attention cutters and gem enthusiasts: A remarkable 100-carat rough Swat emerald is now available. This stunning gemstone, known for its exceptional quality and vibrant green hue, offers an incredible opportunity for crafting exquisite pieces. Swat emeralds are renowned for their clarity and rich color, making them highly sought after by collectors and jewelers worldwide. Located in the picturesque Swat Valley of Pakistan, these emeralds are prized for their unique characteristics and natural beauty. This substantial 100-carat specimen is perfect for creating dazzling jewelry that showcases its brilliant green color. Whether you're a professional cutter or a gemstone aficionado, this Swat emerald presents an unparalleled chance to add a truly extraordinary gem to your collection. Don't miss out on this rare find!
-  Updated: 2026-07-08T21:19:47Z
+  Updated: 2026-09-25T11:22:15Z
   Vendor: Gemstone Insider
   Product Type: Emerald
   Availability: Available
@@ -584,13 +584,13 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/WhatsAppImage2025-04-07at14.11.24_8669f4a1.jpg?v=1744017461
   Price: $200.00 USD
-- [1000 Grams Rough Lemon Quartz For Faceting](https://www.gemstoneinsider.com/products/1000-grams-facet-rough-lemon-quartz-for-faceting): 179 Grams Rough Lemon Quartz For Faceting Key Features Of Amethyst Stone Stone: Amethyst Sizes : 3.5 Gram To 12.6 Gram Clarity: Eye Clean to Loupe Clean Color: Yellow. Total: 179 Grams : Heated Origin: Brazil Check This 179 Facet grade Lemon Quartz Raw for faceting. The stones are eye clean to loupe clean. Sizes are Under 3.5 Gram To 12.6 Gram. This is a perfect parcel for those who are professional in lapidary or faceting. This is very nice material for faceting practices. Is lemon quartz the same as citrine? Citrine and actually lemon quartz are related but they are not the same thing. All in all amethyst is a type of quartz that is colored with an iron inclusion while a citrine quartz may be a formed through heating of a normal amethyst or simply be colored .Lemon Quartz: It Cal also be used to refer to quartz which displays a bright color that is yellowish-green in nature. More of a natural quartz that has been subjected to heat  to produce its color, lemon quartz is less common than citrine .Citrine: Cultured citrine is a form of quartz that is colored anywhere from a light yellow to a deep shade of orange. That’s why citrine is characterized by its incredible color, which is the result of iron traces. It is quite rare to find natural citrine; therefore, most of the citrine available on the market is actually amethyst or smoky quartz that has been heat-treated to take on the citrine shade .In conclusion, even if lemon quartz and citrine are both yellow quartz, their shade and the technics allowing to obtain the shades could be very different.
-  Updated: 2026-07-08T21:20:05Z
+- [1kg Lemon Quartz Facet Rough | Gemstone Insider](https://www.gemstoneinsider.com/products/1kg-lemon-quartz-facet-rough-madagascar): Shop a 1kg parcel of heated yellow Lemon Quartz facet rough from Madagascar. Eye-clean to loupe-clean pieces weighing approximately 5–30g each.
+  Updated: 2026-09-23T23:59:36Z
   Vendor: Gemstone Insider
   Product Type: Facet Grade Rough Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/WhatsAppImage2025-04-07at14.53.49_2ee54326.jpg?v=1744020187
-  Price: $550.00 USD
+  Price: $1,200.00 USD
 - [17.85 Carat Intense Green Swat Rough Emeralds](https://www.gemstoneinsider.com/products/17-85-carat-rough-emerald-for-cutting): You can purchase a small lot of green emeralds in their uncut state which suits the process of faceting. The stones originate from Pakistan where they are obtained as natural untreated crystals. Key Features Of Rough Emerald Stones. Stone Name_______________________ EmeraldTotal Weight______________________ 17.85 CaratSizes_____________________________ 1 carat upto 2.60 caratColour ___________________________ Rich GreenOrigin ___________________________ Swat Pakistan
   Updated: 2026-07-08T21:20:06Z
   Vendor: Gemstone Insider
@@ -732,7 +732,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Mali_Garnet.jpg?v=1755860705
   Price: $450.00 USD
 - [100 carats Raw Emeralds Wholesale Parcel from Swat](https://www.gemstoneinsider.com/products/100-carats-natural-rough-emerald): Buy 100 Carats Natural Rough Emerald- Vivig green Colour from Swat Pakistan Key Features Of Rough Emerald. Stone Name : Emerald. Total Weight : 90 Carat Size : under carats upto 4 plus carat Colour : Vivid Green Colour  : No Origin : Swat Pakistan It is an exquisite 100 carat rough emerald, which is naturally mined at the famous Swat Valley in Pakistan and which is known to produce quality gemstones. The swat emeralds are widely famous due to its luscious green color and unusually clear as well as natural beauty. The stone courtesy of this origin has both quality and vivid color, which makes it very attractive to gem collectors, jewelers and even amateurs. The emeralds produced here are not all of the same size but range to as much as under 1 carat to 4 carats with this versatility they can be used in different forms of usage like collectable pieces, faceted stones, or into fine jewelry. The special characteristic of these emeralds is that they are all natural with no enhancement and no  and they have been left as they were in their natural raw state that is as they were found in the ground. It is a 100-carat emerald from Swat Valley that perfectly demonstrates the unique and crude beauty of Swat Valley Emeralds, hence, there is no doubt that it would make a fine acquisition to any effort to compose a world-class collection of gemstones.
-  Updated: 2026-07-08T21:20:12Z
+  Updated: 2026-09-25T11:22:15Z
   Vendor: Gemstone Insider
   Product Type: Facet Grade Rough Stones
   Availability: Available
@@ -935,14 +935,14 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/bi-color_tourmaline_facet.jpg?v=1769882412
   Price: $2,000.00 USD
 - [100 Carat Colour Rich Green Rough Emeralds Bulk](https://www.gemstoneinsider.com/products/100-carat-top-color-rich-green-facet-grade-rough-emerald): Check out the natural beauty of Swat, Pakistan’s finest emeralds with this 100 Carat Top Colour Facet Grade Rough Emerald Small  — perfect for gemstone collectors, cutters, and jewellery makers who value authenticity and brilliance. Product Highlights: Stone Name: EmeraldColour: Displays a rich, deep green hue that reflects the true elegance and rarity of high-quality Swat emeralds.Origin: Responsibly sourced from Swat, Pakistan, renowned worldwide for producing some of the most vibrant green emeralds.Birth Month: May — known as the birthstone symbolizing love, success, and renewal.: Completely natural with no , maintaining the gem’s original purity and value.Size: Ranges from under 1 carat up to 6 carats, ideal for cutting, faceting, or creating unique jewellery pieces.Clarity: Slightly included, showcasing the natural identity and authenticity of genuine emeralds.A perfect choice for those seeking top-colour emerald rough with unmatched natural charm and Swat-origin prestige. Is the rough Swat emerald clean enough for faceting or jewelry making? Yes, the rough Swat emerald is clean enough for faceting or jewellery making. it has slight inclusions and is of facet grade quality, which means it can be cut and polished into beautiful gemstones suitable for fine jewellery. How can I test the quality of a Swat emerald at home? You can test the quality of a Swat emerald at home by observing its colour, clarity, and natural inclusions. Genuine Swat emeralds show a rich green colour with slight inclusions and no . If the stone has a natural deep green tone and visible natural patterns (not glassy or overly clear), it indicates good quality and authenticity. How can I identify if a rough Swat emerald is natural or treated? You can identify if a rough Swat emerald is natural or treated by examining its colour, clarity, and inclusions.Genuine Swat emeralds have a rich green colour, slight inclusions, and no . The presence of natural inclusions and an even green tone indicates authenticity, while an overly clear or glassy appearance may suggest the stone has been treated.
-  Updated: 2026-07-08T21:20:22Z
+  Updated: 2026-09-25T11:22:15Z
   Vendor: Gemstone Insider
   Product Type: Facet Grade Rough Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/gem_quality_emerald_rough.jpg?v=1769881960
   Price: $3,250.00 USD
 - [100 Carat Rich Green Emerald Rough Stones](https://www.gemstoneinsider.com/products/100-carat-top-colour-rich-green-facet-grade-rough-emerald-small-): Check Out the pure beauty of nature with this 100 carat lot of top-colour rich green facet grade rough emeralds, hand-selected from the legendary emerald mines of Swat, Pakistan. Each piece radiates a deep, natural green tone that reflects both the region’s mineral richness and timeless charm. Product Highlights: Stone Name: Emerald — a precious gemstone admired for its lush green hue and brilliance.Colour: Rich Green — vibrant and naturally intense, showcasing premium Swat emerald colour quality.Origin: Swat, Pakistan — globally known for producing some of the most beautiful and sought-after emeralds.Birth Month: May — the official birthstone symbolizing renewal, growth, and prosperity.: No — 100% natural and untreated, maintaining its authentic geological beauty.Size: Ranges from under 1 carat up to 6 carats — ideal for cutting, faceting, or collection.Clarity: Slightly included — typical of genuine Swat emeralds, adding natural character and charm. What size or carat weight is ideal for cutting and faceting Swat emeralds? The ideal size or carat weight for cutting and faceting Swat emeralds generally ranges from 1 to 6 carats. Stones within this size are easier to shape into beautiful gems while maintaining their natural color and clarity. Smaller stones often yield cleaner cuts with fewer inclusions, while larger ones may display more visible internal features that add character to the gem. Swat emeralds of this size range are perfect for creating fine jewelry pieces such as rings, pendants, and earrings. Their rich green hue, combined with natural brilliance, makes them highly desirable for both collectors and gemstone cutters.
-  Updated: 2026-07-08T21:20:22Z
+  Updated: 2026-09-25T11:22:15Z
   Vendor: Gemstone Insider
   Product Type: Facet Grade Rough Stones
   Availability: Available
@@ -1137,7 +1137,14 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/carving_lapis_rough.jpg?v=1770142052
   Price: $220.00 USD
-[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODE5Nzk4NzYzOSwibGFzdF92YWx1ZSI6IjEwNDE4MTk3OTg3NjM5In0%3D)
+- [233 Gram Rough Lapis Lazuli with Golden Pyrite](https://www.gemstoneinsider.com/products/233-gram-rough-lapis-lazuli-with-golden-pyrite): This 233-gram rough Lapis Lazuli features a beautiful Rich blue colour with natural golden Pyrite inclusions. The stone has an opaque clarity and is completely natural and untreated, preserving its authentic character. Ideal for collectors and crystal enthusiasts, it is also a meaningful September birthstone with unique natural appeal. Q1: Is this Lapis Lazuli natural or treated? Yes, this Lapis Lazuli is 100% natural and untreated. No dyes, heat, or chemical treatments have been applied, so the stone retains its original colour and natural characteristics. Q2: What gives this Lapis Lazuli its golden sparkle? The golden shimmer comes from natural Pyrite inclusions. High-quality Lapis Lazuli often contains evenly distributed golden Pyrite, which enhances the stone’s beauty and value. Q3: Are white spots or veins in Lapis Lazuli a defect? No, white areas are usually calcite, which is a natural component of Lapis Lazuli. While premium pieces have minimal calcite, its presence does not mean the stone is fake or low quality. Q4: What does “opaque clarity” mean for this stone? Opaque clarity means the stone does not allow light to pass through, which is normal and expected for natural rough Lapis Lazuli. Q5: How can I judge the quality of rough Lapis Lazuli online? Look for a strong, attractive blue colour, visible natural golden Pyrite flecks, solid weight, and confirmation that the stone is untreated. Clear photos and accurate weight details also help indicate quality. Q6: Is Afghan (Sar-e-Sang) Lapis Lazuli better than other origins? Lapis Lazuli from Afghanistan, Chile, and Russia is beautiful in its own way, but Afghan Sar-e-Sang Lapis is especially famous worldwide for its richer colour, better clarity, and striking golden Pyrite inclusions. Q7: Is this stone suitable for jewellery making? Yes, this rough Lapis Lazuli can be cut and polished for jewellery or used as a specimen for collections, carving, or crystal work. Q8: Why is the price reasonable despite the good quality? Even though this stone has excellent colour, natural golden Pyrite, and no , Lapis Lazuli is generally more affordable than many precious and other semi-precious stones, offering great value for its quality. Q9: Is this a good birthstone gift for September? Yes, Lapis Lazuli is traditionally associated with September and makes a meaningful and symbolic gift for birthdays or special occasions. Q10: Will the colour fade over time? No, since this stone is natural and untreated, its colour will remain stable with normal care and proper storage.
+  Updated: 2026-07-08T21:20:31Z
+  Vendor: Gemstone Insider
+  Product Type: Lapidary Rough
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Persian_lapis_rough.jpg?v=1770303929
+  Price: $260.00 USD
+[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODg1MDU2MjM1OSwibGFzdF92YWx1ZSI6IjEwNDE4ODUwNTYyMzU5In0%3D)
 
 ## Collections
 
@@ -1145,8 +1152,8 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:08Z
   Total Products: 3
 - [Faceting Rough](https://www.gemstoneinsider.com/collections/buy-faceting-rough-gemstones): Shop premium faceting rough gemstones including sapphires, rubies, emeralds & more. High-quality uncut gems perfect for cutting & jewelry making. Expert-selected facet grade rough.
-  Updated: 2026-09-15T11:16:19Z
-  Total Products: 120
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 125
 - [Loose Gemstones for Jewellery Making](https://www.gemstoneinsider.com/collections/losse-gemstone): Shop  natural loose gemstones: sapphires, rubies, emeralds, diamonds & rare gems. Wholesale prices, expert-selected quality. Perfect for jewellery making & .
   Updated: 2026-09-07T20:13:25Z
   Total Products: 95
@@ -1166,8 +1173,8 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:34Z
   Total Products: 7
 - [Rough Crystals](https://www.gemstoneinsider.com/collections/rough-crystals-raw-specimens): Shop authentic rough crystals & natural raw crystal specimens for healing, collecting & energy work. Unpolished crystals in natural form. Free shipping!
-  Updated: 2026-08-26T18:21:30Z
-  Total Products: 23
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 24
 - [Wholesale Lapidary Rocks](https://www.gemstoneinsider.com/collections/buy-lapidary-rough-wholesale): Shop premium lapidary rough & rough stone for cutting, polishing & lapidary work. Quality rock cutting supplies for hobbyists & professionals. Free shipping!
   Updated: 2026-07-08T21:23:30Z
   Total Products: 7
@@ -1175,11 +1182,11 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-09-07T20:13:25Z
   Total Products: 89
 - [New Arrival Stones](https://www.gemstoneinsider.com/collections/latest-gemstone-deals): Shop the latest natural gemstones, healing crystals & rare minerals. New arrivals include amethyst, citrine, tourmaline & more. Authentic, ethically sourced gems for collectors & jewellery makers.
-  Updated: 2026-09-22T16:40:15Z
-  Total Products: 203
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 208
 - [Emeralds](https://www.gemstoneinsider.com/collections/emeralds-gemstones): Discover stunning natural emerald gemstones at Gemstone Insider. Browse our curated collection of  emeralds in various cuts and sizes. Shop authentic emeralds today.
-  Updated: 2026-09-02T11:39:38Z
-  Total Products: 58
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 59
 - [Sapphire](https://www.gemstoneinsider.com/collections/sapphire): Shop authentic sapphire gemstones in stunning blue and fancy colors. Ethically sourced,  natural sapphires with exceptional clarity and brilliance.
   Updated: 2026-07-08T21:23:41Z
   Total Products: 23
@@ -1199,7 +1206,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:34Z
   Total Products: 4
 - [Amethyst](https://www.gemstoneinsider.com/collections/amethyst): Shop authentic natural amethyst gemstones in stunning purple hues. Premium quality February birthstone amethyst for jewelry making.  genuine stones with fast shipping.
-  Updated: 2026-07-08T21:23:48Z
+  Updated: 2026-09-25T11:15:19Z
   Total Products: 16
 - [Apatite](https://www.gemstoneinsider.com/collections/natural-apatite-gemstones-blue-green-apatite-jewelry): Shop authentic natural apatite gemstones in stunning blue & green hues. Premium quality apatite stones for jewelry making & collectors. Ethically sourced, vibrant colors.
   Updated: 2026-07-08T21:23:34Z
@@ -1223,8 +1230,8 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:16Z
   Total Products: 2
 - [Topaz](https://www.gemstoneinsider.com/collections/topaz): Shop authentic natural topaz gemstones in blue, imperial, white & more colors. Premium quality November birthstone topaz for jewellery.  genuine stones with fast shipping.
-  Updated: 2026-09-22T14:24:48Z
-  Total Products: 23
+  Updated: 2026-09-27T19:04:01Z
+  Total Products: 25
 - [Tourmaline](https://www.gemstoneinsider.com/collections/tourmaline-gemstones-natural--stones): Shop authentic natural tourmaline gemstones in pink, green, watermelon & Paraiba varieties.  quality, competitive prices. Perfect for jewellery & collectors.
   Updated: 2026-09-02T11:49:07Z
   Total Products: 32
@@ -1238,8 +1245,8 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T20:28:47Z
   Total Products: 0
 - [Precious Stones](https://www.gemstoneinsider.com/collections/natural-gemstones-precious-stones-collection-authentic-crystals): Shop authentic natural gemstones & precious stones. 100% genuine crystals, healing stones & jewelry-grade gems.  quality, worldwide shipping. Find your perfect gemstone today!
-  Updated: 2026-09-02T11:39:38Z
-  Total Products: 56
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 57
 - [Amber](https://www.gemstoneinsider.com/collections/amber): Shop authentic amber gemstones & Baltic amber jewelry. Natural fossilized resin stones, handcrafted amber necklaces, pendants & loose gems. Free shipping available.
   Updated: 2026-07-08T21:23:07Z
   Total Products: 2
@@ -1256,11 +1263,11 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:22:49Z
   Total Products: 1
 - [Beryl Minerals](https://www.gemstoneinsider.com/collections/beryl-gemstones-emerald-aquamarine-morganite-collection): Shop premium beryl gemstones including emerald, aquamarine, morganite, heliodor & goshenite. Natural beryl minerals for collectors & jewellery. Authentic quality .
-  Updated: 2026-09-02T11:39:38Z
-  Total Products: 63
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 64
 - [Blue Gemstone](https://www.gemstoneinsider.com/collections/blue-gemstone): Shop authentic blue gemstones including sapphires, aquamarines, tanzanites & blue topaz. Premium quality natural stones with certification. Free shipping available.
-  Updated: 2026-09-22T14:24:48Z
-  Total Products: 44
+  Updated: 2026-09-27T19:04:01Z
+  Total Products: 46
 - [Brucite](https://www.gemstoneinsider.com/collections/natural-brucite-gemstones-rare-healing-crystals-stones): Shop authentic natural Brucite gemstones and rare healing crystals. Premium quality, ethically sourced Brucite stones for collectors and crystal enthusiasts. Free shipping available.
   Updated: 2026-07-08T20:28:48Z
   Total Products: 0
@@ -1283,11 +1290,11 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:41Z
   Total Products: 25
 - [All Type Rough Gemstones - Facet Grade- Lapidary - Crystals](https://www.gemstoneinsider.com/collections/all-rough-gems): Browse our complete all rough gemstones collection. Comprehensive catalog of uncut gems for faceting, cabbing & lapidary. Every rough stone variety in one place!
-  Updated: 2026-08-26T18:21:30Z
-  Total Products: 138
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 142
 - [Wholesale Rough Gemstones](https://www.gemstoneinsider.com/collections/wholesale-rough-gemstones): Buy wholesale rough gemstones in bulk or small lots. Premium uncut gems for jewelers, lapidaries & collectors. Competitive pricing on natural rough stones.
-  Updated: 2026-09-02T11:49:07Z
-  Total Products: 139
+  Updated: 2026-09-25T11:26:47Z
+  Total Products: 141
 - [Wholesale Loose Gemstones](https://www.gemstoneinsider.com/collections/wholesale-loose-gemstones): Buy wholesale loose gemstones in bulk quantities. Trade pricing on faceted gems for jewelers, retailers & resellers. Volume discounts on  natural stones.
   Updated: 2026-09-03T12:18:24Z
   Total Products: 35
@@ -1349,7 +1356,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
     Author: Samina Gulzar
     Tags: A to Z Gemstones, Aquamarine, Beryl, Gemstone and Minerals Scinece
   - [ Gemstone Price Per Carat: Value Guide 2026](https://www.gemstoneinsider.com/blogs/gemstone-insider/-gemstone-price-per-carat):  Gemstone Price Per Carat: Value Guide 2026
-    Updated: 2026-09-22T19:05:04Z
+    Updated: 2026-09-23T21:00:00Z
     Author: Samina Gulzar
     Tags: Gemstone  and Buying Guide, Marketing Trends
 
