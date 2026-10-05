@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-29T17:02:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-25T00:00:45.848Z
+- Updated At: 2026-10-05T00:00:41.850Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMAMERICANSOUNDTRACKCD.png?v=1751036800
   Price: $9.99 USD
 - [American Soundtrack - CD (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/american-soundtrack-cd-signed): SIGNED CD Morgan has long represented the hard-working, God-fearing people who are the backbone of America. He co-wrote all but one of the EPs six tracks, and each song on American Soundtrack is infused with the singer and soldier's faith and patriotism. Tracklist:1. American Soundtrack2. Roots3. Gods Problems4. Country Education5. Blue Collar Prayer6. Who Im From
-  Updated: 2026-09-18T19:41:57Z
+  Updated: 2026-09-25T22:07:26Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
@@ -205,7 +205,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Enlisted Vinyl (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/enlisted-vinyl-signed): SIGNED Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-09-19T16:42:37Z
+  Updated: 2026-10-01T03:26:26Z
   Vendor: Craig Morgan
   Product Type: Vinyl
   Availability: Available
@@ -240,26 +240,19 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCHAT.png?v=1753805249
   Price: $30.00 USD
 - [Redneck Yacht Club Member Koozie](https://craigmorgan.merchmadeeasy.com/products/redneck-yacht-club-member-koozie): MEMBER OF THE REDNECK YACHT CLUB
-  Updated: 2026-09-19T00:17:16Z
+  Updated: 2026-09-27T00:01:22Z
   Vendor: Craig Morgan
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCKOOZIE.png?v=1753805537
   Price: $5.00 USD
 - [God, Family, Country - Paperback (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/god-family-country-paperback-signed): Craig Morgan's memoir, God, Family, Country on paperback. Autographed on the inside cover. Hunting down bad guys in the jungles of Panama, working with the CIA, rescuing children from prostitution rings—these aren’t scenes out of an action movie; they’re the real-life exploits of Country Music star Craig Morgan. Even the most devoted fans don’t know all there is to know about the singer and dedicated family man. Now they can go directly to the source, as Craig tells all in his new memoir written with American Sniper co-author Jim DeFelice. God, Family, Country details the many facets of Craig's life. An on-stage appearance with his father’s band at age ten may have planted the seeds for life as a country star, but first he trained as a paratrooper in the army. With a range of combat experience and swift advancement through the ranks, he was on his way to the highest enlisted ranks in the army. Then came a momentous decision: he left the active military to pursue music. With unwavering support from his wife and a pack of part-time jobs, Craig toughed out the lean years and achieved his first big success with the poignant ballad “Almost Home.” Other hits soon followed, from party songs like “Redneck Yacht Club” to the soul-rending “The Father, My Son, and the Holy Ghost.” Born from the anguish of his son Jerry’s passing, the song’s tribute has consoled and inspired millions across the world. Duty to country has been a constant throughout his life and globe-spanning career. In 2006, as “That’s What I Love about Sunday” topped country radio charts, Craig was riding in a convoy of Humvees in Iraq. An avid outdoorsman, a former sheriff’s deputy who’s still a member of the auxiliary, and always a husband and father first, Craig Morgan will inspire you with his life lived by the deepest values: God, family, country.
-  Updated: 2026-09-19T18:58:18Z
+  Updated: 2026-10-01T03:26:22Z
   Vendor: Craig Morgan
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMMEMOIR.png?v=1760458982
   Price: $24.99 USD
-- [Craig Morgan VIP 10/1 – Decatur, AL](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-1-decatur-al): 📍 Rock the South 2026 One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show. -Tickets To Show Must Be Purchased Separately-
-  Updated: 2026-08-28T19:35:48Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
 - [Floating Keychain](https://craigmorgan.merchmadeeasy.com/products/floating-keychain): Redneck Yacht Club Floating Keychain in red.
   Updated: 2026-09-08T14:00:23Z
   Vendor: Craig Morgan
@@ -281,36 +274,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
-- [Craig Morgan VIP 10/3 –   Irvington, AL](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-3-irvington-al): 📍 Southern Roots Country Festival One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-09-06T20:28:53Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
 - [Craig Morgan VIP 10/6 –  Poughkeepsie, NY](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-6-poughkeepsie-ny): 📍 Bardavon 1869 Opera House One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-09-18T10:41:35Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
-- [Craig Morgan VIP 9/25 –  Baton Rouge, LA](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-25-baton-rouge-la): 📍 L'Auberge  Hotel One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-09-10T23:57:56Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
-- [Craig Morgan VIP 9/26 – Searcy, AR](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-9-26-searcy-ar): 📍 Get Down Downtown One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-09-21T16:24:36Z
+  Updated: 2026-10-01T21:05:36Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 10/7 – Fryeburg, ME](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-7-fryeburg-me): 📍 Fryeburg Fair 2026 One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:52Z
+  Updated: 2026-10-02T01:54:34Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -324,7 +296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Craig Morgan VIP 10/9 –  Marietta, OH](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-10-9-marietta-oh): 📍 Peoples Bank Theatre One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-08-28T19:35:52Z
+  Updated: 2026-10-04T00:17:45Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -352,13 +324,13 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMSUNDAYHAT.png?v=1788365573
   Price: $35.00 USD
 - [Eagle Tee](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1): Eagle Tee in grey with front and back print. 100% Cotton
-  Updated: 2026-09-19T10:12:06Z
+  Updated: 2026-10-01T16:06:08Z
   Vendor: Craig Morgan
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMEAGLETEE-2.png?v=1749672985
   - [S](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915808988)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915841756)
     Availability: Available
@@ -383,7 +355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMMYCOUNTRYCD-2_2d517ad3-16a8-491c-93bb-65a55b9b77b3.png?v=1789585981
   Price: $14.98 USD
 - [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd-signed): My Country on SIGNED standard CD This item is a pre-order that will ship upon release on November 6, 2026.
-  Updated: 2026-09-23T14:24:39Z
+  Updated: 2026-10-03T16:16:56Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
@@ -393,28 +365,28 @@
 ## Collections
 
 - [Home page](https://craigmorgan.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-23T18:50:57Z
+  Updated: 2026-10-01T17:37:08Z
   Total Products: 34
 - [Apparel](https://craigmorgan.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-21T11:19:47Z
+  Updated: 2026-09-27T11:20:37Z
   Total Products: 19
 - [Accessories](https://craigmorgan.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-23T18:50:57Z
+  Updated: 2026-10-01T17:37:20Z
   Total Products: 9
 - [All](https://craigmorgan.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-24T11:21:43Z
+  Updated: 2026-10-04T11:22:15Z
   Total Products: 25
 - [Music](https://craigmorgan.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-24T11:21:43Z
+  Updated: 2026-10-04T11:22:15Z
   Total Products: 8
 - [VIP TICKETS](https://craigmorgan.merchmadeeasy.com/collections/vip)
-  Updated: 2026-09-22T11:47:02Z
+  Updated: 2026-10-04T11:22:15Z
   Total Products: 60
 - [Upsell](https://craigmorgan.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-09-23T18:50:57Z
+  Updated: 2026-09-27T11:20:37Z
   Total Products: 9
 - [LABOR DAY ](https://craigmorgan.merchmadeeasy.com/collections/labor-day-)
-  Updated: 2026-09-23T18:50:57Z
+  Updated: 2026-09-27T11:20:37Z
   Total Products: 19
 - [$20 Tees](https://craigmorgan.merchmadeeasy.com/collections/20-tees)
   Updated: 2026-09-21T11:19:47Z
@@ -423,13 +395,13 @@
   Updated: 2026-09-21T11:19:47Z
   Total Products: 3
 - [Spring Break Markdowns](https://craigmorgan.merchmadeeasy.com/collections/spring-break-markdowns)
-  Updated: 2026-09-23T18:50:57Z
+  Updated: 2026-09-27T11:20:37Z
   Total Products: 10
 - [BUY ONE, GET ONE FOR $2.50](https://craigmorgan.merchmadeeasy.com/collections/buy-one-get-one-for-2-50)
-  Updated: 2026-09-21T11:19:47Z
+  Updated: 2026-09-27T11:20:37Z
   Total Products: 7
 - [My Country](https://craigmorgan.merchmadeeasy.com/collections/my-country)
-  Updated: 2026-09-24T11:21:43Z
+  Updated: 2026-10-04T11:22:15Z
   Total Products: 2
 
 ## Store Pages
