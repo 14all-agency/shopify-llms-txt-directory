@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-15T16:17:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-26T00:00:39.377Z
+- Updated At: 2026-10-05T00:00:40.345Z
 
 ## Products
 
 - [Bear Tee - Black](https://drinkporosos.store/products/por-osos-black-bear-t-shirt): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-08-29T17:18:01Z
+  Updated: 2026-09-30T19:52:02Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -23,19 +23,19 @@
     Availability: Available
     Price: $40.00 USD
   - [L](https://drinkporosos.store/products/por-osos-black-bear-t-shirt?variant=45669803557077)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [XL](https://drinkporosos.store/products/por-osos-black-bear-t-shirt?variant=45669803589845)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [2XL](https://drinkporosos.store/products/por-osos-black-bear-t-shirt?variant=45669803622613)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [3XL](https://drinkporosos.store/products/por-osos-black-bear-t-shirt?variant=45669803655381)
     Availability: Available
     Price: $40.00 USD
 - [Por Osos™ Recovery Club™ Dickies Jacket](https://drinkporosos.store/products/por-osos-dickies-jacket): Por Osos exclusive Dickies jacket: Slash front welt pockets Heavy duty brass zipper front closure Adjustable tab at waistband Made of 65% polyester, 35% cotton vat dyed twill Size Neck Sleeve Length (in) Chest S 14 1/2 32 1/4 34-37 M 15 1/2 33 1/2 38-41 L 16 1/2 34 1/4 42-45 XL 17 1/2 35 46-49 2XL 18 1/2 35 3/4 50-53 3XL 19 1/2 36 1/2 54-57
-  Updated: 2026-08-14T19:41:05Z
+  Updated: 2026-10-01T17:34:27Z
   Vendor: Por Osos
   Product Type: Hoodie
   Availability: Available
@@ -66,7 +66,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/BlackBearBeanie.png?v=1708712268
   Price: $35.00 USD
 - [Logo Black Zip Hoodie](https://drinkporosos.store/products/por-osos-black-zip-hoodie): Pre-shrunk, regular fit, mid-weight zip hoodie with these features: Kangaroo pocket Lined hood Tonal shoestring drawcord Metal zip Hem & cuff ribbing Made of 80% cotton 20% recycled polyester anti-pill fleece Size Body Length (in) Chest Width (in) S 28 1/4 20 1/2 M 29 1/4 21 3/4 L 30 1/4 22 3/4 XL 31 1/4 24 2XL 32 1/4 25 1/4 3XL 33 1/4 26 1/4
-  Updated: 2026-07-22T19:55:52Z
+  Updated: 2026-10-01T17:34:23Z
   Vendor: Por Osos
   Product Type: Hoodie
   Availability: Available
@@ -90,7 +90,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Ecru Heavy Weight Tee](https://drinkporosos.store/products/por-osos-bear-logo-t-shirt-1): 100% carded cottonOversized fit with dropped shoulders Blank: Ascolour Men's Heavy TeeWeight: 8.2 oz./yd²26 Doubles Size Body Length (in) Body Width (in) S 28 1/4 20 M 29 1/2 21 1/2 L 31 23 1/4 XL 32 1/4 24 3/4 2XL 33 3/4 26 1/4 3XL 34 1/2 28
-  Updated: 2026-07-16T15:41:23Z
+  Updated: 2026-09-30T19:52:08Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -114,14 +114,14 @@
     Availability: Available
     Price: $45.00 USD
 - [Double Osos Hat - Black](https://drinkporosos.store/products/double-osos-black-hat): New Era 2.0: with an increased crown depth and a flatter-sitting bill. Size L/XL, ranging from 7" to 7 3/4"! 100% polyester High-profile Structured Snapback closure
-  Updated: 2026-09-22T01:52:07Z
+  Updated: 2026-09-30T19:52:07Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/DoubleOsosHat.png?v=1729007776
   Price: $40.00 USD
 - [Vodka Cropped White Tee](https://drinkporosos.store/products/vodka-crop-tee): Made of 100% combed cotton Blank: ASColouor Wos Crop Tee 4062 5.3 oz./yd² 28-singles Size Chart Size Body Length (in) Chest Width (in) XS 12 1/4 18 3/4 S 17 3/4 19 3/4 M 18 1/4 20 3/4 L 18 3/4 21 3/4 XL 19 22 3/4 2XL 19 1/2 23 1/2
-  Updated: 2026-07-15T22:14:58Z
+  Updated: 2026-09-27T18:44:06Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -142,7 +142,7 @@
     Availability: Available
     Price: $13.00 USD
 - [Ecru Hoodie](https://drinkporosos.store/products/por-osos-ecru-hoodie): Your favorite Por Osos hoodie, in a new color! Pre-shrunk, regular fit pullover hoodie with these features: Kangaroo pocket Lined hood Tonal shoestring drawcord Sleeve cuff ribbing Made of 80% cotton 20% recycled polyester anti-pill fleece Size Body Length (in) Chest Width (in) S 28 1/4 20 1/2 M 29 1/4 21 3/4 L 30 1/4 22 3/4 XL 31 1/4 24 2XL 32 1/4 25 1/4 3XL 33 1/4 26 1/4
-  Updated: 2026-07-22T17:49:57Z
+  Updated: 2026-09-30T19:52:05Z
   Vendor: Por Osos
   Product Type: Hoodie
   Availability: Available
@@ -173,7 +173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POTALLAHASSEEOSOSHAT.png?v=1754666493
   Price: $45.00 USD
 - [Logo Hat - Maroon](https://drinkporosos.store/products/tallahassee-logo-hat): Por Osos Logo Hat in maroon with embroidery on front. One size fits most 80/20 acrylic/wool Structured, six-panel, high-profile Flat bill, sewn eyelets, snapback closure
-  Updated: 2026-09-23T15:42:49Z
+  Updated: 2026-09-27T18:44:16Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -204,14 +204,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Vodka Co. Trucker Hat](https://drinkporosos.store/products/vodka-co-trucker-hat): Your favorite Por Osos Black Trucker Hat now with a curved visor and mesh back + NEW AND IMPROVED LOGO Structured, six-panel, mid-profile, snapback closure
-  Updated: 2026-09-24T23:09:05Z
+  Updated: 2026-09-29T23:01:06Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POVODKACOTRUCKER.png?v=1763654387
   Price: $40.00 USD
 - [Patch Hat](https://drinkporosos.store/products/patch-hat): Por Osos Patch Hat in natural/walnut with patch on front and embroidery on back. 100% cotton, snapback closure
-  Updated: 2026-09-19T21:48:08Z
+  Updated: 2026-09-30T19:52:06Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -221,43 +221,43 @@
 ## Collections
 
 - [Featured Products](https://drinkporosos.store/collections/frontpage)
-  Updated: 2026-09-25T11:21:54Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 39
 - [Apparel](https://drinkporosos.store/collections/apparel)
-  Updated: 2026-09-24T11:18:54Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 22
 - [Accessories](https://drinkporosos.store/collections/accessories)
-  Updated: 2026-09-25T11:21:54Z
+  Updated: 2026-10-01T11:22:38Z
   Total Products: 17
 - [Hats](https://drinkporosos.store/collections/hats)
-  Updated: 2026-09-25T11:21:54Z
+  Updated: 2026-10-01T11:22:38Z
   Total Products: 13
 - [Music](https://drinkporosos.store/collections/music)
   Updated: 2026-07-08T21:44:42Z
   Total Products: 0
 - [Outerwear](https://drinkporosos.store/collections/outerwear)
-  Updated: 2026-08-15T11:18:07Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 5
 - [T-Shirts](https://drinkporosos.store/collections/t-shirts)
-  Updated: 2026-09-24T11:18:54Z
+  Updated: 2026-10-01T11:22:38Z
   Total Products: 14
 - [Jerseys](https://drinkporosos.store/collections/jerseys)
   Updated: 2026-07-30T19:25:49Z
   Total Products: 2
 - [Drops Of Summer](https://drinkporosos.store/collections/drops-of-summer)
-  Updated: 2026-09-24T11:18:54Z
+  Updated: 2026-10-01T11:22:38Z
   Total Products: 8
 - [Vodka Collection](https://drinkporosos.store/collections/vodka-collection)
-  Updated: 2026-09-11T11:17:00Z
+  Updated: 2026-09-28T11:16:02Z
   Total Products: 4
 - [ALL](https://drinkporosos.store/collections/all)
-  Updated: 2026-09-25T11:21:54Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 13
 - [Just Added](https://drinkporosos.store/collections/just-added)
-  Updated: 2026-07-30T19:25:52Z
+  Updated: 2026-10-01T11:22:38Z
   Total Products: 2
 - [LAST CHANCE](https://drinkporosos.store/collections/liquidation-)
-  Updated: 2026-09-11T11:17:00Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 12
 - [2 BEARS 5K](https://drinkporosos.store/collections/3-bears-5k)
   Updated: 2026-07-30T19:25:53Z
@@ -266,13 +266,13 @@
   Updated: 2026-07-30T19:25:53Z
   Total Products: 2
 - [Tallahassee Merch](https://drinkporosos.store/collections/tallahassee-merch)
-  Updated: 2026-09-24T11:18:54Z
+  Updated: 2026-09-28T11:16:02Z
   Total Products: 3
 - [UPSELL](https://drinkporosos.store/collections/upsell)
   Updated: 2026-09-11T11:17:00Z
   Total Products: 5
 - [POR OSOS PALOOZA](https://drinkporosos.store/collections/por-osos-palooza)
-  Updated: 2026-09-25T11:21:54Z
+  Updated: 2026-10-02T11:17:34Z
   Total Products: 21
 
 ## Store Pages
