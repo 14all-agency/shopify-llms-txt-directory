@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-09-20T00:00:43.634Z
+- Updated At: 2026-10-05T00:00:45.731Z
 
 ## Products
 
@@ -1915,294 +1915,294 @@
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001263309857.jpg?v=1786191448
   Price: $59.64 USD
 - [Kütahya Porselen 'Glad You Exist' 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-glad-you-exist-4-piece-turkish-coffee-cup-set-for-2-hb00000w5ifd): A thoughtful 4-piece Turkish coffee set for two. It includes two porcelain coffee cups and two matching saucers, making it a lovely choice for sharing a coffee moment or giving as a gift.
-  Updated: 2026-09-11T12:38:42Z
+  Updated: 2026-09-23T11:25:44Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10716400418866.jpg?v=1786191450
   Price: $62.58 USD
 - [Kütahya Porselen Silvia 12-Piece Turkish Coffee Cup Set, White, for 6](https://mallturk.com/products/kutahya-porselen-silvia-12-piece-turkish-coffee-cup-set-white-for-6-hb000003njlu): The Silvia set brings a simple, elegant look to coffee service. This 12-piece porcelain set contains six handled coffee cups and six saucers. With its plain white finish and 90 ml capacity, it is ideal for daily use and entertaining. Dishwasher safe.
-  Updated: 2026-09-11T12:38:42Z
+  Updated: 2026-09-23T11:25:44Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001604187205.jpg?v=1786191450
   Price: $68.59 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857y): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-09-11T12:38:42Z
+  Updated: 2026-09-23T11:25:43Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012189.jpg?v=1786191452
   Price: $65.60 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857w): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-09-11T12:38:42Z
+  Updated: 2026-09-23T11:25:43Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012186.jpg?v=1786191455
   Price: $65.60 USD
 - [Kütahya Porselen Bone Iron 12-Piece Turkish Coffee Cup Set, White, for](https://mallturk.com/products/kutahya-porselen-bone-iron-12-piece-turkish-coffee-cup-set-white-for-6-hbc00000eztsc): Serve Turkish coffee in timeless style with the Bone Iron set. This 12-piece plain white porcelain set includes six handled coffee cups and six saucers. Its narrow rim and wider base are designed for a traditional Turkish coffee presentation.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:43Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000043386831.jpg?v=1786191455
   Price: $68.59 USD
 - [Kütahya Porselen Gentlemen Series Sailboat 12-Piece Turkish Coffee Cup](https://mallturk.com/products/kutahya-porselen-gentlemen-series-sailboat-12-piece-turkish-coffee-cup-set-for-6-hb00000sku2w): A patterned 12-piece porcelain Turkish coffee set from the Gentlemen Series. It includes six handled coffee cups and six saucers, offering a distinctive sailboat design for coffee service at home or with guests.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:43Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10567107444786.jpg?v=1786191458
   Price: $69.01 USD
 - [Kütahya Porselen Atatürk 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-ataturk-4-piece-turkish-coffee-cup-set-for-2-hbc000036dva5): A 4-piece handled porcelain Turkish coffee set for two. Includes two coffee cups and two saucers in a white design, suitable for sharing coffee with family and guests.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:42Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000299500538.jpg?v=1786191458
   Price: $70.19 USD
 - [Kütahya Porselen Bone Desire Prosperity Symbol 4-Piece Turkish Coffee](https://mallturk.com/products/kutahya-porselen-bone-desire-prosperity-symbol-4-piece-turkish-coffee-cup-set-for-2-hbc00008gaakv): The Bone Desire set combines Anatolian-inspired prosperity motifs with a modern black-and-white design. This 4-piece porcelain set includes two 90 ml handled coffee cups and two saucers. Hand washing is recommended.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:42Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000983959540.jpg?v=1786191459
   Price: $79.84 USD
 - [Kütahya Porselen Bone Luz 12-Piece Turkish Coffee Cup Set, White, for](https://mallturk.com/products/kutahya-porselen-bone-luz-12-piece-turkish-coffee-cup-set-white-for-6-hbc0000b4t4ln): An elegant 12-piece porcelain coffee set for six. The set includes six handled coffee cups and six saucers in a plain white finish. Each cup has a 110 ml capacity, making it a refined option for everyday use and special occasions. Microwave safe.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:42Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001325367124.jpg?v=1786191461
   Price: $85.73 USD
 - [Kütahya Porselen Bone Pure Love 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-pure-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszqkl): A colourful patterned 4-piece porcelain Turkish coffee set for two. It includes two 90 ml handled coffee cups and two matching saucers, adding a warm and expressive touch to coffee time.
-  Updated: 2026-09-11T12:38:43Z
+  Updated: 2026-09-23T11:25:42Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515329563.jpg?v=1786191463
   Price: $83.26 USD
 - [Kütahya Porselen Bone Soft Love 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-soft-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszoxl): A patterned 4-piece porcelain Turkish coffee set for two. The set includes two 90 ml handled coffee cups and two saucers, designed to make everyday coffee moments more special.
-  Updated: 2026-09-11T12:38:44Z
+  Updated: 2026-09-23T11:25:41Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515321793.jpg?v=1786191463
   Price: $83.26 USD
 - [Kütahya Porselen Briscambille 12-Piece Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-briscambille-12-piece-turkish-coffee-cup-set-for-6-hbc00003xtrjq): The Briscambille Collection interprets playing-card symbols in an expressive pop-art style. This 12-piece patterned porcelain set includes six coffee cups and six saucers, bringing a bold decorative character to coffee service.
-  Updated: 2026-09-11T12:38:44Z
+  Updated: 2026-09-23T11:25:41Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000391808637.jpg?v=1786191464
   Price: $84.57 USD
 - [Kütahya Porselen Atatürk Signature 12-Piece Turkish Coffee Cup Set for](https://mallturk.com/products/kutahya-porselen-ataturk-signature-12-piece-turkish-coffee-cup-set-for-6-hb0000000pt7): A special 12-piece porcelain coffee set featuring a platinum Atatürk signature on the cups and platinum lines on the saucers. It includes six coffee cups and six saucers. The colours are designed not to fade and the set is dishwasher safe.
-  Updated: 2026-09-11T12:38:44Z
+  Updated: 2026-09-23T11:25:41Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9429220261938.jpg?v=1786191465
   Price: $105.75 USD
 - [Kütahya Porselen Bone Luna 4-Piece Teapot and Tea Cup Set](https://mallturk.com/products/kutahya-porselen-bone-luna-4-piece-teapot-and-tea-cup-set-hbc0000fbsv49): The Bone Luna set is inspired by the calm glow of the moon, with balanced forms, rhythmic lines and a butterfly detail. This 4-piece set includes one tea cup, one tea saucer, one teapot and one teapot lid. Dishwasher safe.
-  Updated: 2026-09-11T12:38:44Z
+  Updated: 2026-09-23T11:25:41Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001796146452.jpg?v=1786191467
   Price: $124.42 USD
 - [Karaca Rory Single Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-rory-single-turkish-coffee-cup-set-80-ml-mturkhbc00004vfey0): This original Karaca set combines practical everyday use with an elegant presentation. Material: glass. Capacity: 80 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:44Z
+  Updated: 2026-09-23T11:25:40Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001078399129.jpg?v=1786356214
   Price: $58.49 USD
 - [Karaca The Little Prince 4-Piece Turkish Coffee Cup and Saucer Set for](https://mallturk.com/products/karaca-the-little-prince-4-piece-turkish-coffee-cup-and-saucer-set-for-2-mturkhbc00000vxywf): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Designed for 2 people. Set includes 4 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:40Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000138079490.jpg?v=1786356214
   Price: $60.67 USD
 - [Karaca Plaid 4-Piece Red Porcelain Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-plaid-4-piece-red-porcelain-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00000z0vkk): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 2 people. Set includes 4 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:40Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001625019613.jpg?v=1786356215
   Price: $60.67 USD
 - [Karaca Lovely Laugh Espresso Cup Set for 4, 100 ml](https://mallturk.com/products/karaca-lovely-laugh-espresso-cup-set-for-4-100-ml-mturkhbc0000373f1k): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 4 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:40Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000388034245.jpg?v=1786356218
   Price: $62.22 USD
 - [Karaca Ihlamur Colorful New Bone Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-ihlamur-colorful-new-bone-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00004m07oz): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 80 ml. Designed for 2 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:39Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000557702189.jpg?v=1786356219
   Price: $62.22 USD
 - [Karaca Aries Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fle2k0): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:39Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961866678.jpg?v=1786356220
   Price: $68.44 USD
 - [Karaca Aries Deer Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-deer-turkish-coffee-cup-set-90-ml-mturkhbc0000flowus): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:45Z
+  Updated: 2026-09-23T11:25:39Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961829449.jpg?v=1786824666
   Price: $68.44 USD
 - [Karaca Saturn Gold Porcelain Turkish Coffee Cup Set for 2, 100 ml](https://mallturk.com/products/karaca-saturn-gold-porcelain-turkish-coffee-cup-set-for-2-100-ml-mturkhbc00000fsipy): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:46Z
+  Updated: 2026-09-23T11:25:39Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000576084780.jpg?v=1786356223
   Price: $71.55 USD
 - [Karaca Turkiye Series Turkish Coffee Cup Set 85 ml](https://mallturk.com/products/karaca-turkiye-series-turkish-coffee-cup-set-85-ml-mturkhbc0000fl58r2): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:46Z
+  Updated: 2026-09-23T11:25:38Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001821012238.jpg?v=1786356224
   Price: $68.44 USD
 - [Karaca Bali Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-bali-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00003zr61q): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:46Z
+  Updated: 2026-09-23T11:25:38Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000424302791.jpg?v=1786356225
   Price: $74.67 USD
 - [Karaca Nossa Black and White Porcelain Turkish Coffee Cup Set for 6, 8](https://mallturk.com/products/karaca-nossa-black-and-white-porcelain-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000vkzpt): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:46Z
+  Updated: 2026-09-23T11:25:38Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000094644552.jpg?v=1786356226
   Price: $74.67 USD
 - [Karaca Venus Gold Turkish Coffee Cup Set for 2, 135 ml](https://mallturk.com/products/karaca-venus-gold-turkish-coffee-cup-set-for-2-135-ml-mturkhbc000046y17q): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 135 ml. Designed for 2 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:46Z
+  Updated: 2026-09-23T11:25:38Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000528105214.jpg?v=1786356227
   Price: $74.67 USD
 - [Karaca Anemon 5-Piece Bone Turkish Coffee Cup Set with Stand for 2, 80](https://mallturk.com/products/karaca-anemon-5-piece-bone-turkish-coffee-cup-set-with-stand-for-2-80-ml-mturkhbc00007cr48e): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 2 people. Set includes 5 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:37Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355594.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Ahenk Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-ahenk-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000e2j517): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:37Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001659468487.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Streamline Saturn Single Coffee Presentation Set 100 ml](https://mallturk.com/products/karaca-streamline-saturn-single-coffee-presentation-set-100-ml-mturkhbc0000dj48fo): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:37Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001816770815.jpg?v=1786356230
   Price: $74.67 USD
 - [Karaca Peacock 4-Piece Patterned Porcelain Turkish Coffee Cup Set for](https://mallturk.com/products/karaca-peacock-4-piece-patterned-porcelain-turkish-coffee-cup-set-for-2-90-ml-mturkhbc000068j10i): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Set includes 4 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:37Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001076003796.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca x Galatasaray Licensed Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-x-galatasaray-licensed-turkish-coffee-cup-set-for-6-80-ml-mturkhbcv0000fk80tg): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:36Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001818570458.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca Iznik Series Fish Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-iznik-series-fish-turkish-coffee-cup-set-90-ml-mturkhbc0000fg8mw1): This original Karaca set combines practical everyday use with an elegant presentation. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:47Z
+  Updated: 2026-09-23T11:25:36Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001807118657.jpg?v=1786356234
   Price: $74.67 USD
 - [Karaca Solenne Cream Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-solenne-cream-turkish-coffee-cup-set-for-2-80-ml-mturkhbc0000ffc5lj): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:48Z
+  Updated: 2026-09-23T11:25:36Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001804825012.jpg?v=1786356235
   Price: $74.67 USD
 - [Karaca Deep Red Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-deep-red-striped-turkish-coffee-cup-set-90-ml-mturkhbcv0000g12gzl): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:48Z
+  Updated: 2026-09-23T11:25:36Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001861067922.jpg?v=1786356237
   Price: $77.78 USD
 - [Karaca Flowerful Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-flowerful-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000gzthje): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:48Z
+  Updated: 2026-09-23T11:22:31Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961635061.jpg?v=1786356237
   Price: $77.75 USD
 - [Karaca King and Queen Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-king-and-queen-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000gdpw74): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:48Z
+  Updated: 2026-09-23T11:22:31Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001889688557.jpg?v=1786356238
   Price: $77.78 USD
 - [Karaca Cherry Time Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-cherry-time-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fn9gf1): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:49Z
+  Updated: 2026-09-23T11:22:31Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001826984268.jpg?v=1786356241
   Price: $68.78 USD
 - [Karaca Jungle Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-jungle-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000e1pa8): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:49Z
+  Updated: 2026-09-23T11:22:30Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001443646760.jpg?v=1786356242
   Price: $77.47 USD
 - [Karaca Art Deco 2-Piece Porcelain Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-art-deco-2-piece-porcelain-turkish-coffee-cup-set-80-ml-mturkhb00000uwzcn): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Set includes 2 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:49Z
+  Updated: 2026-09-23T11:22:30Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001067980379.jpg?v=1786356242
   Price: $80.89 USD
 - [Karaca 50th Anniversary Signature Collection Korea Turkish Coffee Cup](https://mallturk.com/products/karaca-50th-anniversary-signature-collection-korea-turkish-coffee-cup-set-for-2-100-ml-mturkhbc0000empbwl): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:49Z
+  Updated: 2026-09-23T11:22:30Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001858915695.jpg?v=1786356243
   Price: $77.78 USD
 - [Karaca Swan Porcelain Turkish Coffee Cup Set for 2, 70 ml](https://mallturk.com/products/karaca-swan-porcelain-turkish-coffee-cup-set-for-2-70-ml-mturkhbc000000ywwb): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 70 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:49Z
+  Updated: 2026-09-23T11:22:30Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355690.jpg?v=1786356247
   Price: $77.78 USD
 - [Karaca Boyoz Turkish Coffee Cup Set for 6, 85 ml](https://mallturk.com/products/karaca-boyoz-turkish-coffee-cup-set-for-6-85-ml-mturkhbc00004jgpe6): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-09-11T12:38:50Z
+  Updated: 2026-09-23T11:22:29Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
@@ -2216,16 +2216,16 @@
   Updated: 2026-09-11T12:38:05Z
   Total Products: 3
 - [Turkish Mosaic Chandeliers](https://mallturk.com/collections/chandelier): Explore Turkish mosaic chandeliers at MallTurk. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
-  Updated: 2026-09-11T12:38:05Z
+  Updated: 2026-10-02T15:57:29Z
   Total Products: 65
 - [Turkish Mosaic Floor Lamps](https://mallturk.com/collections/floor-lamp): Explore Turkish mosaic floor lamps at MALLTURK. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
-  Updated: 2026-09-11T12:38:05Z
+  Updated: 2026-10-02T15:56:26Z
   Total Products: 27
 - [Turkish Coffee Machines](https://mallturk.com/collections/turkish-coffee-machines)
   Updated: 2026-09-19T11:13:18Z
   Total Products: 82
 - [Cookware](https://mallturk.com/collections/cookware): Explore Cookware at MALLTURK. Discover practical and stylish options for everyday cooking and meal preparation.
-  Updated: 2026-09-11T15:16:10Z
+  Updated: 2026-09-23T12:21:06Z
   Total Products: 596
 - [Women's Clothing](https://mallturk.com/collections/womens-clothing)
   Updated: 2026-09-11T15:16:11Z
@@ -2236,14 +2236,14 @@
 - [Automatic Coffee Machine](https://mallturk.com/collections/automatic-coffee-machine): Explore automatic coffee machines at MallTurk. Discover practical and modern coffee machines designed for convenient preparation and enjoyable everyday use.
   Updated: 2026-09-11T15:16:13Z
   Total Products: 29
-- [Ground Coffee](https://mallturk.com/collections/ground-coffee)
-  Updated: 2026-09-15T11:12:42Z
-  Total Products: 1133
+- [Ground Coffee](https://mallturk.com/collections/ground-coffee): Authentic Turkish Coffee – Every Type, One Store, Great Prices From classic finely ground Turkish coffee to rare traditional blends, Mallturk brings you one of the widest selections of authentic Turkish coffee online, all at affordable prices. Discover classic Turkish coffee, dibek coffee, menengiç (terebinth) coffee, Ottoman coffee, and flavored blends such as mastic, cardamom and more. Whether you're a Turkish coffee lover, a café owner, or looking for a unique gift, you'll find your favorite here. Complete your ritual with traditional cezves, Turkish coffee machines and coffee cup sets. Why buy from Mallturk:- Wide variety of authentic Turkish coffee from popular Turkish brands- Affordable prices for retail and wholesale orders- Shipped in original sealed packaging- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days
+  Updated: 2026-10-02T16:02:39Z
+  Total Products: 979
 - [Turkish Mosaic Wall Lamps](https://mallturk.com/collections/mosaic-wall-lamp): Explore handmade Turkish mosaic wall sconces at MALLTURK. Discover premium wall lighting with special designs, traditional craftsmanship, and elegant style.
-  Updated: 2026-09-11T15:16:16Z
+  Updated: 2026-10-02T15:57:01Z
   Total Products: 26
 - [Turkish Mosaic Table Lamps](https://mallturk.com/collections/turkish-mosaic-lamps-floor-lamp): Explore Turkish mosaic table lamps at MALLTURK. Discover handcrafted designs featuring vibrant colors, unique patterns, and timeless Turkish craftsmanship.
-  Updated: 2026-09-11T15:16:17Z
+  Updated: 2026-10-02T15:56:40Z
   Total Products: 74
 - [Turkish Delight](https://mallturk.com/collections/turkish-delight)
   Updated: 2026-09-14T13:04:12Z
@@ -2252,14 +2252,14 @@
   Updated: 2026-09-11T15:16:20Z
   Total Products: 1353
 - [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets)
-  Updated: 2026-09-11T15:16:21Z
-  Total Products: 133
+  Updated: 2026-09-20T15:02:02Z
+  Total Products: 136
 - [Bedding](https://mallturk.com/collections/bedding)
-  Updated: 2026-09-19T14:58:43Z
+  Updated: 2026-09-21T11:54:23Z
   Total Products: 1268
 - [Towels](https://mallturk.com/collections/towels)
-  Updated: 2026-09-14T19:08:07Z
-  Total Products: 104
+  Updated: 2026-09-20T15:02:02Z
+  Total Products: 101
 - [Tea Makers Collection](https://mallturk.com/collections/tea-makers): Explore tea makers at MallTurk. Discover practical and modern solutions designed for convenient tea preparation and enjoyable everyday use.
   Updated: 2026-09-11T15:16:26Z
   Total Products: 347
@@ -2273,8 +2273,8 @@
   Updated: 2026-09-11T15:16:30Z
   Total Products: 111
 - [Men's Jeans](https://mallturk.com/collections/mens-jeans)
-  Updated: 2026-09-11T15:16:31Z
-  Total Products: 206
+  Updated: 2026-10-02T12:16:27Z
+  Total Products: 211
 - [Home & Living](https://mallturk.com/collections/home-living)
   Updated: 2026-09-11T12:38:06Z
   Total Products: 0
@@ -2285,8 +2285,8 @@
   Updated: 2026-09-11T15:16:34Z
   Total Products: 2
 - [Women's Jeans](https://mallturk.com/collections/womens-jeans)
-  Updated: 2026-09-11T15:16:36Z
-  Total Products: 81
+  Updated: 2026-10-02T15:13:27Z
+  Total Products: 455
 - [Juicers](https://mallturk.com/collections/juicers): Explore Juicers at MALLTURK. Discover practical options for preparing fresh juices at home and enjoying convenient everyday use.
   Updated: 2026-09-11T15:16:37Z
   Total Products: 6
@@ -2306,10 +2306,10 @@
   Updated: 2026-09-11T15:16:43Z
   Total Products: 22
 - [Women's Bags](https://mallturk.com/collections/womens-bags)
-  Updated: 2026-09-16T11:13:12Z
-  Total Products: 1255
+  Updated: 2026-10-02T13:10:41Z
+  Total Products: 1281
 - [Spices & Seasonings](https://mallturk.com/collections/spices-seasonings)
-  Updated: 2026-09-11T15:16:45Z
+  Updated: 2026-09-23T11:14:00Z
   Total Products: 146
 - [Hair Care](https://mallturk.com/collections/hair-care): Explore Hair Care products at MALLTURK. Discover practical options for everyday hair care routines and different hair care needs.
   Updated: 2026-09-11T12:38:06Z
@@ -2320,18 +2320,15 @@
 - [Turkish Pestemal](https://mallturk.com/collections/turkish-pestemal)
   Updated: 2026-09-11T15:16:48Z
   Total Products: 4
-- [Mavi Jeans Products](https://mallturk.com/collections/mavi-jeans): Explore Mavi Jeans products at MallTurk. Discover stylish jeans, denim essentials, and casual clothing designed for comfort, quality, and everyday style.
-  Updated: 2026-09-11T15:16:49Z
-  Total Products: 292
 - [Men's Shoes](https://mallturk.com/collections/mens-shoes)
   Updated: 2026-09-11T15:16:51Z
   Total Products: 2
 - [Men's Boots](https://mallturk.com/collections/mens-boots)
-  Updated: 2026-09-11T12:38:06Z
-  Total Products: 28
+  Updated: 2026-10-02T13:13:11Z
+  Total Products: 79
 - [Women's Boots](https://mallturk.com/collections/womens-boots)
-  Updated: 2026-09-16T16:30:31Z
-  Total Products: 8
+  Updated: 2026-10-02T10:40:22Z
+  Total Products: 136
 - [Women's Wallet](https://mallturk.com/collections/womens-wallet)
   Updated: 2026-09-11T15:16:53Z
   Total Products: 69
@@ -2339,11 +2336,11 @@
   Updated: 2026-09-11T15:16:55Z
   Total Products: 365
 - [Women's Backpack](https://mallturk.com/collections/womens-backpack)
-  Updated: 2026-09-11T15:16:56Z
-  Total Products: 18
-- [Men's Outerwear](https://mallturk.com/collections/mens-outerwear)
-  Updated: 2026-09-11T15:16:57Z
+  Updated: 2026-10-02T13:11:29Z
   Total Products: 24
+- [Men's Outerwear](https://mallturk.com/collections/mens-outerwear)
+  Updated: 2026-10-01T11:37:06Z
+  Total Products: 29
 - [Rugs](https://mallturk.com/collections/rugs)
   Updated: 2026-09-11T15:16:59Z
   Total Products: 188
@@ -2351,13 +2348,13 @@
   Updated: 2026-09-11T15:17:00Z
   Total Products: 55
 - [Women's Outerwear](https://mallturk.com/collections/womens-outerwear)
-  Updated: 2026-09-11T12:38:07Z
-  Total Products: 22
+  Updated: 2026-10-01T11:36:48Z
+  Total Products: 32
 - [Sports Nutrition](https://mallturk.com/collections/sports-nutrition)
   Updated: 2026-09-11T15:17:02Z
   Total Products: 136
 - [Wool Rugs](https://mallturk.com/collections/wool-rugs)
-  Updated: 2026-09-11T15:17:05Z
+  Updated: 2026-09-23T16:38:50Z
   Total Products: 2378
 - [Bamboo Rugs](https://mallturk.com/collections/bamboo-rugs)
   Updated: 2026-09-11T15:17:06Z
@@ -2402,7 +2399,7 @@
   Updated: 2026-09-11T15:17:19Z
   Total Products: 19
 - [Herbal & Fruit Tea](https://mallturk.com/collections/herbal-fruit-tea)
-  Updated: 2026-09-11T15:17:20Z
+  Updated: 2026-09-28T11:12:23Z
   Total Products: 1912
 - [Leather Bags](https://mallturk.com/collections/leather-bags): Explore Leather Bags at MALLTURK. Discover stylish and practical designs for everyday use and different occasions.
   Updated: 2026-09-11T15:17:22Z
@@ -2417,8 +2414,8 @@
   Updated: 2026-09-11T15:17:27Z
   Total Products: 9
 - [Women's Sportswear](https://mallturk.com/collections/womens-sportswear)
-  Updated: 2026-09-11T15:17:28Z
-  Total Products: 63
+  Updated: 2026-10-01T10:26:58Z
+  Total Products: 69
 - [Girls' Swimwear](https://mallturk.com/collections/girls-swimwear)
   Updated: 2026-09-11T15:17:30Z
   Total Products: 13
@@ -2428,27 +2425,9 @@
 - [Leather Hats](https://mallturk.com/collections/leather-hats)
   Updated: 2026-09-11T12:38:08Z
   Total Products: 55
-- [Turkish Mosaic Chandelier – 5 Globe](https://mallturk.com/collections/turkish-mosaic-chandelier-5-globe)
-  Updated: 2026-09-11T15:17:33Z
+- [Turkish Mosaic Chandelier – 5 Globe](https://mallturk.com/collections/turkish-mosaic-chandelier-5-globe): Handmade Turkish Mosaic Lamps – Direct from the Manufacturer We don't resell mosaic lamps. We make them. Every lamp in this collection is handcrafted in our own workshop in Türkiye, piece by piece, using colorful glass mosaic and traditional Ottoman-inspired designs. Because you buy directly from the maker, there are no middlemen and no marketplace markups. You get authentic handmade quality at factory-direct prices. Choose from table lamps, floor lamps, hanging lamps and chandeliers, perfect for living rooms, bedrooms, restaurants, cafés and hotels. Why buy from Mallturk:- Made by us, not resold: authentic handmade Turkish mosaic lamps- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days- Carefully packed for safe international delivery- Wholesale and bulk orders welcome for hotels, restaurants and retailers
+  Updated: 2026-10-02T15:57:45Z
   Total Products: 17
-- [Arcelik Products](https://mallturk.com/collections/arceli̇k): Explore Arcelik products at MallTurk. Discover practical and modern products designed for everyday use, comfort, convenience, and functionality.
-  Updated: 2026-09-11T15:17:34Z
-  Total Products: 57
-- [Kurukahveci Mehmet Efendi Products](https://mallturk.com/collections/kuru-kahveci-mehmet-efendi): Explore Kurukahveci Mehmet Efendi products at MallTurk. Discover products inspired by Turkish coffee culture, tradition, and quality.
-  Updated: 2026-09-11T15:17:35Z
-  Total Products: 166
-- [Karaca Home Products](https://mallturk.com/collections/karaca): Explore Karaca Home products at MallTurk. Discover bedspreads, home textiles, bedding, decorative items, and stylish essentials for your home.
-  Updated: 2026-09-19T14:58:43Z
-  Total Products: 541
-- [mavi jeans](https://mallturk.com/collections/mavi-jeans-1)
-  Updated: 2026-09-11T15:17:38Z
-  Total Products: 292
-- [Karaca Products](https://mallturk.com/collections/karaca-1): Explore Karaca products at MallTurk. Discover practical and modern products designed for everyday use, comfort, convenience, and functionality.
-  Updated: 2026-09-16T15:28:08Z
-  Total Products: 549
-- [Tac Home & Kitchen Products](https://mallturk.com/collections/tac): Explore Tac Home & Kitchen products at MallTurk. Discover practical and stylish products designed for everyday use, comfort, and convenience.
-  Updated: 2026-09-19T10:50:24Z
-  Total Products: 367
 - [Hafiz Mustafa 1864 Products](https://mallturk.com/collections/hafiz-mustafa): Explore Hafiz Mustafa 1864 products at MallTurk. Discover traditional Turkish sweets, delicacies, gift options, and authentic flavors for every occasion.
   Updated: 2026-09-14T12:27:49Z
   Total Products: 69
@@ -2467,6 +2446,501 @@
 - [Traditional coffee and tea](https://mallturk.com/collections/traditional-coffee-and-tea)
   Updated: 2026-09-11T15:55:32Z
   Total Products: 19
+- [Women's Pants](https://mallturk.com/collections/womens-pants)
+  Updated: 2026-10-02T06:26:06Z
+  Total Products: 386
+- [Women's Shorts](https://mallturk.com/collections/womens-shorts)
+  Updated: 2026-10-02T06:26:08Z
+  Total Products: 101
+- [Women's Skirts](https://mallturk.com/collections/womens-skirts)
+  Updated: 2026-10-02T17:06:49Z
+  Total Products: 166
+- [Women's Dresses](https://mallturk.com/collections/womens-dresses)
+  Updated: 2026-10-02T17:06:21Z
+  Total Products: 227
+- [Women's Bodysuits & Corsets](https://mallturk.com/collections/womens-bodysuits-corsets)
+  Updated: 2026-10-02T13:53:13Z
+  Total Products: 240
+- [Women's Tops](https://mallturk.com/collections/womens-t-shirts)
+  Updated: 2026-10-01T11:27:21Z
+  Total Products: 145
+- [Women's Pajama Sets](https://mallturk.com/collections/womens-pajama-sets)
+  Updated: 2026-10-02T15:13:29Z
+  Total Products: 681
+- [Men's T-Shirts](https://mallturk.com/collections/mens-t-shirts)
+  Updated: 2026-10-02T15:13:21Z
+  Total Products: 23
+- [Men's Socks](https://mallturk.com/collections/mens-socks)
+  Updated: 2026-10-01T10:59:37Z
+  Total Products: 1
+- [Women's Socks](https://mallturk.com/collections/womens-socks)
+  Updated: 2026-10-02T12:53:39Z
+  Total Products: 63
+- [Men's Sandals](https://mallturk.com/collections/mens-sandals)
+  Updated: 2026-10-01T11:10:31Z
+  Total Products: 1
+- [Women's Sandals](https://mallturk.com/collections/womens-sandals)
+  Updated: 2026-10-02T10:59:59Z
+  Total Products: 104
+- [Women's Slippers](https://mallturk.com/collections/womens-slippers)
+  Updated: 2026-10-02T11:00:11Z
+  Total Products: 90
+- [Women's Heels](https://mallturk.com/collections/womens-heels)
+  Updated: 2026-10-02T10:49:43Z
+  Total Products: 167
+- [Women's Home Slippers](https://mallturk.com/collections/womens-home-slippers)
+  Updated: 2026-10-02T06:26:18Z
+  Total Products: 8
+- [Men's Slippers](https://mallturk.com/collections/mens-slippers)
+  Updated: 2026-10-02T10:42:16Z
+  Total Products: 18
+- [Men's Leather Shoes](https://mallturk.com/collections/mens-leather-shoes)
+  Updated: 2026-10-02T06:26:21Z
+  Total Products: 6
+- [Boys' Slippers](https://mallturk.com/collections/boys-slippers)
+  Updated: 2026-10-01T11:30:54Z
+  Total Products: 4
+- [Girls' Sandals](https://mallturk.com/collections/girls-sandals)
+  Updated: 2026-10-02T13:03:38Z
+  Total Products: 8
+- [Boys' Sandals](https://mallturk.com/collections/boys-sandals)
+  Updated: 2026-10-01T11:44:03Z
+  Total Products: 13
+- [Women's Sports Shoes](https://mallturk.com/collections/womens-sports-shoes)
+  Updated: 2026-10-02T10:53:24Z
+  Total Products: 141
+- [Women's Casual Shoes](https://mallturk.com/collections/womens-flat-shoes)
+  Updated: 2026-10-02T13:08:38Z
+  Total Products: 289
+- [Men's Sports Shoes](https://mallturk.com/collections/mens-sports-shoes)
+  Updated: 2026-10-02T12:32:33Z
+  Total Products: 98
+- [Men's Casual Shoes](https://mallturk.com/collections/mens-flat-shoes)
+  Updated: 2026-10-02T10:36:52Z
+  Total Products: 618
+- [Boys' Sneakers](https://mallturk.com/collections/boys-sneakers)
+  Updated: 2026-10-02T11:11:28Z
+  Total Products: 49
+- [Women's Flats](https://mallturk.com/collections/womens-flats)
+  Updated: 2026-10-02T11:13:11Z
+  Total Products: 32
+- [Women's Heeled Boots](https://mallturk.com/collections/womens-heeled-boots)
+  Updated: 2026-10-02T11:13:57Z
+  Total Products: 8
+- [Girls' Boots](https://mallturk.com/collections/girls-boots)
+  Updated: 2026-10-02T11:16:11Z
+  Total Products: 10
+- [Girls' Sneakers](https://mallturk.com/collections/girls-sneakers)
+  Updated: 2026-10-02T11:31:09Z
+  Total Products: 2
+- [Girls' Flats](https://mallturk.com/collections/girls-flats)
+  Updated: 2026-10-02T11:31:46Z
+  Total Products: 1
+- [Girls' Roller Shoes](https://mallturk.com/collections/girls-roller-shoes)
+  Updated: 2026-10-02T11:32:39Z
+  Total Products: 2
+- [Girls' Heels](https://mallturk.com/collections/girls-heels)
+  Updated: 2026-10-02T11:34:35Z
+  Total Products: 6
+- [Girls' Slippers](https://mallturk.com/collections/girls-slippers)
+  Updated: 2026-10-02T11:45:45Z
+  Total Products: 2
+- [Boys' Bag](https://mallturk.com/collections/boys-bag)
+  Updated: 2026-10-02T11:47:33Z
+  Total Products: 1
+- [Boys' Boots](https://mallturk.com/collections/boys-boots)
+  Updated: 2026-10-02T11:49:05Z
+  Total Products: 13
+- [Dresses](https://mallturk.com/collections/dresses)
+  Updated: 2026-10-02T12:14:04Z
+  Total Products: 2
+- [Kids' Baby Bodysuit & Onesie](https://mallturk.com/collections/kids-baby-bodysuit-onesie)
+  Updated: 2026-10-02T14:19:52Z
+  Total Products: 9
+- [Kids' Blouses](https://mallturk.com/collections/kids-blouses)
+  Updated: 2026-10-02T12:14:11Z
+  Total Products: 13
+- [Kids' Bodysuits](https://mallturk.com/collections/kids-bodysuits)
+  Updated: 2026-10-02T14:44:56Z
+  Total Products: 23
+- [Kids' Boxer Shorts](https://mallturk.com/collections/kids-boxer-shorts)
+  Updated: 2026-10-02T12:14:17Z
+  Total Products: 13
+- [Kids' Briefs](https://mallturk.com/collections/kids-briefs)
+  Updated: 2026-10-02T14:58:50Z
+  Total Products: 19
+- [Kids' Cardigans](https://mallturk.com/collections/kids-cardigans)
+  Updated: 2026-10-02T12:14:23Z
+  Total Products: 18
+- [Kids' Coats](https://mallturk.com/collections/kids-coats)
+  Updated: 2026-10-02T12:14:29Z
+  Total Products: 1
+- [Kids' Costumes](https://mallturk.com/collections/kids-costumes)
+  Updated: 2026-10-02T12:14:32Z
+  Total Products: 1
+- [Kids' Dresses](https://mallturk.com/collections/kids-dresses)
+  Updated: 2026-10-02T12:14:36Z
+  Total Products: 36
+- [Kids' Hair Clips](https://mallturk.com/collections/kids-hair-clips)
+  Updated: 2026-10-02T12:14:39Z
+  Total Products: 1
+- [Kids' Jackets](https://mallturk.com/collections/kids-jackets)
+  Updated: 2026-10-02T14:04:25Z
+  Total Products: 15
+- [Kids' Jeans](https://mallturk.com/collections/kids-jeans)
+  Updated: 2026-10-02T12:14:45Z
+  Total Products: 4
+- [Kids' Leggings](https://mallturk.com/collections/kids-leggings)
+  Updated: 2026-10-02T14:42:03Z
+  Total Products: 10
+- [Kids' Pajama Bottoms](https://mallturk.com/collections/kids-pajama-bottoms)
+  Updated: 2026-10-02T12:14:51Z
+  Total Products: 12
+- [Kids' Pajama Sets](https://mallturk.com/collections/kids-pajama-sets)
+  Updated: 2026-10-02T13:47:40Z
+  Total Products: 54
+- [Kids' Polo T-Shirts](https://mallturk.com/collections/kids-polo-t-shirts)
+  Updated: 2026-10-02T15:03:53Z
+  Total Products: 22
+- [Kids' Shirts](https://mallturk.com/collections/kids-shirts)
+  Updated: 2026-10-02T14:42:51Z
+  Total Products: 48
+- [Kids' Shorts & Bermudas](https://mallturk.com/collections/kids-shorts-bermudas)
+  Updated: 2026-10-02T14:16:19Z
+  Total Products: 45
+- [Kids' Skirts](https://mallturk.com/collections/kids-skirts)
+  Updated: 2026-10-02T14:25:38Z
+  Total Products: 28
+- [Kids' Socks](https://mallturk.com/collections/kids-socks)
+  Updated: 2026-10-02T12:15:10Z
+  Total Products: 1
+- [Kids' Softshell & Fleece](https://mallturk.com/collections/kids-softshell-fleece)
+  Updated: 2026-10-02T12:15:14Z
+  Total Products: 3
+- [Kids' Sports Sweatsuit Set](https://mallturk.com/collections/kids-sports-sweatsuit-set)
+  Updated: 2026-10-02T12:15:20Z
+  Total Products: 4
+- [Kids' Sweater Vests](https://mallturk.com/collections/kids-sweater-vests)
+  Updated: 2026-10-02T12:15:23Z
+  Total Products: 5
+- [Kids' Sweaters](https://mallturk.com/collections/kids-sweaters)
+  Updated: 2026-10-02T14:38:49Z
+  Total Products: 8
+- [Kids' Sweatpants](https://mallturk.com/collections/kids-sweatpants)
+  Updated: 2026-10-03T14:05:13Z
+  Total Products: 112
+- [Kids' Sweatshirts](https://mallturk.com/collections/kids-sweatshirts)
+  Updated: 2026-10-02T14:55:24Z
+  Total Products: 121
+- [Kids' Sweatsuit Sets](https://mallturk.com/collections/kids-sweatsuit-sets)
+  Updated: 2026-10-02T12:15:39Z
+  Total Products: 2
+- [Kids' T-Shirts](https://mallturk.com/collections/kids-t-shirts)
+  Updated: 2026-10-03T14:02:21Z
+  Total Products: 317
+- [Kids' Trench Coats](https://mallturk.com/collections/kids-trench-coats)
+  Updated: 2026-10-02T12:15:48Z
+  Total Products: 3
+- [Kids' Trousers](https://mallturk.com/collections/kids-trousers)
+  Updated: 2026-10-03T14:02:37Z
+  Total Products: 138
+- [Kids' Tunics](https://mallturk.com/collections/kids-tunics)
+  Updated: 2026-10-02T12:15:55Z
+  Total Products: 5
+- [Kids' Two Piece Sets](https://mallturk.com/collections/kids-two-piece-sets)
+  Updated: 2026-10-02T15:07:59Z
+  Total Products: 203
+- [Kids' Undershirt](https://mallturk.com/collections/kids-undershirt)
+  Updated: 2026-10-02T12:16:01Z
+  Total Products: 13
+- [Kids' Vests](https://mallturk.com/collections/kids-vests)
+  Updated: 2026-10-02T12:16:04Z
+  Total Products: 23
+- [Kids' Winter Jackets](https://mallturk.com/collections/kids-winter-jackets)
+  Updated: 2026-10-02T15:02:53Z
+  Total Products: 36
+- [Makeup Bags](https://mallturk.com/collections/makeup-bags)
+  Updated: 2026-10-02T12:16:10Z
+  Total Products: 1
+- [Men's Bodysuits](https://mallturk.com/collections/mens-bodysuits)
+  Updated: 2026-10-02T12:16:13Z
+  Total Products: 13
+- [Men's Coats](https://mallturk.com/collections/mens-coats)
+  Updated: 2026-10-02T12:16:16Z
+  Total Products: 4
+- [Men's Jackets](https://mallturk.com/collections/mens-jackets)
+  Updated: 2026-10-02T13:58:56Z
+  Total Products: 34
+- [Men's Pajama Sets](https://mallturk.com/collections/mens-pajama-sets)
+  Updated: 2026-10-02T12:16:30Z
+  Total Products: 14
+- [Men's Pajama Tops](https://mallturk.com/collections/mens-pajama-tops)
+  Updated: 2026-10-02T12:16:33Z
+  Total Products: 4
+- [Men's Polo T-Shirts](https://mallturk.com/collections/mens-polo-t-shirts)
+  Updated: 2026-10-02T12:40:33Z
+  Total Products: 2
+- [Men's Scarves](https://mallturk.com/collections/mens-scarves)
+  Updated: 2026-10-02T12:16:40Z
+  Total Products: 4
+- [Men's Shirts](https://mallturk.com/collections/mens-shirts)
+  Updated: 2026-10-02T14:48:51Z
+  Total Products: 29
+- [Men's Shorts & Bermudas](https://mallturk.com/collections/mens-shorts-bermudas)
+  Updated: 2026-10-02T12:16:46Z
+  Total Products: 2
+- [Men's Sports Sweatsuit Set](https://mallturk.com/collections/mens-sports-sweatsuit-set)
+  Updated: 2026-10-02T12:16:55Z
+  Total Products: 1
+- [Men's Sweaters](https://mallturk.com/collections/mens-sweaters)
+  Updated: 2026-10-02T15:04:31Z
+  Total Products: 55
+- [Men's Sweatpants](https://mallturk.com/collections/mens-sweatpants)
+  Updated: 2026-10-02T14:41:05Z
+  Total Products: 21
+- [Men's Sweatshirts](https://mallturk.com/collections/mens-sweatshirts)
+  Updated: 2026-10-02T15:13:13Z
+  Total Products: 118
+- [Men's Trousers](https://mallturk.com/collections/mens-trousers)
+  Updated: 2026-10-02T12:41:20Z
+  Total Products: 17
+- [Men's Undershirt](https://mallturk.com/collections/mens-undershirt)
+  Updated: 2026-10-02T12:17:21Z
+  Total Products: 8
+- [Men's Winter Jackets](https://mallturk.com/collections/mens-winter-jackets)
+  Updated: 2026-10-02T14:58:09Z
+  Total Products: 10
+- [Overalls](https://mallturk.com/collections/overalls)
+  Updated: 2026-10-02T12:17:30Z
+  Total Products: 1
+- [Plus Size Sexy Gown](https://mallturk.com/collections/plus-size-sexy-gown)
+  Updated: 2026-10-02T12:17:33Z
+  Total Products: 1
+- [Trousers](https://mallturk.com/collections/trousers)
+  Updated: 2026-10-02T12:17:36Z
+  Total Products: 1
+- [Tunics](https://mallturk.com/collections/tunics)
+  Updated: 2026-10-02T12:17:39Z
+  Total Products: 5
+- [Women's Beach Bags](https://mallturk.com/collections/womens-beach-bags)
+  Updated: 2026-10-02T12:17:42Z
+  Total Products: 5
+- [Women's Beanies](https://mallturk.com/collections/womens-beanies)
+  Updated: 2026-10-02T12:17:46Z
+  Total Products: 4
+- [Women's Belts](https://mallturk.com/collections/womens-belts)
+  Updated: 2026-10-02T13:55:08Z
+  Total Products: 22
+- [Women's Blazers](https://mallturk.com/collections/womens-blazers)
+  Updated: 2026-10-02T15:05:18Z
+  Total Products: 13
+- [Women's Blouses](https://mallturk.com/collections/womens-blouses)
+  Updated: 2026-10-02T16:50:25Z
+  Total Products: 396
+- [Women's Bodysuits](https://mallturk.com/collections/womens-bodysuits)
+  Updated: 2026-10-03T09:53:27Z
+  Total Products: 295
+- [Women's Boots & Knee-High Boots](https://mallturk.com/collections/womens-boots-knee-high-boots)
+  Updated: 2026-10-02T12:18:05Z
+  Total Products: 40
+- [Women's Boxer Shorts](https://mallturk.com/collections/womens-boxer-shorts)
+  Updated: 2026-10-02T12:18:07Z
+  Total Products: 8
+- [Women's Bras](https://mallturk.com/collections/womens-bras)
+  Updated: 2026-10-02T12:18:11Z
+  Total Products: 31
+- [Women's Briefs](https://mallturk.com/collections/womens-briefs)
+  Updated: 2026-10-03T09:40:56Z
+  Total Products: 52
+- [Women's Bustiers](https://mallturk.com/collections/womens-bustiers)
+  Updated: 2026-10-02T14:18:26Z
+  Total Products: 59
+- [Women's Cardigans](https://mallturk.com/collections/womens-cardigans)
+  Updated: 2026-10-03T14:08:44Z
+  Total Products: 103
+- [Women's Clutch Bag](https://mallturk.com/collections/womens-clutch-bag)
+  Updated: 2026-10-02T12:18:23Z
+  Total Products: 4
+- [Women's Coats](https://mallturk.com/collections/womens-coats)
+  Updated: 2026-10-02T12:18:26Z
+  Total Products: 7
+- [Women's Hair Clips](https://mallturk.com/collections/womens-hair-clips)
+  Updated: 2026-10-02T12:21:33Z
+  Total Products: 9
+- [Women's Handbags](https://mallturk.com/collections/womens-handbags)
+  Updated: 2026-10-02T12:21:36Z
+  Total Products: 46
+- [Women's Hats](https://mallturk.com/collections/womens-hats)
+  Updated: 2026-10-02T12:21:39Z
+  Total Products: 8
+- [Women's Home Slippers & Boots](https://mallturk.com/collections/womens-home-slippers-boots)
+  Updated: 2026-10-02T12:21:42Z
+  Total Products: 3
+- [Women's Jackets](https://mallturk.com/collections/womens-jackets)
+  Updated: 2026-10-02T14:14:09Z
+  Total Products: 50
+- [Women's Jumpsuits](https://mallturk.com/collections/womens-jumpsuits)
+  Updated: 2026-10-02T16:45:32Z
+  Total Products: 19
+- [Women's Kimono & Kaftan](https://mallturk.com/collections/womens-kimono-kaftan)
+  Updated: 2026-10-02T12:23:24Z
+  Total Products: 8
+- [Women's Leggings](https://mallturk.com/collections/womens-leggings)
+  Updated: 2026-10-03T09:59:59Z
+  Total Products: 22
+- [Women's Maternity Dresses](https://mallturk.com/collections/womens-maternity-dresses)
+  Updated: 2026-10-02T12:23:30Z
+  Total Products: 1
+- [Women's Modest Dresses](https://mallturk.com/collections/womens-modest-dresses)
+  Updated: 2026-10-02T17:03:55Z
+  Total Products: 75
+- [Women's Modest Swimwear](https://mallturk.com/collections/womens-modest-swimwear)
+  Updated: 2026-10-02T17:05:26Z
+  Total Products: 105
+- [Women's Nightgowns](https://mallturk.com/collections/womens-nightgowns)
+  Updated: 2026-10-02T12:23:42Z
+  Total Products: 13
+- [Women's Pajama Bottoms](https://mallturk.com/collections/womens-pajama-bottoms)
+  Updated: 2026-10-02T12:23:45Z
+  Total Products: 17
+- [Women's Plus Size Dress](https://mallturk.com/collections/womens-plus-size-dress)
+  Updated: 2026-10-02T12:26:01Z
+  Total Products: 1
+- [Women's Plus Size Pajama Sets](https://mallturk.com/collections/womens-plus-size-pajama-sets)
+  Updated: 2026-10-02T14:12:00Z
+  Total Products: 29
+- [Women's Plus Size Shirts](https://mallturk.com/collections/womens-plus-size-shirts)
+  Updated: 2026-10-02T12:26:08Z
+  Total Products: 3
+- [Women's Plus Size Top and Bottom Set](https://mallturk.com/collections/womens-plus-size-top-and-bottom-set)
+  Updated: 2026-10-02T12:26:14Z
+  Total Products: 1
+- [Women's Polo T-Shirts](https://mallturk.com/collections/womens-polo-t-shirts)
+  Updated: 2026-10-02T13:51:47Z
+  Total Products: 8
+- [Women's Ponchos](https://mallturk.com/collections/womens-ponchos)
+  Updated: 2026-10-02T12:26:20Z
+  Total Products: 2
+- [Women's Sandals and Slippers](https://mallturk.com/collections/womens-sandals-and-slippers)
+  Updated: 2026-10-02T12:26:24Z
+  Total Products: 109
+- [Women's Shawls](https://mallturk.com/collections/womens-shawls)
+  Updated: 2026-10-02T12:26:26Z
+  Total Products: 9
+- [Women's Shirts](https://mallturk.com/collections/womens-shirts)
+  Updated: 2026-10-02T13:44:56Z
+  Total Products: 236
+- [Women's Shorts & Bermudas](https://mallturk.com/collections/womens-shorts-bermudas)
+  Updated: 2026-10-02T12:26:32Z
+  Total Products: 20
+- [Women's Shoulder Bags](https://mallturk.com/collections/womens-shoulder-bags)
+  Updated: 2026-10-02T12:26:36Z
+  Total Products: 2
+- [Women's Sports Leggings](https://mallturk.com/collections/womens-sports-leggings)
+  Updated: 2026-10-02T12:28:51Z
+  Total Products: 2
+- [Women's Sweater Vests](https://mallturk.com/collections/womens-sweater-vests)
+  Updated: 2026-10-02T15:12:58Z
+  Total Products: 19
+- [Women's Sweaters](https://mallturk.com/collections/womens-sweaters)
+  Updated: 2026-10-02T14:53:06Z
+  Total Products: 195
+- [Women's Sweatpants](https://mallturk.com/collections/womens-sweatpants)
+  Updated: 2026-10-02T15:10:33Z
+  Total Products: 104
+- [Women's Sweatshirt](https://mallturk.com/collections/womens-sweatshirt)
+  Updated: 2026-10-02T12:41:50Z
+  Total Products: 12
+- [Women's Sweatshirts](https://mallturk.com/collections/womens-sweatshirts)
+  Updated: 2026-10-02T15:05:09Z
+  Total Products: 326
+- [Women's T-Shirts](https://mallturk.com/collections/womens-t-shirts-1)
+  Updated: 2026-10-02T15:12:09Z
+  Total Products: 251
+- [Women's Trench Coats](https://mallturk.com/collections/womens-trench-coats)
+  Updated: 2026-10-02T12:29:16Z
+  Total Products: 42
+- [Women's Trousers](https://mallturk.com/collections/womens-trousers)
+  Updated: 2026-10-02T15:08:48Z
+  Total Products: 179
+- [Women's Tunics](https://mallturk.com/collections/womens-tunics)
+  Updated: 2026-10-02T15:10:54Z
+  Total Products: 62
+- [Women's Two Piece Sets](https://mallturk.com/collections/womens-two-piece-sets)
+  Updated: 2026-10-02T14:16:35Z
+  Total Products: 177
+- [Women's Undershirt](https://mallturk.com/collections/womens-undershirt)
+  Updated: 2026-10-02T12:29:29Z
+  Total Products: 11
+- [Women's Underwear Sets](https://mallturk.com/collections/womens-underwear-sets)
+  Updated: 2026-10-02T12:29:32Z
+  Total Products: 4
+- [Women's Vests](https://mallturk.com/collections/womens-vests)
+  Updated: 2026-10-02T12:29:35Z
+  Total Products: 32
+- [Women's Winter Jackets](https://mallturk.com/collections/womens-winter-jackets)
+  Updated: 2026-10-02T12:29:39Z
+  Total Products: 48
+- [Women's Loafers](https://mallturk.com/collections/womens-loafers)
+  Updated: 2026-10-02T12:30:44Z
+  Total Products: 23
+- [Men's Sneakers](https://mallturk.com/collections/mens-sneakers)
+  Updated: 2026-10-02T12:42:05Z
+  Total Products: 52
+- [Women's Sneakers](https://mallturk.com/collections/womens-sneakers)
+  Updated: 2026-10-02T12:42:10Z
+  Total Products: 43
+- [Women's Plus Size Corset](https://mallturk.com/collections/womens-plus-size-corset)
+  Updated: 2026-10-02T13:50:10Z
+  Total Products: 20
+- [Women's Sports Corsets](https://mallturk.com/collections/womens-sports-corsets)
+  Updated: 2026-10-02T13:51:31Z
+  Total Products: 14
+- [Men's Boxer Shorts](https://mallturk.com/collections/mens-boxer-shorts)
+  Updated: 2026-10-02T13:55:07Z
+  Total Products: 52
+- [Women's Swimsuits](https://mallturk.com/collections/womens-swimsuits)
+  Updated: 2026-10-02T17:05:01Z
+  Total Products: 117
+- [Headscarves](https://mallturk.com/collections/headscarves)
+  Updated: 2026-10-02T17:05:51Z
+  Total Products: 3
+- [Kids' Modest Dresses](https://mallturk.com/collections/kids-modest-dresses)
+  Updated: 2026-10-02T17:05:54Z
+  Total Products: 5
+- [Seccade](https://mallturk.com/collections/seccade)
+  Updated: 2026-10-02T17:05:57Z
+  Total Products: 4
+- [Women's Bikini Bottoms](https://mallturk.com/collections/womens-bikini-bottoms)
+  Updated: 2026-10-02T17:06:01Z
+  Total Products: 3
+- [Women's Bikini Sets](https://mallturk.com/collections/womens-bikini-sets)
+  Updated: 2026-10-02T17:06:04Z
+  Total Products: 13
+- [Women's Bikini Tops](https://mallturk.com/collections/womens-bikini-tops)
+  Updated: 2026-10-02T17:06:07Z
+  Total Products: 7
+- [Women's Cape & Abaya](https://mallturk.com/collections/womens-cape-abaya)
+  Updated: 2026-10-02T17:06:10Z
+  Total Products: 11
+- [Women's Chemise](https://mallturk.com/collections/womens-chemise)
+  Updated: 2026-10-02T17:06:13Z
+  Total Products: 16
+- [Women's Modest Pareos](https://mallturk.com/collections/womens-modest-pareos)
+  Updated: 2026-10-02T17:06:28Z
+  Total Products: 11
+- [Women's Pareos](https://mallturk.com/collections/womens-pareos)
+  Updated: 2026-10-02T17:06:34Z
+  Total Products: 14
+- [Women's Plus Size Swimsuits](https://mallturk.com/collections/womens-plus-size-swimsuits)
+  Updated: 2026-10-02T17:06:37Z
+  Total Products: 1
+- [Women's Sports Shorts](https://mallturk.com/collections/womens-sports-shorts)
+  Updated: 2026-10-02T17:06:52Z
+  Total Products: 1
+- [Women's Swim Shorts](https://mallturk.com/collections/womens-swim-shorts)
+  Updated: 2026-10-02T17:06:55Z
+  Total Products: 5
 
 ## Blogs
 
@@ -2564,8 +3038,8 @@
   Updated: 2026-09-08T14:33:42Z
 - [Download Our App](https://mallturk.com/pages/mobile-download): (function() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; var appleStoreUrl = "https://www.apple.com/vn/app-store/"; v...
   Updated: 2026-09-09T16:34:08Z
-- [FAQ](https://mallturk.com/pages/faq): Do You Ship Worldwide? Yes, we ship all orders worldwide with express shipping services.PLEASE NOTE: Depending on their national rules, some Countr...
-  Updated: 2026-09-10T11:02:32Z
+- [FAQ](https://mallturk.com/pages/faq): Do You Ship Worldwide? Yes, we ship all orders worldwide with express shipping services What are the Shipping Fees? Free Shipping Worldwide Is retu...
+  Updated: 2026-09-28T12:51:34Z
 
 ## Policies
 
