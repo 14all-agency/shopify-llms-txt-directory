@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2018-07-05T20:37:18Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-25T00:00:42.247Z
+- Updated At: 2026-10-05T00:00:43.001Z
 
 ## Products
 
@@ -126,7 +126,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0141/5223/7114/files/GNMedia_2.png?v=1716568597
   Price: $30.00 USD
 - [Hand-signed Marrakesh Express Lyric Manuscript](https://grahamnash.merchmadeeasy.com/products/marrakesh-express-lyric-manuscript): Limited edition archival pigment print Written and released in 1969 on 'Crosby, Stills & Nash' by CSN. Each print is hand signed in pencil. Dimensions: 8" x 10"
-  Updated: 2026-09-02T17:58:54Z
+  Updated: 2026-09-28T15:38:57Z
   Vendor: Graham Nash
   Product Type: Manuscript
   Availability: Available
@@ -477,7 +477,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Change the World Tee](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee): 100% airlume combed and ringspun cotton t-shirt in cool blue Size Guide Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-21T18:19:30Z
+  Updated: 2026-09-25T16:33:15Z
   Vendor: Graham Nash
   Product Type: Apparel
   Availability: Available
@@ -492,7 +492,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
   - [XL](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee?variant=41016818335802)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [2XL](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee?variant=41016819187770)
     Availability: Available
@@ -546,10 +546,10 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://grahamnash.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 39
 - [Apparel](https://grahamnash.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-26T11:12:28Z
   Total Products: 12
 - [Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories)
   Updated: 2026-09-20T11:13:06Z
@@ -558,16 +558,16 @@ your agent can transact everywhere.
   Updated: 2026-09-19T11:12:23Z
   Total Products: 17
 - [Lyric Manuscripts](https://grahamnash.merchmadeeasy.com/collections/signed-manuscripts)
-  Updated: 2026-07-20T17:36:11Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 4
 - [Photos](https://grahamnash.merchmadeeasy.com/collections/photos)
   Updated: 2026-09-16T11:12:32Z
   Total Products: 10
 - [All Products](https://grahamnash.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 62
 - [Featured](https://grahamnash.merchmadeeasy.com/collections/featured)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 62
 - [Digital Albums](https://grahamnash.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:26:33Z
@@ -576,10 +576,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:26:33Z
   Total Products: 0
 - [All](https://grahamnash.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 62
 - [$15 ](https://grahamnash.merchmadeeasy.com/collections/15-)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 62
 - [All Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories-1)
   Updated: 2026-09-20T11:13:06Z
@@ -591,13 +591,13 @@ your agent can transact everywhere.
   Updated: 2026-09-20T11:13:06Z
   Total Products: 8
 - [Tour Collection](https://grahamnash.merchmadeeasy.com/collections/tour-tees)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-26T11:12:28Z
   Total Products: 18
 - [Best Sellers](https://grahamnash.merchmadeeasy.com/collections/avada-best-sellers)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 36
 - [SIGNED COLLECTION](https://grahamnash.merchmadeeasy.com/collections/signed-photos-and-lyric-manuscript)
-  Updated: 2026-09-20T11:13:06Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 16
 - [Tour Bundles](https://grahamnash.merchmadeeasy.com/collections/tour-bundles)
   Updated: 2026-09-02T16:43:16Z
@@ -609,10 +609,10 @@ your agent can transact everywhere.
   Updated: 2026-09-20T11:13:06Z
   Total Products: 12
 - [New Arrivals](https://grahamnash.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-29T11:11:05Z
   Total Products: 62
 - [2025 Tour Merch](https://grahamnash.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-09-22T11:11:44Z
+  Updated: 2026-09-26T11:12:28Z
   Total Products: 3
 - [Black Friday Bundle](https://grahamnash.merchmadeeasy.com/collections/black-friday-bundle)
   Updated: 2026-07-08T20:26:34Z
@@ -623,6 +623,9 @@ your agent can transact everywhere.
 - [2026 Tour Merch](https://grahamnash.merchmadeeasy.com/collections/2026-tour-merch)
   Updated: 2026-09-20T11:13:06Z
   Total Products: 2
+- [T-Shirts](https://grahamnash.merchmadeeasy.com/collections/t-shirts)
+  Updated: 2026-09-30T18:46:08Z
+  Total Products: 11
 
 ## Store Pages
 
@@ -636,11 +639,11 @@ your agent can transact everywhere.
 - [Privacy Policy](https://grahamnash.merchmadeeasy.com/policies/privacy-policy)
   Updated: 2026-06-18T10:19:13-05:00
 - [Shipping Policy](https://grahamnash.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-20T16:22:40-06:00
+  Updated: 2026-09-25T10:30:24-05:00
 - [Refund Policy](https://grahamnash.merchmadeeasy.com/policies/refund-policy)
   Updated: 2026-06-18T10:18:48-05:00
 - [Terms of Service](https://grahamnash.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-20T16:22:40-06:00
+  Updated: 2026-09-25T10:29:53-05:00
 - [Contact Information](https://grahamnash.merchmadeeasy.com/policies/contact-information)
   Updated: 2024-02-20T16:22:40-06:00
 
