@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-24T11:32:05Z
 - Contact Email: support@carteluxventures.com
-- Updated At: 2026-09-27T17:49:09.097Z
+- Updated At: 2026-10-05T00:00:25.925Z
 
 ## Products
 
 - [Starbucks X Stanley Holiday 2023 - Insulated Drinkware](https://carteluxventures.com/products/starbucks-stanley-holiday-2023-red-tumbler): Starbucks X Stanley Holiday 2023 Collab 40oz Red Tumbler — an insulated tumbler made to slot into the routine you already keep. Grab yours while stock.
-  Updated: 2026-09-27T12:40:00Z
+  Updated: 2026-09-28T00:40:02Z
   Vendor: Stanley
   Product Type: Kitchen & Dining
   Availability: Available
@@ -31,148 +31,127 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image454_50ed35e2-af12-490d-bafb-a83c7073e6bc.jpg?v=1790223522
   Price: $62.99 USD
-- [Stanley 40oz Quencher H2.0 Flow State - Insulated Drinkware](https://carteluxventures.com/products/stanley-quencher-h2-flowstate-tumbler-black): Stanley 40oz Quencher H2.0 Flow State Tumbler in Black — an insulated tumbler built to slot into the routine you already keep, with straightforward daily.
-  Updated: 2026-09-26T08:08:14Z
-  Vendor: Stanley
-  Product Type: Kitchen & Dining
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image452_fc3f2a96-c9ef-4b22-8584-a82bff641abe.jpg?v=1790223523
-  Price: $33.49 USD
 - [Stanley X Wicked 40oz Flow State - Insulated Drinkware](https://carteluxventures.com/products/stanley-wicked-elphaba-green-flowstate-tumbler): Stanley X Wicked 40oz Flow State Elphaba Green Tumbler — an insulated tumbler made to slot into the routine you already keep. Try it for yourself. A dependable
-  Updated: 2026-09-26T08:08:15Z
+  Updated: 2026-09-28T07:27:44Z
   Vendor: Stanley
   Product Type: Kitchen & Dining
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image500_440f585c-0b31-47d4-8a44-a0460b08283f.jpg?v=1790223524
-  Price: $52.99 USD
-- [Stanley 40oz Quencher H2.0 Flow State - Insulated Drinkware](https://carteluxventures.com/products/stanley-quencher-flowstate-bloom-clean-slate): Stanley 40oz Quencher H2.0 Flow State Tumbler in Bloom Clean Slate — an insulated tumbler made to slot into the routine you already keep. Start today.
-  Updated: 2026-09-26T08:08:15Z
-  Vendor: Stanley
-  Product Type: Kitchen & Dining
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image461_9f3e199a-16ec-43fa-89b2-5c1db040abc8.jpg?v=1790223524
-  Price: $33.49 USD
+  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image500_440f585c-0b31-47d4-8a44-a0460b08283f.jpg?v=1790537183
+  Price: $68.99 USD
 - [Stanley Quencher H2.0 Flow State 40oz - Insulated Drinkware](https://carteluxventures.com/products/stanley-quencher-flamingo-barbie-pink-tumbler): Stanley Quencher H2.0 Flow State 40oz Tumbler in Flamingo Barbie Pink — an insulated tumbler made to slot into the routine you already keep. Order yours.
-  Updated: 2026-09-26T08:08:16Z
+  Updated: 2026-09-28T07:32:02Z
   Vendor: Stanley
   Product Type: Kitchen & Dining
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/m_66c39e1acf86b1ad3cb32c4f.jpg?v=1790238720
-  Price: $43.49 USD
-- [Stanley Quencher H2.0 40oz Tumbler - Insulated Drinkware](https://carteluxventures.com/products/stanley-quencher-pink-parade-40oz-tumbler): Stanley Quencher H2.0 40oz Tumbler in Pink Parade — an insulated tumbler made to slot into the routine you already keep. Add it to your routine. A dependable ch
-  Updated: 2026-09-26T08:08:17Z
-  Vendor: Stanley
-  Product Type: Kitchen & Dining
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image461_487582ec-1a7c-4e4d-8782-07a87080b4de.jpg?v=1790223525
-  Price: $43.49 USD
+  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/m_66c39e1acf86b1ad3cb32c4f.jpg?v=1790537510
+  Price: $68.99 USD
 - [Stanley X Love Shack Fancy Happy - Insulated Drinkware](https://carteluxventures.com/products/stanley-love-shack-fancy-rosa-beaux-quencher): Stanley X Love Shack Fancy Happy Thoughts Quencher in Rosa Beaux — an insulated tumbler made to slot into the routine you already keep. Grab yours while stock.
-  Updated: 2026-09-26T08:08:17Z
+  Updated: 2026-09-28T07:17:53Z
   Vendor: Stanley
-  Product Type: Kitchen & Dining
+  Product Type: Drinkware
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image487.png?v=1790221815
-  Price: $34.99 USD
+  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image487.png?v=1790536159
+  Price: $79.99 USD
 - [Stanley X Love Shack Fancy 40oz - Insulated Drinkware](https://carteluxventures.com/products/stanley-love-shack-fancy-blooming-tumbler): Stanley X Love Shack Fancy 40oz Quencher Tumbler in Blooming — an insulated tumbler made to slot into the routine you already keep. Make it part of your.
-  Updated: 2026-09-26T08:08:18Z
+  Updated: 2026-09-28T07:24:06Z
   Vendor: Stanley
   Product Type: Kitchen & Dining
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image509.png?v=1790221819
-  Price: $33.49 USD
+  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image509.png?v=1790536953
+  Price: $75.95 USD
 - [Chocolate Gold Quencher 40 oz Tumbler - Insulated Drinkware](https://carteluxventures.com/products/chocolate-gold-quencher-40oz-tumbler-flowstate-h2-0-factory-sealed): Chocolate Gold Quencher 40 oz Tumbler Flowstate H2.0 Factory Sealed — an insulated tumbler made to slot into the routine you already keep. Make it part.
-  Updated: 2026-09-27T09:10:10Z
+  Updated: 2026-09-27T21:10:14Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image446.jpg?v=1790499963
   Price: $75.95 USD
 - [BRAND NEW IN BOX THE 40oz QUENCHER - Insulated Drinkware](https://carteluxventures.com/products/brand-new-in-box-the-40oz-quencher-h2-0-flowstate-tumbler-in-peony): BRAND NEW IN BOX THE 40oz QUENCHER H2.0 FLOWSTATE TUMBLER IN PEONY — an insulated tumbler made to slot into the routine you already keep. Pick one up.
-  Updated: 2026-09-27T10:40:00Z
+  Updated: 2026-09-27T22:39:34Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image631.jpg?v=1790505507
   Price: $69.95 USD
 - [Quencher H2.0 Flow State 30 oz - Beauty & Skincare](https://carteluxventures.com/products/quencher-h2-0-flowstate-30oz-tumbler-cream-or-biege-color): Quencher H2.0 Flow State 30 oz Tumbler-Cream or Biege Color — a skincare essential made to slot into the routine you already keep. Keep one on hand. A dependabl
-  Updated: 2026-09-27T10:40:09Z
+  Updated: 2026-09-27T22:37:58Z
   Vendor: Stanley
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image607.jpg?v=1790505378
   Price: $69.95 USD
 - [X Love Shack Fancy IBIZA SUNSET - Insulated Drinkware](https://carteluxventures.com/products/x-love-shack-fancy-ibiza-sunset-quencher-tumbler): X Love Shack Fancy IBIZA SUNSET Quencher Tumbler — an insulated tumbler built to slot into the routine you already keep, with straightforward daily use and no.
-  Updated: 2026-09-27T10:36:05Z
+  Updated: 2026-09-27T22:36:06Z
   Vendor: X Love
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image542.jpg?v=1790505150
   Price: $79.95 USD
 - [Barbie X Just Peachy 40 oz Peaches 'n - Beauty & Skincare](https://carteluxventures.com/products/barbie-x-just-peachy-40oz-peaches-n-cream-tumbler): Barbie X Just Peachy 40 oz Peaches 'n Cream Tumbler — a skincare essential built to slot into the routine you already keep, with straightforward daily.
-  Updated: 2026-09-27T10:31:10Z
+  Updated: 2026-09-27T22:31:09Z
   Vendor: Barbie
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image632.jpg?v=1790504992
   Price: $74.99 USD
-- [NIB Sanrio My Melody Hot Pink - Insulated Drinkware](https://carteluxventures.com/products/nib-sanrio-my-melody-hot-pink-the-quencher-h2-o-flowstate-tumbler-40oz): NIB Sanrio My Melody Hot Pink the Quencher H2.O Flowstate Tumbler 40 oz — an insulated tumbler made to slot into the routine you already keep. Order. A dependab
-  Updated: 2026-09-26T08:08:33Z
-  Vendor: Sanrio
-  Product Type: Drinkware
+- [X Berbie 70s superstar Quencher 40oz - Insulated Drinkware](https://carteluxventures.com/products/x-berbie-70s-superstar-quencher-40-oz): X Berbie 70s superstar Quencher 40oz — an insulated tumbler built to slot into the routine you already keep, with straightforward daily use and no fuss.
+  Updated: 2026-09-27T22:29:31Z
+  Vendor: X Berbie
+  Product Type: General Merchandise
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image480.jpg?v=1790221812
-  Price: $41.99 USD
+  Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image459.jpg?v=1790504877
+  Price: $71.95 USD
 - [x Barbie Quencher Tumbler Pink Sparkle - Insulated Drinkware](https://carteluxventures.com/products/x-barbie-quencher-tumbler-pink-sparkle-40-oz-with-lid-straw-new): x Barbie Quencher Tumbler Pink Sparkle 40oz With Lid & Straw-NEW — an insulated tumbler made to slot into the routine you already keep. Grab yours while.
-  Updated: 2026-09-27T10:25:00Z
+  Updated: 2026-09-27T22:25:04Z
   Vendor: Barbie Quencher
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image606.jpg?v=1790504535
   Price: $89.95 USD
 - [Rare 40 oz Black the Flowstate - Insulated Drinkware](https://carteluxventures.com/products/rare-40oz-black-the-flowstate-quencher-h2-0-tumbler-ni): Rare 40 oz Black the Flowstate Quencher H2.0 Tumbler NI — an insulated tumbler made to slot into the routine you already keep. Make it part of your day.
-  Updated: 2026-09-27T09:37:30Z
+  Updated: 2026-09-27T21:37:29Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image461.jpg?v=1790501677
   Price: $56.99 USD
 - [Rare 40 oz Black Chroma the Flowstate - Insulated Drinkware](https://carteluxventures.com/products/rare-40oz-black-chroma-the-flowstate-quencher-h2-0-tumbler-ni): Rare 40 oz Black Chroma the Flowstate Quencher H2.0 Tumbler NI — an insulated tumbler made to slot into the routine you already keep. Pick one up today.
-  Updated: 2026-09-27T10:21:10Z
+  Updated: 2026-09-27T21:40:21Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image458.jpg?v=1790501672
   Price: $71.99 USD
 - [X Tyla Tyger 40 oz Tumbler Limited - Insulated Drinkware](https://carteluxventures.com/products/x-tyla-tyger-40oz-tumbler-limited-edition): X Tyla Tyger 40 oz Tumbler Limited Edition — an insulated tumbler built to slot into the routine you already keep, with straightforward daily use and no.
-  Updated: 2026-09-27T09:39:00Z
+  Updated: 2026-09-27T21:39:01Z
   Vendor: X Tyla
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image455.jpg?v=1790501670
   Price: $95.99 USD
 - [Quencher H2.0 HALLOWEEN WEB GLOW 40 oz - Insulated Drinkware](https://carteluxventures.com/products/quencher-h2-0-halloween-web-glow-40oz-limited-edition-tumbler): Quencher H2.0 HALLOWEEN WEB GLOW 40 oz Limited Edition Tumbler — an insulated tumbler made to slot into the routine you already keep. Try it for. A dependable c
-  Updated: 2026-09-27T10:18:50Z
+  Updated: 2026-09-27T21:35:04Z
   Vendor: Quencher
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image527.jpg?v=1790501602
   Price: $74.95 USD
 - [Hello Kitty Cup Flowstate Tumbler - 40 - Insulated Drinkware](https://carteluxventures.com/products/hello-kitty-cup-flowstate-tumbler-40oz-purple-glitter-limited-edition): Hello Kitty Cup Flowstate Tumbler - 40 oz - Purple Glitter Limited Edition — an insulated tumbler made to slot into the routine you already keep. Start.
-  Updated: 2026-09-27T09:32:15Z
+  Updated: 2026-09-27T21:31:52Z
   Vendor: Sanrio
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image484.png?v=1790501459
   Price: $55.45 USD
 - [PURPLE W/STARS TUMBLER 40 oz - Insulated Drinkware](https://carteluxventures.com/products/purple-w-stars-tumbler-40oz): PURPLE W/STARS TUMBLER 40 oz — an insulated tumbler built to slot into the routine you already keep, with straightforward daily use and no fuss. Order.
-  Updated: 2026-09-27T09:29:37Z
+  Updated: 2026-09-27T21:29:14Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image636.jpg?v=1790500473
   Price: $68.99 USD
 - [BLACK 40 oz Quencher H2.0 Flow State - Insulated Drinkware](https://carteluxventures.com/products/black-40oz-quencher-h2-0-flowstate-stainless-steel-vacuum-tumbler): BLACK 40 oz Quencher H2.0 Flow State Stainless Steel Vacuum Tumbler — an insulated tumbler made to slot into the routine you already keep. Add it to. A dependab
-  Updated: 2026-09-27T09:13:50Z
+  Updated: 2026-09-27T21:13:49Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -186,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image494.jpg?v=1790413027
   Price: $68.99 USD
 - [Rare 40 oz Green Chorma the Flowstate - Insulated Drinkware](https://carteluxventures.com/products/rare-40oz-green-chorma-the-flowstate-quencher-h2-0-tumbler-ni): Rare 40 oz Green Chorma the Flowstate Quencher H2.0 Tumbler NI — an insulated tumbler made to slot into the routine you already keep. Make it part of.
-  Updated: 2026-09-26T20:18:13Z
+  Updated: 2026-09-27T18:09:39Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -202,7 +181,7 @@
   Updated: 2026-09-26T08:04:10Z
   Total Products: 11
 - [General Merchandise](https://carteluxventures.com/collections/general-merchandise): Practical, well-made picks from across the catalogue.
-  Updated: 2026-09-27T10:29:28Z
+  Updated: 2026-09-27T19:22:23Z
   Total Products: 140
 - [Beauty](https://carteluxventures.com/collections/luxury-beauty): Skincare and haircare built on proven ingredients, for routines that stick.
   Updated: 2026-09-27T10:40:10Z
@@ -220,8 +199,8 @@
   Updated: 2026-09-26T08:04:14Z
   Total Products: 11
 - [Kitchen & Home](https://carteluxventures.com/collections/kitchen-dining): Tools and tableware that earn their counter space.
-  Updated: 2026-09-27T12:39:59Z
-  Total Products: 13
+  Updated: 2026-09-28T02:42:44Z
+  Total Products: 12
 - [Mushroom Coffee](https://carteluxventures.com/collections/mushroom-coffee): Mushroom coffee for steady focus without the jitters.
   Updated: 2026-09-26T08:05:29Z
   Total Products: 3
@@ -244,23 +223,30 @@
   Updated: 2026-09-26T08:04:23Z
   Total Products: 4
 - [Drinkware & Tumblers](https://carteluxventures.com/collections/drinkware-tumblers): Tumblers and drinkware built to keep up with the day.
-  Updated: 2026-09-27T12:39:59Z
+  Updated: 2026-09-28T02:42:44Z
   Total Products: 30
 - [Best Sellers](https://carteluxventures.com/collections/best-sellers)
   Updated: 2026-09-27T11:02:44Z
   Total Products: 0
 - [Stanley](https://carteluxventures.com/collections/stanley): The complete Stanley catalog — tumblers, bottles, mugs and everyday carry. From timeless classics to the colorways everyone wants.
-  Updated: 2026-09-27T12:39:59Z
+  Updated: 2026-09-28T02:42:44Z
   Total Products: 26
 - [Starbucks](https://carteluxventures.com/collections/starbucks): Starbucks collaborations and drinkware — including the coveted Starbucks x Stanley pieces.
-  Updated: 2026-09-27T12:39:59Z
+  Updated: 2026-09-27T19:20:23Z
   Total Products: 1
 - [Limited Edition](https://carteluxventures.com/collections/limited-edition): Rare, exclusive and collector-grade Stanley releases. When they're gone, they're gone.
   Updated: 2026-09-27T12:32:56Z
   Total Products: 7
 - [Collaboration](https://carteluxventures.com/collections/collaboration): Stanley collaborations with Starbucks and other partners — the pieces collectors chase.
-  Updated: 2026-09-27T12:39:59Z
+  Updated: 2026-09-27T19:27:39Z
   Total Products: 9
+
+## Blogs
+
+- [News](https://carteluxventures.com/blogs/news)
+  - [Barbie X Stanley Icon 40 Oz Quencher: Sparkling Hydration](https://carteluxventures.com/blogs/news/barbie-x-stanley-limited-edition-icon-40-oz-quencher): Discover the Barbie X Stanley Limited Edition Icon 40 Oz Quencher with its sparkling pink design, perfect for everyday hydration.
+    Updated: 2026-09-28T04:56:43Z
+    Author: FirstClick
 
 ## Store Pages
 
