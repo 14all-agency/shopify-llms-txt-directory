@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-09-23T00:00:55.299Z
+- Updated At: 2026-10-06T00:00:52.956Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lux-Mesh-Bodycon-Dress-Brinxx-Couture-320.jpg?v=1739985178
     Price: $49.99 USD
 - [Rib Knit Houndstooth Top And Skirt Set - Brinxx Couture](https://www.brinxxcouture.com/products/rib-knit-houndstooth-top-and-skirt-set): Create a stylish look with this contemporary Rib Knit Top and Skirt Set. Perfect for a dinner date or an evening out, this set features rib knit fabric.
-  Updated: 2026-07-17T10:58:57Z
+  Updated: 2026-09-23T11:10:06Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -818,7 +818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Scoop-Neck-Knee-Length-Night-Dress-Brinxx-Couture-7500.jpg?v=1709275504
     Price: $21.00 USD
 - [Plus Size Cutout Tied Backless Bikini Set - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-cutout-tied-backless-bikini-set): Introducing the perfect swimsuit for a curvier figure - the Plus Size Cutout Tied Backless Bikini Set! Flaunt your curves and boost your confidence. Ships Free!
-  Updated: 2026-07-15T02:24:59Z
+  Updated: 2026-09-23T05:45:28Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1292,7 +1292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Swim-Cover-Up-Brinxx-Couture-7824.jpg?v=1709286797
   Price: $31.00 USD
 - [Full Size Spliced Lace Pull-On Shaping Shorts](https://www.brinxxcouture.com/products/full-size-spliced-lace-pull-on-shaping-shorts): Flaunt your legs with our Full Size Spliced Lace Shorts! Shape and style in one, shop now at www.brinxxcouture.com.
-  Updated: 2026-07-18T00:53:21Z
+  Updated: 2026-10-01T19:00:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2152,29 +2152,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4320.jpg?v=1709290685
     Price: $15.99 USD
-- [Zebra Print Bodycon Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/zebra-print-bodycon-maxi-dress): Sexy Form Fitting Zebra Print Bodycon Maxi Dress is the perfect style to stand out from the rest. Designed for Spring and Summer, Vacation or Date night.
-  Updated: 2026-07-17T17:14:25Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zebra-Print-Bodycon-Maxi-Dress-Brinxx-Couture-8494.jpg?v=1709294084
-  - [Brown / S](https://www.brinxxcouture.com/products/zebra-print-bodycon-maxi-dress?variant=42122565550262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zebra-Print-Bodycon-Maxi-Dress-Brinxx-Couture-8494.jpg?v=1709294084
-    Price: $18.00 USD
-  - [Brown / M](https://www.brinxxcouture.com/products/zebra-print-bodycon-maxi-dress?variant=42122565583030)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zebra-Print-Bodycon-Maxi-Dress-Brinxx-Couture-8494.jpg?v=1709294084
-    Price: $18.00 USD
-  - [Brown / L](https://www.brinxxcouture.com/products/zebra-print-bodycon-maxi-dress?variant=42122565615798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zebra-Print-Bodycon-Maxi-Dress-Brinxx-Couture-8494.jpg?v=1709294084
-    Price: $18.00 USD
-  - [Brown / XL](https://www.brinxxcouture.com/products/zebra-print-bodycon-maxi-dress?variant=42122565648566)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zebra-Print-Bodycon-Maxi-Dress-Brinxx-Couture-8494.jpg?v=1709294084
-    Price: $18.00 USD
-[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYzMTM4MzY3NjcwLCJsYXN0X3ZhbHVlIjoiNzU2MzEzODM2NzY3MCJ9)
+[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYzMTM1ODExNzY2LCJsYXN0X3ZhbHVlIjoiNzU2MzEzNTgxMTc2NiJ9)
 
 ## Collections
 
@@ -2182,13 +2160,13 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-09-19T10:49:06Z
+  Updated: 2026-09-29T06:43:38Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover coordinated sets and matching outfits designed for effortless style. From casual to dressy, find perfectly paired pieces.
-  Updated: 2026-09-09T05:25:06Z
+  Updated: 2026-09-30T02:06:48Z
   Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
   Updated: 2026-09-10T01:58:19Z
@@ -2233,7 +2211,7 @@
   Updated: 2026-07-12T06:47:19Z
   Total Products: 46
 - [On ](https://www.brinxxcouture.com/collections/): Shop our biggest ! Save up to 70% on women's clothing, dresses, tops & accessories. Limited time offers on trendy fashion. Free shipping on all orders.
-  Updated: 2026-07-08T21:35:00Z
+  Updated: 2026-09-29T06:43:38Z
   Total Products: 25
 - [Shapewear](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover comfortable shapewear for smoothing and sculpting. From bodysuits to high-waist shorts, find confidence-boosting essentials.
   Updated: 2026-07-08T21:35:39Z
@@ -2287,7 +2265,7 @@
   Updated: 2026-07-08T21:35:38Z
   Total Products: 16
 - [Coats](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2026-07-08T21:35:45Z
+  Updated: 2026-09-29T11:15:14Z
   Total Products: 41
 - [Scarves](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2026-07-08T21:34:47Z
