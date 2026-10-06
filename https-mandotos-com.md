@@ -18,365 +18,12 @@ Experience the MANDOTOS difference - where quality meets variety in every produc
 - Created At: 2024-10-20T13:54:11Z
 - Contact Email: armando.me68@outlook.com
 - Address: Online
-- Updated At: 2026-09-20T00:00:57.701Z
+- Updated At: 2026-10-06T00:01:00.911Z
 
 MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
 
 ## Products
 
-- [CMOS Surveillance Camera With Night Vision](https://mandotos.com/products/1000tvl-infrared-night-vision-security-camera): CMOS surveillance camera with night vision delivers clear security footage day or night, 1000 TV lines, infrared LEDs, and efficient 12V operation.
-  Updated: 2026-09-02T23:21:20Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-1000tvl-infrared-night-vision-security-camera-55155216286064.jpg?v=1784618994
-  Price: $53.33 USD
-- [Mini Bluetooth Thermal Photo Printer for Mobile Use](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer): Print memories anywhere with the Paperang Thermal Printer Mini Mobile Photo Printer—compact, Bluetooth-enabled, and inkless for effortless photo sharing!
-  Updated: 2026-09-14T01:13:05Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155219759472.jpg?v=1784618926
-  - [Adhesive Thermal Paper](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662477918576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155227033968.jpg?v=1784618990
-    Price: $29.99 USD
-  - [P1Sgreen](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662477951344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-57216923992432.jpg?v=1784618995
-    Price: $104.34 USD
-  - [P1Spink](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662477984112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155224805744.jpg?v=1784618927
-    Price: $104.34 USD
-  - [P2](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662478016880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155221954928.jpg?v=1784618956
-    Price: $129.99 USD
-  - [Special Thermal Paper](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662478049648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155227033968.jpg?v=1784618990
-    Price: $29.99 USD
-  - [Thermal Paper](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662478082416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-55155227033968.jpg?v=1784618990
-    Price: $29.99 USD
-  - [printer](https://mandotos.com/products/portable-bluetooth-thermal-photo-printer-mini-mobile-printer?variant=51662478115184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-bluetooth-thermal-photo-printer-mini-mobile-printer-57216918389104.jpg?v=1784618951
-    Price: $104.34 USD
-- [Generic RGB Gaming Mouse Pad With Anti Slip Base](https://mandotos.com/products/gaming-mouse-pad): Elevate your setup with this RGB gaming mouse pad featuring vibrant edge lighting, a smooth micro-textured surface, and anti-slip base for precise control.
-  Updated: 2026-09-03T00:11:15Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155228410224.jpg?v=1784618989
-  - [A / 800×300×4mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478344560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-57216924090736.jpg?v=1784618953
-    Price: $49.99 USD
-  - [B / 350×250×3mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478377328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155229950320.jpg?v=1784618971
-    Price: $39.99 USD
-  - [C / 800×300×4mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478410096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155229360496.jpg?v=1784618959
-    Price: $51.99 USD
-  - [D / 900×400mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478442864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155228410224.jpg?v=1784618989
-    Price: $62.99 USD
-  - [E / 350X250mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478475632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155229655408.jpg?v=1784618960
-    Price: $44.99 USD
-  - [Wireless black / 800X300mm](https://mandotos.com/products/gaming-mouse-pad?variant=51662478508400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-gaming-mouse-pad-55155228868976.jpg?v=1784618938
-    Price: $66.99 USD
-- [Portable Multifunctional Laptop Stand Adjustable Height](https://mandotos.com/products/new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base): Portable Multifunctional Laptop Stand with adjustable height and folding design, featuring an aluminum base for durable support and improved comfort.
-  Updated: 2026-09-02T21:03:27Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base-55155230146928.jpg?v=1784618991
-  - [Black / 280x280x25.5mm](https://mandotos.com/products/new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base?variant=51662478541168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base-55155232997744.jpg?v=1784618946
-    Price: $74.99 USD
-  - [White / 280x280x25.5mm](https://mandotos.com/products/new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base?variant=51662478573936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-new-laptop-stand-multifunctional-folding-lift-portable-laptop-stand-monitor-increase-rack-aluminum-alloy-base-55155235553648.jpg?v=1784618944
-    Price: $74.99 USD
-- [Android Learning Tablet PC Dual Camera 10Inch](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches): Discover the Android Learning Tablet PC with a 10.1-inch dual camera, 16GB storage, and over 9 hours of battery life—perfect for learning on the go!
-  Updated: 2026-09-02T23:21:20Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155235946864.jpg?v=1784618944
-  - [Black / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478606704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237683568.jpg?v=1784618997
-    Price: $169.99 USD
-  - [Black / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478639472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237683568.jpg?v=1784618997
-    Price: $169.99 USD
-  - [Black / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478672240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237683568.jpg?v=1784618997
-    Price: $169.99 USD
-  - [Black / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478705008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237683568.jpg?v=1784618997
-    Price: $169.99 USD
-  - [Blue / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478737776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155236438384.jpg?v=1784618993
-    Price: $169.99 USD
-  - [Blue / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478770544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155236438384.jpg?v=1784618993
-    Price: $169.99 USD
-  - [Blue / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478803312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155236438384.jpg?v=1784618993
-    Price: $169.99 USD
-  - [Blue / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478836080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155236438384.jpg?v=1784618993
-    Price: $169.99 USD
-  - [Dayk green / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478868848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238240624.jpg?v=1784618975
-    Price: $169.99 USD
-  - [Dayk green / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478901616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238240624.jpg?v=1784618975
-    Price: $169.99 USD
-  - [Dayk green / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478934384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238240624.jpg?v=1784618975
-    Price: $169.99 USD
-  - [Dayk green / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478967152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238240624.jpg?v=1784618975
-    Price: $169.99 USD
-  - [Gold / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662478999920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237028208.jpg?v=1784618963
-    Price: $169.99 USD
-  - [Gold / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479032688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237028208.jpg?v=1784618963
-    Price: $169.99 USD
-  - [Gold / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479065456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237028208.jpg?v=1784618963
-    Price: $169.99 USD
-  - [Gold / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479098224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155237028208.jpg?v=1784618963
-    Price: $169.99 USD
-  - [Grey / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479130992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155235946864.jpg?v=1784618944
-    Price: $169.99 USD
-  - [Grey / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479163760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155235946864.jpg?v=1784618944
-    Price: $169.99 USD
-  - [Grey / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479196528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155235946864.jpg?v=1784618944
-    Price: $169.99 USD
-  - [Grey / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479229296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155235946864.jpg?v=1784618944
-    Price: $169.99 USD
-  - [Silver grey / AU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479262064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238928752.jpg?v=1784619005
-    Price: $169.99 USD
-  - [Silver grey / EU](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479294832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238928752.jpg?v=1784619005
-    Price: $169.99 USD
-  - [Silver grey / UK](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479327600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238928752.jpg?v=1784619005
-    Price: $169.99 USD
-  - [Silver grey / US](https://mandotos.com/products/android-learning-tablet-pc-dual-camera-10inches?variant=51662479360368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-android-learning-tablet-pc-dual-camera-10inches-55155238928752.jpg?v=1784619005
-    Price: $169.99 USD
-- [Mandotos Laptop Foldable Cooling Base USB Powered](https://mandotos.com/products/laptop-radiator-foldable-desktop-cooling-base): Boost laptop performance with the Laptop Radiator Foldable Desktop Cooling Base, efficient cooling, adjustable angle, and USB-powered portability.
-  Updated: 2026-09-02T21:03:28Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-laptop-radiator-foldable-desktop-cooling-base-55155239420272.jpg?v=1784619031
-  Price: $49.99 USD
-- [Generic Portable Slim Laptop Cooling Pad USB Fans](https://mandotos.com/products/portable-slim-smart-laptop-cooling-pad-usb-3-fans-gaming-laptop-cooler-fan-for-17-inch-cooler-plug-play-for-notebook-pc-laptop): Portable Slim Smart Laptop Cooling Pad With USB Fans delivers efficient cooling for 17-inch notebooks on the go, with plug-and-play USB 3 fans.
-  Updated: 2026-09-03T00:10:57Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-portable-slim-smart-laptop-cooling-pad-usb-3-fans-gaming-laptop-cooler-fan-for-17-inch-cooler-plug-play-for-notebook-pc-laptop-55155259244912.jpg?v=1784618994
-  Price: $49.99 USD
-- [Mandotos Folding Bluetooth Keyboard Rechargeable](https://mandotos.com/products/folding-bluetooth-keyboard): Experience ultimate portability with our Folding Bluetooth Keyboard, featuring a rechargeable battery and seamless wireless connection for on-the-go convenience.
-  Updated: 2026-09-03T00:11:31Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155295093104.jpg?v=1784618941
-  - [Black](https://mandotos.com/products/folding-bluetooth-keyboard?variant=51662580416880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155295093104.jpg?v=1784618941
-    Price: $60.00 USD
-  - [Black and white](https://mandotos.com/products/folding-bluetooth-keyboard?variant=51662580449648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155297223024.jpg?v=1784618986
-    Price: $94.99 USD
-  - [Black x2](https://mandotos.com/products/folding-bluetooth-keyboard?variant=51662580482416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155297845616.jpg?v=1784619015
-    Price: $94.99 USD
-  - [White](https://mandotos.com/products/folding-bluetooth-keyboard?variant=51662580515184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155295945072.jpg?v=1784618964
-    Price: $60.00 USD
-  - [White x2](https://mandotos.com/products/folding-bluetooth-keyboard?variant=51662580547952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-folding-bluetooth-keyboard-55155298795888.jpg?v=1784619017
-    Price: $94.99 USD
-- [Waterproof Shockproof Rechargeable Laptop Backpack Bag](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag): Stay organized and protected with our waterproof and shockproof rechargeable laptop backpack, designed for style and durability.
-  Updated: 2026-09-02T21:03:29Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155299254640.jpg?v=1784618999
-  - [Black / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998602096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155303252336.jpg?v=1784618969
-    Price: $44.99 USD
-  - [Black / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998634864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155303252336.jpg?v=1784618969
-    Price: $49.99 USD
-  - [Blue / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998667632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155310494064.jpg?v=1784618935
-    Price: $46.99 USD
-  - [Blue / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998700400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155310494064.jpg?v=1784618935
-    Price: $49.99 USD
-  - [Dark Gray / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998733168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155311739248.jpg?v=1784619021
-    Price: $59.99 USD
-  - [Dark Gray / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998765936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155311739248.jpg?v=1784619021
-    Price: $62.99 USD
-  - [Gray / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998798704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155305251184.jpg?v=1784618935
-    Price: $46.99 USD
-  - [Gray / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998831472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155305251184.jpg?v=1784618935
-    Price: $49.99 USD
-  - [LBlack / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998864240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155307184496.jpg?v=1784618984
-    Price: $57.99 USD
-  - [LBlack / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998897008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155307184496.jpg?v=1784618984
-    Price: $59.99 USD
-  - [LGray / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998929776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55257779339632.jpg?v=1784619016
-    Price: $57.99 USD
-  - [LGray / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998962544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55257779339632.jpg?v=1784619016
-    Price: $62.99 USD
-  - [Lblue / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662998995312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155300925808.jpg?v=1784619027
-    Price: $49.99 USD
-  - [Lblue / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662999028080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155300925808.jpg?v=1784619027
-    Price: $52.99 USD
-  - [Light Gray / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662999060848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155301908848.jpg?v=1784618962
-    Price: $47.99 USD
-  - [Light Gray / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662999093616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155301908848.jpg?v=1784618962
-    Price: $49.99 USD
-  - [Red / 14inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662999126384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155299254640.jpg?v=1784618999
-    Price: $47.99 USD
-  - [Red / 15.6inch](https://mandotos.com/products/waterproof-and-shockproof-rechargeable-backpack-laptop-bag?variant=51662999159152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-waterproof-and-shockproof-rechargeable-backpack-laptop-bag-55155299254640.jpg?v=1784618999
-    Price: $49.99 USD
-- [WiFi Wireless CCTV IP Camera For Home Security Monitor](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor): WiFi Wireless CCTV IP Camera keeps your home secure with 1080p HD, 360° coverage, night vision, real-time alerts, and two-way audio.
-  Updated: 2026-09-02T21:03:29Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155319472496.jpg?v=1784619010
-  - [White](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor?variant=51663005254000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155319472496.jpg?v=1784619010
-    Price: $56.99 USD
-  - [White AU](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor?variant=51663005286768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155323470192.jpg?v=1784618961
-    Price: $56.99 USD
-  - [White EU](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor?variant=51663005319536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155323470192.jpg?v=1784618961
-    Price: $56.99 USD
-  - [White UK](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor?variant=51663005352304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155323470192.jpg?v=1784618961
-    Price: $56.99 USD
-  - [White US](https://mandotos.com/products/wifi-wireless-cctv-ip-camera-home-security-monitor?variant=51663005385072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-wifi-wireless-cctv-ip-camera-home-security-monitor-55155323470192.jpg?v=1784618961
-    Price: $56.99 USD
-- [Smart Home Security Camera With 3D Panoramic View](https://mandotos.com/products/smart-home-security-camera): Smart Home Security Camera delivers 360° panoramic coverage, crystal HD video, and reliable night vision for total peace of mind, monitor remotely.
-  Updated: 2026-09-02T21:03:29Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155341656432.jpg?v=1784618973
-  - [Black / 2 megapixel](https://mandotos.com/products/smart-home-security-camera?variant=51663015838064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155344245104.jpg?v=1784619011
-    Price: $89.99 USD
-  - [White / 1.3 megapixel](https://mandotos.com/products/smart-home-security-camera?variant=51663015870832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155341656432.jpg?v=1784618973
-    Price: $78.99 USD
-  - [White / 2 megapixel](https://mandotos.com/products/smart-home-security-camera?variant=51663015903600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155341656432.jpg?v=1784618973
-    Price: $89.99 USD
-  - [White / 3 megapixel](https://mandotos.com/products/smart-home-security-camera?variant=51663015936368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155341656432.jpg?v=1784618973
-    Price: $125.05 USD
 - [Mandotos Fashion Hooded Jacket Men Winter Windproof](https://mandotos.com/products/fashion-hooded-jacket-men-winter-windproof-thickened-fake-two-piece-coat-solid-leisure-sports-cotton-jacket): Stay warm in style with our Fashion Hooded Jacket Men Winter Windproof Thickened Fake Two-piece Coat, perfect for leisure and sports this winter.
   Updated: 2026-09-19T05:34:42Z
   Vendor: MANDOTOS
@@ -496,7 +143,7 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-fashion-hooded-jacket-men-winter-windproof-thickened-fake-two-piece-coat-solid-leisure-sports-cotton-jacket-55155407585648.jpg?v=1784619099
     Price: $69.99 USD
 - [Mandotos Cardigan Sweater Mens Casual Coat Polyester](https://mandotos.com/products/cardigan-sweater-mens-casual-coat-knitwear-coat-men-clothing): Elevate your style with this casual cardigan sweater for men, featuring a slim fit, long sleeves, and soft polyester blend for year-round comfort.
-  Updated: 2026-09-02T21:03:31Z
+  Updated: 2026-09-24T05:03:52Z
   Vendor: MANDOTOS
   Product Type: 
   Availability: Available
@@ -826,7 +473,7 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-winter-jacket-men-thicken-warm-fleece-jackets-coats-pure-cotton-plaid-jacket-military-clothes-55155425018224.jpg?v=1784619075
     Price: $72.99 USD
 - [MANDOTOS Mens Casual Shirt Long Sleeve Stand Collar](https://mandotos.com/products/mens-casual-shirt-long-sleeve-stand-collar-solid-color-shirt-mens-clothing): Elevate your style with our Men's Casual Shirt Long Sleeve Stand Collar, available in solid colors and made from a comfortable cotton blend for a perfect fit.
-  Updated: 2026-09-03T00:11:16Z
+  Updated: 2026-10-04T16:57:31Z
   Vendor: MANDOTOS
   Product Type: 
   Availability: Available
@@ -1032,9 +679,9 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-s-casual-shirt-long-sleeve-stand-collar-solid-color-shirt-mens-clothing-55155432685936.jpg?v=1784619068
     Price: $29.99 USD
 - [Pocket Compression Shorts for Active Lifestyle Comfort](https://mandotos.com/products/pocket-compression-shorts): Stay comfortable and stylish with our Pocket Compression Shorts, featuring moisture-wicking fabric and a convenient pocket for essentials.
-  Updated: 2026-09-03T00:10:32Z
+  Updated: 2026-10-03T14:11:46Z
   Vendor: MANDOTOS
-  Product Type: 
+  Product Type: shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-pocket-compression-shorts-55155434029424.jpg?v=1784619112
   - [Army green camouflage / 2XL](https://mandotos.com/products/pocket-compression-shorts?variant=51663052931440)
@@ -1610,9 +1257,9 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-quick-drying-waterproof-anti-fouling-t-shirt-couple-half-sleeve-bottoming-shirt-55155453788528.jpg?v=1784619118
     Price: $24.99 USD
 - [Ribbons Harem Joggers Cargo Pants Cotton Streetwear](https://mandotos.com/products/ribbons-harem-joggers-men-cargo-pants-streetwear-hip-hop-casual-pockets-cotton-track-pants): Stay stylish and comfortable in our Ribbons Harem Joggers, featuring a loose fit, multiple pockets, and breathable cotton for everyday wear.
-  Updated: 2026-09-09T12:39:35Z
+  Updated: 2026-10-03T14:11:05Z
   Vendor: MANDOTOS
-  Product Type: 
+  Product Type: joggers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-ribbons-harem-joggers-men-cargo-pants-streetwear-hip-hop-casual-pockets-cotton-track-pants-55155455820144.jpg?v=1784619128
   - [black / 2XL](https://mandotos.com/products/ribbons-harem-joggers-men-cargo-pants-streetwear-hip-hop-casual-pockets-cotton-track-pants?variant=51663065809264)
@@ -2034,30 +1681,16 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-foldable-purse-hook-portable-metal-handbag-hanger-55155463487856.jpg?v=1784619187
     Price: $14.99 USD
 - [3-Pack Women's Cotton Compression Running Socks](https://mandotos.com/products/womens-compression-running-socks-3-pairs-athletic-crew-socks): Women's compression running socks, 3 pairs, 75% cotton, 160g. Anti-odor, breathable, anti-blister for running, hiking, cycling, and fitness.
-  Updated: 2026-09-03T00:09:20Z
+  Updated: 2026-10-03T14:09:44Z
   Vendor: MANDOTOS
-  Product Type: 
+  Product Type: socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-women-s-compression-running-socks-3-pairs-athletic-crew-socks-55155463717232.jpg?v=1784619188
   Price: $13.92 USD
-- [Height-Adjustable Rolling Side Table with Hidden Wheels](https://mandotos.com/products/standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table): Elevate your workspace with our height-adjustable rolling desk, featuring hidden wheels for easy mobility, perfect for home or office use.
-  Updated: 2026-09-02T21:03:34Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table-55155464012144.jpg?v=1784619132
-  - [Black](https://mandotos.com/products/standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table?variant=51673896419696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table-55155466076528.jpg?v=1784619138
-    Price: $249.99 USD
-  - [White](https://mandotos.com/products/standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table?variant=51673896452464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-standing-scroll-table-with-hidden-wheels-side-table-height-adjustable-bed-table-55155464012144.jpg?v=1784619132
-    Price: $249.99 USD
 - [Women’s Single Travel Sports Shoes - Stylish Comfort](https://mandotos.com/products/single-shoes-travel-shoes-sports-shoes-women): Step up your style with our Single Shoes Travel Shoes for Women—comfortable, versatile, and perfect for any occasion at just $36.99!
-  Updated: 2026-09-02T21:03:34Z
+  Updated: 2026-10-03T14:08:24Z
   Vendor: MANDOTOS
-  Product Type: 
+  Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-single-shoes-travel-shoes-sports-shoes-women-55155479544176.jpg?v=1784619167
   - [Black / 35](https://mandotos.com/products/single-shoes-travel-shoes-sports-shoes-women?variant=51673922470256)
@@ -2161,9 +1794,9 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-single-shoes-travel-shoes-sports-shoes-women-55155480035696.jpg?v=1784619123
     Price: $36.99 USD
 - [Trendy Men's Casual Sports Shoes Large Size Socks Shoes](https://mandotos.com/products/socks-shoes-daddy-shoes-sports-shoes-mens-large-size-trendy-shoes-casual-shoes): Step up your style with these trendy men's casual sports shoes, featuring a comfortable mesh lining and adhesive processing for everyday wear.
-  Updated: 2026-09-09T12:40:04Z
+  Updated: 2026-10-03T14:07:32Z
   Vendor: MANDOTOS
-  Product Type: 
+  Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-socks-shoes-daddy-shoes-sports-shoes-men-s-large-size-trendy-shoes-casual-shoes-55155480101232.jpg?v=1784619132
   - [Black / 39](https://mandotos.com/products/socks-shoes-daddy-shoes-sports-shoes-mens-large-size-trendy-shoes-casual-shoes?variant=51673924403568)
@@ -2272,91 +1905,502 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-new-multifunctional-men-s-shoulder-crossbody-bag-male-hard-wearing-canvas-shoulder-messenger-bags-chest-bag-55155480953200.jpg?v=1784619181
     Price: $29.99 USD
-[List Continued](https://mandotos.com/a/llms-agent/llms.txt?shop=1d00yn-2w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDYzMTg4MzczNTQwOCwibGFzdF92YWx1ZSI6IjE0NjMxODgzNzM1NDA4In0%3D)
+- [Ultralight Casual Running Shoes for Active Youth](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes): Ultralight casual running shoes with breathable woven upper and durable MD sole deliver airy comfort and versatile style for active youth today.
+  Updated: 2026-10-03T14:04:31Z
+  Vendor: MANDOTOS
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+  - [Black / 38](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934365040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 39](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934397808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 40](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934430576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 41](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934463344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 42](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934496112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 43](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934528880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 44](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934561648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 45](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934594416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 46](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934627184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 47](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934659952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Black / 48](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934692720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482231152.jpg?v=1784619151
+    Price: $49.99 USD
+  - [Blue / 38](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934725488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 39](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934758256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 40](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934791024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 41](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934823792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 42](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934856560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 43](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934889328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 44](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934922096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 45](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934954864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 46](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673934987632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 47](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935020400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Blue / 48](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935053168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155481969008.jpg?v=1784619144
+    Price: $49.99 USD
+  - [Grey / 38](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935085936)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 39](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935118704)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 40](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935151472)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 41](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935184240)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 42](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935217008)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 43](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935249776)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 44](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935282544)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 45](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935315312)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 46](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935348080)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 47](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935380848)
+    Availability: Available
+    Price: $49.99 USD
+  - [Grey / 48](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935413616)
+    Availability: Available
+    Price: $49.99 USD
+  - [Red / 38](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935446384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 39](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935479152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 40](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935511920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 41](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935544688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 42](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935577456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 43](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935610224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 44](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935642992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 45](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935675760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 46](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935708528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 47](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935741296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+  - [Red / 48](https://mandotos.com/products/sports-flying-woven-cold-sticky-ultralight-casual-running-shoes?variant=51673935774064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-sports-flying-woven-cold-sticky-ultralight-casual-running-shoes-55155482329456.jpg?v=1784619137
+    Price: $49.99 USD
+- [Mandotos Men Casual Outdoor Breathable Work Shoes](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes): Step out in comfort with our Men’s Casual Outdoor Breathable Work Shoes, designed for style and durability in any environment.
+  Updated: 2026-10-04T16:57:32Z
+  Vendor: MANDOTOS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+  - [Black ash / 39](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937740144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 40](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937772912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 41](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937805680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 42](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937838448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 43](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937871216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 44](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937903984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484787056.jpg?v=1784619135
+    Price: $49.99 USD
+  - [Black ash / 45](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937936752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485049200.jpg?v=1784619222
+    Price: $49.99 USD
+  - [Black red / 39](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673937969520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Black red / 40](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938002288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Black red / 41](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938035056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Black red / 42](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938067824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Black red / 43](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938100592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Black red / 44](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938133360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155484754288.jpg?v=1784619223
+    Price: $49.99 USD
+  - [Blue / 39](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938166128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+  - [Blue / 40](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938198896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+  - [Blue / 41](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938231664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+  - [Blue / 42](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938264432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+  - [Blue / 43](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938297200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+  - [Blue / 44](https://mandotos.com/products/men-casual-shoes-outdoor-breathable-work-shoes?variant=51673938329968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-men-casual-shoes-outdoor-breathable-work-shoes-55155485475184.jpg?v=1784619214
+    Price: $49.99 USD
+- [Korean Canvas Shoes | Shoes - Mandotos ](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black): Factory Direct Korean Edition Spring And Autumn Season Old Beijing Canvas Shoe delivers durable, comfortable men’s casual style for everyday wear.
+  Updated: 2026-09-02T21:03:35Z
+  Vendor: MANDOTOS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+  - [Black / 39 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938526576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 39 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938559344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Black / 40 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938592112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 40 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938624880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Black / 41 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938657648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 41 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938690416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Black / 42 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938723184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 42 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938755952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Black / 43 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938788720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 43 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938821488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Black / 44 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938854256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485671792.jpg?v=1784619140
+    Price: $39.99 USD
+  - [Black / 44 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938887024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485737328.jpg?v=1784619177
+    Price: $39.99 USD
+  - [Blue / 39 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938919792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 39 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938952560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Blue / 40 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673938985328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 40 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939018096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Blue / 41 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939050864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 41 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939083632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Blue / 42 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939116400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 42 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939149168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Blue / 43 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939181936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 43 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939214704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Blue / 44 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939247472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485901168.jpg?v=1784619162
+    Price: $39.99 USD
+  - [Blue / 44 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939280240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155485933936.jpg?v=1784619198
+    Price: $39.99 USD
+  - [Brown / 39 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939313008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 39 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939345776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+  - [Brown / 40 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939378544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 40 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939411312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+  - [Brown / 41 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939444080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 41 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939476848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+  - [Brown / 42 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939509616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 42 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939542384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+  - [Brown / 43 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939575152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 43 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939607920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+  - [Brown / 44 / 1](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939640688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486622064.jpg?v=1784619236
+    Price: $39.99 USD
+  - [Brown / 44 / 2](https://mandotos.com/products/mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black?variant=51673939673456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-mandotos-men-canvas-shoes-korean-edition-spring-autumn-old-beijing-casual-black-55155486589296.jpg?v=1784619205
+    Price: $39.99 USD
+- [Small Crossbody Cat Lock Chain Bags for Women](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags): Discover our stylish small crossbody bags for women, featuring a chic cat lock design and tassel accents, perfect for any casual outing!
+  Updated: 2026-09-09T12:40:10Z
+  Vendor: MANDOTOS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494125936.jpg?v=1784619211
+  - [Black](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags?variant=51673948356976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494748528.jpg?v=1784619210
+    Price: $21.00 USD
+  - [Green](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags?variant=51673948389744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494650224.jpg?v=1784619249
+    Price: $21.00 USD
+  - [Grey](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags?variant=51673948422512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494289776.jpg?v=1784619165
+    Price: $21.00 USD
+  - [Pink](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags?variant=51673948455280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494125936.jpg?v=1784619211
+    Price: $21.00 USD
+  - [Wine Red](https://mandotos.com/products/small-crossbody-bags-for-women-cat-lock-chain-messenger-bags?variant=51673948488048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-small-crossbody-bags-for-women-cat-lock-chain-messenger-bags-55155494617456.jpg?v=1784619160
+    Price: $21.00 USD
+[List Continued](https://mandotos.com/a/llms-agent/llms.txt?shop=1d00yn-2w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDYzMTg4NTg2NTMyOCwibGFzdF92YWx1ZSI6IjE0NjMxODg1ODY1MzI4In0%3D)
 
 ## Collections
 
 - [Shop Stylish Clothing Accessories - Mandotos](https://mandotos.com/collections/stylish-clothing-accessories): Discover trendy stylish clothing accessories at Mandotos. Enhance your look and make a statement with our unique collections.
-  Updated: 2026-09-16T11:11:33Z
-  Total Products: 111
+  Updated: 2026-10-03T05:10:02Z
+  Total Products: 102
 - [Children Essentials | Shop Mandotos](https://mandotos.com/collections/baby-kids-toys-essentials): Explore our curated collection of Baby essentials and engaging kids' toys at Mandotos. From cozy clothing to developmental playthings for every stage of growth.
-  Updated: 2026-09-16T02:35:07Z
-  Total Products: 74
+  Updated: 2026-10-03T05:28:38Z
+  Total Products: 43
 - [Handbags, Wallets & Backpacks | Shop Mandotos Collection](https://mandotos.com/collections/handbags-wallets-backpacks): Explore the Mandotos collection: backpacks, handbags, and wallets crafted for style and durability. Find functional, high-quality pieces for your daily life.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 147
-- [Shop Fitness & Exercise Gear - Mandotos](https://mandotos.com/collections/fitness-exercise-gear): Shop Fitness & Exercise Gear - Mandotos delivers durable, affordable home workout equipment for strength, cardio, yoga, and more with expert support.
-  Updated: 2026-09-16T02:45:56Z
-  Total Products: 153
+  Updated: 2026-10-05T12:43:53Z
+  Total Products: 90
 - [Fine Jewelry, Watches & Eyewear](https://mandotos.com/collections/mandotos-fine-jewelry-watches-eyewear): Explore Mandotos for a curated selection of fine jewelry and luxury watches. Find elegant eyewear and timeless pieces designed for every style and occasion.
-  Updated: 2026-09-15T02:10:08Z
-  Total Products: 115
-- [Electronics And Accessories](https://mandotos.com/collections/electronics-accessories-collection): Explore the Electronics And Accessories Mandotos Collection—a curated, affordable range of gadgets, chargers, cases, and headphones for everyday use.
-  Updated: 2026-09-16T02:52:02Z
-  Total Products: 66
-- [HEALTH BEAUTY AND PERSONAL CARE](https://mandotos.com/collections/beauty-personal-care): Shop Health & Beauty, Cosmetics, and personal care products at Mandotos. Find skincare, cosmetics, hair care, vitamins, and wellness essentials.
-  Updated: 2026-09-16T03:24:11Z
-  Total Products: 195
+  Updated: 2026-10-03T05:19:00Z
+  Total Products: 110
 - [Shop Mandotos' Winter Collection | Stay Warm & Stylish](https://mandotos.com/collections/mandotos-winter-collection): Explore Mandotos' winter collection to stay warm and stylish all season long. Discover cozy styles for everyone today! Shop now!
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 112
+  Updated: 2026-10-05T12:42:09Z
+  Total Products: 107
 - [Shop Mandotos Leather Collection](https://mandotos.com/collections/shop-mandotos-leather-collection): Explore the Mandotos LEATHER COLLECTION, featuring timeless designs and premium materials. Find high-quality, handcrafted pieces to elevate your everyday style.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 97
+  Updated: 2026-10-03T11:12:01Z
+  Total Products: 88
 - [Just In: Fashion & Accessories](https://mandotos.com/collections/new-clothing-accessories-arrivals): Explore New Clothing And Accessories Fresh Arrivals: trend-led dresses, versatile pieces, and chic accessories for any season and occasion.
-  Updated: 2026-09-18T20:28:44Z
-  Total Products: 273
+  Updated: 2026-10-05T12:43:10Z
+  Total Products: 416
 - [Shop Mandotos' Exclusive Summer Collection](https://mandotos.com/collections/summer-collection-clothing-gear): Explore the Summer Collection Shop Clothing And Gear-Manndotos for bright, comfortable beach-ready outfits and durable gear travels well for sunny adventures.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 156
+  Updated: 2026-10-05T11:11:51Z
+  Total Products: 110
 - [AVADA - MANDOTOS-STORE-PRODUCTS](https://mandotos.com/collections/all-store-products): Browse ALL STORE PRODUCTS at Mandotos. Discover a wide selection of quality essentials curated for your lifestyle with fast shipping on every order.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 2679
+  Updated: 2026-10-05T12:43:53Z
+  Total Products: 2165
 - [Mans Shoe Collection](https://mandotos.com/collections/mens-shoes-collection): Shop men's shoes at Mandotos. Find dress shoes, casual footwear, boots, and sneakers in various styles for every occasion.
-  Updated: 2026-09-18T20:12:33Z
-  Total Products: 105
+  Updated: 2026-10-03T05:14:05Z
+  Total Products: 106
 - [Mandotos: Women's Shoes for Every Style & Occasion](https://mandotos.com/collections/womens-shoes): Shop women's shoes at Mandotos. Find heels, flats, boots, sandals, and sneakers for every style and occasion. Various sizes available.
-  Updated: 2026-09-18T20:14:20Z
-  Total Products: 197
+  Updated: 2026-10-03T04:30:55Z
+  Total Products: 200
 - [Mandotos: Comfortable & Stylish Shoes for Kids & Toddlers](https://mandotos.com/collections/toddler-shoes-kids-footwear): Discover supportive Toddler Shoes and stylish footwear at Mandotos. Shop our durable collection designed for growing feet and active play. Browse today.
-  Updated: 2026-09-05T04:48:12Z
+  Updated: 2026-10-03T01:53:51Z
   Total Products: 23
 - [Shop Women's Fashion & Apparel - Mandotos Collection](https://mandotos.com/collections/womens-fashion-apparel): Discover the latest in women's fashion with the Mandotos Trendy Women's  Collection. Shop stylish apparel for every occasion.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 354
+  Updated: 2026-10-05T12:43:10Z
+  Total Products: 366
 - [Men's Clothing Collection, Shop Mandotos](https://mandotos.com/collections/mens-clothing-collection): Explore our premium Men's collection at Mandotos. From versatile shirts and pants to activewear, find high-quality apparel for work and leisure in every size.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 168
+  Updated: 2026-10-04T16:56:13Z
+  Total Products: 355
 - [Body Suits Lingerie And Under Wear Collection](https://mandotos.com/collections/bodysuits-lingerie-underwear): Shop Body Suits Lingerie And Under Wear Collection at Mandotos. Find intimate apparel in various styles and sizes for comfort and confidence.
-  Updated: 2026-09-09T03:08:53Z
-  Total Products: 103
-- [MANDOTOS SHOP ONLINE: Premium Health & Wellness Supplements](https://mandotos.com/collections/health-wellness-supplements): Shop health & wellness supplements at Mandotos. Find vitamins, minerals, and dietary supplements to support your wellness journey and health goals.
-  Updated: 2026-09-12T11:11:09Z
-  Total Products: 21
-- [Communication & Smartphone Accessories | Shop Mandotos](https://mandotos.com/collections/smartphone-accessories-mandotos): Discover Communication & Smartphone Accessories | Shop Mandotos for durable cables, cases, and gadgets designed for reliability and connectivity—shop now.
-  Updated: 2026-09-16T03:24:58Z
-  Total Products: 101
+  Updated: 2026-10-03T11:12:01Z
+  Total Products: 112
 - [Holidays, Parties, & Gifts-Mandotos](https://mandotos.com/collections/holidays-parties-gifts): Make every celebration unforgettable with Mandotos. Browse our unique selection for holidays parties and gifts, featuring creative ideas to suit any occasion.
-  Updated: 2026-09-16T03:24:58Z
-  Total Products: 279
-- [Formal Gowns & Dresses for Parties Weddings & Quinceañeras](https://mandotos.com/collections/formal-gowns-dresses-parties-weddings): Browse an elegant selection of formal gowns and dresses perfect for weddings, parties, and Quinceañeras. Find the ideal fit for your next special occasion.
-  Updated: 2026-09-16T02:27:30Z
-  Total Products: 174
-- [Sports & Outdoors](https://mandotos.com/collections/sports-outdoor-gear): Shop premium sports and outdoor gear at MANDOTOS. Athletic apparel, camping equipment, fitness tools, and more — built for performance and adventure.
-  Updated: 2026-09-16T03:30:45Z
-  Total Products: 127
+  Updated: 2026-10-03T11:12:01Z
+  Total Products: 184
+- [Weddings & Quinceañeras](https://mandotos.com/collections/formal-gowns-dresses-parties-weddings): Browse an elegant selection of formal gowns and dresses perfect for weddings, parties, and Quinceañeras. Find the ideal fit for your next special occasion.
+  Updated: 2026-10-05T12:43:36Z
+  Total Products: 172
 - [Boys Clothing](https://mandotos.com/collections/boys-clothing-collection): Shop our curated boys clothing collection. Comfortable, durable, and stylish outfits for boys of every age. Free worldwide shipping available.
-  Updated: 2026-09-05T04:48:12Z
-  Total Products: 61
+  Updated: 2026-10-02T20:16:15Z
+  Total Products: 60
 - [Girls Clothing](https://mandotos.com/collections/girls-clothing-collection): Discover our curated girls clothing collection. Stylish, comfortable, and age-appropriate outfits for girls of all ages. Free worldwide shipping available.
-  Updated: 2026-09-05T04:48:12Z
+  Updated: 2026-09-23T11:11:54Z
   Total Products: 58
 - [Baby & Toddler Clothing](https://mandotos.com/collections/baby-toddler-apparel): Shop our baby & toddler clothing collection. Soft, comfortable, and adorable outfits for your little ones. Free worldwide shipping available.
-  Updated: 2026-09-05T04:48:12Z
-  Total Products: 57
+  Updated: 2026-10-03T01:53:51Z
+  Total Products: 55
 - [Autumn Collection](https://mandotos.com/collections/autumn-collection): Welcome the season with polished layers, soft knits, long-sleeve essentials, versatile dresses, and cozy sweaters. Discover effortless autumn style for crisp days, cooler nights, and everywhere in between.
-  Updated: 2026-09-19T11:12:55Z
-  Total Products: 80
+  Updated: 2026-10-03T01:15:39Z
+  Total Products: 152
 
 ## Blogs
 
@@ -2652,6 +2696,25 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
   - [Wearable Fitness Tech Trends Worth Watching](https://mandotos.com/blogs/news/wearable-fitness-tech-trends): Wearable Fitness Tech Trends Worth Watching
     Updated: 2026-08-17T07:36:27Z
     Author: Admin
+  - [The Autumn Edit: Layers for the Season Ahead | Mandotos](https://mandotos.com/blogs/news/the-autumn-edit-layers-for-the-season-ahead): The Autumn Edit: Layers for the Season Ahead | Mandotos
+    Updated: 2026-09-29T03:41:52Z
+    Author: Armando Flores
+  - [Professional Office Attire Essentials List for 2026](https://mandotos.com/blogs/news/professional-office-attire-essentials-list-2026): Professional Office Attire Essentials List for 2026
+    Updated: 2026-10-01T00:36:41Z
+    Author: Editorial Team
+    Tags: best professional footwear for women, business casual wardrobe checklist, how to choose high-quality work clothes, office attire essentials, professional office attire essentials list
+  - [How to Build a Sustainable Wardrobe: A 2026 Guide](https://mandotos.com/blogs/news/how-to-build-sustainable-wardrobe): How to Build a Sustainable Wardrobe: A 2026 Guide
+    Updated: 2026-10-04T01:52:39Z
+    Author: Editorial Team
+    Tags: capsule wardrobe essentials, how to build a sustainable wardrobe, how to care for clothes to make them last, how to identify high quality clothing, sustainable wardrobe
+  - [Curated Lifestyle Gifts for Tech Lovers: 2026 Guide](https://mandotos.com/blogs/news/curated-lifestyle-gifts-for-tech-lovers-2026-guide): Curated Lifestyle Gifts for Tech Lovers: 2026 Guide
+    Updated: 2026-10-04T05:44:54Z
+    Author: Editorial Team
+    Tags: best tech accessories for desk setup, curated lifestyle gifts for tech lovers, how to choose tech gifts for someone you don't know well, unique gift ideas for tech lovers
+  - [Unique Gift Ideas for Tech Lovers: 8 Must-Have Picks](https://mandotos.com/blogs/news/unique-gift-ideas-tech-lovers): Unique Gift Ideas for Tech Lovers: 8 Must-Have Picks
+    Updated: 2026-10-05T17:52:42Z
+    Author: Editorial Team
+    Tags: cool tech gifts, seasonal tech gifts, tech accessories gift ideas, unique gift ideas for tech lovers, useful gifts for tech lovers
 
 ## Store Pages
 
@@ -2691,13 +2754,13 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
 ## Policies
 
 - [Privacy Policy](https://mandotos.com/policies/privacy-policy)
-  Updated: 2026-08-29T23:44:05-05:00
+  Updated: 2026-09-25T16:31:44-05:00
 - [Shipping Policy](https://mandotos.com/policies/shipping-policy)
-  Updated: 2026-09-16T16:11:02-05:00
+  Updated: 2026-09-25T16:33:44-05:00
 - [Refund Policy](https://mandotos.com/policies/refund-policy)
-  Updated: 2026-09-18T11:53:59-05:00
+  Updated: 2026-09-23T19:20:54-05:00
 - [Terms of Service](https://mandotos.com/policies/terms-of-service)
-  Updated: 2026-08-29T22:54:57-05:00
+  Updated: 2026-09-28T16:21:30-05:00
 - [Contact Information](https://mandotos.com/policies/contact-information)
   Updated: 2026-08-26T15:35:28-05:00
 
