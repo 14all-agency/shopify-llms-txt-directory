@@ -83,61 +83,61 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-28T00:00:44.909Z
+- Updated At: 2026-10-06T00:00:46.275Z
 
 ## Products
 
 - [the adventures of mxmtoon: dawn & dusk](https://merch.mxmtoon.com/products/the-adventures-of-mxmtoon-dawn-dusk): the adventures of mxmtoon: dawn & dusk
-  Updated: 2026-09-16T07:58:56Z
+  Updated: 2026-10-05T13:03:39Z
   Vendor: mxmtoon
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_adventures_dawn-dusk.png?v=1650412514
   Price: $8.00 USD
 - [the adventures of mxmtoon: the masquerade](https://merch.mxmtoon.com/products/the-adventures-of-mxmtoon-the-masquerade): the adventures of mxmtoon: the masquerade is the first chapter in the epic saga of mxmtoon. Maia reckons with the forces of love, insecurity, and heartbreak in this 40 page graphic novel. Listen to mxmtoon’s debut album "the masquerade," while reading along for the full immersive experience. Contains two doodle pages to spark creativity. Illustrations by The New Yorker's Ellie Black.
-  Updated: 2026-09-16T07:58:57Z
+  Updated: 2026-10-05T13:03:40Z
   Vendor: mxmtoon
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_adventures_masquerade.png?v=1650412549
   Price: $8.00 USD
 - [i feel like chet zine](https://merch.mxmtoon.com/products/i-feel-like-chet-zine): in other cool news, i’ve made a zine to go along with the music video! this is my first time working on a video project, so my thought process with sketching, outfits, storyboarding, etc. is documented so that way you can see how it all started. check it out here!
-  Updated: 2026-09-16T07:58:47Z
+  Updated: 2026-10-05T13:03:41Z
   Vendor: mxmtoon
   Product Type: Vintage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtmerch-36.jpg?v=1603554540
   Price: $15.00 USD
 - [rising - cd](https://merch.mxmtoon.com/products/rising-cd): mxmtoon's second full-length LP, rising. Standard CD Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: CD Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world)12. coming of age
-  Updated: 2026-09-01T00:25:09Z
+  Updated: 2026-10-05T13:03:44Z
   Vendor: mxmtoon
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_cd.png?v=1650917826
   Price: $10.00 USD
 - [rising - cassette](https://merch.mxmtoon.com/products/rising-cassette): mxmtoon's second full-length, rising. Clear cassette Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: Cassette Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown 6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world) 12. coming of age
-  Updated: 2026-09-25T19:27:17Z
+  Updated: 2026-10-05T13:03:44Z
   Vendor: mxmtoon
   Product Type: Cassette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_casette_main.png?v=1774462988
   Price: $10.00 USD
 - [rising - purple vinyl](https://merch.mxmtoon.com/products/rising-purple-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" purple vinyl and features full color tri fold packaging. Release Date: December 16, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-09-06T00:29:46Z
+  Updated: 2026-10-05T13:03:44Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-purple.png?v=1650918959
   Price: $30.00 USD
 - [rising - limited edition pink vinyl](https://merch.mxmtoon.com/products/rising-spotify-fans-first-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" light pink vinyl and features full color tri fold packaging. Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-09-16T23:12:20Z
+  Updated: 2026-10-05T13:03:45Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-spotify-pink.png?v=1650919025
   Price: $30.00 USD
 - [mxmtoon logo tee](https://merch.mxmtoon.com/products/mxmtoon-logo-tee): Product Brand/Style: Royal 5051ORG - Eggplant Fit: StandardFabric: 100% Organic Cotton, USA Made
-  Updated: 2026-09-25T19:27:17Z
+  Updated: 2026-10-05T13:03:45Z
   Vendor: mxmtoon
   Product Type: Shirts
   Availability: Available
@@ -164,7 +164,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $20.00 USD
 - [color blob cut & sew hoodie](https://merch.mxmtoon.com/products/color-blob-cut-sew-hoodie): Custom cut & sewn hoodie 80%/20% Poly/Cotton Unisex fit Limited Edition
-  Updated: 2026-09-25T19:27:15Z
+  Updated: 2026-10-05T13:03:48Z
   Vendor: mxmtoon
   Product Type: Sweatshirts
   Availability: Available
@@ -185,35 +185,47 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $60.00 USD
 - [upcycled poster notebook](https://merch.mxmtoon.com/products/preorder-upcycled-poster-notebook): notebook made from upcycled mxmtoon tour posters Size: 5"x8.25"
-  Updated: 2026-09-01T00:25:12Z
+  Updated: 2026-10-05T13:03:49Z
   Vendor: mxmtoon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_notebook.png?v=1763155449
   Price: $15.00 USD
 - [rising  *signed* cd](https://merch.mxmtoon.com/products/rising-signed-cd): mxmtoon's second full-length LP, rising. Signed CD Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: CD Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world)12. coming of age
-  Updated: 2026-09-19T19:07:42Z
+  Updated: 2026-10-05T13:03:49Z
   Vendor: mxmtoon
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_Rising_CD_signed.png?v=1774462988
   Price: $20.00 USD
+- [cherry tee](https://merch.mxmtoon.com/products/cherry-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-10-05T13:03:50Z
+  Vendor: mxmtoon
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0003_159018_1_288915_d-copy.png?v=1695411434
+  - [2X-Large](https://merch.mxmtoon.com/products/cherry-tee?variant=47025404412203)
+    Availability: Available
+    Price: $20.00 USD
+  - [3X-Large](https://merch.mxmtoon.com/products/cherry-tee?variant=47025404444971)
+    Availability: Available
+    Price: $20.00 USD
 - [worse + older tee](https://merch.mxmtoon.com/products/worse-older-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-01T00:25:13Z
+  Updated: 2026-10-05T13:03:51Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0002_159020_1_288917_d-copy.png?v=1695411463
   Price: $20.00 USD
 - [heart keychain](https://merch.mxmtoon.com/products/heart-keychain): 2.5 inch wide enamel keychain
-  Updated: 2026-09-25T19:27:13Z
+  Updated: 2026-10-05T13:03:53Z
   Vendor: mxmtoon
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0005_159016_1_288913_d-_1.png?v=1695416594
   Price: $10.00 USD
 - [1-800-date-me crop tee](https://merch.mxmtoon.com/products/1-800-date-me-crop-tee): hotline open now 📞 60/40 combed ring-spun cotton/polyester size chart size body length (in) chest width (in) s 19 1/2 18 1/2 m 20 19 1/2 l 20 1/2 20 1/2 xl 21 1/4 21 1/2 2xl 22 23 1/2 3xl 22 1/2 25 1/2
-  Updated: 2026-09-01T00:25:13Z
+  Updated: 2026-10-05T13:03:53Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -237,7 +249,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [hey, hello tee](https://merch.mxmtoon.com/products/hey-hello-tee): what's your name, i'd really like to know about you... 100% cotton size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-09-01T00:25:14Z
+  Updated: 2026-10-05T13:03:54Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -261,21 +273,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [plum blossom - limited edition vinyl](https://merch.mxmtoon.com/products/plum-blossom-limited-edition-vinyl): 2 sided LP featuring mxmtoon's latest EP, plum blossom (revisited) on side a, and debut EP, plum blossom, on side b. Pressed in purple and white dual color vinyl. SIDE A the idea of you (revisited) cliché (revisited) feelings are fatal (revisited) stuck (revisited) temporary nothing (revisited) hong kong (revisited) 1-800-DATEME (revisited) SIDE B cliché i feel like chet feelings are fatal the idea of you porcelain temporary nothing i miss you Release Date: march 2024
-  Updated: 2026-09-27T09:46:52Z
+  Updated: 2026-10-05T13:03:55Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmtplumblossomfront.png?v=1774462988
   Price: $27.00 USD
 - [the masquerade - transparent blue vinyl](https://merch.mxmtoon.com/products/the-masquerade-transparent-blue-vinyl): Experience the triumphant return of singer-songwriter mxmtoon's iconic masterpiece and debut album, the masquerade, as it celebrates its 5th anniversary. Out now via AWAL Recordings, this special edition pays homage to the unwavering passion and raw emotion that captured hearts worldwide upon its initial release. This original 10-track album is now being released alongside an intimate collection of acoustic recordings, inviting you to rediscover the soulful essence of mxmtoon's musical genius. "i can’t believe it’s been five years of this record! the masquerade forever changed my life when i first released it, and it continues to find new meaning and life every day since thanks to the people who support it. i’m so grateful for the journey i’ve embarked on these past five years and i owe so much to these songs for getting me here. i’m so thankful for your continuous support too as i’ve not only released more music, but grown up alongside you. it’s the greatest privilege of my life to learn about who i am and share the songs i write with such good company. happy birthday to the masquerade :) much love, maia" Release Date: may 7th, 2024
-  Updated: 2026-09-16T07:58:36Z
+  Updated: 2026-10-05T13:03:57Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTMasqueBlue.png?v=1774462988
   Price: $30.00 USD
 - [toon shorts](https://merch.mxmtoon.com/products/toon-shorts): 100% cotton, drawstring waist sweat shorts size chart size waist (laid flat) (in) outseam (in) s 13 1/2 17 m 15 1/4 17 1/2 l 16 1/4 18 xl 17 1/4 18 1/2 2xl 18 1/4 18 3/4 3xl 19 1/4 19
-  Updated: 2026-09-25T19:27:13Z
+  Updated: 2026-10-05T13:03:57Z
   Vendor: mxmtoon
   Product Type: Shorts
   Availability: Available
@@ -299,21 +311,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [fruity water bottle](https://merch.mxmtoon.com/products/fruity-water-bottle): 32oz water bottle
-  Updated: 2026-09-01T01:12:24Z
+  Updated: 2026-10-05T13:03:58Z
   Vendor: mxmtoon
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_0002_161379_1_294174_d.png?v=1710516821
   Price: $25.00 USD
 - [dawn & dusk - black vinyl](https://merch.mxmtoon.com/products/dawn-dusk-black-vinyl-1): dawn & dusk 12" Black Vinyl side a track listing1. fever dream2. used to you3. lessons4. quiet emotions5. 1, 26. no faker7. almost home side b track listing1. bon iver2. ok on your own3. myrtle ave.4. wallflower5. asking for a friend6. show and tell7. first
-  Updated: 2026-09-25T19:27:12Z
+  Updated: 2026-10-05T13:04:00Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt-dawndusk-Vinyl-Mockup2__1___1_006b884c-9101-414f-beae-4985f05dc595.png?v=1714757759
   Price: $30.00 USD
 - [baby blue logo hoodie](https://merch.mxmtoon.com/products/baby-blue-logo-hoodie): 80% cotton, 20% recycled polyester hoodie in Blue Mist size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-09-10T06:43:45Z
+  Updated: 2026-10-05T13:04:02Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -337,7 +349,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $55.00 USD
 - [cowboy cloud tee](https://merch.mxmtoon.com/products/cowboy-cloud-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt; garment-dyed and pre-shrunk for a lived-in feel size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-09-25T19:27:12Z
+  Updated: 2026-10-05T13:04:02Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -361,28 +373,28 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [i  texas bumper sticker set](https://merch.mxmtoon.com/products/i--texas-bumper-sticker): set of 3 bumper stickers, each sticker measures 13.75" wide
-  Updated: 2026-09-25T19:27:11Z
+  Updated: 2026-10-05T13:04:03Z
   Vendor: mxmtoon
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTbumperstickerset.png?v=1722365355
   Price: $15.00 USD
 - [liminal space - exclusive cloudy green vinyl](https://merch.mxmtoon.com/products/liminal-space-exclusive-cloudy-green-vinyl): Exclusive cloudy green pressing release date: november 1st, 2024
-  Updated: 2026-09-27T09:46:56Z
+  Updated: 2026-10-05T13:04:04Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmtliminald2cvinyl.png?v=1774462988
   Price: $29.00 USD
 - [mxmtoon logo sticker](https://merch.mxmtoon.com/products/mxmtoon-logo-sticker): vinyl sticker
-  Updated: 2026-09-25T19:27:10Z
+  Updated: 2026-10-05T13:04:08Z
   Vendor: mxmtoon
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_logo_sticker.png?v=1739394048
   Price: $5.00 USD
 - [raccoon tee](https://merch.mxmtoon.com/products/lose-my-cool-tee): 100% ringspun heavyweight cotton, comfort colors t-shirt in natural; garment-dyed and pre-shrunk for a lived-in feel size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-09-23T22:01:36Z
+  Updated: 2026-10-05T13:04:09Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -403,14 +415,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [rain tote](https://merch.mxmtoon.com/products/rain-tote): 100% cotton, 25 liter zipper tote in natural
-  Updated: 2026-09-01T00:25:18Z
+  Updated: 2026-10-05T13:04:10Z
   Vendor: mxmtoon
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0001_163884_1_299887_d.png?v=1744142035
   Price: $30.00 USD
 - [liminal space tour hoodie](https://merch.mxmtoon.com/products/liminal-space-tour-hoodie): 80% cotton, 20% recycled polyester hoodie in black size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-09-25T19:27:10Z
+  Updated: 2026-10-05T13:04:10Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -431,35 +443,35 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $65.00 USD
 - [rising - cassette *signed*](https://merch.mxmtoon.com/products/rising-cassette-signed): This copy is hand-signed by mxmtoon! mxmtoon's second full-length, rising. Clear cassette Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: Cassette Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown 6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world) 12. coming of age
-  Updated: 2026-09-16T07:58:55Z
+  Updated: 2026-10-05T13:04:12Z
   Vendor: mxmtoon
   Product Type: Cassette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_Rising_Cass_signed.png?v=1774462988
   Price: $10.00 USD
 - [rising - yellow vinyl](https://merch.mxmtoon.com/products/rising-yellow-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" yellow vinyl and features full color tri fold packaging. Release Date: December 16, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-09-01T00:25:19Z
+  Updated: 2026-10-05T13:04:12Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTOON_0001_Rising-Yellow-Vinyl.png?v=1783614934
   Price: $30.00 USD
 - [rising - light blue vinyl](https://merch.mxmtoon.com/products/rising-light-blue-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" light blue vinyl and features full color tri fold packaging. Release Date: December 16, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-09-01T00:25:20Z
+  Updated: 2026-10-05T13:04:12Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTOON_0002_Rising-Blue-Vinyl.png?v=1783614937
   Price: $30.00 USD
 - [true colors (from Life is Strange) - picture disc vinyl](https://merch.mxmtoon.com/products/true-colors-from-life-is-strange-picture-disc-vinyl): mxmtoon's EP, true colors, from Life Is Strange. Pressed to 12" custom picture disc Release Date: September 10, 2021Record Label: AWAL Recordings America, Inc.Format + Color: 12" Picture Disc Vinyl
-  Updated: 2026-09-21T21:15:16Z
+  Updated: 2026-10-05T13:04:13Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/0000_Mxmtoon-Picture-disc-w-cover.png?v=1783714255
   Price: $30.00 USD
 - [plum blossom (revisited) tour hoodie](https://merch.mxmtoon.com/products/plum-blossom-revisited-tour-hoodie): 50% cotton, 50% polyester hoodie in purple *please note that color and blank may vary and differ from the product photo size chart size body length (in) chest width (in) sleeve length (in) s 27 20 33 1/2 m 28 22 34 1/2 l 29 24 35 1/2 xl 30 26 36 1/2 xxl 31 28 37 1/2
-  Updated: 2026-09-25T19:27:10Z
+  Updated: 2026-10-05T13:04:13Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -483,16 +495,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
-  Updated: 2026-09-24T11:04:32Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 50
 - [sweatshirts](https://merch.mxmtoon.com/collections/sweatshirts)
   Updated: 2026-07-08T20:17:26Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-07-08T20:17:26Z
@@ -510,7 +522,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
@@ -528,7 +540,7 @@ your agent can transact everywhere.
   Updated: 2023-09-20T19:37:07Z
   Total Products: 6
 - [apparel](https://merch.mxmtoon.com/collections/apparel)
-  Updated: 2026-09-25T11:08:10Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 73
 - [Spotify Fans First](https://merch.mxmtoon.com/collections/spotify-fans-first)
   Updated: 2026-07-08T20:17:27Z
@@ -540,25 +552,25 @@ your agent can transact everywhere.
   Updated: 2026-09-20T11:03:58Z
   Total Products: 35
 - [rising (the tour) merch](https://merch.mxmtoon.com/collections/rising-tour)
-  Updated: 2026-07-08T20:17:27Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 13
 - [new arrivals](https://merch.mxmtoon.com/collections/new-arrivals)
-  Updated: 2026-09-22T11:04:03Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 34
 - [bittersweet daze tour merch](https://merch.mxmtoon.com/collections/bittersweet-daze-tour-merch)
-  Updated: 2026-07-08T21:03:25Z
+  Updated: 2026-09-28T18:36:09Z
   Total Products: 6
 - [plum blossom (revisited)](https://merch.mxmtoon.com/collections/plum-blossom-revisited)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 7
 - [graphic novels](https://merch.mxmtoon.com/collections/graphic-novels)
   Updated: 2026-09-09T11:04:21Z
   Total Products: 2
 - [valentine's gift guide](https://merch.mxmtoon.com/collections/valentines-gift-guide)
-  Updated: 2026-09-09T11:04:21Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 11
 - [the spring line](https://merch.mxmtoon.com/collections/the-spring-line)
-  Updated: 2026-09-16T11:04:14Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
   Updated: 2026-09-25T11:08:10Z
@@ -567,7 +579,7 @@ your agent can transact everywhere.
   Updated: 2026-07-09T20:14:13Z
   Total Products: 11
 - [$20](https://merch.mxmtoon.com/collections/20)
-  Updated: 2026-09-20T11:03:58Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 26
 - [$10 & under](https://merch.mxmtoon.com/collections/smart-collection)
   Updated: 2026-09-16T11:04:14Z
@@ -579,13 +591,13 @@ your agent can transact everywhere.
   Updated: 2026-09-10T11:04:14Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
   Updated: 2026-09-20T11:03:58Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
-  Updated: 2026-09-27T11:03:31Z
+  Updated: 2026-10-02T11:04:28Z
   Total Products: 7
 - [liminal space collection](https://merch.mxmtoon.com/collections/liminal-space-collection)
   Updated: 2026-07-08T20:17:28Z
