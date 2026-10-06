@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-09-09T00:00:28.009Z
+- Updated At: 2026-10-06T00:00:28.452Z
 
 ## Products
 
 - [PickleUp Pro Cramp Shot - Pineapple](https://pickleupshot.com/products/pro-cramp-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-09-08T18:06:46Z
+  Updated: 2026-10-05T20:31:27Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: £4.40 GBP
 - [PickleUp Football Jersey](https://pickleupshot.com/products/pickleup-football-jersey): Our signature football jersey is cut boxy and relaxed. Looks good whether you're warming up, cooling down, or just repping PickleUp out with your pals. Lightweight, breathable, and built for movement. Details Unisex boxy fit with a relaxed drop shoulder and V-neck. 100% polyester, lightweight (165 g/m²) and thin enough to layer or wear solo in summer. Short sleeve. Care Machine wash at 30°C on a gentle cycle. Tumble dry low. Iron on low heat — avoid ironing directly on the print. No bleach, no dry clean. Made to order Every jersey is made to order, so delivery takes a little longer than off-the-shelf kit. It's our way of cutting waste and pushing back against fast fashion. Expect up to 14 working days from order to doorstep. Please note: Minor variations between items can occur due to differences in fabric, dye, and processing. This is normal in apparel manufacturing and we work hard to keep every piece consistent. Size Chart S M L XL cm cm cm cm Chest 59 61 63 65 Length 71 73 75 77 Shoulder 50 51.5 53 54.5 Sleeve length 27.3 27.9 28.5 29.1 gid://shopify/Product/15532168872260
-  Updated: 2026-07-17T08:28:54Z
+  Updated: 2026-10-01T16:38:39Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -54,16 +54,16 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-09-08T11:25:45Z
+  Updated: 2026-10-05T11:21:33Z
   Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-09-08T11:25:45Z
+  Updated: 2026-10-05T11:21:33Z
   Total Products: 1
 - [Merch](https://pickleupshot.com/collections/merch)
-  Updated: 2026-06-06T11:19:05Z
+  Updated: 2026-10-02T11:22:14Z
   Total Products: 1
 - [Performance Cramp Shots](https://pickleupshot.com/collections/performance-cramp-shots)
-  Updated: 2026-09-08T11:25:45Z
+  Updated: 2026-10-05T11:21:33Z
   Total Products: 1
 
 ## Blogs
@@ -251,6 +251,34 @@
     Updated: 2026-09-07T09:29:10Z
     Author: PickleUp
     Tags: acetic acid, cramp science, muscle cramps and pickle juice, mustard for cramps, pickle juice for cramps, pickle juice vs mustard
+  - [Pickle Juice for CrossFit Cramp | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-for-crossfit-cramps): Pickle Juice for CrossFit Cramp | PickleUp
+    Updated: 2026-09-10T09:11:36Z
+    Author: PickleUp
+    Tags: CrossFit, functional fitness, muscle cramps and pickle juice, pickle juice for cramps, sports nutrition
+  - [Pickle Juice vs Apple Cider Vinegar for Cramps | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-vs-apple-cider-vinegar-for-cramps): Pickle Juice vs Apple Cider Vinegar for Cramps | PickleUp
+    Updated: 2026-09-14T09:05:57Z
+    Author: PickleUp
+    Tags: acetic acid and cramps, apple cider vinegar for cramps, muscle cramps, pickle juice for cramps, pickle juice vs apple cider vinegar
+  - [Pickle Juice for Rowing Cramps | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-for-rowing-cramps): Pickle Juice for Rowing Cramps | PickleUp
+    Updated: 2026-09-17T09:16:21Z
+    Author: PickleUp
+    Tags: drink pickle juice for cramps, muscle cramps and pickle juice, pickle juice for cramps, rowing, sports nutrition
+  - [Gherkin Juice for Cramps: Does It Work Like Pickle Juice?](https://pickleupshot.com/blogs/news/gherkin-juice-for-cramps): Gherkin Juice for Cramps: Does It Work Like Pickle Juice?
+    Updated: 2026-09-21T09:20:54Z
+    Author: PickleUp
+    Tags: cramp science, dill pickle juice cramps, gherkin juice for cramps, muscle cramps, pickle juice for cramps
+  - [Pickle Juice vs Coconut Water for Cramps | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-vs-coconut-water-for-cramps): Pickle Juice vs Coconut Water for Cramps | PickleUp
+    Updated: 2026-09-28T09:05:23Z
+    Author: PickleUp
+    Tags: coconut water for cramps, does pickle juice help with cramps, muscle cramps, pickle juice for cramps, pickle juice vs coconut water
+  - [Pickle Juice for Basketball Cramps: Does It Help? | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-for-basketball-cramps): Pickle Juice for Basketball Cramps: Does It Help? | PickleUp
+    Updated: 2026-10-01T09:11:16Z
+    Author: PickleUp
+    Tags: basketball, dill pickle juice and cramps, drink pickle juice for cramps, muscle cramps and pickle juice, pickle juice for cramps, sports nutrition
+  - [Pickle Juice vs Tonic Water for Cramps: Does Quinine Work?](https://pickleupshot.com/blogs/news/pickle-juice-vs-tonic-water-for-cramps): Pickle Juice vs Tonic Water for Cramps: Does Quinine Work?
+    Updated: 2026-10-05T09:09:17Z
+    Author: PickleUp
+    Tags: does pickle juice help with cramps, muscle cramps and pickle juice, pickle juice for cramps, pickle juice vs tonic water, quinine for cramps, tonic water for cramps
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
     Updated: 2025-09-17T14:51:53Z
@@ -333,7 +361,7 @@
 ## Policies
 
 - [Privacy Policy](https://pickleupshot.com/policies/privacy-policy)
-  Updated: 2025-10-08T11:50:07+01:00
+  Updated: 2026-09-29T15:38:12+01:00
 - [Shipping Policy](https://pickleupshot.com/policies/shipping-policy)
   Updated: 2025-10-14T13:24:40+01:00
 - [Refund Policy](https://pickleupshot.com/policies/refund-policy)
