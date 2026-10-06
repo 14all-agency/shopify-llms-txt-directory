@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2016-12-08T21:12:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-24T00:00:40.783Z
+- Updated At: 2026-10-06T00:00:42.500Z
 
 ## Products
 
 - [Slowheart - CD](https://kipmoore.merchmadeeasy.com/products/kip-moore-slowheart-cd): Slowheart on CD. Tracklist: Plead the Fifth Just Another Girl I've Been Around Fast Women Bittersweet Company Sunburn More Girls Like You The Bull Blonde Good Thing Last Shot Try Again Guitar Man RELEASED 2017
-  Updated: 2026-09-20T02:57:18Z
+  Updated: 2026-10-05T13:01:12Z
   Vendor: Kip Moore
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/products/slowheart-CD_Kip-Moore.jpg?v=1661536126
   Price: $10.00 USD
 - [Damn Love Crewneck](https://kipmoore.merchmadeeasy.com/products/damn-love-crewneck): Kip Moore DAMN LOVE crewneck in grey, front print only. 100% Cotton
-  Updated: 2026-09-05T23:31:27Z
+  Updated: 2026-10-05T13:01:13Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Damn Love Album Tee](https://kipmoore.merchmadeeasy.com/products/damn-love-album-tee): Kip Moore DAMN LOVE album tee! 100% Cotton
-  Updated: 2026-09-14T20:17:15Z
+  Updated: 2026-10-05T13:01:13Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -60,21 +60,21 @@
     Availability: Available
     Price: $15.00 USD
 - [Damn Love - Vinyl](https://kipmoore.merchmadeeasy.com/products/damn-love-vinyl): The latest Kip Moore studio album, Damn Love, is available on Vinyl. Tracklist: Damn Love Kinda Bar Neon Blue The Guitar Slinger Heart on Fire Another Night in Knoxville Silver and Gold Peace & Love Sometimes She Stays Some Things One Heartbeat Mr. Simple Micky's Bar RELEASED 2023
-  Updated: 2026-09-18T22:34:36Z
+  Updated: 2026-10-05T13:01:14Z
   Vendor: MUSIC
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/products/KMDamnLoveVinyl.png?v=1677180924
   Price: $30.00 USD
 - [Damn Love - CD](https://kipmoore.merchmadeeasy.com/products/damn-love-cd): The latest Kip Moore studio album, Damn Love, is available on CD. Tracklist: Damn Love Kinda Bar Neon Blue The Guitar Slinger Heart on Fire Another Night in Knoxville Silver and Gold Peace & Love Sometimes She Stays Some Things One Heartbeat Mr. Simple Micky's Bar RELEASED 2023
-  Updated: 2026-09-20T02:57:13Z
+  Updated: 2026-10-05T13:01:14Z
   Vendor: MUSIC
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/products/KMDamnLoveCD.png?v=1677181483
   Price: $10.00 USD
 - [Damn Love Denim Jacket - Online Exclusive](https://kipmoore.merchmadeeasy.com/products/damn-love-denim-jacket): Damn Love denim jacket with embroidery detail on front and back. Limited quantities available.
-  Updated: 2026-09-22T18:27:39Z
+  Updated: 2026-10-05T13:01:15Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $60.00 USD
 - [World Tour Bull tee](https://kipmoore.merchmadeeasy.com/products/world-tour-bull-tee): World Tour Bull tee in black with front print only. 100% Cotton
-  Updated: 2026-09-23T12:30:09Z
+  Updated: 2026-10-05T13:01:15Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Damn Love Crop Top](https://kipmoore.merchmadeeasy.com/products/damn-love-crop-top): Kip Moore DAMN LOVE crop top, now online! 100% Cotton
-  Updated: 2026-09-11T21:03:25Z
+  Updated: 2026-10-05T13:01:16Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -134,7 +134,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Nomad World Tour Tee](https://kipmoore.merchmadeeasy.com/products/nomad-world-tour-tee): Nomad World Tour Tee in grey with front print only. 100% Cotton
-  Updated: 2026-09-23T12:30:09Z
+  Updated: 2026-10-05T13:01:17Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Not Available
     Price: $17.50 USD
 - [Flip The Bull Crewneck](https://kipmoore.merchmadeeasy.com/products/flip-the-bull-crewneck): Flip The Bull Crewneck in black. Front and back print. 50% Cotton, 50% Polyester
-  Updated: 2026-09-09T02:46:21Z
+  Updated: 2026-10-05T13:01:18Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -176,7 +176,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [F*ck That Tee](https://kipmoore.merchmadeeasy.com/products/f-ck-that-tee): NEW F*ck That Tee in cream. Front and back print. 100% Cotton
-  Updated: 2026-09-15T21:31:26Z
+  Updated: 2026-10-05T13:01:19Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -197,14 +197,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Wild Card Hat](https://kipmoore.merchmadeeasy.com/products/wild-card-hat): Wild Card two tone hat in dark green/natural. Adjustable snapback closure / one size fits most.
-  Updated: 2026-09-03T15:35:27Z
+  Updated: 2026-10-05T13:01:19Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KIPWILDCARDHAT.png?v=1760471948
   Price: $40.00 USD
 - [Solitary Tracks World Tour Tee](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-world-tour-tee): Solitary Tracks World Tour Tee in "brown Savana" with front and back print. 100% Cotton
-  Updated: 2026-09-23T12:30:04Z
+  Updated: 2026-10-05T13:01:20Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -225,7 +225,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [American Heartbreak Tee](https://kipmoore.merchmadeeasy.com/products/american-heartbreak-tee): American Heartbreak Tee in black with front and back print. 100% Cotton
-  Updated: 2026-09-11T21:03:30Z
+  Updated: 2026-10-05T13:01:20Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -246,14 +246,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Solitary Tracks CD [SIGNED]](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-cd-signed): SIGNED Solitary Tracks CD!
-  Updated: 2026-09-20T02:57:16Z
+  Updated: 2026-10-05T13:01:21Z
   Vendor: Kip Moore
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMSIGNEDCD.png?v=1769015086
   Price: $30.00 USD
 - [Reason to Believe Tour Tee](https://kipmoore.merchmadeeasy.com/products/reason-to-believe-tour-tee): Reason to Believe Tour Tee in "faded mustard" with front and back print. 100% Cotton
-  Updated: 2026-09-14T03:32:07Z
+  Updated: 2026-10-05T13:01:22Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -274,14 +274,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Reasons To Believe Journal](https://kipmoore.merchmadeeasy.com/products/reasons-to-believe-journal-needs-sku): Brown leather bound journal with lined pages.
-  Updated: 2026-09-23T14:48:56Z
+  Updated: 2026-10-05T13:01:22Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMRTBJOURNAL.png?v=1774384751
   Price: $25.00 USD
 - [Flag World Tour Tee](https://kipmoore.merchmadeeasy.com/products/flag-world-tour-tee-1): Flag World Tour Tee in grey. 100% Cotton
-  Updated: 2026-09-23T12:30:10Z
+  Updated: 2026-10-05T13:01:23Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -302,7 +302,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Solitary Tracks Photo Tee](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-photo-tee): Solitary Tracks Photo Tee in black with front print only. 100% Cotton
-  Updated: 2026-09-06T07:30:26Z
+  Updated: 2026-10-05T13:01:24Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -323,7 +323,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Ain't No Killer Tee](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee): Ain't No Killer Tee in black with front print only. 100% Cotton
-  Updated: 2026-09-08T01:03:42Z
+  Updated: 2026-10-05T13:01:25Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -343,29 +343,8 @@
   - [XXL](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438522533)
     Availability: Available
     Price: $35.00 USD
-- [Thanks to the Bulls Tee](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee): Thanks to the Bulls Tee in natural with front and back print. 100% Cotton
-  Updated: 2026-09-17T04:42:27Z
-  Vendor: Kip Moore
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMTHANKSTEE-2.png?v=1780521891
-  - [S](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee?variant=47883447500965)
-    Availability: Not Available
-    Price: $30.00 USD
-  - [M](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee?variant=47883447533733)
-    Availability: Not Available
-    Price: $30.00 USD
-  - [L](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee?variant=47883447566501)
-    Availability: Not Available
-    Price: $30.00 USD
-  - [XL](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee?variant=47883447599269)
-    Availability: Not Available
-    Price: $30.00 USD
-  - [XXL](https://kipmoore.merchmadeeasy.com/products/thanks-to-the-bulls-tee?variant=47883447632037)
-    Availability: Available
-    Price: $30.00 USD
 - [Heartbreaker Baby Tee](https://kipmoore.merchmadeeasy.com/products/heartbreaker-baby-tee): Heartbreaker Baby Tee in black and white with front and back print. 100% Cotton
-  Updated: 2026-09-13T20:18:36Z
+  Updated: 2026-10-05T13:01:25Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -386,28 +365,28 @@
     Availability: Available
     Price: $40.00 USD
 - [Heartbreaker Hat](https://kipmoore.merchmadeeasy.com/products/heartbreaker-hat): Heartbreaker Two-Tone Hat in maroon/khaki with front and back embroidery. Adjustable snapback closure / one size fits most.
-  Updated: 2026-09-08T02:11:57Z
+  Updated: 2026-10-05T13:01:26Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMHEARTBREAKERHAT.png?v=1780521420
   Price: $40.00 USD
 - [Bull Koozie](https://kipmoore.merchmadeeasy.com/products/bull-koozie): Green Bull Double Sided Koozie
-  Updated: 2026-09-07T15:56:17Z
+  Updated: 2026-10-05T13:01:26Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMGREENBULLKOOZIE.png?v=1780521515
   Price: $5.00 USD
 - [Bull Bandana](https://kipmoore.merchmadeeasy.com/products/bull-bandana): Red Bull Bandana
-  Updated: 2026-09-06T07:30:26Z
+  Updated: 2026-10-05T13:01:27Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMBANDANA.png?v=1780521641
   Price: $25.00 USD
 - [Bull Crewneck](https://kipmoore.merchmadeeasy.com/products/bull-crewneck): Bull Crewneck in sand with front and back print. 50% Cotton, 50% Polyester
-  Updated: 2026-09-16T14:14:25Z
+  Updated: 2026-10-05T13:01:27Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -428,14 +407,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Reason To Believe - White Vinyl](https://kipmoore.merchmadeeasy.com/products/reason-to-believe-exclusive-white-vinyl): Kip Moore's newest album, Reason To Believe, on white vinyl.
-  Updated: 2026-09-15T05:55:46Z
+  Updated: 2026-10-05T13:01:28Z
   Vendor: MUSIC
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMRTBVINYL.png?v=1781116624
   Price: $30.00 USD
 - [Reason to Believe - CD](https://kipmoore.merchmadeeasy.com/products/reason-to-believe-cd): Reason to Believe CD
-  Updated: 2026-09-20T02:57:16Z
+  Updated: 2026-10-05T13:01:28Z
   Vendor: Kip Moore
   Product Type: Music
   Availability: Available
@@ -445,43 +424,43 @@
 ## Collections
 
 - [Home page](https://kipmoore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 94
 - [Apparel](https://kipmoore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 98
 - [Music](https://kipmoore.merchmadeeasy.com/collections/music)
   Updated: 2026-09-20T11:01:33Z
   Total Products: 20
 - [All Products](https://kipmoore.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 193
 - [Last Chance](https://kipmoore.merchmadeeasy.com/collections/)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 72
 - [Accessories](https://kipmoore.merchmadeeasy.com/collections/hats)
-  Updated: 2026-09-08T11:01:53Z
+  Updated: 2026-09-24T11:02:41Z
   Total Products: 43
 - [Featured Collection](https://kipmoore.merchmadeeasy.com/collections/damn-love)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-09-27T11:01:25Z
   Total Products: 27
 - [2024 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2024-tour-collection)
-  Updated: 2026-09-09T11:02:01Z
+  Updated: 2026-09-24T11:02:41Z
   Total Products: 13
 - [F*ck That Collection](https://kipmoore.merchmadeeasy.com/collections/f-ck-that-collection)
-  Updated: 2026-09-13T11:01:48Z
+  Updated: 2026-09-27T11:01:25Z
   Total Products: 2
 - [Outerwear](https://kipmoore.merchmadeeasy.com/collections/outerwear)
   Updated: 2026-09-23T11:01:37Z
   Total Products: 9
 - [2025 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2025-world-tour-collection)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-09-27T11:01:25Z
   Total Products: 14
 - [Black Friday ](https://kipmoore.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 28
 - [$20.25 Tour Tees](https://kipmoore.merchmadeeasy.com/collections/20-25-tour-tees)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-09-27T11:01:25Z
   Total Products: 6
 - [Signed Solitary Tracks Collection](https://kipmoore.merchmadeeasy.com/collections/signed-solitary-tracks-collection)
   Updated: 2026-09-20T11:01:33Z
@@ -490,13 +469,13 @@
   Updated: 2026-09-20T11:01:33Z
   Total Products: 11
 - [Best–](https://kipmoore.merchmadeeasy.com/collections/all-products-copy)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-10-01T11:02:05Z
   Total Products: 193
 - [Reason To Believe](https://kipmoore.merchmadeeasy.com/collections/reason-to-believe)
-  Updated: 2026-09-20T11:01:33Z
+  Updated: 2026-09-29T11:01:36Z
   Total Products: 13
 - [BEST SELLERS](https://kipmoore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-09-23T11:01:37Z
+  Updated: 2026-09-29T11:01:36Z
   Total Products: 13
 
 ## Store Pages
