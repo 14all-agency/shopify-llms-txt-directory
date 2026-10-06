@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-08-31T08:07:01Z
 - Contact Email: info@minadays.com
-- Updated At: 2026-09-29T00:00:43.746Z
+- Updated At: 2026-10-06T00:00:43.284Z
 
 ## Products
 
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-09-28T22:23:40Z
+  Updated: 2026-09-30T08:15:06Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-Bambusviskose-kaufen.webp?v=1787550792
   Price: 7,50 € EUR
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-mit-cbd-kamille-normal): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-09-28T22:23:41Z
+  Updated: 2026-10-04T10:03:45Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -69,7 +69,7 @@
 ## Collections
 
 - [Produkte](https://www.minadays.com/collections/all): Mit CBD-Tampons & Bambus-Binden durch deine Tage
-  Updated: 2026-09-28T11:17:34Z
+  Updated: 2026-10-04T11:15:03Z
   Total Products: 11
 - [Intimpflege](https://www.minadays.com/collections/intimpflege)
   Updated: 2026-09-08T11:16:22Z
@@ -87,7 +87,7 @@
   Updated: 2026-09-20T11:11:57Z
   Total Products: 2
 - [Tampons](https://www.minadays.com/collections/tampons)
-  Updated: 2026-09-28T11:17:34Z
+  Updated: 2026-10-04T11:15:03Z
   Total Products: 2
 - [Binden](https://www.minadays.com/collections/binden)
   Updated: 2026-09-20T11:11:57Z
@@ -96,7 +96,7 @@
   Updated: 2026-09-08T11:16:22Z
   Total Products: 1
 - [Orderly Emails - Recommended Products](https://www.minadays.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-09-28T11:17:34Z
+  Updated: 2026-10-04T11:15:03Z
   Total Products: 6
 
 ## Blogs
