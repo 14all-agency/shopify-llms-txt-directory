@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-12-27T15:49:36Z
 - Contact Email: Bigpawmastiffs@gmail.com
-- Updated At: 2026-09-30T00:00:46.892Z
+- Updated At: 2026-10-07T00:00:48.218Z
 
 ## Products
 
@@ -552,12 +552,12 @@
   - [3-XL / Gray / Hoodie](https://bigpawmastiffs.com/products/football-mom-hobbton?variant=52865053229368)
     Availability: Available
     Price: $39.00 USD
-- [Mastiff Ears Custom Sweatshirt / T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt): *** ADD NAME IN "VIEW CART" SECTION or CHOOSE MASTIFF MOM*** This Mastiff Ears Custom Sweatshirt allows you to truly make it your own by including your dog's name. Made with soft and durable materials, this unique personalized sweatshirt offers convenience and comfort. Perfect for any Mastiff-lover. Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-07-17T22:14:04Z
+- [Mastiff Ears Custom Sweatshirt / T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt): *** ADD NAME IN NOTE SECTION or CHOOSE MASTIFF MOM*** This Mastiff Ears Custom Sweatshirt allows you to truly make it your own by including your dog's name. Made with soft and durable materials, this unique personalized sweatshirt offers convenience and comfort. Perfect for any Mastiff-lover. Custom T-shirt, English Mastiff, Big Paw Mastiffs
+  Updated: 2026-10-04T11:06:15Z
   Vendor: Big Paws
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/bigpawmastiffs-2023-11-21T172339.933.jpg?v=1700606844
+  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/Mastiff_Mom_-_2025-04-05T084634.869.png?v=1743857461
   - [Medium / Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=46398421926200)
     Availability: Available
     Price: $30.00 USD
@@ -568,6 +568,12 @@
     Availability: Available
     Price: $20.00 USD
   - [Medium / Sand T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=49986189525304)
+    Availability: Available
+    Price: $20.00 USD
+  - [Medium / Pink T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940480312)
+    Availability: Available
+    Price: $20.00 USD
+  - [Medium / Seafoam T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940513080)
     Availability: Available
     Price: $20.00 USD
   - [Large / Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=46398422024504)
@@ -582,6 +588,12 @@
   - [Large / Sand T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=49986189590840)
     Availability: Available
     Price: $20.00 USD
+  - [Large / Pink T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940545848)
+    Availability: Available
+    Price: $20.00 USD
+  - [Large / Seafoam T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940578616)
+    Availability: Available
+    Price: $20.00 USD
   - [X-Large / Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=46398422122808)
     Availability: Available
     Price: $30.00 USD
@@ -592,6 +604,12 @@
     Availability: Available
     Price: $20.00 USD
   - [X-Large / Sand T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=49986189656376)
+    Availability: Available
+    Price: $20.00 USD
+  - [X-Large / Pink T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940611384)
+    Availability: Available
+    Price: $20.00 USD
+  - [X-Large / Seafoam T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940644152)
     Availability: Available
     Price: $20.00 USD
   - [2-XL / Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=46398422221112)
@@ -606,6 +624,12 @@
   - [2-XL / Sand T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=49986189721912)
     Availability: Available
     Price: $22.00 USD
+  - [2-XL / Pink T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940676920)
+    Availability: Available
+    Price: $22.00 USD
+  - [2-XL / Seafoam T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940709688)
+    Availability: Available
+    Price: $22.00 USD
   - [3-XL / Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=46398422319416)
     Availability: Available
     Price: $33.00 USD
@@ -618,8 +642,14 @@
   - [3-XL / Sand T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=49986189787448)
     Availability: Available
     Price: $23.00 USD
+  - [3-XL / Pink T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940742456)
+    Availability: Available
+    Price: $23.00 USD
+  - [3-XL / Seafoam T Shirt](https://bigpawmastiffs.com/products/mastiff-ears-custom-sweatshirt?variant=53073940775224)
+    Availability: Available
+    Price: $23.00 USD
 - [Mastiff Hello Fall  T Shirt / Sweatshirt](https://bigpawmastiffs.com/products/mastiff-hello-fall-sweatshirt): Sand will be Gildan Stay warm and cozy this fall with the Hello Fall Design. Crafted from high-quality materials, its comfortably soft design and classic fit make it an ideal choice for outdoor adventures or a day of errands. Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-09-29T10:47:26Z
+  Updated: 2026-10-06T11:10:50Z
   Vendor: Big Paws
   Product Type: T-Shirt
   Availability: Available
@@ -3856,88 +3886,7 @@
   - [3-XL / Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-mom-dalmatian-t-shirt?variant=48353228652856)
     Availability: Available
     Price: $23.50 USD
-- [Dog Mom Vibes T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt): Show off your inner Dog Mom with this colorful stylish Design! You can rock it with jeans or dress it up, all while showing your stylish, fun doggie pride! Treat yourself to the comfort and coolness of this cute and unique design. Woof! \ Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-07-15T12:41:09Z
-  Vendor: Big Paws
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/gang22x24_12x18in_11x17in_13x19in_44.jpg?v=1713536660
-  - [Medium / White T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346622776)
-    Availability: Available
-    Price: $19.00 USD
-  - [Medium / Lime T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346655544)
-    Availability: Available
-    Price: $19.00 USD
-  - [Medium / Natural T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346688312)
-    Availability: Available
-    Price: $19.00 USD
-  - [Medium / Black T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346721080)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / White T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346753848)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / Lime T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346786616)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / Natural T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346819384)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / Black T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346852152)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / White T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346884920)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / Lime T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346917688)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / Natural T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346950456)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / Black T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415346983224)
-    Availability: Available
-    Price: $19.00 USD
-  - [2-XL / White T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347015992)
-    Availability: Available
-    Price: $21.50 USD
-  - [2-XL / Lime T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347048760)
-    Availability: Available
-    Price: $21.50 USD
-  - [2-XL / Natural T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347114296)
-    Availability: Available
-    Price: $21.50 USD
-  - [2-XL / Black T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347147064)
-    Availability: Available
-    Price: $21.50 USD
-  - [3-XL / White T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347179832)
-    Availability: Available
-    Price: $23.50 USD
-  - [3-XL / Lime T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347212600)
-    Availability: Available
-    Price: $23.50 USD
-  - [3-XL / Natural T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347245368)
-    Availability: Available
-    Price: $23.50 USD
-  - [3-XL / Black T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347278136)
-    Availability: Available
-    Price: $23.50 USD
-  - [Medium / Gray T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347671352)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / Gray T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347704120)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / Gray T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347736888)
-    Availability: Available
-    Price: $19.00 USD
-  - [2-XL / Gray T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347769656)
-    Availability: Available
-    Price: $21.50 USD
-  - [3-XL / Gray T Shirt](https://bigpawmastiffs.com/products/dog-mom-vibes-t-shirt?variant=48415347802424)
-    Availability: Available
-    Price: $23.50 USD
-[List Continued](https://bigpawmastiffs.com/a/llms-agent/llms.txt?shop=94d3e1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjEyMDEzNTQzNzM2LCJsYXN0X3ZhbHVlIjoiOTIxMjAxMzU0MzczNiJ9)
+[List Continued](https://bigpawmastiffs.com/a/llms-agent/llms.txt?shop=94d3e1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTgxMTAxMjI4MzQ0LCJsYXN0X3ZhbHVlIjoiOTE4MTEwMTIyODM0NCJ9)
 
 ## Collections
 
@@ -3948,17 +3897,17 @@
   Updated: 2026-09-13T17:42:27Z
   Total Products: 2
 - [Best  Mastiff Shirts](https://bigpawmastiffs.com/collections/featured): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
-  Updated: 2026-09-21T11:07:52Z
-  Total Products: 58
+  Updated: 2026-10-03T19:11:51Z
+  Total Products: 56
 - [All Things Mastiff](https://bigpawmastiffs.com/collections/mastiff): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
   Updated: 2026-09-21T11:07:52Z
   Total Products: 117
 - [Halloween / Fall](https://bigpawmastiffs.com/collections/halloween): Everything is made to order with an approximate turn around time of 5 to 12 days. Thanks for supporting my small business.
-  Updated: 2026-09-21T11:07:52Z
-  Total Products: 40
+  Updated: 2026-10-03T18:45:15Z
+  Total Products: 42
 - [Team Spirit](https://bigpawmastiffs.com/collections/team-spirit): Want another Team or Design? Just send me a message! Everything is made to order with an approximate turn around time of 5 to 10 days. Thanks for supporting my small business.
-  Updated: 2026-09-21T11:07:52Z
-  Total Products: 62
+  Updated: 2026-10-01T15:59:06Z
+  Total Products: 60
 - [DOG LOVER](https://bigpawmastiffs.com/collections/dog-lover): Everything is made to order with an approximate turn around time of 5 to 9 days. Thanks for supporting my small business.
   Updated: 2026-09-13T17:47:18Z
   Total Products: 8
