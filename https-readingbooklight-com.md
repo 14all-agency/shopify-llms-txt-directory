@@ -6,7 +6,7 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-09-30T00:00:37.451Z
+- Updated At: 2026-10-07T00:00:38.208Z
 
 ## Products
 
@@ -158,6 +158,10 @@
     Updated: 2026-09-28T14:02:29Z
     Author: ReadingBookLight
     Tags: book light, clip-on alternative, hands-free reading light, neck reading light, reading in bed
+  - [How to Choose a Book Light for Kids Who Read at Night](https://readingbooklight.com/blogs/reading-light-guide/how-to-choose-a-book-light-for-kids-who-read-at-night): How to Choose a Book Light for Kids Who Read at Night
+    Updated: 2026-10-02T00:00:02Z
+    Author: ReadingBookLight Admin
+    Tags: bedtime reading, book light for kids, clip-on book light, kids reading, reading light for children, warm light reading
 
 ## Store Pages
 
