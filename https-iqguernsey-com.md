@@ -10,7 +10,26 @@
 - Contact Email: shop@iqguernsey.com
 - Contact Phone: +44 1481 712111
 - Address: 50 High St Guernsey GY1 2JU
-- Updated At: 2026-09-29T12:41:57.489Z
+- Updated At: 2026-10-07T00:00:28.586Z
+
+## What We 
+
+iQ Guernsey is an Apple Premium Partner  the full current Apple range on Guernsey: Mac, iPad, iPhone, Apple Watch, AirPods, TV & Home devices, and Apple accessories, alongside in-store services including repairs, iQ Assist tech support, trade-in, financing, and business and education programmes. Prices run from around £8.50 for accessories to over £1,600 for flagship iPhone models, with Mac, iPhone, iPad, and Watch lines starting at roughly £583, £583, £358, and £183 respectively. Customers are Guernsey residents, local businesses, and students and teachers who want genuine Apple products bought and supported locally rather than shipped in from the UK mainland.
+
+## Brand Values
+
+iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple products, and Apple-authorised repair and support rather than third-party equivalents. Every product carries the standard Apple one-year limited warranty on parts and labour, and every new iPad and Mac includes iQ Protect extended cover at no additional cost. The store is physically present on Guernsey, so setup help, repairs, trade-in valuations, and financing applications are handled face to face by people on the island, and online orders can be collected in store. iQ Assist tech support is available in 7-day, 1-month, and 1-year tiers covering device setup, data migration from Android or older devices, iCloud backup and restore, connectivity troubleshooting, and one-to-one training. Financing is offered over 10, 12, or 24-month terms, interest free across the Mac range.
+
+## Best For
+
+* Shoppers looking to buy the latest Apple products on Guernsey without ordering from the UK mainland or dealing with off-island shipping and returns
+* Customers who need hands-on setup help, data transfer from an old phone or computer, or one-to-one training after purchase
+* People comparing Apple resellers who prioritise Apple- service, genuine parts, and an authorised repair route over the lowest advertised price
+* Shoppers upgrading from an older iPhone or Mac who want to trade in their current device and put the credit toward a new one
+* Customers who need to spread the cost, particularly on Mac, where interest-free financing is available over up to 24 months
+* Businesses on Guernsey sourcing Apple hardware with local account support rather than through a mainland supplier
+* Students and teachers looking for education pricing and in-store training sessions
+* People who want to order online and collect the same day in store rather than wait for delivery
 
 ## Products
 
@@ -71,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317244.jpg?v=1742658997
   Price: £750.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Plum](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-myy43zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-05T14:46:13Z
+  Updated: 2026-10-05T13:40:56Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -99,7 +118,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13196118.jpg?v=1742658970
   Price: £970.00 GBP
 - [iPhone 16 Plus 128GB White](https://iqguernsey.com/products/iphone-16-mxvv3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-19T08:29:37Z
+  Updated: 2026-10-02T18:01:33Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -211,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666535.png?v=1742658368
   Price: £41.00 GBP
 - [iPhone 16 128GB Teal](https://iqguernsey.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-26T09:47:35Z
+  Updated: 2026-10-02T17:52:31Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -253,14 +272,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526573.png?v=1742658347
   Price: £41.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Denim](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-myy23zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-06-09T12:01:28Z
+  Updated: 2026-10-05T13:40:47Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666227.png?v=1745833988
   Price: £41.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Fuchsia](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-myy53zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-05T14:46:33Z
+  Updated: 2026-10-05T13:40:52Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -281,7 +300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317177_dcbce7eb-8878-4436-b780-49a221fbd120.jpg?v=1742658339
   Price: £708.00 GBP
 - [iPad mini Wi-Fi + Cellular 128GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpp3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-09-16T14:56:11Z
+  Updated: 2026-09-30T14:11:16Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -400,7 +419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666795.png?v=1742658261
   Price: £41.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Ultramarine](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-myy63zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-06-25T11:52:26Z
+  Updated: 2026-10-05T13:41:07Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -470,7 +489,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317178.jpg?v=1742658217
   Price: £500.00 GBP
 - [iPhone 16 Plus 128GB Teal](https://iqguernsey.com/products/iphone-16-mxvy3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-23T10:54:26Z
+  Updated: 2026-10-02T17:59:55Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -519,7 +538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317244_c053fec8-cbb9-467d-b749-eca2404e46a0.jpg?v=1742658176
   Price: £500.00 GBP
 - [iPhone FineWoven Wallet with MagSafe - Blackberry](https://iqguernsey.com/products/iphone-finewoven-wallet-with-magsafe-ma7a4zm-a): Designed with both style and function in mind, the new iPhone FineWoven Wallet with MagSafe is the perfect way to keep your ID and credit cards close at hand. It supports Find My, so you can be notified of your wallet’s last known location if it gets separated from your phone. Made from durable micro-twill, the material has a smooth and seamless feel. The FineWoven material in this accessory is made from 100 per cent post-consumer recycled content and significantly reduces carbon emissions compared to leather. The wallet features strong built-in magnets that allow it to effortlessly snap into place on the back of your iPhone. You can even stack it on top of a case with MagSafe to create a look that’s unique to you. The FineWoven wallet supports up to three cards and is shielded so it’s safe for credit cards.
-  Updated: 2026-04-07T11:19:22Z
+  Updated: 2026-10-06T12:21:00Z
   Vendor: Apple
   Product Type: Wallet with MagSafe
   Availability: Available
@@ -729,7 +748,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192293_ae30c214-ac7c-449e-a210-db516795d2b9.jpg?v=1745833496
   Price: £2,000.00 GBP
 - [iPhone 16 128GB Ultramarine](https://iqguernsey.com/products/iphone-16-myec3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-28T10:13:39Z
+  Updated: 2026-10-06T14:35:54Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -778,7 +797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192283_2015e1c2-a267-45a8-aff7-c7a680165a42.jpg?v=1745833924
   Price: £1,583.00 GBP
 - [iPhone 16 Plus 128GB Ultramarine](https://iqguernsey.com/products/iphone-16-mxvx3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-14T10:57:11Z
+  Updated: 2026-10-02T17:56:51Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -799,7 +818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526818.png?v=1742658745
   Price: £41.00 GBP
 - [iPhone 16 128GB Pink](https://iqguernsey.com/products/iphone-16-myea3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-21T08:33:23Z
+  Updated: 2026-10-03T11:22:32Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -841,7 +860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192253_09d1d181-e46f-4906-9790-eb7bd7aff894.jpg?v=1745833374
   Price: £1,416.00 GBP
 - [iPhone 16 128GB White](https://iqguernsey.com/products/iphone-16-mye93qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-19T10:14:23Z
+  Updated: 2026-10-03T14:05:19Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -876,7 +895,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526763.png?v=1742658710
   Price: £41.00 GBP
 - [iPhone 16 128GB Black](https://iqguernsey.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-24T13:46:59Z
+  Updated: 2026-10-05T13:34:08Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -911,14 +930,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192233_ca45a79d-0d3a-4065-b4a1-bc856fc705ef.jpg?v=1745834937
   Price: £1,583.00 GBP
 - [AirPods 4 with Active Noise Cancellation](https://iqguernsey.com/products/airpods-4-with-active-noise-cancellation-mxp93zm-a): AirPods 4 with Active Noise Cancellation — featuring a totally transformed audio experience with Adaptive Audio and Transparency mode, and an updated fit for all-day comfort.
-  Updated: 2026-09-18T18:03:08Z
+  Updated: 2026-10-01T14:07:06Z
   Vendor: Apple
   Product Type: AirPods
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14777843.jpg?v=1745835863
   Price: £108.00 GBP
 - [iPhone 16 Plus 256GB White](https://iqguernsey.com/products/iphone-16-mxwv3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-08-24T11:33:12Z
+  Updated: 2026-10-02T18:12:51Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -939,7 +958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317222_58edbbb3-1389-4ab8-a8ec-08fb48ccdb16.jpg?v=1742658686
   Price: £500.00 GBP
 - [iPhone 16 Plus 256GB Black](https://iqguernsey.com/products/iphone-16-mxwn3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-23T08:00:36Z
+  Updated: 2026-10-02T18:14:22Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1016,7 +1035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192223_15f153c3-51be-42cb-8e64-c5da74b88047.jpg?v=1745833865
   Price: £1,166.00 GBP
 - [iPhone 16 Plus 128GB Pink](https://iqguernsey.com/products/iphone-16-mxvw3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-16T08:23:46Z
+  Updated: 2026-10-02T17:55:26Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1072,7 +1091,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192243_72771c24-487e-4bee-9ad0-0a28645de92e.jpg?v=1745837200
   Price: £1,333.00 GBP
 - [iPhone FineWoven Wallet with MagSafe - Dark Green](https://iqguernsey.com/products/iphone-finewoven-wallet-with-magsafe-ma6y4zm-a): Designed with both style and function in mind, the new iPhone FineWoven Wallet with MagSafe is the perfect way to keep your ID and credit cards close at hand. It supports Find My, so you can be notified of your wallet’s last known location if it gets separated from your phone. Made from durable micro-twill, the material has a smooth and seamless feel. The FineWoven material in this accessory is made from 100 per cent post-consumer recycled content and significantly reduces carbon emissions compared to leather. The wallet features strong built-in magnets that allow it to effortlessly snap into place on the back of your iPhone. You can even stack it on top of a case with MagSafe to create a look that’s unique to you. The FineWoven wallet supports up to three cards and is shielded so it’s safe for credit cards.
-  Updated: 2026-04-17T18:03:23Z
+  Updated: 2026-10-01T14:20:43Z
   Vendor: Apple
   Product Type: Wallet with MagSafe
   Availability: Available
@@ -1107,7 +1126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526612.png?v=1742658614
   Price: £41.00 GBP
 - [iPad mini Wi-Fi 512GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myh33nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-09-14T16:02:58Z
+  Updated: 2026-10-01T10:56:52Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1135,7 +1154,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666960.png?v=1742658604
   Price: £41.00 GBP
 - [iPhone 16 Clear Case with MagSafe](https://iqguernsey.com/products/iphone-16-clear-case-with-magsafe-ma6a4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-25T15:44:47Z
+  Updated: 2026-10-05T13:41:37Z
   Vendor: Apple
   Product Type: Case with MagSafe
   Availability: Available
@@ -1198,7 +1217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/83736d9f-dd3d-57a2-bcf4-2668b975f66d_m_jpg_1_2fd6dffb-efb8-46ca-b3a8-fa32b3368ce2.jpg?v=1745837326
   Price: £583.00 GBP
 - [iPhone 16e 512GB White](https://iqguernsey.com/products/iphone-16e-md274qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
-  Updated: 2026-09-26T10:51:17Z
+  Updated: 2026-10-02T08:29:13Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1261,14 +1280,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745050.jpg?v=1745837525
   Price: £875.00 GBP
 - [15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Sky Blue](https://iqguernsey.com/products/15-inch-macbook-air-mc7c4b-a): The 15-inch MacBook Air with the M4 chip lets you fly through work and play. With Apple Intelligence, a spacious Liquid Retina display, up to 18 hours of battery life and a strikingly thin and light design, it’s built to last and can take on just about anything, anywhere.
-  Updated: 2026-03-18T19:06:40Z
+  Updated: 2026-10-02T13:05:37Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16740281.jpg?v=1745837573
   Price: £1,066.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Aquamarine](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-mdgp4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-06-09T12:01:37Z
+  Updated: 2026-10-05T13:41:27Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -1324,7 +1343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745433.jpg?v=1745837749
   Price: £1,083.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Tangerine](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-mdgn4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T19:20:56Z
+  Updated: 2026-10-05T13:41:13Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -1345,7 +1364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745387.jpg?v=1745837858
   Price: £875.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-28T09:03:31Z
+  Updated: 2026-10-03T09:42:02Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1366,7 +1385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745433_5dd6d0b2-ba38-46d4-916e-ee34075e7fff.jpg?v=1745837890
   Price: £666.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-25T14:56:28Z
+  Updated: 2026-10-03T15:41:20Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1408,14 +1427,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745423_24d5196e-4a96-44f1-97b4-3e55847e7248.jpg?v=1745838022
   Price: £856.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Peony](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-mdgm4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T19:20:36Z
+  Updated: 2026-10-05T13:41:07Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16714679_m_jpg_1.jpg?v=1745838052
   Price: £41.00 GBP
 - [iPad Wi-Fi 512GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md5c4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-17T14:17:27Z
+  Updated: 2026-10-03T08:46:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1499,7 +1518,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744992_3610593f-2f65-4a10-b7e9-edb74959ec92.jpg?v=1742658489
   Price: £608.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-26T09:15:48Z
+  Updated: 2026-10-05T13:32:58Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1534,7 +1553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745377_1110d002-f195-43e7-b3f5-26535aef09c2.jpg?v=1745838257
   Price: £792.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-25T15:36:48Z
+  Updated: 2026-10-05T12:09:19Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1583,14 +1602,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16720088_m_jpg_1.jpg?v=1742658458
   Price: £41.00 GBP
 - [iPad Wi-Fi 128GB - Yellow (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4d4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-26T09:52:44Z
+  Updated: 2026-10-06T11:53:43Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745000.jpg?v=1742658456
   Price: £358.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Periwinkle](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-mdgq4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T19:21:20Z
+  Updated: 2026-10-05T13:41:27Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -1639,7 +1658,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745050_760a392c-a52a-458b-82c5-9a247e214643.jpg?v=1745838477
   Price: £708.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-26T09:53:05Z
+  Updated: 2026-10-06T10:23:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1943,7 +1962,7 @@
   Updated: 2026-09-17T12:30:47Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqguernsey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-09-25T11:19:38Z
+  Updated: 2026-10-06T11:17:49Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqguernsey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
   Updated: 2026-06-24T14:59:22Z
@@ -2006,8 +2025,8 @@
   Updated: 2026-09-17T12:30:49Z
   Total Products: 0
 - [Offers](https://iqguernsey.com/collections/offers)
-  Updated: 2026-09-26T09:51:55Z
-  Total Products: 48
+  Updated: 2026-10-03T12:01:05Z
+  Total Products: 45
 - [Belkin Boost](https://iqguernsey.com/collections/belkin-boost)
   Updated: 2025-05-20T12:07:19Z
   Total Products: 0
@@ -2087,7 +2106,7 @@
   Updated: 2026-09-17T12:30:58Z
   Total Products: 0
 - [apl_ps_2022 Apple TV 4K (3rd generation)](https://iqguernsey.com/collections/apl_ps_2022-apple-tv-4k-3rd-generation)
-  Updated: 2026-09-22T09:26:55Z
+  Updated: 2026-09-30T11:18:23Z
   Total Products: 2
 - [apl_ps_2022 Apple Pencil (1st Generation) - Includes USB-C to Apple Pencil Adapter](https://iqguernsey.com/collections/apl_ps_2022-apple-pencil-1st-generation-includes-usb-c-to-apple-pencil-adapter)
   Updated: 2026-08-22T11:17:52Z
@@ -2147,7 +2166,7 @@
   Updated: 2025-04-23T07:16:11Z
   Total Products: 0
 - [apl_ps_2024 Apple Pencil Pro](https://iqguernsey.com/collections/apl_ps_2024-apple-pencil-pro)
-  Updated: 2026-08-22T11:17:52Z
+  Updated: 2026-10-01T11:18:26Z
   Total Products: 1
 - [apl_ps_2023 Mac Studio (M2 Ultra, 2023)](https://iqguernsey.com/collections/apl_ps_2023-mac-studio-m2-ultra-2023)
   Updated: 2026-09-17T12:30:55Z
@@ -2174,7 +2193,7 @@
   Updated: 2025-04-23T07:16:12Z
   Total Products: 0
 - [apl_ps_24-inch iMac with Retina 4.5K display M4](https://iqguernsey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display-m4)
-  Updated: 2026-09-17T12:30:50Z
+  Updated: 2026-10-04T11:19:26Z
   Total Products: 17
 - [apl_ps_67W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_67w-usb-c-power-adapter)
   Updated: 2026-08-01T11:18:27Z
