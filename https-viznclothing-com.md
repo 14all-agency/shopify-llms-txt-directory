@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-09-26T00:00:39.668Z
+- Updated At: 2026-10-07T00:00:41.610Z
 
 ## Products
 
@@ -56,7 +56,7 @@
     Availability: Available
     Price: £25.00 GBP
 - [Lost Youth Club Drop Bundle](https://viznclothing.com/products/lyc-drop-bundle): Curated collection from the Lost Youth Club drop. Premium pieces designed to work together to elevate your rotation with this complete set. Limited availability.
-  Updated: 2026-08-27T02:11:37Z
+  Updated: 2026-10-01T20:04:28Z
   Vendor: VIZN
   Product Type: Bundle
   Availability: Available
@@ -234,7 +234,19 @@
     Updated: 2026-09-25T05:41:13Z
     Author: Jake Swindells
   - [Heavyweight Boxy Hoodies and Their Role in Redefining UK Minimalistic Fashion](https://viznclothing.com/blogs/news/heavyweight-boxy-hoodies-and-their-role-in-redefining-uk-minimalistic-fashion): Heavyweight Boxy Hoodies and Their Role in Redefining UK Minimalistic Fashion
-    Updated: 2026-09-25T18:03:51Z
+    Updated: 2026-09-26T04:42:09Z
+    Author: Jake Swindells
+  - [What Every Minimalistic Streetwear Enthusiast Should Know About UK Brands and Fashion Trends](https://viznclothing.com/blogs/news/what-every-minimalistic-streetwear-enthusiast-should-know-about-uk-brands-and-fashion-trends): What Every Minimalistic Streetwear Enthusiast Should Know About UK Brands and Fashion Trends
+    Updated: 2026-09-28T02:44:10Z
+    Author: Jake Swindells
+  - [How to Master Luxury Streetwear With Boxy Fit T-Shirtsleiding the UK Fashion Style](https://viznclothing.com/blogs/news/how-to-master-luxury-streetwear-with-boxy-fit-t-shirtsleiding-the-uk-fashion-style): How to Master Luxury Streetwear With Boxy Fit T-Shirtsleiding the UK Fashion Style
+    Updated: 2026-10-01T22:48:17Z
+    Author: Jake Swindells
+  - [The Evolution of Streetwear: Why UK Brands Are Embracing Minimalistic Styles](https://viznclothing.com/blogs/news/the-evolution-of-streetwear-why-uk-brands-are-embracing-minimalistic-styles): The Evolution of Streetwear: Why UK Brands Are Embracing Minimalistic Styles
+    Updated: 2026-10-02T18:03:33Z
+    Author: Jake Swindells
+  - [Breaking Down the Allure of the Boxy Fit T-Shirt in Luxury Streetwear](https://viznclothing.com/blogs/news/breaking-down-the-allure-of-the-boxy-fit-t-shirt-in-luxury-streetwear): Breaking Down the Allure of the Boxy Fit T-Shirt in Luxury Streetwear
+    Updated: 2026-10-05T18:52:13Z
     Author: Jake Swindells
 
 ## Store Pages
