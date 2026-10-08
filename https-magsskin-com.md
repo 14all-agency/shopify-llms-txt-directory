@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-08-04T13:55:49Z
 - Contact Email: hello@magsskin.com
-- Updated At: 2026-09-30T00:00:28.763Z
+- Updated At: 2026-10-08T00:00:29.446Z
 
 ## Products
 
 - [MAGS Skin Deodorant For Sensitive Skin](https://magsskin.com/products/mags-skin-deodorant): A dermatologist- solution for sensitive underarms. No rubbing, no irritation, just clean confidence. MAGS Skin is made with magnesium, a naturally occurring mineral that helps neutralize odor-causing bacteria without disrupting your skin’s pH. Unlike traditional deodorants that rely on aluminum, baking soda, or fragrance, MAGS Skin keeps odor in check without triggering stinging, flare-ups, or discomfort. And because it’s a spray, there’s no need to rub or apply pressure to already sensitive skin making it ideal for anyone dealing with eczema, psoriasis, post-shave irritation, or dermatitis. It’s fast-drying, non-toxic, and safe enough to use every single day. In user trials with 307 participants: 96% said they stayed odor-free for 24 hours 92% experienced no irritation, stinging, or redness 89% would recommend MAGS Skin to friends
-  Updated: 2026-09-29T22:30:18Z
+  Updated: 2026-10-07T20:02:48Z
   Vendor: MAGS Skin
   Product Type: Deodorant
   Availability: Available
@@ -26,42 +26,42 @@
     Availability: Available
     Price: $63.97 USD
 - [BIA Eczema Relief Lotion](https://magsskin.com/products/bia-eczema-relief-lotion): As our largest organ, skin’s primary job is to serve as a physical barrier to the outside world. For skin to properly perform its protective function, it must be adequately hydrated. Healthy skin feels soft, smooth, and plump. When skin becomes dehydrated, both its appearance and protective function begin to deteriorate; it becomes dry, flaky, and itchy. When skin dries out (and it’s the last organ to re-hydrate), the skin barrier begins to degrade, leading to more rapid water loss. This degradation accelerates with daily exposure to environmental stressors (sun/pollution) and the degree of degradation accumulates with age. Hence, as one gets older, an increase in the frequency of applying water-containing skincare products is needed. While water-containing formulations do re-hydrate the skin, this effect is only temporary due to evaporation. To lock in this moisture, formulations must contain ingredients that attract water present externally in the air and internally within the lower layers of the skin. They must also form a moisture sealing layer on the skin’s surface to slow the evaporation process. The Bia collection is focused on hydration, moisture retention, and cleansing without stripping moisture in a way that also supports the microbiome. Our BiaComplex® 2.0 was specifically designed to soothe dry skin, help shed its outer dry layers, moisturize, and seal in water by forming a protective barrier. BIA now includes the first OTC product containing active 1% Colloidal Oatmeal for eczema.
-  Updated: 2026-09-29T21:12:25Z
+  Updated: 2026-10-07T23:05:15Z
   Vendor: Codex Labs Corp
   Product Type: Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/CL_Packshot_BIA-Lotion-US_WEB.jpg?v=1764091888
   Price: $34.00 USD
 - [Skin Barrier Eczema Relief System (: 18+)](https://magsskin.com/products/skin-barrier-eczema-relief-system--18): A system trio for improving and comforting dry, itchy skin from the inside & out by addressing the skin-gut connection of eczema. Temporarily protects and helps relieve minor skin irritation due to eczema and rashes.
-  Updated: 2026-09-29T21:12:27Z
+  Updated: 2026-10-07T23:05:05Z
   Vendor: Codex Labs Corp
   Product Type: Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/SkinBarrierEczemaReliefSystem-photo.jpg?v=1765910321
   Price: $135.00 USD
 - [Nourishing Body Sheet Mask (3x)](https://magsskin.com/products/nourishing-body-sheet-mask-3x): *Each pack includes 3x individual masks. Discover your soothing oasis for extremely dry, dehydrated, sensitive skin— The Nourishing Body Sheet Mask for Sensitive Skin delivers ultra-hydration through a powerful blend of skin-loving ingredients. Dermatologist-tested, clinically tested, and recognized by the National Psoriasis Foundation, this body mask is designed to comfort and care for even the most sensitive skin. Each application offers intense nourishment. Embrace the self-care ritual your skin deserves—comfort, nourishment, and empowerment in every mask. *MADE IN SOUTH KOREA
-  Updated: 2026-09-27T12:47:25Z
+  Updated: 2026-10-06T19:35:59Z
   Vendor: INYOUN SKIN
   Product Type: Body Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/2501_Inyoun_Packaging_Outer_SheetMask3x.jpg?v=1773273000
   Price: $47.00 USD
 - [Nourishing Body Sheet Mask (single)](https://magsskin.com/products/nourishing-body-sheet-mask-single): Discover your soothing oasis for extremely dry, dehydrated, sensitive skin. The Nourishing Body Sheet Mask for Sensitive Skin delivers ultra-hydration through a powerful blend of skin-loving ingredients. Dermatologist-tested, clinically tested, and recognized by the National Psoriasis Foundation, this body mask is designed to comfort and care for even the most sensitive skin. Each application offers intense nourishment. Embrace the self-care ritual your skin deserves: comfort, nourishment, and empowerment in every mask. *MADE IN SOUTH KOREA
-  Updated: 2026-08-07T10:05:49Z
+  Updated: 2026-10-06T19:35:59Z
   Vendor: INYOUN SKIN
   Product Type: Body Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/2501_Inyoun_Packaging_SheetMask_Front_2.jpg?v=1773273000
   Price: $17.00 USD
 - [Skin Renew](https://magsskin.com/products/skin-renew): Revive your body's natural defenses for effective, long-term support for those with skin conditions, digestive issues, allergy symptoms, food sensitivities, auto-immune concerns, and more. To get the benefits simply take one (1) capsule daily on an empty stomach, or as directed by a  professional until your symptoms clear. Our products are meant to be taken long-term in order to get the full benefits. Which is why we offer subscriptions at up to 10% off.
-  Updated: 2026-09-18T16:18:47Z
+  Updated: 2026-10-07T18:01:56Z
   Vendor: MEDISI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/Medisi_25.jpg?v=1774661659
   Price: $28.00 USD
 - [Liverty Dynamic Drops | Liver-Skin Protect Regenerate + Support](https://magsskin.com/products/liverty-dynamic-drops-liver-skin-protect-regenerate-support): Your daily drop of renewal for liver, skin, and balance!Healthy Skin From Within™ reflects the connection between gut health, emotional balance, and the way our skin looks and feels. Liverty Dynamic Drops are designed to gently support relaxation, encourage more restful sleep, and help the body find its natural balance so your skin can look calmer, clearer, and healthier from the inside out.Crafted with carefully selected ingredients and formulated to be alcohol-free, Liverty Dynamic Drops are designed to support daily skin wellness and inner balance. With consistent use, they help nourish the connection between gut health, emotional wellbeing, and radiant skin from the inside out.
-  Updated: 2026-09-29T22:41:56Z
+  Updated: 2026-10-07T22:40:56Z
   Vendor: Phoilex
   Product Type: Tinture
   Availability: Available
@@ -71,10 +71,10 @@
 ## Collections
 
 - [All Products](https://magsskin.com/collections/all)
-  Updated: 2026-09-29T11:15:35Z
+  Updated: 2026-10-07T11:15:49Z
   Total Products: 2
 - [Sensitive Skin Collection](https://magsskin.com/collections/sensitive-skin-collection)
-  Updated: 2026-09-29T11:15:35Z
+  Updated: 2026-10-07T11:15:49Z
   Total Products: 10
 
 ## Blogs
