@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-09-09T16:58:43Z
 - Contact Email: mzair415@gmail.com
-- Updated At: 2026-09-29T12:10:54.610Z
+- Updated At: 2026-10-08T00:00:20.456Z
 
 ## Products
 
-- [Black Red Streetwear Tee | Dark Luxury Graphic T-Shirt | Loup Solitaire](https://loner-lps.myshopify.com/products/ls-black-red): Striking black & red premium tee. Dark luxury streetwear for independent minds. Limited pieces available. Shop now.
-  Updated: 2026-09-29T09:21:41Z
+- [LS Black Red Tee | Streetwear Dark Luxury | Loup Solitaire](https://loner-lps.myshopify.com/products/ls-black-red): T-shirt streetwear premium noir et rouge — coupe slim, logo loup, édition limitée. Livraison internationale. Free shipping. Loup Solitaire.
+  Updated: 2026-10-07T01:59:47Z
   Vendor: Loup Solitaire 
   Product Type: 
   Availability: Available
@@ -31,13 +31,20 @@
   - [XL](https://loner-lps.myshopify.com/products/ls-black-red?variant=59360631095641)
     Availability: Available
     Price: 39,99 € EUR
-- [Black Orange Streetwear Tee | Dark Luxury Graphic T-Shirt | Loup Solitaire](https://loner-lps.myshopify.com/products/ls-black-orange): Bold black & orange premium tee for lone wolves. Limited drop streetwear with dark luxury aesthetic. Free international shipping.
-  Updated: 2026-09-29T09:20:13Z
+- [LS Black Orange Tee | Streetwear Dark Luxury | Loup Solitaire](https://loner-lps.myshopify.com/products/ls-black-orange): T-shirt streetwear premium noir et orange — coupe slim, logo loup, édition limitée. Livraison internationale. Free shipping. Loup Solitaire.
+  Updated: 2026-10-07T01:56:42Z
   Vendor: Loup Solitaire 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_1b97e594-714b-4314-adc3-642e692736f2.png?v=1790007705
   Price: 19,99 € EUR
+- [LS cap Loup Solitaire](https://loner-lps.myshopify.com/products/sans-titre-7oct-_19-57-28): SIMPLE. CLEAN. LOUP SOLITAIRE. The LS Black Cap is built for those who choose their own path. Featuring the Loup Solitaire LS logo embroidered on the front, this classic black cap combines a clean silhouette with subtle details for an everyday streetwear look. Why you'll want it: Premium black construction Embroidered LS logo Adjustable strap with metal buckle Classic curved visor One Size — adjustable Designed for everyday streetwear Be the wolf. Be Loup Solitaire. Size: One Size — Adjustable
+  Updated: 2026-10-07T18:39:37Z
+  Vendor: Loup Solitaire 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_76fe33c9-ed38-4a05-bdee-113c28dee112.png?v=1791395939
+  Price: 29,99 € EUR
 
 ## Collections
 
@@ -48,13 +55,25 @@
 ## Blogs
 
 - [Actualités](https://loner-lps.myshopify.com/blogs/actualites)
-  - [Les 10 pièces de streetwear à avoir absolument dans son dressing](https://loner-lps.myshopify.com/blogs/actualites/les-10-pieces-de-streetwear-a-avoir-absolument-dans-son-dressing): Les 10 pièces de streetwear à avoir absolument dans son dressing
-    Updated: 2026-09-28T17:53:05Z
+  - [Top 2 T-shirts streetwear incontournables — Loner LPS](https://loner-lps.myshopify.com/blogs/actualites/top-2-tshirts-streetwear-a-avoir-absolument): Top 2 T-shirts streetwear incontournables — Loner LPS
+    Updated: 2026-10-02T08:04:54Z
     Author: LOUPSOLITAIRE
   - [How to Style Dark Streetwear for a Lone Wolf Aesthetic | Loup Solitaire](https://loner-lps.myshopify.com/blogs/actualites/how-to-style-dark-streetwear-for-a-lone-wolf-aesthetic): How to Style Dark Streetwear for a Lone Wolf Aesthetic | Loup Solitaire
-    Updated: 2026-09-29T11:45:56Z
+    Updated: 2026-10-02T07:48:03Z
     Author: Mohamed Zaïr
     Tags: dark aesthetic, lone wolf, premium streetwear, streetwear, style guide
+  - [Les meilleures marques de streetwear à suivre en 2026](https://loner-lps.myshopify.com/blogs/actualites/les-meilleures-marques-de-streetwear-a-suivre-en-2026): Les meilleures marques de streetwear à suivre en 2026
+    Updated: 2026-10-02T07:46:25Z
+    Author: LOUPSOLITAIRE
+  - [L'évolution du streetwear : des années 90 à aujourd'hui](https://loner-lps.myshopify.com/blogs/actualites/levolution-du-streetwear-des-annees-90-a-aujourdhui): L'évolution du streetwear : des années 90 à aujourd'hui
+    Updated: 2026-10-02T07:58:45Z
+    Author: LOUPSOLITAIRE
+  - [FAQ : Tout ce que vous avez toujours voulu savoir sur le streetwear](https://loner-lps.myshopify.com/blogs/actualites/faq-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-le-streetwear): FAQ : Tout ce que vous avez toujours voulu savoir sur le streetwear
+    Updated: 2026-10-05T02:06:16Z
+    Author: LOUPSOLITAIRE
+  - [Comment intégrer le streetwear à votre style quotidien](https://loner-lps.myshopify.com/blogs/actualites/comment-integrer-le-streetwear-a-votre-style-quotidien): Comment intégrer le streetwear à votre style quotidien
+    Updated: 2026-10-07T01:48:13Z
+    Author: LOUPSOLITAIRE
 
 ## Store Pages
 
