@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-12T13:08:00Z
 - Contact Email: mmeziad@trefir.com
-- Updated At: 2026-09-27T00:00:33.062Z
+- Updated At: 2026-10-08T00:00:36.538Z
 
 Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying clogs, sandals, slippers, and casual shoes in bulk to retailers worldwide, with no minimum order quantity. Based in Istanbul, Türkiye, with 12+ years of manufacturing experience and 6 million+ pairs shipped to buyers in 30+ countries. Trefir is also the factory behind the Dr. Klompa® and Dr. Mez® brands.
 
@@ -414,7 +414,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-15-57-50.jpg?v=1751008990
     Price: $52.00 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-154065): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-29T06:26:39Z
+  Updated: 2026-09-28T12:37:20Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1009,7 +1009,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541040_Print--Synthetic-Pranetta_1.jpg?v=1751008956
   Price: $55.20 USD
 - [Wholesale Men's Orthopedic Sabo Clogs | Bulk Work Footwear](https://wholesale.trefir.com/products/mens-sabo-1541043): Wholesale men's orthopedic sabo clogs — ergonomic, durable & high-margin. Bulk-ready for , retail & distributors. Get a quote today.
-  Updated: 2026-08-29T06:25:43Z
+  Updated: 2026-09-30T07:26:41Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1117,7 +1117,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541053_Print--Synthetic-Pranetta_1.jpg?v=1751008944
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541054): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-29T06:26:45Z
+  Updated: 2026-09-28T12:37:20Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1358,7 +1358,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541054_Print--Synthetic-Pranetta_1.jpg?v=1751008927
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541085): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-31T09:17:11Z
+  Updated: 2026-09-28T12:37:20Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1402,7 +1402,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-12-07.jpg?v=1751008925
     Price: $48.00 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541161): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-07T06:14:05Z
+  Updated: 2026-09-28T12:37:25Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1779,7 +1779,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-18-16.jpg?v=1751008914
     Price: $52.00 USD
 - [Wholesale Men's Comfort Slippers | Bulk Footwear Supplier](https://wholesale.trefir.com/products/mens-slippers-154143): Wholesale men's comfort slippers — cushioned, durable & high-margin. Bulk-ready for supermarkets, retailers & distributors. Request a quote today.
-  Updated: 2026-09-25T08:08:50Z
+  Updated: 2026-09-28T11:21:50Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1919,7 +1919,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-24-03.jpg?v=1751008910
     Price: $52.00 USD
 - [Wholesale Women's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sandals-154148): Wholesale women's casual sandals — breathable, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-25T14:37:57Z
+  Updated: 2026-09-30T14:50:46Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1981,7 +1981,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DK1YZE.SP026.00.01608.jpg?v=1751008909
     Price: $63.20 USD
   - [Beige : Synthetic Pisa / 37-41 (12221)](https://wholesale.trefir.com/products/womens-sandals-154148?variant=55771486617924)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DK1YZE.SP004.00.01608.png?v=1761046807
     Price: $63.20 USD
   - [Blue : Synthetic Pisa / 37-41 (12221)](https://wholesale.trefir.com/products/womens-sandals-154148?variant=55771486650692)
@@ -1993,7 +1993,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sandals_154148_Navy-Blue--Synthetic-Nubuck_1.jpg?v=1778760076
     Price: $63.20 USD
 - [Wholesale Women's Comfort Slippers | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-slippers-154160): Wholesale women's comfort slippers — plush cushioned, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-02T09:44:56Z
+  Updated: 2026-09-28T09:34:15Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2191,7 +2191,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-25-03.jpg?v=1751008901
     Price: $52.00 USD
 - [Wholesale Men's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/mens-sandals-154164): Wholesale men's casual sandals — flexible, breathable & high-margin. Bulk-ready for retailers, supermarkets & distributors. Request a quote today.
-  Updated: 2026-08-29T06:25:15Z
+  Updated: 2026-09-29T07:17:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2393,7 +2393,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/5870596432908630174.jpg?v=1764842841
     Price: $58.00 USD
 - [Wholesale Men's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/mens-sandals-154181): Wholesale men's casual sandals — flexible, breathable & high-margin. Bulk-ready for retailers, supermarkets & distributors. Request a quote today.
-  Updated: 2026-09-02T14:23:47Z
+  Updated: 2026-09-29T07:17:21Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2599,7 +2599,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Sandals_154181_Navy--Synthetic-Nubuck-3_1.jpg?v=1778761008
     Price: $68.00 USD
 - [Wholesale Women's Orthopedic Sabo Clogs | Bulk Work Footwear](https://wholesale.trefir.com/products/womens-sabo-154182): Wholesale women's orthopedic sabo clogs — ergonomic, durable & high-margin. Bulk-ready for , retail & distributors. Get a quote today.
-  Updated: 2026-09-24T07:40:18Z
+  Updated: 2026-09-30T07:25:46Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2801,7 +2801,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Availability: Available
     Price: $62.00 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-154206): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-24T07:41:06Z
+  Updated: 2026-09-28T12:37:20Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -3166,6 +3166,9 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Author: Mahmoud Aljabouli
   - [Top Footwear Picks for the Gulf Region Market | Trefir Wholesale](https://wholesale.trefir.com/blogs/news/top-footwear-gulf-region-wholesale): Top Footwear Picks for the Gulf Region Market | Trefir Wholesale
     Updated: 2026-09-22T12:00:42Z
+    Author: Mahmoud Aljabouli
+  - [Why Trefir Footwear Is Trending in Nigeria | Trefir Wholesale](https://wholesale.trefir.com/blogs/news/trefir-footwear-trending-nigeria): Why Trefir Footwear Is Trending in Nigeria | Trefir Wholesale
+    Updated: 2026-09-30T16:50:17Z
     Author: Mahmoud Aljabouli
 
 ## Store Pages
