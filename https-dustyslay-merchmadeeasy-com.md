@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2023-08-09T20:13:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-28T00:00:40.604Z
+- Updated At: 2026-10-09T00:00:44.128Z
 
 ## Products
 
 - [Howl At The Moon Tee](https://dustyslay.merchmadeeasy.com/products/howl-at-the-moon-tee-1): Clearly this wolf is having a good time. The wolf is on a Dusty Slay shirt and there's a full moon, so you know it's a good time. I want you to share in all the good times. Get yourself a 100% cotton wolf shirt. It's a comfortable shirt, you're going to like wearing it. Some popular places to wear my shirt are in a Wal-Mart, to your job (after you've already put in a two weeks notice), and anywhere around Gatlinburg, TN. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 19 17 M 29 20 17 3/4 L 30 21 1/2 18 1/2 XL 31 23 1/2 19 1/4 2XL 32 24 1/2 20 3XL 32 1/2 27 1/2 20 3/4
-  Updated: 2026-09-01T08:47:51Z
+  Updated: 2026-10-08T14:55:20Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [We're Having A Good Time Tee](https://dustyslay.merchmadeeasy.com/products/were-having-a-good-time-tee-1): 100% Cotton Nothing says "We're having a good time" like saying "We're having a good time!" Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 19 17 M 29 20 17 3/4 L 30 21 1/2 18 1/2 XL 31 23 1/2 19 1/4 2XL 32 24 1/2 20 3XL 32 1/2 27 1/2 20 3/4
-  Updated: 2026-09-25T22:46:11Z
+  Updated: 2026-10-05T13:03:18Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Dusty Slay White Racing Tee](https://dustyslay.merchmadeeasy.com/products/racing-tee): This shirt is a satire NASCAR shirt. Dusty used to wear a lot of NASCAR t-shirts growing up and he always wanted one of his own. Now he has it! The shirt has Dusty's jokes listed as the sponsors and his hand is waving out the window! You gotta get this shirt! Made of 100% preshrunk cotton. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 19 17 M 29 20 17 3/4 L 30 21 1/2 18 1/2 XL 31 23 1/2 19 1/4 2XL 32 24 1/2 20 3XL 32 1/2 27 1/2 20 3/4
-  Updated: 2026-09-01T08:47:52Z
+  Updated: 2026-10-05T13:03:18Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -160,28 +160,28 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
 - [Mobile Home Trucker Hat - Black](https://dustyslay.merchmadeeasy.com/products/mobile-home-trucker-hat-black): Do you want to be the President of your Mobile Home Owners Association? Then you need the Dusty Slay, Mobile Home Black Trucker Hat. This hat can be worn to match your suit at a funeral, while chatting with friends at the dog park, or when you want to look like Johnny Cash but your hair isn't as full as it used to be. The Hat has a real patch on it. A patch uniquely designed to let you know that "We're Having a Good Time!"
-  Updated: 2026-09-22T14:55:35Z
+  Updated: 2026-10-05T22:42:47Z
   Vendor: Dusty Slay
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/products/size960_4aa73962-8ea2-4c76-9d0e-ca849598ceee.png?v=1692902572
   Price: $35.00 USD
 - [Son Of A Ditch CD](https://dustyslay.merchmadeeasy.com/products/son-of-a-ditch-cd)
-  Updated: 2026-09-10T12:45:52Z
+  Updated: 2026-10-08T14:55:26Z
   Vendor: Dusty Slay
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DS_MAKING_SON_OF_A_DITCH_CD.png?v=1741967305
   Price: $10.00 USD
 - [Makin' That Fudge CD](https://dustyslay.merchmadeeasy.com/products/makin-that-fudge-cd)
-  Updated: 2026-09-01T08:47:53Z
+  Updated: 2026-10-08T14:55:26Z
   Vendor: Dusty Slay
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DS_MAKING_THAT_FUDGE_CD-2.png?v=1741967170
   Price: $10.00 USD
 - [We're Having A Good Time Hoodie](https://dustyslay.merchmadeeasy.com/products/were-having-a-good-time-hoodie): 50/50 Poly-cotton blended black pullover hoodie Nothing says "We're having a good time" like saying "We're having a good time!" Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/2 3XL 33 30 38 1/4
-  Updated: 2026-09-27T01:01:34Z
+  Updated: 2026-10-05T13:03:20Z
   Vendor: Dusty Slay
   Product Type: Hoodie
   Availability: Available
@@ -205,7 +205,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Dusty Slay Graphic Tee](https://dustyslay.merchmadeeasy.com/products/dusty-slay-graphic-tee): You've got to get this t-shirt. You can wear a t-shirt of Dusty Slay having a good time while wearing a Jesse Daniels t-shirt on your very own t-shirt. It's Dusty Slay-ception. Made of 100% combed ring spun cotton. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 19 17 M 29 20 17 3/4 L 30 21 1/2 18 1/2 XL 31 23 1/2 19 1/4 2XL 32 24 1/2 20 3XL 32 1/2 27 1/2 20 3/4
-  Updated: 2026-09-01T08:47:54Z
+  Updated: 2026-10-05T13:03:22Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -229,7 +229,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [The Night Shift Tour Tee](https://dustyslay.merchmadeeasy.com/products/the-night-shift-tee): Take the night shift with Dusty Slay in this navy tee made of 100% pre-shrunk ringspun cotton. Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-01T08:47:54Z
+  Updated: 2026-10-05T13:03:23Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -252,29 +252,22 @@ your agent can transact everywhere.
   - [3XL](https://dustyslay.merchmadeeasy.com/products/the-night-shift-tee?variant=49574849282365)
     Availability: Available
     Price: $30.00 USD
-- [We're Having A Good Time Sticker](https://dustyslay.merchmadeeasy.com/products/were-having-a-good-time-sticker): 3.5 inches wide3.5 inches tall
-  Updated: 2026-09-27T01:01:33Z
-  Vendor: Dusty Slay
-  Product Type: Sticker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DSWe_reHavingAGoodTimeSticker.png?v=1736266436
-  Price: $5.00 USD
 - [Good Time Trucker Hat - Black](https://dustyslay.merchmadeeasy.com/products/were-having-a-good-time-hat-black): We're Having A Good Time! Fabric: Cotton/Poly Blend Closure: Plastic Snapback Fit: One Size Fits Most Panels: 5
-  Updated: 2026-09-27T16:02:23Z
+  Updated: 2026-10-05T13:03:24Z
   Vendor: Dusty Slay
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DSGoodTimeCharcoalHat-3.png?v=1737647966
   Price: $35.00 USD
 - [Good Time Trucker Hat - White](https://dustyslay.merchmadeeasy.com/products/were-having-a-good-time-hat-trucker-white): We're Having A Good Time! 5-Panel, 3 3/4" Structured Crown Heavy Cotton Twill Front Heavy Mesh Back Snap Closure
-  Updated: 2026-09-24T19:01:17Z
+  Updated: 2026-10-07T12:25:11Z
   Vendor: Dusty Slay
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DSWhiteTrucker-2.png?v=1741030060
   Price: $35.00 USD
 - [Navy Good Time Tee](https://dustyslay.merchmadeeasy.com/products/navy-good-time-tee): Dusty Slay "We're Having A Good Time" Tee in navy with front print only. Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-24T21:38:51Z
+  Updated: 2026-10-08T18:16:31Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -298,14 +291,14 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
 - [Alright Trucker Hat](https://dustyslay.merchmadeeasy.com/products/alright-trucker-hat): Tricolor embroidered stripes on both side panels. 5-Panel, 3 3/4" Structured Crown Heavy Cotton Twill Front Heavy Mesh Back Snap Closure
-  Updated: 2026-09-22T14:55:36Z
+  Updated: 2026-10-05T13:03:26Z
   Vendor: Dusty Slay
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/3016/1469/files/DSALRIGHTHAT.png?v=1767817841
   Price: $40.00 USD
 - [Wolf Tee](https://dustyslay.merchmadeeasy.com/products/wolf-tee): Dusty Slay Wolf Tee in cream with front print only. Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-24T21:38:48Z
+  Updated: 2026-10-05T13:03:27Z
   Vendor: Dusty Slay
   Product Type: T-Shirt
   Availability: Available
@@ -329,7 +322,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Good Time Poster (SIGNED)](https://dustyslay.merchmadeeasy.com/products/good-time-poster-signed): SIGNED We're Having a Good Time Poster Limited quantity available. Placement of autograph will vary. 8x10
-  Updated: 2026-09-24T02:44:26Z
+  Updated: 2026-10-08T14:55:26Z
   Vendor: Dusty Slay
   Product Type: Poster
   Availability: Available
@@ -339,49 +332,49 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://dustyslay.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-08T11:11:44Z
   Total Products: 32
 - [Apparel](https://dustyslay.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 17
 - [Accessories](https://dustyslay.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-08T11:11:44Z
   Total Products: 20
 - [](https://dustyslay.merchmadeeasy.com/collections/)
-  Updated: 2026-09-27T11:12:44Z
-  Total Products: 16
+  Updated: 2026-10-08T11:11:44Z
+  Total Products: 15
 - [All](https://dustyslay.merchmadeeasy.com/collections/all-merch)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-08T11:11:44Z
   Total Products: 37
 - [Hats](https://dustyslay.merchmadeeasy.com/collections/hats)
-  Updated: 2026-09-25T11:17:31Z
+  Updated: 2026-10-08T11:11:44Z
   Total Products: 13
 - [Outerwear](https://dustyslay.merchmadeeasy.com/collections/outerwear)
   Updated: 2026-09-27T11:12:44Z
   Total Products: 2
 - [Tees](https://dustyslay.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-09-26T11:12:26Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 15
 - [New Arrivals](https://dustyslay.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-09-25T11:17:31Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 4
 - [Classics](https://dustyslay.merchmadeeasy.com/collections/classics)
   Updated: 2026-09-27T11:12:44Z
   Total Products: 7
 - [Having A Good Time](https://dustyslay.merchmadeeasy.com/collections/having-a-good-time)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-08T11:11:44Z
   Total Products: 12
 - [Dusty's Face On A Shirt](https://dustyslay.merchmadeeasy.com/collections/face-on-a-shirt)
   Updated: 2026-08-27T11:11:25Z
   Total Products: 4
 - [The Night Shift Tour](https://dustyslay.merchmadeeasy.com/collections/the-night-shift-tour)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 6
 - [UPSELL](https://dustyslay.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 6
 - [Black Friday ](https://dustyslay.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-09-27T11:12:44Z
+  Updated: 2026-10-06T11:12:00Z
   Total Products: 20
 - [Last Chance](https://dustyslay.merchmadeeasy.com/collections/last-chance)
   Updated: 2026-09-27T11:12:44Z
