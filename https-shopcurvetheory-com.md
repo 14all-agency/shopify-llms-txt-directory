@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T22:51:07Z
 - Contact Email: assortment.shoppe@gmail.com
-- Updated At: 2026-09-22T00:00:28.552Z
+- Updated At: 2026-10-09T00:00:34.664Z
 
 ## Products
 
@@ -1344,6 +1344,27 @@
     Author: CURVE THEORY
   - [Shapewear FAQ: Everything You Need to Know](https://shopcurvetheory.com/blogs/curve-theory-blog/shapewear-faq-everything-you-need-to-know): Shapewear FAQ: Everything You Need to Know
     Updated: 2026-09-21T19:02:32Z
+    Author: CURVE THEORY
+  - [From Corsets to Modern Shapewear: A Historical Overview](https://shopcurvetheory.com/blogs/curve-theory-blog/from-corsets-to-modern-shapewear-a-historical-overview): From Corsets to Modern Shapewear: A Historical Overview
+    Updated: 2026-09-23T19:03:39Z
+    Author: CURVE THEORY
+  - [The Top 5 Common Shapewear Myths Debunked](https://shopcurvetheory.com/blogs/curve-theory-blog/the-top-5-common-shapewear-myths-debunked): The Top 5 Common Shapewear Myths Debunked
+    Updated: 2026-09-27T19:00:48Z
+    Author: CURVE THEORY
+  - [Troubleshooting Common Shapewear Problems and How to Fix Them](https://shopcurvetheory.com/blogs/curve-theory-blog/troubleshooting-common-shapewear-problems-and-how-to-fix-them): Troubleshooting Common Shapewear Problems and How to Fix Them
+    Updated: 2026-09-28T19:02:47Z
+    Author: CURVE THEORY
+  - [Essential Checklist for Buying High-Quality Shapewear](https://shopcurvetheory.com/blogs/curve-theory-blog/essential-checklist-for-buying-high-quality-shapewear): Essential Checklist for Buying High-Quality Shapewear
+    Updated: 2026-09-30T19:03:38Z
+    Author: CURVE THEORY
+  - [Innovations in Shapewear Technology You Need to Know About](https://shopcurvetheory.com/blogs/curve-theory-blog/innovations-in-shapewear-technology-you-need-to-know-about): Innovations in Shapewear Technology You Need to Know About
+    Updated: 2026-10-04T19:00:34Z
+    Author: CURVE THEORY
+  - [Body Confidence Boost: How Shapewear Can Enhance Your Wardrobe](https://shopcurvetheory.com/blogs/curve-theory-blog/body-confidence-boost-how-shapewear-can-enhance-your-wardrobe): Body Confidence Boost: How Shapewear Can Enhance Your Wardrobe
+    Updated: 2026-10-05T19:02:39Z
+    Author: CURVE THEORY
+  - [A Comparative Analysis of Popular Shapewear Brands](https://shopcurvetheory.com/blogs/curve-theory-blog/a-comparative-analysis-of-popular-shapewear-brands): A Comparative Analysis of Popular Shapewear Brands
+    Updated: 2026-10-07T19:03:18Z
     Author: CURVE THEORY
 
 ## Store Pages
