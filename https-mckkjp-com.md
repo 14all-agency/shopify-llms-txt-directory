@@ -6,26 +6,26 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-09-30T00:00:42.992Z
+- Updated At: 2026-10-09T00:00:43.131Z
 
 ## Products
 
 - [天然由来96.9% スクラブ入りハンドウォッシュ｜ヒノキ天然精油の香り](https://mckkjp.com/products/handwash_hinoki): 天然由来成分96.9%。酒蔵で生まれた米ぬかエキスと、ヒノキの天然精油で作ったスクラブ入りハンドウォッシュ。手を洗う所作が、静かに感覚をひらいていきます。
-  Updated: 2026-09-18T01:23:25Z
+  Updated: 2026-10-05T12:37:38Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-09-28T15:07:27Z
+  Updated: 2026-10-08T11:23:06Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/mckk-incense-front.jpg?v=1766459217
   Price: ￥2,970.00 JPY
 - [オリジナルショッパー](https://mckkjp.com/products/shopper): サイズ： 高さ200mm×横幅250mm×マチ90mm オリジナルショッパー（紙袋） です。 贈り物でお渡しする際にご利用ください。
-  Updated: 2026-08-28T01:25:48Z
+  Updated: 2026-10-02T14:40:57Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/a8fcc40905c16fb5f9549a87774ce229.jpg?v=1764573108
   Price: ￥10,000.00 JPY
 - [【メンバー限定】淡路島の職人が手仕事で仕上げたお香_1種類](https://mckkjp.com/products/incense_one): 【こちらはお香3種をご購入いただいたメンバーさま専用商品となります】 安息・活力・集中よりお好きな香りのみが25本入りとなります。 毎日のルーティンとして、お気に入りの『聞香』を続けられます。お気に入りの香りで自分をブランディングすることも可能です。 毎週末の朝に同じ『聞香』で始まる大切な時間。自分の好きな香りを聞くことで、忙しさから解放されたり、無理しなくて良い時間を体験したり・・・ お部屋のフレグランスとして、自分らしさを楽しんだり、お好きな香で自分というブランドを作れます。
-  Updated: 2026-09-28T10:20:27Z
+  Updated: 2026-10-02T14:40:55Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お香
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-09-29T11:13:36Z
+  Updated: 2026-10-06T11:14:24Z
   Total Products: 7
 
 ## Blogs
@@ -183,11 +183,11 @@
   - [オンとオフの境界線は「香り」で引く。リモートワークの集中とリラックス](https://mckkjp.com/blogs/magazine/remotework)
     Updated: 2026-07-17T01:34:43Z
     Author: 勇輝中町
-  - [お香、ルームフレグランス、キャンドル。それぞれ香りの種類と選び方の基礎知識](https://mckkjp.com/blogs/magazine/types-of-scents)
-    Updated: 2026-07-17T01:34:05Z
+  - [お香・ディフューザー・キャンドルの違い｜メリット・デメリットと選び方](https://mckkjp.com/blogs/magazine/types-of-scents)
+    Updated: 2026-10-02T02:04:17Z
     Author: 勇輝中町
-  - [失敗しないお香の選び方：天然素材で暮らしを彩るおすすめガイド](https://mckkjp.com/blogs/magazine/incense-guide)
-    Updated: 2026-07-28T00:12:17Z
+  - [初めてのお香の選び方｜香り・素材・形状の比較と楽しむ際の注意点](https://mckkjp.com/blogs/magazine/incense-guide)
+    Updated: 2026-10-02T02:03:55Z
     Author: 勇輝中町
   - [雨の日に「香りを聞く」。梅雨の過ごし方](https://mckkjp.com/blogs/magazine/rainy-day-scent)
     Updated: 2026-07-17T01:31:40Z
@@ -204,15 +204,46 @@
   - [今日から始める、お香のある丁寧な暮らし。心を満たす基本の使い方](https://mckkjp.com/blogs/magazine/how-to-use)
     Updated: 2026-08-11T03:07:17Z
     Author: 勇輝中町
-  - [心と空間を整える。お香の驚くべきリフレッシュ効果とおすすめの香り](https://mckkjp.com/blogs/magazine/refreshing-effect)
-    Updated: 2026-08-06T07:33:38Z
+  - [お香の効果とは？リラックス・気分転換の楽しみ方と注意点](https://mckkjp.com/blogs/magazine/refreshing-effect): お香の効果とは？リラックス・気分転換の楽しみ方と注意点
+    Updated: 2026-10-02T02:03:34Z
     Author: 勇輝中町
   - [海を渡り、淡路島から始まった日本の香り。1400年の歴史と受け継がれるお香文化](https://mckkjp.com/blogs/magazine/incense-culture)
     Updated: 2026-08-12T02:10:06Z
     Author: 勇輝中町
   - [いま伸びているコーポレートギフト市場。選ばれるブランドの共通点](https://mckkjp.com/blogs/magazine/corporate-gift)
-    Updated: 2026-09-24T02:39:24Z
+    Updated: 2026-10-06T03:41:19Z
     Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [香りを贈るという選択。相手に喜ばれるお香ギフトの選び方](https://mckkjp.com/blogs/magazine/香りを贈るという選択-相手に喜ばれるお香ギフトの選び方)
+    Updated: 2026-10-06T03:24:24Z
+    Author: 勇輝中町
+  - [香りの正体を知る。お香に使われる天然香木の基礎知識](https://mckkjp.com/blogs/magazine/香りの正体を知る-お香に使われる天然香木の基礎知識)
+    Updated: 2026-10-06T03:24:24Z
+    Author: 勇輝中町
+  - [素材で変わる、煙と時間の楽しみ方](https://mckkjp.com/blogs/magazine/素材で変わる-煙と時間の楽しみ方)
+    Updated: 2026-10-06T03:24:24Z
+    Author: 勇輝中町
+  - [玄関・リビング・水まわり。場所別、香りの置き方](https://mckkjp.com/blogs/magazine/玄関-リビング-水まわり-場所別-香りの置き方)
+    Updated: 2026-10-06T03:24:24Z
+    Author: 勇輝中町
+  - [捨てられるはずだった米ぬかから。酒蔵生まれのハンドウォッシュができるまで](https://mckkjp.com/blogs/magazine/捨てられるはずだった米ぬかから-酒蔵生まれのハンドウォッシュができるまで)
+    Updated: 2026-10-06T03:24:24Z
+    Author: 勇輝中町
+  - [デジタルギフトが主流になっても、「モノ」のギフトが選ばれる理由](https://mckkjp.com/blogs/magazine/デジタルギフトが主流になっても-モノ-のギフトが選ばれる理由)
+    Updated: 2026-10-06T03:24:23Z
+    Author: 勇輝中町
+  - [気を遣わせない、それでいて記憶に残る。取引先へのお礼ギフト選び](https://mckkjp.com/blogs/magazine/気を遣わせない-それでいて記憶に残る-取引先へのお礼ギフト選び)
+    Updated: 2026-10-06T03:40:45Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [毎年同じにならない。会社として贈るお中元・お歳暮の新定番](https://mckkjp.com/blogs/magazine/毎年同じにならない-会社として贈るお中元-お歳暮の新定番)
+    Updated: 2026-10-06T03:40:28Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [開業祝い・栄転祝いにお香を贈る意味](https://mckkjp.com/blogs/magazine/開業祝い-栄転祝いにお香を贈る意味)
+    Updated: 2026-10-06T03:41:04Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
 
 ## Store Pages
 
@@ -238,6 +269,8 @@
   Updated: 2026-08-04T00:48:28Z
 - [お買い物ガイド](https://mckkjp.com/pages/store-guide)
   Updated: 2026-09-15T00:02:29Z
+- [法人・卸取引のお申し込み](https://mckkjp.com/pages/b2b-application)
+  Updated: 2026-10-01T06:01:18Z
 - [コーポレートギフト](https://mckkjp.com/pages/corporate-gift): 
   Updated: 2026-09-28T03:15:10Z
 
