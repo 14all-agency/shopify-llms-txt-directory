@@ -6,12 +6,12 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-04-12T06:24:32Z
 - Contact Email: saleseliteautos@gmail.com
-- Updated At: 2026-09-28T00:00:25.792Z
+- Updated At: 2026-10-09T13:25:49.560Z
 
 ## Products
 
 - [Interior Atmosphere Lights RGB 4PCS 48 LED with Remote | Car Ambient Lights Pakistan](https://eliteautos.pk/products/rgb-car-interior-lights-48-led-ambient-kit): Upgrade your car interior with RGB atmosphere lights 4PCS 48 LED. Sound active, remote control, easy install via cigarette lighter, universal fit for all vehicles.
-  Updated: 2026-09-05T09:07:47Z
+  Updated: 2026-10-08T06:33:17Z
   Vendor: Elite Autos
   Product Type: Car Interior Lighting
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_30.webp?v=1778181264
   Price: Rs 1,950.00 PKR
 - [Car Scratch Removal Compound Paint Care Cream Pakistan Karachi](https://eliteautos.pk/products/car-scratch-removal-body-compound): Car Scratch Removal Body Compound designed for removing light scratches, swirl marks, and paint blemishes while restoring vehicle shine. Suitable for all paint colors. Available in Pakistan and Karachi.
-  Updated: 2026-09-05T09:07:51Z
+  Updated: 2026-10-08T07:01:09Z
   Vendor: Elite Autos
   Product Type: Car Scratch Remover
   Availability: Available
@@ -172,7 +172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorWash_WaxShampoo1Litre-GT61_7042dfb3-9f60-4fda-84f1-e4bafdd6bbf3_2_-ezremove.png?v=1778420029
   Price: Rs 930.00 PKR
 - [Gladiator Scratch Remover GT99 300ML Paint Care Pakistan Karachi](https://eliteautos.pk/products/gladiator-scratch-remover-300ml-gt99): Gladiator Scratch Remover GT99 300ML removes fine scratches, swirls, haze, and water spots while restoring paint shine safely on all vehicle paint finishes. Available in Pakistan and Karachi.
-  Updated: 2026-09-08T08:28:47Z
+  Updated: 2026-10-08T07:01:08Z
   Vendor: Elite Autos
   Product Type: Scratch Remover Liquid
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_65.webp?v=1778615989
   Price: Rs 1,290.00 PKR
 - [Gladiator 8 in 1 Car Care Detailing Kit Pakistan Karachi](https://eliteautos.pk/products/gladiator-8-in-1-car-care-detailing-kit): Gladiator 8 in 1 Car Care Detailing Kit with shampoo, wax, tire gel, polish, rust remover, microfiber cloths, and applicators for complete vehicle care. Available in Pakistan and Karachi.
-  Updated: 2026-09-05T09:07:52Z
+  Updated: 2026-10-08T07:01:08Z
   Vendor: Elite Autos
   Product Type: Car Detailing Kit
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_78.webp?v=1778617474
   Price: Rs 1,180.00 PKR
 - [Gladiator Platinum Hard Wax 200G Car Care Pakistan Karachi](https://eliteautos.pk/products/gladiator-platinum-hard-wax-200g-microfiber-cloth): Gladiator Platinum Hard Wax 200G with microfiber cloth delivers deep shine, UV protection, and paint restoration for all vehicle colors. Long lasting car paint protection available in Pakistan and Karachi.
-  Updated: 2026-09-05T09:07:52Z
+  Updated: 2026-10-08T06:33:18Z
   Vendor: Elite Autos
   Product Type: Car Wax
   Availability: Available
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaPradoSideSkirtsCover-Painted-2.webp?v=1780425061
   Price: Rs 38,000.00 PKR
 - [Toyota Fortuner Side Skirts 2016-20 | Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-fortuner-side-skirts-2016-2020): Add aggressive lower styling to your 2016-2020 Toyota Fortuner with these side skirts. Tough build, precise fit, and a finish that blends with the factory bodywork.
-  Updated: 2026-09-05T09:07:58Z
+  Updated: 2026-10-06T06:16:35Z
   Vendor: Elite Autos
   Product Type: Body Kits
   Availability: Available
@@ -1278,7 +1278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Gemini_Generated_Image_biqr45biqr45biqr.png?v=1781850996
   Price: Rs 3,999.00 PKR
 - [Car Care Value Pack - Gladiator 6Pc Kit | Elite Autos](https://eliteautos.pk/products/gladiator-car-care-value-pack): Gladiator Car Care Value Pack protects your car's exterior, interior, and tires with USA formula. Shop the complete 6-piece kit now in Pakistan.
-  Updated: 2026-09-05T09:08:21Z
+  Updated: 2026-10-08T07:01:07Z
   Vendor: Elite Autos
   Product Type: Car Care Packs
   Availability: Available
@@ -1403,6 +1403,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorCarnaubaCarWax_DashboardPolishwith2MicrofiberCloths-1.webp?v=1782110423
   Price: Rs 1,899.00 PKR
+- [Hilux Revo Interior Carbon Fiber Trim Set Elite Autos](https://eliteautos.pk/products/elite-autos-hilux-revo-interior-carbon-fiber-trim): Upgrade your Hilux Revo cabin with Elite Autos' 3D carbon fiber interior trim set. Easy self-adhesive install. Fast delivery across Pakistan. Order now!
+  Updated: 2026-10-08T06:31:37Z
+  Vendor: Elite Autos
+  Product Type: SUV & 4x4 Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRevoInteriorCarbonAccessories2016-20-1.jpg?v=1782110537
+  Price: Rs 22,999.00 PKR
 - [Toyota Hilux Revo Smart Top Canopy Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-hilux-revo-smart-top-canopy): Secure your Hilux Revo cargo with Elite Autos' Smart Top Canopy. Integrated bow system, tinted windows, built-in storage. Order now across Pakistan!
   Updated: 2026-09-05T09:08:24Z
   Vendor: Elite Autos
@@ -1537,7 +1544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRevoTrdFrontSkidPlate2016-20-1.jpg?v=1782192749
   Price: Rs 17,000.00 PKR
 - [Isuzu D-Max Snorkel Air Intake Kit Elite Autos](https://eliteautos.pk/products/elite-autos-isuzu-dmax-snorkel-air-intake-kit): Protect your D-Max engine with Elite Autos' raised air intake snorkel kit. Cleaner airflow, water crossing protection. Fast delivery across Pakistan!
-  Updated: 2026-09-05T09:08:28Z
+  Updated: 2026-10-07T06:12:55Z
   Vendor: Elite Autos
   Product Type: SUV & 4x4 Accessories
   Availability: Available
@@ -1670,7 +1677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/HyundaiTucson2020-23FloorCarpetMatBlack-3pcs-1.webp?v=1782199026
   Price: Rs 7,399.00 PKR
 - [Honda City Carpet Floor Mats 2021-23 - Elite Autos](https://eliteautos.pk/products/elite-autos-honda-city-2021-23-carpet-floor-mats-black): Honda City 2021-23 Carpet Floor Mats add comfort and protect against dirt and spills with a non-slip, anti-scratch design. Shop today in Pakistan.
-  Updated: 2026-09-05T09:08:31Z
+  Updated: 2026-10-08T07:01:07Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
@@ -1705,19 +1712,19 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/HondaCivicPVCFloorMats-Black2016-21-1.webp?v=1782201884
   Price: Rs 6,999.00 PKR
 - [Honda City PVC Rubber Floor Mats 2009-20 - Elite Autos](https://eliteautos.pk/products/elite-autos-honda-city-2009-20-pvc-rubber-floor-mats-black): Honda City 2009-20 PVC Rubber Floor Mats protect your car against dirt, mud, water, and spills with a non-slip, waterproof design. Shop today in Pakistan.
-  Updated: 2026-09-05T09:08:32Z
+  Updated: 2026-10-08T07:01:12Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/HondaCity2009-20PVCFloorMats-Black-1.webp?v=1782202313
   Price: Rs 6,999.00 PKR
 - [BYD Atto 3 Rubber Floor Mats Black - Elite Autos](https://eliteautos.pk/products/elite-autos-byd-atto-3-rubber-floor-mats-black): BYD Atto 3 Imported Rubber Floor Mats protect your EV against dirt, mud, water, and spills with a non-slip, waterproof design. Shop today in Pakistan.
-  Updated: 2026-09-05T09:08:32Z
+  Updated: 2026-10-08T06:23:25Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/BydAtto3LatexImportedRubberFloorMatsBlack-1.webp?v=1782202823
-  Price: Rs 9,499.00 PKR
+  Price: Rs 9,300.00 PKR
 - [JAC T9 Hunter Rubber Floor Mats Black - Elite Autos](https://eliteautos.pk/products/elite-autos-jac-t9-hunter-rubber-floor-mats-black): JAC T9 Hunter Imported Rubber Floor Mats protect your pickup against dirt, mud, water, and spills with a non-slip, waterproof design. Shop today in Pakistan.
   Updated: 2026-09-05T09:08:33Z
   Vendor: Elite Autos
@@ -1733,12 +1740,12 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaCorollaCross2022-2024LatexImportedRubberFloorMatsBlack-1.webp?v=1782203735
   Price: Rs 9,499.00 PKR
 - [Suzuki Wagon R TPE Floor Mats Premium - Elite Autos](https://eliteautos.pk/products/elite-autos-suzuki-wagon-r-tpe-floor-mats-premium-black): Suzuki Wagon R TPE Floor Mats Premium offer 3-layer waterproof, sound-absorbent, anti-slip protection against rain, dirt, and spills. Shop now in Pakistan.
-  Updated: 2026-09-23T08:39:22Z
+  Updated: 2026-10-02T07:17:28Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/SuzukiWagonRTPEFloorMatsPremium-1.webp?v=1782282286
-  Price: Rs 9,999.00 PKR
+  Price: Rs 8,999.00 PKR
 - [Toyota Hilux Vigo Mirror Cover Chrome LED | Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-hilux-vigo-mirror-cover-chrome-led): Upgrade your Hilux Vigo with Elite Autos' chrome side mirror covers with LED turn signal. OEM fit, style refresh included. Fast delivery across Pakistan!
   Updated: 2026-09-05T09:08:33Z
   Vendor: Elite Autos
@@ -1747,46 +1754,46 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxVigoSideMirrorCoverChromewithLED-1.jpg?v=1782282306
   Price: Rs 6,500.00 PKR
 - [Toyota Yaris Hatchback TPE Floor Mats 2020-23 - Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-yaris-hatchback-tpe-floor-mats-premium-2020-23): Toyota Yaris Hatchback TPE Floor Mats Premium offer 3-layer waterproof, sound-absorbent, anti-slip protection for 2020-23 models. Shop now in Pakistan.
-  Updated: 2026-09-23T08:38:55Z
+  Updated: 2026-10-02T07:17:28Z
   Vendor: Elite Autos
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaYarisHatchbackTPEFloorMatsPremium-1.webp?v=1782283187
-  Price: Rs 9,999.00 PKR
+  Price: Rs 8,999.00 PKR
 [List Continued](https://eliteautos.pk/a/llms-agent/llms.txt?shop=4wpqbp-md.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDI5NDk2MjAxNDM5LCJsYXN0X3ZhbHVlIjoiOTQyOTQ5NjIwMTQzOSJ9)
 
 ## Collections
 
-- [Exterior](https://eliteautos.pk/collections/exterior): Shop car exterior accessories in Pakistan: side skirts, body kits, grills, door guards, mouldings and emblems. Cash on delivery from Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 114
+- [Exterior](https://eliteautos.pk/collections/exterior): Buy car exterior accessories in Karachi — side skirts, grilles, door guards, emblems & more. Fast delivery, COD available. Shop Elite Autos today.
+  Updated: 2026-10-08T08:24:52Z
+  Total Products: 164
 - [Gadgets](https://eliteautos.pk/collections/car-gadgets-automotive-accessories-pakistan): Shop car gadgets, jump starters, air compressors, Android panels, dash cameras, charging accessories, and automotive electronics online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 61
+  Updated: 2026-10-08T08:25:34Z
+  Total Products: 62
 - [Fragrance](https://eliteautos.pk/collections/car-fragrance-air-fresheners-pakistan): Discover premium car perfumes, hanging air fresheners, dashboard fragrances, AC vent perfumes, and room sprays online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 0
-- [Car care](https://eliteautos.pk/collections/car-care): Shop car care and detailing products in Pakistan: shampoo, wax, polish, scratch removers, tyre care and complete detailing kits. COD from Elite Autos Karachi.
-  Updated: 2026-09-21T07:44:19Z
-  Total Products: 41
+  Updated: 2026-10-08T08:25:24Z
+  Total Products: 15
+- [Car care](https://eliteautos.pk/collections/car-care): Shop premium car care and detailing products in Pakistan at Elite Autos. From car shampoos, waxes, and polishes to polishers and interior cleaners. Fast delivery nationwide!
+  Updated: 2026-10-09T11:25:28Z
+  Total Products: 92
 - [Modifications](https://eliteautos.pk/collections/modifications): Shop car modification parts in Pakistan: body kits, splitters, spoilers, exhaust tips and steering upgrades. Cash on delivery from Elite Autos Karachi.
   Updated: 2026-09-06T08:26:34Z
   Total Products: 4
 - [LED & Lights](https://eliteautos.pk/collections/car-led-lights-pakistan): Shop premium car LED lights, projector headlights, fog lamps, DRLs, and automotive lighting accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 10
-- [Interior](https://eliteautos.pk/collections/car-interior-accessories-pakistan): Shop premium car interior accessories, dashboard items, floor mats, seat organizers, steering covers, and interior styling products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-25T07:43:33Z
-  Total Products: 71
+  Updated: 2026-10-08T08:25:23Z
+  Total Products: 24
+- [Interior](https://eliteautos.pk/collections/car-interior-accessories-pakistan): Buy car interior accessories in Karachi — floor mats, seat covers, organizers & more. Fast delivery, COD available. Shop Elite Autos today.
+  Updated: 2026-10-09T11:25:28Z
+  Total Products: 95
 - [SUV & 4×4](https://eliteautos.pk/collections/suv-4-4): Shop SUV and 4x4 accessories in Pakistan: bull bars, side steps, roof racks, body kits, conversions and off-road upgrades. COD nationwide from Elite Autos.
-  Updated: 2026-09-18T11:20:14Z
-  Total Products: 59
+  Updated: 2026-10-08T08:25:34Z
+  Total Products: 64
 - [Utilities](https://eliteautos.pk/collections/utilities): Shop car utility accessories in Pakistan: cooling fans, top covers, wiper blades, vacuums and horns. Cash on delivery from Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 33
+  Updated: 2026-10-08T08:24:54Z
+  Total Products: 43
 - [LED & SMD Lights](https://eliteautos.pk/collections/led-smd-car-lights-pakistan): Shop premium LED and SMD car lights including DRLs, interior lights, strip lights, parking bulbs, and automotive lighting accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 15
+  Updated: 2026-10-08T08:25:33Z
+  Total Products: 16
 - [Headlights](https://eliteautos.pk/collections/car-headlights-pakistan): Shop premium car headlights, projector lights, LED headlamps, front lighting upgrades, and automotive headlight accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:34Z
   Total Products: 1
@@ -1803,14 +1810,14 @@
   Updated: 2026-09-06T08:26:34Z
   Total Products: 0
 - [Rear Reflectors](https://eliteautos.pk/collections/rear-reflectors-for-cars-pakistan): Shop premium rear reflectors, bumper reflectors, LED reflectors, and automotive safety accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 0
-- [Atmosphere Lights](https://eliteautos.pk/collections/car-atmosphere-lights-ambient-lighting-pakistan): Shop premium car atmosphere lights, RGB ambient lighting kits, interior LED strips, footwell lights, and luxury car interior lighting online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:34Z
-  Total Products: 3
-- [DLAA Fog Lamps](https://eliteautos.pk/collections/dlaa-fog-lamps-pakistan): Buy DLAA fog lamps in Pakistan. High-performance LED fog lights, projector fog lamps, and bumper fog lights for cars & SUVs with fast delivery from Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:35Z
+  Updated: 2026-10-08T08:25:33Z
   Total Products: 1
+- [Atmosphere Lights](https://eliteautos.pk/collections/car-atmosphere-lights-ambient-lighting-pakistan): Shop premium car atmosphere lights, RGB ambient lighting kits, interior LED strips, footwell lights, and luxury car interior lighting online in Pakistan at Elite Autos Karachi.
+  Updated: 2026-10-08T08:25:33Z
+  Total Products: 4
+- [DLAA Fog Lamps](https://eliteautos.pk/collections/dlaa-fog-lamps-pakistan): Buy DLAA fog lamps in Pakistan. High-performance LED fog lights, projector fog lamps, and bumper fog lights for cars & SUVs with fast delivery from Elite Autos Karachi.
+  Updated: 2026-10-08T08:25:33Z
+  Total Products: 3
 - [Body Kits & Extensions](https://eliteautos.pk/collections/car-body-kits-modifications-pakistan): Shop premium car body kits, bumpers, side skirts, spoilers, diffusers, and exterior modification accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:35Z
   Total Products: 1
@@ -1857,8 +1864,8 @@
   Updated: 2026-09-06T08:26:35Z
   Total Products: 0
 - [SUV & 4X4 Accessories](https://eliteautos.pk/collections/suv-4x4-accessories-pakistan): Shop premium SUV & 4x4 accessories including bull bars, roof racks, off-road lights, body kits, utility boxes, and exterior upgrades online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-18T11:20:14Z
-  Total Products: 41
+  Updated: 2026-10-08T08:25:33Z
+  Total Products: 42
 - [Car Fans](https://eliteautos.pk/collections/car-fans-vehicle-cooling-fans-pakistan): Shop premium car fans, USB cooling fans, dashboard fans, rear seat cooling fans, and automotive air circulation accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:35Z
   Total Products: 1
@@ -1884,7 +1891,7 @@
   Updated: 2026-09-06T08:26:36Z
   Total Products: 0
 - [Side Skirts](https://eliteautos.pk/collections/car-side-skirts-side-lip-kits-pakistan): Shop premium car side skirts, side lip kits, rocker panel extensions, carbon fiber side skirts, and automotive exterior styling accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:36Z
+  Updated: 2026-10-03T11:29:05Z
   Total Products: 25
 - [Roof Racks & Rails](https://eliteautos.pk/collections/roof-racks-roof-rails-pakistan): Shop premium roof racks, roof rails, cargo carriers, cross bars, rooftop luggage racks, and SUV exterior utility accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:36Z
@@ -1908,8 +1915,8 @@
   Updated: 2026-09-06T08:26:36Z
   Total Products: 60
 - [Air Press / Wind Deflectors](https://eliteautos.pk/collections/air-press-wind-deflectors-pakistan): Shop premium air press, wind deflectors, rain guards, side window visors, and aerodynamic car exterior accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:36Z
-  Total Products: 46
+  Updated: 2026-10-08T08:24:55Z
+  Total Products: 50
 - [Stickers, Monograms & Emblems](https://eliteautos.pk/collections/car-stickers-monograms-emblems-pakistan): Shop premium car stickers, chrome emblems, monograms, sports decals, logo badges, and automotive exterior styling accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:36Z
   Total Products: 5
@@ -1932,7 +1939,7 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Floor Mats](https://eliteautos.pk/collections/car-floor-mats-floor-liners-pakistan): Shop premium car floor mats, waterproof floor liners, rubber floor mats, luxury carpet mats, and automotive interior protection accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-25T07:43:33Z
+  Updated: 2026-10-08T11:23:07Z
   Total Products: 93
 - [Tissue Boxes](https://eliteautos.pk/collections/car-tissue-boxes-tissue-holders-pakistan): Shop premium car tissue boxes, leather tissue holders, visor tissue organizers, dashboard tissue cases, and luxury interior accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:37Z
@@ -1962,7 +1969,7 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Microfiber Accessories](https://eliteautos.pk/collections/buy-now-microfiber-accessories-car-detailing-pakistan): Shop premium microfiber towels, detailing cloths, wash mitts, drying towels, polishing pads, and automotive car care accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-27T11:20:57Z
+  Updated: 2026-10-09T11:25:28Z
   Total Products: 2
 - [Car Care Packs](https://eliteautos.pk/collections/car-care-packs-detailing-kits-pakistan): Shop premium car care packs, detailing kits, wash and wax bundles, ceramic care kits, microfiber combos, and automotive cleaning accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-21T07:44:19Z
@@ -1992,7 +1999,7 @@
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
 - [Areon Air Fresheners](https://eliteautos.pk/collections/areon-air-fresheners-car-perfumes-pakistan): Shop premium Areon air fresheners, car perfumes, hanging fragrances, vent perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:55:26Z
+  Updated: 2026-10-04T11:22:59Z
   Total Products: 14
 - [Dashboard Perfumes](https://eliteautos.pk/collections/dashboard-perfumes-car-fragrances-pakistan): Shop premium dashboard perfumes, luxury car fragrances, aroma diffusers, gel perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
@@ -2043,7 +2050,7 @@
   Updated: 2026-09-08T08:29:19Z
   Total Products: 7
 - [Key Cover & Key Chains](https://eliteautos.pk/collections/key-covers-key-chains-pakistan): Shop premium car key covers, smart key cases, luxury key chains, TPU key protectors, and automotive key accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:39Z
+  Updated: 2026-10-04T11:22:59Z
   Total Products: 62
 - [Jump Starters & Booster Cable](https://eliteautos.pk/collections/jump-starters-booster-cables-pakistan): Shop premium jump starters, booster cables, battery booster packs, emergency power banks, and automotive emergency accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:39Z
@@ -2070,10 +2077,10 @@
   Updated: 2026-09-06T08:26:39Z
   Total Products: 0
 - [Deals](https://eliteautos.pk/collections/deals): Discover the best deals and discounts on top products. Limited-time offers updated regularly — shop now and save before they're gone.
-  Updated: 2026-09-27T11:20:57Z
+  Updated: 2026-10-09T11:25:28Z
   Total Products: 43
 - [XYZ collection](https://eliteautos.pk/collections/xyz-collection)
-  Updated: 2026-09-23T08:39:26Z
+  Updated: 2026-10-08T06:25:38Z
   Total Products: 4
 
 ## Blogs
