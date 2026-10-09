@@ -9,7 +9,7 @@
 - Created At: 2023-02-25T10:04:29Z
 - Contact Email: valentin.nittbaur@unocconi.com
 - Address: Römersteinweg 21, 70794 Filderstadt
-- Updated At: 2026-10-02T00:00:22.078Z
+- Updated At: 2026-10-09T00:00:23.397Z
 
 ## Products
 
