@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2024-10-22T09:47:11Z
 - Contact Email: barnabilar@barnabilar.is
-- Updated At: 2026-09-19T00:00:26.060Z
+- Updated At: 2026-10-09T00:00:28.798Z
 
 Barnabilar.is is an Iceland-based e-commerce store specializing in electric ride-on cars, buggies, and vehicles for children. The store offers high-powered battery-operated cars designed for outdoor and indoor use, combining safety, durability, and fun.
 
@@ -17,7 +17,7 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
 ## Products
 
 - [Auka fjarstýring](https://barnabilar.is/products/fjarstyring): Auka Buggy fjarstýring.
-  Updated: 2026-09-18T14:36:03Z
+  Updated: 2026-10-05T16:13:47Z
   Vendor: My Store
   Product Type: Fjarstýring
   Availability: Available
@@ -59,7 +59,7 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/0ECF87D8-0E41-453E-AC8B-815A22443E0A_2000x_jpg.webp?v=1732621070
   Price: kr 21,900.00 ISK
 - [Auka hleðslutæki](https://barnabilar.is/products/auka-hledslutaeki): Auka hleðslutæki- CHALLENGER EÐA BUGGY.
-  Updated: 2026-09-05T07:24:10Z
+  Updated: 2026-10-05T16:04:58Z
   Vendor: My Store
   Product Type: Hleðsla
   Availability: Available
@@ -87,14 +87,14 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/zforce-rzr-turbo-24v-ride-on-buggy-4x795w-motors-2-seater-utv-15-kmh-220-lbs-capacity-leather-seats-eva-tires-mp4-remote-control-642862.webp?v=1765197789
   Price: kr 149,900.00 ISK
 - [Rafmagnshjól jafnvægishjól 250W Brushless Motor 24V götu/torfæru !](https://barnabilar.is/products/rafmagnshjol-jafnvaegishjol-250w-brushless-motor-24v-gotu-torfaeru): ✅ Öflugur mótor og rafhlaða: Útbúið með 24V + 250W burstalausum mótor og fjarlægjanlegri Li-on rafhlöðu fyrir hnökralausa frammistöðu. ✅ Stillanlegir hraðahamir: Býður upp á þrjú hraðastig – Lágt: 11 km/klst, Mið: 19 km/klst, Hátt: 23 km/klst. ✅ Traust hönnun: Smíðað úr álblendigrind og loftdekkjum með slöngu fyrir stöðugan og mjúkan akstur. ✅ Þægindaeiginleikar: Inniheldur leðursæti, fóthvílu og þægilegt handfang fyrir notalega upplifun. ✅ Öryggiskerfi: Búið diskabremsu með straumrofi og handbremsu fyrir hámarksöryggi. ✅ Þyngdaeiginleikar: Ber allt að 60 kg þyngd, og nettóþyngd 13,2 kg. ✅ Þéttar mál: Vöru sem auðveldar geymslu og flutning.
-  Updated: 2026-09-18T13:20:14Z
+  Updated: 2026-09-30T15:09:52Z
   Vendor: Barnabílar
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/28B33BB1-741B-46FB-895C-7D62A61C9E6F.png?v=1765232746
-  Price: kr 99,920.00 ISK
+  Price: kr 124,900.00 ISK
 - [Gírstöng fyrir Buggy](https://barnabilar.is/products/girstong-fyrir-buggy)
-  Updated: 2026-08-21T01:52:46Z
+  Updated: 2026-10-05T15:41:35Z
   Vendor: Barnabílar
   Product Type: 
   Availability: Available
@@ -104,22 +104,22 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
 ## Collections
 
 - [Home page](https://barnabilar.is/collections/frontpage)
-  Updated: 2026-09-18T11:19:25Z
+  Updated: 2026-09-30T15:09:53Z
   Total Products: 6
 - [Challenger XL](https://barnabilar.is/collections/challenger-xl)
   Updated: 2026-07-08T09:31:07Z
   Total Products: 2
 - [Aukahlutir](https://barnabilar.is/collections/aukahlutir)
-  Updated: 2026-09-11T11:18:46Z
+  Updated: 2026-10-06T11:25:57Z
   Total Products: 12
 - [Ofur Barnabíll 2025 árgerðin !](https://barnabilar.is/collections/zh666-barnabill-2025-argerdin): Þessi öflugi barnabíll var að lenda , öflugri mótorar og meiri burðargeta sjón er sögu ríkari
   Updated: 2026-06-20T11:18:34Z
   Total Products: 4
 - [Buggy-bílarnir](https://barnabilar.is/collections/forsala-hafin-nyju-buggy-bilarnir-lenda-3-januar): Nýju Buggy-bílarnir
-  Updated: 2026-09-18T11:19:25Z
+  Updated: 2026-09-30T15:09:53Z
   Total Products: 4
 - [Products](https://barnabilar.is/collections/products)
-  Updated: 2026-09-18T11:19:25Z
+  Updated: 2026-10-06T11:25:57Z
   Total Products: 21
 
 ## Store Pages
@@ -128,8 +128,8 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
   Updated: 2024-10-22T09:47:13Z
 - [Um okkur](https://barnabilar.is/pages/um-okkur): Við erum með sýningareintak sem er hægt að fá að prófa í Miðhrauni 22, Garðabær, sama húsnæði og verslunin Home4u. Opnunartími verslunar Mánudag -F...
   Updated: 2025-12-09T19:43:56Z
-- [Opnunartími](https://barnabilar.is/pages/opnunartimi): Opnunartími okkar Miðhrauni 22, Garðabæ Verslunin Home4u Opið Mánudag - Föstudaga 10-17 Athugið að verslunin verður lokuð á laugardögum í sumar
-  Updated: 2026-06-12T08:18:25Z
+- [Opnunartími](https://barnabilar.is/pages/opnunartimi): Opnunartími okkar Miðhrauni 22, Garðabæ Verslunin Home4u Opið Mánudag - Föstudaga 12-16 Lokað um helgar.
+  Updated: 2026-09-29T08:59:51Z
 - [Privacy Policy](https://barnabilar.is/pages/privacy-policy): Last updated: April 28, 2026 Barnabílar operates this store and website, including all related information, content, features, tools, products and ...
   Updated: 2026-04-28T07:37:47Z
 
