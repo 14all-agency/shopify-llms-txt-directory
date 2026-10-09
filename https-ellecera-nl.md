@@ -8,14 +8,14 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-02-27T13:58:36Z
 - Contact Email: hello@ellecera.nl
-- Updated At: 2026-08-15T00:00:25.737Z
+- Updated At: 2026-10-09T00:00:28.813Z
 
 ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geïnspireerd door Korean beauty. Ontwikkeld voor de Nederlandse en Belgische huid. Alle producten zijn dierproefvrij en dermatologisch getest. ElleCera staat voor verzorging die de huid ondersteunt in plaats van corrigeert. Assortiment: serums, foundation, oogpatches, microneedling sets, cupping apparaten, body oil en haarproducten. Gratis verzending NL/BE. 30 dagen tevredenheidsgarantie. Betaling via iDEAL, Klarna, Bancontact, Apple Pay en creditcard.
 
 ## Products
 
 - [Foundation Stick Kopen – Kleur Aanpassend Zonder Maskereffect-ElleCera](https://ellecera.nl/products/2-1-magic-foundation-stick): Foundation stick die zich aanpast aan jouw huidtoon. Lichte coverage, geen maskereffect, ingebouwde kwast. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-07-06T09:53:21Z
+  Updated: 2026-09-10T19:42:47Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -30,7 +30,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 34,95 EUR
 - [Korean Peptide Serum Kopen – Lifting voor Strakker Gezicht | ElleCera](https://ellecera.nl/products/korean-silk-lifting-peptide-ampoule): Geconcentreerd Korean lifting serum met peptiden en collageen. Strakker gezicht, minder rimpels. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-08-14T15:11:07Z
+  Updated: 2026-10-08T19:43:27Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -91,14 +91,14 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
   Price: € 69,95 EUR
 - [Gold Silk Body Oil Kopen – Droge Hydraterende Body Oil | ElleCera](https://ellecera.nl/products/gold-silk-body-oil): Lichte body oil die snel absorbeert en huid zijdezacht maakt. Geen plakkerig gevoel. 
 ✓ 1+1 gratis ✓ Stralende huid ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-08-11T09:58:35Z
+  Updated: 2026-09-10T19:42:47Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/goldsilk-hoofdfoto.png?v=1782996463
   Price: € 39,95 EUR
 - [ReviveBrush – Elektrische Hoofdhuidmassage met Haarolie Dispenser](https://ellecera.nl/products/3-in-1-electric-hair-scalp-care-tool): 3-in-1 elektrische massageborstel met ingebouwde haarolie-dispenser. Gezondere hoofdhuid, minder haaruitval. ✓Salon thuis ✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-07-06T08:29:11Z
+  Updated: 2026-09-23T08:41:24Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -112,28 +112,28 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-gebruik-styling-resultaat.webp?v=1773142782
     Price: € 59,95 EUR
 - [Microneedling Set Thuis Kopen – Gladdere Huid Zonder Kliniek | ElleCera](https://ellecera.nl/products/microneedling-set-thuis): Professionele microneedling thuis. Minder fijne lijntjes, gladdere huidtextuur & meer glow in 5 min. Geen kliniek nodig. ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-07-17T19:14:51Z
+  Updated: 2026-10-08T20:11:13Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/microneedling-set-thuis-kopen-ellecera.svg?v=1773137290
   Price: € 49,95 EUR
 - [DetoxPatch™ Neus Patches | Verwijdert Mee-eters & Reinigt Poriën](https://ellecera.nl/products/detoxpatch-neus-patches-mee-eters): Stop met uitknijpen. DetoxPatch™ reinigt poriën ’s nachts en vermindert mee-eters zichtbaar. 1+1 GRATIS + 30 dagen garantie + Gratis Verzending
-  Updated: 2026-07-06T08:29:11Z
+  Updated: 2026-10-07T09:58:15Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/THE_SCIENCE_BEHIND_IT.png?v=1775059502
   Price: € 29,95 EUR
 - [Oogpatches Tegen Wallen Kopen – Collageen HydroGel Patches | ElleCera](https://ellecera.nl/products/hydrogel-collagen-eye-patches-wallen): Minder wallen en donkere kringen in 10 minuten. Collageen hydrogel oogpatches voor dagelijks gebruik. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-08-14T23:16:27Z
+  Updated: 2026-10-08T14:07:08Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/1_1_Gratis_6ca27280-2fe0-4b74-9bac-ae3622af3ed1.png?v=1776163781
   Price: € 29,95 EUR
 - [MicroLift Pro™ - De 3-in-1 microstroom facelift voor een zichtbaar strakkere huid.](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat): Train je gezichtsspieren, stimuleer collageenproductie en geef je kaaklijn zichtbaar terug. Red Light Therapy + microstroom. Thuis in 10 minuten.
-  Updated: 2026-08-14T10:00:55Z
+  Updated: 2026-10-08T20:10:52Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -147,7 +147,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/3.png?v=1774445525
     Price: € 69,95 EUR
 - [GlowLift™ Collageen Nachtmasker | Wakker Worden met Stralende Huid](https://ellecera.nl/products/glowlift-overnight-collageen-masker): Koreaans collageen nachtmasker met peptiden en hyaluronzuur. Vermindert rimpels, wallen en fijne lijntjes terwijl je slaapt. Gratis verzending. 1+1 Gratis.
-  Updated: 2026-08-11T09:58:36Z
+  Updated: 2026-10-06T20:17:56Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -159,14 +159,14 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 29,95 EUR
 - [Collagen Night Mask voor gladdere huid | 1+1 Gratis + Gratis verzending](https://ellecera.nl/products/collagen-night-mask): Collagen night mask dat helpt fijne lijntjes minder zichtbaar te maken en je huid gladder laat ogen. 1+1 gratis, gratis verzending en 30 dagen garantie.
-  Updated: 2026-07-06T08:29:12Z
+  Updated: 2026-10-07T09:59:16Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/18_5d8d3795-f0db-4627-8212-568b9f7c697c.png?v=1776780853
   Price: € 34,95 EUR
 - [DermaSculpt™ - EMS MicroStroom, Vacuüm massage en Red Light Therapie](https://ellecera.nl/products/anti-cellulite-apparaat-thuis-dermasculpt): Pak cellulite en losse huid aan met DermaSculpt™. EMS + Cupping + Red Light Therapie. ✓Gratis verzending ✓50% korting ✓30 dagen garantie.
-  Updated: 2026-08-06T04:25:15Z
+  Updated: 2026-09-29T09:36:49Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -190,29 +190,29 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
 ## Collections
 
 - [Alle Producten](https://ellecera.nl/collections/frontpage): Bekijk het volledige ElleCera assortiment. Skincare, make-up en beauty tools geïnspireerd door Korean beauty. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 14
 - [Best Sellers](https://ellecera.nl/collections/best-sellers): Shop onze best verkochte huidverzorging en make-up. Ontdek waarom vrouwen kiezen voor producten die de huid ondersteunen en comfortabel laten aanvoelen.
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 14
 - [Make-Up](https://ellecera.nl/collections/make-up): Natuurlijke make-up die je huid ondersteunt en niet maskeert. Korean beauty geïnspireerde formules voor een stralende look.✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 4
 - [SkinCare](https://ellecera.nl/collections/skincare): Korean beauty skincare voor droge, gevoelige en uit balans geraakte huid. Serums, oogpatches en meer. ✓ Dierproefvrij ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 12
 - [Beauty Tools](https://ellecera.nl/collections/accessoires): Elektrische beauty tools voor thuis. Microneedling, cupping massage, hoofdhuidmassage en meer. ✓ Professioneel resultaat ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 9
 - [Bundels & Sets](https://ellecera.nl/collections/bundels): Combineer je favoriete ElleCera producten voordelig. Skincare en beauty tool bundels met 1+1 gratis aanbieding. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-08-14T12:02:20Z
+  Updated: 2026-10-08T11:43:44Z
   Total Products: 9
 
 ## Blogs
 
 - [Beauty Tips & Skincare Advies](https://ellecera.nl/blogs/beautyblog-4): Ontdek expert skincare tips, Korean beauty trends en productadvies voor de Nederlandse huid. ✓ Gratis verzending ✓ 30 dagen garantie.
   - [Microneedling Thuis: Werkt Het Echt en Is Het Veilig? | ElleCera](https://ellecera.nl/blogs/beautyblog-4/microneedling-thuis-werkt-het-echt-en-is-het-veilig): Microneedling Thuis: Werkt Het Echt en Is Het Veilig? | ElleCera
-    Updated: 2026-03-11T13:42:33Z
+    Updated: 2026-10-07T09:24:27Z
     Author: Team ElleCera Admin
     Tags: beauty tips, fijne lijntjes, huidtextuur, huidverzorging, hyaluronzuur, korean beauty, microneedling, microneedling thuis, serum, skincare
   - [Wallen Onder Je Ogen: Wat Écht Helpt en Wat Niet | ElleCera](https://ellecera.nl/blogs/beautyblog-4/wallen-onder-je-ogen-wat-echt-helpt-en-wat-niet): Wallen Onder Je Ogen: Wat Écht Helpt en Wat Niet | ElleCera
@@ -290,7 +290,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
 - [Over ElleCera – Korean Beauty Huidverzorging die Ondersteunt](https://ellecera.nl/pages/over-ellecera): Care that respects your skin. ElleCera is ontstaan vanuit één simpel gevoel: dat huidverzorging geen strijd hoort te zijn. Veel vrouwen herkennen h...
   Updated: 2026-03-10T13:39:47Z
 - [Veelgestelde Vragen – Bestelling, Retour & Producten | ElleCera](https://ellecera.nl/pages/veelgestelde-vragen-ellecera): We begrijpen dat je niet zomaar iets op je huid aanbrengt. Daarom beantwoorden we hier de vragen die we het meest krijgen. Over gebruik, gevoelige ...
-  Updated: 2026-05-17T06:32:28Z
+  Updated: 2026-08-28T19:28:37Z
 - [Privacybeleid ElleCera – Hoe Wij Omgaan met Jouw Gegevens](https://ellecera.nl/pages/privacybeleid): Dit privacybeleid beschrijft hoe ElleCera persoonsgegevens verzamelt, gebruikt en beschermt wanneer je onze website bezoekt of een bestelling plaat...
   Updated: 2026-03-10T13:38:47Z
 - [Verzending & Levering – Levertijd en Gratis Verzending | ElleCera](https://ellecera.nl/pages/verzending-levering): Bij ElleCera kiezen we bewust voor een zorgvuldige en efficiënte manier van leveren. We werken met geselecteerde productie- en verzendpartners om k...
