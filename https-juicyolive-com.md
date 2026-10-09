@@ -6,14 +6,14 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-09-29T13:18:53.754Z
+- Updated At: 2026-10-09T06:35:32.958Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
 ## Products
 
 - [Organic Early Harvest EVOO - Relish & Smooth | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth):  organic early-harvest extra virgin olive oil from Troy. Lab- 440 mg/kg polyphenols, cold-pressed with gentle, silky, rounded notes.
-  Updated: 2026-09-25T02:05:47Z
+  Updated: 2026-10-07T20:49:23Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -21,77 +21,77 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [500 mL / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450083414)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS_Bottle-Box-OL.webp?v=1784873919
-    Price: $1,245.00 USD
+    Price: $59.00 USD
   - [500 mL / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132680986710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $2,365.50 USD
+    Price: $85.50 USD
   - [500 mL / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681019478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $3,651.50 USD
+    Price: $121.50 USD
   - [500 mL / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684244566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $106.20 USD
   - [500 mL / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684277334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $117.30 USD
   - [500 mL / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684310102)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $150.45 USD
   - [1 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450116182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-OL.webp?v=1784873919
-    Price: $2,065.00 USD
+    Price: $73.00 USD
   - [1 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681052246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $3,923.50 USD
+    Price: $114.00 USD
   - [1 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681085014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $5,575.50 USD
+    Price: $162.00 USD
   - [1 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684342870)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $131.40 USD
   - [1 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684375638)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $144.50 USD
   - [1 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684408406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $186.15 USD
   - [2 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450148950)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-OL.webp?v=1784873919
-    Price: $3,750.00 USD
+    Price: $117.00 USD
   - [2 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681117782)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $7,125.00 USD
+    Price: $212.80 USD
   - [2 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681150550)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $10,125.00 USD
+    Price: $302.40 USD
   - [2 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684441174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $210.60 USD
   - [2 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684473942)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $241.40 USD
   - [2 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45773684506710)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,245.00 USD
+    Price: $298.35 USD
 - [Organic Early Harvest EVOO - Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
-  Updated: 2026-09-25T02:05:15Z
+  Updated: 2026-10-07T20:48:18Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -99,77 +99,77 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [500 mL / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885498454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_Bottle-Box-OL.webp?v=1784873919
-    Price: $1,440.00 USD
+    Price: $45.00 USD
   - [500 mL / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885531222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $2,736.00 USD
+    Price: $85.50 USD
   - [500 mL / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885563990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $3,888.00 USD
+    Price: $121.50 USD
   - [500 mL / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676347478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $111.60 USD
   - [500 mL / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676380246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $125.80 USD
   - [500 mL / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676413014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $158.10 USD
   - [1 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885596758)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-1L-TIN-PERS-OL.webp?v=1784873919
-    Price: $2,440.00 USD
+    Price: $63.00 USD
   - [1 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885629526)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $4,636.00 USD
+    Price: $119.70 USD
   - [1 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885662294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $6,588.00 USD
+    Price: $178.20 USD
   - [1 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676445782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $142.20 USD
   - [1 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676478550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $158.10 USD
   - [1 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676511318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $201.45 USD
   - [2 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885695062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-2L-TIN-PERS-OL.webp?v=1784873919
-    Price: $4,465.00 USD
+    Price: $125.00 USD
   - [2 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885727830)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $8,483.50 USD
+    Price: $237.50 USD
   - [2 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45315885760598)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $12,055.50 USD
+    Price: $337.50 USD
   - [2 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676544086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $234.00 USD
   - [2 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676576854)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $263.50 USD
   - [2 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous?variant=45773676609622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $1,440.00 USD
+    Price: $331.50 USD
 - [Organic High Polyphenol EVOO (840 mg/kg) | Fruity & Full-Bodied](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early-harvest extra virgin olive oil from Troy. Lab- 840 mg/kg polyphenols and ≤0.2% acidity. Bold, peppery flavor for olive oil shots.
-  Updated: 2026-09-25T02:04:55Z
+  Updated: 2026-10-07T20:45:50Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -177,75 +177,75 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [500 mL / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959365206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF_Bottle-Box-OL.webp?v=1784873919
-    Price: $52.00 USD
+    Price: $55.00 USD
   - [500 mL / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959397974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $104.50 USD
   - [500 mL / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959430742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $148.50 USD
   - [500 mL / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672349782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $126.00 USD
   - [500 mL / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672382550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-BOTTLE-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $139.40 USD
   - [500 mL / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672415318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-BOTTLE-TRIPLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $178.50 USD
   - [1 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959463510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-1L-TIN-PERS-OL.webp?v=1784873919
-    Price: $98.00 USD
+    Price: $75.00 USD
   - [1 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959496278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $98.00 USD
+    Price: $142.50 USD
   - [1 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959529046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $98.00 USD
+    Price: $202.50 USD
   - [1 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672448086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $163.80 USD
   - [1 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672480854)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-1L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $178.50 USD
   - [1 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672513622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-TIN_1_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $232.05 USD
   - [2 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959561814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-2L-TIN-PERS-OL.webp?v=1784873919
-    Price: $150.00 USD
+    Price: $141.00 USD
   - [2 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959594582)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $150.00 USD
+    Price: $267.90 USD
   - [2 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45344959627350)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $150.00 USD
+    Price: $380.70 USD
   - [2 L / Duo (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672546390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $270.00 USD
   - [2 L / Duo (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672579158)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-2L-TIN-PERS-DOUBLE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $304.30 USD
   - [2 L / Trio (15%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied?variant=45773672611926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
-    Price: $52.00 USD
+    Price: $382.50 USD
 
 ## Collections
 
@@ -256,7 +256,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-09-04T09:30:58Z
   Total Products: 74
 - [Main Products](https://juicyolive.com/collections/main-products): Shop single-estate organic extra virgin olive oils from Turkey. Lab-tested up to 840 mg/kg polyphenols across 3 profiles: Fruity, Mild, and Smooth. Free shipping.
-  Updated: 2026-09-22T11:09:49Z
+  Updated: 2026-10-03T11:11:44Z
   Total Products: 18
 
 ## Blogs
@@ -275,8 +275,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Author: Reza Malekan
     Tags: RECIPES
   - [How to Choose & Buy Top-Quality EVOO: 5 Expert Tips](https://juicyolive.com/blogs/article/5-pro-tips-on-how-to-buy-and-choose-the-top-quality-extra-virgin-olive-oil): How to Choose & Buy Top-Quality EVOO: 5 Expert Tips
-    Updated: 2026-09-14T09:36:53Z
-    Author: Reza Malekan
+    Updated: 2026-10-06T15:09:02Z
+    Author: Houman Hosseini
     Tags: EDUCATION, LIFESTYLE
   - [Gift of Health and Taste: Why Extra Virgin Olive Oil Makes an Exceptional Choice for Special Days](https://juicyolive.com/blogs/article/gift-of-health-and-taste-why-extra-virgin-olive-oil-makes-an-exceptional-choice-for-special-days)
     Updated: 2026-08-31T08:26:39Z
@@ -306,19 +306,22 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Author: Merve Hossaini
     Tags: EDUCATION, Olive Oil Benefits
   - [Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive](https://juicyolive.com/blogs/article/polyphenol-olive-oil-guide): Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive
-    Updated: 2026-09-24T10:44:23Z
+    Updated: 2026-10-07T15:24:55Z
     Author: Hessam Mousavi
   - [Why the Troy Region Is Distinctive for Olive Oil: Mount Ida & Northern Aegean Terroir](https://juicyolive.com/blogs/article/troy-region-olive-oil)
-    Updated: 2026-09-28T06:01:07Z
+    Updated: 2026-10-07T06:50:55Z
     Author: Hessam Mousavi
   - [5 Features of Premium Extra Virgin Olive Oil](https://juicyolive.com/blogs/article/5-features-of-premium-extra-virgin-olive-oil): <p><meta charset="utf-8">Premium extra virgin olive oil is shaped by more than one number or label. Discover the five factors we look for at Juicy Olive—from healthy fruit and harvest timing to careful pressing, sensory character, lab results and protected storage.</p>
-    Updated: 2026-09-24T11:13:02Z
+    Updated: 2026-10-07T08:47:46Z
     Author: Hessam Mousavi
-  - [Olive Oil Shot: Benefits, Science & How to Do It Right](https://juicyolive.com/blogs/article/olive-oil-shot-benefits-guide)
-    Updated: 2026-09-28T06:21:50Z
+  - [Olive Oil Shot Benefits: How to Take EVOO & What Science Says | Juicy Olive](https://juicyolive.com/blogs/article/olive-oil-shot-benefits-guide): Olive Oil Shot Benefits: How to Take EVOO & What Science Says | Juicy Olive
+    Updated: 2026-10-02T13:53:42Z
     Author: Hessam Mousavi
-  - [Low Acidity Olive Oil: Free Fatty Acids, Quality Standards & What They Mean](https://juicyolive.com/blogs/article/low-acidity-olive-oil-guide)
-    Updated: 2026-09-29T10:59:27Z
+  - [Low Acidity Olive Oil: Free Fatty Acids, Quality Standards & What They Mean](https://juicyolive.com/blogs/article/low-acidity-olive-oil-guide): <p><meta charset="utf-8">Learn what low acidity means in extra virgin olive oil, how free fatty acids are measured, and why lower values can reflect healthy fruit, careful handling and rapid pressing. This guide also explains key quality markers such as peroxide value and polyphenols, with real Juicy Olive harvest data for context.</p>
+    Updated: 2026-10-02T13:47:52Z
+    Author: Hessam Mousavi
+  - [How to Choose Premium High-Polyphenol EVOO: What Separates Quality Tiers](https://juicyolive.com/blogs/article/how-to-choose-high-polyphenol-olive-oil-guide): <p>Learn how to choose true therapeutic-grade high-polyphenol extra virgin olive oil. Discover the 5 lab- quality criteria—including polyphenol counts, low free acidity ≤ 0.20% , early green harvest timing, and organic certification—that separate premium wellness oils from standard commercial blends.</p>
+    Updated: 2026-10-07T10:32:27Z
     Author: Hessam Mousavi
 
 ## Store Pages
@@ -359,6 +362,10 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-09-03T08:59:09Z
 - [Türkiye Mağazamız Yenileniyor | Juicy Olive](https://juicyolive.com/pages/turkiye-magazamiz-yenileniyor): Türkiye mağazamız yenileniyor.Çok yakında juicyolive.com.tr’de yeniden buluşuyoruz.
   Updated: 2026-09-08T13:01:42Z
+- [Our Team](https://juicyolive.com/pages/about-our-team): .jo-team-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-heade...
+  Updated: 2026-10-07T09:43:28Z
+- [Buy Premium High-Polyphenol Extra Virgin Olive Oil Online in the USA](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
+  Updated: 2026-10-07T09:50:41Z
 
 ## Policies
 
