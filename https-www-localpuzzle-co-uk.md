@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-01-21T23:25:32Z
 - Contact Email: info@localpuzzle.co.uk
-- Updated At: 2026-10-01T00:00:38.559Z
+- Updated At: 2026-10-09T00:00:39.567Z
 
 Local Puzzle is a UK-based jigsaw puzzle brand creating distinctive illustrated puzzles celebrating places, landmarks and communities people know and love. Our puzzles are designed to create an emotional connection with familiar places, making them more than a traditional jigsaw puzzle.
 
@@ -22,223 +22,6 @@ The brand's core idea is simple: reconnect people with the places they love, pie
 
 ## Products
 
-- [mesmerising Psychedelic Astronaut Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/psychedelic-astronaut-jigsaw-puzzle): Psychedelic Astronaut Jigsaw Puzzle 🌈 Mind-Bending Challenge: Embark on an interstellar journey with our Psychedelic Astronaut Jigsaw Puzzle. Dive into a vibrant cosmic panorama, where vivid colours and mesmerising patterns guide you through an artistic odyssey. Engage your mind and sharpen your.....
-  Updated: 2026-08-19T06:37:51Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Astronaut-Psychedelics-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842123
-  Price: £34.99 GBP
-- [Furious Octopus Puzzle Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/furious-octopus-jigsaw-puzzle): Furious Octopus Jigsaw Puzzle 🐙 Vibrant Marine Imagery: Dive into the world beneath the waves as you assemble a furious octopus's journey. Each puzzle piece reveals a mesmerizing spectrum of colours, forming a breathtaking underwater spectacle that captures the essence of the ocean's fury.....
-  Updated: 2026-08-19T06:37:39Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Furious-Octopus-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842110
-  Price: £34.99 GBP
-- [Magnificent Sunset Puma Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/sunset-puma-jigsaw-puzzle): Sunset Puma Jigsaw Puzzle 🌅 Puma in Twilight Majesty: Delight in the detailed depiction of a prowling puma with a backdrop of the setting sun. Each puzzle piece unveils the raw power and natural elegance of this magnificent creature, inviting you to piece together....
-  Updated: 2026-08-19T06:37:58Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Sunset-Puma-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842097
-  Price: £34.99 GBP
-- [Dinosaur Roar Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/dinosaur-roar-jigsaw-puzzle): Dinosaur Roar Jigsaw Puzzle 🦕 Witness the grandeur of a bygone era as each puzzle piece unveils a captivating scene filled with towering dinosaurs. The imagery captures the essence of prehistoric life, creating a mesmerizing puzzle-solving experience that transports you to a time when giants roamed the Earth....
-  Updated: 2026-08-19T06:37:34Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Dinosaur-Roar-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842084
-  Price: £34.99 GBP
-- [Dystopian London Apocalypse Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/london-apocalypse-jigsaw-puzzle): London Apocalypse Jigsaw Puzzle 🍃 Nature's Reclamation: Embark on a thrilling, post-apocalyptic adventure with our London Apocalypse Jigsaw Puzzle, where iconic landmarks meet dystopian intrigue. Explore the puzzle's intricate details, revealing nature's relentless reclaiming of the urban landscape.....
-  Updated: 2026-08-19T06:37:46Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-London-Jigsaw-puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842069
-  Price: £34.99 GBP
-- [Tropical Skull Island Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/skull-island-jigsaw-puzzle): Skull Island Jigsaw Puzzle 🌴 Tropical Paradise Discovery: Embark on an adventurous quest with our Tropical Skull Island Jigsaw Puzzle, where the allure of the tropics converges with the enigmatic charm of a hidden paradise. Immerse yourself in the vibrant scenes featuring a mysterious island adorned with.....
-  Updated: 2026-08-19T06:37:54Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Skull-Island-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842055
-  Price: £34.99 GBP
-- [New York Apocalypse Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/new-york-apocalypse-jigsaw-puzzle): New York Apocalypse Jigsaw Puzzle 🚕 Taxi Trails in Silence: Explore the puzzle's intricate details, revealing the remnants of New York's iconic yellow taxis against a backdrop of stillness. Each piece tells a silent tale of a bustling city now suspended in an eerie quiet, creating a visual narrative that draws....
-  Updated: 2026-08-19T06:37:49Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-New-York-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842041
-  Price: £34.99 GBP
-- [Adorable Dog Breeds Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/dog-breeds-jigsaw-puzzle-1): Dog Breeds Jigsaw Puzzle (#1) 🐾 Canine Kaleidoscope: Dive into a world of furry companionship as each puzzle piece unveils a mosaic masterpiece showcasing the distinctive charm of various dog breeds, this puzzle captures the essence of our four-legged friends in an artistic symphony......
-  Updated: 2026-08-19T06:37:35Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Dog-Breeds-1-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842027
-  Price: £34.99 GBP
-- [Whimsical Dog Breeds Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/dog-breeds-jigsaw-puzzle-2): Dog Breeds Jigsaw Puzzle (#2) 🐶 Delight in the whimsy of each puzzle piece as it reveals a delightful collage of dog breed heads. From the noble gaze of a German Shepherd to the playful expression of a Beagle, this puzzle intricately weaves together the distinctive characteristics of each....
-  Updated: 2026-08-19T06:37:35Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Dog-Breeds-2-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749842013
-  Price: £34.99 GBP
-- [Adorable Corgi Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/corgi-adventure-jigsaw-puzzle): Corgi Adventure Jigsaw Puzzle 🐾 Adorable Corgi puzzle: Join a delightful pack of Corgis on their playful adventure. Each puzzle piece unveils a heart-warming scene, showcasing the lovable antics of these charming companions, creating a puzzle-solving experience that's as endearing as it is entertaining....
-  Updated: 2026-08-19T06:37:33Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Corgi-Adventure-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841999
-  Price: £34.99 GBP
-- [Scottish Highland Cows Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/highland-cows-jigsaw-puzzle): Highland Cows Jigsaw Puzzle 🐮 Highland Harmony: Revel in the pastoral charm as three Highland cows take centre stage in this captivating puzzle. Each piece reveals the distinct presence of these majestic creatures against a backdrop of lush flowers, creating a harmonious tableau that embodies the tranquil spirit.....
-  Updated: 2026-08-19T06:37:41Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Highland-Cows-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841986
-  Price: £34.99 GBP
-- [Adorable Labrador Adventure Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/labrador-adventure-jigsaw-puzzle): Labrador Adventure Jigsaw Puzzle 🐾 Lively Labrador Explorations: Delight in the charming depictions of Labrador Retrievers on an adventure. Each puzzle piece unveils heart-warming scenes, showcasing the boundless energy and curiosity of these beloved companions as they embark on exciting escapades in the......
-  Updated: 2026-08-19T06:37:44Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Labrador-Adventure-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841973
-  Price: £34.99 GBP
-- [Sweet Parrot Partners Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/parrot-partners-jigsaw-puzzle): Parrot Partners Jigsaw Puzzle 🏝️Companionship in Detail: Explore the puzzle's intricacies, revealing the endearing companionship between the two parrots. Each piece showcases their intimate connection, creating a visual narrative that celebrates the bonds formed in the lush and lively world they inhabit.....
-  Updated: 2026-08-19T06:37:50Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Parrot-Partners-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748450704
-  Price: £34.99 GBP
-- [Curious Rottweiler Adventure Jigsaw Puzzle | Local](https://www.localpuzzle.co.uk/products/rottweiler-adventure-jigsaw-puzzle): Rottweiler Adventure Jigsaw Puzzle 🐾 Delight in the depictions of Rottweilers in action, showcasing their boundless energy and curiosity as they embark on outdoor escapades. Each puzzle piece captures the essence of their adventurous spirit, inviting you to piece together the scenes and appreciate the....
-  Updated: 2026-08-19T06:37:53Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Rottweiler-Adventure-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748450473
-  Price: £34.99 GBP
-- [Floral Fantasy Island Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/fantasy-island-jigsaw-puzzle): Fantasy Island Jigsaw Puzzle 🌺 Floral Golden Temple Haven: Explore the mesmerizing beauty of a fantastical island where a golden temple rises amidst a sea of vibrant flowers. Each puzzle piece unveils a rich tapestry of colours, capturing the serenity and charm of this dreamlike sanctuary.....
-  Updated: 2026-08-19T06:37:38Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Fantasy-Island-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-a56aa41c-47af-4a77-af98-c1a773d6799f-_1.jpg?v=1749841940
-  Price: £34.99 GBP
-- [Cute Happy Panda Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/happy-panda-jigsaw-puzzle): Happy Panda Jigsaw Puzzle 🐼 Playful Panda Serenity: Delight in the carefree presence of a hanging panda, the focal point of this charming puzzle. Each piece unveils the panda's endearing posture, creating a heart-warming tableau that radiates joy and a sense of playful tranquillity......
-  Updated: 2026-08-19T06:37:39Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Happy-Panda-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841925
-  Price: £34.99 GBP
-- [Astronaut Exploration Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/astronaut-exploration-jigsaw-puzzle): Astronaut Exploration Jigsaw Puzzle 🚀 Explore the cosmos with each puzzle piece as you piece together the astronaut's journey. The imagery unveils a breathtaking portrayal of space, creating a captivating scene that captures the essence of interstellar exploration....
-  Updated: 2026-08-19T06:37:27Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Astronaut-Exploration-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841912
-  Price: £34.99 GBP
-- [Dinosaur Rampage Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/dinosaur-rampage-jigsaw-puzzle): Dinosaur Rampage Jigsaw Puzzle 🌲 Dynamic Dinosaur Encounter: Witness the breathtaking spectacle of a dinosaur running wild in a swampy forest. Each puzzle piece reveals a dynamic scene, capturing the energy and power of these majestic creatures in the midst of a thrilling rampage.....
-  Updated: 2026-08-19T06:37:34Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Dinosaur-Rampage-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748379678
-  Price: £34.99 GBP
-- [Astronaut Moon-base Repair Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/astronaut-moonbase-repair-jigsaw-puzzle): Astronaut Moon-Base Repair Jigsaw Puzzle 🌕 Lunar Engineering Mastery: Delight in the detailed depiction of an astronaut engaged in the meticulous repair of equipment on the moon's surface. Each puzzle piece unveils the precision and expertise required for lunar engineering, showcasing the astronaut's skill in a captivating ...
-  Updated: 2026-08-19T06:37:28Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Astronaut-Repair-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748282870
-  Price: £34.99 GBP
-- [T-rex Rampage New York Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/t-rex-rampage-new-york-jigsaw-puzzle): T-Rex Rampage New York Jigsaw Puzzle 🏙️ Urban Dinosaur Mayhem: Embark on a prehistoric spectacle with our T-Rex Battle New York Jigsaw Puzzle, where the mighty Tyrannosaurus rex takes centre stage in a colossal clash against the iconic backdrop of New York City. Immerse yourself in the jaw-dropping scenes....
-  Updated: 2026-08-19T06:38:00Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/T-Rex-Rampage-New-York-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841882
-  Price: £34.99 GBP
-- [Vibrant Sunset Zebra Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/sunset-zebra-jigsaw-puzzle): Sunset Zebra Jigsaw Puzzle 🌅 Savannah Sunset Elegance: Delight in the detailed depiction of the African savannah as the sun sets, casting a warm and golden glow across the landscape. Immerse yourself in scenes featuring three zebras, their curious gaze captured against the backdrop of the sun-kissed horizon.....
-  Updated: 2026-08-19T06:37:59Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Sunset-Zebra-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841869
-  Price: £34.99 GBP
-- [Majestic Bengal Tiger Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/bengal-tiger-jigsaw-puzzle): Bengal Tiger Jigsaw Puzzle 🐅 Explore the puzzle's intricate details, revealing the majestic Bengal tiger amidst the foliage. The tiger's commanding presence and striking features take centre stage, creating a visual narrative that adds an extra layer of majesty to the puzzle-solving experience...
-  Updated: 2026-08-19T06:37:30Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Bengal-Tiger-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841854
-  Price: £34.99 GBP
-- [Tropical Sunset Python Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/sunset-python-jigsaw-puzzle): Sunset Python Jigsaw Puzzle 🐍 Elegant Green Python: Explore the puzzle's intricate details, where the mesmerizing presence of a vibrant green python unfolds amidst the lush foliage of a tropical rainforest. The snake's form and radiant green scales take centre stage, creating a visual narrative that adds an.....
-  Updated: 2026-08-19T06:37:58Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Sunset-Python-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748379762
-  Price: £34.99 GBP
-- [T-Rex Rampage London Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/t-rex-rampage-london-jigsaw-puzzle): T-Rex Rampage London Jigsaw Puzzle 🦖 Embark on an adrenaline-fuelled spectacle with our T-Rex Duo London Rampage Jigsaw Puzzle, where not one, but two Tyrannosaurus rex unleash primal chaos on the bustling streets of London. Immerse yourself in scenes featuring the colossal T-Rex duo.....
-  Updated: 2026-08-19T06:38:00Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/T-Rex-Rampage-London-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841831
-  Price: £34.99 GBP
-- [Rome Colosseum Apocalypse Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/rome-colosseum-apocalypse-jigsaw-puzzle): Rome Colosseum Apocalypse Jigsaw Puzzle 🏛️ Ancient Grandeur Reclaimed: Delight in the detailed depiction of the Colosseum, now draped in overgrown vines and foliage, creating a hauntingly beautiful scene. Each puzzle piece unveils the juxtaposition of ancient grandeur and nature's reclamation, inviting you.....
-  Updated: 2026-08-19T06:37:52Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-Rome-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841818
-  Price: £34.99 GBP
-- [Clownfish Nursery Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/clownfish-nursery-jigsaw-puzzle): Clownfish Nursery Jigsaw Puzzle 🌊 Coral Reef Symphony: Explore the puzzle's intricate details, revealing the intricate patterns and textures of a thriving coral reef. The underwater landscape adds a layer of depth and beauty, creating a visual narrative that adds an extra layer of majesty to the puzzle-solving....
-  Updated: 2026-08-19T06:37:32Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Clownfish-Nursery-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1.jpg?v=1748293696
-  Price: £34.99 GBP
-- [T-Rex Jungle Chase Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/t-rex-jungle-chase-jigsaw-puzzle): 🦖 Tyrannosaurus Rex Pursuit: Explore the puzzle's intricate details, revealing the red jeep speeding through the lush jungle foliage, its occupants racing against time to evade the pursuing T-Rex. The tension and excitement of the chase are palpable, creating a visual narrative that adds an extra layer of excitement to the puzzle-solving experience.
-  Updated: 2026-08-19T06:37:59Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/T-Rex-Jungle-Chase-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841797
-  Price: £34.99 GBP
-- [Astronaut Landing Moon-Buggy Adventure Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/moon-buggy-astronauts-landing-jigsaw-puzzle): Astronaut Landing Moon-Buggy Adventure Jigsaw Puzzle 🌕 Lunar Exploration: Delight in the detailed depiction of the lunar surface, where the vast expanse of the moon stretches out before you. Each puzzle piece unveils the stark beauty and desolate grandeur of the lunar landscape, inviting you to piece together the puzzle and embark...
-  Updated: 2026-08-19T06:37:48Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Astronaut-Landing-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841783
-  Price: £34.99 GBP
-- [Fantasy Cloud Island Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/fantasy-cloud-island-jigsaw-puzzle): Fantasy Cloud Island Jigsaw Puzzle 🏡 Quaint Island Retreat: Delight in the detailed depiction of Cloud Island, where a charming house sits nestled among colourful foliage, surrounded by the endless expanse of fluffy clouds. Each puzzle piece unveils the idyllic beauty and tranquillity of the island retreat....
-  Updated: 2026-08-19T06:37:37Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Cloud-Island-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841768
-  Price: £34.99 GBP
-- [Distopian Dubai Apocalypse Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/dubai-apocalypse-jigsaw-puzzle): Dubai Apocalypse Jigsaw Puzzle 🏙️ Decaying Cityscape: Delve into the intricate details of a once-vibrant Dubai now consumed by decay and neglect. Each puzzle piece unveils the haunting beauty of abandoned skyscrapers and dilapidated infrastructure, evoking a sense of awe and melancholy. Explore the remnants of.....
-  Updated: 2026-08-19T06:37:37Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-Dubai-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841752
-  Price: £34.99 GBP
-- [Dystopian Tokyo Apocalypse Jigsaw Puzzle | Local Puzzle](https://www.localpuzzle.co.uk/products/tokyo-apocalypse-jigsaw-puzzle): Delve into the intricate details of a Tokyo ravaged by time and neglect. Each puzzle piece unveils the haunting beauty of overgrown skyscrapers and dilapidated infrastructure, evoking a sense of awe and melancholy.&nbsp;Explore the remnants of Tokyo's automotive culture as moss-covered supercars lie abandoned.....
-  Updated: 2026-08-19T06:38:01Z
-  Vendor: Local Puzzle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Apocalypse-Tokyo-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-_1.jpg?v=1749841738
-  Price: £34.99 GBP
 - [Hitchin Town Centre Jigsaw Puzzle | 1000-Piece Hitchin Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/hitchin-town-centre-jigsaw-puzzle): Hitchin Town Centre Jigsaw Puzzle Step into the charm of historic England with our "Hitchin Town Centre" Jigsaw Puzzle. This beautifully illustrated 1,000-piece jigsaw puzzle captures the essence of Hitchin, Hertfordshire, where cobbled streets and unique old buildings create a picturesque British townscape.
   Updated: 2026-09-14T16:47:35Z
   Vendor: Local Puzzle
@@ -303,7 +86,7 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Waltham-Cross-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
 - [Stevenage Town Centre Jigsaw Puzzle | 1000-Piece Stevenage Jigsaw Puzzle for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/stevenage-town-centre-jigsaw-puzzle): Step into the modern heart of Stevenage with our “Stevenage Town Centre” Jigsaw Puzzle, a vibrant tribute to the town’s unique character. This beautifully illustrated scene captures the iconic clock tower rising above the fountains and bustling pedestrian streets, surrounded by the energy of shoppers, families, and everyday life. From striking architecture to the lively spirit of the square, this puzzle celebrates Stevenage’s proud history as one of the UK’s first new towns.
-  Updated: 2026-09-14T16:42:50Z
+  Updated: 2026-10-03T10:47:16Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
@@ -457,38 +240,30 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Natural-History-Museum-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-Wooden-Background.jpg?v=1788396774
   Price: £34.99 GBP
 - [London Borough Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-borough-market-jigsaw-puzzle): Bring one of London’s most vibrant meeting places to life, piece by piece. There’s something wonderfully familiar about Borough Market. The bustle of people browsing food stalls, the smell of something delicious cooking, the historic market roof overhead and the Shard rising dramatically into the London skyline all come together to create a scene that feels unmistakably London.
-  Updated: 2026-09-25T11:54:59Z
+  Updated: 2026-10-04T23:07:01Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Borough-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1790297187
   Price: £34.99 GBP
+- [London Leadenhall Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-leadenhall-market-jigsaw-puzzle): Bring our London Leadenhall market jigsaw puzzle to life, piece by piece. Beneath its spectacular glass roof, ornate details, colourful shopfronts and bustling walkways create a setting that feels unmistakably London....
+  Updated: 2026-10-04T23:12:57Z
+  Vendor: Local Puzzle
+  Product Type: Jigsaw Puzzle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Leadenhall-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1790988320
+  Price: £34.99 GBP
 
 ## Collections
 
-- [Animal Kingdom](https://www.localpuzzle.co.uk/collections/animal-kingdom-jigsaw-puzzles): Welcome to our enchanting collection of jigsaw puzzles inspired by the animal kingdom. Immerse yourself in the beauty and diversity of the natural world as each puzzle piece unveils a captivating portrait of wildlife. From majestic landscapes to intricate depictions of our furry and feathered friends, our animal-inspired puzzles bring the wonders of nature to your fingertips.
-  Updated: 2026-07-03T20:07:22Z
-  Total Products: 18
-- [World-Wide](https://www.localpuzzle.co.uk/collections/world-wide): .
-  Updated: 2026-07-03T20:07:22Z
-  Total Products: 20
-- [Another World](https://www.localpuzzle.co.uk/collections/another-world-jigsaw-puzzles): Embark on a captivating journey beyond the ordinary with our "Another World" puzzle collection. Whether you're fascinated by the mysteries of the cosmos, the allure of prehistoric creatures, or the enchantment of fantasy realms, our "Another World" collection invites you to piece together extraordinary designs that transcend reality.
-  Updated: 2026-07-03T20:07:22Z
-  Total Products: 18
 - [Best Sellers](https://www.localpuzzle.co.uk/collections/best-sellers)
-  Updated: 2026-08-26T11:16:55Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 9
-- [Apocalypse Puzzles](https://www.localpuzzle.co.uk/collections/apocalypse-jigsaw-puzzles): Discover a hauntingly beautiful world with our Apocalypse Jigsaw Puzzles collection – a striking series crafted for adults who appreciate dystopian art and dramatic storytelling.
-  Updated: 2026-07-03T20:07:23Z
-  Total Products: 5
-- [Dinosaur Puzzles](https://www.localpuzzle.co.uk/collections/dinosaur-jigsaw-puzzles): Step into a world lost in time with our Dinosaur Jigsaw Puzzles collection — a captivating range designed especially for adults who love prehistoric drama and detailed artistry.
-  Updated: 2026-07-03T20:07:23Z
-  Total Products: 5
 - [Local Puzzles](https://www.localpuzzle.co.uk/collections/local-jigsaw-puzzles): Explore the Local Puzzle collection – a charming range of jigsaw puzzles celebrating beloved towns, landmarks, and hidden gems across the UK. Perfect for adults who cherish nostalgia, local pride, and thoughtful gifting.
-  Updated: 2026-09-29T11:19:38Z
-  Total Products: 32
+  Updated: 2026-10-03T11:21:35Z
+  Total Products: 33
 - [Hertfordshire Puzzles](https://www.localpuzzle.co.uk/collections/hertfordshire-jigsaw-puzzles): Discover and explore our Hertfordshire jigsaw puzzle collection, featuring beautifully illustrated scenes from Hitchin, St Albans, Letchworth, and more. Celebrate local landmarks and British charm with every piece.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Hitchin Puzzles](https://www.localpuzzle.co.uk/collections/hitchin-jigsaw-puzzles): Explore our Hitchin jigsaw puzzle collection, capturing the charm of this historic Hertfordshire town. Featuring St Mary’s Church, the River Hiz, Town Hall, and more—perfect for locals and puzzle lovers alike.
   Updated: 2026-09-12T23:59:50Z
@@ -500,22 +275,22 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-13T00:17:24Z
   Total Products: 2
 - [Local Hertfordshire Gifts](https://www.localpuzzle.co.uk/collections/local-hertfordshire-gifts): Our local jigsaw puzzle collection make the perfect Hertfordshire gifts for any occasion — they spark memories, connection, and pride in the places we call home.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Bedfordshire Puzzles](https://www.localpuzzle.co.uk/collections/bedfordshire-jigsaw-puzzles): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-13T00:12:40Z
   Total Products: 6
 - [London Puzzles](https://www.localpuzzle.co.uk/collections/london-jigsaw-puzzles): Explore our 1000-piece London jigsaw puzzles through beautifully illustrated scenes inspired by iconic locations & landmarks such as Battersea Power Station, Camden Market, Natural History Museum and more...
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T00:48:42Z
+  Total Products: 6
 - [London Gifts](https://www.localpuzzle.co.uk/collections/unique-london-gifts): Looking for a London gift that feels more personal than a typical souvenir? Discover our collection of beautifully illustrated London jigsaw puzzles, each inspired by the iconic landmarks, streets and places that make the capital so memorable. From Battersea Power Station and Camden Market to the Millennium Bridge and beyond, every design captures a different side of London and the memories connected to it.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T00:48:42Z
+  Total Products: 6
 - [London souvenirs](https://www.localpuzzle.co.uk/collections/unique-london-souvenirs): Take home more than a traditional keepsake with our collection of unique London souvenirs, celebrating the places, landmarks and moments that make the capital unforgettable. Each beautifully illustrated design captures a distinctive London scene, creating a lasting reminder of a favourite visit, a beloved neighbourhood or a city full of memories.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:02:43Z
+  Total Products: 6
 - [Town Centre Puzzles](https://www.localpuzzle.co.uk/collections/town-centre-jigsaw-puzzles): Step into the charm of Britain's town centres with our collection of whimsical town centre puzzles, bringing familiar streets, historic buildings, independent shops and everyday moments to life in a playful illustrated style. Each scene is filled with character and little details to discover, capturing the warmth and personality that makes every town feel unique.
-  Updated: 2026-09-06T11:16:26Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 19
 - [St Albans Housewarming Gifts](https://www.localpuzzle.co.uk/collections/housewarming-gifts-st-albans): Celebrate a new St Albans home with a 1000-piece illustrated jigsaw featuring familiar local landmarks. A thoughtful housewarming gift for friends, family or new neighbours that brings a piece of St Albans into their home.
   Updated: 2026-09-29T11:19:38Z
@@ -526,27 +301,27 @@ The brand's core idea is simple: reconnect people with the places they love, pie
 - [Letchworth Housewarming Gifts](https://www.localpuzzle.co.uk/collections/letchworth-housewarming-gifts): Celebrate a new home with a 1000-piece illustrated Letchworth jigsaw. These thoughtful housewarming gifts capture familiar places including Letchworth Broadway Cinema and Leys Square, bringing a little piece of Garden City life indoors.
   Updated: 2026-09-05T23:22:38Z
   Total Products: 2
-- [London Housewarming Gifts](https://www.localpuzzle.co.uk/collections/london-housewarming-gifts): Discover 1000-piece illustrated London jigsaws celebrating iconic landmarks and neighbourhoods. These London housewarming gifts bring familiar places such as Battersea Power Station, Camden Market and St Paul’s Cathedral into a new home.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+- [London Housewarming Gifts](https://www.localpuzzle.co.uk/collections/london-housewarming-gifts): Discover 1000-piece illustrated London jigsaws celebrating iconic landmarks and neighbourhoods. These London housewarming gifts bring familiar places such as Battersea Power Station, Camden Market and Borough Market into a new home.
+  Updated: 2026-10-03T17:07:39Z
+  Total Products: 6
 - [London Leaving Gifts](https://www.localpuzzle.co.uk/collections/london-leaving-gifts): Give them something to remember London by with a 1000-piece illustrated jigsaw featuring iconic landmarks and familiar city scenes. Thoughtful London leaving gifts for anyone moving away, starting a new chapter or saying farewell.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:11:15Z
+  Total Products: 6
 - [Battersea Power Station Gifts](https://www.localpuzzle.co.uk/collections/battersea-power-station-gifts-art): Celebrate one of London’s most recognisable landmarks with 1000-piece illustrated jigsaws featuring Battersea Power Station. Thoughtful Battersea Power Station gifts for London lovers, architecture enthusiasts and anyone with a connection to this iconic riverside landmark.
-  Updated: 2026-09-05T23:50:34Z
+  Updated: 2026-10-03T17:04:32Z
   Total Products: 1
 - [London Landmark Gifts](https://www.localpuzzle.co.uk/collections/london-landmark-gifts-art): Discover 1000-piece illustrated London jigsaws featuring iconic landmarks and architecture. These London landmark gifts bring familiar city scenes into your home as a relaxing activity and distinctive piece of wall art.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:01:23Z
+  Total Products: 6
 - [Hertfordshire Housewarming Gifts](https://www.localpuzzle.co.uk/collections/hertfordshire-housewarming-gifts): Discover 1000-piece illustrated Hertfordshire jigsaws celebrating familiar towns and places. Thoughtful housewarming gifts for new homeowners, friends, family or neighbours, bringing a little piece of Hertfordshire into their new home.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Hertfordshire Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-hertfordshire): Celebrate your first wedding anniversary with a paper anniversary gift featuring a Hertfordshire place that means something to you — where you met, married, bought your first home or began your story together
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
-- [London Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-london): Celebrate your first wedding anniversary with a paper anniversary gift featuring a London place that means something to you — where you met, married, lived together or began your life as a couple.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+- [London Paper Wedding Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-london): Celebrate your first wedding anniversary with a paper anniversary gift featuring a London place that means something to you — where you met, married, lived together or began your life as a couple.
+  Updated: 2026-10-03T16:58:35Z
+  Total Products: 6
 - [St Albans Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-st-albans): Celebrate your first wedding anniversary with a paper anniversary gift featuring St Albans — a familiar place connected to where you met, married, lived together or began your life as a couple.
   Updated: 2026-09-29T11:19:38Z
   Total Products: 4
@@ -563,14 +338,14 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-07T23:10:26Z
   Total Products: 6
 - [Hertfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-hertfordshire): Celebrate a career spent in Hertfordshire with a retirement gift featuring familiar towns and landmarks. These illustrated 1000-piece jigsaws make thoughtful retirement gift ideas for colleagues, bosses, friends and family with memories tied to the county.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Bedfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-07T23:51:49Z
   Total Products: 6
 - [London Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-london): Celebrate a career spent in London with a retirement gift featuring iconic landmarks and familiar city scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:09:05Z
+  Total Products: 6
 - [St Albans Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-st-albans): Celebrate a career spent in St Albans with a retirement gift featuring familiar landmarks and town-centre scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
   Updated: 2026-09-29T11:19:38Z
   Total Products: 4
@@ -584,7 +359,7 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-29T11:19:38Z
   Total Products: 4
 - [Hertfordshire Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-hertfordshire): Discover Hertfordshire Christmas gifts featuring familiar towns, landmarks and everyday scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for residents, loved ones who have moved away and anyone with cherished memories of the county.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Bedfordshire Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-08T20:15:59Z
@@ -593,13 +368,13 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-08T20:17:32Z
   Total Products: 2
 - [London Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-london): Discover London Christmas gifts featuring iconic landmarks, streets and familiar city scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for Londoners, loved ones who have moved away and anyone with cherished memories of the capital.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T00:48:42Z
+  Total Products: 6
 - [Hitchin Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-hitchin): Discover Hitchin Christmas gifts featuring familiar streets, landmarks and town-centre scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for residents, loved ones who have moved away and anyone with cherished memories of Hitchin.
   Updated: 2026-09-08T20:20:21Z
   Total Products: 3
 - [Hertfordshire Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-hertfordshire): Celebrate a 50th, 60th or 70th birthday with Hertfordshire milestone birthday gifts featuring familiar towns, streets and landmarks. These illustrated 1000-piece jigsaws turn decades of memories into a deeply personal keepsake.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [St Albans Birthday gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-st-albans): Discover St Albans birthday gifts featuring familiar landmarks, streets and town-centre scenes. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners with cherished memories of St Albans.
   Updated: 2026-09-29T11:19:38Z
@@ -611,20 +386,20 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-08T23:26:09Z
   Total Products: 3
 - [London Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-london): Discover London birthday gifts featuring iconic landmarks, streets and familiar city scenes. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners with a special connection to the capital.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:09:41Z
+  Total Products: 6
 - [Bedfordshire Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-08T23:28:48Z
   Total Products: 6
 - [Hertfordshire Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-hertfordshire): Discover Hertfordshire birthday gifts featuring familiar towns, landmarks and streets. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners who have a special connection to Hertfordshire.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Bedfordshire Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-09T23:38:08Z
   Total Products: 6
 - [London Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-london): Discover thoughtful London milestone birthday gifts for 50th, 60th and 70th celebrations. These illustrated 1000-piece jigsaws turn iconic London landmarks into nostalgic keepsakes for parents, grandparents and loved ones.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T17:10:29Z
+  Total Products: 6
 - [Hitchin Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-hitchin): Discover thoughtful Hitchin milestone birthday gifts for 50th, 60th and 70th celebrations. These illustrated 1000-piece jigsaws turn familiar Hitchin streets and landmarks into nostalgic keepsakes for parents, grandparents and loved ones.
   Updated: 2026-09-09T23:32:20Z
   Total Products: 3
@@ -635,14 +410,14 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-29T11:19:38Z
   Total Products: 4
 - [Hertfordshire Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-hertfordshire): Discover thoughtful Hertfordshire gifts for grandparents, featuring familiar towns, landmarks and streets. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the places they have known and loved for years.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-03T11:21:35Z
   Total Products: 21
 - [Bedfordshire Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-10T00:14:47Z
   Total Products: 6
 - [London Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-london): Discover thoughtful London gifts for grandparents, featuring iconic landmarks and familiar city scenes. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the places, memories and moments that have made London special over the years.
-  Updated: 2026-09-25T00:49:33Z
-  Total Products: 5
+  Updated: 2026-10-03T00:48:42Z
+  Total Products: 6
 - [Hitchin Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-hitchin): Discover thoughtful Hitchin gifts for grandparents, featuring familiar streets, landmarks and town-centre scenes. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the Hitchin places they have known, visited and loved over the years.
   Updated: 2026-09-10T00:19:46Z
   Total Products: 3
@@ -666,14 +441,19 @@ The brand's core idea is simple: reconnect people with the places they love, pie
     Updated: 2025-06-09T17:49:17Z
     Author: Samiul Islam
   - [How to Complete a Jigsaw Puzzle – Tips and Tricks for Adults](https://www.localpuzzle.co.uk/blogs/puzzlers-post/how-to-complete-a-jigsaw-puzzle)
-    Updated: 2026-08-30T23:47:47Z
+    Updated: 2026-10-04T23:22:59Z
     Author: Samiul Islam
   - [Hertfordshire Gifts Ideas with Heart: Local Gifts With Meaning](https://www.localpuzzle.co.uk/blogs/puzzlers-post/hertfordshire-gift-ideas)
-    Updated: 2026-09-06T17:15:49Z
+    Updated: 2026-10-04T23:19:34Z
     Author: Samiul Islam
   - [How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard](https://www.localpuzzle.co.uk/blogs/puzzlers-post/how-to-start-jigsaw-puzzles): How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard
-    Updated: 2026-08-30T23:47:10Z
+    Updated: 2026-10-07T16:55:58Z
     Author: Samiul Islam
+  - [Screen-Free Activities for Londoners: Explore London, Piece by Piece](https://www.localpuzzle.co.uk/blogs/puzzlers-post/screen-free-activities-for-londoners-explore-london-piece-by-piece): <p>You know that feeling when you've finally finished work, got home, made a cup of tea… and somehow ended up scrolling for an hour?</p>
+<p>London keeps us busy. The commute, the messages, the emails, the endless stream of things competing for our attention. Even when we're relaxing, our phones are never far away.</p>
+    Updated: 2026-10-08T16:28:08Z
+    Author: Samiul Islam
+    Tags: London
 
 ## Store Pages
 
