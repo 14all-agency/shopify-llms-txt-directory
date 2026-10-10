@@ -6,19 +6,19 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-07-29T03:01:42Z
 - Contact Email: service@kaayee.com
-- Updated At: 2026-10-03T04:00:42.455Z
+- Updated At: 2026-10-10T08:00:41.909Z
 
 ## Products
 
 - [Mosque Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/mosque-book-nook-kit): Shop Mosque Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:52Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mosque-book-nook-kit-kaayee-puzzle-8835468.png?v=1768949646
   Price: $46.00 USD
 - [Flower House Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/flower-house): Shop Flower House Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:52Z
+  Updated: 2026-10-10T00:46:54Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -57,7 +57,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Popcorn Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-popcorn): Shop Popcorn Wooden Jigsaw Puzzle for only $15.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:56Z
+  Updated: 2026-10-09T09:06:53Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -113,7 +113,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ice-cream-wooden-jigsaw-puzzle-kaayee-puzzle-4855204.jpg?v=1760512226
   Price: $15.99 USD
 - [Pizza Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-pizza): Shop Pizza Wooden Jigsaw Puzzle for only $15.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T16:47:16Z
+  Updated: 2026-10-09T09:06:55Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -145,7 +145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-cat-wooden-jigsaw-puzzle-kaayee-puzzle-4174856.jpg?v=1760512099
     Price: $32.99 USD
 - [Underwater World Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-underwater-world): Shop Underwater World Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:56Z
+  Updated: 2026-10-08T21:04:12Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/charming-peacock-wooden-jigsaw-puzzle-kaayee-puzzle-9159572.jpg?v=1760512097
     Price: $39.99 USD
 - [Lovely Panda Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-lovely-panda): Shop Lovely Panda Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-09T07:37:24Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -247,15 +247,15 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-lovely-panda?variant=47025949704430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-panda-wooden-jigsaw-puzzle-kaayee-puzzle-5458095.jpg?v=1760512096
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-lovely-panda?variant=47025949737198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-panda-wooden-jigsaw-puzzle-kaayee-puzzle-5458095.jpg?v=1760512096
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-lovely-panda?variant=47025949769966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-panda-wooden-jigsaw-puzzle-kaayee-puzzle-5458095.jpg?v=1760512096
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Shiny Horse Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-shiny-horse): Shop Shiny Horse Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
   Updated: 2026-09-29T08:17:57Z
   Vendor: KAAYEE
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tough-tiger-wooden-jigsaw-puzzle-kaayee-puzzle-3275262.jpg?v=1760512096
     Price: $32.99 USD
 - [Rock T Rex Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-rock-t-rex): Shop Rock T Rex Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-09T07:39:21Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -301,17 +301,17 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-rock-t-rex?variant=47025952391406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/rock-t-rex-wooden-jigsaw-puzzle-kaayee-puzzle-1726006.jpg?v=1760512096
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-rock-t-rex?variant=47025952424174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/rock-t-rex-wooden-jigsaw-puzzle-kaayee-puzzle-1726006.jpg?v=1760512096
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-rock-t-rex?variant=47025952456942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/rock-t-rex-wooden-jigsaw-puzzle-kaayee-puzzle-1726006.jpg?v=1760512096
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Eternal Embrace Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-eternal-embrace): Shop Eternal Embrace Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-07T02:49:30Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -329,7 +329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/eternal-embrace-wooden-jigsaw-puzzle-kaayee-puzzle-8954565.jpg?v=1760512095
     Price: $32.99 USD
 - [Majestic Cock Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-cock): Shop Majestic Cock Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-09T07:40:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -337,15 +337,15 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-cock?variant=47025953145070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-cock-wooden-jigsaw-puzzle-kaayee-puzzle-8845539.jpg?v=1760512095
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-cock?variant=47025953177838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-cock-wooden-jigsaw-puzzle-kaayee-puzzle-8845539.jpg?v=1760512095
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-cock?variant=47025953210606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-cock-wooden-jigsaw-puzzle-kaayee-puzzle-8845539.jpg?v=1760512095
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Leisure Turtle Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-leisure-turtle): Shop Leisure Turtle Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
   Updated: 2026-09-29T08:17:57Z
   Vendor: KAAYEE
@@ -365,7 +365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/leisure-turtle-wooden-jigsaw-puzzle-kaayee-puzzle-3462873.jpg?v=1760512094
     Price: $39.99 USD
 - [Sea Octopus Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-sea-octopus): Shop Sea Octopus Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-09T07:42:16Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -373,17 +373,17 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-sea-octopus?variant=47025953472750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sea-octopus-wooden-jigsaw-puzzle-kaayee-puzzle-3303410.jpg?v=1760512094
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-sea-octopus?variant=47025953505518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sea-octopus-wooden-jigsaw-puzzle-kaayee-puzzle-3303410.jpg?v=1760512094
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-sea-octopus?variant=47025953538286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sea-octopus-wooden-jigsaw-puzzle-kaayee-puzzle-3303410.jpg?v=1760512094
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Majestic Wolf Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-wolf): Shop Majestic Wolf Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-09T07:43:36Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -391,17 +391,17 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-wolf?variant=47025953669358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-wolf-wooden-jigsaw-puzzle-kaayee-puzzle-7522091.jpg?v=1760512094
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-wolf?variant=47025953702126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-wolf-wooden-jigsaw-puzzle-kaayee-puzzle-7522091.jpg?v=1760512094
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-majestic-wolf?variant=47025953734894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/majestic-wolf-wooden-jigsaw-puzzle-kaayee-puzzle-7522091.jpg?v=1760512094
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Wonderful Animals Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-wonderful-animals): Shop Wonderful Animals Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-07T07:42:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -436,24 +436,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-parrot-wooden-jigsaw-puzzle-kaayee-puzzle-2823208.jpg?v=1760512093
     Price: $32.99 USD
-- [Mandala 4 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-mandala-4): Shop Mandala 4 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+- [Mandala 4 Wooden Jigsaw Puzzle](https://kaayee.com/products/mandala-4-wooden-jigsaw-puzzle): Mandala pattern is a geometric design that is rich in symbolism and spirituality. Derived from the ancient Sanskrit word meaning "circle," the intricate patterns of a Mandala represent the universe and unity. It typically starts from a central point and extends outward, forming intricate layers of geometric shapes, lines, and colors. Often, mandalas are symmetrical, creating a sense of balance and harmony. These patterns have a deep spiritual significance in various cultures, aiding in focus and relaxation.
+  Updated: 2026-10-09T19:55:37Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-4-wooden-jigsaw-puzzle-kaayee-puzzle-5306343.jpg?v=1760512092
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-mandala-4?variant=47025954783470)
+  - [🧩 Small - Pocket Escape](https://kaayee.com/products/mandala-4-wooden-jigsaw-puzzle?variant=47025954783470)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-4-wooden-jigsaw-puzzle-kaayee-puzzle-5306343.jpg?v=1760512092
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-mandala-4?variant=47025954816238)
+    Price: $16.99 USD
+  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/mandala-4-wooden-jigsaw-puzzle?variant=47025954816238)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-4-wooden-jigsaw-puzzle-kaayee-puzzle-5306343.jpg?v=1760512092
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-mandala-4?variant=47025954849006)
+    Price: $24.99 USD
+  - [🎨 Large - Gallery Choice](https://kaayee.com/products/mandala-4-wooden-jigsaw-puzzle?variant=47025954849006)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-4-wooden-jigsaw-puzzle-kaayee-puzzle-5306343.jpg?v=1760512092
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Colorful Chameleon Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-colorful-chameleon): Shop Colorful Chameleon Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
   Updated: 2026-09-29T08:17:57Z
   Vendor: KAAYEE
@@ -509,7 +509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cute-puppy-wooden-jigsaw-puzzle-kaayee-puzzle-6493669.jpg?v=1760511954
     Price: $39.99 USD
 - [The Giraffe Family Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-the-giraffe-family): Shop The Giraffe Family Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-30T17:29:12Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -581,7 +581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/happy-cute-pet-wooden-jigsaw-puzzle-kaayee-puzzle-9143148.jpg?v=1760511947
     Price: $32.99 USD
 - [Cute Rabbit Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-cute-rabbit): Shop Cute Rabbit Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:57Z
+  Updated: 2026-10-04T05:52:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -653,7 +653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sunlit-ocean-wooden-jigsaw-puzzle-kaayee-puzzle-7687385.jpg?v=1760511936
     Price: $32.99 USD
 - [Flapping butterfly Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-flapping-butterfly): Shop Flapping butterfly Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-09T08:11:57Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -661,15 +661,15 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-flapping-butterfly?variant=47025968218350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flapping-butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-7243439.jpg?v=1760511935
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-flapping-butterfly?variant=47025968251118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flapping-butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-7243439.jpg?v=1760511935
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-flapping-butterfly?variant=47025968283886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flapping-butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-7243439.jpg?v=1760511935
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Cute Corgi Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-cute-corgi): Shop Cute Corgi Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
   Updated: 2026-09-29T08:17:58Z
   Vendor: KAAYEE
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/deep-sea-octopus-wooden-jigsaw-puzzle-kaayee-puzzle-9913762.jpg?v=1760511802
     Price: $39.99 USD
 - [Resolute Lion Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-lion): Shop Resolute Lion Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-09T08:12:54Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -733,17 +733,17 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-lion?variant=47025971265774)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-lion-wooden-jigsaw-puzzle-kaayee-puzzle-9758695.jpg?v=1760511801
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-lion?variant=47025971298542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-lion-wooden-jigsaw-puzzle-kaayee-puzzle-9758695.jpg?v=1760511801
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-lion?variant=47025971331310)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-lion-wooden-jigsaw-puzzle-kaayee-puzzle-9758695.jpg?v=1760511801
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Resolute Black Panther Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-black-panther): Shop Resolute Black Panther Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-09T08:15:42Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -751,15 +751,15 @@
   - [🧩 Small - Pocket Escape](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-black-panther?variant=47025971429614)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-black-panther-wooden-jigsaw-puzzle-kaayee-puzzle-1360646.jpg?v=1760511801
-    Price: $19.99 USD
+    Price: $16.99 USD
   - [⭐ Medium - Fan Favorite](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-black-panther?variant=47025971462382)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-black-panther-wooden-jigsaw-puzzle-kaayee-puzzle-1360646.jpg?v=1760511801
-    Price: $29.99 USD
+    Price: $24.99 USD
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/wooden-jigsaw-puzzle-resolute-black-panther?variant=47025971495150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-black-panther-wooden-jigsaw-puzzle-kaayee-puzzle-1360646.jpg?v=1760511801
-    Price: $39.99 USD
+    Price: $32.99 USD
 - [Retro Study Room Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/retro-study-room-book-nook-kit): Shop Retro Study Room Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
   Updated: 2026-09-30T01:18:15Z
   Vendor: KAAYEE
@@ -768,7 +768,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/retro-study-room-book-nook-kit-kaayee-puzzle-8023801.png?v=1768949166
   Price: $46.00 USD
 - [Warm Christmas Eve Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-warm-christmas-eve): Shop Warm Christmas Eve Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-07T02:31:42Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -781,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Winter Village Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-winter-village): Shop Winter Village Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-07T02:31:42Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -794,7 +794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Long River Sunset Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-long-river-sunset): Shop Long River Sunset Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -807,7 +807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Valley Village Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-valley-village): Shop Valley Village Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-07T02:31:41Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -820,7 +820,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Moonlit Mountain Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-moonlit-mountain): Shop Moonlit Mountain Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-07T02:31:41Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Sunset Wilderness Path Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-sunset-wilderness-path): Shop Sunset Wilderness Path Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-10T03:00:47Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -846,7 +846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Fantasy Space Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-fantasy-space): Shop Fantasy Space Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:58Z
+  Updated: 2026-10-07T02:31:41Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -859,7 +859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Autumn Forest Sunset Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-autumn-forest-sunset): Shop Autumn Forest Sunset Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:40Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -872,7 +872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Library Dragon Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-library-dragon): Shop Library Dragon Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -885,7 +885,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Halloween Wolf Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-halloween-wolf): Shop Halloween Wolf Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:40Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -898,7 +898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Halloween Castle Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-halloween-castle): Shop Halloween Castle Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:39Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -911,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Christmas Village Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-christmas-village): Shop Christmas Village Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:38Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -924,7 +924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Squirrel's Cozy Corner Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-squirrels-cozy-corner): Shop Squirrel's Cozy Corner Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:38Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -937,7 +937,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Aurora World Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-aurora-world): Shop Aurora World Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:38Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -950,7 +950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Ancient Dragon Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-ancient-dragon): Shop Ancient Dragon Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:38Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -963,7 +963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Witch Owl Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-witch-owl): Shop Witch Owl Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:37Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -976,7 +976,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Dinosaur Park Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-night-light-dinosaur-park): Shop Dinosaur Park Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:31:37Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1066,14 +1066,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/beagle-clock-diy-wooden-puzzle-kaayee-puzzle-9555076.jpg?v=1760511774
   Price: $44.00 USD
 - [Penguin Family Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-diy-penguin-family-clock): Shop Penguin Family Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:28:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/penguin-family-clock-diy-wooden-puzzle-kaayee-puzzle-4929024.jpg?v=1760511774
   Price: $42.00 USD
 - [Blue Dragon Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-diy-blue-dragon-clock): Shop Blue Dragon Wooden Clock Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:47Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1087,28 +1087,28 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/owl-clock-diy-wooden-puzzle-kaayee-puzzle-7069327.jpg?v=1760511773
   Price: $46.00 USD
 - [Maine Coon Cat Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-wooden-puzzle-diy-maine-coon-cat-clock): Shop Maine Coon Cat Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:28:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/maine-coon-cat-clock-diy-wooden-puzzle-kaayee-puzzle-7848198.jpg?v=1760511772
   Price: $42.00 USD
 - [Dragon Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-light-wooden-puzzle-diy-dragon-clock): Shop Dragon Wooden Clock Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/dragon-clock-diy-wooden-puzzle-kaayee-puzzle-9999843.jpg?v=1760511771
   Price: $46.00 USD
 - [Bulldog Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-light-wooden-puzzle-diy-bulldog-clock): Shop Bulldog Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-07T02:28:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bulldog-clock-diy-wooden-puzzle-kaayee-puzzle-7661355.jpg?v=1760511771
   Price: $42.00 USD
 - [Hen Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/3d-light-wooden-puzzle-diy-hen-clock): Shop Hen Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-30T01:18:19Z
+  Updated: 2026-10-07T02:28:22Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1122,21 +1122,21 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/romantic-coffee-shop-book-nook-kit-kaayee-puzzle-6078433.png?v=1768949166
   Price: $46.00 USD
 - [Cat's Coffee House Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/diy-book-nook-kit-cats-coffee-house): Shop Cat's Coffee House Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cats-coffee-house-book-nook-kit-kaayee-puzzle-7799648.png?v=1768949166
   Price: $46.00 USD
 - [Age of Exploration Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/diy-book-nook-kit-age-of-exploration): Shop Age of Exploration Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-09T14:53:45Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/age-of-exploration-book-nook-kit-kaayee-puzzle-3517820.png?v=1768949166
   Price: $46.00 USD
 - [Gothic Castle Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/diy-book-nook-kit-gothic-castle): Shop Gothic Castle Book Nook Kit for only $50.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-30T01:18:06Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1162,14 +1162,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/vintage-study-book-nook-kit-kaayee-puzzle-1735638.png?v=1768949106
   Price: $46.00 USD
 - [Bloom House Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/romantic-flower-house): Shop Bloom House Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-05T10:44:07Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bloom-house-book-nook-kit-kaayee-puzzle-2388668.png?v=1768949106
   Price: $46.00 USD
 - [Retro Train Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/retro-train): Shop Retro Train Book Nook Kit for only $50.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:47Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1195,14 +1195,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/swing-garden-book-nook-kit-kaayee-puzzle-7542727.png?v=1768949106
   Price: $46.00 USD
 - [Colorful Christmas Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/colorful-christmas-book-nook): Shop Colorful Christmas Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:17:59Z
+  Updated: 2026-10-10T03:00:46Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/colorful-christmas-book-nook-kit-kaayee-puzzle-4842692.png?v=1768949047
   Price: $46.00 USD
 - [Scratching Cat Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/scratching-cat-wooden-jigsaw-puzzle): Shop Scratching Cat Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:50Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1217,7 +1217,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Starlight Plants Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/starlight-plants-wooden-jigsaw-puzzle): Shop Starlight Plants Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1232,14 +1232,14 @@
     Availability: Available
     Price: $39.99 USD
 - [Night Light Battery Case - KAAYEE Puzzle](https://kaayee.com/products/night-light-battery-case): Shop Night Light Battery Case for only $10.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:59:00Z
   Vendor: KAAYEE Puzzle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
   Price: $10.00 USD
 - [Mountain View Eagle Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/mountain-view-eagle-wooden-jigsaw-puzzle): Shop Mountain View Eagle Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:58Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1254,7 +1254,7 @@
     Availability: Available
     Price: $39.99 USD
 - [The Tiger Family Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/the-tiger-family-wooden-jigsaw-puzzle): Shop The Tiger Family Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:49Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1269,7 +1269,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Money loves me Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/money-loves-me-wooden-jigsaw-puzzle): Shop Money loves me Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1284,7 +1284,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Best Mom Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/best-mom-wooden-jigsaw-puzzle): Shop Best Mom Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:52Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1299,7 +1299,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Coin Art Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/coin-art-wooden-jigsaw-puzzle): Shop Coin Art Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:59:03Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1314,7 +1314,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Wave Voyager Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wave-voyager-wooden-jigsaw-puzzle): Shop Wave Voyager Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:57Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1329,7 +1329,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Santa Kitty Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/santa-kitty-wooden-jigsaw-puzzle): Shop Santa Kitty Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:34Z
+  Updated: 2026-10-09T19:58:48Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1344,7 +1344,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Fantasy Mountains Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/fantasy-mountains-night-light): Shop Fantasy Mountains Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:57Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1357,7 +1357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Steam Train Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/steam-train-night-light): Shop Steam Train Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1370,7 +1370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Tree of Life Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/tree-of-life-night-light): Shop Tree of Life Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:57Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1383,7 +1383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Love in The Starry Sky Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/love-in-the-starry-sky-night-light): Shop Love in The Starry Sky Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1396,7 +1396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Love of Butterfly Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/love-of-butterfly-night-light): Shop Love of Butterfly Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:57Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1409,7 +1409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/love-of-butterfly-wooden-night-light-kit-kaayee-puzzle-2456657.webp?v=1764154988
     Price: $36.00 USD
 - [Love View Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/love-view-night-light): Shop Love View Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1422,7 +1422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Moonlight over Lotus Pond Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/moonlight-over-lotus-pond-night-light): Shop Moonlight over Lotus Pond Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1435,7 +1435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Moonlit Fate Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/moonlit-fate-night-light): Shop Moonlit Fate Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1448,7 +1448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Mechanical Dragon Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/mechanical-dragon-night-light): Shop Mechanical Dragon Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1461,7 +1461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Gear Dragon Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/gear-dragon-night-light): Shop Gear Dragon Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:59Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1474,7 +1474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Flower Fairy Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/flower-fairy-night-light): Shop Flower Fairy Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1487,7 +1487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Dolphin Paradise Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/dolphin-paradise-night-light): Shop Dolphin Paradise Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1500,7 +1500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Fantasy Flamingo Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/fantasy-flamingo-night-lgiht): Shop Fantasy Flamingo Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1513,7 +1513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Virgin Mary Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/virgin-mary-night-light): Shop Virgin Mary Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1526,7 +1526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [The Nativity Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/the-nativity-night-light): Shop The Nativity Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:57Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1539,7 +1539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Holy MAKKAH Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/holy-makkah-night-light): Shop Holy MAKKAH Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1552,7 +1552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Dazzling Cross Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/dazzling-cross-night-light): Shop Dazzling Cross Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:58Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1565,7 +1565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Cinque Terre Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/cinque-terre-night-light): Shop Cinque Terre Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1578,7 +1578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Tiger Mother and Cub Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/tiger-mother-and-cub-night-light): Shop Tiger Mother and Cub Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:58Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1591,7 +1591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tiger-mother-and-cub-night-light-kaayee-puzzle-8195111.webp?v=1762424476
     Price: $36.00 USD
 - [Star of David Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/star-of-david-night-light): Shop Star of David Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1604,7 +1604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Time of Mother Love Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/time-of-mother-love-night-light): Shop Time of Mother Love Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1617,7 +1617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Brown Bear Family Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/brown-bear-family-night-light): Shop Brown Bear Family Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:44:58Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1630,7 +1630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/brown-bear-family-night-light-kaayee-puzzle-5634806.webp?v=1762424439
     Price: $36.00 USD
 - [Elephants in The Moonlight Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/elephants-in-the-moonlight-night-light): Shop Elephants in The Moonlight Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/elephants-in-the-moonlight-night-light-kaayee-puzzle-8422265.webp?v=1762424438
     Price: $36.00 USD
 - [Moment of Mother Love Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/moment-of-mother-love-night-light): Shop Moment of Mother Love Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1656,7 +1656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/moment-of-mother-love-night-light-kaayee-puzzle-7220839.webp?v=1762424439
     Price: $36.00 USD
 - [Elephant Family Time Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/elephant-family-time-night-light): Shop Elephant Family Time Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1669,7 +1669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/elephant-family-time-night-light-kaayee-puzzle-9776909.webp?v=1762424439
     Price: $36.00 USD
 - [Sleeping Fox Family Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/sleeping-fox-family-night-light): Shop Sleeping Fox Family Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1682,7 +1682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sleeping-fox-family-night-light-kaayee-puzzle-8704592.webp?v=1762424438
     Price: $36.00 USD
 - [Bedtime Stories Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/bedtime-stories-night-light): Shop Bedtime Stories Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:02Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1695,7 +1695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bedtime-stories-night-light-kaayee-puzzle-6861523.webp?v=1762424438
     Price: $36.00 USD
 - [Easter Egg Messenger Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/easter-egg-messenger-night-light): Shop Easter Egg Messenger Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-10T00:45:01Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1708,7 +1708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Easter Egg Adventure Story Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/easter-egg-adventure-story-night-light): Shop Easter Egg Adventure Story Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:28Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1721,7 +1721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Carnations at the Window Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/carnations-at-the-window-night-light): Shop Carnations at the Window Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:27Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1734,7 +1734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/carnations-at-the-window-night-light-kaayee-puzzle-5440772.webp?v=1762424438
     Price: $36.00 USD
 - [Pink Mine Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/pink-mine-night-light): Shop Pink Mine Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:26Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1747,7 +1747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Rabbits by the Stream Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/rabbits-by-the-stream-night-light): Shop Rabbits by the Stream Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:26Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1760,7 +1760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Easter Eggs Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/easter-eggs-night-light): Shop Easter Eggs Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:26Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1773,7 +1773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Tender Lines Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/tender-lines-night-light): Shop Tender Lines Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:26Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1786,7 +1786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tender-lines-night-light-kaayee-puzzle-8268411.webp?v=1762424436
     Price: $36.00 USD
 - [Easter Bunny Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/easter-bunny-night-light): Shop Easter Bunny Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:25Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Rabbit in the Forest Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/rabbit-in-the-forest-night-light): Shop Rabbit in the Forest Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:25Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1812,7 +1812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Colorful Maine Coon Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/colorful-maine-coon-night-light): Shop Colorful Maine Coon Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:25Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1825,7 +1825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/colorful-maine-coon-night-light-kaayee-puzzle-5857736.webp?v=1762424436
     Price: $36.00 USD
 - [Pink Jungle Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/pink-jungle-night-light): Shop Pink Jungle Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:25Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1838,7 +1838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/pink-jungle-night-light-kaayee-puzzle-7272203.webp?v=1762424436
     Price: $36.00 USD
 - [Company Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/company-night-light): Shop Company Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1851,7 +1851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/company-night-light-kaayee-puzzle-7943578.jpg?v=1762424436
     Price: $36.00 USD
 - [Snow Mountain Cabin Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/snow-mountain-cabin-night-light): Shop Snow Mountain Cabin Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1863,7 +1863,7 @@
     Availability: Available
     Price: $36.00 USD
 - [The Statue of Liberty Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/the-statue-of-liberty-night-light): Shop The Statue of Liberty Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1876,7 +1876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/the-statue-of-liberty-night-light-kaayee-puzzle-5307145.png?v=1762424435
     Price: $36.00 USD
 - [Forest Fantasy Wolf Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/forest-fantasy-wolf-night-light): Shop Forest Fantasy Wolf Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:31:23Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1889,7 +1889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/forest-fantasy-wolf-night-light-kaayee-puzzle-6152953.webp?v=1762424435
     Price: $36.00 USD
 - [Forest Fantasy Unicorn Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/forest-fantasy-unicorn-night-light): Shop Forest Fantasy Unicorn Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:10Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1902,7 +1902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/forest-fantasy-unicorn-night-light-kaayee-puzzle-8932888.webp?v=1762424434
     Price: $36.00 USD
 - [Forest Fantasy Deer Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/forest-fantasy-deer-night-light): Shop Forest Fantasy Deer Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:10Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1915,7 +1915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/forest-fantasy-deer-night-light-kaayee-puzzle-8719908.jpg?v=1762424435
     Price: $36.00 USD
 - [Forest Fantasy Whale Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/forest-fantasy-whale-night-light): Shop Forest Fantasy Whale Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:09Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1928,7 +1928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/night-light-battery-case-kaayee-puzzle-4432016.webp?v=1761394439
     Price: $36.00 USD
 - [Forest Fantasy Owl Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/forest-fantasy-owl-night-light): Shop Forest Fantasy Owl Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:09Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1941,7 +1941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/forest-fantasy-owl-night-light-kaayee-puzzle-5179781.jpg?v=1762424438
     Price: $36.00 USD
 - [Dream Castle Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/dream-castle-night-light): Shop Dream Castle Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:09Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1953,7 +1953,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Blooming Story Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/blooming-story-night-light): Shop Blooming Story Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:09Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1966,7 +1966,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/blooming-story-night-light-kaayee-puzzle-8634811.webp?v=1762424435
     Price: $36.00 USD
 - [The Warmth in Winter Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/the-warmth-in-winter-night-light): Shop The Warmth in Winter Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:08Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1979,7 +1979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/the-warmth-in-winter-night-light-kaayee-puzzle-3942057.jpg?v=1762424437
     Price: $36.00 USD
 - [Winter Truck Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/winter-truck-night-light): Shop Winter Truck Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:08Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -1991,7 +1991,7 @@
     Availability: Available
     Price: $36.00 USD
 - [Wonderful Christmas Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/wonderful-christmas-night-light): Shop Wonderful Christmas Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:08Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2004,7 +2004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/wonderful-christmas-night-light-kaayee-puzzle-4482424.webp?v=1762424404
     Price: $36.00 USD
 - [Window Night View Wooden Night Light Kit - KAAYEE Puzzle](https://kaayee.com/products/window-night-view-night-light): Shop Window Night View Wooden Night Light Kit for only $32.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:35Z
+  Updated: 2026-10-07T02:29:08Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2024,21 +2024,21 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cat-detective-wooden-clock-kit-kaayee-puzzle-7700086.webp?v=1762424403
   Price: $46.00 USD
 - [Octopus Monster Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/octopus-monster-wooden-clock-kit): Shop Octopus Monster Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:22Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-monster-wooden-clock-kit-kaayee-puzzle-6989940.webp?v=1762424401
   Price: $42.00 USD
 - [Ballon Cabin Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/ballon-cabin-wooden-clock-kit): Shop Ballon Cabin Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:22Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ballon-cabin-wooden-clock-kit-kaayee-puzzle-7545970.webp?v=1762424401
   Price: $42.00 USD
 - [Flame Flower Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/flame-flower-wooden-clock-kit): Shop Flame Flower Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:22Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2052,7 +2052,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/snowy-christmas-house-wooden-clock-kit-kaayee-puzzle-5233808.webp?v=1762424400
   Price: $44.00 USD
 - [Knight Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/knight-wooden-clock-kit): Shop Knight Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:21Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2080,14 +2080,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flame-phoenix-wooden-clock-kit-kaayee-puzzle-7778163.webp?v=1762424399
   Price: $44.00 USD
 - [Eagle Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/eagle-wooden-clock-kit): Shop Eagle Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:21Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/eagle-wooden-clock-kit-kaayee-puzzle-8065177.webp?v=1762424398
   Price: $42.00 USD
 - [Parrot Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/parrot-wooden-clock-kit): Shop Parrot Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:21Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2108,7 +2108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/snowy-owl-wooden-clock-kit-kaayee-puzzle-6960578.webp?v=1762424398
   Price: $46.00 USD
 - [Raven Wooden Clock Kit - KAAYEE Puzzle](https://kaayee.com/products/raven-wooden-clock-kit): Shop Raven Wooden Clock Kit for only $42.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-07T02:28:21Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
@@ -2241,7 +2241,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Elephant Eden Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/elephant-eden-wooden-jigsaw-puzzle): Shop Elephant Eden Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-05T22:42:15Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2271,7 +2271,7 @@
     Availability: Available
     Price: $39.99 USD
 - [The Cat and Dog Kitchen Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/the-cat-and-dog-kitchen-wooden-jigsaw-puzzle): Shop The Cat and Dog Kitchen Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
+  Updated: 2026-10-05T22:42:16Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2285,102 +2285,24 @@
   - [🎨 Large - Gallery Choice](https://kaayee.com/products/the-cat-and-dog-kitchen-wooden-jigsaw-puzzle?variant=47224511135982)
     Availability: Available
     Price: $39.99 USD
-- [Beyond the Waves Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/beyond-the-waves-wooden-jigsaw-puzzle): Shop Beyond the Waves Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/beyond-the-waves-wooden-jigsaw-puzzle-kaayee-puzzle-9323728.jpg?v=1763474301
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/beyond-the-waves-wooden-jigsaw-puzzle?variant=47224519098606)
-    Availability: Available
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/beyond-the-waves-wooden-jigsaw-puzzle?variant=47224519131374)
-    Availability: Available
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/beyond-the-waves-wooden-jigsaw-puzzle?variant=47224519164142)
-    Availability: Available
-    Price: $39.99 USD
-- [Autumn Forest Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/autumn-forest-wooden-jigsaw-puzzle): Shop Autumn Forest Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/autumn-forest-wooden-jigsaw-puzzle-kaayee-puzzle-4022677.jpg?v=1763474300
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/autumn-forest-wooden-jigsaw-puzzle?variant=47224523849966)
-    Availability: Available
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/autumn-forest-wooden-jigsaw-puzzle?variant=47224523882734)
-    Availability: Available
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/autumn-forest-wooden-jigsaw-puzzle?variant=47224523915502)
-    Availability: Available
-    Price: $39.99 USD
-- [Ocean Waves Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/ocean-waves-wooden-jigsaw-puzzle): Shop Ocean Waves Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ocean-waves-wooden-jigsaw-puzzle-kaayee-puzzle-4319807.jpg?v=1763474301
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/ocean-waves-wooden-jigsaw-puzzle?variant=47224543150318)
-    Availability: Available
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/ocean-waves-wooden-jigsaw-puzzle?variant=47224543183086)
-    Availability: Available
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/ocean-waves-wooden-jigsaw-puzzle?variant=47224543215854)
-    Availability: Available
-    Price: $39.99 USD
-- [Magic Book Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/magic-book-wooden-jigsaw-puzzle): Shop Magic Book Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-10-02T13:19:17Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/magic-book-wooden-jigsaw-puzzle-kaayee-puzzle-3834658.jpg?v=1763554406
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/magic-book-wooden-jigsaw-puzzle?variant=47230782046446)
-    Availability: Available
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/magic-book-wooden-jigsaw-puzzle?variant=47230782079214)
-    Availability: Available
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/magic-book-wooden-jigsaw-puzzle?variant=47230782111982)
-    Availability: Available
-    Price: $39.99 USD
-  - [🏆 Extra Large - Collector’s Edition](https://kaayee.com/products/magic-book-wooden-jigsaw-puzzle?variant=49580604621038)
-    Availability: Available
-    Price: $49.99 USD
-- [Flower Sea House Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/flower-sea-house-wooden-jigsaw-puzzle): Shop Flower Sea House Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-09-29T08:18:36Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flower-sea-house-wooden-jigsaw-puzzle-kaayee-puzzle-2407508.jpg?v=1763554405
-  - [🧩 Small - Pocket Escape](https://kaayee.com/products/flower-sea-house-wooden-jigsaw-puzzle?variant=47230871994606)
-    Availability: Available
-    Price: $19.99 USD
-  - [⭐ Medium - Fan Favorite](https://kaayee.com/products/flower-sea-house-wooden-jigsaw-puzzle?variant=47230872027374)
-    Availability: Available
-    Price: $29.99 USD
-  - [🎨 Large - Gallery Choice](https://kaayee.com/products/flower-sea-house-wooden-jigsaw-puzzle?variant=47230872060142)
-    Availability: Available
-    Price: $39.99 USD
-[List Continued](https://kaayee.com/a/llms-agent/llms.txt?shop=kaayeewood.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDQyMTM1MTIyMTU4LCJsYXN0X3ZhbHVlIjoiOTA0MjEzNTEyMjE1OCJ9)
+[List Continued](https://kaayee.com/a/llms-agent/llms.txt?shop=kaayeewood.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDQxMTQ0NjExMDU0LCJsYXN0X3ZhbHVlIjoiOTA0MTE0NDYxMTA1NCJ9)
 
 ## Collections
 
 - [Book Nook Kit](https://kaayee.com/collections/diy-book-nook-kit): DIY Book Nook Kits – Creative 3D Puzzles for Your Bookshelf. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-10-02T11:24:17Z
+  Updated: 2026-10-05T11:22:53Z
   Total Products: 35
 - [Clock Kit](https://kaayee.com/collections/clock): DIY Wooden Clock Kits – Build Time with Precision & Style. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-09-30T11:25:00Z
+  Updated: 2026-10-04T11:25:26Z
   Total Products: 26
 - [DIY 3D Puzzle Kits](https://kaayee.com/collections/3d-puzzle): DIY 3D Puzzle Kits – Build, Create, and Display. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-10-02T11:24:17Z
+  Updated: 2026-10-05T11:22:53Z
   Total Products: 185
 - [Jigsaw Puzzle](https://kaayee.com/collections/jigsaw-puzzle): Welcome to the KAAYEE Jigsaw Puzzle Collection, where creativity meets craftsmanship. Designed for puzzle enthusiasts, collectors, and families alike, our puzzles transcend traditional gaming to become a mesmerizing sensory experience and a stunning piece of home decor. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 873
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 885
 - [Animal Jigsaw Puzzle](https://kaayee.com/collections/animal-jigsaw-puzzle)
-  Updated: 2026-10-02T11:24:17Z
+  Updated: 2026-10-09T11:22:47Z
   Total Products: 377
 - [Accessories](https://kaayee.com/collections/accessories): Puzzles, wooden puzzles, miniature puzzles accessories
   Updated: 2026-07-09T21:29:38Z
@@ -2389,55 +2311,55 @@
   Updated: 2026-08-28T11:23:47Z
   Total Products: 80
 - [On ](https://kaayee.com/collections/on-)
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 277
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 197
 - [New Arrivals](https://kaayee.com/collections/new-arrivals): Explore the newest arrivals from KAAYEE. From premium laser-cut wooden puzzles and vibrant 1,000-piece art sets to creative DIY acrylic clocks, find your next fresh challenge here. Perfect for mindful relaxation or a unique gift! 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-03T01:00:45Z
-  Total Products: 63
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 64
 - [Best Sellers](https://kaayee.com/collections/best-sellers): Kaayee bestselling wooden craft kits and jigsaw puzzles.
-  Updated: 2026-10-02T23:37:50Z
-  Total Products: 699
+  Updated: 2026-10-10T00:28:58Z
+  Total Products: 724
 - [Miniature House](https://kaayee.com/collections/miniature-house): Kaayee DIY miniature house kit. Free worldwide shipping. Fast delivery. Premuim material. 30-days return. Free part replacement.
   Updated: 2026-08-26T09:07:51Z
   Total Products: 14
 - [Cardboard puzzle](https://kaayee.com/collections/cardboard-puzzle): Explore our premium collection of 500 or 1000-piece cardboard puzzles. Made from high-density, eco-friendly materials, each piece offers a perfect fit and zero puzzle dust—ideal for a relaxing weekend challenge or the perfect gift! 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 161
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 168
 - [Suncatcher Puzzle](https://kaayee.com/collections/suncatcher-puzzle): Discover our unique acrylic suncatcher puzzles—easy to assemble, beautiful to hang, and designed to project magical colorful shadows in the sun. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 154
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 158
 - [Wooden Puzzle](https://kaayee.com/collections/wooden-puzzle): Discover our premium wooden puzzles featuring unique, irregularly shaped pieces and hidden whimsy shapes. Crafted from high-quality, eco-friendly wood, these stunning designs offer a captivating and sensory puzzling experience. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 710
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 715
 - [Diamond Art Suncatcher](https://kaayee.com/collections/diamond-art-suncatcher)
-  Updated: 2026-09-19T11:24:23Z
+  Updated: 2026-10-06T11:24:05Z
   Total Products: 17
 - [DIY Puzzle Clock Kit](https://kaayee.com/collections/diy-puzzle-clock-kit)
-  Updated: 2026-09-14T11:22:54Z
+  Updated: 2026-10-06T11:24:05Z
   Total Products: 41
 - [Tabletop Suncatcher](https://kaayee.com/collections/tabletop-suncatcher)
   Updated: 2026-08-26T09:07:51Z
   Total Products: 4
 - [Art & Scenery Jigsaw Puzzle](https://kaayee.com/collections/art-scenery-jigsaw-puzzle)
-  Updated: 2026-10-02T11:24:17Z
-  Total Products: 376
+  Updated: 2026-10-09T11:22:47Z
+  Total Products: 383
 - [Acrylic Puzzle Night Light](https://kaayee.com/collections/acrylic-puzzle-night-light): Transform your room into a warm, gentle sanctuary. 🌙 This collection features vibrant artwork printed on high-transparency acrylic, paired with natural rubberwood bases. With smooth touch-dimming and dual-color options, these aren't just lamps. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-09-30T11:25:00Z
+  Updated: 2026-10-08T11:21:33Z
   Total Products: 72
 - [Flowers & Birds Suncatchers](https://kaayee.com/collections/flowers-birds-suncatchers): Bring Nature & Light Indoors: Vibrant Flower & Bird Acrylic Suncatcher Puzzles. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-10-02T11:24:17Z
+  Updated: 2026-10-09T11:22:47Z
   Total Products: 22
 - [Acrylic Jigsaw Puzzle Wooden Frame Night Light](https://kaayee.com/collections/acrylic-jigsaw-puzzle-wooden-frame-night-light): Craft, glow, and relax. Discover our Acrylic Jigsaw Puzzle Wooden Frame Night Lights—a unique blend of interactive puzzle fun and warm ambient decor. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-09-30T11:25:00Z
+  Updated: 2026-10-08T11:21:33Z
   Total Products: 44
 - [Christmas Suncatcher Puzzle](https://kaayee.com/collections/christmas-suncatcher-puzzle)
-  Updated: 2026-10-02T11:24:17Z
+  Updated: 2026-10-09T11:22:47Z
   Total Products: 28
 - [Pearl Art Suncatcher](https://kaayee.com/collections/pearl-art-suncatcher)
   Updated: 2026-09-20T11:21:59Z
   Total Products: 14
 - [Wind Chime](https://kaayee.com/collections/wind-chime)
-  Updated: 2026-09-30T11:25:00Z
+  Updated: 2026-10-09T11:22:47Z
   Total Products: 5
 
 ## Blogs
@@ -3207,6 +3129,48 @@
     Author: KAAYEE Puzzle
   - [Unlocking Creative Intrigue with the Emerald Cat 1000-Piece Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/unlocking-creative-intrigue-with-the-emerald-cat-1000-piece-jigsaw-puzzle): Unlocking Creative Intrigue with the Emerald Cat 1000-Piece Jigsaw Puzzle
     Updated: 2026-10-03T00:49:19Z
+    Author: KAAYEE Puzzle
+  - [Solving Challenges in Jigsaw Patching: Expert Tips and Solutions](https://kaayee.com/blogs/puzzle-life/solving-challenges-in-jigsaw-patching-expert-tips-and-solutions): Solving Challenges in Jigsaw Patching: Expert Tips and Solutions
+    Updated: 2026-10-04T00:40:44Z
+    Author: KAAYEE Puzzle
+  - [Capturing Autumn Elegance with the Delight of an Owl Light Suncatcher](https://kaayee.com/blogs/puzzle-life/capturing-autumn-elegance-with-the-delight-of-an-owl-light-suncatcher): Capturing Autumn Elegance with the Delight of an Owl Light Suncatcher
+    Updated: 2026-10-04T00:43:11Z
+    Author: KAAYEE Puzzle
+  - [The Rise of Digital Jigsaw Puzzles: A Technological Shift](https://kaayee.com/blogs/puzzle-life/the-rise-of-digital-jigsaw-puzzles-a-technological-shift): The Rise of Digital Jigsaw Puzzles: A Technological Shift
+    Updated: 2026-10-05T00:41:59Z
+    Author: KAAYEE Puzzle
+  - [Happy Cute Pet Wooden Jigsaw Puzzle: Boosting Mental Stimulation and Joy for Pet Lovers](https://kaayee.com/blogs/puzzle-life/happy-cute-pet-wooden-jigsaw-puzzle-boosting-mental-stimulation-and-joy-for-pet-lovers): Happy Cute Pet Wooden Jigsaw Puzzle: Boosting Mental Stimulation and Joy for Pet Lovers
+    Updated: 2026-10-05T00:44:34Z
+    Author: KAAYEE Puzzle
+  - [How to Choose the Right Size Jigsaw Puzzle for Your Space](https://kaayee.com/blogs/puzzle-life/how-to-choose-the-right-size-jigsaw-puzzle-for-your-space): How to Choose the Right Size Jigsaw Puzzle for Your Space
+    Updated: 2026-10-06T00:44:07Z
+    Author: KAAYEE Puzzle
+  - [Christmas Puzzle Joy: Embrace Festivities with the Highland Cutie Wooden Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/christmas-puzzle-joy-embrace-festivities-with-the-highland-cutie-wooden-jigsaw-puzzle): Christmas Puzzle Joy: Embrace Festivities with the Highland Cutie Wooden Jigsaw Puzzle
+    Updated: 2026-10-06T00:46:47Z
+    Author: KAAYEE Puzzle
+  - [Answering Commonly Asked Questions About Jigsaw Puzzles](https://kaayee.com/blogs/puzzle-life/answering-commonly-asked-questions-about-jigsaw-puzzles): Answering Commonly Asked Questions About Jigsaw Puzzles
+    Updated: 2026-10-07T00:45:54Z
+    Author: KAAYEE Puzzle
+  - [Adding Artistic Flair to Your Space with the Magnolia Cardinal Light Suncatcher Acrylic Window Art](https://kaayee.com/blogs/puzzle-life/adding-artistic-flair-to-your-space-with-the-magnolia-cardinal-light-suncatcher-acrylic-window-art): Adding Artistic Flair to Your Space with the Magnolia Cardinal Light Suncatcher Acrylic Window Art
+    Updated: 2026-10-07T00:48:40Z
+    Author: KAAYEE Puzzle
+  - [A Checklist for Storing and Displaying Completed Jigsaw Puzzles Conveniently](https://kaayee.com/blogs/puzzle-life/a-checklist-for-storing-and-displaying-completed-jigsaw-puzzles-conveniently): A Checklist for Storing and Displaying Completed Jigsaw Puzzles Conveniently
+    Updated: 2026-10-08T00:47:43Z
+    Author: KAAYEE Puzzle
+  - [Discover the Spiritual Beauty of Your Space with the Garden of Holy Light Suncatcher](https://kaayee.com/blogs/puzzle-life/discover-the-spiritual-beauty-of-your-space-with-the-garden-of-holy-light-suncatcher): Discover the Spiritual Beauty of Your Space with the Garden of Holy Light Suncatcher
+    Updated: 2026-10-08T00:50:10Z
+    Author: KAAYEE Puzzle
+  - [Why You Should Make Jigsaw Puzzles a Weekly Habit](https://kaayee.com/blogs/puzzle-life/why-you-should-make-jigsaw-puzzles-a-weekly-habit): Why You Should Make Jigsaw Puzzles a Weekly Habit
+    Updated: 2026-10-09T00:46:34Z
+    Author: KAAYEE Puzzle
+  - [How the Lucky Clover Light Suncatcher Brings Modern Elegance to Your Space](https://kaayee.com/blogs/puzzle-life/how-the-lucky-clover-light-suncatcher-brings-modern-elegance-to-your-space): How the Lucky Clover Light Suncatcher Brings Modern Elegance to Your Space
+    Updated: 2026-10-09T00:49:16Z
+    Author: KAAYEE Puzzle
+  - [Historical Evolution of Jigsaw Puzzles: From Handcrafted to Mass Produced](https://kaayee.com/blogs/puzzle-life/historical-evolution-of-jigsaw-puzzles-from-handcrafted-to-mass-produced): Historical Evolution of Jigsaw Puzzles: From Handcrafted to Mass Produced
+    Updated: 2026-10-10T00:41:10Z
+    Author: KAAYEE Puzzle
+  - [Discover the Serene World of Capybaras with Our Wooden Jigsaw Puzzle Collection](https://kaayee.com/blogs/puzzle-life/discover-the-serene-world-of-capybaras-with-our-wooden-jigsaw-puzzle-collection): Discover the Serene World of Capybaras with Our Wooden Jigsaw Puzzle Collection
+    Updated: 2026-10-10T00:43:33Z
     Author: KAAYEE Puzzle
 
 ## Store Pages
