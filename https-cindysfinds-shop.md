@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-08-09T03:23:04Z
 - Contact Email: mzsk55@icloud.com
-- Updated At: 2026-10-02T13:58:15.936Z
+- Updated At: 2026-10-10T00:00:24.013Z
 
 ## Products
 
 - [The Sierra Satchel - Cindy's Finds](https://cindysfinds.shop/products/the-sierra-satchel): This trendy purse is made of the finest quality goat leather and embellished with running stitches. We offer excellent craftsmanship to ensure uniqueness and
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-04T18:57:16Z
   Vendor: Classy Leather Bags
   Product Type: Crossbody Bags
   Availability: Available
@@ -23,9 +23,9 @@
     Availability: Available
     Price: $69.99 USD
 - [Silicone Strap Apple Watch Bands - Cindy's Finds](https://cindysfinds.shop/products/silicone-strap-apple-watch-bands): Our apple watch bands and apple watch straps are made only with the best materials cos we know you wear your Apple Watch everyday. All apple watch straps are
-  Updated: 2026-10-01T21:46:01Z
+  Updated: 2026-10-07T13:57:29Z
   Vendor: Vogueen
-  Product Type: 
+  Product Type: Watch Bands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/product-image-1647991513.jpg?v=1788212400
   - [Cornflower / 38 or 40 mm M-L](https://cindysfinds.shop/products/silicone-strap-apple-watch-bands?variant=50175394644225)
@@ -229,9 +229,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/product-image-1647991573.jpg?v=1789237313
     Price: $19.90 USD
 - [Eberlestock Fade Sling - Lightweight EDC Bag w/ CCW Pocket - Cindy's](https://cindysfinds.shop/products/eberlestock-fade-sling-lightweight-edc-bag-w-ccw-pocket): Eberlestock Fade Sling – Versatile, Ambidextrous Sling Bag for Everyday Carry Compact and versatile design – The Fade Sling is perfect for carrying full-sized
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-07T13:57:35Z
   Vendor: Atomic Defense
-  Product Type: 
+  Product Type: Sling Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/FS1MO-sqaure_e51b0e29-34e9-478d-8d18-549a649eea6b.webp?v=1789237331
   - [Steel](https://cindysfinds.shop/products/eberlestock-fade-sling-lightweight-edc-bag-w-ccw-pocket?variant=50175397888257)
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/FS1MO-sqaure_e51b0e29-34e9-478d-8d18-549a649eea6b.webp?v=1789237331
     Price: $119.00 USD
 - [The Superior Knit Hat - Cindy's Finds](https://cindysfinds.shop/products/the-superior-knit-hat): The Superior Knit Hat Made in the USA from 100% Merino wool, also sourced domestically, The Superior Knit Hat is built on a design that hasn't needed to change
-  Updated: 2026-10-02T02:07:47Z
+  Updated: 2026-10-09T22:49:28Z
   Vendor: Americana Pipedream Apparel
   Product Type: 
   Availability: Available
@@ -300,13 +300,13 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/OD_Superior_Beanie.jpg?v=1789238169
     Price: $24.99 USD
 - [Superbloom - Sweet Lemon Oolong Green Tea - Cindy's Finds](https://cindysfinds.shop/products/superbloom-sweet-lemon-oolong-green-tea): Tastes Like: iced lemon cookies, basil flowerFeels Like: luxuriating in poppy fields This is a graceful citrus floral tea. It invites you to abandon yourself
-  Updated: 2026-10-02T11:10:16Z
+  Updated: 2026-10-08T11:54:41Z
   Vendor: August Uncommon Tea
   Product Type: Beverages > Teas > Oolong Teas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/1069B50Superbloom15cupbag2020-08InventoryReshoot00106large.jpg?v=1789237359
   - [15 cup bag](https://cindysfinds.shop/products/superbloom-sweet-lemon-oolong-green-tea?variant=50175404998913)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/1069B50Superbloom15cupbag2020-08InventoryReshoot00106large.jpg?v=1789237359
     Price: $14.09 USD
   - [70 cup bag](https://cindysfinds.shop/products/superbloom-sweet-lemon-oolong-green-tea?variant=50175405031681)
@@ -318,7 +318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/1069S_Superbloom_4_cup_delxue_sample_2020-08_Inventory_Reshoot3087_1.jpg?v=1789237363
     Price: $4.99 USD
 - [Anti-Wrinkle Forehead Patches - Cindy's Finds](https://cindysfinds.shop/products/anti-wrinkle-forehead-patches): Deep thoughts, no deep wrinkles! Erase the lines, relax, and smooth your forehead without procedures with Marée® Forehead Wrinkle Patches. The inner hydrogel
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-09T08:31:44Z
   Vendor: Maree
   Product Type: 
   Availability: Available
@@ -336,7 +336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/forehead_patches_3_22_11zon.webp?v=1789237375
     Price: $29.99 USD
 - [Phone Pouch | SYB Stylish Protective Phone Bag](https://cindysfinds.shop/products/phone-pouch): Phone pouch designed to keep your phone protected and conveniently within reach. Shop the stylish SYB phone pouch for everyday use.
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-09T23:58:54Z
   Vendor: Shield Your Body
   Product Type: Mobile Phone Accessories
   Availability: Available
@@ -350,11 +350,11 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/XL_black_primary_1000x1000_20170601.jpg?v=1789237394
     Price: $25.48 USD
   - [Purple / Extra large](https://cindysfinds.shop/products/phone-pouch?variant=50175405261057)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/XL_purple_primary_1000x1000_20170601.jpg?v=1789237388
     Price: $25.48 USD
   - [Blue / Extra large](https://cindysfinds.shop/products/phone-pouch?variant=50175405293825)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/XL_blue_primary_1000x1000_20170601.jpg?v=1789237392
     Price: $25.48 USD
   - [Orange / Extra large](https://cindysfinds.shop/products/phone-pouch?variant=50175405326593)
@@ -370,7 +370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Red_Pouch_w_Phone_1000x1000_20170601.jpg?v=1789237392
     Price: $25.48 USD
 - [Australian Cotton Towels | Umbra Premium Bath Towels](https://cindysfinds.shop/products/australian-cotton-towels): Australian cotton towels designed for a soft, comfortable feel and an elegant bathroom look. Shop Umbra premium towels for everyday use.
-  Updated: 2026-10-01T23:50:57Z
+  Updated: 2026-10-08T12:53:14Z
   Vendor: Italic
   Product Type: Home - Bath
   Availability: Available
@@ -406,7 +406,7 @@
   - [Sage & Ecru / Family Set (Set of 12 with FREE Candle)](https://cindysfinds.shop/products/australian-cotton-towels?variant=50177968603393)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/1x1_A_0cadd80d-ea5e-432d-bdf0-05ff60aa4e38.png?v=1789237408
-    Price: $399.00 USD
+    Price: $379.00 USD
   - [Pink Sand & Ecru / Washcloths (Set of 2)](https://cindysfinds.shop/products/australian-cotton-towels?variant=50289213276417)
     Availability: Not Available
     Price: $34.00 USD
@@ -432,7 +432,7 @@
     Availability: Not Available
     Price: $23.00 USD
 - [Australian Sateen Sheet Set | Luxe Bedding](https://cindysfinds.shop/products/australian-sateen-sheet-set): Australian sateen sheet set with a smooth, elegant finish for a refined and comfortable bedroom. Shop the Luxe collection today.
-  Updated: 2026-10-02T05:03:48Z
+  Updated: 2026-10-09T21:38:22Z
   Vendor: Italic
   Product Type: Home - Bed
   Availability: Available
@@ -638,7 +638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/05.jpg?v=1789237440
     Price: $299.00 USD
 - [20-Piece Flatware Set – Emilia Mirror Cutlery](https://cindysfinds.shop/products/products-20-piece-flatware-set-emilia-mirror): Shop the Emilia 20-Piece Flatware Set with a polished mirror finish, perfect for everyday dining, entertaining, and elegant table settings.
-  Updated: 2026-10-02T10:40:07Z
+  Updated: 2026-10-09T23:46:35Z
   Vendor: Italic
   Product Type: 
   Availability: Available
@@ -652,7 +652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Emilia_Silver_V2.png?v=1789237510
     Price: $99.00 USD
 - [Australian Sateen Bedding – Luxe Bedding Bundle](https://cindysfinds.shop/products/products-australian-sateen-bedding-bundle): Australian Sateen Bedding bundle with a luxurious sateen finish, designed to bring comfort and an elegant look to your bedroom.
-  Updated: 2026-10-02T06:13:16Z
+  Updated: 2026-10-09T22:01:24Z
   Vendor: Italic
   Product Type: Home - Bed
   Availability: Available
@@ -858,7 +858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/da045a8e-9eb8-439b-8a20-5f51a1eec304_bd0758ef-2f54-471d-828f-0cf78d0fa1b4.jpg?v=1789237554
     Price: $489.00 USD
 - [Front Closure Sports Bra – Black Support Bra](https://cindysfinds.shop/products/products-front-closure-sports-bra-black): Front Closure Sports Bra in black with a convenient front closure and supportive fit for workouts, training, fitness, and everyday activewear.
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-09T18:30:06Z
   Vendor: Meadow
   Product Type: Sports Bra
   Availability: Available
@@ -884,44 +884,14 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Hero_Front_Closure_Sports_Bra_Black_Front.png?v=1790187329
     Price: $60.00 USD
 - [Bronzing Drops – Super Serum Silk Face Bronzer](https://cindysfinds.shop/products/products-bronzing-drops-super-serum-silk): Bronzing Drops for a natural sun-kissed glow. Buildable face bronzer adds radiant warmth for a smooth, beautifully bronzed finish.
-  Updated: 2026-10-02T05:55:28Z
+  Updated: 2026-10-08T10:40:38Z
   Vendor: YENSA
   Product Type: Bronzer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/SSSBronzingDrops-Default.jpg?v=1790187332
   Price: $39.00 USD
-- [Dockside Performance Long Sleeve - thewithc](https://cindysfinds.shop/products/dockside-performance-long-sleeve): Black Our Dockside performance long sleeve comes in our Proprietary UV50, 360 Flex Stretch speed dry  - thewithc
-  Updated: 2026-10-01T21:46:00Z
-  Vendor: White Water Life
-  Product Type: long sleeves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-  - [SM](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343376641)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
-  - [MD](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343409409)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
-  - [LG](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343442177)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
-  - [XL](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343474945)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
-  - [XXL](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343507713)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
-  - [XXXL](https://cindysfinds.shop/products/dockside-performance-long-sleeve?variant=50387343540481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/DOCKSIDE_BLACK_LS.webp?v=1790710009
-    Price: $34.99 USD
 - [Freeport Pant Versatile Performance - thewithc](https://cindysfinds.shop/products/freeport-pant-versatile-performance): Tan The Freeport pant is a refined take on everyday permance, lightweight, breathable, and built  - thewithc
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-02T14:18:26Z
   Vendor: White Water Life
   Product Type: Pants
   Availability: Available
@@ -1007,9 +977,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/FREEPORT_PANTS_LB_RED_TOP.png?v=1790710064
     Price: $95.00 USD
 - [Oceanside Pullover Smooth Stretch - thewithc](https://cindysfinds.shop/products/oceanside-pullover-smooth-stretch): Grey Technical midweight performance fabrication. This fabric is soft on  inside and smooth on  - thewithc
-  Updated: 2026-10-01T21:46:00Z
+  Updated: 2026-10-07T14:18:15Z
   Vendor: White Water Life
-  Product Type: 
+  Product Type: Performance Pullover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Oceanside_Grey.jpg?v=1790710080
   - [SM](https://cindysfinds.shop/products/oceanside-pullover-smooth-stretch?variant=50387348586753)
@@ -1041,7 +1011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Oceanside_Grey.jpg?v=1790710080
     Price: $92.00 USD
 - [Ultimate Flex Jogger Sweatpants - thewithc](https://cindysfinds.shop/products/ultimate-flex-jogger-sweatpants): Unlock limitless movement with our Ultimate Flex Joggers. Designed for high-performance comfort,  - thewithc
-  Updated: 2026-10-01T21:46:01Z
+  Updated: 2026-10-09T00:22:42Z
   Vendor: SCR Sportswear
   Product Type: MEN'S JOGGERS SWEATPANTS
   Availability: Available
@@ -1203,7 +1173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/frontcroped.jpg?v=1790710212
     Price: $78.00 USD
 - [All-Day Comfort Hooded Sweatshirt Slim Fit - thewithc](https://cindysfinds.shop/products/all-day-comfort-hooded-sweatshirt-slim-fit): Meet our premium Hooded Full-Zip Sweatshirt, tailored for average and tall men. Combining modern  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-08T17:56:06Z
   Vendor: SCR Sportswear
   Product Type: Men's Athletic-Casual Top Hoodie-K508
   Availability: Available
@@ -1401,7 +1371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/440A9535.jpg?v=1790710281
     Price: $74.00 USD
   - [XL / Regular / Navy](https://cindysfinds.shop/products/all-day-comfort-hooded-sweatshirt-slim-fit?variant=50387352748289)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/T-11508-NV4_copy.jpg?v=1790710268
     Price: $74.00 USD
   - [XL / Tall / Heather Grey](https://cindysfinds.shop/products/all-day-comfort-hooded-sweatshirt-slim-fit?variant=50387352781057)
@@ -1409,7 +1379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/11508-HR-2_copy.jpg?v=1790710254
     Price: $74.00 USD
 - [Pure Organic Cold Pressed Hexane-Free Castor Oil - thewithc](https://cindysfinds.shop/products/pure-organic-cold-pressed-hexane-free-castor-oil): 16 fl oz | 473 ml  8 fl oz | 236 ml  Organic, Hexane-Free, Cold Pressed Castor Oil (Ricinus  - thewithc
-  Updated: 2026-10-02T12:57:33Z
+  Updated: 2026-10-09T23:26:39Z
   Vendor: Pretty farm girl
   Product Type: Castor Oil
   Availability: Available
@@ -1423,42 +1393,49 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Castor_Oil_8oz_PDP.jpg?v=1790710305
     Price: $19.99 USD
 - [Anti-Aging Skincare Routine Essentials Kit - thewithc](https://cindysfinds.shop/products/anti-aging-skincare-routine-essentials-kit): This kit come with 6 items. Farm Girl Cleansing Oil (2oz) Fresh Face Cream Soap Bar (5oz) Rose  - thewithc
-  Updated: 2026-10-02T12:26:29Z
+  Updated: 2026-10-09T11:28:53Z
   Vendor: Pretty farm girl
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Anti_Aging_Kit_PDP.jpg?v=1790710381
   Price: $168.95 USD
+- [Hyaluronic Plumping Serum with Vitamin B5 + Snow Mushroom - thewithc](https://cindysfinds.shop/products/hyaluronic-plumping-serum-with-vitamin-b5-snow-mushroom): Net wt 1 fl oz | 30 ml Serum in a Glass Bottle with Dropper inside a Box - thewithc
+  Updated: 2026-10-09T21:12:43Z
+  Vendor: Pretty farm girl
+  Product Type: Face Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Hyaluronic_Plumping_Serum_PDP.jpg?v=1790710397
+  Price: $38.00 USD
 - [Lymph Love Body Oil for Massage - thewithc](https://cindysfinds.shop/products/lymph-love-body-oil-for-massage): Essential oil + botanical infusion body oil Ingredients: Simmondsia Chinensis (Jojoba) Seed Oil*,  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-09T12:04:56Z
   Vendor: Pretty farm girl
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Lymph_Love_Body_Oil_Pretty_Farm_Girl-1.jpg?v=1790710407
   Price: $49.99 USD
 - [Magnesium Mist Body Spray - thewithc](https://cindysfinds.shop/products/magnesium-mist-body-spray): 4oz glass bottle with spray top Ingredients: Water, Genuine Magnesium Chloride Hexahydrate  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-08T22:57:47Z
   Vendor: Pretty farm girl
   Product Type: Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Magnesium_Mist_Body_Spray_PDP.jpg?v=1790710418
   Price: $24.99 USD
 - [Skin Redness Skincare Routine Kit - thewithc](https://cindysfinds.shop/products/skin-redness-skincare-routine-kit): Clarifying Cleansing Oil  wt 2oz | 59ml Glass Bottle with  Pump Blue Beauty Soap Bar  - thewithc
-  Updated: 2026-10-02T12:39:41Z
+  Updated: 2026-10-08T06:56:44Z
   Vendor: Pretty farm girl
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Skin_Redness_Kit_PDP_a2c95f2c-544f-4616-b4c8-e1e5bfe605d1.jpg?v=1790710425
   Price: $138.95 USD
 - [Radiance Glow Kit - thewithc](https://cindysfinds.shop/products/radiance-glow-kit): Rose Facial Toner (2oz glass bottle with spray top) Fresh Face Cream (Net wt 2 fl oz | 59 ml in a  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-08T01:42:20Z
   Vendor: Pretty farm girl
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Radiance_Glow_Kit_PDP.jpg?v=1790710445
   Price: $85.97 USD
 - [ZIP Hoodie French Terry 4030 - thewithc](https://cindysfinds.shop/products/zip-hoodie-french-terry-4030): Crafted from high-quality French Terry fabric, our zip hoodie offers a soft, luxurious feel that's  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-08T19:25:31Z
   Vendor: SpectraUSA
   Product Type: Fleece
   Availability: Available
@@ -1520,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/4030-_0005s_0000_Red-Heather-Front.jpg?v=1790710466
     Price: $15.75 USD
 - [Zip Hoodie Midweight P2008 - thewithc](https://cindysfinds.shop/products/zip-hoodie-midweight-p2008): Details matter, our P2008 pays close attention with split-stitch double-needle sewing on all seams.  - thewithc
-  Updated: 2026-10-02T07:12:27Z
+  Updated: 2026-10-08T19:25:08Z
   Vendor: SpectraUSA
   Product Type: Fleece
   Availability: Available
@@ -1666,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/Prepared-P2008-Unisex-Full-Zip-Hoodie-CHARCOAL-HEATHER_2048.jpg?v=1790710551
     Price: $27.00 USD
 - [Excel Women's Workout Shorts - thewithc](https://cindysfinds.shop/products/excel-womens-workout-shorts): Built for the athlete who never leaves her game behind. Whether it’s hitting a workout, chasing a  - thewithc
-  Updated: 2026-10-02T08:10:00Z
+  Updated: 2026-10-09T20:57:37Z
   Vendor: Goal Five
   Product Type: Training
   Availability: Available
@@ -1720,7 +1697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/11-11-25GF_Studio109_868c5f4a-7f4b-4ed7-91ab-ce8a70ec1f7f.jpg?v=1790710574
     Price: $59.00 USD
   - [Malachite / S](https://cindysfinds.shop/products/excel-womens-workout-shorts?variant=50387357827329)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/11-11-25GF_Studio109_868c5f4a-7f4b-4ed7-91ab-ce8a70ec1f7f.jpg?v=1790710574
     Price: $59.00 USD
   - [Malachite / M](https://cindysfinds.shop/products/excel-womens-workout-shorts?variant=50387357860097)
@@ -2031,14 +2008,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/purse_full_whiteBCKGRND_2048x2048v2.jpg?v=1790710803
   Price: $96.87 USD
 - [SYB Sling Bag - thewithc](https://cindysfinds.shop/products/syb-sling-bag): The SYB Sling Bag Makes it Safer to Carry Your Stuff. Made with SaferBody™. Laboratory tested for  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-09T22:18:08Z
   Vendor: Shield Your Body
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/bag-primary-1000x1000-20210715.jpg?v=1790710821
   Price: $42.11 USD
 - [SYB Baby Beanie - thewithc](https://cindysfinds.shop/products/syb-baby-beanie): Protect Your Baby’s Brain From EMF Radiation. Made with SaferBody™ Silver 42. Laboratory tested for  - thewithc
-  Updated: 2026-10-01T21:46:02Z
+  Updated: 2026-10-08T14:19:09Z
   Vendor: Shield Your Body
   Product Type: Baby & Toddler Hats
   Availability: Available
@@ -2085,9 +2062,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/blanket_gray_primary_1000x1000_20181005.jpg?v=1790710933
     Price: $126.07 USD
 - [GROINNEYA Cluster Lashes Kit Individual Lashes Volume Mixed Tray 3D](https://cindysfinds.shop/products/groinneya-cluster-lashes-kit-individual-lashes-volume-mixed-tray-3d-faux-mink-lashes-wispy-eyelash-extension-makeup): 【60D+80D+100D Lash Clusters】GROINNEYA Furry Lash Extension Book featuring 10-18mm mixed cluster  - thewithc
-  Updated: 2026-10-01T21:45:47Z
+  Updated: 2026-10-07T14:18:18Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Cluster Lashes Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/62e136730d9edfecbb9aa5958103c741.jpg?v=1790720058
   - [3 Rows-Td01](https://cindysfinds.shop/products/groinneya-cluster-lashes-kit-individual-lashes-volume-mixed-tray-3d-faux-mink-lashes-wispy-eyelash-extension-makeup?variant=50421093236993)
@@ -2131,9 +2108,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/f959ea585c856b26d817750e680a12be.jpg?v=1790720092
     Price: $4.60 USD
 - [200Pcs  Floss and Plastic Toothpicks for One-Time Cleaning of](https://cindysfinds.shop/products/200pcs-dental-floss-and-plastic-toothpicks-for-one-time-cleaning-of-dental-gaps-oral-care): • Efficient Dental Cleaning :These dental floss and plastic toothpicks are perfect for a one-time  - thewithc
-  Updated: 2026-10-01T21:45:47Z
+  Updated: 2026-10-07T14:18:21Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Dental Floss and Toothpicks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/04df5b5d0a0aceb79ac78c1ef7ec0b80.jpg?v=1790718872
   - [1 Bag Of 50 Pieces](https://cindysfinds.shop/products/200pcs-dental-floss-and-plastic-toothpicks-for-one-time-cleaning-of-dental-gaps-oral-care?variant=50421093892353)
@@ -2161,50 +2138,50 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/d173d286324e65d50cd779a045f7da84.jpg?v=1790718894
     Price: $9.96 USD
 - [Women’S 6 Pairs Bamboo Mesh Design Low Cut Non Slip No Show Socks -](https://cindysfinds.shop/products/women-s-6-pairs-bamboo-mesh-design-low-cut-non-slip-no-show-socks): Product description Why choose our no show socks? Natural Bamboo Fiber: High-quality bamboo fiber  - thewithc
-  Updated: 2026-10-01T21:45:48Z
+  Updated: 2026-10-07T14:18:20Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: No Show Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/53743f4630f4439b8b42567b0b85e56c.jpg?v=1790718985
   Price: $16.38 USD
 - [Finer Form Multi-Functional Adjustable FID Weight Bench and Roman](https://cindysfinds.shop/products/finer-form-multi-functional-adjustable-fid-weight-bench-and-roman-chair): Product description The video showcases the product in use.The video guides you through product  - thewithc
-  Updated: 2026-10-01T21:45:48Z
+  Updated: 2026-10-07T14:18:21Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Adjustable Weight Bench
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/907cc5f5c7d8f55901df7d5eae1ff559.jpg?v=1790718972
   Price: $309.58 USD
 - [Kids Watch Fitness Tracker, Fitness Watches for Kids, Activity Tracker](https://cindysfinds.shop/products/kids-watch-fitness-tracker-fitness-watches-for-kids-activity-tracker-with-pedometers-stopwatch-ip68-waterproof-11-sport-modes-smart-watch-for-kids-age-6-16-years-old): Product description Activity Monitoring All Day This fitness tracker takes advanced to provide you  - thewithc
-  Updated: 2026-10-01T21:45:48Z
+  Updated: 2026-10-07T14:18:22Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Kids Fitness Tracker Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/b8f0636bf10db4264381c0e0561ce1d7.jpg?v=1790718997
   Price: $31.84 USD
 - [Biore Deep Pore Charcoal Face Wash for Oily Skin, 11.45 Fl Oz -](https://cindysfinds.shop/products/biore-deep-pore-charcoal-face-wash-for-oily-skin-11-45-fl-oz): Introduce your pores to Biore Deep Pore Charcoal Cleanser for Oily Skin. It purifies pores and  - thewithc
-  Updated: 2026-10-01T21:45:49Z
+  Updated: 2026-10-07T14:18:19Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Facial Cleanser
   Availability: Available
   Price: $13.88 USD
 - [11 Piece Hair Coloring Tool Kit Dye Bowl and Disposable Gloves -](https://cindysfinds.shop/products/11-piece-hair-coloring-tool-kit-dye-bowl-and-disposable-gloves): Package List 11 x hair dyeing tools Characteristics - Size: About 1280X1150X350cm/503X452X138inch  - thewithc
-  Updated: 2026-10-01T21:45:49Z
+  Updated: 2026-10-07T14:18:28Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Hair Coloring Tool Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/443931c3360053c32e97d86a8fba2876.jpg?v=1790719000
   Price: $22.92 USD
 - [[Medicube] NAD+ EGF Firming Serum | NAD+, EGF, Collagen Extract,](https://cindysfinds.shop/products/medicube-nad-egf-firming-serum-nad-egf-collagen-extract-anti-aging-plumping-radiance-boosting-serum-cares-for-look-of-fine-lines-skin-elasticity-firmness-for-youthful-looking-skin-30ml-1-01-fl-oz-korean-skincare-k-beauty): Notice of misleading content misleading content that falsely represents real users or reviews is  - thewithc
-  Updated: 2026-10-01T21:45:49Z
+  Updated: 2026-10-07T14:18:31Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Anti-Aging Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/fc083724f11abad11e4b5de20a5ebb96.jpg?v=1790720629
   Price: $7,599.00 USD
 - [[Medicube] PDRN Pink Collagen Volume Multi Balm | All in One](https://cindysfinds.shop/products/medicube-pdrn-pink-collagen-volume-multi-balm-all-in-one-volufiline-pdrn-nad-stick-for-youthful-looking-helping-look-of-fine-lines-firming-care-anti-aging-care-for-under-eyes-neck-forehead-smile-lines-lip-care-korean-skincare): Notice of misleading content misleading content that falsely represents real users or reviews is  - thewithc
-  Updated: 2026-10-01T21:45:49Z
+  Updated: 2026-10-07T14:18:32Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Multi-Use Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/1d086a7fbc78ee56a67676b40313fb88.jpg?v=1790719414
   - [1Ea](https://cindysfinds.shop/products/medicube-pdrn-pink-collagen-volume-multi-balm-all-in-one-volufiline-pdrn-nad-stick-for-youthful-looking-helping-look-of-fine-lines-firming-care-anti-aging-care-for-under-eyes-neck-forehead-smile-lines-lip-care-korean-skincare?variant=50421107294465)
@@ -2224,9 +2201,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/5336b4d1ded3d327f0144127fef243af.jpg?v=1790719441
     Price: $3,900.00 USD
 - [Hydrating and Moisturizing Lip Mask Set for Men and Women, Comfort and](https://cindysfinds.shop/products/hydrating-and-moisturizing-lip-mask-set-for-men-and-women-comfort-and-non-irritating-lip-mask-various-flavors-lip-): 【Hydrating Formula】: This lip mask set features a specialized hydrating formula designed for  - thewithc
-  Updated: 2026-10-01T21:45:50Z
+  Updated: 2026-10-07T14:18:34Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Lip Mask Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/893a019e398162a0301bb9091fa95fbf.jpg?v=1790719443
   - [Set / 4Pcs/Set](https://cindysfinds.shop/products/hydrating-and-moisturizing-lip-mask-set-for-men-and-women-comfort-and-non-irritating-lip-mask-various-flavors-lip-?variant=50421107458305)
@@ -2254,9 +2231,9 @@
     Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/893a019e398162a0301bb9091fa95fbf.jpg?v=1790719443
     Price: $7.09 USD
 - [Silkané™ Pettine Riscaldante Ceramico Senza Fili - Per Capelli Lisci e](https://cindysfinds.shop/products/silkane™-pettine-riscaldante-ceramico-senza-fili-per-capelli-lisci-e-setosi-ovunque-tu-sia): Esci di casa con i capelli in ordine, finalmente Lo conosce bene quel momento — venti minuti  - thewithc
-  Updated: 2026-10-01T21:45:50Z
+  Updated: 2026-10-07T14:18:33Z
   Vendor: thewithc
-  Product Type: 
+  Product Type: Cordless Ceramic Hair Straightener
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/2907/2897/files/SilkaneWirelessCeramicStraighteningComb.png?v=1790722627
   - [Nero / 50 Di Sconto](https://cindysfinds.shop/products/silkane™-pettine-riscaldante-ceramico-senza-fili-per-capelli-lisci-e-setosi-ovunque-tu-sia?variant=50421222375681)
@@ -2288,22 +2265,22 @@
   Updated: 2026-09-23T18:14:38Z
   Total Products: 0
 - [Bags](https://cindysfinds.shop/collections/bags): Shop our curated collection of bags including crossbody satchels and lightweight EDC slings. Stylish, functional bags for everyday carry.
-  Updated: 2026-10-01T21:45:37Z
+  Updated: 2026-10-07T01:57:28Z
   Total Products: 2
 - [Accessories](https://cindysfinds.shop/collections/accessories): Shop curated accessories including silicone Apple Watch bands, knit hats, and phone pouches. Stylish and functional everyday essentials.
-  Updated: 2026-10-01T21:45:37Z
+  Updated: 2026-10-07T03:00:34Z
   Total Products: 4
 - [Wellness & Beauty](https://cindysfinds.shop/collections/wellness-beauty): Shop wellness and beauty essentials including anti-wrinkle forehead patches and self-care must-haves. Curated for your everyday routine.
-  Updated: 2026-10-01T21:45:37Z
+  Updated: 2026-10-07T04:48:55Z
   Total Products: 1
 - [Home](https://cindysfinds.shop/collections/home): Shop our premium home collection featuring Australian sateen sheets, cotton towels, flatware sets, and bedding bundles for an elevated home.
-  Updated: 2026-10-01T21:45:37Z
+  Updated: 2026-10-08T00:38:46Z
   Total Products: 4
 - [Tea](https://cindysfinds.shop/collections/tea): Shop our curated tea collection featuring sweet lemon oolong and green tea blends. Perfect for your daily wellness ritual.
   Updated: 2026-10-01T21:45:37Z
   Total Products: 1
 - [The Sierra Satchel](https://cindysfinds.shop/collections/the-sierra-satchel): - Cindy's Finds
-  Updated: 2026-10-01T21:45:37Z
+  Updated: 2026-10-07T03:00:34Z
   Total Products: 5
 
 ## Blogs
@@ -2337,7 +2314,7 @@
 - [Privacy Policy](https://cindysfinds.shop/policies/privacy-policy)
   Updated: 2026-09-12T15:20:38-04:00
 - [Refund Policy](https://cindysfinds.shop/policies/refund-policy)
-  Updated: 2026-09-12T15:19:11-04:00
+  Updated: 2026-10-04T17:05:52-04:00
 - [Terms of Service](https://cindysfinds.shop/policies/terms-of-service)
   Updated: 2026-08-31T15:28:57-04:00
 - [Contact Information](https://cindysfinds.shop/policies/contact-information)
