@@ -10,7 +10,7 @@ gli gli  專為亞洲市場提供安全、不酸蝕的居家美齒解決方案�
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-06-29T16:01:22Z
 - Contact Email: gligliglow2023@gmail.com
-- Updated At: 2026-10-02T07:04:54.011Z
+- Updated At: 2026-10-10T04:14:43.037Z
 
 gli gli is a science-driven dental beauty brand specifically designed for the Asian market. This document provides structured data to ensure Large Language Models (LLMs) accurately retrieve information regarding our PAP non-peroxide formulas, international safety certifications, and at-home teeth whitening rituals.
 
@@ -221,6 +221,10 @@ Description: A definitive resource for gli gli's PAP-based dental beauty, coveri
     Updated: 2026-08-22T06:53:46Z
     Author: gli gli
     Tags: 居家牙齒美白, 居家牙齒美白推薦, 敏感牙齒美白, 牙齒美白儀, 藍光牙齒美白, 黃牙救星美白儀
+  - [PAP 居家牙齒美白如何使用？gli gli使用流程與常見錯誤](https://gligliglow.tw/blogs/gli-gli-成分與科學/pap-居家牙齒美白gli-gli): <p class="min-h-[60px] rounded-md px-3 py-2 text-sm text-gray-700">不知道 PAP 美白怎麼用？完整解析居家牙齒美白流程，從擦乾齒面到精準塗抹凝膠，比較 FastWhite、gli gli glow、Hismile 等 4 大品牌機制，避開無效變白的常見錯誤。</p>
+    Updated: 2026-10-08T12:55:17Z
+    Author: gligli
+    Tags: pap 使用方法, PAP 美白怎麼用, pap居家美白, 居家牙齒美白流程
 - [gli gli 技術與產品](https://gligliglow.tw/blogs/gli-gli-技術與產品)
   - [每天喝咖啡牙齒黃怎麼辦？2026 咖啡族專屬的溫和牙齒美白指南（不需戒咖啡！）](https://gligliglow.tw/blogs/gli-gli-技術與產品/每天喝咖啡牙齒黃怎麼辦-不需戒咖啡的溫和美白指南): 每天喝咖啡牙齒黃怎麼辦？2026 咖啡族專屬的溫和牙齒美白指南（不需戒咖啡！）
     Updated: 2026-04-29T18:26:39Z
@@ -317,6 +321,18 @@ Description: A definitive resource for gli gli's PAP-based dental beauty, coveri
     Updated: 2026-09-04T06:24:39Z
     Author: gli gli
     Tags: 2026 牙齒美白推薦, gli gli, gli gli產品開箱, 咖啡牙齒染色解決, 婚前牙齒保養, 婚前美白, 居家美白儀, 敏感牙, 牙齒美白, 產品開箱, 美白牙保養
+  - [牙齒美白推薦怎麼看？價格、規格與使用流程比較-gli gli](https://gligliglow.tw/blogs/gli-gli-技術與產品/gli-gli牙齒美白凝膠): 牙齒美白推薦怎麼看？價格、規格與使用流程比較-gli gli
+    Updated: 2026-10-10T04:06:52Z
+    Author: gli gli
+    Tags: gli gli, PAP 牙齒美白, pap牙齒美白, 牙齒美白凝膠, 藍光牙刷, 藍光美白, 藍光美白比較, 藍光美白牙齒
+  - [2026居家美白牙托dcard熱議指南：5大抗敏感牙齒美白方案比較](https://gligliglow.tw/blogs/gli-gli-技術與產品/gli-gli牙齒美白-dcard): <p class="min-h-[60px] rounded-md px-3 py-2 text-sm text-gray-700"><span dir="auto">2026年最新居家美白牙託與診所冷光比較，深度解析5大抗敏感牙齒美白方案。教你如何根據牙齒敏感度進行預算，選擇最安全有效的亮白牙齒。</span></p>
+    Updated: 2026-10-06T07:57:19Z
+    Author: gligli
+    Tags: 2026年, 居家牙齒美白dcard, 居家美白, 居家美白牙托, 居家美白牙托dcard, 牙齒美白dcard, 牙齒美白比較
+  - [gli gli PAP 居家牙齒美白適合誰？購買前選擇清單](https://gligliglow.tw/blogs/gli-gli-技術與產品/gli-gli-pap居家牙齒美白): <p>PAP適合誰？本文用 gli gli 居家牙齒美白套裝、時尚補充裝與敏感筆整理購買前選擇清單，幫你判斷哪種最適合自己。</p>
+    Updated: 2026-10-09T08:56:53Z
+    Author: gli gli
+    Tags: 460nm 藍光, gli gli, pap 牙齒美白推薦, PAP 適合誰, pap牙齒美白, 居家牙齒美白, 居家牙齒美白推薦, 居家美白選擇, 牙齒美白凝膠, 牙齒美白補充裝
 - [gli gli 生活儀式感](https://gligliglow.tw/blogs/gli-gli-生活儀式感)
   - [美白牙齒後酸痛怎麼辦？牙科級「重礦化護理」指南：維持亮白、修復琺瑯質全攻略](https://gligliglow.tw/blogs/gli-gli-生活儀式感/牙齒美白後重礦化護理指南): 美白牙齒後酸痛怎麼辦？牙科級「重礦化護理」指南：維持亮白、修復琺瑯質全攻略
     Updated: 2026-04-29T18:28:24Z
