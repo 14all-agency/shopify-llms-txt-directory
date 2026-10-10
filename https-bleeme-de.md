@@ -16,13 +16,13 @@ Oberhausen.
 - Timezone: Europe/Berlin
 - Created At: 2025-06-12T13:00:41Z
 - Contact Email: hallo@bleeme.de
-- Updated At: 2026-09-29T07:23:41.524Z
+- Updated At: 2026-10-10T00:00:40.279Z
 
 ## Products
 
-- [Energie Komplex mit B-Vitaminen & Q10 – ENERGY BOOST](https://bleeme.de/products/energie-komplex-vitamin-b-coenzym-q10): Alle B-Vitamine in bioaktiver Form, 12 mg Eisen als Bisglycinat und 50 mg Q10 in einer Kapsel. Eisen trägt zur Verringerung von Müdigkeit und Ermüdung bei. Koffeinfrei.
-  Updated: 2026-09-28T07:22:57Z
-  Vendor: bleeme.™
+- [Vitamin B Komplex hochdosiert + Eisen & Q10 – Energie Komplex](https://bleeme.de/products/energie-komplex-vitamin-b-coenzym-q10): Raus aus dem Nachmittagstief: alle 8 B-Vitamine hochdosiert, 12 mg Eisen als Bisglycinat, Magnesium & Q10 in 1 Kapsel täglich. Koffeinfrei, ab 0,47 € am Tag.
+  Updated: 2026-10-09T11:45:05Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/ENERGY_BOOST-Haupt-Image.jpg?v=1767649050
@@ -38,9 +38,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/ENERGY_BOOST-Multipack-6er.jpg?v=1778463981
     Price: 242,73 € EUR
-- [Immun Komplex: Vitamin D3 2.500 IE & K2 MK-7 – IMMUN STARK](https://bleeme.de/products/immun-komplex-vitamin-d3-k2-vitamin-c): 2.500 IE Vitamin D3, Vitamin K2 als MK-7, 300 mg Vitamin C, Zink und Selen in einer Kapsel täglich. Vier Nährstoffe, die zur normalen Funktion des Immunsystems beitragen.
-  Updated: 2026-09-18T12:33:54Z
-  Vendor: bleeme.™
+- [Vitamin D3 K2 hochdosiert + Zink & Vitamin C – Immun Komplex](https://bleeme.de/products/immun-komplex-vitamin-d3-k2-vitamin-c): Gut durch Herbst & Winter: 2.500 IE Vitamin D3, K2 als MK-7, 300 mg Vitamin C, Zink & Selen in 1 Kapsel täglich. 90 Tage Vorrat, ab 0,37 € am Tag.
+  Updated: 2026-10-09T12:16:11Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/IMMUN_STARK-Haupt-Image.jpg?v=1767649051
@@ -56,9 +56,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/IMMUN_STARK-MULTIPACK-3er.jpg?v=1771003975
     Price: 99,61 € EUR
-- [Hormon Komplex mit Mönchspfeffer & Eisen – FRAUEN BALANCE](https://bleeme.de/products/frauen-hormone-komplex-moenchspfeffer-eisen): Mönchspfeffer-Extrakt 10:1, 20 mg Eisen als Bisglycinat, 25 mg Vitamin B6 und 800 µg Folat als 5-MTHF. Vitamin B6 trägt zur Regulierung der Hormontätigkeit bei.
-  Updated: 2026-09-23T19:08:07Z
-  Vendor: bleeme.™
+- [Mönchspfeffer Kapseln für Zyklus & Wechseljahre – Hormon Komplex](https://bleeme.de/products/frauen-hormone-komplex-moenchspfeffer-eisen): Entspannter durch die Tage vor der Periode und die Perimenopause: Mönchspfeffer, Eisen, B6 & Folat. Vitamin B6 trägt zur Regulierung der Hormontätigkeit bei.
+  Updated: 2026-10-09T12:12:02Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/FRAUEN_BALANCE-Haupt-Image.jpg?v=1767649050
@@ -74,9 +74,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/FRAUEN_BALANCE-MULTIPACK-3er.jpg?v=1770655428
     Price: 113,86 € EUR
-- [Schlaf Komplex mit Melatonin & Magnesium – SCHLAF GUT](https://bleeme.de/products/schlaf-komplex-magnesium-melatonin): 1 mg Melatonin, 160 mg Magnesium als Bisglycinat, Baldrian 4:1, Passionsblume, Hopfen und 150 mg L-Theanin. 2 Kapseln vor dem Schlafengehen. Herstellung in Deutschland.
-  Updated: 2026-09-14T17:59:15Z
-  Vendor: bleeme.™
+- [Magnesium + Melatonin Kapseln – Schlaf Komplex](https://bleeme.de/products/schlaf-komplex-magnesium-melatonin): Schneller einschlafen, ruhig durchschlafen, ausgeruht aufwachen: 1 mg Melatonin + Magnesium-Bisglycinat, Baldrian, Passionsblume & L-Theanin. Made in Germany.
+  Updated: 2026-10-09T11:42:40Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/SCHLAF_GUT-Haupt-Image.jpg?v=1767649050
@@ -92,9 +92,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/SCHLAF_GUT-MULTIPACK-3er.jpg?v=1769040881
     Price: 113,86 € EUR
-- [Stress Komplex mit KSM-66® & L-Theanin – STRESS BALANCE](https://bleeme.de/products/stress-komplex-ashwagandha-ksm-66-l-theanin): 400 mg Ashwagandha KSM-66® mit 20 mg Withanoliden, 300 mg Schisandra 5:1 und 200 mg L-Theanin. Drei Wirkstoffe, nicht sedierend, für die Einnahme am Morgen.
-  Updated: 2026-09-14T19:26:57Z
-  Vendor: bleeme.™
+- [Ashwagandha Kapseln KSM-66® hochdosiert – Stress Komplex](https://bleeme.de/products/stress-komplex-ashwagandha-ksm-66-l-theanin): Gelassen statt gestresst, ohne müde zu werden: 400 mg Ashwagandha KSM-66® mit 20 mg Withanoliden, 200 mg L-Theanin & Schisandra. Für morgens, vegan.
+  Updated: 2026-10-09T12:13:57Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/STRESS_BALANCE-Haupt-Image.jpg?v=1767649050
@@ -110,9 +110,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/STRESS_BALANCE-MULTIPACK-3er.jpg?v=1771003976
     Price: 99,61 € EUR
-- [Entzündungs Komplex mit Curcuma – KÖRPER BALANCE](https://bleeme.de/products/entzuendung-komplex-curcuma-boswellia): 570 mg Curcumin aus auf 95 % standardisiertem Kurkuma-Extrakt, dazu 150 mg Boswelliasäuren, 100 mg Quercetin und 19 mg Piperin für die Aufnahme. 2 Kapseln täglich.
-  Updated: 2026-09-23T19:08:06Z
-  Vendor: bleeme.™
+- [Curcuma & Weihrauch Kapseln hochdosiert – KÖRPER BALANCE](https://bleeme.de/products/entzuendung-komplex-curcuma-boswellia): Leichter in Bewegung: 570 mg Curcumin, 150 mg Boswelliasäuren aus Weihrauch, Quercetin & Piperin – plus Vitamin C für normale Kollagenbildung der Knorpel.
+  Updated: 2026-10-09T12:17:12Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/KORPER_BALANCE-Haupt-Image.jpg?v=1767649051
@@ -128,9 +128,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/KORPER_BALANCE-MULTIPACK-3er.jpg?v=1771003975
     Price: 113,86 € EUR
-- [Zellschutz Komplex: 400 mg OPC & Resveratrol – ANTIOX POWER](https://bleeme.de/products/zellschutz-komplex-opc-vitamin-c): 400 mg OPC aus Traubenkern-Extrakt, 300 mg Vitamin C, 100 mg trans-Resveratrol, Hesperidin und Vitamin E. Vitamin C und E tragen dazu bei, die Zellen vor oxidativem Stress zu schützen.
-  Updated: 2026-09-19T11:04:41Z
-  Vendor: bleeme.™
+- [OPC Kapseln hochdosiert mit Resveratrol – Zellschutz Komplex](https://bleeme.de/products/zellschutz-komplex-opc-vitamin-c): 400 mg OPC aus Traubenkernextrakt (95 %), 100 mg Resveratrol, Vitamin C & E. Vitamin C und E tragen dazu bei, die Zellen vor oxidativem Stress zu schützen.
+  Updated: 2026-10-09T12:18:49Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/ANTIOX_POWER-Haupt-Image.jpg?v=1767649050
@@ -146,9 +146,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/ANTIOX_POWER-MULTIPACK-3er.jpg?v=1771003974
     Price: 99,61 € EUR
-- [Darm Komplex: 13 Bakterienstämme, 30 Mrd. KbE – DARM FLORA](https://bleeme.de/products/darm-flora-probiotika-komplex-30-milliarden): 13 namentlich benannte Bakterienstämme, 30 Milliarden KbE pro Tagesdosis, magensaftresistente Kapseln und 300 mg L-Glutamin. Rezeptur und Herstellung in Deutschland.
-  Updated: 2026-09-21T12:08:22Z
-  Vendor: bleeme.™
+- [Probiotika Kapseln: 13 Stämme, 30 Mrd. KbE – Darm Komplex](https://bleeme.de/products/darm-flora-probiotika-komplex-30-milliarden): Darmflora aufbauen nach Antibiotika oder stressigen Wochen: 13 benannte Bakterienstämme, 30 Mrd. KbE, magensaftresistent, mit L-Glutamin & Zink. Vegan.
+  Updated: 2026-10-09T12:21:38Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/DARM_FLORA-Haupt-Image.jpg?v=1767649050
@@ -164,9 +164,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/DARM_FLORA-MULTIPACK-3er.jpg?v=1771003974
     Price: 113,86 € EUR
-- [Anti-Aging Komplex mit Astaxanthin & Q10 – HAUT GLOW](https://bleeme.de/products/anti-aging-komplex-astaxanthin-coenzym-q10): 12 mg Astaxanthin, 100 mg Coenzym Q10, 20 mg Lycopin, Vitamin E, Zink und Selen. Vitamin E trägt dazu bei, die Zellen vor oxidativem Stress zu schützen. 2 Kapseln täglich.
-  Updated: 2026-09-18T12:34:08Z
-  Vendor: bleeme.™
+- [Astaxanthin Kapseln mit Q10 & Lycopin – Anti-Aging Komplex](https://bleeme.de/products/anti-aging-komplex-astaxanthin-coenzym-q10): Strahlende Haut von innen: Astaxanthin aus der Blutregenalge, 100 mg Q10, Lycopin, Beta-Carotin, Zink & Selen. Zink trägt zur Erhaltung normaler Haut bei.
+  Updated: 2026-10-09T13:50:46Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/HAUT_GLOW-Haupt-Image.jpg?v=1767649050
@@ -182,9 +182,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/HAUT_GLOW-MULTIPACK-3er.jpg?v=1771003975
     Price: 113,86 € EUR
-- [Haar & Nägel Komplex mit Hyaluron & MSM – BEAUTY GLOW](https://bleeme.de/products/haar-naegel-komplex-hyaluron-biotin-msm): 400 mg MSM, 300 mg Hyaluronsäure, 150 mg Silizium, Biotin, Zink und Kupfer. Zink trägt zur Erhaltung normaler Haare, Haut und Nägel bei. 2 Kapseln täglich.
-  Updated: 2026-09-14T13:51:25Z
-  Vendor: bleeme.™
+- [Haar Vitamine: Biotin hochdosiert + Zink – Haar & Nägel Komplex](https://bleeme.de/products/haar-naegel-komplex-hyaluron-biotin-msm): Kräftiges Haar, feste Nägel, frische Haut: 10 mg Biotin, Zink, Kupfer, Silizium, MSM & Hyaluron. Biotin und Zink tragen zur Erhaltung normaler Haare bei.
+  Updated: 2026-10-09T12:24:38Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/BEAUTY_GLOW-Haupt-Image.jpg?v=1767649050
@@ -200,9 +200,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/BEAUTY_GLOW-MULTIPACK-3er.jpg?v=1769040880
     Price: 113,86 € EUR
-- [Männer Komplex mit Maca & KSM-66® – MÄNNER KRAFT](https://bleeme.de/products/maenner-komplex-maca-ashwagandha-ksm-66): 600 mg Ashwagandha KSM-66®, 540 mg Maca-Extrakt 20:1, 480 mg Bockshornklee, 15 mg Zink und 2.000 IE Vitamin D3. Zink trägt zur Erhaltung eines normalen Testosteronspiegels im Blut bei.
-  Updated: 2026-09-14T18:45:39Z
-  Vendor: bleeme.™
+- [Maca Kapseln + Ashwagandha KSM-66® & Zink – Männer Komplex](https://bleeme.de/products/maenner-komplex-maca-ashwagandha-ksm-66): Mehr Antrieb, mehr Power: 540 mg Maca 20:1, 600 mg KSM-66®, Bockshornklee, 15 mg Zink & Vitamin D3. Zink trägt zu einem normalen Testosteronspiegel bei.
+  Updated: 2026-10-09T12:25:55Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/MANNER_KRAFT-Haupt-Image.jpg?v=1767649051
@@ -218,9 +218,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/MANNER_KRAFT-MULTIPACK-3er.jpg?v=1771003975
     Price: 99,61 € EUR
-- [Konzentration & Gedächtnis mit Bacopa & Citicolin – FOKUS KLAR](https://bleeme.de/products/gedaechtnis-komplex-ginkgo-bacopa): Konzentration und Gedächtnis mit 300 mg Bacopa, 240 mg Ginkgo 50:1, 200 mg Citicolin und 200 mg L-Theanin. Koffeinfrei. Rezeptur und Herstellung in Deutschland.
-  Updated: 2026-09-15T07:14:31Z
-  Vendor: bleeme.™
+- [Bacopa + Ginkgo Kapseln mit Citicolin – Konzentration Komplex](https://bleeme.de/products/gedaechtnis-komplex-ginkgo-bacopa): Klar denken, fokussiert bleiben, ohne Koffein: 300 mg Bacopa (20 % Bacoside), 240 mg Ginkgo 50:1, 200 mg Citicolin & L-Theanin. Vegan, Made in Germany.
+  Updated: 2026-10-09T12:27:49Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/FOKUS_KLAR-Haupt-Image.jpg?v=1767649050
@@ -236,9 +236,9 @@ Oberhausen.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/FOKUS_KLAR-MULTIPACK-3er.jpg?v=1771003975
     Price: 113,86 € EUR
-- [Abnehm Komplex mit Mango & Chrom – STOFFWECHSEL BOOST](https://bleeme.de/products/abnehm-komplex-mango-extrakt-chrom): Sieben standardisierte Pflanzenextrakte und 450 µg Chrom, koffeinfrei. Chrom trägt zur Aufrechterhaltung eines normalen Blutzuckerspiegels bei. Herstellung in Deutschland.
-  Updated: 2026-09-14T07:00:55Z
-  Vendor: bleeme.™
+- [Abnehm Kapseln mit Chrom & Mango-Extrakt – Abnehm Komplex](https://bleeme.de/products/abnehm-komplex-mango-extrakt-chrom): Weniger Heißhunger, länger satt: 6 Pflanzenextrakte + 450 µg Chrom, koffeinfrei. Chrom trägt zu einem normalen Blutzuckerspiegel bei. Made in Germany.
+  Updated: 2026-10-09T12:29:49Z
+  Vendor: bleeme.
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/8720/5719/files/STOFFWECHSEL_BOOST-Haupt-Image.jpg?v=1767653025
@@ -258,103 +258,166 @@ Oberhausen.
 ## Collections
 
 - [Bundles](https://bleeme.de/collections/bundles)
-  Updated: 2026-09-13T22:26:36Z
-  Total Products: 0
-- [Alle Produkte](https://bleeme.de/collections/alle-produkte): Das komplette bleeme. Sortiment: Energie, Schlaf, Beauty, Immunsystem & mehr in synergetischen Komplexen. ✓ Eine Kapsel statt vier Präparate ✓ Für jeden Bereich deiner Gesundheit ✓ Jetzt entdecken!
-  Updated: 2026-09-28T11:31:19Z
-  Total Products: 14
-- [Für die Frau](https://bleeme.de/collections/frauengesundheit): Ganzheitliche Frauengesundheit: Hormonbalance, Beauty, Schlaf & Stress-Reduktion in synergetischen Komplexen. ✓ Für jede Lebensphase ✓ Eine Kapsel statt vier Präparate ✓ Jetzt entdecken!
-  Updated: 2026-09-24T11:36:30Z
-  Total Products: 8
-- [Für den Mann](https://bleeme.de/collections/maennergesundheit): Männliche Performance & Regeneration: Kraft, Fokus, Energie & Erholung in einer Kapsel. ✓ Für Sport & Alltag ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-09-28T11:31:19Z
+  Updated: 2026-10-06T14:12:17Z
+  Total Products: 1
+- [Alle Produkte](https://bleeme.de/collections/alle-produkte): Alle bleeme. Komplexe für Energie, Schlaf, Stress, Immunsystem, Frauen & Männer. Hochdosiert, laborgeprüft, Made in Germany. Kombi statt Einzelpräparate.
+  Updated: 2026-10-06T11:33:41Z
+  Total Products: 15
+- [Für die Frau](https://bleeme.de/collections/frauengesundheit): Vitamine für Frauen in jeder Phase: Zyklus, Perimenopause, Energie, Haare & Schlaf. Mit Mönchspfeffer, Eisen & B6 – hormonfrei, hergestellt in Deutschland.
+  Updated: 2026-10-05T05:58:53Z
+  Total Products: 9
+- [Für den Mann](https://bleeme.de/collections/maennergesundheit): Mehr Antrieb, Fokus und Power: Nahrungsergänzungsmittel für Männer mit Zink, Vitamin D3, Maca & KSM-66®. Zink trägt zu einem normalen Testosteronspiegel bei.
+  Updated: 2026-10-04T11:27:42Z
   Total Products: 7
 - [Wirkung & Bedarf](https://bleeme.de/collections/wirkung-bedarf): Finde deine passende Nahrungsergänzung nach Bedarf: Energie, Schlaf, Immunsystem & Hormonbalance. ✓ Gezielt statt pauschal ✓ Für dein individuelles Ziel ✓ Jetzt finden!
-  Updated: 2026-09-28T11:31:19Z
-  Total Products: 14
-- [Immunsystem & Abwehr](https://bleeme.de/collections/immunsystem-abwehr): Starke Abwehrkräfte durch Erkältungszeit & stressige Phasen: mit Inhaltsstoffen für Darmflora & Zellschutz. ✓ Gegen Infektanfälligkeit ✓ Für den Alltag & unterwegs ✓ Jetzt stärken!
-  Updated: 2026-09-24T11:36:30Z
+  Updated: 2026-10-06T11:33:42Z
+  Total Products: 15
+- [Immunsystem & Abwehr](https://bleeme.de/collections/immunsystem-abwehr): Gut durch Herbst & Winter: Vitamin D3 K2 hochdosiert, Vitamin C, Zink & Probiotika. Vitamin D, C und Zink tragen zur normalen Funktion des Immunsystems bei.
+  Updated: 2026-10-04T11:11:13Z
   Total Products: 4
-- [Energie & Leistung](https://bleeme.de/collections/energie-leistung): Mehr Energie & Leistung im Alltag: B-Vitamine, natürliche Fokus-Booster & Stoffwechsel-Aktivatoren. ✓ Gegen Müdigkeit ✓ Für Sport & Beruf ✓ Jetzt testen!
-  Updated: 2026-09-28T11:31:19Z
+- [Energie & Leistung](https://bleeme.de/collections/energie-leistung): Raus aus dem Tief, ohne Koffein: Vitamin B Komplex hochdosiert, Eisen, Q10 & Fokus-Formeln. Vitamin B12 und Eisen tragen zur Verringerung von Müdigkeit bei.
+  Updated: 2026-10-04T11:27:42Z
   Total Products: 5
-- [Schlaf & Regeneration](https://bleeme.de/collections/schlaf-regeneration): Erholsamer Schlaf & echte Regeneration: mit beruhigenden Inhaltsstoffen für Körper & Kopf. ✓ Gegen Ein- & Durchschlafprobleme ✓ Für mehr Erholung ✓ Jetzt ausprobieren!
-  Updated: 2026-09-24T11:36:30Z
+- [Schlaf & Regeneration](https://bleeme.de/collections/schlaf-regeneration): Abschalten, schneller einschlafen, morgens ausgeruht: natürliche Einschlafhilfe mit 1 mg Melatonin, Magnesium, Baldrian & L-Theanin. Jetzt entdecken.
+  Updated: 2026-10-04T11:11:13Z
   Total Products: 4
-- [Beauty & Anti-Aging](https://bleeme.de/collections/beauty-anti-aging): Beauty & Anti-Aging Komplexe für Haut, Haar & Zellschutz: mit hochwertigen Inhaltsstoffen für Kollagenbildung & Haarwachstum. ✓ Gegen Hautalterung ✓ Für volles Haar ✓ Jetzt entdecken!
-  Updated: 2026-09-24T11:36:30Z
+- [Beauty & Anti-Aging](https://bleeme.de/collections/beauty-anti-aging): Kräftiges Haar, feste Nägel, strahlende Haut: Biotin, Zink, Hyaluron, Astaxanthin & Q10. Biotin und Zink tragen zur Erhaltung normaler Haare und Haut bei.
+  Updated: 2026-10-04T11:11:14Z
   Total Products: 4
-- [Bestseller](https://bleeme.de/collections/bestseller): Die meistgekauften bleeme. Komplexe: Energie, Hormonbalance & Anti-Aging in einer Kapsel. ✓ Von tausenden Kund:innen bestätigt ✓ Eine Kapsel statt vier Präparate ✓ Jetzt testen!
-  Updated: 2026-09-28T11:31:19Z
+- [Bestseller](https://bleeme.de/collections/bestseller): Die meistgekauften bleeme. Komplexe: Energie, Frauen Balance, Stress Balance & mehr – hochdosiert, laborgeprüft, hergestellt in Deutschland.
+  Updated: 2026-10-06T14:12:11Z
   Total Products: 8
 - [Ermäßigter Steuersatz](https://bleeme.de/collections/ermassigter-steuersatz)
-  Updated: 2026-09-28T11:31:19Z
+  Updated: 2026-10-07T18:22:53Z
   Total Products: 13
 
 ## Blogs
 
 - [Nährstoffwissen](https://bleeme.de/blogs/naehrstoffe): Nährstoffe verstehen statt raten: welche Formen der Körper aufnimmt, welche Kombinationen sinnvoll sind und woran du einen Mangel erkennst.
   - [Magnesiummangel erkennen: Symptome und Blutwerte](https://bleeme.de/blogs/naehrstoffe/so-erkennst-du-einen-magnesiummangel): Magnesiummangel erkennen: Symptome und Blutwerte
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T03:05:55Z
     Author: bleeme.™ Redaktion
   - [Vitamin D3, K2 und Zink zusammen einnehmen](https://bleeme.de/blogs/naehrstoffe/vitamin-d3-k2-zink-zusammen-einnehmen): Vitamin D3, K2 und Zink zusammen einnehmen
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T03:04:04Z
     Author: bleeme.™ Redaktion
-  - [Magnesiumformen: Bisglycinat, Citrat oder Oxid?](https://bleeme.de/blogs/naehrstoffe/magnesiumformen-vergleich-bisglycinat-citrat-oxid): Magnesiumformen: Bisglycinat, Citrat oder Oxid?
-    Updated: 2026-09-14T07:00:05Z
+  - [Welches Magnesium ist am besten? Formen im Vergleich](https://bleeme.de/blogs/naehrstoffe/magnesiumformen-vergleich-bisglycinat-citrat-oxid): Welches Magnesium ist am besten? Formen im Vergleich
+    Updated: 2026-10-09T03:05:55Z
     Author: bleeme.™ Redaktion
   - [Probiotika: Stammbezeichnung schlägt Keimzahl](https://bleeme.de/blogs/naehrstoffe/probiotika-stammbezeichnung-wichtiger-als-keimzahl): Probiotika: Stammbezeichnung schlägt Keimzahl
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T00:56:55Z
     Author: bleeme.™ Redaktion
   - [Kombipräparat oder Einzelpräparat: was wann?](https://bleeme.de/blogs/naehrstoffe/kombipraeparat-oder-einzelpraeparat): Kombipräparat oder Einzelpräparat: was wann?
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T03:05:55Z
     Author: bleeme.™ Redaktion
   - [Was hilft beim Einschlafen? Der ehrliche Vergleich](https://bleeme.de/blogs/naehrstoffe/was-hilft-beim-einschlafen-melatonin-baldrian-magnesium): Was hilft beim Einschlafen? Der ehrliche Vergleich
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T03:01:56Z
     Author: bleeme.™ Redaktion
   - [Ashwagandha KSM-66: Was das BfR wirklich sagt](https://bleeme.de/blogs/naehrstoffe/ashwagandha-ksm-66-bfr-withanolide-qualitaet): Ashwagandha KSM-66: Was das BfR wirklich sagt
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T00:59:48Z
     Author: bleeme.™ Redaktion
-  - [Eisenmangel erkennen: Ferritin richtig deuten](https://bleeme.de/blogs/naehrstoffe/eisenmangel-ferritin-werte-eisenpraeparate): Eisenmangel erkennen: Ferritin richtig deuten
-    Updated: 2026-09-14T07:00:05Z
+  - [Eisenwerte bei Frauen: Tabelle & Ferritin richtig deuten](https://bleeme.de/blogs/naehrstoffe/eisenmangel-ferritin-werte-eisenpraeparate): Eisenwerte bei Frauen: Tabelle & Ferritin richtig deuten
+    Updated: 2026-10-09T01:01:40Z
     Author: bleeme.™ Redaktion
   - [Haut, Haare & Nägel von innen: was untersucht ist](https://bleeme.de/blogs/naehrstoffe/haut-haare-naegel-naehrstoffe-biotin-zink-silizium): Haut, Haare & Nägel von innen: was untersucht ist
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T01:03:15Z
     Author: bleeme.™ Redaktion
-  - [Antioxidantien: wie Zellschutz wirklich funktioniert](https://bleeme.de/blogs/naehrstoffe/antioxidantien-zellschutz-opc-resveratrol-vitamin-c-e): Antioxidantien: wie Zellschutz wirklich funktioniert
-    Updated: 2026-09-14T07:00:05Z
+  - [Oxidativer Stress & Antioxidantien: so wirkt Zellschutz](https://bleeme.de/blogs/naehrstoffe/antioxidantien-zellschutz-opc-resveratrol-vitamin-c-e): Oxidativer Stress & Antioxidantien: so wirkt Zellschutz
+    Updated: 2026-10-09T01:04:35Z
     Author: bleeme.™ Redaktion
   - [Müdigkeit: wann es an Nährstoffen liegt und wann nicht](https://bleeme.de/blogs/naehrstoffe/muedigkeit-naehrstoffe-b-vitamine-eisen-q10): Müdigkeit: wann es an Nährstoffen liegt und wann nicht
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T03:05:55Z
     Author: bleeme.™ Redaktion
-  - [Curcuma & Bioverfügbarkeit: Piperin, Fett und was zählt](https://bleeme.de/blogs/naehrstoffe/curcuma-bioverfuegbarkeit-piperin-boswellia): Curcuma & Bioverfügbarkeit: Piperin, Fett und was zählt
-    Updated: 2026-09-14T07:00:05Z
+  - [Kurkuma Wirkung & Curcumin-Aufnahme: was belegt ist](https://bleeme.de/blogs/naehrstoffe/curcuma-bioverfuegbarkeit-piperin-boswellia): Kurkuma Wirkung & Curcumin-Aufnahme: was belegt ist
+    Updated: 2026-10-09T01:07:33Z
     Author: bleeme.™ Redaktion
   - [Zyklus & Hormonbalance: Mönchspfeffer, Magnesium, B6](https://bleeme.de/blogs/naehrstoffe/zyklus-hormonbalance-moenchspfeffer-magnesium-b6): Zyklus & Hormonbalance: Mönchspfeffer, Magnesium, B6
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T01:08:58Z
     Author: bleeme.™ Redaktion
   - [Konzentration: Ginkgo, Bacopa, L-Theanin und Citicolin](https://bleeme.de/blogs/naehrstoffe/konzentration-ohne-stimulanzien-ginkgo-bacopa-l-theanin): Konzentration: Ginkgo, Bacopa, L-Theanin und Citicolin
-    Updated: 2026-09-14T19:20:02Z
+    Updated: 2026-10-09T01:10:10Z
     Author: bleeme.™ Redaktion
   - [Heißhunger & Stoffwechsel: was Chrom und Extrakte können](https://bleeme.de/blogs/naehrstoffe/heisshunger-stoffwechsel-chrom-ballaststoffe-pflanzenextrakte): Heißhunger & Stoffwechsel: was Chrom und Extrakte können
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T01:14:24Z
     Author: bleeme.™ Redaktion
   - [Männer: Kraft, Regeneration, Maca, Bockshornklee, Zink](https://bleeme.de/blogs/naehrstoffe/kraft-regeneration-maenner-maca-bockshornklee-zink): Männer: Kraft, Regeneration, Maca, Bockshornklee, Zink
-    Updated: 2026-09-14T07:00:05Z
+    Updated: 2026-10-09T01:13:04Z
+    Author: bleeme.™ Redaktion
+  - [Vitamin-D-Mangel: Symptome, Blutwert & Tagesdosis](https://bleeme.de/blogs/naehrstoffe/vitamin-d-mangel-winter-symptome-blutwert-tagesdosis): Vitamin-D-Mangel: Symptome, Blutwert & Tagesdosis
+    Updated: 2026-10-09T01:15:57Z
+    Author: bleeme.™ Redaktion
+  - [Zinkmangel: Symptome, Zink bei Erkältung & Dosierung](https://bleeme.de/blogs/naehrstoffe/zinkmangel-symptome-zink-erkaeltung-dosierung): Zinkmangel: Symptome, Zink bei Erkältung & Dosierung
+    Updated: 2026-10-09T01:17:17Z
+    Author: bleeme.™ Redaktion
+  - [Immunsystem stärken: was wirklich belegt ist](https://bleeme.de/blogs/naehrstoffe/immunsystem-staerken-was-belegt-ist): Immunsystem stärken: was wirklich belegt ist
+    Updated: 2026-10-09T01:18:46Z
+    Author: bleeme.™ Redaktion
+  - [Stoffwechsel anregen: was wirkt & was Mythos ist](https://bleeme.de/blogs/naehrstoffe/stoffwechsel-anregen-was-wirklich-wirkt): Stoffwechsel anregen: was wirkt & was Mythos ist
+    Updated: 2026-10-09T01:20:03Z
+    Author: bleeme.™ Redaktion
+  - [Abnehmen in den Wechseljahren: was wirklich hilft](https://bleeme.de/blogs/naehrstoffe/abnehmen-wechseljahre-bauchfett-muskeln-was-hilft): Abnehmen in den Wechseljahren: was wirklich hilft
+    Updated: 2026-10-09T01:22:00Z
+    Author: bleeme.™ Redaktion
+  - [Perimenopause: ab wann, Symptome & was hilft](https://bleeme.de/blogs/naehrstoffe/perimenopause-wechseljahre-ab-wann-symptome-muedigkeit): Perimenopause: ab wann, Symptome & was hilft
+    Updated: 2026-10-09T01:23:23Z
+    Author: bleeme.™ Redaktion
+  - [Mönchspfeffer & Yamswurzel in den Wechseljahren](https://bleeme.de/blogs/naehrstoffe/moenchspfeffer-yamswurzel-wechseljahre-studienlage): Mönchspfeffer & Yamswurzel in den Wechseljahren
+    Updated: 2026-10-09T01:24:45Z
+    Author: bleeme.™ Redaktion
+  - [Vitamin-B12-Mangel: Symptome, Blutwert, Lebensmittel](https://bleeme.de/blogs/naehrstoffe/vitamin-b12-mangel-symptome-blutwert-lebensmittel): Vitamin-B12-Mangel: Symptome, Blutwert, Lebensmittel
+    Updated: 2026-10-09T03:05:55Z
+    Author: bleeme.™ Redaktion
+  - [Darmflora aufbauen nach Antibiotika: was hilft](https://bleeme.de/blogs/naehrstoffe/darmflora-aufbauen-nach-antibiotika-probiotika): Darmflora aufbauen nach Antibiotika: was hilft
+    Updated: 2026-10-09T01:27:38Z
+    Author: bleeme.™ Redaktion
+  - [Cortisol senken: was wirklich hilft](https://bleeme.de/blogs/naehrstoffe/cortisol-senken-was-wirklich-hilft): Cortisol senken: was wirklich hilft
+    Updated: 2026-10-09T01:28:57Z
+    Author: bleeme.™ Redaktion
+  - [Haarausfall bei Frauen: Ursachen und was hilft](https://bleeme.de/blogs/naehrstoffe/haarausfall-frauen-ursachen-blutwerte-was-hilft): Haarausfall bei Frauen: Ursachen und was hilft
+    Updated: 2026-10-09T01:31:14Z
+    Author: bleeme.™ Redaktion
+  - [Astaxanthin: Wirkung, Studien & die „Lüge“](https://bleeme.de/blogs/naehrstoffe/astaxanthin-wirkung-studienlage-astaxanthin-luege): Astaxanthin: Wirkung, Studien & die „Lüge“
+    Updated: 2026-10-09T01:32:44Z
+    Author: bleeme.™ Redaktion
+  - [Coenzym Q10: Wirkung, Ubiquinol oder Ubichinon](https://bleeme.de/blogs/naehrstoffe/coenzym-q10-wirkung-ubiquinol-ubichinon): Coenzym Q10: Wirkung, Ubiquinol oder Ubichinon
+    Updated: 2026-10-09T01:34:23Z
+    Author: bleeme.™ Redaktion
+  - [Selen: Wirkung, Mangel, Lebensmittel & Obergrenze](https://bleeme.de/blogs/naehrstoffe/selen-wirkung-mangel-lebensmittel-obergrenze): Selen: Wirkung, Mangel, Lebensmittel & Obergrenze
+    Updated: 2026-10-09T01:35:53Z
+    Author: bleeme.™ Redaktion
+  - [Nährstoffe zusammen einnehmen: was passt, was nicht](https://bleeme.de/blogs/naehrstoffe/naehrstoffe-zusammen-einnehmen-was-passt-was-nicht): Nährstoffe zusammen einnehmen: was passt, was nicht
+    Updated: 2026-10-09T01:37:32Z
+    Author: bleeme.™ Redaktion
+  - [Melatonin: Nebenwirkungen, Dosierung & Überdosis](https://bleeme.de/blogs/naehrstoffe/melatonin-nebenwirkungen-dosierung-ueberdosis): Melatonin: Nebenwirkungen, Dosierung & Überdosis
+    Updated: 2026-10-09T03:05:55Z
+    Author: bleeme.™ Redaktion
+  - [Blähungen: Ursachen und was wirklich hilft](https://bleeme.de/blogs/naehrstoffe/blaehungen-ursachen-was-hilft): Blähungen: Ursachen und was wirklich hilft
+    Updated: 2026-10-09T01:40:42Z
+    Author: bleeme.™ Redaktion
+  - [PMS: Symptome, Ursachen und was hilft](https://bleeme.de/blogs/naehrstoffe/pms-symptome-ursachen-was-hilft): PMS: Symptome, Ursachen und was hilft
+    Updated: 2026-10-09T01:42:21Z
+    Author: bleeme.™ Redaktion
+  - [L-Theanin: Wirkung, Dosierung & grüner Tee](https://bleeme.de/blogs/naehrstoffe/l-theanin-wirkung-dosierung-gruener-tee): L-Theanin: Wirkung, Dosierung & grüner Tee
+    Updated: 2026-10-09T01:43:48Z
+    Author: bleeme.™ Redaktion
+  - [Magnesium + Melatonin: Was die Kombi zum Schlafen bringt](https://bleeme.de/blogs/naehrstoffe/magnesium-melatonin-zusammen-schlafen): Magnesium + Melatonin: Was die Kombi zum Schlafen bringt
+    Updated: 2026-10-09T03:04:47Z
+    Author: bleeme.™ Redaktion
+  - [Vitamin B Komplex hochdosiert: Wirkung & worauf achten](https://bleeme.de/blogs/naehrstoffe/vitamin-b-komplex-hochdosiert-worauf-achten): Vitamin B Komplex hochdosiert: Wirkung & worauf achten
+    Updated: 2026-10-09T03:04:47Z
     Author: bleeme.™ Redaktion
 
 ## Store Pages
 
-- [Kontakt & Kundenservice | BLEEME™](https://bleeme.de/pages/kontakt): 
-  Updated: 2026-09-12T00:44:03Z
-- [bleeme.™ 7 Gründe für Komplexe statt Einzelprodukte](https://bleeme.de/pages/bleeme-7-gruende-fur-komplexe-statt-einzelprodukte): 
-  Updated: 2026-09-10T17:46:54Z
-- [Über bleeme.™ – Nährstoffkomplexe aus Deutschland](https://bleeme.de/pages/ueber-bleeme): Warum bleeme. bleeme.™ ist aus einer einfachen Beobachtung entstanden: Viele Nahrungsergänzungsmittel sind entweder niedrig dosiert, isoliert gedac...
-  Updated: 2026-09-09T22:15:15Z
-- [Häufige Fragen zu Einnahme, Dosierung & Versand | bleeme.™](https://bleeme.de/pages/haeufige-fragen): 
-  Updated: 2026-09-09T18:08:52Z
-- [Zahlungsmethoden](https://bleeme.de/pages/zahlungsmethoden): Bei bleeme.™ bezahlst du mit den gängigen Zahlungsarten – sicher, verschlüsselt und ohne Aufpreis. Welche Optionen dir im Checkout angezeigt werden...
-  Updated: 2026-09-16T08:57:23Z
+- [Kontakt & Kundenservice | bleeme.](https://bleeme.de/pages/kontakt): 
+  Updated: 2026-10-08T11:04:23Z
+- [bleeme. 7 Gründe für Komplexe statt Einzelprodukte](https://bleeme.de/pages/bleeme-7-gruende-fur-komplexe-statt-einzelprodukte): 
+  Updated: 2026-10-04T11:04:18Z
+- [Über bleeme. – Nährstoffkomplexe aus Deutschland](https://bleeme.de/pages/ueber-bleeme): Warum bleeme. bleeme. ist aus einer einfachen Beobachtung entstanden: Viele Nahrungsergänzungsmittel sind entweder niedrig dosiert, isoliert gedach...
+  Updated: 2026-10-08T11:14:15Z
+- [Häufige Fragen zu Einnahme, Dosierung & Versand | bleeme.](https://bleeme.de/pages/haeufige-fragen): 
+  Updated: 2026-10-04T11:04:11Z
+- [Zahlungsmethoden](https://bleeme.de/pages/zahlungsmethoden): Bei bleeme. bezahlst du mit den gängigen Zahlungsarten – sicher, verschlüsselt und ohne Aufpreis. Welche Optionen dir im Checkout angezeigt werden,...
+  Updated: 2026-10-04T11:04:43Z
 - [Vertrag widerrufen](https://bleeme.de/pages/vertrag-widerrufen): Hier kannst du deinen Vertrag widerrufen. Wir bestätigen dir den Eingang unverzüglich per E-Mail. Die Angaben brauchen wir nur, um deine Bestellung...
   Updated: 2026-09-17T21:47:48Z
 
