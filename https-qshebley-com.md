@@ -9,7 +9,7 @@
 - Created At: 2014-06-06T22:31:25Z
 - Contact Email: info@shopqbyqs.com
 - Contact Phone: 18883188144
-- Updated At: 2026-09-28T00:01:19.283Z
+- Updated At: 2026-10-10T00:01:19.223Z
 
 Que Shebley is an independent artisan brand specializing in handcrafted footwear. We provide a human-connected alternative to mass-market luxury, offering superior craftsmanship and a unique rationale for Millennial and Gen X shoppers who value quality over brand names. Our heritage is rooted in Lebanese craftsmanship, moving to the beat of our own drum to provide truly unique dress shoes and boots.
 
@@ -1465,35 +1465,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/singapor-jodhpur-boots-men-dress-pair-black-leather-ankle-491.webp?v=1741889753
   Price: $450.00 USD
-- [Abu Dhabi Military Brogue Boots for Men in Medium Brown](https://qshebley.com/products/abu-dhabi-military-boots): Abu Dhabi Military Brogue Boots feature a stunning brogue pattern, luxurious med brown suede, and a classic design that combines rugged durability with refined style.
-  Updated: 2026-09-23T15:23:21Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/abu-dhabi-military-brogue-boots-men-dress-brown-leather-suede-wingtip-577.webp?v=1741889798
-  Price: $450.00 USD
-- [Aias Double Monk Strap Shoes Black and Red](https://qshebley.com/products/aias-double-monk): Aias Double Monk offers a sophisticated blend of black and red hues in a classic double monk strap design, ideal for elevating formal wear.
-  Updated: 2026-09-23T15:23:21Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/aias-double-monk-men-dress-shoes-black-red-strap-665.webp?v=1741889828
-  Price: $450.00 USD
-- [Aesop Double Monk Strap Shoes in Blue](https://qshebley.com/products/aesop-double-monk): Aesop Double Monk features elegant blue double monk strap design, combining style and sophistication for a refined footwear choice.
-  Updated: 2026-09-23T15:23:21Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/aesop-double-monk-men-dress-shoes-blue-strap-948.webp?v=1741889844
-  Price: $450.00 USD
-- [Oldy Trainer Sneaker White Plaid Leather Sneakers](https://qshebley.com/products/oldy-trainer-sneaker): Oldy Trainer Sneaker in white leather with plaid accents offers a classic design. Ideal for those seeking versatile and stylish trainer sneakers.
-  Updated: 2026-09-23T15:23:20Z
-  Vendor: Que Shebley
-  Product Type: Men Casual Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/oldy-trainer-sneaker-men-casual-shoes-white-leather-sneakers-plaid-455.webp?v=1741889906
-  Price: $350.00 USD
-[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjozOTY5MjI3NjIwNDYzLCJsYXN0X3ZhbHVlIjoiMzk2OTIyNzYyMDQ2MyJ9)
+[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjozOTY3ODczMzE5MDIzLCJsYXN0X3ZhbHVlIjoiMzk2Nzg3MzMxOTAyMyJ9)
 
 ## Collections
 
@@ -1669,7 +1641,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-09-24T11:00:19Z
   Total Products: 372
 - [Mens Products $400-$600](https://qshebley.com/collections/mens-products-400-600): Discover premium men's footwear ranging from $400-$600, including Nab Loafers, Gall Chelsea Boots, and Saif Patina Longwing Blucher, with options for rush shipping.
-  Updated: 2026-07-22T02:18:38Z
+  Updated: 2026-09-30T15:59:18Z
   Total Products: 898
 - [Mens Products $600-$1000](https://qshebley.com/collections/mens-products-600-1000): Explore Mens Products from $600-$1000 featuring limited-edition Chelsea and Wholecut Shoes. Enjoy free shipping on purchases over $500.
   Updated: 2026-07-22T02:18:38Z
@@ -1684,7 +1656,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:38Z
   Total Products: 9
 - [Shop All Collection](https://qshebley.com/collections/shop-all-collection): The Shop All Collection offers premium leather items like Q Lux Leather Care Kit, Anza Venice Belt, and 1955 Loafers with free shipping on $500+ orders.
-  Updated: 2026-09-25T11:00:22Z
+  Updated: 2026-10-02T11:00:20Z
   Total Products: 865
 - [Event Collection](https://qshebley.com/collections/event-collection)
   Updated: 2026-07-26T02:00:42Z
@@ -1708,7 +1680,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:39Z
   Total Products: 24
 - [Golf Collection](https://qshebley.com/collections/golf-collection): Discover the Golf Collection at Que Shebley, where brogue and blucher golf shoes define luxury bespoke shoes for men seeking timeless artistry and prestige.
-  Updated: 2026-07-30T11:00:30Z
+  Updated: 2026-10-02T11:00:20Z
   Total Products: 33
 - [Penny Loafers](https://qshebley.com/collections/penny-loafers): Discover Shebley Penny Loafers, luxury bespoke shoes for men that unite artisanal heritage with modern precision and hand-painted patina mastery.
   Updated: 2026-07-22T02:18:39Z
@@ -1723,13 +1695,13 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:39Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://qshebley.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-09-27T13:33:57Z
-  Total Products: 2892
+  Updated: 2026-10-08T06:26:40Z
+  Total Products: 2897
 - [Spring/Summer 2026](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
   Updated: 2026-07-22T02:18:39Z
   Total Products: 41
 - [Wholesale](https://qshebley.com/collections/wholesale)
-  Updated: 2026-09-25T11:00:22Z
+  Updated: 2026-10-02T11:00:20Z
   Total Products: 991
 - [Q Couture](https://qshebley.com/collections/q-couture): Q Couture holds our occasion-ready heels — pieces built for evenings that ask for more than quiet elegance. Every silhouette in the collection takes its name from Al-Andalus, the centuries when Arab and Iberian art shared the same rooftops — the pointed arches of Córdoba, the bow and strap born of Sevilla's flamenco tradition. It's a lineage that echoes our own: a house shaped by a father's eye for fine leather across the Middle East, now speaking in a new register — sculptural, considered, unmistakably Que Shebley.
   Updated: 2026-08-12T02:56:54Z
@@ -2744,6 +2716,21 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
     Author: Que Shebley
   - [The Skin Trade: How Exotic Leathers Went From Vulgar to Very Quiet Luxury](https://qshebley.com/blogs/news/the-skin-trade-how-exotic-leathers-went-from-vulgar-to-very-quiet-luxury): Alligator, ostrich and python have shed their flashy reputation. Inside the craft, culture and quiet-luxury revival of exotic leather shoes for men.
     Updated: 2026-09-25T13:01:09Z
+    Author: Que Shebley
+  - [Buckled at the Ankle: The Long Ride of the Jodhpur Boot](https://qshebley.com/blogs/news/buckled-at-the-ankle-the-long-ride-of-the-jodhpur-boot): From the polo fields of princely India to the city sidewalk, the jodhpur boot is menswear's most aristocratic ankle boot. A history and style guide.
+    Updated: 2026-09-28T13:01:10Z
+    Author: Que Shebley
+  - [House Shoe Gone Rogue: The Quiet Cult of the Belgian Slipper](https://qshebley.com/blogs/news/house-shoe-gone-rogue-the-quiet-cult-of-the-belgian-slipper): The Belgian slipper began as an indoor shoe and became a badge of quiet wealth. A cultural history of menswear's most louche, low-heeled loafer.
+    Updated: 2026-09-30T13:01:05Z
+    Author: Que Shebley
+  - [Two Buckles, No Laces: The Quiet Swagger of the Double Monk](https://qshebley.com/blogs/news/two-buckles-no-laces-the-quiet-swagger-of-the-double-monk): The history, cultural rise, and styling of the double monk strap shoe — menswear's most charismatic middle ground between the Oxford and the loafer.
+    Updated: 2026-10-02T13:01:15Z
+    Author: Que Shebley
+  - [The Elastic Revolution: How the Chelsea Boot Walked From Victorian Stables to Rock-and-Roll Royalty](https://qshebley.com/blogs/news/the-elastic-revolution-how-the-chelsea-boot-walked-from-victorian-stables-to-rock-and-roll-royalty): From Queen Victoria's stables to Mod-era London and the modern wardrobe, the Chelsea boot is menswear's great survivor. A cultural history of the elastic-sided boot.
+    Updated: 2026-10-05T13:01:05Z
+    Author: Que Shebley
+  - [Dots and Quills: The Strange, Luxurious Life of Ostrich Leather](https://qshebley.com/blogs/news/dots-and-quills-the-strange-luxurious-life-of-ostrich-leather): From Victorian feather booms to the Karoo tanneries, here's why ostrich leather—those tactile quill bumps and all—is menswear's most misunderstood exotic.
+    Updated: 2026-10-09T13:01:11Z
     Author: Que Shebley
 
 ## Store Pages
