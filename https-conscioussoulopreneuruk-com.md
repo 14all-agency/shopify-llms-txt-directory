@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2026-07-29T02:11:14Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-09-29T00:00:32.017Z
+- Updated At: 2026-10-10T00:00:35.534Z
 
 Conscious Soulopreneur UK is an online bookstore specialising in self-discovery and spiritual philosophy books published in English and Spanish. Our curated collection guides readers on transformative journeys of inner growth, mindfulness, and conscious living. We serve a global audience with a focus on English and Spanish-speaking markets.
 
