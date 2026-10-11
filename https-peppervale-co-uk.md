@@ -6,1898 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-10-03T00:00:51.317Z
+- Updated At: 2026-10-11T00:00:50.236Z
 
 ## Products
 
-- [Mock Neck Micro Modal Top](https://peppervale.co.uk/products/mock-neck-micro-modal-top): Women's Mock Neck Micro Modal Top – Ribbed Half Sleeve Elevate your wardrobe with our Mock Neck T-Shirt, a chic and versatile essential that combines elegance with everyday comfort. Crafted from a premium ribbed fabric made of 94% TENCEL™ Modal and 6% Elastane in Portugal, this t-shirt offers exceptional softness, breathability, and a gentle stretch for all-day wear. The refined mock neck design adds a sophisticated touch, making it perfect for layering under blazers and cardigans or wearing as a statement piece. Thoughtfully designed with a flattering fit and irritation-free branded hem labels, this t-shirt is a timeless addition to any outfit. Style it with tailored trousers for the office, pair with jeans for weekend wear, or layer it for transitional weather. It seamlessly transitions from day to night. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-09-18T21:19:05Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Half Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-  - [Cream / XS](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903804741)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-    Price: £70.42 GBP
-  - [Cream / S](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903837509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-    Price: £70.42 GBP
-  - [Cream / M](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903870277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-    Price: £70.42 GBP
-  - [Cream / L](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903903045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-    Price: £70.42 GBP
-  - [Cream / XL](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903935813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_mock_neck_top.webp?v=1786020260
-    Price: £70.42 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785903968581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_navy_ribbed_mock_neck_top.jpg?v=1786020258
-    Price: £70.42 GBP
-  - [Navy / S](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904001349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_navy_ribbed_mock_neck_top.jpg?v=1786020258
-    Price: £70.42 GBP
-  - [Navy / M](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904034117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_navy_ribbed_mock_neck_top.jpg?v=1786020258
-    Price: £70.42 GBP
-  - [Navy / L](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904066885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_navy_ribbed_mock_neck_top.jpg?v=1786020258
-    Price: £70.42 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904099653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_navy_ribbed_mock_neck_top.jpg?v=1786020258
-    Price: £70.42 GBP
-  - [Black / XS](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904132421)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
-    Price: £70.42 GBP
-  - [Black / S](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904165189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
-    Price: £70.42 GBP
-  - [Black / M](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904197957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
-    Price: £70.42 GBP
-  - [Black / L](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904230725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
-    Price: £70.42 GBP
-  - [Black / XL](https://peppervale.co.uk/products/mock-neck-micro-modal-top?variant=58785904263493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/MockNeckBlack_LavanderHill_0003.webp?v=1786020259
-    Price: £70.42 GBP
-- [Striped Cotton Roll Neck](https://peppervale.co.uk/products/striped-cotton-roll-neck): Women's Striped Cotton Roll Neck – Long Sleeve Effortlessly stylish and timeless, our Striped Cotton Polo Neck is the long-sleeve version of our popular sleeveless style. Crafted from a lightweight and breathable cotton blend in Portugal, this top features a chic striped pattern and a sophisticated polo neck design. Perfect for cooler weather, the long sleeves add warmth while maintaining a sleek and polished look. Designed with comfort and versatility in mind, this top is ideal for layering under blazers or coats, or wearing as a standalone statement piece. Style it with tailored trousers for work, pair with jeans for weekend wear, or layer it for transitional weather. The flattering fit and irritation-free branded hem labels ensure all-day comfort and practicality. Available in UK sizes 8-14. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-10-02T09:16:09Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-  - [Dark Red / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663432517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Red_navy_striped_long_sleeve_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Dark Red / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663465285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Red_navy_striped_long_sleeve_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Dark Red / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663498053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Red_navy_striped_long_sleeve_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Dark Red / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663530821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Red_navy_striped_long_sleeve_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Dark Red / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663563589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Red_navy_striped_long_sleeve_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Birch / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663596357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_roll_neck_top_in_cinnamon_white.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Birch / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663629125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_roll_neck_top_in_cinnamon_white.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Birch / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663661893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_roll_neck_top_in_cinnamon_white.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Birch / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663694661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_roll_neck_top_in_cinnamon_white.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Birch / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663727429)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_roll_neck_top_in_cinnamon_white.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663760197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/StripeRollNeck_3710_LavenderHill_25.08.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Navy / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663792965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/StripeRollNeck_3710_LavenderHill_25.08.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Navy / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663825733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/StripeRollNeck_3710_LavenderHill_25.08.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Navy / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663858501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/StripeRollNeck_3710_LavenderHill_25.08.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663891269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/StripeRollNeck_3710_LavenderHill_25.08.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Violet / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663924037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Blue_black_striped_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Violet / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663956805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Blue_black_striped_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Violet / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786663989573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Blue_black_striped_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Violet / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664022341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Blue_black_striped_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Violet / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664055109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Blue_black_striped_roll_neck_top.webp?v=1786024243
-    Price: £70.42 GBP
-  - [Royal Blue / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664087877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Royal_Blue_Black_Roll_Neck_Top.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Royal Blue / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664120645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Royal_Blue_Black_Roll_Neck_Top.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Royal Blue / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664153413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Royal_Blue_Black_Roll_Neck_Top.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Royal Blue / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664186181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Royal_Blue_Black_Roll_Neck_Top.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Royal Blue / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664218949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Royal_Blue_Black_Roll_Neck_Top.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Yellow / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664251717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-    Price: £70.42 GBP
-  - [Yellow / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664284485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-    Price: £70.42 GBP
-  - [Yellow / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664317253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-    Price: £70.42 GBP
-  - [Yellow / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664350021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-    Price: £70.42 GBP
-  - [Yellow / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664382789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Yellow_Striped_Top.jpg?v=1786024242
-    Price: £70.42 GBP
-  - [Red / XS](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664415557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Red / S](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664448325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Red / M](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664481093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Red / L](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664513861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
-    Price: £70.42 GBP
-  - [Red / XL](https://peppervale.co.uk/products/striped-cotton-roll-neck?variant=58786664546629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Roll_Neck_Cotton_Lavender_Hill_Boat.webp?v=1786024242
-    Price: £70.42 GBP
-- [Supima Cotton Crew Neck T-Shirt](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt): Premium Supima Cotton Crew Neck T-Shirt for Women Effortlessly airy and elegantly understated, our Supima Cotton Crew Neck T-Shirt is designed with summer in mind. Crafted from premium, breathable Supima cotton, it features a loose, A-line silhouette that drapes softly for maximum comfort in warmer weather—perfect for summer travel, everyday wear, or layering under blazers and cardigans. Delicate stitch detailing around the neckline, sleeves and hem adds a thoughtful touch of texture, while the slightly extended sleeve length offers flattering, breezy coverage. Lightweight yet non-sheer—even in white—this tee is the perfect elevated basic for relaxed summer dressing and pairs beautifully with jeans, tailored trousers, or skirts. Available in UK sizes 8-18. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-09-18T21:19:05Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Crew Neck T-shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-  - [White / XS](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt?variant=58786700689733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-    Price: £59.58 GBP
-  - [White / S](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt?variant=58786700722501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-    Price: £59.58 GBP
-  - [White / M](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt?variant=58786700755269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-    Price: £59.58 GBP
-  - [White / L](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt?variant=58786700788037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-    Price: £59.58 GBP
-  - [White / XL](https://peppervale.co.uk/products/supima-cotton-crew-neck-t-shirt?variant=58786700820805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Supima_Cotton_White_Crew_Neck_Top.webp?v=1786024589
-    Price: £59.58 GBP
-- [Sleeveless Micro Modal Vest Top](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top): Simplify your wardrobe with our Women's Sleeveless Vest Top, a lightweight and versatile essential for any season. Crafted from sustainably sourced micro modal fabric in Portugal, this vest top offers a silky, second-skin feel that is luxuriously soft, breathable, and perfect for layering or wearing on its own during warmer days. The sleeveless design and classic scoop neckline create a flattering silhouette that complements every outfit. Thoughtfully designed for comfort and practicality, this vest top features irritation-free branded hem labels and a tailored fit that moves effortlessly with you. The thermal and heat-regulating properties make it ideal as a base layer. Whether paired with jeans, shorts, layered under knitwear and blazers, or worn solo, it's a timeless addition to your collection. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-29T15:26:50Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Sleeveless Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-  - [White / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114189125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [White / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114221893)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [White / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114254661)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [White / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114287429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [White / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114320197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [White / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114352965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WhiteVestandhipsterpants.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114385733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114418501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114451269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114484037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114516805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114549573)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensBlackScoopNeckVestTop_LavenderHill.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114582341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114615109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114647877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114680645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114713413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114746181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Ladiessoftvesttop-asfeaturedintheTelegraph.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114778949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114811717)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114844485)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114877253)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114910021)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Taupe / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114942789)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurytaupevesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787114975557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115008325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115041093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115073861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115106629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Silver / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115139397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensluxurygreyvesttop_jpg.webp?v=1786027873
-    Price: £48.75 GBP
-  - [Peach Puff / XS](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115172165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-  - [Peach Puff / S](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115204933)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-  - [Peach Puff / M](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115237701)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-  - [Peach Puff / L](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115270469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-  - [Peach Puff / XL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115303237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-  - [Peach Puff / XXL](https://peppervale.co.uk/products/sleeveless-micro-modal-vest-top?variant=58787115336005)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnudesleevelessvest.webp?v=1786027872
-    Price: £48.75 GBP
-- [High Neck Tank](https://peppervale.co.uk/products/high-neck-tank): Women's High Neck Tank Top – TENCEL™ Lyocell Redefine comfort and style with our High Neck Tank Top, the perfect base layer for every wardrobe. Crafted from sustainably sourced TENCEL™ Lyocell in Portugal, this ribbed high neck tank top offers natural antibacterial properties, exceptional breathability, and a luxuriously soft feel. Designed for practicality and versatility, it's an essential piece for layering under blazers, cardigans, and jumpers, or wearing solo during warmer days. Thoughtfully made with branded hem labels that provide irritation-free comfort, you can enjoy all-day wear without distractions. Style it with tailored trousers for work, pair with jeans for casual weekends, or layer it for transitional weather. A true wardrobe essential. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-09-18T21:19:05Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Sleeveless Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-  - [Black / XS](https://peppervale.co.uk/products/high-neck-tank?variant=58787128443205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-    Price: £37.92 GBP
-  - [Black / S](https://peppervale.co.uk/products/high-neck-tank?variant=58787128475973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-    Price: £37.92 GBP
-  - [Black / M](https://peppervale.co.uk/products/high-neck-tank?variant=58787128508741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-    Price: £37.92 GBP
-  - [Black / L](https://peppervale.co.uk/products/high-neck-tank?variant=58787128541509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-    Price: £37.92 GBP
-  - [Off White / XS](https://peppervale.co.uk/products/high-neck-tank?variant=58787128574277)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensHighNeckWhiteTankTop_41cebc4c-5e4f-445d-b87c-2ac59aaf08f4.webp?v=1786028029
-    Price: £37.92 GBP
-  - [Off White / S](https://peppervale.co.uk/products/high-neck-tank?variant=58787128607045)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensHighNeckWhiteTankTop_41cebc4c-5e4f-445d-b87c-2ac59aaf08f4.webp?v=1786028029
-    Price: £37.92 GBP
-  - [Off White / M](https://peppervale.co.uk/products/high-neck-tank?variant=58787128639813)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensHighNeckWhiteTankTop_41cebc4c-5e4f-445d-b87c-2ac59aaf08f4.webp?v=1786028029
-    Price: £37.92 GBP
-  - [Off White / L](https://peppervale.co.uk/products/high-neck-tank?variant=58787128672581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensHighNeckWhiteTankTop_41cebc4c-5e4f-445d-b87c-2ac59aaf08f4.webp?v=1786028029
-    Price: £37.92 GBP
-  - [Off White / XL](https://peppervale.co.uk/products/high-neck-tank?variant=58787128705349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensHighNeckWhiteTankTop_41cebc4c-5e4f-445d-b87c-2ac59aaf08f4.webp?v=1786028029
-    Price: £37.92 GBP
-  - [Black / XL](https://peppervale.co.uk/products/high-neck-tank?variant=58787128738117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/3-4_Sleeve_Scoop_T-shirt_LavenderHillClothing_1.webp?v=1786028031
-    Price: £37.92 GBP
-- [Micro Modal Yoga Trousers](https://peppervale.co.uk/products/micro-modal-yoga-trousers): Experience ultimate comfort and freedom of movement with our Micro Modal Yoga Trousers. Crafted from sustainably sourced micro modal fabric in the UK, these trousers are sumptuously soft, breathable, and stretchy, making them perfect for yoga, lounging, or casual outings. Designed with a relaxed fit and a comfortable elasticated waistband, they provide both style and functionality for everyday wear. Thoughtfully tailored for all-day comfort, these trousers feature a flattering silhouette that gently skims the body. Style them for yoga practice, wear them for relaxed weekends at home, or pair with a simple tee for casual errands. With a focus on sustainability and practicality, they're a versatile addition to your wardrobe, combining luxury with ease. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-18T21:19:06Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Trousers / Leggings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-  - [Black / XS](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245556037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Black / S](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245588805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Black / M](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245621573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Black / L](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245654341)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Black / XL](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245687109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/YogaPants_016.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245719877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Navy / S](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245752645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Navy / M](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245785413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Navy / L](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245818181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
-    Price: £85.58 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/micro-modal-yoga-trousers?variant=58787245850949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NavyWomensYogaTrousers.webp?v=1786028725
-    Price: £85.58 GBP
-- [Half Sleeve Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt): Elevate your wardrobe basics with our Half Sleeve Crew Neck T-Shirt, designed for maximum comfort and effortless style. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is lightweight, breathable, and irresistibly soft. Its classic crew neck and half-sleeve design make it the perfect versatile piece to wear solo or as a layering essential. Ideal for casual outings, workdays, or lounging at home, this t-shirt offers the perfect combination of style and practicality. Style it with jeans for relaxed weekends, layer under blazers for the office, or pair with skirts for a polished look. With its flattering fit and durable fabric, it's a timeless staple you'll reach for again and again. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-18T21:19:06Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Half Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-  - [Black / XS](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250209093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HalfSleeveCrewNeckT-shirtBlack.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Black / S](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250241861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HalfSleeveCrewNeckT-shirtBlack.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Black / M](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250274629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HalfSleeveCrewNeckT-shirtBlack.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Black / L](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250307397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HalfSleeveCrewNeckT-shirtBlack.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Black / XL](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250340165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HalfSleeveCrewNeckT-shirtBlack.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250372933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Navy / S](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250405701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Navy / M](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250438469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Navy / L](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250471237)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250504005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtNavy.webp?v=1786028787
-    Price: £56.33 GBP
-  - [White / XS](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250536773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sQualityCottonJerseymidsleevecrewNeckT-ShirtinWhitebyLavenderHillClothing.webp?v=1786028787
-    Price: £56.33 GBP
-  - [White / S](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250569541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sQualityCottonJerseymidsleevecrewNeckT-ShirtinWhitebyLavenderHillClothing.webp?v=1786028787
-    Price: £56.33 GBP
-  - [White / M](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250602309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sQualityCottonJerseymidsleevecrewNeckT-ShirtinWhitebyLavenderHillClothing.webp?v=1786028787
-    Price: £56.33 GBP
-  - [White / L](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250635077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sQualityCottonJerseymidsleevecrewNeckT-ShirtinWhitebyLavenderHillClothing.webp?v=1786028787
-    Price: £56.33 GBP
-  - [White / XL](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250667845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Women_sQualityCottonJerseymidsleevecrewNeckT-ShirtinWhitebyLavenderHillClothing.webp?v=1786028787
-    Price: £56.33 GBP
-  - [Cream / XS](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250700613)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
-    Price: £56.33 GBP
-  - [Cream / S](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250733381)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
-    Price: £56.33 GBP
-  - [Cream / M](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250766149)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
-    Price: £56.33 GBP
-  - [Cream / L](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250798917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
-    Price: £56.33 GBP
-  - [Cream / XL](https://peppervale.co.uk/products/half-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787250831685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveCrewNeckT-shirtCream.webp?v=1786028786
-    Price: £56.33 GBP
-- [Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt): Upgrade your wardrobe basics with our Short Sleeve Crew Neck Cotton Modal Blend T-Shirt, a perfect blend of comfort, durability, and timeless style. Made from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it ideal for everyday wear. The classic crew neckline and short sleeves create a versatile design that pairs effortlessly with any outfit. Thoughtfully designed for practicality, this t-shirt features a flattering fit and irritation-free branded hem labels, ensuring all-day comfort. Style it with jeans for casual weekends, layer under blazers and cardigans, or pair with skirts for a polished look. Whether worn as a standalone piece or layered, it's a wardrobe essential you'll reach for time and time again. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-25T12:56:55Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Short Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-  - [Black / XS](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252339013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Black / S](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252371781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Black / M](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252404549)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Black / L](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252437317)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Black / XL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252470085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252502853)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSleeveCrewNeckT-shirt_Black__40_LavenderHillClothing.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252535621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / S](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252568389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / M](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252601157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / L](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252633925)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252666693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252699461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ShortSlCrewNNavy_026.webp?v=1786028804
-    Price: £53.08 GBP
-  - [White / XS](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252732229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [White / S](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252764997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [White / M](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252797765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [White / L](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252830533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [White / XL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252863301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [White / XXL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252896069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtWhite_LavenderHillClothing.webp?v=1786028803
-    Price: £53.08 GBP
-  - [Cream / XS](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252928837)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Cream / S](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252961605)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Cream / M](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787252994373)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Cream / L](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787253027141)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
-    Price: £53.08 GBP
-  - [Cream / XL](https://peppervale.co.uk/products/crew-neck-cotton-modal-t-shirt?variant=58787253059909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/CrewNeckT-shirtCream.webp?v=1786028804
-    Price: £53.08 GBP
-- [Long Sleeve Crew Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt): Classic, comfortable, and endlessly versatile, our Long Sleeve Crew Neck T-Shirt is a year-round essential for every wardrobe. Crafted from a luxurious cotton-modal blend in Portugal, this t-shirt offers exceptional softness, breathability, and natural stretch, ensuring a perfect fit and feel. With its timeless crew neck design and long sleeves, it's ideal for layering or wearing solo on cooler days. Thoughtfully designed with branded hem labels for irritation-free comfort, this t-shirt combines style with practicality. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Whether you're heading to the office, lounging at home, or going out, this piece adapts effortlessly to any occasion. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-30T14:44:15Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-  - [White / XXS](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254206789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / XS](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254239557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / S](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254272325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / M](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254305093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / L](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254337861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / XL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254370629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [White / XXL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254403397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_womens_long_sleeve_crew_neck_top.webp?v=1786028813
-    Price: £63.92 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254436165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Navy / S](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254468933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Navy / M](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254501701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Navy / L](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254534469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254567237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254600005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveCrewNeckT-shirtNavy.webp?v=1786028814
-    Price: £63.92 GBP
-  - [Black / XS](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254632773)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-  - [Black / S](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254665541)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-  - [Black / M](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254698309)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-  - [Black / L](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254731077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-  - [Black / XL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254763845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/long-sleeve-crew-neck-cotton-modal-t-shirt?variant=58787254796613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblacklongsleeveroundnecktop.jpg?v=1786028813
-    Price: £63.92 GBP
-- [Two Tone Baby Alpaca Scarf](https://peppervale.co.uk/products/two-tone-baby-alpaca-scarf): Baby Alpaca Reversible Scarf – Two Tone Luxury Design Wrap yourself in the ultimate softness of the Baby Suri Reversible Scarf, crafted from the finest baby suri alpaca fibres. This luxurious scarf features a reversible bicolour design, offering two complementary shades to effortlessly enhance your wardrobe. Delicately finished with frayed edges, this versatile accessory exudes a relaxed sophistication that's perfect for any occasion. Lightweight yet warm, the Baby Suri Scarf provides a cosy embrace, making it ideal for crisp mornings, cool evenings, travel, or as a thoughtful gift. Pair it beautifully with our alpaca wristwarmers and gloves for a coordinated winter look. Elevate your style with this ethically crafted piece, made in Peru with exceptional attention to detail. Whether dressed up or down, the reversible scarf is a must-have for every wardrobe. One size fits all. Dry clean or hand wash in cool water. Lay flat to dry.
-  Updated: 2026-09-18T21:19:06Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Scarves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Two_tone_alpaca_womens_scarf.webp?v=1786028837
-  - [Aquamarine / One Size](https://peppervale.co.uk/products/two-tone-baby-alpaca-scarf?variant=58787257352517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/TwoToneLadiesLightGreenScarf_8280f2ac-0029-4607-9448-d5f0aa2ff1a7.webp?v=1786028836
-    Price: £119.17 GBP
-  - [Pink / One Size](https://peppervale.co.uk/products/two-tone-baby-alpaca-scarf?variant=58787257385285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Two_tone_alpaca_womens_scarf.webp?v=1786028837
-    Price: £119.17 GBP
-  - [Blue / One Size](https://peppervale.co.uk/products/two-tone-baby-alpaca-scarf?variant=58787257418053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Two_tone_alpaca_womens_scarf_1.webp?v=1786028837
-    Price: £119.17 GBP
-  - [Black / One Size](https://peppervale.co.uk/products/two-tone-baby-alpaca-scarf?variant=58787257450821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Two_tone_black_grey_scarf.webp?v=1786028836
-    Price: £119.17 GBP
-- [V-Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt): Elevate your wardrobe with our V-Neck Cotton Modal Blend T-Shirt, a timeless staple that combines style, comfort, and sustainability. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it perfect for all-day wear. The classic V-neck design flatters every silhouette, offering a versatile piece that pairs effortlessly with any outfit. Designed with a tailored fit and irritation-free branded hem labels, this t-shirt ensures both practicality and elegance. Style it with jeans for casual weekends, layer under blazers for work, or pair with skirts for a polished look. Whether layered or worn casually, it's a must-have for every season. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-09-27T10:28:37Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Short Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckWomensQualityT-shirt.webp?v=1786028843
-  - [White / XS](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787257876805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckWomensQualityT-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [White / S](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787257909573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckWomensQualityT-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [White / M](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787257942341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckWomensQualityT-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [White / L](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787257975109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/White_cotton_modal_V-neck_T-shirt_by_Lavender_Hill_Clothing.webp?v=1786028844
-    Price: £53.08 GBP
-  - [White / XL](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258007877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/White_cotton_modal_V-neck_T-shirt_by_Lavender_Hill_Clothing.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Black / XS](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258040645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Black / S](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258073413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Black / M](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258106181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Black / L](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258138949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Black / XL](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258171717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258204485)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensblackvneckt-shirt.webp?v=1786028843
-    Price: £53.08 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258237253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Navy / S](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258270021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Navy / M](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258302789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Navy / L](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258335557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258368325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/v-neck-cotton-modal-t-shirt?variant=58787258401093)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/VNeckT-shirtNavy.webp?v=1786028844
-    Price: £53.08 GBP
-- [Long Sleeve Cotton Modal Scoop Neck T-Shirt](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt): Discover effortless style with our Long Sleeve Scoop Neck T-Shirt, a timeless addition to your wardrobe. Crafted from a premium cotton-modal blend in Portugal, this t-shirt offers unparalleled softness, breathability, and a gentle stretch for all-day comfort. The elegant scoop neckline enhances its versatility, making it perfect for layering or wearing as a standalone piece. Designed with practicality and comfort in mind, the white version features a slightly thicker fabric to minimise transparency. Thoughtfully placed branded hem labels ensure irritation-free wear. Style it with jeans for casual weekends, layer under cardigans and blazers for work, or pair with skirts for a polished look. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-10-01T22:27:45Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-  - [Navy / XXS](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259187525)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259220293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [Navy / S](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259253061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [Navy / M](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259285829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [Navy / L](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259318597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259351365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensnavylongsleevescoopnecktop.jpg?v=1786028851
-    Price: £63.92 GBP
-  - [White / XXS](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259384133)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_T_Shirts_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [White / XS](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259416901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_T_Shirts_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [White / S](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259449669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_White_Top_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [White / M](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259482437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_White_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [White / L](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259515205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_White_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [White / XL](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259547973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_White_Top_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [Black / XS](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259580741)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [Black / S](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259613509)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [Black / M](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259646277)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [Black / L](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259679045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/long-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787259711813)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Premium_Long_Sleeve_Black_T_Shirt_for_Women.webp?v=1786028852
-    Price: £63.92 GBP
-- [Scoop Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt): Refresh your everyday wardrobe with our Scoop Neck Cotton Modal Blend T-Shirt, a perfect combination of comfort, style, and sustainability. Made from a premium cotton-modal blend in Portugal, this t-shirt is luxuriously soft, breathable, and lightweight, making it ideal for year-round wear. The classic scoop neckline flatters all body shapes, adding a touch of timeless elegance to this versatile staple. Designed with practicality in mind, this t-shirt features a tailored fit and irritation-free branded hem labels, ensuring all-day comfort and effortless styling. Style it with jeans for casual weekends, layer under jackets for work, or pair with skirts for a polished look. Whether dressed up or down, it's the ultimate wardrobe essential. Available in UK sizes 6-18. Machine washable at 30°C.
-  Updated: 2026-09-25T13:18:57Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Short Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-  - [White / XXS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787260858693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787260891461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787260924229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787260956997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787260989765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261022533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [White / XXL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261055301)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtWhite_LavenderHillClothing.2.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / XXS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261088069)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261120837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261153605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261186373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261219141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261251909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261284677)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtNavy.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / XXS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261317445)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261350213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261382981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261415749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261448517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261481285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261514053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_black_cotton_modal_scoop_neck_T-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Lavender / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261546821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Lavender / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261579589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Lavender / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261612357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Lavender / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261645125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Lavender / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261677893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Lavender / XXL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261710661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LavenderScoopNeckT-shirt_1.webp?v=1786028861
-    Price: £53.08 GBP
-  - [Cream / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261743429)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtCream.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Cream / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261776197)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtCream.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Cream / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261808965)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtCream.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Cream / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261841733)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtCream.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Cream / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261874501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ScoopNeckT-shirtCream.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Blue / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261907269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Blue / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261940037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Blue / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787261972805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Blue / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262005573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Blue / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262038341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_blue_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / XXS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262071109)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / XS](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262103877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / S](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262136645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / M](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262169413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / L](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262202181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / XL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262234949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-  - [Light Pink / XXL](https://peppervale.co.uk/products/scoop-neck-cotton-modal-t-shirt?variant=58787262267717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Short_sleeve_pink_t-shirt.webp?v=1786028860
-    Price: £53.08 GBP
-- [Half Sleeve Cotton Modal Scoop Neck T-Shirt](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt): Refresh your wardrobe with our Half Sleeve Scoop Neck T-Shirt, a perfect balance of elegance and comfort. Crafted from a premium cotton-modal blend in Portugal, this t-shirt is irresistibly soft, lightweight, and breathable. The scoop neckline creates a flattering silhouette, while the half-sleeve design adds versatility to this timeless staple. Perfect for layering or wearing on its own, this t-shirt is ideal for casual outings, workdays, or relaxed weekends. With its slightly thicker white option to minimize transparency and branded labels positioned on the hem to avoid irritation, it's a thoughtfully designed piece you'll reach for every day. Style it with jeans for casual weekends, layer under blazers for work, or pair with skirts for a polished look. Available in UK sizes 6-18. Machine washable at 30°C.
-  Updated: 2026-09-24T16:49:40Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Half Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt.webp?v=1786028868
-  - [White / XXS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263250757)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt.webp?v=1786028868
-    Price: £56.33 GBP
-  - [White / XS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263283525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt.webp?v=1786028868
-    Price: £56.33 GBP
-  - [White / S](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263316293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt_Lavender_Hill.webp?v=1786028869
-    Price: £56.33 GBP
-  - [White / M](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263349061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt_Lavender_Hill.webp?v=1786028869
-    Price: £56.33 GBP
-  - [White / L](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263381829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt_Lavender_Hill.webp?v=1786028869
-    Price: £56.33 GBP
-  - [White / XL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263414597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt_Lavender_Hill.webp?v=1786028869
-    Price: £56.33 GBP
-  - [White / XXL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263447365)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/women_s_white_cotton_modal_half_sleeve_scoop_neck_T-shirt_Lavender_Hill.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / XXS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263480133)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / XS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263512901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / S](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263545669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / M](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263578437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / L](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263611205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / XL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263643973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263676741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopT-shirtBlack.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / XXS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263709509)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263742277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / S](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263775045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / M](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263807813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / L](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263840581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263873349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/half-sleeve-cotton-modal-scoop-neck-t-shirt?variant=58787263906117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1_2SleeveScoopNavy.webp?v=1786028869
-    Price: £56.33 GBP
-- [Long Sleeve Striped Linen T-shirt](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt): Women's Long Sleeve Striped Linen T-Shirt – Classic Breton Style Add a touch of effortless style to your wardrobe with our Striped Linen T-Shirt. Made from 100% linen, this t-shirt combines natural breathability and moisture-wicking properties with a classic Breton striped design, perfect for warm weather and relaxed days. Lightweight and airy, it's the ultimate blend of comfort and timeless elegance. Designed for both style and practicality, this t-shirt features branded hem labels for irritation-free wear. Its relaxed fit and versatile stripes make it ideal for pairing with jeans, linen trousers, or skirts for effortless summer style, or layering under blazers and cardigans on cooler days. Made in Portugal with exceptional attention to detail. Available in UK sizes 8-16. Machine washable at 30°C. Reshape while damp and dry flat for best results.
-  Updated: 2026-09-18T21:19:07Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Olive_and_white_linen_stripe_1.webp?v=1786028910
-  - [Navy / UK 8](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270263109)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Navywhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Navy / UK 10](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270295877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Navywhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Navy / UK 12](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270328645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Navywhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Navy / UK 14](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270361413)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Navywhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Navy / UK 16](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270394181)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Navywhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Olive / UK 8](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270426949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/olivewhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Olive / UK 10](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270459717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/olivewhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Olive / UK 12](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270492485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/olivewhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Olive / UK 14](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270525253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/olivewhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-  - [Olive / UK 16](https://peppervale.co.uk/products/long-sleeve-striped-linen-t-shirt?variant=58787270558021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/olivewhitestripedlinent-shirt.webp?v=1786028909
-    Price: £85.58 GBP
-- [Supima Cotton High Neck Tank Top](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top): Premium Supima Cotton High Neck Tank Top for Women Designed with subtle elegance and everyday ease in mind, our Supima Cotton High Neck Tank Top is a refined warm-weather staple. Made from luxuriously soft, non-see-through Supima cotton, this sleeveless style features delicate neck and hem detailing, small side slits for comfort and movement, and a centre back seam for a polished finish. Cut with a relaxed, straight fit, it's the perfect piece for minimalist summer dressing—understated, flattering, and endlessly wearable. Whether styled solo for warm days, layered beneath a blazer or cardigan for smart-casual looks, or paired with jeans and tailored trousers, this is the perfect white tank for summer and beyond. Available in UK sizes 8-18. Machine washable at 30°C. Tumble dry low or hang to dry.
-  Updated: 2026-09-18T21:19:07Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Sleeveless Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-  - [White / XS](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top?variant=58787271704901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-    Price: £59.58 GBP
-  - [White / S](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top?variant=58787271737669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-    Price: £59.58 GBP
-  - [White / M](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top?variant=58787271770437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-    Price: £59.58 GBP
-  - [White / L](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top?variant=58787271803205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-    Price: £59.58 GBP
-  - [White / XL](https://peppervale.co.uk/products/supima-cotton-high-neck-tank-top?variant=58787271835973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SupimaCottonWhiteTankTop.webp?v=1786028917
-    Price: £59.58 GBP
-- [Shawl Collared Pyjama Set](https://peppervale.co.uk/products/shawl-collared-pyjama-set): Luxury Women's Pyjama Set with Shawl Collar – Micromodal Fabric Wrap yourself in luxury with our Shawl Collared Pyjama Set, crafted from our signature ultra-soft micromodal fabric. Designed for ultimate comfort and timeless elegance, this set is perfect for lounging at home, indulging in a restful night's sleep, or as a thoughtful gift for someone special. The pyjama top features a sophisticated shawl collar with cream contrast piping, adding a refined touch to your loungewear. The trousers, adorned with matching piping down the sides, complete the look with effortless style. Lightweight, breathable, and irresistibly soft, this set is a must-have for anyone seeking both comfort and sophistication. Made in Portugal with exceptional attention to detail. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry to maintain softness.
-  Updated: 2026-09-18T21:19:07Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Nightwear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas.png?v=1786028926
-  - [Light Grey / XS](https://peppervale.co.uk/products/shawl-collared-pyjama-set?variant=58787272196421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas_1.png?v=1786028926
-    Price: £151.67 GBP
-  - [Light Grey / S](https://peppervale.co.uk/products/shawl-collared-pyjama-set?variant=58787272229189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas_1.png?v=1786028926
-    Price: £151.67 GBP
-  - [Light Grey / M](https://peppervale.co.uk/products/shawl-collared-pyjama-set?variant=58787272261957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas_1.png?v=1786028926
-    Price: £151.67 GBP
-  - [Light Grey / L](https://peppervale.co.uk/products/shawl-collared-pyjama-set?variant=58787272294725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas_1.png?v=1786028926
-    Price: £151.67 GBP
-  - [Light Grey / XL](https://peppervale.co.uk/products/shawl-collared-pyjama-set?variant=58787272327493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Luxury_Womens_Pyjamas_1.png?v=1786028926
-    Price: £151.67 GBP
-- [Alpaca Plaid Scarf](https://peppervale.co.uk/products/alpaca-plaid-scarf): Luxury Alpaca Plaid Scarf – Undyed Natural Fibres Embrace effortless sophistication with our Undyed Plaid Scarf, designed with a timeless brushed texture for unparalleled softness. Featuring a subtle plaid pattern in natural, undyed hues, this scarf celebrates the beauty of alpaca fibres in their purest form. Finished with twisted fringes, this piece exudes understated charm, making it a versatile addition to your wardrobe. Lightweight yet warm, it's the perfect companion for chilly days—whether you're enjoying winter walks, travelling, or looking for a thoughtful gift. Pair it beautifully with our alpaca wristwarmers and gloves for a coordinated winter look. Ethically crafted and made in Britain, the Undyed Plaid Scarf is a must-have accessory for lovers of natural luxury. One size fits all. Dry clean or hand wash in cool water. Lay flat to dry.
-  Updated: 2026-09-18T21:19:08Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Scarves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Alpaca_Scarf.webp?v=1786028933
-  - [Grey / One Size](https://peppervale.co.uk/products/alpaca-plaid-scarf?variant=58787272687941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Alpaca_Scarf.webp?v=1786028933
-    Price: £119.17 GBP
-  - [White / One Size](https://peppervale.co.uk/products/alpaca-plaid-scarf?variant=58787272720709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/White_Alpaca_Alpaca_Scarf.png?v=1786028934
-    Price: £119.17 GBP
-  - [Natural / One Size](https://peppervale.co.uk/products/alpaca-plaid-scarf?variant=58787272753477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PlaidNaturalAlpacaScarf_1_8c3564f0-b349-4176-b543-eef89ae43c2c.webp?v=1786028932
-    Price: £119.17 GBP
-  - [Brown / One Size](https://peppervale.co.uk/products/alpaca-plaid-scarf?variant=58787272786245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Natural_Alpaca_Alpaca_Scarf.png?v=1786028934
-    Price: £119.17 GBP
-- [3/4 Sleeve Scoop Neck Cotton Modal T-Shirt](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt): Elevate your everyday essentials with our 3/4 Sleeve Scoop Neck T-Shirt, a perfect blend of comfort and style. Crafted from a luxurious cotton-modal fabric in Portugal, this wardrobe staple is designed to keep you looking and feeling great all day long. The scoop neckline adds a touch of elegance while offering a flattering fit for all body shapes. Whether you're dressing up for an evening out or keeping it casual, this versatile t-shirt adapts effortlessly to any look. The breathable, lightweight fabric and tailored design make it a reliable choice for every season. Style it with jeans for relaxed weekends, layer under blazers for work, or pair with skirts for a polished evening look. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-29T16:01:28Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's 3/4 Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-  - [Pink / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276325189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276357957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276390725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276423493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276456261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276489029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Pink / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276521797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Quality_mid_sleeve_t-shirt.webp?v=1786028956
-    Price: £58.50 GBP
-  - [Lavender / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275866437)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275899205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275931973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275964741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275997509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276030277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Lavender / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276063045)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Lavender34sleevescoopneckt-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275637061)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275669829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275702597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275735365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275768133)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275800901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Pink / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787275833669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_pink_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276095813)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276128581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276161349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276194117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276226885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276259653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Light Blue / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276292421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Light_blue_34_sleeve_scoop_neck_t-shirt.jpg?v=1786028954
-    Price: £58.50 GBP
-  - [Black / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276554565)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276587333)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276620101)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276652869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276685637)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276718405)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276751173)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_black_34_sleeve_t-shirt.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276783941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276816709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276849477)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276882245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276915013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276947781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [White / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787276980549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_white_34_sleeve_t-shirt_1.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / XXS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277013317)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277046085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / S](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277078853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / M](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277111621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / L](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277144389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277177157)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-  - [Navy / XXL](https://peppervale.co.uk/products/3-4-sleeve-scoop-neck-cotton-modal-t-shirt?variant=58787277209925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/womens_navy_34_sleeve_t-shirt_3.webp?v=1786028954
-    Price: £58.50 GBP
-- [Roll Neck Micro Modal Top](https://peppervale.co.uk/products/roll-neck-micro-modal-top): Meet our best- Micro Modal Roll Neck Top, the ultimate combination of elegance, comfort, and versatility. Crafted from luxuriously soft and sustainably sourced TENCEL™ Modal with Micro technology in Portugal, this top offers unparalleled softness, breathability, and stretch, making it perfect for layering or wearing on its own. The roll neck design adds a touch of sophistication, while the lightweight material ensures all-day comfort. Designed with a flattering, tailored fit and irritation-free branded hem labels, this roll neck is a timeless wardrobe essential. Style it with tailored trousers for the office, layer under blazers and cardigans, or pair with jeans for casual weekends. Whether dressed up or down, it's the perfect piece for cooler weather and transitional seasons. Available in UK sizes 8-18. Machine washable at 30°C.
-  Updated: 2026-10-02T13:35:37Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-  - [Cream / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278815557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Cream / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278848325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Cream / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278881093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Cream / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278913861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Cream / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278946629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Cream / XXL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787278979397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Cream_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279012165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279044933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279077701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279110469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279143237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Chocolate / XXL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279176005)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Chocolate_Roll_Neck_Top.png?v=1786028968
-    Price: £85.58 GBP
-  - [Taupe / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279208773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_taupe_roll_neck_top.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Taupe / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279241541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_taupe_roll_neck_top.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Taupe / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279274309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_taupe_roll_neck_top.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Taupe / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279307077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_taupe_roll_neck_top.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Taupe / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279339845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womens_taupe_roll_neck_top.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279372613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/RollNeckNavy.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Navy / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279405381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/RollNeckNavy.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Navy / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279438149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/RollNeckNavy.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Navy / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279470917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/RollNeckNavy.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279503685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/RollNeckNavy.webp?v=1786028968
-    Price: £85.58 GBP
-  - [Black / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279536453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Black / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279569221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Black / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279601989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Black / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279634757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Black / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279667525)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Black / XXL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279700293)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/PoloNeck_Black__65.00_LavenderHillClothing_AsSeenInVogue.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Silver / XS](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279733061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Silver / S](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279765829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Silver / M](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279798597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Silver / L](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279831365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
-    Price: £85.58 GBP
-  - [Silver / XL](https://peppervale.co.uk/products/roll-neck-micro-modal-top?variant=58787279864133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensGreymicromodalthermalrollnecktop.webp?v=1786028967
-    Price: £85.58 GBP
-- [Linen T-shirt](https://peppervale.co.uk/products/linen-t-shirt): Women's Linen T-Shirt – 100% Linen Stay cool and stylish in our Linen T-Shirt, the perfect addition to your warm-weather wardrobe. Made from 100% linen in Portugal, this t-shirt is naturally breathable, lightweight, and moisture-wicking, keeping you comfortable even on the hottest days. With its relaxed fit and classic crew neck design, it's a versatile staple that effortlessly combines comfort and sophistication. Thoughtfully designed with branded hem labels for irritation-free comfort, this t-shirt is an essential piece for all-day wear. Style it with linen trousers for a coordinated summer look, pair with denim shorts for weekend wear, or layer under a blazer for smart-casual occasions. The natural linen fabric softens with each wash. Available in UK sizes 8-16. Machine washable at 30°C. Tumble dry low or hang to dry. Linen naturally softens with each wash.
-  Updated: 2026-09-21T14:51:35Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Short Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/0E064F44-B7A5-4161-8E58-E88859A7CD2F.png?v=1786029003
-  - [Yellow / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283632453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Banana_Yellow_T-shirt.png?v=1786029003
-    Price: £59.58 GBP
-  - [Yellow / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283665221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Banana_Yellow_T-shirt.png?v=1786029003
-    Price: £59.58 GBP
-  - [Yellow / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283697989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Banana_Yellow_T-shirt.png?v=1786029003
-    Price: £59.58 GBP
-  - [Yellow / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283730757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Banana_Yellow_T-shirt.png?v=1786029003
-    Price: £59.58 GBP
-  - [Yellow / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283763525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Banana_Yellow_T-shirt.png?v=1786029003
-    Price: £59.58 GBP
-  - [Light Pink / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283796293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevepinklinent-shirtbylavenderhill.webp?v=1786029003
-    Price: £59.58 GBP
-  - [Light Pink / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283829061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevepinklinent-shirtbylavenderhill.webp?v=1786029003
-    Price: £59.58 GBP
-  - [Light Pink / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283861829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevepinklinent-shirtbylavenderhill.webp?v=1786029003
-    Price: £59.58 GBP
-  - [Light Pink / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283894597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevepinklinent-shirtbylavenderhill.webp?v=1786029003
-    Price: £59.58 GBP
-  - [Light Pink / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283927365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevepinklinent-shirtbylavenderhill.webp?v=1786029003
-    Price: £59.58 GBP
-  - [Light Blue / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283960133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Dutch_Canal_Blue_Linen_T-shirt_1.png?v=1786029003
-    Price: £59.58 GBP
-  - [Light Blue / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787283992901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Dutch_Canal_Blue_Linen_T-shirt_1.png?v=1786029003
-    Price: £59.58 GBP
-  - [Light Blue / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284025669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Dutch_Canal_Blue_Linen_T-shirt_1.png?v=1786029003
-    Price: £59.58 GBP
-  - [Light Blue / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284058437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Dutch_Canal_Blue_Linen_T-shirt_1.png?v=1786029003
-    Price: £59.58 GBP
-  - [Light Blue / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284091205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Dutch_Canal_Blue_Linen_T-shirt_1.png?v=1786029003
-    Price: £59.58 GBP
-  - [White / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284123973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensWhiteLinent-shirt_81356193-b671-4e0d-9335-0da1dd0ad8aa.webp?v=1786029005
-    Price: £59.58 GBP
-  - [White / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284156741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensWhiteLinent-shirt_81356193-b671-4e0d-9335-0da1dd0ad8aa.webp?v=1786029005
-    Price: £59.58 GBP
-  - [White / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284189509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensWhiteLinent-shirt_81356193-b671-4e0d-9335-0da1dd0ad8aa.webp?v=1786029005
-    Price: £59.58 GBP
-  - [White / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284222277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensWhiteLinent-shirt_81356193-b671-4e0d-9335-0da1dd0ad8aa.webp?v=1786029005
-    Price: £59.58 GBP
-  - [White / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284255045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/WomensWhiteLinent-shirt_81356193-b671-4e0d-9335-0da1dd0ad8aa.webp?v=1786029005
-    Price: £59.58 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284287813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevenavylinent-shirtbylavenderhill.webp?v=1786029002
-    Price: £59.58 GBP
-  - [Navy / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284320581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevenavylinent-shirtbylavenderhill.webp?v=1786029002
-    Price: £59.58 GBP
-  - [Navy / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284353349)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevenavylinent-shirtbylavenderhill.webp?v=1786029002
-    Price: £59.58 GBP
-  - [Navy / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284386117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevenavylinent-shirtbylavenderhill.webp?v=1786029002
-    Price: £59.58 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284418885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensshortsleevenavylinent-shirtbylavenderhill.webp?v=1786029002
-    Price: £59.58 GBP
-  - [Black / XS](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284451653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
-    Price: £59.58 GBP
-  - [Black / S](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284484421)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
-    Price: £59.58 GBP
-  - [Black / M](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284517189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
-    Price: £59.58 GBP
-  - [Black / L](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284549957)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
-    Price: £59.58 GBP
-  - [Black / XL](https://peppervale.co.uk/products/linen-t-shirt?variant=58787284582725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/BlackLinenT-shirt.webp?v=1786029004
-    Price: £59.58 GBP
-- [Striped Crew Neck T-shirt](https://peppervale.co.uk/products/striped-crew-neck-t-shirt): Timeless and versatile, our Striped Crew Neck T-Shirt is the perfect balance of style and practicality. Crafted from a premium organic cotton blend in the UK, this t-shirt is luxuriously soft, breathable, and lightweight, offering unmatched comfort throughout the day. The classic striped design and flattering long sleeves make it a wardrobe staple for all seasons. Designed for everyday wear, this t-shirt pairs effortlessly with everything from jeans to tailored trousers. Style it with denim for casual weekends, layer under blazers for smart-casual looks, or pair with skirts for a polished outfit. The irritation-free branded hem labels and tailored fit ensure both style and practicality, making it a go-to piece for any occasion. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-18T21:19:08Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-  - [Blue / XS](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287695685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-    Price: £63.92 GBP
-  - [Blue / S](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287728453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-    Price: £63.92 GBP
-  - [Blue / M](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287761221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-    Price: £63.92 GBP
-  - [Blue / L](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287793989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-    Price: £63.92 GBP
-  - [Blue / XL](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287826757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Womensstripedcrewnecktop.jpg?v=1786029028
-    Price: £63.92 GBP
-  - [Violet / XS](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287859525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
-    Price: £63.92 GBP
-  - [Violet / S](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287892293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
-    Price: £63.92 GBP
-  - [Violet / M](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287925061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
-    Price: £63.92 GBP
-  - [Violet / L](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287957829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
-    Price: £63.92 GBP
-  - [Violet / XL](https://peppervale.co.uk/products/striped-crew-neck-t-shirt?variant=58787287990597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Striped_Long_Sleeve_Cotton_Lavender_Hill.webp?v=1786029028
-    Price: £63.92 GBP
-- [Long Sleeve V Neck Cotton Modal T-shirt](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt): Timeless, comfortable, and effortlessly stylish, our Long Sleeve V-Neck T-Shirt is a versatile staple for every wardrobe. Made from a premium cotton-modal blend in Portugal, this t-shirt offers a luxuriously soft feel, gentle stretch, and breathable comfort. The flattering V-neckline adds a touch of elegance, making it perfect for layering or wearing solo. Designed with both style and practicality in mind, the white version features a slightly thicker fabric to minimise transparency. With thoughtfully placed branded hem labels for irritation-free wear, this t-shirt is as functional as it is stylish. Style it with jeans for casual weekends, layer under cardigans and blazers, or pair with tailored trousers for a polished look. Available in UK sizes 8-16. Machine washable at 30°C.
-  Updated: 2026-09-30T14:22:18Z
-  Vendor: Lavender Hill Clothing
-  Product Type: Women's Long Sleeve T-shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-  - [Black / XS](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787288842565)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtBlack.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Black / S](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787288875333)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtBlack.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Black / M](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787288908101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtBlack.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Black / L](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787288940869)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtBlack.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Black / XL](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787288973637)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtBlack.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Navy / XS](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289006405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtNavy_2.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Navy / S](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289039173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtNavy_2.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Navy / M](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289071941)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVneckt-shirtNavy.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Navy / L](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289104709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVneckt-shirtNavy.webp?v=1786029036
-    Price: £63.92 GBP
-  - [Navy / XL](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289137477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/LongSleeveVNeckT-shirtNavy_2.webp?v=1786029036
-    Price: £63.92 GBP
-  - [White / XS](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289170245)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-    Price: £63.92 GBP
-  - [White / S](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289203013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-    Price: £63.92 GBP
-  - [White / M](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289235781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-    Price: £63.92 GBP
-  - [White / L](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289268549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-    Price: £63.92 GBP
-  - [White / XL](https://peppervale.co.uk/products/long-sleeve-v-neck-cotton-modal-t-shirt?variant=58787289301317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/quality_white_long_sleeve_v_neck_tshirt.webp?v=1786029035
-    Price: £63.92 GBP
 - [Organic Colours Tank Top Womens](https://peppervale.co.uk/products/organic-colours-tank-top-womens): The Organic Colours tank top is a simple, 100% organic cotton vest available in a wide selection of colours. It's a customer favourite and can be worn as an undervest in winter or as a lightweight, breathable vest in the summer. An ultimate wardrobe staple.
-  Updated: 2026-10-02T02:43:06Z
+  Updated: 2026-10-10T22:03:26Z
   Vendor: Earth Wardrobe
   Product Type: 
   Availability: Available
@@ -2129,7 +243,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-2749_a76fd729-7cd5-4cd7-abf1-b0972eb8d67a.png?v=1786029432
     Price: £42.50 GBP
 - [Sleeveless Blue Pink Floral Maxi Dress](https://peppervale.co.uk/products/sleeveless-blue-pink-floral-maxi-dress): Say hello to effortless holiday style with our Sleeveless Blue Pink Floral Maxi Dress – a stunning full-length piece designed to flatter and flow. With a classic round neckline and sleeveless design, this plus-size summer dress is light, breathable, and perfect for warm-weather days. The bold blue and pink floral print adds a pop of colour, while the crease-resistant fabric makes it an ideal travel companion. Whether you're strolling through the city or lounging by the beach, this maxi dress delivers easy elegance with zero fuss. Product Features: 🌸 Bold blue and pink floral print – Bright, feminine, and eye-catching 👗 Sleeveless maxi design – Full-length style perfect for summer days 🔵 Round neckline – Clean, classic and flattering 🚫 Crease-resistant fabric – Ideal for packing and travel ➕ Perfect for plus-size women – Flattering fit for sizes 14–28 The ultimate throw-on-and-go summer dress – easy, elegant, and made to rock your curves.
-  Updated: 2026-09-18T21:19:09Z
+  Updated: 2026-10-03T14:27:26Z
   Vendor: rockthosecurves
   Product Type: Dresses
   Availability: Available
@@ -2373,7 +487,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-4555.png?v=1786029432
     Price: £25.50 GBP
 - [Black Pink Floral Short Sleeve Stretchy Midi Dress](https://peppervale.co.uk/products/black-pink-floral-short-sleeve-stretchy-midi-dress): Bring colour and comfort together with the ROCKTHOSECURVES™ Black Pink Floral Short Sleeve Stretchy Midi Dress — a flattering, easy-to-wear style designed to move beautifully with your curves. Featuring a soft, stretchy fabric, this midi dress offers a comfortable fit, while the short sleeves and classic midi length make it perfect for everyday wear, holidays, or casual occasions. The black and pink floral print adds a fresh, feminine touch that’s easy to dress up or down. Effortless, flattering and versatile — this is the kind of dress you’ll reach for again and again. ✨ Why you’ll love it:✔ Soft, stretchy fabric for all-day comfort✔ Flattering midi length✔ Short sleeves for easy wear✔ Eye-catching blue & pink floral print✔ Designed to suit plus size figures✔ Slip-on style — no fuss, no effort A feel-good dress that combines colour, comfort and confidence — exclusively from ROCKTHOSECURVES™. Dresses from ROCKTHOSECURVES™ 💖
-  Updated: 2026-09-18T21:19:09Z
+  Updated: 2026-10-05T06:27:02Z
   Vendor: rockthosecurves
   Product Type: Dresses
   Availability: Available
@@ -2558,24 +672,1832 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1408_GREY.png?v=1786029433
     Price: £39.67 GBP
-[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MTQyNDQ1MywibGFzdF92YWx1ZSI6IjE2MDcxNTQxNDI0NDUzIn0%3D)
+- [FLORAL CHIFFON BLOUSE WITH BELL SLEEVES](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves): FLORAL CHIFFON BLOUSE WITH BELL SLEEVES long sleeve round neck bell sleeve blouse plus size blouse blouses from Rockthosecurves
+  Updated: 2026-09-18T21:19:10Z
+  Vendor: rockthosecurves
+  Product Type: Blouse / Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623.png?v=1786029432
+  - [BLACK BUSY FLORAL / UK 14](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413492037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK BUSY FLORAL / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413328197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK BUSY FLORAL / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413360965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK BUSY FLORAL / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413393733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK BUSY FLORAL / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413426501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK BUSY FLORAL / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413459269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1635_6edf79a8-98ac-440d-9507-58d95c3bebe6.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK FLORAL / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413164357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK FLORAL / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413197125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK FLORAL / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413229893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK FLORAL / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413262661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK FLORAL / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413295429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1623_e7ec8043-a2af-4017-9811-eaf66f16f6fb.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 14](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413688645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 16](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413524805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 18](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413557573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 20](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413590341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 22-24](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413623109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+  - [BLACK PINK / UK 26-28](https://peppervale.co.uk/products/floral-chiffon-blouse-with-bell-sleeves?variant=58787413655877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1643.png?v=1786029432
+    Price: £34.00 GBP
+- [Lace Bardot Off Shoulder Top / Dress](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress): BARDOT OFF SHOULDER TOP / DRESS – Feminine Glam with Effortless Elegance Feel effortlessly stylish in this stunning Bardot Off Shoulder Top / Dress from Rockthosecurves™ — designed to flatter your curves while adding a touch of romantic glamour to your wardrobe. Featuring a flattering Bardot off shoulder neckline, this piece beautifully highlights your shoulders and neckline for a feminine, elegant look. Crafted with a soft lined design, it offers comfortable coverage while maintaining a lightweight, floaty feel. Finished with beautiful lace detailing, this versatile style can be worn as a pretty long top or a dress depending on your look, making it perfect for holidays, evenings or special occasions. ✨ Why You’ll Love It: 👚 Flattering Bardot off shoulder style 🤍 Elegant lace detail finish 💕 Comfortable lined design 👗 Versatile top or dress styling 🌿 Lightweight and feminine feel 🌟 Perfect for holidays, evenings or occasion wear ➕ Designed to complement curves Pair with sandals for effortless daytime glamour, or dress it up with heels and accessories for a chic evening look. Elegant. Feminine. Effortlessly stylish. A must-have statement piece from Rockthosecurves™. ✨
+  Updated: 2026-10-08T06:39:16Z
+  Vendor: rockthosecurves
+  Product Type: Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+  - [WHITE / UK 14](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413721413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [WHITE / UK 16](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413754181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [WHITE / UK 18](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413786949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [WHITE / UK 20](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413819717)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [WHITE / UK 22-24](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413852485)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [WHITE / UK 26-28](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413885253)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2949.png?v=1786029432
+    Price: £51.00 GBP
+  - [BLACK / UK 14](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413918021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413950789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787413983557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414016325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414049093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414081861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_03_24_52_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 14](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414114629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 16](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414147397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 18](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414180165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 20](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414212933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 22-24](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414245701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [BLUE / UK 26-28](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414278469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_45_23_PM.png?v=1786029434
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 14](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414311237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 16](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414344005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 18](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414376773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 20](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414409541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 22-24](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414442309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+  - [FUCHSIA / UK 26-28](https://peppervale.co.uk/products/lace-bardot-off-shoulder-top-dress?variant=58787414475077)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_02_42_17_PM.png?v=1786029433
+    Price: £51.00 GBP
+- [ROCKTHOSECURVES SHORT SLEEVE HANKY HEM STUDDED OWL LONG LENGTH TOP](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top): Transform your look with the stunning ROCKTHOSECURVES SHORT SLEEVE HANKY HEM STUDDED OWL LONG LENGTH TOP. Featuring a round neck, hanky hem, and intricate studded owl detailing, this top is perfect for adding a touch of charm to any outfit. Elevate your style and embrace your curves with this must-have piece from Rockthosecurves.
+  Updated: 2026-09-18T21:19:11Z
+  Vendor: rockthosecurves
+  Product Type: Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428_6657397d-cc78-406a-a1f8-eb74c6b24e48.png?v=1786029433
+  - [Fuchsia Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414507845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Fuchsia Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414540613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Fuchsia Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414573381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Fuchsia Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414606149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Fuchsia Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414638917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Fuchsia Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414671685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/hankyhemstuddedowlfuchsia.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414704453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414737221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414769989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414802757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414835525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Royal Blue Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414868293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/studdedowlhankyhemtoproyalblue.jpg?v=1786029432
+    Price: £32.58 GBP
+  - [Black Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414901061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Black Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414933829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Black Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414966597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Black Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787414999365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Black Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415032133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Black Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415064901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9428.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415097669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415130437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415163205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415195973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415228741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Wine Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415261509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0114_129fb1a0-0491-4041-ad1c-0effc1191070.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415294277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415327045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415359813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415392581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415425349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Grey Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415458117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-3200.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415490885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415523653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415556421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415589189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415621957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [Purple Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415654725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0228.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415687493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415720261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415753029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415785797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415818565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [White Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415851333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/image_c95fbdd9-57eb-4e11-865a-1afe03801bc5.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 14](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415884101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 16](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415916869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 18](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415949637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 20](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787415982405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 22-24](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787416015173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+  - [Mocha Owl / UK 26-28](https://peppervale.co.uk/products/rockthosecurves-short-sleeve-hanky-hem-studded-owl-long-length-top?variant=58787416047941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1500.png?v=1786029433
+    Price: £32.58 GBP
+- [Sparkly Shimmer Off Shoulder Bardot Top](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top): Indulge in pure glamour with the Sparkly Shimmer Off Shoulder Bardot Top from RockThoseCurves.This stunning party top features a versatile Bardot neckline that can be worn either off the shoulder or slightly on for more coverage.The batwing sleeves add beautiful drama and movement, while the shimmering fabric catches the light to create a truly show-stopping look.Finished with a stretchy wide band hem, it offers comfort, shape and a flattering fit for every curve.The perfect plus-size party top when you want confidence, sparkle and standout style. ✨ Key Features ✨ Shimmer sparkle fabric — glamorous, eye-catching and perfect for party nights 💃 Off shoulder Bardot style — wear on or off the shoulders for multiple looks 🪽 Batwing sleeves — dramatic, flowy and beautifully flattering on curves 🩱 Stretchy wide band hem — comfortable, secure and smoothing 👚 Versatile party top ideal for evening, going-out or event dressing 💕 Designed for plus-size women with drape and movement in all the right places 📏 Available up to size 28
+  Updated: 2026-09-18T21:19:11Z
+  Vendor: rockthosecurves
+  Product Type: Blouse / Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+  - [BLACK PURPLE / UK 14](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416080709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK PURPLE / UK 16](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416113477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK PURPLE / UK 18](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416146245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK PURPLE / UK 20](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416179013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK PURPLE / UK 22-24](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416211781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK PURPLE / UK 26-28](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416244549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_purple.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 14](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416277317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 16](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416310085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 18](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416342853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 20](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416375621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 22-24](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416408389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK SILVER / UK 26-28](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416441157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_silver.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 14](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416473925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 16](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416506693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 18](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416539461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 20](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416572229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 22-24](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416604997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK GOLD / UK 26-28](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416637765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_gold.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 14](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416670533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 16](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416703301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 18](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416736069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 20](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416768837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 22-24](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416801605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK BLUE / UK 26-28](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416834373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/bardot_shimmer_blue.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 14](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416867141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 16](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416899909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 18](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416932677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 20](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416965445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 22-24](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787416998213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+  - [BLACK RED / UK 26-28](https://peppervale.co.uk/products/sparkly-shimmer-off-shoulder-bardot-top?variant=58787417030981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
+    Price: £39.67 GBP
+- [Super Stretchy Soft Feel High Waist Jeggings](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings): SUPER STRETCHY SOFT FEEL HIGH WAIST JEGGINGS – Sculpting Comfort, Effortless Style Upgrade your everyday essentials with these must-have Super Stretchy Soft Feel High Waist Jeggings from Rockthosecurves™ — designed to hug your curves in all the right places while keeping you comfortable all day long. Crafted from a soft, stretchy fabric, these jeggings offer the perfect balance of flexibility and support. The high waist with elasticated waistband provides a smooth, flattering fit, while the pull-on design makes them easy to wear. Finished with stylish contrast stitching, these jeggings add a subtle edge to a classic look, making them perfect for both casual and dressed-up outfits. ✨ Why You’ll Love Them: 👖 Flattering high waist design 💕 Comfortable elasticated waistband 🌿 Super soft, stretchy fabric ✨ Stylish contrast stitching detail 👚 Easy pull-on jegging style 🌟 Perfect for everyday wear or dressing up ➕ Designed to complement curves Pair with a longline top and trainers for effortless daytime style, or dress them up with a blouse and heels for a sleek, confident look. Comfort. Shape. Everyday style. A wardrobe essential from Rockthosecurves™. ✨
+  Updated: 2026-10-08T07:09:02Z
+  Vendor: rockthosecurves
+  Product Type: jeggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+  - [TURQUOISE / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787417981253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418014021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418046789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418079557)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418112325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418145093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [TURQUOISE / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418177861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TURQUOISE.png?v=1786029434
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418210629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418243397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418276165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418308933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418341701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418374469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [NAVY BLUE / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418407237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_NAVY.png?v=1786029433
+    Price: £25.50 GBP
+  - [BLACK / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418440005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418472773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418505541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418538309)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418571077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418603845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418636613)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418669381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418702149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418734917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418767685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418800453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418833221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [ROYAL BLUE / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418865989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_ROYAL_BLUE.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418898757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418931525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418964293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418997061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419029829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419062597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419095365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_RED.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419128133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419160901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419193669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419226437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419259205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419291973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [WHITE / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419324741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_WHITE.png?v=1786029434
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419357509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 16](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419390277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 18](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419423045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419455813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419488581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 26-28](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419521349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [FUCHSIA / UK 30-32](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419554117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_FUCHSIA.png?v=1786029433
+    Price: £25.50 GBP
+  - [TAUPE / UK 14](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787419586885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_TAUPE.png?v=1786029433
+    Price: £25.50 GBP
+- [3/4 Length Beaded Scallop Hem Leggings](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings): 3/4 LENGTH BEADED SCALLOP HEM LEGGINGS – Comfort with Elegant Detail Add a touch of sparkle to your style with these stunning 3/4 Length Beaded Scallop Hem Leggings from Rockthosecurves™ — where comfort meets elegant finishing touches. Designed with beautifully stretchy fabric, these leggings move effortlessly with your body, offering comfort and flexibility. The standout feature is the delicate beaded scallop hem, adding a subtle touch of glamour that instantly elevates your outfit. Perfect for pairing with tunics, long tops or dresses, these versatile leggings bring both practicality and style to your wardrobe. (Please note: a small amount of initial bead shedding may occur, which will reduce with wear.) ✨ Why You’ll Love Them: ✨ Elegant beaded scallop hem detail 👖 Flattering 3/4 length design 💕 Super stretchy, comfortable fabric 🌟 Easy pull-on style 👗 Perfect with tunics, tops and dresses ➕ Designed to complement curves Style with a flowing tunic and sandals for effortless daytime chic, or pair with a statement top for an elevated casual look. Comfort. Style. A hint of sparkle. A wardrobe essential with a glamorous twist from Rockthosecurves™. ✨
+  Updated: 2026-09-18T21:19:11Z
+  Vendor: rockthosecurves
+  Product Type: Leggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+  - [BLACK SILVER / UK 12-14](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417063749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK SILVER / UK 16-18](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417096517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK SILVER / UK 20-22](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417129285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK SILVER / UK 24-26](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417162053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK SILVER / UK 28-30](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417194821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK SILVER / UK 32-34](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417227589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK GOLD / UK 12-14](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417260357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-GO.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK GOLD / UK 16-18](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417293125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-GO.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK GOLD / UK 20-22](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417325893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-GO.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK GOLD / UK 24-26](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417358661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-GO.png?v=1786029433
+    Price: £21.25 GBP
+  - [BLACK GOLD / UK 28-30](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417391429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-GO.png?v=1786029433
+    Price: £21.25 GBP
+  - [BROWN / UK 12-14](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417424197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI_2.png?v=1786029433
+    Price: £21.25 GBP
+  - [BROWN / UK 16-18](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417456965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI_2.png?v=1786029433
+    Price: £21.25 GBP
+  - [BROWN / UK 20-22](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417489733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI_2.png?v=1786029433
+    Price: £21.25 GBP
+  - [BROWN / UK 24-26](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417522501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI_2.png?v=1786029433
+    Price: £21.25 GBP
+  - [BROWN / UK 28-30](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417555269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_BL-SI_2.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 12-14](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417588037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 16-18](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417620805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 20-22](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417653573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 24-26](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417686341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 28-30](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417719109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [RED / UK 32-34](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417751877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_RED.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 12-14](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417784645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 16-18](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417817413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 20-22](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417850181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 24-26](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417882949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 28-30](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417915717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+  - [GREY / UK 32-34](https://peppervale.co.uk/products/3-4-length-beaded-scallop-hem-leggings?variant=58787417948485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
+    Price: £21.25 GBP
+- [Plain Elastic High Waist Wide Leg Culottes Shorts](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts): PLAIN ELASTIC HIGH WAIST WIDE LEG CULOTTES SHORTS – Effortless Comfort, Everyday Style Upgrade your everyday wardrobe with these versatile Plain Elastic High Waist Wide Leg Culottes Shorts from Rockthosecurves™ — designed for comfort, movement and easy styling. Featuring a flattering high waist with elasticated waistband, these culottes provide a comfortable pull-on fit that sits perfectly on your curves. The wide leg design creates beautiful movement while offering a relaxed, breathable feel — ideal for warmer days. Crafted from soft, stretchy fabric, they deliver all-day comfort without compromising on style, making them a go-to piece for both casual and dressed-up looks. ✨ Why You’ll Love Them: 👖 Flattering high waist design 💕 Comfortable elasticated waistband 🌿 Soft, stretchy fabric for all-day wear 💃 Stylish wide leg culotte fit ☀️ Lightweight and perfect for warm weather 🌟 Easy to dress up or down ➕ Designed to complement curves Pair with a simple vest and sandals for relaxed daytime style, or dress them up with a blouse and wedges for effortless summer chic. Comfort. Movement. Effortless style. A must-have wardrobe essential from Rockthosecurves™. ✨
+  Updated: 2026-10-09T06:19:02Z
+  Vendor: rockthosecurves
+  Product Type: CULOTTES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_05_28_31_PM.png?v=1786029433
+  - [WHITE / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419816261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_05_28_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [WHITE / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419849029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_05_28_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [WHITE / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419881797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_05_28_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [WHITE / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419914565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_05_28_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [MOCHA / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419947333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_09_45_29_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [MOCHA / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787419980101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_09_45_29_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [MOCHA / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420012869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_09_45_29_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [MOCHA / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420045637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_09_45_29_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [MOCHA / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420078405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_09_45_29_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [NAVY BLUE / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420111173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_5_2026_08_57_13_AM.png?v=1786029434
+    Price: £22.67 GBP
+  - [NAVY BLUE / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420143941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_5_2026_08_57_13_AM.png?v=1786029434
+    Price: £22.67 GBP
+  - [NAVY BLUE / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420176709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_5_2026_08_57_13_AM.png?v=1786029434
+    Price: £22.67 GBP
+  - [NAVY BLUE / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420209477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_5_2026_08_57_13_AM.png?v=1786029434
+    Price: £22.67 GBP
+  - [NAVY BLUE / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420242245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_5_2026_08_57_13_AM.png?v=1786029434
+    Price: £22.67 GBP
+  - [TURQUOISE / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420275013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_10_41_50_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [TURQUOISE / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420307781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_10_41_50_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [TURQUOISE / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420340549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_10_41_50_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [TURQUOISE / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420373317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_10_41_50_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [TURQUOISE / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420406085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_10_41_50_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [GREEN / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420438853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Mar_30_2026_08_59_10_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [GREEN / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420471621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Mar_30_2026_08_59_10_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [GREEN / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420504389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Mar_30_2026_08_59_10_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [GREEN / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420537157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Mar_30_2026_08_59_10_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [GREEN / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420569925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Mar_30_2026_08_59_10_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [BLACK / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420602693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_6_2026_07_36_51_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [BLACK / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420635461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_6_2026_07_36_51_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [BLACK / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420668229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_6_2026_07_36_51_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [BLACK / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420700997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_6_2026_07_36_51_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [BLACK / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420733765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_6_2026_07_36_51_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [FUCHSIA / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420766533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_3_2026_11_53_47_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [FUCHSIA / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420799301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_3_2026_11_53_47_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [FUCHSIA / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420832069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_3_2026_11_53_47_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [FUCHSIA / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420864837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_3_2026_11_53_47_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [PURPLE / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420897605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_07_42_45_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [PURPLE / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420930373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_07_42_45_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [PURPLE / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420963141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_07_42_45_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [PURPLE / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787420995909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_07_42_45_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [PURPLE / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421028677)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_07_42_45_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [ROYAL BLUE / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421061445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_06_28_17_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [ROYAL BLUE / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421094213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_06_28_17_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [ROYAL BLUE / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421126981)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_06_28_17_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [ROYAL BLUE / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421159749)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_06_28_17_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [ROYAL BLUE / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421192517)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_2_2026_06_28_17_PM.png?v=1786029434
+    Price: £22.67 GBP
+  - [RED / UK 12-14](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421225285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [RED / UK 16-18](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421258053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [RED / UK 20-22](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421290821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [RED / UK 24-26](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421323589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+  - [RED / UK 28-30](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts?variant=58787421356357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
+    Price: £22.67 GBP
+- [ZIP UP HOODIE PLUS SIZE JACKET](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket): Stay warm and stylish with our ZIP UP HOODIE PLUS SIZE JACKET, featuring convenient front pockets! From ROCKTHOSECURVES, this long-sleeve jacket will keep you comfortable and confident in any weather.
+  Updated: 2026-10-09T16:32:10Z
+  Vendor: rockthosecurves
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548.png?v=1786029434
+  - [WINE / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421389125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [WINE / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421421893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [WINE / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421454661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [WINE / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421487429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [WINE / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421520197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [WINE / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421552965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8548_026dd906-a66a-44ea-8aa7-c2979f005068.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421585733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421618501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421651269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421684037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421716805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421749573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLUE / UK 30-32](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421782341)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9353_e2283813-9343-44da-ab90-1f82e087cd2d.png?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421815109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421847877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421880645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421913413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421946181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787421978949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0127_def99cb8-3bb5-4d8d-a0eb-6a3a9af1e086.jpg?v=1786029434
+    Price: £26.92 GBP
+  - [BLACK / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422011717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422044485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422077253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422110021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422142789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422175557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [BLACK / UK 30-32](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422208325)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0132.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422241093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422273861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422306629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422339397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422372165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [CHARCOAL / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422404933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9395.png?v=1786029434
+    Price: £26.92 GBP
+  - [PURPLE / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422437701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422470469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422503237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422536005)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422568773)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422601541)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [PURPLE / UK 12](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422634309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYPURPLE.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422667077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422699845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422732613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422765381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422798149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [FUCHSIA / UK 26-28](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422830917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/HOODYFUCHSIA.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [GREY / UK 14](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422863685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREY / UK 16](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422896453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREY / UK 18](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422929221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREY / UK 20](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422961989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREY / UK 22-24](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket?variant=58787422994757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
+    Price: £26.92 GBP
+- [Tracksuit with Straight Leopard Panels](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels): Take athleisure to the next level with our Tracksuit with Leopard Panels, combining comfort and bold style in one must-have outfit. Crafted with a fierce leopard panel design, this set adds a wild twist to classic loungewear, making it perfect for workouts, errands, or casual days out. The elasticated waist trousers offer a comfortable, flexible fit, while the matching top with leopard accents brings effortless coordination. Designed for plus-size curves, this tracksuit ensures you look and feel fabulous wherever your day takes you. Product Features: 🐆 Leopard panel detailing – Bold, on-trend styling 👖 Elasticated waist trousers – Comfortable and flattering 👕 Coordinated top with panels – Effortless matching look ✨ Versatile design – Perfect for workouts, lounging, or casual outings ➕ Plus-size fit – Designed for sizes 14–28 Stylish, comfortable, and unapologetically bold – this RockThoseCurves tracksuit is your go-to for everyday confidence and standout athleisure style.
+  Updated: 2026-10-01T06:52:27Z
+  Vendor: rockthosecurves
+  Product Type: Tracksuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+  - [BLACK / UK 14](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423715653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423748421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423781189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423813957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423846725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423879493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 14](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423912261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 16](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423945029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 18](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423977797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 20](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424010565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 22-24](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424043333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [BROWN / UK 26-28](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424076101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_752.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 14](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424108869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 16](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424141637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 18](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424174405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 20](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424207173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 22-24](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424239941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+  - [GREY / UK 26-28](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787424272709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
+    Price: £55.25 GBP
+- [Polka Dot Strappy Pleated Layered Cami Top Blouse](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse): POLKA DOT STRAPPY PLEATED LAYERED CAMI TOP BLOUSE – Feminine Layers with Effortless Style Step into effortless elegance with this stunning Polka Dot Strappy Pleated Layered Cami Top Blouse from Rockthosecurves™ — designed to flatter your curves while keeping you cool and comfortable. Featuring a timeless polka dot print, this blouse brings a chic, feminine feel perfect for holidays, evenings or everyday summer styling. The lightweight strappy cami design keeps the look cool and flattering, while the soft pleated fabric adds beautiful texture and movement. Finished with a stylish layered effect, this top drapes effortlessly over your curves for a floaty, relaxed silhouette that feels both elegant and easy to wear. ✨ Why You’ll Love It: ⚪ Timeless polka dot print design 🌿 Elegant pleated fabric finish 👚 Lightweight strappy cami style 🌊 Flattering layered silhouette 💕 Relaxed, floaty fit ☀️ Perfect for holidays and summer styling 🌟 Easy to dress up or down ➕ Designed to complement curves - SIZE UP IN THIS ONE FOR A COMFORT FIT Pair with palazzo trousers, jeans or shorts for an effortlessly chic look with timeless style. Floaty. Feminine. Effortlessly glamorous. A must-have cami blouse from Rockthosecurves™. ✨
+  Updated: 2026-09-29T23:45:37Z
+  Vendor: rockthosecurves
+  Product Type: CAMI VEST
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+  - [RED / UK 14](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424305477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 16](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424338245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 18](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424371013)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 20](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424403781)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 22-24](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424436549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [RED / UK 26-28](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424469317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_2943.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 14](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424502085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 16](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424534853)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 18](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424567621)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 20](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424600389)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 22-24](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424633157)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLUE / UK 26-28](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424665925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_01_09_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 14](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424698693)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 16](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424731461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 18](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424764229)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 20](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424796997)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 22-24](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424829765)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [YELLOW / UK 26-28](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424862533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_16_57_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [CORAL / UK 16](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424895301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_11_11_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 14](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424928069)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424960837)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787424993605)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787425026373)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787425059141)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse?variant=58787425091909)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_25_2026_07_27_25_AM.png?v=1786029434
+    Price: £25.50 GBP
+- [ROCKTHOSECURVES CRINKLE PLEATED ELASTIC WAIST TROUSERS](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers): ROCKTHOSECURVES CRINKLE PLEATED ELASTIC WAIST TROUSERS features fine pleats, a high waist, and a straight leg design with an elasticated waist for maximum comfort and style. Elevate your wardrobe with these must-have pants from Rockthosecurves!
+  Updated: 2026-09-18T21:19:12Z
+  Vendor: rockthosecurves
+  Product Type: trousers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0052_2f72d09a-de4c-4d8c-a247-cc8a3b215055.png?v=1786029434
+  - [RED / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425124677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8611.png?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425157445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8611.png?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425190213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8611.png?v=1786029434
+    Price: £26.92 GBP
+  - [RED / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425222981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8611.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLACK / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425255749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0052_2a00a886-b356-46f2-8528-f9d32818a4d3.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLACK / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425288517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0052_2a00a886-b356-46f2-8528-f9d32818a4d3.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLACK / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425321285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0052_2a00a886-b356-46f2-8528-f9d32818a4d3.png?v=1786029434
+    Price: £26.92 GBP
+  - [BLACK / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425354053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-0052_2a00a886-b356-46f2-8528-f9d32818a4d3.png?v=1786029434
+    Price: £26.92 GBP
+  - [CREAM / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425386821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/6158_cream.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [CREAM / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425419589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/6158_cream.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [CREAM / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425452357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/6158_cream.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [CREAM / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425485125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/6158_cream.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [MOCHA / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425517893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8607.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [MOCHA / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425550661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8607.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [MOCHA / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425583429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8607.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [MOCHA / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425616197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8607.jpg?v=1786029433
+    Price: £26.92 GBP
+  - [ORANGE / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425780037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8264_67ec9b40-0c21-4748-ba2a-d84ccd1cee79.png?v=1786029434
+    Price: £26.92 GBP
+  - [ORANGE / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425812805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8264_67ec9b40-0c21-4748-ba2a-d84ccd1cee79.png?v=1786029434
+    Price: £26.92 GBP
+  - [ORANGE / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425845573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8264_67ec9b40-0c21-4748-ba2a-d84ccd1cee79.png?v=1786029434
+    Price: £26.92 GBP
+  - [ORANGE / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425878341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8264_67ec9b40-0c21-4748-ba2a-d84ccd1cee79.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREEN / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425911109)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8406.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREEN / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425943877)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8406.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREEN / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787425976645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8406.png?v=1786029434
+    Price: £26.92 GBP
+  - [GREEN / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-crinkle-pleated-elastic-waist-trousers?variant=58787426009413)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8406.png?v=1786029434
+    Price: £26.92 GBP
+- [Floral Wide Leg Palazzo Trousers](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers): Step into bold comfort with our Wide Leg Floral Palazzo Trousers – the ultimate in effortless chic. Designed with a flattering high-rise elasticated waist, these flowing trousers offer all-day comfort and undeniable style. The wide leg design adds drama and movement, while the floral print keeps your look fresh and fun. Perfect for beach strolls, brunch dates or dressing up with heels. These are trousers made to move with you – and turn heads while doing it. ✨ Features: 🌸 Beautiful floral print 🧵 Wide leg cut for elegant flow 👖 Elasticated high waist for a perfect fit 🇬🇧 Made in the UK – Rockthosecurves exclusive 🔄 Available in UK sizes 14-20
+  Updated: 2026-09-18T21:19:12Z
+  Vendor: rockthosecurves
+  Product Type: trousers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+  - [GREEN / UK 14](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426730309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+    Price: £34.00 GBP
+  - [GREEN / UK 16](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426763077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+    Price: £34.00 GBP
+  - [GREEN / UK 20](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426795845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+    Price: £34.00 GBP
+  - [GREEN / UK 18](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426828613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+    Price: £34.00 GBP
+  - [GREEN / UK 22-24](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426861381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Untitled_design_369.png?v=1786029436
+    Price: £34.00 GBP
+  - [NAVY BLUE / UK 14](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426894149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NAVY_PALAZZO.png?v=1786029436
+    Price: £34.00 GBP
+  - [NAVY BLUE / UK 16](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426926917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NAVY_PALAZZO.png?v=1786029436
+    Price: £34.00 GBP
+  - [NAVY BLUE / UK 20](https://peppervale.co.uk/products/floral-wide-leg-palazzo-trousers?variant=58787426959685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NAVY_PALAZZO.png?v=1786029436
+    Price: £34.00 GBP
+- [ELASTIC WAIST FLARED A-LINE SKATER SKIRT](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt): ELASTIC WAIST FLARED A-LINE SKATER SKIRT elastic waist skater skirt plus sizes skirts from Rockthosecurves
+  Updated: 2026-09-18T21:19:13Z
+  Vendor: rockthosecurves
+  Product Type: Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1728.png?v=1786029437
+  - [BLACK / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427090757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1729.png?v=1786029437
+    Price: £42.50 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427123525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1729.png?v=1786029437
+    Price: £42.50 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138302968133)
+    Availability: Available
+    Price: £42.50 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427156293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1729.png?v=1786029437
+    Price: £42.50 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427189061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-1729.png?v=1786029437
+    Price: £42.50 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303000901)
+    Availability: Available
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427352901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtnavyblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427385669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtnavyblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303099205)
+    Availability: Available
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427418437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtnavyblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427451205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtnavyblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [NAVY BLUE / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303131973)
+    Availability: Available
+    Price: £42.50 GBP
+  - [RED / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427483973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtred.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [RED / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427516741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtred.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [RED / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303164741)
+    Availability: Available
+    Price: £42.50 GBP
+  - [RED / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427549509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtred.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [RED / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427582277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtred.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [RED / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303197509)
+    Availability: Available
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427615045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtroyalblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427647813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtroyalblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303230277)
+    Availability: Available
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427680581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtroyalblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427713349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtroyalblue.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [ROYAL BLUE / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303263045)
+    Availability: Available
+    Price: £42.50 GBP
+  - [GREY / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427746117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtgrey.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [GREY / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427778885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtgrey.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [GREY / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303295813)
+    Availability: Available
+    Price: £42.50 GBP
+  - [GREY / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427811653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtgrey.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [GREY / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427844421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtgrey.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [GREY / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303328581)
+    Availability: Available
+    Price: £42.50 GBP
+  - [TEAL / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427877189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtdarkteal.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [TEAL / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427909957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtdarkteal.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [TEAL / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303361349)
+    Availability: Available
+    Price: £42.50 GBP
+  - [TEAL / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427942725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtdarkteal.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [TEAL / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427975493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtdarkteal.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [TEAL / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303394117)
+    Availability: Available
+    Price: £42.50 GBP
+  - [WINE / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787428008261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtlighwine.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [WINE / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787428041029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtlighwine.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [WINE / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303426885)
+    Availability: Available
+    Price: £42.50 GBP
+  - [WINE / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787428073797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtlighwine.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [WINE / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787428106565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtlighwine.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [WINE / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303459653)
+    Availability: Available
+    Price: £42.50 GBP
+  - [PURPLE / UK 14](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427221829)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtpurple.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [PURPLE / UK 16](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427254597)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtpurple.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [PURPLE / UK 18](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303033669)
+    Availability: Not Available
+    Price: £42.50 GBP
+  - [PURPLE / UK 20](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427287365)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtpurple.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [PURPLE / UK 22-24](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=58787427320133)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/5007plainskaterskirtpurple.jpg?v=1786029436
+    Price: £42.50 GBP
+  - [PURPLE / UK 26-28](https://peppervale.co.uk/products/elastic-waist-flared-a-line-skater-skirt?variant=59138303066437)
+    Availability: Not Available
+    Price: £42.50 GBP
+- [Black Soft Stretchy High Rise Leggings with Sequin Cut Out Hem](https://peppervale.co.uk/products/black-soft-stretchy-high-rise-leggings-with-sequin-cut-out-hem): BLACK SOFT STRETCHY HIGH RISE LEGGINGS WITH SEQUIN CUT OUT HEM – Everyday Comfort with a Sparkling Edge Step up your style with these stunning Rockthosecurves™ Black Soft Stretchy High Rise Leggings with Sequin Cut Out Hem — designed to combine comfort, flexibility and eye-catching detail. Crafted from ultra-soft, stretchy fabric, these leggings offer a flattering fit that moves with your body while keeping you comfortable all day long. The high rise design with an elasticated waistband provides a smooth, secure fit that enhances your silhouette. The standout feature is the stylish laser cut hem with sequin detailing, adding a subtle sparkle that elevates these leggings from everyday essential to statement piece. ✨ Why You’ll Love Them: 🖤 Classic black, easy-to-style colour 💕 Flattering high rise fit 🌿 Ultra soft, stretchy fabric ✨ Eye-catching sequin cut out hem detail 👖 Comfortable elasticated waistband 🌟 Perfect for casual or dressed-up looks ➕ Designed to complement curves Pair with a longline top and trainers for effortless daytime style, or dress them up with a blouse and heels for a chic, evening-ready look. Comfort. Sparkle. Statement style. A must-have pair of leggings from Rockthosecurves™. ✨
+  Updated: 2026-10-03T10:45:27Z
+  Vendor: rockthosecurves
+  Product Type: Leggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Glamorous_blonde_in_chic_black_outfit.png?v=1786029436
+  - [BLACK / UK 12-14](https://peppervale.co.uk/products/black-soft-stretchy-high-rise-leggings-with-sequin-cut-out-hem?variant=58787428139333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Glamorous_blonde_in_chic_black_outfit.png?v=1786029436
+    Price: £22.67 GBP
+  - [BLACK / UK 16-18](https://peppervale.co.uk/products/black-soft-stretchy-high-rise-leggings-with-sequin-cut-out-hem?variant=58787428172101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Glamorous_blonde_in_chic_black_outfit.png?v=1786029436
+    Price: £22.67 GBP
+  - [BLACK / UK 20-22](https://peppervale.co.uk/products/black-soft-stretchy-high-rise-leggings-with-sequin-cut-out-hem?variant=58787428204869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Glamorous_blonde_in_chic_black_outfit.png?v=1786029436
+    Price: £22.67 GBP
+  - [BLACK / UK 24-26](https://peppervale.co.uk/products/black-soft-stretchy-high-rise-leggings-with-sequin-cut-out-hem?variant=58787428237637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/Glamorous_blonde_in_chic_black_outfit.png?v=1786029436
+    Price: £22.67 GBP
+- [ROCKTHOSECURVES KHAKI CAMO OPEN FRONT JACKET / HOODIE](https://peppervale.co.uk/products/rockthosecurves-khaki-camo-open-front-jacket-hoodie): ROCKTHOSECURVES KHAKI CAMO OPEN FRONT JACKET / HOODIE Dispatch on this item is 1-2 working days 95% polyester 5% elastane (thick cotton feel fabric) long sleeve hoodie camo print open front drawstring hem long length jacket made in the UK jacket from Rockthosecurves
+  Updated: 2026-09-18T21:19:12Z
+  Vendor: rockthosecurves
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8701_903d26ac-712b-421e-8b3c-bbc22483fdd8.png?v=1786029437
+  - [Khaki / Beige / UK 12-14](https://peppervale.co.uk/products/rockthosecurves-khaki-camo-open-front-jacket-hoodie?variant=58787428270405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8701.png?v=1786029437
+    Price: £36.83 GBP
+  - [Khaki / Beige / UK 16-18](https://peppervale.co.uk/products/rockthosecurves-khaki-camo-open-front-jacket-hoodie?variant=58787428303173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8701.png?v=1786029437
+    Price: £36.83 GBP
+  - [Khaki / Beige / UK 20-22](https://peppervale.co.uk/products/rockthosecurves-khaki-camo-open-front-jacket-hoodie?variant=58787428335941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8701.png?v=1786029437
+    Price: £36.83 GBP
+  - [Khaki / Beige / UK 24-26](https://peppervale.co.uk/products/rockthosecurves-khaki-camo-open-front-jacket-hoodie?variant=58787428368709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-8701.png?v=1786029437
+    Price: £36.83 GBP
+- [Floral Sleeveless Elasticated Waist Jumpsuit](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit): Say hello to effortless summer style with the Floral Sleeveless Elasticated Waist Jumpsuit 🌸Designed in a soft, stretchy fabric with a lined bodice and a flattering elasticated waist, it offers both comfort and confidence.The floral print adds a fresh, feminine touch while the relaxed fit ensures you’ll feel fabulous all day long.Ideal for holidays or casual wear, this is your go-to piece for looking stylish with zero effort. ✨ Key Features 🌺 All-over floral print — fresh, flattering & perfect for summer 💪 Stretchy fabric with a good weight and thickness for quality & comfort 👚 Fully lined top section for a smooth, flattering fit 💃 Elasticated waist defines your shape while keeping it comfy ☀️ Sleeveless design ideal for warm days and holidays 🧺 Easy-care & crease-resistant — perfect for packing 📏 True-to-size fit, available up to size 28
+  Updated: 2026-09-18T21:19:12Z
+  Vendor: rockthosecurves
+  Product Type: Jumpsuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+  - [BLUE / UK 14](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428499781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+  - [BLUE / UK 16](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428532549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+  - [BLUE / UK 18](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428565317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+  - [BLUE / UK 20](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428598085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+  - [BLUE / UK 22-24](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428630853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+  - [BLUE / UK 26-28](https://peppervale.co.uk/products/floral-sleeveless-elasticated-waist-jumpsuit?variant=58787428663621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
+    Price: £46.75 GBP
+[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MjE3ODExNywibGFzdF92YWx1ZSI6IjE2MDcxNTQyMTc4MTE3In0%3D)
 
 ## Collections
 
 - [Women’s Clothing](https://peppervale.co.uk/collections/womens-clothing): Shop women's clothing at PepperVale, including dresses, tops, knitwear, jackets and easy everyday layers from independent brands, with UK delivery.
-  Updated: 2026-10-02T06:06:11Z
+  Updated: 2026-10-09T19:12:04Z
   Total Products: 13675
 - [Dresses & One-Pieces](https://peppervale.co.uk/collections/dresses-one-pieces): Explore PepperVale’s dresses and one-piece styles, from easy day dresses to standout occasion pieces. Shop women’s fashion with UK delivery and secure checkout.
   Updated: 2026-09-18T22:26:29Z
   Total Products: 1180
 - [Tops & Blouses](https://peppervale.co.uk/collections/tops-blouses): Find everyday tops, blouses and easy layers at PepperVale, selected for colourful UK wardrobes. Shop relaxed essentials and statement pieces with secure checkout.
-  Updated: 2026-10-01T06:40:49Z
+  Updated: 2026-10-08T18:39:57Z
   Total Products: 3206
 - [Knitwear & Sweatshirts](https://peppervale.co.uk/collections/knitwear-sweatshirts): Discover soft knitwear, cosy sweaters and easy sweatshirts at PepperVale, with colourful layers for relaxed UK dressing. Shop securely with UK delivery.
-  Updated: 2026-09-19T14:51:28Z
+  Updated: 2026-10-08T18:39:57Z
   Total Products: 639
 - [Jackets & Coats](https://peppervale.co.uk/collections/jackets-coats): Layer up with PepperVale’s women’s jackets and coats, from lightweight cover-ups to cosy outerwear for changeable UK days. Shop secure checkout and UK delivery.
-  Updated: 2026-09-22T13:17:01Z
+  Updated: 2026-10-07T13:40:58Z
   Total Products: 1026
 - [Trousers & Shorts](https://peppervale.co.uk/collections/trousers-shorts): Shop PepperVale’s trousers, jeans, joggers and shorts for easy everyday outfits. Discover comfortable women’s separates with UK delivery and secure checkout.
   Updated: 2026-10-02T06:06:11Z
@@ -2593,7 +2515,7 @@
   Updated: 2026-09-18T22:53:02Z
   Total Products: 847
 - [Skirts](https://peppervale.co.uk/collections/skirts): Shop women’s skirts at PepperVale, from easy mini and midi styles to flowing maxi skirts, selected from independent brands with secure UK checkout.
-  Updated: 2026-09-18T22:26:29Z
+  Updated: 2026-10-09T19:12:04Z
   Total Products: 235
 - [Jumpsuits & Playsuits](https://peppervale.co.uk/collections/jumpsuits-playsuits): Discover women’s jumpsuits, playsuits and easy one-piece outfits at PepperVale, selected from independent brands for work, weekends and holidays.
   Updated: 2026-09-18T22:26:29Z
@@ -2611,34 +2533,34 @@
   Updated: 2026-09-24T10:03:55Z
   Total Products: 5194
 - [Kids & Baby](https://peppervale.co.uk/collections/kids-baby): Shop baby, toddler and children’s clothing at PepperVale, including everyday organic basics and comfortable styles from independent brands.
-  Updated: 2026-10-01T10:07:35Z
+  Updated: 2026-10-05T12:23:13Z
   Total Products: 1871
 - [Workwear & Safety Clothing](https://peppervale.co.uk/collections/workwear-safety-clothing): Shop durable UK workwear, hi-vis clothing, safety footwear, work trousers, jackets and trade accessories from trusted brands for men and women.
-  Updated: 2026-09-22T15:39:05Z
+  Updated: 2026-10-07T13:40:58Z
   Total Products: 5586
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-10-02T17:01:22Z
-  Total Products: 855
+  Updated: 2026-10-09T17:54:00Z
+  Total Products: 839
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-10-02T06:52:11Z
-  Total Products: 383
+  Updated: 2026-10-09T18:13:31Z
+  Total Products: 378
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
-  Updated: 2026-09-18T23:12:55Z
+  Updated: 2026-10-07T10:53:58Z
   Total Products: 2530
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-26T13:31:48Z
+  Updated: 2026-10-08T18:39:57Z
   Total Products: 15067
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-22T15:39:05Z
+  Updated: 2026-10-05T12:23:13Z
   Total Products: 9980
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-01T10:07:35Z
+  Updated: 2026-10-06T10:15:01Z
   Total Products: 15609
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-02T06:06:11Z
+  Updated: 2026-10-09T19:12:04Z
   Total Products: 12076
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-09-19T14:51:13Z
+  Updated: 2026-10-08T18:21:12Z
   Total Products: 5059
 - [Homeware & Décor](https://peppervale.co.uk/collections/homeware-decor)
   Updated: 2026-09-18T21:55:14Z
@@ -2650,10 +2572,10 @@
   Updated: 2026-09-18T22:52:49Z
   Total Products: 137
 - [eBay ramp - £20 profit](https://peppervale.co.uk/collections/ebay-ramp-20-profit)
-  Updated: 2026-10-02T06:06:11Z
+  Updated: 2026-10-09T19:12:04Z
   Total Products: 8350
 - [eBay ramp - £20 profit - part 01](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-01)
-  Updated: 2026-10-02T06:06:11Z
+  Updated: 2026-10-09T19:12:04Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 02](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-02)
   Updated: 2026-09-18T21:40:00Z
@@ -2665,7 +2587,7 @@
   Updated: 2026-09-18T21:46:00Z
   Total Products: 494
 - [eBay ramp - £20 profit - part 05](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-05)
-  Updated: 2026-09-18T21:54:56Z
+  Updated: 2026-10-05T12:23:13Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 06](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-06)
   Updated: 2026-10-01T09:54:40Z
@@ -2680,16 +2602,16 @@
   Updated: 2026-09-18T23:12:02Z
   Total Products: 973
 - [eBay ramp - below floor or excluded](https://peppervale.co.uk/collections/ebay-ramp-below-floor-or-excluded)
-  Updated: 2026-10-01T10:07:35Z
+  Updated: 2026-10-07T13:40:58Z
   Total Products: 11924
 - [eBay ramp - 100pc cost + 15 net](https://peppervale.co.uk/collections/ebay-ramp-100pc-cost-15-net): Auto-built. Qualifies for 100% markup on cost AND >= 15 GBP net profit at +85% MC markup. Not published to any sales channel.
-  Updated: 2026-10-01T09:54:40Z
+  Updated: 2026-10-08T18:28:07Z
   Total Products: 22496
 - [eBay eligible – stock 3+ and cost ](https://peppervale.co.uk/collections/ebay-eligible-stock-3-cost-): Internal Marketplace Connect source. Products qualify only after all variants pass the Peppervale cost check and at least one variant has Shopify inventory greater than 2.
-  Updated: 2026-10-02T21:56:45Z
-  Total Products: 40674
+  Updated: 2026-10-10T23:40:59Z
+  Total Products: 40532
 - [eBay rollout – audited stock 3+ – 13 Sep 2026](https://peppervale.co.uk/collections/ebay-rollout-audited-stock-3-2026-09-13): Internal Marketplace Connect rollout set generated from the 13 September 2026 Peppervale cost and inventory audit. The live quantity formula remains the final stock safeguard.
-  Updated: 2026-10-01T09:54:40Z
+  Updated: 2026-10-08T18:39:57Z
   Total Products: 35463
 
 ## Blogs
@@ -3040,6 +2962,39 @@
     Author: PepperVale Editorial Team
   - [How to choose men’s work trousers that last](https://peppervale.co.uk/blogs/news/how-to-choose-mens-work-trousers-that-last): A practical guide to men’s work trousers: fabrics, fit, pockets, knee pad options and when to choose heavier or lighter pairs for UK work.
     Updated: 2026-10-02T06:30:08Z
+    Author: peppervale.co.uk
+  - [How to use colour at home without getting it wrong](https://peppervale.co.uk/blogs/news/how-to-use-colour-at-home-without-getting-it-wrong): A practical guide to choosing colourful homeware for UK homes, with simple advice on colour balance, materials, rooms and everyday use.
+    Updated: 2026-10-03T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to choose homeware that works in a busy kitchen](https://peppervale.co.uk/blogs/news/choose-homeware-for-a-busy-kitchen): A practical guide to kitchen homeware for UK households, covering materials, durability, sizing, care and what to buy for daily use.
+    Updated: 2026-10-04T06:30:05Z
+    Author: peppervale.co.uk
+  - [The Rise of Circular Fashion: Trends and Innovative Ideas](https://peppervale.co.uk/blogs/news/the-rise-of-circular-fashion-trends-and-innovative-ideas): The Rise of Circular Fashion: Trends and Innovative Ideas
+    Updated: 2026-10-05T01:48:34Z
+    Author: PepperVale Editorial Team
+  - [How to buy homeware online without costly mistakes](https://peppervale.co.uk/blogs/news/how-to-buy-homeware-online-without-costly-mistakes): A practical UK guide to buying homeware online, from sizes and materials to bedding, delivery, returns and building one sensible basket.
+    Updated: 2026-10-05T06:30:09Z
+    Author: peppervale.co.uk
+  - [How to choose autumn homeware that lasts past one season](https://peppervale.co.uk/blogs/news/how-to-choose-autumn-homeware-that-lasts-past-one-season): A practical guide to autumn homeware for UK homes, from bedding and throws to rugs and lighting, with tips on materials, warmth and easy care.
+    Updated: 2026-10-06T06:30:13Z
+    Author: peppervale.co.uk
+  - [Tutorials on Creating Sustainable Beauty Products at Home](https://peppervale.co.uk/blogs/news/tutorials-on-creating-sustainable-beauty-products-at-home): Tutorials on Creating Sustainable Beauty Products at Home
+    Updated: 2026-10-07T01:30:25Z
+    Author: PepperVale Editorial Team
+  - [How to choose women’s safety footwear that fits properly](https://peppervale.co.uk/blogs/news/how-to-choose-womens-safety-footwear-that-fits-properly): A practical guide to women’s safety footwear, including fit, EN ISO 20345 ratings, toe types, sole features and when each style suits the job.
+    Updated: 2026-10-07T06:30:07Z
+    Author: peppervale.co.uk
+  - [How to choose the right children’s clothing size first time](https://peppervale.co.uk/blogs/news/how-to-choose-the-right-childrens-clothing-size-first-time): A practical UK guide to children’s clothing sizes by age, height and fit, with measuring tips to help you order the right size online.
+    Updated: 2026-10-08T06:30:10Z
+    Author: peppervale.co.uk
+  - [Exploring the Benefits of a Minimalist Lifestyle for the Planet](https://peppervale.co.uk/blogs/news/exploring-the-benefits-of-a-minimalist-lifestyle-for-the-planet): Exploring the Benefits of a Minimalist Lifestyle for the Planet
+    Updated: 2026-10-09T01:21:04Z
+    Author: PepperVale Editorial Team
+  - [Children’s country clothing that stands up to school runs](https://peppervale.co.uk/blogs/news/childrens-country-clothing-school-runs): A practical guide to children’s country clothing for UK families, covering fabrics, fit, layers, footwear and what works for daily wear.
+    Updated: 2026-10-09T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to read UK safety footwear labels before you buy](https://peppervale.co.uk/blogs/news/how-to-read-uk-safety-footwear-labels-before-you-buy): A practical guide to UK safety footwear standards, labels and ratings, including EN ISO 20345, toe caps, midsoles and slip resistance.
+    Updated: 2026-10-10T06:30:06Z
     Author: peppervale.co.uk
 
 ## Store Pages
