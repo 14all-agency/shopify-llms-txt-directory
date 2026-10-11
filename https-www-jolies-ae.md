@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-10-04T08:00:36.995Z
+- Updated At: 2026-10-11T08:00:37.435Z
 
 ## Products
 
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HB-HAIR-SOLUTION-Blue-Diamond-Anti-Frizz-System-HB-JOLIE_S-127911579.jpg?v=1724965238
     Price: AED 200.00 AED
 - [HB Macadamia Anti-Frizz Hair System | JOLIES UAE](https://www.jolies.ae/products/hb-hair-solution-macadamia-anti-frizz-system-1-kg): Shop the HB Hair Solution Macadamia Anti-Frizz System for coordinated conditioning and smoothing care that helps dry hair feel manageable at JOLIES UAE.
-  Updated: 2026-09-30T13:08:03Z
+  Updated: 2026-10-04T13:54:17Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -3037,13 +3037,13 @@
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-03T17:18:24Z
-  Total Products: 38
+  Updated: 2026-10-08T19:45:59Z
+  Total Products: 30
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-03T17:18:25Z
+  Updated: 2026-10-10T11:09:14Z
   Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-10-03T12:14:39Z
+  Updated: 2026-10-10T11:09:14Z
   Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-10-03T12:14:35Z
@@ -3055,8 +3055,8 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-10-03T18:21:24Z
-  Total Products: 206
+  Updated: 2026-10-10T11:09:14Z
+  Total Products: 204
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
   Total Products: 4
@@ -3076,13 +3076,13 @@
   Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-10-04T06:57:09Z
+  Updated: 2026-10-10T11:09:14Z
   Total Products: 513
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-10-04T06:57:09Z
-  Total Products: 369
+  Updated: 2026-10-08T11:13:01Z
+  Total Products: 370
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
-  Updated: 2026-10-03T18:21:24Z
+  Updated: 2026-10-08T11:13:01Z
   Total Products: 9
 
 ## Blogs
