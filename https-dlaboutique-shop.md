@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-02-04T00:05:27Z
 - Contact Email: dlaboutiqueorders@gmail.com
-- Updated At: 2026-09-30T00:00:45.840Z
+- Updated At: 2026-10-11T00:00:47.401Z
 
 Welcome to D'LA BOUTIQUE 
 
@@ -1071,6 +1071,41 @@ Welcome to D'LA BOUTIQUE
   - [L](https://dlaboutique.shop/products/striped-zip-up-athletic-jacket-bmj8042-navy-white-l?variant=54081319108803)
     Availability: Available
     Price: $57.90 USD
+- [Womens Belted Wool Blend Shacket Jacket: Mocha / XL](https://dlaboutique.shop/products/womens-belted-wool-blend-shacket-jacket-mocha-xl): Women's Wool Blend Belted Shacket Lapel Button Coat • Premium Wool Blend: Soft mid-weight fabric with 30-50% wool offers warmth and breathability. • Classic Tailored Details: Features notched lapel, button front, adjustable waist tie, and chest patch pockets. • Relaxed Mid-Length Fit: Oversized cut with regular long sleeves flatters all figures and layers easily. • Timeless Solid Style: Clean British-inspired design with subtle panel work suits casual or dressy looks.
+  Updated: 2026-10-07T07:11:17Z
+  Vendor: Suhkasana
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/f03d30fa83edf0cebbd05f5d23ddd4845aa103e3f244242c6057cb80e1381d9f.jpg?v=1789446045
+  Price: $28.98 USD
+- [Womens Belted Wool Blend Shacket Jacket: Mocha / M](https://dlaboutique.shop/products/womens-belted-wool-blend-shacket-jacket-mocha-m): Women's Wool Blend Belted Shacket Lapel Button Coat • Premium Wool Blend: Soft mid-weight fabric with 30-50% wool offers warmth and breathability. • Classic Tailored Details: Features notched lapel, button front, adjustable waist tie, and chest patch pockets. • Relaxed Mid-Length Fit: Oversized cut with regular long sleeves flatters all figures and layers easily. • Timeless Solid Style: Clean British-inspired design with subtle panel work suits casual or dressy looks.
+  Updated: 2026-10-07T07:03:02Z
+  Vendor: Suhkasana
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/f03d30fa83edf0cebbd05f5d23ddd4845aa103e3f244242c6057cb80e1381d9f_6117ec7c-584f-4276-90af-a711aa0d145b.jpg?v=1789446048
+  Price: $28.98 USD
+- [Women's Quilted Zip Up Bomber Jacket Casual: Black / 100%Viscose / XL](https://dlaboutique.shop/products/womens-quilted-zip-up-bomber-jacket-casual-black-100-viscose-xl): Women's Geometric Bomber Jacket Zip Up Lightweight Outerwear • Chic Geometric Texture: Features a geometric pattern, baseball collar, and full zip closure with a relaxed fit for a trendy streetwear look. • Soft Lightweight Fabric: Crafted from polyester for comfortable all-day wear. Ideal for layering in fall and spring without bulk. • Inclusive Size Range: Available in S-5XL and multiple colors. Designed to flatter every body with a casual, relaxed silhouette. • Versatile Styling: Pairs effortlessly with jeans, leggings, or dresses. Perfect for casual outings, work, or weekend errands. • Durable & Easy Care: Long sleeves with classic bomber details. Maintains shape and texture. Machine washable for everyday convenience.
+  Updated: 2026-10-07T07:04:55Z
+  Vendor: Suhkasana
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/59ab8d803662ae354e711356c4f1f828fdc714c25156017f54d8e69c56d852ac.jpg?v=1789446053
+  Price: $21.16 USD
+- [Womens Satin Long Sleeve Button Down Blouse Elegant: White / 100%Polyester / L](https://dlaboutique.shop/products/womens-satin-long-sleeve-button-down-blouse-elegant-white-100-polyester-l): Women's Silky Satin Blouse Long Sleeve Collared Work Top • Crafted from premium silky satin with a smooth, lightweight drape and wrinkle-resistant finish. • Pullover design with classic point collar and partial button placket for effortless elegance. • Regular fit and mid-length cut flatter all figures when paired with jeans, trousers, or skirts. • A versatile staple that moves seamlessly from professional office days to evening outings. • Available in 16 rich solid colors from versatile neutrals to statement-making bold shades.
+  Updated: 2026-10-07T07:02:12Z
+  Vendor: Suhkasana
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/c3ba955196d543c13b58a3e03e9e12365aa0076e01517be6305a71c94b339301.jpg?v=1789446057
+  Price: $20.36 USD
+- [Womens Satin Long Sleeve Button Down Blouse Elegant: White / 100%Polyester / 2XL](https://dlaboutique.shop/products/womens-satin-long-sleeve-button-down-blouse-elegant-white-100-polyester-2xl): Women's Silky Satin Blouse Long Sleeve Collared Work Top • Crafted from premium silky satin with a smooth, lightweight drape and wrinkle-resistant finish. • Pullover design with classic point collar and partial button placket for effortless elegance. • Regular fit and mid-length cut flatter all figures when paired with jeans, trousers, or skirts. • A versatile staple that moves seamlessly from professional office days to evening outings.
+  Updated: 2026-10-07T06:53:22Z
+  Vendor: Suhkasana
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/c3ba955196d543c13b58a3e03e9e12365aa0076e01517be6305a71c94b339301_4fab774b-6ef1-455f-a331-28c2dea58488.jpg?v=1789446060
+  Price: $20.36 USD
 - [RISEN Basic Fitted Button Down Denim Jacket](https://dlaboutique.shop/products/risen-basic-fitted-button-down-denim-jacket): This Basic Fitted Button Down Denim Jacket features a timeless tailored fitted silhouette with classic button-front closure for a sleek, polished look. Crafted from premium soft denim, it delivers durable structure and all-day comfortable wear. Minimalist basic design makes it endlessly versatile to layer over tops, dresses and blouses. An essential wardrobe staple for daily outings, casual dates, weekend wear and everyday effortless styling. Features:Pocketed Stretch:Slightly stretchy Material composition:93% COTTON, 6% POLYESTER, 1% SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 36 21 M 38 21.5 L 40 22
   Updated: 2026-09-16T21:20:32Z
   Vendor: Trendsi
@@ -1214,7 +1249,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/68f76e99-9b3f-4291-863f-6dc1abb238a2-Max.webp?v=1789507464
     Price: $64.00 USD
 - [RISEN Full Size Mid Rise Crop Wide Wide Cuffed Jeans Plus Size](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size): These Mid Rise Crop Wide Cuffed Jeans are the perfect addition to your wardrobe for a trendy and casual look. The mid rise waist offers a comfortable fit, while the wide leg and cuffed hem add a stylish touch. Made from high quality denim, these jeans are sure to become a staple piece in your collection. Pair them with a tucked-in blouse and sneakers for a chic and effortless outfit. Elevate your denim game with these fashionable and versatile jeans. Features:Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:68% Cotton 30%Polyester 2%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 9.8 28.5-34.8 1(25) 25 32 9.8 28.5-34.8 3(26) 26 33 9.8 28.5-34.8 5(27) 27 34 10.8 28.5-34.8 7(28) 28 35 10.8 28.5-34.8 9(29) 29 36 10.8 28.5-34.8 11(30) 30 37 11.8 28.5-34.8 13(31) 31 38 11.8 28.5-34.8 15(32) 32 39 11.8 28.5-34.8 1XL 34 40 12.3 29.5-35.8 2XL 36 41 12.3 29.5-35.8 3XL 38 42 12.3 29.5-35.8
-  Updated: 2026-09-25T16:57:51Z
+  Updated: 2026-10-10T06:24:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1232,7 +1267,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 5](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137236163)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 7](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137268931)
@@ -1268,7 +1303,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $68.34 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-09-29T23:10:27Z
+  Updated: 2026-10-09T05:13:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1310,7 +1345,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1789507495
     Price: $64.00 USD
   - [Medium / 14W](https://dlaboutique.shop/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=54085137825987)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1789507495
     Price: $64.00 USD
   - [Medium / 16W](https://dlaboutique.shop/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=54085137858755)
@@ -1866,7 +1901,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/429dffe7ec374d818e3c6f748e76473b-Max-Origin.webp?v=1789507711
     Price: $44.14 USD
 - [Zenana Scuba Collared Pullover & Center Seam Pants Set](https://dlaboutique.shop/products/zenana-scuba-collared-pullover-center-seam-pants-set): Smooth scuba fabric delivers sleek stretch and all-day comfort. Structured collared pullover creates a polished casual look. Center seam detailing on pants elevates tailored aesthetics. Coordinating two-piece set cuts down outfit prep time. Effortlessly styled for errands and casual outings. Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:90%POLYESTER, 6%RAYON, 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist Top Length Bottom Length S 53.5 29 25.5 29.5 M 55.5 31 26 29.5 L 57.5 33 26.5 29.5
-  Updated: 2026-09-16T22:15:11Z
+  Updated: 2026-10-04T14:39:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1974,7 +2009,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/780cb07a00974c99b61876a553c6228a-Max-Origin.webp?v=1789512404
     Price: $50.88 USD
 - [RISEN High Rise Ruffle Long Skirts](https://dlaboutique.shop/products/risen-high-rise-ruffle-long-skirts): This tiered denim maxi skirt is a stylish and versatile addition to any wardrobe. Crafted from comfortable denim fabric, it features a flattering A-line silhouette and a button-front closure for easy wear. The tiered design adds a touch of bohemian flair, while the maxi length provides coverage and elegance. Perfect for casual outings or dressed-up events, this skirt is a must-have for any fashion-conscious woman. The light wash denim makes it ideal for spring and summer, while the durable construction ensures long-lasting wear. Features:Buttoned,Tiered Body:Not lined Material composition:100% COTTON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Length S 26 36.5 M 28 37 L 30 37.5 XL 32 38
-  Updated: 2026-09-16T11:37:14Z
+  Updated: 2026-10-05T14:23:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1996,13 +2031,13 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4998372e-e340-4c51-9aef-e997a63fcb7b-Max-Origin.webp?v=1789515425
     Price: $59.64 USD
 - [Judy Blue Mid Rise 90s Straight Jeans](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans): Embrace retro vintage vibes with these Mid Rise 90s Straight Jeans, designed with a classic mid-rise waist for a comfortable, figure-flattering fit. The iconic 90s straight-leg cut delivers a timeless relaxed silhouette that flatters all body types and offers unrestricted movement. Made from premium soft denim fabric for all-day breathability and durable wear. Effortlessly versatile to pair with tees, tank tops, blouses and crop tops, perfect for daily casual wear, weekend outings, street style and everyday retro styling.Style #: 82719 Features:Pocketed Stretch:Slightly stretchy Material composition:93% Cotton, 6% Polyester, 1% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.5 32 1/25 25 32 10.5 32 3/26 26 33 10.5 32 5/27 27 34 11.5 32 7/28 28 35 11.5 32 9/29 29 36 11.5 32 11/30 30 37 12.5 32 13/31 31 38 12.5 32 15/32 32 39 12.5 32
-  Updated: 2026-09-16T22:50:52Z
+  Updated: 2026-10-08T21:21:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
   - [MD / 0(24)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152342211)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
   - [MD / 1(25)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152374979)
@@ -2018,7 +2053,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
   - [MD / 7(28)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152473283)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
   - [MD / 9(29)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152506051)
@@ -2030,7 +2065,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
   - [MD / 13(31)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152571587)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
   - [MD / 15(32)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152604355)
@@ -2038,7 +2073,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
     Price: $69.50 USD
 - [Judy Blue Mid Rise Flare Jeans with Front Flap Pockets](https://dlaboutique.shop/products/judy-blue-mid-rise-flare-jeans-with-front-flap-pockets): These Mid Rise Flare Jeans feature a comfortable mid-rise waist and a timeless flare leg design that elongates the legs for a flattering silhouette. Equipped with stylish front flap pockets, they add a vintage-inspired detail and practical storage space. Made from soft stretch denim, they ensure all-day comfort and flexibility while maintaining a polished shape. Perfect for casual daily wear, they pair easily with tees, blouses, and boots to create retro-inspired or modern casual looks. With their classic flare cut and functional pocket design, they blend comfort, versatility, and timeless denim style effortlessly.Style #: 881113 Features:Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:94%Cotton ，5%Polyester，1% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.3 33 1/25 25 32 10.3 33 3/26 26 33 10.3 33 5/27 27 34 10.8 33 7/28 28 35 10.8 33 9/29 29 36 10.8 33 11/30 30 37 12.5 33 13/31 31 38 12.5 33 15/32 32 39 12.5 33
-  Updated: 2026-09-17T05:42:26Z
+  Updated: 2026-10-08T21:25:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2080,7 +2115,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/57361ed3-20cc-4235-99b5-5eaa50ea183d-Max-Origin.webp?v=1789515502
     Price: $68.92 USD
 - [Judy Blue Full Size Mid Rise Bootcut Jeans with Contrast Wash & Front Patch Pockets Plus Size](https://dlaboutique.shop/products/judy-blue-full-size-mid-rise-bootcut-jeans-with-contrast-wash-front-patch-pockets-plus-size): These Mid Rise Bootcut Jeans feature a stylish contrast wash and front patch pockets for a modern twist on a classic style. The mid-rise design offers a flattering fit that sits comfortably at the waist. The bootcut silhouette adds a touch of retro flair while elongating the legs. The contrast wash detailing adds visual interest and makes these jeans stand out from the crowd. Elevate your denim collection with these fashionable and edgy jeans that are sure to turn heads.Style#:881053 Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:81%Cotton 16%Polyester 3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 30 1/25 25 32 10 30 3/26 26 33 10 30 5/27 27 34 11 30 7/28 28 35 11 30 9/29 29 36 11 30 11/30 30 37 12 30 13/31 31 38 12 30 15/32 32 39 12 30 14W 33 40 12.5 31 16W 34 41 12.5 31 18W 35 42 12.5 31 20W 36 43 13 31 22W 37 44 13 31 24W 38 45 13 31
-  Updated: 2026-09-16T20:05:02Z
+  Updated: 2026-10-10T00:02:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2188,7 +2223,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/b520ebfe6666455d9227ab727095796a-Max-Origin.webp?v=1789515521
     Price: $64.28 USD
 - [Judy Blue Full Size High Waisted Rigid Magic Non-destroy Straight Leg Jeans Plus Size](https://dlaboutique.shop/products/judy-blue-full-size-high-waisted-rigid-magic-non-destroy-straight-leg-jeans-plus-size): These classic high-waisted straight leg jeans feature a timeless medium blue denim wash that pairs perfectly with any wardrobe. Crafted from premium cotton denim for durability and comfort, these jeans offer a flattering high-rise fit that elongates the legs while providing a secure, comfortable feel. The straight leg silhouette creates a sleek line from hip to ankle, making them ideal for both casual and smart-casual occasions. The traditional five-pocket styling and classic button-zip closure add authentic denim appeal, while the cropped ankle length offers a modern touch that showcases your favorite footwear.Style#: 88922 Features:Basic style,Pocketed Stretch:Slightly stretchy Material composition:Front Panel: 100% Cotton Back Panel: 94% Cotton / 5% Poly / 1% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 11.1 30 1/25 25 32 11.1 30 3/26 26 33 11.1 30 5/27 27 34 11.6 30 7/28 28 35 11.6 30 9/29 29 36 11.6 30 11/30 30 37 12.1 30 13/31 31 38 12.1 30 15/32 32 39 12.1 30 14W 33 40 12.5 30 16W 34 41 12.5 30 18W 35 42 12.5 30 20W 36 43 13 30 22W 37 44 13 30 24W 38 45 13 30
-  Updated: 2026-09-22T15:30:42Z
+  Updated: 2026-09-30T20:29:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2253,139 +2288,7 @@ Welcome to D'LA BOUTIQUE
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/3b7c8f09-d449-4b71-a8ce-86f4a811cfe4-Max-Origin.webp?v=1789515532
     Price: $70.08 USD
-- [Judy Blue Full Size High Waist Contrast Thread Straight Plus Size](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size): High Waist Contrast Thread Straight jeans are a stylish denim option featuring a high-rise waist and straight leg silhouette with contrasting thread detailing. The high waist provides a flattering fit and elongates the legs, while the straight leg cut offers a classic and versatile look. The contrasting thread adds a pop of color or visual interest to the seams, pockets, or other details of the jeans, creating a unique and eye-catching element. These jeans can be dressed up with a blouse and heels for a chic outfit or worn casually with a t-shirt and sneakers for a more relaxed style. High Waist Contrast Thread Straight jeans are a fashionable choice that allows you to make a statement with your denim while maintaining a timeless appeal.Style #: 88596 Features: Basic style, Pocketed Stretch: Slightly stretchy Material composition: 91%Cotton / 7%Polyester / 2% Spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32.5 11 1/25 24 30 32.5 11 3/26 25 31 32.5 11 5/27 26 32 32.5 11.5 7/28 27 33 32.5 11.5 9/29 28 34 32.5 11.5 11/30 29 35 32.5 12 13/31 30 37 32.5 12 15/32 31 38 32.5 12 14W 31 40 32.5 12.5 16W 30 40 32.5 12.5 18W 32 42 32.5 12.5 20W 35 45 32.5 13 22W 37 47 32.5 13 24W 39 50 32.5 13
-  Updated: 2026-09-16T23:38:20Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-  - [MD / 0(24)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154209987)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 1(25)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154242755)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 3(26)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154275523)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 5(27)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154308291)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 7(28)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154341059)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 9(29)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154373827)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 11(30)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154406595)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 13(31)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154439363)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 15(32)](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154472131)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $61.10 USD
-  - [MD / 14W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154504899)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 16W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154537667)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 18W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154570435)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 20W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154603203)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 22W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154635971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-  - [MD / 24W](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-contrast-thread-straight-plus-size?variant=54085154668739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/39931ae9b72044649280fdaba4373b81-Max-Origin.webp?v=1789515539
-    Price: $65.54 USD
-- [Judy Blue Full Size Button Fly Hem Destroy Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans): The button fly hem destroys straight jeans and combines a classic silhouette with a modern flair. Featuring a stylish button fly closure, these jeans offer a unique twist on traditional designs. The distressed detailing adds a trendy, lived-in look, making them perfect for casual outings. Crafted from durable denim, they provide both comfort and style for everyday wear. Pair them with a simple tee or a cozy sweater for an effortlessly chic outfit. Elevate your denim collection with these versatile straight jeans!Style #: 88912 Features: Washed, Pocketed, Raw Hem Stretch: Moderate stretch Material composition: 94% cotton, 5% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32.5 10 1/25 24 30 32.5 10 3/26 25 31 32.5 10.5 5/27 26 32 32.5 10.5 7/28 27 33 32.5 11 9/29 28 34 32.5 11 11/30 29 35 32.5 11 13/31 30 37 32.5 11.5 15/32 31 38 32.5 11.5 14W 31 40 32.5 11.5 16W 30 40 32.5 12 18W 32 42 32.5 12 20W 35 45 32.5 12.5 22W 37 47 32.5 13 24W 39 50 32.5 13.5
-  Updated: 2026-09-22T21:18:45Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-  - [Dark / 0(24)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154734275)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 1(25)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154767043)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 3(26)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154799811)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 5(27)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154832579)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 7(28)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154865347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 9(29)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154898115)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 11(30)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154930883)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 13(31)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154963651)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 15(32)](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085154996419)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 14W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155029187)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 16W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155061955)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 18W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155094723)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 20W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155127491)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 22W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155160259)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-  - [Dark / 24W](https://dlaboutique.shop/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=54085155193027)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1789515554
-    Price: $64.00 USD
-[List Continued](https://dlaboutique.shop/a/llms-agent/llms.txt?shop=s1bc5y-za.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk0Njk4Njc4NzAxMSwibGFzdF92YWx1ZSI6IjE0OTQ2OTg2Nzg3MDExIn0%3D)
+[List Continued](https://dlaboutique.shop/a/llms-agent/llms.txt?shop=s1bc5y-za.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk0Njk4NjY4ODcwNywibGFzdF92YWx1ZSI6IjE0OTQ2OTg2Njg4NzA3In0%3D)
 
 ## Collections
 
@@ -2396,8 +2299,8 @@ Welcome to D'LA BOUTIQUE
   Updated: 2026-08-23T03:25:23Z
   Total Products: 7
 - [Jeans](https://dlaboutique.shop/collections/jeans): Find your perfect pair of women's jeans at D'LA Boutique. Casual, flattering denim styles for everyday wear. Shop our curated collection.
-  Updated: 2026-09-15T21:25:33Z
-  Total Products: 10
+  Updated: 2026-10-06T18:50:43Z
+  Total Products: 9
 - [Tops](https://dlaboutique.shop/collections/tops): Shop women's tops at D'LA Boutique — casual blouses, tees, and going-out tops in fresh boutique styles. Easy, everyday looks you'll love.
   Updated: 2026-08-25T20:01:10Z
   Total Products: 6
@@ -2411,8 +2314,8 @@ Welcome to D'LA BOUTIQUE
   Updated: 2026-09-18T11:11:05Z
   Total Products: 32
 - [All Products (ChatGPT-AI Product Description)](https://dlaboutique.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-09-18T11:11:05Z
-  Total Products: 142
+  Updated: 2026-10-06T22:21:47Z
+  Total Products: 141
 
 ## Blogs
 
@@ -2668,6 +2571,59 @@ Welcome to D'LA BOUTIQUE
     Updated: 2026-09-29T00:35:35Z
     Author: Editorial Team
     Tags: 3-3-3 rule, capsule wardrobe essentials, how to style a 9-piece wardrobe, project 333 rules, what is the 3-3-3 rule for clothes?
+  - [Unlocking the Power of Patterns for a Unique Look](https://dlaboutique.shop/blogs/news/unlocking-the-power-of-patterns-for-a-unique-look): Unlocking the Power of Patterns for a Unique Look
+    Updated: 2026-09-30T00:45:28Z
+    Author: D'LA BOUTIQUE
+  - [Style Wide Leg Trousers for the Office: Complete Guide](https://dlaboutique.shop/blogs/news/style-wide-leg-trousers-office): Style Wide Leg Trousers for the Office: Complete Guide
+    Updated: 2026-09-30T20:20:33Z
+    Author: Editorial Team
+    Tags: best tops for wide leg trousers, business casual wide leg pants outfits, shoes to wear with wide leg pants for work, styling wide leg trousers for the office, wide leg trousers office
+  - [Transition Work Outfits from Day to Night](https://dlaboutique.shop/blogs/news/how-to-transition-work-outfits-day-to-night): Transition Work Outfits from Day to Night
+    Updated: 2026-10-01T19:19:55Z
+    Author: Editorial Team
+    Tags: day to night outfit ideas for working women, how to style a blazer for evening, how to transition work outfits from day to night, transition work outfits, versatile workwear essentials
+  - [Affordable Work Clothes for Professional Women](https://dlaboutique.shop/blogs/news/affordable-work-clothes-professional-women): Affordable Work Clothes for Professional Women
+    Updated: 2026-10-02T15:14:32Z
+    Author: Editorial Team
+    Tags: affordable work clothes, affordable work clothes for professional women, best fabrics for office wear, business casual outfits for women, capsule wardrobe for work
+  - [How to Accessorize Business Casual Outfits](https://dlaboutique.shop/blogs/news/how-to-accessorize-business-casual-outfits): How to Accessorize Business Casual Outfits
+    Updated: 2026-10-03T02:32:40Z
+    Author: Editorial Team
+    Tags: accessorize business casual, business casual jewelry guide, business casual outfit formulas, how to accessorize business casual outfits, how to style scarves for work
+  - [Best Fabrics for Summer Work Attire](https://dlaboutique.shop/blogs/news/best-fabrics-for-summer-work-attire): Best Fabrics for Summer Work Attire
+    Updated: 2026-10-04T01:40:49Z
+    Author: Editorial Team
+    Tags: best fabrics for summer work attire, breathable work clothes for women, how to style bamboo clothing for work
+  - [Achieving Effortless Elegance with Key Style Elements](https://dlaboutique.shop/blogs/news/achieving-effortless-elegance-with-key-style-elements): Achieving Effortless Elegance with Key Style Elements
+    Updated: 2026-10-05T00:29:20Z
+    Author: D'LA BOUTIQUE
+  - [Choose Flattering Work Dresses for Your Shape](https://dlaboutique.shop/blogs/news/choose-flattering-work-dresses-for-your-shape): Choose Flattering Work Dresses for Your Shape
+    Updated: 2026-10-05T01:40:23Z
+    Author: Editorial Team
+    Tags: best work dresses for body type, comfortable work dresses for women, flattering work dresses, how a work dress should fit, how to choose flattering work dresses for your shape, shift dresses for body types
+  - [How to Style Blazers for Professional Settings](https://dlaboutique.shop/blogs/news/how-to-style-blazers-for-professional-settings): How to Style Blazers for Professional Settings
+    Updated: 2026-10-06T04:58:27Z
+    Author: Editorial Team
+    Tags: business professional blazer outfits, how should a blazer fit, how to style blazers for professional settings, what shoes to wear with a blazer, what to wear under a blazer for work
+  - [A Historical Perspective on Fashion and Its Impact on Society](https://dlaboutique.shop/blogs/news/a-historical-perspective-on-fashion-and-its-impact-on-society): A Historical Perspective on Fashion and Its Impact on Society
+    Updated: 2026-10-07T00:43:58Z
+    Author: D'LA BOUTIQUE
+  - [Best Sustainable Fabrics for a Capsule Wardrobe](https://dlaboutique.shop/blogs/news/best-sustainable-fabrics-for-a-capsule-wardrobe): Best Sustainable Fabrics for a Capsule Wardrobe
+    Updated: 2026-10-07T01:41:03Z
+    Author: Editorial Team
+    Tags: benefits of bamboo fabric, best sustainable fabrics for a capsule wardrobe, capsule wardrobe essentials list, sustainable clothing care tips
+  - [How to Transition Your Capsule Wardrobe Between Seasons](https://dlaboutique.shop/blogs/news/how-to-transition-your-capsule-wardrobe-between-seasons): How to Transition Your Capsule Wardrobe Between Seasons
+    Updated: 2026-10-08T16:44:31Z
+    Author: Editorial Team
+    Tags: capsule wardrobe essentials, capsule wardrobe layering, how to transition wardrobe from summer to fall, how to transition your capsule wardrobe between seasons, seasonal wardrobe rotation
+  - [Capsule Wardrobe Checklist for Professional Work](https://dlaboutique.shop/blogs/news/capsule-wardrobe-checklist-professional-work): Capsule Wardrobe Checklist for Professional Work
+    Updated: 2026-10-09T00:59:43Z
+    Author: Editorial Team
+    Tags: business casual capsule wardrobe, business casual outfit ideas for work, capsule wardrobe checklist, how to build a capsule wardrobe for work, professional wardrobe essentials for women
+  - [Create a Capsule Wardrobe on a Budget: Step-by-Step](https://dlaboutique.shop/blogs/news/create-capsule-wardrobe-budget): Create a Capsule Wardrobe on a Budget: Step-by-Step
+    Updated: 2026-10-10T06:24:19Z
+    Author: Editorial Team
+    Tags: capsule wardrobe budget, capsule wardrobe checklist, capsule wardrobe for beginners, capsule wardrobe outfit ideas, how many pieces in a capsule wardrobe, how to create a capsule wardrobe on a budget
 
 ## Store Pages
 
