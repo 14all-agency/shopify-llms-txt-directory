@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T17:14:57Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-02T00:00:37.951Z
+- Updated At: 2026-10-11T00:00:39.700Z
 
 ## Products
 
 - [Vintage Logo Tee](https://commodores.merchmadeeasy.com/products/vintage-logo-tee): Commodores logo printed on the front Short sleeve tee in Black Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-19T21:05:55Z
+  Updated: 2026-10-05T13:06:20Z
   Vendor: Commodores
   Product Type: T-Shirt
   Availability: Available
@@ -31,21 +31,49 @@
   - [2XL](https://commodores.merchmadeeasy.com/products/vintage-logo-tee?variant=44560622059609)
     Availability: Available
     Price: $35.00 USD
+- [Vintage Logo Hoodie](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie): Commodores logo printed on the front Hoodie in Grey Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
+  Updated: 2026-10-08T14:02:06Z
+  Vendor: Commodores
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6282/0441/files/CommodoresHoodie.png?v=1790783665
+  - [S](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie?variant=47356011708505)
+    Availability: Available
+    Price: $70.00 USD
+  - [M](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie?variant=47356011741273)
+    Availability: Available
+    Price: $70.00 USD
+  - [L](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie?variant=47356011774041)
+    Availability: Available
+    Price: $70.00 USD
+  - [XL](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie?variant=47356011806809)
+    Availability: Available
+    Price: $70.00 USD
+  - [2XL](https://commodores.merchmadeeasy.com/products/vintage-logo-hoodie?variant=47356011839577)
+    Availability: Available
+    Price: $70.00 USD
+- [Vintage Logo Hat](https://commodores.merchmadeeasy.com/products/vintage-logo-hat): Commodores logo embroidered on the front Unisex baseball cap Adjustable back
+  Updated: 2026-10-08T14:02:07Z
+  Vendor: Commodores
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6282/0441/files/CommodoresLogoHat.png?v=1790783755
+  Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://commodores.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-30T15:53:18Z
-  Total Products: 2
+  Updated: 2026-10-08T14:02:30Z
+  Total Products: 3
 - [Apparel](https://commodores.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-30T15:53:18Z
+  Updated: 2026-10-08T14:02:06Z
   Total Products: 2
 - [Accessories](https://commodores.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-30T16:00:34Z
+  Updated: 2026-10-08T14:02:07Z
   Total Products: 1
 - [All](https://commodores.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-01T16:53:24Z
-  Total Products: 2
+  Updated: 2026-10-08T14:02:07Z
+  Total Products: 3
 
 ## Store Pages
 
