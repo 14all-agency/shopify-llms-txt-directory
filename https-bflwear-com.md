@@ -6,16 +6,16 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-06-20T09:40:43Z
 - Contact Email: zzaa372446@gmail.com
-- Updated At: 2026-10-04T00:00:36.698Z
+- Updated At: 2026-10-11T00:00:37.749Z
 
 ## Products
 
 - [Men’s Genuine Leather Fall Field Jacket | Premium Jacket](https://bflwear.com/products/men-s-genuine-leather-fall-field-jacket-premium-utility-jacket): Shop the Men’s Genuine Leather Fall Field Jacket crafted from premium lambskin leather with a practical field-inspired design, functional pockets and a structured autumn-ready silhouette. Perfect for casual, outdoor and everyday wear.
-  Updated: 2026-10-03T11:45:47Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/d37b66f1-c400-4bb0-a8b4-bd3e9efac366.jpg?v=1790525671
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/d37b66f1-c400-4bb0-a8b4-bd3e9efac366.jpg?v=1791100061
   - [Brown / XS](https://bflwear.com/products/men-s-genuine-leather-fall-field-jacket-premium-utility-jacket?variant=50813348937828)
     Availability: Available
     Price: $160.00 USD
@@ -91,12 +91,12 @@
   - [Black / XL](https://bflwear.com/products/men-s-genuine-leather-fall-field-jacket-premium-utility-jacket?variant=50813349724260)
     Availability: Available
     Price: $160.00 USD
-- [Men’s Genuine Leather Fall Jacket | Premium Autumn Jacket](https://bflwear.com/products/men-s-genuine-leather-fall-jacket-premium-autumn-jacket): Shop the Men’s Genuine Leather Fall Jacket crafted from premium lambskin leather with a clean structured silhouette, practical pockets and versatile autumn styling. Perfect for casual, smart-casual, outdoor and everyday wear.
-  Updated: 2026-10-03T11:45:49Z
+- [Men’s Genuine Leather Fall Jacket | Premium Autumn Jacket - BFL](https://bflwear.com/products/men-s-genuine-leather-fall-jacket-premium-autumn-jacket): Reference: MGLFJ-BRNSeason: Fall/AutumnModel: MEN’S GENUINE LEATHER FALL JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100% cottonColour: BrownComposition: 100% genuine lambskin leatherCollar: Classic leather collarFit: Regular/fittedStyle: Genuine Leather/Fall Casual JacketDetails: Premium genuine leather construction, clean structured silhouette, long sleeves, smooth leather finish, practical front pockets and versatile autumn styling designed for everyday wear.Occasion: Fall, casual, smart-casual, outdoor, travel, streetwear, everyday Customization: You can have this leather jacket customized according to your preferences, including size, colour, fit, leather type and design details. - BFL
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/59670fde-0175-4f8e-b848-24b4c4f00d61_b23f6e66-8384-4398-be78-a76eb00d36ab.jpg?v=1790528615
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/59670fde-0175-4f8e-b848-24b4c4f00d61_b23f6e66-8384-4398-be78-a76eb00d36ab.jpg?v=1791075311
   - [Brown / XS](https://bflwear.com/products/men-s-genuine-leather-fall-jacket-premium-autumn-jacket?variant=50813349757028)
     Availability: Available
     Price: $160.00 USD
@@ -173,11 +173,11 @@
     Availability: Available
     Price: $160.00 USD
 - [Men’s Red Christmas Leather Jacket | Printed  Jacket](https://bflwear.com/products/men-s-red-christmas-leather-jacket-printed-holiday-jacket): Shop the Men’s Red Christmas Printed Leather Jacket featuring festive Christmas tree, snowflake and ornament graphics on a vibrant red leather design. Perfect for Christmas parties, holiday events, winter outfits and festive streetwear.
-  Updated: 2026-10-03T11:45:49Z
+  Updated: 2026-10-04T16:17:14Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/4acb7716-526c-4287-a1e3-ec5c42354288.jpg?v=1790525682
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/4acb7716-526c-4287-a1e3-ec5c42354288.jpg?v=1791130627
   - [Red / XS](https://bflwear.com/products/men-s-red-christmas-leather-jacket-printed-holiday-jacket?variant=50813350576228)
     Availability: Available
     Price: $159.99 USD
@@ -223,12 +223,12 @@
   - [White / XL](https://bflwear.com/products/men-s-red-christmas-leather-jacket-printed-holiday-jacket?variant=50813351034980)
     Availability: Available
     Price: $159.99 USD
-- [Women’s Brown Y2K Leather Cowboy Hat |  Western Hat](https://bflwear.com/products/women-s-brown-y2k-leather-cowboy-hat-western-hat): Shop a fashionable women’s Y2K brown genuine leather cowboy hat featuring a pinched crown, wide rolled brim, layered leather band and antique-silver conchos for a bold Western tomboy look.
-  Updated: 2026-10-03T11:45:50Z
+- [Women’s Brown Y2K Leather Cowboy Hat |  Western Hat - BFL](https://bflwear.com/products/women-s-brown-y2k-leather-cowboy-hat-western-hat): Reference: BFL-WY2KCH-07Season: All Season / Spring / Fall / WinterModel: Stylish Female Y2K Tomboy Fashion ModelMaterial: 100% Genuine LeatherGender: WomenColour: Chocolate BrownCrown: Medium-tall rounded cowboy crown with pinched front and center creaseBrim: Wide sweeping curved brim with softly rolled edgesBand: Layered two-tone leather wraparound bandHardware: Antique-silver oval conchosDetails: Fine contrast stitching and decorative leather side tabsClosure: Pull-onFit: Structured comfortable fitStyle: Y2K / Western / Cowboy / Tomboy / Streetwear / Vintage FashionFinish: Premium genuine leather with rich natural grain and vintage-inspired finishDesign: Distinctive Western silhouette featuring a pinched cowboy crown, wide rolled-edge brim, layered two-tone hatband, antique-silver conchos and detailed contrast stitchingOccasion: Casual wear, festivals, concerts, photoshoots, outdoor events, Western styling, themed parties and everyday statement looksCustomization: Available for leather colour, size, finish and selected design details - BFL
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Leather Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/67165139-cd9a-48a9-832f-c37f16a13426.jpg?v=1790525687
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/67165139-cd9a-48a9-832f-c37f16a13426.jpg?v=1791100064
   - [Brown / XS](https://bflwear.com/products/women-s-brown-y2k-leather-cowboy-hat-western-hat?variant=50813351067748)
     Availability: Available
     Price: $164.00 USD
@@ -290,11 +290,11 @@
     Availability: Available
     Price: $164.00 USD
 - [Women’s Y2K Leather Cowboy Hat | Western Fashion Hat](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-fashion-hat): Shop a fashionable women’s Y2K genuine leather cowboy hat with a tall sculpted crown, dramatic curved brim, layered leather band and statement silver concho. Perfect for tomboy Western streetwear.
-  Updated: 2026-10-03T11:45:52Z
+  Updated: 2026-10-04T08:52:42Z
   Vendor: BFL
   Product Type: Leather Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/9a0fcae3-b7e5-44b8-891d-614144829a67.jpg?v=1790528618
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/9a0fcae3-b7e5-44b8-891d-614144829a67.jpg?v=1791100068
   - [black / XS](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-fashion-hat?variant=50813351723108)
     Availability: Available
     Price: $140.00 USD
@@ -355,12 +355,12 @@
   - [beige / XL](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-fashion-hat?variant=50813352345700)
     Availability: Available
     Price: $140.00 USD
-- [Women’s Y2K Leather Cowboy Hat | Premium Western Hat](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-hat): Shop a fashionable women’s Y2K genuine leather cowboy hat featuring a sculpted crown, curved brim, layered leather band and chrome accents. Designed for bold tomboy, Western and streetwear looks.
-  Updated: 2026-10-03T11:45:53Z
+- [Women’s Y2K Leather Cowboy Hat | Premium Western Hat - BFL](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-hat): Reference: BFL-WY2KCH-04Season: All Season / Spring / Fall / WinterModel: Stylish Female Y2K Fashion ModelMaterial: 100% Genuine LeatherGender: WomenColour: BlackCrown: Structured sculpted crown with subtle asymmetrical shapingBrim: Medium-wide curved brim with raised side edgesBand: Layered leather wraparound band with geometric stitchingHardware: Small polished silver rings and chrome accentsClosure: Pull-onFit: Structured comfortable fitStyle: Y2K / Tomboy / Western / Streetwear / Retro / Edgy FashionFinish: Premium genuine leather with subtle vintage textureDesign: Modern fashionable cowboy silhouette featuring sculpted crown shaping, layered leather construction, geometric stitching and refined metallic accentsOccasion: Casual wear, streetwear, festivals, concerts, photoshoots, outdoor events, Western styling, themed parties and everyday statement looksCustomization: Available for leather colour, size, finish and selected design details - BFL
+  Updated: 2026-10-04T15:52:01Z
   Vendor: BFL
   Product Type: Leather Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/7f40fd1c-be08-496e-8ea3-13b6dbcb439a.jpg?v=1790525697
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/7f40fd1c-be08-496e-8ea3-13b6dbcb439a.jpg?v=1791129120
   - [Olive / XS](https://bflwear.com/products/women-s-y2k-leather-cowboy-hat-premium-western-hat?variant=50813352378468)
     Availability: Available
     Price: $160.00 USD
@@ -407,7 +407,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Women’s Y2K Black Leather Cowboy Hat – Streetwear Hat](https://bflwear.com/products/women-s-y2k-black-leather-cowboy-hat-fashionable-western-streetwear-hat): Shop a fashionable women’s Y2K genuine leather cowboy hat featuring a structured crown, curved brim and stylish leather detailing. Perfect for tomboy, Western, retro and modern streetwear looks.
-  Updated: 2026-10-03T22:04:08Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Leather Hats
   Availability: Available
@@ -458,7 +458,7 @@
     Availability: Available
     Price: $157.00 USD
 - [Women’s Gothic Leather Halloween Jacket | BFL](https://bflwear.com/products/women-s-spooky-halloween-leather-jacket-gothic-black-genuine-leather-jacket): Shop BFL’s women’s gothic genuine leather jacket with bat-wing details, asymmetrical zip and zipped pockets. Explore sizes and colours for Halloween style.
-  Updated: 2026-10-03T06:34:35Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -500,11 +500,11 @@
     Availability: Available
     Price: $139.00 USD
 - [Women’s Valentine’s Day Leather Jacket |   Leather Jacket](https://bflwear.com/products/women-s-valentine-s-day-leather-jacket-premium-wine-red-leather-jacket): Discover a premium women’s Valentine’s Day leather jacket in deep wine-red genuine leather, featuring a sculpted heart back panel, blush-pink piping, and elegant rose-gold hardware.
-  Updated: 2026-10-03T11:45:55Z
+  Updated: 2026-10-04T13:06:59Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/77b31d27-975b-4d96-b1b4-4f26180b1239.jpg?v=1790525715
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/77b31d27-975b-4d96-b1b4-4f26180b1239.jpg?v=1791119212
   - [Burgunday / XS](https://bflwear.com/products/women-s-valentine-s-day-leather-jacket-premium-wine-red-leather-jacket?variant=50813353918564)
     Availability: Available
     Price: $149.00 USD
@@ -521,11 +521,11 @@
     Availability: Available
     Price: $149.00 USD
 - [Women’s Party Leather Jacket | Genuine Leather Jacket](https://bflwear.com/products/women-s-party-leather-jacket-premium-genuine-leather-jacket): Shop the Women’s Premium Party Leather Jacket, crafted from genuine leather with elegant curved wrap-panels, deep plum colour and subtle champagne-gold accents for sophisticated parties, evening events and special occasions.
-  Updated: 2026-10-03T11:45:57Z
+  Updated: 2026-10-04T08:52:42Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/c95c13b9-022f-4721-a370-9a593ea77b6c.jpg?v=1790525719
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/c95c13b9-022f-4721-a370-9a593ea77b6c.jpg?v=1791100077
   - [Burgunday / XS](https://bflwear.com/products/women-s-party-leather-jacket-premium-genuine-leather-jacket?variant=50813354082404)
     Availability: Available
     Price: $157.89 USD
@@ -617,11 +617,11 @@
     Availability: Available
     Price: $157.89 USD
 - [Men’s Game Day Leather Jacket |  Genuine Leather Jacket](https://bflwear.com/products/men-s-game-day-leather-jacket-premium-genuine-leather-jacket): Shop the Men’s Game Day Curved Panel Leather Jacket, crafted from premium genuine leather with deep navy, cream and muted red detailing, unique curved panel construction and a relaxed modern fit for stylish game-day and streetwear fashion.
-  Updated: 2026-10-03T11:45:59Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/fe0ec21d-c8f2-44b1-bb7b-0a00e07c3ecd.jpg?v=1790525724
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/fe0ec21d-c8f2-44b1-bb7b-0a00e07c3ecd.jpg?v=1791100076
   - [Navy / XS](https://bflwear.com/products/men-s-game-day-leather-jacket-premium-genuine-leather-jacket?variant=50813355098212)
     Availability: Available
     Price: $160.00 USD
@@ -682,12 +682,12 @@
   - [Olive / XL](https://bflwear.com/products/men-s-game-day-leather-jacket-premium-genuine-leather-jacket?variant=50813355720804)
     Availability: Available
     Price: $160.00 USD
-- [Men’s Asymmetric Leather Jacket | Premium Genuine Leather](https://bflwear.com/products/men-s-asymmetric-leather-jacket-premium-genuine-leather): Shop the Men’s Asymmetric Genuine Leather Jacket, crafted from premium espresso brown leather with distinctive diagonal panel construction, refined zipper details and a modern relaxed fit for contemporary men’s fashion.
-  Updated: 2026-10-03T11:46:00Z
+- [Men’s Asymmetric Leather Jacket | Premium Genuine Leather - BFL](https://bflwear.com/products/men-s-asymmetric-leather-jacket-premium-genuine-leather): Reference: BFL-MALJ-01Season: Fall / Winter / SpringModel: MEN’S ASYMMETRIC GENUINE LEATHER JACKETMaterial: 100% Genuine LeatherGender: MenJacket Colour: Deep Espresso BrownStyle: Asymmetric / Luxury Streetwear Leather JacketClosure: Asymmetric Front Zipped ClosureCollar: Structured Stand CollarLining: Premium Soft Inner LiningSleeves: Full SleevesPockets: Two Angled Zipped PocketsPanels: Asymmetric Layered Leather PanelsStitching: Premium Tonal Precision StitchingHardware: Premium Metal ZippersFit: Modern Relaxed Fit — not tightTexture: Natural Genuine Leather GrainDesign: Distinctive diagonal front construction with layered leather panels for a sophisticated contemporary appearanceBranding: Premium BFL brandingTag: One BFL product tag attached to the jacketOccasion: Casual Wear, Streetwear, Evening Outings, Parties, Winter Fashion, Premium GiftingCustomization: Leather colours, sizes, zipper finishes, panel arrangements and design details can be customized according to preferences. - BFL
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/eebfba07-aa89-4a78-8b40-ef4025323b77.jpg?v=1790525729
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/eebfba07-aa89-4a78-8b40-ef4025323b77.jpg?v=1791100084
   - [Brown / XS](https://bflwear.com/products/men-s-asymmetric-leather-jacket-premium-genuine-leather?variant=50813355753572)
     Availability: Available
     Price: $150.00 USD
@@ -734,11 +734,11 @@
     Availability: Available
     Price: $150.00 USD
 - [Women’s Diagonal Pleat Leather Jacket | Genuine Leather](https://bflwear.com/products/women-s-diagonal-pleat-leather-jacket-premium-genuine-leather-1): Shop the Women’s Diagonal Pleat Leather Jacket, crafted from premium genuine leather with distinctive layered diagonal pleat detailing, structured panels and an elegant asymmetric design for a modern luxury look.
-  Updated: 2026-10-03T11:46:01Z
+  Updated: 2026-10-04T13:06:59Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/ceb864ee-087c-4fec-b686-29c7e801286f.jpg?v=1790525734
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/ceb864ee-087c-4fec-b686-29c7e801286f.jpg?v=1791119218
   - [Black / XS](https://bflwear.com/products/women-s-diagonal-pleat-leather-jacket-premium-genuine-leather-1?variant=50813356245092)
     Availability: Available
     Price: $165.89 USD
@@ -830,11 +830,11 @@
     Availability: Available
     Price: $165.89 USD
 - [Women’s Diagonal Pleat Leather Jacket | Genuine Leather](https://bflwear.com/products/women-s-diagonal-pleat-leather-jacket-premium-genuine-leather): Discover the Women’s Diagonal Pleat Leather Jacket, crafted from premium genuine leather with distinctive diagonal pleats, an asymmetric zipper and a modern relaxed silhouette for a sophisticated contemporary look.
-  Updated: 2026-10-03T11:46:03Z
+  Updated: 2026-10-04T13:07:23Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/3a9bc1df-b717-4e6b-9099-b16ae8d321e3.jpg?v=1790525740
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/3a9bc1df-b717-4e6b-9099-b16ae8d321e3.jpg?v=1791119222
   - [Burgunday / XS](https://bflwear.com/products/women-s-diagonal-pleat-leather-jacket-premium-genuine-leather?variant=50813357228132)
     Availability: Available
     Price: $165.99 USD
@@ -926,11 +926,11 @@
     Availability: Available
     Price: $165.99 USD
 - [Men’s Christmas Leather Jacket | Genuine Leather Jacket](https://bflwear.com/products/men-s-christmas-leather-jacket-santa-inspired-genuine-leather-jacket): Shop the Men’s Santa-Inspired Christmas Leather Jacket, crafted from premium genuine leather in classic festive colours with stylish Santa-inspired detailing for Christmas celebrations, winter events and holiday gifting.
-  Updated: 2026-10-03T11:46:04Z
+  Updated: 2026-10-04T13:07:14Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/85b8ff2b-f098-4181-940a-05ecc4f14f98.jpg?v=1790525745
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/85b8ff2b-f098-4181-940a-05ecc4f14f98.jpg?v=1791119222
   - [Red / XS](https://bflwear.com/products/men-s-christmas-leather-jacket-santa-inspired-genuine-leather-jacket?variant=50813358211172)
     Availability: Available
     Price: $170.00 USD
@@ -977,11 +977,11 @@
     Availability: Available
     Price: $170.00 USD
 - [Men’s Christmas Racing Leather Jacket | Genuine Leather](https://bflwear.com/products/men-s-christmas-racing-leather-jacket-premium-genuine-leather): Shop the Men’s Christmas Racing Leather Jacket, crafted from premium genuine leather with bold Christmas-inspired racing details, sporty styling and a modern comfortable fit for winter and holiday wear.
-  Updated: 2026-10-03T11:46:04Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/f8c91c6b-3e72-4958-b214-516a32c387b6.jpg?v=1790528635
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/f8c91c6b-3e72-4958-b214-516a32c387b6.jpg?v=1791100095
   - [Red / XS](https://bflwear.com/products/men-s-christmas-racing-leather-jacket-premium-genuine-leather?variant=50813358702692)
     Availability: Available
     Price: $160.99 USD
@@ -1028,11 +1028,11 @@
     Availability: Available
     Price: $160.99 USD
 - [Women’s  Vintage Leather Jacket | Premium  Leather Jacket](https://bflwear.com/products/women-s-heritage-vintage-leather-jacket-premium-genuine-leather-jacket): Shop the Women’s Heritage Vintage Leather Jacket crafted from genuine leather with an antique washed finish, curved heritage panels and premium vintage hardware.
-  Updated: 2026-09-28T04:21:08Z
+  Updated: 2026-10-04T13:07:09Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/18b7db28-0e50-492d-bdb4-7cab6de9e272.jpg?v=1790528636
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/18b7db28-0e50-492d-bdb4-7cab6de9e272.jpg?v=1791119222
   - [Tan / XS](https://bflwear.com/products/women-s-heritage-vintage-leather-jacket-premium-genuine-leather-jacket?variant=50813359194212)
     Availability: Available
     Price: $150.00 USD
@@ -1049,18 +1049,18 @@
     Availability: Available
     Price: $150.00 USD
 - [Women’s Sculpted Winter Leather Jacket | Premium Leather - BFL](https://bflwear.com/products/women-s-sculpted-winter-leather-jacket-premium-leather): Reference: BFL-WSWLJ-01Season: WinterModel: WOMEN’S SCULPTED WINTER LEATHER JACKETMaterial: 100% Genuine LeatherColour: Rich Chocolate Brown with Warm Beige
-  Updated: 2026-10-03T22:13:34Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/809db440-4440-47d4-9677-18377420f849.jpg?v=1791065603
   Price: $165.00 USD
 - [Women’s 4th of July Leather Jacket | Pre Fashion Jacket](https://bflwear.com/products/women-s-4th-of-july-leather-jacket-premium-patriotic-fashion-jacket): Shop the Women’s 4th of July Leather Jacket featuring premium genuine leather, navy blue styling, crimson and ivory-white accents, and subtle star-inspired details for a modern patriotic look.
-  Updated: 2026-09-28T04:16:05Z
+  Updated: 2026-10-04T13:07:09Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/2c1dd6aa-ba7a-4a61-81d5-6a3e5d88abde.jpg?v=1790525762
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/2c1dd6aa-ba7a-4a61-81d5-6a3e5d88abde.jpg?v=1791119223
   - [Navy / XS](https://bflwear.com/products/women-s-4th-of-july-leather-jacket-premium-patriotic-fashion-jacket?variant=50813359390820)
     Availability: Available
     Price: $150.00 USD
@@ -1077,7 +1077,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Women’s Spooky Leather Jacket | Spiderweb & Bat Details](https://bflwear.com/products/women-s-spooky-season-leather-jacket-spiderweb-bat-detail-fashion-jacket): Shop the Women’s Spooky Season Leather Jacket featuring genuine leather, refined spiderweb embossing and small bat-shaped metal details for a stylish premium Halloween-inspired fashion look.
-  Updated: 2026-09-28T04:21:06Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1128,7 +1128,7 @@
     Availability: Available
     Price: $149.98 USD
 - [Women’s Valentine’s Day Leather Jacket | Fashion Jacket](https://bflwear.com/products/women-s-valentine-s-day-leather-jacket-premium-romantic-fashion-jacket): Shop the Women’s Valentine’s Day Leather Jacket crafted from premium genuine leather with elegant cherry-red and blush-pink detailing, a relaxed silhouette and sophisticated romantic-inspired design
-  Updated: 2026-09-29T11:22:06Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1149,7 +1149,7 @@
     Availability: Available
     Price: $160.99 USD
 - [Women’s Game Day Leather Jacket | Premium  Leather Jacket](https://bflwear.com/products/women-s-game-day-leather-jacket-premium-sporty-fashion-jacket): Shop the Women’s Game Day Leather Jacket featuring premium genuine leather, bold sporty contrast panels and a modern relaxed silhouette designed for game days, sports events and stylish streetwear
-  Updated: 2026-09-28T04:21:05Z
+  Updated: 2026-10-04T08:52:41Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1260,7 +1260,7 @@
     Availability: Available
     Price: $149.98 USD
 - [Women’s Gift Leather Jacket | Premium Leather Gift Jacket](https://bflwear.com/products/women-s-luxe-gift-leather-jacket-premium-genuine-leather-gift-jacket): Shop the Women’s Luxe Gift Leather Jacket crafted from premium genuine leather with elegant contrast detailing, a modern silhouette and a luxurious design perfect for special gifting occasions
-  Updated: 2026-09-28T04:16:21Z
+  Updated: 2026-10-04T08:52:42Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1356,7 +1356,7 @@
     Availability: Available
     Price: $156.98 USD
 - [Women’s Leather Fashion Jacket | Premium Leather](https://bflwear.com/products/women-s-sculpted-panel-leather-fashion-jacket-premium-genuine-leather-jacket): Shop the Women’s Sculpted Panel Leather Fashion Jacket crafted from premium genuine leather with distinctive curved panel detailing, an asymmetrical silhouette and a sophisticated modern fashion finish.
-  Updated: 2026-10-03T22:13:50Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1452,11 +1452,11 @@
     Availability: Available
     Price: $145.66 USD
 - [Men’s Diagonal Pleat Leather Jacket | Premium Leather](https://bflwear.com/products/men-s-diagonal-pleat-leather-jacket-premium-genuine-leather-jacket): Shop the Men’s Diagonal Pleat Leather Jacket crafted from premium genuine leather with distinctive diagonal pleat detailing, modern construction and a sophisticated streetwear-inspired finish.
-  Updated: 2026-09-28T04:21:03Z
+  Updated: 2026-10-04T15:07:20Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/9f7ee87d-e413-4d50-a2e3-36dd10dcfcbf.jpg?v=1790528651
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/9f7ee87d-e413-4d50-a2e3-36dd10dcfcbf.jpg?v=1791126439
   - [Black / XS](https://bflwear.com/products/men-s-diagonal-pleat-leather-jacket-premium-genuine-leather-jacket?variant=50813363519588)
     Availability: Available
     Price: $160.00 USD
@@ -1533,14 +1533,14 @@
     Availability: Available
     Price: $160.00 USD
 - [Premium Christmas  Gift Box – Luxury Gift Collection](https://bflwear.com/products/premium-christmas-leather-gift-box-luxury-holiday-gift-collection): Shop the Premium Christmas Leather Gift Box featuring a genuine leather jacket, leather hat and leather shoes, beautifully presented in a luxury branded gift box for an elegant holiday gifting experience.
-  Updated: 2026-09-28T04:21:02Z
+  Updated: 2026-10-04T15:07:25Z
   Vendor: BFL
   Product Type: Gift Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/898f55a9-e496-4372-85ec-e1a4c83b9abd.jpg?v=1790528652
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/898f55a9-e496-4372-85ec-e1a4c83b9abd.jpg?v=1791126444
   Price: $450.00 USD
 - [Women’s Leather Moto Fall Jacket | Premium  Leather Jacket](https://bflwear.com/products/women-s-leather-moto-fall-jacket-premium-genuine-leather-jacket-1): Shop the Women’s Burnt Caramel Leather Utility Fall Jacket crafted from premium genuine leather with full-leather sleeves, utility pockets and a relaxed modern silhouette. Perfect for autumn outings, casual wear, streetwear and everyday styling.
-  Updated: 2026-09-29T10:09:32Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1561,7 +1561,7 @@
     Availability: Available
     Price: $167.00 USD
 - [Women’s  Caramel Fall Jacket | Premium Leather Jacket](https://bflwear.com/products/women-s-burnt-caramel-leather-utility-fall-jacket-premium-genuine-leather-jacket): Shop the Women’s Green Christmas Printed Puffer Jacket featuring festive holiday prints, a quilted insulated design and vibrant green finish. Perfect for Christmas parties, winter outings, festive events and seasonal streetwear.
-  Updated: 2026-09-29T10:04:33Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1582,7 +1582,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Women’s Chocolate  Fall Jacket | Genuine Leather Jacket](https://bflwear.com/products/women-s-chocolate-brown-full-leather-fall-jacket-premium-genuine-leather-autumn-jacket): Shop the Women’s Chocolate Brown Full-Leather Fall Jacket crafted from premium genuine leather with full-leather sleeves, a relaxed fit and stylish autumn-ready design. Perfect for fall outings, casual wear, streetwear and everyday styling.
-  Updated: 2026-09-29T10:06:54Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1603,7 +1603,7 @@
     Availability: Available
     Price: $157.98 USD
 - [Women’s Christmas  Puffer Jacket | Festive Winter Jacket](https://bflwear.com/products/women-s-green-christmas-printed-puffer-jacket-festive-winter-jacket): Shop the Women’s Green Christmas Printed Puffer Jacket featuring festive holiday prints, a quilted insulated design and vibrant green finish. Perfect for Christmas parties, winter outings, festive events and seasonal streetwear.
-  Updated: 2026-09-29T21:47:52Z
+  Updated: 2026-10-04T08:52:41Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1624,7 +1624,7 @@
     Availability: Available
     Price: $140.00 USD
 - [Women’s  Leather Christmas Jacket |  Biker Jacket](https://bflwear.com/products/women-s-white-red-printed-leather-christmas-jacket-festive-holiday-biker-jacket): Shop the Women’s White & Red Printed Leather Christmas Jacket featuring festive holiday graphics, a stylish biker silhouette and premium leather construction. Perfect for Christmas parties, winter events and seasonal streetwear.
-  Updated: 2026-09-29T21:37:13Z
+  Updated: 2026-10-04T08:52:41Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1660,7 +1660,7 @@
     Availability: Available
     Price: $143.00 USD
 - [Women’s Red Faux Leather Christmas Jacket |  Biker Jacket](https://bflwear.com/products/women-s-red-faux-leather-christmas-jacket-festive-holiday-biker-jacket): Shop the Women’s Red Faux Leather Christmas Jacket featuring a vibrant red finish, stylish biker-inspired silhouette and festive holiday design. Perfect for Christmas parties, winter events, festive outfits and seasonal streetwear.
-  Updated: 2026-09-29T09:57:00Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1681,7 +1681,7 @@
     Availability: Available
     Price: $130.00 USD
 - [Women’s Christmas Varsity Jacket | Festive Leather Jacket](https://bflwear.com/products/women-s-christmas-varsity-letterman-jacket-festive-embroidered-bomber-jacket): Shop the Women’s Christmas Varsity Letterman Jacket featuring festive holiday detailing, classic varsity styling, rib-knit trims and a stylish winter-ready silhouette. Perfect for Christmas parties, holiday events and casual streetwear.
-  Updated: 2026-09-29T09:31:44Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -1702,7 +1702,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Men’s Faux Leather Party Jacket | Leather Jacket](https://bflwear.com/products/men-s-faux-leather-party-jacket-premium-leather-jacket): Shop the Men’s Faux Leather Party Jacket designed for singer cosplay, concerts, parties and stage performances. Featuring a stylish structured fit and statement detailing, it’s perfect for cosplay events and nightlife.
-  Updated: 2026-09-29T21:30:28Z
+  Updated: 2026-10-04T08:52:42Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
@@ -1723,7 +1723,7 @@
     Availability: Available
     Price: $158.00 USD
 - [Men’s Varsity Jacket | Classic Letterman Jacket - BFL](https://bflwear.com/products/men-s-varsity-jacket-classic-letterman-jacket-1): Reference: MVJ-BLK Season: Autumn/Winter/Spring Model: MEN’S CLASSIC VARSITY JACKET Material: Wool & Leather Sleeves: Long sleeves Gender: Man Closure: Snap
-  Updated: 2026-09-29T09:26:27Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
@@ -1744,11 +1744,11 @@
     Availability: Available
     Price: $160.00 USD
 - [Women’s Halloween Embroidered Leather Jacket - BFL](https://bflwear.com/products/type-women-s-halloween-embroidered-leather-jacket): Reference: WHELJ-BLK Season: Autumn/Winter Model: WOMEN’S HALLOWEEN EMBROIDERED LEATHER BIKER JACKET Material: Leather Sleeves: Long sleeves Gender: Woman
-  Updated: 2026-09-28T04:20:56Z
+  Updated: 2026-10-04T17:46:29Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/dc09985f-bcfc-451c-8caf-803d767a8582.jpg?v=1790528663
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/dc09985f-bcfc-451c-8caf-803d767a8582.jpg?v=1791135976
   - [Black / XS](https://bflwear.com/products/type-women-s-halloween-embroidered-leather-jacket?variant=50813401759844)
     Availability: Available
     Price: $160.00 USD
@@ -1795,11 +1795,11 @@
     Availability: Available
     Price: $160.00 USD
 - [Men’s Gothic Leather Jacket |Biker Leather Jacket](https://bflwear.com/products/men-s-gothic-studded-leather-jacket-premium-punk-biker-leather-jacket): Shop the Men’s Gothic Studded Leather Jacket crafted from premium lambskin leather with bold metal stud detailing, classic biker lapels and an asymmetric zip closure. Perfect for concerts, parties, motorcycle events and streetwear.
-  Updated: 2026-09-28T04:20:56Z
+  Updated: 2026-10-04T17:46:32Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/77392869-c847-4e6c-b70b-91b9c6165850.jpg?v=1790528664
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/77392869-c847-4e6c-b70b-91b9c6165850.jpg?v=1791135976
   - [Black / XS](https://bflwear.com/products/men-s-gothic-studded-leather-jacket-premium-punk-biker-leather-jacket?variant=50813410410596)
     Availability: Available
     Price: $300.00 USD
@@ -1846,11 +1846,11 @@
     Availability: Available
     Price: $300.00 USD
 - [Men’s Halloween Leather Jacket | Premium Biker Jacket](https://bflwear.com/products/men-s-halloween-leather-jacket-premium-studded-biker-jacket): : Shop the Men’s Halloween Leather Jacket crafted from premium lambskin leather with bold pumpkin, ghost and haunted house graphics, classic biker details and an asymmetric zip closure. Perfect for Halloween parties, concerts and streetwear.
-  Updated: 2026-09-28T04:17:20Z
+  Updated: 2026-10-04T12:40:21Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/2c634b4b-7cb3-4d9a-b502-bfb27b8306c6.jpg?v=1790525836
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/2c634b4b-7cb3-4d9a-b502-bfb27b8306c6.jpg?v=1791117605
   - [Black / XS](https://bflwear.com/products/men-s-halloween-leather-jacket-premium-studded-biker-jacket?variant=50813419061348)
     Availability: Available
     Price: $198.00 USD
@@ -1882,11 +1882,11 @@
     Availability: Available
     Price: $198.00 USD
 - [Men’s Halloween Leather Jacket | Studded Biker Jacket - BFL](https://bflwear.com/products/men-s-halloween-leather-jacket-studded-biker-jacket): Reference: WHSLJ-BLKSeason: Autumn/WinterModel: WOMEN’S HALLOWEEN STUDDED LEATHER BIKER JACKETMaterial: LeatherSleeves: Long sleevesGender: manClosure:
-  Updated: 2026-09-28T04:17:24Z
+  Updated: 2026-10-04T17:46:46Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/5d178851-3f86-4db7-91d6-1233792e7e21.jpg?v=1790525840
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/5d178851-3f86-4db7-91d6-1233792e7e21.jpg?v=1791135981
   - [Brown / XS](https://bflwear.com/products/men-s-halloween-leather-jacket-studded-biker-jacket?variant=50813427548260)
     Availability: Available
     Price: $400.00 USD
@@ -1963,7 +1963,7 @@
     Availability: Available
     Price: $400.00 USD
 - [Women’s Black Halloween Leather Biker Jacket | BFL Wear](https://bflwear.com/products/womens-halloween-leather-biker-jacket): Shop a women’s black Halloween leather biker jacket in genuine lambskin with studded details, pumpkin graphics and an asymmetric zip.
-  Updated: 2026-09-28T04:20:55Z
+  Updated: 2026-10-04T08:52:41Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2020,11 +2020,11 @@
     Availability: Available
     Price: $200.00 USD
 - [Halloween Leather Jacket | Premium Lambskin Leather Jacket - BFL](https://bflwear.com/products/halloween-leather-jacket-premium-lambskin-leather-jacket): Reference: HLJ-BLKSeason: Autumn/WinterModel: HALLOWEEN LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: ZippedLining: 100%
-  Updated: 2026-09-28T04:17:35Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/3d8b5aef-d016-46d1-868c-4e779fb89f56.jpg?v=1790525849
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/3d8b5aef-d016-46d1-868c-4e779fb89f56.jpg?v=1791073344
   - [Black / XS](https://bflwear.com/products/halloween-leather-jacket-premium-lambskin-leather-jacket?variant=50813445242980)
     Availability: Available
     Price: $200.00 USD
@@ -2071,11 +2071,11 @@
     Availability: Available
     Price: $200.00 USD
 - [Women’s Halloween Puffer Jacket | Premium Quilted Jacket for](https://bflwear.com/products/women-s-halloween-puffer-jacket-premium-quilted-jacket-for-halloween-2): Reference: WHPJ-BLKSeason: Autumn/WinterModel: WOMEN’S HALLOWEEN PUFFER JACKETMaterial: Puffer / Technical TextileSleeves: Long sleevesGender: WomanClosure:
-  Updated: 2026-09-28T04:17:38Z
+  Updated: 2026-10-04T17:46:57Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/6c5a1768-ae2d-4564-80dc-f236b2280d30.jpg?v=1790525853
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/6c5a1768-ae2d-4564-80dc-f236b2280d30.jpg?v=1791135997
   - [Black / XS](https://bflwear.com/products/women-s-halloween-puffer-jacket-premium-quilted-jacket-for-halloween-2?variant=50813453893732)
     Availability: Available
     Price: $390.00 USD
@@ -2122,7 +2122,7 @@
     Availability: Available
     Price: $390.00 USD
 - [Women’s Halloween Puffer Jacket | Premium Quilted Jacket for](https://bflwear.com/products/women-s-halloween-puffer-jacket-premium-quilted-jacket-for-halloween-1): Reference: WHPJ-BLKSeason: Autumn/WinterModel: WOMEN’S HALLOWEEN PUFFER JACKETMaterial: Puffer / Technical TextileSleeves: Long sleevesGender: WomanClosure:
-  Updated: 2026-10-02T12:53:26Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2143,11 +2143,11 @@
     Availability: Available
     Price: $150.00 USD
 - [Women’s Halloween Puffer Jacket | Premium Quilted Jacket for](https://bflwear.com/products/women-s-halloween-puffer-jacket-premium-quilted-jacket-for-halloween): Reference: WHPJ-BLKSeason: Autumn/WinterModel: WOMEN’S HALLOWEEN PUFFER JACKETMaterial: Puffer / Technical TextileSleeves: Long sleevesGender: WomanClosure:
-  Updated: 2026-09-28T04:17:45Z
+  Updated: 2026-10-04T13:26:04Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/026a95d8-b50e-4fd6-a7e3-ad30a58e115a.jpg?v=1790525862
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/026a95d8-b50e-4fd6-a7e3-ad30a58e115a.jpg?v=1791120338
   - [Black / XS](https://bflwear.com/products/women-s-halloween-puffer-jacket-premium-quilted-jacket-for-halloween?variant=50813471031396)
     Availability: Available
     Price: $360.00 USD
@@ -2224,7 +2224,7 @@
     Availability: Available
     Price: $360.00 USD
 - [Women’s Cropped Asymmetric Leather Jacket | Premium Lambskin Moto](https://bflwear.com/products/women-s-cropped-asymmetric-leather-jacket-premium-lambskin-moto-biker-jacket): Reference: WCALJ-BLKSeason: 000Model: WOMEN’S CROPPED ASYMMETRIC LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip
-  Updated: 2026-09-29T09:20:28Z
+  Updated: 2026-10-04T08:52:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2245,7 +2245,7 @@
     Availability: Available
     Price: $147.00 USD
 - [Women’s Oversized Double-Layer Leather Jacket | Premium Leather](https://bflwear.com/products/women-s-oversized-double-layer-leather-jacket-premium-leather-jacket): Reference: WODLLJ-BLKSeason: 000Model: WOMEN’S OVERSIZED DOUBLE-LAYER LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining:
-  Updated: 2026-09-29T21:15:30Z
+  Updated: 2026-10-04T08:52:41Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2266,7 +2266,7 @@
     Availability: Available
     Price: $140.00 USD
 - [Women’s Oversized Curved-Panel Leather Jacket | Premium Leather](https://bflwear.com/products/women-s-oversized-curved-panel-leather-jacket-premium-leather-jacket): Reference: WOCP-LJ-BLKSeason: 000Model: WOMEN’S OVERSIZED CURVED-PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining:
-  Updated: 2026-09-29T21:07:38Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2287,7 +2287,7 @@
     Availability: Available
     Price: $120.00 USD
 - [Men’s Oversized Utility Leather Jacket | Premium Leather Jacket - BFL](https://bflwear.com/products/men-s-oversized-utility-leather-jacket-premium-leather-jacket): Reference: MOULJ-BLKSeason: 000Model: MEN’S OVERSIZED UTILITY LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100%
-  Updated: 2026-09-29T09:13:40Z
+  Updated: 2026-10-04T08:52:36Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
@@ -2307,8 +2307,8 @@
   - [Black / XL](https://bflwear.com/products/men-s-oversized-utility-leather-jacket-premium-leather-jacket?variant=50813508255844)
     Availability: Available
     Price: $140.00 USD
-- [Men’s Oversized Panel Leather Jacket | Premium Oversized Biker Jacket](https://bflwear.com/products/men-s-oversized-panel-leather-jacket-premium-oversized-biker-jacket): Reference: MOPLJ-BLKSeason: 000Model: MEN’S OVERSIZED PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100%
-  Updated: 2026-09-29T09:01:18Z
+- [Men’s Oversized Panel Leather Jacket | Premium Oversized Biker Jacket - BFL](https://bflwear.com/products/men-s-oversized-panel-leather-jacket-premium-oversized-biker-jacket): Reference: MOPLJ-BLKSeason: 000Model: MEN’S OVERSIZED PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100% cottonColour: BlackComposition: 100% lambskin leatherCollar: Moto-style leather collarFit: Oversized/relaxedStyle: Oversized Panel/Biker Leather JacketDetails: Bold oversized panel construction, structured leather detailing, relaxed silhouette, premium genuine leather finish and contemporary biker-inspired styling.Occasion: Casual, streetwear, motorcycle, riding, smart-casual, everyday Customization: You can have this leather jacket customized according to your preferences, including size, colour, fit, leather type and design details. - BFL
+  Updated: 2026-10-04T17:54:26Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
@@ -2328,8 +2328,8 @@
   - [Black / XL](https://bflwear.com/products/men-s-oversized-panel-leather-jacket-premium-oversized-biker-jacket?variant=50813517725796)
     Availability: Available
     Price: $140.00 USD
-- [Asymmetric Cocoon Leather Jacket | Premium Women’s Leather Jacket](https://bflwear.com/products/asymmetric-cocoon-leather-jacket-premium-women-s-leather-jacket): Reference: ACLJ-BLKSeason: 000Model: ASYMMETRIC COCOON LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip closureLining:
-  Updated: 2026-09-29T09:01:21Z
+- [Asymmetric Cocoon Leather Jacket | Premium Women’s Leather Jacket - BFL](https://bflwear.com/products/asymmetric-cocoon-leather-jacket-premium-women-s-leather-jacket): Reference: ACLJ-BLKSeason: 000Model: ASYMMETRIC COCOON LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip closureLining: 100% cottonColour: BlackComposition: 100% lambskin leatherCollar: Asymmetric leather collarFit: Oversized / cocoonStyle: Asymmetric Cocoon / Fashion Leather JacketDetails: Asymmetric front construction, voluminous cocoon silhouette, sculpted leather panels, structured shape, premium genuine leather finish and contemporary fashion-forward stylingOccasion: Casual, streetwear, smart-casual, evening, travel and everyday wearCustomization: You can have this leather jacket customized according to your preferences, including size, colour, fit, leather type and design details. - BFL
+  Updated: 2026-10-04T17:54:21Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2350,7 +2350,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Women’s Black Asymmetric Leather Jacket | BFL Wear](https://bflwear.com/products/womens-black-asymmetric-relaxed-sculpted-leather-jacket): Shop BFL Wear’s women’s black asymmetric leather jacket in genuine sheepskin leather with a relaxed sculpted fit. Custom sizes, colours and designs available.
-  Updated: 2026-10-02T17:56:36Z
+  Updated: 2026-10-04T17:54:23Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2500,7 +2500,7 @@
     Availability: Available
     Price: $130.00 USD
 - [Draped Sculpted Leather Jacket | Premium Women’s Biker Jacket - BFL](https://bflwear.com/products/draped-sculpted-leather-jacket-premium-women-s-biker-jacket): Reference: DSLJ-BLKSeason: 000Model: DRAPED SCULPTED LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100% cottonColour:
-  Updated: 2026-09-29T08:49:12Z
+  Updated: 2026-10-04T17:54:26Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
@@ -2520,51 +2520,51 @@
   - [Black / XL](https://bflwear.com/products/draped-sculpted-leather-jacket-premium-women-s-biker-jacket?variant=50813545414756)
     Availability: Available
     Price: $130.00 USD
-- [Women’s Asymmetric Sculpted Leather Jacket | Premium Biker Jacket](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket): Reference: WASLJ-BLKSeason: 000Model: WOMEN’S ASYMMETRIC SCULPTED LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip
-  Updated: 2026-09-28T04:20:46Z
+- [Women’s Asymmetric Sculpted Leather Jacket | Premium Biker Jacket - BFL](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket): Reference: WASLJ-BLKSeason: 000Model: WOMEN’S ASYMMETRIC SCULPTED LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip closureLining: 100% cottonColour: BlackComposition: 100% lambskin leatherCollar: Asymmetric moto-style leather collarFit: Sculpted / fittedStyle: Asymmetric Sculpted / Biker Leather JacketDetails: Sculpted silhouette, asymmetric front construction, contoured leather panels, diagonal zip closure, premium genuine leather finish and contemporary biker-inspired stylingOccasion: Casual, streetwear, riding, smart-casual, evening and everyday wearCustomization: You can have this leather jacket customized according to your preferences, including size, colour, fit, leather type and design details. - BFL
+  Updated: 2026-10-07T08:27:45Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/27ee8666-cab7-42a5-bd78-80d80c462c5b.jpg?v=1790528686
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/27ee8666-cab7-42a5-bd78-80d80c462c5b.jpg?v=1791078943
   - [Black / XS](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546266724)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Black / S](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546299492)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Black / M](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546332260)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Black / L](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546365028)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Black / XL](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546397796)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Yellow / XS](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546430564)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Yellow / S](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546463332)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Yellow / M](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546496100)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Yellow / L](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546528868)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Yellow / XL](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546561636)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Red / XS](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546594404)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Red / S](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546627172)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Red / M](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546659940)
     Availability: Available
-    Price: $189.99 USD
+    Price: $122.36 USD
   - [Red / L](https://bflwear.com/products/women-s-asymmetric-sculpted-leather-jacket-premium-biker-jacket?variant=50813546692708)
     Availability: Available
     Price: $189.99 USD
@@ -2617,678 +2617,636 @@
     Availability: Available
     Price: $189.99 USD
 - [Men’s Floating-Seam Panel Leather Jacket | Premium Biker Jacket - BFL](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket): Reference: MFSPLJ-BLKSeason: 000Model: MEN’S FLOATING-SEAM PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:06Z
+  Updated: 2026-10-07T08:27:45Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/c907e356-3d70-465d-b28f-722b773c2a10.jpg?v=1790669271
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/c907e356-3d70-465d-b28f-722b773c2a10.jpg?v=1791136028
   - [XS / Black](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket?variant=50813547249764)
     Availability: Available
-    Price: $140.00 USD
+    Price: $122.36 USD
   - [S / Black](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket?variant=50813547446372)
     Availability: Available
-    Price: $140.00 USD
+    Price: $122.36 USD
   - [M / Black](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket?variant=50813547642980)
     Availability: Available
-    Price: $140.00 USD
+    Price: $122.36 USD
   - [L / Black](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket?variant=50813547839588)
     Availability: Available
-    Price: $140.00 USD
+    Price: $122.36 USD
   - [XL / Black](https://bflwear.com/products/men-s-floating-seam-panel-leather-jacket-premium-biker-jacket?variant=50813548036196)
     Availability: Available
-    Price: $140.00 USD
+    Price: $122.36 USD
 - [Men’s Split-Arc Panel Leather Jacket | Premium Biker Jacket - BFL](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket): Reference: MSAPLJ-BLKSeason: 000Model: MEN’S SPLIT-ARC PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:07Z
+  Updated: 2026-10-07T08:27:45Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/b8819c6d-4f94-45b9-a10b-6da8d64fe478.jpg?v=1790669256
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/b8819c6d-4f94-45b9-a10b-6da8d64fe478.jpg?v=1791078945
   - [Black / XS](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket?variant=50813556392036)
     Availability: Available
-    Price: $130.00 USD
+    Price: $116.00 USD
   - [Black / S](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket?variant=50813556424804)
     Availability: Available
-    Price: $130.00 USD
+    Price: $116.00 USD
   - [Black / M](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket?variant=50813556457572)
     Availability: Available
-    Price: $130.00 USD
+    Price: $116.00 USD
   - [Black / L](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket?variant=50813556490340)
     Availability: Available
-    Price: $130.00 USD
+    Price: $116.00 USD
   - [Black / XL](https://bflwear.com/products/men-s-split-arc-panel-leather-jacket-premium-biker-jacket?variant=50813556523108)
     Availability: Available
-    Price: $130.00 USD
+    Price: $116.00 USD
 - [Men’s Multi-Contour Panel Leather Jacket | Premium Biker Jacket - BFL](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket): Reference: MMCPJL-BLKSeason: 000Model: MEN’S MULTI-CONTOUR PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: ZippedLining: 100%
-  Updated: 2026-09-29T07:51:13Z
+  Updated: 2026-10-07T08:27:45Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/mens-multi-contour-jacket-collar-touch.png?v=1790667832
   - [Brown / XS](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket?variant=50813566189668)
     Availability: Available
-    Price: $145.00 USD
+    Price: $103.00 USD
   - [Brown / S](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket?variant=50813566222436)
     Availability: Available
-    Price: $145.00 USD
+    Price: $103.00 USD
   - [Brown / M](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket?variant=50813566255204)
     Availability: Available
-    Price: $145.00 USD
+    Price: $103.00 USD
   - [Brown / L](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket?variant=50813566287972)
     Availability: Available
-    Price: $145.00 USD
+    Price: $103.00 USD
   - [Brown / XL](https://bflwear.com/products/men-s-multi-contour-panel-leather-jacket-premium-biker-jacket?variant=50813566320740)
     Availability: Available
-    Price: $145.00 USD
+    Price: $103.00 USD
 - [Women’s Curved Yoke Panel Leather Jacket | Premium Biker Jacket - BFL](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket): Reference: WCYPLJ-BLKSeason: 000Model: WOMEN’S CURVED YOKE PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-09-29T07:49:59Z
+  Updated: 2026-10-07T08:27:44Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/womens-curved-yoke-jacket-side.png?v=1790667842
   - [Tan / XS](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket?variant=50813567008868)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Tan / S](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket?variant=50813567041636)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Tan / M](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket?variant=50813567074404)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Tan / L](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket?variant=50813567107172)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Tan / XL](https://bflwear.com/products/women-s-curved-yoke-panel-leather-jacket-premium-biker-jacket?variant=50813567139940)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
 - [Women’s Sculpted Asymmetric Panel Leather Jacket | Premium Moto](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket): Reference: WSAPLJ-BLKSeason: 000Model: WOMEN’S SCULPTED ASYMMETRIC PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure:
-  Updated: 2026-09-29T07:46:22Z
+  Updated: 2026-10-07T08:27:44Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/womens-asymmetric-panel-moto-jacket-panel-detail.png?v=1790667412
   - [Burgunday / XS](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket?variant=50813576314980)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Burgunday / S](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket?variant=50813576347748)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Burgunday / M](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket?variant=50813576380516)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Burgunday / L](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket?variant=50813576413284)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
   - [Burgunday / XL](https://bflwear.com/products/women-s-sculpted-asymmetric-panel-leather-jacket-premium-moto-jacket?variant=50813576446052)
     Availability: Available
-    Price: $139.00 USD
+    Price: $103.00 USD
 - [Men’s Diagonal Ribbed Puffer Jacket | Stylish Premium Winter Jacket](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket): Reference: MDRPJ-BLKSeason: 000Model: MEN’S DIAGONAL RIBBED PUFFER JACKETMaterial: Puffer / Technical TextileSleeves: Long sleevesGender: ManClosure:
-  Updated: 2026-09-29T07:46:11Z
+  Updated: 2026-10-07T08:27:44Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/mens-diagonal-ribbed-puffer-front.png?v=1790667396
   - [Navy / XS](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket?variant=50813585293412)
     Availability: Available
-    Price: $240.00 USD
+    Price: $131.00 USD
   - [Navy / S](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket?variant=50813585326180)
     Availability: Available
-    Price: $240.00 USD
+    Price: $131.00 USD
   - [Navy / M](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket?variant=50813585358948)
     Availability: Available
-    Price: $240.00 USD
+    Price: $131.00 USD
   - [Navy / L](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket?variant=50813585391716)
     Availability: Available
-    Price: $240.00 USD
+    Price: $131.00 USD
   - [Navy / XL](https://bflwear.com/products/men-s-diagonal-ribbed-puffer-jacket-stylish-premium-winter-jacket?variant=50813585424484)
     Availability: Available
     Price: $240.00 USD
 - [Men’s Technical Panelled Puffer Jacket | Stylish Premium Winter](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket): Reference: MTPPJ-BLKSeason: 000Model: MEN’S TECHNICAL PANELLED PUFFER JACKETMaterial: Puffer / Technical TextileSleeves: Long sleevesGender: ManClosure:
-  Updated: 2026-09-29T19:31:35Z
+  Updated: 2026-10-07T08:27:44Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/mens-technical-puffer-side.png?v=1790666931
   - [Black / XS](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket?variant=50813593780324)
     Availability: Available
-    Price: $139.89 USD
+    Price: $131.00 USD
   - [Black / S](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket?variant=50813593813092)
     Availability: Available
-    Price: $139.89 USD
+    Price: $131.00 USD
   - [Black / M](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket?variant=50813593845860)
     Availability: Available
-    Price: $139.89 USD
+    Price: $131.00 USD
   - [Black / L](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket?variant=50813593878628)
     Availability: Available
-    Price: $139.89 USD
+    Price: $131.00 USD
   - [Black / XL](https://bflwear.com/products/men-s-technical-panelled-puffer-jacket-stylish-premium-winter-jacket?variant=50813593911396)
     Availability: Available
-    Price: $139.89 USD
+    Price: $131.00 USD
 - [Balloon Cocoon Puffer Jacket | Women’s Stylish Premium Winter Jacket](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket): Reference: BCPJ-BLKSeason: 000Model: WOMEN’S BALLOON COCOON PUFFER JACKETMaterial: Puffer / TextileSleeves: Long sleevesGender: WomanClosure: ZippedLining:
-  Updated: 2026-09-29T07:41:55Z
+  Updated: 2026-10-07T08:27:42Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/womens-cocoon-puffer-walking-pose.png?v=1790666925
   - [White / XS](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket?variant=50813594599524)
     Availability: Available
-    Price: $145.00 USD
+    Price: $131.00 USD
   - [White / S](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket?variant=50813594632292)
     Availability: Available
-    Price: $145.00 USD
+    Price: $131.00 USD
   - [White / M](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket?variant=50813594665060)
     Availability: Available
-    Price: $145.00 USD
+    Price: $131.00 USD
   - [White / L](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket?variant=50813594697828)
     Availability: Available
-    Price: $145.00 USD
+    Price: $131.00 USD
   - [White / XL](https://bflwear.com/products/balloon-cocoon-puffer-jacket-women-s-stylish-premium-winter-jacket?variant=50813594730596)
     Availability: Available
-    Price: $145.00 USD
+    Price: $131.00 USD
 - [Sculpted Asymmetric Puffer Jacket | Women’s Stylish Premium Jacket - BFL](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket): Reference: SAPJ-BLKSeason: 000Model: WOMEN’S SCULPTED ASYMMETRIC PUFFER JACKETMaterial: Puffer / TextileSleeves: Long sleevesGender: WomanClosure: Asymmetric zip closureLining: 100% cottonColour: BlackComposition: Premium puffer fabricCollar: Structured high collarFit: Sculpted / fittedStyle: Sculpted Asymmetric / Puffer JacketDetails: Sculpted silhouette, asymmetric front design, quilted puffer construction, structured shoulders and contemporary fashion-forward stylingOccasion: Casual, streetwear, outdoor wear, winter wear and everyday fashionCustomization: You can have this puffer jacket customized according to your preferences, including size, colour, fit, fabric and design details. - BFL
-  Updated: 2026-10-03T22:11:55Z
+  Updated: 2026-10-07T08:27:42Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/design-2-zipper-touch.png?v=1790665864
   - [Black / XS](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket?variant=50813603414116)
     Availability: Available
-    Price: $155.99 USD
+    Price: $132.00 USD
   - [Black / S](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket?variant=50813603446884)
     Availability: Available
-    Price: $155.99 USD
+    Price: $132.00 USD
   - [Black / M](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket?variant=50813603479652)
     Availability: Available
-    Price: $155.99 USD
+    Price: $132.00 USD
   - [Black / L](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket?variant=50813603512420)
     Availability: Available
-    Price: $155.99 USD
+    Price: $132.00 USD
   - [Black / XL](https://bflwear.com/products/sculpted-asymmetric-puffer-jacket-women-s-stylish-premium-jacket?variant=50813603545188)
     Availability: Available
-    Price: $155.99 USD
+    Price: $132.00 USD
 - [Women’s Sculpted Asymmetric Leather Jacket | Stylish Premium Biker](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket): Reference: WSALJ-BLKSeason: 000Model: WOMEN’S SCULPTED ASYMMETRIC LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: Asymmetric zip
-  Updated: 2026-09-29T07:38:07Z
+  Updated: 2026-10-07T08:27:42Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/new-black-asymmetric-jacket-collar-touch.png?v=1790666578
   - [Black / XS](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket?variant=50813612392548)
     Availability: Available
-    Price: $155.00 USD
+    Price: $132.00 USD
   - [Black / S](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket?variant=50813612425316)
     Availability: Available
-    Price: $155.00 USD
+    Price: $132.00 USD
   - [Black / M](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket?variant=50813612458084)
     Availability: Available
-    Price: $155.00 USD
+    Price: $132.00 USD
   - [Black / L](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket?variant=50813612490852)
     Availability: Available
-    Price: $155.00 USD
+    Price: $132.00 USD
   - [Black / XL](https://bflwear.com/products/women-s-sculpted-asymmetric-leather-jacket-stylish-premium-biker-jacket?variant=50813612523620)
     Availability: Available
-    Price: $155.00 USD
+    Price: $132.00 USD
 - [Men’s Offset Double-Zip Leather Jacket | Stylish Premium Biker Jacket](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket): Reference: MODZLJ-BLKSeason: 000Model: MEN’S OFFSET DOUBLE-ZIP LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: Offset double-zip
-  Updated: 2026-09-29T07:04:33Z
+  Updated: 2026-10-07T08:27:42Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/black-double-zip-biker-jacket-zip-detail.png?v=1790665416
   - [Black / XS](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket?variant=50813621370980)
     Availability: Available
-    Price: $180.00 USD
+    Price: $132.00 USD
   - [Black / S](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket?variant=50813621403748)
     Availability: Available
-    Price: $180.00 USD
+    Price: $132.00 USD
   - [Black / M](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket?variant=50813621436516)
     Availability: Available
-    Price: $180.00 USD
+    Price: $132.00 USD
   - [Black / L](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket?variant=50813621469284)
     Availability: Available
-    Price: $180.00 USD
+    Price: $132.00 USD
   - [Black / XL](https://bflwear.com/products/men-s-offset-double-zip-leather-jacket-stylish-premium-biker-jacket?variant=50813621502052)
     Availability: Available
-    Price: $180.00 USD
+    Price: $132.00 USD
 - [Men’s Leather Car Coat with Extended Shoulder Yoke | Premium Leather](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat): Reference: MLCESY-BLKSeason: 000Model: MEN’S LEATHER CAR COAT WITH EXTENDED SHOULDER YOKEMaterial: LeatherSleeves: Long sleevesGender: ManClosure: Button
-  Updated: 2026-09-29T06:58:42Z
+  Updated: 2026-10-07T08:27:40Z
   Vendor: BFL
   Product Type: Men's Coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/beige-long-coat-walking-stance.png?v=1790665053
   - [Beige / XS](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat?variant=50813623009380)
     Availability: Available
-    Price: $130.00 USD
+    Price: $117.00 USD
   - [Beige / S](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat?variant=50813623042148)
     Availability: Available
-    Price: $130.00 USD
+    Price: $117.00 USD
   - [Beige / M](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat?variant=50813623074916)
     Availability: Available
-    Price: $130.00 USD
+    Price: $117.00 USD
   - [Beige / L](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat?variant=50813623107684)
     Availability: Available
-    Price: $130.00 USD
+    Price: $117.00 USD
   - [Beige / XL](https://bflwear.com/products/men-s-leather-car-coat-with-extended-shoulder-yoke-premium-leather-coat?variant=50813623140452)
     Availability: Available
-    Price: $130.00 USD
+    Price: $117.00 USD
 - [Women’s Leather Balloon-Sleeve Long Coat | Stylish Premium Leather](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat): Reference: WLBSLC-BLKSeason: 000Model: WOMEN’S LEATHER BALLOON-SLEEVE LONG COATMaterial: LeatherSleeves: Balloon-style long sleevesGender: WomanClosure: Button
-  Updated: 2026-09-29T18:31:59Z
+  Updated: 2026-10-07T08:27:40Z
   Vendor: BFL
   Product Type: Women's Coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/green-balloon-sleeve-long-coat-three-quarter-turn.png?v=1790663420
   - [Green / XS](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat?variant=50813632315492)
     Availability: Available
-    Price: $149.99 USD
+    Price: $124.00 USD
   - [Green / S](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat?variant=50813632348260)
     Availability: Available
-    Price: $149.99 USD
+    Price: $124.00 USD
   - [Green / M](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat?variant=50813632381028)
     Availability: Available
-    Price: $149.99 USD
+    Price: $124.00 USD
   - [Green / L](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat?variant=50813632413796)
     Availability: Available
-    Price: $149.99 USD
+    Price: $124.00 USD
   - [Green / XL](https://bflwear.com/products/women-s-leather-balloon-sleeve-long-coat-stylish-premium-leather-coat?variant=50813632446564)
     Availability: Available
-    Price: $149.99 USD
+    Price: $124.00 USD
 - [Women’s Sculpted Panel Moto Leather Jacket | Stylish Premium Biker](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket): Reference: WSPMLJ-BLKSeason: 000Model: WOMEN’S SCULPTED PANEL MOTO LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-09-28T04:20:12Z
+  Updated: 2026-10-07T08:27:40Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/52d039c9-e696-4223-81ed-bae0309e8037.jpg?v=1790525962
   - [Black / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813632970852)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Black / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633003620)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Black / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633036388)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Black / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633069156)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Black / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633101924)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Red / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633134692)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Red / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633167460)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Red / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633200228)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Red / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633232996)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Red / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633265764)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Green / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633298532)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Green / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633331300)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Green / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633364068)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Green / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633396836)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Green / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633429604)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Brown / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633462372)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Brown / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633495140)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Brown / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633527908)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Brown / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633560676)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Brown / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633593444)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Blue / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633626212)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Blue / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633658980)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Blue / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633691748)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Blue / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633724516)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [Blue / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633757284)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [White / XS](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633790052)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [White / S](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633822820)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [White / M](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633855588)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [White / L](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633888356)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
   - [White / XL](https://bflwear.com/products/women-s-sculpted-panel-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813633921124)
     Availability: Available
-    Price: $210.00 USD
+    Price: $120.00 USD
 - [BFL Men's Burgundy Leather Biker Jacket | Classic Moto Style](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets): Shop BFL Men's Burgundy Leather Biker Jacket with classic moto styling, silver hardware and zip pockets. A bold choice for casual and streetwear looks.
-  Updated: 2026-09-29T06:26:09Z
+  Updated: 2026-10-07T08:27:40Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/burgundy-biker-jacket-side-stance.png?v=1790663050
   - [XS / Burgunday](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets?variant=50813642244196)
     Availability: Available
-    Price: $130.00 USD
+    Price: $120.00 USD
   - [S / Burgunday](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets?variant=50813642408036)
     Availability: Available
-    Price: $130.00 USD
+    Price: $120.00 USD
   - [M / Burgunday](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets?variant=50813642571876)
     Availability: Available
-    Price: $130.00 USD
+    Price: $120.00 USD
   - [L / Burgunday](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets?variant=50813642735716)
     Availability: Available
-    Price: $130.00 USD
+    Price: $120.00 USD
   - [XL / Burgunday](https://bflwear.com/products/mens-burgundy-leather-biker-jacket-classic-moto-style-with-zip-pockets?variant=50813642899556)
     Availability: Available
-    Price: $130.00 USD
+    Price: $120.00 USD
 - [Women’s Split-Curve Moto Leather Jacket | Stylish Premium Biker](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket): Reference: WSCMLJ-BLKSeason: 000Model: WOMEN’S SPLIT-CURVE MOTO LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-09-29T18:20:50Z
+  Updated: 2026-10-07T08:27:39Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/beige-split-curve-moto-jacket-side.png?v=1790662756
   - [Beige / XS](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813651746916)
     Availability: Available
-    Price: $187.99 USD
+    Price: $120.00 USD
   - [Beige / S](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813651779684)
     Availability: Available
-    Price: $187.99 USD
+    Price: $120.00 USD
   - [Beige / M](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813651812452)
     Availability: Available
-    Price: $187.99 USD
+    Price: $120.00 USD
   - [Beige / L](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813651845220)
     Availability: Available
-    Price: $187.99 USD
+    Price: $120.00 USD
   - [Beige / XL](https://bflwear.com/products/women-s-split-curve-moto-leather-jacket-stylish-premium-biker-jacket?variant=50813651877988)
     Availability: Available
-    Price: $187.99 USD
+    Price: $120.00 USD
 - [Women’s Curved Harness-Panel Leather Jacket | Stylish Premium Biker](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket): Reference: WCHPLJ-BLKSeason: 000Model: WOMEN’S CURVED HARNESS-PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining:
-  Updated: 2026-09-29T06:16:10Z
+  Updated: 2026-10-07T08:27:39Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/detailed-green-jacket-upper-body-side.png?v=1790662540
   - [Green / XS](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813660889188)
     Availability: Available
-    Price: $139.00 USD
+    Price: $120.00 USD
   - [Green / S](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813660921956)
     Availability: Available
-    Price: $139.00 USD
+    Price: $120.00 USD
   - [Green / M](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813660954724)
     Availability: Available
-    Price: $139.00 USD
+    Price: $120.00 USD
   - [Green / L](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813660987492)
     Availability: Available
-    Price: $139.00 USD
+    Price: $120.00 USD
   - [Green / XL](https://bflwear.com/products/women-s-curved-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813661020260)
     Availability: Available
-    Price: $139.00 USD
+    Price: $120.00 USD
 - [Sculptural Fold-Front Leather Jacket | Women’s Stylish Premium](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket): Reference: SFFLJ-BLKSeason: 000Model: WOMEN’S SCULPTURAL FOLD-FRONT LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining:
-  Updated: 2026-09-29T06:09:24Z
+  Updated: 2026-10-07T08:27:39Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/rust-orange-fold-front-jacket-fold-touch-pose.png?v=1790662108
   - [Rust Orange / XS](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813669408868)
     Availability: Available
-    Price: $130.00 USD
+    Price: $110.00 USD
   - [Rust Orange / S](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813669441636)
     Availability: Available
-    Price: $130.00 USD
+    Price: $110.00 USD
   - [Rust Orange / M](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813669474404)
     Availability: Available
-    Price: $130.00 USD
+    Price: $110.00 USD
   - [Rust Orange / L](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813669507172)
     Availability: Available
-    Price: $130.00 USD
+    Price: $110.00 USD
   - [Rust Orange / XL](https://bflwear.com/products/sculptural-fold-front-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813669539940)
     Availability: Available
-    Price: $130.00 USD
+    Price: $110.00 USD
 - [Asymmetric Panel Leather Jacket | Women’s Stylish Premium Leather](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket): Reference: APLJ-BLKSeason: 000Model: WOMEN’S ASYMMETRIC PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-10-03T23:38:09Z
+  Updated: 2026-10-07T08:27:39Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/f1a221c2-c421-44a9-926f-6355581ad350.jpg?v=1791070678
   - [Black / XS](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813670228068)
     Availability: Available
-    Price: $150.00 USD
+    Price: $110.00 USD
   - [Black / S](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813670260836)
     Availability: Available
-    Price: $150.00 USD
+    Price: $110.00 USD
   - [Black / M](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813670293604)
     Availability: Available
-    Price: $150.00 USD
+    Price: $110.00 USD
   - [Black / L](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813670326372)
     Availability: Available
-    Price: $150.00 USD
+    Price: $110.00 USD
   - [Black / XL](https://bflwear.com/products/asymmetric-panel-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813670359140)
     Availability: Available
-    Price: $150.00 USD
+    Price: $110.00 USD
 - [Women Origami Shoulder Leather Jacket | Women’s Stylish Premium](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket): Reference: OSLJ-BLKSeason: 000Model: WOMEN’S ORIGAMI SHOULDER LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:09Z
+  Updated: 2026-10-07T08:27:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/watermarked_img_1513780997250936983_c7b2d272-450a-44e5-8589-ceddabd5b601.jpg?v=1790594421
   - [Black / XS](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813679534180)
     Availability: Available
-    Price: $190.00 USD
+    Price: $110.00 USD
   - [Black / S](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813679566948)
     Availability: Available
-    Price: $190.00 USD
+    Price: $110.00 USD
   - [Black / M](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813679599716)
     Availability: Available
-    Price: $190.00 USD
+    Price: $110.00 USD
   - [Black / L](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813679632484)
     Availability: Available
-    Price: $190.00 USD
+    Price: $110.00 USD
   - [Black / XL](https://bflwear.com/products/women-origami-shoulder-leather-jacket-women-s-stylish-premium-leather-jacket?variant=50813679665252)
     Availability: Available
-    Price: $190.00 USD
+    Price: $110.00 USD
 - [Women’s Sculpted Cocoon Leather Jacket | Stylish Premium Leather](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket): Reference: WSCLJ-BLKSeason: 000Model: WOMEN’S SCULPTED COCOON LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: WomanClosure: ZippedLining: 100%
-  Updated: 2026-10-03T23:38:23Z
+  Updated: 2026-10-07T08:27:37Z
   Vendor: BFL
   Product Type: Women's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/watermarked_img_1513780997250936983.jpg?v=1791070684
   - [Black / XS](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket?variant=50813680386148)
     Availability: Available
-    Price: $149.00 USD
+    Price: $137.65 USD
   - [Black / S](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket?variant=50813680418916)
     Availability: Available
-    Price: $149.00 USD
+    Price: $137.65 USD
   - [Black / M](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket?variant=50813680451684)
     Availability: Available
-    Price: $149.00 USD
+    Price: $137.65 USD
   - [Black / L](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket?variant=50813680484452)
     Availability: Available
-    Price: $149.00 USD
+    Price: $137.65 USD
   - [Black / XL](https://bflwear.com/products/women-s-sculpted-cocoon-leather-jacket-stylish-premium-leather-jacket?variant=50813680517220)
     Availability: Available
-    Price: $149.00 USD
+    Price: $137.65 USD
 - [Men’s Curved Zip Racing Leather Jacket | Stylish Motorcycle Jacket](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket): Reference: MCZRLJ-BLKSeason: 000Model: MEN’S CURVED ZIP RACING LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: ManClosure: Curved zip
-  Updated: 2026-10-03T11:46:14Z
+  Updated: 2026-10-07T08:27:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/1d71794c-989e-4b01-a72a-4f8c85dba6cb.jpg?v=1790593812
   - [Black / XS](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket?variant=50813681369188)
     Availability: Available
-    Price: $180.00 USD
+    Price: $137.65 USD
   - [Black / S](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket?variant=50813681401956)
     Availability: Available
-    Price: $180.00 USD
+    Price: $137.65 USD
   - [Black / M](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket?variant=50813681434724)
     Availability: Available
-    Price: $180.00 USD
+    Price: $137.65 USD
   - [Black / L](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket?variant=50813681467492)
     Availability: Available
-    Price: $180.00 USD
+    Price: $137.65 USD
   - [Black / XL](https://bflwear.com/products/men-s-curved-zip-racing-leather-jacket-stylish-motorcycle-jacket?variant=50813681500260)
     Availability: Available
-    Price: $180.00 USD
+    Price: $137.65 USD
 - [Men's Diagonal Pleat Leather Field Jacket | Stylish Premium Leather](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket): Reference: DPLFJ-BLKSeason: 000Model: DIAGONAL PLEAT LEATHER FIELD JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:15Z
+  Updated: 2026-10-07T08:27:37Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/6a812256-7cb1-4695-9fe9-887bf809ffa1.jpg?v=1790593438
   - [Black / XS](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket?variant=50813690347620)
     Availability: Available
-    Price: $198.00 USD
+    Price: $132.00 USD
   - [Black / S](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket?variant=50813690380388)
     Availability: Available
-    Price: $198.00 USD
+    Price: $132.00 USD
   - [Black / M](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket?variant=50813690413156)
     Availability: Available
-    Price: $198.00 USD
+    Price: $132.00 USD
   - [Black / L](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket?variant=50813690445924)
     Availability: Available
-    Price: $198.00 USD
+    Price: $132.00 USD
   - [Black / XL](https://bflwear.com/products/mens-diagonal-pleat-leather-field-jacket-stylish-premium-leather-jacket?variant=50813690478692)
     Availability: Available
-    Price: $198.00 USD
-- [Layered Harness-Panel Leather Jacket | Stylish Premium Biker Jacket](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket): Reference: LHPLJ-BLKSeason: 000Model: LAYERED HARNESS-PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:17Z
+    Price: $132.00 USD
+- [Layered Harness-Panel Leather Jacket | Stylish Premium Biker Jacket - BFL](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket): Reference: LHPLJ-BLKSeason: 000Model: LAYERED HARNESS-PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: ZippedLining: 100% cottonColour: BlackComposition: 100% lambskin leatherCollar: Classic leather collarFit: Regular / fittedStyle: Layered Harness-Panel / Biker Leather JacketDetails: Layered harness-inspired panel design, structured leather construction, premium genuine leather finish, long sleeves and bold biker-inspired stylingOccasion: Casual, streetwear, riding, fashion events and everyday wearCustomization: You can have this leather jacket customized according to your preferences, including size, colour, fit, leather type and design details. - BFL
+  Updated: 2026-10-07T08:27:36Z
   Vendor: BFL
   Product Type: Men's Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/6a2056fa-d080-4644-809e-75bbe35056a7.jpg?v=1790593179
+  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/6a2056fa-d080-4644-809e-75bbe35056a7.jpg?v=1791080833
   - [Black / XS](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813691166820)
     Availability: Available
-    Price: $200.00 USD
+    Price: $132.00 USD
   - [Black / S](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813691199588)
     Availability: Available
-    Price: $200.00 USD
+    Price: $132.00 USD
   - [Black / M](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813691232356)
     Availability: Available
-    Price: $200.00 USD
+    Price: $132.00 USD
   - [Black / L](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813691265124)
     Availability: Available
-    Price: $200.00 USD
+    Price: $132.00 USD
   - [Black / XL](https://bflwear.com/products/layered-harness-panel-leather-jacket-stylish-premium-biker-jacket?variant=50813691297892)
     Availability: Available
-    Price: $200.00 USD
-- [Convertible Flap-Front Leather Jacket | Stylish Premium Biker Jacket](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket): Reference: CFFLJ-BLKSeason: 000Model: CONVERTIBLE FLAP-FRONT LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: Zipped with flap-front
-  Updated: 2026-10-03T11:46:18Z
-  Vendor: BFL
-  Product Type: Men's Jackets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/2af37495-cd25-4e45-ad6c-e323d26dcd7c.jpg?v=1790592550
-  - [Black / XS](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket?variant=50813700309092)
-    Availability: Available
-    Price: $198.00 USD
-  - [Black / S](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket?variant=50813700341860)
-    Availability: Available
-    Price: $198.00 USD
-  - [Black / M](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket?variant=50813700374628)
-    Availability: Available
-    Price: $198.00 USD
-  - [Black / L](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket?variant=50813700407396)
-    Availability: Available
-    Price: $198.00 USD
-  - [Black / XL](https://bflwear.com/products/convertible-flap-front-leather-jacket-stylish-premium-biker-jacket?variant=50813700440164)
-    Availability: Available
-    Price: $198.00 USD
-- [Architectural Panel Leather Jacket | Stylish Premium Structured](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket): Reference: APLJ-BLKSeason: 000Model: ARCHITECTURAL PANEL LEATHER JACKETMaterial: LeatherSleeves: Long sleevesGender: UnisexClosure: ZippedLining: 100%
-  Updated: 2026-10-03T11:46:20Z
-  Vendor: BFL
-  Product Type: Women's Jackets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9949/4500/files/0da86c54-dd0a-4ddc-9767-b02ae1167829.jpg?v=1790592175
-  - [Black / XS](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket?variant=50813701128292)
-    Availability: Available
-    Price: $150.00 USD
-  - [Black / S](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket?variant=50813701161060)
-    Availability: Available
-    Price: $150.00 USD
-  - [Black / M](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket?variant=50813701193828)
-    Availability: Available
-    Price: $150.00 USD
-  - [Black / L](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket?variant=50813701226596)
-    Availability: Available
-    Price: $150.00 USD
-  - [Black / XL](https://bflwear.com/products/architectural-panel-leather-jacket-stylish-premium-structured-jacket?variant=50813701259364)
-    Availability: Available
-    Price: $150.00 USD
-[List Continued](https://bflwear.com/a/llms-agent/llms.txt?shop=wf03sd-5p.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMyNDQ4NDgxNjk5NiwibGFzdF92YWx1ZSI6IjEwMzI0NDg0ODE2OTk2In0%3D)
+    Price: $132.00 USD
+[List Continued](https://bflwear.com/a/llms-agent/llms.txt?shop=wf03sd-5p.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMyNDQ4NDcxODY5MiwibGFzdF92YWx1ZSI6IjEwMzI0NDg0NzE4NjkyIn0%3D)
 
 ## Collections
 
 - [Best Seller](https://bflwear.com/collections/best-seller)
-  Updated: 2026-10-03T10:12:39Z
+  Updated: 2026-10-07T08:27:37Z
   Total Products: 51
 - [Racer Jackets](https://bflwear.com/collections/mens-racer-jackets): Shop men's racer jackets at BFL Wear. Explore leather, motorcycle, racing, vintage and custom racer jackets designed for bold style and everyday wear.
-  Updated: 2026-10-03T11:38:14Z
+  Updated: 2026-10-06T13:27:51Z
   Total Products: 7
 - [Bomber Jackets](https://bflwear.com/collections/mens-bomber-jackets): Shop men's bomber jackets at BFL Wear. Explore leather, classic, vintage, racing and custom bomber jackets designed for modern style, comfort and everyday wear.
-  Updated: 2026-09-28T12:44:48Z
+  Updated: 2026-10-07T08:27:39Z
   Total Products: 11
 - [Women](https://bflwear.com/collections/womens-leather-jackets): Shop women's jackets at BFL Wear. Explore leather, biker, motorcycle, bomber, racing, varsity, vintage and custom jackets made for every style.
-  Updated: 2026-10-03T06:04:34Z
-  Total Products: 33
+  Updated: 2026-10-08T05:08:20Z
+  Total Products: 34
 - [Women Moto Jackets](https://bflwear.com/collections/womens-moto-jackets): Shop women's moto jackets at BFL Wear. Explore leather, motorcycle, biker, vintage, racing and custom moto jackets designed for bold everyday style.
-  Updated: 2026-09-29T09:16:03Z
+  Updated: 2026-10-07T08:27:45Z
   Total Products: 6
 - [Women Biker Jackets](https://bflwear.com/collections/womens-biker-jackets): Shop women's biker jackets at BFL Wear. Explore leather, motorcycle, moto, racing, vintage and custom biker jackets designed for bold, timeless style.
-  Updated: 2026-10-03T06:04:34Z
+  Updated: 2026-10-07T08:27:45Z
   Total Products: 13
 - [Women Bomber Jackets](https://bflwear.com/collections/womens-bomber-jackets): Shop women's bomber jackets at BFL Wear. Explore leather, vintage, racing, casual and custom bomber jackets designed for stylish everyday looks.
-  Updated: 2026-09-28T09:17:23Z
+  Updated: 2026-10-06T13:38:21Z
   Total Products: 3
 - [Women Shearling Jackets](https://bflwear.com/collections/womens-shearling-jackets): Shop women's shearling jackets at BFL Wear. Discover leather, sheepskin, winter, vintage and custom shearling jackets designed for warmth and timeless style.
   Updated: 2026-09-27T15:47:04Z
   Total Products: 0
 - [Women Fur Collar Jackets](https://bflwear.com/collections/womens-fur-collar-jackets): Shop women's fur collar jackets at BFL Wear. Explore leather, winter, vintage, shearling and custom jackets designed for warmth, comfort and timeless style.
-  Updated: 2026-09-29T05:11:37Z
+  Updated: 2026-10-06T13:38:03Z
   Total Products: 1
 - [Women Cropped Jackets](https://bflwear.com/collections/womens-cropped-jackets): Shop women's cropped jackets at BFL Wear. Explore leather, biker, moto, bomber, vintage and custom cropped jackets designed for modern everyday style.
-  Updated: 2026-09-29T09:15:23Z
+  Updated: 2026-10-07T08:27:34Z
   Total Products: 5
 - [Women Peplum Jackets](https://bflwear.com/collections/womens-peplum-jackets): Shop women's peplum jackets at BFL Wear. Explore leather, biker, fitted and custom peplum jackets designed for stylish, feminine and modern looks.
   Updated: 2026-09-29T05:44:28Z
   Total Products: 1
 - [Blazer](https://bflwear.com/collections/blazer): Shop stylish blazers at BFL Wear for men and women. Explore leather, classic, casual, formal, vintage and custom blazers made for every occasion.
-  Updated: 2026-09-28T08:05:10Z
+  Updated: 2026-10-06T13:27:56Z
   Total Products: 1
 - [Women Trench Coats](https://bflwear.com/collections/womens-trench-coats): Shop women's trench coats at BFL Wear. Discover leather, classic, vintage and custom trench coats designed for elegant style, comfort and timeless appeal.
   Updated: 2026-09-28T11:34:27Z
   Total Products: 3
 - [New Arrival](https://bflwear.com/collections/new-arrival): Shop new arrival jackets at BFL Wear. Discover the latest leather, biker, bomber, motorcycle, racing, varsity and custom jackets for men and women.
-  Updated: 2026-10-03T11:36:57Z
-  Total Products: 126
+  Updated: 2026-10-10T08:20:28Z
+  Total Products: 150
 - [Luxury Outerwear](https://bflwear.com/collections/luxury-outerwear): Shop luxury outerwear at BFL Wear. Discover premium leather jackets, biker jackets, bomber jackets, coats and custom outerwear designed for timeless style.
-  Updated: 2026-09-28T12:27:31Z
+  Updated: 2026-10-06T13:28:00Z
   Total Products: 9
-- [Shop all](https://bflwear.com/collections/shop-all): Explore BFL Wear’s collection of leather jackets for men and women, including biker, motorcycle, bomber and vintage styles. Shop your favorite look.
-  Updated: 2026-10-03T11:37:00Z
-  Total Products: 96
+- [Shop all](https://bflwear.com/collections/shop-all): Shop genuine leather jackets for men and women at BFL Wear. Find biker, motorcycle, bomber and vintage styles with worldwide delivery.
+  Updated: 2026-10-10T08:20:28Z
+  Total Products: 112
 - [Leather Bags](https://bflwear.com/collections/leather-bags)
   Updated: 2026-10-02T10:20:44Z
   Total Products: 1
@@ -3296,16 +3254,16 @@
   Updated: 2026-09-19T06:40:02Z
   Total Products: 0
 - [Women Draped Collar Jacket](https://bflwear.com/collections/women-draped-collar-jacket)
-  Updated: 2026-09-28T08:17:57Z
+  Updated: 2026-10-06T13:38:16Z
   Total Products: 1
 - [Bomber Jackets](https://bflwear.com/collections/mens-bomber-jackets-1)
-  Updated: 2026-09-28T12:44:48Z
+  Updated: 2026-10-06T13:38:18Z
   Total Products: 8
 - [Leather Moto Jackets](https://bflwear.com/collections/men-leather-moto-jackets)
-  Updated: 2026-09-29T16:16:24Z
+  Updated: 2026-10-07T08:27:39Z
   Total Products: 4
 - [Drapped Collar Jacket](https://bflwear.com/collections/men-drapped-collar-jacket)
-  Updated: 2026-09-28T10:06:08Z
+  Updated: 2026-10-06T13:38:26Z
   Total Products: 1
 - [Leather Handbags](https://bflwear.com/collections/leather-handbags): Shop stylish leather handbags at BFL. Discover timeless, versatile designs for everyday use, work, travel, and special occasions.
   Updated: 2026-09-19T06:40:03Z
@@ -3365,25 +3323,25 @@
   Updated: 2026-09-19T06:40:04Z
   Total Products: 0
 - [Motorcycle Jackets](https://bflwear.com/collections/mens-motorcycle-jackets): Shop men's motorcycle jackets at BFL Wear. Explore leather riding jackets designed for a classic biker look, everyday wear, and motorcycle enthusiasts.
-  Updated: 2026-09-30T04:29:48Z
+  Updated: 2026-10-07T08:27:39Z
   Total Products: 10
 - [Aviator Jackets](https://bflwear.com/collections/mens-aviator-jackets): Shop men's aviator jackets at BFL Wear, crafted in leather with classic flight-inspired style. Explore durable jackets for everyday wear and outdoor looks.
-  Updated: 2026-09-29T05:53:33Z
+  Updated: 2026-10-06T13:38:21Z
   Total Products: 10
 - [Military Jackets](https://bflwear.com/collections/mens-military-jackets): Shop men's military jackets at BFL Wear. Explore durable leather military jackets inspired by classic military styles, built for everyday wear and outdoor looks.
-  Updated: 2026-09-28T05:51:29Z
+  Updated: 2026-10-06T13:38:12Z
   Total Products: 2
 - [Puffer Jackets](https://bflwear.com/collections/mens-puffer-jackets): Shop men's leather puffer jackets at BFL Wear. Explore stylish, warm, and durable leather puffer jackets designed for winter, casual wear, and everyday style.
-  Updated: 2026-09-29T07:38:49Z
+  Updated: 2026-10-07T08:27:45Z
   Total Products: 5
 - [Shearling Jackets](https://bflwear.com/collections/mens-shearling-jackets): Shop men's shearling jackets at BFL Wear. Explore premium leather shearling jackets and warm winter styles designed for comfort, durability, and timeless appeal.
   Updated: 2026-09-28T12:02:52Z
   Total Products: 2
 - [Long Leather Coats](https://bflwear.com/collections/mens-long-leather-coats): Shop men's long leather coats at BFL Wear. Explore premium leather coats in timeless styles, crafted for a refined look, comfort, and everyday wear.
-  Updated: 2026-09-29T06:58:40Z
+  Updated: 2026-10-07T08:27:41Z
   Total Products: 3
 - [Puffer Jackets](https://bflwear.com/collections/mens-puffer-jackets-1): Shop men's leather puffer jackets at BFL Wear. Discover stylish and durable puffer jackets designed for warmth, comfort, and everyday wear.
-  Updated: 2026-09-29T07:38:49Z
+  Updated: 2026-10-07T08:27:45Z
   Total Products: 3
 - [Vintage Jackets](https://bflwear.com/collections/mens-vintage-jackets): Shop men's vintage jackets at BFL Wear. Explore retro leather jackets with classic styles, timeless designs, and a distinctive vintage-inspired look.
   Updated: 2026-09-27T15:44:47Z
@@ -3392,67 +3350,67 @@
   Updated: 2026-10-02T10:20:44Z
   Total Products: 1
 - [Biker Jackets](https://bflwear.com/collections/men-biker-jackets)
-  Updated: 2026-10-03T11:38:14Z
+  Updated: 2026-10-07T08:27:46Z
   Total Products: 41
 - [Diagonal Pleat Leather Jacket](https://bflwear.com/collections/mens-diagonal-pleat-leather-jacket)
-  Updated: 2026-09-28T11:04:52Z
+  Updated: 2026-10-07T08:27:39Z
   Total Products: 2
 - [Curved Zip Racing Leather Jacket](https://bflwear.com/collections/men-s-curved-zip-racing-leather-jacket)
   Updated: 2026-09-27T15:45:47Z
   Total Products: 0
 - [Women’s Sculpted Cocoon Leather Jacket](https://bflwear.com/collections/women-s-sculpted-cocoon-leather-jacket)
-  Updated: 2026-09-29T08:58:32Z
+  Updated: 2026-10-07T08:27:39Z
   Total Products: 2
 - [Women Origami Shoulder Leather Jacket](https://bflwear.com/collections/women-origami-shoulder-leather-jacket)
   Updated: 2026-09-27T15:45:44Z
   Total Products: 0
 - [Women's Asymmetric Panel Leather Jacket](https://bflwear.com/collections/womens-asymmetric-panel-leather-jacket)
-  Updated: 2026-09-28T08:38:38Z
+  Updated: 2026-10-06T13:38:18Z
   Total Products: 1
 - [Women's Leather Balloon-Sleeve Long Coat](https://bflwear.com/collections/womens-leather-balloon-sleeve-long-coat)
-  Updated: 2026-09-29T06:31:52Z
+  Updated: 2026-10-07T08:27:41Z
   Total Products: 2
 - [Women Leather Coats](https://bflwear.com/collections/women-leather-coats)
-  Updated: 2026-09-29T07:01:11Z
+  Updated: 2026-10-07T08:27:41Z
   Total Products: 2
 - [leather jakcets](https://bflwear.com/collections/men-leather-jakcets)
-  Updated: 2026-10-03T10:12:39Z
+  Updated: 2026-10-06T13:38:14Z
   Total Products: 8
 - [Women leather jacket](https://bflwear.com/collections/women-leather-jacket)
-  Updated: 2026-09-28T10:20:27Z
+  Updated: 2026-10-06T13:38:18Z
   Total Products: 2
 - [Women Sculpted Leather Jackets](https://bflwear.com/collections/women-sculpted-leather-jackets)
-  Updated: 2026-10-02T06:09:26Z
+  Updated: 2026-10-07T08:27:43Z
   Total Products: 7
 - [Women Puffer Jacket](https://bflwear.com/collections/women-puffer-jacket)
-  Updated: 2026-09-29T07:30:38Z
+  Updated: 2026-10-07T08:27:43Z
   Total Products: 1
 - [Fashion Jackets](https://bflwear.com/collections/men-s-fashion-jackets)
-  Updated: 2026-10-02T07:23:49Z
+  Updated: 2026-10-06T13:28:00Z
   Total Products: 16
 - [Utility Jackets](https://bflwear.com/collections/men-s-utility-jackets)
-  Updated: 2026-09-29T09:05:58Z
+  Updated: 2026-10-06T13:38:26Z
   Total Products: 3
 - [Women Fashion Jackets](https://bflwear.com/collections/women-fashion-jackets)
   Updated: 2026-09-27T15:45:15Z
   Total Products: 0
 - [Women’s Winter Jackets](https://bflwear.com/collections/women-s-winter-jackets)
-  Updated: 2026-09-29T09:47:45Z
+  Updated: 2026-10-07T08:27:40Z
   Total Products: 7
 - [Halloween Collection](https://bflwear.com/collections/halloween-collection)
-  Updated: 2026-10-03T10:23:32Z
-  Total Products: 6
+  Updated: 2026-10-10T08:10:32Z
+  Total Products: 22
 - [Leather Jackets](https://bflwear.com/collections/leather-jackets)
-  Updated: 2026-10-03T10:12:39Z
+  Updated: 2026-10-06T13:38:14Z
   Total Products: 17
 - [Halloween Jackets](https://bflwear.com/collections/halloween-jackets): Shop stylish Halloween Jackets for spooky parties, fall outings, and themed events. Discover bold, fun, and seasonal jacket styles for Halloween.
-  Updated: 2026-10-03T10:23:32Z
+  Updated: 2026-10-06T13:27:51Z
   Total Products: 6
 - [Christmas Jackets](https://bflwear.com/collections/christmas-jackets): Stay warm and stylish with Winter Jackets designed for cold weather, outdoor activities, travel, and everyday wear. Explore comfortable winter styles.
-  Updated: 2026-09-28T06:21:39Z
+  Updated: 2026-10-06T13:27:51Z
   Total Products: 2
 - [Winter Jackets](https://bflwear.com/collections/winter-jackets): Stay warm and stylish with Winter Jackets designed for cold weather, outdoor activities, travel, and everyday wear. Explore comfortable winter styles.
-  Updated: 2026-09-29T07:38:49Z
+  Updated: 2026-10-07T08:27:45Z
   Total Products: 2
 - [Fall Jackets](https://bflwear.com/collections/fall-jackets): Shop fashionable Fall Jackets for crisp autumn days, casual outings, and easy layering. Discover stylish designs made for comfortable seasonal wear.
   Updated: 2026-09-28T09:33:34Z
@@ -3464,13 +3422,13 @@
   Updated: 2026-09-19T06:40:06Z
   Total Products: 0
 - [Biker Jackets](https://bflwear.com/collections/biker-jackets): Shop bold Biker Jackets featuring edgy designs, durable materials, and timeless style. Find versatile jackets perfect for motorcycle-inspired and casual outfits.
-  Updated: 2026-09-30T04:46:24Z
+  Updated: 2026-10-07T08:27:46Z
   Total Products: 16
 - [Party Jackets](https://bflwear.com/collections/party-jackets): Stand out with stylish Party Jackets designed for celebrations, nights out, special occasions, and events. Explore fashionable designs made to complete your look.
   Updated: 2026-09-29T09:30:23Z
   Total Products: 1
 - [Gift Jackets](https://bflwear.com/collections/gift-jackets): Find the perfect Gift Jackets for birthdays, holidays, anniversaries, and special occasions. Explore stylish and versatile jacket designs for every wardrobe.
-  Updated: 2026-09-28T08:41:05Z
+  Updated: 2026-10-06T13:27:56Z
   Total Products: 1
 - [4th of July Jackets](https://bflwear.com/collections/4th-of-july-jackets): Celebrate Independence Day in style with 4th of July Jackets. Discover festive designs perfect for parties, parades, outdoor events, and summer celebrations.
   Updated: 2026-09-27T15:44:46Z
@@ -3488,7 +3446,7 @@
   Updated: 2026-09-27T15:44:51Z
   Total Products: 0
 - [Leather Seasonal Occasion](https://bflwear.com/collections/leather-seasonal-occasion): Shop leather jackets for every season and occasion at BFL Wear. Explore stylish biker, bomber, trench, aviator and leather outerwear styles.
-  Updated: 2026-09-28T12:58:23Z
+  Updated: 2026-10-06T13:28:00Z
   Total Products: 4
 - [Varsity Jackets](https://bflwear.com/collections/varsity-jackets)
   Updated: 2026-09-29T09:24:06Z
@@ -3497,23 +3455,23 @@
   Updated: 2026-09-19T06:40:07Z
   Total Products: 0
 - [Recommended Products (Wiz Email)](https://bflwear.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-03T10:23:32Z
-  Total Products: 176
+  Updated: 2026-10-10T08:21:04Z
+  Total Products: 200
 - [Recommended Products (Wiz Email)](https://bflwear.com/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-03T10:23:32Z
-  Total Products: 176
+  Updated: 2026-10-10T08:21:04Z
+  Total Products: 200
 - [Faux Leather Jackets](https://bflwear.com/collections/faux-leather-jackets)
   Updated: 2026-09-28T12:58:23Z
   Total Products: 1
 - [Christmas Gift Box](https://bflwear.com/collections/christmas-gift-box)
   Updated: 2026-09-27T15:44:40Z
   Total Products: 0
-- [Leather Hats](https://bflwear.com/collections/leather-hats): Shop premium leather hats for men and women, crafted with stylish designs and quality materials. Explore versatile leather hats for everyday wear, winter outfits, parties, and more.
-  Updated: 2026-09-27T15:44:56Z
-  Total Products: 0
+- [Leather Hats](https://bflwear.com/collections/leather-hats): Shop genuine leather hats for men and women at BFL Wear. Explore cowboy, Halloween and everyday leather hat designs with worldwide delivery.
+  Updated: 2026-10-10T08:20:28Z
+  Total Products: 24
 - [Ultimate Search - Do not delete](https://bflwear.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection. - BFL
-  Updated: 2026-10-03T11:47:21Z
-  Total Products: 176
+  Updated: 2026-10-10T08:21:04Z
+  Total Products: 200
 - [Women Christmas Jacket](https://bflwear.com/collections/women-christmas-jacket): - BFL
   Updated: 2026-09-29T09:37:57Z
   Total Products: 3
@@ -3524,7 +3482,7 @@
   Updated: 2026-09-29T09:52:14Z
   Total Products: 3
 - [Women Halloween Jackets](https://bflwear.com/collections/women-halloween-jackets): - BFL
-  Updated: 2026-10-03T06:04:34Z
+  Updated: 2026-10-06T13:27:51Z
   Total Products: 4
 - [Women Halloween Jacket](https://bflwear.com/collections/women-halloween-jacket): - BFL
   Updated: 2026-10-03T06:04:34Z
@@ -3641,6 +3599,28 @@
   - [Men’s Racer Jacket Guide: Leather, Fit & Style | BFL Wear](https://bflwear.com/blogs/our-blogs/mens-racer-jacket-guide): Men’s Racer Jacket Guide: Leather, Fit & Style | BFL Wear
     Updated: 2026-10-03T11:47:30Z
     Author: Tallat Saba
+  - [Where Can I Buy a Leather Jacket? | BFL Wear](https://bflwear.com/blogs/our-blogs/where-can-i-buy-a-leather-jacket): Where Can I Buy a Leather Jacket? | BFL Wear
+    Updated: 2026-10-04T08:02:23Z
+    Author: Tallat Saba
+  - [Where to Buy Leather Jackets Near Me | BFL Wear](https://bflwear.com/blogs/our-blogs/where-to-buy-leather-jackets-near-me): Where to Buy Leather Jackets Near Me | BFL Wear
+    Updated: 2026-10-05T07:46:18Z
+    Author: Tallat Saba
+  - [Where Can I Buy a Leather Jacket? | BFL Wear](https://bflwear.com/blogs/our-blogs/where-can-i-buy-a-leather-jackets): Where Can I Buy a Leather Jacket? | BFL Wear
+    Updated: 2026-10-06T05:48:22Z
+    Author: Tallat Saba
+  - [Black Leather Jacket Guide: Styles, Fit & Buying Tips](https://bflwear.com/blogs/our-blogs/black-leather-jacket-guide): Black Leather Jacket Guide: Styles, Fit & Buying Tips
+    Updated: 2026-10-08T11:03:07Z
+    Author: Tallat Saba
+  - [White Cape Leather Jacket: A Buyer’s Guide](https://bflwear.com/blogs/our-blogs/white-cape-leather-jacket): White Cape Leather Jacket: A Buyer’s Guide
+    Updated: 2026-10-09T04:50:14Z
+    Author: Tallat Saba
+  - [Funnel Neck Leather Jacket Buying Guide | BFL Wear](https://bflwear.com/blogs/our-blogs/funnel-neck-leather-jacket-buying-guide): Funnel Neck Leather Jacket Buying Guide | BFL Wear
+    Updated: 2026-10-10T09:20:54Z
+    Author: Tallat Saba
+- [News](https://bflwear.com/blogs/news)
+  - [Best Place to Buy a Leather Jacket in 2026](https://bflwear.com/blogs/news/best-place-to-buy-a-leather-jacket): Best Place to Buy a Leather Jacket in 2026
+    Updated: 2026-10-07T05:21:54Z
+    Author: Tallat Saba
 
 ## Store Pages
 
@@ -3680,15 +3660,15 @@
 ## Policies
 
 - [Privacy Policy](https://bflwear.com/policies/privacy-policy)
-  Updated: 2026-06-20T14:40:48+05:00
+  Updated: 2026-10-04T15:58:23+05:00
 - [Shipping Policy](https://bflwear.com/policies/shipping-policy)
-  Updated: 2026-08-12T19:38:18+05:00
+  Updated: 2026-10-04T16:00:47+05:00
 - [Refund Policy](https://bflwear.com/policies/refund-policy)
-  Updated: 2026-09-19T11:54:31+05:00
+  Updated: 2026-10-04T15:59:11+05:00
 - [Terms of Service](https://bflwear.com/policies/terms-of-service)
-  Updated: 2026-09-17T16:29:06+05:00
+  Updated: 2026-10-04T15:59:58+05:00
 - [Contact Information](https://bflwear.com/policies/contact-information)
-  Updated: 2026-08-12T19:40:55+05:00
+  Updated: 2026-10-04T16:01:17+05:00
 
 ##Social Media
 https://www.quora.com/profile/BFL-Wear
