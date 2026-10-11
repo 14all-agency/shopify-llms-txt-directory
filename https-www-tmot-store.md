@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-12-05T05:59:52Z
 - Contact Email: shoptmot@gmail.com
-- Updated At: 2026-10-03T00:00:48.283Z
+- Updated At: 2026-10-11T00:00:46.184Z
 
 # TMOT.store by AMERIMADE
 
@@ -23,7 +23,7 @@ Official website: https://www.tmot.store
 ## Products
 
 - [Take Mine's All-Hood Hoodie | TMOT.store](https://www.tmot.store/products/unisex-hoodie-1): Shop the Take Mine's All-Hood Hoodie from TMOT.store, featuring a bold QR-code design with multiple currently listed colors and unisex size options.
-  Updated: 2026-08-25T01:02:27Z
+  Updated: 2026-10-04T22:09:38Z
   Vendor: AMERIMADE
   Product Type: Hoodie
   Availability: Available
@@ -229,7 +229,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/unisex-heavy-blend-hoodie-sport-grey-front-677bad6319281.jpg?v=1787619720
     Price: $50.49 USD
 - [Take Mine's Classic Tee | AMERIMADE Streetwear Shirt](https://www.tmot.store/products/unisex-classic-tee): Shop the Take Mine's Classic Tee by AMERIMADE. Unisex streetwear shirt with bold brand identity, movement energy, and everyday casual style.
-  Updated: 2026-08-18T23:25:47Z
+  Updated: 2026-10-04T22:09:39Z
   Vendor: AMERIMADE
   Product Type: T- Shirt
   Availability: Available
@@ -435,21 +435,21 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/unisex-classic-tee-charcoal-back-67909d7b4360a.jpg?v=1764652969
     Price: $24.00 USD
 - [AMERIMADE Mens Trucker Hat | Streetwear Cap](https://www.tmot.store/products/make-being-a-man-great-again-trucker-hat): Shop the AMERIMADE mens trucker hat. Bold streetwear cap with statement brand energy, casual fit, and everyday Organic Hustle style.
-  Updated: 2026-08-25T01:02:08Z
+  Updated: 2026-10-04T22:09:39Z
   Vendor: AMERIMADE
   Product Type: Hats and sunglasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/foam-trucker-hat-red-one-size-right-front-6793687a70912.jpg?v=1781373508
   Price: $19.00 USD
 - [Take Mine's White Glossy Mug | AMERIMADE Coffee Mug](https://www.tmot.store/products/take-mines-white-glossy-mug): Shop the Take Mine's white glossy mug by AMERIMADE. Everyday coffee mug with bold brand energy, gift appeal, and TMOT movement identity.
-  Updated: 2026-08-25T00:52:46Z
+  Updated: 2026-10-04T22:09:39Z
   Vendor: AMERIMADE
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/white-glossy-mug-white-20-oz-handle-on-left-67a1a2dabba1d.jpg?v=1764653029
   Price: $11.50 USD
 - [AMERIMADE Mens Cuffed Beanie | Streetwear Winter Hat](https://www.tmot.store/products/make-being-a-man-great-again-cuffed-beanie): Shop the AMERIMADE mens cuffed beanie. Warm streetwear winter hat with bold brand identity, everyday comfort, and Organic Hustle styling.
-  Updated: 2026-08-25T00:53:02Z
+  Updated: 2026-10-04T22:09:39Z
   Vendor: AMERIMADE
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/cuffed-beanie-white-front-67a1aec012ee7.jpg?v=1781373558
     Price: $15.00 USD
 - [Take Mine's Premium Sweatshirt | AMERIMADE Apparel](https://www.tmot.store/products/take-mines-premium-sweatshirt): Shop the Take Mine's Premium Sweatshirt from AMERIMADE. Comfortable statement sweatshirt with bold movement energy, everyday style, and premium casual wear.
-  Updated: 2026-08-18T23:25:48Z
+  Updated: 2026-10-04T22:09:40Z
   Vendor: AMERIMADE
   Product Type: sweatshirts
   Availability: Available
@@ -533,28 +533,28 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/unisex-premium-sweatshirt-team-red-front-67a1b2eb53b1b.jpg?v=1764653079
     Price: $43.94 USD
 - [Free Noble Quran PDF | English Translation and Transliteration](https://www.tmot.store/products/free-noble-quran-pdf-with-tajweed-english-translation-and-transliteration): Download the Free Noble Quran PDF from AMERIMADE and tmot.store. English translation and transliteration digital resource available at no cost.
-  Updated: 2026-08-18T23:25:48Z
+  Updated: 2026-10-04T22:09:40Z
   Vendor: AMERIMADE
   Product Type: E-Books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Noble_Quran_Cover.jpg?v=1781373484
   Price: $0.00 USD
-- [Citrus Serenity Organic Body Oil | Organic Positivity](https://www.tmot.store/products/citrus-serenity-body-oil-2oz): Shop Citrus Serenity Organic Body Oil by Organic Positivity and AMERIMADE. 2 oz body oil for daily moisture, skin care, beard care, and self-care routines.
-  Updated: 2026-08-25T00:48:51Z
+- [Citrus Serenity Body Oil 2 oz](https://www.tmot.store/products/citrus-serenity-body-oil-2oz): Shop Citrus Serenity 2 oz body oil from Organic Positivity by AMERIMADE. Made with unrefined avocado oil and citrus ingredients for everyday body care.
+  Updated: 2026-10-10T16:46:18Z
   Vendor: AMERIMADE
   Product Type: Body Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_9742e5ee-6a95-473a-9acd-650700d9b6cb.jpg?v=1781373328
   Price: $19.99 USD
-- [Citrus Serenity Promo Body Oil | Organic Positivity](https://www.tmot.store/products/citrus-serenity-100-organic-body-oil-free-just-pay-shipping): Try Citrus Serenity Organic Body Oil in a promo size from Organic Positivity and AMERIMADE. Self-care body oil sample for daily moisture and gifting.
-  Updated: 2026-08-18T23:25:49Z
+- [Citrus Serenity Body Oil 5 mL Trial](https://www.tmot.store/products/citrus-serenity-100-organic-body-oil-free-just-pay-shipping): Try Citrus Serenity in a 5 mL trial bottle. Avocado oil and citrus ingredients from Organic Positivity by AMERIMADE. Trial size priced at $10.
+  Updated: 2026-10-10T16:46:11Z
   Vendor: AMERIMADE
   Product Type: Body Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_028c5a99-7abe-4c0d-9251-186444d592ee.jpg?v=1781373328
   Price: $10.00 USD
 - [Official AMERIMADE Team Tee | TMOT.store](https://www.tmot.store/products/unisex-classic-tee-1): Shop the Official AMERIMADE Team Tee, a structured unisex cotton shirt available in multiple colors and sizes through TMOT.store.
-  Updated: 2026-08-18T23:25:49Z
+  Updated: 2026-10-04T22:09:41Z
   Vendor: AMERIMADE
   Product Type: T-Shirt
   Availability: Available
@@ -760,7 +760,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/mg.png?v=1754183593
     Price: $26.50 USD
 - [Organic Hustle Classic T-Shirt | AMERIMADE Apparel](https://www.tmot.store/products/organic-hu-tle-t-shirt): Shop the Organic Hustle Classic T-Shirt by AMERIMADE. Bold motivational streetwear tee with signature Organic Hustle graphics and premium brand energy.
-  Updated: 2026-08-18T23:25:50Z
+  Updated: 2026-10-04T22:09:41Z
   Vendor: AMERIMADE
   Product Type: T Shirt
   Availability: Available
@@ -966,7 +966,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Hustle_Mockup.jpg?v=1781373537
     Price: $65.00 USD
 - [Built for the Grind T-Shirt | Organic Hustle](https://www.tmot.store/products/organic-hu-tle-built-for-the-grind-t-shirt-tmot-store): Shop the Organic Hustle Built for the Grind T-Shirt by AMERIMADE. Motivational graphic tee built for ambition, discipline, and self-made streetwear style.
-  Updated: 2026-08-18T23:25:50Z
+  Updated: 2026-10-04T22:09:42Z
   Vendor: AMERIMADE
   Product Type: T- Shirts
   Availability: Available
@@ -1172,7 +1172,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/T-Shirt_Mockup_6.jpg?v=1781373537
     Price: $30.00 USD
 - [Send and Print Custom Sublimation Shirts | AMERIMADE](https://www.tmot.store/products/send-print-custom-sublimations): Order custom sublimation shirts from AMERIMADE. Send your design, logo, photo, or vision and get custom printed apparel through tmot.store.
-  Updated: 2026-08-18T23:25:50Z
+  Updated: 2026-10-04T22:09:42Z
   Vendor: AMERIMADE
   Product Type: Customized T- Shirts
   Availability: Available
@@ -1202,7 +1202,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/custom-sublimations-graphic.png?v=1754186479
     Price: $25.00 USD
 - [Squad Up Heavyweight Black Graphic Tee | Organic Hustle](https://www.tmot.store/products/squad-up-tee): Shop the Squad Up Heavyweight Black Graphic Tee by Organic Hustle. Premium AMERIMADE streetwear tee with bold masked artwork and united crew energy.
-  Updated: 2026-08-18T23:25:50Z
+  Updated: 2026-10-04T22:09:42Z
   Vendor: AMERIMADE
   Product Type: T-Shirt
   Availability: Available
@@ -1244,7 +1244,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Artboard1Mockupcopy_1a92599b-40b8-4f27-a66f-6d483967de49.jpg?v=1754186489
     Price: $35.00 USD
 - [Revenge T-Shirt | Organic Hustle Graphic Tee](https://www.tmot.store/products/revenge-t-shirt): Shop the Revenge T-Shirt by Organic Hustle. Bold AMERIMADE graphic tee with fire, purpose, resilience, and statement streetwear energy.
-  Updated: 2026-08-18T23:25:50Z
+  Updated: 2026-10-04T22:09:43Z
   Vendor: AMERIMADE
   Product Type: T-Shirt
   Availability: Available
@@ -1286,7 +1286,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Artboard1Mockup.jpg?v=1754186500
     Price: $35.00 USD
 - [Elevate Your Hustle T-Shirt | Organic Hustle Tee](https://www.tmot.store/products/elevate-your-hu-tle-t-shirt): Shop the Elevate Your Hustle T-Shirt by Organic Hustle. Motivational AMERIMADE streetwear tee for entrepreneurs, creators, and self-made builders.
-  Updated: 2026-08-18T23:25:51Z
+  Updated: 2026-10-04T22:09:43Z
   Vendor: AMERIMADE
   Product Type: T Shirt
   Availability: Available
@@ -1328,7 +1328,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Artboard2Mockup_1.jpg?v=1781373484
     Price: $35.00 USD
 - [Champion Angel Heavyweight Tee | Organic Hustle](https://www.tmot.store/products/champion-angel): Shop the Champion Angel Heavyweight Cotton Tee by Organic Hustle. Premium AMERIMADE graphic tee built around faith, struggle, rebirth, and streetwear style.
-  Updated: 2026-08-18T23:25:51Z
+  Updated: 2026-10-04T22:09:44Z
   Vendor: AMERIMADE
   Product Type: T Shirt
   Availability: Available
@@ -1370,7 +1370,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/CelestialMockup.jpg?v=1781373322
     Price: $35.00 USD
 - [Champion Vintage California T-Shirt | AMERIMADE Streetwear](https://www.tmot.store/products/es-champion-red-edition): Shop the Champion Vintage California Streetwear T-Shirt by AMERIMADE. Red graphic tee with West Coast energy, Watts inspiration, and classic streetwear style.
-  Updated: 2026-08-18T23:25:51Z
+  Updated: 2026-10-04T22:09:44Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1412,7 +1412,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChampionMockup_1.jpg?v=1781373322
     Price: $35.00 USD
 - [Gangsta American Streetwear T-Shirt | Organic Hustle](https://www.tmot.store/products/gangsta-american-organic-hustle-tee): Shop the Gangsta American Streetwear T-Shirt by Organic Hustle. Bold AMERIMADE graphic tee with streetwear energy, liberty-inspired design, and hustle culture.
-  Updated: 2026-08-18T23:25:51Z
+  Updated: 2026-10-04T22:09:45Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1454,7 +1454,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/GangstaAmericana_OH_Mockup.jpg?v=1781373484
     Price: $30.00 USD
 - [Gorilla Boss Style T-Shirt | Organic Hustle Tee](https://www.tmot.store/products/gorilla-boss-organic-hustle-tee): Shop the Gorilla Boss Style T-Shirt by Organic Hustle. Bold AMERIMADE graphic tee with boss energy, vintage style, and streetwear attitude.
-  Updated: 2026-08-18T23:25:52Z
+  Updated: 2026-10-04T22:09:45Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1496,7 +1496,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/GorillaBossStyleMockup.jpg?v=1781373484
     Price: $35.00 USD
 - [Martinis and Mischief T-Shirt | Organic Hustle Vintage Tee](https://www.tmot.store/products/martinis-mischief-organic-positivity-tee): Shop the Martinis and Mischief T-Shirt by Organic Hustle. Retro-inspired AMERIMADE graphic tee with vintage glamour artwork and playful streetwear style.
-  Updated: 2026-08-18T23:25:52Z
+  Updated: 2026-10-04T22:09:46Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1538,7 +1538,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Martinis_MischiefMockup.jpg?v=1781373503
     Price: $35.00 USD
 - [Rebel Angel T-Shirt | Organic Hustle Streetwear](https://www.tmot.store/products/rebel-angel-organic-hustle-tee): Shop the Rebel Angel T-Shirt by Organic Hustle. Bold AMERIMADE streetwear graphic tee with angel artwork, rebel energy, and premium statement style.
-  Updated: 2026-08-18T23:25:52Z
+  Updated: 2026-10-04T22:09:46Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1580,7 +1580,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/RebelAngelStreetwearMockup.jpg?v=1754186577
     Price: $35.00 USD
 - [Hustle Mentality T-Shirt | Organic Hustle Apparel](https://www.tmot.store/products/hustle-mentality-organic-apparel-tee): Shop the Hustle Mentality T-Shirt by Organic Hustle. Motivational AMERIMADE graphic tee made for creators, entrepreneurs, and self-made grinders.
-  Updated: 2026-08-18T23:25:52Z
+  Updated: 2026-10-04T22:09:47Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1622,7 +1622,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/StreetwearMenwithMaskMockup.jpg?v=1781373476
     Price: $35.00 USD
 - [Fair Exchange No Robbery T-Shirt | Organic Hustle](https://www.tmot.store/products/fair-exchange-no-robbery-organic-hustle-tee): Shop the Fair Exchange No Robbery T-Shirt by Organic Hustle. AMERIMADE graphic tee built around honest business, fair dealing, and self-made principles.
-  Updated: 2026-08-18T23:25:52Z
+  Updated: 2026-10-04T22:09:47Z
   Vendor: AMERIMADE
   Product Type: T-Shirts
   Availability: Available
@@ -1664,7 +1664,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/T-ShirtMockup_2.jpg?v=1781373484
     Price: $35.00 USD
 - [Organic Hustle Polo | Premium Business Casual Apparel](https://www.tmot.store/products/organic-hu-tle-polo-premium-business-casual): Shop the Organic Hustle Polo from AMERIMADE. Premium business casual polo for entrepreneurs, creators, and self-made professionals who move with purpose.
-  Updated: 2026-08-18T23:25:53Z
+  Updated: 2026-10-04T22:09:47Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
@@ -1706,14 +1706,14 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Polo.jpg?v=1781373503
     Price: $35.00 USD
 - [Ocho Steppah Sock Collection 3-Pack | Organic Hustle](https://www.tmot.store/products/the-ocho-steppah-sock-collection-3-pack): Shop the Ocho Steppah Sock Collection 3-Pack by Organic Hustle. Streetwear socks with AMERIMADE attitude, bold style, and everyday comfort.
-  Updated: 2026-08-18T23:25:53Z
+  Updated: 2026-10-04T22:09:48Z
   Vendor: AMERIMADE
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/The_Ocho_Steppah_Collection_3-Pack.heic?v=1754163566
   Price: $20.00 USD
 - [Thievery Is Tariff Free T-Shirt | Organic Hustle](https://www.tmot.store/products/thievery-is-tariff-free-t-shirt-by-organic-hu-tle): Shop the Thievery Is Tariff Free T-Shirt by Organic Hustle. Bold AMERIMADE statement tee built around fair trade, economic freedom, and streetwear attitude.
-  Updated: 2026-08-18T23:25:53Z
+  Updated: 2026-10-04T22:09:49Z
   Vendor: AMERIMADE
   Product Type: Customized T- Shirts
   Availability: Available
@@ -1755,7 +1755,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Thievery_IS_tariff_free.heic?v=1755317014
     Price: $35.00 USD
 - [DOPE SOAP In The Zone Bar | Organic Positivity](https://www.tmot.store/products/dope-soap-bar-in-the-zone): Shop DOPE SOAP In The Zone by Organic Positivity and AMERIMADE. Premium body soap bar for daily self-care, clean skin, gifting, and wellness routines.
-  Updated: 2026-08-18T23:25:53Z
+  Updated: 2026-10-04T22:09:49Z
   Vendor: AMERIMADE
   Product Type: Organic Soap
   Availability: Available
@@ -1777,7 +1777,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/Copilot_20250819_135540.png?v=1781373480
     Price: $100.00 USD
 - [Puff Paint Logo Streetwear Tee | AMERIMADE](https://www.tmot.store/products/puff-paint-logo-streetwear-tee): Shop the Puff Paint Logo Streetwear Tee from AMERIMADE. Premium graphic tee with Organic Hustle styling, bold logo detail, and urban streetwear appeal.
-  Updated: 2026-08-18T23:25:53Z
+  Updated: 2026-10-04T22:09:50Z
   Vendor: AMERIMADE
   Product Type: T-Shirt
   Availability: Available
@@ -1819,21 +1819,21 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/background-editor_output_3631124a-6891-4028-84e1-47414acbf8a0.png?v=1756851033
     Price: $35.00 USD
 - [African American Heritage Keepsake Bag | AMERIMADE](https://www.tmot.store/products/african-american--bags): Shop the African American heritage keepsake bag from AMERIMADE. Cultural accessory for personal items, meaningful gifting, heritage style, and daily carry.
-  Updated: 2026-08-18T23:25:54Z
+  Updated: 2026-10-04T22:09:51Z
   Vendor: AMERIMADE
   Product Type:  Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/African-American_Medicine_Bag.heic?v=1757206066
   Price: $24.99 USD
 - [Las Vegas Fan Apparel Bundle | 24 Piece  and Youth Lot](https://www.tmot.store/products/raiders-fan-ultimate-bundle-24-piece-collection--youth-gear): Shop a 24 piece Las Vegas fan apparel bundle with  and youth gear. Local-style sports apparel lot available through tmot.store while supplies last.
-  Updated: 2026-08-18T23:25:54Z
+  Updated: 2026-10-04T22:09:51Z
   Vendor: AMERIMADE
   Product Type: Sports Merchandise Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/20250911_191336.heic?v=1757643721
   Price: $119.99 USD
 - [Organic Positivity Soap Gift Sets | Goat Milk Soap Bundles](https://www.tmot.store/products/handmade-goat-milk-soap-gift-sets-organic-positivity-holiday-collections-spa-samplers-luxury-bundles): Shop Organic Positivity soap gift sets by AMERIMADE. Handcrafted goat milk soap bundles, spa samplers, luxury self-care gifts, and premium body care sets.
-  Updated: 2026-08-18T23:25:54Z
+  Updated: 2026-10-04T22:09:51Z
   Vendor: AMERIMADE
   Product Type: Organic Soap
   Availability: Available
@@ -1859,7 +1859,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/20250920_010121_14c44124-8eea-4683-9416-a2fce27ad569.jpg?v=1781373487
     Price: $65.95 USD
 - [Organic Positivity Goat Milk Soap | AMERIMADE Body Care](https://www.tmot.store/products/handcrafted-goat-milk-soaps-by-organic-positivity): Shop Organic Positivity goat milk soap by AMERIMADE. Handcrafted soap bars made for daily self-care, creamy lather, clean skin, and natural body care.
-  Updated: 2026-08-25T00:49:26Z
+  Updated: 2026-10-04T22:09:52Z
   Vendor: AMERIMADE
   Product Type: Organic Soap
   Availability: Available
@@ -1885,14 +1885,14 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/20250920_014529.jpg?v=1781373486
     Price: $7.95 USD
 - [AMERIMADE G1 Custom Members Jacket | Organic Hustle](https://www.tmot.store/products/amerimade-g1-edition-custom-members-jacket): Shop the AMERIMADE G1 Edition Custom Members Jacket. One-of-one Organic Hustle outerwear with premium custom details, statement style, and limited-drop energy.
-  Updated: 2026-08-25T00:48:34Z
+  Updated: 2026-10-04T22:09:52Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/81dfbb28-d87e-4bd7-a8bd-56796c1ef901.png?v=1781373322
   Price: $163.00 USD
 - [Fake Smile Hoodie | Organic Hustle Streetwear](https://www.tmot.store/products/fake-smile-hoodie-organic-hu-tle-1): Shop the Fake Smile Hoodie by Organic Hustle. Premium AMERIMADE streetwear with bold front and back graphics, heavyweight comfort, and authentic hustle energy.
-  Updated: 2026-08-18T23:25:55Z
+  Updated: 2026-10-04T22:09:53Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
@@ -1919,7 +1919,7 @@ Official website: https://www.tmot.store
     Availability: Available
     Price: $75.00 USD
 - [Jack of All Trades Hoodie | Organic Hustle](https://www.tmot.store/products/the-jack-of-all-trades-hoodie-organic-hu-tle): Shop the Jack of All Trades Hoodie by Organic Hustle and AMERIMADE. Premium streetwear hoodie built around hustle, strategy, risk, and reward.
-  Updated: 2026-08-18T23:25:55Z
+  Updated: 2026-10-04T22:09:54Z
   Vendor: AMERIMADE
   Product Type: 
   Availability: Available
@@ -1953,7 +1953,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/flat-lay-front.png?v=1766487887
     Price: $75.00 USD
 - [First Generation Organic Hustle Polo | AMERIMADE](https://www.tmot.store/products/first-generation™-organic-hu-tle-polo-shirt): Shop the First Generation Organic Hustle Polo by AMERIMADE. Premium business-casual streetwear built for entrepreneurs, creators, and self-made leaders.
-  Updated: 2026-08-18T23:25:56Z
+  Updated: 2026-10-04T22:09:54Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
@@ -1980,7 +1980,7 @@ Official website: https://www.tmot.store
     Availability: Available
     Price: $45.00 USD
 - [Black History IS History Awareness Tee | AMERIMADE](https://www.tmot.store/products/black-history-is-history-awareness-tee): Shop the Black History IS History Awareness Tee by AMERIMADE. Cultural graphic tee celebrating heritage, history, pride, and statement streetwear.
-  Updated: 2026-08-18T23:25:56Z
+  Updated: 2026-10-04T22:09:55Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
@@ -2070,7 +2070,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_9603d7ad-cf18-4908-bd7d-cf291e07ae03.png?v=1781373350
     Price: $45.00 USD
 - [AMERIMADE Rebellion Collection | Black History Mugs](https://www.tmot.store/products/the-amerimade-rebellion-collection): Shop the AMERIMADE Rebellion Collection. Limited commemorative mug series featuring cultural history, legacy, resistance, statement art, and collectible design.
-  Updated: 2026-08-18T23:25:56Z
+  Updated: 2026-10-04T22:09:55Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
@@ -2092,7 +2092,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_3ed264b4-d75c-4a01-8fb0-acbc2be247d2.png?v=1771062330
     Price: $60.00 USD
 - [BLACK IS HISTORY Coffee Mug Collection | AMERIMADE](https://www.tmot.store/products/black-is-history™-coffee-mug-collection-limited-edition): Shop the BLACK IS HISTORY Coffee Mug Collection by AMERIMADE. Limited cultural mug collection celebrating Black history, legacy, heritage, and statement art.
-  Updated: 2026-08-18T23:25:56Z
+  Updated: 2026-10-04T22:09:55Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
@@ -2114,14 +2114,14 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_f0b5aa88-df13-4cac-9af8-0db921aa4da2.png?v=1781373323
     Price: $60.00 USD
 - [Ultimate Self-Care Bundle | Organic Positivity](https://www.tmot.store/products/the-ultimate-self-care-bundle-3x-citrus-serenity-oils-3x-dope-soap-bars-free-smartwatch): Shop the Organic Positivity Ultimate Self-Care Bundle by AMERIMADE. Body oils, soaps, and premium self-care essentials for daily wellness and gifting.
-  Updated: 2026-08-18T23:25:56Z
+  Updated: 2026-10-04T22:09:55Z
   Vendor: AMERIMADE
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChatGPT_Image_Jan_20_2026_02_26_47_PM.png?v=1768968290
   Price: $49.00 USD
 - [Organic Breaker Windbreaker | Organic Hustle Outerwear](https://www.tmot.store/products/the-organic-breaker-windbreaker): Shop the Organic Breaker Windbreaker by AMERIMADE. Lightweight streetwear outerwear with bold Organic graphics, first-generation energy, and everyday utility.
-  Updated: 2026-08-25T00:49:12Z
+  Updated: 2026-10-04T22:09:56Z
   Vendor: AMERIMADE
   Product Type: Outerwear
   Availability: Available
@@ -2143,83 +2143,83 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChatGPT_Image_Jan_19_2026_03_14_25_AM.png?v=1769119148
     Price: $48.00 USD
 - [BENTE DAYS Black History Duo | Tee and Mug Bundle](https://www.tmot.store/products/bente-days™-20-black-history-duo-tee-mug): Shop the BENTE DAYS Black History Duo by AMERIMADE. Cultural tee and mug bundle celebrating heritage, resilience, statement style, and Black history energy.
-  Updated: 2026-08-18T23:25:57Z
+  Updated: 2026-10-04T22:09:56Z
   Vendor: AMERIMADE
   Product Type: Apparel and accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/bante-days-combo-ad-with-store-url.png?v=1781373322
   Price: $20.00 USD
 - [Organic Patchwork Streetwear Jeans | AMERIMADE Denim](https://www.tmot.store/products/organic-hu-tle-patchwork-jeans-custom-amerimade-streetwear-denim-men-s-34x34): Shop Organic Patchwork Streetwear Jeans by AMERIMADE. Custom denim, patchwork details, urban fashion, one-of-a-kind style, and Organic Hustle energy.
-  Updated: 2026-08-25T00:50:08Z
+  Updated: 2026-10-04T22:09:57Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_3f081eb9-8f95-410d-a674-0cd98d6c2081.png?v=1781373504
   Price: $72.00 USD
 - [Think Outside The Box Streetwear Set | AMERIMADE](https://www.tmot.store/products/think-outside-the-box-streetwear-set-graphic-sweatshirt-organic-patchwork-jeans): Shop the Think Outside The Box Streetwear Set by AMERIMADE. Graphic sweatshirt and custom patchwork jeans built for bold urban fashion and limited drops.
-  Updated: 2026-08-25T00:49:43Z
+  Updated: 2026-10-04T22:09:57Z
   Vendor: AMERIMADE
   Product Type: Apparel
   Availability: Available
   Price: $81.00 USD
 - [Las Vegas Shopify Consultation & Action Plan — $99](https://www.tmot.store/products/shopify-store-consultation-setup): Get a professional Shopify review, consultation, and prioritized 30–90 day action plan for your Las Vegas small business. Implementation quoted separately.
-  Updated: 2026-08-18T23:25:58Z
+  Updated: 2026-10-04T22:09:58Z
   Vendor: AMERIMADE
   Product Type: Business Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/image_680cc333-75df-4018-a06a-73400cbc0d53.png?v=1776852621
   Price: $99.00 USD
 - [From Crimes to Corporations Free PDF | AMERIMADE](https://www.tmot.store/products/digital-product): Download From Crimes to Corporations: The Red-Brick Road by AMERIMADE. Free entrepreneur PDF for building a brand, side hustle, and business foundation.
-  Updated: 2026-08-18T23:25:58Z
+  Updated: 2026-10-04T22:09:58Z
   Vendor: AMERIMADE
   Product Type: E-Books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/FromCrimestoCorrporationsTheRed-BrickRoad.png?v=1781373485
   Price: $0.00 USD
 - [AMERIMADE Legacy Blanket | Personalized Photo Gift](https://www.tmot.store/products/amerimade-legacy-blanket-custom-9-photo): Shop the AMERIMADE Legacy Blanket. Personalized photo blanket gift for dads, family keepsakes, memorial moments, and custom made-to-order comfort.
-  Updated: 2026-08-18T23:25:58Z
+  Updated: 2026-10-04T22:09:58Z
   Vendor: AMERIMADE
   Product Type: throw blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChatGPTImageMay4_2026_04_35_53PM.png?v=1781373323
   Price: $69.00 USD
 - [Renaissance King Mug | AMERIMADE Motivational Mug](https://www.tmot.store/products/the-renaissance-king-mug™): Shop the Renaissance King Mug by AMERIMADE. Royal-inspired motivational coffee mug for entrepreneurs, leaders, creators, and self-made thinkers.
-  Updated: 2026-08-25T00:52:43Z
+  Updated: 2026-10-04T22:09:58Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/The_King_s_Mug.png?v=1778025013
   Price: $18.99 USD
 - [Watts Tower Mug | AMERIMADE Los Angeles Art Mug](https://www.tmot.store/products/the-watts-tower-mug-™️): Shop the Watts Tower Mug by AMERIMADE. Artistic coffee mug inspired by Los Angeles, Watts culture, architecture, urban heritage, and collector-style decor.
-  Updated: 2026-08-25T00:52:36Z
+  Updated: 2026-10-04T22:09:59Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_bfad1c94-e911-4e4e-ac4d-f16944bb2237.png?v=1778027403
   Price: $18.99 USD
 - [Rubik Beauty Mug | AMERIMADE Artistic Coffee Mug](https://www.tmot.store/products/the-rubik-beauty-mug): Shop the Rubik Beauty Mug by AMERIMADE. Artistic coffee mug with fashion-inspired visuals, modern design, collector appeal, and premium gift style.
-  Updated: 2026-08-25T00:52:39Z
+  Updated: 2026-10-04T22:09:59Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_ade4fcfa-0422-47ba-89be-07a7278fc327.png?v=1778030443
   Price: $18.99 USD
 - [Oh Yeah Mug | AMERIMADE Novelty Coffee Mug](https://www.tmot.store/products/oh-yeah-mug™): Shop the Oh Yeah Mug from AMERIMADE. Bold novelty coffee mug with comic-inspired artwork, collector style, and custom gift appeal from tmot.store.
-  Updated: 2026-08-25T00:52:50Z
+  Updated: 2026-10-04T22:09:59Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_585d56df-e2e2-41ba-81c9-87dd6e8cdaa2.png?v=1781373504
   Price: $18.99 USD
 - [Custom Father's Day Photo Mug | Personalized Coffee Mug](https://www.tmot.store/products/custom-fathers-day-photo-mug): Shop custom Father's Day photo mugs by AMERIMADE. Personalized coffee mug gifts for dads, families, keepsakes, and made-to-order custom memories.
-  Updated: 2026-08-25T00:48:57Z
+  Updated: 2026-10-04T22:10:00Z
   Vendor: AMERIMADE
   Product Type: Customized Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/best-dad-ever-lil-sam-baby-sam.png?v=1781373322
   Price: $19.99 USD
 - [Custom Photo Glass Picture Frame | AMERIMADE Keepsake Gift](https://www.tmot.store/products/premium-sublimation-glass-picture-frame-custom-photo-keepsake-decor): Shop custom sublimation glass picture frames by AMERIMADE. Personalized photo keepsake gifts, memorial displays, family decor, and premium tabletop frames.
-  Updated: 2026-08-18T23:25:59Z
+  Updated: 2026-10-04T22:10:00Z
   Vendor: AMERIMADE
   Product Type: Home Décor
   Availability: Available
@@ -2233,28 +2233,28 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChatGPTImageMay10_2026_11_49_40AM.png?v=1778439201
     Price: $39.99 USD
 - [Organic Hustle Sky Bloom Tee | AMERIMADE Tie-Dye Shirt](https://www.tmot.store/products/organic-hu-tle-sky-bloom-tee-premium-tie-dye-streetwear-shirt): Shop the Organic Hustle Sky Bloom Tee by AMERIMADE. Premium tie-dye streetwear shirt with bold graphic design, self-made energy, and limited-edition style.
-  Updated: 2026-08-25T00:49:20Z
+  Updated: 2026-10-04T22:10:01Z
   Vendor: AMERIMADE
   Product Type: T- Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_e453baa5-ff7d-4c98-a4ab-701df1b79e8c.png?v=1781514076
   Price: $34.99 USD
 - [Organic Hustle Shine and Fly Long Sleeve Shirt](https://www.tmot.store/products/organic-hu-tle-shine-fly-mr-take-mines-long-sleeve-shirt): Shop the Organic Hustle Shine and Fly Mr. Take Mine's Long Sleeve Shirt by AMERIMADE. Limited streetwear drop with bold custom style and premium appeal.
-  Updated: 2026-08-25T00:50:12Z
+  Updated: 2026-10-04T22:10:01Z
   Vendor: AMERIMADE
   Product Type: Customized T- Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_232591a6-44df-4174-8916-11821a3cdaa6.png?v=1781921835
   Price: $24.95 USD
 - [Free Citrus Serenity and DOPE SOAP Sample Bundle](https://www.tmot.store/products/free-citrus-serenity-body-oil-dope-soap-sample-bundle): Claim the free Organic Positivity sample bundle from AMERIMADE. Try Citrus Serenity body oil and DOPE SOAP; the sample is free, just cover shipping.
-  Updated: 2026-08-18T23:26:00Z
+  Updated: 2026-10-04T22:10:01Z
   Vendor: AMERIMADE
   Product Type: Sample Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/ChatGPTImageJun26_2026_09_12_09PM.png?v=1782534253
   Price: $0.00 USD
 - [Hunters Only Stone Washed Tee | Organic Hu$tle](https://www.tmot.store/products/hunters-only-stone-washed-tee): Shop the Hunters Only Stone Washed Tee from Organic Hu$tle by AMERIMADE, featuring a vintage washed finish, bold outdoor graphic, and relaxed streetwear fit.
-  Updated: 2026-08-18T23:26:01Z
+  Updated: 2026-10-04T22:10:02Z
   Vendor: AMERIMADE
   Product Type: T Shirt
   Availability: Available
@@ -2324,7 +2324,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/e80373e63e064d668a808b9207981fe4.png?v=1782839378
     Price: $44.50 USD
 - [1907 Watts Edition Hoodie | AMERIMADE](https://www.tmot.store/products/the-1907-watts-hoodie): The 1907 Watts Edition Hoodie by AMERIMADE. Heavyweight 300 g/m² cotton, relaxed unisex fit, drop-shoulder silhouette. Watts identity. Free shipping.
-  Updated: 2026-08-18T23:26:01Z
+  Updated: 2026-10-04T22:10:02Z
   Vendor: AMERIMADE
   Product Type: Hoodies
   Availability: Available
@@ -2414,7 +2414,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/52606d4370de490aaf3f04f8cce42c0a.png?v=1782846498
     Price: $48.74 USD
 - [Organic Soulja Cargo Shorts | Organic Hu$tle](https://www.tmot.store/products/organic-angels-cargo-shorts): Shop Organic Soulja Cargo Shorts from Organic Hu$tle by AMERIMADE—white and tan streetwear shorts designed for practical comfort and self-made style.
-  Updated: 2026-08-18T23:26:01Z
+  Updated: 2026-10-04T22:10:02Z
   Vendor: AMERIMADE
   Product Type: cargo shorts
   Availability: Available
@@ -2459,8 +2459,8 @@ Official website: https://www.tmot.store
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/3a3ce9a6e4584949aa206dc16391bf98.png?v=1782875149
     Price: $47.99 USD
-- [Self-Made Standard Heavyweight Graphic Tee](https://www.tmot.store/products/self-made-standard-heavyweight-graphic-tee): Self-Made Standard Heavyweight Graphic Tee Success isn’t inherited—it’s earned. The Self-Made Standard Heavyweight Graphic Tee represents discipline, resilience, and the commitment to building your future through consistent effort. Featuring our signature crest with a raised fist gripping a key, this design symbolizes unlocking opportunity through hard work—not shortcuts. Made from 100% premium cotton, this tee delivers breathable comfort, a clean regular fit, and an everyday feel that works whether you’re building your business, training, or making moves. The bold front graphic and minimalist AMERIMADE back logo create a timeless streetwear look that stands out without saying a word. This isn’t just another graphic tee—it’s a reminder of the standard you hold yourself to. Features Premium 100% cotton construction Comfortable regular unisex fit Soft, breathable 5.3 oz (180 g/m²) fabric High-quality front crest graphic Signature AMERIMADE back logo Durable print designed for everyday wear Perfect for all seasons Built For Entrepreneurs Creators Hustlers Leaders Anyone committed to earning their success Wear the standard. Live the standard. Become the standard. AMERIMADEOrganic Hu$tlePure Grind. Pure Glory. M L XL 2XL 3XL inch cm inch cm inch cm inch cm inch cm Length 25.98 66 26.77 68 27.56 70 28.35 72 29.13 74 Shoulder 18.50 47 19.29 49 20.08 51 20.87 53 21.65 55 Chest 19.69 50 20.67 52.5 21.46 54.5 22.44 57 23.23 59 Sleeve length 7.09 18 7.48 19 7.48 19 7.87 20 8.27 21
-  Updated: 2026-08-18T23:26:01Z
+- [Self-Made Standard Heavyweight Graphic Tee](https://www.tmot.store/products/self-made-standard-heavyweight-graphic-tee): Wear the Self-Made Standard graphic tee by AMERIMADE. Premium cotton, a signature crest and a regular unisex fit for everyday Organic Hu$tle streetwear.
+  Updated: 2026-10-10T15:24:19Z
   Vendor: AMERIMADE
   Product Type: T Shirt
   Availability: Available
@@ -2586,21 +2586,21 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/d263882608314914b9ee4d392cc4a1df.png?v=1783021849
     Price: $34.99 USD
 - [The Halal Standard T-Shirt | Organic Hu$tle](https://www.tmot.store/products/the-halal-standard-premium-islamic-streetwear-t-shirt-by-organic-hu-tle): Shop The Halal Standard T-Shirt by Organic Hu$tle, featuring faith-inspired chest artwork, Arabic calligraphy and AMERIMADE streetwear design.
-  Updated: 2026-08-25T00:49:53Z
+  Updated: 2026-10-04T22:10:03Z
   Vendor: AMERIMADE
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/rn-image_picker_lib_temp_c0f9f026-a16d-4544-b02e-5cd601b76b08.png?v=1783049928
   Price: $35.99 USD
 - [The AMERIMADE AI Manual | AI Prompt Guide for Entrepreneurs](https://www.tmot.store/products/amerimade-ai-manual-part-1): Learn 11 powerful AI commands and 25 prompting concepts with The AMERIMADE AI Manual. A practical PDF guide for entrepreneurs, creators, and business owners.
-  Updated: 2026-08-18T23:26:02Z
+  Updated: 2026-10-04T22:10:03Z
   Vendor: AMERIMADE
   Product Type: Digital Download / PDF Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/amerimade-ai-manual-dazzle-edition.png?v=1783128345
   Price: $7.99 USD
 - [Organic Breadwinner Graphic Tee | Organic Hu$tle](https://www.tmot.store/products/organic-breadwinner-graphic-tee-premium-streetwear-t-shirt): Shop the Organic Breadwinner Graphic Tee from Organic Hu$tle. Premium unisex streetwear for entrepreneurs, builders, and self-made ambition.
-  Updated: 2026-08-18T23:26:02Z
+  Updated: 2026-10-04T22:10:04Z
   Vendor: ODMPOD
   Product Type: T-Shirt
   Availability: Available
@@ -2746,7 +2746,7 @@ Official website: https://www.tmot.store
     Image: https://cdn.shopify.com/s/files/1/0906/4415/2599/files/041986724ce846d7bdb42bc15a5334ab.png?v=1785786957
     Price: $24.99 USD
 - [AI Prompt Manual for Beginners | AMERIMADE](https://www.tmot.store/products/amerimade-ai-prompt-manual): Learn the ROCKS Prompt Method and get 30 featured + 100 bonus AI prompts. A beginner-friendly digital guide for entrepreneurs, creators & professionals.
-  Updated: 2026-08-18T23:26:02Z
+  Updated: 2026-10-04T22:10:04Z
   Vendor: AMERIMADE
   Product Type: Digital Manual
   Availability: Available
@@ -2760,17 +2760,17 @@ Official website: https://www.tmot.store
   Updated: 2026-08-25T00:53:03Z
   Total Products: 7
 - [Organic Positivity](https://www.tmot.store/collections/organic-positivity-1): Shop Organic Positivity body care from AMERIMADE, including Citrus Serenity body oil, DOPE SOAP, goat-milk soap varieties and selected self-care gift sets.
-  Updated: 2026-08-25T00:49:27Z
+  Updated: 2026-10-10T04:46:06Z
   Total Products: 8
 - [AMERIMADE Business Services](https://www.tmot.store/collections/business-development-services): Explore AMERIMADE Shopify consultations and business growth audits for entrepreneurs and small businesses seeking a focused, prioritized action plan.
   Updated: 2026-08-18T23:25:47Z
   Total Products: 2
 - [Organic Hu$tle](https://www.tmot.store/collections/organic-hu-tle): Shop Organic Hu$tle streetwear from AMERIMADE, including graphic T-shirts, hoodies, polos, jackets, sets and limited apparel releases at TMOT.store.
-  Updated: 2026-08-25T00:50:09Z
-  Total Products: 35
+  Updated: 2026-10-04T01:59:10Z
+  Total Products: 39
 - [AMERIMADE Kustomz](https://www.tmot.store/collections/amerimade-kustomz): Shop AMERIMADE Kustomz personalized gifts, mugs, keepsakes, blankets, shirts, hoodies and selected custom-product releases through TMOT.store.
-  Updated: 2026-08-25T00:52:51Z
-  Total Products: 18
+  Updated: 2026-10-04T01:59:10Z
+  Total Products: 21
 - [Custom Gifts](https://www.tmot.store/collections/custom-gifts): Shop custom gifts from AMERIMADE: personalized mugs, photo frames, keepsakes, sublimation gifts, and made-to-order products for family, business, and special occasions.
   Updated: 2026-08-25T00:48:59Z
   Total Products: 3
@@ -2778,10 +2778,13 @@ Official website: https://www.tmot.store
   Updated: 2026-08-18T23:25:47Z
   Total Products: 1
 - [AMERIMADE Featured Drops](https://www.tmot.store/collections/amerimade-featured-drops): Explore featured Organic Hu$tle apparel, Organic Positivity body care, AMERIMADE Kustomz products, digital tools and selected TMOT.store releases.
-  Updated: 2026-08-25T00:49:55Z
-  Total Products: 19
+  Updated: 2026-10-04T01:59:10Z
+  Total Products: 22
 - [AMERIMADE Business Resources](https://www.tmot.store/collections/business-resources): Shop AMERIMADE business resources, including AI prompt manuals, practical guides, and digital tools for entrepreneurs and small-business owners.
   Updated: 2026-08-18T23:25:47Z
+  Total Products: 4
+- [Organic Hu$tle Halloween Collection](https://www.tmot.store/collections/organic-hu-tle-halloween-collection): Shop Organic Hu$tle Halloween tumblers and seasonal designs from AMERIMADE. Discover limited-edition drinkware and gifts at TMOT.store.
+  Updated: 2026-10-10T05:32:08Z
   Total Products: 4
 
 ## Blogs
@@ -3079,6 +3082,22 @@ Official website: https://www.tmot.store
     Updated: 2026-10-02T08:08:22Z
     Author: AMERIMADE
     Tags: culture, entrepreneur lifestyle, fashion statement, graphic tee, heavyweight hoodie., heavyweight hoodies, hoodies in streetwear, hu$tle culture, independent streetwear brand, premium street wear., self-made, self-made mindset., self-made revolution, street culture., streetwear, streetwear essentials., urban apparel., urban lifestyle, urban style
+  - [Inside the Self-made Mindset: Independent Brand Authenticity Explained](https://www.tmot.store/blogs/amerimade-journal/inside-the-self-made-mindset-independent-brand-authenticity-explained): Inside the Self-made Mindset: Independent Brand Authenticity Explained
+    Updated: 2026-10-05T08:09:09Z
+    Author: AMERIMADE
+    Tags: authenticity, brand identity, building an authentic brand, entrepreneur lifestyle, entrepreneurship, graphic tee, heavyweight hoodie., hu$tle culture, independent creators, independent streetwear brand, mindset shift, premium street wear., self-made, self-made culture insights, self-made mindset., street culture., streetwear essentials., urban apparel., urban lifestyle
+  - [Fresh from Organic Hu$tle: Guardian Angel Zip-Up + Limited Halloween Tumblers](https://www.tmot.store/blogs/amerimade-journal/organic-hustle-guardian-angel-halloween-tumblers-recent-drop): <p>See the latest Organic Hu$tle releases at TMOT.store: the Guardian Angel red graphic zip-up hoodie and four limited handmade Halloween frosted glass tumblers.</p>
+    Updated: 2026-10-05T08:26:40Z
+    Author: AMERIMADE
+    Tags: AMERIMADE, Guardian Angel, Halloween, Halloween Tumblers, New Arrivals, Organic Hu$tle, Streetwear, TMOT
+  - [Premium Streetwear: The Pillar of Entrepreneurial Urban Fashion](https://www.tmot.store/blogs/amerimade-journal/premium-streetwear-the-pillar-of-entrepreneurial-urban-fashion): Premium Streetwear: The Pillar of Entrepreneurial Urban Fashion
+    Updated: 2026-10-07T08:07:18Z
+    Author: AMERIMADE
+    Tags: creative expression, culture, entrepreneur lifestyle, entrepreneurial mindset, fashion, graphic tee, heavyweight hoodie., hu$tle culture, independent streetwear brand, premium street wear., premium streetwear brands, self-made, self-made entrepreneurs, self-made mindset., street culture., streetwear, streetwear essentials., urban apparel., urban lifestyle, urban style
+  - [Self-made and Stylish: Defining Tomorrow's Urban Essentials Today](https://www.tmot.store/blogs/amerimade-journal/self-made-and-stylish-defining-tomorrows-urban-essentials-today): Self-made and Stylish: Defining Tomorrow's Urban Essentials Today
+    Updated: 2026-10-09T08:06:58Z
+    Author: AMERIMADE
+    Tags: chic fashion, diy culture, entrepreneur lifestyle, essentials, graphic tee, heavyweight hoodie., hu$tle culture, independent streetwear brand, innovative streetwear brands, modern self-expression trends, premium street wear., self-made, self-made mindset., street culture., streetwear essentials., style guide, urban, urban apparel., urban lifestyle
 
 ## Store Pages
 
@@ -3106,14 +3125,14 @@ Official website: https://www.tmot.store
   Updated: 2026-08-05T03:04:22Z
 - [About TMOT.store & AMERIMADE | Our Brands](https://www.tmot.store/pages/about-us): TMOT.store is the commerce hub for the AMERIMADE brand ecosystem. It brings together original apparel, body-care products, custom merchandise and b...
   Updated: 2026-09-09T18:22:09Z
-- [Shipping Policy — tmot.store](https://www.tmot.store/pages/shipping-policy): Last updated: March 22, 2026 We ship with tracking and keep it transparent. The product page and checkout show what applies to your order. Processi...
-  Updated: 2026-06-10T00:58:11Z
-- [Return Policy — tmot.store](https://www.tmot.store/pages/return-policy): Last updated: March 22, 2026 We run a clear policy. Read this before ordering so you know exactly what to expect. Fix-It Promise (Wrong Item / Dama...
-  Updated: 2026-06-10T00:58:16Z
-- [Privacy Policy — tmot.store](https://www.tmot.store/pages/privacy-policy): Last updated: March 22, 2026 This Privacy Policy explains how tmot.store collects, uses, and shares information when you visit, browse, or purchase...
-  Updated: 2026-06-10T00:58:20Z
-- [Terms of Service — tmot.store](https://www.tmot.store/pages/terms-of-service): Last updated: March 22, 2026 These Terms of Service (“Terms”) govern your use of tmot.store (the “Site”) and any purchase you make through the Site...
-  Updated: 2026-06-10T00:58:25Z
+- [Shipping Policy — tmot.store](https://www.tmot.store/pages/shipping-policy): Thank you for shopping at tmot.store! We aim to provide you with reliable and efficient delivery for all your purchases. Please review our shipping...
+  Updated: 2026-10-10T06:43:10Z
+- [Return Policy — tmot.store](https://www.tmot.store/pages/return-policy): We run a clear policy. Read this before ordering so you know exactly what to expect. Fix-It Promise (Wrong Item / Damaged / Defective on Arrival) I...
+  Updated: 2026-10-10T06:43:10Z
+- [Privacy Policy — tmot.store](https://www.tmot.store/pages/privacy-policy): Last updated: July 10, 2026 tmot.store operates this store and website, including all related information, content, features, tools, products and s...
+  Updated: 2026-10-10T06:43:11Z
+- [Terms of Service — tmot.store](https://www.tmot.store/pages/terms-of-service): OVERVIEW Welcome to tmot.store! The terms “we”, “us” and “our” refer to tmot.store. tmot.store operates this store and website, including all relat...
+  Updated: 2026-10-10T16:10:01Z
 - [AMERIMADE League of Champions | Entrepreneurship, Ownership & Legacy](https://www.tmot.store/pages/amerimade-league-of-champions): .alc-wrap { background: #2C2C2A; color: #F1EFE8; font-family: 'Barlow', sans-serif; max-width: 100%; margin: 0; padding: 0; } .alc-hero { backgroun...
   Updated: 2026-06-10T02:47:02Z
 - [alc-manifesto](https://www.tmot.store/pages/alc-manifesto): /* ── ALC Manifesto: Scoped Styles ── */ /* All classes prefixed with .alc- to avoid Shopify theme conflicts */ .alc-wrap { background: #2C2C2A; co...
@@ -3128,8 +3147,8 @@ Official website: https://www.tmot.store
   Updated: 2026-06-14T17:47:43Z
 - [AMERIMADE VIP Hu$tler Circle | Private Invite Only](https://www.tmot.store/pages/amerimade-vip-hustler-circle): .vip-page { background-color: #0a0a0a; color: #ffffff; font-family: 'Arial Black', Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 40...
   Updated: 2026-06-13T02:46:12Z
-- [Custom T-Shirts & T-Shirt Printing Las Vegas | AMERIMADE](https://www.tmot.store/pages/custom-t-shirts-las-vegas): Custom shirts for Las Vegas businesses, teams, events, creators, and personal projects. AMERIMADE helps customers turn logos, artwork, and ideas in...
-  Updated: 2026-09-09T18:21:53Z
+- [Custom T-Shirt Printing Las Vegas](https://www.tmot.store/pages/custom-t-shirts-las-vegas): Custom shirts for Las Vegas businesses, teams, events, creators, and personal projects. AMERIMADE helps customers turn logos, artwork, and ideas in...
+  Updated: 2026-10-10T05:12:24Z
 - [Screen Printing Project Requests Las Vegas | AMERIMADE](https://www.tmot.store/pages/screen-printing-las-vegas): Screen printing can be an option for coordinated shirt and merchandise projects. AMERIMADE reviews Las Vegas screen-printing requests and confirms ...
   Updated: 2026-09-09T18:22:34Z
 - [DTF Printing Project Requests Las Vegas | AMERIMADE](https://www.tmot.store/pages/dtf-printing-las-vegas): Planning a DTF apparel project in Las Vegas? AMERIMADE reviews DTF requests for T-shirts, hoodies and selected fabric products, then confirms wheth...
@@ -3176,19 +3195,21 @@ Official website: https://www.tmot.store
   Updated: 2026-08-05T03:04:23Z
 - [Try-ons](https://www.tmot.store/pages/lb-tryons-preview): .lb-tryon-preview { min-height: 600px; display: flex; align-items: center; justify-content: center; } .lb-tryon-preview-loader { display: flex; ali...
   Updated: 2026-08-11T20:27:43Z
+- [AMERIMADE Custom Order — Scan & Request](https://www.tmot.store/pages/custom-order-request): AMERIMADE KUSTOMZ • TMOT.STORE MAKE IT YOURS. CUSTOM APPAREL • TUMBLERS • MUGS • GIFTS Saw us at the Fremont Street pop-up? Tell us what you want—w...
+  Updated: 2026-10-09T19:56:03Z
 
 ## Policies
 
 - [Privacy Policy](https://www.tmot.store/policies/privacy-policy)
   Updated: 2025-07-05T11:39:07-07:00
 - [Shipping Policy](https://www.tmot.store/policies/shipping-policy)
-  Updated: 2025-04-11T20:25:38-07:00
+  Updated: 2026-10-09T23:48:33-07:00
 - [Refund Policy](https://www.tmot.store/policies/refund-policy)
   Updated: 2026-06-09T17:42:13-07:00
 - [Terms of Service](https://www.tmot.store/policies/terms-of-service)
-  Updated: 2025-12-26T08:02:09-08:00
+  Updated: 2026-10-10T09:08:44-07:00
 - [Contact Information](https://www.tmot.store/policies/contact-information)
-  Updated: 2025-01-07T16:43:16-08:00
+  Updated: 2026-10-09T23:47:12-07:00
 
 ## Important Resources
 - https://www.tmot.store/
