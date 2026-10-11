@@ -6,7 +6,7 @@
 - Timezone: America/Santiago
 - Created At: 2026-07-26T19:03:57Z
 - Contact Email: admin@kelvora.cl
-- Updated At: 2026-10-02T00:00:35.447Z
+- Updated At: 2026-10-11T00:00:37.066Z
 
 Kelvora es una tienda chilena de bienestar pensada para personas que trabajan sentadas todo el día. Vendemos correctores de postura, almohadas cervicales, masajeadores y accesorios de oficina, productos simples y honestos para un problema cotidiano, el cansancio de pasar muchas horas frente a un computador. No somos médicos ni prometemos soluciones milagrosas; ofrecemos apoyos reales, sin tecnicismos ni exageraciones. Antes de sumar cualquier producto a nuestro catálogo nos preguntamos siempre: ¿esto realmente ayuda a alguien que pasa el día sentado? Si la respuesta no es un sí claro, no entra a la tienda.
 
