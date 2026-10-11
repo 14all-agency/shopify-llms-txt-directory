@@ -6,83 +6,71 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-23T15:38:07Z
 - Contact Email: info@onlybar.de
-- Updated At: 2026-10-03T22:47:18.939Z
+- Updated At: 2026-10-11T00:00:20.859Z
 
 ## Products
 
-- [OnlyBar Proteinriegel | 14 g Protein & 195 kcal](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp): Kalorienbewusster Proteinriegel mit 14 g Protein und 195 kcal pro 50 g. Ohne Zuckerzusatz, mit Milchprotein und 150 mg Leucin. Jetzt entdecken.
-  Updated: 2026-10-03T22:47:10Z
+- [OnlyBar Proteinriegel Milky Caramel Crisp – mit 14 g Protein](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp): OnlyBar Proteinriegel Milky Caramel Crisp: 14 g Protein, 0 g Zuckerzusatz und 195 kcal pro 50 g. Mit 150 mg Leucin, ideal nach dem Sport oder für zwischendurch.
+  Updated: 2026-10-04T11:03:19Z
   Vendor: OnlyBar
   Product Type: Proteinriegel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/8AEBE9EC-6CAC-4B41-8527-FCEA504BE35C.png?v=1788035444
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlybar-proteinriegel-milky-caramel-crisp-schokolade-karamel.png?v=1791111782
   - [Einzelriegel 50g](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp?variant=58145529004416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyBar_echtes_Bild.png?v=1788348992
+    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyBar_echtes_Bild.png?v=1791111783
     Price: 2,75 € EUR
   - [Vorratsbox 12x 50g](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp?variant=58145529037184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/Single-Box-OnlyBar_Milky-Caramel-Crisp.png?v=1785844467
+    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlybar-proteinriegel-milky-caramel-crisp-schokoriegel-karam-2.png?v=1791111789
     Price: 30,00 € EUR
   - [Monatsbox 36x 50g](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp?variant=58145529069952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/36_x_50g_Proteinriegel.png?v=1785844453
+    Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlybar-proteinriegel-milky-caramel-crisp-schokoriegel-karam-3.png?v=1791111790
     Price: 84,60 € EUR
-- [OnlySauce Burger Style – Kalorienarm & ohne Zucker | OnlyBar](https://onlybar.de/products/onlysauce-burger-style-kalorienreduzierte-burger-sauce-ohne-zuckerzusatz): OnlySauce Burger Style: nur 47 kcal/100ml, ohne Zuckerzusatz, schmeckt wie das Original. 250 ml. Jetzt vorbestellen.
-  Updated: 2026-10-03T22:47:10Z
+- [OnlySauce Burger Style – cremige Burger Sauce, 47 kcal je 100 ml](https://onlybar.de/products/onlysauce-burger-style-kalorienreduzierte-burger-sauce-ohne-zuckerzusatz): OnlySauce Burger Style schmeckt wie klassische Burger Sauce: cremig, rauchig und ohne Zuckerzusatz. Mit 47 kcal pro 100 ml und 2 kcal je Teelöffel (5 ml).
+  Updated: 2026-10-04T20:20:07Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyBar_BurgerSauce_24203b8a-97e5-4cc5-bd5b-0eb5c09465c7.png?v=1786896301
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-burger-style-cremige-burgersauce-1.png?v=1791111801
   Price: 4,49 € EUR
-- [OnlySauce Curry-Ketchup – Nur 24 kcal, ohne Zuckerzusatz](https://onlybar.de/products/curry-ketchup): Kalorienreduzierter Curry-Ketchup ohne Zuckerzusatz. Nur 24 kcal pro 100 ml. Würzig, tomatig, perfekt zu Pommes & Bratwurst. Made in EU.
-  Updated: 2026-10-03T22:47:10Z
+- [OnlySauce Curry-Ketchup – Würzig-tomatig zu Pommes und Bratwurst](https://onlybar.de/products/curry-ketchup): OnlySauce Curry-Ketchup schmeckt würzig und tomatig und passt perfekt zu Pommes und Bratwurst. Ohne Zuckerzusatz, mit 24 kcal je 100
+  Updated: 2026-10-09T13:27:16Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyBar_CurryKetchupSauce_02f3b183-ff53-4d03-ba4a-fe5577476291.png?v=1786896220
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-curry-ketchup-rotbraune-flasche-mit-schwarzem-etik.png?v=1791111801
   Price: 4,49 € EUR
-- [Beef Jerky Original – OnlyCherki von OnlyBar](https://onlybar.de/products/onlycherki-jerky): OnlyCherki Original: würzig-herbes Beef Jerky aus einer bayerischen Metzgerei. Natürlich proteinreich, für deine herzhafte Pause unterwegs oder im Büro.
-  Updated: 2026-10-03T17:19:56Z
+- [OnlyCherki Beef Jerky Original – Würziger Rindfleischsnack pur](https://onlybar.de/products/onlycherki-beef-jerky-original-rindfleischsnack): OnlyCherki Beef Jerky Original ist würzig-herbes Trockenfleisch aus Rindfleisch, handwerklich in einer bayerischen Metzgerei hergestellt – für Büro, Reisen oder Pause.
+  Updated: 2026-10-04T11:03:26Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyCherki_Original.jpg?v=1790973100
-  - [1x 50g](https://onlybar.de/products/onlycherki-jerky?variant=60030502306176)
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlycherki-beef-jerky-original-silberner-beutel-rindfleischs.jpg?v=1791111805
+  - [1x 50g](https://onlybar.de/products/onlycherki-beef-jerky-original-rindfleischsnack?variant=60030502306176)
     Availability: Available
     Price: 4,49 € EUR
-  - [10x 50g](https://onlybar.de/products/onlycherki-jerky?variant=60030502338944)
+  - [10x 50g](https://onlybar.de/products/onlycherki-beef-jerky-original-rindfleischsnack?variant=60030502338944)
     Availability: Available
     Price: 42,50 € EUR
-- [Beef Jerky Pizza Style – OnlyCherki von OnlyBar](https://onlybar.de/products/onlycherki-beef-jerky-pizza-style): OnlyCherki Pizza Style: Beef Jerky mit mediterraner Würze aus einer bayerischen Metzgerei. Natürlich proteinreich. Entdecke die herzhafte 50-g-Packung.
-  Updated: 2026-10-03T22:47:10Z
+- [OnlyCherki Beef Jerky – Pfeffer Style mit kräftigem Rindfleischgeschmack](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style): OnlyCherki Beef Jerky im Pfeffer Style: handwerklich in einer bayerischen Metzgerei aus Rindfleisch hergestellt. Herzhaft für deine Snackpause, mit 50 g Inhalt.
+  Updated: 2026-10-04T11:03:28Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyCherki_Pizza_Style.jpg?v=1790973328
-  - [1x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pizza-style?variant=60030513545600)
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlycherki-beef-jerky-pizza-style-wuerziges-rindfleisch.jpg?v=1791111806
+  - [1x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style?variant=60030664376704)
     Availability: Available
     Price: 4,49 € EUR
-  - [10x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pizza-style?variant=60030513578368)
-    Availability: Available
-    Price: 42,50 € EUR
-- [Beef Jerky Pizza Style – OnlyCherki von OnlyBar](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style-1): OnlyCherki Pizza Style: Beef Jerky mit mediterraner Würze aus einer bayerischen Metzgerei. Natürlich proteinreich. Entdecke die herzhafte 50-g-Packung.
-  Updated: 2026-10-03T22:47:11Z
-  Vendor: OnlyBar by SeamlessBio
-  Product Type: Beef Jerky
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyCherki_Pizza_Style.jpg?v=1790973328
-  - [1x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style-1?variant=60030664376704)
-    Availability: Available
-    Price: 4,49 € EUR
-  - [10x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style-1?variant=60030664409472)
+  - [10x 50g](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style?variant=60030664409472)
     Availability: Available
     Price: 42,50 € EUR
 
 ## Collections
 
 - [Kollektion](https://onlybar.de/collections/frontpage)
-  Updated: 2026-10-03T17:19:54Z
+  Updated: 2026-10-05T11:42:38Z
   Total Products: 5
 - [OnlyBar](https://onlybar.de/collections/onlybar): Proteinriegel
   Updated: 2026-08-24T11:41:46Z
@@ -92,9 +80,21 @@
 
 - [News](https://onlybar.de/blogs/news)
   - [Proteinriegel kaufen: Worauf wirklich achten | OnlyBar](https://onlybar.de/blogs/news/proteinriegel-kaufen-worauf-achten): Proteinriegel kaufen: Worauf wirklich achten | OnlyBar
-    Updated: 2026-09-07T13:17:44Z
+    Updated: 2026-10-04T11:02:10Z
     Author: Pascal Zimmermann
     Tags: Zuckersparen
+  - [10 Tipps für zuckerfreie und kalorienarme Ernährung im Alltag](https://onlybar.de/blogs/news/10-tipps-fur-zuckerfreie-und-kalorienarme-ernahrung-im-alltag): 10 Tipps für zuckerfreie und kalorienarme Ernährung im Alltag
+    Updated: 2026-10-04T15:24:00Z
+    Author: Pascal Zimmermann
+  - [Kaloriensparen im Alltag: 12 einfache Tipps](https://onlybar.de/blogs/news/kaloriensparen-im-alltag-tipps): Kaloriensparen im Alltag: 12 einfache Tipps
+    Updated: 2026-10-04T17:27:16Z
+    Author: Pascal Zimmermann
+  - [Entdecke die besten zuckerfreien und kalorienarmen Produkte für eine gesunde Ernährung](https://onlybar.de/blogs/news/entdecke-die-besten-zuckerfreien-und-kalorienarmen-produkte-fur-eine-gesunde-ernahrung): Entdecke die besten zuckerfreien und kalorienarmen Produkte für eine gesunde Ernährung
+    Updated: 2026-10-07T09:03:49Z
+    Author: Pascal Zimmermann
+  - [Die Wahrheit über zuckerfreie Lebensmittel: Was Sie wissen sollten](https://onlybar.de/blogs/news/die-wahrheit-uber-zuckerfreie-lebensmittel-was-sie-wissen-sollten): Die Wahrheit über zuckerfreie Lebensmittel: Was Sie wissen sollten
+    Updated: 2026-10-09T09:02:58Z
+    Author: Pascal Zimmermann
 
 ## Store Pages
 
@@ -122,6 +122,18 @@
   Updated: 2026-08-12T14:32:42Z
 - [OnlyBar Club](https://onlybar.de/pages/club-seite)
   Updated: 2026-08-21T07:57:54Z
+- [html sitemap products](https://onlybar.de/pages/html-sitemap-products): Products OnlyBar Proteinriegel Milky Ca... OnlyBar Proteinriegel – Joghur... OnlyBar Proteinriegel – Fudge-... OnlyBar 3er-Probierpaket – 3 R... On...
+  Updated: 2026-10-04T15:33:45Z
+- [html sitemap collections](https://onlybar.de/pages/html-sitemap-collections): Collections Kollektion OnlyBar .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-site...
+  Updated: 2026-10-04T15:33:47Z
+- [html sitemap blogs](https://onlybar.de/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
+  Updated: 2026-10-04T15:33:48Z
+- [html sitemap articles](https://onlybar.de/pages/html-sitemap-articles): Blog Posts Proteinriegel kaufen: Warum di... 10 Tipps für zuckerfreie und k... .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sit...
+  Updated: 2026-10-04T15:33:49Z
+- [html sitemap pages](https://onlybar.de/pages/html-sitemap-pages): Pages Kontakt Newsletter Danke für deine Bestellung! Investoren Wo zu finden? Store Locator Partnerprogramm Allgemeine Geschäftsbedingunge... Daten...
+  Updated: 2026-10-04T15:33:51Z
+- [html sitemap](https://onlybar.de/pages/html-sitemap): Products OnlyBar Proteinriegel Milky Ca... OnlyBar Proteinriegel – Joghur... OnlyBar Proteinriegel – Fudge-... OnlyBar 3er-Probierpaket – 3 R... On...
+  Updated: 2026-10-04T15:33:52Z
 
 ## Policies
 
