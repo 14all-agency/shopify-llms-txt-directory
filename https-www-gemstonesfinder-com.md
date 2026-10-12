@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-07-31T11:42:42Z
 - Contact Email: folkmarketgems@gmail.com
-- Updated At: 2026-10-03T00:00:38.591Z
+- Updated At: 2026-10-12T00:00:38.965Z
 
 ## Products
 
@@ -651,8 +651,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/Loose_Tourmaline_Stone.jpg?v=1769361953
   Price: $550.00 USD
-- [12x10mm Natural Peridot Pairs Vivid Green Color](https://www.gemstonesfinder.com/products/12x10mm-natural-peridot-vivid-color): 12x10mm Natural Peridot Pairs is sourced from Supat mine, Pakistan. The dimension is 12x10mm . Total weight of both pairs is 20.35 carats. The stones are cut in cushion cut gemstone shape. They are polished to a brilliant finish. Peridots are Eye Clean to Loupe-Clean. They are 100% natural with no  done on them. The quality is genuinely rare. Stone Specifications Weight: 20.35 Carats Dimensions: 12.12 × 10.6 × 9.3 mm Cut Style: Cushion Clarity: Eye Clean / Loupe-Clean Color: Vivid Green Origin: Pakistan Creation Method: Natural (Earth-Mined) : None / Untreated Condition: Graded Authenticity: Genuine Rarity: Rare Frequently Asked Questions Is this peridot , and how do I know it's genuine? This peridot is genuine — it's a 100% natural, earth-mined stone with no synthetic treatments. If you require a third-party gemological certificate, please reach out before purchasing and we'll guide you through the process. Can I use this loose peridot to create a custom ring or pendant? Absolutely — at 12x10mm cushion cut, this stone is an ideal size for a solitaire ring, halo setting, or pendant centerpiece. Why is Pakistani peridot considered higher quality than other origins? Pakistan's Kohistan and Kaghan Valley regions produce peridot with exceptional color saturation and clarity that consistently surpasses the stones from China or Arizona. The high-altitude geological conditions yield gems with a purer, more vivid green — which is exactly what you're getting here.
-  Updated: 2026-09-30T16:07:56Z
+- [12x10mm Natural Peridot Pairs Vivid Green Color - Pakistani Peridot](https://www.gemstonesfinder.com/products/12x10mm-natural-peridot-vivid-color): 12x10mm Natural Peridot Pairs is sourced from Supat mine, Pakistan. The dimension is 12x10mm . Total weight of both pairs is 20.35 carats. The stones are cut in cushion cut gemstone shape. They are polished to a brilliant finish. Peridots are Eye Clean to Loupe-Clean. They are 100% natural with no  done on them. The quality is genuinely rare. Stone Specifications Weight: 20.35 Carats Dimensions: 12.12 × 10.6 × 9.3 mm Cut Style: Cushion Clarity: Eye Clean / Loupe-Clean Color: Vivid Green Origin: Pakistan Creation Method: Natural (Earth-Mined) : None / Untreated Condition: Graded Authenticity: Genuine Rarity: Rare Frequently Asked Questions Is this peridot , and how do I know it's genuine? This peridot is genuine — it's a 100% natural, earth-mined stone with no synthetic treatments. If you require a third-party gemological certificate, please reach out before purchasing and we'll guide you through the process. Can I use this loose peridot to create a custom ring or pendant? Absolutely — at 12x10mm cushion cut, this stone is an ideal size for a solitaire ring, halo setting, or pendant centerpiece. Why is Pakistani peridot considered higher quality than other origins? Pakistan's Kohistan and Kaghan Valley regions produce peridot with exceptional color saturation and clarity that consistently surpasses the stones from China or Arizona. The high-altitude geological conditions yield gems with a purer, more vivid green — which is exactly what you're getting here.
+  Updated: 2026-10-10T07:34:02Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
@@ -720,10 +720,10 @@
   Updated: 2026-07-14T18:02:28Z
   Total Products: 48
 - [New Arrival Gems](https://www.gemstonesfinder.com/collections/new-arrivals-gemstones): Shop our latest gemstone arrivals! Discover rare precious stones, healing crystals & natural gems.  authentic with free shipping over $50.
-  Updated: 2026-09-30T16:00:59Z
+  Updated: 2026-10-09T19:33:57Z
   Total Products: 81
 - [Loose Precious Stones](https://www.gemstonesfinder.com/collections/loose-precious-stones): Shop loose gemstones in a variety of colors, shapes, and sizes, from individual sapphires and emeralds to mixed stone lots. Browse each listing for its cut, carat weight, and stated origin where provided.
-  Updated: 2026-09-30T16:17:36Z
+  Updated: 2026-10-09T19:33:57Z
   Total Products: 64
 
 ## Blogs
