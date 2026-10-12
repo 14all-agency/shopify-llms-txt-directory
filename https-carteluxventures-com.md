@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-24T11:32:05Z
 - Contact Email: support@carteluxventures.com
-- Updated At: 2026-10-05T00:00:25.925Z
+- Updated At: 2026-10-12T00:00:31.417Z
 
 ## Products
 
@@ -280,9 +280,9 @@
 - [Privacy Policy](https://carteluxventures.com/policies/privacy-policy)
   Updated: 2026-08-24T13:32:10+02:00
 - [Shipping Policy](https://carteluxventures.com/policies/shipping-policy)
-  Updated: 2026-09-21T13:38:08+02:00
+  Updated: 2026-10-05T11:37:20+02:00
 - [Refund Policy](https://carteluxventures.com/policies/refund-policy)
-  Updated: 2026-09-22T21:28:12+02:00
+  Updated: 2026-10-05T11:36:55+02:00
 - [Terms of Service](https://carteluxventures.com/policies/terms-of-service)
   Updated: 2026-09-22T21:27:57+02:00
 - [Contact Information](https://carteluxventures.com/policies/contact-information)
