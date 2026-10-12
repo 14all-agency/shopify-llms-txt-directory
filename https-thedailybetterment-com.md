@@ -6,110 +6,110 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-10-04T04:07:02.404Z
+- Updated At: 2026-10-12T00:00:21.840Z
 
 ## Products
 
 - [How To Age Healthy | Strength & Vitality Guide PDF](https://thedailybetterment.com/products/how-to-age-healthy): Stay strong, steady, and sharp at any age. Easy strength and balance routines, plus 8 printable trackers. 33-page healthy aging guide. Instant PDF.
-  Updated: 2026-10-03T20:15:27Z
+  Updated: 2026-10-11T02:39:05Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HealthyAging.png?v=1788891629
   Price: $12.00 USD
 - [Dating Tips for Nurses | Busy Nurse Dating Guide PDF](https://thedailybetterment.com/products/how-to-balance-dating-as-a-busy-nurse): Busy nurse? Find and keep love around 12-hour shifts, nights, and burnout. 30-page guide with 7 printable tools. Instant PDF download.
-  Updated: 2026-10-03T20:15:27Z
+  Updated: 2026-10-11T02:39:05Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/BusyNurse.png?v=1788891633
   Price: $12.00 USD
 - [Discipline Without Yelling | Parenting Guide PDF](https://thedailybetterment.com/products/how-to-discipline-your-child-without-fear): Stop yelling and get real results. Calm discipline tools, scripts, and age-by-age strategies, plus 7 printable tools. 32-page PDF, instant download.
-  Updated: 2026-10-03T20:15:28Z
+  Updated: 2026-10-11T02:39:05Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToDisciplineWithoutFear.png?v=1788891639
   Price: $12.00 USD
-- [How To Manage Money As A Couple (Without Conflict)](https://thedailybetterment.com/products/how-to-manage-money-as-a-couple-without-conflict): Stop fighting about money. Budget, pay off debt, and save as a team with 7 printable worksheets. 31-page couples money guide. Instant PDF download.
-  Updated: 2026-10-03T20:15:28Z
+- [Couples Money Guide | Budget Together Without Fighting PDF](https://thedailybetterment.com/products/how-to-manage-money-as-a-couple-without-conflict): Stop fighting about money. Start building your future as a team. It starts small: a surprise purchase, a bill nobody wants to open, a comment about "your spending." Before you know it, you're not arguing about money anymore. You're arguing about trust, fairness, and whether you're even on the same page. How To Manage Money As A Couple (Without Conflict) is written by someone who's been there: a couple who went from avoiding money talks until they exploded to planning their future together. It gives you a simple, step-by-step system to get on the same page, without blame, shame, or awkward silence. Inside you'll learn: 💬 How to talk about money without fighting, with conversation starters that work 🧠 Your money personalities (saver, spender, avoider, planner, giver) and how to make differences work for you 🏦 Joint, separate, or both? How to choose an account system and split costs fairly 📊 Build a couples budget you'll both actually follow 💳 Pay off debt together with a clear plan 🎯 Save for shared goals, from an emergency fund to your dream vacation 🏡 Handle big life changes like moving in, marriage, kids, and job loss 📅 The monthly money date that keeps small worries from becoming big fights 🎁 Includes 7 printable worksheets: 30-Day Money Reset Plan, Financial Snapshot, Monthly Budget, Debt Payoff Tracker, Savings Goal Tracker, Money Conversation Starters, and Monthly Money Date Checklist. Perfect for: dating, engaged, newlywed, and long-term couples. It also makes a thoughtful wedding or engagement gift. 📥 31-page PDF, instant download. Read it together on any device, or print the worksheets. Less stress. Fewer fights. More teamwork. Get your copy today. For educational purposes only. Not financial, legal, or tax advice.
+  Updated: 2026-10-11T03:56:36Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToManageMoneyAsACouple.png?v=1788891644
   Price: $12.00 USD
-- [How To Manage Stress In College](https://thedailybetterment.com/products/how-to-manage-stress-in-college): Overwhelmed in college? Calm anxiety, manage your time, study smarter, and feel like yourself again. 33-page PDF with 7 printable planners.
-  Updated: 2026-10-03T20:15:28Z
+- [College Stress Guide | Study Tips & Anxiety Help PDF](https://thedailybetterment.com/products/how-to-manage-stress-in-college): Exams. Deadlines. Bills. No sleep. And somewhere along the way, you stopped feeling like yourself. College is supposed to be the best years of your life, so why does it feel so overwhelming? If you're running on coffee and panic, studying for hours but remembering nothing, and feeling guilty every time you rest, this guide is for you. How To Manage Stress In College is written by someone who's been there: someone who lost themselves in the pressure and found their way back. It's packed with simple, realistic tools that actually fit a student's life. Inside you'll learn: 🧘 Calm down in 5 minutes or less with quick breathing and grounding techniques 📅 Take control of your time with a simple 3-step planning system 📚 Study smarter, not longer using research-backed techniques that help you remember more 📝 Beat test anxiety before, during, and after exams 😴 Sleep better, even in a noisy dorm 📱 Break the comparison trap of social media 🤝 Handle loneliness, homesickness, and roommate stress 💛 Be yourself again by reconnecting with who you are beyond grades 🎁 Includes 7 printable planners and tools: 7-Day Stress Reset Plan, Weekly Planner, Semester Deadline Map, Study Session Planner, Finals Week Checklist, Weekly Stress Check-In, and an Emergency Calm Card. Perfect for: college and university students, incoming freshmen, grad students, and parents looking for a thoughtful gift for their student. 📥 33-page PDF, instant download. Read it on your phone between classes, or print the planners. Less stress. Better grades. More you. Get your copy today. For educational purposes only. Not a substitute for professional mental health care. If you're struggling, contact your campus counseling center, or call or text 988 (U.S.) anytime.
+  Updated: 2026-10-11T03:56:37Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToManageStressInCollege.png?v=1788891649
   Price: $12.00 USD
 - [New Cat Anxiety Guide | Don't Rehome That Kitty PDF](https://thedailybetterment.com/products/how-to-overcome-new-cat-anxiety): New cat hiding, hissing, or not eating? Help your cat settle in, build trust, and avoid rehoming. First-time owner guide with printables. Instant PDF.
-  Updated: 2026-10-03T20:15:28Z
+  Updated: 2026-10-11T02:39:06Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Don_tRehomeThatKitty.png?v=1788891656
   Price: $12.00 USD
 - [Rebuild Intimacy in Your Relationship | Couples PDF](https://thedailybetterment.com/products/how-to-rebuild-intimacy-in-your-relationship-before-they-cheat): Feel more like roommates than partners? Rebuild closeness, affection, and desire before it's too late. Includes a 30-day challenge. Instant PDF download.
-  Updated: 2026-10-03T20:15:28Z
+  Updated: 2026-10-11T02:39:06Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToRebuildIntimacyInYourRelationship.png?v=1788891661
   Price: $12.00 USD
 - [Signs He Is Cheating | Research-Backed Warning Signs PDF](https://thedailybetterment.com/products/signs-he-is-cheating): Think he might be cheating? Learn the research-backed warning signs, separate fact from fear, and find clarity. 18-page PDF. Instant download.
-  Updated: 2026-10-03T20:15:29Z
+  Updated: 2026-10-11T02:39:06Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HeMightBeCheating.png?v=1788891666
   Price: $12.00 USD
 - [Signs Your Newborn Is Sick | Newborn Warning Signs PDF](https://thedailybetterment.com/products/signs-your-newborn-is-sick): Is it normal or an emergency? A color-coded guide to newborn warning signs, fever, breathing, and jaundice, with a printable fridge cheat sheet. Instant PDF.
-  Updated: 2026-10-03T20:15:29Z
+  Updated: 2026-10-11T02:39:07Z
   Vendor: PDF Oasis
   Product Type: pdf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/SignsYourNewbornIsSick_1.png?v=1788891676
   Price: $12.00 USD
 - [The Love Playbook | Relationship Advice Ebook PDF](https://thedailybetterment.com/products/the-love-playbook-insights-strategies-for-a-fulfilling-relationship): 15 simple rules for love, , and happiness, from someone who struggled for 30+ years. Weekly exercises and bonus couples tools. 44-page PDF, instant download.
-  Updated: 2026-10-03T20:15:29Z
+  Updated: 2026-10-11T02:39:07Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/TheLovePlaybookRulesforLove_Sex_andHappiness.png?v=1788891682
   Price: $12.00 USD
-- [Couples Bundle: 3 Relationship Guides](https://thedailybetterment.com/products/couples-bundle-3-relationship-guides): "The Love Playbook," "How To Rebuild Intimacy In Your Relationship","How To Manage Money As A Couple." Save $7 compared with buying each guide separately.
-  Updated: 2026-10-03T20:15:29Z
+- [Couples Bundle | 3 Relationship Advice Guides PDF](https://thedailybetterment.com/products/couples-bundle-3-relationship-guides): Three relationship guides in one bundle: stop fighting about money, rebuild intimacy, and 15 rules for lasting love. Printable worksheets. Instant PDF download.
+  Updated: 2026-10-11T03:56:38Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/TheLovePlaybookRulesforLove_Sex_andHappiness.png?v=1788891682
   Price: $29.00 USD
 - [Is He Cheating? Signs & How to Rebuild Intimacy | 2 PDFs](https://thedailybetterment.com/products/relationship-rescue-bundle-rebuild-intimacy-signs-he-is-cheating-2-pdfs): How to tell if he is cheating, and how to rebuild intimacy when you feel like roommates. 2 PDF guides with a 30-day reconnection challenge. Instant download.
-  Updated: 2026-10-03T20:15:29Z
+  Updated: 2026-10-11T02:39:07Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToRebuildIntimacyInYourRelationship.png?v=1788891661
   Price: $18.99 USD
 - [New Parent Ebook Bundle | Newborn Care & Discipline](https://thedailybetterment.com/products/new-parent-ebook-bundle-newborn-warning-signs-discipline-without-fear-2-pdfs): Two must-have guides for new parents: newborn warning signs and calm discipline without yelling. Printable cheat sheets included. Instant PDF. Save $5.
-  Updated: 2026-10-03T20:15:30Z
+  Updated: 2026-10-11T02:39:08Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToDisciplineWithoutFear_1.png?v=1790938873
   Price: $18.99 USD
 - [Dating as a Night Shift Nurse | Nurse Dating Guide PDF](https://thedailybetterment.com/products/nurse-love-bundle-dating-guide-for-busy-nurses-the-love-playbook-2-pdfs): How to date as a night shift nurse or on 12-hour shifts, plus 15 rules to make love last. 2 PDF guides with a printable shift and date planner.
-  Updated: 2026-10-03T20:15:30Z
+  Updated: 2026-10-11T02:39:08Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/BusyNurse.png?v=1788891633
   Price: $18.99 USD
 - [Practical Self-Help Ebook Bundle | 10 PDF Life Guides](https://thedailybetterment.com/products/the-complete-library-all-10-practical-life-guides-ebook-bundle): A practical self-help ebook bundle: 10 PDF guides on relationships, parenting, couples' money, college stress, healthy aging, and new cats. 279 pages.
-  Updated: 2026-10-03T20:15:30Z
+  Updated: 2026-10-11T02:39:08Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
@@ -119,7 +119,7 @@
 ## Collections
 
 - [Home page](https://thedailybetterment.com/collections/frontpage)
-  Updated: 2026-10-03T20:15:27Z
+  Updated: 2026-10-11T02:39:05Z
   Total Products: 1
 
 ## Blogs
@@ -129,6 +129,15 @@
     Updated: 2026-10-04T03:49:14Z
     Author: The Daily Betterment
     Tags: free resources, mindset, PDF download, self-help, self-improvement
+  - [Top 10 Self Help Books to Read Online for Free for Mindset Transformation](https://thedailybetterment.com/blogs/the-daily-read/top-10-self-help-books-to-read-online-for-free-for-mindset-transformation): Top 10 Self Help Books to Read Online for Free for Mindset Transformation
+    Updated: 2026-10-06T07:01:45Z
+    Author: The Daily Betterment
+  - [How Self Help Books to Read Online for Free Can Boost Your Personal Growth](https://thedailybetterment.com/blogs/the-daily-read/how-self-help-books-to-read-online-for-free-can-boost-your-personal-growth): How Self Help Books to Read Online for Free Can Boost Your Personal Growth
+    Updated: 2026-10-08T07:01:48Z
+    Author: The Daily Betterment
+  - [Exploring Must-Read Mindset Books for Beginners Available as Self Help PDF Download](https://thedailybetterment.com/blogs/the-daily-read/exploring-must-read-mindset-books-for-beginners-available-as-self-help-pdf-download): Exploring Must-Read Mindset Books for Beginners Available as Self Help PDF Download
+    Updated: 2026-10-11T07:01:55Z
+    Author: The Daily Betterment
 
 ## Store Pages
 
