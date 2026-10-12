@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-15T10:54:19Z
 - Contact Email: leviative@gmail.com
-- Updated At: 2026-10-02T00:00:21.088Z
+- Updated At: 2026-10-12T00:00:27.544Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Author: Leviative
     Tags: 2026, ecommerce beginners, ecommerce India, how to start ecommerce, Meta Ads, product research, RTO, Shopify India
   - [How to Validate an Ecommerce Product Before Spending Money](https://leviative.com/blogs/blog/how-to-validate-an-ecommerce-product-before-spending-money): <p>A practical checklist for testing demand, competition, unit economics, sourcing and the offer before committing heavily to an ecommerce product.</p>
-    Updated: 2026-09-23T14:52:45Z
+    Updated: 2026-10-06T15:50:07Z
     Author: Leviative
     Tags: ecommerce beginners, ecommerce product ideas, product research, product validation
   - [RTO in Ecommerce: What It Means, Why It Happens, and How to Reduce It](https://leviative.com/blogs/blog/rto-in-ecommerce-what-it-means-and-how-to-reduce-it): <p>Understand Return to Origin (RTO), the common reasons orders come back, what it costs, and practical ways ecommerce sellers can reduce avoidable RTO.</p>
@@ -93,6 +93,46 @@
     Updated: 2026-10-01T08:48:38Z
     Author: Leviative
     Tags: India, Student skills, Teen income
+  - [Solving Supply Chain Challenges in Indian Ecommerce Finding the Perfect Supplier](https://leviative.com/blogs/blog/solving-supply-chain-challenges-in-indian-ecommerce-finding-the-perfect-supplier): Solving Supply Chain Challenges in Indian Ecommerce Finding the Perfect Supplier
+    Updated: 2026-10-02T00:28:39Z
+    Author: Leviative
+  - [Understanding How to Vet Ecommerce Suppliers in India for Winning Products](https://leviative.com/blogs/blog/understanding-how-to-vet-ecommerce-suppliers-in-india-for-winning-products): Understanding How to Vet Ecommerce Suppliers in India for Winning Products
+    Updated: 2026-10-05T01:07:38Z
+    Author: Leviative
+  - [7 AI Business Ideas in India with Low ](https://leviative.com/blogs/blog/ai-business-ideas-india-low-): 7 AI Business Ideas in India with Low 
+    Updated: 2026-10-06T15:50:08Z
+    Author: Leviative
+    Tags: AI Business, Beginner Guides, India
+  - [10 Practical Uses of AI for Work, Study and Business](https://leviative.com/blogs/blog/practical-uses-of-ai-work-study-business): 10 Practical Uses of AI for Work, Study and Business
+    Updated: 2026-10-06T15:08:51Z
+    Author: Leviative
+    Tags: AI Basics, Beginner Guides, India
+  - [High-Paying Careers in India: Skills and Entry Routes](https://leviative.com/blogs/blog/high-paying-careers-india-skills): High-Paying Careers in India: Skills and Entry Routes
+    Updated: 2026-10-06T15:08:51Z
+    Author: Leviative
+    Tags: Beginner Guides, Careers, India
+  - [How to  Digital Products in India: Beginner Guide](https://leviative.com/blogs/blog/how-to--digital-products-india): How to  Digital Products in India: Beginner Guide
+    Updated: 2026-10-06T15:50:09Z
+    Author: Leviative
+    Tags: Beginner Guides, Digital Products, India
+  - [7 Business Ideas Under ₹10,000 in India](https://leviative.com/blogs/blog/business-ideas-under-10000-india): 7 Business Ideas Under ₹10,000 in India
+    Updated: 2026-10-06T15:50:10Z
+    Author: Leviative
+    Tags: Beginner Guides, India, Small Business
+  - [How to Learn AI from Scratch: Free Beginner Roadmap](https://leviative.com/blogs/blog/how-to-learn-ai-from-scratch): How to Learn AI from Scratch: Free Beginner Roadmap
+    Updated: 2026-10-06T15:08:51Z
+    Author: Leviative
+    Tags: Beginner Guides, India, Learn AI
+  - [10 Skills for the Future to Build Your Career in India](https://leviative.com/blogs/blog/skills-for-future-career-india): 10 Skills for the Future to Build Your Career in India
+    Updated: 2026-10-06T15:08:51Z
+    Author: Leviative
+    Tags: Beginner Guides, Career Skills, India
+  - [Step-by-Step Guide to Finding Reliable Suppliers for Ecommerce in India](https://leviative.com/blogs/blog/step-by-step-guide-to-finding-reliable-suppliers-for-ecommerce-in-india): Step-by-Step Guide to Finding Reliable Suppliers for Ecommerce in India
+    Updated: 2026-10-07T00:45:58Z
+    Author: Leviative
+  - [20 FAQs About Choosing Suppliers for Ecommerce Ventures in India](https://leviative.com/blogs/blog/20-faqs-about-choosing-suppliers-for-ecommerce-ventures-in-india): 20 FAQs About Choosing Suppliers for Ecommerce Ventures in India
+    Updated: 2026-10-09T00:32:31Z
+    Author: Leviative
 
 ## Store Pages
 
@@ -104,6 +144,8 @@
   Updated: 2026-09-16T07:29:15Z
 - [Blogs](https://leviative.com/pages/blogs): How to start ecommerce in india
   Updated: 2026-09-18T17:47:23Z
+- [Free Business Startup Checklist in India | Leviative](https://leviative.com/pages/start-here): LEVIATIVE • FREE STARTER RESOURCES Test your business idea.Before you spend on it. Starting your first business in India? Use this free checklist t...
+  Updated: 2026-10-06T15:48:02Z
 
 ## Policies
 
