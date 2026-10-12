@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-12T13:05:00Z
 - Contact Email: chicetbio@maisoncrepue.com
-- Updated At: 2026-10-03T16:31:46.793Z
+- Updated At: 2026-10-12T00:00:27.703Z
 
 ## Products
 
@@ -138,9 +138,9 @@ Un parfum sophistiqué et envoûtant, élaboré avec soin par Chogan Group en It
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/cremeaucurcurma.jpg?v=1787614073
   Price: 3,99 € EUR
-- [savon anti taches au curcurma, reparateur et rend la peau propre](https://maisoncrepue.com/products/savon-curcuma-eclat-teint): savon anti taches au curcurma, anti tâches, peau
+- [savon anti taches au curcuma, reparateur et rend la peau propre](https://maisoncrepue.com/products/savon-curcuma-eclat-teint): savon anti taches au curcuma, anti tâches, peau
 Offrez à votre peau un soin purifiant et réparateur avec le Savon Éclat au Curcuma de Maison Crépue — un savon artisanal enrichi en curcuma, aux vertus
-  Updated: 2026-09-11T17:12:39Z
+  Updated: 2026-10-04T06:52:53Z
   Vendor: Maison Crépue
   Product Type: Soin corps
   Availability: Available
@@ -221,8 +221,8 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/poudredemoringa.png?v=1787345592
   Price: 15,00 € EUR
-- [Formation soins cheveux crépus : fabrication et recettes | Maison Crépue](https://maisoncrepue.com/products/stop-formation-complete-en-soins-capillaires-pour-cheveux-crepus-fabrication-recettes-conseils-et-bonus-1): Formation cheveux crépus : 8 modules sur les soins, recettes, coiffures protectrices et routine personnalisée. Bonus et annexes Maison Crépue.
-  Updated: 2026-09-27T18:20:04Z
+- [STOP — Formation complète en soins capillaires pour cheveux crépus | Fabrication, recettes, conseils et bonus - Maison Crepue](https://maisoncrepue.com/products/stop-formation-complete-en-soins-capillaires-pour-cheveux-crepus-fabrication-recettes-conseils-et-bonus-1): STOP aux routines choisies au hasard. Comprenez les cheveux crépus, apprenez à fabriquer vos soins et construisez une routine adaptée à vos besoins. Et pourquoi pas transformer votre savoir-faire en activité ?Le programme de la formation Module 1 — Comprendre les cheveux crépus et leurs caractéristiques Module 2 — Les actifs et nutriments essentiels pour la pousse et le volume Module 3 — Matériel nécessaire et bonnes pratiques de fabrication Module 4 — Fabriquer une crème hydratante pour cheveux naturels Module 5 — Fabriquer un leave-in fortifiant, pousse et volume Module 6 — Gestes du quotidien et coiffures protectrices Module 7 — Construire sa routine capillaire personnalisée Module 8 — Séances d’accompagnement et de coaching personnalisé En complémentCadeau : 3 fiches recettes 100 % naturelles.Annexes : glossaire, FAQ, répertoire d’ingrédients, lecture INCI, routine saisonnière, étiquette produit, fiche vierge, vente et auto-évaluation.Format : formation numérique. Les modalités d’accès et d’accompagnement sont à préciser avant la mise en vente. - Maison Crepue
+  Updated: 2026-10-04T18:26:42Z
   Vendor: Maison Crépue
   Product Type: Formation numérique
   Availability: Available
@@ -244,7 +244,7 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-09-27T19:12:58Z
   Total Products: 3
 - [SOINS DE VISAGE](https://maisoncrepue.com/collections/soins-de-visage): - Maison Crepue
-  Updated: 2026-09-27T19:29:41Z
+  Updated: 2026-10-03T18:52:48Z
   Total Products: 3
 - [Sacs à main](https://maisoncrepue.com/collections/accessoires): - Maison Crepue
   Updated: 2026-09-27T19:33:47Z
@@ -253,14 +253,14 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-09-27T19:42:22Z
   Total Products: 2
 - [Sold Out 🔥 Liquidation — Offres Limitées](https://maisoncrepue.com/collections/sold-out-liquidation): 🔥 Vente Liquidation — Stocks Limités !Ces produits ont fait fureur et sont partis en un temps record. Profitez de cette opportunité unique pour les obtenir à
-  Updated: 2026-09-27T19:42:22Z
+  Updated: 2026-10-03T18:52:48Z
   Total Products: 13
 - [Promotions — Offres Spéciales](https://maisoncrepue.com/collections/promotions): Découvrez nos offres promotionnelles et produits en réduction. - Maison Crepue
   Updated: 2026-09-27T19:42:22Z
   Total Products: 9
 - [Gamme Soin Visage au Curcuma — Peaux à Imperfections](https://maisoncrepue.com/collections/gamme-soin-visage-curcuma): Découvrez notre gamme complète de soins visage au curcuma, spécialement formulée pour les peaux à imperfections, taches et boutons. Le curcuma est reconnu pour
-  Updated: 2026-09-11T11:59:09Z
-  Total Products: 3
+  Updated: 2026-10-03T18:53:30Z
+  Total Products: 4
 - [Complements alimentaires naturels](https://maisoncrepue.com/collections/complements-alimentaires-naturels): - Maison Crepue
   Updated: 2026-09-11T12:36:21Z
   Total Products: 3
@@ -273,6 +273,21 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
 - [Formation](https://maisoncrepue.com/collections/formation): Explorez les formations Maison Crépue sur les soins des cheveux crépus, les recettes et la fabrication de soins capillaires.
   Updated: 2026-09-27T18:36:09Z
   Total Products: 1
+- [Hydratation & Nutrition](https://maisoncrepue.com/collections/hydratation-nutrition): Des soins hydratants et nourrissants pour révéler tout le potentiel de vos cheveux crépus. Gelées, crèmes et compléments pour une chevelure souple et éclatante. - Maison Crepue
+  Updated: 2026-10-03T17:33:05Z
+  Total Products: 4
+- [Anti-casse & Fortifiant](https://maisoncrepue.com/collections/anti-casse-fortifiant): Vos cheveux crépus méritent une protection solide. Cette sélection rassemble les soins les plus puissants pour stopper la casse, renforcer la fibre capillaire et fortifier le cuir chevelu en profondeur.Formulés à base d'ingrédients naturels riches en protéines et nutriments essentiels — moringa, hibiscus, batana — ces produits nourrissent vos cheveux de l'intérieur pour leur redonner résistance et élasticité. Réduit la casse et la fragilité Renforce la fibre capillaire Stimule un cuir chevelu sain Idéal pour les cheveux crépus et frisés fragilisés - Maison Crepue
+  Updated: 2026-10-03T17:57:55Z
+  Total Products: 1
+- [Pousse & Longueur](https://maisoncrepue.com/collections/pousse-longueur): Stimulez la pousse et favorisez la longueur de vos cheveux crépus avec notre sélection de soins naturels boosteurs de croissance. - Maison Crepue
+  Updated: 2026-10-03T18:18:49Z
+  Total Products: 5
+- [Protection nocturne](https://maisoncrepue.com/collections/protection-nocturne): Préservez vos cheveux crépus et bouclés pendant la nuit grâce à nos produits de protection nocturne : bonnets en satin, serviettes microfibre et soins coiffants adaptés. - Maison Crepue
+  Updated: 2026-10-03T18:26:34Z
+  Total Products: 3
+- [Routine complète crépue](https://maisoncrepue.com/collections/routine-complete-crepue): Découvrez notre sélection complète de produits pour une routine capillaire crépue de A à Z : soins lavants, hydratants, coiffants et accessoires pour des cheveux crépus sains, définis et sublimés. - Maison Crepue
+  Updated: 2026-10-03T18:32:58Z
+  Total Products: 10
 
 ## Blogs
 
@@ -446,6 +461,18 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
     Author: Edith FEUMOE
   - [Pourquoi un spray démêIant est indispensable pour les cheveux crépus ? | Maison Crépue](https://maisoncrepue.com/blogs/actualites/pourquoi-un-spray-demeiant-change-tout-pour-les-cheveux-crepus-3): Pourquoi un spray démêIant est indispensable pour les cheveux crépus ? | Maison Crépue
     Updated: 2026-09-17T06:00:01Z
+    Author: Edith FEUMOE
+  - [Huile contre la casse des cheveux crépus : les bons gestes](https://maisoncrepue.com/blogs/actualites/quelle-huile-contre-casse-cheveux-crepus): Huile contre la casse des cheveux crépus : les bons gestes
+    Updated: 2026-10-05T05:30:02Z
+    Author: Edith FEUMOE
+  - [Tempes dégarnies : gestes naturels et précautions](https://maisoncrepue.com/blogs/actualites/tempes-degarnies-naturellement): Tempes dégarnies : gestes naturels et précautions
+    Updated: 2026-10-07T05:30:03Z
+    Author: Edith FEUMOE
+  - [Routine cheveux crépus après 45 ans : préserver la longueur](https://maisoncrepue.com/blogs/actualites/routine-cheveux-crepus-apres-45-ans): Routine cheveux crépus après 45 ans : préserver la longueur
+    Updated: 2026-10-03T18:01:39Z
+    Author: Edith FEUMOE
+  - [Soins maison cheveux crépus : recette simple au karité](https://maisoncrepue.com/blogs/actualites/fabriquer-soins-maison-cheveux-crepus): Soins maison cheveux crépus : recette simple au karité
+    Updated: 2026-10-03T18:01:25Z
     Author: Edith FEUMOE
   - [Formation soins cheveux crépus : choisir une routine utile](https://maisoncrepue.com/blogs/actualites/formation-soins-cheveux-crepus-routine): Formation soins cheveux crépus : choisir une routine utile
     Updated: 2026-10-03T16:15:25Z
