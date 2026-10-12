@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-10-03T00:00:24.995Z
+- Updated At: 2026-10-12T00:00:29.948Z
 
 ## Collections
 
@@ -223,6 +223,18 @@
     Updated: 2026-10-02T09:09:05Z
     Author: RentPromise Team
     Tags:  rent for landlords,  rent scheme,  rent schemes,  rent social housing investmen,  rent uk, hands-off property management for landlo, housing, housing association lease , , no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Managed Social Housing Investments: A Hassle-Free Landlord Solution](https://rentpromise.co.uk/blogs/news/managed-social-housing-investments-a-hassle-free-landlord-solution): Managed Social Housing Investments: A Hassle-Free Landlord Solution
+    Updated: 2026-10-05T09:11:56Z
+    Author: RentPromise Team
+    Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off management, hassle-free landlords., housing, housing association lease , , no void social housing , property, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Why Private Sector Leasing with Housing Associations Boosts Your Returns](https://rentpromise.co.uk/blogs/news/why-private-sector-leasing-with-housing-associations-boosts-your-returns): Why Private Sector Leasing with Housing Associations Boosts Your Returns
+    Updated: 2026-10-07T09:10:01Z
+    Author: RentPromise Team
+    Tags: benefits of housing association leases,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease , leasing, no void social housing , private sector leasing advantages, property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Long-Term  Rent Options: Maximising UK Landlord Income.](https://rentpromise.co.uk/blogs/news/long-term--rent-options-maximising-uk-landlord-income): Long-Term  Rent Options: Maximising UK Landlord Income.
+    Updated: 2026-10-09T09:07:40Z
+    Author: RentPromise Team
+    Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off management, housing association lease , housing association leases, income, long-term rent, no void social housing , property, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living housing, supported living , supported living   r
 
 ## Store Pages
 
