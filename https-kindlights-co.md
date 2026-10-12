@@ -6,40 +6,40 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-09-25T00:00:29.423Z
+- Updated At: 2026-10-12T00:00:33.735Z
 
 ## Products
 
 - [A19 Circadian Light Bulb | Low Blue Light LED](https://kindlights.co/products/a19-circadian-light-bulb): Shop the Kind Lights A19 Circadian Light Bulb, a dimmable low blue light LED designed for comfortable day-to-night lighting and natural light rhythms
-  Updated: 2026-09-16T14:08:42Z
+  Updated: 2026-09-28T09:49:36Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/A19CircadianLightBulb.png?v=1784010971
   Price: $39.00 USD
 - [E12 Circadian Light Bulb | Full Spectrum E12 LED](https://kindlights.co/products/e12-circadian-light-bulb): Shop the Kind Lights E12 Circadian Light Bulb for intentional day-to-night lighting. This E12 LED bulb offers three BioModes for bright daytime and warm evening light.
-  Updated: 2026-09-16T14:12:03Z
+  Updated: 2026-09-28T09:49:37Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/E12CircadianLightBulb.png?v=1784011111
   Price: $35.00 USD
 - [BR30 Circadian Light Bulb | Full-Spectrum LED](https://kindlights.co/products/br30-circadian-floodlight): Shop the Kind Lights BR30 Circadian Light Bulb for bright daytime, balanced daytime, and warm evening lighting with three BioModes in one versatile floodlight.
-  Updated: 2026-09-16T14:15:13Z
+  Updated: 2026-09-28T09:49:37Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/BR30CircadianFloodlight.png?v=1784011252
   Price: $49.00 USD
 - [Circadian Retrofit Recessed | Full Spectrum Lighting](https://kindlights.co/products/circadian-retrofit-recessed): Upgrade compatible recessed fixtures with the Kind Lights Circadian Retrofit Recessed Light. Enjoy three BioModes for bright daytime and warm evening lighting.
-  Updated: 2026-09-16T14:16:12Z
+  Updated: 2026-09-28T09:49:37Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/CircadianRetrofitRecessed.png?v=1784011401
   Price: $49.00 USD
 - [Amber Night Light | Warm Amber Light for Evening](https://kindlights.co/products/amber-night-light): Create a warmer nighttime environment with the Kind Lights Amber Night Light. Discover warm amber light designed for relaxing evening spaces and nighttime routines.
-  Updated: 2026-09-16T14:10:19Z
+  Updated: 2026-09-28T09:49:37Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -49,7 +49,7 @@
 ## Collections
 
 - [Starter Kits](https://kindlights.co/collections/starter-kits): Every KIND Light Supports Your Entire Day.
-  Updated: 2026-09-14T06:22:24Z
+  Updated: 2026-09-28T09:49:36Z
   Total Products: 5
 
 ## Blogs
@@ -57,6 +57,9 @@
 - [Guides](https://kindlights.co/blogs/guides)
   - [Circadian Lighting: Guide to Better Home Lighting](https://kindlights.co/blogs/guides/the-complete-guide-to-circadian-lighting): Circadian Lighting: Guide to Better Home Lighting
     Updated: 2026-09-24T12:20:43Z
+    Author: Kip A
+  - [Color Temperature Explained: 1800K, 3300K, 6000K Options](https://kindlights.co/blogs/guides/color-temperature-explained-1800k-3300k-6000k): Color Temperature Explained: 1800K, 3300K, 6000K Options
+    Updated: 2026-10-07T08:09:19Z
     Author: Kip A
 - [Circadian home](https://kindlights.co/blogs/circadian-home)
   - [Circadian Lighting Benefits for Daily Rhythm](https://kindlights.co/blogs/circadian-home/why-circadian-lighting-matters-key-benefits-explained): Circadian Lighting Benefits for Daily Rhythm
@@ -84,12 +87,24 @@
   - [Bedroom Lighting Guide: Day & Night Color Temperature](https://kindlights.co/blogs/science/blogs-learn-bedroom-lighting-day-night): Bedroom Lighting Guide: Day & Night Color Temperature
     Updated: 2026-09-24T13:03:56Z
     Author: Kip A
+  - [Daylight Saving Time and Your Body Clock: How to Adjust](https://kindlights.co/blogs/science/daylight-saving-time-body-clock): Daylight Saving Time and Your Body Clock: How to Adjust
+    Updated: 2026-10-07T09:29:36Z
+    Author: Kip A
+  - [Do LED Lights Affect Sleep? What Matters and What Doesn't](https://kindlights.co/blogs/science/do-led-lights-affect-sleep): Do LED Lights Affect Sleep? What Matters and What Doesn't
+    Updated: 2026-10-07T09:32:37Z
+    Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
     Updated: 2026-09-24T13:26:59Z
     Author: Kip A
   - [1800K vs 2700K: Which Warm Light Is Better at Night?](https://kindlights.co/blogs/compare/1800k-vs-2700k-warm-light): 1800K vs 2700K: Which Warm Light Is Better at Night?
     Updated: 2026-09-24T11:56:37Z
+    Author: Kip A
+  - [Amber Light for Sleep: Does It Help You Sleep Better?](https://kindlights.co/blogs/compare/amber-light-for-sleep-does-it-help-you-sleep-better)
+    Updated: 2026-10-07T09:29:56Z
+    Author: Kip A
+  - [What Color Light Helps You Sleep? Best and Worst Colors](https://kindlights.co/blogs/compare/what-color-light-helps-you-sleep): What Color Light Helps You Sleep? Best and Worst Colors
+    Updated: 2026-10-07T09:28:41Z
     Author: Kip A
 
 ## Store Pages
@@ -108,6 +123,18 @@
   Updated: 2026-06-03T12:19:03Z
 - [Full-Spectrum Circadian Lighting for Sleep & Performance](https://kindlights.co/pages/better-recovery-sleep): 
   Updated: 2026-06-03T12:20:00Z
+- [Cookies Consent Policy](https://kindlights.co/pages/cookie-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
+- [PIPEDA Privacy Policy](https://kindlights.co/pages/pipeda-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
+- [APPI Privacy Policy](https://kindlights.co/pages/appi-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
+- [LGPD Privacy Policy](https://kindlights.co/pages/lgpd-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
+- [GDPR Privacy Policy](https://kindlights.co/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
+- [CCPA Privacy Policy](https://kindlights.co/pages/ccpa-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } td code { word-break: break-all; } /* Popup styles */ .Avada-Popup { dis...
+  Updated: 2026-09-30T06:28:29Z
 
 ## Policies
 
