@@ -6,44 +6,16 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-12-01T14:08:17Z
 - Contact Email: hello@seissense.com
-- Updated At: 2026-10-06T08:00:26.318Z
+- Updated At: 2026-10-13T08:00:28.743Z
 
 ## Products
 
 - [Pollock Leggings](https://gcc.seissense.com/products/pollock-leggings): Leggings built for full range of motion, every session.Made from recycled nylon and elastane with FUZE™ technology, the Pollock delivers four-way stretch and moisture-wicking performance for workouts or daily wear. Quick-dry fabric keeps you comfortable no matter how the session goes. Recycled nylon and elastane — Comfort and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of motion Moisture-wicking and quick-dry — Keeps you fresh throughout UV refraction — Added protection outdoors Perfect for: Training, running, everyday wearMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-10-04T09:44:55Z
+  Updated: 2026-10-12T19:54:02Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_02_1200x1800_bf21a898-18d5-4afe-88cc-be18d953bcb9.webp?v=1781070149
-  - [Merlot / XS](https://gcc.seissense.com/products/pollock-leggings?variant=49509725012197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / S](https://gcc.seissense.com/products/pollock-leggings?variant=49509725077733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / M](https://gcc.seissense.com/products/pollock-leggings?variant=49509725143269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / L](https://gcc.seissense.com/products/pollock-leggings?variant=49509725208805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725274341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / 2XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725339877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
-  - [Merlot / 3XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725405413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
-    Price: AED 260.00 AED
   - [Charcoal / XS](https://gcc.seissense.com/products/pollock-leggings?variant=49509725044965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Charcoal_02_1200x1800_e8c4350e-2b9c-4c7c-8135-db4e480ff70d.webp?v=1781070149
@@ -71,6 +43,34 @@
   - [Charcoal / 3XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725438181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Charcoal_02_1200x1800_e8c4350e-2b9c-4c7c-8135-db4e480ff70d.webp?v=1781070149
+    Price: AED 260.00 AED
+  - [Merlot / XS](https://gcc.seissense.com/products/pollock-leggings?variant=49509725012197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / S](https://gcc.seissense.com/products/pollock-leggings?variant=49509725077733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / M](https://gcc.seissense.com/products/pollock-leggings?variant=49509725143269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / L](https://gcc.seissense.com/products/pollock-leggings?variant=49509725208805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725274341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / 2XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725339877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
+    Price: AED 260.00 AED
+  - [Merlot / 3XL](https://gcc.seissense.com/products/pollock-leggings?variant=49509725405413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Merlot_05_1200x1800_29ef8bdc-30ed-493d-bd00-dee2432038d1.webp?v=1781070148
     Price: AED 260.00 AED
 - [Marshall Basic Tee](https://gcc.seissense.com/products/marshall-basic-tee): Classic short sleeve tee built with comfortable materials.Blending classic design with high-performance features, the MARSHALL Basic Tee is crafted from a soft Supima cotton and modal blend to provide comfort, breathability, and all-day wear. The lightweight fabric offers moisture-wicking and quick-dry technology, keeping you cool and comfortable throughout your day. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a perfect fit. Suitable for both Boys and Girls – Available for 3-14 Years
   Updated: 2026-10-04T09:11:11Z
@@ -271,137 +271,113 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012613_MARSHALL_BASIC_TEE_SUMMER_SUN_BOYS_04_1200x1800_7253fb9a-9eb3-4dac-b450-95622c4e8483.webp?v=1781071012
     Price: AED 120.00 AED
 - [Marshall Relaxed Hooded Tee](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee): Relaxed short sleeve lightweight hoodie built to last.Blending relaxed design with high-performance features, the MARSHALL Relaxed Hooded Tee is crafted from a soft Supima cotton and modal blend to provide all-day comfort, breathability, and effortless style. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable whether you're training, lounging, or on the move. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a relaxed, comfortable fit. Suitable for both Boys and Girls – Available for 3-14 Years
-  Updated: 2026-10-04T09:11:12Z
+  Updated: 2026-10-13T06:25:41Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_BOYS_02_1200x1800_676ae8c1-f23d-44ba-be0e-6413bfa81c2c.webp?v=1781071213
-  - [3-4 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751554277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [3-4 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751587045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [3-4 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751619813)
+  - [Charcoal / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751619813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
     Price: AED 200.00 AED
-  - [3-4 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751652581)
+  - [Charcoal / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751750885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
+    Price: AED 200.00 AED
+  - [Charcoal / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751881957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
+    Price: AED 200.00 AED
+  - [Charcoal / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752013029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
+    Price: AED 200.00 AED
+  - [Charcoal / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752144101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
+    Price: AED 200.00 AED
+  - [Charcoal / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752275173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
+    Price: AED 200.00 AED
+  - [Sand / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751554277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Sand / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751685349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Sand / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751816421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Sand / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751947493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Sand / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752078565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Sand / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752209637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751587045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751718117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751849189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751980261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752111333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Mocha Mousse / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752242405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
+    Price: AED 200.00 AED
+  - [Glacier / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751652581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
-  - [5-6 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751685349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [5-6 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751718117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [5-6 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751750885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
-    Price: AED 200.00 AED
-  - [5-6 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751783653)
+  - [Glacier / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751783653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
-  - [7-8 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751816421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [7-8 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751849189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [7-8 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751881957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
-    Price: AED 200.00 AED
-  - [7-8 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751914725)
+  - [Glacier / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751914725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
-  - [9-10 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751947493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [9-10 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509751980261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [9-10 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752013029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
-    Price: AED 200.00 AED
-  - [9-10 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752045797)
+  - [Glacier / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752045797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
-  - [11-12 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752078565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [11-12 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752111333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [11-12 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752144101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
-    Price: AED 200.00 AED
-  - [11-12 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752176869)
+  - [Glacier / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752176869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
-  - [13-14 years / Sand](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752209637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_SAND_GIRLS_04_1200x1800_5998fa7c-4f82-49d3-b4d0-212fd68766db.webp?v=1781071290
-    Price: AED 200.00 AED
-  - [13-14 years / Mocha Mousse](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752242405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_MOCHA_MOUSE_GIRLS_02_1200x1800_65c2aca1-651b-46e9-bd9c-db6429619edc.webp?v=1781071318
-    Price: AED 200.00 AED
-  - [13-14 years / Charcoal](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752275173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_CHARCOAL_GIRLS_04_1200x1800_79fbe079-5637-4b72-972d-a9574a7e1dd9.webp?v=1781071215
-    Price: AED 200.00 AED
-  - [13-14 years / Glacier](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752307941)
+  - [Glacier / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee?variant=49509752307941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
 - [Marshall Relaxed Shorts](https://gcc.seissense.com/products/marshall-relaxed-shorts): Shorts that blend relaxed design with high-performance features. The MARSHALL Relaxed Shorts are crafted from a soft Supima cotton and modal blend to provide comfort, breathability, and effortless movement. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable during workouts, lounging, or daily activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a relaxed, comfortable fit. Suitable for both Boys and Girls – Available for 3-14 Years
-  Updated: 2026-10-04T09:11:13Z
+  Updated: 2026-10-13T06:03:46Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_DRIFTWOOD_BOYS_04_1200x1800_e3f3cd1b-8db2-4433-beb0-f6378914b77d.webp?v=1781071436
-  - [Sand / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769445605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
-  - [Sand / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769707749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
-  - [Sand / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769969893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
-  - [Sand / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770232037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
-  - [Sand / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770494181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
-  - [Sand / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770756325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
-    Price: AED 160.00 AED
   - [Driftwood / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769478373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_DRIFTWOOD_BOYS_02_1200x1800_e19678b5-835b-4713-ba3d-cbd37d7525f2.webp?v=1781071436
@@ -425,6 +401,30 @@
   - [Driftwood / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770789093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_DRIFTWOOD_BOYS_02_1200x1800_e19678b5-835b-4713-ba3d-cbd37d7525f2.webp?v=1781071436
+    Price: AED 160.00 AED
+  - [Sand / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769445605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
+    Price: AED 160.00 AED
+  - [Sand / 5-6 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769707749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
+    Price: AED 160.00 AED
+  - [Sand / 7-8 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769969893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
+    Price: AED 160.00 AED
+  - [Sand / 9-10 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770232037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
+    Price: AED 160.00 AED
+  - [Sand / 11-12 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770494181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
+    Price: AED 160.00 AED
+  - [Sand / 13-14 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509770756325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SAND_BOYS_02_1200x1800_ab4594bb-1e02-4a12-be38-9c6184ac8627.webp?v=1781071444
     Price: AED 160.00 AED
   - [Willow / 3-4 years](https://gcc.seissense.com/products/marshall-relaxed-shorts?variant=49509769511141)
     Availability: Available
@@ -571,62 +571,62 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SUMMER_SUN_BOYS_02_1200x1800_3df7a8a0-1a8e-4748-a14a-710a2f7247d4.webp?v=1781071436
     Price: AED 160.00 AED
 - [Kids UV Hoodie](https://gcc.seissense.com/products/kids-uv-hoodie): A kids hoodie that blends sleek design with high-performance features. The UV Hoodie is crafted from recycled fibers to provide comfort, flexibility, and sustainability in every movement. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable and fresh during workouts or outdoor activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance while protecting the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, cooling power, and built-in UV protection. The hoodie is made from recycled fibers for a sustainable, eco-conscious choice. Suitable for both Boys and Girls – Available for 3-14 Years
-  Updated: 2026-10-04T09:11:13Z
+  Updated: 2026-10-13T06:25:42Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_01_1200x1800_8bc0b6ae-5563-437d-b319-880cc8296461.webp?v=1781071468
-  - [3-4 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783142629)
+  - [Sand / 3-4 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783142629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
-  - [5-6 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783175397)
+  - [Sand / 5-6 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783175397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
-  - [7-8 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783208165)
+  - [Sand / 7-8 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783208165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
-  - [9-10 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783240933)
+  - [Sand / 9-10 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783240933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
-  - [11-12 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783273701)
+  - [Sand / 11-12 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783273701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
-  - [13-14 years / Sand](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783306469)
+  - [Sand / 13-14 years](https://gcc.seissense.com/products/kids-uv-hoodie?variant=49509783306469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 189.00 AED
 - [Kids Jogger](https://gcc.seissense.com/products/kids-jogger): The jogger that blends comfort with high-performance features. The Kids Jogger is crafted from a soft Supima cotton and modal blend to provide all-day comfort, breathability, and flexibility for active kids. The lightweight fabric offers moisture-wicking and quick-dry technology to keep little ones fresh and comfortable during play, sports, or everyday activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, the fabric delivers antimicrobial protection, odour control, UV refraction, faster drying, cooling power, and four-way stretch for ease of movement and a comfortable fit. Suitable for both Boys and Girls – Available for 3-14 Years
-  Updated: 2026-10-04T09:11:14Z
+  Updated: 2026-10-13T06:25:43Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
-  - [3-4 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786550501)
+  - [Sand / 3-4 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786550501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
-  - [5-6 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786583269)
+  - [Sand / 5-6 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786583269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
-  - [7-8 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786616037)
+  - [Sand / 7-8 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786616037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
-  - [9-10 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786648805)
+  - [Sand / 9-10 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786648805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
-  - [11-12 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786681573)
+  - [Sand / 11-12 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786681573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
-  - [13-14 years / Sand](https://gcc.seissense.com/products/kids-jogger?variant=49509786714341)
+  - [Sand / 13-14 years](https://gcc.seissense.com/products/kids-jogger?variant=49509786714341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
@@ -693,7 +693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012632MarisotFittedJacketCharcoal_02_1200x1800_b4dba620-cffd-4044-8017-6edcb8a8374a.jpg?v=1781071552
     Price: AED 400.00 AED
 - [Takashi Jacket](https://gcc.seissense.com/products/takashi-jacket): A modern jacket built for performance and everyday wear.Made from recycled fibers, viscose and elastane with FUZE™ technology, the Takashi is designed for training and casual wear alike. Moisture-wicking fabric keeps you fresh through the session, and quick-dry performance means it's ready to wear again sooner. Recycled fibers, viscose and elastane — Comfort, stretch and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control UV refraction — Extra protection outdoors Quick-dry — Fresh and ready faster Durable construction — Built to hold up wear after wear Perfect for: Training, casual wear, layering, everyday useMaterials: Recycled fibers, viscose, elastane with FUZE™ 
-  Updated: 2026-10-04T09:11:30Z
+  Updated: 2026-10-12T08:40:48Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -727,7 +727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012643TakashiJacketClay_2_1200x1800_9fee267f-6ee9-4398-82e1-07f29cbd76e7.webp?v=1781071594
     Price: AED 430.00 AED
 - [Carter Shorts](https://gcc.seissense.com/products/carter-shorts): Durable training shorts built for performance and everyday wear. Made from recycled fibers and elastane with a ripstop structure, the Carter is designed for training and outdoor activity that demands durability. FUZE™ technology keeps them fresh through every session, and quick-dry fabric means less time waiting between wears. Recycled fibers and elastane — Comfort and sustainability together Ripstop fabric — Built to handle wear and tear FUZE™ technology — Antimicrobial protection and odour control Quick-dry — Ready again sooner UV refraction — Added protection outdoors Perfect for: Training, outdoor activity, everyday wear Materials: Recycled fibers and elastane, ripstop structure with FUZE™ treatmentDisclaimer: The top worn by the model is not yet launched.
-  Updated: 2026-10-04T09:11:30Z
+  Updated: 2026-10-11T06:10:10Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -823,7 +823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012672FrancisActiveTeeCharcoal_02_1200x1800_85ef204a-2fd0-4365-b868-6d50355c1446.webp?v=1781071704
     Price: AED 170.00 AED
 - [Hirst Running Slim Fit Short Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-short-sleeve-tee): A slim-fit running tee built for the miles that matter.Made from recycled fibers and elastane, the Hirst Short Sleeve is designed for runners who want stretch without extra weight. The slim fit stays out of the way on every stride, and moisture-wicking fabric pulls sweat away on hot runs. Available in a vibrant colour collection with six bold colourways. Recycled fibers and elastane — Stretch and sustainability together Slim fit — Aerodynamic without restricting the stride Moisture-wicking — Manages sweat on hot runs Short sleeve — Lightweight coverage for warmer sessions Six colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, warm weather sessionsMaterials: Recycled fibers and elastane
-  Updated: 2026-10-04T09:11:17Z
+  Updated: 2026-10-13T06:27:30Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -997,7 +997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012673_Hirst_Short_Sleeve_Tee_Dark_Suntan_01.jpg?v=1781071784
     Price: AED 160.00 AED
 - [Hirst Running Slim Fit Long Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-long-sleeve-tee): A slim-fit running tee built for full coverage on every run.Made from recycled fibers and elastane, the Hirst Long Sleeve delivers a second-skin fit that never restricts your stride. Moisture-wicking fabric manages sweat over distance, and long sleeves add coverage for cooler conditions. Available in vibrant colours. Recycled fibers and elastane — Stretch and sustainability in one fabric Slim fit — Close to the body without restricting movement Moisture-wicking — Manages sweat on long runs Long sleeve — Full arm coverage for cooler conditions Vibrant colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, cooler weatherMaterials: Recycled fibers and elastane
-  Updated: 2026-10-04T09:11:17Z
+  Updated: 2026-10-13T06:27:31Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1143,7 +1143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012674_Hirst_Long_Sleeve_Tee_Dark_Suntan_02.jpg?v=1781071852
     Price: AED 180.00 AED
 - [Jackson Mid Impact Bra](https://gcc.seissense.com/products/jackson-mid-impact-bra-1): A mid-impact bra built for the sessions that ask more.Made from recycled nylon and elastane with FUZE™ technology, the Jackson delivers support and four-way stretch for mid-impact training. Moisture-wicking fabric keeps you fresh and supported through every rep. Recycled nylon and elastane — Support and sustainability together FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Unrestricted movement during training Moisture-wicking — Keeps you fresh and supported Quick-dry — Comfortable from warm-up to cool-down Perfect for: Mid-impact training, HIIT, cyclingMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-10-04T09:44:56Z
+  Updated: 2026-10-11T17:44:50Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126120_Morisot_Jacket_Charcoal_02_1200x1800_f047107b-de33-4267-bcf6-ac14d701d7af.webp?v=1781071893
     Price: AED 390.00 AED
 - [Nelson Sports Cap](https://gcc.seissense.com/products/nelson-sports-cap-1): A sports cap built to match everything you own.Made from recycled fibers, the Nelson has a structured front panel and adjustable back strap for a fit that actually works. Nine vibrant colourways that can be worn with any outfit. Recycled fibers — Sustainable construction from brim to strap Structured front panel — Holds its shape through use and wash Adjustable back strap — One size that actually fits Nine colourways — Core colours plus Valentine collection tones Unisex — Works for everyone Perfect for: Training, running, everyday wearMaterials: Recycled fibers
-  Updated: 2026-10-04T09:11:19Z
+  Updated: 2026-10-13T06:27:31Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
@@ -1281,7 +1281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Cobalt_Blue_Cap_01.jpg?v=1781071972
     Price: AED 100.00 AED
 - [Bernard Men's Tight](https://gcc.seissense.com/products/bernard-mens-tight-): Training tights that blend sleek design with high-performance features.Made from recycled fibers with FUZE™ technology, the Bernard tight fits close for support without holding you back. Moisture-wicking, quick-dry fabric moves sweat away fast, so you can push through every session without distraction. Can be worn on its own or layered underneath shorts. Recycled fibers — Performance without the environmental cost Side pocket — Sized to fit a phone Four-way stretch — Tested for stretch and recovery Reflective stripes — High visibility in low light Compression fit — Supportive without restricting FUZE™ technology — Antimicrobial protection and odour control Moisture-wicking and quick-dry — Faster drying and cooling PFAS-free — No forever chemicals against your skin UV refraction — Providing protection against UV effects Perfect for: Training, running, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:11:20Z
+  Updated: 2026-10-13T06:27:32Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1343,7 +1343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012607_Bernard_Tights_Cobalt_Blue_02.jpg?v=1781072055
     Price: AED 190.00 AED
 - [Granary Men's Basic Short](https://gcc.seissense.com/products/granary-mens-basic-short-x): The short you wear when you're not thinking about what to wear. The Granary Men's Basic Short is built from recycled fibers, lightweight and breathable, and comes in seven colourways including the Vibrant colours. Nothing complicated about it. Recycled fibers. Performance fabric that doesn't cost the environment. Lightweight and breathable. Stays comfortable through heat and intensity. FUZE™ technology. Antimicrobial and odour control throughout. Moisture-wicking. Stays dry whether you're training or just running errands. Elastic waist with drawcord. Secure and adjustable. PFAS-free. No forever chemicals against your skin. Seven colourways. Includes Fiery Red, Spicy Mustard, Cobalt Blue and more from the Vibrant collection. Perfect for: Training, running, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:11:21Z
+  Updated: 2026-10-13T06:27:33Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1517,7 +1517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012624_Granary_Basic_Short_Spicy_Mustard_02.jpg?v=1781072134
     Price: AED 200.00 AED
 - [Sense Zebra Reflective Running Leggings](https://gcc.seissense.com/products/sense-zebra-reflective-running-leggings): Reflective running leggings built to move and hold their shape.Made from recycled fibers and elastane with FUZE™ technology, the Sense Zebra is designed for runs and high-intensity training in low light. Four-way stretch and tested stretch-recovery keep the fit consistent wear after wear, while moisture-wicking fabric keeps you dry through the distance. Recycled fibers and elastane — Performance and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of movement Stretch-and-recovery tested — Holds its shape wear after wear Moisture-wicking — Manages sweat through the run Perfect for: Running, high-intensity training, low-light sessionsMaterials: Recycled fibers and elastane with FUZE™ 
-  Updated: 2026-10-04T09:11:21Z
+  Updated: 2026-10-12T09:25:08Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1711,7 +1711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
     Price: AED 230.00 AED
 - [Lail Compression Classic Legging](https://gcc.seissense.com/products/lail-compression-classic-legging): The legging that anchors the entire Lail collection.Made from recycled fibers with FUZE™ technology, the Lail Classic is full-length, high-waisted, and built for all-day comfort. It's the piece most people come back to, pairing exactly with the Lail Compression Bra for a complete, no-gap fit. Recycled fibers — Performance fabric with a lower footprint FUZE™ technology — Antimicrobial and odour control High waistband — Pairs exactly with the Lail Bra Moisture-wicking — Keeps you dry through every session PFAS-free — No forever chemicals against your skin Perfect for: Training, running, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:46Z
+  Updated: 2026-10-06T14:52:01Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1831,7 +1831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
     Price: AED 220.00 AED
 - [Signae Colour Blocked Cropped Legging](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging): A cropped legging built to stand out and hold up.Made from recycled fibers with FUZE™ technology, the Signae's abstract Charcoal and Granite panels give it a bold look built to perform from HIIT to yoga. Cropped length sits just below the knee for a capri silhouette. Abstract colour-blocked panels — In-house design in Charcoal and Granite Recycled fibers — Sustainable performance throughout FUZE™ technology — Antimicrobial and odour control Cropped length — Capri silhouette below the knee PFAS-free — No forever chemicals against your skin Perfect for: HIIT, yoga, studio trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:48Z
+  Updated: 2026-10-12T09:32:11Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1921,7 +1921,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
     Price: AED 430.00 AED
 - [Collagen Performance Tee](https://gcc.seissense.com/products/collagen-performance-tee): A performance tee with a story unlike anything else in activewear.Woven with collagen yarn sourced from the ocean floor, the Collagen Tee gets softer with every wash and actively supports skin while you wear it. FUZE™ technology and recycled fibers round out a fabric with a genuine point of difference. Collagen-infused yarn — Sourced from the ocean floor, softens with washing FUZE™ technology — Antimicrobial and odour control Recycled fibers — Performance with a lower footprint Moisture-wicking — Manages sweat through the session PFAS-free — No forever chemicals against your skin Perfect for: Training, everyday wearMaterials: Collagen-infused yarn with recycled fibers
-  Updated: 2026-10-04T09:12:50Z
+  Updated: 2026-10-08T15:46:56Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2047,7 +2047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
     Price: AED 300.00 AED
 - [Bayuda Crossover WB Legging](https://gcc.seissense.com/products/bayuda-crossover-wb-legging): A high-waist legging built to stay exactly in place.Made from recycled fibers with FUZE™ technology, the Bayuda's crossover waistband holds through every squat, lunge and downward dog without a readjust. Moisture-wicking and quick-dry fabric keeps you comfortable start to finish. Crossover waistband — High coverage that holds its position Recycled fibers — Performance fabric with a lower footprint FUZE™ technology — Antimicrobial and odour control Moisture-wicking and quick-dry — Comfortable warm-up to cool-down PFAS-free — No forever chemicals against your skin Perfect for: Training, yoga, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:50Z
+  Updated: 2026-10-06T14:52:02Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2251,7 +2251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
     Price: AED 250.00 AED
 - [Moreau Colour Block Legging](https://gcc.seissense.com/products/moreau-color-block-legging): A legging that makes its statement in panels, not colour.Made from recycled fibers with FUZE™ technology, the Moreau uses abstract colour-blocking across the leg for a design that stands apart from a standard training legging. The high waistband stays put through every movement. Abstract colour-blocked panels — A design that earns a second look Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control High waistband — Stays in place through every movement PFAS-free — No forever chemicals against your skin Perfect for: Gym training, studio sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:51Z
+  Updated: 2026-10-11T06:09:40Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2281,7 +2281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
     Price: AED 280.00 AED
 - [Matisse Compression Top With Rib](https://gcc.seissense.com/products/matisse-compression-top-with-rib): A compression top designed to sit exactly where it should.Made from recycled fibers with FUZE™ technology, the Matisse aligns precisely with the Henri Compression Legging waistband, so there's no gap and nothing to readjust mid-session. Ribbed texture adds visual structure while keeping full stretch. Waistband-aligned design — Pairs precisely with the Henri Compression Legging line Ribbed texture — Visual structure, full stretch retained Recycled fibers — Sustainable construction throughout FUZE™ technology — Antimicrobial and odour control PFAS-free — No forever chemicals against your skin Perfect for: Training, studio sessions, layeringMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:52Z
+  Updated: 2026-10-11T06:09:40Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2682,267 +2682,237 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
     Price: AED 200.00 AED
-- [Bayuda Oversized Tee](https://gcc.seissense.com/products/bayuda-oversized-tee): The oversized tee you never take off.Made from recycled fibers with FUZE™ technology, the Bayuda is relaxed enough for the sofa and built well enough for the session. Moisture-wicking fabric works through the workout, not just after it. The drop-tail hem stops the shirt from riding up or exposing your lower back when you bend over, squat, stretch, or lift your arms overhead. Relaxed oversized fit — Drapes well, doesn't cling Drop-tail hem — Stays in place during squats or pull-ups Recycled fibers — Feels good, does less damage getting here FUZE™ technology — Antimicrobial and odour control post-session Moisture-wicking — Works through the workout PFAS-free — No forever chemicals against your skin Perfect for: Post-training, everyday wear, travelMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-04T09:12:55Z
-  Vendor: Seissense
-  Product Type: Women
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-  - [Granite / XS](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509892948197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-  - [Granite / S](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509892980965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-  - [Granite / M](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509893013733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-  - [Granite / L](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509893046501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-  - [Granite / XL](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509893079269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-  - [Granite / XXL](https://gcc.seissense.com/products/bayuda-oversized-tee?variant=49509893112037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/82_SEIW012518_BAYUDA-OVERSIZED-TEE_GRANITE_1.jpg?v=1781073398
-    Price: AED 300.00 AED
-[List Continued](https://gcc.seissense.com/a/llms-agent/llms.txt?shop=seissense-gcc.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjQyNDI0NDM0OTE3LCJsYXN0X3ZhbHVlIjoiOTY0MjQyNDQzNDkxNyJ9)
+[List Continued](https://gcc.seissense.com/a/llms-agent/llms.txt?shop=seissense-gcc.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjQyNDIzMzUzNTczLCJsYXN0X3ZhbHVlIjoiOTY0MjQyMzM1MzU3MyJ9)
 
 ## Collections
 
-- [100% Organic Cotton | Women](https://gcc.seissense.com/collections/100-organic-cotton-women)
-  Updated: 2026-09-23T05:57:40Z
+- [100% Organic Cotton | Women](https://gcc.seissense.com/collections/100-organic-cotton-women): Women's activewear and everyday basics in 100% organic cotton. Soft, breathable. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Summer Collection](https://gcc.seissense.com/collections/summer-collection)
-  Updated: 2026-10-05T11:22:05Z
+- [Summer Collection](https://gcc.seissense.com/collections/summer-collection): The Seissense summer collection: lightweight, breathable pieces for the Gulf. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 46
-- [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women)
-  Updated: 2026-09-23T05:57:40Z
+- [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women): Women's activewear and basics in soft organic cotton-blend fabrics. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Natural fibers | Women](https://gcc.seissense.com/collections/natural-fibers-women)
-  Updated: 2026-09-23T05:57:40Z
+- [Natural fibers | Women](https://gcc.seissense.com/collections/natural-fibers-women): Women's activewear made with natural fibres for a soft, breathable feel. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Collagen-infused yarn | Women](https://gcc.seissense.com/collections/collagen-infused-yarn-women)
-  Updated: 2026-09-24T05:34:24Z
+- [Collagen-infused yarn | Women](https://gcc.seissense.com/collections/collagen-infused-yarn-women): Women's activewear made with collagen-infused yarn. Shop Seissense online with fast delivery across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Recycled fibers | Women](https://gcc.seissense.com/collections/recycled-fibers-women)
-  Updated: 2026-09-24T05:34:44Z
+- [Recycled fibers | Women](https://gcc.seissense.com/collections/recycled-fibers-women): Women's activewear made from recycled fibres, built to perform and last. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 10
-- [Organic cotton-blend | Men](https://gcc.seissense.com/collections/organic-cotton-blend-men)
-  Updated: 2026-09-24T05:34:43Z
+- [Organic cotton-blend | Men](https://gcc.seissense.com/collections/organic-cotton-blend-men): Men's activewear and everyday basics in soft organic cotton-blend fabrics. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Natural fibers | Men](https://gcc.seissense.com/collections/natural-fibers-men)
-  Updated: 2026-09-23T05:57:41Z
+- [Natural fibers | Men](https://gcc.seissense.com/collections/natural-fibers-men): Men's activewear made with natural fibres for a soft, breathable feel. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 1
-- [Recycled fibers | Men](https://gcc.seissense.com/collections/recycled-fibers-men)
-  Updated: 2026-09-24T05:34:43Z
+- [Recycled fibers | Men](https://gcc.seissense.com/collections/recycled-fibers-men): Men's activewear made from recycled fibres, built to perform and last. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 1
-- [PFAS-free | Women](https://gcc.seissense.com/collections/pfas-free-women)
-  Updated: 2026-09-28T11:22:09Z
+- [PFAS-free | Women](https://gcc.seissense.com/collections/pfas-free-women): Women's activewear made without PFAS forever chemicals. Performance you can feel good about. Fast delivery across the GCC.
+  Updated: 2026-10-10T11:24:24Z
   Total Products: 2
-- [PFAS-free | Men](https://gcc.seissense.com/collections/pfas-free-men)
-  Updated: 2026-09-24T05:34:43Z
+- [PFAS-free | Men](https://gcc.seissense.com/collections/pfas-free-men): Men's activewear made without PFAS forever chemicals. Performance you can feel good about. Fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Bamboo | Women](https://gcc.seissense.com/collections/bamboo-women)
-  Updated: 2026-09-24T05:34:39Z
+- [Bamboo | Women](https://gcc.seissense.com/collections/bamboo-women): Soft, breathable women's activewear and basics made with bamboo fibres. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:58Z
   Total Products: 0
-- [Bamboo | Men](https://gcc.seissense.com/collections/bamboo-men)
-  Updated: 2026-09-24T05:34:39Z
+- [Bamboo | Men](https://gcc.seissense.com/collections/bamboo-men): Soft, breathable men's activewear and basics made with bamboo fibres. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:59Z
   Total Products: 0
-- [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women)
-  Updated: 2026-10-05T11:22:05Z
+- [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women): Seissense activewear treated with FUZE technology, built to perform. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 47
-- [Shop The Look](https://gcc.seissense.com/collections/shop-the-look)
-  Updated: 2026-09-24T05:34:44Z
+- [Shop The Look](https://gcc.seissense.com/collections/shop-the-look): Complete Seissense outfits styled for training, running and everyday wear. Shop the look with fast delivery across the GCC.
+  Updated: 2026-10-07T03:57:59Z
   Total Products: 8
-- [New In](https://gcc.seissense.com/collections/new-in): The latest drop from Seissense. Fresh styles, core colours, designed to move.
-  Updated: 2026-10-05T11:22:05Z
+- [New In](https://gcc.seissense.com/collections/new-in): Shop the latest Seissense drop: fresh activewear in core colours, built to move. Fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 81
-- [All Women](https://gcc.seissense.com/collections/all-women): Every Seissense piece for women — activewear, loungewear, swim and more.
-  Updated: 2026-10-05T11:22:05Z
+- [All Women](https://gcc.seissense.com/collections/all-women): Shop women's activewear: leggings, sports bras, shorts, hoodies and more. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 106
-- [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Compression and high-stretch leggings built for training, running and everyday movement.
-  Updated: 2026-10-02T11:23:53Z
+- [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Women's gym leggings, joggers and bottoms for training, running and yoga. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 15
-- [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Low to high impact sports bras with supportive compression fits.
-  Updated: 2026-09-28T11:22:09Z
+- [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Sports bras for training, running and yoga. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 9
-- [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Lightweight tanks for training, yoga and warm-weather days.
-  Updated: 2026-09-30T11:24:00Z
+- [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Women's tank tops for training, yoga and hot days. Light, breathable and easy to layer. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 8
-- [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts): Training and everyday shorts with breathable stretch.
-  Updated: 2026-10-04T11:24:31Z
+- [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts): Women's gym and running shorts in breathable stretch fabric, from bike shorts to relaxed fits. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-08T11:27:10Z
   Total Products: 8
-- [Women's Joggers & Pants](https://gcc.seissense.com/collections/womens-joggers-pants): Joggers and relaxed pants for lounge, travel and everyday wear.
-  Updated: 2026-09-23T05:57:42Z
+- [Women's Joggers & Pants](https://gcc.seissense.com/collections/womens-joggers-pants): Women's joggers and relaxed pants for lounging, travel and every day. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-11T11:23:55Z
   Total Products: 4
-- [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Maxis, midis and kaftans — effortless silhouettes in breathable fabrics.
-  Updated: 2026-10-05T11:22:05Z
+- [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Kaftans and maxi dresses for everyday wear and warm weather. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 12
-- [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Hoodies, sweaters and half zips for cooler evenings and layering.
-  Updated: 2026-09-23T05:57:42Z
+- [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Women's hoodies, sweaters and half zips for cooler evenings and layering. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-11T11:23:55Z
   Total Products: 6
-- [Women's Jackets & Vests](https://gcc.seissense.com/collections/womens-jackets-vests): Bombers, vests and performance jackets for layering.
-  Updated: 2026-10-04T11:24:31Z
+- [Women's Jackets & Vests](https://gcc.seissense.com/collections/womens-jackets-vests): Women's bomber jackets, vests and performance jackets for layering. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 7
-- [Women's Swimwear](https://gcc.seissense.com/collections/womens-swimwear): Swim bras, bottoms and one pieces in ECONYL® recycled fibers.
-  Updated: 2026-09-28T11:22:09Z
+- [Women's Swimwear](https://gcc.seissense.com/collections/womens-swimwear): Women's swimwear for the beach, the pool and time on the water. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 11
-- [All Men](https://gcc.seissense.com/collections/all-men): Every Seissense piece for men — training, running and lounge.
-  Updated: 2026-10-04T11:24:31Z
+- [All Men](https://gcc.seissense.com/collections/all-men): Shop men's activewear: shorts, tees, tights, hoodies and jackets. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 45
-- [Kids](https://gcc.seissense.com/collections/kids): Sustainable, PFAS-free essentials for kids who move.
-  Updated: 2026-09-28T05:33:03Z
+- [Kids](https://gcc.seissense.com/collections/kids): Kids' activewear: tees, shorts, joggers and a UV hoodie. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 7
-- [All Accessories](https://gcc.seissense.com/collections/all-accessories): Socks, beanies, scarves, towels and yoga mats — the finishing touches.
-  Updated: 2026-10-04T11:24:31Z
+- [All Accessories](https://gcc.seissense.com/collections/all-accessories): Gym socks, beanies, scarves, towels and yoga mats. The finishing touches. Shop Seissense with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 20
-- [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Compression fits and supportive layers built for the gym.
-  Updated: 2026-10-02T11:23:53Z
+- [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Women's gym and training clothes: leggings, sports bras, shorts and tops. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 33
-- [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Soft, flexible fits for yoga, pilates and low-impact movement.
-  Updated: 2026-10-03T11:26:27Z
+- [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Women's yoga and pilates clothes: leggings, sports bras and tops for studio sessions. Free shipping across the GCC.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 32
-- [Women's Running](https://gcc.seissense.com/collections/womens-running): Reflective details, compression support and breathable layers for every run.
-  Updated: 2026-10-03T11:26:27Z
+- [Women's Running](https://gcc.seissense.com/collections/womens-running): Women's running clothes: leggings, shorts, tops and jackets, including reflective styles. Free shipping across the GCC.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 36
-- [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Soft loungewear sets, dresses and easy layers for downtime.
-  Updated: 2026-10-05T11:22:05Z
+- [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Women's loungewear for rest days, travel and time at home. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 28
-- [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Performance training gear engineered for the gym, the mat and everything in between.
-  Updated: 2026-10-04T11:24:31Z
+- [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Men's gym and training clothes: shorts, tees, tights and layers. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 14
-- [Men's Running](https://gcc.seissense.com/collections/mens-running): Technical running gear built for speed, endurance and the heat of Bahrain.
-  Updated: 2026-10-04T11:24:31Z
+- [Men's Running](https://gcc.seissense.com/collections/mens-running): Men's running clothes: shorts, tights, tops and jackets, including reflective styles. Free shipping across the GCC.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 21
-- [Men's Yoga](https://gcc.seissense.com/collections/mens-yoga): Flexible, breathable pieces designed to move with you through every pose and stretch.
-  Updated: 2026-10-04T11:24:31Z
+- [Men's Yoga](https://gcc.seissense.com/collections/mens-yoga): Men's yoga and stretch wear in flexible, breathable fabric. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 16
-- [All Products](https://gcc.seissense.com/collections/all-products): The full Seissense range — activewear, loungewear, swim, kids and accessories.
-  Updated: 2026-10-05T11:22:05Z
+- [All Products](https://gcc.seissense.com/collections/all-products): Shop Seissense activewear for men, women and kids. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 187
-- [Men's Hoodies & Half Zips](https://gcc.seissense.com/collections/mens-hoodies-half-zips-1): Lightweight hoodies and technical half zips designed to layer up without slowing you down.
-  Updated: 2026-09-28T11:22:09Z
+- [Men's Hoodies & Half Zips](https://gcc.seissense.com/collections/mens-hoodies-half-zips-1): Men's hoodies and half-zip tops for warm-ups and relaxed days. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 4
-- [Men's Jackets](https://gcc.seissense.com/collections/mens-jackets): Technical outerwear built for Bahrain's climate and beyond. From performance jackets to windbreakers.
-  Updated: 2026-09-24T05:34:43Z
+- [Men's Jackets](https://gcc.seissense.com/collections/mens-jackets): Men's performance jackets and windbreakers built for Gulf conditions. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-09T11:25:35Z
   Total Products: 3
-- [Men's Swim](https://gcc.seissense.com/collections/mens-swim): Recycled swim shorts and UV shirts crafted for the pool, the sea and the GCC sun.
-  Updated: 2026-09-24T05:34:42Z
+- [Men's Swim](https://gcc.seissense.com/collections/mens-swim): Men's swim shorts for the beach, the pool and time on the water. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 2
-- [Caps & Beanies](https://gcc.seissense.com/collections/caps-beanies): Sport caps and beanies built for training, running and everything the elements throw at you.
-  Updated: 2026-10-04T11:24:31Z
+- [Caps & Beanies](https://gcc.seissense.com/collections/caps-beanies): Sports caps and beanies for training, running and everyday wear. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:57:24Z
   Total Products: 5
-- [Socks](https://gcc.seissense.com/collections/socks): Bamboo-blend and performance socks in the core Seissense palette. Designed for training, running and everyday wear.
-  Updated: 2026-10-03T11:26:27Z
+- [Socks](https://gcc.seissense.com/collections/socks): Gym and sports socks for training, running and everyday wear. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 8
-- [Bags & Towels](https://gcc.seissense.com/collections/bags-towels): Performance towels and carry bags made for the gym, the pool and travel.
-  Updated: 2026-09-26T12:26:48Z
+- [Bags & Towels](https://gcc.seissense.com/collections/bags-towels): Gym bags and towels for training, travel and the pool. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:57:24Z
   Total Products: 4
-- [Best Seller](https://gcc.seissense.com/collections/best-seller)
-  Updated: 2026-10-05T11:22:05Z
+- [Best Seller](https://gcc.seissense.com/collections/best-seller): Seissense's best- activewear, picked by our customers. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 4
-- [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): Our most-loved dresses, from flowing maxis to elegant kaftans. Crafted in sustainable fabrics for the modern GCC woman.
-  Updated: 2026-09-23T05:57:43Z
+- [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): The Dress Edit: our most-loved kaftans and maxi dresses in sustainable fabrics. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 5
-- [Women's Jacket & Hoodies](https://gcc.seissense.com/collections/womens-outerwear): Hoodies, sweaters, jackets and vests for every layer.
-  Updated: 2026-10-04T11:24:31Z
+- [Women's Jacket & Hoodies](https://gcc.seissense.com/collections/womens-outerwear): Women's hoodies and jackets for training, warm-ups and cooler days. Free shipping across the GCC.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 11
-- [Men's Jacket & Hoodies](https://gcc.seissense.com/collections/mens-outerwear): Hoodies, half zips and jackets for every condition.
-  Updated: 2026-09-28T11:22:09Z
+- [Men's Jacket & Hoodies](https://gcc.seissense.com/collections/mens-outerwear): Men's hoodies and training jackets for warm-ups, travel and cooler days. Free shipping across the GCC.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 10
-- [Men's Swim & Lounge](https://gcc.seissense.com/collections/mens-swim-lounge): Swim shorts and lounge essentials for rest and recovery.
-  Updated: 2026-09-23T05:57:43Z
+- [Men's Swim & Lounge](https://gcc.seissense.com/collections/mens-swim-lounge): Men's swim shorts and lounge essentials for rest and recovery. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:58:31Z
   Total Products: 5
-- [Best Sellers](https://gcc.seissense.com/collections/best-sellers): Our most-loved pieces — tried, tested and trusted by the Seissense community.
-  Updated: 2026-10-05T11:22:05Z
+- [Best Sellers](https://gcc.seissense.com/collections/best-sellers): The Seissense best sellers: most-loved pieces, tried and trusted by customers. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 13
-- [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): From pool to shore — swimwear, rashguards and beach essentials for the GCC summer.
-  Updated: 2026-09-28T11:22:09Z
+- [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): Swimwear, rashguards and beach essentials for the Gulf summer. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-09T11:25:35Z
   Total Products: 15
-- [The Lounge](https://gcc.seissense.com/collections/the-lounge): Effortless pieces for in between — tracksuits, dresses, hoodies and everything made for slow days done right.
-  Updated: 2026-10-05T11:22:05Z
+- [The Lounge](https://gcc.seissense.com/collections/the-lounge): The Lounge: tracksuits, dresses and hoodies for slow days done right. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 22
-- [Run Collection](https://gcc.seissense.com/collections/run-collection): Built for pace — performance tees, leggings, shorts and windbreakers for men and women who run.
-  Updated: 2026-10-04T11:24:31Z
+- [Run Collection](https://gcc.seissense.com/collections/run-collection): Running clothes for men and women: performance tees, leggings, shorts and windbreakers. Shop Seissense with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 15
-- [Men's Tees & Tanks](https://gcc.seissense.com/collections/mens-tees-tanks)
-  Updated: 2026-10-04T11:24:31Z
+- [Men's Tees & Tanks](https://gcc.seissense.com/collections/mens-tees-tanks): Men's gym tees, compression tops and tank tops for training. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 11
-- [Women's Tees & Tanks](https://gcc.seissense.com/collections/womens-tees-tanks)
-  Updated: 2026-10-04T11:24:31Z
+- [Women's Tees & Tanks](https://gcc.seissense.com/collections/womens-tees-tanks): Women's gym and training tees and tank tops. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:58:47Z
   Total Products: 13
-- [Men's Lounge](https://gcc.seissense.com/collections/mens-lounge-1)
-  Updated: 2026-09-23T05:57:44Z
+- [Men's Lounge](https://gcc.seissense.com/collections/mens-lounge-1): Men's loungewear for rest days, travel and time at home. Free shipping across the GCC, duties and taxes included.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 2
-- [Bundle & Sets](https://gcc.seissense.com/collections/bundles-sets): Discover curated bundles designed for performance, comfort, and value. Shop complete outfits and essential sets built for training, travel, and everyday wear.
-  Updated: 2026-09-24T05:34:44Z
+- [Bundle & Sets](https://gcc.seissense.com/collections/bundles-sets): Activewear bundles and complete sets for training, travel and every day. Shop Seissense with fast delivery across the GCC.
+  Updated: 2026-10-07T03:58:47Z
   Total Products: 0
-- [Women Summer Collection](https://gcc.seissense.com/collections/women-summer-collection)
-  Updated: 2026-10-04T11:24:31Z
+- [Women Summer Collection](https://gcc.seissense.com/collections/women-summer-collection): Women's summer collection: light, breathable styles for the Gulf summer. Shop Seissense online with fast delivery across the GCC.
+  Updated: 2026-10-09T11:25:35Z
   Total Products: 15
-- [Women New In](https://gcc.seissense.com/collections/women-new-in)
-  Updated: 2026-10-04T11:24:31Z
+- [Women New In](https://gcc.seissense.com/collections/women-new-in): The latest women's activewear and loungewear from Seissense. Shop new arrivals online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 29
-- [New Arrivals](https://gcc.seissense.com/collections/active-essesntials)
-  Updated: 2026-10-04T11:24:31Z
+- [New Arrivals](https://gcc.seissense.com/collections/active-essesntials): Shop the newest Seissense arrivals: active essentials for men and women. Fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 25
-- [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals)
-  Updated: 2026-10-04T11:24:31Z
+- [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals): The newest women's activewear arrivals from Seissense. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 13
-- [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals)
-  Updated: 2026-10-04T11:24:31Z
+- [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals): The newest men's activewear arrivals from Seissense. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 9
-- [Buy 2 Get 1 – Men](https://gcc.seissense.com/collections/buy-2-get-1-men): The Ultimate Wardrobe Upgrade: Buy 2, Get 1 FREE! Refresh your daily rotation without breaking the bank. Dive into our Exclusive Selection of premium men's essentials, tailored fits, and versatile styles. Mix, match, and level up your look. Add any 3 items to your cart, and the lowest-priced item is automatically free at checkout!
-  Updated: 2026-10-03T11:26:27Z
+- [Buy 2 Get 1 – Men](https://gcc.seissense.com/collections/buy-2-get-1-men): Add any 3 men's pieces and the lowest-priced one is free at checkout. Shop Seissense men's essentials with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 33
-- [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): The Style Edit You Deserve: Buy 2, Get 1 FREE! Treat yourself to the ultimate closet refresh. Explore our Exclusive Selection of stunning silhouettes, must-have statement pieces, and everyday favorites hand-picked just for you. Mix and match your top 3 picks, and watch the third one drop to £0 instantly at checkout!
-  Updated: 2026-10-05T11:22:05Z
+- [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): Add any 3 women's pieces and the lowest-priced one is free at checkout. Shop Seissense with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 69
-- [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Because you deserve the best. We’ve hand-crafted a special Exclusive Selection of premium items available only to our insiders. Explore this unique collection today and secure your favorites before the offer expires.
-  Updated: 2026-10-05T11:22:05Z
+- [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Add any 3 pieces and the lowest-priced one is free at checkout. Shop the Seissense offer before it ends.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 88
-- [Best  Products](https://gcc.seissense.com/collections/best--products)
-  Updated: 2026-10-05T11:22:05Z
+- [Best  Products](https://gcc.seissense.com/collections/best--products): Best- Seissense products across activewear, loungewear, swim and accessories. Fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 187
-- [Newest Products](https://gcc.seissense.com/collections/newest-products)
-  Updated: 2026-10-05T11:22:05Z
+- [Newest Products](https://gcc.seissense.com/collections/newest-products): The newest Seissense products across activewear, loungewear, swim and accessories. Fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 187
-- [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products)
-  Updated: 2026-07-26T05:42:13Z
+- [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products): Featured Seissense pieces picked for performance and style. Shop online with fast delivery across the GCC.
+  Updated: 2026-10-07T03:58:47Z
   Total Products: 1
-- [Vacation With No More Forever Chemicals](https://gcc.seissense.com/collections/vacation-with-no-more-forever-chemicals): Vacation without compromise. Discover chlorine-resistant, non-toxic swimwear for men and women, thoughtfully designed to move effortlessly from ocean waves to poolside lounges.
-  Updated: 2026-09-28T11:22:09Z
+- [Vacation With No More Forever Chemicals](https://gcc.seissense.com/collections/vacation-with-no-more-forever-chemicals): Chlorine-resistant, non-toxic swimwear for men and women. From the sea to the pool. Shop Seissense with fast delivery across the GCC.
+  Updated: 2026-10-09T11:25:35Z
   Total Products: 12
-- [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts-1): Shop women's shorts built for training, running and everyday movement. From bike shorts to relaxed fits, every pair is made with breathable, flexible fabric designed to move with you — perfect for the gym, a run, or lounging in between.
-  Updated: 2026-10-04T11:24:31Z
+- [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts-1): Women's running, gym and bike shorts. Free shipping across the GCC with duties and taxes included.
+  Updated: 2026-10-12T17:57:22Z
   Total Products: 5
-- [Men's Shorts](https://gcc.seissense.com/collections/mens-shorts): Shop men's shorts for training, running and swim. Built from lightweight, breathable fabrics with performance stretch, these shorts are designed for the gym, the trail, the pool and everyday wear.
-  Updated: 2026-10-04T11:24:31Z
+- [Men's Shorts](https://gcc.seissense.com/collections/mens-shorts): Men's gym, running and training shorts. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
+  Updated: 2026-10-12T17:57:23Z
   Total Products: 8
-- [Sand](https://gcc.seissense.com/collections/sand)
-  Updated: 2026-10-05T11:22:05Z
+- [Sand](https://gcc.seissense.com/collections/sand): Shop Seissense pieces in Sand, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 41
-- [Granite](https://gcc.seissense.com/collections/granite)
-  Updated: 2026-10-05T11:22:05Z
+- [Granite](https://gcc.seissense.com/collections/granite): Shop Seissense pieces in Granite, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 50
-- [Willow](https://gcc.seissense.com/collections/willow)
-  Updated: 2026-10-05T11:22:05Z
+- [Willow](https://gcc.seissense.com/collections/willow): Shop Seissense pieces in Willow, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 39
-- [Driftwood](https://gcc.seissense.com/collections/driftwood)
-  Updated: 2026-10-05T11:22:05Z
+- [Driftwood](https://gcc.seissense.com/collections/driftwood): Shop Seissense pieces in Driftwood, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 43
-- [Glacier](https://gcc.seissense.com/collections/glacier)
-  Updated: 2026-10-05T11:22:05Z
+- [Glacier](https://gcc.seissense.com/collections/glacier): Shop Seissense pieces in Glacier, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 41
-- [Charcoal](https://gcc.seissense.com/collections/charcoal)
-  Updated: 2026-10-05T11:22:05Z
+- [Charcoal](https://gcc.seissense.com/collections/charcoal): Shop Seissense pieces in Charcoal, one of our six core colours. Activewear and basics with fast delivery across the GCC.
+  Updated: 2026-10-12T11:25:51Z
   Total Products: 96
 
 ## Blogs
@@ -2965,48 +2935,52 @@
 
 ## Store Pages
 
-- [Contact](https://gcc.seissense.com/pages/contact)
-  Updated: 2025-12-01T14:08:19Z
-- [About](https://gcc.seissense.com/pages/about)
-  Updated: 2026-05-11T12:53:37Z
-- [Why Every Move Matters](https://gcc.seissense.com/pages/why-every-move-matters)
-  Updated: 2026-05-12T10:06:31Z
-- [PFAS Free](https://gcc.seissense.com/pages/pfas-free)
-  Updated: 2026-05-13T07:18:33Z
-- [Better Cotton Initiative](https://gcc.seissense.com/pages/better-cotton-initiative)
-  Updated: 2026-05-13T08:15:20Z
-- [Our Core Six Colour's](https://gcc.seissense.com/pages/our-core-six-colours)
-  Updated: 2026-05-17T11:40:54Z
-- [Fuze Technology](https://gcc.seissense.com/pages/fuze-technology)
-  Updated: 2026-05-17T12:14:29Z
+- [Contact Us | Seissense](https://gcc.seissense.com/pages/contact): 
+  Updated: 2026-10-08T05:49:57Z
+- [About Seissense | Activewear Built for Movement](https://gcc.seissense.com/pages/about): 
+  Updated: 2026-10-08T05:49:57Z
+- [Why Every Move Matters: PFAS-Free & Recycled | Seissense](https://gcc.seissense.com/pages/why-every-move-matters): 
+  Updated: 2026-10-08T06:01:52Z
+- [PFAS-Free Activewear: What It Means | Seissense](https://gcc.seissense.com/pages/pfas-free): 
+  Updated: 2026-10-08T05:49:57Z
+- [Better Cotton Initiative | Seissense](https://gcc.seissense.com/pages/better-cotton-initiative): 
+  Updated: 2026-10-08T05:49:57Z
+- [Our Core Six Colours | Seissense](https://gcc.seissense.com/pages/our-core-six-colours): 
+  Updated: 2026-10-08T05:49:57Z
+- [FUZE Technology | Seissense](https://gcc.seissense.com/pages/fuze-technology): 
+  Updated: 2026-10-08T05:49:57Z
 - [Community](https://gcc.seissense.com/pages/community)
   Updated: 2026-05-24T05:30:51Z
 - [Community](https://gcc.seissense.com/pages/uae-storm-games)
   Updated: 2026-06-16T11:55:33Z
-- [Shipping and Delivery](https://gcc.seissense.com/pages/shipping-and-delivery)
-  Updated: 2026-06-15T16:47:09Z
-- [Returns and Refund](https://gcc.seissense.com/pages/returns-and-refund)
-  Updated: 2026-06-15T17:32:06Z
+- [Shipping & Delivery: Free Across the GCC | Seissense](https://gcc.seissense.com/pages/shipping-and-delivery): 
+  Updated: 2026-10-08T05:49:57Z
+- [Returns & Refunds | Seissense](https://gcc.seissense.com/pages/returns-and-refund): 
+  Updated: 2026-10-08T05:49:57Z
 - [Shared Wishlists](https://gcc.seissense.com/pages/shared-wishlists): .main-page-title, #MainContent h1 { display: none !important; }
   Updated: 2026-06-16T11:21:21Z
 - [My Wishlist](https://gcc.seissense.com/pages/wishlist): .main-page-title, #MainContent h1 { display: none !important; }
   Updated: 2026-06-16T11:21:21Z
-- [Mix and Match](https://gcc.seissense.com/pages/collection-bundle)
-  Updated: 2026-06-18T09:58:38Z
-- [Shop The Look](https://gcc.seissense.com/pages/shop-the-look)
-  Updated: 2026-07-28T06:15:17Z
-- [Look Books](https://gcc.seissense.com/pages/look-books)
-  Updated: 2026-08-27T10:26:22Z
+- [Mix and Match: Build Your Own Set | Seissense](https://gcc.seissense.com/pages/collection-bundle): 
+  Updated: 2026-10-08T05:49:57Z
+- [Shop The Look: Complete Outfits | Seissense](https://gcc.seissense.com/pages/shop-the-look): 
+  Updated: 2026-10-08T05:49:57Z
+- [Look Books | Seissense](https://gcc.seissense.com/pages/look-books): 
+  Updated: 2026-10-08T05:49:57Z
 - [snd26](https://gcc.seissense.com/pages/snd26)
   Updated: 2026-09-14T16:56:59Z
-- [Saudi National Day](https://gcc.seissense.com/pages/saudi-national-day)
-  Updated: 2026-09-16T07:26:19Z
+- [Saudi National Day | Seissense](https://gcc.seissense.com/pages/saudi-national-day): 
+  Updated: 2026-10-08T05:49:57Z
 - [test-snd26](https://gcc.seissense.com/pages/test-snd26)
   Updated: 2026-09-15T12:11:09Z
 - [Nourish Fund](https://gcc.seissense.com/pages/nourish-fund)
   Updated: 2026-10-03T05:25:18Z
 - [Wishlist](https://gcc.seissense.com/pages/wishlist-1)
   Updated: 2026-10-06T06:18:46Z
+- [FAQ](https://gcc.seissense.com/pages/faq)
+  Updated: 2026-10-08T06:33:53Z
+- [Recycled Materials](https://gcc.seissense.com/pages/recycled-materials)
+  Updated: 2026-10-08T06:44:57Z
 
 ## Policies
 
