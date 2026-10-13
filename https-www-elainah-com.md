@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-08-11T06:40:32Z
 - Contact Email: aldistributionmcr@gmail.com
-- Updated At: 2026-09-29T20:46:59.191Z
+- Updated At: 2026-10-13T00:00:31.058Z
 
 ## Products
 
@@ -93,7 +93,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5730.jpg?v=1744275851
     Price: £17.99 GBP
 - [Women Bodycon Popper Dress Front Open Button with Half Sleeves Short Pencil Tank Mini Club Party Tight Fit Dress/  Pencil Short White Dress](https://www.elainah.com/products/untitled-14sept_12-11): Women Body con Popper Dress Discover elegance and versatility with our Women's Body con Popper Dress, featuring a front open button design and half sleeves. This stylish dress combines practicality with sophistication, making it a perfect choice for any occasion. The body con fit accentuates your curves, ensuring a flattering silhouette that's both comfortable and chic. Key Features MATERIAL: Made from high-quality 50% Polyester/50%Elastane fabric, this dress is soft, breathable, stretchable, and comfortable to wear, ensuring a pleasant experience throughout the day. DESIGN: The front V neck, short sleeve, slim fit, little ribbed pattern, short length above the knee and a open front button detailing adds an elegant touch to the classic body con silhouette. OCCASION: Perfect for vacation, club, casual, everyday wear, going out, date night, dinner party, family photos, baby shower, office, etc. MODEL DETAILS: Model is 5ft 4in tall and wears size 8. COLOR: White MATCHING: This party mini body con white dress can be worn with your favourite heels, flat sandals, heeled sandals, platform sandals, wedge sandals, boots and more, or over a coat, jacket or denim. WASH CARE: Gentle machine wash.
-  Updated: 2026-09-23T15:08:06Z
+  Updated: 2026-10-11T18:01:32Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -148,7 +148,7 @@
     Availability: Available
     Price: £16.99 GBP
 - [Women's Pink Open Crochet Knit Jumper with Long Sleeve Cut-Out Design Blouse- Loose and Stylish Sweater Top/ Elegant Stylish Vintage Hollow Out Knit See Through Tee Shirt Summer Beach Cover Up  Sreetwear Party Club Shopping Outing Top Blouse Ladies](https://www.elainah.com/products/open-knit-jumper): Women Pink Open Crochet Knit Jumper with Long Sleeve Cut Out Knit Design. Elevate your wardrobe with our Women's Pink Open Crochet Knit Jumper, featuring a stylish long sleeve cut-out design. Crafted with an open knit pattern, this sweater offers a lightweight and chic appearance. Made from quality fabrics, 50% Cotton and 50% Acrylic. It provides exceptional comfort and breath ability. Key Features: Chic Design: Features a hollow out crochet knitted floral zigzag knitting pattern in a solid color, with its loose fit and V-neck design, drop shoulder with loose balloon sleeve. Comfortable Fabric: Made of quality cotton blend 50% Cotton & 50% Acrylic, lightweight, stretchy, skin-friendly, and soft for comfortable wear. Model Details: Model height is 5ft9" & wearing size 8. Colour: Pink. Versatile Styling: Ideal for layering or wearing alone, perfect for pairing with tank tops, camisoles, or shirts, along with leggings or jeans. This top jumper pairs effortlessly with jeans, shorts, skirts, or pants to create a casual, chic, and stylish look. Multi-Occasion: Suitable for various settings from daily wear to beach outings, street style, vacations, and poolside lounging. Fashionable Appeal: The crochet knit design adds a touch of fashion and allure, ideal for pairing with a camisole to prevent accidental exposure. Wide Range of Uses:* Perfect for both indoor and outdoor events including home wear, parties, holidays, travel, casual outings, shopping, and more. Enhance your wardrobe with this versatile and stylish crochet knit jumper, designed to keep you comfortable and fashionable in any setting. This description highlights the sweater's style, versatility, comfort, and suitability for various occasions, appealing to fashion-conscious individuals looking for both elegance and ease in their clothing choices.
-  Updated: 2026-09-23T15:08:07Z
+  Updated: 2026-10-06T19:23:41Z
   Vendor: ElainaUK
   Product Type: Top
   Availability: Available
@@ -194,7 +194,7 @@
     Availability: Available
     Price: £16.99 GBP
 - [Women's Pink Satin Pajama Sleepwear Set - Long Sleeves Soft Wedding Loungewear for All Seasons, Button Down 2-Piece Silk PJ Set, Bridal Nightwear/ color piping at collar edge summer all season night wear/Girls  Button Down Pjs with Pants Silky Lounge Pajama Set /Pyjamas Long Sleeve Button Down Set Satin Sleepwear Nightwear Loungewear](https://www.elainah.com/products/pink-satin-pj-set): Women’s Pink Satin Pyjama Sleepwear Set. Prepare for a luxurious night's sleep with our Pink Satin Pyjama Set. Crafted from quality satin, these pyjamas offer a comfortable fit and a sleek, stylish appearance. Ideal for indulging in self-care and relaxation, you'll wake up feeling refreshed and rejuvenated. Enhance your sleepwear collection with our satin pyjamas. Luxury Design: Includes a satin nightdress and dressing gown set with delicate design embellishments, chest pockets, long sleeve, lapel neck with perfect contrasted black colour piping at collar edge, sleeves, pant, full front placket opening and pocket edge. Material: Made from polyester, the satin fabric is soft, breathable, and lightweight, ensuring comfort in all seasons. Comfortable Fit: Features an elastic waistband on long pants for ease of wear and a lazy sleep experience. Versatility: Suitable for indoor wear and perfect for special occasions or relaxing moments at home. Ideal Gift: This classic satin pyjama set is fashionable and offers a silky, smooth touch that's super soft and skin-comfortable. It's an excellent gift choice for girlfriends, mums, wives, daughters, and sisters. Model Details: Model height is 5ft8" & wearing size 8. Colour: Pink. Upgrade your lounge-wear with this elegant and comfortable pink satin pyjama set, perfect for enjoying luxurious evenings and peaceful nights.
-  Updated: 2026-09-24T10:27:52Z
+  Updated: 2026-10-11T11:07:36Z
   Vendor: ElainaUK
   Product Type: Loungewear
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5590.jpg?v=1744275918
     Price: £24.99 GBP
 - [Women's Floral Print Layered Ruffle Hem Flowy Mini Dress - Long Sleeve Beach Dress with Front Tie Knot Design, Perfect for Casual Party Wear/ Coral red smoke dress perfect for Beach, Outdoor, Party, Cocktail, Wedding Guest, Dating, Vacation, Graduation Ceremony, Evening or Casual Daily Wear.](https://www.elainah.com/products/red-floral-mini-dress): This long sleeve floral mi This Red Floral Mini Dress features long sleeves and a vibrant red floral pattern, creating a chic and modern look. Made from high-quality materials, this dress is both comfortable and stylish, perfect for any occasion. The long sleeves provide extra coverage and the mini length makes it a versatile option for any season.
-  Updated: 2026-09-29T17:06:37Z
+  Updated: 2026-10-12T09:31:39Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5585.jpg?v=1744275924
     Price: £19.99 GBP
 - [Women Front Zip O Neck Micro Mini Long Fit Sleeve Party Cocktail Bodycon Clubwear Zipper Split Evening Short Dress/ Perfect for Girls Gift](https://www.elainah.com/products/bodycon-zip-bandage-dress): Women's Mock O Neck Front Zip Micro Mini Bodycon Dress. Introducing the Body con Front Zip Dress, a must-have ensemble for any formal occasion. Crafted from a premium material blend, this dress features a sleek zip-up closure for adjustable comfort and a perfect fit. Its timeless black color enhances its versatility and ensures it remains a staple in your wardrobe. MATERIAL: Made from a quality Polyester/Elastane material blend, ensuring full stretchable, slim fit, durability and a comfortable fit throughout wear. The comfortable material ensures you feel great all day and night. DESIGN: The Mock neck dress boasts a front full open zip closure, long fit sleeves, stretchable, above the knee length creating a smooth and sleek look and a flattering slim fit that accentuates your curves, making it ideal for various occasions. MODEL DETAILS: Model height is 5ft4" & wearing 8 size. COLOUR OPTION: Black & Royal Blue. OCCASION: Ideal for proms, graduations, weddings, evening parties, bridesmaid duties, birthdays, engagements, banquets, family reunions, cocktails, and more. MATCHING: Match with your favorite high heels, sandals, flats, booties, the right bag, earrings, denim jacket or other accessories to create a charming and stylish look. Perfect gift for your friends, sisters, mum, girlfriend. WASH CARE: Machine washable. Add this beautiful and versatile mini dress to your collection and enjoy the blend of comfort and style it offers!Elevate your formal attire with the Elaina Body con Zip Dress, combining elegance, comfort, and timeless style in one stunning piece.
-  Updated: 2026-09-29T01:11:46Z
+  Updated: 2026-10-12T17:09:37Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -469,7 +469,7 @@
     Availability: Not Available
     Price: £24.99 GBP
 - [Women's White Collar Drop Shoulder Long Balloon Sleeves and Cuffs Blouse with Front Buttons Top, Loose Fit Basic Shirt for Vacation, Business, Home, Work, Office/Ladies Loose Casual Button Down Shirts  / stylish turn down collar girls top](https://www.elainah.com/products/sleeve-blouse): Women's Off White Drop Shoulder Long Sleeve Blouse. Introducing our Women's White Drop Shoulder Long Sleeve Blouse. A perfect addition to your wardrobe. This blouse features a unique design with long balloon sleeves, smock cuffs, and a stylish turn down collar. Made with quality materials, it's comfortable and versatile for any occasion. Elevate your style game with this must-have piece. MATERIAL: Crafted from 100% Polyester Synthetic fabric, ensuring softness, comfort, soft to the touch features a breathable, see-through fabric thats adds a touch of sophistication and lightness to your outfit. Suitable for wearing alone, tied at the waist in summer, or as a cardigan or jacket in spring and autumn. DESIGN: Features a loose fit, long balloon sleeves, front button-down closure, turn down collar. Smock cuffs provides a comfortable and chic look. Elevate your style game with this must-have piece. MODEL DETAILS: Model Height is 5Ft4" & wearing 8 size.COLOUR: White. OCCASION: Including clubs, office work, meetings, parties, cocktails, nights out, music festivals, travel, holidays, daily wear, street wear, dates, and casual outings. This shirt top ensures you’ll be the most stylish and beautiful lady in any setting. Adaptable for spring, summer, or autumn. MATCHING: Top for women elegant suitable every day wear or match with your favorite denim jeans, shorts, pants, pencil skirts, cargo pants, or high-waist jeans, jackets, cardigan, coat, boots, heels, the shirt blouse top will handle your fashion needs perfectly. WASH CARE: Machine washable, do not bleach. Elevate your wardrobe with this versatile and stylish blouse, perfect for any occasion.
-  Updated: 2026-09-23T15:08:09Z
+  Updated: 2026-10-09T08:27:46Z
   Vendor: Elaina Fashion
   Product Type: Top
   Availability: Available
@@ -537,7 +537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Plazzo-Pants-3.webp?v=1744275966
     Price: £16.99 GBP
 - [Women's Black Patterned Print Long Sleeve Button-Down Blouse - Elegant Vintage Style Slim Casual Tunic Shirt for Office and Summer Wear/Stylish V neck & Collar style top/ Shirts Printed Short Sleeve Button Down Casual Shirt with Collar Summer Blouse Sexy Ladies Tunic Tees Tops / Girls](https://www.elainah.com/products/patterned-blouse): Women's Black Patterned Print Blouse - Long Sleeve Button-Down Shirt. Elevate your wardrobe with our Women’s Black Patterned Print Blouse, a perfect blend of vintage charm and modern style. This elegant tunic features a delicate pattern that adds a touch of femininity to any outfit, making you stand out effortlessly. Crafted from 97% Polyester and 3% Elastane, this blouse is both breathable and comfortable, ideal for summer days. The long sleeves, V-neck with collar, and button-down design offer a sophisticated look, while the unique collar neckline adds a touch of elegance. The vibrant floral print is stylish and on-trend, perfect for dressing up or down. Key Features: MATERIAL: Made top from 97% Polyester 3% Elastane fabric, this women's printed shirt blouse offers soft satin touch, comfort, breath ability, and skin-friendly. The comfortable material ensures you feel great all day and night. DESIGN: Designed a Button down collar neck, front soft button opening, long sleeves with button closer cuff that beautifully outline the arms, with lively, eye-catching printed lines color. MODEL DETAILS: Model height is 5ft5" & wearing 8 size. COLOUR: Black. OCCASION: Perfect for a variety of occasions, including clubs, parties, cocktails, nights out, music festivals, travel, holidays, daily wear, street wear, dates, and casual outings. This shirt top ensures you’ll be the most stylish and beautiful lady in any setting. Adaptable for spring, summer, or autumn. MATCHING: Match with your favorite denim jeans, shorts, pants, pencil skirts, cargo pants, or high-waist jeans, jackets, cardigan, coat, boots, heels, the shirt blouse top will handle your fashion needs perfectly. PERFECT GIFT: Makes a perfect gift for Christmas, Valentine's Day, Easter, Halloween, Thanksgiving, or as a thoughtful present for mothers, wives, daughters, friends, and girlfriends. WASH CARE: Machine washable. As a stylish industry expert, enhance your wardrobe with our patterned blouse. Made with striking patterns, our tops offer a unique touch to any outfit. Enjoy the benefits of standing out while feeling comfortable and confident with our patterned tops for women. Add this must-have patterned print blouse to your collection for a versatile piece that enhances your attractiveness and garners compliments wherever you go.
-  Updated: 2026-09-27T13:56:02Z
+  Updated: 2026-10-01T13:35:32Z
   Vendor: ElainaUK
   Product Type: Top
   Availability: Available
@@ -559,7 +559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Patterned-Blouse-1.png?v=1744275970
     Price: £18.99 GBP
 - [Women Broderie Hem Pleat Ruffles Embroidery Long Sleeve with Front Knot Swing Summer Vacation Office Lady Mini Short Smoke Dresses/ Holiday Clubwear Outfit](https://www.elainah.com/products/ruffle-hem-mini-dress): Women Broderie Hem Pleat Ruffles Embroidery Short Summer Dress. Elevate your wardrobe with our Women's Broderie Hem Pleat Ruffles Embroidery Long Sleeve Dress. This elegant mini dress features intricate broderie details, a front knot, and a stylish swing design, making it perfect for summer vacations or office wear. Crafted for both comfort and style, this dress is a versatile addition to any collection. Key Features: MATERIAL: Made from 100%Rayon, lining 100%Polyester fabric, soft, skin-friendly, durable, elastic, breathable and sweat-absorbent, comfortable to wear. DESIGN: Designed a ban neck with big v key hole tie knot design, floral embroidery detailed, swing pleated layered design, full sleeve with elastic, above knee length. OCCASION: Ideal for casual outings, work, dating, weekends, holidays, shopping, parties, clubs, office wear, and vacations. Suitable for both indoor and outdoor settings. MODEL DETAILS: Model height is 5ft4" & wearing size 8.COLOUR: White MATCHING: This party mini swing smock white dress can be worn with your favorite heels, flat sandals, heeled sandals, platform sandals, wedge sandals, boots and more, or over a coat, jacket or denim. WASH CARE: Machine wash. Add a touch of elegance and style to your wardrobe with our Women's Broderie Hem Pleat Ruffles Floral Embroidery Long Sleeve Dress, perfect for any occasion from casual to formal.
-  Updated: 2026-09-25T15:06:37Z
+  Updated: 2026-10-11T20:33:36Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -597,7 +597,7 @@
     Availability: Not Available
     Price: £16.99 GBP
 - [Women White Floral Print Long Sleeve Smoke Dress with Ruffle Design Babydoll Casual Tunic Mini Short Hem Sundress Flowy Soft Summer Midi / Casual, Holidays, Cocktail Party, Birthdays, Shopping, Party, Evening, Going Out, Day/ Summer, Spring and Autumn Dress](https://www.elainah.com/products/long-sleeve-smock-dress): Women White Floral Print Long Sleeve Smoke Dress Elevate your wardrobe with our Women’s Blue White Floral Print Long Sleeve Smock Dress, a perfect blend of comfort and style. This baby doll casual tunic mini dress features a ruffle design and a flowy, soft fabric, making it a must-have for any fashion-forward individual. MATERIAL: Made from 100% Polyester, this dress is soft, smooth and breathable, ensuring you stay comfortable while looking fabulous. The comfortable material ensures you feel great all day and night. DESIGN: A mock neck with small little ruffle design, flared with a loose fit, elastic waist, ruffle hem and front detail and long loose cuff sleeves making you look more stylish, graceful, and charming. OCCASION: Including clubs, daily home wear, parties, cocktails, nights out, music festivals, travel, holidays, dates, and casual outings. This dress ensures you’ll be the most stylish and beautiful lady in any setting. Suitable for summer, spring, and autumn. MODEL DETAILS: Model height is 5ft4inch & wearing 8 size.COLOUR: White Blue MATCHING: Dress for women elegant suitable every day wear or match with your favorite denim jackets, cardigan, coat, boots, heels, the sexy midi dress will handle your fashion needs perfectly. WASH CARE: Machine wash, do not bleach.This smock mini dress by Influence Fashion is the perfect addition to your wardrobe. It’s also a great gift for your girlfriend, mom, wife, sister, daughter, or aunt. Stay stylish and comfortable all season long with this beautiful and versatile dress.
-  Updated: 2026-09-23T15:08:10Z
+  Updated: 2026-10-10T23:35:01Z
   Vendor: Elaina Fashion
   Product Type: mini dress
   Availability: Available
@@ -623,7 +623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5718.jpg?v=1751465825
     Price: £22.99 GBP
 - [Women White Plain Tiered Ruffled Mini Skirts Elastic Waist Curved Hemline Cute Loose Layered Summer Casual Skater Skirt/ Beach Wedding, Cocktail, Daily Perfect for Spring and Summer Shirred skirt](https://www.elainah.com/products/tiered-ruffle-skirt): Women White Plain Tiered Ruffled Mini Skirts. Elevate your summer wardrobe with our Women’s White Plain Tiered Ruffled Mini Skirt. Designed for both style and comfort, this skirt features an elastic waist, curved hemline, and a flowy, tiered ruffle design that adds playful movement to any outfit. Key Features:MATERIAL: Made from a quality blend of 50% viscose and 50% polyester, this skirt is breathable and comfortable to wear, perfect for hot summer days. DESIGN: The mini skirt showcases tiered layered ruffles, flirty look, a curved hemline, and an elastic waist stretchy and convenient, accommodating growth and making it easy to put on and take off. This skirt ensures you stay cool and look cute all day long. OCCASION: Perfect for a variety of occasions, including clubs, parties, cocktails, nights out, music festivals, travel, holidays, dates, and casual outings. This dress ensures you’ll be the most stylish and beautiful lady in any setting. MODEL DETAILS: Model height is 5ft4" & wearing 8 size.COLOUR: White. MATCHING: Match with Cami tank tops or tees for a laid-back summer vibe. Pair it with sneakers for a casual look, or dress it up with a blouse and heels for a more polished outfit. WASH CARE: Machine washable.A Trendy, Nice And Great Gift For Girls, Ladies Elevate your style with this versatile and trendy tiered ruffle mini skirt, perfect for any summer occasion.
-  Updated: 2026-09-27T21:04:02Z
+  Updated: 2026-10-08T16:51:31Z
   Vendor: ElainaUK
   Product Type: Skirts
   Availability: Available
@@ -660,7 +660,7 @@
   Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Crossover-Spaghetti-Strap-Bralette-4.webp?v=1744275993
   Price: £12.99 GBP
 - [Women Black Lace Halter Bodycon Mini Dress Sleeveless Elegant Halter Neck Club Party Wedding Summer Occassion  Dress/ Mini Casual Formal Unique Babydoll / perfect for any club, party, or wedding event.Dress Smocked Bodycon Mini Dress Casual Ruched Boat Neck Ruffled A-Line Flowy Short Dress](https://www.elainah.com/products/black-lace-halter-dress): Black Lace Halter Mini Dress. Turn heads with our Women's Black Floral Lace Halter Body con Mini Dress, designed for those unforgettable nights out. This elegant and trendy dress features a stunning lace halter neck and a body-hugging fit, perfect for any club, party, or wedding event. MATERIAL: Made from 95% Polyester 5% elastane. Soft, lightweight fabric, ensuring you stay comfortable while dancing the night away. The comfortable material ensures you feel great all day and night. DESIGN: Featuring a sleeveless, backless, halter neck with intricate floral lace detailing, back lace tie up and this dress offers a slim fit that accentuates your curves. Also comfortable and flattering fit to show off your pretty figure. The corset-style mesh detail and body con fit make this dress both fashionable and flattering. MODEL DETAILS: Model Height is 5ft6" & wearing S size.COLOUR: Black. OCCASION: Ideal for various occasions such as parties, clubs, wedding, cocktail, holidays, vacation, school & office meetings, shopping, dating, street wear, photo shoots, and dancing. MATCHING: Pair it with strap sandals, heels and personalized earrings. In winter wear it with blazer to create a perfect look. The mini dress outfits for women's clothing sets ​can be freely making them versatile and super attractive. WASHING CARE: Dry Clean Only. Step out in confidence and style with this fashionable dress. Elevate your style with this beautiful black lace halter mini dress and make every occasion special!
-  Updated: 2026-09-23T15:08:11Z
+  Updated: 2026-10-08T09:49:43Z
   Vendor: Elaina Fashion
   Product Type: mini dress
   Availability: Available
@@ -813,7 +813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Luxvanti04032204038.jpg?v=1744276059
     Price: £16.99 GBP
 - [Women's Off White Professional Blazer - Elegant Formal Suit Jacket for Work, Office Wear, Casual Events with Open Front, Full Sleeves, Collar Design Cardigan, Buttons, Pockets - Ideal for Wedding Guests/ Slim Fit Business Dinner Casual Blazer Lightweight Fashion Elegant Ladies Office Jacket](https://www.elainah.com/products/white-blazer-womenk): Women's Off White Professional Blazer Explore elegance and versatility with our Off White Women's Blazer, a timeless addition to your wardrobe. Crafted from high-quality 100% polyester with a fully lined interior, this blazer exudes sophistication and comfort. Whether you're heading to the office, a formal event, or a casual outing, it effortlessly elevates your style and boosts your confidence. MATERIAL: Made from premium 100% polyester with a 100% polyester lining for a sleek and polished appearance. The high quality fabric is lightweight and does not irritate the skin, ensuring a luxurious experience. The comfortable material ensures you feel great all day and night. DESIGN: Features with a classic Notch lapel neck, open front, slim fit silhouette, long full sleeves with no pockets. This blazer ensures a comfortable and flattering fit. Perfect for those who appreciate style without compromising on comfort. MODEL DETAILS: Model height is 5ft5" & is wearing 10 size. COLOUR: White. OCCASION: Ideal for winter summer autumn, this vintage-inspired classic blazer jacket is suitable for gatherings with friends, work, hospital, vacation, travel adventures, shopping, dates, and more. MATCHING: The blazer fit allows for easy pairing with any outfit, whether it's jeans, leggings, or casual pants. Its solid white color complements various bottoms such as shorts, leather pants, high-waist jeans, skirts, and boots. Also wear with the mini dresses. CARE INSTRUCTION: Machine wash gently, avoid bleaching or soaking for extended periods, and hang dry to maintain garment quality. Elevate your style effortlessly with this high-quality blazer that combines classic appeal with contemporary flair.
-  Updated: 2026-09-23T15:08:16Z
+  Updated: 2026-10-12T16:49:11Z
   Vendor: Elaina Fashion
   Product Type: Blazer
   Availability: Available
@@ -1087,7 +1087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-5224.jpg?v=1744276220
     Price: £18.99 GBP
 - [Women's Full Sleeve Mesh T-Shirt Top and Long Pants Nightwear Set - 2 Piece Round Neck Top & Bottom Sleepwear, Super Soft PJ's for Ladies, Bridesmaids, Brides, Wedding Lounge Wear/Losse Loose Fit Summer Comfy Set](https://www.elainah.com/products/shirt-pyjama-set): Women's Full Sleeve T-Shirt and Long Pants Nightwear Set. Elevate your lounge wear with our Women's Full Sleeve T-Shirt and Long Pants Cotton Nightwear Set. This 2-piece round neck top and bottom sleepwear set is super soft and perfect for brides, bridesmaids, or just cozy nights at home. Material: Made from 95% Polyester and 5% Elastane, this quality pyjama fabric is soft, comfortable, and breathable, ensuring all-day relaxation.Design: The pyjama top features full sleeves, front letter print and a round neck, paired with full-length striped pants that have a comfortable elastic waistband for a casual and generous look.Occasion: Perfect for sleeping, lounging, or casual wear at home, as well as for trips, holidays, and parties. Ideal for spring, autumn, and winter nights.Gift: This set makes an excellent gift for wives, girlfriends, sisters, or daughters for birthdays, Mother’s Day, Valentine’s Day, anniversaries, or Christmas. Pyjama Set: Includes a full-sleeve T-shirt and long pants. Bottoms: Full-length pants with an elasticated waistband and a striped design. Tee Shirt: full-sleeve top. Introducing our Stripe Pyjama Set, the perfect choice for a comfortable and fashionable night's sleep. With its soft fabric and versatile design, you can relax in both style and comfort.
-  Updated: 2026-09-23T15:08:19Z
+  Updated: 2026-10-11T15:49:33Z
   Vendor: Elaina Fashion
   Product Type: Loungewear
   Availability: Available
@@ -1117,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-5409.jpg?v=1744276227
     Price: £24.99 GBP
 - [Women's V Neck Floral Print Puff Sleeve Bodysuit Shirt Top with Backless Design - Sexy Bodysuit Tops, Body Shaper Long Sleeve Shapewear, Casual Jumpsuit for Party, Home](https://www.elainah.com/products/puff-sleeve-bodysuit): Women's V Neck Floral Print Puff Sleeve Leotard Bodysuit. Introducing our Puff Sleeve Bodysuit, a must-have for any fashion lover. This body suit features long puff sleeves low back bodysuit that add a touch of elegance and sophistication. Made with quality materials, it offers both comfort and style. Elevate your wardrobe with this versatile and trendy long sleeve bodysuit. MATERIAL: Made top from 100% polyester. knickers: 90% polyester 10% elastane, this women's floral bodysuit offers stretch, comfort, breath ability, and skin-friendliness. DESIGN: Featuring a floral print, puff 3/4 sleeves, deep V plunge neck, and a form-fitting silhouette, backless with v shape and tie -up lace design. Perfect for dressing up or down and this one-piece bodysuit enhances your figure. COMFORTABLE FIT: The bodysuit is designed with long, slim-fitting sleeves for a sleek and comfortable fit. MODEL DETAILS: Model height is 5ft 10"& wearing 8 size.COLOUR: Multi. OCCASION: Suitable for various occasions including outings, daily wear, gatherings, nights out, vacations, cocktails, date nights, and clubbing. PAIRING: Pair this puff sleeve bodysuit with skirts, jeans, leggings, high waist pants, or denim shorts for versatile styling options. WASH CARE: Machine washable Our bodysuit is designed to hug your curves and smooth your belly area, enhancing your silhouette with its floral long sleeve one-piece design. Flaunt your perfect curves with confidence.
-  Updated: 2026-09-23T15:08:19Z
+  Updated: 2026-10-02T17:36:27Z
   Vendor: Elaina Fashion
   Product Type: Bodysuit
   Availability: Available
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Puff-Sleeve-Bodysuit-3.png?v=1744276236
     Price: £19.99 GBP
 - [Women White Satin Pajama Sleepwear Set with Long Sleeves Soft Wedding Loungewear for All Seasons Button Down 2piece Pj Set Bridal Nightwear Bridemaid collar edge pj set](https://www.elainah.com/products/white-satin-pj-set): Women’s White Satin Pyjama Sleepwear Set Prepare for a luxurious night's sleep with our White Satin Pyjama Set. Crafted from high-quality satin, these pyjama's offer a comfortable fit and a sleek, stylish appearance. Ideal for indulging in self-care and relaxation, you'll wake up feeling refreshed and rejuvenated. Enhance your sleepwear collection with our satin pyjama's. Luxury Design: Includes a nightdress and dressing gown set with delicate design embellishments, chest pockets, providing a feminine silhouette. With perfect contrasted colour piping at collar edge, full front placket opening and pocket edge.Material: Made from polyester, the fabric is soft, breathable, and lightweight, ensuring comfort in all seasons.Comfortable Fit: Features an elastic waistband on long pants for ease of wear and a lazy sleep experience.Versatility: Suitable for indoor wear and perfect for special occasions or relaxing moments at home. ideal Gift: This classic satin pyjama set is fashionable and offers a silky, smooth touch that's super soft and skin-comfortable. It's an excellent gift choice for girlfriends, moms, wives, daughters, and sisters. Upgrade your lounge-wear with this elegant and comfortable satin pyjama set, perfect for enjoying luxurious evenings and peaceful nights.
-  Updated: 2026-09-23T15:08:20Z
+  Updated: 2026-10-06T13:55:39Z
   Vendor: Elaina Fashion
   Product Type: Loungewear
   Availability: Available
@@ -1161,7 +1161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ABBIE-17.05.260427.jpg?v=1779200749
     Price: £32.99 GBP
 - [Women's Black Longline Maxi Quilted Padded Coat - Comfort Warm Puffer Winter Down Jacket with Pockets, Long Sleeve with Full Zip Oversized Winter Outwear/ climbing, fishing, camping coat long gilet](https://www.elainah.com/products/oversized-padded-longline-coat): Women's Black Long line Maxi Quilted Padded Coat. Expertly designed for both style and warmth, this oversized padded long line coat is the perfect addition to your winter wardrobe. Made with 100% Nylon, it provides superior quality and comfort. Stay cozy and trendy this season with this must-have coat. MATERIAL: Made from 100% Nylon, ensuring comfort, durability, soft, and comfortable feel. The quality fabric is lightweight and does not irritate the skin, ensuring a luxurious experience. The comfortable material ensures you feel great all day and night. DESIGN: Long line puffer design, full sleeves, long length, front square deep pockets, zip & button closure. Filled with warm puffer fabric to protect you from light showers and fog, keeping you bundled up against the cold. MODEL DETAILS: Model height is 5ft4" & wearing S/M size. COLOUR: Black. MATCHING: Pairs perfectly with co-ord set, active wear, leggings, jeans, jeggings, stretch pants, boots, or heels, sandals, shoes for a daily stylish look. COMFORTABLE WEAR: This winter coat keeps you stylish and comfortable in winter cold, spring and autumn. The soft, lightweight filling ensures a comfortable wear. Exaggerated and super relaxed, letting your style flow effortlessly. WASH CARE: Machine washable, do not bleach.Stay warm and stylish with this beautifully designed winter coat.
-  Updated: 2026-09-23T15:08:20Z
+  Updated: 2026-10-02T10:04:45Z
   Vendor: Elaina Fashion
   Product Type: Coat
   Availability: Available
@@ -1201,20 +1201,6 @@
   - [10 / 100% Acrylic](https://www.elainah.com/products/striped-jumper-womens?variant=54873162383743)
     Availability: Not Available
     Price: £18.99 GBP
-- [Women's Crew Round Neck Striped Oversized Sweater - Baggy Knitted Jumpers with Long Sleeves, Streetwear Casual Loose Fit Knit Top for Winter/Ladies Trendy Outfits Upper Warm Sweatshirt For Girls](https://www.elainah.com/products/stripe-oversized-jumper): Women's Crew Round Neck Striped Oversized Sweater. Women's Crew Round Neck Striped Oversized Sweater. Baggy Knitted Jumpers with Long Sleeves, Casual Loose Fit Knit top for Winter. Material: Crafted from quality 100% Acrylic, This pullover sweater top offers softness, stretchy, moisture absorption, warm and elasticity for ultimate comfort and skin care. Striped Pattern: Classic blue and white stripes enhance the overall design, offering a slimming visual effect and a timeless appeal. Design: Detailed with a crew round neckline, striped pattern, long sleeves & length, drop shoulders, and a causal loose fit. MODEL DETAILS: Model height is 5ft4" & wearing 8 size. COLOR: Blue & White. Versatile Match: Perfect for spring, fall, and winter, pair this striped pullover with jeans, skirts, leggings, leather pants, or palazzo pants for various stylish combinations. Gift Idea: A chic choice for birthdays, Valentine's Day, Thanksgiving, anniversaries, and more, making it an ideal gift for loved ones. Occasions: Ideal for daily wear, outdoor activities, office, shopping, dating, travel, parties, and clubs, offering versatility for every occasion in spring, autumn, and winter.
-  Updated: 2026-09-23T15:08:21Z
-  Vendor: Elaina Fashion
-  Product Type: Jumper
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6675.jpg?v=1744276272
-  - [8 / 100% Acrylic](https://www.elainah.com/products/stripe-oversized-jumper?variant=47549881155895)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6675.jpg?v=1744276272
-    Price: £18.99 GBP
-  - [10 / 100% Acrylic](https://www.elainah.com/products/stripe-oversized-jumper?variant=47549881188663)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6675.jpg?v=1744276272
-    Price: £18.99 GBP
 - [Women's Pink Soft Knitted Polo High Roll Neck Slim Fit Long Sleeve Wrap Midi Jumper Dress with Side Slits and Belt Ladies Work party Sweater/ Bodycon Pullover Cute Ribbed Solid Knit/ Elegant Formal Work Pencil Dresses](https://www.elainah.com/products/polar-neck-jumper-dress): Women's Pink Soft Knitted Polo High Roll Neck Slim Fit Long Sleeve Wrap Midi Jumper Dress. Introducing our Polar Neck Jumper Dress, designed for extra warmth and comfort. This high roll neck jumper dress is made with high-quality materials, providing a cozy fit while remaining stylish and versatile. Perfect for any occasion, this dress combines practicality and fashion effortlessly. MATERIAL: Made of 100% acrylic knit, ensuring softness, comfort, and excellent stretch skin-friendly fabric. The comfortable material ensures you feel great all day and night. DESIGN: Features a sexy polo high roll neck with a wrap style, slim fit design, side slits and belt with buckle, long sleeves, knitted design highlighting your curves beautifully. MODEL DETAILS: Model Height is 5ft9" & wearing 8 size.COLOUR: Pink. OCCASION: Perfect for a variety of events including daily outings, club, party, cocktail, street wear, office work, holidays, street shots, travel, beach trips, parties, and shopping. MATCHING: Pair this sweater dress with sandals, boots, flats, heels and sunglasses for a relaxed vacation vibe, or dress it up with heels and a statement necklace for a fashionable night out. PERFECT GIFT: This versatile dress makes a great gift for graduations, birthdays, Valentine’s Day, anniversaries, and more. WASH CARE: Machine Washable, Do Not Bleach. Enhance your wardrobe with this elegant and versatile knitted dress, perfect for any occasion.
   Updated: 2026-09-23T15:08:21Z
   Vendor: Elaina Fashion
@@ -1246,7 +1232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-7882.jpg?v=1744276278
     Price: £25.99 GBP
 - [Women's Coral Short Sleeve Pajama Set with Shorts – Soft Notch Collar, Button Down Design, Ideal Bridal Nightwear and Wedding Loungewear Lingerie for Every Season/ Ladies Lingerie summer feel](https://www.elainah.com/products/pj-short-set): Women's Coral Short Sleeve Pyjama Set with Shorts. MATERIAL: Made of 95% Polyester, 5% Elastane cotton soft fabric, stretchable, smooth, breathable, moisture-wicking, which offers the ultimate in comfort and freedom of movement. The comfortable material ensures you feel great all day and night. LUXURY DESIGN: A lapel neck, chest pockets, short sleeve, front open button down, perfect contrasted white color piping at collar edge, sleeves, shorts, full front placket opening and pocket edge. COMFORTABLE FIT: Features an elastic waistband on short for ease of wear, loose shorts & shirt and a lazy sleep experience. MODEL DETAILS: Model height is 5ft4" & wearing 10 size. COLOUR: Coral VERSATILE USE: Ideal for sleepwear, lounge wear, and nightwear, this comfy nightwear set is perfect for relaxing days or nights at home. Perfect for sleeping, pajama parties, girls' day, or lounging in the living room or bedroom. PERFECT GIFT: This set makes an ideal gift for women, perfect for Valentine's Day, weddings, bridal parties, birthdays, or honeymoons. Your wife, daughter, mother, or friends will love the comfort and style of this Sleepwear pyjama set. WASH CARE: Machine washable, do not bleach.Treat yourself or someone special to this classic and luxurious pyjama set today!
-  Updated: 2026-09-23T15:08:22Z
+  Updated: 2026-10-11T08:13:37Z
   Vendor: Elaina Fashion
   Product Type: Loungewear
   Availability: Available
@@ -1302,7 +1288,7 @@
     Availability: Available
     Price: £32.99 GBP
 - [Women's New PU Leather Fringed Jacket - Tassel Zip-Up Slim Fit Waist Spring Coat, Short Biker Motorcycle Rider Jacket in Faux Leather summer autumn winter all seasons/ Clubing Party Occasion  womens zip up Coat](https://www.elainah.com/products/pu-tassel-jackets): Women's New Beige PU Leather Fringed Jacket - Tassel. Discover the Women's New PU Leather Fringed Jacket, where durability meets style. Crafted from a blend of 68.8% PU, 28.3% polyester, and 1.6% viscose, this jacket promises both longevity and elegance. Elevate your wardrobe with this versatile piece that transitions effortlessly from season to season. MATERIAL: Made of 68.8% PU, 28.3% polyester, 1.6% viscose fabric with fully lined which will make you feel soft, comfortable and breathable, skin-friendly, comfortable for all-day wear. The comfortable material ensures you feel great all day and night. DESIGN: Featuring with a lapel neck, full zip up detail, cropped silhouette, two side zip utility pockets, asymmetric zip, long sleeve, waist belt design. The finely textured faux leather provides wind resistance, keeping you dry and warm in light rain and cold weather. OCCASION: Ideal for various occasions such as parties, clubs, holidays, vacation, school & office meetings, shopping, dating, street wear, photo shoots, rave clothes, music festival outfits, dancing, and more throughout fall and winter. MODEL DETAILS: Model height is 5ft10inch & wearing S size. COLOR: Beige. MATCHING: Pairs perfectly with T-Shirt, top, blouse, shirt, leather crop top also matching with shorts, leggings, jeans, jeggings, stretch pants, boots, or heels, sandals, shoes for a daily stylish look. PERFECT GIFT: Whether for yourself, friends, or family, this faux leather jacket makes a stylish statement at Christmas parties or any chic outing. Enhance your confidence and complement any outfit with this versatile and durable outerwear piece. WASHING CARE: Dry Clean, Both hand wash and machine wash are fine.Elevate your style with the chic and functional Women's PU Leather Fringed Jacket, designed to keep you fashionable and comfortable across all seasons and occasions.
-  Updated: 2026-09-29T17:21:37Z
+  Updated: 2026-10-11T09:31:37Z
   Vendor: Elaina Fashion
   Product Type: jacket
   Availability: Available
@@ -1324,7 +1310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Pu-Tassel-Jackets-4_1cb95c13-9b99-4519-bd81-f3f2052aec02.webp?v=1744276321
     Price: £45.99 GBP
 - [Women's High Waisted Loose Ripped Frayed Straight Jeans, Boyfriend Mom Jeans /Casual Roll-Up Denim Pants for Streetwear Home Office Work Party Bottom/ Vintage Distressed Fringe Denim Oversized Teen Girls Ankle Casual Jeans with Pocket](https://www.elainah.com/products/frayed-denim-jeans): Women's High Waist Loose Ripped Straight Jeans: Discover effortless style with our Women's High Waist Loose Ripped Straight Jeans, a modern interpretation of classic blue denim. These Frayed Denim Jeans feature contemporary frayed edges that add a touch of edge, complemented by a versatile light blue color that pairs seamlessly with any outfit. Expertly crafted for durability and comfort, they are designed with a high-mid waist and a relaxed, straight leg fit. The utility pocket and zipper closure ensure practicality while the super soft, stretchy fabric hugs your curves in all the right places, making you look and feel fantastic. Key Features: -*Material:* Distressed jeans are made from high-quality cotton denim fabric with 74% Soft Fabric, 24% Polyester, 2% Elastane. Soft and lightweight fabric, medium stretchy, a comfy wearing experience for you.- *Classic Design:* Ripped straight flared jeans with a loose relaxed fit and high-mid waist.- *Versatile Occasions:* Perfect for casual outings, office wear, interviews, dates, shopping, and various celebrations throughout the year.- *Ideal Gifts:* A thoughtful gift option for mothers, girlfriends, grandmothers, teen girls, and anyone with a love for fashionable denim.- *Service:* Contact us anytime with questions or issues; we are committed to providing prompt and satisfactory service.- *Styling Options:* Pair these versatile jeans with tank tops, crop tops, casual t-shirts, camisoles, blouses, sweatshirts, sneakers, or high heels, suitable for all seasons. Enhance your wardrobe with these straight fit, high waist, little bit loose jeans—perfect for adding a touch of street wear-inspired style to your everyday ensemble. This description aims to highlight the key features, versatility, and appeal of the jeans, ensuring potential buyers understand their style, comfort, and suitability for various occasions and seasons.
-  Updated: 2026-09-23T15:08:23Z
+  Updated: 2026-10-07T14:47:02Z
   Vendor: Elaina Fashion
   Product Type: Jeans
   Availability: Available
@@ -1431,7 +1417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE--2730.jpg?v=1744276404
     Price: £22.99 GBP
 - [Women's Choclate Longline Maxi Quilted Padded Coat - Ladies Comfort Warm Puffer Winter Down Jacket with Pockets, Long Sleeve with Full Zip Oversized Winter Gilet Bodywarmer Outwear/ Girls Longline Hooded Jacket Maxi Length](https://www.elainah.com/products/longline-hooded-gilet-puffer-jacket): Women's Chocolate Long line Maxi Quilted Padded Coat. Introducing our Long line Hooded Gilt Puffer Jacket, a perfect blend of style and functionality. Crafted from 100% polyester, this coat offers exceptional warmth and comfort. Its long line design with a hood provides extra coverage and protection against the winter chill, keeping you stylish and cozy. Material: Made from 100% polyester, this coat is lightweight, breathable, and soft to the touch, ensuring comfort in spring, autumn, and winter.Occasions: Fashionable and practical, suitable for daily casual wear and outdoor activities such as climbing, cycling, camping, hiking, and traveling.Versatile Matching: Pair this coat effortlessly with shirts, blouses, tank tops, jumpsuits, jeans, leggings, sneakers, or boots for a stylish look.Details: New with tags, featuring a long line silhouette with full sleeves and an oversized body warmer design with a hoodie.Closure: Secured with a zip fastening and button overlay for added warmth and style.Pockets: Includes 2 side pockets for storing essentials or keeping your hands warm. Stay cozy and fashionable throughout the seasons with our Long line Maxi Quilted Padded Coat, designed to enhance your winter wardrobe with both practicality and elegance.
-  Updated: 2026-09-23T15:08:25Z
+  Updated: 2026-10-12T04:15:26Z
   Vendor: Elaina Fashion
   Product Type: Coat
   Availability: Available
@@ -1663,7 +1649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE--11-28_am_3.jpg?v=1744276466
     Price: £15.99 GBP
 - [Women Borg contrast Nylon Windbreaker Light Active Outdoor Elegant Coat Jacket for Girls/ Winter Weather Wind Rain Protection Jacket for Girls/Fashion Jackets for Women Warm Winter Lightweight Coat / Girls Crop Jacket Coat Fluffy Fleece Turn-down Collar Baggy Outwear Winter Warm Top Ladies Fashion Short Loose Coat Halloween Gifts for Women Festival Clothes](https://www.elainah.com/products/borg-contrast-nylon-windbreaker): Women Borg contrast Nylon Windbreaker. Embrace style and functionality with our Women's Borg Contrast Nylon Windbreaker. This lightweight yet durable jacket is designed to keep you stylish and comfortable during outdoor activities. Made from a blend of 70% polyester and 30% acrylic, it offers both warmth and versatility for any occasion. Key Features: Stylish Design: Featuring a Borg contrast design, this windbreaker combines modern aesthetics with practical outdoor wear.Durable Material: Made from high-quality polyester and acrylic blend, ensuring durability and comfort for prolonged use.-Versatile Use: Perfect for light outdoor activities, this jacket is suitable for a range of occasions and weather conditions.-Model Details:The model is wearing size 8 & height of 5ft6". showcasing the fit and style of the jacket. Why You'll Love It: -Comfortable Fit: Designed for a comfortable and flattering fit, ideal for layering over your favorite outfits.All-Weather Companion:Whether you're hiking, traveling, or simply running errands, this windbreaker provides protection without compromising on style. Upgrade your wardrobe with our Women's Borg Contrast Nylon Windbreaker, ensuring you stay classy and elegant while enjoying outdoor adventures.
-  Updated: 2026-09-23T15:08:27Z
+  Updated: 2026-10-08T10:39:47Z
   Vendor: Elaina Fashion
   Product Type: jacket
   Availability: Available
@@ -1697,7 +1683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-2065.jpg?v=1744276469
     Price: £26.99 GBP
 - [Women's Light Wash Seam Detail Denim Mini Skirt - High Waist Pencil Regular Slim Fit Summer Midi Skirt for Clubwear, Parties, and Office/Bodycon High Waisted Girls Cute Skirt / Ladies Denim Short Skirt Casual Mini Jean Skirt](https://www.elainah.com/products/light-wash-seam-detail-denim-mini-skirt): Women's Light Wash Seam Detail Denim Mini Skirt. Add a touch of elegance to your wardrobe with our Women's Light Wash Seam Detail Denim Mini Skirt. Crafted from light wash denim, this skirt boasts intricate seam detailing that enhances its stylish appeal. MATERIAL: Crafted from a high-quality blend of 65% cotton, 33% polyester, and 2% elastane, this dress is soft, lightweight, and breathable. The material is non-stretch and unlined. The comfortable material ensures you feel great all day and night. DESIGN: Detailed with seam detailing denim, slim fit, high waist, thigh-length and a back zip closure, this skirt combines fashion and functionality for a stylish look. MODEL DETAILS: Model height is 5ft6" & wearing 8 size.COLOUR: Light wash denim. OCCASION: Perfect for fancy night outings, daily wear, date night, party, club, music festival, clubbing, Halloween, or casual wear. Showcasing the fit and style of the skirt. It's perfect for both daily wear and parties, suitable for spring, summer, and fall. MATCHING: Pair this cute denim mini skirt with slim fit top blouse, t-shirt, shirts, and also wear with sneakers, sandals, high heels, or boots for a perfect summer look. CARE WASH: Machine washable, do not bleach.Update your wardrobe with this essential piece that combines sophistication with trendy appeal, making it a must-have for every woman's closet.
-  Updated: 2026-09-23T15:08:27Z
+  Updated: 2026-09-30T12:33:02Z
   Vendor: Elaina Fashion
   Product Type: Skirts
   Availability: Available
@@ -1833,98 +1819,101 @@
 ## Collections
 
 - [DRESSES](https://www.elainah.com/collections/dress): Shop women's dresses at Elaina Fashion. Explore 95+ styles including midi, maxi & occasionwear. Free UK delivery available.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 95
 - [LOUNGEWEAR](https://www.elainah.com/collections/knightwear): Shop women's loungewear & pyjama sets at Elaina Fashion. Cosy lounge sets, nightwear & co-ords. Perfect for relaxing in style.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 60
 - [CARDIGAN & JUMPERS](https://www.elainah.com/collections/sweat-tops): Shop women's cardigans & jumpers at Elaina Fashion. Chunky knits, ribbed cardigans & cosy jumpers for effortless autumn style.
-  Updated: 2026-09-27T11:33:56Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 36
 - [TOPS & BODYSUITS](https://www.elainah.com/collections/tops): Shop women's tops & bodysuits at Elaina Fashion. Trendy crop tops, going-out tops & sleek bodysuits. Free UK delivery available.
-  Updated: 2026-09-28T11:40:24Z
+  Updated: 2026-10-09T11:38:57Z
   Total Products: 43
 - [TROUSERS](https://www.elainah.com/collections/trousers): Shop women's trousers at Elaina Fashion. Wide-leg, tailored & cargo trousers in stylish cuts for every occasion.
-  Updated: 2026-09-28T11:40:24Z
+  Updated: 2026-10-09T11:38:57Z
   Total Products: 17
 - [SHORTS](https://www.elainah.com/collections/skirts-shorts): Shop women's shorts at Elaina Fashion. Denim, linen & tailored shorts in trending styles. Stay cool and chic all season long.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-10T11:31:28Z
   Total Products: 11
 - [SKIRTS](https://www.elainah.com/collections/skirts): Shop women's skirts at Elaina Fashion. Mini, midi & maxi skirts in bold prints & classic styles. Free UK delivery available.
   Updated: 2026-09-29T11:40:39Z
   Total Products: 12
 - [BLOUSE](https://www.elainah.com/collections/blouse): Shop women's blouses at Elaina Fashion. Flowy, fitted & printed blouses perfect for work, brunch or a night out.
-  Updated: 2026-09-28T11:40:23Z
+  Updated: 2026-10-09T11:38:57Z
   Total Products: 11
 - [JUMP SUIT](https://www.elainah.com/collections/jump-suit): Shop women's jumpsuits at Elaina Fashion. Elegant, casual & occasion jumpsuits in stunning styles. Free UK delivery available.
   Updated: 2026-09-23T15:08:05Z
   Total Products: 7
 - [ACTIVEWEAR](https://www.elainah.com/collections/activewear): Shop women's activewear at Elaina Fashion. Gym leggings, sports bras & workout sets designed for performance and style.
-  Updated: 2026-09-28T11:40:24Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 19
 - [COATS & JACKETS](https://www.elainah.com/collections/coats-jackets): Shop women's coats & jackets at Elaina Fashion. From winter coats to lightweight jackets — stay stylish whatever the season.
-  Updated: 2026-09-27T11:33:56Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 16
 - [JEGGINGS & JEANS](https://www.elainah.com/collections/jeggings): Shop women's jeggings & jeans at Elaina Fashion. High-waisted jeggings, skinny jeans & more. Stylish fits for every occasion.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 33
 - [BLAZERS](https://www.elainah.com/collections/blazers): Shop women's blazers at Elaina Fashion. Tailored, oversized & co-ord blazers for work or going out. Stylish fits for every look.
-  Updated: 2026-09-27T11:33:56Z
+  Updated: 2026-10-07T11:42:33Z
   Total Products: 3
 - [HOODIES & SWEATS](https://www.elainah.com/collections/hoodies-sweats): Shop women's hoodies & sweatshirts at Elaina Fashion. Cosy oversized hoodies, pullover sweats & more. Free UK delivery available.
   Updated: 2026-09-23T15:08:06Z
   Total Products: 4
 - [Co-ord sets](https://www.elainah.com/collections/co-ord-sets): Shop women's co-ord sets at Elaina Fashion. Matching two-piece sets in bold prints & neutral tones. Effortlessly put-together looks.
-  Updated: 2026-09-27T11:33:56Z
+  Updated: 2026-10-11T11:33:42Z
   Total Products: 18
 - [OUR FAVES](https://www.elainah.com/collections/our-faves): Shop Elaina Fashion's favourite picks. Our most-loved women's styles — handpicked outfits & bestselling pieces you'll adore.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-11T11:33:42Z
   Total Products: 28
 - [LATEST COLLECTION](https://www.elainah.com/collections/latest-collection): Discover Elaina Fashion's latest collection. New women's clothing arrivals — dresses, tops, co-ords & more. Shop new in now.
-  Updated: 2026-09-29T11:40:39Z
-  Total Products: 244
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 248
 - [WOMENS](https://www.elainah.com/collections/womens): Shop all women's clothing at Elaina Fashion. Dresses, tops, jeans, co-ords & more. Stylish women's fashion with free UK delivery.
-  Updated: 2026-09-29T11:40:39Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 318
 - [MENS](https://www.elainah.com/collections/mens): Shop men's clothing at Elaina Fashion. Tracksuits, co-ords, sweatshirts, pyjamas & more. Fresh men's styles with free UK delivery.
-  Updated: 2026-09-28T11:40:23Z
-  Total Products: 59
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 63
 - [Men's Coats & Jackets](https://www.elainah.com/collections/mens-jackets): Shop men's coats & jackets at Elaina Fashion. Puffer jackets, overcoats & casual styles for every season. Free UK delivery.
-  Updated: 2026-09-28T11:40:23Z
+  Updated: 2026-10-12T11:39:16Z
   Total Products: 9
 - [Mens Tops](https://www.elainah.com/collections/mens-tops): Shop men's tops at Elaina Fashion. T-shirts, polo shirts & casual tops in fresh styles. Free UK delivery on men's fashion.
-  Updated: 2026-09-23T15:08:06Z
-  Total Products: 17
+  Updated: 2026-10-08T11:43:34Z
+  Total Products: 19
 - [Men's Sweatshirts](https://www.elainah.com/collections/mens-sweatshirts): Shop men's sweatshirts at Elaina Fashion. Crew neck, zip-up & oversized sweatshirts in cosy fabrics. Free UK delivery available.
   Updated: 2026-09-28T11:40:23Z
   Total Products: 5
 - [Men's Tracksuit](https://www.elainah.com/collections/mens-tracksuit): Shop men's tracksuits at Elaina Fashion. Matching jogger sets & tracksuit bottoms in stylish designs. Free UK delivery available.
-  Updated: 2026-09-23T15:08:06Z
+  Updated: 2026-10-11T11:33:42Z
   Total Products: 2
 - [Mens Co-ords](https://www.elainah.com/collections/mens-co-ords): Shop men's co-ord sets at Elaina Fashion. Matching two-piece sets for a sharp, effortless look. Free UK delivery available.
-  Updated: 2026-09-23T15:08:06Z
+  Updated: 2026-10-07T11:42:33Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://www.elainah.com/collections/appplaza-best-sellers)
-  Updated: 2026-09-29T11:40:39Z
-  Total Products: 430
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 434
 - [Hats](https://www.elainah.com/collections/hats): Shop hats & headwear at Elaina Fashion. Bucket hats, beanies & caps in trending styles for men & women. Free UK delivery.
   Updated: 2026-09-23T15:08:06Z
   Total Products: 1
 - [Men's Jumpers](https://www.elainah.com/collections/mens-jumpers): Shop men's jumpers at Elaina Fashion. Knit, cable & ribbed jumpers in classic & contemporary styles. Free UK delivery available.
-  Updated: 2026-09-28T11:40:23Z
+  Updated: 2026-10-09T11:38:57Z
   Total Products: 11
 - [New! Shopify performance sharing is now turned on](https://www.elainah.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-09-29T11:40:39Z
-  Total Products: 437
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 441
 - [MENS PAJAMAS](https://www.elainah.com/collections/mens-pajamas): Shop men's pyjamas at Elaina Fashion. Comfortable pyjama sets, bottoms & nightwear in soft fabrics. Free UK delivery available.
-  Updated: 2026-09-23T15:08:07Z
+  Updated: 2026-10-01T11:52:09Z
   Total Products: 2
 - [Mens Trousers](https://www.elainah.com/collections/mens-trousers): Shop men's trousers at Elaina Fashion. Slim, regular & relaxed fit trousers in smart & casual styles. Free UK delivery available.
-  Updated: 2026-09-28T11:40:23Z
-  Total Products: 2
+  Updated: 2026-10-10T11:31:28Z
+  Total Products: 4
 - [Recommended Products (Wiz Email)](https://www.elainah.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-09-29T11:40:39Z
-  Total Products: 320
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 321
+- [REELUP (DO NOT DELETE)](https://www.elainah.com/collections/reelup-do-not-delete)
+  Updated: 2026-10-12T11:39:16Z
+  Total Products: 7
 
 ## Blogs
 
