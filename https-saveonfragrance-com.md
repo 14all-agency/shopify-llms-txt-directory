@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-16T15:20:48Z
 - Contact Email: info@saveonfragrance.com
-- Updated At: 2026-10-01T00:00:32.423Z
+- Updated At: 2026-10-13T00:00:37.096Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_82b674b6-8173-4f91-b2cb-09a94dab3f03.webp?v=1788164705
   Price: $59.40 USD
 - [Chanel Coco Eau de Parfum Spray 3.4 oz | Save on Fragrance](https://saveonfragrance.com/products/coco-by-chanel-for-women-eau-de-parfum-spray-3-4-ounce): Chanel Coco EDP 3.4 oz — warm, floral-oriental with rose, jasmine & vanilla. Iconic women's fragrance. Authentic, great price, fast delivery.
-  Updated: 2026-09-27T16:15:16Z
+  Updated: 2026-10-06T09:06:02Z
   Vendor: CHANEL
   Product Type: Perfume
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_4.webp?v=1788164727
   Price: $85.00 USD
 - [BVLGARI Extreme Eau de Toilette 50 ml](https://saveonfragrance.com/products/bvlgari-extreme-men-eau-de-toilette-50ml-1-7oz): Shop BVLGARI Extreme Eau de Toilette for Men 50 ml, a refined men's fragrance from BVLGARI.
-  Updated: 2026-09-29T04:45:26Z
+  Updated: 2026-10-06T17:12:42Z
   Vendor: BVLGARI
   Product Type: Perfume
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_bd950304-b771-442b-a27a-96486c296825.webp?v=1788164731
   Price: $85.00 USD
 - [TOM FORD F*cking Fabulous / 100mL](https://saveonfragrance.com/products/tom-ford-f-cking-fabulous-100ml-3-4oz): Shop TOM FORD F*cking Fabulous / 100mL. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-02T08:11:59Z
+  Updated: 2026-10-03T21:50:45Z
   Vendor: TOM FORD
   Product Type: Perfume
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_4662527a-fd61-4783-a4b4-5b8d3ea2f327.webp?v=1788164732
   Price: $110.00 USD
 - [MARC JACOBS Decadence Eau De Parfum Spray 3.4 oz](https://saveonfragrance.com/products/marc-jacobs-decadence-3-4-oz-100-ml-eau-de-parfum-women-s-spray): Shop MARC JACOBS Decadence Eau De Parfum Spray 3.4 oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-21T19:06:35Z
+  Updated: 2026-10-06T08:57:46Z
   Vendor: MARC JACOBS
   Product Type: Perfume
   Availability: Available
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_d6ac5484-bef5-42ab-98e3-d6ee56e8c87e.webp?v=1788164746
   Price: $110.00 USD
 - [CAROLINA HERRERA Good Girl DAZZLING GARDEN Eau de PARFUM / 2.7oz](https://saveonfragrance.com/products/carolina-herrera-good-girl-dazzling-garden-eau-de-parfum-2-7oz-80ml): Shop CAROLINA HERRERA Good Girl DAZZLING GARDEN Eau de PARFUM / 2.7oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-21T23:46:45Z
+  Updated: 2026-10-06T08:58:45Z
   Vendor: CAROLINA HERRERA
   Product Type: Perfume
   Availability: Available
@@ -389,14 +389,14 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/Carolina-Herrera-Good-Girl-Blush-Eau-de-Parfum-2-7-oz_d30cc559-4fe6-4413-bd4f-a463a37e112c.469a433ffe8f2afbecf9cc3c5d952a69.jpg?v=1788164750
   Price: $75.00 USD
 - [GIORGIO ARMANI Acqua Di Gio Eau de Toilette 6.7oz](https://saveonfragrance.com/products/giorgio-armani-acqua-di-gio-6-7oz-men-s-eau-de-toilette): Shop GIORGIO ARMANI Acqua Di Gio Eau de Toilette 6.7oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-29T23:29:35Z
+  Updated: 2026-10-06T10:02:47Z
   Vendor: GIORGIO ARMANI
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l500.jpg?v=1788164752
   Price: $61.00 USD
 - [GIORGIO ARMANI Acqua Di Gio Absolu Instict 2.5 Eau de Parfum Spray](https://saveonfragrance.com/products/giorgio-armani-acqua-di-gio-absolu-instict-2-5-edp-spray): Shop GIORGIO ARMANI Acqua Di Gio Absolu Instict 2.5 Eau de Parfum Spray. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-27T08:40:31Z
+  Updated: 2026-10-06T09:04:14Z
   Vendor: GIORGIO ARMANI
   Product Type: Perfume
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B00NBK5JHK.01.LZZZZZZZ.jpg?v=1788164756
   Price: $110.00 USD
 - [GIORGIO ARMANI Armani Code Absolu Eau De Parfum 110 ml](https://saveonfragrance.com/products/armani-code-absolu-110-ml-men-s-eau-de-parfum): Shop GIORGIO ARMANI Armani Code Absolu Eau De Parfum 110 ml. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-27T17:47:26Z
+  Updated: 2026-10-06T09:01:33Z
   Vendor: ARMANI
   Product Type: Perfume
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B08XJTL86Z.01.LZZZZZZZ.jpg?v=1788164759
   Price: $92.00 USD
 - [YVES SAINT LAURENT Libre LE PARFUM () 3.0 oz](https://saveonfragrance.com/products/yves-saint-laurent-libre-le-parfum-for-women-3-0-oz-90ml): Shop YVES SAINT LAURENT Libre LE PARFUM () 3.0 oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-29T04:20:46Z
+  Updated: 2026-10-06T10:02:09Z
   Vendor: YVES SAINT LAURENT
   Product Type: Perfume
   Availability: Available
@@ -690,7 +690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1600_63fc1468-9925-43ba-b2a6-5fd29bc5e87d.webp?v=1788164795
   Price: $110.00 USD
 - [Tom Ford Cherry Smoke Eau de Parfum 100 ml](https://saveonfragrance.com/products/cherry-smoke-eau-de-parfum-edp-100ml-3-4oz): Shop Tom Ford Cherry Smoke EDP 100 ml. A seductive smoky-fruity fragrance with cherry, saffron, leather and smoked woods.
-  Updated: 2026-09-02T08:12:08Z
+  Updated: 2026-10-03T21:50:41Z
   Vendor: Tom Ford
   Product Type: Perfume
   Availability: Available
@@ -739,7 +739,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B07V3HQ34C.01.LZZZZZZZ.jpg?v=1788164803
   Price: $140.00 USD
 - [TOM FORD Beauty Tobacco Vanille Private Blend Spray/ 3.4 oz](https://saveonfragrance.com/products/tom-ford-beauty-tobacco-vanille-private-blend-spray-3-4-oz): Shop TOM FORD Beauty Tobacco Vanille Private Blend Spray/ 3.4 oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-24T16:43:56Z
+  Updated: 2026-10-06T08:54:46Z
   Vendor: TOM FORD
   Product Type: Perfume
   Availability: Available
@@ -851,7 +851,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B0D87JFSV3.01.LZZZZZZZ.jpg?v=1788164825
   Price: $140.00 USD
 - [Kilian Flower of Immortality Eau de Parfum 1.7 oz](https://saveonfragrance.com/products/flower-of-immortality-by-kilian-1-7-oz): Shop Kilian Flower of Immortality EDP 1.7 oz. A rich velvety floral with lotus, white florals, musk and sandalwood.
-  Updated: 2026-09-13T17:49:59Z
+  Updated: 2026-10-06T08:54:27Z
   Vendor: Kilian
   Product Type: Perfume
   Availability: Available
@@ -872,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/s-l1200_c7dbcd23-189b-4731-b2f4-38f1fabcaf0d.jpg?v=1788164831
   Price: $75.99 USD
 - [DIOR Sauvage Eau de Parfum 3.4 oz | KAIRMERCÉ](https://saveonfragrance.com/products/sauvage-by-christian-dior-eau-de-parfum-spray-3-4-ounce): Shop DIOR Sauvage EDP 3.4 oz. The iconic men's fragrance with bergamot, Sichuan pepper and ambroxan notes. Authentic Christian Dior.
-  Updated: 2026-09-05T05:03:00Z
+  Updated: 2026-10-04T01:45:41Z
   Vendor: DIOR
   Product Type: Perfume
   Availability: Available
@@ -900,16 +900,16 @@
   Updated: 2026-09-01T06:03:28Z
   Total Products: 1
 - [Women](https://saveonfragrance.com/collections/women)
-  Updated: 2026-09-29T11:34:46Z
+  Updated: 2026-10-03T11:31:19Z
   Total Products: 105
 - [Men](https://saveonfragrance.com/collections/men)
-  Updated: 2026-09-30T11:30:53Z
+  Updated: 2026-10-04T11:22:10Z
   Total Products: 83
 - [Unisex](https://saveonfragrance.com/collections/unisex)
-  Updated: 2026-09-30T11:30:53Z
+  Updated: 2026-10-03T11:31:19Z
   Total Products: 41
 - [Best Sellers](https://saveonfragrance.com/collections/best-sellers): Customer favourites and standout fragrance picks.
-  Updated: 2026-09-25T11:32:36Z
+  Updated: 2026-10-04T11:22:10Z
   Total Products: 6
 - [](https://saveonfragrance.com/collections/): Selected fragrances with reduced pricing when available.
   Updated: 2026-09-01T06:03:28Z
