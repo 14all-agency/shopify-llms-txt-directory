@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-10-05T00:00:45.731Z
+- Updated At: 2026-10-13T00:00:47.587Z
 
 ## Products
 
@@ -1271,7 +1271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17_69f93e88-718b-47a6-b241-15ec22fea36b.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each piece tells a unique story.
-  Updated: 2026-09-14T19:04:13Z
+  Updated: 2026-10-06T15:25:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
@@ -2324,11 +2324,11 @@
   Updated: 2026-09-11T15:16:51Z
   Total Products: 2
 - [Men's Boots](https://mallturk.com/collections/mens-boots)
-  Updated: 2026-10-02T13:13:11Z
-  Total Products: 79
+  Updated: 2026-10-12T06:28:00Z
+  Total Products: 78
 - [Women's Boots](https://mallturk.com/collections/womens-boots)
-  Updated: 2026-10-02T10:40:22Z
-  Total Products: 136
+  Updated: 2026-10-12T06:28:00Z
+  Total Products: 148
 - [Women's Wallet](https://mallturk.com/collections/womens-wallet)
   Updated: 2026-09-11T15:16:53Z
   Total Products: 69
@@ -2378,7 +2378,7 @@
   Updated: 2026-09-11T12:38:07Z
   Total Products: 0
 - [Turkish Snacks](https://mallturk.com/collections/turkish-snacks)
-  Updated: 2026-09-14T12:07:48Z
+  Updated: 2026-10-05T11:16:03Z
   Total Products: 66
 - [Turkish Grocery](https://mallturk.com/collections/turkish-grocery)
   Updated: 2026-09-11T15:17:13Z
@@ -2399,7 +2399,7 @@
   Updated: 2026-09-11T15:17:19Z
   Total Products: 19
 - [Herbal & Fruit Tea](https://mallturk.com/collections/herbal-fruit-tea)
-  Updated: 2026-09-28T11:12:23Z
+  Updated: 2026-10-05T11:16:03Z
   Total Products: 1912
 - [Leather Bags](https://mallturk.com/collections/leather-bags): Explore Leather Bags at MALLTURK. Discover stylish and practical designs for everyday use and different occasions.
   Updated: 2026-09-11T15:17:22Z
@@ -2414,7 +2414,7 @@
   Updated: 2026-09-11T15:17:27Z
   Total Products: 9
 - [Women's Sportswear](https://mallturk.com/collections/womens-sportswear)
-  Updated: 2026-10-01T10:26:58Z
+  Updated: 2026-10-07T12:40:44Z
   Total Products: 69
 - [Girls' Swimwear](https://mallturk.com/collections/girls-swimwear)
   Updated: 2026-09-11T15:17:30Z
@@ -2450,11 +2450,11 @@
   Updated: 2026-10-02T06:26:06Z
   Total Products: 386
 - [Women's Shorts](https://mallturk.com/collections/womens-shorts)
-  Updated: 2026-10-02T06:26:08Z
-  Total Products: 101
+  Updated: 2026-10-07T12:26:15Z
+  Total Products: 0
 - [Women's Skirts](https://mallturk.com/collections/womens-skirts)
-  Updated: 2026-10-02T17:06:49Z
-  Total Products: 166
+  Updated: 2026-10-12T13:00:54Z
+  Total Products: 167
 - [Women's Dresses](https://mallturk.com/collections/womens-dresses)
   Updated: 2026-10-02T17:06:21Z
   Total Products: 227
@@ -2462,7 +2462,7 @@
   Updated: 2026-10-02T13:53:13Z
   Total Products: 240
 - [Women's Tops](https://mallturk.com/collections/womens-t-shirts)
-  Updated: 2026-10-01T11:27:21Z
+  Updated: 2026-10-06T06:24:44Z
   Total Products: 145
 - [Women's Pajama Sets](https://mallturk.com/collections/womens-pajama-sets)
   Updated: 2026-10-02T15:13:29Z
@@ -2471,289 +2471,226 @@
   Updated: 2026-10-02T15:13:21Z
   Total Products: 23
 - [Men's Socks](https://mallturk.com/collections/mens-socks)
-  Updated: 2026-10-01T10:59:37Z
-  Total Products: 1
+  Updated: 2026-10-05T12:49:05Z
+  Total Products: 6
 - [Women's Socks](https://mallturk.com/collections/womens-socks)
-  Updated: 2026-10-02T12:53:39Z
-  Total Products: 63
+  Updated: 2026-10-05T12:22:40Z
+  Total Products: 68
 - [Men's Sandals](https://mallturk.com/collections/mens-sandals)
-  Updated: 2026-10-01T11:10:31Z
+  Updated: 2026-10-06T06:19:56Z
   Total Products: 1
 - [Women's Sandals](https://mallturk.com/collections/womens-sandals)
-  Updated: 2026-10-02T10:59:59Z
-  Total Products: 104
+  Updated: 2026-10-07T10:46:52Z
+  Total Products: 111
 - [Women's Slippers](https://mallturk.com/collections/womens-slippers)
-  Updated: 2026-10-02T11:00:11Z
-  Total Products: 90
+  Updated: 2026-10-07T10:46:28Z
+  Total Products: 96
 - [Women's Heels](https://mallturk.com/collections/womens-heels)
-  Updated: 2026-10-02T10:49:43Z
+  Updated: 2026-10-05T20:16:28Z
   Total Products: 167
 - [Women's Home Slippers](https://mallturk.com/collections/womens-home-slippers)
-  Updated: 2026-10-02T06:26:18Z
-  Total Products: 8
+  Updated: 2026-10-07T10:19:26Z
+  Total Products: 11
 - [Men's Slippers](https://mallturk.com/collections/mens-slippers)
-  Updated: 2026-10-02T10:42:16Z
+  Updated: 2026-10-07T10:43:18Z
   Total Products: 18
 - [Men's Leather Shoes](https://mallturk.com/collections/mens-leather-shoes)
   Updated: 2026-10-02T06:26:21Z
   Total Products: 6
 - [Boys' Slippers](https://mallturk.com/collections/boys-slippers)
-  Updated: 2026-10-01T11:30:54Z
+  Updated: 2026-10-06T06:19:06Z
   Total Products: 4
 - [Girls' Sandals](https://mallturk.com/collections/girls-sandals)
-  Updated: 2026-10-02T13:03:38Z
+  Updated: 2026-10-05T16:00:44Z
   Total Products: 8
 - [Boys' Sandals](https://mallturk.com/collections/boys-sandals)
-  Updated: 2026-10-01T11:44:03Z
+  Updated: 2026-10-05T20:20:35Z
   Total Products: 13
 - [Women's Sports Shoes](https://mallturk.com/collections/womens-sports-shoes)
-  Updated: 2026-10-02T10:53:24Z
+  Updated: 2026-10-05T20:13:59Z
   Total Products: 141
 - [Women's Casual Shoes](https://mallturk.com/collections/womens-flat-shoes)
-  Updated: 2026-10-02T13:08:38Z
+  Updated: 2026-10-05T15:59:32Z
   Total Products: 289
 - [Men's Sports Shoes](https://mallturk.com/collections/mens-sports-shoes)
-  Updated: 2026-10-02T12:32:33Z
+  Updated: 2026-10-05T16:08:40Z
   Total Products: 98
 - [Men's Casual Shoes](https://mallturk.com/collections/mens-flat-shoes)
-  Updated: 2026-10-02T10:36:52Z
+  Updated: 2026-10-05T20:19:23Z
   Total Products: 618
 - [Boys' Sneakers](https://mallturk.com/collections/boys-sneakers)
-  Updated: 2026-10-02T11:11:28Z
+  Updated: 2026-10-05T20:02:26Z
   Total Products: 49
 - [Women's Flats](https://mallturk.com/collections/womens-flats)
-  Updated: 2026-10-02T11:13:11Z
+  Updated: 2026-10-05T19:58:41Z
   Total Products: 32
-- [Women's Heeled Boots](https://mallturk.com/collections/womens-heeled-boots)
-  Updated: 2026-10-02T11:13:57Z
-  Total Products: 8
 - [Girls' Boots](https://mallturk.com/collections/girls-boots)
-  Updated: 2026-10-02T11:16:11Z
+  Updated: 2026-10-05T19:53:03Z
   Total Products: 10
 - [Girls' Sneakers](https://mallturk.com/collections/girls-sneakers)
   Updated: 2026-10-02T11:31:09Z
   Total Products: 2
 - [Girls' Flats](https://mallturk.com/collections/girls-flats)
-  Updated: 2026-10-02T11:31:46Z
+  Updated: 2026-10-05T19:51:30Z
   Total Products: 1
 - [Girls' Roller Shoes](https://mallturk.com/collections/girls-roller-shoes)
-  Updated: 2026-10-02T11:32:39Z
+  Updated: 2026-10-05T19:50:45Z
   Total Products: 2
 - [Girls' Heels](https://mallturk.com/collections/girls-heels)
-  Updated: 2026-10-02T11:34:35Z
+  Updated: 2026-10-05T20:11:11Z
   Total Products: 6
-- [Girls' Slippers](https://mallturk.com/collections/girls-slippers)
-  Updated: 2026-10-02T11:45:45Z
-  Total Products: 2
-- [Boys' Bag](https://mallturk.com/collections/boys-bag)
-  Updated: 2026-10-02T11:47:33Z
-  Total Products: 1
 - [Boys' Boots](https://mallturk.com/collections/boys-boots)
-  Updated: 2026-10-02T11:49:05Z
+  Updated: 2026-10-06T06:59:07Z
   Total Products: 13
-- [Dresses](https://mallturk.com/collections/dresses)
-  Updated: 2026-10-02T12:14:04Z
-  Total Products: 2
 - [Kids' Baby Bodysuit & Onesie](https://mallturk.com/collections/kids-baby-bodysuit-onesie)
-  Updated: 2026-10-02T14:19:52Z
+  Updated: 2026-10-05T13:39:46Z
   Total Products: 9
 - [Kids' Blouses](https://mallturk.com/collections/kids-blouses)
-  Updated: 2026-10-02T12:14:11Z
-  Total Products: 13
+  Updated: 2026-10-07T12:37:09Z
+  Total Products: 6
 - [Kids' Bodysuits](https://mallturk.com/collections/kids-bodysuits)
-  Updated: 2026-10-02T14:44:56Z
+  Updated: 2026-10-05T13:43:13Z
   Total Products: 23
 - [Kids' Boxer Shorts](https://mallturk.com/collections/kids-boxer-shorts)
-  Updated: 2026-10-02T12:14:17Z
+  Updated: 2026-10-05T19:21:05Z
   Total Products: 13
 - [Kids' Briefs](https://mallturk.com/collections/kids-briefs)
-  Updated: 2026-10-02T14:58:50Z
+  Updated: 2026-10-05T14:00:37Z
   Total Products: 19
 - [Kids' Cardigans](https://mallturk.com/collections/kids-cardigans)
-  Updated: 2026-10-02T12:14:23Z
+  Updated: 2026-10-05T19:23:08Z
   Total Products: 18
-- [Kids' Coats](https://mallturk.com/collections/kids-coats)
-  Updated: 2026-10-02T12:14:29Z
-  Total Products: 1
-- [Kids' Costumes](https://mallturk.com/collections/kids-costumes)
-  Updated: 2026-10-02T12:14:32Z
-  Total Products: 1
 - [Kids' Dresses](https://mallturk.com/collections/kids-dresses)
-  Updated: 2026-10-02T12:14:36Z
-  Total Products: 36
-- [Kids' Hair Clips](https://mallturk.com/collections/kids-hair-clips)
-  Updated: 2026-10-02T12:14:39Z
-  Total Products: 1
+  Updated: 2026-10-07T12:15:33Z
+  Total Products: 38
 - [Kids' Jackets](https://mallturk.com/collections/kids-jackets)
-  Updated: 2026-10-02T14:04:25Z
+  Updated: 2026-10-05T20:09:45Z
   Total Products: 15
 - [Kids' Jeans](https://mallturk.com/collections/kids-jeans)
-  Updated: 2026-10-02T12:14:45Z
+  Updated: 2026-10-06T07:03:30Z
   Total Products: 4
 - [Kids' Leggings](https://mallturk.com/collections/kids-leggings)
-  Updated: 2026-10-02T14:42:03Z
+  Updated: 2026-10-05T19:43:58Z
   Total Products: 10
 - [Kids' Pajama Bottoms](https://mallturk.com/collections/kids-pajama-bottoms)
-  Updated: 2026-10-02T12:14:51Z
+  Updated: 2026-10-06T07:01:38Z
   Total Products: 12
 - [Kids' Pajama Sets](https://mallturk.com/collections/kids-pajama-sets)
-  Updated: 2026-10-02T13:47:40Z
+  Updated: 2026-10-05T19:27:28Z
   Total Products: 54
 - [Kids' Polo T-Shirts](https://mallturk.com/collections/kids-polo-t-shirts)
-  Updated: 2026-10-02T15:03:53Z
+  Updated: 2026-10-05T13:24:07Z
   Total Products: 22
 - [Kids' Shirts](https://mallturk.com/collections/kids-shirts)
-  Updated: 2026-10-02T14:42:51Z
+  Updated: 2026-10-05T14:39:05Z
   Total Products: 48
 - [Kids' Shorts & Bermudas](https://mallturk.com/collections/kids-shorts-bermudas)
-  Updated: 2026-10-02T14:16:19Z
+  Updated: 2026-10-05T14:45:24Z
   Total Products: 45
 - [Kids' Skirts](https://mallturk.com/collections/kids-skirts)
-  Updated: 2026-10-02T14:25:38Z
+  Updated: 2026-10-05T14:42:35Z
   Total Products: 28
-- [Kids' Socks](https://mallturk.com/collections/kids-socks)
-  Updated: 2026-10-02T12:15:10Z
-  Total Products: 1
-- [Kids' Softshell & Fleece](https://mallturk.com/collections/kids-softshell-fleece)
-  Updated: 2026-10-02T12:15:14Z
-  Total Products: 3
-- [Kids' Sports Sweatsuit Set](https://mallturk.com/collections/kids-sports-sweatsuit-set)
-  Updated: 2026-10-02T12:15:20Z
-  Total Products: 4
-- [Kids' Sweater Vests](https://mallturk.com/collections/kids-sweater-vests)
-  Updated: 2026-10-02T12:15:23Z
-  Total Products: 5
 - [Kids' Sweaters](https://mallturk.com/collections/kids-sweaters)
-  Updated: 2026-10-02T14:38:49Z
+  Updated: 2026-10-05T13:59:07Z
   Total Products: 8
 - [Kids' Sweatpants](https://mallturk.com/collections/kids-sweatpants)
   Updated: 2026-10-03T14:05:13Z
   Total Products: 112
 - [Kids' Sweatshirts](https://mallturk.com/collections/kids-sweatshirts)
-  Updated: 2026-10-02T14:55:24Z
+  Updated: 2026-10-05T13:46:12Z
   Total Products: 121
-- [Kids' Sweatsuit Sets](https://mallturk.com/collections/kids-sweatsuit-sets)
-  Updated: 2026-10-02T12:15:39Z
-  Total Products: 2
 - [Kids' T-Shirts](https://mallturk.com/collections/kids-t-shirts)
   Updated: 2026-10-03T14:02:21Z
   Total Products: 317
 - [Kids' Trench Coats](https://mallturk.com/collections/kids-trench-coats)
-  Updated: 2026-10-02T12:15:48Z
+  Updated: 2026-10-07T12:54:38Z
   Total Products: 3
 - [Kids' Trousers](https://mallturk.com/collections/kids-trousers)
   Updated: 2026-10-03T14:02:37Z
   Total Products: 138
-- [Kids' Tunics](https://mallturk.com/collections/kids-tunics)
-  Updated: 2026-10-02T12:15:55Z
-  Total Products: 5
 - [Kids' Two Piece Sets](https://mallturk.com/collections/kids-two-piece-sets)
-  Updated: 2026-10-02T15:07:59Z
+  Updated: 2026-10-05T13:02:30Z
   Total Products: 203
 - [Kids' Undershirt](https://mallturk.com/collections/kids-undershirt)
-  Updated: 2026-10-02T12:16:01Z
+  Updated: 2026-10-05T19:47:59Z
   Total Products: 13
 - [Kids' Vests](https://mallturk.com/collections/kids-vests)
-  Updated: 2026-10-02T12:16:04Z
+  Updated: 2026-10-06T06:46:20Z
   Total Products: 23
 - [Kids' Winter Jackets](https://mallturk.com/collections/kids-winter-jackets)
-  Updated: 2026-10-02T15:02:53Z
+  Updated: 2026-10-05T13:38:09Z
   Total Products: 36
-- [Makeup Bags](https://mallturk.com/collections/makeup-bags)
-  Updated: 2026-10-02T12:16:10Z
-  Total Products: 1
 - [Men's Bodysuits](https://mallturk.com/collections/mens-bodysuits)
-  Updated: 2026-10-02T12:16:13Z
+  Updated: 2026-10-06T06:52:52Z
   Total Products: 13
 - [Men's Coats](https://mallturk.com/collections/mens-coats)
-  Updated: 2026-10-02T12:16:16Z
+  Updated: 2026-10-06T07:19:58Z
   Total Products: 4
 - [Men's Jackets](https://mallturk.com/collections/mens-jackets)
-  Updated: 2026-10-02T13:58:56Z
+  Updated: 2026-10-05T14:10:17Z
   Total Products: 34
 - [Men's Pajama Sets](https://mallturk.com/collections/mens-pajama-sets)
-  Updated: 2026-10-02T12:16:30Z
+  Updated: 2026-10-06T06:45:10Z
   Total Products: 14
 - [Men's Pajama Tops](https://mallturk.com/collections/mens-pajama-tops)
-  Updated: 2026-10-02T12:16:33Z
+  Updated: 2026-10-06T06:42:49Z
   Total Products: 4
 - [Men's Polo T-Shirts](https://mallturk.com/collections/mens-polo-t-shirts)
-  Updated: 2026-10-02T12:40:33Z
+  Updated: 2026-10-06T06:29:43Z
   Total Products: 2
 - [Men's Scarves](https://mallturk.com/collections/mens-scarves)
-  Updated: 2026-10-02T12:16:40Z
+  Updated: 2026-10-06T06:40:56Z
   Total Products: 4
 - [Men's Shirts](https://mallturk.com/collections/mens-shirts)
-  Updated: 2026-10-02T14:48:51Z
+  Updated: 2026-10-05T14:55:16Z
   Total Products: 29
-- [Men's Shorts & Bermudas](https://mallturk.com/collections/mens-shorts-bermudas)
-  Updated: 2026-10-02T12:16:46Z
-  Total Products: 2
-- [Men's Sports Sweatsuit Set](https://mallturk.com/collections/mens-sports-sweatsuit-set)
-  Updated: 2026-10-02T12:16:55Z
-  Total Products: 1
 - [Men's Sweaters](https://mallturk.com/collections/mens-sweaters)
-  Updated: 2026-10-02T15:04:31Z
+  Updated: 2026-10-05T12:36:07Z
   Total Products: 55
 - [Men's Sweatpants](https://mallturk.com/collections/mens-sweatpants)
-  Updated: 2026-10-02T14:41:05Z
+  Updated: 2026-10-05T13:29:10Z
   Total Products: 21
 - [Men's Sweatshirts](https://mallturk.com/collections/mens-sweatshirts)
-  Updated: 2026-10-02T15:13:13Z
+  Updated: 2026-10-05T13:18:53Z
   Total Products: 118
 - [Men's Trousers](https://mallturk.com/collections/mens-trousers)
-  Updated: 2026-10-02T12:41:20Z
+  Updated: 2026-10-05T16:15:03Z
   Total Products: 17
 - [Men's Undershirt](https://mallturk.com/collections/mens-undershirt)
-  Updated: 2026-10-02T12:17:21Z
+  Updated: 2026-10-06T06:38:41Z
   Total Products: 8
 - [Men's Winter Jackets](https://mallturk.com/collections/mens-winter-jackets)
-  Updated: 2026-10-02T14:58:09Z
+  Updated: 2026-10-05T13:35:47Z
   Total Products: 10
-- [Overalls](https://mallturk.com/collections/overalls)
-  Updated: 2026-10-02T12:17:30Z
-  Total Products: 1
-- [Plus Size Sexy Gown](https://mallturk.com/collections/plus-size-sexy-gown)
-  Updated: 2026-10-02T12:17:33Z
-  Total Products: 1
-- [Trousers](https://mallturk.com/collections/trousers)
-  Updated: 2026-10-02T12:17:36Z
-  Total Products: 1
-- [Tunics](https://mallturk.com/collections/tunics)
-  Updated: 2026-10-02T12:17:39Z
-  Total Products: 5
 - [Women's Beach Bags](https://mallturk.com/collections/womens-beach-bags)
   Updated: 2026-10-02T12:17:42Z
   Total Products: 5
 - [Women's Beanies](https://mallturk.com/collections/womens-beanies)
-  Updated: 2026-10-02T12:17:46Z
+  Updated: 2026-10-06T07:06:37Z
   Total Products: 4
 - [Women's Belts](https://mallturk.com/collections/womens-belts)
-  Updated: 2026-10-02T13:55:08Z
+  Updated: 2026-10-05T19:34:56Z
   Total Products: 22
 - [Women's Blazers](https://mallturk.com/collections/womens-blazers)
-  Updated: 2026-10-02T15:05:18Z
+  Updated: 2026-10-05T12:30:33Z
   Total Products: 13
 - [Women's Blouses](https://mallturk.com/collections/womens-blouses)
-  Updated: 2026-10-02T16:50:25Z
-  Total Products: 396
+  Updated: 2026-10-07T12:33:34Z
+  Total Products: 403
 - [Women's Bodysuits](https://mallturk.com/collections/womens-bodysuits)
   Updated: 2026-10-03T09:53:27Z
   Total Products: 295
-- [Women's Boots & Knee-High Boots](https://mallturk.com/collections/womens-boots-knee-high-boots)
-  Updated: 2026-10-02T12:18:05Z
-  Total Products: 40
 - [Women's Boxer Shorts](https://mallturk.com/collections/womens-boxer-shorts)
-  Updated: 2026-10-02T12:18:07Z
+  Updated: 2026-10-06T06:37:18Z
   Total Products: 8
 - [Women's Bras](https://mallturk.com/collections/womens-bras)
-  Updated: 2026-10-02T12:18:11Z
+  Updated: 2026-10-06T07:11:20Z
   Total Products: 31
 - [Women's Briefs](https://mallturk.com/collections/womens-briefs)
   Updated: 2026-10-03T09:40:56Z
   Total Products: 52
 - [Women's Bustiers](https://mallturk.com/collections/womens-bustiers)
-  Updated: 2026-10-02T14:18:26Z
+  Updated: 2026-10-05T14:50:53Z
   Total Products: 59
 - [Women's Cardigans](https://mallturk.com/collections/womens-cardigans)
   Updated: 2026-10-03T14:08:44Z
@@ -2762,77 +2699,56 @@
   Updated: 2026-10-02T12:18:23Z
   Total Products: 4
 - [Women's Coats](https://mallturk.com/collections/womens-coats)
-  Updated: 2026-10-02T12:18:26Z
-  Total Products: 7
+  Updated: 2026-10-12T17:05:10Z
+  Total Products: 422
 - [Women's Hair Clips](https://mallturk.com/collections/womens-hair-clips)
-  Updated: 2026-10-02T12:21:33Z
+  Updated: 2026-10-06T06:36:54Z
   Total Products: 9
 - [Women's Handbags](https://mallturk.com/collections/womens-handbags)
   Updated: 2026-10-02T12:21:36Z
   Total Products: 46
 - [Women's Hats](https://mallturk.com/collections/womens-hats)
-  Updated: 2026-10-02T12:21:39Z
+  Updated: 2026-10-05T16:35:19Z
   Total Products: 8
-- [Women's Home Slippers & Boots](https://mallturk.com/collections/womens-home-slippers-boots)
-  Updated: 2026-10-02T12:21:42Z
-  Total Products: 3
 - [Women's Jackets](https://mallturk.com/collections/womens-jackets)
-  Updated: 2026-10-02T14:14:09Z
+  Updated: 2026-10-05T19:42:09Z
   Total Products: 50
 - [Women's Jumpsuits](https://mallturk.com/collections/womens-jumpsuits)
-  Updated: 2026-10-02T16:45:32Z
+  Updated: 2026-10-05T07:09:56Z
   Total Products: 19
 - [Women's Kimono & Kaftan](https://mallturk.com/collections/womens-kimono-kaftan)
-  Updated: 2026-10-02T12:23:24Z
+  Updated: 2026-10-07T12:13:13Z
   Total Products: 8
 - [Women's Leggings](https://mallturk.com/collections/womens-leggings)
   Updated: 2026-10-03T09:59:59Z
   Total Products: 22
-- [Women's Maternity Dresses](https://mallturk.com/collections/womens-maternity-dresses)
-  Updated: 2026-10-02T12:23:30Z
-  Total Products: 1
 - [Women's Modest Dresses](https://mallturk.com/collections/womens-modest-dresses)
-  Updated: 2026-10-02T17:03:55Z
-  Total Products: 75
+  Updated: 2026-10-07T10:03:48Z
+  Total Products: 79
 - [Women's Modest Swimwear](https://mallturk.com/collections/womens-modest-swimwear)
-  Updated: 2026-10-02T17:05:26Z
-  Total Products: 105
+  Updated: 2026-10-12T13:03:03Z
+  Total Products: 106
 - [Women's Nightgowns](https://mallturk.com/collections/womens-nightgowns)
-  Updated: 2026-10-02T12:23:42Z
+  Updated: 2026-10-05T16:21:35Z
   Total Products: 13
 - [Women's Pajama Bottoms](https://mallturk.com/collections/womens-pajama-bottoms)
-  Updated: 2026-10-02T12:23:45Z
+  Updated: 2026-10-05T15:54:32Z
   Total Products: 17
-- [Women's Plus Size Dress](https://mallturk.com/collections/womens-plus-size-dress)
-  Updated: 2026-10-02T12:26:01Z
-  Total Products: 1
 - [Women's Plus Size Pajama Sets](https://mallturk.com/collections/womens-plus-size-pajama-sets)
-  Updated: 2026-10-02T14:12:00Z
+  Updated: 2026-10-05T16:11:16Z
   Total Products: 29
-- [Women's Plus Size Shirts](https://mallturk.com/collections/womens-plus-size-shirts)
-  Updated: 2026-10-02T12:26:08Z
-  Total Products: 3
-- [Women's Plus Size Top and Bottom Set](https://mallturk.com/collections/womens-plus-size-top-and-bottom-set)
-  Updated: 2026-10-02T12:26:14Z
-  Total Products: 1
 - [Women's Polo T-Shirts](https://mallturk.com/collections/womens-polo-t-shirts)
-  Updated: 2026-10-02T13:51:47Z
+  Updated: 2026-10-05T20:08:46Z
   Total Products: 8
-- [Women's Ponchos](https://mallturk.com/collections/womens-ponchos)
-  Updated: 2026-10-02T12:26:20Z
-  Total Products: 2
-- [Women's Sandals and Slippers](https://mallturk.com/collections/womens-sandals-and-slippers)
-  Updated: 2026-10-02T12:26:24Z
-  Total Products: 109
 - [Women's Shawls](https://mallturk.com/collections/womens-shawls)
-  Updated: 2026-10-02T12:26:26Z
+  Updated: 2026-10-05T16:06:52Z
   Total Products: 9
 - [Women's Shirts](https://mallturk.com/collections/womens-shirts)
-  Updated: 2026-10-02T13:44:56Z
+  Updated: 2026-10-05T19:32:55Z
   Total Products: 236
 - [Women's Shorts & Bermudas](https://mallturk.com/collections/womens-shorts-bermudas)
-  Updated: 2026-10-02T12:26:32Z
-  Total Products: 20
+  Updated: 2026-10-07T12:27:41Z
+  Total Products: 122
 - [Women's Shoulder Bags](https://mallturk.com/collections/womens-shoulder-bags)
   Updated: 2026-10-02T12:26:36Z
   Total Products: 2
@@ -2840,107 +2756,98 @@
   Updated: 2026-10-02T12:28:51Z
   Total Products: 2
 - [Women's Sweater Vests](https://mallturk.com/collections/womens-sweater-vests)
-  Updated: 2026-10-02T15:12:58Z
+  Updated: 2026-10-05T13:08:39Z
   Total Products: 19
 - [Women's Sweaters](https://mallturk.com/collections/womens-sweaters)
-  Updated: 2026-10-02T14:53:06Z
+  Updated: 2026-10-05T13:32:48Z
   Total Products: 195
 - [Women's Sweatpants](https://mallturk.com/collections/womens-sweatpants)
-  Updated: 2026-10-02T15:10:33Z
+  Updated: 2026-10-05T13:13:48Z
   Total Products: 104
-- [Women's Sweatshirt](https://mallturk.com/collections/womens-sweatshirt)
-  Updated: 2026-10-02T12:41:50Z
-  Total Products: 12
 - [Women's Sweatshirts](https://mallturk.com/collections/womens-sweatshirts)
-  Updated: 2026-10-02T15:05:09Z
-  Total Products: 326
+  Updated: 2026-10-07T12:41:28Z
+  Total Products: 338
 - [Women's T-Shirts](https://mallturk.com/collections/womens-t-shirts-1)
-  Updated: 2026-10-02T15:12:09Z
+  Updated: 2026-10-05T07:31:22Z
   Total Products: 251
 - [Women's Trench Coats](https://mallturk.com/collections/womens-trench-coats)
-  Updated: 2026-10-02T12:29:16Z
+  Updated: 2026-10-05T14:34:31Z
   Total Products: 42
 - [Women's Trousers](https://mallturk.com/collections/womens-trousers)
-  Updated: 2026-10-02T15:08:48Z
+  Updated: 2026-10-05T12:56:10Z
   Total Products: 179
 - [Women's Tunics](https://mallturk.com/collections/womens-tunics)
-  Updated: 2026-10-02T15:10:54Z
-  Total Products: 62
+  Updated: 2026-10-07T12:50:32Z
+  Total Products: 67
 - [Women's Two Piece Sets](https://mallturk.com/collections/womens-two-piece-sets)
-  Updated: 2026-10-02T14:16:35Z
+  Updated: 2026-10-05T13:55:07Z
   Total Products: 177
 - [Women's Undershirt](https://mallturk.com/collections/womens-undershirt)
-  Updated: 2026-10-02T12:29:29Z
+  Updated: 2026-10-05T15:55:40Z
   Total Products: 11
 - [Women's Underwear Sets](https://mallturk.com/collections/womens-underwear-sets)
-  Updated: 2026-10-02T12:29:32Z
+  Updated: 2026-10-05T14:59:57Z
   Total Products: 4
 - [Women's Vests](https://mallturk.com/collections/womens-vests)
-  Updated: 2026-10-02T12:29:35Z
+  Updated: 2026-10-06T07:16:30Z
   Total Products: 32
 - [Women's Winter Jackets](https://mallturk.com/collections/womens-winter-jackets)
-  Updated: 2026-10-02T12:29:39Z
+  Updated: 2026-10-05T14:15:52Z
   Total Products: 48
 - [Women's Loafers](https://mallturk.com/collections/womens-loafers)
-  Updated: 2026-10-02T12:30:44Z
+  Updated: 2026-10-05T14:58:58Z
   Total Products: 23
 - [Men's Sneakers](https://mallturk.com/collections/mens-sneakers)
-  Updated: 2026-10-02T12:42:05Z
+  Updated: 2026-10-05T14:24:53Z
   Total Products: 52
 - [Women's Sneakers](https://mallturk.com/collections/womens-sneakers)
-  Updated: 2026-10-02T12:42:10Z
+  Updated: 2026-10-05T14:20:00Z
   Total Products: 43
 - [Women's Plus Size Corset](https://mallturk.com/collections/womens-plus-size-corset)
-  Updated: 2026-10-02T13:50:10Z
+  Updated: 2026-10-05T19:38:58Z
   Total Products: 20
 - [Women's Sports Corsets](https://mallturk.com/collections/womens-sports-corsets)
   Updated: 2026-10-02T13:51:31Z
   Total Products: 14
 - [Men's Boxer Shorts](https://mallturk.com/collections/mens-boxer-shorts)
-  Updated: 2026-10-02T13:55:07Z
+  Updated: 2026-10-05T14:07:58Z
   Total Products: 52
 - [Women's Swimsuits](https://mallturk.com/collections/womens-swimsuits)
-  Updated: 2026-10-02T17:05:01Z
+  Updated: 2026-10-05T07:26:47Z
   Total Products: 117
 - [Headscarves](https://mallturk.com/collections/headscarves)
-  Updated: 2026-10-02T17:05:51Z
+  Updated: 2026-10-05T07:29:24Z
   Total Products: 3
 - [Kids' Modest Dresses](https://mallturk.com/collections/kids-modest-dresses)
-  Updated: 2026-10-02T17:05:54Z
+  Updated: 2026-10-05T10:00:46Z
   Total Products: 5
-- [Seccade](https://mallturk.com/collections/seccade)
-  Updated: 2026-10-02T17:05:57Z
-  Total Products: 4
 - [Women's Bikini Bottoms](https://mallturk.com/collections/womens-bikini-bottoms)
-  Updated: 2026-10-02T17:06:01Z
-  Total Products: 3
+  Updated: 2026-10-07T10:13:00Z
+  Total Products: 8
 - [Women's Bikini Sets](https://mallturk.com/collections/womens-bikini-sets)
-  Updated: 2026-10-02T17:06:04Z
+  Updated: 2026-10-12T06:26:00Z
   Total Products: 13
 - [Women's Bikini Tops](https://mallturk.com/collections/womens-bikini-tops)
-  Updated: 2026-10-02T17:06:07Z
+  Updated: 2026-10-05T13:20:55Z
   Total Products: 7
 - [Women's Cape & Abaya](https://mallturk.com/collections/womens-cape-abaya)
-  Updated: 2026-10-02T17:06:10Z
+  Updated: 2026-10-05T13:11:21Z
   Total Products: 11
 - [Women's Chemise](https://mallturk.com/collections/womens-chemise)
-  Updated: 2026-10-02T17:06:13Z
+  Updated: 2026-10-05T13:05:26Z
   Total Products: 16
 - [Women's Modest Pareos](https://mallturk.com/collections/womens-modest-pareos)
-  Updated: 2026-10-02T17:06:28Z
+  Updated: 2026-10-05T12:09:23Z
   Total Products: 11
 - [Women's Pareos](https://mallturk.com/collections/womens-pareos)
-  Updated: 2026-10-02T17:06:34Z
+  Updated: 2026-10-05T07:53:31Z
   Total Products: 14
 - [Women's Plus Size Swimsuits](https://mallturk.com/collections/womens-plus-size-swimsuits)
-  Updated: 2026-10-02T17:06:37Z
+  Updated: 2026-10-05T13:21:41Z
   Total Products: 1
 - [Women's Sports Shorts](https://mallturk.com/collections/womens-sports-shorts)
-  Updated: 2026-10-02T17:06:52Z
-  Total Products: 1
-- [Women's Swim Shorts](https://mallturk.com/collections/womens-swim-shorts)
-  Updated: 2026-10-02T17:06:55Z
-  Total Products: 5
+  Updated: 2026-10-07T12:27:41Z
+  Total Products: 0
 
 ## Blogs
 
