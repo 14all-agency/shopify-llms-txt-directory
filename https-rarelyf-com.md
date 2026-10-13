@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-10-05T00:00:39.527Z
+- Updated At: 2026-10-13T00:00:40.572Z
 
 ## About RareLyf 
 
@@ -41,15 +41,15 @@
 
 ## Products
 
-- [RareLyf Calm](https://rarelyf.com/products/rarelyf-calm): Every ingredient in RareLyf Calm was chosen for three reasons: classical Ayurvedic precedent, modern clinical validation, and compound synergy. Nothing is in here for label decoration. Everything earns its place.
-  Updated: 2026-09-30T06:29:25Z
+- [RareLyf Calm | 15-Ingredient Stress and Sleep Support](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
+  Updated: 2026-10-08T22:18:15Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Images_Hero_with_badges_2.2.jpg?v=1785128333
+  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero.jpg?v=1791457395
   Price: $59.99 USD
 - [90 Days Restoration Scratchcard](https://rarelyf.com/products/90-days-restoration-scratchcard)
-  Updated: 2026-09-30T06:29:21Z
+  Updated: 2026-10-06T19:30:13Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
@@ -59,8 +59,8 @@
 ## Collections
 
 - [Home page](https://rarelyf.com/collections/frontpage)
-  Updated: 2026-09-30T11:23:16Z
-  Total Products: 1
+  Updated: 2026-10-08T10:37:04Z
+  Total Products: 0
 
 ## Store Pages
 
@@ -78,8 +78,8 @@
   Updated: 2026-08-10T06:17:41Z
 - [Melatonin Knocks You Out. It Doesn't Fix Your Sleep.](https://rarelyf.com/pages/melatonin-knocks-you-out-it-doesnt-fix-your-sleep)
   Updated: 2026-09-03T11:11:31Z
-- [Ashwagandha Works. But It Was Never Meant to Work Alone.](https://rarelyf.com/pages/ashwagandha-works-but-it-was-never-meant-to-work-alone)
-  Updated: 2026-09-14T13:55:03Z
+- [Ashwagandha Works. But It Was Never Meant to Work Alone.](https://rarelyf.com/pages/ashwagandha-vs-calm): Stress and sleep don't have one cause. So one herb was never going to cover it.
+  Updated: 2026-10-08T10:38:44Z
 - [Thanks for your feedback](https://rarelyf.com/pages/thanks-for-your-feedback): .rlc{--v:#2d1a4e;--g:#b8960a;--ink:#111;--mu:#5e5a52;--ln:#e4dfd2;--card:#fffdf8;--cr:#f2f0ea;font-family:var(--font-body--family,Poppins),Poppins,...
   Updated: 2026-09-30T06:15:32Z
 
