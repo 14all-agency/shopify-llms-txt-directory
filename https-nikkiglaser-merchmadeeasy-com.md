@@ -6,17 +6,17 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-04T22:42:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-22T00:00:40.340Z
+- Updated At: 2026-10-13T00:00:44.852Z
 
 ## Products
 
 - [Alive and Unwell Crewneck - Black](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck): Welcome to the Alive and Unwell University 90/10 US grown cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 21 24 M 29 23 24 L 30 25 24 XL 31 27 24 2XL 32 29 23 1/2 3XL 33 31 23
-  Updated: 2026-09-15T20:36:28Z
+  Updated: 2026-10-12T20:22:00Z
   Vendor: Nikki Glaser Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGALIVEANDUNWELLCREWBLACK.png?v=1741618606
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck?variant=42415807365255)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck?variant=42415807365255)
     Availability: Available
     Price: $30.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck?variant=42415807398023)
@@ -32,12 +32,12 @@
     Availability: Available
     Price: $30.00 USD
 - [Not Real Money Tee](https://nikkiglaser.merchmadeeasy.com/products/not-real-money-tee): I mean... even Gronk was like: "ME KNOW THAT NOT REAL MONEY" 100% cotton black tee with front and back print. Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:28Z
+  Updated: 2026-10-12T20:22:01Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NG_NOT_REAL_MONEY_TEE-4.png?v=1762286067
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/not-real-money-tee?variant=42415801368711)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/not-real-money-tee?variant=42415801368711)
     Availability: Available
     Price: $10.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/not-real-money-tee?variant=42415801401479)
@@ -53,19 +53,19 @@
     Availability: Not Available
     Price: $10.00 USD
 - [Alive & Unwell Hat](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-dad-hat): Alive & Unwell Tour Hat!
-  Updated: 2026-07-31T17:28:39Z
+  Updated: 2026-10-12T20:22:01Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGTOURHAT.png?v=1760717173
   Price: $15.00 USD
 - [College Tee](https://nikkiglaser.merchmadeeasy.com/products/new-york-city-tee): 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:29Z
+  Updated: 2026-10-12T20:22:02Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGNEWYORKCITYTEE-2.png?v=1742407879
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/new-york-city-tee?variant=42480882614407)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/new-york-city-tee?variant=42480882614407)
     Availability: Available
     Price: $15.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/new-york-city-tee?variant=42480882647175)
@@ -84,12 +84,12 @@
     Availability: Available
     Price: $15.00 USD
 - [(SIGNED) College Tee](https://nikkiglaser.merchmadeeasy.com/products/nyc-tee-signed): 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:30Z
+  Updated: 2026-10-12T20:22:02Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSIGNEDCOLLEGETEE.png?v=1761065708
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/nyc-tee-signed?variant=43322463879303)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/nyc-tee-signed?variant=43322463879303)
     Availability: Available
     Price: $40.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/nyc-tee-signed?variant=43322463912071)
@@ -108,12 +108,12 @@
     Availability: Available
     Price: $40.00 USD
 - [Alive and Unwell Crewneck - Navy](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck-navy): Welcome to the Alive and Unwell University 90/10 US grown cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 21 24 M 29 23 24 L 30 25 24 XL 31 27 24 2XL 32 29 23 1/2 3XL 33 31 23
-  Updated: 2026-09-15T20:36:30Z
+  Updated: 2026-10-12T20:22:02Z
   Vendor: Nikki Glaser Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGNAVYCREW.png?v=1760559829
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck-navy?variant=43322488324231)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck-navy?variant=43322488324231)
     Availability: Available
     Price: $60.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck-navy?variant=43322488356999)
@@ -129,33 +129,33 @@
     Availability: Available
     Price: $60.00 USD
 - [Alive and Unwell Tote](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-tote): 8 x 10.5
-  Updated: 2026-07-08T21:34:44Z
+  Updated: 2026-10-12T20:22:02Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGTOURTOTE.png?v=1760556996
   Price: $25.00 USD
 - [College Tote](https://nikkiglaser.merchmadeeasy.com/products/college-tote): Collegiate tote in "camel" 11.5 x 10
-  Updated: 2026-08-04T04:25:36Z
+  Updated: 2026-10-12T20:22:03Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGCOLLEGETOTE.png?v=1760557213
   Price: $15.00 USD
 - [Ghost Keychain](https://nikkiglaser.merchmadeeasy.com/products/ghost-keychain)
-  Updated: 2026-07-08T21:34:44Z
+  Updated: 2026-10-12T20:22:03Z
   Vendor: Nikki Glaser Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGHOSTKEYCHAIN.png?v=1760558188
   Price: $5.00 USD
 - [Live Tee](https://nikkiglaser.merchmadeeasy.com/products/live-tee): Nikki Glaser Live Photo Tee in charcoal with front print only.
-  Updated: 2026-09-16T21:21:12Z
+  Updated: 2026-10-12T20:22:03Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGLIVETEE.png?v=1760716894
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/live-tee?variant=43329900150919)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/live-tee?variant=43329900150919)
     Availability: Available
     Price: $30.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/live-tee?variant=43329900183687)
@@ -171,12 +171,12 @@
     Availability: Available
     Price: $30.00 USD
 - [Motion Tee](https://nikkiglaser.merchmadeeasy.com/products/motion-tee): Nikki Glaser Motion Tee with front print only.
-  Updated: 2026-09-19T19:10:17Z
+  Updated: 2026-10-12T20:22:04Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGMOTIONTEE.png?v=1760727300
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/motion-tee?variant=43332360437895)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/motion-tee?variant=43332360437895)
     Availability: Available
     Price: $15.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/motion-tee?variant=43332360470663)
@@ -192,12 +192,12 @@
     Availability: Available
     Price: $15.00 USD
 - [Polaroid Tee](https://nikkiglaser.merchmadeeasy.com/products/polaroid-tee-copy): Nikki Glaser Polaroid Photo Tee in black with front print only.
-  Updated: 2026-09-15T23:52:15Z
+  Updated: 2026-10-12T20:22:04Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGPOLAROIDTEE_138ec26b-2b1a-4f5a-ab3e-86b5a4630e2b.png?v=1760729007
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/polaroid-tee-copy?variant=43332445995143)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/polaroid-tee-copy?variant=43332445995143)
     Availability: Available
     Price: $30.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/polaroid-tee-copy?variant=43332446027911)
@@ -213,12 +213,12 @@
     Availability: Available
     Price: $30.00 USD
 - [Ghost Tee](https://nikkiglaser.merchmadeeasy.com/products/ghost-tee): Alive & Unwell Ghost Tee in light blue with front print only.
-  Updated: 2026-09-15T20:36:33Z
+  Updated: 2026-10-12T20:22:04Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGHOSTTEE.png?v=1760729215
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/ghost-tee?variant=43332459298951)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/ghost-tee?variant=43332459298951)
     Availability: Available
     Price: $15.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/ghost-tee?variant=43332459331719)
@@ -234,12 +234,12 @@
     Availability: Available
     Price: $15.00 USD
 - [Alive & Unwell Tour Tee](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-tour-tee): Alive & Unwell Tour Tee in black with front print only.
-  Updated: 2026-09-15T20:36:28Z
+  Updated: 2026-10-12T20:22:05Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGALIVETOURTEE.png?v=1760729452
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-tour-tee?variant=43332468277383)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-tour-tee?variant=43332468277383)
     Availability: Available
     Price: $30.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-tour-tee?variant=43332468310151)
@@ -254,41 +254,41 @@
   - [2XL](https://nikkiglaser.merchmadeeasy.com/products/alive-unwell-tour-tee?variant=43332468408455)
     Availability: Available
     Price: $30.00 USD
-- [Mystery Tee](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee)
-  Updated: 2026-09-15T20:36:29Z
+- [Mystery Tee](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee)
+  Updated: 2026-10-05T13:05:17Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGMYSTERYTEE.png?v=1762976781
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee?variant=43332471390343)
+  Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGMYSTERYTEE_1.png?v=1790870222
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee?variant=43332471390343)
     Availability: Available
     Price: $30.00 USD
-  - [M](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee?variant=43332471423111)
+  - [M](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee?variant=43332471423111)
     Availability: Available
     Price: $30.00 USD
-  - [L](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee?variant=43332471455879)
+  - [L](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee?variant=43332471455879)
     Availability: Available
     Price: $30.00 USD
-  - [XL](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee?variant=43332471488647)
+  - [XL](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee?variant=43332471488647)
     Availability: Available
     Price: $30.00 USD
-  - [2XL](https://nikkiglaser.merchmadeeasy.com/products/24-tour-tee?variant=43332471521415)
+  - [2XL](https://nikkiglaser.merchmadeeasy.com/products/mystery-tee?variant=43332471521415)
     Availability: Available
     Price: $30.00 USD
 - [Tour Koozie](https://nikkiglaser.merchmadeeasy.com/products/tour-koozie): Alive & Unwell Tour Koozie
-  Updated: 2026-07-31T14:09:42Z
+  Updated: 2026-10-05T13:05:17Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGTOURKOOZIE.png?v=1760729750
   Price: $2.50 USD
 - [Good Girl Photo Tee](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-tee): Good Girl Tour Photo Tee in navy with front print only.
-  Updated: 2026-09-15T20:36:29Z
+  Updated: 2026-10-12T20:22:05Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODGIRLPHOTOTEE.png?v=1760731168
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-tee?variant=43332489281671)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-tee?variant=43332489281671)
     Availability: Available
     Price: $15.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-tee?variant=43332489314439)
@@ -304,12 +304,12 @@
     Availability: Available
     Price: $15.00 USD
 - [Good Girl Portrait Tee](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-tee): Good Girl Tour Portrait Tee in white with front print only.
-  Updated: 2026-09-15T20:36:30Z
+  Updated: 2026-10-12T20:22:05Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODGIRLPORTRAITTEEWHITE.png?v=1760731252
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-tee?variant=43332533551239)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-tee?variant=43332533551239)
     Availability: Available
     Price: $30.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-tee?variant=43332533584007)
@@ -325,12 +325,12 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Good Girl Portrait Long Sleeve](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-long-sleeve): Good Girl Tour Portrait Long Sleeve in white with front print only.
-  Updated: 2026-09-15T20:36:31Z
+  Updated: 2026-10-12T20:22:06Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODGIRLLONGSLEEVEWHITE.png?v=1760731797
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-long-sleeve?variant=43332539482247)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-long-sleeve?variant=43332539482247)
     Availability: Available
     Price: $20.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/good-girl-portrait-long-sleeve?variant=43332539515015)
@@ -346,12 +346,12 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Good Girl Photo Long Sleeve](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-long-sleeve): Good Girl Tour Photo Long Sleeve in navy with front print only.
-  Updated: 2026-09-15T20:36:31Z
+  Updated: 2026-10-12T20:22:06Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODGIRLLONGSLEEVE.png?v=1760732151
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-long-sleeve?variant=43332556357767)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-long-sleeve?variant=43332556357767)
     Availability: Available
     Price: $20.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/good-girl-photo-long-sleeve?variant=43332556390535)
@@ -367,12 +367,12 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Skull Raglan](https://nikkiglaser.merchmadeeasy.com/products/skull-raglan): Nikki Glaser Skull Raglan in black/heather grey.
-  Updated: 2026-09-15T20:36:32Z
+  Updated: 2026-10-05T13:05:20Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSKULLRAGLAN_b7c0e083-8445-4557-b4f1-ed319fd3a473.png?v=1761075737
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/skull-raglan?variant=43360842416263)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/skull-raglan?variant=43360842416263)
     Availability: Available
     Price: $40.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/skull-raglan?variant=43360842449031)
@@ -388,12 +388,12 @@
     Availability: Available
     Price: $40.00 USD
 - [Metal Tee](https://nikkiglaser.merchmadeeasy.com/products/metal-tee): Nikki Glaser Metal Tee in black with front and back print. 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:33Z
+  Updated: 2026-10-12T20:22:06Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGMETALTEE.png?v=1762286411
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/metal-tee?variant=43431691059335)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/metal-tee?variant=43431691059335)
     Availability: Available
     Price: $35.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/metal-tee?variant=43431691092103)
@@ -409,12 +409,12 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Dog Tee](https://nikkiglaser.merchmadeeasy.com/products/dog-tee): Nikki Glaser Dog Tee in black with front print only. 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:33Z
+  Updated: 2026-10-12T20:22:07Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGDOGTEE_7c17ea85-a7be-46ee-9309-fd4b5d752026.png?v=1762286296
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/dog-tee?variant=43431708491911)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/dog-tee?variant=43431708491911)
     Availability: Available
     Price: $15.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/dog-tee?variant=43431708524679)
@@ -430,54 +430,54 @@
     Availability: Available
     Price: $15.00 USD
 - [Vintage Poster](https://nikkiglaser.merchmadeeasy.com/products/vintage-poster-1): 11x17in
-  Updated: 2026-09-09T19:19:37Z
+  Updated: 2026-10-05T13:05:21Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGVINtAGepoSter.png?v=1760557687
   Price: $10.00 USD
 - [Stunning Compact Mirror](https://nikkiglaser.merchmadeeasy.com/products/stunning-compact-mirror): Black compact mirror
-  Updated: 2026-08-12T19:11:56Z
+  Updated: 2026-10-05T13:05:21Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGCOMPACTMIRROR.png?v=1784834723
   Price: $15.00 USD
 - [Stunning Hat](https://nikkiglaser.merchmadeeasy.com/products/stunning-hat): The Stunning Tour Hat in brown with red embroidery on front. Adjustable closure, one size fits most.
-  Updated: 2026-08-25T15:23:36Z
+  Updated: 2026-10-05T13:05:22Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGTOURHAT.png?v=1784834911
   Price: $35.00 USD
 - [Good Girl Hat](https://nikkiglaser.merchmadeeasy.com/products/good-girl-hat): Good Girl Hat in classic navy with front and back embroidery. Adjustable closure, one size fits most.
-  Updated: 2026-09-13T03:12:56Z
+  Updated: 2026-10-05T13:05:22Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODGIRLHAT.png?v=1784835389
   Price: $35.00 USD
 - [Good Boy Hat](https://nikkiglaser.merchmadeeasy.com/products/good-boy-hat): Good Boy Hat in classic navy with front and back embroidery. Adjustable closure, one size fits most.
-  Updated: 2026-08-12T21:09:34Z
+  Updated: 2026-10-05T13:05:23Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGGOODBOYHAT.png?v=1784835467
   Price: $35.00 USD
 - [Stunning Tour Tote](https://nikkiglaser.merchmadeeasy.com/products/stunning-tour-tote): The Stunning Tour Tote in black with red print.
-  Updated: 2026-08-21T18:14:56Z
+  Updated: 2026-10-05T13:05:23Z
   Vendor: Nikki Glaser Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGTOTE.png?v=1784835573
   Price: $30.00 USD
 - [The Stunning Tour Tee](https://nikkiglaser.merchmadeeasy.com/products/the-stunning-tour-tee): The Stunning Tour Tee, only available in black on the Official Store. Front and back print. 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-17T21:25:08Z
+  Updated: 2026-10-05T13:05:24Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGTOURTEE-2.png?v=1784835697
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/the-stunning-tour-tee?variant=45319879426183)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/the-stunning-tour-tee?variant=45319879426183)
     Availability: Available
     Price: $40.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/the-stunning-tour-tee?variant=45319879458951)
@@ -493,12 +493,12 @@
     Availability: Available
     Price: $40.00 USD
 - [Eyes Tee](https://nikkiglaser.merchmadeeasy.com/products/eye-tee): The Stunning Tour Eyes Tee in natural with front print only. 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-09-15T20:36:29Z
+  Updated: 2026-10-05T13:05:24Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGEYETEE.png?v=1784835874
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/eye-tee?variant=45319925530759)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/eye-tee?variant=45319925530759)
     Availability: Available
     Price: $40.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/eye-tee?variant=45319925563527)
@@ -514,7 +514,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Good Girl Baby Tee](https://nikkiglaser.merchmadeeasy.com/products/good-girl-baby-tee): Good Girl Baby Tee in black and white with front and back print. 100% cotton / cropped fit.
-  Updated: 2026-09-19T19:10:18Z
+  Updated: 2026-10-08T17:11:58Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
@@ -535,19 +535,19 @@
     Availability: Available
     Price: $45.00 USD
 - [Stunning Crewneck](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck): The Stunning Tour Crewneck in maroon with front and back print. 90/10 US grown cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 21 24 M 29 23 24 L 30 25 24 XL 31 27 24 2XL 32 29 23 1/2
-  Updated: 2026-09-15T20:36:30Z
+  Updated: 2026-10-10T01:40:57Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGCREWNECK.png?v=1784836263
-  - [XS](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck?variant=45320065679495)
+  - [S](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck?variant=45320065679495)
     Availability: Available
     Price: $65.00 USD
   - [M](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck?variant=45320065712263)
     Availability: Available
     Price: $65.00 USD
   - [L](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck?variant=45320065745031)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
   - [XL](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck?variant=45320065777799)
     Availability: Available
@@ -559,16 +559,16 @@
 ## Collections
 
 - [SHOP FULL COLLECTION](https://nikkiglaser.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-10T11:13:37Z
   Total Products: 34
 - [APPAREL](https://nikkiglaser.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-10T11:13:37Z
   Total Products: 24
 - [ACCESSORIES](https://nikkiglaser.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-13T11:12:47Z
+  Updated: 2026-09-29T11:14:05Z
   Total Products: 14
 - [ALL](https://nikkiglaser.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-10T11:13:37Z
   Total Products: 39
 - [Limited Edition City Tees](https://nikkiglaser.merchmadeeasy.com/collections/city-tees)
   Updated: 2026-08-15T11:16:16Z
@@ -577,7 +577,7 @@
   Updated: 2026-09-10T11:16:07Z
   Total Products: 7
 - [$15 TEES](https://nikkiglaser.merchmadeeasy.com/collections/15-tees)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-05T11:13:00Z
   Total Products: 21
 - [$5 POSTERS](https://nikkiglaser.merchmadeeasy.com/collections/5-posters)
   Updated: 2026-09-10T11:16:07Z
@@ -586,14 +586,17 @@
   Updated: 2026-08-22T11:13:51Z
   Total Products: 5
 - [Tour](https://nikkiglaser.merchmadeeasy.com/collections/tour)
-  Updated: 2026-09-13T11:12:47Z
+  Updated: 2026-09-29T11:14:05Z
   Total Products: 3
 - [THE STUNNING TOUR](https://nikkiglaser.merchmadeeasy.com/collections/the-stunning-tour)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-10T11:13:37Z
   Total Products: 9
 - [Last Chance](https://nikkiglaser.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-09-20T11:11:47Z
+  Updated: 2026-10-05T11:13:00Z
   Total Products: 8
+- [$10 Vintage ](https://nikkiglaser.merchmadeeasy.com/collections/10-vintage-)
+  Updated: 2026-10-12T20:23:46Z
+  Total Products: 16
 
 ## Store Pages
 
