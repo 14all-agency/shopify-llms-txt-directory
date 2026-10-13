@@ -6,7 +6,7 @@
 - Timezone: America/Detroit
 - Created At: 2026-08-11T16:13:53Z
 - Contact Email: SleeknStylishSupport@gmail.com
-- Updated At: 2026-10-04T00:00:40.315Z
+- Updated At: 2026-10-13T00:00:45.560Z
 
 ## Products
 
@@ -281,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/26e66edaae19454f93e6a20b91796b76-Max.jpg?v=1787005689
     Price: $24.00 USD
 - [Women's Ribbed Crew Neck Long Sleeve Casual T-Shirt](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-long-sleeve-t-shirt): Features: Basic style, Exposed seam Sheer: Opaque Stretch: Moderate stretch Material composition: 61% polyester, 33% rayon, 6% spandex Care instructions: Machine wash cold. Tumble dry l Model information: Regular size model-height 5'8", bust 34", waist 24", hip 35", size S, jeans size 1 Regular size model-height 5'7", bust 34", waist 26", hip 34", size S, jeans size 3 Curve model-height 5'3", bust 49", waist 40", hip 53", size 2XL Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 25.6 46.1 M 6/8 26 48.4 L 10/12 26.4 50.8 XL 14/16 26.8 53.1 2XL 18/20 27.2 57.1 3XL 22 27.6 61
-  Updated: 2026-09-28T09:12:26Z
+  Updated: 2026-10-07T06:17:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -656,7 +656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/5a269f5dd3a04884bcfdb5a1f19ec769-Max.jpg?v=1787005766
     Price: $28.00 USD
 - [Woven Right V-Neck Long Sleeve Cardigan](https://sleeknstylish.com/products/angel-wings-woven-right-v-neck-long-sleeve-cardigan): Stay effortlessly chic in this V-neck long-sleeve cardigan. With its versatile design and comfortable fit, this cardigan is the perfect addition to your wardrobe for layering or adding a touch of elegance to any look. Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: bust 40.6 in, sleeve length 22.6 in, length 23.4 in M: bust 42.1 in, sleeve length 23 in, length 23.8 in L: bust 43.7 in, sleeve length 23.4 in, length 24.2 in XL: bust 45.2 in, sleeve length 23.8 in, length 25 in
-  Updated: 2026-10-02T15:39:46Z
+  Updated: 2026-10-05T15:35:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -772,13 +772,13 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/cd7c699c-5018-46c7-aef0-83ca9f06708d-Max.webp?v=1787006540
     Price: $38.00 USD
 - [V-Neck Trendy Animal Print Belted Romper](https://sleeknstylish.com/products/perfee-animal-print-belted-romper): This trendy romper features a bold leopard print, adding a touch of wildness and fashion-forward style. The belted waist detail enhances your figure and provides a flattering fit. The V-neckline adds a touch of sophistication and allure. With its cap sleeves, it offers a balance between coverage and comfort. This animal print belted romper is perfect for making a statement and standing out from the crowd with its fierce and fashionable design. Sizing category: Regular Pattern type: Leopard print Style: Casual Features: Belted Neckline: V-neck Length: Short Sleeve length: Cap sleeves Material: 100% polyester Sheer: No Care instructions: Machine wash cold. Tumble dry low Product measurements: S: bust 43 in, length 32 in, shoulder 21 in, waist 25-41 in, hip 43 in M: bust 44 in, length 33 in, shoulder 21 in, waist 27-43 in, hip 44 in L: bust 47 in, length 33 in, shoulder 23 in, waist 29-45 in, hip 47 in XL: bust 49 in, length 34 in, shoulder 24 in, waist 31-48 in, hip 49 in
-  Updated: 2026-09-28T01:11:51Z
+  Updated: 2026-10-10T15:08:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/8dee70c88b2242b5b5cbce086d88cc14-Max.jpg?v=1787006545
   - [Black / S](https://sleeknstylish.com/products/perfee-animal-print-belted-romper?variant=46523209384132)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/8dee70c88b2242b5b5cbce086d88cc14-Max.jpg?v=1787006545
     Price: $25.00 USD
   - [Black / M](https://sleeknstylish.com/products/perfee-animal-print-belted-romper?variant=46523209416900)
@@ -793,96 +793,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/8dee70c88b2242b5b5cbce086d88cc14-Max.jpg?v=1787006545
     Price: $25.00 USD
-- [Sleek and Stylish Full Size Distressed High Rise Straight Jeans](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans): These Sleek and Stylish Full Size Distressed High Rise Straight Jeans are a must-have for any fashion-forward wardrobe. Crafted from high-quality denim, these jeans offer a comfortable and flattering fit with a high-rise waist and straight leg silhouette. The distressed detailing adds a touch of edgy style, making them perfect for casual outings or dressing up for a night out. The durable denim ensures long-lasting wear, while the versatile design makes them easy to pair with a variety of tops and shoes. These jeans are a timeless classic that will elevate any outfit. Features:Basic style,Pocketed,Distressed Stretch:Slightly stretchy Material composition:78% cotton, 20% polyester, 2% spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 1 25 31 10 31 3 26 32 10 31 5 27 33 11 31 7 28 34 11 31 9 29 35 11 31 11 30 36 12 31 13 31 37 12 31 15 32 38 12 31 1XL 33 39 12.5 31.5 2XL 34 40 12.5 31.5 3XL 35 41 12.5 31.5
-  Updated: 2026-08-31T16:32:00Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-  - [Medium / 1](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220230340)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 3](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220263108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 5](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220295876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 7](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220328644)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 9](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220361412)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 11](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220394180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 13](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220426948)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-  - [Medium / 15](https://sleeknstylish.com/products/bytos-full-size-distressed-high-rise-straight-jeans?variant=46523220459716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1787006284
-    Price: $52.00 USD
-- [Sleek and Stylish Full Size Raw Hem Distressed Mid Rise Straight Jeans](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans): These Sleek and Stylish Full Size Raw Hem Distressed Mid Rise Straight Jeans are a stylish and comfortable addition to any wardrobe. Crafted from high-quality denim, these jeans feature a flattering mid-rise waist and a straight leg cut. The raw hem and distressed details add a touch of edgy style, while the full-size fit ensures a comfortable and flattering silhouette. Perfect for casual wear, these jeans can be dressed up or down for any occasion. The durable denim material ensures long-lasting wear, making them a versatile and essential piece for any fashion-conscious individual. Features:Pocketed,Distressed Stretch:Moderate stretch Material composition:71% cotton, 19% polyester 9% viscose, 1% spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 1 25 31 9.5 30.5 3 26 32 9.5 30.5 5 27 33 10.5 30.5 7 28 34 10.5 30.5 9 29 35 10.5 30.5 11 30 36 11.5 30.5 13 31 37 11.5 30.5 15 32 38 11.5 30.5 1XL 33 39 12 31 2XL 34 40 12 31 3XL 35 41 12 31
-  Updated: 2026-08-29T00:41:50Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-  - [Medium / 1](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221409988)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 3](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221442756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 5](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221475524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 7](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221508292)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 9](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221541060)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 11](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221573828)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 13](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221606596)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 15](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221639364)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $49.32 USD
-  - [Medium / 1XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221672132)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $53.80 USD
-  - [Medium / 2XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221704900)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $53.80 USD
-  - [Medium / 3XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans?variant=46523221737668)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1787006362
-    Price: $53.80 USD
 - [Sleek and Stylish Raw Hem Distressed Mid Rise Crop Jeans](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans): These Sleek and Stylish Raw Hem Distressed Mid Rise Crop Jeans are a stylish and fashion addition to any wardrobe. Falling under the Jeans category, specifically Denim Bottoms, these jeans feature a flattering mid-rise waist and a cropped length, perfect for showcasing your favorite shoes. The raw hem and distressed detailing add a touch of edgy style, while the classic five-pocket design provides functionality. Made from durable denim, these jeans are comfortable and built to last. The versatile design allows for easy pairing with a variety of tops, making them suitable for both casual and dressy occasions. The material is primarily cotton with a touch of spandex for stretch and comfort. Features:Pocketed,Raw Hem,Distressed Stretch:Slightly stretchy Material composition:92% cotton, 6% polyester, 2% spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1 25 31 28 9 3 26 32 28 9 5 27 33 28 9 7 28 34 28 9.5 9 29 35 28 9.5 11 30 36 28 9.5 13 31 37 28 10 15 32 38 28 10
-  Updated: 2026-09-16T21:47:26Z
+  Updated: 2026-10-10T14:09:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -892,7 +804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 3](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222687940)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 5](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222720708)
@@ -900,11 +812,11 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 7](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222753476)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 9](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222786244)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 11](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222819012)
@@ -912,63 +824,13 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 13](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222851780)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 15](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222884548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
-- [Sleek and Stylish Full Size Raw Hem Distressed High Rise Bootcut Jeans](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans): These Sleek and Stylish Full Size Raw Hem Distressed High Rise Bootcut Jeans are a stylish addition to any wardrobe. Crafted from comfortable and durable denim, these jeans feature a high-rise waist that flatters the figure and a bootcut leg opening for a timeless silhouette. The raw hem and distressed detailing add a modern, edgy touch. The classic five-pocket design offers practicality, while the versatile style allows for easy pairing with various tops and shoes. Perfect for creating both casual and semi-formal looks, these jeans are a must-have for those seeking a blend of comfort and fashion. The jeans are made of a cotton blend, ensuring both comfort and durability. The distressed details and raw hem give them a unique, on-trend look. Features:Basic style,Pocketed,Distressed,Raw Hem Stretch:Moderate stretch Material composition:71% cotton, 19% polyester, 9% viscose, 1% spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 1 25 31 9.8 31 3 26 32 9.8 31 5 27 33 10.8 31 7 28 34 10.8 31 9 29 35 10.8 31 11 30 36 11.8 31 13 31 37 11.8 31 15 32 38 11.8 31 1XL 33 39 12.3 31.5 2XL 34 40 12.3 31.5 3XL 35 41 12.3 31.5
-  Updated: 2026-09-03T20:50:33Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-  - [Medium / 1](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227242692)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 3](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227275460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 5](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227308228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 7](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227340996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 9](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227373764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 11](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227406532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 13](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227439300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 15](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227472068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $51.56 USD
-  - [Medium / 1XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227504836)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $56.04 USD
-  - [Medium / 2XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227537604)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $56.04 USD
-  - [Medium / 3XL](https://sleeknstylish.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans?variant=46523227570372)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1787006385
-    Price: $56.04 USD
 - [Sleek and Stylish High Waist Tummy Control Flare Jeans](https://sleeknstylish.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): High Waist Tummy Control Jeans are designed to flatter your figure and give you a sleek silhouette. They feature a high waistband that smooths and shapes your tummy area for a slimming effect. These jeans are perfect for creating a stylish and chic look while also providing comfortable support. The tummy control feature helps to accentuate your curves and enhance your overall appearance. These jeans are versatile and can be dressed up or down for various occasions. Say goodbye to muffin tops and hello to a more confident you with High Waist Tummy Control Jeans! Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 74% cotton, 11% polyester, 6% t400, 7% rayon, 2% lycra Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 32 10 1 24 30 32 10 3 25 31 32 10.5 5 26 32 32 10.5 7 27 33 32 11 9 28 34 32 11 11 29 35 32 11 13 30 37 32 11.5 15 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5
   Updated: 2026-09-25T23:46:18Z
   Vendor: Trendsi
@@ -1036,7 +898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1787006314
     Price: $52.00 USD
 - [Sleek and Stylish Full Size Button Fly Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans): The button fly hem destroys straight jeans and combines a classic silhouette with a modern flair. Featuring a stylish button fly closure, these jeans offer a unique twist on traditional designs. The distressed detailing adds a trendy, lived-in look, making them perfect for casual outings. Crafted from durable denim, they provide both comfort and style for everyday wear. Pair them with a simple tee or a cozy sweater for an effortlessly chic outfit. Elevate your denim collection with these versatile straight jeans! Features: Washed, Pocketed, Raw Hem Stretch: Moderate stretch Material composition: 94% cotton, 5% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 32.5 10 1 24 30 32.5 10 3 25 31 32.5 10.5 5 26 32 32.5 10.5 7 27 33 32.5 11 9 28 34 32.5 11 11 29 35 32.5 11 13 30 37 32.5 11.5 15 31 38 32.5 11.5 14W 31 40 32.5 11.5 16W 30 40 32.5 12 18W 32 42 32.5 12 20W 35 45 32.5 12.5 22W 37 47 32.5 13 24W 39 50 32.5 13.5
-  Updated: 2026-10-02T15:39:46Z
+  Updated: 2026-10-12T15:41:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1102,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1787006408
     Price: $56.00 USD
 - [Sleek and Stylish Full Size Tummy Control Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-straight-jeans): The Tummy Control Straight Jeans are a must-have for anyone looking to slim and shape their midsection. Featuring innovative tummy control technology, these jeans provide a smooth and flattering fit. The straight leg cut offers a classic and versatile style that can be dressed up or down for any occasion. With a blend of stretchy and comfortable fabric, these jeans ensure all-day wearability. Enjoy a sleek silhouette and enhanced confidence in these stylish and flattering Tummy Control Straight Jeans. Elevate your wardrobe with these figure-flattering jeans that offer both style and comfort. Features: Pocketed, Washed Stretch: Moderate stretch Material composition: 91% cotton, 7% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Mid Rise Inseam 0 25 30 9.5 32 1 26 31 10 32 3 27 32 10 32 5 28 33 10.5 32 7 29 34 10.5 32 9 30 35 11 32 11 31 36 11 32 13 32 37 11.5 32 15 32 38 11.5 32 14W 33 40 12 32 16W 33 42 12 32 18W 34 44 12.5 32 20W 36 46 12.5 32 22W 38 48 13 32 24W 40 50 13 32
-  Updated: 2026-10-02T03:59:01Z
+  Updated: 2026-10-12T15:47:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1218,7 +1080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f60e4325e9054c7f92712fdc4f70abec-Max.jpg?v=1787006430
     Price: $57.00 USD
 - [Sleek and Stylish Garment Dyed Tummy Control Skinny Jeans](https://sleeknstylish.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): Introducing our new Garment Dyed Tummy Control Skinny Jeans. These jeans are designed to give you an effortlessly slim and flattering look. With their high-rise waist and tummy control panel, they provide the perfect amount of support and comfort. Made from premium quality denim, they feature a garment dyeing process that gives them a unique and vibrant color. Say goodbye to bulky waistbands and hello to a smooth silhouette with these must-have jeans. Style #: 88845 Features: Basic style Stretch: Slightly stretchy Material composition: 93% cotton, 6% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low Model information: Curve model-height 5'3", bust 49", waist 40", hip 53", size 2XL Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 29 11 1 24 30 29 11 3 25 31 29 11 5 26 32 29 11 7 27 33 29 11.5 9 28 34 29 11.5 11 29 35 29 11.5 13 30 37 29 11.5 15 31 38 29 12 14W 31 40 29 12 16W 30 40 29 12 18W 32 42 29 12 20W 35 45 30 12.5 22W 37 47 29 12.5 24W 39 50 29 12.5
-  Updated: 2026-09-08T21:22:58Z
+  Updated: 2026-10-05T19:37:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1350,7 +1212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1787006453
     Price: $56.00 USD
 - [Sleek and Stylish Full Size Tummy Control Cut Raw Hem Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans! Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 33 11 1 24 30 33 11 3 25 31 33 11 5 26 32 33 11.5 7 27 33 33 11.5 9 28 34 33 11.5 11 29 35 33 12 13 30 37 33 12 15 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-09-30T15:40:09Z
+  Updated: 2026-10-12T15:41:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1392,7 +1254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1787006479
     Price: $55.00 USD
   - [Medium / 14W](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=46523258601668)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1787006479
     Price: $55.00 USD
   - [Medium / 16W](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=46523258634436)
@@ -1416,7 +1278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1787006479
     Price: $55.00 USD
 - [Reflective Dot Active Leggings](https://sleeknstylish.com/products/leggings-depot-full-size-strengthen-and-lengthen-reflective-dot-active-leggings): There's so much to love about these active leggings a 5-inch waistband for comfort, overlock stitching for extra durability, side pockets for convenience, and reflective dots for safety, just to name a few.
-  Updated: 2026-08-29T00:41:53Z
+  Updated: 2026-10-10T15:08:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1528,7 +1390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/44213a4e-7594-4d61-a81e-3c7423290e78-Max.webp?v=1787006600
     Price: $41.00 USD
 - [Texture Round Neck Long Sleeve Top and Shorts Set](https://sleeknstylish.com/products/double-take-full-size-texture-round-neck-long-sleeve-top-and-shorts-set): Features: Basic style Number of pieces: Two-piece Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Bottom Length Waist Hip Sleeve Length S 2/4 25.2 21.1 42.1 15 26 39.4 20.3 M 6/8 25.6 22.2 44.5 15.4 28 41.7 20.3 L 10/12 26 23.4 46.9 15.7 29.9 44.1 20.3 XL 14 26.4 24.6 49.2 16.1 31.9 46.5 20.3 1XL 16 26.8 22.4 50.8 16.5 35.4 48 19.7 2XL 18/20 27.2 24 54.7 17.1 38.6 52 19.7 3XL 22/24 27.6 25.6 58.7 17.7 41.7 55.9 19.7
-  Updated: 2026-09-21T10:50:59Z
+  Updated: 2026-10-05T02:28:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1632,7 +1494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/b2d0021e-6c57-4c67-844c-24676225e929-Max-Origin.webp?v=1787006058
     Price: $22.00 USD
 - [UMG Crisscross Square Neck Active Dress](https://sleeknstylish.com/products/umgee-crisscross-square-neck-active-dress): This UMG Crisscross Square Neck Active Dress combines athletic functionality with feminine style. Crafted from a premium blend of polyester and spandex, this versatile mini dress features a unique crisscross square neckline that provides both support and visual interest. The sleeveless design and A-line silhouette offer unrestricted movement while maintaining an elegant appearance. The neutral beige tone makes it perfect for layering or wearing solo. The moisture-wicking fabric keeps you comfortable during workouts while the flattering fit transitions seamlessly to casual outings. Machine washable for easy maintenance, this dress is the perfect addition to any active wardrobe. Features:Basic style,Crisscross Stretch:Stretchy Material composition:96% Polyester, 4% Spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist Hip XS 31-33.5 24-26 32-34.5 S 35-36 27-28 35-37 M 37-38 29-30 38-39 L 39-40 31-32 40-41
-  Updated: 2026-09-01T12:45:29Z
+  Updated: 2026-10-06T12:57:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1642,7 +1504,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a2869e60-28f9-45f9-ad48-6b5227ebc46d-Max-Origin.webp?v=1787006309
     Price: $45.00 USD
   - [Khaki / S](https://sleeknstylish.com/products/umgee-crisscross-square-neck-active-dress?variant=46523289305284)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a2869e60-28f9-45f9-ad48-6b5227ebc46d-Max-Origin.webp?v=1787006309
     Price: $45.00 USD
   - [Khaki / M](https://sleeknstylish.com/products/umgee-crisscross-square-neck-active-dress?variant=46523289338052)
@@ -1970,7 +1832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/d5185a74-3c42-4195-a814-a5437858e289-Max.webp?v=1787006146
     Price: $34.96 USD
 - [Mable Long Sleeve Button Down Sweater Cardigan](https://sleeknstylish.com/products/mable-long-sleeve-button-down-sweater-cardigan): The Long Sleeve Button Down Sweater Cardigan is a versatile and cozy addition to any wardrobe. Featuring a button-down front and long sleeves, it provides both warmth and style. The cardigan’s knit fabric offers a comfortable, relaxed fit, making it perfect for layering over various outfits. Whether you’re dressing up or keeping it casual, this cardigan adds a touch of classic elegance and practical comfort to your look. Features: Buttoned Stretch: Slightly stretchy Material composition: 55% acrylic, 40% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Product measurements: S/M:Bust 33-36 in, Waist 25-28 in M/L:Bust 37-40 in, Waist 29-32 in
-  Updated: 2026-09-22T04:03:56Z
+  Updated: 2026-10-12T15:41:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2029,7 +1891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/969763ef-76d5-4762-a28d-8b3b0d997bed-Max.webp?v=1787006171
     Price: $56.00 USD
 - [Women's Angel Wing Contrast Detail Casual Top](https://sleeknstylish.com/products/angel-wings-contrast-detail-dropped-shoulder-knit-top): This knit pullover features contrast detailing, adding a unique and eye-catching element. The boat neck neckline adds a touch of elegance and sophistication. The dropped shoulder design gives it a relaxed and effortlessly stylish look. With its long sleeves, it provides warmth and comfort. This pullover is a versatile addition to your wardrobe, perfect for layering or as a standalone piece for a cozy yet fashionable outfit. Pattern type: Solid Style: Casual Features: Ribbed Neckline: Boat neck Length: Regular Sleeve length: Long sleeves Sleeve type: Regular sleeves Material composition: 85% acrylic, 15% polyester Stretch: Stretchy Care instructions: Machine wash cold. Tumble dry low. Product measurements: S: bust 45 in, sleeve length 17 in, length 23 in M: bust 47 in, sleeve length 18 in, length 24 in L: bust 48 in, sleeve length 18 in, length 24 in XL: bust 50 in, sleeve length 18 in, length 25 in
-  Updated: 2026-09-23T14:29:02Z
+  Updated: 2026-10-12T01:40:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2073,7 +1935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/0c61acf8ad0f45a5bb2fa86b69ad94d2-Max.jpg?v=1787006192
     Price: $38.00 USD
 - [Women's Open Front Long Sleeve Casual Cardigan](https://sleeknstylish.com/products/double-take-open-front-long-sleeve-cardigan): This open-front long-sleeve cardigan is a cozy and versatile staple for any wardrobe. The long sleeves and open front design make it perfect for layering over any outfit, while the comfortable fabric ensures all-day comfort. Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Product measurements: S：front length 21.5 in, shoulder 19.1 in, bust 41.3 in, sleeve length 19.3 in M：front length 22.2 in, shoulder 20.3 in, bust 43.7 in, sleeve length 19.7 in L：front length 23 in, shoulder 21.5 in, bust 46 in, sleeve length 20.1 in XL：front length 23.8 in, shoulder 23 in, bust 49.1 in, sleeve length 20.5 in 2XL：front length 24.6 in, shoulder 24.6 in, bust 52.3 in, sleeve length 20.9 in
-  Updated: 2026-09-27T01:52:06Z
+  Updated: 2026-10-11T22:09:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2492,7 +2354,271 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e65474f7b10b48098d0253ca5391cbba-Max.jpg?v=1787005941
     Price: $26.00 USD
-[List Continued](https://sleeknstylish.com/a/llms-agent/llms.txt?shop=01unx7-mb.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjgyMTQ1MDg3Njg0LCJsYXN0X3ZhbHVlIjoiODY4MjE0NTA4NzY4NCJ9)
+- [Women’s Ribbed Short Sleeve Crop Top – Fitted Stretch Knit Casual T-Shirt](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt): Features: Basic style, Ribbed Sheer: Opaque Stretch: Moderate stretch Material composition: 61% polyester, 33% rayon, 6% spandex Care instructions: Machine wash cold. Tumble dry low Model information: Regular size model-height 5'8", bust 34", waist 24", hip 35", size S, jeans size 1 Regular size model-height 5'7", bust 34", waist 26", hip 34", size S, jeans size 3 Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 16.1 31.1 M 6/8 16.5 33.5 L 10/12 16.9 35.8 XL 14/16 17.3 38.2 2XL 18/20 17.7 42.1 3XL 22 18.1 46.1
+  Updated: 2026-10-06T05:56:03Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+  - [Orange / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422605508)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Orange / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422638276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Orange / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422671044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Orange / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422703812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Orange / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422736580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Orange / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422769348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e5d751ac-fbbf-47e7-aed2-fa87effd942f-Max.webp?v=1787006249
+    Price: $17.00 USD
+  - [Dark Brown / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422802116)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Dark Brown / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422834884)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Dark Brown / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422867652)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Dark Brown / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422900420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Dark Brown / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422933188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Dark Brown / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422965956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e30dea18-8c0f-4293-a4b2-de67fef48a15-Max.webp?v=1787006205
+    Price: $17.00 USD
+  - [Gray / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523422998724)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Gray / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423031492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Gray / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423064260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Gray / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423097028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Gray / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423129796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Gray / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423162564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/a6120897-1360-420b-b1f4-24d8d951bf38-Max.webp?v=1787006209
+    Price: $17.00 USD
+  - [Dusty Blue / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423195332)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Dusty Blue / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423228100)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Dusty Blue / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423260868)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Dusty Blue / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423293636)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Dusty Blue / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423326404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Dusty Blue / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423359172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6c1124dc-1bf5-4909-9a3a-9afbe97eaeeb-Max.webp?v=1787006233
+    Price: $17.00 USD
+  - [Mustard / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423391940)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Mustard / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423424708)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Mustard / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423457476)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Mustard / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423490244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Mustard / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423523012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Mustard / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423555780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1787006239
+    Price: $17.00 USD
+  - [Yellow-Green / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423588548)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Yellow-Green / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423621316)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Yellow-Green / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423654084)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Yellow-Green / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423686852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Yellow-Green / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423719620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Yellow-Green / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423752388)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1787006245
+    Price: $17.00 USD
+  - [Black / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423785156)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Black / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423817924)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Black / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423850692)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Black / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423883460)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Black / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423916228)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Black / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423948996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/11a57866-c84b-4ca9-bbcc-77fe7461b168-Max.webp?v=1787006254
+    Price: $17.00 USD
+  - [Teal / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523423981764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Teal / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424014532)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Teal / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424047300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Teal / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424080068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Teal / 2XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424112836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Teal / 3XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424145604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/6dda6df2-a7f0-42a3-b31e-b67dafe45f4a-Max.webp?v=1787006259
+    Price: $17.00 USD
+  - [Lavender / S](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424178372)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/19748e8c-f039-49e2-8d5a-aa4094c439ac-Max.webp?v=1787006264
+    Price: $17.00 USD
+  - [Lavender / M](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=46523424211140)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/19748e8c-f039-49e2-8d5a-aa4094c439ac-Max.webp?v=1787006264
+    Price: $17.00 USD
+- [Striped Bow Round Neck Knit Top](https://sleeknstylish.com/products/annie-wear-striped-bow-round-neck-knit-top): A striped bow round neck knit top is a charming and stylish piece that features a classic round neckline adorned with a feminine bow detail. The striped pattern adds a playful and timeless touch to the top, perfect for both casual and dressier occasions. The knit fabric provides comfort and texture, making it a versatile wardrobe essential that can be effortlessly styled with skirts, pants, or jeans for a chic and polished look. Features: Basic style, Ribbed Stretch: Slightly stretchy Material composition: 52% viscose, 29% polyester, 19% nylon Care instructions: Machine wash cold. Tumble dry low Product measurements: S:Bust 34-36 in, Waist 26-28 in M:Bust 37-38 in, Waist 29-31 in L:Bust 39-40 in, Waist 32-33 in XL:Bust 41-42 in, Waist 34-35 in
+  Updated: 2026-09-22T13:12:22Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ChatGPT_Image_Aug_20_2026_10_34_36_PM.png?v=1787279726
+  - [White / S](https://sleeknstylish.com/products/annie-wear-striped-bow-round-neck-knit-top?variant=46523433451716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ChatGPT_Image_Aug_20_2026_10_34_36_PM.png?v=1787279726
+    Price: $46.00 USD
+  - [White / M](https://sleeknstylish.com/products/annie-wear-striped-bow-round-neck-knit-top?variant=46523433484484)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ChatGPT_Image_Aug_20_2026_10_34_36_PM.png?v=1787279726
+    Price: $46.00 USD
+  - [White / L](https://sleeknstylish.com/products/annie-wear-striped-bow-round-neck-knit-top?variant=46523433517252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ChatGPT_Image_Aug_20_2026_10_34_36_PM.png?v=1787279726
+    Price: $46.00 USD
+  - [White / XL](https://sleeknstylish.com/products/annie-wear-striped-bow-round-neck-knit-top?variant=46523433550020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ChatGPT_Image_Aug_20_2026_10_34_36_PM.png?v=1787279726
+    Price: $46.00 USD
+- [Female Hats Types | Fame Festival Babe Fedora Hat](https://sleeknstylish.com/products/fame-festival-babe-fedora-hat): Explore female hats types with the Fame Festival Babe Fedora Hat. A versatile light grey fedora with faux leather knot detail and adjustable fit.
+  Updated: 2026-09-23T14:37:13Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/d157d4cca4774544b233272fbec26a6c-Max.jpg?v=1787005575
+  Price: $44.00 USD
+- [Women's Classic Wide Brim Fedora Hat](https://sleeknstylish.com/products/fame-make-it-work-fedora-hat): This hat is perfect for both casual and formal occasions. The soft beige color of the hat is versatile and complements a variety of outfits, while the black faux leather knot detailing adds a touch of elegance and sophistication. The adjustable straps ensure a comfortable and secure fit for any head size. The classic fedora style is timeless, and the addition of the faux leather knot detailing gives it a modern twist that sets it apart from other fedoras on the market. Type: Fedora Pattern type: Contrast Material: 90% wool, 10% PU Product measurements: Brim: 3.5 in Interior width: 6.8 in Height: 4 in
+  Updated: 2026-09-23T14:38:22Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/509bb961cd1e439298f39a6031b082c1-Max.jpg?v=1787005578
+  Price: $49.00 USD
+- [Sleek and Stylish Graphic Round Neck Sweatshirt](https://sleeknstylish.com/products/simply-love-graphic-dropped-shoulder-round-neck-sweatshirt): This graphic sweatshirt features a round neck and long sleeves with dropped shoulders, giving it a relaxed and casual look. The graphic design adds a pop of personality, making it a trendy and comfortable choice for everyday wear. Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: length 27 in, bust 41 in, sleeve length 27 in M: length 27 in, bust 43 in, sleeve length 27 in L: length 28 in, bust 44 in, sleeve length 28 in XL: length 28 in, bust 45 in, sleeve length 28 in
+  Updated: 2026-08-29T00:42:04Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/5adf6fb905eb42889d0c5dc7f69aae44-Max.jpg?v=1787006080
+  - [White / S](https://sleeknstylish.com/products/simply-love-graphic-dropped-shoulder-round-neck-sweatshirt?variant=46523450294468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/7028cd8d734141928275a53078a0ba3f-Max.jpg?v=1787006083
+    Price: $24.00 USD
+  - [White / M](https://sleeknstylish.com/products/simply-love-graphic-dropped-shoulder-round-neck-sweatshirt?variant=46523450327236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/7028cd8d734141928275a53078a0ba3f-Max.jpg?v=1787006083
+    Price: $24.00 USD
+  - [White / L](https://sleeknstylish.com/products/simply-love-graphic-dropped-shoulder-round-neck-sweatshirt?variant=46523450360004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ed559211432648a3b28c3706cc35e6e1-Max.jpg?v=1787006113
+    Price: $24.00 USD
+  - [White / XL](https://sleeknstylish.com/products/simply-love-graphic-dropped-shoulder-round-neck-sweatshirt?variant=46523450392772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/ed559211432648a3b28c3706cc35e6e1-Max.jpg?v=1787006113
+    Price: $24.00 USD
+[List Continued](https://sleeknstylish.com/a/llms-agent/llms.txt?shop=01unx7-mb.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjgyMTUzMzc3OTg4LCJsYXN0X3ZhbHVlIjoiODY4MjE1MzM3Nzk4OCJ9)
 
 ## Collections
 
