@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-01T15:10:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-05T20:48:25.507Z
+- Updated At: 2026-10-13T00:00:20.358Z
 
 ## Products
 
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lyin' Tee](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee): 100% cotton heavyweight tee in black with a photo print on the front and text design on the back
-  Updated: 2026-10-05T20:45:03Z
+  Updated: 2026-10-10T15:19:27Z
   Vendor: Mojo Brookzz
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [MB Rhinestone Keychain](https://mojobrookzz.merchmadeeasy.com/products/mb-rhinestone-keychain): Please note: this item will ship in approximately 2 weeks 2.5 inch rhinestone keychain in a silver color
-  Updated: 2026-10-05T20:45:03Z
+  Updated: 2026-10-09T23:34:06Z
   Vendor: Mojo Brookzz
   Product Type: Keychain
   Availability: Available
@@ -146,13 +146,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://mojobrookzz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-17T20:51:07Z
-  Total Products: 2
+  Updated: 2026-10-11T11:29:20Z
+  Total Products: 3
 - [Apparel](https://mojobrookzz.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-17T20:51:27Z
+  Updated: 2026-10-11T11:29:20Z
   Total Products: 2
 - [Accessories](https://mojobrookzz.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-05T16:48:39Z
+  Updated: 2026-10-10T11:28:22Z
   Total Products: 1
 - [Hats](https://mojobrookzz.merchmadeeasy.com/collections/hats)
   Updated: 2026-09-08T19:38:53Z
@@ -161,7 +161,7 @@ your agent can transact everywhere.
   Updated: 2026-09-08T19:38:53Z
   Total Products: 0
 - [All](https://mojobrookzz.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-05T16:49:22Z
+  Updated: 2026-10-11T11:29:20Z
   Total Products: 3
 
 ## Store Pages
@@ -170,6 +170,8 @@ your agent can transact everywhere.
   Updated: 2026-09-01T15:10:42Z
 - [Your Privacy Choices](https://mojobrookzz.merchmadeeasy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-01T15:10:44Z
+- [Withdrawal form](https://mojobrookzz.merchmadeeasy.com/pages/eu-withdrawal-form)
+  Updated: 2026-10-05T20:49:01Z
 
 ## Policies
 
