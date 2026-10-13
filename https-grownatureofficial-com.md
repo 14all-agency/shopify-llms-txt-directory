@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-04-23T15:00:02Z
 - Contact Email: grownature211@gmail.com
-- Updated At: 2026-10-06T00:00:35.536Z
+- Updated At: 2026-10-13T00:00:36.445Z
 
 ## Products
 
 - [Grow Nature Hair Care Oil – Reduce Hair Fall India](https://grownatureofficial.com/products/grow-nature-hair-care-oil): Grow Nature Hair Care Oil helps reduce hair fall, support new growth & strengthen roots. 100% natural formula. Shop now with free shipping across India.
-  Updated: 2026-10-05T18:41:45Z
+  Updated: 2026-10-12T16:48:55Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹555.00 INR
 - [Anti Dandruff Oil – Soothe Scalp & Remove Dandruff](https://grownatureofficial.com/products/grow-nature-anti-dandruff-oil): Say goodbye to dandruff with Grow Nature Anti Dandruff Oil. Relieves itching, soothes scalp irritation & supports a clean, healthy scalp. Order online.
-  Updated: 2026-09-10T10:42:01Z
+  Updated: 2026-10-06T13:34:46Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: ₹865.00 INR
 - [Hair Care Combo – Oil & Shampoo for Hair Fall Control](https://grownatureofficial.com/products/hair-care-oil-herbal-shampoo-combo): Reduce hair fall & support new growth with Grow Nature's Hair Care Oil + Herbal Shampoo Combo. Complete hair care routine. Free shipping across India.
-  Updated: 2026-09-25T17:10:30Z
+  Updated: 2026-10-11T06:43:35Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: ₹945.00 INR
 - [3-in-1 Hair Care Combo – Oil, Anti-Dandruff & Shampoo](https://grownatureofficial.com/products/hair-care-oil-herbal-shampoo-combo-copy): Grow Nature's 3-in-1 Combo fights dandruff, hair fall & scalp issues in one routine. Hair Oil + Anti-Dandruff Oil + Shampoo. Best value. Shop India.
-  Updated: 2026-09-16T15:42:52Z
+  Updated: 2026-10-11T10:19:45Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Available
     Price: ₹730.00 INR
 - [Hair & Anti-Dandruff Combo – Stronger Hair, Less Dandruff](https://grownatureofficial.com/products/hair-care-anti-dandruff-combo): Grow Nature's Hair Care + Anti-Dandruff Combo fights dandruff & hair fall together. Supports stronger, healthier hair. Great value. Free shipping India.
-  Updated: 2026-09-10T10:42:51Z
+  Updated: 2026-10-06T06:19:41Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -143,22 +143,22 @@
 ## Collections
 
 - [All Products](https://grownatureofficial.com/collections/products): Shop all 100% natural hair care oils, herbal shampoos, skin care combos & more by Grow Nature. Free shipping across India. Order now.
-  Updated: 2026-10-05T11:19:19Z
+  Updated: 2026-10-12T11:19:48Z
   Total Products: 12
 - [Haircare](https://grownatureofficial.com/collections/haircare): Shop Grow Nature's herbal hair care range – hair oils, shampoos & more. 100% natural, free shipping across India. Reduce hair fall & nourish your scalp.
-  Updated: 2026-10-05T11:19:19Z
+  Updated: 2026-10-12T11:19:48Z
   Total Products: 4
 - [Skin care](https://grownatureofficial.com/collections/skin-care): Discover Grow Nature's natural skin care range – fairness oils, face wash & combos. Reduce tan, control acne & glow naturally. Free shipping in India.
   Updated: 2026-07-24T10:33:20Z
   Total Products: 4
 - [Combo Products](https://grownatureofficial.com/collections/combo-products): Shop Grow Nature's best value combo packs for hair & skin care. Natural ingredients, free shipping across India. Save more with our bundled sets.
-  Updated: 2026-09-21T11:22:34Z
+  Updated: 2026-10-11T11:19:45Z
   Total Products: 4
 - [Skincare combo](https://grownatureofficial.com/collections/skincare-combo): Get glowing skin with Grow Nature's herbal skincare combos. Fairness oil, face wash & more. 100% natural, free shipping in India. Best value bundles.
   Updated: 2026-07-24T10:34:04Z
   Total Products: 2
 - [Hair care Combo](https://grownatureofficial.com/collections/hair-care-combo): Shop Grow Nature's hair care combo packs – hair oil & herbal shampoo bundles for hair fall control. Best value, free shipping across India.
-  Updated: 2026-09-22T11:20:16Z
+  Updated: 2026-10-11T11:19:45Z
   Total Products: 4
 
 ## Blogs
