@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2024-08-22T11:47:34Z
 - Contact Email: hello@transferhippo.com
-- Updated At: 2026-09-30T00:00:36.309Z
+- Updated At: 2026-10-14T00:00:39.131Z
 
 # Transfer Hippo
 
@@ -25,7 +25,7 @@ Official website: https://transferhippo.com
 ## Products
 
 - [DTF Auto Gang sheet Builder](https://transferhippo.com/products/dtf-gang-sheet-calculators): Full Color Transfers On Gang Sheet No Setup Fees Fits Two 11" Wide Artwork No Minimum 24 - 48 Hour Production Free Shipping Over $100+ OEKO TEX  Supplies Used Soft Hand Feel Durable & Stretchable Recommended Commercial Grade Heat Press Use heavy pressure For cotton, cotton/poly blends press at 300F for 10-12 seconds For 100% polyester press at 275F for 15 seconds Warm or cold peel Second press after peeling for 5 seconds (optional) WASHING : Turn t-shirt inside out. Use cold water & wash with similar colors. Wash on gentle setting. DRYING : Tumble dry on low, or hang dry. IRONING : If ironing is needed, turn the garment inside out. DO NOT : Do not use bleach. Do not dry clean.
-  Updated: 2026-09-29T16:51:47Z
+  Updated: 2026-10-13T13:44:10Z
   Vendor: Transfer Hippo
   Product Type: 
   Availability: Available
