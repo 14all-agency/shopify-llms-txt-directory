@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2022-02-25T03:40:50Z
 - Contact Email: avilacarina619@gmail.com
-- Updated At: 2026-10-06T00:00:32.182Z
+- Updated At: 2026-10-14T00:00:33.685Z
 
 ## Products
 
 - [DD Mixed Volume](https://exoticblinksaz.com/products/dd-mixed-volume): 20mm-25mm or 14-19mm DD 0.05 16 rows soft and dark cashmere
-  Updated: 2026-09-24T19:33:41Z
+  Updated: 2026-10-06T20:06:39Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: $17.99 USD
 - [D Mixed Volume](https://exoticblinksaz.com/products/dd-mixed-volume-1): 12-17mm or 18-23mm D 0.05 16 rows soft and dark cashmere
-  Updated: 2026-09-26T20:47:02Z
+  Updated: 2026-10-11T17:02:46Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -38,7 +38,7 @@
     Availability: Available
     Price: $17.99 USD
 - [CC Mixed Volume](https://exoticblinksaz.com/products/cc-mixed-volume): 12mm-17mm or 15-23mm CC 0.05 16 rows soft and dark cashmere
-  Updated: 2026-09-29T18:03:12Z
+  Updated: 2026-10-08T02:40:21Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -59,15 +59,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/IMG-3499.png?v=1725616259
   Price: $180.00 USD
-- [Digital state board lash course](https://exoticblinksaz.com/products/digital-lash-course): Get started on your lash career with this 56 page digital lash course with all the info you need to know from customer service, AZ state board regulations sanitation, application, styles and even a list of everything you’d need to get gathered to get started and become your own boss! This digital lash course also includes all my lash maps ! this course also includes 1 week mentorship after purchase to ask any questions regarding the ebook! Will be emailed or sent via iMessage in pdf form Certification not included
-  Updated: 2026-09-21T12:03:30Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/products/image_546c86ac-9b19-4793-9429-04a4965f77bc.jpg?v=1666386304
-  Price: $200.00 USD
 - [C Mixed Volume](https://exoticblinksaz.com/products/c-mixed-volume): 15-23mm or 12-17mm C 0.05 16 rows soft and dark cashmere
-  Updated: 2026-10-04T02:43:37Z
+  Updated: 2026-10-13T04:20:06Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -83,14 +76,14 @@
     Availability: Available
     Price: $17.99 USD
 - [J Curl bottoms 0.18](https://exoticblinksaz.com/products/j-curl-0-10): 6-13mm 0.18 dark cashmere matte trays 12 rows ideal for bottom lashes
-  Updated: 2026-09-30T17:05:37Z
+  Updated: 2026-10-10T02:00:09Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/IMG-1610.heic?v=1722467940
   Price: $16.00 USD
 - [C Single Length Volume](https://exoticblinksaz.com/products/single-length-c-volume): Soft dark Cashmere matted C trays 0.05 12 rows available in 15mm-25mm single length
-  Updated: 2026-10-04T03:59:32Z
+  Updated: 2026-10-11T17:38:38Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -153,7 +146,7 @@
     Availability: Available
     Price: $14.99 USD
 - [CC Single Length Volume](https://exoticblinksaz.com/products/cc-single-length): Soft dark Cashmere matted CC trays 0.05 12 rows available in 15mm-24mm single length
-  Updated: 2026-10-04T16:51:43Z
+  Updated: 2026-10-13T00:21:51Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -171,7 +164,7 @@
     Availability: Available
     Price: $14.99 USD
   - [11mm](https://exoticblinksaz.com/products/cc-single-length?variant=45180319039739)
-    Availability: Available
+    Availability: Not Available
     Price: $14.99 USD
   - [12mm](https://exoticblinksaz.com/products/cc-single-length?variant=44574771380475)
     Availability: Available
@@ -216,7 +209,7 @@
     Availability: Available
     Price: $14.99 USD
 - [D Single Length Volume](https://exoticblinksaz.com/products/d-single-length-volume): Soft dark Cashmere matted D trays 0.05 PURPLE BACKGROUND trays are $15.99, if you notice price differences 12 rows available in 15mm-24mm single length
-  Updated: 2026-10-04T16:51:43Z
+  Updated: 2026-10-12T02:17:33Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -276,7 +269,7 @@
     Availability: Available
     Price: $14.99 USD
 - [B curl Mixed Volume](https://exoticblinksaz.com/products/8-14mm-mixed-volume): 16-21mm 0.05 Soft cashmere matte 16 rows 10-16mm 12 rows 16-21mm
-  Updated: 2026-10-05T14:42:25Z
+  Updated: 2026-10-08T11:42:37Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -291,14 +284,14 @@
     Availability: Available
     Price: $17.99 USD
 - [RAZOR HOLD 5ml](https://exoticblinksaz.com/products/ickie-stickie-adhesive-5ml): RAZOR HOLD, previously ICKIE STICKIE OIL RESISTANT glue. It's suitable for your more "oily" client and is developed to resist those oils that normally break down your adhesive. This is a 0.5-1 second dry time, it can be used for Classic, Volume or Mega. 5mL bottle. And works best with temperatures between 64-80 degrees. The humidity range is 30-70%. Feature: Oil-resistant, heat-resistant, waterproof Low fumes Latex/Formaldehyde/Carbon free For professional use only
-  Updated: 2026-10-02T21:55:33Z
+  Updated: 2026-10-13T19:55:56Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/163539B1-1444-435D-A802-DD99C1DCBE8F.jpg?v=1766605386
   Price: $41.99 USD
 - [HYPOALLERGENIC SILICONE TAPE](https://exoticblinksaz.com/products/3-6m-sensitive-gel-tape): 2.5cmx3.6m gel sensitive tape Hypoallergenic Latex Free Lint Free Pain-Free Removal Adhesive and Easy to Tear Gentle to Skin Lifting up Eye Lids Securing Bottom Lashes Taping Back Lashes green, red or white
-  Updated: 2026-10-05T18:29:17Z
+  Updated: 2026-10-12T02:17:24Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -319,46 +312,20 @@
     Availability: Available
     Price: $6.89 USD
 - [L mixed volume](https://exoticblinksaz.com/products/l-curl-mixed-volume): 9-16mm dark cashmere L curl mixed tray 16 rows
-  Updated: 2026-09-21T12:03:44Z
+  Updated: 2026-10-12T04:07:51Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Price: $14.00 USD
-- [DEATH GRIP 5mL](https://exoticblinksaz.com/products/speedy-bond-5ml-adhesive): DEATH GRIP, previouslySPEEDY BOND OIL/WATER RESISTANT glue. It's suitable for your more "oily" client and is developed to resist those oils that normally break down your adhesive. NEW formula created and dries as fast as 0.1secs , it can be used for Classic, Volume or Mega. 5mL bottle. 6MONTH UNOPENED SHELF LIFE, 2MONTH OPENED SHELF LIFE And works best with temperatures between 64-80 degrees. The humidity range is 20-65%. Feature: Oil-resistant, heat-resistant, waterproof Low fumes Latex/Formaldehyde/Carbon free For professional use only
-  Updated: 2026-10-04T23:13:06Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/D0BD4E99-65BD-4A59-AC28-833EE00EF5DC.jpg?v=1766604527
-  Price: $43.99 USD
 - [J Curl bottoms 0.07 easy fanning](https://exoticblinksaz.com/products/j-curl-bottoms-0-05-easy-fanning): 6-12mm 0.07 dark cashmere matte trays 12 rows ideal for bottom lashes
-  Updated: 2026-10-02T22:09:12Z
+  Updated: 2026-10-10T19:31:07Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/AD3DADB7-5575-4D6D-8DCF-6A41FCED23EE.jpg?v=1725662590
   Price: $16.00 USD
-- [3 day Lash course](https://exoticblinksaz.com/products/untitled-sep1_22-29): $500 Deposit must be paid first before purchasing! Please message me to discuss dates/times before buying!!! $1500 total includes- IN PERSON COURSE 41 page lash manual fully loaded kit with lash supplies  code basic lash extension skills taught 2 live models certificate of completion (only certifies that you know knowledge and sanitation of lashing, proceed to getting licensed in cosmetology or aesthetician after if not yet, take clients at own risk) Lifetime mentorship
-  Updated: 2026-09-21T12:03:09Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Price: $1,500.00 USD
-- [2 Day lash course](https://exoticblinksaz.com/products/untitled-sep1_22-45): $350 Deposit must be paid first before purchasing! Please message me to discuss dates/times before buying!!! includes- IN PERSON COURSE 41 page lash manual fully loaded kit with lash supplies  code 1 live model basic lash extension skills certificate of completion (only certifies that you know knowledge and sanitation of lashing, proceed to getting licensed in cosmetology or aesthetician after if not yet, take clients at own risk) Lifetime mentorship
-  Updated: 2026-09-21T12:03:10Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Price: $1,350.00 USD
-- [1 Day Virtual lash course](https://exoticblinksaz.com/products/untitled-sep1_22-49): $200 Deposit must be paid first before purchasing! Please message me to discuss dates/times before buying!!! $700  training kit will be shipped to you! Deposit is NON REFUNDABLE NO RESCHEDULING includes- 41 page lash manual kit with lash supplies 25% personal  code 3hr FaceTime session mannequin practice and fanning practice certificate of completion (only certifies that you know knowledge and sanitation of lashing, proceed to getting licensed in cosmetology or aesthetician after if not yet, take clients at own risk, or styling certification) Lifetime mentorship
-  Updated: 2026-09-21T12:03:09Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/4D320251-2126-4F56-9C20-C132149C216A.jpg?v=1754427965
-  Price: $200.00 USD
 - [J curl volume](https://exoticblinksaz.com/products/j-curl-volume): 0.05 7-14mm or 14-20mm cashmere volume trays 16 rows
-  Updated: 2026-09-29T09:23:46Z
+  Updated: 2026-10-11T17:02:47Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -433,21 +400,14 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/402EA88B-84C0-42FE-B674-CDB3AFC93D56.jpg?v=1698435860
   Price: $20.00 USD
 - [WISPY CC MAP‼️](https://exoticblinksaz.com/products/wispy-cc-map‼️): MAPPING FOR MY WISPY CC SET INCLUDES USED CURLS AND LENGTHS
-  Updated: 2026-09-21T12:03:58Z
+  Updated: 2026-10-07T20:36:47Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/CEAEC0A7-57EF-498A-AE8D-BC9682095250.heic?v=1702268383
   Price: $18.00 USD
-- [100 trays 12rows custom order](https://exoticblinksaz.com/products/100-trays-12rows-custom-order): MESSAGE ME WITH ORDER DETAILS BEFORE PURCHASING, this is bulk order 12 rows single length any diameter curl and length of your choice $9.50 per tray 12 rows each tray minimum of 100 trays 5 trays of same length/curl/diameter required If you want mixed trays it’s .30 extra per tray & if you want 16 rows it’s .40 per tray extra Shipping is included in the price takes 2-4 weeks to receive! no discounts can be used with this order! This is official bulk order price
-  Updated: 2026-09-21T12:03:09Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/DB4E31F7-F6EC-4A87-9C51-F8537485A051.jpg?v=1703969018
-  Price: $950.00 USD
 - [CLAW LOCK 10mL](https://exoticblinksaz.com/products/super-bonder-10ml): CLAW LOCK SUPER BONDER, use with our adhesive for the best retention of your LIFE! Real life lash clientele retention reviews, read back of bottle for usage instructions 🤎
-  Updated: 2026-10-03T16:23:05Z
+  Updated: 2026-10-13T04:40:36Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -467,13 +427,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/31CD92F5-987F-4125-8364-BCE7A64E384D.jpg?v=1713762435
   Price: $28.00 USD
-- [MINI LASH COURSE/MEGA FAN PRACTICE](https://exoticblinksaz.com/products/mini-lash-course): $150 Deposit must be paid first before purchasing! Please message me to discuss dates/times before buying!!! $150 deposit is non refundable and goes toward balance! NO RESCHEDULING IF ANY DISCOUNTS ARE ADDED WE WILL DECLINE YOUR COURSE DEPOSIT PAYMENT includes- 41 page lash manual Mini lash kit 4 trays, lash tools, adhesive and mannequin included 20% off personal  code mannequin practice/sponge practice, hand made fan practice and isolation focus no certification (this course only is to get a better understanding at the physical labor and technique that goes behind lashing before you commit, if you want to continue your career in lashing proceed to getting licensed in cosmetology or aesthetics if not yet, or take a state board accredited course to become a REGISTERED lash tech, take clients at own risk)
-  Updated: 2026-09-21T12:03:47Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/IMG-9393.png?v=1717408038
-  Price: $150.00 USD
 - [BRATZ set 2.0](https://exoticblinksaz.com/products/bratz-set-2-0): CURLS AND LENGTHS INCLUDED, digital product
   Updated: 2026-09-21T12:03:17Z
   Vendor: Exoticblinksaz
@@ -482,14 +435,14 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/B3A9A249-65DD-4F48-A560-1E9870D0B90F.jpg?v=1720835125
   Price: $20.00 USD
 - [M Curl Mixed trays](https://exoticblinksaz.com/products/m-curl-mixed-trays): Soft, dark, premium cashmere 0.05 mixed M curl 16 rows of BUTTER
-  Updated: 2026-09-21T12:03:47Z
+  Updated: 2026-10-12T04:07:50Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/3EB1773A-D17C-4752-9363-145F306FF267.jpg?v=1722467622
   Price: $18.99 USD
 - [Classic 0.15](https://exoticblinksaz.com/products/classic-0-15): 0.15 classic cashmere trays, perfect for a dark classic set mixed 8-16mm 12 rows
-  Updated: 2026-09-26T19:23:58Z
+  Updated: 2026-10-11T01:08:45Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -520,13 +473,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/34A56E68-D492-4FCD-B530-D73BBAB0BE2D.jpg?v=1723524704
   Price: $30.00 USD
-- [STATE BOARD  1:1 COURSE REMAINING BALANCE (MAY DISCOUNTED)](https://exoticblinksaz.com/products/state-board--1-1-course): Deposit must be paid first before registration! Please message me to discuss dates/times before submitting payment!!! (Total shown is after deposit is paid, price before deposit is put down is $3100, unless any sales are applied) Deposit is non refundable due to purchasing physical supplies for preparations for this training, RESCHEDULING IS ALLOWED ONCE, AND HAS TO BE WITHIN 3 WEEKS OF ORIGINAL SCHEDULED DATE! includes- 1:1 IN PERSON COURSE DIGITAL EXOTICBLINKS TRAINING MANUAL EBOOK DIGITAL EXOTICBLINKS LASH MAPPING EBOOK LASH RECLINER (unless stated otherwise) RING LIGHT (unless stated otherwise) $450 VALUE, FULLY LOADED LASH KIT FILLED W/ EXOTICBLINKS FAVS 30% OFF  CODE FOR OUR WEBSITE LIFETIME MENTORSHIP STEPS ON HOW TO GET YOUR LASH EXTENSION REGISTRATION LICENSE FROM AZ STATE BOARD BOOKING SITE SET UP TIPS ON HOW TO BUILD YOUR CLIENTELE CLIENT CONTENT FORMS/ POLICY TIPS BARBICIDE CERTIFICATION 2 LIVE MODELS (1 ON DAY 2 AND 1 ON DAY 3)
-  Updated: 2026-07-20T18:14:58Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/CE8ABD38-D337-43F3-9A4B-8F61A53B208C.png?v=1749667317
-  Price: $1,500.00 USD
 - [The Fae](https://exoticblinksaz.com/products/the-fae): DETAILED EXPLANATION OF TOP LASH MAP, DIAMETER AND LENGTH DETAILS INCLUDED! Emailed or sent via iMessage
   Updated: 2026-09-21T12:03:55Z
   Vendor: Exoticblinksaz
@@ -549,7 +495,7 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/FullSizeRender_79c549c5-816d-4b57-99ea-c0c9e945d9dd.jpg?v=1725616151
   Price: $20.00 USD
 - [J Single length](https://exoticblinksaz.com/products/j-curl-single-length)
-  Updated: 2026-10-02T22:49:45Z
+  Updated: 2026-10-06T21:09:42Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -622,7 +568,7 @@
     Availability: Available
     Price: $128.00 USD
 - [LC Mixed Volume](https://exoticblinksaz.com/products/lc-mixed-volume)
-  Updated: 2026-10-04T03:59:26Z
+  Updated: 2026-10-13T00:21:46Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -634,7 +580,7 @@
     Availability: Available
     Price: $18.99 USD
 - [Adhesive wipes LINT FREE (heart shaped)](https://exoticblinksaz.com/products/adhesive-wipes-lint-free): 200 pads per container
-  Updated: 2026-09-24T06:01:51Z
+  Updated: 2026-10-10T01:15:56Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -668,7 +614,7 @@
     Availability: Available
     Price: $250.00 USD
 - [Lash tiles](https://exoticblinksaz.com/products/lash-tiles)
-  Updated: 2026-10-02T05:01:45Z
+  Updated: 2026-10-11T17:57:32Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -719,7 +665,7 @@
     Availability: Available
     Price: $17.00 USD
 - [VELVET COLLECTION MIXED](https://exoticblinksaz.com/products/velvet-collection): Your Soft, velvety and Jet black Y2K dream 💭 16 heavenly rows of 0.02 velvet goodness use at your own risk, YOU WILL BECOME OBSESSED! come in C,CC,D, J, LB and B curl 10-15mm & 14-20mm
-  Updated: 2026-10-05T18:29:24Z
+  Updated: 2026-10-11T18:49:41Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -768,7 +714,7 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/8FA8D440-57B7-4C3F-900B-F98C2948CDC5.jpg?v=1739919574
   Price: $40.00 USD
 - [CC SINGLE VELVET COLLECTION](https://exoticblinksaz.com/products/cc-single-velvet-collection): Your Soft, velvety and Jet black Y2K dream 💭 12 heavenly rows of 0.02 velvet goodness use at your own risk, YOU WILL BECOME OBSESSED!
-  Updated: 2026-10-05T16:23:20Z
+  Updated: 2026-10-12T05:14:52Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -789,7 +735,7 @@
     Availability: Not Available
     Price: $17.00 USD
   - [CC 12mm](https://exoticblinksaz.com/products/cc-single-velvet-collection?variant=47008116801787)
-    Availability: Available
+    Availability: Not Available
     Price: $17.00 USD
   - [CC 13mm](https://exoticblinksaz.com/products/cc-single-velvet-collection?variant=47008116834555)
     Availability: Available
@@ -816,7 +762,7 @@
     Availability: Available
     Price: $17.00 USD
 - [KITTY CLAWS](https://exoticblinksaz.com/products/kitty-claws-tweezer-bundle): Kitty Claws Are Back & Bolder Than Ever!Our fan-favorite Kitty Claws tweezers just got a major upgrade — now with a sleek glossy finish and revamped luxury packaging. Designed for precision and comfort, these claws come in four fierce styles to match every lash artist's vibe:🐾 Boot🐾 90 Slim🐾 45 Iso🐾 J Curve Whether you're isolating or volume fanning, these tweezers grab like a dream and feel like an extension of your hand. Build your perfect set and bundle to save — because quality tools should never break the bank. 💖 1 Tweezer – $32.99💖 2 Tweezers – $50 (save $15.98)💖 3 Tweezers – $72 (save $26.97)💖 4 Tweezers – $90 (save $41.96)
-  Updated: 2026-10-05T18:29:22Z
+  Updated: 2026-10-10T16:21:16Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -834,7 +780,7 @@
     Availability: Available
     Price: $32.99 USD
 - [C SINGLE VELVET COLLECTION](https://exoticblinksaz.com/products/c-single-velvet-collection): Your Soft, velvety and Jet black Y2K dream 💭 12 heavenly rows of 0.02 velvet goodness use at your own risk, YOU WILL BECOME OBSESSED!
-  Updated: 2026-10-03T21:21:21Z
+  Updated: 2026-10-12T05:14:47Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -876,7 +822,7 @@
     Availability: Available
     Price: $17.00 USD
 - [100 pack Glue Ring](https://exoticblinksaz.com/products/glue-ring-pack): ExoticBlinks 100pc Premium Glue Rings Elevate your lash artistry with ExoticBlinks’ 100-piece Premium Glue Rings—expertly designed for the discerning professional. Crafted from the highest quality materials, each ring features precision-cut side slits to effortlessly create flawless, snatched volume fans. The innovative spill-resistant design offers 99% protection against glue leakage, even if the ring is turned upside down. With a double-sided format for enhanced efficiency, these rings streamline your workflow—saving you both time and product. A must-have for lash artists who demand excellence.
-  Updated: 2026-10-04T02:43:37Z
+  Updated: 2026-10-10T18:09:15Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -904,7 +850,7 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/IMG-4162.heic?v=1749161230
   Price: $7.00 USD
 - [50 pack spoolie white crystal](https://exoticblinksaz.com/products/50-pack-spoolie-white-crystal)
-  Updated: 2026-09-22T18:12:15Z
+  Updated: 2026-10-12T02:17:21Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -943,7 +889,7 @@
     Availability: Available
     Price: $27.99 USD
 - [Jungle Juice Primer 10mL](https://exoticblinksaz.com/products/jungle-juice-primer-10ml): Bring the wild to your lash station with our Jungle Juice Primer—where performance meets fierce energy. This essential pre- is specially formulated to cleanse and prep natural lashes, boosting adhesive grip and maximizing retention with every set. Whether you’re working in humid or dry environments, Jungle Juice helps balance pH levels, speeds up drying time, and keeps lash bonds strong and secure. Why You’ll Love It: 🌿 Removes oil, dirt & residue 🔥 Speeds up adhesive drying time 🦩 Boosts retention for longer-lasting sets 💧 Water-based formula – gentle yet effective 💅 Ideal for all lash types and skill levels How to Use: After cleansing, apply a small amount with a micro brush to the natural lashes—focusing near the base. Let dry before proceeding with adhesive. Main Ingredients: Water, PVP, Polyacrylate
-  Updated: 2026-09-26T19:05:56Z
+  Updated: 2026-10-08T07:15:26Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1043,7 +989,7 @@
     Availability: Available
     Price: $5.00 USD
 - [WHISKER NUDES MIXED TRAYS](https://exoticblinksaz.com/products/whisker-nudes-mixed-trays): Whisker NUDES – Premium Colored Lash Trays Take your lash sets to the next level with our Whisker Collection Colored Lash Trays — a stunning range of warm, dimensional tones that add depth, softness, or a bold pop to any look. Each tray includes 20 full rows of ultra-soft, cruelty-free PBT fibers in a 0.05 diameter, perfect for creating fluffy, lightweight volume fans without compromising retention. The matte finish ensures a luxurious, natural look, while the flexible fibers make fanning effortless for beginners and pros alike. available in C, LC, J curl C/LC - 9-18mm J - 6-13mm Our colors are true-to-tone, fade-resistant, and designed to blend beautifully with black or stand alone for a striking full-color set. ✨ Available Shades & Names: Mystic Meow – Dirty Blonde, a striking golden blonde that brightens and enhances any eye color Toasted Tabby – Medium brown with warm caramel undertones for a soft, natural look Cherry Meow – Red brown with rich, fiery depth for a bold yet elegant pop Cocoa Kitty – Dark brown with a velvety richness perfect for everyday glam Charcoal Cat – Black brown for subtle depth with a softer finish than jet black Whether you’re blending shades for dimension or going bold with a full-color set, the Whisker Collection is your go-to for artistry that turns heads.
-  Updated: 2026-10-03T16:22:56Z
+  Updated: 2026-10-13T01:35:27Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1124,7 +1070,7 @@
     Availability: Available
     Price: $20.99 USD
 - [BOTTOM MEOWS](https://exoticblinksaz.com/products/bottom-meows): BOTTOM MEOWS – J Curl Bottom Lash Trays Complete your sets with the perfect finishing touch — our Whisker Collection J Curl Bottom Lash Trays. Designed specifically for lower lashes, these trays create a natural, eye-opening effect that beautifully balances any lash look. Each tray includes 12 full rows of ultra-soft, cruelty-free PBT fibers in a natural J curl, sized 6–10mm for a flawless lower lash application. At a comfortable 0.15 diameter, they provide the ideal thickness for visibility and definition without overpowering the eye. This mixed-color set includes all your favorite Whisker Collection shades except Toasted Tabby, giving you a versatile color palette for endless creativity: Mystic Meow – C65 golden blonde Cherry Meow – Red brown Cocoa Kitty – Dark brown Charcoal Cat – Black brown Perfect for adding dimension, softness, or a pop of color to bottom lash work, these trays are a must-have for artists who want to perfect every detail from top to bottom.
-  Updated: 2026-10-05T18:29:17Z
+  Updated: 2026-10-06T20:06:33Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1145,14 +1091,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/F00CC4DB-BE0A-4C3C-9131-4EF29574B11A.jpg?v=1754707609
     Price: $16.00 USD
-- [Styling TRAINING REMAINING BALANCE no equipment (2 DAY)](https://exoticblinksaz.com/products/state-board--1-1-course-sept-training-remaining-balance-w-lash-bed-remaining-from-the-amount-that--deducted): non refundable, styling course, kit and 1 live models, message for day/time $1350 is total price! Deposit goes toward total IF ANY DISCOUNTS ARE ADDED WE WILL DECLINE YOUR COURSE DEPOSIT PAYMENT 2 DAYS 4hrs day 1 and 6hrs day 2 NO RESCHEDULING
-  Updated: 2026-08-05T10:27:17Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Price: $1,350.00 USD
 - [D SINGLE VELVET COLLECTION](https://exoticblinksaz.com/products/d-single-velvet-collection): Your Soft, velvety and Jet black Y2K dream 💭 12 heavenly rows of 0.02 velvet goodness use at your own risk, YOU WILL BECOME OBSESSED!
-  Updated: 2026-10-03T16:23:10Z
+  Updated: 2026-10-13T01:35:28Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1182,7 +1122,7 @@
     Availability: Available
     Price: $17.00 USD
 - [B Single Length](https://exoticblinksaz.com/products/b-single-length): 12 rows of 0.05 cashmere single length trays in B curl
-  Updated: 2026-10-02T22:49:46Z
+  Updated: 2026-10-13T00:21:49Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1218,7 +1158,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Blood Fangs Tweezers](https://exoticblinksaz.com/products/blood-fangs-duo-tweezers): Unleash your inner predator with the Blood Fang Tweezers, designed for lash artists who crave luxury, precision, and bite. This fierce red leopard collection includes two of our most iconic shapes: 💉 J Curve – Ideal for mega volume and flawless fan control. Its sharp precision tip and smooth tension make gripping and fanning effortless, even with the thinnest lashes. 🩸 Slim 90° – Engineered for crisp isolation and flawless placement. Lightweight, perfectly balanced, and razor-aligned for ultimate control during long sets. Wrapped in a blood-red leopard print finish with holographic “Fangs” and “Blood” engraving, these tweezers aren’t just tools, they’re a statement of dominance behind the lash bed. Features: Hand-tested for perfect grip and tension Non-slip glossy leopard coating Anti-static, corrosion-resistant Japanese steel Designed for both classic and volume artists Comes in a luxury case 🔪 Perfect for artists who lash with passion — and a little bite.
-  Updated: 2026-10-05T21:29:42Z
+  Updated: 2026-10-13T23:40:47Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1230,14 +1170,14 @@
     Availability: Available
     Price: $32.99 USD
 - [Spike Styler 🌟](https://exoticblinksaz.com/products/spike-styler-🌟): Meet your new must-have for textured sets, wet sets, and ultra-clean spikes. The Styler is a lightweight, extension-safe formula designed to keep every spike perfectly tight, sharp, and intact from mapping to final photo. Whether you’re creating crispy top spikes, wispy texture, or pointed bottom lashes, The Styler binds the lash fibers together without stiffness, flaking, or clumping, just clean, controlled definition. What It Does 💖 Keeps spikes from splitting — holds them tightly together for a crisp, clean finish 😼 Perfect for wet sets, whisker sets, and textured styles ✨ Defines and sharpens bottom lashes for that pointed, doll-like look 🌬️ Lightweight, flexible hold 🖤 Extension-friendly & safe for natural lashes (bonus is it is also a growth serum) 💧 Dries quickly so you can work efficiently without slowing down your set Perfect For Lash artists who want clean, consistent spikes Creating strip-lash style wispy sets Sharp, elongated bottom-lash spikes Achieving photo-ready texture every single time How to Use Apply a small amount to the lash fibers before or after building the spike. Use on top or bottom lashes to create clean, pointed definition that stays in place.
-  Updated: 2026-10-04T20:30:36Z
+  Updated: 2026-10-13T12:46:48Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/A39927B7-ABDD-4CF5-9EF5-1A36C84E61FA.jpg?v=1763164194
   Price: $18.00 USD
 - [Velvet 2.0 SINGLES CC](https://exoticblinksaz.com/products/velvet-2-0-singles-cc): Designed for artists who demand control, consistency, and luxury in every set. Our Velvet Cashmere Lash Trays feature ultra-soft, deep-black fibers with a true matte finish that create bold density without added weight. Each lash is precision-aligned for effortless pickup, clean fan creation, and flawless wrapping, perfect for both mega volume and advanced handmade techniques. Crafted with a velvet base strip for smooth removal and minimal stickiness, these trays keep your workspace clean and your sets consistent from the first fan to the last. Ultra-soft cashmere fibers for lightweight, comfortable wear True matte black for rich, dramatic sets Velvet base strip for easy pickup & minimal residue Consistent curl & diameter across every row Ideal for mega volume, volume, and advanced wrapping techniques 18 Rows
-  Updated: 2026-10-05T16:23:32Z
+  Updated: 2026-10-12T20:34:18Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1246,10 +1186,10 @@
     Availability: Available
     Price: $20.99 USD
   - [11mm](https://exoticblinksaz.com/products/velvet-2-0-singles-cc?variant=47787708645627)
-    Availability: Available
+    Availability: Not Available
     Price: $20.99 USD
   - [12mm](https://exoticblinksaz.com/products/velvet-2-0-singles-cc?variant=47787708678395)
-    Availability: Available
+    Availability: Not Available
     Price: $20.99 USD
   - [13mm](https://exoticblinksaz.com/products/velvet-2-0-singles-cc?variant=47787708711163)
     Availability: Available
@@ -1267,7 +1207,7 @@
     Availability: Available
     Price: $20.99 USD
 - [Velvet 2.0 SINGLES D](https://exoticblinksaz.com/products/velvet-2-0-singles-d): Designed for artists who demand control, consistency, and luxury in every set. Our Velvet Cashmere Lash Trays feature ultra-soft, deep-black fibers with a true matte finish that create bold density without added weight. Each lash is precision-aligned for effortless pickup, clean fan creation, and flawless wrapping, perfect for both mega volume and advanced handmade techniques. Crafted with a velvet base strip for smooth removal and minimal stickiness, these trays keep your workspace clean and your sets consistent from the first fan to the last. Ultra-soft cashmere fibers for lightweight, comfortable wear True matte black for rich, dramatic sets Velvet base strip for easy pickup & minimal residue Consistent curl & diameter across every row Ideal for mega volume, volume, and advanced wrapping techniques 18 Rows
-  Updated: 2026-10-05T16:23:20Z
+  Updated: 2026-10-12T20:34:16Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1297,7 +1237,7 @@
     Availability: Available
     Price: $20.99 USD
 - [VELVET 2.0 MIXED TRAYS](https://exoticblinksaz.com/products/velvet-2-0-mixed-trays): Designed for artists who demand luxury, efficiency, and flawless consistency in every set. Our Velvet Cashmere Mixed Lash Trays feature ultra-soft fibers with a true matte black finish, delivering rich density without added weight. With 20 perfectly organized rows of graduated lengths, these trays allow you to complete full sets seamlessly—no tray switching, no interruptions, just smooth workflow from start to finish. Each lash is precision-aligned on a velvet base strip for effortless pickup, clean fan creation, and advanced wrapping techniques. Whether you’re creating wispy sets, bold mega volume, or textured looks, these trays give you full creative control while saving time at the lash bed. Ultra-soft velvet cashmere fibers for lightweight, comfortable wear True matte black finish for bold, luxurious results Velvet base strip for smooth removal & minimal residue 20 rows of mixed lengths for faster, more efficient sets Consistent curl & diameter across every row Perfect for volume, mega volume, and advanced techniques
-  Updated: 2026-10-03T16:23:04Z
+  Updated: 2026-10-12T04:07:59Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1351,7 +1291,7 @@
     Availability: Available
     Price: $22.99 USD
 - [CATTIE SPIKES](https://exoticblinksaz.com/products/untitled-dec23_16-23): Cattie Spikes are 3D-printed precision lash spikes designed to give you perfect, uniform texture every single time — no hand-making, no uneven spikes, no wasted time. 20 Rows 10-16mm in thick or 12-19mm in thin! Created for artists who crave control, structure, and drama, these spikes are the ultimate accent for anime sets, wet looks, wispy texture, and strip-lash effects. ✨ WHY YOU’LL LOVE THEM ✔️ Perfect spike shape — every pick ✔️ Clean, sharp texture without bulk ✔️ Saves time vs. hand-crafted spikes ✔️ Ideal for accent placement & statement sets ✔️ Exclusive ExoticBlinks innovation 🖤 BEST USED FOR • Anime & doll-eye sets • Wet lash looks • Wispy & textured designs • Inner or outer corner accents • Strip-lash inspired effects 🐾 HOW TO USE Apply closed fans or wet lashes as your base. Pick up Cattie Spike with tweezers and dip lightly in adhesive. Place strategically as an accent. you can even pair 2 or 3 nearby in same direction for a bolder looking spike! Seal with bonder once placement is complete. Pair with our spike sealant for a more pointed look or if you’re doing a bolder spike! 💡 Pro Tip: Pair with closed fans underneath for the most seamless blend. 📌 IMPORTANT NOTES • Designed as accent spikes, not full-set coverage
-  Updated: 2026-10-04T04:18:44Z
+  Updated: 2026-10-13T21:53:29Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1388,14 +1328,14 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/IMG-4355.heic?v=1768249526
   Price: $24.99 USD
 - [Retention Elixir](https://exoticblinksaz.com/products/retention-elixir): The secret  for longer lasting lash sets! Take your lash retention to the next level with our Retention Elixir, a professional grade balancing liquid designed to prep, protect, and lock in your sets for maximum hold. Formulated to remove residual oils and impurities while creating the ideal bonding environment, this elixir helps boost adhesion, reduce shock curing, and extend retention, without weighing down the natural lashes. Whether you’re working in high humidity, low humidity, or just want consistent results every time, this is a must-have in every lash artist’s setup. ✨ Key Benefits • Improves lash retention and bond strength Removes grease, oils, and debris from natural lashes Creates a protective coating before application, Adds hydration, perfect for low porosity natural lashes Helps accelerate curing after application Lightweight, non-sticky formula 💖 How to Use Before Lash Application: Apply a small amount to the natural lashes to cleanse, balance, and prep the lash surface. Allow to sit for approximately 1 minute before starting your set. After Lash Application: Using a microbrush, apply a small amount to the bonding area in a gentle circular motion to help accelerate curing and improve overall retention. 📦 Product Details Size: 10ML For professional use only Cruelty-free Shelf life: 12 months after opening 🗄️ Storage Instructions Keep bottle cap tightly closed. Store in a cool, dry place at room temperature. Avoid direct sunlight. 💋 Pro Tip: Pair this with your favorite Exotic Blinks adhesive for elite-level retention your clients will notice.
-  Updated: 2026-09-30T11:19:57Z
+  Updated: 2026-10-13T04:20:08Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/F3E5628A-49AD-47AC-B3E2-0BD2CCC0650B.jpg?v=1768523182
   Price: $28.99 USD
 - [Sakura Bloom 🌸](https://exoticblinksaz.com/products/sakura-bloom-duo-🌸): EXOTICBLINKS Slim 90° & Slim 45° Sakura Bloom Edition 🐅🌸 Upgrade your lash game with the ultimate precision pair, our Slim 90° or Slim 45° Tweezer. Designed for versatility and control, this set gives you everything you need to create clean, seamless, high-end sets. Featuring our signature Sakura Bloom design with gold detailing, this duo blends luxury with performance; so your tools look as good as your work. ✨ What’s available : Slim 90° Tweezer – Perfect for creating and picking up volume fans with maximum control Slim 45° Tweezer – Ideal for isolation + precise placement ✨ Why lash artists love this duo: Snatched, ultra-fine tips for easy grip Lightweight for reduced hand fatigue Smooth tension for consistent fan pickup Perfect for classic, hybrid, and volume/mega sets Hand-tested for quality + performance This is your go-to set for speed, precision, and flawless retention; whether you’re a beginner or advanced lash artist. 💖 Designed by a lash artist, to help you create standout sets every time.
-  Updated: 2026-09-27T22:26:00Z
+  Updated: 2026-10-11T17:57:39Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1414,7 +1354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/69327F13-A42A-482F-9FD9-370F93335186.jpg?v=1777328299
   Price: $15.99 USD
 - [Multi-Kitty Trays](https://exoticblinksaz.com/products/multi-kitty-trays): MULTIKITTY MIXED TRAYS 🐆✨ Meet your new go-to for soft, fluffy, and effortlessly luxe sets. Our Multikitty trays are designed for artists who want versatility, speed, and that signature Exotic Blinks finish. Each tray features 18 rows (6 more rows than other brands trays!) of perfectly aligned lashes in a mixed length range from 8mm–16mm, making it easy to create seamless sets without switching trays. Whether you’re going for the new trendy Medusa sets, soft wispy, full volume, or textured sets, these trays give you full creative control. Available in: LC Curl LJ Curl LB Curl ✨ Why you’ll love them: Ultra-dark, rich black fibers 5D with layered curls Easy fan + consistent pickup Soft, lightweight feel for better retention Perfect for creating Medusa or fluffy sets Time-saving mixed lengths in one tray Designed for lash artists who want precision, fluff, and luxury in every set.
-  Updated: 2026-10-04T03:59:25Z
+  Updated: 2026-10-08T22:06:17Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1449,40 +1389,8 @@
   - [5 (10 sponges)](https://exoticblinksaz.com/products/flower-practice-sponge-2pc?variant=48826578338043)
     Availability: Available
     Price: $12.50 USD
-- [EXOTICBLINKS 2-Day Educator Program](https://exoticblinksaz.com/products/untitled-may16_23-32-24): Exotic Blinks 2-Day Educator Program $1,999 | Licensed Professionals Only The Exotic Blinks Educator Program is an advanced 2-day training designed for licensed lash professionals who are ready to take the next step into lash education. This program is not a beginner lash course. It is created for artists who already have lash experience and want to learn how to confidently structure, teach, evaluate, and run their own professional lash trainings. Over the course of 2 days, you will learn how to build a strong education foundation, teach lash theory clearly, demonstrate proper technique, evaluate student work, uphold sanitation and safety standards, and create a professional course experience for your future students. What’s Included: 2-day educator training 12 total training hours Educator theory How to structure a lash course How to teach lash theory clearly Sanitation, disinfection, and safety review Practical lash evaluation Teaching demonstration evaluation Student coaching and correction methods Course policy guidance Student forms/templates Certificate of completion Professional qualification letter upon successful completion 30-day support after training Exclusive Educator Supply Benefits: Educator Program students will also receive exclusive Exotic Blinks supply benefits, including: 35% off Exotic Blinks supplies for student training kits A 25% off lifetime student  code to give to your future students for restocks These discounts are designed to help educators build professional student kits while keeping their students connected to high-quality lash supplies after training. Qualification Letter Notice: A professional qualification letter is only provided after successful completion of the program and passing evaluation. The letter is not automatically . This program does not guarantee approval by the Arizona Barbering & Cosmetology Board or any government agency. Final approval is determined if your personal license is up to date that is provided on the letter of recommendation. Requirements: Must already hold an active license/registration if required Must have prior lash extension experience (at least 2 years experienced, with notable certification/licensed dates) Must provide license information before training Must complete all required evaluations Must follow all Exotic Blinks training policies Payment: A $500 non-refundable deposit is required to secure your training date. The remaining balance of $1,499 is due before class. All payments are final. Training dates must be  before booking. ANY DISCOUNTS APPLIED TO THIS ITEM ARE NOT VALID AND YOU WILL HAVE TO PAY DISCOUNTED PORTION, unless stated or agreed to personally with me
-  Updated: 2026-09-21T12:03:30Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  - [In full](https://exoticblinksaz.com/products/untitled-may16_23-32-24?variant=48866375631099)
-    Availability: Available
-    Price: $1,999.00 USD
-  - [Deposit](https://exoticblinksaz.com/products/untitled-may16_23-32-24?variant=48866375663867)
-    Availability: Available
-    Price: $500.00 USD
-  - [Remaining after deposit](https://exoticblinksaz.com/products/untitled-may16_23-32-24?variant=48866375696635)
-    Availability: Available
-    Price: $1,499.00 USD
-- [Licensed 1:1 course](https://exoticblinksaz.com/products/licensed-1-1-course-may-): MESSAGE BEFORE TO CONFIRM DAYS/TIMES IF ANY DISCOUNTS ARE ADDED FROM THE SITE WE WILL DECLINE YOUR COURSE DEPOSIT PAYMENT SEPT  INCLUDES ALL THE FOLLOWING EXCEPT A LASH BED AND RING LIGHT NO RESCHEDULING Deposit is non refundable due to purchasing physical supplies for preparations for this training, No RESCHEDULING. All course payments are non refundable! PAYMENT OPTIONS AVAILABLE: Afterpay accepted sezzle accepted cash or card ZELLE APPLE PAY PAYPAL INSTALLMENTS includes- 1:1 IN PERSON COURSE DIGITAL EXOTICBLINKS TRAINING MANUAL EBOOK ALL DIGITAL EXOTICBLINKS EBOOKS ($500 value) $350+ VALUE, FULLY LOADED LASH KIT FILLED W/ EXOTICBLINKS FAVS 30% OFF  CODE FOR OUR WEBSITE LIFETIME MENTORSHIP STEPS ON HOW TO GET YOUR LASH EXTENSION REGISTRATION LICENSE FROM AZ STATE BOARD TIPS ON HOW TO BUILD YOUR CLIENTELE At home Assignments POLICY TIPS BARBICIDE CERTIFICATION 2 LIVE MODELS (1 ON DAY 2 AND 2 ON DAY 3) lash bed (if listed in training) ring light (if listed in training)
-  Updated: 2026-09-16T09:15:10Z
-  Vendor: Exoticblinksaz
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/CE8ABD38-D337-43F3-9A4B-8F61A53B208C.png?v=1749667317
-  - [REGULAR remaining balance](https://exoticblinksaz.com/products/licensed-1-1-course-may-?variant=48891560296699)
-    Availability: Not Available
-    Price: $2,400.00 USD
-  - [REGULAR Deposit](https://exoticblinksaz.com/products/licensed-1-1-course-may-?variant=48891560329467)
-    Availability: Not Available
-    Price: $700.00 USD
-  - [Sept deposit ()](https://exoticblinksaz.com/products/licensed-1-1-course-may-?variant=49260986499323)
-    Availability: Available
-    Price: $300.00 USD
-  - [ remaining balance (sept)](https://exoticblinksaz.com/products/licensed-1-1-course-may-?variant=49260986597627)
-    Availability: Available
-    Price: $1,150.00 USD
 - [B SINGLE VELVET COLLECTION](https://exoticblinksaz.com/products/b-single-velvet-collection-1): Your Soft, velvety and Jet black Y2K dream 💭 12 heavenly rows of 0.02 velvet goodness use at your own risk, YOU WILL BECOME OBSESSED!
-  Updated: 2026-10-03T21:21:25Z
+  Updated: 2026-10-11T01:08:58Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1521,7 +1429,7 @@
     Availability: Available
     Price: $17.00 USD
 - [i Curl bottoms 0.15](https://exoticblinksaz.com/products/i-curl-bottoms-0-15): 5-10mm 0.15 dark cashmere matte bottoms 12 rows ideal for bottom lashes, i curl is flatter than J curl
-  Updated: 2026-09-30T03:42:07Z
+  Updated: 2026-10-10T19:31:10Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1561,7 +1469,7 @@
     Availability: Available
     Price: $14.99 USD
 - [JUNGLE HEATWAVE COLLECTION](https://exoticblinksaz.com/products/jungle-heatwave-tweezer-collection): Jungle Heatwave Collection ☀️🌴🔥 Turn up the heat with the Jungle Heatwave Collection — a bold lineup of handcrafted precision tweezers designed for artists who demand performance without sacrificing style. Featuring vibrant tropical-inspired handles, ocean blue inspired inner tweezer handles , lightweight comfort, and perfectly calibrated tips, each tweezer is tested to ensure smooth pickup, effortless control, and flawless lash placement. Whether you’re creating wispy sets, dense volume fans, or crisp isolation, there’s a Heatwave tool made for your technique. 🌴 Bali – Slim 90° Your go-to volume tweezer. The Bali Slim 90° features a sleek, angled boot-style tip designed for effortless fan creation and maximum control. Ideal for handmade volume, mega volume, and narrow fan techniques. Best For: • Classic, Volume & Mega Volume • Pinching & Bouquet Methods • Narrow to Wide Fans • Fast, consistent fan pickup 🌺 Rio – Boot Bold, reliable, and made for fan perfection. The Rio Boot Tweezer offers a larger sweet spot and strong grip, making fan creation smooth and beginner-friendly. Perfect for artists who love a classic boot shape with dependable pickup. Best For: • Volume & Mega Volume • Wide or narrow Fan Creation • Easy Fiber Pickup • Artists who prefer a larger sweet spot 🌊 Tulum – Slim 45° Precision meets versatility. The Tulum Slim 45° is the perfect in-between tool for artists who want detailed control on isolation or while building beautiful fans. Its slimmer profile allows for increased visibility and precision during application. Best For: • isolation, Volume & Light Mega Volume • Detailed Placement • Lash Artists who prefer slimmer tips 🌴 Ibiza – Straight Isolation Clean isolation. Flawless application. The Ibiza Straight Isolation Tweezer is crafted for precise lash separation and effortless isolation. Its lightweight design helps reduce hand fatigue while maintaining accuracy throughout every appointment. Best For: • Lash Isolation • Detailed Lash Separation • Improved Speed & Precision ✨ Features • Hand-tested for performance • Lightweight comfort grip • Precision-crafted stainless steel tips • Tropical Heatwave custom handle design • Professional lash artist quality Warning: Once you try Jungle Heatwave, your old tweezers may never leave the drawer again. 🔥🌴☀️
-  Updated: 2026-09-30T18:55:06Z
+  Updated: 2026-10-12T03:55:56Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1579,7 +1487,7 @@
     Availability: Available
     Price: $32.99 USD
 - [J BOTTOMS 20 rows 5-10mm](https://exoticblinksaz.com/products/j-18-bottoms-20-rows-5-10mm)
-  Updated: 2026-09-29T09:23:42Z
+  Updated: 2026-10-06T20:06:32Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1591,7 +1499,7 @@
     Availability: Available
     Price: $21.00 USD
 - [CC Cattie spikes thin SINGLES](https://exoticblinksaz.com/products/cc-cattie-spikes-thin-singles): Our iconic cattie spikes but in single lengths 12 rows
-  Updated: 2026-09-24T02:20:39Z
+  Updated: 2026-10-08T02:09:43Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1651,7 +1559,7 @@
     Availability: Available
     Price: $15.99 USD
 - [BROWN KITTY WHISKERS](https://exoticblinksaz.com/products/brown-kitty-whiskers): Brown thin anime spikes, 20 rows, 12-19mm
-  Updated: 2026-10-03T16:23:02Z
+  Updated: 2026-10-06T02:18:26Z
   Vendor: Exoticblinksaz
   Product Type: 
   Availability: Available
@@ -1687,45 +1595,44 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/7285/4523/files/AED42BAE-2419-4239-8512-287BF86C665B.jpg?v=1787976245
   Price: $24.00 USD
-[List Continued](https://exoticblinksaz.com/a/llms-agent/llms.txt?shop=exoticblinksaz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDAzNTIzMjY4ODU5LCJsYXN0X3ZhbHVlIjoiOTQwMzUyMzI2ODg1OSJ9)
 
 ## Collections
 
 - [MIXED Trays](https://exoticblinksaz.com/collections/volume-trays): These aren’t Easy fans, they’re VOLUME, so soft and dark!
-  Updated: 2026-10-04T11:17:49Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 22
 - [Single Length Trays](https://exoticblinksaz.com/collections/single-length-trays): Volume trays only no easy fanning
-  Updated: 2026-10-05T11:20:10Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 6
 - [Adhesives, Bonder, Primer, Retention Packs](https://exoticblinksaz.com/collections/adhesive)
-  Updated: 2026-10-05T11:20:10Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 10
 - [LASH MAPS/VIDEO TUTORIAL](https://exoticblinksaz.com/collections/lash-maps): CAN PURCHASE INDIVIDUAL MAPS OR THE WHOLE MAPPING EBOOK! MY MOST ICONIC LASH SETS IVE EVER CREATED, 16 unique lash maps to choose from to make you stand out as a lash artist 🌟
-  Updated: 2026-10-04T11:17:49Z
+  Updated: 2026-10-08T11:19:20Z
   Total Products: 22
 - [Lash tools, accessories and outfits](https://exoticblinksaz.com/collections/tweezers)
-  Updated: 2026-10-05T11:20:10Z
+  Updated: 2026-10-12T11:18:35Z
   Total Products: 23
 - [Courses](https://exoticblinksaz.com/collections/courses): ALL COURSE SALES ARE FINAL! No refunds! Courses are only for educational purposes and hands on learning, service clients at own risk, we have state board course options available! Please choose the appropriate course below, but you will learn everything you need to know, plus my lash styling!
-  Updated: 2026-08-04T22:18:55Z
-  Total Products: 13
+  Updated: 2026-10-07T08:05:13Z
+  Total Products: 14
 - [Bottom lash trays](https://exoticblinksaz.com/collections/bottom-lash-trays)
-  Updated: 2026-10-03T11:21:54Z
+  Updated: 2026-10-11T11:16:30Z
   Total Products: 5
 - [CLASSICS](https://exoticblinksaz.com/collections/classics)
-  Updated: 2026-10-04T11:17:49Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 8
 - [LASH KITS](https://exoticblinksaz.com/collections/lash-kits)
   Updated: 2026-10-04T11:17:49Z
   Total Products: 1
 - [Velvet Collection 🐆](https://exoticblinksaz.com/collections/velvet-collection-🐆)
-  Updated: 2026-10-05T11:20:10Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 9
 - [COLOR COLLECTION](https://exoticblinksaz.com/collections/color-collection)
-  Updated: 2026-10-04T11:17:49Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 3
 - [cashmere singles ⭐️](https://exoticblinksaz.com/collections/8-99-cashmere-singles-⭐️)
-  Updated: 2026-10-05T11:20:10Z
+  Updated: 2026-10-13T11:17:20Z
   Total Products: 6
 
 ## Blogs
@@ -1741,8 +1648,8 @@
   Updated: 2022-02-25T03:40:52Z
 - [Track your order](https://exoticblinksaz.com/pages/tracking)
   Updated: 2025-08-31T20:25:36Z
-- [ Registration](https://exoticblinksaz.com/pages/-registration)
-  Updated: 2026-05-04T04:16:06Z
+- [CLICK for  Registration](https://exoticblinksaz.com/pages/-registration): CLICK to Register and start earning with ExoticBlinks TODAY!
+  Updated: 2026-10-12T10:11:43Z
 
 ## Policies
 
