@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-06T11:58:58Z
 - Contact Email: imrangulzar1110@gmail.com
-- Updated At: 2026-10-05T00:00:46.408Z
+- Updated At: 2026-10-14T00:00:49.608Z
 
 ## Products
 
@@ -1089,7 +1089,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Panjshir_beryl_emerald.jpg?v=1769845843
   Price: $1,350.00 USD
 - [400 Carat Apple Green Raw Peridot Stones](https://www.gemstoneinsider.com/products/400-carat-apple-colour-raw-peridot-stones): Product: Natural Raw Peridot StonesTotal Weight: 400 Carats (Lot)Individual Stone Size: Approx. 2 Carat up to 15 CaratColour: Apple Green Origin: PakistanBirthstone: AugustTreatment: 100% NaturalClarity: Slightly Included to Eye CleanCut/Form: Raw / UncutLuster: Natural Vitreous ShineUsage: Cutting, Faceting, Lapidary Work, CollectionQuality: Genuine Natural Peridot with Attractive Colour and Good Transparency Is peridot found in Pakistan? The origin of the peridot is Pakistan, which confirms that peridot is mined there. Is raw peridot expensive? Raw peridot is not very expensive. raw peridot is available in larger quantities, in various sizes (2 to 15 carats), and is natural, which makes it more affordable compared to many precious gemstones. Peridot is often used as an alternative to emerald because it has a similar green colour, especially the apple-green shade. Emerald is much more expensive than peridot because emerald is rarer, usually has more inclusions, and belongs to the beryl family, which is considered more valuable in the gemstone market. Due to its lower price, attractive colour, and natural beauty, peridot is a popular and budget-friendly substitute for emerald. What is the rarest colour of peridot? The rarest and most valuable colour of peridot is a pure, vivid apple green colour.The rough peridot stones have an apple green colour, which is highly desirable because it shows good quality and natural beauty without treatments.
-  Updated: 2026-07-08T21:20:29Z
+  Updated: 2026-10-05T09:57:41Z
   Vendor: Gemstone Insider
   Product Type: Facet Grade Rough Stones
   Availability: Available
@@ -1137,22 +1137,15 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/carving_lapis_rough.jpg?v=1770142052
   Price: $220.00 USD
-- [233 Gram Rough Lapis Lazuli with Golden Pyrite](https://www.gemstoneinsider.com/products/233-gram-rough-lapis-lazuli-with-golden-pyrite): This 233-gram rough Lapis Lazuli features a beautiful Rich blue colour with natural golden Pyrite inclusions. The stone has an opaque clarity and is completely natural and untreated, preserving its authentic character. Ideal for collectors and crystal enthusiasts, it is also a meaningful September birthstone with unique natural appeal. Q1: Is this Lapis Lazuli natural or treated? Yes, this Lapis Lazuli is 100% natural and untreated. No dyes, heat, or chemical treatments have been applied, so the stone retains its original colour and natural characteristics. Q2: What gives this Lapis Lazuli its golden sparkle? The golden shimmer comes from natural Pyrite inclusions. High-quality Lapis Lazuli often contains evenly distributed golden Pyrite, which enhances the stone’s beauty and value. Q3: Are white spots or veins in Lapis Lazuli a defect? No, white areas are usually calcite, which is a natural component of Lapis Lazuli. While premium pieces have minimal calcite, its presence does not mean the stone is fake or low quality. Q4: What does “opaque clarity” mean for this stone? Opaque clarity means the stone does not allow light to pass through, which is normal and expected for natural rough Lapis Lazuli. Q5: How can I judge the quality of rough Lapis Lazuli online? Look for a strong, attractive blue colour, visible natural golden Pyrite flecks, solid weight, and confirmation that the stone is untreated. Clear photos and accurate weight details also help indicate quality. Q6: Is Afghan (Sar-e-Sang) Lapis Lazuli better than other origins? Lapis Lazuli from Afghanistan, Chile, and Russia is beautiful in its own way, but Afghan Sar-e-Sang Lapis is especially famous worldwide for its richer colour, better clarity, and striking golden Pyrite inclusions. Q7: Is this stone suitable for jewellery making? Yes, this rough Lapis Lazuli can be cut and polished for jewellery or used as a specimen for collections, carving, or crystal work. Q8: Why is the price reasonable despite the good quality? Even though this stone has excellent colour, natural golden Pyrite, and no , Lapis Lazuli is generally more affordable than many precious and other semi-precious stones, offering great value for its quality. Q9: Is this a good birthstone gift for September? Yes, Lapis Lazuli is traditionally associated with September and makes a meaningful and symbolic gift for birthdays or special occasions. Q10: Will the colour fade over time? No, since this stone is natural and untreated, its colour will remain stable with normal care and proper storage.
-  Updated: 2026-07-08T21:20:31Z
-  Vendor: Gemstone Insider
-  Product Type: Lapidary Rough
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Persian_lapis_rough.jpg?v=1770303929
-  Price: $260.00 USD
-[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODg1MDU2MjM1OSwibGFzdF92YWx1ZSI6IjEwNDE4ODUwNTYyMzU5In0%3D)
+[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODE5Nzk4NzYzOSwibGFzdF92YWx1ZSI6IjEwNDE4MTk3OTg3NjM5In0%3D)
 
 ## Collections
 
-- [Home page](https://www.gemstoneinsider.com/collections/frontpage)
-  Updated: 2026-07-08T21:23:08Z
+- [Home page](https://www.gemstoneinsider.com/collections/frontpage): Explore raw Mali garnet stones for lapidary projects and S925 silver gilded peridot jewelry. Find gemstones and jewelry at Gemstone Insider.
+  Updated: 2026-10-09T11:04:06Z
   Total Products: 3
 - [Faceting Rough](https://www.gemstoneinsider.com/collections/buy-faceting-rough-gemstones): Shop premium faceting rough gemstones including sapphires, rubies, emeralds & more. High-quality uncut gems perfect for cutting & jewelry making. Expert-selected facet grade rough.
-  Updated: 2026-09-25T11:26:47Z
+  Updated: 2026-10-06T11:17:06Z
   Total Products: 125
 - [Loose Gemstones for Jewellery Making](https://www.gemstoneinsider.com/collections/losse-gemstone): Shop  natural loose gemstones: sapphires, rubies, emeralds, diamonds & rare gems. Wholesale prices, expert-selected quality. Perfect for jewellery making & .
   Updated: 2026-09-07T20:13:25Z
@@ -1182,7 +1175,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-09-07T20:13:25Z
   Total Products: 89
 - [New Arrival Stones](https://www.gemstoneinsider.com/collections/latest-gemstone-deals): Shop the latest natural gemstones, healing crystals & rare minerals. New arrivals include amethyst, citrine, tourmaline & more. Authentic, ethically sourced gems for collectors & jewellery makers.
-  Updated: 2026-09-25T11:26:47Z
+  Updated: 2026-10-11T17:41:38Z
   Total Products: 208
 - [Emeralds](https://www.gemstoneinsider.com/collections/emeralds-gemstones): Discover stunning natural emerald gemstones at Gemstone Insider. Browse our curated collection of  emeralds in various cuts and sizes. Shop authentic emeralds today.
   Updated: 2026-09-25T11:26:47Z
@@ -1191,7 +1184,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:41Z
   Total Products: 23
 - [Peridots](https://www.gemstoneinsider.com/collections/peridots): Shop authentic natural peridot gemstones in various cuts and sizes. Premium quality August birthstone peridots for jewelry making.  genuine stones with fast shipping.
-  Updated: 2026-08-13T18:39:59Z
+  Updated: 2026-10-06T11:17:06Z
   Total Products: 19
 - [Sphene / Titanite](https://www.gemstoneinsider.com/collections/sphene-titanite): Shop rare natural sphene titanite gemstones with exceptional fire and brilliance. Premium quality collector stones in various cuts.  authentic with fast shipping.
   Updated: 2026-08-13T18:40:36Z
@@ -1212,7 +1205,7 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:34Z
   Total Products: 6
 - [Aquamarine](https://www.gemstoneinsider.com/collections/aquamarine-gemstones-jewelry): Shop premium natural aquamarine gemstones and jewelry.  stones in multiple cuts and sizes. Perfect for engagement rings and fine jewelry. Free shipping available.
-  Updated: 2026-07-08T21:23:37Z
+  Updated: 2026-10-11T17:41:38Z
   Total Products: 5
 - [Citrine](https://www.gemstoneinsider.com/collections/natural-citrine-gemstones-jewelry-collection): Shop authentic natural citrine gemstones and jewelry. Premium quality citrine rings, pendants, earrings & loose stones. November birthstone. Free shipping on orders over $50.
   Updated: 2026-07-08T21:22:45Z
@@ -1230,8 +1223,8 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:16Z
   Total Products: 2
 - [Topaz](https://www.gemstoneinsider.com/collections/topaz): Shop authentic natural topaz gemstones in blue, imperial, white & more colors. Premium quality November birthstone topaz for jewellery.  genuine stones with fast shipping.
-  Updated: 2026-09-27T19:04:01Z
-  Total Products: 25
+  Updated: 2026-10-06T11:17:06Z
+  Total Products: 26
 - [Tourmaline](https://www.gemstoneinsider.com/collections/tourmaline-gemstones-natural--stones): Shop authentic natural tourmaline gemstones in pink, green, watermelon & Paraiba varieties.  quality, competitive prices. Perfect for jewellery & collectors.
   Updated: 2026-09-02T11:49:07Z
   Total Products: 32
@@ -1263,11 +1256,11 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:22:49Z
   Total Products: 1
 - [Beryl Minerals](https://www.gemstoneinsider.com/collections/beryl-gemstones-emerald-aquamarine-morganite-collection): Shop premium beryl gemstones including emerald, aquamarine, morganite, heliodor & goshenite. Natural beryl minerals for collectors & jewellery. Authentic quality .
-  Updated: 2026-09-25T11:26:47Z
+  Updated: 2026-10-11T17:41:38Z
   Total Products: 64
 - [Blue Gemstone](https://www.gemstoneinsider.com/collections/blue-gemstone): Shop authentic blue gemstones including sapphires, aquamarines, tanzanites & blue topaz. Premium quality natural stones with certification. Free shipping available.
-  Updated: 2026-09-27T19:04:01Z
-  Total Products: 46
+  Updated: 2026-10-11T17:41:38Z
+  Total Products: 47
 - [Brucite](https://www.gemstoneinsider.com/collections/natural-brucite-gemstones-rare-healing-crystals-stones): Shop authentic natural Brucite gemstones and rare healing crystals. Premium quality, ethically sourced Brucite stones for collectors and crystal enthusiasts. Free shipping available.
   Updated: 2026-07-08T20:28:48Z
   Total Products: 0
@@ -1290,16 +1283,16 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Updated: 2026-07-08T21:23:41Z
   Total Products: 25
 - [All Type Rough Gemstones - Facet Grade- Lapidary - Crystals](https://www.gemstoneinsider.com/collections/all-rough-gems): Browse our complete all rough gemstones collection. Comprehensive catalog of uncut gems for faceting, cabbing & lapidary. Every rough stone variety in one place!
-  Updated: 2026-09-25T11:26:47Z
+  Updated: 2026-10-06T11:17:06Z
   Total Products: 142
 - [Wholesale Rough Gemstones](https://www.gemstoneinsider.com/collections/wholesale-rough-gemstones): Buy wholesale rough gemstones in bulk or small lots. Premium uncut gems for jewelers, lapidaries & collectors. Competitive pricing on natural rough stones.
-  Updated: 2026-09-25T11:26:47Z
+  Updated: 2026-10-06T11:17:06Z
   Total Products: 141
 - [Wholesale Loose Gemstones](https://www.gemstoneinsider.com/collections/wholesale-loose-gemstones): Buy wholesale loose gemstones in bulk quantities. Trade pricing on faceted gems for jewelers, retailers & resellers. Volume discounts on  natural stones.
-  Updated: 2026-09-03T12:18:24Z
+  Updated: 2026-10-08T13:33:27Z
   Total Products: 35
-- [Start Up Gems Business Deals - Beginners' Parcels](https://www.gemstoneinsider.com/collections/start-up-gems-business-deals-beginners-parcels)
-  Updated: 2026-09-22T16:40:15Z
+- [Start Up Gems Business Deals - Beginners' Parcels](https://www.gemstoneinsider.com/collections/start-up-gems-business-deals-beginners-parcels): Start your gemstone journey with beginner-friendly parcels, rough stones and faceted gems. Explore lots for cutting practice or your first inventory.
+  Updated: 2026-10-09T11:02:19Z
   Total Products: 113
 
 ## Blogs
@@ -1351,12 +1344,12 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
     Updated: 2026-08-26T18:51:39Z
     Author: Samina Gulzar
     Tags: Faceting and Lapidary Tips
-  - [Aquamarine Price Per Carat: How Much Is Aquamarine Worth? (2026)](https://www.gemstoneinsider.com/blogs/gemstone-insider/aquamarine-price-per-carat): Aquamarine Price Per Carat: How Much Is Aquamarine Worth? (2026)
-    Updated: 2026-09-13T19:18:33Z
+  - [Aquamarine Price Per Carat: How Much Is Aquamarine Worth?](https://www.gemstoneinsider.com/blogs/gemstone-insider/aquamarine-price-per-carat): Aquamarine Price Per Carat: How Much Is Aquamarine Worth?
+    Updated: 2026-10-07T11:36:14Z
     Author: Samina Gulzar
     Tags: A to Z Gemstones, Aquamarine, Beryl, Gemstone and Minerals Scinece
-  - [ Gemstone Price Per Carat: Value Guide 2026](https://www.gemstoneinsider.com/blogs/gemstone-insider/-gemstone-price-per-carat):  Gemstone Price Per Carat: Value Guide 2026
-    Updated: 2026-09-23T21:00:00Z
+  - [ Gemstone Price Per Carat: What Determines Value?](https://www.gemstoneinsider.com/blogs/gemstone-insider/-gemstone-price-per-carat): What really determines  gemstone price per carat? A complete guide to color, clarity, cut, , origin, and carat weight, with a practical pricing model for sapphires, rubies, and emeralds.
+    Updated: 2026-10-08T13:17:23Z
     Author: Samina Gulzar
     Tags: Gemstone  and Buying Guide, Marketing Trends
 
