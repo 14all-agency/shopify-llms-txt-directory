@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-12-27T15:49:36Z
 - Contact Email: Bigpawmastiffs@gmail.com
-- Updated At: 2026-10-07T00:00:48.218Z
+- Updated At: 2026-10-14T00:00:48.008Z
 
 ## Products
 
@@ -649,7 +649,7 @@
     Availability: Available
     Price: $23.00 USD
 - [Mastiff Hello Fall  T Shirt / Sweatshirt](https://bigpawmastiffs.com/products/mastiff-hello-fall-sweatshirt): Sand will be Gildan Stay warm and cozy this fall with the Hello Fall Design. Crafted from high-quality materials, its comfortably soft design and classic fit make it an ideal choice for outdoor adventures or a day of errands. Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-10-06T11:10:50Z
+  Updated: 2026-10-13T11:28:02Z
   Vendor: Big Paws
   Product Type: T-Shirt
   Availability: Available
