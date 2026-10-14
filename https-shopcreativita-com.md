@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-05-28T21:11:21Z
 - Contact Email: creativita.110@gmail.com
-- Updated At: 2026-09-12T17:29:45.634Z
+- Updated At: 2026-10-14T00:00:44.723Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productMastershop.png?v=1785471486
     Price: 269.700,00 $ COP
 - [RtaFull | Depurativo Hepático y Digestivo Natural – Creativita](https://shopcreativita.com/products/rtafull-suplemento-depurativo-natural-500ml): Depura hígado, riñones e intestinos con RtaFull. Suplemento líquido con té verde, alcachofa y flor de Jamaica. 500ml. Envío gratis.
-  Updated: 2026-09-12T04:57:30Z
+  Updated: 2026-09-21T20:12:47Z
   Vendor: Creativita Shop
   Product Type: Suplementos
   Availability: Available
@@ -105,15 +105,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_u05didu05didu05d.png?v=1784999647
   Price: 173.900,00 $ COP
-- [Autobronceador Canelita Hollywood | Bronceado Natural – Creativita](https://shopcreativita.com/products/autobronceador-intenso-canelita-hollywood-bronceado-natural): Luce un bronceado natural y duradero con Autobronceador Intenso Canelita Hollywood. Colágeno, Vitamina E y coco. Hasta 10 días de duración. Envío a Colombia.
-  Updated: 2026-09-12T05:35:02Z
+- [Autobronceador Canelita Hollywood | Creativita](https://shopcreativita.com/products/autobronceador-intenso-canelita-hollywood-bronceado-natural): Autobronceador intenso Canelita Hollywood para piel morena. Logra un acabado cálido y uniforme con aplicación progresiva. Envío gratis en Colombia.
+  Updated: 2026-09-18T02:30:09Z
   Vendor: Creativita Shop
   Product Type: Cosméticos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_g5s4r9g5s4r9g5s4.png?v=1784818669
   Price: 69.900,00 $ COP
-- [Gorra NY Unisex | Accesorio Urbano Ajustable – Creativita](https://shopcreativita.com/products/gorra-ny-unisex-urbana-ajustable): Gorra NY unisex talla única ajustable. Colores: Verde, Azul, Rojo, Blanco, Negro. Visera curva, diseño urbano. Envío rápido a toda Colombia.
-  Updated: 2026-09-12T05:40:18Z
+- [Gorra NY Unisex Ajustable | Creativita](https://shopcreativita.com/products/gorra-ny-unisex-urbana-ajustable): Gorra NY unisex de talla única ajustable, visera curva y cinco colores. Estilo urbano para combinar a diario. Envío gratis en Colombia.
+  Updated: 2026-09-18T02:34:27Z
   Vendor: Creativita Shop
   Product Type: Accesorios
   Availability: Available
@@ -138,8 +138,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productImage-1720572983358.jpg?v=1784760417
     Price: 65.900,00 $ COP
-- [Colágeno Hidrolizado + Citrato de Magnesio | Suplemento – Creativita](https://shopcreativita.com/products/colageno-hidrolizado-citrato-magnesio-suplemento): Fortalece articulaciones, huesos y piel con Colágeno Hidrolizado + Citrato de Magnesio. Alta absorción, fórmula en polvo. Envío rápido a todo Colombia.
-  Updated: 2026-09-12T05:45:42Z
+- [Colágeno Hidrolizado Unmerco con Magnesio | Creativita](https://shopcreativita.com/products/colageno-hidrolizado-citrato-magnesio-suplemento): Colágeno hidrolizado Unmerco con citrato de magnesio en polvo. Toma una cucharada en la mañana y en la noche. Envío gratis en Colombia.
+  Updated: 2026-09-18T02:02:32Z
   Vendor: Creativita Shop
   Product Type: Suplementos
   Availability: Available
@@ -160,8 +160,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productMastershop_093d5617-27c3-4a11-83a2-bde3e987f795.png?v=1785472432
     Price: 255.000,00 $ COP
-- [Pantaloneta Playera Hombre | Antifluido Secado Rápido – Creativita](https://shopcreativita.com/products/pantaloneta-playera-hombre-antifluido): Pantaloneta playera hombre tela antifluido impermeable. Malla interna, bolsillos laterales, cordón ajustable. Tallas S-2XL. Envío a toda Colombia.
-  Updated: 2026-09-12T05:49:10Z
+- [Pantaloneta Playera Hombre | Antifluido Secado Rápido – Creativita](https://shopcreativita.com/products/pantaloneta-playera-hombre-antifluido): Pantaloneta playera para hombre con tela antifluido, secado rápido, malla interna, bolsillos y cordón ajustable. Tallas S a 2XL.
+  Updated: 2026-09-18T02:43:46Z
   Vendor: Creativita Shop
   Product Type: Ropa
   Availability: Available
@@ -306,8 +306,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productImage-1720572797760.jpg?v=1784755600
     Price: 75.000,00 $ COP
-- [Parlante Bluetooth Tipo Xtreme 3 | 100W Resistente Agua – Creativita](https://shopcreativita.com/products/parlante-bluetooth-tipo-xtreme-3-resistente-agua): Parlante Bluetooth 5.1 tipo Xtreme 3. 100W, 15h batería, resistente al agua, graves profundos. Colores: Negro, Verde, Rojo, Azul. Envío Colombia.
-  Updated: 2026-09-12T05:53:37Z
+- [Parlante Bluetooth Tipo Xtreme 3 100W | Creativita Shop](https://shopcreativita.com/products/parlante-bluetooth-tipo-xtreme-3-resistente-agua): Parlante Bluetooth 5.1 tipo Xtreme 3 con 100W RMS, batería de hasta 15 horas, resistencia a salpicaduras y cuatro colores. Envío en Colombia.
+  Updated: 2026-09-18T03:14:13Z
   Vendor: Creativita Shop
   Product Type: Electrónicos
   Availability: Available
@@ -677,13 +677,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_g5ushig5ushig5us.png?v=1784670374
     Price: 139.800,00 $ COP
-- [Loción Sense Feromonas Hombre | Fragancia Fresca – Creativita](https://shopcreativita.com/products/locion-sense-feromonas-hombre-fragancia-fresca): Loción Sense con feromonas para hombre. Fragancia fresca, base acuosa, absorción rápida. Registro INVIMA. Envío discreto a toda Colombia.
-  Updated: 2026-09-11T14:02:48Z
+- [Loción Sense & Seduction Hombre | Creativita Shop](https://shopcreativita.com/products/locion-sense-and-seduction-hombre): Loción masculina Sense & Seduction en frasco negro con detalles dorados. Conoce su presentación, uso y opciones de pago y envío en Colombia.
+  Updated: 2026-09-25T05:28:15Z
   Vendor: Creativita Shop
-  Product Type: Perfumería
+  Product Type: Perfumes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productMastershop_d568480e-e208-4cc8-98d8-1ab1ec83ce66.jpg?v=1785472434
-  Price: 73.900,00 $ COP
+  Price: 59.900,00 $ COP
 - [Gorra Adidas Unisex | Algodón Precurvada – Creativita](https://shopcreativita.com/products/gorra-adidas-unisex-algodon-precurvada): Gorra Adidas unisex 100% algodón precurvada. Trifolio bordado, cierre mágico ajustable, talla única. Diseño deportivo clásico. Envío a toda Colombia.
   Updated: 2026-09-11T14:08:05Z
   Vendor: Creativita Shop
@@ -706,7 +706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_lo3bc9lo3bc9lo3b_1.png?v=1785086180
   Price: 259.900,00 $ COP
 - [King Maker | Testosterona y Energía Masculina – Creativita](https://shopcreativita.com/products/king-maker-suplemento-testosterona-energia-hombre): Aumenta testosterona, masa muscular y energía con King Maker. Suplemento masculino premium con fórmula holística. Envío gratis a todo Colombia.
-  Updated: 2026-09-10T03:03:07Z
+  Updated: 2026-09-20T07:03:24Z
   Vendor: Creativita Shop
   Product Type: Suplementos
   Availability: Available
@@ -2801,217 +2801,67 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productImage-1756482627742.jpg?v=1781549768
     Price: 139.900,00 $ COP
-- [Adidas Country Caballero | Tenis Retro Urbano – Creativita](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano): Adidas Country Caballero: silueta retro clásica, suela de caucho, 4 colores, tallas 35-43. Comodidad ergónomica y estilo urbano atemporal. Envío gratis Colombia.
-  Updated: 2026-09-11T16:39:34Z
-  Vendor: Creativita Shop
-  Product Type: Calzado
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-  - [Blanco verde / 35](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357039984707)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 36](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040017475)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 37](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040050243)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 38](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040083011)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 39](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040115779)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 40](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040148547)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 41](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040181315)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 42](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040214083)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Blanco verde / 43](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040246851)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_jz7uzdjz7uzdjz7u.png?v=1781548300
-    Price: 139.900,00 $ COP
-  - [Negro / 35](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040279619)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 36](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040312387)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 37](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040345155)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 38](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040377923)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 39](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040410691)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 40](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040443459)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 41](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040476227)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 42](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040508995)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Negro / 43](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040541763)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_fuoto6fuoto6fuot_1.png?v=1781548302
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 35](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040574531)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 36](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040607299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 37](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040640067)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 38](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040672835)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 39](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040705603)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 40](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040738371)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 41](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040771139)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 42](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040803907)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco azul rojo / 43](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040836675)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_k354f4k354f4k354_2.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 35](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040869443)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 36](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040902211)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 37](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040934979)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 38](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357040967747)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 39](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357041000515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 40](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357041033283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 41](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357041066051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 42](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357041098819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-  - [Blanco negro / 43](https://shopcreativita.com/products/adidas-country-caballero-tenis-retro-urbano?variant=43357041131587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/Gemini_Generated_Image_y8m312y8m312y8m3_1.png?v=1781548301
-    Price: 139.900,00 $ COP
-[List Continued](https://shopcreativita.com/a/llms-agent/llms.txt?shop=gvek6t-ru.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjgzMzQ1Njc4NDAzLCJsYXN0X3ZhbHVlIjoiNzY4MzM0NTY3ODQwMyJ9)
+[List Continued](https://shopcreativita.com/a/llms-agent/llms.txt?shop=gvek6t-ru.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjgzMzQzMDg5NzMxLCJsYXN0X3ZhbHVlIjoiNzY4MzM0MzA4OTczMSJ9)
 
 ## Collections
 
 - [Página de inicio](https://shopcreativita.com/collections/frontpage)
-  Updated: 2026-08-02T17:53:10Z
-  Total Products: 0
+  Updated: 2026-09-15T18:22:05Z
+  Total Products: 1
 - [TENIS Y CALZADO](https://shopcreativita.com/collections/tenis-y-calzado): Encuentra el equilibrio perfecto entre estilo urbano, comodidad y resistencia. Descubre nuestro catálogo con las marcas más exclusivas de tenis del mercado, diseñados para quienes imponen su propio ritmo en la calle. Modelos seleccionados con altos estándares de calidad y listos para cualquier terreno. Envíos seguros a nivel nacional con todas las opciones de pago. ¡Elige tus favoritos hoy mismo!
-  Updated: 2026-09-11T19:46:37Z
-  Total Products: 176
+  Updated: 2026-10-08T20:32:06Z
+  Total Products: 226
 - [MODA Y ACCESORIOS](https://shopcreativita.com/collections/moda-y-accesorios): Elevamos tu outfit diario con complementos diseñados para destacar. Encuentra desde gorras de corte premium y camisetas con el fit perfecto, hasta una exclusiva selección de perfumería de alta fijación que define tu presencia. Tu estilo, nuestras facilidades: Calidad Premium: Selección Óptima en cada detalle. Compra sin fricciones: Pago Contra Entrega, Sistecrédito, PSE, tarjetas y transferencia. Despacho Inmediato: Envío hoy mismo a cualquier parte del país.
-  Updated: 2026-09-11T19:04:12Z
-  Total Products: 45
+  Updated: 2026-10-08T18:41:45Z
+  Total Products: 44
 - [TECNOLOGÍA](https://shopcreativita.com/collections/tecnologia): No solo busques lo último, busca lo que realmente optimiza tu día. Nuestra colección de tecnología reúne gadgets de alto rendimiento, desde smartwatches que miden tu ritmo hasta sistemas de audio de fidelidad extrema, diseñados para quienes integran la tecnología como una extensión de su potencial. ¿Qué encuentras en Creativita Shop? Funcionalidad Real: Gadgets probados para rendir en trabajo, entrenamiento o movimiento urbano. Seguridad Total: Paga como prefieras: Contra Entrega, Sistecredito, PSE, tarjetas o transferencia. Respaldo Directo: Garantía real y despacho inmediato a todo el país. Lleva tu día a día al siguiente nivel.
-  Updated: 2026-09-11T02:18:18Z
-  Total Products: 23
+  Updated: 2026-09-16T17:00:30Z
+  Total Products: 24
 - [SALUD Y BELLEZA](https://shopcreativita.com/collections/salud-y-bienestar): ¿Sientes que tu ritmo diario te agota? En Creativita Shop, seleccionamos soluciones de nutrición y cuidado personal diseñadas para devolverte el equilibrio y la energía que necesitas para rendir al máximo. ¿Por qué elegir nuestra línea de Bienestar? Resultados Reales: Fórmulas de alta calidad para optimizar tu rendimiento. Compra Fácil: Paga Contra Entrega, Sistecredito, PSE, tarjetas o transferencia. Seguridad Total: Respaldamos tu salud con envíos rápidos y garantía en cada producto. Recupera tu energía hoy.
-  Updated: 2026-09-11T19:01:48Z
-  Total Products: 140
+  Updated: 2026-10-08T20:08:17Z
+  Total Products: 150
 - [OFERTAS Y DESCUENTOS](https://shopcreativita.com/collections/ofertas-y-descuentos): No dejes pasar el estilo que buscas a un precio irrepetible. Hemos seleccionado piezas clave en calzado, Salud, moda y tecnología con descuentos especiales por tiempo limitado. ¿Por qué aprovechar ahora? Precios Imbatibles: Calidad premium con el mejor ahorro. Seguridad Total: Pago Contra Entrega, Sistecrédito, tarjetas, PSE y transferencia. Despacho Inmediato: Recibe tu pedido sin largas esperas.
-  Updated: 2026-09-11T02:27:18Z
-  Total Products: 21
+  Updated: 2026-09-26T20:09:31Z
+  Total Products: 28
 - [Colección Nike: Estilo Urbano de Alta Gama](https://shopcreativita.com/collections/nike-rendimiento-y-maestria): En Creativita Shop, elegimos cada par de nuestra colección Nike buscando la máxima precisión y confort. Estilo urbano diseñado para quienes no se detienen. ¿Por qué elegirnos? Calidad Superior: Acabados premium en cada detalle. Compra Fácil y Segura: Pago Contra Entrega, PSE, tarjetas, transferencia y Sistecredito. Tu ritmo, tu elección.
-  Updated: 2026-08-25T00:55:25Z
-  Total Products: 41
-- [Adidas Collection: Rendimiento y Estilo Técnico](https://shopcreativita.com/collections/adidas-precision-y-vanguardia): En Creativita Shop, elevamos el estándar. Nuestra selección Adidas destaca por una ingeniería 1:1 de precisión, creada para quienes exigen rendimiento puro y una estética impecable en cada movimiento. Lo que nos hace únicos: Calidad de Ingeniería 1:1: Acabados que replican la excelencia en cada detalle. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Tu meta empieza aquí.
-  Updated: 2026-09-11T19:46:37Z
-  Total Products: 106
-- [PERFUMERÍA](https://shopcreativita.com/collections/perfumeria): Hay aromas que se olvidan y otros que definen quién eres. En Creativita Shop, hemos seleccionado fragancias de alta fijación con notas profundas y sofisticadas, creadas para dejar una huella imborrable. El toque final para tu presencia, ideal para quienes entienden que el estilo es un mensaje silencioso pero contundente. ¿Por qué elegir nuestra selección? Aromas de Autor: Notas persistentes que te acompañan todo el día. Seguridad en tu compra: Paga como prefieras (Contra Entrega, Sistecredito, PSE, tarjetas). Despacho Inmediato: Eleva tu esencia hoy mismo.
-  Updated: 2026-09-11T02:02:44Z
+  Updated: 2026-09-28T17:54:24Z
   Total Products: 43
+- [Adidas Collection: Rendimiento y Estilo Técnico](https://shopcreativita.com/collections/adidas-precision-y-vanguardia): En Creativita Shop, elevamos el estándar. Nuestra selección Adidas destaca por una ingeniería 1:1 de precisión, creada para quienes exigen rendimiento puro y una estética impecable en cada movimiento. Lo que nos hace únicos: Calidad de Ingeniería 1:1: Acabados que replican la excelencia en cada detalle. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Tu meta empieza aquí.
+  Updated: 2026-09-24T17:07:49Z
+  Total Products: 107
+- [PERFUMERÍA](https://shopcreativita.com/collections/perfumeria): Explora perfumes, sets y fragancias para mujer, hombre y unisex en Creativita Shop. Compra en Colombia con opciones de pago flexibles.
+  Updated: 2026-10-08T20:15:51Z
+  Total Products: 87
 - [UNIVERSO FEMENINO: Moda y Accesorios](https://shopcreativita.com/collections/universo-femenino-moda-y-accesorios): Bienvenida a nuestro espacio exclusivo para ti. En Universo Femenino hemos reunido todo lo necesario para complementar tu estilo en un solo lugar. Desde las últimas tendencias en moda urbana hasta los accesorios que marcan la diferencia en tu look diario. ¿Qué encuentras en esta colección? Moda Versátil: Camisetas, conjuntos, pantalonetas y prendas diseñadas para combinar comodidad y estilo. Accesorios Esenciales: El toque final para elevar cualquier outfit y resaltar tu personalidad. Calidad Garantizada: Materiales seleccionados para ofrecerte durabilidad en cada prenda. Variedad Constante: Actualizamos nuestra selección para que siempre encuentres algo nuevo. Compra fácil, recibe rápido: Olvídate de las complicaciones. Selecciona lo que te gusta, elige tu método de pago —incluyendo pago contra entrega— y recibe en la puerta de tu casa.
-  Updated: 2026-09-11T06:15:47Z
+  Updated: 2026-10-08T18:41:45Z
   Total Products: 25
 - [UNIVERSO MASCULINO: Moda y Accesorios](https://shopcreativita.com/collections/universo-masculino-moda-y-accesorios): Bienvenido a tu espacio. En Universo Masculino hemos seleccionado lo mejor en tendencia urbana y accesorios para el hombre que busca estilo sin complicaciones. Desde prendas básicas esenciales para tu día a día hasta los complementos que definen tu imagen, aquí encuentras todo lo necesario para destacar. ¿Qué encuentras en esta colección? Estilo Urbano: Camisetas, conjuntos, pantalonetas y prendas con el ajuste perfecto para tu ritmo de vida. Accesorios Clave: Gorras, relojes y complementos seleccionados para resaltar tu personalidad. Calidad y Resistencia: Ropa diseñada para el uso diario, con materiales que mantienen su forma, color y durabilidad. Catálogo Actualizado: Renovamos nuestras opciones constantemente para que siempre tengas lo último en tendencia. Compra fácil, recibe rápido: No te compliques. Elige tus prendas, selecciona tu método de pago —incluyendo pago contra entrega— y recibe tu pedido directamente en la puerta de tu casa.
-  Updated: 2026-09-11T19:04:12Z
-  Total Products: 36
+  Updated: 2026-09-28T18:10:25Z
+  Total Products: 30
 - [Puma Collection: Dinamismo y Vanguardia Urbana](https://shopcreativita.com/collections/puma-collection-dinamismo-y-vanguardia-urbana): En Creativita Shop, nos mueve la evolución. Nuestra selección Puma es el equilibrio perfecto entre la tecnología de alto impacto y un diseño disruptivo, ideal para quienes imponen el ritmo en su día a día. Lo que nos hace únicos: Vanguardia en Movimiento: Prendas y calzado diseñados para maximizar tu agilidad y estilo personal. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Tu ritmo, tu estilo.
-  Updated: 2026-09-09T14:56:52Z
-  Total Products: 20
+  Updated: 2026-09-30T15:55:09Z
+  Total Products: 39
 - [New Balance: Equilibrio entre Tecnología y Estilo](https://shopcreativita.com/collections/new-balance-equilibrio-entre-tecnologia-y-estilo): En Creativita Shop, valoramos la maestría detrás de cada paso. Nuestra selección New Balance combina la herencia deportiva con la máxima innovación en confort, diseñada para quienes no sacrifican la comodidad por la tendencia. Lo que nos hace únicos: Tecnología en Confort: Amortiguación avanzada que se adapta a tu ritmo diario. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Diseño que trasciende.
-  Updated: 2026-08-02T17:53:11Z
-  Total Products: 0
+  Updated: 2026-10-07T22:01:40Z
+  Total Products: 33
 - [Reebok: Legado de Rendimiento y Estilo Retro](https://shopcreativita.com/collections/reebok-legado-de-rendimiento-y-estilo-retro): En Creativita Shop, celebramos lo clásico con la mirada puesta en el futuro. Nuestra selección Reebok fusiona la herencia icónica del fitness con diseños vanguardistas, ideal para quienes buscan autenticidad y resistencia en cada paso. Lo que nos hace únicos: Iconos del Estilo: Diseños legendarios que marcan tendencia dentro y fuera del gimnasio. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Autenticidad en cada detalle.
-  Updated: 2026-08-02T17:53:11Z
-  Total Products: 0
+  Updated: 2026-10-07T22:34:39Z
+  Total Products: 6
 - [All Star: El Ícono de la Identidad Urbana](https://shopcreativita.com/collections/all-star-el-icono-de-la-identidad-urbana): En Creativita Shop, apostamos por los clásicos que nunca pasan de moda. Nuestra selección All Star reúne el diseño atemporal y la versatilidad de una leyenda, creada para quienes marcan su propio camino con autenticidad. Lo que nos hace únicos: Diseño Legendario: El estilo original que ha definido generaciones. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Tu esencia, tu historia.
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
 - [ASICS: Domina el Terreno con Soporte Inteligente](https://shopcreativita.com/collections/asics-domina-el-terreno-con-soporte-inteligente): ¿Sientes que tus pies necesitan más que solo zapatos? En Creativita Shop, sabemos que el rendimiento real nace de la estabilidad. Con nuestra selección ASICS, no solo eliges un diseño; eliges un sistema de amortiguación diseñado para proteger cada impacto y potenciar tu resistencia natural. Lo que nos hace resaltar: Tu cuerpo te lo agradecerá: Ingeniería enfocada en corregir la pisada y brindar confort absoluto. Libertad de compra: Tú decides cómo pagar: Pago Contra Entrega, Sistecrédito, tarjetas, PSE o transferencia. La tecnología se pone a tus pies.
-  Updated: 2026-08-02T17:53:11Z
-  Total Products: 0
+  Updated: 2026-10-08T17:38:16Z
+  Total Products: 3
 - [On Cloud: Desafía la Gravedad en Cada Paso](https://shopcreativita.com/collections/on-cloud-desafia-la-gravedad-en-cada-paso): ¿Alguna vez has querido caminar sobre las nubes? No es una metáfora. En Creativita Shop, hemos traído la innovación de On Cloud para quienes entienden que el peso es el enemigo del movimiento. Su tecnología de amortiguación es el puente entre el alto rendimiento deportivo y una ligereza que te hará olvidar que llevas zapatos puestos. Lo que nos hace resaltar: Ingeniería suiza de precisión: Estructuras inteligentes que se activan solo cuando aterrizas. Tú tienes el control total: Elige tu método favorito: Pago Contra Entrega, Sistecredito, tarjetas, PSE o transferencia. La comodidad, elevada a un nuevo nivel.
-  Updated: 2026-09-07T17:42:36Z
-  Total Products: 26
+  Updated: 2026-09-16T15:42:08Z
+  Total Products: 27
 - [Vélez: Maestría en Cuero y Estilo Atemporal](https://shopcreativita.com/collections/velez-maestria-en-cuero-y-estilo-atemporal): ¿Buscas elevar tu estilo con piezas que marcan la diferencia? En Creativita Shop, nos dedicamos a ofrecer versiones de alta fidelidad que capturan la esencia artesanal de Vélez. Trabajamos con estándares de fabricación G5, donde cada textura y costura se cuida para que el resultado final sea una experiencia de uso impecable y sofisticada. Lo que nos hace resaltar: Precisión 1:1: Fabricación de alto nivel que respeta la estética y funcionalidad original. Flexibilidad en tus pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. El estándar que tu closet merece, sin sobrecostos.
-  Updated: 2026-09-11T19:04:12Z
-  Total Products: 4
+  Updated: 2026-10-08T18:29:39Z
+  Total Products: 17
 - [FILA: Maestría en Estilo Urbano y Rendimiento Deportivo](https://shopcreativita.com/collections/fila-maestria-en-estilo-urbano-y-rendimiento-deportivo): ¿Buscas el equilibrio perfecto entre el legado deportivo y la vanguardia urbana? En Creativita Shop, te presentamos nuestra selección de FILA, una marca que ha definido generaciones con su estética audaz y su confort inigualable. Trabajamos con estándares de fabricación G5, asegurando que cada detalle, desde la icónica suela hasta los acabados, respete la esencia de la marca original. Lo que nos hace resaltar: Autenticidad en cada paso: Versiones de alta fidelidad que capturan el ADN deportivo de FILA, pensadas para quienes no sacrifican la comodidad por el estilo. Flexibilidad en tus pagos: Compra con total tranquilidad mediante Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. El estándar que tu closet merece: Calidad de primer nivel, diseñada para resistir tu ritmo diario sin sobrecostos.
-  Updated: 2026-08-02T17:53:11Z
-  Total Products: 0
+  Updated: 2026-09-24T17:02:01Z
+  Total Products: 3
 - [LE COQ SPORTIF: Herencia Francesa y Estilo Auténtico](https://shopcreativita.com/collections/le-coq-sportif-herencia-francesa-y-estilo-autentico): Eleva tu estándar diario con la sofisticación inconfundible de Le Coq Sportif. Inspirada en la tradición deportiva francesa, esta colección rinde homenaje a la pureza del diseño europeo y a la autenticidad de quien no necesita seguir reglas para destacar. En Creativita Shop, hemos seleccionado piezas bajo el estándar G5, garantizando que cada costura y cada detalle de su silueta rinda tributo a la excelencia técnica de la marca. Por qué elegir este legado: Sofisticación funcional: Calzado y prendas que transitan sin esfuerzo entre el rendimiento atlético y el minimalismo urbano. Confianza total en tu compra: Respaldamos tu experiencia con diversas opciones de pago: Contra Entrega, Sistecredito, PSE, tarjetas y transferencia. Calidad de maestría: Un estándar diseñado para quienes aprecian la historia, la comodidad superior y la durabilidad sin complicaciones.
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
@@ -3019,8 +2869,8 @@
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
 - [HUGO BOSS: Precisión y Estilo Ejecutivo Premium](https://shopcreativita.com/collections/hugo-boss-precision-y-estilo-ejecutivo-premium): La maestría no se improvisa, se proyecta. Hugo Boss es el estándar global del hombre que entiende que su imagen es su primera herramienta de éxito. En Creativita Shop, presentamos una selección G5 que fusiona la elegancia impecable del diseño alemán con la versatilidad urbana contemporánea. Eleva tu presencia y proyecta una seguridad inquebrantable en cada paso que das. Por qué Hugo Boss es tu activo más valioso: Diseño de Autoridad: Siluetas refinadas que comunican éxito y disciplina. Calidad de Ingeniería: Acabados de alta fidelidad que garantizan una experiencia premium sin complicaciones. Flexibilidad Financiera: Compras seguras con Pago Contra Entrega, Sistecredito, PSE, tarjetas y transferencias. Presencia Impecable: El equilibrio justo entre la sobriedad ejecutiva y la comodidad del día a día.
-  Updated: 2026-09-11T06:04:54Z
-  Total Products: 2
+  Updated: 2026-09-30T14:51:29Z
+  Total Products: 17
 - [BRAHMA: Resistencia Extrema y Aventura Urbana](https://shopcreativita.com/collections/brahma-resistencia-extrema-y-aventura-urbana): Diseñadas para quienes no se detienen ante los retos del camino. La línea Brahma es el estándar de máxima durabilidad y protección. En Creativita Shop, traemos esta selección G5 pensada para el trabajador, el viajero y el aventurero urbano que exige un calzado que aguante tanto como él. No es solo robustez; es la tranquilidad de saber que tus pies están protegidos bajo cualquier condición. Por qué Brahma es el escudo que necesitas: Durabilidad Blindada: Construcción robusta diseñada para soportar terrenos exigentes y uso rudo. Seguridad y Confort: Tecnología enfocada en proteger el pie sin sacrificar la comodidad durante largas jornadas. Facilidad Total: Compra con Pago Contra Entrega, Sistecredito, PSE, tarjetas y transferencias. Estilo Funcional: El diseño que combina la estética de la aventura con la eficacia que tu ritmo de vida requiere.
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
@@ -3031,22 +2881,92 @@
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
 - [Tommy Hilfiger: Elegancia Clásica y Estilo Urbano](https://shopcreativita.com/collections/tommy-hilfiger-elegancia-clasica-y-estilo-urbano): "En Creativita Shop, redefine tu presencia. Nuestra selección Tommy Hilfiger combina la sofisticación atemporal con la comodidad moderna. Encuentra calzado y accesorios diseñados para destacar con distinción. Pagos seguros, Contra Entrega y envíos ágiles."
-  Updated: 2026-08-31T17:21:20Z
-  Total Products: 1
+  Updated: 2026-10-08T20:32:06Z
+  Total Products: 6
 
 ## Blogs
 
 - [Estilo, Bienestar y Tendencias](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias)
-  - [🔥 Tendencias en Tecnología, Moda y Bienestar | CREATIVITA SHOP](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/🔥-descubre-lo-nuevo-las-mejores-tendencias-en-calzado-tecnologia-moda-y-bienestar-para-tu-estilo-de-vida-🚀): 🔥 Tendencias en Tecnología, Moda y Bienestar | CREATIVITA SHOP
-    Updated: 2026-08-03T04:12:37Z
+  - [Tendencias en calzado, moda y bienestar | Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/tendencias-calzado-moda-bienestar-estilo-vida): Tendencias en calzado, moda y bienestar | Creativita
+    Updated: 2026-09-15T00:25:30Z
     Author: MAURICIO PUERTA
-  - [Pisadas que marcan la diferencia: Por qué tus tenis definen tu estilo diario](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/pisadas-que-marcan-la-diferencia-por-qu-tus-tenis-definen-tu-estilo-diario): <p>Descubre por qué el calzado es tu mejor carta de presentación. Conoce cómo elegir los tenis ideales que combinan comodidad, tendencia urbana y estilo de vida en Creativita Shop.</p>
-    Updated: 2026-08-07T14:30:51Z
+    Tags: bienestar, calzado, moda, tecnología, tendencias
+  - [Cómo elegir tenis para tu estilo diario | Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/pisadas-que-marcan-la-diferencia-por-que-tus-tenis-definen-tu-estilo-diario): Cómo elegir tenis para tu estilo diario | Creativita
+    Updated: 2026-09-15T00:28:27Z
     Author: MAURICIO PUERTA
-  - [Las últimas tendencias en estilo de vida y cómo comprarlas online](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/las-ultimas-tendencias-en-estilo-de-vida-y-como-comprarlas-online): Las últimas tendencias en estilo de vida y cómo comprarlas online
-    Updated: 2026-09-12T17:16:58Z
+    Tags: calzado, comodidad, estilo, moda urbana, tenis y calzado
+  - [Tendencias 2026 de estilo de vida | Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/las-ultimas-tendencias-en-estilo-de-vida-y-como-comprarlas-online): Tendencias 2026 de estilo de vida | Creativita
+    Updated: 2026-09-15T00:30:21Z
     Author: CREATIVITA SHOP
-    Tags: cómo comprar online, compras, compras online, estilo, estilo de vida, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencia, tendencias, tenis y calzado, últimas tendencias de compras, vida sostenible
+    Tags: cómo comprar online, compras, compras online, estilo, estilo de vida, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencia, tendencias, tendencias 2026, tenis y calzado, últimas tendencias de compras, vida sostenible
+  - [10 tendencias de estilo de vida para 2026 | Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/10-tendencias-de-estilo-de-vida-2026): 10 tendencias de estilo de vida para 2026 | Creativita
+    Updated: 2026-09-15T00:33:03Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras en línea, compras online, estilo, estilo de vida, hábitos de consumo responsables, moda sostenible, moda y tecnologia, nuevas tendencias de compra, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de vida, tenis y calzado
+  - [Moda y Tecnología 2026: Guía de Tendencias – Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/guia-definitiva-para-mantenerte-a-la-vanguardia-en-moda-y-tecnologia): Moda y Tecnología 2026: Guía de Tendencias – Creativita Shop
+    Updated: 2026-09-18T13:05:42Z
+    Author: CREATIVITA SHOP
+    Tags: compras online, estilo de vida, gadgets innovadores, guía de compras tecnológicas, moda, moda y tecnologia, ofertas y descuentos, perfumería, ropa sostenible, salud y belleza, tecnología, tendencias, tenis y calzado, últimas tendencias de moda
+  - [Salud y Belleza 2026: Transforma tu Rutina – Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/transforma-tu-rutina-con-las-ultimas-tendencias-en-salud-y-belleza): Salud y Belleza 2026: Transforma tu Rutina – Creativita Shop
+    Updated: 2026-09-18T13:13:49Z
+    Author: CREATIVITA SHOP
+    Tags: belleza, cambios de rutina, compras online, estilo de vida, hábitos de cuidado personal, moda y tecnologia, ofertas y descuentos, perfumería, productos naturales, salud, salud y belleza, tendencias, tendencias en belleza y salud, tenis y calzado
+  - [Aprovecha las Ofertas en Moda y Salud | Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/saca-el-maximo-partido-a-las-ofertas-sin-morir-en-el-intento): Aprovecha las Ofertas en Moda y Salud | Creativita Shop
+    Updated: 2026-09-23T14:46:57Z
+    Author: CREATIVITA SHOP
+    Tags: ahorro, cómo comprar inteligentemente, compras, compras online, estilo de vida, estrategias de compras, mejorar experiencia de compra, moda y tecnologia, ofertas, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de consumo, tenis y calzado, tips de ahorro
+  - [Cómo Comprar Calzado y Tenis Online con Éxito | Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/como-elegir-la-mejor-opcion-al-comprar-calzado-y-tenis-online): Cómo Comprar Calzado y Tenis Online con Éxito | Creativita Shop
+    Updated: 2026-09-23T16:37:46Z
+    Author: CREATIVITA SHOP
+    Tags: calzado, cómo elegir tenis online, compras, compras online, consejos para comprar calzado, elegir calzado, estilo de vida, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de compra, tenis, tenis online, tenis y calzado
+  - [Perfumería Online | Fragancias Premium – Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/perfumeria-online-encuentra-tu-fragancia-ideal): Perfumería Online | Fragancias Premium – Creativita Shop
+    Updated: 2026-09-23T17:08:53Z
+    Author: CREATIVITA SHOP
+    Tags: cómo elegir perfume, estilo de vida, fragancias, moda y accesorios, perfumería, perfumes, perfumes Colombia, perfumes online, perfumes para hombre, perfumes para mujer, salud y belleza, tendencias
+  - [Tips para Encontrar las Mejores Ofertas en Perfumería – Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/tips-para-encontrar-las-mejores-oportunidades-en-perfumeria): Tips para Encontrar las Mejores Ofertas en Perfumería – Creativita
+    Updated: 2026-09-25T05:01:29Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras online, consejos de belleza, encontrar perfumes baratos, estilo de vida, grandes hallazgos perfumería, mejores fragancias de lujo, moda y tecnologia, ofertas y descuentos, oportunidades perfumes, perfumería, salud y belleza, tendencias, tenis y calzado
+  - [Creed Santal 100ml | La Fragancia de Lujo Masculino – Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/creed-santal-fragancia-lujo-masculino): Creed Santal 100ml | La Fragancia de Lujo Masculino – Creativita
+    Updated: 2026-09-26T21:08:59Z
+    Author: Creativita Shop
+    Tags: ámbar amaderado, creed, creed santal, fragancias masculinas, perfume hombre, perfume lujo, perfumeria, perfumes colombia, salud y belleza, santal, tendencias
+  - [Adidas London Gris Naranja Caballero | Tenis Urbano – Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/adidas-london-gris-naranja-tenis-urbano-hombre): Adidas London Gris Naranja Caballero | Tenis Urbano – Creativita
+    Updated: 2026-09-26T20:33:12Z
+    Author: Creativita Shop
+    Tags: adidas colombia, adidas london, calzado masculino, moda masculina, tendencias, tenis deportivo, tenis gris naranja, tenis hombre, tenis urbano, tenis y calzado
+  - [RtaFull: Depurativo Natural para Hígado, Riñones e Intestinos | Creativita](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/rtafull-depurativo-natural-higado-rinones-intestinos): RtaFull: Depurativo Natural para Hígado, Riñones e Intestinos | Creativita
+    Updated: 2026-09-26T20:18:52Z
+    Author: Creativita Shop
+    Tags: bienestar, depurativo, detox natural, hígado, rtafull, salud digestiva, salud y belleza, suplemento natural
+  - [Tendencias Sostenibles en Moda 2026 | Creativita Shop](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/tendencias-sostenibles-en-moda-que-deberias-considerar): Tendencias Sostenibles en Moda 2026 | Creativita Shop
+    Updated: 2026-09-28T13:38:38Z
+    Author: CREATIVITA SHOP
+    Tags: compras conscientes, compras online, consumo responsable, estilo de vida, moda, moda sostenible para todos, moda y tecnologia, ofertas y descuentos, perfumería, ropa ecológica, salud y belleza, sostenible, tendencias, tendencias en moda sostenible, tenis y calzado
+  - [Integrando tecnología con tu estilo de vida diario: Una guía imprescindible](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/integrando-tecnologia-con-tu-estilo-de-vida-diario-una-guia-imprescindible): Integrando tecnología con tu estilo de vida diario: Una guía imprescindible
+    Updated: 2026-09-30T01:47:51Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras online, estilo de vida, guía imprescindible, hábitos de consumo, integración tecnológica diaria, moda tecnológica, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tecnología, tendencias, tenis y calzado
+  - [5 problemas comunes al comprar online y cómo solucionarlos fácilmente](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/5-problemas-comunes-al-comprar-online-y-como-solucionarlos-facilmente): 5 problemas comunes al comprar online y cómo solucionarlos fácilmente
+    Updated: 2026-10-02T01:41:18Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras online, consejos para comprar en línea, desafíos del comercio electrónico, estilo de vida, experiencias de compra, moda y tecnologia, ofertas y descuentos, online, perfumería, problemas comunes, salud y belleza, solución compras, tendencias, tenis y calzado
+  - [Explorando las tendencias más impactantes en salud y belleza actuales](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/explorando-las-tendencias-mas-impactantes-en-salud-y-belleza-actuales): Explorando las tendencias más impactantes en salud y belleza actuales
+    Updated: 2026-10-05T02:02:50Z
+    Author: CREATIVITA SHOP
+    Tags: belleza, compras en línea, compras online, compras sostenibles, consejos de belleza actuales, estilo de vida, hábitos de consumo, moda y tecnologia, ofertas y descuentos, perfumería, productos naturales, salud, salud y belleza, tendencias, tenis y calzado
+  - [Cómo el comercio digital está transformando la moda y tecnología](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/como-el-comercio-digital-esta-transformando-la-moda-y-tecnologia): Cómo el comercio digital está transformando la moda y tecnología
+    Updated: 2026-10-07T01:44:54Z
+    Author: CREATIVITA SHOP
+    Tags: comercio digital, compra en línea, compras, compras online, estilo de vida, evolución del consumo digital, moda, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tecnología, tendencias, tendencias de moda, tenis y calzado, transformación del comercio
+  - [Nuevas tendencias de estilo de vida: guía para no perderse en el mundo online](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/nuevas-tendencias-de-estilo-de-vida-guia-para-no-perderse-en-el-mundo-online): Nuevas tendencias de estilo de vida: guía para no perderse en el mundo online
+    Updated: 2026-10-09T01:29:04Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras online, consejos de покупки en línea, estilo, estilo de vida, guía de tendencias de compras, hábitos de consumo, moda, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias actuales, tenis y calzado
+  - [Los secretos del éxito al comprar tenis y calzado en las tiendas digitales](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/los-secretos-del-exito-al-comprar-tenis-y-calzado-en-las-tiendas-digitales): Los secretos del éxito al comprar tenis y calzado en las tiendas digitales
+    Updated: 2026-10-12T02:07:14Z
+    Author: CREATIVITA SHOP
+    Tags: calzado, compra de zapatos, compras, compras online, consejos para comprar calzado, estilo de vida, mejores zapatos online, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de compras, tenis, tenis y calzado, tiendas digitales
 
 ## Store Pages
 
@@ -3058,13 +2978,13 @@
 ## Policies
 
 - [Privacy Policy](https://shopcreativita.com/policies/privacy-policy)
-  Updated: 2026-07-31T11:43:23-05:00
+  Updated: 2026-09-22T21:50:27-05:00
 - [Shipping Policy](https://shopcreativita.com/policies/shipping-policy)
-  Updated: 2026-07-31T11:35:25-05:00
+  Updated: 2026-09-15T22:19:10-05:00
 - [Refund Policy](https://shopcreativita.com/policies/refund-policy)
-  Updated: 2026-07-31T11:20:08-05:00
+  Updated: 2026-09-15T22:14:34-05:00
 - [Terms of Service](https://shopcreativita.com/policies/terms-of-service)
-  Updated: 2026-07-31T11:31:40-05:00
+  Updated: 2026-09-15T22:31:26-05:00
 - [Contact Information](https://shopcreativita.com/policies/contact-information)
   Updated: 2026-07-31T11:36:29-05:00
 
