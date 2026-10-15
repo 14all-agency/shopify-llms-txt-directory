@@ -3,73 +3,76 @@
 - Domain: https://myfirmtech.com
 - Locale: en
 - Currency: USD
-- Timezone: America/Denver
+- Timezone: America/Los_Angeles
 - Created At: 2021-07-05T19:09:57Z
 - Contact Email: customerservice@myfirmtech.com
-- Updated At: 2026-08-23T00:00:25.537Z
+- Updated At: 2026-10-15T00:00:27.236Z
 
 ## Collections
 
 - [Home page](https://myfirmtech.com/collections/frontpage): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 5
 - [FirmTech](https://myfirmtech.com/collections/firmtech): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 15
 - [Current Collection](https://myfirmtech.com/collections/current-collection): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 3
 - [TechRing](https://myfirmtech.com/collections/tech-ring): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 1
 - [MAX PR and FPR](https://myfirmtech.com/collections/max-pr-and-fpr): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 2
 - [Merch](https://myfirmtech.com/collections/merch): Firmtech fun hats
-  Updated: 2026-04-27T20:23:57Z
+  Updated: 2026-10-13T19:37:12Z
   Total Products: 2
 - [Health Ring](https://myfirmtech.com/collections/health-rings): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 4
 - [Pleasure Rings](https://myfirmtech.com/collections/pleasure-rings): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 4
 - [HSA/FSA](https://myfirmtech.com/collections/hsa-fsa): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear. Covered by HSA or FSA using Flex at checkout
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 5
 - [TechRing and TechRing Bundles](https://myfirmtech.com/collections/techring-and-techring-bundles): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 6
 - [TechRing and TechRing bundles](https://myfirmtech.com/collections/techring-and-techring-bundles-1): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 3
 - [RingMate Bundles](https://myfirmtech.com/collections/ringmate-bundles): Discover FirmTech accessories that merge innovation and style. Enhance your wearable lifestyle today.
-  Updated: 2026-05-14T05:49:52Z
+  Updated: 2026-10-13T19:37:13Z
   Total Products: 3
 - [Wholesale](https://myfirmtech.com/collections/wholesale)
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 9
 - [FirmTech Bundles](https://myfirmtech.com/collections/firmtech-bundles)
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-13T19:37:13Z
   Total Products: 7
 - [Warranty](https://myfirmtech.com/collections/warranty)
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 4
 - [FirmTech Rings](https://myfirmtech.com/collections/firmtech-rings): FirmTech is a trusted leader in men's  health, empowering men of all ages to optimize their  performance and well-being from the comfort of their homes.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 8
 - [Pleasure Products](https://myfirmtech.com/collections/pleasure-products): Our pleasure products are made with -grade elastomer and designed for a secure, comfortable fit. The Performance Ring is our original fit while the MaxPR is our tightest fit.
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 5
 - [RingMate and RingMate Bundles](https://myfirmtech.com/collections/ringmate-and-ringmate-bundles): Designed by doctors for both solo and couple play. Easily slip this onto a ring or place it between your fingers.
-  Updated: 2026-08-13T11:12:15Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 4
 - [FirmTX Products](https://myfirmtech.com/collections/firmtx-products)
-  Updated: 2026-08-03T17:53:49Z
+  Updated: 2026-10-13T19:37:13Z
   Total Products: 2
 - [Discountable Products](https://myfirmtech.com/collections/discountable-products)
-  Updated: 2026-08-22T11:13:48Z
+  Updated: 2026-10-14T11:18:14Z
   Total Products: 15
+- [Subscriptions](https://myfirmtech.com/collections/subscriptions)
+  Updated: 2026-10-13T19:37:13Z
+  Total Products: 1
 
 ## Blogs
 
@@ -183,7 +186,7 @@
     Updated: 2026-02-26T02:04:02Z
     Author: Riley Daily
   - [Research Using the FirmTech TechRing and MaxPR](https://myfirmtech.com/blogs/news/research-using-the-firmtech-techring-and-maxpr)
-    Updated: 2026-06-04T14:10:23Z
+    Updated: 2026-10-04T15:53:09Z
     Author: Ann Justin
     Tags: Research
   - [The Tools for Sustaining Erections: Xialla vs. FirmTech, which is Best for You?](https://myfirmtech.com/blogs/news/the-tools-for-sustaining-erections-xialla-vs-firmtech-which-is-best-for-you-1)
@@ -195,8 +198,8 @@
   - [Honoring Helen O'Connell for Women's History Month](https://myfirmtech.com/blogs/news/honoring-helen-oconnell-for-womens-history-month): <p><meta charset="utf-8"><span>Dr. Helen O'Connell is <meta charset="utf-8"></span><span>an Australian urologist whose groundbreaking work in understanding the clitoris has challenged a lot of misconceptions.  </span></p>
     Updated: 2026-02-26T02:04:10Z
     Author: Ann Justin
-  - [FirmTech vs Eddie by Giddy: A Comprehensive Comparison](https://myfirmtech.com/blogs/news/frimtech-vs-eddie-bvy-giddy-a-comprehensive-comparison)
-    Updated: 2026-02-26T02:04:12Z
+  - [FirmTech vs Eddie by Giddy vs RX Sleeve's Veno Support: A Comprehensive Comparison](https://myfirmtech.com/blogs/news/frimtech-vs-eddie-bvy-giddy-a-comprehensive-comparison)
+    Updated: 2026-09-04T22:22:08Z
     Author: Ann Justin
   - [FirmTech vs Perfect Fit Xact-Fit Rings: A Comprehensive Comparison](https://myfirmtech.com/blogs/news/firmtech-vs-xact-rings-a-comprehensive-comparison)
     Updated: 2026-02-26T02:04:14Z
@@ -299,7 +302,7 @@
 - [Returns | My FirmTech](https://myfirmtech.com/pages/returns): 
   Updated: 2024-09-03T15:40:28Z
 - [FirmTech App Download](https://myfirmtech.com/pages/app-download): Download The FirmTech App Here
-  Updated: 2025-09-03T15:52:25Z
+  Updated: 2026-10-08T17:45:54Z
 - [Bathmate](https://myfirmtech.com/pages/bathmate)
   Updated: 2025-09-03T15:52:32Z
 - [Prostate Cancer](https://myfirmtech.com/pages/prostate-cancer)
@@ -313,7 +316,7 @@
 - [Results](https://myfirmtech.com/pages/results)
   Updated: 2025-06-06T13:02:39Z
 - [Result Load](https://myfirmtech.com/pages/result-load)
-  Updated: 2026-08-22T23:54:57Z
+  Updated: 2026-10-14T21:26:07Z
 - [GDPR](https://myfirmtech.com/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2026-02-18T22:24:28Z
 - [APPI](https://myfirmtech.com/pages/appi): #form-appi-edit-account-request, #form-appi-requests-request, #form-appi-personal-information-request, #form-appi-orders-request, #form-appi-person...
@@ -342,19 +345,27 @@
   Updated: 2026-06-15T16:15:45Z
 - [Annette](https://myfirmtech.com/pages/annette): /* ── Font declarations ── */ @font-face { font-family: 'RightGroteskCompactBold'; src: url('https://cdn.shopify.com/s/files/1/0577/3177/6662/files...
   Updated: 2026-07-27T16:29:59Z
+- [At-Home Men's Health Panel + Coach Review | FirmTech Labs](https://myfirmtech.com/pages/mens-health-labs-and-coaching): 
+  Updated: 2026-08-25T03:31:20Z
+- [Overview of biomarkers in Firmtech's Men's Health Panel](https://myfirmtech.com/pages/overview-of-biomarkers-in-firmtechs-mens-health-panel): Overview of panels & biomarkers The hormone panel Total testosterone What it measures. Every molecule of testosterone in circulation, bound and unb...
+  Updated: 2026-08-25T21:24:10Z
+- [Thanks, your answer was recorded.](https://myfirmtech.com/pages/thank-you-page): You can close this tab.
+  Updated: 2026-09-10T13:28:42Z
+- [What's In Our Men's Health Lab Panel](https://myfirmtech.com/pages/whats-in-our-mens-health-lab-panel): The hormone panel Total testosterone What it measures. Every molecule of testosterone in circulation, bound and unbound together. Why it matters. T...
+  Updated: 2026-09-15T00:45:35Z
 
 ## Policies
 
 - [Privacy Policy](https://myfirmtech.com/policies/privacy-policy)
-  Updated: 2026-06-10T11:51:45-06:00
+  Updated: 2026-06-10T10:51:45-07:00
 - [Shipping Policy](https://myfirmtech.com/policies/shipping-policy)
-  Updated: 2022-12-30T13:10:10-07:00
+  Updated: 2022-12-30T12:10:10-08:00
 - [Refund Policy](https://myfirmtech.com/policies/refund-policy)
-  Updated: 2022-10-11T16:11:57-06:00
+  Updated: 2022-10-11T15:11:57-07:00
 - [Terms of Service](https://myfirmtech.com/policies/terms-of-service)
-  Updated: 2024-07-31T15:30:36-06:00
+  Updated: 2024-07-31T14:30:36-07:00
 - [Contact Information](https://myfirmtech.com/policies/contact-information)
-  Updated: 2025-09-16T16:52:12-06:00
+  Updated: 2025-09-16T15:52:12-07:00
 
 ## Optional
 
