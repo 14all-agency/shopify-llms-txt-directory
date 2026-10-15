@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-04T18:17:58Z
 - Contact Email: info@rawsupport.ca
-- Updated At: 2026-10-08T00:00:24.273Z
+- Updated At: 2026-10-15T00:00:25.104Z
 
 ## Products
 
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_ebc2310d-5497-45a6-a7c5-050aaeb0152d.jpg?v=1764010300
   Price: $37.95 CAD
 - [Healthy Cranberry & L-Lysine for Dogs & Cats | Urinary & Immune Support | 128g](https://www.rawsupport.ca/products/pethealthboost-immune): Healthy Cranberry & L-Lysine for dogs and cats supports urinary tract health, bladder wellness and immune system function with cranberry and L-Lysine.
-  Updated: 2026-10-06T20:24:03Z
+  Updated: 2026-10-14T02:35:36Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_f61b9dfd-78b7-4b66-9c16-7ac601638d67.jpg?v=1764009746
   Price: $37.95 CAD
 - [Dog Probiotics Canada | Gut Health & Digestive Enzymes for Dogs](https://www.rawsupport.ca/products/petdigestivecare-digestion): Dog probiotics in Canada with probiotics, prebiotics & digestive enzymes. Supports gut health, digestion, stool quality and sensitive stomachs
-  Updated: 2026-10-07T18:13:46Z
+  Updated: 2026-10-10T22:44:28Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
@@ -196,28 +196,28 @@
 ## Collections
 
 - [Home page](https://www.rawsupport.ca/collections/frontpage)
-  Updated: 2026-10-02T11:23:23Z
+  Updated: 2026-10-08T11:23:43Z
   Total Products: 1
 - [Wormers](https://www.rawsupport.ca/collections/wormers)
   Updated: 2026-10-07T11:23:43Z
   Total Products: 2
 - [Digestion](https://www.rawsupport.ca/collections/digestion)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-11T11:21:59Z
   Total Products: 1
 - [Skin & Coat](https://www.rawsupport.ca/collections/skin-coat)
-  Updated: 2026-10-02T11:23:23Z
+  Updated: 2026-10-08T11:23:43Z
   Total Products: 4
 - [Joint](https://www.rawsupport.ca/collections/joint)
   Updated: 2026-10-05T11:22:45Z
   Total Products: 2
 - [Allergy](https://www.rawsupport.ca/collections/allergy)
-  Updated: 2026-10-03T11:25:42Z
+  Updated: 2026-10-08T11:23:43Z
   Total Products: 2
 - [Immune Boost](https://www.rawsupport.ca/collections/immune-boost)
-  Updated: 2026-10-05T11:22:45Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 2
 - [UTI](https://www.rawsupport.ca/collections/uti)
-  Updated: 2026-10-05T11:22:45Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 1
 - [Calming](https://www.rawsupport.ca/collections/calming)
   Updated: 2026-10-07T11:23:43Z
@@ -226,7 +226,7 @@
   Updated: 2026-09-29T11:21:43Z
   Total Products: 1
 - [Best Sellers](https://www.rawsupport.ca/collections/best-sellers)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 7
 - [Liquid 1](https://www.rawsupport.ca/collections/liquid-1)
   Updated: 2026-10-07T11:23:43Z
@@ -235,7 +235,7 @@
   Updated: 2026-10-07T11:23:43Z
   Total Products: 3
 - [Powder](https://www.rawsupport.ca/collections/powder)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 6
 - [Product FAQs](https://www.rawsupport.ca/collections/product-faqs)
   Updated: 2026-01-03T20:44:24Z
@@ -247,13 +247,13 @@
   Updated: 2026-10-07T11:23:43Z
   Total Products: 1
 - [Digestion Cat](https://www.rawsupport.ca/collections/digestion-cat)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-11T11:21:59Z
   Total Products: 1
 - [Skin, Coat & Hairballs](https://www.rawsupport.ca/collections/skin-coat-hairballs)
-  Updated: 2026-10-02T11:23:23Z
+  Updated: 2026-10-08T11:23:43Z
   Total Products: 4
 - [UTI & URI](https://www.rawsupport.ca/collections/uti-uri)
-  Updated: 2026-10-05T11:22:45Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 1
 - [Low Energy](https://www.rawsupport.ca/collections/low-energy)
   Updated: 2026-09-29T11:21:43Z
@@ -262,7 +262,7 @@
   Updated: 2026-10-05T11:22:45Z
   Total Products: 2
 - [Allergy Cat](https://www.rawsupport.ca/collections/allergy-cat)
-  Updated: 2026-10-03T11:25:42Z
+  Updated: 2026-10-08T11:23:43Z
   Total Products: 2
 - [Calming Cat](https://www.rawsupport.ca/collections/calming-cat)
   Updated: 2026-10-07T11:23:43Z
@@ -274,7 +274,7 @@
   Updated: 2026-10-07T11:23:43Z
   Total Products: 2
 - [Powder Cat](https://www.rawsupport.ca/collections/powder-cat)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 6
 - [Capsule Nutrition](https://www.rawsupport.ca/collections/shop-capsules): Boost immunity & support detox with Raw Support Immunity & Cleanse Capsules. Natural, vet- formula for dogs & cats. Order now for free shipping!
   Updated: 2026-10-07T11:23:43Z
@@ -283,7 +283,7 @@
   Updated: 2026-10-07T11:23:43Z
   Total Products: 5
 - [Powdered Nutrition](https://www.rawsupport.ca/collections/shop-powder)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 6
 - [BOGO50](https://www.rawsupport.ca/collections/bogo50): BOGO50
   Updated: 2026-01-03T20:44:25Z
@@ -292,19 +292,19 @@
   Updated: 2026-10-07T11:23:43Z
   Total Products: 8
 - [Supplements](https://www.rawsupport.ca/collections/supplements)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 14
 - [Cat Supplements](https://www.rawsupport.ca/collections/cat-supplements)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 11
 - [Best Seller (internal use)](https://www.rawsupport.ca/collections/best-seller-internal-use)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 27
 - [Bundle & Save](https://www.rawsupport.ca/collections/bundle-save)
   Updated: 2026-01-03T20:44:26Z
   Total Products: 0
 - [HomeSense](https://www.rawsupport.ca/collections/homesense)
-  Updated: 2026-10-07T11:23:43Z
+  Updated: 2026-10-14T11:23:48Z
   Total Products: 4
 - [USA Supplements](https://www.rawsupport.ca/collections/usa-supplements)
   Updated: 2026-05-09T17:01:50Z
@@ -437,6 +437,34 @@
     Updated: 2026-10-07T03:00:32Z
     Author: Roger Hendricks
     Tags: all bee benefits, bee, boosting tips, enhance immune function, health, immune, natural remedies, seasonal wellness
+  - [The Benefits of Omega 3-6-9 for Cats’ Coats](https://www.rawsupport.ca/blogs/news/the-benefits-of-omega-3-6-9-for-cats-coats): The Benefits of Omega 3-6-9 for Cats’ Coats
+    Updated: 2026-10-08T03:01:04Z
+    Author: Roger Hendricks
+    Tags: benefits of omega oils for cats, cat grooming, cats, enhance cat coat quality, health, omega, omega fatty acids, pet nutrition
+  - [Salmon Oil Plus: Enhance Brain and Heart Health With Omega 3 Benefits](https://www.rawsupport.ca/blogs/news/salmon-oil-plus-enhance-brain-and-heart-health-with-omega-3-benefits): Salmon Oil Plus: Enhance Brain and Heart Health With Omega 3 Benefits
+    Updated: 2026-10-09T03:01:25Z
+    Author: Roger Hendricks
+    Tags: brain health, enhance heart function, fish oil benefits, health, heart health, omega, omega 3 supplement, salmon
+  - [Supporting Your Cat's Digestion Naturally with Raw Support](https://www.rawsupport.ca/blogs/news/supporting-your-cats-digestion-naturally-with-raw-support): Supporting Your Cat's Digestion Naturally with Raw Support
+    Updated: 2026-10-10T03:00:55Z
+    Author: Roger Hendricks
+    Tags: cat, digestion, digestive health, health, improve cat digestion, natural support, raw diet, support your cat's digestion
+  - [Boost Seasonal Immune Health with All Bee Support](https://www.rawsupport.ca/blogs/news/boost-seasonal-immune-health-with-all-bee-support): Boost Seasonal Immune Health with All Bee Support
+    Updated: 2026-10-11T03:00:56Z
+    Author: Roger Hendricks
+    Tags: bee, bee products benefits, enhance immune function, health, immune, immunity boost, natural remedies, seasonal support
+  - [The Ultimate Omega 3-6-9 Guide for Your Pet's Coat](https://www.rawsupport.ca/blogs/news/the-ultimate-omega-3-6-9-guide-for-your-pets-coat): The Ultimate Omega 3-6-9 Guide for Your Pet's Coat
+    Updated: 2026-10-12T03:00:50Z
+    Author: Roger Hendricks
+    Tags: best oils for pet coats, coat, essential fatty acids, healthy fur, omega, omega 3 benefits for pets, pet nutrition, pets
+  - [Supporting Brain and Heart with Salmon Oil Plus](https://www.rawsupport.ca/blogs/news/supporting-brain-and-heart-with-salmon-oil-plus): Supporting Brain and Heart with Salmon Oil Plus
+    Updated: 2026-10-13T03:00:31Z
+    Author: Roger Hendricks
+    Tags: brain health, cardiovascular support, fish oil benefits, heart, improve cognitive function, oil, omega-3 supplements, salmon
+  - [How Balance Supports Healthy Skin in Cats and Dogs](https://www.rawsupport.ca/blogs/news/how-balance-supports-healthy-skin-in-cats-and-dogs): How Balance Supports Healthy Skin in Cats and Dogs
+    Updated: 2026-10-14T03:00:32Z
+    Author: Roger Hendricks
+    Tags: balance, cats, dogs, healthy skin, how to support healthy skin, maintaining pet wellness, pet nutrition, skin care tips
 
 ## Store Pages
 
