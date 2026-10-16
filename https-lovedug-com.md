@@ -1,12 +1,12 @@
 # love dug (https://lovedug.com)
 
 - Contact Email: business@lovedug.com
-- Updated At: 2026-09-27T00:00:40.260Z
+- Updated At: 2026-10-16T00:00:43.034Z
 
 ## Products
 
 - [Love Dug | Multi-Use Purse Organizer](https://lovedug.com/products/multi-use-purse-organizer): Cute bow-tie clutch that doubles as a discreet pad/tampon pouch or mini makeup bag. Soft polyester, zipper closure, fits any handbag. Shop Love Dug.
-  Updated: 2026-08-29T00:11:15Z
+  Updated: 2026-10-07T15:53:16Z
   Vendor: love dug
   Product Type: Multi-Use Purse Organizer
   Availability: Available
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/pink_200006156.jpg?v=1784813920
     Price: $22.00 USD
 - [Love Dug | Pill Organizer – 10 Compartments, 175 Labels](https://lovedug.com/products/personal-vitamin-supplement-pills-organizer): Compact foldable pill organizer with 10 compartments and 175 medication labels. Fits pockets and travel bags. Safe, durable materials. Shop Love Dug.
-  Updated: 2026-08-29T00:11:15Z
+  Updated: 2026-10-07T15:52:51Z
   Vendor: love dug
   Product Type: Personal Vitamin & Supplement Pills Organizer
   Availability: Available
@@ -58,7 +58,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_c352e62c-8b94-4d36-b337-c321151907dc.jpg?v=1784813772
     Price: $27.00 USD
 - [Love Dug | Waterproof Car Trunk Organizer – 50L, Foldable](https://lovedug.com/products/multi-compartment-waterproof-car-trunk-organizer): 50L waterproof car trunk organizer in 600D fabric. Rigid shape, reinforced walls, foldable for storage. Fits cars, SUVs, trucks. Shop Love Dug.
-  Updated: 2026-09-26T00:05:59Z
+  Updated: 2026-10-15T07:44:58Z
   Vendor: love dug
   Product Type: Multi Compartment Waterproof Car Trunk Organizer
   Availability: Available
@@ -108,7 +108,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Floral_5ee8625e-36ea-4916-a990-7bfc1240024f.jpg?v=1784815440
     Price: $72.00 USD
 - [Love Dug | 2-in-1 Air Humidifier & Aroma Diffuser – USB Mini](https://lovedug.com/products/2-in-1-air-humidifier-aroma-diffuser): Compact USB-powered air humidifier and aroma diffuser with a colorful ambient glow. Continuous or intermittent mist. Fits car cup holders. Shop Love Dug.
-  Updated: 2026-08-29T00:11:16Z
+  Updated: 2026-10-07T15:52:16Z
   Vendor: love dug
   Product Type: 2-in-1 Air Humidifier & Aroma Diffuser
   Availability: Available
@@ -126,14 +126,14 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Pink_1.jpg?v=1784813511
     Price: $50.00 USD
 - [Love Dug | Home Electric 12-Inch Pizza Maker – Nonstick](https://lovedug.com/products/home-electric-12-inch-pizza-maker): Electric 12-inch pizza maker with nonstick plate, power and temperature-ready indicator lights, and compact cord wrap. Makes pizza, quesadillas & more. Shop Love Dug.
-  Updated: 2026-09-03T07:33:49Z
+  Updated: 2026-10-07T15:51:13Z
   Vendor: love dug
   Product Type: Home Electric 12-Inch Pizza Maker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Red_6ff1e416-84d4-4b54-befe-6f48364d310f.jpg?v=1784813458
   Price: $162.00 USD
 - [Love Dug | Women's Fur Jacket Cardigan – Faux Fur](https://lovedug.com/products/womens-fur-jacket-cardigan): Soft faux fur jacket cardigan for women. Relaxed hip-length, hook-and-eye closure, polyester lining. Sizes S–2XL. Machine wash cold. Shop Love Dug.
-  Updated: 2026-09-26T00:05:48Z
+  Updated: 2026-10-07T15:50:53Z
   Vendor: love dug
   Product Type: Women's Fur Jacket Cardigan
   Availability: Available
@@ -141,7 +141,7 @@
   - [Beige / Small](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965935013942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $144.00 USD
+    Price: $108.00 USD
   - [Beige / Medium](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965938585654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
@@ -149,11 +149,11 @@
   - [Beige / Large](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=44335229468726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $140.00 USD
+    Price: $108.00 USD
   - [Beige / X-Large](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965935210550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $144.00 USD
+    Price: $108.00 USD
 - [Love Dug | Festive Tabletop Christmas Tree – Mini PVC Tree](https://lovedug.com/products/festive-table-top-christmas-tree): Mini festive tabletop Christmas tree with fluffable PVC branches and included accessories. Available in 11.8" and 23.6". Indoor and covered outdoor use. Shop Love Dug.
   Updated: 2026-08-29T00:11:16Z
   Vendor: love dug
@@ -162,21 +162,21 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/ColourA.jpg?v=1784813344
   Price: $49.00 USD
 - [Love Dug | Rustic Wooden Cookbook Stand – Foldable Wood Holder](https://lovedug.com/products/rustic-wooden-cookbook-stand): Carbonized solid wood cookbook stand with rustic farmhouse grain. Holds hardcovers, tablets, and sheet music. Tool-free assembly, folds flat. Shop Love Dug.
-  Updated: 2026-08-29T00:11:17Z
+  Updated: 2026-10-07T15:50:38Z
   Vendor: love dug
   Product Type: Rustic Wooden Cookbook Stand
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/RusticStand.jpg?v=1784813272
   Price: $53.00 USD
 - [Love Dug | Portable Home Theater Projector – Smart HD Mini](https://lovedug.com/products/portable-home-theater-projector): Portable-size smart projector with Android 11, Wi-Fi 6, Bluetooth 5.0, and 720p native resolution. 40–130 inch screen, ~0.5 kg. Shop at Love Dug.
-  Updated: 2026-09-26T19:35:17Z
+  Updated: 2026-10-09T13:04:20Z
   Vendor: love dug
   Product Type: Portable Home Theater Projector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/BlackandWhite.jpg?v=1784813179
   Price: $133.00 USD
 - [Love Dug | Durable AirTag Case – IPX8 Waterproof, 4-Pack](https://lovedug.com/products/durable-airtag-case): IPX8 waterproof silicone AirTag case with 360° scratch and drop protection. 4 cases + 4 keychains included. Fits 1st and 2nd gen. Shop Love Dug.
-  Updated: 2026-09-26T00:05:59Z
+  Updated: 2026-10-07T15:49:38Z
   Vendor: love dug
   Product Type: Durable AirTag Case
   Availability: Available
@@ -194,7 +194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/blackblue.png?v=1786641051
     Price: $36.00 USD
 - [Love Dug | Gourmet Cooking Oil Sprayer – 500 ml Mist & Pour](https://lovedug.com/products/gourmet-cooking-oil-sprayer): 500 ml refillable cooking oil sprayer with fine mist and smooth pour. Wide-mouth refill, food-safe, leak-resistant. Hand wash only. Shop Love Dug.
-  Updated: 2026-08-29T00:11:18Z
+  Updated: 2026-10-07T15:49:27Z
   Vendor: love dug
   Product Type: Gourmet Cooking Oil Sprayer
   Availability: Available
@@ -212,7 +212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Green_ddbf6e2d-48b0-4466-9ac8-1074f958353a.jpg?v=1784800944
     Price: $18.00 USD
 - [Love Dug | Rechargeable Motion Sensor Light Bar – Wireless LED](https://lovedug.com/products/rechargeable-motion-sensor-light-bar): Rechargeable motion sensor light bar with magnetic mount. Perfect for closets, stairs, and cabinets. Zero wiring, modern design. Shop Love Dug.
-  Updated: 2026-08-29T00:11:18Z
+  Updated: 2026-10-07T15:49:14Z
   Vendor: love dug
   Product Type: Rechargeable Motion Sensor Light Bar
   Availability: Available
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/50cm.jpg?v=1784800811
     Price: $46.00 USD
 - [Love Dug | Waterproof Diaper Bag Pouch – Wet/Dry TPU Tote](https://lovedug.com/products/waterproof-diaper-bag-pouch): Waterproof wet/dry diaper bag pouch with sealed leakproof compartment and zippered dry section. TPU material, machine washable, holds 5–7 diapers. Shop Love Dug.
-  Updated: 2026-08-29T00:11:18Z
+  Updated: 2026-10-07T15:48:32Z
   Vendor: love dug
   Product Type: Waterproof Diaper Bag Pouch
   Availability: Available
@@ -328,7 +328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/W161.jpg?v=1784892552
     Price: $27.00 USD
 - [Love Dug | Handheld Milk Frother – USB Rechargeable, 3-Speed](https://lovedug.com/products/handheld-electric-coffee-milk-frother): Upgrade your coffee with this cordless handheld milk frother. USB rechargeable, 3-speed stainless steel whisk for silky lattes, matcha & cocoa. Shop now at Love Dug.
-  Updated: 2026-09-26T00:10:36Z
+  Updated: 2026-10-07T15:47:59Z
   Vendor: love dug
   Product Type: Handheld Electric Coffee Milk Frother
   Availability: Available
@@ -336,80 +336,24 @@
   - [White](https://lovedug.com/products/handheld-electric-coffee-milk-frother?variant=44335233040438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_1.png?v=1786609120
-    Price: $21.00 USD
+    Price: $20.00 USD
   - [Black](https://lovedug.com/products/handheld-electric-coffee-milk-frother?variant=44335233073206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Love_Dug_Main_Image_1_black.jpg?v=1775726362
-    Price: $21.00 USD
+    Price: $20.00 USD
   - [Light Green](https://lovedug.com/products/handheld-electric-coffee-milk-frother?variant=44335233105974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Love_Dug_Main_Image_1_green-2_f608b33b-6955-4afb-a191-416fa5bc6877.jpg?v=1775726362
-    Price: $21.00 USD
-- [Love Dug | Clip-On Running & Cycling Safety Lights – 5 LED](https://lovedug.com/products/clip-on-running-cycling-safety-lights): 5-LED clip-on safety light for runners, cyclists, and hikers. Weather and water resistant, 3 modes, up to 96 hours runtime. Batteries included. Shop Love Dug.
-  Updated: 2026-09-26T00:10:11Z
-  Vendor: love dug
-  Product Type: Clip-On Running & Cycling Safety Lights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/1pc.jpg?v=1784800416
-  - [1](https://lovedug.com/products/clip-on-running-cycling-safety-lights?variant=44335233171510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/1pc.jpg?v=1784800416
-    Price: $22.00 USD
-  - [2](https://lovedug.com/products/clip-on-running-cycling-safety-lights?variant=44335233204278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/2pcs.jpg?v=1784800416
-    Price: $32.00 USD
-  - [4](https://lovedug.com/products/clip-on-running-cycling-safety-lights?variant=44335233237046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/4pcs.jpg?v=1784800416
-    Price: $43.00 USD
-  - [5](https://lovedug.com/products/clip-on-running-cycling-safety-lights?variant=44335233269814)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/5pcs.jpg?v=1784800416
-    Price: $58.00 USD
-  - [8](https://lovedug.com/products/clip-on-running-cycling-safety-lights?variant=44335233302582)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/8pcs.jpg?v=1784800416
-    Price: $86.00 USD
+    Price: $20.00 USD
 - [Love Dug | 7-in-1 Pilates Reformer Home Workout System](https://lovedug.com/products/7-in-1-pilates-reformer-home-workout-system): 7-in-1 pilates reformer for home with stepper, glute trainer, ab machine, resistance bands, and core board. Foldable, adjustable, fits 5'0" to 6'5". Shop Love Dug.
-  Updated: 2026-08-29T00:11:19Z
+  Updated: 2026-10-07T15:47:17Z
   Vendor: love dug
   Product Type: 7-in-1 Pilates Reformer Home Workout System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Pilates.jpg?v=1784800302
   Price: $151.00 USD
-- [Love Dug | Cozy Fireplace Flame Diffuser & Humidifier](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier): Fireplace flame aroma diffuser with 280 ml tank, remote control, 6/8/10-hour timer, rainbow LED modes, and auto shutoff. Type-C powered. Shop Love Dug.
-  Updated: 2026-09-18T19:30:13Z
-  Vendor: love dug
-  Product Type: Cozy Fireplace Flame Air Diffuser & Humidifier
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/DeepWoodgrain.jpg?v=1784799936
-  - [Dark Woodgrain](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495629878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/DeepWoodgrain.jpg?v=1784799936
-    Price: $130.00 USD
-  - [Light Woodgrain](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495597110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/LightWoodgrain.jpg?v=1784799936
-    Price: $114.00 USD
-  - [Black](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495498806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_273de713-9477-4a6e-88ef-5a839d296692.jpg?v=1784799936
-    Price: $123.00 USD
-  - [White](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495531574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_3fd43fea-1af1-453c-ae32-01313dc6c959.jpg?v=1784799936
-    Price: $124.00 USD
-  - [Essential Oil (4 Packs)](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495466038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/4PacksEOSet.jpg?v=1784799936
-    Price: $31.00 USD
-  - [Essential Oil (6 Packs)](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=45569495564342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/6PacksEOSet.jpg?v=1784799936
-    Price: $39.00 USD
 - [Love Dug | Leash-Attachable Dog Poop Kit "Pop Art"](https://lovedug.com/products/leash-attachable-dog-poop-kit-pop-art): Rainbow print dog poop bag holder with pop art design. For leash attachment. Bold, fashion-forward style for daily dog walks. Bags not included. Shop Love Dug.
-  Updated: 2026-08-29T00:11:20Z
+  Updated: 2026-10-07T15:46:36Z
   Vendor: love dug
   Product Type: Leash-Attachable Dog Poop Kit "Pop Art"
   Availability: Available
@@ -443,7 +387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/GreyVIP.jpg?v=1784799771
     Price: $15.00 USD
 - [Love Dug | Cozy Cable Knit Leg Warmers "Classics"](https://lovedug.com/products/cozy-cable-knit-leg-warmers-classics): Classic knit leg warmers in acrylic and cotton. 42 cm and three colors (white, black, gray). Tall tube, warm, breathable. Shop Love Dug.
-  Updated: 2026-08-29T00:11:20Z
+  Updated: 2026-10-07T15:46:24Z
   Vendor: love dug
   Product Type: Cozy Cable Knit Leg Warmers "Classics"
   Availability: Available
@@ -461,7 +405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black-42cm_3b4252a8-cffc-4cc0-b323-31cae634462f.jpg?v=1783506601
     Price: $16.00 USD
 - [Love Dug | Furry Touchscreen Women's Gloves – Plush & Warm](https://lovedug.com/products/furry-touchscreen-womens-gloves): Furry touchscreen winter gloves for women with fleece lining, plush decoration, and windproof design. Cold-resistant, stylish. Shop Love Dug.
-  Updated: 2026-08-29T00:11:20Z
+  Updated: 2026-10-07T15:46:14Z
   Vendor: love dug
   Product Type: Furry Touchscreen Women's Gloves
   Availability: Available
@@ -483,21 +427,21 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Jiaotangse.jpg?v=1783505787
     Price: $22.00 USD
 - [Love Dug | 10 Colors DIY Semi-Permanent Gel Nail Kit](https://lovedug.com/products/10-colors-diy-semi-permanent-gel-nail-kit): 10-color gel nail kit with UV/LED lamp, electric nail drill, poly extension gel, base and top coat. Soak-off formula, CE . Shop Love Dug.
-  Updated: 2026-08-29T00:11:21Z
+  Updated: 2026-10-07T15:43:52Z
   Vendor: love dug
   Product Type: 10 Colors DIY Semi-Permanent Gel Nail Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/10_Colours.jpg?v=1783505399
   Price: $101.00 USD
 - [Love Dug | 32 Colors DIY Semi-Permanent Gel Nail Kit](https://lovedug.com/products/32-colors-diy-semi-permanent-gel-nail-kit): 32-color gel nail polish kit with UV/LED lamp, matte, glossy, and glitter top coats, nail stickers, gems, and 18 tools. 55 pieces total. Shop Love Dug.
-  Updated: 2026-08-29T00:11:21Z
+  Updated: 2026-10-07T15:43:40Z
   Vendor: love dug
   Product Type: 32 Colors DIY Semi-Permanent Gel Nail Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/32_colours.jpg?v=1783504997
   Price: $119.00 USD
 - [Love Dug | Non-Stick Mini Waffle Maker & Griddle Set – 4-Inch](https://lovedug.com/products/non-stick-mini-waffle-maker): Non-stick mini waffle maker and griddle set with 4-inch nonstick plates, even heating, and quick heat-up. PFAS free, recipe guide included. Shop Love Dug.
-  Updated: 2026-09-26T12:23:42Z
+  Updated: 2026-10-13T04:14:53Z
   Vendor: love dug
   Product Type: Festive Non-Stick Mini Waffle Maker
   Availability: Available
@@ -516,9 +460,9 @@
   - [Black 2 Pack](https://lovedug.com/products/non-stick-mini-waffle-maker?variant=45569836122166)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_9893e898-77e5-4934-994c-a4a90af01994.jpg?v=1783504291
-    Price: $479.00 USD
+    Price: $90.00 USD
 - [Love Dug | Resistance Workout & Stretch Bands](https://lovedug.com/products/resistance-workout-stretch-bands): Silicone resistance bands with 5 color-coded levels (10–40 lb). For squats, bridges, pilates, yoga. Includes carry bag. Unisex. Shop Love Dug.
-  Updated: 2026-09-04T08:48:09Z
+  Updated: 2026-10-10T05:38:16Z
   Vendor: love dug
   Product Type: Resistance Workout & Stretch Bands
   Availability: Available
@@ -534,7 +478,7 @@
   - [20LB](https://lovedug.com/products/resistance-workout-stretch-bands?variant=45569837072438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Purple_Pink_c6ae6d48-0c5b-4545-8b5e-a32c912da9e6.jpg?v=1783438793
-    Price: $12.00 USD
+    Price: $13.00 USD
   - [30LB](https://lovedug.com/products/resistance-workout-stretch-bands?variant=45569837039670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Fuchsia.jpg?v=1783438808
@@ -544,7 +488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Grape_Purple_b56ac1ac-cfa5-47a5-ae1c-583b629f8f73.jpg?v=1783438824
     Price: $15.00 USD
 - [Love Dug | Premium Replacement Handbag Straps](https://lovedug.com/products/premium-replacement-handbag-straps): Adjustable PU leather replacement bag strap, 120 cm long, 1.2 cm wide. Works with crossbody bags, shoulder bags, and totes. Multicolor options. Shop Love Dug.
-  Updated: 2026-09-18T07:30:38Z
+  Updated: 2026-10-07T15:42:33Z
   Vendor: love dug
   Product Type: Premium Replacement Handbag Straps
   Availability: Available
@@ -586,7 +530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Purple_30cb3f89-09fe-4676-ab11-8f8e5da494f3.jpg?v=1786460163
     Price: $6.00 USD
 - [Love Dug | Christmas Fluffy Reindeer House Slippers](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers): Fluffy Christmas reindeer slippers with flannel upper, plush insole, PVC outsole, and festive animal print design. Indoor use. Runs small, size up. Shop Love Dug.
-  Updated: 2026-08-29T00:11:22Z
+  Updated: 2026-10-11T15:33:52Z
   Vendor: love dug
   Product Type: Christmas Fluffy Reindeer House Slippers
   Availability: Available
@@ -594,45 +538,45 @@
   - [Gingerbread / 38-39 (24-24.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812742710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Chocolate.jpg?v=1783437318
-    Price: $32.00 USD
+    Price: $35.00 USD
   - [Reindeer / 44-45 (27-27.5cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812775478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Dark_Green.jpg?v=1783437336
-    Price: $35.00 USD
+    Price: $37.00 USD
   - [Gingerbread / 42-43 (26-26.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812808246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Chocolate.jpg?v=1783437318
-    Price: $36.00 USD
+    Price: $38.00 USD
   - [Gingerbread / 44-45 (27-27.5cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812841014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Chocolate.jpg?v=1783437318
-    Price: $36.00 USD
+    Price: $38.00 USD
   - [Reindeer / 40-41 (25-25.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812873782)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Dark_Green.jpg?v=1783437336
-    Price: $33.00 USD
+    Price: $36.00 USD
   - [Reindeer / 42-43 (26-26.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812906550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Dark_Green.jpg?v=1783437336
-    Price: $34.00 USD
+    Price: $36.00 USD
   - [Gingerbread / 40-41 (25-25.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812939318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Chocolate.jpg?v=1783437318
-    Price: $33.00 USD
+    Price: $36.00 USD
   - [Reindeer / 36-37 (23-23.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684812972086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Dark_Green.jpg?v=1783437336
-    Price: $32.00 USD
+    Price: $35.00 USD
   - [Reindeer / 38-39 (24-24.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684813004854)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Dark_Green.jpg?v=1783437336
-    Price: $32.00 USD
+    Price: $35.00 USD
   - [Gingerbread / 36-37 (23-23.5 cm)](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers?variant=45684813037622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Chocolate.jpg?v=1783437318
-    Price: $33.00 USD
+    Price: $36.00 USD
 - [Love Dug | Women's Western Mid-Calf Embroidered Cowboy Boots](https://lovedug.com/products/womens-western-mid-calf-embroidered-cowboy-boots): Embroidered western cowboy boots for women with pointed toe, square heel, nubuck upper, microfiber lining, and side zipper. True to size. Shop Love Dug.
-  Updated: 2026-08-29T00:11:23Z
+  Updated: 2026-10-07T15:42:02Z
   Vendor: love dug
   Product Type: Women's Western Mid-Calf Embroidered Cowboy Boots
   Availability: Available
@@ -734,7 +678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Embroidered_Dark_Brown_82c6e4d9-2f49-4b32-a0c8-95170a8d7934.jpg?v=1783430393
     Price: $116.00 USD
 - [Love Dug | Silicone Wedding Rings "Love Bands"](https://lovedug.com/products/silicone-wedding-rings-love-bands): Hypoallergenic silicone wedding rings. Flexible, lightweight, 4 mm wide. Perfect for sports, workouts, and daily wear. Shop Love Dug.
-  Updated: 2026-08-29T00:11:23Z
+  Updated: 2026-10-07T15:41:53Z
   Vendor: love dug
   Product Type: Silicone Wedding Rings "Love Bands"
   Availability: Available
@@ -929,7 +873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Pink_2d980a49-d43e-4ce2-8dd2-b06c92a928a6.jpg?v=1783428289
     Price: $16.00 USD
 - [Love Dug | Leash-Attachable Dog Poop Kit – Neighborhood-Friendly](https://lovedug.com/products/leash-attachable-dog-poop-kit): Clip-on polyester dog poop bag dispenser with zippered pouch, carabiner clip, and hook & loop leash straps. Lightweight, neighborhood-friendly. 4 colors. Shop Love Dug.
-  Updated: 2026-08-29T00:11:23Z
+  Updated: 2026-10-07T15:41:43Z
   Vendor: love dug
   Product Type: Leash-Attachable Dog Poop Kit "Pop Art"
   Availability: Available
@@ -951,7 +895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Blue.jpg?v=1783424848
     Price: $18.00 USD
 - [Love Dug | Mini Handheld Travel Iron](https://lovedug.com/products/mini-handheld-travel-iron): Mini handheld travel iron with 360° ironing, dry and wet modes, 30-second heat-up, and USB power. Aluminum soleplate, 32 W. Fits in any bag. Shop Love Dug.
-  Updated: 2026-08-29T00:11:24Z
+  Updated: 2026-10-07T15:41:18Z
   Vendor: love dug
   Product Type: Mini Handheld Travel Iron
   Availability: Available
@@ -965,7 +909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_12fe8a40-6e91-4a0c-8f74-7886ea1fa370.jpg?v=1783260494
     Price: $84.00 USD
 - [Love Dug | Portable Travel Laundry Washing Machine – Cordless](https://lovedug.com/products/portable-travel-laundry-washing-machine): Cordless mini washing machine with 4000mAh battery. Up to 20 washes per charge, 1-liter capacity, one-button use for delicates. Shop Love Dug.
-  Updated: 2026-09-01T15:24:39Z
+  Updated: 2026-10-07T15:41:06Z
   Vendor: love dug
   Product Type: Portable Travel Laundry Washing Machine
   Availability: Available
@@ -979,7 +923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White.jpg?v=1783259542
     Price: $75.00 USD
 - [Love Dug | Thermal Touchscreen Men's Gloves – Waterproof Warm](https://lovedug.com/products/thermal-touchscreen-mens-gloves): Waterproof, windproof thermal touchscreen men's gloves with fleece lining. Fleece + cotton + polyester. For running, hiking, skiing. Black and Gray. Shop Love Dug.
-  Updated: 2026-08-29T00:11:24Z
+  Updated: 2026-10-07T15:40:52Z
   Vendor: love dug
   Product Type: Thermal Touchscreen Men's Gloves
   Availability: Available
@@ -1017,14 +961,14 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_e24b8c7d-460f-4361-836f-3d12d861840c.jpg?v=1784797407
     Price: $28.00 USD
 - [Love Dug | Deep Tissue Neck Massage Pillow](https://lovedug.com/products/deep-tissue-neck-massage-pillow): Neck massage pillow with heated hot compress, vibration, and stretch traction. Air cotton memory core, ergonomic design, 3 heat + 3 vibration levels. CE . Shop Love Dug.
-  Updated: 2026-08-29T00:11:25Z
+  Updated: 2026-10-07T15:40:41Z
   Vendor: love dug
   Product Type: Deep Tissue Neck Massage Pillow
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/NeckMassager.jpg?v=1784798784
   Price: $118.00 USD
 - [Love Dug | Aesthetic Scented Dried Flower – Real Preserved Botanicals](https://lovedug.com/products/aesthetic-scented-dried-flowers): Natural dried flowers arranged and made from real preserved botanicals including hydrangea. For drawers, closets, shelves, and gifting. Colors vary naturally. Shop Love Dug.
-  Updated: 2026-08-29T00:11:25Z
+  Updated: 2026-10-07T15:38:59Z
   Vendor: love dug
   Product Type: Scented Dried Flower Pouches
   Availability: Available
@@ -1054,7 +998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/M-34_a56e2b8d-b174-42bb-ba34-9d8c021659dc.jpg?v=1786436388
     Price: $33.00 USD
 - [Love Dug | Women's Western Mid-Calf Retro Cowboy Boots](https://lovedug.com/products/womens-western-mid-calf-retro-cowboy-boots): Retro slip-on western cowboy boots for women. Pointed toe, square heel, PU leather, microfiber lining, rubber outsole, rivet detail. True to size. Shop Love Dug.
-  Updated: 2026-09-24T18:05:54Z
+  Updated: 2026-10-07T15:38:47Z
   Vendor: love dug
   Product Type: Women's Western Mid-Calf Retro Cowboy Boots
   Availability: Available
@@ -1180,7 +1124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Retro_Black_3147787e-3361-4a89-b9a3-83ebb26b8bed.jpg?v=1786634704
     Price: $119.00 USD
 - [Love Dug | Warm Fur-Lined Winter Boots – Cozy Ankle, Slip-On](https://lovedug.com/products/warm-fur-lined-winter-boots): Warm fur-lined winter ankle boots for women. Flannel upper, soft lined interior, flat heel, rubber outsole, slip-on design. True to size. Shop Love Dug.
-  Updated: 2026-09-04T23:24:38Z
+  Updated: 2026-10-07T15:38:35Z
   Vendor: love dug
   Product Type: Warm Fur-Lined Winter Boots
   Availability: Available
@@ -1258,7 +1202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Brown_af4e6e7d-8cd5-4c64-b407-e3ce75b2475e.jpg?v=1786636625
     Price: $80.00 USD
 - [Love Dug | Soft Laundry Bags for Shoes – Mesh Shoe Wash Bag](https://lovedug.com/products/soft-laundry-bags-for-shoes): Protect your sneakers in the wash with these soft mesh shoe laundry bags. Zippered, breathable polyester doubles as a storage pouch. Shop shoe wash bags at Love Dug.
-  Updated: 2026-08-29T00:11:26Z
+  Updated: 2026-10-07T15:38:23Z
   Vendor: love dug
   Product Type: Soft Laundry Bags for Shoes
   Availability: Available
@@ -1284,7 +1228,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Yellow_1_eaf0989e-607b-4b77-8eb6-72503405f6da.jpg?v=1786609727
     Price: $27.00 USD
 - [Love Dug | Festive Dog & Cat Holiday Costumes – Hat & Bib Set](https://lovedug.com/products/festive-dog-cat-holiday-costumes): Festive Christmas costume set for dogs and cats. Soft polyester-cotton hat and bandana bib for pets up to 15 kg. Shop pet holiday costumes at Love Dug.
-  Updated: 2026-09-26T01:29:52Z
+  Updated: 2026-10-15T04:17:55Z
   Vendor: love dug
   Product Type: Festive Dog & Cat Holiday Costumes
   Availability: Available
@@ -1322,7 +1266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/RedBib.jpg?v=1786611868
     Price: $25.00 USD
 - [Love Dug | 12-Piece Silicone Kitchen Set – Wooden Handles + Holder](https://lovedug.com/products/food-grade-silicone-kitchen-set): 12-piece silicone kitchen utensil set with wooden handles and storage holder. Heat resistant, nonstick safe, compact design. Eco-friendly materials. Shop Love Dug.
-  Updated: 2026-08-29T00:11:26Z
+  Updated: 2026-10-07T15:37:56Z
   Vendor: love dug
   Product Type: Food-Grade Silicone Kitchen Set
   Availability: Available
@@ -1356,7 +1300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Green_a90d6506-26e6-4fb9-af69-e1099b116e50.png?v=1786627544
     Price: $67.00 USD
 - [Love Dug | Fleece Touchscreen Women's Gloves – Warm Lined](https://lovedug.com/products/fleece-touchscreen-womens-gloves): Warm cotton winter gloves for women with velvet fleece lining and touchscreen-compatible fingertips. Thickened design for cold weather. Shop Love Dug.
-  Updated: 2026-08-29T00:11:27Z
+  Updated: 2026-10-07T15:37:45Z
   Vendor: love dug
   Product Type: Fleece Touchscreen Women's Gloves
   Availability: Available
@@ -1382,7 +1326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Khaki_692bf1d4-7a19-40ee-bffd-7fa54b6c6ff9.jpg?v=1786616622
     Price: $22.00 USD
 - [Love Dug | Salon-Perfect Press-On Nails](https://lovedug.com/products/salon-perfect-press-on-nails): 24-piece salon press-on nails in short almond shape. Lightweight ABS, multiple designs available. Easy application, gentle removal. Shop Love Dug.
-  Updated: 2026-09-24T18:05:45Z
+  Updated: 2026-10-07T15:37:38Z
   Vendor: love dug
   Product Type: Salon-Perfect Press-On Nails
   Availability: Available
@@ -1424,7 +1368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/WY224.png?v=1786629547
     Price: $25.00 USD
 - [Love Dug | "Carbage" Can with Lid – Mini Car Trash Bin](https://lovedug.com/products/carbage-can-with-lid): Compact car trash can with press-open lid and auto-rebound closure. Waterproof plastic, supports liner bags. Black, Pink, White. Shop Love Dug.
-  Updated: 2026-09-17T08:32:01Z
+  Updated: 2026-10-07T15:37:13Z
   Vendor: love dug
   Product Type: "Carbage" Can with Lid
   Availability: Available
@@ -1432,7 +1376,7 @@
   - [Pink](https://lovedug.com/products/carbage-can-with-lid?variant=47229937057846)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Pink_01178703-432f-4782-b747-3c4d4bd2e4e6.jpg?v=1786637852
-    Price: $26.00 USD
+    Price: $25.00 USD
   - [Black](https://lovedug.com/products/carbage-can-with-lid?variant=47229937123382)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_039c2de0-b980-459c-89f2-1c466336d580.jpg?v=1786637852
@@ -1445,7 +1389,7 @@
     Availability: Available
     Price: $13.00 USD
 - [Love Dug | Compact 2-in-1 Travel Iron & Steamer](https://lovedug.com/products/compact-2-in-1-travel-iron-steamer): Compact 2-in-1 travel iron and steamer with 180° rotation, 170°C max temp, 30-second heat-up, and 110–240V worldwide voltage. 50 ml tank. Shop Love Dug.
-  Updated: 2026-09-04T19:53:26Z
+  Updated: 2026-10-07T15:35:50Z
   Vendor: love dug
   Product Type: Compact 2-in-1 Travel Iron & Steamer
   Availability: Available
@@ -1490,28 +1434,28 @@
 ## Collections
 
 - [Shop All](https://lovedug.com/collections/shop-all): Browse the complete Love Dug catalog. From trending kitchen gadgets, cozy home decor, to trending fashion and smart travel solutions, find everything you need in one place.
-  Updated: 2026-09-26T19:35:19Z
+  Updated: 2026-10-15T07:44:59Z
   Total Products: 45
 - [New Arrivals](https://lovedug.com/collections/shop-new): Be the first to shop our newest arrivals. Discover the latest drop of smart gadgets, seasonal fashion items, home upgrades, and more.
-  Updated: 2026-09-22T00:06:00Z
+  Updated: 2026-10-15T07:44:59Z
   Total Products: 5
 - [Seasonal Favorites & Holiday Gear](https://lovedug.com/collections/shop-seasonal): Get ready for winter with our curated holiday picks. Shop festive decor, warm winter wear, and seasonal gifts.
-  Updated: 2026-09-26T19:35:19Z
+  Updated: 2026-10-15T07:44:59Z
   Total Products: 12
 - [Trending](https://lovedug.com/collections/shop-trending): Shop the products everyone is talking about. Discover our best- viral hits, from smart cleaning tools to innovative beauty hacks.
-  Updated: 2026-09-26T19:35:19Z
+  Updated: 2026-10-09T13:04:21Z
   Total Products: 5
 - [Home & Kitchen](https://lovedug.com/collections/home-kitchen): Upgrade your home with our top-rated kitchen tools. Shop the must-have pizza makers, smart lightings, and organization hacks.
-  Updated: 2026-09-26T19:35:19Z
+  Updated: 2026-10-09T13:04:21Z
   Total Products: 17
 - [Fashion & Beauty](https://lovedug.com/collections/fashion-beauty): Elevate your style with our fashion and beauty collection. Shop DIY nail kits, cozy winter boots, and handy travel organizers.
-  Updated: 2026-09-24T06:05:47Z
+  Updated: 2026-10-11T15:33:53Z
   Total Products: 17
 - [Fitness & Recovery](https://lovedug.com/collections/fitness-recovery): Achieve your fitness and wellness goals. Shop resistance bands, safety lights for runners, and deep tissue massage pillows for post-workout recovery.
-  Updated: 2026-09-18T07:30:29Z
+  Updated: 2026-10-10T05:38:03Z
   Total Products: 4
 - [Travel & Auto](https://lovedug.com/collections/travel-auto): Travel smarter with our auto and travel collection. Shop portable washing machines, car organizers, and travel irons for your next trip.
-  Updated: 2026-09-14T23:29:47Z
+  Updated: 2026-10-15T07:44:59Z
   Total Products: 7
 - [Holiday Gifts](https://lovedug.com/collections/gift-guide-holiday-gifts): Celebrate the holidays with unique gifts. Shop festive Christmas trees, holiday costumes for pets, and cozy seasonal presents.
   Updated: 2026-08-02T13:35:32Z
@@ -1520,19 +1464,19 @@
   Updated: 2026-09-24T06:05:47Z
   Total Products: 5
 - [Gifts For Him](https://lovedug.com/collections/gift-guide-gifts-for-him): Shop the best gifts for men. Discover car gadgets, tech accessories, and grooming tools that he will actually use and love.
-  Updated: 2026-09-26T19:35:19Z
+  Updated: 2026-10-09T13:04:21Z
   Total Products: 4
 - [Gifts Under $100](https://lovedug.com/collections/gift-guide-gifts-under-100): Shop impressive gifts without breaking the bank. Discover high-quality home goods, beauty kits, and tech gadgets all under $100.
-  Updated: 2026-09-26T12:23:34Z
+  Updated: 2026-10-08T13:25:30Z
   Total Products: 4
 - [Gifts Under $50](https://lovedug.com/collections/gift-guide-gifts-under-50): Find thoughtful gifts for any budget. Shop kitchen hacks, cozy winter wear, and fun accessories for under $50.
   Updated: 2026-08-13T17:42:59Z
   Total Products: 3
 - [Gifts Under $30](https://lovedug.com/collections/gift-guide-gifts-under-30): Shop the best small but meaninful gifts. Discover useful gadgets, cute accessories, and travel essentials, all for under $30.
-  Updated: 2026-09-24T06:05:35Z
+  Updated: 2026-10-05T16:13:06Z
   Total Products: 4
 - [The Ultimate Gift Guide](https://lovedug.com/collections/gift-guide): Find the perfect gift for any occasion. Explore our curated gift guides for him, her, holidays, and budget-friendly finds under $30, $50, and $100.
-  Updated: 2026-09-26T12:23:34Z
+  Updated: 2026-10-08T13:25:30Z
   Total Products: 13
 - [Digital Goods VAT Tax](https://lovedug.com/collections/digital-goods-vat-tax)
   Updated: 2026-07-27T12:09:30Z
@@ -1540,11 +1484,31 @@
 
 ## Blogs
 
-- [All Journals](https://lovedug.com/blogs/all): Browse the Love Dug journals for tips, how-tos, and lifestyle guides across home, beauty, fitness, and travel. New articles added weekly.
+- [Love Dug Journals](https://lovedug.com/blogs/all): Browse the Love Dug journals for tips, how-tos, and lifestyle guides across home, beauty, fitness, and travel. New articles added weekly.
   - [Love Dug | A Curated Guide to Modern Lifestyle Essentials](https://lovedug.com/blogs/all/modern-lifestyle-essentials): Love Dug | A Curated Guide to Modern Lifestyle Essentials
-    Updated: 2026-09-24T06:15:09Z
-    Author: love dug editorial
+    Updated: 2026-10-05T09:33:54Z
+    Author: Love Dug Editorial Team
     Tags: The Love Dug Edit
+  - [Love Dug | Home & Kitchen Essentials: A Practical Guide](https://lovedug.com/blogs/all/home-kitchen): Love Dug | Home & Kitchen Essentials: A Practical Guide
+    Updated: 2026-10-08T09:21:54Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | Fashion & Beauty Essentials: Fit and Care](https://lovedug.com/blogs/all/fashion-beauty): Love Dug | Fashion & Beauty Essentials: Fit and Care
+    Updated: 2026-10-08T08:43:08Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | Fitness & Recovery Essentials: A Practical Guide](https://lovedug.com/blogs/all/fitness-recovery): Love Dug | Fitness & Recovery Essentials: A Practical Guide
+    Updated: 2026-10-08T09:25:34Z
+    Author: Love Dug Editorial Team
+    Tags: Fitness & Recovery
+  - [Love Dug | Travel & Auto Essentials: A Practical Guide](https://lovedug.com/blogs/all/travel-auto): Love Dug | Travel & Auto Essentials: A Practical Guide
+    Updated: 2026-10-08T09:30:45Z
+    Author: Love Dug Editorial Team
+    Tags: Travel & Auto
+  - [Love Dug | Thoughtful Gift Ideas: A Practical Guide](https://lovedug.com/blogs/all/gift-guide): Love Dug | Thoughtful Gift Ideas: A Practical Guide
+    Updated: 2026-10-08T09:34:33Z
+    Author: Love Dug Editorial Team
+    Tags: Gift Guide
 
 ## Store Pages
 
