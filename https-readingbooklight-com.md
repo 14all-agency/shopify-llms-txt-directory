@@ -6,12 +6,12 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-10-07T00:00:38.208Z
+- Updated At: 2026-10-16T00:00:40.103Z
 
 ## Products
 
 - [Acrylic Book Night Light | 3 Color Reading Lamp](https://readingbooklight.com/products/acrylic-flat-book-night-light): Shop an acrylic book night light with 3 color temperatures, stepless dimming and USB charging. A stylish adjustable reading lamp for bedrooms and bedside tables
-  Updated: 2026-09-18T05:38:20Z
+  Updated: 2026-10-12T14:23:23Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-10.jpg?v=1786955114
     Price: $29.99 USD
 - [Mini Book Light – Clip-On Reading Light | USB Rechargeable](https://readingbooklight.com/products/mini-book-light-portable-clip-on-reading-light): Mini book light with USB charging, 3 dimmable levels & 360° flip design. Perfect clip-on reading light for bed, travel & camping. Eye-friendly LED.
-  Updated: 2026-09-18T05:38:16Z
+  Updated: 2026-10-12T14:23:26Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -43,7 +43,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/white-mini-book-light-product-only.png?v=1787804298
     Price: $17.99 USD
 - [Rechargeable Neck Light – Hands-Free LED Reading Lamp](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp): Rechargeable neck reading light with 3 modes & flexible arms. Hands-free LED book light for bed, travel & study. USB rechargeable, lightweight & portable.
-  Updated: 2026-09-18T05:38:16Z
+  Updated: 2026-10-12T14:23:26Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01ckawVw1Pgy9yrJGku__2219167721871-0-cib_1.jpg?v=1788166770
     Price: $24.99 USD
 - [Rechargeable Clip-On Book Light – 3 Colors & Dimmable LED](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led): Rechargeable clip-on book light with 3 color temperatures, dimmable LED & foldable hose. Eye-friendly reading light for bed, study & travel.
-  Updated: 2026-09-18T05:38:15Z
+  Updated: 2026-10-12T14:23:26Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -78,10 +78,10 @@
 ## Collections
 
 - [Book Reading Lights & Bedside Lamps](https://readingbooklight.com/collections/frontpage): Shop book reading lights with 3 color temperatures, stepless dimming & USB charging. Perfect for bedside, desk & reading corners.
-  Updated: 2026-09-08T14:13:21Z
+  Updated: 2026-10-10T11:18:17Z
   Total Products: 4
 - [Book Reading Lights](https://readingbooklight.com/collections/book-reading-lights): Shop book reading lights for comfortable, focused bedtime reading. Find compact options for books, e-readers, travel, and everyday reading at ReadingBookLight.
-  Updated: 2026-09-08T14:10:27Z
+  Updated: 2026-10-10T11:18:17Z
   Total Products: 4
 - [Bedside Lamps](https://readingbooklight.com/collections/bedside-lamps): Shop bedside lamps for comfortable reading, relaxing, and nighttime routines. Find compact bedroom lighting at ReadingBookLight.
   Updated: 2026-09-08T11:07:11Z
@@ -162,6 +162,14 @@
     Updated: 2026-10-02T00:00:02Z
     Author: ReadingBookLight Admin
     Tags: bedtime reading, book light for kids, clip-on book light, kids reading, reading light for children, warm light reading
+  - [Portable Reading Light for Travel: What to Pack](https://readingbooklight.com/blogs/reading-light-guide/portable-reading-light-for-travel-what-to-pack): Portable Reading Light for Travel: What to Pack
+    Updated: 2026-10-09T00:00:01Z
+    Author: ReadingBookLight Admin
+    Tags: book light for travel, clip-on book light, portable reading light, reading on the go, travel reading light
+  - [Best Reading Light for Glasses Wearers](https://readingbooklight.com/blogs/reading-light-guide/best-reading-light-for-glasses-wearers): Best Reading Light for Glasses Wearers
+    Updated: 2026-10-16T00:00:04Z
+    Author: ReadingBookLight Admin
+    Tags: book light, glare free reading light, glasses reading light, reading at night, reading light for glasses
 
 ## Store Pages
 
@@ -177,7 +185,7 @@
 - [Privacy Policy](https://readingbooklight.com/policies/privacy-policy)
   Updated: 2026-08-19T15:24:29+07:00
 - [Shipping Policy](https://readingbooklight.com/policies/shipping-policy)
-  Updated: 2026-09-03T15:59:45+07:00
+  Updated: 2026-10-10T16:44:25+07:00
 - [Refund Policy](https://readingbooklight.com/policies/refund-policy)
   Updated: 2026-08-29T12:45:48+07:00
 - [Terms of Service](https://readingbooklight.com/policies/terms-of-service)
