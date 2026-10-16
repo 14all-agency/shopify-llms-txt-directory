@@ -6,54 +6,54 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-07-24T16:43:16Z
 - Contact Email: cozyandstylish@outlook.com
-- Updated At: 2026-10-08T14:22:54.486Z
+- Updated At: 2026-10-16T00:00:26.255Z
 
 ## Products
 
 - [Elegant Chinese Crested Mug - Perfect for Pet Lovers](https://cozyandstylish.myshopify.com/products/black-chinese-crested-striped-backgrund-mug): Enjoy your beverages with our Elegant Chinese Crested Mug. Celebrate your love for pets with every sip - make it a must-have in your collection!
-  Updated: 2026-10-08T11:41:28Z
+  Updated: 2026-10-08T22:08:25Z
   Vendor: Cozy and Stylish
   Product Type: mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-right-6ab1475a327a9.jpg?v=1791408985
   Price: 130,00 kr NOK
 - [White Chinese Crested Mug - Elevate Your Beverage Experience](https://cozyandstylish.myshopify.com/products/white-chinese-crested-striped-background-mug): Start your day right with the White Chinese Crested Mug. Add personality to your drinkware - it's the perfect companion for your favorite beverages!
-  Updated: 2026-10-08T11:41:29Z
+  Updated: 2026-10-08T22:10:25Z
   Vendor: Cozy and Stylish
   Product Type: mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab14802bf32c.jpg?v=1791409003
   Price: 130,00 kr NOK
 - [Darling Dalmatian Mug - Your Stylish Sip Companion](https://cozyandstylish.myshopify.com/products/dalmatian-striped-background-glossy-mug): Elevate your coffee ritual with the Darling Dalmatian Mug. Enjoy every sip and add a delightful flair to your drinkware - grab yours today!
-  Updated: 2026-10-08T11:41:29Z
+  Updated: 2026-10-08T22:11:17Z
   Vendor: Cozy and Stylish
   Product Type: mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab148a516de0.jpg?v=1791409053
   Price: 130,00 kr NOK
 - [Charming Golden Retriever Mug - Brighten Your Day](https://cozyandstylish.myshopify.com/products/golden-retriever-striped-background-mug): Start your mornings with the Charming Golden Retriever Mug. Enjoy your favorite beverage while celebrating the joy of pets - order now!
-  Updated: 2026-10-08T11:41:30Z
+  Updated: 2026-10-08T22:12:44Z
   Vendor: Cozy and Stylish
   Product Type: mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab1a5dc9525e.jpg?v=1791409105
   Price: 130,00 kr NOK
 - [Shiba Inu Coffee Mug - Sip Stylishly with Whimsy](https://cozyandstylish.myshopify.com/products/shiba-inu-striped-background-mug): Elevate your coffee experience with the Shiba Inu Coffee Mug. Enjoy your drinks with a touch of whimsy - perfect for any dog lover!
-  Updated: 2026-10-08T11:41:31Z
+  Updated: 2026-10-08T22:14:01Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab1a6b0234a2.jpg?v=1791409144
   Price: 130,00 kr NOK
 - [Dog Lover Coffee Mug - Cuddles & Brew Every Morning](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-mug): Brighten your mornings with the Dog Lover Coffee Mug. Enjoy your coffee while embracing cuddles from your furry friend - it's a must-have!
-  Updated: 2026-10-08T11:41:31Z
+  Updated: 2026-10-08T22:15:15Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab24daedfbdb.jpg?v=1791409181
   Price: 119,90 kr NOK
 - [Coffee and Dog Lover T-Shirt - Blend of Comfort & Style](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt): Discover the perfect Coffee and Dog Lover T-Shirt! Show your passion for coffee and dogs while staying comfy - make it part of your wardrobe!
-  Updated: 2026-10-08T11:41:32Z
+  Updated: 2026-10-08T22:16:33Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -219,14 +219,14 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab24e8a3bf95.jpg?v=1791409273
     Price: 213,40 kr NOK
 - [Crazy Cat Lady Mug - Embrace Your Feline Passion](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-mug): Start your day with the Crazy Cat Lady Mug. Enjoy your favorite drinks in style and celebrate your love for cats - it's a delightful choice!
-  Updated: 2026-10-08T11:41:33Z
+  Updated: 2026-10-08T22:17:41Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab251ffd3b83.jpg?v=1791409383
   Price: 119,90 kr NOK
 - [Crazy Cat Lady V-Neck T-Shirt - Stylish Cat Lover Comfort](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt): Step out in the Crazy Cat Lady V-neck T-shirt. Celebrate your love for cats while staying cozy and stylish - perfect for any casual occasion!
-  Updated: 2026-10-08T11:41:34Z
+  Updated: 2026-10-08T22:18:52Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -392,7 +392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab25286591e4.jpg?v=1791409478
     Price: 185,90 kr NOK
 - [Stylish Cat Lady Laptop Sleeve - Protect with Charm](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-laptop-sleeve): Meet the Stylish Cat Lady Laptop Sleeve. Protect your gear with personality and charm, making your tech look purrfect - add it to your collection!
-  Updated: 2026-10-08T11:41:34Z
+  Updated: 2026-10-08T22:26:18Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -406,14 +406,14 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/laptop-sleeve-15-front-6ab27344344d4.jpg?v=1791409590
     Price: 225,50 kr NOK
 - [Cat Mum Mug: Delight in Every Sip with Charm](https://cozyandstylish.myshopify.com/products/cat-mum-mug): Start your day with a warm beverage in our Cat Mum mug. Perfect for cat lovers, it adds joy to your routine. Sip and smile with every cup!
-  Updated: 2026-10-08T11:41:35Z
+  Updated: 2026-10-08T22:27:43Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab27eaff0132.jpg?v=1791409640
   Price: 119,90 kr NOK
 - [Cozy Cat Lover Hoodie: Embrace Comfort in Style](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-hoodie): Wrap yourself in our Cozy Cat Lover Hoodie for ultimate comfort. Perfect for lazy days or walks, it’s a must-have for cat enthusiasts!
-  Updated: 2026-10-08T11:41:36Z
+  Updated: 2026-10-08T22:29:20Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -619,14 +619,14 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/unisex-premium-pullover-hoodie-khaki-front-6ab39e03314c4.jpg?v=1791409739
     Price: 262,90 kr NOK
 - [Dog Mum Coffee Mug: Celebrate Your Love for Dogs](https://cozyandstylish.myshopify.com/products/dog-mum-not-just-a-dog-owner-im-a-dog-mum-mug): Enjoy your favorite brews with our Dog Mum Coffee Mug, designed for dog lovers. Sip in style and show your canine love every day!
-  Updated: 2026-10-08T11:41:37Z
+  Updated: 2026-10-08T22:31:21Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab3ab7db9bc9.jpg?v=1791409783
   Price: 119,90 kr NOK
 - [Dog Mum Sweatshirt: Comfort Meets Furry Love](https://cozyandstylish.myshopify.com/products/dog-mum-not-just-a-dog-owner-im-a-dog-mum-women-s-organic-crew-neck-sweatshirt): Celebrate your furry friend with our Dog Mum sweatshirt. Cozy and stylish, this sweatshirt is perfect for lounging or walks with your pup!
-  Updated: 2026-10-08T11:41:37Z
+  Updated: 2026-10-08T22:32:32Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -752,7 +752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-6ab3ac31d7748.jpg?v=1791409837
     Price: 372,90 kr NOK
 - [Colorful Cat Mug: Brighten Your Coffee Routine](https://cozyandstylish.myshopify.com/products/colorful-cat-mug-with-color-inside): Transform your coffee experience with our Colorful Cat Mug. Brighten your mornings and enjoy every sip while lifting your kitchen's vibe!
-  Updated: 2026-10-08T11:41:38Z
+  Updated: 2026-10-08T22:33:29Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -782,21 +782,21 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-ceramic-mug-with-color-inside-pink-15-oz-left-6ab3caf7eef42.jpg?v=1791409881
     Price: 104,50 kr NOK
 - [Elegant Black Glossy Cat Mug: For Cat Lovers](https://cozyandstylish.myshopify.com/products/beautiful-cat-black-glossy-mug): Indulge in elegance with our Black Glossy Cat Mug. Perfect for enhancing your beverage experience and adding charm to your daily routine!
-  Updated: 2026-10-08T11:41:39Z
+  Updated: 2026-10-08T22:34:39Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/black-glossy-mug-black-15-oz-handle-on-right-6ab3e2235225c.jpg?v=1791410186
   Price: 104,50 kr NOK
 - [Colourful Cat Mug: Start Your Day Cheerfully](https://cozyandstylish.myshopify.com/products/colourful-cat-black-glossy-mug): Cheer up your mornings with our Colourful Cat Mug. Its vibrant design lifts your spirits while you sip your favorite drinks in style!
-  Updated: 2026-10-08T11:41:40Z
+  Updated: 2026-10-08T22:35:53Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/black-glossy-mug-black-15-oz-handle-on-left-6ab3e27bbf49e.jpg?v=1791410199
   Price: 104,50 kr NOK
 - [Colourful Cat Women's Crop Top: Showcase Your Love](https://cozyandstylish.myshopify.com/products/colourful-cat-women-s-crop-top): Show off your quirky style with our Colourful Cat Women's Crop Top. Perfect for casual outings or cozy days, it’s a must-have for cat lovers!
-  Updated: 2026-10-08T11:41:40Z
+  Updated: 2026-10-08T22:38:12Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1002,7 +1002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-crop-top-white-front-6ab3e475e48bb.jpg?v=1791410277
     Price: 152,90 kr NOK
 - [Colorful Cat Sweatshirt: Cozy Comfort for Chilly Days](https://cozyandstylish.myshopify.com/products/colorful-cat-garment-dyed-sweatshirt): Stay warm with our colorful cat sweatshirt. Ideal for lounging or outings, it combines style and comfort, showcasing your love for cats!
-  Updated: 2026-10-08T11:41:41Z
+  Updated: 2026-10-08T22:39:13Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1208,7 +1208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/unisex-garment-dyed-sweatshirt-grey-front-6ab3e513e334d.jpg?v=1791410460
     Price: 335,50 kr NOK
 - [Women's Dog Pajama Pants: Comfort for Cozy Evenings](https://cozyandstylish.myshopify.com/products/dogs-women-s-pajama-pants): Experience comfort with our Women's Dog Pajama Pants. Perfect for relaxing nights at home with your furry friend. Slip into cozy bliss today!
-  Updated: 2026-10-08T13:57:35Z
+  Updated: 2026-10-08T22:40:09Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1238,7 +1238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/all-over-print-womens-pajama-pants-white-product-details-6ab3f315eb606.jpg?v=1791410565
     Price: 324,50 kr NOK
 - [Women's Dog Print Pajama Top for Cozy Nights](https://cozyandstylish.myshopify.com/products/dogs-women-s-short-sleeve-pajama-top): Unwind in style with our soft dog print pajama top. Perfect for relaxation at home. Dress comfortably and beautifully every evening!
-  Updated: 2026-10-08T13:57:34Z
+  Updated: 2026-10-08T22:58:25Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1268,14 +1268,14 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/all-over-print-womens-short-sleeve-pajama-top-white-front-6ab3f49cd27a5.jpg?v=1791410591
     Price: 313,50 kr NOK
 - [Chinese Crested Dog Mug - 20 oz Ceramic Cup](https://cozyandstylish.myshopify.com/products/cute-chinese-crested-dog-mug): Start your day with our adorable Chinese Crested Dog Mug. Enjoy coffee or tea while celebrating your love for this unique breed. Grab yours today!
-  Updated: 2026-10-08T11:41:43Z
+  Updated: 2026-10-08T22:59:52Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-front-view-6ab4f822c0121.jpg?v=1791410616
   Price: 119,90 kr NOK
 - [Cute Chinese Crested Dog Sweatshirt for Everyday Wear](https://cozyandstylish.myshopify.com/products/cute-chinese-crested-dog-sweatshirt): Elevate comfort with our Cute Chinese Crested Dog Sweatshirt. Perfect for casual outings or cozy days at home. Show your love for Ragdolls!
-  Updated: 2026-10-08T11:41:44Z
+  Updated: 2026-10-08T23:01:32Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1481,14 +1481,14 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/unisex-premium-sweatshirt-agave-front-6ab4f8d4bf017.jpg?v=1791410712
     Price: 258,50 kr NOK
 - [Ragdoll Cat Mug - Perfect for Cat Lovers](https://cozyandstylish.myshopify.com/products/cute-ragdoll-cat-mug): Treat yourself to our charming Ragdoll cat mug. Enjoy your favorite beverage with a touch of feline elegance. Start your mornings right!
-  Updated: 2026-10-08T11:41:45Z
+  Updated: 2026-10-08T23:02:25Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab521f526dcf.jpg?v=1791410748
   Price: 119,90 kr NOK
 - [Adorable Ragdoll Pillow for Ultimate Comfort](https://cozyandstylish.myshopify.com/products/cute-ragdoll-pillow): Cuddle with our cute Ragdoll pillow, enhancing your living space with charm and comfort. Perfect for naps or lounging. Make your home cozier!
-  Updated: 2026-10-08T11:41:46Z
+  Updated: 2026-10-08T23:03:23Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1506,7 +1506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/custom-shaped-pillow-22x22-front-6ab52c720d440.jpg?v=1791410806
     Price: 203,50 kr NOK
 - [Stylish Shiba Inu Hoodie for Comfort and Style](https://cozyandstylish.myshopify.com/products/shiba-inu-hoodie): Show your love for Shiba Inus with our stylish hoodie. Ideal for chilly days, stay warm while flaunting your passion for dogs. Shop now!
-  Updated: 2026-10-08T13:57:33Z
+  Updated: 2026-10-08T23:04:50Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1712,7 +1712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/unisex-midweight-hoodie-peach-front-6ab54e0d0d1b1.jpg?v=1791410907
     Price: 361,90 kr NOK
 - [Cozy Knitted Pet Sweater for Warm Snuggles](https://cozyandstylish.myshopify.com/products/knitted-pet-sweater-paw-print): Keep your pet warm and stylish with our knitted sweater. Perfect for walks or lounging, it's a must-have for cozy pet lovers. Order yours today!
-  Updated: 2026-10-08T11:41:48Z
+  Updated: 2026-10-08T23:06:09Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1746,7 +1746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/knitted-pet-sweater-custom-2xl-back-6ab662f05e2fe.jpg?v=1791411083
     Price: 423,50 kr NOK
 - [Christmas Knitted Pet Sweater for Festive Fun](https://cozyandstylish.myshopify.com/products/christmas-knitted-pet-sweater): Dress your pet in festive cheer with our Christmas knitted sweater. Ideal for the holidays, make your furry friend part of the celebrations!
-  Updated: 2026-10-08T11:41:48Z
+  Updated: 2026-10-08T23:06:53Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1780,7 +1780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/knitted-pet-sweater-custom-2xl-back-6ab6643a57f8a.jpg?v=1791411149
     Price: 423,50 kr NOK
 - [Christmas Cat Custom Pillow: Cozy Holiday Comfort for Cat Lovers](https://cozyandstylish.myshopify.com/products/christmas-cat-custom-pillow): Cozy up this holiday season with our Christmas cat custom pillow! Perfect for cat lovers, it brings warmth, joy, and festive charm to your home.
-  Updated: 2026-10-08T11:55:21Z
+  Updated: 2026-10-08T23:55:26Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -1798,35 +1798,35 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/custom-shaped-pillow-22x22-front-6ab6651ac8b29.jpg?v=1791411229
     Price: 203,50 kr NOK
 - [Cat Lover Mug - Adorable Blue Jumpsuit Design for Your Coffee](https://cozyandstylish.myshopify.com/products/cute-cat-lover-mug): Embrace your love for cats with our Stylish Cat Lover Mug. Enjoy 20 oz of whimsy and warmth in every sip. Perfect for home or office!
-  Updated: 2026-10-08T12:02:39Z
+  Updated: 2026-10-09T00:02:44Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab66cb510bba.jpg?v=1791411281
   Price: 119,90 kr NOK
 - [Funny Cat Lady Mug – Embrace Your Feline Obsession Daily!](https://cozyandstylish.myshopify.com/products/funny-cat-lady-mug): Embrace your feline obsession with our Funny Cat Lady Mug! Perfect for cat lovers, this durable ceramic mug adds humor to every sip. Shop now!
-  Updated: 2026-10-08T12:04:10Z
+  Updated: 2026-10-09T00:04:16Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab6772aea64a.jpg?v=1791411332
   Price: 119,90 kr NOK
 - [Pack Leader Dog Mug - Perfect for Dog Lovers' Daily Rituals](https://cozyandstylish.myshopify.com/products/pack-leader-dog-mug): Discover the Pack Leader Dog Mug, a stylish reminder of your love for dogs. Enjoy your favorite drinks with this vibrant, oversized ceramic mug designed for dog lovers!
-  Updated: 2026-10-08T12:06:14Z
+  Updated: 2026-10-09T00:06:23Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-cutting-board-6ab69610a9baa.jpg?v=1791411383
   Price: 119,90 kr NOK
 - [Chinese Crested Lover Mug - Perfect Gift for Dog Lovers!](https://cozyandstylish.myshopify.com/products/chinese-crested-lover-mug): Show off your passion for pets! Our charming Chinese Crested lover mug is perfect for dog lovers, combining style and practicality in every sip.
-  Updated: 2026-10-08T12:08:13Z
+  Updated: 2026-10-09T00:08:18Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab6a0fa150d5.jpg?v=1791411408
   Price: 119,90 kr NOK
 - [Chinese Crested Dog T-Shirt - Vintage Style for Ultimate Comfort](https://cozyandstylish.myshopify.com/products/chinese-crested-dog-t-shirt): Stylishly showcase your love for dogs with our Charming Chinese Crested dog t-shirt. Comfortable fit, vintage charm, and unique style for every occasion!
-  Updated: 2026-10-08T12:09:58Z
+  Updated: 2026-10-09T00:10:04Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2000,28 +2000,28 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/unisex-garment-dyed-creator-2.0-vintage-t-shirt-g.-dyed-stone-front-6ab6a51160d47.jpg?v=1791411495
     Price: 229,90 kr NOK
 - [Chinese Crested Dog Mug - Your Joyful Morning Companion](https://cozyandstylish.myshopify.com/products/chinese-crested-dog-mug): Brighten your mornings with our charming Chinese Crested dog mug! Perfect for dog lovers who enjoy a cozy cup of coffee or tea. Durable, stylish, and microwave safe.
-  Updated: 2026-10-08T12:10:58Z
+  Updated: 2026-10-09T00:11:04Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab7909e1527a.jpg?v=1791411540
   Price: 119,90 kr NOK
 - [Cute Cat Mug Gift - Cherish Every Sip as a Proud Cat Mum](https://cozyandstylish.myshopify.com/products/cute-cat-mug): Celebrate your love for felines with our cute cat mug gift! Perfect for proud cat mums, this charming 20 oz ceramic mug adds joy to your mornings.
-  Updated: 2026-10-08T12:12:53Z
+  Updated: 2026-10-09T00:12:58Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab7965ae5c0e.jpg?v=1791411592
   Price: 119,90 kr NOK
 - [Vibrant Cat Mug: Elevate Your Sips with Joyful Designs!](https://cozyandstylish.myshopify.com/products/vibrant-cat-mug): Brighten your mornings with our vibrant cat mug! Enjoy every sip in style with its colorful design and generous 20 oz capacity. Perfect for cat lovers!
-  Updated: 2026-10-08T12:14:03Z
+  Updated: 2026-10-09T00:14:08Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab7a2d32838c.jpg?v=1791411643
   Price: 119,90 kr NOK
 - [Border Collie Women T-Shirt: Celebrate Life with Your Dog](https://cozyandstylish.myshopify.com/products/border-collie-women-t-shirt): Show your love for your furry friend with our Border Collie women t-shirt. Stylish, comfy, and perfect for any occasion! Grab yours today!
-  Updated: 2026-10-08T12:17:02Z
+  Updated: 2026-10-09T00:17:08Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2227,7 +2227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-white-front-6ab8e15da6c20.jpg?v=1791411774
     Price: 181,50 kr NOK
 - [Chinese Crested Women T-Shirt | Relaxed Everyday Comfort](https://cozyandstylish.myshopify.com/products/chinese-crested-women-t-shirt): Chinese Crested Women T-Shirt lovers can celebrate their favorite breed in everyday comfort. Enjoy a relaxed fit, soft feel, and easy style—perfect for walks or gifting.
-  Updated: 2026-10-08T12:18:48Z
+  Updated: 2026-10-09T00:18:55Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2433,7 +2433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-pink-front-6ab8ea07cd257.jpg?v=1791412073
     Price: 181,50 kr NOK
 - [Shiba Inu Womens T-Shirt – Relaxed Fit for Everyday Comfort](https://cozyandstylish.myshopify.com/products/shiba-inu-womens-t-shirt): Celebrate Your Shiba in Comfort.This Shiba Inu womens t-shirt pairs a relaxed fit with soft cotton for easy everyday wear. A sweet gift for dog lovers.
-  Updated: 2026-10-08T12:20:27Z
+  Updated: 2026-10-09T00:20:33Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2631,7 +2631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-white-front-6ab8ead98d0b8.jpg?v=1791412250
     Price: 192,50 kr NOK
 - [Ragdoll Cat T-Shirt for Women - Cozy & Stylish](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-ragdoll-cat-womens-relaxed-t-shirt): Show your love for Ragdoll cats with this comfy t-shirt. Perfect for relaxing at home or casual outings. Get yours today!
-  Updated: 2026-10-08T11:41:58Z
+  Updated: 2026-10-15T23:49:16Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2789,7 +2789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8ee522ad56.jpg?v=1791412664
     Price: 181,50 kr NOK
   - [Sage / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-ragdoll-cat-womens-relaxed-t-shirt?variant=44926771265587)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8ee522ad56.jpg?v=1791412664
     Price: 181,50 kr NOK
   - [Sage / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-ragdoll-cat-womens-relaxed-t-shirt?variant=44926771298355)
@@ -2836,213 +2836,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-stone-front-6ab8ee522ac66.jpg?v=1791412675
     Price: 181,50 kr NOK
-- [British Shorthair Women's T-Shirt for Ultimate Comfort](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt): Combine style with comfort in our British Shorthair tee. Ideal for cat lovers, it's a must-have for any wardrobe. Order now!
-  Updated: 2026-10-08T11:41:58Z
-  Vendor: Cozy and Stylish
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-  - [Heather Deep Teal / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774280243)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 181,50 kr NOK
-  - [Heather Deep Teal / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774313011)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 181,50 kr NOK
-  - [Heather Deep Teal / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774345779)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 181,50 kr NOK
-  - [Heather Deep Teal / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774378547)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 181,50 kr NOK
-  - [Heather Deep Teal / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774411315)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 192,50 kr NOK
-  - [Heather Deep Teal / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774444083)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-deep-teal-front-6ab8eead788cd.jpg?v=1791412848
-    Price: 192,50 kr NOK
-  - [Heather Red / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774476851)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 181,50 kr NOK
-  - [Heather Red / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774509619)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 181,50 kr NOK
-  - [Heather Red / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774542387)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 181,50 kr NOK
-  - [Heather Red / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774575155)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 181,50 kr NOK
-  - [Heather Red / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774607923)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 192,50 kr NOK
-  - [Heather Red / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774640691)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-red-front-6ab8eead786ff.jpg?v=1791412854
-    Price: 192,50 kr NOK
-  - [Mauve / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774673459)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 181,50 kr NOK
-  - [Mauve / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774706227)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 181,50 kr NOK
-  - [Mauve / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774738995)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 181,50 kr NOK
-  - [Mauve / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774771763)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 181,50 kr NOK
-  - [Mauve / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774804531)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 192,50 kr NOK
-  - [Mauve / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774837299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-mauve-front-6ab8eead7889b.jpg?v=1791412860
-    Price: 192,50 kr NOK
-  - [Heather Mauve / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774870067)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 181,50 kr NOK
-  - [Heather Mauve / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774902835)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 181,50 kr NOK
-  - [Heather Mauve / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774935603)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 181,50 kr NOK
-  - [Heather Mauve / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926774968371)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 181,50 kr NOK
-  - [Heather Mauve / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775001139)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 192,50 kr NOK
-  - [Heather Mauve / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775033907)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-mauve-front-6ab8eead786c9.jpg?v=1791412866
-    Price: 192,50 kr NOK
-  - [Leaf / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775066675)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 181,50 kr NOK
-  - [Leaf / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775099443)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 181,50 kr NOK
-  - [Leaf / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775132211)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 181,50 kr NOK
-  - [Leaf / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775164979)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 181,50 kr NOK
-  - [Leaf / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775197747)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 192,50 kr NOK
-  - [Leaf / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775230515)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-leaf-front-6ab8eead78767.jpg?v=1791412872
-    Price: 192,50 kr NOK
-  - [Heather Blue Lagoon / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775263283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 181,50 kr NOK
-  - [Heather Blue Lagoon / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775296051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 181,50 kr NOK
-  - [Heather Blue Lagoon / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775328819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 181,50 kr NOK
-  - [Heather Blue Lagoon / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775361587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 181,50 kr NOK
-  - [Heather Blue Lagoon / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775394355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 192,50 kr NOK
-  - [Heather Blue Lagoon / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775427123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6ab8eead78686.jpg?v=1791412878
-    Price: 192,50 kr NOK
-  - [Sage / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775459891)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 181,50 kr NOK
-  - [Sage / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775492659)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 181,50 kr NOK
-  - [Sage / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775525427)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 181,50 kr NOK
-  - [Sage / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775558195)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 181,50 kr NOK
-  - [Sage / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775590963)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 192,50 kr NOK
-  - [Sage / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775623731)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-sage-front-6ab8eead78839.jpg?v=1791412884
-    Price: 192,50 kr NOK
-  - [Athletic Heather / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775656499)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 181,50 kr NOK
-  - [Athletic Heather / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775689267)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 181,50 kr NOK
-  - [Athletic Heather / L](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775722035)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 181,50 kr NOK
-  - [Athletic Heather / XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775754803)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 181,50 kr NOK
-  - [Athletic Heather / 2XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775787571)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 192,50 kr NOK
-  - [Athletic Heather / 3XL](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775820339)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-athletic-heather-front-6ab8eead78623.jpg?v=1791412841
-    Price: 192,50 kr NOK
-  - [Heather Stone / S](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775853107)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-stone-front-6ab8eead78733.jpg?v=1791412890
-    Price: 181,50 kr NOK
-  - [Heather Stone / M](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-british-shorthair-womens-relaxed-t-shirt?variant=44926775885875)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-heather-stone-front-6ab8eead78733.jpg?v=1791412890
-    Price: 181,50 kr NOK
-[List Continued](https://cozyandstylish.myshopify.com/a/llms-agent/llms.txt?shop=v2iusg-ug.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTg2NjQ4NTgwMTQ3LCJsYXN0X3ZhbHVlIjoiNzk4NjY0ODU4MDE0NyJ9)
+[List Continued](https://cozyandstylish.myshopify.com/a/llms-agent/llms.txt?shop=v2iusg-ug.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTg2NjQ3NzkzNzE1LCJsYXN0X3ZhbHVlIjoiNzk4NjY0Nzc5MzcxNSJ9)
 
 ## Collections
 
@@ -3050,126 +2844,216 @@
   Updated: 2026-10-08T11:38:51Z
   Total Products: 0
 - [Mugs and glassware](https://cozyandstylish.myshopify.com/collections/mugs-and-glassware): Brighten every sip with unique mugs and glassware. Find your favorite today and enjoy every drink in style!
-  Updated: 2026-10-08T14:05:04Z
-  Total Products: 69
+  Updated: 2026-10-15T13:55:16Z
+  Total Products: 97
 - [Doglovers](https://cozyandstylish.myshopify.com/collections/doglovers): Showcase your love for dogs with our curated collection. Find the perfect item to express your canine passion!
-  Updated: 2026-10-08T14:05:04Z
-  Total Products: 104
+  Updated: 2026-10-15T13:59:45Z
+  Total Products: 153
 - [Crazy Cat Lady](https://cozyandstylish.myshopify.com/collections/crazy-cat-lady): Discover the ultimate gifts for cat lovers. Wear your feline obsession with pride and shop our collection today!
   Updated: 2026-10-08T12:04:12Z
   Total Products: 5
 - [Women](https://cozyandstylish.myshopify.com/collections/women-clothes): Discover casual favorites that celebrate your love for pets. Treat yourself or find the perfect gift today!
-  Updated: 2026-10-08T13:39:41Z
-  Total Products: 40
+  Updated: 2026-10-14T20:07:47Z
+  Total Products: 59
 - [Laptop sleeves](https://cozyandstylish.myshopify.com/collections/laptop-sleeves): Protect your laptop with stylish sleeves. Find the perfect fit and give your device a personal touch today!
   Updated: 2026-10-08T11:38:53Z
   Total Products: 1
 - [Pillows](https://cozyandstylish.myshopify.com/collections/pillows): Transform your favorite spot with decorative pillows. Explore designs that enhance your cozy corner today!
-  Updated: 2026-10-08T11:55:22Z
-  Total Products: 6
+  Updated: 2026-10-12T15:39:14Z
+  Total Products: 9
 - [Christmas](https://cozyandstylish.myshopify.com/collections/christmas): Celebrate the magic of the season with our festive collection. Find the perfect gift or treat yourself today!
-  Updated: 2026-10-08T13:02:19Z
-  Total Products: 22
+  Updated: 2026-10-15T13:59:45Z
+  Total Products: 44
 - [Pets](https://cozyandstylish.myshopify.com/collections/pets): Celebrate your four-legged companions with our charming pet products. Discover thoughtful gifts for every pet lover!
-  Updated: 2026-10-08T13:02:19Z
-  Total Products: 15
+  Updated: 2026-10-12T16:24:39Z
+  Total Products: 16
 - [Sphynx](https://cozyandstylish.myshopify.com/collections/sphynx): Showcase your love for Sphynx cats with our playful collection. Find the perfect tribute to your one-of-a-kind friend!
-  Updated: 2026-10-08T13:31:22Z
-  Total Products: 6
+  Updated: 2026-10-15T13:44:38Z
+  Total Products: 7
 - [Bengal](https://cozyandstylish.myshopify.com/collections/bengal): Explore Bengal-inspired designs that add personality to your life. Find the perfect treat for yourself or a fellow cat lover today.
-  Updated: 2026-10-08T12:57:03Z
-  Total Products: 4
+  Updated: 2026-10-12T15:36:57Z
+  Total Products: 5
 - [Maine Coon](https://cozyandstylish.myshopify.com/collections/maine-coon): Discover Maine Coon-inspired pieces that celebrate your magnificent companion. Treat yourself or find a thoughtful gift for a fellow lover.
-  Updated: 2026-10-08T13:27:34Z
-  Total Products: 4
+  Updated: 2026-10-15T13:45:52Z
+  Total Products: 5
 - [British Shorthair](https://cozyandstylish.myshopify.com/collections/british-shorthair): Bring home British Shorthair charm with designs that celebrate your favorite feline. Perfect for gifts or a personal treat, explore today.
-  Updated: 2026-10-08T12:55:48Z
+  Updated: 2026-10-12T15:14:27Z
   Total Products: 3
 - [Ragdoll](https://cozyandstylish.myshopify.com/collections/ragdoll): Find Ragdoll-inspired pieces that remind you of cozy moments with your feline. Treat yourself or surprise another Ragdoll lover now.
-  Updated: 2026-10-08T12:54:41Z
-  Total Products: 5
+  Updated: 2026-10-14T20:11:58Z
+  Total Products: 8
 - [Border Collie](https://cozyandstylish.myshopify.com/collections/border-collie): Show your love for Border Collies with designs perfect for everyday life. Perfect gifts or self-treats await you in this charming collection.
-  Updated: 2026-10-08T12:17:04Z
-  Total Products: 13
-- [Chinese Crested](https://cozyandstylish.myshopify.com/collections/chinese-crested): Celebrate the charm of Chinese Cresteds with fun, playful designs. Find the perfect items for yourself or gifts for fellow dog lovers.
-  Updated: 2026-10-08T14:05:04Z
-  Total Products: 32
-- [Shiba Inu](https://cozyandstylish.myshopify.com/collections/shiba-inu): Explore Shiba Inu-inspired pieces that add charm to your daily life. Discover your favorite or find a gift for a fellow dog lover today.
-  Updated: 2026-10-08T13:10:22Z
+  Updated: 2026-10-15T13:39:33Z
   Total Products: 22
+- [Chinese Crested](https://cozyandstylish.myshopify.com/collections/chinese-crested): Celebrate the charm of Chinese Cresteds with fun, playful designs. Find the perfect items for yourself or gifts for fellow dog lovers.
+  Updated: 2026-10-15T13:55:16Z
+  Total Products: 46
+- [Shiba Inu](https://cozyandstylish.myshopify.com/collections/shiba-inu): Explore Shiba Inu-inspired pieces that add charm to your daily life. Discover your favorite or find a gift for a fellow dog lover today.
+  Updated: 2026-10-15T13:40:24Z
+  Total Products: 31
 - [Phone cases](https://cozyandstylish.myshopify.com/collections/phone-cases): Make your phone reflect your style with our unique designs. Find your favorite looks and gift ideas in our Phone Cases collection.
-  Updated: 2026-10-08T13:10:22Z
+  Updated: 2026-10-15T13:50:33Z
   Total Products: 6
 - [Iphone](https://cozyandstylish.myshopify.com/collections/iphone): Refresh your iPhone's look with designs that represent you. Treat yourself or find a thoughtful gift in our curated iPhone collection.
-  Updated: 2026-10-08T13:08:10Z
+  Updated: 2026-10-15T13:48:46Z
   Total Products: 3
 - [Golden Retriever](https://cozyandstylish.myshopify.com/collections/golden-retriever): Celebrate the love of Golden Retrievers with designs for everyday joy. Find a special gift or treat yourself with our charming collection.
-  Updated: 2026-10-08T14:00:35Z
-  Total Products: 8
+  Updated: 2026-10-15T10:59:10Z
+  Total Products: 17
 - [Samsung](https://cozyandstylish.myshopify.com/collections/samsung): Add personality to your Samsung with our fun phone cases. Choose a design that fits your style and make every call more enjoyable!
-  Updated: 2026-10-08T13:10:22Z
+  Updated: 2026-10-15T13:50:33Z
   Total Products: 3
 - [Men](https://cozyandstylish.myshopify.com/collections/men): Elevate your wardrobe with our Men's collection for a cozy vibe. Discover casual styles perfect for any occasion and express your unique style.
-  Updated: 2026-10-08T13:39:41Z
-  Total Products: 10
+  Updated: 2026-10-14T17:45:40Z
+  Total Products: 26
 - [Babies and kids](https://cozyandstylish.myshopify.com/collections/baby-and-kids): Dress your little one in our sweet styles that spark joy. These cute outfits are perfect for playtime and cuddles, making each day special.
-  Updated: 2026-10-08T13:25:35Z
-  Total Products: 20
+  Updated: 2026-10-15T15:52:16Z
+  Total Products: 26
 - [Chihuahua](https://cozyandstylish.myshopify.com/collections/chihuahua): Celebrate your beloved Chihuahua with our fun collection. Find designs that express your love for this playful breed and wear your heart.
-  Updated: 2026-10-08T11:39:02Z
-  Total Products: 2
+  Updated: 2026-10-14T10:34:57Z
+  Total Products: 8
 - [Dalmatian](https://cozyandstylish.myshopify.com/collections/dalmatian): Show off your love for Dalmatians with our charming collection. Find unique styles that celebrate this special breed and bring joy to your day.
-  Updated: 2026-10-08T11:39:03Z
-  Total Products: 1
+  Updated: 2026-10-10T16:09:59Z
+  Total Products: 3
 - [Cute Cat and Dog Christmas Collection](https://cozyandstylish.myshopify.com/collections/cute-cat-and-dog-christmas-collection): Get festive with our adorable Christmas collection for pets and people. Discover cozy clothes and gifts that spread cheer this holiday season!
-  Updated: 2026-10-08T11:39:03Z
-  Total Products: 16
+  Updated: 2026-10-15T13:59:45Z
+  Total Products: 19
 - [Crazy Pet Crew](https://cozyandstylish.myshopify.com/collections/crazy-pet-crew): Join the Crazy Pet Crew with playful clothing celebrating your pets. From hoodies to mugs, express your pet passion and enjoy every moment.
-  Updated: 2026-10-08T11:39:04Z
+  Updated: 2026-10-12T16:07:02Z
   Total Products: 9
 - [Pinscher](https://cozyandstylish.myshopify.com/collections/pincher): Explore our Pinscher collection that showcases your love for this energetic breed. Find stylish options to celebrate your vibrant companion.
-  Updated: 2026-10-08T11:39:04Z
-  Total Products: 3
+  Updated: 2026-10-15T13:53:25Z
+  Total Products: 17
 - [Circle of dogs](https://cozyandstylish.myshopify.com/collections/circle-of-dogs): Immerse yourself in our Circle of Dogs collection. Enjoy designs that highlight the joy and love dogs bring to our lives every day.
-  Updated: 2026-10-08T11:39:05Z
+  Updated: 2026-10-12T16:24:39Z
   Total Products: 3
 - [Talk to the paw](https://cozyandstylish.myshopify.com/collections/talk-to-the-paw): Add attitude to your style with our Talk to the Paw collection. Celebrate your pet's personality with fun designs that make a statement.
-  Updated: 2026-10-08T11:39:05Z
+  Updated: 2026-10-15T13:55:16Z
   Total Products: 5
 - [Canvas](https://cozyandstylish.myshopify.com/collections/canvas): Transform your space with our stylish canvas. Perfect for any room, it adds a cozy touch. Shop now and enhance your decor!
-  Updated: 2026-10-08T11:39:06Z
+  Updated: 2026-10-11T10:04:43Z
   Total Products: 1
+- [Candles](https://cozyandstylish.myshopify.com/collections/candles): - Cozy and Stylish
+  Updated: 2026-10-11T13:32:05Z
+  Total Products: 4
+- [Bags and Backpacks](https://cozyandstylish.myshopify.com/collections/bags): - Cozy and Stylish
+  Updated: 2026-10-14T14:49:10Z
+  Total Products: 10
+- [Whippet](https://cozyandstylish.myshopify.com/collections/whippet): - Cozy and Stylish
+  Updated: 2026-10-14T14:24:40Z
+  Total Products: 2
+- [Dog Squad](https://cozyandstylish.myshopify.com/collections/dog-squad): - Cozy and Stylish
+  Updated: 2026-10-14T18:40:09Z
+  Total Products: 4
+- [Cat Squad](https://cozyandstylish.myshopify.com/collections/cat-squad): - Cozy and Stylish
+  Updated: 2026-10-14T18:46:06Z
+  Total Products: 4
+- [Fantasy Pets](https://cozyandstylish.myshopify.com/collections/fantasy-pets): Step into a world where a love for pets meets a little magic. Explore Fantasy Pets, a collection inspired by beloved animal companions and the wonder of make-believe. Find a playful way to celebrate your love for animals, or a charming gift for someone whose imagination is as big as their heart. - Cozy and Stylish
+  Updated: 2026-10-15T15:52:16Z
+  Total Products: 6
 
 ## Blogs
 
 - [News](https://cozyandstylish.myshopify.com/blogs/nyheter)
   - [Matching Outfits for Pet-Loving Families | Crazy Pet Crew](https://cozyandstylish.myshopify.com/blogs/nyheter/your-pet-familys-crazy-matching-outfits-await): Matching Outfits for Pet-Loving Families | Crazy Pet Crew
-    Updated: 2026-10-08T11:26:53Z
+    Updated: 2026-10-08T14:49:18Z
     Author: Camilla Tangen
     Tags: babyfashion, cat, catlover, crazypetcrew, dog, doglover, fashion, kidsfashion, men, petlover, women
   - [The Ultimate Guide for Catlovers and Doglovers: Fashion for Toddlers with the Cool Cat Tee](https://cozyandstylish.myshopify.com/blogs/nyheter/the-ultimate-guide-for-catlovers-and-doglovers-fashion-for-toddlers-with-the-cool-cat-tee): The Ultimate Guide for Catlovers and Doglovers: Fashion for Toddlers with the Cool Cat Tee
-    Updated: 2026-10-08T14:18:44Z
+    Updated: 2026-10-08T14:48:58Z
     Author: Cozy and Stylish
+  - [Beautiful Dog Mugs That Make Great Gifts](https://cozyandstylish.myshopify.com/blogs/nyheter/beautiful-dog-mugs-that-make-great-gifts): Dog mugs bring a little extra joy to every coffee or tea break and make thoughtful gifts for dog lovers. Discover what makes them special, why they’re a meaningful everyday gift, and what to look for when choosing a quality mug.
+    Updated: 2026-10-09T10:35:41Z
+    Author: Camilla Tangen
+    Tags: coffeemugs, dog, doglovergifts, doglovers, dogmugs
+  - [Beautiful Cat Mugs That Make Great Gifts](https://cozyandstylish.myshopify.com/blogs/nyheter/beautiful-cat-mugs-that-make-great-gifts): Discover how beautifully designed cat mugs bring charm to your daily coffee or tea ritual and make thoughtful gifts for cat lovers. From elegant illustrations to playful prints, find inspiration for a mug that adds a little feline joy to every sip.
+    Updated: 2026-10-09T14:30:56Z
+    Author: Camilla Tangen
+    Tags: cat, catlover, catlovergifts, coffeemugs
+  - [Chihuahua Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chihuahua-christmas-mug): <p><span>Bring festive cheer to every sip with our Chihuahua Christmas mug, featuring three adorable holiday designs. Perfect for cozy coffee breaks or hot chocolate by the fireplace, it makes a thoughtful Christmas gift for Chihuahua lovers and proud pet parents.</span></p>
+    Updated: 2026-10-10T12:14:40Z
+    Author: Camilla Tangen
+    Tags: chihuahua, christmas, christmasgift, coffeemugs, dog, doglover, doglovergifts, doglovers, dogmugs
+  - [Chinese Crested Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chinese-crested-christmas-mug): <div class="_VirtualizedListHost_jcamu_11" data-sk-virtualized-list-host="" data-sk-virtualized-mounted-count="1">
+<div class="Polaris-Scroll" data-sk-virtualized-scrollport="" role="list" tabindex="0">
+<div data-sk-virtualized-item="" data-key="9604a399-9de7-4810-a56a-ed726f2e7a15" data-index="0" role="listitem">
+<div data-sk-virtualized-row="">
+<div class="_Turn_jcamu_57 _FirstTurn_jcamu_126">
+<div class="_TurnBlocks_17f6i_53 _TurnBlocksLead_17f6i_61">
+<div class="_TurnBlockItem_17f6i_1" data-last-in-turn="true" data-item-type="content" data-message-id="01M4KG7XGN8582B5CJSVTC29PS">
+<div class="_TurnBlockItemContent_17f6i_14">
+<div class="Polaris-InlineStack">
+<div class="_HelpCard_zub4n_6">
+<article class="_container_1thwv_1">
+<p class="_p_1thwv_144"><span>Celebrate the festive season with a Chinese Crested Christmas mug that brings warmth and personality to every sip. A thoughtful gift for Chinese Crested owners and dog lovers, it’s a charming way to enjoy your favorite hot drink and add a little holiday cheer to your daily routine.</span></p>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Polaris-Box">
+<div class="_MessageFooter_12y2u_101">
+<div class="_FeedbackContainer_wyts6_1">
+<div class="_FeedbackOptions_wyts6_12" data-animate="true">
+<div class="_FeedbackOptionsLeft_wyts6_31"><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+    Updated: 2026-10-10T18:13:50Z
+    Author: Camilla Tangen
+    Tags: chinesecrested, christmas, christmasgift, dog, doglover, doglovergifts, doglovers, dogmugs
+  - [How to Choose the Perfect Knitted Christmas Dog Sweater For Furry Fashionista Gift Ideas for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/how-to-choose-the-perfect-knitted-christmas-dog-sweater-for-furry-fashionista-gift-ideas-for-doglovers-and-catlovers): How to Choose the Perfect Knitted Christmas Dog Sweater For Furry Fashionista Gift Ideas for Doglovers and Catlovers
+    Updated: 2026-10-11T00:22:48Z
+    Author: Cozy and Stylish
+  - [Captivating Gift Ideas for Doglovers and Catlovers: Discover the Fashionable Golden Retriever Mug](https://cozyandstylish.myshopify.com/blogs/nyheter/captivating-gift-ideas-for-doglovers-and-catlovers-discover-the-fashionable-golden-retriever-mug): Captivating Gift Ideas for Doglovers and Catlovers: Discover the Fashionable Golden Retriever Mug
+    Updated: 2026-10-12T03:02:42Z
+    Author: Cozy and Stylish
+  - [A Cozy Christmas Touch for Dog Lovers](https://cozyandstylish.myshopify.com/blogs/nyheter/a-cozy-christmas-touch-for-dog-lovers): <p><span>Bring a cozy Christmas touch to your home with festive dog-themed pillows from Cozy and Stylish. Discover simple styling ideas for a welcoming holiday corner and find a thoughtful gift for the dog lover in your life.</span></p>
+    Updated: 2026-10-12T09:59:45Z
+    Author: Camilla Tangen
+    Tags: chihuahua, chinesecrested, christmas, christmasgift, christmaspillow, dog, doglover, doglovergifts, doglovers, homeandliving, pillow, pinscher
+  - [Cozy Sips for Dog Lovers: Find Your Favourite Breed](https://cozyandstylish.myshopify.com/blogs/nyheter/cozy-sips-for-dog-lovers-find-your-favourite-breed): <p><span>Discover five charming dog-themed mugs celebrating the Border Collie, Shiba Inu, Chinese Crested, Whippet and Pinscher. Find your favourite breed, add a personal touch to your coffee break, or choose a thoughtful gift for a fellow dog lover.</span></p>
+    Updated: 2026-10-14T15:41:59Z
+    Author: Camilla Tangen
+    Tags: bordercollie, chinesecrested, doglover, doglovergifts, doglovers, dogmugs, pinscher, shibainu, whippet
+  - [Top Christmas Pet Bandanas That Every Doglover and Catlover Must Have](https://cozyandstylish.myshopify.com/blogs/nyheter/top-christmas-pet-bandanas-that-every-doglover-and-catlover-must-have): Top Christmas Pet Bandanas That Every Doglover and Catlover Must Have
+    Updated: 2026-10-15T00:04:05Z
+    Author: Cozy and Stylish
+  - [Color Splash Dog Designs Are Coming to Cozy and Stylish](https://cozyandstylish.myshopify.com/blogs/nyheter/color-splash-dog-designs-are-coming-to-cozy-and-stylish): Color Splash Dog Designs Are Coming to Cozy and Stylish
+    Updated: 2026-10-15T12:01:54Z
+    Author: Camilla Tangen
+    Tags: bordercollie, chihuahua, chinesecrested, coffeemugs, dalmatian, doglover, doglovergifts, dogmugs, fashion, golden retriever, mugs, new designs, pinscher, shibainu, sweatshirt, tshirt
 
 ## Store Pages
 
 - [Dine personvernvalg](https://cozyandstylish.myshopify.com/pages/data-sharing-opt-out): Som beskrevet i personvernerklæringen vår samler vi inn personlig informasjon fra din interaksjon med oss og nettstedet vårt, inkludert gjennom inf...
-  Updated: 2026-08-20T11:46:37Z
+  Updated: 2026-10-08T14:49:40Z
 - [Contact](https://cozyandstylish.myshopify.com/pages/contact-1): We'd love to hear from you! Feel free to reach out to discuss custom orders for specific dog or cat breeds not yet featured on our site. We're here...
-  Updated: 2026-09-29T15:29:23Z
+  Updated: 2026-10-08T14:49:33Z
 - [Clothing](https://cozyandstylish.myshopify.com/pages/clothing): Discover our playful collection of clothing for women, men, and kids—all featuring adorable cats, dogs, and quirky animals with humorous expression...
-  Updated: 2026-09-30T11:59:15Z
+  Updated: 2026-10-08T14:49:27Z
+- [About me](https://cozyandstylish.myshopify.com/pages/about-me): As a pet owner and animal lover, I create designs that I would love to wear and use myself, and share them with fellow pet owners and animal lovers...
+  Updated: 2026-10-13T16:58:02Z
 
 ## Policies
 
 - [Privacy Policy](https://cozyandstylish.myshopify.com/policies/privacy-policy)
   Updated: 2026-07-24T18:43:19+02:00
+- [Shipping Policy](https://cozyandstylish.myshopify.com/policies/shipping-policy)
+  Updated: 2026-10-11T12:25:16+02:00
 - [Refund Policy](https://cozyandstylish.myshopify.com/policies/refund-policy)
-  Updated: 2026-08-27T15:42:15+02:00
+  Updated: 2026-10-13T15:15:59+02:00
 - [Terms of Service](https://cozyandstylish.myshopify.com/policies/terms-of-service)
   Updated: 2026-09-27T13:12:07+02:00
 - [Contact Information](https://cozyandstylish.myshopify.com/policies/contact-information)
-  Updated: 2026-09-27T13:12:45+02:00
+  Updated: 2026-10-11T12:28:00+02:00
 
 ## Optional
 
