@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-03-16T10:01:51Z
 - Contact Email: simoncardesigen25@gmail.com
-- Updated At: 2026-10-08T09:32:14.823Z
+- Updated At: 2026-10-16T00:00:23.500Z
 
 Social Media
 
@@ -230,7 +230,7 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/1_72f9723b-a11e-4e19-a8b9-beee7493257c.jpg?v=1776677585
   Price: $260.00 USD
 - [A-Pillar Light Bar Mounts for Jeep Wrangler](https://trail-walk.com/products/a-pillar-light-bar-mounts): Take your night driving to the next level with the IRURI A-Pillar Light Mounting Bracket. Designed specifically for the rugged lines of the Jeep Wrangler, this bracket eliminates blind spots and floods your path with light. Unlike generic universal mounts, the IRURI bracket is precision-engineered to fit the unique curvature of your A-pillar perfectly, offering a factory-installed look with aggressive off-road capability. Crafted from high-grade aviation aluminum and finished with a durable matte black anodized coating, it withstands the harshest elements while adding a touch of mechanical artistry to your rig. Whether you are navigating technical trails in the dark or simply want to enhance your vehicle's stance, this is the ultimate lighting solution. Dual Light Capacity: Uniquely designed with a 45° angled extension, allowing you to mount two pod lights simultaneously. This maximizes luminosity and coverage without cluttering your windshield view. Precision CNC Machined: Carved from a single block of high-strength aviation aluminum alloy. The CNC process ensures exact tolerances, superior strength, and a premium, rugged texture that plastic mounts can't match. Perfect OEM Fitment: Developed using 3D scanning of original vehicle data. It bolts directly onto existing factory holes—no drilling, no cutting, and no modification required. Preserves your vehicle's warranty and integrity. Unobstructed Vision: Engineered with a low-profile design that sits flush against the A-pillar. It provides powerful illumination without blocking your forward driving line of sight, ensuring safety on and off the road. Functional & Stylish: Beyond lighting, the bracket features a sleek, mechanical aesthetic that enhances the side profile of your Jeep. It also includes a convenient pass-through for wiring, keeping your engine bay clean and organized.
-  Updated: 2026-09-24T17:08:26Z
+  Updated: 2026-10-12T03:23:55Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
@@ -279,7 +279,7 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_7280fd91-6d29-4730-aa11-dd6ddc8cacfb.jpg?v=1778056109
   Price: $363.00 USD
 - [Side Mirror Covers for Jeep Wrangler](https://trail-walk.com/products/side-mirror-covers): The IRURI Side Mirror Covers are engineered for the modern overlander who demands both protection and functionality. Constructed from premium CNC-machined alloy, these covers shield your mirrors from trail debris while providing a robust platform for your action camera setup. Military-Grade Build: Tested to MIL-SPEC-810H standards, ensuring they can handle vibrations, shocks, and harsh environments. Seamless Camera Integration: The top rail is designed specifically for standard action camera mounts, allowing you to capture high-quality footage without drilling into your vehicle. Safety First: Unlike generic covers, our design preserves the functionality of your factory turn signals, keeping you visible on the road. Aggressive Styling: The geometric, industrial design adds a layer of tactical aggression to your Jeep's exterior profile. Weather Resistant: Finished in a durable matte black powder coat that resists rust, fading, and corrosion.
-  Updated: 2026-09-30T04:04:56Z
+  Updated: 2026-10-15T03:28:01Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
