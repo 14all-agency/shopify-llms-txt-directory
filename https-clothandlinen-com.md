@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2026-09-25T00:01:05.825Z
+- Updated At: 2026-10-16T00:01:08.272Z
 
 ## Products
 
 - [Chenille Black Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-black): Chenille Black Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:10:57Z
+  Updated: 2026-10-15T19:36:06Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Begonia Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-begonia): Chenille Begonia Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T08:42:22Z
+  Updated: 2026-10-15T19:36:21Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -263,7 +263,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Blush Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-blush): Chenille Blush Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T07:48:10Z
+  Updated: 2026-10-15T19:36:29Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Burgundy Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-burgundy): Chenille Burgundy Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:47:35Z
+  Updated: 2026-10-15T19:36:44Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Forest Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-forest): Chenille Forest Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T10:57:17Z
+  Updated: 2026-10-15T19:36:58Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -641,7 +641,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Gold Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-gold): Chenille Gold Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-17T03:04:06Z
+  Updated: 2026-10-15T19:37:07Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -767,7 +767,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Ice Blue Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-ice-blue): Chenille Ice Blue Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:41:41Z
+  Updated: 2026-10-15T19:37:19Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -893,7 +893,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Ivory Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-ivory): Chenille Ivory Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T08:38:15Z
+  Updated: 2026-10-15T19:37:28Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -1019,7 +1019,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Mauve Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-mauve): Chenille Mauve Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T08:37:15Z
+  Updated: 2026-10-15T19:37:41Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -1145,7 +1145,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Navy Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-navy): Chenille Navy Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T08:50:46Z
+  Updated: 2026-10-15T19:37:52Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -1271,7 +1271,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Silver Crushed Velvet Tablecloth | Buy Online](https://clothandlinen.com/products/chenille-crushed-velvet-tablecloth-silver): Chenille Silver Crushed Velvet Tablecloth in polyester velvet with soft plush pile. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:41:47Z
+  Updated: 2026-10-15T19:38:13Z
   Vendor: Cloth & Linen
   Product Type: Crushed Velvet Tablecloth
   Availability: Available
@@ -1397,7 +1397,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dover Celadon Floral Digital Print Tablecloth | Buy Online](https://clothandlinen.com/products/dover-floral-digital-print-tablecloth-celadon): Dover Celadon Floral Digital Print Tablecloth in polyester with painterly digital print. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:11:12Z
+  Updated: 2026-10-15T19:38:32Z
   Vendor: Cloth & Linen
   Product Type: Floral Digital Print Tablecloth
   Availability: Available
@@ -1523,7 +1523,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Dover Pink Floral Digital Print Tablecloth | Buy Online](https://clothandlinen.com/products/dover-floral-digital-print-tablecloth-pink): Dover Pink Floral Digital Print Tablecloth in polyester with painterly digital print. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:15:08Z
+  Updated: 2026-10-15T19:38:44Z
   Vendor: Cloth & Linen
   Product Type: Floral Digital Print Tablecloth
   Availability: Available
@@ -1649,7 +1649,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dover Wedgwood Floral Digital Print Tablecloth | Buy Online](https://clothandlinen.com/products/dover-floral-digital-print-tablecloth-wedgwood): Dover Wedgwood Floral Digital Print Tablecloth in polyester with painterly digital print. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T08:41:20Z
+  Updated: 2026-10-15T19:38:54Z
   Vendor: Cloth & Linen
   Product Type: Floral Digital Print Tablecloth
   Availability: Available
@@ -1775,7 +1775,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Derby Pink Floral Digital Print Tablecloth | Buy Online](https://clothandlinen.com/products/derby-floral-digital-print-tablecloth-pink): Derby Pink Floral Digital Print Tablecloth in polyester with painterly digital print. Designed for weddings, receptions, and elegant dining. Made to order.
-  Updated: 2026-09-03T09:53:13Z
+  Updated: 2026-10-15T19:39:06Z
   Vendor: Cloth & Linen
   Product Type: Floral Digital Print Tablecloth
   Availability: Available
@@ -1905,19 +1905,19 @@
 ## Collections
 
 - [APPPlaza - Best Sellers](https://clothandlinen.com/collections/appplaza-best-sellers): Shop APPPlaza - Best Sellers at Cloth & Linen — premium tablecloths and fabric by the yard, made to order in New York.
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 2845
 - [All Products (ChatGPT-AI Product Description)](https://clothandlinen.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidd
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 2854
 - [New! Shopify performance sharing is now turned on](https://clothandlinen.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize y
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 2854
 - [Allendale Collection](https://clothandlinen.com/collections/allendale-collection): Shop Allendale tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-09T11:18:25Z
   Total Products: 19
 - [Allium Collection](https://clothandlinen.com/collections/allium-collection): Shop Allium tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 4
 - [Anthium Collection](https://clothandlinen.com/collections/anthium-collection): Shop Anthium tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:52:50Z
@@ -1944,19 +1944,19 @@
   Updated: 2026-09-02T15:53:30Z
   Total Products: 4
 - [Beacon Collection](https://clothandlinen.com/collections/beacon-collection): Shop Beacon tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T16:09:55Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 9
 - [Beaconsfield Collection](https://clothandlinen.com/collections/beaconsfield-collection): Shop Beaconsfield tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:09:55Z
   Total Products: 8
 - [Bonanza Collection](https://clothandlinen.com/collections/bonanza-collection): Shop Bonanza tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:43:43Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 4
 - [Calcutta Collection](https://clothandlinen.com/collections/calcutta-collection): Shop Calcutta tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:10:02Z
   Total Products: 3
 - [Cambridge Collection](https://clothandlinen.com/collections/cambridge-collection): Shop Cambridge tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-09-29T11:16:54Z
   Total Products: 9
 - [Carnation Collection](https://clothandlinen.com/collections/carnation-collection): Shop Carnation tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:53:32Z
@@ -1965,16 +1965,16 @@
   Updated: 2026-09-02T16:01:50Z
   Total Products: 4
 - [Celeste Collection](https://clothandlinen.com/collections/celeste-collection): Shop Celeste tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:53:39Z
+  Updated: 2026-10-05T11:19:22Z
   Total Products: 9
 - [Chenille Collection](https://clothandlinen.com/collections/chenille-collection): Shop Chenille tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-17T11:19:35Z
+  Updated: 2026-10-08T11:21:20Z
   Total Products: 13
 - [Chrisma Collection](https://clothandlinen.com/collections/chrisma-collection): Shop Chrisma tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 8
 - [Classic Collection](https://clothandlinen.com/collections/classic-collection): Shop Classic tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:52:01Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 5
 - [Cobblestone Collection](https://clothandlinen.com/collections/cobblestone-collection): Shop Cobblestone tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:53:43Z
@@ -2043,7 +2043,7 @@
   Updated: 2026-09-02T15:53:58Z
   Total Products: 3
 - [Hobby Collection](https://clothandlinen.com/collections/hobby-collection): Shop Hobby tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:44:31Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 13
 - [Hunter Collection](https://clothandlinen.com/collections/hunter-collection): Shop Hunter tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:44:29Z
@@ -2070,7 +2070,7 @@
   Updated: 2026-09-02T15:44:44Z
   Total Products: 14
 - [Luxurious Collection](https://clothandlinen.com/collections/luxurious-collection): Shop Luxurious tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:55:21Z
+  Updated: 2026-10-09T11:19:59Z
   Total Products: 16
 - [Lynsfield Collection](https://clothandlinen.com/collections/lynsfield-collection): Shop Lynsfield tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:10:07Z
@@ -2082,7 +2082,7 @@
   Updated: 2026-09-02T15:50:30Z
   Total Products: 2
 - [Marisol Collection](https://clothandlinen.com/collections/marisol-collection): Shop Marisol tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T16:08:14Z
+  Updated: 2026-10-01T11:19:02Z
   Total Products: 9
 - [Marmore Collection](https://clothandlinen.com/collections/marmore-collection): Shop Marmore tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:55:28Z
@@ -2103,13 +2103,13 @@
   Updated: 2026-09-02T15:56:27Z
   Total Products: 6
 - [Mowhak Collection](https://clothandlinen.com/collections/mowhak-collection): Shop Mowhak tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 7
 - [Multi Collection](https://clothandlinen.com/collections/multi-collection): Shop Multi tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:56:36Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 5
 - [Mumbai Collection](https://clothandlinen.com/collections/mumbai-collection): Shop Mumbai tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:46:41Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 5
 - [New Delhi Collection](https://clothandlinen.com/collections/new-delhi-collection): Shop New Delhi tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:09:05Z
@@ -2121,13 +2121,13 @@
   Updated: 2026-09-02T15:56:44Z
   Total Products: 6
 - [Newport118 Collection](https://clothandlinen.com/collections/newport118-collection): Shop Newport118 tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-09-26T11:19:14Z
   Total Products: 49
 - [Noble Collection](https://clothandlinen.com/collections/noble-collection): Shop Noble tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:57:16Z
   Total Products: 9
 - [On The Vine Collection](https://clothandlinen.com/collections/on-the-vine-collection): Shop On The Vine tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 4
 - [Palms Collection](https://clothandlinen.com/collections/palms-collection): Shop Palms tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:46:47Z
@@ -2136,7 +2136,7 @@
   Updated: 2026-09-03T11:19:39Z
   Total Products: 2
 - [Patio Collection](https://clothandlinen.com/collections/patio-collection): Shop Patio tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T16:09:02Z
+  Updated: 2026-10-04T11:20:21Z
   Total Products: 4
 - [Poppy Collection](https://clothandlinen.com/collections/poppy-collection): Shop Poppy tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:46:52Z
@@ -2163,10 +2163,10 @@
   Updated: 2026-09-02T15:58:39Z
   Total Products: 7
 - [Riverdale Collection](https://clothandlinen.com/collections/riverdale-collection): Shop Riverdale tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-05T11:20:13Z
+  Updated: 2026-10-08T11:21:20Z
   Total Products: 12
 - [Rolls Royce Collection](https://clothandlinen.com/collections/rolls-royce-collection): Shop Rolls Royce tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 4
 - [Russel Collection](https://clothandlinen.com/collections/russel-collection): Shop Russel tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:58:47Z
@@ -2175,7 +2175,7 @@
   Updated: 2026-09-02T15:58:50Z
   Total Products: 4
 - [Shadow Collection](https://clothandlinen.com/collections/shadow-collection): Shop Shadow tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:58:59Z
+  Updated: 2026-10-12T11:20:28Z
   Total Products: 13
 - [Sparkle Collection](https://clothandlinen.com/collections/sparkle-collection): Shop Sparkle tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:52:40Z
@@ -2190,7 +2190,7 @@
   Updated: 2026-09-02T15:43:55Z
   Total Products: 6
 - [Stardust Collection](https://clothandlinen.com/collections/stardust-collection): Shop Stardust tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:50:47Z
+  Updated: 2026-10-03T11:20:19Z
   Total Products: 9
 - [Starlight Collection](https://clothandlinen.com/collections/starlight-collection): Shop Starlight tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T15:46:36Z
@@ -2202,7 +2202,7 @@
   Updated: 2026-09-02T16:00:01Z
   Total Products: 9
 - [Sweden Collection](https://clothandlinen.com/collections/sweden-collection): Shop Sweden tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:45:56Z
+  Updated: 2026-09-29T11:16:54Z
   Total Products: 21
 - [Thailand Collection](https://clothandlinen.com/collections/thailand-collection): Shop Thailand tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:00:02Z
@@ -2238,10 +2238,10 @@
   Updated: 2026-09-02T16:01:07Z
   Total Products: 19
 - [Velvery Collection](https://clothandlinen.com/collections/velvery-collection): Shop Velvery tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-16T11:16:10Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 5
 - [Velveteen72 Collection](https://clothandlinen.com/collections/velveteen72-collection): Shop Velveteen72 tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
-  Updated: 2026-09-02T15:46:03Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 33
 - [Vinetree Collection](https://clothandlinen.com/collections/vinetree-collection): Shop Vinetree tablecloths at Cloth & Linen — made to order in New York in custom sizes. Premium fabric for weddings, events & home decor.
   Updated: 2026-09-02T16:01:15Z
@@ -2250,73 +2250,73 @@
   Updated: 2026-09-03T11:19:39Z
   Total Products: 5
 - [Full Catalog](https://clothandlinen.com/collections/full-catalog): Shop Full Catalog at Cloth & Linen — premium tablecloths and fabric by the yard, made to order in New York.
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 1027
 - [Wedding Tablecloths](https://clothandlinen.com/collections/wedding-tablecloths): Shop wedding tablecloths in velvet, jacquard, sequin & lace — made to order in New York in any size and color. $1 true-color swatches. Ships nationwide.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 612
 - [Holiday Tablecloths](https://clothandlinen.com/collections/holiday-tablecloths): Holiday tablecloths for Thanksgiving, Christmas, Hanukkah & every celebration — premium fabrics, custom sizes, made to order in New York. $1 swatches. Ships nat
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 378
 - [Restaurant & Daily Use](https://clothandlinen.com/collections/restaurant-tablecloths): Restaurant and hospitality tablecloths made to order in New York — durable premium fabrics in custom sizes for daily use, with consistent color and quality. Shi
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 540
 - [Banquet & Corporate Events](https://clothandlinen.com/collections/banquet-tablecloths): Banquet and corporate-event tablecloths made to order in New York — floor-length, custom sizes for round & rectangular tables, with consistent color across ever
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 445
 - [Outdoor & Garden Parties](https://clothandlinen.com/collections/outdoor-garden-tablecloths): Fresh, nature-inspired colors for outdoor weddings, garden parties, and backyard gatherings.
-  Updated: 2026-09-03T11:19:39Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 99
 - [Christmas Tablecloths](https://clothandlinen.com/collections/christmas-tablecloths): Classic Christmas colors — rich reds, deep greens, and elegant gold tones for your holiday celebrations.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 363
 - [Easter & Spring Tablecloths](https://clothandlinen.com/collections/easter-spring-tablecloths): Soft pastels and fresh spring tones perfect for Easter brunches, baby showers, and springtime celebrations.
-  Updated: 2026-09-14T11:15:57Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 143
 - [Whites & Ivory](https://clothandlinen.com/collections/whites-ivory): Shop whites & ivory tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-19T11:17:44Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 366
 - [Beige & Tan](https://clothandlinen.com/collections/beige-tan): Shop beige & tan tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-09T11:18:25Z
+  Updated: 2026-10-13T11:19:27Z
   Total Products: 127
 - [Blush & Pink](https://clothandlinen.com/collections/blush-pink): Shop blush & pink tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
   Updated: 2026-09-14T11:15:57Z
   Total Products: 165
 - [Reds & Burgundy](https://clothandlinen.com/collections/reds-burgundy): Shop reds & burgundy tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 94
 - [Orange & Rust](https://clothandlinen.com/collections/orange-rust): Shop orange & rust tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
   Updated: 2026-09-07T11:18:40Z
   Total Products: 31
 - [Brown & Mocha](https://clothandlinen.com/collections/brown-mocha): Shop brown & mocha tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-02T16:09:14Z
+  Updated: 2026-10-14T17:10:55Z
   Total Products: 95
 - [Gold & Yellow](https://clothandlinen.com/collections/gold-yellow): Shop gold & yellow tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 146
 - [Champagne & Metallic](https://clothandlinen.com/collections/champagne-metallic): Shop champagne & metallic tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-02T16:00:17Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 40
 - [Greens](https://clothandlinen.com/collections/greens): Shop greens tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-17T11:19:35Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 188
 - [Blues](https://clothandlinen.com/collections/blues): Shop blues tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-02T16:10:06Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 162
 - [Navy & Midnight](https://clothandlinen.com/collections/navy-midnight): Shop navy & midnight tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-07T11:18:40Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 107
 - [Teal & Aqua](https://clothandlinen.com/collections/teal-aqua): Shop teal & aqua tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-02T16:08:31Z
+  Updated: 2026-10-03T11:20:19Z
   Total Products: 22
 - [Purple & Lavender](https://clothandlinen.com/collections/purple-lavender): Shop purple & lavender tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-18T11:17:19Z
+  Updated: 2026-09-26T11:19:14Z
   Total Products: 117
 - [Black & Charcoal](https://clothandlinen.com/collections/black-charcoal): Shop black & charcoal tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-23T13:25:59Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 173
 - [Grey & Silver](https://clothandlinen.com/collections/grey-silver): Shop grey & silver tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
-  Updated: 2026-09-02T16:10:05Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 175
 - [Multi & Combo](https://clothandlinen.com/collections/multi-combo): Shop multi & combo tablecloths and fabric by the yard — made to order in New York in custom sizes. Premium velvet, jacquard, sequin & lace. $1 swatches.
   Updated: 2026-09-02T16:09:05Z
@@ -2325,13 +2325,13 @@
   Updated: 2026-06-21T19:05:12Z
   Total Products: 0
 - [Fabric by the Yard](https://clothandlinen.com/collections/fabric-by-the-yard): Premium fabrics sold by the continuous yard — cut to your length, with a Fabric Sample available before you commit. Velvet, jacquard, sequin, lace, digital prin
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 1247
 - [Velvet by the Yard](https://clothandlinen.com/collections/velvet-by-the-yard): Shop velvet fabric by the yard — cut to length, made to order in New York. Premium quality for tablecloths, events, drapery & decor. Order a $1 swatch.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 430
 - [Jacquard by the Yard](https://clothandlinen.com/collections/jacquard-by-the-yard): Shop jacquard fabric by the yard — cut to length, made to order in New York. Premium quality for tablecloths, events, drapery & decor. Order a $1 swatch.
-  Updated: 2026-09-19T11:17:44Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 456
 - [Sequin by the Yard](https://clothandlinen.com/collections/sequin-by-the-yard): Shop sequin fabric by the yard — cut to length, made to order in New York. Premium quality for tablecloths, events, drapery & decor. Order a $1 swatch.
   Updated: 2026-08-30T11:21:56Z
@@ -2358,7 +2358,7 @@
   Updated: 2026-08-02T11:23:05Z
   Total Products: 7
 - [Vails by the Yard](https://clothandlinen.com/collections/vails-by-the-yard): Vails fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-06-21T19:05:12Z
+  Updated: 2026-10-13T11:19:27Z
   Total Products: 12
 - [Multi by the Yard](https://clothandlinen.com/collections/multi-by-the-yard): Multi fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:12Z
@@ -2367,34 +2367,34 @@
   Updated: 2026-06-21T19:05:13Z
   Total Products: 3
 - [Newport118 by the Yard](https://clothandlinen.com/collections/newport118-by-the-yard): Newport118 fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-17T11:19:35Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 52
 - [Hunter by the Yard](https://clothandlinen.com/collections/hunter-by-the-yard): Hunter fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-08-29T11:18:20Z
   Total Products: 6
 - [Allendale by the Yard](https://clothandlinen.com/collections/allendale-by-the-yard): Allendale fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-08-29T11:18:20Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 32
 - [Lobby by the Yard](https://clothandlinen.com/collections/lobby-by-the-yard): Lobby fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-13T11:19:15Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 23
 - [Hobby by the Yard](https://clothandlinen.com/collections/hobby-by-the-yard): Hobby fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-13T11:19:27Z
   Total Products: 21
 - [Huntsville by the Yard](https://clothandlinen.com/collections/huntsville-by-the-yard): Huntsville fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-14T11:15:57Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 20
 - [Riverdale by the Yard](https://clothandlinen.com/collections/riverdale-by-the-yard): Riverdale fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-08-29T11:18:20Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 13
 - [Chenille by the Yard](https://clothandlinen.com/collections/chenille-by-the-yard): Chenille fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-18T11:17:19Z
+  Updated: 2026-10-06T11:19:24Z
   Total Products: 13
 - [Selectra Waves by the Yard](https://clothandlinen.com/collections/selectra-waves-by-the-yard): Selectra Waves fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:13Z
   Total Products: 11
 - [Newport Beach by the Yard](https://clothandlinen.com/collections/newport-beach-by-the-yard): Newport Beach fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-09-14T11:15:57Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 7
 - [Newport by the Yard](https://clothandlinen.com/collections/newport-by-the-yard): Newport fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-08-27T11:21:19Z
@@ -2448,7 +2448,7 @@
   Updated: 2026-07-21T11:20:41Z
   Total Products: 9
 - [Gate by the Yard](https://clothandlinen.com/collections/gate-by-the-yard): Gate fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-06-21T19:05:14Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 7
 - [Derby by the Yard](https://clothandlinen.com/collections/derby-by-the-yard): Derby fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:14Z
@@ -2571,7 +2571,7 @@
   Updated: 2026-09-19T11:17:44Z
   Total Products: 6
 - [Portland Hights by the Yard](https://clothandlinen.com/collections/portland-hights-by-the-yard): Portland Hights fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-07-22T11:21:57Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 6
 - [Portland by the Yard](https://clothandlinen.com/collections/portland-by-the-yard): Portland fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:17Z
@@ -2598,7 +2598,7 @@
   Updated: 2026-06-21T19:05:18Z
   Total Products: 5
 - [Stardust by the Yard](https://clothandlinen.com/collections/stardust-by-the-yard): Stardust fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-07-22T11:21:57Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 9
 - [Vinetree by the Yard](https://clothandlinen.com/collections/vinetree-by-the-yard): Vinetree fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:18Z
@@ -2700,7 +2700,7 @@
   Updated: 2026-08-24T22:19:53Z
   Total Products: 17
 - [Liberty by the Yard](https://clothandlinen.com/collections/liberty-by-the-yard): Liberty fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-06-21T19:05:20Z
+  Updated: 2026-09-28T11:18:47Z
   Total Products: 5
 - [Hills by the Yard](https://clothandlinen.com/collections/hills-by-the-yard): Hills fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:20Z
@@ -2784,7 +2784,7 @@
   Updated: 2026-06-21T19:05:23Z
   Total Products: 3
 - [Louvain by the Yard](https://clothandlinen.com/collections/louvain-by-the-yard): Louvain fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-06-21T19:05:23Z
+  Updated: 2026-10-14T17:11:01Z
   Total Products: 4
 - [Matise by the Yard](https://clothandlinen.com/collections/matise-by-the-yard): Matise fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-08-25T16:27:30Z
@@ -2826,7 +2826,7 @@
   Updated: 2026-06-21T19:05:25Z
   Total Products: 2
 - [Veluxe by the Yard](https://clothandlinen.com/collections/veluxe-by-the-yard): Veluxe fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-08-25T16:27:37Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 22
 - [Fern Lace by the Yard](https://clothandlinen.com/collections/fern-lace-by-the-yard): Fern Lace fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-06-21T19:05:25Z
@@ -2841,13 +2841,13 @@
   Updated: 2026-08-24T22:20:44Z
   Total Products: 36
 - [Shadow by the Yard](https://clothandlinen.com/collections/shadow-by-the-yard): Shadow fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-06-21T19:05:26Z
+  Updated: 2026-10-06T11:19:24Z
   Total Products: 10
 - [Sweden by the Yard](https://clothandlinen.com/collections/sweden-by-the-yard): Sweden fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-08-25T16:18:26Z
+  Updated: 2026-10-14T11:39:33Z
   Total Products: 21
 - [Velveteen by the Yard](https://clothandlinen.com/collections/velveteen-by-the-yard): Velveteen fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
-  Updated: 2026-08-28T11:26:33Z
+  Updated: 2026-10-15T11:19:35Z
   Total Products: 34
 - [Mumbai by the Yard](https://clothandlinen.com/collections/mumbai-by-the-yard): Mumbai fabric by the yard from Cloth & Linen — cut to length, made to order in New York. Premium quality for tablecloths, events & decor.
   Updated: 2026-07-08T11:20:29Z
@@ -2856,7 +2856,7 @@
   Updated: 2026-06-21T19:05:26Z
   Total Products: 2
 - [Home & Bath](https://clothandlinen.com/collections/home-and-bath): Finished pieces for the home — bedding, bath, window, table, decor and kitchen. These arrive ready to use, in standard sizes, so there is nothing to measure and nothing to wait for.
-  Updated: 2026-09-21T11:16:13Z
+  Updated: 2026-10-12T11:20:28Z
   Total Products: 668
 - [Window](https://clothandlinen.com/collections/home-window): Curtains, valances and window  sets.
   Updated: 2026-07-29T02:22:16Z
@@ -2871,7 +2871,7 @@
   Updated: 2026-07-29T02:22:15Z
   Total Products: 247
 - [Bath](https://clothandlinen.com/collections/home-bath): Towels, bath mats, shower curtains and bathroom accessory sets.
-  Updated: 2026-09-04T11:19:04Z
+  Updated: 2026-10-12T11:20:28Z
   Total Products: 23
 - [Kitchen](https://clothandlinen.com/collections/home-kitchen): Aprons, dish towels and serving covers.
   Updated: 2026-07-29T02:22:17Z
@@ -3372,13 +3372,40 @@
   - [Crafting Timeless Elegance: How to Select the Perfect Embroidered Table Linen](https://clothandlinen.com/blogs/news/crafting-timeless-elegance-how-to-select-the-perfect-embroidered-table-linen): Crafting Timeless Elegance: How to Select the Perfect Embroidered Table Linen
     Updated: 2026-09-24T01:01:24Z
     Author: User
+  - [Table Setting Faux Pas and How to Fix Them](https://clothandlinen.com/blogs/news/table-setting-faux-pas-and-how-to-fix-them): Table Setting Faux Pas and How to Fix Them
+    Updated: 2026-09-28T01:04:53Z
+    Author: User
+  - [The Essential Checklist for Creating a Picture-Perfect Table Setting](https://clothandlinen.com/blogs/news/the-essential-checklist-for-creating-a-picture-perfect-table-setting): The Essential Checklist for Creating a Picture-Perfect Table Setting
+    Updated: 2026-09-29T01:09:57Z
+    Author: User
+  - [Educational Insights Into the Influence of Tablecloths on Human Interaction](https://clothandlinen.com/blogs/news/educational-insights-into-the-influence-of-tablecloths-on-human-interaction): Educational Insights Into the Influence of Tablecloths on Human Interaction
+    Updated: 2026-10-01T00:49:13Z
+    Author: User
+  - [Fresh Alternatives Versus Classic Traditions: Choosing Your Table Linens](https://clothandlinen.com/blogs/news/fresh-alternatives-versus-classic-traditions-choosing-your-table-linens): Fresh Alternatives Versus Classic Traditions: Choosing Your Table Linens
+    Updated: 2026-10-05T01:03:55Z
+    Author: User
+  - [Editorial: The Role of Table Linens in Defining Hospitality Today](https://clothandlinen.com/blogs/news/editorial-the-role-of-table-linens-in-defining-hospitality-today): Editorial: The Role of Table Linens in Defining Hospitality Today
+    Updated: 2026-10-06T01:06:52Z
+    Author: User
+  - [FAQs on Tablecloth Longevity and Fabric Care](https://clothandlinen.com/blogs/news/faqs-on-tablecloth-longevity-and-fabric-care): FAQs on Tablecloth Longevity and Fabric Care
+    Updated: 2026-10-08T00:51:58Z
+    Author: User
+  - [10 Common Table Linen Problems and Their Easy Solutions](https://clothandlinen.com/blogs/news/10-common-table-linen-problems-and-their-easy-solutions): 10 Common Table Linen Problems and Their Easy Solutions
+    Updated: 2026-10-12T01:08:48Z
+    Author: User
+  - [Exploring the Strengths and Weaknesses of Cotton Versus Linen Tablecloths](https://clothandlinen.com/blogs/news/exploring-the-strengths-and-weaknesses-of-cotton-versus-linen-tablecloths): Exploring the Strengths and Weaknesses of Cotton Versus Linen Tablecloths
+    Updated: 2026-10-13T01:10:52Z
+    Author: User
+  - [How to Set a Formal Table: A Comprehensive Guide](https://clothandlinen.com/blogs/news/how-to-set-a-formal-table-a-comprehensive-guide): How to Set a Formal Table: A Comprehensive Guide
+    Updated: 2026-10-15T00:29:41Z
+    Author: User
 
 ## Store Pages
 
 - [Contact – Connect with Us for Support and Inquiries](https://clothandlinen.com/pages/contact-us): We are a family business in Monroe, New York, and we answer our own email.Email: info@clothandlinen.comPhone: 845-513-6652Business office (not a re...
   Updated: 2026-08-21T22:32:42Z
-- [Your privacy choices](https://clothandlinen.com/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T16:28:18Z
+- [Your privacy choices](https://clothandlinen.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-10-05T15:03:01Z
 - [Search Results](https://clothandlinen.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
   Updated: 2025-03-05T23:33:09Z
 - [About Us - Discover Our Journey and Values](https://clothandlinen.com/pages/about): Made to order in Monroe, New York Cloth & Linen is a family business. We keep a library of fabric on the roll — velvet, jacquard, lace, sequin, mes...
@@ -3393,8 +3420,8 @@
   Updated: 2026-08-21T22:34:44Z
 - [Tablecloth Size Guide](https://clothandlinen.com/pages/size-guide): Tablecloth Size Guide Choosing the right tablecloth size starts with measuring your table and deciding how much overhang ("drop") you want. Use thi...
   Updated: 2026-07-29T19:16:19Z
-- [Fabric Calculator](https://clothandlinen.com/pages/fabric-calculator): Building a sukkah? Measure your walls and order no-fray velvet cut to your exact size on our Sukkah Velvet Shop page. Custom Tablecloth Calculator ...
-  Updated: 2026-08-30T17:46:51Z
+- [Fabric Calculator](https://clothandlinen.com/pages/fabric-calculator): Custom Tablecloth Calculator Need a custom size? Use our fabric calculator to get an instant quote, or email us at info@clothandlinen.com with your...
+  Updated: 2026-10-11T20:22:05Z
 - [Tablecloth Care Instructions](https://clothandlinen.com/pages/care-instructions): Tablecloth Care Instructions Most of our tablecloths are machine washable. For best results follow the general guidance below, and the fabric-speci...
   Updated: 2026-07-29T19:16:19Z
 - [Contact Us](https://clothandlinen.com/pages/contact): Get in Touch We're here to help with questions about sizing, custom orders, bulk pricing, or anything else. Email info@clothandlinen.comCopy email ...
@@ -3425,8 +3452,6 @@
   Updated: 2026-07-29T19:16:19Z
 - [Accessibility Statement](https://clothandlinen.com/pages/accessibility): We want this shop to work for everyone, including people using a keyboard, a screen reader, or a magnified display.If anything on this site is hard...
   Updated: 2026-07-29T19:16:19Z
-- [Velvet Sukkah Walls — Cut to Size | Cloth & Linen](https://clothandlinen.com/pages/sukkah-velvet-shop): אידיש חג סוכות שמח Velvet Walls for Your Sukkah Tell us your wall sizes. We cut every piece to size. The velvet doesn't fray, so there's nothing to...
-  Updated: 2026-09-02T15:47:50Z
 
 ## Policies
 
