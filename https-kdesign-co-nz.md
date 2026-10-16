@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-10-07T20:11:51Z
 - Contact Email: k@kdesign.co.nz
-- Updated At: 2026-10-08T02:14:01.177Z
+- Updated At: 2026-10-16T00:00:20.303Z
 
 ## Products
 
 - [Paperweight Ornaments](https://kdesign.co.nz/products/paperweight-ornament): Six iconic New Zealand animals, each one ready to travel the world with you. Whether you're heading overseas or simply want a little piece of New Zealand to keep, these charming ornaments make a gift worth giving. Small enough to tuck into any corner of a suitcase (45mm x 30mm), each one comes in its own special presentation box. Made from solid zinc alloy. Designed in New Zealand.
-  Updated: 2026-09-23T04:45:48Z
+  Updated: 2026-10-12T20:51:37Z
   Vendor: My Store
   Product Type: Figurine
   Availability: Available
@@ -546,7 +546,7 @@
   Updated: 2026-09-23T13:12:03Z
   Total Products: 15
 - [New Zealand](https://kdesign.co.nz/collections/new-zealand): Take home a little piece of New Zealand with these gorgeous New Zealand momentos.
-  Updated: 2026-09-23T13:12:03Z
+  Updated: 2026-10-13T11:24:39Z
   Total Products: 13
 
 ## Store Pages
