@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2026-07-07T23:54:29Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-10-08T00:00:35.176Z
+- Updated At: 2026-10-16T00:00:37.689Z
 
 Conscious Soulopreneur Africa is an independent publisher of philosophy and self-development books, authored by Carlos Ruben Lauthier Wendt. Our titles are available in English and Spanish, offered as instant digital downloads and print-on-demand physical copies fulfilled via Lulu. We are Africa-based with a global readership, focused on practical wisdom, conscious living, and personal transformation.
 
@@ -14,11 +14,11 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
 ## Products
 
 - [Self-Discovery eBook Transformation | Inner Potential](https://conscioussoulopreneur.africa/products/self-discovery-ebook-transformation): Self-Discovery eBook Transformation exploring inner potential, personal growth, identity, confidence, and meaningful change.
-  Updated: 2026-10-04T18:11:07Z
+  Updated: 2026-10-15T20:57:40Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1791045241
+  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1792097859
   Price: $6.00 USD
 - [Self-Discovery Memoir Hardcover | Who You Are](https://conscioussoulopreneur.africa/products/self-discovery-memoir-hardcover): Self-Discovery Memoir Hardcover explores identity, life experiences, personal growth, and the journey toward deeper self-understanding.
   Updated: 2026-10-04T18:07:18Z
@@ -56,11 +56,11 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/zmn7nn8-front-shortedge-384.jpg?v=1791045224
   Price: $6.00 USD
 - [Who Do You Think You Are Book | Self-Discovery](https://conscioussoulopreneur.africa/products/who-do-you-think-you-are-book): Who Do You Think You Are Book for spiritual self-discovery, reflection, personal growth, identity, purpose, and deeper self-awareness.
-  Updated: 2026-10-04T06:11:06Z
+  Updated: 2026-10-15T20:57:40Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: Book
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1791045241
+  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1792097859
   Price: $39.00 USD
 
 ## Collections
@@ -117,15 +117,29 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
   - [Embrace Spiritual Self-Discovery with Who Do You Think You Are Explore Self Growth through an eBook in Personal Development Focusing on Mind and Body Enhancement](https://conscioussoulopreneur.africa/blogs/news/embrace-spiritual-self-discovery-with-who-do-you-think-you-are-explore-self-growth-through-an-ebook-in-personal-development-focusing-on-mind-and-body-enhancement): Embrace Spiritual Self-Discovery with Who Do You Think You Are Explore Self Growth through an eBook in Personal Development Focusing on Mind and Body Enhancement
     Updated: 2026-10-06T21:00:21Z
     Author: Carlos Ruben Lauthier Wendt
+  - [Unlock Self Growth and Mind-Body Harmony with Our Transformative eBook in Personal Development Discover Your Conscious Me](https://conscioussoulopreneur.africa/blogs/news/unlock-self-growth-and-mind-body-harmony-with-our-transformative-ebook-in-personal-development-discover-your-conscious-me): Unlock Self Growth and Mind-Body Harmony with Our Transformative eBook in Personal Development Discover Your Conscious Me
+    Updated: 2026-10-08T21:00:20Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Navigate Your Path to Spiritual Enlightenment and Self Growth with the Transformative eBook in Personal Development](https://conscioussoulopreneur.africa/blogs/news/navigate-your-path-to-spiritual-enlightenment-and-self-growth-with-the-transformative-ebook-in-personal-development): Navigate Your Path to Spiritual Enlightenment and Self Growth with the Transformative eBook in Personal Development
+    Updated: 2026-10-10T21:01:00Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Unlock Your True Self with the Self-Discovery Memoir Comparing eBook Formats for Personal Development and Self Growth Mind and Body Adventures](https://conscioussoulopreneur.africa/blogs/news/unlock-your-true-self-with-the-self-discovery-memoir-comparing-ebook-formats-for-personal-development-and-self-growth-mind-and-body-adventures): Unlock Your True Self with the Self-Discovery Memoir Comparing eBook Formats for Personal Development and Self Growth Mind and Body Adventures
+    Updated: 2026-10-13T21:00:21Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Unlock Your Inner Self: Transformative Self Growth with Our eBook in Personal Development and Conscious Me](https://conscioussoulopreneur.africa/blogs/news/unlock-your-inner-self-transformative-self-growth-with-our-ebook-in-personal-development-and-conscious-me): Unlock Your Inner Self: Transformative Self Growth with Our eBook in Personal Development and Conscious Me
+    Updated: 2026-10-15T21:00:21Z
+    Author: Carlos Ruben Lauthier Wendt
 
 ## Store Pages
 
-- [Contact Us | Get in Touch With Our Team](https://conscioussoulopreneur.africa/pages/contact-us): Contact Us whenever you have a question, need assistance, or want to learn more about our products and services. Our goal is to make communication ...
-  Updated: 2026-10-04T13:13:41Z
+- [Contact Us | Get in Touch With Our Team](https://conscioussoulopreneur.africa/pages/contact-us): Business Name: Conscious SoulopreneurOwner: Carlos Ruben Lauthier WendtAddress: Bordertown, South Australia 5268, AustraliaEmail: 1serespiritual@gm...
+  Updated: 2026-10-15T19:25:39Z
 - [Your Privacy Choices | Privacy Settings](https://conscioussoulopreneur.africa/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-10-04T13:15:29Z
 - [HTML Sitemap | Website Navigation Guide](https://conscioussoulopreneur.africa/pages/html-sitemap): HTML Sitemap is an important website navigation tool that organizes your pages, products, categories, and other valuable content in one easy-to-use...
   Updated: 2026-10-04T13:05:20Z
+- [Frequently Asked Questions | Helpful Answers](https://conscioussoulopreneur.africa/pages/frequently-asked-questions): # Frequently Asked Questions About Our Products and Services Frequently Asked Questions are designed to provide clear and helpful answers to the th...
+  Updated: 2026-10-15T20:29:00Z
 
 ## Policies
 
