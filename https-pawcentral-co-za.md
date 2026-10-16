@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-10-04T00:00:39.998Z
+- Updated At: 2026-10-16T00:00:41.086Z
 
 ## Products
 
@@ -287,7 +287,7 @@
     Availability: Available
     Price: R 320.00 ZAR
 - [Tumbler Treat Ball for Engaged Play](https://pawcentral.co.za/products/fun-dog-pet-toy-interactive-tumbler-treat-ball-for-pets): Keep your pet entertained with our treat-dispensing tumbler ball. Combines fun with mental exercise — fill it up and let the fun begin!
-  Updated: 2026-09-10T03:44:06Z
+  Updated: 2026-10-06T14:48:04Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1095,7 +1095,7 @@
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202607030640Screenshot-2026-07-03-at-2.35.08_E2_80_AFAM.png?v=1786132924
   Price: R 299.00 ZAR
 - [Portable Leak-Proof Water Bottle for Dogs](https://pawcentral.co.za/products/portable-water-bottle-for-dogs-going-out): Ensure your dog stays hydrated on outdoor adventures with this portable water bottle. Perfect for travel and easy to use. Grab yours now!
-  Updated: 2026-09-11T00:24:23Z
+  Updated: 2026-10-06T14:48:07Z
   Vendor: eprolo
   Product Type: Pet Accessories
   Availability: Available
@@ -1120,16 +1120,16 @@
 ## Collections
 
 - [Home page](https://pawcentral.co.za/collections/frontpage): - PawCentral
-  Updated: 2026-09-06T20:09:34Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 9
 - [Home](https://pawcentral.co.za/collections/home): - PawCentral
-  Updated: 2026-09-06T20:09:34Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 9
 - [Pet Supplies](https://pawcentral.co.za/collections/pet-supplies): - PawCentral
   Updated: 2026-09-06T20:09:34Z
   Total Products: 12
 - [Hot Sellers](https://pawcentral.co.za/collections/hot-sellers): - PawCentral
-  Updated: 2026-09-06T20:09:34Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 9
 - [Grooming](https://pawcentral.co.za/collections/grooming): Keep your pet looking and feeling their best with our premium grooming tools. From self-cleaning combs and deshedding brushes to bath gloves and nail care kits — everything you need for a happy, healthy coat. - PawCentral
   Updated: 2026-09-06T20:09:34Z
@@ -1138,13 +1138,13 @@
   Updated: 2026-09-06T20:09:34Z
   Total Products: 16
 - [Toys](https://pawcentral.co.za/collections/toys): Keep your pet entertained and mentally stimulated with our range of fun toys. From squeaky plush toys and chew balls to interactive treat dispensers and automatic rolling balls — playtime sorted. - PawCentral
-  Updated: 2026-09-06T20:09:34Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 11
 - [Feeding](https://pawcentral.co.za/collections/feeding): Keep your pet well-fed and hydrated with our range of feeding essentials. From slow feeder bowls and automatic feeders to water fountains and collapsible travel bowls — mealtime made easy. - PawCentral
   Updated: 2026-09-06T20:09:34Z
   Total Products: 12
 - [Travel](https://pawcentral.co.za/collections/travel): Adventure awaits — bring your pet along for the ride. Our travel essentials include leashes, harnesses, car seat covers, portable water bottles, pet jackets and GPS trackers to keep your pet safe and comfortable on the go. - PawCentral
-  Updated: 2026-09-06T20:09:34Z
+  Updated: 2026-10-07T11:22:00Z
   Total Products: 11
 - [Wellness](https://pawcentral.co.za/collections/wellness): Support your pet's health from the inside out. Our wellness range includes multivitamins, dental care, flea collars, training aids and more — because a healthy pet is a happy pet. - PawCentral
   Updated: 2026-09-06T20:09:34Z
@@ -1411,6 +1411,21 @@
     Author: PawCentral
   - [How to Ease Anxiety in Pets During Natural Events](https://pawcentral.co.za/blogs/news/how-to-ease-anxiety-in-pets-during-natural-events): How to Ease Anxiety in Pets During Natural Events
     Updated: 2026-10-03T00:42:52Z
+    Author: PawCentral
+  - [The Fascinating Evolution of Veterinary  Over Time](https://pawcentral.co.za/blogs/news/the-fascinating-evolution-of-veterinary--over-time): The Fascinating Evolution of Veterinary  Over Time
+    Updated: 2026-10-05T02:27:44Z
+    Author: PawCentral
+  - [Caring for Aging Pets: Essential Tips for a Happy Life](https://pawcentral.co.za/blogs/news/caring-for-aging-pets-essential-tips-for-a-happy-life): Caring for Aging Pets: Essential Tips for a Happy Life
+    Updated: 2026-10-07T02:09:13Z
+    Author: PawCentral
+  - [Understanding Your Pet's Nutritional Requirements for Optimal Health](https://pawcentral.co.za/blogs/news/understanding-your-pets-nutritional-requirements-for-optimal-health): Understanding Your Pet's Nutritional Requirements for Optimal Health
+    Updated: 2026-10-10T00:32:22Z
+    Author: PawCentral
+  - [Discovering the Secrets to a Stress-Free Vet Visit for Your Pet](https://pawcentral.co.za/blogs/news/discovering-the-secrets-to-a-stress-free-vet-visit-for-your-pet): Discovering the Secrets to a Stress-Free Vet Visit for Your Pet
+    Updated: 2026-10-12T02:41:45Z
+    Author: PawCentral
+  - [How to Establish a Successful Morning Routine with Your Pet](https://pawcentral.co.za/blogs/news/how-to-establish-a-successful-morning-routine-with-your-pet): How to Establish a Successful Morning Routine with Your Pet
+    Updated: 2026-10-14T05:49:09Z
     Author: PawCentral
 
 ## Store Pages
