@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-10-09T04:00:39.627Z
+- Updated At: 2026-10-16T04:00:41.850Z
 
 ## Products
 
@@ -4515,22 +4515,22 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-10-08T11:27:37Z
+  Updated: 2026-10-15T11:24:03Z
   Total Products: 419
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
-  Updated: 2026-10-07T11:28:43Z
+  Updated: 2026-10-15T11:24:03Z
   Total Products: 90
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
-  Updated: 2026-10-08T11:27:37Z
+  Updated: 2026-10-15T11:24:03Z
   Total Products: 83
 - [Bowtie Nation T-shirt](https://legend1apparel.com/collections/bowtie-nation-t-shirt): Shop the Bowtie Nation T-shirt collection at Legend 1 Apparel.
-  Updated: 2026-08-20T11:27:25Z
+  Updated: 2026-10-13T11:25:40Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-10-08T11:27:37Z
+  Updated: 2026-10-13T11:25:40Z
   Total Products: 86
 - [Route 66 America's Heartland](https://legend1apparel.com/collections/route-66-americas-heartland): Shop Route 66 America's Heartland graphic tees. Bold Americana designs inspired by the iconic highway and classic roadside culture.
-  Updated: 2026-09-23T11:27:35Z
+  Updated: 2026-10-14T11:28:11Z
   Total Products: 84
 - [Your Car Custom T-shirt](https://legend1apparel.com/collections/your-car-custom-t-shirt)
   Updated: 2026-10-07T02:33:50Z
