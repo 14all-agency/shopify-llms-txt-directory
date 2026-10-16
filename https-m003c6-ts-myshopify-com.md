@@ -6,7 +6,7 @@
 - Timezone: America/Mazatlan
 - Created At: 2026-09-23T15:47:32Z
 - Contact Email: soporte.zoraterapeutica@gmail.com
-- Updated At: 2026-10-09T00:00:21.792Z
+- Updated At: 2026-10-16T00:00:25.540Z
 
 ## Products
 
@@ -711,72 +711,72 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S42518255e31a4fe2ab2940f3871578eb3.webp?v=1790966894
   Price: 1999,00 $ MXN
-- [Casco LED para Cuidado Capilar | ZORA-WELLS](https://m003c6-ts.myshopify.com/products/lescolton-men-hair-growth-cap-lllt-helmet-hair-regrowth-hair-loss--hair-fast-growth-anti-hair-loss-machine): Casco LED de baja energía para complementar tu rutina de cuidado del cuero cabelludo. 56 fuentes de luz, 650 nm y 4 modos según la configuración del proveedor.
-  Updated: 2026-10-08T18:24:29Z
+- [Casco LED para Cuidado Capilar | ZORA-WELLS](https://m003c6-ts.myshopify.com/products/oucey-casco-led-para-cuidado-del-cuero-cabelludo): Casco LED de baja energía para complementar tu rutina de cuidado del cuero cabelludo. 56 fuentes de luz, 650 nm y 4 modos según la configuración del proveedor.
+  Updated: 2026-10-11T10:46:15Z
   Vendor: ZORA-WELLS 
   Product Type: Dispositivo LED para cuidado capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sdbec191504354af291b788e3bb0522f8A.webp?v=1791481027
-  - [220V](https://m003c6-ts.myshopify.com/products/lescolton-men-hair-growth-cap-lllt-helmet-hair-regrowth-hair-loss--hair-fast-growth-anti-hair-loss-machine?variant=67670098706734)
+  - [220V](https://m003c6-ts.myshopify.com/products/oucey-casco-led-para-cuidado-del-cuero-cabelludo?variant=67670098706734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sfff05dbbf57a4e3db303fd567361c7cdw.webp?v=1791481028
     Price: 6499,00 $ MXN
-  - [110V](https://m003c6-ts.myshopify.com/products/lescolton-men-hair-growth-cap-lllt-helmet-hair-regrowth-hair-loss--hair-fast-growth-anti-hair-loss-machine?variant=67670098739502)
+  - [110V](https://m003c6-ts.myshopify.com/products/oucey-casco-led-para-cuidado-del-cuero-cabelludo?variant=67670098739502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sfff05dbbf57a4e3db303fd567361c7cdw.webp?v=1791481028
     Price: 6499,00 $ MXN
-- [Cepillo Eléctrico Capilar con Luz Roja 630 nm](https://m003c6-ts.myshopify.com/products/3-modes-electric-massage-comb-portable-red-light-laser-comb-for-hair-follicle-hair-follicles-on-the-head-essence-oil-applicator): Cepillo eléctrico para cuero cabelludo con luz roja de 630 nm, 3 modos de masaje, depósito de 6 ml y 8 rodillos para distribuir productos capilares.
-  Updated: 2026-10-08T18:24:46Z
+- [Cepillo Eléctrico Capilar con Luz Roja 630 nm](https://m003c6-ts.myshopify.com/products/paqin-cepillo-electrico-para-cuero-cabelludo-con-luz-roja): Cepillo eléctrico para cuero cabelludo con luz roja de 630 nm, 3 modos de masaje, depósito de 6 ml y 8 rodillos para distribuir productos capilares.
+  Updated: 2026-10-11T10:46:15Z
   Vendor: ZORA-WELLS 
   Product Type: Cepillo eléctrico para cuidado capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sa5927611c818442093a2590c073949df7.webp?v=1791481029
-  - [MA-017  Red](https://m003c6-ts.myshopify.com/products/3-modes-electric-massage-comb-portable-red-light-laser-comb-for-hair-follicle-hair-follicles-on-the-head-essence-oil-applicator?variant=67670098837806)
+  - [MA-017  Red](https://m003c6-ts.myshopify.com/products/paqin-cepillo-electrico-para-cuero-cabelludo-con-luz-roja?variant=67670098837806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sf89d0929f68a4e9bb312cbda3b5f1369c.webp?v=1791481028
     Price: 699,00 $ MXN
-  - [MA-017 Purple](https://m003c6-ts.myshopify.com/products/3-modes-electric-massage-comb-portable-red-light-laser-comb-for-hair-follicle-hair-follicles-on-the-head-essence-oil-applicator?variant=67670098870574)
+  - [MA-017 Purple](https://m003c6-ts.myshopify.com/products/paqin-cepillo-electrico-para-cuero-cabelludo-con-luz-roja?variant=67670098870574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sa0deb9bb947e4c83b79f1bdd2ec5df10j.webp?v=1791481029
     Price: 699,00 $ MXN
-- [Masajeador Eléctrico Cuero Cabelludo 4 Cabezales](https://m003c6-ts.myshopify.com/products/rechargeable-waterproof-electric-scalp-massager-handheld-head-massager-with-4-massage-claws-for-stress-relax-body-neck-back-pet): Masajeador eléctrico recargable con 4 cabezales y puntas de silicona para complementar una rutina de relajación y cuidado del cuero cabelludo.
-  Updated: 2026-10-08T18:07:45Z
+- [Masajeador Eléctrico Cuero Cabelludo 4 Cabezales](https://m003c6-ts.myshopify.com/products/masajeador-electrico-de-cuero-cabelludo-4-cabezales): Masajeador eléctrico recargable con 4 cabezales y puntas de silicona para complementar una rutina de relajación y cuidado del cuero cabelludo.
+  Updated: 2026-10-11T10:46:11Z
   Vendor: ZORA-WELLS 
   Product Type: Masajeador eléctrico capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S94f9f53dcb8e4165a8005726530ba356F.webp?v=1791481029
-  - [Rose Red](https://m003c6-ts.myshopify.com/products/rechargeable-waterproof-electric-scalp-massager-handheld-head-massager-with-4-massage-claws-for-stress-relax-body-neck-back-pet?variant=67670099001646)
+  - [Rose Red](https://m003c6-ts.myshopify.com/products/masajeador-electrico-de-cuero-cabelludo-4-cabezales?variant=67670099001646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S66a179da4e69441b8556c32d4e157729X.webp?v=1791481029
     Price: 899,00 $ MXN
-  - [Silver](https://m003c6-ts.myshopify.com/products/rechargeable-waterproof-electric-scalp-massager-handheld-head-massager-with-4-massage-claws-for-stress-relax-body-neck-back-pet?variant=67670099034414)
+  - [Silver](https://m003c6-ts.myshopify.com/products/masajeador-electrico-de-cuero-cabelludo-4-cabezales?variant=67670099034414)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S171666bbfb634368be468e469f893c71w.webp?v=1791481029
     Price: 899,00 $ MXN
-  - [White B](https://m003c6-ts.myshopify.com/products/rechargeable-waterproof-electric-scalp-massager-handheld-head-massager-with-4-massage-claws-for-stress-relax-body-neck-back-pet?variant=67670099067182)
+  - [White B](https://m003c6-ts.myshopify.com/products/masajeador-electrico-de-cuero-cabelludo-4-cabezales?variant=67670099067182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/Sf3bbb1712a3a4300919742f0615ad41e9.webp?v=1791481029
     Price: 899,00 $ MXN
-- [Sérum Capilar GHK-Cu Péptido de Cobre 60 ml](https://m003c6-ts.myshopify.com/products/hoegoa-ghk-cu-copper-peptide-hair-serum-improve-dry-split-plit-hair-end-repair-scalp-barrier-fast-absorption-hair-repair-essence): Sérum capilar con péptido de cobre GHK-Cu, textura ligera y aplicación directa sobre el cuero cabelludo. Ideal para complementar una rutina de cuidado capilar.
-  Updated: 2026-10-08T18:08:34Z
+- [Sérum Capilar GHK-Cu Péptido de Cobre 60 ml](https://m003c6-ts.myshopify.com/products/hoegoa-serum-capilar-con-peptido-de-cobre-ghk-cu-60-ml): Sérum capilar con péptido de cobre GHK-Cu, textura ligera y aplicación directa sobre el cuero cabelludo. Ideal para complementar una rutina de cuidado capilar.
+  Updated: 2026-10-11T10:46:11Z
   Vendor: ZORA-WELLS 
   Product Type: Sérum capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S36dd6b7225dc47dd9f31e66b48238299e.webp?v=1791481029
-  - [2 X 60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-ghk-cu-copper-peptide-hair-serum-improve-dry-split-plit-hair-end-repair-scalp-barrier-fast-absorption-hair-repair-essence?variant=67670099132718)
+  - [2 X 60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-serum-capilar-con-peptido-de-cobre-ghk-cu-60-ml?variant=67670099132718)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S5d9e56333a3d47f1b80eefc8af9dbe87S.webp?v=1791481030
     Price: 1099,00 $ MXN
-  - [60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-ghk-cu-copper-peptide-hair-serum-improve-dry-split-plit-hair-end-repair-scalp-barrier-fast-absorption-hair-repair-essence?variant=67670099165486)
+  - [60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-serum-capilar-con-peptido-de-cobre-ghk-cu-60-ml?variant=67670099165486)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S13060e39c65546bcaa41d822e0648635G.webp?v=1791481029
     Price: 599,00 $ MXN
-  - [3 X 60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-ghk-cu-copper-peptide-hair-serum-improve-dry-split-plit-hair-end-repair-scalp-barrier-fast-absorption-hair-repair-essence?variant=67670099198254)
+  - [3 X 60ml boxed](https://m003c6-ts.myshopify.com/products/hoegoa-serum-capilar-con-peptido-de-cobre-ghk-cu-60-ml?variant=67670099198254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/3780/1774/files/S226e21d1aa5d46a88b5eb6a2da308aaaH.webp?v=1791481030
     Price: 1599,00 $ MXN
 - [OUCEY Casco LED Capilar 650 nm + Kit de Cuidado](https://m003c6-ts.myshopify.com/products/oucey-casco-led-capilar-650-nm-kit-de-cuidado): Kit de cuidado capilar completo para complementar tu rutina de cuidado del cuero cabelludo en casa.Contenido del kit: OUCEY Casco LED para Cuidado del Cuero Cabelludo HOEGOA Sérum Capilar con Péptido de Cobre GHK-Cu 60 ml PAQIN Cepillo Eléctrico para Cuero Cabelludo con Luz Roja Masajeador Eléctrico de Cuero Cabelludo 4 Cabezales Una selección de dispositivos y cuidado capilar diseñada para integrar luz roja, masaje y aplicación de productos en una sola rutina.Precio del kit: $7,499 MXN.Las especificaciones técnicas corresponden a cada producto incluido y pueden variar según la configuración eléctrica seleccionada del casco.
-  Updated: 2026-10-08T18:04:51Z
+  Updated: 2026-10-11T10:46:15Z
   Vendor: ZORA-WELLS
   Product Type: Kit de cuidado capilar
   Availability: Available
@@ -856,16 +856,37 @@
     Updated: 2026-10-05T02:08:04Z
     Author: Admin
   - [Máscara LED para acné: cómo usarla bien](https://m003c6-ts.myshopify.com/blogs/news/mascara-led-para-acne-como-usarla-bien): Máscara LED para acné: cómo usarla bien
-    Updated: 2026-10-06T02:06:44Z
+    Updated: 2026-10-11T10:46:25Z
     Author: Admin
   - [Cómo usar máscara LED facial sin complicarte](https://m003c6-ts.myshopify.com/blogs/news/como-usar-mascara-led-facial-sin-complicarte): Cómo usar máscara LED facial sin complicarte
-    Updated: 2026-10-07T02:07:38Z
+    Updated: 2026-10-11T10:46:21Z
     Author: Admin
   - [Recuperación muscular en casa sin complicaciones](https://m003c6-ts.myshopify.com/blogs/news/recuperacion-muscular-en-casa-sin-complicaciones): Recuperación muscular en casa sin complicaciones
-    Updated: 2026-10-08T02:06:13Z
+    Updated: 2026-10-11T10:46:29Z
     Author: Admin
-  - [Productos CeraVe para piel seca y rutina diaria](https://m003c6-ts.myshopify.com/blogs/news/productos-cerave-piel-seca-rutina-diaria): Productos CeraVe para piel seca y rutina diaria
-    Updated: 2026-10-08T03:34:27Z
+  - [Productos CeraVe para piel seca y rutina diaria](https://m003c6-ts.myshopify.com/blogs/news/productos-cerave-para-piel-seca-y-rutina-diaria): Productos CeraVe para piel seca y rutina diaria
+    Updated: 2026-10-11T10:46:26Z
+    Author: Admin
+  - [Mejores productos The Ordinary para tu piel](https://m003c6-ts.myshopify.com/blogs/news/mejores-productos-the-ordinary-para-tu-piel): Mejores productos The Ordinary para tu piel
+    Updated: 2026-10-11T10:46:24Z
+    Author: Admin
+  - [COSRX esencia de caracol para una piel hidratada](https://m003c6-ts.myshopify.com/blogs/news/cosrx-esencia-de-caracol-para-una-piel-hidratada): COSRX esencia de caracol para una piel hidratada
+    Updated: 2026-10-11T10:46:20Z
+    Author: Admin
+  - [Productos LAIKOU para el rostro: cómo elegirlos](https://m003c6-ts.myshopify.com/blogs/news/productos-laikou-para-el-rostro-como-elegirlos): Productos LAIKOU para el rostro: cómo elegirlos
+    Updated: 2026-10-11T10:46:27Z
+    Author: Admin
+  - [Ácido hialurónico para una piel hidratada](https://m003c6-ts.myshopify.com/blogs/news/acido-hialuronico-para-una-piel-hidratada): Ácido hialurónico para una piel hidratada
+    Updated: 2026-10-12T02:14:55Z
+    Author: Admin
+  - [Guía barrera cutánea para una piel más tranquila](https://m003c6-ts.myshopify.com/blogs/news/guia-barrera-cutanea-para-una-piel-mas-tranquila): Guía barrera cutánea para una piel más tranquila
+    Updated: 2026-10-13T02:02:06Z
+    Author: Admin
+  - [Retinol versus bakuchiol: ¿cuál te conviene?](https://m003c6-ts.myshopify.com/blogs/news/retinol-versus-bakuchiol-cual-te-conviene): Retinol versus bakuchiol: ¿cuál te conviene?
+    Updated: 2026-10-14T02:16:51Z
+    Author: Admin
+  - [Cómo limpiar brochas sin estropear sus cerdas](https://m003c6-ts.myshopify.com/blogs/news/como-limpiar-brochas-sin-estropear-sus-cerdas): Cómo limpiar brochas sin estropear sus cerdas
+    Updated: 2026-10-15T03:18:09Z
     Author: Admin
 
 ## Store Pages
