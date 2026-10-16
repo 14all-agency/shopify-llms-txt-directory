@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-16T02:56:27Z
 - Contact Email: support@peamactees.com
-- Updated At: 2026-10-06T00:00:30.747Z
+- Updated At: 2026-10-16T00:00:33.053Z
 
 PeaMacTees is a Canadian online apparel brand offering fun, expressive, and giftable graphic t-shirts and accessories. Our collections focus on hobbies, lifestyle passions, and feel-good self-expression, including pickleball, pets, positivity themes, and playful personality statements.
 
