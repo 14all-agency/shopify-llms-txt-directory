@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-10-10T00:00:37.897Z
+- Updated At: 2026-10-17T00:00:39.431Z
 
 ## Products
 
@@ -113,6 +113,14 @@
     Updated: 2026-10-08T12:02:18Z
     Author: CHEETALS
     Tags: due diligence process, financial freedom, first time home buyers, first time home buyers guide, home buyer due-diligence, home buying, , mortgage, passive income, real estate
+  - [First Time Home Buyers Guide to the Smart Home Buyer Bundle for Effective Due Diligence](https://cheetals.com/blogs/news/first-time-home-buyers-guide-to-the-smart-home-buyer-bundle-for-effective-due-diligence): First Time Home Buyers Guide to the Smart Home Buyer Bundle for Effective Due Diligence
+    Updated: 2026-10-13T12:02:02Z
+    Author: CHEETALS
+    Tags: due diligence, first time home buyers, home buyer, home buyer due-diligence, income, , passive income, passive income strategies, real estate, smart homes
+  - [Essential Due Diligence Tips for Aspiring Real Estate Investors](https://cheetals.com/blogs/news/essential-due-diligence-tips-for-aspiring-real-estate-investors): Essential Due Diligence Tips for Aspiring Real Estate Investors
+    Updated: 2026-10-15T12:00:55Z
+    Author: CHEETALS
+    Tags: due diligence, essential real estate advice, first time home buyers, home buyer due-diligence, income, , passive income, property , real estate, real estate strategy tips
 
 ## Store Pages
 
