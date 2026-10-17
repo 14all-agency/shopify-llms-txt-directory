@@ -8,12 +8,12 @@
 - Contact Email: info@sarahelisejewelry.com
 - Contact Phone: +1 212-871-0787
 - Address: 243 W 30th St Ste 400, New York, NY 10001
-- Updated At: 2026-10-10T12:00:47.606Z
+- Updated At: 2026-10-17T12:00:48.912Z
 
 ## Products
 
 - [Handcrafted In Solid Gold Diamond Chain Ring](https://www.sarahelisejewelry.com/products/diamond-chain-link-ring-millie): Add a touch of elegance with our Diamond Chain Link Ring, crafted from 14k solid gold. This dainty yet striking ring features a unique chain link design adorned with sparkling diamonds, offering a timeless blend of sophistication and modern style.
-  Updated: 2026-10-07T01:01:47Z
+  Updated: 2026-10-12T23:35:44Z
   Vendor: SARAH ELISE
   Product Type: Natural Diamond
   Availability: Available
@@ -825,7 +825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0549/2647/5519/products/Rose_Gold_Four_Diamond_Marquise_Flower_Studs.jpg?v=1726765322
     Price: $2,792.00 USD
 - [Solid Gold Natural Diamond Lightning Bolt Studs | Handmade Jewelry](https://www.sarahelisejewelry.com/products/bold-diamond-lightning-bolt-studs-electra): BE THE STORM! These lightning bolt stud earrings are a stylish way to make a powerful statement. Handcrafted with care, these large studs feature Natural Diamonds.
-  Updated: 2026-10-07T01:01:45Z
+  Updated: 2026-10-15T13:25:46Z
   Vendor: SARAH ELISE
   Product Type: Natural Diamond
   Availability: Available
@@ -903,7 +903,7 @@
     Image: https://cdn.shopify.com/s/files/1/0549/2647/5519/products/Solid_Rose_Gold_Natural_Diamond_Studs.jpg?v=1726759511
     Price: $570.00 USD
 - [Solid Gold Natural Diamond Moon Stud Earrings | Handmade Jewelry](https://www.sarahelisejewelry.com/products/diamond-moon-studs-luna): The world is a brighter place with these dainty Natural Diamond moon studs! A celestial addition to any jewelry collection these studs are the perfect addition to any jewelry collection.
-  Updated: 2026-10-07T01:01:44Z
+  Updated: 2026-10-14T16:35:22Z
   Vendor: SARAH ELISE
   Product Type: Natural Diamond
   Availability: Available
@@ -1987,149 +1987,149 @@
 ## Collections
 
 - [Diamond Rings](https://www.sarahelisejewelry.com/collections/diamond-ring): Explore our exquisite collection of Diamond Rings, featuring timeless designs perfect for any occasion.
-  Updated: 2026-10-09T15:19:21Z
+  Updated: 2026-10-15T11:10:36Z
   Total Products: 135
 - [Diamond Bracelets](https://www.sarahelisejewelry.com/collections/diamond-bracelets): Explore our exquisite collection of Diamond Bracelets, featuring stunning designs that elevate any outfit and occasion.
-  Updated: 2026-10-09T12:46:25Z
-  Total Products: 236
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 247
 - [Gold Rings](https://www.sarahelisejewelry.com/collections/gold-rings): Discover our stunning collection of gold rings, perfect for any occasion. Explore unique designs that elevate your style.
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-12T16:39:26Z
   Total Products: 35
 - [Plain Gold Bracelets](https://www.sarahelisejewelry.com/collections/gold-bracelets): Explore our exquisite collection of plain gold bracelets, perfect for any occasion. Discover timeless elegance and style today!
-  Updated: 2026-10-09T11:10:29Z
-  Total Products: 51
+  Updated: 2026-10-16T14:38:15Z
+  Total Products: 66
 - [Gemstone Bracelets](https://www.sarahelisejewelry.com/collections/gemstone-bracelets): Gemstone bracelets in solid gold. Vibrant stones add color and elegance to any style.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 71
+  Updated: 2026-10-16T12:58:52Z
+  Total Products: 72
 - [All Gold Products](https://www.sarahelisejewelry.com/collections/all-gold-products): Discover exquisite All Gold Products designed to elevate your style. Shop our luxurious collection now and enjoy timeless elegance.
-  Updated: 2026-10-09T15:56:34Z
-  Total Products: 116
+  Updated: 2026-10-16T16:20:55Z
+  Total Products: 179
 - [Shop All](https://www.sarahelisejewelry.com/collections/shop-all)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2859
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 2946
 - [Earrings](https://www.sarahelisejewelry.com/collections/earrings): Explore our stunning collection of earrings that add elegance and charm to any outfit. Find your perfect pair today!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 706
 - [Necklaces](https://www.sarahelisejewelry.com/collections/necklaces): Explore our exquisite collection of necklaces, perfect for every occasion and style. Find your ideal piece today!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 667
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 706
 - [Rings](https://www.sarahelisejewelry.com/collections/rings)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 1051
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 1052
 - [Ready to Ship](https://www.sarahelisejewelry.com/collections/ready-to-ship)
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 325
 - [Bracelets](https://www.sarahelisejewelry.com/collections/bracelets)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 339
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 372
 - [Necklace Chains](https://www.sarahelisejewelry.com/collections/chains): Necklace chains crafted in solid gold offer timeless versatility, perfect for layering or showcasing your favorite pendants.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 34
+  Updated: 2026-10-16T15:41:39Z
+  Total Products: 35
 - [Studs](https://www.sarahelisejewelry.com/collections/studs)
-  Updated: 2026-10-06T13:01:51Z
+  Updated: 2026-10-16T14:34:50Z
   Total Products: 25
 - [Dangly and Chain Earrings](https://www.sarahelisejewelry.com/collections/dangly-and-chain-earrings): Dangly and chain earrings crafted in solid gold feature delicate diamonds or gemstones, adding movement, sparkle, and elegance to any look.
-  Updated: 2026-10-09T18:48:39Z
+  Updated: 2026-10-16T15:52:58Z
   Total Products: 100
 - [Stud Earrings](https://www.sarahelisejewelry.com/collections/stud-earrings): Stud earrings crafted in solid gold offer timeless elegance and everyday versatility, featuring diamonds or gemstones for a refined touch.
-  Updated: 2026-10-09T19:04:02Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 311
 - [Huggies & Hoops](https://www.sarahelisejewelry.com/collections/huggies-hoops): Discover the charm of Huggies & Hoops collection featuring quality products for comfort and style for every adventure.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T16:23:11Z
   Total Products: 273
 - [Eternity Rings](https://www.sarahelisejewelry.com/collections/eternity-rings): Eternity rings symbolize endless love, featuring a continuous band of diamonds or gemstones in solid gold.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-15T11:10:36Z
   Total Products: 95
 - [Stacking Rings](https://www.sarahelisejewelry.com/collections/stackable-rings): Stacking rings let you mix, match, and layer solid gold bands with diamonds or gemstones for a personalized, timeless look.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T18:21:28Z
   Total Products: 563
 - [Signet Rings](https://www.sarahelisejewelry.com/collections/signet-rings): Signet rings combine timeless style and meaning, crafted in solid gold and perfect for personalization or everyday elegance.
-  Updated: 2026-10-09T16:31:53Z
+  Updated: 2026-10-12T14:37:27Z
   Total Products: 48
 - [Chain Rings](https://www.sarahelisejewelry.com/collections/chain-rings): Chain rings offer a modern, flexible design crafted in solid gold, combining comfort, movement, and effortless elegance.
-  Updated: 2026-10-09T16:15:11Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 38
 - [Pendant Necklaces](https://www.sarahelisejewelry.com/collections/pendant-necklaces): Dainty pendant necklaces crafted in solid gold. timeless designs featuring diamonds and gemstones for effortless, everyday elegance.
-  Updated: 2026-10-09T15:09:02Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 400
 - [Layering Necklaces](https://www.sarahelisejewelry.com/collections/layering-necklaces): Discover exquisite necklaces in solid gold, designed for effortless layering with diamonds and gemstones for timeless luxury.
-  Updated: 2026-10-09T14:42:23Z
-  Total Products: 99
+  Updated: 2026-10-16T16:19:03Z
+  Total Products: 102
 - [Lariat Necklaces](https://www.sarahelisejewelry.com/collections/lariat-necklaces): Elegant lariat necklaces crafted in solid gold. Designed with delicate chains and diamond or gemstone accents for a sophisticated, modern look.
-  Updated: 2026-10-09T07:00:56Z
-  Total Products: 16
+  Updated: 2026-10-16T18:42:29Z
+  Total Products: 18
 - [Charms](https://www.sarahelisejewelry.com/collections/charms): Discover beautiful charms to elevate your style. Shop unique charms that express your personality.
-  Updated: 2026-10-09T15:05:26Z
-  Total Products: 134
+  Updated: 2026-10-16T22:01:26Z
+  Total Products: 177
 - [Wedding Jewelry](https://www.sarahelisejewelry.com/collections/wedding-jewelry): Explore our elegant jewelry collection for weddings, featuring stunning pieces for every bride.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 649
+  Updated: 2026-10-16T18:21:28Z
+  Total Products: 651
 - [Wedding Rings](https://www.sarahelisejewelry.com/collections/wedding-rings): Discover an unparalleled selection of rings, including beautiful wedding bands in gold and platinum. Shop now for the perfect wedding ring!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 257
+  Updated: 2026-10-16T18:21:28Z
+  Total Products: 258
 - [Bridal Jewelry](https://www.sarahelisejewelry.com/collections/bridal-jewelry): Explore our exquisite bridal jewelry selection, perfect for your special day. Find stunning pieces that complete your bridal look.
-  Updated: 2026-10-09T15:58:30Z
-  Total Products: 330
+  Updated: 2026-10-16T16:11:34Z
+  Total Products: 337
 - [Personalized Jewelry](https://www.sarahelisejewelry.com/collections/personalized-jewelry): Explore our personalized jewelry collection to find unique pieces tailored just for you.
-  Updated: 2026-10-08T15:06:16Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 106
 - [Personalized Earrings](https://www.sarahelisejewelry.com/collections/personalized-earrings): Explore our stunning personalized earrings collection. Custom initials, timeless gold designs, and diamonds make these earrings special.
-  Updated: 2026-10-07T11:11:16Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 5
 - [Personalized Rings](https://www.sarahelisejewelry.com/collections/personalized-rings): Explore our stunning collection of Personalized Rings, perfect for showcasing your unique style and creating meaningful connections.
   Updated: 2026-10-05T19:28:07Z
   Total Products: 21
 - [Personalized Necklaces](https://www.sarahelisejewelry.com/collections/personalized-necklaces): Personalized necklaces in solid gold. Custom names, initials, or symbols make each piece uniquely yours.
-  Updated: 2026-10-09T13:45:01Z
+  Updated: 2026-10-13T18:48:04Z
   Total Products: 42
 - [Personalized Bracelets](https://www.sarahelisejewelry.com/collections/personalized-bracelets): Personalized bracelets in solid gold. Custom names or initials make each piece uniquely yours.
   Updated: 2026-10-05T19:29:05Z
   Total Products: 14
 - [Birthstone Jewelry](https://www.sarahelisejewelry.com/collections/birthstone-jewelry): Explore our stunning collection of Birthstone Jewelry, perfect for adding a personal touch to any outfit or occasion.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 743
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 741
 - [Garnet Jewelry](https://www.sarahelisejewelry.com/collections/garnet-jewelry): Explore our stunning collection of Garnet Jewelry, featuring exquisite designs that enhance your style and elevate your elegance.
-  Updated: 2026-10-09T14:17:51Z
+  Updated: 2026-10-14T11:10:02Z
   Total Products: 29
 - [Amethyst Jewelry](https://www.sarahelisejewelry.com/collections/amethyst-jewelry): Explore our stunning collection of Amethyst Jewelry, featuring unique designs that capture the beauty of this precious gemstone.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-14T14:13:23Z
   Total Products: 33
 - [Aquamarine Jewelry](https://www.sarahelisejewelry.com/collections/aquamarine-jewelry): Explore our stunning collection of Aquamarine Jewelry that captures the beauty of the ocean, perfect for enhancing any outfit.
   Updated: 2026-10-09T13:38:36Z
   Total Products: 26
 - [Diamond Jewelry](https://www.sarahelisejewelry.com/collections/diamond-jewelry): Discover our exquisite range of Diamond Jewelry, perfect for every occasion. Elegance and sparkle await you in every piece.
-  Updated: 2026-10-09T14:30:33Z
-  Total Products: 114
+  Updated: 2026-10-16T15:52:58Z
+  Total Products: 115
 - [Emerald Jewelry](https://www.sarahelisejewelry.com/collections/emerald-jewelry-1): Discover exquisite Emerald Jewelry that showcases stunning green gems, perfect for any elegant occasion. Shop our unique collection today!
-  Updated: 2026-10-09T16:22:37Z
-  Total Products: 228
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 230
 - [Moonstone Jewelry](https://www.sarahelisejewelry.com/collections/moonstone-jewelry): Explore our exquisite collection of Moonstone Jewelry, featuring unique designs that capture the beauty and mystique of this stunning gemstone.
-  Updated: 2026-10-09T14:11:59Z
+  Updated: 2026-10-13T16:22:36Z
   Total Products: 11
 - [Ruby Jewelry](https://www.sarahelisejewelry.com/collections/ruby-jewelry): Explore our exquisite Ruby Jewelry collection, featuring stunning pieces that embody elegance and style. Perfect for any occasion.
-  Updated: 2026-10-09T15:11:04Z
+  Updated: 2026-10-16T15:52:26Z
   Total Products: 89
 - [Peridot Jewelry](https://www.sarahelisejewelry.com/collections/peridot-jewelry): Discover our stunning collection of Peridot Jewelry, featuring exquisite designs perfect for any occasion. Elevate your style with unique pieces!
-  Updated: 2026-10-09T13:58:39Z
+  Updated: 2026-10-14T11:13:50Z
   Total Products: 57
 - [Sapphire Jewelry](https://www.sarahelisejewelry.com/collections/blue-sapphire-jewelry): Explore our exquisite Sapphire Jewelry collection, featuring stunning designs that elevate your style and celebrate elegance.
-  Updated: 2026-10-09T14:07:36Z
-  Total Products: 168
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 169
 - [Opal Jewelry](https://www.sarahelisejewelry.com/collections/opal-jewelry): Discover stunning Opal Jewelry that embodies elegance and unique beauty. Shop our exclusive collection today and find your perfect piece!
-  Updated: 2026-10-08T15:57:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 18
 - [Citrine Jewelry](https://www.sarahelisejewelry.com/collections/citrine-jewelry): Discover stunning Citrine Jewelry handcrafted to elevate your style and bring warmth to any outfit. Perfect for every occasion!
-  Updated: 2026-10-09T14:11:03Z
-  Total Products: 71
+  Updated: 2026-10-16T18:42:29Z
+  Total Products: 73
 - [Blue Topaz Jewelry](https://www.sarahelisejewelry.com/collections/blue-topaz-jewelry): Discover exquisite Blue Topaz Jewelry that adds elegance and charm to any outfit. Shop our unique collection today!
-  Updated: 2026-10-09T13:56:09Z
-  Total Products: 50
+  Updated: 2026-10-14T16:18:18Z
+  Total Products: 51
 - [New Arrivals](https://www.sarahelisejewelry.com/collections/new-arrivals): New Arrivals are here! Discover the latest styles and trends that will elevate your wardrobe and make a statement.
-  Updated: 2026-10-09T16:31:53Z
-  Total Products: 360
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 437
 - [Best Sellers](https://www.sarahelisejewelry.com/collections/best-sellers-1): Explore our Best Sellers collection featuring top-rated products that our customers love. Find your favorites today!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 136
+  Updated: 2026-10-16T15:41:39Z
+  Total Products: 168
 - [Tanzanite Jewelry](https://www.sarahelisejewelry.com/collections/tanzanite-jewelry): Explore our exquisite Tanzanite Jewelry collection, featuring stunning pieces that enhance your elegance and style. Shop now!
   Updated: 2026-10-09T14:49:06Z
   Total Products: 9
@@ -2137,203 +2137,200 @@
   Updated: 2026-10-09T14:00:03Z
   Total Products: 8
 - [Religious and Symbolic Gifts](https://www.sarahelisejewelry.com/collections/rligious-and-symbolic)
-  Updated: 2026-10-09T14:56:01Z
+  Updated: 2026-10-16T16:05:14Z
   Total Products: 143
 - [Gifts Under $250](https://www.sarahelisejewelry.com/collections/under-250)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 131
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 132
 - [Gifts Under $500](https://www.sarahelisejewelry.com/collections/gifts-under-500)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 857
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 862
 - [Gifts Under $1000](https://www.sarahelisejewelry.com/collections/gifts-between-500-and-1000)
-  Updated: 2026-10-09T16:22:37Z
-  Total Products: 797
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 836
 - [Over $1000](https://www.sarahelisejewelry.com/collections/over-1000): Discover our exclusive collection over $1000 featuring top-quality items that elevate your lifestyle. Shop now and find the perfect addition!
-  Updated: 2026-10-09T16:02:50Z
-  Total Products: 276
+  Updated: 2026-10-16T15:22:28Z
+  Total Products: 287
 - [Most Gifted](https://www.sarahelisejewelry.com/collections/most-gifted): Most Gifted: Explore our curated collection featuring the top-rated and most sought-after items that everyone loves!
-  Updated: 2026-10-09T14:49:14Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 108
 - [Most Gifted Necklaces](https://www.sarahelisejewelry.com/collections/most-gifted-necklace): Discover our Most Gifted Necklaces collection, featuring stunning designs that make perfect gifts for any occasion.
-  Updated: 2026-10-09T14:17:51Z
+  Updated: 2026-10-15T14:16:40Z
   Total Products: 51
 - [Most Gifted Rings](https://www.sarahelisejewelry.com/collections/most-gifted-rings): Discover stunning pieces in our collection of the Most Gifted Rings, perfect for any occasion and loved by many.
   Updated: 2026-10-06T13:01:38Z
   Total Products: 25
 - [Engravable Jewelry](https://www.sarahelisejewelry.com/collections/engravable_jewelry): Tell your story with engravable jewelry: personalize necklaces, bracelets, and more with names, dates, and messages.
-  Updated: 2026-10-09T13:45:01Z
+  Updated: 2026-10-15T16:14:21Z
   Total Products: 50
 - [names & initials](https://www.sarahelisejewelry.com/collections/names-initials): Discover our exclusive collection of names & initials, perfect for personalizing gifts and celebrating individuality. Shop now for unique designs!
-  Updated: 2026-10-08T14:22:30Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 54
 - [personalized birthstones](https://www.sarahelisejewelry.com/collections/personalized-birthstone): Explore unique and stunning birthstones personalized just for you. Celebrate special moments with our exquisite birthstone collection.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 702
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 703
 - [Nesting Rings](https://www.sarahelisejewelry.com/collections/nesting-rings): Discover stunning Nesting Rings, handcrafted in solid gold with diamonds. Perfect for stacking, as wedding bands, or unique enhancers.
   Updated: 2026-10-09T15:52:10Z
   Total Products: 25
 - [OrderlyEmails - Recommended Products](https://www.sarahelisejewelry.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2963
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 3047
 - [New products](https://www.sarahelisejewelry.com/collections/new-collection)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2960
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 3058
 - [Best  products](https://www.sarahelisejewelry.com/collections/best--collection): Discover our collection of best  products that everyone is raving about. Shop now to find the hottest items in one place!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2827
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 2919
 - [All Products](https://www.sarahelisejewelry.com/collections/all-products): Discover our wide range of products, carefully curated to meet your needs and preferences. Shop the best products today!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2986
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 3079
 - [Personalized Bracelets](https://www.sarahelisejewelry.com/collections/personalized-bracelets-2): Explore our stunning collection of personalized bracelets. Find the perfect accessory to express your unique style and make a meaningful statement!
   Updated: 2026-09-24T11:11:30Z
   Total Products: 3
-- [Sarah's Picks](https://www.sarahelisejewelry.com/collections/sarah-elise-s-pick): Explore Sarah's Picks collection for hand-selected favorites thatyou won't want to miss. Discover unique styles and items just for you!
-  Updated: 2026-10-09T15:05:26Z
-  Total Products: 176
 - [Best Sellers](https://www.sarahelisejewelry.com/collections/best-sellers): Discover our best seller collection featuring top products you love. Shop now to find what's trending and in demand!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T14:52:31Z
   Total Products: 98
 - [ Collection](https://www.sarahelisejewelry.com/collections/-collection): Discover exciting offers in our  Collection, featuring discounts and deals on select products.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 2807
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 2759
 - [Matching Gifts](https://www.sarahelisejewelry.com/collections/matching-gifts): Discover thoughtful matching jewelry perfect for Valentine's Day. Celebrate your love with matching gifts that express connection.
-  Updated: 2026-10-08T19:22:03Z
+  Updated: 2026-10-16T18:21:28Z
   Total Products: 70
 - [Ready To Ship Necklaces](https://www.sarahelisejewelry.com/collections/ready-to-ship-necklace): Explore our stunning collection of necklaces, ready to ship and perfect for elevating your style. Find your favorite today!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-15T13:45:24Z
   Total Products: 88
 - [Ready To Ship Bracelets](https://www.sarahelisejewelry.com/collections/ready-to-ship-bracelet): Discover a stunning selection of bracelets that are ready to ship, perfect for gifting or treating yourself!
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T14:30:53Z
   Total Products: 52
 - [Ready To Ship Earrings](https://www.sarahelisejewelry.com/collections/ready-to-ship-earrings): Shop our stunning collection of earrings ready to ship. Find unique styles that suit any occasion.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 154
 - [Ready To Ship Rings](https://www.sarahelisejewelry.com/collections/ready-to-ship-rings): Discover our collection of ready to ship rings for all occasions. Shop now and find the perfect fit!
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T18:21:28Z
   Total Products: 11
 - [Bangles](https://www.sarahelisejewelry.com/collections/bangles): Bangles crafted in solid gold. Sleek, refined designs that add effortless elegance to any stack or solo look.
   Updated: 2026-10-06T21:51:08Z
   Total Products: 39
 - [Chain Bracelets](https://www.sarahelisejewelry.com/collections/chain-bracelets): Modern chain bracelets in genuine gold. A sleek essential for any jewelry collection.
-  Updated: 2026-10-09T16:02:50Z
-  Total Products: 46
+  Updated: 2026-10-16T14:30:53Z
+  Total Products: 51
 - [Tennis Bracelets](https://www.sarahelisejewelry.com/collections/tennis-bracelets): Tennis bracelets crafted in solid gold. Featuring a continuous line of sparkling diamonds and gemstones for timeless sophistication.
-  Updated: 2026-10-09T15:58:30Z
-  Total Products: 56
+  Updated: 2026-10-16T12:54:26Z
+  Total Products: 58
 - [Earring Charms](https://www.sarahelisejewelry.com/collections/earring-charms): Earring charms in solid gold with diamonds or gemstones let you personalize and elevate your favorite hoops or huggies.
   Updated: 2026-10-09T19:35:31Z
   Total Products: 37
 - [Necklace Charms](https://www.sarahelisejewelry.com/collections/necklace-charms): Delicate necklace charms crafted in solid gold. Designed to mix, match, and personalize your look with diamonds, gemstones, and meaningful symbols.
-  Updated: 2026-10-09T15:05:26Z
-  Total Products: 98
+  Updated: 2026-10-16T22:00:28Z
+  Total Products: 147
 - [Signature Engagement Rings](https://www.sarahelisejewelry.com/collections/our-signature-engagement-rings): Explore our stunning collection of Engagement Rings designed to make your special moments unforgettable.
-  Updated: 2026-10-09T15:19:21Z
+  Updated: 2026-10-14T15:43:29Z
   Total Products: 114
 - [Claw & Open Rings](https://www.sarahelisejewelry.com/collections/claw-open-rings): Explore our exquisite collection of rings, featuring claw & open designs that redefine elegance.
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-14T11:10:32Z
   Total Products: 42
 - [All Wedding Jewelry](https://www.sarahelisejewelry.com/collections/all-wedding-jewelry): Explore our exquisite collection of All Wedding Jewelry to make your big day unforgettable with stunning designs and affordable prices.
-  Updated: 2026-10-09T15:19:21Z
-  Total Products: 162
+  Updated: 2026-10-16T12:54:26Z
+  Total Products: 163
 - [Sapphire Rings](https://www.sarahelisejewelry.com/collections/sapphire-rings): Sapphire rings crafted in solid gold. Symbolize wisdom, harmony, and timeless elegance.
-  Updated: 2026-10-09T14:17:11Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 69
 - [Emerald Rings](https://www.sarahelisejewelry.com/collections/emerald-rings): Emerald rings showcase vibrant green gemstones set in solid gold, symbolizing renewal, elegance, and timeless beauty.
-  Updated: 2026-10-09T16:22:37Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 100
 - [Ruby Rings](https://www.sarahelisejewelry.com/collections/ruby-rings): Ruby rings feature rich red gemstones set in solid gold, symbolizing passion, strength, and timeless romance.
-  Updated: 2026-10-05T21:37:07Z
+  Updated: 2026-10-14T11:10:32Z
   Total Products: 42
 - [Gold Wedding Bands](https://www.sarahelisejewelry.com/collections/wedding-bands): Gold wedding bands crafted in solid gold. Timeless designs symbolizing love and commitment.
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T18:21:28Z
   Total Products: 52
 - [Mother's Day Fine Jewelry Gift](https://www.sarahelisejewelry.com/collections/mothers-day-fine-jewelry-gift): Explore our Mother's Day Fine Jewelry Gift collection featuring stunning personalized pieces, mommy & me sets, and birthstones for the perfect gift.
-  Updated: 2026-10-09T15:03:14Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 299
 - [Personalized Mother's Day Gift](https://www.sarahelisejewelry.com/collections/personalized-mothers-day-gift): Celebrate Mother's Day with a unique personalized jewelry gift that shows your love and appreciation. Make this day unforgettable!
-  Updated: 2026-10-09T13:45:01Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 67
 - [Mommy and Me Jewelry Sets](https://www.sarahelisejewelry.com/collections/mommy-and-me-jewelry-sets): Discover heartwarming Mommy and Me Jewelry Sets that celebrate your unique bond with matching pieces and personalized designs to cherish forever.
-  Updated: 2026-10-09T12:27:45Z
-  Total Products: 68
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 71
 - [mothers day necklace](https://www.sarahelisejewelry.com/collections/mothers-day-necklace): Explore our stunning mothers day necklace collection, perfect for your loved ones.
-  Updated: 2026-10-09T12:27:45Z
-  Total Products: 62
+  Updated: 2026-10-16T16:48:00Z
+  Total Products: 61
 - [mothers day bracelet](https://www.sarahelisejewelry.com/collections/mothers-day-bracelet): Explore our exquisite bracelet collection perfect for Mother's Day gifts.
-  Updated: 2026-10-09T12:46:25Z
-  Total Products: 29
+  Updated: 2026-10-16T14:38:15Z
+  Total Products: 36
 - [mothers day earring](https://www.sarahelisejewelry.com/collections/mothers-day-earring): Explore our exquisite earring collection perfect for Mother's Day gifts. Unique styles await!
-  Updated: 2026-10-09T15:11:04Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 71
 - [mothers day charm](https://www.sarahelisejewelry.com/collections/mothers-day-charm): Explore our charm collection for Mother's Day, perfect gifts to celebrate mom.
-  Updated: 2026-10-06T13:52:39Z
+  Updated: 2026-10-14T17:44:06Z
   Total Products: 21
 - [mothers day ring](https://www.sarahelisejewelry.com/collections/mothers-day-ring): Celebrate Mother's Day with our exquisite ring collection. Perfect for gifting!
-  Updated: 2026-10-06T11:09:35Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 111
 - [Ready To Ship Charms](https://www.sarahelisejewelry.com/collections/ready-to-ship-charm): Discover our beautiful charms collection, featuring ready to ship charms perfect for your jewelry needs.
-  Updated: 2026-10-05T22:06:15Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 16
 - [Summer Collection](https://www.sarahelisejewelry.com/collections/summer-collection): Explore our vibrant Summer Collection, featuring stylish outfits perfect for sunny days and warm nights. Shop now for your summer essentials!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T15:57:10Z
   Total Products: 224
 - [Summer Earrings](https://www.sarahelisejewelry.com/collections/summer-earring): Discover our stunning collection of Summer Earrings, perfect for adding a touch of elegance to your summer wardrobe.
-  Updated: 2026-10-09T14:52:07Z
+  Updated: 2026-10-16T15:57:10Z
   Total Products: 50
 - [Summer Rings](https://www.sarahelisejewelry.com/collections/summer-rings): Explore our stunning collection of Summer Rings, perfect for adding a touch of sparkle to your sunny days.
-  Updated: 2026-10-05T11:10:27Z
+  Updated: 2026-10-12T11:12:44Z
   Total Products: 65
 - [Summer Necklaces](https://www.sarahelisejewelry.com/collections/summer-necklaces): Explore our stunning array of Summer Necklaces that will elevate your warm-weather style. Find the perfect piece for any summer occasion!
-  Updated: 2026-10-09T15:09:02Z
+  Updated: 2026-10-16T15:07:23Z
   Total Products: 84
 - [Summer Bracelets](https://www.sarahelisejewelry.com/collections/summer-bracelets): Discover our stunning collection of Summer Bracelets, perfect for adding a touch of elegance to your seasonal outfits.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 39
 - [Chunky Rings](https://www.sarahelisejewelry.com/collections/chuunky): Explore our stunning collection of Chunky Rings, designed to make a bold statement and elevate your jewelry collection.
-  Updated: 2026-09-14T16:23:36Z
+  Updated: 2026-10-16T13:36:24Z
   Total Products: 8
 - [Toi Et Moi Rings](https://www.sarahelisejewelry.com/collections/toi-et-moi-rings): Discover the enchanting beauty of Toi Et Moi Rings, perfect for symbolizing love and connection. Shop our exclusive collection today!
-  Updated: 2026-09-14T17:32:32Z
+  Updated: 2026-10-14T11:10:32Z
   Total Products: 12
 - [East West Rings](https://www.sarahelisejewelry.com/collections/east-west-rings): Explore our stunning collection of East West Rings, featuring unique designs that elevate your jewelry style. Find your perfect ring today!
-  Updated: 2026-09-28T11:12:51Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 60
 - [gift](https://www.sarahelisejewelry.com/collections/gift-1): Discover unique gifts for every occasion in our collection. Find the perfect gift today!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 477
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 482
 - [birthday gift](https://www.sarahelisejewelry.com/collections/birthday-gift): Explore unique birthday gift ideas that will delight your loved ones on their special day. Discover the perfect birthday gift now!
-  Updated: 2026-10-09T14:45:18Z
+  Updated: 2026-10-16T15:52:26Z
   Total Products: 138
 - [anniversary gift](https://www.sarahelisejewelry.com/collections/anniversary-gift): Discover a wide range of anniversary gift ideas to celebrate your love.
-  Updated: 2026-10-09T15:58:30Z
-  Total Products: 234
+  Updated: 2026-10-16T18:27:54Z
+  Total Products: 237
 - [wedding gift](https://www.sarahelisejewelry.com/collections/wedding-gift): Explore unique wedding gift ideas perfect for celebrating love and companionship. Find the ideal present to cherish special moments.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 98
+  Updated: 2026-10-16T14:26:26Z
+  Total Products: 99
 - [Bridesmaids' gift](https://www.sarahelisejewelry.com/collections/bridesmaids-gift): Gift your bridesmaids with our unique collection of thoughtful presents. Perfect for showing appreciation on your special day!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 92
 - [Birthstone Necklace](https://www.sarahelisejewelry.com/collections/birthstone-necklace): Celebrate their birth month with a dazzling birthstone necklace from Sarah Elise Jewelry. Thoughtful gifts that shimmer with meaning.
-  Updated: 2026-10-09T14:17:51Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 135
 - [Lab Grown Jewelry](https://www.sarahelisejewelry.com/collections/lab-grown-diamond): Lab Grown Diamond offers a stunning selection of eco-friendly and ethically sourced diamonds for every occasion. Elevate your style today!
-  Updated: 2026-10-09T16:31:53Z
-  Total Products: 435
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 479
 - [Lab Grown Necklace](https://www.sarahelisejewelry.com/collections/lab-grown-necklace): Discover our stunning Lab Grown Necklace collection, featuring unique designs that elevate your style and expression.
-  Updated: 2026-10-09T14:15:10Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 74
 - [Lab Grown Earrings](https://www.sarahelisejewelry.com/collections/lab-grown-earring): Explore stunning Lab Grown Earrings that combine elegance and sustainability for a perfect accessory choice.
-  Updated: 2026-10-09T15:02:16Z
+  Updated: 2026-10-15T14:11:05Z
   Total Products: 150
 - [Lab Grown Ring](https://www.sarahelisejewelry.com/collections/lab-grown-ring): Explore our stunning collection of Lab Grown Rings, combining elegance and sustainability for the perfect jewelry choice.
-  Updated: 2026-10-09T16:31:53Z
+  Updated: 2026-10-16T15:59:05Z
   Total Products: 161
 - [Lab Grown Bracelet](https://www.sarahelisejewelry.com/collections/lab-grown-bracelet): Discover stunning Lab Grown Bracelet designs that combine elegance and sustainability, perfect for any occasion.
-  Updated: 2026-10-09T16:04:00Z
-  Total Products: 60
+  Updated: 2026-10-16T13:30:20Z
+  Total Products: 74
 - [Lab Grown Charm](https://www.sarahelisejewelry.com/collections/lab-grown-charm): Explore our stunning lab grown charm collection, where elegance meets sustainability in every unique piece. Perfect for any occasion!
-  Updated: 2026-10-09T14:55:51Z
-  Total Products: 18
+  Updated: 2026-10-16T18:53:38Z
+  Total Products: 52
 - [Nivoda Diamonds](https://www.sarahelisejewelry.com/collections/nivoda-diamonds): Explore our automated collection of diamonds, featuring exquisite designs and unmatched quality for every occasion.
   Updated: 2026-10-08T17:22:57Z
   Total Products: 44
@@ -2341,77 +2338,77 @@
   Updated: 2026-10-08T17:22:57Z
   Total Products: 46
 - [Statement Ring](https://www.sarahelisejewelry.com/collections/statement-ring): Bold statement rings handcrafted in solid gold. Featuring distinctive designs and eye-catching details that make every piece a true expression of personal style.
-  Updated: 2026-10-09T15:21:47Z
+  Updated: 2026-10-16T15:59:05Z
   Total Products: 122
 - [Cocktail Rings](https://www.sarahelisejewelry.com/collections/cocktail-rings): Explore our stunning collection of Cocktail Rings, perfect for adding a touch of elegance to any outfit.
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-12T16:39:26Z
   Total Products: 197
 - [Cocktail Rings](https://www.sarahelisejewelry.com/collections/cocktail-rings-1): Explore stunning Cocktail Rings that captivate with vibrant gemstones and unique designs, perfect for every occasion.
   Updated: 2026-09-14T17:42:23Z
   Total Products: 67
 - [Hanukkah Gift guide for kids](https://www.sarahelisejewelry.com/collections/hanukkah-gift-guide-for-kids): Explore our Hanukkah Gift Guide for kids and find the perfect gift for everyone on your list this Festival of Lights!
-  Updated: 2026-10-09T13:00:42Z
+  Updated: 2026-10-16T16:05:14Z
   Total Products: 42
 - [Hanukkah Gift Guide for Her](https://www.sarahelisejewelry.com/collections/hanukkah-gift-guide-for-her): Hanukkah Gift Guide for Her: Discover unique gifts for every woman this holiday season. Make her smile with thoughtful presents she'll cherish!
-  Updated: 2026-10-09T12:43:04Z
+  Updated: 2026-10-16T16:05:14Z
   Total Products: 59
 - [Hanukkah Luxury Picks](https://www.sarahelisejewelry.com/collections/hanukkah-luxury-picks): Discover our Hanukkah Luxury Picks! Find perfect gifts from fun finds to meaningful treasures for everyone in your life.
-  Updated: 2026-10-09T14:54:05Z
+  Updated: 2026-10-13T12:23:40Z
   Total Products: 50
 - [Gemstone Engagement Rings](https://www.sarahelisejewelry.com/collections/gemstone-engagement-rings): Discover extraordinary gemstone engagement rings. Vibrant colors, unique designs, and ethically sourced gems for a ring as individual as your love.
-  Updated: 2026-09-14T17:45:15Z
+  Updated: 2026-10-12T11:12:44Z
   Total Products: 53
 - [Bold & Minimalist Earrings](https://www.sarahelisejewelry.com/collections/bold-minimalist-earrings): Explore our collection of bold & minimalist earrings, perfect for pairing with simple gold pieces for a sophisticated look.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T15:13:33Z
   Total Products: 44
 - [Playful & Personalized Earrings](https://www.sarahelisejewelry.com/collections/playful-personalized-earrings): Discover our playful & personalized earrings collection, featuring mix-and-match charms that showcase your unique style and interests.
-  Updated: 2026-10-09T15:02:16Z
+  Updated: 2026-10-16T16:23:11Z
   Total Products: 54
 - [Gemstone Earrings](https://www.sarahelisejewelry.com/collections/colored-stone-earrings): Embrace vibrant hues by mixing and matching earrings with different colored gemstones. Think turquoise, amethyst, garnet, and more!
-  Updated: 2026-10-09T19:17:47Z
+  Updated: 2026-10-16T15:52:23Z
   Total Products: 153
 - [Baguette Cut Engagement Rings](https://www.sarahelisejewelry.com/collections/baguette-cut-engagement-rings): Explore our exquisite collection of baguette cut engagement rings. Discover the perfect rings to celebrate your love.
   Updated: 2026-09-14T17:09:19Z
   Total Products: 2
 - [10SALE](https://www.sarahelisejewelry.com/collections/10sale): Discover exclusive deals with our 10SALE collection! Buy now and save on top products.
-  Updated: 2026-10-09T11:10:29Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 10
 - [Initial Necklace Charms](https://www.sarahelisejewelry.com/collections/initial-necklace-charms): Shop our selection of initial charms to create your personalized necklace. Perfect for layering or wearing solo.
-  Updated: 2026-10-05T19:32:11Z
+  Updated: 2026-10-16T16:19:39Z
   Total Products: 18
 - [Coral Jewelry](https://www.sarahelisejewelry.com/collections/coral-jewelry): Discover stunning Coral Jewelry pieces that reflect the beauty of the ocean. Shop now and elevate your style with our exclusive collection.
   Updated: 2026-10-06T12:47:40Z
   Total Products: 2
 - [Heirloom pieces](https://www.sarahelisejewelry.com/collections/heirloom-pieces): Explore heirloom pieces crafted to be cherished forever, designed with exceptional materials and artistry for timeless beauty.
-  Updated: 2026-10-09T16:04:00Z
+  Updated: 2026-10-16T15:42:30Z
   Total Products: 44
 - [Turquoise Jewelry](https://www.sarahelisejewelry.com/collections/turquoise-jewelry): Discover the vibrant allure of turquoise jewelry, meticulously crafted with 10k, 14k, and 18k solid gold. Explore our exquisite collection, celebrating nature's captivating blue-green hues.
-  Updated: 2026-10-09T14:02:37Z
+  Updated: 2026-10-14T16:50:44Z
   Total Products: 65
 - [Father's Day Gift Guide](https://www.sarahelisejewelry.com/collections/fathers-day-gift-guide): Explore our Father's Day Gift Guide for personalized gifts and solid gold jewelry. Perfect for showing appreciation.
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T13:17:11Z
   Total Products: 27
 - [Father's Day Chains](https://www.sarahelisejewelry.com/collections/fathers-day-chains): Explore our stunning collection of chains for Father's Day. Find the perfect piece to celebrate your dad in style!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-15T14:43:12Z
   Total Products: 14
 - [Father's Day Unisex Bands](https://www.sarahelisejewelry.com/collections/fathers-day-unisex-bands): Discover unique Father's Day Unisex Bands in our collection, perfect for celebrating the special dads in your life.
-  Updated: 2026-09-27T11:10:56Z
+  Updated: 2026-10-16T18:21:28Z
   Total Products: 13
 - [IG REEL - Blue Topaz & Teal Sapphire Ring Stack](https://www.sarahelisejewelry.com/collections/blue-topaz-teal-sapphire-ring-stack): Explore our exquisite Blue Topaz & Teal Sapphire Ring Stack collection, perfect for adding a touch of elegance.
   Updated: 2026-09-22T11:10:56Z
   Total Products: 6
 - [IG REEL - Bracelet Stack 8/2025](https://www.sarahelisejewelry.com/collections/ig-reel-bracelet-stack-8-2025): Explore our stunning bracelet collection featuring unique stack designs. Discover the beauty of our bracelet styles today!
-  Updated: 2026-09-14T17:40:41Z
+  Updated: 2026-10-12T21:17:48Z
   Total Products: 6
 - [Charm Necklace Reel](https://www.sarahelisejewelry.com/collections/charm-necklace-reel): Explore our stunning collection of Charm Necklace Reel. Perfectly crafted necklace designs that add elegance to any outfit!
-  Updated: 2026-09-28T07:35:57Z
+  Updated: 2026-10-15T11:10:36Z
   Total Products: 4
 - [Cuff Rings](https://www.sarahelisejewelry.com/collections/cuff-rings): Designed to mix, match, and layer — cuff rings are the effortless way to complete your look.
-  Updated: 2026-10-08T21:52:51Z
+  Updated: 2026-10-14T11:10:32Z
   Total Products: 31
 - [SOCIAL FAVORITES  SMS CAMPAIGN](https://www.sarahelisejewelry.com/collections/social-favorites-sms-campaign): Discover our SOCIAL FAVORITES SMS CAMPAIGN collection, perfect for enhancing your messaging strategy with engaging content.
-  Updated: 2026-10-02T11:09:36Z
-  Total Products: 13
+  Updated: 2026-10-16T14:35:00Z
+  Total Products: 15
 - [Engagement Rings | Sarah Elise Jewelry](https://www.sarahelisejewelry.com/collections/engagement-rings): Your engagement ring is more than just jewelry; it's the ultimate symbol of your commitment and a piece of wearable art you'll cherish forever. At Sarah Elise Jewelry, we specialize in crafting exceptional solitaire and diamond accent rings that are built to last a lifetime.
   Updated: 2026-10-08T17:22:57Z
   Total Products: 30
@@ -2434,55 +2431,43 @@
   Updated: 2026-10-08T16:12:10Z
   Total Products: 3
 - [Tiktok Products](https://www.sarahelisejewelry.com/collections/tiktok-products): Discover the latest tiktok products curated just for you! Explore trending items that are making waves on TikTok for all your needs.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 116
+  Updated: 2026-10-16T11:11:44Z
+  Total Products: 115
 - [Price Between 0-400$](https://www.sarahelisejewelry.com/collections/price-between-0-200): Discover a wide range of products priced between $0 and $400. Perfect for every budget!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 679
-- [Price Between 400$ - 550$](https://www.sarahelisejewelry.com/collections/price-between-400-800): Discover top-quality items in the price range of $400 to $550, perfect for enhancing your lifestyle without breaking the bank.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 1047
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 687
 - [Price Between 550$ - 700$](https://www.sarahelisejewelry.com/collections/price-between-550-1000): Explore our range of products priced between 550$ and 700$.
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 1133
-- [Price Between 700$ - 900$](https://www.sarahelisejewelry.com/collections/price-between-700-900): Discover our curated selection of items priced between 700$ and 900$. Shop now for quality products that fit your budget!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 1412
-- [Price Between 900$ - 1100$](https://www.sarahelisejewelry.com/collections/price-between-900-1100): Explore premium products in our range priced at Price Between 900 - 1100. Discover quality craftsmanship and style today!
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 975
-- [Price Higher Then 1100$](https://www.sarahelisejewelry.com/collections/price-higher-then-1100): Discover luxury items in our collection with Price Higher Then 1100. Find exclusive products that redefine elegance and sophistication.
-  Updated: 2026-10-09T16:31:53Z
-  Total Products: 1478
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 1182
 - [Most Loved Engagement Rings](https://www.sarahelisejewelry.com/collections/most-loved-engagement-rings): Shop Our Most Loved Engagement Rings. Discover the top-rated diamond rings featuring classic and modern designs, from Round Solitaires to trending Oval and Hidden Halo settings. Find the best- engagement rings in 14k gold, 18k gold, and platinum, all featuring ethically sourced or lab-grown diamonds. The most popular styles, chosen by couples like you.
   Updated: 2026-10-09T15:19:21Z
   Total Products: 20
 - [Bat Mitzvah Gifts](https://www.sarahelisejewelry.com/collections/bat-mitzvah-gifts): Explore our unique selection of Bat Mitzvah Gifts that celebrate this special milestone with joy and style.
-  Updated: 2026-10-09T14:54:05Z
+  Updated: 2026-10-16T16:05:14Z
   Total Products: 57
 - [Gemstone Rings](https://www.sarahelisejewelry.com/collections/gemstone-rings): Discover gemstone rings handcrafted in solid gold. Each piece highlights vivid natural or lab-grown stones, bringing a unique touch of color and character to your collection.
-  Updated: 2026-10-09T16:22:37Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 391
 - [Tennis Necklaces](https://www.sarahelisejewelry.com/collections/tennis-necklaces): Tennis necklaces crafted in solid gold. A timeless row of sparkling diamonds and gemstones for an elegant, refined look.
   Updated: 2026-09-17T11:11:22Z
   Total Products: 7
 - [Bridal Earrings](https://www.sarahelisejewelry.com/collections/bridal-earrings): Bridal earrings in solid gold with diamonds and gems. Timeless sparkle to find your something blue.
-  Updated: 2026-10-09T14:59:01Z
-  Total Products: 191
+  Updated: 2026-10-16T16:01:42Z
+  Total Products: 192
 - [Bridal Necklaces](https://www.sarahelisejewelry.com/collections/bridal-necklaces): Bridal necklaces in solid gold with diamonds and gems. Elegant pieces to complete your look and find your something blue.
-  Updated: 2026-10-09T14:15:00Z
-  Total Products: 131
+  Updated: 2026-10-16T16:11:34Z
+  Total Products: 133
 - [Bridal Bracelets](https://www.sarahelisejewelry.com/collections/bridal-bracelets): Bridal bracelets in solid gold with diamonds and gems. Elegant pieces that add timeless sparkle to your special day.
-  Updated: 2026-10-09T16:04:00Z
-  Total Products: 76
+  Updated: 2026-10-16T13:30:20Z
+  Total Products: 84
 - [Ready To Ship Earrings (Copy)](https://www.sarahelisejewelry.com/collections/ready-to-ship-earrings-copy): Discover unique Ready To Ship Earrings (Copy) that are perfect for any occasion. Shop now for quick delivery and stunning styles!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 154
 - [GIONNA](https://www.sarahelisejewelry.com/collections/gionna): Discover the stunning GIONNA collection, featuring unique designs that elevate your style. Explore the latest trends with gionna today!
   Updated: 2026-09-29T11:12:11Z
   Total Products: 3
 - [String Bracelet Collection](https://www.sarahelisejewelry.com/collections/string-bracelet-collection): Explore our stunning bracelet collection of solid gold string bracelets, ideal for any occasion!
-  Updated: 2026-10-05T11:10:27Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 25
 - [Amethyst Ring Stack](https://www.sarahelisejewelry.com/collections/amethyst-ring-stack): Discover the elegance of our Amethyst Ring Stack collection, featuring stunning rings that elevate your style and shine with luxury.
   Updated: 2026-09-24T11:11:30Z
@@ -2491,110 +2476,128 @@
   Updated: 2026-10-01T11:15:19Z
   Total Products: 5
 - [Lab Grown Wedding Bands](https://www.sarahelisejewelry.com/collections/lab-grown-wedding-bands): Explore our stunning collection of lab grown wedding bands that combine elegance and sustainability. Perfect for your special day.
-  Updated: 2026-10-09T15:56:34Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 70
 - [Huggies and Charms](https://www.sarahelisejewelry.com/collections/huggies-and-charms): Explore our exclusive collection of Huggies and Charms. Discover unique styles and designs of charms that add a personal touch to any outfit.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T16:23:11Z
   Total Products: 229
 - [Plain Gold Rings](https://www.sarahelisejewelry.com/collections/plain-gold-rings)
   Updated: 2026-09-14T17:38:07Z
   Total Products: 2
 - [Mother's Day Landing Page](https://www.sarahelisejewelry.com/collections/mothers-day-fine-jewelry-gift_main): Explore our Mother's Day Fine Jewelry Gift collection featuring stunning personalized pieces, mommy & me sets, and birthstones for the perfect gift.
-  Updated: 2026-10-09T15:03:14Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 297
 - [Mother's Day Gemstone Jewelry](https://www.sarahelisejewelry.com/collections/mothers-day-gemstone-jewelry)
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T14:30:53Z
   Total Products: 146
 - [Mother's Day Bracelets](https://www.sarahelisejewelry.com/collections/mothers-day-bracelets)
-  Updated: 2026-09-30T13:04:27Z
-  Total Products: 6
+  Updated: 2026-10-16T12:25:45Z
+  Total Products: 7
 - [Shop Now Email](https://www.sarahelisejewelry.com/collections/shop-now-email)
-  Updated: 2026-10-08T06:18:08Z
+  Updated: 2026-10-16T15:22:28Z
   Total Products: 19
 - [Plain Gold Earrings](https://www.sarahelisejewelry.com/collections/plain-gold-earrings)
   Updated: 2026-09-14T17:38:45Z
   Total Products: 1
 - [Pinterest Ad - Engagement Rings](https://www.sarahelisejewelry.com/collections/pinterest-ad-engagement-rings)
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T11:11:43Z
   Total Products: 84
 - [Arielle Collection](https://www.sarahelisejewelry.com/collections/arielle-collection)
   Updated: 2026-10-06T11:10:53Z
   Total Products: 7
 - [STILL ROOM COLLECTION](https://www.sarahelisejewelry.com/collections/still-room-collection)
-  Updated: 2026-10-09T11:10:29Z
+  Updated: 2026-10-14T11:10:32Z
   Total Products: 51
 - [Bracelet Stack Edit](https://www.sarahelisejewelry.com/collections/bracelet-stack-edit)
-  Updated: 2026-10-07T20:56:28Z
-  Total Products: 63
+  Updated: 2026-10-16T12:54:26Z
+  Total Products: 64
 - [Graduation Gifts Under $500](https://www.sarahelisejewelry.com/collections/graduation-gifts-under-500)
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 271
 - [Heirloom Graduation Gifts](https://www.sarahelisejewelry.com/collections/heirloom-graduation-gifts)
-  Updated: 2026-10-09T16:04:00Z
-  Total Products: 120
+  Updated: 2026-10-16T14:41:23Z
+  Total Products: 122
 - [Summer Gemstone Jewelry](https://www.sarahelisejewelry.com/collections/summer-gemstone-jewelry)
-  Updated: 2026-10-10T11:11:49Z
-  Total Products: 328
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 329
 - [Turquoise Campaign 1](https://www.sarahelisejewelry.com/collections/turquoise-campaign-1)
-  Updated: 2026-10-09T14:02:37Z
+  Updated: 2026-10-14T16:50:44Z
   Total Products: 69
 - [Turquoise Campaign 2](https://www.sarahelisejewelry.com/collections/turquoise-campaign-2)
-  Updated: 2026-10-09T14:02:37Z
+  Updated: 2026-10-14T16:50:44Z
   Total Products: 69
 - [Turquoise Campaign 3](https://www.sarahelisejewelry.com/collections/turquoise-campaign-2-copy)
-  Updated: 2026-10-09T14:02:37Z
+  Updated: 2026-10-14T16:50:44Z
   Total Products: 69
 - [Summer Personality - The main character](https://www.sarahelisejewelry.com/collections/summer-personality-the-main-character)
-  Updated: 2026-10-05T22:06:17Z
+  Updated: 2026-10-12T16:32:35Z
   Total Products: 41
 - [Summer Personality - The minimalist](https://www.sarahelisejewelry.com/collections/summer-personality-the-minimalist)
-  Updated: 2026-10-09T12:56:32Z
+  Updated: 2026-10-16T15:14:54Z
   Total Products: 38
 - [Summer Personality - The golden girl](https://www.sarahelisejewelry.com/collections/summer-personality-the-golden-girl)
-  Updated: 2026-10-09T16:04:00Z
-  Total Products: 39
+  Updated: 2026-10-16T12:53:25Z
+  Total Products: 41
 - [Pearl Jewelry](https://www.sarahelisejewelry.com/collections/pearl-jewelry)
-  Updated: 2026-10-06T14:42:47Z
+  Updated: 2026-10-13T11:16:43Z
   Total Products: 26
 - [The Dolce Collection](https://www.sarahelisejewelry.com/collections/the-dolce-collection)
   Updated: 2026-10-06T13:25:56Z
   Total Products: 13
 - [Golden Stack](https://www.sarahelisejewelry.com/collections/golden-stack)
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-16T13:36:24Z
   Total Products: 49
 - [Dainty Rings](https://www.sarahelisejewelry.com/collections/dainty-rings)
-  Updated: 2026-10-08T11:10:26Z
+  Updated: 2026-10-12T16:35:17Z
   Total Products: 33
 - [Sitewide  Emerald Jewelry](https://www.sarahelisejewelry.com/collections/sitewide--emerald-jewelry): Discover exquisite Emerald Jewelry that showcases stunning green gems, perfect for any elegant occasion. Shop our unique collection today!
-  Updated: 2026-10-09T16:22:37Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 237
 - [Huggies & Hoops Sitewide ](https://www.sarahelisejewelry.com/collections/huggies-hoops-sitewide-): Discover the charm of Huggies & Hoops collection featuring quality products for comfort and style for every adventure.
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T16:23:11Z
   Total Products: 248
 - [Black Diamond Collection](https://www.sarahelisejewelry.com/collections/black-diamond-collection)
-  Updated: 2026-10-09T15:47:15Z
-  Total Products: 76
+  Updated: 2026-10-14T11:10:32Z
+  Total Products: 78
 - [Bridesmaids' gift Gemstone](https://www.sarahelisejewelry.com/collections/bridesmaids-gift-gemstone): Gift your bridesmaids with our unique collection of thoughtful presents. Perfect for showing appreciation on your special day!
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 122
 - [Colors of Summer Emerald & Diamond](https://www.sarahelisejewelry.com/collections/colors-of-summer-emerald-diamond)
-  Updated: 2026-10-10T11:11:49Z
+  Updated: 2026-10-16T15:52:23Z
   Total Products: 74
 - [Peridot Pinterest Ad](https://www.sarahelisejewelry.com/collections/peridot-pinterest-ad)
-  Updated: 2026-10-09T13:58:39Z
+  Updated: 2026-10-13T16:05:43Z
   Total Products: 57
 - [EMAIL 3 DAYS](https://www.sarahelisejewelry.com/collections/email-3-days)
   Updated: 2026-10-02T11:09:36Z
   Total Products: 15
 - [Diamond Wedding Rings](https://www.sarahelisejewelry.com/collections/diamond-wedding-rings)
-  Updated: 2026-10-09T11:10:29Z
+  Updated: 2026-10-16T11:11:44Z
   Total Products: 134
 - [Diamond Tennis Bracelets](https://www.sarahelisejewelry.com/collections/diamond-tennis-bracelets): Diamond tennis bracelets crafted in solid gold. Featuring a continuous line of sparkling diamonds and gemstones for timeless sophistication.
-  Updated: 2026-10-05T21:22:40Z
-  Total Products: 22
+  Updated: 2026-10-16T12:54:26Z
+  Total Products: 23
 - [Opal and Pink Tourmaline Gemstone Jewelry](https://www.sarahelisejewelry.com/collections/october-birthstone-opal-and-pink-tourmaline)
-  Updated: 2026-10-09T15:09:02Z
+  Updated: 2026-10-17T11:16:38Z
   Total Products: 28
+- [October Birthstone Jewelry: Opal & Pink Tourmaline](https://www.sarahelisejewelry.com/collections/october-birthstones): Shop October birthstone jewelry in solid gold. Opal and pink tourmaline rings, earrings and necklaces, the perfect gift for an October birthday.
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 25
+- [June Birthstone Jewelry: Moonstone & Pearl](https://www.sarahelisejewelry.com/collections/june-birthstones): Shop June birthstone jewelry in solid gold. Moonstone and pearl rings, earrings, and necklaces- the perfect gift for a June birthday.
+  Updated: 2026-10-13T21:28:47Z
+  Total Products: 33
+- [December Birthstone Jewelry: Blue Topaz & Turquoise](https://www.sarahelisejewelry.com/collections/december-birthstones): Shop December birthstone jewelry in solid gold. Blue topaz and turquoise rings, earrings and necklaces, a perfect gift for December birthdays.
+  Updated: 2026-10-14T16:50:44Z
+  Total Products: 120
+- [Chains For Charms](https://www.sarahelisejewelry.com/collections/cross--chains-for-charms)
+  Updated: 2026-10-16T11:11:44Z
+  Total Products: 20
+- [Gift Guide under $250](https://www.sarahelisejewelry.com/collections/gift-guide-under-250)
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 215
+- [Gifts between $250 and $500](https://www.sarahelisejewelry.com/collections/gifts-between-250-and-500)
+  Updated: 2026-10-17T11:16:38Z
+  Total Products: 946
 
 ## Blogs
 
@@ -3006,7 +3009,10 @@
     Author: Sarah Elise
     Tags: opal, pink tourmaline
   - [Your Fall Jewelry Style Guide](https://www.sarahelisejewelry.com/blogs/news/your-fall-jewelry-style-guide): <p>Discover how to style gold earrings, black diamond rings and bracelets,<br>and citrine necklaces with your favorite fall outfits.</p>
-    Updated: 2026-10-08T18:25:17Z
+    Updated: 2026-10-14T20:09:39Z
+    Author: Sarah Elise
+  - [Natural and Lab-Grown Diamonds: Here's what you need to know](https://www.sarahelisejewelry.com/blogs/news/natural-and-lab-grown-diamonds-heres-what-you-need-to-know): <p>Lab-grown or natural diamonds—what’s the difference? From origin and sparkle to price, durability, and care, our guide breaks down what they share and what sets them apart, helping you choose the diamond that fits your style, budget, and story.</p>
+    Updated: 2026-10-14T20:21:43Z
     Author: Sarah Elise
 
 ## Store Pages
