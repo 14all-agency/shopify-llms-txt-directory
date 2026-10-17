@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-09-05T01:22:31Z
 - Contact Email: usaautopartsdirect@gmail.com
-- Updated At: 2026-09-19T00:00:31.151Z
+- Updated At: 2026-10-17T00:00:39.865Z
 
 ## Products
 
 - [150cc GY6 Engine for Go Kart Dune Buggy with Internal Reverse](https://usaautopartsdirect.com/products/150cc-gy6-engine-with-internal-reverse-for-go-kart-dune-buggy-yyyyyyyy-168260007321): 150cc GY6 Engine for Go Kart Dune Buggy with Internal Reverse. Supplied product details follow. Specifications and fitment Includes: - 150cc GY6 Engine with Internal Reverse Fits Models: - Go Karts, Dune Buggies, ATVs Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - 150cc GY6 Engine Description: This 150cc GY6 engine is designed for use in go-karts and dune buggies, featuring an internal reverse mechanism for enhanced maneuverability. The GY6 engine is known for its reliability and performance in off-road applications, making it a popular choice for recreational vehicles. Features: - 150cc displacement for optimal power - Internal reverse for easy navigation - Compatible with various go-kart and dune buggy models - Durable construction for off-road use - Easy installation with standard mounting points
-  Updated: 2026-09-17T20:29:09Z
+  Updated: 2026-10-02T02:03:46Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1269,30 +1269,16 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_50868b53-bcf3-4228-b2a4-e0b9ebcfd6f6.webp?v=1788996749
   Price: $420.00 USD
-- [Designing Ruler for Pattern Making in Garment Creation](https://usaautopartsdirect.com/products/pattern-maker-designing-ruler-for-garment-making-327231422607): Designing Ruler for Pattern Making in Garment Creation. Supplied product details follow. Specifications and fitment Includes: - Pattern Maker Designing Ruler for Garment Making Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The Pattern Maker Designing Ruler is an essential tool for garment making, providing precision and ease in creating patterns. This ruler is designed to help fashion designers and tailors achieve accurate measurements and shapes for various clothing items. Its durable construction ensures longevity, while the clear markings facilitate easy reading and usage. Features: - Made from high-quality materials for durability - Clear measurement markings for precision - Ideal for various garment making applications - Lightweight and easy to handle - Versatile design suitable for different pattern styles
-  Updated: 2026-09-17T20:30:04Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_fcece931-4aa2-46a2-87b1-e12aa5aae3d6.webp?v=1788996749
-  Price: $40.00 USD
-- [Walbro GSS342 255LPH Fuel Pump + QFS Kit for 1994-2002 Honda Civic Si](https://usaautopartsdirect.com/products/walbro-gss342-255lph-fuel-pump-qfs-kit-for-honda-civic-si-coupe-19942002-188480712605): Walbro GSS342 255LPH Fuel Pump + QFS Kit for 1994-2002 Honda Civic Si. Supplied product details follow. Specifications and fitment Includes: - Walbro GSS342 255LPH Fuel Pump + QFS Kit Fits Models: - Honda Civic Si Coupe Model Years: - 1994–2002 Submodels: - Si, EK, EJ1, EJ2, Coupe Engine Options: - 1.6L B16A, 1.7L D17A Description: The Walbro GSS342 is a high-performance fuel pump designed to deliver 255 liters per hour, ensuring your Honda Civic Si Coupe maintains optimal fuel flow under demanding conditions. This kit includes all necessary components for a straightforward installation, making it an ideal upgrade for enthusiasts looking to enhance their vehicle's performance. Features: - High flow rate of 255LPH - Direct fit for Honda Civic Si Coupe (1994–2002) - Includes QFS installation kit for easy setup - Reliable and durable construction - Supports performance modifications and increased power demands Part Number: GSS342
-  Updated: 2026-09-17T20:30:04Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_4f6e278e-e97c-4608-b26f-a6416cdac352.webp?v=1788996750
-  Price: $435.00 USD
-[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MTk5ODMyLCJsYXN0X3ZhbHVlIjoiODk3MzMzNTE5OTgzMiJ9)
+[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MTM0Mjk2LCJsYXN0X3ZhbHVlIjoiODk3MzMzNTEzNDI5NiJ9)
 
 ## Collections
 
 - [Home page](https://usaautopartsdirect.com/collections/frontpage)
-  Updated: 2026-09-11T22:28:40Z
-  Total Products: 1
+  Updated: 2026-10-02T02:32:46Z
+  Total Products: 0
 - [master](https://usaautopartsdirect.com/collections/master)
-  Updated: 2026-09-17T15:57:26Z
-  Total Products: 1707153
+  Updated: 2026-10-16T11:35:55Z
+  Total Products: 1859564
 
 ## Blogs
 
@@ -1341,13 +1327,49 @@
   - [Truck Parts Essentials: OEM Replacement Parts vs. Aftermarket Parts](https://usaautopartsdirect.com/blogs/news/truck-parts-essentials-oem-replacement-parts-vs-aftermarket-parts): Truck Parts Essentials: OEM Replacement Parts vs. Aftermarket Parts
     Updated: 2026-09-18T00:25:48Z
     Author: USA Auto Parts Direct
+  - [Exploring Aftermarket Auto Parts: A Comprehensive Explainer on Upgrade Options](https://usaautopartsdirect.com/blogs/news/exploring-aftermarket-auto-parts-a-comprehensive-explainer-on-upgrade-options): Exploring Aftermarket Auto Parts: A Comprehensive Explainer on Upgrade Options
+    Updated: 2026-09-20T00:24:05Z
+    Author: USA Auto Parts Direct
+  - [FAQs on Choosing the Best Car Parts Online for Your Vehicle](https://usaautopartsdirect.com/blogs/news/faqs-on-choosing-the-best-car-parts-online-for-your-vehicle): FAQs on Choosing the Best Car Parts Online for Your Vehicle
+    Updated: 2026-09-21T02:52:03Z
+    Author: USA Auto Parts Direct
+  - [DIY Replacement Auto Parts: A Step-by-Step Guide to Installing Your Own Parts](https://usaautopartsdirect.com/blogs/news/diy-replacement-auto-parts-a-step-by-step-guide-to-installing-your-own-parts): DIY Replacement Auto Parts: A Step-by-Step Guide to Installing Your Own Parts
+    Updated: 2026-09-25T00:25:11Z
+    Author: USA Auto Parts Direct
+  - [Exploring the Evolution of Auto Accessories Through History](https://usaautopartsdirect.com/blogs/news/exploring-the-evolution-of-auto-accessories-through-history): Exploring the Evolution of Auto Accessories Through History
+    Updated: 2026-09-27T00:25:04Z
+    Author: USA Auto Parts Direct
+  - [The Pros and Cons of OEM Replacement Parts vs. Aftermarket Alternatives](https://usaautopartsdirect.com/blogs/news/the-pros-and-cons-of-oem-replacement-parts-vs-aftermarket-alternatives): The Pros and Cons of OEM Replacement Parts vs. Aftermarket Alternatives
+    Updated: 2026-09-28T02:51:46Z
+    Author: USA Auto Parts Direct
+  - [How to Identify Quality Truck Parts in the Vast Online Market](https://usaautopartsdirect.com/blogs/news/how-to-identify-quality-truck-parts-in-the-vast-online-market): How to Identify Quality Truck Parts in the Vast Online Market
+    Updated: 2026-10-02T00:24:50Z
+    Author: USA Auto Parts Direct
+  - [New Trends in Auto Accessories: What You Need to Know for 2026](https://usaautopartsdirect.com/blogs/news/new-trends-in-auto-accessories-what-you-need-to-know-for-2026): New Trends in Auto Accessories: What You Need to Know for 2026
+    Updated: 2026-10-04T00:24:02Z
+    Author: USA Auto Parts Direct
+  - [Choosing the Right Auto Accessories: A Vehicle Replacement Parts Checklist](https://usaautopartsdirect.com/blogs/news/choosing-the-right-auto-accessories-a-vehicle-replacement-parts-checklist): Choosing the Right Auto Accessories: A Vehicle Replacement Parts Checklist
+    Updated: 2026-10-05T02:48:05Z
+    Author: USA Auto Parts Direct
+  - [Common Problems with Aftermarket Auto Parts and Their Solutions](https://usaautopartsdirect.com/blogs/news/common-problems-with-aftermarket-auto-parts-and-their-solutions): Common Problems with Aftermarket Auto Parts and Their Solutions
+    Updated: 2026-10-09T00:24:09Z
+    Author: USA Auto Parts Direct
+  - [How to Navigate Car Parts Online for the Best Auto Accessories](https://usaautopartsdirect.com/blogs/news/how-to-navigate-car-parts-online-for-the-best-auto-accessories): How to Navigate Car Parts Online for the Best Auto Accessories
+    Updated: 2026-10-11T00:23:18Z
+    Author: USA Auto Parts Direct
+  - [Understanding OEM Replacement Parts: What Every Vehicle Owner Should Know](https://usaautopartsdirect.com/blogs/news/understanding-oem-replacement-parts-what-every-vehicle-owner-should-know): Understanding OEM Replacement Parts: What Every Vehicle Owner Should Know
+    Updated: 2026-10-12T03:03:09Z
+    Author: USA Auto Parts Direct
+  - [A Persuasive Look at Truck Parts: Why Auto Accessories Matter](https://usaautopartsdirect.com/blogs/news/a-persuasive-look-at-truck-parts-why-auto-accessories-matter): A Persuasive Look at Truck Parts: Why Auto Accessories Matter
+    Updated: 2026-10-16T00:03:31Z
+    Author: USA Auto Parts Direct
 
 ## Store Pages
 
-- [Contact](https://usaautopartsdirect.com/pages/contact): Contact USA Auto Parts Direct Need help with a product, vehicle fitment, an existing order, shipping or a return? Our customer service team is here...
-  Updated: 2026-09-11T00:28:33Z
+- [Contact](https://usaautopartsdirect.com/pages/contact): # Contact USA Auto Parts Direct Need help with a product, vehicle fitment, an existing order, shipping or a return? Our customer service team is he...
+  Updated: 2026-09-27T11:39:53Z
 - [About us](https://usaautopartsdirect.com/pages/about-us): About USA Auto Parts Direct USA Auto Parts Direct was created to make finding and buying automotive parts online simpler. We supply a large range o...
-  Updated: 2026-09-11T11:40:51Z
+  Updated: 2026-09-27T11:59:12Z
 - [FAQ](https://usaautopartsdirect.com/pages/faq): Frequently Asked Questions Find answers to common questions about ordering automotive parts from USA Auto Parts Direct. How do I know if a part wil...
   Updated: 2026-09-11T00:32:42Z
 - [Your Privacy Choices](https://usaautopartsdirect.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
@@ -1358,11 +1380,11 @@
 - [Privacy Policy](https://usaautopartsdirect.com/policies/privacy-policy)
   Updated: 2026-09-05T13:22:34+12:00
 - [Shipping Policy](https://usaautopartsdirect.com/policies/shipping-policy)
-  Updated: 2026-09-11T12:13:22+12:00
+  Updated: 2026-09-24T22:25:51+12:00
 - [Refund Policy](https://usaautopartsdirect.com/policies/refund-policy)
-  Updated: 2026-09-11T12:11:13+12:00
+  Updated: 2026-09-24T22:36:10+12:00
 - [Terms of Service](https://usaautopartsdirect.com/policies/terms-of-service)
-  Updated: 2026-09-15T12:06:03+12:00
+  Updated: 2026-09-19T23:04:06+12:00
 - [Contact Information](https://usaautopartsdirect.com/policies/contact-information)
   Updated: 2026-09-11T12:14:37+12:00
 
