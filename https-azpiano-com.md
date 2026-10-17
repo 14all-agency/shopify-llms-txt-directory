@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2021-03-12T22:00:33Z
 - Contact Email: info@azpiano.com
-- Updated At: 2026-10-09T06:46:27.318Z
+- Updated At: 2026-10-17T00:00:24.571Z
 
 ## Products
 
@@ -1327,14 +1327,14 @@
   Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20260904_145613.jpg?v=1790203906
   Price: $0.00 USD
 - [Boston GP193](https://azpiano.com/products/boston-gp193): MODEL NUMBER: GP193SERIAL NUMBER: 134685YEAR: N/ASIZE: 6' 4"COLOR/FINISH STYLE: Polished BlackADDITIONAL DETAILS: Includes bench and warranty
-  Updated: 2026-09-26T21:23:21Z
+  Updated: 2026-10-16T15:50:10Z
   Vendor: AZ PIANO
   Product Type: USED GRAND PIANO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20260904_145746.jpg?v=1790204355
   Price: $24,888.00 USD
 - [Boston GP193](https://azpiano.com/products/boston-gp193-1): MODEL NUMBER: GP193SERIAL NUMBER: 126190YEAR: N/ASIZE: 6' 4"COLOR/FINISH STYLE: Polished BlackADDITIONAL DETAILS: Includes bench and warranty
-  Updated: 2026-09-26T21:21:21Z
+  Updated: 2026-10-16T15:50:10Z
   Vendor: AZ PIANO
   Product Type: USED GRAND PIANO
   Availability: Available
