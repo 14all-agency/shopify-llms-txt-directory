@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-22T16:28:59Z
 - Contact Email: ArtDog@ArtDogs.co
-- Updated At: 2026-10-08T00:00:48.005Z
+- Updated At: 2026-10-17T00:00:47.947Z
 
 ## Products
 
 - [Jezebel's Tongue Mens Tracksuit Trousers](https://artdogs.net/products/jezebels-spirit-tracksuit-pants): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. The Rox Sports Jersey Fabric is smooth and comfortable. The side stripe detailing complements the silhouette. Pair with the Jezebel Tongue Jacket for a sharp tracksuit or wear with a white or black hoodie or zip polo. Either way you style them, the trousers look and feel great. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Individually Crafted for You Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS:73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-10-07T13:44:10Z
+  Updated: 2026-10-15T19:16:40Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
@@ -53,18 +53,18 @@
     Availability: Available
     Price: $319.00 USD
 - [Jezebel's Tongue Silk Tie](https://artdogs.net/products/jezebels-spirit-tie): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. The 100% real Silk Satin 58.5" one-size tie pairs well with either the bold and colorful shirts of the season or classic black for a dressier look. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Premium Ties Premium Ties 100% real Silk Satin 58.5" long One size available Individually Crafted for You Dry clean only .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2026-10-07T13:44:10Z
+  Updated: 2026-10-15T19:17:40Z
   Vendor: Contrado
   Product Type: Handmade Silk Tie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-jezebels-tongue-silk-tie-handmade-silk-tie-p35263847-image-01-featured.png?v=1787797305
   Price: $189.00 USD
-- [Jezebel's Tongue Mens Short Sleeve Shirt](https://artdogs.net/products/jezebels-spirit-button-up-short-sleeve-t-shirt): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. Jezebel's Tongue short-sleeve shirt is made with a breathable fabric with mother-of-pearl buttons. Get noticed by wearing the interesting strip design that pairs well with white, dark, bright, or black jeans or shorts. The casual, breathable, comfortable fabric with Mother of Pearl buttons makes the shirt the perfect one to pack for a vacation, serving as day-to-night attire. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Button Up Shirt Designer Button Up Shirt Breathable, comfortable fabric Mother of pearl buttons, with extra included Casual short sleeve style Printed all over with my designs Individually Crafted for You Wash at 86°F, low tumble dry heat, hang to dry, do not wring, low heat iron. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS:92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-10-07T13:44:11Z
+- [Jezebel's Tongue Mens Short Sleeve Shirt](https://artdogs.net/products/jezebels-spirit-button-up-short-sleeve-t-shirt): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. Jezebel's Tongue short-sleeve shirt is made with a breathable fabric with mother-of-pearl buttons. Get noticed by wearing the interesting strip design that pairs well with white, dark, bright, or black jeans or shorts. The casual, breathable, comfortable fabric with Mother of Pearl buttons makes the shirt the perfect one to pack for a vacation, serving as day-to-night attire. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Button Up Shirt Designer Button Up Shirt Breathable, comfortable fabric Mother of pearl buttons, with extra included Casual short sleeve style Printed all over with my designs Individually Crafted for You Wash at 86°F, low tumble dry heat, hang to dry, do not wring, low heat iron. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
+  Updated: 2026-10-14T13:52:38Z
   Vendor: Contrado
   Product Type: Mens Short Sleeve Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-jezebels-tongue-mens-short-sleeve-shirt-mens-short-sleeve-shirt-p35722599-image-01-featured.png?v=1787797305
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-jezebels-tongue-mens-short-sleeve-shirt-F01.jpg?v=1791559206
   - [2XS / Deluxe Organic Cotton Satin 130gsm / Spread Collar](https://artdogs.net/products/jezebels-spirit-button-up-short-sleeve-t-shirt?variant=42044875210855)
     Availability: Available
     Price: $199.00 USD
@@ -102,7 +102,7 @@
     Availability: Available
     Price: $219.00 USD
 - [Jezebel's Tongue Mens Tracksuit Jacket](https://artdogs.net/products/jezebels-spirit-tracksuit): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. The Rox Sports Jersey Fabric is the one you'll wear repeatedly. The smooth, soft, comfortable Rox Sports Jersey Fabric looks as good as it feels. The side strip detailing enhances the silhouette. Sizes 2XS-XL Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Individually Crafted for You Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS:73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " About the Art Jezebel's Tongue Mens Tracksuit Jacket brings emotional intensity and dramatic contrast to this mens tracksuit jacket. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression.
-  Updated: 2026-10-07T13:44:11Z
+  Updated: 2026-10-14T13:52:40Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Jacket
   Availability: Available
@@ -144,7 +144,7 @@
     Availability: Available
     Price: $299.00 USD
 - [Rainbow](https://artdogs.net/products/rainbow): Artwork provenance: This design is a preview piece from John Robert Hermann’s Look to the Sky, the first of his shows to use attire as its primary artistic medium. Fluid, draped silk transforms the original artwork into a wearable composition with softness, movement, and vivid color. Fabric choices include Silk Habotai, Silk Charmeuse, and Cotton/Silk Bandana Available in 10" × 45" and 16" × 72" Individually printed and finished in Montreal Soft, flowing construction designed for versatile styling Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the long scarf range in the existing 10" x 45" and 16" x 72" sizes. Long scarf sizes remain unchanged.
-  Updated: 2026-10-07T13:44:11Z
+  Updated: 2026-10-14T13:52:42Z
   Vendor: ArtDogs LLC
   Product Type: Long Scarf
   Availability: Available
@@ -282,7 +282,7 @@
     Availability: Available
     Price: $329.00 USD
 - [Peacock Feathers Women's Trousers](https://artdogs.net/products/x-1): Artwork provenance: This design comes from John Robert Hermann’s Challenges series (2017). We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. Peacock Feathers Women's Trousers feature wide legs, lined pockets, and an elasticated waistband, making them ideal for lounging, travel, daywear, or outerwear. The fabric has a slight, light-reflecting sheen, making the pants versatile. The trousers dress up well, paired with a silk satin top for a night out on the town, but look and feel casual with a chambray top and duster. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Printed Pants Designer Printed Pants Wide leg and lined pockets Elasticated waistband Drawstring detail Individually Crafted for You Ideal for lounge, day or outer wear Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XS: S: M: L: XL: 2XL: Waist XS:54 - 62 cm 21 - 24 " S: 62 - 70 cm 24 - 28 " M: 70 - 78 cm 28 - 31 " L: 78 - 86 cm 31 - 34 " XL: 86 - 94 cm 34 - 37 " 2XL: 94 - 106 cm 37 - 42 " Hips XS: 79 - 87 cm 31 - 34 " S: 87 - 95 cm 34 - 37 " M: 95 - 103 cm 37 - 41 " L: 103 - 111 cm 41 - 44 " XL: 111 - 119 cm 44 - 47 " 2XL: 119 - 131 cm 47 - 52 "
-  Updated: 2026-10-07T13:44:12Z
+  Updated: 2026-10-14T13:54:05Z
   Vendor: Contrado
   Product Type: Womens Trousers
   Availability: Available
@@ -306,7 +306,7 @@
     Availability: Available
     Price: $169.00 USD
 - [Spirit of Jezebel Mens Tracksuit Trousers](https://artdogs.net/products/x-2): Artwork provenance: This design comes from John Robert Hermann’s Revelation series (2016). We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. The Spirit of Jezebel Tracksuit trousers pair well with sweatshirts, Hoodies, t-shirts, and the Spirit of Jezebel Tracksuit jacket. The jacket and trousers are sold separately. Designer Tracksuits Designer Tracksuits Rox Sports Jersey Fabric Sizes 2XS - XL Side stripe detailing Jacket and trousers sold separately Individually Crafted for You Turn inside out before washing. Iron on the reverse of the printed side. 86°F wash. Low tumble heat. Do not wring. Low heat iron. Steam safe. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XXS: XS: S: M: L: XL: 2XL: 3XL: 4XL: 5XL 6XL 7XL Waist XXS: 69 - 72 cm 27.1 - 28.3 " XS: 73 - 76 cm 28.7 - 29.9 " S: 77 - 80 cm 30.3 - 31.4 " M: 81 - 84 cm 31.8 - 33 " L: 85 - 88 cm 33.4 - 34.6 " XL: 89 - 92 cm 35 - 36.2 " 2XL: 93 - 96 cm 36.6 - 37.7 " 3XL: 97 - 100 cm 38.1 - 39.3 " 4XL: 101 - 104 cm 39.7 - 40.9 " 5XL 105 - 110 cm 41.3 - 43.3 " 6XL 111 - 116 cm 43.7 - 45.7 " 7XL 117 - 122 cm 46.1 - 48 " Chest XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 " Hips XXS: 88 - 91 cm 34.6 - 35.8 " XS: 92 - 95 cm 36.2 - 37.4 " S: 96 - 99 cm 37.7 - 38.9 " M: 100 - 103 cm 39.3 - 40.5 " L: 104 - 107 cm 40.9 - 42.1 " XL: 108 - 111 cm 42.5 - 43.7 " 2XL: 112 - 115 cm 44 - 45.2 " 3XL: 116 - 119 cm 45.6 - 46.8 " 4XL: 120 - 123 cm 47.2 - 48.4 " 5XL 124 - 129 cm 48.8 - 50.7 " 6XL 130 - 135 cm 51.2 - 53.1 " 7XL 136 - 141 cm 53.5 - 55.5 "
-  Updated: 2026-10-07T13:44:12Z
+  Updated: 2026-10-14T13:54:03Z
   Vendor: Contrado
   Product Type: Mens Tracksuit Trousers
   Availability: Available
@@ -348,11 +348,11 @@
     Availability: Available
     Price: $319.00 USD
 - [The Wide Path Two Sweatshirt](https://artdogs.net/products/x-3): We take fine art beyond the frame and into everyday life. Original artwork by artist John Robert Hermann transforms this piece into a distinctive expression of ArtDogs design. Each piece is individually crafted for its future owner at our production partner’s London workshop after the order is placed. This approach avoids speculative inventory and the waste created by unsold goods. Our production partner publishes commitments to fair pay and supply-chain due diligence addressing forced labor, human trafficking, and child labor. The Wide Path Two Sweatshirt Unisex is made from 100% Poly Jersey with a ribbed neck, cuffs, and hem. The sweater pairs well with jeans and khakis for a dressier twist to comfort. Choose the fabric type and size. Enjoy the comfort of the relaxed fit. Wear the art. Discover its story. Your ArtDogs piece comes with a Certificate of Authenticity and a tap-to-discover chip powered by NFC (Near Field Communication). Simply tap your compatible smartphone against the chip to explore your artwork’s story, inspiration, and history. Art you can wear. A story you can carry. Designer Sweatshirt Designer Sweatshirt 100% poly Jersey Unisex design Relaxed fit Ribbed neck, cuffs and hem Individually Crafted for You Turn inside out, wash 86°F, hang to dry or low heat tumble dry. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282} XS: S: M: L: XL: 2XL: 3XL: 4XL: Chest XS:86 - 91 cm 34 - 36 " S: 91 - 96 cm 36 - 38 " M: 96 - 101 cm 38 - 40 " L: 101 - 106 cm 40 - 42 " XL: 106 - 111 cm 42 - 44 " 2XL: 111 - 119 cm 44 - 47 " 3XL: 119 - 127 cm 47 - 50 " 4XL: 127 - 135 cm 50 - 53 " Waist XS: 71 - 76 cm 28 - 30 " S: 76 - 81 cm 30 - 32 " M: 81 - 86 cm 32 - 34 " L: 86 - 91 cm 34 - 36 " XL: 91 - 96 cm 36 - 38 " 2XL: 96 - 104 cm 38 - 41 " 3XL: 104 - 112 cm 41 - 44 " 4XL: 112 - 120 cm 44 - 47 "
-  Updated: 2026-10-07T13:44:12Z
+  Updated: 2026-10-14T13:54:12Z
   Vendor: Contrado
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-the-wide-path-two-sweatshirt-sweatshirt-p87110759-image-01-featured.png?v=1787797176
+  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-wide-path-two-sweatshirt-dog-companion.png?v=1791819771
   - [XS (34-36") / White Loopback Jersey 7.37 oz](https://artdogs.net/products/x-3?variant=42269181149287)
     Availability: Available
     Price: $189.00 USD
@@ -504,7 +504,7 @@
     Availability: Available
     Price: $379.00 USD
 - [Bird House 7](https://artdogs.net/products/bird-house-24): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 7 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:13Z
+  Updated: 2026-10-14T13:54:20Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -549,7 +549,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Too Many Flowers](https://artdogs.net/products/too-many-flowers-8): About the Artwork Too Many Flowers comes from John Robert Hermann’s Milieu series (2015), a body of work reflecting the times in which we live. The title began quite literally: the composition was created with what might be considered too many flowers. From that abundance emerged a broader idea. Beauty can be universally recognized, while attraction remains personal. No single face, figure, silhouette, or style can represent every ideal. Each person carries a distinctive combination worthy of recognition and admiration. Adapted from Hermann’s original fine artwork, Too Many Flowers moves beyond the frame and becomes wearable art. The square format lets the artwork continually change through folding, draping, and tying, revealing different colors and details with each arrangement. Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:14Z
+  Updated: 2026-10-14T13:54:22Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -594,7 +594,7 @@
     Availability: Available
     Price: $109.00 USD
 - [In the Beginning was the Word](https://artdogs.net/products/in-the-beginning-was-the-word-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art In the Beginning was the Word brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:14Z
+  Updated: 2026-10-14T13:54:24Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -639,7 +639,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Grandma's Gift](https://artdogs.net/products/grandmas-gift-7): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Grandma's Gift brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:14Z
+  Updated: 2026-10-14T13:54:26Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -684,7 +684,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Carnality](https://artdogs.net/products/carnality-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Carnality brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:15Z
+  Updated: 2026-10-14T13:54:28Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -729,7 +729,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 3](https://artdogs.net/products/unfathomable-22): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 3 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:15Z
+  Updated: 2026-10-14T13:59:09Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -774,7 +774,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Beauty Behind the Veil](https://artdogs.net/products/beauty-behind-the-veil-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Beauty Behind the Veil brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:15Z
+  Updated: 2026-10-14T14:02:10Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -819,7 +819,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Grandma's Gift 1](https://artdogs.net/products/grandmas-gift-8): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Grandma's Gift 1 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:16Z
+  Updated: 2026-10-14T14:02:14Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -864,7 +864,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 9](https://artdogs.net/products/unfathomable-23): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 9 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:16Z
+  Updated: 2026-10-14T13:59:17Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -909,7 +909,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 2](https://artdogs.net/products/unfathomable-24): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 2 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:16Z
+  Updated: 2026-10-14T13:59:20Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -954,7 +954,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Chaos and Order](https://artdogs.net/products/chaos-and-order-4): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America.About the Art Chaos and Order brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:16Z
+  Updated: 2026-10-14T13:59:23Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -999,7 +999,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 8](https://artdogs.net/products/unfathomable-25): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All made in North America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 8 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:17Z
+  Updated: 2026-10-14T13:59:30Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1089,7 +1089,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Depth 4](https://artdogs.net/products/depth-24): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:17Z
+  Updated: 2026-10-14T14:02:16Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1134,7 +1134,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Dismay](https://artdogs.net/products/dismay-3): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Dismay brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:18Z
+  Updated: 2026-10-14T13:59:39Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1179,7 +1179,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Bird House 2](https://artdogs.net/products/bird-house-25): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Bird House 2 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:18Z
+  Updated: 2026-10-14T13:59:41Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1224,7 +1224,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 4](https://artdogs.net/products/venery-15): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 4 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:18Z
+  Updated: 2026-10-14T13:59:43Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1269,7 +1269,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Life](https://artdogs.net/products/life-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary with travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:18Z
+  Updated: 2026-10-14T14:02:26Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1314,7 +1314,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Rainbow Haze](https://artdogs.net/products/rainbow-haze-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:19Z
+  Updated: 2026-10-14T14:02:29Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1359,7 +1359,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Depth 3](https://artdogs.net/products/depth-25): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in America. Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:19Z
+  Updated: 2026-10-14T14:02:31Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1404,7 +1404,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Mourning's Wrath](https://artdogs.net/products/mournings-wrath-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics get made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:19Z
+  Updated: 2026-10-14T14:02:39Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1449,7 +1449,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 7](https://artdogs.net/products/venery-16): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Venery 7 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:20Z
+  Updated: 2026-10-14T14:02:41Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1494,7 +1494,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 7](https://artdogs.net/products/unfathomable-26): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Unfathomable 7 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:20Z
+  Updated: 2026-10-14T14:02:43Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1539,7 +1539,7 @@
     Availability: Available
     Price: $109.00 USD
 - [That is Interesting](https://artdogs.net/products/that-is-interesting-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art That is Interesting brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:20Z
+  Updated: 2026-10-14T14:02:45Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1584,7 +1584,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Rainbow Daze](https://artdogs.net/products/rainbow-daze-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:21Z
+  Updated: 2026-10-14T14:02:47Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1629,7 +1629,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Depth 2](https://artdogs.net/products/depth-26): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight sik scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Depth 2 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:21Z
+  Updated: 2026-10-14T14:03:33Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1674,7 +1674,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Ethereal](https://artdogs.net/products/ethereal-3): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Ethereal brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:21Z
+  Updated: 2026-10-14T14:03:36Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1719,7 +1719,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Heaven/Hell or Yin/Yang 4](https://artdogs.net/products/heaven-hell-or-yin-yang-5): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Heaven/Hell or Yin/Yang 4 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:21Z
+  Updated: 2026-10-14T14:03:37Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1764,7 +1764,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Leafage](https://artdogs.net/products/leafage-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Leafage brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:22Z
+  Updated: 2026-10-14T14:03:40Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1809,7 +1809,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Bird House 8](https://artdogs.net/products/bird-house-26): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Bird House 8 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:22Z
+  Updated: 2026-10-14T14:03:43Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1854,7 +1854,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Bird House 5](https://artdogs.net/products/bird-house-27): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 5 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:22Z
+  Updated: 2026-10-14T14:03:52Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1899,7 +1899,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 1](https://artdogs.net/products/unfathomable-27): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Unfathomable 1 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:23Z
+  Updated: 2026-10-14T14:03:54Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1944,7 +1944,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 6](https://artdogs.net/products/unfathomable-28): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Unfathomable 6 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:23Z
+  Updated: 2026-10-14T14:03:55Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -1989,7 +1989,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 5](https://artdogs.net/products/venery-17): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Venery 5 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:23Z
+  Updated: 2026-10-14T14:03:58Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2034,7 +2034,7 @@
     Availability: Available
     Price: $109.00 USD
 - [In the Beginning Was the Word](https://artdogs.net/products/in-the-beginning-was-the-word-3): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art In the Beginning Was the Word brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:24Z
+  Updated: 2026-10-14T14:04:00Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2079,7 +2079,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Depth 7](https://artdogs.net/products/depth-27): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. The light weight silk scarves are the perfect accessory to give your travel wardrobe the trends and styles, adding the extra wearable miles necessary for travel attire! Our fabrics are made in a factory with OEKO-TEX certification for standardized and safe working conditions. All are made in North America.About the Art Depth 7 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:24Z
+  Updated: 2026-10-14T14:04:09Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2124,7 +2124,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Heaven/Hell or Yin/Yang 1](https://artdogs.net/products/heaven-hell-or-yin-yang-6): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Heaven/Hell or Yin/Yang 1 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:24Z
+  Updated: 2026-10-14T14:04:11Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2169,7 +2169,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 11](https://artdogs.net/products/venery-18): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Venery 11 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:24Z
+  Updated: 2026-10-14T14:04:14Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2214,7 +2214,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Intersect 2](https://artdogs.net/products/intersect-9): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Intersect 2 brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:25Z
+  Updated: 2026-10-14T14:04:29Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2304,7 +2304,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Resolving Ire](https://artdogs.net/products/resolving-ire-5): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Resolving Ire brings emotional intensity and dramatic contrast to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:25Z
+  Updated: 2026-10-14T14:07:34Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2349,7 +2349,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Bird House 1](https://artdogs.net/products/bird-house-28): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics get made in a factory with OEKO-TEX certification for standard Machine wash in cold water with ¼ cup of vinegar and 2 teaspoons of salt. Fill the washing machine with water (no ecocycle). Machine dry delicate or hang to dry. Can be ironed using the silk setting. Do not bleach. Can be drycleaned.About the Art Bird House 1 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:26Z
+  Updated: 2026-10-14T14:07:36Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2394,7 +2394,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 12](https://artdogs.net/products/unfathomable-29): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Unfathomable 12 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:26Z
+  Updated: 2026-10-14T14:07:37Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2439,7 +2439,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Intersect 3](https://artdogs.net/products/intersect-10): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Intersect 3 brings a tension between structure and spontaneity to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:26Z
+  Updated: 2026-10-14T14:07:40Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2484,7 +2484,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Bird House 4](https://artdogs.net/products/bird-house-29): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty. Our fabrics get made in a factory with OEKO-TEX certification for standardAbout the Art Bird House 4 brings a sense of lift, movement, and open space to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:26Z
+  Updated: 2026-10-14T14:07:42Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2529,7 +2529,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 6](https://artdogs.net/products/venery-19): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 6 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:27Z
+  Updated: 2026-10-14T14:07:53Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2574,7 +2574,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Venery 2](https://artdogs.net/products/venery-20): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Venery 2 brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:27Z
+  Updated: 2026-10-14T14:07:55Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2619,7 +2619,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Unfathomable 11](https://artdogs.net/products/unfathomable-30): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Unfathomable 11 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:27Z
+  Updated: 2026-10-14T14:07:57Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2664,7 +2664,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Heaven/Hell or Yin/Yang 3](https://artdogs.net/products/heaven-hell-or-yin-yang-7): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Heaven/Hell or Yin/Yang 3 brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:28Z
+  Updated: 2026-10-14T14:07:59Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2709,7 +2709,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Depth 5](https://artdogs.net/products/depth-28): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Depth 5 brings depth, mystery, and layered atmosphere to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:28Z
+  Updated: 2026-10-14T14:08:01Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2754,7 +2754,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Possibilities of Life](https://artdogs.net/products/possibilities-of-life-2): Artwork provenance: This design comes from John Robert Hermann’s Milieu series (2015). Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Possibilities of Life brings symbolic imagery and a contemplative mood to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:28Z
+  Updated: 2026-10-14T14:08:08Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2799,7 +2799,7 @@
     Availability: Available
     Price: $109.00 USD
 - [Valley of Shadow of Death](https://artdogs.net/products/valley-of-shadow-of-death-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Valley of Shadow of Death brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:29Z
+  Updated: 2026-10-14T14:08:10Z
   Vendor: ArtDogs LLC
   Product Type: Square Scarf
   Availability: Available
@@ -2843,52 +2843,7 @@
   - [Cotton/Silk Bandana / 21" x 21"](https://artdogs.net/products/valley-of-shadow-of-death-1?variant=50385969381479)
     Availability: Available
     Price: $109.00 USD
-- [Reality](https://artdogs.net/products/reality-1): Fluid and beautiful draped scarves are the perfect way to dress up any outfit and wear art where you go: very soft on hand, vibrant colors, a perfect mix of durability and beauty.Our fabrics are made in a factory with OEKO-TEX certification for standard.About the Art Reality brings distinctive color, texture, and visual rhythm to this square scarf. Adapted from original fine art by John Robert Hermann, the composition becomes part of the silhouette, allowing details to shift with the drape, shape, and movement of the piece. Created for collectors who believe art should be lived with—not left on the wall, this design reflects ArtDogs’ art-first approach to wearable expression. Cotton/Silk Bandana: Adds a cotton/silk fabric choice to the square scarf range, including a new 21" × 21" size available exclusively in Cotton/Silk Bandana. Existing square scarf fabric and size options remain.
-  Updated: 2026-10-07T13:44:29Z
-  Vendor: ArtDogs LLC
-  Product Type: Square Scarf
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0626/3242/7623/files/artdogs-reality-square-scarf-p64630375-image-01-featured.png?v=1787799894
-  - [Silk Habotai / 16" x 16"](https://artdogs.net/products/reality-1?variant=41825981464679)
-    Availability: Available
-    Price: $99.00 USD
-  - [Silk Habotai / 26" x 26"](https://artdogs.net/products/reality-1?variant=41825981497447)
-    Availability: Available
-    Price: $119.00 USD
-  - [Silk Habotai / 36" x 36"](https://artdogs.net/products/reality-1?variant=41825981530215)
-    Availability: Available
-    Price: $149.00 USD
-  - [Silk Habotai / 50" x 50"](https://artdogs.net/products/reality-1?variant=41825981562983)
-    Availability: Available
-    Price: $199.00 USD
-  - [Silk Charmeuse / 16" x 16"](https://artdogs.net/products/reality-1?variant=41825981595751)
-    Availability: Available
-    Price: $109.00 USD
-  - [Silk Charmeuse / 26" x 26"](https://artdogs.net/products/reality-1?variant=41825981628519)
-    Availability: Available
-    Price: $129.00 USD
-  - [Silk Charmeuse / 36" x 36"](https://artdogs.net/products/reality-1?variant=41825981661287)
-    Availability: Available
-    Price: $169.00 USD
-  - [Silk Charmeuse / 50" x 50"](https://artdogs.net/products/reality-1?variant=41825981694055)
-    Availability: Available
-    Price: $219.00 USD
-  - [Cotton/Silk Bandana / 16" x 16"](https://artdogs.net/products/reality-1?variant=50385969414247)
-    Availability: Available
-    Price: $99.00 USD
-  - [Cotton/Silk Bandana / 26" x 26"](https://artdogs.net/products/reality-1?variant=50385969447015)
-    Availability: Available
-    Price: $119.00 USD
-  - [Cotton/Silk Bandana / 36" x 36"](https://artdogs.net/products/reality-1?variant=50385969479783)
-    Availability: Available
-    Price: $149.00 USD
-  - [Cotton/Silk Bandana / 50" x 50"](https://artdogs.net/products/reality-1?variant=50385969512551)
-    Availability: Available
-    Price: $199.00 USD
-  - [Cotton/Silk Bandana / 21" x 21"](https://artdogs.net/products/reality-1?variant=50385969545319)
-    Availability: Available
-    Price: $109.00 USD
-[List Continued](https://artdogs.net/a/llms-agent/llms.txt?shop=4xpbt1-mm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDI1ODY0NjMwMzc1LCJsYXN0X3ZhbHVlIjoiNzQyNTg2NDYzMDM3NSJ9)
+[List Continued](https://artdogs.net/a/llms-agent/llms.txt?shop=4xpbt1-mm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDI1ODY0NTMyMDcxLCJsYXN0X3ZhbHVlIjoiNzQyNTg2NDUzMjA3MSJ9)
 
 ## Collections
 
@@ -2917,7 +2872,7 @@
   Updated: 2026-10-07T13:44:10Z
   Total Products: 7
 - [Unisex & Women’s T-Shirts](https://artdogs.net/collections/unisex-women-s-t-shirts)
-  Updated: 2026-10-07T13:44:10Z
+  Updated: 2026-10-16T01:45:12Z
   Total Products: 74
 - [Pegnoirs](https://artdogs.net/collections/peignoirs)
   Updated: 2026-10-07T13:44:10Z
@@ -2929,7 +2884,7 @@
   Updated: 2026-10-07T13:44:11Z
   Total Products: 146
 - [Unisex Clothing](https://artdogs.net/collections/unisex-clothing)
-  Updated: 2026-10-07T13:44:11Z
+  Updated: 2026-10-16T01:45:12Z
   Total Products: 243
 - [Accessories](https://artdogs.net/collections/accessories): Shop ArtDogs women’s fashion accessories featuring stylish, unique designs. Discover scarves, apparel, and everyday essentials crafted for comfort and style.
   Updated: 2026-10-07T13:44:11Z
@@ -2952,8 +2907,8 @@
 - [Short Dresses](https://artdogs.net/collections/short-dresses)
   Updated: 2026-10-07T13:44:11Z
   Total Products: 25
-- [Activewear](https://artdogs.net/collections/men-activewear)
-  Updated: 2026-10-07T13:44:11Z
+- [Men's Activewear](https://artdogs.net/collections/men-activewear)
+  Updated: 2026-10-08T13:24:40Z
   Total Products: 24
 - [Lounge wear](https://artdogs.net/collections/lounge-wear): Shop women’s lounge pants designed for comfort and style. Explore soft, breathable loungewear perfect for relaxing, casual wear, and everyday comfort.
   Updated: 2026-10-07T13:44:11Z
@@ -2968,35 +2923,35 @@
   Updated: 2026-10-07T13:44:11Z
   Total Products: 7
 - [Robes](https://artdogs.net/collections/robes)
-  Updated: 2026-10-07T13:44:11Z
-  Total Products: 19
+  Updated: 2026-10-08T12:07:31Z
+  Total Products: 18
 - [Kimonos Robes](https://artdogs.net/collections/kimonos-robes): Shop floral kimono robes for women, including long and stylish designs. Explore comfortable, elegant kimono robes perfect for lounging and everyday wear.
-  Updated: 2026-10-07T13:44:12Z
-  Total Products: 20
-- [T-Shirts](https://artdogs.net/collections/t-shirts): Shop cotton unisex T-shirts designed for comfort and everyday wear. Explore soft, breathable tees with versatile styles for all-day comfort.
-  Updated: 2026-10-07T13:44:12Z
-  Total Products: 74
+  Updated: 2026-10-08T13:27:06Z
+  Total Products: 19
+- [Women's T-Shirts](https://artdogs.net/collections/women-t-shirts): Shop cotton unisex T-shirts designed for comfort and everyday wear. Explore soft, breathable tees with versatile styles for all-day comfort.
+  Updated: 2026-10-08T13:21:07Z
+  Total Products: 22
 - [Hoodie dresses](https://artdogs.net/collections/hoodie-dresses)
   Updated: 2026-10-07T13:44:12Z
   Total Products: 6
 - [Trousers](https://artdogs.net/collections/trousers)
-  Updated: 2026-10-07T13:44:12Z
-  Total Products: 5
+  Updated: 2026-10-08T13:30:35Z
+  Total Products: 4
 - [Kimono jacket](https://artdogs.net/collections/kimono-jacket)
   Updated: 2026-10-07T13:44:12Z
   Total Products: 9
 - [Button-up Shirts](https://artdogs.net/collections/button-up-shirts)
   Updated: 2026-10-07T13:44:12Z
   Total Products: 8
-- [Sweaters](https://artdogs.net/collections/sweaters)
-  Updated: 2026-10-07T13:44:12Z
-  Total Products: 27
+- [Men's Sweaters](https://artdogs.net/collections/mens-sweaters)
+  Updated: 2026-10-08T13:23:52Z
+  Total Products: 12
 - [Sweatshirts](https://artdogs.net/collections/sweatshirts)
   Updated: 2026-10-07T13:44:12Z
   Total Products: 6
 - [Hoodies](https://artdogs.net/collections/hoodies)
-  Updated: 2026-10-07T13:44:12Z
-  Total Products: 5
+  Updated: 2026-10-08T13:33:25Z
+  Total Products: 4
 - [Hazmat Suits](https://artdogs.net/collections/hazmat-suits)
   Updated: 2026-10-07T13:44:12Z
   Total Products: 7
@@ -3019,11 +2974,11 @@
   Updated: 2026-10-07T13:44:13Z
   Total Products: 11
 - [Bags](https://artdogs.net/collections/bags)
-  Updated: 2026-10-07T13:44:13Z
-  Total Products: 5
+  Updated: 2026-10-08T13:35:25Z
+  Total Products: 3
 - [Scarves](https://artdogs.net/collections/scarves-1): Shop ArtDogs silk square scarves for men & women, including printed, unisex, and long scarves. Explore unique designs like Angel of Death & birdhouse styles..
-  Updated: 2026-10-07T13:44:13Z
-  Total Products: 302
+  Updated: 2026-10-08T13:39:06Z
+  Total Products: 294
 - [Purses](https://artdogs.net/collections/purses)
   Updated: 2026-10-07T13:44:13Z
   Total Products: 5
@@ -3037,8 +2992,14 @@
   Updated: 2026-10-07T13:44:13Z
   Total Products: 6
 - [Women Activewear](https://artdogs.net/collections/women-activewear)
-  Updated: 2026-10-07T13:46:03Z
+  Updated: 2026-10-08T13:29:01Z
+  Total Products: 13
+- [Women Sweaters](https://artdogs.net/collections/women-sweaters)
+  Updated: 2026-10-08T11:39:47Z
   Total Products: 14
+- [Men's T-Shirts](https://artdogs.net/collections/mens-t-shirts): Creative Looks Shine Through Cotton Unisex T-shirt Designs A great t-shirt should feel comfortable, fit well, and work effortlessly with everyday style. ArtDogs LLC creates thoughtfully designed Cotton Unisex T-shirt options that combine softness, durability, and a relaxed fit suitable for different body types. Made with high-quality combed and ring-spun cotton, these shirts are designed for daily wear while maintaining a clean and polished look. Whether paired with jeans, layered under a jacket, or worn casually at home, these t-shirts offer dependable comfort without sacrificing style. Comfortable Fabric That Feels Lightweight Each Cotton Unisex T-shirt is made with soft cotton material that feels breathable and easy to wear throughout the day. The lightweight construction helps create a smooth fit while still offering durability for regular use. Key Features ● Soft combed and ring-spun cotton fabric. ● Relaxed unisex fit for versatile styling. ● Comfortable feel for everyday wear. ● Durable printing is designed to maintain appearance. ● Produced with responsible manufacturing practices. A Fit That Works for Different Styles The unisex design makes these t-shirts suitable for a wide range of personal styles and preferences. The balanced fit offers comfort without feeling too loose or too tight, making it easy to wear in casual settings, while traveling, or during everyday activities. ArtDogs LLC focuses on combining wearable comfort with artistic printed designs that help each shirt stand out naturally. Designed for Daily Wear A reliable Cotton Unisex T-shirt should hold up well through repeated use while remaining comfortable over time. These shirts are made from high-quality materials that support long-term wear and help maintain their shape and softness. With versatile styling and easy comfort, they fit naturally into everyday wardrobes for both men and women. FAQs 1. What material is used in the T-shirts? The shirts are made from combed and ring-spun cotton for a soft, comfortable feel. 2. Are the shirts suitable for all body types? Yes, the unisex fit is designed to complement a variety of body shapes and sizes. 3. Can these t-shirts be worn daily? Yes, the lightweight fabric and comfortable fit make them ideal for regular everyday wear. 4. Do the printed designs last after washing? The shirts are made with durable printing methods designed to help maintain the design appearance over time.
+  Updated: 2026-10-08T13:16:54Z
+  Total Products: 47
 
 ## Blogs
 
