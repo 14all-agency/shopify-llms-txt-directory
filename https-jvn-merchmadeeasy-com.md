@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-18T00:00:45.466Z
+- Updated At: 2026-10-17T00:00:43.241Z
 
 ## Products
 
 - [Hot and Healed Tote Bag](https://jvn.merchmadeeasy.com/products/hot-and-healed-tote-bag): Hot & Healed graphic printed on the front 100% cotton canvas 20" self-fabric handles
-  Updated: 2026-09-02T23:02:57Z
+  Updated: 2026-10-05T13:06:19Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_Hot-and-Healed-Tote.png?v=1777397821
   Price: $20.00 USD
-- [Hot and Healed Tour Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee): Hot and Healed graphic on the front chest Jonathan Van Ness photo on the back 100% cotton tee in natural SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-09-01T15:22:06Z
+- [Hot and Healed Tour Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee): Hot and Healed graphic on the front chest Jonathan Van Ness photo on the back 100% cotton tee in natural
+  Updated: 2026-10-05T13:06:19Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -42,7 +42,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot Slut University Hoodie](https://jvn.merchmadeeasy.com/products/hot-slut-university-hoodie): Hot Slut University graphic on the front Black hoodie Unisex
-  Updated: 2026-09-01T20:26:16Z
+  Updated: 2026-10-05T13:06:20Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -69,7 +69,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Fun and Slutty Tee](https://jvn.merchmadeeasy.com/products/fun-and-slutty-tee): Fun and Slutty graphic on the front 100% cotton tee in Grey Unisex
-  Updated: 2026-08-11T07:21:18Z
+  Updated: 2026-10-05T13:06:20Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -96,7 +96,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Ice Cream Tee](https://jvn.merchmadeeasy.com/products/ice-cream-tee): Ice Cream graphic on the front and back 100% cotton tee in Tan Unisex
-  Updated: 2026-08-11T07:23:03Z
+  Updated: 2026-10-05T13:06:21Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -123,42 +123,42 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot Slut University Tote](https://jvn.merchmadeeasy.com/products/hot-slut-university-tote): 100% cotton canvas tote in Black Hot Slut University graphic on the front
-  Updated: 2026-08-11T07:23:35Z
+  Updated: 2026-10-05T13:06:22Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198560-jvn-2a2a3623.png?v=1779120944
   Price: $20.00 USD
 - [Olympian Tote](https://jvn.merchmadeeasy.com/products/olympian-tote): 100% cotton canvas tote in Black Imaginary living room olympian graphic on the front
-  Updated: 2026-08-11T07:25:15Z
+  Updated: 2026-10-05T13:06:22Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198564-jvn-2a2a3626.png?v=1779121007
   Price: $20.00 USD
 - [Olympian Water Bottle](https://jvn.merchmadeeasy.com/products/olympian-water-bottle): Reusable metal water bottle in black Jonathan Van Ness logo printed on the front
-  Updated: 2026-08-11T07:26:55Z
+  Updated: 2026-10-05T13:06:22Z
   Vendor: Jonathan Van Ness
   Product Type: Water Bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198516-jvn-2a2a3548.png?v=1779121017
   Price: $10.00 USD
 - [Valentine Card](https://jvn.merchmadeeasy.com/products/valentine-cards)
-  Updated: 2026-09-05T05:00:57Z
+  Updated: 2026-10-05T13:06:23Z
   Vendor: Jonathan Van Ness
   Product Type: Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198513-jvn-2a2a3542.png?v=1779121049
   Price: $3.00 USD
 - [Stun Queen Mask](https://jvn.merchmadeeasy.com/products/stun-queen-mask): Cotton face mask with Stun Queen on the front Made of 100% cotton in black
-  Updated: 2026-08-11T07:27:17Z
+  Updated: 2026-10-05T13:06:23Z
   Vendor: Jonathan Van Ness
   Product Type: Face Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198546-jvn-2a2a3603.png?v=1779121117
   Price: $3.00 USD
 - [Stun Queen Tee](https://jvn.merchmadeeasy.com/products/stun-queen-tee): Stun Queen graphic with photo of Jonathan on the front 100% cotton tee
-  Updated: 2026-08-28T23:56:28Z
+  Updated: 2026-10-05T13:06:24Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -188,7 +188,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Stun Queen Crop Hoodie](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie): Stun Queen graphic with photo of Jonathan on the front Cropped hoodie Unisex
-  Updated: 2026-09-02T23:02:56Z
+  Updated: 2026-10-05T13:06:24Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -206,7 +206,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Stun Queen Crop Tee](https://jvn.merchmadeeasy.com/products/stun-queen-crop-tee): Stun Queen graphic on the front with photo of Jonathan 100% cotton tee, cropped Unisex
-  Updated: 2026-08-11T07:30:46Z
+  Updated: 2026-10-05T13:06:25Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -218,7 +218,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Stun Queen Crewneck](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck): Stun Queen graphic with photo of Jonathan on the front Unisex sweatshirt available in medium length or cropped
-  Updated: 2026-08-11T07:24:27Z
+  Updated: 2026-10-05T13:06:26Z
   Vendor: Jonathan Van Ness
   Product Type: Sweatshirt
   Availability: Available
@@ -236,7 +236,7 @@
     Availability: Available
     Price: $50.00 USD
 - [IUD Hoodie](https://jvn.merchmadeeasy.com/products/iud-hoodie): Jonathan Van Ness IUD 100% cotton Hoodie with IUD text graphic on the front.
-  Updated: 2026-09-14T21:30:37Z
+  Updated: 2026-10-05T13:06:26Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -306,28 +306,28 @@
     Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
     Price: $65.00 USD
 - [Hot Pink Hot and Healed Tote](https://jvn.merchmadeeasy.com/products/hot-pink-hot-and-healed-tote): Jonathan Van Ness Hot Pink Hot and Healed tote with a Hot and Healed graphic on the front. Made of 100% cotton canvas with 20" self-fabric handles.
-  Updated: 2026-08-28T13:59:56Z
+  Updated: 2026-10-05T13:06:27Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0003_Hot-and-Healed-Tote-New.png?v=1785948409
   Price: $25.00 USD
 - [Pro Hydration Trucker Hat](https://jvn.merchmadeeasy.com/products/pro-hydration-trucker-hat): Pro Hydration graphic printed on the front 100% polyester foam front, mesh back trucker hat in jade Adjustable single snapback closure
-  Updated: 2026-09-14T21:30:45Z
+  Updated: 2026-10-05T13:06:27Z
   Vendor: Jonathan Van Ness
   Product Type: trucker hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0004_Pro-Hydration-Hat.png?v=1785949334
   Price: $30.00 USD
 - [Starburst Sticker](https://jvn.merchmadeeasy.com/products/starburst-sticker): Jonathan Van Ness starburst sticker 3.3" in size
-  Updated: 2026-08-29T09:48:35Z
+  Updated: 2026-10-05T13:06:28Z
   Vendor: Jonathan Van Ness
   Product Type: sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0005_Sticker.png?v=1785949830
   Price: $5.00 USD
 - [Pro Hydration Crop Tee](https://jvn.merchmadeeasy.com/products/pro-hydration-crop-tee): Jonathan Van Ness Pro Hydration Crop Tee with Pro Hydration graphic on the front. Made of  60/40 combed ring-spun cotton/polyester in Grey.
-  Updated: 2026-08-28T13:59:58Z
+  Updated: 2026-10-05T13:06:28Z
   Vendor: Jonathan Van Ness
   Product Type: Crop Tee
   Availability: Available
@@ -348,7 +348,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot and Healed Photo Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee): The Jonathan Van Ness Hot and Healed Live On Tour charcoal t-shirt is made of 100% cotton and features a graphic with a photo of Jonathan Van Ness on the front.
-  Updated: 2026-08-28T23:56:27Z
+  Updated: 2026-10-05T13:06:29Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -378,7 +378,7 @@
     Availability: Available
     Price: $35.00 USD
 - [IUD Keychain](https://jvn.merchmadeeasy.com/products/iud-keychain): Jonathan Van Ness IUD Keychain in pink and blue that is 2.2 inches wide x 2.5 inches tall
-  Updated: 2026-09-05T05:00:56Z
+  Updated: 2026-10-05T13:06:29Z
   Vendor: Jonathan Van Ness
   Product Type: keychain
   Availability: Available
