@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-09-12T16:15:02Z
 - Contact Email: peebow65@gmail.com
-- Updated At: 2026-10-08T10:24:19.127Z
+- Updated At: 2026-10-17T11:04:21.628Z
 
 ## Products
 
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S835c1a6ba83e4ad08a5028dbf6d195f24.webp?v=1791350293
     Price: $15.66 USD
 - [PHERON Men's Beach Flip Flops | Lightweight EVA Slip-On Slides & Sandals](https://wpbbnz-dw.myshopify.com/products/men-beach-flip-flops-2022-summer-casual-shoes-man-slip-on-slippers-male-casual-sandals-mens-bathroom-flip-flop-slides-zapatos): Shop PHERON men's lightweight EVA beach flip flops & slip-on slides. Perfect for beach, pool & casual wear. Platform sole. US sizes 7–11.
-  Updated: 2026-10-07T18:40:32Z
+  Updated: 2026-10-09T16:07:25Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2665,10 +2665,10 @@
   Updated: 2026-10-07T05:20:55Z
   Total Products: 0
 - [Jeans & Pants](https://wpbbnz-dw.myshopify.com/collections/jeans-pants): Comfortable, trendy jeans and pants for every day. Find your perfect fit in classic and modern styles.
-  Updated: 2026-10-07T05:47:18Z
-  Total Products: 0
+  Updated: 2026-10-08T19:58:24Z
+  Total Products: 3
 - [Stuffed Animals & Plush Toys](https://wpbbnz-dw.myshopify.com/collections/stuffed-animals-plush-toys): Soft, cuddly plush toys and stuffed animals for kids and collectors. Perfect gifts that bring a smile.
-  Updated: 2026-10-07T18:39:37Z
+  Updated: 2026-10-08T11:23:49Z
   Total Products: 35
 
 ## Store Pages
@@ -2685,7 +2685,7 @@
 - [Shipping Policy](https://wpbbnz-dw.myshopify.com/policies/shipping-policy)
   Updated: 2026-09-23T22:30:41+05:00
 - [Refund Policy](https://wpbbnz-dw.myshopify.com/policies/refund-policy)
-  Updated: 2026-09-24T00:31:51+05:00
+  Updated: 2026-10-08T15:49:43+05:00
 - [Terms of Service](https://wpbbnz-dw.myshopify.com/policies/terms-of-service)
   Updated: 2026-09-23T22:30:26+05:00
 - [Contact Information](https://wpbbnz-dw.myshopify.com/policies/contact-information)
