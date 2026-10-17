@@ -6,19 +6,27 @@
 - Timezone: Europe/Zurich
 - Created At: 2020-03-26T10:39:21Z
 - Contact Email: info@joycorporate.ch
-- Updated At: 2026-10-09T09:22:27.494Z
+- Updated At: 2026-10-17T00:00:26.265Z
+
+Mara Schär – Life & Business Coaching in Basel, Schweiz
+
+Mara Schär bietet professionelles Life Coaching, Business Coaching, Karriere- und Bewerbungscoaching, Führungscoaching sowie Mindset- und Wellbeing-Coaching an.
+
+Das Coaching richtet sich an Privatpersonen, Berufstätige und Führungskräfte, die ihre persönliche Entwicklung fördern, berufliche Herausforderungen meistern, Selbstvertrauen aufbauen und mehr Klarheit, Balance und Lebensqualität gewinnen möchten.
+
+Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enthält Informationen zu individuellen Coaching-Dienstleistungen sowie digitalen Workbooks für persönliche Entwicklung, Achtsamkeit und Resilienz.
 
 ## Products
 
 - [Prokrastination überwinden: Dein Workbook für mehr Produktivität](https://maraschaer.com/products/prokrastination-uberwinden-dein-workbook-fur-mehr-produktivitat-und-weniger-aufschieben): Prokrastination überwinden: Dein Workbook für mehr Produktivität. Prokrastination überwinden leicht gemacht!
-  Updated: 2026-08-28T17:33:57Z
+  Updated: 2026-10-16T14:50:00Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Prokrastination1650x804.jpg?v=1760543987
   Price: 24,90 CHF CHF
 - [Achtsamkeit stärken – Dein persönliches Workbook für innere Ruhe](https://maraschaer.com/products/achtsamkeit): Achtsamkeit stärken – Dein persönliches Workbook für innere Ruhe und Klarheit.
-  Updated: 2026-08-28T17:33:58Z
+  Updated: 2026-10-16T14:50:01Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
@@ -32,14 +40,14 @@
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Resilienz1650x804.jpg?v=1760544273
   Price: 23,60 CHF CHF
 - [Burnout Symptome & Stressbewältigung – Dein Workbook](https://maraschaer.com/products/burnout-symptome): Burnout Symptome & Stressbewältigung. Ein interaktiver Leitfaden für mehr Erholung und gesunde Arbeitswelt
-  Updated: 2026-08-28T17:33:58Z
+  Updated: 2026-10-16T14:50:01Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Burnout1650x804.jpg?v=1760564455
   Price: 29,40 CHF CHF
 - [Manifestieren: Bedeutung und Wissenschaft](https://maraschaer.com/products/manifestieren-bedeutung-workbook): Manifestieren: Bedeutung und Wissenschaft. Manifestieren: Dein Workbook für Klarheit, Vertrauen und ein bewusst gestaltetes Leben
-  Updated: 2026-08-28T17:33:59Z
+  Updated: 2026-10-16T14:50:01Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
@@ -680,6 +688,15 @@
   - [Coaching versus Beratung: Was passt zu dir?](https://maraschaer.com/blogs/news/coaching-versus-beratung): Coaching versus Beratung: Was passt zu dir?
     Updated: 2026-10-09T02:34:10Z
     Author: Admin
+  - [Wie lange dauert Burnout-Erholung wirklich?](https://maraschaer.com/blogs/news/wie-lange-dauert-burnout-erholung): Wie lange dauert Burnout-Erholung wirklich?
+    Updated: 2026-10-11T02:34:22Z
+    Author: Admin
+  - [Psychische Belastung früh erkennen mit 7 Signalen](https://maraschaer.com/blogs/news/psychische-belastung-frueh-erkennen): Psychische Belastung früh erkennen mit 7 Signalen
+    Updated: 2026-10-13T02:35:08Z
+    Author: Admin
+  - [Selbstvertrauen nach Kündigung stärken](https://maraschaer.com/blogs/news/selbstvertrauen-nach-kuendigung-staerken): Selbstvertrauen nach Kündigung stärken
+    Updated: 2026-10-15T02:33:23Z
+    Author: Admin
 
 ## Store Pages
 
@@ -748,6 +765,36 @@
   Updated: 2025-07-22T14:45:59+02:00
 - [Terms of Service](https://maraschaer.com/policies/terms-of-service)
   Updated: 2025-07-22T14:47:07+02:00
+
+Products and Services
+
+Life Coaching: Individuelles Coaching für persönliche Entwicklung, Lebensziele und Orientierung.
+
+Online Life Coaching: Flexibles, ortsunabhängiges Coaching.
+
+Führungscoaching: Leadership Coaching für Führungskräfte.
+
+Bewerbungscoaching: Unterstützung bei Bewerbungen, Interviews und beruflicher Neuorientierung.
+
+Business- und Karrierecoaching: Berufliche Entwicklung, Karriereziele und Business Mindset.
+
+Coaching bei Trennung und Scheidung: Begleitung bei persönlichen und familiären Veränderungen.
+
+Selbstvertrauen stärken: Coaching für Selbstbewusstsein und persönliche Stärke.
+
+Workbooks und digitale Produkte: Materialien für Achtsamkeit, Resilienz, Stressbewältigung und persönliche Entwicklung.
+
+About Mara Schär
+
+Über Mara Schär: Informationen über Erfahrung, Qualifikationen und Coaching-Ansatz.
+
+Website: Überblick über Coaching-Angebote und Produkte.
+
+English Content
+
+English Website: Coaching services in English.
+
+Life & Business Coaching in Switzerland: English-language coaching information.
 
 ## Optional
 
@@ -830,3 +877,9 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+Weitere Informationen über Mara Schär und ihre Coaching-Angebote sind auf https://maraschaer.com verfügbar.
+
+Die Website bietet Informationen auf Deutsch und Englisch. Für aktuelle Dienstleistungen, Produktinformationen, Preise und Verfügbarkeiten sind die jeweiligen Seiten auf der offiziellen Website massgebend.
+
+Coaching dient der persönlichen und beruflichen Entwicklung und ersetzt keine medizinische oder psychotherapeutische Behandlung.
