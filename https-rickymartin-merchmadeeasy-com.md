@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-28T20:31:13Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-08T00:00:40.581Z
+- Updated At: 2026-10-17T00:00:43.795Z
 
 ## Products
 
 - [Más Amor Hat](https://rickymartin.merchmadeeasy.com/products/mas-amor-hat): Ricky Martin Más Amor Hat in black with adjustable closure.
-  Updated: 2026-10-05T13:05:05Z
+  Updated: 2026-10-10T12:22:17Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RM_MAS_AMOR_HAT-3.png?v=1771514293
   Price: $30.00 USD
 - [Angle Logo Tee](https://rickymartin.merchmadeeasy.com/products/sinfonico-tee): Ricky Martin Angle Logo Tee in black with front print only.
-  Updated: 2026-10-05T22:40:04Z
+  Updated: 2026-10-13T05:16:59Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -71,7 +71,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMPLAYMUG.png?v=1771452034
   Price: $20.00 USD
 - [Chess Tee](https://rickymartin.merchmadeeasy.com/products/chess-tee): Ricky Martin Chess Tee in white with front print only.
-  Updated: 2026-10-06T21:50:37Z
+  Updated: 2026-10-12T23:20:57Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -107,14 +107,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Más Amor Water Bottle](https://rickymartin.merchmadeeasy.com/products/mas-amor-water-bottle): Ricky Martin Water Bottle
-  Updated: 2026-10-05T13:05:08Z
+  Updated: 2026-10-12T23:20:56Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMWATERBOTTLE.png?v=1771453047
   Price: $10.00 USD
 - [Photo Long Sleeve Tee](https://rickymartin.merchmadeeasy.com/products/photo-long-sleeve-tee): Ricky Martin Photo Long Sleeve in black. Front print only.
-  Updated: 2026-10-05T13:05:08Z
+  Updated: 2026-10-16T17:10:26Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -150,7 +150,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Photo Tee Ricky Martin 2026](https://rickymartin.merchmadeeasy.com/products/photo-tee): Ricky Martin 2026 Photo Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-05T18:12:48Z
+  Updated: 2026-10-15T16:15:36Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -162,28 +162,28 @@
     Availability: Not Available
     Price: $30.00 USD
   - [L](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433402622)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [XL](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433435390)
     Availability: Available
     Price: $30.00 USD
   - [2XL](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433468158)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
 
 ## Collections
 
 - [Home page](https://rickymartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-07T11:22:19Z
+  Updated: 2026-10-16T11:32:59Z
   Total Products: 13
 - [Apparel](https://rickymartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-07T11:22:19Z
+  Updated: 2026-10-16T11:32:59Z
   Total Products: 7
 - [Accessories](https://rickymartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-01T18:44:00Z
+  Updated: 2026-10-08T11:20:26Z
   Total Products: 4
 - [All](https://rickymartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-07T11:22:19Z
+  Updated: 2026-10-16T11:32:59Z
   Total Products: 11
 
 ## Store Pages
