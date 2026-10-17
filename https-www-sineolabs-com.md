@@ -10,14 +10,14 @@
 - Contact Email: info@sineolabs.com
 - Contact Phone: +1 (302) 209-5999
 - Address: 15 Boulden Blvd, New Castle, DE 19720, United States
-- Updated At: 2026-10-10T00:00:39.308Z
+- Updated At: 2026-10-17T00:00:39.420Z
 
 ## Products
 
 - [Aged Garlic Extract Softgels, 7,500mg Equivalent, Odorless](https://www.sineolabs.com/products/aged-odorless-garlic): Odorless aged garlic extract softgels with 7,500mg equivalent per serving. Naturally aged for 2 years and easy to take daily with meals.
-  Updated: 2026-10-09T19:21:56Z
+  Updated: 2026-10-16T19:24:55Z
   Vendor: SineoLabs
-  Product Type: Supplement
+  Product Type: Supplement > Garlic Extract
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0973/3639/4063/files/60-softgels-aged-garlic-sineolabs.png?v=1780340690
   - [1 Pack](https://www.sineolabs.com/products/aged-odorless-garlic?variant=57836535546191)
@@ -39,7 +39,7 @@
   Updated: 2026-05-08T22:09:05Z
   Total Products: 0
 - [Bestsellers](https://www.sineolabs.com/collections/bestsellers)
-  Updated: 2026-10-09T21:12:11Z
+  Updated: 2026-10-10T11:19:58Z
   Total Products: 10
 
 ## Blogs
@@ -653,6 +653,18 @@
     Updated: 2026-10-09T00:43:50Z
     Author: Connor Davis
     Tags: adaptogens, anxiety relief, health, herbal adaptogens guide, home supplements, natural remedies, stress, stress relief supplements at home
+  - [Ashwagandha for Everyday Calmness: An Insightful Guide](https://www.sineolabs.com/blogs/wellness-insights/ashwagandha-for-everyday-calmness-an-insightful-guide): Ashwagandha for Everyday Calmness: An Insightful Guide
+    Updated: 2026-10-12T01:24:25Z
+    Author: Connor Davis
+    Tags: ashwagandha, benefits of ashwagandha, guide to ashwagandha, herbal remedy, natural calm, stress relief, supplements, wellness
+  - [Omega-3 and Cognitive Support: Understanding the Connection](https://www.sineolabs.com/blogs/wellness-insights/omega-3-and-cognitive-support-understanding-the-connection): Omega-3 and Cognitive Support: Understanding the Connection
+    Updated: 2026-10-14T03:31:45Z
+    Author: Connor Davis
+    Tags: brain health, cognitive, mental clarity, nutritional support, omega-3, omega-3 benefits for cognition, supplements, supplements for brain health
+  - [Turmeric Tinctures: Daily Booster Shot Explored Yet Mindful](https://www.sineolabs.com/blogs/wellness-insights/turmeric-tinctures-daily-booster-shot-explored-yet-mindful): Turmeric Tinctures: Daily Booster Shot Explored Yet Mindful
+    Updated: 2026-10-16T00:30:05Z
+    Author: Connor Davis
+    Tags: daily wellness, health benefits, herbal supplement uses, natural remedies, supplements, tinctures, turmeric, turmeric for immunity
 
 ## Store Pages
 
