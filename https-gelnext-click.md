@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-10-02T00:00:42.589Z
+- Updated At: 2026-10-17T00:00:46.186Z
 
 ## Products
 
@@ -770,7 +770,7 @@
     Availability: Available
     Price: 16 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston)
-  Updated: 2026-08-30T17:35:31Z
+  Updated: 2026-10-16T19:09:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -803,7 +803,7 @@
     Availability: Available
     Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-1)
-  Updated: 2026-09-01T20:25:07Z
+  Updated: 2026-10-16T19:09:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -836,7 +836,7 @@
     Availability: Available
     Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-2)
-  Updated: 2026-08-30T17:33:12Z
+  Updated: 2026-10-16T19:09:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -869,7 +869,7 @@
     Availability: Available
     Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-3)
-  Updated: 2026-08-30T17:31:21Z
+  Updated: 2026-10-16T19:09:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -902,7 +902,7 @@
     Availability: Available
     Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-4)
-  Updated: 2026-08-30T17:29:24Z
+  Updated: 2026-10-16T19:09:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -1544,7 +1544,7 @@
     Availability: Available
     Price: 10 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-5)
-  Updated: 2026-08-30T17:30:18Z
+  Updated: 2026-10-16T19:14:15Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2698,6 +2698,39 @@
   - [45](https://gelnext.click/products/new-balance-531?variant=52938212081946)
     Availability: Available
     Price: 12 000,00 FCFA XAF
+- [Air Jordan 1 Low x Travis Scott](https://gelnext.click/products/air-jordan-1-low-x-travis-scott)
+  Updated: 2026-10-15T11:41:15Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_14-10-2026_19325_www.nike.com.jpg?v=1791997527
+  - [37](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785420570)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785453338)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785486106)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785518874)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785551642)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785584410)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785617178)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785649946)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/air-jordan-1-low-x-travis-scott?variant=53080785682714)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
 
 ## Collections
 
@@ -2740,6 +2773,9 @@
 - [Dior](https://gelnext.click/collections/dior): - GelNext
   Updated: 2026-09-23T19:13:54Z
   Total Products: 4
+- [Air Jordan](https://gelnext.click/collections/jordan): - GelNext
+  Updated: 2026-10-15T11:41:16Z
+  Total Products: 1
 
 ## Store Pages
 
