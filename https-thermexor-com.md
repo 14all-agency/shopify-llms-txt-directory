@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-09-19T15:56:22Z
 - Contact Email: zhu261010@gmail.com
-- Updated At: 2026-09-28T00:00:20.902Z
+- Updated At: 2026-10-17T00:00:34.449Z
 
 ## Products
 
 - [Panoramic Roof Heat Shield & Clear Coating | Thermexor](https://thermexor.com/products/panoramic-roof-heat-shield-kit): Help reduce solar heat through panoramic roof glass with Thermexor’s clear DIY coating kit for sedans, SUVs and Tesla Model Y. Tools included.
-  Updated: 2026-09-26T15:47:13Z
+  Updated: 2026-10-16T17:50:14Z
   Vendor: Thermexor
   Product Type: Automotive Glass Coating Kit
   Availability: Available
@@ -41,6 +41,22 @@
   - [DIY Sunroof Coating Preparation Checklist | Thermexor](https://thermexor.com/blogs/guides/diy-sunroof-coating-preparation-checklist): DIY Sunroof Coating Preparation Checklist | Thermexor
     Updated: 2026-09-22T16:20:46Z
     Author: 朱嘉俊
+  - [What the SGS Test Reports Show: Optical Results and Pencil Hardness](https://thermexor.com/blogs/guides/sgs-laboratory-test-reports): Explore the supplied SGS optical and physical reports, see the original pages, and understand what the hardness observations do and do not establish.
+    Updated: 2026-10-01T18:19:23Z
+    Author: Thermexor
+    Tags: Glass coating, Pencil hardness, SGS test reports
+  - [Sunroof Coating  Time & First Wash | Thermexor](https://thermexor.com/blogs/guides/sunroof-coating--time-and-first-wash): Sunroof Coating  Time & First Wash | Thermexor
+    Updated: 2026-10-06T17:08:24Z
+    Author: Thermexor
+    Tags: Aftercare, Application,  time
+  - [Panoramic Roof Area & Coating Quantity | Thermexor](https://thermexor.com/blogs/guides/measure-panoramic-roof-coating-quantity): Panoramic Roof Area & Coating Quantity | Thermexor
+    Updated: 2026-10-06T17:08:27Z
+    Author: Thermexor
+    Tags: Application, Kit fitment, Roof measurement
+  - [Reading Sunroof Coating Heat Demonstrations | Thermexor](https://thermexor.com/blogs/guides/read-sunroof-coating-heat-demo-photos): Reading Sunroof Coating Heat Demonstrations | Thermexor
+    Updated: 2026-10-06T17:08:30Z
+    Author: Thermexor
+    Tags: Heat demonstrations, Test results, Thermexor photos
 
 ## Store Pages
 
@@ -56,6 +72,8 @@
   Updated: 2026-09-22T15:11:02Z
 - [DIY Sunroof Coating FAQ: Fitment and Care | Thermexor](https://thermexor.com/pages/faq): Find answers about the Thermexor panoramic roof coating kit, fitment and DIY application. Read the application guide, explore film vs coating, or a...
   Updated: 2026-09-22T14:25:15Z
+- [About Thermexor | Panoramic Roof Coating Kits](https://thermexor.com/pages/about): Keep the view. Rethink the heat. A panoramic roof brings light, space and a view of the sky into your car. On sunny days, the glass above you can a...
+  Updated: 2026-10-07T11:49:27Z
 
 ## Policies
 
