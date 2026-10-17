@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T22:51:07Z
 - Contact Email: assortment.shoppe@gmail.com
-- Updated At: 2026-10-09T00:00:34.664Z
+- Updated At: 2026-10-17T00:00:35.726Z
 
 ## Products
 
@@ -1365,6 +1365,15 @@
     Author: CURVE THEORY
   - [A Comparative Analysis of Popular Shapewear Brands](https://shopcurvetheory.com/blogs/curve-theory-blog/a-comparative-analysis-of-popular-shapewear-brands): A Comparative Analysis of Popular Shapewear Brands
     Updated: 2026-10-07T19:03:18Z
+    Author: CURVE THEORY
+  - [The Benefits of Daily Shapewear Use](https://shopcurvetheory.com/blogs/curve-theory-blog/the-benefits-of-daily-shapewear-use): The Benefits of Daily Shapewear Use
+    Updated: 2026-10-11T19:00:32Z
+    Author: CURVE THEORY
+  - [How Shapewear Can Boost Your Self Esteem in Any Outfit](https://shopcurvetheory.com/blogs/curve-theory-blog/how-shapewear-can-boost-your-self-esteem-in-any-outfit): How Shapewear Can Boost Your Self Esteem in Any Outfit
+    Updated: 2026-10-12T19:01:52Z
+    Author: CURVE THEORY
+  - [Understanding Different Types of Shapewear and Their Uses](https://shopcurvetheory.com/blogs/curve-theory-blog/understanding-different-types-of-shapewear-and-their-uses): Understanding Different Types of Shapewear and Their Uses
+    Updated: 2026-10-14T19:00:24Z
     Author: CURVE THEORY
 
 ## Store Pages
