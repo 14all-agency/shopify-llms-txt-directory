@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-13T18:25:24Z
 - Contact Email: kairmerce@outlook.com
-- Updated At: 2026-10-10T00:00:36.288Z
+- Updated At: 2026-10-18T00:00:36.852Z
 
 ## Products
 
@@ -31,13 +31,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/6277/8973/files/kilian-a-kiss-from-a-rose_ae1f7628-e818-43bd-bc07-1d6fa4fc4d91.jpg?v=1789424492
   Price: $101.99 USD
-- [KILIAN Flower of Immortality Perfume - Timeless Floral Elegance](https://kairmerce.com/products/flower-of-immortality-by-kilian-1-7-oz): Experience KILIAN Flower of Immortality Eau de Parfum, a timeless floral fragrance with lotus, white florals, and sandalwood for a luxurious scent journey.
-  Updated: 2026-10-06T09:18:26Z
-  Vendor: Kilian
-  Product Type: Perfume
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0722/6277/8973/files/s-l1600_a354a3ae-4f96-481e-8066-1ab40a7ab8fa.webp?v=1789424498
-  Price: $137.99 USD
 - [BOND No. 9 Tribeca Eau de Parfum 100 ml](https://kairmerce.com/products/bond-no-9-new-york-tribeca-unisex-eau-de-parfum): Discover BOND No. 9 York Tribeca Eau de Parfum 100 ml, a distinctive unisex fragrance inspired by New York.
   Updated: 2026-09-24T07:07:56Z
   Vendor: BOND No. 9
@@ -886,7 +879,7 @@
   Updated: 2026-09-24T07:07:54Z
   Total Products: 0
 - [Women](https://kairmerce.com/collections/women): Discover our curated collection of women's luxury perfumes. Shop CHANEL, DIOR, VALENTINO, LANCÔME and more at KAIRMERCÉ.
-  Updated: 2026-09-26T11:24:17Z
+  Updated: 2026-10-11T11:20:19Z
   Total Products: 105
 - [Men](https://kairmerce.com/collections/men): Shop premium men's fragrances at KAIRMERCÉ. Explore DIOR Sauvage, CHANEL Bleu, CREED Aventus, ARMANI and more top luxury colognes.
   Updated: 2026-10-01T11:20:49Z
@@ -895,10 +888,10 @@
   Updated: 2026-09-24T07:07:54Z
   Total Products: 41
 - [New In](https://kairmerce.com/collections/new-in): Shop the latest luxury fragrance arrivals at KAIRMERCÉ. Be the first to discover new perfumes from the world's top designer brands.
-  Updated: 2026-10-01T11:20:49Z
+  Updated: 2026-10-11T11:20:19Z
   Total Products: 229
 - [Best Sellers](https://kairmerce.com/collections/best-sellers): Shop KAIRMERCÉ's best  luxury fragrances. Our most popular perfumes and colognes loved by customers worldwide.
-  Updated: 2026-10-01T11:20:49Z
+  Updated: 2026-10-11T11:20:19Z
   Total Products: 229
 - [](https://kairmerce.com/collections/): Shop discounted luxury fragrances at KAIRMERCÉ. Great deals on authentic designer perfumes and colognes from top brands.
   Updated: 2026-09-24T07:07:54Z
@@ -943,7 +936,7 @@
   Updated: 2026-09-24T07:07:55Z
   Total Products: 2
 - [FLOWER](https://kairmerce.com/collections/brand-flower): Explore floral luxury fragrances at KAIRMERCÉ. Discover beautiful flower-scented perfumes from the world's top designer brands.
-  Updated: 2026-09-24T07:07:55Z
+  Updated: 2026-10-11T11:20:19Z
   Total Products: 1
 - [GIORGIO ARMANI](https://kairmerce.com/collections/brand-giorgio-armani): Shop authentic GIORGIO ARMANI perfumes at KAIRMERCÉ. Discover Acqua di Gio, Acqua di Gio Profondo, My Way Ylang and more.
   Updated: 2026-10-01T11:20:49Z
@@ -955,7 +948,7 @@
   Updated: 2026-09-24T07:07:56Z
   Total Products: 12
 - [KILIAN](https://kairmerce.com/collections/brand-kilian): Shop authentic KILIAN luxury fragrances at KAIRMERCÉ. Discover the full collection of KILIAN niche perfumes for men and women.
-  Updated: 2026-09-24T07:07:56Z
+  Updated: 2026-10-11T11:20:19Z
   Total Products: 3
 - [LANCÔME](https://kairmerce.com/collections/brand-lancome): Shop authentic LANCÔME fragrances at KAIRMERCÉ. Discover La Vie est Belle and the full LANCÔME luxury perfume collection for women.
   Updated: 2026-09-24T07:07:56Z
