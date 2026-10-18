@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-23T15:38:07Z
 - Contact Email: info@onlybar.de
-- Updated At: 2026-10-11T00:00:20.859Z
+- Updated At: 2026-10-18T00:00:31.478Z
 
 ## Products
 
 - [OnlyBar Proteinriegel Milky Caramel Crisp – mit 14 g Protein](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp): OnlyBar Proteinriegel Milky Caramel Crisp: 14 g Protein, 0 g Zuckerzusatz und 195 kcal pro 50 g. Mit 150 mg Leucin, ideal nach dem Sport oder für zwischendurch.
-  Updated: 2026-10-04T11:03:19Z
+  Updated: 2026-10-16T17:55:12Z
   Vendor: OnlyBar
   Product Type: Proteinriegel
   Availability: Available
@@ -29,14 +29,14 @@
     Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlybar-proteinriegel-milky-caramel-crisp-schokoriegel-karam-3.png?v=1791111790
     Price: 84,60 € EUR
 - [OnlySauce Burger Style – cremige Burger Sauce, 47 kcal je 100 ml](https://onlybar.de/products/onlysauce-burger-style-kalorienreduzierte-burger-sauce-ohne-zuckerzusatz): OnlySauce Burger Style schmeckt wie klassische Burger Sauce: cremig, rauchig und ohne Zuckerzusatz. Mit 47 kcal pro 100 ml und 2 kcal je Teelöffel (5 ml).
-  Updated: 2026-10-04T20:20:07Z
+  Updated: 2026-10-16T17:55:17Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-burger-style-cremige-burgersauce-1.png?v=1791111801
   Price: 4,49 € EUR
 - [OnlySauce Curry-Ketchup – Würzig-tomatig zu Pommes und Bratwurst](https://onlybar.de/products/curry-ketchup): OnlySauce Curry-Ketchup schmeckt würzig und tomatig und passt perfekt zu Pommes und Bratwurst. Ohne Zuckerzusatz, mit 24 kcal je 100
-  Updated: 2026-10-09T13:27:16Z
+  Updated: 2026-10-16T17:55:08Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
@@ -70,10 +70,10 @@
 ## Collections
 
 - [Kollektion](https://onlybar.de/collections/frontpage)
-  Updated: 2026-10-05T11:42:38Z
+  Updated: 2026-10-17T11:44:58Z
   Total Products: 5
 - [OnlyBar](https://onlybar.de/collections/onlybar): Proteinriegel
-  Updated: 2026-08-24T11:41:46Z
+  Updated: 2026-10-17T11:44:58Z
   Total Products: 1
 
 ## Blogs
@@ -94,6 +94,15 @@
     Author: Pascal Zimmermann
   - [Die Wahrheit über zuckerfreie Lebensmittel: Was Sie wissen sollten](https://onlybar.de/blogs/news/die-wahrheit-uber-zuckerfreie-lebensmittel-was-sie-wissen-sollten): Die Wahrheit über zuckerfreie Lebensmittel: Was Sie wissen sollten
     Updated: 2026-10-09T09:02:58Z
+    Author: Pascal Zimmermann
+  - [Zuckerfrei und kalorienarm: Rezeptideen für Ihren Alltag](https://onlybar.de/blogs/news/zuckerfrei-und-kalorienarm-rezeptideen-fur-ihren-alltag): Zuckerfrei und kalorienarm: Rezeptideen für Ihren Alltag
+    Updated: 2026-10-11T09:02:40Z
+    Author: Pascal Zimmermann
+  - [Welche zuckerfreien Süßstoffe sind wirklich gesund?](https://onlybar.de/blogs/news/welche-zuckerfreien-sussstoffe-sind-wirklich-gesund): Welche zuckerfreien Süßstoffe sind wirklich gesund?
+    Updated: 2026-10-14T09:00:24Z
+    Author: Pascal Zimmermann
+  - [Sind alle zuckerfreien Produkte auch wirklich kalorienarm?](https://onlybar.de/blogs/news/sind-alle-zuckerfreien-produkte-auch-wirklich-kalorienarm): Sind alle zuckerfreien Produkte auch wirklich kalorienarm?
+    Updated: 2026-10-16T09:00:36Z
     Author: Pascal Zimmermann
 
 ## Store Pages
