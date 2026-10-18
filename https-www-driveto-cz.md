@@ -89,7 +89,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2026-10-06T00:02:40.396Z
+- Updated At: 2026-10-18T00:02:52.251Z
 
 ## Naše služby
 
@@ -396,8 +396,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Products
 
 - [Tesla Model 3 elektro 208 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/tesla-model-3-model-3-elektro-208kw-elektrina-automaticka-prevodovka): Tesla Model 3 je elegantní a technologicky vyspělý sedan, který nabízí perfektní rovnováhu mezi výkonem a efektivitou. Vůz se pyšní minimalistickým designem a čistými liniemi, které zlepšují aerodynamiku a dodávají mu moderní vzhled. Interiér je prostorný a uživatelsky přívětivý. Hlavní dominantou je zde dotykový displej, který slouží jako centrální ovládací panel pro všechny funkce vozu. S dojezdem až 513 km podle cyklu WLTP je Tesla Model 3 RWD skvělou volbou pro každodenní dojíždění i delší cesty. Nabíjení je rychlé a efektivní – na rychlonabíjecí stanici (DC) se baterie nabije z 10 % na 80 % za přibližně 30 minut. Domácí nabíjení pomocí Wallboxu (AC) pak trvá asi 8 hodin pro plné dobití. Díky elektromotoru s výkonem 208 kW poskytuje Tesla Model 3 RWD dynamickou jízdu s okamžitým nástupem výkonu a tichým chodem. Asistenční systémy a pokročilé technologie zajišťují vysokou úroveň bezpečnosti a komfortu na cestách. Tento sedan je ideální pro ty, kteří hledají stylový a ekologický vůz s vynikajícím dojezdem, rychlým nabíjením a pohodlným podvozkem.
-  Updated: 2026-09-01T11:40:18Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:05:05Z
+  Vendor: Tesla
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/TeslaModel3elektrofoto1.webp?v=1761576522
@@ -411,8 +411,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 15 307,00 Kč CZK
 - [Tesla Model Y Standard Range RWD Elektro 220 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/tesla-model-y-standard-range-rwd-elektro-220kw-elektrina-automaticka-prevodovka): Nový Tesla Model Y je moderní elektrické SUV, které kombinuje prémiový minimalistický design s pokročilou technologií a ještě lepším dojezdem. Exteriér se vyznačuje ostřejšími, čistšími liniemi a vylepšeným aerodynamickým tvarem, který zvyšuje efektivitu a dodává vozu futuristický vzhled. Uvnitř najdete kompletně přepracovaný a skvěle odhlučněný interiér s vícebarevným ambientním osvětlením, novým volantem bez páček a velkým středovým displejem. Základní verze s pohonem zadních kol nyní nabízí prodloužený dojezd až 525 km, což bez problémů pokrývá každodenní ježdění i velmi dlouhé trasy. Nabíjení je ještě efektivnější – na rychlonabíjecí stanici (DC) doplníte energii z 10 % na 80 % přibližně za 25 minut. Domácí nabíjení pomocí Wallboxu (AC) pak zabere zhruba 8 hodin do plného stavu. Elektromotor zajišťuje okamžitý nástup výkonu a díky akustickým sklům a novým izolačním materiálům nabízí vůz až o 22 % tišší jízdu než dříve. Pokročilé asistenční systémy Autopilot a inovovaný, poddajnější podvozek přispívají k maximálnímu komfortu a bezpečnosti na cestách. Nový Model Y je tak ideální volbou pro ty, kteří hledají mimořádně prostorné, tiché a technologiemi nabité rodinné SUV.
-  Updated: 2026-09-24T00:56:08Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:05:18Z
+  Vendor: Tesla
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/tesla-model-y-standard-foto-01.webp?v=1790166410
@@ -426,8 +426,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 16 581,00 Kč CZK
 - [Nissan Qashqai N-CONNECTA 1.3 DIG-T MHEV 116 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/nissan-qashqai-n-connecta-1-3-dig-t-mhev-116kw-natural-95-automaticka-prevodovka): Nissan Qashqai je moderní SUV, které kombinuje odvážný design a pokročilé technologie. Uvnitř potěší moderně pojatý interiér, který si však zachovává intuitivní ovládání. Tento model je vybaven hybridním pohonem, který poskytuje solidní spotřebu a nadprůměrnou dynamiku. Nechybí ani automatická převodovka Xtronic, která zajišťuje hladkou a pohodlnou jízdu. Za zmínku také stojí široká škála bezpečnostních prvků a moderní technologie, které usnadňují každodenní používání. Tento vůz je ideální volbou pro ty, kteří hledají spolehlivé a komfortní SUV, se kterým jezdí primárně po městě a okolí. Delší trasu k moři sice také hravě zvládne, ale nebude tak úsporný, jako naftové vozy.
-  Updated: 2026-09-01T11:40:22Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:05:36Z
+  Vendor: Nissan
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/NissanQashqaiN-CONNECTA1.3foto1_153fd89a-b609-4075-b410-e0ec4c010263.webp?v=1761577449
@@ -456,8 +456,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 10 359,00 Kč CZK
 - [Nissan Qashqai Tekna 1.3 DIG-T 116 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/nissan-qashqai-tekna-1-3-dig-t-116kw-natural-95-automaticka-prevodovka): Nissan Qashqai je moderní SUV, které kombinuje odvážný design a pokročilé technologie. Uvnitř potěší moderně pojatý interiér, který si však zachovává intuitivní ovládání. Tento model je vybaven hybridním pohonem, který poskytuje solidní spotřebu a nadprůměrnou dynamiku. Nechybí ani automatická převodovka Xtronic, která zajišťuje hladkou a pohodlnou jízdu. Za zmínku také stojí široká škála bezpečnostních prvků a moderní technologie, které usnadňují každodenní používání. Tento vůz je ideální volbou pro ty, kteří hledají spolehlivé a komfortní SUV, se kterým jezdí primárně po městě a okolí, ale neztratí se ani na delších cestách.
-  Updated: 2026-09-01T11:40:22Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:05:37Z
+  Vendor: Nissan
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/NissanQashqaiTekna1.3foto1.webp?v=1761577473
@@ -486,8 +486,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 10 862,00 Kč CZK
 - [Volkswagen Caddy 2.0 TDi 75 kW Nafta Manuální převodovka](https://www.driveto.cz/products/volkswagen-caddy-2-0-tdi-75kw-nafta-manualni-prevodovka): Volkswagen Caddy je praktický a spolehlivý vůz, ideální pro rodiny i podnikání. Tento model kombinuje funkční design s kvalitním zpracováním, typickým pro značku Volkswagen. Exteriér Caddy vyniká čistými liniemi a robustním vzhledem, který naznačuje jeho všestrannost a odolnost. Interiér je navržen s ohledem na pohodlí a praktičnost, s dostatkem místa pro cestující i náklad. Sedadla jsou pohodlná a nabízí dobrou oporu, což oceníte na delších cestách. Motor 2.0 TDI poskytuje dostatečný výkon pro každodenní jízdu, přičemž naftový pohon zajišťuje úsporný provoz a dlouhou životnost. Manuální převodovka umožňuje plnou kontrolu nad vozem, což oceníte při jízdě v různorodých podmínkách. Volkswagen Caddy je vybaven základními bezpečnostními a asistenčními systémy, které přispívají k bezpečné a pohodlné jízdě. Tento model je ideální volbou pro ty, kteří hledají praktický a ekonomický vůz s dostatečným výkonem pro každodenní potřeby.
-  Updated: 2026-09-01T11:40:32Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:07:00Z
+  Vendor: Volkswagen
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/VolkswagenCaddy2.0TDifoto1.webp?v=1761617917
@@ -501,160 +501,160 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 10 647,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2026-09-23T11:35:15Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:07:12Z
+  Vendor: Audi
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
   - [10000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=65337615548765)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 16 779,00 Kč CZK
+    Price: 17 443,00 Kč CZK
   - [10000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=65337615581533)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cerna_Mythos_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 16 779,00 Kč CZK
+    Price: 17 443,00 Kč CZK
   - [10000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=65337615614301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 17 094,00 Kč CZK
+    Price: 17 443,00 Kč CZK
   - [10000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=65337615647069)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
-    Price: 17 094,00 Kč CZK
+    Price: 17 443,00 Kč CZK
   - [15000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283482973)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 17 107,00 Kč CZK
+    Price: 18 131,00 Kč CZK
   - [15000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283515741)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cerna_Mythos_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 17 107,00 Kč CZK
+    Price: 18 131,00 Kč CZK
   - [15000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283548509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 17 786,00 Kč CZK
+    Price: 18 131,00 Kč CZK
   - [15000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283581277)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
-    Price: 17 786,00 Kč CZK
+    Price: 18 131,00 Kč CZK
   - [20000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283614045)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 18 297,00 Kč CZK
+    Price: 19 257,00 Kč CZK
   - [20000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283646813)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cerna_Mythos_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 18 297,00 Kč CZK
+    Price: 19 257,00 Kč CZK
   - [20000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283679581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 18 916,00 Kč CZK
+    Price: 19 257,00 Kč CZK
   - [20000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283712349)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
-    Price: 18 916,00 Kč CZK
+    Price: 19 257,00 Kč CZK
   - [25000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283745117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 19 043,00 Kč CZK
+    Price: 19 961,00 Kč CZK
   - [25000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283777885)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cerna_Mythos_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 19 043,00 Kč CZK
+    Price: 19 961,00 Kč CZK
   - [25000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283810653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 19 609,00 Kč CZK
+    Price: 19 961,00 Kč CZK
   - [25000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283843421)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
-    Price: 19 609,00 Kč CZK
+    Price: 19 961,00 Kč CZK
   - [30000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283876189)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 20 320,00 Kč CZK
+    Price: 21 180,00 Kč CZK
   - [30000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283908957)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cerna_Mythos_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 20 320,00 Kč CZK
+    Price: 21 180,00 Kč CZK
   - [30000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283941725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
-    Price: 20 848,00 Kč CZK
+    Price: 21 180,00 Kč CZK
   - [30000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=63159283974493)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
-    Price: 20 848,00 Kč CZK
+    Price: 21 180,00 Kč CZK
 - [Audi Q5 S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesáhla 1,8 milionu.
-  Updated: 2026-09-01T11:40:33Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:07:10Z
+  Vendor: Audi
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/AudiQ5Slinefoto1.webp?v=1761618184
   - [10000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993907151197)
     Availability: Available
-    Price: 16 757,00 Kč CZK
+    Price: 17 076,00 Kč CZK
   - [10000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=64587510382941)
     Availability: Available
-    Price: 16 757,00 Kč CZK
+    Price: 17 076,00 Kč CZK
   - [10000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993907183965)
     Availability: Not Available
-    Price: 16 757,00 Kč CZK
+    Price: 17 076,00 Kč CZK
   - [10000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993907216733)
     Availability: Not Available
-    Price: 16 757,00 Kč CZK
+    Price: 17 076,00 Kč CZK
   - [15000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898107229)
     Availability: Available
-    Price: 17 415,00 Kč CZK
+    Price: 17 730,00 Kč CZK
   - [15000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=64587510448477)
     Availability: Available
-    Price: 17 415,00 Kč CZK
+    Price: 17 730,00 Kč CZK
   - [15000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898139997)
     Availability: Not Available
-    Price: 17 415,00 Kč CZK
+    Price: 17 730,00 Kč CZK
   - [15000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898172765)
     Availability: Not Available
-    Price: 17 415,00 Kč CZK
+    Price: 17 730,00 Kč CZK
   - [20000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898205533)
     Availability: Available
-    Price: 18 490,00 Kč CZK
+    Price: 18 817,00 Kč CZK
   - [20000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=64587510514013)
     Availability: Available
-    Price: 18 490,00 Kč CZK
+    Price: 18 817,00 Kč CZK
   - [20000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898238301)
     Availability: Not Available
-    Price: 18 490,00 Kč CZK
+    Price: 18 817,00 Kč CZK
   - [20000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898271069)
     Availability: Not Available
-    Price: 18 490,00 Kč CZK
+    Price: 18 817,00 Kč CZK
   - [25000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898303837)
     Availability: Available
-    Price: 19 147,00 Kč CZK
+    Price: 19 487,00 Kč CZK
   - [25000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=64587510579549)
     Availability: Available
-    Price: 19 147,00 Kč CZK
+    Price: 19 487,00 Kč CZK
   - [25000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898336605)
     Availability: Not Available
-    Price: 19 147,00 Kč CZK
+    Price: 19 487,00 Kč CZK
   - [25000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898369373)
     Availability: Not Available
-    Price: 19 147,00 Kč CZK
+    Price: 19 487,00 Kč CZK
   - [30000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898402141)
     Availability: Available
-    Price: 20 374,00 Kč CZK
+    Price: 20 677,00 Kč CZK
   - [30000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=64587510645085)
     Availability: Available
-    Price: 20 374,00 Kč CZK
+    Price: 20 677,00 Kč CZK
   - [30000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898434909)
     Availability: Not Available
-    Price: 20 374,00 Kč CZK
+    Price: 20 677,00 Kč CZK
   - [30000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898467677)
     Availability: Not Available
-    Price: 20 374,00 Kč CZK
+    Price: 20 677,00 Kč CZK
 - [Toyota Corolla Cross Comfort 1.8 Hybrid 103kw e-CVT 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1): Corolla Cross je odpověď na zvyšující se poptávku po středně velikých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě strčí do kapsy. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, ve kterém převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost motor o objemu 1,8 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2026-09-01T11:40:39Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:08:10Z
+  Vendor: Toyota
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/toyota-corolla-cross-comfort-foto-1_6fabf702-3a74-4037-9b14-1aa1ff1d3418.webp?v=1771329925
@@ -674,20 +674,20 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 9 895,00 Kč CZK
 - [Audi Q5 S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesáhla 1,8 milionu.
-  Updated: 2026-09-01T11:40:45Z
-  Vendor: Driveto
+  Updated: 2026-10-08T19:09:00Z
+  Vendor: Audi
   Product Type: Operativní leasing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
   - [10000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=64587492426077)
     Availability: Available
-    Price: 17 114,00 Kč CZK
+    Price: 17 455,00 Kč CZK
   - [10000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=64587492458845)
     Availability: Available
-    Price: 17 114,00 Kč CZK
+    Price: 17 455,00 Kč CZK
   - [10000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=64587492491613)
     Availability: Available
-    Price: 17 114,00 Kč CZK
+    Price: 17 455,00 Kč CZK
   - [10000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=64587492524381)
     Availability: Not Available
     Price: 18 999,00 Kč CZK
@@ -697,15 +697,15 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [15000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136143266141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
-    Price: 17 780,00 Kč CZK
+    Price: 18 116,00 Kč CZK
   - [15000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251466077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
-    Price: 17 780,00 Kč CZK
+    Price: 18 116,00 Kč CZK
   - [15000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251498845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
-    Price: 17 780,00 Kč CZK
+    Price: 18 116,00 Kč CZK
   - [15000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307266397)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
@@ -716,15 +716,15 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [20000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251531613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
-    Price: 18 862,00 Kč CZK
+    Price: 19 194,00 Kč CZK
   - [20000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251564381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
-    Price: 18 862,00 Kč CZK
+    Price: 19 194,00 Kč CZK
   - [20000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251597149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
-    Price: 18 862,00 Kč CZK
+    Price: 19 194,00 Kč CZK
   - [20000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307299165)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
@@ -735,15 +735,15 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251629917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
-    Price: 19 527,00 Kč CZK
+    Price: 19 872,00 Kč CZK
   - [25000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251662685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
-    Price: 19 527,00 Kč CZK
+    Price: 19 872,00 Kč CZK
   - [25000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251695453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
-    Price: 19 527,00 Kč CZK
+    Price: 19 872,00 Kč CZK
   - [25000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307331933)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
@@ -754,15 +754,15 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251728221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
-    Price: 20 729,00 Kč CZK
+    Price: 21 069,00 Kč CZK
   - [30000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251760989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
-    Price: 20 729,00 Kč CZK
+    Price: 21 069,00 Kč CZK
   - [30000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251793757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
-    Price: 20 729,00 Kč CZK
+    Price: 21 069,00 Kč CZK
   - [30000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307364701)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
@@ -770,97 +770,97 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298148189)
     Availability: Not Available
     Price: 21 181,00 Kč CZK
-[List Continued](https://www.driveto.cz/a/llms-agent/llms.txt?shop=driveto.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUyNDQxMTI0NDg5MywibGFzdF92YWx1ZSI6IjE1NTI0NDExMjQ0ODkzIn0%3D)
+- [Audi Q5 Sportback S line 2.0 TFSI 150 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený benzínový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesahuje 1,8 milionu.
+  Updated: 2026-10-08T19:09:00Z
+  Vendor: Audi
+  Product Type: Operativní leasing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1_9bb64cab-7966-4210-8049-f00166ba3787.webp?v=1761742133
+  - [10000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=64587528405341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_Tambora_Audi_Q5_Sportback.webp?v=1761742133
+    Price: 16 735,00 Kč CZK
+  - [10000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=64587528470877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
+    Price: 16 909,00 Kč CZK
+  - [10000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=64587528438109)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback.png?v=1762254019
+    Price: 17 499,00 Kč CZK
+  - [15000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=58136274370909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_Tambora_Audi_Q5_Sportback.webp?v=1761742133
+    Price: 17 396,00 Kč CZK
+  - [15000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641714013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
+    Price: 17 595,00 Kč CZK
+  - [15000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641681245)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback.png?v=1762254019
+    Price: 16 999,00 Kč CZK
+  - [20000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=58136274469213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_Tambora_Audi_Q5_Sportback.webp?v=1761742133
+    Price: 18 673,00 Kč CZK
+  - [20000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641779549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
+    Price: 18 896,00 Kč CZK
+  - [20000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641746781)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback.png?v=1762254019
+    Price: 18 399,00 Kč CZK
+  - [25000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=58136274567517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_Tambora_Audi_Q5_Sportback.webp?v=1761742133
+    Price: 19 334,00 Kč CZK
+  - [25000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641845085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
+    Price: 19 565,00 Kč CZK
+  - [25000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641812317)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback.png?v=1762254019
+    Price: 18 999,00 Kč CZK
+  - [30000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=58136274665821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_Tambora_Audi_Q5_Sportback.webp?v=1761742133
+    Price: 20 537,00 Kč CZK
+  - [30000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641910621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
+    Price: 20 758,00 Kč CZK
+  - [30000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka?variant=62425641877853)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback.png?v=1762254019
+    Price: 20 299,00 Kč CZK
+[List Continued](https://www.driveto.cz/a/llms-agent/llms.txt?shop=driveto.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUyNTU0MzIxNTQ1MywibGFzdF92YWx1ZSI6IjE1NTI1NTQzMjE1NDUzIn0%3D)
 
 ## Collections
 
 - [Operativní leasing](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2026-10-06T00:00:31Z
-  Total Products: 244
-- [Operativní leasing Škoda](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T23:00:30Z
-  Total Products: 80
+  Updated: 2026-10-17T22:00:30Z
+  Total Products: 262
 - [Elektromobily](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-06T00:00:39Z
+  Updated: 2026-10-16T20:00:34Z
   Total Products: 26
-- [Operativní leasing Tesla](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-03T11:17:19Z
-  Total Products: 2
-- [Operativní leasing Alfa Romeo](https://www.driveto.cz/collections/alfa-romeo): Operativní leasing Alfa Romeo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T07:24:53Z
-  Total Products: 1
-- [Operativní leasing Ford](https://www.driveto.cz/collections/ford): Operativní leasing Ford pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-04T11:11:57Z
-  Total Products: 11
-- [Operativní leasing BMW](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-23T12:08:34Z
-  Total Products: 2
-- [Operativní leasing Mini](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-01T11:40:08Z
-  Total Products: 0
-- [Operativní leasing MG](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T07:12:58Z
-  Total Products: 8
-- [Operativní leasing Lexus](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-01T11:19:52Z
-  Total Products: 8
-- [Operativní leasing Cupra](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-04T15:00:36Z
-  Total Products: 19
-- [Operativní leasing Nissan](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:17:40Z
-  Total Products: 9
-- [Operativní leasing Citroën](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-01T11:40:08Z
-  Total Products: 0
-- [Operativní leasing Seat](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-02T08:27:40Z
-  Total Products: 4
-- [Operativní leasing Toyota](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-06T00:00:30Z
-  Total Products: 42
-- [Operativní leasing Volvo](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:00:40Z
-  Total Products: 7
-- [Operativní leasing Audi](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T23:00:35Z
-  Total Products: 30
-- [Operativní leasing Peugeot](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-19T11:17:13Z
-  Total Products: 3
-- [Operativní leasing Hyundai](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:17:40Z
-  Total Products: 8
-- [Operativní leasing Kia](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T14:00:28Z
-  Total Products: 20
-- [Operativní leasing Volkswagen](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-02T11:17:57Z
-  Total Products: 12
 - [Akční nabídky](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T23:00:39Z
-  Total Products: 34
-- [Operativní leasing Renault](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T08:42:55Z
-  Total Products: 5
+  Updated: 2026-10-17T22:00:31Z
+  Total Products: 83
 - [Užitkové vozy](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-16T11:20:30Z
+  Updated: 2026-10-08T07:20:30Z
   Total Products: 1
 - [Plug-in vozy](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:17:40Z
+  Updated: 2026-10-17T12:02:29Z
   Total Products: 11
 - [Mild hybrid vozy](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-09-01T11:40:09Z
   Total Products: 0
 - [Včetně zimních pneumatik](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:17:40Z
-  Total Products: 5
-- [Operativní leasing Maxus](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-09-01T11:40:09Z
-  Total Products: 0
-- [Operativní leasing Opel](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-04T11:11:57Z
-  Total Products: 10
+  Updated: 2026-10-17T12:02:29Z
+  Total Products: 8
 - [BLACK FRIDAY](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2026-09-01T11:40:09Z
   Total Products: 0
@@ -871,23 +871,11 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-09-01T11:40:09Z
   Total Products: 0
 - [All Products (ChatGPT-AI Product Description)](https://www.driveto.cz/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-10-05T12:21:43Z
-  Total Products: 1019
-- [Operativní leasing Jeep](https://www.driveto.cz/collections/jeep): Operativní leasing Jeep pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-02T13:48:37Z
-  Total Products: 2
-- [Operativní leasing Chery](https://www.driveto.cz/collections/chery): Operativní leasing Chery pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-03T11:17:19Z
-  Total Products: 10
-- [Operativní leasing Fiat](https://www.driveto.cz/collections/fiat): Operativní leasing Fiat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-05T11:17:40Z
-  Total Products: 21
-- [Operativní leasing Leapmotor](https://www.driveto.cz/collections/leapmotor)
-  Updated: 2026-10-05T07:12:58Z
-  Total Products: 1
+  Updated: 2026-10-17T12:02:29Z
+  Total Products: 1039
 - [Speciální nabídky](https://www.driveto.cz/collections/retence): Speciální nabídky od Driveto, neveřejné #nofollow #noindex
-  Updated: 2026-09-11T09:05:24Z
-  Total Products: 1
+  Updated: 2026-10-14T11:21:58Z
+  Total Products: 4
 
 ## Blogs
 
@@ -2109,6 +2097,30 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Updated: 2026-09-22T13:53:03Z
     Author: Jakub Dvoracek
     Tags: benzín, cena paliva, hybrid, nafta
+  - [Co je leasing a jaké druhy leasingu existují? Finanční, operativní a zpětný leasing](https://www.driveto.cz/blogs/clanky/co-je-leasing-a-jake-druhy-leasingu-existuji): <p dir="ltr"><span>Co je leasing a jak funguje? Vysvětlujeme rozdíly mezi finančním, operativním a zpětným leasingem, jejich výhody, nevýhody a jaký typ leasingu zvolit.</span></p>
+<p> </p>
+    Updated: 2026-10-08T15:39:28Z
+    Author: Jakub Dvoracek
+    Tags: druhy leasingu, finanční leasing, financování auta, jak funguje leasing, leasing auta, Operativní leasing, Zpětný leasing
+  - [Účtování operativního leasingu: Jak se účtuje a lze dát splátky do nákladů?](https://www.driveto.cz/blogs/clanky/uctovani-operativniho-leasingu-jak-se-uctuje-a-lze-dat-splatky-do-nakladu): <p dir="ltr"><span>Jak se účtuje operativní leasing a lze jeho splátky dát do nákladů? Vysvětlujeme princip účtování, odpisy, DPH i rozdíly pro firmy a OSVČ.</span></p>
+<p> </p>
+    Updated: 2026-10-12T09:28:09Z
+    Author: Jakub Dvoracek
+    Tags: Daňové náklady, financování auta, Operativní leasing, operativní leasing pro firmy, operativní leasing pro OSVČ, Účtování operativního leasingu
+  - [Přenechání operativního leasingu: Jak funguje převzetí leasingu jinou osobou?](https://www.driveto.cz/blogs/clanky/prenechani-operativniho-leasingu-jak-funguje-prevzeti-leasingu-jinou-osobou): <p><meta charset="utf-8"><meta charset="utf-8">Jak funguje přenechání operativního leasingu? Zjistěte, zda lze operák převést na jinou osobu, jak probíhá převzetí leasingu a na co si dát pozor.</p>
+    Updated: 2026-10-12T09:28:32Z
+    Author: Jakub Dvoracek
+    Tags: leasing auta, Operativní leasing, Podmínky operativního leasingu, Předčasné ukončení leasingu, Přenechání operativního leasingu, Převod operativního leasingu, Převzetí leasingu
+  - [Předčasné ukončení operativního leasingu: Jaké sankce a náklady vás mohou čekat?](https://www.driveto.cz/blogs/clanky/predcasne-ukonceni-operativniho-leasingu-jake-sankce-a-naklady-vas-mohou-cekat): <p dir="ltr"><span>Chcete ukončit operativní leasing předčasně? Zjistěte, jaké sankce a náklady mohou vzniknout, jak postupovat a jaké existují alternativy předčasného vrácení auta.</span></p>
+<p> </p>
+    Updated: 2026-10-12T09:28:50Z
+    Author: Jakub Dvoracek
+    Tags: Operativní leasing, Podmínky operativního leasingu, Předčasné ukončení leasingu, Přenechání operativního leasingu, Sankce za ukončení leasingu, Ukončení operativního leasingu, vrácení auta
+  - [Podmínky operativního leasingu: Co musíte splnit a jak probíhá schválení?](https://www.driveto.cz/blogs/clanky/podminky-operativniho-leasingu-co-musite-splnit-a-jak-probiha-schvaleni): <p dir="ltr"><span>Jaké jsou podmínky operativního leasingu? Zjistěte, co musí splnit fyzická osoba, OSVČ nebo firma, jak probíhá scoring a jaké dokumenty můžete potřebovat.</span></p>
+<p> </p>
+    Updated: 2026-10-12T09:29:05Z
+    Author: Jakub Dvoracek
+    Tags: Operativní leasing, Operativní leasing bez akontace, operativní leasing pro firmy, operativní leasing pro OSVČ, Podmínky operativního leasingu, Schválení operativního leasingu
 
 ## Store Pages
 
