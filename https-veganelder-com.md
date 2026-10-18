@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-09T18:02:34Z
 - Contact Email: beepeewms@gmail.com
-- Updated At: 2026-10-10T00:00:38.693Z
+- Updated At: 2026-10-18T00:00:39.559Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/IMG_0216.heic?v=1757717182
   Price: $10.50 USD
 - [Holiday Feast Protein Strips - Vegan Freeze Dried Soy Curls | 2 Servings](https://veganelder.com/products/holiday-feast-protein-strips): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, holiday flavor. Perfect for backpacking, emergency food & quick meals.
-  Updated: 2026-10-05T04:50:36Z
+  Updated: 2026-10-16T11:24:45Z
   Vendor: VeganElder's Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/IMG_0381.heic?v=1758738378
   Price: $10.50 USD
 - [Freeze Dried Vegan Ice Cream Sandwich - Crunchy Plant-Based Treat](https://veganelder.com/products/freeze-dried-vegan-ice-cream-sandwich): Unique freeze dried vegan dessert! Plant-based ice cream sandwiches with a satisfying crunch that melts in your mouth. 2 per pouch, 2.5oz total.
-  Updated: 2026-10-03T12:13:01Z
+  Updated: 2026-10-14T04:30:26Z
   Vendor: My Store
   Product Type: Candy Lane
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/BCB400B2-F3FF-4135-854A-66F783095B37.jpg?v=1759618880
   Price: $10.50 USD
 - [Rustic Mashed Potatoes Freeze Dried 2 Servings](https://veganelder.com/products/rustic-mashed-potatoes-freeze-dried): Wholesome Rustic Mashed Potatoes (Freeze-Dried) - just add water for a vegan, no-fat 2-serving side with rustic texture, ideal for camping or emergencies.
-  Updated: 2026-10-05T04:50:32Z
+  Updated: 2026-10-16T11:24:46Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Side Dishes
   Availability: Available
@@ -220,13 +220,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Green-Beans-FreezeDried-a.jpg?v=1787848539
   Price: $6.50 USD
-- [Green Beans- Freeze Dried half ounce](https://veganelder.com/products/green-beans-freeze-dried-half-ounce-copy): Green Beans- 1/2 ounce. (Half Ounce)Freeze Dried.
-  Updated: 2026-08-30T00:48:52Z
-  Vendor: VeganElder's Freeze Dried Pantry
-  Product Type: Freeze Dried Sides
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/Green-Beans-FreezeDried-b.jpg?v=1787848601
-  Price: $3.50 USD
 - [VeganElder’s Apron- white](https://veganelder.com/products/veganelder-s-apron-white): VeganElder’s Apron- white VeganElder’s white apron is made by Port Authority with stain resistant technology. This high-quality apron is available To you at our cost. We make no profit on this product.
   Updated: 2026-09-03T15:35:05Z
   Vendor: VeganElder's Freeze Dried Pantry
@@ -270,7 +263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/427507BA-FBBF-4ADA-93FD-6E75F453C476.jpg?v=1790378893
   Price: $6.50 USD
 - [Freeze Dried Jalapenos | VeganElder](https://veganelder.com/products/freeze-dried-jalapenos): Spice up tacos, soups, chili, and rice bowls with VeganElder's Freeze Dried Jalapenos. Instant pickled jalapeño jar refill!
-  Updated: 2026-10-09T22:34:19Z
+  Updated: 2026-10-16T11:24:47Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Freeze Dried Sides
   Availability: Available
@@ -280,29 +273,32 @@
 ## Collections
 
 - [Home Page](https://veganelder.com/collections/frontpage): Shop premium freeze-dried vegan foods, plant-based protein strips, and delicious treats. Perfect for emergency prep, camping, and quick healthy meals.
-  Updated: 2026-10-05T11:25:32Z
+  Updated: 2026-10-17T11:37:34Z
   Total Products: 8
 - [Freeze Dried Ready to Eat](https://veganelder.com/collections/freez-dried-and-ready-to-eat-meals): Instant vegan protein meals ready in 5 minutes! Freeze-dried soy curls perfect for camping, emergency food storage, and busy weeknight dinners.
-  Updated: 2026-10-05T11:25:32Z
+  Updated: 2026-10-17T11:37:34Z
   Total Products: 8
 - [Bulk Bundles](https://veganelder.com/collections/bulk-bundles): We have two bulk bundle sizes for our protein strips: 18 servings and 12 servings. These offer reduced prices for bulk purchases. This is a shelf stable product that you can keep for your emergency preparedness or for your weekly pantry staples. It's ideal for camping trips or backpacking.
   Updated: 2026-09-15T18:12:01Z
   Total Products: 8
 - [All](https://veganelder.com/collections/all): Shop all freeze-dried vegan products from VeganElder's Freeze Dried Pantry. Browse our complete selection of delicious freeze-dried treats.
-  Updated: 2026-10-09T18:34:32Z
+  Updated: 2026-10-17T11:37:34Z
   Total Products: 42
 - [Veganelder's Freeze Dried Sides](https://veganelder.com/collections/veganelders-freeze-dried-sides): 🍽️ Veganelder's Freeze Dried Sides Welcome to the ultimate collection of pantry staples and quick-prep solutions! Veganelder's Freeze Dried Sides offers wholesome, flavorful side dishes that are perfect for any lifestyle—from busy weeknights to back-country adventures and reliable emergency food storage. Convenience Meets Quality We take simple, clean ingredients and use the advanced technique of freeze drying to lock in the freshest flavor and peak nutritional value. Just add hot water, and in minutes, you have a perfectly prepared, hearty side dish ready to serve. Why Choose Veganelder's Freeze Dried Sides? ⚡ Ready in Minutes: The fastest way to get quality food on the table. 🌱 100% Plant-Based: Every item in this category is naturally vegan and made with clean ingredients. 🚫 No Added Oil or Fat: Focus on healthy, whole-food ingredients. ⏳ Incredible Shelf Life: An essential addition to your emergency food supply or prepper pantry. 🏞️ Trail Ready: Lightweight, nutrient-dense options perfect for camping and backpacking food. Current Favorites (And More to Come!) Explore our current lineup, including the hearty, whole-food Rustic Mashed Potatoes (made with the peel on for texture!) and our essential Fluffy White Rice. Check back often as we expand our selection of wholesome, freeze-dried vegetables, grains, and other quick-prep staples!
-  Updated: 2026-10-09T18:34:00Z
+  Updated: 2026-10-17T11:37:34Z
   Total Products: 7
-- [Freeze Dried Snacks](https://veganelder.com/collections/freeze-dried-snacks): Shop freeze-dried vegan snacks — sweet, savory, and shelf-stable. Perfect for hiking, emergency prep, and everyday plant-based snacking.
-  Updated: 2026-10-05T11:25:32Z
-  Total Products: 17
 - [Merchandise](https://veganelder.com/collections/merchandise): Shop VeganElder's branded merchandise including mugs, apparel, and gear. Show your plant-based pride and support wholesome freeze-dried nutrition for adventurers.
   Updated: 2026-09-04T11:23:49Z
   Total Products: 6
 - [Protein Strips](https://veganelder.com/collections/protein-strips): Shop our freeze-dried protein strips made from Butler Foods Soy Curls. Lightweight, shelf-stable, plant-based protein perfect for backpacking, emergency food, and meal prep.
-  Updated: 2026-10-05T11:25:32Z
+  Updated: 2026-10-17T11:37:34Z
   Total Products: 21
+- [Freeze Dried Candy and Sweets](https://veganelder.com/collections/freeze-dried-candy-and-sweets): We've curated a selection of plant based candy and sweets for your enjoyment!
+  Updated: 2026-10-15T17:03:21Z
+  Total Products: 9
+- [Side Dishes](https://veganelder.com/collections/side-dishes): Our plant based side dishes like Rustic Mashed Potatoes and Green beans are all prepared without oil or preservatives. They are shelf stable and ready to eat.
+  Updated: 2026-10-17T11:37:34Z
+  Total Products: 9
 
 ## Blogs
 
@@ -390,6 +386,9 @@
     Updated: 2026-09-18T16:49:28Z
     Author: Brett Williams
     Tags: Culinary Alchemy
+  - [New Collections: Side Dishes and Sweet Treats!](https://veganelder.com/blogs/news/new-collections-side-dishes-and-sweet-treats): Explore our new Side Dishes and Freeze Dried Candy and Sweets collections, with a sweet spotlight on our vegan ice cream sandwich.
+    Updated: 2026-10-15T17:23:33Z
+    Author: Brett Williams
 
 ## Store Pages
 
