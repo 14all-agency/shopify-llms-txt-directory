@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-04-12T06:24:32Z
 - Contact Email: saleseliteautos@gmail.com
-- Updated At: 2026-10-09T13:25:49.560Z
+- Updated At: 2026-10-18T00:00:38.510Z
 
 ## Products
 
@@ -1767,14 +1767,14 @@
 - [Exterior](https://eliteautos.pk/collections/exterior): Buy car exterior accessories in Karachi — side skirts, grilles, door guards, emblems & more. Fast delivery, COD available. Shop Elite Autos today.
   Updated: 2026-10-08T08:24:52Z
   Total Products: 164
-- [Gadgets](https://eliteautos.pk/collections/car-gadgets-automotive-accessories-pakistan): Shop car gadgets, jump starters, air compressors, Android panels, dash cameras, charging accessories, and automotive electronics online in Pakistan at Elite Autos Karachi.
+- [Gadgets](https://eliteautos.pk/collections/car-gadgets-automotive-accessories-pakistan): Buy car gadgets in Karachi: dash cams, jump starters, air compressors, Android panels & more. Fast delivery, COD available. Shop Elite Autos today.
   Updated: 2026-10-08T08:25:34Z
   Total Products: 62
-- [Fragrance](https://eliteautos.pk/collections/car-fragrance-air-fresheners-pakistan): Discover premium car perfumes, hanging air fresheners, dashboard fragrances, AC vent perfumes, and room sprays online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-08T08:25:24Z
-  Total Products: 15
+- [Fragrance](https://eliteautos.pk/collections/car-fragrance-air-fresheners-pakistan): Buy car fragrance in Karachi: Areon gels, dashboard, hanging & AC vent perfumes. Long-lasting scents, fast delivery, COD available. Shop Elite Autos.
+  Updated: 2026-10-15T05:59:03Z
+  Total Products: 14
 - [Car care](https://eliteautos.pk/collections/car-care): Shop premium car care and detailing products in Pakistan at Elite Autos. From car shampoos, waxes, and polishes to polishers and interior cleaners. Fast delivery nationwide!
-  Updated: 2026-10-09T11:25:28Z
+  Updated: 2026-10-17T14:04:49Z
   Total Products: 92
 - [Modifications](https://eliteautos.pk/collections/modifications): Shop car modification parts in Pakistan: body kits, splitters, spoilers, exhaust tips and steering upgrades. Cash on delivery from Elite Autos Karachi.
   Updated: 2026-09-06T08:26:34Z
@@ -1783,7 +1783,7 @@
   Updated: 2026-10-08T08:25:23Z
   Total Products: 24
 - [Interior](https://eliteautos.pk/collections/car-interior-accessories-pakistan): Buy car interior accessories in Karachi — floor mats, seat covers, organizers & more. Fast delivery, COD available. Shop Elite Autos today.
-  Updated: 2026-10-09T11:25:28Z
+  Updated: 2026-10-17T11:27:38Z
   Total Products: 95
 - [SUV & 4×4](https://eliteautos.pk/collections/suv-4-4): Shop SUV and 4x4 accessories in Pakistan: bull bars, side steps, roof racks, body kits, conversions and off-road upgrades. COD nationwide from Elite Autos.
   Updated: 2026-10-08T08:25:34Z
@@ -1938,8 +1938,8 @@
 - [Luxury 7D / 9D Floor Mats](https://eliteautos.pk/collections/luxury-7d-9d-floor-mats-pakistan): Shop premium luxury 7D floor mats, 9D car floor mats, waterproof floor liners, leather stitched mats, and interior protection accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
-- [Floor Mats](https://eliteautos.pk/collections/car-floor-mats-floor-liners-pakistan): Shop premium car floor mats, waterproof floor liners, rubber floor mats, luxury carpet mats, and automotive interior protection accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-08T11:23:07Z
+- [Floor Mats](https://eliteautos.pk/collections/car-floor-mats-floor-liners-pakistan): Buy car floor mats in Karachi: carpet, rubber & TPE liners, plus model-specific fits for Corolla, Civic, City & more. Fast delivery, COD available.
+  Updated: 2026-10-13T11:23:18Z
   Total Products: 93
 - [Tissue Boxes](https://eliteautos.pk/collections/car-tissue-boxes-tissue-holders-pakistan): Shop premium car tissue boxes, leather tissue holders, visor tissue organizers, dashboard tissue cases, and luxury interior accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:37Z
@@ -1969,10 +1969,10 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Microfiber Accessories](https://eliteautos.pk/collections/buy-now-microfiber-accessories-car-detailing-pakistan): Shop premium microfiber towels, detailing cloths, wash mitts, drying towels, polishing pads, and automotive car care accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-09T11:25:28Z
+  Updated: 2026-10-17T11:27:38Z
   Total Products: 2
 - [Car Care Packs](https://eliteautos.pk/collections/car-care-packs-detailing-kits-pakistan): Shop premium car care packs, detailing kits, wash and wax bundles, ceramic care kits, microfiber combos, and automotive cleaning accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-21T07:44:19Z
+  Updated: 2026-10-17T14:04:49Z
   Total Products: 24
 - [All-Purpose Cleaners](https://eliteautos.pk/collections/all-purpose-cleaners-car-detailing-pakistan): Shop premium all purpose cleaners, interior cleaning sprays, dashboard cleaners, upholstery cleaners, and automotive detailing products online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-08T08:28:32Z
@@ -1999,8 +1999,8 @@
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
 - [Areon Air Fresheners](https://eliteautos.pk/collections/areon-air-fresheners-car-perfumes-pakistan): Shop premium Areon air fresheners, car perfumes, hanging fragrances, vent perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-04T11:22:59Z
-  Total Products: 14
+  Updated: 2026-10-15T05:59:03Z
+  Total Products: 13
 - [Dashboard Perfumes](https://eliteautos.pk/collections/dashboard-perfumes-car-fragrances-pakistan): Shop premium dashboard perfumes, luxury car fragrances, aroma diffusers, gel perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
@@ -2077,10 +2077,10 @@
   Updated: 2026-09-06T08:26:39Z
   Total Products: 0
 - [Deals](https://eliteautos.pk/collections/deals): Discover the best deals and discounts on top products. Limited-time offers updated regularly — shop now and save before they're gone.
-  Updated: 2026-10-09T11:25:28Z
+  Updated: 2026-10-17T11:27:38Z
   Total Products: 43
 - [XYZ collection](https://eliteautos.pk/collections/xyz-collection)
-  Updated: 2026-10-08T06:25:38Z
+  Updated: 2026-10-17T14:04:49Z
   Total Products: 4
 
 ## Blogs
@@ -2104,6 +2104,10 @@
   - [How to Buy Car Accessories Online in Pakistan | Elite Autos](https://eliteautos.pk/blogs/news/how-to-buy-car-accessories-online): How to Buy Car Accessories Online in Pakistan | Elite Autos
     Updated: 2026-09-21T08:07:52Z
     Author: Elite Autos
+  - [Upcoming Cars in Pakistan 2026: Launches & Prep Guide | Elite Autos](https://eliteautos.pk/blogs/news/upcoming-cars-in-pakistan-2026): Upcoming Cars in Pakistan 2026: Launches & Prep Guide | Elite Autos
+    Updated: 2026-10-15T08:28:47Z
+    Author: Elite Autos
+    Tags: Car Care, EV, Hybrid, Karachi, Pakistan 2026, Upcoming Cars
 
 ## Store Pages
 
