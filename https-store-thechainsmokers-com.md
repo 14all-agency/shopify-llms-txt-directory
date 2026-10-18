@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-10T00:00:41.945Z
+- Updated At: 2026-10-18T00:00:44.722Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Motorcycle Tee](https://store.thechainsmokers.com/products/motorcycle-tee): Bella+Canvas 100% ringspun cotton Unisex fit
-  Updated: 2026-10-05T13:01:32Z
+  Updated: 2026-10-16T14:36:36Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Not Available
     Price: $20.16 USD
 - [The Chainsmokers Hoodie](https://store.thechainsmokers.com/products/the-chainsmokers-hoodie): Heavy Fleece Hooded Sweatshirt100% U.S. CottonMade in U.S.A.Los Angeles ApparelOversized fit
-  Updated: 2026-10-05T13:01:34Z
+  Updated: 2026-10-14T16:46:20Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $20.16 USD
 - [The Chainsmokers Grid Long Sleeve Tee](https://store.thechainsmokers.com/products/copy-of-the-chainsmokers-grid-long-sleeve-tee): UnisexMade in U.S.A.Los Angeles Apparel6.5oz100% Cotton
-  Updated: 2026-10-05T13:01:36Z
+  Updated: 2026-10-11T22:29:13Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Oval Tee](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-05T13:01:37Z
+  Updated: 2026-10-17T22:49:55Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -221,7 +221,7 @@
     Availability: Available
     Price: $20.16 USD
 - [Holographic Sticker Pack](https://store.thechainsmokers.com/products/so-far-so-good-sticker-pack): The Chainsmokers 4 holographic stickers.
-  Updated: 2026-10-08T16:57:45Z
+  Updated: 2026-10-11T22:44:47Z
   Vendor: The Chainsmokers
   Product Type: 
   Availability: Available
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/TC-pin-set_The-Chainsmokers.png?v=1653600586
   Price: $15.00 USD
 - [Rodeo Houston Hat](https://store.thechainsmokers.com/products/rodeo-houston-hat): Select quantities of this item are signed and will be shipped at random. Features embroidery on front, back and sides. Snapback closure.
-  Updated: 2026-10-05T13:01:45Z
+  Updated: 2026-10-16T18:14:08Z
   Vendor: The Chainsmokers
   Product Type: Hat
   Availability: Available
@@ -305,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TPNEDISPOSABLECAMERA.png?v=1690990367
   Price: $30.00 USD
 - [The Party Never Ends Long Sleeve](https://store.thechainsmokers.com/products/the-party-never-ends-long-sleeve-tee): The Party Never Ends - Black Long Sleeve Tee UnisexMade in U.S.A.100% Cotton Please note: some limited units may have tour dates on the back.
-  Updated: 2026-10-05T13:01:51Z
+  Updated: 2026-10-16T14:40:53Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -347,7 +347,7 @@
     Availability: Available
     Price: $20.16 USD
 - [So Far So Good Tracklist Tee](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-08T16:57:43Z
+  Updated: 2026-10-16T03:46:52Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
@@ -382,7 +382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSTEXASKOOZIE-3.png?v=1762447861
   Price: $2.50 USD
 - [Everyday Hat](https://store.thechainsmokers.com/products/everyday-hat): The Chainsmokers Everyday Hat in black. Mid Profile, durable plastic snap closure
-  Updated: 2026-10-08T16:57:46Z
+  Updated: 2026-10-17T11:22:23Z
   Vendor: The Chainsmokers
   Product Type: Hat
   Availability: Available
@@ -434,34 +434,34 @@
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
-  Updated: 2026-09-11T11:02:18Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 7
 - [Top Featured](https://store.thechainsmokers.com/collections/top-featured)
-  Updated: 2026-09-11T11:02:18Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-16T11:04:19Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
   Total Products: 3
 - [Hats](https://store.thechainsmokers.com/collections/hats)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 19
 - [So Far So Good](https://store.thechainsmokers.com/collections/soearlysogood)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-16T11:04:19Z
   Total Products: 8
 - [](https://store.thechainsmokers.com/collections/salecollection)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-17T11:02:31Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
   Updated: 2026-10-04T11:02:56Z
@@ -473,16 +473,16 @@
   Updated: 2026-09-02T11:02:54Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-16T11:04:19Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
-  Updated: 2026-08-18T11:02:43Z
+  Updated: 2026-10-15T11:03:19Z
   Total Products: 17
 - [The Chainsmokers & Kim Petras](https://store.thechainsmokers.com/collections/the-chainsmokers-x-kim-petras)
   Updated: 2026-07-08T21:52:48Z
   Total Products: 2
 - [UPSELL](https://store.thechainsmokers.com/collections/upsell)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-12T11:02:19Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
   Updated: 2026-10-09T11:04:50Z
