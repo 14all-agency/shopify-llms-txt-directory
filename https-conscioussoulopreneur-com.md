@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2025-06-21T06:21:38Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-10-05T00:00:35.430Z
+- Updated At: 2026-10-18T00:00:36.396Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1789606891
   Price: $39.00 USD
 - [Who Do You Think You Are? — Paperback Color | Spiritual](https://conscioussoulopreneur.com/products/spiritual-self-discovery-book-paperback-color): For those who want more than just a book — they want an experience.This is the full colour edition of Who Do You Think You Are? — a spiritual memoir that
-  Updated: 2026-09-20T04:12:12Z
+  Updated: 2026-10-16T20:55:41Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: books
   Availability: Available
@@ -76,6 +76,38 @@
 - [Spiritual Growth Books](https://conscioussoulopreneur.com/collections/spiritual-growth-books): spiritual growth booksspiritual growth booksspiritual growth booksspiritual growth booksspiritual growth books
   Updated: 2026-09-20T08:06:03Z
   Total Products: 7
+
+## Blogs
+
+- [Awakening Minds](https://conscioussoulopreneur.com/blogs/awakening-minds): Explore articles on spiritual philosophy, self-discovery, and conscious living. Awakened Mind a blog of Conscious Soulopreneur insight guide your inner journey
+  - [Metafísica y autoconocimiento | ¿Quién eres realmente?](https://conscioussoulopreneur.com/blogs/awakening-minds/metafisica-autoconocimiento-quien-eres): Metafísica y autoconocimiento | ¿Quién eres realmente?
+    Updated: 2026-10-16T18:01:54Z
+    Author: Rasab Developer
+    Tags: autoconocimiento, conciencia, crecimiento personal, filosofía espiritual, identidad, libros espirituales, metafísica
+  - [Choosing a Spiritual Self-Discovery Book | Conscious Soulopreneur](https://conscioussoulopreneur.com/blogs/awakening-minds/choosing-spiritual-self-discovery-book): Choosing a Spiritual Self-Discovery Book | Conscious Soulopreneur
+    Updated: 2026-10-16T18:06:51Z
+    Author: Rasab Developer
+    Tags: conscious reading, identity, life transitions, personal growth, spiritual memoir, spiritual philosophy, spiritual self-discovery
+  - [How to Read a Spiritual Memoir for Self-Reflection](https://conscioussoulopreneur.com/blogs/awakening-minds/read-spiritual-memoir-self-reflection): How to Read a Spiritual Memoir for Self-Reflection
+    Updated: 2026-10-16T18:09:40Z
+    Author: Rasab Developer
+    Tags: book club, conscious reading, paperback books, self-discovery, self-reflection, spiritual growth, spiritual memoir
+  - [Shared Consciousness: A Spiritual View of Connection](https://conscioussoulopreneur.com/blogs/awakening-minds/shared-consciousness-spiritual-connection): Shared Consciousness: A Spiritual View of Connection
+    Updated: 2026-10-16T19:27:17Z
+    Author: Rasab Developer
+    Tags: connection, consciousness, identity, self-discovery, shared consciousness, spiritual eBook, spiritual philosophy
+  - [The Remembering Body | Free Self-Discovery eBook](https://conscioussoulopreneur.com/blogs/awakening-minds/remembering-body-free-self-discovery-ebook): The Remembering Body | Free Self-Discovery eBook
+    Updated: 2026-10-16T19:31:09Z
+    Author: Rasab Developer
+    Tags: contemplative reading, free eBook, inner wisdom, quantum consciousness, self-discovery, spiritual reflection, The Remembering Body
+  - [A Self-Discovery eBook for Questions About Identity](https://conscioussoulopreneur.com/blogs/awakening-minds/self-discovery-ebook-questions-identity): A Self-Discovery eBook for Questions About Identity
+    Updated: 2026-10-16T19:33:50Z
+    Author: Rasab Developer
+    Tags: consciousness, digital reading, identity, personal reflection, self-discovery eBook, spiritual memoir, spiritual philosophy
+  - [Memoria espiritual en español | Leer para conocerte](https://conscioussoulopreneur.com/blogs/awakening-minds/leer-para-conocerte-memoria-espiritual-papel): Memoria espiritual en español | Leer para conocerte
+    Updated: 2026-10-16T19:52:29Z
+    Author: Rasab Developer
+    Tags: autoconocimiento, crecimiento personal, edición rústica, identidad, lectura consciente, libros en español, memoria espiritual
 
 ## Store Pages
 
