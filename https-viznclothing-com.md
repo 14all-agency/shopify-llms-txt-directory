@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-10-07T00:00:41.610Z
+- Updated At: 2026-10-19T00:00:43.557Z
 
 ## Products
 
@@ -151,6 +151,44 @@
   - [XL / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167501651)
     Availability: Available
     Price: £65.00 GBP
+- [Thermal Trace Tee](https://viznclothing.com/products/thermal-trace-tee): The Thermal Trace Tee by VIZN delivers premium streetwear style with its structured 300GSM heavyweight cotton, relaxed boxy silhouette, and distinctive Thermal Trace graphic detailing. Designed with a slightly cropped length and a contemporary oversized fit, it combines everyday comfort with a bold, understated aesthetic. Finished with signature VIZN branding and a statement sleeve tag, this tee is built for those who see things differently. We recommend sizing up for a more comfortable fit and additional length due to the slightly cropped cut. For long-lasting colour and print quality, wash inside out on a cold cycle. A heavyweight essential for anyone looking to elevate their everyday streetwear rotation.
+  Updated: 2026-10-17T16:30:20Z
+  Vendor: VIZN
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/thermal-trace-tee-9945307.png?v=1792055658
+  - [White / XS](https://viznclothing.com/products/thermal-trace-tee?variant=55364184801619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/thermal-trace-tee-5545196.png?v=1792055658
+    Price: £35.00 GBP
+  - [Black / XS](https://viznclothing.com/products/thermal-trace-tee?variant=55364184834387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/thermal-trace-tee-6900644.png?v=1792055658
+    Price: £35.00 GBP
+  - [White / S](https://viznclothing.com/products/thermal-trace-tee?variant=55476366770515)
+    Availability: Available
+    Price: £35.00 GBP
+  - [White / M](https://viznclothing.com/products/thermal-trace-tee?variant=55476366803283)
+    Availability: Available
+    Price: £35.00 GBP
+  - [White / L](https://viznclothing.com/products/thermal-trace-tee?variant=55476366836051)
+    Availability: Available
+    Price: £35.00 GBP
+  - [White / XL](https://viznclothing.com/products/thermal-trace-tee?variant=55476366868819)
+    Availability: Available
+    Price: £35.00 GBP
+  - [Black / S](https://viznclothing.com/products/thermal-trace-tee?variant=55476366901587)
+    Availability: Available
+    Price: £35.00 GBP
+  - [Black / M](https://viznclothing.com/products/thermal-trace-tee?variant=55476366934355)
+    Availability: Available
+    Price: £35.00 GBP
+  - [Black / L](https://viznclothing.com/products/thermal-trace-tee?variant=55476366967123)
+    Availability: Available
+    Price: £35.00 GBP
+  - [Black / XL](https://viznclothing.com/products/thermal-trace-tee?variant=55476366999891)
+    Availability: Available
+    Price: £35.00 GBP
 
 ## Collections
 
@@ -247,6 +285,9 @@
     Author: Jake Swindells
   - [Breaking Down the Allure of the Boxy Fit T-Shirt in Luxury Streetwear](https://viznclothing.com/blogs/news/breaking-down-the-allure-of-the-boxy-fit-t-shirt-in-luxury-streetwear): Breaking Down the Allure of the Boxy Fit T-Shirt in Luxury Streetwear
     Updated: 2026-10-05T18:52:13Z
+    Author: Jake Swindells
+  - [From Runway to Street: How UK Streetwear Brands Perfect the Heavyweight Boxy Hoodie](https://viznclothing.com/blogs/news/from-runway-to-street-how-uk-streetwear-brands-perfect-the-heavyweight-boxy-hoodie): From Runway to Street: How UK Streetwear Brands Perfect the Heavyweight Boxy Hoodie
+    Updated: 2026-10-10T13:57:09Z
     Author: Jake Swindells
 
 ## Store Pages
