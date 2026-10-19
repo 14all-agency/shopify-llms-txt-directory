@@ -6,19 +6,19 @@
 - Timezone: America/Denver
 - Created At: 2024-04-09T19:42:44Z
 - Contact Email: office@stormdoorguy.com
-- Updated At: 2026-10-12T05:03:31.349Z
+- Updated At: 2026-10-19T08:00:42.244Z
 
 ## Products
 
 - [Storm Door Guy | Larson Bismark](https://www.stormdoorguy.com/products/larson-bismark): Upgrade your home with the Larson Bismark storm door from Storm Door Guy. Featuring a solid wood core, self-storing window, heavy-duty weatherstripping, and a push-button handle with night lock. Price includes door, handle, delivery, installation, and disposal in Denver, CO. Custom sizes/colors available.
-  Updated: 2026-09-01T21:34:09Z
+  Updated: 2026-10-16T16:25:44Z
   Vendor: Larson
   Product Type: product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0694/2923/1874/files/LarsonBismarkStormDoor.png?v=1712809353
   Price: $699.00 USD
 - [Storm Door Guy | Larson Clear Vue](https://www.stormdoorguy.com/products/larson-clear-vue): Brighten your entryway with our full view storm door from Storm Door Guy. Enjoy unobstructed outdoor views with a solid glass panel and seasonal full screen. Price includes door, handle, delivery, installation, and disposal in Denver, CO. Perfect for maximizing visibility and daylight. Custom sizes/colors available.
-  Updated: 2026-10-12T02:48:03Z
+  Updated: 2026-10-16T16:25:44Z
   Vendor: Larson
   Product Type: product
   Availability: Available
@@ -258,31 +258,31 @@
 ## Collections
 
 - [Favorites](https://www.stormdoorguy.com/collections/favorites): These are Storm Door Guy's most popular and recommended storm doors.
-  Updated: 2026-10-06T11:17:20Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 25
 - [Standard Storm Doors (80" - 81" Tall)](https://www.stormdoorguy.com/collections/standard-storm-doors): These storm doors come in standard widths of either 30", 32", or 36" and fit openings between 80-81" tall.
-  Updated: 2026-09-16T11:11:45Z
+  Updated: 2026-10-14T11:29:56Z
   Total Products: 40
 - [Shop Oversized Storm Doors](https://www.stormdoorguy.com/collections/oversized-storm-doors)
-  Updated: 2026-10-06T11:17:20Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 11
 - [Security Doors](https://www.stormdoorguy.com/collections/security-doors): Add security without sacrificing curb appeal. Explore custom security storm doors professionally measured and installed by our local Denver team.
   Updated: 2026-09-23T07:33:36Z
   Total Products: 7
 - [All Doors](https://www.stormdoorguy.com/collections/all-doors): Explore every storm door we offer—glass, screen, security, and custom options. Find the perfect fit for your home.
-  Updated: 2026-10-06T11:17:20Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 68
 - [Replacement Parts for Storm Doors](https://www.stormdoorguy.com/collections/replacement-parts): Keep your storm door working like new with our full line of replacement parts. Whether your door sticks, won’t close all the way, or has a broken handle, we’ve got the fix. We carry everything from closers and latches to hinges, sweeps, and strike plates—sized to fit most major brands. Each part is made for easy installation with just a few tools, so you can get the job done without calling a pro. Not sure what you need? Each product page includes clear photos and descriptions to help you match your part. ✅ Extend the life of your storm door✅ Avoid costly replacements✅ Simple, do-it-yourself solutions Browse now to find the right part and get your door back on track!
-  Updated: 2026-10-07T21:10:35Z
+  Updated: 2026-10-15T11:20:25Z
   Total Products: 4
 - [Regular Height](https://www.stormdoorguy.com/collections/regular-height)
   Updated: 2026-09-11T15:00:30Z
   Total Products: 35
 - [Larson Doors](https://www.stormdoorguy.com/collections/larson-doors): Protect your home with the trusted quality of Larson storm doors. Designed for durability and style, Larson doors help seal out wind, rain, and bugs—while letting in fresh air and natural light. Our collection includes full-view, mid-view, and ventilating styles in a range of finishes to match any home. Whether you want better security, more airflow, or just a stylish front entry, Larson has a door that fits. Why choose Larson?✅ Built to last with strong frames and smooth hinges✅ Easy to install with detailed instructions✅ Great for energy savings and curb appeal Explore our selection today and find the Larson door that’s right for your home.
-  Updated: 2026-10-07T21:10:35Z
+  Updated: 2026-10-14T11:29:56Z
   Total Products: 25
 - [Retractable Screen Storm Doors](https://www.stormdoorguy.com/collections/retractable-screen-storm-doors): Enjoy fresh air when you want it and full glass when you don't. Explore retractable-screen storm doors measured and installed across Denver metro.
-  Updated: 2026-10-06T11:17:20Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 16
 - [All Glass Storm Doors](https://www.stormdoorguy.com/collections/all-glass-storm-doors): Bring in more natural light and showcase your entry door with custom full-view glass storm doors, professionally installed across Denver metro.
   Updated: 2026-09-23T07:31:36Z
@@ -294,16 +294,16 @@
   Updated: 2026-09-23T07:30:37Z
   Total Products: 9
 - [Premium Customized Storm Doors](https://www.stormdoorguy.com/collections/premium-customized-storm-doors): Choose the color, glass, screen and hardware for a storm door made for your home, professionally measured and installed across Denver metro.
-  Updated: 2026-09-23T07:38:18Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 22
 - [Video Doorbell Mounts](https://www.stormdoorguy.com/collections/video-doorbell-mounts): Shop no-drill video doorbell mounts designed for homes with storm doors. Find compatible mounting options for a clean, secure installation.
-  Updated: 2026-10-12T02:48:04Z
+  Updated: 2026-10-17T11:21:40Z
   Total Products: 36
 - [Doormats](https://www.stormdoorguy.com/collections/doormats): Shop durable doormats designed to complete your entryway and complement your storm door. Find practical styles for a cleaner, polished entrance.
   Updated: 2026-09-27T11:17:01Z
   Total Products: 412
 - [Site Inspection - Standard Retractable](https://www.stormdoorguy.com/collections/site-inspection-standard-retractable): Based on our discussions, you indicated that having a storm door with a retractable screen fits your needs the best. Below are our recommendations for your particular application.
-  Updated: 2026-09-05T11:17:18Z
+  Updated: 2026-10-14T11:29:56Z
   Total Products: 13
 - [Site Inspection - Standard Full Glass](https://www.stormdoorguy.com/collections/site-inspection-standard-full-glass): Based on our discussions, you indicated that having an all glass door or all screen door fits your needs the best. Below are our recommendations for your particular application.
   Updated: 2026-07-08T22:10:45Z
@@ -315,7 +315,7 @@
   Updated: 2026-08-29T11:17:06Z
   Total Products: 4
 - [Site Inspection - Oversize Retractable](https://www.stormdoorguy.com/collections/site-inspection-oversize-retractable): Based on our discussions, you indicated that having a storm door with a retractable screen fits your needs the best. Below are our recommendations for your particular application.
-  Updated: 2026-10-06T11:17:20Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 3
 - [Site Inspection - Oversize Full Glass](https://www.stormdoorguy.com/collections/site-inspection-oversize-all-glass): Based on our discussions, you indicated that having an all glass door or all screen door fits your needs the best. Below are our recommendations for your particular application.
   Updated: 2026-07-08T21:51:03Z
@@ -336,7 +336,7 @@
   Updated: 2026-09-23T14:20:25Z
   Total Products: 46
 - [ProVia Storm Doors](https://www.stormdoorguy.com/collections/provia-custom-storm-doors): When it comes to storm doors, ProVia sets the gold standard. These doors are built for homeowners who want strength, beauty, and long-term value—not shortcuts. Built Strong (and It Shows) ProVia storm doors are made from thick, heavy-duty aluminum. They don’t flex, rattle, or wear out fast like cheap doors. These doors are designed to handle daily use, strong winds, and changing weather year after year. Made Just for Your Home Every ProVia storm door is custom built, not pulled off a shelf. That means: A better fit Smoother opening and closing Fewer drafts and rattles A door that fits right simply works better. Looks Matter ProVia doors don’t just protect your home—they upgrade it. Choose from: Dozens of colors Decorative, clear, or privacy glass Stylish handles and hardware Your storm door should match your home, not fight it. You can chose from a multitude of colors, style, handles, glass tints and art, hinge types, and more. Energy Smart Design ProVia storm doors help block drafts in winter and let fresh air in during warmer months. That means: Better comfort Less strain on your heating and cooling A more efficient entryway Built in the USA ProVia doors are made in the USA with careful craftsmanship and strict quality control. These doors are built to last—and it shows in every detail. Why You’ll Love a ProVia Storm Door Strong and long-lasting Custom fit for your doorway Beautiful design options Smooth, quiet operation Trusted brand homeowners love If you want a storm door that looks great and performs for years, ProVia is hard to beat. This is the door homeowners choose when they want the best.
-  Updated: 2026-09-18T12:03:23Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 35
 - [Retractable Screen Doors](https://www.stormdoorguy.com/collections/retractable-screen-doors)
   Updated: 2026-07-08T21:51:04Z
@@ -351,17 +351,20 @@
   Updated: 2026-07-08T22:10:45Z
   Total Products: 19
 - [Provia Select](https://www.stormdoorguy.com/collections/provia-select)
-  Updated: 2026-08-23T11:16:32Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 4
 - [ProVia Larson Select](https://www.stormdoorguy.com/collections/provia-larson-select)
-  Updated: 2026-08-23T11:16:32Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 7
 - [Collection pages New](https://www.stormdoorguy.com/collections/collection-pages-new)
-  Updated: 2026-10-12T02:47:57Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 7
 - [Collection pages New (Copy)](https://www.stormdoorguy.com/collections/collection-pages-new-copy)
-  Updated: 2026-10-12T02:47:57Z
+  Updated: 2026-10-18T11:17:51Z
   Total Products: 7
+- [In-Stock Storm Doors](https://www.stormdoorguy.com/collections/in-stock-doors): Looking to get your door installed quickly? Our custom and special order doors can take up to 4 weeks to get delivered from the factories. Our in-stock doors can typically be installed within the week (or sooner) depending on our schedule.
+  Updated: 2026-10-16T22:50:54Z
+  Total Products: 10
 
 ## Blogs
 
@@ -1842,6 +1845,62 @@
     Updated: 2026-10-12T00:32:48Z
     Author: Storm Door Guy
     Tags: doors, home, home improvement, innovative home designs., outdoor solutions, oversized screens, platinum, storm door guy, storm doors
+  - [Expert Advice: How to Maintain Your Storm Doors for Longevity](https://www.stormdoorguy.com/blogs/news/expert-advice-how-to-maintain-your-storm-doors-for-longevity): Expert Advice: How to Maintain Your Storm Doors for Longevity
+    Updated: 2026-10-12T15:01:31Z
+    Author: Storm Door Guy
+    Tags: door management, doors, expert storm door care, front door, home improvement, longevity tips, maintain storm doors, maintenance, storm, storm door, storm door guy, storm doors
+  - [Why DuraGuard Secure Screen is Revolutionizing Home Improvement with the Storm Door Guy's Insight into Top Storm Doors](https://www.stormdoorguy.com/blogs/news/why-duraguard-secure-screen-is-revolutionizing-home-improvement-with-the-storm-door-guys-insight-into-top-storm-doors): Why DuraGuard Secure Screen is Revolutionizing Home Improvement with the Storm Door Guy's Insight into Top Storm Doors
+    Updated: 2026-10-13T00:43:42Z
+    Author: Storm Door Guy
+    Tags: best storm doors, door installation, doors, duraguard, home improvement, home security solutions, screens, storm door guy, storm doors
+  - [How to Choose Sustainable Storm Doors for Home Improvement](https://www.stormdoorguy.com/blogs/news/how-to-choose-sustainable-storm-doors-for-home-improvement): How to Choose Sustainable Storm Doors for Home Improvement
+    Updated: 2026-10-13T15:01:57Z
+    Author: Storm Door Guy
+    Tags: best materials for storm doors, doors, eco-friendly doors, energy efficiency, front door, home improvement, how to choose storm doors, storm, storm door guy, storm doors, sustainable
+  - [Discover the Deluxe 395 Crossbuck: A Storm Door Guy's Guide to Game-Changing Storm Doors for Home Improvement](https://www.stormdoorguy.com/blogs/news/discover-the-deluxe-395-crossbuck-a-storm-door-guys-guide-to-game-changing-storm-doors-for-home-improvement): Discover the Deluxe 395 Crossbuck: A Storm Door Guy's Guide to Game-Changing Storm Doors for Home Improvement
+    Updated: 2026-10-14T00:42:58Z
+    Author: Storm Door Guy
+    Tags: best storm doors for homes, doors, guide to storm door installation, home, home improvement, remodeling tips, storm, storm door guy, storm doors
+  - [Essential Steps for Installing a Storm Door on Your Front Door](https://www.stormdoorguy.com/blogs/news/essential-steps-for-installing-a-storm-door-on-your-front-door): Essential Steps for Installing a Storm Door on Your Front Door
+    Updated: 2026-10-14T15:01:55Z
+    Author: Storm Door Guy
+    Tags: door, front door, home improvement, how to install storm doors, installation, installing storm doors guide, storm, storm door, storm door guy, storm doors
+  - [The Deluxe 395 Crossbuck Explainer Boost Your Home Improvement Project with Storm Door Guy Favorites Storm Doors](https://www.stormdoorguy.com/blogs/news/the-deluxe-395-crossbuck-explainer-boost-your-home-improvement-project-with-storm-door-guy-favorites-storm-doors): The Deluxe 395 Crossbuck Explainer Boost Your Home Improvement Project with Storm Door Guy Favorites Storm Doors
+    Updated: 2026-10-15T00:31:24Z
+    Author: Storm Door Guy
+    Tags: best storm doors, choosing storm doors, crossbuck design, doors, home, home improvement, house improvement, storm, storm door guy, storm doors
+  - [Troubleshooting Common Issues with Your Storm Doors Effectively](https://www.stormdoorguy.com/blogs/news/troubleshooting-common-issues-with-your-storm-doors-effectively): Troubleshooting Common Issues with Your Storm Doors Effectively
+    Updated: 2026-10-15T15:01:02Z
+    Author: Storm Door Guy
+    Tags: common storm door issues, doors, front door, home improvement, how to fix doors, installation tips, repair, storm, storm door, storm door guy, storm doors, weather resistance
+  - [Enhancing Your Home Improvement Project with Platinum Security Glass Doors Insights from the Storm Door Guy on Optimal Storm Doors](https://www.stormdoorguy.com/blogs/news/enhancing-your-home-improvement-project-with-platinum-security-glass-doors-insights-from-the-storm-door-guy-on-optimal-storm-doors): Enhancing Your Home Improvement Project with Platinum Security Glass Doors Insights from the Storm Door Guy on Optimal Storm Doors
+    Updated: 2026-10-16T00:43:12Z
+    Author: Storm Door Guy
+    Tags: benefits of security doors, doors, glass, home improvement, installing storm doors, outdoor design, security, storm door guy, storm doors
+  - [Innovative Storm Door Designs for the Modern Home Improvement Enthusiast](https://www.stormdoorguy.com/blogs/news/innovative-storm-door-designs-for-the-modern-home-improvement-enthusiast): Innovative Storm Door Designs for the Modern Home Improvement Enthusiast
+    Updated: 2026-10-16T15:01:51Z
+    Author: Storm Door Guy
+    Tags: design, doors, durable entryways, energy efficiency, front door, home improvement, modern storm, storm, storm door guy, storm doors, stylish storm doors
+  - [Storm Door Guy's Guide to Spectrum MidVue 298: Elevate Home Improvement with Top Storm Doors](https://www.stormdoorguy.com/blogs/news/storm-door-guys-guide-to-spectrum-midvue-298-elevate-home-improvement-with-top-storm-doors): Storm Door Guy's Guide to Spectrum MidVue 298: Elevate Home Improvement with Top Storm Doors
+    Updated: 2026-10-17T00:40:37Z
+    Author: Storm Door Guy
+    Tags: best storm doors, doors, energy efficiency, guide to storm doors, home improvement, midvue 298, spectrum, storm, storm door guy, storm doors
+  - [The Storm Door Guy’s Guide to Weather-Proofing Your Front Door](https://www.stormdoorguy.com/blogs/news/the-storm-door-guy-s-guide-to-weather-proofing-your-front-door): The Storm Door Guy’s Guide to Weather-Proofing Your Front Door
+    Updated: 2026-10-17T15:00:56Z
+    Author: Storm Door Guy
+    Tags: best storm doors, door, energy-efficient storm doors, front door, home entrances, home improvement, storm, storm door guy, storm door installation, storm doors, weatherproofing
+  - [Discover the Deluxe 398 Pebble Grain Hi-Lite: Your Go-To Storm Door Choice from the Storm Door Guy for Exceptional Home Improvement](https://www.stormdoorguy.com/blogs/news/discover-the-deluxe-398-pebble-grain-hi-lite-your-go-to-storm-door-choice-from-the-storm-door-guy-for-exceptional-home-improvement): Discover the Deluxe 398 Pebble Grain Hi-Lite: Your Go-To Storm Door Choice from the Storm Door Guy for Exceptional Home Improvement
+    Updated: 2026-10-18T00:26:55Z
+    Author: Storm Door Guy
+    Tags: best storm doors, door, exceptional storm door options, high-lite, home, home improvement, improvement, pebble grain, storm, storm door guy, storm doors
+  - [Boosting Security and Style: A Storm Doors Explainer](https://www.stormdoorguy.com/blogs/news/boosting-security-and-style-a-storm-doors-explainer): Boosting Security and Style: A Storm Doors Explainer
+    Updated: 2026-10-18T15:01:23Z
+    Author: Storm Door Guy
+    Tags: doors, energy efficient storm doors, entry doors, front door, home improvement, security, storm, storm door benefits, storm door guy, storm doors, stylish storm door options
+  - [Exploring Deluxe 379SS Pebble Grain: Storm Door Guy's Guide to Essential Storm Doors and Home Improvement](https://www.stormdoorguy.com/blogs/news/exploring-deluxe-379ss-pebble-grain-storm-door-guys-guide-to-essential-storm-doors-and-home-improvement): Exploring Deluxe 379SS Pebble Grain: Storm Door Guy's Guide to Essential Storm Doors and Home Improvement
+    Updated: 2026-10-19T00:30:53Z
+    Author: Storm Door Guy
+    Tags: best storm doors for homes, deluxe storm doors, doors, essential storm doors, home improvement, pebble grain, storm, storm door guide, storm door guy, storm doors
 - [STORM DOOR ADVICE & IDEAS](https://www.stormdoorguy.com/blogs/storm-door-advice-ideas)
   - [Educational Insights into Storm Doors for Everyday Homeowners](https://www.stormdoorguy.com/blogs/storm-door-advice-ideas/educational-insights-into-storm-doors-for-everyday-homeowners): Educational Insights into Storm Doors for Everyday Homeowners
     Updated: 2026-09-17T12:00:08Z
@@ -1893,7 +1952,7 @@
 - [Storm Doors Denver: ProVia](https://www.stormdoorguy.com/pages/provia-doors)
   Updated: 2026-06-02T15:31:29Z
 - [Thank You](https://www.stormdoorguy.com/pages/thank-you): Your site inspection request has been submitted. What to Expect Next Our office manager, Angie, will check your appointment day and time and confir...
-  Updated: 2026-08-05T23:34:26Z
+  Updated: 2026-10-15T13:06:00Z
 - [Storm Door Installation Gallery | Denver, CO](https://www.stormdoorguy.com/pages/gallery): 
   Updated: 2026-09-23T07:43:24Z
 - [Why Choose Storm Door Guy? | Denver Storm Doors](https://www.stormdoorguy.com/pages/why-storm-door-guy): 
