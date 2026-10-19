@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-11-30T17:33:41Z
 - Contact Email: contact@myparismonaco.com
-- Updated At: 2026-10-09T00:00:45.207Z
+- Updated At: 2026-10-19T00:00:47.368Z
 
 ## Products
 
@@ -2603,119 +2603,81 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/15971896_a97cdd30-b5a3-4b73-aaf0-d8fd8b1be58d.jpg?v=1774019992
     Price: 26,90 € EUR
-- [Robe midi camisole bretelles nouées imprimée – style parisien | MyParisMonaco](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress): Robe midi camisole à bretelles nouées et fronces en 100% polyester. Coupe féminine et légère en rosé poudré ou bleu clair pour un style parisien chic.
-  Updated: 2026-10-05T21:56:53Z
-  Vendor: MyParisMonaco
-  Product Type: Women's Fashion - Women's Clothing - Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
-  - [Rosé poudré / S](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970768986452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
-    Price: 33,90 € EUR
-  - [Rosé poudré / M](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769019220)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
-    Price: 33,90 € EUR
-  - [Rosé poudré / L](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769051988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
-    Price: 33,90 € EUR
-  - [Rosé poudré / XL](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769084756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
-    Price: 33,90 € EUR
-  - [Bleu clair / S](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769117524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
-    Price: 33,90 € EUR
-  - [Bleu clair / M](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769150292)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
-    Price: 33,90 € EUR
-  - [Bleu clair / L](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769183060)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
-    Price: 33,90 € EUR
-  - [Bleu clair / XL](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769215828)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
-    Price: 33,90 € EUR
-[List Continued](https://www.myparismonaco.com/a/llms-agent/llms.txt?shop=pt6yr5-91.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAzMTU0NjkzNzY4NCwibGFzdF92YWx1ZSI6IjE1MDMxNTQ2OTM3Njg0In0%3D)
+[List Continued](https://www.myparismonaco.com/a/llms-agent/llms.txt?shop=pt6yr5-91.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAyODM5NTc3MDE5NiwibGFzdF92YWx1ZSI6IjE1MDI4Mzk1NzcwMTk2In0%3D)
 
 ## Collections
 
 - [Robes & Jupes longues](https://www.myparismonaco.com/collections/robes-longues): Découvrez notre collection de robes & jupes longues élégantes, parfaites pour toutes les occasions. Des silhouettes fluides et sophistiquées qui incarnent le chic parisien et monégasque. - MyParisMonaco
-  Updated: 2026-10-08T15:03:46Z
-  Total Products: 166
+  Updated: 2026-10-17T17:14:08Z
+  Total Products: 179
 - [Robes & Jupes courtes](https://www.myparismonaco.com/collections/robes-courtes): Explorez notre sélection de robes courtes & jupes chics et modernes. Des pièces polyvalentes qui allient élégance et décontraction, idéales pour vos journées ensoleillées et soirées estivales. - MyParisMonaco
-  Updated: 2026-10-08T13:29:13Z
-  Total Products: 120
+  Updated: 2026-10-17T17:34:26Z
+  Total Products: 132
 - [Hauts & Pulls chics](https://www.myparismonaco.com/collections/hauts-chics): Découvrez notre collection de hauts raffinés, où l'élégance parisienne rencontre le glamour monégasque. Chaque pièce est soigneusement sélectionnée pour sublimer votre silhouette avec sophistication et modernité. Des chemisiers en soie aux tops structurés, notre sélection incarne l'art de vivre à la française : intemporel, chic et résolument féminin. Parfaits pour vos journées au bureau comme pour vos soirées d'exception, ces hauts s'accordent avec votre style de vie cosmopolite. Laissez-vous séduire par des coupes impeccables, des matières nobles et une attention particulière aux détails qui font toute la différence. - MyParisMonaco
-  Updated: 2026-10-08T13:33:32Z
-  Total Products: 224
+  Updated: 2026-10-18T11:39:38Z
+  Total Products: 245
 - [Ensemble & combinaisons](https://www.myparismonaco.com/collections/ensemble-chic): L'élégance parisienne rencontre le raffinement monégasque. Notre collection ensemble chic incarne l'art de vivre à la française avec une touche de sophistication méditerranéenne. Conçue pour la femme moderne qui apprécie les lignes épurées et les matières nobles, cette collection célèbre le chic intemporel. Chaque pièce est pensée pour s'harmoniser parfaitement, créant des silhouettes élégantes du matin au soir. Laissez-vous séduire par l'alliance subtile du bleu marine profond et du blanc immaculé, signature de notre maison, pour un style à la fois classique et contemporain. L'élégance n'est jamais une question de mode, c'est une question d'attitude. - MyParisMonaco
-  Updated: 2026-10-06T15:53:46Z
-  Total Products: 104
+  Updated: 2026-10-17T15:43:04Z
+  Total Products: 118
 - [Sacs à main, Bagages & Ceintures](https://www.myparismonaco.com/collections/sacs-a-main): Alliant l'élégance parisienne au raffinement de Monaco, notre sélection de sacs à main, bagages & Ceintures incarne le chic intemporel et la sophistication moderne. Chaque pièce est soigneusement choisie pour sublimer votre style avec une touche d'élégance française. Des modèles classiques aux créations contemporaines, nos sacs à main sont conçus pour accompagner la femme moderne dans tous ses moments, du quotidien aux occasions spéciales. Matériaux nobles, finitions impeccables et design raffiné : chaque détail compte pour créer des accessoires qui traversent le temps. Laissez-vous séduire par notre collection et trouvez le sac à main qui deviendra votre compagnon d'élégance au quotidien. - MyParisMonaco
-  Updated: 2026-10-08T15:14:17Z
-  Total Products: 77
+  Updated: 2026-10-15T15:26:20Z
+  Total Products: 80
 - [Chaussures - Bottes](https://www.myparismonaco.com/collections/chaussures): La collection qui sublime chaque pas Découvrez notre sélection de chaussures qui allie élégance parisienne et confort absolu. Des baskets minimalistes aux escarpins raffinés, en passant par les bottines intemporelles et les sandales estivales, chaque paire est choisie pour sublimer votre style avec sophistication. Notre collection réunit les essentiels du vestiaire parisien : des pièces polyvalentes qui se portent aussi bien au quotidien qu'en soirée, des lignes épurées qui traversent les saisons, des matières nobles qui assurent qualité et durabilité. Que vous recherchiez des chaussures pour le bureau, une soirée spéciale ou vos week-ends décontractés, vous trouverez la paire parfaite pour compléter votre look. Notre sélection baskets : des modèles minimalistes en cuir blanc aux versions plus audacieuses, parfaites pour un look décontracté-chic parisien escarpins : des talons aiguilles classiques aux kitten heels, pour une élégance intemporelle du bureau à la soirée bottines : des modèles plats aux talons structurés, en cuir ou daim, essentiels pour l'automne et l'hiver sandales : des nu-pieds plats aux modèles à talons, pour un été chic et confortable mules : des versions à talons aux modèles plats, parfaites pour une élégance sans effort ballerines : des classiques intemporels qui se glissent dans tous les looks parisiens Le style parisien à vos pieds Chaque paire de notre collection est sélectionnée pour incarner cette élégance parisienne si particulière : des lignes épurées, des couleurs intemporelles, des détails raffinés. Nous privilégions les matières nobles comme le cuir, le daim souple et les véritables finitions soignées qui assurent confort et durabilité. Que vous soyez à la recherche de la paire parfaite pour compléter votre tenue de travail, sublimer une robe de soirée ou simplement vous sentir bien au quotidien, notre collection de chaussures vous accompagne à chaque instant avec style et confort. - MyParisMonaco
-  Updated: 2026-10-08T13:21:13Z
-  Total Products: 73
+  Updated: 2026-10-15T15:13:02Z
+  Total Products: 76
 - [Manteaux, blousons, vestes & gilets](https://www.myparismonaco.com/collections/manteaux-trenchs): Découvrez notre sélection de manteaux et vestes qui incarnent l'élégance parisienne intemporelle. Du trench classique beige au manteau en laine structuré, en passant par le perfecto en cuir et le pardessus long, chaque pièce est choisie pour sublimer votre silhouette et vous accompagner avec style à travers les saisons. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les années, des matières nobles comme la laine vierge, le cachemire et le cuir de qualité, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
-  Updated: 2026-10-08T13:02:53Z
-  Total Products: 141
+  Updated: 2026-10-18T11:59:24Z
+  Total Products: 179
 - [Pantalons, shorts & jeans](https://www.myparismonaco.com/collections/pantalons-shorts-jeans): Découvrez notre sélection de pantalons, shorts et jeans qui incarnent l'élégance parisienne intemporelle. Du jean brut parfait au pantalon cigarette impeccable, en passant par le short tailleur et le pantalon large fluide, chaque pièce est choisie pour sublimer votre silhouette et composer un vestiaire polyvalent et sophistiqué. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les saisons, des matières nobles comme le denim de qualité, la laine vierge et le coton premium, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
-  Updated: 2026-09-30T17:16:05Z
-  Total Products: 23
+  Updated: 2026-10-15T13:58:46Z
+  Total Products: 24
 - [Chapeaux & casquettes](https://www.myparismonaco.com/collections/chapeaux-casquettes): Sublimez votre style parisien avec notre collection de chapeaux et casquettes raffinés. Des pièces intemporelles qui apportent la touche finale parfaite à votre garde-robe, du casual chic au plus sophistiqué. Chaque accessoire est sélectionné pour sa qualité exceptionnelle et son élégance discrète, transformant instantanément n'importe quelle tenue en déclaration de style. - MyParisMonaco
-  Updated: 2026-09-30T17:16:48Z
+  Updated: 2026-10-18T11:19:41Z
   Total Products: 11
 - [Plage, Sport & Lunettes](https://www.myparismonaco.com/collections/plage-lunettes): Découvrez notre collection estivale qui célèbre l'art de vivre à la française. Des maillots de bain raffinés aux lunettes de soleil iconiques, chaque pièce est sélectionnée pour sa qualité exceptionnelle et son élégance intemporelle. Sublimez vos journées ensoleillées avec des essentiels qui allient sophistication parisienne et confort absolu, du bord de mer aux terrasses urbaines. L'été se vit avec style et distinction. - MyParisMonaco
-  Updated: 2026-10-06T11:27:28Z
+  Updated: 2026-10-12T18:05:36Z
   Total Products: 43
 - [Mode masculine](https://www.myparismonaco.com/collections/mode-masculine): Découvrez la mode masculine MyParisMonaco : costumes, chemises et manteaux de luxe aux silhouettes raffinées, entre Paris et Monaco.
-  Updated: 2026-10-06T11:23:57Z
+  Updated: 2026-10-15T05:56:52Z
   Total Products: 60
 - [Automne & Halloween](https://www.myparismonaco.com/collections/halloween): Découvrez notre sélection Halloween & automne : pièces sombres, matières somptueuses et silhouettes dramatiques pour une élégance envoûtante.
-  Updated: 2026-10-06T11:22:57Z
-  Total Products: 30
+  Updated: 2026-10-17T17:23:48Z
+  Total Products: 32
 - [Châles, Echarpes, Gants & Bonnets](https://www.myparismonaco.com/collections/chales-echarpes-gants-bonnets): Laine, cachemire, cuir souple — les accessoires qui font la douceur de l'hiver. Châles à draper, écharpes à enrouler, gants et bonnets pour affronter le froid
-  Updated: 2026-10-02T17:03:38Z
+  Updated: 2026-10-12T18:05:36Z
   Total Products: 7
 - [PM GIRLS](https://www.myparismonaco.com/collections/pm-girls): PM Girls — by MyParisMonaco notre Collection - MyParisMonaco
-  Updated: 2026-10-02T17:03:39Z
+  Updated: 2026-10-12T15:50:02Z
   Total Products: 11
 - [Sortir](https://www.myparismonaco.com/collections/sortir): Sequins, dentelle, cristaux et satin — tout ce qui brille quand la nuit commence. Des robes courtes aux silhouettes longues, des looks cocktail aux tenues de
-  Updated: 2026-10-08T14:11:49Z
-  Total Products: 46
+  Updated: 2026-10-17T06:01:11Z
+  Total Products: 56
 - [Homme Chaussures - Bottes](https://www.myparismonaco.com/collections/homme-chaussures-bottes): Découvrez nos bottes homme en cuir, des modèles élégants et intemporels pour une silhouette parisienne affirmée.
-  Updated: 2026-10-06T11:12:34Z
+  Updated: 2026-10-13T05:18:18Z
   Total Products: 6
 - [Chemises & Polos](https://www.myparismonaco.com/collections/chemises-hommes-polos): Des chemises et polos aux matières raffinées, pensés pour composer une silhouette masculine élégante et décontractée. Des essentiels intemporels, entre
-  Updated: 2026-10-02T17:03:40Z
+  Updated: 2026-10-15T05:56:52Z
   Total Products: 35
 - [Manteaux - Vestes - Gilets](https://www.myparismonaco.com/collections/manteaux-vestes-gilets): Des manteaux, vestes et gilets aux coupes élégantes pour composer une silhouette parisienne en toute saison. Des matières raffinées et des lignes
-  Updated: 2026-10-02T17:03:40Z
-  Total Products: 16
+  Updated: 2026-10-15T16:19:23Z
+  Total Products: 25
 - [Pulls - Sweatshirts](https://www.myparismonaco.com/collections/pulls-sweatshirts): Des pulls et sweatshirts aux matières douces et aux coupes soigneusement pensées, pour conjuguer confort et élégance au quotidien. Des essentiels intemporels
-  Updated: 2026-10-02T17:03:41Z
+  Updated: 2026-10-12T18:05:36Z
   Total Products: 6
 - [Sport](https://www.myparismonaco.com/collections/sport): Une sélection sport pensée pour accompagner chaque mouvement avec style. Des pièces confortables, fonctionnelles et modernes, conçues pour passer naturellement
   Updated: 2026-10-03T08:36:00Z
   Total Products: 0
 - [T-Shirts](https://www.myparismonaco.com/collections/t-shirts): Des T-shirts aux coupes soignées et aux matières agréables, pensés pour composer une silhouette simple et élégante au quotidien. Des essentiels faciles à
-  Updated: 2026-10-03T09:55:15Z
+  Updated: 2026-10-12T18:05:36Z
   Total Products: 4
 - [Noël & Fêtes](https://www.myparismonaco.com/collections/noel-et-fetes): Sélection mode pour les fêtes de fin d'année : tenues de réveillon, hauts festifs, accessoires et idées cadeaux. Élégance parisienne pour Noël et le Nouvel An.
-  Updated: 2026-10-08T14:15:52Z
-  Total Products: 22
+  Updated: 2026-10-17T17:23:48Z
+  Total Products: 31
 - [Accessoires & Livres de bord de mer](https://www.myparismonaco.com/collections/accessoires-livres-bord-de-mer): Accessoires et livres inspirés de la mer et de la navigation. Une sélection pour ceux qui vivent au rythme des marées, des voiliers et des terrasses côtières.
-  Updated: 2026-10-08T11:23:07Z
+  Updated: 2026-10-12T18:05:36Z
   Total Products: 28
 - [Collections - Meilleures ventes](https://www.myparismonaco.com/collections/meilleures-ventes): Découvrez nos pièces les plus appréciées et une sélection de vêtements et accessoires au style parisien.
-  Updated: 2026-10-03T09:55:16Z
+  Updated: 2026-10-13T11:25:39Z
   Total Products: 50
 
 ## Blogs
@@ -2774,16 +2736,22 @@
     Updated: 2026-09-27T09:04:00Z
     Author: MyParisMonaco - Amélie notre experte mode
   - [Style bord de mer adapté aux rues parisiennes: les secrets](https://www.myparismonaco.com/blogs/news/style-bord-de-mer-adapte-aux-rues-parisiennes-les-secrets): Style bord de mer adapté aux rues parisiennes: les secrets
-    Updated: 2026-09-28T00:30:47Z
+    Updated: 2026-10-14T22:29:50Z
     Author: MyParisMonaco - Amélie notre experte mode
   - [Inspirations mode: de la plage bretonne aux terrasses parisiennes.](https://www.myparismonaco.com/blogs/news/inspirations-mode-de-la-plage-bretonne-aux-terrasses-parisiennes): Inspirations mode: de la plage bretonne aux terrasses parisiennes.
     Updated: 2026-10-01T13:43:14Z
     Author: MyParisMonaco - Amélie notre experte mode
   - [Tendances mode bord de mer et raffinement à la parisienne](https://www.myparismonaco.com/blogs/news/tendances-mode-bord-de-mer-et-raffinement-a-la-parisienne): Tendances mode bord de mer et raffinement à la parisienne
-    Updated: 2026-10-05T00:30:37Z
+    Updated: 2026-10-14T22:28:31Z
     Author: MyParisMonaco - Amélie notre experte mode
   - [S'inspirer de la mode bord de mer pour un style urbain éclatant](https://www.myparismonaco.com/blogs/news/sinspirer-de-la-mode-bord-de-mer-pour-un-style-urbain-eclatant): S'inspirer de la mode bord de mer pour un style urbain éclatant
-    Updated: 2026-10-07T00:45:01Z
+    Updated: 2026-10-14T22:23:53Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Mode frenchy: chic estival de la plage à la capitale](https://www.myparismonaco.com/blogs/news/mode-frenchy-chic-estival-de-la-plage-a-la-capitale): Mode frenchy: chic estival de la plage à la capitale
+    Updated: 2026-10-14T22:27:21Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Les règles d'or pour adopter un look marin au cœur de Paris](https://www.myparismonaco.com/blogs/news/les-regles-dor-pour-adopter-un-look-marin-au-coeur-de-paris): Les règles d'or pour adopter un look marin au cœur de Paris
+    Updated: 2026-10-14T22:25:25Z
     Author: MyParisMonaco - Amélie notre experte mode
 
 ## Store Pages
@@ -2818,7 +2786,7 @@
 - [Privacy Policy](https://www.myparismonaco.com/policies/privacy-policy)
   Updated: 2026-10-02T17:58:28+02:00
 - [Shipping Policy](https://www.myparismonaco.com/policies/shipping-policy)
-  Updated: 2026-10-07T16:05:14+02:00
+  Updated: 2026-10-13T09:12:59+02:00
 - [Refund Policy](https://www.myparismonaco.com/policies/refund-policy)
   Updated: 2026-10-07T16:11:48+02:00
 - [Terms of Service](https://www.myparismonaco.com/policies/terms-of-service)
