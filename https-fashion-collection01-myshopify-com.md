@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2026-08-10T06:58:26Z
 - Contact Email: josiah.norval08@gmail.com
-- Updated At: 2026-09-12T05:30:52.381Z
+- Updated At: 2026-10-19T00:00:42.725Z
 
 ## Products
 
 - [Woodpecker Middle-aged Thin Men''s Pants Summer Non Ironing](https://fashion-collection01.myshopify.com/products/woodpecker-middle-aged-thin-mens-pants-summer-non-ironing): Product information: Main material content: hemp Hemp content: 30% or less Fabric: other pattern: plain Waist type: high waist Color: gray, khaki, light blue, light gray Fabric material: cotton and linen Size Information: Size: 29 30 31 32 33 34 35 36 38 40 42 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hemp male trousers x1 Product Image:
-  Updated: 2026-09-12T00:18:44Z
+  Updated: 2026-09-22T10:01:37Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -193,7 +193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/d6e35eef-a015-41cd-a28b-48f7750cd53f.jpg?v=1786435052
     Price: $29.15 USD
 - [19studio South Korean Hong Kong Style Shirt Ins Men''s Summer](https://fashion-collection01.myshopify.com/products/19studio-south-korean-hong-kong-style-shirt-ins-mens-summer): Product information: M Material: Cotton pattern: plain Collar type: other Color: apricot gray Edition type: loose clothing Style details: printing Applicable objects: Teenagers Size Information: Size: M L XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt x1 Product Image:
-  Updated: 2026-09-12T00:18:44Z
+  Updated: 2026-09-22T10:01:37Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/a9b0ee8c-7291-4150-b549-8be680a35292.jpg?v=1786435071
     Price: $19.92 USD
 - [Hair Spring And Autumn Men''S T-Shirt Coat Korean Version Blazer Solid Color Cardigan Handsome Men''S Sweater](https://fashion-collection01.myshopify.com/products/hair-spring-and-autumn-mens-t-shirt-coat-korean-version-blazer-solid-color-cardigan-handsome-mens-sweater): Product Information: Edition type: Slim type Collar type: suit collar Placket: Two buttons in a single row Style: light business pattern: plain Fabric name: chemical fiber blended The content of the main fabric ingredient: 50 (%) Main fabric composition: polyester fiber (polyester) Lining composition: polyester fiber (polyester) Way of slits: no slits Process: non-iron  Style details: multiple pockets Length: Regular Sleeve length: long sleeve Clothing pocket style: three-dimensional patch pocket Clothing hem design: round hem Color: black, hard green, camel Size: M, L, XL, 2XL, 3XL, 4XL Size Information: size length bust sleeve shoulder 165/M 67 100 59 42 170/L 69 104 60 43.5 175/XL 71 108 61 45 18O/XXL 73 112 62 46.5 185/XXXL 75 116 63 48 190/XXXXL 77 120 64 49.5 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing: Knitwear X1
-  Updated: 2026-09-12T00:18:44Z
+  Updated: 2026-09-22T10:01:37Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/ce253591-3979-4ab0-a4eb-a93eeaa8a3fc.jpg?v=1786435115
     Price: $25.23 USD
 - [Men''s Loose Solid Color T-shirt Men''s Short Sleeve Fashion Brand Hong Kong Style Men''s Casual Top Summer Thin Cotton](https://fashion-collection01.myshopify.com/products/mens-loose-solid-color-t-shirt-mens-short-sleeve-fashion-brand-hong-kong-style-mens-casual-top-summer-thin-cotton): Product information: Brand: cuchohomme Material: Cotton Cotton content: 90% (inclusive) -95% (inclusive) Flower pattern: solid color Collar type: round neck Color: white black wine red blue green Sleeve type: drop shoulder sleeve Time to market: 2020 Item No.: FT88-88 Subdivision style: youthful vitality Basic style: Youth popular Brand type: fashion brand Applicable season: summer sleeve length: short sleeve Thickness: thin Applicable scenarios: other leisure Edition type: loose clothing Process: non-iron  Applicable object: Youth Size information: Size: M L XL size bust shoulder sleeve length M 100 48 23 68 L 108 50 24 70 XL 116 52 25 72 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing List: T-shirt*1
-  Updated: 2026-09-12T00:18:45Z
+  Updated: 2026-09-22T10:01:38Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1618397907225.jpg?v=1786435207
     Price: $20.18 USD
 - [Sexy Spice  Women''s Summer Thin Hot Pants](https://fashion-collection01.myshopify.com/products/sexy-spice-womens-summer-thin-hot-pants): Product information: Pants type: Loose type Short waist type: High waist Color: Apricot, gray Size information: size: One size Precautions: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress x1
-  Updated: 2026-09-12T00:18:45Z
+  Updated: 2026-09-22T10:01:38Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -385,7 +385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1620695789427.jpg?v=1786435222
     Price: $11.92 USD
 - [Women S Heart Hollow Out Cropped Knit Vacation Top](https://fashion-collection01.myshopify.com/products/women-s-heart-hollow-out-cropped-knit-vacation-top): Product Details Basic Information Item Details Fabric name Viscose fibre Thickness Thin Technology High temperature setting Brand Not have Pattern Purity Layout Convention Listing year/season Summer 2025 Outside sleeve Three-inch sleeves Long dress Ultra-short (≤40cm) Size S, M, L, XL Wearing style Pullover Main fabric composition Viscose fibre Model Basic Style European and American style Art.no 2155 Combining form Single item Sleeve Conventional sleeve Collar Round collar Trendy elements Hollow out Pigment Pink, khaki, white, rose, green Style type Street fashion trendsetters Content of main fabric components More than 95%
-  Updated: 2026-09-12T00:18:45Z
+  Updated: 2026-09-22T10:01:38Z
   Vendor: My Store
   Product Type: 4
   Availability: Available
@@ -471,7 +471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/7a9c1dad-cb2f-4595-8c1e-73ee8d2f89d5.jpg?v=1786435255
     Price: $15.99 USD
 - [Women S Leaf Hollow Out Cropped Knit Vacation Top](https://fashion-collection01.myshopify.com/products/women-s-leaf-hollow-out-cropped-knit-vacation-top): Product Details Basic Information Item Details Fabric name Viscose fibre Thickness Secondary Technology High temperature setting Brand Not have Pattern Purity Layout Convention Listing year/season Summer 2025 Outside sleeve Three-inch sleeves Long dress Ultra-short (≤40cm) Size S, M, L, XL Wearing style Pullover Main fabric composition Viscose fibre Model Basic Style European and American style Art.no 2156 Combining form Single item Sleeve Conventional sleeve Collar Round collar Trendy elements Hollow out Pigment Pink, khaki, white, green Style type Street fashion trendsetters Content of main fabric components More than 95%
-  Updated: 2026-09-12T00:18:45Z
+  Updated: 2026-09-22T10:01:38Z
   Vendor: My Store
   Product Type: 4
   Availability: Available
@@ -541,7 +541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/19c3db2c-d982-4410-84ab-25b4b6396a53.jpg?v=1786435295
     Price: $15.99 USD
 - [Women S Hollow Out Cropped Knit Vacation Top](https://fashion-collection01.myshopify.com/products/women-s-hollow-out-cropped-knit-vacation-top): Product Details Basic Information Item Details Fabric name Viscose fibre Thickness Secondary Technology High temperature setting Brand Not have Pattern Purity Layout Convention Listing year/season Summer 2025 Outside sleeve Three-inch sleeves Long dress Ultra-short (≤40cm) Size S, M, L, XL Wearing style Pullover Main fabric composition Viscose fibre Model Basic Style European and American style Art.no 2157 Combining form Single item Sleeve Conventional sleeve Collar Round collar Trendy elements Hollow out Pigment Pink, khaki, white Style type Street fashion trendsetters Content of main fabric components More than 95%
-  Updated: 2026-09-12T00:18:45Z
+  Updated: 2026-09-22T10:01:39Z
   Vendor: My Store
   Product Type: 4
   Availability: Available
@@ -595,7 +595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/11d463a8-86e9-49f7-a1fe-15b70cb766d0.jpg?v=1786435322
     Price: $15.99 USD
 - [Black  South Korean Women''s Group Icecream](https://fashion-collection01.myshopify.com/products/black-south-korean-womens-group-icecream): Product information: Color classification: Milky white style one, Milky white style two, Milky white style three, Milky white style four Year and season of listing: Summer 2020 Size Information: Size: S M L Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Singing suit x1 Product Image:
-  Updated: 2026-09-12T00:18:46Z
+  Updated: 2026-09-22T10:01:39Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1623146725872.jpg?v=1786435336
     Price: $28.75 USD
 - [Ramie Floral Dress Women''s Simple And Elegant Custom](https://fashion-collection01.myshopify.com/products/ramie-floral-dress-womens-simple-and-elegant-custom): Product information: Pattern: Printing Craft: laces, buttons, printing Style: A-line skirt Skirt length: mid-length skirt Main fabric composition: polyester fiber (polyester) The content of main fabric ingredients: 30%-50% Lining ingredient content: 71% (inclusive)-80% (inclusive) Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress x1 Product Image:
-  Updated: 2026-09-12T00:18:46Z
+  Updated: 2026-09-22T10:01:39Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -679,7 +679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/66792ada-c4f1-44b5-9347-cbfa77aa1aa5.jpg?v=1786435350
     Price: $20.99 USD
 - [One Shoulder Irregular T-shirt Women''s Summer](https://fashion-collection01.myshopify.com/products/one-shoulder-irregular-t-shirt-womens-summer): Product information: pattern: Plain Stitching style: Commuting Main color: Army green, rose red, apricot shirt length: Medium Clothing version type: Loose Size information: size: One size Precautions: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress x1
-  Updated: 2026-09-12T00:18:46Z
+  Updated: 2026-09-22T10:01:39Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -697,7 +697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1620695275652.jpg?v=1786435363
     Price: $15.51 USD
 - [Chiffon Dress Women''s Summer Short Denim Skirt](https://fashion-collection01.myshopify.com/products/chiffon-dress-womens-summer-short-denim-skirt): Product information: Color: wash water blue Size: s, M, L Main sales area: Europe, North America, Northeast Asia, Middle East Suitable age: 25-29 years old Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short skirt X1
-  Updated: 2026-09-12T00:18:46Z
+  Updated: 2026-09-22T10:01:40Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -715,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1622620324349.jpg?v=1786435378
     Price: $17.71 USD
 - [Liviahome Glossy Satin Bandage Shirt Women''s Summer Thin](https://fashion-collection01.myshopify.com/products/liviahome-glossy-satin-bandage-shirt-womens-summer-thin): Product information: Main fabric composition: cotton The content of the main fabric ingredient: 100% Main fabric composition 2: Cotton style: Casual pattern: plain Style: Hedging Sleeve length: long sleeve Edition type: Slim type Length: Short style (40cm＜length≤50cm) Color: black, brown, nude Size Information: Size: S, M Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Long sleeve x1 Product Image:
-  Updated: 2026-09-12T00:18:46Z
+  Updated: 2026-09-22T10:01:40Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -741,7 +741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/7e76ec55-ee44-4247-9e74-424f150f6cf2.jpg?v=1786435393
     Price: $21.11 USD
 - [European And American Style Summer New Women"s Dress](https://fashion-collection01.myshopify.com/products/european-and-american-style-summer-new-womens-dress): Product information: Sleeve length: Long sleeve Waist type: High waist Clothing placket: Hedging Main fabric composition: Polyester fiber (polyester) The content of the main fabric ingredient: 91%-99% Color: Picture color Size Information: Size: S, M, L Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Long sleeve x1 Product Image:
-  Updated: 2026-09-12T00:18:47Z
+  Updated: 2026-09-22T10:01:40Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -759,7 +759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1622534071481.jpg?v=1786435409
     Price: $19.50 USD
 - [hot women' s dress](https://fashion-collection01.myshopify.com/products/hot-women-s-dress): Product information: Fabric name: polyester spandex Process: high temperature finalization Style: basic Combination form: single piece Length of skirt: long skirt Skirt type: one-step skirt Collar type: round neck Sleeve type: regular sleeve Waist shape: high waist Front placket: pullover Popular element: splicing Size information: Size: S, M, L, XL, 2XL, 3XL
-  Updated: 2026-09-12T00:18:47Z
+  Updated: 2026-09-22T10:01:40Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -877,7 +877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1603724962500_adb16555-bba7-4f32-8c85-4138155b071f.jpg?v=1786435423
     Price: $12.75 USD
 - [Women s Mini Woolen Short Skirt](https://fashion-collection01.myshopify.com/products/women-s-mini-woolen-short-skirt): Product information: Pattern: Check Style: Commuter Waist type: high waist Color Classification: Khaki blue dark blue to black Ingredient content: 81% (inclusive) -90% (inclusive) Skirt type: A-line skirt Size information: Size Waist circumference Hips Skirt length s 64 84 40 l 68 88 40 L 72 92 41 Z 76 96 41 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list : Woolen skirt*1
-  Updated: 2026-09-12T00:18:47Z
+  Updated: 2026-09-22T10:01:41Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -943,7 +943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1618300032672.jpg?v=1786435437
     Price: $13.50 USD
 - [Women S Casual Color Block Heart Short Sleeve Knit Valentine S Top](https://fashion-collection01.myshopify.com/products/women-s-casual-color-block-heart-short-sleeve-knit-valentine-s-top)
-  Updated: 2026-09-12T00:18:47Z
+  Updated: 2026-09-22T10:01:41Z
   Vendor: My Store
   Product Type: 4
   Availability: Available
@@ -997,7 +997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/277e9b2a-826d-4039-b838-d8eb916ba2b6.jpg?v=1786435464
     Price: $16.99 USD
 - [Art Retro Simple Ladies Hoodie Streetwear](https://fashion-collection01.myshopify.com/products/art-retro-simple-ladies-hoodie-streetwear): Product Details: Pattern: Print Style: Hedging Edition type: Loose Combination form: two-piece set Sleeve Length: Long Sleeve Main fabric composition: polyester fiber (polyester) Colour: Black Size Information: Size: XS,S,M,L,XL,XXL,XXXL,XXXXL P revention: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Package Contents: Sweater x1
-  Updated: 2026-09-12T00:18:48Z
+  Updated: 2026-09-22T10:01:41Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1035,7 +1035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/79d68326-dfec-4591-b499-c0c8bd1ad0ba.jpg?v=1786435483
     Price: $16.09 USD
 - [Butterfly Pattern Rhinestone Zipper Streetwear](https://fashion-collection01.myshopify.com/products/butterfly-pattern-rhinestone-zipper-streetwear): Product Information: Style: Cardigan Edition type: Slim type Combination form: Single set Length of dress: Ordinary style (50cm＜length of dress≤65cm) Sleeve length: Long sleeve Sleeve type: Conventional sleeve Collar type: V-neck Clothing placket: Zipper Thickness: General Popular elements: Embroidery Craft: Collage/splicing Size Information: Size: S, M, L Size Length Shoulder Bust Sleeve Length S 67 54 126 60 M 68 55 130 61 L 69 56 134 62 Precautions: 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images. Packing List: Coat*1
-  Updated: 2026-09-12T00:18:48Z
+  Updated: 2026-09-22T10:01:41Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/c6a600f8-6a48-43a5-947a-f57f7f73097e.jpg?v=1786435501
     Price: $14.86 USD
 - [Fashion Popular Streetwear Letter Sweater](https://fashion-collection01.myshopify.com/products/fashion-popular-streetwear-letter-sweater): Product information: Pattern: 3D effect Color: black, white, blue, khaki Size: XS,S,M,L,XL,XXL,XXXL,4XL Style type: Japanese and Korean casual Popular elements: 3D/stereo pattern Style: pullover Fabric name: Polyester Style: casual style Process: Printing Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater x 1pc Product Image:
-  Updated: 2026-09-12T00:18:48Z
+  Updated: 2026-09-22T10:01:42Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/a375a65d-0cec-4a10-93b5-3c36e8c1225d_trans.jpg?v=1786435526
     Price: $13.67 USD
 - [Hawaiian Casual Shirt Streetwear](https://fashion-collection01.myshopify.com/products/hawaiian-casual-shirt-streetwear): Style: cardigan Edition type: Loose Collar Type: Lapel Sleeve length: five-point sleeve / middle sleeve Fabric name: chemical fiber blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 100 (%) 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-09-12T00:18:48Z
+  Updated: 2026-09-22T10:01:42Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1305,7 +1305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/931547677258.jpg?v=1786435546
     Price: $16.61 USD
 - [Hoodie Ladies Pullover Large Sweatshirt Streetwear](https://fashion-collection01.myshopify.com/products/hoodie-ladies-pullover-large-sweatshirt-streetwear): Product information: Style: Harajuku Pattern: Printing Style: Hedging Edition type: Loose Combination form: single-piece Length: Medium length (65cm＜length≤80cm) Sleeve length: long sleeve Sleeve type: bat sleeve Collar type: Hood/hat collar Thickness: thicker Fabric name: Cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 71%-80% Lining composition: polyester fiber (polyester) Lining ingredient content: 71%-80% Color: white, khaki, pink, purple, black, orange, navy blue, sky blue, dark green, brown Size Information: Size: XS,S,M,L,XL,XXL,XXXL,XXXXL Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-09-12T00:18:48Z
+  Updated: 2026-09-22T10:01:42Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1511,7 +1511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1615444300400.jpg?v=1786435568
     Price: $13.08 USD
 - [Korean Streetwear Harajuku Top Sweatshirt Long](https://fashion-collection01.myshopify.com/products/korean-streetwear-harajuku-top-sweatshirt-long): Product information: Supply category: Spot Inventory type: whole order Style: OL commuting Pattern: Printing Style: Hedging Edition type: Slim type Combination form: two-piece Length: Medium length (65cm＜length≤80cm) Sleeve length: long sleeve Sleeve type: conventional sleeve Collar type: Hood/hat collar Clothing placket: a button Thickness: fleece Popular elements: printing Process: Printing/Dyeing Suitable age: 25-29 years old Clothing style: European and American Style type: temperament commuting Main fabric composition 2: polyester Size information Size: S, M, L, XL, XXL, 3XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Package: Sweatshirt x1
-  Updated: 2026-09-12T00:18:49Z
+  Updated: 2026-09-22T10:01:43Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1685,7 +1685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/7136ebe1-dcc0-4ec6-b880-6c0e2faec9d0.jpg?v=1786435590
     Price: $13.39 USD
 - [Men's Fashion Washed Streetwear Graphic Prints](https://fashion-collection01.myshopify.com/products/mens-fashion-washed-streetwear-graphic-prints): Product information: Main fabric composition: cotton Style: Head cover Target audience: Youth Neck Type: Round Neck Sleeve length: short sleeved Packing list: Top *1 Product Im ag e:
-  Updated: 2026-09-12T00:18:49Z
+  Updated: 2026-09-22T10:01:43Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1743,7 +1743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/7defc65a-8d14-4df4-9c06-87d1c879dfbf.jpg?v=1786435605
     Price: $14.53 USD
 - [New Ripped Skinny Jeans mens Streetwear](https://fashion-collection01.myshopify.com/products/new-ripped-skinny-jeans-mens-streetwear): Fabric name: cotton 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following imag
-  Updated: 2026-09-12T00:18:49Z
+  Updated: 2026-09-22T10:01:43Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1773,7 +1773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/347782786813.jpg?v=1786435629
     Price: $18.52 USD
 - [Pencil pants suit streetwear](https://fashion-collection01.myshopify.com/products/pencil-pants-suit-streetwear): Main fabric composition: Polyester fiber (polyester) Content of main fabric ingredients: 81% -90% 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-09-12T00:18:50Z
+  Updated: 2026-09-22T10:01:43Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1859,7 +1859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/2262160255676.jpg?v=1786435651
     Price: $15.80 USD
 - [Printed Short-sleeve Streetwear Half-sleeve](https://fashion-collection01.myshopify.com/products/printed-short-sleeve-streetwear-half-sleeve): Product information: Pattern: Printed Fabric Name: Polyester-Cotton Blend Color: Black, White Sleeve Style: Regular Sleeve Main Fabric Composition: Polyester (Terylene) Size: XS, S, M, L, XL Fit: Straight Cut Design: Pullover Style Packing list: T-shirt *1 Product Image:
-  Updated: 2026-09-12T00:18:50Z
+  Updated: 2026-09-22T10:01:44Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1905,7 +1905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/5e1def56-c634-41ac-825d-c7834b984138.jpg?v=1786435666
     Price: $13.02 USD
 - [Printing Long Sleeve Shirt Men''s Lapel Shirt](https://fashion-collection01.myshopify.com/products/printing-long-sleeve-shirt-mens-lapel-shirt): Product information: Edition type: fit type Pattern: Letters Main fabric composition: cotton The content of the main fabric ingredient: 50 (%) Fabric name: cotton blended Size information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list : Shirt*1
-  Updated: 2026-09-12T00:18:50Z
+  Updated: 2026-09-22T10:01:44Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -1935,7 +1935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1617603744884.jpg?v=1786435680
     Price: $14.36 USD
 - [Short Sleeve T-shirt Men''s One Summer Men''s Thin Polo Shirt Fawn Print Lapel T-Shirt Large](https://fashion-collection01.myshopify.com/products/short-sleeve-t-shirt-mens-one-summer-mens-thin-polo-shirt-fawn-print-lapel-t-shirt-large): Product information： Sleeve length ： Short sleeve colour ： White, gray, dark blue, sapphire size ： M,L,XL,2XL,3XL,4XL Applicable scenarios ： daily Size： size M ( 170/88A ) L ( 175/92A ) XL ( 180/96A ) 2XL ( 185/100A ) 3XL ( 190/104A ) 4XL ( 195/108A ) Shoulder width 40.5 42.5 44.5 46.5 48.5 50.5 bust 94 98 102 106 110 114 Sleeve length 19 20 21 22 23 24 Length of garment 69 70 71 72 73 74 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt * 1
-  Updated: 2026-09-12T00:18:50Z
+  Updated: 2026-09-22T10:01:44Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2037,7 +2037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1622599181878.jpg?v=1786435701
     Price: $12.93 USD
 - [Spring New Suit Men"S Korean Plaid Non Iron Casual Small Suit Coat Fashion Men"S Wholesale](https://fashion-collection01.myshopify.com/products/spring-new-suit-mens-korean-plaid-non-iron-casual-small-suit-coat-fashion-mens-wholesale): Product information: Edition type: Slim type Collar type: suit collar Placket: two buckles in a single row Style: simple Pattern: Plaid Fabric name: chemical fiber blended Main fabric ingredient content: 72 (%) Main fabric composition: polyester fiber (polyester) Lining composition: polyester fiber (polyester) Way of slits: no slits Process: non-iron  Style details: color matching Length: Regular Sleeve length: long sleeve Clothing pocket style: save pocket Clothing hem design: round hem Color: gray, blue Size: M, L, XL, XXL, XXXL, XXXXL Size information: size bust shoulder sleeve Back length hem M 100 43.8 60 71 102 L 104 45 61.5 73 106 XL 108 46.2 63 75 110 2XL 112 47.4 64.5 77 114 3XL 116 48.6 66 78 118 4XL 120 49.8 67 79 122 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing List: Suit jacket*1
-  Updated: 2026-09-12T00:18:50Z
+  Updated: 2026-09-22T10:01:44Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2091,7 +2091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1620629062582.jpg?v=1786435721
     Price: $29.95 USD
 - [Streetwear Harajuku Print Hoodie](https://fashion-collection01.myshopify.com/products/streetwear-harajuku-print-hoodie): Material: Fabric Name: Polyester Main Fabric Composition: Polyester Fiber (Polyester) The Content Of The Main Fabric Ingredient: 80 (%) Detail : Style: Hedging Edition Type: Loose Sleeve Length: Short Sleeve Hooded Or Not: Not Hooded Thickness: General Pattern: Color Style Details: Printing Printing Theme: Color Process: Digital Printing Color: White, Khaki Size Information: Size: S, M, L, XL, XXL, XXXL, XXXXL, 5XL, 6XL 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-09-12T00:18:51Z
+  Updated: 2026-09-22T10:01:44Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2205,7 +2205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1712975817188.jpg?v=1786435735
     Price: $17.25 USD
 - [Streetwear Navy Blue Cropped Baseball Jacket](https://fashion-collection01.myshopify.com/products/streetwear-navy-blue-cropped-baseball-jacket): Product information: Clothing pocket style: Patch side seam pockets Colors: Blue, black Target audience: Teenagers Sizes: M, L, XL, 2XL, 3XL Fit: Slim fit Thickness: Lightweight Fabric name: Synthetic fiber blend Occasion: Casual Sleeve style: Regular sleeve Main fabric material: Polyester Garment length: Short (40 cm < length ≤ 50 cm) Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Jacket*1pcs Product Image:
-  Updated: 2026-09-12T00:18:51Z
+  Updated: 2026-09-22T10:01:45Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2251,7 +2251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/88971fe2-04c0-4b61-8451-920722921623.jpg?v=1786435750
     Price: $18.96 USD
 - [Streetwear T-shirt Modern  Short Sleeve](https://fashion-collection01.myshopify.com/products/streetwear-t-shirt-modern--short-sleeve): Product information: Color: Black Size: XS,S,M,L,XL,XXL,XXL,XXXXL Style: pullover Thickness: medium Fabric name: Polyester Applicable scenarios: Leisure Sleeve type: conventional sleeve Main fabric composition: Polyester (polyester fiber) Style: casual style Process: Printing/printing and dyeing Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short Sleeve x1 Product Image:
-  Updated: 2026-09-12T00:18:51Z
+  Updated: 2026-09-22T10:01:45Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2289,7 +2289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/2b2fa01c-4cbf-43a6-8177-ea3a2c67d941.jpg?v=1786435762
     Price: $11.78 USD
 - [White Rascal Casual Suit Men''S Trend Loose Light Mature Suit Men''S Net Infrared Set Summer Thin](https://fashion-collection01.myshopify.com/products/white-rascal-casual-suit-mens-trend-loose-light-mature-suit-mens-net-infrared-set-summer-thin): Product information: Isit in： stock Inventory type ：Whole order Fabric name： Chemical fiber blended Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. packing list: Suit X1
-  Updated: 2026-09-12T00:18:51Z
+  Updated: 2026-09-22T10:01:45Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2487,7 +2487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/1622427707502.jpg?v=1786435776
     Price: $48.84 USD
 - [Women S Color Block Heart Loose Knit Valentine S Sweater Top](https://fashion-collection01.myshopify.com/products/women-s-color-block-heart-loose-knit-valentine-s-sweater-top)
-  Updated: 2026-09-12T00:18:51Z
+  Updated: 2026-09-22T10:01:45Z
   Vendor: My Store
   Product Type: 4
   Availability: Available
@@ -2541,7 +2541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/38920bd3-4c87-465c-b173-8bca4678a7c2.jpg?v=1786435805
     Price: $16.99 USD
 - [Women trousers casual loose streetwear](https://fashion-collection01.myshopify.com/products/women-trousers-casual-loose-streetwear): Main fabric composition: regenerated cellulose fiber Main fabric composition 2: woolen cloth/polyester (polyester fiber) 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-09-12T00:18:52Z
+  Updated: 2026-09-22T10:01:46Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2631,7 +2631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/520316732951.jpg?v=1786435836
     Price: $25.93 USD
 - [Women's Streetwear Base Shirt Top](https://fashion-collection01.myshopify.com/products/womens-streetwear-base-shirt-top): Product information: Color: short sleeve No.170, short sleeve No.131. Main fabric composition: polyester Style: pullover Collar type: round neck Size Information: Dimensions: XS,S,M,L,XL,2XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly fromthe following images. Packing list: Top *1
-  Updated: 2026-09-12T00:18:52Z
+  Updated: 2026-09-22T10:01:46Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2685,7 +2685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0834/3266/9439/files/a199fef9-0351-402f-b891-ccd3707ee714.jpg?v=1786435845
     Price: $11.93 USD
 - [Women's Sweatshirt Pullover Streetwear Zipper](https://fashion-collection01.myshopify.com/products/womens-sweatshirt-pullover-streetwear-zipper): Product information: Pattern: Couple theme Fabric name: air layer Color: 3v-5YTCS,3v-5YTCT,3v-5YTCU,3v-5YTCV,3v-5YTCW,3v-5YTCX,3v-5YTCY,3v-5YTCZ Sleeve type: regular sleeve Main fabric composition: Spandex Version: Regular Length: ordinary (50cm Style type: fresh and sweet Sleeve length: long sleeve Popular elements: ruffles Style: sweet style Style: pullover Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's sweatshirts X1 Product Image:
-  Updated: 2026-09-12T00:18:52Z
+  Updated: 2026-09-22T10:01:46Z
   Vendor: My Store
   Product Type: 0
   Availability: Available
@@ -2895,42 +2895,24 @@
 ## Collections
 
 - [Men’s Collection](https://fashion-collection01.myshopify.com/collections/men-s-collection)
-  Updated: 2026-09-12T00:18:44Z
-  Total Products: 35
+  Updated: 2026-10-01T05:30:06Z
+  Total Products: 38
 - [Women’s Collection](https://fashion-collection01.myshopify.com/collections/women-s-collection)
-  Updated: 2026-09-12T00:18:44Z
-  Total Products: 45
+  Updated: 2026-10-01T05:30:04Z
+  Total Products: 57
 - [Streetwear Collection](https://fashion-collection01.myshopify.com/collections/streetwear-collection)
-  Updated: 2026-09-12T00:18:44Z
-  Total Products: 30
+  Updated: 2026-09-22T10:01:37Z
+  Total Products: 46
 - [Shoe Collection](https://fashion-collection01.myshopify.com/collections/activewear-collection)
-  Updated: 2026-09-12T00:18:44Z
-  Total Products: 22
+  Updated: 2026-09-22T10:01:37Z
+  Total Products: 23
 - [Accessories Collection](https://fashion-collection01.myshopify.com/collections/accessories-collection)
-  Updated: 2026-09-12T00:18:44Z
+  Updated: 2026-09-22T10:01:37Z
   Total Products: 35
-- [Toys](https://fashion-collection01.myshopify.com/collections/toys)
-  Updated: 2026-09-11T01:05:52Z
-  Total Products: 0
-- [Audio](https://fashion-collection01.myshopify.com/collections/audio)
-  Updated: 2026-09-11T01:05:52Z
-  Total Products: 0
-- [Electronics Accessories](https://fashion-collection01.myshopify.com/collections/electronics-accessories)
-  Updated: 2026-09-11T01:05:52Z
-  Total Products: 0
 - [Trends](https://fashion-collection01.myshopify.com/collections/trends)
   Updated: 2026-09-11T01:05:53Z
   Total Products: 0
-- [Hobbies & Creative Arts](https://fashion-collection01.myshopify.com/collections/hobbies-creative-arts)
-  Updated: 2026-09-11T01:05:53Z
-  Total Products: 0
-- [Games](https://fashion-collection01.myshopify.com/collections/games)
-  Updated: 2026-09-11T01:05:53Z
-  Total Products: 0
 - [Personal Care](https://fashion-collection01.myshopify.com/collections/personal-care)
-  Updated: 2026-09-11T01:05:53Z
-  Total Products: 0
-- [Novelty & Special Use](https://fashion-collection01.myshopify.com/collections/novelty-special-use)
   Updated: 2026-09-11T01:05:53Z
   Total Products: 0
 
