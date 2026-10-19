@@ -6,26 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-10-12T00:00:21.840Z
+- Updated At: 2026-10-19T00:00:27.541Z
 
 ## Products
 
 - [How To Age Healthy | Strength & Vitality Guide PDF](https://thedailybetterment.com/products/how-to-age-healthy): Stay strong, steady, and sharp at any age. Easy strength and balance routines, plus 8 printable trackers. 33-page healthy aging guide. Instant PDF.
-  Updated: 2026-10-11T02:39:05Z
+  Updated: 2026-10-16T17:56:19Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HealthyAging.png?v=1788891629
   Price: $12.00 USD
 - [Dating Tips for Nurses | Busy Nurse Dating Guide PDF](https://thedailybetterment.com/products/how-to-balance-dating-as-a-busy-nurse): Busy nurse? Find and keep love around 12-hour shifts, nights, and burnout. 30-page guide with 7 printable tools. Instant PDF download.
-  Updated: 2026-10-11T02:39:05Z
+  Updated: 2026-10-16T17:56:19Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/BusyNurse.png?v=1788891633
   Price: $12.00 USD
 - [Discipline Without Yelling | Parenting Guide PDF](https://thedailybetterment.com/products/how-to-discipline-your-child-without-fear): Stop yelling and get real results. Calm discipline tools, scripts, and age-by-age strategies, plus 7 printable tools. 32-page PDF, instant download.
-  Updated: 2026-10-11T02:39:05Z
+  Updated: 2026-10-16T17:56:19Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
@@ -46,35 +46,35 @@
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToManageStressInCollege.png?v=1788891649
   Price: $12.00 USD
 - [New Cat Anxiety Guide | Don't Rehome That Kitty PDF](https://thedailybetterment.com/products/how-to-overcome-new-cat-anxiety): New cat hiding, hissing, or not eating? Help your cat settle in, build trust, and avoid rehoming. First-time owner guide with printables. Instant PDF.
-  Updated: 2026-10-11T02:39:06Z
+  Updated: 2026-10-16T17:56:20Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Don_tRehomeThatKitty.png?v=1788891656
   Price: $12.00 USD
 - [Rebuild Intimacy in Your Relationship | Couples PDF](https://thedailybetterment.com/products/how-to-rebuild-intimacy-in-your-relationship-before-they-cheat): Feel more like roommates than partners? Rebuild closeness, affection, and desire before it's too late. Includes a 30-day challenge. Instant PDF download.
-  Updated: 2026-10-11T02:39:06Z
+  Updated: 2026-10-16T17:56:20Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HowToRebuildIntimacyInYourRelationship.png?v=1788891661
   Price: $12.00 USD
 - [Signs He Is Cheating | Research-Backed Warning Signs PDF](https://thedailybetterment.com/products/signs-he-is-cheating): Think he might be cheating? Learn the research-backed warning signs, separate fact from fear, and find clarity. 18-page PDF. Instant download.
-  Updated: 2026-10-11T02:39:06Z
+  Updated: 2026-10-16T17:56:20Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/HeMightBeCheating.png?v=1788891666
   Price: $12.00 USD
 - [Signs Your Newborn Is Sick | Newborn Warning Signs PDF](https://thedailybetterment.com/products/signs-your-newborn-is-sick): Is it normal or an emergency? A color-coded guide to newborn warning signs, fever, breathing, and jaundice, with a printable fridge cheat sheet. Instant PDF.
-  Updated: 2026-10-11T02:39:07Z
+  Updated: 2026-10-16T17:56:20Z
   Vendor: PDF Oasis
   Product Type: pdf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/SignsYourNewbornIsSick_1.png?v=1788891676
   Price: $12.00 USD
 - [The Love Playbook | Relationship Advice Ebook PDF](https://thedailybetterment.com/products/the-love-playbook-insights-strategies-for-a-fulfilling-relationship): 15 simple rules for love, , and happiness, from someone who struggled for 30+ years. Weekly exercises and bonus couples tools. 44-page PDF, instant download.
-  Updated: 2026-10-11T02:39:07Z
+  Updated: 2026-10-16T17:56:20Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
@@ -125,18 +125,48 @@
 ## Blogs
 
 - [The Daily Read](https://thedailybetterment.com/blogs/the-daily-read): Discover free self-help books, personal development tips, and downloadable PDF guides to help you grow every day. Start your journey to a better you.
-  - [Discover 7 Must-Read Self Help Books to Read Online for Free Today](https://thedailybetterment.com/blogs/the-daily-read/discover-7-must-read-self-help-books-to-read-online-for-free-today): Discover 7 Must-Read Self Help Books to Read Online for Free Today
-    Updated: 2026-10-04T03:49:14Z
+  - [What to Say Instead of Yelling: 12 Calm Phrases That Actually Work](https://thedailybetterment.com/blogs/the-daily-read/what-to-say-instead-of-yelling): <p>Yelling usually happens when we run out of words. Here are 12 calm, firm phrases to reach for instead, plus what to do when you've already lost your cool.</p>
+    Updated: 2026-10-15T07:31:46Z
     Author: The Daily Betterment
-    Tags: free resources, mindset, PDF download, self-help, self-improvement
-  - [Top 10 Self Help Books to Read Online for Free for Mindset Transformation](https://thedailybetterment.com/blogs/the-daily-read/top-10-self-help-books-to-read-online-for-free-for-mindset-transformation): Top 10 Self Help Books to Read Online for Free for Mindset Transformation
-    Updated: 2026-10-06T07:01:45Z
+    Tags: discipline, gentle parenting, parenting
+  - [The Money Date: 10 Questions That Help Couples Stop Fighting About Money](https://thedailybetterment.com/blogs/the-daily-read/money-date-questions-for-couples): <p>Most money fights aren't really about the $40. A monthly money date gives you a calm time and a simple set of questions to get on the same page.</p>
+    Updated: 2026-10-15T07:31:46Z
     Author: The Daily Betterment
-  - [How Self Help Books to Read Online for Free Can Boost Your Personal Growth](https://thedailybetterment.com/blogs/the-daily-read/how-self-help-books-to-read-online-for-free-can-boost-your-personal-growth): How Self Help Books to Read Online for Free Can Boost Your Personal Growth
-    Updated: 2026-10-08T07:01:48Z
+    Tags: couples, money, relationships
+  - [How to Study When You're Overwhelmed: The 25-Minute Reset](https://thedailybetterment.com/blogs/the-daily-read/how-to-study-when-overwhelmed): <p>When everything is due at once, the hardest part is starting. The 25-minute reset is a simple way to get moving and keep going, even on your worst week.</p>
+    Updated: 2026-10-15T07:31:46Z
     Author: The Daily Betterment
-  - [Exploring Must-Read Mindset Books for Beginners Available as Self Help PDF Download](https://thedailybetterment.com/blogs/the-daily-read/exploring-must-read-mindset-books-for-beginners-available-as-self-help-pdf-download): Exploring Must-Read Mindset Books for Beginners Available as Self Help PDF Download
-    Updated: 2026-10-11T07:01:55Z
+    Tags: college, stress, study tips
+  - [Dating When You Work 12-Hour Shifts: A Realistic Guide for Nurses](https://thedailybetterment.com/blogs/the-daily-read/dating-on-12-hour-shifts-nurses): <p>Three 12s in a row, rotating nights, holidays on the schedule. Here's how nurses and other shift workers can make dating work without burning out.</p>
+    Updated: 2026-10-15T07:31:46Z
+    Author: The Daily Betterment
+    Tags: dating, nurses, relationships, shift work
+  - [Your New Cat's First Week: A Calm, Day-by-Day Plan](https://thedailybetterment.com/blogs/the-daily-read/new-cat-first-week-plan): <p>Is your new cat hiding under the bed? That's normal. Here's a gentle, day-by-day plan to help a new cat settle in, and help you stop worrying.</p>
+    Updated: 2026-10-15T07:31:46Z
+    Author: The Daily Betterment
+    Tags: cats, new cat, pets
+  - [Feeling Like Roommates? 7 Small Ways to Reconnect With Your Partner](https://thedailybetterment.com/blogs/the-daily-read/feeling-like-roommates-ways-to-reconnect): <p>No big fight, no big problem, just distance. If you and your partner feel more like roommates than a couple, these seven small habits can help you find your way back.</p>
+    Updated: 2026-10-15T07:33:15Z
+    Author: The Daily Betterment
+    Tags: couples, intimacy, relationships
+  - [10 Small Daily Habits for Aging Well](https://thedailybetterment.com/blogs/the-daily-read/small-daily-habits-for-aging-well): <p>Aging well isn't about one big change. It's a handful of small, boring habits done most days. Here are ten worth building, at any age.</p>
+    Updated: 2026-10-15T07:33:15Z
+    Author: The Daily Betterment
+    Tags: habits, healthy aging, wellness
+  - [Habits of Happy Couples That Nobody Posts About](https://thedailybetterment.com/blogs/the-daily-read/habits-of-happy-couples): <p>Social media shows the vacations and anniversary dinners. The habits that actually keep couples happy are much quieter. Here are eight of them.</p>
+    Updated: 2026-10-15T07:33:15Z
+    Author: The Daily Betterment
+    Tags: couples, love, relationships
+  - [The First Two Weeks Home With a Newborn: Practical Tips for Tired Parents](https://thedailybetterment.com/blogs/the-daily-read/first-two-weeks-home-with-newborn): <p>The first two weeks with a newborn are a blur. These practical, non- tips can make the days (and nights) a little more manageable.</p>
+    Updated: 2026-10-15T07:33:15Z
+    Author: The Daily Betterment
+    Tags: new parents, newborn, parenting
+  - [The 10% Better Method: Why Small Changes Stick When Big Ones Don't](https://thedailybetterment.com/blogs/the-daily-read/the-10-percent-better-method): <p>Big resolutions fade by February. Small improvements quietly add up. Here's how to use the 10% better approach to make changes that actually last.</p>
+    Updated: 2026-10-15T07:33:16Z
+    Author: The Daily Betterment
+    Tags: habits, personal growth, self improvement
+  - [Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources](https://thedailybetterment.com/blogs/the-daily-read/why-self-help-books-to-read-online-for-free-are-crucial-for-beginners-pdf-resources): Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources
+    Updated: 2026-10-18T07:00:46Z
     Author: The Daily Betterment
 
 ## Store Pages
@@ -153,6 +183,8 @@
   Updated: 2026-09-28T05:56:23Z
 - [Collabs](https://thedailybetterment.com/pages/collab)
   Updated: 2026-09-30T05:30:49Z
+- [About Us](https://thedailybetterment.com/pages/about): Small steps. Bigger tomorrows. The Daily Betterment started with a simple idea: most people don't need a complete life makeover. They need a little...
+  Updated: 2026-10-15T07:32:04Z
 
 ## Policies
 
