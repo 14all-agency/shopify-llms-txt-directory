@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2023-07-08T19:27:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-11T00:00:45.317Z
+- Updated At: 2026-10-19T00:00:45.426Z
 
 ## Products
 
@@ -154,14 +154,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [cuntry trucker hat - pink](https://dasha.merchmadeeasy.com/products/cuntry-trucker-hat-pink): we're serving cuntry in these hats 🩷 camo trucker hat with a snap closure
-  Updated: 2026-10-05T13:03:46Z
+  Updated: 2026-10-16T21:41:42Z
   Vendor: Cuntry
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/CuntryPinkHat.png?v=1712934678
   Price: $35.00 USD
 - [cuntry trucker hat - orange](https://dasha.merchmadeeasy.com/products/cuntry-trucker-hat-orange): we're serving cuntry in these hats 🧡 camo trucker hat with a snap closure
-  Updated: 2026-10-08T19:03:33Z
+  Updated: 2026-10-15T21:56:06Z
   Vendor: Cuntry
   Product Type: Hat
   Availability: Available
@@ -357,16 +357,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://dasha.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 29
 - [apparel](https://dasha.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-01T11:10:52Z
+  Updated: 2026-10-15T21:38:04Z
   Total Products: 13
 - [accessories](https://dasha.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 14
 - [all](https://dasha.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 39
 - [What Happens Now?](https://dasha.merchmadeeasy.com/collections/what-happens-now)
   Updated: 2026-07-22T14:13:01Z
@@ -378,13 +378,13 @@ your agent can transact everywhere.
   Updated: 2026-10-01T11:10:52Z
   Total Products: 8
 - [cuntry collection](https://dasha.merchmadeeasy.com/collections/cuntry-collection)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 7
 - [$20.24](https://dasha.merchmadeeasy.com/collections/20-24)
   Updated: 2025-05-04T01:50:35Z
   Total Products: 0
 - [hats](https://dasha.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 6
 - [2025 tour merch](https://dasha.merchmadeeasy.com/collections/not-at-this-party)
   Updated: 2026-09-20T11:10:31Z
@@ -393,10 +393,10 @@ your agent can transact everywhere.
   Updated: 2026-09-18T11:10:38Z
   Total Products: 2
 - [new arrivals](https://dasha.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 39
 - [best sellers](https://dasha.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 39
 - [](https://dasha.merchmadeeasy.com/collections/)
   Updated: 2026-10-01T11:10:52Z
@@ -417,7 +417,7 @@ your agent can transact everywhere.
   Updated: 2026-06-08T20:27:37Z
   Total Products: 1
 - [$30 & Above](https://dasha.merchmadeeasy.com/collections/30-above)
-  Updated: 2026-10-09T11:11:15Z
+  Updated: 2026-10-17T11:18:58Z
   Total Products: 22
 
 ## Store Pages
