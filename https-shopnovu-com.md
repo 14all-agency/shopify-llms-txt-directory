@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-10-02T05:10:58Z
 - Contact Email: kevinhuff1203@icloud.com
-- Updated At: 2026-10-11T19:54:45.611Z
+- Updated At: 2026-10-19T00:00:33.056Z
 
 ## Products
 
 - [Men's Casual Jogger Pants – Loose Fit Drawstring Streetwear](https://shopnovu.com/products/mens-best--casual-sports-pants-loose-fitting-drawstring-design-jogging-pants-streetwear-and-outdoor-activities): Stay comfortable and stylish with these men's jogger pants. Featuring a loose fit, adjustable drawstring waist, and lightweight fabric — perfect for casual wear, workouts, or outdoor adventures. Available in sizes S–4XL across two colors.
-  Updated: 2026-10-11T05:09:59Z
+  Updated: 2026-10-13T16:40:00Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S667a742e5c1b47b68a2db3f20336b633V.webp?v=1791108423
     Price: $167.22 USD
 - [Men's Zip-Up Hoodie | Casual Streetwear Sweatshirt – Novu Shop](https://shopnovu.com/products/zipper-hoodies-autumn-winter-mens-new-long-sleeve-hooded-sweatshirt-fashion-casual-male-outfit-sportwear-loose-fit-clothes): Shop our Men's Zip-Up Hoodie in Grey, Black & White. Loose fit, warm fleece lining, sizes S-XXXL. Perfect for streetwear, gym & casual wear. Order now!
-  Updated: 2026-10-11T05:09:59Z
+  Updated: 2026-10-13T16:40:00Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/Sf71bf7b61dc04d0ebc60056161b5e917f.webp?v=1791112549
     Price: $159.31 USD
 - [Men's Y2K Dollar Print Hoodie | Streetwear Graphic Sweatshirt](https://shopnovu.com/products/gray-y2k-harajuku-dollar-print-hoodie-euro-street-style-best-seller-viral-harajuku-inspired-gray-cash-graffiti-design-streetwear): Shop the viral Y2K Dollar Print Hoodie. Bold Harajuku-inspired graphic streetwear in sizes S–XXXL. Cozy, oversized, and built to turn heads. Order now!
-  Updated: 2026-10-11T05:09:59Z
+  Updated: 2026-10-13T16:40:00Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -253,7 +253,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S251af7213fa64442a40cc2d7bbaca933W.webp?v=1791114204
     Price: $162.37 USD
 - [USA Brooklyn Style 10 Print Oversized T Shirt Men's Streetwear Vintage Jersey Tee](https://shopnovu.com/products/usa-brooklyn-style-10-print-oversized-t-shirt-mens-streetwear-vintage-jersey-tee): SPECIFICATIONSApplicable Scene: DailyApplicable Season: summerBrand Name: NONECN: GuangdongChoice: yesCraft of Weaving: KnitGender: MenHigh-concerned chemical: noneItem Type: topsMaterial: POLYESTEROrigin: Mainland ChinaProduct Care Instructions: Machine WashSleeve Length(cm): Short (4 - 16 Inch)Special Features: Wrinkle Free,SoftStyle: CasualTops Type: TEES Ease of Care Machine washable, this wrinkle-free T-shirt maintains its pristine look with minimal effort. Versatile Style With its Brooklyn 10 graphic print, this tee combines streetwear flair with casual elegance. Seasonal Wear Designed for summer, this lightweight tee keeps you cool and stylish during warmer months. Fit and Comfort Available in sizes S-2XL, this top ensures a perfect fit for all body types. Material Quality Crafted from premium polyester, this T-shirt offers a soft, comfortable wear for daily use.
-  Updated: 2026-10-11T07:00:46Z
+  Updated: 2026-10-13T16:39:59Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S74b29ce2c43846fdacefa458cfd1fb5aJ.webp?v=1791116609
     Price: $159.59 USD
 - [2025 Women's Leather Toe Separator Loafers Flat Comfortable Slip-On Breathable Casual Shoes](https://shopnovu.com/products/2025-womens-leather-toe-separator-loafers-flat-comfortable-slip-on-breathable-casual-shoes): SPECIFICATIONSBrand Name: NONEChoice: yesDepartment Name: AdultFlats Type: BasicGender: WomenHigh-concerned chemical: noneItem Type: flatsOccasion: DailyOrigin: Mainland ChinaOutsole Material: RubberSeason: Spring/AutumnToe Shape: Round ToeUpper Material: Artificial leatherUpper fixing method: stickingWhether waterproof: NoWhether with metal toe cap: Nosize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"33.5","BR":"33","JP":"21","UK":"2","KR":"215","MX":"22","US":"4.5"},"length":{"cm":"21.5","inch":"8.46"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35","BR":"33","JP":"22","UK":"2.5","KR":"225","MX":"22.5","US":"5"},"length":{"cm":"22","inch":"8.66"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3","KR":"230","MX":"23","US":"5.5"},"length":{"cm":"22.5","inch":"8.86"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"36","BR":"34.5","JP":"23","UK":"3.5","KR":"235","MX":"23.5","US":"6"},"length":{"cm":"23","inch":"9.06"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.5","inch":"9.25"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"24","inch":"9.45"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25","inch":"9.84"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.5","inch":"10.04"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"26","inch":"10.24"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.5","inch":"10.43"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"42","BR":"40.5","JP":"27","UK":"8.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27","inch":"10.63"},"size":"45","vid":3116}]}
-  Updated: 2026-10-11T07:00:46Z
+  Updated: 2026-10-13T16:39:59Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -605,7 +605,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/Se85c2bd8d01d4daabc0013c08595db07n.webp?v=1791116609
     Price: $165.89 USD
 - [Women's Seamless Yoga Two-Piece Set](https://shopnovu.com/products/soft-seamless-yoga-outfits-women-slim-fit-short-sleeve-tee-high-rise-flared-leggings-sport-gym-two-piece-set): SPECIFICATIONSBlocking: RegularBrand Name: otherCN: ZhejiangChoice: yesCraft of Weaving: KnitDepartment Name: WomenFit: True to SizeGender: WomenHigh-concerned chemical: noneMaterial: Nylon,POLYESTEROrigin: Mainland ChinaSport Type: Yogapocket description: No Pocket
-  Updated: 2026-10-11T05:10:00Z
+  Updated: 2026-10-13T16:39:59Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -811,7 +811,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S10822b3ed4444ca9a15bfa1759a98107B.webp?v=1791116610
     Price: $170.33 USD
 - [Winter Hoodie Sets Men Fashion Fleece Red Hoodies Black Brand Pants Casual Jogger Suit Tracksuit Sweatshirt Woman Pullover](https://shopnovu.com/products/winter-hoodie-sets-men-fashion-fleece-red-hoodies-black-brand-pants-casual-jogger-suit-tracksuit-sweatshirt-woman-pullover): SPECIFICATIONSApplicable Scene: DailyApplicable Season: Autumn And WinterBrand Name: NONECN: JiangxiChoice: yesClosure Type: NoneCo-ords Type: Hoodies Co-ordsCollar: O-NeckCollar type: hoodedCraft of Weaving: KnitFabric characteristics: ventilateGender: MenHigh-concerned chemical: noneMaterial: POLYESTEROrigin: Mainland ChinaPant Closure Type: Elastic WaistPattern Type: PrintPlace Of Origin: China (mainland)Sleeve Length(cm): FullStyle: CasualThickness: FleeceTime to market: 2025size_info: {"sizeInfoList":[{"length":{"cm":"102","inch":"40.16"},"size":"S","vid":100014064},{"length":{"cm":"104","inch":"40.94"},"size":"M","vid":361386},{"length":{"cm":"108","inch":"42.52"},"size":"L","vid":361385},{"length":{"cm":"114","inch":"44.88"},"size":"XL","vid":100014065},{"length":{"cm":"120","inch":"47.24"},"size":"XXL","vid":4182},{"length":{"cm":"129","inch":"50.79"},"size":"XXXL","vid":4183}]}style: fallowwhether full opening: Nop{margin-block-start: 0; margin-block-end: 0}
-  Updated: 2026-10-11T07:06:17Z
+  Updated: 2026-10-13T16:39:58Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1017,7 +1017,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/Se9e59515c80b4c4bb976687323313dee4.webp?v=1791116610
     Price: $161.05 USD
 - [Netac SATA SSD 2TB 4TB 1tb 128gb SSD 480gb 512gb 256gb HD SSD Hard Drive Disk Hdd Internal Solid State Drive for Laptop PC](https://shopnovu.com/products/netac-sata-ssd-2tb-4tb-1tb-128gb-ssd-480gb-512gb-256gb-hd-ssd-hard-drive-disk-hdd-internal-solid-state-drive-for-laptop-pc): SPECIFICATIONSApplication: Desktop,LaptopBrand Name: NetacBus Type: SATA IIICertification: CEController: OtherCooling Fin: NoHigh-concerned chemical: noneInterface Type: SATAIIIMax Sequential Read: 560Max Sequential Write: 520Nand Flash Type: QLC,QLC/TLCOrigin: Mainland ChinaPackage: YesRGB: noSize: 2.5"Style: SSDTransport Protocol: AHCIType: InternalWarranty: 3 yearssd 360gb disk for laptop: netac ssd 2tb 360gb1.Model ：Netac N530S Internal Solid State Drive2.Capacity ：128GB, 256GB, 512GB, 1TB, 2TB,4TB3.Max Read Speed: Up to 560MB/s4.Max Write Speed: Up to 510MB/s5.Size : 2.5 inch6.Interface : SATA 6Gb/s7.Storage temperature : -40 ° C-85 °C8.Operating temperature: 0-70 ° C9.Warranty : 3 year
-  Updated: 2026-10-11T05:10:00Z
+  Updated: 2026-10-13T16:39:58Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1047,7 +1047,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S9f670164c54d4b7ea3689f3d70785709V.webp?v=1791116609
     Price: $49.99 USD
 - [Kids Spring Autumn Casual Simple Print 2pcs Hoodie+Pants Tracksuits Trend Outfits Clothes Sets For 2-13 Years Boys And Girls](https://shopnovu.com/products/kids-spring-autumn-casual-simple-print-2pcs-hoodie-pants-tracksuits-trend-outfits-clothes-sets-for-2-13-years-boys-and-girls): SPECIFICATIONSAge Range: 7-13YBrand Name: NONECN: JiangxiChoice: yesClosure Type: PulloverCollar: HoodedCraft of Weaving: KnitDepartment Name: ChildrenFit: Smaller Than UsualGender: UnisexHigh-concerned chemical: noneItem Type: setsMaterial: POLYESTERModel Number: 100-160Origin: Mainland ChinaPattern Type: PrintRope Type: noneRope length（0-99cm）: 0Season: AutumnSleeve Length(cm): FullSleeve Style: regularStyle: CasualThickness: Standardsemi_Choice: yessize_info: {"sizeInfoList":[{"length":{"cm":"42","inch":"16.54"},"size":"3-4T","vid":-64},{"length":{"cm":"45","inch":"17.72"},"size":"4-5T","vid":-65},{"length":{"cm":"48","inch":"18.90"},"size":"5-6T","vid":-66},{"length":{"cm":"51","inch":"20.08"},"size":"6-7T","vid":-67},{"length":{"cm":"54","inch":"21.26"},"size":"8-9T","vid":-68},{"length":{"cm":"57","inch":"22.44"},"size":"10-11T","vid":-69},{"length":{"cm":"60","inch":"23.62"},"size":"12-13T","vid":-70}]}whether full opening: No
-  Updated: 2026-10-11T05:10:00Z
+  Updated: 2026-10-13T16:39:58Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1253,7 +1253,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S09534681fdb84d6695d59a3f4b8f9b89a.webp?v=1791116613
     Price: $34.99 USD
 - [European and American men's summer Gothic skull letter print comfortable and breathable round neck T-shirt outdoor street top](https://shopnovu.com/products/european-and-american-mens-summer-gothic-skull-letter-print-comfortable-and-breathable-round-neck-t-shirt-outdoor-street-top): SPECIFICATIONSApplicable Scene: TripApplicable Season: summerBrand Name: NONECN: JiangxiChoice: yesClosure Type: Pull OnCollar: O-NeckCraft of Weaving: KnitFabric Type: BroadclothGender: MenHigh-concerned chemical: noneHooded: NoItem Type: topsMaterial: POLYESTEROrigin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Product Care Instructions: Machine WashSleeve Length(cm): FullSpecial Features: Breathable,Lightweight,Moisture Wicking,Quick DryStyle: CasualTops Type: TEESsize_info: {"sizeInfoList":[{"length":{"cm":"84","inch":"33.07"},"size":"XS","vid":872},{"length":{"cm":"90","inch":"35.43"},"size":"S","vid":100014064},{"length":{"cm":"96","inch":"37.80"},"size":"M","vid":361386},{"length":{"cm":"97","inch":"38.19"},"size":"L","vid":361385},{"length":{"cm":"102","inch":"40.16"},"size":"XL","vid":100014065},{"length":{"cm":"108","inch":"42.52"},"size":"XXL","vid":4182},{"length":{"cm":"110","inch":"43.31"},"size":"XXXL","vid":4183},{"length":{"cm":"120","inch":"47.24"},"size":"4XL","vid":200000990},{"length":{"cm":"128","inch":"50.39"},"size":"5XL","vid":200000991},{"length":{"cm":"132","inch":"51.97"},"size":"6XL","vid":200005259}]}
-  Updated: 2026-10-11T07:06:16Z
+  Updated: 2026-10-13T16:39:57Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1459,7 +1459,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S985371a94e374f56b352bf7a542f3863n.webp?v=1791116613
     Price: $155.05 USD
 - [8XL Men Oversize Korean Fashion Loose American Love Puppet Rabbit Print Short Sleeve Round Neck Versatile Trend Couple outfit](https://shopnovu.com/products/8xl-men-oversize-korean-fashion-loose-american-love-puppet-rabbit-print-short-sleeve-round-neck-versatile-trend-couple-outfit): SPECIFICATIONSApplicable Scene: BeachApplicable Season: Spring And SummerBrand Name: NONECN: GuangdongChoice: yesClosure Type: Pull OnCollar: O-NeckCraft of Weaving: TattingGender: MenHigh-concerned chemical: noneHooded: NoItem Type: topsMaterial: COTTON,POLYESTEROrigin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Product Care Instructions: Machine WashSleeve Length(cm): Short (4 - 16 Inch)Special Features: BreathableStyle: CasualTops Type: TEESsize_info: {"sizeInfoList":[{"length":{"cm":"98","inch":"38.58"},"size":"M","vid":-2},{"length":{"cm":"102","inch":"40.16"},"size":"L","vid":-3},{"length":{"cm":"106","inch":"41.73"},"size":"XL","vid":-4},{"length":{"cm":"110","inch":"43.31"},"size":"2XL","vid":-5},{"length":{"cm":"114","inch":"44.88"},"size":"3XL","vid":-6},{"length":{"cm":"118","inch":"46.46"},"size":"4XL","vid":-7},{"length":{"cm":"122","inch":"48.03"},"size":"5XL","vid":-8},{"length":{"cm":"126","inch":"49.61"},"size":"6XL","vid":-9},{"length":{"cm":"130","inch":"51.18"},"size":"7XL","vid":-10},{"length":{"cm":"134","inch":"52.76"},"size":"8XL","vid":-21}]}Reading it before you make an order:customers all are our friends.Everything won't be perfect,So are our products.We are seeking a balance between the quality and price.Please understand that it is not easy to do busineess now.If you have any problem,Please chat with us,we will help you sincerely!We promise to accept all of your request?because It is the most important for us to win your 5-star comments.Don't give a bad comments directly,it really hurt the seller's heart and we also won't agree you about anything.You only get a bad service if you give us a bad comments,And I must be sad.Chat with me,it is the best way to solve anything.Specification:Style: Hip-hop,fashionBrand:Original DesignCondition:This product is available from stock.Material:90% Cotton,10% PolyesterColor: As the pictureStyle: Fashion, CasualSize: M-8XLNote:1. The measurement error is within 2 - 4cm.2. Please check the above detailed dimensions before ordering the correct size,please contact us if you have any size questions.Don't give bad rating directly.If you have any problem,Please chat with us,we will help you when we see your messege.
-  Updated: 2026-10-11T07:05:26Z
+  Updated: 2026-10-13T16:39:56Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1545,7 +1545,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S1ecbf1549ba343049185c04725dd198dM.webp?v=1791116611
     Price: $156.11 USD
 - [Casual Mens Tracksuit Set](https://shopnovu.com/products/mens-sports-suits-fashion-tracksuit-women-hoodies-pants-two-pieces-sets-running-casual-sweatshirts-sweatpants-mens-clothing): Stay warm during quick daily errands with our casual mens tracksuit set. Enjoy cozy comfort and effortless style. Shop the essential two-piece outfit today.
-  Updated: 2026-10-11T05:10:00Z
+  Updated: 2026-10-13T16:39:56Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1701,7 +1701,7 @@
     Availability: Available
     Price: $166.81 USD
 - [Autumn Women's 2026 New Knitted Striped Sweater Polo Neck Pullover Autumn Fashion Loose Elegant Warm Young Women Sweater Street](https://shopnovu.com/products/autumn-womens-2026-new-knitted-striped-sweater-polo-neck-pullover-autumn-fashion-loose-elegant-warm-young-women-sweater-street): SPECIFICATIONSAge: 25-34Brand Name: SFSHB&ZACN: JiangsuChoice: yesClosure Type: PulloverClothing Length: regularCollar: Polo CollarCraft of Weaving: KnitDecoration: NONEElasticity: Slight StrechFabric Weight: Medium (Fabric Weight 120–220 g/m²)Fit Type: LooseGender: WomenHigh-concerned chemical: noneMaterial: POLYESTERMaterial Composition: 100%Occasion: Music FestivalOrigin: Mainland ChinaPattern Type: StripedPlace Of Origin: China (mainland)Release Date: Autumn 2026Season: Spring & AutumnSleeve Length(cm): FullSleeve Style: regularStyle: CasualThickness: StandardYarn Thickness: Regular yarnsize_info: {"sizeInfoList":[{"length":{"cm":"120","inch":"47.24"},"size":"S","vid":100014064},{"length":{"cm":"122","inch":"48.03"},"size":"M","vid":361386},{"length":{"cm":"124","inch":"48.82"},"size":"L","vid":361385}]}whether full opening: No
-  Updated: 2026-10-11T05:10:01Z
+  Updated: 2026-10-13T16:39:55Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1803,7 +1803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/Sce0fef80db574b128bdcf6ff35d2265fX.webp?v=1791116612
     Price: $178.33 USD
 - [Classic Y2K Gothic Style T-shirt Print Oversized T Shirt High Street Shirts Gothic Round Neck Cotton Tops New Mens Women T Shirt](https://shopnovu.com/products/classic-y2k-gothic-style-t-shirt-print-oversized-t-shirt-high-street-shirts-gothic-round-neck-cotton-tops-new-mens-women-t-shirt): SPECIFICATIONSApplicable Scene: ShoppingApplicable Season: Four SeasonsBrand Name: NONECN: ZhejiangCraft of Weaving: Non-WovenGender: MenHigh-concerned chemical: noneItem Type: topsMaterial: COTTONOrigin: Mainland ChinaProduct Care Instructions: Machine WashSleeve Length(cm): HalfSpecial Features: Breathable,Moisture Wicking,SoftStyle: basicsTops Type: TEESMachine WashableConvenience meets durability with machine washable fabric, ensuring easy care and longevity.Y2K Gothic StyleEmbrace the retro-futuristic vibe with this Y2K Gothic T-shirt, perfect for high street fashion statements.Oversized FitEnjoy comfort and style with the oversized cut, offering a relaxed fit that's both trendy and practical.Versatile Seasonal WearDesigned for all seasons, this T-shirt transitions seamlessly from spring to winter, making it a versatile addition to your collection.High Street DesignThis Gothic round neck cotton top is a staple for any high street wardrobe, blending classic and modern elements.
-  Updated: 2026-10-11T08:07:13Z
+  Updated: 2026-10-13T16:39:55Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -1881,7 +1881,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S1f01b3d38b484f40a314fa2f24adae8cn.webp?v=1791116613
     Price: $39.99 USD
 - [Candy Color Hoodie Loose 14 Solid Color Spring Autumn Winter Men Women Plush And Thick Versatile Top Sweatshirts Couple Pullover](https://shopnovu.com/products/candy-color-hoodie-loose-14-solid-color-spring-autumn-winter-men-women-plush-and-thick-versatile-top-sweatshirts-couple-pullover): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Autumn And WinterBrand Name: teekosscCN: ZhejiangChoice: yesClosure Type: NoneClothing Length: regularCollar: O-NeckCraft of Weaving: KnitDetachable Part: NONEGender: MenHigh-concerned chemical: noneHooded: NoItem Type: SWEATSHIRTSMaterial: POLYESTERModel Number: SweatshirtsOrigin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Sleeve Length(cm): FullSleeve Style: regularStyle: High StreetThickness: FleeceType: regularsize_info: {"sizeInfoList":[{"length":{"cm":"51","inch":"20.08"},"size":"S","vid":-30},{"length":{"cm":"53","inch":"20.87"},"size":"M","vid":-31},{"length":{"cm":"55","inch":"21.65"},"size":"L","vid":-32},{"length":{"cm":"57","inch":"22.44"},"size":"XL","vid":-33},{"length":{"cm":"59","inch":"23.23"},"size":"XXL","vid":-34}]}whether full opening: No -Size: S M L XL XXL -Fits Most Occasion, Like Daily Wear, Shopping, Leisure, Going Out, Work, Vacation, Travel... If You Like Loose,We Recommend That Choose 1 Size Larger -{Depending on manual measurement, there are 2-3 differences. Please note that the slight color difference should be acceptable due to the light and screen.} -Features: 1.It is made of high quality materials,durable enought for your daily wearing 2.Stylish and fashion design make you more attractive 3.Great for party,Daily,Beach,I am sure you will like it!
-  Updated: 2026-10-11T05:10:01Z
+  Updated: 2026-10-13T16:39:55Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -2067,7 +2067,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S1d21b370c3ba463588dbaf7e3b01abf3X.webp?v=1791116614
     Price: $27.99 USD
 - [*Spring Autumn Hot  Elegant Casual Sports Shoes for Women's Fashion New Round Toe Comfortable Thick Soled Flat Work Shoes](https://shopnovu.com/products/spring-autumn-hot--elegant-casual-sports-shoes-for-womens-fashion-new-round-toe-comfortable-thick-soled-flat-work-shoes): SPECIFICATIONSBrand Name: BCEBYLChoice: yesClosure Type: Lace-UpDepartment Name: AdultFashion Element: ShallowFit: True to SizeGender: WomenHeel Height: Low (1CM - 3CM)High-concerned chemical: noneInsole Material: latexLining Material: MeshOrigin: Mainland ChinaOutsole Material: RubberPattern Type: GeometricSeason: Spring/AutumnShoes Type: OtherUpper Material: PUUpper coverage: Not above ankleUpper fixing method: stickingWhether waterproof: YesWhether with metal toe cap: NoWith or install Professional accessories : nonesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"36","BR":"34.5","JP":"23","UK":"3.5","KR":"235","MX":"23.5","US":"6"},"length":{"cm":"23","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338}]}
-  Updated: 2026-10-11T05:10:01Z
+  Updated: 2026-10-13T16:39:54Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -2129,7 +2129,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/S17c08e3520a24a3b9e046292476a4ef42.webp?v=1791116613
     Price: $164.20 USD
 - [Comfortable casual women's shoes spring and summer breathable fabric uppers solid colors low-cut design soft and outdoor walking](https://shopnovu.com/products/comfortable-casual-womens-shoes-spring-and-summer-breathable-fabric-uppers-solid-colors-low-cut-design-soft-and-outdoor-walking): SPECIFICATIONSBrand Name: YAO JADEChoice: yesDepartment Name: AdultGender: WomenHeel Height: Flat (≤1cm)High-concerned chemical: noneOrigin: Mainland ChinaOutsole Material: RubberShoes Type: OtherUpper Material: Air MeshUpper coverage: Not above ankleUpper fixing method: stitchingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : nonesize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3","KR":"230","MX":"23","US":"5.5"},"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36","BR":"34.5","JP":"23","UK":"3.5","KR":"235","MX":"23.5","US":"6"},"length":{"cm":"23","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4","KR":"240","MX":"24","US":"6.5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"245","MX":"24.5","US":"7"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"6.5","KR":"260","MX":"26","US":"9"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"40.5","BR":"38.5","JP":"26","UK":"7","KR":"265","MX":"26.5","US":"9.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"40","JP":"26.5","UK":"7.5","KR":"270","MX":"27","US":"10"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338}]}
-  Updated: 2026-10-11T07:00:02Z
+  Updated: 2026-10-13T16:39:54Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -2335,7 +2335,7 @@
     Image: https://cdn.shopify.com/s/files/1/1014/3989/7878/files/Sa2c74a989d2c429db013e0ed00b258b05.webp?v=1791116615
     Price: $157.19 USD
 - [MILANO Pants Sets for Women Clothing High quality Sweatshirt Sweatpant Hoodie Suit 2 Piece Autumn Winter Outfits Woman Tracksuit](https://shopnovu.com/products/milano-pants-sets-for-women-clothing-high-quality-sweatshirt-sweatpant-hoodie-suit-2-piece-autumn-winter-outfits-woman-tracksuit): SPECIFICATIONSAge: Middle AgeBrand Name: CINESSDCN: ZhejiangClosure Type: NoneCollar: HoodedCraft of Weaving: Non-WovenDecoration: Pockets,HoodedElasticity: Medium StrecthFabric Type: FleeceFabric content: 96% and aboveFit Type: regularGender: WomenHigh-concerned chemical: noneMaterial: POLYESTERMaterial Composition: synthetic fiberNumber of Pieces: 2 piece setOccasion: SportsOrigin: Mainland ChinaPant Closure Type: DrawstringPant Style: regularPattern Type: PrintSeason: Autumn/WinterStyle: Casualsize_info: {"sizeInfoList":[{"length":{"cm":"106","inch":"41.73"},"size":"S","vid":100014064},{"length":{"cm":"110","inch":"43.31"},"size":"M","vid":361386},{"length":{"cm":"114","inch":"44.88"},"size":"L","vid":361385},{"length":{"cm":"118","inch":"46.46"},"size":"XL","vid":100014065},{"length":{"cm":"122","inch":"48.03"},"size":"XXL","vid":4182},{"length":{"cm":"126","inch":"49.61"},"size":"XXXL","vid":4183}]}whether full opening: No modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor modname=ckeditor
-  Updated: 2026-10-11T05:10:02Z
+  Updated: 2026-10-13T16:39:54Z
   Vendor: Novu Shop
   Product Type: 
   Availability: Available
@@ -2581,8 +2581,8 @@
   Updated: 2026-10-11T07:00:23Z
   Total Products: 7
 - [Sports & Outdoors](https://shopnovu.com/collections/sports-and-outdoors)
-  Updated: 2026-10-11T05:09:59Z
-  Total Products: 12
+  Updated: 2026-10-11T20:34:22Z
+  Total Products: 10
 - [Pet Supplies](https://shopnovu.com/collections/pet-supplies)
   Updated: 2026-10-11T06:31:49Z
   Total Products: 9
@@ -2590,8 +2590,8 @@
   Updated: 2026-10-11T05:09:59Z
   Total Products: 15
 - [Featured Products](https://shopnovu.com/collections/featured-products)
-  Updated: 2026-10-11T08:07:14Z
-  Total Products: 156
+  Updated: 2026-10-13T07:01:14Z
+  Total Products: 294
 
 ## Store Pages
 
