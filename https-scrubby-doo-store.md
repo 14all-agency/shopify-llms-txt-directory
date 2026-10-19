@@ -6,26 +6,26 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-09-02T11:19:31Z
 - Contact Email: johan.vestereng@gmail.com
-- Updated At: 2026-10-11T00:00:37.238Z
+- Updated At: 2026-10-19T00:00:38.453Z
 
 ## Products
 
 - [Electric Cleaning Brush for Dishes | Scrubby-doo](https://scrubby-doo.store/products/electric-dish-sponge): Meet the compact, cordless electric spin scrubber for dishes, pans and kitchen sinks. USB rechargeable with interchangeable brush, sponge and scrub-pad heads.
-  Updated: 2026-10-05T00:45:57Z
+  Updated: 2026-10-17T21:57:24Z
   Vendor: Loadout
   Product Type: Electric Cleaning Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1031/0182/5353/files/bloom-generated-1788978665891.png?v=1788949898
   Price: kr 179.00 DKK
 - [Electric Spin Scrubber for Bathroom Cleaning | Scrubby-doo](https://scrubby-doo.store/products/whole-home-electric-power-scrubber): Clean bathroom tiles, grout, showers and tubs with a cordless electric power scrubber. Extended handle, interchangeable cleaning heads and USB-C charging.
-  Updated: 2026-10-05T00:45:58Z
+  Updated: 2026-10-17T21:57:24Z
   Vendor: Scrubby-doo
   Product Type: Electric Cleaning Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1031/0182/5353/files/bloom-generated-1789687210126.png?v=1789658504
   Price: kr 329.00 DKK
 - [Toilet Brush with Replaceable Heads | Scrubby-doo](https://scrubby-doo.store/products/disposable-toilet-brush-replaceable-wall-mounted-long-handle-toilet-brush-cleaning-tools-wc-bathroom-accessories): Keep toilet cleaning simple with a long-handle manual toilet brush and replaceable heads. Choose the white brush or 6, 12 and 24-head refill packs.
-  Updated: 2026-10-09T13:34:18Z
+  Updated: 2026-10-17T21:57:24Z
   Vendor: Scrubby-doo
   Product Type: 
   Availability: Available
@@ -50,7 +50,7 @@
 ## Collections
 
 - [Big power scrubber for thee hole house](https://scrubby-doo.store/collections/big-power-scrubber-for-thee-hole-house)
-  Updated: 2026-09-30T12:28:19Z
+  Updated: 2026-10-17T21:57:24Z
   Total Products: 2
 
 ## Blogs
@@ -82,6 +82,15 @@
     Author: Solène
   - [The Rise of Electric Dishwash Scrubbers: Exploring Their Viral Popularity](https://scrubby-doo.store/blogs/news/the-rise-of-electric-dishwash-scrubbers-exploring-their-viral-popularity): The Rise of Electric Dishwash Scrubbers: Exploring Their Viral Popularity
     Updated: 2026-10-09T01:26:44Z
+    Author: Solène
+  - [Understanding the Viral Phenomenon of Electric Dishwash Scrubbers](https://scrubby-doo.store/blogs/news/understanding-the-viral-phenomenon-of-electric-dishwash-scrubbers): Understanding the Viral Phenomenon of Electric Dishwash Scrubbers
+    Updated: 2026-10-12T02:05:48Z
+    Author: Solène
+  - [Quick and Efficient Cleaning: How Electric Dishwash Scrubbers Became Viral](https://scrubby-doo.store/blogs/news/quick-and-efficient-cleaning-how-electric-dishwash-scrubbers-became-viral): Quick and Efficient Cleaning: How Electric Dishwash Scrubbers Became Viral
+    Updated: 2026-10-14T05:11:32Z
+    Author: Solène
+  - [The Benefits and Challenges of Using a Viral Electric Dishwash Scrubber](https://scrubby-doo.store/blogs/news/the-benefits-and-challenges-of-using-a-viral-electric-dishwash-scrubber): The Benefits and Challenges of Using a Viral Electric Dishwash Scrubber
+    Updated: 2026-10-16T00:13:20Z
     Author: Solène
 
 ## Store Pages
