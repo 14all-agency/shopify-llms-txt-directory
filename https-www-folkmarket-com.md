@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-04-23T07:14:05Z
 - Contact Email: info@folkmarket.com
-- Updated At: 2026-10-11T00:00:41.982Z
+- Updated At: 2026-10-20T00:00:43.265Z
 
 ## Products
 
@@ -601,7 +601,7 @@
     Availability: Available
     Price: $8.62 USD
 - [Buy Bohemian Bags Online| Vintage Straw Festival Bag For Womens](https://www.folkmarket.com/products/vintage-summer-straw-beach-bag-for-women): Grab Retro Straw Woven Bohemian Bag. Adopt Gypsy style on your beach day with eco-friendly fashion. Decorate your summer wardrobe with our 2024 new design rattan shoulder bag.
-  Updated: 2026-10-07T23:59:07Z
+  Updated: 2026-10-12T13:20:44Z
   Vendor: Ali Baba
   Product Type: bags
   Availability: Available
@@ -620,7 +620,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/2535/4314/files/Handicraft5.jpg?v=1735486473
   Price: $35.00 USD
 - [Handmade Sindhi Mirror Work Wallet Women | Tribal Embroidered Purse](https://www.folkmarket.com/products/handmade-wallets-handcrafted-traditional-embroidered-wallet): Traditional Sindhi handmade wallet from Pakistan with vibrant mirror work embroidery and pom pom zipper. 7.5" × 4". Boho artisan purse for women.
-  Updated: 2026-10-07T23:59:09Z
+  Updated: 2026-10-12T13:20:43Z
   Vendor: Folkmarket
   Product Type: Handbags
   Availability: Available
@@ -668,7 +668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0288/2535/4314/files/838538848364.jpg?v=1735069892
     Price: $25.00 USD
 - [New Original Design Vintage Handmade Leather Bag For Women](https://www.folkmarket.com/products/new-original-design-vintage-handmade-leather-bag-for-women): Product information: Style: Retro style Material: leather Cortical features: the first layer of cowhide Fashionable style: small square bag Bag size: Medium Popular element: car stitching Size：23x16x10cm Packing list: Lady handbags*1
-  Updated: 2026-10-07T23:59:11Z
+  Updated: 2026-10-12T13:20:43Z
   Vendor: Folkmarket
   Product Type: bags
   Availability: Available
@@ -1208,7 +1208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0288/2535/4314/files/Afghani_Ring.png?v=1756656670
   Price: $75.00 USD
 - [Raw Gemstones For Healing Collection - Raw Tsavorite, Kunzite, Aquamarine,](https://www.folkmarket.com/products/raw-tsavorite-kunzite-aquamarine-healing-collection): This is  of Natural Raw Crystals for Crafts. The crystals included in this package are Aquamarine, aquamarine crystals, tsavorite garnets, kunzite
-  Updated: 2026-10-07T23:59:07Z
+  Updated: 2026-10-17T16:05:41Z
   Vendor: Folkmarket.com
   Product Type: Raw Crystals
   Availability: Available
@@ -1580,25 +1580,25 @@
   Updated: 2026-07-09T16:48:31Z
   Total Products: 0
 - [New Arrivals Crafts](https://www.folkmarket.com/collections/new-arrivals): Latest Crystals Deals, vintage jewelry, handicrafts,
-  Updated: 2026-10-10T21:07:58Z
-  Total Products: 185
+  Updated: 2026-10-18T11:13:25Z
+  Total Products: 188
 - [All Type Jewelry](https://www.folkmarket.com/collections/unique-handmade-jewelry): Shop raw crystal pendants, Afghan Kuchi jewelry, Rose Quartz, Amethyst & gemstone necklaces. Artisan-crafted, wholesale-friendly. Free global shipping available.
   Updated: 2026-10-08T08:37:18Z
   Total Products: 180
 - [Sales Deals on Crystal and Crafts](https://www.folkmarket.com/collections/sales-deals-with-folkmarket): Shop authentic crystals, vintage jewelry, artisan crafts, home decor & more on . Premium quality at special prices. Limited stock available.
-  Updated: 2026-10-10T21:07:58Z
-  Total Products: 101
+  Updated: 2026-10-18T15:47:28Z
+  Total Products: 95
 - [Beads Crystals](https://www.folkmarket.com/collections/crystal-beads): Buy natural crystal beads for jewelry making at Folkmarket. Lapis lazuli strands in 4mm–12mm sizes. Wholesale deals available. Shop now.
   Updated: 2026-07-09T20:07:46Z
   Total Products: 1
 - [Under $500](https://www.folkmarket.com/collections/under-500)
-  Updated: 2026-10-10T21:07:58Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 405
 - [Under $300USD](https://www.folkmarket.com/collections/deals-under-300-usd)
-  Updated: 2026-10-10T21:07:58Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 363
 - [Deals $100 USD Crystals | Jewelry | Crafts](https://www.folkmarket.com/collections/folkmarket-craft-sales-under-100-usd): Discover crystals, vintage jewelry, handicrafts, packaging supplies, handbags & home decor under $100. Premium artisan products at affordable prices.
-  Updated: 2026-10-10T21:07:58Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 195
 - [Turquoise Crystals](https://www.folkmarket.com/collections/turquoise-crystals): Shop natural turquoise crystals, loose stones & jewelry at Folkmarket. Ethically sourced, bohemian-luxury pieces for collectors & healers.
   Updated: 2026-08-24T20:10:44Z
@@ -1607,7 +1607,7 @@
   Updated: 2026-10-07T11:37:55Z
   Total Products: 127
 - [Start Up Crafts Materials](https://www.folkmarket.com/collections/deals-for-beginners): Start Up Material for New Businesses
-  Updated: 2026-10-10T21:07:58Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 369
 - [Afghan Vintage Rings](https://www.folkmarket.com/collections/afghan-kuchi-tribal-rings): Shop Afghan Kuchi vintage rings in single pieces & wholesale sets. Handmade in Peshawar with turquoise, coral & lapis lazuli. Buy now at Folkmarket.
   Updated: 2026-07-09T23:44:08Z
@@ -1688,10 +1688,10 @@
   Updated: 2026-08-06T21:47:23Z
   Total Products: 2
 - [All Printing / Packaging](https://www.folkmarket.com/collections/printing-packaging-): Wholesale printing, packaging &  solutions at Folkmarket. Custom boxes, printed stationery, corporate gift sets, tech items & print-on-demand services.
-  Updated: 2026-10-04T17:46:22Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 27
 - [Packaging](https://www.folkmarket.com/collections/packaging-supplies): Shop wholesale packaging & shipping supplies with custom design options. Premium quality boxes, mailers, and protective materials at competitive prices for your business.
-  Updated: 2026-07-23T11:52:56Z
+  Updated: 2026-10-18T11:13:25Z
   Total Products: 5
 - [Promotions and Branding](https://www.folkmarket.com/collections/-items): Custom corporate  items with logo branding. Wholesale ordering available for pens, notebooks, t-shirts, caps, and tote bags. Custom design and material options for your business.
   Updated: 2026-10-04T17:46:22Z
@@ -1703,11 +1703,11 @@
   Updated: 2026-10-04T18:46:26Z
   Total Products: 8
 - [Vintage-Style Accessories](https://www.folkmarket.com/collections/vintage-style-accessories): Shop 85 handcrafted vintage accessories at Folkmarket — exotic leather wallets, Italian bags, Afghan tribal jewelry & boho bags. Wholesale deals available.
-  Updated: 2026-10-07T20:49:05Z
+  Updated: 2026-10-12T11:23:12Z
   Total Products: 108
 - [Handmade Leather Handbags & Wallets](https://www.folkmarket.com/collections/handmade-leather-bags): Shop handmade leather bags, Italian suede handbags, boho bags, totes &amp; purses at Folkmarket. Artisan-crafted, ethically sourced, shipped worldwide.
-  Updated: 2026-09-23T10:50:28Z
-  Total Products: 32
+  Updated: 2026-10-12T18:05:25Z
+  Total Products: 33
 - [Jasper](https://www.folkmarket.com/collections/jasper-stones): Shop natural Jasper crystals, sterling silver pendants & wholesale gemstone sets. Ethically sourced, artisan-crafted. Order now at Folkmarket.
   Updated: 2026-07-09T23:44:34Z
   Total Products: 3
@@ -1718,13 +1718,13 @@
   Updated: 2026-08-05T16:27:28Z
   Total Products: 19
 - [Handmade Handicrafts](https://www.folkmarket.com/collections/handicrafts): Shop handmade handicrafts at Folkmarket – exotic leather wallets, Afghan tribal patches, artisan bags & home decor. Free personalization options available.
-  Updated: 2026-09-09T13:40:36Z
-  Total Products: 35
+  Updated: 2026-10-12T13:21:10Z
+  Total Products: 38
 - [Boho, Embroidered & Tribal Artisan Purses](https://www.folkmarket.com/collections/boho-embroidered-tribal-handbags): Discover our unique collection of boho, embroidered, and tribal handbags. Featuring Kuchi, Afghan, Sindhi mirror-work, and gypsy-style artisan creations. Shop the aesthetic now.
   Updated: 2026-09-24T12:24:05Z
   Total Products: 24
 - [Handmade Tote Bags](https://www.folkmarket.com/collections/handmade-tote-bags): Handmade tote bags are built for daily use — hand-stitched from canvas, cotton, or full-grain and vegetable-tanned leather, with reinforced handles designed to carry real weight. This collection ranges from reusable cotton book totes to hand-tooled Mexican leather totes and Italian suede shoulder totes, so there's a style for grocery runs as much as for everyday carry. Look for details like adjustable straps, waterproof canvas, and vegan-friendly options alongside genuine leather pieces, each one handcrafted rather than mass-manufactured. Whether you want a lightweight canvas tote for the beach or a hand-tooled leather tote that ages beautifully, this collection is built to last well beyond a single season. Prefer something more compact? See our boho and tribal artisan purses for crossbody and clutch styles, our handmade leather bags collection, or pair a tote with a handmade wallet or card holder.
-  Updated: 2026-10-04T15:42:21Z
+  Updated: 2026-10-12T13:27:48Z
   Total Products: 19
 - [Handmade Wallets, Pouches, Card Holders](https://www.folkmarket.com/collections/handmade-wallets): Handmade wallets and card holders are cut, stitched, and finished by hand rather than machine-assembled, which is why grain, texture, and stitching vary slightly from piece to piece. This collection spans exotic leathers — alligator, ostrich, and crocodile — alongside traditional Sindhi and Kashmiri mirror-work pouches, giving a range from everyday minimalist card holders to luxury exotic-leather bifolds. Many styles can be personalized, and the exotic leather pieces are individually hand-finished, making them well suited as gifts for anniversaries, graduations, or the holidays. Whether you're after a slim everyday card holder or a statement handcrafted wallet, each piece is built to be used and to age well with wear. Shopping for a matching bag? Explore our boho and tribal artisan purses for embroidered and mirror-work styles, or see our handmade leather bags and handmade tote bags for a complete set.
   Updated: 2026-10-04T16:24:43Z
