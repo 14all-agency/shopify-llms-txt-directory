@@ -6,7 +6,7 @@
 - Timezone: America/Santiago
 - Created At: 2026-07-26T19:03:57Z
 - Contact Email: admin@kelvora.cl
-- Updated At: 2026-10-11T00:00:37.066Z
+- Updated At: 2026-10-20T00:00:37.574Z
 
 Kelvora es una tienda chilena de bienestar pensada para personas que trabajan sentadas todo el día. Vendemos correctores de postura, almohadas cervicales, masajeadores y accesorios de oficina, productos simples y honestos para un problema cotidiano, el cansancio de pasar muchas horas frente a un computador. No somos médicos ni prometemos soluciones milagrosas; ofrecemos apoyos reales, sin tecnicismos ni exageraciones. Antes de sumar cualquier producto a nuestro catálogo nos preguntamos siempre: ¿esto realmente ayuda a alguien que pasa el día sentado? Si la respuesta no es un sí claro, no entra a la tienda.
 
@@ -34,7 +34,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/kelvora-masajeador-cervical-shiatsu-cordon.png?v=1788882548
   Price: 19.990,00 $ CLP
 - [Kelvora Almohada Cervical Mariposa, Pack de 2](https://kelvora.cl/products/pack-2-almohada-ancha): Para cuando el cuerpo ya no aguanta cómo dormías antes El dolor cervical rara vez llega de un día para otro. Se instala de a poco una mala noche, después otra, hasta que despertarte con el cuello rígido se vuelve parte de la rutina, como si no hubiera nada que hacer al respecto. Esta almohada nace de una pregunta simple ¿por qué las almohadas siguen siendo planas y rectangulares, si nuestro cuello no lo es? Su forma de mariposa con una cavidad central y alas laterales elevadas está pensada para acompañar la curva natural del cuello, sin importar si te duermes boca arriba, de lado o boca abajo. CARACTERÍSTICAS GENERALES Núcleo de espuma viscoelástica (memory foam) de alta densidad, certificada CertiPUR-US y GREENGUARD Gold sin químicos nocivos, con recuperación lenta que se amolda a tu cuerpo sin perder soporte con el uso. Funda exterior con tela Q-Max 0.4 Arc-Chill y panel de malla espaciadora 3D, removible y lavable a máquina gracias a su cierre. Altura ajustable retirando o agregando el inserto interno de espuma. Dimensiones Largo: 58 a 60 cm Ancho: 38 a 40 cm Altura: 11 a 13 cm (dual, según el lado que uses) Peso por unidad: 1,0 a 1,1 kg pack completo: 2,0 a 2,2 kg Se adapta a tu cuello, no al revésLa curva ergonómica sigue la forma natural del cuello y los hombros, ayudando a reducir la presión y la tensión muscular que se acumula durante la noche. Sirve sin importar cómo duermasLa altura es ajustable quitando o agregando el inserto de espuma así encuentras el nivel justo, ya sea que duermas de lado, boca arriba o boca abajo. Fresca durante toda la nocheLa funda con tela Q-Max 0.4 Arc-Chill absorbe el calor corporal, y la malla espaciadora 3D deja circular el aire para que no despiertes acalorado. Espuma viscoelástica certificadaMemory foam de alta densidad, sin químicos nocivos certificada CertiPUR-US y GREENGUARD Gold, dos de los estándares más exigentes en seguridad de espumas. Compra sin apuroSi al probarla sientes que no es para ti, tienes garantía de satisfacción para solicitar reembolso completo o reemplazo. ¿Qué tamaño tiene cada almohada?Cada unidad mide entre 58 y 60 cm de largo, 38 a 40 cm de ancho, con una altura que va de 11 a 13 cm según el lado que uses. ¿De qué material está hecha?El núcleo es 100% espuma viscoelástica (memory foam) de alta densidad. La funda exterior es de algodón/poliéster hipoalergénico con panel central de malla transpirable, y es removible para lavar. ¿Sirve si duermo de lado y no boca arriba?Sí. El diseño mariposa tiene zonas específicas para ambas posiciones las alas laterales sostienen el hombro si duermes de lado, y la cavidad central acompaña la cabeza si duermes boca arriba. ¿Cómo la lavo?La funda es removible y lavable a máquina gracias a su cierre. El núcleo de espuma no se lava solo se airea o se limpia superficialmente si es necesario.
-  Updated: 2026-09-09T18:11:03Z
+  Updated: 2026-10-19T11:46:26Z
   Vendor: Kelvora
   Product Type: Otro
   Availability: Available
@@ -90,7 +90,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/masajeador-cuello-hombros-beige-naranja-detalle.png?v=1788882546
   Price: 26.990,00 $ CLP
 - [Cojín Cervical para Apoyacabezas de Auto | Kelvora](https://kelvora.cl/products/cojin-apoyo-cabeza-eco-cuero-tejido): Soporte para el cuello en trayectos largos, con terminación tipo tuning deportivo. Envío a todo Chile en 1-2 días. Pide el tuyo.
-  Updated: 2026-09-30T11:54:00Z
+  Updated: 2026-10-16T17:16:26Z
   Vendor: Kelvora
   Product Type: Vehículo
   Availability: Available
@@ -111,7 +111,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Image: https://cdn.shopify.com/s/files/1/0674/2176/5766/files/corrector-postura-espalda-negro-detalles.png?v=1788882547
   Price: 15.790,00 $ CLP
 - [Cojín Masajeador Eléctrico con Calor | Auto y Hogar Kelvora](https://kelvora.cl/products/bodyrelax-asiento-masajeador-electrico): Masaje de cuerpo completo con calor y vibración para espalda, cuello y cintura. Úsalo en casa, oficina o auto. Envío a todo Chile. Descúbrelo.
-  Updated: 2026-09-30T11:51:42Z
+  Updated: 2026-10-16T17:16:26Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
@@ -163,7 +163,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
     Availability: Available
     Price: 12.990,00 $ CLP
 - [Faja de Soporte Lumbar con Doble Ajuste | Kelvora](https://kelvora.cl/products/faja-cinturon-soporte-lumbar-alivia-1): Faja lumbar transpirable con doble ajuste para aliviar la tensión de la espalda baja. 3 tallas disponibles. Envío a todo Chile.
-  Updated: 2026-09-30T11:47:27Z
+  Updated: 2026-10-16T17:16:26Z
   Vendor: Kelvora
   Product Type: Bienestar
   Availability: Available
@@ -184,7 +184,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
     Availability: Available
     Price: 9990,00 $ CLP
 - [Cojín Masajeador Shiatsu con Calor , Cuello y Espalda Kelvora](https://kelvora.cl/products/cojin-masajeador): Masajeador shiatsu con nodos bidireccionales y calor infrarrojo. Úsalo en cuello, espalda, piernas o auto. Envío a todo Chile.
-  Updated: 2026-09-30T11:46:23Z
+  Updated: 2026-10-16T17:16:27Z
   Vendor: Kelvora
   Product Type: Tecnología
   Availability: Available
@@ -197,13 +197,13 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Updated: 2026-09-30T12:01:47Z
   Total Products: 8
 - [Descanso y Sueño](https://kelvora.cl/collections/descanso-y-sueno): Almohadas y cojines Kelvora para un descanso real. Soporte para piernas, cuello y espalda mientras duermes o te relajas. Comodidad pensada para ti.
-  Updated: 2026-09-30T12:06:31Z
+  Updated: 2026-10-13T11:23:47Z
   Total Products: 5
 - [Masaje y Relajación](https://kelvora.cl/collections/masaje-y-relajacion): Masajeadores Kelvora para cuello, cabeza y manos. Alivia la tensión acumulada por tu jornada frente al computador con solo unos minutos al día.
   Updated: 2026-09-30T12:00:06Z
   Total Products: 7
 - [Ver todos los productos](https://kelvora.cl/collections/productos)
-  Updated: 2026-09-30T12:06:31Z
+  Updated: 2026-10-13T11:23:47Z
   Total Products: 21
 - [Masajeadores](https://kelvora.cl/collections/masajeadores)
   Updated: 2026-09-30T12:00:06Z
@@ -212,7 +212,7 @@ Kelvora es una tienda chilena de bienestar pensada para personas que trabajan se
   Updated: 2026-09-30T11:52:30Z
   Total Products: 3
 - [Cojines y almohadas](https://kelvora.cl/collections/cojines-y-almohadas)
-  Updated: 2026-09-30T12:06:31Z
+  Updated: 2026-10-13T11:23:47Z
   Total Products: 7
 - [Calor y soporte lumbar](https://kelvora.cl/collections/calor-y-soporte-lumbar)
   Updated: 2026-09-30T11:53:13Z
