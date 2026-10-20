@@ -6,12 +6,12 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T07:35:24Z
 - Contact Email: info@ozkahome.com
-- Updated At: 2026-10-12T00:00:47.215Z
+- Updated At: 2026-10-20T00:00:49.153Z
 
 ## Products
 
 - [Clear Stackable Makeup Organizer with Drawers | Vanity & Bathroom Storage | OZKA HOME](https://www.ozkahome.com/products/clear-stackable-makeup-organizer): Organize your makeup and skincare with this clear stackable organizer featuring pull-out drawers. Space-saving, dust-resistant design perfect for vanity, bathroom, and desk.
-  Updated: 2026-10-05T06:31:41Z
+  Updated: 2026-10-19T18:43:21Z
   Vendor: OZKA HOME
   Product Type: Makeup Organizer
   Availability: Available
@@ -19,21 +19,21 @@
   - [XL](https://www.ozkahome.com/products/clear-stackable-makeup-organizer?variant=48620834586807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/clear-stackable-makeup-organizer-with-drawers-for-vanity-desk-2378045.webp?v=1783540230
-    Price: $26.83 USD
+    Price: $27.38 USD
   - [L](https://www.ozkahome.com/products/clear-stackable-makeup-organizer?variant=48620834619575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/clear-stackable-makeup-organizer-with-drawers-for-vanity-desk-4653294.webp?v=1783540227
-    Price: $22.48 USD
+    Price: $22.98 USD
   - [M](https://www.ozkahome.com/products/clear-stackable-makeup-organizer?variant=48620834652343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/clear-stackable-makeup-organizer-with-drawers-for-vanity-desk-2034672.webp?v=1783540227
-    Price: $16.87 USD
+    Price: $17.18 USD
   - [S](https://www.ozkahome.com/products/clear-stackable-makeup-organizer?variant=48620834685111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/clear-stackable-makeup-organizer-with-drawers-for-vanity-desk-6297235.webp?v=1783540227
-    Price: $12.94 USD
+    Price: $13.18 USD
 - [Portable USB Blender with Dual Cups | OZKA HOME](https://www.ozkahome.com/products/portable-usb-blender-dual-cups): Make fresh smoothies on the go with this dual-cup USB blender. Detachable design, easy to clean & perfect for travel. Shop OZKA HOME.
-  Updated: 2026-10-05T06:31:39Z
+  Updated: 2026-10-19T18:07:47Z
   Vendor: OZKA HOME
   Product Type: Portable Blenders
   Availability: Available
@@ -41,13 +41,13 @@
   - [Blue / United States / US](https://www.ozkahome.com/products/portable-usb-blender-dual-cups?variant=48621275775159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/portable-usb-blender-with-dual-cups-2928552.webp?v=1783540227
-    Price: $48.29 USD
+    Price: $57.95 USD
   - [Pink / United States / US](https://www.ozkahome.com/products/portable-usb-blender-dual-cups?variant=48621275807927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/portable-usb-blender-with-dual-cups-3743174.webp?v=1783540227
-    Price: $46.82 USD
+    Price: $56.18 USD
 - [15m Heat Resistant Wiring Harness Tape for Cars](https://www.ozkahome.com/products/15m-heat-resistant-wiring-harness-tape): Protect automotive wiring with 15m heat-resistant cloth tape. Ideal for cable harness wrapping, insulation, and wire loom protection.
-  Updated: 2026-10-05T06:31:40Z
+  Updated: 2026-10-19T18:01:25Z
   Vendor: OZKA HOME
   Product Type: Automotive Wiring Harness Tape
   Availability: Available
@@ -55,38 +55,24 @@
   - [United States / black / 25mm|15m](https://www.ozkahome.com/products/15m-heat-resistant-wiring-harness-tape?variant=48623384625335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/15m-heat-resistant-wiring-harness-tape-4932108.webp?v=1781812030
-    Price: $34.50 USD
+    Price: $41.40 USD
   - [United States / black / 9mm|15m](https://www.ozkahome.com/products/15m-heat-resistant-wiring-harness-tape?variant=48623384658103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/15m-heat-resistant-wiring-harness-tape-4932108.webp?v=1781812030
-    Price: $34.50 USD
+    Price: $41.40 USD
   - [United States / black / 15mm|15m](https://www.ozkahome.com/products/15m-heat-resistant-wiring-harness-tape?variant=48623384690871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/15m-heat-resistant-wiring-harness-tape-4932108.webp?v=1781812030
-    Price: $34.50 USD
+    Price: $41.40 USD
 - [SEAMETAL Dual Head Car Fan with 360° Rotation](https://www.ozkahome.com/products/seametal-dual-head-car-fan): Stay cool with the SEAMETAL dual head car fan featuring 360° rotation, 3 speed settings, and quiet brushless motors for front and rear passengers.
-  Updated: 2026-10-05T06:31:41Z
+  Updated: 2026-10-19T18:43:00Z
   Vendor: OZKA HOME
   Product Type: Car Cooling Fans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S846b25317d0847fd9c35600a80094ffee.webp?v=1782220739
-  Price: $50.60 USD
-- [Portable Rechargeable UV Toothbrush Sterilizer Case](https://www.ozkahome.com/products/portable-toothbrush-sterilizer-case): Kill 99.9% of germs with this portable UV toothbrush sterilizer case. Rechargeable, compact, and perfect for travel and daily bathroom hygiene.
-  Updated: 2026-10-05T06:31:41Z
-  Vendor: OZKA HOME
-  Product Type: Bathroom Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S757262fd6f304a7980af3ab5015d0dd2w.webp?v=1781875731
-  - [Black](https://www.ozkahome.com/products/portable-toothbrush-sterilizer-case?variant=48627696173239)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S332b2dfc77e74fdca1ddc1f15ea67ac9g.webp?v=1781875730
-    Price: $18.75 USD
-  - [White](https://www.ozkahome.com/products/portable-toothbrush-sterilizer-case?variant=48627696206007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfe6741c63cc84ad9852b7c78deaa255bD.webp?v=1781875730
-    Price: $18.62 USD
+  Price: $58.32 USD
 - [Electric Lint Remover | Portable Clothes and Pet Hair Tool](https://www.ozkahome.com/products/electric-lint-remover): Electric Lint Remover with a 10,000 RPM motor removes lint, fuzz, fabric pills, and pet hair. Its compact design is made for clothes, blankets, upholstery, and furniture.
-  Updated: 2026-10-08T09:55:50Z
+  Updated: 2026-10-19T18:01:21Z
   Vendor: OZKA HOME
   Product Type: Laundry Accessories
   Availability: Available
@@ -94,28 +80,28 @@
   - [United States / Green Headx2](https://www.ozkahome.com/products/electric-lint-remover?variant=48628285341879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1a039b7152de400b915f8785f8274c40H.webp?v=1781896763
-    Price: $18.15 USD
+    Price: $21.78 USD
   - [United States / Replace blade](https://www.ozkahome.com/products/electric-lint-remover?variant=48628285374647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3f57697cc4124eb1b7324835e6847000X.webp?v=1781896764
-    Price: $15.60 USD
+    Price: $18.72 USD
   - [United States / Green Headx1](https://www.ozkahome.com/products/electric-lint-remover?variant=48628285407415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1bbdf976e54044a89946ea587c707da1Y.webp?v=1781896763
-    Price: $17.39 USD
+    Price: $20.87 USD
   - [United States / Pink Headx1](https://www.ozkahome.com/products/electric-lint-remover?variant=48628285440183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc1c24a1cbed54966819bbcc28740f522H.webp?v=1781896763
-    Price: $16.95 USD
+    Price: $20.34 USD
 - [Waterproof SUV Cargo Liner | Trunk and Seat Protector](https://www.ozkahome.com/products/waterproof-suv-cargo-liner): Waterproof SUV Cargo Liner from OZKA HOME protects trunks and back seats from dirt, mud, pet hair, spills, and scratches. Universal fit, easy to install and clean.
-  Updated: 2026-10-08T09:55:41Z
+  Updated: 2026-10-19T18:43:26Z
   Vendor: OZKA HOME
   Product Type: Car Seat Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d5c8f171cb942ee9cfb72dcaf7a2a4bg.webp?v=1791441639
-  Price: $12.31 USD
+  Price: $12.24 USD
 - [Non-Slip Cobblestone Embossed Bath Mat, Quick Dry & Washable](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable): Non-Slip Cobblestone Embossed bath mat features a soft, cushioned feel, absorbent surface, quick-drying design, rubber backing, and machine-washable care.
-  Updated: 2026-10-08T06:40:29Z
+  Updated: 2026-10-19T18:43:04Z
   Vendor: OZKA HOME
   Product Type: Bath Mats & Rugs
   Availability: Available
@@ -123,169 +109,169 @@
   - [04 apricot / 50cmx120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850270903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $17.92 USD
+    Price: $18.98 USD
   - [01 grey / 60cmx200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850303671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $38.21 USD
+    Price: $40.38 USD
   - [04 apricot / 60cmx200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850336439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $35.21 USD
+    Price: $37.30 USD
   - [04 apricot / 60cmx160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850369207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $32.93 USD
+    Price: $34.84 USD
   - [02 brown / 60cm x 90cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850401975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $18.35 USD
+    Price: $19.38 USD
   - [02 brown / 60cmx200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850434743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $38.86 USD
+    Price: $41.10 USD
   - [05 black / 60cm x 90cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850467511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $17.73 USD
+    Price: $18.78 USD
   - [02 brown / 60cmx160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850500279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $29.32 USD
+    Price: $30.98 USD
   - [01 grey / 60cmx160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850533047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $31.92 USD
+    Price: $33.78 USD
   - [01 grey / 50cmx120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850565815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $17.63 USD
+    Price: $18.66 USD
   - [03 blue / 60cmx160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850598583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $31.22 USD
+    Price: $33.04 USD
   - [03 blue / 50cmx120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850631351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $17.78 USD
+    Price: $18.90 USD
   - [03 blue / 60cmx200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850664119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $39.50 USD
+    Price: $41.78 USD
   - [03 blue / 40cmx60cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850696887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $8.84 USD
+    Price: $9.30 USD
   - [05 black / 50cmx120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850729655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $17.96 USD
+    Price: $18.98 USD
   - [02 brown / 50cmx80cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850762423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $13.02 USD
+    Price: $13.78 USD
   - [02 brown / 50cmx120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850795191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $17.78 USD
+    Price: $18.78 USD
   - [02 brown / 40cmx60cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850827959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $9.27 USD
+    Price: $9.78 USD
   - [05 black / 60cmx200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850860727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $39.65 USD
+    Price: $41.98 USD
   - [01 grey / 50cmx80cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850893495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $13.26 USD
+    Price: $13.98 USD
   - [01 grey / 40cmx60cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850926263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $9.39 USD
+    Price: $9.90 USD
   - [05 black / 50cmx80cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850959031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $13.85 USD
+    Price: $14.66 USD
   - [05 black / 40cmx60cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631850991799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $8.87 USD
+    Price: $9.38 USD
   - [04 apricot / 50cmx80cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851024567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $13.15 USD
+    Price: $13.90 USD
   - [04 apricot / 40cmx60cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851057335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $9.92 USD
+    Price: $10.50 USD
   - [05 black / 50cm x 120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851090103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $18.51 USD
+    Price: $19.58 USD
   - [05 black / 60cm x 160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851122871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $30.36 USD
+    Price: $32.10 USD
   - [05 black / 60cm x 200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851155639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S90ba66a9e83446e294adbc8b572ff5ac5.webp?v=1782041069
-    Price: $68.80 USD
+    Price: $72.78 USD
   - [02 brown / 50cm x 120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851188407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $40.24 USD
+    Price: $42.58 USD
   - [02 brown / 60cm x 160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851221175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $58.46 USD
+    Price: $61.78 USD
   - [02 brown / 60cm x 200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851253943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S271ec527496a402eb0ca27f183fc6e9dl.webp?v=1782041069
-    Price: $68.80 USD
+    Price: $72.78 USD
   - [01 grey / 50cm x 120cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851286711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $17.14 USD
+    Price: $18.10 USD
   - [01 grey / 60cm x 160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851319479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $58.46 USD
+    Price: $61.78 USD
   - [01 grey / 60cm x 200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851352247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $68.80 USD
+    Price: $72.78 USD
   - [04 apricot / 60cm x 160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851385015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $31.88 USD
+    Price: $33.70 USD
   - [04 apricot / 60cm x 200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851417783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $61.39 USD
+    Price: $64.98 USD
   - [03 blue / 60cm x 90cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851450551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $17.90 USD
+    Price: $18.90 USD
   - [03 blue / 60cm x 160cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851483319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $58.46 USD
+    Price: $61.78 USD
   - [04 apricot / 60cm x 90cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851516087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99fabef9affa4b3cb257a2fa10d415ab6.webp?v=1782041069
-    Price: $18.73 USD
+    Price: $19.84 USD
   - [03 blue / 60cm x 200cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851548855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scd08f41d357c40ce8d9e73f7bd955ab8f.webp?v=1782041069
-    Price: $36.25 USD
+    Price: $38.38 USD
   - [01 grey / 60cm x 90cm](https://www.ozkahome.com/products/non-slip-cobblestone-bath-mat-quick-dry-machine-washable?variant=48631851581623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1d7bb64517eb4519b4adf08e714d8499M.webp?v=1782041069
-    Price: $17.58 USD
+    Price: $18.58 USD
 - [Wireless Hair Straightening Comb – Cordless Portable Styling](https://www.ozkahome.com/products/wireless-negative-ion-hair-straightening-comb-cordless-portable): Wireless Hair Straightening Comb offers cordless styling with negative ion technology to reduce frizz and static, add shine, and straighten or curl hair on the go.
-  Updated: 2026-10-08T09:37:04Z
+  Updated: 2026-10-19T18:42:56Z
   Vendor: OZKA HOME
   Product Type: Hair Styling Tools
   Availability: Available
@@ -293,13 +279,13 @@
   - [White](https://www.ozkahome.com/products/wireless-negative-ion-hair-straightening-comb-cordless-portable?variant=48632300437687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb7c4ef2a9e0340d0932fadea258a93723.webp?v=1782070061
-    Price: $24.07 USD
+    Price: $24.90 USD
   - [Black](https://www.ozkahome.com/products/wireless-negative-ion-hair-straightening-comb-cordless-portable?variant=48632300470455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0a5515af42c2494083e1254b3b6732f2T.webp?v=1782070061
-    Price: $26.98 USD
+    Price: $27.70 USD
 - [Lymphatic Contour Face Brush – Ergonomic Facial Massage Tool](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager): Lymphatic Contour Face Brush features soft rubber bristles and a contoured shape for daily facial massage along the jawline, cheeks, and neck in just minutes.
-  Updated: 2026-10-08T09:48:43Z
+  Updated: 2026-10-19T18:42:57Z
   Vendor: OZKA HOME
   Product Type: Facial Massage Tools
   Availability: Available
@@ -307,53 +293,53 @@
   - [Medium – 1 pc (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632308957367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S421931b808134dc1863bdc05c0baaf13e.webp?v=1782071837
-    Price: $6.80 USD
+    Price: $7.18 USD
   - [Small – 3 pcs Set](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632308990135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf23ac88971ce4ef0975da21620d15a32z.webp?v=1782071837
-    Price: $15.12 USD
+    Price: $15.98 USD
   - [Medium – 1 pc](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309022903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8cc5b41dd3fe491f9dd60ce80d0aed4dj.webp?v=1782071837
-    Price: $7.92 USD
+    Price: $8.38 USD
   - [Medium – 3 pcs Set (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309055671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S4b57b1f44ce942b1a3b31588a18489e16.webp?v=1782071837
-    Price: $15.14 USD
+    Price: $15.98 USD
   - [Medium – 3 pcs Set](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309088439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sbb6f9374db8c470ea5d790177a755731U.webp?v=1782071838
-    Price: $18.96 USD
+    Price: $20.10 USD
   - [Small – 1 pc (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309121207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S410d13eac1a641d6adc0b7209f5daef3H.webp?v=1782071837
-    Price: $5.83 USD
+    Price: $6.18 USD
   - [Small – 1 pc](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309153975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd7031d4308984457b1313b0f1673753fC.webp?v=1782071837
-    Price: $6.50 USD
+    Price: $6.90 USD
   - [Small – 2 pcs Set](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309186743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1e52858d04c34bd6a3f3c649a4532616T.webp?v=1782071837
-    Price: $11.27 USD
+    Price: $11.90 USD
   - [Small – 2 pcs Set (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309219511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S77bc1db433a545188d9a0545cefcc86bg.webp?v=1782071837
-    Price: $9.33 USD
+    Price: $9.90 USD
   - [Medium – 2 pcs Set](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309252279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0bf87242ec1443faaa2ffc787b794ddaV.webp?v=1782071838
-    Price: $13.79 USD
+    Price: $14.58 USD
   - [Medium – 2 pcs Set (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309285047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S36ab3ed4774d4159b96daaf8fa40c465j.webp?v=1782071837
-    Price: $11.12 USD
+    Price: $11.78 USD
   - [Small – 3 pcs Set (Gift Bag)](https://www.ozkahome.com/products/lymphatic-contour-face-brush-sculpting-drainage-massager?variant=48632309317815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S774ff971318b4704847d7f503f93fa52r.webp?v=1782071837
-    Price: $12.10 USD
+    Price: $12.78 USD
 - [3D Sleep Mask – Contoured Eye Mask for Travel and Rest](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking): 3D Sleep Mask by OZKA HOME features a contoured design, breathable memory foam, an adjustable strap, and a 360° edge seal for light blocking at home or travel.
-  Updated: 2026-10-08T06:41:03Z
+  Updated: 2026-10-19T18:43:36Z
   Vendor: OZKA HOME
   Product Type: Sleep Accessories
   Availability: Available
@@ -361,25 +347,25 @@
   - [Brown](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking?variant=48632335237303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2d3703e7166148268d10baae9002d0efm.webp?v=1782074633
-    Price: $7.51 USD
+    Price: $7.70 USD
   - [Pink](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking?variant=48632335270071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S16a0a91b207f44b09a2ea4d738f10e42k.webp?v=1782074633
-    Price: $7.60 USD
+    Price: $7.78 USD
   - [Rose](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking?variant=48632335302839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2f52abb6b82f4eacbabe0b2b26b964bcs.webp?v=1782074633
-    Price: $7.60 USD
+    Price: $7.78 USD
   - [Black](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking?variant=48632335335607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5d1dfd54c8804420b09cd24f6cf59d62u.webp?v=1782074633
-    Price: $7.51 USD
+    Price: $7.70 USD
   - [Purple](https://www.ozkahome.com/products/3d-sleep-mask-contoured-eye-mask-light-blocking?variant=48632335368375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saef96f5458b64706bd4a61ec10bebf5aB.webp?v=1782074632
-    Price: $7.54 USD
+    Price: $7.78 USD
 - [3D Frog Sleep Mask – Plush Eye Mask for Sleeping and Travel](https://www.ozkahome.com/products/3d-frog-sleep-mask): 3D Frog Sleep Mask features soft plush fabric, a contoured design, and adjustable frog expression. Choose a 1 or 3 pack for bedtime, naps, or travel.
-  Updated: 2026-10-08T06:40:36Z
+  Updated: 2026-10-19T18:01:26Z
   Vendor: OZKA HOME
   Product Type: Sleep Masks
   Availability: Available
@@ -387,13 +373,13 @@
   - [3pcs / China Mainland](https://www.ozkahome.com/products/3d-frog-sleep-mask?variant=48632335401143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9458658c574942dd9c58fa15caffc3935.webp?v=1782074633
-    Price: $12.49 USD
+    Price: $14.99 USD
   - [1pc / China Mainland](https://www.ozkahome.com/products/3d-frog-sleep-mask?variant=48632335433911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sff39a4cc8ac8485fb5b27779118b8dedI.webp?v=1782074633
-    Price: $5.88 USD
+    Price: $7.06 USD
 - [Kitchen Spice Storage Rack | 2 & 3-Tier Countertop Organizer](https://www.ozkahome.com/products/kitchen-spice-storage-rack-countertop-organizer): Kitchen Spice Storage Rack with 2- or 3-tier options, stainless steel columns and included hooks. Freestanding organizer for spices, condiments and essentials.
-  Updated: 2026-10-08T06:40:59Z
+  Updated: 2026-10-19T18:44:51Z
   Vendor: OZKA HOME
   Product Type: Kitchen Storage
   Availability: Available
@@ -401,21 +387,21 @@
   - [black / 2-tier](https://www.ozkahome.com/products/kitchen-spice-storage-rack-countertop-organizer?variant=48655001714871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S738e51d40ff241b0950e4e07a31a5b58s.webp?v=1791441634
-    Price: $20.14 USD
+    Price: $21.30 USD
   - [WHITE / 3-tier](https://www.ozkahome.com/products/kitchen-spice-storage-rack-countertop-organizer?variant=48655001747639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sce6ec25c79fb4912b6bd1504b2fa883fQ.webp?v=1782113366
-    Price: $34.33 USD
+    Price: $36.30 USD
   - [WHITE / 2-tier](https://www.ozkahome.com/products/kitchen-spice-storage-rack-countertop-organizer?variant=48655001780407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sce6ec25c79fb4912b6bd1504b2fa883fQ.webp?v=1782113366
-    Price: $21.26 USD
+    Price: $22.50 USD
   - [black / 3-tier](https://www.ozkahome.com/products/kitchen-spice-storage-rack-countertop-organizer?variant=48655001813175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S738e51d40ff241b0950e4e07a31a5b58s.webp?v=1791441634
-    Price: $33.67 USD
+    Price: $35.70 USD
 - [Oil Spray Bottle for Cooking – BBQ, Baking, Air Fryer & More](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush): Choose an Oil Spray Bottle for Cooking with a fine, even mist, transparent body, and 200ml, 300ml, or 500ml sizes for BBQ, baking, salads, and air frying.
-  Updated: 2026-10-08T08:45:37Z
+  Updated: 2026-10-19T18:43:52Z
   Vendor: OZKA HOME
   Product Type: Oil Spray Bottle
   Availability: Available
@@ -423,116 +409,116 @@
   - [300ml white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106374839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa96ed40a7dca409c898f469dec97a035v.webp?v=1782136491
-    Price: $6.21 USD
+    Price: $6.58 USD
   - [300ml black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106407607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb19f653afdab43d3b4753d2fc0f0c670t.webp?v=1782136491
-    Price: $5.55 USD
+    Price: $5.70 USD
   - [500ml white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106440375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sdb8f96bb5a564a43a5eb25f107247401v.webp?v=1782136491
-    Price: $6.76 USD
+    Price: $7.18 USD
   - [500ml black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106473143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc1687e0f0c6d4f0381dae6e8a4e05acep.webp?v=1782136491
-    Price: $6.38 USD
+    Price: $6.78 USD
   - [1pcs brush](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106505911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1c8ae2ab258242bfa555ad7ecf537916E.webp?v=1782136491
-    Price: $2.64 USD
+    Price: $2.82 USD
   - [200ml white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106538679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saad5fe8baf4c45c990ec6bb87aa63fe5F.webp?v=1782136491
-    Price: $5.81 USD
+    Price: $6.18 USD
   - [200ml black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106571447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sadde0a7a1c95409b925265a3c391ab79I.webp?v=1782136491
-    Price: $5.72 USD
+    Price: $5.98 USD
   - [black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106604215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd7921191d8b54607b78b714669a7362bW.webp?v=1782136491
-    Price: $7.68 USD
+    Price: $8.10 USD
   - [yellow](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106636983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfb7f0a6579d64455b773bb42b52d62c2r.webp?v=1782136491
-    Price: $8.02 USD
+    Price: $8.50 USD
   - ['-white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48928378421431)
     Availability: Not Available
-    Price: $5.70 USD
+    Price: $6.84 USD
   - [3pcs-black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106702519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7541dcad3917432abc2df4235db51859z.webp?v=1782136491
-    Price: $17.84 USD
+    Price: $18.90 USD
   - [3pcs--white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106735287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfa63e745aee34a97bed96fb3c7f96103e.webp?v=1782136491
-    Price: $18.28 USD
+    Price: $19.30 USD
   - [3pcs-green](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106768055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se5041792468a41848ceafcdc1891c2edw.webp?v=1782136491
-    Price: $18.47 USD
+    Price: $19.50 USD
   - [3pcs-yellow](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106800823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5d773d8cb81a45078a3f0fa0d254fde6e.webp?v=1782136491
-    Price: $18.51 USD
+    Price: $19.58 USD
   - [3pcs-grey](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106833591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S462d33479696489192776802ca193adc5.webp?v=1782136491
-    Price: $18.47 USD
+    Price: $19.50 USD
   - [2pcs-200ml-black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106866359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99693f675c4945a1b885b7b82ebda8e9f.webp?v=1782136491
-    Price: $9.46 USD
+    Price: $9.98 USD
   - [2pcs-300ml-white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106899127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S86292afa0dab4d6e91eb2019019f972aJ.webp?v=1782136491
-    Price: $10.24 USD
+    Price: $10.84 USD
   - [2pcs-white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106931895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5ef7f69f03c14f3ab0209355bc775618O.webp?v=1782136492
-    Price: $12.52 USD
+    Price: $13.30 USD
   - [2pcs-300ml-black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106964663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf154dbc4c5b44419a6ac67b4d76d0454J.webp?v=1782136491
-    Price: $10.26 USD
+    Price: $10.90 USD
   - [2pcs-black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106997431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8951db448d864a94852c91babfed4f8dy.webp?v=1782136491
-    Price: $12.94 USD
+    Price: $13.70 USD
   - [200ml-white-black](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107030199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0c85bbc7b3a440ccbd87dfa4bc2d93e33.webp?v=1782136491
-    Price: $9.50 USD
+    Price: $10.10 USD
   - [2pcs-green](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107062967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S24b80c0a56524ed5a07050cef051a3feQ.webp?v=1782136491
-    Price: $12.33 USD
+    Price: $13.10 USD
   - [2pcs-200ml-white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107095735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sbdad6df51f684776819cfbffe8480b83d.webp?v=1782136491
-    Price: $9.33 USD
+    Price: $9.90 USD
   - [2pcs-grey](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107128503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2a846acfc8af4ccb853c31d8a18d203fm.webp?v=1782136491
-    Price: $12.71 USD
+    Price: $13.44 USD
   - [2pcs-yellow](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107161271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S73016101c2644fce8485a8a540c13f82E.webp?v=1782136491
-    Price: $13.15 USD
+    Price: $13.90 USD
   - [green](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107194039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9ce0199c14aa4fc1a3916324346a598fY.webp?v=1782136491
-    Price: $7.90 USD
+    Price: $8.38 USD
   - [grey](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107226807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9a8cd0d691794634a8ca3dcd4a8d5cb53.webp?v=1782136491
-    Price: $7.51 USD
+    Price: $7.98 USD
   - [300ML BACK](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681107259575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S23d1c3318aaf42dd9dbf9211f63fc5a7M.webp?v=1782136491
-    Price: $6.50 USD
+    Price: $6.90 USD
 - [Silicone Foldable Face Ice Bath Bowl | Portable Ice Grid](https://www.ozkahome.com/products/silicone-face-ice-bath-bowl): Silicone Foldable Face Ice Bath Bowl features a built-in ice grid for cooling. Its durable silicone design folds to a slim 1-inch disk for travel or storage.
-  Updated: 2026-10-08T06:40:58Z
+  Updated: 2026-10-19T18:43:31Z
   Vendor: OZKA HOME
   Product Type: Skin Care Tools
   Availability: Available
@@ -540,17 +526,17 @@
   - [Green](https://www.ozkahome.com/products/silicone-face-ice-bath-bowl?variant=48706995290295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sdd0fa58712be43458934b1b16e7315cax.webp?v=1782159229
-    Price: $22.91 USD
+    Price: $23.70 USD
   - [black](https://www.ozkahome.com/products/silicone-face-ice-bath-bowl?variant=48706995323063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf9b8ee9559044a76aa4b80d85542ddd7B.webp?v=1782159229
-    Price: $22.97 USD
+    Price: $24.30 USD
   - [Purple](https://www.ozkahome.com/products/silicone-face-ice-bath-bowl?variant=48706995355831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saf2c5f17b59041c7820c30950b766c221.webp?v=1782159229
-    Price: $23.05 USD
+    Price: $23.90 USD
 - [40 Oz Insulated Tumbler | Handle, Straw & Steel Travel Cup](https://www.ozkahome.com/products/40oz-insulated-tumbler): 40 Oz Insulated Tumbler with handle and reusable straw, made from 18/8 stainless steel. Holds 40 oz and keeps drinks hot up to 12 hours or cold up to 24 hours.
-  Updated: 2026-10-11T16:06:20Z
+  Updated: 2026-10-18T19:06:41Z
   Vendor: OZKA HOME
   Product Type: Drinkware
   Availability: Available
@@ -558,177 +544,177 @@
   - [Light Grey / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551350455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7e70429a-a98a-4db4-bafb-52d829857ebe.jpg?v=1782195550
-    Price: $43.93 USD
+    Price: $52.72 USD
   - [Light Purple / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551383223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/a35aecd4-4ff7-4716-92f0-32096e45cd62.jpg?v=1782195550
-    Price: $37.93 USD
+    Price: $45.52 USD
   - [Rust / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551415991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/374b36c9-aaa1-4a1d-8387-c528b63568bb.jpg?v=1782195550
-    Price: $47.98 USD
+    Price: $57.58 USD
   - [Bay leaves / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551448759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e99f9fb1-2c68-47ea-b734-c55082456eb4.jpg?v=1782195550
-    Price: $25.80 USD
+    Price: $30.96 USD
   - [Bay leaves / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551481527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e99f9fb1-2c68-47ea-b734-c55082456eb4.jpg?v=1782195550
-    Price: $60.64 USD
+    Price: $72.77 USD
   - [Black / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551514295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/eaa17627-3e82-43a9-8c0a-b16a75039858.jpg?v=1782195550
-    Price: $35.57 USD
+    Price: $42.68 USD
   - [Black / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551547063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/eaa17627-3e82-43a9-8c0a-b16a75039858.jpg?v=1782195550
-    Price: $60.63 USD
+    Price: $72.76 USD
   - [Black1 / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551579831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8175ac8e-2170-4023-a0ff-d8fcfe96a35c.jpg?v=1782195550
-    Price: $13.73 USD
+    Price: $16.48 USD
   - [Charcoal / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551612599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7a4821ad-e168-4de0-a2da-3368c02f802f.jpg?v=1782195550
-    Price: $35.57 USD
+    Price: $42.68 USD
   - [Charcoal / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551645367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7a4821ad-e168-4de0-a2da-3368c02f802f.jpg?v=1782195550
-    Price: $60.62 USD
+    Price: $72.74 USD
   - [Christmas Red B / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551678135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/30de8bde-d599-4f95-93b2-f77a7f6b5900.jpg?v=1782195550
-    Price: $40.02 USD
+    Price: $48.02 USD
   - [Christmas Red B / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551710903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/30de8bde-d599-4f95-93b2-f77a7f6b5900.jpg?v=1782195550
-    Price: $72.97 USD
+    Price: $87.56 USD
   - [Cream white / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551743671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7e42e70c-aeed-4e9e-9597-70f8d5f4b58e.jpg?v=1782195550
-    Price: $26.72 USD
+    Price: $32.06 USD
   - [Cream white / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551776439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7e42e70c-aeed-4e9e-9597-70f8d5f4b58e.jpg?v=1782195550
-    Price: $61.72 USD
+    Price: $74.06 USD
   - [Cream / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551809207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/92bc9f5a-7103-48c1-a5f0-68dae08f62ae.jpg?v=1782195550
-    Price: $13.73 USD
+    Price: $16.48 USD
   - [Dunes / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551841975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/29e4484e-01ee-493f-a647-9208968e7fb7.jpg?v=1782195550
-    Price: $30.66 USD
+    Price: $36.79 USD
   - [Dunes / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551874743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/29e4484e-01ee-493f-a647-9208968e7fb7.jpg?v=1782195550
-    Price: $60.62 USD
+    Price: $72.74 USD
   - [Eucalyptus / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551907511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b5877cbd-5ef7-483a-8fd0-4b8823d28615.jpg?v=1782195550
-    Price: $28.02 USD
+    Price: $33.62 USD
   - [Eucalyptus / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551940279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b5877cbd-5ef7-483a-8fd0-4b8823d28615.jpg?v=1782195550
-    Price: $60.54 USD
+    Price: $72.65 USD
   - [Fog color / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744551973047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c1b1f0a2-4ffb-4c6e-82a7-e8b92fb72a4f.jpg?v=1782195550
-    Price: $33.60 USD
+    Price: $40.32 USD
   - [Fog color / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552005815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c1b1f0a2-4ffb-4c6e-82a7-e8b92fb72a4f.jpg?v=1782195550
-    Price: $60.61 USD
+    Price: $72.73 USD
   - [Laser Rose Quartz Leopard Patt / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552038583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c43257b4-8b84-4742-a87d-6065ae5204d8.jpg?v=1782195549
-    Price: $40.02 USD
+    Price: $48.02 USD
   - [Light Green / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552071351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/02b1ae29-3b91-4cfd-bc25-9155cb92556b.jpg?v=1782195550
-    Price: $37.73 USD
+    Price: $45.28 USD
   - [Light Green / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552104119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/02b1ae29-3b91-4cfd-bc25-9155cb92556b.jpg?v=1782195550
-    Price: $60.52 USD
+    Price: $72.62 USD
   - [Light Pink / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552136887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7a94ef25-2009-4b2a-93b6-6c64d2bc9a67.jpg?v=1782195550
-    Price: $13.73 USD
+    Price: $16.48 USD
   - [Light powder / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552169655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fc51cf03-d41d-432f-9a75-b4a2d6cb15ba.jpg?v=1782195550
-    Price: $41.10 USD
+    Price: $49.32 USD
   - [Peony color / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552202423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/773d6d31-5c20-48c3-aecc-f1dae536250c.jpg?v=1782195549
-    Price: $33.75 USD
+    Price: $40.50 USD
   - [Pink love A / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552235191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/21087b52-2755-4f7a-9342-3d2be75fa096.jpg?v=1782195550
-    Price: $40.02 USD
+    Price: $48.02 USD
   - [Pink / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552267959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/557c66c5-9540-4509-a197-53e8f3b09ba7.jpg?v=1782195550
-    Price: $40.02 USD
+    Price: $48.02 USD
   - [Red rust / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552300727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/39f62135-9227-4347-9e5b-cb085eeb6796.jpg?v=1782195550
-    Price: $25.80 USD
+    Price: $30.96 USD
   - [Red rust / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552333495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/39f62135-9227-4347-9e5b-cb085eeb6796.jpg?v=1782195550
-    Price: $60.53 USD
+    Price: $72.64 USD
   - [Rose Red / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552366263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7bfe5357-bfad-47bf-a63c-ee50e402940b.jpg?v=1782195550
-    Price: $40.02 USD
+    Price: $48.02 USD
   - [Rose quartz / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552399031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/78b8c1e9-3a4a-4cd5-9491-0bb57250df61.jpg?v=1782195550
-    Price: $25.80 USD
+    Price: $30.96 USD
   - [Rose quartz / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552431799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/78b8c1e9-3a4a-4cd5-9491-0bb57250df61.jpg?v=1782195550
-    Price: $60.87 USD
+    Price: $73.04 USD
   - [Roseo / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552464567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/68dccf3e-e82b-4801-b241-71b6f424ab60.jpg?v=1782195550
-    Price: $37.61 USD
+    Price: $45.13 USD
   - [Roseo / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552497335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/68dccf3e-e82b-4801-b241-71b6f424ab60.jpg?v=1782195550
-    Price: $67.31 USD
+    Price: $80.77 USD
   - [Second generation light green / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552530103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dee4682a-d2f6-4bfd-aa7e-f83c9275d20f.jpg?v=1782195550
-    Price: $34.97 USD
+    Price: $41.96 USD
   - [Storm sea / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552562871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f9451712-09d2-4c69-af31-cbbfff66f4e9.jpg?v=1782195550
-    Price: $35.57 USD
+    Price: $42.68 USD
   - [Storm sea / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552595639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f9451712-09d2-4c69-af31-cbbfff66f4e9.jpg?v=1782195550
-    Price: $60.62 USD
+    Price: $72.74 USD
   - [Straw / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552628407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/621ff5f6-ca76-4120-802f-50624793c84c.jpg?v=1782195550
-    Price: $6.12 USD
+    Price: $7.34 USD
   - [Style1 / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552661175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7242a202-bae7-496f-bc6f-c1c312815199.jpg?v=1782195549
-    Price: $39.65 USD
+    Price: $47.58 USD
   - [Thermal sublimation / 1200ML / 1PC](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552693943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1782195550
-    Price: $48.04 USD
+    Price: $57.65 USD
   - [Thermal sublimation / 1200ML / 2PCS](https://www.ozkahome.com/products/40oz-insulated-tumbler?variant=48744552726711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1782195550
-    Price: $89.64 USD
+    Price: $107.57 USD
 - [Multifunctional Kitchen Knife & Tool Holder – Draining Base](https://www.ozkahome.com/products/multifunctional-kitchen-knife-tool-holder): Multifunctional Kitchen Knife & Tool Holder with detachable draining base, PP and stainless steel construction, and black or white finish. Choose from two styles.
-  Updated: 2026-10-08T09:29:27Z
+  Updated: 2026-10-14T10:24:36Z
   Vendor: OZKA HOME
   Product Type: Kitchen Storage
   Availability: Available
@@ -736,21 +722,21 @@
   - [8 inches](https://www.ozkahome.com/products/multifunctional-kitchen-knife-tool-holder?variant=48744599453879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/ea63433b-52dc-4771-b4c6-973349be4a9e.jpg?v=1782197819
-    Price: $43.00 USD
+    Price: $51.60 USD
   - [A](https://www.ozkahome.com/products/multifunctional-kitchen-knife-tool-holder?variant=48744599486647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6153672711.jpg?v=1791441636
-    Price: $74.82 USD
+    Price: $89.78 USD
   - [B](https://www.ozkahome.com/products/multifunctional-kitchen-knife-tool-holder?variant=48744599519415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2831478847439.jpg?v=1782197819
-    Price: $80.33 USD
+    Price: $96.40 USD
   - [C](https://www.ozkahome.com/products/multifunctional-kitchen-knife-tool-holder?variant=48744599552183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6305c0ce-ad6e-47cc-b7b5-a763671d248e_trans.jpg?v=1782197820
-    Price: $29.83 USD
+    Price: $35.80 USD
 - [Pet Teeth Cleaning Spray – Easy Daily Care for Cats and Dogs](https://www.ozkahome.com/products/pet-teeth-cleaning-spray-cats-dogs): Pet Teeth Cleaning Spray offers a no-brushing option for cats and dogs. Apply directly to teeth or add to water for convenient daily oral care in a 30ml bottle.
-  Updated: 2026-10-08T06:40:34Z
+  Updated: 2026-10-19T18:01:27Z
   Vendor: OZKA HOME
   Product Type: Pet Oral Care
   Availability: Available
@@ -758,17 +744,17 @@
   - [5 Pcs / United States](https://www.ozkahome.com/products/pet-teeth-cleaning-spray-cats-dogs?variant=48745172271287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8f831173456e48cf9a190ddb630656ee4.webp?v=1782202190
-    Price: $38.67 USD
+    Price: $46.40 USD
   - [3 Pcs / United States](https://www.ozkahome.com/products/pet-teeth-cleaning-spray-cats-dogs?variant=48745172304055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S021015757f97469ea3f299bbc9baf8ecq.webp?v=1782202190
-    Price: $27.40 USD
+    Price: $32.88 USD
   - [1 Pc / United States](https://www.ozkahome.com/products/pet-teeth-cleaning-spray-cats-dogs?variant=48745172336823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0b20326aa1504e1d958f090655de9546f.webp?v=1782202190
-    Price: $19.34 USD
+    Price: $23.21 USD
 - [2022 Panini Qatar – World Cup Football Cards with Ronaldo](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection): 2022 Panini Qatar World Cup collector cards feature Ronaldo and global stars. Explore packs, boxes, card book sets, and album bundles for football fans and collectors.
-  Updated: 2026-10-08T10:01:22Z
+  Updated: 2026-10-19T18:44:46Z
   Vendor: Panini
   Product Type: Sports Collectibles
   Availability: Available
@@ -776,51 +762,51 @@
   - [3packs 26pc 1album-A](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731460791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfe3f7d17b257436b85951490a326af23G.webp?v=1782223634
-    Price: $112.54 USD
+    Price: $118.46 USD
   - [1 box 5 packs](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731493559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3f44792243574f1088ba11f83a355aef5.webp?v=1782223634
-    Price: $82.71 USD
+    Price: $99.25 USD
   - [Random color 1 box](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731526327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0a943595015f41d49e3d8cac89f119ddK.webp?v=1782223634
-    Price: $85.04 USD
+    Price: $89.52 USD
   - [1 BOX](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731559095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6b67ae457b6d4cc8ab6ad4f07e924971c.webp?v=1782223634
-    Price: $122.50 USD
+    Price: $147.00 USD
   - [Card Book Set](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731591863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S65a4be248e344ba184bc60b66573bf11u.webp?v=1782223634
-    Price: $85.04 USD
+    Price: $89.52 USD
   - [24 packs per box](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731624631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S24dda459ec57461b939fd276e2a95716F.webp?v=1782223634
-    Price: $198.15 USD
+    Price: $237.78 USD
   - [1 BOX  1](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731657399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S001f5ffaa04d453c82d828500c89129dV.webp?v=1782223634
-    Price: $94.32 USD
+    Price: $99.28 USD
   - [24 packs per box  1](https://www.ozkahome.com/products/2022-panini-qatar-world-cup-football-card-collection?variant=48750731690167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc74689b012eb44129f0729d9b79dccbem.webp?v=1782223633
-    Price: $66.99 USD
+    Price: $70.52 USD
 - [9 in 1 Electric Spin Scrubber | 9 Heads, LED Display](https://www.ozkahome.com/products/electric-spin-scrubber-9-in-1): 9 in 1 Electric Spin Scrubber with nine interchangeable heads, an extendable handle, and LED battery display. Rechargeable cordless cleaning for kitchens and bathrooms.
-  Updated: 2026-10-08T09:55:19Z
+  Updated: 2026-10-19T18:43:26Z
   Vendor: OZKA HOME
   Product Type: Cleaning Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6c78436e44514ab3a95279842f24d586N.webp?v=1791441629
-  Price: $49.86 USD
+  Price: $50.58 USD
 - [9 in 1 Electric Spin Scrubber - Cordless Cleaning Brush](https://www.ozkahome.com/products/electric-spin-scrubber-9in1): 9 in 1 Electric Spin Scrubber features nine interchangeable heads, a cordless rechargeable design, LED battery display, and an extendable handle for home cleaning.
-  Updated: 2026-10-08T09:55:17Z
+  Updated: 2026-10-19T18:01:28Z
   Vendor: OZKA HOME
   Product Type: Cleaning Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc77cc17002d041c9a4c06f73ffc2e44bO.webp?v=1791441628
-  Price: $54.00 USD
+  Price: $64.80 USD
 - [3 in 1 Hot Water Bottle – Plush Waist Cover, 120cm Wrap](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer): 3 in 1 Hot Water Bottle with a plush 120cm waist cover, double hand pockets, removable washable fleece cover, and 1000ml capacity for warmth in winter or cooling in summer.
-  Updated: 2026-10-08T06:40:30Z
+  Updated: 2026-10-19T18:43:09Z
   Vendor: OZKA HOME
   Product Type: Hot Water Bottles
   Availability: Available
@@ -828,29 +814,29 @@
   - [Siberian Husky](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340397239)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S99c108bd01554fd4be488614d864a3b7Q.webp?v=1782307432
-    Price: $21.09 USD
+    Price: $22.30 USD
   - [Plaid](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340430007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S27de76719bc74e5a8ef676833b0a2ca3A.webp?v=1782307431
-    Price: $20.12 USD
+    Price: $20.84 USD
   - [Brown](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340462775)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sca4673c3eb6a4e9080ec6f9b58f70b36I.webp?v=1782307431
-    Price: $21.98 USD
+    Price: $23.30 USD
   - [Gray B](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340495543)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/A7a7d71f16a824fe08a87801c4eff5ba3O.webp?v=1791441629
-    Price: $22.04 USD
+    Price: $23.30 USD
   - [Koala](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340528311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S37895af3452b4103859900d3e6321ebai.webp?v=1782307431
-    Price: $21.28 USD
+    Price: $22.04 USD
   - [Gray](https://www.ozkahome.com/products/hot-water-bottle-waist-cover-warmer?variant=48754340561079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf200fa7004b94e1489d9203e587a0574k.webp?v=1782307431
-    Price: $21.26 USD
+    Price: $21.98 USD
 - [Portable Mini Fan 3-in-1 – 5 Speeds, LED Display & Phone Stand](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop): Portable Mini Fan 3-in-1 offers handheld, neck-hanging, and desktop modes, five speed settings, an LED display, a built-in phone stand, and USB recharging.
-  Updated: 2026-10-08T09:50:28Z
+  Updated: 2026-10-19T18:43:39Z
   Vendor: OZKA HOME
   Product Type: Portable Fan
   Availability: Available
@@ -858,25 +844,25 @@
   - [Pink](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop?variant=48754345869495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S82e453781d5f498d9ac7f4bb07a017a3W.webp?v=1782308349
-    Price: $22.23 USD
+    Price: $23.50 USD
   - [PURPLE](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop?variant=48754345902263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2d498950b9c840e0b478738f7e3415d8B.webp?v=1782308349
-    Price: $9.06 USD
+    Price: $9.58 USD
   - [WHITE](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop?variant=48754345935031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5e567c518188403bb81efb022c8d328eZ.webp?v=1782308348
-    Price: $9.25 USD
+    Price: $9.78 USD
   - [Blue](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop?variant=48754345967799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S4e4035792735468999bdddd70e7e8d81n.webp?v=1782308348
-    Price: $9.88 USD
+    Price: $10.50 USD
   - [green](https://www.ozkahome.com/products/portable-mini-fan-3in1-handheld-neck-desktop?variant=48754346000567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc1929fc7837c4d38ba0cd57fffcde0630.webp?v=1782308349
-    Price: $22.44 USD
+    Price: $23.78 USD
 - [Cat & Dog Automatic Feeder – Integrated Water Dispenser Bowl](https://www.ozkahome.com/products/cat-bowl-automatic-feeder-for-cats-dogs-pets-water-dispensers-integrated-cat-bowl-cat-food-basin-dogs-eating-drinking-wa): Cat & Dog Automatic Feeder combines a food basin and water station in one compact, easy-to-clean unit, with a slow feeder design for cats and dogs.
-  Updated: 2026-10-08T09:15:18Z
+  Updated: 2026-10-19T18:43:41Z
   Vendor: OZKA HOME
   Product Type: Pet Accessories
   Availability: Available
@@ -884,13 +870,13 @@
   - [package B](https://www.ozkahome.com/products/cat-bowl-automatic-feeder-for-cats-dogs-pets-water-dispensers-integrated-cat-bowl-cat-food-basin-dogs-eating-drinking-wa?variant=48754362941623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7f8e873f7b3f4c8dbaa12d6f5c0be85fV.webp?v=1782309157
-    Price: $28.52 USD
+    Price: $29.70 USD
   - [package A](https://www.ozkahome.com/products/cat-bowl-automatic-feeder-for-cats-dogs-pets-water-dispensers-integrated-cat-bowl-cat-food-basin-dogs-eating-drinking-wa?variant=48754362974391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2d5d383929c148a1a90f574f6af8f84aY.webp?v=1782309157
-    Price: $25.97 USD
+    Price: $27.10 USD
 - [Silicone Kitchenware With Wooden Handle | Utensil Sets](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle): Silicone Kitchenware With Wooden Handle for cooking, baking, stirring, and serving. Choose single pieces or 12–14 piece sets in a range of colors.
-  Updated: 2026-10-10T15:07:12Z
+  Updated: 2026-10-17T16:06:40Z
   Vendor: OZKA HOME
   Product Type: Silicone Kitchenware
   Availability: Available
@@ -898,134 +884,127 @@
   - [White 12 piece set](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755010896055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c4a87bb-541d-48cf-b5f8-8602839de651.jpg?v=1782326282
-    Price: $40.54 USD
+    Price: $48.65 USD
   - [10style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755010928823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2659961936712.jpg?v=1782326282
-    Price: $9.45 USD
+    Price: $11.34 USD
   - [11style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755010961591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/5191593349778.jpg?v=1782326282
-    Price: $11.77 USD
+    Price: $14.12 USD
   - [12pcs Blue set](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755010994359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8772359821428.jpg?v=1782326282
-    Price: $67.17 USD
+    Price: $80.60 USD
   - [12pcs Color set](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011027127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/854830793894.jpg?v=1782326282
-    Price: $71.60 USD
+    Price: $85.92 USD
   - [12pcs green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011059895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1865026634940.jpg?v=1782326282
-    Price: $86.15 USD
+    Price: $103.38 USD
   - [12pcs green A](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011092663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/684668554400.jpg?v=1782326282
-    Price: $96.52 USD
+    Price: $115.82 USD
   - [12pcs pink](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011125431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2827057649457.jpg?v=1782326282
-    Price: $88.78 USD
+    Price: $106.54 USD
   - [12pcs purple](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011158199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1475045547839.jpg?v=1782326282
-    Price: $86.15 USD
+    Price: $103.38 USD
   - [12pcs red](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011190967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2064682877005.jpg?v=1782326282
-    Price: $76.80 USD
+    Price: $92.16 USD
   - [1style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011223735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/103979662962.jpg?v=1782326282
-    Price: $12.53 USD
+    Price: $15.04 USD
   - [2style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011256503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/5558026658946.jpg?v=1782326282
-    Price: $12.49 USD
+    Price: $14.99 USD
   - [3style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011289271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/935288500521.jpg?v=1782326282
-    Price: $12.61 USD
+    Price: $15.13 USD
   - [4style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011322039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/210884993748.jpg?v=1782326282
-    Price: $12.53 USD
+    Price: $15.04 USD
   - [5style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011354807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/141474034402.jpg?v=1782326282
-    Price: $12.79 USD
+    Price: $15.35 USD
   - [6style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011387575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/715168737711.jpg?v=1782326282
-    Price: $12.53 USD
+    Price: $15.04 USD
   - [7style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011420343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4595672062480.jpg?v=1782326282
-    Price: $12.57 USD
+    Price: $15.08 USD
   - [8style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011453111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2093466080776.jpg?v=1782326282
-    Price: $12.78 USD
+    Price: $15.34 USD
   - [9style green](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011485879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1209819720391.jpg?v=1782326282
-    Price: $10.91 USD
+    Price: $13.09 USD
   - [Black](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011518647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1089498377383.jpg?v=1782326282
-    Price: $85.13 USD
+    Price: $102.16 USD
   - [Dark Grey 14PCS Set](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011551415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/ae18c8d8-d12a-47bc-831c-f1ef52657bc7.jpg?v=1782326282
-    Price: $37.19 USD
+    Price: $44.63 USD
   - [Pink](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011584183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2827057649457.jpg?v=1782326282
-    Price: $87.49 USD
+    Price: $104.99 USD
   - [Pink 14PCS Set](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011616951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4f6e69ee-0cc6-4e6a-a5c5-b52360a86dcc.jpg?v=1782326282
-    Price: $37.19 USD
+    Price: $44.63 USD
   - [White](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011649719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1940690f-6c2e-47ca-a9c8-23e0a2e77e2c.jpg?v=1782326282
-    Price: $65.31 USD
+    Price: $78.37 USD
   - [12pcs black](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011682487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/918383618754.jpg?v=1782326282
-    Price: $86.15 USD
+    Price: $103.38 USD
   - [Set1](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011715255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6459314e-de0b-4c4b-829a-3e1881651cb8.jpg?v=1782326282
-    Price: $213.97 USD
+    Price: $256.76 USD
   - [Set2](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle?variant=48755011748023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fccfab94-eca1-4328-b885-036de5bc1c64.jpg?v=1782326282
-    Price: $159.38 USD
-- [Apple Corer & Slicer with Stainless Steel Blades | OZKA HOME](https://www.ozkahome.com/products/apple-corer-slicer-stainless-steel): Slice and core apples effortlessly with this 15.5cm multi-petal cutter. Sharp stainless steel blades for quick, clean cuts. Perfect for home kitchens.
-  Updated: 2026-09-29T09:31:28Z
-  Vendor: OZKA HOME
-  Product Type: Kitchen Tools
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S01ed98cb8d0e406fb4a3587e7b117a5cE.webp?v=1782416071
-  Price: $2.66 USD
+    Price: $191.26 USD
 - [Multi-Purpose Vegetable Grater & Slicer | OZKA HOME](https://www.ozkahome.com/products/multi-purpose-vegetable-grater-slicer): Shred cabbage, carrots, cucumbers & more with this stainless steel vegetable grater and slicer. Ergonomic non-slip handle. 12×15.5cm. Perfect for home kitchens.
-  Updated: 2026-09-29T09:34:36Z
+  Updated: 2026-10-19T18:43:15Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd9f83ca48e854b40a86c1d43e4948ab3X.webp?v=1782420199
-  Price: $2.03 USD
+  Price: $2.50 USD
 - [Stainless Steel Julienne Peeler & Grater | 1z6nep Ky](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater): 2-in-1 stainless steel julienne peeler and grater for vegetables and fruits. Sharp, durable, dishwasher safe. 18x5.5cm. Shop at OZKA HOME.
-  Updated: 2026-09-29T09:35:19Z
+  Updated: 2026-10-19T18:43:56Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c66cf3d96f340c893a32b1b1003a97fo.webp?v=1782420408
-  Price: $2.51 USD
-- [Magic Emery Sponge Cleaning Brush with Handle | OZKA HOME](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2): Multi-purpose nano emery sponge brush for kitchen, bathroom & more. Ergonomic handle, high-density sponge, strong decontamination. Available in Black & Brown.
-  Updated: 2026-09-29T09:33:43Z
+  Price: $2.76 USD
+- [Emery Cleaning Sponge Brush with Handle | OZKA HOME](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2): Make everyday cleaning easier with a lightweight emery sponge brush featuring a comfortable handle. Explore practical cleaning tools at OZKA HOME.
+  Updated: 2026-10-19T18:43:20Z
   Vendor: OZKA HOME
   Product Type: Cleaning Tools
   Availability: Available
@@ -1033,13 +1012,13 @@
   - [Black](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2?variant=48759095886007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb19937642722471db2b520af54773a2df_e09a99f6-4397-4476-9784-b1d14a70c5ee.webp?v=1782459848
-    Price: $2.93 USD
+    Price: $5.10 USD
   - [Brown](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2?variant=48759095918775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1c44ef14fe9d411099eb0dc40b25e23dP_b8a2f1c9-dba2-421d-a23d-d3827e557455.webp?v=1782459847
-    Price: $4.43 USD
+    Price: $5.50 USD
 - [Auto Sensor Night Light — 4 Pack | OZKA HOME](https://www.ozkahome.com/products/dusk-to-dawn-night-light-4-pack): Shop a 4-pack of dimmable plug-in night lights with dusk-to-dawn auto sensor. Automatically turns on at night and off at dawn. Perfect for hallways, bedrooms & bathrooms.
-  Updated: 2026-09-29T09:31:41Z
+  Updated: 2026-10-19T18:44:11Z
   Vendor: OZKA HOME
   Product Type: Wall Light
   Availability: Available
@@ -1047,35 +1026,35 @@
   - [United States / Red](https://www.ozkahome.com/products/dusk-to-dawn-night-light-4-pack?variant=48759307632823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc429cac258ef401daefc3c661f4e95bbu.webp?v=1782476842
-    Price: $67.39 USD
+    Price: $70.94 USD
   - [United States / Amber](https://www.ozkahome.com/products/dusk-to-dawn-night-light-4-pack?variant=48759307665591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se07978cebe7446da8ce96d941b39665f2.webp?v=1782476840
-    Price: $67.39 USD
+    Price: $70.94 USD
   - [United States / Blue](https://www.ozkahome.com/products/dusk-to-dawn-night-light-4-pack?variant=48759307698359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb4c54535764249c7b9810f5924d3b5c8z.webp?v=1782476841
-    Price: $67.39 USD
+    Price: $70.94 USD
   - [United States / White](https://www.ozkahome.com/products/dusk-to-dawn-night-light-4-pack?variant=48759307731127)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S07cfb96ff9fa4c4797f42a20e79c9e92q.webp?v=1782476879
-    Price: $90.40 USD
+    Price: $95.16 USD
 - [Ocean Wave Light Projector – 16 Colors, Touch & Remote, Rechargeable](https://www.ozkahome.com/products/ocean-wave-light-projector): Create a calming ocean wave ambiance with this rechargeable cube lamp. Features 16 colors, 4 modes, dimmable brightness, touch and remote control. Perfect for bedrooms, bathrooms, and relaxation spaces.
-  Updated: 2026-09-29T09:34:28Z
+  Updated: 2026-10-14T10:25:31Z
   Vendor: OZKA HOME
   Product Type: Projector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S41598544aaa549a68c684ff4b01f3774H.webp?v=1782479176
-  Price: $33.34 USD
+  Price: $40.01 USD
 - [Washable Mop Pads 6-Pack Reusable Microfiber | 1z6nep Ky](https://www.ozkahome.com/products/washable-flat-mop-pads-6-pack-microfiber): Replace disposable mop pads with these 6-pack washable microfiber flat mop covers. Machine washable, pet hair pickup, fits most 12–15" flat mops. Eco-friendly.
-  Updated: 2026-09-29T09:36:35Z
+  Updated: 2026-10-19T18:01:32Z
   Vendor: OZKA HOME
   Product Type: Cleaning Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7151bdf61f5b48629a23fee00a1b491cg.webp?v=1782509581
-  Price: $23.46 USD
+  Price: $28.15 USD
 - [Purple Nitrile Gloves | Disposable Powder-Free | 50 & 100pcs – OZKA HOME](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free): Durable purple nitrile gloves — powder-free, latex-free, 4-mil thickness. Available in 50 or 100pcs, sizes S–XL. For , cleaning, tattoo & salon use.
-  Updated: 2026-09-29T09:34:32Z
+  Updated: 2026-10-19T18:43:21Z
   Vendor: OZKA HOME
   Product Type: Safety & Protective Gear
   Availability: Available
@@ -1083,37 +1062,37 @@
   - [50PCS / S](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793727159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S046f12af782d49ca8681a8f293d1cf27K.webp?v=1782539904
-    Price: $12.52 USD
+    Price: $12.98 USD
   - [50PCS / M](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793759927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S046f12af782d49ca8681a8f293d1cf27K.webp?v=1782539904
-    Price: $13.15 USD
+    Price: $13.58 USD
   - [50PCS / L](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793792695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S046f12af782d49ca8681a8f293d1cf27K.webp?v=1782539904
-    Price: $14.14 USD
+    Price: $14.98 USD
   - [50PCS / XL](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793825463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S046f12af782d49ca8681a8f293d1cf27K.webp?v=1782539904
-    Price: $14.48 USD
+    Price: $14.98 USD
   - [100PCS / S](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793858231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c8c08dffbb24531b7e7e54c9825ea6fg.webp?v=1782539904
-    Price: $21.62 USD
+    Price: $22.90 USD
   - [100PCS / M](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793890999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c8c08dffbb24531b7e7e54c9825ea6fg.webp?v=1782539904
-    Price: $23.50 USD
+    Price: $24.38 USD
   - [100PCS / L](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793923767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c8c08dffbb24531b7e7e54c9825ea6fg.webp?v=1782539904
-    Price: $24.72 USD
+    Price: $25.58 USD
   - [100PCS / XL](https://www.ozkahome.com/products/purple-nitrile-gloves-disposable-powder-free?variant=48760793956535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c8c08dffbb24531b7e7e54c9825ea6fg.webp?v=1782539904
-    Price: $25.82 USD
+    Price: $26.78 USD
 - [Breathable Plant Grow Bag | Potato & Vegetable Planter | OZKA HOME](https://www.ozkahome.com/products/plant-grow-bag): Breathable non-woven grow bags for potatoes, tomatoes & vegetables. Reusable, durable fabric pots with handles. Available in small, medium & large sizes.
-  Updated: 2026-09-29T09:31:43Z
+  Updated: 2026-10-14T10:25:07Z
   Vendor: OZKA HOME
   Product Type: Garden Planters
   Availability: Available
@@ -1121,137 +1100,137 @@
   - [Black / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801132727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/727069749407.jpg?v=1782541010
-    Price: $12.94 USD
+    Price: $15.53 USD
   - [Green / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801165495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/558073924975.jpg?v=1782541009
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Set / M](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801198263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7952860529191.jpg?v=1782541009
-    Price: $23.13 USD
+    Price: $27.76 USD
   - [Black 2PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801231031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4361c4ee-cc1e-4cfa-bbf5-fb53233d340b.jpg?v=1782541010
-    Price: $18.58 USD
+    Price: $22.30 USD
   - [Black / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801263799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/727069749407.jpg?v=1782541010
-    Price: $12.32 USD
+    Price: $14.78 USD
   - [Black / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801296567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/727069749407.jpg?v=1782541010
-    Price: $9.64 USD
+    Price: $11.57 USD
   - [Black3PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801329335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957310.jpg?v=1782541009
-    Price: $31.80 USD
+    Price: $38.16 USD
   - [Black3PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801362103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614780020581.jpg?v=1782541010
-    Price: $22.77 USD
+    Price: $27.32 USD
   - [Black3PCS / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801394871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957297.jpg?v=1782541009
-    Price: $18.99 USD
+    Price: $22.79 USD
   - [Camel brown 2PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801427639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e7b4e3f5-ad53-4eea-901f-12ba8586ffc4.jpg?v=1782541009
-    Price: $18.58 USD
+    Price: $22.30 USD
   - [Camel brown / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801460407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/354947622351.jpg?v=1782541009
-    Price: $12.32 USD
+    Price: $14.78 USD
   - [Camel brown / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801493175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/354947622351.jpg?v=1782541009
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Camel brown / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801525943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/354947622351.jpg?v=1782541009
-    Price: $9.64 USD
+    Price: $11.57 USD
   - [Camel brown2PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801558711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/99726933-7134-4d3c-8aee-4c2368a8853a.jpg?v=1782541009
-    Price: $15.96 USD
+    Price: $19.15 USD
   - [Camel brown3PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801591479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957059.jpg?v=1782541009
-    Price: $27.48 USD
+    Price: $32.98 USD
   - [Camel brown3PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801624247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957034.jpg?v=1782541009
-    Price: $21.98 USD
+    Price: $26.38 USD
   - [Camel brown3PCS / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801657015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957014.jpg?v=1782541009
-    Price: $18.99 USD
+    Price: $22.79 USD
   - [Green 2PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801689783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/0ca244ef-152a-463d-9eec-fa54d318302d.jpg?v=1782541009
-    Price: $18.60 USD
+    Price: $22.32 USD
   - [Green / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801722551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/558073924975.jpg?v=1782541009
-    Price: $12.32 USD
+    Price: $14.78 USD
   - [Green / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801755319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/558073924975.jpg?v=1782541009
-    Price: $9.64 USD
+    Price: $11.57 USD
   - [Green2PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801788087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1612771632051.jpg?v=1782541009
-    Price: $16.59 USD
+    Price: $19.91 USD
   - [Green3PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801820855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957061.jpg?v=1782541009
-    Price: $27.03 USD
+    Price: $32.44 USD
   - [Green3PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801853623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614779957060.jpg?v=1782541009
-    Price: $21.93 USD
+    Price: $26.32 USD
   - [Green3PCS / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801886391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614780020588.jpg?v=1782541009
-    Price: $18.99 USD
+    Price: $22.79 USD
   - [Green4PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801919159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1612771632057.jpg?v=1782541009
-    Price: $28.13 USD
+    Price: $33.76 USD
   - [Green6PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801951927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1612771632058.jpg?v=1782541009
-    Price: $39.14 USD
+    Price: $46.97 USD
   - [Light gray 2PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760801984695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/655740e5-1166-4ef7-8660-3776ba543e8d.jpg?v=1782541009
-    Price: $44.52 USD
+    Price: $53.42 USD
   - [Light gray / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802017463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4167424990167.jpg?v=1782541009
-    Price: $23.87 USD
+    Price: $28.64 USD
   - [Light gray / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802050231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4167424990167.jpg?v=1782541009
-    Price: $20.20 USD
+    Price: $24.24 USD
   - [Light gray / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802082999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4167424990167.jpg?v=1782541009
-    Price: $16.90 USD
+    Price: $20.28 USD
   - [Light gray3PCS / Large](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802115767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614821353326.jpg?v=1782541009
-    Price: $62.13 USD
+    Price: $74.56 USD
   - [Light gray3PCS / Medium](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802148535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614821353317.jpg?v=1782541009
-    Price: $50.54 USD
+    Price: $60.65 USD
   - [Light gray3PCS / Small](https://www.ozkahome.com/products/plant-grow-bag?variant=48760802181303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614821353310.jpg?v=1782541009
-    Price: $40.77 USD
+    Price: $48.92 USD
 - [Stainless Steel Metal Garden Hose with Spray Nozzle | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-metal-garden-hose-spray-nozzle): Kink-free stainless steel garden hose with 10-pattern spray nozzle. Available in 50FT & 100FT. Heavy duty, flexible, and rust-resistant. Perfect for any garden.
-  Updated: 2026-10-04T12:05:56Z
+  Updated: 2026-10-14T10:25:05Z
   Vendor: OZKA HOME
   Product Type: Garden Supplies
   Availability: Available
@@ -1259,13 +1238,13 @@
   - [50FT](https://www.ozkahome.com/products/stainless-steel-metal-garden-hose-spray-nozzle?variant=48760827117751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/0d2b882f-f916-49bc-b209-459887dc5d14.jpg?v=1782542185
-    Price: $44.56 USD
+    Price: $53.47 USD
   - [100FT](https://www.ozkahome.com/products/stainless-steel-metal-garden-hose-spray-nozzle?variant=48760827150519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/0d2b882f-f916-49bc-b209-459887dc5d14.jpg?v=1782542185
-    Price: $92.43 USD
+    Price: $110.92 USD
 - [120W Wired Handheld Vacuum: 12000Pa Car & Home Cleaner-OZKA HOME](https://www.ozkahome.com/products/120w-handheld-vacuum-cleaner-home-car): 120W Wired Handheld Vacuum: 12000Pa Car & Home Cleaner-OZKA HOME
-  Updated: 2026-09-29T09:30:52Z
+  Updated: 2026-10-14T10:25:10Z
   Vendor: OZKA HOME
   Product Type: Home Appliances
   Availability: Available
@@ -1273,20 +1252,20 @@
   - [Black](https://www.ozkahome.com/products/120w-handheld-vacuum-cleaner-home-car?variant=48760834916535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9132f679-963b-4e5a-9e3f-128ba549427d.jpg?v=1782542931
-    Price: $68.99 USD
+    Price: $82.79 USD
   - [Black1](https://www.ozkahome.com/products/120w-handheld-vacuum-cleaner-home-car?variant=48760834949303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9132f679-963b-4e5a-9e3f-128ba549427d.jpg?v=1782542931
-    Price: $59.99 USD
+    Price: $71.99 USD
 - [Portable Electric Espresso Machine – Cordless Self-Heating](https://www.ozkahome.com/products/portable-electric-espresso-machine-cordless-car-camping): Brew fresh espresso anywhere with this cordless, self-heating portable coffee maker. Compatible with ground coffee & NS/DG capsules. Perfect for car, camping & office.
-  Updated: 2026-09-29T09:34:34Z
+  Updated: 2026-10-14T20:06:36Z
   Vendor: OZKA HOME
   Product Type: 3D Sleep Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/94dbc818-e9d5-49f1-a11f-df0450bdd750.jpg?v=1782571071
-  Price: $55.93 USD
+  Price: $67.12 USD
 - [Premium Velvet Hangers – Non-Slip & Space-Saving | OZKA HOME](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving): Durable non-slip velvet hangers in beige, grey & black. Slim, space-saving design for closets. Available in 10 or 20 packs.
-  Updated: 2026-09-29T09:34:36Z
+  Updated: 2026-10-19T18:43:25Z
   Vendor: OZKA HOME
   Product Type: Hangers
   Availability: Available
@@ -1294,37 +1273,37 @@
   - [Grey-20Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356367543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S66ccf29c3cdb4cb88aaa8c94598da0bdc.webp?v=1782594827
-    Price: $38.13 USD
+    Price: $40.38 USD
   - [Beige-20Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356400311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2cb450ec13eb4d129913eb63917e4fdbU.webp?v=1782594827
-    Price: $34.50 USD
+    Price: $36.50 USD
   - [Random Color-20Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356433079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5fd7482583004a55aaf7aacac04c0cd0A.webp?v=1782594827
-    Price: $38.65 USD
+    Price: $40.90 USD
   - [Grey-10Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356465847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd7514c11540d4fc185669c1453e7dcd5Y.webp?v=1782594827
-    Price: $20.48 USD
+    Price: $21.70 USD
   - [Beige-10Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356498615)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S379339424fd24e39a8ab26d6646330b58.webp?v=1782594827
-    Price: $18.62 USD
+    Price: $19.70 USD
   - [Black-20Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356531383)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S736f75f9ee0e431db4d10f2dda981165v.webp?v=1782594827
-    Price: $37.96 USD
+    Price: $40.18 USD
   - [Random Color-10Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356564151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S600cdbaca9d2465b92c436a7ee0888d9i.webp?v=1782594827
-    Price: $19.51 USD
+    Price: $20.66 USD
   - [Black-10Pcs](https://www.ozkahome.com/products/premium-velvet-hangers-non-slip-space-saving?variant=48762356596919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S573da1c68f704bfda3674d15aa8ef195i.webp?v=1782594827
-    Price: $19.86 USD
+    Price: $20.98 USD
 - [Oil & Vinegar Spray Bottle – Leakproof Push-Pump Mister](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking): Push-pump oil spray bottle for BBQ, baking & cooking. Leakproof, no propellants. Fits oil, vinegar, soy sauce & more. 100ml glass + ABS.
-  Updated: 2026-10-04T21:05:56Z
+  Updated: 2026-10-16T23:07:57Z
   Vendor: OZKA HOME
   Product Type: Kitchen Gadgets
   Availability: Available
@@ -1332,21 +1311,21 @@
   - [Silver](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking?variant=48762379829431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1087922299528.jpg?v=1784110788
-    Price: $15.02 USD
+    Price: $18.02 USD
   - [Gold](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking?variant=48762379862199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1419958605556.jpg?v=1784110779
-    Price: $6.26 USD
+    Price: $7.51 USD
   - [Rose gold](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking?variant=48762379894967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/11774326331848.jpg?v=1784110785
-    Price: $6.26 USD
+    Price: $7.51 USD
   - [Silver 2PCS](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking?variant=48762379927735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/884ba26d-f441-426b-8cb6-500b40b2564c.jpg?v=1782596649
-    Price: $12.05 USD
+    Price: $14.46 USD
 - [Kids Velvet Non-Slip Hangers Pack of 10 | Slim 360° Swivel – OZKA HOME](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10): Space-saving children's velvet hangers with 360° swivel hooks. Slim, durable & non-slip. Pack of 10 in Beige, Gray, Pink & White. Perfect for kids' wardrobes.
-  Updated: 2026-09-29T09:32:26Z
+  Updated: 2026-10-19T18:43:23Z
   Vendor: OZKA HOME
   Product Type: Hangers & Hooks
   Availability: Available
@@ -1354,62 +1333,21 @@
   - [Beige](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796193463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S42a72521be4545e49d3269d80e1f30ddL.webp?v=1782638580
-    Price: $21.30 USD
+    Price: $22.50 USD
   - [Gray](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796226231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S694affccada246a285c27742f1145649s.webp?v=1782638580
-    Price: $21.72 USD
+    Price: $22.98 USD
   - [Pink](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796258999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S86ae7ec274c54a89aa45a6e8c1e0d78a4.webp?v=1782638580
-    Price: $21.20 USD
+    Price: $22.44 USD
   - [White](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796291767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seb3207140b4945d5b1907e82a9a080255.webp?v=1782638579
-    Price: $21.24 USD
-- [8-Pack Airtight Glass Food Storage Containers | OZKA HOME](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack): Shop 8-pack airtight borosilicate glass food storage containers. Leakproof, microwave, oven & refrigerator safe. Perfect for meal prep and office lunch boxes.
-  Updated: 2026-09-29T09:31:39Z
-  Vendor: OZKA HOME
-  Product Type: Food Storage Containers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf2cd54eb25d141c88c44eac8020f8c7eZ.webp?v=1782639622
-  - [United States / Green](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807367351)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf2cd54eb25d141c88c44eac8020f8c7eZ.webp?v=1782639622
-    Price: $77.03 USD
-  - [United States / White](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807400119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S14efb027775442a2a2888fa70d35a66aL.webp?v=1782639622
-    Price: $111.70 USD
-  - [United States / Pink](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807432887)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saeb0b8954a2942da905503f6be19acd1R.webp?v=1782639622
-    Price: $109.78 USD
-  - [United States / GrassGreen](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807465655)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S045a5e5279ae42fe9299b1d416d8faceb.webp?v=1782639622
-    Price: $107.84 USD
-  - [United States / Blue](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807498423)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8998434e6a344cbeb43777d519a8c7a2G.webp?v=1782639622
-    Price: $100.15 USD
-  - [United States / Multi-colors](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807531191)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sda31240e3b0840a183be5094f2229760P.webp?v=1782639622
-    Price: $103.99 USD
-  - [United States / Grey](https://www.ozkahome.com/products/airtight-glass-food-storage-containers-8-pack?variant=48763807563959)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb61bff71ab134e58a6269dc05d4152ef3.webp?v=1782639622
-    Price: $103.99 USD
-- [Stackable Shower Caddy Organizer with Handles | OZKA HOME](https://www.ozkahome.com/products/stackable-shower-caddy-bathroom-organizer): Organize your bathroom with a stackable shower caddy featuring handles and waterproof plastic. Portable, multi-functional, and easy to clean.
-  Updated: 2026-09-29T09:35:17Z
-  Vendor: OZKA HOME
-  Product Type: Bathroom Organizer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf2f43600e27b47d2b3d21d7ee70d8471z.webp?v=1782842838
-  Price: $25.16 USD
+    Price: $22.50 USD
 - [2-Tier Slide-Out Under Sink Cabinet Organizer & Shelf | OZKA HOME](https://www.ozkahome.com/products/2-tier-slide-out-under-sink-cabinet-organizer): Organize under your sink with a 2-tier slide-out metal cabinet organizer. Durable, multi-purpose storage shelf in Black & White. Easy to install.
-  Updated: 2026-09-29T09:30:53Z
+  Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
   Product Type: Home Organizers
   Availability: Available
@@ -1417,13 +1355,13 @@
   - [WHITE](https://www.ozkahome.com/products/2-tier-slide-out-under-sink-cabinet-organizer?variant=48773949358263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sdabde50f6f284501bd064d40f017fa8ft.webp?v=1782844561
-    Price: $41.02 USD
+    Price: $43.38 USD
   - [black](https://www.ozkahome.com/products/2-tier-slide-out-under-sink-cabinet-organizer?variant=48773949391031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S977e66a82be84efebe966aabb8512f02e.webp?v=1782844561
-    Price: $45.75 USD
+    Price: $48.38 USD
 - [2-Tier Pull-Out Under Sink Organizer with Drawer | OZKA HOME](https://www.ozkahome.com/products/2-tier-pull-out-under-sink-organizer-drawer): Maximize cabinet space with a 2-tier pull-out under sink organizer. Smooth gliding rails, large capacity drawer, stainless steel. Black & White.
-  Updated: 2026-09-29T09:30:50Z
+  Updated: 2026-10-19T18:44:16Z
   Vendor: OZKA HOME
   Product Type: Home Organizers
   Availability: Available
@@ -1431,27 +1369,27 @@
   - [black](https://www.ozkahome.com/products/2-tier-pull-out-under-sink-organizer-drawer?variant=48773961187511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd2a3faeaf24144ef8823f81a6e1142a4O.webp?v=1782844763
-    Price: $35.72 USD
+    Price: $37.98 USD
   - [WHITE](https://www.ozkahome.com/products/2-tier-pull-out-under-sink-organizer-drawer?variant=48773961220279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S98e46279ce1e4c0db54779214a7eac18N.webp?v=1782844764
-    Price: $36.29 USD
+    Price: $38.58 USD
 - [50-Cube Double Layer Ice Cube Tray with Easy-Press Lid | OZKA HOME](https://www.ozkahome.com/products/double-layer-ice-cube-tray-50-cube): Make 50 ice cubes at once with this double-layer ice cube tray. Easy-press cap, fridge-friendly storage box & multi-purpose kitchen use. BPA-free plastic.
-  Updated: 2026-09-29T09:31:01Z
+  Updated: 2026-10-19T18:01:36Z
   Vendor: OZKA HOME
   Product Type: Ice Cube Tray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sde1c96b9bcec476596d586d00a6ae6a0U.webp?v=1782845848
-  Price: $56.09 USD
+  Price: $67.31 USD
 - [Dyson Soft Roller Brush Head V7 V8 V10 V11 V15 | Dust Detection](https://www.ozkahome.com/products/dyson-soft-roller-brush-head-v7-v8-v10-v11-v15): Replacement soft roller brush head for Dyson V7, V8, V10, V11 & V15. Gentle on hardwood floors, 120° rotation, optical dust detection. Washable & durable.
-  Updated: 2026-09-29T09:35:17Z
+  Updated: 2026-10-19T18:44:46Z
   Vendor: OZKA HOME
   Product Type: Vacuum Cleaner Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3c355ff3df6f4a9e9a91ca4347534b8dl.webp?v=1782846025
-  Price: $81.42 USD
+  Price: $75.98 USD
 - [Stainless Steel Pet Bowl with Wooden Base | Non-Slip | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip): Premium stainless steel pet bowl with wooden base. Non-slip, hygienic, and available in 6 sizes for cats and dogs. Perfect for modern homes.
-  Updated: 2026-09-29T09:35:11Z
+  Updated: 2026-10-19T18:43:27Z
   Vendor: OZKA HOME
   Product Type: Pet Supplies
   Availability: Available
@@ -1459,29 +1397,29 @@
   - [S / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003556535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
   - [M / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003589303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
   - [L / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003622071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
   - [Xl / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003654839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
   - [Xxl / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003687607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
   - [Xxxl / AS SHOWN / CUSTOMISED](https://www.ozkahome.com/products/stainless-steel-pet-bowl-wooden-base-non-slip?variant=48774003720375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Acb1d3c62b71d4ae6842ac796a9d88297I.jpg_100x100_7435d669-8027-48f4-a219-f3b27e890e00.webp?v=1782846091
-    Price: $28.50 USD
+    Price: $30.00 USD
 - [3-in-1 Portable Air Cooler Fan & Humidifier with LED Light | OZKA HOME](https://www.ozkahome.com/products/3-in-1-portable-air-cooler-fan-humidifier-led): Compact 3-in-1 USB air cooler fan with humidifier, 7-color LED light, 600ml tank, and 3 speed settings. Perfect for home, office, and travel.
-  Updated: 2026-09-29T09:30:59Z
+  Updated: 2026-10-14T10:25:25Z
   Vendor: OZKA HOME
   Product Type: Home Appliances
   Availability: Available
@@ -1489,13 +1427,13 @@
   - [United States / black](https://www.ozkahome.com/products/3-in-1-portable-air-cooler-fan-humidifier-led?variant=48774009913527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd33f70d32b034ab3811bd91f752cebdan.webp?v=1782846304
-    Price: $47.99 USD
+    Price: $57.59 USD
   - [United States / WHITE](https://www.ozkahome.com/products/3-in-1-portable-air-cooler-fan-humidifier-led?variant=48774009946295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1f0fab2623404863a6d2b019eceb09ceY.webp?v=1782846304
-    Price: $49.63 USD
+    Price: $59.56 USD
 - [Portable Handheld Fan USB Rechargeable | 6 Blades 199 Speed - OZKA HOME](https://www.ozkahome.com/products/portable-handheld-fan-usb-rechargeable-6-blades-199-speed): Stay cool anywhere with this USB-powered handheld fan. 6 blades, 199 speed levels, compact & foldable design. Perfect for home, office & travel.
-  Updated: 2026-09-29T09:34:35Z
+  Updated: 2026-10-19T18:44:16Z
   Vendor: OZKA HOME
   Product Type: Handheld Fan
   Availability: Available
@@ -1503,17 +1441,17 @@
   - [T13 Star Grey Fan](https://www.ozkahome.com/products/portable-handheld-fan-usb-rechargeable-6-blades-199-speed?variant=48776617197751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S61fa5e6e6fbc4d9e81b31efc55e6dd69K.webp?v=1782905259
-    Price: $14.92 USD
+    Price: $15.78 USD
   - [T13 Beige Fan](https://www.ozkahome.com/products/portable-handheld-fan-usb-rechargeable-6-blades-199-speed?variant=48776617230519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S93c607f44c85494d942c2cc7dfba706cm.webp?v=1782905259
-    Price: $15.33 USD
+    Price: $16.24 USD
   - [T13 Pink Fan](https://www.ozkahome.com/products/portable-handheld-fan-usb-rechargeable-6-blades-199-speed?variant=48776617263287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8c7aa74946b042d1938d0bcadfe0a779g.webp?v=1782905259
-    Price: $14.80 USD
+    Price: $16.30 USD
 - [USB Mini Fan with LCD Display | Desk & Hanging | OZKA HOME](https://www.ozkahome.com/products/usb-mini-fan-lcd-display-desk-hanging): Compact USB mini fan with LCD display, 3 wind modes (Natural, Sleep, Prevailing). Works via USB charging or plug-in. Available in black & white. 5W, 5V.
-  Updated: 2026-09-29T09:35:58Z
+  Updated: 2026-10-19T18:44:17Z
   Vendor: OZKA HOME
   Product Type: Fan
   Availability: Available
@@ -1521,21 +1459,21 @@
   - [black USB charging](https://www.ozkahome.com/products/usb-mini-fan-lcd-display-desk-hanging?variant=48776624963767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2bd3ba5b85614c318938cc7e3396386aP.webp?v=1782905501
-    Price: $24.40 USD
+    Price: $24.72 USD
   - [black USB plug-in](https://www.ozkahome.com/products/usb-mini-fan-lcd-display-desk-hanging?variant=48776624996535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se774469b29684b9f8434fc56a93385525.webp?v=1782905501
-    Price: $22.74 USD
+    Price: $23.50 USD
   - [white USB charging](https://www.ozkahome.com/products/usb-mini-fan-lcd-display-desk-hanging?variant=48776625029303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa038ea20a99f486ba3b0f152e644910fv.webp?v=1782905501
-    Price: $25.90 USD
+    Price: $26.84 USD
   - [white USB plug-in](https://www.ozkahome.com/products/usb-mini-fan-lcd-display-desk-hanging?variant=48776625062071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5a061a08a12e4717add07d178e216b6cJ.webp?v=1782905501
-    Price: $22.57 USD
+    Price: $23.38 USD
 - [8-in-1 Dog Shower Sprayer | Pet Bath Gun Foam Nozzle - OZKA HOME](https://www.ozkahome.com/products/8-in-1-dog-shower-sprayer-pet-bath-gun): 8-in-1 pet shower sprayer with foam nozzle, 8 spray modes & 4 faucet connectors. Perfect for dog & cat bathing, car wash & garden. ABS plastic, up to 116 PSI.
-  Updated: 2026-09-29T09:31:43Z
+  Updated: 2026-10-19T18:43:30Z
   Vendor: OZKA HOME
   Product Type: Pet Grooming
   Availability: Available
@@ -1543,13 +1481,13 @@
   - [Green Suit / China Mainland](https://www.ozkahome.com/products/8-in-1-dog-shower-sprayer-pet-bath-gun?variant=48779221729463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0a7819e4febc4ca794e7dc6943157991Q.webp?v=1782969314
-    Price: $17.94 USD
+    Price: $19.50 USD
   - [1 water gun / China Mainland](https://www.ozkahome.com/products/8-in-1-dog-shower-sprayer-pet-bath-gun?variant=48779221762231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S38340bd79c084a05bef9259284323ad9G.webp?v=1782969314
-    Price: $14.27 USD
+    Price: $15.38 USD
 - [Non-Stick Air Fryer Parchment Paper Liners | Round & Square | 50/100/200 Pack | OZKA HOME](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square): Keep your air fryer basket clean with these FDA  non-stick parchment paper liners. Available in round and square, 50 to 200 piece packs. Heat resistant to 230 degrees.
-  Updated: 2026-09-29T09:31:44Z
+  Updated: 2026-10-19T18:43:32Z
   Vendor: OZKA HOME
   Product Type: Kitchen Accessories
   Availability: Available
@@ -1557,29 +1495,29 @@
   - [Round – 200 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779518869687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5eb2c8ff8530459aa3019e6b9fdc9d41J.webp?v=1782974754
-    Price: $13.28 USD
+    Price: $14.10 USD
   - [Square – 50 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779518902455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa7302dc578224df89e65d1ae4a061b63A.webp?v=1782974754
-    Price: $5.23 USD
+    Price: $5.50 USD
   - [Round – 50 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779518935223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S341e8c12a4534b1b924fd5fbe016d37ce.webp?v=1782974754
-    Price: $4.58 USD
+    Price: $5.70 USD
   - [Round – 100 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779518967991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6b39c47003234252b49b35f9562c6d39m.webp?v=1782974754
-    Price: $7.35 USD
+    Price: $7.78 USD
   - [Square – 100 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779519000759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9f3c64aaf31843c3afc98bab94ee46ccm.webp?v=1782974754
-    Price: $8.09 USD
+    Price: $8.50 USD
   - [Square – 200 pcs](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square?variant=48779519033527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3c383609a86c44ec95132beeb4f0a9ffj.webp?v=1782974754
-    Price: $14.29 USD
+    Price: $15.10 USD
 - [KH-51 Auto Power Disconnector 140W | Fast Charge Cut-Off - OZKA HOME](https://www.ozkahome.com/products/kh-51-auto-power-disconnector-140w-fast-charging): KUWAJIA KH-51 auto power disconnector stops charging when full. 140W, Type-C, 5-28V, CE & RoHS . Protects phone, tablet & laptop batteries.
-  Updated: 2026-09-29T09:33:52Z
+  Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
   Product Type: Phone Accessories
   Availability: Available
@@ -1587,28 +1525,28 @@
   - [KH-51 Add 240w Cable](https://www.ozkahome.com/products/kh-51-auto-power-disconnector-140w-fast-charging?variant=48779622318263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb2b03d96ba2e4c669d23b80dff27a5afo_9eec29ff-9d1a-4a53-880e-eeee102597a3.webp?v=1782977144
-    Price: $38.93 USD
+    Price: $42.66 USD
   - [KH-51 1Pcs](https://www.ozkahome.com/products/kh-51-auto-power-disconnector-140w-fast-charging?variant=48779622351031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd028d50d16f44687a8f9fbc3696c20202_1c19a6fb-0085-4665-8f97-b7665febccf0.webp?v=1782977144
-    Price: $36.39 USD
+    Price: $39.70 USD
   - [KH-51 2Pcs](https://www.ozkahome.com/products/kh-51-auto-power-disconnector-140w-fast-charging?variant=48779622383799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6468908ac57d47689a0b5644904c61c4M_8d279922-a6b0-4f5c-b8a4-0f9c17989a4c.webp?v=1782977144
-    Price: $63.99 USD
+    Price: $69.78 USD
   - [KH-51 4Pcs](https://www.ozkahome.com/products/kh-51-auto-power-disconnector-140w-fast-charging?variant=48779622416567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saf927c3036904632aad5109258b55db21.webp?v=1782977145
-    Price: $121.07 USD
+    Price: $131.98 USD
 - [TP300 Digital Food Thermometer | Instant Read BBQ Probe - OZKA HOME](https://www.ozkahome.com/products/tp300-digital-food-thermometer): TP300 digital kitchen thermometer with instant LCD readout. Measures -50°C to 300°C. Perfect for meat, BBQ, baking, oil & liquids. Compact & portable.
-  Updated: 2026-09-29T09:35:26Z
+  Updated: 2026-10-19T18:44:41Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc32fdfe302d64e9ea4a12169a7cfdefdi.webp?v=1782977943
-  Price: $5.09 USD
+  Price: $5.38 USD
 - [Women's Electric Shaver | 2-in-1 Bikini & Body Trimmer - OZKA HOME](https://www.ozkahome.com/products/womens-electric-shaver-2-in-1-bikini-body-trimmer): IPX7 waterproof women's electric shaver with dual blades. Trims bikini, underarms & legs. USB rechargeable, 60 min runtime, 3 comb guides. Painless & safe.
-  Updated: 2026-09-29T09:36:12Z
+  Updated: 2026-10-19T18:44:16Z
   Vendor: OZKA HOME
   Product Type: Personal Care Appliances
   Availability: Available
@@ -1616,31 +1554,24 @@
   - [Purple](https://www.ozkahome.com/products/womens-electric-shaver-2-in-1-bikini-body-trimmer?variant=48779679236279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S51d1de2ccc254e27b9493cc183fce618e.webp?v=1782979303
-    Price: $32.70 USD
+    Price: $34.58 USD
   - [Pink](https://www.ozkahome.com/products/womens-electric-shaver-2-in-1-bikini-body-trimmer?variant=48779679269047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3c68a09b07b04b56bf7a6005467f197e7.webp?v=1782979303
-    Price: $32.83 USD
+    Price: $34.78 USD
   - [Blue](https://www.ozkahome.com/products/womens-electric-shaver-2-in-1-bikini-body-trimmer?variant=48779679301815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se02dcb89877346b189219e50adcf7f8ar.webp?v=1782979303
-    Price: $32.81 USD
+    Price: $34.78 USD
 - [Home Ice Cream Maker Machine | 2 Bowls Easy Clean - OZKA HOME](https://www.ozkahome.com/products/home-ice-cream-maker-machine-2-bowls): Make homemade ice cream effortlessly with this 2-bowl ice cream maker. Simple operation, easy to clean, 5W, 230V. Perfect for families. White & green.
-  Updated: 2026-09-29T09:32:55Z
+  Updated: 2026-10-14T10:26:01Z
   Vendor: OZKA HOME
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa6cd0087c76a424da4a8a9fc30dc90b5K_4684646c-961c-4f30-803f-a265f9be1c10.webp?v=1782985066
-  Price: $109.76 USD
-- [Collapsible Car Trunk Organizer – Large Waterproof Storage Box | OZKA HOME](https://www.ozkahome.com/products/collapsible-car-trunk-organizer-large-waterproof-storage-box): Keep your car boot tidy with this large collapsible trunk organizer. Waterproof oxford fabric, 2 compartments, 6 pockets & foldable design. Universal fit.
-  Updated: 2026-09-29T09:32:26Z
-  Vendor: OZKA HOME
-  Product Type: Car Trunk Organizer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6aa62da51eb446ceace65772ab61355dK.webp?v=1783001507
-  Price: $20.05 USD
+  Price: $131.71 USD
 - [Foldable Closet Drawer Organizer | 7 & 9 Grid Wardrobe](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box): Organize your wardrobe with this foldable 7 or 9-grid drawer organizer. Perfect for clothes, underwear, bras & socks. Non-woven fabric, stackable & space-saving.
-  Updated: 2026-09-29T09:32:59Z
+  Updated: 2026-10-19T18:44:13Z
   Vendor: OZKA HOME
   Product Type: Drawer Organizer
   Availability: Available
@@ -1648,40 +1579,40 @@
   - [1pc-7grids-M / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056679095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5e320a0295454fbcaf1e5706897d2c48Z.webp?v=1783073080
-    Price: $7.92 USD
+    Price: $8.38 USD
   - [2pcs-7grids-L / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056711863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S04002eeb9f394d048d63fdf00562b6e0v.webp?v=1783073080
-    Price: $16.30 USD
+    Price: $17.30 USD
   - [2pcs-7grids-M / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056744631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sdb0433050ac3436c8d00cef5fd8eaefej.webp?v=1783073080
-    Price: $14.06 USD
+    Price: $14.90 USD
   - [1pc-9grids / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056777399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se4778a416cb74b15b7ca1237cfc587ccf.webp?v=1783073080
-    Price: $15.54 USD
+    Price: $16.44 USD
   - [1pc-7grids-L / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056810167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5dc2ba8baffa49cfa32830263bcaa457i.webp?v=1783073080
-    Price: $11.36 USD
+    Price: $11.98 USD
   - [3pcs-mix / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056842935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7acfa0b0195a4d3aa8966ca8c3cb64576.webp?v=1783073080
-    Price: $18.81 USD
+    Price: $19.90 USD
   - [2pcs-9grids / China Mainland](https://www.ozkahome.com/products/foldable-closet-drawer-organizer-wardrobe-storage-box?variant=48791056875703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S713aa5c997a34a05b7048c47abac638bj.webp?v=1783073080
-    Price: $18.03 USD
+    Price: $19.10 USD
 - [Cordless Electric Pruning Shears – Battery Powered | OZKA HOME](https://www.ozkahome.com/products/cordless-electric-pruning-shears): Professional cordless electric pruning shears with lithium battery. Cuts branches up to 30mm. Lightweight aluminum alloy & manganese steel design. Shop now.
-  Updated: 2026-09-29T09:32:20Z
+  Updated: 2026-10-19T18:44:41Z
   Vendor: OZKA HOME
   Product Type: Garden Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5dadc447296f455e9bde5645de9f35fdd.webp?v=1783108223
-  Price: $24.38 USD
+  Price: $14.10 USD
 - [46-in-1 Electric Screwdriver Set | Cordless Mini Kit | OZKA HOME](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit): Shop the 46-in-1 cordless electric screwdriver set with 38 CRV bits, brushless motor & USB-C charging. Perfect for phone, PC & home DIY repairs.
-  Updated: 2026-09-29T09:31:00Z
+  Updated: 2026-10-19T18:44:40Z
   Vendor: OZKA HOME
   Product Type: Electric Screwdriver
   Availability: Available
@@ -1689,25 +1620,25 @@
   - [red](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit?variant=48795670708407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S350a5be6bfca4e939685d229904cd664M.webp?v=1783112124
-    Price: $54.53 USD
+    Price: $57.40 USD
   - [orange](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit?variant=48795670741175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S98daced1db674a6eab11eb75add8ca3aq.webp?v=1783112124
-    Price: $54.59 USD
+    Price: $57.46 USD
   - [blue](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit?variant=48795670773943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S59876fe0d3f04043bc399aa4532fde40q.webp?v=1783112124
-    Price: $54.68 USD
+    Price: $57.56 USD
   - [black](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit?variant=48795670806711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se96ab8148a2245febddbc7855631851cx.webp?v=1783112124
-    Price: $54.72 USD
+    Price: $57.60 USD
   - [gray](https://www.ozkahome.com/products/46-in-1-electric-screwdriver-set-cordless-precision-kit?variant=48795670839479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0dbac60f251141f495a88b0d5804be5bF.webp?v=1783112124
-    Price: $54.53 USD
+    Price: $57.40 USD
 - [Portable Neck Fan – USB Rechargeable Bladeless Fan | OZKA HOME](https://www.ozkahome.com/products/portable-hanging-neck-fan-usb-rechargeable-bladeless): Stay cool hands-free with our 5-speed bladeless neck fan. USB Type-C rechargeable, LED display, ultra-quiet. Perfect for home, office & outdoor use.
-  Updated: 2026-09-29T09:34:33Z
+  Updated: 2026-10-19T18:43:39Z
   Vendor: OZKA HOME
   Product Type: Neck Fan
   Availability: Available
@@ -1715,28 +1646,28 @@
   - [Pink](https://www.ozkahome.com/products/portable-hanging-neck-fan-usb-rechargeable-bladeless?variant=48848479584439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S4278065536104dfebebea151760a6f59N.webp?v=1783323700
-    Price: $24.49 USD
+    Price: $25.78 USD
   - [WHITE](https://www.ozkahome.com/products/portable-hanging-neck-fan-usb-rechargeable-bladeless?variant=48848479617207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S4b195d8b1f11432e98edcdc9c75e5f8be.webp?v=1783323700
-    Price: $23.79 USD
+    Price: $25.04 USD
   - [Blue](https://www.ozkahome.com/products/portable-hanging-neck-fan-usb-rechargeable-bladeless?variant=48848479649975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf86fe234fa3c4a5399df3d3cfa07666dG.webp?v=1783323701
-    Price: $24.13 USD
+    Price: $25.40 USD
   - [black](https://www.ozkahome.com/products/portable-hanging-neck-fan-usb-rechargeable-bladeless?variant=48848479682743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2b60756be2f84b018ada7b241eefcacci.webp?v=1783323700
-    Price: $23.88 USD
+    Price: $25.14 USD
 - [Stainless Steel Julienne Peeler & Grater | 2-in-1 Vegetable Slicer | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater-vegetable-slicer): 2-in-1 stainless steel julienne peeler and grater for potatoes, cucumbers, carrots & more. Sharp, durable, dishwasher safe. 18x5.5cm.
-  Updated: 2026-09-29T09:35:19Z
+  Updated: 2026-10-19T18:44:16Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S66ee0339932b4808b349e599d1a370a8z.webp?v=1783332044
-  Price: $2.19 USD
+  Price: $2.28 USD
 - [USB Mug Warmer | 3-Temp Electric Coffee Cup Heater | OZKA HOME](https://www.ozkahome.com/products/usb-mug-warmer-electric-coffee-cup-heater): Keep coffee, tea & milk warm with this USB mug warmer. 3 temperature settings, waterproof design, lightweight. Perfect for office or home use.
-  Updated: 2026-09-29T09:36:06Z
+  Updated: 2026-10-19T18:43:38Z
   Vendor: OZKA HOME
   Product Type: Kitchen Appliances
   Availability: Available
@@ -1744,13 +1675,13 @@
   - [black](https://www.ozkahome.com/products/usb-mug-warmer-electric-coffee-cup-heater?variant=48849280008375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sbf28b17cdbf048e2be844aa693853c69J.webp?v=1783332425
-    Price: $13.15 USD
+    Price: $14.90 USD
   - [black add 1m cable](https://www.ozkahome.com/products/usb-mug-warmer-electric-coffee-cup-heater?variant=48849280041143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sbb6e7a1ba2874fd3a8a8e2b64c79968aE.webp?v=1783332426
-    Price: $14.60 USD
+    Price: $16.50 USD
 - [Portable Car Electric Kettle 12V/24V 500ml | Travel Heating Cup | OZKA HOME](https://www.ozkahome.com/products/portable-car-electric-kettle-12v-24v-500ml-travel-heating-cup): 12V/24V car electric kettle with touch screen, 3 modes & adjustable 30–100°C. 500ml, boils in 15 min. Perfect for road trips & travel.
-  Updated: 2026-10-05T03:56:10Z
+  Updated: 2026-10-19T18:44:20Z
   Vendor: OZKA HOME
   Product Type: Travel Accessories
   Availability: Available
@@ -1758,21 +1689,21 @@
   - [White-Storage Bag / China Mainland](https://www.ozkahome.com/products/portable-car-electric-kettle-12v-24v-500ml-travel-heating-cup?variant=48849428250807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2dfcd7989f9441deac7b81af95fc758cg.webp?v=1783338910
-    Price: $60.08 USD
+    Price: $64.58 USD
   - [White-R1W / China Mainland](https://www.ozkahome.com/products/portable-car-electric-kettle-12v-24v-500ml-travel-heating-cup?variant=48849428283575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9b5ac28324c64c50a04fcdbb78d18d53U.webp?v=1783338910
-    Price: $58.22 USD
+    Price: $62.98 USD
   - [Black-Storage Bag / China Mainland](https://www.ozkahome.com/products/portable-car-electric-kettle-12v-24v-500ml-travel-heating-cup?variant=48849428316343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9a9b9f791b1540189881121fbec83b9fF.webp?v=1783338910
-    Price: $51.53 USD
+    Price: $55.78 USD
   - [Black-R1B / China Mainland](https://www.ozkahome.com/products/portable-car-electric-kettle-12v-24v-500ml-travel-heating-cup?variant=48849428349111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1c6d2b35024749bbad01fd8908255d8ax.webp?v=1783338910
-    Price: $49.69 USD
+    Price: $53.78 USD
 - [Ultrasonic Aroma Diffuser & Essential Oil | USB Aromatherapy Machine | OZKA HOME](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil): USB rechargeable ultrasonic aroma diffuser with 5 fragrance modes & colorful LED. Covers 60m². Choose diffuser machine or essential oil scent.
-  Updated: 2026-09-29T09:35:27Z
+  Updated: 2026-10-19T18:43:57Z
   Vendor: OZKA HOME
   Product Type: Home Fragrance
   Availability: Available
@@ -1780,32 +1711,32 @@
   - [Hilton  Oil](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil?variant=48849434804407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa23b410f73684da3b36d6e2351c41dbaT.webp?v=1783339047
-    Price: $6.95 USD
+    Price: $7.38 USD
   - [Diffuser Machine](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil?variant=48849434837175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd69d0c67f1d44cf695f1de789eaabafax.webp?v=1783339047
-    Price: $9.52 USD
+    Price: $9.70 USD
   - [Shangri-La Oil](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil?variant=48849434869943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd9324565f79a4ac090fd75f661098f12J.webp?v=1783339047
-    Price: $6.80 USD
+    Price: $7.50 USD
   - [Real Me Oil](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil?variant=48849434902711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf71fcfc75b3648c2be1de0f55529a02c0.webp?v=1783339047
-    Price: $6.46 USD
+    Price: $6.90 USD
   - [Jasmine Oil](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil?variant=48849434935479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S193b9ca0a88a4c68826cac088255a873P.webp?v=1783339047
-    Price: $6.99 USD
+    Price: $7.64 USD
 - [9000Pa Cordless Car Vacuum Cleaner | USB Handheld Mini Vacuum | OZKA HOME](https://www.ozkahome.com/products/9000pa-cordless-car-vacuum-cleaner-usb-handheld): 9000Pa suction cordless handheld vacuum cleaner. USB rechargeable 1200mAh, 25-min runtime. Cleans car, sofa, keyboard & more. Wet & dry.
-  Updated: 2026-09-29T09:31:45Z
+  Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
   Product Type: Car Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc6f0477ef8d541938cab77559c45e7bbK.webp?v=1783339128
-  Price: $10.45 USD
+  Price: $10.98 USD
 - [Rivet Nut Gun Head – M3 M4 M5 M6 M8 M10 M12 Steel Rivnut](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool): Steel rivet nut gun head for M3, M4, M5, M6, M8, M10 & M12 nuts. Compatible with hand riveters, electric drills & pneumatic screwdrivers. Easy install.
-  Updated: 2026-09-29T09:35:10Z
+  Updated: 2026-10-19T18:43:54Z
   Vendor: OZKA HOME
   Product Type: Power Tools
   Availability: Available
@@ -1813,33 +1744,33 @@
   - [M6](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851641860279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.07 USD
+    Price: $7.50 USD
   - [M3](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851641893047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.07 USD
+    Price: $7.50 USD
   - [M4](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851641925815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.01 USD
+    Price: $7.38 USD
   - [M12](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851641958583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.85 USD
+    Price: $8.30 USD
   - [M8](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851641991351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.11 USD
+    Price: $7.50 USD
   - [M10](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851642024119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $7.94 USD
+    Price: $8.10 USD
   - [M5](https://www.ozkahome.com/products/rivet-nut-gun-head-m3-m12-steel-rivnut-tool?variant=48851642056887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se7834585c7c64edab04ff8e5c4f0da525.webp?v=1783403467
-    Price: $6.99 USD
+    Price: $7.38 USD
 - [Impact Screwdriver Set 7 & 13 Piece | Manual DIY Kit – OZKA HOME](https://www.ozkahome.com/products/professional-impact-screwdriver-set-manual-diy-kit): Shop our professional impact screwdriver set in 7 or 13 pieces. Perfect for DIY projects, nut driving & stubborn screws. Durable manual tool kit.
-  Updated: 2026-09-29T09:34:31Z
+  Updated: 2026-10-19T18:44:12Z
   Vendor: OZKA HOME
   Product Type: Screwdriver Sets
   Availability: Available
@@ -1847,13 +1778,13 @@
   - [13pcs](https://www.ozkahome.com/products/professional-impact-screwdriver-set-manual-diy-kit?variant=48851846922423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S60cace9890cd41d8b869213a1ab14873m.webp?v=1783409486
-    Price: $50.50 USD
+    Price: $53.38 USD
   - [7pcs](https://www.ozkahome.com/products/professional-impact-screwdriver-set-manual-diy-kit?variant=48851846955191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S92f405071b6648afa92780754c7e7735M.webp?v=1783409486
-    Price: $32.89 USD
+    Price: $34.78 USD
 - [Touchless Automatic Soap Dispenser | USB Rechargeable – OZKA HOME](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable): Hands-free automatic soap dispenser with infrared sensor. USB rechargeable, foam & liquid options. Perfect for bathroom & kitchen. Hygienic & stylish.
-  Updated: 2026-09-29T09:35:28Z
+  Updated: 2026-10-19T18:44:55Z
   Vendor: OZKA HOME
   Product Type: Soap Dispensers
   Availability: Available
@@ -1861,29 +1792,29 @@
   - [Foam](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799829687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9f20cb3d29804d05890c76d15a7ddb2dd.webp?v=1783493222
-    Price: $46.65 USD
+    Price: $47.18 USD
   - [foma B](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799862455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S0bb0e6052dc14ffeb33f5e7068c90fcdm.webp?v=1783493222
-    Price: $34.14 USD
+    Price: $34.66 USD
   - [foma C](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799895223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf6008626e12f446d940eda1356d0e3695.webp?v=1783493222
-    Price: $33.00 USD
+    Price: $33.50 USD
   - [Liquid B](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799927991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se9f658cbe89d4f5492e4aa184c04dfa0F.webp?v=1783493223
-    Price: $34.01 USD
+    Price: $34.50 USD
   - [Liquid C](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799960759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8aeb68c9f42d4334a5291a82d36764fcL.webp?v=1783493222
-    Price: $32.81 USD
+    Price: $33.30 USD
   - [Liquid](https://www.ozkahome.com/products/touchless-automatic-soap-dispenser-usb-rechargeable?variant=48853799993527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S231ca615023c46f3b33a8d3ede6a6929v.webp?v=1783493222
-    Price: $47.79 USD
+    Price: $48.58 USD
 - [Silicone Sink Drainer Mat — Anti-Slip Faucet Splash Guard | OZKA HOME](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard): Food-grade silicone sink drainer mat with self-draining design. Anti-slip, reusable, easy to clean. Available in 35x8cm and 55x8cm. Black & Gray.
-  Updated: 2026-09-29T09:35:18Z
+  Updated: 2026-10-14T10:28:10Z
   Vendor: OZKA HOME
   Product Type: Kitchen Accessories
   Availability: Available
@@ -1891,39 +1822,21 @@
   - [35x8cm / Black / Strip](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard?variant=48853865103543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S242c9d027be54a6c8666fd7fadbe6338b.webp?v=1783500035
-    Price: $6.72 USD
+    Price: $8.06 USD
   - [55x8cm / Gray / Strip](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard?variant=48853865136311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S242c9d027be54a6c8666fd7fadbe6338b.webp?v=1783500035
-    Price: $9.38 USD
+    Price: $11.26 USD
   - [55x8cm / Black / Strip](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard?variant=48853865169079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S242c9d027be54a6c8666fd7fadbe6338b.webp?v=1783500035
-    Price: $9.34 USD
+    Price: $11.21 USD
   - [35x8cm / Gray / Strip](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard?variant=48853865201847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S242c9d027be54a6c8666fd7fadbe6338b.webp?v=1783500035
-    Price: $6.70 USD
-- [Quick-Dry Absorbent Kitchen Mat – Dish Drying Pad | OZKA HOME](https://www.ozkahome.com/products/quick-dry-absorbent-kitchen-mat-dish-drying-pad): Super absorbent, non-slip kitchen mat made from diatom mud. Quick-dry dish drying pad for counters, coffee bars & bathrooms. Available in 3 sizes. Shop now.
-  Updated: 2026-09-29T09:34:40Z
-  Vendor: OZKA HOME
-  Product Type: Kitchen Mat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd3b0d4b027ac4682b9be7158fe49f471u.webp?v=1783515757
-  - [black / 30x40cm](https://www.ozkahome.com/products/quick-dry-absorbent-kitchen-mat-dish-drying-pad?variant=48854211788983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd3b0d4b027ac4682b9be7158fe49f471u.webp?v=1783515757
-    Price: $9.16 USD
-  - [black / 20x30cm](https://www.ozkahome.com/products/quick-dry-absorbent-kitchen-mat-dish-drying-pad?variant=48854211821751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd3b0d4b027ac4682b9be7158fe49f471u.webp?v=1783515757
-    Price: $6.73 USD
-  - [black / 40x50cm](https://www.ozkahome.com/products/quick-dry-absorbent-kitchen-mat-dish-drying-pad?variant=48854211854519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd3b0d4b027ac4682b9be7158fe49f471u.webp?v=1783515757
-    Price: $13.22 USD
+    Price: $8.04 USD
 - [2-Pack Quick-Dry Towels – Fast Absorption, No Shedding | OZKA HOME](https://www.ozkahome.com/products/2-pack-quick-dry-towels-strong-absorption-no-shedding): Shop 2-pack quick-dry towels with ultra-fast absorption and no shedding. Perfect for home, beach & face. Durable 100% polyester. Order now at OZKA HOME.
-  Updated: 2026-09-29T09:31:01Z
+  Updated: 2026-10-19T18:43:49Z
   Vendor: OZKA HOME
   Product Type: Towels
   Availability: Available
@@ -1931,13 +1844,13 @@
   - [2 green towels / Other](https://www.ozkahome.com/products/2-pack-quick-dry-towels-strong-absorption-no-shedding?variant=48855143219383)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S82640280b73549e2bf134ab78e4890b78.webp?v=1783537447
-    Price: $8.70 USD
+    Price: $8.66 USD
   - [2 gray towels / Other](https://www.ozkahome.com/products/2-pack-quick-dry-towels-strong-absorption-no-shedding?variant=48855143252151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd4367c91ba8d4ff5a11a55193e2b9b5ff.webp?v=1783537447
-    Price: $8.11 USD
+    Price: $8.90 USD
 - [Punch-Free Towel Rack – Stainless Steel Self-Adhesive](https://www.ozkahome.com/products/punch-free-towel-rack-stainless-steel-self-adhesive): No-drill stainless steel towel rack with self-adhesive mounting. Available in 23cm & 37cm, black or brushed finish. Modern minimalist design for bathroom, kitchen & more.
-  Updated: 2026-09-29T09:34:38Z
+  Updated: 2026-10-19T18:01:41Z
   Vendor: OZKA HOME
   Product Type: Towel Racks
   Availability: Available
@@ -1945,21 +1858,21 @@
   - [23CM Black](https://www.ozkahome.com/products/punch-free-towel-rack-stainless-steel-self-adhesive?variant=48855888494775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2da523bc4ac743f985e18f7a10ee3069l.webp?v=1783578174
-    Price: $11.27 USD
+    Price: $13.52 USD
   - [37CM Stainless steel](https://www.ozkahome.com/products/punch-free-towel-rack-stainless-steel-self-adhesive?variant=48855888527543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sab2bf3dab5d74f65b50720c0127e128bM.webp?v=1783578174
-    Price: $38.54 USD
+    Price: $46.25 USD
   - [23CM Stainless steel](https://www.ozkahome.com/products/punch-free-towel-rack-stainless-steel-self-adhesive?variant=48855888560311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S221208d598eb44f9b20c78de253ebaf9w.webp?v=1783578174
-    Price: $10.53 USD
+    Price: $12.64 USD
   - [37CM Black](https://www.ozkahome.com/products/punch-free-towel-rack-stainless-steel-self-adhesive?variant=48855888593079)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd10ae1db18224d1190f7ee86febe7f26Z.webp?v=1783578174
-    Price: $14.91 USD
+    Price: $17.89 USD
 - [No Drill Shower Shelf – Strong Adhesive Bathroom Organizer | OZKA HOME](https://www.ozkahome.com/products/no-drill-shower-shelf-adhesive-bathroom-organizer): Organize your shower without drilling. This strong adhesive wall-mounted shelf holds shampoo, towels & toiletries. Waterproof, rustproof & easy to install. 1/2/3 PCS.
-  Updated: 2026-09-29T09:34:41Z
+  Updated: 2026-10-19T18:43:55Z
   Vendor: OZKA HOME
   Product Type: Bathroom Shelves
   Availability: Available
@@ -1967,31 +1880,17 @@
   - [2PCS](https://www.ozkahome.com/products/no-drill-shower-shelf-adhesive-bathroom-organizer?variant=48855911366839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S76c697a5064e4790ab311655d734b1f1J.webp?v=1783578444
-    Price: $13.97 USD
+    Price: $14.78 USD
   - [1PCS](https://www.ozkahome.com/products/no-drill-shower-shelf-adhesive-bathroom-organizer?variant=48855911399607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seaac1b95eb6840e28c6eee2f2fe6e0c5H.webp?v=1783578444
-    Price: $8.28 USD
+    Price: $8.78 USD
   - [3PCS](https://www.ozkahome.com/products/no-drill-shower-shelf-adhesive-bathroom-organizer?variant=48855911432375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S73f210b4fad54722b7a52fe9fce4a379f.webp?v=1783578444
-    Price: $19.21 USD
-- [Corner Shower Caddy with Hooks | Rustproof Wall Mounted Shower Organizer](https://www.ozkahome.com/products/corner-shower-caddy-wall-mounted-rustproof): Organize your shower or kitchen with this rustproof metal corner caddy. 30 lb capacity, fast-draining design, 2 removable hooks. Easy adhesive or screw install. Black & White.
-  Updated: 2026-09-29T09:32:24Z
-  Vendor: OZKA HOME
-  Product Type: Shower Caddy
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sac64fc69111b4c4c801fc70766b37061B.webp?v=1783587235
-  - [Black / M](https://www.ozkahome.com/products/corner-shower-caddy-wall-mounted-rustproof?variant=48856152604855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sac64fc69111b4c4c801fc70766b37061B.webp?v=1783587235
-    Price: $19.46 USD
-  - [White / M](https://www.ozkahome.com/products/corner-shower-caddy-wall-mounted-rustproof?variant=48856152637623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sba8d6080db23410c885b31c564b71191N.webp?v=1783587236
-    Price: $19.68 USD
+    Price: $20.30 USD
 - [Cooling Spray | Outdoor Sun Protection & Anti-Heat Mist](https://www.ozkahome.com/products/cooling-spray-outdoor-sun-protection-anti-heat): Stay cool this summer with our portable cooling spray. Sun protection, instant cooling mist, and anti-mosquito options. Available in 2, 3, and 4 pcs sets.
-  Updated: 2026-09-29T09:32:27Z
+  Updated: 2026-10-19T18:44:49Z
   Vendor: OZKA HOME
   Product Type: Cooling Spray
   Availability: Available
@@ -1999,21 +1898,21 @@
   - [2 pcs](https://www.ozkahome.com/products/cooling-spray-outdoor-sun-protection-anti-heat?variant=48860992569527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd1f64ba8ae7f4e80ba2a8aed0761db08b.webp?v=1783662208
-    Price: $15.73 USD
+    Price: $17.38 USD
   - [3 pcs](https://www.ozkahome.com/products/cooling-spray-outdoor-sun-protection-anti-heat?variant=48860992602295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scb9845e4333f463c833db78c94e1dbe4o.webp?v=1783662209
-    Price: $21.24 USD
+    Price: $23.44 USD
   - [4 pcs](https://www.ozkahome.com/products/cooling-spray-outdoor-sun-protection-anti-heat?variant=48860992635063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S604bbd41229f41b6b6b6cbd2b3b77c430.webp?v=1783662208
-    Price: $37.73 USD
+    Price: $37.50 USD
   - [Anti-Mosquito 50ml](https://www.ozkahome.com/products/cooling-spray-outdoor-sun-protection-anti-heat?variant=48860992667831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se4a622c205b743a98311320a53e2107bN.webp?v=1783662209
-    Price: $10.87 USD
+    Price: $11.50 USD
 - [Cooling Pillowcase | Ice Bean Cool Feeling Summer Pillow Cover 48x74cm](https://www.ozkahome.com/products/cooling-pillowcase-ice-bean-summer-48x74cm): Stay cool this summer with our ice bean cooling pillowcase. Cool-to-touch fabric, washable, 48x74cm. Available in Blue, Pink & Grey. Pillow not included.
-  Updated: 2026-09-29T09:32:23Z
+  Updated: 2026-10-19T18:44:04Z
   Vendor: OZKA HOME
   Product Type: Pillowcase
   Availability: Available
@@ -2021,24 +1920,24 @@
   - [Blue-1PC](https://www.ozkahome.com/products/cooling-pillowcase-ice-bean-summer-48x74cm?variant=48861485105335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9f6214ce07b74c21aa98e3a96403cf26o.webp?v=1783674274
-    Price: $9.18 USD
+    Price: $9.50 USD
   - [Pink-1PC](https://www.ozkahome.com/products/cooling-pillowcase-ice-bean-summer-48x74cm?variant=48861485138103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se6ea4ece56484d93a23d226f540947e0W.webp?v=1783674274
-    Price: $9.58 USD
+    Price: $9.90 USD
   - [Grey-1PC](https://www.ozkahome.com/products/cooling-pillowcase-ice-bean-summer-48x74cm?variant=48861485170871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S194bafd70ec1443fb038716cacb450043.webp?v=1783674274
-    Price: $6.99 USD
+    Price: $9.38 USD
 - [Stainless Steel Oil Filter Pot 2L – Fine Mesh Strainer & Storage Tank | OZKA HOME](https://www.ozkahome.com/products/2l-stainless-steel-oil-filter-pot-with-fine-mesh-filter-oil-storage-tank-frying-basket): Keep your kitchen oil clean & fresh with this 2L SS304 stainless steel oil filter pot. Heat-resistant, rust-proof, easy to clean. Perfect for frying & storage.
-  Updated: 2026-09-29T09:35:21Z
+  Updated: 2026-10-14T10:28:18Z
   Vendor: OZKA HOME
   Product Type: Kitchen & Cooking
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4bd8a0df-e54d-40fb-ba17-136f32fb890d.jpg?v=1783761483
-  Price: $38.15 USD
+  Price: $45.78 USD
 - [Magnetic Levitation Photo Frame with LED Lights – Floating Desktop Ornament | OZKA HOME](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament): Mesmerizing magnetic levitation photo frame with colorful LED lights. Displays your favorite photo while floating in mid-air. Perfect gift & home decor piece.
-  Updated: 2026-09-29T09:33:51Z
+  Updated: 2026-10-14T10:28:20Z
   Vendor: OZKA HOME
   Product Type: Home Decor
   Availability: Available
@@ -2046,69 +1945,69 @@
   - [Black / AU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706513591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f113b210-6c47-4226-aa9b-26e68b77888b.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Black / EU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706546359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f113b210-6c47-4226-aa9b-26e68b77888b.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Black / UK](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706579127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f113b210-6c47-4226-aa9b-26e68b77888b.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Black / US](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706611895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f113b210-6c47-4226-aa9b-26e68b77888b.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Blue / AU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706644663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/48927bab-32cc-4caa-83c9-c43107e3afa6.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Blue / EU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706677431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/48927bab-32cc-4caa-83c9-c43107e3afa6.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Blue / UK](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706710199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/48927bab-32cc-4caa-83c9-c43107e3afa6.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Blue / US](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706742967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/48927bab-32cc-4caa-83c9-c43107e3afa6.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Pink / AU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706775735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dc00746b-a764-47d6-895f-70daea12f8b0.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Pink / EU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706808503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dc00746b-a764-47d6-895f-70daea12f8b0.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Pink / UK](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706841271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dc00746b-a764-47d6-895f-70daea12f8b0.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [Pink / US](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706874039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dc00746b-a764-47d6-895f-70daea12f8b0.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [White / AU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706906807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/a2f67f01-f551-4e36-84f6-bddea52a7d30.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [White / EU](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706939575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/a2f67f01-f551-4e36-84f6-bddea52a7d30.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [White / UK](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863706972343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/a2f67f01-f551-4e36-84f6-bddea52a7d30.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
   - [White / US](https://www.ozkahome.com/products/magnetic-levitation-photo-frame-with-led-color-lights-floating-photo-desktop-craft-ornament?variant=48863707005111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/a2f67f01-f551-4e36-84f6-bddea52a7d30.jpg?v=1783773799
-    Price: $73.86 USD
+    Price: $88.63 USD
 - [Projection Night Light – USB Starry Sky Lamp | OZKA HOME](https://www.ozkahome.com/products/projection-night-light-usb-starry-sky-lamp): Create a magical starry sky atmosphere with this USB-powered projection night light. Touch control, 300 lm, ABS+silicone. Perfect for bedroom or nursery.
-  Updated: 2026-09-29T09:34:35Z
+  Updated: 2026-10-19T04:08:27Z
   Vendor: OZKA HOME
   Product Type: Lighting & Lamps
   Availability: Available
@@ -2116,21 +2015,21 @@
   - [5W / White With 1 Slide](https://www.ozkahome.com/products/projection-night-light-usb-starry-sky-lamp?variant=48863720374455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1d9ed034-f7a4-4c3b-95e8-247e016435a8.jpg?v=1783775763
-    Price: $61.79 USD
+    Price: $74.15 USD
   - [5W / White With 12 Slide](https://www.ozkahome.com/products/projection-night-light-usb-starry-sky-lamp?variant=48863720407223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/80b88998-fae1-4460-b9e9-5a1df4a2532b_trans.jpg?v=1783775763
-    Price: $102.47 USD
+    Price: $122.96 USD
   - [5W / White With 3 Slide](https://www.ozkahome.com/products/projection-night-light-usb-starry-sky-lamp?variant=48863720439991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c124dbd7-b1f9-4d32-9d5b-cf5dbedf7d8f_trans.jpg?v=1783775763
-    Price: $68.89 USD
+    Price: $82.67 USD
   - [5W / White With 6 Slide](https://www.ozkahome.com/products/projection-night-light-usb-starry-sky-lamp?variant=48863720472759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/61b4148b-8123-42cf-ae23-8d36a491a0e8_trans.jpg?v=1783775763
-    Price: $85.49 USD
+    Price: $102.59 USD
 - [Baby Musical Plush Toy - Interactive Fruit Piano](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano): Explore creativity with our Baby Musical Plush Toy, featuring touch-activated tunes and vibrant fruit designs. Perfect for fun and learning!
-  Updated: 2026-09-29T09:31:33Z
+  Updated: 2026-10-14T10:26:30Z
   Vendor: OZKA HOME
   Product Type: Baby Toys
   Availability: Available
@@ -2138,29 +2037,29 @@
   - [Battery version Banana](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858360503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/61620c1e-f6cb-4a9b-9c70-15ea1d533c1c.jpg?v=1783788774
-    Price: $49.74 USD
+    Price: $59.69 USD
   - [Battery version Carrot](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858393271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7b591aac-7c0a-434b-a689-a8f470206648.jpg?v=1783788773
-    Price: $49.74 USD
+    Price: $59.69 USD
   - [Battery version Strawberry](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858426039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/df23d5a3-9069-4535-99ee-6229584e751c.jpg?v=1783788774
-    Price: $49.74 USD
+    Price: $59.69 USD
   - [Charging style Banana](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858458807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/61620c1e-f6cb-4a9b-9c70-15ea1d533c1c.jpg?v=1783788774
-    Price: $48.48 USD
+    Price: $58.18 USD
   - [Charging style Carrot](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858491575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7b591aac-7c0a-434b-a689-a8f470206648.jpg?v=1783788773
-    Price: $45.63 USD
+    Price: $54.76 USD
   - [Charging style Strawberry](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano?variant=48863858524343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/df23d5a3-9069-4535-99ee-6229584e751c.jpg?v=1783788774
-    Price: $48.48 USD
+    Price: $58.18 USD
 - [Mini Flame Fireplace Aroma Diffuser 140ml | Essential Oil Diffuser – OZKA HOME](https://www.ozkahome.com/products/mini-flame-fireplace-aroma-diffuser-140ml): Transform your space with this mini flame fireplace aroma diffuser. 140ml tank, 3-4hr runtime, essential oil support & colorful LED lights. Perfect gift idea.
-  Updated: 2026-09-29T09:33:52Z
+  Updated: 2026-10-19T18:44:51Z
   Vendor: OZKA HOME
   Product Type: Aroma Diffuser
   Availability: Available
@@ -2168,13 +2067,13 @@
   - [6 Packs EO Set](https://www.ozkahome.com/products/mini-flame-fireplace-aroma-diffuser-140ml?variant=48875462230199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa58f1a2a87f34194b99b84de0c08047dV.webp?v=1784025820
-    Price: $16.34 USD
+    Price: $17.18 USD
   - [4 Packs EO Set](https://www.ozkahome.com/products/mini-flame-fireplace-aroma-diffuser-140ml?variant=48875462262967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S59889a8d63464509ba90592f67c95c00O.webp?v=1784025819
-    Price: $13.03 USD
+    Price: $13.78 USD
 - [Electric Mini Food Chopper 250ml | USB Garlic Grinder – OZKA HOME](https://www.ozkahome.com/products/electric-mini-food-chopper-250ml-usb-garlic-grinder): Chop garlic, vegetables & meat in seconds with this 250ml USB electric mini food chopper. BPA-free, easy to clean. Available in Green & White.
-  Updated: 2026-09-29T09:33:08Z
+  Updated: 2026-10-19T18:44:41Z
   Vendor: OZKA HOME
   Product Type: Kitchen Appliance
   Availability: Available
@@ -2182,13 +2081,13 @@
   - [250ml Green](https://www.ozkahome.com/products/electric-mini-food-chopper-250ml-usb-garlic-grinder?variant=48875513774263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S3d18b1b2db4a46e1948b40eedebf85820.webp?v=1784029133
-    Price: $12.60 USD
+    Price: $13.30 USD
   - [250ml White](https://www.ozkahome.com/products/electric-mini-food-chopper-250ml-usb-garlic-grinder?variant=48875513807031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf060fc8787654d3a902192b0fc869f52I.webp?v=1784029133
-    Price: $12.14 USD
+    Price: $12.84 USD
 - [Snake Repellent Pills 12pcs | Indoor & Outdoor – OZKA HOME](https://www.ozkahome.com/products/snake-repellent-pills-indoor-outdoor-plant-based): Keep snakes away with plant-based snake repellent pills. Safe for indoor & outdoor use, 3-year shelf life. Available in 12, 24 & 36 pcs packs.
-  Updated: 2026-09-29T09:35:13Z
+  Updated: 2026-10-19T18:45:41Z
   Vendor: OZKA HOME
   Product Type: Pest Control
   Availability: Available
@@ -2196,24 +2095,24 @@
   - [3 x 12pcs Boxed](https://www.ozkahome.com/products/snake-repellent-pills-indoor-outdoor-plant-based?variant=48875600937143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S004bb42df645482f9496f82ce53d01ccp.webp?v=1784033453
-    Price: $111.97 USD
+    Price: $118.38 USD
   - [12pcs Boxed](https://www.ozkahome.com/products/snake-repellent-pills-indoor-outdoor-plant-based?variant=48875600969911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7e40a58c0baa41c5aa1afed3849e6d6fb.webp?v=1784033453
-    Price: $18.70 USD
+    Price: $19.78 USD
   - [2 x12pcs Boxed](https://www.ozkahome.com/products/snake-repellent-pills-indoor-outdoor-plant-based?variant=48875601002679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8cc45e8c2e384b39bf59fd2ffd719024v.webp?v=1784033453
-    Price: $35.83 USD
+    Price: $37.90 USD
 - [5L Electric Meat Grinder 500W | Stainless Steel 304 – OZKA HOME](https://www.ozkahome.com/products/5l-electric-meat-grinder-500w-stainless-steel-304): Powerful 500W electric meat grinder with 5L capacity, 304 stainless steel, 5-speed control & 6-blade system. Perfect for meat, vegetables & baby food.
-  Updated: 2026-09-29T09:31:00Z
+  Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
   Product Type: Kitchen Appliance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S79b07caf47cd4d41a12d6476c42fd5a5E.webp?v=1784035329
-  Price: $65.02 USD
+  Price: $68.78 USD
 - [400W Immersion Hand Blender – Stainless Steel Stick Mixer](https://www.ozkahome.com/products/immersion-hand-blender-400w-stick-mixer): Powerful 400W immersion hand blender with stainless steel blade. Perfect for smoothies, soups & sauces. EU & US plug options. Shop OZKA HOME.
-  Updated: 2026-10-09T13:36:21Z
+  Updated: 2026-10-19T18:44:05Z
   Vendor: OZKA HOME
   Product Type: Kitchen Appliances
   Availability: Available
@@ -2221,28 +2120,28 @@
   - [black / US Plug](https://www.ozkahome.com/products/immersion-hand-blender-400w-stick-mixer?variant=48875701469367)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seee0a795a9e341e89a40e9fce35d6ad7P.webp?v=1784037451
-    Price: $37.24 USD
+    Price: $39.38 USD
   - [black / EU Plug](https://www.ozkahome.com/products/immersion-hand-blender-400w-stick-mixer?variant=48875701502135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seee0a795a9e341e89a40e9fce35d6ad7P.webp?v=1784037451
-    Price: $38.53 USD
+    Price: $39.10 USD
   - [light green / US Plug](https://www.ozkahome.com/products/immersion-hand-blender-400w-stick-mixer?variant=48875701534903)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1b1ce2cc35154a54a76e3e1f3782db78H.webp?v=1784037450
-    Price: $42.71 USD
+    Price: $45.18 USD
   - [light green / EU Plug](https://www.ozkahome.com/products/immersion-hand-blender-400w-stick-mixer?variant=48875701567671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1b1ce2cc35154a54a76e3e1f3782db78H.webp?v=1784037450
-    Price: $42.83 USD
+    Price: $43.50 USD
 - [Pet Hair Remover Roller - Effortless Cleaning | OZKA HOME](https://www.ozkahome.com/products/pet-hair-remover-roller-reusable-lint-roller-dog-cat-fur): Tackle pet hair effortlessly with the OZKA HOME Pet Hair Remover Roller. Reusable, eco-friendly, and perfect for any surface.
-  Updated: 2026-09-29T09:34:26Z
+  Updated: 2026-10-19T18:44:49Z
   Vendor: OZKA HOME
   Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfca2aa4a72b44013ba4723fcc44e16fai.webp?v=1784051505
-  Price: $9.46 USD
+  Price: $10.04 USD
 - [Flour Sieve with Capacity Scale – 40 Mesh Semi-Automatic Baking Sifter | OZKA HOME](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter): Effortlessly sift flour for cakes & baking with this 40-mesh semi-automatic flour sieve. Food-grade PP & stainless steel, built-in capacity scale. Easy to use.
-  Updated: 2026-09-29T09:33:07Z
+  Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
   Product Type: Baking Tools
   Availability: Available
@@ -2250,20 +2149,20 @@
   - [1pc](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter?variant=48876792610999)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8bbbeb91ac214af3bd890b20dee575aaQ.webp?v=1784055646
-    Price: $29.93 USD
+    Price: $31.70 USD
   - [1PC](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter?variant=48876792643767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8aa3a90329504edda3ca80a19b9bf5ddz.webp?v=1784055646
-    Price: $10.01 USD
+    Price: $10.38 USD
 - [Plush Octopus Dog Toy – Interactive Squeaky Chew Toy | OZKA HOME](https://www.ozkahome.com/products/plush-octopus-dog-toy-interactive-squeaky): Keep your dog entertained with this durable plush octopus squeaky toy. Anti-demolition denim fabric design, perfect for small and large dogs. Great for boredom relief.
-  Updated: 2026-09-29T09:34:32Z
+  Updated: 2026-10-19T18:01:43Z
   Vendor: OZKA HOME
   Product Type: Pet Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sccced54dc6d2426bbf973f08f9967ecbL.webp?v=1784056091
-  Price: $37.54 USD
+  Price: $45.05 USD
 - [Electric Vacuum Pump for Compression Bags | USB-C](https://www.ozkahome.com/products/electric-vacuum-pump-compression-bags-usb-c): Compact USB-C rechargeable electric vacuum pump for travel compression bags. 25W, low noise, one-touch operation. Save space in your luggage and wardrobe.
-  Updated: 2026-09-29T09:33:03Z
+  Updated: 2026-10-19T18:44:03Z
   Vendor: OZKA HOME
   Product Type: Vacuum Pump
   Availability: Available
@@ -2271,13 +2170,13 @@
   - [EU-Plug](https://www.ozkahome.com/products/electric-vacuum-pump-compression-bags-usb-c?variant=48877379420343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd4f6b1a905f14dfda9cf084529f36816X.webp?v=1784110757
-    Price: $38.23 USD
+    Price: $41.50 USD
   - [USB Air Pump](https://www.ozkahome.com/products/electric-vacuum-pump-compression-bags-usb-c?variant=48877379453111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa29df866fd074b7f8c348790f10c768bR.webp?v=1784110759
-    Price: $44.52 USD
+    Price: $48.50 USD
 - [Baby Diaper Bag Backpack – Waterproof Mommy Nappy Bag | OZKA HOME](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy): Stylish waterproof baby diaper backpack with multiple compartments. Perfect for strollers, travel & everyday use. Available in 5 colors. Fits newborns to toddlers.
-  Updated: 2026-09-29T09:31:32Z
+  Updated: 2026-10-19T18:44:47Z
   Vendor: OZKA HOME
   Product Type: Diaper Bags
   Availability: Available
@@ -2285,25 +2184,25 @@
   - [Rose](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy?variant=48892524789943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S831a491a12f34bbfba09430cdc674e8cO.webp?v=1784230895
-    Price: $49.67 USD
+    Price: $51.18 USD
   - [Charcoal](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy?variant=48892524822711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfc4b9efbd2ce4c1aa27aa09ad3de5944Z.webp?v=1784230895
-    Price: $51.83 USD
+    Price: $53.38 USD
   - [Gray](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy?variant=48892524855479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sdd5cff89ac0448a986e4d2d656f79fefk.webp?v=1784230895
-    Price: $50.75 USD
+    Price: $52.38 USD
   - [Cyan](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy?variant=48892524888247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5f72c18d7b1c4526af7198f479bca3297.webp?v=1784230895
-    Price: $51.57 USD
+    Price: $53.18 USD
   - [Burgundy](https://www.ozkahome.com/products/baby-diaper-bag-backpack-waterproof-mommy?variant=48892524921015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6b368082ddb8447e9bbdd9c73780fa56C.webp?v=1784230895
-    Price: $52.55 USD
+    Price: $54.18 USD
 - [Diaper Backpack with Folding Crib – Large Nursing Mommy Bag for Travel | OZKA HOME](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag): All-in-one diaper backpack with built-in folding crib. Large capacity, waterproof fabric, perfect for travel & daily use. Available in 7 colors for boys & girls.
-  Updated: 2026-09-29T09:32:21Z
+  Updated: 2026-10-19T18:44:14Z
   Vendor: OZKA HOME
   Product Type: Diaper Bags
   Availability: Available
@@ -2311,40 +2210,33 @@
   - [Pink](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892526854327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1536b2e42fec4824a509781ee787b37cS.webp?v=1784230978
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Pink Gray](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892526887095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se016361fdd764cf09428ec5c481907faW.webp?v=1784230978
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Green](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892526919863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sf3761f7b3de345b7ad13a1ef3c914586a.webp?v=1784230980
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Dark Gray](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892526952631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S4f4e020421de4ceab023fd5fef748c4eX.webp?v=1784230979
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Dark Blue](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892526985399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc60d48c8fdca4026bc74b4f32f130460G.webp?v=1784230979
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Black](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892527018167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9e741825cab24d13b5f10c8dc92c7413x.webp?v=1784230980
-    Price: $102.30 USD
+    Price: $108.18 USD
   - [Gray](https://www.ozkahome.com/products/diaper-backpack-folding-crib-nursing-mommy-bag?variant=48892527050935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7eee52e669b242068d57e37a9b3bcd5ab.webp?v=1784230979
-    Price: $102.30 USD
-- [5 lb Oxygen Laundry Booster Powder – Stain Remover for All Fabrics](https://www.ozkahome.com/products/oxygen-laundry-booster-stain-remover-powder-5lb): Oxygen-powered, chlorine-free 5 lb laundry booster powder. Removes tough stains from clothes, carpets & home surfaces. Safe for all fabrics.
-  Updated: 2026-09-29T09:30:55Z
-  Vendor: OZKA HOME
-  Product Type: Laundry & Cleaning
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb140132e1a274089b076b31be35deabeP.webp?v=1784234509
-  Price: $25.42 USD
+    Price: $108.18 USD
 - [Large Capacity Travel Backpack – Shoe Compartment](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment): Unisex travel backpack with 20–35L capacity, dedicated shoe compartment, laptop sleeve, and air cushion straps. Nylon exterior, 9 colors available.
-  Updated: 2026-09-29T09:33:51Z
+  Updated: 2026-10-19T18:01:47Z
   Vendor: OZKA HOME
   Product Type: Backpack
   Availability: Available
@@ -2352,41 +2244,41 @@
   - [Khaki](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742219447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sa808b139e4ad4bee820f8af7dc4c2694T.webp?v=1784270102
-    Price: $36.72 USD
+    Price: $44.06 USD
   - [Beige](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742252215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Scc45a57be55a495d932f50ae138cf2808.webp?v=1784270102
-    Price: $38.91 USD
+    Price: $46.69 USD
   - [Pink](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742284983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sef4067f88d654691bace0ad864b05cd3k.webp?v=1784270102
-    Price: $35.48 USD
+    Price: $42.58 USD
   - [Green](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742317751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S86f4e9a374354ebfb8b38d8176e5fd35M.webp?v=1784270102
-    Price: $36.93 USD
+    Price: $44.32 USD
   - [Black](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742350519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7a289dc8056848179ce723dcc6d3ac381.webp?v=1784270102
-    Price: $35.19 USD
+    Price: $42.23 USD
   - [Leopard Print](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742383287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sc724d378f46447a3bfdf88f02fbf1dadY.webp?v=1784270102
-    Price: $36.93 USD
+    Price: $44.32 USD
   - [Yellow](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742416055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S20e060678c7e4385b7e50849d0460725Y.webp?v=1784270102
-    Price: $38.46 USD
+    Price: $46.15 USD
   - [Red](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742448823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb8dd7bdde7de4522ad60252d9db7da4ch.webp?v=1784270102
-    Price: $50.28 USD
+    Price: $60.34 USD
   - [Black 1](https://www.ozkahome.com/products/large-capacity-travel-backpack-unisex-shoe-compartment?variant=48893742481591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S362f198b0cd84b82881991e3a8ee1c34U.webp?v=1784270102
-    Price: $38.46 USD
+    Price: $46.15 USD
 - [TV Wall Mount Bracket – 32 to 70 Inch | OZKA HOME](https://www.ozkahome.com/products/tv-wall-mount-bracket-32-70-inch): Heavy-duty adjustable TV wall mount for 32-70 inch screens. Swivel, tilt ±15°, 50kg load, VESA compatible. Easy install. Shop OZKA HOME.
-  Updated: 2026-09-29T09:35:11Z
+  Updated: 2026-10-19T18:44:10Z
   Vendor: OZKA HOME
   Product Type: TV Mount
   Availability: Available
@@ -2394,41 +2286,41 @@
   - [Black / for 32-70in TV / United Kingdom](https://www.ozkahome.com/products/tv-wall-mount-bracket-32-70-inch?variant=48893920542903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se30683e789214ec1970b5b265d13ca273.webp?v=1784274243
-    Price: $43.85 USD
+    Price: $46.38 USD
   - [Black / for 32-70in TV / Germany](https://www.ozkahome.com/products/tv-wall-mount-bracket-32-70-inch?variant=48893920575671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Se30683e789214ec1970b5b265d13ca273.webp?v=1784274243
-    Price: $42.31 USD
+    Price: $44.78 USD
 - [Travel Soap Case with Lid | Leakproof & Portable | OZKA HOME](https://www.ozkahome.com/products/travel-soap-case-leakproof-lid): Compact leakproof travel soap case with drainage holes & sealed lid. Lightweight, hygienic & perfect for travel, gym, camping. Shop OZKA HOME.
-  Updated: 2026-09-29T09:35:16Z
+  Updated: 2026-10-19T18:44:09Z
   Vendor: OZKA HOME
   Product Type: Soap Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb09b7ea905d14e6da89433f693c05babG.webp?v=1784275224
-  Price: $8.91 USD
+  Price: $9.38 USD
 - [Portable Electric Vacuum Pump for Storage Bags | OZKA HOME](https://www.ozkahome.com/products/portable-electric-vacuum-pump): Rechargeable wireless electric vacuum pump for storage bags. 25W, USB-C charging, compact & lightweight. Perfect for travel & home. Shop OZKA HOME.
-  Updated: 2026-09-29T09:34:31Z
+  Updated: 2026-10-19T18:44:15Z
   Vendor: OZKA HOME
   Product Type: Vacuum Pump
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S909d911564ff4a648b027c9613cb8c7bT.webp?v=1784275761
-  Price: $29.51 USD
+  Price: $31.18 USD
 - [SADOER Coconut Face Mask 5pcs – Hydrating & Firming Skincare](https://www.ozkahome.com/products/sadoer-coconut-face-mask-5pcs): SADOER Coconut Face Mask 5-pack deeply hydrates, firms, and nourishes skin. Moisturizing sheet mask for all skin types. Gentle & effective.
-  Updated: 2026-09-29T09:35:20Z
+  Updated: 2026-10-19T18:44:17Z
   Vendor: OZKA HOME
   Product Type: Face Masks & Treatments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seb37ae623dd54a02ac8aa1b71d06544dX.webp?v=1784316072
-  Price: $7.85 USD
+  Price: $8.30 USD
 - [Collagen Neck Cream – Anti-Aging, Firming & Double Chin Reducer](https://www.ozkahome.com/products/collagen-neck-cream-anti-aging-firming): Collagen-infused neck cream that reduces fine lines, firms skin & eliminates double chin. Deep hydration for a youthful, radiant neck. 40g.
-  Updated: 2026-09-29T09:32:22Z
+  Updated: 2026-10-19T18:44:36Z
   Vendor: OZKA HOME
   Product Type: Neck & Body Creams
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S7b730d7f829245018568b2b6799d8bea9.webp?v=1784317493
-  Price: $5.45 USD
+  Price: $5.90 USD
 - [LED Rechargeable Night Light – Portable Ambient Camping Lamp](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb): USB rechargeable LED ambient night light with breathing & constant modes. Portable, waterproof & drop-resistant. Perfect for camping & home decor.
-  Updated: 2026-09-29T09:33:49Z
+  Updated: 2026-10-14T10:28:05Z
   Vendor: OZKA HOME
   Product Type: Lighting & Lamps
   Availability: Available
@@ -2436,29 +2328,29 @@
   - [Dark Grey / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092812983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/53e7604b-eb9e-49b3-9c03-b79f5ebbbb38_trans.jpg?v=1784317730
-    Price: $69.65 USD
+    Price: $83.58 USD
   - [Deep Space Grey / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092845751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/636a8176-5686-4763-91d4-aea031452c71.jpg?v=1784317730
-    Price: $225.99 USD
+    Price: $271.19 USD
   - [Elegant White / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092878519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6dc1e3f1-ee46-47a1-a24c-46d7363590d4.jpg?v=1784317730
-    Price: $225.99 USD
+    Price: $271.19 USD
   - [Green / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092911287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/54a026b7-8e90-46b2-b2e0-c430ca3f8b77_trans.jpg?v=1784317730
-    Price: $69.65 USD
+    Price: $83.58 USD
   - [White / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092944055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b8aae172-9a5e-4fc4-b639-5547ef59b4fb_trans.jpg?v=1784317730
-    Price: $69.65 USD
+    Price: $83.58 USD
   - [Yellow / USB](https://www.ozkahome.com/products/led-rechargeable-ambient-night-light-usb?variant=48897092976823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9573c840-1546-4cc8-9238-ff5f47da838e_trans.jpg?v=1784317730
-    Price: $69.65 USD
+    Price: $83.58 USD
 - [Rotating Vegetable Grater & Spiral Peeler | Manual Kitchen Tool](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler): Manual rotating vegetable grater and spiral peeler with stainless steel blade. Perfect for potatoes, carrots, and radishes. Compact, easy to use, and quick to clean.
-  Updated: 2026-09-29T09:35:13Z
+  Updated: 2026-10-19T18:44:08Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
@@ -2466,27 +2358,13 @@
   - [Red](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler?variant=48897120403639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2dcf92f3b9ae4ee1aa0505d8aa2328a29.webp?v=1784319644
-    Price: $4.83 USD
+    Price: $4.90 USD
   - [green](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler?variant=48897120436407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sed366a1451034c32b63cf65f2d5eb418u.webp?v=1784319644
-    Price: $4.35 USD
-- [7-Speed Electric Hand Mixer | Baking & Cooking](https://www.ozkahome.com/products/7-speed-electric-hand-mixer): Powerful 7-speed electric hand mixer for baking. Mixes eggs, cream, cake batter, and dough effortlessly. Available in US (110V) and EU (220V) plug versions.
-  Updated: 2026-09-29T09:31:35Z
-  Vendor: OZKA HOME
-  Product Type: Electric Mixers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S6e7fbe86eb2146c49b8a568690c3aebcG_04bb92d4-27c6-47ef-a8e8-fcb059628ff5.webp?v=1784319862
-  - [US Plug 110V](https://www.ozkahome.com/products/7-speed-electric-hand-mixer?variant=48897122205879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S81980a3a2a314db5ac8e0a5474dddbe8t_e0755da9-5e28-49e5-abdd-c2a8b5f20d84.webp?v=1784319864
-    Price: $22.76 USD
-  - [EU Plug 220V](https://www.ozkahome.com/products/7-speed-electric-hand-mixer?variant=48897122238647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfe22f56d085c41699e665765af1b94338_156de504-b67a-416d-9412-b19976e1b06e.webp?v=1784319862
-    Price: $22.52 USD
+    Price: $5.18 USD
 - [Large Capacity Spray Water Bottle | OZKA HOME](https://www.ozkahome.com/products/large-capacity-spray-water-bottle): Wide-mouth spray water bottle with leakproof lid and carry strap. BPA-free plastic, perfect for sports, gym, office, and travel. Available in multiple colors and sizes.
-  Updated: 2026-09-29T09:33:53Z
+  Updated: 2026-10-14T10:26:36Z
   Vendor: OZKA HOME
   Product Type: Water Bottles
   Availability: Available
@@ -2494,129 +2372,129 @@
   - [Green](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136754871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fa3f1c4c-7e36-41dc-a983-58d0b108748a.jpg?v=1784321669
-    Price: $26.36 USD
+    Price: $31.63 USD
   - [Black](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136787639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8cd93671-c003-4ca6-88b9-07e6cb50fadd.jpg?v=1784321668
-    Price: $26.30 USD
+    Price: $31.56 USD
   - [Black700ml](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136820407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8e577e6f-634b-478c-a7fd-5c63088f000a.jpg?v=1784321669
-    Price: $27.05 USD
+    Price: $32.46 USD
   - [Blueorange gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136853175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7f2813af-5b2a-44de-ae99-fe90aa0a73c9.jpg?v=1784321668
-    Price: $15.81 USD
+    Price: $18.97 USD
   - [Blueorange gradient3pcs](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136885943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/bd3cae53-970d-47b9-81a0-79d5e4b17b45.jpg?v=1784321669
-    Price: $37.00 USD
+    Price: $44.40 USD
   - [Green 3PCS](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136918711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6675a5e8-f0f0-4344-ace5-0c807314a4c9.jpg?v=1784321669
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Green and Green and Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136951479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/891cd643-c56d-45bd-8af2-61d2296526eb.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Green and Green and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136984247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4e10e2ab-3fc8-4366-94f8-df14366a0061.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Green and Pink and Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137017015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/33bff742-85f5-4d18-b69f-d59e7141d56d.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Green and Pink and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137049783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2ef0c5c2-1fe3-4fb1-9983-31c0afeda430.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Green and White and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137082551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7320574d-1191-4ddb-9ba7-96b3187e44cd.jpg?v=1784321669
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Greenpurple gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137115319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8b9011ad-7cd4-453c-86a0-f7ff500c0d47.jpg?v=1784321668
-    Price: $25.35 USD
+    Price: $30.42 USD
   - [Grey](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137148087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c2a68cc6-3672-42c9-a96b-f16b0813b38f.jpg?v=1784321668
-    Price: $88.64 USD
+    Price: $106.37 USD
   - [PCPurple](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137180855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/00fcc04f-472f-4b0d-99ef-e96ceab85e61.jpg?v=1784321668
-    Price: $15.63 USD
+    Price: $18.76 USD
   - [PCblue](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137213623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1f119901-f183-49af-999f-73878f81ea6d.jpg?v=1784321669
-    Price: $15.63 USD
+    Price: $18.76 USD
   - [PCgreen](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137246391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/063b67d9-e68f-414c-814b-652d0feae78b.jpg?v=1784321668
-    Price: $22.85 USD
+    Price: $27.42 USD
   - [PCpink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137279159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/d8de6499-c538-4418-93b6-1c1b6c4b18fd.jpg?v=1784321669
-    Price: $15.63 USD
+    Price: $18.76 USD
   - [Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137311927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dcfc74d8-1a19-4a7c-b8be-288d8ab97464.jpg?v=1784321668
-    Price: $24.20 USD
+    Price: $29.04 USD
   - [Pink and Pink and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137344695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/313d2a2a-c1bd-4ca3-86d4-e672537c8933.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Pink and White and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137377463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f757e617-9032-464f-acd1-0accec6d4340.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
   - [Powder blue gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137410231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b0a742de-13fc-409d-9dbe-43e63b6a82e3.jpg?v=1784321668
-    Price: $15.81 USD
+    Price: $18.97 USD
   - [Purple and blue gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137442999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f88438b7-8b3d-402c-a2fb-877452ae2364.jpg?v=1784321669
-    Price: $15.81 USD
+    Price: $18.97 USD
   - [Sealing ring](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137475767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/422015f6-75b4-4cfd-bca9-19b39e239e34.jpg?v=1784321669
-    Price: $8.50 USD
+    Price: $10.20 USD
   - [Straw](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137508535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2ccb6435-3f9c-40f9-a880-781b6638c865.jpg?v=1784321669
-    Price: $7.79 USD
+    Price: $9.35 USD
   - [TRITAN black](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137541303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/24019165-34a6-4e9f-83e2-12988b47fa8e.jpg?v=1784321668
-    Price: $39.57 USD
+    Price: $47.48 USD
   - [TRITAN blue](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137574071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/17858925-4f46-4e8c-8966-ce35dec33bb5.jpg?v=1784321668
-    Price: $16.14 USD
+    Price: $19.37 USD
   - [TRITAN green](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137606839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b739490b-d9e4-46f1-9335-855f8156ea36.jpg?v=1784321669
-    Price: $20.51 USD
+    Price: $24.61 USD
   - [TRITAN pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137639607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e5ef8c13-547c-472e-9a15-b31ccc500592.jpg?v=1784321669
-    Price: $21.75 USD
+    Price: $26.10 USD
   - [TRITANwhite](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137672375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/811cf9b6-04d4-4f20-bda9-2024d692dc77.jpg?v=1784321669
-    Price: $21.81 USD
+    Price: $26.17 USD
   - [White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137705143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/49cc71bf-a6f8-4af7-9e74-701ed175b5ff.jpg?v=1784321668
-    Price: $26.11 USD
+    Price: $31.33 USD
   - [White 3PCS](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137737911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1e980416-1d53-42c6-99ba-7d71acdadae8.jpg?v=1784321668
-    Price: $52.70 USD
+    Price: $63.24 USD
 - [Cat Tree Tower – Multi-Level Climbing Frame | OZKA HOME](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame): Give your cat the perfect climbing space with this multi-level cat tree tower, featuring scratching posts, cozy perches, and a sturdy 13.5 kg build.
-  Updated: 2026-10-11T23:06:31Z
+  Updated: 2026-10-19T22:06:46Z
   Vendor: OZKA HOME
   Product Type: Cat Trees & Towers
   Availability: Available
@@ -2624,27 +2502,13 @@
   - [Beige](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame?variant=48902588465335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fd505bfc-77c3-4b2f-8246-04e19f8ab1fc.jpg?v=1784459213
-    Price: $142.69 USD
+    Price: $171.23 USD
   - [Deep blue](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame?variant=48902588498103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/31d45e37-9ac8-406d-b740-31e9e0d12004.jpg?v=1784459213
-    Price: $141.63 USD
-- [Portable Ice Maker Machine – Makes Ice in 9 Min | OZKA HOME](https://www.ozkahome.com/products/portable-ice-maker-machine-countertop): Make ice in just 9 minutes with this portable countertop ice maker. Enjoy 24 lb of ice daily, a 1.5L tank, self-cleaning function, and quiet operation.
-  Updated: 2026-10-11T23:06:29Z
-  Vendor: OZKA HOME
-  Product Type: Ice Makers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/76a3008e-ab69-4a72-b3fc-983f88400ec4.jpg?v=1784459789
-  - [Black](https://www.ozkahome.com/products/portable-ice-maker-machine-countertop?variant=48902630408375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/76a3008e-ab69-4a72-b3fc-983f88400ec4.jpg?v=1784459789
-    Price: $117.66 USD
-  - [Green](https://www.ozkahome.com/products/portable-ice-maker-machine-countertop?variant=48902630441143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2d46a920-706f-45cb-83d0-2b0ccbfbaabd.jpg?v=1784459789
-    Price: $117.66 USD
+    Price: $169.96 USD
 - [Round Fluffy Dog & Cat Bed – Non-Slip, Washable | OZKA HOME](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed): Cozy round plush pet bed for dogs & cats up to 25 lbs. Non-slip bottom, machine washable, available in Brown & Grey, sizes S–XL. Shop OZKA HOME.
-  Updated: 2026-10-11T23:06:39Z
+  Updated: 2026-10-19T23:06:42Z
   Vendor: OZKA HOME
   Product Type: Pet Bed
   Availability: Available
@@ -2652,37 +2516,37 @@
   - [Brown L](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724255927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Brown xl](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724288695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Grey L](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724321463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Grey XL](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724354231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Brown M](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724386999)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Brown S](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724419767)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Grey M](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724452535)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
   - [Grey S](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724485303)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $63.99 USD
+    Price: $76.79 USD
 - [Lift Top Coffee Table with Hidden Storage | OZKA HOME](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage): Modern lift-top coffee table with hidden storage & side shelves. Sturdy steel mechanism, easy assembly. Available in Black & Brown. Shop OZKA HOME.
-  Updated: 2026-10-11T23:06:28Z
+  Updated: 2026-10-19T23:06:40Z
   Vendor: OZKA HOME
   Product Type: Coffee Table
   Availability: Available
@@ -2690,125 +2554,169 @@
   - [Black](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage?variant=48902739919031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/85b136d0-2d0c-48a2-8ff9-f98982721485.jpg?v=1784461947
-    Price: $125.89 USD
+    Price: $151.07 USD
   - [Brown](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage?variant=48902739951799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/65a55844-8fba-44b9-8e37-267f5cfae923.jpg?v=1784461947
-    Price: $125.89 USD
-[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc3NjYyODUxMjU1LCJsYXN0X3ZhbHVlIjoiODY3NzY2Mjg1MTI1NSJ9)
+    Price: $151.07 USD
+- [Ergonomic Gaming & Office Chair – PU Leather | OZKA HOME](https://www.ozkahome.com/products/ergonomic-gaming-office-chair): PU leather ergonomic gaming & office chair with lumbar support, rocking mode & adjustable height. Available in 4 colors. Shop OZKA HOME.
+  Updated: 2026-10-19T23:09:10Z
+  Vendor: OZKA HOME
+  Product Type: Gaming Chair
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b9530d04-f231-4577-9681-1f1d9b6dd16c.jpg?v=1784462478
+  - [Blue](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770720951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/83a4ed45-1220-4513-9694-183c611151a5.jpg?v=1784462478
+    Price: $150.22 USD
+  - [Gray](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770753719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6457cdd3-13a8-4b61-957b-76eb680c879f.jpg?v=1784462477
+    Price: $150.22 USD
+  - [Pink](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770786487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e0b37dfa-c1bb-49fd-b5e6-c5013f3fd096.jpg?v=1784462477
+    Price: $150.22 USD
+  - [Red](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770819255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/935d5e46-b498-42ff-96a4-790aafe63220.jpg?v=1784462478
+    Price: $150.22 USD
+- [Foldable Dog Playpen Fence - Indoor & Outdoor | 1z6nep Ky](https://www.ozkahome.com/products/foldable-dog-playpen-fence): Foldable dog playpen for small to medium dogs up to 44 lbs. Non-toxic plastic, indoor & outdoor use, 4 or 6 panels in Black & White. Shop OZKA HOME.
+  Updated: 2026-10-19T23:09:07Z
+  Vendor: OZKA HOME
+  Product Type: Pet Playpen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/550e82ee-951f-496e-8160-a4f5f01ded0a.jpg?v=1784463189
+  - [Black4Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806274231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/63a6b69d-854c-4b64-9234-a903497e5a0b.jpg?v=1784463189
+    Price: $113.86 USD
+  - [Black6Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806306999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/453f6767-756d-4723-bf53-15875fb8a302.jpg?v=1784463189
+    Price: $113.86 USD
+  - [White4Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806339767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/550e82ee-951f-496e-8160-a4f5f01ded0a.jpg?v=1784463189
+    Price: $113.86 USD
+  - [White6Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806372535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/cc4403a1-64b6-4420-96a3-14f2156f3bd6.jpg?v=1784463190
+    Price: $113.86 USD
+[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc3NzA0NTMyMTUxLCJsYXN0X3ZhbHVlIjoiODY3NzcwNDUzMjE1MSJ9)
 
 ## Collections
 
 - [Kitchen Essentials](https://www.ozkahome.com/collections/kitchen-essentials): Kitchen Essentials-OZKA HOME
-  Updated: 2026-10-11T17:30:25Z
-  Total Products: 149
+  Updated: 2026-10-19T18:50:10Z
+  Total Products: 154
 - [Home Decor](https://www.ozkahome.com/collections/home-decor): Home Decor-OZKA HOME
-  Updated: 2026-10-10T22:13:58Z
-  Total Products: 103
+  Updated: 2026-10-19T18:49:54Z
+  Total Products: 97
 - [Storage & Organization](https://www.ozkahome.com/collections/storage-organization): Storage & Organization-OZKA HOME
-  Updated: 2026-10-08T06:57:19Z
-  Total Products: 65
+  Updated: 2026-10-19T21:03:20Z
+  Total Products: 66
 - [Bathroom Essentials](https://www.ozkahome.com/collections/bathroom-essentials-1): Bathroom Essentials-OZKA HOME
-  Updated: 2026-10-06T13:46:36Z
-  Total Products: 21
+  Updated: 2026-10-19T18:50:05Z
+  Total Products: 20
 - [Outdoor Living](https://www.ozkahome.com/collections/outdoor-living): Outdoor Living-OZKA HOME
-  Updated: 2026-10-09T11:24:27Z
+  Updated: 2026-10-19T18:49:41Z
   Total Products: 21
 - [Fitness & Wellness](https://www.ozkahome.com/collections/fitness-wellness): Fitness & Wellness-OZKA HOME
-  Updated: 2026-09-29T09:29:33Z
+  Updated: 2026-10-19T18:45:28Z
   Total Products: 7
 - [Home Appliances](https://www.ozkahome.com/collections/home-appliances): Home Appliances-OZKA HOME
-  Updated: 2026-10-06T05:08:01Z
-  Total Products: 52
+  Updated: 2026-10-19T18:50:14Z
+  Total Products: 55
 - [Cleaning Appliances](https://www.ozkahome.com/collections/cleaning-appliances): Cleaning Appliances-OZKA HOME
-  Updated: 2026-10-08T06:57:06Z
-  Total Products: 15
+  Updated: 2026-10-19T18:50:14Z
+  Total Products: 18
 - [Personal Care Appliances](https://www.ozkahome.com/collections/personal-care-appliances): Personal Care Appliances-OZKA HOME
-  Updated: 2026-09-30T05:20:38Z
+  Updated: 2026-10-19T18:50:01Z
   Total Products: 13
 - [Home Improvement](https://www.ozkahome.com/collections/home-improvement): Home Improvement-OZKA HOME
-  Updated: 2026-10-11T11:25:55Z
-  Total Products: 60
+  Updated: 2026-10-19T18:49:03Z
+  Total Products: 57
 - [New Arrivals](https://www.ozkahome.com/collections/new-arrivals): New Arrivals-OZKA HOME
-  Updated: 2026-10-11T17:30:25Z
-  Total Products: 271
+  Updated: 2026-10-19T18:50:10Z
+  Total Products: 275
 - [Furniture](https://www.ozkahome.com/collections/furniture): Furniture-OZKA HOME
-  Updated: 2026-09-29T09:29:38Z
+  Updated: 2026-10-19T18:48:34Z
   Total Products: 7
 - [Automotive Accessories](https://www.ozkahome.com/collections/automotive-accessories): Automotive Accessories-OZKA HOME
-  Updated: 2026-10-06T10:54:18Z
-  Total Products: 13
+  Updated: 2026-10-19T18:50:04Z
+  Total Products: 16
 - [Pet Supplies](https://www.ozkahome.com/collections/pet-supplies): Pet Supplies-OZKA HOME
-  Updated: 2026-10-08T06:56:13Z
+  Updated: 2026-10-19T18:49:20Z
   Total Products: 46
 - [Lighting](https://www.ozkahome.com/collections/lighting): Lighting-OZKA HOME
-  Updated: 2026-10-10T23:01:14Z
-  Total Products: 17
+  Updated: 2026-10-19T18:50:07Z
+  Total Products: 16
 - [Garden Decor](https://www.ozkahome.com/collections/garden-decor): Garden Decor-OZKA HOME
-  Updated: 2026-09-30T12:08:23Z
+  Updated: 2026-10-19T18:49:54Z
   Total Products: 7
 - [All Products](https://www.ozkahome.com/collections/all-products): All Products-OZKA HOME
-  Updated: 2026-10-11T17:30:25Z
-  Total Products: 635
+  Updated: 2026-10-19T21:03:20Z
+  Total Products: 652
 - [Beauty & Skincare](https://www.ozkahome.com/collections/beauty-skincare): Beauty & Skincare-OZKA HOME
-  Updated: 2026-10-07T12:07:42Z
+  Updated: 2026-10-19T18:49:58Z
   Total Products: 18
 - [Hair Care](https://www.ozkahome.com/collections/hair-care): Hair Care-OZKA HOME
-  Updated: 2026-09-29T09:29:45Z
+  Updated: 2026-10-19T18:42:57Z
   Total Products: 2
 - [Sleep & Relaxation](https://www.ozkahome.com/collections/sleep-relaxation): Sleep & Relaxation-OZKA HOME
-  Updated: 2026-09-29T09:29:45Z
+  Updated: 2026-10-19T18:45:44Z
   Total Products: 12
 - [Car Accessories](https://www.ozkahome.com/collections/car-accessories): Car Accessories-OZKA HOME
-  Updated: 2026-10-07T06:34:36Z
-  Total Products: 23
+  Updated: 2026-10-19T18:50:04Z
+  Total Products: 27
 - [Best Sellers](https://www.ozkahome.com/collections/best-sellers): Best Sellers-OZKA HOME
-  Updated: 2026-10-07T12:07:42Z
-  Total Products: 23
+  Updated: 2026-10-19T18:49:32Z
+  Total Products: 21
 - [Under $25](https://www.ozkahome.com/collections/under-25): Under $25-OZKA HOME
-  Updated: 2026-10-11T17:30:25Z
-  Total Products: 273
+  Updated: 2026-10-19T18:50:31Z
+  Total Products: 248
 - [Smart Accessories](https://www.ozkahome.com/collections/smart-accessories): Smart Accessories-OZKA HOME
-  Updated: 2026-09-29T09:29:49Z
+  Updated: 2026-10-19T18:47:21Z
   Total Products: 13
 - [Power Tools & Accessories](https://www.ozkahome.com/collections/power-tools-accessories): Power Tools & Accessories-OZKA HOME
-  Updated: 2026-10-08T06:54:24Z
+  Updated: 2026-10-19T18:48:35Z
   Total Products: 18
 - [Bath & Towels](https://www.ozkahome.com/collections/bath-towels): Bath & Towels-OZKA HOME
-  Updated: 2026-09-29T09:29:51Z
-  Total Products: 7
+  Updated: 2026-10-19T18:47:25Z
+  Total Products: 6
 - [Outdoor & Beach](https://www.ozkahome.com/collections/outdoor-beach): Outdoor & Beach-OZKA HOME
-  Updated: 2026-10-11T10:56:35Z
+  Updated: 2026-10-19T18:50:00Z
   Total Products: 21
 - [Baby & Kids Toys](https://www.ozkahome.com/collections/baby-kids-toys): Baby & Kids Toys-OZKA HOME
-  Updated: 2026-10-07T06:34:29Z
-  Total Products: 16
+  Updated: 2026-10-19T18:49:07Z
+  Total Products: 17
 - [Bags & Luggage](https://www.ozkahome.com/collections/bags-luggage): Bags & Luggage-OZKA HOME
-  Updated: 2026-10-10T21:32:23Z
-  Total Products: 31
+  Updated: 2026-10-19T18:50:09Z
+  Total Products: 32
 - [School & Office Supplies](https://www.ozkahome.com/collections/school-office-supplies): School & Office Supplies-OZKA HOME
-  Updated: 2026-10-09T10:11:11Z
-  Total Products: 8
+  Updated: 2026-10-19T18:50:09Z
+  Total Products: 9
 - [Shop The Look Featured Collection](https://www.ozkahome.com/collections/shop-the-look-featured-collection): Shop The Look Featured Collection-OZKA HOME
-  Updated: 2026-09-29T09:29:55Z
+  Updated: 2026-10-19T18:48:51Z
   Total Products: 2
 - [Halloween](https://www.ozkahome.com/collections/halloween): Halloween-OZKA HOME
-  Updated: 2026-10-10T23:01:14Z
-  Total Products: 23
+  Updated: 2026-10-19T18:50:16Z
+  Total Products: 24
 - [Winter Essentials](https://www.ozkahome.com/collections/winter-essentials): Winter Essentials-OZKA HOME
-  Updated: 2026-09-29T09:29:57Z
+  Updated: 2026-10-19T18:48:37Z
   Total Products: 4
 - [Kitchen Storage & Organization](https://www.ozkahome.com/collections/kitchen-storage-organization): Kitchen Storage & Organization-OZKA HOME
-  Updated: 2026-10-09T09:55:45Z
-  Total Products: 7
+  Updated: 2026-10-19T21:03:20Z
+  Total Products: 12
 - [Bathroom Storage & Organization](https://www.ozkahome.com/collections/bathroom-storage-organization): Bathroom Storage & Organization-OZKA HOME
-  Updated: 2026-09-29T09:29:59Z
-  Total Products: 3
+  Updated: 2026-10-19T21:03:20Z
+  Total Products: 5
 - [Recommended Products (Wiz Email)](https://www.ozkahome.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-11T17:30:40Z
-  Total Products: 551
+  Updated: 2026-10-19T21:03:20Z
+  Total Products: 568
 - [Black Friday Deals](https://www.ozkahome.com/collections/black-friday-deals): Shop our Black Friday deals on selected home and everyday essentials.
-  Updated: 2026-10-06T12:52:23Z
+  Updated: 2026-10-19T18:49:18Z
   Total Products: 12
 
 ## Blogs
@@ -3159,6 +3067,90 @@
     Updated: 2026-10-09T12:58:03Z
     Author: OZKA HOME
     Tags: Breakfast Ideas, Mini Egg Pan, Nonstick Cookware, Pink Cookware, Small-Portion Cooking
+  - [Best makeup organizer types for small spaces](https://www.ozkahome.com/blogs/ozka-home-blog/best-makeup-organizer-types-small-spaces): Best makeup organizer types for small spaces
+    Updated: 2026-10-12T06:00:09Z
+    Author: 1z6nep-ky
+  - [Multifunctional Stainless Steel Vegetable Peeler](https://www.ozkahome.com/blogs/ozka-home-blog/multifunctional-stainless-steel-vegetable-peeler)
+    Updated: 2026-10-12T13:01:41Z
+    Author: KAGAN GENC
+    Tags: multifunctional stainless steel vegetable peeler
+  - [Touchless Soap Dispenser: Foam or Liquid? | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/touchless-soap-dispenser-foam-liquid-guide): Touchless Soap Dispenser: Foam or Liquid? | OZKA HOME
+    Updated: 2026-10-12T19:15:08Z
+    Author: OZKA HOME
+    Tags: Bathroom Essentials, Foam Soap, Kitchen Essentials, Rechargeable Dispenser, Touchless Soap Dispenser
+  - [Touchless Rechargeable Soap Dispenser For Cleaner Hands—No Fuss](https://www.ozkahome.com/blogs/ozka-home-blog/touchless-rechargeable-soap-dispenser-for-cleaner-hands): Touchless Rechargeable Soap Dispenser For Cleaner Hands—No Fuss
+    Updated: 2026-10-15T09:13:06Z
+    Author: Tapita
+    Tags: Automatic Dispenser, Clean Hands, Hand Hygiene, Rechargeable Soap Dispenser, Touchless Soap Dispenser
+  - [Best makeup organizer: how to choose the right one](https://www.ozkahome.com/blogs/ozka-home-blog/best-makeup-organizer-how-to-choose-the-right-one): Best makeup organizer: how to choose the right one
+    Updated: 2026-10-13T07:30:23Z
+    Author: PAI AI Blog
+  - [Best portable blender buying guide for small-space living](https://www.ozkahome.com/blogs/ozka-home-blog/best-portable-blender-buying-guide-small-space-living): Best portable blender buying guide for small-space living
+    Updated: 2026-10-14T05:47:23Z
+    Author: PAI AI Blog
+    Tags: Portable Blender
+  - [Cordless Car Vacuum & Blower: Everyday Cleanup | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/cordless-car-vacuum-blower-everyday-cleanup): Cordless Car Vacuum & Blower: Everyday Cleanup | OZKA HOME
+    Updated: 2026-10-15T09:20:14Z
+    Author: KAGAN GENC
+    Tags: Car Accessories, Car Cleaning, Car Interior Cleaning, Car Seat Cleaning, Cleaning Routine, Cleaning Tips, Cordless Car Vacuum, Handheld Vacuum, Home Cleaning, Portable Vacuum, USB-C Rechargeable, Vacuum and Blower, Vacuum Maintenance, Vehicle Care, Washable Filter
+  - [Fine Mesh Kitchen Strainer for Everyday Prep | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/fine-mesh-kitchen-strainer-juice-soy-milk-eggs): Fine Mesh Kitchen Strainer for Everyday Prep | OZKA HOME
+    Updated: 2026-10-15T09:50:02Z
+    Author: KAGAN GENC
+    Tags: Egg Strainer, Fine Mesh Strainer, Food Preparation, Home Cooking, Homemade Soy Milk, Juice Strainer, Kitchen Essentials, Kitchen Strainer, Kitchen Tools, Soy Milk Filter
+  - [Dog Bath Towel for Baths & Rainy Walks | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/dog-bath-towel-baths-rainy-walks): Dog Bath Towel for Baths & Rainy Walks | OZKA HOME
+    Updated: 2026-10-15T11:13:12Z
+    Author: KAGAN GENC
+    Tags: cat grooming, dog bath towel, dog bathing, OZKA HOME, paw drying, pet accessories, pet care, pet grooming, pet towels, rainy day walks
+  - [Microfiber Cleaning Cloths for Everyday Cleanup | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/microfiber-cleaning-cloths-everyday-cleanup): Microfiber Cleaning Cloths for Everyday Cleanup | OZKA HOME
+    Updated: 2026-10-16T05:08:27Z
+    Author: KAGAN GENC
+    Tags: cleaning routine, household cleaning, kitchen essentials, microfiber cleaning cloths, OZKA HOME
+  - [Spin Mop and Bucket Set: Everyday Cleaning | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/spin-mop-bucket-set-floor-cleaning-routine): Spin Mop and Bucket Set: Everyday Cleaning | OZKA HOME
+    Updated: 2026-10-16T05:55:43Z
+    Author: KAGAN GENC
+    Tags: cleaning routine, floor cleaning, kitchen essentials, microfiber mop, OZKA HOME, spin mop and bucket
+  - [Bento Lunch Box Set for Work & College | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/bento-lunch-box-set-workday-lunch): Bento Lunch Box Set for Work & College | OZKA HOME
+    Updated: 2026-10-16T09:00:55Z
+    Author: KAGAN GENC
+    Tags: bento lunch box, college essentials, lunch box with bag, office lunch, OZKA HOME, packed lunch ideas
+  - [Acrylic ETB Display Case: Shelf Styling Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/acrylic-etb-display-case-collection-display): Acrylic ETB Display Case: Shelf Styling Guide | OZKA HOME
+    Updated: 2026-10-16T12:34:40Z
+    Author: KAGAN GENC
+    Tags: acrylic ETB display case, collectible display, collection organization, magnetic display case, OZKA HOME, shelf styling
+  - [Steam Mop Buying Guide: Features & Tips | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/steam-mop-adjustable-steam-cleaning-guide): Steam Mop Buying Guide: Features & Tips | OZKA HOME
+    Updated: 2026-10-17T15:47:10Z
+    Author: KAGAN GENC
+    Tags: Buying Guide, Cleaning Appliances, Home Cleaning, INSE, Steam Mop
+  - [Tiered Fruit Bowl Ideas for Your Kitchen | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/tiered-fruit-bowl-kitchen-counter-organization): Tiered Fruit Bowl Ideas for Your Kitchen | OZKA HOME
+    Updated: 2026-10-18T20:37:03Z
+    Author: KAGAN GENC
+    Tags: bamboo fruit stand, countertop storage, fruit bowl ideas, kitchen organization, tiered fruit bowl
+  - [Wiring Harness Tape: Choose Heat-Resistant Options](https://www.ozkahome.com/blogs/ozka-home-blog/wiring-harness-tape-heat-resistant-options): Wiring Harness Tape: Choose Heat-Resistant Options
+    Updated: 2026-10-19T05:35:34Z
+    Author: PAI AI Blog
+  - [Wiring Harness Tape: Choose Heat-Resistant Protection](https://www.ozkahome.com/blogs/ozka-home-blog/wiring-harness-tape-durable-cable-protection): Wiring Harness Tape: Choose Heat-Resistant Protection
+    Updated: 2026-10-19T06:00:12Z
+    Author: 1z6nep-ky
+  - [Bedside Shelf Organizer Guide for Dorm Students](https://www.ozkahome.com/blogs/ozka-home-blog/bedside-shelf-organizer-dorm-students): Bedside Shelf Organizer Guide for Dorm Students
+    Updated: 2026-10-19T06:52:55Z
+    Author: PAI AI Blog
+    Tags: Dorm Room Organization
+  - [Cordless Electric Batter Mixer for Pancakes & Cupcakes](https://www.ozkahome.com/blogs/ozka-home-blog/cordless-electric-batter-mixer-pancakes-cupcakes): Cordless Electric Batter Mixer for Pancakes & Cupcakes
+    Updated: 2026-10-19T08:29:36Z
+    Author: OZKA HOME
+    Tags: Baking Tips, Batter Mixer, Cupcake Baking, Home Baking, Kitchen Essentials, Pancake Batter Dispenser
+  - [Cordless Handheld Vacuum for Car & Home | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/cordless-handheld-vacuum-car-home-cleanup): Cordless Handheld Vacuum for Car & Home | OZKA HOME
+    Updated: 2026-10-19T09:37:03Z
+    Author: OZKA HOME
+    Tags: Car Accessories, Car Cleaning, Cleaning Appliances, Cleaning Tips, Cordless Handheld Vacuum, Home Cleaning
+  - [2-Tier Under Sink Organizer: Cabinet Storage That Works](https://www.ozkahome.com/blogs/ozka-home-blog/two-tier-under-sink-organizer-cabinet-storage): 2-Tier Under Sink Organizer: Cabinet Storage That Works
+    Updated: 2026-10-19T11:49:08Z
+    Author: OZKA HOME
+    Tags: Bathroom Storage, Home Organization, Kitchen Organization, Pull-Out Cabinet Organizer, Small Space Storage, Under Sink Organizer
+  - [Foldable Storage Cart: Everyday Uses | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/foldable-storage-cart-everyday-organization): Foldable Storage Cart: Everyday Uses | OZKA HOME
+    Updated: 2026-10-19T21:06:13Z
+    Author: KAGAN GENC
+    Tags: Bathroom Organization, Foldable Storage Cart, Home Organization, Kitchen Organization, Small Space Storage
 
 ## Store Pages
 
