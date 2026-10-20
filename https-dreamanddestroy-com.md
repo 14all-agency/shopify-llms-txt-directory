@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-01T05:30:25Z
 - Contact Email: david@dreamanddestroy.com
-- Updated At: 2026-10-12T00:34:14.181Z
+- Updated At: 2026-10-20T00:00:23.504Z
 
 ## Products
 
@@ -647,7 +647,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Marikka_nakk_dress.jpg?v=1791677922
   Price: $400.00 USD
-[List Continued](https://dreamanddestroy.com/a/llms-agent/llms.txt?shop=dream-and-destroy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk0OTk4MjgzMDc4NywibGFzdF92YWx1ZSI6IjE0OTQ5OTgyODMwNzg3In0%3D)
+- [Needles Deconstructed H.D. Sweatpants Cotton French Terry Purple L NEPENTHES](https://dreamanddestroy.com/products/needles-deconstructed-h-d-sweatpants-cotton-french-terry-purple-l-nepenthes): BRAND NEW WITH TAGS NEEDLES HD DECONSTRUCTED TERRY SWEATPANTS IN THE HARD TO FIND FADED PURPLE COLORWAY IN A SIZE LARGE. THE PANTS FEATURE A FADED BODY, WITH THE SIGNATURE BUTTERFLY LOGO AT THE THIGH, ZIP POCKETS, HIDDEN DRAWSTRING ELASTIC WAISTBAND WITH A SLIGHT BARREL LEG FIT.THESE ARE SOLD OUT WORLDWIDE!!!THESE WERE PURCHASED IN SEOUL AT THE FAMED BEAKER STORE. I HAD TO GO TO 3 STORES IN SEOUL TO FIND THESE AND GOT THE LAST PAIR. I LOST 40 POUNDS AND THESE JUST NO LONGER WORK AS THEY ARE VERY LOOSE FITTING.MEASUREMENTS:WAIST: 16.5 X INSEAM: 30 X FOOT: 14.5 X FRONT RISE: 15.5Highlights- purple- distressed finish- butterfly motif on the front- elasticated waistband- wide leg
+  Updated: 2026-10-12T14:26:30Z
+  Vendor: Needles
+  Product Type: MEN
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/needles_hd_deconstructed_sweatpants.jpg?v=1791772410
+  Price: $500.00 USD
+[List Continued](https://dreamanddestroy.com/a/llms-agent/llms.txt?shop=dream-and-destroy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDk1MDA0MTE1NzgyNywibGFzdF92YWx1ZSI6IjE0OTUwMDQxMTU3ODI3In0%3D)
 
 ## Collections
 
@@ -658,8 +665,8 @@
   Updated: 2026-10-10T23:30:20Z
   Total Products: 22
 - [Men](https://dreamanddestroy.com/collections/men): High End Luxury Clothing For Men.
-  Updated: 2026-10-10T23:56:28Z
-  Total Products: 29
+  Updated: 2026-10-12T02:38:37Z
+  Total Products: 31
 - [Women](https://dreamanddestroy.com/collections/women): High End Luxury Items for Women.
   Updated: 2026-10-11T00:17:27Z
   Total Products: 92
