@@ -9,7 +9,7 @@
 - Created At: 2025-09-09T10:58:51Z
 - Contact Email: sales@qldecor.com
 - Contact Phone: +48572008079
-- Updated At: 2026-10-10T00:00:42.793Z
+- Updated At: 2026-10-20T00:00:46.912Z
 
 ## Products
 
@@ -905,8 +905,8 @@
 - [Wieszaki](https://qldecor.shop/collections/wieszaki): Wieszak w naszej interpretacji to nie tylko funkcjonalny element — to świadomy detal aranżacji. Proste formy, solidne materiały i wyważone proporcje sprawiają, że projekty QLdecor wnoszą do przestrzeni porządek, elegancję i trwałość. Minimalizm w najlepszym wydaniu.
   Updated: 2026-08-19T20:14:44Z
   Total Products: 2
-- [Płyty meblowe](https://qldecor.shop/collections/plyty-meblowe): Płyty meblowe QLdecor to fundament nowoczesnych aranżacji. Projektowane z myślą o estetyce, trwałości i precyzji wykonania, stanowią spójne tło dla frontów, blatów i elementów wykończeniowych. Każda kolekcja wyróżnia się unikalną fakturą i charakterem powierzchni.
-  Updated: 2026-08-19T20:14:44Z
+- [Fronty meblowe](https://qldecor.shop/collections/fronty-meblowe): Fronty meblowe QLdecor w trzech seriach: WoodSense (dekor drewna), MetaLux (metalizowane) i ColorPro (kolory). Wykonujemy je na wymiar, z nawierceniem pod zawiasy, także do kuchni IKEA METOD. Każda seria wyróżnia się unikalną fakturą i charakterem powierzchni.
+  Updated: 2026-10-14T05:50:34Z
   Total Products: 35
 - [Blaty stalowe](https://qldecor.shop/collections/blaty-stalowe-qldecor): Styl, trwałość i nowoczesność. Solidne powierzchnie robocze ze stali nierdzewnej, które podkreślają charakter każdej aranżacji.
   Updated: 2026-08-19T20:14:44Z
