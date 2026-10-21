@@ -6,26 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2025-05-02T03:16:55Z
 - Contact Email: support@olyon.co
-- Updated At: 2026-10-03T00:00:41.390Z
+- Updated At: 2026-10-21T00:00:43.540Z
 
 ## Products
 
 - [Luna Squeeze-Control Bunny Vibrator | Olyon](https://olyon.co/products/luna-squeeze-control-bunny-vibrator): Shop Luna, a squeeze-control bunny vibrator with pressure-sensitive vibration control, dual-area stimulation and a rechargeable design for personalized use.
-  Updated: 2026-09-24T04:02:56Z
+  Updated: 2026-10-19T15:14:14Z
   Vendor: Olyon
   Product Type: Bunny Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/rabbit_2.webp?v=1785588325
   Price: $49.00 USD
 - [Cloudia Squeeze-Control Cloud Vibrator | Olyon](https://olyon.co/products/cloudia-squeeze-control-cloud-vibrator): Shop Cloudia, a squeeze-control cloud vibrator with pressure-sensitive control, adjustable vibration and a soft, ergonomic design for personalized use.
-  Updated: 2026-09-24T04:02:56Z
+  Updated: 2026-10-19T15:08:02Z
   Vendor: Olyon
   Product Type: Squeeze-Control Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/a_professional_e_commerce_product_hero_image_featuring_the_soft_cloud_shaped.png?v=1786720489
   Price: $49.00 USD
 - [Rita App-Controlled Wearable Hands-Free Vibrator | Olyon](https://olyon.co/products/rita-wearable-panty-vibrator): Rita is a wearable hands-free vibrator with magnetic clip positioning, app control and rechargeable power for discreet, flexible use.
-  Updated: 2026-09-25T08:10:24Z
+  Updated: 2026-10-11T17:50:42Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/a_premium_high_end_square_product_shot_for_an_e_commerce_main_image._the_purple.png?v=1785592224
     Price: $49.99 USD
 - [O-Wave App-Controlled Wave Wand Vibrator | Olyon](https://olyon.co/products/o-wave-wand-vibrator): Explore O-Wave, an app-controlled wave wand vibrator with rhythmic vibration, rechargeable power and a distinctive ergonomic design.
-  Updated: 2026-09-24T04:02:55Z
+  Updated: 2026-10-19T15:07:57Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -53,28 +53,28 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/o-wave-red.png?v=1785677994
     Price: $49.00 USD
 - [Loki App-Controlled Compact Vibrating Plug | Olyon](https://olyon.co/products/loki-vibrating-plug-vibrator): Shop Loki, an app-controlled vibrating plug with a compact silicone design, rechargeable power and streamlined control for a personalized experience.
-  Updated: 2026-09-24T04:02:55Z
+  Updated: 2026-10-19T15:07:56Z
   Vendor: Olyon
   Product Type: Vibrating Plug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/loki_2.png?v=1785658889
   Price: $49.00 USD
 - [Dona App-Controlled Vibrating Couples Ring | Olyon](https://olyon.co/products/dona-vibrating-ring-vibrator): Explore Dona, an app-controlled couples ring with rechargeable vibration, a compact wearable design and flexible shared or solo use.
-  Updated: 2026-09-26T12:20:52Z
+  Updated: 2026-10-19T15:07:57Z
   Vendor: Olyon
   Product Type: Vibrating Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/dona_2.png?v=1785672398
   Price: $39.00 USD
 - [Lumi Flexible Poseable Silicone Vibrator | Olyon](https://olyon.co/products/lumi-flexible-poseable-vibrator): Lumi is a flexible poseable silicone vibrator designed for adjustable angles and easy handling. Explore this rechargeable personal vibrator from Olyon.
-  Updated: 2026-09-24T04:02:55Z
+  Updated: 2026-10-11T17:49:01Z
   Vendor: Olyon
   Product Type: Flexible Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/lumi_1.png?v=1785677496
   Price: $49.00 USD
 - [Dotti Touch Precision Point Vibrator | Olyon](https://olyon.co/products/dotti-touch-precision-vibrator): Dotti Touch is a precision point vibrator with adjustable vibration and LED display. A targeted personal vibrator designed for controlled intimate exploration.
-  Updated: 2026-09-24T04:02:54Z
+  Updated: 2026-10-19T15:08:00Z
   Vendor: Olyon
   Product Type: Precision Vibrator
   Availability: Available
@@ -88,28 +88,28 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Dotti.png?v=1785680090
     Price: $59.00 USD
 - [Angel Touch Spiral Rabbit Vibrator | Olyon](https://olyon.co/products/angel-touch-rabbit-vibrator): Angel Touch is a dual-stimulation rabbit vibrator with a spiral ergonomic design and rechargeable power. Shop this distinctive intimate wellness toy from Olyon.
-  Updated: 2026-09-24T04:02:54Z
+  Updated: 2026-10-19T15:07:58Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/a_high_end_realistic_product_lifestyle_photograph_for_a_premium_beauty_brand_1.png?v=1785685698
   Price: $59.00 USD
 - [Crystal Muse Remote-Controlled Vibrating Plug | Olyon](https://olyon.co/products/crystal-muse-vibrating-plug): Crystal Muse is a tapered vibrating plug with remote control, soft silicone construction and rechargeable power for solo or shared exploration.
-  Updated: 2026-09-24T04:02:54Z
+  Updated: 2026-10-11T17:46:28Z
   Vendor: Olyon
   Product Type: Vibrating Plug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/crystalmuse2.png?v=1785725987
   Price: $59.00 USD
 - [Palm X App-Controlled Dual-Loop Couples Ring | Olyon](https://olyon.co/products/palm-x-couples-vibrating-ring): Discover Palm X, an app-controlled dual-loop couples ring with rechargeable vibration and a hand-inspired wearable design for shared exploration.
-  Updated: 2026-09-26T12:20:51Z
+  Updated: 2026-10-11T17:50:09Z
   Vendor: Olyon
   Product Type: Vibrating Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/palmX4.png?v=1785730120
   Price: $39.00 USD
-- [Huggy Octo App-Controlled Suction & Vibration Vibrator | Olyon](https://olyon.co/products/huggy-octo-suction-vibration-vibrator): Shop Huggy Octo, an app-controlled suction and vibration vibrator with multiple contact points, rechargeable power and a distinctive multi-arm design.
-  Updated: 2026-09-25T08:07:45Z
+- [Huggy Octo Suction & Vibration Vibrator | Olyon](https://olyon.co/products/huggy-octo-suction-vibration-vibrator): Shop Huggy Octo, an app-controlled suction and vibration vibrator with multiple contact points, rechargeable power and a distinctive multi-arm design.
+  Updated: 2026-10-19T15:08:10Z
   Vendor: Olyon
   Product Type: Suction & Vibration Vibrator
   Availability: Available
@@ -123,77 +123,77 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/huggyocto3.png?v=1785737395
     Price: $69.00 USD
 - [Velora Beaded Silicone Vibrator | Olyon](https://olyon.co/products/velora-beaded-silicone-vibrator): Shop Velora, a beaded silicone vibrator with adjustable vibration and ergonomic shape for a distinctive, comfortable experience.
-  Updated: 2026-09-29T16:28:38Z
+  Updated: 2026-10-18T18:06:53Z
   Vendor: Olyon
   Product Type: Textured Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_9_de60c508-52fb-4da0-b41b-9b0a41a766f3.jpg?v=1790656032
   Price: $59.00 USD
 - [Ego App-Controlled Male Performance Wearable | Olyon](https://olyon.co/products/ego-male-performance-wearable): Explore Ego, an app-controlled male performance wearable with a body-contoured design, soft silicone and flexible hands-free operation.
-  Updated: 2026-09-24T04:02:52Z
+  Updated: 2026-10-19T00:25:04Z
   Vendor: Olyon
   Product Type: Male Performance Wearable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/modify_the_anatomical_humanoid_mannequin_in_data_image_image_1._change_its.png?v=1785739608
   Price: $58.00 USD
 - [Aira Dual-Stimulation Air-Pulse Vibrator | Olyon](https://olyon.co/products/aira-air-pulse-vibrator): Meet Aira: dual G-spot and C-spot stimulation, air-pulse technology, adjustable intensity, and app or on-device control. Discreet shipping from Olyon.
-  Updated: 2026-10-02T20:30:21Z
+  Updated: 2026-10-20T20:55:46Z
   Vendor: Olyon
   Product Type: Air-Pulse Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Aira_de901f0b-28d5-40b5-9c4e-14fe1483a0be.png?v=1789745313
+  Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/6bd0e0bd734de083bce7a9aad36c0889.png?v=1791797836
   - [Red](https://olyon.co/products/aira-air-pulse-vibrator?variant=54030238941500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Aira_de901f0b-28d5-40b5-9c4e-14fe1483a0be.png?v=1789745313
+    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/6bd0e0bd734de083bce7a9aad36c0889.png?v=1791797836
     Price: $72.00 USD
   - [Purple](https://olyon.co/products/aira-air-pulse-vibrator?variant=54030238974268)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/1_1bdc8e20-1282-4ce6-9fdc-6a48725e5bce.png?v=1789745313
+    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_8_c72c7f76-0fd8-4575-ac62-e08f9ab0532f.jpg?v=1791793156
     Price: $72.00 USD
 - [Ember Dual-Tip Fork Rabbit Vibrator | Olyon](https://olyon.co/products/ember-rabbit-vibrator): Shop Ember, a dual-tip fork rabbit vibrator with two vibrating tips and rechargeable silicone for focused personal exploration.
-  Updated: 2026-09-29T08:02:52Z
+  Updated: 2026-10-11T17:47:29Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Ember.png?v=1785745240
   Price: $59.00 USD
 - [Arc Curved G-Spot Vibrator | Olyon](https://olyon.co/products/arc-g-spot-vibrator): Shop Arc, a curved G-spot vibrator with an ergonomic silicone design, focused tip and rechargeable power. A discreet personal vibrator from Olyon.
-  Updated: 2026-09-24T04:02:51Z
+  Updated: 2026-10-11T17:45:29Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/a_high_end_professional_commercial_product_main_image_for_an_e_commerce.png?v=1785746428
   Price: $59.00 USD
 - [Hop & Bliss Compact Air-Pulse Vibrator | Olyon](https://olyon.co/products/hop-bliss-suction-vibrator): Shop Hop & Bliss, a compact air-pulse vibrator with contactless pressure waves, adjustable intensity and rechargeable power.
-  Updated: 2026-09-29T08:02:52Z
+  Updated: 2026-10-11T17:48:12Z
   Vendor: Olyon
   Product Type: Air-Pulse Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/screen_89def219-0135-4383-9dc1-a4c3307251be.png?v=1785857386
   Price: $39.00 USD
 - [Yuzu Ultra-Soft Silicone Vibrator | Olyon](https://olyon.co/products/yuzu-personal-vibrator): Explore Yuzu, an ultra-soft silicone personal vibrator with adjustable vibration, rechargeable power and waterproof construction. Shop discreetly at Olyon.
-  Updated: 2026-09-24T04:02:51Z
+  Updated: 2026-10-11T17:53:08Z
   Vendor: Olyon
   Product Type: Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/yuzu4.png?v=1786452613
   Price: $52.00 USD
 - [Cuddle Bear 2-in-1 Suction & Vibration Vibrator | Olyon](https://olyon.co/products/cuddle-bear): Shop Cuddle Bear, a 2-in-1 suction and vibration vibrator in a compact bear-inspired design. A playful intimate wellness toy from Olyon.
-  Updated: 2026-09-25T14:42:54Z
+  Updated: 2026-10-11T17:46:33Z
   Vendor: Olyon
   Product Type: Suction & Vibration Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/1.webp?v=1786459470
   Price: $59.00 USD
 - [Harmony 7-in-1 Smart Rabbit Vibrator | Olyon](https://olyon.co/products/harmony-rabbit-vibrator-7-in-1-thrusting-swaying-rolling-vibration-suction-heating-app-control): Harmony combines seven stimulation functions with app and on-device control, including thrusting, swaying, rolling, vibration, suction and heating.
-  Updated: 2026-10-02T08:30:05Z
+  Updated: 2026-10-11T17:48:05Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/a_high_end_professional_e_commerce_hero_product_image_featuring_the_pure_white.png?v=1787327475
   Price: $69.00 USD
 - [Whale App-Controlled Wearable Mini Vibrator | Olyon](https://olyon.co/products/whale-app-controlled-wearable-mini-vibrator): Whale is a compact wearable vibrator with app and remote control, 3 vibration levels, 6 patterns and IPX6 water resistance.
-  Updated: 2026-09-24T04:02:49Z
+  Updated: 2026-10-11T17:52:57Z
   Vendor: OLYON
   Product Type: Wearable Vibrator
   Availability: Available
@@ -207,49 +207,49 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_99_dcdf8c1d-c33b-46c3-9541-f55c44b1a7c0.jpg?v=1788859233
     Price: $69.00 USD
 - [Winter Dual-Motor Remote Wearable Vibrator | Olyon](https://olyon.co/products/winter-dual-motor-remote-wearable-vibrator): Shop Winter, a dual-motor remote wearable vibrator with flexible positioning, multiple vibration patterns, waterproof silicone and discreet control.
-  Updated: 2026-09-24T04:02:49Z
+  Updated: 2026-10-11T17:53:04Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_e53bf357-9149-447a-b89e-04ab3e64d241.jpg?v=1788859336
   Price: $65.00 USD
 - [Butterfly Wearable Remote-Controlled Vibrator | Olyon](https://olyon.co/products/butterfly-wearable-remote-controlled-vibrator): Butterfly is a 52 g wearable vibrator with remote control, 3 vibration levels and 6 patterns in a compact curved form.
-  Updated: 2026-09-24T04:02:49Z
+  Updated: 2026-10-11T17:46:03Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_12e14bdd-9adc-4de0-8cbd-04b3e971609b.jpg?v=1788859691
   Price: $59.00 USD
 - [Raper-RCT Flexible Prostate Vibrator | Olyon](https://olyon.co/products/riva-flexible-remote-vibrator-vibration-tapping): Explore Raper-RCT, a flexible remote prostate vibrator with adjustable vibration, rhythmic tapping, wearable positioning and waterproof silicone.
-  Updated: 2026-09-24T04:02:48Z
+  Updated: 2026-10-11T17:50:31Z
   Vendor: Olyon
   Product Type: Prostate Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_5_ad077168-6713-403b-aea4-9b306ce4f892.jpg?v=1788859845
   Price: $68.00 USD
 - [Magic Pod Pro AI App-Controlled Vibrator | Olyon](https://olyon.co/products/magic-pod-pro-ai-app-controlled-vibrator): Shop Magic Pod Pro, an AI app-controlled vibrator with tongue-inspired motion, powerful vibration and rechargeable USB-C charging.
-  Updated: 2026-09-25T14:42:17Z
+  Updated: 2026-10-11T17:49:10Z
   Vendor: Olyon
   Product Type: Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_3_f9b0e8f9-95ad-4834-96b1-211f816373b0.jpg?v=1788859922
   Price: $89.00 USD
 - [Banana Pro App-Controlled Wearable Vibrator | Olyon](https://olyon.co/products/banana-pro-app-controlled-wearable-vibrator): Banana Pro combines app control, dual-point external contact, 3 vibration levels and 6 patterns in a compact wearable design.
-  Updated: 2026-09-24T04:02:48Z
+  Updated: 2026-10-11T17:45:50Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_768217c9-78bd-4562-8829-c1d67556160c.jpg?v=1788860000
   Price: $59.00 USD
 - [AuraVibe Rechargeable Wand Vibrator | Olyon](https://olyon.co/products/auravibe-long-lasting-rechargeable-wand-vibrator): Shop AuraVibe, a rechargeable wand vibrator with 3 vibration levels, 6 patterns, long-lasting battery power and IPX7 water resistance.
-  Updated: 2026-09-24T04:02:48Z
+  Updated: 2026-10-11T17:45:42Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/aura-vibe-main.jpg?v=1788856844
   Price: $68.00 USD
 - [Cleopatra App-Controlled Tongue-Inspired Vibrator | Olyon](https://olyon.co/products/cleopatra-app-controlled-tongue-inspired-vibrator): Explore Cleopatra, an app-controlled tongue-inspired vibrator combining vibration and rhythmic movement with rechargeable magnetic USB charging.
-  Updated: 2026-09-25T14:41:03Z
+  Updated: 2026-10-11T17:46:11Z
   Vendor: Olyon
   Product Type: Vibrator
   Availability: Available
@@ -263,7 +263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/cleopatra-purple.jpg?v=1788857768
     Price: $69.00 USD
 - [Melody Ergonomic G-Spot Wand Vibrator | Olyon](https://olyon.co/products/melody-ergonomic-g-spot-wand-vibrator): Shop Melody, an ergonomic G-spot wand vibrator with a rounded targeted tip, adjustable vibration, rechargeable magnetic USB charging and IPX7 water resistance.
-  Updated: 2026-09-25T14:39:46Z
+  Updated: 2026-10-11T17:49:36Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
@@ -277,7 +277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/melody-wine-red.jpg?v=1788858072
     Price: $59.00 USD
 - [Tease Park Multi-Function Rabbit Wand Vibrator | Olyon](https://olyon.co/products/tease-park-multi-function-rabbit-wand-vibrator): Explore Tease Park, a multi-function rabbit wand vibrator combining vibration, licking and tapping with multiple adjustable patterns.
-  Updated: 2026-09-24T04:02:47Z
+  Updated: 2026-10-11T17:51:27Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_e6e255e3-f01c-4312-9f4a-e8f88c26545b.png?v=1788940193
     Price: $79.00 USD
 - [Kaethe Dual-Motor Rabbit Wand Vibrator | Olyon](https://olyon.co/products/kaethe-dual-motor-flexible-rabbit-wand-vibrator): Shop Kaethe, a flexible dual-motor rabbit wand vibrator with independently adjustable vibration zones and rechargeable magnetic USB charging.
-  Updated: 2026-09-24T04:02:47Z
+  Updated: 2026-10-11T17:48:23Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_c2ea6d0d-0e7b-4fc4-ae10-f13534e003e8.jpg?v=1788939841
     Price: $69.00 USD
 - [Fox Fairy Dual-Motor Rabbit Vibrator | Olyon](https://olyon.co/products/fox-fairy-soft-dual-motor-rabbit-vibrator): Shop Fox Fairy, a soft dual-motor rabbit vibrator with two-point stimulation, adjustable rhythms and flexible silicone construction.
-  Updated: 2026-09-25T14:39:00Z
+  Updated: 2026-10-11T17:47:45Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
@@ -319,7 +319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/screen_3.png?v=1788860692
     Price: $69.00 USD
 - [Dancer Rotating Vibration Wand Vibrator | Olyon](https://olyon.co/products/dancer-360-rotating-vibrating-wand-vibrator): Shop Dancer, a rotating and vibrating wand vibrator with 360° movement, three function modes and rechargeable magnetic USB charging.
-  Updated: 2026-09-24T04:02:45Z
+  Updated: 2026-10-11T17:46:47Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -333,14 +333,14 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/dancer-light-blue.jpg?v=1788858623
     Price: $68.00 USD
 - [Musical Note Wearable Vibrator with Remote | Olyon](https://olyon.co/products/musical-note-remote-controlled-wearable-vibrator): Musical Note combines 3 vibration levels and 6 patterns with remote control and a dual-point wearable design for hands-free use.
-  Updated: 2026-09-25T14:38:12Z
+  Updated: 2026-10-11T17:49:50Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_3_d6bf9c0c-5562-4cfe-a303-13944fc6b922.jpg?v=1789112765
   Price: $79.00 USD
 - [VIBE Compact Couples Wearable Vibrator | Olyon](https://olyon.co/products/vibe-compact-couples-wearable-vibrator): VIBE is a lightweight 37g couples wearable with one vibration frequency, a 150mAh button battery and IPX7 waterproof construction.
-  Updated: 2026-09-25T14:36:51Z
+  Updated: 2026-10-11T17:52:35Z
   Vendor: Olyon
   Product Type: Couples Vibrator
   Availability: Available
@@ -354,7 +354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/vibe-purple.jpg?v=1788858645
     Price: $49.00 USD
 - [Lorna Dual-Point Couples Wearable Vibrator | Olyon](https://olyon.co/products/lorna-dual-point-couples-wearable-vibrator): Lorna combines 3 vibration levels and 6 patterns with a dual-point wearable design, hands-free positioning and IPX7 water resistance.
-  Updated: 2026-09-24T03:51:44Z
+  Updated: 2026-10-11T17:48:40Z
   Vendor: Olyon
   Product Type: Couples Wearable Vibrator
   Availability: Available
@@ -368,7 +368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon.png?v=1788938716
     Price: $59.00 USD
 - [Warrior Men's Endurance & Glans Sensitivity Trainer | Olyon](https://olyon.co/products/warrior-mens-performance-vibrator): Explore Warrior, a men's performance trainer with adjustable vibration, multi-point contact and waterproof silicone. Designed for focused personal training.
-  Updated: 2026-09-25T14:35:16Z
+  Updated: 2026-10-11T17:52:43Z
   Vendor: Olyon
   Product Type: Men's Performance Trainer
   Availability: Available
@@ -382,14 +382,14 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/warrior-red.jpg?v=1788858698
     Price: $68.00 USD
 - [Wandering Wearable Prostate Vibrator | Olyon](https://olyon.co/products/wandering-wearable-prostate-vibrator): Explore Wandering, a wearable prostate vibrator with adjustable vibration, dual-loop positioning and a flexible silicone design for hands-free use.
-  Updated: 2026-09-25T14:33:46Z
+  Updated: 2026-10-11T17:52:39Z
   Vendor: Olyon
   Product Type: Prostate Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_44_90a9ae79-ef2b-4cf2-a795-693ad4307319.jpg?v=1790046549
   Price: $66.00 USD
 - [Do Re Mi Dual-Point Wearable Vibrator | Olyon](https://olyon.co/products/do-re-mi-wearable-dual-point-vibrator): Do Re Mi combines 3 vibration levels and 6 patterns with a lightweight dual-point wearable design, magnetic USB charging and IPX7 water resistance.
-  Updated: 2026-09-29T13:33:50Z
+  Updated: 2026-10-11T17:47:01Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
@@ -403,21 +403,21 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_43cdc7c9-18d1-4479-bc38-6214efb154ce.jpg?v=1788861499
     Price: $66.00 USD
 - [Se Lips Dual-Function Clitoral Vibrator | Olyon](https://olyon.co/products/se-lips-dual-function-clitoral-vibrator): Shop Se Lips, a dual-function clitoral vibrator combining vibration and tongue-style rhythmic motion with rechargeable magnetic USB charging.
-  Updated: 2026-09-25T14:32:21Z
+  Updated: 2026-10-11T17:50:54Z
   Vendor: Olyon
   Product Type: Clitoral Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/screen_d3b72191-2948-49fc-850f-9f3b9d2848dc.png?v=1789031362
   Price: $72.00 USD
 - [Caged Nightingale Heated Men's Masturbator | Olyon](https://olyon.co/products/caged-nightingale-heated-rechargeable-mens-masturbator): Explore Caged Nightingale, a heated men's masturbator with a soft flexible sleeve, integrated warming and rechargeable USB-C power.
-  Updated: 2026-10-02T07:03:37Z
+  Updated: 2026-10-11T17:46:07Z
   Vendor: Olyon
   Product Type: Men's Masturbator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/caged-nightingale.jpg?v=1788859122
   Price: $72.00 USD
 - [Spirit Bomb Detachable Men's Masturbator | Olyon](https://olyon.co/products/spirit-bomb-detachable-vibrating-mens-masturbator): Shop Spirit Bomb, a detachable men's masturbator with adjustable vibration, easy-clean construction and rechargeable magnetic USB charging.
-  Updated: 2026-09-24T03:51:43Z
+  Updated: 2026-10-12T23:04:16Z
   Vendor: Olyon
   Product Type: Men's Masturbator
   Availability: Available
@@ -431,7 +431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_1b5e67bb-8871-4c55-a4d3-9fe8b188676f.png?v=1789029438
     Price: $70.00 USD
 - [Siren Multi-Function Wand Vibrator | Olyon](https://olyon.co/products/siren-multi-function-adaptive-wand-vibrator): Explore Siren, a multi-function wand vibrator combining vibration, tapping and tongue-style movement with flexible positioning and rechargeable power.
-  Updated: 2026-09-24T03:51:42Z
+  Updated: 2026-10-11T17:51:02Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -445,7 +445,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/siren-purple.jpg?v=1788859156
     Price: $79.00 USD
 - [Marshall Multi-Function Wand Vibrator | Olyon](https://olyon.co/products/marshall-multi-function-vibrator): Explore Marshall, a multi-function vibrator combining vibration, tongue-style movement and tapping with rechargeable power and IPX7 water resistance.
-  Updated: 2026-09-24T03:51:42Z
+  Updated: 2026-10-11T17:49:18Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -459,14 +459,14 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/marshall-purple.png?v=1788859171
     Price: $69.00 USD
 - [Tickle Flexible G-Spot Wand Vibrator | Olyon](https://olyon.co/products/tickle-flexible-g-spot-wand-vibrator): Shop Tickle, a flexible G-spot wand vibrator with adjustable vibration and electric-shock stimulation, designed for targeted positioning and easy handling.
-  Updated: 2026-09-27T11:57:08Z
+  Updated: 2026-10-11T17:51:31Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_30d49b43-c275-4cf6-9754-aacbf78d298c.jpg?v=1789023822
   Price: $62.00 USD
 - [Mellifonics G-Spot Wand Vibrator | Olyon](https://olyon.co/products/mellifonics-ergonomic-g-spot-wand-vibrator): Shop Mellifonics, an ergonomic G-spot wand vibrator with adjustable vibration, targeted positioning, rechargeable power and IPX7 water resistance.
-  Updated: 2026-09-29T09:21:23Z
+  Updated: 2026-10-11T17:49:29Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
@@ -480,14 +480,14 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/mellifonics-lilac.jpg?v=1788859219
     Price: $56.00 USD
 - [Crimson Tide Triple-Motor Vibrator | Olyon](https://olyon.co/products/crimson-tide-liquid-silicone-dual-motor-vibrator): Explore Crimson Tide, a triple-motor vibrator with adjustable vibration, rhythmic motion and soft liquid silicone construction.
-  Updated: 2026-09-25T14:35:58Z
+  Updated: 2026-10-11T17:46:22Z
   Vendor: Olyon
   Product Type: Multi-Function Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_3_bc98aeee-2834-4cea-986c-de06c418da9f.jpg?v=1789019623
   Price: $73.00 USD
 - [Godlike-2 Ergonomic G-Spot Wand Vibrator | Olyon](https://olyon.co/products/godlike-2-ergonomic-g-spot-wand-vibrator): Explore Godlike-2, an ergonomic G-spot wand vibrator with a firm curved shaft, adjustable vibration and controlled positioning.
-  Updated: 2026-09-25T14:46:30Z
+  Updated: 2026-10-11T17:47:53Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/godlike-2-purple.jpg?v=1788859403
     Price: $59.00 USD
 - [Dakki Dual-Motor Wearable Vibrator | Olyon](https://olyon.co/products/dakki-wearable-dual-motor-vibrator): Dakki combines dual-motor vibration, 3 levels and 6 patterns with a 128 mm wearable form, magnetic USB charging and IPX7 water resistance.
-  Updated: 2026-09-24T03:51:40Z
+  Updated: 2026-10-11T17:46:43Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
@@ -515,7 +515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/dakki-blue.png?v=1788860002
     Price: $69.00 USD
 - [Albizia Flexible Dual-Use Vibrator | Olyon](https://olyon.co/products/albizia-flexible-dual-use-vibrator): Explore Albizia, a flexible dual-use vibrator with an elongated ergonomic design, two functional zones and rechargeable power.
-  Updated: 2026-09-24T03:51:40Z
+  Updated: 2026-10-11T17:45:11Z
   Vendor: Olyon
   Product Type: Dual-Function Vibrator
   Availability: Available
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/albizia-black.jpg?v=1788860040
     Price: $74.00 USD
 - [HugRush Dual-Head Pelvic Floor Vibrator | Olyon](https://olyon.co/products/hugrush-dual-head-pelvic-floor-vibrator): Explore HugRush, a dual-head pelvic floor vibrator with dual-motor stimulation, adjustable vibration and waterproof liquid silicone.
-  Updated: 2026-09-24T03:51:39Z
+  Updated: 2026-10-11T17:48:20Z
   Vendor: Olyon
   Product Type: Pelvic Floor Vibrator
   Availability: Available
@@ -543,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/hugrush-beige.jpg?v=1788860075
     Price: $79.00 USD
 - [Lovepad Dual-Motor Massage Seat Pad | Olyon](https://olyon.co/products/lovepad-dual-motor-massage-seat-pad): Lovepad combines dual-motor vibration, 3 levels and 6 patterns in a 263 mm full-silicone massage seat pad with magnetic USB charging and IPX7 water resistance.
-  Updated: 2026-09-24T03:53:42Z
+  Updated: 2026-10-11T17:48:53Z
   Vendor: Olyon
   Product Type: Massage Pad
   Availability: Available
@@ -557,7 +557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_2e8e6b39-8ca9-491a-90da-d156b7d8d097.jpg?v=1788939271
     Price: $69.00 USD
 - [Coco Seed Compact Silicone Vibrator | Olyon](https://olyon.co/products/coco-seed-compact-liquid-silicone-vibrator): Shop Coco Seed, a compact liquid-silicone vibrator with rechargeable power, waterproof construction and a discreet portable design.
-  Updated: 2026-09-24T03:51:39Z
+  Updated: 2026-10-11T17:46:19Z
   Vendor: Olyon
   Product Type: Compact Vibrator
   Availability: Available
@@ -571,28 +571,28 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/coco-seed-white.jpg?v=1788860125
     Price: $65.00 USD
 - [Body-Form App-Controlled Men's Masturbator | Olyon](https://olyon.co/products/body-form-male-masturbator): Explore Body-Form, an app-controlled ergonomic men's masturbator with 9 vibration modes, rechargeable power and waterproof construction.
-  Updated: 2026-09-21T15:34:38Z
+  Updated: 2026-10-11T17:45:25Z
   Vendor: Olyon
   Product Type: Men's Masturbator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/lingzhua-main.jpg?v=1788860232
   Price: $82.00 USD
 - [Lovely Kiss 3-in-1 Suction & Vibration Vibrator | Olyon](https://olyon.co/products/lovely-kiss-3-in-1-suction-vibration-vibrator): Shop Lovely Kiss, a 3-in-1 suction and vibration vibrator with rhythmic motion, rechargeable USB-C power and a compact water-ready design.
-  Updated: 2026-09-29T13:36:23Z
+  Updated: 2026-10-11T17:48:50Z
   Vendor: Olyon
   Product Type: Clitoral Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_3_ef2ef81e-9665-41a0-b999-a4883b1965fe.jpg?v=1789960611
   Price: $72.00 USD
 - [Medusa Dual-Function Touch & Lick Vibrator | Olyon](https://olyon.co/products/medusa-dual-function-touch-lick-vibrator): Explore Medusa, a dual-function clitoral vibrator with vibration, tongue-style movement, magnetic USB charging and IPX7 water resistance.
-  Updated: 2026-09-29T08:02:52Z
+  Updated: 2026-10-11T17:49:22Z
   Vendor: Olyon
   Product Type: Clitoral Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/medusa-main.jpg?v=1788860264
   Price: $76.00 USD
 - [Velvet Kiss Flexible Vibration & Tapping Vibrator | Olyon](https://olyon.co/products/velvet-kiss-flexible-vibration-tapping-vibrator): Shop Velvet Kiss, a flexible vibration and tapping vibrator with remote control, adjustable patterns and waterproof silicone.
-  Updated: 2026-09-24T03:51:38Z
+  Updated: 2026-10-11T17:52:31Z
   Vendor: Olyon
   Product Type: Multi-Function Vibrator
   Availability: Available
@@ -606,7 +606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_6813b11b-5089-46e4-ae4d-a16c111e25bc.jpg?v=1788939101
     Price: $68.00 USD
 - [Planet Compact Air-Pulse Vibrator | Olyon](https://olyon.co/products/planet-compact-air-pulse-vibrator): Shop Planet, a compact air-pulse vibrator with adjustable suction, multiple patterns and IPX7 waterproof construction.
-  Updated: 2026-09-24T03:51:38Z
+  Updated: 2026-10-11T17:50:21Z
   Vendor: Olyon
   Product Type: Air-Pulse Vibrator
   Availability: Available
@@ -620,7 +620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/planet-orange.jpg?v=1788860303
     Price: $64.00 USD
 - [Romantic Rose-Inspired Air-Pulse Vibrator | Olyon](https://olyon.co/products/romantic-rose-inspired-air-pulse-vibrator): Discover Romantic, a rose-inspired air-pulse vibrator with adjustable suction, multiple patterns and ambient light modes.
-  Updated: 2026-09-24T03:51:38Z
+  Updated: 2026-10-11T17:50:46Z
   Vendor: Olyon
   Product Type: Air-Pulse Vibrator
   Availability: Available
@@ -634,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/romantic-pink.jpg?v=1788860639
     Price: $69.00 USD
 - [Honey Heart Suction & Vibration Vibrator | Olyon](https://olyon.co/products/honey-heart-2-in-1-suction-vibrator): Shop Honey Heart, a 2-in-1 suction and vibration clitoral vibrator with adjustable patterns, rechargeable power and waterproof silicone.
-  Updated: 2026-09-24T03:51:36Z
+  Updated: 2026-10-12T22:56:26Z
   Vendor: Olyon
   Product Type: Clitoral Vibrator
   Availability: Available
@@ -648,7 +648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/honey-heart-purple.jpg?v=1788860721
     Price: $69.00 USD
 - [Genie Dual-Action G-Spot Wand Vibrator | Olyon](https://olyon.co/products/genie-dual-action-g-spot-wand-vibrator): Shop Genie, a dual-action G-spot wand vibrator with adjustable vibration, rhythmic tapping and ergonomic control.
-  Updated: 2026-09-24T03:51:36Z
+  Updated: 2026-10-11T17:47:49Z
   Vendor: Olyon
   Product Type: G-Spot Vibrator
   Availability: Available
@@ -662,35 +662,28 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/genie-red.jpg?v=1788860662
     Price: $69.00 USD
 - [Atlanta Heated Vibrating Men's Masturbator | Olyon](https://olyon.co/products/atlanta-heated-vibrating-mens-masturbator): Explore Atlanta, a heated vibrating men's masturbator with squeeze control, adjustable vibration and rechargeable power.
-  Updated: 2026-09-24T03:51:36Z
+  Updated: 2026-10-11T17:45:33Z
   Vendor: Olyon
   Product Type: Men's Masturbator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/atlanta-main.jpg?v=1788860672
   Price: $69.00 USD
 - [Whale Spirit Wearable Vibrator | Olyon](https://olyon.co/products/whale-spirit-compact-clip-on-wearable-vibrator): Whale Spirit is a clip-on wearable vibrator with 3 levels, 6 patterns, soft silicone construction and IPX7 waterproofing.
-  Updated: 2026-09-24T03:51:36Z
+  Updated: 2026-10-11T17:52:52Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/whale-spirit-green.jpg?v=1788860739
-  - [Green](https://olyon.co/products/whale-spirit-compact-clip-on-wearable-vibrator?variant=54364543942972)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/whale-spirit-green.jpg?v=1788860739
-    Price: $63.00 USD
-  - [Red](https://olyon.co/products/whale-spirit-compact-clip-on-wearable-vibrator?variant=54364543975740)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/whale-spirit-pink.jpg?v=1788860684
-    Price: $63.00 USD
+  Price: $63.00 USD
 - [EroticWrap Hands-Free Wearable Vibrator | Olyon](https://olyon.co/products/eroticwrap-adjustable-hands-free-wearable-vibrator): Explore EroticWrap, a hands-free wearable vibrator with adjustable vibration, secure positioning and a discreet wearable design.
-  Updated: 2026-09-24T03:51:35Z
+  Updated: 2026-10-17T19:49:36Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/eroticwrap-main.png?v=1788860694
   Price: $71.00 USD
 - [Dark Angel Long-Lasting Wand Vibrator | Olyon](https://olyon.co/products/dark-angel-wand-vibrator): Shop Dark Angel, a long-lasting wand vibrator with 7 vibration frequencies, flexible comfort and rechargeable battery power.
-  Updated: 2026-09-23T21:45:14Z
+  Updated: 2026-10-11T17:46:50Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -704,7 +697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/dark-angel-gold.jpg?v=1788860703
     Price: $88.00 USD
 - [Bloody Mary Flexible BDSM Vibration Wand | Olyon](https://olyon.co/products/bloody-mary-flexible-bdsm-vibration-wand): Bloody Mary is a flexible vibration wand with 3 levels, 6 patterns, 119 mm insertion depth and magnetic USB charging.
-  Updated: 2026-09-24T03:51:35Z
+  Updated: 2026-10-11T17:45:52Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -718,7 +711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/bloody-mary-brown.png?v=1788918099
     Price: $70.00 USD
 - [Angel's Hand Dual-Motor Vibrator | Olyon](https://olyon.co/products/angels-hand-dual-motor-hand-shaped-vibrator): Explore Angel's Hand, a dual-motor vibrator with adjustable vibration, rhythmic rotation and a distinctive hand-inspired design.
-  Updated: 2026-09-24T03:51:35Z
+  Updated: 2026-10-11T17:45:20Z
   Vendor: Olyon
   Product Type: Dual-Motor Vibrator
   Availability: Available
@@ -732,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/angel-hand-green.png?v=1788918127
     Price: $72.00 USD
 - [Halo Adjustable Suction Massager | Olyon](https://olyon.co/products/olyon-halo-adjustable-suction-massager): Shop Halo, an adjustable suction massager with 12 suction settings, quiet operation, rechargeable magnetic USB charging and IPX7 waterproofing.
-  Updated: 2026-09-29T13:34:20Z
+  Updated: 2026-10-19T02:05:36Z
   Vendor: Olyon
   Product Type: Suction Massager
   Availability: Available
@@ -754,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-halo-1.jpg?v=1789381525
     Price: $59.00 USD
 - [Bloom 12-Level Rabbit Vibrator | Olyon](https://olyon.co/products/olyon-bloom-rabbit-vibrator): Shop Bloom, a 12-level rabbit vibrator with dual-area stimulation, simple controls and a rechargeable waterproof design for personalized use.
-  Updated: 2026-09-23T21:46:57Z
+  Updated: 2026-10-11T17:45:55Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
@@ -776,7 +769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_3_c489705b-4e75-41ec-aa8f-cfdc04668b8c.jpg?v=1789538884
     Price: $62.00 USD
 - [Muse 9-Level Wand Vibrator | Olyon](https://olyon.co/products/olyon-muse-wand-massager-with-adjustable-vibration): Shop Muse, a 9-level wand vibrator with an ergonomic elongated design, adjustable vibration and rechargeable power for simple external stimulation.
-  Updated: 2026-09-29T13:36:29Z
+  Updated: 2026-10-11T17:49:45Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
@@ -806,37 +799,21 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_158d7ada-bb43-4e73-9c40-7f8e4334c779.jpg?v=1789549330
     Price: $61.00 USD
 - [Muse Plus 9-Level Wand Vibrator | Olyon](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration): Shop Muse Plus, a 9-level wand vibrator with an easy-to-hold elongated design and adjustable vibration for simple external stimulation.
-  Updated: 2026-09-25T14:24:56Z
+  Updated: 2026-10-16T15:33:04Z
   Vendor: Olyon
   Product Type: Wand Vibrator
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_6_d9367cd1-2d66-4935-9bcb-dc67d2196149.jpg?v=1789551751
+  Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_2_bbf35f45-8089-4999-959b-be827c06e9ef.jpg?v=1789382089
   - [Black](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784052540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_2_bbf35f45-8089-4999-959b-be827c06e9ef.jpg?v=1789382089
-    Price: $63.00 USD
-  - [White](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784085308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_6_d9367cd1-2d66-4935-9bcb-dc67d2196149.jpg?v=1789551751
-    Price: $63.00 USD
-  - [Red](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784118076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_fb4919e6-e893-470f-aeaf-fd0c70586fc2.png?v=1789551753
-    Price: $63.00 USD
-  - [Pink](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784150844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_0e7b7210-7d93-44a4-b69d-9cb6b908f354.png?v=1789551752
     Price: $63.00 USD
   - [Purple](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784183612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_74a99cc2-08c0-4ca3-8363-6abce8fabbe1.jpg?v=1789551750
     Price: $63.00 USD
-  - [Green](https://olyon.co/products/olyon-muse-plus-wand-massager-with-adjustable-vibration?variant=54408784216380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_99757679-75e7-4633-8162-3f63f6c017c8.jpg?v=1789551750
-    Price: $63.00 USD
 - [Halo Ring 12-Level Ring Vibrator | Olyon](https://olyon.co/products/olyon-halo-ring-ring-shaped-vibrator-with-adjustable-vibration): Shop Halo Ring, a compact ring vibrator with 12 adjustable vibration levels and a streamlined design that's easy to handle.
-  Updated: 2026-09-26T12:20:51Z
+  Updated: 2026-10-11T17:47:57Z
   Vendor: Olyon
   Product Type: Ring-Shaped Vibrator
   Availability: Available
@@ -858,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_2_aa0d3538-b6b7-4bee-a39a-083d7bca4510.jpg?v=1789444773
     Price: $49.00 USD
 - [Aero 12-Level Male Masturbator | Olyon](https://olyon.co/products/olyon-aero-male-masturbator-with-adjustable-vibration): Shop Aero, a 12-level male masturbator with a compact cup design, adjustable vibration and an easy-to-handle form.
-  Updated: 2026-09-27T11:57:07Z
+  Updated: 2026-10-11T17:44:55Z
   Vendor: Olyon
   Product Type: Male Masturbator
   Availability: Available
@@ -880,7 +857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_2_b70ff2f9-58d0-4fb3-b876-a0f3c73b4d66.jpg?v=1789612907
     Price: $52.00 USD
 - [Petal 10-Level Suction Massager | Olyon](https://olyon.co/products/olyon-petal-10-level-suction-massager): Shop Petal, a 10-level suction massager with focused adjustable suction, magnetic USB charging and a compact, easy-to-handle design.
-  Updated: 2026-09-29T01:34:41Z
+  Updated: 2026-10-11T17:50:12Z
   Vendor: Olyon
   Product Type: Suction Massager
   Availability: Available
@@ -902,7 +879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_7639a843-f6e1-4de8-8495-96f496a5f314.jpg?v=1789459223
     Price: $59.00 USD
 - [Duo 10-Level Suction & Vibration Vibrator | Olyon](https://olyon.co/products/olyon-duo-suction-vibration-massager): Shop Duo, a suction and vibration vibrator with 10 adjustable levels for each function and simple controls for personalized intensity.
-  Updated: 2026-09-24T03:53:42Z
+  Updated: 2026-10-11T17:47:18Z
   Vendor: Olyon
   Product Type: Suction & Vibration Vibrator
   Availability: Available
@@ -916,7 +893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-duo.jpg?v=1789381816
     Price: $58.00 USD
 - [Slim 12-Level Compact Vibrator | Olyon](https://olyon.co/products/olyon-slim-compact-vibrator-with-12-vibration-levels): Shop Slim, a compact vibrator with 12 adjustable vibration levels and a slim ergonomic design that's easy to handle, store and carry.
-  Updated: 2026-09-29T13:36:35Z
+  Updated: 2026-10-11T17:51:12Z
   Vendor: Olyon
   Product Type: Compact Vibrator
   Availability: Available
@@ -934,21 +911,21 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_f6760cf3-f830-4e16-a12b-81f6c8f8830d.jpg?v=1789726752
     Price: $48.00 USD
 - [Axis Telescoping Vibrator | Olyon](https://olyon.co/products/olyon-axis-telescoping-vibrator): Shop Axis, a telescoping vibrator combining adjustable movement and vibration in one versatile design with simple personalized control.
-  Updated: 2026-09-24T03:51:32Z
+  Updated: 2026-10-11T17:45:45Z
   Vendor: Olyon
   Product Type: Telescoping Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-axis.jpg?v=1789381839
   Price: $69.00 USD
 - [Curve 10-Level App-Controlled Vibrator | Olyon](https://olyon.co/products/olyon-curve-app-controlled-vibrator): Shop Curve, an app-controlled vibrator with 10 adjustable vibration levels, a curved ergonomic design and connected control.
-  Updated: 2026-09-29T13:35:16Z
+  Updated: 2026-10-11T17:46:36Z
   Vendor: Olyon
   Product Type: Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-curve.jpg?v=1789381852
   Price: $56.00 USD
 - [Reach Telescoping Vibrator | Olyon](https://olyon.co/products/olyon-reach-telescoping-vibrator): Shop Reach, a telescoping vibrator combining adjustable movement and vibration in one versatile design with simple personalized control.
-  Updated: 2026-09-29T13:35:31Z
+  Updated: 2026-10-11T17:50:37Z
   Vendor: Olyon
   Product Type: Telescoping Vibrator
   Availability: Available
@@ -962,28 +939,28 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_bb4b45c0-18d1-46f1-bfe4-5f876eccae68.png?v=1789626018
     Price: $69.00 USD
 - [Octopus Magic Hand Electrical Stimulation Device | Olyon](https://olyon.co/products/olyon-pulsewave-electrical-stimulation-device): Shop Octopus Magic Hand, a vibration and electrical-stimulation device with 10 vibration settings and 6 adjustable electrical-stimulation frequencies.
-  Updated: 2026-09-24T03:51:31Z
+  Updated: 2026-10-11T17:49:58Z
   Vendor: Olyon
   Product Type: Electrical-Stimulation Device
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-pulsewave.jpg?v=1789381886
   Price: $53.00 USD
 - [Pulse Suction & Vibration Vibrator | Olyon](https://olyon.co/products/olyon-pulse-suction-vibration-massager): Shop Pulse, a suction and vibration vibrator with 5 suction levels and 10 vibration levels for simple personalized control.
-  Updated: 2026-09-29T13:34:56Z
+  Updated: 2026-10-19T02:05:25Z
   Vendor: Olyon
   Product Type: Suction & Vibration Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_e7597ff7-d498-4b62-b73d-21e70aa9b167.jpg?v=1789467428
   Price: $62.00 USD
 - [Loop 9-Level App-Controlled Wearable Vibrator | Olyon](https://olyon.co/products/olyon-loop-app-controlled-u-shaped-wearable-vibrator): Shop Loop, a U-shaped app-controlled wearable vibrator with 9 adjustable vibration levels and a compact hands-free design.
-  Updated: 2026-09-24T03:51:29Z
+  Updated: 2026-10-11T17:48:32Z
   Vendor: Olyon
   Product Type: Wearable Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/olyon-loop.jpg?v=1789381703
   Price: $59.00 USD
 - [AuraFlow Suction & Vibration Vibrator | Olyon](https://olyon.co/products/olyon-auraflow-suction-vibration-massager): Shop AuraFlow, a suction and vibration vibrator with 7 adjustable modes in an ergonomic rechargeable design.
-  Updated: 2026-09-24T03:51:29Z
+  Updated: 2026-10-11T17:45:38Z
   Vendor: Olyon
   Product Type: Suction & Vibration Vibrator
   Availability: Available
@@ -997,14 +974,14 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/Olyon_1fb43023-f7be-4a3b-83af-64f57ae2155f.png?v=1789440208
     Price: $59.00 USD
 - [Vela 9-Level Rechargeable Vibrator | Olyon](https://olyon.co/products/olyon-vela-rechargeable-vibrator): Shop Vela, a rechargeable vibrator with 9 adjustable vibration levels and a slim ergonomic form that's easy to handle, store and carry.
-  Updated: 2026-09-24T03:51:29Z
+  Updated: 2026-10-19T15:08:02Z
   Vendor: Olyon
   Product Type: Vibrator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_1_598757db-3cf0-4770-aaea-78c6c10d67bf.jpg?v=1789440256
   Price: $63.00 USD
 - [Luma 9-Level Rabbit Vibrator | Olyon](https://olyon.co/products/olyon-luma-rabbit-vibrator): Shop Luma, a 9-level rabbit vibrator with dual-area stimulation, simple controls and a rechargeable waterproof design.
-  Updated: 2026-09-24T03:51:29Z
+  Updated: 2026-10-11T17:48:57Z
   Vendor: Olyon
   Product Type: Rabbit Vibrator
   Availability: Available
@@ -1017,107 +994,114 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/unnamed_2_f9b25bf6-804d-4533-84aa-4925d475954b.jpg?v=1789440285
     Price: $69.00 USD
+- [Discreet Toy Storage Case in Black PU Leather | Olyon](https://olyon.co/products/olyon-discreet-storage-case): Keep your personal essentials together with Olyon's discreet black PU leather case. Holds up to 18 items, with a zip-around closure and easy-carry handle.
+  Updated: 2026-10-11T17:51:45Z
+  Vendor: Olyon
+  Product Type: Storage & Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4955/2188/files/screen_8d7873df-b434-4fae-9871-97ee0c9d08e4.png?v=1791185370
+  Price: $49.90 USD
 
 ## Collections
 
 - [Best Sellers](https://olyon.co/collections/best-sellers): Discover Olyon's best- vibrators, masturbators, and intimate wellness products chosen by shoppers looking for more ways to feel good.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 10
 - [G-Spot Vibrators](https://olyon.co/collections/g-spot-vibrators): Shop curved G-spot vibrators in different sizes, shapes, and intensity levels for focused internal stimulation and comfortable exploration.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 41
-- [Clitoral Suction](https://olyon.co/collections/clitoral-suction-vibrators): Shop clitoral suction vibrators with air-pulse stimulation. Compare compact designs and adjustable settings to find the right fit at Olyon.
-  Updated: 2026-10-02T11:26:13Z
+- [Clitoral Suction & Air-Pulse Vibrators](https://olyon.co/collections/clitoral-suction-vibrators): Shop clitoral suction vibrators with air-pulse stimulation. Compare compact designs and adjustable settings to find the right fit at Olyon.
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 15
 - [Rabbit Vibrators](https://olyon.co/collections/rabbit-vibrators): Shop rabbit vibrators for internal and clitoral stimulation. Explore dual-stimulation designs, including flexible and spiral styles, at Olyon.
-  Updated: 2026-09-25T11:28:47Z
-  Total Products: 8
+  Updated: 2026-10-10T13:47:25Z
+  Total Products: 7
 - [Clitoral Vibrators](https://olyon.co/collections/clitoral-vibrators): Shop clitoral vibrators in compact shapes and varied intensity settings for focused external stimulation and easy exploration.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 23
 - [Nipple and Clitoral Toys](https://olyon.co/collections/nipple-and-clitoral-toys): Explore nipple and clitoral toys in different shapes, styles, and intensity options for sensory play and focused external stimulation.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 17
 - [Male Masturbators](https://olyon.co/collections/male-masturbators): Explore male masturbators with varied shapes, textures, and stimulation options, including handheld and hands-free designs.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-13T11:27:14Z
   Total Products: 6
 - [Wearable Vibrators](https://olyon.co/collections/wearable-vibrators): Shop wearable vibrators, including hands-free and app-controlled styles for solo play or couples. Explore discreet wearable designs at Olyon.
-  Updated: 2026-09-25T08:10:25Z
+  Updated: 2026-10-18T11:26:08Z
   Total Products: 12
 - [Penis Rings](https://olyon.co/collections/penis-rings): Explore penis rings in different fits and styles, including vibrating options for solo play and partnered experiences.
-  Updated: 2026-09-26T00:20:48Z
+  Updated: 2026-10-10T13:47:25Z
   Total Products: 3
 - [Butt Plugs](https://olyon.co/collections/butt-plugs): Shop butt plugs in different shapes, sizes, and intensity options, including remote-control styles for solo or partnered play.
-  Updated: 2026-09-24T04:02:56Z
+  Updated: 2026-10-10T13:47:26Z
   Total Products: 3
 - [Male Endurance Trainers](https://olyon.co/collections/male-endurance-trainers): Explore male endurance trainers designed for stamina practice, pacing, and greater control during personal wellness routines.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 4
 - [Couples Toys](https://olyon.co/collections/couples-vibrators): Explore couples vibrators and  toys for shared play, including app-controlled and remote-control designs for use together or apart.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-18T11:26:08Z
   Total Products: 24
-- [App Controlled Toys](https://olyon.co/collections/app-controlled--toys): Shop app-controlled  toys, including vibrators with adjustable patterns and partner control. Find connected toys for solo or long-distance play.
-  Updated: 2026-10-02T11:26:13Z
+- [App-Controlled  Toys](https://olyon.co/collections/app-controlled--toys): Shop app-controlled  toys, including vibrators with adjustable patterns and partner control. Find connected toys for solo or long-distance play.
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 16
-- [Wands](https://olyon.co/collections/wand-vibrators): Explore wand vibrators with different shapes and intensity settings for broad, powerful stimulation and versatile personal use.
-  Updated: 2026-09-28T11:24:11Z
+- [Wand Vibrators](https://olyon.co/collections/wand-vibrators): Explore wand vibrators with different shapes and intensity settings for broad, powerful stimulation and versatile personal use.
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 10
 - [Rings & Sleeves](https://olyon.co/collections/rings-sleeves): Explore rings and sleeves for couples, with different fits, textures, and designs for shared stimulation and playful variety.
-  Updated: 2026-09-26T00:20:48Z
+  Updated: 2026-10-18T06:42:39Z
   Total Products: 6
 - [](https://olyon.co/collections/): Shop current Olyon offers on vibrators, masturbators, and intimate wellness products while supplies and promotions last.
-  Updated: 2026-09-29T11:25:20Z
+  Updated: 2026-10-19T11:41:37Z
   Total Products: 22
 - [New Arrivals](https://olyon.co/collections/new-arrivals): Shop Olyon’s new  toys and intimate wellness products, thoughtfully selected for pleasure, self-care, and discreet everyday routines.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-19T11:41:37Z
   Total Products: 48
 - [Vibrators](https://olyon.co/collections/vibrators): Shop  toys and vibrators at Olyon. Compare rabbit, wand, clitoral, G-spot and wearable styles, with discreet shipping and clear product details.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 47
 - [Quiz — First Time](https://olyon.co/collections/quiz-first-time): Explore beginner-friendly  toys and vibrators with approachable shapes and simple controls. Browse styles and features to find a comfortable place to start.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 22
 - [Quiz — Explore More](https://olyon.co/collections/quiz-explore-more): Explore a wider range of vibrators, wearable toys, wands, and intimate wellness products. Compare styles, features, and sensations at Olyon.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 55
 - [Quiz — Upgrade](https://olyon.co/collections/quiz-upgrade): Discover feature-rich  toys and vibrators with varied stimulation modes, app control, and adjustable settings for a more personalized experience.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-13T11:27:14Z
   Total Products: 19
 - [Quiz — For Him](https://olyon.co/collections/quiz-for-him): Explore  toys for men, including male masturbators, personal massagers, and other designs. Compare styles and features at Olyon.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 10
 - [Quiz — For Couples](https://olyon.co/collections/quiz-for-couples): Browse couples  toys, including app-controlled and wearable vibrators designed for shared play together or apart. Explore styles at Olyon.
-  Updated: 2026-09-26T00:20:48Z
+  Updated: 2026-10-07T11:28:14Z
   Total Products: 7
 - [Quiz — Easy to Use](https://olyon.co/collections/quiz-easy-to-use): Explore approachable  toys and vibrators with simple controls and easy-to-understand features. Compare shapes and styles for a comfortable place to start.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 15
 - [Quiz — Powerful](https://olyon.co/collections/quiz-powerful): Browse vibrators and intimate toys with varied intensity levels, stimulation styles, and controls. Compare product details to find a fit for your preferences.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 29
 - [Quiz — Quiet & Discreet](https://olyon.co/collections/quiz-quiet-discreet): Shop discreet  toys and vibrators with plain-packaged delivery from Olyon. Compare compact shapes, controls, and features across the collection.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-18T11:26:08Z
   Total Products: 18
 - [Quiz — More Ways to Explore](https://olyon.co/collections/quiz-more-ways-to-explore): Explore more intimate wellness products, including vibrators, wearable toys, and other designs. Compare features and styles across Olyon's collection.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 37
 - [First Time](https://olyon.co/collections/first-time): Shop beginner-friendly  toys and vibrators with simple controls and approachable designs. Compare styles and find a comfortable place to start.
-  Updated: 2026-09-28T11:24:11Z
+  Updated: 2026-10-19T11:41:37Z
   Total Products: 18
 - [Elevate](https://olyon.co/collections/upgrade-your-experience): Explore feature-rich vibrators and app-controlled  toys with multiple modes and adjustable settings for a more personalized experience.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 21
 - [Explore More](https://olyon.co/collections/explore-more): Compare  toys and vibrators across different shapes, features, and stimulation styles, including wands, wearable toys, and air-pulse designs.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 48
 - [For Him](https://olyon.co/collections/for-him): Explore  toys for men, including male masturbators, vibrating rings, and personal wellness devices. Compare shapes, materials, and controls.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-16T11:32:41Z
   Total Products: 16
 - [For Couples](https://olyon.co/collections/for-couples): Shop couples  toys, including wearable and app-controlled vibrators designed for shared play together or apart. Compare styles and features.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 18
 - [For Her](https://olyon.co/collections/for-her): Explore  toys for women, including rabbit vibrators, clitoral stimulators, and G-spot vibrators. Compare designs, controls, and features at Olyon.
-  Updated: 2026-10-02T11:26:13Z
+  Updated: 2026-10-20T11:26:01Z
   Total Products: 76
 
 ## Blogs
@@ -1127,15 +1111,15 @@
     Updated: 2026-09-23T07:16:09Z
     Author: OlyonOlyon
   - [Vibrator Chargers: Compatibility & Care | Olyon](https://olyon.co/blogs/news/the-guide-to-your-vibrator-charger): Vibrator Chargers: Compatibility & Care | Olyon
-    Updated: 2026-09-23T07:16:33Z
+    Updated: 2026-10-03T15:07:52Z
     Author: OlyonOlyon
     Tags: Olyon, vibrator charger
   - [Clitoral Suction Toys: Beginner's Guide | Olyon](https://olyon.co/blogs/news/the-quiet-revolution-guide-best-clitoral-suction-toys-for-beginne): Clitoral Suction Toys: Beginner's Guide | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-03T15:07:53Z
     Author: OlyonOlyon
     Tags: Beginner, vibrator, wellness
   - [ Toys for Sensitive Skin: Materials & Care | Olyon](https://olyon.co/blogs/news/best-dildo-for-sensitive-skin-safe-soft-guide):  Toys for Sensitive Skin: Materials & Care | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-18T06:42:38Z
     Author: OlyonOlyon
   - [Beginner's Guide to  Toys: Choose Your First | Olyon](https://olyon.co/blogs/news/beginner-s-guide-to--toys-how-to-pick-your-first-pair): Beginner's Guide to  Toys: Choose Your First | Olyon
     Updated: 2026-09-23T07:16:34Z
@@ -1146,62 +1130,134 @@
     Author: OlyonOlyon
     Tags: Olyon,  positions,  toys, vibrator
   - [Nipple Suction Toys: How to Choose One | Olyon](https://olyon.co/blogs/news/nipple-suck--toys): Nipple Suction Toys: How to Choose One | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-18T06:42:39Z
     Author: OlyonOlyon
     Tags: body-safe, for couples, for her, intimate wellness, nipple toys, pleasure guide,  toys, suction toys, wellness
   - [Vagina Pumps: What They Are & How to Choose | Olyon](https://olyon.co/blogs/news/vagina-pumps-the-wellness-tool-nobodys-talking-about-yet): Vagina Pumps: What They Are & How to Choose | Olyon
-    Updated: 2026-09-23T07:15:45Z
+    Updated: 2026-10-03T15:07:55Z
     Author: OlyonOlyon
     Tags: body-safe, clitoral suction, couples, for her, intimate wellness, pleasure pump, self-care,  education,  wellness, vagina pump
   - [ Positions for Couples: Clitoral Stimulation | Olyon](https://olyon.co/blogs/news/the-best--positions-you-havent-tried-yet-and-a-few-classics-that-never-miss):  Positions for Couples: Clitoral Stimulation | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-03T15:07:56Z
     Author: OlyonOlyon
     Tags: couples, for couples,  education,  positions,  toys,  wellness, vibrator, wellness
   - [ Toys for Women: Types, Materials & Care | Olyon](https://olyon.co/blogs/news/ladies--toys-guide):  Toys for Women: Types, Materials & Care | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-03T15:07:57Z
     Author: OlyonOlyon
     Tags: Beginner, body-safe, clitoral suction, couples, for couples, ladies  toy
   - [Couples'  Toys: Choosing & Talking Together | Olyon](https://olyon.co/blogs/news/couples--toys-guide-deepen-your-intimacy): Couples'  Toys: Choosing & Talking Together | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-03T15:07:58Z
     Author: OlyonOlyon
     Tags: couples,  toys
   - [Male Masturbators: Choosing, Using & Care | Olyon](https://olyon.co/blogs/news/pocket-pussy-guide-best-male--toys-tips): Male Masturbators: Choosing, Using & Care | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-03T15:07:59Z
     Author: OlyonOlyon
     Tags: male masturbator, pocky pussy,  toys, wellness
   - [Cock Sleeves: Fit, Use & Care Guide | Olyon](https://olyon.co/blogs/news/the-ultimate-cock-sleeve-guide-benefits-and-tips): Cock Sleeves: Fit, Use & Care Guide | Olyon
-    Updated: 2026-09-23T07:16:34Z
+    Updated: 2026-10-18T06:42:39Z
     Author: OlyonOlyon
     Tags: cock sleeve, male masturbator
   - [App-Controlled Vibrator for Couples: How to Choose](https://olyon.co/blogs/news/app-controlled-vibrator-for-couples): Choosing an app-controlled vibrator for couples? Compare design, app features, compatibility, privacy, care, and tips for getting started together.
-    Updated: 2026-09-28T13:11:18Z
+    Updated: 2026-10-03T15:08:02Z
     Author: Olyon Editorial Team
     Tags: app controlled  toys, app controlled vibrator for couples, couples vibrator,  wellness
-  - [Intimate Self-Care for Women: A Simple Guid](https://olyon.co/blogs/news/intimate-self-care-for-women): <p>Intimate self-care is personal. Discover how to approach women’s intimate wellness with more confidence, from understanding your preferences to choosing products that fit your comfort, lifestyle, and needs.</p>
-    Updated: 2026-09-30T09:47:37Z
+  - [Intimate Self-Care for Women: A Simple Guide | Olyon](https://olyon.co/blogs/news/intimate-self-care-for-women): Intimate Self-Care for Women: A Simple Guide | Olyon
+    Updated: 2026-10-03T15:08:04Z
     Author: OlyonOlyon
   - [Prostate Massager for Beginners: Safety & First Steps](https://olyon.co/blogs/news/how-to-use-a-prostate-massager-beginners-guide): Prostate Massager for Beginners: Safety & First Steps
     Updated: 2026-10-02T03:45:08Z
     Author: Olyon Editorial
     Tags: beginner guide, intimate wellness, prostate massager, prostate play
+  - [How to Use a Vibrating Cock Ring: Fit & Safety Tips](https://olyon.co/blogs/news/how-to-use-vibrating-cock-ring): How to Use a Vibrating Cock Ring: Fit & Safety Tips
+    Updated: 2026-10-03T15:08:05Z
+    Author: Olyon Editorial Team
+    Tags: couples intimacy,  toy guide,  wellness, vibrating cock ring
+  - [How to Use a Rabbit Vibrator: Beginner Tips & Care](https://olyon.co/blogs/news/how-to-use-rabbit-vibrator): How to Use a Rabbit Vibrator: Beginner Tips & Care
+    Updated: 2026-10-05T14:30:21Z
+    Author: Olyon Editorial Team
+    Tags: beginner guide, intimate wellness, rabbit vibrator, vibrator tips
+  - [How to Talk About  With Your Partner | Olyon Guide](https://olyon.co/blogs/news/how-to-talk-about--with-your-partner): How to Talk About  With Your Partner | Olyon Guide
+    Updated: 2026-10-04T14:33:48Z
+    Author: Olyon Editorial Team
+    Tags: consent, intimate wellness, relationships,  communication
+  - [How to Clean  Toys Safely: Material Care Guide | Olyon](https://olyon.co/blogs/news/how-to-clean--toys): How to Clean  Toys Safely: Material Care Guide | Olyon
+    Updated: 2026-10-05T14:17:57Z
+    Author: Olyon Editorial Team
+    Tags: Education,  Wellness, Toy Care
+  - [Clitoris Anatomy: Parts, Location & Function | Olyon](https://olyon.co/blogs/news/clitoris-anatomy): Clitoris Anatomy: Parts, Location & Function | Olyon
+    Updated: 2026-10-06T14:25:32Z
+    Author: Olyon Editorial Team
+  - [Best Lube for  Toys: Material & Condom Guide | Olyon](https://olyon.co/blogs/news/best-lube-for--toys): Best Lube for  Toys: Material & Condom Guide | Olyon
+    Updated: 2026-10-07T14:58:41Z
+    Author: Olyon
+    Tags: Lubricant,  toy care,  wellness
+  - [Condoms for Latex Allergy: Materials & Safety | Olyon](https://olyon.co/blogs/news/condoms-for-latex-allergy): Condoms for Latex Allergy: Materials & Safety | Olyon
+    Updated: 2026-10-08T16:21:28Z
+    Author: Olyon
+  - [G-Spot Anatomy: What Research Says About Pleasure | Olyon](https://olyon.co/blogs/news/g-spot-anatomy): G-Spot Anatomy: What Research Says About Pleasure | Olyon
+    Updated: 2026-10-09T14:56:49Z
+    Author: Olyon
+    Tags: anatomy, G-spot,  wellness
+  - [ Toy Storage Guide: Keep Toys Clean, Dry & Private](https://olyon.co/blogs/news/-toy-storage):  Toy Storage Guide: Keep Toys Clean, Dry & Private
+    Updated: 2026-10-10T14:57:47Z
+    Author: Olyon
+    Tags: intimate wellness,  toy storage, toy care
+  - [How to Use a Wand Vibrator: Practical Comfort Tips](https://olyon.co/blogs/news/how-to-use-wand-vibrator): How to Use a Wand Vibrator: Practical Comfort Tips
+    Updated: 2026-10-11T14:22:23Z
+    Author: Olyon
+    Tags:  toys,  wellness, vibrator guide, wand vibrator
+  - [How to Use a Butt Plug Safely: A Beginner's Safety Guide](https://olyon.co/blogs/news/how-to-use-a-butt-plug): How to Use a Butt Plug Safely: A Beginner's Safety Guide
+    Updated: 2026-10-12T14:19:50Z
+    Author: Olyon
+    Tags: butt plug, safer ,  wellness
+  - [Edging: A Practical Guide to Exploring at Your Pace](https://olyon.co/blogs/news/edging-guide): Edging: A Practical Guide to Exploring at Your Pace
+    Updated: 2026-10-13T15:01:01Z
+    Author: Olyon
+    Tags:  Education, Edging,  Wellness
+  - [ Aftercare: Check In and Reconnect After ](https://olyon.co/blogs/news/-aftercare-guide):  Aftercare: Check In and Reconnect After 
+    Updated: 2026-10-15T06:42:12Z
+    Author: Olyon
+    Tags: communication, intimacy,  aftercare
+  - [How to Choose a Rabbit Vibrator That Fits Your Needs](https://olyon.co/blogs/news/choose-rabbit-vibrator): How to Choose a Rabbit Vibrator That Fits Your Needs
+    Updated: 2026-10-16T03:34:21Z
+    Author: Olyon
+    Tags: buying guide, rabbit vibrator,  wellness
+  - [Condoms With  Toys: When and How to Use Them Safely](https://olyon.co/blogs/news/condoms-with--toys): Condoms With  Toys: When and How to Use Them Safely
+    Updated: 2026-10-16T14:40:54Z
+    Author: Olyon
+    Tags: safer-, -toys, -health
+  - [Different  Drives in a Relationship: How to Talk](https://olyon.co/blogs/news/different--drives-relationship): Different  Drives in a Relationship: How to Talk
+    Updated: 2026-10-18T00:54:56Z
+    Author: Olyon
+    Tags: consent, intimacy, relationships,  communication
+  - [Common  Fantasies: Themes, Meaning & Boundaries](https://olyon.co/blogs/news/common--fantasies): Common  Fantasies: Themes, Meaning & Boundaries
+    Updated: 2026-10-19T14:17:07Z
+    Author: Olyon
+  - [Comfortable  Positions for Comfort, Control & Ease](https://olyon.co/blogs/news/comfortable--positions): Comfortable  Positions for Comfort, Control & Ease
+    Updated: 2026-10-19T14:20:29Z
+    Author: Olyon
+  - [What Is Foreplay? Meaning, Ideas & Consent Tips for Adults](https://olyon.co/blogs/news/what-is-foreplay): What Is Foreplay? Meaning, Ideas & Consent Tips for Adults
+    Updated: 2026-10-20T14:42:16Z
+    Author: Olyon
+    Tags: consent, foreplay,  wellness
 
 ## Store Pages
 
-- [Contact](https://olyon.co/pages/contact)
-  Updated: 2025-05-02T03:16:58Z
+- [Contact Olyon | Product & Order Enquiries](https://olyon.co/pages/contact): 
+  Updated: 2026-10-03T14:58:21Z
 - [Your Privacy Choices](https://olyon.co/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T16:59:13Z
-- [Find Your Olyon](https://olyon.co/pages/find-your-match)
-  Updated: 2026-09-23T09:15:51Z
+- [ Toy Quiz: Find Your Olyon Match | Olyon](https://olyon.co/pages/find-your-match): 
+  Updated: 2026-10-03T14:58:21Z
 
 ## Policies
 
 - [Privacy Policy](https://olyon.co/policies/privacy-policy)
   Updated: 2026-08-31T06:20:58-04:00
 - [Shipping Policy](https://olyon.co/policies/shipping-policy)
-  Updated: 2026-09-20T03:27:09-04:00
+  Updated: 2026-10-18T08:29:03-04:00
 - [Refund Policy](https://olyon.co/policies/refund-policy)
-  Updated: 2026-09-20T03:26:53-04:00
+  Updated: 2026-10-18T08:29:43-04:00
 - [Terms of Service](https://olyon.co/policies/terms-of-service)
   Updated: 2026-08-31T06:21:47-04:00
 - [Contact Information](https://olyon.co/policies/contact-information)
