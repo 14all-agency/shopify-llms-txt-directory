@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-01T15:10:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-13T00:00:20.358Z
+- Updated At: 2026-10-21T00:00:31.414Z
 
 ## Products
 
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lyin' Tee](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee): 100% cotton heavyweight tee in black with a photo print on the front and text design on the back
-  Updated: 2026-10-10T15:19:27Z
+  Updated: 2026-10-17T19:35:17Z
   Vendor: Mojo Brookzz
   Product Type: T-Shirt
   Availability: Available
@@ -146,10 +146,10 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://mojobrookzz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-11T11:29:20Z
+  Updated: 2026-10-18T11:24:22Z
   Total Products: 3
 - [Apparel](https://mojobrookzz.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-11T11:29:20Z
+  Updated: 2026-10-18T11:24:22Z
   Total Products: 2
 - [Accessories](https://mojobrookzz.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-10T11:28:22Z
@@ -161,7 +161,7 @@ your agent can transact everywhere.
   Updated: 2026-09-08T19:38:53Z
   Total Products: 0
 - [All](https://mojobrookzz.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-11T11:29:20Z
+  Updated: 2026-10-18T11:24:22Z
   Total Products: 3
 
 ## Store Pages
