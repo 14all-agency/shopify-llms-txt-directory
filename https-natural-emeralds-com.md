@@ -6,7 +6,7 @@
 - Timezone: Europe/Prague
 - Created At: 2023-05-17T10:22:34Z
 - Contact Email: eyezsayitall1@gmail.com
-- Updated At: 2026-09-23T00:00:36.078Z
+- Updated At: 2026-10-21T00:00:39.676Z
 
 ## Products
 
@@ -139,72 +139,72 @@
   Availability: Available
   Price: $4,021.26 USD
 - [Natural Zambian Emerald Octagon Gems 5x3–8x6mm – 30pc Lot | Natural Emeralds](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm): Buy natural Zambian emerald octagon gems in sizes 5x3mm–8x6mm. 30-piece lots, vivid green, calibrated. Ideal for jewelry production. Wholesale pricing.
-  Updated: 2026-07-08T21:35:47Z
+  Updated: 2026-09-30T12:22:36Z
   Vendor: Natural Emeralds
   Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H4b585f9e0b114479a4b25dbfbbb8db48K.webp?v=1704130609
-  - [#4 / Octagon 6x4mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171031342)
+  - [#4 / Octagon 6x4mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171031342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/Hcb16d3c09cfc400e8d210163be874f06Q.webp?v=1704130609
     Price: $556.15 USD
-  - [#4 / Octagon 5x3mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171064110)
+  - [#4 / Octagon 5x3mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171064110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/Hcb16d3c09cfc400e8d210163be874f06Q.webp?v=1704130609
     Price: $243.98 USD
-  - [#4 / Octagon 8x6mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171096878)
+  - [#4 / Octagon 8x6mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171096878)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/Hcb16d3c09cfc400e8d210163be874f06Q.webp?v=1704130609
     Price: $2,483.92 USD
-  - [#4 / Octagon 7x5mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171129646)
+  - [#4 / Octagon 7x5mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171129646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/Hcb16d3c09cfc400e8d210163be874f06Q.webp?v=1704130609
     Price: $1,100.42 USD
-  - [#3 / Octagon 6x4mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171162414)
+  - [#3 / Octagon 6x4mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171162414)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H42e7dc149e054762b8eae7d0e938d301x.webp?v=1704130609
     Price: $653.53 USD
-  - [#3 / Octagon 5x3mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171195182)
+  - [#3 / Octagon 5x3mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171195182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H42e7dc149e054762b8eae7d0e938d301x.webp?v=1704130609
     Price: $286.25 USD
-  - [#3 / Octagon 8x6mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171227950)
+  - [#3 / Octagon 8x6mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171227950)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H42e7dc149e054762b8eae7d0e938d301x.webp?v=1704130609
     Price: $2,921.49 USD
-  - [#3 / Octagon 7x5mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171260718)
+  - [#3 / Octagon 7x5mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171260718)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H42e7dc149e054762b8eae7d0e938d301x.webp?v=1704130609
     Price: $1,293.84 USD
-  - [#2 / Octagon 6x4mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171293486)
+  - [#2 / Octagon 6x4mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171293486)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H9ee30d9b784c4990ad238a1a92838e531.webp?v=1704130609
     Price: $768.07 USD
-  - [#2 / Octagon 5x3mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171326254)
+  - [#2 / Octagon 5x3mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171326254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H9ee30d9b784c4990ad238a1a92838e531.webp?v=1704130609
     Price: $335.97 USD
-  - [#2 / Octagon 8x6mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171359022)
+  - [#2 / Octagon 8x6mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171359022)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H9ee30d9b784c4990ad238a1a92838e531.webp?v=1704130609
     Price: $3,436.25 USD
-  - [#2 / Octagon 7x5mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171391790)
+  - [#2 / Octagon 7x5mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171391790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H9ee30d9b784c4990ad238a1a92838e531.webp?v=1704130609
     Price: $1,521.37 USD
-  - [#1 / Octagon 6x4mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171424558)
+  - [#1 / Octagon 6x4mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171424558)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H8fea4c53e4e84aad8329f193530148f0z.webp?v=1704130609
     Price: $837.51 USD
-  - [#1 / Octagon 5x3mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171457326)
+  - [#1 / Octagon 5x3mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171457326)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H8fea4c53e4e84aad8329f193530148f0z.webp?v=1704130609
     Price: $377.42 USD
-  - [#1 / Octagon 8x6mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171490094)
+  - [#1 / Octagon 8x6mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171490094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H8fea4c53e4e84aad8329f193530148f0z.webp?v=1704130609
     Price: $3,436.25 USD
-  - [#1 / Octagon 7x5mm](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171522862)
+  - [#1 / Octagon 7x5mm / 1 Piece](https://natural-emeralds.com/products/natural-zambian-green-emerald-octagon-gems-5x3mm-8x6mm?variant=47719171522862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/products/H8fea4c53e4e84aad8329f193530148f0z.webp?v=1704130609
     Price: $1,774.22 USD
@@ -584,13 +584,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_4527.jpg?v=1713303424
   Price: $350.00 USD
-- [22 carats Natural Swat Rough Emeralds](https://natural-emeralds.com/products/22-carats-natural-swat-emeralds-for-faceting-cabbing): This is small parcel for cutting rough stones into melee size. The sizes are from under 1 to 1.35 carat per piece. They can also be set into raw gems jewelry. Other Features of the Swat Emerald Stone Total Weight: ___ 22 carats Sizes: ____ Under 1 to 1.35 carat per piece Shape: ___ Loose Rough , hexagonal Crystals Clarity: ___ Translucent to semi transparent Color: ___ Vivid green color : ___ No Origin: ___ Pakistan
-  Updated: 2026-08-29T01:17:46Z
+- [22 carats Natural Swat Rough Emeralds](https://natural-emeralds.com/products/22-carats-natural-swat-emeralds-for-faceting-cabbing): This is small parcel for cutting rough stones into melee size. The sizes are from under 1 to 1.35 carat per piece. They can also be set into raw gems jewelry. Faceting Yield: What to Expect Faceting yield is the finished gemstone weight retained after cutting and polishing the rough. It varies from stone to stone according to internal fissuring, inclusions, and the cut plan. Removing fractured areas and choosing a shape that balances clarity, appearance, and weight can reduce the final carat weight. The 22 carats listed here is the total rough weight, not an expected finished weight. No yield percentage or finished-weight guarantee is provided for this parcel. Have your lapidary assess each piece before planning a faceted cut or cabochon. For context on clarity, inclusions, and cut, read our emerald grading guide. A quality grade alone does not predict faceting yield. Other Features of the Swat Emerald Stone Total Weight: ___ 22 carats Sizes: ____ Under 1 to 1.35 carat per piece Shape: ___ Loose Rough , hexagonal Crystals Clarity: ___ Translucent to semi transparent Color: ___ Vivid green color : ___ No Origin: ___ Pakistan
+  Updated: 2026-10-18T12:20:40Z
   Vendor: Natural Emeralds
   Product Type: Raw Emeralds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/IMG_4540.jpg?v=1713303284
-  Price: $250.00 USD
+  Price: $280.00 USD
 - [1.3 Carat Natural Swat Emerald Loose Stone SI Clarity | Natural Emeralds](https://natural-emeralds.com/products/1-3-carats-natural-swat-emerald-loose-stone): Buy a 1.3ct natural Swat emerald loose stone — emerald cut, SI clarity, intense green. Minor oil only. Ideal for rings & pendants. Wholesale pricing.
   Updated: 2026-07-08T21:35:50Z
   Vendor: Natural Emeralds
@@ -618,13 +618,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/Panjshiremerald.jpg?v=1716254723
   Price: $1,650.00 USD
-- [1.2 carats Natural Panjshir Emerald Green Stone](https://natural-emeralds.com/products/panjshir-emerald): This is medium green emerald ideal for jewelry pieces such as emerald rings, pendants, and bracelets. Panjshir Emeralds are renowned for its brilliance, transparency, and luster, this single green emerald stone is a stunning choice for any design. Key Features of the Stone Stone Name: Natural Faceted Emerald Stone Total Weight: 1.2 carats Dimensions: 8.32 x 5.70 x 3.92 mm Clarity: Si - Slightly Included Color: Medium Green : Minor Oil Origin: Afghanistan This is Perfect for jewelers and gemstone jewelry designers. This emerald promises to add a touch of elegance and sophistication to your creations.
-  Updated: 2026-07-18T06:05:39Z
-  Vendor: Natural Emeralds
-  Product Type: Loose Emeralds - Faceted Emeralds- Cut Emeralds
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3405/5214/files/panjshiremr_JPG.jpg?v=1716778441
-  Price: $550.00 USD
 - [1.7 Carat Natural Swat Emerald Emerald Cut Untreated | Natural Emeralds](https://natural-emeralds.com/products/swat-emerald-shape-emerald-cut): Buy a 1.7ct natural Swat emerald in emerald cut — untreated, vivid green, from Pakistan. Ideal for engagement rings & fine jewelry. Wholesale pricing.
   Updated: 2026-07-08T21:35:52Z
   Vendor: Natural Emeralds
@@ -904,16 +897,16 @@
   Updated: 2026-07-30T17:42:32Z
   Total Products: 16
 - [Rough Emerald Gemstones | Uncut Emeralds](https://natural-emeralds.com/collections/natural-raw-emerald-stones): Shop natural raw emerald stones for faceting and lapidary work. Ethically sourced, untreated emeralds in varied sizes and qualities. WhatsAapp: +932268999919
-  Updated: 2026-08-29T11:08:02Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 46
 - [Loose Emerald Stones](https://natural-emeralds.com/collections/natural-cut-loose-emerald-stones): Shop natural loose emerald stones — faceted, calibrated, and custom cut. Sourced from Swat, Panjshir, Zambia & Colombia. Wholesale & retail pricing available.
-  Updated: 2026-07-08T21:37:31Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 50
 - [Swat Emeralds](https://natural-emeralds.com/collections/natural-swat-emeralds): Shop vivid green Swat Emeralds — rough, loose, and cut stones sourced directly from Pakistan's Swat Valley. Wholesale & retail prices available.
-  Updated: 2026-08-29T11:08:02Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 57
 - [Panjshir Emeralds](https://natural-emeralds.com/collections/natural-panjshir-emeralds): Explore natural Panjshir Emeralds from Afghanistan — rough and loose stones with deep green clarity. Direct from mine, wholesale prices available.
-  Updated: 2026-07-30T17:42:38Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 35
 - [Chitral Emeralds](https://natural-emeralds.com/collections/natural-chitral-emeralds): Shop rare Chitral Emeralds from Pakistan's northern highlands — rough and loose stones with rich forest-green color. Limited supply, wholesale prices.
   Updated: 2026-07-08T21:37:14Z
@@ -925,13 +918,13 @@
   Updated: 2026-07-08T21:37:15Z
   Total Products: 7
 - [New Arrivals](https://natural-emeralds.com/collections/new-arrivals): Discover our latest emerald arrivals — freshly sourced rough and loose stones from Swat, Panjshir, Zambia & Colombia. Updated regularly, wholesale available.
-  Updated: 2026-08-29T11:08:02Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 48
 - [Emerald Jewelry](https://natural-emeralds.com/collections/emerald-jewelry): Shop handcrafted emerald jewelry set with natural stones from Swat, Panjshir, Colombia & Zambia. Rings, necklaces, earrings — custom orders welcome.
-  Updated: 2026-08-29T11:08:02Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 32
 - [Shop All Emeralds](https://natural-emeralds.com/collections/all-emeralds): Browse our full collection of natural emeralds — rough, loose, faceted, and jewelry. Sourced from Swat, Panjshir, Zambia, Colombia & more.
-  Updated: 2026-08-29T11:08:02Z
+  Updated: 2026-10-16T11:10:26Z
   Total Products: 105
 
 ## Blogs
@@ -965,16 +958,16 @@
     Updated: 2026-09-22T13:21:58Z
     Author: Samina Gulzar
     Tags: Do You know?, Emerald Market Value and Pricing Guide, FAQs,  Guide Lines of Emeralds, natural emerald buying guide, Tips
-  - [The Price of Emeralds](https://natural-emeralds.com/blogs/learn-gemstones/the-price-of-emeralds)
-    Updated: 2026-09-22T13:08:14Z
+  - [Emerald Price Guide: What Emeralds Cost Per Carat](https://natural-emeralds.com/blogs/learn-gemstones/the-price-of-emeralds): Emerald Price Guide: What Emeralds Cost Per Carat
+    Updated: 2026-09-23T17:18:18Z
     Author: Adnan Akram
     Tags: Do You know?, FAQs,  Guide Lines of Emeralds, natural emerald buying guide, Tips
   - [The four Cs of an Emeralds Quality](https://natural-emeralds.com/blogs/learn-gemstones/the-four-cs-of-an-emeralds-quality)
-    Updated: 2026-09-22T13:07:46Z
+    Updated: 2026-09-23T14:24:24Z
     Author: Adnan Akram
     Tags: Do You know?, FAQs, Science and Technical of Emeralds
-  - [Emerald Inclusions](https://natural-emeralds.com/blogs/learn-gemstones/emerald-inclusions)
-    Updated: 2026-09-22T13:08:39Z
+  - [Emerald Inclusions: Types, Jardin, and What They Mean for Buyers](https://natural-emeralds.com/blogs/learn-gemstones/emerald-inclusions): What do inclusions tell you about an emerald? Explore common crystal, fluid, and fingerprint-like features, plus how clarity and treatments matter when choosing a stone.
+    Updated: 2026-09-24T17:32:38Z
     Author: Adnan Akram
     Tags: Emerald Evaluation, Emerald Quality,  Guide Lines of Emeralds, Science and Technical of Emeralds
   - [Diversity in Modern Emeralds and Jewelry](https://natural-emeralds.com/blogs/learn-gemstones/diversity-in-modern-emeralds-and-jewelry)
@@ -1013,8 +1006,8 @@
     Updated: 2026-09-22T13:20:56Z
     Author: Adnan Akram
     Tags: Do You know?, Emerald Vs Other Gemstones, FAQs, Grading of Emeralds and Other Gemstones,  Guide Lines of Emeralds, natural emerald buying guide
-  - [Jade Vs. Emeralds](https://natural-emeralds.com/blogs/learn-gemstones/jade-vs-emeralds)
-    Updated: 2026-09-22T13:12:52Z
+  - [Jade vs. Emeralds: Key Differences Explained](https://natural-emeralds.com/blogs/learn-gemstones/jade-vs-emeralds): Jade vs. Emeralds: Key Differences Explained
+    Updated: 2026-09-23T19:33:29Z
     Author: Adnan Akram
     Tags: Do You know?, Emerald Evaluation, Emerald Vs Other Gemstones, FAQs,  Guide Lines of Emeralds, natural emerald buying guide, Tips
   - [Your Starter's Handbook to Swat Emeralds](https://natural-emeralds.com/blogs/learn-gemstones/your-starters-handbook-to-swat-emeralds)
@@ -1066,13 +1059,17 @@
     Author: Adnan Akram
     Tags: Do You know?, Emerald Evaluation, FAQs, Grading of Emeralds and Other Gemstones, Science and Technical of Emeralds
   - [Emerald Jewelry Design: Quality, Price & Settings](https://natural-emeralds.com/blogs/learn-gemstones/emerald-fashion-and-design): Emerald Jewelry Design: Quality, Price & Settings
-    Updated: 2026-09-22T13:26:01Z
+    Updated: 2026-09-23T21:12:35Z
     Author: Adnan Akram
     Tags: Emerald Market Value and Pricing Guide, How to,  Guide Lines of Emeralds, natural emerald buying guide, Tips
   - [Emerald Stone Internal structure And External Structure Formation](https://natural-emeralds.com/blogs/learn-gemstones/learn-emerald-formation): <p>See how hue, tone, saturation, and internal crystal structure combine to define a natural emerald's grade, clarity, and true market value.</p>
-    Updated: 2026-09-22T13:01:43Z
+    Updated: 2026-09-23T21:03:31Z
     Author: Adnan Akram
     Tags: Do You know?, FAQs, Science and Technical of Emeralds
+  - [Colombian Emeralds: Muzo, Chivor, Origin & Value](https://natural-emeralds.com/blogs/learn-gemstones/colombian-emeralds-muzo-chivor-origin-value): Colombian Emeralds: Muzo, Chivor, Origin & Value
+    Updated: 2026-09-29T17:58:53Z
+    Author: Adnan Akram
+    Tags: Colombian Emeralds, Culture and History of Emeralds, Do You know?, Emerald Market Value and Pricing Guide, Emerald Trends, Grading of Emeralds and Other Gemstones,  Guide Lines of Emeralds, natural emerald buying guide
 
 ## Store Pages
 
