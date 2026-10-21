@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-10-13T00:00:38.990Z
+- Updated At: 2026-10-21T00:00:38.358Z
 
 ## Products
 
@@ -148,6 +148,15 @@
     Author: User
   - [What You Need to Know to Get Started with Self-Care](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/what-you-need-to-know-to-get-started-with-self-care): What You Need to Know to Get Started with Self-Care
     Updated: 2026-10-11T00:27:23Z
+    Author: User
+  - [The Science Behind Self-Care: Understanding Its Benefits](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/the-science-behind-self-care-understanding-its-benefits): The Science Behind Self-Care: Understanding Its Benefits
+    Updated: 2026-10-14T02:30:27Z
+    Author: User
+  - [Innovative Approaches to Self-Care in Modern Life](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/innovative-approaches-to-self-care-in-modern-life): Innovative Approaches to Self-Care in Modern Life
+    Updated: 2026-10-16T00:06:16Z
+    Author: User
+  - [How to Maintain Self-Care During Stressful Times](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/how-to-maintain-self-care-during-stressful-times): How to Maintain Self-Care During Stressful Times
+    Updated: 2026-10-18T00:07:42Z
     Author: User
 
 ## Store Pages
