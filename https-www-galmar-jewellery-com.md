@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-09-16T11:40:41Z
 - Contact Email: office.margal24@gmail.com
-- Updated At: 2026-10-02T00:00:31.737Z
+- Updated At: 2026-10-21T00:00:35.889Z
 
 ## Collections
 
@@ -40,6 +40,26 @@
     Updated: 2026-10-01T09:02:01Z
     Author: Galmar Jawellery
     Tags: care, clean jewelry, how to care for jewelry, jewellery, jewelry, jewelry maintenance, protect rings, ring, rings, tips for protecting jewelry
+  - [Daily Routines for Caring for Your Jewellery and Rings](https://www.galmar-jewellery.com/blogs/news/daily-routines-for-caring-for-your-jewellery-and-rings): Daily Routines for Caring for Your Jewellery and Rings
+    Updated: 2026-10-02T09:09:55Z
+    Author: Galmar Jawellery
+    Tags: care, caring for rings, clean, everyday jewelry, jewellery, jewelry, jewelry care, ring, ring maintenance, tips for jewelry
+  - [Jewellery Care Essentials Everyone Should Know for Rings](https://www.galmar-jewellery.com/blogs/news/jewellery-care-essentials-everyone-should-know-for-rings): Jewellery Care Essentials Everyone Should Know for Rings
+    Updated: 2026-10-08T09:02:43Z
+    Author: Galmar Jawellery
+    Tags: care, essential jewelry care tips, how to clean rings, jewellery, jewelry, jewelry cleaning, ring, ring maintenance, rings, tarnish removal
+  - [Common Jewellery Cleaning Myths Debunked - Discovering Safe Ring Practices](https://www.galmar-jewellery.com/blogs/news/common-jewellery-cleaning-myths-debunked-discovering-safe-ring-practices): Common Jewellery Cleaning Myths Debunked - Discovering Safe Ring Practices
+    Updated: 2026-10-09T09:08:36Z
+    Author: Galmar Jawellery
+    Tags: best practices for ring maintenance, care, clean, jewellery, jewelry, jewelry cleaning, myths about jewelry cleaning, ring, ring care, safe cleaning practices
+  - [The Dos and Don'ts of Travelling with Your Jewellery and Rings](https://www.galmar-jewellery.com/blogs/news/the-dos-and-donts-of-travelling-with-your-jewellery-and-rings): The Dos and Don'ts of Travelling with Your Jewellery and Rings
+    Updated: 2026-10-15T09:00:26Z
+    Author: Galmar Jawellery
+    Tags: care, jewellery, jewelry, jewelry maintenance, jewelry protection advice, packing jewelry, ring, rings, travel tips, traveling with rings
+  - [Easy Steps to Restore Shine to Your Dull Jewellery Rings](https://www.galmar-jewellery.com/blogs/news/easy-steps-to-restore-shine-to-your-dull-jewellery-rings): Easy Steps to Restore Shine to Your Dull Jewellery Rings
+    Updated: 2026-10-16T09:01:29Z
+    Author: Galmar Jawellery
+    Tags: clean dull jewelry, jewellery, jewelry, jewelry care, jewelry maintenance guide, restore shine, ring, rings, shine, sparkling rings tips
 
 ## Store Pages
 
