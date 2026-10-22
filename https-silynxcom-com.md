@@ -9,7 +9,7 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-09-08T00:00:25.594Z
+- Updated At: 2026-10-22T00:00:48.940Z
 
 ## Products
 
@@ -931,6 +931,18 @@
     Updated: 2026-07-07T14:15:46Z
     Author: Silynx Communications
     Tags: investor-relations, press-release
+  - [Press Release: Silynxcom Announces Financial Results for the Six Months Ended June 30, 2026: Revenue Increased 174% Compared with H1-2025](https://silynxcom.com/blogs/press-releases/silynxcom-announces-financial-results-for-the-six-months-ended-june-30-2026-revenue-increased-174-compared-with-h1-2025): Press Release: Silynxcom Announces Financial Results for the Six Months Ended June 30, 2026: Revenue Increased 174% Compared with H1-2025
+    Updated: 2026-09-14T13:00:40Z
+    Author: Silynx Communications
+    Tags: investor-relations, press-release
+  - [Press Release: Silynxcom Receives Two Consecutive Orders Totaling Approximately $400,000 from a Leading Global Defense Company](https://silynxcom.com/blogs/press-releases/silynxcom-receives-two-consecutive-orders-totaling-approximately-400-000-from-a-leading-global-defense-company): Press Release: Silynxcom Receives Two Consecutive Orders Totaling Approximately $400,000 from a Leading Global Defense Company
+    Updated: 2026-09-17T14:02:01Z
+    Author: Silynx Communications
+    Tags: investor-relations, press-release
+  - [Press Release: Silynxcom Announces Development of New AI-Powered Wearable Technology to Strategically Target the Counter-Drone Defense Market](https://silynxcom.com/blogs/press-releases/silynxcom-announces-development-of-new-ai-powered-wearable-technology-to-strategically-target-the-counter-drone-defense-market): Press Release: Silynxcom Announces Development of New AI-Powered Wearable Technology to Strategically Target the Counter-Drone Defense Market
+    Updated: 2026-10-21T14:17:17Z
+    Author: Silynx Communications
+    Tags: investor-relations, press-release
 
 ## Store Pages
 
@@ -994,15 +1006,15 @@
 ## Policies
 
 - [Privacy Policy](https://silynxcom.com/policies/privacy-policy)
-  Updated: 2026-06-09T06:00:09-07:00
+  Updated: 2026-06-09T13:00:09Z
 - [Shipping Policy](https://silynxcom.com/policies/shipping-policy)
-  Updated: 2026-06-08T05:14:35-07:00
+  Updated: 2026-06-08T12:14:35Z
 - [Refund Policy](https://silynxcom.com/policies/refund-policy)
-  Updated: 2026-06-09T05:58:41-07:00
+  Updated: 2026-06-09T12:58:41Z
 - [Terms of Service](https://silynxcom.com/policies/terms-of-service)
-  Updated: 2026-06-09T05:59:48-07:00
+  Updated: 2026-06-09T12:59:48Z
 - [Contact Information](https://silynxcom.com/policies/contact-information)
-  Updated: 2026-05-28T06:28:15-07:00
+  Updated: 2026-05-28T13:28:15Z
 
 ## social meta
 https://www.facebook.com/silynx
