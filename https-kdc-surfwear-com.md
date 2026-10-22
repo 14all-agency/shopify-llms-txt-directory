@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-17T08:15:22Z
 - Contact Email: contact@kdc-surfwear.com
-- Updated At: 2026-08-14T00:00:45.401Z
+- Updated At: 2026-10-22T00:00:42.947Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/bas-Bikini-surf-KDC_8f8fb788-2c8b-4b62-8ef7-342183381ff7.jpg?v=1771399859
     Price: 15,71 € EUR
 - [Poncho surf 100 % coton terry – BIGOU | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-bigou): Poncho surf 100% coton terry double face. Capuche large, ouvertures latérales pour se changer. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-08-11T07:22:36Z
+  Updated: 2026-10-21T05:34:16Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -108,7 +108,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/MT1802-OCEANHOLIC-grey.jpg?v=1771399939
     Price: 15,50 € EUR
 - [Sweatshirt surf coton bio – Crew KDC | KDC Surfwear](https://kdc-surfwear.com/products/sweatshirt-crew-kdc-ethique-equitable-made-in-portugal): Sweatshirt surf coton bio gris chiné, Made in Portugal. Logo KDC 3D brodé. Éthique & équitable. Idéal riders surf et kitesurf. Marque française indépendante.
-  Updated: 2026-07-17T22:40:34Z
+  Updated: 2026-10-19T15:40:05Z
   Vendor: KDC-Surfwear
   Product Type: Sweatshirt
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/porte-cle-neoprene-combinaison-surf_recycle.jpg?v=1771399972
     Price: 5,00 € EUR
 - [Boardshort surf homme recyclé 18'' – SBEND | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-surf-recycle-18-sbend): Boardshort surf homme recyclé 18'' fabriqué à partir de 14 bouteilles plastique. Stretch4D, Quick Dry. Idéal surf, kitesurf, SUP. Éco-responsable.
-  Updated: 2026-07-18T13:23:47Z
+  Updated: 2026-10-17T12:20:20Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-Surf-SBEND.jpg?v=1771399985
     Price: 59,00 € EUR
   - [Small](https://kdc-surfwear.com/products/boardshort-surf-recycle-18-sbend?variant=52406031909211)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-Surf-SBEND.jpg?v=1771399985
     Price: 59,00 € EUR
   - [Medium](https://kdc-surfwear.com/products/boardshort-surf-recycle-18-sbend?variant=52406031941979)
@@ -187,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-Surf-SBEND.jpg?v=1771399985
     Price: 59,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – LINEUP | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-bouteille-plastique-recycle-lineup): Boardshort femme surf & kitesurf recyclé 11'' : 8 bouteilles recyclées, Stretch4D, séchage rapide. Éco-responsable, made in KDC Surfwear.
-  Updated: 2026-07-21T19:17:17Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -197,11 +197,11 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short-femme-de-kitesurf-recycl_C3_A9e.jpg?v=1775029310
     Price: 39,00 € EUR
   - [Small](https://kdc-surfwear.com/products/boardshort-femme-bouteille-plastique-recycle-lineup?variant=52406033088859)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short-femme-de-kitesurf-recycl_C3_A9e.jpg?v=1775029310
     Price: 39,00 € EUR
 - [Carte Cadeau](https://kdc-surfwear.com/products/carte-cadeau): Le cadeau KDC, au prix juste et qui soutient une marque française indépendante éco-engagéeCarte cadeau valable exclusivement sur le site internet et pendant 1 an
-  Updated: 2026-05-26T14:13:19Z
+  Updated: 2026-09-06T09:25:07Z
   Vendor: KDC-Surfwear
   Product Type: Carte Cadeau
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/carte-cadeau-KDC.jpg?v=1771400014
     Price: 100,00 € EUR
 - [Sweat à capuche surf unisexe – Artic | KDC Surfwear](https://kdc-surfwear.com/products/sweat-a-capuche-artic): Sweat à capuche surf unisexe, capuche contrastée double jersey, coupe regular. Idéal avant et après session surf et kitesurf. Style côtier. KDC Surfwear.
-  Updated: 2026-07-15T06:22:06Z
+  Updated: 2026-10-19T15:40:02Z
   Vendor: KDC-Surfwear
   Product Type: Hoodie
   Availability: Available
@@ -257,7 +257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/sweat_capuche_KDC_Artic.jpg?v=1771400016
     Price: 22,00 € EUR
 - [Legging sport recyclé ECONYL® noir – Uluwatu | KDC Surfwear](https://kdc-surfwear.com/products/legging-uluwatu-noir): Legging yoga et surf recyclé ECONYL® noir : nylon recyclé filets de pêche, Stretch 4D, résistant UV & chlore. Éco-responsable. KDC Surfwear.
-  Updated: 2026-07-17T23:34:06Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Legging
   Availability: Available
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/legging-yoga-surf-uluwatu-noir.jpg?v=1771400032
     Price: 59,00 € EUR
 - [Brassière sport recyclée ECONYL® noire – Uluwatu | KDC Surfwear](https://kdc-surfwear.com/products/brassiere-uluwatu-noire): Brassière yoga et surf recyclée ECONYL® noire : nylon recyclé filets de pêche, Stretch 4D, résistant UV & chlore. KDC Surfwear.
-  Updated: 2026-07-15T20:30:52Z
+  Updated: 2026-10-19T15:40:02Z
   Vendor: KDC-Surfwear
   Product Type: Brasière
   Availability: Available
@@ -379,7 +379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/legging-yoga-surf-keramas.jpg?v=1773227978
     Price: 59,00 € EUR
 - [Brassière sport recyclée ECONYL® – Keramas | KDC Surfwear](https://kdc-surfwear.com/products/brassiere-keramas): Brassière yoga et kitesurf recyclée ECONYL® : nylon recyclé filets de pêche, Stretch 4D, résistant UV, chlore & sel. KDC Surfwear.
-  Updated: 2026-07-16T07:31:03Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Brasière
   Availability: Available
@@ -405,17 +405,17 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/brassiere-yoga-surf-keramas.jpg?v=1773228945
     Price: 49,00 € EUR
 - [Boardshort surf homme recyclé 20'' – LOST | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-20-lost-recycle): Boardshort type surf  Stretch4D et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées.Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.Longueur 20''
-  Updated: 2026-07-16T23:14:50Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-recycle-Lost.jpg?v=1771400068
   - [Extra Large](https://kdc-surfwear.com/products/boardshort-20-lost-recycle?variant=52406038004059)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-recycle-Lost.jpg?v=1771400068
     Price: 59,00 € EUR
   - [Extra Small](https://kdc-surfwear.com/products/boardshort-20-lost-recycle?variant=52406038036827)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-recycle-Lost.jpg?v=1771400068
     Price: 59,00 € EUR
   - [Small](https://kdc-surfwear.com/products/boardshort-20-lost-recycle?variant=52406038069595)
@@ -431,7 +431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-recycle-Lost.jpg?v=1771400068
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 20'' – SUMMER | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-20-summer-recycle): Boardshort surf assez long, Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées .Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-08-10T21:26:47Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-recycle-Summer.jpg?v=1771400068
     Price: 59,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – SUNRISE | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-11-sunrise-recycle): Boardshort surf femme au look vintage.Stretch4D, QuickDry super léger avec une ceinture extensible et lacet. Poche arrière zippée.
-  Updated: 2026-08-10T08:34:20Z
+  Updated: 2026-10-19T15:40:05Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -471,10 +471,10 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-femme-en-matiere-recyclee-sunrise-scaled.jpg?v=1775025497
     Price: 39,00 € EUR
   - [Medium](https://kdc-surfwear.com/products/boardshort-femme-11-sunrise-recycle?variant=52406038430043)
-    Availability: Not Available
+    Availability: Available
     Price: 39,00 € EUR
 - [Boardshort surf homme recyclé 20'' – WASP | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-20-wasp-recycle): Boardshort surf aux couleurs sobres mais contrastéesStretch4D et Quickdry, hyper léger. Parfait pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-07-16T21:28:23Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -492,7 +492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-kitesurf-recycle-wasp.jpg?v=1771400071
     Price: 59,00 € EUR
   - [Medium](https://kdc-surfwear.com/products/boardshort-20-wasp-recycle?variant=52406038561115)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-kitesurf-recycle-wasp.jpg?v=1771400071
     Price: 59,00 € EUR
   - [Large](https://kdc-surfwear.com/products/boardshort-20-wasp-recycle?variant=52406038593883)
@@ -500,7 +500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-kitesurf-recycle-wasp.jpg?v=1771400071
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 20'' – MASCARET | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-en-matiere-recyclee-mascaret): Boardshort surf de longueur 20'' (51cm), Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées, pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-07-16T22:59:56Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -518,7 +518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-mascaret.jpg?v=1771400083
     Price: 59,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – ELECTRIC | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-11-electric-recycle): Petit short surf femme bleu et gris clair.Stretch4D, QuickDry super léger avec une ceinture extensible et un lacet et une poche arrière zippée.
-  Updated: 2026-07-18T16:13:11Z
+  Updated: 2026-10-19T15:40:06Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -535,7 +535,7 @@
     Availability: Available
     Price: 39,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – SEVENTEEN | KDC Surfwear](https://kdc-surfwear.com/products/maillot-de-bain-femme-seventeen-recycle): Boardshort surf femme fabriqué à partir de bouteilles plastique recyclées, stretch4D, QuickDry super léger avec une ceinture extensible et une poche arrière zippée.
-  Updated: 2026-08-10T14:45:06Z
+  Updated: 2026-10-19T15:40:10Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -549,7 +549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/maillot-de-bain-femme-ecofriendly-seventeen.jpg?v=1775025904
     Price: 39,00 € EUR
 - [Short de bain ACID Recyclé](https://kdc-surfwear.com/products/short-de-bain-avec-poche-acid-recycle): Le short de bain est le modèle de maillot le plus courant pour les hommes. Il convient à la plage, en bateau, ou encore à la piscine et à l’apéro aussi forcement. Le short de bain arrive à mi-cuisse, toujours au-dessus du genou.
-  Updated: 2026-07-15T23:03:38Z
+  Updated: 2026-10-19T15:40:07Z
   Vendor: KDC-Surfwear
   Product Type: Short de Bain
   Availability: Available
@@ -575,7 +575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/short_de_bain_KDC_acid_2.png?v=1776935453
     Price: 44,00 € EUR
 - [Boardshort surf homme recyclé 20'' – OUTSIDE | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-surf-20-outside-recycle): Boardshort surf de longueur 20'' , Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées.Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-07-18T11:48:54Z
+  Updated: 2026-10-19T15:40:10Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -601,7 +601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-kitesurf-bouteille-recycle-KDC-ouside.jpg?v=1771400098
     Price: 59,00 € EUR
 - [Short de bain ICON Recyclé](https://kdc-surfwear.com/products/short-de-bain-icon-recycle): Short de bain avec poches et filet intérieur. Il convient à la plage, en bateau, ou encore à la piscine et à l’apéro aussi forcement. Le short de bain arrive à mi-cuisse, toujours au-dessus du genou. Côté technique, ce type de short est  Stretch4D et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées
-  Updated: 2026-07-17T09:21:46Z
+  Updated: 2026-10-19T15:40:10Z
   Vendor: KDC-Surfwear
   Product Type: Short de Bain
   Availability: Available
@@ -770,7 +770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/legging-yoga-recycled-gili--scaled.jpg?v=1771400137
     Price: 59,00 € EUR
 - [Brassière sport recyclée ECONYL® – Gili | KDC Surfwear](https://kdc-surfwear.com/products/brassiere-yoga-gili): Brassière yoga et sport recyclée ECONYL® : nylon recyclé filets de pêche, Stretch 4D, résistant UV & sel. Idéal yoga, surf, kitesurf. KDC Surfwear.
-  Updated: 2026-07-16T02:32:28Z
+  Updated: 2026-10-19T15:40:10Z
   Vendor: KDC-Surfwear
   Product Type: Brasière
   Availability: Available
@@ -796,7 +796,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/brassiere-yoga-reclycle-gili.jpg?v=1771400137
     Price: 49,00 € EUR
 - [Haut de bikini surf recyclé ECONYL® – Biosphere | KDC Surfwear](https://kdc-surfwear.com/products/haut-de-bikini-biosphere): Haut de bikini surf recyclé ECONYL® inspiration nature : nylon recyclé filets de pêche, Stretch 4D, résistant UV & chlore. KDC Surfwear.
-  Updated: 2026-07-16T08:11:38Z
+  Updated: 2026-09-07T09:57:15Z
   Vendor: KDC-Surfwear
   Product Type: Haut de Bikini
   Availability: Available
@@ -883,7 +883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/bottom_bikini_nero_KDC.jpg?v=1772808311
     Price: 32,50 € EUR
 - [Boardshort surf homme recyclé 18'' – KOOK | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-recycle-kook-18inch): Boardshort surf fabriqué à partir de bouteilles plastique recyclées. Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-07-28T23:05:45Z
+  Updated: 2026-10-19T15:40:10Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -909,7 +909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-kook-18inch-recycle.webp?v=1771400161
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – CORAIL | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-18inch-corail-recycled): Boardshort surf de longueur 18'' , Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées
-  Updated: 2026-08-10T14:48:35Z
+  Updated: 2026-10-19T15:40:15Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -931,11 +931,11 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_surf_corail_recycled.webp?v=1782304381
     Price: 59,00 € EUR
   - [Large](https://kdc-surfwear.com/products/boardshort-de-surf-18inch-corail-recycled?variant=52406043705691)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_surf_corail_recycled.webp?v=1782304381
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – WURFER | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-wurfer-18inch-recycle): Boardshort surf de longueur 18'' , Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées. Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-08-13T11:30:17Z
+  Updated: 2026-10-19T15:40:15Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -961,7 +961,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/boardshort-de-surf-wurfer-recycled.webp?v=1771400170
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – TROPIC | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-tropic-18inch-recycle): Boardshort de surf stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées, cool aussi pour le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-07-16T08:54:46Z
+  Updated: 2026-10-19T15:40:16Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -987,13 +987,13 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_surf_Tropic_KDC_2.png?v=1775115757
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – SLOW | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-slow-18inch-recycled): Boardshort stretch à séchage rapide, hyper léger, fabriqué à partir de bouteilles plastique recyclées pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-08-10T07:48:21Z
+  Updated: 2026-10-19T15:40:15Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/KDC-boardshort-slow.jpg?v=1771400180
   - [Extra Large](https://kdc-surfwear.com/products/boardshort-de-surf-slow-18inch-recycled?variant=52406045409627)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_de_surf_slow_recycled.webp?v=1782304127
     Price: 59,00 € EUR
   - [Extra Small](https://kdc-surfwear.com/products/boardshort-de-surf-slow-18inch-recycled?variant=52406045442395)
@@ -1013,7 +1013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_de_surf_slow_recycled.webp?v=1782304127
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – THEOS | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-theos-18inch-recycled): Boardshort surf de longueur 46cm environ , Stretch et Quickdry, hyper léger, fabriqué à partir de bouteilles plastique recyclées pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-08-11T18:31:05Z
+  Updated: 2026-10-19T15:40:15Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -1039,13 +1039,13 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_de_surf_KDC_recycle.jpg?v=1779438273
     Price: 59,00 € EUR
 - [Short de bain femme surf & kitesurf recyclé 11'' – ELECTRO | KDC Surfwear](https://kdc-surfwear.com/products/short-bain-femme-electro-recycle): Short de bain femme stretch4D, QuickDry super léger avec une ceinture extensible et une poche arrière zippée, fabriqué à partir de bouteilles plastique recyclées
-  Updated: 2026-08-13T19:13:56Z
+  Updated: 2026-10-19T15:40:15Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
   - [Large](https://kdc-surfwear.com/products/short-bain-femme-electro-recycle?variant=52406046425435)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
     Price: 39,00 € EUR
   - [Extra Small](https://kdc-surfwear.com/products/short-bain-femme-electro-recycle?variant=52406046458203)
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
     Price: 39,00 € EUR
   - [Small](https://kdc-surfwear.com/products/short-bain-femme-electro-recycle?variant=52406046490971)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
     Price: 39,00 € EUR
   - [Medium](https://kdc-surfwear.com/products/short-bain-femme-electro-recycle?variant=52406046523739)
@@ -1061,13 +1061,13 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
     Price: 39,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – WURFEUSE | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-wurfeuse-recycle): Boardshort femme recyclé 11'' pour surfeuses et kitesurfeuses : 8 bouteilles recyclées, Stretch4D, séchage rapide. Éco-responsable. KDC Surfwear.
-  Updated: 2026-08-13T10:50:18Z
+  Updated: 2026-10-19T15:40:25Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Wurfeuse_KDC_4.png?v=1775025226
   - [Large](https://kdc-surfwear.com/products/boardshort-femme-wurfeuse-recycle?variant=52406046556507)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Wurfeuse_KDC_4.png?v=1775025226
     Price: 39,00 € EUR
   - [Extra Small](https://kdc-surfwear.com/products/boardshort-femme-wurfeuse-recycle?variant=52406046589275)
@@ -1083,7 +1083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Wurfeuse_KDC_6.png?v=1775025194
     Price: 39,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – CHILL | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-chill-recycle): Boardshort femme surf recyclé 11'' style décontracté : 8 bouteilles recyclées, Stretch4D 4 directions, séchage rapide. KDC Surfwear éco-responsable.
-  Updated: 2026-08-10T14:48:35Z
+  Updated: 2026-10-19T15:40:26Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Chill_KDC_3.png?v=1775030744
     Price: 39,00 € EUR
 - [Poncho surf 100 % coton – PASTEK | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-pastek): Poncho surf 100% coton terry double face. Capuche large contrastée, ouvertures latérales. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-08-11T21:48:45Z
+  Updated: 2026-10-21T05:34:11Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -1115,10 +1115,10 @@
 ## Collections
 
 - [Line-up](https://kdc-surfwear.com/collections/line-up): Collection au line-up
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-21T11:30:14Z
   Total Products: 12
 - [Accessoires](https://kdc-surfwear.com/collections/accessoires): Accessoires Poncho / Mug / Casquettes / Stickers
-  Updated: 2026-05-26T14:13:15Z
+  Updated: 2026-09-06T11:20:55Z
   Total Products: 3
 - [Vestes](https://kdc-surfwear.com/collections/vestes): Vestes Softshell / Néoprene waterproof, windproof.
   Updated: 2026-07-21T11:27:46Z
@@ -1130,19 +1130,19 @@
   Updated: 2026-05-29T05:00:52Z
   Total Products: 1
 - [Boardshorts Homme](https://kdc-surfwear.com/collections/boardshort-homme-long-court-pour-surf-kitesurf): Nos boardshorts pour homme sont fabriqués à partir de bouteilles plastique recyclées. Il sont Strech4D pour un confort optimal, les frottements sont réduits, le séchage est rapide grâce à une technologie QuickDry, et il sait se faire oublier par sa légèreté et son tissus très doux.
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-16T11:28:39Z
   Total Products: 12
 - [Boardshort Femme](https://kdc-surfwear.com/collections/boardshort-femme-long-court-surf-kitesurf): Nos boardshorts pour femme sont fabriqués à partir de bouteilles plastique recyclées. Il sont Strech4D pour un confort optimal, les frottements sont réduits, le séchage est rapide grâce a une technologie QuickDry , et il sait se faire oublier par sa légèreté et son tissus très doux.
-  Updated: 2026-08-11T11:23:45Z
+  Updated: 2026-09-22T11:26:28Z
   Total Products: 7
 - [Bikinis](https://kdc-surfwear.com/collections/bikinis): Bikinis fabriqués à partir de fil de nylon 100 % régénéré dérivé de déchets pré et post-industriels, tels que des filets de pêche jetés. Recyclé / Stretch 4D / Anti-UV / Recyclable
-  Updated: 2026-07-21T11:27:46Z
+  Updated: 2026-09-07T11:23:15Z
   Total Products: 12
 - [Bons Plans](https://kdc-surfwear.com/collections/soldes-boardshort-bikini-hoodies-teeshirts-kdc): Bon plans, fins de série, jusqu'à 70% de réduction
   Updated: 2026-07-21T11:27:46Z
   Total Products: 11
 - [Ponchos Surf](https://kdc-surfwear.com/collections/poncho-serviette): Poncho de surf pour se changer facilement et rester au chaud après la session.100% coton 380 gsm certifié OEKO-TEX®
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-21T11:30:14Z
   Total Products: 2
 - [Hoodies](https://kdc-surfwear.com/collections/hoodies): Imprimé en France
   Updated: 2026-06-20T11:24:07Z
@@ -1169,22 +1169,22 @@
   Updated: 2026-05-29T05:00:53Z
   Total Products: 1
 - [Shorts de bain](https://kdc-surfwear.com/collections/short-de-bain): Short de bain ecofriendly stretch, léger à séchage rapide fabriqués à partir de bouteilles en plastique recyclées
-  Updated: 2026-07-03T08:28:17Z
+  Updated: 2026-08-24T11:22:43Z
   Total Products: 2
 - [Maillots recyclés](https://kdc-surfwear.com/collections/maillot-recycle): KDC S’IMPLIQUE POUR LA PLANÈTE ! MAILLOTS DE BAIN FABRIQUÉS À PARTIR DE BOUTEILLES PLASTIQUE RECYCLÉES
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-16T11:28:39Z
   Total Products: 21
 - [Leggings et brassières](https://kdc-surfwear.com/collections/legging-brassiere-sport-yoga): Fabriqué en Econyl ♻ Matière recyclée et recyclable
   Updated: 2026-07-21T11:27:46Z
   Total Products: 8
 - [Boardshorts Homme – Smart](https://kdc-surfwear.com/collections/boardshorts-homme-smart)
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-16T11:28:39Z
   Total Products: 12
 - [Boardshorts Femme – Smart](https://kdc-surfwear.com/collections/boardshorts-femme-smart)
-  Updated: 2026-08-11T11:23:45Z
+  Updated: 2026-09-22T11:26:28Z
   Total Products: 7
 - [Bikinis – Smart](https://kdc-surfwear.com/collections/bikinis-smart)
-  Updated: 2026-07-21T11:27:46Z
+  Updated: 2026-09-07T11:23:15Z
   Total Products: 12
 - [Leggings &amp; Brassières – Smart](https://kdc-surfwear.com/collections/leggings-amp-brassieres-smart)
   Updated: 2026-07-21T11:27:46Z
@@ -1193,13 +1193,13 @@
   Updated: 2026-06-20T11:24:07Z
   Total Products: 7
 - [Maillots Recyclés – Smart](https://kdc-surfwear.com/collections/maillots-recycles-smart)
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-16T11:28:39Z
   Total Products: 21
 - [Accessoires &amp; Lifestyle – Smart](https://kdc-surfwear.com/collections/accessoires-amp-lifestyle-smart)
-  Updated: 2026-08-12T11:24:55Z
+  Updated: 2026-10-21T11:30:14Z
   Total Products: 12
 - [Bikinis, leggings, brassières, maillots en matières recyclées](https://kdc-surfwear.com/collections/bikinis-leggings-brassieres-maillots-en-matieres-recyclees): Fabriqués à partir d'un nylon de haute qualité fabriqué entièrement à partir de déchets ramassés dans les océans (principalement des «filets fantômes» et tapis abandonnés). Ils sont triés et lavés, broyés, fondus puis transformés en fibre et tissés. La fabrication de cette fibre réduit de 80% les émissions de gaz à effet de serre par rapport à la production d’un fil de nylon standard. Elle n’utilise pas de matière fossile non renouvelable et est 100% recyclable à vie.
-  Updated: 2026-07-21T11:27:46Z
+  Updated: 2026-09-07T11:23:15Z
   Total Products: 19
 
 ## Blogs
@@ -1300,7 +1300,7 @@
 - [Paiement 100% sécurisé](https://kdc-surfwear.com/pages/paiement-securise)
   Updated: 2026-05-29T05:01:29Z
 - [Conditions générales de vente](https://kdc-surfwear.com/pages/conditions-generales-de-vente): OBJETLes présentes conditions générales de vente visent à définir les droits et obligations de KDC SURFWEAR et du Client de produits présentés par ...
-  Updated: 2026-05-29T05:01:02Z
+  Updated: 2026-10-21T10:33:25Z
 - [Livraisons & Retours](https://kdc-surfwear.com/pages/livraison-retours)
   Updated: 2026-05-29T05:01:19Z
 - [Mentions légales](https://kdc-surfwear.com/pages/mentions-legales)
@@ -1337,19 +1337,21 @@
   Updated: 2026-05-29T05:01:14Z
 - [Comment choisir son boardshort et son short de bain homme](https://kdc-surfwear.com/pages/comment-choisir-boardshort-short-de-bain-homme): * { box-sizing: border-box; } /* Escape the narrow page container */ .g-fullwidth-escape { width: 100vw; position: relative; left: 50%; right: 50%;...
   Updated: 2026-05-29T05:01:01Z
+- [Avis clients](https://kdc-surfwear.com/pages/avis-clients): Ce que nos riders pensent de KDC Surfwear Des surfers, kitesurfeurs et nos clients partagent leur expérience avec nos produits éco-responsables.
+  Updated: 2026-09-01T06:34:27Z
 
 ## Policies
 
 - [Privacy Policy](https://kdc-surfwear.com/policies/privacy-policy)
-  Updated: 2026-02-17T09:15:30+01:00
+  Updated: 2026-02-17T08:15:30Z
 - [Shipping Policy](https://kdc-surfwear.com/policies/shipping-policy)
-  Updated: 2026-03-07T11:53:31+01:00
+  Updated: 2026-03-07T10:53:31Z
 - [Refund Policy](https://kdc-surfwear.com/policies/refund-policy)
-  Updated: 2026-03-07T11:51:39+01:00
+  Updated: 2026-03-07T10:51:39Z
 - [Terms of Service](https://kdc-surfwear.com/policies/terms-of-service)
-  Updated: 2026-03-07T11:52:59+01:00
+  Updated: 2026-03-07T10:52:59Z
 - [Contact Information](https://kdc-surfwear.com/policies/contact-information)
-  Updated: 2026-03-07T11:55:35+01:00
+  Updated: 2026-03-07T10:55:35Z
 
 ## Optional
 
