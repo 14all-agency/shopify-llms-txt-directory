@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-10-06T00:00:52.956Z
+- Updated At: 2026-10-22T00:01:28.580Z
 
 ## Products
 
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Versace-Bright-Crystal-Eau-De-Toilette-Brinxx-Couture-1268.jpg?v=1739985112
     Price: $130.00 USD
 - [Lux Mesh Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/lux-mesh-bodycon-dress): Elevate your style with the Lux Mesh Bodycon Dress, featuring a layered mesh lining and a flattering V-neck. It's bubble sleeves add a touch of drama.
-  Updated: 2026-07-15T05:04:26Z
+  Updated: 2026-10-14T12:02:28Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -202,7 +202,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Long Sleeve Midi Dress With Low V Neck Front And Back With Ruching On Sides And Chest](https://www.brinxxcouture.com/products/cap2-24-cd2784-id-55569): Elevate your style with this gorgeous Long Sleeve Midi Dress - featuring a low V-neck front and back, ruching on sides and chest, in black. 🖤
-  Updated: 2026-07-15T03:30:19Z
+  Updated: 2026-10-14T12:02:27Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -360,7 +360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
     Price: $30.00 USD
 - [Zip-Back Ruched Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/zip-back-ruched-bodycon-dress): Look and feel amazing in our Zip-Back Ruched Bodycon Dress! The figure-hugging design accentuates your curves with ruched detailing adds flair. Free Shipping!
-  Updated: 2026-07-18T08:30:10Z
+  Updated: 2026-10-06T07:19:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -701,7 +701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Moissanite-Rhodium-Plated-Necklace-Brinxx-Couture-839.jpg?v=1709270989
   Price: $550.00 USD
 - [Silver Moissanite Tennis Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/moissanite-bracelet): This Silver Moissanite Tennis Bracelet is the perfect addition to any outfit. Wether it's for a formal night out or just a casual t-shirt and jeans day you can't go wrong with it on your wrist.
-  Updated: 2026-07-08T20:15:43Z
+  Updated: 2026-10-17T20:55:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1011,7 +1011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Rainbow-Stripe-Openwork-Long-Sleeve-Cover-Up-Brinxx-Couture-6679.jpg?v=1709285910
     Price: $29.00 USD
 - [Fringe Trim Flare Sleeve Openwork Cover Up](https://www.brinxxcouture.com/products/fringe-trim-flare-sleeve-openwork-cover-up): Get beach-ready in style with our Fringe Trim Flare Sleeve Openwork Cover Up. Slightly stretchy with a sheer finish, this polyester stunner comes in S to XL sizes. #BrinxxCouture #CoverUp #BeachWear
-  Updated: 2026-07-17T10:19:57Z
+  Updated: 2026-10-20T20:23:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2160,43 +2160,43 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-09-29T06:43:38Z
+  Updated: 2026-10-13T01:42:45Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover coordinated sets and matching outfits designed for effortless style. From casual to dressy, find perfectly paired pieces.
-  Updated: 2026-09-30T02:06:48Z
+  Updated: 2026-10-07T20:47:53Z
   Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-09-10T01:58:19Z
+  Updated: 2026-10-07T20:47:52Z
   Total Products: 41
 - [Activewear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
-  Updated: 2026-07-08T21:35:22Z
+  Updated: 2026-10-07T20:44:43Z
   Total Products: 17
 - [Accessories](https://www.brinxxcouture.com/collections/accessories): Discover curated accessories including jewelry, handbags, scarves, and belts. Elevate any outfit with refined finishing touches.
-  Updated: 2026-09-07T16:29:30Z
+  Updated: 2026-10-07T20:47:50Z
   Total Products: 36
 - [Jackets](https://www.brinxxcouture.com/collections/womens-jackets): Discover refined jackets and outerwear for every season. From tailored blazers to cozy coats, find the perfect layer to elevate your style.
-  Updated: 2026-08-07T02:11:08Z
+  Updated: 2026-10-07T20:45:46Z
   Total Products: 25
 - [Tops](https://www.brinxxcouture.com/collections/womens-tops): Discover refined tops and blouses for every occasion. From casual tees to elegant blouses, find versatile pieces that elevate your wardrobe.
-  Updated: 2026-07-31T13:23:32Z
+  Updated: 2026-10-07T20:47:48Z
   Total Products: 50
 - [Bottoms](https://www.brinxxcouture.com/collections/bottoms): Discover refined bottoms for every occasion. From tailored pants to flowing skirts, find versatile pieces that elevate your everyday style.
-  Updated: 2026-08-28T03:01:54Z
+  Updated: 2026-10-07T20:47:36Z
   Total Products: 25
 - [Hats](https://www.brinxxcouture.com/collections/hats): Discover stylish hats for every season. From classic fedoras to cozy beanies and sun hats, find the perfect topper.
-  Updated: 2026-07-08T20:17:25Z
+  Updated: 2026-10-07T20:45:02Z
   Total Products: 5
 - [Handbags](https://www.brinxxcouture.com/collections/womens-handbags-purses): Discover refined handbags and purses for every occasion. From structured totes to elegant clutches, find the perfect bag.
-  Updated: 2026-09-18T09:27:11Z
+  Updated: 2026-10-07T20:47:50Z
   Total Products: 26
 - [Shoes](https://www.brinxxcouture.com/collections/shoes): Discover stylish women's shoes for every occasion. From elegant heels to comfortable flats and boots, find your perfect pair.
-  Updated: 2026-07-08T21:35:39Z
+  Updated: 2026-10-07T20:47:33Z
   Total Products: 11
 - [Sleepwear](https://www.brinxxcouture.com/collections/womens-sleepwear): Discover comfortable sleepwear and pajamas for restful nights. From cozy sets to elegant robes, find pieces for relaxation.
-  Updated: 2026-07-08T21:35:06Z
+  Updated: 2026-10-07T20:45:42Z
   Total Products: 5
 - [Wigs](https://www.brinxxcouture.com/collections/wigs): Discover high-quality wigs in various styles and colors. From natural looks to bold transformations, find your perfect hair.
   Updated: 2026-09-07T16:24:23Z
@@ -2208,31 +2208,31 @@
   Updated: 2026-07-08T21:35:02Z
   Total Products: 1
 - [Swimwear](https://www.brinxxcouture.com/collections/womens-swimwear): Discover stylish swimwear for every body. From classic bikinis to elegant one-pieces, find the perfect suit for sun and surf.
-  Updated: 2026-07-12T06:47:19Z
+  Updated: 2026-10-07T20:48:04Z
   Total Products: 46
 - [On ](https://www.brinxxcouture.com/collections/): Shop our biggest ! Save up to 70% on women's clothing, dresses, tops & accessories. Limited time offers on trendy fashion. Free shipping on all orders.
-  Updated: 2026-09-29T06:43:38Z
+  Updated: 2026-10-17T01:43:11Z
   Total Products: 25
 - [Shapewear](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover comfortable shapewear for smoothing and sculpting. From bodysuits to high-waist shorts, find confidence-boosting essentials.
-  Updated: 2026-07-08T21:35:39Z
+  Updated: 2026-10-07T20:43:43Z
   Total Products: 22
 - [Jewelry](https://www.brinxxcouture.com/collections/womens-jewelry): Discover elegant jewelry including necklaces, earrings, bracelets, and rings. Find delicate pieces to elevate any look.
-  Updated: 2026-09-07T16:29:30Z
+  Updated: 2026-10-15T11:17:04Z
   Total Products: 40
 - [Curvy & Confident Tops](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2026-09-09T09:22:26Z
+  Updated: 2026-10-07T20:47:44Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-09-10T01:58:19Z
+  Updated: 2026-10-07T20:47:52Z
   Total Products: 33
 - [Plus Size Swimwear](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
-  Updated: 2026-07-08T20:16:28Z
+  Updated: 2026-10-07T20:42:49Z
   Total Products: 3
 - [Sunglasses](https://www.brinxxcouture.com/collections/designer-sunglasses): Discover stylish sunglasses with UV protection. From classic aviators to trendy oversized frames, find your perfect pair.
-  Updated: 2026-07-08T21:34:53Z
+  Updated: 2026-10-07T20:42:46Z
   Total Products: 14
 - [Plus Size Sets](https://www.brinxxcouture.com/collections/plus-size-sets): Discover stylish plus size clothing sets at Brinxx Couture. Shop matching tops and bottoms for a coordinated look.
-  Updated: 2026-07-08T20:17:30Z
+  Updated: 2026-10-07T20:45:03Z
   Total Products: 2
 - [Christmas Fashion](https://www.brinxxcouture.com/collections/christmas-fashion): Shop the latest Christmas fashion trends at Brinxx Couture! Find everything from festive dresses and sweaters to cozy pajamas and accessories.
   Updated: 2024-05-21T06:39:42Z
@@ -2244,46 +2244,46 @@
   Updated: 2025-08-18T18:43:19Z
   Total Products: 0
 - [Plus Size Activewear](https://www.brinxxcouture.com/collections/plus-size-activewear): Stay fit and stylish with our collection of plus size active wear. Shop comfortable and trendy workout clothes at Brinxx Couture.
-  Updated: 2026-07-22T02:28:59Z
+  Updated: 2026-10-07T20:45:54Z
   Total Products: 12
 - [Graphic Tees](https://www.brinxxcouture.com/collections/graphic-tees): Express your style with our collection of women’s graphic tees. Shop trendy and unique designs at Brinxx Couture.
   Updated: 2026-07-08T21:35:01Z
   Total Products: 3
 - [New Arrivals – Latest Fashion, Jewelry & Accessories](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they  out.
-  Updated: 2026-09-07T16:45:08Z
+  Updated: 2026-10-07T20:48:04Z
   Total Products: 41
 - [Best Sellers](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
-  Updated: 2026-08-28T03:01:42Z
+  Updated: 2026-10-07T20:47:38Z
   Total Products: 13
 - [Jeans](https://www.brinxxcouture.com/collections/jeans): Find the perfect pair of jeans at Brinxx Couture. Shop our collection of stylish and comfortable jeans for women in various fits and styles.
-  Updated: 2026-09-02T02:30:41Z
+  Updated: 2026-10-07T20:44:08Z
   Total Products: 8
 - [Skirts](https://www.brinxxcouture.com/collections/skirts): Discover our collection of trendy skirts for women. From casual to dressy, find the perfect skirt for any occasion at Brinxx Couture.
-  Updated: 2026-08-28T03:01:54Z
+  Updated: 2026-10-07T20:47:36Z
   Total Products: 6
 - [Pants](https://www.brinxxcouture.com/collections/pants): Shop stylish and comfortable pants for women at Brinxx Couture. From casual to formal, find the perfect fit for every occasion.
-  Updated: 2026-07-08T21:35:38Z
+  Updated: 2026-10-07T20:44:30Z
   Total Products: 16
 - [Coats](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2026-09-29T11:15:14Z
+  Updated: 2026-10-17T01:43:11Z
   Total Products: 41
 - [Scarves](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
-  Updated: 2026-07-08T21:34:47Z
+  Updated: 2026-10-07T20:45:27Z
   Total Products: 5
 - [Heels](https://www.brinxxcouture.com/collections/heels): Shop our Women's Heels Collection for stylish, comfortable, and elegant heels. Perfect for every occasion, from casual outings to formal events. Explore now
-  Updated: 2026-08-25T17:45:16Z
+  Updated: 2026-10-07T20:47:47Z
   Total Products: 30
 - [Flats](https://www.brinxxcouture.com/collections/flats): Discover stylish and comfortable flats for women at Brinxx Couture. Perfect for everyday wear and available in various styles.
-  Updated: 2026-07-08T21:35:53Z
+  Updated: 2026-10-07T20:47:07Z
   Total Products: 3
 - [Boots](https://www.brinxxcouture.com/collections/boots): Discover our Women's Boots Collection featuring trendy, durable, and comfortable boots. Perfect for all seasons and styles. Shop now for your perfect pair!
-  Updated: 2026-07-08T21:35:39Z
+  Updated: 2026-10-07T20:47:33Z
   Total Products: 11
 - [Sweaters](https://www.brinxxcouture.com/collections/sweaters): Discover cozy sweaters and knits for every season. From chunky cardigans to lightweight pullovers, find warmth with refined style.
-  Updated: 2026-07-08T21:34:57Z
+  Updated: 2026-10-07T20:46:07Z
   Total Products: 15
 - [Cardigans](https://www.brinxxcouture.com/collections/cardigans): Stay warm and stylish with our collection of cozy cardigans. Perfect for layering and available in various styles. Shop now at Brinxx Couture!
-  Updated: 2026-07-08T21:34:50Z
+  Updated: 2026-10-07T20:45:32Z
   Total Products: 12
 - [Women's Casual Wear example products](https://www.brinxxcouture.com/collections/womens-casual-wear-example-products)
   Updated: 2026-07-08T20:15:37Z
@@ -2821,15 +2821,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.brinxxcouture.com/policies/privacy-policy)
-  Updated: 2024-03-14T11:05:26-04:00
+  Updated: 2024-03-14T15:05:26Z
 - [Shipping Policy](https://www.brinxxcouture.com/policies/shipping-policy)
-  Updated: 2025-09-05T09:49:06-04:00
+  Updated: 2025-09-05T13:49:06Z
 - [Refund Policy](https://www.brinxxcouture.com/policies/refund-policy)
-  Updated: 2024-09-16T15:13:32-04:00
+  Updated: 2024-09-16T19:13:32Z
 - [Terms of Service](https://www.brinxxcouture.com/policies/terms-of-service)
-  Updated: 2025-09-05T09:43:01-04:00
+  Updated: 2025-09-05T13:43:01Z
 - [Contact Information](https://www.brinxxcouture.com/policies/contact-information)
-  Updated: 2024-09-16T15:17:01-04:00
+  Updated: 2024-09-16T19:17:01Z
 
 ## Optional
 
