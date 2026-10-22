@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-02T02:31:54Z
 - Contact Email: service@syncoaudio.com
-- Updated At: 2026-10-15T08:00:30.721Z
+- Updated At: 2026-10-22T08:00:35.000Z
 
 ## Products
 
@@ -15,15 +15,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.syncoaudio.com/policies/privacy-policy)
-  Updated: 2025-04-16T01:13:52-07:00
+  Updated: 2025-04-16T08:13:52Z
 - [Shipping Policy](https://www.syncoaudio.com/policies/shipping-policy)
-  Updated: 2026-02-05T00:32:31-08:00
+  Updated: 2026-02-05T08:32:31Z
 - [Refund Policy](https://www.syncoaudio.com/policies/refund-policy)
-  Updated: 2025-04-16T00:40:54-07:00
+  Updated: 2025-04-16T07:40:54Z
 - [Terms of Service](https://www.syncoaudio.com/policies/terms-of-service)
-  Updated: 2025-04-16T01:54:39-07:00
+  Updated: 2025-04-16T08:54:39Z
 - [Contact Information](https://www.syncoaudio.com/policies/contact-information)
-  Updated: 2025-04-16T00:14:49-07:00
+  Updated: 2025-04-16T07:14:49Z
 
 ## Optional
 
