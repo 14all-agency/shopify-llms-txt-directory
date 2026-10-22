@@ -8,12 +8,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-20T04:00:01Z
 - Contact Email: vistar.wang@gmail.com
-- Updated At: 2026-09-27T00:00:28.720Z
+- Updated At: 2026-10-22T00:00:55.128Z
 
 ## Products
 
 - [Dawn 160ml Double-Walled Espresso Cup | 1988 Coffee](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml): Choose a 160ml double-walled stainless steel espresso cup in seven colors. Sized for double espresso, cortado, flat white, and other small drinks. Shop now.
-  Updated: 2026-09-15T06:55:28Z
+  Updated: 2026-10-20T02:09:21Z
   Vendor: 1988 Coffee
   Product Type: Espresso Cup
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/16-100_5d0b2535-a576-4142-a8c6-218149a09966.jpg?v=1787835440
     Price: $10.99 USD
 - [Star-Track WDT Needle Distributor 58mm](https://www.1988coffee.com/products/black-myth-planetary-wdt-tool-rotary-needle-distributor-58mm): 10-needle rotary WDT tool for consistent espresso puck prep. Eliminates clumps, 58mm fit, walnut handle.
-  Updated: 2026-09-24T20:23:32Z
+  Updated: 2026-10-20T02:09:21Z
   Vendor: 1988 Coffee
   Product Type: WDT Needle Distributor
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_5ee4a0e3-46a3-4f9c-b380-ddca90b4d672.jpg?v=1788582437
     Price: $53.99 USD
 - [Cloud Fall 3-in-1 Distributor Tamper Walnut](https://www.1988coffee.com/products/walnut-wood-3-in-1-espresso-tamper-distributor-set): All-in-one gravity distributor and tamper combo with walnut side handles. Saves counter space, consistent pucks.
-  Updated: 2026-09-24T20:23:42Z
+  Updated: 2026-10-20T02:09:21Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_eabc6906-a73a-4243-a116-5ea618629f6f.jpg?v=1787836005
     Price: $28.99 USD
 - [Espresso Tamping Mat for Coffee Station](https://www.1988coffee.com/products/silicone-espresso-tamping-mat-coffee-bar-station-organizer): Non-slip silicone tamping mat with corner pocket for tamper and tools. Heat-resistant, easy to clean. For 58mm portafilters.
-  Updated: 2026-09-24T20:23:55Z
+  Updated: 2026-10-20T02:09:22Z
   Vendor: 1988 Coffee
   Product Type: Espresso Tamping Mat
   Availability: Available
@@ -125,7 +125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_1_5da4eddc-3864-480d-9c30-8e9304713e0e.jpg?v=1787835748
     Price: $6.99 USD
 - [Espresso Puck Screen | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/espresso-filter-basket-58mm-portafilter-basket-double-layer-coffee-basket-precision-filter-basket-18g-coffee-basket-22g-espresso-basket): Compare Dual Dispersion puck screen options in 51mm, 53/54mm and 58mm. Check dimensions, basket headspace and package details before ordering.
-  Updated: 2026-09-20T09:08:23Z
+  Updated: 2026-10-20T02:09:22Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Screen
   Availability: Available
@@ -143,7 +143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_9a252f5e-c364-4daa-9cec-2fb891b1fdfe.jpg?v=1787835402
     Price: $4.99 USD
 - [S-Bottom Gravity Espresso Distributor – Self-Leveling](https://www.1988coffee.com/products/gravity-self-leveling-coffee-distributor-adaptive-height-espresso-distribution-tool-54mm-58mm-universal-distribution-hammer-set): Curved base auto-levels on any coffee bed. No spinning technique needed. Compatible with 51/53/54/58mm portafilters. Free shipping over $35. $16.99.
-  Updated: 2026-09-09T14:57:06Z
+  Updated: 2026-10-20T02:09:27Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -173,7 +173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15_-100_1_79858314-663a-4834-b712-d25cb4bc6917.jpg?v=1787835611
     Price: $16.99 USD
 - [Black Myth 58mm 30LB Impact Tamper | 1988 Coffee](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools): 58mm impact-rebound espresso tamper calibrated to 30 lb for repeatable puck prep. Choose the tamper-only option or a 58mm tool bundle.
-  Updated: 2026-08-27T13:08:10Z
+  Updated: 2026-10-20T02:09:26Z
   Vendor: 1988 Coffee
   Product Type: Espresso Tamper
   Availability: Available
@@ -199,7 +199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_b51664ac-b845-4dd2-a64e-b62d9f7e4208.jpg?v=1787835774
     Price: $61.99 USD
 - [Phantom Latte Art Milk Pitcher | 600ml Label Options](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-espresso-milk-jug-precision-spout-milk-cup-600ml-milk-pitcher): Compare three Phantom latte art milk pitcher options with a displayed 600ml label string. Check the selected label, product documentation, price and availability before ordering.
-  Updated: 2026-09-24T20:24:01Z
+  Updated: 2026-10-20T02:09:25Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15-100_86e0e855-b05a-492e-abfc-bc1d2d59080f.jpg?v=1787835480
     Price: $23.99 USD
 - [Solid Walnut Espresso Tamper 58mm with Stand | COFFEECONCEPT](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure): Handcrafted solid walnut handle espresso tamper set with matching accessories. 58mm precision fit, natural wood grain.
-  Updated: 2026-09-24T20:24:08Z
+  Updated: 2026-10-20T02:09:25Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1_0db93a3b-7b61-4f4b-86d2-1678a073c61e.jpg?v=1787835594
     Price: $32.99 USD
 - [Diamond Faceted Milk Pitcher for Latte Art](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale): Unique diamond-cut stainless steel milk pitcher. Faceted grip, precision spout for latte art. 350ml & 600ml sizes.
-  Updated: 2026-09-25T12:33:47Z
+  Updated: 2026-10-20T02:09:26Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/16-100.jpg?v=1787835654
     Price: $24.99 USD
 - [Walnut Espresso Tool Organizer Stand](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor): Handcrafted walnut storage stand with multiple slots for tampers, distributors, and accessories. Coffee station centerpiece.
-  Updated: 2026-09-24T20:24:25Z
+  Updated: 2026-10-20T02:09:30Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_67655d8a-ddfc-4b4c-aa57-908012e96107.jpg?v=1787832895
     Price: $16.99 USD
 - [Magnetic Anti-Static Dosing Ring 51/54/58mm](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring): Anti-static magnetic dosing ring for cleaner, faster espresso dosing. Eliminates static cling. Fits 51/54/58mm baskets.
-  Updated: 2026-09-09T14:57:11Z
+  Updated: 2026-10-20T02:09:31Z
   Vendor: 1988 Coffee
   Product Type: Coffee Dosing Accessory
   Availability: Available
@@ -321,7 +321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/51-1_3fafc977-6fdb-4612-b42e-0551f10a9f6f.jpg?v=1787832911
     Price: $7.99 USD
 - [Espresso Filter Paper | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/coffee-filter-paper-portafilter-filter-paper-espresso-filter-paper-secondary-filter-paper-58mm-filter-paper): Shop round espresso filter paper in 51mm, 53/54mm, and 58mm selections. Measure your portafilter basket before choosing a size.
-  Updated: 2026-09-18T09:53:16Z
+  Updated: 2026-10-20T02:09:30Z
   Vendor: 1988 Coffee
   Product Type: Espresso Filter Paper
   Availability: Available
@@ -336,7 +336,7 @@
     Availability: Available
     Price: $4.99 USD
 - [Espresso Dosing Cup 51/54/58mm Aroma](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup): Precision dosing cup doubles as aroma cup. Reduces mess and grounds waste. Fits 51/54/58mm portafilters, under $10.
-  Updated: 2026-09-24T20:24:31Z
+  Updated: 2026-10-20T02:09:30Z
   Vendor: 1988 Coffee
   Product Type: Coffee Dosing Accessory
   Availability: Available
@@ -366,7 +366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_720e1a9e-cde8-46c4-aa19-0d6e3dba8ce4.jpg?v=1787835821
     Price: $9.99 USD
 - [Vertical-Striped Gravity Espresso Distributor](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set): Shop black or silver vertical-striped gravity espresso distributor options in 51mm, 53/54mm, and 58mm. Check current variant pricing and availability.
-  Updated: 2026-09-09T14:57:12Z
+  Updated: 2026-10-20T02:09:34Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -420,7 +420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s51.png?v=1787835677
     Price: $41.99 USD
 - [100ml Espresso Measuring Cup with Spout | 1988 Coffee](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup): Measure espresso volume in a 100ml stainless steel cup with a visible scale, stable base, side handle, and pour spout. Available in four finishes. Shop now.
-  Updated: 2026-09-16T05:07:28Z
+  Updated: 2026-10-20T02:09:34Z
   Vendor: 1988 Coffee
   Product Type: Espresso Shot Glass
   Availability: Available
@@ -442,7 +442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_2.jpg?v=1787835625
     Price: $5.99 USD
 - [Cute Bear Tamper Set with Walnut Stand](https://www.1988coffee.com/products/coffee-tamper-set-cute-bear-tamper-walnut-tamper-base-coffee-tool-storage-espresso-tamper): Adorable bear-shaped tamper set with solid walnut storage stand. Great gift for espresso lovers. 58mm fit.
-  Updated: 2026-09-24T20:24:38Z
+  Updated: 2026-10-20T02:09:34Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -456,7 +456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1.jpg?v=1787835783
     Price: $28.99 USD
 - [Espresso Tamper + WDT Tool Set – 2-in-1 Puck Prep](https://www.1988coffee.com/products/espresso-tamper-set-wdt): Compare 51mm, 53/54mm and 58mm options for this espresso tamper and WDT set. Check basket fit, package details and availability before ordering.
-  Updated: 2026-09-20T16:05:01Z
+  Updated: 2026-10-20T02:09:35Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -474,7 +474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100.jpg?v=1787835457
     Price: $28.99 USD
 - [Sawada Wide-Mouth Latte Art Cup Ceramic](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup): Wide-mouth ceramic cup for latte art practice. Inspired by Sawada pro design. Thick walls, premium ceramic feel.
-  Updated: 2026-09-09T14:57:16Z
+  Updated: 2026-10-20T02:09:35Z
   Vendor: 1988 Coffee
   Product Type: Espresso Cup
   Availability: Available
@@ -500,7 +500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182039_672_496.jpg?v=1787835431
     Price: $10.99 USD
 - [Muyu Espresso Tamper | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/constant-force-tamper-consistent-pressure-tamper-walnut-coffee-tamper-espresso-tamper-balanced-spring-tamper): Shop the Muyu espresso tamper in 51mm, 53/54mm, and 58mm selections. Check your basket measurement and choose the listed size before ordering.
-  Updated: 2026-09-23T10:02:26Z
+  Updated: 2026-10-20T02:09:35Z
   Vendor: 1988 Coffee
   Product Type: Espresso Tamper
   Availability: Available
@@ -518,7 +518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327165134_653_496.jpg?v=1787835391
     Price: $23.99 USD
 - [Airtight Coffee Canister – Vacuum Seal Valve](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar): Keep coffee beans fresh 3x longer. Stainless steel vacuum-seal canister with one-way CO2 valve. 1.2L & 1.5L, under $12.
-  Updated: 2026-09-24T20:24:46Z
+  Updated: 2026-10-20T02:09:38Z
   Vendor: 1988 Coffee
   Product Type: Coffee Storage
   Availability: Available
@@ -544,7 +544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66mh1.5.png?v=1787835687
     Price: $11.99 USD
 - [Bell Milk Pitcher 350/500ml Latte Art](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug): Classic bell-shaped stainless steel milk pitcher for smooth latte art. Beginner-friendly spout. 350ml & 500ml sizes.
-  Updated: 2026-08-27T13:11:32Z
+  Updated: 2026-10-20T02:09:39Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -586,7 +586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327163904_649_496.jpg?v=1787835851
     Price: $22.99 USD
 - [Eagle Beak Latte Art Milk Pitcher | 400/600ml Options](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml): Compare Eagle Beak latte art milk pitcher options labeled V-Spout with 400ml or 600ml wording. Check product documentation, price and availability before ordering.
-  Updated: 2026-09-23T10:02:37Z
+  Updated: 2026-10-20T02:09:40Z
   Vendor: 1988 Coffee
   Product Type: Coffee Tools
   Availability: Available
@@ -608,7 +608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327105906_588_496_6f2750bc-b71f-4227-b961-7e2d301c435a.jpg?v=1787835435
     Price: $24.99 USD
 - [Gravity Espresso Distributor 51/53/58mm | 1988 Coffee](https://www.1988coffee.com/products/coffee-distributor-gravity-coffee-tamper-espresso-distribution-tool-walnut-coffee-tool-self-dumping-tamper): Self-leveling walnut espresso distributor in 51mm, 53/54mm, and 58mm sizes. Match your basket diameter to improve puck prep and reduce channeling.
-  Updated: 2026-09-24T20:24:53Z
+  Updated: 2026-10-20T02:09:39Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -626,7 +626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260326172024_536_496.jpg?v=1787835825
     Price: $24.99 USD
 - [Coffee Vacuum 3.0 Cordless Dual-Use Cleaner](https://www.1988coffee.com/products/coffee-vacuum-3-0-cordless-handheld-blow-suck-dual-use-high-power-ultra-strong-suction): Cordless dual-mode coffee cleaner — blow & suction. High-power motor, 5 nozzles, USB-C rechargeable. For espresso setups.
-  Updated: 2026-09-15T09:15:30Z
+  Updated: 2026-10-20T02:09:40Z
   Vendor: 1988 Coffee
   Product Type: Coffee Equipment Cleaner
   Availability: Available
@@ -645,316 +645,430 @@
     Availability: Not Available
     Price: $52.00 USD
 - [350ml Glass French Press | 1988 Coffee](https://www.1988coffee.com/products/household-coffee-press-manual-coffee-pot): Brew full-bodied coffee with a compact 350ml glass French press and reusable metal mesh filter. A simple single-serve brewer for home or office. Shop online.
-  Updated: 2026-09-25T12:33:56Z
+  Updated: 2026-10-20T02:09:40Z
   Vendor: 1988 Coffee
   Product Type: Coffee Maker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/151779d5-cb5a-4b68-a486-d1dd71810825.jpg?v=1787833017
-  Price: $37.99 USD
+  Price: $40.00 USD
 
 ## Collections
 
 - [COFFEE CONCEPT](https://www.1988coffee.com/collections/coffee-concept): Browse the full COFFEECONCEPT collection of precision espresso tools — tampers, distributors, milk pitchers, dosing rings, and more. Built for consistent extraction.
-  Updated: 2026-09-23T09:01:08Z
+  Updated: 2026-10-13T07:38:13Z
   Total Products: 0
 - [Tamping & Distribution Tools](https://www.1988coffee.com/collections/tamping-distribution-tools): Shop gravity coffee distributors, constant force tampers, and walnut-base espresso tools. Eliminate channeling and pull consistent shots with every puck preparation.
-  Updated: 2026-08-31T09:00:43Z
+  Updated: 2026-10-18T23:32:41Z
   Total Products: 11
 - [Latte Art & Milk Frothing Tools](https://www.1988coffee.com/collections/latte-art-milk-frothing-tools): Stainless steel milk pitchers for latte art — bell shape for beginners, eagle beak for precision pours. 304 stainless steel in 350ml, 400ml, 500ml, and 600ml sizes.
-  Updated: 2026-09-25T11:16:19Z
+  Updated: 2026-10-18T23:32:42Z
   Total Products: 4
 - [Cups & Storage Containers](https://www.1988coffee.com/collections/cups-storage-containers-1): Shop professional latte art cups, airtight coffee bean storage canisters, and accessories. Designed for specialty coffee lovers who care about freshness and.
-  Updated: 2026-09-16T11:14:58Z
+  Updated: 2026-10-18T23:32:42Z
   Total Products: 4
 - [Dosing & Extraction Accessories](https://www.1988coffee.com/collections/dosing-extraction-accessories): Magnetic dosing rings, portafilter filter papers, and extraction accessories for consistent espresso. Fits 51mm, 53mm, 54mm, and 58mm portafilter baskets.
-  Updated: 2026-09-18T11:15:12Z
+  Updated: 2026-10-18T23:32:42Z
   Total Products: 4
 - [Cleaning & Helper Tools](https://www.1988coffee.com/collections/cleaning-helper-tools): Keep your espresso setup clean and performing at its best. Shop portafilter brushes, group head tools, and maintenance accessories for home and café espresso.
-  Updated: 2026-08-27T13:05:21Z
+  Updated: 2026-10-18T23:32:43Z
   Total Products: 1
 - [OPEN - Best Sellers](https://www.1988coffee.com/collections/avada-best-sellers): Discover the OPEN best sellers collection featuring top-rated products loved by customers worldwide. Explore quality and popularity all in one place.
-  Updated: 2026-09-25T15:04:45Z
-  Total Products: 28
+  Updated: 2026-10-18T23:32:43Z
+  Total Products: 26
 - [Breville Barista Express Accessories | 54mm Upgrades](https://www.1988coffee.com/collections/breville-barista-express): Upgrade your Breville Barista Express with 54mm-compatible tampers, gravity distributors, WDT tools, and puck prep accessories.
-  Updated: 2026-09-25T11:16:19Z
+  Updated: 2026-10-18T23:32:43Z
   Total Products: 25
 - [Breville Bambino Accessories | 54mm Tampers & Espresso Tools](https://www.1988coffee.com/collections/breville-bambino): Shop 54mm tampers, distributors, and WDT tools for Breville Bambino and Bambino Plus. Better puck prep for better shots.
-  Updated: 2026-09-25T11:16:19Z
+  Updated: 2026-10-18T23:32:43Z
   Total Products: 25
 - [DeLonghi Dedica Accessories | 51mm Tampers & Upgrade Kit](https://www.1988coffee.com/collections/delonghi-dedica): Upgrade your DeLonghi Dedica with 51mm tampers, WDT tools, puck screens, and espresso accessories for cleaner shots.
-  Updated: 2026-09-25T11:16:19Z
+  Updated: 2026-10-18T23:32:44Z
   Total Products: 25
 - [58mm Portafilter Accessories | Precision Tampers, Distributors & WDT Tools](https://www.1988coffee.com/collections/58mm-portafilter): Shop 58mm portafilter accessories: precision tampers, WDT tools, gravity distributors, and puck screens for better espresso.
-  Updated: 2026-09-25T11:16:19Z
+  Updated: 2026-10-18T23:32:55Z
   Total Products: 25
 - [Smart Products Filter Index - Do not delete](https://www.1988coffee.com/collections/globofilter-best--products-index): Browse COFFEECONCEPT coffee tools, espresso accessories, brewing gear, tampers, distributors, WDT tools, milk pitchers, and manual coffee makers.
-  Updated: 2026-09-25T15:04:45Z
-  Total Products: 29
+  Updated: 2026-10-18T23:32:54Z
+  Total Products: 26
 - [Manual Coffee Press & Glass Coffee Makers](https://www.1988coffee.com/collections/cjcoffee): Discover the 350ml coffee press for smooth, rich coffee at home. A compact manual brewer with glass design, ideal for daily use and easy cleanup.
-  Updated: 2026-09-25T15:04:45Z
+  Updated: 2026-10-18T23:32:54Z
   Total Products: 1
 
 ## Blogs
 
 - [Coffee Science](https://www.1988coffee.com/blogs/news): Espresso brewing guides, gear comparisons, and barista tips from COFFEECONCEPT — dial in better shots with the right tools and technique.
   - [Bell vs Eagle Beak Milk Pitcher for Latte Art | Barista Guide](https://www.1988coffee.com/blogs/news/milk-pitcher-latte-art-bell-vs-eagle-beak-spout-guide): Bell vs Eagle Beak Milk Pitcher for Latte Art | Barista Guide
-    Updated: 2026-07-24T08:13:24Z
+    Updated: 2026-10-18T23:32:55Z
     Author: COFFEECONCEPT
     Tags: barista guide, espresso, latte art, milk pitcher, steaming milk
   - [How to Fix Espresso Channeling with a Coffee Distributor](https://www.1988coffee.com/blogs/news/espresso-channeling-fix-coffee-distributor-guide): How to Fix Espresso Channeling with a Coffee Distributor
-    Updated: 2026-07-24T08:13:44Z
+    Updated: 2026-10-18T23:32:55Z
     Author: COFFEECONCEPT
     Tags: barista tips, channeling, coffee distributor, espresso, puck preparation, tamper
   - [Espresso Puck Prep Guide: Dosing Ring, Distributor & Tamper](https://www.1988coffee.com/blogs/news/espresso-puck-preparation-dosing-ring-distributor-tamper-complete-guide): Espresso Puck Prep Guide: Dosing Ring, Distributor & Tamper
-    Updated: 2026-07-24T08:14:14Z
+    Updated: 2026-10-18T23:32:55Z
     Author: COFFEECONCEPT
     Tags: barista tools, distributor, dosing ring, espresso, espresso accessories, puck preparation, tamper
-  - [Best Espresso Tamper Under $50: 3 Smart Picks for Home Baristas](https://www.1988coffee.com/blogs/news/best-espresso-tamper-under-50-constant-force-vs-standard): Best Espresso Tamper Under $50: 3 Smart Picks for Home Baristas
-    Updated: 2026-07-24T08:14:24Z
+  - [Espresso Tampers Under $50 (2026): 3 Options Compared](https://www.1988coffee.com/blogs/news/best-espresso-tamper-under-50-constant-force-vs-standard): Espresso Tampers Under $50 (2026): 3 Options Compared
+    Updated: 2026-10-21T14:00:29Z
     Author: Cosmos Fang
     Tags: buying guide, constant force tamper, espresso tools, tamper, under 50
   - [How to Stop Espresso Channeling: Quick Fixes](https://www.1988coffee.com/blogs/news/how-to-stop-espresso-channeling-complete-fix): How to Stop Espresso Channeling: Quick Fixes
-    Updated: 2026-08-20T05:00:58Z
+    Updated: 2026-10-18T23:32:56Z
     Author: 1988 Coffee
     Tags: coffee distributor, dosing ring, espresso channeling, espresso tips, espresso troubleshooting, fix espresso, puck preparation
   - [Best Milk Pitcher for Latte Art Beginners](https://www.1988coffee.com/blogs/news/latte-art-beginners-best-milk-pitcher-guide): Best Milk Pitcher for Latte Art Beginners
-    Updated: 2026-07-24T08:15:24Z
+    Updated: 2026-10-18T23:32:56Z
     Author: COFFEECONCEPT
     Tags: barista beginner, cappuccino, flat white, latte art beginner, latte art pitcher, milk frothing, milk pitcher, steaming milk
   - [How to Do Latte Art at Home: Complete Beginner Guide (Step by Step) -](https://www.1988coffee.com/blogs/news/how-to-do-latte-art-at-home-beginner-step-by-step): How to Do Latte Art at Home: Complete Beginner Guide (Step by Step) -
-    Updated: 2026-07-24T08:15:54Z
+    Updated: 2026-10-18T23:32:57Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [Best Espresso Tools for Beginners: The Complete Starter Kit (Under $60](https://www.1988coffee.com/blogs/news/best-espresso-tools-beginners-starter-kit-under-60): Best Espresso Tools for Beginners: The Complete Starter Kit (Under $60
-    Updated: 2026-07-24T08:15:55Z
+    Updated: 2026-10-18T23:32:57Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [What Is a WDT Tool? The Complete Espresso Distribution Guide -](https://www.1988coffee.com/blogs/news/what-is-wdt-tool-espresso-distribution-guide): What Is a WDT Tool? The Complete Espresso Distribution Guide -
-    Updated: 2026-07-24T08:16:44Z
+    Updated: 2026-10-18T23:32:57Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [How to Store Coffee Beans: The Complete Guide to Keeping Beans Fresh -](https://www.1988coffee.com/blogs/news/how-to-store-coffee-beans-keep-fresh-complete-guide): How to Store Coffee Beans: The Complete Guide to Keeping Beans Fresh -
-    Updated: 2026-07-24T08:16:54Z
+    Updated: 2026-10-18T23:32:57Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [Espresso Extraction Ratio: The Complete Guide (With Numbers) -](https://www.1988coffee.com/blogs/news/espresso-extraction-ratio-guide-dose-yield-time): Espresso Extraction Ratio: The Complete Guide (With Numbers) -
-    Updated: 2026-07-24T08:17:34Z
+    Updated: 2026-10-18T23:32:57Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [Espresso Puck Prep Guide: WDT, Distribution and Tamping](https://www.1988coffee.com/blogs/news/espresso-puck-prep-wdt-distribution-tamping-guide): Espresso Puck Prep Guide: WDT, Distribution and Tamping
-    Updated: 2026-08-19T07:56:19Z
+    Updated: 2026-10-18T23:32:58Z
     Author: Cosmos Fang
     Tags: Espresso, Puck Prep, Tamping, WDT
   - [Burr vs Blade Grinder for Espresso: Why It's Not Even a Close Call -](https://www.1988coffee.com/blogs/news/burr-vs-blade-grinder-espresso-which-is-better): Burr vs Blade Grinder for Espresso: Why It's Not Even a Close Call -
-    Updated: 2026-07-24T08:17:55Z
+    Updated: 2026-10-18T23:32:58Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [How to Dial In Espresso: A Step-by-Step Guide for Beginners -](https://www.1988coffee.com/blogs/news/how-to-dial-in-espresso-step-by-step-beginner-guide): How to Dial In Espresso: A Step-by-Step Guide for Beginners -
-    Updated: 2026-07-24T08:18:34Z
+    Updated: 2026-10-18T23:32:58Z
     Author: Shopify API
     Tags: coffee, espresso, home barista, latte art
   - [The Perfect Pour-Over Morning Routine](https://www.1988coffee.com/blogs/news/pour-over-morning-routine-step-by-step-guide): The Perfect Pour-Over Morning Routine
-    Updated: 2026-07-24T08:18:14Z
+    Updated: 2026-10-18T23:32:58Z
     Author: Shopify API
     Tags: brewing guide, coffee, coffee tools, home barista
   - [Best Eco-Friendly Coffee Gifts: 12 Sustainable Picks (2026) -](https://www.1988coffee.com/blogs/news/best-eco-friendly-coffee-gifts-sustainable-2026): Best Eco-Friendly Coffee Gifts: 12 Sustainable Picks (2026) -
-    Updated: 2026-07-24T08:19:15Z
+    Updated: 2026-10-18T23:32:59Z
     Author: Shopify API
     Tags: brewing guide, coffee, coffee tools, home barista
   - [How to Brew Great Coffee at the Office: The Complete Guide -](https://www.1988coffee.com/blogs/news/how-to-brew-coffee-at-office-complete-guide): How to Brew Great Coffee at the Office: The Complete Guide -
-    Updated: 2026-07-24T08:19:24Z
+    Updated: 2026-10-18T23:32:59Z
     Author: Shopify API
     Tags: brewing guide, coffee, coffee tools, home barista
   - [What Is a WDT Tool? Espresso Distribution Guide | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/what-is-a-wdt-tool-and-why-every-espresso-lover-needs-one): What Is a WDT Tool? Espresso Distribution Guide | COFFEECONCEPT
-    Updated: 2026-07-24T08:19:55Z
+    Updated: 2026-10-18T23:32:59Z
     Author: COFFEECONCEPT
     Tags: channeling, espresso, espresso tips, home barista, needle distributor, WDT tool
   - [Constant Force Tamper vs Regular Tamper: Which Is Better? | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/constant-force-tamper-vs-regular-tamper-whats-the-real-difference): Constant Force Tamper vs Regular Tamper: Which Is Better? | COFFEECONCEPT
-    Updated: 2026-07-24T08:19:55Z
+    Updated: 2026-10-18T23:32:59Z
     Author: COFFEECONCEPT
     Tags: constant force tamper, espresso consistency, espresso tamper, home barista, puck prep, tamping
   - [How to Choose the Right Milk Pitcher for Latte Art | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/how-to-choose-milk-pitcher-latte-art): How to Choose the Right Milk Pitcher for Latte Art | COFFEECONCEPT
-    Updated: 2026-07-24T08:20:54Z
+    Updated: 2026-10-18T23:33:00Z
     Author: COFFEECONCEPT
     Tags: barista tools, espresso accessories, latte art, milk pitcher
   - [Why Your Espresso Has Channeling (And How to Fix It) | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/why-espresso-channeling-how-to-fix): Why Your Espresso Has Channeling (And How to Fix It) | COFFEECONCEPT
-    Updated: 2026-07-24T08:21:04Z
+    Updated: 2026-10-18T23:33:00Z
     Author: COFFEECONCEPT
     Tags: barista tips, espresso channeling, espresso extraction, puck prep, WDT
   - [Gravity Distributor vs WDT Needle: Which to Buy | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/gravity-vs-needle-distributor-comparison): Gravity Distributor vs WDT Needle: Which to Buy | COFFEECONCEPT
-    Updated: 2026-07-24T08:21:24Z
+    Updated: 2026-10-18T23:33:00Z
     Author: COFFEECONCEPT
     Tags: barista tools, espresso distributor, espresso tools, gravity distributor, puck prep, WDT
   - [Home Barista Starter Kit Guide: What to Buy First](https://www.1988coffee.com/blogs/news/home-barista-starter-kit-complete-guide): Home Barista Starter Kit Guide: What to Buy First
-    Updated: 2026-08-19T07:56:20Z
+    Updated: 2026-10-18T23:33:01Z
     Author: Cosmos Fang
     Tags: Buying Guide, Espresso Tools, Home Barista, Starter Kit
   - [Best Espresso Distributors for Home Baristas 2025 – Reviewed](https://www.1988coffee.com/blogs/news/best-espresso-distributors-for-home-baristas-in-2025-compared): Best Espresso Distributors for Home Baristas 2025 – Reviewed
-    Updated: 2026-07-24T08:21:54Z
+    Updated: 2026-10-18T23:33:01Z
     Author: Shopify API
     Tags: barista guide, distributor, espresso, espresso tools, home barista, how-to
-  - [How to Choose the Right Espresso Tamper Size: 51mm vs 53mm vs 58mm -](https://www.1988coffee.com/blogs/news/how-to-choose-the-right-espresso-tamper-size-51mm-vs-53mm-vs-58mm): How to Choose the Right Espresso Tamper Size: 51mm vs 53mm vs 58mm -
-    Updated: 2026-07-24T08:22:44Z
+  - [How to Choose a Tamper Size: Basket Measurement and Fit](https://www.1988coffee.com/blogs/news/how-to-choose-the-right-espresso-tamper-size-51mm-vs-53mm-vs-58mm): How to Choose a Tamper Size: Basket Measurement and Fit
+    Updated: 2026-10-21T13:59:26Z
     Author: 1988coffee
     Tags: 51mm, 53mm, 58mm, espresso tamper, espresso tools, home barista, tamper size
   - [How Long Does Coffee Stay Fresh?](https://www.1988coffee.com/blogs/news/how-long-does-coffee-stay-fresh-storage-science-guide): How Long Does Coffee Stay Fresh?
-    Updated: 2026-07-24T08:23:35Z
+    Updated: 2026-10-18T23:33:02Z
     Author: COFFEECONCEPT
     Tags: airtight canister, CO2 degassing, coffee beans, coffee freshness, coffee oxidation, coffee storage, espresso beans, one-way valve
   - [Espresso Brew Ratios & Dosing Explained](https://www.1988coffee.com/blogs/news/espresso-dosing-brew-ratios-weighing-guide): Espresso Brew Ratios & Dosing Explained
-    Updated: 2026-07-24T08:23:35Z
+    Updated: 2026-10-18T23:33:02Z
     Author: COFFEECONCEPT
     Tags: 1:2 ratio, brew ratio, dosing cup, dosing ring, espresso dosing, espresso recipe, espresso weight, portafilter, smelling cup
   - [Puck Screen vs Filter Paper for Espresso](https://www.1988coffee.com/blogs/news/espresso-puck-screen-vs-filter-paper-guide): Puck Screen vs Filter Paper for Espresso
-    Updated: 2026-09-13T12:52:05Z
+    Updated: 2026-10-20T10:19:11Z
     Author: 1988 Coffee
     Tags: basket cleanup, dispersion screen, espresso channeling, filter paper, group head, pre-infusion, puck paper, puck screen, shower screen
   - [Best Espresso Distributors for Home Baristas 2025 – Reviewed](https://www.1988coffee.com/blogs/news/best-espresso-distributors-home-baristas-2025): Best Espresso Distributors for Home Baristas 2025 – Reviewed
-    Updated: 2026-07-24T08:24:24Z
+    Updated: 2026-10-18T23:33:02Z
     Author: COFFEECONCEPT
     Tags: barista guide, distributor, espresso, espresso channeling, how-to, puck prep
   - [Espresso Tamper Size Guide: 51mm vs 53mm vs 58mm – Which Do You Need?](https://www.1988coffee.com/blogs/news/espresso-tamper-size-guide-51mm-53mm-58mm): Espresso Tamper Size Guide: 51mm vs 53mm vs 58mm – Which Do You Need?
-    Updated: 2026-07-24T08:25:24Z
+    Updated: 2026-10-18T23:33:02Z
     Author: COFFEECONCEPT
     Tags: 51mm, 53mm, 58mm, barista guide, espresso tamper, espresso tools, how-to, tamper size
   - [猫屎咖啡：世界上最昂贵的咖啡背后的故事 | COFFEECONCEPT](https://www.1988coffee.com/blogs/news/kopi-luwak-coffee-taste-price-ethics-explained): 猫屎咖啡：世界上最昂贵的咖啡背后的故事 | COFFEECONCEPT
-    Updated: 2026-07-24T08:25:05Z
+    Updated: 2026-10-18T23:33:03Z
     Author: Lin Xiao
     Tags: Civet Coffee, Coffee Ethics, Coffee Science, Kopi Luwak, Specialty Coffee
-  - [Espresso Tamper Size Guide: 51mm, 54mm, 58mm & 58.5mm — Which Do You N](https://www.1988coffee.com/blogs/news/espresso-tamper-size-guide): Espresso Tamper Size Guide: 51mm, 54mm, 58mm & 58.5mm — Which Do You N
-    Updated: 2026-09-13T12:52:09Z
+  - [Espresso Tamper Size Guide: 51mm, 54mm, 58mm and 58.5mm](https://www.1988coffee.com/blogs/news/espresso-tamper-size-guide): Espresso Tamper Size Guide: 51mm, 54mm, 58mm and 58.5mm
+    Updated: 2026-10-21T13:59:33Z
     Author: Cosmos Fang
     Tags: breville, delonghi, guide, machine compatibility, tamper
   - [WDT Tool vs Coffee Distributor: What's the Difference and Do You Need](https://www.1988coffee.com/blogs/news/wdt-tool-vs-coffee-distributor): WDT Tool vs Coffee Distributor: What's the Difference and Do You Need
-    Updated: 2026-09-13T12:52:01Z
+    Updated: 2026-10-18T23:33:03Z
     Author: Cosmos Fang
     Tags: distributor, espresso technique, guide, puck prep, wdt
   - [Best Acaia Lunar Alternatives Under $50](https://www.1988coffee.com/blogs/news/best-acaia-lunar-alternatives): Best Acaia Lunar Alternatives Under $50
-    Updated: 2026-07-24T08:26:35Z
+    Updated: 2026-10-18T23:33:04Z
     Author: Cosmos Fang
     Tags: acaia, budget, espresso, gear review, scale
   - [DeLonghi Dedica Upgrade Guide: 51mm Accessories to Buy First](https://www.1988coffee.com/blogs/news/delonghi-dedica-upgrade-guide): DeLonghi Dedica Upgrade Guide: 51mm Accessories to Buy First
-    Updated: 2026-08-19T07:56:21Z
+    Updated: 2026-10-18T23:33:04Z
     Author: Cosmos Fang
     Tags: 51mm, DeLonghi Dedica, Espresso Accessories, Upgrade Guide
-  - [Breville Barista Express Accessories: 54mm Upgrades for BES870](https://www.1988coffee.com/blogs/news/breville-barista-express-accessories): Breville Barista Express Accessories: 54mm Upgrades for BES870
-    Updated: 2026-07-24T08:27:44Z
+  - [Breville Barista Express Accessories: Fit and Buying Guide](https://www.1988coffee.com/blogs/news/breville-barista-express-accessories): Breville Barista Express Accessories: Fit and Buying Guide
+    Updated: 2026-10-21T13:59:40Z
     Author: Cosmos Fang
     Tags: 54mm, accessories, barista express, bes870, bes876, breville, upgrade guide
   - [How to Fix Espresso Channeling | Puck Prep Guide](https://www.1988coffee.com/blogs/news/how-to-fix-espresso-channeling): How to Fix Espresso Channeling | Puck Prep Guide
-    Updated: 2026-07-24T08:27:34Z
+    Updated: 2026-10-18T23:33:05Z
     Author: Cosmos Fang
     Tags: channeling, espresso technique, guide, puck prep, troubleshooting
-  - [What Size Tamper for Breville Barista Express? (54mm vs 58mm Guide) -](https://www.1988coffee.com/blogs/news/what-size-tamper-for-breville-barista-express-54mm-vs-58mm-guide): What Size Tamper for Breville Barista Express? (54mm vs 58mm Guide) -
-    Updated: 2026-07-24T08:28:04Z
+  - [Breville Barista Express Tamper Size: Check the Basket](https://www.1988coffee.com/blogs/news/what-size-tamper-for-breville-barista-express-54mm-vs-58mm-guide): Breville Barista Express Tamper Size: Check the Basket
+    Updated: 2026-10-21T13:59:19Z
     Author: 1988Coffee
     Tags: 54mm tamper, 58mm tamper, breville barista express tamper, breville tamper size, constant force tamper, espresso accessories, espresso tamper, tamper size guide
   - [Espresso Sour Ring Fix | Tamper Size Guide](https://www.1988coffee.com/blogs/news/why-your-espresso-has-a-sour-ring): Espresso Sour Ring Fix | Tamper Size Guide
-    Updated: 2026-07-24T08:28:25Z
+    Updated: 2026-10-18T23:33:05Z
     Author: Shopify API
     Tags: Breville, Channeling, Espresso Tips, Puck Prep, Tamper
   - [WPM Milk Pitcher Guide | Features & Benefits in 2026](https://www.1988coffee.com/blogs/news/wpm-milk-pitcher-guide-designs-benefits-8339-44): WPM Milk Pitcher Guide | Features & Benefits in 2026
-    Updated: 2026-07-24T08:28:55Z
+    Updated: 2026-10-18T23:33:06Z
     Author: Adam Wang
   - [Elevate Your Espresso Experience: Discover the Best Coffee Brewing](https://www.1988coffee.com/blogs/news/elevate-your-espresso-experience-discover-the-best-coffee-brewing-techniques-with-coffeeconcepts-dawn-double-walled-espresso-demitasse-cups-1): Elevate Your Espresso Experience: Discover the Best Coffee Brewing
-    Updated: 2026-07-24T08:29:15Z
+    Updated: 2026-10-18T23:33:06Z
     Author: COFFEECONCEPT
     Tags: best coffee brewing techniques, coffee flavor profiles explained, health benefits of coffee drinking
   - [Best Hand Coffee Grinder Reviews & Buying Guide 2026](https://www.1988coffee.com/blogs/news/best-hand-coffee-grinder-reviews-guide-2026-8350-7): Best Hand Coffee Grinder Reviews & Buying Guide 2026
-    Updated: 2026-07-24T08:29:55Z
+    Updated: 2026-10-18T23:33:06Z
     Author: Adam Wang
   - [Elevate Your Espresso Experience: The Benefits of Dawn 160 ml](https://www.1988coffee.com/blogs/news/elevate-your-espresso-experience-the-benefits-of-dawn-160-ml-stainless-steel-double-walled-demitasse-cups): Elevate Your Espresso Experience: The Benefits of Dawn 160 ml
-    Updated: 2026-07-24T08:29:55Z
+    Updated: 2026-10-18T23:33:06Z
     Author: COFFEECONCEPT
   - [A Comparative Review: Why Dawn Double-Walled Espresso Cups Stand Out](https://www.1988coffee.com/blogs/news/a-comparative-review-why-dawn-double-walled-espresso-cups-stand-out-in-the-market): A Comparative Review: Why Dawn Double-Walled Espresso Cups Stand Out
-    Updated: 2026-07-24T08:30:35Z
+    Updated: 2026-10-18T23:33:06Z
     Author: COFFEECONCEPT
   - [Creating the Perfect Espresso Ritual: Essential Pairings with Dawn 160](https://www.1988coffee.com/blogs/news/creating-the-perfect-espresso-ritual-essential-pairings-with-dawn-160-ml-stainless-steel-demitasse-cups): Creating the Perfect Espresso Ritual: Essential Pairings with Dawn 160
-    Updated: 2026-07-24T08:31:05Z
+    Updated: 2026-10-18T23:33:06Z
     Author: COFFEECONCEPT
   - [Motta Milk Jug Guide 2026 | Tips for Perfect Latte Art](https://www.1988coffee.com/blogs/news/motta-milk-jug-latte-art-guide-2026-8414-48): Motta Milk Jug Guide 2026 | Tips for Perfect Latte Art
-    Updated: 2026-07-24T08:30:25Z
+    Updated: 2026-10-18T23:33:07Z
     Author: Adam Wang
   - [Gravity Distributor Tool Guide | Improve Espresso Brewing 2026](https://www.1988coffee.com/blogs/news/gravity-distributor-tool-espresso-brewing-9680-84): Gravity Distributor Tool Guide | Improve Espresso Brewing 2026
-    Updated: 2026-07-24T08:31:15Z
+    Updated: 2026-10-20T04:52:42Z
     Author: Adam Wang
   - [The Art of Brewing: Mastering the Perfect Espresso and Milk Cup](https://www.1988coffee.com/blogs/news/the-art-of-brewing-mastering-the-perfect-espresso-and-milk-cup): The Art of Brewing: Mastering the Perfect Espresso and Milk Cup
-    Updated: 2026-07-24T08:31:35Z
+    Updated: 2026-10-18T23:33:07Z
     Author: coffee concept
   - [Exploring Espresso and Milk Cup Adventures A Comprehensive Guide to Coffee Culture](https://www.1988coffee.com/blogs/news/exploring-espresso-and-milk-cup-adventures-a-comprehensive-guide-to-coffee-culture): Exploring Espresso and Milk Cup Adventures A Comprehensive Guide to Coffee Culture
-    Updated: 2026-08-19T07:56:17Z
+    Updated: 2026-10-18T23:33:08Z
     Author: coffee concept
   - [From Espresso Machines to Milk Cup Fables Unveiling the Coffee Culture](https://www.1988coffee.com/blogs/news/from-espresso-machines-to-milk-cup-fables-unveiling-the-coffee-culture): From Espresso Machines to Milk Cup Fables Unveiling the Coffee Culture
-    Updated: 2026-08-19T07:56:17Z
+    Updated: 2026-10-18T23:33:08Z
     Author: coffee concept
   - [How to Use, Clean, and Maintain Your De'Longhi Espresso Machine](https://www.1988coffee.com/blogs/news/how-to-use-clean-maintain-delonghi-espresso-machine): How to Use, Clean, and Maintain Your De'Longhi Espresso Machine
-    Updated: 2026-08-19T07:56:22Z
+    Updated: 2026-10-18T23:33:08Z
     Author: COFFEECONCEPT
   - [58mm Espresso Accessories Guide for Home Baristas](https://www.1988coffee.com/blogs/news/58mm-espresso-accessories-guide): 58mm Espresso Accessories Guide for Home Baristas
-    Updated: 2026-08-29T10:16:33Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: 58mm Portafilter, Espresso, Home Barista, Puck Prep
   - [Latte Art Starter Kit for Beginners: Tools That Matter](https://www.1988coffee.com/blogs/news/latte-art-starter-kit-beginners): Latte Art Starter Kit for Beginners: Tools That Matter
-    Updated: 2026-08-19T07:57:14Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: Beginner Guide, Home Barista, Latte Art, Milk Pitcher
   - [Coffee Canister vs Coffee Bag: Which Keeps Beans Fresh?](https://www.1988coffee.com/blogs/news/coffee-canister-vs-coffee-bag): Coffee Canister vs Coffee Bag: Which Keeps Beans Fresh?
-    Updated: 2026-08-19T07:57:14Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: Coffee Beans, Coffee Storage, Freshness, Home Barista
   - [Tamper vs Distributor vs WDT: What Should You Buy First?](https://www.1988coffee.com/blogs/news/tamper-distributor-wdt-what-to-buy-first): Tamper vs Distributor vs WDT: What Should You Buy First?
-    Updated: 2026-08-19T07:57:14Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: Distributor, Espresso, Home Barista, Tamper, WDT
   - [Why Does Espresso Taste Sour? 7 Fixes for Home Baristas](https://www.1988coffee.com/blogs/news/why-does-espresso-taste-sour): Why Does Espresso Taste Sour? 7 Fixes for Home Baristas
-    Updated: 2026-08-19T07:57:15Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: Espresso, Home Barista, Sour Espresso, Troubleshooting
   - [Latte Art Tools Guide: Pitchers, Cups and Starter Gear](https://www.1988coffee.com/blogs/news/latte-art-tools-guide): Latte Art Tools Guide: Pitchers, Cups and Starter Gear
-    Updated: 2026-08-19T07:57:16Z
+    Updated: 2026-10-18T23:33:10Z
     Author: Cosmos Fang
     Tags: Coffee Tools, Home Barista, Latte Art, Milk Pitcher
   - [Espresso Tool Kit Under $50: What to Buy First](https://www.1988coffee.com/blogs/news/espresso-tool-kit-under-50): Espresso Tool Kit Under $50: What to Buy First
-    Updated: 2026-08-19T07:57:17Z
+    Updated: 2026-10-18T23:33:11Z
     Author: Cosmos Fang
     Tags: Budget Guide, Espresso Tools, Home Barista, Starter Kit
   - [Best Accessories for Breville Bambino: 54mm Upgrade Guide](https://www.1988coffee.com/blogs/news/best-accessories-for-breville-bambino): Best Accessories for Breville Bambino: 54mm Upgrade Guide
-    Updated: 2026-08-19T07:57:18Z
+    Updated: 2026-10-18T23:33:11Z
     Author: Cosmos Fang
     Tags: 54mm, Breville Bambino, Espresso Accessories, Home Barista
   - [Why Does Espresso Taste Bitter? 8 Home Barista Fixes](https://www.1988coffee.com/blogs/news/why-does-espresso-taste-bitter): Why Does Espresso Taste Bitter? 8 Home Barista Fixes
-    Updated: 2026-08-19T07:57:21Z
+    Updated: 2026-10-18T23:33:11Z
     Author: Cosmos Fang
     Tags: Bitter Espresso, Espresso, Home Barista, Troubleshooting
   - [Understanding the Espresso and Milk Cup Legacy A Deep Dive into Coffee's Past](https://www.1988coffee.com/blogs/news/understanding-the-espresso-and-milk-cup-legacy-a-deep-dive-into-coffees-past): Understanding the Espresso and Milk Cup Legacy A Deep Dive into Coffee's Past
-    Updated: 2026-08-19T07:56:17Z
+    Updated: 2026-10-18T23:33:12Z
     Author: coffee concept
   - [WDT Tool vs Distributor vs Tamper: What to Buy First](https://www.1988coffee.com/blogs/news/wdt-tool-vs-distributor-vs-tamper): WDT Tool vs Distributor vs Tamper: What to Buy First
-    Updated: 2026-07-24T08:42:36Z
+    Updated: 2026-10-20T10:14:58Z
     Author: Cosmos Fang
     Tags: buying guide, espresso distributor, espresso tools, home barista, tamper, WDT tool
-  - [Best Lightweight Hiking Shoes of 2026: Trail-Tested Picks](https://www.1988coffee.com/blogs/news/best-lightweight-hiking-shoes-2026): Best Lightweight Hiking Shoes of 2026: Trail-Tested Picks
-    Updated: 2026-09-01T08:25:05Z
-    Author: 1988coffee.com
+  - [WDT Technique: How to Distribute Espresso Grounds Evenly](https://www.1988coffee.com/blogs/news/wdt-technique-distribute-espresso-grounds-evenly): WDT Technique: How to Distribute Espresso Grounds Evenly
+    Updated: 2026-10-21T11:49:24Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Cloud Fall 3-in-1 Espresso Puck Prep Set: What's Inside](https://www.1988coffee.com/blogs/news/cloud-fall-3-in-1-espresso-puck-prep-set): Cloud Fall 3-in-1 Espresso Puck Prep Set: What's Inside
+    Updated: 2026-10-21T11:49:49Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Espresso Tamping Mats: Compare Pads and Drain Bar Mats](https://www.1988coffee.com/blogs/news/espresso-tamping-mat-styles-guide): Espresso Tamping Mats: Compare Pads and Drain Bar Mats
+    Updated: 2026-10-21T14:00:21Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Espresso Puck Screen: How to Use It (Cleaner Shots, Less Mess)](https://www.1988coffee.com/blogs/news/how-to-use-espresso-puck-screen): Espresso Puck Screen: How to Use It (Cleaner Shots, Less Mess)
+    Updated: 2026-10-21T11:49:53Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Gravity Espresso Distributors: How Self-Leveling Works](https://www.1988coffee.com/blogs/news/gravity-espresso-distributor-how-it-works): Gravity Espresso Distributors: How Self-Leveling Works
+    Updated: 2026-10-21T11:49:55Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Constant-Force Tampers: Understanding the 30 lb Claim](https://www.1988coffee.com/blogs/news/constant-force-tamper-30lb-click-explained): Constant-Force Tampers: Understanding the 30 lb Claim
+    Updated: 2026-10-21T13:59:46Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Latte Art Pitcher Spouts: Sharp vs Round — Why Shape Matters](https://www.1988coffee.com/blogs/news/latte-art-pitcher-spout-shape-matters): Latte Art Pitcher Spouts: Sharp vs Round — Why Shape Matters
+    Updated: 2026-10-21T11:49:58Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Walnut Espresso Tampers: A Buyer's Guide (54mm & 58mm)](https://www.1988coffee.com/blogs/news/walnut-espresso-tamper-buyers-guide): Walnut Espresso Tampers: A Buyer's Guide (54mm & 58mm)
+    Updated: 2026-10-21T11:49:59Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Milk Pitcher Sizes: 350ml vs 600ml — Which One Do You Need?](https://www.1988coffee.com/blogs/news/latte-art-pitcher-sizes-350ml-vs-600ml): Milk Pitcher Sizes: 350ml vs 600ml — Which One Do You Need?
+    Updated: 2026-10-21T13:13:33Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [How to Organize a Home Espresso Bar (Small Counter Edition)](https://www.1988coffee.com/blogs/news/how-to-organize-espresso-bar-setup): How to Organize a Home Espresso Bar (Small Counter Edition)
+    Updated: 2026-10-21T11:50:03Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [What Is a Dosing Ring? Stop Spilling Espresso Grounds](https://www.1988coffee.com/blogs/news/what-is-a-dosing-ring-stop-spilling-grounds): What Is a Dosing Ring? Stop Spilling Espresso Grounds
+    Updated: 2026-10-21T13:14:18Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Espresso Filter Paper Under the Puck: Does It Help?](https://www.1988coffee.com/blogs/news/espresso-filter-paper-how-to-use-under-puck): Espresso Filter Paper Under the Puck: Does It Help?
+    Updated: 2026-10-21T13:13:11Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [How to Use a Dosing Cup: Mess-Free Espresso Workflow](https://www.1988coffee.com/blogs/news/how-to-use-dosing-cup-mess-free-espresso): How to Use a Dosing Cup: Mess-Free Espresso Workflow
+    Updated: 2026-10-21T11:50:07Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Gravity Distributors: How They Level the Coffee Bed Evenly](https://www.1988coffee.com/blogs/news/gravity-distributor-how-it-levels-coffee-bed): Gravity Distributors: How They Level the Coffee Bed Evenly
+    Updated: 2026-10-21T11:50:09Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [How to Measure Espresso Shots Without a Scale](https://www.1988coffee.com/blogs/news/measure-espresso-shots-without-scale): How to Measure Espresso Shots Without a Scale
+    Updated: 2026-10-21T14:00:06Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Cute Espresso Gifts: Check Tamper Fit and Stand Options](https://www.1988coffee.com/blogs/news/cutest-espresso-gift-that-actually-works): Cute Espresso Gifts: Check Tamper Fit and Stand Options
+    Updated: 2026-10-21T14:00:00Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Tamper + WDT Combo Tool: Does the 2-in-1 Actually Work?](https://www.1988coffee.com/blogs/news/tamper-wdt-combo-tool-does-it-work): Tamper + WDT Combo Tool: Does the 2-in-1 Actually Work?
+    Updated: 2026-10-21T11:50:13Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Latte Art Cups: Why a Wide Mouth Makes Pouring Easier](https://www.1988coffee.com/blogs/news/latte-art-cup-wide-mouth-guide): Latte Art Cups: Why a Wide Mouth Makes Pouring Easier
+    Updated: 2026-10-21T11:50:14Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [How to Use a Constant-Force Tamper (Step by Step)](https://www.1988coffee.com/blogs/news/how-to-use-constant-force-tamper): How to Use a Constant-Force Tamper (Step by Step)
+    Updated: 2026-10-21T13:59:53Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Coffee Canister Guide: Keep Beans Fresh for Weeks](https://www.1988coffee.com/blogs/news/coffee-canister-keep-beans-fresh): Coffee Canister Guide: Keep Beans Fresh for Weeks
+    Updated: 2026-10-21T11:50:18Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Milk Pitcher Size Guide: 350ml vs 500ml — Pick by Drink](https://www.1988coffee.com/blogs/news/milk-pitcher-size-350ml-vs-500ml): Milk Pitcher Size Guide: 350ml vs 500ml — Pick by Drink
+    Updated: 2026-10-21T11:50:19Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Eagle-Beak Spout Pitchers: Sharper Latte Art Lines](https://www.1988coffee.com/blogs/news/eagle-beak-spout-latte-art-guide): Eagle-Beak Spout Pitchers: Sharper Latte Art Lines
+    Updated: 2026-10-21T11:50:21Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [How to Use a Gravity Distributor: Level Pucks in Seconds](https://www.1988coffee.com/blogs/news/how-to-use-gravity-distributor): How to Use a Gravity Distributor: Level Pucks in Seconds
+    Updated: 2026-10-21T11:50:23Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Clean Your Espresso Grinder Fast: Cordless Vacuum Guide](https://www.1988coffee.com/blogs/news/clean-espresso-grinder-cordless-vacuum): Clean Your Espresso Grinder Fast: Cordless Vacuum Guide
+    Updated: 2026-10-21T11:50:24Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [350ml French Press Ratio: A Small-Batch Starting Guide](https://www.1988coffee.com/blogs/news/french-press-ratio-350ml-guide): 350ml French Press Ratio: A Small-Batch Starting Guide
+    Updated: 2026-10-21T14:00:13Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Double-Walled Espresso Cups: Hotter Shots, No Burned Fingers](https://www.1988coffee.com/blogs/news/double-walled-espresso-cups-keep-shots-hotter): Double-Walled Espresso Cups: Hotter Shots, No Burned Fingers
+    Updated: 2026-10-21T11:50:28Z
+    Author: 1988 Coffee
+    Tags: buying-guide
+  - [Constant-Force Espresso Tamper: Fit, Features & Buying Guide](https://www.1988coffee.com/blogs/news/constant-force-espresso-tamper-guide): Constant-Force Espresso Tamper: Fit, Features & Buying Guide
+    Updated: 2026-10-21T13:58:27Z
+    Author: 1988 Coffee
+  - [Best Milk Pitcher for Latte Art (2026): 4 Picks by Skill Level](https://www.1988coffee.com/blogs/news/best-milk-pitcher-for-latte-art-guide): Best Milk Pitcher for Latte Art (2026): 4 Picks by Skill Level
+    Updated: 2026-10-21T11:50:30Z
+    Author: 1988 Coffee
+  - [WDT Needle Distributor Alternatives: 4 Ways That Work](https://www.1988coffee.com/blogs/news/wdt-needle-distributor-alternatives): WDT Needle Distributor Alternatives: 4 Ways That Work
+    Updated: 2026-10-21T11:50:32Z
+    Author: 1988 Coffee
+  - [Espresso Cup : Cup and Scale Fit Checklist](https://www.1988coffee.com/blogs/news/espresso-cup--checklist): Espresso Cup : Cup and Scale Fit Checklist
+    Updated: 2026-10-21T08:10:06Z
+    Author: 1988 Coffee
+    Tags: Buying guide, Coffee cups, Espresso setup
+  - [Magnetic Dosing Funnel Not Staying Put? Fit Checks](https://www.1988coffee.com/blogs/news/magnetic-dosing-funnel-not-staying-in-place): Magnetic Dosing Funnel Not Staying Put? Fit Checks
+    Updated: 2026-10-21T11:40:41Z
+    Author: 1988 Coffee
+    Tags: Dosing tools, Espresso setup, Troubleshooting
 - [Coffee Tool](https://www.1988coffee.com/blogs/coffee-tool)
   - [Best Milk Pitchers for Latte Art 2026](https://www.1988coffee.com/blogs/coffee-tool/best-milk-pitcher-latte-art-2026): Best Milk Pitchers for Latte Art 2026
-    Updated: 2026-08-19T07:56:24Z
+    Updated: 2026-10-18T23:33:09Z
     Author: COFFEECONCEPT
   - [How to Use a French Press: Step-by-Step Brewing Guide](https://www.1988coffee.com/blogs/coffee-tool/how-to-use-french-press-coffee-maker): How to Use a French Press: Step-by-Step Brewing Guide
-    Updated: 2026-08-19T07:56:26Z
+    Updated: 2026-10-18T23:33:09Z
     Author: COFFEECONCEPT
   - [Best Coffee Tampers 2025: Reviews & Buying Guide](https://www.1988coffee.com/blogs/coffee-tool/best-coffee-tampers-espresso): Best Coffee Tampers 2025: Reviews & Buying Guide
-    Updated: 2026-08-19T07:56:27Z
+    Updated: 2026-10-18T23:33:09Z
     Author: COFFEECONCEPT
-- [test](https://www.1988coffee.com/blogs/test)
-  - [How to Use and Make Natto: A Beginner’s Guide](https://www.1988coffee.com/blogs/test/how-to-use-and-make-natto-beginners-guide): How to Use and Make Natto: A Beginner’s Guide
-    Updated: 2026-08-22T17:52:18Z
-    Author: 1988coffee.com
 
 ## Store Pages
 
-- [Contact COFFEECONCEPT | Espresso Tools Support](https://www.1988coffee.com/pages/contact): 
-  Updated: 2026-06-02T04:54:14Z
+- [Contact COFFEECONCEPT | Espresso Tools Support](https://www.1988coffee.com/pages/contact): Contact Us Questions about an order or a product? We'd love to hear from you. Email: lumi@deeplumen.io — we usually reply within 1–2 business days....
+  Updated: 2026-09-28T06:30:24Z
 - [Data Sharing Opt-Out | COFFEECONCEPT Privacy](https://www.1988coffee.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-06-02T04:54:16Z
 - [Collabs](https://www.1988coffee.com/pages/collab): 
@@ -979,8 +1093,6 @@
   Updated: 2026-06-02T04:40:36Z
 - [Search Results](https://www.1988coffee.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if ( window.location.pathname.indexOf(snize_search_res...
   Updated: 2026-06-02T05:21:44Z
-- [Test](https://www.1988coffee.com/pages/test): Test Content
-  Updated: 2026-06-25T06:51:36Z
 - [Wishlist](https://www.1988coffee.com/pages/swym-wishlist): window.SwymCallbacks = window.SwymCallbacks || []; window.SwymCallbacks.push(function(swat) { var wishlistContainerElement = document.querySelector...
   Updated: 2026-07-26T13:47:54Z
 - [Shared Wishlist](https://www.1988coffee.com/pages/swym-share-wishlist): window.SwymCallbacks = window.SwymCallbacks || [];window.SwymCallbacks.push(function(swat) { var queryParams = swat.utils.getEncodedAsObject(window...
@@ -993,15 +1105,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.1988coffee.com/policies/privacy-policy)
-  Updated: 2026-04-10T05:02:55-07:00
+  Updated: 2026-09-28T06:37:09Z
 - [Shipping Policy](https://www.1988coffee.com/policies/shipping-policy)
-  Updated: 2026-06-24T06:23:40-07:00
+  Updated: 2026-06-24T13:23:40Z
 - [Refund Policy](https://www.1988coffee.com/policies/refund-policy)
-  Updated: 2026-02-12T00:08:31-08:00
+  Updated: 2026-02-12T08:08:31Z
 - [Terms of Service](https://www.1988coffee.com/policies/terms-of-service)
-  Updated: 2026-03-31T19:03:30-07:00
+  Updated: 2026-09-28T08:03:23Z
 - [Contact Information](https://www.1988coffee.com/policies/contact-information)
-  Updated: 2026-02-10T02:05:29-08:00
+  Updated: 2026-02-10T10:05:29Z
 
 ## Optional
 
