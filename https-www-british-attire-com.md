@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-12T15:19:58Z
 - Contact Email: help@british-attire.com
-- Updated At: 2026-10-15T00:00:32.517Z
+- Updated At: 2026-10-22T00:00:59.753Z
 
 ## Products
 
@@ -38,7 +38,7 @@
     Availability: Not Available
     Price: £584.95 GBP
 - [Tricker’s James Penny Loafer – Chocolate Suede](https://www.british-attire.com/products/trickers-james-penny-loafer-in-chocolate-suede): Suede, but make it smart. The James Penny Loafer in Chocolate Suede walks the line between casual ease and tailored polish. Fully leather-lined and Goodyear welted, it’s a refined option for guys who like their mens footwear unstructured but unmistakably premium. Specifications: - Chocolate Repello suede upper- Leather lining & insole- Goodyear welted leather sole- Penny keeper vamp- Made in England Care Tips: Use a suede brush regularly and protect with a water-resistant spray. Store with trees to retain shape. Style It: Looks effortless with cuffed chinos or linen trousers. Go sockless in summer or pair with fine gauge wool socks in cooler months.
-  Updated: 2026-10-13T13:02:35Z
+  Updated: 2026-10-16T14:30:48Z
   Vendor: Tricker's
   Product Type: Shoes
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Not Available
     Price: £242.47 GBP
   - [9](https://www.british-attire.com/products/trickers-james-penny-loafer-in-chocolate-suede?variant=47988410777921)
-    Availability: Available
+    Availability: Not Available
     Price: £242.47 GBP
   - [10](https://www.british-attire.com/products/trickers-james-penny-loafer-in-chocolate-suede?variant=47988410810689)
     Availability: Not Available
@@ -199,7 +199,7 @@
     Availability: Available
     Price: £198.95 GBP
 - [Oliver Sweeney Men's Hayle Trainers - Cognac](https://www.british-attire.com/products/oliver-sweeney-hayle-trainer-cognac): Oliver Sweeney's classic low-top cupsole trainer is made from cognac Calf leather, antique finished by hand to build a real depth of colour. The upper is fabric lined with a padded collar lined in suede and a cushioned leather insock. The trainer is made in the traditional way and secured with a side stitch to the rubber cupsole.
-  Updated: 2026-10-12T13:41:50Z
+  Updated: 2026-10-20T11:06:07Z
   Vendor: Oliver Sweeney
   Product Type: Trainers
   Availability: Available
@@ -610,7 +610,7 @@
     Availability: Available
     Price: £47.97 GBP
 - [Aigle Men's Cessac Boots - Kaki](https://www.british-attire.com/products/aigle-cessac-boots-kaki): These boots are handmade in France. They are intended for gardeners and they will keep you comfortable with their foam upper and lining, Designed for the garden, these boots are suitable for regular use and made to last. Aigle boots are supplied in EU sizes and converted to UK sizing. Please refer to the Aigle size guide for more details. Quick-drying lining can be cleaned with a sponge.Self-cleaning, lugged outsoles offer fantastic grip.Softex® lining. Upper: majority natural rubber Lining: polyamide Insole: shock-absorbing foam on a rubber base Outsole: rubber Finishing : France Assembly : France Stitching : France Each boot requires an average of 60 production stages and undergoes demanding quality tests to ensure it is waterproof.
-  Updated: 2026-10-14T17:24:16Z
+  Updated: 2026-10-16T01:28:56Z
   Vendor: Aigle
   Product Type: Wellington Boots
   Availability: Available
@@ -937,9 +937,9 @@
     Availability: Not Available
     Price: £24.47 GBP
 - [Hunter Rubber Boot Buffer Spray](https://www.british-attire.com/products/hunter-rubber-boot-buffer-spray): Keep your Hunter Boots looking good as new with the Rubber Boot Buffer Spray. Developed to restore the natural shine to rubber boots, the liquid easily removes white marks known as 'bloom'. Blooming is a common process, and characterising of high quality natural rubber. Heat, methods of storage and prolonged wear can increase the chance of blooming, but white marks are easily wiped away with this smart spay. Ensure to remove excess debris from your boots before applying the spray and use a microfibre cloth to wipe the spray over the surface of the boot.
-  Updated: 2026-10-14T15:12:10Z
+  Updated: 2026-10-16T04:06:17Z
   Vendor: Hunter
-  Product Type: Boot Care
+  Product Type: Footwear Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0838/6215/9681/files/spray.jpg?v=1731443176
   Price: £9.95 GBP
@@ -951,7 +951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0838/6215/9681/files/IMG_2024-04-22T13_46_49.703Z.png?v=1713793614
   Price: £399.95 GBP
 - [Filson Tin Cloth Short Lined Cruiser Jacket - Dark Tan](https://www.british-attire.com/products/filson-tin-cloth-short-lined-cruiser-jacket-dark-tan): The Short Lined Cruiser is built with the same water-resistant waxed Tin Cloth that’s sheltered woodsmen and foresters in the rain-soaked Pacific Northwest for a century. Tin Cloth’s exceptionally tight weave makes it nearly impervious to thorny brush while providing outstanding abrasion resistance and durability. The hip-length cut allows easy access to pockets and tool belts and prevents riding up while seated. The body is lined with the Filson signature dry finish Cover Cloth and the sleeves with a slick polyester that slides easily over layers. Metal wreath buttons secure the front closure and cuffs. Slotted-utility and flapped cargo chest pockets. Button-tab adjustable hem. Built with water-resistant oil finish Tin Cloth Body lined with dry finish Cover Cloth Sleeves lined with polyester twill Metal shank-button front and adjustable cuffs Adjustable hem Hand, slotted-utility and flapped chest pockets Fit: Cut trim for wearing over a shirt. If layering, consider sizing up. All Filson sizes are US sizes which can be larger for a European stature, so Filson recommends sizing down. Filson suggest reading all product features and characteristics by referring to the Filson size guide and looking at the product measurements. ITEM NO.FMCPS0012 MATERIAL 14-oz. oil finish Tin Cloth + 6-oz. dry finish Cover Cloth + polyester twill USAGEOutdoor; Everyday; Work DIMENSIONSXS-3XL, M Long-2XL Long CARE Do not wash or dry clean – brush or wipe clean with a damp rag. Rewax as needed to maintain maximum water resistance. To prevent the transfer of oils, Filson recommends avoiding prolonged contact between Filson oil finish goods and light-colored fabrics, especially in warm weather.
-  Updated: 2026-10-10T18:39:41Z
+  Updated: 2026-10-21T14:26:45Z
   Vendor: Filson
   Product Type: Jacket
   Availability: Available
@@ -1101,7 +1101,7 @@
     Availability: Not Available
     Price: £199.95 GBP
 - [Stutterheim Stockholm Lightweight Raincoat - Green](https://www.british-attire.com/products/stutterheim-stockholm-lightweight-raincoat-green): Stockholm Lightweight is a unisex straight-fit raincoat in ultra-light waterproof fabric. Expertly made, it’s tailored with double-welded seams for complete protection against the rain. The drawstring hood and under-arm eyelets add ease of movement and comfort in uncomfortable weather. The thin and packable fabric makes this garment perfect when on the go. Lightweight 230-gram fabric Packable Completely waterproof Straight unisex fit Snap metal button closures Drawstring hood Open welt pockets Double welded seams Under-arm eyelets for ventilation +20 000 mm water column pressure Designed in Stockholm Made in Europe Coating: 100% PVC rubberized coatingMembrane: 100% polyester SIZE (CM) XS S M L XL SHOULDER (Shoulder seam to shoulder seam) 46 48 50.5 52.5 55 SLEEVE (From hood to bottom of sleeve) 64 65 66 67 68 CHEST (From under-arm to under-arm) 54 56 58 60 62 LENGTH (Centre-back neck down to bottom of garment) 82.5 84 86 88 90 BOTTOM HEM (Flat width across the bottom) 54 56 58 60 62
-  Updated: 2026-10-13T13:01:47Z
+  Updated: 2026-10-16T11:01:42Z
   Vendor: Stutterheim
   Product Type: Raincoat
   Availability: Available
@@ -1303,7 +1303,7 @@
     Availability: Available
     Price: £109.95 GBP
 - [Ariat Men's Wexford Waterproof Chelsea Boots - Weathered Brown](https://www.british-attire.com/products/ariat-mens-wexford-waterproof-chelsea-boot-weathered-brown): Looking for your go-to country boot? The low-profile, highly functioning and stylish Wexford H2O is your solution. Full Grain Leather ATS® lightweight forked shank for enhanced support DryShield™ construction with waterproof leather and an impermeable barrier Removable All Day Cushioning insole Non-marking rubber sole Waterproof full-grain leather Traditional twin gore style
-  Updated: 2026-10-14T12:00:26Z
+  Updated: 2026-10-16T16:00:28Z
   Vendor: Ariat
   Product Type: Waterproof Boots
   Availability: Available
@@ -1312,13 +1312,13 @@
     Availability: Available
     Price: £179.95 GBP
   - [9](https://www.british-attire.com/products/ariat-mens-wexford-waterproof-chelsea-boot-weathered-brown?variant=48520901067073)
-    Availability: Not Available
+    Availability: Available
     Price: £179.95 GBP
   - [9.5](https://www.british-attire.com/products/ariat-mens-wexford-waterproof-chelsea-boot-weathered-brown?variant=57332571013504)
-    Availability: Not Available
+    Availability: Available
     Price: £179.95 GBP
   - [10](https://www.british-attire.com/products/ariat-mens-wexford-waterproof-chelsea-boot-weathered-brown?variant=48520901099841)
-    Availability: Not Available
+    Availability: Available
     Price: £179.95 GBP
   - [11](https://www.british-attire.com/products/ariat-mens-wexford-waterproof-chelsea-boot-weathered-brown?variant=48520901132609)
     Availability: Available
@@ -1327,7 +1327,7 @@
     Availability: Available
     Price: £179.95 GBP
 - [Ariat Women's Antigua Boat Shoes - Walnut](https://www.british-attire.com/products/ariat-womens-antigua-boat-shoe-walnut): Antigua is beautifully crafted from buttery soft leather and constructed with durable welt stitching. It also features a nice gum rubber, non-marking sole, and is completely unlined for a true moccasin fit and feel. Perfect for a casual stroll in the country. Leather & nubuck upper Open cell cushioning insole Siped gum rubber sole Not  for riding Ariat is including you in its dedication to environmental stewardship. By purchasing this product, you are supporting the responsible production of leather at Leather Working Group- tanneries. Size & Fit 3" height Flat Round moc toe Size Chart Check your size against the US sizes, as Ariat conversion differs from standard (Size options listed are UK) Size UK 3.0 3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 Size EU 36.0 36.5 37.0 37.5 38.0 38.5 39.0 40.0 41.0 41.5 42.0 42.5 Size US 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 10.0 10.5 11.0
-  Updated: 2026-10-12T13:42:22Z
+  Updated: 2026-10-21T08:23:20Z
   Vendor: Ariat
   Product Type: Shoes
   Availability: Available
@@ -1381,7 +1381,7 @@
     Availability: Not Available
     Price: £99.95 GBP
 - [Ariat Women's Kelmarsh Shortie Rubber Boots - Navy](https://www.british-attire.com/products/ariat-womens-kelmarsh-shortie-rubber-boot-navy): The Kelmarsh Shortie makes wet days more bearable with its practical functionality and fashionable silhouette. Easy to slip on when you’re heading out to the garden, on a walk with the pups or to the market with friends. 4LR™ technology provides lightweight support and stability Durable rubber construction - Vulcanised rubber upper with neoprene Removable All Day Cushioning insole Duratread™ sole is extremely durable while still letting your foot flex Not  for riding 6" height 1.5" heel height Round toe
-  Updated: 2026-10-14T12:00:27Z
+  Updated: 2026-10-18T14:01:50Z
   Vendor: Ariat
   Product Type: Wellington Boots
   Availability: Available
@@ -1426,7 +1426,7 @@
     Availability: Not Available
     Price: £159.95 GBP
 - [Ariat Women's Harper Waterproof Boots - Chocolate](https://www.british-attire.com/products/ariat-womens-harper-waterproof-boot-chocolate): Treat your feet to luxurious cushioning. The Ariat Harper waterproof boots make light work of cold weather chores and can be worn in any situation from riding to meeting up with friends after. Being stylish has never felt so cosy. 100% Leather 4LR™ technology provides lightweight support and stability Waterproof PRO™ construction keeps you dry even in a downpour Full-grain leather Removable All Day Cushioning insole Duratread™ sole is extremely durable while still letting your foot flex Stirrup friendly outsole Antique brass logo hardware Elegant plaid lining Front lace fit system Round Toe Riding Heel 1" Heel 6" Height
-  Updated: 2026-10-14T15:40:17Z
+  Updated: 2026-10-19T05:50:16Z
   Vendor: Ariat
   Product Type: Waterproof Boots
   Availability: Available
@@ -1447,13 +1447,13 @@
     Availability: Available
     Price: £159.95 GBP
   - [7](https://www.british-attire.com/products/ariat-womens-harper-waterproof-boot-chocolate?variant=48520949924161)
-    Availability: Not Available
+    Availability: Available
     Price: £159.95 GBP
   - [8](https://www.british-attire.com/products/ariat-womens-harper-waterproof-boot-chocolate?variant=48520949956929)
     Availability: Available
     Price: £159.95 GBP
 - [Ariat Women's Langdale Waterproof Boots - Java](https://www.british-attire.com/products/ariat-womens-langdale-waterproof-boot-java): The Langdale is one of those exceptionally versatile hybrids in that it delivers performance both in the saddle or on the ground. It truly has it all: enduring comfort, all-weather protection, and refined country styling. REGULAR CALF WIDTH 4LR™ technology for support and cushioning 100% Leather DryShield™ construction with waterproof full-grain leather Duratread™ outsole for maximum wear resistance and extreme durability and flexibility Stirrup friendly outsole Hardware detailing Back lace fit system 15" shaft height 1" heel Width/Height in Inches SIZE (US) 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10.5 11 SIZE (UK) 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 SIZE (EURO) 36 36.5 37 37.5 38 38.5 39 40 41 41.5 42 42.5 Boot Height 15.00" 15.00" 15.50" 15.50" 15.75" 15.75" 16.25" 16.25" 16.50" 16.50" 17.00" 17.00" Regular Calf Width 15.00" 15.25" 15.50" 15.50" 15.75" 15.75" 16.25" 16.25" 16.50" 16.75" 17.00" 17.25" Full Calf Width 15.75" 15.75" 16.00" 16.25" 16.50" 16.75" 17.00" 17.25" 17.50" 17.50" 17.75" 18.00"
-  Updated: 2026-10-14T16:00:06Z
+  Updated: 2026-10-16T16:00:37Z
   Vendor: Ariat
   Product Type: Boots
   Availability: Available
@@ -1639,7 +1639,7 @@
     Availability: Not Available
     Price: £71.47 GBP
 - [Haglöfs Logo Cap - True Black](https://www.british-attire.com/products/haglofs-logo-cap-true-black): This classic cap lets you show your allegiance to Team Haglöfs. And it’s super practical too. Great for outdoor activities and everyday wear. It’s made out of recycled, heavy-duty Climatic™ fabric with extreme durability and a comfortable two-way stretch. The brim shields you from the sun, and the elastic webbing adapts to your head to provide a perfect fit.
-  Updated: 2026-10-12T13:41:46Z
+  Updated: 2026-10-18T15:23:57Z
   Vendor: Haglöfs
   Product Type: Cap
   Availability: Available
@@ -2015,7 +2015,7 @@
   Updated: 2026-07-27T13:54:47Z
   Total Products: 0
 - [Barbour](https://www.british-attire.com/collections/barbour): Discover Barbour at British Attire. Explore timeless waxed jackets, quilted layers and smart-casual clothing built with a century of heritage and real-world style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 1086
 - [Ugg](https://www.british-attire.com/collections/ugg)
   Updated: 2026-07-27T13:54:47Z
@@ -2024,38 +2024,38 @@
   Updated: 2026-10-13T11:35:00Z
   Total Products: 47
 - [Belstaff](https://www.british-attire.com/collections/belstaff): Explore Belstaff at British Attire. Waxed jackets and outerwear built with purpose - British design made to last, on and off the road.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 189
 - [Birkenstock](https://www.british-attire.com/collections/birkenstock): Shop Birkenstock at British Attire. From the Arizona sandal to the Boston clog. Free UK delivery available.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-18T11:31:02Z
   Total Products: 51
 - [Joules](https://www.british-attire.com/collections/joules): Joules brings colour to the British wardrobe. Shop wellies, outerwear, knitwear and more from one of the UK's most recognisable lifestyle brands.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 799
+  Updated: 2026-10-21T15:06:03Z
+  Total Products: 819
 - [Ralph Lauren](https://www.british-attire.com/collections/ralph-lauren)
   Updated: 2026-07-27T13:54:47Z
   Total Products: 0
 - [Stutterheim](https://www.british-attire.com/collections/stutterheim): Designed in Stockholm, made in Europe Founded on what we recall being a grey and rainy day in Stockholm in 2010, STUTTERHEIM was born out of the ambition to, not only keep Swedes dry — but to combine modern Scandinavian design with European craftsmanship. Since then we have evolved into a Swedish lifestyle brand that draws inspiration from the urban landscape of Stockholm and keeps large parts of the globe dry in all weather. As our markets are growing, every product is still designed and prototyped in our atelier in Stockholm, where we evaluate, refine and redesign — to keep an aesthetic that has a strong modern identity. The manufacturing of our products is located in Europe, keeping production as local as possible, without compromising on quality. Today, under the leadership of Lee Cotter, Creative Director & CEO, the brand will continue the concept of well-made, durable products, staying true to our design ethos — to create modern classics that last, outliving trends and harsh weather alike. Swedish Melancholy At Its Driest At our headquarters in Stockholm, inspiration comes to us in abundance — there is no shortage of rainy days, cloudy skies, dark and moody weather. The same Nordic bleakness that has inspired famed melancholics such as August Strindberg and Ingmar Bergman inspires the garments we design, with care for the fragile Scandinavian disposition. Combining practicality with style, we create timeless pieces that are both modern, classic and functional. With a defiant attitude towards the elements (“there is no bad weather, only bad clothing”), Swedes have long ago learned to adapt our style and wardrobe to our unforgiving climate — it is this defiance that is deeply embedded at the root of every Swede and at the core of STUTTERHEIM as a brand. The Original Premium Raincoat The archipelago outside of Stockholm and beyond is Sweden’s pride and joy. Tens of thousands of islands of varying sizes make up this unique landscape that strikes a chord inside each Swede, reminding us of our strong ties to nature. It is on one of these islands that the idea of the premium raincoat was born – a vision of a coat that could stand the test of time as well as harsh weather. The island of Arholma became the inspiration for this vision – with its bleak landscape made up of grey, stony shores and its history tied to war and seafaring. Arholma, the coat, was at the beginning of its existence produced in small quantities, handmade in Stockholm, exclusively in black – matching the tone of Swedish melancholy. Production has since moved to continental Europe and the range of colours has broadened – not everybody embraces darkness as well as Swedes. Constructed in our signature 530-gram, 100% waterproof PVC-coated fabric and featuring tailored details, this is a legacy piece that will last a lifetime – even two or three.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 38
 - [Men's Coats and Jackets](https://www.british-attire.com/collections/mens-coats-and-jackets)
   Updated: 2026-07-27T13:54:48Z
   Total Products: 0
 - [Men's Shirts](https://www.british-attire.com/collections/mens-shirts)
-  Updated: 2026-10-10T11:31:08Z
-  Total Products: 1
+  Updated: 2026-10-15T16:05:27Z
+  Total Products: 0
 - [Men’s T-Shirts](https://www.british-attire.com/collections/mens-t-shirts): Discover our handpicked range of mens designer tshirts at British Attire. Premium fabrics, great fits and effortless style... find your new favourite today.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 274
 - [Men's Polo Shirts](https://www.british-attire.com/collections/mens-polo-shirts): Shop men’s polo shirts at British Attire. Quality cotton, smart cuts and easy styling from Barbour, Lyle & Scott and more, effortless, everyday kit.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T10:09:04Z
   Total Products: 161
 - [Men's Knitwear](https://www.british-attire.com/collections/mens-knitwear)
-  Updated: 2026-09-16T14:49:57Z
+  Updated: 2026-10-19T11:35:24Z
   Total Products: 2
 - [Men's Trousers](https://www.british-attire.com/collections/mens-trousers)
-  Updated: 2026-10-13T11:18:10Z
-  Total Products: 38
+  Updated: 2026-10-19T11:35:23Z
+  Total Products: 39
 - [Men's Waistcoats and Gilets](https://www.british-attire.com/collections/mens-waistcoats-and-gilets)
   Updated: 2026-07-27T13:54:48Z
   Total Products: 0
@@ -2063,7 +2063,7 @@
   Updated: 2026-07-27T13:54:48Z
   Total Products: 0
 - [Men's Bags](https://www.british-attire.com/collections/mens-bags)
-  Updated: 2026-09-29T14:33:57Z
+  Updated: 2026-10-16T14:05:36Z
   Total Products: 12
 - [Wax Jackets](https://www.british-attire.com/collections/wax-jackets)
   Updated: 2026-08-25T08:53:42Z
@@ -2078,437 +2078,455 @@
   Updated: 2026-07-27T13:54:48Z
   Total Products: 0
 - [Casual Jackets](https://www.british-attire.com/collections/casual-jackets)
-  Updated: 2026-10-13T11:35:00Z
-  Total Products: 4
+  Updated: 2026-10-19T11:35:24Z
+  Total Products: 5
 - [Boots](https://www.british-attire.com/collections/boots): Step into premium boots at British Attire. From weather-ready walkers to refined leather styles, these are boots made to wear well, and to be worn often.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 246
 - [Shoes](https://www.british-attire.com/collections/shoes): Shop designer shoes at British Attire. From brogues and derbies to versatile loafers, discover premium styles crafted for comfort, quality and lasting appeal.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 183
 - [Wellington Boots](https://www.british-attire.com/collections/wellington-boots): Shop wellington boots at British Attire. Discover waterproof boots and wellies for men and women from Barbour, Hunter and more, made to last in any weather.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 134
 - [Slippers](https://www.british-attire.com/collections/slippers)
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 51
 - [Women's Coats and Jackets](https://www.british-attire.com/collections/womens-coats-and-jackets): Shop women’s coats and jackets at British Attire. From waxed icons to lightweight layers, discover premium outerwear built for real life and lasting style.
-  Updated: 2026-10-14T11:47:59Z
-  Total Products: 305
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 302
 - [Women's Dresses](https://www.british-attire.com/collections/womens-dresses): Explore women’s designer dresses at British Attire. From easy shirt dresses to refined knits, find timeless styles crafted for comfort, elegance and everyday wear.
-  Updated: 2026-10-11T11:34:01Z
+  Updated: 2026-10-16T11:36:09Z
   Total Products: 17
 - [Women's Skirts](https://www.british-attire.com/collections/womens-skirts)
-  Updated: 2026-10-11T11:34:03Z
+  Updated: 2026-10-16T11:36:09Z
   Total Products: 19
 - [Paul Smith](https://www.british-attire.com/collections/paul-smith): Explore Paul Smith at British Attire, designer menswear that mixes clean lines, smart tailoring and the kind of detail that keeps things interesting.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 322
 - [Men's](https://www.british-attire.com/collections/mens): Discover premium men’s clothing, designer outerwear and footwear at British Attire. Explore timeless pieces built for lasting style, whatever the season.
-  Updated: 2026-10-14T13:07:50Z
-  Total Products: 3888
+  Updated: 2026-10-21T15:05:25Z
+  Total Products: 3899
 - [Peregrine](https://www.british-attire.com/collections/peregrine): Peregrine have been in the business for over 220 years — so, in some ways, this makes them pretty traditional. However, it’s safe to say that their past is shaping their future — not dictating it. Even now, they're still working with wool that’s reared and sheared just a few miles from our factory. And each and every Peregrine garment is designed and the majority manufactured right here in the UK.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 55
 - [Men's Designer Clothing](https://www.british-attire.com/collections/mens-clothing): Explore premium men’s clothing at British Attire. Discover designer shirts, timeless T-shirts, tailored jackets and classic sweaters built for effortless style.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 1021
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 1022
 - [Men's Outerwear](https://www.british-attire.com/collections/mens-outerwear): Shop premium men’s outerwear at British Attire. Discover waxed jackets, waterproof coats and stylish layers from Barbour, Belstaff, Paul Smith and more.
-  Updated: 2026-10-14T11:59:38Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 880
 - [Men's Accessories](https://www.british-attire.com/collections/mens-accessories): Explore men’s accessories at British Attire. Shop Barbour backpacks, Paul Smith wallets, and everyday essentials built for style, function and lasting quality.
-  Updated: 2026-10-14T23:11:16Z
-  Total Products: 1585
+  Updated: 2026-10-21T23:08:41Z
+  Total Products: 1596
 - [Women's Designer Clothing](https://www.british-attire.com/collections/womens-clothing): Discover premium women’s clothing at British Attire. Explore tailored jackets, elegant knitwear and sophisticated accessories crafted for lasting style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 491
 - [Women's Outerwear](https://www.british-attire.com/collections/womens-outerwear): Find women’s outerwear with real staying power at British Attire. Waxed jackets, down parkas and raincoats, built for style, comfort and whatever the forecast brings.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 806
 - [Women's Accessories](https://www.british-attire.com/collections/womens-accessories): Explore premium women’s accessories at British Attire. Discover designer bags, versatile carrycases, practical hats and care products crafted for lasting style.
-  Updated: 2026-10-14T11:52:18Z
-  Total Products: 1630
+  Updated: 2026-10-21T23:08:42Z
+  Total Products: 1651
 - [New Arrivals](https://www.british-attire.com/collections/new-arrivals): Discover the latest premium fashion and designer clothing at British Attire. New arrivals in outerwear, footwear and accessories, all built for lasting style.
-  Updated: 2026-10-14T11:59:38Z
-  Total Products: 882
+  Updated: 2026-10-21T11:58:05Z
+  Total Products: 919
 - [Men’s Footwear](https://www.british-attire.com/collections/mens-footwear): Explore British Attire’s men’s footwear collection. Discover Chelsea boots, brogues and walking shoes made with heritage craftsmanship and built to last.
-  Updated: 2026-10-14T23:11:16Z
-  Total Products: 423
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 422
 - [Women's Footwear](https://www.british-attire.com/collections/womens-footwear): Step into style with women’s designer footwear at British Attire. Explore premium boots, sneakers and shoes crafted for comfort, quality and timeless appeal.
-  Updated: 2026-10-14T23:11:16Z
+  Updated: 2026-10-21T11:46:54Z
   Total Products: 576
 - [Napapijri](https://www.british-attire.com/collections/napapijri): Discover Napapijri, where bold exploration meets innovative fashion. Since 1987, Napapijri has revolutionised style with vibrant designs and technical fabrics. Iconic pieces like the Skidoo jacket embody adventure and originality. Join the journey and explore collections that defy the norm and embrace the unexpected. Shop now!
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 157
 - [Barbour International](https://www.british-attire.com/collections/barbour-international): Explore Barbour International at British Attire. Shop men’s and women’s motorcycle jackets, waxed coats and quilted outerwear with a modern edge.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 239
 - [Holland Cooper](https://www.british-attire.com/collections/holland-cooper): Explore the Holland Cooper clothing collection at British Attire. Discover tailored jackets, refined blazers and timeless designs, crafted with British elegance.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 314
 - [Parajumpers](https://www.british-attire.com/collections/parajumpers): Immerse yourself in the resilient world of Parajumpers, a brand inspired by the courageous men of the 210th Rescue Squadron based in Anchorage, Alaska. Our collections embody the spirit of these daring rescuers, combining highly functional design with advanced technical components suited for extreme weather conditions. Each piece reflects a commitment to offering robust protection through innovation and cutting-edge technology. Parajumpers represents more than just outerwear; it is a fusion of style and survival technology, crafted for those who seek adventure and demand performance. Our jackets, meticulously designed in Italy, feature lifesaving details such as parachute hooks and other military-inspired elements, ensuring they meet the exacting demands of both life in the wilderness and urban exploration. Step into a collection that embraces the essence of adventure, engineered to withstand the most challenging climates and conditions, honouring the legacy of true life heroes. Parajumpers continues to push the boundaries of outdoor apparel, making every piece a testament to durability and enduring style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 113
 - [Pyrenex](https://www.british-attire.com/collections/pyrenex): Pyrenex, renowned for its mastery in down and feather craftsmanship since 1859. We bring you a collection where each piece harmoniously blends traditional French artisanship with the demands of modern lifestyles. Discover jackets and homeware that do more than just insulate; they evoke a sense of adventure and luxury. Our curated Pyrenex range exemplifies commitment to sustainability and ethical practices, ensuring every product offers comfort, warmth, and a clear conscience. We pride ourselves on selecting items that are not only functional but also infused with the charm and durability synonymous with Pyrenex’s storied history. We invite you to explore these masterpieces of design, each crafted to enhance your daily experiences, whether in the heart of the city or the tranquility of the countryside. With Pyrenex, you’re choosing more than just quality—you’re embracing a legacy of unparalleled craftsmanship and enduring style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 25
 - [Woolrich](https://www.british-attire.com/collections/woolrich): Woolrich is committed to putting social responsibility at the forefront of everything we do. They are committed to making a positive impact on the world around them, including by taking a respectful approach to their stakeholder relationships, encouraging environmental awareness and promoting ethical business practices.
-  Updated: 2026-10-12T11:44:55Z
+  Updated: 2026-10-17T11:36:45Z
   Total Products: 48
 - [Baracuta](https://www.british-attire.com/collections/baracuta): Established in Manchester in 1937, Baracuta is renowned for creating the original G9 Harrington Jacket. Designed with practical features such as the umbrella back yoke and ribbed cuffs, the G9 gained popularity among golfers and later became a staple in various subcultures, including Mods and Ivy League enthusiasts. Its distinctive Fraser tartan lining and association with figures like Steve McQueen and Elvis Presley have cemented its status as a symbol of British style.
-  Updated: 2026-10-14T11:59:38Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 23
 - [Victorinox](https://www.british-attire.com/collections/victorinox): Shop Victorinox luggage and wallets – Swiss-designed travel essentials built for durability, organisation, and timeless style.
-  Updated: 2026-10-05T11:36:09Z
-  Total Products: 31
+  Updated: 2026-10-15T13:55:59Z
+  Total Products: 32
 - [Elliker](https://www.british-attire.com/collections/elliker): ELLIKER believes in connecting with nature and understanding it. They creatively observe and explore positive ways to engage with the outdoors. Their products are lightweight, functional and environmentally friendly allowing you to share these experiences. Elliker's projects build on core values of connecting and understanding nature. They draw from all cultures, passions and pastimes to do this. Be that the simple Japanese inspired concept of Forest Bathing or Wild Garlic Foraging in the English countryside. Elliker creates content that showcases and explains these activities using an artistic aesthetic that is core to ELLIKER. We invite our community to engage in these activities, to learn and to promote their ideals to others.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-20T11:40:33Z
   Total Products: 62
 - [Red Wing](https://www.british-attire.com/collections/red-wing): For over a century, Red Wing Shoes have been built with purpose to outlast the harshest working conditions. They have proudly protected generations of workers across the globe with a focus on continuous innovation. Today their assortment includes footwear, garments, and accessories, that ensure Red Wing are providing the best purpose-built solutions for all of a consumers’ needs. The Red Wing Heritage lifestyle collection is the epitome of a modern classic. Inspired by their most iconic styles from the last century, each pair of footwear combines the finest leather with uncompromising craftsmanship and builds on Red Wing's legacy of USA-made excellence.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:49:35Z
   Total Products: 39
 - [Montane](https://www.british-attire.com/collections/montane): Shop Montane at British Attire. Discover lightweight jackets, waterproof layers and performance outdoor gear built for endurance, comfort and movement.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 114
 - [Christys’](https://www.british-attire.com/collections/christys)
   Updated: 2026-07-27T13:54:50Z
   Total Products: 0
 - [Dents](https://www.british-attire.com/collections/dents): Shop Dents gloves and belts. Premium leather accessories crafted since 1777, combining British heritage, comfort, and timeless style.
-  Updated: 2026-10-06T11:36:55Z
+  Updated: 2026-10-21T12:06:06Z
   Total Products: 36
 - [All Products](https://www.british-attire.com/collections/all-products): Shop premium clothing, designer footwear and luxury accessories at British Attire. Explore timeless fashion crafted for versatility, quality and style.
-  Updated: 2026-10-14T23:00:39Z
-  Total Products: 3767
+  Updated: 2026-10-21T21:05:45Z
+  Total Products: 3824
 - [Hunter](https://www.british-attire.com/collections/hunter): Explore Hunter at British Attire. Discover iconic Wellington boots and waterproof footwear designed for comfort, durability and classic British style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 205
 - [](https://www.british-attire.com/collections/): Shop the British Attire  Collection. Discover premium clothing, designer footwear and luxury accessories with timeless style at newly reduced prices.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 2017
+  Updated: 2026-10-21T12:06:49Z
+  Total Products: 2125
 - [Pet Accessories](https://www.british-attire.com/collections/pet-accessories): Shop pet accessories at British Attire. Explore Barbour dog coats, waterproof jackets, collars, leads and beds designed for comfort, durability and everyday style.
-  Updated: 2026-10-13T11:14:22Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 173
 - [Penfield](https://www.british-attire.com/collections/penfield): Shop Penfield at British Attire. Discover durable insulated jackets and American outerwear built for life outdoors - rugged, reliable, and ready for anything.
-  Updated: 2026-10-08T11:36:54Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 42
 - [Ruffwear](https://www.british-attire.com/collections/ruffwear): Explore Ruffwear at British Attire. Trail-tested dog harnesses, leads and gear built for performance, comfort and everyday outdoor adventures.
-  Updated: 2026-10-13T11:14:22Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 71
+- [Full Price](https://www.british-attire.com/collections/full-price): Explore the Full Price Collection at British Attire. Premium clothing and outerwear from Barbour, Paul Smith, Holland Cooper and more, built to last, made to wear.
+  Updated: 2026-10-21T15:58:06Z
+  Total Products: 4233
 - [Christmas Gifts](https://www.british-attire.com/collections/christmas-gifts): Sort your Christmas gifts the easy way with British Attire. From classic knits to top-quality accessories, we have got proper presents for everyone on your list.
-  Updated: 2026-10-14T23:00:39Z
-  Total Products: 3767
+  Updated: 2026-10-21T21:05:45Z
+  Total Products: 3824
 - [Cheaney](https://www.british-attire.com/collections/cheaney): Cheaney Heritage - Made in England Since 1886 Joseph Cheaney established the company in 1886, and in 1896, along with his son Arthur, they moved to the site which the factory occupies today. During the first 80 years of business, the factory made shoes exclusively for some of the finest retailers around the world, branded to their individual company requirements. Joseph Humfrey Cheaney, the founder’s grandson who worked for the company for 51 years, realised that the company’s future lay in building up its own Cheaney brand for its home and export markets. In 1964, determined to see the legacy built up by the family continue, the decision was taken to  the business to Church’s English Shoes. The Cheaney brand then became available to retailers all over the world, backed by a comprehensive stock service from the Desborough factory. In 1966 Cheaney won the Queen's Award for Industry and in 2016, the Queen’s Award for Enterprise in International Trade. In 2009 Jonathan and William Church bought the company. Their family has been making fine shoes for five generations and they are fully committed to producing the finest footwear entirely made in England.
-  Updated: 2026-10-09T11:34:22Z
+  Updated: 2026-10-18T11:31:02Z
   Total Products: 9
 - [ - 10–20% Off](https://www.british-attire.com/collections/-20-off): Explore up to 20% off at British Attire. Shop premium clothing, outerwear and footwear built to last, timeless style now with even more to love.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 1427
+  Updated: 2026-10-21T12:06:06Z
+  Total Products: 1504
 - [ - 20-30% Off](https://www.british-attire.com/collections/-30-off): Save up to 30% on premium clothing, designer footwear and luxury accessories at British Attire. Shop timeless pieces crafted for quality, style and lasting appeal.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 1068
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 1044
 - [ - 30-40% Off](https://www.british-attire.com/collections/-40-off)
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 849
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 891
 - [Barbour Jackets](https://www.british-attire.com/collections/barbour-jackets): Discover Barbour jackets at British Attire. Shop classic waxed jackets, lightweight quilted styles and premium outerwear built for life outdoors and beyond.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 253
 - [Barbour Men's Jackets](https://www.british-attire.com/collections/barbour-mens-jackets): Explore Barbour men’s jackets at British Attire. Shop waxed jackets, quilted layers and premium outerwear crafted with British heritage and timeless style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-19T11:35:24Z
   Total Products: 108
 - [Barbour Wellies](https://www.british-attire.com/collections/barbour-wellies): Step into the great outdoors with British Attire's collection of Barbour wellies. Built for durability and comfort, these boots are perfect for rainy days, muddy walks, or countryside adventures. Featuring timeless designs and premium craftsmanship, Barbour wellies ensure you stay stylish while keeping your feet dry and protected, whatever the weather.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 41
 - [Clarks Wallabees](https://www.british-attire.com/collections/clarks-wallabees): Discover British Attire's range of Clarks Wallabees, the perfect fusion of iconic design and everyday comfort. With their timeless moccasin-inspired silhouette and unmatched versatility, these shoes effortlessly transition from casual to smart. Step into style and comfort with a true footwear classic that never goes out of fashion.
-  Updated: 2026-10-12T11:44:55Z
+  Updated: 2026-10-18T00:25:09Z
   Total Products: 11
 - [Clarks Boots](https://www.british-attire.com/collections/clarks-boots): Step into timeless style with British Attire's collection of Clarks boots. Known for their unparalleled comfort and craftsmanship, these boots blend classic designs with modern versatility. From rugged outdoor options to sleek everyday staples, Clarks offers something for every occasion. Find your perfect fit and stride confidently, wherever life takes you.
-  Updated: 2026-10-13T11:07:28Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 23
 - [Joules Wellies](https://www.british-attire.com/collections/joules-wellies): Shop Joules wellies at British Attire. Discover waterproof, colourful women’s boots designed for comfort, durability and signature countryside style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 32
 - [Holland Cooper Gilets](https://www.british-attire.com/collections/holland-cooper-gilet): Layer up in style with British Attire's selection of Holland Cooper gilets. Perfect for adding warmth without compromising on sophistication, these gilets feature premium materials and tailored designs. Whether you're out in the countryside or strolling through town, Holland Cooper gilets deliver a chic, versatile look for any occasion.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 18
 - [Belstaff Jackets](https://www.british-attire.com/collections/belstaff-jackets): Explore Belstaff jackets at British Attire. Waxed, water-resistant and purpose-built, these are jackets with heritage, grit and modern edge.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 41
 - [Ariat Boots](https://www.british-attire.com/collections/ariat-boots): Explore Ariat boots at British Attire. From riding silhouettes to waterproof outdoor styles, discover leather boots built for comfort, durability and all-day wear.
-  Updated: 2026-10-08T11:36:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 20
 - [Ariat Wellies](https://www.british-attire.com/collections/ariat-wellies): Tackle wet weather in style with British Attire's collection of Ariat wellies. Designed for durability and comfort, these boots are perfect for country walks, muddy fields, or rainy days. With practical features like sturdy soles and premium waterproofing, Ariat wellies combine functionality with timeless design to keep you moving confidently, whatever the conditions.
-  Updated: 2026-10-08T11:36:59Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 9
 - [Parajumpers Jackets](https://www.british-attire.com/collections/parajumpers-jacket): Stay ahead of the elements with British Attire's collection of Parajumpers jackets. Designed with cutting-edge materials and innovative features, these jackets combine rugged functionality with sleek, urban style. From lightweight layers to insulated options, Parajumpers delivers premium outerwear that’s built to perform, whatever the weather or adventure.
-  Updated: 2026-10-09T13:46:40Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 45
 - [Didriksons Coats](https://www.british-attire.com/collections/didriksons-coats): Gear up for any weather with British Attire's collection of Didriksons coats. Built for functionality and style, these coats combine Scandinavian design with premium weatherproofing. From rainy days to chilly adventures, Didriksons offers versatile, reliable outerwear that keeps you protected while looking effortlessly modern. Stay warm, dry, and ready for anything.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 31
 - [Barbour International Jackets](https://www.british-attire.com/collections/barbour-international-jackets): Shop Barbour International jackets at British Attire. Timeless motorcycle-inspired outerwear, built for comfort, durability and understated everyday style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 88
 - [Holland Cooper Boots](https://www.british-attire.com/collections/holland-cooper-boots): Holland Cooper boots are where British countryside charm collides beautifully with cutting-edge fashion. Designed by Jade Holland Cooper and proudly worn by those who appreciate timeless style with a modern twist, this collection represents premium craftsmanship, luxurious materials, and a dedication to detail that’s hard to rival. Whether you're heading to the races or just out for a crisp countryside walk, Holland Cooper boots bring statement-making elegance to any outfit. With silhouettes ranging from equestrian-inspired knee-highs to sleek ankle designs, they’re built not just to impress but to last. Each pair is crafted with the rigour you’d expect from a brand that blends traditional British tailoring with high-end design cues. Explore our curated edit of women’s designer boots by Holland Cooper, a firm fixture for those who favour sophistication with a bold streak. This is footwear designed to hold its own in any setting, from muddy lanes to Mayfair pavements.
   Updated: 2026-10-11T11:34:01Z
   Total Products: 8
 - [Lyle & Scott](https://www.british-attire.com/collections/lyle-scott): Lyle & Scott, established in 1874, seamlessly blends the rich heritage of Scottish design with contemporary style from its historic roots in the mist-kissed moors of Hawick. Known for its iconic golden eagle logo, a symbol of pride, precision, and sophistication, Lyle & Scott stands as a beacon of understated elegance in the fashion world. This brand is not about makingloud statements or following ephemeral trends; instead, it embodies lasting charm and genuine authenticity. As a testament to British craftsmanship, Lyle & Scott's collections offer a perfect harmony of tradition and modern allure. Each piece, whether favoured by golfing champions or featured on cosmopolitan runways, tellsa story of heritage interwoven with the essence of modern British style. Lyle & Scott is celebrated for its commitment to quality and its ability to infuse every thread with a sense of timeless allure and Scottish finesse.Embrace the quiet sophistication of Lyle & Scott, the brand that has become synonymous with the art of crafting timeless fashion. With a legacy built on blending the past with the present, Lyle & Scott continues to soar high above the rest, much like its golden eagle emblem, as the quintessential architects of Scottish elegance and maestros of enduring style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-18T11:31:02Z
   Total Products: 206
 - [Clarks](https://www.british-attire.com/collections/clarks): Explore Clarks at British Attire. Shop leather Derbys, Wallabees and desert boots built for comfort, durability and everyday style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 73
 - [Oliver Sweeney](https://www.british-attire.com/collections/oliver-sweeney): Explore Oliver Sweeney shoes at British Attire. Discover premium brogues, boots and sneakers crafted with Italian skill and British design detail.
-  Updated: 2026-10-14T11:33:36Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 119
 - [Ariat](https://www.british-attire.com/collections/ariat): Discover Ariat at British Attire. Footwear and jackets designed for movement, built for comfort, and crafted with timeless style in mind.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 210
 - [Penelope Chilvers](https://www.british-attire.com/collections/penelope-chilvers): Discover Penelope Chilvers at British Attire. Elegant leather boots, equestrian styles and timeless design crafted with Spanish expertise and lasting comfort.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 57
 - [Filson](https://www.british-attire.com/collections/filson): Discover Filson clothing at British Attire. Shop rugged jackets, heavy-duty bags and outdoor essentials built for durability, comfort and timeless American style.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:56:23Z
   Total Products: 112
 - [Snow Peak](https://www.british-attire.com/collections/snow-peak): Explore Snow Peak UK's collection of high-quality camping equipment and apparel. Founded in 1958 by mountaineer Yukio Yamai, Snow Peak offers innovative gear designed for outdoor enthusiasts seeking durability and minimalist aesthetics.
-  Updated: 2026-10-14T13:07:50Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 130
 - [Didriksons](https://www.british-attire.com/collections/didriksons): When it comes to braving the elements, few do it better than the Swedes, and Didriksons has been proving that since 1913. Founded in the fishing town of Grundsund on Sweden’s rugged west coast, the brand began by making practical, weatherproof clothing for local fishermen. Over a century later, Didriksons parkas are still designed with that same unwavering commitment to protection and comfort, only now, they look just as good on city streets as they do on storm-lashed coastlines. This collection brings together the brand’s most trusted silhouettes - from longline, insulated parkas to breathable shell jackets crafted with recycled materials, PFC-free water repellents, and an unmistakable Scandi design ethos. Whether you're after a clean, urban look or something that will keep you warm in minus temps, there’s a Didriksons parka here with your name on it.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 90
 - [Aigle](https://www.british-attire.com/collections/aigle): Rubber, innovation and an American founder — discover Aigle’s surprising beginnings. In Hiram Hutchinson’s days, rubber had already been developed, but showed little resistance to high temperatures. Through vulcanisation, Hutchinson made rubber more resilient to changes in temperature. He heated the material in a pressurised atmosphere, making it less brittle in the cold and less sticky in heat. The process was used from 1842 to make rubber more elastic and waterproof, revolutionising production and inspiring the American entrepreneur Hiram Hutchinson to found Aigle.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-15T11:45:49Z
   Total Products: 17
 - [Haglöfs](https://www.british-attire.com/collections/haglofs): Explore Haglöfs at British Attire. Shop technical outerwear, waterproof jackets and performance gear built to handle the toughest conditions, and wear well doing it.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 112
 - [Tricker's](https://www.british-attire.com/collections/trickers): Founded in 1829, Tricker’s is proudly the oldest established shoemaker in Britain. Still owned by the founding family, their commitment to making shoes and boots of outstanding quality remains wholeheartedly consistent. Tricker’s footwear is made entirely from start to finish at their Northampton factory and, whilst manufacturing processes have changed over time, their craftspeople continue to follow the traditional techniques.
-  Updated: 2026-10-07T13:48:25Z
+  Updated: 2026-10-17T11:36:45Z
   Total Products: 12
 - [66º North](https://www.british-attire.com/collections/66-degrees-north): Discover 66°North, Iceland's premier brand for durable and stylish outerwear. Established in 1926, we craft high-quality clothing designed to withstand the harshest conditions.
-  Updated: 2026-10-11T11:34:01Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 81
 - [William Morris](https://www.british-attire.com/collections/william-morris): Explore the legacy of William Morris, a visionary designer and craftsman who revolutionized 19th-century British interiors. Discover his timeless patterns and commitment to handcraftsmanship.
-  Updated: 2026-10-05T11:36:07Z
+  Updated: 2026-10-15T16:05:43Z
   Total Products: 13
 - [Hackett](https://www.british-attire.com/collections/hackett): Discover Hackett London, the epitome of classic British style. Established in 1983, we offer premium men's clothing and accessories, blending traditional craftsmanship with contemporary design.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 173
 - [Mother's Day](https://www.british-attire.com/collections/mothers-day): Discover Mother’s Day gifts at British Attire. From luxury scarves to premium accessories, shop thoughtful pieces with timeless style and lasting quality.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 453
 - [Barbour ](https://www.british-attire.com/collections/barbour-): Shop the Barbour  at British Attire. Discover waxed jackets, quilted coats and premium knitwear crafted with heritage, durability and timeless style.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 284
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 286
 - [Joules ](https://www.british-attire.com/collections/joules-): Shop the Joules  at British Attire. Waterproof jackets, shirts and everyday essentials crafted for countryside life with a fresh, colourful twist.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 248
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 251
 - [Oliver Sweeney ](https://www.british-attire.com/collections/oliver-sweeney-): Explore the Oliver Sweeney  at British Attire. Discover premium men’s footwear, leather brogues, boots, sneakers and accessories crafted with timeless detail and comfort.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 56
 - [Holland Cooper ](https://www.british-attire.com/collections/holland-cooper-): Explore the Holland Cooper  at British Attire: Enjoy up to 30% off luxury British fashion, including iconic tweed and contemporary designs. Free UK delivery.
   Updated: 2026-09-25T10:54:50Z
   Total Products: 14
 - [Clarks ](https://www.british-attire.com/collections/clarks-): Shop the Clarks  at British Attire. Classic styles, premium comfort and everyday staples with up to 40% off selected footwear.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 31
 - [Napapijri ](https://www.british-attire.com/collections/napapijri-): Shop the Napapijri  at British Attire: Enjoy up to 35% off innovative outerwear and apparel inspired by exploration. Free UK delivery.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 86
 - [Lyle & Scott ](https://www.british-attire.com/collections/lyle-scott-): Shop the Lyle & Scott  at British Attire. Explore heritage-inspired casualwear, quarter zips, polos and outerwear with up to 50% off.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-18T11:31:02Z
   Total Products: 135
 - [FitFlop](https://www.british-attire.com/collections/fitflop): Step into effortless style with FitFlop at British Attire. Discover sandals, sneakers and boots designed for comfort, movement and modern everyday elegance.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:46:54Z
   Total Products: 66
 - [Clarks Originals](https://www.british-attire.com/collections/clarks-originals): Step into British tradition with Clarks Originals footwear. Shop men's and women's iconic styles, from Desert Boots to Wallabees, at British Attire.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-19T11:35:24Z
   Total Products: 65
 - [Stetson](https://www.british-attire.com/collections/stetson): Explore Stetson at British Attire. Discover premium cowboy hats and heritage headwear crafted with timeless American style and built to last.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 56
+- [Outdoor Clothing for Men and Women](https://www.british-attire.com/collections/outdoor-clothing-for-men-and-women): Shop outdoor clothing at British Attire. Technical shells, insulated layers, hiking trousers and boots from Haglöfs, Montane, 66°North and Peak Performance.
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 1529
 - [ - 40-50% Off](https://www.british-attire.com/collections/-40-50-off): Explore the 40–50% Off  at British Attire. Shop designer clothing, outerwear and footwear with serious reductions — no compromise on quality.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 426
+  Updated: 2026-10-20T11:40:37Z
+  Total Products: 429
 - [VEJA](https://www.british-attire.com/collections/veja): Explore VEJA's collection of eco-conscious trainers, crafted with organic cotton, Amazonian rubber, and recycled materials. Discover minimalist designs that blend ethical production with contemporary style.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 29
 - [Father's Day](https://www.british-attire.com/collections/fathers-day): Get Father’s Day right with timeless gifts from British Attire. Barbour jackets, Paul Smith accessories and Oliver Sweeney footwear made to last.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T12:06:06Z
   Total Products: 2353
 - [Outdoor Renaissance](https://www.british-attire.com/collections/outdoor-renaissance): Discover men’s and women’s outdoor clothing from 66°North, Montane, Haglöfs & more. Technical style built for British weather and modern life.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 462
 - [Rural Heritage](https://www.british-attire.com/collections/rural-heritage): Explore timeless countryside clothing and footwear from Barbour, Holland Cooper, Penelope Chilvers & more. Built to last. Worn to be lived in.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 1458
 - [Brit Pop and Terrace Culture](https://www.british-attire.com/collections/brit-pop-and-terrace-culture): Explore jackets, polos, and trainers inspired by Brit Pop and Terrace Culture. From Barbour International to Paul Smith, iconic style with attitude.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 654
+- [Clothing for Wet Weather](https://www.british-attire.com/collections/clothing-for-wet-weather): Clothing for wet weather at British Attire. Wax jackets, waterproof clothing and weather-ready footwear from Barbour, Joules, Montane and 66°North. Built to last.
+  Updated: 2026-10-21T12:06:06Z
+  Total Products: 1563
 - [The Envy Edit](https://www.british-attire.com/collections/the-envy-edit): A curated collection of seasonal staples in envy-inducing shades of green. From Barbour jackets to suede Wallabees, these timeless pieces in sage, khaki, olive and beyond are here to turn heads - tastefully, of course!
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 499
 - [Last One Left](https://www.british-attire.com/collections/last-one-left): Explore a curated selection of pieces with just one left in stock. Featuring timeless styles from our most sought-after labels.
-  Updated: 2026-10-14T23:08:13Z
-  Total Products: 765
+  Updated: 2026-10-21T21:30:33Z
+  Total Products: 768
 - [T-Shirts and Polo Shirts](https://www.british-attire.com/collections/t-shirts-and-polo-shirts): Discover premium men’s and women’s t-shirts and polo shirts from Barbour, Paul Smith, Ariat & more. Timeless wardrobe staples crafted for everyday comfort and style
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 294
 - [Barbour Spring Summer 2025](https://www.british-attire.com/collections/barbour-spring-summer-2025): Discover Barbour’s SS25 collection—timeless British heritage meets modern feminine design. Featuring waxed classics and quilted staples. Shop iconic outerwear with fresh prints and styles.
-  Updated: 2026-10-13T11:15:43Z
+  Updated: 2026-10-19T11:35:23Z
   Total Products: 122
 - [Headwear | Caps, Hats and Beanies](https://www.british-attire.com/collections/headwear-caps-hats-and-beanies): From Barbour flat caps to bolder styles from Paul Smith, Holland Cooper elegance and Stetson swagger - discover Brit-ish headwear that defines the look.
-  Updated: 2026-10-13T16:00:51Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 289
 - [Men's New Arrivals](https://www.british-attire.com/collections/mens-new-arrivals): Discover the latest in men’s designer fashion. Shop new arrivals in outerwear, shirts, footwear and more — clean design, premium quality, zero faff.
-  Updated: 2026-10-14T11:59:38Z
-  Total Products: 530
+  Updated: 2026-10-21T11:56:23Z
+  Total Products: 514
 - [Women's New Arrivals](https://www.british-attire.com/collections/womens-new-arrivals): Explore the latest women's designer fashion. New in dresses, coats, footwear and more — all curated for effortless style and lasting quality.
-  Updated: 2026-10-14T11:52:11Z
-  Total Products: 549
+  Updated: 2026-10-21T11:58:05Z
+  Total Products: 606
 - [Women's](https://www.british-attire.com/collections/womens): Discover premium women’s clothing, designer outerwear and footwear at British Attire. Explore timeless pieces built for lasting style, whatever the season.
-  Updated: 2026-10-14T13:07:29Z
-  Total Products: 3459
+  Updated: 2026-10-21T15:06:04Z
+  Total Products: 3480
 - [Promotions Allowed](https://www.british-attire.com/collections/promotions-allowed)
-  Updated: 2026-10-14T13:07:45Z
-  Total Products: 6336
+  Updated: 2026-10-21T15:05:37Z
+  Total Products: 6358
 - [Merrell](https://www.british-attire.com/collections/merrell): Shop our Merrell footwear range – hiking boots, trail shoes & more. Fast delivery & easy returns.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 25
 - [Sealskinz](https://www.british-attire.com/collections/sealskinz): Shop Sealskinz waterproof socks, gloves & hats – built for bad weather. Stay warm, dry & protected outdoors. Fast delivery & easy returns available now.
-  Updated: 2026-10-14T11:52:18Z
+  Updated: 2026-10-20T11:40:33Z
   Total Products: 43
 - [Hestra](https://www.british-attire.com/collections/hestra)
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-20T11:40:33Z
   Total Products: 45
 - [Peak Performance](https://www.british-attire.com/collections/peak-performance): Explore Peak Performance at British Attire, where mountain-grade tech meets street-sharp style. Jackets made for trails, towns and everything in between.
-  Updated: 2026-10-13T11:13:45Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 88
 - [Cyber Monday](https://www.british-attire.com/collections/black-label-event): Discover standout pieces in the Black Label Event at British Attire. Premium clothing, designer footwear and timeless accessories, now with something off.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 2017
+  Updated: 2026-10-21T12:06:26Z
+  Total Products: 2125
 - [Black Label Event - Footwear](https://www.british-attire.com/collections/black-label-event-footwear): Discover premium footwear in the Black Label Event at British Attire. Shop designer shoes, sneakers and boots with timeless style and limited-time value.
-  Updated: 2026-10-14T11:47:59Z
-  Total Products: 307
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 313
 - [Cyber Monday - Accessories & Gifts](https://www.british-attire.com/collections/black-label-event-accessories-gifts): Shop premium accessories in the Black Label Event at British Attire. Discover wallets, backpacks, caps and leather goods crafted for lasting style and function.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 485
+  Updated: 2026-10-21T12:06:26Z
+  Total Products: 527
 - [Cyber Monday - Jackets & Outerwear](https://www.british-attire.com/collections/black-label-event-jackets-outerwear): Explore premium jackets and outerwear in the Black Label Event at British Attire. Shop designer coats and rugged layers crafted for lasting style and comfort.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 641
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 664
 - [Blundstone](https://www.british-attire.com/collections/blundstone): Blundstone is an Australian footwear company founded in 1870, recognised for its hard wearing Chelsea boots designed to handle everyday life as well as demanding environments. The brand quickly became known for durable construction, quality leather, and its signature pull on style, originally built for farmers, workers, and explorers who needed reliable comfort and protection. Today, Blundstone boots are worn globally for their practicality and easygoing style. Each pair is made with features such as cushioned midsoles, shock absorption technology, and weather friendly materials that adapt well to changing conditions. From city wear to outdoor use, Blundstone boots offer a dependable fit that feels comfortable from the first step and continues to soften with time.
-  Updated: 2026-10-13T11:07:16Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 8
 - [Black Label Event - Men's](https://www.british-attire.com/collections/black-label-event-mens): The Black Label Event is back - your once a year chance to sift through the best of the best and land something that normally wouldn’t flinch at full price. Everything here has earned its stripes: built to graft, shaped by proper craftsmanship, and ready for a long innings. All finished with that unmistakable feeling of, “yes, that’ll do nicely.”
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 1320
+  Updated: 2026-10-21T12:06:26Z
+  Total Products: 1419
 - [Black Label Event - Women's](https://www.british-attire.com/collections/black-label-event-womens): The Black Label Event returns - your once a year moment to explore our finest pieces and pick up something that usually holds its full price with confidence. Each item has been chosen for good reason: thoughtfully made, crafted to last, and prepared for whatever the day throws your way. All wrapped in that satisfying sense of, “oh yes, that’s the one.”
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 963
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 1017
 - [Gloverall: The Original Duffle Coat](https://www.british-attire.com/collections/gloverall): Gloverall has been making duffle coats in England since 1951. From the iconic Monty to the Churchill peacoat, shop the original British outerwear brand at British Attire.
-  Updated: 2026-09-07T11:37:21Z
+  Updated: 2026-10-16T13:58:06Z
   Total Products: 12
 - [Valentines Edit – Thoughtful Gifts for Him & Her](https://www.british-attire.com/collections/valentines-edit): Valentines gifts for him, her, wife, husband, boyfriend & girlfriend. Thoughtful British-minded style picks and curated Valentine’s Day ideas at British Attire.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T12:06:06Z
   Total Products: 1959
 - [The Waxed Collection](https://www.british-attire.com/collections/waxed-jackets-for-men-and-women): Pour wax over anything, go out in any weather. Shop waxed cotton jackets, bags, hats, boots and gloves from Barbour, Belstaff, Filson, Holland Cooper and more.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 201
+  Updated: 2026-10-21T12:06:06Z
+  Total Products: 293
 - [Wellington Boots](https://www.british-attire.com/collections/wellington-boots-1): Wellington boots from Aigle, Hunter, Barbour, Joules and Holland Cooper. Waterproof, hardwearing, and ready for whatever the British weather has planned.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 159
 - [Baracuta G9](https://www.british-attire.com/collections/baracuta-g9): Discover the Baracuta G9 jacket – the original Harrington. Made in Britain since 1937. Shop men’s Baracuta G9 jackets online at British Attire UK.
-  Updated: 2026-10-13T11:35:00Z
-  Total Products: 8
+  Updated: 2026-10-20T11:40:37Z
+  Total Products: 16
 - [Napapijri Rainforest Jacket](https://www.british-attire.com/collections/napapijri-rainforest-jacket): Shop the Napapijri Rainforest Jacket, their most iconic anorak since 1995. Summer and winter styles in water-resistant polyamide with Thermo-Fibre™ insulation. Men's and women's options available.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 22
 - [Barbour International - Halsey Quilted Jacket](https://www.british-attire.com/collections/barbour-international-halsey-quilted-jacket): The Barbour International Halsey Jacket. Slim fit, sonic welded, finished with gold detail and heritage patch pockets. The perfect transitional piece.
   Updated: 2026-10-12T11:44:55Z
   Total Products: 2
 - [Care Products](https://www.british-attire.com/collections/care-products): Protect your . Wax dressings, leather conditioners, and care kits from Barbour, Red Wing, Belstaff and more. Built to keep your gear going for decades.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-17T11:36:45Z
   Total Products: 16
 - [Barbour Icons](https://www.british-attire.com/collections/barbour-icons): Barbour's most iconic women's jackets, now in spring-summer weights. Discover the Liddesdale and Spey collection at British Attire.
-  Updated: 2026-10-07T22:17:13Z
+  Updated: 2026-10-17T11:36:45Z
   Total Products: 6
 - [The Elite Edit](https://www.british-attire.com/collections/the-elite-edit): This edit is for those who like the finer things. Here, we don't  style because frankly, the pieces don't deserve it. These items work hard to maintain their reputation and their construction speaks for itself. This is a specific kind of purchase. One you make once, then shape the rest of your rotation around. Pieces designed to outlive, built to develop personalities of their own and to be admired from all angles. In it for the long run, you might say.
-  Updated: 2026-10-14T13:07:46Z
-  Total Products: 3615
+  Updated: 2026-10-21T15:05:37Z
+  Total Products: 3686
 - [Dakine](https://www.british-attire.com/collections/dakine): Shop Dakine bags, packs and outdoor accessories. Built for adventure since 1979 — functional, durable gear for skiing, snowboarding, biking and travel.
-  Updated: 2026-10-12T13:36:09Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 49
 - [Dr. Martens](https://www.british-attire.com/collections/dr-martens): Shop Dr. Martens boots and shoes. Iconic British footwear since 1960 — the original 1460 boot and beyond, built to last and mould to your foot.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:58:05Z
   Total Products: 61
 - [](https://www.british-attire.com/collections/): Previous seasons, final sizes, reduced prices. The quality hasn't changed, we just need the warehouse space. Shop  at British Attire before your size goes.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 313
 - [Nikwax](https://www.british-attire.com/collections/nikwax): Shop the Nikwax range at British Attire. PFAS-free waterproofing, cleaning and conditioning products for jackets, boots, down and tents. UK family-run since 1977.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 8
 - [The Festival Edit](https://www.british-attire.com/collections/the-festival-edit): From Main Stage to campsite. Shop the Festival Edit at British Attire — clothes built to last the weekend and the ones after it too.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:46:54Z
   Total Products: 1615
 - [Tote Bags](https://www.british-attire.com/collections/tote-bags): Our finest collection of Tote Bags from brands like Holland Cooper, Barbour and more
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-15T11:45:49Z
   Total Products: 69
 - [Bucket Hats](https://www.british-attire.com/collections/bucket-hats): Shop bucket hats at British Attire. Wax, nylon, waterproof and packable styles from Barbour, Belstaff, Stutterheim, Parajumpers, Hunter, Paul Smith and more.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 40
 - [Caps](https://www.british-attire.com/collections/caps): The most democratic hat ever made. No breaking in, no occasion required and zero explanation needed. Adjust your strap and get on with your day. This edit pulls together the full spread - Barbour's sports and cascade caps, Filson's logger and mesh truckers, Ariat's embroidered and working patch styles, Belstaff's waxed cotton and nylon options, Hackett's classic twills, Holland Cooper's knit and logo caps, Joules' daisy and herringbone prints, Parajumpers' lightweight peaks, Napapijri, Penfield, Snow Peak and more. Technical, heritage, embroidered, waxed, mesh-backed, logo-forward or logo-free. A cap for every occasion, including the ones where you simply cannot be bothered deciding what to do with your hair.
-  Updated: 2026-10-14T11:47:59Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 164
 - [Brimmed Hats](https://www.british-attire.com/collections/brimmed-hats): Shop brimmed hats at British Attire. Stetsons, trilbies, fedoras, visors and safari hats from Holland Cooper, Joules, Barbour and more. The summer hat edit, sorted.
-  Updated: 2026-10-12T11:44:55Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 27
 - [Flat Caps](https://www.british-attire.com/collections/flat-caps): Few things are more sophisticated than a flat cap. Whether you're heading to the races, walking the dog, or simply refusing to leave the house without something on your head, there's a version here for you. This edit brings together the full spectrum - Barbour's wax and tweed flat caps, Stetson's wool herringbone and cashmere blends, Holland Cooper's baker boys in bourbon tweed and tawny, Hackett's wool checks, and Joules' classic tweed styles. Structured or relaxed, traditional or contemporary, the flat cap remains one of the few hats that genuinely improves any outfit it rounds off.
-  Updated: 2026-10-11T11:34:01Z
+  Updated: 2026-10-18T11:31:02Z
   Total Products: 33
 - [Havaianas](https://www.british-attire.com/collections/havaianas): Havaianas at British Attire. The original Brazilian rubber flip-flops, hard-wearing, comfortable and built for summer. Shop the full range of colours.
-  Updated: 2026-10-11T11:34:03Z
+  Updated: 2026-10-18T11:31:04Z
   Total Products: 8
 - [Wimbledon Style Edit - What To Wear To Watch The Tennis](https://www.british-attire.com/collections/wimbledon-edit): A British summer edit for watching the tennis: crisp shirts, easy dresses, court-ready footwear, useful bags, light layers and pieces for Centre Court, sofa or pub garden.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 655
 - [Hydro Flask](https://www.british-attire.com/collections/hydro-flask): Hydro Flask at British Attire. Insulated stainless steel bottles, flasks and tumblers that keep cold drinks cold for hours and hot drinks hot. Buy once, use for years.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-15T11:45:49Z
   Total Products: 20
 - [Barbour - The Classic Collection](https://www.british-attire.com/collections/barbour-the-classic-collection): Shop Barbour classics at British Attire. Beaufort, Bedale, Ashby and Beadnell wax jackets, Liddesdale quilts and gilets, for men and women. Built to last.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 201
+- [The Summer Shop](https://www.british-attire.com/collections/the-summer-shop): Shop the British Attire Summer Shop. Linen shirts, polos, shorts, swim shorts, dresses, sandals and flip-flops for men and women. Premium brands, built to last.
+  Updated: 2026-10-21T11:46:54Z
+  Total Products: 342
+- [Mules and Clogs for Women](https://www.british-attire.com/collections/mules-and-clogs-for-women)
+  Updated: 2026-10-20T11:40:37Z
+  Total Products: 39
 - [Barbour International - Duke Jacket](https://www.british-attire.com/collections/barbour-international-duke-jacket): Shop the Barbour Duke jacket at British Attire. The waxed cotton International icon, from the classic to the 90th anniversary edition. Built to be re-waxed for years.
-  Updated: 2026-10-12T11:44:55Z
+  Updated: 2026-10-20T11:40:37Z
   Total Products: 11
 - [Fjällräven](https://www.british-attire.com/collections/fjallraven): Shop Fjällräven at British Attire, including jackets, outdoor clothing, backpacks and accessories built around durable Swedish design and G-1000 fabric.
-  Updated: 2026-10-13T11:35:00Z
+  Updated: 2026-10-21T11:34:48Z
   Total Products: 121
 - [HOFF](https://www.british-attire.com/collections/hoff)
-  Updated: 2026-10-11T11:34:01Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 5
 - [Fred Perry](https://www.british-attire.com/collections/fred-perry): Shop Fred Perry clothing at British Attire, including polo shirts, knitwear, jackets and accessories from one of Britain’s most recognisable sportswear brands.
-  Updated: 2026-10-14T11:47:59Z
-  Total Products: 52
+  Updated: 2026-10-21T11:34:48Z
+  Total Products: 53
 - [The Heritage Edit](https://www.british-attire.com/collections/the-heritage-edit): Shop heritage clothing for men and women from Barbour, Cheaney, Holland Cooper, Joules, Ariat and Hunter, curated by British Attire.
-  Updated: 2026-10-14T11:59:38Z
-  Total Products: 2866
+  Updated: 2026-10-21T15:06:04Z
+  Total Products: 2887
 - [The Contemporary Edit](https://www.british-attire.com/collections/the-contemporary-edit): Shop contemporary style for men and women from Paul Smith, Belstaff, Dr. Martens, Barbour International and more. Current, considered and built to last.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 2158
+  Updated: 2026-10-21T11:58:05Z
+  Total Products: 2159
 - [The Utility Edit](https://www.british-attire.com/collections/the-utility-edit): Shop hard-wearing boots, bags, gloves and outdoor gear from Filson, Red Wing, Blundstone, Hestra, Ruffwear and more. Built to be used properly.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:56:23Z
   Total Products: 330
 - [The Outdoor Edit](https://www.british-attire.com/collections/the-outdoor-edit): Here, we champion the gear made for getting out there, because life tends to feel better when you’re slightly out of breath, questioning your choices. Expect the greats: 66°North, Montane, Peak Performance and Dakine, plus a bevvy of other backcountry beauties, zipped, drawn and lined up ready for action. Think technical, lightweight, trail-ready and designed to keep you comfortable when the elements start getting cocky. We’re not saying you need an expedition beard or a windswept plait, but neither would hurt.
-  Updated: 2026-10-14T13:07:50Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 892
 - [Shadow Tartan by Barbour](https://www.british-attire.com/collections/shadow-tartan-by-barbour): Shop the Barbour Shadow Tartan collection at British Attire, featuring a muted take on the iconic Classic Tartan across clothing and accessories for colder months.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 34
 - [Tartan by Barbour](https://www.british-attire.com/collections/barbour-tartan): Shop Barbour tartan: wax and quilted jackets with tartan linings, tartan shirts, scarves, bags and dog accessories in Classic, Ancient and Dress tartans.
-  Updated: 2026-10-14T11:48:07Z
-  Total Products: 116
+  Updated: 2026-10-21T14:27:35Z
+  Total Products: 115
 - [Wax Jackets by Barbour](https://www.british-attire.com/collections/barbour-wax-jackets): Shop Barbour wax jackets for men and women: Bedale, Beaufort, Beadnell, Ashby and more in classic waxed cotton, made to be rewaxed and worn for decades.
-  Updated: 2026-10-14T11:48:07Z
+  Updated: 2026-10-21T11:34:50Z
   Total Products: 76
+- [Department: Waxed Cotton](https://www.british-attire.com/collections/waxed-jackets-clothing-and-accessories): Shop waxed cotton jackets, coats and accessories for men and for women. Water-resistant, timeless style that only gets better with age. Free UK delivery over £75.
+  Updated: 2026-10-21T11:34:50Z
+  Total Products: 243
 
 ## Store Pages
 
@@ -2622,15 +2640,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.british-attire.com/policies/privacy-policy)
-  Updated: 2026-03-23T11:12:13+00:00
+  Updated: 2026-03-23T11:12:13Z
 - [Shipping Policy](https://www.british-attire.com/policies/shipping-policy)
-  Updated: 2026-05-27T20:17:43+01:00
+  Updated: 2026-05-27T19:17:43Z
 - [Refund Policy](https://www.british-attire.com/policies/refund-policy)
-  Updated: 2026-05-27T19:24:37+01:00
+  Updated: 2026-05-27T18:24:37Z
 - [Terms of Service](https://www.british-attire.com/policies/terms-of-service)
-  Updated: 2026-03-30T10:58:35+01:00
+  Updated: 2026-03-30T09:58:35Z
 - [Contact Information](https://www.british-attire.com/policies/contact-information)
-  Updated: 2026-06-24T09:51:41+01:00
+  Updated: 2026-06-24T08:51:41Z
 
 ## Optional
 
