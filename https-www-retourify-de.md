@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-10-07T00:00:32.054Z
+- Updated At: 2026-10-22T00:00:56.156Z
 
 ## Products
 
@@ -155,13 +155,13 @@
   - [5-er Set](https://www.retourify.de/products/post-it-z-notes-abroller-schwarz-inkl-1-block-super-sticky-z-notes-neuware?variant=45235873743112)
     Availability: Available
     Price: 19,95 € EUR
-- [Posten Weihnachtdsekoration / Neuware + B-Ware gemischt gegen Preisvorschlag günstig bei Retourify aus Bamberg](https://www.retourify.de/products/posten-weihnachtsekoration-neuware-b-ware-gemischt): Posten Weihnachtdsekoration / Neuware + B-Ware gemischt gegen Preisvorschlag hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-09-28T12:26:48Z
+- [Weihnachtsdeko Restposten Palette 55 Boxen B-Ware kaufen | Retourify](https://www.retourify.de/products/posten-weihnachtsekoration-neuware-b-ware-gemischt): Weihnachtsdeko-Restposten für Gewerbe: 55 nummerierte Deko-Boxen auf einer Palette, Inhalt mit Fotos dokumentiert. Lieferung per Spedition.
+  Updated: 2026-10-19T21:29:09Z
   Vendor: Retourify
   Product Type: Postenware Paletten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/posten-weihnachtdsekoration-neuware-b-ware-gemischt-gegen-preisvorschlag-3011152.jpg?v=1758788333
-  Price: 400,00 € EUR
+  Price: 479,00 € EUR
 - [Blomus HEXA Schale Eiche hellbraun B-Ware | Retourify](https://www.retourify.de/products/blomus-hexa-schale-schussel-schalchen-eiche-hellbraun-b-ware): Blomus HEXA Schale aus Eiche in hellbraunem Ton, geprüfte B-Ware – dekorativ & praktisch. Jetzt günstig bei Retourify sichern!
   Updated: 2026-09-29T20:23:46Z
   Vendor: Blomus
@@ -257,256 +257,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gewurzregal-edelstahl-55-x-40-x-125-cm-b-ware-6403210.jpg?v=1758788323
   Price: 15,95 € EUR
-- [Weihnachtsdeko Mysterybox Set B-Ware kaufen | Retourify](https://www.retourify.de/products/mysterybox-weihnachtsdekoration-neuware-und-sehr-gute-b-ware): Weihnachtsdeko-Mysterybox mit Sets ab 25€, gemischt aus Neuware & geprüfter B-Ware. Großer Preisvorteil garantiert!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Retourify
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachsdeko-mysterybox-mischboxen-set-10-bis-69-sets-neuware-und-sehr-gute-b-ware-8558286.jpg?v=1764247265
-  - [25 Euro](https://www.retourify.de/products/mysterybox-weihnachtsdekoration-neuware-und-sehr-gute-b-ware?variant=50361297338632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachsdeko-mysterybox-mischboxen-set-10-bis-69-sets-neuware-und-sehr-gute-b-ware-6436599.jpg?v=1758788564
-    Price: 25,00 € EUR
-  - [40 Euro versandfrei!](https://www.retourify.de/products/mysterybox-weihnachtsdekoration-neuware-und-sehr-gute-b-ware?variant=50361297371400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachsdeko-mysterybox-mischboxen-set-10-bis-69-sets-neuware-und-sehr-gute-b-ware-9607428.jpg?v=1758788433
-    Price: 40,00 € EUR
-  - [50 Euro versandfrei!](https://www.retourify.de/products/mysterybox-weihnachtsdekoration-neuware-und-sehr-gute-b-ware?variant=50403181396232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachsdeko-mysterybox-mischboxen-set-10-bis-69-sets-neuware-und-sehr-gute-b-ware-3034823.jpg?v=1758788480
-    Price: 50,00 € EUR
-  - [69 Euro versandfrei!](https://www.retourify.de/products/mysterybox-weihnachtsdekoration-neuware-und-sehr-gute-b-ware?variant=50361297404168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachsdeko-mysterybox-mischboxen-set-10-bis-69-sets-neuware-und-sehr-gute-b-ware-9081743.jpg?v=1758788561
-    Price: 69,00 € EUR
-- [Weihnachtsdeko Fertigset 25€ B-Ware | Retourify](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware): Weihnachtsdeko-Fertigset für 25€, gemischt aus Neuware & geprüfter B-Ware – deutliche Preisersparnis. Jetzt entdecken!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Retourify
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3906682.jpg?v=1758788429
-  - [25-2](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413297631496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-5431618.jpg?v=1758788439
-    Price: 12,50 € EUR
-  - [25-3](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413420642568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-9188129.jpg?v=1758788328
-    Price: 12,50 € EUR
-  - [25-4](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413745668360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-6677746.jpg?v=1758788474
-    Price: 12,50 € EUR
-  - [25-5](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413745701128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-7208694.jpg?v=1758788436
-    Price: 12,50 € EUR
-  - [25-6](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413745733896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-8155223.jpg?v=1758788327
-    Price: 12,50 € EUR
-  - [25-7](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413745766664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-2907546.jpg?v=1758788474
-    Price: 12,50 € EUR
-  - [25-8](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50413745799432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-9681539.jpg?v=1758788438
-    Price: 12,50 € EUR
-  - [25-9](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431269863688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-6355771.jpg?v=1758788330
-    Price: 12,50 € EUR
-  - [25-10](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431269896456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-3343084.jpg?v=1758788476
-    Price: 12,50 € EUR
-  - [25-11](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431269929224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-2827158.jpg?v=1758788435
-    Price: 12,50 € EUR
-  - [25-12](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431269961992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-7033388.jpg?v=1758788437
-    Price: 12,50 € EUR
-  - [25-13](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431269994760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-7214054.jpg?v=1758788328
-    Price: 12,50 € EUR
-  - [25-14](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50431270027528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-8831552.jpg?v=1758788329
-    Price: 12,50 € EUR
-  - [25-15](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439321190664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-4112814.jpg?v=1758788329
-    Price: 12,50 € EUR
-  - [25-16](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439321223432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-7745863.jpg?v=1758788438
-    Price: 12,50 € EUR
-  - [25-17](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439321256200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-2975490.jpg?v=1758788436
-    Price: 12,50 € EUR
-  - [25-18](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439321288968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-4156770.jpg?v=1758788474
-    Price: 12,50 € EUR
-  - [25-19](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439321321736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-1690604.jpg?v=1758788437
-    Price: 12,50 € EUR
-  - [25-20](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439609712904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-7841524.jpg?v=1758788328
-    Price: 12,50 € EUR
-  - [25-21](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439609745672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-2353236.jpg?v=1758788438
-    Price: 12,50 € EUR
-  - [25-22](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439609778440)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-8270279.jpg?v=1758788328
-    Price: 12,50 € EUR
-  - [25-23](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439609811208)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-5472129.jpg?v=1758788437
-    Price: 12,50 € EUR
-  - [25-24](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439710179592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-5947348.jpg?v=1758788475
-    Price: 12,50 € EUR
-  - [25-25](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware?variant=50439710212360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-25-euro-neuware-und-sehr-gute-b-ware-8413808.jpg?v=1758788477
-    Price: 12,50 € EUR
-- [Weihnachtsdeko Fertigset 40€ B-Ware | Retourify](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware): Weihnachtsdeko-Fertigset für 40€, gemischt aus Neuware & geprüfter B-Ware, versandfrei. Jetzt günstig entdecken!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Retourify
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3906682.jpg?v=1758788429
-  - [40-1](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50412823871752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-8278829.jpg?v=1758788355
-    Price: 20,00 € EUR
-  - [40-2](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50413422182664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-7681784.jpg?v=1758788356
-    Price: 20,00 € EUR
-  - [40-3](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50426641219848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-5467973.jpg?v=1758788355
-    Price: 20,00 € EUR
-  - [40-4](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50426641252616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-2791502.jpg?v=1758788353
-    Price: 20,00 € EUR
-  - [40-5](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50426641285384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-4012490.jpg?v=1758788356
-    Price: 20,00 € EUR
-  - [40-6](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50426641318152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-4061894.jpg?v=1758788354
-    Price: 20,00 € EUR
-  - [40-7](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50426641350920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-4100180.jpg?v=1758788354
-    Price: 20,00 € EUR
-  - [40-8](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50427067760904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-7863386.jpg?v=1758788355
-    Price: 20,00 € EUR
-  - [40-9](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware?variant=50427067793672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-40-euro-neuware-und-sehr-gute-b-ware-versandfrei-5203778.jpg?v=1758788353
-    Price: 20,00 € EUR
-- [Weihnachtsdeko Fertigset 69€ B-Ware | Retourify](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware): Weihnachtsdeko-Fertigset für 69€, gemischt aus Neuware & geprüfter B-Ware, versandfrei. Jetzt günstig entdecken!
-  Updated: 2026-10-05T14:10:21Z
-  Vendor: Retourify
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3906682.jpg?v=1758788429
-  - [69-1](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware?variant=50412826231048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-69-euro-neuware-und-sehr-gute-b-ware-versandfrei-3969419.jpg?v=1758788370
-    Price: 34,50 € EUR
-  - [69-2](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware?variant=50413427097864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-69-euro-neuware-und-sehr-gute-b-ware-versandfrei-8675384.jpg?v=1758788371
-    Price: 34,50 € EUR
-  - [69-4](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware?variant=50427660140808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-69-euro-neuware-und-sehr-gute-b-ware-versandfrei-1325945.jpg?v=1758788370
-    Price: 34,50 € EUR
-  - [69-5](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware?variant=50427660173576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-69-euro-neuware-und-sehr-gute-b-ware-versandfrei-4429461.jpg?v=1758788373
-    Price: 34,50 € EUR
-  - [69-7](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware?variant=50446893318408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-69-euro-neuware-und-sehr-gute-b-ware-versandfrei-5440008.jpg?v=1758788371
-    Price: 34,50 € EUR
-- [Weihnachtsdeko Fertigset 50€ B-Ware | Retourify](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei): Weihnachtsdeko-Fertigset für 50€, gemischt aus Neuware & geprüfter B-Ware, versandfrei. Jetzt günstig entdecken!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Retourify
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3906682.jpg?v=1758788429
-  - [50-1](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50412829737224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-5451650.jpg?v=1758788351
-    Price: 25,00 € EUR
-  - [50-2](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50413424673032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-9643536.jpg?v=1758788350
-    Price: 25,00 € EUR
-  - [50-3](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50413495124232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3663452.jpg?v=1758788351
-    Price: 25,00 € EUR
-  - [50-4](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50413495157000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-7832217.jpg?v=1758788428
-    Price: 25,00 € EUR
-  - [50-5](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50413495189768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-7144293.jpg?v=1758788429
-    Price: 25,00 € EUR
-  - [50-6](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427207516424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-9158564.jpg?v=1758788353
-    Price: 25,00 € EUR
-  - [50-7](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427207549192)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3658431.jpg?v=1758788352
-    Price: 25,00 € EUR
-  - [50-8](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427207581960)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3906729.jpg?v=1758788429
-    Price: 25,00 € EUR
-  - [50-9](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427416936712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-1044154.jpg?v=1758788429
-    Price: 25,00 € EUR
-  - [50-10](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427416969480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-2186242.jpg?v=1758788349
-    Price: 25,00 € EUR
-  - [50-11](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427417002248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-6746291.jpg?v=1758788352
-    Price: 25,00 € EUR
-  - [50-12](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427417035016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-4905223.jpg?v=1758788350
-    Price: 25,00 € EUR
-  - [50-13](https://www.retourify.de/products/weihnachsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei?variant=50427663089928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsdeko-fertigsets-mischboxen-fur-50-euro-neuware-und-sehr-gute-b-ware-versandfrei-3116367.jpg?v=1758788427
-    Price: 25,00 € EUR
 - [Sonderposten Restposten Geschenkbänder // Sofortkauf oder Preisvorschlag! // B-Ware günstig bei Retourify aus Bamberg](https://www.retourify.de/products/b-ware-sonderposten-restposten-weihnachtsdeko-sofortkauf-oder-preisvorschlag): Sonderposten Restposten Geschenkbänder // Sofortkauf oder Preisvorschlag! // B-Ware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
   Updated: 2026-09-30T17:55:44Z
   Vendor: Retourify
@@ -514,13 +264,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/sonderposten-restposten-geschenkbander-sofortkauf-oder-preisvorschlag-b-ware-8235029.jpg?v=1758788326
   Price: 39,95 € EUR
-- [Weihnachtsmann Teelicht Halter 20cm B-Ware | Retourify](https://www.retourify.de/products/b-ware-weihnachtsmann-teelicht-halter-dekoration-20-cm-hoch): Weihnachtsmann-Teelichthalter, 20 cm hoch, geprüfte B-Ware – festliche Dekoration für Dein Zuhause. Jetzt sichern!
-  Updated: 2026-10-05T14:10:21Z
-  Vendor: Gerd Rodemund GmbH & Co. KG
-  Product Type: Weihnachtsdekoration
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/b-ware-weihnachtsmann-teelicht-halter-dekoration-20-cm-hoch-9003647.jpg?v=1758788346
-  Price: 9,95 € EUR
 - [Colorus Tape Plus Dreierset Neuware kaufen | Retourify](https://www.retourify.de/products/dreierset-colourus-tape-plus-uv-abdeckfolie-fur-malerarbeiten-210-cm-x-20-meter-neuware): Colorus Tape Plus UV-Abdeckfolie, Dreierset 210cm x 20m für Malerarbeiten, Neuware. Jetzt günstig bei Retourify sichern!
   Updated: 2026-09-30T13:20:18Z
   Vendor: Colorus
@@ -695,13 +438,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/xiaomi-mi-akkusauger-staubsauger-g9-ersatzteile-sonderposten-gebraucht-8600936.jpg?v=1758787370
     Price: 29,95 € EUR
-- [Meliconi Wäschetrocknersäulen-Set L60 B-Ware | Retourify](https://www.retourify.de/products/meliconi-base-torre-pro-l60-waschetrocknersaulen-set-tuv-sud-gepruft-b-ware): Meliconi Base Torre Pro L60 Wäschetrocknersäulen-Set, TÜV-geprüft, B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:32:33Z
-  Vendor: Meliconi
-  Product Type: Waschmaschinenzubehör
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/meliconi-base-torre-pro-l60-waschetrocknersaulen-set-tuv-sud-gepruft-b-ware-1027135.jpg?v=1758787329
-  Price: 39,95 € EUR
 - [Pentair Flotec Compac 150 Pumpe B-Ware | Retourify](https://www.retourify.de/products/pentair-flotec-compac-150-klarwasser-pumpe-kompakt-leistungsstark-b-ware): Pentair Flotec Compac 150 Klarwasserpumpe, TÜV/GS-geprüft, B-Ware. Jetzt günstig bei Retourify sichern!
   Updated: 2026-09-29T20:32:34Z
   Vendor: Pentair Flotec
@@ -1160,7 +896,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/61-15R6OtoL._AC_SL1417.jpg?v=1762004163
   Price: 14,89 € EUR
 - [Eglo Pallante Deckenlampe Neuware | Retourify](https://www.retourify.de/products/eglo-pallante-deckenleuchte-1800-lumen-neu): Eglo Pallante Deckenlampe, 1800 Lumen, modernes Lichtdesign, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-05T13:30:22Z
+  Updated: 2026-10-11T13:29:20Z
   Vendor: Eglo
   Product Type: Haus und Garten
   Availability: Available
@@ -1173,13 +909,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/5ca6f991d925fdb6ca3f4001f422c5c4-Kopie-Photoroom_05fa9ab3-c257-4562-a1de-e6de920aa32d.jpg?v=1762099882
   Price: 15,95 € EUR
-- [Spice Soul Multifunktionsschneider B-Ware | Retourify](https://www.retourify.de/products/spice-soul-by-kaufland-multifunktionsschneider-b-ware): Spice & Soul by Kaufland Multifunktionsschneider für Gemüse, Obst & Käse, geprüfte B-Ware. Jetzt sichern!
-  Updated: 2026-10-05T13:14:17Z
-  Vendor: Kaufland
-  Product Type: Haushalt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/dec3c4ca7d43539dde158a9caf1d6174-Photoroom_1.jpg?v=1762100779
-  Price: 9,95 € EUR
 - [Garvida Knieschoner Garten 2er-Set Neuware | Retourify](https://www.retourify.de/products/garvida-knieschoner-waschbar-neuware): Garvida Knieschoner für den Garten, 2er-Set, waschbar mit Memory-Schaum, Neuware. Jetzt günstig sichern!
   Updated: 2026-10-05T14:38:09Z
   Vendor: Garvida
@@ -1222,195 +951,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/24df1229-834e-46e2-a483-9e8ddf447d00_1920x1920-Photoroom.jpg?v=1763463272
   Price: 74,93 € EUR
-- [Deko-Schnee 1 Liter B-Ware kaufen | Retourify](https://www.retourify.de/products/deko-schnee-1-liter-100-aus-nachwachsenden-rohstoffen-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie): Deko-Schnee, 1 Liter, aus nachwachsenden Rohstoffen, geprüfte B-Ware für weihnachtliche Deko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Gerd Rodermund GmbH & Co. KG
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143339.jpg?v=1763996453
-  Price: 2,00 € EUR
-- [3er Set Deko Fäustlinge B-Ware | Retourify](https://www.retourify.de/products/3er-set-deko-faustlinge-kunststoff-durchm-0-5-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie): 3er Set Deko-Fäustlinge aus Kunststoff, geprüfte B-Ware – charmantes Detail für die Weihnachtsdeko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143359_fe53c3b6-21ff-4501-a3ab-6d10df942ab1.jpg?v=1763997114
-  Price: 2,00 € EUR
-- [Weihnachtsstern Deko 25x25cm B-Ware | Retourify](https://www.retourify.de/products/weihnachtsstern-ca-25-x-25-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie-kopie): Weihnachtsstern-Deko, ca. 25x25 cm, geprüfte B-Ware – stimmungsvoller Blickfang. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:10:22Z
-  Vendor: Retourify e. K.
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143405_eb5dedca-5228-431a-9232-7cd9435f1d5f.jpg?v=1763997160
-  Price: 2,00 € EUR
-- [6er Set Dekoherzen 4cm B-Ware | Retourify](https://www.retourify.de/products/6er-set-dekoherzen-ca-4-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie-kopie-kopie): 6er Set Dekoherzen, ca. 4 cm, geprüfte B-Ware – charmantes Detail für die Weihnachtsdeko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:24Z
-  Vendor: Yancheng Glasball  Co. Ltd.
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143411_fae78546-aad9-4182-ab40-f873eaa1741e.jpg?v=1764005042
-  Price: 2,00 € EUR
-- [Christbaumkugeln klein goldfarben B-Ware | Retourify](https://www.retourify.de/products/christbaumkugeln-klein-goldfarben-mind-20-stck-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie-kopie-kopie-kopie-kopie): Christbaumkugeln klein, goldfarben, mind. 20 Stück, geprüfte B-Ware. Klassischer Baumschmuck. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: NoName
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143424.jpg?v=1764005144
-  Price: 2,00 € EUR
-- [Christbaumkugeln klein weiß B-Ware | Retourify](https://www.retourify.de/products/christbaumkugeln-klein-silberfarben-mind-20-stck-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie-kopie-kopie-kopie-kopie-kopie): Christbaumkugeln klein, weiß, mind. 20 Stück, geprüfte B-Ware. Klassischer Baumschmuck. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: NoName
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143431.jpg?v=1764005182
-  Price: 2,00 € EUR
-- [Dekostab Zauberstab Weihnachtsstern B-Ware | Retourify](https://www.retourify.de/products/dekostab-zauberstag-weihnachtsstern-50-cm-holz-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): Dekostab Zauberstab "Weihnachtsstern", 50cm, Holz, geprüfte B-Ware. Hübsches Deko-Detail. Jetzt sichern!
-  Updated: 2026-10-05T14:10:21Z
-  Vendor: Retourify e. K.
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143502.jpg?v=1764005267
-  Price: 2,00 € EUR
-- [Dekostab Zauberstab Tannenbaum B-Ware | Retourify](https://www.retourify.de/products/dekostab-zauberstag-tannenbaum-50-cm-holz-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): Dekostab Zauberstab "Tannenbaum", 50cm, Holz, geprüfte B-Ware. Hübsches Deko-Detail. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Retourify e. K.
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_143739.jpg?v=1764005290
-  Price: 2,00 € EUR
-- [2x Keksbox Karton B-Ware kaufen | Retourify](https://www.retourify.de/products/2x-keksbox-aus-karton-lebensmittelgeeignet-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): 2x Keksbox aus Karton, lebensmittelgeeignet, geprüfte B-Ware. Ideal zum Verpacken & Verschenken. Jetzt sichern!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150737.jpg?v=1764077303
-  Price: 2,00 € EUR
-- [Christbaumkugel Set schwarz B-Ware | Retourify](https://www.retourify.de/products/christbaumkugel-set-klein-schwarz-matt-und-glanzend-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie-kopie-kopie-kopie): Christbaumkugel-Set klein, schwarz matt & glänzend gemischt, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150107.jpg?v=1764005726
-  Price: 3,00 € EUR
-- [Christbaumkugel Set goldfarben B-Ware | Retourify](https://www.retourify.de/products/christbaumkugel-set-klein-goldfarben-matt-und-glanzend-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): Christbaumkugel-Set klein, goldfarben matt & glänzend gemischt, geprüfte B-Ware. Jetzt sichern!
-  Updated: 2026-10-05T14:10:22Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150019.jpg?v=1764005545
-  Price: 3,00 € EUR
-- [Christbaumkugeln Herz 9er Set B-Ware | Retourify](https://www.retourify.de/products/christbaumkugeln-herz-9-er-set-matt-weiss-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): 9er Set herzförmige Christbaumkugeln, mattes Weiß, geprüfte B-Ware. Stilvolle Baumdeko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150044.jpg?v=1764005657
-  Price: 3,00 € EUR
-- [Christbaumkugel Cappuchino Echtglas B-Ware | Retourify](https://www.retourify.de/products/christbaumkugel-cappuchino-echtglas-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): Christbaumkugel "Cappuchino" aus Echtglas, geprüfte B-Ware – edles Detail für den Weihnachtsbaum. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150128.jpg?v=1764005758
-  Price: 3,00 € EUR
-- [Christbaumkugeln Tropfen 4er Set B-Ware | Retourify](https://www.retourify.de/products/4er-set-christbaumkugeln-tropfen-durchm-6-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): 4er Set Christbaumkugeln "Tropfen", 6cm Durchmesser, geprüfte B-Ware. Elegante Baumdeko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150148.jpg?v=1764006095
-  Price: 3,00 € EUR
-- [Christbaumkugeln Stern 6er Set B-Ware | Retourify](https://www.retourify.de/products/6er-set-christbaumkugeln-stern-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): 6er Set sternförmige Christbaumkugeln, geprüfte B-Ware – festliche Baumdekoration. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:10:21Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150227.jpg?v=1764006144
-  Price: 3,00 € EUR
-- [Christbaum Aufhänger Herz Holz B-Ware | Retourify](https://www.retourify.de/products/2er-christbaumkugeln-herz-holz-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): 2er Set herzförmige Christbaum-Aufhänger aus Holz, geprüfte B-Ware. Natürliches Deko-Detail. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150234.jpg?v=1764006212
-  Price: 3,00 € EUR
-- [Christbaumkugeln Stern 8er Set B-Ware | Retourify](https://www.retourify.de/products/8er-christbaumkugeln-stern-matt-und-glanzend-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): 8er Set sternförmige Christbaumkugeln, matt & glänzend gemischt, geprüfte B-Ware. Jetzt sichern!
-  Updated: 2026-10-05T14:10:21Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_150248.jpg?v=1764006250
-  Price: 3,00 € EUR
-- [Schneematte 1x1m Neuware kaufen | Retourify](https://www.retourify.de/products/schneematte-1m-x-1m-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): Schneematte, 1m x 1m, Neuware – winterliche Deko-Unterlage für Weihnachtsbaum & Krippe. Jetzt sichern!
-  Updated: 2026-10-05T14:10:31Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251124_151039.jpg?v=1764009091
-  Price: 10,00 € EUR
-- [Weihnachtsfigur Fliegenpilz Neuware | Retourify](https://www.retourify.de/products/weihnachtsfigur-glucksbringer-fliegenpilz-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): Weihnachtsfigur Glücksbringer "Fliegenpilz", ca. 5cm, Neuware – hübsches Detail für Gestecke. Jetzt sichern!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180139-Photoroom.jpg?v=1764236757
-  Price: 0,50 € EUR
-- [Weihnachtsfigur Schweinchen 4er B-Ware | Retourify](https://www.retourify.de/products/weihnachtsfigur-glucksbringer-fliegenpilz-ca-5-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie): 4x Weihnachtsfigur Glücksbringer "Schweinchen", ca. 3cm, geprüfte B-Ware. Niedliche Mini-Deko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180109-Photoroom.jpg?v=1764236756
-  Price: 0,50 € EUR
-- [Weihnachtsfigur Schweinchen liegend B-Ware | Retourify](https://www.retourify.de/products/weihnachtsfigur-glucksbringer-schweinchen-liegend-ca-4-5-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): Weihnachtsfigur Glücksbringer "Schweinchen liegend", ca. 4,5cm, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:10:26Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180124-Photoroom.jpg?v=1764236757
-  Price: 0,50 € EUR
-- [Geschenktüte Weihnachtsmann 18cm B-Ware | Retourify](https://www.retourify.de/products/geschenktute-weihnachtsmann-ca-18-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): Geschenktüte "Weihnachtsmann", ca. 18cm, geprüfte B-Ware – hübsche Verpackung für kleine Präsente. Jetzt sichern!
-  Updated: 2026-10-05T14:10:29Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180520-Photoroom.jpg?v=1764237748
-  Price: 1,00 € EUR
-- [Dekosterne grün 6er Set B-Ware | Retourify](https://www.retourify.de/products/geschenktute-weihnachtsmann-ca-18-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-1): Dekosterne, 6 Stück, grün mit Glitzer-Effekt, ca. 3cm, geprüfte B-Ware. Funkelnde Weihnachtsdeko. Jetzt sichern!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180507-Photoroom.jpg?v=1764237748
-  Price: 1,00 € EUR
-- [Dekosterne schwarz 8er Set B-Ware | Retourify](https://www.retourify.de/products/dekosterne-8-stuck-schwarz-glitzer-ca-4-5-cm-weihnachtsdeko-abverkauf-top-neuware-und-b-ware): Dekosterne, 8 Stück, schwarz mit Glitzer-Effekt, ca. 4,5cm, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:10:27Z
-  Vendor: Newstor
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251127_112619-Photoroom.jpg?v=1764239649
-  Price: 1,00 € EUR
-- [Ersatzbirnen Weihnachtsbeleuchtung B-Ware | Retourify](https://www.retourify.de/products/ersatzbirnen-nr-70239-fur-weihnachtsbeleuchtung-48v-3-watt-fur-geroma-nr-5-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie): Ersatzbirnen Nr. 70239 für Weihnachtsbeleuchtung, 48V/3 Watt, passend für Geroma Nr. 5, geprüfte B-Ware.
-  Updated: 2026-10-05T14:21:29Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/70239.jpg?v=1764248816
-  Price: 1,00 € EUR
-- [Geroma Glitter Dose 7 Gramm Silber / Nr. 77653 / Weihnachtsdeko Abverkauf / TOP Neuware und B Ware (Kopie) günstig bei Retourify aus Bamberg](https://www.retourify.de/products/geroma-glitter-dose-7-gramm-silber-nr-77653-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie): Geroma Glitter Dose 7 Gramm Silber / Nr. 77653 / Weihnachtsdeko Abverkauf / TOP Neuware und B Ware (Kopie) hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-10-05T14:10:28Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180452-Photoroom.jpg?v=1764237748
-  Price: 1,00 € EUR
-- [Geroma Glitter Dose Rot 7g B-Ware | Retourify](https://www.retourify.de/products/geroma-glitter-dose-7-gramm-rot-nr-7765501-weihnachtsdeko-abverkauf-top-neuware-und-b-ware-kopie-kopie): Geroma Glitter Dose, 7 Gramm, Rot, geprüfte B-Ware – feiner Glitzer zum Basteln & Dekorieren. Jetzt sichern!
-  Updated: 2026-10-05T14:10:31Z
-  Vendor: Geroma
-  Product Type: Weihnachtsdekoration Einzelartikel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251126_180443-Photoroom.jpg?v=1764237748
-  Price: 1,00 € EUR
 - [Gourmetmaxx Wasserkocher 11009 B-Ware | Retourify](https://www.retourify.de/products/gourmetmaxx-wasserkocher-11009-modernes-frostglas-design-top-b-ware): Gourmetmaxx Wasserkocher 11009 im modernen Frostglas-Design, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
   Updated: 2026-10-02T15:04:32Z
   Vendor: Gourmetmaxx
@@ -1533,13 +1073,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260123_144627.jpg?v=1769181892
   Price: 8,95 € EUR
-- [Ideal Standard WC-Sitz Connect Neuware | Retourify](https://www.retourify.de/products/wc-sitz-mit-absenkautomatik-ultraflach-ideal-standard-connect-neu): Ideal Standard WC-Sitz Connect mit Absenkautomatik, ultraflach, Neuware. Modernes Bad-Upgrade. Jetzt sichern!
-  Updated: 2026-09-29T20:59:48Z
-  Vendor: Ideal Standard
-  Product Type: Körperpflege
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260217_095041-Photoroom.png?v=1771320219
-  Price: 59,95 € EUR
 - [Wilkinson Vulcan BBQ Grillpfanne B-Ware | Retourify](https://www.retourify.de/products/wilkinson-vulcan-bbq-range-premium-edelstahl-sieb-b-ware-32-cm-durchmesser): Wilkinson Vulcan BBQ Edelstahl Grillpfanne, 2 Henkel, 32cm, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
   Updated: 2026-09-29T20:59:47Z
   Vendor: Wilkinson
@@ -1625,13 +1158,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/wfx-fitnessmatte-platesmatte-neu-pink-front.webp?v=1781004815
   Price: 16,95 € EUR
-- [Buddy the Budget Skeleton 175cm B-Ware | Retourify](https://www.retourify.de/products/buddy-the-budget-skeleton-b-ware): Buddy the Budget Skeleton, ca. 175cm, anatomisches Skelett-Modell, geprüfte B-Ware. Ideal für Schulungen.
-  Updated: 2026-10-02T15:10:54Z
-  Vendor: Amazon
-  Product Type: Schulungsequipment
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/buddy-the-budget-skeleton-b-ware-4.webp?v=1782130241
-  Price: 99,95 € EUR
 - [Maxxmee Jump-Ball-Set Outdoor Neuware | Retourify](https://www.retourify.de/products/maxxmee-jump-ball-set-outdor-fun-sportspiel-neuware): Maxxmee Jump-Ball-Set Outdoor Fun Sportspiel, 2-gegen-2, Neuware. Actiongeladener Spielspaß für die Familie.
   Updated: 2026-10-02T15:10:55Z
   Vendor: Maxxmee
@@ -1639,19 +1165,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/maxxmee-jumpball-set--3.webp?v=1782467899
   Price: 19,95 € EUR
-- [Eiswürfelmaschine SLIM01B B-Ware | Retourify](https://www.retourify.de/products/eiswurfelmaschine-slim01b-b-ware): Eiswürfelmaschine SLIM01B, einfache Bedienung, pflegeleicht, geprüfte B-Ware. Frische Eiswürfel im Handumdrehen.
-  Updated: 2026-10-02T15:10:56Z
-  Vendor: SILONN
-  Product Type: Eiswürfelmaschine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/silonn-im01b-b-ware-3silonn-im01b-b-ware-3.png?v=1782722728
-  Price: 49,95 € EUR
-[List Continued](https://www.retourify.de/a/llms-agent/llms.txt?shop=retourify.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMjA1NzgzMjEyODc3NiwibGFzdF92YWx1ZSI6IjEyMDU3ODMyMTI4Nzc2In0%3D)
+[List Continued](https://www.retourify.de/a/llms-agent/llms.txt?shop=retourify.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMjA1MTcyMDUwMzU2MCwibGFzdF92YWx1ZSI6IjEyMDUxNzIwNTAzNTYwIn0%3D)
 
 ## Collections
 
 - [Haushalt Elektro](https://www.retourify.de/collections/haushalt-elektro): Elektro-Retourenware & B-Ware für die Küche und den Haushalt – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-02T15:04:33Z
+  Updated: 2026-10-20T11:14:11Z
   Total Products: 26
 - [Freizeit - Spiel und Spaß](https://www.retourify.de/collections/freizeit): Freizeitartikel und Spielwaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T15:04:34Z
@@ -1660,7 +1179,7 @@
   Updated: 2026-10-02T15:04:33Z
   Total Products: 14
 - [_Einrichtung - Bad](https://www.retourify.de/collections/einrichtung-bad): Platzmangel und fehlende Funktionalität im Bad? Mit unserer Einrichtung - Bad kollektion gestaltest Du nachhaltige, preiswerte Bäder mit smarter Raumnutzung. Jetzt bei Retourify!
-  Updated: 2026-09-30T05:55:42Z
+  Updated: 2026-10-20T11:14:11Z
   Total Products: 4
 - [_Fanartikel - Stuff - Merch](https://www.retourify.de/collections/sport-fanartikel-stuff-merch): Fanartikel aus dem Bereich Sport Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:45:37Z
@@ -1678,13 +1197,13 @@
   Updated: 2026-10-02T15:04:32Z
   Total Products: 44
 - [Körperpflege Wellness](https://www.retourify.de/collections/koerperpflege-wellness): Körperpflege- und Wellnessprodukte als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-02T15:04:34Z
+  Updated: 2026-10-11T11:13:50Z
   Total Products: 12
 - [_Bekleidung und Accessoires](https://www.retourify.de/collections/bekleidung): Modische Accessoires neu oder als B Ware bei Retourify. Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:47:05Z
   Total Products: 0
 - [Das Neueste im Shop...](https://www.retourify.de/collections/das-neueste): Nach nachhaltigen, preisbewussten Lösungen suchst Du? Unsere Kollektion „Das Neueste im Shop...“ bietet geprüfte Retourenware mit hoher Qualität und Design. Entdecke jetzt bei Retourify Deine Bezugsquelle für nachhaltige Schnäppchen!
-  Updated: 2026-10-02T14:34:09Z
+  Updated: 2026-10-13T11:28:43Z
   Total Products: 34
 - [Dekoration und Basteln](https://www.retourify.de/collections/dekoration-basteln): Dekoartikel und Bastelbedarf als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T15:04:31Z
@@ -1699,7 +1218,7 @@
   Updated: 2026-10-02T15:04:34Z
   Total Products: 7
 - [Bürogeräte - Büroartikel](https://www.retourify.de/collections/buero): Bürogeräte und Büroartikel als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-03T11:17:45Z
+  Updated: 2026-10-12T11:20:26Z
   Total Products: 12
 - [_Gaming](https://www.retourify.de/collections/gaming): Frustriert von hohen Kosten und schneller Technikveraltung? Mit unserer Gaming-Kollektion findest Du nachhaltige, preiswerte Gaming-Alternativen. Jetzt bei Retourify sichern!
   Updated: 2026-08-27T11:21:44Z
@@ -1714,7 +1233,7 @@
   Updated: 2026-09-16T09:07:19Z
   Total Products: 10
 - [Weihnachten - Allerlei](https://www.retourify.de/collections/weihnachten): Stöbere in unserem Onlineshop nach Weihnachtsdeko: Neuware & Top B-Ware zu attraktiven Preisen. Jetzt festliche Weihnachtsdekoration online kaufen / Retourify
-  Updated: 2026-10-01T12:47:35Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 39
 - [a_Rabattartikel](https://www.retourify.de/collections/a_rabattartikel)
   Updated: 2026-10-02T15:04:33Z
@@ -1732,10 +1251,10 @@
   Updated: 2026-10-02T15:04:32Z
   Total Products: 6
 - [_Postenware Paletten](https://www.retourify.de/collections/paletten-postenware): Probleme mit überteuerten Angeboten und unnötiger Verschwendung? Spare nachhaltig mit unseren Postenware Paletten, entdecke vielfältige B Ware. Nur bei Retourify!
-  Updated: 2026-09-16T09:07:19Z
+  Updated: 2026-10-19T09:33:15Z
   Total Products: 1
 - [_Alle Artikel aus Wohnen](https://www.retourify.de/collections/wohnen): Alles für ein gemütliches Zuhause... innen und außen! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-02T14:11:48Z
+  Updated: 2026-10-19T07:15:53Z
   Total Products: 11
 - [_Alle Artikel aus Saisonales](https://www.retourify.de/collections/alle-artikel-aus-saisonales): Alles für Ihre schönste Jahreszeit! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:41:14Z
@@ -1831,7 +1350,7 @@
   Updated: 2026-09-08T09:33:26Z
   Total Products: 6
 - [_Hausdekoration innen](https://www.retourify.de/collections/hausdekoration-innen): Probleme mit unpersönlicher Innendekoration? Mit unserer Hausdekoration innen gestaltest du nachhaltig und preiswert dein Zuhause. Jetzt bei Retourify sichern!
-  Updated: 2026-10-03T11:17:45Z
+  Updated: 2026-10-21T15:17:49Z
   Total Products: 9
 - [_Hausdekoration außen](https://www.retourify.de/collections/hausdekoration-aussen): Werten Sie Ihr Zuhause auf... mit schöner Außendekoration. Günstig als B Ware von Retourify Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:45:37Z
@@ -1879,7 +1398,7 @@
   Updated: 2026-08-07T09:45:52Z
   Total Products: 0
 - [Mysterysets Weihnachten](https://www.retourify.de/collections/mysteryboxen): Lass Dich überraschen Tolle Produkte aus unseren Lieferungen für kleines Geld! Du sparst deutlich im Vergleich zu einer Einzelbestellung! Verschiedene Preisstaffelungen, immer aus einer unserer Rubriken. Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-01T12:47:35Z
+  Updated: 2026-10-21T15:17:39Z
   Total Products: 8
 - [_Pavillons](https://www.retourify.de/collections/pavillons): Pavillons aus Retouren und Sonderverkäufen. Geprüft und für gut befunden. Natürlich hier bei Retourify Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:45:52Z
@@ -1903,7 +1422,7 @@
   Updated: 2026-08-07T09:45:37Z
   Total Products: 0
 - [_Sonderposten: Gib Deinen Preisvorschlag ab!](https://www.retourify.de/collections/top-angebote-mit-preisvorschlagen): Preise sind oft zu hoch? Mit unseren Sonderposten: Gib Deinen Preisvorschlag ab! Spare clever bei Retourenware und B-Ware, während du fair und transparent einkaufst. Nutze jetzt die Chance bei Retourify!
-  Updated: 2026-09-30T05:55:42Z
+  Updated: 2026-10-19T09:33:15Z
   Total Products: 8
 - [_Gartenleuchten und Laternen](https://www.retourify.de/collections/gartenleuchten-und-laternen): Du suchst stimmungsvolle Außenbeleuchtung? Entdecke unsere Gartenleuchten und Laternen für nachhaltiges Licht und attraktive Preise. Jetzt bei Retourify!
   Updated: 2026-08-07T09:41:15Z
@@ -1948,7 +1467,7 @@
   Updated: 2026-08-07T09:45:38Z
   Total Products: 0
 - [Haushaltswaren](https://www.retourify.de/collections/haushaltswaren): Praktische Haushaltswaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-10-19T07:15:53Z
   Total Products: 22
 - [_Kochgeschirr](https://www.retourify.de/collections/kochgeschirr): Probleme beim Kochen? Mit unserem hochwertigen Kochgeschirr erlebst Du langlebige Pfannen und vielseitige Töpfe für kreative Küchenmomente. Jetzt bei Retourify!
   Updated: 2026-08-07T09:41:26Z
@@ -1999,28 +1518,28 @@
   Updated: 2026-10-04T11:14:03Z
   Total Products: 9
 - [_Preisupdates - täglich aktualisiert](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 229
 - [Optionize Add-ons](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 243
 - [All products](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 268
 - [_Weihnachtsdeko - Fertigsets](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
-  Updated: 2026-09-25T10:37:24Z
+  Updated: 2026-10-21T15:17:39Z
   Total Products: 5
 - [Gartendünger und Substrate](https://www.retourify.de/collections/gartendunger-und-substrate): Probleme bei der Nährstoffversorgung und Bodengesundheit? Mit unserem Gartendünger und Substrate. Sorge für gesundes Pflanzenwachstum und nachhaltige Pflege. Jetzt bei Retourify!
   Updated: 2026-09-16T09:07:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 243
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-10-21T15:21:03Z
   Total Products: 36
 - [Schnapper bis 5,- Euro](https://www.retourify.de/collections/schnapper-bis-5-euro): Nachhaltige B-Ware bis 5 Euro in unserer Schnapper bis 5,- Euro Kollektion. Beste Qualität ohne Kompromisse. Sichere dir jetzt clevere Schnäppchen bei Retourify!
-  Updated: 2026-10-01T12:47:35Z
+  Updated: 2026-10-21T15:17:54Z
   Total Products: 68
 - [Gastro- und Profi-Highlights](https://www.retourify.de/collections/gastro-und-profi-highlights)
   Updated: 2026-09-16T09:07:20Z
@@ -2034,6 +1553,9 @@
 - [Aktionsangebote - Versandkostenfrei!](https://www.retourify.de/collections/aktionsangebote-versandkostenfrei): Versandkostenfreie Aktionsangebote – Smarte Deals ohne Extrakosten! Willkommen in unserer Schnäppchen-Ecke für clevere Entscheider!
   Updated: 2026-10-02T14:35:01Z
   Total Products: 11
+- [B-Ware](https://www.retourify.de/collections/b-ware): Geprüfte B-Ware und Sonderposten stark reduziert – deutlich günstiger als Neuware, mit klarer Zustandsbeschreibung. Jetzt bei Retourify entdecken.
+  Updated: 2026-10-21T15:21:38Z
+  Total Products: 32
 - [Gebrauchtware und C-Ware](https://www.retourify.de/collections/gebrauchtware-und-c-ware): Stark reduzierte Gebrauchtware & C-Ware bei Retourify. Ehrlich beschriebene Mängel, geprüfte Funktion & maximale Ersparnis. Jetzt nachhaltig sparen!
   Updated: 2026-09-30T05:28:15Z
   Total Products: 13
@@ -2137,8 +1659,8 @@
 
 ## Store Pages
 
-- [Kontakt](https://www.retourify.de/pages/kontakt): Nimm gerne mit uns Kontakt auf. Wir antworten schnell und zuverlässig! Dein direkter Draht: Per Telefon: +49571-16992-80 Per Whatsapp: +49178-96194...
-  Updated: 2026-09-02T08:55:49Z
+- [Kontakt](https://www.retourify.de/pages/kontakt): Nimm gerne mit uns Kontakt auf. Wir antworten schnell und zuverlässig! Dein direkter Draht: Per Telefon: +49571-16992-80 Per Whatsapp (nur Textnach...
+  Updated: 2026-10-11T11:41:42Z
 - [Zahlungsarten & Versandkosten bei Retourify](https://www.retourify.de/pages/zahlung-und-versand): Zahlung und Versand Es gelten folgende Bedingungen: Die Lieferung erfolgt nur innerhalb Deutschlands. Versandkosten (inklusive gesetzlicher Mehrwer...
   Updated: 2026-09-15T15:27:29Z
 - [Batteriehinweise](https://www.retourify.de/pages/batteriehinweise): Hinweise zur Batterieentsorgung Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wi...
@@ -2189,15 +1711,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-10-06T05:08:15+02:00
+  Updated: 2026-10-21T01:50:12Z
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
-  Updated: 2026-09-15T17:32:45+02:00
+  Updated: 2026-09-15T15:32:45Z
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-10-01T18:50:44+02:00
+  Updated: 2026-10-15T20:22:36Z
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-10-01T18:46:56+02:00
+  Updated: 2026-10-15T20:19:30Z
 - [Contact Information](https://www.retourify.de/policies/contact-information)
-  Updated: 2023-05-05T15:40:01+02:00
+  Updated: 2023-05-05T13:40:01Z
 
 ## Optional
 
