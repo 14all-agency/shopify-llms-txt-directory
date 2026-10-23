@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-15T16:17:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-15T00:00:44.202Z
+- Updated At: 2026-10-23T00:44:02.005Z
 
 ## Products
 
 - [Bear Tee - Black](https://drinkporosos.store/products/por-osos-black-bear-t-shirt): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-10-09T23:00:46Z
+  Updated: 2026-10-18T10:58:42Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Por Osos™ Recovery Club™ Dickies Jacket](https://drinkporosos.store/products/por-osos-dickies-jacket): Por Osos exclusive Dickies jacket: Slash front welt pockets Heavy duty brass zipper front closure Adjustable tab at waistband Made of 65% polyester, 35% cotton vat dyed twill Size Neck Sleeve Length (in) Chest S 14 1/2 32 1/4 34-37 M 15 1/2 33 1/2 38-41 L 16 1/2 34 1/4 42-45 XL 17 1/2 35 46-49 2XL 18 1/2 35 3/4 50-53 3XL 19 1/2 36 1/2 54-57
-  Updated: 2026-10-06T17:11:05Z
+  Updated: 2026-10-16T15:33:31Z
   Vendor: Por Osos
   Product Type: Hoodie
   Availability: Available
@@ -114,14 +114,14 @@
     Availability: Available
     Price: $45.00 USD
 - [Double Osos Hat - Black](https://drinkporosos.store/products/double-osos-black-hat): New Era 2.0: with an increased crown depth and a flatter-sitting bill. Size L/XL, ranging from 7" to 7 3/4"! 100% polyester High-profile Structured Snapback closure
-  Updated: 2026-10-06T17:11:07Z
+  Updated: 2026-10-18T10:53:11Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/DoubleOsosHat.png?v=1729007776
   Price: $40.00 USD
 - [Vodka Cropped White Tee](https://drinkporosos.store/products/vodka-crop-tee): Made of 100% combed cotton Blank: ASColouor Wos Crop Tee 4062 5.3 oz./yd² 28-singles Size Chart Size Body Length (in) Chest Width (in) XS 12 1/4 18 3/4 S 17 3/4 19 3/4 M 18 1/4 20 3/4 L 18 3/4 21 3/4 XL 19 22 3/4 2XL 19 1/2 23 1/2
-  Updated: 2026-10-05T13:03:33Z
+  Updated: 2026-10-16T15:33:31Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -166,7 +166,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Double Osos Hat - Maroon/Gold](https://drinkporosos.store/products/tallahassee-osos-hat): Double Osos Hat in black with maroon and gold embroidery on front and side. One size fits most 80/20 acrylic/wool Structured, six-panel, high-profile Flat bill, sewn eyelets, snapback closure
-  Updated: 2026-10-05T13:03:34Z
+  Updated: 2026-10-20T23:01:25Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -180,7 +180,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POTALLAHASSEELOGOHAT.png?v=1754666470
   Price: $45.00 USD
 - [Bear Tee - Maroon](https://drinkporosos.store/products/tallahassee-black-bear-tee): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-10-09T23:00:45Z
+  Updated: 2026-10-18T10:53:17Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -210,27 +210,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POVODKACOTRUCKER.png?v=1763654387
   Price: $40.00 USD
-- [Patch Hat](https://drinkporosos.store/products/patch-hat): Por Osos Patch Hat in natural/walnut with patch on front and embroidery on back. 100% cotton, snapback closure
-  Updated: 2026-10-06T17:11:05Z
-  Vendor: Por Osos
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POPATCHHAT.png?v=1778779739
-  Price: $40.00 USD
 
 ## Collections
 
 - [Featured Products](https://drinkporosos.store/collections/frontpage)
-  Updated: 2026-10-10T11:17:42Z
+  Updated: 2026-10-20T11:18:30Z
   Total Products: 39
 - [Apparel](https://drinkporosos.store/collections/apparel)
   Updated: 2026-10-10T11:17:42Z
   Total Products: 22
 - [Accessories](https://drinkporosos.store/collections/accessories)
-  Updated: 2026-10-09T11:24:32Z
+  Updated: 2026-10-20T11:18:30Z
   Total Products: 17
 - [Hats](https://drinkporosos.store/collections/hats)
-  Updated: 2026-10-09T11:24:32Z
+  Updated: 2026-10-20T11:18:30Z
   Total Products: 13
 - [Music](https://drinkporosos.store/collections/music)
   Updated: 2026-07-08T21:44:42Z
@@ -251,8 +244,8 @@
   Updated: 2026-09-28T11:16:02Z
   Total Products: 4
 - [ALL](https://drinkporosos.store/collections/all)
-  Updated: 2026-10-10T11:17:42Z
-  Total Products: 13
+  Updated: 2026-10-20T11:18:30Z
+  Total Products: 12
 - [Just Added](https://drinkporosos.store/collections/just-added)
   Updated: 2026-10-07T11:18:45Z
   Total Products: 2
@@ -266,13 +259,13 @@
   Updated: 2026-07-30T19:25:53Z
   Total Products: 2
 - [Tallahassee Merch](https://drinkporosos.store/collections/tallahassee-merch)
-  Updated: 2026-10-10T11:17:42Z
+  Updated: 2026-10-20T11:18:30Z
   Total Products: 3
 - [UPSELL](https://drinkporosos.store/collections/upsell)
   Updated: 2026-09-11T11:17:00Z
   Total Products: 5
 - [POR OSOS PALOOZA](https://drinkporosos.store/collections/por-osos-palooza)
-  Updated: 2026-10-10T11:17:42Z
+  Updated: 2026-10-20T11:18:30Z
   Total Products: 21
 
 ## Store Pages
@@ -295,15 +288,15 @@
 ## Policies
 
 - [Privacy Policy](https://drinkporosos.store/policies/privacy-policy)
-  Updated: 2024-02-20T16:25:53-06:00
+  Updated: 2024-02-20T22:25:53Z
 - [Shipping Policy](https://drinkporosos.store/policies/shipping-policy)
-  Updated: 2024-02-20T16:25:53-06:00
+  Updated: 2024-02-20T22:25:53Z
 - [Refund Policy](https://drinkporosos.store/policies/refund-policy)
-  Updated: 2026-06-18T19:20:21-05:00
+  Updated: 2026-06-19T00:20:21Z
 - [Terms of Service](https://drinkporosos.store/policies/terms-of-service)
-  Updated: 2024-02-20T16:25:53-06:00
+  Updated: 2024-02-20T22:25:53Z
 - [Contact Information](https://drinkporosos.store/policies/contact-information)
-  Updated: 2024-02-20T16:25:53-06:00
+  Updated: 2024-02-20T22:25:53Z
 
 ## Optional
 
