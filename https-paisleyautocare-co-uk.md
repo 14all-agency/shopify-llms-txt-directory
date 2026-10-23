@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2020-02-25T10:19:46Z
 - Contact Email: support@paisleyautocare.com
-- Updated At: 2026-09-26T00:00:46.519Z
+- Updated At: 2026-10-23T00:50:39.611Z
 
 ## Products
 
 - [Major Service - | Paisley Autocare](https://paisleyautocare.co.uk/products/major-service): A major service is the highest level in terms of car servicing packages, some garages also call a major service a master service or a gold service. The overall check which is necessary after 24k miles of driving is important at this point because certain parts of the car will have experienced wear and tear over time.
-  Updated: 2026-09-13T21:04:17Z
+  Updated: 2026-10-13T19:33:07Z
   Vendor: Paisley Autocare LTD
   Product Type: 
   Availability: Available
@@ -50,7 +50,7 @@
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/products/ADAS-Camera-Calibration-CSC-Paisley-Autocare-LTD-1655382567.jpg?v=1736271421
   Price: £399.99 GBP
 - [Essential Motorcycle MOT Guide](https://paisleyautocare.co.uk/products/motorcycle-mot): Learn all about Motorcycle MOT requirements, benefits, and procedures to keep your ride safe and legal on the road.
-  Updated: 2026-09-21T16:24:21Z
+  Updated: 2026-10-19T08:20:56Z
   Vendor: Paisley Autocare LTD
   Product Type: MOT
   Availability: Available
@@ -74,8 +74,8 @@
   - [Zone 3](https://paisleyautocare.co.uk/products/vehicle-diagnostics?variant=55392161169787)
     Availability: Available
     Price: £92.00 GBP
-- [MOT Paisley - Paisley Autocare](https://paisleyautocare.co.uk/products/mot): Looking for MOT Paisley services that can stand against all challenges? Discover our superior and reliable MOT testing and inspection services today. Providing top-notch vehicle safety checks against all odds. We ensure your vehicle is roadworthy and safe.
-  Updated: 2026-09-22T11:35:33Z
+- [Class 4 MOT in Paisley | £39.99 | Paisley Autocare](https://paisleyautocare.co.uk/products/mot): Book a Class 4 MOT in Paisley for £39.99. VOSA- testing, qualified technicians, and a free retest subject to T&amp;Cs.
+  Updated: 2026-10-18T23:27:46Z
   Vendor: Paisley Autocare
   Product Type: MOT
   Availability: Available
@@ -92,8 +92,8 @@
   - [Zone 3 (£20)](https://paisleyautocare.co.uk/products/mot?variant=55388671050107)
     Availability: Available
     Price: £59.99 GBP
-- [Standard Service - Affordable Car Service Near You](https://paisleyautocare.co.uk/products/full-service): Book a reliable and affordable standard car service near you. Regular car maintenance will ensure your vehicle runs smoothly and prolong its lifespan. Schedule an appointment today.
-  Updated: 2026-09-22T11:35:28Z
+- [Standard Service | Car Service Every 12,000 Miles](https://paisleyautocare.co.uk/products/full-service): Book a Standard Service with OEM-spec parts and oil. Includes 12,000-mile checks, fluid top-ups, brakes, tyres, suspension and more.
+  Updated: 2026-10-16T11:28:37Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: £204.99 GBP
 - [Air Con Regas (R134A) - Paisley Autocare](https://paisleyautocare.co.uk/products/air-con-regas-r134a): Air Con Regas If you're like most people, you rely on your car to get you where you need to go. But what happens when your car's air conditioning stops working? It can be a major inconvenience, especially in the middle of summer. That's why it's important to keep your air con recharged and operating at peak efficiency.Car Air Con Regas offers a convenient online booking system
-  Updated: 2026-09-05T21:40:15Z
+  Updated: 2026-10-11T04:30:17Z
   Vendor: Cars up to 2017
   Product Type: 
   Availability: Available
@@ -135,7 +135,7 @@
     Availability: Available
     Price: £114.98 GBP
 - [Air Con Regas (R1234YF) - Paisley Autocare](https://paisleyautocare.co.uk/products/air-con-regas-r1234yf): Air Con Regas If you're like most people, you rely on your car to get you where you need to go. But what happens when your car's air - Paisley Autocare
-  Updated: 2026-09-05T21:40:15Z
+  Updated: 2026-10-11T04:30:31Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: £129.99 GBP
 - [Air with Service: Professional Air Con Service (R1234YF)](https://paisleyautocare.co.uk/products/air-con-service-r1234yf): Get top-notch air with service for your vehicle's air conditioning system (R1234YF). Ensure optimal performance and comfort. Book today!
-  Updated: 2026-08-28T19:16:05Z
+  Updated: 2026-10-05T17:03:07Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -158,8 +158,8 @@
   - [Yes](https://paisleyautocare.co.uk/products/air-con-service-r1234yf?variant=43319459840219)
     Availability: Available
     Price: £174.98 GBP
-- [DPF Cleaning - Paisley Autocare](https://paisleyautocare.co.uk/products/dpf-cleaning): Coming Soon best  from  - Paisley Autocare
-  Updated: 2026-09-22T02:00:44Z
+- [DPF Clean Service | Diesel Particulate Filter Cleaning](https://paisleyautocare.co.uk/products/dpf-cleaning): Professional DPF Clean service from Paisley Autocare to help restore performance, improve MPG and reduce emissions from blocked diesel particulate filters.
+  Updated: 2026-10-12T22:29:13Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -170,8 +170,8 @@
   - [Yes](https://paisleyautocare.co.uk/products/dpf-cleaning?variant=44139626528987)
     Availability: Available
     Price: £389.99 GBP
-- [Interim Service - Paisley Autocare](https://paisleyautocare.co.uk/products/interim-service-1): Interim Vehicle Service Our Interim Service is an economical and convenient solution for maintaining  - Paisley Autocare
-  Updated: 2026-09-09T13:30:26Z
+- [Interim Service | Oil Change & Safety Checks | Paisley Autocare](https://paisleyautocare.co.uk/products/interim-service-1): Interim Service in Paisley with oil and filter replacement, coolant top-up and essential safety checks. Ideal between major service intervals.
+  Updated: 2026-10-12T22:28:12Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -189,7 +189,7 @@
     Availability: Available
     Price: £184.99 GBP
 - [Standard Service And MOT  - Save £20 Now!](https://paisleyautocare.co.uk/products/std-service-mot-): Save £20 on Standard Service And MOT . Was £239.99, now only £219.99. Get your car serviced and MOT done at an unbeatable price. Book today!
-  Updated: 2026-09-24T15:46:27Z
+  Updated: 2026-10-22T13:23:54Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: £239.99 GBP
 - [Brake Fluid Change - Paisley Autocare](https://paisleyautocare.co.uk/products/brake-fluid-change-service): Paisley Autocare: Brake Fluid Change Service At Paisley Autocare, we understand the critical role  - Paisley Autocare
-  Updated: 2026-08-28T19:16:08Z
+  Updated: 2026-10-16T14:51:51Z
   Vendor: Paisley Autocare
   Product Type: Car Service
   Availability: Available
@@ -220,8 +220,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Exhaust-System-Check-Paisley-Autocare-200223810.jpg?v=1745488919
   Price: £72.00 GBP
-- [Brake Check - Paisley Autocare](https://paisleyautocare.co.uk/products/brake-check): Noticed squeaking, grinding, or a spongy pedal? For just £59.99, our Brake Check service gives you  - Paisley Autocare
-  Updated: 2026-09-04T16:41:42Z
+- [Brake Check in Paisley | Paisley Autocare](https://paisleyautocare.co.uk/products/brake-check): Brake check in Paisley for £59.99, including qualified labour, brake inspection, fluid checks and safe stopping performance testing.
+  Updated: 2026-10-12T22:27:48Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -238,22 +238,22 @@
   - [Zone 3](https://paisleyautocare.co.uk/products/brake-check?variant=55369793372539)
     Availability: Available
     Price: £91.99 GBP
-- [Suspension and Steering Check - Paisley Autocare](https://paisleyautocare.co.uk/products/suspension-and-steering-check): Is your ride feeling bumpy, uneven, or hard to handle? For just £59.99, our Suspension &amp;  - Paisley Autocare
-  Updated: 2026-09-22T02:30:31Z
+- [Suspension and Steering Check | Paisley Autocare £59.99](https://paisleyautocare.co.uk/products/suspension-and-steering-check): Suspension and Steering Check for £59.99, with up to 1 hour of diagnostic labour, full component inspection and a detailed report.
+  Updated: 2026-10-12T17:00:37Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Suspension-and-Steering-Check-Paisley-Autocare-306192414.png?v=1783090268
   Price: £72.00 GBP
-- [Coolant Leak Check - Paisley Autocare](https://paisleyautocare.co.uk/products/coolant-leak-check): Coolant Leak Check Noticed  engine temperature creeping up or mysterious puddles forming under  - Paisley Autocare
-  Updated: 2026-08-28T19:16:10Z
+- [Coolant Leak Check | Paisley Autocare £72](https://paisleyautocare.co.uk/products/coolant-leak-check): Coolant Leak Check from Paisley Autocare for £72. Identify coolant leaks, low coolant and overheating risks with expert cooling system diagnostics.
+  Updated: 2026-10-12T22:27:30Z
   Vendor: Paisley Autocare
   Product Type: Car Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Coolant-Leak-Check-Paisley-Autocare-305245880.png?v=1780644451
   Price: £72.00 GBP
-- [Van Servicing: Expert Solutions for Your Needs](https://paisleyautocare.co.uk/products/van-servicing): Explore comprehensive servicing solutions. Van servicing, we offer reliable, professional support tailored for your requirements.
-  Updated: 2026-08-28T19:16:11Z
+- [Van Servicing in Paisley | Standard & Major Service Packages](https://paisleyautocare.co.uk/products/van-servicing): Professional van servicing in Paisley for vans up to 3.5 tonnes. Choose standard or major service packages with health checks and diagnostics.
+  Updated: 2026-10-12T22:26:58Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -274,16 +274,16 @@
 ## Collections
 
 - [Car Servicing Paisley](https://paisleyautocare.co.uk/collections/car-servicing-paisley): Get top-quality car servicing paisley. Our experienced team ensures your vehicle runs smoothly and safely.
-  Updated: 2026-09-25T11:17:24Z
-  Total Products: 18
+  Updated: 2026-10-22T11:16:55Z
+  Total Products: 15
 - [Car Brakes](https://paisleyautocare.co.uk/collections/car-brakes): Want to know more about car brakes? This guide covers everything you need to know about car brakes, from types to maintenance.
-  Updated: 2026-08-28T20:24:57Z
+  Updated: 2026-10-12T10:27:41Z
   Total Products: 2
 - [Car Battery](https://paisleyautocare.co.uk/collections/battery): Discover top-quality car batteries with reliable performance and best prices. Ensure your vehicle's longevity with our trusted car battery selection.
-  Updated: 2026-08-28T20:24:57Z
-  Total Products: 1
+  Updated: 2026-10-20T14:06:18Z
+  Total Products: 0
 - [Car Servicing](https://paisleyautocare.co.uk/collections/service): Discover the essential aspects of car servicing. Learn how regular car servicing enhances performance and extends your vehicle's lifespan.
-  Updated: 2026-09-25T11:17:24Z
+  Updated: 2026-10-22T11:16:55Z
   Total Products: 4
 - [Tyres](https://paisleyautocare.co.uk/collections/tyres): Looking for new car tyres? Find a wide range of tyres at unbeatable prices. Get free delivery & fitting. Order now online or visit us in-store.
   Updated: 2026-04-20T16:41:01Z
@@ -301,8 +301,8 @@
   Updated: 2026-01-05T16:44:37Z
   Total Products: 0
 - [car repair near me](https://paisleyautocare.co.uk/collections/car-repair-near-me): Find the best car repair near me with our reliable services. Get quick and affordable repairs for your vehicle today!
-  Updated: 2026-08-28T20:24:57Z
-  Total Products: 5
+  Updated: 2026-10-20T14:06:18Z
+  Total Products: 4
 
 ## Blogs
 
@@ -1220,7 +1220,7 @@
 - [Air Con Recharge | The Ultimate Solution](https://paisleyautocare.co.uk/pages/aircon-recharge): Efficient Air Con Recharge Solutions A cool and fresh environment significantly contributes to your comfort and productivity, whether at home, in t...
   Updated: 2024-05-07T11:46:54Z
 - [Partner links](https://paisleyautocare.co.uk/pages/partner-links): Partner links zebrablindstogo.com Cocorose London Môdern Space Gallery Xreart Art Frame Wuli Hair Care EVEBOT Coffee Printers Dream Catcher UFQ avi...
-  Updated: 2026-08-17T05:52:12Z
+  Updated: 2026-09-28T08:26:44Z
 - [Top-notch Servicing Solutions for your Needs](https://paisleyautocare.co.uk/pages/servicing): Unparallel Servicing solutions to Glide Through Your Challenges Paisley Car Servicing: Your trusted local experts for comprehensive car maintenance...
   Updated: 2024-05-07T11:43:08Z
 - [Quality Services for Car & Bike MOT | Affordable Prices](https://paisleyautocare.co.uk/pages/car-bike-mot): /* Basic styling to ensure it looks good immediately */ .mot-container { max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif; line-hei...
@@ -1295,19 +1295,21 @@
   Updated: 2026-04-10T10:39:19Z
 - [Professional Exhaust Repair Services Near You](https://paisleyautocare.co.uk/pages/exhaust-repair): Comprehensive Exhaust Repair Services for Your Vehicle Understanding the Importance of Exhaust Repair Exhaust repair is essential for maintaining y...
   Updated: 2026-04-21T13:47:06Z
+- [Join Us](https://paisleyautocare.co.uk/pages/join-us)
+  Updated: 2026-10-20T11:41:55Z
 
 ## Policies
 
 - [Privacy Policy](https://paisleyautocare.co.uk/policies/privacy-policy)
-  Updated: 2025-12-17T12:01:38+00:00
+  Updated: 2025-12-17T12:01:38Z
 - [Shipping Policy](https://paisleyautocare.co.uk/policies/shipping-policy)
-  Updated: 2024-05-15T11:11:56+01:00
+  Updated: 2024-05-15T10:11:56Z
 - [Refund Policy](https://paisleyautocare.co.uk/policies/refund-policy)
-  Updated: 2025-12-17T12:11:52+00:00
+  Updated: 2025-12-17T12:11:52Z
 - [Terms of Service](https://paisleyautocare.co.uk/policies/terms-of-service)
-  Updated: 2020-02-28T14:12:40+00:00
+  Updated: 2020-02-28T14:12:40Z
 - [Contact Information](https://paisleyautocare.co.uk/policies/contact-information)
-  Updated: 2024-05-15T12:07:24+01:00
+  Updated: 2024-05-15T11:07:24Z
 
 ## Optional
 
