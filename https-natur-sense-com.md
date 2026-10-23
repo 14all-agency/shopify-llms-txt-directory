@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-06-05T14:02:46.007Z
+- Updated At: 2026-10-23T01:15:47.230Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -31,58 +31,44 @@ We are committed to providing accurate product information, clean ingredient sta
 
 ## Products
 
-- [99% Organic Aloe Vera Gel, Soothing Moisturizer 12oz | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair. 12oz pump bottle.
-  Updated: 2026-06-04T02:52:48Z
+- [NaturSense 99% Organic Aloe Vera Gel, Soothing Moisturizer 12oz](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair. 12oz pump bottle.
+  Updated: 2026-10-19T22:28:54Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
-- [99% Organic Aloe Vera Gel Refill, 64oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
-  Updated: 2026-06-04T13:03:58Z
+- [99% Organic Aloe Vera Gel Refill, 64.2 oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64-2oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
+  Updated: 2026-10-23T00:23:50Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
 - [100% Organic Castile Soap, Unscented 64oz with Pump | NaturSense](https://natur-sense.com/products/organic-castile-soap-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 64oz with pump.
-  Updated: 2026-06-03T05:36:39Z
+  Updated: 2026-10-23T00:17:27Z
   Vendor: NaturSense
   Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-castile-soap-lifestile-1080x1080.jpg?v=1703970964
   Price: $29.89 USD
-- [99% Organic Aloe Vera Gel, 2-Pack 64oz Bottles + Pump | NaturSense](https://natur-sense.com/products/organic-aloe-vera-gel-2pack-64oz-pump): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. No sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 2-Pack 64oz + pump.
-  Updated: 2026-06-03T12:39:06Z
-  Vendor: NaturSense
-  Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/71yrOT7A61L._SX679.jpg?v=1754053843
-  Price: $98.89 USD
-- [Methylene Blue 1% Solution, USP Grade Mint 1.69oz | NaturSense](https://natur-sense.com/products/natursense-methylene-blue-1-percent-usp-grade): USP Grade Methylene Blue 1% Solution with soft mint flavor. Pharmaceutical-grade purity, third-party lab tested. 1.69oz (50ml) dropper bottle. Made in USA.
-  Updated: 2026-05-22T19:17:57Z
-  Vendor: NaturSense
-  Product Type: Supplements > Cellular Energy > Methylene Blue > USP Grade
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/Methylene-Blue-bottle-close-up-plus-dropper-revised.jpg?v=1756833716
-  Price: $28.89 USD
 
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-06-04T11:09:01Z
+  Updated: 2026-10-22T11:10:11Z
   Total Products: 5
-- [all](https://natur-sense.com/collections/all)
-  Updated: 2026-06-04T11:09:01Z
+- [Shop All NaturSense Products](https://natur-sense.com/collections/all): Shop all NaturSense products: 99% organic aloe vera gel and pure Castile soap. Unscented, cruelty-free and made by a family-owned company.
+  Updated: 2026-10-22T11:10:11Z
   Total Products: 7
-- [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products)
-  Updated: 2026-06-04T11:09:01Z
+- [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products): 99% organic, cold-pressed aloe vera gel that soothes sunburn, hydrates skin, and conditions hair. Aloin-free, no sticky residue, made in the USA.
+  Updated: 2026-10-20T11:07:13Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
-  Updated: 2026-06-02T07:40:22Z
+  Updated: 2026-10-22T11:10:11Z
   Total Products: 2
 - [Methylene Blue Products](https://natur-sense.com/collections/methylene-blue-products)
-  Updated: 2026-06-02T07:40:22Z
+  Updated: 2026-08-24T22:25:26Z
   Total Products: 1
 
 ## Blogs
@@ -114,10 +100,6 @@ We are committed to providing accurate product information, clean ingredient sta
   - [DIY Aloe Vera, Honey and Yogurt Hair Mask](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/diy-aloe-vera-honey-and-yogurt-hair-mask): <span>There are numerous hair masks that can be purchased at the store, but it’s so fun and easy to make your own. Here are the steps to make your own DIY Aloe Vera, Honey and Yogurt Hair Mask:</span>
     Updated: 2021-04-21T17:59:38Z
     Author: Adam Candler
-  - [Methylene Blue: The Mitochondrial Supercharger Boosting Cellular Energy](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/methylene-blue-the-mitochondrial-supercharger-boosting-cellular-energy)
-    Updated: 2025-09-15T20:15:49Z
-    Author: Jon Morgan
-    Tags: methylene blue
   - [10 Everyday Uses for Aloe Vera Gel  Beyond Sunburn Relief](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/10-everyday-uses-for-aloe-vera-gel-beyond-sunburn-relief)
     Updated: 2025-10-13T19:11:35Z
     Author: Maida Candler
@@ -127,6 +109,70 @@ We are committed to providing accurate product information, clean ingredient sta
   - [Discover winter skin remedies and natural dry skin relief with aloe vera benefits and soothing skin care tips. Learn how to protect your skin during cold months with NaturSense Aloe Vera Gel.](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/winter-skin-survival-guide-natural-relief-for-dry-stressed-skin): Discover winter skin remedies and natural dry skin relief with aloe vera benefits and soothing skin care tips. Learn how to protect your skin during cold months with NaturSense Aloe Vera Gel.
     Updated: 2026-03-02T15:43:25Z
     Author: Maida Candler
+  - [Aloe Vera Gel for Sunburn: How to Use It | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/how-to-use-aloe-vera-gel-for-sunburn-relief): Aloe Vera Gel for Sunburn: How to Use It | NaturSense
+    Updated: 2026-07-03T18:34:39Z
+    Author: Maida Candler
+    Tags: After Sun, Aloe Vera, Aloe Vera Gel, Natural Skincare, Sensitive Skin, Skincare, Summer Skincare, Sun Care, Sunburn, Sunburn Care
+  - [Aloe Vera Gel as a Daily Moisturizer | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/using-aloe-vera-gel-as-a-daily-moisturizer): Aloe Vera Gel as a Daily Moisturizer | NaturSense
+    Updated: 2026-07-03T18:40:02Z
+    Author: Maida Candler
+    Tags: Aloe Vera, Aloe Vera Gel, Combination Skin, Daily Moisturizer, Face Care, Natural Skincare, Oily Skin, Sensitive Skin, Skincare, Skincare Routine, Sun Care
+  - [Aloe Vera Gel for Hair & Scalp Care | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/how-to-use-aloe-vera-gel-for-hair-and-scalp): Aloe Vera Gel for Hair & Scalp Care | NaturSense
+    Updated: 2026-07-03T18:46:08Z
+    Author: Maida Candler
+    Tags: Aloe Vera, Aloe Vera Gel, Curly Hair, Hair Care, Leave-In, Natural Hair Care, Natural Skincare, Scalp Care
+  - [Aloe Vera Gel for Puffy, Tired Under-Eyes | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-under-eye-puffiness): Aloe Vera Gel for Puffy, Tired Under-Eyes | NaturSense
+    Updated: 2026-07-03T18:17:21Z
+    Author: Maida Candler
+    Tags: aloe vera gel, cooling skincare, DIY skincare, eye care, hydration, natural skincare, NaturSense, puffy eyes, tired skin, under-eye care
+  - [Can You Use Aloe Vera Gel on Your Face Daily? | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-on-face-every-day): Can You Use Aloe Vera Gel on Your Face Daily? | NaturSense
+    Updated: 2026-07-03T18:15:50Z
+    Author: Maida Candler
+    Tags: aloe vera gel, daily skincare, face care, facial moisturizer, hydration, natural skincare, NaturSense, oily skin, sensitive skin, skincare routine
+  - [What Is Castile Soap? A Beginner's Guide | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/what-is-castile-soap-a-beginners-guide): What Is Castile Soap? A Beginner's Guide | NaturSense
+    Updated: 2026-07-06T04:00:06Z
+    Author: Maida Candler
+    Tags: beginners guide, body wash, castile soap, eco-friendly, gentle soap, household cleaning, low-tox living, natural cleaning, NaturSense, plant-based soap
+  - [Aloe Vera Gel for Bug Bites & Skin Irritation | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-for-bug-bites-and-minor-skin-irritation): Aloe Vera Gel for Bug Bites & Skin Irritation | NaturSense
+    Updated: 2026-07-13T04:00:07Z
+    Author: Maida Candler
+    Tags: aloe vera gel, bug bites, cooling gel, natural skincare, NaturSense, outdoor skincare, sensitive skin, skin irritation, soothing, summer skincare
+  - [Aloe Vera Gel for Razor Burn & After Shave | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-for-razor-burn-and-post-shave-soothing): Aloe Vera Gel for Razor Burn & After Shave | NaturSense
+    Updated: 2026-07-20T04:00:05Z
+    Author: Maida Candler
+    Tags: aloe vera gel
+  - [Aloe Vera Padsicles for Postpartum Comfort | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-padsicles-postpartum): Aloe Vera Padsicles for Postpartum Comfort | NaturSense
+    Updated: 2026-07-27T04:00:03Z
+    Author: Maida Candler
+    Tags: aloe vera gel, cooling comfort, DIY, natural comfort, NaturSense, new moms, padsicles, postpartum care, postpartum recovery, pregnancy
+  - [15+ Everyday Uses for Castile Soap | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/everyday-uses-for-castile-soap): 15+ Everyday Uses for Castile Soap | NaturSense
+    Updated: 2026-08-24T18:32:18Z
+    Author: Maida Candler
+    Tags: body wash, castile soap, DIY cleaner, eco-friendly, household cleaning, low-tox living, natural cleaning, NaturSense, plant-based soap, versatile soap
+  - [Aloe Vera Gel for Minor Kitchen Burns | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-for-minor-kitchen-burns): Aloe Vera Gel for Minor Kitchen Burns | NaturSense
+    Updated: 2026-08-10T04:00:01Z
+    Author: Maida Candler
+    Tags: aloe vera gel, cooling gel, first aid, grilling, kitchen burns, minor burns, natural skincare, NaturSense, soothing, summer
+  - [Aloe Vera Gel for Oily & Acne-Prone Skin | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-for-acne-prone-oily-skin): Aloe Vera Gel for Oily & Acne-Prone Skin | NaturSense
+    Updated: 2026-08-17T04:00:03Z
+    Author: Maida Candler
+    Tags: acne prone skin, aloe vera gel, combination skin, hydration, lightweight moisturizer, natural skincare, NaturSense, non greasy, oily skin, skincare routine
+  - [Castile Soap Dilution Cheat Sheet | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/castile-soap-dilution-cheat-sheet): Castile Soap Dilution Cheat Sheet | NaturSense
+    Updated: 2026-08-24T04:00:04Z
+    Author: Maida Candler
+    Tags: body wash, castile soap, cheat sheet, dilution guide, DIY cleaner, eco-friendly, household cleaning, natural cleaning, NaturSense, plant-based soap
+  - [Aloe Vera Gel for Tattoo Aftercare | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-for-tattoo-aftercare): Aloe Vera Gel for Tattoo Aftercare | NaturSense
+    Updated: 2026-08-31T04:00:03Z
+    Author: Maida Candler
+    Tags: aloe vera gel, healed tattoo, hydration, moisturizer, natural skincare, NaturSense, new tattoo, soothing, tattoo aftercare, tattoo care
+  - [Your Everyday Aloe Face Routine, Step by Step](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-face-routine): <p>Wondering how to actually fit aloe vera gel into your daily skincare? Here's a simple three-step face routine for morning and night that takes the guesswork out of it.</p>
+    Updated: 2026-10-15T16:41:05Z
+    Author: Maida Candler
+    Tags: aloe vera gel, face care, how to use aloe, hydration, skincare routine
+  - [Choosing Aloe Vera Gel for Sensitive Skin](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-sensitive-skin): <p>Not all aloe gels suit reactive skin. Here's what to look for — short ingredient lists, no added fragrance — and how to introduce aloe gently if your skin runs sensitive.</p>
+    Updated: 2026-10-19T04:00:03Z
+    Author: Maida Candler
+    Tags: aloe vera gel, clean beauty, fragrance-free, gentle skincare, sensitive skin, skincare ingredients
 
 ## Store Pages
 
@@ -134,31 +180,25 @@ We are committed to providing accurate product information, clean ingredient sta
   Updated: 2023-06-05T15:23:07Z
 - [Contact Us](https://natur-sense.com/pages/contact-us)
   Updated: 2019-11-22T16:32:44Z
-- [FAQ](https://natur-sense.com/pages/faq-2)
-  Updated: 2019-11-19T15:33:08Z
-- [video](https://natur-sense.com/pages/video)
-  Updated: 2023-07-10T18:34:02Z
-- [about](https://natur-sense.com/pages/about): ABOUT US Like many people affected by the Great Recession of 2008, necessity demanded that we recreate ourselves. The market research company we’d ...
-  Updated: 2023-06-05T15:22:55Z
-- [FAQ-new](https://natur-sense.com/pages/faq-new)
-  Updated: 2023-06-05T15:41:15Z
+- [about](https://natur-sense.com/pages/about): Like many people affected by the Great Recession of 2008, necessity demanded that we recreate ourselves. The market research company we'd owned for...
+  Updated: 2026-10-12T17:59:08Z
+- [Aloe Vera Gel & Castile Soap FAQ | NaturSense](https://natur-sense.com/pages/faq): 
+  Updated: 2026-10-12T19:04:16Z
 - [Accessibility](https://natur-sense.com/pages/accessibility): NaturSense Accessibility Statement Updated: October 2023. General NaturSense strives to ensure that its services are accessible to people with disa...
   Updated: 2023-10-16T19:17:39Z
-- [Spreading Kindness](https://natur-sense.com/pages/spreading-kindness): We’d love to hear about the kindness you’ve shared! Whether it was a small gesture that brightened someone’s day or a meaningful act with a lasting...
-  Updated: 2025-02-10T20:06:17Z
 
 ## Policies
 
 - [Privacy Policy](https://natur-sense.com/policies/privacy-policy)
-  Updated: 2024-05-31T18:33:50-04:00
+  Updated: 2024-05-31T22:33:50Z
 - [Shipping Policy](https://natur-sense.com/policies/shipping-policy)
-  Updated: 2025-01-07T09:14:21-05:00
+  Updated: 2025-01-07T14:14:21Z
 - [Refund Policy](https://natur-sense.com/policies/refund-policy)
-  Updated: 2026-04-19T10:23:45-04:00
+  Updated: 2026-04-19T14:23:45Z
 - [Terms of Service](https://natur-sense.com/policies/terms-of-service)
-  Updated: 2024-05-31T18:33:50-04:00
+  Updated: 2024-05-31T22:33:50Z
 - [Contact Information](https://natur-sense.com/policies/contact-information)
-  Updated: 2025-01-06T16:29:21-05:00
+  Updated: 2025-01-06T21:29:21Z
 
 ## Official Website
 https://natur-sense.com
