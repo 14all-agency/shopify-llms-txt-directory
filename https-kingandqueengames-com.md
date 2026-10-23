@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2026-09-06T00:00:31.634Z
+- Updated At: 2026-10-23T00:16:24.816Z
 
 King And Queen Games, llc
 
@@ -119,13 +119,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/2024-yu-gi-oh-rao2-dugares-card-5510184.jpg?v=1771801866
   Price: $30.00 USD
-- [FB04 Ultra Limit Booster Box - King And Queen Games](https://kingandqueengames.com/products/fb04-ultra-limit-booster-box): Dragon Ball Super Card Game Fusion World FB04 Ultra Limit booster box. 24 packs, 12 cards each. Premium collectible for fans.
-  Updated: 2026-08-19T18:44:36Z
-  Vendor: Bandai
-  Product Type: Booster Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/fb04-ultra-limit-booster-box-4320487.jpg?v=1771801805
-  Price: $59.00 USD
 - [Disney Lorcana The First Chapter - King And Queen Games](https://kingandqueengames.com/products/disney-lorcana-the-first-chapter): Disney Lorcana The First Chapter booster box. 24 packs, 12 cards each. Premiere set featuring classic Disney characters. For collectors.
   Updated: 2026-08-19T18:44:37Z
   Vendor: Ravensburger
@@ -364,13 +357,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/mega-symphonia-4180390.png?v=1771801689
   Price: $119.00 USD
-- [Paldean Tauros - 084/073 - SV1a - King And Queen Games](https://kingandqueengames.com/products/paldean-tauros-084-073-sv1a): Product Details Set: Triplet Beat (SV1a) Rarity:Art Rare Number:084/073 Card Type:Fighting HP:130 Stage:Basic Weakness:Psychic x2 Retreat Cost:2 Attack 1:[Colorless][Colorless] Raging Horns (20+)This attack does 10 more damage for each damage counter on this Pokémon. Attack 2:[Fighting][Fighting][Colorless] Combat Tackle (130)This Pokémon also does 30 damage to itself. - King And Queen Games
-  Updated: 2026-08-19T18:45:14Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/paldean-tauros-084073-sv1a-1964861.jpg?v=1771801688
-  Price: $3.00 USD
 - [Nihil Zero Booster Box | Japanese  Card Game](https://kingandqueengames.com/products/nihil-zero): Nihil Zero booster box. 30 packs, 5 cards each. 80 unique cards plus variants. Perfect for collectors and competitive players.
   Updated: 2026-08-19T18:45:14Z
   Vendor: Pokémon
@@ -483,13 +469,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/abomasnow-185184-s8b-6964045.jpg?v=1771801688
   Price: $3.50 USD
-- [Rapidash 069/063 (SV9a) - King And Queen Games](https://kingandqueengames.com/products/rapidash-069-063-sv9a): Rapidash - 069/063 Art Rare | SV9a: Heat Wave Arena (SV9a) Ignite your collection with this stunning Rapidash Art Rare from the SV9a: Heat Wave Arena set. Featuring intricate artwork and a dynamic pose, this card is a must-have for collectors and competitive players alike. Its rarity makes it a standout addition, perfect for showcasing in your binder or using in battle. Key Features: Card Number: 069/063 Set: SV9a: Heat Wave Arena Rarity: Art Rare Condition: [Near Mint] Collector’s Value: Highly sought-after for its unique art and limited availability. Add Rapidash SV9a: Heat Wave Arena to your collection today and bring the fire to your Pokémon deck! - King And Queen Games
-  Updated: 2026-08-19T18:45:18Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/rapidash-069063-sv9a-8716947.jpg?v=1771801926
-  Price: $2.90 USD
 - [Bombirdier 089/078 (SV1V) - Japanese Pokemon Card - King And Queen Games](https://kingandqueengames.com/products/bombirdier-089-078-sv1v): Bombirdier - 089/078 Art Rare - SV1V: Violet ex (SV1V) Add a rare gem to your collection! Bombirdier - Violet ex features stunning Art Rare holo artwork from the SV1V series. Perfect for collectors and competitive decks, this premium card is a must-have for any Pokémon fan. Highlights: Art Rare collectible (089/078) SV1V edition Vibrant, high-quality holo design Secure this rare card today at KingAndQueenGames.com and upgrade your collection instantly. - King And Queen Games
   Updated: 2026-08-19T18:45:18Z
   Vendor: Pokémon
@@ -1100,12 +1079,12 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Toy_Story_30_Years_Booster_Box.jpg?v=1779702269
   Price: $55.00 USD
 - [Gem Vol.4 Pokemon Booster Box S-Chinese CBB4C](https://kingandqueengames.com/products/gem-vol-4-pokemon-booster-box-s-chinese-cbb4c): Chinese Pokémon Gem Pack Vol. 4 – Sealed Booster BoxBuy Chinese Pokémon cards from a trusted source with Chinese Pokémon Gem Pack Vol. 4, a premium sealed booster set available at King & Queen Games. This highly collectible Pokémon TCG sealed product features exclusive artwork, rare holo patterns, and unique card designs not found in standard English Pokémon sets.If you're searching for Pokémon booster packs for , rare Pokémon cards, or sealed Pokémon products to  in, Gem Pack Vol. 4 is one of the fastest-growing international sets in the hobby.Packs per Box: 18 packsCards per Pack: 4 cardsTotal Cards in Set: ~192–196
-  Updated: 2026-08-21T22:34:27Z
+  Updated: 2026-09-20T17:00:39Z
   Vendor: Pokémon
   Product Type: Booster Box
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Gem_Vol.4_Pokemon_Booster_Box.jpg?v=1779702384
-  Price: $50.00 USD
+  Price: $40.00 USD
 - [Pokémon Special Card Set Mega Gallade ex | King & Queen Games](https://kingandqueengames.com/products/pokemon-card-game-special-card-set-mega-gallade-ex): Shop the Japanese Pokémon Special Card Set Mega Gallade ex — 5 promo cards & 8 booster packs. Exclusive MEGA series pulls for collectors. Ships from USA.
   Updated: 2026-08-19T18:46:34Z
   Vendor: Pokémon
@@ -1197,13 +1176,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Shroodle_8d8f9ee9-8845-4161-ace9-4da7b19ac3a3.jpg?v=1778991485
   Price: $3.00 USD
-- [Spearow 074/063 Mega Brave m1L Japanese Single Card](https://kingandqueengames.com/products/spearow-074-063-mega-brave-m1l-japanese-pokemon-single-card): Buy Spearow 074/063 from the Japanese Mega Brave (m1L) Pokémon set. In-stock single card, ships fast with protective packaging. King And Queen Games.
-  Updated: 2026-08-19T18:47:05Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Spearow.jpg?v=1778980413
-  Price: $3.20 USD
 - [Wattrel 105/101 Transformation Mask SV6 Japanese Single Card](https://kingandqueengames.com/products/wattrel-105-101-transformation-mask-sv6-japanese-pokemon-single-card): Buy Wattrel 105/101 from the Japanese Transformation Mask (SV6) Pokémon set. In-stock single card, ships fast. King And Queen Games.
   Updated: 2026-08-19T18:47:06Z
   Vendor: Pokémon
@@ -1288,13 +1260,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Malamar.jpg?v=1778980413
   Price: $2.30 USD
-- [Parasect 072/071 Dark Phantasma S10a Japanese Single Card](https://kingandqueengames.com/products/parasect-072-071-dark-phantasma-s10a-japanese-pokemon-single-card): Buy Parasect 072/071 from the Japanese Dark Phantasma (S10a) Pokémon set. In-stock single card, ships fast. King And Queen Games.
-  Updated: 2026-08-19T18:47:08Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Parasect.jpg?v=1778980413
-  Price: $3.00 USD
 - [Nacli 078/071 Clay Burst SV2D Japanese Single Card](https://kingandqueengames.com/products/nacli-078-071-clay-burst-sv2d-japanese-pokemon-single-card): Buy Nacli 078/071 from the Japanese Clay Burst (SV2D) Pokémon set. In-stock single card, ships fast. King And Queen Games.
   Updated: 2026-08-19T18:47:09Z
   Vendor: Pokémon
@@ -1386,13 +1351,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/DisneyBlue.jpg?v=1781916549
   Price: $40.00 USD
-- [1999 Japanese Snorlax Holo CD Promo PSA 8 | King & Queen Games](https://kingandqueengames.com/products/1999-japanese-snorlax-holo-cd-promo-143-psa-8-nm-mt): Buy the 1999 Japanese Snorlax Holo CD Promo #143 graded PSA 8 NM-MT. A rare vintage Pokémon collectible for serious collectors. Ships from USA.
-  Updated: 2026-08-19T18:47:34Z
-  Vendor: Pokémon
-  Product Type: Garded Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/p73bhdbpd9tj46ixkwg6zrj5rbm9.jpg?v=1781919140
-  Price: $300.00 USD
 - [Kaidou OP04-044 Foil LP - One Piece Card Game Single](https://kingandqueengames.com/products/kaidou-op04-044-one-piece-card-game-lp-foil): Buy Kaidou OP04-044 Foil (Lightly Played) from the One Piece Card Game. In-stock single card at King and Queen Games. Fast shipping.
   Updated: 2026-08-19T18:47:35Z
   Vendor: Bandai
@@ -1554,13 +1512,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Origin_Forme_Dialga_VSTAR.jpg?v=1782622382
   Price: $1.99 USD
-- [Dewgong AR m2 084/080 Japanese Pokemon Card Inferno X](https://kingandqueengames.com/products/dewgong-ar-m2-084-080-japanese-pokemon-card): Dewgong AR 084/080 from Japanese Pokemon TCG Inferno X (m2). Water type, HP 130, illustrated by zatoma. Stunning northern lights alternate rare collectible.
-  Updated: 2026-08-19T18:48:03Z
-  Vendor: Pokémon
-  Product Type: Single Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Dewgong.jpg?v=1782622370
-  Price: $3.00 USD
 - [Friends in Paldea 137/131 Full Art Trainer - Prismatic Evolutions](https://kingandqueengames.com/products/friends-in-paldea-137-131-full-art-trainer-pre): Friends in Paldea 137/131 Full Art Supporter Trainer from Pokémon Scarlet & Violet Prismatic Evolutions. Draw 3 cards effect.
   Updated: 2026-08-19T18:48:03Z
   Vendor: Pokémon
@@ -1617,12 +1568,127 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/1_af93270c-823f-4126-8d9a-bfcdde161982.jpg?v=1785389195
   Price: $85.00 USD
-[List Continued](https://kingandqueengames.com/a/llms-agent/llms.txt?shop=54csxi-is.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDA2OTAwMzc5NzA4LCJsYXN0X3ZhbHVlIjoiOTAwNjkwMDM3OTcwOCJ9)
+- [30th Celebration Elite Trainer Box](https://kingandqueengames.com/products/30th-celebration-elite-trainer-box): Product Details Commemorate 30 years of joy with fan-favorite Pokémon spanning three dazzling decades! Celebrate this magnificent milestone with the mighty presences of Mewtwo ex and Mew ex, followed by a wealth of allies like Umbreon ex, Salamence ex, and Greninja ex. Plus, there are 30 reasons to honor Pikachu, as each booster pack contains one—with 30 unique variations to collect as Pikachu rare cards! And, whether you're looking forward to a glittering future or taking a nostalgic look at a storied past, there are a host of treasures to find and secrets to reveal in the Pokémon TCG: 30th Celebration!Each Pokemon TCG: 30th Celebration Elite Trainer Box contains:• 9 Pokemon TCG: 30th Celebration booster packs (cards vary by pack)• 1 full-art foil promo featuring Nidorina• 16 foil Basic Energy cards• 65-ct standard-sized card sleeves• A player's guide to the 30th Celebration expansion• 6 damage-counter dice• 1 competition-legal coin-flip die• 1 plastic coin• A collector's box to hold everything, with 6 dividers to keep it organized• A code card for Pokémon  Card Game Live
+  Updated: 2026-09-24T12:10:48Z
+  Vendor: Pokémon
+  Product Type: Booster Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/30thCelabrationEBT-2.jpg?v=1789604596
+  Price: $165.00 USD
+- [Story Booster 01 Sleeved Booster Pack](https://kingandqueengames.com/products/story-booster-01-sleeved-booster-pack): Product Details There are 12 cards in each booster pack.Illustrations feature anime-style backgrounds, a design that looks like it's straight out of the screen!All included cards come with foil finish! A COOL product that makes opening packs especially exciting!New Alt - Art designs coming along with the all foil lineup! The ultimate collectible booster!Set Configuration:• Leader x5• Common x36• Rare x20• Super Rare x10• Secret Rare x2• Energy Marker x12• 85 types total
+  Updated: 2026-09-24T12:10:51Z
+  Vendor: King And Queen Games
+  Product Type: Sleeved Pack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/StoryBooster01SleevedBoosterPack-2.jpg?v=1789615817
+  Price: $18.00 USD
+- [Minccino 1505/07 Master Ball Reverse Holo Chinese Pokémon Card](https://kingandqueengames.com/products/minccino-1505-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Minccino 1505/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:03:02Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Minccino_Masterball.jpg?v=1789869292
+  Price: $1.60 USD
+- [Mudsdale 2305/07 Master Ball Reverse Holo Chinese Pokémon Card](https://kingandqueengames.com/products/mudsdale-2305-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Mudsdale 2305/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:06:55Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Mudsdale_Masterball.jpg?v=1789869657
+  Price: $1.25 USD
+- [Paldean Wooper 0355/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/paldean-wooper-0355-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Paldean Wooper 0355/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T02:07:27Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Paldean_Wooper_Masterball.jpg?v=1789869970
+  Price: $1.25 USD
+- [Pinsir 0105/07 Master Ball Reverse Holo Chinese Pokémon Card](https://kingandqueengames.com/products/pinsir-0105-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Pinsir 0105/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:11:01Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Pinsir_Masterball.jpg?v=1789870113
+  Price: $1.25 USD
+- [Probopass 117/07 Art Rare Chinese Pokémon Card NM](https://kingandqueengames.com/products/probopass-117-07-art-rare-cbb4c-simplified-chinese-nm): Shop Probopass 117/07 Art Rare from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:14:56Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Probopass_Art_Rare.jpg?v=1789870369
+  Price: $4.50 USD
+- [Probopass 117/07 Art Rare Chinese Pokémon Card LP](https://kingandqueengames.com/products/probopass-117-07-art-rare-cbb4c-simplified-chinese-lp): Shop Probopass 117/07 Art Rare from Pokémon CBB4C in Simplified Chinese. Lightly Played single card from King And Queen Games.
+  Updated: 2026-09-20T02:15:14Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Probopass_Art_Rare.jpg?v=1789870369
+  Price: $2.50 USD
+- [Probopass 1105/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/probopass-1105-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Probopass 1105/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T02:18:56Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Probopass_Masterball.jpg?v=1789870613
+  Price: $1.80 USD
+- [Relicanth 0705/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/relicanth-0705-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Relicanth 0705/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T02:20:06Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Relicanth_Masterball.jpg?v=1789870742
+  Price: $1.50 USD
+- [Snom 2805/07 Master Ball Reverse Holo Chinese Pokémon Card](https://kingandqueengames.com/products/snom-2805-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Snom 2805/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:26:26Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Snom_Masterball.jpg?v=1789870865
+  Price: $1.70 USD
+- [Torkoal 0605/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/torkoal-0605-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Torkoal 0605/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T02:24:37Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Torkoal_Masterball.jpg?v=1789871006
+  Price: $1.50 USD
+- [Starving Venom Fusion Dragon RA04-EN272 Platinum Secret Rare](https://kingandqueengames.com/products/starving-venom-fusion-dragon-ra04-en272-platinum-secret-rare-1st-edition): Shop Starving Venom Fusion Dragon RA04-EN272 Platinum Secret Rare, 1st Edition, Near Mint Yu-Gi-Oh! single card.
+  Updated: 2026-09-20T02:49:51Z
+  Vendor: Konami
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Starving_venom_fusion_dragon.jpg?v=1789872328
+  Price: $3.00 USD
+- [Meltan 2405/07 Master Ball Reverse Holo Chinese Pokémon Card](https://kingandqueengames.com/products/meltan-2405-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Meltan 2405/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card from King And Queen Games.
+  Updated: 2026-09-20T02:58:26Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Meltan_Masterball.jpg?v=1789872796
+  Price: $2.00 USD
+- [Infernape 0905/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/infernape-0905-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Infernape 0905/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T02:59:16Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Infernape_Masterball.jpg?v=1789873010
+  Price: $1.80 USD
+- [Cramorant 2505/07 Master Ball Reverse Holo Pokémon Card](https://kingandqueengames.com/products/cramorant-2505-07-master-ball-reverse-holo-cbb4c-simplified-chinese): Shop Cramorant 2505/07 Master Ball Reverse Holo from Pokémon CBB4C in Simplified Chinese. Near Mint single card.
+  Updated: 2026-09-20T03:05:41Z
+  Vendor: Pokémon
+  Product Type: Single Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Cramorant_Masterball.jpg?v=1789873236
+  Price: $2.00 USD
+[List Continued](https://kingandqueengames.com/a/llms-agent/llms.txt?shop=54csxi-is.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDg5ODc5OTY1NzU2LCJsYXN0X3ZhbHVlIjoiOTA4OTg3OTk2NTc1NiJ9)
 
 ## Collections
 
 - [Chinese Sealed Pokemon Boxes](https://kingandqueengames.com/collections/chinese-sealed-pokemon-boxes): Buy authentic Chinese sealed Pokémon boxes at King And Queen Games. Exclusive regional cards & artwork not found in English or Japanese releases.
-  Updated: 2026-08-21T10:40:30Z
+  Updated: 2026-10-16T11:16:13Z
+  Total Products: 6
+- [Dragon Ball Z Fusion World](https://kingandqueengames.com/collections/dragon-ball-z-fusion-world): Discover the Fascinating Dragon Ball Z Super Fusion World Dragon Ball Z Super Card Game Fusion World What is Dragon Ball Z Fusion? Dragon Ball Z Fusion is an exciting concept where characters combine their powers to create stronger warriors. This fusion process brings together two characters, merging their abilities, strengths, and even their personalities. As fans love to watch these epic transformations, various combinations lead to unique fighters with extraordinary capabilities. The idea not only enhances the battles but also adds an element of surprise, as viewers eagerly anticipate who will fuse next. - King And Queen Games
+  Updated: 2026-09-17T11:16:58Z
   Total Products: 5
 - [Graded Pokemon Cards](https://kingandqueengames.com/collections/graded-pokemon-cards): Buy graded Pokémon cards at King And Queen Games. PSA, BGS & CGC slabs from vintage to modern — authenticated and condition-.
   Updated: 2026-08-01T05:17:22Z
@@ -1646,11 +1712,11 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:17:33Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete](https://kingandqueengames.com/collections/globofilter-best--products-index): - King And Queen Games
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 281
+  Updated: 2026-10-16T11:16:13Z
+  Total Products: 314
 - [Pokemon Singles](https://kingandqueengames.com/collections/single--cards): Buy Pokémon singles online at King And Queen Games. Shop rare holos, full arts, alt arts, and competitive staples from every set and expansion.
-  Updated: 2026-08-01T05:27:05Z
-  Total Products: 123
+  Updated: 2026-10-05T11:14:02Z
+  Total Products: 146
 - [Lorcana Singles](https://kingandqueengames.com/collections/japanese-lorcana-singles): Shop individual Lorcana  cards at King And Queen Games. Find rare and common singles to complete your Disney Lorcana TCG collection.
   Updated: 2026-08-01T05:22:04Z
   Total Products: 11
@@ -1661,8 +1727,8 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:27:07Z
   Total Products: 23
 - [Best Sellers](https://kingandqueengames.com/collections/best-sellers): Best Sellers Discover our most popular products, chosen by collectors and players alike. Our Best Sellers Collection features the items customers come back for again and again—trusted favorites known for their quality, demand, and value. From highly sought-after sealed products to standout singles and limited releases, this collection highlights what’s trending right now. Whether you’re expanding your collection, chasing key pulls, or picking up a proven favorite, these top- items represent the best of what we offer. Shop with confidence knowing these products are customer-, consistently in demand, and ready to ship. - King And Queen Games
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 9
+  Updated: 2026-09-24T11:16:31Z
+  Total Products: 12
 - [￼ Other items ￼](https://kingandqueengames.com/collections/other-items): Explore  card game accessories and collectibles at King And Queen Games. Find sleeves, deck boxes, playmats, and more TCG essentials.
   Updated: 2026-08-01T05:19:10Z
   Total Products: 1
@@ -1670,23 +1736,23 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:19:15Z
   Total Products: 1
 - [New Arrivals ￼](https://kingandqueengames.com/collections/new-arrivals): Discover the latest  card game releases at King And Queen Games. Shop new Pokémon, MTG, Yu-Gi-Oh!, One Piece, and Lorcana products as they arrive.
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 23
+  Updated: 2026-10-09T11:14:29Z
+  Total Products: 26
 - [[XCloud Search app] All products](https://kingandqueengames.com/collections/cloud-search-all-products): This collection is used by the XCloud Search & Product Filter app (https://apps.shopify.com/cloudsearch) to query information about products in your store.Please do not edit or delete this collection (unless you've removed the app in which case you can safely delete it). - King And Queen Games
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 281
+  Updated: 2026-10-16T11:16:13Z
+  Total Products: 314
 - [Pokémon  Card Game Products](https://kingandqueengames.com/collections/all-pokemon-cards): Shop authentic Pokémon TCG products including booster boxes, elite trainer boxes, single cards, and sealed packs. Premium Japanese and English cards for collectors and players.
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 176
+  Updated: 2026-10-09T11:14:29Z
+  Total Products: 201
 - [Yu-Gi-OH Singles](https://kingandqueengames.com/collections/yu-gi-oh): Shop authentic Yu-Gi-Oh  cards and singles. Find rare cards, competitive staples, and collectible Yu-Gi-Oh TCG products at King And Queen Games.
-  Updated: 2026-08-01T05:22:44Z
-  Total Products: 20
+  Updated: 2026-09-20T04:22:06Z
+  Total Products: 26
 - [Yu-Gi-Oh Booster Boxes](https://kingandqueengames.com/collections/yu-gi-oh-booster-boxes): Buy Yu-Gi-Oh booster boxes and sealed products. Get the latest sets and classic releases for collecting or competitive play at King And Queen Games.
   Updated: 2026-08-01T05:20:01Z
   Total Products: 2
 - [All Products](https://kingandqueengames.com/collections/all-products): Your ultimate destination for  card games and collectibles. Explore the full King And Queen Games catalog — featuring Japanese and English Pokémon booster boxes, singles, Yu-Gi-Oh!, Dragon Ball Super, Disney Lorcana, One Piece, and accessories. Whether you're a collector or a player, everything you need is here.
-  Updated: 2026-08-21T10:36:19Z
-  Total Products: 229
+  Updated: 2026-10-16T11:16:13Z
+  Total Products: 255
 - [One-Piece Single Cards](https://kingandqueengames.com/collections/one-piece-single-cards): Shop One Piece single cards at King and Queen Games. Browse rare, holo, and playable singles from all One Piece Card Game sets — perfect for collectors and competitive players. Fast shipping and premium selection.
   Updated: 2026-08-01T05:27:15Z
   Total Products: 20
@@ -1924,6 +1990,45 @@ King And Queen Games, llc
   - [Complete Checklist for Effective Collecting of Japanese Pokemon Booster Boxes and Chinese Pokemon Cards](https://kingandqueengames.com/blogs/news/complete-checklist-for-effective-collecting-of-japanese-pokemon-booster-boxes-and-chinese-pokemon-cards): Complete Checklist for Effective Collecting of Japanese Pokemon Booster Boxes and Chinese Pokemon Cards
     Updated: 2026-09-04T00:22:50Z
     Author: King And Queen Games
+  - [Enhancing Your Pokemon Strategy with Japanese Booster Boxes vs Chinese Cards Insights and Comparisons](https://kingandqueengames.com/blogs/news/enhancing-your-pokemon-strategy-with-japanese-booster-boxes-vs-chinese-cards-insights-and-comparisons): Enhancing Your Pokemon Strategy with Japanese Booster Boxes vs Chinese Cards Insights and Comparisons
+    Updated: 2026-09-07T01:04:47Z
+    Author: King And Queen Games
+  - [ Card Game Explained An Educational Journey into Japanese and Chinese Pokemon Booster Boxes](https://kingandqueengames.com/blogs/news/-card-game-explained-an-educational-journey-into-japanese-and-chinese-pokemon-booster-boxes):  Card Game Explained An Educational Journey into Japanese and Chinese Pokemon Booster Boxes
+    Updated: 2026-09-11T00:22:26Z
+    Author: King And Queen Games
+  - [The Global Fascination with Pokemon How Japanese Booster Boxes and Chinese Cards Captivate Collectors](https://kingandqueengames.com/blogs/news/the-global-fascination-with-pokemon-how-japanese-booster-boxes-and-chinese-cards-captivate-collectors): The Global Fascination with Pokemon How Japanese Booster Boxes and Chinese Cards Captivate Collectors
+    Updated: 2026-09-14T01:12:15Z
+    Author: King And Queen Games
+  - [Crafting the Ultimate Collection with Japanese Pokemon Booster Boxes and Chinese Cards An Enthusiast's Perspective](https://kingandqueengames.com/blogs/news/crafting-the-ultimate-collection-with-japanese-pokemon-booster-boxes-and-chinese-cards-an-enthusiasts-perspective): Crafting the Ultimate Collection with Japanese Pokemon Booster Boxes and Chinese Cards An Enthusiast's Perspective
+    Updated: 2026-09-18T00:22:36Z
+    Author: King And Queen Games
+  - [Why Japanese Pokemon Booster Boxes Outshine Chinese Booster Boxes for Collectors](https://kingandqueengames.com/blogs/news/why-japanese-pokemon-booster-boxes-outshine-chinese-booster-boxes-for-collectors): Why Japanese Pokemon Booster Boxes Outshine Chinese Booster Boxes for Collectors
+    Updated: 2026-09-21T01:07:48Z
+    Author: King And Queen Games
+  - [A Step-by-Step Guide to Buy Japanese Pokemon Booster Box USA](https://kingandqueengames.com/blogs/news/a-step-by-step-guide-to-buy-japanese-pokemon-booster-box-usa): A Step-by-Step Guide to Buy Japanese Pokemon Booster Box USA
+    Updated: 2026-09-25T00:22:24Z
+    Author: King And Queen Games
+  - [Japanese vs Chinese Pokemon Cards What Collectors Need to Know](https://kingandqueengames.com/blogs/news/japanese-vs-chinese-pokemon-cards-what-collectors-need-to-know): Japanese vs Chinese Pokemon Cards What Collectors Need to Know
+    Updated: 2026-09-28T01:05:55Z
+    Author: King And Queen Games
+  - [Solving Common Problems with Buying Chinese Booster Boxes in the USA](https://kingandqueengames.com/blogs/news/solving-common-problems-with-buying-chinese-booster-boxes-in-the-usa): Solving Common Problems with Buying Chinese Booster Boxes in the USA
+    Updated: 2026-10-02T00:22:09Z
+    Author: King And Queen Games
+  - [5 Reasons Pokemon Collectors Prefer Japanese Booster Boxes](https://kingandqueengames.com/blogs/news/5-reasons-pokemon-collectors-prefer-japanese-booster-boxes): 5 Reasons Pokemon Collectors Prefer Japanese Booster Boxes
+    Updated: 2026-10-05T01:05:22Z
+    Author: King And Queen Games
+  - [The Rising Trend of Japanese Pokemon Booster Box USA](https://kingandqueengames.com/blogs/news/the-rising-trend-of-japanese-pokemon-booster-box-usa): The Rising Trend of Japanese Pokemon Booster Box USA
+    Updated: 2026-10-09T00:21:45Z
+    Author: King And Queen Games
+  - [FAQ on Chinese Pokemon Cards and Where to Get Them](https://kingandqueengames.com/blogs/news/faq-on-chinese-pokemon-cards-and-where-to-get-them): FAQ on Chinese Pokemon Cards and Where to Get Them
+    Updated: 2026-10-12T01:10:07Z
+    Author: King And Queen Games
+  - [How to Successfully Navigate the Market for Japanese Pokemon Booster Boxes](https://kingandqueengames.com/blogs/news/how-to-successfully-navigate-the-market-for-japanese-pokemon-booster-boxes): How to Successfully Navigate the Market for Japanese Pokemon Booster Boxes
+    Updated: 2026-10-16T00:11:34Z
+    Author: King And Queen Games
+  - [Checklist for Getting the Best Deals on Japanese Booster Boxes in the USA](https://kingandqueengames.com/blogs/news/checklist-for-getting-the-best-deals-on-japanese-booster-boxes-in-the-usa): Checklist for Getting the Best Deals on Japanese Booster Boxes in the USA
+    Updated: 2026-10-19T00:31:36Z
+    Author: King And Queen Games
 
 ## Store Pages
 
@@ -1949,15 +2054,15 @@ King And Queen Games, llc
 ## Policies
 
 - [Privacy Policy](https://kingandqueengames.com/policies/privacy-policy)
-  Updated: 2025-03-09T22:15:28-05:00
+  Updated: 2025-03-10T03:15:28Z
 - [Shipping Policy](https://kingandqueengames.com/policies/shipping-policy)
-  Updated: 2025-06-27T13:49:19-05:00
+  Updated: 2025-06-27T18:49:19Z
 - [Refund Policy](https://kingandqueengames.com/policies/refund-policy)
-  Updated: 2026-01-23T22:34:13-06:00
+  Updated: 2026-01-24T04:34:13Z
 - [Terms of Service](https://kingandqueengames.com/policies/terms-of-service)
-  Updated: 2025-03-20T00:38:29-05:00
+  Updated: 2025-03-20T05:38:29Z
 - [Contact Information](https://kingandqueengames.com/policies/contact-information)
-  Updated: 2025-03-23T13:00:03-05:00
+  Updated: 2025-03-23T18:00:03Z
 
 https://www.instagram.com/kingandqueengamesllc?igsh=MTJlNDh5bGJnbW1iNg%3D%3D&utm_source=qr
  
