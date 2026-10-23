@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-03-06T08:40:55Z
 - Contact Email: info@myprintpix.hu
-- Updated At: 2026-09-15T05:45:00.469Z
+- Updated At: 2026-10-23T00:35:24.089Z
 
 ## Products
 
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/69204bfc6ef9a.webp?v=1763724905
     Price: 7990,00 Ft HUF
 - [Scrabble - személyre szabott ajándékok](https://giftforus.hu/products/scrabble-szemelyre-szabott-ajandekok): Minden név egy külön történet. Együtt – egy egészen különleges világ. 🧩❤️ Az Scrabble egy egyedi, személyre szabható poszter, amely a megadott neveket Scrabble stílusban, keresztrejtvényszerűen összekapcsolva jeleníti meg. Legyen szó családtagokról vagy baráti társaságról, ez a játékos, mégis megható elrendezés tökéletesen mutatja meg, hogyan kapcsolódnak össze az életek – űről űre, névről névre. 🔠 Mit adhatsz meg hozzá? Neveket, amelyeket automatikusan Scrabble-rácsba rendezünk A családnevet vagy a baráti csapat nevét, ami a poszter címeként jelenik meg Egy idézetet – választhatsz az előre megadott, szeretettel teli sorok közül, vagy megadhatod a saját szövegedet is A dizájnt teljesen személyre szabhatod – akár elegáns, rusztikus, modern vagy színes stílusban 👨👩👧👦 Tökéletes ajándék: Családi poszterként a nappaliba, előszobába vagy ajándékba nagyszülőknek Baráti ajándékként születésnapra, közös élmények emlékére Új otthonba költözéskor vagy évfordulóra 🕒 1 munkanapos gyártás – gyors, megbízható elkészítés🎨 Scrabble stílusú űrács, ízléses és játékos elrendezés📜 Személyre szabható idézet és cím📞 Kiemelt ügyfélszolgálat✅ 100% elégedettségi garancia Ahogy a űk összeérnek, úgy fonódik össze a család vagy a barátság is.Tervezd meg a saját Scrabble-posztered, és mutasd meg: együtt vagytok a legnagyobb érték!
-  Updated: 2026-08-10T10:14:47Z
+  Updated: 2026-10-14T06:54:38Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/68592beab08c6.webp?v=1751558912
     Price: 9990,00 Ft HUF
 - [A mi csillagaink - személyre szabott ajndékok - csillagtérkép](https://giftforus.hu/products/a-mi-csillagjaink-szemelyre-szabott-ajndekok-csillagterkep): Van egy pillanat, amikor minden megváltozott… és a csillagok is máshogy ragyogtak. ✨ A „Mi csillagaink” egy egyedi csillagkép poszter, amely megmutatja, hogyan álltak a csillagok abban a különleges pillanatban, amikor a történetetek elkezdődött. Legyen szó az első randiról, az első csókról, vagy az évfordulótokról, ez a csillagállás örökre megőrzi azt a napot – pont úgy, ahogy az égen látszott. 💫 Mit adhatsz meg? Egy pontos dátumot Egy meghatározott helyszínt (város, ország)És mi elkészítjük azt a csillagtérképet, amit az égbolt azon az éjszakán (vagy napon) mutatott – csak nektek, csak akkor. 🖤 Tökéletes ajándék: Első randi emlékére Első csók megünneplésére 1 éves évfordulóra, vagy akár 10.-re Sőt… eljegyzés, esküvő vagy kisbabátok születése pillanatára is 💌 Egy rövid személyes üzenetet is elhelyezhetsz a kép alján – hogy még intimebb, még emlékezetesebb legyen. 🕒 1 munkanapos gyártás🌌 Lélegzetelállító, részletgazdag csillagtérkép📞 Kiemelt ügyfélszolgálat✅ 100% garancia az örömre Mert vannak pillanatok, amiket a szívünk őriz – és az égbolt is tanúja volt.Őrizd meg őket csillagokba írva.
-  Updated: 2025-07-16T20:24:11Z
+  Updated: 2026-09-18T06:05:39Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -579,7 +579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/6874cafe0c2bb_32228530-0de8-430c-93a6-0fe25c289403.webp?v=1763724425
     Price: 9990,00 Ft HUF
 - [Családi pillanatok - személyre szabott ajándékok](https://giftforus.hu/products/csaladi-pillanatok-szemelyre-szabott-ajandekok): Nevetés, szeretet, közös káosz – ez a ti történetetek képekben elmesélve. 🎨📸 A Családi pillanatok egy modern, rajzos stílusú fotókollázs, ahol a család legvidámabb, legéletszagúbb pillanatai kelnek életre egy lendületes, játékos poszteren. Itt nem a beállított képek a főszereplők, hanem azok a fotók, amelyek mögött igazán jó sztorik vannak. 🤹♀️ Mit adhatsz meg hozzá? Több kedvenc családi fotót, lehetőleg azokból, amikre mindig nevetve néztek vissza Egyedi, rajzosabb, vagányabb dizájn, ami igazán fiatalos hangulatot ad a képeknek Választható idézeteket a családi élet örömeiről, vagy megadhatsz egy teljesen saját szöveget is, ami csak rátok jellemző A poszter stílusa laza, színes, kreatív – a cél, hogy mosolyt csaljon az arcokra 🎁 Tökéletes ajándék: Szülőknek, nagyszülőknek, akik imádják a vicces családi pillanatokat Születésnapra vagy évfordulóra Vagy csak úgy, mert a nevetés is emlék, amit jó a falra tenni 🕒 1 munkanapos gyártás – gyors és gördülékeny🎨 Modern, rajzos dizájn, vidám hangulatban📸 Személyes fotók és idézetek, teljesen rátok szabva📞 Kiemelt ügyfélszolgálat – segítünk minden részletben✅ 100% elégedettségi garancia Nem kell tökéletesnek lenni – csak együtt nevetni.Örökítsd meg a legvidámabb családi pillanatokat ebben az egyedi kollázsban!
-  Updated: 2026-04-19T18:54:17Z
+  Updated: 2026-10-07T08:47:29Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/6888a257977cb_ba2acc6f-070e-4562-a74c-b766565f2495.webp?v=1763724416
     Price: 7990,00 Ft HUF
 - [Születésnapi lufik](https://giftforus.hu/products/map-szemelyre-szabott-ajandekok-copy): Egy év boldogság, nevetés, szeretet – és most egy örök emlék a legelső születésnapról. 🎈👶 A Születésnapi Lufik egy vidám, szerethető, személyre szabható poszter, amely megőrzi a baba első születésnapjának hangulatát. A központi elem a lufikkal díszített grafika, amelyben minden egyes részlet rólatok szól: a baba neve, a születésnap dátuma, fotó és akár egy személyes üzenet is megadható. 🎉 Mit adhatsz meg hozzá? A baba nevét Az első születésnap dátumát Egy saját fotót, amit a poszter látványos részeként helyezünk el Egy idézetet vagy üzenetet, ami lehet játékos, megható vagy szívből jövő Választható grafikai elemek és lufik stílusa, színe – fiús, lányos vagy semleges verziókban 🎁 Tökéletes ajándék: A baba első születésnapjára Szülőknek vagy nagyszülőknek meglepetésként A gyerekszoba falára – mint kedves, örök emlék 🕒 1 munkanapos gyártás – gyors és szeretetteljes kivitelezés🎈 Vidám születésnapi design lufikkal, játékos részletekkel📸 Személyes fotóval és egyedi szöveggel📞 Kiemelt ügyfélszolgálat✅ 100% elégedettségi garancia Az első születésnap mindig különleges – tedd felejthetetlenné egy egyedi poszterrel, amit örökké őrizhettek.Lepd meg magatokat vagy szeretteiteket ezzel a vidám és szívmelengető emlékkel!
-  Updated: 2025-08-21T23:57:46Z
+  Updated: 2026-10-14T09:45:33Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -987,7 +987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/6985d6209aa6c.webp?v=1770378792
     Price: 7990,00 Ft HUF
 - [Spotify - személyre szabott ajándékok](https://giftforus.hu/products/spotify-szemelyre-szabott-ajandekok): Minden kapcsolatnak van egy dala – most végre látható és hallható is lehet. 🎵❤️ A Spotify Poszter egy modern, érzelmekkel teli, személyre szabható plakát, amely megörökíti a ti közös dalotokat. A poszteren szerepel a dal címe, az előadó neve, valamint egy QR-kód, amelyet beolvasva azonnal elérhető a Spotify-on. A különleges hangulatot pedig egy saját közös fotótok teszi teljessé. 📱 Mit adhatsz meg hozzá? A közös dal címe és az előadó neve Egy saját fotó, amit a design részeként helyezünk el – legyen az egy ölelés, utazás vagy épp az első csók pillanata A dalhoz generálunk egy Spotify QR-kódot, amit a poszterre helyezünk – így egy pillanat alatt újra átélhetitek azt a dalt Választhatsz többféle design stílus közül: minimalista, romantikus, vintage vagy színes, fiatalos 🎁 Tökéletes ajándék: Valentin-napra vagy évfordulóra Születésnapra a párodnak Eljegyzéshez, esküvőre, nászajándékként Vagy csak úgy – mert van, amit egy dallal lehet elmondani igazán 🕒 1 munkanapos gyártás – gyors és minőségi kivitelezés🎶 Spotify QR-kód, azonnali zenelejátszással📸 Személyes fotóval és teljesen egyedi szöveggel📞 Kiemelt ügyfélszolgálat – segítünk, ha elakadnál✅ 100% elégedettségi garancia Egy dal. Egy emlék. Egy kattintás – és újra ott vagytok.Ajándékozz egy plakátot, ami nemcsak a falat, de a szívet is megszólítja.
-  Updated: 2026-02-28T17:59:07Z
+  Updated: 2026-10-22T09:44:31Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -2393,7 +2393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/687a13ed8922c.webp?v=1755777389
     Price: 19 990,00 Ft HUF
 - [Vászonkép - A mi holdunk - személyre szabott ajndékok](https://giftforus.hu/products/vaszonkep-a-mi-holdunk-szemelyre-szabott-ajndekok): Amikor először néztek egymásra... a Hold is máshogy ragyogott. 🌙 A Mi Holdunk egy különleges, személyre szabott poszter, amely megmutatja, hogyan festett a Hold az égen azon a napon – és azon a helyen – amikor minden elkezdődött. Legyen szó az első randiról , az első csókról , az évfordulótokról , vagy akár az eljegyzésekről – ez a gyönyörű holdfázis emlék örökre megőrzi az égbolt egy darabját. 🌕 Mit adhatsz meg? Egy pontos adatot Egy helyszínt (város, ország) És mi elkészítjük aznapi Hold pontos fázisát , úgy, ahogy akkor látható volt az égen. Telihold? Fogyó? Újhold? Pont az fog megjelenni a poszteren. 🖤 Tökéletes ajándék: Első randi vagy csók emlékére Évfordulóra Születésnapra , vagy akár gyermek születésére Anyák napjára vagy Valentin-napra – ha igazán különleges meglepetést keresel 💌 Kérhetsz hozzá személyes üzenetet, idézetet, vagy egy dátumot és neveket is feltüntetett rajta – teljesen a saját történetetekre szabva. 🕒 1 munkanapos gyártás 🌔 Prémium minőségű holdfázis illusztrációk 📞 Kiemelt ügyfélszolgálat ✅ 100% elégedettségi garancia Mert a Hold is tanúja volt annak, amikor a szívetek egymásra talált. Őrizd meg ezt az emléket – örökre a falatokon.
-  Updated: 2026-05-01T08:11:06Z
+  Updated: 2026-09-22T15:04:57Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -2529,7 +2529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/687a573616f77.webp?v=1752848220
     Price: 7990,00 Ft HUF
 - [A legjobb páros!](https://giftforus.hu/products/a-legjobb-paros): 💞 A legjobb páros – személyre szabott zodiákus poszter Minden kapcsolat különleges – de van az a pillanat, amikor két ember csillagai is egymás felé fordulnak.„A legjobb páros” poszter nemcsak egy közös fotó, hanem egy egyedi alkotás, amely megmutatja, hogyan egészítitek ki egymást a csillagok szerint. ✨ 🌙 Mit adhatsz meg?– A párotok neveit– Egy közös fényképet– A születési dátumokat, amelyek alapján megjelenik mindkettőtök zodiákus jegye– Egy rövid, személyes üzenetet vagy idézetet, ami csak rólatok szól 🖤 Tökéletes ajándék:– Évfordulóra, születésnapra vagy Valentin-napra– Pároknak, akik hisznek a sorsban és a csillagokban– Ajándékként a kedvesednek, hogy örökké emlékeztessen: ti ketten vagytok a legjobb páros 💫 Részletek:🕒 1 munkanapos gyártás🖨️ Prémium minőségű nyomat, választható méretekben💌 Teljesen személyre szabható üzenettel és dizájnnal Mert amikor két ember igazán egymásra talál,a csillagok is kicsit közelebb kerülnek egymáshoz.
-  Updated: 2026-03-19T00:10:22Z
+  Updated: 2026-09-17T09:30:02Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -2641,55 +2641,55 @@
 ## Collections
 
 - [Ajándékok nőknek](https://giftforus.hu/collections/ajandekok-noknek): Alkoss egyedi fényképes ajándékokat online, egyszerűen, gyorsan. Ajándékötletek édesanyáknak, barátnőnek, barátoknak, vagy lánytestvérnek. Ajándékok születésnapra, évfordulóra, karácsonyra, nőnapra, velantin napra, anyák napajára.
-  Updated: 2026-06-16T12:10:27Z
+  Updated: 2026-10-11T11:36:23Z
   Total Products: 29
 - [Ajándékok férfiaknak](https://giftforus.hu/collections/ajandekok-ferfiaknak): Alkoss egyedi fényképes ajándékokat online, egyszerűen, gyorsan. Ajándékötletek édeapáknak, nagypapának,férfiaknak, barátoknak, vagy testvérnek. Ajándékok születésnapra, névnapra, ballagásra, évfordulóra, karácsonyra.
-  Updated: 2026-08-10T11:34:41Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 25
 - [Csaladnak](https://giftforus.hu/collections/csaladnak)
-  Updated: 2026-08-10T11:34:41Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 23
 - [Párok](https://giftforus.hu/collections/parok)
-  Updated: 2026-09-05T11:33:30Z
+  Updated: 2026-10-22T11:45:48Z
   Total Products: 35
 - [Gyermekeknek](https://giftforus.hu/collections/gyermekeknek)
-  Updated: 2026-06-09T11:41:38Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 16
 - [Barátoknak](https://giftforus.hu/collections/baratoknak)
-  Updated: 2026-08-10T11:34:41Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 12
 - [Esküvő](https://giftforus.hu/collections/eskuvo)
-  Updated: 2026-05-06T12:02:56Z
+  Updated: 2026-09-18T11:38:40Z
   Total Products: 9
 - [Nyaralás](https://giftforus.hu/collections/nyaralas)
   Updated: 2026-03-05T19:10:56Z
   Total Products: 4
 - [Újdonságok](https://giftforus.hu/collections/ujdonsagok)
-  Updated: 2026-06-09T11:41:38Z
+  Updated: 2026-10-06T11:37:28Z
   Total Products: 23
 - [Szezonális](https://giftforus.hu/collections/szezonalis)
   Updated: 2026-04-29T07:38:20Z
   Total Products: 8
 - [Képek - fotókollázsok](https://giftforus.hu/collections/kepek-fotokollazsok): Alkoss egyedi fotókollázsokat a család minden tagja számára.
-  Updated: 2026-08-10T11:34:41Z
+  Updated: 2026-10-22T11:45:48Z
   Total Products: 54
 - [Anyák napja](https://giftforus.hu/collections/anyak-napja): Egyedi, megszemélyesített ajándékok Anyák napjára.
-  Updated: 2026-06-08T12:35:12Z
+  Updated: 2026-10-11T11:36:23Z
   Total Products: 28
 - [Apák napja](https://giftforus.hu/collections/apak-napja): Egyedi ajándékötletek Apák napjára. Kényelmes online felület, különleges megoldások, a siker garantált.
-  Updated: 2026-08-10T11:34:41Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 14
 - [Szülőknek, nagyszülőknek](https://giftforus.hu/collections/szuloknek-nagyszuloknek): Egyedi ajándékok szülőknek, nagyszülőknek.
-  Updated: 2026-06-08T12:28:40Z
+  Updated: 2026-10-07T11:44:09Z
   Total Products: 16
 - [Születésnap](https://giftforus.hu/collections/szuletesnapi-ajandekotletek)
-  Updated: 2026-06-08T12:33:17Z
+  Updated: 2026-10-14T11:58:00Z
   Total Products: 17
 - [Vászonképek](https://giftforus.hu/collections/vaszonkepek)
-  Updated: 2026-09-05T11:33:30Z
+  Updated: 2026-09-23T11:38:35Z
   Total Products: 4
 - [Csillagok varázsa](https://giftforus.hu/collections/asztrologia-kedveloknek): Alkoss egyedi csillagtérképeket vagy holdfázisokat a legfontosabb eseményekről. Kiváló ajándéknak is.
-  Updated: 2026-04-29T07:38:20Z
+  Updated: 2026-09-18T11:38:40Z
   Total Products: 9
 - [Karácsony](https://giftforus.hu/collections/karacsony): Egyedi fényképes ajándékötletek karácsonyra a család minden tagja számára
   Updated: 2025-12-11T12:55:47Z
@@ -2718,13 +2718,13 @@
 ## Policies
 
 - [Privacy Policy](https://giftforus.hu/policies/privacy-policy)
-  Updated: 2025-03-24T14:30:53+01:00
+  Updated: 2025-03-24T13:30:53Z
 - [Refund Policy](https://giftforus.hu/policies/refund-policy)
-  Updated: 2025-07-24T12:15:25+02:00
+  Updated: 2025-07-24T10:15:25Z
 - [Terms of Service](https://giftforus.hu/policies/terms-of-service)
-  Updated: 2025-07-24T12:53:23+02:00
+  Updated: 2025-07-24T10:53:23Z
 - [Contact Information](https://giftforus.hu/policies/contact-information)
-  Updated: 2025-07-24T12:20:35+02:00
+  Updated: 2025-07-24T10:20:35Z
 
 ## Optional
 
