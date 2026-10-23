@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-05-28T21:11:21Z
 - Contact Email: creativita.110@gmail.com
-- Updated At: 2026-10-14T00:00:44.723Z
+- Updated At: 2026-10-23T00:35:41.222Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0693/1533/0115/files/productMastershop.png?v=1785471486
     Price: 269.700,00 $ COP
 - [RtaFull | Depurativo Hepático y Digestivo Natural – Creativita](https://shopcreativita.com/products/rtafull-suplemento-depurativo-natural-500ml): Depura hígado, riñones e intestinos con RtaFull. Suplemento líquido con té verde, alcachofa y flor de Jamaica. 500ml. Envío gratis.
-  Updated: 2026-09-21T20:12:47Z
+  Updated: 2026-10-22T00:23:18Z
   Vendor: Creativita Shop
   Product Type: Suplementos
   Availability: Available
@@ -2809,17 +2809,17 @@
   Updated: 2026-09-15T18:22:05Z
   Total Products: 1
 - [TENIS Y CALZADO](https://shopcreativita.com/collections/tenis-y-calzado): Encuentra el equilibrio perfecto entre estilo urbano, comodidad y resistencia. Descubre nuestro catálogo con las marcas más exclusivas de tenis del mercado, diseñados para quienes imponen su propio ritmo en la calle. Modelos seleccionados con altos estándares de calidad y listos para cualquier terreno. Envíos seguros a nivel nacional con todas las opciones de pago. ¡Elige tus favoritos hoy mismo!
-  Updated: 2026-10-08T20:32:06Z
-  Total Products: 226
+  Updated: 2026-10-21T18:02:50Z
+  Total Products: 232
 - [MODA Y ACCESORIOS](https://shopcreativita.com/collections/moda-y-accesorios): Elevamos tu outfit diario con complementos diseñados para destacar. Encuentra desde gorras de corte premium y camisetas con el fit perfecto, hasta una exclusiva selección de perfumería de alta fijación que define tu presencia. Tu estilo, nuestras facilidades: Calidad Premium: Selección Óptima en cada detalle. Compra sin fricciones: Pago Contra Entrega, Sistecrédito, PSE, tarjetas y transferencia. Despacho Inmediato: Envío hoy mismo a cualquier parte del país.
-  Updated: 2026-10-08T18:41:45Z
-  Total Products: 44
+  Updated: 2026-10-17T22:37:35Z
+  Total Products: 47
 - [TECNOLOGÍA](https://shopcreativita.com/collections/tecnologia): No solo busques lo último, busca lo que realmente optimiza tu día. Nuestra colección de tecnología reúne gadgets de alto rendimiento, desde smartwatches que miden tu ritmo hasta sistemas de audio de fidelidad extrema, diseñados para quienes integran la tecnología como una extensión de su potencial. ¿Qué encuentras en Creativita Shop? Funcionalidad Real: Gadgets probados para rendir en trabajo, entrenamiento o movimiento urbano. Seguridad Total: Paga como prefieras: Contra Entrega, Sistecredito, PSE, tarjetas o transferencia. Respaldo Directo: Garantía real y despacho inmediato a todo el país. Lleva tu día a día al siguiente nivel.
   Updated: 2026-09-16T17:00:30Z
   Total Products: 24
 - [SALUD Y BELLEZA](https://shopcreativita.com/collections/salud-y-bienestar): ¿Sientes que tu ritmo diario te agota? En Creativita Shop, seleccionamos soluciones de nutrición y cuidado personal diseñadas para devolverte el equilibrio y la energía que necesitas para rendir al máximo. ¿Por qué elegir nuestra línea de Bienestar? Resultados Reales: Fórmulas de alta calidad para optimizar tu rendimiento. Compra Fácil: Paga Contra Entrega, Sistecredito, PSE, tarjetas o transferencia. Seguridad Total: Respaldamos tu salud con envíos rápidos y garantía en cada producto. Recupera tu energía hoy.
-  Updated: 2026-10-08T20:08:17Z
-  Total Products: 150
+  Updated: 2026-10-22T11:25:12Z
+  Total Products: 151
 - [OFERTAS Y DESCUENTOS](https://shopcreativita.com/collections/ofertas-y-descuentos): No dejes pasar el estilo que buscas a un precio irrepetible. Hemos seleccionado piezas clave en calzado, Salud, moda y tecnología con descuentos especiales por tiempo limitado. ¿Por qué aprovechar ahora? Precios Imbatibles: Calidad premium con el mejor ahorro. Seguridad Total: Pago Contra Entrega, Sistecrédito, tarjetas, PSE y transferencia. Despacho Inmediato: Recibe tu pedido sin largas esperas.
   Updated: 2026-09-26T20:09:31Z
   Total Products: 28
@@ -2830,11 +2830,11 @@
   Updated: 2026-09-24T17:07:49Z
   Total Products: 107
 - [PERFUMERÍA](https://shopcreativita.com/collections/perfumeria): Explora perfumes, sets y fragancias para mujer, hombre y unisex en Creativita Shop. Compra en Colombia con opciones de pago flexibles.
-  Updated: 2026-10-08T20:15:51Z
-  Total Products: 87
+  Updated: 2026-10-17T22:49:56Z
+  Total Products: 92
 - [UNIVERSO FEMENINO: Moda y Accesorios](https://shopcreativita.com/collections/universo-femenino-moda-y-accesorios): Bienvenida a nuestro espacio exclusivo para ti. En Universo Femenino hemos reunido todo lo necesario para complementar tu estilo en un solo lugar. Desde las últimas tendencias en moda urbana hasta los accesorios que marcan la diferencia en tu look diario. ¿Qué encuentras en esta colección? Moda Versátil: Camisetas, conjuntos, pantalonetas y prendas diseñadas para combinar comodidad y estilo. Accesorios Esenciales: El toque final para elevar cualquier outfit y resaltar tu personalidad. Calidad Garantizada: Materiales seleccionados para ofrecerte durabilidad en cada prenda. Variedad Constante: Actualizamos nuestra selección para que siempre encuentres algo nuevo. Compra fácil, recibe rápido: Olvídate de las complicaciones. Selecciona lo que te gusta, elige tu método de pago —incluyendo pago contra entrega— y recibe en la puerta de tu casa.
-  Updated: 2026-10-08T18:41:45Z
-  Total Products: 25
+  Updated: 2026-10-17T22:37:35Z
+  Total Products: 28
 - [UNIVERSO MASCULINO: Moda y Accesorios](https://shopcreativita.com/collections/universo-masculino-moda-y-accesorios): Bienvenido a tu espacio. En Universo Masculino hemos seleccionado lo mejor en tendencia urbana y accesorios para el hombre que busca estilo sin complicaciones. Desde prendas básicas esenciales para tu día a día hasta los complementos que definen tu imagen, aquí encuentras todo lo necesario para destacar. ¿Qué encuentras en esta colección? Estilo Urbano: Camisetas, conjuntos, pantalonetas y prendas con el ajuste perfecto para tu ritmo de vida. Accesorios Clave: Gorras, relojes y complementos seleccionados para resaltar tu personalidad. Calidad y Resistencia: Ropa diseñada para el uso diario, con materiales que mantienen su forma, color y durabilidad. Catálogo Actualizado: Renovamos nuestras opciones constantemente para que siempre tengas lo último en tendencia. Compra fácil, recibe rápido: No te compliques. Elige tus prendas, selecciona tu método de pago —incluyendo pago contra entrega— y recibe tu pedido directamente en la puerta de tu casa.
   Updated: 2026-09-28T18:10:25Z
   Total Products: 30
@@ -2845,14 +2845,14 @@
   Updated: 2026-10-07T22:01:40Z
   Total Products: 33
 - [Reebok: Legado de Rendimiento y Estilo Retro](https://shopcreativita.com/collections/reebok-legado-de-rendimiento-y-estilo-retro): En Creativita Shop, celebramos lo clásico con la mirada puesta en el futuro. Nuestra selección Reebok fusiona la herencia icónica del fitness con diseños vanguardistas, ideal para quienes buscan autenticidad y resistencia en cada paso. Lo que nos hace únicos: Iconos del Estilo: Diseños legendarios que marcan tendencia dentro y fuera del gimnasio. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Autenticidad en cada detalle.
-  Updated: 2026-10-07T22:34:39Z
-  Total Products: 6
+  Updated: 2026-10-17T21:57:41Z
+  Total Products: 8
 - [All Star: El Ícono de la Identidad Urbana](https://shopcreativita.com/collections/all-star-el-icono-de-la-identidad-urbana): En Creativita Shop, apostamos por los clásicos que nunca pasan de moda. Nuestra selección All Star reúne el diseño atemporal y la versatilidad de una leyenda, creada para quienes marcan su propio camino con autenticidad. Lo que nos hace únicos: Diseño Legendario: El estilo original que ha definido generaciones. Flexibilidad en tus Pagos: Pago Contra Entrega, Sistecredito, tarjetas, PSE y transferencia. Tu esencia, tu historia.
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
 - [ASICS: Domina el Terreno con Soporte Inteligente](https://shopcreativita.com/collections/asics-domina-el-terreno-con-soporte-inteligente): ¿Sientes que tus pies necesitan más que solo zapatos? En Creativita Shop, sabemos que el rendimiento real nace de la estabilidad. Con nuestra selección ASICS, no solo eliges un diseño; eliges un sistema de amortiguación diseñado para proteger cada impacto y potenciar tu resistencia natural. Lo que nos hace resaltar: Tu cuerpo te lo agradecerá: Ingeniería enfocada en corregir la pisada y brindar confort absoluto. Libertad de compra: Tú decides cómo pagar: Pago Contra Entrega, Sistecrédito, tarjetas, PSE o transferencia. La tecnología se pone a tus pies.
-  Updated: 2026-10-08T17:38:16Z
-  Total Products: 3
+  Updated: 2026-10-17T21:00:00Z
+  Total Products: 4
 - [On Cloud: Desafía la Gravedad en Cada Paso](https://shopcreativita.com/collections/on-cloud-desafia-la-gravedad-en-cada-paso): ¿Alguna vez has querido caminar sobre las nubes? No es una metáfora. En Creativita Shop, hemos traído la innovación de On Cloud para quienes entienden que el peso es el enemigo del movimiento. Su tecnología de amortiguación es el puente entre el alto rendimiento deportivo y una ligereza que te hará olvidar que llevas zapatos puestos. Lo que nos hace resaltar: Ingeniería suiza de precisión: Estructuras inteligentes que se activan solo cuando aterrizas. Tú tienes el control total: Elige tu método favorito: Pago Contra Entrega, Sistecredito, tarjetas, PSE o transferencia. La comodidad, elevada a un nuevo nivel.
   Updated: 2026-09-16T15:42:08Z
   Total Products: 27
@@ -2872,8 +2872,8 @@
   Updated: 2026-09-30T14:51:29Z
   Total Products: 17
 - [BRAHMA: Resistencia Extrema y Aventura Urbana](https://shopcreativita.com/collections/brahma-resistencia-extrema-y-aventura-urbana): Diseñadas para quienes no se detienen ante los retos del camino. La línea Brahma es el estándar de máxima durabilidad y protección. En Creativita Shop, traemos esta selección G5 pensada para el trabajador, el viajero y el aventurero urbano que exige un calzado que aguante tanto como él. No es solo robustez; es la tranquilidad de saber que tus pies están protegidos bajo cualquier condición. Por qué Brahma es el escudo que necesitas: Durabilidad Blindada: Construcción robusta diseñada para soportar terrenos exigentes y uso rudo. Seguridad y Confort: Tecnología enfocada en proteger el pie sin sacrificar la comodidad durante largas jornadas. Facilidad Total: Compra con Pago Contra Entrega, Sistecredito, PSE, tarjetas y transferencias. Estilo Funcional: El diseño que combina la estética de la aventura con la eficacia que tu ritmo de vida requiere.
-  Updated: 2026-08-02T17:53:11Z
-  Total Products: 0
+  Updated: 2026-10-21T19:52:05Z
+  Total Products: 7
 - [BOSI: Elegancia Artesanal y Estilo en Cuero](https://shopcreativita.com/collections/bosi-elegancia-artesanal-y-estilo-en-cuero): La verdadera calidad se siente al tacto. En Creativita Shop, presentamos la selección G5 de Bosi, donde la tradición artesanal del cuero se encuentra con el diseño contemporáneo. Cada pieza es una inversión en estilo y durabilidad, pensada para quienes no aceptan menos que la perfección en su calzado y accesorios. Proyecta una imagen de sofisticación que trasciende las tendencias. Por qué Bosi es tu elección maestra: Maestría en Cuero: Acabados premium que realzan tu presencia con naturalidad y distinción. Durabilidad Ética: Materiales seleccionados bajo los más altos estándares G5 para garantizar una vida útil prolongada. Facilidad Total: Compra con Pago Contra Entrega, Sistecrédito, PSE, tarjetas y transferencias. Sofisticación Versátil: Diseños que dominan tanto entornos formales como los momentos donde el estilo es el protagonista.
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
@@ -2881,8 +2881,8 @@
   Updated: 2026-08-02T17:53:11Z
   Total Products: 0
 - [Tommy Hilfiger: Elegancia Clásica y Estilo Urbano](https://shopcreativita.com/collections/tommy-hilfiger-elegancia-clasica-y-estilo-urbano): "En Creativita Shop, redefine tu presencia. Nuestra selección Tommy Hilfiger combina la sofisticación atemporal con la comodidad moderna. Encuentra calzado y accesorios diseñados para destacar con distinción. Pagos seguros, Contra Entrega y envíos ágiles."
-  Updated: 2026-10-08T20:32:06Z
-  Total Products: 6
+  Updated: 2026-10-17T22:49:56Z
+  Total Products: 12
 
 ## Blogs
 
@@ -2967,6 +2967,26 @@
     Updated: 2026-10-12T02:07:14Z
     Author: CREATIVITA SHOP
     Tags: calzado, compra de zapatos, compras, compras online, consejos para comprar calzado, estilo de vida, mejores zapatos online, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de compras, tenis, tenis y calzado, tiendas digitales
+  - [Cómo impactan las nuevas tendencias en salud y belleza en nuestra rutina diaria](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/como-impactan-las-nuevas-tendencias-en-salud-y-belleza-en-nuestra-rutina-diaria): Cómo impactan las nuevas tendencias en salud y belleza en nuestra rutina diaria
+    Updated: 2026-10-14T05:12:09Z
+    Author: CREATIVITA SHOP
+    Tags: belleza, compras online, compras sostenibles, estilo de vida, hábitos de consumo actuales, impacto en beauty, moda y tecnologia, ofertas y descuentos, perfumería, rutina diaria, salud, salud y belleza, tendencias, tenis y calzado
+  - [Una mirada sobre las tendencias más emocionantes en moda y tecnología](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/una-mirada-sobre-las-tendencias-mas-emocionantes-en-moda-y-tecnologia): Una mirada sobre las tendencias más emocionantes en moda y tecnología
+    Updated: 2026-10-16T00:20:34Z
+    Author: CREATIVITA SHOP
+    Tags: avances tecnológicos en compras, compras en línea, compras online, estilo de vida, gadgets innovadores, moda, moda sostenible, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tecnología, tendencias, tendencias de moda 2026, tenis y calzado
+  - [Ofertas y tendencias: Cómo elegir sabiamente al comprar online](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/ofertas-y-tendencias-como-elegir-sabiamente-al-comprar-online): Ofertas y tendencias: Cómo elegir sabiamente al comprar online
+    Updated: 2026-10-19T00:30:32Z
+    Author: CREATIVITA SHOP
+    Tags: cómo comprar online, compras, compras online, consejos de compra, elecciones sabias, estilo de vida, guía de compras inteligentes, moda y tecnologia, ofertas, ofertas y descuentos, perfumería, salud y belleza, tendencias, tenis y calzado
+  - [Este mes en perfumería: las tendencias que están rompiendo esquemas](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/este-mes-en-perfumeria-las-tendencias-que-estan-rompiendo-esquemas): Este mes en perfumería: las tendencias que están rompiendo esquemas
+    Updated: 2026-10-21T00:22:58Z
+    Author: CREATIVITA SHOP
+    Tags: compras, compras online, estilo de vida, fragancias populares, lanzamientos nuevos, moda de perfumes, moda y tecnologia, novedades en fragancias, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias en perfumería de este mes, tenis y calzado
+  - [Cómo mantenerse al día con las tendencias de compras sin romper el banco](https://shopcreativita.com/blogs/estilo-bienestar-y-tendencias/como-mantenerse-al-dia-con-las-tendencias-de-compras-sin-romper-el-banco): Cómo mantenerse al día con las tendencias de compras sin romper el banco
+    Updated: 2026-10-23T00:24:24Z
+    Author: CREATIVITA SHOP
+    Tags: ahorros, cómo ahorrar en compras, compra inteligente, compras, compras online, economía personal, estilo de vida, mantenerse al día con tendencia, moda y tecnologia, ofertas y descuentos, perfumería, salud y belleza, tendencias, tendencias de moda, tenis y calzado
 
 ## Store Pages
 
@@ -2978,15 +2998,15 @@
 ## Policies
 
 - [Privacy Policy](https://shopcreativita.com/policies/privacy-policy)
-  Updated: 2026-09-22T21:50:27-05:00
+  Updated: 2026-09-23T02:50:27Z
 - [Shipping Policy](https://shopcreativita.com/policies/shipping-policy)
-  Updated: 2026-09-15T22:19:10-05:00
+  Updated: 2026-09-16T03:19:10Z
 - [Refund Policy](https://shopcreativita.com/policies/refund-policy)
-  Updated: 2026-09-15T22:14:34-05:00
+  Updated: 2026-09-16T03:14:34Z
 - [Terms of Service](https://shopcreativita.com/policies/terms-of-service)
-  Updated: 2026-09-15T22:31:26-05:00
+  Updated: 2026-09-16T03:31:26Z
 - [Contact Information](https://shopcreativita.com/policies/contact-information)
-  Updated: 2026-07-31T11:36:29-05:00
+  Updated: 2026-07-31T16:36:29Z
 
 ## Optional
 
