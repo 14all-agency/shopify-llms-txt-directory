@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-12-01T19:12:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-10T00:00:42.809Z
+- Updated At: 2026-10-23T00:47:05.169Z
 
 ## Products
 
 - [2025 Tour Tee](https://james.merchmadeeasy.com/products/2025-tour-tee): 100% combed ring-spun cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-07T20:43:35Z
+  Updated: 2026-10-16T17:25:11Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Mosaic Flower Tee - Cool Blue](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue): 100% combed ring-spun cotton t-shirt in cool blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-07T20:43:35Z
+  Updated: 2026-10-16T17:25:11Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Flower Tee - Natural](https://james.merchmadeeasy.com/products/flower-tee-natural): 100% combed ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-07T20:43:35Z
+  Updated: 2026-10-16T17:25:11Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -215,7 +215,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Lolly_Beach_Towel.png?v=1766428339
   Price: $25.00 USD
 - [Flower Campfire Mug](https://james.merchmadeeasy.com/products/flower-campfire-mug): Enamel campfire mug in white
-  Updated: 2026-10-05T13:05:25Z
+  Updated: 2026-10-16T17:25:11Z
   Vendor: James US
   Product Type: Mug
   Availability: Available
@@ -229,7 +229,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0634/6076/9895/files/JMSS_Picnic_Cup_Front.png?v=1766428338
   Price: $5.00 USD
 - [Lolly Enamel Pin Set](https://james.merchmadeeasy.com/products/lolly-enamel-pin-set): Set of three enamel pins with card backing
-  Updated: 2026-10-05T13:05:26Z
+  Updated: 2026-10-16T17:25:11Z
   Vendor: James US
   Product Type: Pin
   Availability: Available
@@ -270,15 +270,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://james.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:10:23-05:00
+  Updated: 2026-06-19T15:10:23Z
 - [Shipping Policy](https://james.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-25T10:48:49-05:00
+  Updated: 2026-09-25T15:48:49Z
 - [Refund Policy](https://james.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-19T10:10:15-05:00
+  Updated: 2026-06-19T15:10:15Z
 - [Terms of Service](https://james.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-25T10:48:32-05:00
+  Updated: 2026-09-25T15:48:32Z
 - [Contact Information](https://james.merchmadeeasy.com/policies/contact-information)
-  Updated: 2025-12-01T13:47:50-06:00
+  Updated: 2025-12-01T19:47:50Z
 
 ## Optional
 
