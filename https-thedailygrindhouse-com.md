@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-09-14T00:00:45.553Z
+- Updated At: 2026-10-23T00:50:08.058Z
 
 ## Products
 
@@ -409,8 +409,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/chocolate-hazelnut?variant=49110412525810)
     Availability: Available
     Price: $169.99 USD
-- [Cinnabun Flavored Ground Coffee | Sweet Cinnamon Medium Roast | The](https://thedailygrindhouse.com/products/cinnabun): All the flavor of a fresh-baked cinnamon roll — zero calories, zero guilt. Our Cinnabun flavored coffee captures the warm, sweet, doughy magic of your favorite
-  Updated: 2026-08-22T15:11:28Z
+- [Cinnamon Roll Flavored Ground Coffee | The Daily Grindhouse](https://thedailygrindhouse.com/products/cinnabun): Smooth medium roast coffee with warm cinnamon roll, sweet dough, and vanilla notes. No added sugar or calories from flavoring.
+  Updated: 2026-09-30T13:13:36Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -542,7 +542,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Caramel Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/caramel): Sweet, buttery, and irresistibly smooth — our Caramel flavored coffee wraps a medium roast specialty-grade Arabica in a rich, all-natural caramel flavor that’s
-  Updated: 2026-09-13T02:39:27Z
+  Updated: 2026-10-19T15:17:05Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1156,7 +1156,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Breakfast Blend Ground Coffee | Light Medium Roast | The Daily](https://thedailygrindhouse.com/products/breakfast-blend): The perfect start to any morning — our Breakfast Blend is a smooth, approachable medium roast that delivers consistent, satisfying flavor without any fuss. A
-  Updated: 2026-08-22T15:11:38Z
+  Updated: 2026-10-13T18:08:29Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -3071,14 +3071,14 @@
     Availability: Available
     Price: $84.99 USD
 - [Best Sellers Coffee Sample Pack | The Daily Grindhouse](https://thedailygrindhouse.com/products/best-sellers-sample-pack-6bean-cowboy-breakfast-peru-mexico-bali): Try our top 6 coffees in one pack — 6 Bean, Cowboy, Breakfast, Peru, Mexico & Bali. The perfect way to find your favorite.
-  Updated: 2026-08-07T12:55:27Z
+  Updated: 2026-10-19T15:10:36Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $21.24 USD
 - [Flavored Coffee Sample Pack | The Daily Grindhouse](https://thedailygrindhouse.com/products/flavored-coffees-sample-pack): Sample all our flavored coffees in one convenient pack — from Mocha and Hazelnut to Pumpkin Spice and beyond.
-  Updated: 2026-08-07T12:32:02Z
+  Updated: 2026-10-19T15:10:36Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -3092,7 +3092,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $19.99 USD
 - [Jasmine Green Tea | Delicate Floral Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/jasmine): Delicate, floral, and timelessly elegant — our Jasmine tea is a masterclass in patience and craft. Hand-picked green tea leaves are carefully paired with
-  Updated: 2026-09-13T02:39:29Z
+  Updated: 2026-10-19T15:10:36Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
@@ -3354,7 +3354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-garment-dyed-heavyweight-t-shirt-bay-front-2-69eb96a04f018.jpg?v=1785328594
     Price: $31.00 USD
 - [Men’s Box Tee - The Daily Grindhouse](https://thedailygrindhouse.com/products/men-s-box-tee): Want a tee with a flattering fit and sturdy construction? Look no further. Men’s boxy tee is the best choice for relaxed streetwear looks and layering. With a
-  Updated: 2026-08-22T15:12:08Z
+  Updated: 2026-09-26T05:50:47Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3448,11 +3448,11 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / M](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483304690)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / L](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483337458)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / XL](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483370226)
@@ -3685,84 +3685,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-midweight-hoodie-white-front-69eb96bda2feb.jpg?v=1785328898
     Price: $67.50 USD
-- [Unisex Eco Sweatshirt - The Daily Grindhouse](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt): Elevate your style with this unisex eco sweatshirt. The shirt has a chic, crisp look and will go great with both casual and more dressed up outfits. Made of
-  Updated: 2026-08-22T15:12:10Z
-  Vendor: The Daily Grindhouse
-  Product Type: T-SHIRT
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-  - [Black / S](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486024434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-black-front-69eb96ca6a4a9.jpg?v=1785329101
-    Price: $63.50 USD
-  - [Black / M](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486057202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-black-front-69eb96ca6a4a9.jpg?v=1785329101
-    Price: $63.50 USD
-  - [Black / L](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486089970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-black-front-69eb96ca6a4a9.jpg?v=1785329101
-    Price: $63.50 USD
-  - [Black / XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486122738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-black-front-69eb96ca6a4a9.jpg?v=1785329101
-    Price: $63.50 USD
-  - [Black / 2XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486155506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-black-front-69eb96ca6a4a9.jpg?v=1785329101
-    Price: $67.00 USD
-  - [French Navy / S](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486188274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-french-navy-front-69eb96ca6b00b.jpg?v=1785329075
-    Price: $63.50 USD
-  - [French Navy / M](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486221042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-french-navy-front-69eb96ca6b00b.jpg?v=1785329075
-    Price: $63.50 USD
-  - [French Navy / L](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486253810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-french-navy-front-69eb96ca6b00b.jpg?v=1785329075
-    Price: $63.50 USD
-  - [French Navy / XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486286578)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-french-navy-front-69eb96ca6b00b.jpg?v=1785329075
-    Price: $63.50 USD
-  - [French Navy / 2XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486319346)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-french-navy-front-69eb96ca6b00b.jpg?v=1785329075
-    Price: $67.00 USD
-  - [White / S](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486352114)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-    Price: $63.50 USD
-  - [White / M](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486384882)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-    Price: $63.50 USD
-  - [White / L](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486417650)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-    Price: $63.50 USD
-  - [White / XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486450418)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-    Price: $63.50 USD
-  - [White / 2XL](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt?variant=49110486483186)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-eco-changer-2.0-sweatshirt-white-front-69eb96ca6b0ac.jpg?v=1785329049
-    Price: $67.00 USD
-[List Continued](https://thedailygrindhouse.com/a/llms-agent/llms.txt?shop=551k0e-a0.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM5NTkxNTcxNjk4LCJsYXN0X3ZhbHVlIjoiOTAzOTU5MTU3MTY5OCJ9)
+[List Continued](https://thedailygrindhouse.com/a/llms-agent/llms.txt?shop=551k0e-a0.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM5NTkxNDQwNjI2LCJsYXN0X3ZhbHVlIjoiOTAzOTU5MTQ0MDYyNiJ9)
 
 ## Collections
 
 - [Coffee](https://thedailygrindhouse.com/collections/coffee): Shop single origins, blends, flavored roasts, cold brew & specialty coffees. Every bag selected for quality and roasted for flavor. Find your perfect cup.
-  Updated: 2026-09-13T11:18:07Z
+  Updated: 2026-10-11T11:40:08Z
   Total Products: 61
 - [Blends](https://thedailygrindhouse.com/collections/blends): Shop signature coffee blends crafted for balance and depth. From smooth Breakfast Blend to bold Cowboy Blend — roasted for every brewing method.
-  Updated: 2026-08-07T23:43:12Z
+  Updated: 2026-10-11T11:40:08Z
   Total Products: 23
 - [Flavored](https://thedailygrindhouse.com/collections/flavored): Shop craft flavored coffees — Mocha, Hazelnut, Pumpkin Spice, Caramel & more. Quality roasted beans with natural flavors. Find your next morning ritual.
-  Updated: 2026-09-13T11:18:07Z
+  Updated: 2026-09-30T01:13:30Z
   Total Products: 15
 - [Sample Packs](https://thedailygrindhouse.com/collections/sample-packs): Explore The Daily Grindhouse with curated coffee sample packs. Single origins, flavored roasts & fan favorites. Perfect for discovering your next go-to.
   Updated: 2026-08-06T00:49:12Z
@@ -3789,18 +3723,24 @@
   Updated: 2026-08-06T00:49:13Z
   Total Products: 2
 - [Best of The Daily Grindhouse](https://thedailygrindhouse.com/collections/best-of-the-daily-grindhouse): Shop our most popular coffees — bestselling roasts, fan-favorite blends, and specialty picks. The fastest way to find what The Daily Grindhouse is known for.
-  Updated: 2026-08-07T23:33:43Z
+  Updated: 2026-09-30T01:13:30Z
   Total Products: 12
 - [Gifts](https://thedailygrindhouse.com/collections/gifts): Shop the perfect coffee gifts — sample packs, specialty roasts, premium mugs & branded merch. Curated for real coffee lovers. Free shipping available.
   Updated: 2026-08-06T00:49:13Z
   Total Products: 1
 - [Digital Products](https://thedailygrindhouse.com/collections/digital-products): Shop downloadable coffee guides and resources from The Daily Grindhouse. Instant PDF delivery after purchase.
-  Updated: 2026-08-06T00:49:13Z
+  Updated: 2026-09-29T11:18:10Z
   Total Products: 1
+- [All Merch](https://thedailygrindhouse.com/collections/all-merch): Browse all The Daily Grindhouse merch including tees, hoodies, hats, and drinkware. Premium branded gear for coffee lovers.
+  Updated: 2026-08-31T11:17:37Z
+  Total Products: 19
+- [Coffee Gifts](https://thedailygrindhouse.com/collections/coffee-gifts): Shop the best coffee gifts — premium mugs, sample packs, merch, and digital guides. Perfect for any coffee lover. From The Daily Grindhouse.
+  Updated: 2026-09-29T11:18:10Z
+  Total Products: 24
 
 ## Blogs
 
-- [Origin Stories](https://thedailygrindhouse.com/blogs/origin-stories)
+- [Origin Stories](https://thedailygrindhouse.com/blogs/origin-stories): Coffee stories, brewing tips, and honest advice from The Daily Grindhouse. Learn more about the beans, roasts, and everyday cups we love.
   - [Colombia Coffee Origin Story | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/origin-stories/colombia-coffee-origin-story): Colombia Coffee Origin Story | The Daily Grindhouse
     Updated: 2026-07-25T15:17:27Z
     Author: Matthew Pacharis
@@ -3881,9 +3821,9 @@
     Updated: 2026-08-01T00:30:00Z
     Author: Matthew Pacharis
     Tags: coffee history, indonesian coffee, origin stories, single origin, sumatra, sumatra coffee, wet hulling
-- [Brew Guides](https://thedailygrindhouse.com/blogs/brew-guides)
+- [Brew Guides](https://thedailygrindhouse.com/blogs/brew-guides): Make better coffee at home with straightforward brew guides from The Daily Grindhouse. Explore tips for cold brew, espresso, French press, and more.
   - [How to Make Cold Brew Coffee at Home | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/brew-guides/how-to-make-cold-brew-coffee-at-home): How to Make Cold Brew Coffee at Home | The Daily Grindhouse
-    Updated: 2026-07-25T15:13:43Z
+    Updated: 2026-10-02T00:21:26Z
     Author: Matthew Pacharis
     Tags: brewing guide, coffee tips, cold brew, how to
   - [How to Make Pour Over Coffee at Home | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/brew-guides/how-to-make-pour-over-coffee-at-home): How to Make Pour Over Coffee at Home | The Daily Grindhouse
@@ -3895,7 +3835,7 @@
     Author: Matthew Pacharis
     Tags: brewing guide, coffee tips, french press, how to
   - [How to Make Espresso at Home | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/brew-guides/how-to-make-espresso-at-home): How to Make Espresso at Home | The Daily Grindhouse
-    Updated: 2026-07-25T15:11:45Z
+    Updated: 2026-10-02T00:23:27Z
     Author: Matthew Pacharis
     Tags: brewing guide, coffee tips, espresso, home espresso, how to
   - [How to Make AeroPress Coffee at Home | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/brew-guides/how-to-make-aeropress-coffee-at-home): How to Make AeroPress Coffee at Home | The Daily Grindhouse
@@ -3934,7 +3874,7 @@
     Updated: 2026-07-30T01:15:29Z
     Author: Matthew Pacharis
     Tags: bold coffee, brewing guide, coffee blend, coffee history, cowboy coffee, dark roast, how to brew
-- [Coffee](https://thedailygrindhouse.com/blogs/coffee)
+- [Coffee](https://thedailygrindhouse.com/blogs/coffee): Coffee stories, brewing tips, and honest advice from The Daily Grindhouse. Learn more about the beans, roasts, and everyday cups we love.
   - [Whiskey Barrel Aged Coffee | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/coffee/whiskey-barrel-aged-coffee-spotlight): Whiskey Barrel Aged Coffee | The Daily Grindhouse
     Updated: 2026-07-25T15:40:16Z
     Author: Matthew Pacharis
@@ -3952,7 +3892,7 @@
     Author: Matthew Pacharis
     Tags: caffeine free coffee, decaf, peru decaf, product spotlight, swiss water process
   - [Flavored Coffee Guide | Mocha, Caramel, Hazelnut & More | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/coffee/flavored-coffee-guide): Flavored Coffee Guide | Mocha, Caramel, Hazelnut & More | The Daily Grindhouse
-    Updated: 2026-07-25T15:35:50Z
+    Updated: 2026-10-02T00:26:01Z
     Author: Matthew Pacharis
     Tags: caramel, flavored coffee, hazelnut, mocha, product spotlight, pumpkin spice
   - [Why Roast to Order Coffee Is Better Than Store Bought | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/coffee/why-roast-to-order-coffee-is-better): Why Roast to Order Coffee Is Better Than Store Bought | The Daily Grindhouse
@@ -4002,7 +3942,7 @@
     Updated: 2026-08-22T01:19:38Z
     Author: Matthew Pacharis
     Tags: about us, coffee passion, coffee story, founder, Matthew Pacharis, roast to order, The Daily Grindhouse
-- [Lifestyle & Guides](https://thedailygrindhouse.com/blogs/lifestyle-guides)
+- [Lifestyle & Guides](https://thedailygrindhouse.com/blogs/lifestyle-guides): Find everyday coffee and tea ideas from The Daily Grindhouse, with practical guides and stories to make your daily cup more enjoyable.
   - [Best Coffee Mugs for Every Type of Coffee Drinker | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/lifestyle-guides/best-coffee-mugs-for-every-coffee-drinker): Best Coffee Mugs for Every Type of Coffee Drinker | The Daily Grindhouse
     Updated: 2026-07-25T15:57:48Z
     Author: Matthew Pacharis
@@ -4027,7 +3967,7 @@
     Updated: 2026-08-01T01:08:12Z
     Author: Matthew Pacharis
     Tags: coffee freshness, coffee guide, coffee storage, coffee tips, roast to order, whole beans
-- [Tea](https://thedailygrindhouse.com/blogs/tea)
+- [Tea](https://thedailygrindhouse.com/blogs/tea): Explore tea at The Daily Grindhouse, from flavor notes and origins to simple brewing tips that help you make a better cup at home.
   - [A Guide to Our Tea Collection: From Matcha to Masala Chai | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/tea/a-guide-to-our-tea-collection-from-matcha-to-masala-chai): A Guide to Our Tea Collection: From Matcha to Masala Chai | The Daily Grindhouse
     Updated: 2026-07-25T15:44:18Z
     Author: Matthew Pacharis
@@ -4080,7 +4020,7 @@
     Updated: 2026-08-01T00:13:10Z
     Author: Matthew Pacharis
     Tags: ceremonial tea, green tea, japanese tea, matcha, matcha latte, tea ceremony, tea spotlight
-- [The Blends](https://thedailygrindhouse.com/blogs/the-blends)
+- [The Blends](https://thedailygrindhouse.com/blogs/the-blends): Get to know the coffee blends at The Daily Grindhouse. Explore their flavors, roast styles, and the stories behind your next favorite cup.
   - [6 Bean Blend Coffee: What It Is & Why It Works | The Daily Grindhouse](https://thedailygrindhouse.com/blogs/the-blends/6-bean-blend-why-six-origins-make-one-perfect-cup): 6 Bean Blend Coffee: What It Is & Why It Works | The Daily Grindhouse
     Updated: 2026-07-30T01:36:09Z
     Author: Matthew Pacharis
@@ -4148,8 +4088,8 @@
 
 ## Store Pages
 
-- [Contact](https://thedailygrindhouse.com/pages/contact)
-  Updated: 2026-04-18T14:51:14Z
+- [Contact](https://thedailygrindhouse.com/pages/contact): 
+  Updated: 2026-10-02T00:28:58Z
 - [Your Privacy Choices](https://thedailygrindhouse.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-18T14:51:21Z
 - [Blogs | The Daily Grindhouse](https://thedailygrindhouse.com/pages/blogs): Explore Our BlogsDive into the world of specialty coffee and tea with The Daily Grindhouse. Brew Guides — Step-by-step brewing methods for every st...
@@ -4164,15 +4104,15 @@
 ## Policies
 
 - [Privacy Policy](https://thedailygrindhouse.com/policies/privacy-policy)
-  Updated: 2026-04-18T10:51:22-04:00
+  Updated: 2026-04-18T14:51:22Z
 - [Shipping Policy](https://thedailygrindhouse.com/policies/shipping-policy)
-  Updated: 2026-07-07T20:37:28-04:00
+  Updated: 2026-07-08T00:37:28Z
 - [Refund Policy](https://thedailygrindhouse.com/policies/refund-policy)
-  Updated: 2026-05-14T19:38:55-04:00
+  Updated: 2026-05-14T23:38:55Z
 - [Terms of Service](https://thedailygrindhouse.com/policies/terms-of-service)
-  Updated: 2026-08-05T21:41:57-04:00
+  Updated: 2026-09-30T00:59:39Z
 - [Contact Information](https://thedailygrindhouse.com/policies/contact-information)
-  Updated: 2026-07-07T20:41:56-04:00
+  Updated: 2026-07-08T00:41:56Z
 
 ## Optional
 
