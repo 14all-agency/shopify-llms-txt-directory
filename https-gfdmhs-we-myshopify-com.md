@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2026-08-10T08:58:38Z
 - Contact Email: infolumora20@gmail.com
-- Updated At: 2026-10-14T00:00:40.244Z
+- Updated At: 2026-10-23T00:44:40.567Z
 
 ## Products
 
 - [LUMORA20® Lampada Solare LED d'Emergenza con Power Bank USB](https://gfdmhs-we.myshopify.com/products/lumora20®-lampada-led-solare-demergenza-6-modalita-power-bank-usb): Lampada solare LED d'emergenza LUMORA20® con 6 modalità di luce, doppia ricarica solare+USB e power bank integrato. Ideale per blackout, campeggio e outdoor.
-  Updated: 2026-10-02T09:50:38Z
+  Updated: 2026-10-19T23:41:26Z
   Vendor: Lumora20
   Product Type: Illuminazione
   Availability: Available
@@ -39,13 +39,13 @@
 ## Policies
 
 - [Privacy Policy](https://gfdmhs-we.myshopify.com/policies/privacy-policy)
-  Updated: 2026-08-10T20:22:36+02:00
+  Updated: 2026-08-10T18:22:36Z
 - [Refund Policy](https://gfdmhs-we.myshopify.com/policies/refund-policy)
-  Updated: 2026-08-15T08:11:00+02:00
+  Updated: 2026-08-15T06:11:00Z
 - [Terms of Service](https://gfdmhs-we.myshopify.com/policies/terms-of-service)
-  Updated: 2026-08-17T23:54:06+02:00
+  Updated: 2026-08-17T21:54:06Z
 - [Contact Information](https://gfdmhs-we.myshopify.com/policies/contact-information)
-  Updated: 2026-08-10T20:20:14+02:00
+  Updated: 2026-08-10T18:20:14Z
 
 ## Optional
 
