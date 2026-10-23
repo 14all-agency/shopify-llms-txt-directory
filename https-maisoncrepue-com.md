@@ -6,16 +6,16 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-12T13:05:00Z
 - Contact Email: chicetbio@maisoncrepue.com
-- Updated At: 2026-10-12T00:00:27.703Z
+- Updated At: 2026-10-23T00:30:39.644Z
 
 ## Products
 
 - [Baume capillaire pousse rapide cheveux crépus et frises](https://maisoncrepue.com/products/baume-capillaire-pousse-rapide-cheveux-crepus): Baume Capillaire Miracle Pouss Pouss – Stimule la Pousse & FortifieLe baume capillaire pousse rapide cheveux crépus Pouss Pouss de Maison Crépue est le soin concentré qui stimule la pousse et fortifie les cheveux en profondeur. Sa formule riche et nourrissante est spécialement conçue pour les cheveux crépus, bouclés et défrisés qui ont besoin d’un vrai coup de boost.Baume capillaire pousse rapide cheveux crépus : ses bienfaits Stimulation de la pousse : active le métabolisme du follicule pileux pour accélérer la croissance Fortifiant : renforce la structure interne du cheveu et réduit la casse Hydratation profonde : nourrit et hydrate durablement la fibre capillaire Scellant : referme les écailles du cheveu pour une brillance et une douceur incomparables Apaisement du cuir chevelu : soulage les démangeaisons et les irritations Ingrédients clés Beurre de karité : nourrit intensément et scelle l’hydratation Huile de ricin : stimule la pousse et renforce les racines Huile de coco : pénètre la fibre capillaire et réduit la casse Aloe vera : hydrate et apaise le cuir chevelu Huiles essentielles naturelles : activent la microcirculation du cuir chevelu Mode d’emploiAppliquez le baume sur cheveux propres et humides, section par section. Répartissez uniformément du milieu à la pointe. Peut également s’utiliser sur le cuir chevelu pour un massage nourrissant. Coiffez comme à votre habitude. Utilisez quotidiennement ou selon vos besoins.Idéal pour : cheveux crépus, bouclés et frisés — méthode LOC/LCO — cheveux secs et cassants.🚚 Livraison 📦 Standard Colissimo : 4 à 6 jours ouvrables ⚡ Express : 2 à 3 jours ouvrables 🎉 Livraison offerte dès 65€ d’achat
-  Updated: 2026-09-11T17:15:11Z
+  Updated: 2026-10-20T00:38:31Z
   Vendor: Ma boutique
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/cr_me_pousse_volume_cheveux_cr_pus.png?v=1788794224
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/image_top_baume_2.png?v=1792083665
   Price: 15,99 € EUR
 - [Shampoing coloration cheveux blancs naturel – SEFUNDUN](https://maisoncrepue.com/products/shampoing-coloration-cheveux-blancs-naturel): Shampoing coloration cheveux blancs naturel SEFUNDUN — colorez progressivement vos cheveux blancs sans ammoniaque. Formule douce, nourrissante et respectueuse du cuir chevelu. Résultat naturel dès les
   Updated: 2026-09-08T00:21:28Z
@@ -25,11 +25,11 @@
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/shampoing_coloration_cheveux_blancs_naturel.jpg?v=1788784418
   Price: 23,99 € EUR
 - [huile anti-chute cheveux naturels, fortifie et stimule la pousse](https://maisoncrepue.com/products/huile-anti-chute-cheveux-naturels-pouss-pouss): huile anti-chute cheveux naturels,Combattez la chute de cheveux et retrouvez une chevelure forte et dense avec l'Huile Revitalisante et Fortifiante Pouss Pouss de Maison Crépue. Conçue pour fortifier
-  Updated: 2026-09-08T00:47:36Z
+  Updated: 2026-10-16T05:13:09Z
   Vendor: Ma boutique
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/huile-anti-chute-cheveux-naturels-pouss-pouss.jpg?v=1788785362
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/Image_huile_fortifiante_2.png?v=1792084331
   Price: 12,50 € EUR
 - [spray démêlant cheveux crépus bouclés , hydratant et stimule la pousse](https://maisoncrepue.com/products/spray-demelant-cheveux-crepus-boucles-pouss-pouss): spray démêlant cheveux crépus bouclés, hydratant et stimule la pousse. vos cheveux seront doux, soyeux et facile à coiffer, en plus les ingrédients naturels apportent à vos cheveux du volume et force
   Updated: 2026-09-11T17:14:03Z
@@ -53,13 +53,13 @@ il conserve l’intégralité de ses nutriments actifs — acides gras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/baume_r_parateur_peaux_a_imperfections.png?v=1788796448
   Price: 15,00 € EUR
-- [Soins capillaires naturels cheveux crépus – Gamme Pouss Pouss](https://maisoncrepue.com/products/soins-capillaires-naturels-cheveux-crepus): Soins capillaires naturels cheveux crépus Pouss Pouss : baume, spray démêlant et huile anti-chute. Formules 100% naturelles pour nourrir, fortifier et stimuler la pousse.
-  Updated: 2026-09-08T01:20:41Z
+- [Pack Miracle Pouss Pouss | Maison Crépue](https://maisoncrepue.com/products/soins-capillaires-naturels-cheveux-crepus): Découvrez le pack Miracle Pouss Pouss : baume nourrissant et protecteur, huile fortifiante anti-chute et spray hydratant pour vos cheveux.
+  Updated: 2026-10-22T14:49:04Z
   Vendor: Maison Crepue
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/soins_capillaires_naturels_cheveux_cr_pus.jpg?v=1788787409
-  Price: 60,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/pack-miracle-pouss-pouss.png?v=1792079586
+  Price: 65,00 € EUR
 - [ballerines mary jane femme noires](https://maisoncrepue.com/products/ballerines-mary-jane-femme-noires): ballerines mary jane femme noires 
 L'élégance intemporelle des Ballerines Mary Jane
 Certaines chaussures traversent les tendances sans jamais se démoder
@@ -78,11 +78,11 @@ Certaines chaussures traversent les tendances sans jamais se démoder
   Price: 17,99 € EUR
 - [Crème pousse volume cheveux crépus frises,tous types cheveux](https://maisoncrepue.com/products/creme-pousse-volume-cheveux-crepus-frises): crème pousse volume cheveux crépus frises
 Révélez le plein potentiel de vos cheveux crépus, bouclés ou défrisés avec crème pousse volume cheveux crépus frises 100% naturel, formulé pour stimuler
-  Updated: 2026-09-11T17:13:17Z
+  Updated: 2026-10-16T05:01:26Z
   Vendor: Maison Crepue
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/cr_me_pousse_volume_cheveux_cr_pus_frises.png?v=1788794085
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/image_top_baume.png?v=1792083661
   Price: 15,99 € EUR
 - [gelée de lin miel cheveux secs et  abimés, hydrate et demèle en profon](https://maisoncrepue.com/products/gelee-de-lin-miel-cheveux-secs): gelée de lin miel cheveux secs
 Vos cheveux crépus méritent une hydratation à la hauteur de leur beauté. La Gelée Hydratante Gel de Lin & Miel de Maison Crépue est un soin 100% naturel
@@ -92,31 +92,6 @@ Vos cheveux crépus méritent une hydratation à la hauteur de leur beauté. La 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/gel_e_de_lin_miel_cheveux_secs.png?v=1788797177
   Price: 13,50 € EUR
-- [extrait de parfum chogan 053- 70 ml inspire de narcisso rodriguez](https://maisoncrepue.com/products/extrait-de-parfum-chogan-053): extrait de parfum chogan 053
-🌸 Chogan N°053 — Extrait de Parfum 70ml
-Un parfum envoûtant, inspiré des plus grandes maisons de parfumerie. La concentration en extrait de parfum , inspire de narcisso
-  Updated: 2026-09-08T04:29:32Z
-  Vendor: Chogan
-  Product Type: Parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/parfum_femme_recto.jpg?v=1787613994
-  Price: 22,99 € EUR
-- [extrait de parfum chogan 006, inspiré d'opium d'YSL](https://maisoncrepue.com/products/extrait-de-parfum-chogan-006): extrait de parfum chogan 006
-⬛ Chogan N°006 — Extrait de Parfum 70ml
-Un parfum sophistiqué et envoûtant, élaboré avec soin par Chogan Group en Italie. Sa formule en extrait de parfum d'opium YSL
-  Updated: 2026-09-08T04:43:05Z
-  Vendor: Chogan
-  Product Type: Parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/parfum_femme_recto.jpg?v=1787613994
-  Price: 22,99 € EUR
-- [parfum inspiré ultra violet paco rabanne,audacieux et envoutant](https://maisoncrepue.com/products/parfum-inspire-ultra-violet-paco-rabanne): parfum inspiré ultra violet paco rabanne
-💜 Chogan N°078 — Extrait de Parfum 70mlInspiré du célèbre Ultra Violet de Paco Rabanne, ce parfum audacieux et envoûtant séduit par ses notes florales.
-  Updated: 2026-09-08T04:59:49Z
-  Vendor: Chogan
-  Product Type: Parfum
-  Availability: Available
-  Price: 22,99 € EUR
 - [nettoyant visage curcuma,contre les imperfections, taches points noirs](https://maisoncrepue.com/products/nettoyant-visage-curcuma): nettoyant visage curcuma🟠 Jaysuing Brightening Facial Cleanser — 100mlUn nettoyant visage éclat qui combine la puissance du curcuma, de l’eau de rose et de l’acide kojique pour une sans tâches
   Updated: 2026-09-08T06:16:54Z
   Vendor: Jaysuing
@@ -232,10 +207,10 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
 ## Collections
 
 - [Page d’accueil](https://maisoncrepue.com/collections/frontpage): - Maison Crepue
-  Updated: 2026-09-11T17:13:18Z
+  Updated: 2026-10-15T16:03:43Z
   Total Products: 4
 - [Gamme capillaire miracle pouss pouss](https://maisoncrepue.com/collections/womens-casual-wear-example-products): - Maison Crepue
-  Updated: 2026-09-11T17:14:04Z
+  Updated: 2026-10-15T16:03:43Z
   Total Products: 5
 - [MODE](https://maisoncrepue.com/collections/mode): - Maison Crepue
   Updated: 2026-09-07T16:25:25Z
@@ -256,8 +231,8 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-10-03T18:52:48Z
   Total Products: 13
 - [Promotions — Offres Spéciales](https://maisoncrepue.com/collections/promotions): Découvrez nos offres promotionnelles et produits en réduction. - Maison Crepue
-  Updated: 2026-09-27T19:42:22Z
-  Total Products: 9
+  Updated: 2026-10-15T16:08:21Z
+  Total Products: 10
 - [Gamme Soin Visage au Curcuma — Peaux à Imperfections](https://maisoncrepue.com/collections/gamme-soin-visage-curcuma): Découvrez notre gamme complète de soins visage au curcuma, spécialement formulée pour les peaux à imperfections, taches et boutons. Le curcuma est reconnu pour
   Updated: 2026-10-03T18:53:30Z
   Total Products: 4
@@ -480,6 +455,15 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   - [Les Secrets de la Fragrance Chogan 078: Une Immersion Inspirée d'Ultra Violet Paco Rabanne](https://maisoncrepue.com/blogs/actualites/les-secrets-de-la-fragrance-chogan-078-une-immersion-inspiree-dultra-violet-paco-rabanne): Les Secrets de la Fragrance Chogan 078: Une Immersion Inspirée d'Ultra Violet Paco Rabanne
     Updated: 2026-10-03T16:28:11Z
     Author: User
+  - [Les meilleurs produits pour cheveux bouclés en 2026](https://maisoncrepue.com/blogs/actualites/meilleur-produit-cheveux-boucles): Quel meilleur produit cheveux bouclés 2026 choisir ? Comparez gelée définissante, spray démêlant et crème selon vos besoins et votre texture.
+    Updated: 2026-10-20T06:04:03Z
+    Author: Edith FEUMOE
+  - [Huile de romarin pour les cheveux : bienfaits et précautions](https://maisoncrepue.com/blogs/actualites/huile-romarin-cheveux): Huile romarin cheveux : comparez huile essentielle, huile infusée et soin formulé, puis choisissez un usage prudent selon les preuves disponibles.
+    Updated: 2026-10-21T06:02:37Z
+    Author: Edith FEUMOE
+  - [Créer une micro-entreprise sans expérience : quel appui choisir ?](https://maisoncrepue.com/blogs/actualites/quel-accompagnement-choisir-pour-creer-une-micro-entreprise-sans-experience): Quel accompagnement choisir pour créer une micro-entreprise sans expérience ? Comparez aides publiques, formation et conseil personnalisé.
+    Updated: 2026-10-22T06:02:39Z
+    Author: Edith FEUMOE
 
 ## Store Pages
 
@@ -515,19 +499,21 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-09-07T12:34:59Z
 - [Offre Trio Miracle Pouss Pouss – Baume + Huile -50% + Spray Offert](https://maisoncrepue.com/pages/offre-trio-miracle-pouss-pouss): ⚡ Offre Découverte – Stock Limité ! 1 Baume Capillaire acheté = Huile Anti-Chute à -50% + Spray Démêlant OFFERT 📖 À lire avant de commander : 👉 Et ...
   Updated: 2026-08-27T10:47:17Z
+- [Les Jours La Beauté Artisanale | Pack Miracle Pouss Pouss](https://maisoncrepue.com/pages/les-jours-la-beaute-artisanale): Pack Miracle Pouss Pouss : volume et longueur des cheveuxDu 10 au 30 octobre, profitez des Jours La Beauté Artisanale chez Maison Crépue. Une routi...
+  Updated: 2026-10-15T16:10:38Z
 
 ## Policies
 
 - [Privacy Policy](https://maisoncrepue.com/policies/privacy-policy)
-  Updated: 2026-08-27T15:58:32+02:00
+  Updated: 2026-08-27T13:58:32Z
 - [Shipping Policy](https://maisoncrepue.com/policies/shipping-policy)
-  Updated: 2026-08-16T21:56:21+02:00
+  Updated: 2026-08-16T19:56:21Z
 - [Refund Policy](https://maisoncrepue.com/policies/refund-policy)
-  Updated: 2026-08-27T15:58:02+02:00
+  Updated: 2026-08-27T13:58:02Z
 - [Terms of Service](https://maisoncrepue.com/policies/terms-of-service)
-  Updated: 2026-08-12T17:09:39+02:00
+  Updated: 2026-08-12T15:09:39Z
 - [Contact Information](https://maisoncrepue.com/policies/contact-information)
-  Updated: 2026-08-12T17:10:03+02:00
+  Updated: 2026-08-12T15:10:03Z
 
 ## Optional
 
