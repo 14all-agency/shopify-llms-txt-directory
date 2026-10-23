@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-03-16T10:01:51Z
 - Contact Email: simoncardesigen25@gmail.com
-- Updated At: 2026-10-16T00:00:23.500Z
+- Updated At: 2026-10-23T00:32:08.940Z
 
 Social Media
 
@@ -237,19 +237,19 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/zhutu.jpg?v=1778045208
   Price: $348.00 USD
 - [Roof Access Ladder for Jeep Wrangler](https://trail-walk.com/products/roof-access-ladder): The IRURI Side Ladder is the ultimate solution for accessing your roof rack. Unlike simple handles, this robust ladder provides a secure, wide stepping platform designed for heavy-duty off-road use. Whether you need to load gear, secure cargo, or clean your windshield, the IRURI Side Ladder gives you the stable foothold you need. Engineered with a rugged aesthetic, it transforms the side profile of your Jeep while delivering uncompromising functionality. The anti-slip steps ensure safety regardless of weather conditions or boot type. Premium Magnesium-Aluminum Alloy: Constructed from high-strength magnesium-aluminum alloy and precision CNC machined. This material ensures the ladder can support significant weight without bending, offering a perfect balance of strength and lightness. Wide Anti-Slip Steps: Features a double-layer widened pedal design. Unlike narrow handles, these steps provide ample room for your boots. The surface is textured for maximum grip, and edges are polished to prevent injury or paint damage. Stable Triangular Structure: The ladder deploys into a rigid triangular support structure, ensuring zero wobble when you step on it. The smooth pull-groove mechanism allows for effortless opening and closing. Perfect OEM Fitment: Precisely engineered to match the Jeep door hinge curvature. It mounts flush against the body and does not interfere with door opening or closing. 100% Bolt-On Installation: Installs directly using existing factory bolt holes. No drilling, cutting, or modification required. Preserves your vehicle's original integrity.
-  Updated: 2026-09-24T17:08:26Z
+  Updated: 2026-10-21T08:43:05Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_9bb99140-7311-44c3-b033-3839879047cf.jpg?v=1778051030
-  Price: $246.00 USD
+  Price: $260.00 USD
 - [Adjustable Side Ladder for Jeep Wrangler](https://trail-walk.com/products/adjustable-side-ladder): The IRURI Side Step Board isn't just an accessory; it's an extension of your Jeep's rugged soul. Engineered with a focus on mechanical aesthetics and functional durability, this step board bridges the gap between utility and aggressive styling. Magnesium-Aluminum Alloy Construction: Built for the harshest terrains using CNC precision machining. Lightweight yet incredibly strong. Mechanical Structural Connection: Say goodbye to generic looks. The exposed mechanical joints create a unified, industrial style that matches roof platforms and flag holders. Preserved Ground : Designed to sit tight against the chassis. It protects your rocker panels without sacrificing your vehicle's original approach angles or off-road capability. Ergonomic Width: Perfectly proportioned to the Wrangler body. Provides a stable foothold for easy entry/exit while enhancing the visual width of the vehicle. OEM Fitment: Direct bolt-on installation using factory mounting points. No drilling required.
-  Updated: 2026-09-24T16:57:16Z
+  Updated: 2026-10-21T08:47:14Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_bc0c4391-fe18-4831-b5f5-c42f22ef098c.jpg?v=1778052632
-  Price: $927.00 USD
+  Price: $1,199.00 USD
 - [Tactical Rear License Plate Bracket for Jeep Wrangler](https://trail-walk.com/products/tactical-rear-license-plate-bracket): The iRURI Tactical Rear License Plate Bracket is engineered for those who refuse to compromise on aesthetics or durability. Moving beyond flimsy stock plastics, this system utilizes CNC-machined aerospace aluminum to deliver a component that is as tough as the terrain you conquer. With its integrated lighting solution and camera-ready design, it offers a seamless blend of form and function. CNC Machined Aluminum: Crafted from high-strength alloy to withstand impacts and resist corrosion. Integrated Brake Light Housing: Relocates your third brake light for a cleaner silhouette while ensuring visibility. Unobstructed Camera View: Precision-cut aperture guarantees your backup camera operates without interference. Bolt-On Simplicity: Utilizes factory mounting points for a secure fit—no drilling or modification needed. Geometric Design: Aggressive hollowed-out styling adds a futuristic, mechanical edge to your vehicle.
   Updated: 2026-08-28T22:40:23Z
   Vendor: TRAIL-WALK
@@ -265,12 +265,12 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_2825e2cd-adc2-49fe-8c7f-e98ba1d3125b.jpg?v=1778054106
   Price: $451.00 USD
 - [Trunk Integrated Storage System for Jeep Wrangler](https://trail-walk.com/products/trunk-integrated-storage-system): The IRURI Trunk Integrated Storage System brings military-grade organization to your Jeep. Designed for those who refuse to compromise on space or style, this system utilizes advanced hydraulic technology to create a versatile storage environment that evolves with your journey. Smart Dual-Layer Design: Effectively separates heavy equipment from daily essentials, keeping your trunk tidy and accessible. Hydraulic Flexibility: The adjustable middle shelf uses high-quality gas struts, allowing you to customize the height for tall items or maximize storage density. Ready-to-Use Camping Table: The top panel doubles as a robust outdoor table. With detachable legs, it sets up in seconds on any terrain. Versatile Hanging System: An integrated rail provides a convenient spot to hang wet towels, jackets, or gear bags inside the protected cabin. Precision Engineering: Made from CNC-machined magnesium-aluminum alloy, ensuring a lightweight yet incredibly durable structure.
-  Updated: 2026-08-28T22:40:23Z
+  Updated: 2026-10-21T08:46:18Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_3fcca536-160f-4706-983d-a8b8e7c433fb.jpg?v=1778055223
-  Price: $854.00 USD
+  Price: $1,249.00 USD
 - [Taillight Guard Covers for Jeep Wrangler](https://trail-walk.com/products/taillight-guard-covers): The IRURI Taillight Guard Covers are engineered to protect your Jeep's most vulnerable rear components without compromising safety. Whether you're crawling through dense brush or navigating rocky passes, these guards act as a sturdy barrier against impact. The precision-cut aluminum frame ensures your brake lights and turn signals remain fully visible, keeping you safe on the road and ready for the trail. Military-Grade Durability: Constructed from high-strength aviation aluminum alloy to withstand harsh off-road conditions. Safety First Design: Unlike solid covers, our open-frame structure guarantees no obstruction of critical lighting functions. OEM Perfect Fit: Laser-measured from stock vehicles to ensure a seamless installation that follows the body lines perfectly. Aggressive Styling: Adds a layer of tactical armor to your rear end, enhancing the overall rugged aesthetic of your build. Weather Resistant: Treated with a premium matte black finish that resists corrosion, scratches, and fading.
   Updated: 2026-09-24T17:07:31Z
   Vendor: TRAIL-WALK
@@ -279,7 +279,7 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_7280fd91-6d29-4730-aa11-dd6ddc8cacfb.jpg?v=1778056109
   Price: $363.00 USD
 - [Side Mirror Covers for Jeep Wrangler](https://trail-walk.com/products/side-mirror-covers): The IRURI Side Mirror Covers are engineered for the modern overlander who demands both protection and functionality. Constructed from premium CNC-machined alloy, these covers shield your mirrors from trail debris while providing a robust platform for your action camera setup. Military-Grade Build: Tested to MIL-SPEC-810H standards, ensuring they can handle vibrations, shocks, and harsh environments. Seamless Camera Integration: The top rail is designed specifically for standard action camera mounts, allowing you to capture high-quality footage without drilling into your vehicle. Safety First: Unlike generic covers, our design preserves the functionality of your factory turn signals, keeping you visible on the road. Aggressive Styling: The geometric, industrial design adds a layer of tactical aggression to your Jeep's exterior profile. Weather Resistant: Finished in a durable matte black powder coat that resists rust, fading, and corrosion.
-  Updated: 2026-10-15T03:28:01Z
+  Updated: 2026-10-21T04:38:28Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
@@ -292,13 +292,18 @@ Social Media
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_1d3578a0-4cc1-4b36-ba89-554398121964.jpg?v=1778057745
   Price: $200.00 USD
-- ["Grenade" Hood Latch & Sand Mirror Kit for Jeep Wrangler](https://trail-walk.com/products/grenade-hood-latch-sand-mirror-kit): The IRURI "Grenade" Hood Latch & Sand Mirror Kit is designed for the Jeep owner who demands both form and function. This comprehensive upgrade secures your hood against the vibrations of off-roading while providing a crucial viewing angle when navigating tight trails. Crafted from CNC-machined aviation aluminum, it delivers military-grade durability with a distinct aesthetic. Complete Front-End Upgrade: Solves two common problems at once: securing the hood and improving visibility without doors. Superior Material: Unlike cheap plastic replacements, our CNC aluminum construction resists bending, breaking, and corrosion. Precision Engineering: The sand mirror features a robust linkage arm that holds its position firmly, even on bumpy terrain. Iconic Design: The "grenade" motif pays homage to military heritage, giving your Jeep a unique, aggressive character. Hassle-Free Install: Designed as a direct replacement for OEM parts. You can install this kit in your garage with basic tools.
-  Updated: 2026-09-24T17:09:46Z
+- ["Grenade" Hood Latch for Jeep Wrangler](https://trail-walk.com/products/grenade-hood-latch-sand-mirror-kit): The IRURI "Grenade" Hood Latch & Sand Mirror Kit is designed for the Jeep owner who demands both form and function. This comprehensive upgrade secures your hood against the vibrations of off-roading while providing a crucial viewing angle when navigating tight trails. Crafted from CNC-machined aviation aluminum, it delivers military-grade durability with a distinct aesthetic. Complete Front-End Upgrade: Solves two common problems at once: securing the hood and improving visibility without doors. Superior Material: Unlike cheap plastic replacements, our CNC aluminum construction resists bending, breaking, and corrosion. Precision Engineering: The sand mirror features a robust linkage arm that holds its position firmly, even on bumpy terrain. Iconic Design: The "grenade" motif pays homage to military heritage, giving your Jeep a unique, aggressive character. Hassle-Free Install: Designed as a direct replacement for OEM parts. You can install this kit in your garage with basic tools.
+  Updated: 2026-10-19T16:46:12Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_0c578be0-f8c7-41ae-b52e-402d7580295b.jpg?v=1778058827
-  Price: $273.00 USD
+  - [Hood Latch Kit Only](https://trail-walk.com/products/grenade-hood-latch-sand-mirror-kit?variant=48968862204056)
+    Availability: Available
+    Price: $273.00 USD
+  - [Hood Latch + Door-Off Mirror Kit](https://trail-walk.com/products/grenade-hood-latch-sand-mirror-kit?variant=67753454436504)
+    Availability: Available
+    Price: $350.00 USD
 - [Full-Circle Roof Rack for Jeep Wrangler](https://trail-walk.com/products/full-circle-roof-rack): Elevate your Jeep Wrangler's utility with our premium Dual Layer Roof Rack. Designed for the modern adventurer, this rack combines a lightweight structure with heavy-duty load capacity. The aerodynamic dual-layer design not only reduces wind resistance but also provides a perfect platform for your essential gear. Expandable Versatility: Features integrated mounting points for auxiliary light bars and grab handles, allowing you to customize your setup for any expedition. Lightweight & Heavy-Duty: Engineered to be lightweight for easy handling, yet robust enough to carry your full off-road loadout without compromise. Aerodynamic Dual-Layer: The front connection structure and tiered design are optimized to reduce wind noise and drag, maintaining fuel efficiency on the highway. Enhanced Accessibility: Equipped with sturdy grab handles to make loading and unloading your gear effortless, blending functionality with rugged style.
   Updated: 2026-09-24T16:55:06Z
   Vendor: TRAIL-WALK
@@ -314,12 +319,12 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_01a612bd-4bf7-4baa-bb26-e75d20e7b1f5.jpg?v=1778060473
   Price: $200.00 USD
 - [Tailgate Molle Panel for Jeep Wrangler](https://trail-walk.com/products/tailgate-molle-panel): The IRURI Tailgate Expansion Panel is the ultimate solution for overlanders who need quick access to their gear. By moving your essential tools to the exterior of the vehicle, you free up critical interior space for passengers and camping equipment. Built from a single piece of CNC-machined aluminum, this panel is not just a rack; it's a structural upgrade that adds a layer of protection to your tailgate while providing a versatile mounting platform for anything from fire extinguishers to traction boards. Tactical MOLLE Design: The standard grid pattern allows you to use any off-the-shelf MOLLE accessories, giving you total freedom to configure your loadout. Built-in Utility: Unlike generic racks, this panel includes specific cutouts and mounts for a flag pole and license plate, solving two common problems in one install. Preserves Functionality: Expertly designed to ensure your rear camera, third brake light, and tailgate handle remain fully functional and unobstructed. Rock-Solid Construction: The thick aluminum alloy body provides a rigid base that won't flex or rattle, even when loaded with heavy recovery gear. Easy Installation: Utilizes the factory bolt holes on your tailgate for a secure fit. No welding or drilling into your expensive Jeep is necessary.
-  Updated: 2026-08-28T22:40:25Z
+  Updated: 2026-10-19T04:33:10Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_ff86fc6d-9cc5-45c4-b76b-a88ad77eca61.jpg?v=1778061055
-  Price: $607.00 USD
+  Price: $660.00 USD
 - [Dual-Drawer Cargo Management System for Jeep Wrangler](https://trail-walk.com/products/dual-drawer-cargo-management-system): The IRURI Dual-Drawer Cargo Management System is designed for those who demand organization and durability. Unlike flimsy plastic bins, these steel drawers are built to handle the rigors of daily driving and serious off-roading. The split-drawer design offers unparalleled flexibility, allowing you to separate clean camping gear from dirty recovery tools. With smooth-gliding mechanisms and a robust locking capability, this system ensures your equipment stays exactly where you put it, ready for action whenever you are. Maximum Accessibility: Forget reaching blindly into the dark depths of your trunk. Pull out the drawers to see everything at a glance. Built for Abuse: The reinforced steel construction can support significant weight, making it ideal for storing heavy items like batteries, tools, or food supplies. Smart Design: The low-profile design maximizes vertical space, leaving plenty of room above for larger items like tents or sleeping pads. Security Ready: Integrated hasps allow you to add your own padlocks, providing peace of mind when parking in remote areas or urban environments. Professional Finish: The textured matte black coating not only looks tactical but also protects against rust, scratches, and UV damage.
   Updated: 2026-08-28T22:40:25Z
   Vendor: TRAIL-WALK
@@ -687,10 +692,10 @@ Social Media
   Updated: 2026-07-14T04:51:51Z
   Total Products: 0
 - [JEEP](https://trail-walk.com/collections/jeep): Shop premium off-road parts and custom upgrades for your Jeep Wrangler.
-  Updated: 2026-09-30T11:18:55Z
+  Updated: 2026-10-21T08:47:16Z
   Total Products: 16
 - [All](https://trail-walk.com/collections/all): Shop our full collection of premium off-road parts and exterior upgrades.
-  Updated: 2026-09-30T11:18:55Z
+  Updated: 2026-10-21T08:46:20Z
   Total Products: 59
 
 ## Blogs
@@ -729,11 +734,11 @@ Social Media
 ## Policies
 
 - [Privacy Policy](https://trail-walk.com/policies/privacy-policy)
-  Updated: 2026-06-04T11:49:22+08:00
+  Updated: 2026-06-04T03:49:22Z
 - [Refund Policy](https://trail-walk.com/policies/refund-policy)
-  Updated: 2026-06-04T12:08:28+08:00
+  Updated: 2026-06-04T04:08:28Z
 - [Terms of Service](https://trail-walk.com/policies/terms-of-service)
-  Updated: 2026-05-18T16:56:08+08:00
+  Updated: 2026-05-18T08:56:08Z
 
 ## Social Media
 facebook:https://www.facebook.com/100082240792559
