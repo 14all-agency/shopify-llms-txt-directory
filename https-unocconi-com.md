@@ -9,7 +9,7 @@
 - Created At: 2023-02-25T10:04:29Z
 - Contact Email: valentin.nittbaur@unocconi.com
 - Address: Römersteinweg 21, 70794 Filderstadt
-- Updated At: 2026-10-09T00:00:23.397Z
+- Updated At: 2026-10-23T00:34:28.310Z
 
 ## Products
 
@@ -203,11 +203,11 @@
     Availability: Available
     Price: 3.474,00 € EUR
 - [Unocconi Duschplatte - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-original): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 30 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-09-26T21:06:20Z
+  Updated: 2026-10-14T09:43:45Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal_1.png?v=1790456781
+  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal_1.png?v=1791746015
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-original?variant=52862517150024)
     Availability: Available
     Price: 499,00 € EUR
@@ -221,13 +221,14 @@
     Availability: Available
     Price: 499,00 € EUR
 - [Unocconi Duschplatte Pure - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-pure): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 10 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-09-09T07:40:11Z
+  Updated: 2026-10-18T16:09:03Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Pure_1.1.png?v=1788362357
+  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Duschplatte_Pure.png?v=1791746049
   - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909183922504)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Duschplatte_15.png?v=1787754366
     Price: 349,00 € EUR
   - [120 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909183955272)
     Availability: Available
@@ -238,22 +239,43 @@
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909184020808)
     Availability: Available
     Price: 349,00 € EUR
-- [Unocconi Duschplatten - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-uebersicht): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 10 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-09-30T17:32:25Z
+- [Unocconi Duschplatten - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-uebersicht): 37,6% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 30 Min. nachgerüstet. Auch für Mietwohnungen.
+  Updated: 2026-10-18T16:19:33Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
-  - [110 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967550280)
+  Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
+  - [110 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967550280)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
     Price: 349,00 € EUR
-  - [120 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967583048)
+  - [110 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393149256)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
     Price: 349,00 € EUR
-  - [130 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967615816)
+  - [120 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967583048)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
     Price: 349,00 € EUR
-  - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967648584)
+  - [120 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393182024)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
+    Price: 349,00 € EUR
+  - [130 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967615816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
+    Price: 349,00 € EUR
+  - [130 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393214792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
+    Price: 349,00 € EUR
+  - [140 cm / Montageset & Reinigungszubehör / nachwachsendem Bambus](https://unocconi.com/products/duschplatte-uebersicht?variant=53910967648584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Orginal.png?v=1787759236
+    Price: 349,00 € EUR
+  - [140 cm / Montageset & Reinigungszubehör / Edelstahl schwarz](https://unocconi.com/products/duschplatte-uebersicht?variant=54343393247560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschplatte_Pure.png?v=1787764022
     Price: 349,00 € EUR
 
 ## Collections
@@ -274,7 +296,7 @@
   Updated: 2026-09-07T11:58:25Z
   Total Products: 2
 - [Duschplatten mit Wärmetauscher](https://unocconi.com/collections/duschplatten-mit-warmetauscher)
-  Updated: 2026-09-09T07:40:12Z
+  Updated: 2026-10-14T11:20:15Z
   Total Products: 3
 
 ## Blogs
@@ -353,7 +375,7 @@
     Updated: 2026-09-02T14:42:47Z
     Author: Valentin Nittbaur
   - [Referenzprojekt Wärmerückgewinnung beim Duschen: Hotel Terrace Engelberg](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/referenzprojekt-waermerueckgewinnung-beim-duschen-hotel-terrace-engelberg)
-    Updated: 2026-09-05T11:00:15Z
+    Updated: 2026-10-09T21:35:04Z
     Author: Valentin Nittbaur
 
 ## Store Pages
@@ -442,8 +464,6 @@
   Updated: 2025-12-29T08:46:35Z
 - [Rechner](https://unocconi.com/pages/rechner)
   Updated: 2025-03-10T14:39:35Z
-- [FAQs](https://unocconi.com/pages/pushdaddy-faq-1): Your FAQ content here
-  Updated: 2025-03-11T09:28:39Z
 - [+++ Partner - Ewald Schäfer](https://unocconi.com/pages/partner-ewald-schafer): 
   Updated: 2025-12-28T19:35:04Z
 - [Schmidt-Bad-Heizung GmbH - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-schmidt-bad-heizung): 
@@ -516,15 +536,15 @@
 ## Policies
 
 - [Privacy Policy](https://unocconi.com/policies/privacy-policy)
-  Updated: 2023-06-28T20:06:04+02:00
+  Updated: 2023-06-28T18:06:04Z
 - [Shipping Policy](https://unocconi.com/policies/shipping-policy)
-  Updated: 2023-06-30T17:23:32+02:00
+  Updated: 2023-06-30T15:23:32Z
 - [Refund Policy](https://unocconi.com/policies/refund-policy)
-  Updated: 2025-04-14T11:09:38+02:00
+  Updated: 2026-10-21T19:11:25Z
 - [Terms of Service](https://unocconi.com/policies/terms-of-service)
-  Updated: 2026-08-20T18:05:02+02:00
+  Updated: 2026-10-21T19:09:16Z
 - [Contact Information](https://unocconi.com/policies/contact-information)
-  Updated: 2023-04-09T11:41:56+02:00
+  Updated: 2026-10-21T19:12:48Z
 
 ## Optional
 
