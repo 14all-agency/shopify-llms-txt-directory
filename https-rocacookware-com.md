@@ -86,7 +86,7 @@ your agent can transact everywhere.
 - Created At: 2024-11-15T12:41:57Z
 - Contact Email: care@rocacookware.com
 - Contact Phone: 9099061501
-- Updated At: 2026-09-13T00:00:52.516Z
+- Updated At: 2026-10-23T00:51:59.664Z
 
  ROCA COOKWARE - It's Infinite | Best Cast Iron Cookware Brand in India | India's 1st BIS  | Biggest Cast Iron Manufacturer | Best Cast Iron Products 50+ Range | Dosa Tawa | Skillet | Kadai | Dutch Oven | Roti Tawa | Braiser | Sauce Pan | Paniyara
 
@@ -97,15 +97,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://rocacookware.com/policies/privacy-policy)
-  Updated: 2025-04-23T03:08:33+05:30
+  Updated: 2025-04-22T21:38:33Z
 - [Shipping Policy](https://rocacookware.com/policies/shipping-policy)
-  Updated: 2025-04-23T03:07:17+05:30
+  Updated: 2025-04-22T21:37:17Z
 - [Refund Policy](https://rocacookware.com/policies/refund-policy)
-  Updated: 2025-04-23T03:07:49+05:30
+  Updated: 2025-04-22T21:37:49Z
 - [Terms of Service](https://rocacookware.com/policies/terms-of-service)
-  Updated: 2025-04-23T03:08:53+05:30
+  Updated: 2025-04-22T21:38:53Z
 - [Contact Information](https://rocacookware.com/policies/contact-information)
-  Updated: 2025-04-23T03:09:05+05:30
+  Updated: 2025-04-22T21:39:05Z
 
 ## Optional
 
