@@ -10,7 +10,7 @@
 - Contact Email: vinaychilveri143@gmail.com
 - Contact Phone: 4343
 - Address: 12, baner pune
-- Updated At: 2026-08-03T00:00:45.628Z
+- Updated At: 2026-10-23T00:57:55.808Z
 
 custom information 
 for testing
@@ -143,14 +143,14 @@ for testing
   Updated: 2026-06-26T03:35:01Z
   Total Products: 1
 - [Automated Collection](https://test-store-rznizxsq.myshopify.com/collections/automated-collection)
-  Updated: 2026-07-15T06:18:42Z
-  Total Products: 128
+  Updated: 2026-08-07T20:53:22Z
+  Total Products: 133
 - [Hydrogen](https://test-store-rznizxsq.myshopify.com/collections/hydrogen)
   Updated: 2026-07-07T08:09:00Z
   Total Products: 3
 - [AVADA - Best Sellers](https://test-store-rznizxsq.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-07-15T06:18:46Z
-  Total Products: 270
+  Updated: 2026-08-07T20:54:47Z
+  Total Products: 294
 
 ## Blogs
 
@@ -168,7 +168,7 @@ for testing
 ## Policies
 
 - [Privacy Policy](https://test-store-rznizxsq.myshopify.com/policies/privacy-policy)
-  Updated: 2026-04-18T10:21:27-04:00
+  Updated: 2026-04-18T14:21:27Z
 
 https://facebook.com
 
