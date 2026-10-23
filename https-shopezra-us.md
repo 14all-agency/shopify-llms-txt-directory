@@ -6,13 +6,13 @@
 - Timezone: America/Detroit
 - Created At: 2026-06-26T23:19:50Z
 - Contact Email: onesimebi2020@gmail.com
-- Updated At: 2026-10-01T00:00:36.342Z
+- Updated At: 2026-10-23T00:34:15.718Z
 
 ## Products
 
-- [V-Neck Bodycon Fishtail Evening Dress | ShopEZRA](https://shopezra.us/products/v-neck-bodycon-fishtail-evening-dress): Shop V-Neck Bodycon Fishtail Evening Dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:12Z
-  Vendor: shopezra
+- [Women's V-Neck Bodycon Fishtail Evening Dress | ShopEZRA](https://shopezra.us/products/v-neck-bodycon-fishtail-evening-dress): Turn heads in our Women's V-Neck Bodycon Fishtail Evening Dress — bodycon fit, V-neckline & fishtail hem. Perfect for galas, weddings & formal events.
+  Updated: 2026-10-21T03:48:12Z
+  Vendor: TEEMDROP
   Product Type: Evening Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0d59dcf0-6d69-45f5-919b-82930313f2ed.jpg?v=1789534580
@@ -129,8 +129,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fd965c22-28f1-4969-af04-843f3ff9843c.jpg?v=1789534580
     Price: $117.99 USD
 - [Modal Seamless Camisole Women Sleeveless Vest | ShopEZRA](https://shopezra.us/products/modal-seamless-camisole-women-sleeveless-vest): Shop Modal Seamless Camisole Women Sleeveless Vest. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:12Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:13Z
+  Vendor: TEEMDROP
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8eda7a33-e0b8-41f6-9ad8-eb62869abdf6.jpg?v=1789534694
@@ -215,8 +215,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3e9dc008-1b1c-49b3-afe8-f779bf02a664.jpg?v=1789534695
     Price: $24.99 USD
 - [Rosemary Hair Care Essential Oil | ShopEZRA](https://shopezra.us/products/rosemary-hair-care-essential-oil): Shop Rosemary Hair Care Essential Oil. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:09Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:09Z
+  Vendor: TEEMDROP
   Product Type: Hair Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e27c9dde-522c-4b34-9659-079237854f7f.jpg?v=1789534705
@@ -229,8 +229,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fefa7bf4-dfd2-4e00-a1d2-234d8d87979a.png?v=1789534705
     Price: $26.99 USD
 - [Mens Solid Color Work Jacket | ShopEZRA](https://shopezra.us/products/mens-solid-color-work-jacket): Shop Mens Solid Color Work Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:11Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:10Z
+  Vendor: TEEMDROP
   Product Type: Men > Men's Clothing > Men's Jackets & Outerwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/10a14a66-ca2f-48a5-be51-f57336d711a7.jpg?v=1789534853
@@ -275,8 +275,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4d76bd95-c9ce-46fd-abbd-e152f0625b39.jpg?v=1789534853
     Price: $54.99 USD
 - [Women's Hooded Winter Coat | ShopEZRA](https://shopezra.us/products/womens-hooded-winter-coat): Shop Women's Hooded Winter Coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:08Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:14Z
+  Vendor: TEEMDROP
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/18ebd08a-2f61-4fde-a9e7-7bc6816d2cdb.jpg?v=1789534910
@@ -345,8 +345,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d8f19d65-bdd6-4fdc-9ad5-b3472bd7d0d3.jpg?v=1789534910
     Price: $141.99 USD
 - [Womens Hooded Woolen Cloak Jacket | ShopEZRA](https://shopezra.us/products/womens-hooded-woolen-cloak-jacket): Shop Womens Hooded Woolen Cloak Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:13Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:12Z
+  Vendor: TEEMDROP
   Product Type: jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b934ff53-3b09-41b1-ba0c-5f293c7a7198.jpg?v=1789534973
@@ -411,8 +411,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/325f0400-8733-4923-acee-8d83de5df320.jpg?v=1789534973
     Price: $78.99 USD
 - [Sexy Slim Fit Slit Suspender Dress | ShopEZRA](https://shopezra.us/products/sexy-slim-fit-slit-suspender-dress): Shop Sexy Slim Fit Slit Suspender Dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:12Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:13Z
+  Vendor: TEEMDROP
   Product Type: dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/39001334-a19c-433f-9bf4-3e516eaabbe9.jpg?v=1789535018
@@ -497,8 +497,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/be021d29-2df5-4124-b80b-25f6b99b40a8.jpg?v=1789535018
     Price: $34.99 USD
 - [Half-pack and home cotton slippers | ShopEZRA](https://shopezra.us/products/half-pack-and-home-cotton-slippers): Shop Half-pack and home cotton slippers. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:18Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:15Z
+  Vendor: TEEMDROP
   Product Type: shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ed045676-668d-4b25-898b-49f89a2c79af.jpg?v=1789535048
@@ -603,8 +603,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7cf134ae-2dfe-451a-990a-679a4d0f5197.jpg?v=1789535048
     Price: $45.99 USD
 - [Women's white one-shoulder floor-length evening dress with a fish tail design](https://shopezra.us/products/womens-white-one-shoulder-floor-length-evening-dress-with-a-fish-tail-design-1): Shop Women's white one-shoulder floor-length evening dress with a fish tail design. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:08Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:10Z
+  Vendor: TEEMDROP
   Product Type: dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/756a601d-a4da-4f92-b81f-83bce97a6878.jpg?v=1789535184
@@ -629,8 +629,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/73ec158a-04a1-45b6-bd48-9396879c1e73.jpg?v=1789535183
     Price: $268.99 USD
 - [Round neck fresh chiffon fashion dress | ShopEZRA](https://shopezra.us/products/round-neck-fresh-chiffon-fashion-dress): Shop Round neck fresh chiffon fashion dress. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:17Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:26Z
+  Vendor: TEEMDROP
   Product Type: dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f96ad1c0-3653-44ca-8413-0775dbe23534.jpg?v=1789535223
@@ -803,8 +803,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/37dcf064-d14c-46da-8bb0-d2af0d005072.jpg?v=1789535223
     Price: $81.99 USD
 - [Women Chunky Heel Martin Boots | ShopEZRA](https://shopezra.us/products/women-chunky-heel-martin-boots): Shop Women Chunky Heel Martin Boots. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:16Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:14Z
+  Vendor: TEEMDROP
   Product Type: shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6befa57b-f451-44df-9d9b-a04d3f759fde.jpg?v=1789535315
@@ -969,8 +969,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d5946e81-44a0-4e16-9e2c-3ae0051a5392.jpg?v=1789535315
     Price: $60.99 USD
 - [Men's 3D Digital Stripe Casual Shirt | ShopEZRA](https://shopezra.us/products/mens-3d-digital-stripe-casual-shirt): Shop Men's 3D Digital Stripe Casual Shirt. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:19Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:27Z
+  Vendor: TEEMDROP
   Product Type: man slim fit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1872bea6-abf4-4a27-bcfc-80b77852614a.jpg?v=1789535453
@@ -1115,8 +1115,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6766c8db-249b-4776-bb8c-69255d0d006d.jpg?v=1789535453
     Price: $29.99 USD
 - [Yoga Pants High Elastic Sports Running Fitness Pants | ShopEZRA](https://shopezra.us/products/yoga-pants-high-elastic-sports-running-fitness-pants): Shop Yoga Pants High Elastic Sports Running Fitness Pants. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:16Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:08Z
+  Vendor: TEEMDROP
   Product Type: Yoga Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b8f6f8f1-a86f-4613-ad01-f7fd5ec41801.jpg?v=1789535522
@@ -1321,8 +1321,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2e4d60b2-c309-473e-89ac-b9381e03c1fb.jpg?v=1789535522
     Price: $33.99 USD
 - [Retro-style elegant jacket coat | ShopEZRA](https://shopezra.us/products/retro-style-elegant-jacket-coat): Shop Retro-style elegant jacket coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:21Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:15Z
+  Vendor: TEEMDROP
   Product Type: woman jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/85b8b33e-7ffc-496c-b08b-ccea2f7ed2bc.jpg?v=1789535727
@@ -1359,8 +1359,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/85271de5-c9e0-4b84-8124-ec07f8779ef2.jpg?v=1789535726
     Price: $74.99 USD
 - [Women's High Waisted Retro Straight Leg Denim Pants | ShopEZRA](https://shopezra.us/products/womens-high-waisted-retro-straight-leg-denim-pants): Shop Women's High Waisted Retro Straight Leg Denim Pants. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:10Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:11Z
+  Vendor: TEEMDROP
   Product Type: woman pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0464a47e-eb5d-4085-ba46-4ad9a4ec98d6.jpg?v=1789535773
@@ -1565,8 +1565,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/eef5b004-59ed-4142-acd3-de51ca165c3e.jpg?v=1789535773
     Price: $38.99 USD
 - [Mens Printed Quick-Dry Beach Shorts | ShopEZRA](https://shopezra.us/products/mens-printed-quick-dry-beach-shorts): Shop Mens Printed Quick-Dry Beach Shorts. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:20Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:27Z
+  Vendor: TEEMDROP
   Product Type: man shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fbe9540b-0e4e-46fd-add6-9891fd9ce024.jpg?v=1789535846
@@ -1690,23 +1690,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b795f397-bd25-4327-b27a-232e2eebe882.jpg?v=1789535846
     Price: $37.99 USD
-- [Smart AI Glasses with Camera and Translation | ShopEZRA](https://shopezra.us/products/smart-ai-glasses-with-camera-and-translation): Shop Smart AI Glasses with Camera and Translation. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:13Z
-  Vendor: shopezra
-  Product Type: SUNGLASSES
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a8775bcf-a975-4877-b87e-d7e54ea51ce6.jpg?v=1789535906
-  - [Black](https://shopezra.us/products/smart-ai-glasses-with-camera-and-translation?variant=44042975674430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1be18db7-0f95-47ce-b27b-d8779a442744.jpg?v=1789535906
-    Price: $56.99 USD
-  - [Transparent](https://shopezra.us/products/smart-ai-glasses-with-camera-and-translation?variant=44042975707198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3cfddd92-455d-4399-b0fe-0bf4d4e72326.jpg?v=1789535906
-    Price: $56.99 USD
 - [Childrens Cotton Padded Jacket | ShopEZRA](https://shopezra.us/products/childrens-cotton-padded-jacket): Shop Childrens Cotton Padded Jacket. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:22Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:17Z
+  Vendor: TEEMDROP
   Product Type: woman jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/dc86df81-7204-473f-b02d-c30c87f4d61e.jpg?v=1789535975
@@ -1759,8 +1745,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2eefb667-5a5a-499a-8d40-080bc672a360.jpg?v=1789535975
     Price: $76.99 USD
 - [Men's Digital-Print Varsity Jacket](https://shopezra.us/products/varsity-jacket-for-men): The Varsity Jacket for Men is the perfect blend of style and comfort. With vibrant digital print designs, it stands out in any casual setting. The
-  Updated: 2026-09-30T18:09:07Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:11Z
+  Vendor: TEEMDROP
   Product Type: varsity jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8b8c2e99-5262-4098-8c59-d379e2358a95.jpg?v=1789536034
@@ -1861,8 +1847,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b959c989-b3c0-4072-a3e5-f078f41b1ce4.jpg?v=1789536034
     Price: $46.99 USD
 - [Brass Glass Chandelier Nordic Retro Homestay Bar Restaurant Bedside Lamp](https://shopezra.us/products/brass-glass-chandelier-nordic-retro-homestay-bar-restaurant-bedside-lamp): Shop Brass Glass Chandelier Nordic Retro Homestay Bar Restaurant Bedside Lamp. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:16Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:16Z
+  Vendor: TEEMDROP
   Product Type: lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6748c770-5dee-4fc5-b9f1-651054d679b3.jpg?v=1789536089
@@ -1915,8 +1901,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/76b123e1-df1d-4fa0-975b-f8058aeec2ab.jpg?v=1789536089
     Price: $76.99 USD
 - [Women's wool knee-length socks | ShopEZRA](https://shopezra.us/products/womens-wool-knee-length-socks): Shop Women's wool knee-length socks. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:08Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:12Z
+  Vendor: TEEMDROP
   Product Type: socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/caac1bd7-0369-435e-b9e3-07ad72e790b3.jpg?v=1789536168
@@ -2005,8 +1991,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/357bceb2-462d-4c14-9b2d-90ffa0910fc4.png?v=1789536168
     Price: $22.99 USD
 - [Cinched-waist mid-length trench coat | ShopEZRA](https://shopezra.us/products/cinched-waist-mid-length-trench-coat): Shop Cinched-waist mid-length trench coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:18Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:17Z
+  Vendor: TEEMDROP
   Product Type: coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b9f4aeaa-2d6d-49ea-849b-abcac854f5e6.jpg?v=1789536232
@@ -2059,8 +2045,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0ce7994b-eef4-4df3-8b37-b5665d0a394d.jpg?v=1789536232
     Price: $84.99 USD
 - [Women's Double-Breasted Wool-Blend Coat with Stand-Up Collar](https://shopezra.us/products/womens-wool-coat): Introducing the Women's Wool Coat, crafted from a premium wool blend of 65% cotton and 35% polyester. This coat combines comfort and durability,
-  Updated: 2026-09-30T18:09:24Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:18Z
+  Vendor: TEEMDROP
   Product Type: woo coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/049b533f-47f6-4768-b481-5a1e6dc093b1.jpg?v=1789536277
@@ -2177,8 +2163,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d98e74e6-ca19-403b-8ce8-ead43ba625ef.jpg?v=1789536277
     Price: $89.99 USD
 - [Women's knitted cardigan | ShopEZRA](https://shopezra.us/products/womens-knitted-cardigan): Shop Women's knitted cardigan. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:16Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:13Z
+  Vendor: TEEMDROP
   Product Type: Front Cardigan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/48879d46-65d3-43a2-80b8-a474def41fb8.jpg?v=1789536327
@@ -2207,8 +2193,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7af94272-0641-451c-b1a4-fc8d10611d80.jpg?v=1789536327
     Price: $69.99 USD
 - [Ceramide Barrier Repair Facial Cleanser | ShopEZRA](https://shopezra.us/products/ceramide-barrier-repair-facial-cleanser): Shop Ceramide Barrier Repair Facial Cleanser. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:19Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:16Z
+  Vendor: TEEMDROP
   Product Type: Skin Repair Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1577dac6-bf38-4a64-9e21-a69e6edc2c0d.jpg?v=1789536374
@@ -2233,8 +2219,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bcd8d726-7dd6-46e4-99dc-2f25cf722d41.jpg?v=1789536374
     Price: $27.99 USD
 - [Womens Deep V-neck Mesh Evening Gown | ShopEZRA](https://shopezra.us/products/womens-deep-v-neck-mesh-evening-gown): Shop Womens Deep V-neck Mesh Evening Gown. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:13Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:14Z
+  Vendor: TEEMDROP
   Product Type: gown
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bd204187-502e-4583-8a7e-401199aeaaae.jpg?v=1789536437
@@ -2263,8 +2249,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/77af8f8f-2058-46b2-aac7-a794ee017a59.jpg?v=1789536437
     Price: $84.99 USD
 - [Loose-fitting trench coat | ShopEZRA](https://shopezra.us/products/loose-fitting-trench-coat): Shop Loose-fitting trench coat. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:11Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:11Z
+  Vendor: TEEMDROP
   Product Type: coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a306e778-93b4-4bad-9635-82098f98d4a6.jpg?v=1789536509
@@ -2281,8 +2267,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/48f1a855-4a99-4f54-9311-f9f89f8683a6.jpg?v=1789536509
     Price: $80.99 USD
 - [Ivory White Lace Maternity Wedding Dress with Train | ShopEZRA](https://shopezra.us/products/ivory-white-lace-maternity-wedding-dress-with-train): Shop Ivory White Lace Maternity Wedding Dress with Train. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:26Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:19Z
+  Vendor: TEEMDROP
   Product Type: wedding dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/e21dbb09-90fd-4114-bb34-8b3961b36297.jpg?v=1789536552
@@ -2439,8 +2425,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3f313cee-7cfb-4112-a0d2-bac60c7469fe.png?v=1789536552
     Price: $223.99 USD
 - [Court Satin Strapless Wedding Dress Long Train | ShopEZRA](https://shopezra.us/products/court-satin-strapless-wedding-dress-long-train): Shop Court Satin Strapless Wedding Dress Long Train. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:06Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:10Z
+  Vendor: TEEMDROP
   Product Type: wedding dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c33e7778-05e8-451d-99bf-d19c023b2449.jpg?v=1789536622
@@ -2485,8 +2471,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/01f44b2c-e705-400a-9108-b2a282f79001.jpg?v=1789536622
     Price: $372.99 USD
 - [Women's Floral Crossbody Bag with Adjustable Strap 25x16cm](https://shopezra.us/products/crossbody-bag-for-women): Introducing our stunning crossbody bag for women, designed with vibrant floral patterns that add a touch of elegance to any outfit. Its lightweight
-  Updated: 2026-09-30T18:09:19Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:15Z
+  Vendor: TEEMDROP
   Product Type: Women > Accessories, Jewelry, Handbags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/edb94b68-beee-4fa4-84a2-52d6476a4f1c.jpg?v=1789536678
@@ -2663,8 +2649,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/05de3023-133c-4e36-95ea-0921f390fd6a.jpg?v=1789536677
     Price: $23.99 USD
 - [Retro Striped Pajama Set for Women | ShopEZRA](https://shopezra.us/products/retro-striped-pajama-set-for-women): Shop Retro Striped Pajama Set for Women. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:22Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:16Z
+  Vendor: TEEMDROP
   Product Type: pajama set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/8356cc84-ef22-4c1f-b8de-fee501962d4f.jpg?v=1789536769
@@ -2769,8 +2755,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/3327672d-8ab1-4304-8fa0-ab86c22a92b0.jpg?v=1789536769
     Price: $57.99 USD
 - [Merino Wool Sports Bra | ShopEZRA](https://shopezra.us/products/merino-wool-sports-bra): Shop Merino Wool Sports Bra. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:20Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:19Z
+  Vendor: TEEMDROP
   Product Type: BRA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/34fecf80-d373-4f88-a79a-1eba6ae4a2d9.jpg?v=1789536878
@@ -2975,8 +2961,8 @@
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1366d993-6f53-4dce-b290-a32b9a09e9d7.jpg?v=1789536878
     Price: $85.99 USD
 - [Smart Automatic Aromatherapy Diffuser | ShopEZRA](https://shopezra.us/products/smart-automatic-aromatherapy-diffuser): Shop Smart Automatic Aromatherapy Diffuser. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:14Z
-  Vendor: shopezra
+  Updated: 2026-10-21T03:48:16Z
+  Vendor: TEEMDROP
   Product Type: Perfume & Cologne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f1bb8f70-9d74-4719-b92e-4ca6f1ce1335.jpg?v=1789536985
@@ -3040,249 +3026,127 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d2deef31-b587-4a9d-a551-78d58b0aa354.jpg?v=1789536985
     Price: $101.99 USD
-- [Outdoor Tracing Shoes Five Fingers Barefoot Shoes Diving Quick Dry](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry): Shop Outdoor Tracing Shoes Five Fingers Barefoot Shoes Diving Quick Dry. View product details and available options at ShopEZRA. Check delivery information before ordering.
-  Updated: 2026-09-30T18:09:21Z
-  Vendor: shopezra
-  Product Type: Men > Shoes, Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/447f5a49-f827-45d0-8110-73b4b49755af.jpg?v=1789537375
-  - [black orange / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011588158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/61ac7fca-fd66-4053-916d-47227fc27d0a.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011620926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1e34ed47-93a8-4c09-b475-9d58204fb37c.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011653694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1994f483-d1c2-4edf-a07f-21b221996a85.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011686462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/749b4099-1c52-47f6-85eb-b655b305fd66.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011719230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6a49149f-704f-43f6-9b7d-ac216afc6dc6.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011751998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/024f349c-4d2e-4485-8441-08f195e61b0e.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011784766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/60a2a5a7-8471-4df8-885c-e30fe345a659.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011817534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/69bb855a-8edd-4487-983b-caf6cc6f4c78.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011850302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1127725a-233b-4b2e-9b40-a26442ba6e80.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011883070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/34b18575-08af-49c2-9ba8-10749fb79198.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011915838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4a6034ab-a76e-469a-867d-0d459bc82ddc.jpg?v=1789537375
-    Price: $49.99 USD
-  - [black orange / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011948606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/10951cb2-3862-4c40-b35a-e37527ea2b64.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043011981374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/099d41d0-564b-4f95-bec1-239783783d61.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012014142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/ed83a6a5-441e-4e7e-a210-f448fdc8c740.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012046910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f7ae9ed7-bd74-40a3-9035-922d6a471d43.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012079678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bc6ec8d9-e970-4d7c-8301-f48a60efe0c3.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012112446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/7cd32042-9f9c-4955-85d9-1440ab5ba925.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012145214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b49b6460-4524-4224-b40f-f170bb8f0760.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012177982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a2bfbe15-2bb0-47bb-8c65-5425b6761907.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012210750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/602ab0e1-b356-441d-8a46-2b1aab8802c3.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012243518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fbcefd3b-60b0-46fb-98e4-52d4f3cad8be.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012276286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c21caffd-cb6a-45c6-92fa-af00b6d03f63.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012309054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/070a5949-e808-460c-bba4-b78e94611c63.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Dark gray / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012341822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2921268f-dd88-4f05-b712-9caf02607892.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012374590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c2bb24d6-ab21-4fa2-a5d9-c0b947d9967b.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012407358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/a04bca89-0768-4529-9826-e78f491acfbb.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012440126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/436edecf-9763-4251-bd37-5c1c3c81b704.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012472894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/c3c9a789-4277-43b8-9197-ff4713bb72b2.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012505662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/f3dc6b3d-b088-45d8-901d-9c026dc63154.jpg?v=1789537376
-    Price: $49.99 USD
-  - [Light gray / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012538430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/0c2f86e0-266f-4cb0-9108-fd8f8160e39e.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012571198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/14ba14f6-1942-4afa-8bcf-6bf23658774c.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012603966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/fe684360-b298-474e-a6cf-47a12367460c.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 43](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012636734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/bf2280e9-3fe0-4142-9f9a-18424efa19fc.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 44](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012669502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b948b1a7-bffe-41cc-8e49-14fde2a11d02.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 45](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012702270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/751a8313-2b8b-4b01-a4ba-3dfc06289734.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Light gray / 46](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012735038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/b15af836-0c74-4205-8af0-7a7ed924ad12.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012767806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/52cf6e91-e709-4a4c-a962-e4078696ea88.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012800574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/9a9687cc-5801-45b2-8bac-51a9c61b5456.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012833342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/169f3245-ff92-4e5c-8617-3232473ee7b4.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012866110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cfb42916-1e06-4dbf-862b-12f92190b72e.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012898878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d9d6fbde-2085-4738-a7e2-ca53116e6309.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012931646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/d527aa16-856b-435f-8024-d0f27b0f70c0.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 41](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012964414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/4937bad5-c399-4241-ab2f-c139644e0544.jpg?v=1789537375
-    Price: $49.99 USD
-  - [Moonlight / 42](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043012997182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/1aca5aec-1eef-411d-9a1c-fa6a87c6ef5b.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 35](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013029950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/cdbb3a4d-3b53-45f9-a918-595bc1c66e22.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 36](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013062718)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/2c2bfe9c-a4dc-4863-a24c-6e2000536b3d.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 37](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013095486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/5c8ac4b9-5436-4d00-8af9-f325d3f2bb72.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 38](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013128254)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/6122af97-8dd9-4de7-ba6f-254630aae77b.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 39](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013161022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/13d53d3e-ccff-4e88-b5ef-78a0f6eaeafc.jpg?v=1789537375
-    Price: $49.99 USD
-  - [lotus root starch / 40](https://shopezra.us/products/outdoor-tracing-shoes-five-fingers-barefoot-shoes-diving-quick-dry?variant=44043013193790)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0671/6417/6446/files/31edbfd7-2661-497f-824b-c04a3136b53a.jpg?v=1789537375
-    Price: $49.99 USD
-[List Continued](https://shopezra.us/a/llms-agent/llms.txt?shop=iz1cpj-qw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjY2NzI2MjQ0NDE0LCJsYXN0X3ZhbHVlIjoiODI2NjcyNjI0NDQxNCJ9)
+[List Continued](https://shopezra.us/a/llms-agent/llms.txt?shop=iz1cpj-qw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjY2NzIyNjcyNzAyLCJsYXN0X3ZhbHVlIjoiODI2NjcyMjY3MjcwMiJ9)
 
 ## Collections
 
-- [NEW TO THE STORE](https://shopezra.us/collections/new-arrivals-fashion-collection): Shop new arrivals at SHOPEZRA — family-run store for the whole family. Latest jewelry, shoes & beauty trends. Ships in 1–2 business days.
-  Updated: 2026-09-30T22:42:09Z
-  Total Products: 461
-- [Lotion & Skincare](https://shopezra.us/collections/moisturizing-lotion-and-skincare-products): Explore our wide collection of moisturizing lotion and skincare products for radiant skin. Ideal for various skin types and concerns.
-  Updated: 2026-09-30T21:48:46Z
-  Total Products: 15
-- [Best Sellers](https://shopezra.us/collections/best--fashion-and-beauty-products): Discover the best  fashion and beauty products that elevate your style and enhance your confidence. Shop now!
-  Updated: 2026-09-30T22:42:09Z
-  Total Products: 864
-- [Jewelry & Accessories](https://shopezra.us/collections/affordable-gold-plated-jewelry): Discover our affordable gold-plated jewelry collection, featuring stunning pieces for every occasion. Shop now for elegant designs!
-  Updated: 2026-09-30T21:48:46Z
-  Total Products: 34
-- [Footwear](https://shopezra.us/collections/stylish-footwear-for-men-and-women): Discover stylish footwear for men and women, including boots, heels, and sneakers. Perfect for any occasion. Fast shipping available!
-  Updated: 2026-09-30T22:42:09Z
-  Total Products: 111
-- [Beauty](https://shopezra.us/collections/beauty-and-body-care-essentials): Explore our beauty and body care essentials, including lotions, sunscreens, and more, all designed to enhance your skincare routine.
-  Updated: 2026-09-30T21:48:47Z
-  Total Products: 19
-- [FOOTWEAR](https://shopezra.us/collections/stylish-womens-footwear-collection): Explore our stylish women's footwear collection for every occasion. Discover the perfect shoes today!
-  Updated: 2026-09-30T01:45:46Z
+- [Women's Evening Dresses & Tops](https://shopezra.us/collections/elegant-evening-dresses-for-women): Discover elegant evening dresses for women, along with stylish tops and more for every occasion. Shop now to elevate your wardrobe!
+  Updated: 2026-10-21T18:30:57Z
+  Total Products: 106
+- [Men's Style](https://shopezra.us/collections/mens-fashion-essentials): Explore the finest men's fashion essentials for every occasion, combining style and comfort to elevate your look.
+  Updated: 2026-10-21T18:38:31Z
+  Total Products: 48
+- [Everything for Her](https://shopezra.us/collections/womens-fashion-and-accessories): Shop our selection of womens fashion and accessories. Find stylish outfits, bags, and jewelry she'll love every day.
+  Updated: 2026-10-21T19:00:38Z
+  Total Products: 48
+- [Everything for Him](https://shopezra.us/collections/everything-for-him-mens-fashion-essentials): Explore our men's fashion essentials collection. Find everything for him including clothing, accessories, and everyday picks he'll love.
+  Updated: 2026-10-21T19:00:50Z
+  Total Products: 28
+- [Lotion & Skincare](https://shopezra.us/collections/moisturizing-skincare-essentials): Explore moisturizing skincare essentials for soft, healthy skin. Discover lotions, creams, and daily care products that enhance your glow.
+  Updated: 2026-10-22T17:51:24Z
+  Total Products: 113
+- [Best Sellers](https://shopezra.us/collections/top-best--fashion-beauty-products): Explore our best  fashion beauty products for style and confidence. Shop our top-rated makeup, skincare, and clothing now!
+  Updated: 2026-10-21T18:08:47Z
+  Total Products: 14
+- [Jewelry & Accessories](https://shopezra.us/collections/affordable-gold-jewelry-and-accessories): Explore our stunning affordable gold-plated jewelry collection, offering stylish options for every occasion.
+  Updated: 2026-10-22T19:02:20Z
+  Total Products: 513
+- [Footwear](https://shopezra.us/collections/stylish-footwear-collection-2023): Explore our stylish footwear collection featuring shoes, boots, heels, and more. Find your perfect fit today!
+  Updated: 2026-10-21T18:42:02Z
+  Total Products: 117
+- [Beauty](https://shopezra.us/collections/beauty-body-care-products): Explore essential beauty and body care essentials that enhance your natural beauty and boost confidence. Shop now!
+  Updated: 2026-10-22T14:33:25Z
+  Total Products: 146
+- [NEW TO THE STORE](https://shopezra.us/collections/latest-fashion-trends-collection): Explore our latest fashion trends collection featuring stylish new arrivals that elevate your wardrobe.
+  Updated: 2026-10-22T02:14:50Z
+  Total Products: 1079
+- [Men's Fashion](https://shopezra.us/collections/mens-fashion-fall-essentials): Explore our stylish men's fall fashion essentials to look good and feel great all season long. Discover layering pieces, outerwear, and more!
+  Updated: 2026-10-21T18:41:22Z
+  Total Products: 22
+- [Fall Arrivals](https://shopezra.us/collections/trendy-fall-clothing-collection): Explore our trendy fall clothing collection for the latest styles this season. Discover cozy sweaters, stylish jackets, and essential accessories.
+  Updated: 2026-10-21T18:40:55Z
+  Total Products: 10
+- [Women's Fashion](https://shopezra.us/collections/fall-winter-womens-fashion-style-guide): Explore fall winter women's fashion styles that blend warmth and elegance perfectly. Shop now for the latest trends at Ezra!
+  Updated: 2026-10-21T18:27:27Z
+  Total Products: 314
+- [Fall & Winter Favorites](https://shopezra.us/collections/fall-winter-clothing-essentials): Explore our fall winter clothing essentials to stay stylish and warm this season. Discover unmatched comfort and classic style with our select favorites.
+  Updated: 2026-10-21T18:40:17Z
+  Total Products: 26
+- [New Arrivals](https://shopezra.us/collections/latest-fashion-arrivals): Shop the latest fashion arrivals to elevate your style. Discover trendy outfits and accessories that define your individuality. Shop now!
+  Updated: 2026-10-22T08:32:56Z
+  Total Products: 142
+- [Featured Best Sellers](https://shopezra.us/collections/featured-best-sellers-ezra-products): Explore our best  Ezra products to elevate your style and comfort. Discover everyone's favorites now!
+  Updated: 2026-10-21T18:39:49Z
+  Total Products: 12
+- [Conscious Items](https://shopezra.us/collections/sustainable-lifestyle-essentials): Discover our sustainable lifestyle essentials that look good and do good. Shop now for eco-friendly products that support a greener planet.
+  Updated: 2026-10-22T12:40:37Z
+  Total Products: 139
+- [Puracy](https://shopezra.us/collections/natural-personal-care-essentials): Explore natural personal care essentials from Puracy for effective home and personal care. Safe, eco-friendly products for a healthier routine.
+  Updated: 2026-10-21T19:01:08Z
+  Total Products: 21
+- [Fall Favorites](https://shopezra.us/collections/fall-fashion-must-haves): Explore our fall fashion must-haves for the coziest time of year. Shop the best styles that make autumn feel amazing.
+  Updated: 2026-10-21T19:01:00Z
+  Total Products: 21
+- [Halloween 2026](https://shopezra.us/collections/halloween-costumes-2026-collection): Discover a wide range of Halloween costumes 2026 for all ages! Shop now and find your perfect outfit for a spooky season.
+  Updated: 2026-10-22T23:41:57Z
   Total Products: 72
-- [NEW TO THE STORE](https://shopezra.us/collections/latest-new-arrivals-in-store): Explore our latest new arrivals in store with fresh styles and exciting products. Updated regularly to reflect trends.
-  Updated: 2026-09-30T20:31:07Z
-  Total Products: 50
-- [Men's Fashion](https://shopezra.us/collections/mens-clothing-and-footwear): Discover the latest in men's clothing and footwear at SHOPEZRA. Shop jeans, shirts, and jackets today!
-  Updated: 2026-09-30T20:51:20Z
+- [Cologne & Fragrance](https://shopezra.us/collections/mens-cologne-and-fragrance-products): Discover the best men's cologne and fragrance products from Merve Perfumes and Smoke Perfume. Find your signature scent today!
+  Updated: 2026-10-22T12:18:43Z
+  Total Products: 51
+- [](https://shopezra.us/collections/discounted-merchandise-): Explore our discounted merchandise  and save big on quality items. Limited time only!
+  Updated: 2026-10-22T23:41:57Z
+  Total Products: 1326
+- [Hair Bundles & Extensions](https://shopezra.us/collections/hair-bundles-and-extensions): Shop premium hair bundles and extensions for a stunning look. Enhance your beauty with our versatile collection.
+  Updated: 2026-10-22T14:23:20Z
+  Total Products: 10
+- [Closures & Frontals](https://shopezra.us/collections/closure-and-frontal-pieces): Discover high-quality closure and frontal pieces designed for a seamless blend and natural look. Perfect for enhancing your hairstyle.
+  Updated: 2026-10-22T14:23:21Z
+  Total Products: 5
+- [Wigs](https://shopezra.us/collections/high-quality-wigs-for-women): Explore our collection of high-quality wigs for women. Find your perfect style today!
+  Updated: 2026-10-21T18:37:46Z
+  Total Products: 5
+- [Hair Care & Styling](https://shopezra.us/collections/hair-care-and-styling-products): Explore our range of hair care and styling products that nourish and style your hair effortlessly.
+  Updated: 2026-10-22T17:10:01Z
+  Total Products: 28
+- [Skin Care](https://shopezra.us/collections/skincare-routine-tips): Explore essential skincare routine tips to achieve radiant skin. Discover effective steps for maintaining your beauty and health.
+  Updated: 2026-10-22T17:51:24Z
+  Total Products: 25
+- [Makeup](https://shopezra.us/collections/best-makeup-products): Explore our range of the best makeup products for every skin type and style. Find quality foundations, lipsticks, and more!
+  Updated: 2026-10-22T08:28:12Z
+  Total Products: 13
+- [Bath & Body](https://shopezra.us/collections/organic-bath-and-body-products): Explore our organic bath and body products for a natural, luxurious self-care experience. Perfect for all skin types.
+  Updated: 2026-10-21T20:02:08Z
+  Total Products: 19
+- [Men's Grooming](https://shopezra.us/collections/mens-grooming-essentials): Explore our selection of men's grooming essentials for effective skincare and grooming solutions.
+  Updated: 2026-10-21T18:35:51Z
+  Total Products: 7
+- [Gift Sets](https://shopezra.us/collections/gift-sets-for-all-occasions): Explore our gift sets for all occasions. Perfectly curated collections for every celebration!
+  Updated: 2026-10-22T00:55:53Z
+  Total Products: 6
+- [Nails](https://shopezra.us/collections/nail-care-products): Explore a wide selection of nail care products for healthy, beautiful nails. Perfect for all nail types!
+  Updated: 2026-10-21T18:35:25Z
   Total Products: 8
-- [Women's Fashion](https://shopezra.us/collections/trendy-womens-outfits): Explore our trendy women's outfits collection perfect for all occasions. Shop stylish dresses, tops, skirts, and more today.
-  Updated: 2026-09-30T22:41:23Z
-  Total Products: 31
-- [JEWELRY](https://shopezra.us/collections/handcrafted-artisan-jewelry): Discover our exquisite handcrafted artisan jewelry collection at SHOPEZRA. Unique designs with quality craftsmanship.
-  Updated: 2026-09-30T01:45:55Z
+- [Oral Care](https://shopezra.us/collections/best-oral-care-products): Explore the best oral care products from top brands for optimal dental health. Shop now for quality selections!
+  Updated: 2026-10-22T16:36:40Z
+  Total Products: 9
+- [Personal Hygiene](https://shopezra.us/collections/personal-hygiene-routine): Discover effective personal hygiene routine tips and products to maintain health and well-being. Explore solutions from healthy hoohoo® and RECESS.
+  Updated: 2026-10-21T22:15:39Z
   Total Products: 3
+- [Thanksgiving](https://shopezra.us/collections/thanksgiving-cozy-fall-fashion): Explore a variety of Thanksgiving cozy fall fashion including warm layers, gift sets, and bath picks. Use code THANKS10 for savings!
+  Updated: 2026-10-22T02:17:39Z
+  Total Products: 23
+- [Christmas Gifts](https://shopezra.us/collections/unique-christmas-gift-ideas): Discover unique Christmas gift ideas for everyone on your list. Enjoy luxurious scents, jewelry, and special discounts this holiday season.
+  Updated: 2026-10-21T19:14:31Z
+  Total Products: 25
+- [New Year New You](https://shopezra.us/collections/new-year-wellness-goals): Explore our collection designed for your new year wellness goals. Discover products to support your health journey and achieve your resolutions.
+  Updated: 2026-10-22T17:10:01Z
+  Total Products: 27
+- [Conscious Picks](https://shopezra.us/collections/eco-friendly-products-made-from-recycled-materials): Discover eco-friendly products made from recycled materials that are kind to the planet. Quality choices for sustainable living await you!
+  Updated: 2026-10-22T16:36:40Z
+  Total Products: 44
+- [Smart Buys](https://shopezra.us/collections/affordable-smart-buys): Discover our affordable smart buys collection, featuring high-quality products at friendly prices. Shop now for incredible deals!
+  Updated: 2026-10-22T16:36:40Z
+  Total Products: 39
 
 ## Blogs
 
@@ -3379,33 +3243,51 @@
   - [Latest Arrivals Women's Men's Fashion Guide](https://shopezra.us/blogs/news/latest-arrivals-womens-mens-fashion): Latest Arrivals Women's Men's Fashion Guide
     Updated: 2026-09-27T01:20:51Z
     Author: SHOPEZRA
+  - [Fall Layering Guide: How to Layer for Fall](https://shopezra.us/blogs/news/fall-layering-guide): Fall Layering Guide: How to Layer for Fall
+    Updated: 2026-10-01T04:21:30Z
+    Author: BIZIMANA Onesime
+  - [Cozy Loungewear for Fall Evenings: Your Guide](https://shopezra.us/blogs/news/cozy-loungewear-for-fall-evenings): Cozy Loungewear for Fall Evenings: Your Guide
+    Updated: 2026-10-01T04:21:19Z
+    Author: BIZIMANA Onesime
+  - [Men's Fall Wardrobe Essentials: Key Pieces for Style](https://shopezra.us/blogs/news/mens-fall-wardrobe-essentials): Men's Fall Wardrobe Essentials: Key Pieces for Style
+    Updated: 2026-10-01T04:21:07Z
+    Author: BIZIMANA Onesime
+  - [Styling Affordable Jewelry Tips: Enhance Your Look](https://shopezra.us/blogs/news/styling-affordable-jewelry-tips): Styling Affordable Jewelry Tips: Enhance Your Look
+    Updated: 2026-10-01T04:20:53Z
+    Author: BIZIMANA Onesime
+  - [Affordable Women's Two Piece Sets and Men's Jeans - ShopEZRA](https://shopezra.us/blogs/news/affordable-womens-two-piece-sets-and-mens-jeans): Affordable Women's Two Piece Sets and Men's Jeans - ShopEZRA
+    Updated: 2026-10-02T01:00:38Z
+    Author: SHOPEZRA
+  - [Women’s Matching Sets & Men’s Fashion Coordination Guide](https://shopezra.us/blogs/news/womens-matching-sets-mens-fashion-coordination-guide): Women’s Matching Sets & Men’s Fashion Coordination Guide
+    Updated: 2026-10-03T01:40:46Z
+    Author: SHOPEZRA
 
 ## Store Pages
 
-- [Contact Us](https://shopezra.us/pages/contact-us): Customer supportQuestions about a product or an existing order? Email onesimebi2020@gmail.com or call or text 616-213-4748.For order questions, inc...
-  Updated: 2026-09-30T04:05:07Z
-- [Your Privacy Choices](https://shopezra.us/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-08-01T00:38:44Z
+- [Contact Us](https://shopezra.us/pages/contact-us): Customer supportQuestions about a product or an existing order? Email info@shopezra.us.For order questions, include your order number and a descrip...
+  Updated: 2026-10-08T05:54:28Z
+- [Your Privacy Choices](https://shopezra.us/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-10-10T07:06:04Z
 - [Wholesale Registration](https://shopezra.us/pages/wholesale-registration): #wholesaleRegistrationPopup { width: 100%; background: transparent; display: block; padding: 12px; border-radius: 8px; max-width: 520px; margin: 0;...
   Updated: 2026-07-28T22:37:32Z
 - [About Us — Ezra | African Fashion & Luxury Streetwear](https://shopezra.us/pages/about-us): Welcome to EZRAEzra was born from a simple but powerful belief: style is a language, and everyone deserves to speak it boldly.Our StoryWe are a fas...
-  Updated: 2026-09-30T04:05:07Z
+  Updated: 2026-10-08T05:54:01Z
 - [Become an  – Earn with Ezra](https://shopezra.us/pages/become-an-): Join the Ezra  ProgramLove Ezra? Turn your passion into income! Join our  program and earn commissions every time someone shops t...
   Updated: 2026-07-28T22:36:53Z
-- [ Dashboard](https://shopezra.us/pages/-dashboard)
-  Updated: 2026-08-01T00:38:45Z
-- [REFUND POLICY](https://shopezra.us/pages/refund-policy): REFUND POLICY — ALL SALES FINALAll sales are final: we don't accept returns for change of mind, wrong size, or color preference — please check size...
-  Updated: 2026-09-29T05:16:11Z
-- [RETURN POLICY](https://shopezra.us/pages/return-policy): RETURN POLICYAll sales are final; we don't accept returns for change of mind or sizing. If your item arrived damaged, defective, or wrong, see our ...
-  Updated: 2026-09-29T05:16:41Z
+- [ Dashboard](https://shopezra.us/pages/-dashboard): Partner supportFor questions about  access or a collaboration with SHOPEZRA, email info@shopezra.us.Include the name of your account or pa...
+  Updated: 2026-10-02T01:28:42Z
+- [REFUND POLICY](https://shopezra.us/pages/refund-policy): Refund Policy Changed your mind? You may return or exchange unused items in their original packaging within 30 days of delivery. If an item arrives...
+  Updated: 2026-10-15T00:38:20Z
+- [RETURN POLICY](https://shopezra.us/pages/return-policy): Return Policy Changed your mind? You may return or exchange unused items in their original packaging within 30 days of delivery. If an item arrives...
+  Updated: 2026-10-15T00:39:24Z
 - [CUSTOMER REVIEWS](https://shopezra.us/pages/customer-reviews): Open an individual product page to view any available customer reviews for that item.If you have a question about an order or want to share feedbac...
   Updated: 2026-09-30T01:44:43Z
 - [TERMS & CONDITION](https://shopezra.us/pages/terms-condition): Read SHOPEZRA’s current Terms of Service.For questions, contact customer support.
   Updated: 2026-09-30T01:44:43Z
-- [FAQs](https://shopezra.us/pages/faqs): Where do products ship from?All products are fulfilled by Trendsi or Teemdrop and ship from their fulfillment locations. We do not hold inventory o...
-  Updated: 2026-09-30T04:05:08Z
-- [SHIPPING POLICY](https://shopezra.us/pages/shipping-policy): Shipping and deliveryAll products are fulfilled by Trendsi or Teemdrop. We do not hold product inventory or dispatch orders from Grand Rapids. Prod...
-  Updated: 2026-09-30T04:05:09Z
+- [FAQs](https://shopezra.us/pages/faqs): How much does shipping cost?We charge an $8 flat rate on orders under $60. Shipping is free on orders over $60. Express shipping is available for $...
+  Updated: 2026-10-15T00:42:04Z
+- [SHIPPING POLICY](https://shopezra.us/pages/shipping-policy): Shipping and delivery We partner with trusted suppliers to fulfill your orders quickly and reliably. We do not hold product inventory or dispatch o...
+  Updated: 2026-10-15T00:44:06Z
 - [CATALOG](https://shopezra.us/pages/catalog): Explore current products at SHOPEZRA. Open a product for prices, available options and details. Women’s Fashion Men’s Fashion Footwear Jewelry & Ac...
   Updated: 2026-09-30T01:44:43Z
 - [Privacy Policy Guidelines for Shopezra's Premium Collection](https://shopezra.us/pages/privacy-policy): Read SHOPEZRA’s current Privacy Policy.You can also review Your Privacy Choices.
@@ -3420,43 +3302,27 @@
   Updated: 2026-09-30T04:05:10Z
 - [Women's Clothing Size Chart - EZRA Size Guide](https://shopezra.us/pages/womens-clothing-size-chart): Choose your sizeSize labels vary between products and suppliers. Use the measurements on the selected product page instead of assuming that a gener...
   Updated: 2026-09-30T01:44:43Z
-- [Y2K Sequin Summer Dress: Sexy Lace Spliced Mini Dress](https://shopezra.us/pages/y2k-sequin-summer-dress): 
-  Updated: 2026-08-08T21:53:31Z
-- [EZRA Landing Page](https://shopezra.us/pages/ezra-landing-page)
-  Updated: 2026-08-12T07:41:42Z
-- [All Your Heart Desire](https://shopezra.us/pages/all-your-heart-desire)
-  Updated: 2026-08-14T06:10:05Z
-- [Dresses Landing Page](https://shopezra.us/pages/dresses-landing-page)
-  Updated: 2026-08-14T07:10:13Z
-- [Collabs](https://shopezra.us/pages/collab)
-  Updated: 2026-08-14T21:17:30Z
 - [Frequently Asked Questions](https://shopezra.us/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
   Updated: 2026-08-14T21:19:00Z
 - [My wishlist](https://shopezra.us/pages/joy-wishlist)
   Updated: 2026-08-14T21:25:23Z
-- [Personal Wishlist Ideas for Everyone](https://shopezra.us/pages/personal-wishlist-ideas): Discover Creative Personal Wishlist IdeasYour personal wishlist ideas are a great way to organize your aspirations and desires. Whether you’re look...
-  Updated: 2026-09-09T03:02:38Z
-- [Withdrawal Policy Guidelines - Cancel Within 14 Days](https://shopezra.us/pages/withdrawal-policy-guidelines): .withdrawal-policy { max-width: 800px; margin: 0 auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-seri...
-  Updated: 2026-09-09T03:41:58Z
-- [Withdrawal Request Form: Essential Guide](https://shopezra.us/pages/withdrawal-request-form): Order cancellation or withdrawal requestTo request cancellation or withdrawal of a store order, email onesimebi2020@gmail.com with the details belo...
-  Updated: 2026-09-30T01:44:43Z
-- [Growthhero redirect service - Seamless Navigation Solutions](https://shopezra.us/pages/growthhero-redirect-service): Welcome to the Growthhero redirect service! If you’ve landed on this page, it’s likely because a link you clicked directed you here. Our redirect s...
-  Updated: 2026-09-23T06:00:40Z
-- [One Click Registration Redirect - Growthhero.io](https://shopezra.us/pages/one-click-registration-redirect): Welcome to Growthhero.io At Growthhero.io, we believe that efficiency is key in your registration process. That's why we've implemented the one cli...
-  Updated: 2026-09-23T06:00:32Z
+- [Withdrawal Policy](https://shopezra.us/pages/withdrawal-policy-guidelines): All sales are final. We do not offer refunds or returns for change of mind. Defective, wrong, or damaged items: If you receive a defective item, th...
+  Updated: 2026-10-08T21:54:25Z
+- [Withdrawal Request Form: Essential Guide](https://shopezra.us/pages/withdrawal-request-form): Withdrawals and CancellationsWithdrawal and order cancellation requests are not accepted. All sales are final.If you received a damaged, defective,...
+  Updated: 2026-10-08T07:11:50Z
 
 ## Policies
 
 - [Privacy Policy](https://shopezra.us/policies/privacy-policy)
-  Updated: 2026-06-26T19:19:56-04:00
+  Updated: 2026-10-08T06:57:02Z
 - [Shipping Policy](https://shopezra.us/policies/shipping-policy)
-  Updated: 2026-09-24T19:37:43-04:00
+  Updated: 2026-10-14T01:16:02Z
 - [Refund Policy](https://shopezra.us/policies/refund-policy)
-  Updated: 2026-09-24T19:41:09-04:00
+  Updated: 2026-10-14T01:16:25Z
 - [Terms of Service](https://shopezra.us/policies/terms-of-service)
-  Updated: 2026-08-19T04:36:27-04:00
+  Updated: 2026-10-08T07:10:43Z
 - [Contact Information](https://shopezra.us/policies/contact-information)
-  Updated: 2026-08-19T04:37:11-04:00
+  Updated: 2026-10-08T04:57:36Z
 
 ## Optional
 
