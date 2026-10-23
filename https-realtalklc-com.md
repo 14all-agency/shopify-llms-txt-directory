@@ -6,34 +6,32 @@
 - Timezone: Europe/Madrid
 - Created At: 2026-02-24T14:46:32Z
 - Contact Email: info@realtalklc.com
-- Updated At: 2026-08-21T00:00:46.926Z
+- Updated At: 2026-10-23T00:52:53.641Z
 
 ## Products
 
-- [The Coffee and Love "Fuel Up" Ceramic Mug](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug): The perfect funny gift for new parents and coffee lovers. Witty ceramic mug with hand-drawn design. Dishwasher safe, BPA-free. Ships across Europe.
-  Updated: 2026-08-08T09:52:58Z
+- [Funny Parent Coffee Mug – Fuel Up | Gift for Mums & Dads | Real Talk](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug): The perfect funny gift for tired parents. This 'Fuel Up' ceramic mug is ideal for birthdays, Christmas or any day they need a laugh. Shop Real Talk.
+  Updated: 2026-08-29T04:36:54Z
   Vendor: Real Talk
   Product Type: Mugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-coffee-and-love-fuel-up-ceramic-mugproduct-typereal-talkreal-talk9878874-1320variant-barcode-5797783.jpg?v=1784734400
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/image_1a754903-e292-491d-acd0-82dfff1d90c1.png?v=1787934961
   - [11 oz](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug?variant=53945802326356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-coffee-and-love-fuel-up-ceramic-mugproduct-typereal-talkreal-talk9878874-1320variant-barcode-5797783.jpg?v=1784734400
     Price: €8.00 EUR
   - [15 oz](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug?variant=53945802359124)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-coffee-and-love-fuel-up-ceramic-mugproduct-typereal-talkreal-talk9878874-4830variant-barcode-3861320.jpg?v=1784734398
     Price: €10.00 EUR
   - [20 oz](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug?variant=53945802391892)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-coffee-and-love-fuel-up-ceramic-mugproduct-typereal-talkreal-talk9878874-16586variant-barcode-2078304.jpg?v=1784734399
     Price: €13.00 EUR
 - [Parenting 101 funny  unisex Tee](https://realtalklc.com/products/the-winging-it-works): Survive parenthood with a laugh! The Parenting 101 Funny Tee offers hilarious style, soft comfort, and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T12:29:33Z
+  Updated: 2026-08-29T03:15:31Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk6217084-16472variant-barcode-9603927.jpg?v=1784734507
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/silence-is-golden-lifestyle.png?v=1787929963
   - [Black / XS](https://realtalklc.com/products/the-winging-it-works?variant=55667721404756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk6217084-16472variant-barcode-9603927.jpg?v=1784734507
@@ -235,11 +233,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk6217084-48729variant-barcode-6820247.jpg?v=1784734505
     Price: €20.50 EUR
 - [Parenting 101 funny unisex Tee](https://realtalklc.com/products/parenting-101-funny-tee): Survive parenthood with a laugh! The Parenting 101 Funny Tee offers hilarious style, soft comfort, and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T12:52:06Z
+  Updated: 2026-08-29T03:16:41Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk2811584-15813variant-barcode-8041419.jpg?v=1784734484
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/forget-your-diet-lifestyle.png?v=1787929972
   - [Black / S](https://realtalklc.com/products/parenting-101-funny-tee?variant=55667985285460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk2811584-11546variant-barcode-4680777.jpg?v=1784734440
@@ -433,25 +431,23 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-teeproduct-typereal-talkreal-talk2811584-11576variant-barcode-8031073.jpg?v=1784734482
     Price: €20.50 EUR
 - [Parenting 101 funny thermo bottles](https://realtalklc.com/products/parenting-101-funny-bottle): Survive parenthood with a laugh! The Parenting 101 Funny Bottle offers hilarious style and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T12:43:24Z
+  Updated: 2026-08-29T04:44:19Z
   Vendor: Real Talk
   Product Type: Bottles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-bottlesproduct-typereal-talkreal-talk4849900-16030variant-barcode-1193820.jpg?v=1784734407
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/thermo-bottle-lifestyle.png?v=1787934468
   - [Black](https://realtalklc.com/products/parenting-101-funny-bottle?variant=55668193689940)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-bottlesproduct-typereal-talkreal-talk4849900-16030variant-barcode-1193820.jpg?v=1784734407
     Price: €27.00 EUR
   - [White](https://realtalklc.com/products/parenting-101-funny-bottle?variant=55668193722708)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-bottlesproduct-typereal-talkreal-talk4849900-10798variant-barcode-1315395.jpg?v=1784734406
     Price: €27.00 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt 5](https://realtalklc.com/products/parenting-101-funny-tee-1): Upgrade your parenting game with this hilarious unisex cotton shirt! Perfect for parent joke lovers.
-  Updated: 2026-07-23T12:50:02Z
+  Updated: 2026-08-29T03:18:15Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk3132667-11546variant-barcode-5380709.jpg?v=1784734417
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/repeat-yourself-lifestyle.png?v=1787929984
   - [Black / S](https://realtalklc.com/products/parenting-101-funny-tee-1?variant=55678013800788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk3132667-11546variant-barcode-5380709.jpg?v=1784734417
@@ -645,11 +641,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk3132667-11576variant-barcode-4418697.jpg?v=1784734417
     Price: €20.50 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt 6](https://realtalklc.com/products/parenting-101-funny-tee-2): Survive parenthood with a laugh! The Parenting 101 Funny Tee offers hilarious style, soft comfort, and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T12:18:25Z
+  Updated: 2026-08-29T03:26:17Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk1365504-15873variant-barcode-4167678.jpg?v=1784734441
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/because-i-said-so-lifestyle.png?v=1787929999
   - [Black / S](https://realtalklc.com/products/parenting-101-funny-tee-2?variant=55682843345236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk1365504-11546variant-barcode-2887943.jpg?v=1784734508
@@ -851,11 +847,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk1365504-11576variant-barcode-9512678.jpg?v=1784734440
     Price: €20.50 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt 1](https://realtalklc.com/products/parenting-101-funny-tee-3): Survive parenthood with a laugh! The Parenting 101 Funny Tee offers hilarious style, soft comfort, and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T13:04:18Z
+  Updated: 2026-08-29T03:19:17Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk5967531-15855variant-barcode-1418326.jpg?v=1784734626
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/in-one-ear-lifestyle.png?v=1787930007
   - [Black / S](https://realtalklc.com/products/parenting-101-funny-tee-3?variant=55686262522196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk5967531-11546variant-barcode-8485831.jpg?v=1784734520
@@ -1057,11 +1053,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk5967531-14973variant-barcode-7312787.jpg?v=1784734629
     Price: €20.50 EUR
 - [Parenting 101 Funny Cotton Unisex T-Shirt](https://realtalklc.com/products/parenting-101-funny-tee-4): Survive parenthood with a laugh! The Parenting 101 Funny Tee offers hilarious style, soft comfort, and relatable vibes. Shop the ultimate gift for parents!
-  Updated: 2026-07-23T12:25:53Z
+  Updated: 2026-08-29T03:20:27Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-cotton-unisex-t-shirtproduct-typereal-talkreal-talk1342936-15879variant-barcode-8977545.jpg?v=1784734413
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/car-seats-lifestyle.png?v=1787930020
   - [Black / S](https://realtalklc.com/products/parenting-101-funny-tee-4?variant=55686296404308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-cotton-unisex-t-shirtproduct-typereal-talkreal-talk1342936-11546variant-barcode-8398080.jpg?v=1784734627
@@ -1263,11 +1259,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/parenting-101-funny-cotton-unisex-t-shirtproduct-typereal-talkreal-talk1342936-11576variant-barcode-3715833.jpg?v=1784734715
     Price: €20.50 EUR
 - [Baby Delivery Service: American Edition Unisex Tee](https://realtalklc.com/products/the-eagle-has-landed-retro-baby-delivery-ringer-tee): Deliver laughs in style with the Baby Delivery Service: American Edition Unisex Tee! Super soft, hilarious, and comfortable. Shop this funny graphic tee now!
-  Updated: 2026-08-17T14:18:22Z
+  Updated: 2026-09-22T18:01:57Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-american-edition-unisex-teeproduct-typereal-talkreal-talk3957766-24479variant-barcode-4230996.jpg?v=1784734520
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/image.png?v=1787931599
   - [Heather Gray / Black / S / ](https://realtalklc.com/products/the-eagle-has-landed-retro-baby-delivery-ringer-tee?variant=55743476072788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-american-edition-unisex-teeproduct-typereal-talkreal-talk3957766-24479variant-barcode-4230996.jpg?v=1784734520
@@ -1389,11 +1385,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-american-edition-unisex-teeproduct-typereal-talkreal-talk3957766-24483variant-barcode-7374566.jpg?v=1784734415
     Price: €25.00 EUR
 - [Baby Delivery Service:  African Edition Unisex Tee](https://realtalklc.com/products/the-stork-was-busy-africa-delivery-tee): Deliver laughs in style with the Baby Delivery Service: African Edition Unisex Tee! Super soft, hilarious, and comfortable. Shop this funny graphic tee now!
-  Updated: 2026-08-17T14:18:27Z
+  Updated: 2026-09-22T18:02:03Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-african-edition-unisex-teeproduct-typereal-talkreal-talk8166007-24479variant-barcode-4714925.jpg?v=1784734433
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/image_b5488229-7a6c-4a25-9814-b8f8301a296c.png?v=1787931661
   - [Heather Gray / Black / S](https://realtalklc.com/products/the-stork-was-busy-africa-delivery-tee?variant=55754054238548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-african-edition-unisex-teeproduct-typereal-talkreal-talk8166007-24479variant-barcode-4714925.jpg?v=1784734433
@@ -1515,11 +1511,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-african-edition-unisex-teeproduct-typereal-talkreal-talk8166007-24483variant-barcode-4343219.jpg?v=1784734432
     Price: €25.00 EUR
 - [Baby Delivery Service: Chinese Edition Unisex Tee](https://realtalklc.com/products/panda-express-special-delivery-edition): Deliver laughs in style with the Baby Delivery Service: Chinese Edition Unisex Tee! Super soft, hilarious, and comfortable. Shop this funny graphic tee now!
-  Updated: 2026-08-17T14:18:27Z
+  Updated: 2026-09-22T18:01:57Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-chinese-edition-unisex-teeproduct-typereal-talkreal-talk4391991-24479variant-barcode-2994967.jpg?v=1784734440
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/bds-china-corrected.png?v=1787932080
   - [Heather Gray / Black / S](https://realtalklc.com/products/panda-express-special-delivery-edition?variant=55754139926868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-chinese-edition-unisex-teeproduct-typereal-talkreal-talk4391991-24479variant-barcode-2994967.jpg?v=1784734440
@@ -1641,11 +1637,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-chinese-edition-unisex-teeproduct-typereal-talkreal-talk4391991-24483variant-barcode-4685390.jpg?v=1784734436
     Price: €25.00 EUR
 - [Baby Delivery Service - Canadian Edition Unisex Tee](https://realtalklc.com/products/moose-baby-delivery-service-canada-edition-t-shirt): Deliver laughs in style with the Baby Delivery Service: Canadian Edition Unisex Tee! Super soft, hilarious, and comfortable. Shop this funny graphic tee now!
-  Updated: 2026-08-17T14:18:27Z
+  Updated: 2026-09-22T18:02:03Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-canadian-edition-unisex-teeproduct-typereal-talkreal-talk2755225-24479variant-barcode-5153391.jpg?v=1784734495
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/bds-canada_fe8fa540-6caa-4abc-9cbd-bb6221f4b2fd.png?v=1787932399
   - [Heather Gray / Black / S](https://realtalklc.com/products/moose-baby-delivery-service-canada-edition-t-shirt?variant=55762751488340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-canadian-edition-unisex-teeproduct-typereal-talkreal-talk2755225-24479variant-barcode-5153391.jpg?v=1784734495
@@ -1767,11 +1763,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-canadian-edition-unisex-teeproduct-typereal-talkreal-talk2755225-24483variant-barcode-5753225.jpg?v=1784734436
     Price: €25.00 EUR
 - [Funny New Parent T-Shirt Midnight Minefield Manual](https://realtalklc.com/products/the-midnight-minefield-manual-tee): Survive the newborn nights in style. The Midnight Minefield Manual tee is the perfect funny gift for new parents. Soft cotton, witty & unique.
-  Updated: 2026-07-24T06:54:35Z
+  Updated: 2026-08-29T04:35:41Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/midnight-minefield-manual-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk8840347-8451variant-barcode-1425678.jpg?v=1784734662
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/image_ab2e305d-01e7-4672-84dd-15191ed4743c.png?v=1787934766
   - [Black Heather / XS](https://realtalklc.com/products/the-midnight-minefield-manual-tee?variant=55780550869332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/midnight-minefield-manual-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk8840347-9575variant-barcode-6558286.jpg?v=1784734626
@@ -1972,12 +1968,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/midnight-minefield-manual-funny-unisex-cotton-t-shirtproduct-typereal-talkreal-talk8840347-9550variant-barcode-3100133.jpg?v=1784734479
     Price: €22.00 EUR
-- [Funny Pregnancy Gift Women's T-Shirt From Shots to Swaddles](https://realtalklc.com/products/from-shots-to-swaddles-t-shirt): Celebrate the journey from wild nights to nappy changes! Organic cotton women's tee — the perfect funny pregnancy or baby shower gift.
-  Updated: 2026-07-24T06:55:13Z
+- [Funny New Mum T-Shirt – From Shots to Swaddles | Baby Shower Gift | Real Talk](https://realtalklc.com/products/from-shots-to-swaddles-t-shirt): The perfect funny baby shower gift. This organic cotton new mum tee is honest, hilarious and totally relatable. Shop Real Talk.
+  Updated: 2026-08-29T04:50:09Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/from-shots-to-swaddles-organic-cotton-womens-t-shirtproduct-typereal-talkreal-talk2707721-21371variant-barcode-6282642.jpg?v=1784734663
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/dos-and-donts-auntie-tee.png?v=1787935653
   - [Black / S](https://realtalklc.com/products/from-shots-to-swaddles-t-shirt?variant=55780658118996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/from-shots-to-swaddles-organic-cotton-womens-t-shirtproduct-typereal-talkreal-talk2707721-21370variant-barcode-1654314.jpg?v=1784734568
@@ -2178,12 +2174,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/from-shots-to-swaddles-organic-cotton-womens-t-shirtproduct-typereal-talkreal-talk2707721-21379variant-barcode-7720624.jpg?v=1784734482
     Price: €27.00 EUR
-- [Funny Baby Shower Gift T-Shirt Irish Edition - Real Talk](https://realtalklc.com/products/irish-wolfhound-express-baby-edition): The luck of the Irish, delivered! Funny unisex tee — a brilliant baby shower or new baby gift for Irish families. Ships worldwide.
-  Updated: 2026-08-17T14:18:36Z
+- [Funny Irish Baby Gift T-Shirt – Baby Delivery Service Irish Edition | Real Talk](https://realtalklc.com/products/irish-wolfhound-express-baby-edition): The perfect funny new baby gift for Irish families. This Baby Delivery Service Irish Edition tee is great for baby showers & newborn gifts. Shop Real Talk.
+  Updated: 2026-09-22T18:02:03Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-irish-edition-unisex-teeproduct-typereal-talkreal-talk3860053-24479variant-barcode-8406668.jpg?v=1784734413
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/irish-baby-tee-lifestyle.png?v=1787871739
   - [Heather Gray / Black / S](https://realtalklc.com/products/irish-wolfhound-express-baby-edition?variant=55795371770196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-irish-edition-unisex-teeproduct-typereal-talkreal-talk3860053-24479variant-barcode-8406668.jpg?v=1784734413
@@ -2305,11 +2301,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-irish-edition-unisex-teeproduct-typereal-talkreal-talk3860053-24483variant-barcode-9530601.jpg?v=1784734506
     Price: €25.00 EUR
 - [Funny Baby Shower Gift T-Shirt Spanish Edition - Real Talk](https://realtalklc.com/products/the-bull-stop-spanish-edition): Funny baby shower gift for Spanish families. Celebrate a new arrival with flair and humour. Unisex tee, ships across Europe.
-  Updated: 2026-08-17T14:18:36Z
+  Updated: 2026-09-22T18:02:09Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-spanish-edition-unisex-teeproduct-typereal-talkreal-talk5026195-24479variant-barcode-1390766.jpg?v=1784734442
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/bds-spain_e793f188-e19c-4879-9a20-0cb98e754af1.png?v=1787932413
   - [Heather Gray / Black / S](https://realtalklc.com/products/the-bull-stop-spanish-edition?variant=55795397362004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-spanish-edition-unisex-teeproduct-typereal-talkreal-talk5026195-24479variant-barcode-1390766.jpg?v=1784734442
@@ -2431,11 +2427,11 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/baby-delivery-service-spanish-edition-unisex-teeproduct-typereal-talkreal-talk5026195-24483variant-barcode-4143376.jpg?v=1784734441
     Price: €25.00 EUR
 - [Funny New Parent Hoodie Midnight Minefield Manual](https://realtalklc.com/products/the-midnight-minefield-manual-hoodie): Survive the newborn nights in style. The Midnight Minefield Manual hoodie is the perfect funny gift for new parents. Cosy, witty & unique.
-  Updated: 2026-07-22T21:48:04Z
+  Updated: 2026-08-29T04:38:22Z
   Vendor: Real Talk
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-midnight-minefield-manual-hoodieproduct-typereal-talkreal-talk9568336-5530variant-barcode-5318805.jpg?v=1784734509
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/midnight-minefield-hoodie-lifestyle.png?v=1787934480
   - [Black / S](https://realtalklc.com/products/the-midnight-minefield-manual-hoodie?variant=55795457491284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-midnight-minefield-manual-hoodieproduct-typereal-talkreal-talk9568336-5530variant-barcode-5318805.jpg?v=1784734509
@@ -2636,115 +2632,226 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/the-midnight-minefield-manual-hoodieproduct-typereal-talkreal-talk9568336-12989variant-barcode-1722346.jpg?v=1784734507
     Price: €40.00 EUR
-[List Continued](https://realtalklc.com/a/llms-agent/llms.txt?shop=08e02i-nb.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQxNTUxMDA3MzY4NCwibGFzdF92YWx1ZSI6IjE1NDE1NTEwMDczNjg0In0%3D)
+- [Funny Dad T-Shirt – Gourmet Toddler Scraps | Father's Day Gift | Real Talk](https://realtalklc.com/products/gourmet-toddler-scraps-tee): The funniest Father's Day gift going. This Gourmet Toddler Scraps dad tee is a brilliant gift for any dad who gets the joke. Shop Real Talk.
+  Updated: 2026-08-29T00:38:29Z
+  Vendor: Real Talk
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/dad-tee-lifestyle.png?v=1787871698
+  - [Black / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512110932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Black / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512143700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Black / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512176468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Black / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512209236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Black / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512242004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Black / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512274772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11546variant-barcode-8369136.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Navy / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512307540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Navy / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512340308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Navy / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512373076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Navy / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512405844)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Navy / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512438612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Navy / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512471380)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-11561variant-barcode-7125979.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Forest Green / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512504148)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Forest Green / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512536916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Forest Green / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512569684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Forest Green / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512602452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Forest Green / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512635220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Forest Green / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512667988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-20453variant-barcode-7740968.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Dark Chocolate / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512700756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Dark Chocolate / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512733524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Dark Chocolate / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512766292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Dark Chocolate / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512799060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Dark Chocolate / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512831828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Dark Chocolate / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512864596)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15837variant-barcode-2146534.jpg?v=1784734426
+    Price: €20.55 EUR
+  - [Royal / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512897364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Royal / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512930132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Royal / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512962900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Royal / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816512995668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Royal / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513028436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Royal / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513061204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15879variant-barcode-1830732.jpg?v=1784734354
+    Price: €20.55 EUR
+  - [Dark Heather / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513093972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Dark Heather / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513126740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Dark Heather / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513159508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Dark Heather / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513192276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Dark Heather / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513225044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Dark Heather / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513257812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15843variant-barcode-4330126.jpg?v=1784734355
+    Price: €20.55 EUR
+  - [Charcoal / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513290580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Charcoal / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513323348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Charcoal / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513356116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Charcoal / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513388884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Charcoal / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513421652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Charcoal / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513454420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15831variant-barcode-4675654.jpg?v=1784734424
+    Price: €20.55 EUR
+  - [Irish Green / S](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513487188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Irish Green / M](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513519956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Irish Green / L](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513552724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Irish Green / XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513585492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Irish Green / 2XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513618260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+  - [Irish Green / 3XL](https://realtalklc.com/products/gourmet-toddler-scraps-tee?variant=55816513651028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/gourmet-toddler-scraps-dad-t-shirtproduct-typereal-talkreal-talk1485927-15855variant-barcode-5728683.jpg?v=1784734353
+    Price: €20.55 EUR
+[List Continued](https://realtalklc.com/a/llms-agent/llms.txt?shop=08e02i-nb.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQxOTY5Mjg3NjExNiwibGFzdF92YWx1ZSI6IjE1NDE5NjkyODc2MTE2In0%3D)
 
 ## Collections
 
 - [Home page (where the journey begins and the support starts)](https://realtalklc.com/collections/frontpage): Welcome. Discover hilarious merch, sarcastic parenting tees, mugs & honest, science-backed survival guides. Shop the real side of raising kids!
-  Updated: 2026-07-26T14:48:11Z
+  Updated: 2026-08-27T22:57:55Z
   Total Products: 33
-- [Unfiltered Collection (like my mouth and my coffee)](https://realtalklc.com/collections/relatable-truth): No filters. No fluff. Just the honest, hilarious, and slightly exhausted truth about parenthood. This collection celebrates the daily wins.
-  Updated: 2026-08-07T21:53:38Z
-  Total Products: 32
-- [Parenting 101 The Survivalist’s Starter Pack](https://realtalklc.com/collections/parenting-101-the-survivalist-s-starter-pack): Congratulations! You’ve been promoted to a job with no pay, 24-hour shifts, and a boss who screams when they lose their socks. "Parenting 101" collection.
-  Updated: 2026-07-26T13:43:00Z
-  Total Products: 7
 - [Baby Delivery Service](https://realtalklc.com/collections/baby-delivery-service): Ever wonder how babies actually arrive? Forget the storks—they’ve gone on strike! This collection celebrates the "local heroes" of the Baby Delivery Service.
-  Updated: 2026-08-07T21:53:38Z
+  Updated: 2026-08-27T22:57:55Z
   Total Products: 20
-- [New Baby Gifts (for the parents)](https://realtalklc.com/collections/new-baby-gifts): Shop unique new baby gifts and baby shower apparel. Funny hoodies and tees in multiple national editions. Perfect for new parents and baby celebrations.
-  Updated: 2026-08-07T21:53:38Z
-  Total Products: 20
-- [Funny but true Dad Gifts (For anytime of the year)](https://realtalklc.com/collections/funny-dad-gifts): Unique funny gifts for dads. Hilarious t-shirts and hoodies that celebrate fatherhood. Perfect for Father's Day, birthdays, and every day in between.
-  Updated: 2026-07-26T13:54:06Z
-  Total Products: 3
-- [Funny Parenting Gifts](https://realtalklc.com/collections/funny-parenting-gifts): Hilarious parenting gifts and apparel for mums and dads. Funny hoodies and tees that celebrate the chaos of parenthood. Shop Real Talk's parenting collection.
-  Updated: 2026-07-26T13:51:14Z
+- [Funny but true Dad Gifts (For anytime of the year)](https://realtalklc.com/collections/funny-dad-gifts): Make Dad laugh this Father's Day with funny, heartfelt gifts. Perfect for new dads, cool dads, and everything in between. Ships across Europe.
+  Updated: 2026-08-27T22:57:55Z
+  Total Products: 33
+- [Funny Mothers Day Gifts](https://realtalklc.com/collections/funny-parenting-gifts): Hilarious parenting gifts for mums, dads & baby showers — funny hoodies, tees & mugs celebrating the beautiful chaos of raising tiny humans.
+  Updated: 2026-08-27T22:57:18Z
   Total Products: 11
-
-## Blogs
-
-- [Real Talk](https://realtalklc.com/blogs/real-talk)
-  - [Beyond the Blue: Navigating Postpartum Depression](https://realtalklc.com/blogs/real-talk/beyond-the-blue-navigating-postpartum-depression): Beyond the Blue: Navigating Postpartum Depression
-    Updated: 2026-07-24T21:03:12Z
-    Author: Terri Newman
-    Tags: #GranCanariaMums  #LasPalmasParents  #MumsInSpain  #EuropeanMentalHealth  #ExpatMumsEurope  #AsociacionEspacioVida, #PostpartumDepression  #MaternalMentalHealth  #PPDSupport  #PostpartumRecovery  #MentalHealthAwareness  #NewMomLife, #PPDMedication  #PostpartumAnxiety  #PostpartumTherapy  #ChemicalImbalance  #MentalHealthMatters, #VulnerabilityIsStrength  #YouAreNotAlone  #EndTheStigma  #PostpartumIsolation  #MotherhoodUnplugged  #AskingForHelp, baby
-  - [The Great Daddy Shift: Biology, Bonding, and Busting Myths](https://realtalklc.com/blogs/real-talk/title-the-great-daddy-shift-biology-bonding-and-busting-myths): The Great Daddy Shift: Biology, Bonding, and Busting Myths
-    Updated: 2026-07-22T22:07:39Z
-    Author: Terri Newman
-    Tags: Co-parenting first year, Dad brain rewiring, Fatherhood journey, Fatherhood survival guide, First-time dad advice, Hormonal changes in new fathers, Maintaining marriage after baby, Male postpartum biology, New dad support groups, New father guide, Newborn care for dads, Oxytocin in men, Parenting for men, Relationship tips for new parents, Science of fatherhood
-  - [The Parent-and-Baby Wellness Guide](https://realtalklc.com/blogs/real-talk/the-parent-and-baby-wellness-guide-for-when-you-just-wanna-sleep): The Parent-and-Baby Wellness Guide
-    Updated: 2026-07-22T22:06:36Z
-    Author: Terri Newman
-    Tags: baby, dad life, exercise tips, fitness, health, healthy eating, humor, mom life, parenting, post-partum, sanity, sarcasm, sleep deprivation, wellness
-  - [Unlocking Creative Ways 2 Blend Entertainment with Parenting](https://realtalklc.com/blogs/real-talk/unlocking-creative-ways-to-blend-entertainment-with-parenting-for-better-family-moments): Unlocking Creative Ways 2 Blend Entertainment with Parenting
-    Updated: 2026-07-22T22:03:29Z
-    Author: Real Talk
-    Tags: creativity, engaging family moments, entertainment, entertainment ideas, family, family bonding, fun activities, parenting, parenting through play
-  - [FAQ on Balancing Entertainment and Parenting:](https://realtalklc.com/blogs/real-talk/faq-on-balancing-entertainment-and-parenting-what-every-parent-should-know): FAQ on Balancing Entertainment and Parenting:
-    Updated: 2026-07-22T22:03:26Z
-    Author: Real Talk
-    Tags: balancing parenting entertainment, entertainment, family activities, helpful parenting strategies, parenting, parenting advice, screen time, tips
-  - [Integrating Entertainment into Modern Parenting](https://realtalklc.com/blogs/real-talk/educational-approaches-to-integrating-entertainment-into-modern-parenting): Integrating Entertainment into Modern Parenting
-    Updated: 2026-07-22T22:03:25Z
-    Author: Real Talk
-    Tags: creative learning, education, engaging children’s interests, entertainment, family activities, incorporating fun into learning, modern parenting, parenting
-  - [Tutorial on Combining Entertainment and Parenting Strategies](https://realtalklc.com/blogs/real-talk/engaging-tutorial-on-combining-entertainment-with-parenting-strategies): Tutorial on Combining Entertainment and Parenting Strategies
-    Updated: 2026-07-22T22:01:45Z
-    Author: Real Talk
-    Tags: combining entertainment with parenting, education, entertainment, family engagement, fun activities, parenting, parenting strategies for families, parenting tips, strategies
-  - [The Impossible Juggling Act:  Finding Joy in Motherhood](https://realtalklc.com/blogs/real-talk/the-impossible-juggling-act-finding-joy-in-motherhood-1): The Impossible Juggling Act:  Finding Joy in Motherhood
-    Updated: 2026-07-26T14:45:32Z
-    Author: Terri Newman
-    Tags: #PostpartumDepression  #MaternalMentalHealth  #PPDSupport  #PostpartumRecovery  #MentalHealthAwareness  #NewMomLife, #PPDMedication  #PostpartumAnxiety  #PostpartumTherapy  #ChemicalImbalance  #MentalHealthMatters, #VulnerabilityIsStrength  #YouAreNotAlone  #EndTheStigma  #PostpartumIsolation  #MotherhoodUnplugged  #AskingForHelp, Attachment Theory, Child Development, Fatherhood, Finding Balance, Mom Guilt, Motherhood, Parenthood Support, Parenting, Perfect Motherhood, Societal Pressure, Stay-at-Home Moms, Working Moms
-  - [Top Ten Tips for Using Entertainment as a Parenting Tool](https://realtalklc.com/blogs/real-talk/top-ten-innovative-tips-for-using-entertainment-as-a-parenting-tool): Top Ten Tips for Using Entertainment as a Parenting Tool
-    Updated: 2026-07-26T14:34:49Z
-    Author: Real Talk
-    Tags: creative parenting strategies, educational entertainment, entertainment, innovative parenting, parenting, parenting tips, tips, using entertainment for parenting
-  - [Comparing Parenting Styles: How Entertainment Plays a Role](https://realtalklc.com/blogs/real-talk/comparing-parenting-styles-how-entertainment-plays-a-role): Comparing Parenting Styles: How Entertainment Plays a Role
-    Updated: 2026-07-27T17:03:11Z
-    Author: Real Talk
-    Tags: child development, comparing different parenting styles, entertainment, entertainment influence, how entertainment affects parenting, kids, parenting, parenting techniques, styles
-  - [Parenting Challenges Solved: Entertainment Options for Different Age Groups](https://realtalklc.com/blogs/real-talk/parenting-challenges-solved-entertainment-options-for-different-age-groups): Parenting Challenges Solved: Entertainment Options for Different Age Groups
-    Updated: 2026-07-29T15:05:09Z
-    Author: Real Talk
-    Tags: age group activities, children, engaging kids in play, entertainment, entertainment options, family, fun family ideas, parenting, parenting challenges
-  - [Checklists for Parents: Ensuring Balanced Entertainment in Your Child's Life](https://realtalklc.com/blogs/real-talk/checklists-for-parents-ensuring-balanced-entertainment-in-your-childs-life): Checklists for Parents: Ensuring Balanced Entertainment in Your Child's Life
-    Updated: 2026-07-31T13:07:08Z
-    Author: Real Talk
-    Tags: balanced entertainment for kids, behavior, child development, children, engaging children in play, entertainment, family activities, parenting, parenting tips
-  - [Trend Alert: The Rise of Entertainment-Infused Parenting Techniques](https://realtalklc.com/blogs/real-talk/trend-alert-the-rise-of-entertainment-infused-parenting-techniques): Trend Alert: The Rise of Entertainment-Infused Parenting Techniques
-    Updated: 2026-08-04T09:11:08Z
-    Author: Real Talk
-    Tags: engaging activities for kids, entertainment, fun parenting ideas, modern parenting, parenting, parenting strategies, parenting through entertainment, techniques
-  - [The History and Future of Entertainment in Parenting Explored](https://realtalklc.com/blogs/real-talk/the-history-and-future-of-entertainment-in-parenting-explored): The History and Future of Entertainment in Parenting Explored
-    Updated: 2026-08-06T07:13:09Z
-    Author: Real Talk
-    Tags: children, entertainment, entertainment parenting, family, future of parenting entertainment, history of parenting entertainment, modern parenting, parenting, parenting trends
-  - [The Power of Educational Entertainment in Parenting Moments](https://realtalklc.com/blogs/real-talk/the-power-of-educational-entertainment-in-parenting-moments): The Power of Educational Entertainment in Parenting Moments
-    Updated: 2026-08-08T05:15:52Z
-    Author: Real Talk
-    Tags: benefits of educational entertainment, child development, education, educational activities, entertainment, how to engage kids, parenting, parenting tips
-  - [Unlock Hidden Entertainment Resources to Make Parenting More Fun](https://realtalklc.com/blogs/real-talk/unlock-hidden-entertainment-resources-to-make-parenting-more-fun): Unlock Hidden Entertainment Resources to Make Parenting More Fun
-    Updated: 2026-08-11T02:18:08Z
-    Author: Real Talk
-    Tags: creative parenting ideas, engaging ways to entertain kids, entertainment, family activities, fun, kids entertainment, parenting, parenting tips, play
-  - [How Parenting Can Evolve Through Entertainment Techniques](https://realtalklc.com/blogs/real-talk/how-parenting-can-evolve-through-entertainment-techniques): How Parenting Can Evolve Through Entertainment Techniques
-    Updated: 2026-08-13T00:20:08Z
-    Author: Real Talk
-    Tags: child development, engaging kids through entertainment, entertainment, family activities, innovative parenting strategies, parenting, parenting styles, techniques
-  - [Creating Lifelong Bonds Through Shared Entertainment Experiences](https://realtalklc.com/blogs/real-talk/creating-lifelong-bonds-through-shared-entertainment-experiences): Creating Lifelong Bonds Through Shared Entertainment Experiences
-    Updated: 2026-08-14T22:22:08Z
-    Author: Real Talk
-    Tags: bonding, creating connections, entertainment, entertainment activities, family, parenting, quality time, shared experiences, strengthening family bonds
-  - [Understanding Entertainment Dynamics in Modern Parenting](https://realtalklc.com/blogs/real-talk/understanding-entertainment-dynamics-in-modern-parenting): Understanding Entertainment Dynamics in Modern Parenting
-    Updated: 2026-08-17T19:25:09Z
-    Author: Real Talk
-    Tags: children, engaging kids activities, entertainment, entertainment dynamics, family, modern parenting, parenting, parenting challenges, parenting strategies
-  - [Structuring a Balanced Entertainment and Parenting Schedule](https://realtalklc.com/blogs/real-talk/structuring-a-balanced-entertainment-and-parenting-schedule): Structuring a Balanced Entertainment and Parenting Schedule
-    Updated: 2026-08-19T17:27:13Z
-    Author: Real Talk
-    Tags: create routine for kids, entertainment, family balance, parenting, parenting tips, schedule, scheduled activities, structured parenting activities
+- [Funny Baby Shower Gifts Under €45](https://realtalklc.com/collections/funny-parenting-gifts-under-45): Hilarious parenting & baby shower gifts under €45 — witty tees, hoodies & mugs new parents will love. Free shipping across Europe.
+  Updated: 2026-09-07T14:01:48Z
+  Total Products: 34
+- [Courses](https://realtalklc.com/collections/courses)
+  Updated: 2026-09-07T14:01:48Z
+  Total Products: 1
 
 ## Store Pages
 
@@ -2770,15 +2877,15 @@
 ## Policies
 
 - [Privacy Policy](https://realtalklc.com/policies/privacy-policy)
-  Updated: 2026-05-24T15:16:32+02:00
+  Updated: 2026-05-24T13:16:32Z
 - [Shipping Policy](https://realtalklc.com/policies/shipping-policy)
-  Updated: 2026-06-05T14:52:24+02:00
+  Updated: 2026-06-05T12:52:24Z
 - [Refund Policy](https://realtalklc.com/policies/refund-policy)
-  Updated: 2026-08-12T23:39:25+02:00
+  Updated: 2026-08-12T21:39:25Z
 - [Terms of Service](https://realtalklc.com/policies/terms-of-service)
-  Updated: 2026-05-24T15:19:43+02:00
+  Updated: 2026-05-24T13:19:43Z
 - [Contact Information](https://realtalklc.com/policies/contact-information)
-  Updated: 2026-05-24T15:20:19+02:00
+  Updated: 2026-05-24T13:20:19Z
 
 ## Optional
 
