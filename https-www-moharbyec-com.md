@@ -10,2778 +10,2830 @@
 - Contact Email: ekaacouture@gmail.com
 - Contact Phone: 5713150058
 - Address: 3065 C Centreville Road Herndon VA 20171
-- Updated At: 2026-05-31T00:00:48.858Z
+- Updated At: 2026-10-23T01:22:19.334Z
 
 ## Products
 
-- [shipping](https://www.moharbyec.com/products/shipping)
-  Updated: 2026-04-01T19:08:42Z
-  Vendor: MOHAR
-  Product Type: 
-  Availability: Available
-- [Deep Maroon Silk Thread Embroidered Lehenga Choli](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy): Make a royal entrance in this Maroon lehenga set, richly adorned with detailed golden thread embroidery. With its traditional floral motifs and luxurious texture, this ensemble is ideal for weddings, receptions, or grand festive occasions. Features: Top: Maroon blouse with intricate floral zari embroidery and mirror accents, finished with tassels for a festive touch. Lehenga: Full-flare skirt in Maroon, featuring all-over golden thread embroidery in floral and vine patterns, bordered with intricate temple-style motifs. Dupatta: Can be paired with a gold-trimmed net or georgette dupatta to complete the regal look. Care Instructions:Dry clean only to retain the richness of the silk fabric and preserve the embroidery. Why You'll Love It:The deep hue paired with heavy golden detailing makes this lehenga a timeless choice for grand occasions. Step into heritage elegance with Mohar’s luxurious navy ensemble. ✨ Ready to ship – Dress royally, feel unstoppable.
-  Updated: 2026-04-01T19:08:58Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_54e184e8-3925-4eb1-8cbf-69dab464b9f2.jpg?v=1758140281
-  - [S](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy?variant=45400092147865)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy?variant=45400092180633)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy?variant=45400092213401)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy?variant=45400092246169)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/navy-blue-silk-thread-embroidered-lehenga-choli-copy?variant=45400094408857)
-    Availability: Not Available
-- [Vibrant Yellow Tie-Dye Silk Saree](https://www.moharbyec.com/products/maroon-majesty-kanjivaram-inspired-heritage-saree-copy): Saree: Radiant orange silk saree featuring a soft ombré tie-dye effect and a muted golden zari border that elevates its festive appeal. Blouse: Structured orange blouse adorned with golden embroidery on the sleeves and neckline, offering bold contrast and ornate detail. Why You’ll Love It: The perfect pick for Haldi or summer celebrations—light, bright, and full of life.
-  Updated: 2026-04-26T17:59:48Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Saree
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/WhatsAppImage2025-06-21at12.07.16PM.jpg?v=1750541627
-  - [M / 38](https://www.moharbyec.com/products/maroon-majesty-kanjivaram-inspired-heritage-saree-copy?variant=45485179043993)
-    Availability: Not Available
-  - [L / 40](https://www.moharbyec.com/products/maroon-majesty-kanjivaram-inspired-heritage-saree-copy?variant=45485179076761)
-    Availability: Not Available
-  - [XL/42](https://www.moharbyec.com/products/maroon-majesty-kanjivaram-inspired-heritage-saree-copy?variant=45485179109529)
-    Availability: Not Available
-  - [1X/44](https://www.moharbyec.com/products/maroon-majesty-kanjivaram-inspired-heritage-saree-copy?variant=45485179142297)
-    Availability: Not Available
-- [Bridal  Necklace Set](https://www.moharbyec.com/products/royal-red-drape-set-copy-1): Floral clusters with red and white stones create a fresh and graceful design. A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:08Z
+- [Bridal  Necklace Set](https://www.moharbyec.com/products/royal-red-drape-set-copy-1): Floral clusters in red and white cubic zirconia stones form a graceful, layered necklace and maang tikka set with a soft drape that catches the light from every angle. Ideal for haldi, sangeet, mehendi, or engagement functions. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:04Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_eaaca7fd-c4f7-4f98-8783-bb23a79dcd7c.jpg?v=1757954383
-- [Green Bridal  Necklace Set](https://www.moharbyec.com/products/bridal-necklace-set-copy): Floral clusters with green and white stones create a fresh and graceful design. A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:09Z
+- [Green Bridal  Necklace Set](https://www.moharbyec.com/products/bridal-necklace-set-copy): Floral clusters in green and white cubic zirconia stones form a graceful, layered necklace and maang tikka set with a soft drape that catches the light from every angle. Ideal for haldi, sangeet, mehendi, or engagement functions. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:05Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_50dec4c1-3155-4692-9eb9-4b38da4ef2f7.jpg?v=1757954363
-- [Bridal  Necklace Set](https://www.moharbyec.com/products/elegant-bridal-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-23T18:15:57Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Jewelry
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_ae82e361-9892-46c3-bfa9-84fd4680cfb0.jpg?v=1757954333
-- [Sparkling Green Diamond Look Necklace Set](https://www.moharbyec.com/products/traditional-green-and-gold-finish-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-23T18:15:38Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Jewelry
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fce14110-02c6-4243-8552-c6e2238b8705.jpg?v=1757954297
-- [Statement Floral Crystal and CZ Necklace Set](https://www.moharbyec.com/products/sparkling-diamond-with-gold-finish-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:15Z
+- [Statement Floral Crystal and CZ Necklace Set](https://www.moharbyec.com/products/sparkling-diamond-with-gold-finish-necklace-set-copy): A statement floral necklace set in a gold-finish setting, combining crystal and cubic zirconia stones for a bold, sparkling centerpiece. Well suited to sangeet or party functions where you want the neckline to do the talking. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:05Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_f39824b6-187d-450e-ae18-12dd9351b93a.jpg?v=1757954246
-- [Nita Ambani replica Emerald Necklace Set](https://www.moharbyec.com/products/royal-blue-american-diamond-choker-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:15Z
+- [Nita Ambani replica Emerald Necklace Set](https://www.moharbyec.com/products/royal-blue-american-diamond-choker-set-copy): An emerald-tone statement choker set with American Diamond stones, styled after the layered, jewel-toned looks popular for engagement and reception functions. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:06Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_9d107b3f-0c4f-452a-bed9-3e5b66e14573.jpg?v=1757954114
-- [Statement CZ Necklace Set](https://www.moharbyec.com/products/royal-blue-teardrop-crystal-and-ad-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:16Z
+- [Statement CZ Necklace Set](https://www.moharbyec.com/products/royal-blue-teardrop-crystal-and-ad-necklace-set-copy): A statement necklace set in royal blue teardrop-cut stones with American Diamond accents, giving a bold, faceted sparkle that pairs well with jewel-tone or ivory outfits for sangeet and party wear. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:06Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_27fc0866-f268-4c91-b71e-7fbe05db4089.jpg?v=1757954021
-- [Statement Red CZ Necklace Set](https://www.moharbyec.com/products/statement-green-cz-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:19Z
+- [Statement Red CZ Necklace Set](https://www.moharbyec.com/products/statement-green-cz-necklace-set-copy): A statement necklace set in bold red cubic zirconia stones, designed as an eye-catching centerpiece for sangeet, mehendi, or festive party wear. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:06Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_65dbaeae-1053-4669-a1a5-143f78fdef3e.jpg?v=1757953992
-- [Statement CZ Necklace Set](https://www.moharbyec.com/products/statement-red-cz-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:19Z
+- [Statement CZ Necklace Set](https://www.moharbyec.com/products/statement-red-cz-necklace-set-copy): A statement cubic zirconia necklace set in a clear, white-stone finish, priced as an accessible statement option for mehendi or party functions. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:07Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_76774aaf-85a5-43d6-b085-629f8e580e51.jpg?v=1757953960
-- [Blue CZ Necklace Set](https://www.moharbyec.com/products/statement-red-cz-necklace-set-copy-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:20Z
+- [Blue CZ Necklace Set](https://www.moharbyec.com/products/statement-red-cz-necklace-set-copy-copy): A statement necklace set in blue cubic zirconia stones with clear stone accents, a versatile piece for sangeet, mehendi, or party wear at a mid-range price point. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:07Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_d746769d-7b79-4fb2-8886-9d119a6d74d9.jpg?v=1757953931
-- [Royal Blue Butterfly AD Stone Necklace Set](https://www.moharbyec.com/products/delicate-blue-butterfly-ad-stone-necklace-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:20Z
+- [Royal Blue Butterfly AD Stone Necklace Set](https://www.moharbyec.com/products/delicate-blue-butterfly-ad-stone-necklace-set-copy): A delicate necklace set with royal blue butterfly-motif American Diamond stones — a lighter-weight piece suited to mehendi or day functions rather than heavy bridal wear. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-10-03T03:38:45Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fa5fe38f-bedd-4406-a8e9-66fa4ab14cf5.jpg?v=1757953874
-- [Elegant royal blue Party Wear Necklace Set](https://www.moharbyec.com/products/elegant-american-diamond-party-wear-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:21Z
+- [Elegant royal blue Party Wear Necklace Set](https://www.moharbyec.com/products/elegant-american-diamond-party-wear-set-copy): An elegant royal blue American Diamond necklace set designed specifically for party wear — lighter than our bridal sets, built for sangeet or reception evenings. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:08Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fed20433-2e2d-47ef-bf42-4a7bb90244b8.jpg?v=1757953781
-- [Handcrafted Kundan Bridal Necklace](https://www.moharbyec.com/products/traditional-ruby-emerald-golden-kundan-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:22Z
+- [Handcrafted Kundan Bridal Necklace](https://www.moharbyec.com/products/traditional-ruby-emerald-golden-kundan-set-copy): A handcrafted Kundan-style bridal necklace in traditional ruby and emerald tones set in a gold-finish base, reflecting the classic Mughal-inspired Kundan technique. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:08Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_daedf793-fe5e-49fa-886b-ebd9eee98546.jpg?v=1757953736
-- [Green Kundan Choker Set](https://www.moharbyec.com/products/royal-gold-kundan-choker-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:24Z
+- [Green Kundan Choker Set](https://www.moharbyec.com/products/royal-gold-kundan-choker-set-copy): A Kundan-style choker set in green stones with a gold-finish base, giving a traditional, regal look suited to engagement or wedding functions. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:10Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_18a8de24-9917-48b2-97d6-8ab782d16777.jpg?v=1757953513
-- [Kundan Choker Set](https://www.moharbyec.com/products/green-kundan-choker-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-26T17:50:16Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Jewelry
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_dfd53879-6f21-46a1-98c2-edb281b510fe.jpg?v=1757950764
-- [Gold Jadau Pearl, Ruby, Emerald Necklace Set](https://www.moharbyec.com/products/kundan-choker-set-copy): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:26Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_b6cffa7a-4789-4bd3-99e9-a75619387154.png?v=1757953488
-- [Emerald and Silver Choker Set](https://www.moharbyec.com/products/kundan-choker-set-copy-1): A refined set ideal for haldi, sangeet, or formal gatherings. In-Store | Ready to Ship CARE: Do not put in water. Trendsetting Designs !! 🤩💕 Now Only At Mohar By EC Call / Whatsapp: +1 57131 50058Email: ekaacouture@gmail.com #emeraldAD #Indianjewelry #maangtika #cubiczircon #jewelry #Bridaljewelry #mehendijewelry #partywear #partyjewelry #sparklingjewelry
-  Updated: 2026-04-01T19:09:26Z
+- [Emerald and Silver Choker Set](https://www.moharbyec.com/products/kundan-choker-set-copy-1): A Kundan-style choker set in emerald-tone stones with a silver-finish base, offering a traditional look with a cooler-toned metal finish than our gold Kundan pieces. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
+  Updated: 2026-09-01T00:55:10Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_84086be7-8125-49cc-a4ee-a915fd556799.jpg?v=1757953336
-- [Embroidery Lehenga - Buy Silk Embroidered Lehenga | Mohar Ekaa Couture](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga): Buy Silk Embroidered Lehenga online at Mohar Ekaa Couture! An elegant trendsetter Embroidery Lehenga, perfect for any wedding or reception! FABRIC: Silk and Net
-  Updated: 2026-04-01T19:09:27Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMG-20250810-WA0101.jpg?v=1760045026
-  - [36 / S](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782800025)
-    Availability: Not Available
-  - [38 / M](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782832793)
-    Availability: Not Available
-  - [40 / L](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782865561)
-    Availability: Not Available
-  - [42 / XL](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782898329)
-    Availability: Not Available
-  - [44 / 2XL](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782931097)
-    Availability: Not Available
-  - [46 / 3XL](https://www.moharbyec.com/products/copy-printed-sunshine-orange-lehenga?variant=45630782963865)
-    Availability: Not Available
 - [Embroidery Lehenga - Buy Silk Embroidered Lehenga | Mohar Ekaa Couture](https://www.moharbyec.com/products/teal-blue-engagement-lehenga): Buy Silk Embroidered Lehenga online at Mohar Ekaa Couture! An elegant trendsetter Embroidery Lehenga, perfect for any wedding or reception! FABRIC: Silk and Net
-  Updated: 2026-04-01T19:09:28Z
+  Updated: 2026-09-08T13:35:08Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_aaf81c5e-c258-4ef4-bed4-43156e61e47f.jpg?v=1760044848
-  - [36 / S](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=45630784405657)
+  - [36 - S](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=48285136060569)
     Availability: Available
-  - [38 / M](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=45630784438425)
+  - [38 - M](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=48285136093337)
     Availability: Available
-  - [40 / L](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=45630784471193)
+  - [40 - L](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=48285136126105)
     Availability: Available
-  - [42 / XL](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=45630784503961)
+  - [42 - XL](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=48285136158873)
     Availability: Available
-  - [44 / 2XL](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=45630784536729)
+  - [44 - 2XL](https://www.moharbyec.com/products/teal-blue-engagement-lehenga?variant=48285136191641)
     Availability: Available
 - [Embroidery Lehenga - Buy Silk Embroidered Lehenga | Mohar Ekaa Couture](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga): Buy Silk Embroidered Lehenga online at Mohar Ekaa Couture! An elegant trendsetter Embroidery Lehenga, perfect for any wedding or reception! FABRIC: Silk and Net
-  Updated: 2026-04-01T19:09:28Z
+  Updated: 2026-09-01T00:55:11Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_b1a02c21-eb75-47ed-bce1-84f07aa11620.jpg?v=1760140146
-  - [36 / S](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=45630786240665)
+  - [36 - S](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=48285135896729)
     Availability: Available
-  - [38 / M](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=45630786273433)
+  - [38 - M](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=48285135929497)
     Availability: Available
-  - [40 / L](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=45630786306201)
+  - [40 - L](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=48285135962265)
     Availability: Available
-  - [42 / XL](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=45630786338969)
+  - [42 - XL](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=48285135995033)
     Availability: Available
-  - [44 / 2XL](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=45630786371737)
-    Availability: Available
-- [Sunset Orange & Red Benarasi Lehenga Choli](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli): Radiate festive energy in this sunset-inspired lehenga choli set, blending rich orange and bold pink hues in an eye-catching ombré effect. Finished with intricate mirror and thread embroidery, this outfit is ideal for haldi, mehendi, or any celebration where you want to stand out. Features: Top: Vivid orange blouse with long sleeves, featuring delicate embroidery in multicolored thread and mirror work. The structured neckline and beaded hem add an extra layer of festive charm. Lehenga: Flowing pleated skirt with a stunning gradient from orange to deep fuchsia pink, adorned with zig-zag gota patti detailing and a lightly embroidered waistband. Dupatta: Matching orange net dupatta with scattered mirror embellishments and embroidered borders, tying the entire ensemble together with elegance. Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It:A bold blend of traditional artistry and vibrant color play, this lehenga is perfect for bridesmaids, sisters of the bride, or anyone ready to light up the dance floor. 🔥 Ready to ship – Celebrate loud, bright, and beautiful.
-  Updated: 2026-04-01T19:09:29Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_7ffa670c-bd6f-49b5-b61c-1972accde49f.jpg?v=1760063830
-  - [S](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli?variant=45639338066073)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli?variant=45639338098841)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli?variant=45639338131609)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli?variant=45639338164377)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/sunset-orange-red-benarasi-lehenga-choli?variant=45639338197145)
+  - [44 - 2XL](https://www.moharbyec.com/products/ink-blue-wave-reception-lehenga?variant=48285136027801)
     Availability: Available
 - [Fall printed georgette lehenga](https://www.moharbyec.com/products/fall-printed-georgette-lehenga): Elevate your festive wardrobe with this exquisite lehenga set, featuring a printed organza fabric lehenga adorned with an elegant Benarasi woven border. Perfect for a sangeet or a friend’s wedding, the hand-embroidered blouse with short sleeves adds delicate charm, while the embellished net dupatta completes the look with subtle sophistication. The harmonious blend of grey, brown, and maroon hues makes it an ideal choice for the fall season, combining tradition with contemporary style effortlessly. Make a lasting impression at any celebration with this graceful ensemble. Features: Top: Hand-embroidered blouse with short sleeves, offering delicate craftsmanship and refined style Lehenga: Printed organza fabric lehenga with elegant Benarasi woven border, adding a rich and traditional touch Dupatta: Embellished net dupatta that enhances the overall look with subtle sophistication Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It:A bold blend of traditional artistry and vibrant color play, this lehenga is perfect for bridesmaids, sisters of the bride, or anyone ready to light up the dance floor. 🔥 Ready to ship – Celebrate loud, bright, and beautiful.
-  Updated: 2026-04-01T19:09:30Z
+  Updated: 2026-10-14T05:33:35Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_3fe22ade-5980-40d0-b399-aefb752adba5.png?v=1756902534
-  - [S](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=45678277197977)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=45678277230745)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=45678277263513)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=45678277296281)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=45926937100441)
-    Availability: Available
+  - [36 - S / Multicolor](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=67695018442905)
+    Availability: Not Available
+  - [38 - M / Multicolor](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=67695018475673)
+    Availability: Not Available
+  - [40 - L / Multicolor](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=67695018508441)
+    Availability: Not Available
+  - [42 - XL / Multicolor](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=67695018541209)
+    Availability: Not Available
+  - [44 - 2XL / Multicolor](https://www.moharbyec.com/products/fall-printed-georgette-lehenga?variant=67695018573977)
+    Availability: Not Available
 - [Burgundy Sequin Gown](https://www.moharbyec.com/products/burgundy-gown): Make a bold statement in this playful ombre net gown, blending deep burgundy into rich tones for a dramatic effect. The black sequin flower embroidery adds sparkle and texture, while the western-style bodice brings a unique, edgy twist. This gown is perfect for those who want to stand out with a mix of romance and modern flair. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:30Z
+  Updated: 2026-09-01T00:55:12Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gown
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_c4532614-2e9c-444a-871c-8db5c7d853a3.jpg?v=1757123714
-  - [S](https://www.moharbyec.com/products/burgundy-gown?variant=45699920035993)
+  - [36 - S](https://www.moharbyec.com/products/burgundy-gown?variant=48285005643929)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/burgundy-gown?variant=45699920068761)
+  - [38 - M](https://www.moharbyec.com/products/burgundy-gown?variant=48285005676697)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/burgundy-gown?variant=45699920101529)
-    Availability: Available
-- [Powder Blue Reception Gown](https://www.moharbyec.com/products/powder-blue-reception-gown): Embrace elegance with this powder blue reception gown made from soft, flowy silk that glides gracefully with every step. Its backless design adds a touch of allure, perfect for cocktail events or special evenings. Experience comfort and sophistication combined in a dress that ensures you stand out with effortless charm. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-15T18:48:57Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gown
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_a928ad8a-1b1e-4edc-88b4-b09150b35a16.jpg?v=1757124560
-  - [S](https://www.moharbyec.com/products/powder-blue-reception-gown?variant=45699922067609)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/powder-blue-reception-gown?variant=45699922100377)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/powder-blue-reception-gown?variant=45699922133145)
-    Availability: Not Available
-- [Powder Blue Indo Western Sharara Set with Bow Sleeves](https://www.moharbyec.com/products/powder-blue-sharara-set-with-bow-sleeves-indo-western): Contemporary powder blue sharara set with off-shoulder bow sleeves. Indo-western fusion wear perfect for cocktail, sangeet & festive celebrations.
-  Updated: 2026-04-01T19:09:31Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western Sharara
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_c2da134c-c527-4f9d-9b4f-9adabfa48e95.jpg?v=1757122607
-  - [S](https://www.moharbyec.com/products/powder-blue-sharara-set-with-bow-sleeves-indo-western?variant=45700825972889)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/powder-blue-sharara-set-with-bow-sleeves-indo-western?variant=45700826005657)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/powder-blue-sharara-set-with-bow-sleeves-indo-western?variant=45700826038425)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/powder-blue-sharara-set-with-bow-sleeves-indo-western?variant=45906558025881)
-    Availability: Available
-- [Royal Purple Indo-Western](https://www.moharbyec.com/products/royal-purple-indo-ethnic): It has a V-neck blouse featuring heavy silver embroidery at the waist, giving it a structured and ornate appearance. Instead of a dupatta, it includes a long open-front draped jacket or crape, also in purple, with embroidered borders and motifs running along the edges and sleeves. The lower part is a flowy skirt/palazzo in the same purple fabric finished with a broad golden embroidered hemline, adding richness and traditional charm. The combination of deep purple with silver-golden work makes this outfit look festive and regal, perfect for weddings, receptions or grand celebrations. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:33Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_1224e1cc-06ee-4f1c-b288-2e2fc699b2d6.jpg?v=1757365706
-  - [S](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45702272876697)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45702272909465)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45702272942233)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45703563247769)
-    Availability: Available
-  - [3XL](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45703563280537)
-    Availability: Available
-  - [4XL](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45703601062041)
-    Availability: Available
-  - [5XL](https://www.moharbyec.com/products/royal-purple-indo-ethnic?variant=45703601094809)
+  - [40 - L](https://www.moharbyec.com/products/burgundy-gown?variant=48285005709465)
     Availability: Available
 - [Vibrant Orange tone IndoWestern Sharara](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western): Top: It features a sleeveless, strappy kurta with delicate embroidery or lace overlay. The neckline is modern, within straps adding a chic, contemporary touch. The hemline is asymmetric with little dangling embellishments, giving it a playful look. Bottom: The outfit is paired with wide-legged sharara pants in matching orange fabric. The flared silhouette adds volume and movement, making it look festive yet comfortable. style : The combination of the fitted kurta with flowy sharara pants gives a fusion of traditional and modern party wear. it's elegant, youthful and eye-catching-ideal for mehendi, haldi, sangeet, or festive celebrations #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:35Z
+  Updated: 2026-10-16T15:05:48Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_d8acbeab-2f07-4aed-94cc-119d392fe0f4.jpg?v=1760925364
-  - [S](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=45702306791577)
+  - [36 - S](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=48285004365977)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=45702306824345)
+  - [38 - M](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=48285004398745)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=45702306857113)
+  - [40 - L](https://www.moharbyec.com/products/vibrant-orange-tone-indo-western?variant=48285004431513)
     Availability: Available
-- [Dusty Grey Shade Indo-Western](https://www.moharbyec.com/products/dusty-grey-shade-indo-western): It has a unique asymmetric halter neckline that adds a stylish and contemporary touch. The fitted bodice transitions into a defined waist, which flatters the figure and creates a graceful silhouette. The bottom is flowy and pleated, made from lightweight fabric and drapes beautifully and moves elegantly when walking or twirling. This dress would be ideal for evening parties, receptions, or formal events, giving off a chic and refined vibe. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:35Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_434e5928-028f-429f-9cac-4a75ed46035c.jpg?v=1760925477
-  - [S](https://www.moharbyec.com/products/dusty-grey-shade-indo-western?variant=45702381961369)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/dusty-grey-shade-indo-western?variant=45702381994137)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/dusty-grey-shade-indo-western?variant=45702382026905)
-    Availability: Not Available
 - [Light Blush Pink Indo-Western](https://www.moharbyec.com/products/light-blush-pink-indo-western): Top: It has a V-neckline with delicate embroidery and sequin/stone embellishments concentrated around the neckline and running down the front. The fabric is light and sheer, giving elegant drape. The sides are cut in a cape-like layered style. Bottom: The pants are draped dhoti-style trousers, matching the same soft pastel tone. They are loose fitting at the top with gathered pleats tapering towards the ankles. At the ankle ends, there are small fabric tassels details, giving chic and playful touch. Overall, this dress is a fusion of traditional elegance and modern design perfect for festive events, parties, or semi-formal gathering. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:36Z
+  Updated: 2026-09-01T00:55:14Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_0bd2eda3-12ed-4472-8fcc-1c402de5767b.jpg?v=1760925600
-  - [S](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703534968985)
+  - [36 - S](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133045913)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703535001753)
+  - [38 - M](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133078681)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703535034521)
+  - [40 - L](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133111449)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703560003737)
+  - [42 - XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133144217)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703560036505)
+  - [44 - 2XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133176985)
     Availability: Available
-  - [3XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703560069273)
+  - [46 - 3XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133209753)
     Availability: Available
-  - [4XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703596802201)
+  - [48 - 4XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133242521)
     Availability: Available
-  - [5XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=45703596834969)
+  - [50 - 5XL](https://www.moharbyec.com/products/light-blush-pink-indo-western?variant=48285133275289)
     Availability: Available
 - [Pastel Mint Green Indo-Western](https://www.moharbyec.com/products/pastel-mint-green-indo-western): Top: The upper part features a fitted bodice with a V-neckline, layered over an inner panel that has a square neckline with gold embroidery. The outer layer has a front slit design that opens into a long, flowy gown. And the sleeves are full-length and sheer, with gold embroidered detailing at the cuffs, adding an elegant touch. Bottom: The lower part flows out in soft, layered pleats, giving it a graceful gown-like silhouette. The fabric looks light, sheer, and airy-perfect for movement and drape. Overall, this dress blends modern gown aesthetics with traditional embroidery, making it ideal for weddings, receptions, or festive celebrations. Overall, this dress is a fusion of traditional elegance and modern design perfect for festive events, parties, or semi-formal gathering. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:37Z
+  Updated: 2026-09-22T23:21:20Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_84c32460-4a1e-49cb-a3de-e3fe845dba2a.jpg?v=1757077367
-  - [S](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=45703551582361)
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_84c32460-4a1e-49cb-a3de-e3fe845dba2a.jpg?v=1790119174
+  - [36 - S](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=48285132947609)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=45703551615129)
+  - [38 - M](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=48285132980377)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=45703551647897)
+  - [40 - L](https://www.moharbyec.com/products/pastel-mint-green-indo-western?variant=48285133013145)
     Availability: Available
 - [Deep Navy Blue Indo-Western](https://www.moharbyec.com/products/deep-navy-blue-indo-western): Top: It has a V-neckline with geometric embroidery in silver/grey, creating a striking pattern. Below the neckline, there's a layer of ruffle detailing, which adds texture and a fashionable touch. The waist is accentuated with a belt-like embroidered band, giving the dress structure and defining the silhouette. Bottom: The bottom part is along, floor-length draped skirt, styled almost like a saree-inspired drape with pleats gathered at the front, flowing down gracefully. The fit is sleek and body-contouring at the top while flaring into elegant drapes below. Overall, this dress is a perfect choice for evening parties, cocktail functions, or wedding receptions, as it blends modern style with traditional drape elements. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:38Z
+  Updated: 2026-09-22T23:24:17Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fc21dd56-eebf-4700-b6de-b91de9e1eded.jpg?v=1757077367
-  - [S](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=45703615578265)
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fc21dd56-eebf-4700-b6de-b91de9e1eded.jpg?v=1790119452
+  - [36 - S](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=48285132816537)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=45703615611033)
+  - [38 - M](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=48285132849305)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=45703615643801)
+  - [40 - L](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=48285132882073)
     Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=45703615676569)
+  - [42 - XL](https://www.moharbyec.com/products/deep-navy-blue-indo-western?variant=48285132914841)
     Availability: Not Available
 - [Bright Pink Anarkali-Style](https://www.moharbyec.com/products/bright-pink-anarkali-style): It is a traditional long Anarkali-style outfit. It features a flared, floor-length silhouette with a fitted bodice and flowing skirt, creating an elegant and graceful look. It has printed ethnic motifs and patterns across the fabric, giving it a festive and cultural touch. The neckline is a V- shape with golden embroidery, adding richness and sophistication It has long sleeves, making it look regal and suitable for traditional occasions. The outfit is paired with a matching pink dupatta that has printed and embroidered designs, completing the overall attire. The dress is perfect for festive occasions, weddings, or cultural celebrations, as it blends elegance with vibrant traditional charm. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:39Z
+  Updated: 2026-09-01T00:55:16Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_5156d0d1-aed1-43d6-ab73-d2c0729f0cd2.jpg?v=1757432591
-  - [S](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=45705334194329)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=45705334227097)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=45705334259865)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=45705360900249)
-    Availability: Not Available
-- [Rose Pink Gown](https://www.moharbyec.com/products/rose-pink-gown): It has a floor-length flared silhouette with a fitted waistline accentuated by a broad, contrasting belt-like band in blue and silver tones. The dress features a V- neckline and is paired with a matching dupatta draped stylishly over one shoulder. The hemline is finished with a broad silver and black border, giving it a rich look. The main color is a dusty rose pink with fine vertical patterns, while the waist brand and hemline incorporate blue, silver, and black accents, adding contrast and sophistication. Overall, this outfit blends traditional Indian design with a contemporary touch, making it perfect for receptions, festive parties, or semi-formal gatherings. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:39Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_98d8fae2-89a9-4213-8bdb-511e58fba7f8.jpg?v=1757449950
-  - [S](https://www.moharbyec.com/products/rose-pink-gown?variant=45705384198297)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/rose-pink-gown?variant=45705384231065)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/rose-pink-gown?variant=45705384263833)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/rose-pink-gown?variant=45705384296601)
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_5156d0d1-aed1-43d6-ab73-d2c0729f0cd2.jpg?v=1757432591
+  - [36 - S](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=48285132521625)
+    Availability: Not Available
+  - [38 - M](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=48285132554393)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=48285132587161)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/bright-pink-anarkali-style?variant=48285132619929)
     Availability: Available
 - [Deep Wine/Plum Shade Gown](https://www.moharbyec.com/products/deep-wine-plum-shade-gown): This dress is a floor-length evening gown with a refined and elegant look. It has a sleeveless bodice with a high round neckline. The bodice fabric overlaid with geometric beadwork/sequins, creating a shimmery and intricate design. The waistline is accented with a thin embellished belt detail, giving definition before the gown flows into a long, pleated skirt that drapes gracefully. Overall, this gown combines delicate beadwork on the top with a flowy, pleated skirt, making it stylish and elegant for parties, galas or weddings. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:40Z
+  Updated: 2026-09-01T00:55:17Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMAGE-EDIT_d0fc3fbd-a3fe-45f7-819c-f193dc3f5f74.png?v=1757785467
-  - [S](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=45705402876057)
+  - [36 - S](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=48285002825881)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=45705402908825)
+  - [38 - M](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=48285002858649)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=45705402941593)
+  - [40 - L](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=48285002891417)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=45705402974361)
+  - [42 - XL](https://www.moharbyec.com/products/deep-wine-plum-shade-gown?variant=48285002924185)
     Availability: Available
 - [Soft Lavender Shade Anarkali](https://www.moharbyec.com/products/soft-lavender-shade-anarkali): It has a long, flowy Anarkali kurta with a fitted bodice and flared bottom, giving it a graceful and elegant look. The neckline is simple with delicate embroidery, and the sleeves are long and straight. The kurta is embellished with fine embroidery in silver/white threadwork on the bodice and neckline, enhancing its traditional appeal. The hemline also has an embroidered border. The dupatta is light lavender with a contrasting pink floral pattern and golden accents, which adds a pop of color to the overall outfit. It's a festive/ethnic wear dress suitable for weddings, receptions, or cultural occasions, giving a very elegant and royal vibe. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:41Z
+  Updated: 2026-09-01T00:55:18Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_3b8e8e2a-5d5d-4cb2-815f-d38c3b872107.jpg?v=1757432591
-  - [S](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=45705451536537)
+  - [36 - S](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=48285132062873)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=45705451569305)
+  - [38 - M](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=48285132095641)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=45705451602073)
+  - [40 - L](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=48285132128409)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=45705451634841)
+  - [42 - XL](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=48285132161177)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=45705460514969)
+  - [44 - 2XL](https://www.moharbyec.com/products/soft-lavender-shade-anarkali?variant=48285132193945)
     Availability: Available
 - [Bright Pink Anarkali](https://www.moharbyec.com/products/bright-pink-anarkali): The outfit features a long, flared Anarkali kurta with a fitted bodice and flowy bottom. It has long sleeves with embroidered cuffs and a rounded neckline embellished with intricate detailing. The bodice and neckline are highlighted with silver embroidery and sequin work, adding shimmer and elegance. The hemline is finished with a wide, embellished silver border that enhances the richness of the dress. The dupatta is in matching pink shade with subtle silver patterns and a broad silver border, Completing the Anarkali perfectly. The dress has a festive, royal charm-ideal for weddings, receptions, or festive gatherings. It strikes a balance between traditional elegance and modern vibrancy. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:41Z
+  Updated: 2026-09-01T00:55:18Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_88bfd11b-64da-4d01-a319-98f077088caa.jpg?v=1757451924
-  - [S](https://www.moharbyec.com/products/bright-pink-anarkali?variant=45705463791769)
+  - [36 - S](https://www.moharbyec.com/products/bright-pink-anarkali?variant=48285131899033)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/bright-pink-anarkali?variant=45705463824537)
+  - [38 - M](https://www.moharbyec.com/products/bright-pink-anarkali?variant=48285131931801)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/bright-pink-anarkali?variant=45705463857305)
+  - [40 - L](https://www.moharbyec.com/products/bright-pink-anarkali?variant=48285131964569)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/bright-pink-anarkali?variant=45705463890073)
+  - [42 - XL](https://www.moharbyec.com/products/bright-pink-anarkali?variant=48285131997337)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/bright-pink-anarkali?variant=45705463922841)
+  - [44 - 2XL](https://www.moharbyec.com/products/bright-pink-anarkali?variant=48285132030105)
     Availability: Available
 - [Lime green Straight-Cut Kurta Set](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set): The outfit consists of a long straight kurta paired with a flared hemline and a contrasting dupatta. The silhouette is elegant and easy to carry, striking a balance between modern and traditional. The kurta is a lime green with vertical white embroidery/print detailing, giving it a refreshing and lively vibe. The dupatta is in contrasting deep pink shade, decorated with white embroidered motifs and bordered with silver lace, which brightens the overall look. Overall, This outfit feels vibrant, youthful, and festive. The fresh green and bright pink contrast makes it ideal for daytime celebrations, festive pujas, mehendi, or family gatherings. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:42Z
+  Updated: 2026-09-01T00:55:20Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Salwar Suits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_9dc5a531-5ba5-49de-960a-1510c09ecb9a.jpg?v=1760925920
-  - [S](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705562816665)
+  - [36 - S](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131440281)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705562849433)
+  - [38 - M](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131473049)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705562882201)
+  - [40 - L](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131505817)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705562914969)
+  - [42 - XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131538585)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705562947737)
+  - [44 - 2XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131571353)
     Availability: Available
-  - [3XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=45705573630105)
-    Availability: Available
-- [Mustard Yellow Anarkali](https://www.moharbyec.com/products/mustard-yellow-anarkali): The bodice features intricate silver and white embroidery with floral motifs on the neckline, chest, and sleeves, adding elegance. The full-length sleeves are adorned with delicate embroidery details as well. The skirt portion flows into fine pleats, giving the outfit a graceful, floor-length flair. The Dupatta matches the outfit in mustard yellow with subtle dotted embellishments and a fine border, completing the traditional look. Overall, it's a regal mustard yellow embroidered Anarkali suit, perfect for weddings, festive occasions, or evening celebrations with its combination of bright color and elegant embroidery. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:43Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_7ea397b4-a42d-41e4-8a16-8cef37df7254.jpg?v=1757432591
-  - [S](https://www.moharbyec.com/products/mustard-yellow-anarkali?variant=45709088784537)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/mustard-yellow-anarkali?variant=45709088817305)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/mustard-yellow-anarkali?variant=45709088850073)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/mustard-yellow-anarkali?variant=45709088882841)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/mustard-yellow-anarkali?variant=45709088915609)
-    Availability: Available
-- [Green Anarkali-Style](https://www.moharbyec.com/products/green-anarkali-style): The dress has a floor-length flared silhouette with a V-neckline and three-quarter sleeves. It is adorned with intricate bandhani-style prints in shades of green and white, giving it a very traditional yet elegant look. The outfit is paired with a solid dark green dupatta, decorated with subtle white dotted embroidery, adding contrast and grace to the printed Anarkali. The overall look is festive and graceful, perfect for traditional occasions, family gatherings, or festive celebrations. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:45Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_d7833f69-640d-4f7c-99cf-8c13737442d7.jpg?v=1757202627
-  - [S](https://www.moharbyec.com/products/green-anarkali-style?variant=45723623030937)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/green-anarkali-style?variant=45723623063705)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/green-anarkali-style?variant=45723623096473)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/green-anarkali-style?variant=45723623129241)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/green-anarkali-style?variant=45723623162009)
-    Availability: Available
-- [Navy Blue Anarkali Gown-Style](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style): The upper part of the dress features a deep V-neckline with intricate with floral embroidery on both sides of the chest area, adding a striking contrast against the dark navy base. The embroidery is detailed and symmetrical, enhancing the richness of the outfit. It has full-length sheer sleeves that give the dress a refined and graceful look, with subtle embroidered detailing on the cuffs. The lower half is flowy pleated Anarkali skirt that adds volume and elegance, making it perfect for festive or formal occasions. The overall silhouette is regal yet understated, ideal for evening parties, weddings, or festive celebrations. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:45Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_653a7f9c-6442-4bb6-9a94-d85d12871ee7.jpg?v=1757202627
-  - [S](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style?variant=45723639283865)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style?variant=45723639316633)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style?variant=45723639349401)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style?variant=45723639382169)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/navy-blue-anarkali-gown-style?variant=45723639414937)
+  - [46 - 3XL](https://www.moharbyec.com/products/lime-green-straight-cut-kurta-set?variant=48285131604121)
     Availability: Available
 - [Sea Green Anarkali Gown-Style](https://www.moharbyec.com/products/sea-green-anarkali-gown-style): Top: The upper part has a round neckline with detailed intricate embroidery and sequin work all over the bodice, creating a shimmering effect. The outfit comes with long fitted sleeves. Skirt: The Anarkali flares beautifully into heavy floor-length skirt, richly decorated with golden zari, threadwork, and sequins, especially concentrated near the hemline. The wide embroidered border gives it a very royal finish. Dupatta: The look is completed with a matching sea green dupatta that carries similar embroidery and delicate borders, making it perfectly coordinated with the outfit. The combination of sea green with golden embroidery makes this dress regal, festive, and eye-catching. The outfit is ornate, elegant, and traditional, best suited for weddings, receptions, or festive events where you want to make a grand statement. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:47Z
+  Updated: 2026-10-16T15:05:48Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_0d0f85bf-664b-4906-b557-ce648d454256.jpg?v=1757122607
-  - [S](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=45723648393369)
+  - [36 - S](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=48285129441433)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=45723648426137)
+  - [38 - M](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=48285129474201)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=45723648458905)
+  - [40 - L](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=48285129506969)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=45723648491673)
+  - [42 - XL](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=48285129539737)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=45723648524441)
+  - [44 - 2XL](https://www.moharbyec.com/products/sea-green-anarkali-gown-style?variant=48285129572505)
     Availability: Available
-- [Olive Green Anarkali Gown-Style](https://www.moharbyec.com/products/olive-green-anarkali-gown-style): Top: The bodice is heavily embellished with intricate embroidery and sequin work in shades of gold, pink, and peach, creating a rich floral and ornamental pattern. It features full sleeves, equally adorned with detailed embroidery. Skirt: The flared floor-length skirt is richly decorated with dense floral embroidery and heavy borders. The embroidery extends from top to bottom. Dupatta: The outfit is paired with a matching olive green dupatta with delicate embroidery and a scalloped border, completing the coordinated and royal look. The dress is ornate, festive, and traditional, making it ideal for weddings, receptions, or high-profile festive celebrations where a statement look is desired. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:48Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_8f7e7454-6184-46ed-91a9-9e9d57823477.jpg?v=1758058116
-  - [S](https://www.moharbyec.com/products/olive-green-anarkali-gown-style?variant=45723779825817)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/olive-green-anarkali-gown-style?variant=45723779858585)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/olive-green-anarkali-gown-style?variant=45723779891353)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/olive-green-anarkali-gown-style?variant=45723779924121)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/olive-green-anarkali-gown-style?variant=45723779956889)
-    Availability: Not Available
 - [Bright Red Lehenga Set](https://www.moharbyec.com/products/bright-red-lehenga-set): The fiery red paired with golden embroidery and the ombre lehenga base gives the dress a majestic and celebratory aura. The outfit is opulent, festive, and traditional, making it ideal for bridal wear, weddings, engagements, or cultural celebrations. Features: Top: The blouse is a rich deep red with golden embroidery across the neckline, sleeves and bodice. It features a scooped neckline and elbow-length sleeves. Skirt: The Lehenga has a beautiful ombre effect transitioning from red to warm orange tones at the bottom, creating a vibrant look. The hemline is heavily adorned with intricate golden zari and embroidered motifs. Dupatta: The matching red dupatta is embellished with small golden motifs scattered throughout and bordered with detailed golden design, draped elegantly across the shoulder and waist. Care Instructions: Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It:A bold blend of traditional artistry and vibrant color play, this lehenga is perfect for bridesmaids, sisters of the bride, or anyone ready to light up the dance floor. 🔥 Ready to ship – Celebrate loud, bright, and beautiful.
-  Updated: 2026-04-01T19:09:48Z
+  Updated: 2026-10-14T05:14:42Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_03af3b89-4882-45c3-b3bf-6e79b7ffb81a.jpg?v=1758053284
-  - [S](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=45723880587417)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=45723880620185)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=45723880652953)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=45723880685721)
+  - [36 - S / Red](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=67694915911833)
+    Availability: Not Available
+  - [38 - M / Red](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=67694915944601)
+    Availability: Not Available
+  - [40 - L / Red](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=67694915977369)
+    Availability: Not Available
+  - [42 - XL / Red](https://www.moharbyec.com/products/bright-red-lehenga-set?variant=67694916010137)
     Availability: Available
 - [Beige-Mustard-Gold Floor-Length Gown](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown): It features a long, front-jacket style silhouette with full sleeves. The upper portion has a fitted bodice with a deep V-neckline, paired with a matching inner blouse. The flared bottom gives it a graceful flow. The entire jacket is richly adorned with intricate geometric embroidery and sequin work in a symmetrical pattern. The outer jacket is made of sheer fabric heavily embroidered, while the inner layer is a plain mustard-gold flowy skirt that adds contrast and depth. The outfit is tied at the waist with tassel strings, leaving a small front opening to showcase the inner layer. The dress is perfect pick for weddings, receptions, or festive occasions, giving a balance of traditional embroidery with a chic modern cut. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:49Z
+  Updated: 2026-09-01T00:55:24Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_eb9d9279-9119-4630-8dbf-d7fc29940666.jpg?v=1758062794
-  - [S](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=45723959197849)
+  - [36 - S](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=48284999155865)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=45723959230617)
+  - [38 - M](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=48284999188633)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=45723959263385)
+  - [40 - L](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=48284999221401)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=45723959296153)
+  - [42 - XL](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=48284999254169)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=45723959328921)
+  - [44 - 2XL](https://www.moharbyec.com/products/beige-mustard-gold-floor-length-gown?variant=48284999286937)
     Availability: Available
 - [Gold/Olive Base With Pastel Accents Long Gown](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown): Choli: The blouse is designed in a matching embroidered style with floral motifs. It has a sweetheart neckline and sleeveless cut, perfectly completing the ornate lehenga. Skirt: The skirt is richly adorned with intricate embroidery in multiple colors, featuring floral and geometric patterns. It has a base of muted gold/olive with heavy embellishments in shades of pink, mint green, blue, and silver threadwork. The embroidery gives it loyal and festive appeal. Dupatta: The dupatta is crafted from a sheer, soft net fabric in a light beige-golden tone. It is delicately embroidered with pastel pink floral appliques along the borders and scattered motifs, adding soft, romantic charm. Draped gracefully over the shoulder, it balances the richness of the lehenga with a lighter, airy feel. The dress is perfect for weddings, receptions, or high-end festive events, combining heavy craftsmanship with a graceful pastel overlay. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:49Z
+  Updated: 2026-09-01T00:55:25Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_8c0944a4-d323-47f4-8843-2bf82007c2cc.jpg?v=1758063300
-  - [S](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=45724253126809)
+  - [36 - S](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=48285128818841)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=45724253159577)
+  - [38 - M](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=48285128851609)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=45724253192345)
+  - [40 - L](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=48285128884377)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=45724253225113)
+  - [42 - XL](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=48285128917145)
     Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=45724253257881)
+  - [44 - 2XL](https://www.moharbyec.com/products/gold-olive-base-with-pastel-accents-long-gown?variant=48285128949913)
     Availability: Not Available
 - [Soft Blush Pink Floor Length Gown](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown): The gown is sleeveless with a broad V- neckline and a fitted bodice that flows into a flared, floor-length skirt. It has a princess-cut style, giving a graceful, streamlined look that enhances height and body shape. The fabric features intricate floral embroidery all over in a delicate lace-like pattern. The dress exudes a modern, chic, and elegant vibe, making it suitable for receptions, cocktail parties, or evening formal events. It's more contemporary compared to the traditional lehengas. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:49Z
+  Updated: 2026-09-01T00:55:26Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMAGE-EDIT_e51a53cc-3b95-4045-a973-4dc40ef17272.png?v=1758199892
-  - [S](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=45724441477273)
+  - [36 - S](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=48285128655001)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=45724441510041)
+  - [38 - M](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=48285128687769)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=45724441542809)
+  - [40 - L](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=48285128720537)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=45724441575577)
+  - [42 - XL](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=48285128753305)
     Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=45724441608345)
-    Availability: Not Available
-- [Mustard Yellow Gown](https://www.moharbyec.com/products/mustard-yellow-gown): The dress is sleeveless with an asymmetrical draped design, giving it a sari-gown effect. It has a fitted bodice that transitions into long, flowy pleats extending to the floor, creating an elegant silhouette. Made with a rich mustard-gold fabric, the bodice is decorated with silver floral embroidery and sequins on one side, adding shimmer and a festive touch. The draped layer flows gracefully from the shoulder down, enhancing the fusion look. The outfit blends the sophistication of a western gown with the draped elegance of Indian ethnic wear. Perfect for receptions, cocktail parties, or festive occasions. #CocktailDress #FormalWear #FashionForward #StatementPiece #NightOutOutfit #BronzeAndGold #SparkleAndShine #StylishOutfit #Lookbook #OOTD #DressToImpress Care Instructions:Dry clean only to retain color vibrancy and protect embroidery. Why You'll Love It: 🔥 Ready to ship – Celebrate loud, glamorous and beautiful.
-  Updated: 2026-04-01T19:09:50Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000944314.jpg?v=1758131795
-  - [S](https://www.moharbyec.com/products/mustard-yellow-gown?variant=45727956304025)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/mustard-yellow-gown?variant=45727956336793)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/mustard-yellow-gown?variant=45727956369561)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/mustard-yellow-gown?variant=45727956402329)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/mustard-yellow-gown?variant=45727956435097)
+  - [44 - 2XL](https://www.moharbyec.com/products/soft-blush-pink-floor-length-gown?variant=48285128786073)
     Availability: Not Available
 - [Pastel Mint Green Embroidered Maxi Dress](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress): Stunning sage green maxi dress with golden embroidery. Perfect for weddings, parties & special occasions. Elegant A-line silhouette with smocked bodice.
-  Updated: 2026-04-01T19:09:52Z
+  Updated: 2026-10-16T15:05:49Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000944203.png?v=1758140566
-  - [S](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=45728022823065)
+  - [36 - S](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=48285127999641)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=45728022855833)
+  - [38 - M](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=48285128032409)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=45728022888601)
+  - [40 - L](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=48285128065177)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=45728022921369)
+  - [42 - XL](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=48285128097945)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=45728022954137)
+  - [44 - 2XL](https://www.moharbyec.com/products/pastel-mint-greenbembroidered-maxi-dress?variant=48285128130713)
     Availability: Available
 - [generate a ecommerce listing description of this product](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set): Stunning champagne gold lehenga set with intricate embroidery. Perfect for weddings, receptions & celebrations. Premium silk blend, complete 3-piece set. Shop now!
-  Updated: 2026-04-01T19:09:53Z
+  Updated: 2026-10-14T05:14:40Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000944322.jpg?v=1760106163
-  - [S](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=45728356663449)
+  - [36 - S / White](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=67694914699417)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=45728356696217)
+  - [38 - M / White](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=67694914732185)
+    Availability: Available
+  - [40 - L / White](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=67694914764953)
+    Availability: Available
+  - [42 - XL / White](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=67694914797721)
     Availability: Not Available
-  - [L](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=45728356728985)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/off-white-gold-embroidered-lehenga-set?variant=45728356761753)
-    Availability: Available
 - [Golden Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set): Stunning golden embroidered lehenga set with intricate threadwork. Perfect for weddings & celebrations. Premium silk blend, complete 3-piece designer set.
-  Updated: 2026-04-01T19:09:54Z
+  Updated: 2026-10-14T05:14:37Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_93d8b560-0247-49bd-9163-0deacf9e7767.jpg?v=1760106144
-  - [S](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=45728380747929)
+  - [36 - S / Yellow](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=67694913781913)
+    Availability: Not Available
+  - [38 - M / Yellow](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=67694913814681)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=45728380780697)
+  - [40 - L / Yellow](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=67694913847449)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=45728380813465)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=45728380846233)
-    Availability: Available
+  - [42 - XL / Yellow](https://www.moharbyec.com/products/luxurious-golden-embroidered-lehenga-set?variant=67694913880217)
+    Availability: Not Available
 - [Ivory Lace Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set): Stunning ivory lace embroidered lehenga set with delicate floral patterns. Perfect for weddings & engagements. Premium silk blend, complete 3-piece bridal set.
-  Updated: 2026-04-01T19:09:56Z
+  Updated: 2026-10-14T04:53:10Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_3b528f33-a15e-4822-ad3f-ba3c17911f02.jpg?v=1758247914
-  - [S](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=45728430915737)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=45728430948505)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=45728430981273)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=45728431014041)
-    Availability: Available
-- [Wine Burgundy Embellished Bridal Lehenga Set](https://www.moharbyec.com/products/regal-wine-burgundy-embellished-lehenga-set): Stunning wine burgundy embellished lehenga set with intricate beadwork. Perfect for weddings & receptions. Premium royal collection, complete 3-piece set.
-  Updated: 2026-04-01T19:09:58Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000944334.jpg?v=1758137803
-  - [S](https://www.moharbyec.com/products/regal-wine-burgundy-embellished-lehenga-set?variant=45728436748441)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/regal-wine-burgundy-embellished-lehenga-set?variant=45728436781209)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/regal-wine-burgundy-embellished-lehenga-set?variant=45728436813977)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/regal-wine-burgundy-embellished-lehenga-set?variant=45728436846745)
-    Availability: Available
-- [Classic Red Bridal Lehenga Set](https://www.moharbyec.com/products/classic-red-bridal-lehenga-set): Stunning traditional red bridal lehenga set with golden embroidery. Perfect for weddings & ceremonies. Classic Indian bridal wear, complete 3-piece set.
-  Updated: 2026-04-01T19:09:59Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000944329.jpg?v=1758138171
-  - [S](https://www.moharbyec.com/products/classic-red-bridal-lehenga-set?variant=45728531316889)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/classic-red-bridal-lehenga-set?variant=45728531349657)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/classic-red-bridal-lehenga-set?variant=45728531382425)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/classic-red-bridal-lehenga-set?variant=45728531415193)
-    Availability: Available
-- [Turquoise Embroidered Cape Gown Set](https://www.moharbyec.com/products/turquoise-embroidered-cape-gown-set): Stunning turquoise cape gown set with golden embroidery. Perfect for weddings, parties & special occasions. Premium Indo-Western ensemble by MOHAR.
-  Updated: 2026-04-01T19:09:59Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_db1d23f7-15e1-43c2-8c2f-09e2b0e8df20.jpg?v=1758246623
-  - [S](https://www.moharbyec.com/products/turquoise-embroidered-cape-gown-set?variant=45728741064857)
+  - [36 - S / White](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=67694913585305)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/turquoise-embroidered-cape-gown-set?variant=45728741097625)
+  - [38 - M / White](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=67694913618073)
     Availability: Not Available
-  - [L](https://www.moharbyec.com/products/turquoise-embroidered-cape-gown-set?variant=45728741130393)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/turquoise-embroidered-cape-gown-set?variant=45728741163161)
-    Availability: Not Available
+  - [40 - L / White](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=67694913650841)
+    Availability: Available
+  - [42 - XL / White](https://www.moharbyec.com/products/ethereal-ivory-lace-embroidered-lehenga-set?variant=67694913683609)
+    Availability: Available
 - [Navy Blue Golden Embellished Kaftan Dress](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress): Stunning navy blue kaftan with golden embellishments. Perfect for evening events, parties & special occasions. Luxury comfort meets elegant style.
-  Updated: 2026-04-01T19:10:00Z
+  Updated: 2026-09-01T00:55:27Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Kaftan Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMAGE-EDIT_37e3cfe3-869d-4351-9b68-1ab359c909a4.png?v=1758200004
-  - [S](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728851984537)
+  - [36 - S](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126721689)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728852017305)
+  - [38 - M](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126754457)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728852050073)
+  - [40 - L](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126787225)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728852082841)
+  - [42 - XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126819993)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728854802585)
+  - [44 - 2XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126852761)
     Availability: Available
-  - [3XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=45728854835353)
+  - [46 - 3XL](https://www.moharbyec.com/products/navy-blue-golden-embellished-kaftan-dress?variant=48285126885529)
     Availability: Available
 - [Teal Silver Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set): Stunning teal bridal lehenga with heavy silver embroidery. Perfect for weddings, receptions & grand celebrations. Luxury 3-piece set by MOHAR.
-  Updated: 2026-04-01T19:10:00Z
+  Updated: 2026-10-17T15:20:43Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000114920.jpg?v=1758141933
-  - [S](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=45728879902873)
+  - [36 - S / Blue](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=67694913454233)
+    Availability: Not Available
+  - [38 - M / Blue](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=67694913487001)
+    Availability: Not Available
+  - [40 - L / Blue](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=67694913519769)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=45728879935641)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=45728879968409)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=45728880001177)
-    Availability: Available
+  - [42 - XL / Blue](https://www.moharbyec.com/products/teal-silver-embroidered-bridal-lehenga-set?variant=67694913552537)
+    Availability: Not Available
 - [Fuchsia Mirror work Bridal Lehenga Set](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set): Stunning pink bridal lehenga with heavy golden embroidery. Perfect for weddings, receptions & celebrations. Luxury 3-piece bridal set by MOHAR.
-  Updated: 2026-04-01T19:10:01Z
+  Updated: 2026-09-01T11:24:38Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000114946.jpg?v=1758147031
-  - [S](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=45728937640089)
+  - [36 - S](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=48285126459545)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=45728937672857)
+  - [38 - M](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=48285126492313)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=45728937705625)
+  - [40 - L](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=48285126525081)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=45728937738393)
+  - [42 - XL](https://www.moharbyec.com/products/pink-golden-embroidered-bridal-lehenga-set?variant=48285126557849)
     Availability: Available
 - [Red Kashmiri Embroidered Salwar Suit](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit): Stunning fuchsia pink salwar suit with golden embroidery. Perfect for festivals & celebrations. Premium traditional Indian wear with vibrant elegance.
-  Updated: 2026-04-01T19:10:03Z
+  Updated: 2026-09-01T00:55:29Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Salwar Suits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMAGE-EDIT_96069906-2668-4d50-bbf7-617e2ae371ee.png?v=1758417948
-  - [S](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=45735068336281)
+  - [36 - S](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=48285125804185)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=45735068369049)
+  - [38 - M](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=48285125836953)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=45735068401817)
+  - [40 - L](https://www.moharbyec.com/products/fuchsia-pink-golden-embroidered-salwar-suit?variant=48285125869721)
     Availability: Available
-- [Yellow Floral Embroidered Sharara Set](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1): Stunning yellow floral embroidered sharara set with intricate botanical motifs. Perfect for weddings, festivals & celebrations. Premium Indian traditional wear.
-  Updated: 2026-04-01T19:10:04Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Sharara Set
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000945582.png?v=1758399095
-  - [S](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1?variant=45735071383705)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1?variant=45735071416473)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1?variant=45735071449241)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1?variant=45735071482009)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/yellow-floral-embroidered-sharara-set-1?variant=45735071514777)
-    Availability: Not Available
-- [Multicolor Benarasi Crop Top Lehenga](https://www.moharbyec.com/products/multicolor-benarasi-crop-top-skirt): Stunning navy blue sequined lehenga set perfect for weddings & celebrations. Elegant 3-piece bridal ensemble with intricate sequin work. Shop now!
-  Updated: 2026-04-01T19:10:07Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_481e23b6-210c-4c92-aeb9-a64e00931e0b.jpg?v=1758419453
-  - [S](https://www.moharbyec.com/products/multicolor-benarasi-crop-top-skirt?variant=45735473873049)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/multicolor-benarasi-crop-top-skirt?variant=45735473905817)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/multicolor-benarasi-crop-top-skirt?variant=45735473938585)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/multicolor-benarasi-crop-top-skirt?variant=45735473971353)
-    Availability: Not Available
 - [Sage Green Floral Embroidered Anarkali Set](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set): Stunning sage green Anarkali set with intricate pink & gold floral embroidery. Perfect for weddings & celebrations. Premium traditional Indian wear with elegant silhouette.
-  Updated: 2026-04-08T02:22:28Z
+  Updated: 2026-09-01T00:55:30Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000945750.jpg?v=1758561318
-  - [S](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738280059033)
+  - [36 - S](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285123870873)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738280091801)
+  - [38 - M](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285123903641)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738280124569)
+  - [40 - L](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285123936409)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738280157337)
+  - [42 - XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285123969177)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738280190105)
+  - [44 - 2XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285124001945)
     Availability: Available
-  - [3XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=45738282516633)
+  - [46 - 3XL](https://www.moharbyec.com/products/elegant-sage-green-floral-embroidered-anarkali-set?variant=48285124034713)
     Availability: Available
-- [Royal Purple Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/royal-purple-embroidered-lehenga-choli-set): Stunning royal purple lehenga choli set with intricate silver embroidery. Perfect for weddings, festivals & special occasions. Premium traditional wear.
-  Updated: 2026-04-15T18:46:07Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_0b084b80-39be-44f7-98c9-bb80b0ad90dc.jpg?v=1758487168
-  - [S](https://www.moharbyec.com/products/royal-purple-embroidered-lehenga-choli-set?variant=45738302865561)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/royal-purple-embroidered-lehenga-choli-set?variant=45738302898329)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/royal-purple-embroidered-lehenga-choli-set?variant=45738302931097)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/royal-purple-embroidered-lehenga-choli-set?variant=45738302963865)
-    Availability: Not Available
-- [Royal Blue Lehenga Choli Set](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set): Stunning royal blue lehenga with intricate silver embroidery. Perfect for weddings, festivals & grand celebrations. Luxury 3-piece traditional set.
-  Updated: 2026-04-01T19:10:09Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000945753.jpg?v=1758563312
-  - [S](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738308206745)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738308239513)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738308272281)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738308305049)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738310074521)
-    Availability: Not Available
-  - [3XL](https://www.moharbyec.com/products/majestic-royal-blue-lehenga-choli-set?variant=45738310107289)
-    Availability: Not Available
-- [Red Bridal Lehenga Choli Set](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set): Stunning red bridal lehenga with silver embroidery and multicolor dupatta. Perfect for weddings, engagements & festivals. Premium 3-piece traditional set.
-  Updated: 2026-04-15T18:45:27Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_7a8c5f32-919b-4b47-afd0-6d47215c7b04.jpg?v=1758565378
-  - [S](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set?variant=45738314596505)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set?variant=45738314629273)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set?variant=45738314662041)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set?variant=45738314694809)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/radiant-red-lehenga-choli-set?variant=45738319610009)
-    Availability: Not Available
 - [Golden Lehenga Choli Set](https://www.moharbyec.com/products/golden-lehenga-choli-set): Stunning golden lehenga with intricate embroidery and mustard dupatta. Perfect for weddings, festivals & grand celebrations. Premium luxury traditional wear.
-  Updated: 2026-04-01T19:10:10Z
+  Updated: 2026-10-14T05:14:24Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_9a33096f-4f5b-49d7-bb0b-1c1d21e79a49.jpg?v=1758487168
-  - [S](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=45738326458521)
+  - [36 - S / Yellow](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=67694911291545)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=45738326491289)
+  - [38 - M / Yellow](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=67694911324313)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=45738326524057)
+  - [40 - L / Yellow](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=67694911357081)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=45738326556825)
+  - [42 - XL / Yellow](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=67694911389849)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=45738326589593)
+  - [44 - 2XL / Yellow](https://www.moharbyec.com/products/golden-lehenga-choli-set?variant=67694911422617)
     Availability: Available
-- [Red Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/red-embroidered-lehenga-choli-set): Stunning red embroidered lehenga choli with gold sequin work & net dupatta. Premium bridal wedding wear with intricate embroidery. Perfect for celebrations.
-  Updated: 2026-04-23T18:07:17Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_e47e53c6-36a3-4744-a3d9-23fe144d96e9.jpg?v=1758487168
-  - [S](https://www.moharbyec.com/products/red-embroidered-lehenga-choli-set?variant=45738723770521)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/red-embroidered-lehenga-choli-set?variant=45738723803289)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/red-embroidered-lehenga-choli-set?variant=45738723836057)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/red-embroidered-lehenga-choli-set?variant=45738723868825)
-    Availability: Not Available
-- [Sage Green Floral Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/sage-green-floral-embroidered-lehenga-choli-set): Beautiful sage green floral lehenga choli with multicolor embroidery & net dupatta. Perfect for mehendi & celebrations. Premium botanical traditional wear.
-  Updated: 2026-04-01T19:10:12Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_afaad668-2df5-4e6c-9316-a20f7322c0dc.jpg?v=1758573044
-  - [S](https://www.moharbyec.com/products/sage-green-floral-embroidered-lehenga-choli-set?variant=45738736189593)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/sage-green-floral-embroidered-lehenga-choli-set?variant=45738736222361)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/sage-green-floral-embroidered-lehenga-choli-set?variant=45738736255129)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/sage-green-floral-embroidered-lehenga-choli-set?variant=45738736287897)
-    Availability: Not Available
-- [Champagne Gold Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/champagne-gold-embroidered-lehenga-choli-set): Elegant champagne gold lehenga choli with sequin work & net dupatta. Premium traditional wear with sophisticated embroidery. Perfect for celebrations.
-  Updated: 2026-04-15T18:44:00Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_e8cc5afc-9243-466b-97c5-ba007b3efd36.jpg?v=1758487167
-  - [S](https://www.moharbyec.com/products/champagne-gold-embroidered-lehenga-choli-set?variant=45738750738585)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/champagne-gold-embroidered-lehenga-choli-set?variant=45738750771353)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/champagne-gold-embroidered-lehenga-choli-set?variant=45738750804121)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/champagne-gold-embroidered-lehenga-choli-set?variant=45738750836889)
-    Availability: Not Available
-- [Taupe Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/taupe-embroidered-lehenga-choli-set): Elegant taupe embroidered lehenga choli with floral motifs & net dupatta. Premium bridal wear with intricate thread embroidery. Perfect for weddings.
-  Updated: 2026-04-01T19:10:13Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_29c9bdc0-135d-4049-8905-548403cb8d39.jpg?v=1758487167
-  - [S](https://www.moharbyec.com/products/taupe-embroidered-lehenga-choli-set?variant=45738830168217)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/taupe-embroidered-lehenga-choli-set?variant=45738830200985)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/taupe-embroidered-lehenga-choli-set?variant=45738830233753)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/taupe-embroidered-lehenga-choli-set?variant=45738830266521)
-    Availability: Available
-- [Navy Blue Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/stunning-navy-blue-embroidered-lehenga-choli-set): Stunning navy blue embroidered lehenga choli with gold geometric patterns & sky blue dupatta. Premium traditional wedding wear with intricate craftsmanship.
-  Updated: 2026-04-01T19:10:13Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_7ad127e6-1504-4e75-8cdd-7138c05f841a.jpg?v=1759105460
-  - [S](https://www.moharbyec.com/products/stunning-navy-blue-embroidered-lehenga-choli-set?variant=45738854645913)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/stunning-navy-blue-embroidered-lehenga-choli-set?variant=45738854678681)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/stunning-navy-blue-embroidered-lehenga-choli-set?variant=45738854711449)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/stunning-navy-blue-embroidered-lehenga-choli-set?variant=45738854744217)
-    Availability: Not Available
-- [Purple Pleated Crop Top Lehenga](https://www.moharbyec.com/products/purple-sequined-lehenga-choli-set-1): Elegant purple sequined lehenga choli with pleated design & net dupatta. Premium traditional wedding wear with all-over sequin embellishment.
-  Updated: 2026-04-01T19:10:14Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_1e193a8a-7565-4ec4-bff8-223bafb50fa0.jpg?v=1758574594
-  - [S](https://www.moharbyec.com/products/purple-sequined-lehenga-choli-set-1?variant=45738874962073)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/purple-sequined-lehenga-choli-set-1?variant=45738874994841)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/purple-sequined-lehenga-choli-set-1?variant=45738875027609)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/purple-sequined-lehenga-choli-set-1?variant=45738875060377)
-    Availability: Not Available
-- [Navy Blue Embellished Lehenga Choli Set](https://www.moharbyec.com/products/navy-blue-embellished-lehenga-choli-set): Stunning navy blue embellished lehenga choli set with intricate sequin work. Perfect for weddings, sangeet & special occasions. Premium quality, ready to ship.
-  Updated: 2026-04-01T19:10:14Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_438d0bae-9b1a-48d6-907d-d919286981cb.jpg?v=1758487167
-  - [S](https://www.moharbyec.com/products/navy-blue-embellished-lehenga-choli-set?variant=45738934861977)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/navy-blue-embellished-lehenga-choli-set?variant=45738934894745)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/navy-blue-embellished-lehenga-choli-set?variant=45738934927513)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-embellished-lehenga-choli-set?variant=45738934960281)
-    Availability: Not Available
-- [Royal Navy Blue Embellished Lehenga Choli](https://www.moharbyec.com/products/royal-navy-blue-embellished-lehenga-choli): Exquisite navy blue embellished lehenga choli with silver embroidery. Perfect for weddings & special occasions. Premium handcrafted quality, ready to ship.
-  Updated: 2026-04-01T19:10:14Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_51a41ce3-fce5-44c3-9fc3-f06ff4c39641.jpg?v=1758487168
-  - [S](https://www.moharbyec.com/products/royal-navy-blue-embellished-lehenga-choli?variant=45738944790681)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/royal-navy-blue-embellished-lehenga-choli?variant=45738944823449)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/royal-navy-blue-embellished-lehenga-choli?variant=45738944856217)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/royal-navy-blue-embellished-lehenga-choli?variant=45738944888985)
-    Availability: Not Available
-- [Yellow Orange Embellished Salwar Suit](https://www.moharbyec.com/products/yellow-orange-embellished-salwar-suit): Stunning yellow and orange embellished salwar suit with gradient dupatta. Perfect for Haldi, Mehendi & festive occasions. Premium quality, ready to ship.
-  Updated: 2026-04-01T19:10:15Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Salwar Suits
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000945757.jpg?v=1758577159
-  - [S](https://www.moharbyec.com/products/yellow-orange-embellished-salwar-suit?variant=45738965991577)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/yellow-orange-embellished-salwar-suit?variant=45738966024345)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/yellow-orange-embellished-salwar-suit?variant=45738966057113)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/yellow-orange-embellished-salwar-suit?variant=45738966089881)
-    Availability: Not Available
-- [Royal Navy Blue Embellished Sharara Set](https://www.moharbyec.com/products/royal-navy-blue-embellished-sharara-set): Stunning royal navy blue lehenga choli with silver embroidery. Perfect for weddings, engagements & special occasions. Premium handcrafted quality, ready to ship.
-  Updated: 2026-04-01T19:10:15Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: sharara
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000945759.png?v=1758649754
-  - [S / blue](https://www.moharbyec.com/products/royal-navy-blue-embellished-sharara-set?variant=45741289439385)
-    Availability: Not Available
-  - [M / blue](https://www.moharbyec.com/products/royal-navy-blue-embellished-sharara-set?variant=45741289472153)
-    Availability: Not Available
-  - [L / blue](https://www.moharbyec.com/products/royal-navy-blue-embellished-sharara-set?variant=45741289504921)
-    Availability: Not Available
-  - [XL / blue](https://www.moharbyec.com/products/royal-navy-blue-embellished-sharara-set?variant=45741289537689)
-    Availability: Not Available
-- [Teal & Gold Palace Embellished Lehenga Choli Set](https://www.moharbyec.com/products/teal-gold-palace-embellished-lehenga-choli-set): Stunning teal & gold lehenga choli with intricate floral embroidery. Perfect for weddings & special occasions. Palace-inspired royal elegance.
-  Updated: 2026-04-01T19:10:17Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946375.jpg?v=1758650854
-  - [S](https://www.moharbyec.com/products/teal-gold-palace-embellished-lehenga-choli-set?variant=45741234847897)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/teal-gold-palace-embellished-lehenga-choli-set?variant=45741234880665)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/teal-gold-palace-embellished-lehenga-choli-set?variant=45741234913433)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/teal-gold-palace-embellished-lehenga-choli-set?variant=45741234946201)
-    Availability: Not Available
-- [Pink & Gold Embroidered Lehenga](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set): Beautiful sage green floral lehenga choli with multicolor embroidery & net dupatta. Perfect for mehendi & celebrations. Premium botanical traditional wear.
-  Updated: 2026-04-01T19:10:19Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMAGE-EDIT_214149cb-5ffd-400e-938f-60a041b37750.png?v=1759077188
-  - [S / Bright pink](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set?variant=45741279379609)
-    Availability: Not Available
-  - [M / Bright pink](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set?variant=45741279412377)
-    Availability: Not Available
-  - [L / Bright pink](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set?variant=45741279445145)
-    Availability: Not Available
-  - [XL / Bright pink](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set?variant=45741279477913)
-    Availability: Not Available
-  - [2XL / Bright pink](https://www.moharbyec.com/products/pink-gold-embroidered-bridal-lehenga-set?variant=45741279510681)
-    Availability: Not Available
-- [Navy Blue Silver Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set): Stunning navy blue lehenga with intricate silver embroidery. Perfect for weddings, engagements & festivals. Premium 3-piece traditional set with royal elegance.
-  Updated: 2026-04-26T17:44:36Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000120369.jpg?v=1758652960
-  - [S](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set?variant=45741311361177)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set?variant=45741311393945)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set?variant=45741311426713)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set?variant=45741311459481)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/majestic-navy-blue-silver-embroidered-lehenga-set?variant=45741311492249)
-    Availability: Not Available
-- [Navy Blue Embroidered Kurta](https://www.moharbyec.com/products/navy-blue-embroidered-kurta): Shop this elegant navy blue embroidered kurta in premium raw silk. Perfect for weddings, festivals & special occasions. Ready to ship traditional Indian menswear.
-  Updated: 2026-04-01T19:10:20Z
-  Vendor: Ekaa Couture
-  Product Type: Men's Ethnic Wear
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946844.jpg?v=1759001441
-  - [40](https://www.moharbyec.com/products/navy-blue-embroidered-kurta?variant=45750962028697)
-    Availability: Not Available
-  - [44](https://www.moharbyec.com/products/navy-blue-embroidered-kurta?variant=45750963962009)
-    Availability: Not Available
-- [Turquoise Embroidered Kurta](https://www.moharbyec.com/products/turquoise-embroidered-kurta): Discover our stunning turquoise embroidered kurta in premium cotton blend. Perfect for weddings, festivals & special occasions. Traditional Indian menswear with modern comfort.
-  Updated: 2026-05-11T18:40:25Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946842.jpg?v=1759002017
-- [Golden Yellow Embroidered Kurta - Premium Silk Indian Menswear | MOHAR](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta): Elegant golden yellow embroidered kurta in premium silk. Perfect for weddings, festivals & celebrations. Traditional Indian menswear with modern appeal.
-  Updated: 2026-05-11T18:30:57Z
-  Vendor: Ekaa Couture
-  Product Type: Men's Ethnic Wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946845.jpg?v=1759003778
-- [Light Blue Embroidered Kurta](https://www.moharbyec.com/products/navy-blue-embroidered-kurta-copy-1): Elegant light blue embroidered kurta in premium silk. Perfect for summer weddings, festivals & celebrations. Traditional Indian menswear with modern sophistication.
-  Updated: 2026-05-11T18:42:27Z
-  Vendor: Ekaa Couture
-  Product Type: Men's Ethnic Wear
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946847.jpg?v=1759006840
-- [Navy Blue Embroidered Kurta](https://www.moharbyec.com/products/navy-blue-embroidered-kurta-1): Stunning navy blue kurta with intricate silver embroidery. Premium traditional menswear perfect for weddings, festivals & special occasions. Luxury craftsmanship.
-  Updated: 2026-04-01T19:10:23Z
-  Vendor: Ekaa Couture
-  Product Type: Men's Ethnic Wear
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946854.jpg?v=1759007311
 - [Cream Embroidered Sherwani Set](https://www.moharbyec.com/products/elegant-cream-embroidered-sherwani-set): Elegant cream silk sherwani with golden embroidery. Perfect for weddings, festivals & special occasions. Premium Indian menswear with traditional craftsmanship.
-  Updated: 2026-04-01T19:10:23Z
+  Updated: 2026-10-21T03:15:37Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946852.jpg?v=1759007659
 - [Golden Yellow Embroidered Kurta](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy): Elegant golden yellow embroidered kurta in premium silk. Perfect for weddings, festivals & celebrations. Traditional Indian menswear with modern appeal.
-  Updated: 2026-04-01T19:10:24Z
+  Updated: 2026-09-01T00:55:32Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000946843.jpg?v=1759441348
-  - [48](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=45763902177433)
+  - [48 - 4XL](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=48285120594073)
     Availability: Available
-  - [50](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=45763903127705)
+  - [50 - 5XL](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=48285120626841)
     Availability: Available
-  - [52](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=45763903160473)
+  - [52 - 6XL](https://www.moharbyec.com/products/golden-yellow-embroidered-kurta-copy?variant=48285120659609)
     Availability: Available
 - [Rose Pink Chevron Lehenga Choli Set](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy): Stunning rose pink lehenga with chevron sequin patterns. Perfect for parties, sangeet & modern celebrations. Contemporary 3-piece traditional set.
-  Updated: 2026-04-01T19:10:25Z
+  Updated: 2026-10-18T15:56:23Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947022.jpg?v=1759446814
-  - [S](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=45763976593561)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=45763976626329)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=45763976659097)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=45763976691865)
-    Availability: Available
-- [Rose Pink Chevron Lehenga Choli Set](https://www.moharbyec.com/products/rose-pink-chevron-lehenga-choli-set): Stunning rose pink lehenga with chevron sequin patterns. Perfect 3-piece traditional set for weddings, sangeet & celebrations. Premium craftsmanship, ready to ship.
-  Updated: 2026-04-01T19:10:26Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947025.jpg?v=1759447094
-  - [S](https://www.moharbyec.com/products/rose-pink-chevron-lehenga-choli-set?variant=45763977871513)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/rose-pink-chevron-lehenga-choli-set?variant=45763977904281)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/rose-pink-chevron-lehenga-choli-set?variant=45763977937049)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/rose-pink-chevron-lehenga-choli-set?variant=45763977969817)
-    Availability: Available
-- [Purple Mustard Lehenga Choli Set](https://www.moharbyec.com/products/purple-mustard-lehenga-choli-set): Elegant purple & mustard lehenga choli set with intricate embroidery. Perfect for weddings, sangeet & festivals. Premium silk blend traditional Indian outfit.
-  Updated: 2026-04-01T19:10:27Z
+  - [36 - S](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=48284989554841)
+    Availability: Not Available
+  - [38 - M](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=48284989587609)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=48284989620377)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/rose-pink-lehenga-choli-set-copy?variant=48284989653145)
+    Availability: Not Available
+- [Purple Bandani Mashro Silk Chaniya Choli - Navratri](https://www.moharbyec.com/products/purple-bandani-mashro-silk-chaniya-choli-navratri): Elegant purple & mustard lehenga choli set with intricate embroidery. Perfect for weddings, sangeet & festivals. Premium silk blend traditional Indian outfit.
+  Updated: 2026-10-14T04:53:03Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947027.jpg?v=1759589209
-  - [S](https://www.moharbyec.com/products/purple-mustard-lehenga-choli-set?variant=45766672646297)
+  - [36 - S / Purple](https://www.moharbyec.com/products/purple-bandani-mashro-silk-chaniya-choli-navratri?variant=67694852636825)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/purple-mustard-lehenga-choli-set?variant=45766672679065)
+  - [38 - M / Purple](https://www.moharbyec.com/products/purple-bandani-mashro-silk-chaniya-choli-navratri?variant=67694852669593)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/purple-mustard-lehenga-choli-set?variant=45766672711833)
+  - [40 - L / Purple](https://www.moharbyec.com/products/purple-bandani-mashro-silk-chaniya-choli-navratri?variant=67694852702361)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/purple-mustard-lehenga-choli-set?variant=45766672744601)
+  - [42 - XL / Purple](https://www.moharbyec.com/products/purple-bandani-mashro-silk-chaniya-choli-navratri?variant=67694852735129)
     Availability: Available
 - [Emerald Green Gold Lehenga Choli Set](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set): Stunning emerald green & gold lehenga choli set with chevron patterns. Perfect for weddings, sangeet & festivals. Premium silk blend traditional Indian bridal wear.
-  Updated: 2026-04-01T19:10:28Z
+  Updated: 2026-09-27T16:02:15Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947031.jpg?v=1759590457
-  - [S](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=45766696206489)
+  - [36 - S](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=48285120200857)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=45766696239257)
+  - [38 - M](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=48285120233625)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=45766696272025)
+  - [40 - L](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=48285120266393)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=45766696304793)
-    Availability: Available
-- [Multicolor Traditional Lehenga Choli Set](https://www.moharbyec.com/products/multicolor-traditional-lehenga-choli-set): Stunning multicolor traditional lehenga choli set with intricate embroidery. Perfect for weddings, festivals & special occasions. Premium silk blend bridal wear.
-  Updated: 2026-04-01T19:10:30Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947102.jpg?v=1759676520
-  - [S](https://www.moharbyec.com/products/multicolor-traditional-lehenga-choli-set?variant=45769669247129)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/multicolor-traditional-lehenga-choli-set?variant=45769669279897)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/multicolor-traditional-lehenga-choli-set?variant=45769669312665)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/multicolor-traditional-lehenga-choli-set?variant=45769669345433)
+  - [42 - XL](https://www.moharbyec.com/products/emerald-green-gold-lehenga-choli-set?variant=48285120299161)
     Availability: Available
 - [Yellow Floral Lehenga Choli Set](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set): Stunning yellow floral lehenga with hand-painted roses. Premium silk blend, perfect for haldi, mehendi & spring weddings. Garden paradise collection.
-  Updated: 2026-04-01T19:10:31Z
+  Updated: 2026-10-14T04:52:55Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947104.jpg?v=1759677175
-  - [S](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=45769683206297)
+  - [36 - S / Yellow](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=67694852374681)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=45769683239065)
+  - [38 - M / Yellow](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=67694852407449)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=45769683271833)
+  - [40 - L / Yellow](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=67694852440217)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=45769683304601)
+  - [42 - XL / Yellow](https://www.moharbyec.com/products/radiant-yellow-floral-lehenga-choli-set?variant=67694852472985)
     Availability: Not Available
-- [Maroon Gold Embroidered Sherwani Set](https://www.moharbyec.com/products/regal-maroon-gold-embroidered-sherwani-set): Stunning maroon & gold embroidered sherwani set in premium silk. Perfect for weddings, festivals & celebrations. Traditional Indian menswear with royal elegance.
-  Updated: 2026-04-01T19:10:32Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141848_b2dbb1e1-bbc0-434b-994c-6bc647134fb5.jpg?v=1759768931
-- [Royal Cream Red Embroidered Sherwani Set](https://www.moharbyec.com/products/royal-cream-red-embroidered-sherwani-set): Elegant cream & red embroidered sherwani set in premium silk. Perfect for weddings, grooms & special celebrations. Complete 3-piece traditional Indian menswear.
-  Updated: 2026-04-01T19:10:33Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141850_e46dcdf4-9128-40e2-b7b4-a85e1fd2327d.png?v=1759769230
-- [Peach Silk Indo-Western Sherwani](https://www.moharbyec.com/products/elegant-peach-silk-indo-western-sherwani): Elegant peach silk Indo-Western sherwani with golden motifs. Perfect for weddings, parties & celebrations. Premium menswear with modern styling.
-  Updated: 2026-04-23T18:05:16Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141858.jpg?v=1759768739
+- [Traditional Dandiya Dance Chaniya - Navratri](https://www.moharbyec.com/products/traditional-dandiya-dance-chaniya-navratri): Stunning wine burgundy lehenga with rose gold embroidery. Perfect for weddings, receptions & special occasions. Premium traditional wear with elegant dupatta.
+  Updated: 2026-10-14T05:33:21Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947113.jpg?v=1759683402
+  - [36 - S / Red](https://www.moharbyec.com/products/traditional-dandiya-dance-chaniya-navratri?variant=67695017984153)
+    Availability: Available
+  - [38 - M / Red](https://www.moharbyec.com/products/traditional-dandiya-dance-chaniya-navratri?variant=67695018016921)
+    Availability: Available
+  - [40 - L / Red](https://www.moharbyec.com/products/traditional-dandiya-dance-chaniya-navratri?variant=67695018049689)
+    Availability: Available
+  - [42 - XL / Red](https://www.moharbyec.com/products/traditional-dandiya-dance-chaniya-navratri?variant=67695018082457)
+    Availability: Available
+- [Traditional Garba Cotton Chaniya Choli - Navratri](https://www.moharbyec.com/products/traditional-garba-cotton-chaniya-choli-navratri): Stunning wine burgundy lehenga with rose gold embroidery. Perfect for weddings, receptions & special occasions. Premium traditional wear with elegant dupatta.
+  Updated: 2026-10-17T15:20:40Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947115.jpg?v=1759687924
+  - [36 - S / Blue](https://www.moharbyec.com/products/traditional-garba-cotton-chaniya-choli-navratri?variant=67695017820313)
+    Availability: Available
+  - [38 - M / Blue](https://www.moharbyec.com/products/traditional-garba-cotton-chaniya-choli-navratri?variant=67695017853081)
+    Availability: Available
+  - [40 - L / Blue](https://www.moharbyec.com/products/traditional-garba-cotton-chaniya-choli-navratri?variant=67695017885849)
+    Availability: Available
+  - [42 - XL / Blue](https://www.moharbyec.com/products/traditional-garba-cotton-chaniya-choli-navratri?variant=67695017918617)
+    Availability: Available
+- [Green Gold Navratri Chaniya Choli](https://www.moharbyec.com/products/green-gold-navratri-chaniya-choli): Stunning wine burgundy lehenga with rose gold embroidery. Perfect for weddings, receptions & special occasions. Premium traditional wear with elegant dupatta.
+  Updated: 2026-10-14T04:52:54Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000947116.jpg?v=1759687957
+  - [36 - S / Green](https://www.moharbyec.com/products/green-gold-navratri-chaniya-choli?variant=67694852210841)
+    Availability: Available
+  - [38 - M / Green](https://www.moharbyec.com/products/green-gold-navratri-chaniya-choli?variant=67694852243609)
+    Availability: Available
+  - [40 - L / Green](https://www.moharbyec.com/products/green-gold-navratri-chaniya-choli?variant=67694852276377)
+    Availability: Available
+  - [42 - XL / Green](https://www.moharbyec.com/products/green-gold-navratri-chaniya-choli?variant=67694852309145)
+    Availability: Available
 - [Black Diagonal Pleated Sherwani](https://www.moharbyec.com/products/sophisticated-black-diagonal-pleated-sherwani): Sophisticated black diagonal pleated sherwani with contemporary design. Perfect for modern celebrations, cocktail parties & special occasions. Unique Indo-Western style.
-  Updated: 2026-04-01T19:10:35Z
+  Updated: 2026-09-01T00:55:35Z
   Vendor: Ekaa Couture
   Product Type: Sherwani
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141861.jpg?v=1759769685
-- [Navy Blue Bandhgala Suit](https://www.moharbyec.com/products/premium-navy-blue-bandhgala-suit): Premium navy blue bandhgala suit for executives. Perfect for business meetings, corporate events & formal occasions. Distinguished Indo-Western formal menswear.
-  Updated: 2026-04-01T19:10:36Z
-  Vendor: Ekaa Couture
-  Product Type: Suit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141864.jpg?v=1759769939
 - [Black Embroidered Bandhgala Suit](https://www.moharbyec.com/products/luxurious-black-embroidered-bandhgala-suit): Luxurious black embroidered bandhgala suit with silver floral motifs. Perfect for royal weddings, groom attire & special celebrations. Premium Indian formal wear.
-  Updated: 2026-04-01T19:10:36Z
+  Updated: 2026-10-11T15:49:48Z
   Vendor: Ekaa Couture
   Product Type: Suit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000143596.jpg?v=1759770527
-- [Royal Beige Embroidered Sherwani Set](https://www.moharbyec.com/products/royal-beige-embroidered-sherwani-set): Magnificent beige embroidered sherwani set with golden floral motifs. Perfect for royal weddings, maharaja themes & groom ceremonies. Premium heritage wear.
-  Updated: 2026-04-01T19:10:36Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145156.jpg?v=1759781859
-- [Premium Navy Blue Bandhgala Suit](https://www.moharbyec.com/products/navy-blue-bandhgala-suit): Premium navy blue bandhgala suit with asymmetrical embellishments. Perfect for executives, weddings & formal events. Indo-Western elegance meets modern style.
-  Updated: 2026-04-01T19:10:37Z
-  Vendor: Ekaa Couture
-  Product Type: Suit
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145706.jpg?v=1759782169
-- [Luxurious Cream Gold Bandhgala Suit](https://www.moharbyec.com/products/navy-blue-bandhgala-suit-copy): Exquisite cream gold bandhgala suit with intricate brocade patterns. Perfect for weddings, festivals & formal events. Royal heritage meets modern elegance.
-  Updated: 2026-04-01T19:10:37Z
-  Vendor: Ekaa Couture
-  Product Type: Suit
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145709.jpg?v=1759782664
-- [Maroon Sherwani with Golden Embellishments](https://www.moharbyec.com/products/maroon-sherwani-with-golden-embellishments): Stunning maroon sherwani with intricate golden embellishments. Perfect for grooms, weddings & festivals. Royal Indian heritage meets luxury craftsmanship.
-  Updated: 2026-04-01T19:10:38Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145711.jpg?v=1759783134
-- [Sage Green Sherwani with Golden Embroidery](https://www.moharbyec.com/products/sage-green-sherwani-with-golden-embroidery): Elegant sage green sherwani with intricate golden embroidery. Perfect for grooms & special occasions. Premium quality, traditional craftsmanship. Shop now!
-  Updated: 2026-04-01T19:10:39Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145713_bd79445a-2592-4dee-8c46-bbfc20064cbd.jpg?v=1759783553
-- [Burnt Orange Corsette Blouse Lehenga](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta): Beautiful sage green floral lehenga choli with multicolor embroidery & net dupatta. Perfect for mehendi & celebrations. Premium botanical traditional wear.
-  Updated: 2026-04-01T19:10:40Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_b3a46879-b0b0-47a2-b690-247f1001990d.jpg?v=1760062474
-  - [S](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta?variant=45778195447961)
+  - [38 - M](https://www.moharbyec.com/products/luxurious-black-embroidered-bandhgala-suit?variant=67670133670041)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta?variant=45778195480729)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta?variant=45778195513497)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta?variant=45778195546265)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/copy-slim-lehenga-with-attached-dupatta?variant=45778195579033)
-    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/luxurious-black-embroidered-bandhgala-suit?variant=48285118562457)
+    Availability: Not Available
 - [Striped Sage Lehenga](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga): Beautiful sage green floral lehenga choli with multicolor embroidery & net dupatta. Perfect for mehendi & celebrations. Premium botanical traditional wear.
-  Updated: 2026-04-01T19:10:41Z
+  Updated: 2026-09-01T00:55:37Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_cd668eeb-7e5b-48bc-96a1-36b8eee4fe70.jpg?v=1760063057
-  - [S](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=45778197577881)
+  - [36 - S](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=48285117776025)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=45778197610649)
+  - [38 - M](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=48285117808793)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=45778197643417)
+  - [40 - L](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=48285117841561)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=45778197676185)
+  - [42 - XL](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=48285117874329)
     Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=45778197708953)
-    Availability: Not Available
-- [Champagne Gold Sequin Bridal Lehenga](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set): Exquisite champagne gold sequin embroidered bridal lehenga set. Luxurious hand-embroidered designer lehenga perfect for weddings & receptions. Ready to ship.
-  Updated: 2026-04-01T19:10:42Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154570.jpg?v=1760117039
-  - [S](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set?variant=45781079392409)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set?variant=45781079425177)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set?variant=45781079457945)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set?variant=45781079490713)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/champagne-gold-sequin-embroidered-bridal-lehenga-set?variant=45781079523481)
+  - [44 - 2XL](https://www.moharbyec.com/products/copy-burnt-orange-corsette-blouse-lehenga?variant=48285117907097)
     Availability: Not Available
 - [Sage Green Embroidered Bridal Lehenga](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set): Stunning sage green embroidered bridal lehenga set with intricate hand embroidery. Perfect for modern brides seeking elegant, non-traditional wedding attire. Ready to ship.
-  Updated: 2026-04-01T19:10:43Z
+  Updated: 2026-10-14T05:14:42Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154631.jpg?v=1760118557
-  - [S](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=45781103149209)
+  - [36 - S / Green](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=67694908866713)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=45781103181977)
+  - [38 - M / Green](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=67694908899481)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=45781103214745)
+  - [40 - L / Green](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=67694908932249)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=45781103247513)
+  - [42 - XL / Green](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=67694908965017)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=45781103280281)
+  - [44 - 2XL / Green](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set?variant=67694908997785)
     Availability: Available
-- [Ivory White Embroidered Bridal Lehenga](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set): Exquisite ivory white embroidered bridal lehenga set with intricate hand embroidery. Classic designer lehenga perfect for traditional weddings & receptions. Ready to ship.
-  Updated: 2026-04-01T19:10:46Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154653.jpg?v=1760118765
-  - [S](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set?variant=45781105180825)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set?variant=45781105213593)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set?variant=45781105246361)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set?variant=45781105279129)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/ivory-white-embroidered-bridal-lehenga-set?variant=45781105311897)
-    Availability: Not Available
 - [Bronze Sequin Embroidered Bridal Lehenga](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set): Luxurious bronze sequin embroidered bridal lehenga with dramatic train. Heavy embellished designer lehenga perfect for grand weddings & receptions. Ready to ship.
-  Updated: 2026-04-01T19:10:48Z
+  Updated: 2026-10-14T04:52:48Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154769.jpg?v=1760119320
-  - [S](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=45781107998873)
+  - [36 - S / Brown](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=67694907785369)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=45781108031641)
+  - [38 - M / Brown](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=67694907818137)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=45781108064409)
+  - [40 - L / Brown](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=67694907850905)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=45781108097177)
+  - [42 - XL / Brown](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=67694907883673)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=45781108129945)
+  - [44 - 2XL / Brown](https://www.moharbyec.com/products/bronze-sequin-embroidered-bridal-lehenga-set?variant=67694907916441)
     Availability: Available
-- [Olive Green Floral Embroidered Bridal Lehenga](https://www.moharbyec.com/products/olive-green-floral-embroidered-bridal-lehenga-set): Stunning olive green lehenga with pink & lavender floral embroidery. Unique asymmetric blouse design. Perfect for mehendi, sangeet & garden weddings. Ready to ship.
-  Updated: 2026-04-01T19:10:49Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154669.jpg?v=1760119114
-  - [S](https://www.moharbyec.com/products/olive-green-floral-embroidered-bridal-lehenga-set?variant=45781108293785)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/olive-green-floral-embroidered-bridal-lehenga-set?variant=45781108326553)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/olive-green-floral-embroidered-bridal-lehenga-set?variant=45781108359321)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/olive-green-floral-embroidered-bridal-lehenga-set?variant=45781108392089)
-    Availability: Not Available
 - [Red Embroidered Bridal Lehenga with Scalloped Border](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border): Classic red bridal lehenga with silver embroidery & unique scalloped border. Traditional Indian wedding lehenga perfect for pheras & ceremonies. Ready to ship.
-  Updated: 2026-04-01T19:10:50Z
+  Updated: 2026-10-14T04:53:00Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154792.jpg?v=1760119638
-  - [S](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=45781114781849)
+  - [36 - S / Red](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=67694851850393)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=45781114814617)
+  - [38 - M / Red](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=67694851883161)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=45781114847385)
+  - [40 - L / Red](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=67694851915929)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=45781114880153)
+  - [42 - XL / Red](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=67694851948697)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=45781114912921)
-    Availability: Available
-- [Red & Gold Embroidered Bridal Lehenga](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set): Stunning red & gold bridal lehenga with intricate embroidery & scalloped border. Traditional Indian wedding lehenga with elbow sleeves. Ready to ship.
-  Updated: 2026-04-01T19:10:51Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154818.jpg?v=1762395794
-  - [S](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set?variant=45781119303833)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set?variant=45781119336601)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set?variant=45781119369369)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set?variant=45781119402137)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/red-gold-embroidered-bridal-lehenga-set?variant=45781119434905)
+  - [44 - 2XL / Red](https://www.moharbyec.com/products/red-embroidered-bridal-lehenga-set-with-scalloped-border?variant=67694851981465)
     Availability: Available
 - [Blush Pink Silver Embroidered Bridal Lehenga](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set): Stunning blush pink bridal lehenga with silver embroidery & embellishments. Modern designer lehenga perfect for contemporary weddings & receptions. Ready to ship.
-  Updated: 2026-04-01T19:10:51Z
+  Updated: 2026-10-14T05:14:04Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154916.jpg?v=1764290916
-  - [S](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=45781125791897)
+  - [36 - S / Pink](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=67694906048665)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=45781125824665)
+  - [38 - M / Pink](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=67694906081433)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=45781125857433)
+  - [40 - L / Pink](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=67694906114201)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=45781125890201)
+  - [42 - XL / Pink](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=67694906146969)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=45781125922969)
+  - [44 - 2XL / Pink](https://www.moharbyec.com/products/blush-pink-silver-embroidered-bridal-lehenga-set?variant=67694906179737)
     Availability: Available
 - [Olive Green Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set): Exquisite olive green bridal lehenga with intricate gold embroidery, silk blend fabric & traditional craftsmanship. Perfect for weddings & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:10:51Z
+  Updated: 2026-10-14T05:14:03Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154917.jpg?v=1760120855
-  - [S](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=45781127397529)
+  - [36 - S / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694904934553)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=45781127430297)
+  - [38 - M / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694904967321)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=45781127463065)
+  - [40 - L / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694905000089)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=45781127495833)
+  - [42 - XL / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694905032857)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=45781127528601)
+  - [44 - 2XL / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694905065625)
     Availability: Available
 - [Maroon Sequin Embroidered Lehenga Set](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set): Stunning maroon bridal lehenga with intricate sequin embroidery & floral embellished blouse. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:10:54Z
+  Updated: 2026-10-14T04:52:40Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154920.jpg?v=1760121290
-  - [S](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=45781132705945)
+  - [36 - S / Red](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=67694904737945)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=45781132738713)
+  - [38 - M / Red](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=67694904770713)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=45781132771481)
+  - [40 - L / Red](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=67694904803481)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=45781132804249)
+  - [42 - XL / Red](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=67694904836249)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=45781132837017)
+  - [44 - 2XL / Red](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set?variant=67694904869017)
     Availability: Available
 - [Silver Grey Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set): Elegant silver grey lehenga with intricate geometric embroidery. Perfect for weddings, receptions & festive occasions. Premium silk blend. Ready to ship from MOHAR.
-  Updated: 2026-04-01T19:10:55Z
+  Updated: 2026-10-14T05:14:01Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000154762.jpg?v=1760121541
-  - [S](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=45781139849369)
+  - [36 - S / Gray](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=67694904475801)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=45781139882137)
+  - [38 - M / Gray](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=67694904508569)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=45781139914905)
+  - [40 - L / Gray](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=67694904541337)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=45781139947673)
+  - [42 - XL / Gray](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=67694904574105)
     Availability: Available
-- [Regal Pink Embroidered Lehenga Set](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set): Stunning pink bridal lehenga with intricate hand embroidery. Premium silk blend, complete set with blouse & dupatta. Perfect for weddings & special occasions. Shop MOHAR.
-  Updated: 2026-04-01T19:10:57Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000155232.jpg?v=1760121918
-  - [S](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set?variant=45781142732953)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set?variant=45781142765721)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set?variant=45781142798489)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set?variant=45781142831257)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/regal-pink-embroidered-lehenga-set?variant=45781142864025)
-    Availability: Not Available
 - [Blush Pink Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set): Romantic blush pink bridal lehenga with intricate hand embroidery & sweetheart neckline. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:10:57Z
+  Updated: 2026-10-14T05:13:52Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000155366.jpg?v=1760124499
-  - [S](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=45781208039577)
+  - [36 - S / Pink](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=67694904344729)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=45781208072345)
+  - [38 - M / Pink](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=67694904377497)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=45781208105113)
+  - [40 - L / Pink](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=67694904410265)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=45781208137881)
-    Availability: Available
-- [Sage Green Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set-1): Stunning sage green bridal lehenga with intricate hand embroidery & sweetheart neckline. Perfect for weddings, receptions & festive occasions. Ready to ship.
-  Updated: 2026-04-19T20:46:49Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000155263.jpg?v=1760132744
-  - [S](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set-1?variant=45781214560409)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set-1?variant=45781214593177)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set-1?variant=45781214625945)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/sage-green-embroidered-bridal-lehenga-set-1?variant=45781214658713)
-    Availability: Not Available
-- [Multicolor Ombre Bridal Lehenga Set - Yellow Orange Green - MOHAR](https://www.moharbyec.com/products/multicolor-ombre-bridal-lehenga-set-vibrant-traditional-elegance): Vibrant multicolor ombre lehenga with traditional embroidery. Yellow, orange & green gradient. Perfect for mehendi, sangeet & festive celebrations.
-  Updated: 2026-04-01T19:10:58Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000155245.jpg?v=1762395683
-  - [S](https://www.moharbyec.com/products/multicolor-ombre-bridal-lehenga-set-vibrant-traditional-elegance?variant=45781216723097)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/multicolor-ombre-bridal-lehenga-set-vibrant-traditional-elegance?variant=45781216755865)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/multicolor-ombre-bridal-lehenga-set-vibrant-traditional-elegance?variant=45781216788633)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/multicolor-ombre-bridal-lehenga-set-vibrant-traditional-elegance?variant=45781216821401)
-    Availability: Not Available
-- [Red Anarkali Gown](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown): Stunning red Anarkali gown with intricate sequin & silver embroidery. Hand-crafted silk blend, sweetheart neckline, floor-length. Perfect for weddings & celebrations!
-  Updated: 2026-04-01T19:10:58Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000157566.jpg?v=1760129150
-  - [S](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown?variant=45781303787673)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown?variant=45781303820441)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown?variant=45781303853209)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown?variant=45781303885977)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/red-sequin-embroidered-anarkali-gown?variant=45781303918745)
-    Availability: Not Available
-- [Silver Grey Embroidered Floral Jacket Gown](https://www.moharbyec.com/products/silver-grey-embroidered-floral-jacket-gown): Stunning silver grey jacket gown with pink floral embroidery & intricate threadwork. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:10:59Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000157563.jpg?v=1760129379
-  - [S](https://www.moharbyec.com/products/silver-grey-embroidered-floral-jacket-gown?variant=45781306572953)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/silver-grey-embroidered-floral-jacket-gown?variant=45781306605721)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/silver-grey-embroidered-floral-jacket-gown?variant=45781306638489)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/silver-grey-embroidered-floral-jacket-gown?variant=45781306671257)
+  - [42 - XL / Pink](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set?variant=67694904443033)
     Availability: Available
 - [Sage Green Sequin Embroidered Lehenga Set](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set): Stunning sage green lehenga with all-over sequin embroidery & geometric pattern. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:11:00Z
+  Updated: 2026-10-14T05:13:47Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000157574.jpg?v=1760129728
-  - [S](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=45781308604569)
+  - [36 - S / Green](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=67694903492761)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=45781308637337)
+  - [38 - M / Green](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=67694903525529)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=45781308670105)
+  - [40 - L / Green](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=67694903558297)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=45781308702873)
+  - [42 - XL / Green](https://www.moharbyec.com/products/sage-green-sequin-embroidered-lehenga-set?variant=67694903591065)
     Availability: Available
 - [Powder Blue Sequin Embroidered Net Saree](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree): Stunning powder blue net saree with all-over sequin & floral embroidery, golden border & contrast teal blouse. Perfect for weddings & special occasions.
-  Updated: 2026-04-01T19:11:01Z
+  Updated: 2026-09-01T00:55:42Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000157576.jpg?v=1760129890
-  - [S](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=45781309718681)
+  - [36 - S](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=48285114531993)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=45781309751449)
+  - [38 - M](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=48285114564761)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=45781309784217)
+  - [40 - L](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=48285114597529)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=45781309816985)
+  - [42 - XL](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=48285114630297)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=45781309849753)
+  - [44 - 2XL](https://www.moharbyec.com/products/powder-blue-sequin-embroidered-net-saree?variant=48285114663065)
     Availability: Available
 - [Purple Embroidered Cotton Silk Men's Kurta](https://www.moharbyec.com/products/purple-embroidered-cotton-silk-kurta): Regal purple embroidered men's kurta in premium cotton silk with intricate silver threadwork. Perfect for weddings, festivals & special celebrations.
-  Updated: 2026-04-01T19:11:01Z
+  Updated: 2026-09-01T00:55:42Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000129567.jpg?v=1760130903
 - [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
-  Updated: 2026-04-01T19:11:02Z
+  Updated: 2026-09-01T00:55:42Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000129673.png?v=1760131196
-  - [38](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=45781335605401)
+  - [38 - M](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=48285114368153)
     Availability: Available
-  - [40](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=45781337604249)
+  - [40 - L](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=48285114400921)
     Availability: Available
-  - [42](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=45781337637017)
+  - [42 - XL](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta?variant=48285114433689)
     Availability: Available
 - [Olive Green Embroidered Chevron Men's Kurta](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta): Sophisticated olive green kurta with all-over chevron embroidery. Premium men's ethnic wear perfect for weddings, festivals & special celebrations.
-  Updated: 2026-04-01T19:11:02Z
+  Updated: 2026-10-10T22:24:17Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000129677.jpg?v=1760131527
-  - [38](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta?variant=45781339144345)
-    Availability: Available
-  - [40](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta?variant=45781341536409)
+  - [38 - M](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta?variant=48285114302617)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta?variant=48285114335385)
+    Availability: Not Available
+  - [42- XL](https://www.moharbyec.com/products/olive-green-embroidered-chevron-kurta?variant=67663573155993)
     Availability: Available
 - [Purple Sequin Embellished Men's Kurta](https://www.moharbyec.com/products/purple-sequin-embellished-kurta): Stunning purple sequin kurta with all-over embellishment. Glamorous men's ethnic wear perfect for weddings, sangeet, receptions & special celebrations.
-  Updated: 2026-04-01T19:11:04Z
+  Updated: 2026-09-01T00:55:43Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000129683.jpg?v=1760131968
-  - [50](https://www.moharbyec.com/products/purple-sequin-embellished-kurta?variant=45781342945433)
+  - [50 - 5XL](https://www.moharbyec.com/products/purple-sequin-embellished-kurta?variant=48285114269849)
     Availability: Available
   - [54](https://www.moharbyec.com/products/purple-sequin-embellished-kurta?variant=45781346156697)
     Availability: Available
 - [Cream and Gold Embroidered Sherwani for Groom](https://www.moharbyec.com/products/cream-and-gold-embroidered-sherwani): Luxurious cream and gold sherwani with all-over embroidery. Perfect for grooms, weddings & special occasions. Premium brocade with golden threadwork.
-  Updated: 2026-04-01T19:11:04Z
+  Updated: 2026-09-01T00:55:43Z
   Vendor: Ekaa Couture
   Product Type: Sherwani
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000129689.jpg?v=1760132535
-- [Sage Green Embroidered Sherwani Set for Groom](https://www.moharbyec.com/products/sage-green-embroidered-sherwani-set): Luxurious sage green sherwani with all-over embroidery. Complete 3-piece set perfect for grooms & weddings. Premium silk blend with intricate detailing.
-  Updated: 2026-04-01T19:11:05Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145155.jpg?v=1760133349
-- [Navy Blue Embroidered Sherwani with Golden Motifs](https://www.moharbyec.com/products/navy-blue-embroidered-sherwani-with-golden-motifs): Stunning navy blue sherwani with intricate golden embroidery. Perfect for grooms, weddings & celebrations. Premium handcrafted Indian ethnic wear.
-  Updated: 2026-04-01T19:11:08Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145985.jpg?v=1760134379
 - [Ivory Embroidered Sherwani with Golden Floral Motifs](https://www.moharbyec.com/products/ivory-embroidered-sherwani-with-golden-floral-motifs): Elegant ivory sherwani with golden floral embroidery. Perfect for grooms, weddings & celebrations. Premium handcrafted traditional Indian menswear.
-  Updated: 2026-04-01T19:11:09Z
+  Updated: 2026-09-01T00:55:44Z
   Vendor: Ekaa Couture
   Product Type: Sherwani
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145990.png?v=1760196212
 - [Black Striped Indo-Western Sherwani](https://www.moharbyec.com/products/ivory-embroidered-sherwani-with-golden-floral-motifs-copy): Contemporary black Indo-Western sherwani with striped pattern. Perfect for modern grooms, weddings & upscale events. Premium handcrafted menswear.
-  Updated: 2026-04-01T19:11:10Z
+  Updated: 2026-09-01T00:55:44Z
   Vendor: Ekaa Couture
   Product Type: Sherwani
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000148976.jpg?v=1760196488
-- [Mustard Yellow Embroidered Kaftan Palazzo Set](https://www.moharbyec.com/products/mustard-yellow-embroidered-kaftan-with-palazzo-set): Stunning mustard yellow kaftan with silver embroidery & palazzo pants. Perfect for mehendi, sangeet & festive celebrations. Comfortable luxury ethnic wear.
-  Updated: 2026-04-01T19:11:11Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131287.jpg?v=1760482317
-  - [S](https://www.moharbyec.com/products/mustard-yellow-embroidered-kaftan-with-palazzo-set?variant=45784792858777)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/mustard-yellow-embroidered-kaftan-with-palazzo-set?variant=45784792891545)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/mustard-yellow-embroidered-kaftan-with-palazzo-set?variant=45784792924313)
-    Availability: Not Available
 - [Royal Blue Embroidered Kaftan Palazzo Set](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set): Elegant royal blue kaftan with silver embroidery & palazzo pants. Perfect for weddings, mehendi, sangeet & festive celebrations. Comfortable luxury ethnic wear.
-  Updated: 2026-04-01T19:11:11Z
+  Updated: 2026-09-01T00:55:45Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131294.jpg?v=1760320069
-  - [S](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=45784795185305)
+  - [36 - S](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=48285113876633)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=45784795218073)
+  - [38 - M](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=48285113909401)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=45784795250841)
+  - [40 - L](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=48285113942169)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=45784795283609)
+  - [42 - XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set?variant=48285113974937)
     Availability: Available
-- [Navy Blue Pleated Kaftan Palazzo Set | Embroidered Indo Western Outfit](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy): Elegant navy blue pleated kaftan with colorful embroidered neckline & palazzo pants. Perfect for weddings, sangeet & festive occasions. Comfortable luxury Indo Western wear.
-  Updated: 2026-04-01T19:11:11Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131295.jpg?v=1760291886
-  - [S](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy?variant=45786371555481)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy?variant=45786371588249)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy?variant=45786371621017)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy?variant=45786371653785)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy?variant=45786428637337)
-    Availability: Not Available
-- [Pink Embroidered Kaftan Palazzo Set with Floral Dupatta](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set): Gorgeous pink kaftan with golden embroidery & colorful floral dupatta. Complete palazzo set perfect for weddings, sangeet & festive celebrations. Shop Indo Western fashion.
-  Updated: 2026-04-23T18:00:04Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Sharara Set
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131306.jpg?v=1760380163
-  - [S](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set?variant=45788514615449)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set?variant=45788514648217)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set?variant=45788514680985)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set?variant=45788514713753)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/pink-embroidered-kaftan-with-floral-dupatta-palazzo-set?variant=45851431141529)
-    Availability: Not Available
-- [Olive Green Embroidered Kurta Set with Golden Motifs](https://www.moharbyec.com/products/olive-green-embroidered-kurta-with-golden-motifs-dupatta-set): Elegant olive green kurta with intricate golden embroidery & dupatta. Complete 3-piece set perfect for weddings, festivals & special occasions. Shop traditional ethnic wear.
-  Updated: 2026-04-05T20:19:44Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131442.jpg?v=1760380571
-  - [S](https://www.moharbyec.com/products/olive-green-embroidered-kurta-with-golden-motifs-dupatta-set?variant=45788525232281)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/olive-green-embroidered-kurta-with-golden-motifs-dupatta-set?variant=45788525265049)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/olive-green-embroidered-kurta-with-golden-motifs-dupatta-set?variant=45788525297817)
-    Availability: Not Available
 - [Dusty Pink Floral Embroidered Kurta Set with Dupatta](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta): Beautiful dusty pink kurta with delicate floral embroidery & matching dupatta. Complete 3-piece set perfect for weddings, mehendi & festive occasions. Shop elegant ethnic wear.
-  Updated: 2026-04-01T19:11:14Z
+  Updated: 2026-09-01T00:55:45Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000131443.jpg?v=1760380827
-  - [S](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=45788529197209)
+  - [36 - S](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=48285112893593)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=45788529229977)
+  - [38 - M](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=48285112926361)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=45788529262745)
+  - [40 - L](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=48285112959129)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=45788529295513)
+  - [42 - XL](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=48285112991897)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=45788535783577)
-    Availability: Available
-- [Maroon Embroidered Sherwani for Groom](https://www.moharbyec.com/products/maroon-embroidered-sherwani-with-mandarin-collar-for-men): Luxurious maroon embroidered sherwani with mandarin collar. Perfect for grooms, weddings & special occasions. Premium brocade fabric with elegant styling.
-  Updated: 2026-04-01T19:11:15Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000126688.jpg?v=1760386748
-- [Golden Beige Sequin Kurta Set for Men](https://www.moharbyec.com/products/golden-beige-sequin-embroidered-kurta): Luxurious golden beige sequin kurta with all-over embellishment & churidar. Perfect for weddings, sangeet & festive celebrations. Premium men's ethnic wear.
-  Updated: 2026-04-01T19:11:16Z
-  Vendor: Ekaa Couture
-  Product Type: Men's Ethnic Wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000125918.jpg?v=1760388640
-  - [38](https://www.moharbyec.com/products/golden-beige-sequin-embroidered-kurta?variant=45788773613721)
-    Availability: Available
-  - [44](https://www.moharbyec.com/products/golden-beige-sequin-embroidered-kurta?variant=45788773646489)
-    Availability: Available
-  - [46](https://www.moharbyec.com/products/golden-beige-sequin-embroidered-kurta?variant=45788773679257)
-    Availability: Available
-  - [40](https://www.moharbyec.com/products/golden-beige-sequin-embroidered-kurta?variant=45788794454169)
+  - [44 - 2XL](https://www.moharbyec.com/products/dusty-pink-floral-embroidered-kurta-set-with-dupatta?variant=48285113024665)
     Availability: Available
 - [White Textured Kurta Churidar Set](https://www.moharbyec.com/products/white-textured-kurta-churidar-set): Classic white textured kurta with all-over embroidery & churidar. Perfect for religious ceremonies, weddings & festive occasions. Versatile men's ethnic wear.
-  Updated: 2026-04-01T19:11:18Z
+  Updated: 2026-09-01T00:55:46Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000126683.jpg?v=1760389550
-  - [38](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=45788785279129)
+  - [38 - M](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=48285112598681)
     Availability: Available
-  - [40](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=45788785311897)
+  - [40 - L](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=48285112631449)
     Availability: Available
-  - [42](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=45788785344665)
+  - [42 - XL](https://www.moharbyec.com/products/white-textured-kurta-churidar-set?variant=48285112664217)
     Availability: Available
 - [Burgundy Embroidered Lehenga Set with Mirror Work](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta): Stunning burgundy lehenga set with intricate mirror work & golden embroidery. Complete 3-piece ensemble perfect for weddings, sangeet & festive celebrations.
-  Updated: 2026-04-01T19:11:19Z
+  Updated: 2026-09-01T00:55:46Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145951.jpg?v=1760390252
-  - [S](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=45788795404441)
+  - [36 - S](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=48285112402073)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=45788795437209)
+  - [38 - M](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=48285112434841)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=45788795469977)
+  - [40 - L](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=48285112467609)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=45788795502745)
-    Availability: Available
-- [Peach Embroidered Anarkali Gown with Golden Zari Work](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta): Stunning peach anarkali gown with intricate golden zari embroidery & dupatta. Perfect for brides, weddings & special occasions. Luxurious 3-piece bridal ensemble.
-  Updated: 2026-04-01T19:11:20Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145980.jpg?v=1760390649
-  - [S](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta?variant=45788797534361)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta?variant=45788797567129)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta?variant=45788797599897)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta?variant=45788797632665)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/peach-embroidered-anarkali-gown-with-golden-zari-work-dupatta?variant=45788895674521)
+  - [42 - XL](https://www.moharbyec.com/products/burgundy-embroidered-lehenga-set-with-mirror-work-dupatta?variant=48285112500377)
     Availability: Available
 - [Grey Teal Contemporary Gown with Sequin Panel | Indo Western Fashion](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1): Stunning contemporary gown with grey-teal color blocking, sequin panel & flowing layers. Perfect for cocktail parties, receptions & fashion-forward celebrations.
-  Updated: 2026-04-01T19:11:20Z
+  Updated: 2026-09-01T00:55:47Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Indo Western
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000145981.jpg?v=1760390903
-  - [S](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=45788799336601)
+  - [36 - S](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=48285112074393)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=45788799369369)
+  - [38 - M](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=48285112107161)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=45788799402137)
+  - [40 - L](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=48285112139929)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=45788799434905)
+  - [42 - XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=48285112172697)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=45882112704665)
+  - [44 - 2XL](https://www.moharbyec.com/products/royal-blue-embroidered-kaftan-with-palazzo-set-copy-1?variant=48285112205465)
     Availability: Available
 - [Turquoise Blue Bridal Lehenga with Silver Embroidery](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery): Stunning turquoise blue bridal lehenga with intricate silver embroidery & floral embellished blouse. Perfect for weddings & receptions. Ready to ship.
-  Updated: 2026-04-01T19:11:21Z
+  Updated: 2026-10-17T15:20:43Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_37ea3f56-548c-4aff-afdf-fdff83242bed.jpg?v=1760482238
-  - [S](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=45788896395417)
+  - [36 - S / Blue](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=67694901952665)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=45788896428185)
+  - [38 - M / Blue](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=67694901985433)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=45788896460953)
+  - [40 - L / Blue](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=67694902018201)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=45788896493721)
+  - [42 - XL / Blue](https://www.moharbyec.com/products/turquoise-blue-bridal-lehenga-with-silver-embroidery?variant=67694902050969)
     Availability: Available
 - [Lavender Embroidered Ball Gown with Floral Details](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details): Stunning lavender ball gown with all-over floral embroidery, feather details & dramatic silhouette. Perfect for weddings, galas & special occasions.
-  Updated: 2026-04-01T19:11:21Z
+  Updated: 2026-09-01T12:08:48Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_bf831b09-271f-4f68-89a3-9658786797d9.jpg?v=1760482163
-  - [S](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45788900917401)
+  - [36 - S](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=48285111812249)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45788900950169)
+  - [38 - M](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=48285111845017)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45788900982937)
+  - [40 - L](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=48285111877785)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45788901015705)
+  - [42 - XL](https://www.moharbyec.com/products/lavender-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=48285111910553)
     Availability: Available
 - [Maroon Sequin Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy): Stunning maroon bridal lehenga with intricate sequin embroidery & floral embellished blouse. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-04-01T19:11:22Z
+  Updated: 2026-09-01T00:55:48Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166146.jpg?v=1760546316
-  - [S](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=45795910353049)
+  - [36 - S](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=48285111681177)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=45795910385817)
+  - [38 - M](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=48285111713945)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=45795910418585)
+  - [40 - L](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=48285111746713)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=45795910451353)
+  - [42 - XL](https://www.moharbyec.com/products/maroon-sequin-embroidered-bridal-lehenga-set-copy?variant=48285111779481)
     Availability: Available
-- [Mint Green Embroidered Ball Gown with Floral & Feather Details | Designer Gown](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details): Stunning mint green ball gown with all-over floral embroidery, sequin work & feather sleeves. Perfect for engagements, sangeet, cocktail parties & special occasions. Ready to ship.
-  Updated: 2026-04-05T17:31:02Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166147.jpg?v=1760546670
-  - [S](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45795916152985)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45795916185753)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45795916218521)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details?variant=45795916251289)
-    Availability: Available
-- [Hot Pink Lehenga with Gold Embroidered Jacket](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details-copy): Stunning hot pink lehenga with heavily embroidered gold jacket. Perfect for sangeet, cocktail parties & weddings. Versatile Indo-Western ensemble. Ready to ship.
-  Updated: 2026-04-05T13:39:18Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166148.jpg?v=1760547388
-  - [S](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details-copy?variant=45795933388953)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details-copy?variant=45795933421721)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details-copy?variant=45795933454489)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/mint-green-embroidered-ball-gown-with-floral-embellishments-feather-details-copy?variant=45795933487257)
-    Availability: Not Available
-- [Cream Embroidered Anarkali Gown with Colorful Border](https://www.moharbyec.com/products/hot-pink-lehenga-with-gold-embroidered-jacket-copy): Elegant cream anarkali gown with all-over embroidery, sheer sleeves & vibrant multicolor border. Perfect for weddings, engagements & festive occasions. Ready to ship.
-  Updated: 2026-04-01T19:11:24Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166162.jpg?v=1760547907
-  - [S](https://www.moharbyec.com/products/hot-pink-lehenga-with-gold-embroidered-jacket-copy?variant=45795945316505)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/hot-pink-lehenga-with-gold-embroidered-jacket-copy?variant=45795945349273)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/hot-pink-lehenga-with-gold-embroidered-jacket-copy?variant=45795945382041)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/hot-pink-lehenga-with-gold-embroidered-jacket-copy?variant=45795945414809)
-    Availability: Not Available
 - [Regal Maroon Sequin Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set): Exquisite maroon bridal lehenga with intricate sequin & gold embroidery. Complete set with embellished blouse & dupatta. Perfect for weddings & special occasions. Shop now!
-  Updated: 2026-04-01T19:11:25Z
+  Updated: 2026-10-14T04:52:34Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166166.jpg?v=1760723893
-  - [S](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=45802657906841)
+  - [36 - S / Red](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=67694901592217)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=45802657939609)
+  - [38 - M / Red](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=67694901624985)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=45802657972377)
+  - [40 - L / Red](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=67694901657753)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=45802658005145)
+  - [42 - XL / Red](https://www.moharbyec.com/products/regal-maroon-sequin-embroidered-bridal-lehenga-set?variant=67694901690521)
     Availability: Available
 - [Ivory Mustard Bridal Lehenga with Red Dupatta](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta): Stunning ivory & mustard bridal lehenga with red dupatta. Intricate sequin & pearl embroidery, statement blouse. Perfect for weddings & special occasions. Shop now!
-  Updated: 2026-04-01T19:11:25Z
+  Updated: 2026-10-14T04:52:28Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166169.jpg?v=1760724279
-  - [S](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=45802660462745)
+  - [36 - S / White](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=67694901461145)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=45802660495513)
+  - [38 - M / White](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=67694901493913)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=45802660528281)
+  - [40 - L / White](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=67694901526681)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=45802660561049)
+  - [42 - XL / White](https://www.moharbyec.com/products/ivory-mustard-sequin-embroidered-bridal-lehenga-with-red-dupatta?variant=67694901559449)
     Availability: Available
 - [Vibrant Pink Sequin Lehenga Set](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set): Stunning vibrant pink lehenga with gold sequin embroidery. Complete set with embellished blouse & dupatta. Perfect for Indian weddings. Ready to ship USA!
-  Updated: 2026-04-01T19:11:26Z
+  Updated: 2026-10-14T04:52:29Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166174.jpg?v=1760724651
-  - [S](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=45802665672857)
+  - [36 - S / Pink](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=67694850703513)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=45802665705625)
+  - [38 - M / Pink](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=67694850736281)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=45802665738393)
+  - [40 - L / Pink](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=67694850769049)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=45802665771161)
+  - [42 - XL / Pink](https://www.moharbyec.com/products/vibrant-pink-sequin-lehenga-set?variant=67694850801817)
     Availability: Available
 - [Ivory Gold Bridal Lehenga Set | Hand Embroidered Wedding Lehenga | MOHAR](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set): Stunning ivory bridal lehenga with intricate gold embroidery & pastel florals. Complete set with embellished blouse & dupatta. Hand-crafted silk blend. Perfect for weddings!
-  Updated: 2026-04-01T19:11:28Z
+  Updated: 2026-10-14T04:52:35Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166180.jpg?v=1760725436
-  - [S](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=45802679173273)
+  - [36 - S / White](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=67694899265689)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=45802679206041)
+  - [38 - M / White](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=67694899298457)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=45802679238809)
+  - [40 - L / White](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=67694899331225)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=45802679271577)
+  - [42 - XL / White](https://www.moharbyec.com/products/ivory-gold-embroidered-bridal-lehenga-set?variant=67694899363993)
     Availability: Available
 - [Rose Gold Bronze Bridal Lehenga Set](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set): Stunning rose gold & bronze bridal lehenga with heavy gold embroidery & mirror work. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for weddings!
-  Updated: 2026-04-01T19:11:29Z
+  Updated: 2026-10-14T05:13:24Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166181.jpg?v=1760726009
-  - [S](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=45802686513305)
+  - [36 - S / Pink](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=67694899101849)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=45802686546073)
+  - [38 - M / Pink](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=67694899134617)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=45802686578841)
+  - [40 - L / Pink](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=67694899167385)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=45802686611609)
+  - [42 - XL / Pink](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=67694899200153)
     Availability: Available
-- [Peach Blush Bridal Lehenga Set](https://www.moharbyec.com/products/peach-blush-embroidered-bridal-lehenga-set): Stunning peach blush bridal lehenga with all-over sequin embroidery. Complete set with embellished blouse & dupatta. Premium net fabric. Perfect for modern weddings!
-  Updated: 2026-04-01T19:11:30Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166185.jpg?v=1760731699
-  - [S](https://www.moharbyec.com/products/peach-blush-embroidered-bridal-lehenga-set?variant=45802693329049)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/peach-blush-embroidered-bridal-lehenga-set?variant=45802693361817)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/peach-blush-embroidered-bridal-lehenga-set?variant=45802693394585)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/peach-blush-embroidered-bridal-lehenga-set?variant=45802693427353)
-    Availability: Available
-- [Purple Gold Bridal Lehenga Set](https://www.moharbyec.com/products/purple-gold-embroidered-bridal-lehenga-set): Stunning purple & gold bridal lehenga with intricate embroidery. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for royal weddings!
-  Updated: 2026-04-01T19:11:31Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166197.jpg?v=1760727698
-  - [S](https://www.moharbyec.com/products/purple-gold-embroidered-bridal-lehenga-set?variant=45802725965977)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/purple-gold-embroidered-bridal-lehenga-set?variant=45802725998745)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/purple-gold-embroidered-bridal-lehenga-set?variant=45802726031513)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/purple-gold-embroidered-bridal-lehenga-set?variant=45802726064281)
-    Availability: Not Available
 - [Red Black Bridal Lehenga Set | Heavy Sequin Embroidered Wedding Lehenga | MOHAR](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set): Stunning red & black bridal lehenga with heavy sequin embroidery. Off-shoulder blouse, voluminous skirt & dupatta. Premium velvet. Perfect for bold brides!
-  Updated: 2026-04-01T19:11:32Z
+  Updated: 2026-10-14T04:52:18Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166191.jpg?v=1760727181
-  - [S](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=45802728685721)
+  - [36 - S / Red](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=67694850408601)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=45802728718489)
+  - [38 - M / Red](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=67694850441369)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=45802728751257)
+  - [40 - L / Red](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=67694850474137)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=45802728784025)
-    Availability: Available
-- [Lavender Silver Bridal Lehenga Set](https://www.moharbyec.com/products/lavender-silver-embroidered-bridal-lehenga-set): Stunning lavender bridal lehenga with intricate silver embroidery. Complete set with sweetheart neckline blouse & dupatta. Premium net & silk blend. Perfect for modern weddings!
-  Updated: 2026-04-01T19:11:32Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166201.jpg?v=1760728466
-  - [S](https://www.moharbyec.com/products/lavender-silver-embroidered-bridal-lehenga-set?variant=45802743038105)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/lavender-silver-embroidered-bridal-lehenga-set?variant=45802743070873)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/lavender-silver-embroidered-bridal-lehenga-set?variant=45802743103641)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/lavender-silver-embroidered-bridal-lehenga-set?variant=45802743136409)
+  - [42 - XL / Red](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set?variant=67694850506905)
     Availability: Available
 - [Mint Green Pastel Floral Lehenga Set](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set): Stunning mint green lehenga with 3D pastel floral embroidery. Pink, peach & silver roses. Complete set with blouse & peach dupatta. Perfect for weddings & celebrations!
-  Updated: 2026-04-13T21:07:30Z
+  Updated: 2026-09-01T00:55:51Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166056.jpg?v=1760731091
-  - [S](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=45802818601113)
+  - [36 - S](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=48285109944473)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=45802818633881)
+  - [38 - M](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=48285109977241)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=45802818666649)
+  - [40 - L](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=48285110010009)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=45802818699417)
+  - [42 - XL](https://www.moharbyec.com/products/mint-green-pastel-floral-embroidered-lehenga-set?variant=48285110042777)
     Availability: Available
-- [Maroon Red Heavy Bridal Gown](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown): Stunning maroon red bridal gown with heavy silver & gold embroidery. Floor-length design with matching coral dupatta. Premium velvet & silk. Perfect for traditional weddings!
-  Updated: 2026-04-05T17:30:27Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: gowns
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166058.jpg?v=1760732522
-  - [S](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown?variant=45802833576089)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown?variant=45802833608857)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown?variant=45802833641625)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown?variant=45802833674393)
-    Availability: Not Available
-- [Ivory Cream Floral Anarkali Gown](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown): Elegant ivory cream anarkali gown with vibrant red rose & green floral embroidery. Full sleeves, floor-length. Perfect for weddings, engagements & festive occasions!
-  Updated: 2026-04-01T19:11:34Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166060.jpg?v=1760732202
-  - [S](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown?variant=45802834002073)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown?variant=45802834034841)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown?variant=45802834067609)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown?variant=45802834100377)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/ivory-cream-floral-embroidered-anarkali-gown?variant=45802834133145)
-    Availability: Not Available
 - [Mustard Yellow Silver Embroidered Anarkali Gown](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy): Stunning mustard yellow anarkali gown with intricate silver embroidery. Floor-length with full sleeves & dupatta. Perfect for mehendi, haldi, sangeet & festive occasions!
-  Updated: 2026-04-05T17:23:30Z
+  Updated: 2026-09-01T00:55:52Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166064.jpg?v=1760733110
-  - [S](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=45802846322841)
+  - [36 - S](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=48285109354649)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=45802846355609)
+  - [38 - M](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=48285109387417)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=45802846388377)
+  - [40 - L](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=48285109420185)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=45802846421145)
+  - [42 - XL](https://www.moharbyec.com/products/maroon-red-heavy-embroidered-bridal-gown-copy?variant=48285109452953)
     Availability: Available
 - [Red Gold Heavy Gown](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy): Stunning red bridal gown with heavy gold & silver embroidery. Floor-length design with pink dupatta. Premium silk & net. Perfect for traditional weddings!
-  Updated: 2026-04-01T19:11:36Z
+  Updated: 2026-09-01T00:55:52Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166067.jpg?v=1760733672
-  - [S](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=45802848583833)
+  - [36 - S](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=48285109223577)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=45802848616601)
+  - [38 - M](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=48285109256345)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=45802848649369)
+  - [40 - L](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=48285109289113)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=45802848682137)
+  - [42 - XL](https://www.moharbyec.com/products/mustard-yellow-silver-embroidered-anarkali-gown-copy?variant=48285109321881)
     Availability: Available
 - [Golden Yellow Silver Embroidered Lehenga Set](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set): Stunning golden yellow lehenga with intricate silver embroidery. Complete set with sleeveless blouse & dupatta. Perfect for mehendi, haldi, sangeet & festive occasions!
-  Updated: 2026-04-01T19:11:37Z
+  Updated: 2026-09-01T00:55:52Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: gowns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166068.jpg?v=1760734026
-  - [S](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=45802852974745)
+  - [36 - S](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=48285109092505)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=45802853007513)
+  - [38 - M](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=48285109125273)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=45802853040281)
+  - [40 - L](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=48285109158041)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=45802853073049)
+  - [42 - XL](https://www.moharbyec.com/products/golden-yellow-silver-embroidered-lehenga-set?variant=48285109190809)
     Availability: Available
 - [Golden Yellow Embroidered Lehenga Choli](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli): Stunning golden yellow embroidered lehenga choli with heavy pink & gold embroidery work. Perfect for weddings, sangeet, mehendi & festive celebrations. Premium bridal ethnic wear. Ready to ship. Shop now!
-  Updated: 2026-04-01T19:11:37Z
+  Updated: 2026-09-01T00:55:53Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga Choli
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000166072.jpg?v=1760734674
-  - [S](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=45802858840217)
+  - [36 - S](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=48285108961433)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=45802858872985)
+  - [38 - M](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=48285108994201)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=45802858905753)
+  - [40 - L](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=48285109026969)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=45802858938521)
+  - [42 - XL](https://www.moharbyec.com/products/golden-yellow-embroidered-lehenga-choli?variant=48285109059737)
     Availability: Available
-- [Emerald Green Embroidered Pre-Stitched Saree](https://www.moharbyec.com/products/emerald-green-embroidered-net-pre-stitched-saree): Stunning emerald green pre-stitched saree with silver embroidery. Premium net fabric, designer blouse included. Perfect for weddings & special occasions. Shop luxury sarees at MOHAR.
-  Updated: 2026-04-01T19:11:37Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Saree
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761934610961.jpg?v=1761938556
-  - [S](https://www.moharbyec.com/products/emerald-green-embroidered-net-pre-stitched-saree?variant=45802898325657)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/emerald-green-embroidered-net-pre-stitched-saree?variant=45802898358425)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/emerald-green-embroidered-net-pre-stitched-saree?variant=45802898391193)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/emerald-green-embroidered-net-pre-stitched-saree?variant=45802898423961)
-    Availability: Not Available
-- [Pink and Gold Embroidered Lehenga Choli](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli): Stunning red and gold bridal lehenga with heavy embroidery. Perfect for weddings, receptions & traditional ceremonies. Premium silk blend with intricate gold work. Ready to ship!
-  Updated: 2026-04-01T19:11:38Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170749.jpg?v=1760737755
-  - [S](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli?variant=45802911367321)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli?variant=45802911400089)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli?variant=45802911432857)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli?variant=45802911465625)
-    Availability: Not Available
-- [Multicolor Embroidered Silk Lehenga Choli](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta): Stunning multicolor silk lehenga with yellow & purple panels, silver embroidery & pink dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-05-06T20:21:29Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170751.jpg?v=1760832417
-  - [S](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912448665)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912481433)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912514201)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912546969)
-    Availability: Not Available
-- [Navy Blue Embroidered Silk Lehenga Choli](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing): Stunning navy blue silk lehenga with intricate gold embroidery, halter-neck blouse & pleated skirt. Perfect for weddings & festive occasions. Ready to ship!
-  Updated: 2026-04-01T19:11:39Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170754.jpg?v=1760890243
-  - [S](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing?variant=45805576323225)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing?variant=45805576355993)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing?variant=45805576388761)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing?variant=45805576421529)
-    Availability: Not Available
-- [Green Silk Lehenga Choli with Gold Embroidery](https://www.moharbyec.com/products/green-embroidered-silk-lehenga-choli): Exquisite teal green silk lehenga with intricate gold embroidery. Features halter-neck blouse, pleated skirt & dupatta. Perfect for weddings & festive occasions. Ready to ship!
-  Updated: 2026-04-01T19:11:40Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170757.jpg?v=1760891351
-  - [S](https://www.moharbyec.com/products/green-embroidered-silk-lehenga-choli?variant=45805579436185)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/green-embroidered-silk-lehenga-choli?variant=45805579468953)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/green-embroidered-silk-lehenga-choli?variant=45805579501721)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/green-embroidered-silk-lehenga-choli?variant=45805579534489)
-    Availability: Not Available
-- [Orange Silk Lehenga Choli with Silver Embroidery](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli): Vibrant orange silk lehenga with stunning silver embroidery. Features corset-style blouse, pleated skirt & dupatta. Perfect for sangeet, mehendi & festive occasions!
-  Updated: 2026-04-01T19:11:41Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170762.jpg?v=1760893533
-  - [S](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli?variant=45805591068825)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli?variant=45805591101593)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli?variant=45805591134361)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli?variant=45805591167129)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/orange-embroidered-silk-lehenga-choli?variant=45881157386393)
-    Availability: Not Available
-- [Turquoise Embellished Lehenga Choli - Silver Sequin Work | MOHAR](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli): Stunning turquoise georgette lehenga with silver sequin & mirror work. Features embroidered choli, pleated skirt & net dupatta. Perfect for weddings & festive occasions.
-  Updated: 2026-04-01T19:11:41Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170764.jpg?v=1760894236
-  - [S](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli?variant=45805592445081)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli?variant=45805592477849)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli?variant=45805592510617)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli?variant=45805592543385)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/turquoise-embellished-georgette-lehenga-choli?variant=45881156239513)
-    Availability: Not Available
-- [Teal Blue Silk Lehenga Choli](https://www.moharbyec.com/products/teal-blue-embroidered-silk-lehenga-choli): Stunning teal blue silk lehenga with intricate silver embroidery. Features corset blouse, pleated skirt & dupatta. Perfect for weddings, sangeet & festive occasions.
-  Updated: 2026-04-01T19:11:42Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170782.jpg?v=1761957317
-  - [S](https://www.moharbyec.com/products/teal-blue-embroidered-silk-lehenga-choli?variant=45805596573849)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/teal-blue-embroidered-silk-lehenga-choli?variant=45805596606617)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/teal-blue-embroidered-silk-lehenga-choli?variant=45805596639385)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/teal-blue-embroidered-silk-lehenga-choli?variant=45805596672153)
-    Availability: Not Available
 - [Light Pink Embellished Lehenga Choli](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli): Stunning rose gold lehenga with silver embellishments & dual-tone design. Features embellished corset blouse, embroidered skirt & dupatta. Perfect for beach weddings & destination events.
-  Updated: 2026-04-01T19:11:42Z
+  Updated: 2026-10-17T15:20:41Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170775.jpg?v=1760903349
-  - [S / Powder Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45805710934169)
+  - [36 - S / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=48284976218265)
     Availability: Available
-  - [S / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45807591522457)
+  - [36 - S / Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=67695177498777)
     Availability: Not Available
-  - [M / Powder Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45805710966937)
+  - [38 - M / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=48284976283801)
     Availability: Available
-  - [M / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45807591555225)
+  - [38 - M / Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=67695177531545)
     Availability: Not Available
-  - [L / Powder Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45805710999705)
+  - [40 - L / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=48284976349337)
     Availability: Not Available
-  - [L / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45807591587993)
+  - [40 - L / Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=67695177564313)
     Availability: Not Available
-  - [XL / Powder Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45805711032473)
+  - [42 - XL / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=48284976414873)
     Availability: Not Available
-  - [XL / Pink](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=45807591620761)
+  - [42 - XL / Blue](https://www.moharbyec.com/products/light-pink-embellished-lehenga-choli?variant=67695177597081)
     Availability: Not Available
-- [Midnight Navy Sequined Pre-Stitched Saree](https://www.moharbyec.com/products/midnight-navy-sequined-pre-stitched-saree-with-sweetheart-neckline): Stunning midnight navy sequined pre-stitched saree with sweetheart neckline. All-over shimmer, ready to wear. Perfect for weddings & evening events. Designer saree by MOHAR.
-  Updated: 2026-04-01T19:11:43Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: PRE-STITCHED SAREE
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909099218.jpg?v=1760985323
-  - [S](https://www.moharbyec.com/products/midnight-navy-sequined-pre-stitched-saree-with-sweetheart-neckline?variant=45807752544409)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/midnight-navy-sequined-pre-stitched-saree-with-sweetheart-neckline?variant=45807752577177)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/midnight-navy-sequined-pre-stitched-saree-with-sweetheart-neckline?variant=45807752609945)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/midnight-navy-sequined-pre-stitched-saree-with-sweetheart-neckline?variant=45807752642713)
-    Availability: Available
 - [Ivory White Sequined Pre-Stitched Saree](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape): Stunning ivory white sequined pre-stitched saree with V-neckline. All-over shimmer, ready to wear. Perfect for weddings, engagements & special occasions. Designer saree by MOHAR.
-  Updated: 2026-04-01T19:11:43Z
+  Updated: 2026-09-01T11:49:04Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: PRE-STITCHED SAREE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909098843.jpg?v=1760986425
-  - [S](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=45807813132441)
+  - [36 - S](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=48285107290265)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=45807813165209)
+  - [38 - M](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=48285107323033)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=45807813197977)
+  - [40 - L](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=48285107355801)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=45807813230745)
+  - [42 - XL](https://www.moharbyec.com/products/ivory-white-sequined-pre-stitched-saree-with-elegant-drape?variant=48285107388569)
     Availability: Available
-- [Rose Pink Embroidered Sharara Set with Dupatta](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta): Elegant rose pink palazzo set with intricate silver embroidery & embellished dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-04-01T19:11:44Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: sharara
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760758707988.jpg?v=1761078032
-  - [S](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093752473)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093785241)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093818009)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093850777)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093883545)
-    Availability: Available
-  - [3XL](https://www.moharbyec.com/products/rose-pink-embroidered-sharara-set-with-dupatta?variant=45810093916313)
-    Availability: Available
-- [Emerald Green Embroidered Sharara Set with Dupatta](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta): Stunning emerald green sharara set with intricate silver embroidery & sequined dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-04-15T18:37:36Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Lehenga
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760758710367_59e35aa7-ca3e-4738-b089-f675b501adcb.jpg?v=1761079430
-  - [S](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241077401)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241110169)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241142937)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241175705)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241208473)
-    Availability: Not Available
-  - [3XL](https://www.moharbyec.com/products/emerald-green-embroidered-sharara-set-with-dupatta?variant=45810241241241)
-    Availability: Not Available
-- [Blue Embroidered Palazzo Set](https://www.moharbyec.com/products/blue-embroidered-palazzo-set): Elegant teal blue palazzo set with intricate multicolor embroidery & pleated design. 2-piece set perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-04-01T19:11:45Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760758713377.jpg?v=1761080281
-  - [S](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810255036569)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810255069337)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810255102105)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810255134873)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810255167641)
-    Availability: Not Available
-  - [3XL](https://www.moharbyec.com/products/blue-embroidered-palazzo-set?variant=45810264015001)
-    Availability: Not Available
-- [Dusty Pink Palazzo Set with Embellished Jacket](https://www.moharbyec.com/products/dusty-pink-palazzo-set-with-embellished-jacket): Elegant dusty pink palazzo set with heavily embellished jacket, tassel detailing & bell sleeves. 3-piece set perfect for weddings, sangeet & celebrations. Ready to ship!
-  Updated: 2026-04-23T17:57:28Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909098052.jpg?v=1761956279
-  - [S](https://www.moharbyec.com/products/dusty-pink-palazzo-set-with-embellished-jacket?variant=45810266800281)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/dusty-pink-palazzo-set-with-embellished-jacket?variant=45810266833049)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/dusty-pink-palazzo-set-with-embellished-jacket?variant=45810266865817)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/dusty-pink-palazzo-set-with-embellished-jacket?variant=45810266898585)
-    Availability: Not Available
-- [Royal Blue Embroidered Top and Skirt Set](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set): Stunning royal blue top and palazzo set with intricate silver embroidery & embellished waist belt. 2-piece set perfect for weddings, sangeet & celebrations. Ready to ship!
-  Updated: 2026-04-01T19:11:48Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Indo Western
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909099573.jpg?v=1761081011
-  - [S](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set?variant=45810361172121)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set?variant=45810361204889)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set?variant=45810361237657)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set?variant=45810361270425)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/royal-blue-embroidered-top-and-skirt-set?variant=45810428510361)
-    Availability: Not Available
-- [Forest Green Embroidered Anarkali Gown with Dupatta](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta): Stunning forest green Anarkali gown with intricate silver embroidery, heavily embellished bodice & dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-04-01T19:11:49Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Anarkali
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760758711614.jpg?v=1761082087
-  - [S](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta?variant=45810450825369)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta?variant=45810450858137)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta?variant=45810450890905)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta?variant=45810450923673)
-    Availability: Available
-- [Black Embroidered Sherwani](https://www.moharbyec.com/products/black-embroidered-sherwani-with-intricate-detailing): Exquisite black sherwani with intricate embroidery. Handcrafted premium silk, perfect for weddings, engagements & celebrations. Shop luxury Indian menswear.
-  Updated: 2026-04-01T19:11:49Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909101778.jpg?v=1761339721
-- [Royal Blue Sherwani with Shimmer](https://www.moharbyec.com/products/royal-blue-sherwani-with-shimmer-embellishments): Stunning royal blue sherwani with shimmer embellishments. Handcrafted luxury menswear perfect for weddings, engagements & celebrations. Complete 3-piece set.
-  Updated: 2026-04-01T19:11:50Z
-  Vendor: Ekaa Couture
-  Product Type: Sherwani
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909102455.jpg?v=1761340554
 - [Black Sherwani with Brown Jacquard Design](https://www.moharbyec.com/products/black-sherwani-with-brown-jacquard-design): Elegant black sherwani with brown jacquard patterns. Handcrafted luxury Indo-Western menswear perfect for weddings, parties & celebrations. Complete 3-piece set.
-  Updated: 2026-04-01T19:11:50Z
+  Updated: 2026-09-01T00:55:56Z
   Vendor: Ekaa Couture
   Product Type: Sherwani
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1760909103243.jpg?v=1761342592
-- [Pink Embellished Salwar Suit](https://www.moharbyec.com/products/pink-embellished-salwar-suit-with-sheer-dupatta): Stunning pink embellished salwar suit with intricate silver embroidery and sheer dupatta. Perfect for weddings, mehendi & festive occasions. Premium quality, ready to ship.
-  Updated: 2026-04-01T19:11:51Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Salwar Suits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758152703979.jpg?v=1761589053
-  - [S](https://www.moharbyec.com/products/pink-embellished-salwar-suit-with-sheer-dupatta?variant=45834342400153)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/pink-embellished-salwar-suit-with-sheer-dupatta?variant=45834342432921)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/pink-embellished-salwar-suit-with-sheer-dupatta?variant=45834342465689)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/pink-embellished-salwar-suit-with-sheer-dupatta?variant=45834342498457)
-    Availability: Available
-- [Red Embellished Salwar Suit](https://www.moharbyec.com/products/red-embellished-salwar-suit): Stunning red embellished salwar suit with intricate silver floral embroidery. Perfect for weddings, Diwali & festive celebrations. Premium quality 3-piece set, ready to ship.
-  Updated: 2026-04-01T19:11:51Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Salwar Suits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758151852479.jpg?v=1761589391
-  - [S](https://www.moharbyec.com/products/red-embellished-salwar-suit?variant=45834354098329)
-    Availability: Available
-  - [M](https://www.moharbyec.com/products/red-embellished-salwar-suit?variant=45834354131097)
-    Availability: Available
-  - [L](https://www.moharbyec.com/products/red-embellished-salwar-suit?variant=45834354163865)
-    Availability: Available
-  - [XL](https://www.moharbyec.com/products/red-embellished-salwar-suit?variant=45834354196633)
-    Availability: Available
-  - [2XL](https://www.moharbyec.com/products/red-embellished-salwar-suit?variant=45859768533145)
-    Availability: Available
 - [Light Peach tissue organza saree](https://www.moharbyec.com/products/light-peach-tissue-organza-saree): Stunning blush pink net saree with all-over sequin & floral embroidery. Luxurious designer saree perfect for weddings, receptions & special occasions. Premium quality.
-  Updated: 2026-04-01T19:11:51Z
+  Updated: 2026-09-01T11:57:24Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758935049743.jpg?v=1761590100
-  - [S](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=45834376413337)
+  - [36 - S](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=48285105094809)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=45834376446105)
+  - [38 - M](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=48285105127577)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=45834376478873)
+  - [40 - L](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=48285105160345)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=45834376511641)
+  - [42 - XL](https://www.moharbyec.com/products/light-peach-tissue-organza-saree?variant=48285105193113)
     Availability: Available
-- [Emerald Green Embellished Saree](https://www.moharbyec.com/products/emerald-green-embellished-saree): Stunning emerald green silk blend saree with intricate silver & gold embroidery. Perfect for weddings, festive occasions & celebrations. Premium designer quality.
-  Updated: 2026-04-01T19:11:52Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Saree
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758933795995.jpg?v=1761590681
-  - [S](https://www.moharbyec.com/products/emerald-green-embellished-saree?variant=45834393583769)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/emerald-green-embellished-saree?variant=45834393616537)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/emerald-green-embellished-saree?variant=45834393649305)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/emerald-green-embellished-saree?variant=45834393682073)
-    Availability: Not Available
-  - [2XL](https://www.moharbyec.com/products/emerald-green-embellished-saree?variant=45849623003289)
-    Availability: Not Available
 - [Dark Green Embellished Saree](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear): Sophisticated dark green saree with all-over silver embroidery. Perfect for evening weddings, cocktail parties & formal events. Elegant designer quality.
-  Updated: 2026-04-01T19:11:52Z
+  Updated: 2026-09-01T11:23:56Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758996445935.jpg?v=1761590905
-  - [S](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=45834402988185)
+  - [36 - S](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=48285104767129)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=45834403020953)
+  - [38 - M](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=48285104799897)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=45834403053721)
+  - [40 - L](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=48285104832665)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=45834403086489)
+  - [42 - XL](https://www.moharbyec.com/products/dark-green-embellished-saree-elegant-designer-wear?variant=48285104865433)
     Availability: Available
 - [Magenta Embellished Saree - Designer Floral work](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work): Vibrant magenta saree with intricate pink & maroon floral embroidery. Perfect for weddings, sangeet, mehendi & festive celebrations. Designer quality with gradient blouse.
-  Updated: 2026-04-01T19:11:52Z
+  Updated: 2026-09-01T00:55:57Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758935221538.jpg?v=1761591197
-  - [S](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=45834414817433)
+  - [36 - S](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=48285104636057)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=45834414850201)
+  - [38 - M](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=48285104668825)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=45834414882969)
+  - [40 - L](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=48285104701593)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=45834414915737)
+  - [42 - XL](https://www.moharbyec.com/products/magenta-embellished-saree-designer-floral-work?variant=48285104734361)
     Availability: Available
 - [Grey Embellished Silk Saree](https://www.moharbyec.com/products/grey-embellished-silk-saree): Luxurious grey silk saree with all-over embroidery & contrast gold border. Banarasi-inspired designer saree perfect for weddings, receptions & grand celebrations.
-  Updated: 2026-04-01T19:11:53Z
+  Updated: 2026-09-01T12:05:54Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1759012216234.jpg?v=1761591344
-  - [S](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=45834417733785)
+  - [36 - S](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=48285104504985)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=45834417766553)
+  - [38 - M](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=48285104537753)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=45834417799321)
+  - [40 - L](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=48285104570521)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=45834417832089)
+  - [42 - XL](https://www.moharbyec.com/products/grey-embellished-silk-saree?variant=48285104603289)
     Availability: Available
-- [Peach Embellished Anarkali Gown](https://www.moharbyec.com/products/peach-embellished-anarkali-gown-with-net-dupatta): Stunning peach anarkali gown with intricate embroidery & net dupatta. Perfect for engagements, sangeet, mehendi & wedding celebrations. Ready to ship.
-  Updated: 2026-04-15T18:35:17Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758933482453.jpg?v=1761592091
-  - [S](https://www.moharbyec.com/products/peach-embellished-anarkali-gown-with-net-dupatta?variant=45834436608153)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/peach-embellished-anarkali-gown-with-net-dupatta?variant=45834436640921)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/peach-embellished-anarkali-gown-with-net-dupatta?variant=45834436673689)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/peach-embellished-anarkali-gown-with-net-dupatta?variant=45834436706457)
-    Availability: Not Available
-- [Turquoise Embellished Anarkali Suit](https://www.moharbyec.com/products/turquoise-embellished-anarkali-suit-with-olive-green-dupatta): Beautiful turquoise anarkali suit with floral embroidery & olive green dupatta. Perfect for mehendi, sangeet, engagement & festive celebrations. Ready to ship.
-  Updated: 2026-04-15T18:34:47Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Gowns
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758933111855.jpg?v=1761592291
-  - [S](https://www.moharbyec.com/products/turquoise-embellished-anarkali-suit-with-olive-green-dupatta?variant=45834442277017)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/turquoise-embellished-anarkali-suit-with-olive-green-dupatta?variant=45834442309785)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/turquoise-embellished-anarkali-suit-with-olive-green-dupatta?variant=45834442342553)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/turquoise-embellished-anarkali-suit-with-olive-green-dupatta?variant=45834442375321)
-    Availability: Not Available
-- [Mustard Yellow Embellished Suit Set](https://www.moharbyec.com/products/mustard-yellow-embellished-suit-set-with-purple-dupatta): Vibrant mustard yellow suit set with silver embroidery & purple dupatta. Perfect for mehendi, sangeet, festive celebrations. Complete 3-piece set, ready to ship.
-  Updated: 2026-04-01T19:11:55Z
-  Vendor: MOHAR by EKAA COUTURE
-  Product Type: Salwar Suits
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1758153154267.jpg?v=1761588797
-  - [S](https://www.moharbyec.com/products/mustard-yellow-embellished-suit-set-with-purple-dupatta?variant=45834446766233)
-    Availability: Not Available
-  - [M](https://www.moharbyec.com/products/mustard-yellow-embellished-suit-set-with-purple-dupatta?variant=45834446799001)
-    Availability: Not Available
-  - [L](https://www.moharbyec.com/products/mustard-yellow-embellished-suit-set-with-purple-dupatta?variant=45834446831769)
-    Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/mustard-yellow-embellished-suit-set-with-purple-dupatta?variant=45834446864537)
-    Availability: Not Available
 - [Regal Maroon Embellished Silk Saree](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery): Stunning maroon silk blend saree with intricate gold embroidery. Perfect for weddings, festive occasions & celebrations. Premium designer quality with contrast blouse.
-  Updated: 2026-04-01T19:11:55Z
+  Updated: 2026-09-01T00:55:58Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761567645620_af7d5bbb-6982-4e68-8fcc-4da1be47f61f.jpg?v=1761691762
-  - [S](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=45838925955225)
+  - [36 - S](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=48285103947929)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=45838925987993)
+  - [38 - M](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=48285103980697)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=45838926020761)
+  - [40 - L](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=48285104013465)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=45838926053529)
+  - [42 - XL](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=48285104046233)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=45849622904985)
+  - [44 - 2XL](https://www.moharbyec.com/products/regal-maroon-embellished-silk-saree-with-gold-embroidery?variant=48285104079001)
     Availability: Not Available
 - [Elegant Sage Green Embellished Saree](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery): Beautiful sage green organza saree with delicate floral embroidery and red contrast blouse. Perfect for weddings, parties & festive occasions. Lightweight designer saree.
-  Updated: 2026-04-01T19:11:58Z
+  Updated: 2026-09-01T00:55:58Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761567646171.jpg?v=1761691948
-  - [S](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=45838926610585)
+  - [36 - S](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=48285103784089)
     Availability: Available
-  - [M](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=45838926643353)
+  - [38 - M](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=48285103816857)
     Availability: Available
-  - [L](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=45838926676121)
+  - [40 - L](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=48285103849625)
     Availability: Available
-  - [XL](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=45838926708889)
+  - [42 - XL](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=48285103882393)
     Availability: Available
-  - [2XL](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=45849622577305)
+  - [44 - 2XL](https://www.moharbyec.com/products/elegant-sage-green-embellished-saree-with-floral-embroidery?variant=48285103915161)
     Availability: Not Available
-- [Champagne Peacock Net Lehenga - Luxe Bridal Collection](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing-copy): Stunning champagne silk lehenga with intricate embroidery, perfect for brides & weddings. Complete bridal set with choli & dupatta. Premium designer quality.
-  Updated: 2026-04-01T19:11:58Z
+- [Cream Floral Embroidered Lehenga with Cape Sleeves](https://www.moharbyec.com/products/cream-floral-embroidered-lehenga-choli-with-cape-sleeves): Romantic cream lehenga with floral embroidery & dramatic cape sleeves. Perfect for weddings, parties & festive occasions. Complete designer set with choli & dupatta.
+  Updated: 2026-09-01T00:55:59Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761567641545.jpg?v=1761693119
+  - [36 - S](https://www.moharbyec.com/products/cream-floral-embroidered-lehenga-choli-with-cape-sleeves?variant=48285103489177)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/cream-floral-embroidered-lehenga-choli-with-cape-sleeves?variant=48285103521945)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/cream-floral-embroidered-lehenga-choli-with-cape-sleeves?variant=48285103554713)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/cream-floral-embroidered-lehenga-choli-with-cape-sleeves?variant=48285103587481)
+    Availability: Available
+- [Rose Pink Embroidered Pre-Stitched Saree](https://www.moharbyec.com/products/rose-pink-embroidered-satin-pre-stitched-saree): Stunning rose pink satin saree with silver embroidery & sheer blouse. Pre-stitched for easy draping. Perfect for weddings & special occasions. Shop now!
+  Updated: 2026-09-01T11:23:16Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: PRE-STITCHED SAREE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761934614147.jpg?v=1761940995
+  - [36 - S](https://www.moharbyec.com/products/rose-pink-embroidered-satin-pre-stitched-saree?variant=48285102801049)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/rose-pink-embroidered-satin-pre-stitched-saree?variant=48285102833817)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/rose-pink-embroidered-satin-pre-stitched-saree?variant=48285102866585)
+    Availability: Available
+- [Deep Purple Embroidered Pre-Stitched Saree](https://www.moharbyec.com/products/deep-purple-embroidered-satin-pre-stitched-saree): Stunning deep purple satin saree with heavy silver embroidery & embellished blouse. Pre-stitched for easy draping. Perfect for weddings & grand events. Shop now!
+  Updated: 2026-09-01T11:33:59Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: PRE-STITCHED SAREE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761934612706.jpg?v=1761941928
+  - [36 - S](https://www.moharbyec.com/products/deep-purple-embroidered-satin-pre-stitched-saree?variant=48285102702745)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/deep-purple-embroidered-satin-pre-stitched-saree?variant=48285102735513)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/deep-purple-embroidered-satin-pre-stitched-saree?variant=48285102768281)
+    Availability: Available
+- [Blush Pink Embroidered Pre-Stitched Saree](https://www.moharbyec.com/products/blush-pink-embroidered-organza-pre-stitched-saree): Stunning blush pink organza saree with delicate silver embroidery & sheer blouse. Pre-stitched for easy draping. Perfect for weddings & special occasions. Shop now!
+  Updated: 2026-09-01T11:34:38Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: PRE-STITCHED SAREE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761934613608.jpg?v=1761944544
+  - [36 - S](https://www.moharbyec.com/products/blush-pink-embroidered-organza-pre-stitched-saree?variant=48285102506137)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/blush-pink-embroidered-organza-pre-stitched-saree?variant=48285102538905)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/blush-pink-embroidered-organza-pre-stitched-saree?variant=48285102571673)
+    Availability: Available
+- [Champagne Silver Ombre Net Saree](https://www.moharbyec.com/products/champagne-silver-ombre-net-saree-with-heavy-embroidery): Luxurious champagne to silver ombre net saree with all-over embroidery & sequins. Perfect for brides & weddings. Premium bridal collection. Shop now!
+  Updated: 2026-09-01T12:01:13Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Saree
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762043634597.jpg?v=1762112740
+  - [36 - S](https://www.moharbyec.com/products/champagne-silver-ombre-net-saree-with-heavy-embroidery?variant=48285101752473)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/champagne-silver-ombre-net-saree-with-heavy-embroidery?variant=48285101785241)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/champagne-silver-ombre-net-saree-with-heavy-embroidery?variant=48285101818009)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/champagne-silver-ombre-net-saree-with-heavy-embroidery?variant=48285101850777)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-09-01T00:56:02Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762043633603.jpg?v=1762115101
+  - [36 - S](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101424793)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101457561)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101490329)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101523097)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101555865)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/chartreuse-green-embroidered-anarkali-gown?variant=48285101588633)
+    Availability: Available
+- [Lavender Embroidered Lehenga](https://www.moharbyec.com/products/lavender-dreams-embroidered-lehenga): Stunning lavender lehenga with silver & pink embroidery. Perfect for destination weddings, Santorini celebrations & romantic events. Ethereal designer bridal ensemble.
+  Updated: 2026-10-16T15:05:51Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762128212052.jpg?v=1762206479
+  - [38 - M](https://www.moharbyec.com/products/lavender-dreams-embroidered-lehenga?variant=48285100736665)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/lavender-dreams-embroidered-lehenga?variant=48285100769433)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/lavender-dreams-embroidered-lehenga?variant=48285100802201)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/lavender-dreams-embroidered-lehenga?variant=48285100834969)
+    Availability: Not Available
+- [Mauve Embroidered Lehenga](https://www.moharbyec.com/products/mauve-twilight-embroidered-lehenga): Stunning mauve-lavender lehenga with silver embroidery. Perfect for evening destination weddings, Santorini celebrations & twilight events. Sophisticated bridal wear.
+  Updated: 2026-09-01T00:56:03Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762128210627.jpg?v=1762207517
+  - [36 - S](https://www.moharbyec.com/products/mauve-twilight-embroidered-lehenga?variant=48285100474521)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/mauve-twilight-embroidered-lehenga?variant=48285100507289)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/mauve-twilight-embroidered-lehenga?variant=48285100540057)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/mauve-twilight-embroidered-lehenga?variant=48285100572825)
+    Availability: Available
+- [Powder Blue Embroidered Lehenga Spaghetti Strap Choli](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli): Stunning powder blue lehenga with modern spaghetti strap choli & silver embroidery. Perfect for weddings, sangeet & festive occasions. Ready to ship!
+  Updated: 2026-09-22T18:23:03Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_2916217a-1c04-4ed3-886a-776016043847.jpg?v=1762466185
+  - [36 - S](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli?variant=48285100343449)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli?variant=48285100376217)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli?variant=48285100408985)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli?variant=48285100441753)
+    Availability: Available
+- [Soft Pink Embroidered Salwar Suit with Sheer Dupatta](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta): Delicate soft pink salwar suit with hand-embroidered floral motifs and sheer organza dupatta. Perfect for daytime celebrations and mehendi ceremonies. Ready to ship.
+  Updated: 2026-10-16T15:05:53Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Salwar Suits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710140178.jpg?v=1762799655
+  - [36 - S](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta?variant=48285099425945)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta?variant=48285099458713)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta?variant=48285099491481)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta?variant=48285099524249)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/soft-pink-embroidered-salwar-suit-with-sheer-dupatta?variant=48285099557017)
+    Availability: Available
+- [Cream Floral Print Salwar Suit with Organza Dupatta - MOHAR](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta): Artistic cream salwar suit with hand-painted style floral prints and flowing organza dupatta. Perfect for daytime weddings and garden parties. Ready to ship.
+  Updated: 2026-10-16T15:05:53Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Salwar Suits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710136931.jpg?v=1762801360
+  - [36 - S](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta?variant=48285099262105)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta?variant=48285099294873)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta?variant=48285099327641)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta?variant=48285099360409)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/cream-floral-print-salwar-suit-with-organza-dupatta?variant=48285099393177)
+    Availability: Available
+- [Royal Blue Embellished Salwar Suit with Dupatta](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta): Regal royal blue salwar suit with hand-embroidered silver motifs and luxurious Banarasi dupatta. Perfect for destination weddings and premium occasions. Ready to ship.
+  Updated: 2026-09-01T00:56:06Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Salwar Suits
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710139269.jpg?v=1762801756
+  - [36 - S](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=48285099098265)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=48285099131033)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=48285099163801)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=48285099196569)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=48285099229337)
+    Availability: Available
+- [Midnight Blue Sequin Embellished Sherwani Set](https://www.moharbyec.com/products/midnight-blue-sequin-embellished-sherwani-set): Bold midnight blue sherwani with all-over sequin embellishments. Perfect for modern grooms and evening celebrations. Ready to ship.
+  Updated: 2026-10-12T13:35:13Z
+  Vendor: Ekaa Couture
+  Product Type: Sherwani
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710136399.jpg?v=1762809397
+  - [42 - XL](https://www.moharbyec.com/products/midnight-blue-sequin-embellished-sherwani-set?variant=48285098508441)
+    Availability: Not Available
+  - [44 - 2XL](https://www.moharbyec.com/products/midnight-blue-sequin-embellished-sherwani-set?variant=48285098541209)
+    Availability: Available
+- [Lavender Ombré Embroidered Sharara Set with Cape Sleeves](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves): Stunning lavender ombré sharara set with embroidered cape-sleeve blouse, palazzo pants & dupatta. Perfect for weddings, sangeet & celebrations. Ready to ship luxury indo-western wear.
+  Updated: 2026-09-01T00:56:09Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763257128413.jpg?v=1763310982
+  - [36 - S](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098180761)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098213529)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098246297)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098279065)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098311833)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/lavender-ombre-embroidered-sharara-set-with-cape-sleeves?variant=48285098344601)
+    Availability: Available
+- [Sage Green & Champagne Indo-Western Kurta Set with Fringe | MOHAR Luxury](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe): Exquisite embroidered indo-western kurta set in sage metallic green & champagne with fringe detailing. Perfect for sangeet, mehndi & wedding celebrations. Ready to ship in sizes S-2XL.
+  Updated: 2026-09-01T11:42:58Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763257135376.jpg?v=1763314046
+  - [36 - S / Sage Green](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284963897497)
+    Availability: Not Available
+  - [36 - S / Blush Pink](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284963930265)
+    Availability: Available
+  - [38 - M / Sage Green](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284963963033)
+    Availability: Not Available
+  - [38 - M / Blush Pink](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284963995801)
+    Availability: Available
+  - [40 - L / Sage Green](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964028569)
+    Availability: Not Available
+  - [40 - L / Blush Pink](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964061337)
+    Availability: Available
+  - [42 - XL / Sage Green](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964094105)
+    Availability: Not Available
+  - [42 - XL / Blush Pink](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964126873)
+    Availability: Available
+  - [44 - 2XL / Sage Green](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964159641)
+    Availability: Not Available
+  - [44 - 2XL / Blush Pink](https://www.moharbyec.com/products/sage-green-champagne-embroidered-indo-western-kurta-set-with-fringe?variant=48284964192409)
+    Availability: Available
+- [Black Velvet Ensemble with Sequined Jacket | MOHAR Luxury Indo-Western](https://www.moharbyec.com/products/black-velvet-ensemble-with-sequined-jacket): Stunning black velvet ensemble with sequined jacket featuring blue & green embellishments. Perfect for cocktail parties, galas & celebrations. Luxury indo-western fashion.
+  Updated: 2026-09-01T00:56:10Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763257133041.jpg?v=1763315681
+  - [36 - S](https://www.moharbyec.com/products/black-velvet-ensemble-with-sequined-jacket?variant=48285097689241)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/black-velvet-ensemble-with-sequined-jacket?variant=48285097722009)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/black-velvet-ensemble-with-sequined-jacket?variant=48285097754777)
+    Availability: Available
+- [Light Lavender Embroidered Asymmetric Kurta Set | MOHAR Indo-Western](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants): Elegant light lavender embroidered kurta set with asymmetric hemline, embellished waistband & palazzo pants. Perfect for sangeet, mehndi & wedding celebrations. Sizes S-3XL.
+  Updated: 2026-09-01T00:56:10Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763257133529.jpg?v=1763316429
+  - [36 - S](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097492633)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097525401)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097558169)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097590937)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097623705)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/light-lavender-embroidered-asymmetric-kurta-set-with-palazzo-pants?variant=48285097656473)
+    Availability: Available
+- [Deep Plum Embellished Indo-Western Set | MOHAR Crop Top & Draped Skirt](https://www.moharbyec.com/products/deep-plum-embellished-indo-western-crop-top-draped-skirt-set): Luxurious deep plum indo-western set with embellished crop top, statement waistband & draped skirt. Perfect for sangeet, weddings & festive celebrations. Sizes S-L.
+  Updated: 2026-09-01T00:56:10Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763475596946.jpg?v=1763495586
+  - [36 - S](https://www.moharbyec.com/products/deep-plum-embellished-indo-western-crop-top-draped-skirt-set?variant=48285097394329)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/deep-plum-embellished-indo-western-crop-top-draped-skirt-set?variant=48285097427097)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/deep-plum-embellished-indo-western-crop-top-draped-skirt-set?variant=48285097459865)
+    Availability: Available
+- [Navy Embellished Indo-Western Tunic & Pant Set | MOHAR](https://www.moharbyec.com/products/navy-embellished-indo-western-tunic-pant-set): Luxurious navy indo-western tunic and pant set with embellished yoke, statement tassels & asymmetric hem. Perfect for sangeet, weddings & festive celebrations.
+  Updated: 2026-09-01T00:56:11Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1763475595945.jpg?v=1763496075
+  - [36 - S](https://www.moharbyec.com/products/navy-embellished-indo-western-tunic-pant-set?variant=48285097296025)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/navy-embellished-indo-western-tunic-pant-set?variant=48285097328793)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/navy-embellished-indo-western-tunic-pant-set?variant=48285097361561)
+    Availability: Available
+- [Plum Purple Embellished Kaftan & Palazzo Set | MOHAR Indo-Western](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set): Luxurious plum purple kaftan tunic & palazzo set with silver embroidery. Perfect for sangeet, weddings & festive celebrations. Sizes S-L.
+  Updated: 2026-09-01T00:56:11Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1763604054848.jpg?v=1764433895
+  - [36 - S](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096247449)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096280217)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096312985)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096345753)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096378521)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-palazzo-set?variant=48285096411289)
+    Availability: Available
+- [Mauve Purple Bridal Lehenga - Silver Embroidered Designer Wedding Wear](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set): Stunning mauve purple bridal lehenga with intricate silver embroidery. Perfect for weddings, receptions & bridal celebrations. Complete designer set with embellished choli & dupatta.
+  Updated: 2026-10-14T05:12:57Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1763842370864.jpg?v=1764436111
+  - [36 - S / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694895923353)
+    Availability: Not Available
+  - [38 - M / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694895956121)
+    Availability: Available
+  - [40 - L / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694895988889)
+    Availability: Available
+  - [42 - XL / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694896021657)
+    Availability: Available
+  - [44 - 2XL / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694896054425)
+    Availability: Available
+  - [46 - 3XL / Purple](https://www.moharbyec.com/products/mauve-purple-embroidered-bridal-lehenga-set?variant=67694896087193)
+    Availability: Available
+- [Sage green silk sharara](https://www.moharbyec.com/products/copy-turquoise-silk-sharara): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:14Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/professional-photoshoot-front-pose_32e83cd5-aa87-4e64-9fdc-f69f11c92eea.png?v=1770987818
+  - [36 - S](https://www.moharbyec.com/products/copy-turquoise-silk-sharara?variant=48285094183065)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/copy-turquoise-silk-sharara?variant=48285094215833)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/copy-turquoise-silk-sharara?variant=48285094248601)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/copy-turquoise-silk-sharara?variant=48285094281369)
+    Availability: Available
+- [Orange silk sharara](https://www.moharbyec.com/products/orange-silk-sharara): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:14Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1770670911583.png?v=1771360005
+  - [38 - M](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960096409)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960129177)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960161945)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960194713)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960227481)
+    Availability: Available
+- [Cobalt Blue Sharara Set](https://www.moharbyec.com/products/cobalt-blue-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:17Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1770666745456.png?v=1773100692
+  - [38 - M](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093036185)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093068953)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093101721)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093134489)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093167257)
+    Availability: Available
+- [Pastel Aqua Sharara Set](https://www.moharbyec.com/products/pastel-aqua-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T11:45:15Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1770584738928.png?v=1771363036
+  - [36 - S](https://www.moharbyec.com/products/pastel-aqua-sharara-set?variant=48285092905113)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/pastel-aqua-sharara-set?variant=48285092937881)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/pastel-aqua-sharara-set?variant=48285092970649)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/pastel-aqua-sharara-set?variant=48285093003417)
+    Availability: Available
+- [Petal Rose Sharara Set](https://www.moharbyec.com/products/petal-rose-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:19Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_txx8p1txx8p1txx8.png?v=1771898302
+  - [38 - M](https://www.moharbyec.com/products/petal-rose-sharara-set?variant=48285092118681)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/petal-rose-sharara-set?variant=48285092151449)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/petal-rose-sharara-set?variant=48285092184217)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/petal-rose-sharara-set?variant=48285092216985)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/petal-rose-sharara-set?variant=48285092249753)
+    Availability: Available
+- [Rose Gold Sharara Set](https://www.moharbyec.com/products/rose-gold-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:19Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_ykhxl9ykhxl9ykhx.png?v=1771898211
+  - [38 - M](https://www.moharbyec.com/products/rose-gold-sharara-set?variant=48285091528857)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/rose-gold-sharara-set?variant=48285091561625)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/rose-gold-sharara-set?variant=48285091594393)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/rose-gold-sharara-set?variant=48285091627161)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/rose-gold-sharara-set?variant=48285091659929)
+    Availability: Available
+- [Blush Pink & Ruby Red Patiala Set](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T11:33:04Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_4ojzr94ojzr94ojz.png?v=1771898088
+  - [36 - S](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set?variant=48285091332249)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set?variant=48285091365017)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set?variant=48285091397785)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set?variant=48285091430553)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/blush-pink-ruby-red-patiala-set?variant=48285091463321)
+    Availability: Available
+- [Petal Pink Sharara Set](https://www.moharbyec.com/products/petal-pink-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-10-16T15:05:57Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_mwr78smwr78smwr7.png?v=1771897945
+  - [36 - S](https://www.moharbyec.com/products/petal-pink-sharara-set?variant=48285091201177)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/petal-pink-sharara-set?variant=48285091233945)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/petal-pink-sharara-set?variant=48285091266713)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/petal-pink-sharara-set?variant=48285091299481)
+    Availability: Available
+- [Gold & Bronze Sharara Set](https://www.moharbyec.com/products/gold-bronze-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:21Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_w0x6sjw0x6sjw0x6.png?v=1771897667
+  - [38 - M](https://www.moharbyec.com/products/gold-bronze-sharara-set?variant=48285090971801)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/gold-bronze-sharara-set?variant=48285091004569)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/gold-bronze-sharara-set?variant=48285091037337)
+    Availability: Available
+- [Royal Wine Embroidered Lehenga Choli Set](https://www.moharbyec.com/products/royal-wine-embroidered-lehenga-choli-set): Vibrant lemon yellow Haldi lehenga perfect for pre-wedding ceremonies. Exquisite traditional craftsmanship with contemporary design. Complete festive ensemble.
+  Updated: 2026-10-18T15:50:36Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1761567645138.jpg?v=1762301285
-  - [S](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing-copy?variant=45838928773273)
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_fp00a4fp00a4fp00.png?v=1772036938
+  - [36 - S / Red](https://www.moharbyec.com/products/royal-wine-embroidered-lehenga-choli-set?variant=67694895038617)
     Availability: Not Available
-  - [M](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing-copy?variant=45838928806041)
+  - [38 - M / Red](https://www.moharbyec.com/products/royal-wine-embroidered-lehenga-choli-set?variant=67694895071385)
     Availability: Not Available
-  - [L](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing-copy?variant=45838928838809)
+  - [40 - L / Red](https://www.moharbyec.com/products/royal-wine-embroidered-lehenga-choli-set?variant=67694895104153)
     Availability: Not Available
-  - [XL](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing-copy?variant=45838928871577)
+  - [42 - XL / Red](https://www.moharbyec.com/products/royal-wine-embroidered-lehenga-choli-set?variant=67694895136921)
     Availability: Not Available
-[List Continued](https://www.moharbyec.com/a/llms-agent/llms.txt?shop=ec-by-mg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTU5NTEzNzMxMjI1LCJsYXN0X3ZhbHVlIjoiODU1OTUxMzczMTIyNSJ9)
+- [Royal Plum Embroidered Lehenga Set with Peach Dupatta](https://www.moharbyec.com/products/royal-plum-embroidered-lehenga-set-with-peach-dupatta): Vibrant lemon yellow Haldi lehenga perfect for pre-wedding ceremonies. Exquisite traditional craftsmanship with contemporary design. Complete festive ensemble.
+  Updated: 2026-10-14T05:12:52Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_bg3537bg3537bg35.png?v=1772623644
+  - [38 - M / Purple](https://www.moharbyec.com/products/royal-plum-embroidered-lehenga-set-with-peach-dupatta?variant=67694893924505)
+    Availability: Available
+  - [40 - L / Purple](https://www.moharbyec.com/products/royal-plum-embroidered-lehenga-set-with-peach-dupatta?variant=67694893957273)
+    Availability: Available
+  - [42 - XL / Purple](https://www.moharbyec.com/products/royal-plum-embroidered-lehenga-set-with-peach-dupatta?variant=67694893990041)
+    Availability: Available
+- [Beige Embroidered Lehenga Set with Deep Green Organza Dupatta](https://www.moharbyec.com/products/beige-embroidered-lehenga-set-with-deep-green-organza-dupatta): Vibrant lemon yellow Haldi lehenga perfect for pre-wedding ceremonies. Exquisite traditional craftsmanship with contemporary design. Complete festive ensemble.
+  Updated: 2026-10-14T04:52:08Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_3yvkyc3yvkyc3yvk.png?v=1772567169
+  - [38 - M / Beige](https://www.moharbyec.com/products/beige-embroidered-lehenga-set-with-deep-green-organza-dupatta?variant=67694849196185)
+    Availability: Available
+  - [40 - L / Beige](https://www.moharbyec.com/products/beige-embroidered-lehenga-set-with-deep-green-organza-dupatta?variant=67694849228953)
+    Availability: Available
+  - [42 - XL / Beige](https://www.moharbyec.com/products/beige-embroidered-lehenga-set-with-deep-green-organza-dupatta?variant=67694849261721)
+    Availability: Available
+- [Rani Pink Heavy Embroidered Sharara Suit](https://www.moharbyec.com/products/rani-pink-heavy-embroidered-sharara-suit): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-10-16T15:05:57Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_e575ae85-d730-40cb-8917-05ee614e4f9c.jpg?v=1773347934
+  - [40 - L](https://www.moharbyec.com/products/rani-pink-heavy-embroidered-sharara-suit?variant=48284954951833)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/rani-pink-heavy-embroidered-sharara-suit?variant=48284954984601)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/rani-pink-heavy-embroidered-sharara-suit?variant=48284955017369)
+    Availability: Available
+- [Elegant Pale Yellow Embroidered Sharara Suit Set](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:25Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_pvv1jipvv1jipvv1.png?v=1773093177
+  - [40 - L](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090283673)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090316441)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090349209)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090381977)
+    Availability: Available
+  - [48 - 4XL](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090414745)
+    Availability: Available
+  - [50 - 5XL](https://www.moharbyec.com/products/elegant-pale-yellow-embroidered-sharara-suit-set?variant=48285090447513)
+    Availability: Available
+- [Pale Yellow Embroidered Sharara Set](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:25Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_143qev143qev143q.png?v=1773090752
+  - [38 - M](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set?variant=48285090119833)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set?variant=48285090152601)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set?variant=48285090185369)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set?variant=48285090218137)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/pale-yellow-embroidered-sharara-set?variant=48285090250905)
+    Availability: Available
+- [Ivory Embellished Sharara Suit Set](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T11:20:46Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_mslwsvmslwsvmslw.png?v=1772754386
+  - [42 - XL](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set?variant=48284954296473)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set?variant=48284954329241)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set?variant=48284954362009)
+    Availability: Available
+  - [48 - 4XL](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set?variant=48284954394777)
+    Availability: Available
+  - [50 - 5XL](https://www.moharbyec.com/products/ivory-embellished-sharara-suit-set?variant=48284954427545)
+    Availability: Available
+- [Champagne Gold Zari & Sequin Sharara Suit Set](https://www.moharbyec.com/products/champagne-gold-zari-sequin-sharara-suit-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
+  Updated: 2026-09-01T00:56:28Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Sharara Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Gemini_Generated_Image_bvb2s2bvb2s2bvb2.png?v=1773096311
+  - [36 - S](https://www.moharbyec.com/products/champagne-gold-zari-sequin-sharara-suit-set?variant=48285089071257)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/champagne-gold-zari-sequin-sharara-suit-set?variant=48285089104025)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/champagne-gold-zari-sequin-sharara-suit-set?variant=48285089136793)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/champagne-gold-zari-sequin-sharara-suit-set?variant=48285089169561)
+    Availability: Available
+- [Ivory & Gold Sequin Lehenga Set | Bridal Couture | MOHAR](https://www.moharbyec.com/products/ivory-fairytale-lehenga): Shop the Ivory & Gold Sequin Lehenga Set — spaghetti strap zardozi blouse, voluminous sequin skirt & necklace dupatta. Perfect for bridal receptions & sangeets.
+  Updated: 2026-10-21T03:15:36Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/ivory-gold-lehenga-three-quarter-pose.png?v=1774051597
+  - [38 - M / White](https://www.moharbyec.com/products/ivory-fairytale-lehenga?variant=67694893236377)
+    Availability: Available
+  - [40 - L / White](https://www.moharbyec.com/products/ivory-fairytale-lehenga?variant=67694893269145)
+    Availability: Available
+  - [42 - XL / White](https://www.moharbyec.com/products/ivory-fairytale-lehenga?variant=67694893301913)
+    Availability: Available
+  - [36 - S / White](https://www.moharbyec.com/products/ivory-fairytale-lehenga?variant=67694893334681)
+    Availability: Available
+- [Peacock Sangeet Lehenga Set | Bridal Couture | MOHAR](https://www.moharbyec.com/products/peacock-sangeet-lehenga): Shop the Peacock Sangeet Lehenga Set — Halter neck corset blouse with voluminous sequin skirt & dupatta. Perfect for bridal receptions & sangeets.
+  Updated: 2026-10-14T05:32:41Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/IMG_20260320_194125.png?v=1774579735
+  - [38 - M / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=48285088186521)
+    Availability: Not Available
+  - [40 - L / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=48285088219289)
+    Availability: Available
+  - [42 - XL / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=48285088252057)
+    Availability: Available
+  - [44 - 2XL / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=48285088284825)
+    Availability: Available
+  - [46 - 3XL / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=49007031451801)
+    Availability: Available
+  - [48 - 4XL / Pink](https://www.moharbyec.com/products/peacock-sangeet-lehenga?variant=49007031484569)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/floral-gown): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-09-01T00:56:30Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_861cc64a-9c8d-4fc4-8db6-2a0fff14d5d1.jpg?v=1775345180
+  - [36 - S](https://www.moharbyec.com/products/floral-gown?variant=48285087989913)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/floral-gown?variant=48285088022681)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/floral-gown?variant=48285088055449)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/floral-gown?variant=48285088088217)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/floral-gown?variant=48285088120985)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/floral-gown?variant=48285088153753)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/new): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-09-23T13:35:12Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_2f0bf14f-4bd9-4dfc-b056-a2a83a89285c.jpg?v=1775345866
+  - [36 - S](https://www.moharbyec.com/products/new?variant=48285087793305)
+    Availability: Not Available
+  - [38 - M](https://www.moharbyec.com/products/new?variant=48285087826073)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/new?variant=48285087858841)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/new?variant=48285087891609)
+    Availability: Not Available
+  - [44 - 2XL](https://www.moharbyec.com/products/new?variant=48285087924377)
+    Availability: Not Available
+  - [46 - 3XL](https://www.moharbyec.com/products/new?variant=48285087957145)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/new-1): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-09-01T00:56:31Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_90f8ac00-03e6-440d-873c-e9e45938ccfa.jpg?v=1775345724
+  - [36 - S](https://www.moharbyec.com/products/new-1?variant=48285087596697)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/new-1?variant=48285087629465)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/new-1?variant=48285087662233)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/new-1?variant=48285087695001)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/new-1?variant=48285087727769)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/new-1?variant=48285087760537)
+    Availability: Available
+- [BLUE SILK PATOLA CHANIYA CHOLI - GARBA Couture | MOHAR](https://www.moharbyec.com/products/blue-silk-patola-chaniya-choli-garba): Shop Garba Chaniya Choli— Halter neck corset blouse with voluminous sequin skirt & dupatta. Perfect for bridal receptions & sangeets.
+  Updated: 2026-10-17T15:20:42Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_3eddec3c-c6e2-4ef3-bbea-b3d98f8ee94d.jpg?v=1775346309
+  - [38 - M / Blue](https://www.moharbyec.com/products/blue-silk-patola-chaniya-choli-garba?variant=67694848835737)
+    Availability: Available
+  - [40 - L / Blue](https://www.moharbyec.com/products/blue-silk-patola-chaniya-choli-garba?variant=67694848868505)
+    Availability: Available
+  - [42 - XL / Blue](https://www.moharbyec.com/products/blue-silk-patola-chaniya-choli-garba?variant=67694848901273)
+    Availability: Available
+  - [36 - S / Blue](https://www.moharbyec.com/products/blue-silk-patola-chaniya-choli-garba?variant=67694848934041)
+    Availability: Available
+- [Peacock Sangeet Lehenga Set | Bridal Couture | MOHAR](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy): Shop the Peacock Sangeet Lehenga Set — Halter neck corset blouse with voluminous sequin skirt & dupatta. Perfect for bridal receptions & sangeets.
+  Updated: 2026-10-09T13:35:05Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_51cbcf50-bd83-4f24-85c8-c4116e853430.jpg?v=1775349528
+  - [38 - M](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy?variant=48285086646425)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy?variant=48285086679193)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy?variant=48285086711961)
+    Availability: Available
+  - [36 - S](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy?variant=48285086744729)
+    Availability: Available
+- [Karina Dusty Rose Lehenga](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1): Step into timeless elegance with this exquisite Dusty Rose Embroidered Lehenga Set — a celebration of old-world craftsmanship and contemporary bridal luxury, crafted for the modern bride who wears tradition with grace. Draped in a soft, romantic dusty rose hue, this three-piece set features an all-over thread and sequin embroidery across the full-flared skirt, with delicate floral motifs scattered throughout the fabric. The hem is adorned with a wide, heavily embellished scalloped border featuring intricate silver and pearl detailing — a breathtaking finishing touch that commands attention with every step. The sleeveless blouse is crafted with matching embroidery and a tie-back closure, offering an elegant silhouette. The set is completed with a flowing dusty rose dupatta, softly embroidered and bordered with the same signature lace trim — perfect for draping over the shoulder or as a veil. Details Style: Lehenga Choli Set with Dupatta Colour: Dusty Rose / Mauve Pink with Silver Embroidery: All-over thread, sequin & pearl work with scalloped hem border Blouse: Sleeveless, tie-back closure, matching embroidery Skirt: Full flared lehenga with scattered butti & wide embroidered scalloped border Dupatta: Dusty rose with embroidered motifs & lace border Occasion: Bridal, Wedding, Engagement, Sangeet, Reception, Festive Celebrations Care Instructions Dry clean only. Store in a breathable garment bag away from direct sunlight.
+  Updated: 2026-10-17T13:35:08Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_8c751064-1f61-4188-b68d-bb0581580aba.png?v=1776875663
+  - [36 - S](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085859993)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085892761)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085925529)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085958297)
+    Availability: Available
+- [Lavender Floral Lehenga](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy): Bloom into every celebration with this enchanting Lavender Floral Print Lehenga Set — a dreamy fusion of delicate embellishment and vibrant floral artistry, crafted for the woman who brings sunshine wherever she goes. The star of this set is the breathtaking white and yellow floral print organza skirt, featuring large, painterly yellow lily motifs that cascade across the voluminous flared silhouette — light, airy, and utterly romantic. Paired with a lavender embellished bralette-style blouse adorned with intricate pearl, sequin, and floral embroidery, finished with delicate dangling pearl embellishments at the hem for a touch of ethereal glamour. The set is completed with a sheer lavender dupatta, softly scattered with embellishments and finished with a satin border — perfect for draping gracefully over the shoulder. Details Style: Lehenga Choli Set with Dupatta Colour: Lavender & White with Yellow Floral Print Fabric: Organza Skirt with Embellished Blouse Blouse: Lavender bralette-style, pearl & sequin embroidery, dangling pearl hem embellishments, spaghetti straps Skirt: Full flared organza lehenga with large yellow lily floral print Dupatta: Sheer lavender with scattered embellishments & satin border Occasion: Sangeet, Mehendi, Engagement, Wedding Guest, Festive Celebrations, Summer Wedding Care Instructions Dry clean only. Store in a breathable garment bag away from direct sunlight.
+  Updated: 2026-09-01T00:56:36Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_a0072262-cc53-4712-92a8-05ef5ceae8bf.png?v=1776876081
+  - [36 - S](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy?variant=48285085728921)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy?variant=48285085761689)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy?variant=48285085794457)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy?variant=48285085827225)
+    Availability: Available
+- [Forest Green Embroidered Anarkali Gown with Dupatta](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta-copy): Stunning forest green Anarkali gown with intricate silver embroidery, heavily embellished bodice & dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
+  Updated: 2026-10-12T15:23:12Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-full-length.png?v=1777051894
+  - [36 - S](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta-copy?variant=48285085040793)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta-copy?variant=48285085073561)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta-copy?variant=48285085106329)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/forest-green-embroidered-anarkali-gown-with-dupatta-copy?variant=48285085139097)
+    Availability: Available
+- [Forest Green Embroidered Anarkali Gown with Dupatta](https://www.moharbyec.com/products/pichwai-position-print-embroidered-anarkali-jacket-with-skirt-copy): Stunning forest green Anarkali gown with intricate silver embroidery, heavily embellished bodice & dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
+  Updated: 2026-10-22T05:35:46Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-pose-sleeveless.png?v=1777053834
+  - [36 - S](https://www.moharbyec.com/products/pichwai-position-print-embroidered-anarkali-jacket-with-skirt-copy?variant=48285084778649)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/pichwai-position-print-embroidered-anarkali-jacket-with-skirt-copy?variant=48285084811417)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/pichwai-position-print-embroidered-anarkali-jacket-with-skirt-copy?variant=48285084844185)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/pichwai-position-print-embroidered-anarkali-jacket-with-skirt-copy?variant=48285084876953)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-10-16T15:06:00Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-pose-dark.png?v=1777054481
+  - [36 - S](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084582041)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084614809)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084647577)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084680345)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084713113)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/blush-floral-anarkali-gown-with-dupatta-gold-embellishments-copy?variant=48285084745881)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-09-01T11:23:57Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-full-length_a8cf5036-f69c-48fe-920d-411f38557ee6.png?v=1777191376
+  - [36 - S](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084385433)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084418201)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084450969)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084483737)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084516505)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/ivory-gold-zardozi-embroidered-anarkali-gown-with-dupatta-copy?variant=48285084549273)
+    Availability: Available
+- [Bridal Ghara Embroidery Lehenga](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy): Make a breathtaking entrance in this Bridal Ghara Embroidery Georgette Lehenga Set — a celebration of India's finest hand-embroidery traditions, reimagined for the contemporary bride.The Set Includes Choli (Blouse): Short-sleeve blouse in deep purple with a square neckline and back tie closure, densely embroidered with multicolor floral and paisley motifs in coral, pink, teal, gold, and cream thread work. Ghara Lehenga Skirt: Voluminous, full-flare georgette lehenga in a rich deep purple/wine base, completely covered in intricate multicolor thread embroidery featuring floral, botanical, and paisley patterns. Features a heavily embroidered statement border at the hem. Dupatta: Deep purple silk dupatta with dense gold and multicolor medallion embroidery in an elegant lattice pattern — perfect as a veil or shoulder drape. Fabric & CraftsmanshipCrafted in premium georgette with all-over hand-embroidered resham and zari work, this lehenga is a true heirloom piece. The rich jewel-toned palette and intricate detailing make it ideal for the bride who wants to stand out.Perfect ForBridal wear, wedding ceremonies, reception, sangeet, festive celebrations, and grand occasions.A MOHAR by EKAA COUTURE exclusive — where heritage craftsmanship meets modern luxury.
+  Updated: 2026-09-01T00:56:40Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/pose-3-seated-with-dupatta_b2c844ae-c9b3-4e6e-a63d-1c84aad3a8cf.png?v=1778168644
+  - [36 - S](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy?variant=48285083500697)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy?variant=48285083533465)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy?variant=48285083566233)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy?variant=48285083599001)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-10-16T15:06:00Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/pose-1-three-quarter-turn-with-dupatta_b1e54e57-c023-4540-992c-4f4dffaf0ef4.png?v=1778170524
+  - [36 - S](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285082910873)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285082943641)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285082976409)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285083009177)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285083041945)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/ivory-floral-anarkali-with-ombre-bandhani-dupatta-copy?variant=48285083074713)
+    Availability: Available
+- [Chartreuse Green Embroidered Anarkali Gown](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy): Stunning chartreuse green Anarkali gown with intricate silver embroidery and sheer sleeves. Perfect for weddings, sangeet & special occasions. Shop luxury Indian wear.
+  Updated: 2026-10-16T15:06:00Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Anarkali
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/pose-1-three-quarter-turn.png?v=1778170952
+  - [36 - S](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082517657)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082550425)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082583193)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082615961)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082648729)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/forest-green-banarasi-floral-gown-copy?variant=48285082681497)
+    Availability: Available
+- [Hot Pink Embroidered Lehenga Set | MOHAR Bridal Wear](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1): Shop this stunning hot pink & purple lehenga set with zardozi embroidery. Perfect for bridal, sangeet & festive occasions. Ready to ship from MOHAR.
+  Updated: 2026-09-01T00:56:43Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_a22d8534-2ed8-454e-87e2-9c473b93baa5.png?v=1778251661
+  - [36 - S](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1?variant=48285082353817)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1?variant=48285082386585)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1?variant=48285082419353)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1?variant=48285082452121)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/dusty-rose-silk-lehenga-copy-1?variant=48285082484889)
+    Availability: Available
+- [Powder Blue Floral Lehenga Set | MOHAR Bridal Wear](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy): Shop this powder blue 3D floral lehenga set with sheer dupatta. Perfect for mehendi, sangeet & garden weddings. Ready to ship from MOHAR.
+  Updated: 2026-09-01T00:56:44Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_475b79de-b24e-49e1-969f-b4d2ad432913.png?v=1778251661
+  - [36 - S](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy?variant=48285081862297)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy?variant=48285081895065)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy?variant=48285081927833)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy?variant=48285081960601)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/powder-blue-lotus-lehenga-set-copy?variant=48285081993369)
+    Availability: Available
+- [Powder Blue Floral Lehenga Set | MOHAR Bridal Wear](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy): Shop this powder blue 3D floral lehenga set with sheer dupatta. Perfect for mehendi, sangeet & garden weddings. Ready to ship from MOHAR.
+  Updated: 2026-09-01T00:56:44Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_8222d1f8-7350-4ee6-a7d9-e50590084c41.png?v=1778251661
+  - [36 - S](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy?variant=48285081665689)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy?variant=48285081698457)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy?variant=48285081731225)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy?variant=48285081763993)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/peach-banarasi-silk-lehenga-set-copy?variant=48285081796761)
+    Availability: Available
+- [Orange Benarasi Floral Jaal Lehenga | Festive Bridal Wear | MOHAR](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga): Shop this vibrant orange floral jaal lehenga with embroidered blouse & dupatta. Perfect for mehendi, haldi, sangeet & festive celebrations. Ready to ship from MOHAR.
+  Updated: 2026-10-14T04:51:06Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_8ad00a38-7abd-4a57-8499-4f2c76e14e14.png?v=1778251660
+  - [36 - S / Orange](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga?variant=48285081338009)
+    Availability: Available
+  - [38 - M / Orange](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga?variant=48285081370777)
+    Availability: Available
+  - [40 - L / Orange](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga?variant=48285081403545)
+    Availability: Available
+  - [42 - XL / Orange](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga?variant=48285081436313)
+    Availability: Available
+  - [44 - 2XL / Orange](https://www.moharbyec.com/products/orange-benarasi-floral-jaal-lehenga?variant=48285081469081)
+    Availability: Available
+- [Dusty Rose Silk Embroidered Lehenga Set | Silver Zardozi Bridal Wear | MOHAR](https://www.moharbyec.com/products/dusty-rose-silk-embroidered-lehenga-set): Shop this dusty rose silk lehenga with silver zardozi embroidery, pearl blouse & embroidered dupatta. Perfect for reception, engagement & weddings. Ready to ship from MOHAR.
+  Updated: 2026-10-14T13:35:30Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/dusty-rose-lehenga-front-pose.png?v=1778358616
+  - [36 - S / Pink](https://www.moharbyec.com/products/dusty-rose-silk-embroidered-lehenga-set?variant=48285080944793)
+    Availability: Available
+  - [38 - M / Pink](https://www.moharbyec.com/products/dusty-rose-silk-embroidered-lehenga-set?variant=48285080977561)
+    Availability: Available
+  - [40 - L / Pink](https://www.moharbyec.com/products/dusty-rose-silk-embroidered-lehenga-set?variant=48285081010329)
+    Availability: Available
+- [Plum Purple Embellished Kaftan & Palazzo Set | MOHAR Indo-Western](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-tunic-palazzo-set-copy): Luxurious plum purple kaftan tunic & palazzo set with silver embroidery. Perfect for sangeet, weddings & festive celebrations. Sizes S-L.
+  Updated: 2026-09-01T00:56:46Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_1d39f20b-81f6-4bae-ae85-d668c64675b0.png?v=1778626102
+  - [36 - S](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-tunic-palazzo-set-copy?variant=48285080518809)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-tunic-palazzo-set-copy?variant=48285080551577)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-tunic-palazzo-set-copy?variant=48285080584345)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/plum-purple-embellished-kaftan-tunic-palazzo-set-copy?variant=48285080617113)
+    Availability: Available
+- [Plum Purple Embellished Kaftan & Palazzo Set | MOHAR Indo-Western](https://www.moharbyec.com/products/chocolate-brown-backless-indowestern-set-copy): Luxurious plum purple kaftan tunic & palazzo set with silver embroidery. Perfect for sangeet, weddings & festive celebrations. Sizes S-L.
+  Updated: 2026-09-01T00:56:46Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_52a84ad5-4457-4221-9e4c-74157eb24271.png?v=1778626102
+  - [36 - S](https://www.moharbyec.com/products/chocolate-brown-backless-indowestern-set-copy?variant=48285080387737)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/chocolate-brown-backless-indowestern-set-copy?variant=48285080420505)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/chocolate-brown-backless-indowestern-set-copy?variant=48285080453273)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/chocolate-brown-backless-indowestern-set-copy?variant=48285080486041)
+    Availability: Available
+- [Sage Gold Lehenga Set | Zardozi Bridal Wear | MOHAR](https://www.moharbyec.com/products/sage-gold-lehenga-set): Shop this sage gold lehenga set with zardozi embroidery, sequin kurta & embroidered dupatta. Perfect for mehendi, sangeet & weddings. Ready to ship from MOHAR.
+  Updated: 2026-10-14T05:12:12Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_3411f529-8f6f-49c6-ae05-cded70ee2ddc.png?v=1778712555
+  - [36 - S / Green](https://www.moharbyec.com/products/sage-gold-lehenga-set?variant=48285080223897)
+    Availability: Available
+  - [38 - M / Green](https://www.moharbyec.com/products/sage-gold-lehenga-set?variant=48285080256665)
+    Availability: Available
+  - [40 - L / Green](https://www.moharbyec.com/products/sage-gold-lehenga-set?variant=48285080289433)
+    Availability: Available
+  - [42 - XL / Green](https://www.moharbyec.com/products/sage-gold-lehenga-set?variant=48285080322201)
+    Availability: Available
+  - [44 - 2XL / Green](https://www.moharbyec.com/products/sage-gold-lehenga-set?variant=48285080354969)
+    Availability: Available
+- [Midnight Navy Crystal Embellished Suit Set](https://www.moharbyec.com/products/midnight-blue-sequin-embellished-sherwani-set-copy): Bold midnight blue sherwani with all-over sequin embellishments. Perfect for modern grooms and evening celebrations. Ready to ship.
+  Updated: 2026-09-01T00:56:47Z
+  Vendor: Ekaa Couture
+  Product Type: Sherwani
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_7888c797-b8a8-40ed-840a-5cd198ccc31d.png?v=1778846845
+- [Ivory Embroidered Sherwani Set](https://www.moharbyec.com/products/midnight-navy-crystal-embellished-suit-set-copy): Bold midnight blue sherwani with all-over sequin embellishments. Perfect for modern grooms and evening celebrations. Ready to ship.
+  Updated: 2026-09-01T00:56:47Z
+  Vendor: Ekaa Couture
+  Product Type: Sherwani
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_cf7fa350-e146-455e-be9a-38fb02ab6ae2.png?v=1778848048
+  - [42 - XL](https://www.moharbyec.com/products/midnight-navy-crystal-embellished-suit-set-copy?variant=48285080125593)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/midnight-navy-crystal-embellished-suit-set-copy?variant=48285080158361)
+    Availability: Available
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-26T19:02:18Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_c6e03e6b-852b-4ac3-8b0b-7ff48e64b9d4.png?v=1778983128
+  - [38 - M](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta-copy?variant=48285079928985)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta-copy?variant=48285079961753)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/navy-blue-sequin-embroidered-kurta-copy?variant=48285079994521)
+    Availability: Not Available
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/y): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T11:53:08Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view-male-model-in-ombre-kurta.png?v=1779047887
+  - [38 - M](https://www.moharbyec.com/products/y?variant=48285079765145)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/y?variant=48285079797913)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/y?variant=48285079830681)
+    Availability: Available
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/ombre-bandhini-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-10-11T13:35:07Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_cc550666-c909-4d1f-9d53-825436fa75d1.png?v=1779048027
+  - [36 - S](https://www.moharbyec.com/products/ombre-bandhini-kurta-set-copy?variant=67663544156313)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/ombre-bandhini-kurta-set-copy?variant=48285079666841)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/ombre-bandhini-kurta-set-copy?variant=48285079699609)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/ombre-bandhini-kurta-set-copy?variant=48285079732377)
+    Availability: Not Available
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/golden-silk-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:48Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_13915cf0-7852-4923-a732-51a48c1ccee0.png?v=1779048268
+  - [38 - M](https://www.moharbyec.com/products/golden-silk-kurta-set-copy?variant=48285079568537)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/golden-silk-kurta-set-copy?variant=48285079601305)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/golden-silk-kurta-set-copy?variant=48285079634073)
+    Availability: Available
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/teal-embroidered-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:48Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_69dbd2e5-b98a-49d1-ab52-e091f404fc81.png?v=1779048558
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/pink-water-sequin-kurta-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:48Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_5bef5d68-fd32-4fea-977e-9b4d57c21dd4.png?v=1779048838
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/purple-sequin-chikankari-kurta-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T11:25:47Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_8c19fa6a-c04c-4ba4-8dfa-f82792e9c775.png?v=1779049024
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/saffron-butti-print-kurta-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:49Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_7a2ba7ce-05d8-4fb2-9da2-f545bb81f8a9.png?v=1779049224
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/maroon-printed-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:49Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_b0ef2489-3f86-41b3-9165-7e37ebd16a1e.png?v=1779049370
+- [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/wine-brocade-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
+  Updated: 2026-09-01T00:56:49Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_2030f79e-d6c6-4088-b246-f6c4a30c35d7.png?v=1779049491
+  - [40 - L](https://www.moharbyec.com/products/wine-brocade-kurta-set-copy?variant=48285079306393)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/wine-brocade-kurta-set-copy?variant=48285079339161)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/wine-brocade-kurta-set-copy?variant=48285079371929)
+    Availability: Available
+- [Floral Embroidered Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/floral-embroidered-lehenga-set): Shop the Floral Embroidered Lehenga Set by MOHAR — a 3-piece bridal ensemble featuring a hand-embroidered choli, printed lehenga, and dupatta. Perfect for weddings & festive occasions.
+  Updated: 2026-10-18T15:44:24Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_02579eed-146a-4a0a-bdea-a2d6b36377d0.png?v=1779489401
+  - [36 - S / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078782105)
+    Availability: Not Available
+  - [38 - M / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078814873)
+    Availability: Not Available
+  - [40 - L / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078847641)
+    Availability: Not Available
+  - [42 - XL / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078880409)
+    Availability: Not Available
+- [Dark Pink Embellished Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/dark-pink-embellished-lehenga): Shop the Dark Pink Embellished Lehenga Set by MOHAR — a 3-piece bridal set with sequin mirror-work skirt, zardozi blouse & dupatta. Perfect for weddings & sangeets.
+  Updated: 2026-10-14T04:51:02Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_184d7219-15bc-4121-b76f-24bd76ae0662.png?v=1780066122
+  - [36 - S / Pink](https://www.moharbyec.com/products/dark-pink-embellished-lehenga?variant=48284941713561)
+    Availability: Available
+  - [38 - M / Pink](https://www.moharbyec.com/products/dark-pink-embellished-lehenga?variant=48284941746329)
+    Availability: Available
+  - [40 - L / Pink](https://www.moharbyec.com/products/dark-pink-embellished-lehenga?variant=48284941779097)
+    Availability: Available
+  - [42 - XL / Pink](https://www.moharbyec.com/products/dark-pink-embellished-lehenga?variant=48284941811865)
+    Availability: Available
+- [Floral Embroidered Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/dark-pink-embellished-lehenga-copy): Shop the Floral Embroidered Lehenga Set by MOHAR — a 3-piece bridal ensemble featuring a hand-embroidered choli, printed lehenga, and dupatta. Perfect for weddings & festive occasions.
+  Updated: 2026-09-12T04:51:25Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_f6052f9d-52cd-48da-8654-084d8237e763.png?v=1783103017
+  - [36 - S](https://www.moharbyec.com/products/dark-pink-embellished-lehenga-copy?variant=48285078257817)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/dark-pink-embellished-lehenga-copy?variant=48285078290585)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/dark-pink-embellished-lehenga-copy?variant=48285078323353)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/dark-pink-embellished-lehenga-copy?variant=48285078356121)
+    Availability: Available
+- [Purple Embroidered Bridal Lehenga Set | MOHAR](https://www.moharbyec.com/products/purple-embroidered-bridal-lehenga): Shop the Purple Embroidered Bridal Lehenga Set by MOHAR — 3-piece ensemble with zardozi skirt, mirror-work blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-09-01T00:56:52Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_e7a622fd-f4a8-4ab0-bb47-cd0c73287763.png?v=1780067596
+  - [36 - S](https://www.moharbyec.com/products/purple-embroidered-bridal-lehenga?variant=48285077733529)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/purple-embroidered-bridal-lehenga?variant=48285077766297)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/purple-embroidered-bridal-lehenga?variant=48285077799065)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/purple-embroidered-bridal-lehenga?variant=48285077831833)
+    Availability: Available
+- [White Ombre Sequin Kurta Set | MOHAR](https://www.moharbyec.com/products/black-embroidered-kurta-set-copy): Shop the White Ombre Sequin Kurta Set by MOHAR — white-to-grey ombre kurta with silver mirror embroidery and fitted white churidar. Perfect for Indian weddings.
+  Updated: 2026-09-01T11:15:53Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_a34837f9-9919-4080-835c-dad5c0d2d914.png?v=1780847117
+- [Yellow Chikankari Kurta Set | MOHAR](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy): Shop the Yellow Chikankari Kurta Set by MOHAR — vibrant yellow kurta with gold thread embroidery and fitted white churidar. Perfect for Indian wedding guests.
+  Updated: 2026-10-16T15:06:03Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_b2ae50e9-970f-40d0-b37d-30f006dc1818.png?v=1780847345
+  - [40 - L](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285076979865)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285077012633)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285077045401)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285077078169)
+    Availability: Available
+  - [48 - 4XL](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285077110937)
+    Availability: Available
+- [Teal Geometric Print Kurta Set | MOHAR](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy): Shop the Teal Geometric Print Kurta Set by MOHAR — white kurta with teal and grey medallion print and fitted white churidar. Perfect for Indian wedding guests.
+  Updated: 2026-10-11T19:20:54Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_6878b159-f9d8-425d-b019-0c8ddec498ca.png?v=1780847542
+  - [40 - L](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076881561)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076914329)
+    Availability: Not Available
+  - [44 - 2XL](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076947097)
+    Availability: Not Available
+- [Rose Gold Bronze Bridal Lehenga Set](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set-copy): Stunning rose gold & bronze bridal lehenga with heavy gold embroidery & mirror work. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for weddings!
+  Updated: 2026-09-01T00:56:54Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_08131fbe-9aa4-47c1-bac7-ff90286180e3.png?v=1781206284
+  - [36 - S](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set-copy?variant=48285076717721)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set-copy?variant=48285076750489)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set-copy?variant=48285076783257)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set-copy?variant=48285076816025)
+    Availability: Available
+- [Rose Gold Bronze Bridal Lehenga Set](https://www.moharbyec.com/products/maroon-gold-bridal-lehenga-set-copy-1): Stunning rose gold & bronze bridal lehenga with heavy gold embroidery & mirror work. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for weddings!
+  Updated: 2026-09-07T16:43:51Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/red-bridal-lehenga-editorial.png?v=1781229125
+  - [36 - S](https://www.moharbyec.com/products/maroon-gold-bridal-lehenga-set-copy-1?variant=48284939780249)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/maroon-gold-bridal-lehenga-set-copy-1?variant=48284939813017)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/maroon-gold-bridal-lehenga-set-copy-1?variant=48284939845785)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/maroon-gold-bridal-lehenga-set-copy-1?variant=48284939878553)
+    Availability: Available
+- [Rose Gold Bronze Bridal Lehenga Set](https://www.moharbyec.com/products/crimson-gold-bridal-lehenga-copy): Stunning rose gold & bronze bridal lehenga with heavy gold embroidery & mirror work. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for weddings!
+  Updated: 2026-09-07T16:41:51Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/red-bridal-lehenga-fashion-shoot.png?v=1781229300
+  - [36 - S](https://www.moharbyec.com/products/crimson-gold-bridal-lehenga-copy?variant=48284939649177)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/crimson-gold-bridal-lehenga-copy?variant=48284939681945)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/crimson-gold-bridal-lehenga-copy?variant=48284939714713)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/crimson-gold-bridal-lehenga-copy?variant=48284939747481)
+    Availability: Available
+- [Rose Gold Bronze Bridal Lehenga Set](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy): Stunning rose gold & bronze bridal lehenga with heavy gold embroidery & mirror work. Complete set with embellished blouse & dupatta. Premium silk blend. Perfect for weddings!
+  Updated: 2026-09-08T13:35:17Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_3224c9c4-7e6b-4213-aa1f-8ecfd77939ad.png?v=1781229988
+  - [36 - S](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy?variant=48285076422809)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy?variant=48285076455577)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy?variant=48285076488345)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy?variant=48285076521113)
+    Availability: Available
+- [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-09-01T00:56:55Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/tuscany-outdoor-fashion-shoot.png?v=1781754533
+  - [36 - S](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939255961)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939288729)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939321497)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939354265)
+    Availability: Available
+- [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-09-01T00:56:56Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_05dca702-7574-42ed-9205-6cd123d6fe7c.png?v=1781755660
+  - [36 - S](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy?variant=48284938862745)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy?variant=48284938895513)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy?variant=48284938928281)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy?variant=48284938961049)
+    Availability: Available
+- [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-10-09T22:42:40Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_a428118e-0fc3-445e-9ae0-efacd677af24.png?v=1781657860
+  - [36 - S](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=48285075144857)
+    Availability: Not Available
+  - [38 - M](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=48285075177625)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=48285075210393)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=48285075243161)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=48285075275929)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy-1?variant=67648094142617)
+    Availability: Available
+- [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/pink-purple-lehenga-set-copy): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-09-01T00:56:56Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_b390d07e-3af9-45b9-bd44-f3118beb2987.png?v=1782584975
+  - [36 - S](https://www.moharbyec.com/products/pink-purple-lehenga-set-copy?variant=48285074358425)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/pink-purple-lehenga-set-copy?variant=48285074391193)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/pink-purple-lehenga-set-copy?variant=48285074423961)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/pink-purple-lehenga-set-copy?variant=48285074456729)
+    Availability: Available
+- [Navy Embroidered Kurta Set for Men | MOHAR](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2): Shop this navy blue embroidered kurta set for men at MOHAR. Features tonal diamond-paisley embroidery, mandarin collar, and white pajama — ideal for festive and wedding occasions.
+  Updated: 2026-10-11T18:07:49Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_3a26d897-efc3-49a1-bb2a-c4572bb02567.png?v=1782686935
+  - [38 - M](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303328559257)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303337046169)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303337078937)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303337111705)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303337144473)
+    Availability: Available
+  - [48 - 4XL](https://www.moharbyec.com/products/teal-geometric-print-kurta-copy-2?variant=48303337177241)
+    Availability: Available
+- [Jacquard Silk Kurta Set for Men | MOHAR](https://www.moharbyec.com/products/jacquard-silk-kurta-set): Shop this mauve Jacquard silk kurta set for men at MOHAR. Features a geometric woven pattern, mandarin collar, and white straight-cut pajama — ideal for Eid and festive occasions.
+  Updated: 2026-09-01T11:32:10Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_0892d942-591d-43ac-8239-880f38574827.png?v=1782687381
+  - [42 - XL](https://www.moharbyec.com/products/jacquard-silk-kurta-set?variant=48285073539225)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/jacquard-silk-kurta-set?variant=48285073571993)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/jacquard-silk-kurta-set?variant=48303349334169)
+    Availability: Available
+- [Magenta Banarasi Silk Kurta Set for Men | MOHAR](https://www.moharbyec.com/products/magenta-banarasi-silk-kurta-set): Shop this deep magenta Banarasi silk kurta set for men at MOHAR. Features gold zari motifs, woven neckline, forest-scene hem border, and white pajama — perfect for weddings and festive occasions.
+  Updated: 2026-10-11T17:57:34Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/close-up-detail_a2a62672-9dbe-440d-b97d-03ca58734124.png?v=1782687668
+  - [40 - L](https://www.moharbyec.com/products/magenta-banarasi-silk-kurta-set?variant=48285073408153)
+    Availability: Not Available
+  - [42 - XL](https://www.moharbyec.com/products/magenta-banarasi-silk-kurta-set?variant=48285073440921)
+    Availability: Not Available
+- [Blush Ombre Jacquard Kurta Set | MOHAR](https://www.moharbyec.com/products/blush-ombre-jacquard-kurta-set): Shop the Blush Ombre Jacquard Kurta Set by MOHAR — a silk-blend kurta with geometric embroidery paired with a white cotton pajama. Perfect for festive occasions.
+  Updated: 2026-10-11T17:54:13Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_ae73ebad-ed02-47e0-b555-ba238f6f2656.png?v=1782687824
+  - [42 - XL](https://www.moharbyec.com/products/blush-ombre-jacquard-kurta-set?variant=48285073342617)
+    Availability: Not Available
+  - [44 - 2XL](https://www.moharbyec.com/products/blush-ombre-jacquard-kurta-set?variant=48285073375385)
+    Availability: Available
+- [Royal Purple Banarasi Kurta Set | MOHAR](https://www.moharbyec.com/products/royal-purple-banarasi-kurta-set): Shop the Royal Purple Banarasi Kurta Set by MOHAR — knee-length silk-blend kurta with gold bootis and Banarasi border, paired with straight white pants.
+  Updated: 2026-10-11T17:42:19Z
+  Vendor: Ekaa Couture
+  Product Type: Men's Ethnic Wear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_2b489c1d-d6f8-4189-88a2-66f6b10c4215.png?v=1782688046
+  - [36 - S](https://www.moharbyec.com/products/royal-purple-banarasi-kurta-set?variant=67670866821273)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/royal-purple-banarasi-kurta-set?variant=48303384166553)
+    Availability: Not Available
+  - [40 - L](https://www.moharbyec.com/products/royal-purple-banarasi-kurta-set?variant=48285073211545)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/royal-purple-banarasi-kurta-set?variant=48285073244313)
+    Availability: Not Available
+- [Hot Pink Banarasi Corset Set with Wide Leg Pants | MOHAR](https://www.moharbyec.com/products/hot-pink-banarasi-corset-set-copy): Shop this hot pink Banarasi corset top and wide-leg pants set at MOHAR. Gold zari weave, structured boning, and necklace dupatta — perfect for sangeet and reception wear.
+  Updated: 2026-09-13T15:17:12Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_b3d77301-42dc-4a7b-9a02-9e658d62ff7f.png?v=1783361254
+  - [38 - M](https://www.moharbyec.com/products/hot-pink-banarasi-corset-set-copy?variant=48285824450713)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/hot-pink-banarasi-corset-set-copy?variant=48285824483481)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/hot-pink-banarasi-corset-set-copy?variant=48285824516249)
+    Availability: Available
+- [Hot Pink Banarasi Corset Set with Wide Leg Pants | MOHAR](https://www.moharbyec.com/products/dusty-rose-sequin-palazzo-set-copy): Shop this hot pink Banarasi corset top and wide-leg pants set at MOHAR. Gold zari weave, structured boning, and necklace dupatta — perfect for sangeet and reception wear.
+  Updated: 2026-09-13T16:18:53Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Indo Western
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-pose-champagne-gold-palazzo-set.png?v=1783366012
+  - [42 - XL](https://www.moharbyec.com/products/dusty-rose-sequin-palazzo-set-copy?variant=48287970525337)
+    Availability: Available
+  - [44 - 2XL](https://www.moharbyec.com/products/dusty-rose-sequin-palazzo-set-copy?variant=49017482084505)
+    Availability: Available
+  - [46 - 3XL](https://www.moharbyec.com/products/dusty-rose-sequin-palazzo-set-copy?variant=49017482117273)
+    Availability: Available
+- [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy-1): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
+  Updated: 2026-09-01T00:56:59Z
+  Vendor: MOHAR by EKAA COUTURE
+  Product Type: Lehenga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_77b7586f-c8d4-49bc-b652-b4dade26c243.png?v=1783377397
+  - [36 - S](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy-1?variant=48288627097753)
+    Availability: Available
+  - [38 - M](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy-1?variant=48288627130521)
+    Availability: Available
+  - [40 - L](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy-1?variant=48288627163289)
+    Availability: Available
+  - [42 - XL](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy-1?variant=48288627196057)
+    Availability: Available
+[List Continued](https://www.moharbyec.com/a/llms-agent/llms.txt?shop=ec-by-mg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzk5OTg5MTA0NzkzLCJsYXN0X3ZhbHVlIjoiODc5OTk4OTEwNDc5MyJ9)
 
 ## Collections
 
 - [Best ](https://www.moharbyec.com/collections/best-)
-  Updated: 2026-04-01T19:08:00Z
-  Total Products: 17
-- [Boutique women's clothing in USA | MOHAR](https://www.moharbyec.com/collections/women): Discover your perfect style at MOHAR, the top boutique for women's clothing in the USA. Explore a curated collection of trendy and timeless fashion pieces, designed to elevate your wardrobe. Shop now to experience premium quality and impeccable style.
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 1209
-- [Indian Lehenga Choli in USA | MOHAR](https://www.moharbyec.com/collections/lehenga): Elevate your style with MOHAR's exquisite collection of Indian Lehenga Choli in the USA. Discover a fusion of tradition and contemporary trends, handcrafted to perfection. Step into the spotlight with our enchanting designs and make heads turn at every event. Shop now!
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 719
-- [Indian Traditional Saree in USA | MOHAR](https://www.moharbyec.com/collections/saree): Experience the grace and beauty of Indian Traditional Sarees at MOHAR - your ultimate destination for ethnic wear in the USA. Browse our handpicked collection of exquisite sarees, each a masterpiece of craftsmanship. Step into the world of elegance and shop now!
-  Updated: 2026-04-01T19:08:02Z
-  Total Products: 58
-- [Indian Men's Boutique in USA | MOHAR](https://www.moharbyec.com/collections/men): Discover the epitome of style at MOHAR, the finest Indian Men's Boutique in the USA. Explore our curated collection of traditional and contemporary menswear, exuding elegance and sophistication. From classic sherwanis to modern kurta sets, find the perfect ensemble to elevate your look.
-  Updated: 2026-05-17T20:28:08Z
-  Total Products: 138
+  Updated: 2026-10-15T09:56:05Z
+  Total Products: 22
+- [Women](https://www.moharbyec.com/collections/women): Discover your perfect style at MOHAR, the top boutique for women's clothing in the USA. Explore a curated collection of trendy and timeless fashion pieces, designed to elevate your wardrobe. Shop now to experience premium quality and impeccable style.
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 1128
+- [Lehenga Choli](https://www.moharbyec.com/collections/lehenga): Elevate your style with MOHAR's exquisite collection of Indian Lehenga Choli in the USA. Discover a fusion of tradition and contemporary trends, handcrafted to perfection. Step into the spotlight with our enchanting designs and make heads turn at every event. Shop now!
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 513
+- [Saree](https://www.moharbyec.com/collections/saree): Experience the grace and beauty of Indian Traditional Sarees at MOHAR - your ultimate destination for ethnic wear in the USA. Browse our handpicked collection of exquisite sarees, each a masterpiece of craftsmanship. Step into the world of elegance and shop now!
+  Updated: 2026-07-10T20:50:32Z
+  Total Products: 57
+- [Men](https://www.moharbyec.com/collections/men): Discover the epitome of style at MOHAR, the finest Indian Men's Boutique in the USA. Explore our curated collection of traditional and contemporary menswear, exuding elegance and sophistication. From classic sherwanis to modern kurta sets, find the perfect ensemble to elevate your look.
+  Updated: 2026-10-21T11:06:53Z
+  Total Products: 174
 - [Children](https://www.moharbyec.com/collections/children)
   Updated: 2026-01-29T22:41:22Z
   Total Products: 0
 - [Anarkali / Gown](https://www.moharbyec.com/collections/anarkali-gown)
-  Updated: 2026-05-14T09:11:46Z
-  Total Products: 123
-- [Year End  in USA | MOHAR](https://www.moharbyec.com/collections/): Celebrate the Year End  in the USA with MOHAR! Enjoy exclusive discounts on our captivating collection of Indian fashion and jewelry. Embrace the elegance of ethnic wear and exquisite designs. Don't miss this limited-time opportunity to elevate your style and save big.
-  Updated: 2026-05-07T11:12:31Z
-  Total Products: 87
-- [Indian Readymade Blouse in USA | MOHAR](https://www.moharbyec.com/collections/blouse): Experience the perfect fit with MOHAR's Indian Readymade Blouse collection in the USA. Explore our handpicked designs, tailored to perfection for a flawless look. From classic to contemporary, find the ideal blouse to complement your sarees or lehengas. Shop now!
-  Updated: 2026-04-01T19:08:02Z
-  Total Products: 74
-- [Indian Gown in USA | MOHAR](https://www.moharbyec.com/collections/gown): Step into the spotlight with MOHAR's exquisite collection of Indian Gowns in the USA. Explore our handpicked designs, blending tradition and contemporary flair. From opulent to minimalist, find the perfect gown to make a statement at any event. Shop now!
-  Updated: 2026-04-01T19:08:03Z
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 149
+- [](https://www.moharbyec.com/collections/): Celebrate the Year End  in the USA with MOHAR! Enjoy exclusive discounts on our captivating collection of Indian fashion and jewelry. Embrace the elegance of ethnic wear and exquisite designs. Don't miss this limited-time opportunity to elevate your style and save big.
+  Updated: 2026-10-15T10:01:05Z
+  Total Products: 85
+- [Blouse](https://www.moharbyec.com/collections/blouse): Experience the perfect fit with MOHAR's Indian Readymade Blouse collection in the USA. Explore our handpicked designs, tailored to perfection for a flawless look. From classic to contemporary, find the ideal blouse to complement your sarees or lehengas. Shop now!
+  Updated: 2026-07-10T20:45:31Z
+  Total Products: 73
+- [Gown](https://www.moharbyec.com/collections/gown): Step into the spotlight with MOHAR's exquisite collection of Indian Gowns in the USA. Explore our handpicked designs, blending tradition and contemporary flair. From opulent to minimalist, find the perfect gown to make a statement at any event. Shop now!
+  Updated: 2026-10-15T10:03:15Z
   Total Products: 108
 - [Skirt](https://www.moharbyec.com/collections/skirt)
-  Updated: 2026-01-29T22:41:22Z
-  Total Products: 4
-- [Ready to Ship Indian boutique jewelry in USA | MOHAR](https://www.moharbyec.com/collections/ready-to-ship): Adorn yourself with the brilliance of Ready-to-Ship Indian Boutique Jewelry from MOHAR in the USA. Explore our curated collection, featuring exquisite designs handcrafted to perfection. Shop now and experience express delivery.
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 763
-- [Indian boutique Lehenga in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-2): Step into a world of elegance with MOHAR's Indian Boutique Lehenga collection in the USA. Discover exquisite designs and timeless craftsmanship, tailored to perfection. Elevate your style with our stunning lehengas, perfect for weddings and special occasions. Shop now!
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 689
-- [Diwali Diya](https://www.moharbyec.com/collections/diwali-diya): We bring designer diyas for Diwali. Use these with wax tea lights or battery operated lights. Bring the festive celebration to your house!
-  Updated: 2026-04-01T19:08:03Z
-  Total Products: 5
-- [Indian fashion's Designer Masks in USA | MOHAR](https://www.moharbyec.com/collections/stylist-mask): Stay stylish and safe with MOHAR's Indian Fashion's Designer Masks in the USA. Discover our collection of beautifully crafted masks, blending tradition and modernity. Embrace the elegance of Indian fashion while protecting yourself and others. Shop now!
-  Updated: 2026-04-01T19:08:03Z
-  Total Products: 25
-- [Indian jewelry online | USA | MOHAR](https://www.moharbyec.com/collections/jewelry): Explore the brilliance of Indian Jewelry online in the USA at MOHAR. Discover our handpicked collection, showcasing exquisite designs inspired by India's cultural heritage. From stunning necklaces to elegant earrings, adorn yourself with timeless beauty. Shop now!
-  Updated: 2026-04-01T19:08:03Z
-  Total Products: 138
-- [Black Friday  - 60% off in cart in USA | MOHAR](https://www.moharbyec.com/collections/black-friday-): Don't miss out on the incredible Black Friday  at MOHAR in the USA! Enjoy a massive 60% off in your cart on our curated collection of exquisite fashion and jewelry. Embrace the finest craftsmanship and style at unbeatable prices. Shop now!
-  Updated: 2026-04-01T19:08:04Z
-  Total Products: 80
-- [store collection](https://www.moharbyec.com/collections/store-collection): All Store inventory
-  Updated: 2026-01-29T22:41:22Z
+  Updated: 2026-07-10T20:49:05Z
   Total Products: 0
-- [Lehenga Ready to Ship | Indian dresses in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-ready-to-ship): At MOHAR, find your dream Lehenga Ready to Ship! Explore our stunning collection of Indian dresses in the USA, crafted to perfection. Get ready to dazzle in traditional elegance with a modern twist. Don't wait – shop now and experience express delivery for your special occasions.
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 143
+- [Ready to Ship](https://www.moharbyec.com/collections/ready-to-ship): Adorn yourself with the brilliance of Ready-to-Ship Indian Boutique Jewelry from MOHAR in the USA. Explore our curated collection, featuring exquisite designs handcrafted to perfection. Shop now and experience express delivery.
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 1023
+- [Lehenga 2](https://www.moharbyec.com/collections/lehenga-2): Step into a world of elegance with MOHAR's Indian Boutique Lehenga collection in the USA. Discover exquisite designs and timeless craftsmanship, tailored to perfection. Elevate your style with our stunning lehengas, perfect for weddings and special occasions. Shop now!
+  Updated: 2026-10-21T11:06:53Z
+  Total Products: 497
+- [Diwali Diya](https://www.moharbyec.com/collections/diwali-diya): We bring designer diyas for Diwali. Use these with wax tea lights or battery operated lights. Bring the festive celebration to your house!
+  Updated: 2026-07-08T21:12:48Z
+  Total Products: 5
+- [Designer Masks](https://www.moharbyec.com/collections/stylist-mask): Stay stylish and safe with MOHAR's Indian Fashion's Designer Masks in the USA. Discover our collection of beautifully crafted masks, blending tradition and modernity. Embrace the elegance of Indian fashion while protecting yourself and others. Shop now!
+  Updated: 2026-07-08T21:12:48Z
+  Total Products: 25
+- [Jewelry](https://www.moharbyec.com/collections/jewelry): Explore the brilliance of Indian Jewelry online in the USA at MOHAR. Discover our handpicked collection, showcasing exquisite designs inspired by India's cultural heritage. From stunning necklaces to elegant earrings, adorn yourself with timeless beauty. Shop now!
+  Updated: 2026-10-15T09:56:02Z
+  Total Products: 157
+- [Black Friday  - 60% off in cart](https://www.moharbyec.com/collections/black-friday-): Don't miss out on the incredible Black Friday  at MOHAR in the USA! Enjoy a massive 60% off in your cart on our curated collection of exquisite fashion and jewelry. Embrace the finest craftsmanship and style at unbeatable prices. Shop now!
+  Updated: 2026-07-10T20:50:31Z
+  Total Products: 78
+- [Lehenga Ready to Ship](https://www.moharbyec.com/collections/lehenga-ready-to-ship): At MOHAR, find your dream Lehenga Ready to Ship! Explore our stunning collection of Indian dresses in the USA, crafted to perfection. Get ready to dazzle in traditional elegance with a modern twist. Don't wait – shop now and experience express delivery for your special occasions.
+  Updated: 2026-10-21T22:26:17Z
+  Total Products: 221
 - [Sherwani Ready to Ship](https://www.moharbyec.com/collections/sherwani-ready-to-ship)
-  Updated: 2026-05-15T19:14:38Z
-  Total Products: 63
-- [Indian Now Trending clothing in USA | MOHAR](https://www.moharbyec.com/collections/now-trending): Stay ahead of the fashion curve with MOHAR's Indian Now Trending Clothing in the USA. Discover the latest styles and hottest fashion pieces, curated to keep you at the forefront of style. Embrace the perfect blend of tradition and modernity – shop now!
-  Updated: 2026-04-01T19:08:04Z
-  Total Products: 1
-- [Bespoke Outfits in USA | MOHAR](https://www.moharbyec.com/collections/bespoke-outfits): Elevate your style with MOHAR's exquisite collection of Bespoke Outfits in the USA. Discover the art of personalized fashion, crafted to perfection for a truly unique look. From traditional to contemporary, our tailor-made ensembles are designed to reflect your individuality.
-  Updated: 2026-04-13T07:53:36Z
-  Total Products: 120
-- [Online Special Indian clothes in USA | MOHAR](https://www.moharbyec.com/collections/online-special): Discover the magic of Online Special Indian Clothes in the USA at MOHAR. Elevate your style with our handpicked collection of exquisite ethnic wear, designed to make you stand out on every occasion. Embrace the essence of India's rich culture and shop now for top-notch quality and unbeatable style.
-  Updated: 2026-05-14T09:23:18Z
-  Total Products: 123
-- [Indian Online Lehenga in USA | MOHAR](https://www.moharbyec.com/collections/online-lehenga): Experience the enchanting allure of Indian Online Lehenga at MOHAR - your go-to boutique in the USA. Browse our captivating collection of exquisite designs, blending tradition and modernity. Step into timeless elegance and shop now to turn heads on every occasion.
-  Updated: 2026-05-14T09:23:18Z
-  Total Products: 102
-- [Indian Online Gown in USA | MOHAR](https://www.moharbyec.com/collections/online-gown): Experience the charm of Indian Online Gowns in the USA with MOHAR. Explore our exquisite collection, featuring stunning designs that blend tradition and modernity flawlessly. From elegant to opulent, find the perfect gown to make a statement at any event. Shop now!
-  Updated: 2026-04-01T19:08:05Z
+  Updated: 2026-10-11T16:08:05Z
+  Total Products: 64
+- [Now Trending](https://www.moharbyec.com/collections/now-trending): Stay ahead of the fashion curve with MOHAR's Indian Now Trending Clothing in the USA. Discover the latest styles and hottest fashion pieces, curated to keep you at the forefront of style. Embrace the perfect blend of tradition and modernity – shop now!
+  Updated: 2026-07-10T20:53:51Z
+  Total Products: 0
+- [Bridal Outfits](https://www.moharbyec.com/collections/bespoke-outfits): Elevate your style with MOHAR's exquisite collection of Bespoke Outfits in the USA. Discover the art of personalized fashion, crafted to perfection for a truly unique look. From traditional to contemporary, our tailor-made ensembles are designed to reflect your individuality.
+  Updated: 2026-10-15T10:02:20Z
+  Total Products: 92
+- [Online Special](https://www.moharbyec.com/collections/online-special): Discover the magic of Online Special Indian Clothes in the USA at MOHAR. Elevate your style with our handpicked collection of exquisite ethnic wear, designed to make you stand out on every occasion. Embrace the essence of India's rich culture and shop now for top-notch quality and unbeatable style.
+  Updated: 2026-09-11T01:42:39Z
+  Total Products: 41
+- [Online Lehenga](https://www.moharbyec.com/collections/online-lehenga): Experience the enchanting allure of Indian Online Lehenga at MOHAR - your go-to boutique in the USA. Browse our captivating collection of exquisite designs, blending tradition and modernity. Step into timeless elegance and shop now to turn heads on every occasion.
+  Updated: 2026-09-11T01:42:39Z
+  Total Products: 20
+- [Online Gown](https://www.moharbyec.com/collections/online-gown): Experience the charm of Indian Online Gowns in the USA with MOHAR. Explore our exquisite collection, featuring stunning designs that blend tradition and modernity flawlessly. From elegant to opulent, find the perfect gown to make a statement at any event. Shop now!
+  Updated: 2026-07-08T21:12:49Z
   Total Products: 1
 - [Navratri](https://www.moharbyec.com/collections/navratri)
-  Updated: 2026-04-01T19:08:06Z
-  Total Products: 11
-- [Black Friday  2022](https://www.moharbyec.com/collections/black-friday--2022)
-  Updated: 2026-04-01T19:08:06Z
-  Total Products: 0
-- [Indian Necklace Sets in USA | MOHAR](https://www.moharbyec.com/collections/necklace-sets): Elevate your look with MOHAR's stunning collection of Indian Necklace Sets in the USA. Explore our handcrafted designs, blending tradition and contemporary elegance flawlessly. From statement pieces to delicate accents, find the perfect necklace set to adorn your style.
-  Updated: 2026-04-01T19:08:07Z
-  Total Products: 95
-- [Indian Maang Tikka in USA | MOHAR](https://www.moharbyec.com/collections/maang-tikka): Add a touch of tradition to your look with MOHAR's Indian Maang Tikka collection in the USA. Explore our exquisite designs, handcrafted to perfection for a regal appeal. Elevate your style with this captivating headpiece, perfect for weddings and special occasions. Shop now!
-  Updated: 2026-04-01T19:08:07Z
+  Updated: 2026-10-18T15:54:49Z
+  Total Products: 39
+- [Necklace sets](https://www.moharbyec.com/collections/necklace-sets): Elevate your look with MOHAR's stunning collection of Indian Necklace Sets in the USA. Explore our handcrafted designs, blending tradition and contemporary elegance flawlessly. From statement pieces to delicate accents, find the perfect necklace set to adorn your style.
+  Updated: 2026-10-15T09:56:02Z
+  Total Products: 107
+- [Maang Tikka](https://www.moharbyec.com/collections/maang-tikka): Add a touch of tradition to your look with MOHAR's Indian Maang Tikka collection in the USA. Explore our exquisite designs, handcrafted to perfection for a regal appeal. Elevate your style with this captivating headpiece, perfect for weddings and special occasions. Shop now!
+  Updated: 2026-07-08T21:12:50Z
   Total Products: 8
-- [Indian Earrings in USA | MOHAR](https://www.moharbyec.com/collections/earrings): Discover the allure of Indian earrings in the USA at MOHAR. Explore our handpicked collection, featuring exquisite designs that reflect India's rich cultural heritage. From traditional jhumkas to modern danglers, find the perfect pair to elevate your style. Shop now!
-  Updated: 2026-04-01T19:08:07Z
-  Total Products: 23
-- [Bracelet / Kadda](https://www.moharbyec.com/collections/bracelet-kadda)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Floral Jewelry](https://www.moharbyec.com/collections/floral-jewelry)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Bridal Sets](https://www.moharbyec.com/collections/bridal-sets)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Belt](https://www.moharbyec.com/collections/belt)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Products](https://www.moharbyec.com/collections/all)
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 1627
-- [Co-ord Sets](https://www.moharbyec.com/collections/co-ord-sets)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Women Plus Size](https://www.moharbyec.com/collections/women-plus-size)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [Women Budget](https://www.moharbyec.com/collections/women-budget)
-  Updated: 2026-04-01T19:08:08Z
-  Total Products: 0
-- [New Arrivals](https://www.moharbyec.com/collections/new-arrivals)
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 325
-- [bridal lehenga](https://www.moharbyec.com/collections/bridal-lehenga)
-  Updated: 2026-04-15T11:07:46Z
-  Total Products: 9
-- [Sold Out](https://www.moharbyec.com/collections/sold-out)
-  Updated: 2026-04-01T19:08:09Z
-  Total Products: 1
-- [Women Indo Western](https://www.moharbyec.com/collections/women-indo-western)
-  Updated: 2026-04-01T19:08:09Z
-  Total Products: 63
-- [Wedding Guests - Women](https://www.moharbyec.com/collections/wedding-guests-women)
-  Updated: 2026-05-17T22:07:07Z
-  Total Products: 216
-- [Lehenga under $250](https://www.moharbyec.com/collections/lehenga-under-250)
-  Updated: 2026-04-01T19:08:10Z
+- [Earrings](https://www.moharbyec.com/collections/earrings): Discover the allure of Indian earrings in the USA at MOHAR. Explore our handpicked collection, featuring exquisite designs that reflect India's rich cultural heritage. From traditional jhumkas to modern danglers, find the perfect pair to elevate your style. Shop now!
+  Updated: 2026-10-12T01:44:01Z
   Total Products: 31
+- [Products](https://www.moharbyec.com/collections/all)
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 1598
+- [Women Plus Size](https://www.moharbyec.com/collections/women-plus-size)
+  Updated: 2026-10-15T10:03:15Z
+  Total Products: 119
+- [New Arrivals](https://www.moharbyec.com/collections/new-arrivals)
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 384
+- [bridal lehenga](https://www.moharbyec.com/collections/bridal-lehenga)
+  Updated: 2026-10-15T10:02:22Z
+  Total Products: 9
+- [Women Indo Western](https://www.moharbyec.com/collections/women-indo-western)
+  Updated: 2026-10-18T21:32:33Z
+  Total Products: 53
+- [Wedding Guests - Women](https://www.moharbyec.com/collections/wedding-guests-women)
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 304
+- [Lehenga under $250](https://www.moharbyec.com/collections/lehenga-under-250)
+  Updated: 2026-10-15T10:00:23Z
+  Total Products: 32
 - [Sangeet - Ladies](https://www.moharbyec.com/collections/sangeet-outfits-for-guests)
-  Updated: 2026-05-17T22:07:07Z
-  Total Products: 189
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 256
 - [Sangeet outfit for Men Guests](https://www.moharbyec.com/collections/sangeet-outfit-for-men-guests)
-  Updated: 2026-04-01T19:08:10Z
+  Updated: 2026-07-08T21:12:51Z
   Total Products: 0
 - [Haldi outfit for Women Guests](https://www.moharbyec.com/collections/haldi-outfit-for-women-guests)
-  Updated: 2026-05-14T09:10:28Z
+  Updated: 2026-10-22T11:05:53Z
   Total Products: 14
 - [Haldi for Men Guests](https://www.moharbyec.com/collections/haldi-for-men-guests)
-  Updated: 2026-04-01T19:08:10Z
+  Updated: 2026-07-08T21:12:51Z
   Total Products: 0
 - [Ceremony outfit for Women Guest](https://www.moharbyec.com/collections/ceremony-outfit-for-women-guest)
-  Updated: 2026-04-01T19:08:12Z
+  Updated: 2026-07-08T21:12:51Z
   Total Products: 0
 - [Pre-Stitched Saree](https://www.moharbyec.com/collections/pre-stitched-saree)
-  Updated: 2026-04-01T19:08:13Z
+  Updated: 2026-10-15T10:00:10Z
   Total Products: 14
 - [Men's Kurta](https://www.moharbyec.com/collections/mens-kurta)
-  Updated: 2026-05-17T19:42:40Z
-  Total Products: 30
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 65
 - [Sherwani](https://www.moharbyec.com/collections/sherwani)
-  Updated: 2026-05-15T12:44:03Z
-  Total Products: 71
+  Updated: 2026-10-21T11:06:53Z
+  Total Products: 69
 - [sleeves available](https://www.moharbyec.com/collections/sleeves-available)
-  Updated: 2026-04-01T19:08:13Z
-  Total Products: 9
+  Updated: 2026-10-15T10:00:23Z
+  Total Products: 10
 - [Salwaar / Sharara](https://www.moharbyec.com/collections/anarkali-gown-copy)
-  Updated: 2026-05-17T22:07:07Z
-  Total Products: 161
+  Updated: 2026-10-18T21:31:09Z
+  Total Products: 188
 - [sharara](https://www.moharbyec.com/collections/sharara)
-  Updated: 2026-05-17T22:06:37Z
-  Total Products: 51
+  Updated: 2026-10-18T21:16:27Z
+  Total Products: 79
 - [Ceremony - Ladies](https://www.moharbyec.com/collections/ceremony-ladies)
-  Updated: 2026-05-30T17:15:27Z
-  Total Products: 149
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 313
 - [Reception- Ladies](https://www.moharbyec.com/collections/reception-ladies)
-  Updated: 2026-05-15T02:20:34Z
-  Total Products: 189
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 219
+- [Kurta Sets](https://www.moharbyec.com/collections/kurta-sets)
+  Updated: 2026-07-08T21:12:52Z
+  Total Products: 0
+- [Guest Lehenga](https://www.moharbyec.com/collections/guest-lehenga)
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 451
+- [Haldi](https://www.moharbyec.com/collections/haldi)
+  Updated: 2026-10-22T11:05:53Z
+  Total Products: 78
+- [Bridal Lehenga ](https://www.moharbyec.com/collections/bridal-lehenga-)
+  Updated: 2026-10-15T10:02:20Z
+  Total Products: 54
+- [Vest](https://www.moharbyec.com/collections/vest)
+  Updated: 2026-07-08T21:12:53Z
+  Total Products: 37
+- [Men Indowestern](https://www.moharbyec.com/collections/men-indowestern)
+  Updated: 2026-10-15T10:00:21Z
+  Total Products: 4
+- [Bandhgala Suit](https://www.moharbyec.com/collections/men-indowestern-copy)
+  Updated: 2026-10-15T10:02:13Z
+  Total Products: 7
+- [Western Suit](https://www.moharbyec.com/collections/bandhgala-suit-copy)
+  Updated: 2026-07-08T21:12:53Z
+  Total Products: 1
+- [Mens Shoes](https://www.moharbyec.com/collections/bandhgala-suit-copy-1)
+  Updated: 2026-06-28T15:45:12Z
+  Total Products: 0
+- [Men kurta size 38](https://www.moharbyec.com/collections/men-38-kurta)
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 30
+- [Men kurta size 40](https://www.moharbyec.com/collections/men-kurta-size-38-copy)
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 38
+- [Men kurta size 42](https://www.moharbyec.com/collections/men-kurta-size-40-copy)
+  Updated: 2026-10-15T09:56:02Z
+  Total Products: 32
+- [Men kurta size 44](https://www.moharbyec.com/collections/men-kurta-size-42-copy)
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 21
+- [Men kurta size 46](https://www.moharbyec.com/collections/men-kurta-size-44-copy)
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 9
+- [Men kurta size 48](https://www.moharbyec.com/collections/men-kurta-size-46-copy)
+  Updated: 2026-10-15T09:55:34Z
+  Total Products: 7
+- [Men kurta size 50+](https://www.moharbyec.com/collections/men-kurta-size-48-copy)
+  Updated: 2026-10-15T09:55:34Z
+  Total Products: 1
+- [Men kurta size 36](https://www.moharbyec.com/collections/men-kurta-size-38-copy-1)
+  Updated: 2026-10-15T10:02:10Z
+  Total Products: 9
+- [Men's Kurta (Copy)](https://www.moharbyec.com/collections/mens-kurta-copy)
+  Updated: 2026-10-15T10:02:23Z
+  Total Products: 65
 
 ## Blogs
 
@@ -2936,6 +2988,10 @@
   Updated: 2023-11-25T00:44:23Z
 - [About MOHAR by Ekaa Couture | Premium Indian Ethnic Wear](https://www.moharbyec.com/pages/about-us): Where Heritage Meets Haute Couture MOHAR by Ekaa Couture was born from a deep reverence for India's most treasured textile traditions — and a belie...
   Updated: 2026-05-13T18:16:33Z
+- [MOHAR uses 100% Pure, Natural, Chemical Free Fabrics](https://www.moharbyec.com/pages/health-risks-of-cheap-fabrics): At MOHAR Boutique, your health and comfort are our highest priorities. We passionately reject the toxic, synthetic shortcuts of fast fashion, craft...
+  Updated: 2026-06-16T02:18:54Z
+- [Disclaimer](https://www.moharbyec.com/pages/disclaimer): This product will be exclusively handcrafted for you, making the color/texture/pattern slightly vary from the image shown, due to multiple artisan-...
+  Updated: 2026-06-16T13:54:47Z
 
 ## Optional
 
