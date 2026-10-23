@@ -8,54 +8,54 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-14T09:12:11Z
 - Contact Email: ThornandThimble@proton.me
-- Updated At: 2026-10-15T23:17:41.252Z
+- Updated At: 2026-10-23T00:32:21.264Z
 
 ## Products
 
-- [Purple Moon Phase Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/purple-moon): Decorate journals and planners with a purple moon phase sticker sheet featuring roses, stars, crystals, and celestial artwork for lunar magic lovers.
-  Updated: 2026-10-12T21:12:07Z
+- [Purple Moon Phase Journal Stickers | Thorn & Thimble](https://thornthimble.shop/products/purple-moon): Glossy purple moon phase sticker sheet with roses, stars and crystal artwork for journals, planners and scrapbooks. Designed for indoor use.
+  Updated: 2026-10-22T02:48:15Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/67A53A69-2058-4460-BB98-2CC86D9888EB.png?v=1791250340
   Price: $6.99 USD
-- [Voodoo Doll Sticker Sheet - Build Your Own Spell | Thorn & Thimble](https://thornthimble.shop/products/voodoo-doll): Create a witchy journal scene with a voodoo doll sticker sheet and 10 decorative pin stickers. Mix and match the pieces for planners and crafts.
-  Updated: 2026-10-12T21:12:06Z
+- [Voodoo Doll Journal Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/voodoo-doll): Arrange one stitched doll and ten decorative pin stickers in a journal, planner or scrapbook. Glossy build-your-own spell sticker sheet for indoor use.
+  Updated: 2026-10-22T02:48:14Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/826E99D6-E95D-41DF-AFD6-DFD1E04DD9DE.png?v=1791351980
   Price: $6.99 USD
-- [Gingerbread Voodoo Doll Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/gingerbread-voodoo-doll): Build a festive spell scene with gingerbread voodoo doll stickers and separate decorative pins. A playful sheet for journals, planners, and holiday crafts.
-  Updated: 2026-10-12T21:12:06Z
+- [Gingerbread Doll Planner Stickers | Thorn & Thimble](https://thornthimble.shop/products/gingerbread-voodoo-doll): Glossy gingerbread voodoo doll sticker sheet with separate illustrated pins for holiday journals, planners and kitchen witch crafts. Indoor use.
+  Updated: 2026-10-22T02:48:15Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-sticker-sheet-white-front-6a823ecd18304.jpg?v=1791250337
   Price: $6.99 USD
-- [Witch Cauldron Sticker Sheet - Build Your Own Spell | Thorn & Thimble](https://thornthimble.shop/products/witch-cauldron): Arrange a bubbling cauldron, herbs, crystals, mushrooms, and potion bottles with this witchy sticker sheet for grimoires, journals, and creative crafts.
-  Updated: 2026-10-12T21:12:06Z
+- [Cauldron Spell Journal Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/witch-cauldron): Build a witchy journal scene with a bubbling cauldron and separate botanical, crystal and potion bottle stickers. Glossy sticker sheet for indoor use.
+  Updated: 2026-10-22T02:48:15Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AB25C4C0-5CFB-4632-B83C-B69AA06C0F66.png?v=1791250337
   Price: $6.99 USD
-- [Spooky Potion Gothic Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/spooky-potion): Build a gothic potion scene with a bottle, bones, dark botanicals, and illustrated ingredients. Glossy witchy stickers for journals and scrapbooks.
-  Updated: 2026-10-12T21:12:12Z
+- [Gothic Potion Journal Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/spooky-potion): Arrange a gothic potion bottle, dark botanicals, bones and illustrated ingredients on journal or scrapbook pages. Glossy stickers for indoor use.
+  Updated: 2026-10-22T02:48:17Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/B3C90CA0-0B94-4C0D-9679-FA5179562996.png?v=1791250337
   Price: $6.99 USD
-- [Pretty Potion Pink Witchy Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/pretty-potion): Create a pink potion scene with botanical, crystal, and magical ingredient stickers. A glossy witchy sticker sheet for planners, journals, and crafts.
-  Updated: 2026-10-12T21:12:17Z
+- [Pink Potion Planner Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/pretty-potion): Create a pink potion scene with separate botanical, crystal and fantasy ingredient stickers. Glossy witchy sticker sheet for indoor journals and planners.
+  Updated: 2026-10-22T02:48:15Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/79B7DDE5-99DB-42B2-ADEA-47865BCEA9F2_6bf04cf2-d5aa-40eb-88cf-e51895df01e6.png?v=1791250336
   Price: $6.99 USD
-- [Haunted Doll Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/haunted-doll): Add creepy-cute style to a laptop or journal with a haunted doll vinyl sticker featuring button eyes, black-and-pink clothing, roses, and gothic details.
-  Updated: 2026-10-12T21:12:16Z
+- [Creepy Cute Haunted Doll Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/haunted-doll): Button-eyed haunted doll vinyl sticker in black and pink with roses and gothic details. Choose 3x3, 4x4 or 5.5x5.5 inches for journals and laptops.
+  Updated: 2026-10-22T02:48:16Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -72,8 +72,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-halloween-6a8b604b2e698.jpg?v=1788348924
     Price: $3.99 USD
-- [Haunted Doll Gothic Horror Mug | Thorn & Thimble](https://thornthimble.shop/products/haunted-doll-mug): Sip coffee or tea from a ceramic mug with haunted doll artwork and a colored interior, rim, and handle. A creepy gift for gothic and horror fans.
-  Updated: 2026-10-12T21:12:16Z
+- [Haunted Doll Gothic Horror Mug | Thorn & Thimble](https://thornthimble.shop/products/haunted-doll-mug): Haunted Doll Gothic Horror ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:16Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -86,8 +86,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a94f08688b69.jpg?v=1791250333
     Price: $11.99 USD
-- [Floral Ouija Board Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/ouija-board-s): Decorate a laptop or spell journal with a floral Ouija board vinyl sticker featuring a black-and-gold spirit board, celestial planchette, and pink roses.
-  Updated: 2026-10-12T21:12:22Z
+- [Floral Ouija Board Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/ouija-board-s): Gothic Floral Ouija Board Occult vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:18Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -102,12 +102,12 @@
   - [5.5″×5.5″](https://thornthimble.shop/products/ouija-board-s?variant=46396469444705)
     Availability: Available
     Price: $3.99 USD
-- [Cursed Locket Gothic Victorian Mug | Thorn & Thimble](https://thornthimble.shop/products/cursed-locket-mug): Bring haunted Victorian style to coffee or tea with a cursed locket ceramic mug. Ornate gothic artwork pairs with a colored rim, interior, and handle.
-  Updated: 2026-10-12T21:12:27Z
+- [Cursed Locket Gothic Victorian Mug | Thorn & Thimble](https://thornthimble.shop/products/cursed-locket-mug): Cursed Locket Gothic Victorian ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:18Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/B227C2C2-20AD-4CCF-879F-8AFCD5103A54.png?v=1791250331
+  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/B227C2C2-20AD-4CCF-879F-8AFCD5103A54.png?v=1792113531
   - [11 oz](https://thornthimble.shop/products/cursed-locket-mug?variant=46385051467873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-11-oz-right-6a96abd4085f4.jpg?v=1791252644
@@ -116,8 +116,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a96abf2a3dda.jpg?v=1791252644
     Price: $11.99 USD
-- [Anatomical Heart and Sword Gothic Sticker | Thorn & Thimble](https://thornthimble.shop/products/sword-heart): Add dark romance to a laptop or poetry journal with a vinyl sticker depicting a red anatomical heart pierced by a sword and wrapped in thorny vines.
-  Updated: 2026-10-12T21:12:26Z
+- [Anatomical Heart and Sword Gothic Sticker | Thorn & Thimble](https://thornthimble.shop/products/sword-heart): Sword-Pierced Anatomical Heart Gothic vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:19Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -133,8 +133,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84551f3d875.jpg?v=1788349066
     Price: $3.99 USD
-- [Ram Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-mug): Enjoy coffee or tea in a ram skull ceramic mug with curved-horn artwork, dark florals, crystals, and celestial accents. A gift for gothic décor lovers.
-  Updated: 2026-10-12T21:12:32Z
+- [Ram Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-mug): Ram Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:18Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -147,8 +147,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a97398acde47.jpg?v=1788349125
     Price: $11.99 USD
-- [Raven Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/raven-skull-mug): A raven skull ceramic mug with dark florals, crystals, and celestial artwork. Colored accents add gothic character to coffee, tea, and oddities gifts.
-  Updated: 2026-10-12T21:12:31Z
+- [Raven Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/raven-skull-mug): Raven Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:19Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -161,8 +161,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a97387b92a63.jpg?v=1788349163
     Price: $11.99 USD
-- [Mouse Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-mug): Bring miniature macabre style to coffee or tea with a mouse skull ceramic mug featuring dark floral and celestial artwork. A gift for oddities lovers.
-  Updated: 2026-10-12T21:12:37Z
+- [Mouse Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-mug): Mouse Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:18Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -175,8 +175,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a973750ce782.jpg?v=1788349203
     Price: $11.99 USD
-- [Monarch Butterfly Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-mug-with-color-inside): Enjoy coffee or tea in a monarch butterfly ceramic mug with orange-and-black butterfly artwork and botanical details. A nature-inspired gardener gift.
-  Updated: 2026-10-12T21:12:43Z
+- [Monarch Butterfly Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-mug-with-color-inside): Monarch Butterfly Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:20Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -193,8 +193,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a96bbd1e79bb.jpg?v=1788349266
     Price: $11.99 USD
-- [Rosy Maple Moth Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/rosy-maple-moth-mug-with-color-inside): Brighten coffee or tea with a rosy maple moth ceramic mug featuring pink-and-yellow moth artwork and botanical details. A gift for moth and nature lovers.
-  Updated: 2026-10-12T21:12:46Z
+- [Rosy Maple Moth Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/rosy-maple-moth-mug-with-color-inside): Rosy Maple Moth Botanical ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:20Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -215,8 +215,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a9492c90772b.jpg?v=1788349335
     Price: $11.99 USD
-- [Blue Morpho Butterfly Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-mug-with-color-inside): Bring vivid blue butterfly artwork to coffee or tea with a blue morpho ceramic mug. Botanical details make it a colorful gift for nature lovers.
-  Updated: 2026-10-12T21:12:52Z
+- [Blue Morpho Butterfly Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-mug-with-color-inside): Blue Morpho Butterfly Botanical ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:20Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -237,8 +237,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a95dbae0c117.jpg?v=1788349419
     Price: $11.99 USD
-- [Luna Moth Celestial Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-mug-with-color-inside): Enjoy a quiet coffee or tea moment with a luna moth ceramic mug featuring green moth artwork, botanical details, and celestial accents for moth lovers.
-  Updated: 2026-10-12T21:12:56Z
+- [Luna Moth Celestial Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-mug-with-color-inside): Luna Moth Celestial Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:21Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -255,8 +255,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a9357b3855d3.jpg?v=1788349501
     Price: $11.99 USD
-- [Death's-Head Hawkmoth Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-bubble-free-stickers): Decorate a laptop or journal with a death's-head hawkmoth vinyl sticker featuring its skull-like marking and dark botanical art. A gothic moth lover gift.
-  Updated: 2026-10-12T21:13:02Z
+- [Death's-Head Hawkmoth Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-bubble-free-stickers): Death’s-Head Hawkmoth Gothic Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:21Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -273,8 +273,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a8453ccea196.jpg?v=1788349511
     Price: $3.99 USD
-- [Atlas Moth Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-bubble-free-stickers): Add atlas moth artwork to a laptop or nature journal with this vinyl sticker. Patterned wings, botanicals, and celestial details suit insect art lovers.
-  Updated: 2026-10-12T21:13:02Z
+- [Atlas Moth Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-bubble-free-stickers): Atlas Moth Celestial Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:23Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -291,8 +291,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84537e65019.jpg?v=1788349534
     Price: $3.99 USD
-- [Monarch Butterfly Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-bubble-free-stickers): Decorate a laptop or garden journal with a monarch butterfly vinyl sticker featuring orange-and-black wings, botanical artwork, and celestial details.
-  Updated: 2026-10-12T21:13:02Z
+- [Monarch Butterfly Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-bubble-free-stickers): Monarch Butterfly Celestial Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:22Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -309,8 +309,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84532dae017.jpg?v=1788349556
     Price: $3.99 USD
-- [Rosy Maple Moth Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/rosy-maple-moth-bubble-free-stickers): Add pink-and-yellow rosy maple moth artwork to a planner, journal, or laptop. A botanical vinyl sticker for moth lovers and cottagecore stationery fans.
-  Updated: 2026-10-12T21:13:07Z
+- [Rosy Maple Moth Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/rosy-maple-moth-bubble-free-stickers): Rosy Maple Moth Whimsical Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:21Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -327,8 +327,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84529a238e5.jpg?v=1788349579
     Price: $3.99 USD
-- [Luna Moth Celestial Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-bubble-free-stickers): Decorate a laptop or moon journal with a luna moth vinyl sticker featuring pale green wings, graceful tails, botanical artwork, and celestial details.
-  Updated: 2026-10-12T21:13:06Z
+- [Luna Moth Celestial Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-bubble-free-stickers): Luna Moth Celestial Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:24Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -345,8 +345,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a845216e5a20.jpg?v=1788349602
     Price: $3.99 USD
-- [Blue Morpho Butterfly Botanical Sticker | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-bubble-free-stickers): Bring brilliant blue morpho butterfly artwork to a laptop or nature journal with a botanical vinyl sticker accented by delicate celestial details.
-  Updated: 2026-10-12T21:13:11Z
+- [Blue Morpho Butterfly Botanical Sticker | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-bubble-free-stickers): Blue Morpho Butterfly Celestial Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:22Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -363,8 +363,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a8451546e88f.jpg?v=1788388810
     Price: $3.99 USD
-- [Pink Mushroom Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-1-bubble-free-stickers): Add rosy mushroom artwork and whimsical woodland details to a laptop or journal. A pink mushroom vinyl sticker for cottagecore and fungi art lovers.
-  Updated: 2026-10-12T21:13:12Z
+- [Pink Mushroom Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-1-bubble-free-stickers): Pink Mushroom Whimsical Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:23Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -381,15 +381,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83685dd1d0c.jpg?v=1788349648
     Price: $3.99 USD
-- [Pink Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/eco-tote-bag): Carry books or market finds in a pink mushroom organic cotton tote bag. Whimsical woodland artwork makes a colorful cottagecore gift for fungi lovers.
-  Updated: 2026-10-12T21:13:17Z
+- [Pink Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/eco-tote-bag): Carry books and market finds in a pink mushroom organic cotton tote, with whimsical fungi in an enchanted-woodland palette.
+  Updated: 2026-10-22T02:48:36Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/230F0D71-0AFB-4D62-AEAE-AA2C816C5A54.png?v=1788175191
   Price: $20.99 USD
-- [Ink Cap Mushroom Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-bubble-free-stickers): Add ink cap mushroom artwork to a laptop or art journal with a gothic botanical vinyl sticker. A distinctive gift for mushroom and mycology enthusiasts.
-  Updated: 2026-10-12T21:13:17Z
+- [Ink Cap Mushroom Gothic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-bubble-free-stickers): Ink Cap Mushroom Gothic Botanical vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:23Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -406,15 +406,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a836d1e95aa1.jpg?v=1788349685
     Price: $3.99 USD
-- [Ink Cap Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-eco-tote-bag): Carry books and market finds in an ink cap mushroom organic cotton tote bag. Dark botanical artwork brings gothic cottagecore style to everyday errands.
-  Updated: 2026-10-12T21:13:21Z
+- [Ink Cap Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-eco-tote-bag): Take dark botanical artwork along in an ink cap mushroom organic cotton tote for books, art supplies and everyday errands.
+  Updated: 2026-10-22T02:48:24Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D8E030FE-23AD-47DC-B3E4-E39EDC9D9BF4.png?v=1788131358
   Price: $20.99 USD
-- [Pink Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-1-mug-with-color-inside): Brighten coffee or tea with a pink mushroom ceramic mug featuring whimsical woodland artwork and a colored interior. A cottagecore gift for fungi lovers.
-  Updated: 2026-10-12T21:13:27Z
+- [Pink Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-1-mug-with-color-inside): Pink Mushroom Cottagecore ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:26Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -435,8 +435,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1cb672efb.jpg?v=1788349779
     Price: $11.99 USD
-- [Ink Cap Mushroom Gothic Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-mug-with-color-inside): Enjoy coffee or tea in an ink cap mushroom ceramic mug with dark botanical artwork and colored accents. A gothic cottagecore gift for mushroom lovers.
-  Updated: 2026-10-12T21:13:31Z
+- [Ink Cap Mushroom Gothic Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-2-mug-with-color-inside): Ink Cap Mushroom Gothic Cottagecore ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:26Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -457,8 +457,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1c54c72d9.jpg?v=1788349884
     Price: $11.99 USD
-- [Fly Agaric Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-mug-with-color-inside): Bring red-and-white fly agaric mushroom artwork to coffee or tea with this ceramic mug. Enchanted woodland styling makes a cottagecore gift for fungi fans.
-  Updated: 2026-10-12T21:13:41Z
+- [Fly Agaric Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-mug-with-color-inside): Fly Agaric Mushroom Cottagecore ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:26Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -479,8 +479,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1bfad9cff.jpg?v=1788349987
     Price: $11.99 USD
-- [Pumpkin Orange Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-mug-with-color-inside-1): Enjoy autumn color with a pumpkin orange mushroom ceramic mug. Warm woodland fungi artwork and a colored interior bring cottagecore charm to coffee or tea.
-  Updated: 2026-10-12T21:13:46Z
+- [Pumpkin Orange Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-mug-with-color-inside-1): Pumpkin Orange Mushroom Cottagecore ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:27Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -497,8 +497,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1b8af1dc5.jpg?v=1788350091
     Price: $11.99 USD
-- [Moss Green Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-mug-with-color-inside): Bring earthy woodland color to coffee or tea with a moss green mushroom ceramic mug. Enchanted fungi artwork makes a cozy cottagecore nature gift.
-  Updated: 2026-10-12T21:13:51Z
+- [Moss Green Mushroom Cottagecore Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-mug-with-color-inside): Moss Green Mushroom Cottagecore ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:27Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -519,8 +519,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1b234ecad.jpg?v=1788350175
     Price: $11.99 USD
-- [Purple Poison Mushroom Fantasy Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-mug-with-color-inside-1): Enjoy coffee or tea in a purple mushroom ceramic mug with fantasy fungi artwork and vivid green accents. A colorful witchy gift for cottagecore fans.
-  Updated: 2026-10-12T21:13:57Z
+- [Purple Poison Mushroom Fantasy Mug | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-mug-with-color-inside-1): Purple Poison Mushroom Cottagecore ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:27Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -537,8 +537,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a8e1a9aad11b.jpg?v=1788350281
     Price: $11.99 USD
-- [Fly Agaric Mushroom Goblincore Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-bubble-free-stickers): Decorate a laptop or nature journal with a fly agaric mushroom vinyl sticker. Red-and-white fungi artwork brings goblincore and woodland fairy-tale style.
-  Updated: 2026-10-12T21:14:02Z
+- [Fly Agaric Mushroom Goblincore Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-bubble-free-stickers): Fly Agaric Mushroom Goblincore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:27Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -555,8 +555,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a837c0eaa9b6.jpg?v=1788388796
     Price: $3.99 USD
-- [Purple Poison Mushroom Fantasy Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-bubble-free-stickers): Add purple fantasy mushroom artwork to a laptop or spell journal with this vinyl sticker. Vivid fungi and gothic woodland details make a witchy gift.
-  Updated: 2026-10-12T21:14:06Z
+- [Purple Poison Mushroom Fantasy Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-bubble-free-stickers): Purple Poison Mushroom Gothic Woodland vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:27Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -573,8 +573,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a837cadb1640.jpg?v=1788350333
     Price: $3.99 USD
-- [Pumpkin Orange Mushroom Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-bubble-free-stickers): Bring autumn woodland color to a laptop or journal with a pumpkin orange mushroom vinyl sticker. Whimsical fungi artwork suits cottagecore nature lovers.
-  Updated: 2026-10-12T21:14:07Z
+- [Pumpkin Orange Mushroom Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-bubble-free-stickers): Pumpkin Mushroom Whimsical Woodland vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:29Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -591,8 +591,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a837d58b759c.jpg?v=1788350357
     Price: $3.99 USD
-- [Moss Green Mushroom Woodland Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-bubble-free-stickers): Add earthy forest style to a laptop or nature journal with a moss green mushroom vinyl sticker. Enchanted fungi artwork makes a charming goblincore gift.
-  Updated: 2026-10-12T21:14:06Z
+- [Moss Green Mushroom Woodland Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-bubble-free-stickers): Moss Green Mushroom Enchanted Woodland vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:30Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -609,36 +609,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a837e44a2385.jpg?v=1788350381
     Price: $3.99 USD
-- [Fly Agaric Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-eco-tote-bag): Carry books or groceries in a fly agaric mushroom organic cotton tote bag. Red-and-white woodland fungi artwork makes a cottagecore gift for nature lovers.
-  Updated: 2026-10-12T21:14:12Z
+- [Fly Agaric Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mushroom-3-eco-tote-bag): Carry woodland color with a fly agaric mushroom organic cotton tote, featuring red caps and white spots for a cottagecore market-day look.
+  Updated: 2026-10-22T02:48:30Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/59CC1881-A5A6-4F62-89A1-B76B339F98BF.png?v=1788175561
   Price: $20.99 USD
-- [Purple Poison Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-eco-tote-bag): Carry books and market finds in a purple mushroom organic cotton tote bag. Violet fantasy fungi and green accents add colorful, witchy woodland style.
-  Updated: 2026-10-12T21:14:12Z
+- [Purple Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mushroom-4-eco-tote-bag): Add violet fungi and green accents to your errands with a purple poison mushroom organic cotton tote in a fantasy woodland design.
+  Updated: 2026-10-22T02:48:30Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3D593242-06AF-4F40-A7AD-FA3F25BE0222.png?v=1788175417
   Price: $20.99 USD
-- [Pumpkin Orange Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-eco-tote-bag): Carry books or groceries in a pumpkin orange mushroom organic cotton tote bag. Warm autumn fungi artwork brings cottagecore style to everyday errands.
-  Updated: 2026-10-12T21:14:16Z
+- [Orange Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mushroom-5-eco-tote-bag): Bring autumn color to market trips with a pumpkin-orange mushroom organic cotton tote featuring whimsical woodland fungi.
+  Updated: 2026-10-22T02:48:30Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AE1466E9-CD7C-4799-AF04-C5C9D5F45B7D.png?v=1788175717
   Price: $20.99 USD
-- [Moss Green Mushroom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-eco-tote-bag): Carry books and market finds in a moss green mushroom organic cotton tote bag. Earthy woodland fungi artwork makes a cottagecore gift for nature lovers.
-  Updated: 2026-10-12T21:14:17Z
+- [Moss Green Mushroom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mushroom-6-eco-tote-bag): Carry your everyday finds in a moss-green mushroom organic cotton tote, with fungi artwork in an earthy woodland palette.
+  Updated: 2026-10-22T02:48:30Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/4C0C3E02-5EDC-4187-BB9E-A3E10B7C0902.png?v=1788175936
   Price: $20.99 USD
-- [Atlas Moth Celestial Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-mug-with-color-inside): Enjoy coffee or tea in an atlas moth ceramic mug with patterned-wing artwork, botanical details, and celestial accents. A nature gift for moth lovers.
-  Updated: 2026-10-12T21:14:21Z
+- [Atlas Moth Celestial Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-mug-with-color-inside): Atlas Moth Celestial Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:31Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -654,8 +654,8 @@
   - [Black / 15oz](https://thornthimble.shop/products/atlas-moth-mug-with-color-inside?variant=46394229063777)
     Availability: Available
     Price: $11.99 USD
-- [Death's-Head Hawkmoth Gothic Mug | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-mug-with-color-inside): Bring gothic moth artwork to coffee or tea with a death's-head hawkmoth ceramic mug. Botanical details and colored accents make a striking oddities gift.
-  Updated: 2026-10-12T21:14:26Z
+- [Death's-Head Hawkmoth Gothic Mug | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-mug-with-color-inside): Death’s-Head Hawkmoth Gothic Botanical ceramic mug for coffee and tea. Choose 15 oz or 11 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:31Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -676,8 +676,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a93706d3480b.jpg?v=1788350598
     Price: $11.99 USD
-- [Belladonna Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/belladonna-bubble-free-stickers): Decorate a laptop or grimoire with a belladonna vinyl sticker. Deadly nightshade flowers and berries appear as artwork in a gothic apothecary design.
-  Updated: 2026-10-12T21:14:26Z
+- [Belladonna Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/belladonna-bubble-free-stickers): Botanical Belladonna Poison Plant vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:31Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -694,8 +694,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a838de915006.jpg?v=1788350628
     Price: $3.99 USD
-- [Mandrake Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/bubble-free-stickers): Add mandrake root artwork to a laptop or grimoire with a botanical vinyl sticker. Vintage apothecary styling makes a witchy gift for folklore lovers.
-  Updated: 2026-10-12T21:14:32Z
+- [Mandrake Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/bubble-free-stickers): Botanical Mandrake Poison Plant vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:31Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -712,8 +712,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a838ebf240dc.jpg?v=1788350653
     Price: $3.99 USD
-- [Mandrake Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/mandrake-mug-with-color-inside): Enjoy coffee or tea in a mandrake ceramic mug with forked-root artwork and vintage apothecary details. A witchy botanical gift for folklore lovers.
-  Updated: 2026-10-12T21:14:36Z
+- [Mandrake Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/mandrake-mug-with-color-inside): Mandrake Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:32Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -726,8 +726,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a95fce80c560.jpg?v=1788350691
     Price: $11.99 USD
-- [Belladonna Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/belladonna-mug-with-color-inside): Bring vintage apothecary style to coffee or tea with a belladonna ceramic mug. Purple nightshade blossoms and dark berries appear as botanical artwork.
-  Updated: 2026-10-12T21:14:36Z
+- [Belladonna Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/belladonna-mug-with-color-inside): Belladonna Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:33Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -740,8 +740,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a91d7976041f.jpg?v=1788350755
     Price: $11.99 USD
-- [Foxglove Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/foxglove-bubble-free-stickers): Decorate a laptop or garden journal with a foxglove vinyl sticker. Bell-shaped flower artwork and vintage apothecary styling make a witchy botanical gift.
-  Updated: 2026-10-12T21:14:42Z
+- [Foxglove Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/foxglove-bubble-free-stickers): Botanical Foxglove Poison Plant vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:34Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -758,8 +758,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a8391b9dffb9.jpg?v=1788350767
     Price: $3.99 USD
-- [Foxglove Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/foxglove-mug-with-color-inside): Enjoy coffee or tea in a foxglove ceramic mug featuring bell-shaped flower artwork and vintage apothecary details. A dark cottagecore gift for gardeners.
-  Updated: 2026-10-12T21:14:42Z
+- [Foxglove Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/foxglove-mug-with-color-inside): Foxglove Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:33Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -772,8 +772,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a91cd5f7b73e.jpg?v=1788350821
     Price: $11.99 USD
-- [Chamomile Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chamomile-bubble-free-stickers): Add white-and-gold chamomile flower artwork to a laptop or tea journal. A botanical vinyl sticker with vintage apothecary style for gardeners and green witches.
-  Updated: 2026-10-12T21:14:46Z
+- [Chamomile Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chamomile-bubble-free-stickers): Botanical Chamomile Witchy Herb vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:37Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -790,8 +790,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83947562db3.jpg?v=1788350834
     Price: $3.99 USD
-- [Chamomile Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/chamomile-mug-with-color-inside): Bring chamomile flower artwork to coffee or tea with this botanical ceramic mug. White-and-gold blossoms and vintage herbal styling suit cottagecore fans.
-  Updated: 2026-10-12T21:14:51Z
+- [Chamomile Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/chamomile-mug-with-color-inside): Chamomile Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:39Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -804,8 +804,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a91c6a835146.jpg?v=1788350891
     Price: $11.99 USD
-- [Lavender Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/lavender-bubble-free-stickers): Decorate a laptop or garden journal with a lavender vinyl sticker. Purple flower artwork and vintage apothecary styling make a gift for botanical art lovers.
-  Updated: 2026-10-12T21:14:51Z
+- [Lavender Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/lavender-bubble-free-stickers): Botanical Lavender Witchy Herb vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:39Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -822,8 +822,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83998063367.jpg?v=1788350901
     Price: $3.99 USD
-- [Lavender Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/lavender-mug-with-color-inside): Enjoy coffee or tea in a lavender ceramic mug featuring purple flowering sprigs and vintage apothecary artwork. A cottagecore gift for gardeners and herb fans.
-  Updated: 2026-10-12T21:14:56Z
+- [Lavender Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/lavender-mug-with-color-inside): Lavender Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:38Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -836,8 +836,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a9198802dcec.jpg?v=1788350958
     Price: $11.99 USD
-- [Rosemary Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/rosemary-bubble-free-stickers): Bring rosemary sprig artwork to a laptop, recipe box, or garden journal with this botanical vinyl sticker. A vintage apothecary gift for kitchen witches.
-  Updated: 2026-10-12T21:14:56Z
+- [Rosemary Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/rosemary-bubble-free-stickers): Botanical Rosemary Witchy Herb vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:37Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -854,8 +854,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a839aa6c71a5.jpg?v=1788350970
     Price: $3.99 USD
-- [Rosemary Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/rosemary-mug-with-color-inside): Enjoy coffee or tea in a rosemary ceramic mug with evergreen sprig artwork and vintage apothecary details. A botanical gift for gardeners and kitchen witches.
-  Updated: 2026-10-12T21:15:03Z
+- [Rosemary Botanical Apothecary Mug | Thorn & Thimble](https://thornthimble.shop/products/rosemary-mug-with-color-inside): Rosemary Apothecary Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:38Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -868,50 +868,50 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a9192b785c5e.jpg?v=1788351009
     Price: $11.99 USD
-- [Belladonna Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/belladonna-eco-tote-bag): Carry books or groceries in a belladonna organic cotton tote bag. Purple nightshade blossoms, berries, and apothecary artwork add gothic botanical style.
-  Updated: 2026-10-12T21:15:03Z
+- [Belladonna Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/belladonna-eco-tote-bag): Take dark botanical artwork to the library with a belladonna organic cotton tote, featuring purple flowers, berries and apothecary details.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83aab259d14.png?v=1787500076
   Price: $20.99 USD
-- [Rosemary Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/rosemary-eco-tote-bag): Carry books and market finds in a rosemary organic cotton tote bag. Evergreen herb artwork and vintage botanical styling make a gift for kitchen witches.
-  Updated: 2026-10-12T21:15:03Z
+- [Rosemary Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/rosemary-eco-tote-bag): Bring herbal artwork to market day with a rosemary organic cotton tote, featuring evergreen sprigs in a vintage botanical style.
+  Updated: 2026-10-22T02:48:39Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83ab3faa788.png?v=1787499983
   Price: $20.99 USD
-- [Lavender Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/lavender-eco-tote-bag): Carry books or groceries in a lavender organic cotton tote bag. Purple flower artwork and vintage apothecary details bring cottagecore style to errands.
-  Updated: 2026-10-12T21:15:03Z
+- [Lavender Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/lavender-eco-tote-bag): Carry purple botanical color with a lavender organic cotton tote, featuring flowering sprigs in a vintage apothecary-style design.
+  Updated: 2026-10-22T02:48:41Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83abac46001.png?v=1788351066
   Price: $20.99 USD
-- [Chamomile Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chamomile-eco-tote-bag): Carry books and market finds in a chamomile organic cotton tote bag. White-and-gold flower artwork brings vintage botanical and cottagecore charm to errands.
-  Updated: 2026-10-12T21:15:07Z
+- [Chamomile Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chamomile-eco-tote-bag): Take a tea-garden theme along with a chamomile organic cotton tote, featuring delicate white-and-gold flowers in a vintage herbal style.
+  Updated: 2026-10-22T02:48:41Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83ac1f1732e.png?v=1788351081
   Price: $20.99 USD
-- [Mandrake Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/mandrake-eco-tote-bag): Carry books or market finds in a mandrake organic cotton tote bag. Forked-root artwork and vintage apothecary styling make a botanical gift for folklore fans.
-  Updated: 2026-10-12T21:15:07Z
+- [Mandrake Apothecary Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/mandrake-eco-tote-bag): Carry folklore-inspired artwork with a mandrake organic cotton tote, featuring the legendary forked root in a vintage apothecary style.
+  Updated: 2026-10-22T02:48:41Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83ac8fc7e24.png?v=1787499682
   Price: $20.99 USD
-- [Foxglove Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/foxglove-eco-tote-bag): Carry books and groceries in a foxglove organic cotton tote bag. Bell-shaped flower artwork and vintage apothecary details add dark cottagecore charm.
-  Updated: 2026-10-12T21:15:08Z
+- [Foxglove Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/foxglove-eco-tote-bag): Bring dark cottage-garden artwork to your errands with a foxglove organic cotton tote, featuring bell-shaped blooms and apothecary accents.
+  Updated: 2026-10-22T02:48:41Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a83ace1e00a7.png?v=1787499604
   Price: $20.99 USD
-- [Deer Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-bubble-free-stickers): Add antlered deer skull artwork and dark flowers to a laptop or nature journal. A gothic botanical vinyl sticker for woodland art and oddities lovers.
-  Updated: 2026-10-12T21:15:16Z
+- [Deer Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-bubble-free-stickers): Botanical Deer Skull Gothic Boho vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:41Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -926,8 +926,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b1c27cd36.jpg?v=1788351124
     Price: $3.99 USD
-- [Deer Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-mug-with-color-inside): Enjoy coffee or tea in a deer skull ceramic mug with dark florals, crystals, and celestial artwork. A gothic woodland gift for lovers of macabre décor.
-  Updated: 2026-10-12T21:15:17Z
+- [Deer Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-mug-with-color-inside): Deer Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:42Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -940,15 +940,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a917daee61c4.jpg?v=1788351174
     Price: $11.99 USD
-- [Deer Skull Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-eco-tote-bag): Carry books or groceries in a deer skull organic cotton tote bag. Dark florals, crystals, and celestial artwork bring gothic woodland style to errands.
-  Updated: 2026-10-12T21:15:17Z
+- [Deer Skull Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-eco-tote-bag): Carry Gothic woodland artwork in a deer skull organic cotton tote, with dark florals, crystals and celestial accents.
+  Updated: 2026-10-22T02:48:42Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/IMG-0816.png?v=1788984577
   Price: $20.99 USD
-- [Jackalope Skull Gothic Botanical Sticker | Thorn & Thimble](https://thornthimble.shop/products/rabbit-skull-bubble-free-stickers): Decorate a laptop or journal with a jackalope skull vinyl sticker. Mythical antlered rabbit artwork and dark flowers make a gothic gift for cryptid lovers.
-  Updated: 2026-10-12T21:15:22Z
+- [Jackalope Skull Gothic Botanical Sticker | Thorn & Thimble](https://thornthimble.shop/products/rabbit-skull-bubble-free-stickers): Botanical Jackalope Skull Gothic Boho vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:42Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -963,15 +963,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b43916819.jpg?v=1788351202
     Price: $3.99 USD
-- [Jackalope Skull Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/rabbit-skull-eco-tote-bag): Carry books and market finds in a jackalope skull organic cotton tote bag. Mythical rabbit skull artwork and dark florals make a gothic gift for cryptid fans.
-  Updated: 2026-10-12T21:15:26Z
+- [Jackalope Skull Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/rabbit-skull-eco-tote-bag): Take a folklore oddity along with a jackalope skull organic cotton tote, with a horned rabbit skull, dark florals and celestial details.
+  Updated: 2026-10-22T02:48:43Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/IMG-0817.png?v=1788984576
   Price: $20.99 USD
-- [Jackalope Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-mug-with-color-inside-1): Enjoy coffee or tea in a jackalope skull ceramic mug with mythical horned-rabbit artwork, dark florals, and celestial details. A gothic gift for cryptid fans.
-  Updated: 2026-10-12T21:15:26Z
+- [Jackalope Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/deer-skull-mug-with-color-inside-1): Jackalope Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:42Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -984,8 +984,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a9176c162d38.jpg?v=1788351262
     Price: $11.99 USD
-- [Ram Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-bubble-free-stickers): Add ram skull artwork with curved horns and dark flowers to a laptop or journal. A gothic botanical vinyl sticker for skull art and oddities enthusiasts.
-  Updated: 2026-10-12T21:15:32Z
+- [Ram Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-bubble-free-stickers): Botanical Ram Skull Gothic Boho vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:43Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1000,8 +1000,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b7f0cf74f.jpg?v=1788351274
     Price: $3.99 USD
-- [Raven Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/raven-skull-bubble-free-stickers): Decorate a laptop or spell journal with a raven skull vinyl sticker. Corvid skull artwork and dark floral details make a gothic gift for oddities lovers.
-  Updated: 2026-10-12T21:15:36Z
+- [Raven Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/raven-skull-bubble-free-stickers): Botanical Raven Skull Gothic Boho vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:43Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1016,8 +1016,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b87d47c60.jpg?v=1788388799
     Price: $3.99 USD
-- [Mouse Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-bubble-free-stickers): Add tiny mouse skull artwork, mushrooms, and celestial details to a laptop or journal. A botanical vinyl sticker combining cute gothic and woodland style.
-  Updated: 2026-10-12T21:15:42Z
+- [Mouse Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-bubble-free-stickers): Botanical Mouse Skull Cute Gothic vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:43Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1032,8 +1032,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b8f0cc347.jpg?v=1788351297
     Price: $3.99 USD
-- [Horse Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-bubble-free-stickers): Decorate a laptop or riding journal with a horse skull vinyl sticker. Detailed bone artwork and dark flowers make a gothic botanical gift for equestrians.
-  Updated: 2026-10-12T21:15:46Z
+- [Horse Skull Gothic Botanical Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-bubble-free-stickers): Botanical Horse Skull Gothic Boho vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:44Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1048,15 +1048,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a83b9bda444f.jpg?v=1788351309
     Price: $3.99 USD
-- [Horse Skull Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-eco-tote-bag): Carry books or market finds in a horse skull organic cotton tote bag. Dark floral and celestial artwork makes a gothic botanical gift for equestrians.
-  Updated: 2026-10-12T21:15:46Z
+- [Horse Skull Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-eco-tote-bag): Add a macabre equestrian accent to your errands with a horse skull organic cotton tote, framed by dark florals and celestial details.
+  Updated: 2026-10-22T02:48:44Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/IMG-0819.png?v=1788984576
   Price: $20.99 USD
-- [Horse Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-mug-with-color-inside): Enjoy coffee or tea in a horse skull ceramic mug with dark floral, crystal, and celestial artwork. A gothic botanical gift for equestrians and oddities fans.
-  Updated: 2026-10-12T21:15:46Z
+- [Horse Skull Gothic Botanical Mug | Thorn & Thimble](https://thornthimble.shop/products/horse-skull-mug-with-color-inside): Horse Skull Gothic Botanical ceramic mug for coffee and tea. Choose 11 oz or 15 oz. Colored rim, interior and handle.
+  Updated: 2026-10-22T02:48:45Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1069,78 +1069,78 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-black-15-oz-right-6a916e646dbc9.jpg?v=1788351370
     Price: $11.99 USD
-- [Ram Skull Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-eco-tote-bag): Carry books and groceries in a ram skull organic cotton tote bag. Curved-horn artwork, dark florals, and celestial details bring gothic botanical style.
-  Updated: 2026-10-12T21:15:51Z
+- [Ram Skull Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-eco-tote-bag): Carry dramatic horned-skull artwork with a ram skull organic cotton tote, with dark florals, crystals and celestial details.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/IMG-0813.png?v=1788984576
   Price: $20.99 USD
-- [Raven Skull Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/eco-tote-bag-1): Carry books or market finds in a raven skull organic cotton tote bag. Dark floral, crystal, and celestial artwork make a gothic gift for corvid lovers.
-  Updated: 2026-10-12T21:15:51Z
+- [Raven Skull Botanical Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/eco-tote-bag-1): Take cabinet-of-curiosities artwork along in a raven skull organic cotton tote, with dark florals, crystals and celestial accents.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/IMG-0818.png?v=1788984576
   Price: $20.99 USD
-- [Death's-Head Hawkmoth Gothic Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-garden-flag): Add death's-head hawkmoth artwork and gothic botanicals to your garden or porch with a 12 x 17-inch polyester flag. Flagpole not included.
-  Updated: 2026-10-12T21:15:51Z
+- [Death's-Head Hawkmoth Gothic Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/death-head-moth-garden-flag): Death’s-Head Hawkmoth Gothic Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8320CBF8-CBBC-4D01-A317-5999E4D217A9.png?v=1787871979
   Price: $11.99 USD
-- [Foxglove Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/foxglove-garden-flag): Display foxglove flower artwork and witchy botanical details in a garden or on a porch. This 12 x 17-inch polyester garden flag excludes the flagpole.
-  Updated: 2026-10-12T21:15:57Z
+- [Foxglove Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/foxglove-garden-flag): Foxglove Apothecary Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:45Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/49C6DADE-B51B-4AE4-9828-58DB287D0E6C.png?v=1787871272
   Price: $11.99 USD
-- [Monarch Butterfly Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-garden-flag): Add orange-and-black monarch butterfly artwork to a garden or porch with a 12 x 17-inch polyester flag. A nature-inspired accent; flagpole not included.
-  Updated: 2026-10-12T21:15:57Z
+- [Monarch Butterfly Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-garden-flag): Monarch Butterfly Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/20AAE74B-0C8C-4051-830B-89CF94F5E71B.png?v=1787871072
   Price: $11.99 USD
-- [Mouse Skull Gothic Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-garden-flag): Add mouse skull artwork and dark botanicals to a garden or porch with this 12 x 17-inch polyester flag. A gothic outdoor accent; flagpole not included.
-  Updated: 2026-10-12T21:15:57Z
+- [Mouse Skull Gothic Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/mouse-skull-garden-flag): Mouse Skull Gothic Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:46Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/EEE8B1AE-975C-4830-B5C7-86615156287B.png?v=1787869112
   Price: $11.99 USD
-- [Deer Skull Gothic Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-garden-flag): Bring deer skull artwork and dark botanicals to your garden or porch with a 12 x 17-inch polyester flag. A gothic woodland accent; flagpole not included.
-  Updated: 2026-10-12T21:16:03Z
+- [Deer Skull Gothic Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/ram-skull-garden-flag): Deer Skull Gothic Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:48Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F3BAD7D0-7DF8-45E2-8450-0FAC9C856DBF.png?v=1787868891
   Price: $11.99 USD
-- [Ink Cap Mushroom Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/ink-cap-garden-flag): Display ink cap mushroom artwork in a garden or beside a woodland path. A 12 x 17-inch polyester flag with cottagecore fungi details; flagpole not included.
-  Updated: 2026-10-12T21:16:03Z
+- [Ink Cap Mushroom Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/ink-cap-garden-flag): Ink Cap Mushroom Cottagecore garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:48Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1B94CD21-04B9-4F64-9431-7BCAF85F7666.png?v=1787868483
   Price: $11.99 USD
-- [Fly Agaric Mushroom Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/fly-agaric-garden-flag): Add red-and-white fly agaric mushroom artwork to your garden or porch with a 12 x 17-inch polyester flag. A cottagecore accent; flagpole not included.
-  Updated: 2026-10-12T21:16:07Z
+- [Fly Agaric Mushroom Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/fly-agaric-garden-flag): Fly Agaric Mushroom Cottagecore garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:48Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/330A1C38-6360-4F3C-8838-49E3195A913F.png?v=1787870699
   Price: $11.99 USD
-- [Lavender Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/lavender-garden-flag): Display purple lavender artwork, a crescent moon, and apothecary details in your garden. A 12 x 17-inch polyester flag; flagpole not included.
-  Updated: 2026-10-12T21:16:07Z
+- [Lavender Botanical Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/lavender-garden-flag): Lavender Apothecary Botanical garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:51Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/631A557E-4EAD-4F3F-866E-463ED8A33323.png?v=1787870007
   Price: $11.99 USD
-- [Frog Witch Candle Magic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-candle-bubble-free-stickers): Add a frog witch practicing candle magic to a laptop or journal with this vinyl sticker. Whimsical woodland artwork makes a cottagecore gift for frog lovers.
-  Updated: 2026-10-12T21:16:12Z
+- [Frog Witch Candle Magic Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-candle-bubble-free-stickers): Frog Witch Candle Magic Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:50Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1157,8 +1157,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84a7579bd8e.jpg?v=1788351528
     Price: $3.99 USD
-- [Frog Witch Crafter Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-craft-bubble-free-stickers): Decorate a laptop, notebook, or craft box with a frog witch crafter vinyl sticker. Whimsical cottagecore artwork makes a charming gift for creative makers.
-  Updated: 2026-10-12T21:16:11Z
+- [Frog Witch Crafter Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-craft-bubble-free-stickers): Frog Witch Crafter Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:51Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1175,8 +1175,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84a80d5ec94.jpg?v=1788351555
     Price: $3.99 USD
-- [Frog Witch Tea Party Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-tea-bubble-free-stickers): Add cozy frog witch tea party artwork to a laptop, notebook, or recipe box with this vinyl sticker. A cottagecore gift for frog lovers and tea drinkers.
-  Updated: 2026-10-12T21:16:14Z
+- [Frog Witch Tea Party Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-tea-bubble-free-stickers): Frog Witch Tea Party Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:51Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1193,8 +1193,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84a8b8769ac.jpg?v=1788351580
     Price: $3.99 USD
-- [Frog Witch with Staff Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-bubble-free-stickers): Decorate a laptop or adventure journal with a frog witch holding a magical staff. A woodland vinyl sticker for cottagecore fans and fantasy readers.
-  Updated: 2026-10-12T21:16:16Z
+- [Frog Witch with Staff Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-bubble-free-stickers): Frog Witch with Staff Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:50Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1211,8 +1211,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84a989d6886.jpg?v=1788351606
     Price: $3.99 USD
-- [Pink Frog Witch Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-pink-bubble-free-stickers): Bring pink frog witch artwork to a laptop, journal, or planner with this vinyl sticker. A colorful cottagecore gift for frog lovers and witchy stationery fans.
-  Updated: 2026-10-12T21:16:22Z
+- [Pink Frog Witch Cottagecore Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-pink-bubble-free-stickers): Pink Frog Witch Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:51Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1229,8 +1229,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84aa4843c5b.jpg?v=1788351630
     Price: $3.99 USD
-- [Frog Witch Herbalist Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-herbs-bubble-free-stickers): Decorate a laptop or garden journal with a frog witch herbalist vinyl sticker. Botanical woodland artwork makes a cottagecore gift for gardeners and frog fans.
-  Updated: 2026-10-12T21:16:26Z
+- [Frog Witch Herbalist Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-herbs-bubble-free-stickers): Frog Witch Herbalist Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:54Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1247,8 +1247,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84aae27a533.jpg?v=1788351655
     Price: $3.99 USD
-- [Frog Witch Bubble Bath Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-bath-bubble-free-stickers): Add cozy frog witch bubble bath artwork to a laptop or journal with this vinyl sticker. A whimsical cottagecore gift for frog lovers and bath enthusiasts.
-  Updated: 2026-10-12T21:16:26Z
+- [Frog Witch Bubble Bath Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-bath-bubble-free-stickers): Frog Witch Bubble Bath Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:51Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1265,8 +1265,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84ab904da12.jpg?v=1788351679
     Price: $3.99 USD
-- [Frog Witch with Mushroom Goblincore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-mushroom-bubble-free-stickers): Decorate a laptop or nature journal with a frog witch and enchanted mushroom vinyl sticker. Whimsical woodland artwork makes a goblincore gift for fungi fans.
-  Updated: 2026-10-12T21:16:26Z
+- [Frog Witch with Mushroom Goblincore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-mushroom-bubble-free-stickers): Frog Witch with Mushroom Cute Goblincore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:53Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1283,8 +1283,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a862fe76ec40.jpg?v=1788351703
     Price: $3.99 USD
-- [Frog Witch with Cauldron Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-cauldron-bubble-free-stickers): Add a frog witch tending a bubbling cauldron to a laptop or spell journal with this vinyl sticker. A cottagecore gift for frog lovers and potion art fans.
-  Updated: 2026-10-12T21:16:32Z
+- [Frog Witch with Cauldron Cottagecore Sticker | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-cauldron-bubble-free-stickers): Frog Witch with Cauldron Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:48:52Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1301,71 +1301,71 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a84ad252a607.jpg?v=1788351727
     Price: $3.99 USD
-- [Frog Witch Tea Party Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-tea-eco-tote-bag): Carry books and market finds in a frog witch tea party organic cotton tote bag. Cozy woodland artwork makes a cottagecore gift for tea and frog lovers.
-  Updated: 2026-10-12T21:16:32Z
+- [Frog Witch Tea Party Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-tea-eco-tote-bag): Carry a woodland tea party in illustrated form with a frog witch organic cotton tote, surrounded by mushrooms and botanical details.
+  Updated: 2026-10-22T02:48:53Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/0DDB856F-0DCA-4D3B-A85A-739237164280.png?v=1787942212
   Price: $20.99 USD
-- [Frog Witch with Staff Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-eco-tote-bag): Carry books or groceries in a frog witch organic cotton tote bag. Magical staff, mushroom, and crystal artwork brings cottagecore style to everyday errands.
-  Updated: 2026-10-12T21:16:36Z
+- [Frog Witch Staff Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-eco-tote-bag): Add a tiny woodland spellcaster to your errands with a frog witch organic cotton tote, featuring a magical staff and botanical details.
+  Updated: 2026-10-22T02:48:53Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/EBFE333A-BD3B-485D-865A-EA9FFFFCDFC2.png?v=1787938928
   Price: $20.99 USD
-- [Pink Frog Witch Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-pink-eco-tote-bag): Carry books and market finds in a pink frog witch organic cotton tote bag. Colorful woodland artwork makes a cottagecore gift for frog and fantasy lovers.
-  Updated: 2026-10-12T21:16:37Z
+- [Pink Frog Witch Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-pink-eco-tote-bag): Bring playful color to market day with a pink frog witch organic cotton tote, with mushrooms, botanicals and enchanted details.
+  Updated: 2026-10-22T02:48:55Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7F8685B7-BDF4-44CC-AB90-5362EA43144F.png?v=1787926978
   Price: $20.99 USD
-- [Frog Witch Herbalist Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-herbs-eco-tote-bag): Carry books or market finds in a frog witch herbalist organic cotton tote bag. Herb and woodland artwork makes a cottagecore gift for gardeners and frog fans.
-  Updated: 2026-10-12T21:16:42Z
+- [Frog Witch Herbalist Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-herbs-eco-tote-bag): Carry a tiny herbalist along in a frog witch organic cotton tote, featuring herbs, mushrooms and magical woodland details.
+  Updated: 2026-10-22T02:48:54Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/BF283035-3DC6-46F2-9C3D-520235E42DC8.png?v=1787925609
   Price: $20.99 USD
-- [Mushroom Frog Witch Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-mushroom-eco-tote-bag): Carry books or groceries in a mushroom frog witch organic cotton tote bag. Fungi and woodland artwork bring cottagecore and goblincore charm to errands.
-  Updated: 2026-10-12T21:16:42Z
+- [Mushroom Frog Witch Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-mushroom-eco-tote-bag): Take woodland mischief along with a mushroom frog witch organic cotton tote, featuring fungi, botanicals and enchanted forest details.
+  Updated: 2026-10-22T02:48:54Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/5BD98217-B68C-42F8-A785-E4815CB31C45.png?v=1787918373
   Price: $20.99 USD
-- [Frog Witch with Cauldron Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-cauldron-eco-tote-bag): Carry books and market finds in a frog witch cauldron organic cotton tote bag. Potion-making woodland artwork makes a cottagecore gift for frog lovers.
-  Updated: 2026-10-12T21:16:42Z
+- [Frog Witch Cauldron Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-cauldron-eco-tote-bag): Carry a bubbling woodland scene with a frog witch organic cotton tote, featuring a cauldron among mushrooms and botanicals.
+  Updated: 2026-10-22T02:48:54Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/0AA7B5DD-430D-437F-B4EB-B8FC42E4B5DE.png?v=1787916516
   Price: $20.99 USD
-- [Frog Witch with Candle Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-candle-garden-flag): Display frog witch candle artwork with mushrooms and woodland details in your garden. A 12 x 17-inch polyester flag; flagpole not included.
-  Updated: 2026-10-12T21:16:44Z
+- [Frog Witch with Candle Cottagecore Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-candle-garden-flag): Frog Witch with Candle Cottagecore garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:48:55Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A04E9CFF-44D3-488A-BD1E-B630197D0CD6.png?v=1787872648
   Price: $11.99 USD
-- [Frog Witch with Staff Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-garden-flag): Bring woodland magic to your garden with a frog witch flag featuring mushrooms, crystals and a staff. 12 × 17-inch polyester flag; pole not included.
-  Updated: 2026-10-12T21:16:47Z
+- [Frog Witch with Staff Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/frog-witch-staff-garden-flag): Frog Witch with Staff Cottagecore garden flag: 12 x 17 inches in 100% polyester with a pole hem. Flagpole not included.
+  Updated: 2026-10-22T02:49:06Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/52D86269-3A6D-4B2A-8436-4E740C324257.png?v=1787872392
   Price: $11.99 USD
-- [Chicken Witches Cottagecore Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/chicken-witches-sticker-sheet): A flock of chicken witches reads, bakes and casts spells on this glossy sticker sheet. Decorate journals, planners and laptops with cottagecore charm.
-  Updated: 2026-10-12T21:16:52Z
+- [Chicken Witches Sticker Sheet | Thorn & Thimble](https://thornthimble.shop/products/chicken-witches-sticker-sheet): Cottagecore chicken witches in a glossy sticker sheet for journals, planners and laptops. A whimsical flock for smooth indoor surfaces.
+  Updated: 2026-10-22T02:49:08Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/687F1FAC-ADED-4F8B-8CCF-020027EB0D96.png?v=1788123299
   Price: $6.99 USD
-- [Chicken Witch Baker Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-bubble-free-stickers): A feathered kitchen witch brings baking magic to this vinyl sticker. Add cottagecore charm to your laptop, notebook or recipe box; a sweet baker gift.
-  Updated: 2026-10-12T21:16:51Z
+- [Chicken Witch Baker Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-bubble-free-stickers): Chicken Witch Baker vinyl sticker featuring a feathered kitchen witch baking enchanted treats. Three sizes for laptops, notebooks and cottagecore stationery.
+  Updated: 2026-10-22T02:49:10Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1382,8 +1382,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85c88185c24.jpg?v=1788351940
     Price: $3.99 USD
-- [Stargazing Chicken Witch Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-bubble-free-stickers): Celebrate celestial curiosity with a stargazing chicken witch vinyl sticker. A whimsical touch for astronomy journals, notebooks and chicken lover gifts.
-  Updated: 2026-10-12T21:16:56Z
+- [Stargazing Chicken Witch Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-bubble-free-stickers): Stargazing Chicken Witch vinyl sticker featuring a feathered stargazer studying the moon and stars. Three sizes for laptops, notebooks and journals.
+  Updated: 2026-10-22T02:49:09Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1400,8 +1400,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85d78bd7026.jpg?v=1788351965
     Price: $3.99 USD
-- [Chicken Witch Tea Party Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-tea-bubble-free-stickers): Take a magical tea break with this chicken witch vinyl sticker. Cozy cottagecore artwork for notebooks, laptops and gifts for tea-loving chicken fans.
-  Updated: 2026-10-12T21:16:57Z
+- [Chicken Witch Tea Party Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-tea-bubble-free-stickers): Chicken Witch Tea Party vinyl sticker featuring a feathered witch enjoying a magical cup of tea. Three sizes for laptops, notebooks and cottagecore stationery.
+  Updated: 2026-10-22T02:49:08Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1418,8 +1418,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85d84eaec96.jpg?v=1788351988
     Price: $3.99 USD
-- [Chicken Witch with Broom Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-bubble-free-stickers): This chicken witch and her trusty broom bring farmyard magic to a vinyl sticker. Decorate laptops, notebooks and journals with whimsical cottagecore art.
-  Updated: 2026-10-12T21:17:03Z
+- [Chicken Witch with Broom Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-bubble-free-stickers): Chicken Witch with Broom vinyl sticker featuring a feathered spellcaster with her trusty broom. Three sizes for laptops, notebooks and cottagecore stationery.
+  Updated: 2026-10-22T02:49:09Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1436,8 +1436,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85d931432ce.jpg?v=1788388814
     Price: $3.99 USD
-- [Chicken Witch Magic Mirror Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-mirror-bubble-free-stickers): A chicken witch consults her enchanted mirror on this cottagecore vinyl sticker. Add fairy-tale charm to a notebook, laptop or vanity case.
-  Updated: 2026-10-12T21:17:07Z
+- [Chicken Witch Magic Mirror Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-mirror-bubble-free-stickers): Chicken Witch Magic Mirror vinyl sticker featuring a feathered witch consulting her enchanted mirror. Three sizes for laptops, notebooks and journals.
+  Updated: 2026-10-22T02:49:09Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1454,8 +1454,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85fe50a929c.jpg?v=1788352037
     Price: $3.99 USD
-- [Bookish Chicken Witch Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-book-bubble-free-stickers): A bookish chicken witch gets lost in her reading on this vinyl sticker. Whimsical cottagecore art for reading journals, laptops and book lover gifts.
-  Updated: 2026-10-12T21:17:07Z
+- [Bookish Chicken Witch Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-book-bubble-free-stickers): Bookish Chicken Witch vinyl sticker featuring a scholarly chicken witch absorbed in a book. Three sizes for laptops, notebooks and cottagecore stationery.
+  Updated: 2026-10-22T02:49:09Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1472,50 +1472,50 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a85fef1bbb2c.jpg?v=1788352062
     Price: $3.99 USD
-- [Rosy Maple Moth Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/maple-rosy-moth-eco-tote-bag): Carry books and market finds in a rosy maple moth organic cotton tote. Pink-and-yellow moth artwork with botanical details makes a charming nature gift.
-  Updated: 2026-10-12T21:17:07Z
+- [Rosy Maple Moth Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/maple-rosy-moth-eco-tote-bag): Add pink-and-yellow moth artwork to your daily carry with a rosy maple moth organic cotton tote and botanical details.
+  Updated: 2026-10-22T02:49:11Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a8841e95f483.png?v=1788352081
   Price: $20.99 USD
-- [Luna Moth Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-eco-tote-bag): A green luna moth meets botanical and celestial details on this organic cotton tote bag. A reusable companion for library visits, markets and nature lovers.
-  Updated: 2026-10-12T21:17:11Z
+- [Luna Moth Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/luna-moth-eco-tote-bag): Carry a night-garden design with a luna moth organic cotton tote, featuring the green moth with botanical and celestial details.
+  Updated: 2026-10-22T02:49:11Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a8842decec4b.png?v=1788352095
   Price: $20.99 USD
-- [Death's-Head Hawkmoth Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/death-head-hawk-moth-eco-tote-bag): Gothic botanical artwork surrounds a death's-head hawkmoth on this organic cotton tote. Carry books, groceries and oddities with nocturnal style.
-  Updated: 2026-10-12T21:17:12Z
+- [Deaths Head Hawkmoth Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/death-head-hawk-moth-eco-tote-bag): Take Gothic natural-history artwork along with a death's-head hawkmoth organic cotton tote, featuring its skull-like marking and botanicals.
+  Updated: 2026-10-22T02:49:12Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a88434ad039a.png?v=1788352109
   Price: $20.99 USD
-- [Atlas Moth Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-eco-tote-bag): Dramatic atlas moth artwork with botanical and celestial details decorates this organic cotton tote. Carry books, market finds and craft supplies.
-  Updated: 2026-10-12T21:17:16Z
+- [Atlas Moth Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/atlas-moth-eco-tote-bag): Bring patterned-wing artwork to your errands with an atlas moth organic cotton tote, surrounded by botanical and celestial details.
+  Updated: 2026-10-22T02:49:13Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a88445d2b65f.png?v=1788352124
   Price: $20.99 USD
-- [Blue Morpho Butterfly Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-butterfly-eco-tote-bag): Vivid blue morpho butterfly artwork brings botanical beauty to this organic cotton tote bag. A reusable carryall for books, groceries and nature gifts.
-  Updated: 2026-10-12T21:17:16Z
+- [Blue Morpho Butterfly Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/blue-morpho-butterfly-eco-tote-bag): Carry vivid blue butterfly artwork with a blue morpho organic cotton tote, with botanical and celestial details.
+  Updated: 2026-10-22T02:49:13Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a8844c246ae9.png?v=1788352139
   Price: $20.99 USD
-- [Monarch Butterfly Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-eco-tote-bag): Orange-and-black monarch butterfly artwork with botanical details adorns this organic cotton tote. Carry library books, groceries and garden finds.
-  Updated: 2026-10-12T21:17:17Z
+- [Monarch Butterfly Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/monarch-butterfly-eco-tote-bag): Bring orange-and-black butterfly artwork to everyday outings with a monarch organic cotton tote, with botanical and celestial accents.
+  Updated: 2026-10-22T02:49:12Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-black-front-6a88452159497.png?v=1788352153
   Price: $20.99 USD
-- [Gardening Chicken Witch Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-bubble-free-stickers): A chicken witch tends her plants with a watering can on this vinyl sticker. Add cottagecore garden charm to notebooks, laptops and gardening journals.
-  Updated: 2026-10-12T21:17:17Z
+- [Gardening Chicken Witch Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-bubble-free-stickers): Gardening Chicken Witch vinyl sticker featuring a magical hen tending plants with a watering can. Three sizes for laptops, notebooks and cottagecore stationery.
+  Updated: 2026-10-22T02:49:13Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1530,8 +1530,8 @@
   - [5.5″×5.5″](https://thornthimble.shop/products/chicken-witch-watering-can-bubble-free-stickers?variant=46410965221473)
     Availability: Available
     Price: $3.99 USD
-- [Chicken Witch with Wand Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-bubble-free-stickers): A wand-wielding chicken witch brings magical mischief to this vinyl sticker. Whimsical cottagecore art for laptops, spell journals and chicken lover gifts.
-  Updated: 2026-10-12T21:17:22Z
+- [Chicken Witch with Wand Sticker | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-bubble-free-stickers): Chicken Witch with Wand vinyl sticker featuring a feathered spellcaster wielding her magical wand. Three sizes for laptops, notebooks and journals.
+  Updated: 2026-10-22T02:49:13Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1548,64 +1548,64 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a885f056decd.jpg?v=1788352197
     Price: $3.99 USD
-- [Chicken Witch with Wand Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-garden-flag): Welcome farmyard magic with a wand-wielding chicken witch garden flag. Herbs, blossoms and stars fill the 12 × 17-inch design; flag pole not included.
-  Updated: 2026-10-12T21:17:22Z
+- [Chicken Witch Wand Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-garden-flag): Chicken Witch Wand garden flag featuring a spellcasting hen among herbs, flowers and celestial details. 12 × 17-inch polyester flag; pole sold separately.
+  Updated: 2026-10-22T02:49:14Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DAEBB569-2624-4C19-BF91-A0C1DC0C1C53.png?v=1787870272
   Price: $11.99 USD
-- [Gardening Chicken Witch Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-can-garden-flag): A chicken witch waters her enchanted garden on this 12 × 17-inch polyester flag. Cottagecore outdoor decor for a porch, coop or flower bed; no pole included.
-  Updated: 2026-10-12T21:17:26Z
+- [Chicken Witch Watering Can Garden Flag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-can-garden-flag): Chicken Witch Watering Can garden flag featuring a magical hen tending her enchanted garden. 12 × 17-inch polyester flag; pole sold separately.
+  Updated: 2026-10-22T02:49:12Z
   Vendor: Thorn & Thimble
   Product Type: Garden Flags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1FA5178E-D9AF-4B3F-BC23-896A54963714.png?v=1787871429
   Price: $11.99 USD
-- [Chicken Witch Baker Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-eco-tote-bag): Carry cookbooks and market finds with a chicken witch baker organic cotton tote. Cozy kitchen magic and cottagecore artwork make a playful baking gift.
-  Updated: 2026-10-12T21:17:27Z
+- [Chicken Witch Baker Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-eco-tote-bag): Add a kitchen-witch theme to market trips with a chicken witch baker organic cotton tote, featuring cozy baking and magical details.
+  Updated: 2026-10-22T02:49:16Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/289A993B-BC1A-4893-A209-21E6069AD97D.png?v=1788251744
   Price: $20.99 USD
-- [Stargazing Chicken Witch Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-eco-tote-bag): A stargazing chicken witch studies the night sky on this organic cotton tote bag. Carry astronomy journals, library books and everyday market finds.
-  Updated: 2026-10-12T21:17:26Z
+- [Stargazing Chicken Witch Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-eco-tote-bag): Carry a curious stargazer along with a chicken witch organic cotton tote, featuring a hen, stars and botanical details.
+  Updated: 2026-10-22T02:49:18Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/eco-tote-bag-oyster-front-6a8865ef669df.png?v=1788352260
   Price: $20.99 USD
-- [Chicken Witch with Broom Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-eco-tote-bag): A chicken witch and her broom bring storybook magic to this organic cotton tote bag. A reusable carryall for groceries, library books and witchy gifts.
-  Updated: 2026-10-12T21:17:32Z
+- [Chicken Witch Broom Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-eco-tote-bag): Bring farmyard witchcraft to your errands with a chicken witch organic cotton tote, featuring a broom, herbs, flowers and stars.
+  Updated: 2026-10-22T02:49:17Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/EF5A89F4-D6BA-4A7E-ADD0-BA006A1CA6BD.png?v=1788266495
   Price: $20.99 USD
-- [Bookish Chicken Witch Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-book-eco-tote-bag): Take a bookish chicken witch along on library trips with this organic cotton tote. Botanical and celestial details add cottagecore charm to everyday errands.
-  Updated: 2026-10-12T21:17:32Z
+- [Chicken Witch Book Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-book-eco-tote-bag): Take a bookish hen to the library with a chicken witch organic cotton tote, surrounded by botanicals, stars and cozy magical details.
+  Updated: 2026-10-22T02:49:19Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/97375E65-B4D7-439D-9DF9-EEB824C834F9.png?v=1787629178
   Price: $20.99 USD
-- [Gardening Chicken Witch Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-eco-tote-bag): A chicken witch with a watering can decorates this organic cotton tote bag. Carry farmers-market finds, books and garden supplies with cottagecore charm.
-  Updated: 2026-10-12T21:17:32Z
+- [Chicken Witch Gardening Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-eco-tote-bag): Carry garden-day charm with a chicken witch organic cotton tote, featuring a watering can, herbs, flowers and stars.
+  Updated: 2026-10-22T02:49:16Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/66CB668E-ADD8-45B5-BF54-CB29CFE8853B.png?v=1787613954
   Price: $20.99 USD
-- [Chicken Witch Writer Organic Cotton Tote Bag | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-writing-eco-tote-bag): A scholarly chicken witch records her thoughts on this organic cotton tote. A whimsical carryall for journals, library books and gifts for writers.
-  Updated: 2026-10-12T21:17:35Z
+- [Chicken Witch Writer Organic Cotton Tote | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-writing-eco-tote-bag): Bring a scholarly hen along with a chicken witch writer organic cotton tote, with books, botanicals, stars and magical details.
+  Updated: 2026-10-22T02:49:16Z
   Vendor: Thorn & Thimble
   Product Type: Eco Tote Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/C0FEFC4C-808A-47D0-901E-6CB11B94F6AF.png?v=1787609498
   Price: $20.99 USD
-- [Chicken Witch Baker Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-mug-with-color-inside): Enjoy coffee, tea or cocoa with a chicken witch baker ceramic mug. Cozy kitchen artwork and a colorful rim, handle and interior make a playful baker gift.
-  Updated: 2026-10-12T21:17:41Z
+- [Chicken Witch Baker Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-baker-mug-with-color-inside): Chicken Witch Baker ceramic mug featuring a kitchen-minded hen surrounded by baking and magical details. Choose 11 oz or 15 oz for coffee or tea.
+  Updated: 2026-10-22T02:49:16Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1618,8 +1618,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-11-oz-right-6a9166b338a25.jpg?v=1788352354
     Price: $10.99 USD
-- [Stargazing Chicken Witch Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-mug-with-color-inside): Sip beneath the stars with a stargazing chicken witch ceramic mug. Celestial cottagecore artwork and a colorful interior brighten coffee and tea breaks.
-  Updated: 2026-10-12T21:17:42Z
+- [Stargazing Chicken Witch Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-astronomy-mug-with-color-inside): Stargazing Chicken Witch ceramic mug featuring a celestial-minded hen studying the night sky. Choose 11 oz or 15 oz for a cozy cottagecore coffee or tea break.
+  Updated: 2026-10-22T02:49:17Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1632,8 +1632,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-15-oz-right-6a90de8bce951.jpg?v=1788352419
     Price: $11.99 USD
-- [Chicken Witch with Broom Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-mug-with-color-inside): A chicken witch with her broom brings farmyard magic to this ceramic mug. Botanical artwork and a colored rim, handle and interior brighten your daily brew.
-  Updated: 2026-10-12T21:17:46Z
+- [Chicken Witch with Broom Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-broom-mug-with-color-inside): Chicken Witch with Broom ceramic mug featuring a magical hen with a broom and enchanted farmyard details. Choose 11 oz or 15 oz for coffee or tea.
+  Updated: 2026-10-22T02:49:17Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1646,8 +1646,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-15-oz-right-6a90d08823602.jpg?v=1788352465
     Price: $11.99 USD
-- [Bookish Chicken Witch Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/mug-with-color-inside): Pair your next chapter with a bookish chicken witch ceramic mug. Cottagecore artwork and a colorful interior make a cozy companion for coffee, tea and books.
-  Updated: 2026-10-12T21:17:52Z
+- [Bookish Chicken Witch Mug | Thorn & Thimble](https://thornthimble.shop/products/mug-with-color-inside): Bookish Chicken Witch ceramic mug featuring a scholarly hen reading among books and botanicals. Choose 11 oz or 15 oz for coffee or tea.
+  Updated: 2026-10-22T02:49:17Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1660,8 +1660,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-15-oz-right-6a90b0eae129b.jpg?v=1788352513
     Price: $11.99 USD
-- [Gardening Chicken Witch Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-mug-with-color-inside): A chicken witch waters her enchanted plants on this ceramic mug. Its colorful rim, handle and interior make coffee breaks sweeter for garden lovers.
-  Updated: 2026-10-12T21:17:56Z
+- [Gardening Chicken Witch Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-watering-can-mug-with-color-inside): Gardening Chicken Witch ceramic mug featuring a magical hen tending plants with a watering can. Choose 11 oz or 15 oz for coffee or tea.
+  Updated: 2026-10-22T02:49:18Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1674,8 +1674,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-15-oz-right-6a9069ce8c3ef.jpg?v=1788352571
     Price: $11.99 USD
-- [Chicken Witch with Wand Ceramic Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-mug-with-color-inside): Start the day with a wand-wielding chicken witch ceramic mug. Herbs, stars and crystals surround the artwork, with a colorful rim, handle and interior.
-  Updated: 2026-10-12T21:17:57Z
+- [Chicken Witch with Wand Mug | Thorn & Thimble](https://thornthimble.shop/products/chicken-witch-wand-mug-with-color-inside): Chicken Witch with Wand ceramic mug featuring a spellcasting hen with a wand and whimsical garden details. Choose 11 oz or 15 oz for coffee or tea.
+  Updated: 2026-10-22T02:49:18Z
   Vendor: Thorn & Thimble
   Product Type: Mugs
   Availability: Available
@@ -1688,8 +1688,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/white-ceramic-mug-with-color-inside-red-15-oz-right-6a944e2f5d4ce.jpg?v=1788352629
     Price: $11.99 USD
-- [Mouse Witch Bubble Bath Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-witch-bath-bubble-free-stickers): A tiny mouse witch relaxes among bubbles and candles on this vinyl sticker. Add cozy cottagecore charm to notebooks, laptops and self-care journals.
-  Updated: 2026-10-12T21:18:02Z
+- [Mouse Witch Bubble Bath Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-witch-bath-bubble-free-stickers): Mouse Witch Bubble Bath Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:49:21Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1706,8 +1706,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a88a0770b6f4.jpg?v=1788352642
     Price: $3.99 USD
-- [Mouse Witch Baker Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-witch-baker-bubble-free-stickers): A tiny mouse kitchen witch brings cozy baking magic to this vinyl sticker. Decorate a recipe box, notebook or laptop; a whimsical gift for bakers.
-  Updated: 2026-10-12T21:18:07Z
+- [Mouse Witch Baker Vinyl Sticker | Thorn & Thimble](https://thornthimble.shop/products/mouse-witch-baker-bubble-free-stickers): Mouse Witch Baker Cute Cottagecore vinyl sticker for journals, notebooks and laptops. Choose 3″×3″, 4″×4″ or 5.5″×5.5″.
+  Updated: 2026-10-22T02:49:21Z
   Vendor: Thorn & Thimble
   Product Type: Stickers
   Availability: Available
@@ -1724,29 +1724,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a88a1192c1de.jpg?v=1788352666
     Price: $3.99 USD
-- [Sakura Flower Agate Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-woman-you-re-becoming-sakura-flower-agate-bracelet): Discover soft floral patterns in a sakura flower agate bracelet, also known as cherry blossom agate. Wear its polished beads alone or in a crystal stack.
-  Updated: 2026-10-15T14:53:16Z
+- [Sakura Flower Agate Bracelet – Growth & New Beginnings](https://thornthimble.shop/products/the-woman-you-re-becoming-sakura-flower-agate-bracelet): Sakura flower agate bracelet with blossom-like stone patterns, chosen for everyday crystal jewelry and intentions of growth and new beginnings.
+  Updated: 2026-10-22T14:06:57Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/98233AD1-3C23-4113-8ACF-FFEB89CE9A67.png?v=1790986604
   Price: $19.99 USD
-- [Chalcedony Leaf Charm Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-elegant-calming-bracelet): Soft chalcedony beads meet a delicate silver-colored leaf charm in this crystal bracelet. A nature-inspired accessory for daily wear or layered jewelry.
-  Updated: 2026-10-14T16:04:07Z
+- [Chalcedony Leaf Charm Bracelet – Calm & Communication](https://thornthimble.shop/products/the-elegant-calming-bracelet): Chalcedony bracelet with a leaf charm, pairing natural stone jewelry with symbols of renewal, calm, and thoughtful communication.
+  Updated: 2026-10-22T16:40:19Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8117D173-5C44-45A1-B6E6-9FCCC56FE885.png?v=1790970016
   Price: $12.99 USD
-- [Lapis Lazuli Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-blue-focus-bracelet): Deep blue lapis lazuli beads give this crystal bracelet a rich, distinctive finish. Wear it alone or layer it with favorite jewelry for everyday expression.
-  Updated: 2026-10-15T20:33:16Z
+- [Lapis Lazuli Bracelet – Focus & Self-Expression](https://thornthimble.shop/products/the-blue-focus-bracelet): Lapis lazuli bracelet for everyday crystal jewelry, journaling, and intentions of focus, truth, and self-expression.
+  Updated: 2026-10-22T02:49:19Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8522696D-0A08-4517-BA29-5141AFA81DD9.png?v=1791028119
   Price: $12.99 USD
-- [Hematite, Obsidian & Tiger's Eye Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-triple-protection-bracelet): Metallic hematite, black obsidian and golden tiger's eye form this 10 mm bead bracelet. A contrasting crystal jewelry design for stacking or gifting.
-  Updated: 2026-10-15T23:07:52Z
+- [Hematite, Black Obsidian & Tiger’s Eye Protection Bracelet](https://thornthimble.shop/products/the-triple-protection-bracelet): Hematite, black obsidian, and tiger’s eye bracelet combining three stones traditionally associated with grounding, courage, and protection.
+  Updated: 2026-10-23T00:21:28Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
@@ -1757,169 +1757,162 @@
   - [Get 3 for $39](https://thornthimble.shop/products/the-triple-protection-bracelet?variant=46416832528481)
     Availability: Available
     Price: $26.99 USD
-- [7 Chakra Lotus Bracelet & Crystal Stone Set | Thorn & Thimble](https://thornthimble.shop/products/7-chakra-bracelet-and-stones-set): Pair a colorful chakra bracelet with seven loose crystal stones for meditation or display. The lotus detail adds a symbolic touch to this crystal gift set.
-  Updated: 2026-10-15T22:13:31Z
-  Vendor: Conscious Items
-  Product Type: Bracelet Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7-chakra-bracelet-and-stones-set-7396970.jpg?v=1788352993
-  Price: $12.99 USD
-- [Rose Quartz Bracelet, Stone & Pendulum Set | Thorn & Thimble](https://thornthimble.shop/products/the-rose-quartz-healing-crystal-set): Explore a three-piece rose quartz set with a beaded bracelet, crystal stone and pendulum. Soft pink crystal tools for personal ritual, display or gifting.
-  Updated: 2026-10-15T01:18:37Z
+- [Rose Quartz 3-Piece Crystal Set | Thorn & Thimble](https://thornthimble.shop/products/the-rose-quartz-healing-crystal-set): Three-piece rose quartz crystal set with a polished stone, Tree of Life charm bracelet and dowsing pendulum for coordinated wear, reflection and altar display.
+  Updated: 2026-10-22T02:49:22Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E0A46A7F-BC28-4448-8BBC-5130F149647E.png?v=1790970034
   Price: $19.99 USD
-- [Seven-Chakra Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-7-chakra-healing-tassel): Seven colorful chakra stones create a decorative crystal hanging tassel. Add a gemstone accent to an altar, doorway or meditation space.
-  Updated: 2026-10-15T20:59:46Z
+- [Seven-Chakra Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-7-chakra-healing-tassel): Seven large stones are secured in dark woven netting above a colorful cascade of polished crystal chips in this decorative chakra tassel.
+  Updated: 2026-10-22T02:49:21Z
   Vendor: Conscious Items
   Product Type: Decorative Tassels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F8C5E3A4-7864-4508-B2EB-B949683E96A3.png?v=1790986874
   Price: $16.99 USD
-- [Rose Quartz Crystal Apples, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/rose-quartz-love-apples): Two rose quartz crystal apples with decorative metal leaves bring soft pink color to a shelf or altar. A symbolic love gift and charming gemstone display.
-  Updated: 2026-10-12T21:18:36Z
+- [Rose Quartz Crystal Apples, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/rose-quartz-love-apples): This set includes two polished rose quartz apples finished with decorative silver-tone stems and sparkling leaves.
+  Updated: 2026-10-22T02:49:24Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/165DC59E-B68B-4A92-8F9B-556FFA56AFE5.png?v=1791028139
   Price: $15.99 USD
-- [Rose Quartz Crystal Coasters, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/the-positive-energy-coasters-2-pcs): Add soft pink stone to your tabletop with two rose quartz crystal coasters. Each measures approximately 6–8 cm, with naturally varied color and shape.
-  Updated: 2026-10-12T22:10:16Z
+- [Rose Quartz Crystal Coasters, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/the-positive-energy-coasters-2-pcs): This two-piece coaster set is crafted from polished rose quartz with naturally varied pink color and translucent patterning.
+  Updated: 2026-10-22T02:49:22Z
   Vendor: Conscious Items
   Product Type: Coasters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3D823D15-57E9-4393-8E2C-5551F7730CA8.png?v=1790964872
   Price: $26.99 USD
-- [White Agate Butterfly Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-spiritual-growth-bracelet): White agate beads and a butterfly motif give this crystal bracelet a gentle, nature-inspired look. A symbolic new-beginnings gift for gemstone collectors.
-  Updated: 2026-10-15T01:18:46Z
+- [White Agate Butterfly Bracelet – Balance & Spiritual Growth](https://thornthimble.shop/products/the-spiritual-growth-bracelet): White agate bead bracelet with a butterfly charm, combining soft neutral color with symbols of transformation, balance, and personal growth.
+  Updated: 2026-10-22T15:33:56Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/38B2182F-F9EF-47F9-9F01-A72C9562DE8B.png?v=1790986883
   Price: $12.99 USD
-- [Rainbow Fluorite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-cleansing-stone): Purple and green tones meet in a faceted rainbow fluorite crystal point. Display its naturally varied bands on an altar, desk or crystal collection shelf.
-  Updated: 2026-10-15T22:29:17Z
+- [Rainbow Fluorite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-cleansing-stone): Layered shades of purple, blue, teal, and green give this polished rainbow fluorite point its extraordinary color.
+  Updated: 2026-10-22T02:49:23Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/19C48D9A-F762-452B-93D6-DDCB262E676D.png?v=1790966021
   Price: $11.99 USD
-- [Dyed Tiger's Eye Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-bracelet-of-resolve): Reflective dyed tiger's eye beads give this stretch bracelet a distinctive multicolor finish. An 8 mm bead design for crystal jewelry lovers and collectors.
-  Updated: 2026-10-15T18:28:38Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/9B732128-2EED-4C64-8CD0-7DE4C43EAF21.png?v=1790986897
-  Price: $12.99 USD
-- [Garnet & Pyrite 4-Piece Crystal Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/prosperity-magnet-bracelet-pack-of-4): Stack four bracelets featuring garnet, clear quartz, red jasper and pyrite. Deep red, clear and metallic tones offer versatile crystal jewelry combinations.
-  Updated: 2026-10-15T20:33:16Z
+- [Garnet, Clear Quartz, Red Jasper & Pyrite 4-Piece Bracelet Set](https://thornthimble.shop/products/prosperity-magnet-bracelet-pack-of-4): Four-piece garnet, clear quartz, red jasper, and pyrite bracelet set to wear as a stack or in separate combinations.
+  Updated: 2026-10-22T02:49:24Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6051DFBF-F5D0-4270-9F9B-CFD0556F88C0.png?v=1791028150
   Price: $26.99 USD
-- [Seven-Chakra Crystal Tree with Agate Base | Thorn & Thimble](https://thornthimble.shop/products/limitless-possibilities-feng-shui-chakra-tree): Seven colorful chakra stones form the canopy of a decorative crystal tree on an agate base. Arrange its copper branches for an altar or gemstone display.
-  Updated: 2026-10-15T19:59:06Z
+- [Seven-Chakra Crystal Tree with Agate Base | Thorn & Thimble](https://thornthimble.shop/products/limitless-possibilities-feng-shui-chakra-tree): Colorful gemstone leaves extend from flexible copper branches in this seven-chakra crystal tree, which stands on a natural agate base.
+  Updated: 2026-10-22T02:49:31Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D2233EBE-4F59-4419-8357-FA54E0EB6BDA.png?v=1790986912
   Price: $39.99 USD
-- [Malachite Mixed-Stone & Pearl Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-law-of-attraction-bracelet): Malachite, rose pyroxene, clear quartz, amber and pearl create a colorful bracelet. Contrasting textures and tones make an expressive crystal jewelry pairing.
-  Updated: 2026-10-12T21:19:01Z
+- [Malachite, Rose Pyroxene, Clear Quartz, Amber & Pearl Bracelet](https://thornthimble.shop/products/the-law-of-attraction-bracelet): Malachite, rose pyroxene, clear quartz, amber, and pearl bracelet in green, pink, golden, translucent, and pearly tones.
+  Updated: 2026-10-22T14:55:27Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-law-of-attraction-bracelet-9237872.jpg?v=1788353400
   Price: $26.99 USD
-- [Eight-Stone Natural Energy Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-natural-energy-lamp): Eight crystals sit on a wooden USB-powered lamp base with warm white light. A colorful gemstone display for a desk, nightstand, altar or meditation space.
-  Updated: 2026-10-12T21:19:06Z
+- [Eight-Stone Natural Energy Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-natural-energy-lamp): A USB-powered lamp with eight loose crystals, including amethyst, rose quartz and black tourmaline, for a colorful altar or desk display.
+  Updated: 2026-10-22T14:51:14Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/22555293-EF2F-4BB3-8341-D98750488A1D.png?v=1790970044
   Price: $26.99 USD
-- [Amethyst, Aquamarine & Rose Quartz Pixiu Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-prosperity-bracelet): Amethyst, aquamarine and rose quartz beads surround a Pixiu charm in this crystal bracelet. A colorful jewelry gift with traditional prosperity symbolism.
-  Updated: 2026-10-15T22:13:37Z
+- [Amethyst, Aquamarine & Rose Quartz Pixiu Prosperity Bracelet](https://thornthimble.shop/products/the-prosperity-bracelet): Amethyst, aquamarine, and rose quartz bracelet with a temperature-responsive alloy Pixiu charm that shifts color as its temperature changes.
+  Updated: 2026-10-22T02:49:25Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/89CD2587-8DF6-4366-9E5A-EB812747123E.png?v=1791028166
   Price: $12.99 USD
-- [Citrine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/golden-lamp-of-wealth-citrine-tree): Citrine leaves and a clear quartz base create a glowing crystal tree lamp. A wooden mount and USB cable complete this gemstone display for a desk or altar.
-  Updated: 2026-10-15T19:59:56Z
+- [Citrine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/golden-lamp-of-wealth-citrine-tree): A citrine crystal tree lamp with clear quartz at the base and a wooden stand with a Flower of Life-inspired emblem for warm ambient decor.
+  Updated: 2026-10-22T21:36:52Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/golden-lamp-of-wealth-citrine-tree-2647821.jpg?v=1788353555
   Price: $32.99 USD
-- [Amethyst & Lapis Lazuli 4-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/good-karma-bracelet-set-of-luck-success-pack-of-4): Four crystal bracelets feature amethyst, lapis lazuli, green aventurine and chalcedony. Wear a full colorful stack or choose individual gemstone pairings.
-  Updated: 2026-10-14T15:18:47Z
+- [Amethyst, Lapis Lazuli, Aventurine & Chalcedony Bracelet Set](https://thornthimble.shop/products/good-karma-bracelet-set-of-luck-success-pack-of-4): Four-piece amethyst, lapis lazuli, green aventurine, and chalcedony bracelet set in complementary purple, blue, and green tones.
+  Updated: 2026-10-22T02:49:30Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6094D18B-2C07-428B-B736-06B9A1177C12.png?v=1790966036
   Price: $26.99 USD
-- [Blue Tiger's Eye & Black Tourmaline Bracelet | Thorn & Thimble](https://thornthimble.shop/products/stress-less-aura-protection-bracelet): Dyed blue tiger's eye beads meet raw black tourmaline in this stretch bracelet. A dark crystal jewelry pairing with polished bands and contrasting texture.
-  Updated: 2026-10-15T22:13:33Z
+- [Uruguayan Amethyst Heart Cluster | Thorn & Thimble](https://thornthimble.shop/products/uruguayan-amethyst-love-heart-cluster-aaa-premium-quality): The polished outline frames the raw crystal formation within, allowing both sides of the stone’s personality to shine.
+  Updated: 2026-10-22T04:36:14Z
+  Vendor: Conscious Items
+  Product Type: Crystal Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6D9A02B7-E6B2-4C27-857E-6228663C0A92.png?v=1790970056
+  Price: $12.99 USD
+- [Blue Tiger’s Eye & Black Tourmaline Protection Bracelet](https://thornthimble.shop/products/stress-less-aura-protection-bracelet): Dyed blue tiger’s eye and natural black tourmaline bracelet with reflective blue flashes and contrasting dark stone texture.
+  Updated: 2026-10-22T02:49:30Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A9499EB0-7180-4723-8F93-E8CCB0F5ED5F.png?v=1790966043
   Price: $12.99 USD
-- [Rose Quartz & Moonstone Gold-Accent Bracelet | Thorn & Thimble](https://thornthimble.shop/products/fertility-bracelet): Rose quartz, Madagascar rose quartz and moonstone meet 14k gold-plated copper accents. A soft pink and pearly crystal bracelet for everyday jewelry.
-  Updated: 2026-10-15T20:33:16Z
+- [Rose Quartz & Moonstone Divine Feminine Bracelet](https://thornthimble.shop/products/fertility-bracelet): Rose quartz, Madagascar rose quartz, and moonstone bracelet in blush and pearly tones, inspired by moonlight and divine feminine symbolism.
+  Updated: 2026-10-22T15:58:27Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/C48D860F-D460-4D0F-A6AF-E1BC40316C34.png?v=1790970063
   Price: $14.99 USD
-- [Citrine Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/infinite-abundance-citrine-lamp-of-manifestation): Citrine crystal points form an open halo in this decorative lamp. Adjustable lighting brings a golden gemstone accent to a nightstand, desk or altar.
-  Updated: 2026-10-12T21:19:32Z
+- [Citrine Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/infinite-abundance-citrine-lamp-of-manifestation): A circular citrine halo lamp with raw crystal clusters and adjustable brightness, for golden accent lighting in an office or altar space.
+  Updated: 2026-10-22T02:49:31Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/infinite-abundance-citrine-lamp-of-manifestation-7659473.jpg?v=1788353803
   Price: $39.99 USD
-- [Amethyst & Citrine Decorative Crystal Tree | Thorn & Thimble](https://thornthimble.shop/products/supreme-abundance-tree-of-everlasting-fortune): Purple amethyst and golden citrine form the canopy of this decorative crystal tree. An unlit gemstone display for an altar, shelf or nature-inspired room.
-  Updated: 2026-10-15T22:13:37Z
+- [Amethyst & Citrine Decorative Crystal Tree | Thorn & Thimble](https://thornthimble.shop/products/supreme-abundance-tree-of-everlasting-fortune): Purple amethyst and golden citrine stones form the colorful branches of this decorative crystal tree.
+  Updated: 2026-10-22T14:55:20Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E741DCE6-0059-4BCE-919D-488F0ACCD058.png?v=1790986939
   Price: $39.99 USD
-- [Divine Feminine Eight-Stone Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/wealth-goddess-the-divine-feminine-lamp): Eight crystals, including rose quartz, pink opal and citrine, sit on a wooden USB lamp base. A colorful display inspired by divine feminine symbolism.
-  Updated: 2026-10-15T22:13:38Z
+- [Eight-Stone Divine Feminine Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/wealth-goddess-the-divine-feminine-lamp): An eight-stone crystal lamp with turquoise, citrine, amethyst and other colorful stones for a divine feminine altar or decorative display.
+  Updated: 2026-10-22T02:49:31Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/wealth-goddess-the-divine-feminine-lamp-9265485.jpg?v=1788353868
   Price: $32.99 USD
-- [Selenite & Seven-Stone Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/money-magnet-lamp): A selenite lamp pairs with seven crystals, including pyrite, citrine and garnet. Bring a varied gemstone display to your desk, altar or meditation room.
-  Updated: 2026-10-15T22:13:36Z
+- [Eight-Stone Selenite Prosperity Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/money-magnet-lamp): A selenite lamp surrounded by pyrite, citrine and five more stones for a colorful prosperity-themed altar display or crystal grid.
+  Updated: 2026-10-22T02:49:32Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6079AAE6-F948-4781-B111-AA82C03F18F0.png?v=1790986943
   Price: $26.99 USD
-- [Amazonite & Labradorite 4-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/manifestation-magnet-pack-of-4): Amazonite, labradorite, amethyst and lapis lazuli form a four-bracelet set. Wear cool blue, purple and iridescent stones together or as individual pieces.
-  Updated: 2026-10-15T01:18:36Z
+- [Amazonite, Labradorite, Amethyst & Lapis Lazuli Bracelet Set](https://thornthimble.shop/products/manifestation-magnet-pack-of-4): Four-piece amazonite, labradorite, amethyst, and lapis lazuli bracelet set for colorful crystal stacks or separate wear.
+  Updated: 2026-10-22T02:49:32Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/manifestation-magnet-pack-of-4-7740119.jpg?v=1788353976
   Price: $26.99 USD
-- [Onyx, Pink Opal & Amethyst Eye of Horus Bracelet | Thorn & Thimble](https://thornthimble.shop/products/i-am-strong-illuminating-bracelet-of-feminine-power): Black onyx, pink opal and amethyst beads meet an Eye of Horus charm in this adjustable bracelet. Contrasting colors bring celestial style to crystal jewelry.
-  Updated: 2026-10-15T17:22:08Z
+- [Black Onyx, Pink Opal & Amethyst Eye of Horus Bracelet](https://thornthimble.shop/products/i-am-strong-illuminating-bracelet-of-feminine-power): Adjustable black onyx, pink opal, and amethyst bracelet with an Eye of Horus charm decorated with stars and crescent moons.
+  Updated: 2026-10-22T02:49:41Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E52849D1-7CA0-4948-BDE5-35DD32B0E621.png?v=1790987863
   Price: $19.99 USD
-- [Amethyst Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/i-am-at-peace-spiritual-protection-amethyst-lamp): Amethyst crystal points form a glowing open halo with 30 adjustable light modes. Add purple gemstone color to a nightstand, altar or meditation space.
-  Updated: 2026-10-15T13:20:29Z
+- [Amethyst Halo Crystal Protection Lamp | Thorn & Thimble](https://thornthimble.shop/products/i-am-at-peace-spiritual-protection-amethyst-lamp): An amethyst-point halo lamp with 30 adjustable light modes. Select one lamp or the two-lamp option for your decorative lighting setup.
+  Updated: 2026-10-22T22:21:48Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
@@ -1930,99 +1923,85 @@
   - [Get 2 - Save 55%](https://thornthimble.shop/products/i-am-at-peace-spiritual-protection-amethyst-lamp?variant=46416861560929)
     Availability: Available
     Price: $58.99 USD
-- [Citrine & Moonstone Hamsa 2-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/golden-hand-of-fortune-bracelets-of-wealth): A citrine and moonstone Hamsa bracelet pairs with an adjustable labradorite bracelet. Layer golden, pearly and iridescent stones in this two-piece set.
-  Updated: 2026-10-15T20:33:15Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D2103721-CAB9-4541-87F0-77321872CD76.png?v=1790987885
-  Price: $26.99 USD
-- [Malachite & Onyx Hamsa Crystal Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/fortress-of-heart-mind-bracelet-set-for-mental-healing): Green malachite, black onyx and a Hamsa charm create this adjustable crystal bracelet set. Layer banded green and polished black stones for a bold look.
-  Updated: 2026-10-12T21:19:56Z
+- [Malachite & Black Onyx Hamsa Bracelet Set – Strength & Protection](https://thornthimble.shop/products/fortress-of-heart-mind-bracelet-set-for-mental-healing): Malachite and black onyx bracelet set with a Hamsa charm, pairing banded green stone and polished black beads.
+  Updated: 2026-10-22T02:49:36Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/0AF072B1-9681-47D7-9C4E-10A423DB4739.png?v=1790987892
   Price: $32.99 USD
-- [Malachite & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/malachite-anxiety-tree-lamp): Green malachite leaves and clear quartz create a crystal tree lamp with a wooden USB-powered base. A branching gemstone display for your desk or altar.
-  Updated: 2026-10-15T20:00:06Z
+- [Malachite & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/malachite-anxiety-tree-lamp): A green malachite crystal tree lamp with clear quartz at its base, for nature-inspired ambient lighting on a desk or meditation shelf.
+  Updated: 2026-10-22T02:49:39Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/malachite-anxiety-tree-lamp-2876938.png?v=1790970074
   Price: $32.99 USD
-- [Aquamarine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/guardian-angel-lamp-of-protection-aquamarine-tree): Aquamarine leaves rise above a clear quartz base in this crystal tree lamp. A Flower of Life-inspired wooden mount adds detail to the USB-powered display.
-  Updated: 2026-10-15T22:20:21Z
+- [Aquamarine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/guardian-angel-lamp-of-protection-aquamarine-tree): An aquamarine crystal tree with clear quartz at the base and a wooden stand, for blue gemstone accent lighting in a bedroom or meditation nook.
+  Updated: 2026-10-22T02:49:35Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D6E0AB41-1027-45B8-874B-2FDB7B4B8FA5.png?v=1790970082
   Price: $32.99 USD
-- [Shungite, Rose Quartz & Moonstone Bracelet | Thorn & Thimble](https://thornthimble.shop/products/digital-detox-shungite-super-charged-bracelet): Shungite, rose quartz and moonstone beads meet gold-plated copper accents. A contrasting black, pink and pearly bracelet for everyday crystal jewelry.
-  Updated: 2026-10-14T00:22:56Z
+- [Shungite, Rose Quartz & Moonstone Bracelet – Grounding & Intuition](https://thornthimble.shop/products/digital-detox-shungite-super-charged-bracelet): Shungite, rose quartz, and moonstone bracelet with gold-plated copper accents, combining black, blush, and pearly stone tones.
+  Updated: 2026-10-22T15:59:37Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A10CB00F-932E-432F-B7DE-ACAF55768D56.png?v=1791028172
   Price: $12.99 USD
-- [Shungite & Howlite 2-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/negativity-banisher-bracelet-set): Black shungite and white howlite form a two-piece crystal bracelet set. Wear the contrasting stones separately or together for a classic monochrome stack.
-  Updated: 2026-10-15T18:44:16Z
+- [Shungite & Howlite 2-Piece Bracelet Set – Calm & Grounding](https://thornthimble.shop/products/negativity-banisher-bracelet-set): Two-piece shungite and howlite bracelet set with deep black stone and white beads marked by gray veining.
+  Updated: 2026-10-22T02:49:36Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/negativity-banisher-bracelet-set-2850291.jpg?v=1788354274
   Price: $19.99 USD
-- [Tiger's Eye Heart Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-protection-tassel): Heart-shaped tiger's eye stones and a decorative tassel create a warm golden-brown hanging ornament. Add reflective gemstone detail to a room or altar.
-  Updated: 2026-10-15T17:09:29Z
+- [Tiger's Eye Heart Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-protection-tassel): Tiger’s Eye Heart Crystal Hanging Tassel – Protection for gemstone collections and personal display.
+  Updated: 2026-10-22T02:49:38Z
   Vendor: Conscious Items
   Product Type: Decorative Tassels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1ADD75BC-1DF9-4A3E-8E02-E6577233E8B9.png?v=1790970091
   Price: $26.99 USD
-- [Clear Quartz Crystal Lamp with Wooden Base | Thorn & Thimble](https://thornthimble.shop/products/the-healing-lamp): A clear quartz crystal rests on a wooden USB-powered lamp base with warm light. An understated gemstone accent for a nightstand, desk or meditation space.
-  Updated: 2026-10-15T22:29:16Z
+- [Clear Quartz Crystal Cleansing Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-healing-lamp): A clear quartz crystal lamp for ambient lighting on a nightstand, desk or altar. Natural inclusions and crystal formations vary between pieces.
+  Updated: 2026-10-22T07:28:27Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-healing-lamp-3460079.jpg?v=1788354333
   Price: $26.99 USD
-- [Tiger's Eye & Onyx Faux Leather Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-professional-success-bracelet): Tiger's eye and black onyx beads combine with artificial leather and stainless steel. A layered bracelet design for everyday wear or a gemstone jewelry gift.
-  Updated: 2026-10-15T02:50:26Z
+- [Tiger’s Eye & Black Onyx Bracelet – Focus & Success](https://thornthimble.shop/products/the-professional-success-bracelet): Golden tiger’s eye and black onyx bracelet with reflective banding and polished contrast, for everyday wear or crystal jewelry stacks.
+  Updated: 2026-10-22T20:06:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7F82501F-59DC-4347-9D56-9A2AC093F87D.png?v=1790970098
   Price: $12.99 USD
-- [Hematite & Tourmaline 4-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/veil-of-protection-the-absolute-bracelet-set): Rainbow hematite, hematite, black tourmaline and amethyst form four slender bracelets. Layer metallic, iridescent, black and purple tones in a crystal stack.
-  Updated: 2026-10-15T19:58:46Z
+- [Rainbow Hematite, Tourmaline & Amethyst 4-Piece Bracelet Set](https://thornthimble.shop/products/veil-of-protection-the-absolute-bracelet-set): Four-piece bracelet set with rainbow hematite, metallic hematite, black tourmaline, and amethyst for colorful crystal stacks.
+  Updated: 2026-10-22T02:49:44Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D5A2E08D-2789-49FF-A65A-6A16B7C849BF.png?v=1790970546
   Price: $26.99 USD
-- [Blue Tiger's Eye & Black Agate Cord Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-tiger-s-eye-stability-bracelet): Dyed blue tiger's eye and black agate beads sit on an adjustable cotton cord. A dark crystal bracelet with reflective blue accents for everyday wear.
-  Updated: 2026-10-15T17:21:36Z
+- [Tiger’s Eye & Black Agate Bracelet – Stability & Protection](https://thornthimble.shop/products/the-tiger-s-eye-stability-bracelet): Dyed blue tiger’s eye and black agate bracelet with cool reflective detail and dark polished contrast.
+  Updated: 2026-10-22T11:21:36Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/04882F97-ED36-4493-8861-AFE634D4B7EB.png?v=1790970553
   Price: $11.99 USD
-- [Blue Apatite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-brighter-future-bracelet): Blue apatite beads show varied teal and blue-green tones in this crystal bracelet. A vivid gemstone accessory for stacking, daily wear or jewelry gifts.
-  Updated: 2026-10-15T16:23:47Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/EAB46019-8C28-4187-AD96-3B4F55D91640.png?v=1790987915
-  Price: $12.99 USD
-- [Lapis Lazuli, Onyx & Hematite Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-energy-shield-bracelet): Lapis lazuli, black onyx and hematite beads combine blue, black and metallic gray tones. A contrasting crystal bracelet for daily wear or layered jewelry.
-  Updated: 2026-10-15T18:49:30Z
+- [Lapis Lazuli, Onyx & Hematite Protection Bracelet](https://thornthimble.shop/products/the-energy-shield-bracelet): Lapis lazuli, black onyx, and hematite bracelet with blue, black, and silver-gray beads for everyday wear and personal ritual.
+  Updated: 2026-10-22T02:49:39Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3734E1A1-7948-4699-8DA0-5B1CC84BB105.png?v=1790980623
   Price: $12.99 USD
-- [Obsidian or Clear Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/the-pyramids-of-power): Choose a black obsidian or clear quartz crystal pyramid for your altar, desk or gemstone display. Each geometric carving has naturally varied stone detail.
-  Updated: 2026-10-15T22:13:49Z
+- [Obsidian or Clear Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/the-pyramids-of-power): Obsidian or Clear Quartz Crystal Pyramid for gemstone collections and personal display.
+  Updated: 2026-10-22T02:49:39Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
@@ -2034,22 +2013,22 @@
   - [Healing Pyramid](https://thornthimble.shop/products/the-pyramids-of-power?variant=46416887414881)
     Availability: Available
     Price: $19.99 USD
-- [Eight-Stone Sacred Protection Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-sacred-protection-lamp): Eight crystals, including obsidian, labradorite and selenite, surround a mandala wooden lamp base. A USB-powered gemstone display for your altar or room.
-  Updated: 2026-10-12T21:36:47Z
+- [Eight-Stone Sacred Protection Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-sacred-protection-lamp): An eight-stone crystal lamp with a selenite point and a golden mandala engraved in the base, for a symbolic protection-themed altar display.
+  Updated: 2026-10-22T02:49:39Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-sacred-protection-lamp-7137914.png?v=1790966074
   Price: $26.99 USD
-- [Amethyst & Rose Quartz 4-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/soothing-anxiety-free-bracelet-pack-of-4): Four bracelets feature amethyst, rose quartz, aquamarine and fluorite. Combine soft pink, blue and purple stones or wear individual crystal jewelry pieces.
-  Updated: 2026-10-14T22:30:27Z
+- [Amethyst, Rose Quartz, Aquamarine & Fluorite 4-Piece Bracelet Set](https://thornthimble.shop/products/soothing-anxiety-free-bracelet-pack-of-4): Four-piece amethyst, rose quartz, aquamarine, and fluorite bracelet set to stack together, pair, or wear individually.
+  Updated: 2026-10-22T02:49:39Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3DA64174-9010-412D-866F-D76989D68966.png?v=1790966084
   Price: $26.99 USD
-- [Selenite Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/selenite-cleansing-lamp): A pale selenite crystal lamp brings gentle ambient light to a desk, nightstand or altar. An understated gemstone display for a cozy room or meditation space.
-  Updated: 2026-10-15T01:22:47Z
+- [Selenite Crystal Cleansing Lamp | Thorn & Thimble](https://thornthimble.shop/products/selenite-cleansing-lamp): A selenite crystal lamp for luminous bedside, altar or meditation decor. Select one lamp or two lamps using the quantity options.
+  Updated: 2026-10-22T02:49:40Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
@@ -2060,50 +2039,50 @@
   - [Get 2 - Save 51%](https://thornthimble.shop/products/selenite-cleansing-lamp?variant=46416903929953)
     Availability: Available
     Price: $45.99 USD
-- [Amethyst & Moonstone 4-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/spiritual-healing-bracelet-pack-of-4): Amethyst, sodalite, aquamarine and rainbow moonstone form four coordinating bracelets. Stack blue, purple and pearly tones or wear each piece separately.
-  Updated: 2026-10-13T17:43:16Z
+- [Amethyst, Sodalite, Aquamarine & Moonstone 4-Piece Bracelet Set](https://thornthimble.shop/products/spiritual-healing-bracelet-pack-of-4): Four-piece amethyst, sodalite, aquamarine, and rainbow moonstone bracelet set for coordinating crystal jewelry combinations.
+  Updated: 2026-10-22T02:49:42Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CC34F208-5424-4C17-A0D2-4F8AC7F099A2.png?v=1790988889
   Price: $26.99 USD
-- [Clear Quartz & Pink Tourmaline Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/find-my-peace-quartz-tourmaline-lamp-of-blooming-tranquility): Clear quartz and pink tourmaline create a luminous crystal lamp with 30 adjustable light settings. A gemstone focal point for a nightstand, desk or altar.
-  Updated: 2026-10-15T17:08:06Z
+- [Clear Quartz & Pink Tourmaline Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/find-my-peace-quartz-tourmaline-lamp-of-blooming-tranquility): Clear quartz and pink tourmaline crystal lamp with 30 adjustable light settings for a softly colored desk, bedroom or meditation display.
+  Updated: 2026-10-22T16:52:27Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/find-my-peace-quartz-tourmaline-lamp-of-blooming-tranquility-8284769.jpg?v=1788374372
   Price: $39.99 USD
-- [Labradorite Crystal Owl Carving | Thorn & Thimble](https://thornthimble.shop/products/-of-wisdom-labradorite-owl-talisman): A carved labradorite owl brings gemstone detail and wisdom symbolism to a desk, altar or shelf. Natural color and iridescent flashes vary with each piece.
-  Updated: 2026-10-14T13:08:50Z
+- [Labradorite Owl Crystal Carving | Thorn & Thimble](https://thornthimble.shop/products/-of-wisdom-labradorite-owl-talisman): Add an owl-shaped labradorite carving to a reading nook, desk or altar with the  of Wisdom crystal talisman.
+  Updated: 2026-10-22T02:30:24Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F57D9BA7-FFCC-4EC3-A924-86FDC213CB02.png?v=1790964893
   Price: $12.99 USD
-- [Rose Quartz Heart Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/love-magnet-rose-quartz-heart-lamp): A heart-shaped rose quartz lamp offers 30 adjustable light settings. Add a soft pink gemstone accent to a bedside table, altar or meaningful love gift.
-  Updated: 2026-10-13T18:42:30Z
+- [Rose Quartz Heart Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/love-magnet-rose-quartz-heart-lamp): A rose quartz heart-shaped crystal lamp with 30 adjustable light settings, for a bedroom, journaling corner or love-themed altar.
+  Updated: 2026-10-22T02:49:42Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/love-magnet-rose-quartz-heart-lamp-2654660.jpg?v=1788374472
   Price: $45.99 USD
-- [Amethyst & Aura Quartz Halo Lamp Set | Thorn & Thimble](https://thornthimble.shop/products/protect-my-home-best-value): Two USB-powered halo lamps feature amethyst and aura-plated clear quartz. Adjustable light modes create a coordinated purple and iridescent crystal display.
-  Updated: 2026-10-13T03:55:35Z
+- [Amethyst & Aura Quartz Crystal Lamp Set | Thorn & Thimble](https://thornthimble.shop/products/protect-my-home-best-value): A two-lamp crystal set pairing amethyst with aura-coated clear quartz halo designs. Adjustable lighting for a coordinated display or separate rooms.
+  Updated: 2026-10-22T02:49:43Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/5A4F2EF0-16D0-4D68-A1B0-78550733D69B.png?v=1790961596
   Price: $65.99 USD
-- [Malachite & Black Onyx 2-Piece Bracelet Set | Thorn & Thimble](https://thornthimble.shop/products/the-anxiety-double-bracelet-set): Green malachite and black onyx form a two-piece bracelet set with stainless steel detail. Stack banded green and polished black stones or wear them alone.
-  Updated: 2026-10-15T02:40:06Z
+- [Malachite & Black Onyx 2-Piece Bracelet Set – Balance & Strength](https://thornthimble.shop/products/the-anxiety-double-bracelet-set): Two-piece malachite and black onyx bracelet set with a small stainless-steel charm, for separate wear or a contrasting green-and-black stack.
+  Updated: 2026-10-22T02:49:48Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-anxiety-double-bracelet-set-9144320.png?v=1790980661
   Price: $26.99 USD
-- [Angel or Aqua Aura Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire): Choose one Angel Aura or Aqua Aura quartz pyramid for an iridescent crystal display. Rainbow or blue tones add color to an altar, desk or gemstone shelf.
-  Updated: 2026-10-12T21:21:20Z
+- [Angel or Aqua Aura Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire): Angel or Aqua Aura Quartz Crystal Pyramid for gemstone collections and personal display.
+  Updated: 2026-10-22T02:49:45Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
@@ -2114,22 +2093,22 @@
   - [Aqua Aura Pyramid](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire?variant=46416908648545)
     Availability: Available
     Price: $19.99 USD
-- [Citrine & Selenite Good Luck Charm Bracelet | Thorn & Thimble](https://thornthimble.shop/products/quartet-of-luck-citrine-selenite-bracelet-of-serendipity): Citrine and selenite beads meet a gold-plated good-luck charm with a zircon accent. A sparkling crystal bracelet inspired by traditional luck symbols.
-  Updated: 2026-10-12T21:21:27Z
+- [Citrine & Selenite Good Luck Charm Bracelet](https://thornthimble.shop/products/quartet-of-luck-citrine-selenite-bracelet-of-serendipity): Citrine and selenite bracelet with a detailed good-luck charm and zircon accent, for crystal jewelry and personal intention setting.
+  Updated: 2026-10-22T02:49:43Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1324B59E-A658-4901-8F7A-F0456862BEF7.png?v=1790988907
   Price: $22.99 USD
-- [Rainbow Aura Quartz Halo Lamp | Thorn & Thimble](https://thornthimble.shop/products/rainbow-after-the-storm-clear-quartz-lamp-of-hope): Aura-plated clear quartz forms a rainbow-toned halo in this USB crystal lamp. Choose from 30 light modes for a colorful desk, nightstand or altar display.
-  Updated: 2026-10-13T13:14:56Z
+- [Aura Clear Quartz Halo Lamp | Thorn & Thimble](https://thornthimble.shop/products/rainbow-after-the-storm-clear-quartz-lamp-of-hope): A halo lamp with aura-coated clear quartz points and 30 adjustable light modes, for rainbow-colored accent lighting in a mystical room.
+  Updated: 2026-10-22T02:49:44Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/rainbow-after-the-storm-clear-quartz-lamp-of-hope-5353123.jpg?v=1788374720
   Price: $39.99 USD
-- [Moroccan Selenite Tower Lamp with Remote | Thorn & Thimble](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power): Moroccan selenite rises from a walnut-tone base in this crystal tower lamp. A remote and 30 light modes let you personalize its glow for your room or altar.
-  Updated: 2026-10-15T22:39:57Z
+- [Moroccan Selenite Tower Lamp with Remote | Thorn & Thimble](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power): Light a reading nook or altar with a Moroccan selenite tower lamp, walnut-tone base and 30 remote-controlled light modes. Natural crystal variation.
+  Updated: 2026-10-22T22:37:36Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
@@ -2140,267 +2119,239 @@
   - [Get 2 - Save 46%](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power?variant=46416927490145)
     Availability: Available
     Price: $70.99 USD
-- [Blue Aura Quartz Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/manifest-success-clear-quartz-lamp-of-achievement): Blue aura-plated clear quartz points create a luminous crystal lamp. Adjust its 30 light modes with the remote and timer for a desk, studio or nightstand.
-  Updated: 2026-10-15T22:13:36Z
+- [Aura Clear Quartz Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/manifest-success-clear-quartz-lamp-of-achievement): A blue aura-coated clear quartz lamp with 30 light modes, remote control and timer, for a colorful desk or intention-setting space.
+  Updated: 2026-10-22T04:45:16Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/manifest-success-clear-quartz-lamp-of-achievement-7057864.jpg?v=1788374813
   Price: $32.99 USD
-- [Citrine & Amethyst 2-Piece Crystal Anklet Set | Thorn & Thimble](https://thornthimble.shop/products/destiny-maker-powerhouse-anklet-set): Two anklets feature citrine, amethyst, clear quartz and malachite with 18K gold-plated accents. Wear them separately or together for colorful gemstone style.
-  Updated: 2026-10-15T03:19:06Z
+- [Citrine & Amethyst 2-Piece Crystal Anklet Set | Thorn & Thimble](https://thornthimble.shop/products/destiny-maker-powerhouse-anklet-set): Rose-gold accent beads plated with 18K gold bring a warm metallic finish to the colorful collection.
+  Updated: 2026-10-22T02:49:46Z
   Vendor: Conscious Items
   Product Type: Anklets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/01C33D73-1E41-4DF4-9BC0-7046753B7FA6.png?v=1790988992
   Price: $19.99 USD
-- [Orca Agate 10 mm Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/exotic-orca-agate-bracelet-of-deep-healing): Polished 10 mm orca agate beads show soft ocean-inspired colors and organic patterns. An unusual gemstone bracelet for everyday wear or a crystal jewelry gift.
-  Updated: 2026-10-15T23:16:27Z
+- [Orca Agate Bracelet – Serenity & Self-Expression](https://thornthimble.shop/products/exotic-orca-agate-bracelet-of-deep-healing): Orca agate bracelet with individually patterned polished beads and ocean-inspired color, for everyday crystal jewelry and reflection.
+  Updated: 2026-10-22T23:22:16Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A747262A-F7B5-487F-815B-B7C38D2A6F2E.png?v=1790989001
   Price: $12.99 USD
-- [Portal to Peace Amethyst Halo Lamp | Thorn & Thimble](https://thornthimble.shop/products/portal-to-peace-amethyst-lamp-of-stress-relief): Amethyst points form a glowing halo in the Portal to Peace crystal lamp. A remote and 30 light modes create a purple gemstone display for your room or altar.
-  Updated: 2026-10-12T21:21:46Z
+- [Amethyst Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/portal-to-peace-amethyst-lamp-of-stress-relief): An amethyst halo lamp with remote control and 30 adjustable light modes, for ambient bedroom, meditation or reading-nook decor.
+  Updated: 2026-10-22T02:49:46Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/portal-to-peace-amethyst-lamp-of-stress-relief-9306264.jpg?v=1788374917
   Price: $32.99 USD
-- [Selenite Hamsa Hand Crystal Mood Lamp | Thorn & Thimble](https://thornthimble.shop/products/my-aura-spa-mood-lamp-of-rejuvenation): A carved selenite Hamsa hand rests on a USB-powered lamp base with 30 light modes. Bring symbolic hand-shaped gemstone decor to a nightstand or altar.
-  Updated: 2026-10-15T22:13:36Z
+- [Selenite Hamsa Hand Crystal Mood Lamp | Thorn & Thimble](https://thornthimble.shop/products/my-aura-spa-mood-lamp-of-rejuvenation): A selenite Hamsa hand mood lamp with 30 adjustable light modes, for symbolic hand-shaped altar decor or gentle bedside illumination.
+  Updated: 2026-10-22T02:49:47Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/C2D3A244-3D72-477F-ABEB-55C4056C9C3E.png?v=1790989010
   Price: $32.99 USD
-- [Tourmaline & Golden Obsidian Energy Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-energy-protection-bracelet): Black tourmaline and golden obsidian create the Energy Protection bracelet. Contrasting stone textures and dark reflective tones make a bold jewelry pairing.
-  Updated: 2026-10-15T01:19:07Z
+- [Black Tourmaline & Golden Obsidian Protection Bracelet](https://thornthimble.shop/products/the-energy-protection-bracelet): Black tourmaline and golden obsidian bracelet with contrasting stone textures and reflective detail, for everyday wear or personal ritual.
+  Updated: 2026-10-22T02:49:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-energy-protection-bracelet-2147070.png?v=1790989030
   Price: $12.99 USD
-- [Zebra Jasper Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/permission-to-pause-the-zebra-jasper-bracelet): Contrasting zebra jasper markings give each polished bead its own earthy pattern. Wear this gemstone bracelet alone or add it to a favorite crystal stack.
-  Updated: 2026-10-15T22:05:22Z
+- [Zebra Jasper Bracelet – Balance & Grounding](https://thornthimble.shop/products/permission-to-pause-the-zebra-jasper-bracelet): Zebra jasper bracelet with contrasting natural markings, for earthy crystal jewelry and intentions of balance and grounding.
+  Updated: 2026-10-22T02:49:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AE9623EA-6B62-4F6B-8507-C30305485E8B.png?v=1791028205
   Price: $12.99 USD
-- [Royal Blue Tiger's Eye Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/hawk-s-focus-royal-blue-tiger-s-eye-bracelet): Dyed royal blue tiger's eye beads show reflective bands in the Hawk's Focus bracelet. A striking dark blue gemstone accessory for everyday jewelry.
-  Updated: 2026-10-15T23:01:01Z
+- [Royal Blue Tiger’s Eye Bracelet – Focus & Confidence](https://thornthimble.shop/products/hawk-s-focus-royal-blue-tiger-s-eye-bracelet): Royal blue dyed tiger’s eye bracelet with reflective banding, for crystal jewelry and intentions of focus and confidence.
+  Updated: 2026-10-22T18:26:50Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AA1E9864-258D-4B64-AEEC-42BA492EF7DD.png?v=1790989041
   Price: $12.99 USD
-- [Dalmatian Jasper, Malachite & Obsidian Bracelet | Thorn & Thimble](https://thornthimble.shop/products/soul-reset-dalmatian-jasper-bracelet-of-healing): Speckled Dalmatian jasper, green malachite and black obsidian form this crystal bracelet. Contrasting patterns and polished stones add earthy jewelry style.
-  Updated: 2026-10-15T22:33:49Z
+- [Dalmatian Jasper & Black Obsidian Bracelet – Joy & Protection](https://thornthimble.shop/products/soul-reset-dalmatian-jasper-bracelet-of-healing): Dalmatian jasper, green malachite, and black obsidian bracelet combining speckled, banded, and polished stones.
+  Updated: 2026-10-22T21:10:27Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D24A06DF-E382-427A-B27F-9C79AC9CC115.png?v=1791028226
   Price: $12.99 USD
-- [Clear Quartz Crystal Tower Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-clear-quartz-manifestation-tower-lamp): A sculpted clear quartz tower creates a luminous focal point in this USB-powered lamp. Adjust its 30 light modes for a desk, nightstand or crystal display.
-  Updated: 2026-10-14T02:56:15Z
+- [Clear Quartz Crystal Tower Manifestation Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-clear-quartz-manifestation-tower-lamp): A sculptural clear quartz tower lamp with 30 adjustable light modes, for an altar, nightstand or illuminated crystal display.
+  Updated: 2026-10-22T10:03:39Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-clear-quartz-manifestation-tower-lamp-9265426.jpg?v=1788375176
   Price: $39.99 USD
-- [Amethyst Halo Lamp with Remote Control | Thorn & Thimble](https://thornthimble.shop/products/stress-less-sleep-more-amethyst-healing-lamp): Amethyst points surround an open halo in this crystal lamp with a remote and 30 light modes. Bring purple gemstone detail to a bedside table or meditation room.
-  Updated: 2026-10-15T01:17:47Z
+- [Amethyst Halo Crystal Meditation Lamp | Thorn & Thimble](https://thornthimble.shop/products/stress-less-sleep-more-amethyst-healing-lamp): An amethyst halo lamp with 30 adjustable light modes and an included remote, for a meditation corner, nightstand or atmospheric display.
+  Updated: 2026-10-22T23:09:18Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/stress-less-sleep-more-amethyst-healing-lamp-conscious-items-2186037.jpg?v=1788375213
   Price: $32.99 USD
-- [Snowflake Obsidian Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-pattern-breaker-snowflake-obsidian-bracelet): Pale snowflake patterns contrast with black obsidian in this polished bead bracelet. Each gemstone has different markings for an individual jewelry piece.
-  Updated: 2026-10-15T22:02:26Z
+- [Snowflake Obsidian Bracelet – Pattern Breaking & Self-Trust](https://thornthimble.shop/products/the-pattern-breaker-snowflake-obsidian-bracelet): Snowflake obsidian bracelet with individual stone patterns, for crystal jewelry and intentions of grounding, reflection, and self-trust.
+  Updated: 2026-10-22T02:49:57Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CA0AEDEE-48EC-4B1B-9BD9-23DC6AF3688C.png?v=1790980679
   Price: $12.99 USD
-- [Seraphinite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/angel-energy-rare-seraphinite-bracelet-of-transformation): Green seraphinite beads display silvery feather-like patterns in this gemstone bracelet. Wear its naturally varied shimmer alone or in a crystal jewelry stack.
-  Updated: 2026-10-15T23:02:47Z
+- [Rare Seraphinite Bracelet – Transformation & Renewal](https://thornthimble.shop/products/angel-energy-rare-seraphinite-bracelet-of-transformation): Seraphinite bracelet with natural wing-like patterns, for crystal jewelry collections and intentions of transformation and renewal.
+  Updated: 2026-10-22T20:57:05Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CD1D03D9-8F9B-4106-A728-293FF5FB4524.png?v=1790989055
   Price: $26.99 USD
-- [Natural Blue Kyanite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/my-truth-my-power-rare-kyanite-bracelet): Untreated blue kyanite beads show sapphire-to-sky-blue streaks and occasional silvery flashes. A distinctive natural gemstone bracelet for daily jewelry.
-  Updated: 2026-10-15T23:16:27Z
+- [Natural Blue Kyanite Bracelet – Truth & Self-Expression](https://thornthimble.shop/products/my-truth-my-power-rare-kyanite-bracelet): Natural blue kyanite bracelet featuring untreated stone, for crystal jewelry and intentions of honest communication and self-expression.
+  Updated: 2026-10-22T14:55:18Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/52997333-1113-483B-A992-BC7E03F975E4.png?v=1791028236
   Price: $26.99 USD
-- [Amethyst, Selenite & Rose Quartz Bracelet | Thorn & Thimble](https://thornthimble.shop/products/trinity-bracelet-of-stress-resilience): Amethyst, selenite and rose quartz beads combine purple, white and pink tones in one bracelet. A gentle crystal jewelry palette for layering or gifting.
-  Updated: 2026-10-15T20:49:06Z
+- [Amethyst, Selenite & Rose Quartz Bracelet – Calm & Clarity](https://thornthimble.shop/products/trinity-bracelet-of-stress-resilience): Amethyst, selenite, and rose quartz bracelet in purple, white, and pink tones, for everyday crystal jewelry and quiet reflection.
+  Updated: 2026-10-22T02:49:58Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/trinity-bracelet-of-stress-resilience-7260658.jpg?v=1788375354
   Price: $12.99 USD
-- [Blue Tiger's Eye, Obsidian & Quartz Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-negativity-filter-bracelet): Dyed blue tiger's eye and black obsidian beads meet a clear quartz accent. A contrasting dark crystal bracelet with reflective bands and a bright focal stone.
-  Updated: 2026-10-15T22:36:49Z
+- [Blue Tiger’s Eye, Obsidian & Quartz Protection Bracelet](https://thornthimble.shop/products/the-negativity-filter-bracelet): Dyed blue tiger’s eye, black obsidian, and clear quartz bracelet with deep blue and black beads and a bright quartz accent.
+  Updated: 2026-10-22T23:10:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7C2419F3-B2BA-497B-B1B1-AC7167CEE5D0.png?v=1790989064
   Price: $12.99 USD
-- [Hypersthene & Clear Quartz Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-bracelet): Dark hypersthene beads with a subtle silvery sheen meet clear quartz in this bracelet. A distinctive gemstone pairing for daily wear or crystal jewelry gifts.
-  Updated: 2026-10-15T22:28:08Z
+- [Hypersthene & Clear Quartz Bracelet – Intuition & Abundance](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-bracelet): Hypersthene and clear quartz bracelet with a subtle silvery sheen, for crystal jewelry and intentions of discernment, intuition, and abundance.
+  Updated: 2026-10-22T23:02:06Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/B94EF0F7-12B2-40B7-B809-806D56CB62D1.png?v=1791028322
   Price: $22.99 USD
-- [River Agate Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/calm-in-the-chaos-river-agate-bracelet): Softly varied river agate beads give this polished bracelet an understated, earthy look. Pair its natural patterns with everyday outfits or layered jewelry.
-  Updated: 2026-10-15T15:11:58Z
+- [River Agate Bracelet – Calm & Steady Energy](https://thornthimble.shop/products/calm-in-the-chaos-river-agate-bracelet): River agate bracelet with natural stone variations, for everyday crystal jewelry and intentions of calm, stability, and steady progress.
+  Updated: 2026-10-22T14:19:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/9EF400E4-DAF6-4BDC-9928-460149B9A995.png?v=1790980718
   Price: $12.99 USD
-- [Carnelian & Orca Agate Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/feminine-force-carnelian-orca-agate-bracelet): Warm carnelian meets softly patterned orca agate in this crystal bracelet. Orange and blue-gray stones create an expressive fire-and-water jewelry palette.
-  Updated: 2026-10-15T23:00:54Z
+- [Carnelian & Orca Agate Bracelet – Confidence & Inner Strength](https://thornthimble.shop/products/feminine-force-carnelian-orca-agate-bracelet): Carnelian and orca agate bracelet combining warm orange stone and softly patterned blue-gray agate in a fire-and-water-inspired design.
+  Updated: 2026-10-22T15:23:26Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A51688F3-2F07-4D96-8D2C-0EF1E0E7E493.png?v=1790980731
   Price: $12.99 USD
-- [Citrine Crystal Point Bracelet | Thorn & Thimble](https://thornthimble.shop/products/365-days-of-brilliance-citrine-bracelet): A pointed citrine centerpiece adds a directional silhouette to this gemstone bracelet. Warm honey tones make a symbolic new-beginnings or prosperity gift.
-  Updated: 2026-10-15T22:13:38Z
+- [Citrine Crystal Point Bracelet – Prosperity & New Beginnings](https://thornthimble.shop/products/365-days-of-brilliance-citrine-bracelet): Citrine bracelet with a pointed centerpiece, for crystal jewelry and intentions of prosperity, confidence, and new beginnings.
+  Updated: 2026-10-22T13:29:58Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/365-days-of-brilliance-citrine-bracelet-5138249.jpg?v=1788375515
   Price: $16.99 USD
-- [Dalmatian Jasper Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/emotional-detox-dalmatian-jasper-bracelet): Playful dark spots mark pale Dalmatian jasper beads in this polished bracelet. An earthy gemstone accessory for everyday wear, layering or crystal gifts.
-  Updated: 2026-10-15T16:23:56Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/32930DA3-E83F-4D3D-A70B-C59EC7A351EA.png?v=1790989073
-  Price: $12.99 USD
-- [Obsidian & Citrine Four-Stone Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-quadruple-protection-bracelet): Black obsidian, hematite, tiger's eye and citrine form this four-stone bracelet. Dark, metallic and golden beads create a contrasting crystal jewelry design.
-  Updated: 2026-10-15T23:07:46Z
+- [Obsidian, Hematite, Tiger’s Eye & Citrine Protection Bracelet](https://thornthimble.shop/products/the-quadruple-protection-bracelet): Obsidian, hematite, tiger’s eye, and citrine bracelet combining dark polished beads with warm honey-and-gold accents.
+  Updated: 2026-10-22T15:58:25Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-quadruple-protection-bracelet-1328174.png?v=1790989089
   Price: $12.99 USD
-- [Amethyst, Selenite & Malachite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-triple-healing-bracelet): Amethyst, selenite and malachite beads bring purple, white and banded green color to one bracelet. Wear this contrasting gemstone design alone or in a stack.
-  Updated: 2026-10-14T15:53:56Z
+- [Amethyst, Selenite & Malachite Bracelet – Balance & Renewal](https://thornthimble.shop/products/the-triple-healing-bracelet): Amethyst, selenite, and malachite bracelet combining purple, white, and green stones, for crystal jewelry and intentions of balance and renewal.
+  Updated: 2026-10-22T08:32:16Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/79CAFE77-EE67-41D3-9487-F65BC3FAD92B.png?v=1790989428
   Price: $16.99 USD
-- [Quartz, Moonstone & Citrine Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/spark-hope-golden-bracelet-of-new-beginnings): Clear quartz, moonstone and citrine combine clear, pearly and honey-colored tones. A luminous gemstone bracelet for daily wear or a symbolic fresh-start gift.
-  Updated: 2026-10-15T22:13:36Z
+- [Clear Quartz, Moonstone & Citrine Bracelet – New Beginnings](https://thornthimble.shop/products/spark-hope-golden-bracelet-of-new-beginnings): Clear quartz, moonstone, and citrine bracelet in clear, pearly, and honey-colored tones, for crystal jewelry and fresh-start intentions.
+  Updated: 2026-10-22T02:50:02Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F6097611-6F12-40BD-9601-872A1A56F542.png?v=1790980754
   Price: $16.99 USD
-- [Black Obsidian & Raw Tourmaline Bracelet | Thorn & Thimble](https://thornthimble.shop/products/habit-breaker-black-obsidian-tourmaline-bracelet): Polished black obsidian contrasts with raw black tourmaline in this crystal bracelet. Dark stones and varied textures create a distinctive jewelry pairing.
-  Updated: 2026-10-15T22:25:47Z
+- [Black Obsidian & Raw Tourmaline Bracelet – Protection & Renewal](https://thornthimble.shop/products/habit-breaker-black-obsidian-tourmaline-bracelet): Black obsidian and raw black tourmaline bracelet combining polished and natural surfaces, for crystal jewelry and intentions of renewal.
+  Updated: 2026-10-22T14:57:27Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/habit-breaker-black-obsidian-tourmaline-bracelet-6761505.jpg?v=1788375722
   Price: $12.99 USD
-- [Midas Citrine Crystal Geyser Lamp | Thorn & Thimble](https://thornthimble.shop/products/turn-my-life-to-gold-midas-citrine-lamp): Citrine points form a golden geyser-inspired crystal lamp with a USB cable. Adjustable light modes bring a radiant gemstone focal point to a desk or altar.
-  Updated: 2026-10-15T22:13:36Z
+- [Citrine Crystal Geyser Lamp | Thorn & Thimble](https://thornthimble.shop/products/turn-my-life-to-gold-midas-citrine-lamp): A citrine crystal geyser lamp with 30 adjustable light modes, for golden accent lighting in a creative studio or prosperity-themed altar.
+  Updated: 2026-10-22T07:28:23Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/51A6EE6D-5382-470C-A600-BEEF17A5A1FB.png?v=1790980771
   Price: $39.99 USD
-- [Citrine Pi Yao Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-ultimate-wealth-bracelet): Golden citrine beads surround a Pi Yao charm, also called Pixiu, in this crystal bracelet. A jewelry gift inspired by Chinese good-fortune symbolism.
-  Updated: 2026-10-15T22:27:57Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7DD4C1F8-7061-420F-A9B5-B388D139719C.png?v=1790989461
-  Price: $19.99 USD
-- [Galaxy Tiger's Eye & Selenite Bracelet | Thorn & Thimble](https://thornthimble.shop/products/cosmic-energy-amplifier-galaxy-tiger-s-eye-bracelet): Dyed Galaxy tiger's eye and pale selenite meet 14K gold-plated steel accents. A colorful crystal bracelet with celestial tones and contrasting white beads.
-  Updated: 2026-10-15T23:08:17Z
+- [Galaxy Tiger’s Eye & Selenite Bracelet – Intention & Clarity](https://thornthimble.shop/products/cosmic-energy-amplifier-galaxy-tiger-s-eye-bracelet): Dyed Galaxy tiger’s eye and selenite bracelet with 14K gold-plated stainless-steel accents, combining vivid celestial color and pale stone.
+  Updated: 2026-10-22T02:50:04Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/cosmic-energy-amplifier-galaxy-tigers-eye-bracelet-4442951.jpg?v=1788375854
   Price: $12.99 USD
-- [Selenite Sanctuary Lamp with Seven Crystals | Thorn & Thimble](https://thornthimble.shop/products/the-stress-shield-lamp-7-stones-of-healing): Seven gemstones, including kunzite and seraphinite, join selenite in this USB crystal lamp. Adjust its lighting for a colorful desk or meditation-room display.
-  Updated: 2026-10-14T12:25:46Z
+- [Seven-Crystal Selenite Sanctuary Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-stress-shield-lamp-7-stones-of-healing): A selenite sanctuary lamp with seven complementary crystals, for a textured gemstone display on a bedside table or meditation shelf.
+  Updated: 2026-10-22T02:50:04Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/295741EF-9E89-46DC-B0BC-C3435A7448F7.png?v=1790964912
   Price: $32.99 USD
-- [Obsidian, Hematite & Tiger's Eye Karma Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-triple-karma-shield-bracelet): Black obsidian, metallic hematite and golden tiger's eye form the Triple Karma Shield bracelet. Layer contrasting gemstone tones or wear it as one bold piece.
-  Updated: 2026-10-14T18:58:06Z
+- [Obsidian, Hematite & Tiger’s Eye Protection Bracelet](https://thornthimble.shop/products/the-triple-karma-shield-bracelet): Obsidian, hematite, and tiger’s eye bracelet for everyday crystal jewelry, layering, and intentions of grounding and protective boundaries.
+  Updated: 2026-10-22T12:26:37Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F4E8F529-9F71-4F1A-823E-D0EFF271981C.png?v=1790989482
   Price: $12.99 USD
-- [Blue Lace Agate, Howlite & Selenite Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-empath-s-trio-daily-reset-bracelet): Blue lace agate, white howlite and pale selenite form one gemstone bracelet. Soft blue and white tones make a light crystal jewelry pairing for daily wear.
-  Updated: 2026-10-15T22:13:36Z
+- [Blue Lace Agate, Howlite & Selenite Bracelet – Calm & Clarity](https://thornthimble.shop/products/the-empath-s-trio-daily-reset-bracelet): Blue lace agate, howlite, and selenite bracelet in a gentle palette, for everyday crystal jewelry and quiet reflection.
+  Updated: 2026-10-22T02:50:06Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/47FC2403-795C-4060-9960-44C15D280FBD.png?v=1790966133
   Price: $19.99 USD
-- [Arfvedsonite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-is-your-breakthrough-rare-arfvedsonite-point): A faceted arfvedsonite point reveals dark stone with reflective mineral detail. Add a distinctive crystal tower to an altar, desk or gemstone collection.
-  Updated: 2026-10-15T22:02:26Z
+- [Arfvedsonite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-is-your-breakthrough-rare-arfvedsonite-point): Arfvedsonite Crystal Point – Breakthrough for gemstone collections and personal display.
+  Updated: 2026-10-22T18:38:23Z
   Vendor: Conscious Items
   Product Type: Crystals & Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/385FB726-B0C4-43F3-B9B1-EB1D4AF5A5F7.png?v=1790966145
   Price: $11.99 USD
-- [Obsidian, Tiger's Eye & Hematite Raw Stone Trio | Thorn & Thimble](https://thornthimble.shop/products/the-triple-protection-trio): Three raw stones feature black obsidian, golden tiger's eye and metallic hematite. A contrasting crystal set for collecting, personal ritual or altar display.
-  Updated: 2026-10-15T21:48:37Z
-  Vendor: Conscious Items
-  Product Type: Crystals & Stones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-triple-protection-trio-conscious-items-6306604.jpg?v=1788376191
-  Price: $5.99 USD
-- [Citrine, Pyrite & Aventurine Raw Crystal Trio | Thorn & Thimble](https://thornthimble.shop/products/the-abundance-trio): Raw citrine, pyrite and green aventurine form a three-stone crystal set. Combine golden, metallic and green tones in an altar display or gemstone collection.
-  Updated: 2026-10-15T18:25:22Z
-  Vendor: Conscious Items
-  Product Type: Crystals & Stones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8B2A5802-9613-4749-BF23-5A23D87F3256.png?v=1790989498
-  Price: $5.99 USD
-- [Hypersthene Teardrop Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-pendant): A dark hypersthene teardrop hangs from an adjustable cotton cord up to 25.5 inches. Subtle silvery sheen gives this gemstone pendant a distinctive finish.
-  Updated: 2026-10-15T22:02:05Z
+- [Hypersthene Teardrop Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-pendant): Hypersthene Teardrop Crystal Pendant – Manifestation for gemstone collections and personal display.
+  Updated: 2026-10-22T23:17:48Z
   Vendor: Conscious Items
   Product Type: Pendants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CC33FE05-4958-4C09-8756-50D60FE5AF90.png?v=1790980810
   Price: $19.99 USD
-- [Orca Agate Four-Stone Protection Bracelet | Thorn & Thimble](https://thornthimble.shop/products/orca-s-armor-the-triple-protection-healing-bracelet): Orca agate, black obsidian, hematite and tiger's eye combine in one bracelet. Ocean-inspired patterns meet dark, metallic and golden crystal jewelry accents.
-  Updated: 2026-10-15T20:38:56Z
+- [Orca Agate Protection Bracelet – Obsidian, Hematite & Tiger’s Eye](https://thornthimble.shop/products/orca-s-armor-the-triple-protection-healing-bracelet): Orca agate, obsidian, hematite, and tiger’s eye bracelet inspired by moonlit ocean colors, for crystal jewelry and grounding intentions.
+  Updated: 2026-10-22T14:32:59Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DBA7D193-83DC-41CD-9484-14BD7496D5F9.png?v=1790980835
   Price: $12.99 USD
-- [Pink Kunzite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-heart-reset-rare-pink-kunzite-bracelet): Pale pink kunzite beads bring gentle color and a luminous polished finish to this bracelet. An elegant gemstone accessory for layering or a thoughtful gift.
-  Updated: 2026-10-15T23:00:58Z
+- [Pink Kunzite Bracelet – Compassion & Self-Love](https://thornthimble.shop/products/the-heart-reset-rare-pink-kunzite-bracelet): Pink kunzite bracelet with delicate color and a luminous polished finish, for crystal jewelry and intentions of compassion and self-love.
+  Updated: 2026-10-22T14:21:06Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/Copy_of_Product_Annotated_-_Badge_Remote_6f96d55a-ff05-4841-8199-f7dfccb53d5d.png?v=1790966152
   Price: $26.99 USD
-- [Seraphinite Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-angel-by-my-side-rare-seraphinite-pendant): Silvery feather-like patterns mark this green seraphinite pendant on an adjustable cotton cord. Choose a classic or larger statement stone for your jewelry.
-  Updated: 2026-10-15T22:30:39Z
+- [Seraphinite Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-angel-by-my-side-rare-seraphinite-pendant): Seraphinite Crystal Pendant – Angel by My Side for gemstone collections and personal display.
+  Updated: 2026-10-22T02:50:08Z
   Vendor: Conscious Items
   Product Type: Pendants
   Availability: Available
@@ -2411,92 +2362,78 @@
   - [Statement 1.4 - 1.6 in (35 - 40 mm)](https://thornthimble.shop/products/the-angel-by-my-side-rare-seraphinite-pendant?variant=46416952164449)
     Availability: Available
     Price: $26.99 USD
-- [Malachite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-changes-everything-malachite-phoenix-point): Rich green malachite bands reveal layered patterns in a faceted crystal point. A striking gemstone tower for an altar, desk, shelf or crystal collection.
-  Updated: 2026-10-15T14:21:16Z
+- [Malachite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-changes-everything-malachite-phoenix-point): Malachite Crystal Point – Phoenix Transformation for gemstone collections and personal display.
+  Updated: 2026-10-22T02:50:08Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D9995B33-9B5C-4BCA-A4AA-D7669E07B989.png?v=1790980842
   Price: $14.99 USD
-- [Blue Amazonite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/empire-of-her-own-premium-blue-amazonite-bracelet): Bright blue amazonite beads bring bold color and natural variation to this polished bracelet. A gemstone accessory for everyday wear, layering or jewelry gifts.
-  Updated: 2026-10-15T22:13:36Z
+- [Blue Amazonite Bracelet – Courage & Self-Expression](https://thornthimble.shop/products/empire-of-her-own-premium-blue-amazonite-bracelet): Blue amazonite bracelet with bold color and a smooth finish, for everyday crystal jewelry and intentions of courage and self-expression.
+  Updated: 2026-10-22T02:50:08Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DSC00115-e-w_1.jpg?v=1788376553
   Price: $26.99 USD
-- [Malachite 6 mm Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-anxiety-bracelet-6mm): Polished 6 mm malachite beads show rich green bands and individual patterns. Wear this gemstone bracelet alone or pair it with your favorite crystal jewelry.
-  Updated: 2026-10-15T18:41:16Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8C94BCF7-6077-4980-A340-0C5186D9FB53.png?v=1791024441
-  Price: $12.99 USD
-- [Siberian Charoite Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/unshakeable-intuition-rare-siberian-charoite-bracelet): Swirling lavender, purple and dark mineral detail give this Siberian charoite bracelet depth. A distinctive gemstone accessory with naturally varied beads.
-  Updated: 2026-10-15T21:16:46Z
+- [Siberian Charoite Bracelet – Intuition & Self-Trust](https://thornthimble.shop/products/unshakeable-intuition-rare-siberian-charoite-bracelet): Siberian charoite bracelet with lavender, purple, and darker mineral detail, for crystal jewelry and intentions of intuition and self-trust.
+  Updated: 2026-10-22T17:34:37Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D37C2B8A-DAEA-4E66-9E93-CAB1B65EE5CA.png?v=1791024449
   Price: $32.99 USD
-- [Moroccan Selenite Twin-Tower Lamp | Thorn & Thimble](https://thornthimble.shop/products/two-tower-selenite-lamp-deep-energy-cleanse-reset): Two Moroccan selenite towers rise from a coordinated lamp base. A remote and 30 light modes let you customize this sculptural USB-powered crystal display.
-  Updated: 2026-10-12T21:24:02Z
+- [Moroccan Selenite Twin-Tower Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/two-tower-selenite-lamp-deep-energy-cleanse-reset): A twin-tower Moroccan selenite lamp with 30 adjustable light modes and remote control, for symmetrical crystal accent lighting.
+  Updated: 2026-10-22T02:50:11Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/two-tower-selenite-lamp-deep-energy-cleanse-reset-conscious-items-7336795.jpg?v=1788376689
   Price: $39.99 USD
-- [Rainbow Tourmaline Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-spiral-breaker-rainbow-tourmaline-bracelet): Multicolor tourmaline beads bring an earthy range of tones to this bracelet. Wear the naturally varied stones alone or with your favorite crystal stack.
-  Updated: 2026-10-15T20:49:06Z
+- [Rainbow Tourmaline Bracelet – Grounding & Balance](https://thornthimble.shop/products/the-spiral-breaker-rainbow-tourmaline-bracelet): Rainbow tourmaline bracelet with varied stone colors and patterns, for everyday crystal jewelry and intentions of grounding and balance.
+  Updated: 2026-10-22T03:25:51Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6841F46F-D024-4C9F-BE10-ACC8B3518799.png?v=1791024459
   Price: $26.99 USD
-- [Dyed Galaxy Tiger's Eye 6 mm Bracelet | Thorn & Thimble](https://thornthimble.shop/products/destiny-activator-all-galaxy-tiger-s-eye-bracelet-6mm): Dyed Galaxy tiger's eye beads create a celestial mix of reflective colors in this 6 mm bracelet. A vivid gemstone accessory for everyday wear or layering.
-  Updated: 2026-10-15T23:00:49Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DF147564-E247-424C-AA82-6B311E2E03DE.png?v=1791028350
-  Price: $7.99 USD
-- [Peruvian Pink Opal Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/repair-my-heart-the-peruvian-pink-opal-bracelet): Soft Peruvian pink opal beads bring a blush-toned palette to this polished bracelet. Wear it alone or layer it with favorite gemstone jewelry.
-  Updated: 2026-10-15T20:33:16Z
+- [Peruvian Pink Opal Bracelet – Love & Emotional Renewal](https://thornthimble.shop/products/repair-my-heart-the-peruvian-pink-opal-bracelet): Peruvian pink opal bracelet in gentle tones, for crystal jewelry and intentions of love, compassion, and emotional renewal.
+  Updated: 2026-10-22T14:06:57Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/5D3BF9F4-0604-4647-8384-301C1422A497.png?v=1791024466
   Price: $16.99 USD
-- [Ocean Jasper Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/quiet-my-mind-ocean-jasper-bracelet): Varied ocean jasper beads create an individual landscape of color and pattern in this bracelet. A distinctive gemstone accessory for collectors and daily wear.
-  Updated: 2026-10-15T23:07:37Z
+- [Ocean Jasper Bracelet – Calm & Emotional Balance](https://thornthimble.shop/products/quiet-my-mind-ocean-jasper-bracelet): Ocean jasper bracelet with individual natural color and markings, for crystal jewelry and intentions of calm and emotional balance.
+  Updated: 2026-10-22T02:50:12Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3F17405D-8389-4604-A199-1067C5745E7D.png?v=1791024474
   Price: $12.99 USD
-- [Black Moonstone Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-empath-s-cord-cutter-black-moonstone-bracelet): Dark moonstone beads reveal subtle flashes and natural variation in this bracelet. An understated gemstone accessory for everyday wear or layered jewelry.
-  Updated: 2026-10-15T22:29:05Z
+- [Black Moonstone Bracelet – Boundaries & New Beginnings](https://thornthimble.shop/products/the-empath-s-cord-cutter-black-moonstone-bracelet): Black moonstone bracelet with natural color, flash, and pattern variations, for crystal jewelry and intentions of boundaries and new beginnings.
+  Updated: 2026-10-22T19:52:17Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/25FA1EC7-319C-4214-857D-841A78828768.png?v=1790980852
   Price: $26.99 USD
-- [Snowflake Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/spiritual-bodyguard-snowflake-obsidian-point): Pale snowflake markings contrast with black obsidian in this faceted crystal point. Display its naturally varied patterns on an altar, desk or gemstone shelf.
-  Updated: 2026-10-15T22:02:25Z
+- [Snowflake Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/spiritual-bodyguard-snowflake-obsidian-point): Snowflake Obsidian Crystal Point – Spiritual Bodyguard for gemstone collections and personal display.
+  Updated: 2026-10-22T14:13:53Z
   Vendor: Conscious Items
   Product Type: Crystals & Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DSC09542-w_1.jpg?v=1788376950
   Price: $11.99 USD
-- [7A Tiger's Eye Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/built-to-win-7a-grade-tiger-s-eye-bracelet): Golden tiger's eye beads show reflective bands in this supplier-graded 7A bracelet. A warm gemstone accessory for daily wear or layered crystal jewelry.
-  Updated: 2026-10-15T03:38:15Z
+- [7A Grade Tiger’s Eye Bracelet – Focus & Prosperity](https://thornthimble.shop/products/built-to-win-7a-grade-tiger-s-eye-bracelet): 7A Grade tiger’s eye bracelet with natural reflective movement, for crystal jewelry and intentions of focus, confidence, and prosperity.
+  Updated: 2026-10-22T02:50:20Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1D7FBBD1-1BB0-48D3-A636-33F384B6CCCD.png?v=1790980866
   Price: $14.99 USD
-- [Gold or Silver Sheen Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-upper-hand-gold-silver-sheen-obsidian-points): Choose a gold or silver sheen obsidian point for warm or cool reflective flashes. Each faceted crystal tower brings individual stone detail to your display.
-  Updated: 2026-10-15T14:53:46Z
+- [Gold or Silver Sheen Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-upper-hand-gold-silver-sheen-obsidian-points): Gold or Silver Sheen Obsidian Crystal Point for gemstone collections and personal display.
+  Updated: 2026-10-22T14:55:06Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
@@ -2507,50 +2444,50 @@
   - [Silver Sheen Obsidian](https://thornthimble.shop/products/the-upper-hand-gold-silver-sheen-obsidian-points?variant=46416956719201)
     Availability: Available
     Price: $12.99 USD
-- [Ice Quartz Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/limitless-manifestation-ice-quartz-point): Heat-treated clear quartz reveals sparkling internal fractures in this Ice Quartz point. A faceted gemstone tower for an altar, desk or crystal collection.
-  Updated: 2026-10-15T22:29:14Z
+- [Ice Quartz Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/limitless-manifestation-ice-quartz-point): Ice Quartz Crystal Point – Limitless Manifestation for gemstone collections and personal display.
+  Updated: 2026-10-22T02:50:16Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/902D25AD-875E-4040-BCBD-F9EF23047174.png?v=1790980874
   Price: $11.99 USD
-- [Golden Healer Quartz Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-master-reset-golden-healer-quartz-bracelet): Golden healer quartz beads show warm mineral tones and naturally varied patterns. A luminous gemstone bracelet for daily jewelry, layering or crystal gifts.
-  Updated: 2026-10-15T22:02:16Z
+- [Golden Healer Quartz Bracelet – Transformation & Renewal](https://thornthimble.shop/products/the-master-reset-golden-healer-quartz-bracelet): Golden Healer quartz bracelet with natural colors and patterns, for crystal jewelry and intentions of transformation and renewal.
+  Updated: 2026-10-22T08:32:54Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E1E606EB-DC2E-4BEA-92DB-B1FC70CD857F.png?v=1790966193
   Price: $19.99 USD
-- [Chevron Amethyst Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/cycle-breaker-chevron-amethyst-point-of-transformation): Purple amethyst and pale quartz form distinctive V-shaped bands in this faceted point. Add a patterned gemstone tower to an altar, desk or crystal collection.
-  Updated: 2026-10-15T23:06:17Z
+- [Chevron Amethyst Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/cycle-breaker-chevron-amethyst-point-of-transformation): Chevron Amethyst Crystal Point – Cycle Breaker for gemstone collections and personal display.
+  Updated: 2026-10-22T02:50:15Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8A9AF569-15A7-4FA8-91F5-AF89BB73F9CD.png?v=1790980887
   Price: $11.99 USD
-- [Mahogany Obsidian Bead Bracelet | Thorn & Thimble](https://thornthimble.shop/products/the-self-sabotage-breaker-mahogany-obsidian-bracelet): Reddish-brown and black markings distinguish this polished mahogany obsidian bracelet. An earthy gemstone accessory for daily wear or crystal jewelry stacks.
-  Updated: 2026-10-15T20:49:03Z
+- [Mahogany Obsidian Bracelet – Grounding & Boundaries](https://thornthimble.shop/products/the-self-sabotage-breaker-mahogany-obsidian-bracelet): Mahogany obsidian bracelet with a polished, earthy appearance, for crystal jewelry and intentions of grounding and personal boundaries.
+  Updated: 2026-10-22T20:37:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/206F617C-6E31-46C7-BCA7-A435BBFA59B4.png?v=1791024482
   Price: $19.99 USD
-- [Howlite, Blue Lace Agate & Rose Quartz Bracelet | Thorn & Thimble](https://thornthimble.shop/products/3am-thoughts-off-deep-sleep-trio-bracelet): One bracelet combines white howlite, blue lace agate and pink rose quartz. Soft blue, white and blush tones make a gentle gemstone jewelry pairing.
-  Updated: 2026-10-15T23:07:33Z
+- [Howlite, Blue Lace Agate & Rose Quartz Nighttime Bracelet](https://thornthimble.shop/products/3am-thoughts-off-deep-sleep-trio-bracelet): One howlite, blue lace agate, and rose quartz bracelet in white, blue, and blush tones, for quiet journaling and evening reflection.
+  Updated: 2026-10-23T00:31:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/image_2_1.jpg?v=1788377265
   Price: $16.99 USD
-- [Pink Galaxy Tiger's Eye & Selenite Bracelet | Thorn & Thimble](https://thornthimble.shop/products/shape-your-future-pink-galaxy-tiger-s-eye-bracelet): Pink Galaxy tiger's eye pairs with pale selenite beads in one crystal bracelet. Reflective color and moonlit contrast create a vivid gemstone jewelry design.
-  Updated: 2026-10-15T17:22:16Z
+- [Pink Galaxy Tiger’s Eye & Selenite Bracelet – Focus & Intention](https://thornthimble.shop/products/shape-your-future-pink-galaxy-tiger-s-eye-bracelet): Pink Galaxy tiger’s eye and selenite bracelet for celestial crystal jewelry and intentions of focus and clarity; color and finish vary.
+  Updated: 2026-10-22T02:50:16Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E86E120B-018E-49BE-B976-694208C52321.png?v=1790980895
   Price: $12.99 USD
-- [Labradorite Reign Fringe Necklace | Thorn & Thimble](https://thornthimble.shop/products/labradorite-reign-necklace): Hand-wrapped gemstones create fringe-like movement in the Reign necklace. Choose labradorite or another gemstone with gold- or rhodium-plated sterling silver.
-  Updated: 2026-10-12T21:25:11Z
+- [Labradorite Reign Fringe Necklace | Thorn & Thimble](https://thornthimble.shop/products/labradorite-reign-necklace): A delicate Reign fringe necklace with gemstone and metal choices. Select labradorite or another listed stone in gold- or rhodium-plated silver.
+  Updated: 2026-10-22T02:50:20Z
   Vendor: PARKEN JEWELRY
   Product Type: Necklaces
   Availability: Available
@@ -2607,56 +2544,80 @@
 
 ## Collections
 
+- [All Thorn & Thimble Products](https://thornthimble.shop/collections/full-catalog): Shop all Thorn & Thimble finds: witchy gifts, mystical décor, tarot, crystals, books, games, dice and curious oddities for magical souls.
+  Updated: 2026-10-22T23:10:40Z
+  Total Products: 1884
+- [Garden Flags](https://thornthimble.shop/collections/flags): Shop witchy garden flags with mushrooms, skulls, celestial details and whimsical artwork. Add gothic charm to your porch, patio or garden with Thorn & Thimble.
+  Updated: 2026-10-13T08:26:34Z
+  Total Products: 16
+- [Enchanted Frog Witches](https://thornthimble.shop/collections/frogs): Shop frog witch stickers, mugs and garden flags with mushrooms, potions and woodland charm. Discover whimsical cottagecore frog gifts at Thorn & Thimble.
+  Updated: 2026-10-13T08:26:37Z
+  Total Products: 25
+- [Unique Mugs and Drinkware](https://thornthimble.shop/collections/mugs): Shop witchy and cottagecore mugs, enamel cups and gothic rocks glasses. Discover mushrooms, botanical designs and whimsical witches at Thorn & Thimble.
+  Updated: 2026-10-13T08:26:40Z
+  Total Products: 45
 - [Whimsical Chicken Witches](https://thornthimble.shop/collections/chicken): Shop whimsical chicken witch mugs, vinyl stickers and tote bags. Discover cottagecore gifts featuring feathered bakers, gardeners, readers and stargazers.
   Updated: 2026-10-13T08:26:42Z
   Total Products: 24
+- [Vinyl Stickers](https://thornthimble.shop/collections/stickers): Shop witchy vinyl stickers with cottagecore creatures, mushrooms, skulls and magical designs. Add personality to journals, laptops and more at Thorn & Thimble.
+  Updated: 2026-10-17T17:12:28Z
+  Total Products: 74
 - [Eco-Friendly Tote Bags](https://thornthimble.shop/collections/eco-totes): Shop reusable witchy and cottagecore tote bags with mushrooms, botanical art, celestial moths and animal witches for books, groceries and everyday outings.
   Updated: 2026-10-13T08:26:44Z
   Total Products: 42
+- [Adorable Mouse Witches](https://thornthimble.shop/collections/mouse-witches): Shop mouse witch stickers, mugs and garden flags filled with potions, mushrooms and cozy magic. Discover whimsical cottagecore gifts at Thorn & Thimble.
+  Updated: 2026-10-13T08:26:45Z
+  Total Products: 23
 - [Spiritual Bracelets](https://thornthimble.shop/collections/bracelets): Shop crystal and gemstone bracelets featuring tiger’s eye, amethyst, quartz and more. Explore beaded styles and bracelet sets for meaningful everyday wear.
-  Updated: 2026-10-13T17:37:10Z
+  Updated: 2026-10-22T00:59:11Z
   Total Products: 106
 - [Labradorite Jewelry](https://thornthimble.shop/collections/labradorite): Shop labradorite necklaces, earrings and bracelets from Parken Jewelry. Explore halo pendants, drop earrings and layering sets with luminous gemstone color.
   Updated: 2026-10-13T08:26:49Z
   Total Products: 28
 - [Sweet Little Spiders Collection](https://thornthimble.shop/collections/sweet-little-spiders): Shop cute spider vinyl stickers and sticker sheets in bright and pastel colors. Add a little spooky charm to journals, laptops and notebooks.
-  Updated: 2026-10-13T08:26:52Z
+  Updated: 2026-10-21T13:31:14Z
   Total Products: 10
 - [Handpicked Treasures](https://thornthimble.shop/collections/spotlight): Explore handpicked witchy gifts, mystical décor, gemstone jewelry and tabletop gaming finds. Discover a rotating selection of Thorn & Thimble favorites.
-  Updated: 2026-10-12T21:08:32Z
+  Updated: 2026-10-21T13:31:18Z
   Total Products: 16
 - [Divination](https://thornthimble.shop/collections/tarot): Explore tarot and oracle cards, pendulums, rune sets, crystal balls and other divination tools. Browse supplies for intuitive reading and spiritual practice.
   Updated: 2026-10-06T12:01:44Z
   Total Products: 0
+- [Fantasy & Cryptid Plush Toys](https://thornthimble.shop/collections/toys-plushies): Shop fantasy plush toys, cryptid plushies and geeky stuffed creatures for cuddling, collecting and unusual gifts. Discover soft oddities at Thorn & Thimble.
+  Updated: 2026-10-21T13:41:28Z
+  Total Products: 213
 - [Cthulhu Collection](https://thornthimble.shop/collections/cthulhu): Shop Cthulhu games, RPG books, dice and accessories. Explore Call of Cthulhu, Death May Die and Lovecraftian gifts for cosmic horror fans and gamers.
-  Updated: 2026-10-13T08:27:06Z
+  Updated: 2026-10-22T23:10:40Z
   Total Products: 92
 - [Refillable Oil Candles](https://thornthimble.shop/collections/oil-candles): Shop scented refillable oil candles inspired by deities, zodiac signs and the elements. Explore individual candles and ritual gift sets at Thorn & Thimble.
-  Updated: 2026-10-13T08:27:10Z
+  Updated: 2026-10-21T13:31:13Z
   Total Products: 53
+- [Spiritual Crystals](https://thornthimble.shop/collections/crystals): Shop crystals and gemstones for altars, collecting, meditation and mystical décor. Discover colorful stones and meaningful crystal gifts at Thorn & Thimble.
+  Updated: 2026-10-20T16:35:00Z
+  Total Products: 39
 - [Magical Fantasy Wands](https://thornthimble.shop/collections/magical_fantasy_wands): Shop decorative fantasy magic wands with Green Man, raven, serpent and celestial designs for cosplay, display and unusual gifts at Thorn & Thimble.
   Updated: 2026-10-08T18:04:11Z
   Total Products: 24
 - [Affordable Gifts Under $20](https://thornthimble.shop/collections/under-20): Find witchy gifts under $20, from crystals and gemstone bracelets to stickers, books and RPG dice. Discover affordable little treasures at Thorn & Thimble.
-  Updated: 2026-10-15T22:15:41Z
-  Total Products: 1039
+  Updated: 2026-10-22T19:38:50Z
+  Total Products: 1064
 - [Unique Gifts $20 - $50](https://thornthimble.shop/collections/gifts-20-50): Explore witchy gifts from $20 to under $50, including candles, spell kits, crystal lamps, games and décor. Find thoughtful gifts for magical souls.
-  Updated: 2026-10-15T18:02:10Z
-  Total Products: 1147
+  Updated: 2026-10-22T08:45:31Z
+  Total Products: 1125
 - [Discover Gifts $50 - $100](https://thornthimble.shop/collections/gifts-50-under-100): Discover witchy gifts from $50 to under $100, including gemstone jewelry, premium dice, statues and ritual finds for collectors, gamers and magical souls.
-  Updated: 2026-10-13T15:06:12Z
-  Total Products: 528
+  Updated: 2026-10-21T00:54:20Z
+  Total Products: 532
 - [Luxury Gifts Over $100](https://thornthimble.shop/collections/gifts-100): Explore witchy gifts $100 and up, including statement gemstone carvings, statues, jewelry and tabletop collectibles for memorable celebrations.
-  Updated: 2026-10-13T15:10:20Z
-  Total Products: 133
+  Updated: 2026-10-22T23:10:40Z
+  Total Products: 127
 - [Esoteric and Occult Books](https://thornthimble.shop/collections/esoteric-occult-books): Explore witchcraft, occult and spiritual books on tarot, astrology, crystals, mythology and more. Browse reading for curious minds and personal practice.
   Updated: 2026-10-06T03:38:48Z
   Total Products: 0
 - [Decorative Statues](https://thornthimble.shop/collections/statues): Shop goddess and pagan altar statues, mythological figures and gothic décor. Discover Hecate, Lilith, Nyx, Gaia and more from Dellamorte & Co.
-  Updated: 2026-10-13T08:28:17Z
+  Updated: 2026-10-21T13:31:11Z
   Total Products: 63
 - [Spell Ingredients](https://thornthimble.shop/collections/oddities-curiosities): Explore spell ingredients, ritual inks, bones, animal oddities and magical notions. Browse curious supplies for spellwork, crafting and personal rituals.
-  Updated: 2026-10-06T12:00:20Z
+  Updated: 2026-10-21T13:31:17Z
   Total Products: 0
 - [Spell Kits & Ritual Jars](https://thornthimble.shop/collections/spell-kits-jars): Explore witchcraft spell kits, ritual jars and candle spells for protection, love, prosperity and more. Browse coordinated supplies for personal rituals.
   Updated: 2026-10-08T21:24:47Z
@@ -2667,15 +2628,24 @@
 - [Ritual Brooms](https://thornthimble.shop/collections/ritual-brooms-collection): Shop witch brooms, ritual besoms and cinnamon altar brooms for symbolic cleansing, seasonal rituals and witchy décor. Explore Thorn & Thimble.
   Updated: 2026-10-13T08:28:24Z
   Total Products: 37
+- [Curated Bundles](https://thornthimble.shop/collections/curated-bundles): Shop curated gift bundles and witchy gift sets with complementary finds for rituals, hobbies and themed gifting. Explore magical pairings at Thorn & Thimble.
+  Updated: 2026-10-19T10:07:47Z
+  Total Products: 19
 - [Altars](https://thornthimble.shop/collections/altars): Explore altar tables, cloths, chests, bells, athames and ritual brooms. Browse supplies for witchcraft, devotional spaces and personal rituals.
   Updated: 2026-10-12T21:08:34Z
   Total Products: 0
 - [Healing](https://thornthimble.shop/collections/healing): Explore singing bowls, tuning forks and leather journals for meditation, sound practice and reflection. Browse tools for meaningful personal rituals.
   Updated: 2026-10-06T12:00:22Z
   Total Products: 0
+- [Cauldrons & Mortar & Pestles](https://thornthimble.shop/collections/cauldrons-mortar-pestles): Shop witchcraft cauldrons and mortar and pestle sets for preparing herbs, spell ingredients and altar displays. Find ritual tools at Thorn & Thimble.
+  Updated: 2026-10-21T18:34:44Z
+  Total Products: 8
 - [Lamps](https://thornthimble.shop/collections/lamps): Shop crystal lamps featuring selenite, amethyst, quartz and more. Discover tower, halo, heart and gemstone tree designs for atmospheric lighting and décor.
   Updated: 2026-10-10T08:29:34Z
   Total Products: 25
+- [Altar Chests & Boxes](https://thornthimble.shop/collections/altar-chests-boxes): Shop altar boxes and chests for storing crystals, herbs, tarot cards and ritual tools. Organize your sacred space with magical finds from Thorn & Thimble.
+  Updated: 2026-10-17T18:07:51Z
+  Total Products: 11
 - [Altar Tables](https://thornthimble.shop/collections/altar-table): Shop small altar tables with pentagram and triple moon designs for crystals, ritual tools and sacred displays. Create your altar space with Thorn & Thimble.
   Updated: 2026-10-12T21:08:34Z
   Total Products: 2
@@ -2683,8 +2653,11 @@
   Updated: 2026-10-12T21:08:35Z
   Total Products: 6
 - [Bells](https://thornthimble.shop/collections/bells): Shop altar bells and brass ritual bells with triple moon, triquetra and Om designs. Bring sound to your witchcraft practice and sacred space at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:37Z
+  Updated: 2026-10-16T15:56:56Z
   Total Products: 6
+- [Smudge & Cleansing](https://thornthimble.shop/collections/smudge-cleansing): Shop smudge sticks and herbal smoke cleansing bundles for ritual, meditation and aromatic atmosphere. Find your next ritual companion at Thorn & Thimble.
+  Updated: 2026-10-19T10:07:48Z
+  Total Products: 19
 - [Smoke & Scent](https://thornthimble.shop/collections/smoke-scent): Explore incense, resins and smoke cleansing supplies for ritual, meditation and fragrance. Browse smudge bundles and burners for your sacred space.
   Updated: 2026-10-12T21:08:38Z
   Total Products: 0
@@ -2701,7 +2674,7 @@
   Updated: 2026-10-12T21:08:41Z
   Total Products: 0
 - [Tarot & Oracle](https://thornthimble.shop/collections/tarot-decks): Shop tarot cards and oracle decks for readings, reflection and collecting. Discover witchy, fantasy and illustrated divination decks at Thorn & Thimble.
-  Updated: 2026-10-13T01:39:15Z
+  Updated: 2026-10-21T13:31:15Z
   Total Products: 111
 - [Pendulums](https://thornthimble.shop/collections/pendulums): Shop crystal and brass pendulums for dowsing, divination and intuitive practice. Explore gemstone styles, chakra pendulums and more at Thorn & Thimble.
   Updated: 2026-10-12T21:08:43Z
@@ -2718,6 +2691,9 @@
 - [Spell Jar](https://thornthimble.shop/collections/spell-jar): Explore spell jars and jar spell kits centered on protection, love, prosperity and seasonal rituals. Discover small jars, larger designs and themed sets.
   Updated: 2026-10-12T21:08:46Z
   Total Products: 36
+- [Spell Kits](https://thornthimble.shop/collections/spell-kits): Gather the pieces without hunting them down one by one. Explore spell kits that bring together coordinated ritual supplies for specific intentions, practices, and magical workings.
+  Updated: 2026-10-22T19:38:50Z
+  Total Products: 59
 - [Housewares & Mystical Décor](https://thornthimble.shop/collections/housewares): Explore witchy and cottagecore home décor, mugs, blankets, pillows, lamps and statues. Browse mystical housewares and gifts with unusual character.
   Updated: 2026-10-12T21:08:47Z
   Total Products: 0
@@ -2727,63 +2703,84 @@
 - [Games & Dice](https://thornthimble.shop/collections/games-dice): Explore tabletop games, polyhedral RPG dice and dice accessories. Browse Catan, Fluxx, Munchkin and fantasy gaming finds for geeks, nerds and gamers.
   Updated: 2026-10-12T21:08:49Z
   Total Products: 0
+- [Budget Dice](https://thornthimble.shop/collections/budget-dice): Shop affordable D&D dice sets and colorful polyhedral RPG dice for tabletop adventures. Build your dice hoard for less at Thorn & Thimble.
+  Updated: 2026-10-21T00:54:22Z
+  Total Products: 70
 - [Premium Dice](https://thornthimble.shop/collections/premium-dice): Shop premium polyhedral D&D dice sets in gemstone, glass, metal and liquid-core styles. Discover collectible RPG dice for your next tabletop adventure.
-  Updated: 2026-10-12T21:08:50Z
+  Updated: 2026-10-21T00:54:20Z
   Total Products: 116
 - [Dice Accessories](https://thornthimble.shop/collections/dice-accessories): Shop dice bags, rolling trays, dice towers and storage cases for D&D and tabletop RPGs. Keep your polyhedral dice organized at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:51Z
+  Updated: 2026-10-17T02:01:27Z
   Total Products: 20
 - [Catan](https://thornthimble.shop/collections/catan): Shop Catan board games, expansions, 5–6 player extensions, accessories and organizers. Explore strategy games and Catan favorites at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:52Z
+  Updated: 2026-10-21T00:54:17Z
   Total Products: 79
 - [Fluxx](https://thornthimble.shop/collections/fluxx): Shop Fluxx card games, themed editions and expansions, from Pirate Fluxx to Marvel Fluxx and more. Find ever-changing game night fun at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:52Z
+  Updated: 2026-10-18T11:13:08Z
   Total Products: 36
 - [Munchkin](https://thornthimble.shop/collections/munchkins): Shop Munchkin card games, expansions and themed editions, including Munchkin Warhammer, Scooby-Doo and more. Find tabletop game night favorites at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:53Z
+  Updated: 2026-10-19T11:16:22Z
   Total Products: 79
+- [Miscellaneous Games](https://thornthimble.shop/collections/miscellaneous-games): Shop board games, card games, party games and strategy games for your next game night. Find unusual tabletop games and gamer gifts at Thorn & Thimble.
+  Updated: 2026-10-22T23:10:40Z
+  Total Products: 636
 - [Ritual Inks](https://thornthimble.shop/collections/ritual-inks): Shop ritual inks for spell writing, petitions and sigils, including Dragon's Blood, Dove's Blood, Bat's Blood and black ink at Thorn & Thimble.
-  Updated: 2026-10-12T21:08:54Z
-  Total Products: 6
+  Updated: 2026-10-21T03:24:44Z
+  Total Products: 5
+- [Bones & Animal Oddities](https://thornthimble.shop/collections/bones-animal-curios): Shop animal bones, natural curiosities and oddities for witchcraft, altar displays, crafting and curiosity cabinets. Explore Thorn & Thimble.
+  Updated: 2026-10-21T13:38:33Z
+  Total Products: 43
+- [Curios & Notions](https://thornthimble.shop/collections/curios-notions): Shop witchcraft supplies, bottles, pins and ritual notions for spellwork, crafting and altar practice. Explore the witch’s cabinet at Thorn & Thimble.
+  Updated: 2026-10-21T16:40:24Z
+  Total Products: 27
 - [Witchcraft Books](https://thornthimble.shop/collections/witchcraft-books): Shop witchcraft books on spells, Wicca, green witchcraft and folk magic. Explore practical guides, magical traditions and witchcraft history.
-  Updated: 2026-10-15T22:15:41Z
-  Total Products: 59
+  Updated: 2026-10-20T21:44:59Z
+  Total Products: 58
 - [Celtic Spirituality Books](https://thornthimble.shop/collections/celtic-books): Explore Celtic spirituality books on wisdom, mythology, sacred traditions and connection to nature. Discover thoughtful spiritual reading at Thorn & Thimble.
-  Updated: 2026-10-15T02:05:29Z
-  Total Products: 28
+  Updated: 2026-10-21T23:20:41Z
+  Total Products: 30
 - [Ancient Mysteries Books](https://thornthimble.shop/collections/ancient-mysteries-books): Explore ancient mysteries and esoteric books, including The Kybalion and The Books of Enoch. Browse spiritual texts, alternative ideas and hidden knowledge.
-  Updated: 2026-10-14T23:51:27Z
+  Updated: 2026-10-19T10:34:11Z
   Total Products: 9
 - [Crystals Books](https://thornthimble.shop/collections/crystals-books): Explore crystal books and gemstone guides covering identification, symbolism and spiritual uses. Discover reference books for beginners and crystal lovers.
-  Updated: 2026-10-12T21:08:56Z
+  Updated: 2026-10-18T02:05:59Z
   Total Products: 4
 - [Divination Books](https://thornthimble.shop/collections/divination-books): Shop tarot and divination books on card meanings, spreads, symbolism and intuitive reading. Explore beginner guides and deeper studies for your practice.
-  Updated: 2026-10-14T23:00:40Z
+  Updated: 2026-10-22T08:45:31Z
   Total Products: 59
 - [Astrology Books](https://thornthimble.shop/collections/astrology-books): Explore astrology books on birth charts, zodiac signs, planetary aspects and transits. Discover beginner guides, reference works and traditional techniques.
-  Updated: 2026-10-12T21:08:57Z
+  Updated: 2026-10-20T02:31:45Z
   Total Products: 13
 - [Angels & Spirit Guide Books](https://thornthimble.shop/collections/angels-books): Explore books on angels, spirit guides, spiritual connection and unseen helpers. Discover folklore, reference works and perspectives on personal guidance.
-  Updated: 2026-10-12T21:08:58Z
+  Updated: 2026-10-18T14:06:05Z
   Total Products: 8
 - [Magick Studies Books](https://thornthimble.shop/collections/magick-studies-books): Explore magick books on ritual, spellwork, chaos magic and magical theory. Discover practical guides and esoteric studies for a deeper reading practice.
-  Updated: 2026-10-15T22:15:41Z
-  Total Products: 66
+  Updated: 2026-10-21T23:20:41Z
+  Total Products: 67
 - [Occultism Books](https://thornthimble.shop/collections/occultism-books): Explore occult books on esoteric philosophy, sacred symbolism, grimoires and ritual traditions. Discover historical studies and practical perspectives.
-  Updated: 2026-10-12T21:08:58Z
+  Updated: 2026-10-20T15:14:11Z
   Total Products: 33
+- [Mysticism Books](https://thornthimble.shop/collections/mysticism-books): Explore mysticism books on spiritual philosophy, consciousness, mystical experience and inner transformation. Find your next read at Thorn & Thimble.
+  Updated: 2026-10-20T15:14:11Z
+  Total Products: 18
 - [Dreams Books](https://thornthimble.shop/collections/dreams-books): Explore dream interpretation books on symbolism, dreamwork and the inner world. Discover psychological and spiritual perspectives for reflective reading.
-  Updated: 2026-10-12T21:09:00Z
+  Updated: 2026-10-18T14:06:06Z
   Total Products: 4
 - [Healing Books](https://thornthimble.shop/collections/healing-books): Explore spiritual healing and self-care books on mindfulness, grief, energy practices and personal wellbeing. Discover reflective reading across traditions.
-  Updated: 2026-10-14T18:06:00Z
+  Updated: 2026-10-18T17:50:25Z
   Total Products: 53
 - [Gaia & Earth Energies Books](https://thornthimble.shop/collections/gaia-books): Explore Earth spirituality and nature magic books on plant lore, natural symbolism and connection to the land. Discover reading inspired by Gaia and nature.
-  Updated: 2026-10-12T21:09:00Z
+  Updated: 2026-10-18T14:06:04Z
   Total Products: 6
 - [Goddess Worship Books](https://thornthimble.shop/collections/goddess-worship-books): Explore goddess worship books on mythology, devotion, sacred feminine traditions and pagan practice. Discover spiritual perspectives across cultures.
-  Updated: 2026-10-15T18:02:10Z
+  Updated: 2026-10-20T21:44:59Z
   Total Products: 6
+- [Candle Spells](https://thornthimble.shop/collections/candle-spells): Shop candle spells and ritual spell candles for protection, love, prosperity and cleansing intentions. Bring candle magic to your altar with Thorn & Thimble.
+  Updated: 2026-10-21T13:36:50Z
+  Total Products: 105
+- [Sacred Oils, Washes & Waters](https://thornthimble.shop/collections/oils-washes-waters): Shop ritual oils, spiritual washes and waters, including Florida Water, for anointing, cleansing rituals and spellwork. Explore Thorn & Thimble.
+  Updated: 2026-10-16T20:48:50Z
+  Total Products: 129
 - [Athames & Bolines](https://thornthimble.shop/collections/athames-bolines): Shop jade athames with owl, tiger and dragon designs for ritual symbolism, ceremonial practice and altar displays. Discover witchcraft tools at Thorn & Thimble.
   Updated: 2026-10-12T21:09:02Z
   Total Products: 3
@@ -2797,11 +2794,14 @@
   Updated: 2026-10-12T21:09:05Z
   Total Products: 29
 - [Leather Journals](https://thornthimble.shop/collections/leather-journals): Shop leather journals for writing, dream records and your Book of Shadows. Discover dragon, moon, pentagram and Tree of Life designs at Thorn & Thimble.
-  Updated: 2026-10-12T21:09:05Z
+  Updated: 2026-10-21T13:31:16Z
   Total Products: 15
 - [Salts, Dirts & Ashes](https://thornthimble.shop/collections/salts-dirts-ashes): Shop ritual salts, graveyard dirt, ashes and curio vials for spellwork, altar use and folk magic. Stock your witch’s cabinet at Thorn & Thimble.
-  Updated: 2026-10-12T21:09:06Z
-  Total Products: 8
+  Updated: 2026-10-19T10:20:47Z
+  Total Products: 9
+- [Dried Herbs & Flowers](https://thornthimble.shop/collections/dried-herbs-flowers): Shop dried herbs and flowers for witchcraft, spellwork, ritual and botanical crafts. Stock your witch’s cabinet with magical botanicals at Thorn & Thimble.
+  Updated: 2026-10-21T13:39:48Z
+  Total Products: 35
 - [Futhark Rune Sets](https://thornthimble.shop/collections/futhark-rune-sets): Shop Futhark rune sets in amethyst, rose quartz, tiger’s eye and more for rune casting, divination and collecting. Discover gemstone runes at Thorn & Thimble.
   Updated: 2026-10-12T21:09:08Z
   Total Products: 10
@@ -2812,92 +2812,107 @@
   Updated: 2026-10-12T21:09:08Z
   Total Products: 1
 - [Recommended products (Seguno)](https://thornthimble.shop/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-15T22:16:20Z
-  Total Products: 1837
+  Updated: 2026-10-22T23:11:15Z
+  Total Products: 1824
 
 ## Blogs
 
-- [News](https://thornthimble.shop/blogs/news)
+- [The Latest Mischief](https://thornthimble.shop/blogs/news): Explore witchcraft, tarot, crystals, gothic décor, games and curious finds with The Latest Mischief, the Thorn & Thimble blog.
   - [Whimsical Gothic Magic Décor: Enchant Your Space Today](https://thornthimble.shop/blogs/news/welcome-to-thorn-thimble): Whimsical Gothic Magic Décor: Enchant Your Space Today
-    Updated: 2026-09-05T22:50:31Z
+    Updated: 2026-10-21T12:35:55Z
     Author: Loretta Castleman
     Tags: Behind the Scenes, Business Cat, Cat at Work, Online Shop, Ozzie, Ozzie Assistant Manager, Shop Cat, Shop Updates, Shopify Store, Small Business Blog, Small Business Life, Witchy Shop
   - [The Assistant Manager Reviews the Books - Thorn & Thimble](https://thornthimble.shop/blogs/news/the-assistant-manager-reviews-the-books): The Assistant Manager Reviews the Books - Thorn & Thimble
-    Updated: 2026-09-05T22:51:44Z
+    Updated: 2026-10-21T12:38:14Z
     Author: Loretta Castleman
     Tags: Assistant Manager, Behind the Scenes, Business Cat, Cat at Work, Cat Humor, Funny Cat, Online Shop, Ozzie, Ozzie Assistant Manager, Shop Cat, Shop Updates, Shopify Store, Small Business Blog, Small Business Life, Thorn & Thimble, Witchy Shop
   - [Cozy Skull Decor: Elevate Your Space with Gothic Warmth](https://thornthimble.shop/blogs/news/a-cozy-little-skull-moment): Cozy Skull Decor: Elevate Your Space with Gothic Warmth
-    Updated: 2026-09-05T22:52:54Z
+    Updated: 2026-10-21T12:03:16Z
     Author: Loretta Castleman
     Tags: Cat at Work, celestial decor, cozy gothic, dark cottagecore, gothic blanket, gothic gift, gothic home decor, macabre decor, New Arrivals, Online Shop, Ozzie, Ozzie Assistant Manager, ram skull, rocks glasses, Shop Cat, Shop Updates, Shopify Store, skull collection, skull decor, skull rocks glass, Small Business Blog, Small Business Life, Thorn & Thimble, throw blanket, witchy gifts, witchy home decor, Witchy Shop
   - [Workplace Culture and Productivity: Insights from Ozzie's Complaint](https://thornthimble.shop/blogs/news/assistant-manager-ozzie-has-filed-a-formal-complaint): Workplace Culture and Productivity: Insights from Ozzie's Complaint
-    Updated: 2026-09-05T22:48:53Z
+    Updated: 2026-10-21T12:42:13Z
     Author: Loretta Castleman
     Tags: Assistant Manager, Behind the Scenes, Business Cat, Cat at Work, Cat Humor, Funny Cat, Online Shop, Ozzie, Ozzie Assistant Manager, Shop Cat, Small Business Blog, Small Business Life, Thorn & Thimble, Witchy Shop
   - [Tarot and Oracle Cards Collection: Discover Magic at Thorn & Thimble](https://thornthimble.shop/blogs/news/new-at-thorn-thimble-tarot-oracle-games): Tarot and Oracle Cards Collection: Discover Magic at Thorn & Thimble
-    Updated: 2026-09-05T22:56:49Z
+    Updated: 2026-10-21T12:23:33Z
     Author: Loretta Castleman
     Tags: Assistant Manager, Business Cat, Card Games, Cat at Work, Catan, Divination, Fluxx, Games, Gift Ideas, Gothic, Magical Living, New Arrivals, Online Shop, Oracle Cards, Oracle Decks, Ozzie, Ozzie Assistant Manager, RPG Games, Shop Cat, Shop Updates, Shopify Store, Small Business Blog, Small Business Life, Tabletop Games, Tarot, Tarot Decks, Thorn & Thimble, Witchy, Witchy Shop
   - [Sweet Little Spiders Have Arrived… Ozzie Is Not Convinced - Thorn &](https://thornthimble.shop/blogs/news/sweet-little-spiders-have-arrived-ozzie-is-not-convinced): Sweet Little Spiders Have Arrived… Ozzie Is Not Convinced - Thorn &
-    Updated: 2026-09-05T22:59:19Z
+    Updated: 2026-10-21T12:45:24Z
     Author: Loretta Castleman
     Tags: Assistant Manager, Behind the Scenes, Business Cat, Cat at Work, Cat Humor, creepy cute, cute spiders, Funny Cat, gothic gifts, gothic stickers, Halloween aesthetic, Ozzie, Ozzie Assistant Manager, Shop Cat, Shop Updates, Small Business Blog, Small Business Life, spider art, spider stickers, spooky cute, Sweet Little Spiders, Thorn & Thimble, whimsical gothic, witchy gifts, Witchy Shop, witchy stickers
   - [Refillable Oil Candles: Light Up Your Space with Enchantment](https://thornthimble.shop/blogs/news/a-little-light-a-little-magic-meet-our-refillable-oil-candles): Refillable Oil Candles: Light Up Your Space with Enchantment
-    Updated: 2026-09-05T23:22:41Z
+    Updated: 2026-10-21T12:46:50Z
     Author: Loretta Castleman
     Tags: altar decor, apothecary decor, Assistant Manager, botanical candles, botanical oil candles, Business Cat, Cat at Work, celestial decor, clean burning candles, dark cottagecore, Funny Cat, Gift Ideas, gothic gift, gothic home decor, Halloween aesthetic, Lilith candle, magical home decor, Magical Living, New Arrivals, Online Shop, Ozzie, Ozzie Assistant Manager, refillable oil candles, reusable candles, Shop Cat, Shop Updates, Shopify Store, Small Business Blog, Small Business Life, Thorn & Thimble, witchy decor, witchy gifts, witchy home decor, Witchy Shop
   - [Skulls Symbolism: Embrace Life's Beauty Through Death's Lessons](https://thornthimble.shop/blogs/news/memento-mori): Skulls Symbolism: Embrace Life's Beauty Through Death's Lessons
-    Updated: 2026-09-07T18:10:27Z
+    Updated: 2026-10-21T12:57:11Z
     Author: Loretta Castleman
     Tags: Ancestral Traditions, Assistant Manager, Boho Skulls, Botanical Skulls, Business Cat, Cat at Work, Dark Aesthetic, Death Symbolism, Gothic Decor, Memento Mori, Ozzie, Ozzie Assistant Manager, Paganism, Skull Folklore, Skull Symbolism, Small Business Blog, Thorn & Thimble, Witchcraft, Witchy Shop
   - [Beauty in Strange Places](https://thornthimble.shop/blogs/news/beauty-in-strange-places)
-    Updated: 2026-09-13T22:52:17Z
+    Updated: 2026-10-21T13:09:33Z
     Author: Loretta Castleman
     Tags: Beautifully Strange, Curiosities, Gothic Lifestyle, Home & Decor, Nature, Oddities, Thorn & Thimble, Witchy Living
   - [Ozzie Has Spoken: We Apparently Needed Statues](https://thornthimble.shop/blogs/news/ozzie-has-spoken-we-apparently-needed-statues)
-    Updated: 2026-10-12T21:10:38Z
+    Updated: 2026-10-21T13:11:55Z
     Author: Loretta Castleman
     Tags: Assistant Manager, Beautifully Strange, Behind the Scenes, Business Cat, Cat at Work, Cat Humor, Curious Gifts, Funny Cat, Gargoyles, Gothic Decor, Gothic Lifestyle, Ozzie, Ozzie Assistant Manager, Shop Cat, Shop Updates, Shopify Store, Small Business Blog, Small Business Life, Statues, Thorn & Thimble
   - [Introducing The Witch’s Supply Cabinet: Curiosities, Oddities & Spell Ingredients](https://thornthimble.shop/blogs/news/introducing-the-witch-s-supply-cabinet-curiosities-oddities-spell-ingredients)
-    Updated: 2026-10-12T21:10:35Z
+    Updated: 2026-10-21T12:12:54Z
     Author: Loretta Castleman
     Tags: altar decor, apothecary decor, Beautifully Strange, Black Salt, Candle Magic, Cat at Work, Curiosities, macabre decor, Oddities, Ozzie Assistant Manager, skull decor, Small Business Blog, Small Business Life, Spell Ingredients, Spell Oils, Witch Supplies, Witchcraft
   - [10 Enchanting Witchcraft Practices for Modern Mages](https://thornthimble.shop/blogs/news/10-enchanting-witchcraft-practices-for-modern-mages): 10 Enchanting Witchcraft Practices for Modern Mages
-    Updated: 2026-10-12T21:10:24Z
+    Updated: 2026-10-21T13:15:55Z
     Author: — Loretta, Human Dark Overlord
   - [Exploring Gothic Aesthetics in Modern Witchcraft](https://thornthimble.shop/blogs/news/exploring-gothic-aesthetics-in-modern-witchcraft): Exploring Gothic Aesthetics in Modern Witchcraft
-    Updated: 2026-10-12T21:10:04Z
+    Updated: 2026-10-21T13:17:06Z
     Author: — Loretta, Human Dark Overlord
   - [A Beginner's Guide to Mystical Tools and Their Uses](https://thornthimble.shop/blogs/news/a-beginners-guide-to-mystical-tools-and-their-uses): A Beginner's Guide to Mystical Tools and Their Uses
-    Updated: 2026-10-12T21:09:41Z
+    Updated: 2026-10-21T13:19:53Z
     Author: — Loretta, Human Dark Overlord
   - [Unlock the Magic of Your Space with the Squishable Wizard Micro Plush Toy](https://thornthimble.shop/blogs/news/unlock-the-magic-of-your-space-with-the-squishable-wizard-micro-plush-toy): Unlock the Magic of Your Space with the Squishable Wizard Micro Plush Toy
     Updated: 2026-10-13T13:25:40Z
     Author: — Loretta, Human Dark Overlord
     Tags: cozy companion toy, magical decor, micro plush, plush, squishable toy, toy, whimsical plush character, wizard
   - [Essential Spell Ingredients for Every Witch's Kit](https://thornthimble.shop/blogs/news/essential-spell-ingredients-for-every-witchs-kit): Essential Spell Ingredients for Every Witch's Kit
-    Updated: 2026-10-14T05:52:20Z
+    Updated: 2026-10-21T13:22:30Z
     Author: — Loretta, Human Dark Overlord
+  - [Witchy Journal Ideas: 6 Easy Pages | Thorn & Thimble](https://thornthimble.shop/blogs/news/witchy-journal-ideas): Witchy Journal Ideas: 6 Easy Pages | Thorn & Thimble
+    Updated: 2026-10-21T13:23:53Z
+    Author: — Loretta, Human Dark Overlord
+  - [How the Rosy Maple Mothman Plush Toy Connects You to the World of Cryptids](https://thornthimble.shop/blogs/news/how-the-rosy-maple-mothman-plush-toy-connects-you-to-the-world-of-cryptids): How the Rosy Maple Mothman Plush Toy Connects You to the World of Cryptids
+    Updated: 2026-10-21T13:27:29Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: cryptid toys, cryptids, cuddly cryptids plushies, mothman, mythical creature merchandise, plush, plush toy connections, rosy maple mothman
+  - [Unlocking the Magic of Candle Spells: A Beginner's Guide to Spell Ingredients](https://thornthimble.shop/blogs/news/unlocking-the-magic-of-candle-spells-a-beginners-guide-to-spell-ingredients): Unlocking the Magic of Candle Spells: A Beginner's Guide to Spell Ingredients
+    Updated: 2026-10-21T12:33:06Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: beginner spell book, candle spell guide, candles, magic spell supplies, spell ingredients, spells, witchcraft, witchy gifts
+  - [Mystical Kitchen Essentials: Herbal Gifts for the Aspiring Witch](https://thornthimble.shop/blogs/news/mystical-kitchen-essentials-herbal-gifts-for-the-aspiring-witch): Mystical Kitchen Essentials: Herbal Gifts for the Aspiring Witch
+    Updated: 2026-10-21T00:08:30Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: essential herbs for witches, herbal ingredients, herbs, magical tools, spells, unique gifts for aspiring witches, witchcraft, witchy gifts
 
 ## Store Pages
 
-- [Contact Thorn & Thimble for Custom Orders and Unique Creations](https://thornthimble.shop/pages/contact): When you contact Thorn & Thimble, your satisfaction is our priority, and we aim to respond to all inquiries as swiftly as possible. Reaching out is...
-  Updated: 2026-10-12T21:11:57Z
+- [Contact Thorn & Thimble](https://thornthimble.shop/pages/contact): When you contact Thorn & Thimble, your satisfaction is our priority, and we aim to respond to all inquiries as swiftly as possible. Reaching out is...
+  Updated: 2026-10-19T11:49:46Z
 - [Whimsical Gothic Shop: Embrace the Magic of the Unusual](https://thornthimble.shop/pages/about-us): Thorn & Thimble is the world I wished existed, so I built it—a whimsical gothic shop filled with strange, beautiful things. I’ve always been drawn ...
   Updated: 2026-10-12T21:11:57Z
 
 ## Policies
 
 - [Privacy Policy](https://thornthimble.shop/policies/privacy-policy)
-  Updated: 2026-08-14T02:12:18-07:00
+  Updated: 2026-08-14T09:12:18Z
 - [Shipping Policy](https://thornthimble.shop/policies/shipping-policy)
-  Updated: 2026-09-23T12:27:23-07:00
+  Updated: 2026-09-23T19:27:23Z
 - [Refund Policy](https://thornthimble.shop/policies/refund-policy)
-  Updated: 2026-09-23T12:51:06-07:00
+  Updated: 2026-09-23T19:51:06Z
 - [Terms of Service](https://thornthimble.shop/policies/terms-of-service)
-  Updated: 2026-09-04T11:29:23-07:00
+  Updated: 2026-09-04T18:29:23Z
 - [Contact Information](https://thornthimble.shop/policies/contact-information)
-  Updated: 2026-09-03T07:02:29-07:00
+  Updated: 2026-09-03T14:02:29Z
 
 ## Optional
 
