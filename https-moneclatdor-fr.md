@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-21T09:18:10Z
 - Contact Email: kevpresident.km@gmail.com
-- Updated At: 2026-10-15T00:00:33.436Z
+- Updated At: 2026-10-23T00:36:22.982Z
 
 ## Products
 
@@ -270,15 +270,15 @@
 ## Policies
 
 - [Privacy Policy](https://moneclatdor.fr/policies/privacy-policy)
-  Updated: 2026-09-13T17:11:17+02:00
+  Updated: 2026-09-13T15:11:17Z
 - [Shipping Policy](https://moneclatdor.fr/policies/shipping-policy)
-  Updated: 2026-09-13T17:09:38+02:00
+  Updated: 2026-09-13T15:09:38Z
 - [Refund Policy](https://moneclatdor.fr/policies/refund-policy)
-  Updated: 2026-09-13T17:12:06+02:00
+  Updated: 2026-09-13T15:12:06Z
 - [Terms of Service](https://moneclatdor.fr/policies/terms-of-service)
-  Updated: 2026-09-13T17:10:55+02:00
+  Updated: 2026-09-13T15:10:55Z
 - [Contact Information](https://moneclatdor.fr/policies/contact-information)
-  Updated: 2026-08-23T11:54:27+02:00
+  Updated: 2026-08-23T09:54:27Z
 
 ## Optional
 
