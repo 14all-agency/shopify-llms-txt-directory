@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-08-27T00:00:43.259Z
+- Updated At: 2026-10-23T00:52:22.763Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -14,7 +14,7 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
 ## Products
 
 - [The Wifey Collection — Handmade Luxury Modest Fashion | Canada](https://thewifeycollection.ca/products/the-wifey-collection): Handcrafted luxury modest fashion made in Canada. Understated elegance, quiet luxury, and considered craftsmanship. Shop The Wifey Collection.
-  Updated: 2026-07-14T02:16:29Z
+  Updated: 2026-08-28T19:56:10Z
   Vendor: The Wifey Collection
   Product Type: Gift Cards
   Availability: Available
@@ -36,7 +36,7 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Image: https://cdn.shopify.com/s/files/1/1457/2254/products/logo_high_resolution_8a0fc014-0b8e-4795-8119-b4b9a2f2e96a.png?v=1612958054
     Price: $300.00 CAD
 - [Wide Leg Trousers — Handmade Sequin Modest Pants | The Wifey Collection](https://thewifeycollection.ca/products/wide-leg-pants): Handcrafted wide leg sequin trousers made in Canada. Modest, elegant, and timeless. Shop The Wifey Collection.
-  Updated: 2026-07-14T06:09:12Z
+  Updated: 2026-08-28T19:56:14Z
   Vendor: The Wifey Collection Corp.
   Product Type: 
   Availability: Available
@@ -191,6 +191,106 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-08-25T09:08:03Z
     Author: The Wifey Collection
     Tags: chic modesty, contemporary modest style, elegant attire, fashion, modest clothing, modest fashion trends, modesty, style
+  - [Timeless Inspirations: Navigating Heritage and Contemporary Modesty](https://thewifeycollection.ca/blogs/news/timeless-inspirations-navigating-heritage-and-contemporary-modesty): Timeless Inspirations: Navigating Heritage and Contemporary Modesty
+    Updated: 2026-08-27T09:05:34Z
+    Author: The Wifey Collection
+    Tags: contemporary modesty, cultural modesty, ethical style choices, fashion, heritage, modern modest fashion, modest, timeless inspirations
+  - [The Garden of Refinement: Artful Details in Handmade Modest Fashion](https://thewifeycollection.ca/blogs/news/the-garden-of-refinement-artful-details-in-handmade-modest-fashion): The Garden of Refinement: Artful Details in Handmade Modest Fashion
+    Updated: 2026-08-29T09:07:58Z
+    Author: The Wifey Collection
+    Tags: artful details, elegant modest clothing, fashion, garden of refinement, handmade, handmade modest fashion, modest, refined style
+  - [The Essence of Understated Beauty in Modest Wardrobes](https://thewifeycollection.ca/blogs/news/the-essence-of-understated-beauty-in-modest-wardrobes): The Essence of Understated Beauty in Modest Wardrobes
+    Updated: 2026-09-01T09:06:53Z
+    Author: The Wifey Collection
+    Tags: chic modesty, elegance, fashion, how to dress modestly, modest wardrobe ideas, modest wear, modesty, understated style
+  - [Above and Beyond: Exploring the Craft Behind Authentic Modest Fashion](https://thewifeycollection.ca/blogs/news/above-and-beyond-exploring-the-craft-behind-authentic-modest-fashion): Above and Beyond: Exploring the Craft Behind Authentic Modest Fashion
+    Updated: 2026-09-03T09:05:29Z
+    Author: The Wifey Collection
+    Tags: authentic modest fashion designs, chic modesty, fashion, modest, modest attire, modest clothing, modest fashion trends, style
+  - [The Subtle Tapestry: Discovering Artistry in Every Stitch](https://thewifeycollection.ca/blogs/news/the-subtle-tapestry-discovering-artistry-in-every-stitch): The Subtle Tapestry: Discovering Artistry in Every Stitch
+    Updated: 2026-09-05T09:07:53Z
+    Author: The Wifey Collection
+    Tags: artistry, fashion, fashion trends, modest, modest clothing ideas, modest style, subtle elegance, sustainable modest fashion
+  - [From Workshop to Wardrobe: A Journey in Canadian Modesty](https://thewifeycollection.ca/blogs/news/from-workshop-to-wardrobe-a-journey-in-canadian-modesty): From Workshop to Wardrobe: A Journey in Canadian Modesty
+    Updated: 2026-09-08T09:06:34Z
+    Author: The Wifey Collection
+    Tags: canadian style, capsule wardrobe, ethical fashion, fashion, modest clothing, modest outfit ideas, modesty, sustainable modest wear
+  - [Unveiling Serenity: The Allure of Minimalist Modest Fashion](https://thewifeycollection.ca/blogs/news/unveiling-serenity-the-allure-of-minimalist-modest-fashion): Unveiling Serenity: The Allure of Minimalist Modest Fashion
+    Updated: 2026-09-10T09:04:33Z
+    Author: The Wifey Collection
+    Tags: contemporary modesty, fashion, fashionable modest outfits, minimalist, minimalist modest fashion trends, modest, modest clothing, modest style
+  - [The Delicate Art of Timeless Style in Modest Attire](https://thewifeycollection.ca/blogs/news/the-delicate-art-of-timeless-style-in-modest-attire): The Delicate Art of Timeless Style in Modest Attire
+    Updated: 2026-09-12T09:11:17Z
+    Author: The Wifey Collection
+    Tags: chic modest fashion tips, elegant modest wear, fashion, modest fashion, modest outfits, modesty, style, timeless attire
+  - [Harmonious Compositions: The Dimensions of Thoughtful Dressing](https://thewifeycollection.ca/blogs/news/harmonious-compositions-the-dimensions-of-thoughtful-dressing): Harmonious Compositions: The Dimensions of Thoughtful Dressing
+    Updated: 2026-09-15T09:07:54Z
+    Author: The Wifey Collection
+    Tags: dressing with purpose, elegant modesty, fashion, intentional clothing, modest, modest outfits, style, thoughtful dressing
+  - [Embodying Eternity: Crafted Elegance in Modest Fashion Statements](https://thewifeycollection.ca/blogs/news/embodying-eternity-crafted-elegance-in-modest-fashion-statements): Embodying Eternity: Crafted Elegance in Modest Fashion Statements
+    Updated: 2026-09-17T09:04:17Z
+    Author: The Wifey Collection
+    Tags: chic modest outfits, crafted elegance, elegance, fashion, modest, modest clothing trends, modest fashion, timeless style
+  - [Legacy of Delicacy: The Narrative of Handmade Modest Wear](https://thewifeycollection.ca/blogs/news/legacy-of-delicacy-the-narrative-of-handmade-modest-wear): Legacy of Delicacy: The Narrative of Handmade Modest Wear
+    Updated: 2026-09-19T09:07:39Z
+    Author: The Wifey Collection
+    Tags: delicate clothing, ethical style, fashion, handmade, modest fashion trends, modest wear, modesty, sustainable modest apparel
+  - [Elevating Classics: The Wifey Collection's Approach to Modest Elegance](https://thewifeycollection.ca/blogs/news/elevating-classics-the-wifey-collections-approach-to-modest-elegance): Elevating Classics: The Wifey Collection's Approach to Modest Elegance
+    Updated: 2026-09-22T09:06:01Z
+    Author: The Wifey Collection
+    Tags: classic fashion, elegance, elevate modest clothing, fashion, modest, modest style, modest wardrobe essentials, wifey collection
+  - [Grace Unveiled: The Embodiment of Modest Couture](https://thewifeycollection.ca/blogs/news/grace-unveiled-the-embodiment-of-modest-couture): Grace Unveiled: The Embodiment of Modest Couture
+    Updated: 2026-09-24T09:03:52Z
+    Author: The Wifey Collection
+    Tags: chic modest fashion, contemporary modest wear, couture, elegant modesty, fashion, modest, modest clothing, modest style tips
+  - [Quiet Reverie: Embracing Luxe in Modest Wardrobes](https://thewifeycollection.ca/blogs/news/quiet-reverie-embracing-luxe-in-modest-wardrobes): Quiet Reverie: Embracing Luxe in Modest Wardrobes
+    Updated: 2026-09-26T09:07:07Z
+    Author: The Wifey Collection
+    Tags: chic modest clothing, elegant modesty, embracing modest fashion, fashion, luxe outfits, luxury, modest, modest style
+  - [Vestiges of Refinement: A Dialogue on Elegant Modesty](https://thewifeycollection.ca/blogs/news/vestiges-of-refinement-a-dialogue-on-elegant-modesty): Vestiges of Refinement: A Dialogue on Elegant Modesty
+    Updated: 2026-09-29T09:06:10Z
+    Author: The Wifey Collection
+    Tags: elegance, elegant modest outfit ideas, fashion, modest, modest clothing, modest fashion trends, refined attire, stylish modesty
+  - [Serene Artistry: A Tale of Craft and Quiet Beauty](https://thewifeycollection.ca/blogs/news/serene-artistry-a-tale-of-craft-and-quiet-beauty): Serene Artistry: A Tale of Craft and Quiet Beauty
+    Updated: 2026-10-01T09:05:10Z
+    Author: The Wifey Collection
+    Tags: artisanal modifications, beauty, fashion, modest, modest clothing, modest fashion trends, quiet elegance, serene style
+  - [Poised Serenity: Quiet Luxury in Modestly Crafted Forms](https://thewifeycollection.ca/blogs/news/poised-serenity-quiet-luxury-in-modestly-crafted-forms): Poised Serenity: Quiet Luxury in Modestly Crafted Forms
+    Updated: 2026-10-03T09:08:41Z
+    Author: The Wifey Collection
+    Tags: contemporary modest wear, elegance, fashion, modest, modest style, quiet luxury, sophisticated modest options, sustainable clothing
+  - [Enshrining Grace: The Dichotomy of Modern Modest Fashion](https://thewifeycollection.ca/blogs/news/enshrining-grace-the-dichotomy-of-modern-modest-fashion): Enshrining Grace: The Dichotomy of Modern Modest Fashion
+    Updated: 2026-10-06T09:07:58Z
+    Author: The Wifey Collection
+    Tags: fashion, modern modest fashion, modest fashion tips, modest wear, modesty, style inspiration, trends, wardrobe choices
+  - [Finesse Frontier: Navigating the Realm of Discreet Elegance](https://thewifeycollection.ca/blogs/news/finesse-frontier-navigating-the-realm-of-discreet-elegance): Finesse Frontier: Navigating the Realm of Discreet Elegance
+    Updated: 2026-10-08T09:05:22Z
+    Author: The Wifey Collection
+    Tags: discreet style, elegance, elegant attire, fashion trends, modest, modest fashion outfits, modesty, navigating stylish modesty
+  - [Whispers of Nobility: Traversing Tradition with Canadian Modesty](https://thewifeycollection.ca/blogs/news/whispers-of-nobility-traversing-tradition-with-canadian-modesty): Whispers of Nobility: Traversing Tradition with Canadian Modesty
+    Updated: 2026-10-10T09:07:54Z
+    Author: The Wifey Collection
+    Tags: canadian modesty, elegant styles, embracing modest clothing, fashion, modest, modest attire, modest fashion tips, traditional
+  - [Introspective Allure: Distilling Essence into Fashion and Form](https://thewifeycollection.ca/blogs/news/introspective-allure-distilling-essence-into-fashion-and-form): Introspective Allure: Distilling Essence into Fashion and Form
+    Updated: 2026-10-13T09:05:52Z
+    Author: The Wifey Collection
+    Tags: fashion, fashion tips, modern modest outfits, modest, modest attire, modest clothing, modest fashion inspiration, style
+  - [Calm Resonance: Celebrating the Poise of Modest Artisanship](https://thewifeycollection.ca/blogs/news/calm-resonance-celebrating-the-poise-of-modest-artisanship): Calm Resonance: Celebrating the Poise of Modest Artisanship
+    Updated: 2026-10-15T09:01:00Z
+    Author: The Wifey Collection
+    Tags: artisan modest wear, artisanship, elegant clothing, fashion, fashion trends, modest, modest fashion inspiration, modest style
+  - [Whispers of Elegance: Discovering the Timeless Allure of The Wifey Collection](https://thewifeycollection.ca/blogs/news/whispers-of-elegance-discovering-the-timeless-allure-of-the-wifey-collection): Whispers of Elegance: Discovering the Timeless Allure of The Wifey Collection
+    Updated: 2026-10-17T09:01:01Z
+    Author: The Wifey Collection
+    Tags: chic modest wear, elegance, fashion, modest, modest outfits, timeless style, wifey collection, women's modest fashion
+  - [Reverence for Craft: The Intricacies of Canadian Modest Fashion](https://thewifeycollection.ca/blogs/news/reverence-for-craft-the-intricacies-of-canadian-modest-fashion): Reverence for Craft: The Intricacies of Canadian Modest Fashion
+    Updated: 2026-10-20T09:00:50Z
+    Author: The Wifey Collection
+    Tags: canadian, canadian modest garments, cultural style, ethical fashion, fashion, intricate design in modest fashion, modest, modest wear
+  - [Serene Sophistication: Crafting Understated Beauty in Modest Wear](https://thewifeycollection.ca/blogs/news/serene-sophistication-crafting-understated-beauty-in-modest-wear): Serene Sophistication: Crafting Understated Beauty in Modest Wear
+    Updated: 2026-10-22T09:01:00Z
+    Author: The Wifey Collection
+    Tags: chic modesty, elegance, fashion, modern modest outfits, modest, modest clothing, modest style tips, understated beauty
 
 ## Store Pages
 
@@ -204,13 +304,13 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
 ## Policies
 
 - [Privacy Policy](https://thewifeycollection.ca/policies/privacy-policy)
-  Updated: 2025-04-03T18:33:33-04:00
+  Updated: 2025-04-03T22:33:33Z
 - [Shipping Policy](https://thewifeycollection.ca/policies/shipping-policy)
-  Updated: 2020-04-30T20:44:43-04:00
+  Updated: 2020-05-01T00:44:43Z
 - [Refund Policy](https://thewifeycollection.ca/policies/refund-policy)
-  Updated: 2025-04-03T18:30:09-04:00
+  Updated: 2025-04-03T22:30:09Z
 - [Terms of Service](https://thewifeycollection.ca/policies/terms-of-service)
-  Updated: 2020-01-20T08:31:18-05:00
+  Updated: 2020-01-20T13:31:18Z
 
 ## Social Media
 - https://www.instagram.com/thewifeycollectionofficial
