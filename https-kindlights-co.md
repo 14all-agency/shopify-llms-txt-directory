@@ -6,40 +6,48 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-10-12T00:00:33.735Z
+- Updated At: 2026-10-23T00:35:11.426Z
 
 ## Products
 
 - [A19 Circadian Light Bulb | Low Blue Light LED](https://kindlights.co/products/a19-circadian-light-bulb): Shop the Kind Lights A19 Circadian Light Bulb, a dimmable low blue light LED designed for comfortable day-to-night lighting and natural light rhythms
-  Updated: 2026-09-28T09:49:36Z
+  Updated: 2026-10-16T04:42:40Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/A19CircadianLightBulb.png?v=1784010971
-  Price: $39.00 USD
+  - [Single Bulb](https://kindlights.co/products/a19-circadian-light-bulb?variant=67800707498265)
+    Availability: Available
+    Price: $39.00 USD
+  - [4-Pack](https://kindlights.co/products/a19-circadian-light-bulb?variant=67800707531033)
+    Availability: Available
+    Price: $140.00 USD
+  - [8-Pack](https://kindlights.co/products/a19-circadian-light-bulb?variant=67800707563801)
+    Availability: Available
+    Price: $250.00 USD
 - [E12 Circadian Light Bulb | Full Spectrum E12 LED](https://kindlights.co/products/e12-circadian-light-bulb): Shop the Kind Lights E12 Circadian Light Bulb for intentional day-to-night lighting. This E12 LED bulb offers three BioModes for bright daytime and warm evening light.
-  Updated: 2026-09-28T09:49:37Z
+  Updated: 2026-10-14T14:37:28Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/E12CircadianLightBulb.png?v=1784011111
   Price: $35.00 USD
 - [BR30 Circadian Light Bulb | Full-Spectrum LED](https://kindlights.co/products/br30-circadian-floodlight): Shop the Kind Lights BR30 Circadian Light Bulb for bright daytime, balanced daytime, and warm evening lighting with three BioModes in one versatile floodlight.
-  Updated: 2026-09-28T09:49:37Z
+  Updated: 2026-10-14T15:53:27Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/BR30CircadianFloodlight.png?v=1784011252
   Price: $49.00 USD
 - [Circadian Retrofit Recessed | Full Spectrum Lighting](https://kindlights.co/products/circadian-retrofit-recessed): Upgrade compatible recessed fixtures with the Kind Lights Circadian Retrofit Recessed Light. Enjoy three BioModes for bright daytime and warm evening lighting.
-  Updated: 2026-09-28T09:49:37Z
+  Updated: 2026-10-14T16:41:15Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/CircadianRetrofitRecessed.png?v=1784011401
   Price: $49.00 USD
 - [Amber Night Light | Warm Amber Light for Evening](https://kindlights.co/products/amber-night-light): Create a warmer nighttime environment with the Kind Lights Amber Night Light. Discover warm amber light designed for relaxing evening spaces and nighttime routines.
-  Updated: 2026-09-28T09:49:37Z
+  Updated: 2026-10-14T16:27:45Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -51,6 +59,21 @@
 - [Starter Kits](https://kindlights.co/collections/starter-kits): Every KIND Light Supports Your Entire Day.
   Updated: 2026-09-28T09:49:36Z
   Total Products: 5
+- [A19 Circadian Bulb](https://kindlights.co/collections/a19-circadian-bulb)
+  Updated: 2026-10-15T07:25:55Z
+  Total Products: 1
+- [E12 Circadian Bulb](https://kindlights.co/collections/e12-circadian-bulb)
+  Updated: 2026-10-15T07:26:12Z
+  Total Products: 1
+- [BR30 Circadian Floodlight](https://kindlights.co/collections/br30-circadian-floodlight)
+  Updated: 2026-10-15T07:26:33Z
+  Total Products: 1
+- [Circadian Retrofit Recessed](https://kindlights.co/collections/circadian-retrofit-recessed)
+  Updated: 2026-10-15T07:26:51Z
+  Total Products: 1
+- [Amber Night Light](https://kindlights.co/collections/amber-night-light)
+  Updated: 2026-10-15T07:27:17Z
+  Total Products: 1
 
 ## Blogs
 
@@ -60,6 +83,9 @@
     Author: Kip A
   - [Color Temperature Explained: 1800K, 3300K, 6000K Options](https://kindlights.co/blogs/guides/color-temperature-explained-1800k-3300k-6000k): Color Temperature Explained: 1800K, 3300K, 6000K Options
     Updated: 2026-10-07T08:09:19Z
+    Author: Kip A
+  - [Complete Guide to Light and Sleep | Kind Lights](https://kindlights.co/blogs/guides/the-complete-guide-to-light-and-sleep): Complete Guide to Light and Sleep | Kind Lights
+    Updated: 2026-10-19T05:13:00Z
     Author: Kip A
 - [Circadian home](https://kindlights.co/blogs/circadian-home)
   - [Circadian Lighting Benefits for Daily Rhythm](https://kindlights.co/blogs/circadian-home/why-circadian-lighting-matters-key-benefits-explained): Circadian Lighting Benefits for Daily Rhythm
@@ -73,6 +99,9 @@
     Author: Kip A
   - [How Should I Use Circadian Lighting Throughout the Day?](https://kindlights.co/blogs/circadian-home/daily-circadian-lighting-schedule)
     Updated: 2026-09-24T12:57:50Z
+    Author: Kip A
+  - [Nighttime Bathroom Lighting: Best Light for Late-Night Visits](https://kindlights.co/blogs/circadian-home/nighttime-bathroom-lighting): Nighttime Bathroom Lighting: Best Light for Late-Night Visits
+    Updated: 2026-10-19T06:01:55Z
     Author: Kip A
 - [Science](https://kindlights.co/blogs/science)
   - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/science/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
@@ -93,6 +122,12 @@
   - [Do LED Lights Affect Sleep? What Matters and What Doesn't](https://kindlights.co/blogs/science/do-led-lights-affect-sleep): Do LED Lights Affect Sleep? What Matters and What Doesn't
     Updated: 2026-10-07T09:32:37Z
     Author: Kip A
+  - [Best Nursery Lighting for Sleep: A Parent's Guide](https://kindlights.co/blogs/science/best-nursery-lighting-for-sleep-a-parents-guide)
+    Updated: 2026-10-19T05:29:49Z
+    Author: Kip A
+  - [Blue Light and Melatonin: How Blue Light Affects Sleep](https://kindlights.co/blogs/science/blue-light-and-melatonin-how-it-affects-sleep): Blue Light and Melatonin: How Blue Light Affects Sleep
+    Updated: 2026-10-19T05:42:20Z
+    Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
     Updated: 2026-09-24T13:26:59Z
@@ -105,6 +140,9 @@
     Author: Kip A
   - [What Color Light Helps You Sleep? Best and Worst Colors](https://kindlights.co/blogs/compare/what-color-light-helps-you-sleep): What Color Light Helps You Sleep? Best and Worst Colors
     Updated: 2026-10-07T09:28:41Z
+    Author: Kip A
+  - [2700K vs 3000K vs 3500K: Which Is Best for Your Home?](https://kindlights.co/blogs/compare/2700k-vs-3000k-vs-3500k)
+    Updated: 2026-10-19T06:18:42Z
     Author: Kip A
 
 ## Store Pages
@@ -139,9 +177,9 @@
 ## Policies
 
 - [Privacy Policy](https://kindlights.co/policies/privacy-policy)
-  Updated: 2026-05-17T08:18:31-07:00
+  Updated: 2026-05-17T15:18:31Z
 - [Terms of Service](https://kindlights.co/policies/terms-of-service)
-  Updated: 2026-08-19T05:24:58-07:00
+  Updated: 2026-08-19T12:24:58Z
 
 ## Optional
 
