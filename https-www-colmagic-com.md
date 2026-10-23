@@ -6,33 +6,33 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-08T12:51:31Z
 - Contact Email: colmagicoffical@gmail.com
-- Updated At: 2026-07-30T00:00:43.942Z
+- Updated At: 2026-10-23T00:59:21.586Z
 
 ## Products
 
 - [Synthetic Lash Extension Kit | ColMagic DIY Mixed Eyelashes](https://www.colmagic.com/products/300pcs-volume-lash-clusters-10-18mm): Achieve stunning natural volume with ColMagic DIY synthetic lash extension kit featuring 300 waterproof clusters from 10-18mm.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:23:03Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/ColMagic_DIY_Mixed_Eyelashes_Kit_10-18ColMagic_DIY_Eyelash_Kit_300_Clusters_10_18mm.png?v=1784165152
   Price: $9.99 USD
 - [DIY Eyelash Extension Kit | ColMagic Mixed Length Lashes](https://www.colmagic.com/products/black-edition-lash-cluster-kit-8-14mm): Get perfect lashes at home with ColMagic DIY eyelash extension kit. Waterproof, gentle, and mixed length 8-14mm for natural volume and style.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:17:23Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/Wispy_Natural_Bunny_Lash_Clusters_Kit_-_Fairy_Individual_Spikes_Cluster_Lashes_D_Curl.jpg?v=1783679388
   Price: $29.99 USD
 - [COLMAGIC Lash Cluster Kit for Fluffy, Spiky Lashes](https://www.colmagic.com/products/beginner-lash-cluster-kit-8-14mm): Discover the COLMAGIC lash cluster kit with 8-14mm fluffy spiky lashes, waterproof formula, and easy application for a long-lasting anime eye effect.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:17:01Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/Wispy_Natural_Bunny_Lash_Clusters_Kit_-_Fairy_Individual_Spikes_Cluster_Lashes_D_Curl_8-14mm.png?v=1784169595
   Price: $29.99 USD
 - [DIY Spiky Lash Clusters for Fluffy Mixed Volume Look](https://www.colmagic.com/products/spiky-fairy-lash-clusters-80d-100d-10-22mm): DIY spiky fairy lash clusters for a fluffy, textured lash look. Build customizable volume and dimension at home for everyday wear or special occasions.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:17:19Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -46,28 +46,28 @@
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/Fairy_80D.webp?v=1782899874
     Price: $14.99 USD
 - [DIY Lash Extension Kit - Lash Clusters with Glue & Tweezers](https://www.colmagic.com/products/natural-wispy-lash-cluster-kit-5-18mm): Discover the ultimate DIY lash extension kit with natural 5-18mm clusters, lash bond & seal glue, tweezers, and remover applicator for professional results.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:17:06Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/Lash_Clusters_Kit_with_Lash_Bond_and_Seal_Glue_5-18mm_Natural_Wispy_Eyelashes_for_Lashes_Cluster.webp?v=1784168810
   Price: $29.99 USD
 - [Wispy Bunny Lash Cluster Kit 5–18mm D Curl | ColMagic](https://www.colmagic.com/products/wispy-bunny-lash-cluster-kit-5-18mm-d-curl-pink): Create natural, wispy or manga-inspired looks with a pink ColMagic D-curl lash kit featuring mixed 5–18mm clusters, bond, seal, remover and tools.
-  Updated: 2026-07-28T09:01:53Z
+  Updated: 2026-10-19T11:16:59Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/Lash_Clusters_Kit_148_Clusters_of_Natural_Curly_DIY_Lash_Extensions_Kit_Long-Lasting_Fluff_Weightless_Look_with_Ultra-Thin_Band_Glue_Remover_Tweezer_for_Beginners_D_Curl_Eyelash_Kit_5.jpg?v=1783679594
   Price: $29.99 USD
 - [Wispy Bunny Lash Clusters 8–14mm D Curl | ColMagic](https://www.colmagic.com/products/wispy-bunny-lash-clusters-8-14mm-d-curl): Create wispy, spiky manga-inspired looks with ColMagic D-curl lash clusters in mixed 8–14mm lengths, featuring an invisible band and lightweight synthetic fibers.
-  Updated: 2026-07-28T09:01:54Z
+  Updated: 2026-10-19T11:17:21Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/79879dc5_3f53c63a-4f8e-4ec7-8795-8a3475e2c750.jpg?v=1782818250
   Price: $14.99 USD
 - [Natural Wispy Lash Clusters 5–18mm C Curl | ColMagic](https://www.colmagic.com/products/natural-wispy-lash-clusters-5-18mm-c-curl-144-pcs): Create customizable natural or wispy looks with 144 ColMagic C-curl lash clusters in mixed 5–18mm lengths, made with lightweight synthetic fibers.
-  Updated: 2026-07-28T09:01:54Z
+  Updated: 2026-10-19T11:17:05Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -142,6 +142,30 @@
     Updated: 2026-07-27T09:50:06Z
     Author: yangkun
     Tags: Beginner Lash Guide, DIY Lash Clusters, Lash Application Tips, Lash Bond and Seal, Lash Cluster Glue
+  - [How to Use Lash Bond and Seal for Better Hold](https://www.colmagic.com/blogs/colmagic-daily-blog/how-to-use-lash-bond-and-seal): How to Use Lash Bond and Seal for Better Hold
+    Updated: 2026-07-30T09:16:41Z
+    Author: yangkun
+    Tags: Beginner Lash Tips, Bond and Seal Lash Glue, DIY Lash Clusters, Lash Application Guide, Lash Bond and Seal
+  - [How to Remove Lash Clusters Safely at Home](https://www.colmagic.com/blogs/colmagic-daily-blog/how-to-remove-lash-clusters-safely): How to Remove Lash Clusters Safely at Home
+    Updated: 2026-07-31T07:37:31Z
+    Author: yangkun
+    Tags: Beginner Lash Guide, DIY Lash Removal, Lash Cluster Care, Lash Cluster Remover, Remove Lash Clusters
+  - [How to Use Lash Tweezers for Cluster Placement](https://www.colmagic.com/blogs/colmagic-daily-blog/how-to-use-lash-tweezers): How to Use Lash Tweezers for Cluster Placement
+    Updated: 2026-07-31T08:16:46Z
+    Author: yangkun
+    Tags: Beginner Lash Guide, Cluster Lash Application, DIY Lash Clusters, Lash Applicator, Lash Tweezers
+  - [How to Create a Natural Look with Lash Clusters](https://www.colmagic.com/blogs/colmagic-daily-blog/how-to-create-natural-look-with-lash-clusters): How to Create a Natural Look with Lash Clusters
+    Updated: 2026-08-03T09:39:10Z
+    Author: yangkun
+    Tags: Beginner Lash Tips, Bond and Seal Lash Glue, DIY Lash Clusters, Lash Map Guide, Natural Lash Clusters, natural lashes, natural looking eyelashes
+  - [Wispy Lash Clusters: Build a Soft, Fluffy Look](https://www.colmagic.com/blogs/colmagic-daily-blog/wispy-lash-clusters-soft-fluffy-look): Wispy Lash Clusters: Build a Soft, Fluffy Look
+    Updated: 2026-08-04T10:22:13Z
+    Author: yangkun
+    Tags: Beginner Lash Tips, DIY Lash Clusters, Lash Map Guide, Wispy Lash Clusters, Wispy Lashes
+  - [C Curl Lash Clusters vs D Curl: Which Is Best?](https://www.colmagic.com/blogs/colmagic-daily-blog/c-curl-lash-clusters-vs-d-curl-which-curl-is-right-for-you): C Curl Lash Clusters vs D Curl: Which Is Best?
+    Updated: 2026-08-05T10:22:28Z
+    Author: yangkun
+    Tags: C Curl Lash Clusters, C Curl vs D Curl, D Curl Lash Clusters, DIY Lash Clusters, Lash Curl Guide
 
 ## Store Pages
 
@@ -153,8 +177,8 @@
   Updated: 2026-05-08T01:21:17Z
 - [html sitemap collections](https://www.colmagic.com/pages/html-sitemap-collections): Collections ColMagic DIY lash kits Eye Lashes & Eye Care Lip Care Personal Care Women's Beauty & Personal Care... .seoant-html-sitemap-row { margin...
   Updated: 2026-05-08T01:21:18Z
-- [html sitemap blogs](https://www.colmagic.com/pages/html-sitemap-blogs): Blogs 新闻 .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margin-...
-  Updated: 2026-05-08T01:21:19Z
+- [html sitemap blogs](https://www.colmagic.com/pages/html-sitemap-blogs): Blogs NEWS .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
+  Updated: 2026-09-12T09:37:44Z
 - [html sitemap pages](https://www.colmagic.com/pages/html-sitemap-pages): Pages CONTANT US Your Privacy Choices html sitemap products html sitemap collections html sitemap blogs .seoant-html-sitemap-row { margin-bottom: 2...
   Updated: 2026-05-08T01:21:21Z
 - [html sitemap](https://www.colmagic.com/pages/html-sitemap): Products ColMagic DIY Mixed Eyelashes K... ColMagic DIY Lashes Extension ... DIY Lash Extension Kit 8–16 mm... Matte Lip Liner Pencil for Ful... Cl...
@@ -169,15 +193,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.colmagic.com/policies/privacy-policy)
-  Updated: 2026-07-13T20:38:16-07:00
+  Updated: 2026-07-14T03:38:16Z
 - [Shipping Policy](https://www.colmagic.com/policies/shipping-policy)
-  Updated: 2026-05-03T23:56:00-07:00
+  Updated: 2026-05-04T06:56:00Z
 - [Refund Policy](https://www.colmagic.com/policies/refund-policy)
-  Updated: 2026-07-16T02:17:28-07:00
+  Updated: 2026-07-16T09:17:28Z
 - [Terms of Service](https://www.colmagic.com/policies/terms-of-service)
-  Updated: 2026-07-16T01:49:55-07:00
+  Updated: 2026-07-16T08:49:55Z
 - [Contact Information](https://www.colmagic.com/policies/contact-information)
-  Updated: 2026-07-15T23:15:07-07:00
+  Updated: 2026-07-16T06:15:07Z
 
 ## Optional
 
