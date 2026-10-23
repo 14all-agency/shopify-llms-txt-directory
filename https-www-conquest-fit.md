@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2026-10-11T00:00:34.699Z
+- Updated At: 2026-10-23T00:18:53.938Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/Optimus_Image.png?v=1753633642
   Price: $34.99 USD
 - [Buzzed Essential Amino Acids - Raspberry Iced Tea for Optimal Recovery](https://www.conquest.fit/products/buzzed-essential-amino-acids-raspberry-iced-tea-flavor-40-servings): Discover Buzzed Essential Amino Acids in refreshing Raspberry Iced Tea flavor. Enjoy 40 servings to boost your recovery and enhance performance. Shop now for optimal results!
-  Updated: 2026-07-08T21:08:18Z
+  Updated: 2026-10-18T17:09:46Z
   Vendor: Premium Sports Nutrition
   Product Type: Sport Supplements
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC126.png?v=1753628706
   Price: $19.99 USD
 - [Libido Booster Capsules - Divine Femme High Potency - 60 Veggie Caps](https://www.conquest.fit/products/divine-femme-high-potency-libido-booster-capsules): Unlock your passion with Divine Femme High Potency Libido Booster Capsules. These vegan capsules enhance desire and energy, helping you feel your best. Perfect for revitalizing intimacy!
-  Updated: 2026-07-08T21:08:24Z
+  Updated: 2026-10-18T17:03:56Z
   Vendor: Women’s Health
   Product Type: 
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC301.png?v=1753627883
   Price: $19.99 USD
 - [Pure Flow Colon Cleanse - 60 Veggie Caps for Better Digestive Health](https://www.conquest.fit/products/pure-flow-colon-cleanse-formula-60-veggie-capsules): Experience optimal digestive health with Pure Flow Colon Cleanse. Our 60 veggie capsules support detoxification and promote regularity. Feel rejuvenated today!
-  Updated: 2026-07-08T21:08:26Z
+  Updated: 2026-10-18T17:03:56Z
   Vendor: Weight Loss & Detox
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC502.png?v=1753627716
   Price: $24.99 USD
 - [Pro Men Prostate Complex - Support Men's Prostate Health - 60 caps](https://www.conquest.fit/products/pro-men-prostate-complex): Enhance your well-being with Pro Men Prostate Complex. Our 60 veggie capsules support men's prostate health. Experience optimal wellness naturally today!
-  Updated: 2026-07-08T21:08:27Z
+  Updated: 2026-10-18T17:03:56Z
   Vendor: Men's Health
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC817.png?v=1753624903
   Price: $19.99 USD
 - [Bio Turmeric Pro with BioPerine - Enhanced Absorption - 60 Veggie Caps](https://www.conquest.fit/products/bio-turmeric-pro-with-bioperine-60-veggie-capsules): Unlock the power of nature with Bio Turmeric Pro with BioPerine. Our 60 veggie capsules enhance absorption, promoting overall wellness and vitality. Shop now for optimal health!
-  Updated: 2026-07-08T21:08:34Z
+  Updated: 2026-10-18T17:03:56Z
   Vendor: General Health
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC450.png?v=1753538583
   Price: $29.99 USD
 - [Warrior Pre-Workout Tropical Sunrise - Ultimate Energy Boost](https://www.conquest.fit/products/warrior-pre-workout-tropical-sunrise-flavor-30-servings): Unleash your potential with Warrior Pre-Workout Tropical Sunrise! Boost your energy and enhance performance with this delicious 30-serving formula. Perfect for every workout!
-  Updated: 2026-07-08T21:08:38Z
+  Updated: 2026-10-18T17:03:55Z
   Vendor: Premium Sports Nutrition
   Product Type: 
   Availability: Available
@@ -557,7 +557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC018.png?v=1761871649
   Price: $34.99 USD
 - [Pure Hydra Optimum ION Electrolyte - 30 Servings Ultimate Hydration](https://www.conquest.fit/products/pure-hydra-optimum-ion-electrolyte): Stay hydrated with Pure Hydra Optimum ION Electrolyte Formula. Packed with 30 servings, this electrolyte blend helps replenish your body's essential nutrients. Perfect for active lifestyles!
-  Updated: 2026-07-08T21:08:44Z
+  Updated: 2026-10-18T17:03:56Z
   Vendor: Premium Sports Nutrition
   Product Type: 
   Availability: Available
@@ -683,7 +683,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC741.png?v=1753534935
   Price: $29.99 USD
 - [Clay Cleanse Bentonite Clay Detox - 90 Veggie Capsules Detoxification](https://www.conquest.fit/products/clay-cleanse-bentonite-clay-detox-plus-90-veggie-capsules): Experience the power of Clay Cleanse Bentonite Clay Detox! Our 90 veggie capsules support effective detoxification, helping you feel rejuvenated and revitalized. Try it today!
-  Updated: 2026-08-03T13:46:47Z
+  Updated: 2026-10-13T17:23:53Z
   Vendor: Platinum Grade Supplements
   Product Type: 
   Availability: Available
@@ -693,13 +693,13 @@
     Price: $34.99 USD
   - [Organic](https://www.conquest.fit/products/clay-cleanse-bentonite-clay-detox-plus-90-veggie-capsules?variant=52525293437247)
     Availability: Available
-    Price: $29.99 USD
+    Price: $34.99 USD
   - [Gluten-free](https://www.conquest.fit/products/clay-cleanse-bentonite-clay-detox-plus-90-veggie-capsules?variant=52525293470015)
     Availability: Available
-    Price: $29.99 USD
+    Price: $34.99 USD
   - [Non-GMO](https://www.conquest.fit/products/clay-cleanse-bentonite-clay-detox-plus-90-veggie-capsules?variant=52525293502783)
     Availability: Available
-    Price: $29.99 USD
+    Price: $34.99 USD
 - [Hawaiian Premium Volcanic Pink Salt 12 oz - Conquest Nutrition](https://www.conquest.fit/products/hawaiian-premium-volcanic-pink-salt-12-oz): Discover the exquisite flavor of Hawaiian premium volcanic pink salt. Perfect for gourmet cooking and offering numerous health benefits, this 12 oz salt will elevate your dishes!
   Updated: 2026-07-08T21:08:51Z
   Vendor: Platinum Grade Supplements
@@ -742,42 +742,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC2821.png?v=1761873204
   Price: $34.99 USD
-- [Whey Armor 100% Protein Isolate Chocolate Premium 1lb Milkshake Flavor](https://www.conquest.fit/products/whey-armor-100-protein-isolate-chocolate-1lb): Boost your fitness with Whey Armor 100% Protein Isolate Chocolate. This premium 1lb whey protein delivers delicious chocolate milkshake flavor and maximum muscle support.
-  Updated: 2026-07-08T21:08:53Z
-  Vendor: Premium Sports Nutrition
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC2811.png?v=1761873238
-  Price: $34.99 USD
-- [Whey Armor Protein Birthday Cake - Delicious 2lb Protein Supplement](https://www.conquest.fit/products/whey-armor-protein-birthday-cake-flavor-2lb): Indulge in Whey Armor Protein Birthday Cake flavor for a delicious protein boost! Enjoy 2lb of high-quality protein perfect for post-workout recovery and tasty treats.
-  Updated: 2026-07-08T21:08:54Z
-  Vendor: Premium Sports Nutrition
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC2292.png?v=1753486110
-  Price: $44.99 USD
-- [Whey Armour Natural Protein Vanilla Milkshake - Delicious 2lb Pack](https://www.conquest.fit/products/whey-armour-natural-protein-vanilla-milkshake-2lb): Elevate your fitness with Whey Armour Natural Protein Vanilla Milkshake. Enjoy a delicious 2lb pack sweetened with stevia, perfect for a nutritious boost post-workout!
-  Updated: 2026-07-08T21:08:54Z
-  Vendor: Premium Sports Nutrition
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC2241N.png?v=1753486041
-  Price: $49.99 USD
-- [Whey Armor Natural Protein Chocolate Milkshake - 2lb Pack with Stevia](https://www.conquest.fit/products/whey-armor-natural-protein-chocolate-milkshake-flavor-with-stevia-2lb): Meta Description: Discover the rich flavor of Whey Armor Natural Protein Chocolate Milkshake, sweetened with stevia. Fuel your workouts and satisfy your cravings with this 2lb pack!
-  Updated: 2026-07-08T21:08:54Z
-  Vendor: Premium Sports Nutrition
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC2201N.png?v=1753485974
-  Price: $49.99 USD
-- [Victory Essential Meal Replacement Protein - Chocolate Milkshake 2.9lb](https://www.conquest.fit/products/victory-essential-meal-replacement-protein-chocolate-milkshake-flavor-2-9lb-30-servings): Discover Victory Essential Meal Replacement Protein in delicious chocolate milkshake flavor. Each 2.9lb container offers 30 servings of nutrient-rich protein to fuel your day!
-  Updated: 2026-07-08T21:08:55Z
-  Vendor: Premium Sports Nutrition
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC1205.png?v=1753485681
-  Price: $49.99 USD
-[List Continued](https://www.conquest.fit/a/llms-agent/llms.txt?shop=9c066d-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODY5ODYwMzcyNzk5LCJsYXN0X3ZhbHVlIjoiOTg2OTg2MDM3Mjc5OSJ9)
+[List Continued](https://www.conquest.fit/a/llms-agent/llms.txt?shop=9c066d-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODY5ODYwMDQ1MTE5LCJsYXN0X3ZhbHVlIjoiOTg2OTg2MDA0NTExOSJ9)
 
 ## Collections
 
@@ -785,7 +750,7 @@
   Updated: 2026-08-09T13:31:57Z
   Total Products: 9
 - [Platinum Grade Supplements](https://www.conquest.fit/collections/platinum-grade-supplements)
-  Updated: 2026-08-09T13:31:57Z
+  Updated: 2026-10-13T17:23:54Z
   Total Products: 25
 - [General Health](https://www.conquest.fit/collections/general-health)
   Updated: 2026-08-25T11:14:49Z
@@ -812,7 +777,7 @@
   Updated: 2026-07-08T21:09:54Z
   Total Products: 9
 - [All Supplements](https://www.conquest.fit/collections/all-supplements)
-  Updated: 2026-08-25T11:14:49Z
+  Updated: 2026-10-13T17:23:54Z
   Total Products: 146
 
 ## Blogs
@@ -1431,6 +1396,39 @@
     Author: Conquest Nutrition
   - [Top Vitamins for Immune Defense That Earn Their Place](https://www.conquest.fit/blogs/news/top-vitamins-for-immune-defense): Top Vitamins for Immune Defense That Earn Their Place
     Updated: 2026-10-10T02:22:38Z
+    Author: Admin
+  - [Testosterone Support Routine Example That Works](https://www.conquest.fit/blogs/news/testosterone-support-routine-example): Testosterone Support Routine Example That Works
+    Updated: 2026-10-12T02:20:39Z
+    Author: Admin
+  - [Tutorial: Implementing a Balanced Fitness and Nutrition Plan for Wellness.](https://www.conquest.fit/blogs/news/tutorial-implementing-a-balanced-fitness-and-nutrition-plan-for-wellness): Tutorial: Implementing a Balanced Fitness and Nutrition Plan for Wellness.
+    Updated: 2026-10-12T07:02:35Z
+    Author: Conquest Nutrition
+  - [Best Women Wellness Supplements for Stronger Days](https://www.conquest.fit/blogs/news/best-women-wellness-supplements): Best Women Wellness Supplements for Stronger Days
+    Updated: 2026-10-14T02:23:04Z
+    Author: Admin
+  - [Exploring Trending Topics in Health Wellness and Fitness](https://www.conquest.fit/blogs/news/exploring-trending-topics-in-health-wellness-and-fitness): Exploring Trending Topics in Health Wellness and Fitness
+    Updated: 2026-10-14T07:02:24Z
+    Author: Conquest Nutrition
+  - [Post Cycle Review: What to Track Before PCT](https://www.conquest.fit/blogs/news/post-cycle-review): Post Cycle Review: What to Track Before PCT
+    Updated: 2026-10-16T02:22:46Z
+    Author: Admin
+  - [Listicle: 10 Tips for Integrating Wellness into Your Fitness Routine](https://www.conquest.fit/blogs/news/listicle-10-tips-for-integrating-wellness-into-your-fitness-routine): Listicle: 10 Tips for Integrating Wellness into Your Fitness Routine
+    Updated: 2026-10-16T07:01:49Z
+    Author: Conquest Nutrition
+  - [Best Supplements for Joint Comfort That Deliver](https://www.conquest.fit/blogs/news/best-supplements-for-joint-comfort): Best Supplements for Joint Comfort That Deliver
+    Updated: 2026-10-18T02:21:33Z
+    Author: Admin
+  - [How to Achieve Your Health Goals with Balanced Nutrition and Exercise](https://www.conquest.fit/blogs/news/how-to-achieve-your-health-goals-with-balanced-nutrition-and-exercise): How to Achieve Your Health Goals with Balanced Nutrition and Exercise
+    Updated: 2026-10-19T07:02:36Z
+    Author: Conquest Nutrition
+  - [A Berberine Supplement Review for Smarter Buying](https://www.conquest.fit/blogs/news/berberine-supplement-review): A Berberine Supplement Review for Smarter Buying
+    Updated: 2026-10-20T02:21:33Z
+    Author: Admin
+  - [Overcoming Common Nutrition Problems to Enhance Wellness](https://www.conquest.fit/blogs/news/overcoming-common-nutrition-problems-to-enhance-wellness): Overcoming Common Nutrition Problems to Enhance Wellness
+    Updated: 2026-10-21T07:02:12Z
+    Author: Conquest Nutrition
+  - [How to Support Bone Density and Keep Training](https://www.conquest.fit/blogs/news/how-to-support-bone-density): How to Support Bone Density and Keep Training
+    Updated: 2026-10-22T02:22:19Z
     Author: Admin
 
 ## Store Pages
@@ -2422,7 +2420,7 @@
 - [Alli Pure Allicin Complex Formula](https://www.conquest.fit/pages/alli-pure-allicin-complex-formula)
   Updated: 2026-01-03T14:17:48Z
 - [Clay Cleanse Bentonite Clay Detox Plus](https://www.conquest.fit/pages/clay-cleanse-bentonite-clay-detox-plus)
-  Updated: 2026-01-03T14:18:52Z
+  Updated: 2026-10-13T17:42:56Z
 - [Hawaiian Premium Volcanic Pink Salt 12 oz](https://www.conquest.fit/pages/hawaiian-premium-volcanic-pink-salt-12-oz)
   Updated: 2026-01-03T14:19:46Z
 - [Optimus Plus Premium Testosterone with Testofen](https://www.conquest.fit/pages/optimus-plus-premium-testosterone-with-testofen)
@@ -2595,15 +2593,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.conquest.fit/policies/privacy-policy)
-  Updated: 2024-04-02T10:43:26-07:00
+  Updated: 2024-04-02T17:43:26Z
 - [Shipping Policy](https://www.conquest.fit/policies/shipping-policy)
-  Updated: 2024-04-02T10:42:27-07:00
+  Updated: 2024-04-02T17:42:27Z
 - [Refund Policy](https://www.conquest.fit/policies/refund-policy)
-  Updated: 2024-04-02T10:42:27-07:00
+  Updated: 2024-04-02T17:42:27Z
 - [Terms of Service](https://www.conquest.fit/policies/terms-of-service)
-  Updated: 2024-04-02T10:43:26-07:00
+  Updated: 2024-04-02T17:43:26Z
 - [Contact Information](https://www.conquest.fit/policies/contact-information)
-  Updated: 2024-04-02T10:42:27-07:00
+  Updated: 2024-04-02T17:42:27Z
 
 ## Optional
 
