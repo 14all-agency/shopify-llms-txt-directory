@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-09-27T20:59:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-09T00:00:44.386Z
+- Updated At: 2026-10-23T00:54:13.755Z
 
 ## Products
 
 - [I'm Butch Tee](https://fortunefeimster.merchmadeeasy.com/products/im-butch-tee): Butch, please...Flaunt your style with the black I'm Butch Tee! 100% ring spun cotton t-shirt in black
-  Updated: 2026-10-08T08:21:59Z
+  Updated: 2026-10-22T20:53:57Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [2023 Live Laugh Love Tour Tee](https://fortunefeimster.merchmadeeasy.com/products/live-laugh-love-tour-tee): The Live Laugh Love Tour Tee features a sweet ice cream design on the front and Fortune's 2023 tour dates on the back! 100% ring spun cotton t-shirt in black
-  Updated: 2026-10-08T08:21:58Z
+  Updated: 2026-10-21T11:08:41Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -166,7 +166,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSummerDatesBack.png?v=1712086895
     Price: $15.00 USD
 - [Good Fortune Trucker Hat](https://fortunefeimster.merchmadeeasy.com/products/good-fortune-trucker-hat): 5-Panel, 4" Structured Crown Polyester Foam Front Mesh Back With Braid Snap Closure
-  Updated: 2026-10-05T13:02:50Z
+  Updated: 2026-10-21T23:55:16Z
   Vendor: Fortune Feimster
   Product Type: Hat
   Availability: Available
@@ -215,7 +215,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $15.00 USD
 - [Brenda Tee](https://fortunefeimster.merchmadeeasy.com/products/brenda-t-shirt): Don't be an S.O.B. like Teeyum...Make Brenda proud and grab her tee now 100% combed ringspun cotton t-shirt in black
-  Updated: 2026-10-08T08:19:48Z
+  Updated: 2026-10-21T11:08:48Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -290,7 +290,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [Lesbian Swimsuit Tank - Grey](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-sleeveless-tee): Take a swim or just chill out in the Lesbian Swimsuit Sleeveless Tee! 52% Airlume combed and ring-spun cotton, 48% polyester sleeveless top in heather grey Size Chart Size Body Length (in) Chest Width (Laid Flat) S 26 18 M 27 20 L 28 21 1/2 XL 29 23 1/2 2XL 30 25 1/2
-  Updated: 2026-10-05T13:02:54Z
+  Updated: 2026-10-10T17:55:35Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -430,7 +430,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FFSignedCanadaPoster.png?v=1739205282
   Price: $20.00 USD
 - [Crushing It Hoodie](https://fortunefeimster.merchmadeeasy.com/products/crushing-it-hoodie): 50/50 cotton/poly fleece hoodie in pink Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-10-07T20:34:33Z
+  Updated: 2026-10-20T14:23:57Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -508,8 +508,15 @@ your agent can transact everywhere.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_0002_163565_1_299226_d.png?v=1732746090
   Price: $35.00 USD
+- [Biscuits Hat](https://fortunefeimster.merchmadeeasy.com/products/biscuits-hat): 100% cotton, garment wash dad hat in charcoal grey
+  Updated: 2026-10-20T16:21:16Z
+  Vendor: Fortune Feimster
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0585/4180/1545/files/FF_Biscuits_Hat_Front.png?v=1743625296
+  Price: $35.00 USD
 - [Takin' Care of Biscuits Hoodie](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie): 50/50 cotton/poly fleece hoodie in heather navy Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 1/8 3XL 33 30 38 1/8
-  Updated: 2026-10-07T20:34:33Z
+  Updated: 2026-10-22T20:53:56Z
   Vendor: Fortune Feimster
   Product Type: Hoodie
   Availability: Available
@@ -518,13 +525,13 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
   - [Medium](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257806921)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257839689)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [X-Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257872457)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [2X-Large](https://fortunefeimster.merchmadeeasy.com/products/takin-care-of-biscuits-hoodie?variant=54347257905225)
     Availability: Available
@@ -533,7 +540,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Neon Tour Tee - 2025](https://fortunefeimster.merchmadeeasy.com/products/neon-tee): 100% cotton t-shirt in black
-  Updated: 2026-10-08T08:13:34Z
+  Updated: 2026-10-21T11:08:47Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -581,7 +588,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lesbian Swimsuit Tank - Navy](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy): 100% cotton sleeveless t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 23 1/2 2XL 32 25 3XL 32 1/2 27
-  Updated: 2026-10-07T20:30:41Z
+  Updated: 2026-10-10T17:55:36Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -608,34 +615,34 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://fortunefeimster.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-06T19:40:31Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 28
 - [Apparel](https://fortunefeimster.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 20
 - [Accessories](https://fortunefeimster.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-06T19:40:31Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 18
 - [All](https://fortunefeimster.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 38
 - [Vintage Merch](https://fortunefeimster.merchmadeeasy.com/collections/old-merch)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 8
 - [](https://fortunefeimster.merchmadeeasy.com/collections/)
-  Updated: 2026-09-14T11:07:29Z
+  Updated: 2026-10-11T11:07:53Z
   Total Products: 2
 - [Tees & Tanks](https://fortunefeimster.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-06T11:08:55Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 16
 - [Ice Cream Collection](https://fortunefeimster.merchmadeeasy.com/collections/ice-cream-collection)
   Updated: 2026-10-07T11:08:34Z
   Total Products: 5
 - [$40](https://fortunefeimster.merchmadeeasy.com/collections/40)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-21T11:09:44Z
   Total Products: 4
 - [$30](https://fortunefeimster.merchmadeeasy.com/collections/30)
-  Updated: 2026-10-06T11:08:55Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 7
 - [$20](https://fortunefeimster.merchmadeeasy.com/collections/20)
   Updated: 2026-09-15T11:07:48Z
@@ -644,19 +651,19 @@ your agent can transact everywhere.
   Updated: 2026-10-06T19:40:31Z
   Total Products: 3
 - [Crushing It Collection](https://fortunefeimster.merchmadeeasy.com/collections/crushing-it-collection)
-  Updated: 2026-09-14T11:07:29Z
+  Updated: 2026-10-21T11:09:44Z
   Total Products: 5
 - [$20.24](https://fortunefeimster.merchmadeeasy.com/collections/20-24)
   Updated: 2026-07-13T17:38:11Z
   Total Products: 0
 - [Takin' Care of Biscuits](https://fortunefeimster.merchmadeeasy.com/collections/takin-care-of-biscuits)
-  Updated: 2026-10-06T11:08:55Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 7
 - [New Arrivals](https://fortunefeimster.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 38
 - [Best Sellers](https://fortunefeimster.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-07T11:08:34Z
+  Updated: 2026-10-22T11:10:47Z
   Total Products: 38
 - [$5 Treats](https://fortunefeimster.merchmadeeasy.com/collections/5-bin)
   Updated: 2026-10-06T19:40:31Z
@@ -676,15 +683,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://fortunefeimster.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T10:07:08-05:00
+  Updated: 2026-06-18T15:07:08Z
 - [Shipping Policy](https://fortunefeimster.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-25T10:29:17-05:00
+  Updated: 2026-09-25T15:29:17Z
 - [Refund Policy](https://fortunefeimster.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T10:07:45-05:00
+  Updated: 2026-06-18T15:07:45Z
 - [Terms of Service](https://fortunefeimster.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-25T10:28:56-05:00
+  Updated: 2026-09-25T15:28:56Z
 - [Contact Information](https://fortunefeimster.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-02-16T14:26:30-06:00
+  Updated: 2024-02-16T20:26:30Z
 
 ## Optional
 
