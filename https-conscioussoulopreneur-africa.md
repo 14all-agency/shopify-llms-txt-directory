@@ -6,76 +6,76 @@
 - Timezone: Australia/Adelaide
 - Created At: 2026-07-07T23:54:29Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-10-16T00:00:37.689Z
+- Updated At: 2026-10-23T00:38:26.962Z
 
 Conscious Soulopreneur Africa is an independent publisher of philosophy and self-development books, authored by Carlos Ruben Lauthier Wendt. Our titles are available in English and Spanish, offered as instant digital downloads and print-on-demand physical copies fulfilled via Lulu. We are Africa-based with a global readership, focused on practical wisdom, conscious living, and personal transformation.
 
 
 ## Products
 
-- [Self-Discovery eBook Transformation | Inner Potential](https://conscioussoulopreneur.africa/products/self-discovery-ebook-transformation): Self-Discovery eBook Transformation exploring inner potential, personal growth, identity, confidence, and meaningful change.
-  Updated: 2026-10-15T20:57:40Z
+- [Who Do You Think You Are? - The Book That Ends Self-Doubt](https://conscioussoulopreneur.africa/products/self-discovery-ebook-transformation): Explore identity, purpose and personal growth with Who Do You Think You Are? English eBook PDF. $6, instant download after payment, no shipping.
+  Updated: 2026-10-20T16:50:45Z
   Vendor: Conscious Soulopreneur Africa
-  Product Type: eBook
+  Product Type: Digital eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1792097859
+  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/product-photo-1787113768296_1.jpg?v=1792185231
   Price: $6.00 USD
-- [Self-Discovery Memoir Hardcover | Who You Are](https://conscioussoulopreneur.africa/products/self-discovery-memoir-hardcover): Self-Discovery Memoir Hardcover explores identity, life experiences, personal growth, and the journey toward deeper self-understanding.
-  Updated: 2026-10-04T18:07:18Z
+- [Who Do You Think You Are? Hardcover — Self-Discovery Memoir](https://conscioussoulopreneur.africa/products/self-discovery-memoir-hardcover): Explore identity and personal growth with Who Do You Think You Are? Hardcover memoir. Print edition, ships from Bordertown. Not digital.
+  Updated: 2026-10-19T12:49:06Z
   Vendor: Conscious Soulopreneur Africa
-  Product Type: books in book
+  Product Type: Printed Memoir
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/2mn4j9w-front-shortedge-384.jpg?v=1791045234
   Price: $44.00 USD
-- [Conscious Self Discovery eBook | Transformative Guide](https://conscioussoulopreneur.africa/products/conscious-self-discovery-ebook): Conscious Self Discovery eBook exploring identity, awareness, personal growth, consciousness, and transformative ideas for deeper self-understanding.
-  Updated: 2026-10-04T17:55:24Z
+- [Conscious Self-Discovery Book | Who Do You Think You Are?](https://conscioussoulopreneur.africa/products/conscious-self-discovery-ebook): Conscious Self-Discovery Book Who Do You Think You Are? invites you to question old beliefs, explore your identity, and find fresh perspective for personal growth.
+  Updated: 2026-10-17T12:12:53Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: books in book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/7kz6q26-front-shortedge-384.jpg?v=1791045231
   Price: $39.00 USD
-- [Spiritual Identity Self-Discovery | Metaphysical Guide](https://conscioussoulopreneur.africa/products/spiritual-identity-self-discovery): Spiritual Identity Self-Discovery explores consciousness, purpose, personal growth, and metaphysical ideas for a deeper understanding of who you are.
-  Updated: 2026-10-04T18:25:31Z
+- [Self-Discovery Metaphysical Guide: Explore Your Spiritual Identity](https://conscioussoulopreneur.africa/products/spiritual-identity-self-discovery): Explore identity, purpose, and consciousness with this Self-Discovery Metaphysical Guide. Reflect on who you are and gain a fresh perspective on your personal journey.
+  Updated: 2026-10-17T12:16:20Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: books in book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/gjzqzzq-front-shortedge-384.jpg?v=1791045228
   Price: $39.00 USD
-- [Transformative Philosophy Book | ¿QUIÉN TE CREES QUE ERES?](https://conscioussoulopreneur.africa/products/transformative-philosophy-book): Transformative Philosophy Book ¿QUIÉN TE CREES QUE ERES? explores self-discovery, consciousness, metaphysical thought, and personal transformation.
-  Updated: 2026-10-04T06:25:30Z
+- [Enfermedad: A Transformative Book on Identity and Self-Discovery](https://conscioussoulopreneur.africa/products/transformative-philosophy-book): Explore identity, beliefs, and consciousness with this transformative philosophy book. Find fresh perspectives, deepen self-awareness, and reflect on who you are.
+  Updated: 2026-10-17T12:06:42Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: books in book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/zmn7nn8-front-shortedge-384.jpg?v=1791045224
   Price: $44.00 USD
-- [Spiritual Self-Discovery eBook | ¿QUIÉN TE CREES QUE ERES?](https://conscioussoulopreneur.africa/products/spiritual-self-discovery-ebook): Spiritual Self-Discovery eBook ¿QUIÉN TE CREES QUE ERES? explores identity, consciousness, personal growth, purpose, and inner transformation.
-  Updated: 2026-10-04T06:25:30Z
+- [Spiritual Self-Discovery eBook: ¿Quién Te Crees Que Eres? A Journey Within](https://conscioussoulopreneur.africa/products/spiritual-self-discovery-ebook): Explore identity, consciousness and personal growth with ¿Quién Te Crees Que Eres?, a Spanish spiritual self-discovery eBook. Digital edition, $6.
+  Updated: 2026-10-19T12:57:24Z
   Vendor: Conscious Soulopreneur Africa
-  Product Type: eBook
+  Product Type: Digital eBook Spanish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/zmn7nn8-front-shortedge-384.jpg?v=1791045224
   Price: $6.00 USD
-- [Who Do You Think You Are Book | Self-Discovery](https://conscioussoulopreneur.africa/products/who-do-you-think-you-are-book): Who Do You Think You Are Book for spiritual self-discovery, reflection, personal growth, identity, purpose, and deeper self-awareness.
-  Updated: 2026-10-15T20:57:40Z
+- [Who Do You Think You Are? Paperback — Self-Discovery Memoir — $39](https://conscioussoulopreneur.africa/products/who-do-you-think-you-are-book): Who Do You Think You Are? Paperback self-discovery memoir, $39. This is print edition. Ships from Bordertown. Not digital.
+  Updated: 2026-10-19T12:47:08Z
   Vendor: Conscious Soulopreneur Africa
   Product Type: Book
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/FrontBookCoverenglish.jpg?v=1792097859
+  Image: https://cdn.shopify.com/s/files/1/0698/8034/8739/files/1792098470.jpg?v=1792185500
   Price: $39.00 USD
 
 ## Collections
 
 - [Home page,  Discover Our Featured Collection](https://conscioussoulopreneur.africa/collections/home-page): Home page for discovering featured products, new arrivals, collections, and quality selections designed to give you a smooth shopping experience
-  Updated: 2026-10-05T15:53:21Z
+  Updated: 2026-10-20T04:50:43Z
   Total Products: 6
 - [Self-Discovery Books and Guides](https://conscioussoulopreneur.africa/collections/self-discovery): Explore self-discovery books and guides for self-awareness, personal growth, conscious living, and meaningful transformation.
-  Updated: 2026-10-06T19:55:44Z
+  Updated: 2026-10-19T00:57:21Z
   Total Products: 2
 - [Collection Title  Personal Growth Books & Guides for a Better You](https://conscioussoulopreneur.africa/collections/collection-title-personal-growth-books-guides-for-a-better-you): collection_description] | Spiritual philosophy & self-development books | Conscious Soulopreneur Africa`
-  Updated: 2026-10-06T12:00:42Z
+  Updated: 2026-10-20T04:50:43Z
   Total Products: 2
 - [Featured Personal Growth Resources](https://conscioussoulopreneur.africa/collections/featured-personal-growth-resources): Explore featured personal growth resources designed to inspire self-discovery, conscious living, personal development, and meaningful transformation
-  Updated: 2026-10-06T19:50:15Z
+  Updated: 2026-10-19T00:57:21Z
   Total Products: 4
 
 ## Blogs
@@ -129,6 +129,15 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
   - [Unlock Your Inner Self: Transformative Self Growth with Our eBook in Personal Development and Conscious Me](https://conscioussoulopreneur.africa/blogs/news/unlock-your-inner-self-transformative-self-growth-with-our-ebook-in-personal-development-and-conscious-me): Unlock Your Inner Self: Transformative Self Growth with Our eBook in Personal Development and Conscious Me
     Updated: 2026-10-15T21:00:21Z
     Author: Carlos Ruben Lauthier Wendt
+  - [Unlock Your Inner Potential: A Guide to Self Growth and Mind-Body Harmony through an eBook in Personal Development](https://conscioussoulopreneur.africa/blogs/news/unlock-your-inner-potential-a-guide-to-self-growth-and-mind-body-harmony-through-an-ebook-in-personal-development): Unlock Your Inner Potential: A Guide to Self Growth and Mind-Body Harmony through an eBook in Personal Development
+    Updated: 2026-10-17T21:00:21Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Unlock Your Inner Universe: Self Growth and Mind-Body Harmony through Our eBook in Personal Development](https://conscioussoulopreneur.africa/blogs/news/unlock-your-inner-universe-self-growth-and-mind-body-harmony-through-our-ebook-in-personal-development): Unlock Your Inner Universe: Self Growth and Mind-Body Harmony through Our eBook in Personal Development
+    Updated: 2026-10-20T21:00:23Z
+    Author: Carlos Ruben Lauthier Wendt
+  - [Exploring Self Growth with ¿QUIÉN TE CREES QUE ERES Discover Mind and Body Insights through a Transformative eBook in Personal Development](https://conscioussoulopreneur.africa/blogs/news/exploring-self-growth-with-quien-te-crees-que-eres-discover-mind-and-body-insights-through-a-transformative-ebook-in-personal-development): Exploring Self Growth with ¿QUIÉN TE CREES QUE ERES Discover Mind and Body Insights through a Transformative eBook in Personal Development
+    Updated: 2026-10-22T21:00:21Z
+    Author: Carlos Ruben Lauthier Wendt
 
 ## Store Pages
 
@@ -144,9 +153,9 @@ Conscious Soulopreneur Africa is an independent publisher of philosophy and self
 ## Policies
 
 - [Privacy Policy](https://conscioussoulopreneur.africa/policies/privacy-policy)
-  Updated: 2026-07-08T09:24:33+09:30
+  Updated: 2026-07-07T23:54:33Z
 - [Refund Policy](https://conscioussoulopreneur.africa/policies/refund-policy)
-  Updated: 2026-08-21T11:45:47+09:30
+  Updated: 2026-08-21T02:15:47Z
 
 ## About the Author
 - Carlos Ruben Lauthier Wendt is a philosopher and self-development author based in Africa
