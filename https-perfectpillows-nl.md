@@ -10,110 +10,136 @@
 - Contact Email: info@perfectpillows.nl
 - Contact Phone: 06-14567151
 - Address: Jarmuiden 30-b, 1046 AD Amsterdam
-- Updated At: 2026-08-18T19:11:27.021Z
+- Updated At: 2026-10-23T01:03:13.365Z
 
 ## Products
 
 - [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Strak gevormd kussen met schuimvulling, stevige afwerking.
-  Updated: 2026-08-18T18:54:35Z
+  Updated: 2026-10-22T23:09:41Z
 - [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Strak kussen met één of twee schuine zijden.
-  Updated: 2026-08-17T09:20:29Z
+  Updated: 2026-10-21T20:33:36Z
 - [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Schuin gevormd rugkussen strak afgewerkt voor ondersteuning.
-  Updated: 2026-08-17T09:22:09Z
+  Updated: 2026-10-22T07:57:04Z
 - [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Zacht kussen met vlokvulling en hogere kern
-  Updated: 2026-08-18T19:05:46Z
+  Updated: 2026-10-22T11:39:05Z
 - [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Rond plofkussen met losse vlokvulling, tot 100 cm
-  Updated: 2026-08-18T15:38:35Z
+  Updated: 2026-10-21T18:04:22Z
 - [Sunbrella Natté](https://perfectpillows.nl/products/sunbrella-furniture-natte)
-  Updated: 2026-05-03T14:30:26Z
+  Updated: 2026-09-30T19:43:11Z
 - [Sunbrella Solids](https://perfectpillows.nl/products/sunbrella-furniture-solids)
-  Updated: 2026-05-04T17:15:24Z
+  Updated: 2026-09-30T19:43:12Z
 - [Sunbrella Furniture Stripes](https://perfectpillows.nl/products/sunbrella-furniture-stripes)
-  Updated: 2026-04-12T12:02:36Z
+  Updated: 2026-09-30T19:43:12Z
 - [Sunbrella Furniture Lopi](https://perfectpillows.nl/products/sunbrella-furniture-lopi)
-  Updated: 2026-05-03T15:49:07Z
+  Updated: 2026-09-30T19:43:12Z
 - [Sunbrella Furniture Tundra](https://perfectpillows.nl/products/sunbrella-furniture-tundra)
-  Updated: 2026-05-02T18:58:46Z
+  Updated: 2026-09-30T19:43:12Z
 - [Sunbrella Furniture Savanne](https://perfectpillows.nl/products/sunbrella-furniture-savanne)
-  Updated: 2026-05-02T19:18:05Z
+  Updated: 2026-09-30T19:43:12Z
 - [Sunbrella Furniture Yama](https://perfectpillows.nl/products/sunbrella-furniture-yama)
-  Updated: 2026-04-30T21:04:47Z
+  Updated: 2026-09-30T19:43:13Z
 - [Sunbrella Furniture Carat](https://perfectpillows.nl/products/sunbrella-furniture-carat)
-  Updated: 2026-04-19T20:05:07Z
+  Updated: 2026-09-30T19:43:13Z
 - [Sunbrella Furniture Territoty](https://perfectpillows.nl/products/sunbrella-furniture-territoty)
-  Updated: 2026-04-08T06:33:37Z
+  Updated: 2026-09-30T19:43:13Z
 - [Sunbrella Wander](https://perfectpillows.nl/products/sunbrella-furniture-wander)
-  Updated: 2026-05-02T18:58:45Z
+  Updated: 2026-09-30T19:43:13Z
 - [Sunbrella Wadi](https://perfectpillows.nl/products/sunbrella-furniture-wadi)
-  Updated: 2026-05-03T15:49:06Z
+  Updated: 2026-09-30T19:43:13Z
 - [Sunbrella Endless Stories Slow](https://perfectpillows.nl/products/sunbrella-endless-stories-slow)
-  Updated: 2026-05-01T14:19:05Z
+  Updated: 2026-09-30T19:43:14Z
 - [Sunbrella Heritage stof | Luxe outdoor stof | PerfectPillows](https://perfectpillows.nl/products/sunbrella-endless-stories-heritage): Ontdek Sunbrella Heritage outdoor stof met een natuurlijke uitstraling en zachte structuur. Kleurvast, waterafstotend en ideaal voor kussens op maat.
-  Updated: 2026-05-09T03:25:29Z
+  Updated: 2026-09-30T19:43:14Z
 - [Sunbrella Harvest stof | Duurzame outdoor stof | PerfectPillows](https://perfectpillows.nl/products/sunbrella-endless-stories-harvest): Ontdek Sunbrella Harvest outdoor stof met luxe uitstraling en hoge kleurvastheid. Waterafstotend, slijtvast en perfect voor kussens op maat.
-  Updated: 2026-05-09T03:22:46Z
+  Updated: 2026-09-30T19:43:14Z
 - [Sunbrella Source stof | Premium outdoor stof | PerfectPillows](https://perfectpillows.nl/products/sunbrella-endless-stories-source): Ontdek Sunbrella Source outdoor stof met luxe structuur en hoge duurzaamheid. UV-bestendig, waterafstotend en perfect voor kussens op maat.
-  Updated: 2026-05-09T03:31:36Z
+  Updated: 2026-09-30T19:43:14Z
 - [Sunproof Cartenza](https://perfectpillows.nl/products/sunproof-cartenza)
-  Updated: 2026-04-24T09:23:19Z
+  Updated: 2026-09-30T19:43:14Z
 - [Sunproof Southend](https://perfectpillows.nl/products/sunproof-southend)
-  Updated: 2026-05-04T17:15:28Z
+  Updated: 2026-09-30T19:43:15Z
 - [Sunproof Copacobana](https://perfectpillows.nl/products/sunproof-copacobana)
-  Updated: 2026-05-02T14:13:17Z
+  Updated: 2026-09-30T19:43:15Z
 - [Sunproof Fontelina](https://perfectpillows.nl/products/sunproof-fontelina)
-  Updated: 2026-04-30T20:58:26Z
+  Updated: 2026-09-30T19:43:15Z
 - [Sunproof Kitsilano](https://perfectpillows.nl/products/sunproof-kitsilano)
-  Updated: 2026-04-17T20:24:15Z
+  Updated: 2026-09-30T19:43:15Z
 - [Sunproof Southbeach](https://perfectpillows.nl/products/sunproof-southbeach)
-  Updated: 2026-04-06T07:21:51Z
+  Updated: 2026-09-30T19:43:15Z
 - [Sunproof Liestal](https://perfectpillows.nl/products/sunproof-liestal)
-  Updated: 2026-05-01T14:19:06Z
+  Updated: 2026-09-30T19:43:16Z
 - [Torre](https://perfectpillows.nl/products/torre)
-  Updated: 2026-04-08T10:02:17Z
+  Updated: 2026-09-30T19:43:16Z
 - [Glade Smooth velours | Luxe meubelstof op maat | PerfectPillows](https://perfectpillows.nl/products/glade-smooth): Ontdek Glade Smooth velours met luxe uitstraling en zachte touch. Slijtvast, kleurvast en perfect voor kussens op maat binnen.
-  Updated: 2026-05-09T03:19:52Z
+  Updated: 2026-09-30T19:43:16Z
 - [Bella Grana stof bij Perfect Pillows](https://perfectpillows.nl/products/bella-grana): Bella Grana. Deze collectie, niet van echt leer te onderscheiden kunstleer, is van zeer hoge kwaliteit. Supersterk en met een hoge slijtvastheid.
-  Updated: 2026-05-09T03:13:39Z
+  Updated: 2026-09-30T19:43:16Z
 - [Cambridge stof bij Perfect Pillows](https://perfectpillows.nl/products/cambridge): Cambridge is de nieuwste ontwikkeling op het gebied van kunstleerproducten. Deze stof is bijna niet van echt leer te onderscheiden.
-  Updated: 2026-05-08T15:15:07Z
+  Updated: 2026-09-30T19:43:16Z
 - [Capri Stripes bij PerfectPillows](https://perfectpillows.nl/products/capri-stripes): Capri Stripes is een sterke outdoorstof van 100% solution dyed acryl met een zachte chenille structuur. Leverbaar in 13 kleuren.
-  Updated: 2026-05-08T15:16:55Z
+  Updated: 2026-09-30T19:43:16Z
 - [Sunbrella Marquetry](https://perfectpillows.nl/products/sunbrella-marquetry)
-  Updated: 2026-05-02T08:57:57Z
+  Updated: 2026-09-30T19:43:17Z
 - [Sunbrella Territory](https://perfectpillows.nl/products/sunbrella-territory)
-  Updated: 2026-04-12T21:17:22Z
+  Updated: 2026-09-30T19:43:17Z
+- [Strak kussen 100 x 50 x 10 cm](https://perfectpillows.nl/products/strak-kussen-100-x-50-x-10-cm): Een strak, rechthoekig kussen met scherpe hoeken en een strakke afwerking. Zonder bies.
+  Updated: 2026-09-30T19:43:17Z
+- [Plof kussen met zijband 60 x 40 cm](https://perfectpillows.nl/products/plof-kussen-met-zijband-60-x-40-x-10-cm): Een zacht plofkussen met zijband voor extra stevigheid. Zonder bies.
+  Updated: 2026-09-30T19:43:17Z
+- [Plof kussen zonder zijband 60 x 40 cm](https://perfectpillows.nl/products/plof-kussen-zonder-zijband-60-x-40-x-10-cm): Een zacht plofkussen zonder zijband voor een casual look. Zonder bies.
+  Updated: 2026-09-30T19:43:17Z
+- [Matras Perfect Basic](https://perfectpillows.nl/products/matras-perfect-basic): Stevig, onderhoudsvrij en betaalbaar matras uit één massief blok. Slijtvast, licht en ideaal voor kinderkamers, logeerbedden en studentenkamers.
+  Updated: 2026-09-30T19:43:18Z
 
 ## Collections
 
 - [B2B](https://perfectpillows.nl/collections/b2b): Maatwerk kussens voor bedrijven. Van horeca tot interieurprojecten. Hoge kwaliteit, snelle levering en persoonlijk advies. Je bent welkom in onze showroom.
-  Updated: 2026-04-11T09:33:42Z
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 0
 - [Kussens op maat voor binnen](https://perfectpillows.nl/collections/kussens-op-maat-voor-binnen): Binnenkussens op maat laten maken. Comfortabel, stijlvol en perfect passend voor jouw interieur. Ontdek alle mogelijkheden.
-  Updated: 2026-05-05T19:36:24Z
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 0
 - [Kussens op maat voor buiten](https://perfectpillows.nl/collections/kussens-op-maat-voor-buiten): Buitenkussens op maat voor tuin en lounge. Weerbestendig, kleurvast en perfect passend. Binnen 7 dagen geleverd.
-  Updated: 2026-05-05T19:36:49Z
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 0
-- [Caravan en Camper](https://perfectpillows.nl/collections/caravans): Caravankussens op maat voor optimaal comfort. Perfect passend, duurzaam en snel geleverd. Ideaal voor camper en caravan. Bestel gemakkelijk online.
-  Updated: 2026-04-11T09:35:50Z
+- [Caravan en camper kussens](https://perfectpillows.nl/collections/caravans): Caravankussens op maat voor optimaal comfort. Perfect passend, duurzaam en snel geleverd. Ideaal voor camper en caravan. Bestel gemakkelijk online.
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 0
 - [Bootkussens](https://perfectpillows.nl/collections/bootkussens): Bootkussens op maat laten maken. Wij meten op locatie en zorgen voor een perfecte pasvorm of kom langs in onze showroom en bekijk al onze verschillende stoffen.
-  Updated: 2026-04-11T09:37:07Z
-  Total Products: 0
-- [Kussens op maat voor ligbedden](https://perfectpillows.nl/collections/ligbedden): Ligbed kussens op maat laten maken bij Perfect Pillows. Perfect passend en snel geleverd. Kies jouw stof en geniet van optimaal comfort. Bestel vandaag nog.
-  Updated: 2026-08-05T08:58:25Z
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 0
 - [Stoffen](https://perfectpillows.nl/collections/stoffen): Kies uit hoogwaardige stoffen zoals Sunbrella. Duurzaam, kleurvast en perfect voor kussens op maat binnen en buiten.
-  Updated: 2026-05-05T11:43:11Z
+  Updated: 2026-09-30T19:43:10Z
   Total Products: 29
-- [Kussens](https://perfectpillows.nl/collections/kussens): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
-  Updated: 2026-08-18T13:38:15Z
-  Total Products: 5
+- [Kussens op maat](https://perfectpillows.nl/collections/kussens-op-maat): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 3
 - [Alle producten](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
-  Updated: 2026-08-18T13:38:15Z
+  Updated: 2026-10-22T06:36:01Z
   Total Products: 5
-- [Kussenhoezen op maat](https://perfectpillows.nl/collections/kussenhoezen-op-maat): Bestel kussenhoezen op maat in elke gewenste stof en kleur. Duurzame outdoor en Sunbrella stoffen, perfect passend gemaakt voor jouw tuin of interieur.
-  Updated: 2026-05-05T19:35:08Z
+- [Matrassen](https://perfectpillows.nl/collections/matrassen)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 1
+- [Zitkussens op maat](https://perfectpillows.nl/collections/zitkussens-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 2
+- [Rugkussens op maat](https://perfectpillows.nl/collections/rugkussens-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 3
+- [Sierkussens op maat](https://perfectpillows.nl/collections/sierkussens-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 1
+- [Zitbanken op maat](https://perfectpillows.nl/collections/zitbanken-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 0
+- [Eetkamer banken op maat](https://perfectpillows.nl/collections/eetkamerbanken-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 0
+- [Bedden op maat](https://perfectpillows.nl/collections/bedden-op-maat)
+  Updated: 2026-09-30T19:43:11Z
+  Total Products: 0
+- [Meubels op maat](https://perfectpillows.nl/collections/meubels-op-maat): Zoek je een meubel dat perfect past? Wij maken maatwerk meubels, waaronder stijlvolle eetkamerbanken, zitbanken en bedden, volledig afgestemd op jouw gewenste maten, stoffen en comfort.
+  Updated: 2026-09-30T19:43:11Z
   Total Products: 0
 
 ## Blogs
@@ -176,6 +202,12 @@
   - [Kussens op maat voor binnen: De ultieme gids | Perfect Pillowsm kussens op maat de geheime sfeermaker in jouw interieur zijn](https://perfectpillows.nl/blogs/news/kussens-op-maat-binnen): Kussens op maat voor binnen: De ultieme gids | Perfect Pillowsm kussens op maat de geheime sfeermaker in jouw interieur zijn
     Updated: 2026-08-08T11:27:09Z
     Author: Ali Temiz
+  - [Kussens op maat voor binnen | Perfecte pasvorm & luxe stoffen](https://perfectpillows.nl/blogs/news/kussens-op-maat-voor-jouw-interieur): Kussens op maat voor binnen | Perfecte pasvorm & luxe stoffen
+    Updated: 2026-09-19T12:53:07Z
+    Author: Ali Temiz
+  - [Eetkamerbanken op maat - Nieuw bij PerfectPillows](https://perfectpillows.nl/blogs/news/eetkamerbanken-op-maat): <p>PerfectPillows introduceert een nieuw maatwerkproduct: eetkamerbanken die je volledig zelf samenstelt. Jij kiest het model, de afmetingen, de stof, de vulling en de afwerking. In ons atelier in Amsterdam maken we jouw bank volledig op maat, met een levertijd van slechts drie weken. Bezoek onze showroom en creëer jouw ideale eetkamerbank.</p>
+    Updated: 2026-09-25T18:53:05Z
+    Author: Ali Temiz
 
 ## Store Pages
 
@@ -191,8 +223,8 @@
   Updated: 2026-04-11T10:31:10Z
 - [Kussens op maat samenstellen | Binnen 7 dagen geleverd](https://perfectpillows.nl/pages/kussen-configureren): 
   Updated: 2026-04-11T09:30:24Z
-- [Levertijd en retourneren | Kussens op maat](https://perfectpillows.nl/pages/levering-retourneren): 
-  Updated: 2026-04-11T10:30:36Z
+- [Levertijd en retourneren | Kussens op maat](https://perfectpillows.nl/pages/levering-retourneren): Levertijd Alle kussens worden volledig op maat gemaakt in ons atelier in Amsterdam. Dankzij onze efficiënte productie leveren we jouw bestelling bi...
+  Updated: 2026-08-29T21:31:28Z
 - [Onderhoud en garantie Perfect Pillows| Kussens op maat](https://perfectpillows.nl/pages/onderhoud-garantie): 
   Updated: 2026-04-11T10:32:31Z
 - [Meetinstructie strakke kussens](https://perfectpillows.nl/pages/meetinstructie-strakke-kussens): Ga je het strakke kussen als zitkussen gebruiken? Meet dan de lengte en diepte van het zitvlak van de bank of stoel op. Bepaald vervolgens of je 1 ...
@@ -225,17 +257,25 @@
   Updated: 2026-05-04T20:28:08Z
 - [Inspiratie](https://perfectpillows.nl/pages/inspiratie): 
   Updated: 2026-05-05T21:07:58Z
+- [Meetinstructie zitkussens](https://perfectpillows.nl/pages/meetinstructie-zitkussens): Ga je een strak kussen als zitkussen gebruiken? Meet dan de lengte en diepte van het zitvlak van de bank of stoel op. Bepaald vervolgens of je 1 of...
+  Updated: 2026-08-29T21:17:59Z
+- [PerfectPillows l Afspraak maken](https://perfectpillows.nl/pages/afspraak-maken): 
+  Updated: 2026-09-09T19:45:49Z
+- [Offerte aanvragen](https://perfectpillows.nl/pages/offerte-aanvragen): 
+  Updated: 2026-09-09T19:47:43Z
+- [Kussenadvies](https://perfectpillows.nl/pages/kussenadvies)
+  Updated: 2026-09-29T13:01:19Z
 
 ## Policies
 
 - [Privacy Policy](https://perfectpillows.nl/policies/privacy-policy)
-  Updated: 2026-03-18T10:31:40+01:00
+  Updated: 2026-03-18T09:31:40Z
 - [Refund Policy](https://perfectpillows.nl/policies/refund-policy)
-  Updated: 2026-04-03T21:03:18+02:00
+  Updated: 2026-04-03T19:03:18Z
 - [Terms of Service](https://perfectpillows.nl/policies/terms-of-service)
-  Updated: 2026-04-03T21:12:07+02:00
+  Updated: 2026-04-03T19:12:07Z
 - [Contact Information](https://perfectpillows.nl/policies/contact-information)
-  Updated: 2026-03-29T16:38:43+02:00
+  Updated: 2026-03-29T14:38:43Z
 
 ## Optional
 
