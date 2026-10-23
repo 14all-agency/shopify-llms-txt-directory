@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-10-12T00:00:29.948Z
+- Updated At: 2026-10-23T00:34:47.207Z
 
 ## Collections
 
@@ -235,6 +235,26 @@
     Updated: 2026-10-09T09:07:40Z
     Author: RentPromise Team
     Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off management, housing association lease , housing association leases, income, long-term rent, no void social housing , property, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living housing, supported living , supported living   r
+  - [ Rent Scheme UK: Ensuring Stability for Landlords](https://rentpromise.co.uk/blogs/news/-rent-scheme-uk-ensuring-stability-for-landlords):  Rent Scheme UK: Ensuring Stability for Landlords
+    Updated: 2026-10-12T09:10:14Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off rental solutions, housing, housing association lease , leasing, no void social housing , property management, rent, social housing  uk, social housing  with guarantee, social housing lease , social housing leases, specialist supported housing , supported living, supported living , supported living   r
+  - [Unlocking Passive Income: Social Housing  with  Rent UK](https://rentpromise.co.uk/blogs/news/unlocking-passive-income-social-housing--with--rent-uk): Unlocking Passive Income: Social Housing  with  Rent UK
+    Updated: 2026-10-14T09:08:33Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent schemes,  rent social housing investmen,  rent uk, housing, housing association lease , no void social housing , passive income opportunities, property, property management services, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Hands-Off Property Management: Streamlining Landlord Responsibilities in the UK](https://rentpromise.co.uk/blogs/news/hands-off-property-management-streamlining-landlord-responsibilities-in-the-uk): Hands-Off Property Management: Streamlining Landlord Responsibilities in the UK
+    Updated: 2026-10-16T09:07:35Z
+    Author: RentPromise Team
+    Tags:  income,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off property management, housing, housing association lease , management, no void social housing , property leasing, rent, social housing  uk, social housing  with guarantee, social housing lease , social housing solutions, specialist supported housing , supported living, supported living , supported living   r
+  - [Supported Living : Guaranteeing Rent and Reducing Risks](https://rentpromise.co.uk/blogs/news/supported-living--guaranteeing-rent-and-reducing-risks): Supported Living : Guaranteeing Rent and Reducing Risks
+    Updated: 2026-10-19T09:09:23Z
+    Author: RentPromise Team
+    Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing association lease , housing association leasing strategies, leasing, no void social housing , property management, risk reduction in supported living inves, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r, tenancy
+  - [Housing Association Lease  UK: A Strategic Approach](https://rentpromise.co.uk/blogs/news/housing-association-lease--uk-a-strategic-approach): Housing Association Lease  UK: A Strategic Approach
+    Updated: 2026-10-21T09:07:42Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease, housing association lease , , no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r, uk landlord solutions
 
 ## Store Pages
 
@@ -326,11 +346,11 @@
 ## Policies
 
 - [Privacy Policy](https://rentpromise.co.uk/policies/privacy-policy)
-  Updated: 2025-10-06T15:11:52+01:00
+  Updated: 2025-10-06T14:11:52Z
 - [Terms of Service](https://rentpromise.co.uk/policies/terms-of-service)
-  Updated: 2026-03-31T16:40:01+01:00
+  Updated: 2026-03-31T15:40:01Z
 - [Contact Information](https://rentpromise.co.uk/policies/contact-information)
-  Updated: 2026-03-31T16:40:24+01:00
+  Updated: 2026-03-31T15:40:24Z
 
 ## Optional
 
