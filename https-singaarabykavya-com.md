@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-10-02T00:00:44.665Z
+- Updated At: 2026-10-23T00:55:27.341Z
 
 ## Products
 
@@ -79,7 +79,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Black and White Cotton Seersucker Neelambari Maxi Dress For Women](https://singaarabykavya.com/products/black-white-cotton-seersucker-neelambari-maxi-dress): Discover Black and White Cotton Seersucker Neelambari Maxi Dress For Women for breathable comfort & timeless elegance. Shop now today!
-  Updated: 2026-08-10T03:19:54Z
+  Updated: 2026-10-11T14:16:47Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -205,7 +205,7 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [Orange Cotton Seersucker Vandana Midi Dress For Women](https://singaarabykavya.com/products/orange-cotton-seersucker-vandana-midi-dress): Buy Orange Cotton Seersucker Vandana Midi Dress for Women crafted for breathable comfort, classic charm & everyday elegance. Shop now today!
-  Updated: 2026-08-08T07:59:12Z
+  Updated: 2026-10-10T12:01:22Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -227,7 +227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06859.jpg?v=1770637620
     Price: ₹2,200.00 INR
   - [2XL](https://singaarabykavya.com/products/orange-cotton-seersucker-vandana-midi-dress?variant=47378550259933)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06859.jpg?v=1770637620
     Price: ₹2,200.00 INR
 - [Brick Red Cotton Medha Dress For Women](https://singaarabykavya.com/products/brick-red-cotton-medha-dress): Buy Brick Red Cotton Medha Dress For Women for breathable cotton comfort, relaxed elegance & handcrafted style. Shop your favourite today!
@@ -278,7 +278,7 @@
     Availability: Available
     Price: ₹2,499.00 INR
 - [Green Cotton Varsha Scallop Skirt For Women](https://singaarabykavya.com/products/green-cotton-varsha-scallop-skirt): Shop Green Cotton Varsha Scallop Skirt For Women with vibrant prints, scalloped detailing, soft cotton comfort & pockets. Order today now!
-  Updated: 2026-09-20T12:11:26Z
+  Updated: 2026-10-10T11:56:48Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Off White Cotton Kamana Scallop Skirt For Women](https://singaarabykavya.com/products/off-white-cotton-kamana-scallop-skirt): Buy Off White Cotton Kamana Scallop Skirt For Women featuring breathable cotton, elegant scallops & all-day comfort. Shop yours today!
-  Updated: 2026-08-07T07:10:22Z
+  Updated: 2026-10-10T11:56:08Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -341,7 +341,7 @@
     Availability: Available
     Price: ₹1,700.00 INR
 - [Blue Handwoven Kala Cotton Jala Midi Skirt For Women](https://singaarabykavya.com/products/blue-handwoven-kala-cotton-jala-midi-skirt): Shop Blue Handwoven Kala Cotton Jala Midi Skirt For Women made with sustainable Kala cotton. Order today for timeless handcrafted style!
-  Updated: 2026-08-07T07:08:02Z
+  Updated: 2026-10-11T06:40:26Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Available
     Price: ₹2,200.00 INR
 - [Multi Color Handloom Cotton Gowri Halter Top For Women](https://singaarabykavya.com/products/multi-color-handloom-cotton-gowri-halter-top): Discover Multi Color Handloom Cotton Gowri Halter Top For Women with breathable handloom cotton. Shop now for effortless everyday elegance!
-  Updated: 2026-08-07T07:05:37Z
+  Updated: 2026-10-10T11:57:56Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -488,13 +488,13 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Purple Handloom Cotton Jaanki Crop Top For Women](https://singaarabykavya.com/products/purple-handloom-cotton-jaanki-crop-top): Buy Purple Handloom Cotton Jaanki Crop Top For Women crafted from breathable handloom cotton for comfort, style & everyday elegance today!
-  Updated: 2026-08-07T07:02:03Z
+  Updated: 2026-10-11T10:26:07Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06287_cc8ee61f-b237-4458-94cd-f0a3f30bc2aa.jpg?v=1770786508
   - [S](https://singaarabykavya.com/products/purple-handloom-cotton-jaanki-crop-top?variant=47382738501853)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,600.00 INR
   - [M](https://singaarabykavya.com/products/purple-handloom-cotton-jaanki-crop-top?variant=47382738534621)
     Availability: Available
@@ -530,7 +530,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Brown Cotton Linen Urvi Crop Top For Women](https://singaarabykavya.com/products/brown-cotton-linen-urvi-crop-top): Shop Brown Cotton Linen Urvi Crop Top For Women featuring breathable cotton linen, relaxed comfort & timeless elegance. Order today online!
-  Updated: 2026-08-07T07:11:16Z
+  Updated: 2026-10-10T12:04:06Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -739,15 +739,15 @@
 ## Policies
 
 - [Privacy Policy](https://singaarabykavya.com/policies/privacy-policy)
-  Updated: 2026-08-01T08:33:55+05:30
+  Updated: 2026-08-01T03:03:55Z
 - [Shipping Policy](https://singaarabykavya.com/policies/shipping-policy)
-  Updated: 2026-08-01T08:34:40+05:30
+  Updated: 2026-08-01T03:04:40Z
 - [Refund Policy](https://singaarabykavya.com/policies/refund-policy)
-  Updated: 2026-08-01T08:32:30+05:30
+  Updated: 2026-08-01T03:02:30Z
 - [Terms of Service](https://singaarabykavya.com/policies/terms-of-service)
-  Updated: 2026-08-01T08:32:07+05:30
+  Updated: 2026-08-01T03:02:07Z
 - [Contact Information](https://singaarabykavya.com/policies/contact-information)
-  Updated: 2026-08-01T08:46:37+05:30
+  Updated: 2026-08-01T03:16:37Z
 
 ## Optional
 
