@@ -10,7 +10,7 @@
 - Contact Email: shop@iqjersey.com
 - Contact Phone: +44 1534 769320
 - Address: iQ Music and Computer Solutions Ltd, 54-60 King Street, Saint Helier, JE4 8NB, Jersey
-- Updated At: 2026-09-25T00:00:33.456Z
+- Updated At: 2026-10-23T00:36:59.360Z
 
 ## What We 
 
@@ -56,21 +56,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/D9A30C79-03AC-4159-B8E5-2409E7F6.png?v=1742552223
   Price: £23.50 GBP
 - [Belkin Boost Charge 3-in-1 Qi Charger - Black](https://iqjersey.com/products/belkin-boost-charge-3-in-1-qi-charger-black)
-  Updated: 2026-09-05T11:06:06Z
+  Updated: 2026-10-01T11:22:21Z
   Vendor: Belkin
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/BD52D6B3-DBA6-41B1-9A5F-34989493.png?v=1742552221
   Price: £87.50 GBP
 - [Belkin Boost Charge Braided USB-C to Lightning Cable - 2m - White](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-lightning-cable-2m-white)
-  Updated: 2026-09-05T15:50:47Z
+  Updated: 2026-10-16T18:00:28Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/E892122A-EBC6-49EA-A04E-A561836C.png?v=1742552219
   Price: £20.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable - 1m - White](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable-1m-white)
-  Updated: 2026-09-16T14:34:56Z
+  Updated: 2026-10-22T18:00:23Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
@@ -84,14 +84,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/99CC9C0B-6758-47F0-B6F7-A28D2D56.png?v=1742552216
   Price: £29.50 GBP
 - [Apple Watch Magnetic Charging Cable (2 m)](https://iqjersey.com/products/apple-watch-magnetic-charging-cable-2-m-mw6a3zm-a): We wanted to make charging your Apple Watch utterly effortless. So we arrived at a solution that combines our MagSafe technology with inductive charging. It’s a completely sealed system free of exposed contacts. And it’s very forgiving, requiring no precise alignment. You simply hold the connector near the back of the watch, where magnets cause it to snap into place automatically.
-  Updated: 2026-09-22T18:03:39Z
+  Updated: 2026-10-19T18:04:26Z
   Vendor: Apple
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-5648955.png?v=1742552119
   Price: £27.00 GBP
 - [13-inch iPad Pro Wi-Fi 2TB Standard Glass - Silver (M4)](https://iqjersey.com/products/13-inch-ipad-pro-m4-mvx93nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:46:26Z
+  Updated: 2026-10-12T16:13:41Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -126,14 +126,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317199.jpg?v=1742552088
   Price: £656.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Starlight (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwn3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:24Z
+  Updated: 2026-10-13T12:40:28Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196088.jpg?v=1742552084
   Price: £687.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Blue (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwr3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:24Z
+  Updated: 2026-10-13T12:39:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -147,7 +147,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666245.png?v=1742552071
   Price: £43.50 GBP
 - [13-inch iPad Pro Wi-Fi 256GB Standard Glass - Space Black (M4)](https://iqjersey.com/products/13-inch-ipad-pro-m4-mvx23nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:46:24Z
+  Updated: 2026-10-12T16:12:12Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -217,14 +217,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666729.png?v=1742551968
   Price: £87.00 GBP
 - [iPhone 16 Clear Case with MagSafe](https://iqjersey.com/products/iphone-16-clear-case-with-magsafe-ma6a4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-12T15:14:16Z
+  Updated: 2026-10-22T18:03:19Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666089.png?v=1742551966
   Price: £43.50 GBP
 - [iPhone 16 Silicone Case with MagSafe - Denim](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy23zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-08-07T13:23:14Z
+  Updated: 2026-10-05T09:56:26Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -238,7 +238,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526673.png?v=1742551959
   Price: £43.00 GBP
 - [iPhone 16 Plus 256GB Black](https://iqjersey.com/products/iphone-16-mxwn3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-10T09:48:14Z
+  Updated: 2026-10-01T23:46:54Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -273,7 +273,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666885.png?v=1742551927
   Price: £87.00 GBP
 - [11-inch iPad Pro Wi-Fi 512GB Standard Glass - Silver (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvd3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:46:24Z
+  Updated: 2026-10-12T16:10:03Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -301,19 +301,19 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666134.png?v=1742551904
   Price: £43.50 GBP
 - [iPad mini Wi-Fi + Cellular 256GB - Purple (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpy3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:35Z
+  Updated: 2026-10-14T08:02:01Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317199_066746cc-6fda-44b3-8165-1e569bbddbaf.jpg?v=1742551899
   Price: £743.00 GBP
 - [iPhone 15 Plus 128GB Yellow](https://iqjersey.com/products/iphone-15-mu123zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-03-13T19:04:14Z
+  Updated: 2026-10-12T08:02:19Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892874_e9a11d1e-1af8-411b-80b3-fdb7e99f2ff6.jpg?v=1742551897
-  Price: £699.00 GBP
+  Price: £630.00 GBP
 - [iPhone 15 128GB Yellow](https://iqjersey.com/products/iphone-15-mtp23zd-a): iPhone 15 brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
   Updated: 2026-05-13T14:34:44Z
   Vendor: Apple
@@ -322,28 +322,28 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892882.jpg?v=1742551893
   Price: £512.00 GBP
 - [iPad mini Wi-Fi 128GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxn83nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-09-05T12:04:56Z
+  Updated: 2026-10-14T08:00:57Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317244.jpg?v=1742551880
   Price: £525.00 GBP
 - [iPhone 16 128GB Black](https://iqjersey.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-24T18:02:47Z
+  Updated: 2026-10-14T18:03:28Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778134_b5097ee8-b9c7-4a08-b013-da4f43443714.jpg?v=1742551868
   Price: £700.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Fuchsia](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy53zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-09-01T11:52:48Z
+  Updated: 2026-10-05T09:56:29Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666233.png?v=1742551863
   Price: £43.50 GBP
 - [iPhone 16 128GB White](https://iqjersey.com/products/iphone-16-mye93qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-17T12:13:56Z
+  Updated: 2026-10-09T09:02:49Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -357,21 +357,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14667002.png?v=1742551841
   Price: £175.00 GBP
 - [iPad mini Wi-Fi + Cellular 512GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myhd3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:34Z
+  Updated: 2026-10-14T07:59:36Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317177.jpg?v=1742551818
   Price: £918.00 GBP
 - [11-inch iPad Pro Wi-Fi 2TB Standard Glass - Silver (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvh3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:46:23Z
+  Updated: 2026-10-12T16:08:21Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13192243_01e021cb-84d6-46c2-9544-2e91f0b23d84.jpg?v=1742551810
   Price: £1,550.00 GBP
 - [iPad mini Wi-Fi + Cellular 512GB - Purple (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myhf3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:35Z
+  Updated: 2026-10-18T22:07:36Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -399,7 +399,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196108.jpg?v=1742551776
   Price: £731.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Space Grey (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwl3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:22Z
+  Updated: 2026-10-13T12:38:21Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -413,7 +413,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526561.png?v=1742551768
   Price: £43.00 GBP
 - [iPhone 16 128GB Ultramarine](https://iqjersey.com/products/iphone-16-myec3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-15T10:32:56Z
+  Updated: 2026-10-02T10:50:12Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -427,14 +427,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892842.jpg?v=1742551749
   Price: £962.00 GBP
 - [iPad mini Wi-Fi + Cellular 128GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpq3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:35Z
+  Updated: 2026-10-14T13:24:37Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317243.jpg?v=1742551745
   Price: £656.00 GBP
 - [iPad mini Wi-Fi + Cellular 256GB - Space Grey (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpt3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:35Z
+  Updated: 2026-10-14T07:55:20Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -448,7 +448,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666114.png?v=1742551727
   Price: £43.50 GBP
 - [iPad mini Wi-Fi + Cellular 256GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpw3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:34Z
+  Updated: 2026-10-14T19:54:23Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -476,35 +476,35 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526766.png?v=1742551711
   Price: £43.00 GBP
 - [iPhone 16 Plus 256GB Teal](https://iqjersey.com/products/iphone-16-mxy53qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-10T09:48:41Z
+  Updated: 2026-10-01T23:38:50Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778174_f197becd-7b4f-4746-bbad-8738e20768aa.jpg?v=1742551709
   Price: £775.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Purple (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwu3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:21Z
+  Updated: 2026-10-14T00:37:29Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196069_c592ecfa-829e-4b37-94f5-10f95b07a7d0.jpg?v=1766473154
   Price: £862.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Purple (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2t3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:19Z
+  Updated: 2026-10-14T01:36:03Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196148_f67645e6-3fab-4d5a-8d62-8df99d371537.jpg?v=1742551666
   Price: £1,038.00 GBP
 - [iPad mini Wi-Fi 512GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myh13nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:34Z
+  Updated: 2026-10-14T19:53:21Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317178.jpg?v=1742551659
   Price: £787.00 GBP
 - [11-inch iPad Pro Wi-Fi 512GB Standard Glass - Space Black (M4)](https://iqjersey.com/products/11-inch-ipad-pro-m4-mvvc3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:46:19Z
+  Updated: 2026-10-13T04:04:57Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -517,15 +517,8 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526870.png?v=1742551648
   Price: £43.00 GBP
-- [Apple Watch Series 10 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - M/L](https://iqjersey.com/products/apple-watch-series-10-sport-band-mwwj3qa-a): Meet Apple Watch Series 10. A bigger display with more screen area and a thinner, lighter design. Get advanced fitness and health features with Sleep Apnoea Notifications, plus faster charging.
-  Updated: 2026-05-14T23:51:20Z
-  Vendor: Apple
-  Product Type: Apple Watch
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14853232.jpg?v=1742551647
-  Price: £280.00 GBP
 - [Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)](https://iqjersey.com/products/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m-mt0h3zm-a): Durable, woven cable with fast-charging capabilities for selected Apple Watch models. Simply hold the connector near the back of the watch, where magnets cause it to snap into place automatically.
-  Updated: 2026-09-08T14:30:16Z
+  Updated: 2026-10-08T18:03:34Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
@@ -539,14 +532,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892858.jpg?v=1742551618
   Price: £962.00 GBP
 - [iPad mini Wi-Fi + Cellular 512GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myhe3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:34Z
+  Updated: 2026-10-14T19:52:00Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317243_48055864-b14a-4ad3-88c7-0a3a29683738.jpg?v=1742551614
   Price: £918.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Space Grey (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2p3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:18Z
+  Updated: 2026-10-14T01:35:09Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -574,28 +567,28 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892842_2b077d2f-2d3b-4d56-b89a-a8cfd7837b88.jpg?v=1742551545
   Price: £787.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Starlight (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2r3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:18Z
+  Updated: 2026-10-14T01:34:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196168_d0a99699-670f-47a1-aa7e-cb638a1de9d3.jpg?v=1742551530
   Price: £1,038.00 GBP
 - [AirPods Max - Midnight](https://iqjersey.com/products/airpods-max-mww43zm-a): AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.
-  Updated: 2026-08-24T12:43:04Z
+  Updated: 2026-10-21T21:50:07Z
   Vendor: Apple
   Product Type: AirPods
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14772793.jpg?v=1742551500
   Price: £437.00 GBP
 - [iPhone 16 Plus 128GB Black](https://iqjersey.com/products/iphone-16-mxvu3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-16T14:49:37Z
+  Updated: 2026-10-01T22:55:34Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778154_d78a5268-b131-43a7-9059-20a7538d3a3a.jpg?v=1742551490
   Price: £687.00 GBP
 - [iPad mini Wi-Fi + Cellular 512GB - Space Grey (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myhc3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:34Z
+  Updated: 2026-10-14T19:46:20Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -609,7 +602,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526763.png?v=1742551471
   Price: £43.00 GBP
 - [iPad mini Wi-Fi + Cellular 128GB - Space Grey (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpn3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:33Z
+  Updated: 2026-10-14T19:45:31Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -623,26 +616,19 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892824_70467617-985b-4471-8f3c-b27a6be71f6f.jpg?v=1742551467
   Price: £875.00 GBP
 - [iPad mini Wi-Fi 128GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxn73nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:33Z
+  Updated: 2026-10-14T19:43:14Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317178_13751787-3963-4747-94bb-a2237eeec7d2.jpg?v=1742551462
   Price: £525.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Ultramarine](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-myy63zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-08-22T12:10:27Z
+  Updated: 2026-10-05T09:56:36Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666263.png?v=1742551442
   Price: £43.50 GBP
-- [AirPods Max - Orange](https://iqjersey.com/products/airpods-max-mww73zm-a): AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.
-  Updated: 2026-08-24T12:43:04Z
-  Vendor: Apple
-  Product Type: AirPods
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14772802.jpg?v=1742551440
-  Price: £437.00 GBP
 - [iPhone 16 Plus Clear Case with MagSafe](https://iqjersey.com/products/iphone-16-plus-clear-case-with-magsafe-ma7d4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 Plus while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-09-17T09:59:33Z
   Vendor: Apple
@@ -658,7 +644,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14853252_3d09d925-0f56-4ca3-a8de-05e0fa44afd9.jpg?v=1742551408
   Price: £280.00 GBP
 - [iPhone 16 128GB Pink](https://iqjersey.com/products/iphone-16-myea3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-21T18:03:06Z
+  Updated: 2026-10-01T22:48:22Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -672,7 +658,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14667077.png?v=1742551391
   Price: £175.00 GBP
 - [iPad mini Wi-Fi 256GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxnd3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-09-23T14:44:36Z
+  Updated: 2026-10-14T19:42:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -686,14 +672,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666065.png?v=1742551384
   Price: £53.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Blue (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv2q3nf-a): The 13 inch iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13 inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:17Z
+  Updated: 2026-10-16T11:53:35Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196138_421b7a00-03da-4582-b85f-6099587aaffa.jpg?v=1742551383
   Price: £1,038.00 GBP
 - [iPad mini Wi-Fi 512GB - Purple (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myh33nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-09-16T14:56:15Z
+  Updated: 2026-10-14T19:41:20Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -721,21 +707,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892866_8f0967b1-7f55-440e-8502-d9eb01e0d418.jpg?v=1742551371
   Price: £962.00 GBP
 - [iPhone 16 Plus 128GB White](https://iqjersey.com/products/iphone-16-mxvv3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-19T18:02:48Z
+  Updated: 2026-10-01T23:00:35Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778194_cb20f2be-0034-435d-90d2-9ef87a4b7c2d.jpg?v=1742551366
   Price: £687.00 GBP
 - [iPhone 16 128GB Teal](https://iqjersey.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-18T12:53:36Z
+  Updated: 2026-10-21T15:21:18Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778204_fc40211a-e4e7-44e1-a78b-ffc61f1e1ad7.jpg?v=1742551358
   Price: £700.00 GBP
 - [iPad mini Wi-Fi 256GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxnc3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:32Z
+  Updated: 2026-10-14T19:40:36Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -797,13 +783,6 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14854459_180a19a8-7dd8-4b26-869f-ff7645459e89.jpg?v=1742551273
   Price: £193.00 GBP
-- [AirPods 4 with Active Noise Cancellation](https://iqjersey.com/products/airpods-4-with-active-noise-cancellation-mxp93zm-a): AirPods 4 with Active Noise Cancellation — featuring a totally transformed audio experience with Adaptive Audio and Transparency mode, and an updated fit for all-day comfort.
-  Updated: 2026-09-18T13:20:24Z
-  Vendor: Apple
-  Product Type: AirPods
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14777843.jpg?v=1742551269
-  Price: £114.00 GBP
 - [iPhone 15 Plus 256GB Yellow](https://iqjersey.com/products/iphone-15-mu1d3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
   Updated: 2026-03-13T19:04:50Z
   Vendor: Apple
@@ -826,14 +805,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892808_16870114-cbfd-473a-ad58-83ec5800b7df.jpg?v=1742551251
   Price: £875.00 GBP
 - [iPad mini Wi-Fi 256GB - Purple (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxne3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:32Z
+  Updated: 2026-10-14T19:39:43Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317200_02e1ba1b-7edb-46e6-8cae-f680f31951d1.jpg?v=1742551245
   Price: £612.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Purple (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwp3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:16Z
+  Updated: 2026-10-14T00:36:55Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -854,21 +833,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666930.png?v=1742551229
   Price: £87.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Blue (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwm3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:16Z
+  Updated: 2026-10-14T00:36:07Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-13196058_19c3eb54-d19b-4304-a336-bfbc957a98e1.jpg?v=1742551225
   Price: £687.00 GBP
 - [iPhone 16 Plus 256GB Ultramarine](https://iqjersey.com/products/iphone-16-mxy23qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-23T12:02:03Z
+  Updated: 2026-10-01T23:30:01Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778184_4a4caac5-7192-46d4-9075-26eee1cd0abf.jpg?v=1742551215
   Price: £775.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Space Grey (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwq3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:15Z
+  Updated: 2026-10-14T00:36:57Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -882,7 +861,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666954.png?v=1742551186
   Price: £87.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Starlight (M2)](https://iqjersey.com/products/11-inch-ipad-air-m2-muwt3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:15Z
+  Updated: 2026-10-14T00:31:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -903,14 +882,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14666933.png?v=1742551179
   Price: £87.00 GBP
 - [iPad mini Wi-Fi 512GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-myh23nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:32Z
+  Updated: 2026-10-14T19:39:14Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317244_83d2d8e6-12ee-4b46-8d32-2c1ee622b0de.jpg?v=1742551172
   Price: £787.00 GBP
 - [iPad mini Wi-Fi 512GB - Space Grey (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mygy3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:32Z
+  Updated: 2026-10-14T19:38:42Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -924,28 +903,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526552.png?v=1742551161
   Price: £43.00 GBP
 - [iPad mini Wi-Fi + Cellular 256GB - Starlight (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpx3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:31Z
+  Updated: 2026-10-14T19:38:31Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317243_cdf457bf-32c2-412e-bd38-3e6d00b8a028.jpg?v=1742551159
   Price: £743.00 GBP
-- [AirPods Max - Starlight](https://iqjersey.com/products/airpods-max-mww53zm-a): AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.
-  Updated: 2026-08-24T12:43:04Z
-  Vendor: Apple
-  Product Type: AirPods
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14772820.jpg?v=1742551158
-  Price: £437.00 GBP
 - [iPad mini Wi-Fi 128GB - Purple (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxn93nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:31Z
+  Updated: 2026-10-14T19:23:57Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15317200_64de18b0-a37f-4fa1-8eb1-b5c6ff817db0.jpg?v=1742551144
   Price: £525.00 GBP
 - [13-inch iPad Pro Wi-Fi 256GB Standard Glass - Silver (M4)](https://iqjersey.com/products/13-inch-ipad-pro-m4-mvx33nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
-  Updated: 2026-09-22T08:57:48Z
+  Updated: 2026-10-21T19:58:12Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -973,14 +945,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526742.png?v=1742551131
   Price: £43.00 GBP
 - [iPhone 16 Plus 256GB Pink](https://iqjersey.com/products/iphone-16-mxy13qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-09-10T09:48:30Z
+  Updated: 2026-10-01T23:34:12Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-14778164_012b6db2-7771-4062-9fd8-9b4648f4e438.jpg?v=1742551126
   Price: £775.00 GBP
 - [13-inch iPad Air Wi-Fi + Cellular 128GB - Space Grey (M2)](https://iqjersey.com/products/13-inch-ipad-air-m2-mv6q3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip.It features a stunning 13‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E and 5G capability. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-09-22T08:46:13Z
+  Updated: 2026-10-14T01:29:25Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -994,7 +966,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10892858_d53d64a7-882d-46f2-beaa-cedb3ce707df.jpg?v=1742551116
   Price: £787.00 GBP
 - [iPad mini Wi-Fi 256GB - Space Grey (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxna3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:31Z
+  Updated: 2026-10-14T19:22:24Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1008,7 +980,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526670.png?v=1742551091
   Price: £43.00 GBP
 - [EarPods (USB-C)](https://iqjersey.com/products/earpods-usb-c-myqy3zm-a): Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.
-  Updated: 2026-09-17T09:53:47Z
+  Updated: 2026-10-22T22:31:57Z
   Vendor: Apple
   Product Type: Audio
   Availability: Available
@@ -1022,7 +994,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-10526824.png?v=1742551074
   Price: £43.00 GBP
 - [iPad mini Wi-Fi + Cellular 128GB - Blue (A17 Pro)](https://iqjersey.com/products/ipad-mini-a17-pro-mxpp3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:45:31Z
+  Updated: 2026-10-14T19:21:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1043,14 +1015,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/373cc234-116d-59b6-b9a8-ae2f92c35338_m_jpg_1.jpg?v=1742551053
   Price: £613.00 GBP
 - [iPhone 16e 512GB Black](https://iqjersey.com/products/iphone-16e-md1x4qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
-  Updated: 2026-09-16T14:59:42Z
+  Updated: 2026-09-25T15:56:28Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/83736d9f-dd3d-57a2-bcf4-2668b975f66d_m_jpg_1.jpg?v=1742551050
   Price: £788.00 GBP
 - [iPhone 16e 256GB Black](https://iqjersey.com/products/iphone-16e-md1t4qn-a): iPhone 16e is built for Apple Intelligence and powered by the A18 chip. Shoot super-high-resolution photos with the 48MP Fusion camera. And with supersized battery life, you have more time to text, browse and more.
-  Updated: 2026-09-22T13:04:34Z
+  Updated: 2026-09-26T09:38:56Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1078,63 +1050,63 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/be8b9060-de2e-562c-9722-4a414d8e4cf9_m_jpg_1.jpg?v=1742551042
   Price: £32.00 GBP
 - [11-inch iPad Air Wi-Fi 128GB - Purple (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mca04kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-08-24T11:42:50Z
+  Updated: 2026-10-14T00:26:42Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745303.jpg?v=1742551038
   Price: £475.00 GBP
 - [Mac Studio: Apple M4 Max chip with 14‑core CPU and 32‑core GPU, 512GB SSD](https://iqjersey.com/products/mac-studio-mu963b-a): Mac Studio. The ultimate pro desktop with the phenomenal M4 Max chip. With massive memory, mind-bending graphics, next-level AI capabilities and superfast Thunderbolt 5 ports, Mac Studio is a powerhouse in a compact and quiet design. Built for Apple Intelligence.
-  Updated: 2026-09-03T15:58:22Z
+  Updated: 2026-10-09T20:46:30Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16740428.jpg?v=1742551036
   Price: £2,187.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-16T15:02:08Z
+  Updated: 2026-10-14T19:11:13Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744984.jpg?v=1742551034
   Price: £463.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Aquamarine](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-mdgp4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T11:47:48Z
+  Updated: 2026-10-05T09:56:57Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16714672_m_jpg_1.jpg?v=1742551019
   Price: £43.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md7h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:48Z
+  Updated: 2026-10-14T19:10:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744934.jpg?v=1742551013
   Price: £507.00 GBP
 - [iPad Wi-Fi + Cellular 256GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md7l4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-25T09:38:56Z
+  Updated: 2026-10-14T19:09:16Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744909.jpg?v=1742551009
   Price: £595.00 GBP
 - [iPad Wi-Fi + Cellular 256GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md7m4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:46Z
+  Updated: 2026-10-14T19:07:50Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744934_3925aafe-3b65-4bb1-8a64-aafabca26e1e.jpg?v=1742551004
   Price: £595.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Tangerine](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-mdgn4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-04-09T13:55:06Z
+  Updated: 2026-10-05T09:56:58Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16714693_m_jpg_1.jpg?v=1742551001
   Price: £43.00 GBP
 - [13-inch iPad Air Wi-Fi 1TB - Starlight (M3)](https://iqjersey.com/products/13-inch-ipad-air-m3-mcq24kn-a): The 13-inch iPad Air. Built for Apple Intelligence. Supercharged by the lightning-fast Apple M3 chip. It features a stunning Liquid Retina display, a 12MP Center Stage front camera for even better video calls, and blazing-fast Wi-Fi 6E. And it works with Apple Pencil Pro, Magic Keyboard and Smart Folio, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:42:45Z
+  Updated: 2026-10-14T01:28:19Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1147,22 +1119,29 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719732_m_jpg_1.jpg?v=1742550997
   Price: £43.00 GBP
+- [13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU, 256GB SSD - Starlight](https://iqjersey.com/products/13-inch-macbook-air-mw0y3b-a): The 13-inch MacBook Air with the M4 chip lets you fly through work and play. With Apple Intelligence, a brilliant Liquid Retina display, up to 18 hours of battery life and a strikingly thin and light design, it’s built to last and can take on just about anything, anywhere.
+  Updated: 2026-10-21T21:19:57Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16740246.jpg?v=1742550996
+  Price: £750.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-24T18:03:32Z
+  Updated: 2026-10-22T10:50:12Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992.jpg?v=1742550991
   Price: £376.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-19T15:39:04Z
+  Updated: 2026-10-21T18:03:54Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992_656097a7-7896-4cf8-b5a9-6f3cd7a567bc.jpg?v=1742550987
   Price: £463.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Purple (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mcau4kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-08-24T11:42:43Z
+  Updated: 2026-10-14T00:25:08Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1176,7 +1155,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719756_m_jpg_1.jpg?v=1742550983
   Price: £43.00 GBP
 - [11-inch iPad Air Wi-Fi 512GB - Space Grey (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mca74kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-08-24T11:42:43Z
+  Updated: 2026-10-14T00:24:51Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1190,147 +1169,154 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719774_m_jpg_1.jpg?v=1742550976
   Price: £43.00 GBP
 - [13-inch iPad Air Wi-Fi 512GB - Purple (M3)](https://iqjersey.com/products/13-inch-ipad-air-m3-mcny4kn-a): The 13-inch iPad Air. Built for Apple Intelligence. Supercharged by the lightning-fast Apple M3 chip. It features a stunning Liquid Retina display, a 12MP Center Stage front camera for even better video calls, and blazing-fast Wi-Fi 6E. And it works with Apple Pencil Pro, Magic Keyboard and Smart Folio, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:42:42Z
+  Updated: 2026-10-14T01:27:28Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745423_c0c59b25-303f-42d1-bf55-4b68cf188ec9.jpg?v=1742550973
   Price: £850.00 GBP
 - [iPad Wi-Fi 512GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md5c4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-24T14:45:57Z
+  Updated: 2026-10-14T18:59:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744984_c5e872c9-525a-4b2e-a5c6-5b5c5bf64f3f.jpg?v=1742550963
   Price: £638.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Peony](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-mdgm4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T11:47:30Z
+  Updated: 2026-10-05T09:56:47Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16714679_m_jpg_1.jpg?v=1742550962
   Price: £43.00 GBP
 - [13-inch iPad Air Wi-Fi 256GB - Blue (M3)](https://iqjersey.com/products/13-inch-ipad-air-m3-mcnp4kn-a): The 13-inch iPad Air. Built for Apple Intelligence. Supercharged by the lightning-fast Apple M3 chip. It features a stunning Liquid Retina display, a 12MP Center Stage front camera for even better video calls, and blazing-fast Wi-Fi 6E. And it works with Apple Pencil Pro, Magic Keyboard and Smart Folio, so you can multitask, study, work, play and create from anywhere.
-  Updated: 2026-08-24T11:42:42Z
+  Updated: 2026-10-14T01:25:40Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745413.jpg?v=1742550960
   Price: £787.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md7f4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-22T13:17:16Z
+  Updated: 2026-10-14T18:58:16Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744926.jpg?v=1742550958
   Price: £507.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md7g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:39Z
+  Updated: 2026-10-14T18:57:15Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744909_e6c203ee-4288-490c-807a-e71143747b89.jpg?v=1742550953
   Price: £507.00 GBP
 - [iPad Wi-Fi 512GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md4q4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-22T13:17:05Z
+  Updated: 2026-10-19T14:11:28Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744992_08598030-e9a4-4717-a21d-7f1f11233cc7.jpg?v=1742550950
   Price: £638.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-24T15:54:29Z
+  Updated: 2026-10-22T18:03:46Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744984_db0dcb3e-bf30-4ba9-8d18-bf397b1d9b29.jpg?v=1742550950
   Price: £376.00 GBP
 - [iPad Wi-Fi 512GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md4y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-23T15:45:47Z
+  Updated: 2026-10-14T18:53:02Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744976.jpg?v=1742550949
   Price: £638.00 GBP
+- [15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Starlight](https://iqjersey.com/products/15-inch-macbook-air-mw1k3b-a): The 15-inch MacBook Air with the M4 chip lets you fly through work and play. With Apple Intelligence, a spacious Liquid Retina display, up to 18 hours of battery life and a strikingly thin and light design, it’s built to last and can take on just about anything, anywhere.
+  Updated: 2026-10-21T21:18:17Z
+  Vendor: Apple
+  Product Type: Mac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16740292.jpg?v=1742550948
+  Price: £1,100.00 GBP
 - [iPad Wi-Fi + Cellular 512GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md7t4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:38Z
+  Updated: 2026-10-14T18:51:32Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917.jpg?v=1742550947
   Price: £770.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-16T08:52:15Z
+  Updated: 2026-10-14T18:50:34Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744976_3be7c5d7-1668-4235-91e4-67b7560dcb38.jpg?v=1742550940
   Price: £463.00 GBP
 - [iPad Wi-Fi + Cellular 512GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md7p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:36Z
+  Updated: 2026-10-14T18:48:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744926_25616940-6e3a-4b83-abce-3f2f43387b6e.jpg?v=1742550939
   Price: £770.00 GBP
 - [15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Starlight](https://iqjersey.com/products/15-inch-macbook-air-mc6k4b-a): The 15-inch MacBook Air with the M4 chip lets you fly through work and play. With Apple Intelligence, a spacious Liquid Retina display, up to 18 hours of battery life and a strikingly thin and light design, it’s built to last and can take on just about anything, anywhere.
-  Updated: 2026-03-20T19:06:09Z
+  Updated: 2026-10-21T09:18:05Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16740292_d57492d2-67c1-491d-af68-29a27ae61be7.jpg?v=1742550936
-  Price: £1,400.00 GBP
+  Price: £1,250.00 GBP
 - [iPad Wi-Fi + Cellular 256GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md7n4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:35Z
+  Updated: 2026-10-14T18:47:19Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917_bb3c173b-bb2b-4351-a61f-bf2794e0571c.jpg?v=1742550931
   Price: £595.00 GBP
 - [iPad Wi-Fi 128GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md4d4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-21T11:31:10Z
+  Updated: 2026-10-17T18:03:07Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745000.jpg?v=1742550929
   Price: £376.00 GBP
 - [iPhone 16 Silicone Case with MagSafe – Periwinkle](https://iqjersey.com/products/iphone-16-silicone-case-with-magsafe-mdgq4zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-23T11:47:48Z
+  Updated: 2026-10-05T09:57:05Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16714686_m_jpg_1.jpg?v=1742550929
   Price: £43.00 GBP
 - [iPad Wi-Fi + Cellular 512GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md7q4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-23T15:52:12Z
+  Updated: 2026-10-14T18:44:50Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744909_7d4ab23a-4716-4405-a8f4-6723460bfa57.jpg?v=1742550925
   Price: £770.00 GBP
 - [iPad Wi-Fi 512GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md5a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:34Z
+  Updated: 2026-10-14T18:43:51Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745000_17dd47bf-3507-4183-8970-06d1483b6cba.jpg?v=1742550922
   Price: £638.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Space Grey (M3)](https://iqjersey.com/products/11-inch-ipad-air-m3-mcah4kn-a): CONNECTIVITY — Wi-Fi 6E gives you fast wireless connections. Work from almost anywhere with quick transfers of photos, documents and large video files. Connect to external displays and more with the USB-C connector.
-  Updated: 2026-08-24T11:42:33Z
+  Updated: 2026-10-14T00:22:32Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16745313_12c12a41-7335-4a09-bf01-fe570e3d40c8.jpg?v=1742550921
   Price: £855.00 GBP
 - [iPad Wi-Fi + Cellular 128GB - Pink (A16)](https://iqjersey.com/products/2025-ipad-a16-md7j4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:33Z
+  Updated: 2026-10-14T18:42:51Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744917_22212ad5-6dc1-45b9-953a-dffaa49c1a4a.jpg?v=1742550920
   Price: £507.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqjersey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-24T12:36:57Z
+  Updated: 2026-10-22T10:50:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1344,14 +1330,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719726_m_jpg_1.jpg?v=1742550917
   Price: £43.00 GBP
 - [iPad Wi-Fi + Cellular 256GB - Silver (A16)](https://iqjersey.com/products/2025-ipad-a16-md7k4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:31Z
+  Updated: 2026-10-14T18:40:40Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744926_c631b3b7-bf0b-4d2e-877b-0104e3d73848.jpg?v=1742550912
   Price: £595.00 GBP
 - [iPad Wi-Fi 256GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md4j4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-09-24T10:48:37Z
+  Updated: 2026-10-14T18:37:55Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1365,21 +1351,21 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16719744_m_jpg_1.jpg?v=1742550898
   Price: £43.00 GBP
 - [iPad Wi-Fi + Cellular 512GB - Yellow (A16)](https://iqjersey.com/products/2025-ipad-a16-md7r4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6 and 5G, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-08-24T11:42:22Z
+  Updated: 2026-10-14T18:36:03Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-16744934_cf6775c5-8701-4be3-921f-78c64710652e.jpg?v=1742550882
   Price: £770.00 GBP
 - [Magic Keyboard for iPad Air](https://iqjersey.com/products/magic-keyboard-for-ipad-air)
-  Updated: 2026-09-11T15:00:50Z
+  Updated: 2026-10-17T12:18:57Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/637326FF-4683-4BC9-A1F0-DD3EF99454BA.jpg?v=1743592785
   Price: £236.00 GBP
 - [Smart Folio for iPad (A16)](https://iqjersey.com/products/smart-folio-for-ipad-a16)
-  Updated: 2026-08-22T08:16:30Z
+  Updated: 2026-10-12T11:47:42Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -1393,14 +1379,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/B63903A2-4FDD-4A17-8342-4E52F8EF9D4D.jpg?v=1743592796
   Price: £4,025.00 GBP
 - [Apple Pencil (2nd Generation)](https://iqjersey.com/products/apple-pencil-2nd-generation)
-  Updated: 2026-09-19T18:03:38Z
+  Updated: 2026-10-19T13:31:58Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/3FF065DE-98D5-448D-9288-6B966AFAC343.png?v=1743582114
   Price: £114.00 GBP
 - [Apple Pencil (1st Generation)](https://iqjersey.com/products/apple-pencil-1st-generation)
-  Updated: 2026-09-16T14:59:32Z
+  Updated: 2026-10-01T10:04:47Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -1421,14 +1407,14 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/C65444B4-05A8-47A5-950F-119A67AE5294.jpg?v=1743592807
   Price: £1,837.00 GBP
 - [Apple 16-inch MacBook Pro M4 Chip](https://iqjersey.com/products/apple-16-inch-macbook-pro-m4-chip): The 16‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 24 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-04-23T15:16:28Z
+  Updated: 2026-10-16T10:02:42Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367165_323814be-e339-4bd9-80c6-9786219d2f61.jpg?v=1747356663
-  Price: £2,187.00 GBP
+  Price: £1,999.00 GBP
 - [Smart Folio for iPad mini (A17 Pro)](https://iqjersey.com/products/smart-folio-for-ipad-mini-a17-pro)
-  Updated: 2026-09-23T14:56:57Z
+  Updated: 2026-10-01T10:09:47Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -1442,42 +1428,42 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK53.jpg?v=1745843949
   Price: £70.00 GBP
 - [Smart Folio for iPad Air](https://iqjersey.com/products/smart-folio-for-ipad-air)
-  Updated: 2026-09-16T14:46:08Z
+  Updated: 2026-10-05T11:46:32Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MWK53.jpg?v=1745843949
   Price: £70.00 GBP
 - [Magic Keyboard for iPad Pro](https://iqjersey.com/products/magic-keyboard-for-ipad-pro)
-  Updated: 2026-09-23T12:03:23Z
+  Updated: 2026-09-25T14:05:02Z
   Vendor: Apple
   Product Type: Magic Keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/A6EE7C71-936B-4B8E-AF4E-9BD98E7D4C32.jpg?v=1743592831
   Price: £263.00 GBP
 - [Apple Pencil Pro](https://iqjersey.com/products/apple-pencil-pro)
-  Updated: 2026-09-24T14:28:03Z
+  Updated: 2026-10-22T18:02:43Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/A9D768CB-B954-4A3D-AF62-429EBC4988D2.jpg?v=1743592835
   Price: £114.00 GBP
 - [Beats Solo Buds - True Wireless Earbuds](https://iqjersey.com/products/beats-solo-buds-true-wireless-earbuds): More than a little powerful. Featuring the tiniest case we’ve ever made, these mighty small earbuds are packed with incredibly big sound. Fully custom acoustic architecture Ergonomically angled acoustic nozzles for a natural fit Extended earbud battery life with up to 18 hours of playback¹ Compatible with both iOS and Android, including one-touch pairing² Designed for music first. The cleanly balanced tuning gives you the full range and emotion of all your favorite music with richly detailed clarity and power with accurate bass reproduction. Custom dual-layer drivers. Each earbud is powered by dual-layer transducers designed to minimize micro-distortions across the frequency curve, and purposefully positioned parallel with each acoustic nozzle to deliver sound directly to your ears. Laser-cut venting. Staying true to our music-first approach, the earbuds’ laser-cut vents were engineered to improve bass performance – and they also gently reduce air pressure for added comfort. Four eartip sizes. To optimize comfort and passive noise isolation for diverse ear types and shapes, Beats Solo Buds come with four eartip sizes — large, medium, small and extra-small. Battery all day. These tiny buds have all-day battery life with up to 18 hours of playback.¹ For extra power on the go, they can charge directly from your phone,³ tablet or laptop. And with Fast Fuel, a 5-minute charge gives up to 1 hour of playback.⁴ iOS and Android friendly. Beats Solo Buds are ready to pair with your Apple or Android device right out of the box. This native compatibility means seamless one-touch pairing, automatic pre-pairing across your devices, plus Find My or Find My Device, for everybody.² Crystal-clear calls Each earbud is equipped with a custom-designed microphone powered by an advanced noise-learning algorithm to help deliver exceptional call quality. Enjoy extended range with fewer dropouts thanks to industry-leading Class 1 Bluetooth®.
-  Updated: 2026-08-25T12:01:47Z
+  Updated: 2026-10-09T13:51:21Z
   Vendor: Beats
   Product Type: Beats Solo Buds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T124507.628.png?v=1745833523
   Price: £71.00 GBP
 - [Apple 14-inch Macbook Pro M3](https://iqjersey.com/products/apple-14-inch-macbook-pro-m3)
-  Updated: 2026-09-22T08:49:55Z
+  Updated: 2026-09-26T10:25:38Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_64_50434499-1520-4195-96dd-31e0c94b86ba.png?v=1745814229
   Price: £1,250.00 GBP
 - [Belkin Secure Holder with Strap for AirTag](https://iqjersey.com/products/belkin-secure-holder-with-strap-for-airtag): The Belkin Secure Holder with Strap is the perfect sidekick to your new AirTag. The strap is ultrastrong and easy to attach to your belongings, everything from a water bottle to your favorite backpack. Twist & Lock design ensures your AirTag is secured inside a protective shell. And thoughtful design maintains full visibility while the edges are slightly raised for advanced scratch protection. The Secure Holder firmly grips the edges of your AirTag while keeping the elegant design and your personalized engravings visible. Choose from four colors and personalize your look.
-  Updated: 2026-09-17T10:08:52Z
+  Updated: 2026-10-09T12:04:08Z
   Vendor: Belkin
   Product Type: Holder
   Availability: Available
@@ -1491,28 +1477,28 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/91F4098B-78FB-4289-839A-9C6633E51E59.jpg?v=1743592959
   Price: £20.00 GBP
 - [Belkin USB-C to USB A Adapter (USB 3.0)](https://iqjersey.com/products/belkin-usb-c-to-usb-a-adapter-usb-3-0-1)
-  Updated: 2026-09-18T18:00:16Z
+  Updated: 2026-10-09T12:01:25Z
   Vendor: Belkin
   Product Type: Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/E832A193-AA2B-490E-9169-68CE2E4EE075.jpg?v=1743593191
   Price: £14.50 GBP
 - [Apple USB-C to USB Adapter](https://iqjersey.com/products/apple-usb-c-to-usb-adapter)
-  Updated: 2026-09-23T18:03:14Z
+  Updated: 2026-10-21T18:03:09Z
   Vendor: Apple
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/MJ1M2.jpg?v=1745843615
   Price: £17.00 GBP
 - [Belkin Boost Charge 24w Dual USB-A Wall Charger](https://iqjersey.com/products/belkin-boost-charge-24w-dual-usb-a-wall-charger-1)
-  Updated: 2026-09-16T14:35:07Z
+  Updated: 2026-10-15T18:00:48Z
   Vendor: Belkin
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/21955423-20B8-4FCD-A122-0F3FC12ED2D7.jpg?v=1743593217
   Price: £16.00 GBP
 - [Belkin USB-C to HDMI + Charge Adapter](https://iqjersey.com/products/belkin-usb-c-to-hdmi-charge-adapter-1)
-  Updated: 2026-09-16T14:35:07Z
+  Updated: 2026-10-01T18:00:28Z
   Vendor: Belkin
   Product Type: Adapter
   Availability: Available
@@ -1540,7 +1526,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/71562B26-3E17-43EF-9A87-39106E7B7C75.jpg?v=1743593280
   Price: £29.00 GBP
 - [Satechi USB-C to Ethernet Adapter](https://iqjersey.com/products/satechi-usb-c-to-ethernet-adapter)
-  Updated: 2026-03-24T14:37:36Z
+  Updated: 2026-10-05T09:54:47Z
   Vendor: Apple
   Product Type: 
   Availability: Available
@@ -1554,154 +1540,147 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/3EE128DC-24BA-4F73-A1AC-DB486B5711EE.png?v=1743593303
   Price: £120.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 8-core CPU and 8-core GPU, 256GB SSD - Silver](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuc3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:04Z
+  Updated: 2026-10-19T13:28:24Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362467.jpg?v=1744051276
   Price: £1,312.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Green](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwv03b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:04Z
+  Updated: 2026-10-09T23:47:29Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362494.jpg?v=1744051282
   Price: £1,662.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 256GB SSD - Blue](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwv13b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:04Z
+  Updated: 2026-10-09T23:46:40Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362485.jpg?v=1744051286
   Price: £1,487.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Pink](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwv53b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-28T15:43:56Z
+  Updated: 2026-10-19T15:17:57Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362512.jpg?v=1744051287
   Price: £1,662.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Blue](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-md2t4b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:03Z
+  Updated: 2026-10-09T23:45:18Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362485_22c55e75-8c10-4da3-beea-eb4a959e1e3e.jpg?v=1744051289
   Price: £1,837.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 8-core CPU and 8-core GPU, 256GB SSD - Green](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwue3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:03Z
+  Updated: 2026-10-09T23:44:33Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362431.jpg?v=1744051291
   Price: £1,312.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Green](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-md2q4b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-09-10T14:34:57Z
+  Updated: 2026-10-09T23:43:53Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362494_6493b049-e219-4c54-8845-57e45d452f21.jpg?v=1744051292
   Price: £1,837.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 256GB SSD - Pink](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwv43b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-09-16T08:21:16Z
+  Updated: 2026-10-09T23:43:09Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362512_22e4e0bc-a9c9-4d30-9821-e779a92235f7.jpg?v=1744051294
   Price: £1,487.00 GBP
 - [14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU and 16-core GPU, 512GB SSD - Silver](https://iqjersey.com/products/14-inch-macbook-pro-m4-pro-mx2e3b-a): The 14‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 22 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-08-21T14:39:00Z
+  Updated: 2026-10-20T13:49:47Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367149_52059d16-d4a4-4498-abb6-40344bf76345.jpg?v=1744051294
-  Price: £1,699.00 GBP
+  Price: £1,499.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 8-core CPU and 8-core GPU, 256GB SSD - Pink](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwug3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-09-19T09:27:26Z
+  Updated: 2026-10-09T23:42:12Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362449.jpg?v=1744051301
   Price: £1,312.00 GBP
 - [14-inch MacBook Pro: Apple M4 Max chip with 14‑core CPU and 32‑core GPU, 1TB SSD - Silver](https://iqjersey.com/products/14-inch-macbook-pro-m4-max-mx2g3b-a): The 14‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 22 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-07-13T09:59:18Z
+  Updated: 2026-10-21T21:12:53Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367149_24306732-847d-43bb-8baf-2d3edaf9fa5a.jpg?v=1744051302
   Price: £2,699.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 256GB SSD , Nano-texture glass - Silver](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-md3h4b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:03Z
+  Updated: 2026-10-09T23:40:23Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362530.jpg?v=1744051303
   Price: £1,662.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Silver](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuv3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-09-19T13:11:59Z
+  Updated: 2026-10-09T23:38:53Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362530_5516c580-5241-4874-9a49-bb2fed055605.jpg?v=1744051308
   Price: £1,662.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 256GB SSD - Silver](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuu3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:03Z
+  Updated: 2026-10-20T11:10:56Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362530_ff6988ba-acd8-4f3c-ae7b-9cf1737d95a2.jpg?v=1744051310
   Price: £1,487.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Blue](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwv33b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-25T08:56:30Z
+  Updated: 2026-10-09T23:37:00Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362485_9d75c5e8-082a-45c7-bd6a-5c7425ac09ae.jpg?v=1744051312
   Price: £1,662.00 GBP
 - [16-inch MacBook Pro: Apple M4 Pro chip with 14‑core CPU and 20‑core GPU, 512GB SSD - Space Black](https://iqjersey.com/products/16-inch-macbook-pro-m4-pro-mx2x3b-a): The 16‑inch MacBook Pro with M4 Pro and M4 Max chips gives you outrageous performance in a powerhouse laptop built for Apple Intelligence. With up to 24 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-09-16T10:18:41Z
+  Updated: 2026-10-12T08:17:27Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367173_141cfde3-19f8-43af-80dd-fc0311ea98cd.jpg?v=1744051314
-  Price: £2,137.00 GBP
+  Price: £1,999.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 512GB SSD - Pink](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-md2u4b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displaying an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:02Z
+  Updated: 2026-10-09T23:35:54Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362512_54328acb-640d-49f3-b8ac-c82566393182.jpg?v=1744051322
   Price: £1,837.00 GBP
-- [14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU, 1TB SSD - Space Black](https://iqjersey.com/products/14-inch-macbook-pro-m4-mw2v3b-a): The 14‑inch MacBook Pro with M4 chip gives you spectacular performance in a powerhouse laptop built for Apple Intelligence. With up to 24 hours of battery life and a breathtaking Liquid Retina XDR display with up to 1,600 nits peak brightness, it’s pro in every way.
-  Updated: 2026-09-22T08:49:52Z
-  Vendor: Apple
-  Product Type: Mac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15367141_2372d6b1-0d65-46a4-827e-4e44527108db.jpg?v=1744051324
-  Price: £1,574.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 10-core CPU and 10-core GPU, 256GB SSD - Green](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuy3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:02Z
+  Updated: 2026-10-09T23:34:56Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362494_db370866-f961-46e2-9b4a-7f44c24ef234.jpg?v=1744051325
   Price: £1,487.00 GBP
 - [24-inch iMac with Retina 4.5K display: Apple M4 chip with 8-core CPU and 8-core GPU, 256GB SSD - Blue](https://iqjersey.com/products/24-inch-imac-with-retina-4-5k-display-m4-mwuf3b-a): iMac. The ultimate all-in-one desktop. Built for Apple Intelligence. Supercharged by the M4 chip, browsing and multitasking across apps feels snappier. With a stunning 24-inch 4.5K Retina displayin an iconic design, and advanced camera, mics and speakers. iMac is brilliant for work and play.
-  Updated: 2026-08-24T13:36:02Z
+  Updated: 2026-10-09T23:33:39Z
   Vendor: Apple
   Product Type: Mac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/IMG-15362422.jpg?v=1744051327
   Price: £1,312.00 GBP
 - [Belkin Boost Charge Braided USB-C to USB-C Cable - 1m - Black](https://iqjersey.com/products/belkin-boost-charge-braided-usb-c-to-usb-c-cable-1m-black)
-  Updated: 2026-09-23T09:08:48Z
+  Updated: 2026-10-09T18:00:39Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121208.467.png?v=1745831542
   Price: £13.00 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 1m - Black](https://iqjersey.com/products/belkin-boost-charge-braided-lightning-cable-1m-black)
-  Updated: 2026-09-16T14:34:37Z
+  Updated: 2026-10-14T18:00:43Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
@@ -1715,34 +1694,27 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121208.467.png?v=1745831542
   Price: £11.50 GBP
 - [Belkin Boost Charge Braided Lightning Cable - 1m - White](https://iqjersey.com/products/belkin-boost-charge-braided-lightning-cable-1m-white)
-  Updated: 2026-09-21T13:06:34Z
+  Updated: 2026-10-12T18:00:18Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/belkin_usb_a_lightning_braided_1m_white-127992360.jpg?v=1751272281
   Price: £13.00 GBP
 - [Belkin BOOST CHARGE™ Lightning to USB-A Cable (Braided) - 2m - White](https://iqjersey.com/products/belkin-boost-charge-lightning-to-usb-a-cable-braided-2m-white)
-  Updated: 2026-06-11T12:46:09Z
+  Updated: 2026-09-29T09:12:15Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121518.196.png?v=1745831731
   Price: £20.00 GBP
 - [Belkin BOOST CHARGE™ Lightning to USB-A Cable (Braided) - 3m - White](https://iqjersey.com/products/belkin-boost-charge-lightning-to-usb-a-cable-braided-3m-white)
-  Updated: 2026-09-22T13:35:38Z
+  Updated: 2026-10-13T11:32:43Z
   Vendor: Belkin
   Product Type: Charging Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/81uIhxP1v2L._AC_SL1500.jpg?v=1751275215
   Price: £17.50 GBP
-- [UAG Cable USB-C to Lightning (1.5m)](https://iqjersey.com/products/uag-cable-usb-c-to-lightning-1-5m)
-  Updated: 2026-08-24T11:08:17Z
-  Vendor: Urban Armor Gear
-  Product Type: Charging Cable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0686/4270/1490/files/download_-_2025-04-28T121553.742.png?v=1745831767
-  Price: £26.50 GBP
-[List Continued](https://iqjersey.com/a/llms-agent/llms.txt?shop=iq-jersey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDgwODY2NTk5MDkwLCJsYXN0X3ZhbHVlIjoiODQ4MDg2NjU5OTA5MCJ9)
+[List Continued](https://iqjersey.com/a/llms-agent/llms.txt?shop=iq-jersey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDgwODY2NTY2MzIyLCJsYXN0X3ZhbHVlIjoiODQ4MDg2NjU2NjMyMiJ9)
 
 ## Collections
 
@@ -1774,7 +1746,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-20T11:45:34Z
   Total Products: 0
 - [MacBook Pro](https://iqjersey.com/collections/macbook-pro)
-  Updated: 2026-09-03T11:17:17Z
+  Updated: 2026-10-17T11:22:06Z
   Total Products: 5
 - [Electronics > Communications > Telephony > Mobile & Smart Phones](https://iqjersey.com/collections/electronics-communications-telephony-mobile-smart-phones)
   Updated: 2025-04-28T14:15:58Z
@@ -1789,7 +1761,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:11:17Z
   Total Products: 0
 - [apl_ps_Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)](https://iqjersey.com/collections/apl-ps-apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m)
-  Updated: 2026-09-11T08:01:14Z
+  Updated: 2026-10-02T11:17:27Z
   Total Products: 2
 - [apl_ps_2024 Apple Watch Trail Loop](https://iqjersey.com/collections/apl-ps-2024-apple-watch-trail-loop)
   Updated: 2025-05-27T06:12:18Z
@@ -1804,10 +1776,10 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-20T11:46:33Z
   Total Products: 0
 - [apl_ps_iPhone 15](https://iqjersey.com/collections/apl-ps-iphone-15)
-  Updated: 2026-09-22T09:01:23Z
+  Updated: 2026-10-12T08:02:13Z
   Total Products: 30
 - [apl_ps_AirPods 4 with Active Noise Cancellation](https://iqjersey.com/collections/apl-ps-airpods-4-with-active-noise-cancellation)
-  Updated: 2026-09-22T09:22:58Z
+  Updated: 2026-10-16T11:18:48Z
   Total Products: 1
 - [apl_ps_iPhone 16 Pro](https://iqjersey.com/collections/apl-ps-iphone-16-pro)
   Updated: 2026-09-22T09:01:23Z
@@ -1825,7 +1797,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:12:02Z
   Total Products: 0
 - [apl_ps_AirPods 4](https://iqjersey.com/collections/apl-ps-airpods-4)
-  Updated: 2026-09-22T09:22:58Z
+  Updated: 2026-09-30T15:11:02Z
   Total Products: 1
 - [apl_ps_11-inch iPad Pro M4](https://iqjersey.com/collections/apl-ps-11-inch-ipad-pro-m4)
   Updated: 2026-08-26T11:15:51Z
@@ -1837,7 +1809,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:30:10Z
   Total Products: 1
 - [apl_ps_13-inch iPad Pro M4](https://iqjersey.com/collections/apl-ps-13-inch-ipad-pro-m4)
-  Updated: 2026-09-15T11:16:28Z
+  Updated: 2026-10-12T11:21:24Z
   Total Products: 24
 - [apl_ps_iPhone 14](https://iqjersey.com/collections/apl-ps-iphone-14)
   Updated: 2026-06-04T00:30:03Z
@@ -1861,7 +1833,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T09:18:51Z
   Total Products: 0
 - [apl_ps_Apple Watch Series 10 Sport Band](https://iqjersey.com/collections/apl-ps-apple-watch-series-10-sport-band)
-  Updated: 2026-07-07T14:50:27Z
+  Updated: 2026-10-20T11:15:42Z
   Total Products: 12
 - [apl_ps_iPhone 16 Pro Clear Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-16-pro-clear-case-with-magsafe)
   Updated: 2026-06-04T00:30:03Z
@@ -1873,7 +1845,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:11:53Z
   Total Products: 0
 - [apl_ps_iPhone 16](https://iqjersey.com/collections/apl_ps_iphone-16)
-  Updated: 2026-09-22T09:07:03Z
+  Updated: 2026-10-06T10:35:10Z
   Total Products: 30
 - [apl_ps_iPhone 15 Pro Max Silicone Case with MagSafe](https://iqjersey.com/collections/apl-ps-iphone-15-pro-max-silicone-case-with-magsafe)
   Updated: 2025-05-20T11:46:19Z
@@ -1990,7 +1962,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-27T06:12:21Z
   Total Products: 0
 - [apl_ps_EarPods (USB-C)](https://iqjersey.com/collections/apl-ps-earpods-usb-c)
-  Updated: 2026-08-31T11:15:43Z
+  Updated: 2026-10-21T11:16:34Z
   Total Products: 1
 - [apl_ps_AirPods Max](https://iqjersey.com/collections/apl-ps-airpods-max)
   Updated: 2026-09-22T09:22:59Z
@@ -2029,7 +2001,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T09:01:23Z
   Total Products: 6
 - [trade in variety](https://iqjersey.com/collections/trade-in-variety)
-  Updated: 2026-09-10T00:09:56Z
+  Updated: 2026-10-12T13:01:31Z
   Total Products: 7
 - [apl_ps_Magic Keyboard for iPad Air 11‑inch (M3)](https://iqjersey.com/collections/apl-ps-magic-keyboard-for-ipad-air-11-inch-m3)
   Updated: 2026-06-04T00:39:32Z
@@ -2038,7 +2010,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-08-19T14:20:07Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqjersey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-09-19T11:16:07Z
+  Updated: 2026-10-10T11:17:15Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqjersey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
   Updated: 2026-09-08T11:17:11Z
@@ -2062,19 +2034,19 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-05-20T11:46:34Z
   Total Products: 0
 - [Belkin Boost](https://iqjersey.com/collections/belkin-boost)
-  Updated: 2026-09-04T11:19:07Z
-  Total Products: 3
+  Updated: 2026-10-01T11:03:17Z
+  Total Products: 2
 - [Offers](https://iqjersey.com/collections/offers)
-  Updated: 2026-09-24T18:04:22Z
-  Total Products: 61
+  Updated: 2026-10-20T13:40:54Z
+  Total Products: 57
 - [Quick Checkout](https://iqjersey.com/collections/quick-checkout)
-  Updated: 2026-09-03T11:17:17Z
+  Updated: 2026-10-15T11:19:02Z
   Total Products: 9
 - [apl_ps_13-inch MacBook Air M2](https://iqjersey.com/collections/apl_ps_13-inch-macbook-air-m2)
   Updated: 2026-06-04T00:49:49Z
   Total Products: 2
 - [apl_ps_13-inch MacBook Air M4](https://iqjersey.com/collections/apl_ps_13-inch-macbook-air-m4)
-  Updated: 2026-07-18T11:17:00Z
+  Updated: 2026-10-12T08:18:16Z
   Total Products: 12
 - [apl_ps_13-inch MacBook Pro](https://iqjersey.com/collections/apl_ps_13-inch-macbook-pro)
   Updated: 2026-06-08T14:51:44Z
@@ -2086,19 +2058,19 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:49:57Z
   Total Products: 1
 - [apl_ps_14-inch MacBook Pro M3 Max](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m3-max)
-  Updated: 2026-06-04T00:49:49Z
+  Updated: 2026-10-12T08:14:43Z
   Total Products: 1
 - [apl_ps_14-inch MacBook Pro M3 Pro](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m3-pro)
-  Updated: 2026-06-04T00:50:25Z
+  Updated: 2026-10-12T08:14:15Z
   Total Products: 2
 - [apl_ps_14-inch MacBook Pro M4](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m4)
-  Updated: 2026-07-25T11:19:34Z
+  Updated: 2026-10-21T11:16:34Z
   Total Products: 5
 - [apl_ps_14-inch MacBook Pro M4 Max](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m4-max)
   Updated: 2026-07-13T09:59:07Z
   Total Products: 2
 - [apl_ps_14-inch MacBook Pro M4 Pro](https://iqjersey.com/collections/apl_ps_14-inch-macbook-pro-m4-pro)
-  Updated: 2026-07-07T14:35:08Z
+  Updated: 2026-10-12T08:16:25Z
   Total Products: 4
 - [apl_ps_140W USB-C Power Adapter](https://iqjersey.com/collections/apl_ps_140w-usb-c-power-adapter)
   Updated: 2026-07-06T08:47:47Z
@@ -2107,13 +2079,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-04T00:49:57Z
   Total Products: 4
 - [apl_ps_15-inch MacBook Air M4](https://iqjersey.com/collections/apl_ps_15-inch-macbook-air-m4)
-  Updated: 2026-09-14T10:40:21Z
+  Updated: 2026-10-12T08:19:07Z
   Total Products: 12
 - [apl_ps_16-inch MacBook Pro](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro)
   Updated: 2026-09-22T08:37:58Z
   Total Products: 0
 - [apl_ps_16-inch MacBook Pro M3 Max](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m3-max)
-  Updated: 2026-06-04T00:51:01Z
+  Updated: 2026-10-12T08:15:07Z
   Total Products: 3
 - [apl_ps_16-inch MacBook Pro M3 Pro](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m3-pro)
   Updated: 2026-09-22T08:37:59Z
@@ -2122,7 +2094,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-07-07T14:35:09Z
   Total Products: 4
 - [apl_ps_16-inch MacBook Pro M4 Pro](https://iqjersey.com/collections/apl_ps_16-inch-macbook-pro-m4-pro)
-  Updated: 2026-07-07T14:35:09Z
+  Updated: 2026-10-13T11:17:58Z
   Total Products: 4
 - [apl_ps_2020 Apple Watch SE Nike Nike Sport Band 1st generation](https://iqjersey.com/collections/apl_ps_2020-apple-watch-se-nike-nike-sport-band-1st-generation)
   Updated: 2025-09-12T03:38:31Z
@@ -2152,7 +2124,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:09:53Z
   Total Products: 0
 - [apl_ps_2022 Apple TV 4K (3rd generation)](https://iqjersey.com/collections/apl_ps_2022-apple-tv-4k-3rd-generation)
-  Updated: 2026-09-22T09:24:44Z
+  Updated: 2026-10-21T14:32:13Z
   Total Products: 2
 - [apl_ps_2022 Apple TV Remote](https://iqjersey.com/collections/apl_ps_2022-apple-tv-remote)
   Updated: 2025-04-25T11:09:54Z
@@ -2197,7 +2169,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-04-25T11:09:57Z
   Total Products: 0
 - [apl_ps_2023 Apple Pencil (USB-C)](https://iqjersey.com/collections/apl_ps_2023-apple-pencil-usb-c)
-  Updated: 2026-06-23T10:06:01Z
+  Updated: 2026-10-10T11:17:15Z
   Total Products: 1
 - [apl_ps_2023 Apple Watch SE Sport Band 2nd generation](https://iqjersey.com/collections/apl_ps_2023-apple-watch-se-sport-band-2nd-generation)
   Updated: 2025-04-25T11:09:58Z
@@ -2212,10 +2184,10 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T08:37:59Z
   Total Products: 0
 - [apl_ps_2024 Apple Pencil Pro](https://iqjersey.com/collections/apl_ps_2024-apple-pencil-pro)
-  Updated: 2026-09-24T11:15:30Z
+  Updated: 2026-09-26T11:16:45Z
   Total Products: 1
 - [apl_ps_20W USB-C Power Adapter](https://iqjersey.com/collections/apl_ps_20w-usb-c-power-adapter)
-  Updated: 2026-09-19T11:16:07Z
+  Updated: 2026-10-15T11:19:02Z
   Total Products: 1
 - [apl_ps_24-inch iMac with Retina 4.5K display](https://iqjersey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display)
   Updated: 2026-02-12T14:58:16Z
@@ -2227,7 +2199,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-01T11:17:17Z
   Total Products: 17
 - [apl_ps_240W USB-C Charge Cable (2m)](https://iqjersey.com/collections/apl_ps_240w-usb-c-charge-cable-2m)
-  Updated: 2026-09-15T11:16:28Z
+  Updated: 2026-10-21T11:16:34Z
   Total Products: 1
 - [apl_ps_30W USB-C Power Adapter](https://iqjersey.com/collections/apl_ps_30w-usb-c-power-adapter)
   Updated: 2026-09-14T11:20:12Z
@@ -2308,13 +2280,13 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-09-22T09:18:51Z
   Total Products: 4
 - [apl_ps_Beats Studio Buds +](https://iqjersey.com/collections/apl_ps_beats-studio-buds)
-  Updated: 2026-07-17T12:59:46Z
+  Updated: 2026-09-29T11:15:33Z
   Total Products: 3
 - [apl_ps_HomePod](https://iqjersey.com/collections/apl_ps_homepod)
-  Updated: 2026-09-22T09:24:43Z
+  Updated: 2026-10-21T13:25:24Z
   Total Products: 2
 - [apl_ps_HomePod mini](https://iqjersey.com/collections/apl_ps_homepod-mini)
-  Updated: 2026-09-22T09:24:43Z
+  Updated: 2026-10-13T15:08:44Z
   Total Products: 5
 - [apl_ps_iPad Air](https://iqjersey.com/collections/apl_ps_ipad-air)
   Updated: 2026-07-16T14:04:27Z
@@ -2431,7 +2403,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-02-12T14:59:13Z
   Total Products: 0
 - [apl_ps_Mac mini M4](https://iqjersey.com/collections/apl_ps_mac-mini-m4)
-  Updated: 2026-08-25T14:29:51Z
+  Updated: 2026-10-01T18:03:18Z
   Total Products: 3
 - [apl_ps_Mac mini M4 Pro](https://iqjersey.com/collections/apl_ps_mac-mini-m4-pro)
   Updated: 2026-08-25T14:28:59Z
@@ -2470,7 +2442,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2025-06-06T10:32:02Z
   Total Products: 0
 - [apl_ps_Magic Keyboard for iPad Pro 13‑inch (M4)](https://iqjersey.com/collections/apl_ps_magic-keyboard-for-ipad-pro-13-inch-m4)
-  Updated: 2026-06-26T08:15:08Z
+  Updated: 2026-09-28T11:15:06Z
   Total Products: 2
 - [apl_ps_Magic Keyboard with Touch ID (2021)](https://iqjersey.com/collections/apl_ps_magic-keyboard-with-touch-id-2021)
   Updated: 2025-06-10T08:14:43Z
@@ -2494,7 +2466,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
   Updated: 2026-06-29T11:32:48Z
   Total Products: 2
 - [apl_ps_MagSafe Charger (2m)](https://iqjersey.com/collections/apl_ps_magsafe-charger-2m)
-  Updated: 2026-06-29T13:22:30Z
+  Updated: 2026-10-06T11:17:04Z
   Total Products: 2
 
 ## Store Pages
@@ -2514,7 +2486,7 @@ Sustainability is expressed mainly through its device trade-in and recycling pro
 - [View all Music](https://iqjersey.com/pages/view-all-music)
   Updated: 2025-09-09T19:43:47Z
 - [View all TV & Home](https://iqjersey.com/pages/view-all-tv-home)
-  Updated: 2025-07-01T13:49:52Z
+  Updated: 2026-10-13T15:46:27Z
 - [View all Accessories](https://iqjersey.com/pages/view-all-accessories)
   Updated: 2026-09-10T09:20:15Z
 - [Financing](https://iqjersey.com/pages/financing)
