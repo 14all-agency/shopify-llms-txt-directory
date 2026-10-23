@@ -6,26 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-10-03T00:00:29.211Z
+- Updated At: 2026-10-23T01:20:11.680Z
 
 ## Products
 
 - [Discover the Kaia Garter | Percacciolo Collection](https://collectionbynp.com/products/kaia-garter): Discover the Kaia Garter from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:00Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Garters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/KaiaSide.jpg?v=1777981074
   Price: $65.00 USD
 - [Discover the Xena Garter | Percacciolo Collection](https://collectionbynp.com/products/xena-garter): Discover the Xena Garter from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:00Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Garters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/XenaSide.jpg?v=1777981088
   Price: $65.00 USD
 - [Discover the Rue Glove | Percacciolo Collection](https://collectionbynp.com/products/rue-glove): Discover the Rue Glove from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:01Z
+  Updated: 2026-10-16T22:32:08Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Gloves
   Availability: Available
@@ -39,28 +39,28 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/RueGlove.jpg?v=1777981109
     Price: $40.00 USD
 - [Discover the Tessa Glove | Percacciolo Collection](https://collectionbynp.com/products/tessa-glove): Discover the Tessa Glove from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:01Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Gloves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/TessaonJill.jpg?v=1777981114
   Price: $45.00 USD
 - [Discover the Ophelia Beaded Cap Veil | Percacciolo Collection](https://collectionbynp.com/products/ophelia-beaded-cap-veil): Discover the Ophelia Beaded Cap Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:38:11Z
+  Updated: 2026-10-16T22:32:06Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/OpheliaNew2.jpg?v=1777981132
   Price: $425.00 USD
 - [Discover the Mara Cape Veil | Percacciolo Collection](https://collectionbynp.com/products/mara-cape-veil): Discover the Mara Cape Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:37:50Z
+  Updated: 2026-10-16T22:32:04Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/MaraMain.jpg?v=1777981162
   Price: $595.00 USD
 - [Discover the Aria Robe | Percacciolo Collection](https://collectionbynp.com/products/aria-robe): Discover the Aria Robe from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:02Z
+  Updated: 2026-10-16T22:32:08Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: ROBE
   Availability: Available
@@ -105,8 +105,58 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1777989791
     Price: $225.00 USD
+- [Discover the Dex Beanie | Percacciolo Collection](https://collectionbynp.com/products/dex-beanie): Discover the Dex Beanie from Percacciolo Collection.
+  Updated: 2026-10-18T03:52:37Z
+  Vendor: PERCACCIOLO COLLECTION
+  Product Type: Beanies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/DEXHEROIMAGE.jpg?v=1777981196
+  - [Beige](https://collectionbynp.com/products/dex-beanie?variant=44269522223338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/DEXBEIGE_92d904b1-975b-4887-b39c-f2849f162192.jpg?v=1777981202
+    Price: $32.00 USD
+  - [Neon Green](https://collectionbynp.com/products/dex-beanie?variant=44269522321642)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/DEXgreenbackview.jpg?v=1777981198
+    Price: $32.00 USD
+  - [Black](https://collectionbynp.com/products/dex-beanie?variant=44269522256106)
+    Availability: Not Available
+    Price: $32.00 USD
+  - [Hot Pink](https://collectionbynp.com/products/dex-beanie?variant=44269522288874)
+    Availability: Not Available
+    Price: $32.00 USD
+  - [Red](https://collectionbynp.com/products/dex-beanie?variant=44283677573354)
+    Availability: Not Available
+    Price: $32.00 USD
+  - [Grey](https://collectionbynp.com/products/dex-beanie?variant=44285712629994)
+    Availability: Not Available
+    Price: $32.00 USD
+  - [White](https://collectionbynp.com/products/dex-beanie?variant=44285712761066)
+    Availability: Not Available
+    Price: $32.00 USD
+- [Discover the Billie Beanie | Percacciolo Collection](https://collectionbynp.com/products/billie-beanie): Discover the Billie Beanie from Percacciolo Collection.
+  Updated: 2026-10-18T00:28:46Z
+  Vendor: PERCACCIOLO COLLECTION
+  Product Type: Beanies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BillieWhite_Pink1_469f7fbb-dbc0-41a9-a944-f5cfd72dedef.jpg?v=1777989822
+  - [Black/Red](https://collectionbynp.com/products/billie-beanie?variant=44359193460970)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [Pink](https://collectionbynp.com/products/billie-beanie?variant=44359193395434)
+    Availability: Available
+    Price: $25.00 USD
+  - [White/Pink](https://collectionbynp.com/products/billie-beanie?variant=44359193428202)
+    Availability: Not Available
+    Price: $25.00 USD
+  - [Black/Light Pink](https://collectionbynp.com/products/billie-beanie?variant=44799126765802)
+    Availability: Available
+    Price: $25.00 USD
+  - [White/Teal](https://collectionbynp.com/products/billie-beanie?variant=45637358944490)
+    Availability: Available
+    Price: $25.00 USD
 - [Discover the Mara Cathedral Veil | Percacciolo Collection](https://collectionbynp.com/products/mara-cathedral-veil): Discover the Mara Cathedral Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:37:33Z
+  Updated: 2026-10-16T22:32:09Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -123,14 +173,14 @@
     Availability: Available
     Price: $485.00 USD
 - [Discover the Flora Cathedral Veil | Percacciolo Collection](https://collectionbynp.com/products/flora-cathedral-veil): Discover the Flora Cathedral Veil from Percacciolo Collection.
-  Updated: 2026-09-12T11:00:25Z
+  Updated: 2026-10-16T22:32:06Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Flora2.jpg?v=1789158086
   Price: $725.00 USD
 - [Discover the Lydia Beaded Fingertip Veil | Percacciolo Collection](https://collectionbynp.com/products/lydia-beaded-fingertip-veil): Discover the Lydia Beaded Fingertip Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:37:08Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -142,7 +192,7 @@
     Availability: Not Available
     Price: $375.00 USD
 - [Discover the Lilith Veil | Percacciolo Collection](https://collectionbynp.com/products/lilith-veil): Discover the Lilith Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:36:54Z
+  Updated: 2026-10-16T22:32:10Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -154,7 +204,7 @@
     Availability: Available
     Price: $525.00 USD
 - [Discover the Lyla Veil | Percacciolo Collection](https://collectionbynp.com/products/lyla-veil): Discover the Lyla Veil from Percacciolo Collection.
-  Updated: 2026-09-12T06:36:35Z
+  Updated: 2026-10-16T22:32:09Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Veils
   Availability: Available
@@ -168,7 +218,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/LylaBlack1.jpg?v=1777981308
     Price: $385.00 USD
 - [Discover the Emery Tote | Percacciolo Collection](https://collectionbynp.com/products/emery-tote): Discover the Emery Tote from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:04Z
+  Updated: 2026-10-20T09:31:06Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Handbags
   Availability: Available
@@ -181,22 +231,67 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/IvoryEmory1_e4297ae0-69d5-42f0-8a35-0133269ffad7.jpg?v=1777981338
     Price: $85.00 USD
-- [Discover the Makeup Bag | Percacciolo Collection](https://collectionbynp.com/products/makeup-bag): Discover the Makeup Bag from Percacciolo Collection.
-  Updated: 2026-08-29T07:30:43Z
+- [Discover the Blanket Cape | Percacciolo Collection](https://collectionbynp.com/products/blanket-cape): Discover the Blanket Cape from Percacciolo Collection.
+  Updated: 2026-10-17T11:00:23Z
   Vendor: PERCACCIOLO COLLECTION
-  Product Type: 
+  Product Type: Cape
   Availability: Available
+  - [Grey Chenille](https://collectionbynp.com/products/blanket-cape?variant=44797793042666)
+    Availability: Available
+    Price: $60.00 USD
+  - [Orange Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797793075434)
+    Availability: Available
+    Price: $60.00 USD
+  - [Brown Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797825089770)
+    Availability: Available
+    Price: $60.00 USD
+  - [Brown/Grey Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797825122538)
+    Availability: Available
+    Price: $60.00 USD
+  - [White/Grey Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797825155306)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [Red Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797825188074)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [Green Plaid](https://collectionbynp.com/products/blanket-cape?variant=44797825220842)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [Christmas Tweed](https://collectionbynp.com/products/blanket-cape?variant=45703411335402)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [Black Plaid](https://collectionbynp.com/products/blanket-cape?variant=45703415070954)
+    Availability: Available
+    Price: $60.00 USD
+  - [Green chenille](https://collectionbynp.com/products/blanket-cape?variant=45751772709098)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [Brown Chenille](https://collectionbynp.com/products/blanket-cape?variant=46391296983274)
+    Availability: Available
+    Price: $60.00 USD
+  - [red orange](https://collectionbynp.com/products/blanket-cape?variant=46391297179882)
+    Availability: Available
+    Price: $60.00 USD
+- [Discover the Makeup Bag | Percacciolo Collection](https://collectionbynp.com/products/makeup-bag): Discover the Makeup Bag from Percacciolo Collection.
+  Updated: 2026-10-20T19:34:15Z
+  Vendor: PERCACCIOLO COLLECTION
+  Product Type: Handbags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/StarryNightCombo.jpg?v=1792159608
+  - [Set](https://collectionbynp.com/products/makeup-bag?variant=45647892185322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/StarryNightCombo.jpg?v=1792159608
+    Price: $38.00 USD
   - [Large](https://collectionbynp.com/products/makeup-bag?variant=44799248007402)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/StarryNightBig1.jpg?v=1792159608
     Price: $28.00 USD
   - [Small](https://collectionbynp.com/products/makeup-bag?variant=44799248040170)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/StarryNightSmall1.jpg?v=1792159608
     Price: $18.00 USD
-  - [Set](https://collectionbynp.com/products/makeup-bag?variant=45647892185322)
-    Availability: Available
-    Price: $38.00 USD
 - [Discover the Astra Bag | Percacciolo Collection](https://collectionbynp.com/products/astra-bag): Discover the Astra Bag from Percacciolo Collection.
-  Updated: 2026-09-09T00:56:12Z
+  Updated: 2026-10-16T22:38:42Z
   Vendor: Percacciolo Collection
   Product Type: Handbags
   Availability: Available
@@ -222,7 +317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/E9A2370C-DE12-4C89-8BCD-EE6041CA5E5E.jpg?v=1777989813
     Price: $45.00 USD
 - [Discover the Lenore Lace Earrings | Percacciolo Collection](https://collectionbynp.com/products/lenore-lace-earrings): Discover the Lenore Lace Earrings from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:06Z
+  Updated: 2026-10-16T22:37:15Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
@@ -233,16 +328,17 @@
     Price: $20.00 USD
   - [Red](https://collectionbynp.com/products/lenore-lace-earrings?variant=45085282894058)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/LenoreRed1.jpg?v=1780144085
     Price: $20.00 USD
 - [Discover the Isolde Lace Earrings | Percacciolo Collection](https://collectionbynp.com/products/isolde-lace-earrings): Discover the Isolde Lace Earrings from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:06Z
+  Updated: 2026-10-17T21:16:32Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Isolde1_6ac6bc1f-8cec-4730-b65d-fc348ba9c058.jpg?v=1780143516
   Price: $20.00 USD
 - [Discover the Bag Charm | Percacciolo Collection](https://collectionbynp.com/products/bag-charm): Discover the Bag Charm from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:07Z
+  Updated: 2026-10-16T22:32:08Z
   Vendor: Percacciolo Collection
   Product Type: Key Chains
   Availability: Available
@@ -260,28 +356,42 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/skullcoffin.jpg?v=1777989820
     Price: $20.00 USD
 - [Discover the Luna Earrings | Percacciolo Collection](https://collectionbynp.com/products/luna-earrings): Discover the Luna Earrings from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:07Z
+  Updated: 2026-10-16T22:35:55Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Luna1_0a0c6564-be93-45c2-a84c-e039cf914852.jpg?v=1780143000
   Price: $20.00 USD
 - [Discover the Beaded Hair Comb | Percacciolo Collection](https://collectionbynp.com/products/beaded-hair-comb): Discover the Beaded Hair Comb from Percacciolo Collection.
-  Updated: 2026-09-18T13:57:32Z
+  Updated: 2026-10-16T22:35:43Z
   Vendor: Percacciolo Collection
   Product Type: Hair Comb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BeadedHeadpiece2.jpg?v=1789696132
   Price: $50.00 USD
+- [Discover the Skull Figure | Percacciolo Collection](https://collectionbynp.com/products/skull-figure): Discover the Skull Figure from Percacciolo Collection.
+  Updated: 2026-10-18T02:23:47Z
+  Vendor: Percacciolo Collection
+  Product Type: Sculpture
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Skull1Front.jpg?v=1792176241
+  - [Option 1](https://collectionbynp.com/products/skull-figure?variant=46390663479530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Skull1Front.jpg?v=1792176241
+    Price: $25.00 USD
+  - [Option 2](https://collectionbynp.com/products/skull-figure?variant=46390669836522)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Skull_2_side.jpg?v=1792177930
+    Price: $25.00 USD
 - [Discover the Elena Mantilla Veil | Percacciolo Collection](https://collectionbynp.com/products/elena-mantilla-veil): Discover the Elena Mantilla Veil from Percacciolo Collection.
-  Updated: 2026-09-15T08:23:01Z
+  Updated: 2026-10-16T22:32:09Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/ElenaMantillaIMG_3771_891cc668-209d-4773-9cfc-179ac57ce4e4.jpg?v=1777981412
   Price: $425.00 USD
 - [Discover the Sienna Veil | Percacciolo Collection](https://collectionbynp.com/products/sienna-veil): Discover the Sienna Veil from Percacciolo Collection.
-  Updated: 2026-09-15T06:53:19Z
+  Updated: 2026-10-16T22:32:08Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
@@ -302,7 +412,7 @@
     Availability: Available
     Price: $150.00 USD
 - [Discover the Gift Card | Percacciolo Collection](https://collectionbynp.com/products/gift-card): Discover the Gift Card from Percacciolo Collection.
-  Updated: 2026-08-31T23:49:10Z
+  Updated: 2026-10-16T22:32:09Z
   Vendor: Percacciolo Collection
   Product Type: Gift Card
   Availability: Available
@@ -323,56 +433,49 @@
     Availability: Available
     Price: $1,000.00 USD
 - [Beaded Charm Necklace](https://collectionbynp.com/products/beaded-charm-necklace): One of a kind charm necklace assembled from vintage chain and an artful arrangement of charms. Made with partially reclaimed beads, pink teardrop bead, and imitation pearl beads for texture. Made with a vintage gold tone chain, designed to feel both timeless and personal. A versatile addition to any jewelry collection. SustainabilityCreated with reclaimed materials, giving discarded elements a beautiful second life while reducing waste and celebrating the beauty of reinvention. Dimensions: 18.5" chain adjustable up to 21" with 1" longest pendant drop. Lobster claw clasp closure, adjustable length. Vintage gold tone chain. To prolong the life of this necklace, remove from wearing when bathing, sleeping, and exercising. Hand assembled in the USA with repurposed and new components.
-  Updated: 2026-08-31T23:49:16Z
+  Updated: 2026-10-16T22:32:03Z
   Vendor: Percacciolo Collection
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/CharmNecklace1.jpg?v=1779929054
   Price: $38.00 USD
-- [Leaf Charm Necklace](https://collectionbynp.com/products/leaf-charm-necklace): One of a kind necklace made with reclaimed white bead, gold tone leaf charm, and light grey imitation pearl bead for texture. Suspended from a new gold tone chain, this piece blends natural elegance with a romantic edge. Thoughtfully assembled from reclaimed and new materials, each necklace is uniquely its own. SustainabilityCreated with reclaimed materials, giving discarded elements a beautiful second life while reducing waste and celebrating the beauty of reinvention. Dimensions: 18" chain with 1.5" pendant drop. Lobster claw clasp closure. Chain: Copper To prolong the life of this necklace, remove from wearing when bathing, sleeping, and exercising. Hand assembled in the USA with repurposed and new components.
-  Updated: 2026-08-31T23:49:17Z
-  Vendor: Percacciolo Collection
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/FeatherCharm1.jpg?v=1779931580
-  Price: $34.00 USD
 - [Renée Hoop Earrings](https://collectionbynp.com/products/renee-hoop-earrings): Like tiny desert sunsets for your ears. These handmade beauties feature gold tone stainless steel hoops with a warm terracotta brown teardrop bead. Earthy, romantic, and a little bit witchy. Pair with the Zoé earring for a fun ear story. You’re not just buying earrings. You’re buying the pair you’ll reach for constantly. Details: Limited stock Made with terracotta brown tone reclaimed beads. Bead color will look darker when laid flat on a surface. 2.5" full length Huggie hoop earring, plug friendly Gold tone, stainless steel hoop Handmade in USA Care: Remove before bathing, sleeping, swimming, or exercising.
-  Updated: 2026-08-31T23:49:17Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Renee2.jpg?v=1779994535
   Price: $20.00 USD
 - [Zoé Hoop Earrings](https://collectionbynp.com/products/zoe-hoop-earrings): Introducing the Zoé Hoop Earring, these hand beaded hoops bring a softer, moonlit energy to your ear stack. Featuring a twist, gold tone stainless steel hoop for texture and a white teardrop bead. The perfect counterpart to the Renée Earring. Designed to be worn together as part of your own ear story. The contrast between warm brown terracotta and milky white feels collected and intentional. Think sun and moon, desert and pearl, chaos and calm. Details: Limited stock Made with white tone reclaimed beads 1.5" full length Huggie twist hoop earring, plug friendly Gold tone, stainless steel hoop Handmade in USA Care: Remove before bathing, sleeping, swimming, or exercising.
-  Updated: 2026-08-31T23:49:18Z
+  Updated: 2026-10-16T22:32:06Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Zoe1.jpg?v=1780004223
   Price: $20.00 USD
 - [Sabina Hoop Earrings](https://collectionbynp.com/products/sabina-hoop-earrings): Delicate with just the right amount of edge, the Sabina Hoop Earrings can take you from a boho bridal look, to the office, to dressing up your favorite band tee for a night out. Extremely versatile, the perfect earring to match any outfit. Made with gold tone stainless steel hoops, they feature neutral pink beads stacked with light grey faux pearl beads. The ultimate wear on repeat accessory. Details: Limited stock Made with neutral pink tone beads and faux light grey pearl beads 1.5" full length Huggie hoop earring, plug friendly Gold tone, stainless steel hoop Handmade in USA Care: Remove before bathing, sleeping, swimming, or exercising.
-  Updated: 2026-08-31T23:49:18Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Sabina1.jpg?v=1779995598
   Price: $20.00 USD
 - [Adele Earrings – Oversized Gold Tone Dangle Hoop Earrings with Pink Bead | Percacciolo Collection](https://collectionbynp.com/products/adele-earrings): Make a statement with the Adele Earrings. Oversized gold tone hoops with a neutral pink bead center. Lightweight, nickel-free, and handmade in the USA.
-  Updated: 2026-08-31T23:49:18Z
+  Updated: 2026-10-16T22:32:06Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Adele1.jpg?v=1780004645
   Price: $20.00 USD
 - [Nightfall Pendant](https://collectionbynp.com/products/nightfall-pendant): Equal parts gothic heirloom and modern statement piece, this style is the sister necklace to Noir Gold Flake Pendant. One of a kind design made with reclaimed black pendant with gold leaf toned accent. Gold/Bronze toned vintage chain. Designed for those who find beauty in the unconventional. Layer it with your favorite chains for a bold, collected look, or wear it alone as a subtle talisman of individuality and rebellion. SustainabilityCreated with reclaimed materials, giving discarded elements a beautiful second life while reducing waste and celebrating the beauty of reinvention. Dimensions: up to 24" chain, adjustable. Lobster claw clasp closure. Vintage Chain To prolong the life of this necklace, remove from wearing when bathing, sleeping, and exercising. Hand assembled in the USA with repurposed and new components.
-  Updated: 2026-08-31T23:49:19Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: Percacciolo Collection
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BlackPendant1.jpg?v=1780028043
   Price: $38.00 USD
 - [Vittoria Mantilla](https://collectionbynp.com/products/vittoria-mantilla): For the bride who was never meant to wear ordinary, meet Vittoria Mantilla Veil. This mantilla cathedral style is hand draped from soft tulle and finished with hand stitched black Chantilly lace. The floral lace creates a delicate contrast against the sheer tulle, while an eyelash fringe traces the edge for a feminine finish. This style comes in 3 tulle colorways for you to choose from, classic Black, Optic White and Vivianite Green. Each tulle colorway features the same floral black, Chantilly lace trim. *Vivianite Green is a bright, dark emerald green tone. It can have a blue tint in natural light and look more green indoor. Small swatch cuttings of the tulle colors can be sent upon request. Details Black Chantilly lace with floral motif, eyelash fringe finish Soft, sheer tulle in 3 color options Classic mantilla silhouette Hand wrapped wire comb positioned at the top of the head Cathedral Length: 108" Nylon tulle with poly/nylon lace trim Handmade in small quantities in Beacon, NY. Because of the artisanal nature of the construction, each veil is uniquely its own. Veils are made to order, 2 week lead time.
-  Updated: 2026-09-14T15:53:05Z
+  Updated: 2026-10-16T22:32:09Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
@@ -390,26 +493,64 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Vittoria_Green.jpg?v=1789178532
     Price: $445.00 USD
 - [Althea Lace Mantilla](https://collectionbynp.com/products/althea-lace-mantilla): Vintage romance meets darkness in our Althea Lace Mantilla. Hand draped from delicate vintage white floral lace, this cathedral veil is for the bride who wants tradition with a twist. The white lace creates an ethereal, heirloom inspired silhouette, while a contrasting black lace frames the veil in unmistakable drama. The floral lace motif is carefully hand cut and hand stitched, creating a beautifully finished border. This is the same black floral lace motif as the Mara veil styles but with no cording. Instead, this lace lays flat and is lighterweight. Details Vintage white floral lace Contrasting black floral lace edge Cathedral length, 108" Mantilla silhouette Hand wrapped black metal comb sits at the top of the head Handmade in small quantities in Beacon, NY. Because of the artisanal nature of the construction, each veil is uniquely its own. Veils are made to order, 2 week lead time.
-  Updated: 2026-09-12T04:25:49Z
+  Updated: 2026-10-16T22:32:04Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Althea1Web.jpg?v=1788401186
   Price: $575.00 USD
 - [Evette Lace Cap Veil](https://collectionbynp.com/products/evette-lace-cap-veil): Inspired by the romantic cap veils of another era, meet Evette. Cut from a roll of vintage material, this style embraces the love of lace with overlapping motifs. Edges are finished with a delicate eyelash fringe trim to create texture, dimension and a soft yet sculptural silhouette. Each veil is hand draped and individually constructed, allowing the lace to fall organically across the head and drape down past the shoulders. Details Inspired by vintage cap veil silhouettes White vintage lace base with white eyelash lace edge finish. Hand wrapped comb placed at the top of head (top of cap) with 2 clips at each side near the ear for extra stabilization. Length: 51" from comb to longest point Handmade in small quantities in Beacon, NY. Because of the artisanal nature of the construction, each veil is uniquely its own.
-  Updated: 2026-09-12T06:34:27Z
+  Updated: 2026-10-16T22:32:06Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Evette_3.jpg?v=1789152433
   Price: $355.00 USD
 - [Carmilla Lace Blusher](https://collectionbynp.com/products/carmilla-lace-blusher): The darker sister to Evette, meet Carmilla Lace Blusher. Created from the same vintage lace as the Evette Cap veil, Carmilla takes on an entirely different character. This lace, blusher veil is completely hand dyed to midnight black. The edge of this style features a hand appliqué eyelash fringe trim. The silhouette is a long blusher, similar to the Sienna Veil. Designed to be worn forward across the face or swept back. Details Original vintage lace, hand dyed midnight black Delicate eyelash fringe, hand stitched along the veil edges Blusher silhouette, designed to be worn over the face or pulled back Hand wrapped metal comb Front Length from Comb (blusher): 32 1/2" Back Length from Comb: 46 1/2" Handmade in small quantities in Beacon, NY. Because of the artisanal nature of the construction, each veil is uniquely its own. Veils are made to order, 2 week lead time.
-  Updated: 2026-09-12T07:03:10Z
+  Updated: 2026-10-16T22:32:07Z
   Vendor: Percacciolo Collection
   Product Type: Veils
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/carmilla5.jpg?v=1789153862
   Price: $355.00 USD
+- [Spiked Cross Earrings](https://collectionbynp.com/products/spiked-cross-earrings): Make a statement with the new Spiked Cross Earrings. Featuring decorative metal cross charms accented with sparkling rhinestones, repurposed chains and bold black metal spikes. These earrings bring a striking edge to your alternative style. The dangling chains featured on each earring have been rescued from a broken necklace; given a new life in this one of a kind design. Rather than letting beautiful materials go to waste, I love incorporating repurposed chains and beads into my collections, creating jewelry that celebrates individuality and a more thoughtful approach to adornment. DETAILS Decorative metal cross charms with rhinestone accents Repurposed chains salvaged from a broken necklace Stamped 925 sterling silver hooks for silver and charcoal colors Black metal spike accents for an edgy finish About 3.25" long Incorporates reclaimed materials as part of a creative upcycling practice Three colors to choose from: Silver (with black rhinestones) Charcoal (dark grey cross with silver rhinestones) Black (with silver rhinestones) A LITTLE MORE MEANING I believe beautiful materials deserve more than one life. Throughout my collections, I look for opportunities to reuse and repurpose beads, chains, fabrics, and more. Transforming overlooked pieces into something new.
+  Updated: 2026-10-19T14:45:22Z
+  Vendor: Percacciolo Collection
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/SilverCross.jpg?v=1792098544
+  - [Silver](https://collectionbynp.com/products/spiked-cross-earrings?variant=46387511558378)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/SilverCross.jpg?v=1792098544
+    Price: $20.00 USD
+  - [Charcoal](https://collectionbynp.com/products/spiked-cross-earrings?variant=46387511591146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/CharcoalCross.jpg?v=1792098544
+    Price: $20.00 USD
+  - [Black](https://collectionbynp.com/products/spiked-cross-earrings?variant=46387511525610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BlackCross.jpg?v=1792098544
+    Price: $20.00 USD
+- [Moonspell Earrings](https://collectionbynp.com/products/moonspell-earrings): Meet Moonspell, the celestial child of the Luna and Nightwatcher Earrings. Featuring the same gargoyle inspired bat charms with a dangling crescent moon. The moons are made from purple/ blue gradient resin, with gold speckled accents. A little mix of dark and whimsy. DETAILS Gargoyle inspired bat charms in gold tone color Celestial purple/blue moon charms gold tone stamped 925 hooks clear silicone backing Assembled in USA.
+  Updated: 2026-10-18T02:21:36Z
+  Vendor: Percacciolo Collection
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Moonspell1.jpg?v=1792157884
+  Price: $20.00 USD
+- [Envelope Clutch](https://collectionbynp.com/products/envelope-clutch): Add a distinctive finishing touch to your outfit with this beautifully handcrafted envelope clutch. Every clutch is individually handmade, fully lined with a pocket The classic envelope silhouette gives the clutch a timeless shape, while the combination of textured fabric, delicate lace, and soft fringe adds a distinctive bohemian inspired charm. Whether you're dressing up for a special occasion or adding an unexpected detail to your everyday style, this clutch is designed to make an impression. Thoughtful details make all the difference. Handmade from jacquard fabric: Beautiful texture and visual interest. Hand-stitched embellishments: White fringe pompoms and a floral lace accent add character and dimension. Fully lined interior: A finished interior for a polished look. Interior pocket: A convenient place for small essentials. Magnetic closure: Helps keep your belongings securely inside while allowing easy access. Envelope silhouette: A classic shape with a distinctive, decorative twist. A versatile accessory Pair it with a dress for a wedding or special event, style it with a relaxed bohemian outfit, or carry it as an accent piece when you want your accessories to do the talking. With its tactile fabrics and carefully applied details, this handmade envelope clutch is a lovely choice for anyone who appreciates artisan accessories, distinctive textiles, and individual craftsmanship. Please note: As each clutch is handmade, slight variations in the fabric pattern and decorative details may occur, adding to the individuality of each piece. Product details Style: Envelope clutch Main material: Jacquard fabric Lining: Fully lined Interior: One pocket Closure: Magnetic snap Embellishments: Hand-stitched white fringe pompoms and floral lace Construction: Handmade
+  Updated: 2026-10-17T07:34:29Z
+  Vendor: Percacciolo Collection
+  Product Type: Handbags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/EnvelopeClutch1.jpg?v=1792178902
+  Price: $68.00 USD
+- [Lace Bandana](https://collectionbynp.com/products/lace-bandana)
+  Updated: 2026-10-16T22:59:32Z
+  Vendor: Percacciolo Collection
+  Product Type: 
+  Availability: Available
+  Price: $34.00 USD
 
 ## Collections
 
@@ -432,29 +573,29 @@
   Updated: 2026-09-02T11:08:10Z
   Total Products: 3
 - [All Products](https://collectionbynp.com/collections/all-products): Discover the latest All Products from Percacciolo Collection.
-  Updated: 2026-09-18T02:04:30Z
-  Total Products: 48
+  Updated: 2026-10-21T11:08:36Z
+  Total Products: 54
 - [Bridal](https://collectionbynp.com/collections/bridal): Discover the latest Bridal from Percacciolo Collection.
   Updated: 2026-09-23T22:20:49Z
   Total Products: 24
 - [Handbags](https://collectionbynp.com/collections/handbags): Discover the latest Handbags from Percacciolo Collection.
-  Updated: 2026-09-11T01:21:53Z
-  Total Products: 16
+  Updated: 2026-10-21T11:08:36Z
+  Total Products: 18
 - [Beanies](https://collectionbynp.com/collections/beanies): Discover the latest Beanies from Percacciolo Collection.
-  Updated: 2026-06-23T07:58:50Z
+  Updated: 2026-10-18T11:10:04Z
   Total Products: 2
 - [Jewelry](https://collectionbynp.com/collections/jewelry): Discover the latest Jewelry from Percacciolo Collection.
-  Updated: 2026-09-11T01:22:15Z
-  Total Products: 16
+  Updated: 2026-10-18T11:10:04Z
+  Total Products: 20
 - [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories): Discover the latest Darkwear Accessories from Percacciolo Collection.
-  Updated: 2026-09-18T02:11:28Z
-  Total Products: 36
+  Updated: 2026-10-21T11:08:36Z
+  Total Products: 42
 - [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Discover the latest Desert Veil Collection from Percacciolo Collection.
   Updated: 2026-09-10T18:45:51Z
   Total Products: 3
-- [Earrings](https://collectionbynp.com/collections/earrings): LIMITED TIME - all earrings are buy 3 for $50.
-  Updated: 2026-08-19T11:08:28Z
-  Total Products: 11
+- [Earrings](https://collectionbynp.com/collections/earrings): SPECIAL: All earrings are buy 3 for $50. No code necessary,  will automatically apply in cart.
+  Updated: 2026-10-18T11:10:04Z
+  Total Products: 15
 - [Midnight Blooms Collection](https://collectionbynp.com/collections/midnight-blooms-collection)
   Updated: 2026-09-18T01:59:13Z
   Total Products: 8
@@ -477,15 +618,15 @@
 ## Policies
 
 - [Privacy Policy](https://collectionbynp.com/policies/privacy-policy)
-  Updated: 2026-02-05T02:30:00-05:00
+  Updated: 2026-02-05T07:30:00Z
 - [Shipping Policy](https://collectionbynp.com/policies/shipping-policy)
-  Updated: 2026-02-05T01:40:50-05:00
+  Updated: 2026-02-05T06:40:50Z
 - [Refund Policy](https://collectionbynp.com/policies/refund-policy)
-  Updated: 2026-02-05T01:43:50-05:00
+  Updated: 2026-02-05T06:43:50Z
 - [Terms of Service](https://collectionbynp.com/policies/terms-of-service)
-  Updated: 2026-02-05T02:50:02-05:00
+  Updated: 2026-02-05T07:50:02Z
 - [Contact Information](https://collectionbynp.com/policies/contact-information)
-  Updated: 2023-05-12T10:26:42-04:00
+  Updated: 2023-05-12T14:26:42Z
 
 ## Optional
 
