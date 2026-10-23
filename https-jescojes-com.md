@@ -152,12 +152,6 @@ https://www.facebook.com/profile.php?id=61561240918620
 - [robots.txt](https://jescojes.com/robots.txt)
 - [sitemap.xml](https://jescojes.com/sitemap.xml)
 
-*Last Updated: March 2026*
-*This file helps AI systems understand and accurately represent
-Jescojes Jewelry.*
-*For the complete product catalog, see: https://jescojes.com/llms-full.txt*
-
-
 # Agent Instructions
 
 This document describes how AI agents can interact with the online store
@@ -234,3 +228,8 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+*Last Updated: March 2026*
+*This file helps AI systems understand and accurately represent
+Jescojes Jewelry.*
+*For the complete product catalog, see: https://jescojes.com/llms-full.txt*
