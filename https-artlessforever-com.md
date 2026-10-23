@@ -6,111 +6,111 @@
 - Timezone: America/Los_Angeles
 - Created At: 2019-07-02T20:30:19Z
 - Contact Email: concierge@artlessforever.com
-- Updated At: 2026-10-16T00:00:40.299Z
+- Updated At: 2026-10-23T00:38:36.581Z
 
 ## Products
 
 - [Women's Mid-Rise A-Line Stretch Mini Skirt in Black](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black): Shop women's mid-rise A-line stretch mini skirt in black. 90s-inspired silhouette with a flattering fit for timeless minimalist style.
-  Updated: 2026-10-12T16:55:56Z
+  Updated: 2026-10-20T21:56:37Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/the-kit-mini-923485.png?v=1716347800
   - [XXS](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=51627555258651)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [XS](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=39931309752408)
-    Availability: Not Available
-    Price: $48.00 USD
+    Availability: Available
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=39931309785176)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=39931309817944)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=39931309850712)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [XL](https://artlessforever.com/products/kit-mid-rise-a-line-stretch-mini-skirt-black?variant=39931309883480)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
 - [Women's Mid-Rise Stretch Knit Mini Skirt in Black](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-black): Shop women's mid-rise stretch knit mini skirt in black. Made from soft stretch knit with a clean A-line silhouette that moves seamlessly from day to night.
-  Updated: 2026-10-12T18:22:11Z
+  Updated: 2026-10-17T01:08:21Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-17at6.51.24PM.png?v=1756500555
   - [XS](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-black?variant=49076787446043)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-black?variant=49076787478811)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-black?variant=49076787511579)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-black?variant=49076787544347)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
 - [Women's Relaxed Mid-Rise Wide-Leg Linen Blend Pants in Navy Blue](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue): Shop women's relaxed mid-rise wide-leg linen blend pants in navy blue. Lightweight linen cotton fabric with an elastic pull-on waistband for all-day comfort.
-  Updated: 2026-10-06T20:48:52Z
+  Updated: 2026-10-19T12:38:37Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/linen-relaxed-pants-navy-blue-487322.jpg?v=1771904552
   - [XS](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue?variant=49334985982235)
     Availability: Available
-    Price: $88.00 USD
+    Price: $144.00 USD
   - [Small](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue?variant=49334986015003)
     Availability: Available
-    Price: $88.00 USD
+    Price: $144.00 USD
   - [Medium](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue?variant=49334986047771)
     Availability: Available
-    Price: $88.00 USD
+    Price: $144.00 USD
   - [Large](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue?variant=49334986080539)
     Availability: Available
-    Price: $88.00 USD
+    Price: $144.00 USD
   - [XL](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-navy-blue?variant=49334986113307)
     Availability: Available
-    Price: $88.00 USD
+    Price: $144.00 USD
 - [Women's Relaxed Mid-Rise Wide-Leg Linen Blend Pants in White](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white): Shop women's relaxed mid-rise wide-leg linen blend pants in white. Lightweight linen cotton fabric with an elastic pull-on waistband for all-day comfort.
-  Updated: 2026-10-09T13:06:05Z
+  Updated: 2026-10-19T12:38:35Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/linen-relaxed-pants-white-533796.jpg?v=1725197503
   - [XS](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white?variant=49334986899739)
     Availability: Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Small](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white?variant=49334986932507)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Medium](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white?variant=49334986965275)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Large](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white?variant=49334986998043)
     Availability: Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [XL](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-white?variant=49334987030811)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
 - [Women's Mid-Rise Stretch Twill Hotpants Mini Shorts in Jet Black](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black): Shop women's mid-rise stretch twill hotpants shorts in jet black. Concealed zip front, belt loops, pockets and angular hem for a flattering fit.
-  Updated: 2026-10-15T09:07:25Z
+  Updated: 2026-10-22T00:39:20Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614026-retouched1.jpg?v=1790288099
   - [XXS](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black?variant=50073817481499)
-    Availability: Available
+    Availability: Not Available
     Price: $100.00 USD
   - [XS](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black?variant=49555556466971)
     Availability: Available
     Price: $100.00 USD
   - [Small](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black?variant=49555556499739)
-    Availability: Available
+    Availability: Not Available
     Price: $100.00 USD
   - [Medium](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black?variant=49555556532507)
-    Availability: Available
+    Availability: Not Available
     Price: $100.00 USD
   - [Large](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-jet-black?variant=49555556565275)
     Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in White](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-white): Shop women's stretch ribbed cotton racerback tank top in white. Sleeveless design with a sleek, sculpted fit and rounded hem for elevated comfort.
-  Updated: 2026-10-13T22:50:44Z
+  Updated: 2026-10-22T15:45:31Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -143,61 +143,61 @@
     Availability: Available
     Price: $78.00 USD
 - [Women's Mid-Rise Stretch Knit Mini Skirt in White](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-white): Shop women's mid-rise stretch knit mini skirt in white. Made from soft stretch knit with a clean A-line silhouette that moves seamlessly from day to night.
-  Updated: 2026-10-09T13:01:36Z
+  Updated: 2026-10-17T01:08:21Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-28at10.09.05PM.png?v=1745892676
   - [XS](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-white?variant=50230897279259)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-white?variant=50230897312027)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-white?variant=50230897344795)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-white?variant=50230897377563)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
 - [Women's Stretch Knit Classic Boatneck Tank Top in Sand Beige](https://artlessforever.com/products/easy-tank-stretch-knit-classic-boatneck-tank-top-sand-beige): Shop women's stretch knit classic boatneck tank top in sand beige. Soft, lightweight stretch knit with a subtle drape and clean lines for timeless minimalist style.
-  Updated: 2026-10-09T13:06:02Z
+  Updated: 2026-10-19T12:38:38Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-28at10.37.37PM.png?v=1745894267
   - [XS](https://artlessforever.com/products/easy-tank-stretch-knit-classic-boatneck-tank-top-sand-beige?variant=50230912811291)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/easy-tank-stretch-knit-classic-boatneck-tank-top-sand-beige?variant=50230912844059)
     Availability: Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/easy-tank-stretch-knit-classic-boatneck-tank-top-sand-beige?variant=50230912876827)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/easy-tank-stretch-knit-classic-boatneck-tank-top-sand-beige?variant=50230912909595)
     Availability: Not Available
-    Price: $48.00 USD
+    Price: $88.00 USD
 - [Women's Mid-Rise Stretch Knit Mini Skirt in Sand Beige](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-sand-beige): Shop women's mid-rise stretch knit mini skirt in sand beige. Made from soft stretch knit with a clean A-line silhouette that moves seamlessly from day to night.
-  Updated: 2026-10-09T13:06:11Z
+  Updated: 2026-10-17T01:08:17Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-28at10.36.12PM.png?v=1745894628
   - [XS](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-sand-beige?variant=50230928277787)
     Availability: Available
-    Price: $38.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-sand-beige?variant=50230928310555)
     Availability: Available
-    Price: $38.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-sand-beige?variant=50230928343323)
     Availability: Not Available
-    Price: $38.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/easy-skirt-womens-mid-rise-stretch-knit-mini-skirt-sand-beige?variant=50230928376091)
     Availability: Not Available
-    Price: $38.00 USD
+    Price: $88.00 USD
 - [Women's Mid-Rise Stretch Twill Hotpants Mini Shorts in Chocolate Brown](https://artlessforever.com/products/ellis-mid-rise-stretch-twill-hotpants-mini-shorts-chocolate-brown): Shop women's mid-rise stretch twill hotpants mini shorts in rich chocolate brown. Concealed zip front, belt loops, pockets and angular hem for a flattering fit.
-  Updated: 2026-10-07T18:16:56Z
+  Updated: 2026-10-21T02:51:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -221,7 +221,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women's Heavyweight 100% Cotton Classic Crew Neck T-Shirt in White](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-white): Shop women's heavyweight 100% cotton crew neck T-shirt in white. Short sleeve, slightly cropped design with a structured boxy fit for modern classic style.
-  Updated: 2026-10-14T22:41:56Z
+  Updated: 2026-10-19T12:38:40Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: $58.00 USD
 - [Women's Mid-Rise Wide-Leg Pull-On Cotton Modal Pants in Black](https://artlessforever.com/products/drew-mid-rise-wide-leg-pull-on-cotton-modal-pants-black): Shop women's mid-rise wide-leg pull-on cotton modal pants in black. Soft drape with side pockets and an elastic waistband for elevated comfort.
-  Updated: 2026-10-12T18:21:56Z
+  Updated: 2026-10-21T22:12:07Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -269,7 +269,7 @@
     Availability: Not Available
     Price: $144.00 USD
 - [Women's Mid-Rise Wide-Leg Pull-On Cotton Modal Pants in Butter White](https://artlessforever.com/products/drew-mid-rise-wide-leg-pull-on-cotton-modal-pants-butter-white): Shop women's mid-rise wide-leg pull-on cotton modal pants in butter white. Soft drape with side pockets and an elastic waistband for elevated comfort.
-  Updated: 2026-10-09T21:33:25Z
+  Updated: 2026-10-18T03:26:17Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -293,70 +293,70 @@
     Availability: Not Available
     Price: $144.00 USD
 - [Women's Stretch Fitted A-Line Mini Dress in Jet Black](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black): Shop women's stretch fitted A-line mini dress in jet black. Sleek bodice with a minimalist design, round neckline, wide straps and invisible back zipper.
-  Updated: 2026-10-12T06:11:51Z
+  Updated: 2026-10-20T21:40:36Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614524-retouched-retouched.jpg?v=1790297804
   - [XS](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black?variant=50235229667611)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Small](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black?variant=50235229700379)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Medium](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black?variant=50235229733147)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Large](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black?variant=50235229765915)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [XL](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-jet-black?variant=50235229798683)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $150.00 USD
 - [Women's Stretch Fitted A-Line Mini Dress in Light Blue](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue): Shop women's stretch fitted A-line mini dress in light blue. Sleek bodice with a minimalist design, round neckline, wide straps and invisible back zipper.
-  Updated: 2026-10-09T13:01:38Z
+  Updated: 2026-10-19T23:55:41Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614430-retouched-retouched.jpg?v=1790297038
   - [XS](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue?variant=50235374141723)
     Availability: Available
-    Price: $88.00 USD
+    Price: $150.00 USD
   - [Small](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue?variant=50235374174491)
     Availability: Available
-    Price: $88.00 USD
+    Price: $150.00 USD
   - [Medium](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue?variant=50235374207259)
     Availability: Not Available
-    Price: $88.00 USD
+    Price: $150.00 USD
   - [Large](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue?variant=50235374240027)
     Availability: Available
-    Price: $88.00 USD
+    Price: $150.00 USD
   - [XL](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-light-blue?variant=50235374272795)
     Availability: Not Available
-    Price: $88.00 USD
+    Price: $150.00 USD
 - [Women's Stretch Fitted A-Line Mini Dress in Chocolate Brown](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown): Shop women's stretch fitted A-line mini dress in chocolate brown. Sleek bodice with a minimalist design, round neckline, wide straps and invisible back zipper.
-  Updated: 2026-10-13T02:50:37Z
+  Updated: 2026-10-20T21:55:38Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614452-retouched-retouched.jpg?v=1790297152
   - [XS](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown?variant=50235407991067)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Small](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown?variant=50235408023835)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Medium](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown?variant=50235408056603)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [Large](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown?variant=50235408089371)
     Availability: Available
-    Price: $98.00 USD
+    Price: $150.00 USD
   - [XL](https://artlessforever.com/products/frame-stretch-fitted-a-line-mini-dress-chocolate-brown?variant=50235408122139)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $150.00 USD
 - [Women's Sleeveless Zip-Front Collared Vest Top in Merlot Stripe](https://artlessforever.com/products/kaia-sleeveless-stretch-zip-front-collared-vest-top-merlot-stripe): Shop women's sleeveless stretch zip-front vest top in merlot stripe. Fitted pinstripe fabric with an oversized collar, patch pockets and front zipper closure.
-  Updated: 2026-10-13T00:32:05Z
+  Updated: 2026-10-19T01:51:55Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Available
     Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-sleeveless-stretch-zip-front-collared-vest-top-merlot-stripe?variant=50235419754779)
-    Availability: Available
+    Availability: Not Available
     Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-sleeveless-stretch-zip-front-collared-vest-top-merlot-stripe?variant=50235419787547)
     Availability: Available
@@ -380,274 +380,274 @@
     Availability: Available
     Price: $94.00 USD
 - [Women's Sleeveless Zip-Front Collared Vest Top in Baby Blue Stripe](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe): Shop women's sleeveless stretch zip-front vest top in baby blue stripe. Fitted pinstripe fabric with an oversized collar, patch pockets & front zipper closure.
-  Updated: 2026-09-28T16:39:19Z
+  Updated: 2026-10-17T01:08:14Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at8.47.50PM.png?v=1746127281
   - [XXS](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431518491)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431551259)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431584027)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Medium](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431616795)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Large](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431649563)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XL](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-baby-blue-stripe?variant=50235431682331)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
 - [Women's Sleeveless Zip-Front Collared Vest Top in Jet Black](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black): Shop women's sleeveless stretch zip-front vest top in jet black. Fitted silhouette with an oversized collar, patch pockets and front zipper closure.
-  Updated: 2026-09-26T20:42:48Z
+  Updated: 2026-10-19T02:06:55Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at8.56.03PM.png?v=1746061794
   - [XXS](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535327515)
-    Availability: Available
-    Price: $64.00 USD
+    Availability: Not Available
+    Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535360283)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535393051)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Medium](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535425819)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Large](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535458587)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XL](https://artlessforever.com/products/kaia-sleeveless-zip-front-collared-vest-top-jet-black?variant=50235535491355)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
 - [Women's Tailored Low-Rise Stretch Mini Skort in Jet Black](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black): Shop women's tailored low-rise stretch mini skort in jet black. Stretch fabric with built-in shorts, side pockets and a sleek minimalist design.
-  Updated: 2026-10-12T18:21:46Z
+  Updated: 2026-10-20T22:02:23Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at8.55.45PM.png?v=1746061807
   - [XXS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567636763)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567669531)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567702299)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Medium](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567735067)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Large](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567767835)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XL](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-jet-black?variant=50235567800603)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
 - [Women's Tailored Low-Rise Stretch Mini Skort in Baby Blue Stripe](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe): Shop women's tailored low-rise stretch mini skort in baby blue stripe. Stretch pinstripe fabric with built-in shorts, side pockets and a sleek minimalist design.
-  Updated: 2026-10-01T21:58:38Z
+  Updated: 2026-10-17T01:08:11Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at8.48.02PM.png?v=1746127281
   - [XXS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577205019)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577237787)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577270555)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Medium](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577303323)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Large](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577336091)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XL](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-baby-blue-stripe?variant=50235577368859)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
 - [Women's Tailored Low-Rise Stretch Mini Skort in Merlot Stripe](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe): Shop women's tailored low-rise stretch mini skort in merlot stripe. Stretch pinstripe fabric with built-in shorts, side pockets and a sleek minimalist design.
-  Updated: 2026-09-26T20:42:47Z
+  Updated: 2026-10-17T01:08:11Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at9.31.50PM.png?v=1746063160
   - [XXS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595063579)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XS](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595096347)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Small](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595129115)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Medium](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595161883)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [Large](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595194651)
     Availability: Available
-    Price: $64.00 USD
+    Price: $94.00 USD
   - [XL](https://artlessforever.com/products/kaia-tailored-low-rise-stretch-mini-skort-merlot-stripe?variant=50235595227419)
     Availability: Not Available
-    Price: $64.00 USD
+    Price: $94.00 USD
 - [Women's Sand Beige Mini Dress | Sleeveless 90s Bodycon Knit Dress](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress): Women's sand beige sleeveless mini dress inspired by iconic 90s style, featuring a body-skimming fit, soft stretch knit fabric and timeless appeal.
-  Updated: 2026-10-01T22:01:38Z
+  Updated: 2026-10-17T01:08:11Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at10.06.05PM.png?v=1746065370
   - [XXS](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658240283)
     Availability: Not Available
-    Price: $80.00 USD
+    Price: $100.00 USD
   - [XS](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658273051)
     Availability: Available
-    Price: $80.00 USD
+    Price: $100.00 USD
   - [Small](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658305819)
     Availability: Available
-    Price: $80.00 USD
+    Price: $100.00 USD
   - [Medium](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658338587)
     Availability: Available
-    Price: $80.00 USD
+    Price: $100.00 USD
   - [Large](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658371355)
     Availability: Available
-    Price: $80.00 USD
+    Price: $100.00 USD
   - [XL](https://artlessforever.com/products/90s-dress-sand-sleeveless-mini-dress?variant=50235658404123)
     Availability: Not Available
-    Price: $80.00 USD
+    Price: $100.00 USD
 - [Women's White Mini Dress | Sleeveless 90s Bodycon Knit Dress](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress): Women's white sleeveless mini dress inspired by iconic 90s style, featuring a body-skimming fit, soft stretch knit fabric and timeless appeal.
-  Updated: 2026-10-09T13:06:09Z
+  Updated: 2026-10-17T01:08:07Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-04-30at10.08.48PM.png?v=1746065425
   - [XXS](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660828955)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $100.00 USD
   - [XS](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660861723)
     Availability: Available
-    Price: $40.00 USD
+    Price: $100.00 USD
   - [Small](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660894491)
     Availability: Available
-    Price: $40.00 USD
+    Price: $100.00 USD
   - [Medium](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660927259)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $100.00 USD
   - [Large](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660960027)
     Availability: Available
-    Price: $40.00 USD
+    Price: $100.00 USD
   - [XL](https://artlessforever.com/products/90s-dress-white-sleeveless-mini-dress?variant=50235660992795)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $100.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Jet Black](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black): Shop women's stretch ribbed cotton racerback tank top in jet black. Sleeveless design with a sleek, sculpted fit and rounded hem for elevated comfort.
-  Updated: 2026-10-13T22:50:50Z
+  Updated: 2026-10-22T17:59:56Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look14_0722-retouched.jpg?v=1781928037
   - [XXS](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746453275)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [XS](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746486043)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746518811)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746551579)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746584347)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [XL](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-jet-black?variant=50292746617115)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Royal Blue](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue): Shop women's stretch ribbed cotton racerback tank top in royal blue. Sleeveless design with a sleek, sculpted fit and rounded hem for elevated comfort.
-  Updated: 2026-10-15T23:59:55Z
+  Updated: 2026-10-22T18:00:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-07-19at9.17.57PM.png?v=1752985520
   - [XXS](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292756840731)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $88.00 USD
   - [XS](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292756873499)
     Availability: Available
-    Price: $68.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292756906267)
     Availability: Available
-    Price: $68.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292756939035)
     Availability: Available
-    Price: $68.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292756971803)
     Availability: Available
-    Price: $68.00 USD
+    Price: $88.00 USD
   - [XL](https://artlessforever.com/products/haze-stretch-ribbed-cotton-racerback-tank-top-royal-blue?variant=50292757004571)
     Availability: Available
-    Price: $68.00 USD
+    Price: $88.00 USD
 - [Women's Relaxed Mid-Rise Wide-Leg Linen Blend Pants in Jet Black](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black): Shop women's relaxed mid-rise wide-leg linen blend pants in jet black. Lightweight linen cotton fabric with an elastic pull-on waistband for all-day comfort.
-  Updated: 2026-10-09T13:01:34Z
+  Updated: 2026-10-17T01:08:07Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-07-19at9.05.58PM_df4c21b3-f849-46a5-b173-3acce4e1cb4a.png?v=1771904472
   - [XS](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black?variant=50320806904091)
     Availability: Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Small](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black?variant=50320806936859)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Medium](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black?variant=50320806969627)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [Large](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black?variant=50320807002395)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
   - [XL](https://artlessforever.com/products/linen-relaxed-mid-rise-wide-leg-linen-blend-pants-jet-black?variant=50320807035163)
     Availability: Not Available
-    Price: $98.00 USD
+    Price: $144.00 USD
 - [Women's Heavyweight 100% Cotton Crew Neck T-Shirt in Butter Yellow](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow): Shop women's heavyweight 100% cotton crew neck T-shirt in butter yellow. Short sleeve, slightly cropped design with a structured boxy fit for modern classic style.
-  Updated: 2026-10-14T13:23:11Z
+  Updated: 2026-10-21T11:11:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614209-retouched-retouched.jpg?v=1790288809
   - [XXS](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196320539)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $58.00 USD
   - [XS](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196353307)
     Availability: Available
-    Price: $20.00 USD
+    Price: $58.00 USD
   - [Small](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196386075)
     Availability: Available
-    Price: $20.00 USD
+    Price: $58.00 USD
   - [Medium](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196418843)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $58.00 USD
   - [Large](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196451611)
     Availability: Available
-    Price: $20.00 USD
+    Price: $58.00 USD
   - [XL](https://artlessforever.com/products/reese-tee-heavyweight-100-cotton-crew-neck-t-shirt-butter-yellow?variant=50506196484379)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $58.00 USD
 - [Women's Backless Bodycon Long Sleeve Mini Dress in Black](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-black): Shop women's backless bodycon long sleeve mini dress in black. Soft stretch modal jersey with a sculpting fit and open back for effortless evening style.
-  Updated: 2026-10-14T05:40:37Z
+  Updated: 2026-10-22T18:31:46Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look_6_0415-retouched.jpg?v=1781923768
   - [XS](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-black?variant=50509559267611)
-    Availability: Available
+    Availability: Not Available
     Price: $154.00 USD
   - [Small](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-black?variant=50509559300379)
     Availability: Available
@@ -710,52 +710,52 @@
     Availability: Not Available
     Price: $58.00 USD
 - [Women's One-Shoulder Stretch Jersey Maxi Dress in Black](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black): Shop women's one-shoulder stretch jersey maxi dress in black. Buttery-soft stretch modal jersey with subtle waist ruching for elegant evening style.
-  Updated: 2026-10-09T13:01:34Z
+  Updated: 2026-10-17T01:08:04Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-07-21at11.24.37AM.png?v=1755144417
   - [XS](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black?variant=50509661045019)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $134.00 USD
   - [Small](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black?variant=50509661077787)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $134.00 USD
   - [Medium](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black?variant=50509661110555)
     Availability: Available
-    Price: $78.00 USD
+    Price: $134.00 USD
   - [Large](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black?variant=50509661143323)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $134.00 USD
   - [XL](https://artlessforever.com/products/elva-maxi-one-shoulder-stretch-jersey-maxi-dress-black?variant=50509661176091)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $134.00 USD
 - [Women's Cashmere Wool Blend Long Sleeve Polo Sweater in Merlot Red](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red): Shop women's cashmere wool blend long sleeve polo sweater in merlot dark red. Soft, breathable knit with a ribbed hem, button front and relaxed open collar.
-  Updated: 2026-10-15T09:06:18Z
+  Updated: 2026-10-22T06:31:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-08-27at10.45.09AM.png?v=1756320391
   - [XXS](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=54127447834907)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=50971622768923)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=50971622801691)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=50971622834459)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=50971622867227)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-merlot-dark-red?variant=51441563664667)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
 - [Women's Cashmere Wool Blend Long Sleeve Polo Sweater in Charcoal Gray](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-charcoal-dark-gray): Shop women's cashmere wool blend long sleeve polo sweater in charcoal dark gray. Soft, breathable knit with a ribbed hem, button front and relaxed open collar.
-  Updated: 2026-10-14T08:42:45Z
+  Updated: 2026-10-20T17:51:03Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -773,67 +773,67 @@
     Availability: Available
     Price: $220.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Merlot Red](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot): Shop women's cashmere wool blend knit lounge pants in merlot dark red. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-14T08:42:21Z
+  Updated: 2026-10-17T01:08:03Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/UntitledCapture1481_7a1b296c-7bec-4358-987d-24bb08569c74.jpg?v=1764092942
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot?variant=50971798307099)
     Availability: Not Available
-    Price: $138.00 USD
+    Price: $148.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot?variant=50971798339867)
     Availability: Not Available
-    Price: $138.00 USD
+    Price: $148.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot?variant=50971798372635)
     Availability: Not Available
-    Price: $138.00 USD
+    Price: $148.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot?variant=50971798405403)
     Availability: Available
-    Price: $138.00 USD
+    Price: $148.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-merlot?variant=50971798438171)
     Availability: Not Available
-    Price: $138.00 USD
+    Price: $148.00 USD
 - [Women's Layered Cashmere Wool Blend Crew Neck Knit Sweater In Charcoal](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal): Shop women's cashmere wool blend crew neck sweater in dark charcoal gray. Soft, warm, breathable knit with double-layer detail at the neckline, cuffs and hem.
-  Updated: 2026-10-14T08:43:10Z
+  Updated: 2026-10-19T12:38:45Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-08-27at11.53.43AM.png?v=1756320871
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal?variant=50971862171931)
     Availability: Not Available
-    Price: $178.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal?variant=50971862204699)
     Availability: Not Available
-    Price: $178.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal?variant=50971862237467)
     Availability: Not Available
-    Price: $178.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal?variant=50971862270235)
     Availability: Available
-    Price: $178.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-charcoal?variant=51441564909851)
     Availability: Not Available
-    Price: $178.00 USD
+    Price: $220.00 USD
 - [Women's Layered Cashmere Wool Blend Crew Neck Knit Sweater In Stone](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-stone): Shop women's cashmere wool blend knit crew neck sweater in Stone. Soft, warm, breathable knit with double-layer detailing at the neckline, cuffs and hem.
-  Updated: 2026-10-14T08:41:37Z
+  Updated: 2026-10-17T01:08:00Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614511-retouched1.jpg?v=1790297528
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-stone?variant=50971865809179)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-stone?variant=50971865841947)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-stone?variant=50971865874715)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-stone?variant=50971865907483)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Stone Beige](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-stone): Shop women's cashmere wool blend knit lounge pants in Stone Beige. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-15T09:07:27Z
+  Updated: 2026-10-19T03:26:28Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -857,7 +857,7 @@
     Availability: Not Available
     Price: $248.00 USD
 - [Women's Cashmere Wool Blend Knit Cardigan in Stone](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-stone): Shop women's cashmere wool blend knit cardigan in stone beige color. Soft, breathable knit with a button-front closure, ribbed waistband and ribbed cuffs.
-  Updated: 2026-10-15T09:06:20Z
+  Updated: 2026-10-19T21:55:58Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -866,7 +866,7 @@
     Availability: Available
     Price: $188.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-stone?variant=50972417392923)
-    Availability: Available
+    Availability: Not Available
     Price: $188.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-stone?variant=50972417425691)
     Availability: Available
@@ -878,61 +878,61 @@
     Availability: Not Available
     Price: $188.00 USD
 - [Women's Cashmere Wool Blend Knit Cardigan in Charcoal Gray](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-charcoal-gray): Shop women's cashmere wool blend knit cardigan in charcoal gray color. Soft, breathable knit with a button-front closure, ribbed waistband and ribbed cuffs.
-  Updated: 2026-10-14T08:41:30Z
+  Updated: 2026-10-17T01:08:00Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-08-27at4.19.19PM.png?v=1756336946
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-charcoal-gray?variant=50972999418139)
     Availability: Not Available
-    Price: $118.00 USD
+    Price: $188.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-charcoal-gray?variant=50972999450907)
     Availability: Not Available
-    Price: $118.00 USD
+    Price: $188.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-charcoal-gray?variant=50972999483675)
     Availability: Not Available
-    Price: $118.00 USD
+    Price: $188.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-cardigan-charcoal-gray?variant=50972999516443)
     Availability: Available
-    Price: $118.00 USD
+    Price: $188.00 USD
 - [Women's Cashmere Wool Blend Short Sleeve Polo Sweater in Charcoal Gray](https://artlessforever.com/products/tove-cashmere-wool-blend-short-sleeve-polo-sweater-charcoal-dark-gray): Shop women's cashmere wool blend short sleeve polo sweater in charcoal dark gray. Soft, breathable knit with a ribbed hem, button front and relaxed open collar.
-  Updated: 2026-10-14T08:41:46Z
+  Updated: 2026-10-17T01:08:00Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-08-27at4.24.10PM.png?v=1756337256
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-short-sleeve-polo-sweater-charcoal-dark-gray?variant=50973022486811)
     Availability: Available
-    Price: $68.00 USD
+    Price: $188.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-short-sleeve-polo-sweater-charcoal-dark-gray?variant=50973022519579)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $188.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-short-sleeve-polo-sweater-charcoal-dark-gray?variant=50973022552347)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $188.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-short-sleeve-polo-sweater-charcoal-dark-gray?variant=50973022585115)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $188.00 USD
 - [Women's Cashmere Wool Blend Knit V-Neck Sweater in Stone Beige](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-v-neck-sweater-stone-beige): Shop women's cashmere wool blend knit V-neck sweater in stone beige. Soft, breathable knit with a ribbed neckline, cuffs and hem for a relaxed draped fit.
-  Updated: 2026-10-14T08:42:47Z
+  Updated: 2026-10-22T16:21:16Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Screenshot2025-08-27at4.30.32PM_a00686b9-3a1f-487f-9f8d-9b917439f97a.png?v=1759969186
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-v-neck-sweater-stone-beige?variant=50973071376667)
     Availability: Available
-    Price: $120.00 USD
+    Price: $198.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-v-neck-sweater-stone-beige?variant=50973071409435)
     Availability: Available
-    Price: $120.00 USD
+    Price: $198.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-v-neck-sweater-stone-beige?variant=50973071442203)
     Availability: Not Available
-    Price: $120.00 USD
+    Price: $198.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-v-neck-sweater-stone-beige?variant=50973071474971)
     Availability: Available
-    Price: $120.00 USD
+    Price: $198.00 USD
 - [Women's Fitted Long Sleeve Boatneck Top in Butter Yellow](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-butter-yellow): Shop women's fitted long sleeve boatneck top in butter yellow. Stretch cotton blend jersey knit with a sleek minimalist design.
-  Updated: 2026-09-25T10:29:28Z
+  Updated: 2026-10-19T12:38:38Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -956,7 +956,7 @@
     Availability: Available
     Price: $110.00 USD
 - [Women's Fitted Long Sleeve Boatneck Top in Black](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-black): Shop women's fitted long sleeve boatneck top in black. Stretch cotton blend jersey knit with a sleek minimalist design.
-  Updated: 2026-10-12T01:58:06Z
+  Updated: 2026-10-19T12:38:40Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -977,118 +977,118 @@
     Availability: Available
     Price: $110.00 USD
 - [Women's Fitted Long Sleeve Boatneck Top in Stone Beige](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-stone-beige): Shop women's fitted long sleeve boatneck top in stone beige. Stretch cotton blend jersey knit with a sleek minimalist design.
-  Updated: 2026-10-09T13:06:00Z
+  Updated: 2026-10-19T12:38:39Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/UntitledCapture1232.jpg?v=1764094567
   - [XS](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-stone-beige?variant=50973316022555)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $110.00 USD
   - [Small](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-stone-beige?variant=50973316055323)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $110.00 USD
   - [Medium](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-stone-beige?variant=50973316088091)
     Availability: Available
-    Price: $68.00 USD
+    Price: $110.00 USD
   - [Large](https://artlessforever.com/products/lane-fitted-long-sleeve-boatneck-top-stone-beige?variant=50973316120859)
     Availability: Available
-    Price: $68.00 USD
+    Price: $110.00 USD
 - [Women's Fitted Stretch Knit Hooded Top in Stone Beige](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-stone-beige): Shop women's stretch knit hooded loungewear top in stone beige. Lightweight fleece-lined fitted hoodie with an elegant flared hem.
-  Updated: 2026-10-14T06:41:45Z
+  Updated: 2026-10-17T01:07:57Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614564-retouched1.jpg?v=1790298101
   - [XS](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-stone-beige?variant=50973361111323)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Small](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-stone-beige?variant=50973361144091)
     Availability: Not Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Medium](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-stone-beige?variant=50973361176859)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Large](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-stone-beige?variant=50973361209627)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
 - [Women's Fitted Stretch Knit Hooded Top in Butter Yellow](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-butter-yellow): Shop women's stretch knit hooded loungewear top in butter yellow. Lightweight fleece-lined fitted hoodie with an elegant flared hem.
-  Updated: 2026-09-26T20:42:42Z
+  Updated: 2026-10-17T01:07:57Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614277-retouched-retouched.jpg?v=1790296276
   - [XS](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-butter-yellow?variant=50973385294107)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Small](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-butter-yellow?variant=50973385326875)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Medium](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-butter-yellow?variant=50973385359643)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Large](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-butter-yellow?variant=50973385392411)
     Availability: Not Available
-    Price: $88.00 USD
+    Price: $124.00 USD
 - [Women's Sleeveless Fitted Stretch Essential Tank Top in Black](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-black): Shop women's sleeveless fitted stretch essential tank top in black. Structured stretch fabric with wide straps and a flattering body-hugging fit for everyday wear.
-  Updated: 2026-10-09T22:06:55Z
+  Updated: 2026-10-19T12:38:40Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613854-retouched1.jpg?v=1790287256
   - [XS](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-black?variant=50973388275995)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Small](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-black?variant=50973388308763)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Medium](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-black?variant=50973388341531)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Large](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-black?variant=50973388374299)
     Availability: Available
-    Price: $68.00 USD
+    Price: $90.00 USD
 - [Women's Sleeveless Fitted Stretch Essential Tank Top in White](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-white): Shop women's sleeveless fitted stretch essential tank top in white. Structured stretch fabric with wide straps and a flattering body-hugging fit for everyday wear.
-  Updated: 2026-10-12T18:21:46Z
+  Updated: 2026-10-17T01:07:53Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613675-retouched1.jpg?v=1790284739
   - [XS](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-white?variant=50973389881627)
     Availability: Not Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Small](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-white?variant=50973389914395)
     Availability: Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Medium](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-white?variant=50973389947163)
     Availability: Available
-    Price: $68.00 USD
+    Price: $90.00 USD
   - [Large](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-white?variant=50973389979931)
     Availability: Available
-    Price: $68.00 USD
+    Price: $90.00 USD
 - [Women's Sleeveless Fitted Stretch Essential Tank Top in Merlot Dark Red](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red): Shop women's sleeveless fitted stretch essential tank top in merlot dark red. Structured stretch fabric with wide straps and a flattering body-hugging fit.
-  Updated: 2026-10-11T23:03:06Z
+  Updated: 2026-10-20T21:45:49Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613711-retouched1.jpg?v=1790284856
   - [XXS](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red?variant=54127429157147)
     Availability: Available
-    Price: $70.00 USD
+    Price: $90.00 USD
   - [XS](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red?variant=50973390668059)
     Availability: Available
-    Price: $70.00 USD
+    Price: $90.00 USD
   - [Small](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red?variant=50973390700827)
     Availability: Available
-    Price: $70.00 USD
+    Price: $90.00 USD
   - [Medium](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red?variant=50973390733595)
     Availability: Available
-    Price: $70.00 USD
+    Price: $90.00 USD
   - [Large](https://artlessforever.com/products/inez-sleeveless-fitted-stretch-essential-tank-top-merlot-dark-red?variant=50973390766363)
     Availability: Available
-    Price: $70.00 USD
+    Price: $90.00 USD
 - [Women's Sleeveless Fit-and-Flare Stretch Mini Dress in Black](https://artlessforever.com/products/rhea-sleeveless-fit-and-flare-stretch-mini-dress-black): Shop women's sleeveless stretch mini dress in black. Structured knit with a flattering fit-and-flare silhouette for effortless style.
-  Updated: 2026-10-14T17:53:40Z
+  Updated: 2026-10-21T18:51:09Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1097,118 +1097,118 @@
     Availability: Not Available
     Price: $124.00 USD
   - [XS](https://artlessforever.com/products/rhea-sleeveless-fit-and-flare-stretch-mini-dress-black?variant=50973407772955)
-    Availability: Available
+    Availability: Not Available
     Price: $124.00 USD
   - [Small](https://artlessforever.com/products/rhea-sleeveless-fit-and-flare-stretch-mini-dress-black?variant=50973407805723)
     Availability: Not Available
     Price: $124.00 USD
   - [Medium](https://artlessforever.com/products/rhea-sleeveless-fit-and-flare-stretch-mini-dress-black?variant=50973407838491)
-    Availability: Available
+    Availability: Not Available
     Price: $124.00 USD
   - [Large](https://artlessforever.com/products/rhea-sleeveless-fit-and-flare-stretch-mini-dress-black?variant=50973407871259)
     Availability: Available
     Price: $124.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Ballet Pink](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink): Shop women's cashmere wool blend knit lounge pants in Ballet Pink. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-14T08:42:47Z
+  Updated: 2026-10-17T01:07:53Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614152-retouched1_c9d3c75b-f7a7-49c7-be50-b527f5185d81.jpg?v=1790288618
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink?variant=51376912171291)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $248.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink?variant=51376912204059)
     Availability: Available
-    Price: $198.00 USD
+    Price: $248.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink?variant=51376912236827)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $248.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink?variant=51376912269595)
     Availability: Available
-    Price: $198.00 USD
+    Price: $248.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-ballet-pink?variant=51376912302363)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $248.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Lapis Blue](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis): Shop women's cashmere wool blend knit lounge pants in Lapis Blue. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-14T08:42:19Z
+  Updated: 2026-10-17T01:07:53Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613789-retouched-retouched.jpg?v=1790285195
   - [XXS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51941656625435)
     Availability: Not Available
-    Price: $100.00 USD
+    Price: $248.00 USD
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51376943137051)
     Availability: Available
-    Price: $100.00 USD
+    Price: $248.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51376943169819)
     Availability: Available
-    Price: $100.00 USD
+    Price: $248.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51376943202587)
     Availability: Available
-    Price: $100.00 USD
+    Price: $248.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51376943235355)
     Availability: Available
-    Price: $100.00 USD
+    Price: $248.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-lapis?variant=51376943268123)
     Availability: Not Available
-    Price: $100.00 USD
+    Price: $248.00 USD
 - [Women's Layered Cashmere Wool Blend Crew Neck Knit Sweater In Merlot](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-merlot): Shop women's cashmere wool blend knit crew neck sweater in dark merlot red. Soft, warm, breathable knit with double-layer detail at the neckline, cuffs and hem.
-  Updated: 2026-10-14T08:41:58Z
+  Updated: 2026-10-17T01:07:49Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.180026.jpg?v=1774124802
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-merlot?variant=51377090167067)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-merlot?variant=51377090199835)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-merlot?variant=51377090232603)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-merlot?variant=51377090265371)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
 - [Women's Fitted 3/4 Length Sleeve Jersey Knit Top in Stone Beige](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-stone-beige): Shop women's fitted 3/4 length sleeve jersey knit top in stone beige. Stretch cotton blend with a crew neck and sleek minimalist design.
-  Updated: 2026-10-14T21:42:07Z
+  Updated: 2026-10-22T20:16:58Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614599-retouched-retouched.jpg?v=1790298279
   - [XS](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-stone-beige?variant=51377742414107)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Small](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-stone-beige?variant=51377742446875)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Medium](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-stone-beige?variant=51377742479643)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Large](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-stone-beige?variant=51377742512411)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
 - [Women's Fitted 3/4 Length Sleeve Jersey Knit Top in Light Blue](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-light-blue): Shop women's fitted 3/4 length sleeve jersey knit top in light blue. Stretch cotton blend with a crew neck and sleek minimalist design.
-  Updated: 2026-10-14T16:12:07Z
+  Updated: 2026-10-22T16:22:18Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614405-retouched1.jpg?v=1790296874
   - [XS](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-light-blue?variant=51377768661275)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Small](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-light-blue?variant=51377768694043)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Medium](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-light-blue?variant=51377768726811)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
   - [Large](https://artlessforever.com/products/lee-fitted-3-4-length-sleeve-jersey-knit-top-light-blue?variant=51377768759579)
     Availability: Available
-    Price: $88.00 USD
+    Price: $98.00 USD
 - [Women's Stretch Jersey Backless Long Sleeve Top in Black](https://artlessforever.com/products/romy-top-stretch-jersey-backless-long-sleeve-top-black): Shop women's draped backless long-sleeve top in black. Soft stretch modal jersey with an elegantly draped open back for elevated evening style.
-  Updated: 2026-10-12T15:01:17Z
+  Updated: 2026-10-22T16:14:14Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -1232,7 +1232,7 @@
     Availability: Not Available
     Price: $130.00 USD
 - [Women's Stretch Jersey Backless Long Sleeve Top in Butter White](https://artlessforever.com/products/romy-top-stretch-jersey-backless-long-sleeve-top-butter-white): Shop women's draped backless long-sleeve top in butter white. Soft stretch modal jersey with an elegantly draped open back for elevated evening style.
-  Updated: 2026-09-29T05:34:06Z
+  Updated: 2026-10-22T16:22:13Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -1253,7 +1253,7 @@
     Availability: Not Available
     Price: $130.00 USD
 - [Women's Backless Bodycon Long Sleeve Mini Dress in Ballet Pink](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-ballet-pink): Shop women's backless bodycon long sleeve mini dress in ballet pink. Soft stretch modal jersey with a sculpting fit and open back for effortless evening style.
-  Updated: 2026-10-13T18:15:46Z
+  Updated: 2026-10-19T01:50:43Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -1274,28 +1274,28 @@
     Availability: Not Available
     Price: $154.00 USD
 - [Women's Backless Bodycon Long Sleeve Mini Dress in Butter White](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white): Shop women's backless bodycon long sleeve mini dress in butter white. Soft stretch modal jersey with a sculpting fit and open back for effortless evening style.
-  Updated: 2026-10-09T13:06:11Z
+  Updated: 2026-10-18T19:55:35Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614543-retouched-retouched.jpg?v=1790297880
   - [XS](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white?variant=51378222432539)
     Availability: Available
-    Price: $100.00 USD
+    Price: $154.00 USD
   - [Small](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white?variant=51378222465307)
     Availability: Available
-    Price: $100.00 USD
+    Price: $154.00 USD
   - [Medium](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white?variant=51378222498075)
     Availability: Available
-    Price: $100.00 USD
+    Price: $154.00 USD
   - [Large](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white?variant=51378222530843)
     Availability: Available
-    Price: $100.00 USD
+    Price: $154.00 USD
   - [XL](https://artlessforever.com/products/romy-backless-bodycon-long-sleeve-mini-dress-butter-white?variant=51378222563611)
     Availability: Not Available
-    Price: $100.00 USD
+    Price: $154.00 USD
 - [Women's Black Tailored Shorts | Cotton Modal Pull-On Summer Shorts](https://artlessforever.com/products/drew-black-cotton-modal-tailored-shorts): Women's black tailored shorts in a soft cotton-modal blend. Features a comfortable pull-on elastic waist, mid-thigh length and effortless 90s-inspired style.
-  Updated: 2026-09-25T10:34:22Z
+  Updated: 2026-10-21T19:31:36Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1319,31 +1319,31 @@
     Availability: Not Available
     Price: $100.00 USD
 - [Women's White Tailored Shorts | Cotton Modal Pull-On Summer Shorts](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts): Women's white tailored shorts in a soft cotton-modal blend. Features a comfortable pull-on elastic waist, mid-thigh length and effortless 90s-inspired style.
-  Updated: 2026-10-02T14:13:02Z
+  Updated: 2026-10-19T12:38:45Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/UntitledCapture1084.jpg?v=1771904527
   - [XXS](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226725147)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $100.00 USD
   - [XS](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226757915)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $100.00 USD
   - [Small](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226790683)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $100.00 USD
   - [Medium](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226823451)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $100.00 USD
   - [Large](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226856219)
     Availability: Available
-    Price: $78.00 USD
+    Price: $100.00 USD
   - [XL](https://artlessforever.com/products/drew-white-cotton-modal-tailored-shorts?variant=51378226888987)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $100.00 USD
 - [Women's Fleece-Lined Stretch Knit Lounge Pants in Black](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-black): The Lou Pants are the lounge pants, elevated. Fabricated in a buttery, fleece-lined knit, they are an easy choice for everyday wear. Designed to pair perfectly with the Lane or Lee Top. Model is 5'8" and wears size XS.
-  Updated: 2026-10-15T09:06:56Z
+  Updated: 2026-10-22T20:28:27Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1361,26 +1361,26 @@
     Availability: Available
     Price: $112.00 USD
   - [Large](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-black?variant=51378390040859)
-    Availability: Available
+    Availability: Not Available
     Price: $112.00 USD
 - [Women's Layered Cashmere Wool Blend Crew Neck Knit Sweater In Pink](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-ballet-pink): Shop women's cashmere wool blend knit crew neck sweater in Ballet Pink. Soft, warm, breathable knit with double-layer detail at the neckline, cuffs and hem.
-  Updated: 2026-10-14T08:41:48Z
+  Updated: 2026-10-17T01:07:49Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614151-retouched-retouched.jpg?v=1790288508
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-ballet-pink?variant=51383843356955)
     Availability: Available
-    Price: $140.00 USD
+    Price: $210.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-ballet-pink?variant=51383843389723)
     Availability: Available
-    Price: $140.00 USD
+    Price: $210.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-ballet-pink?variant=51383843422491)
     Availability: Available
-    Price: $140.00 USD
+    Price: $210.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-ballet-pink?variant=51383843455259)
     Availability: Available
-    Price: $140.00 USD
+    Price: $210.00 USD
 - [Women's Stretch Cotton Scoop Neck Racerback Tank Top in Cream](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-cream): Shop women's stretch cotton scoop neck racerback tank top in cream. Soft stretch cotton with ribbed trim and a rounded hem for a refined take on the everyday tank.
   Updated: 2026-10-09T14:05:32Z
   Vendor: Artless
@@ -1400,25 +1400,25 @@
     Availability: Available
     Price: $88.00 USD
 - [Women's Stretch Cotton Scoop Neck Racerback Tank Top in Black](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-black): Shop women's stretch cotton scoop neck racerback tank top in black. Soft stretch cotton with ribbed trim and a rounded hem for a refined take on the everyday tank.
-  Updated: 2026-10-15T17:00:58Z
+  Updated: 2026-10-19T12:38:45Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look32_1429-retouched.jpg?v=1781975310
   - [XS](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-black?variant=51739336114459)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-black?variant=51739336147227)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-black?variant=51739336179995)
     Availability: Available
-    Price: $60.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/elin-top-stretch-cotton-scoop-neck-racerback-tank-top-black?variant=51739336212763)
     Availability: Available
-    Price: $60.00 USD
+    Price: $88.00 USD
 - [Women's Tencel Blend Ribbed Scoop Neck Tank Top in Black](https://artlessforever.com/products/benny-top-tencel-blend-ribbed-scoop-neck-tank-top-black): Shop women's Tencel blend ribbed scoop neck tank top in black. Lightweight semi-sheer ribbed fabric with a soft, draped fit for effortless layering and minimalist style.
-  Updated: 2026-10-12T18:21:56Z
+  Updated: 2026-10-19T12:38:45Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -1436,7 +1436,7 @@
     Availability: Available
     Price: $76.00 USD
 - [Women's Stretch Cotton Baby Tee T-Shirt in Black](https://artlessforever.com/products/crawford-stretch-cotton-baby-tee-t-shirt-black): Shop women's stretch cotton baby tee in black. Short-sleeve fitted T-shirt with a softly rounded hem for reworked 90s-inspired style.
-  Updated: 2026-10-12T18:21:57Z
+  Updated: 2026-10-16T03:27:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1454,25 +1454,25 @@
     Availability: Available
     Price: $90.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Merlot](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-merlot): Shop women's stretch ribbed cotton racerback tank top in merlot dark red. Soft ribbed cotton with a streamlined fit, perfect for building an elevated capsule wardrobe.
-  Updated: 2026-10-09T13:01:36Z
+  Updated: 2026-10-22T15:50:52Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/UntitledCapture0309.jpg?v=1774124355
   - [XS](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-merlot?variant=51739453456667)
     Availability: Available
-    Price: $72.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-merlot?variant=51739453489435)
     Availability: Not Available
-    Price: $72.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-merlot?variant=51739453522203)
     Availability: Not Available
-    Price: $72.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-merlot?variant=51739453554971)
     Availability: Available
-    Price: $72.00 USD
+    Price: $88.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Black](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-black): Shop women's stretch ribbed cotton racerback tank top in black. Soft ribbed cotton with a streamlined fit, perfect for building an elevated capsule wardrobe.
-  Updated: 2026-09-25T13:09:19Z
+  Updated: 2026-10-22T15:50:52Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1490,25 +1490,25 @@
     Availability: Available
     Price: $88.00 USD
 - [Women's Stretch Cotton Vest-Style High-Neck Tank Top in Cream](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-cream): Shop women's stretch cotton vest-style high-neck tank top in cream. 90s-inspired sleeveless design with a clean, streamlined fit for effortless everyday style.
-  Updated: 2026-10-11T23:10:46Z
+  Updated: 2026-10-20T02:30:47Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.180076.jpg?v=1774243112
   - [XS](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-cream?variant=51739487568155)
     Availability: Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-cream?variant=51739487600923)
     Availability: Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-cream?variant=51739487633691)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-cream?variant=51739487666459)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $88.00 USD
 - [Women's Stretch Cotton V-Neck Long Sleeve Top in Black](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-black): Shop women's stretch cotton V-neck long sleeve top in black. Soft stretch cotton shirt with a fitted silhouette, a capsule wardrobe essential.
-  Updated: 2026-10-14T21:42:17Z
+  Updated: 2026-10-22T06:32:48Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1526,349 +1526,349 @@
     Availability: Available
     Price: $98.00 USD
 - [Women's Stretch Cotton Dolman Sleeve Scoop Neck Top in Black](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black): Shop women's stretch cotton dolman sleeve scoop neck top in black. Elbow-length sleeves, relaxed draped fit and banded hem for refined relaxed dressing.
-  Updated: 2026-10-14T15:49:36Z
+  Updated: 2026-10-22T15:52:26Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.180173.jpg?v=1774128917
   - [XXS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51835224228123)
     Availability: Not Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [XS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51741877043483)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Small](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51741877076251)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Medium](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51741877109019)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Large](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51741877141787)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [XL](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-black?variant=51835224260891)
     Availability: Not Available
-    Price: $128.00 USD
+    Price: $138.00 USD
 - [Women's Stretch Cotton Dolman Sleeve Scoop Neck Top in Cherry Red](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red): Shop women's stretch cotton dolman sleeve scoop neck top in cherry red. Elbow-length sleeves, relaxed draped fit and banded hem for refined relaxed dressing.
-  Updated: 2026-10-07T12:39:56Z
+  Updated: 2026-10-18T02:06:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look11_0436-retouched_f533b7f5-dbf5-4af5-a86d-d03d5df02c13.jpg?v=1781926362
   - [XXS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51835177730331)
     Availability: Not Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [XS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51741894410523)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Small](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51741894443291)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Medium](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51741894476059)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [Large](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51741894508827)
     Availability: Available
-    Price: $128.00 USD
+    Price: $138.00 USD
   - [XL](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-cherry-red?variant=51835177763099)
     Availability: Not Available
-    Price: $128.00 USD
+    Price: $138.00 USD
 - [Women's 100% Silk Charmeuse Lace-Trim Tank Top in Black](https://artlessforever.com/products/blake-lace-top-100-percent-silk-charmeuse-lace-trim-tank-top-black): Shop women's 100% silk charmeuse lace-trim tank top in black. Luxurious lightweight silk with delicate lace trim for elevated capsule wardrobe style.
-  Updated: 2026-10-10T23:46:32Z
+  Updated: 2026-10-20T22:46:13Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look15_0823-retouched.jpg?v=1781930360
   - [XS](https://artlessforever.com/products/blake-lace-top-100-percent-silk-charmeuse-lace-trim-tank-top-black?variant=51741976625435)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $298.00 USD
   - [Small](https://artlessforever.com/products/blake-lace-top-100-percent-silk-charmeuse-lace-trim-tank-top-black?variant=51741976658203)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $298.00 USD
   - [Medium](https://artlessforever.com/products/blake-lace-top-100-percent-silk-charmeuse-lace-trim-tank-top-black?variant=51741976690971)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $298.00 USD
   - [Large](https://artlessforever.com/products/blake-lace-top-100-percent-silk-charmeuse-lace-trim-tank-top-black?variant=51741976723739)
     Availability: Available
-    Price: $198.00 USD
+    Price: $298.00 USD
 - [Women's 100% Silk Charmeuse Racerback Tank Top in Black](https://artlessforever.com/products/blake-top-100-percent-silk-charmeuse-racerback-tank-top-black): Shop women's 100% silk charmeuse racerback tank top in black. Luxurious lightweight silk with an elegant drape for elevated capsule wardrobe style.
-  Updated: 2026-10-09T13:01:38Z
+  Updated: 2026-10-20T22:46:40Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.180284.jpg?v=1774240491
   - [XS](https://artlessforever.com/products/blake-top-100-percent-silk-charmeuse-racerback-tank-top-black?variant=51741982621979)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $288.00 USD
   - [Small](https://artlessforever.com/products/blake-top-100-percent-silk-charmeuse-racerback-tank-top-black?variant=51741982654747)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $288.00 USD
   - [Medium](https://artlessforever.com/products/blake-top-100-percent-silk-charmeuse-racerback-tank-top-black?variant=51741982687515)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $288.00 USD
   - [Large](https://artlessforever.com/products/blake-top-100-percent-silk-charmeuse-racerback-tank-top-black?variant=51741982720283)
     Availability: Available
-    Price: $188.00 USD
+    Price: $288.00 USD
 - [Women's Long Sleeve Stretch Cotton Top with Lace Cuffs in Cream](https://artlessforever.com/products/valentina-long-sleeve-stretch-cotton-top-lace-cuffs-cream): Shop women's long sleeve stretch cotton top in cream. Detachable lace cuffs create two looks in one with effortless everyday style and versatile elegance.
-  Updated: 2026-10-09T13:01:34Z
+  Updated: 2026-10-17T01:07:43Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.1801941.jpg?v=1774239330
   - [XS](https://artlessforever.com/products/valentina-long-sleeve-stretch-cotton-top-lace-cuffs-cream?variant=51742828069147)
     Availability: Not Available
-    Price: $58.00 USD
+    Price: $118.00 USD
   - [Small](https://artlessforever.com/products/valentina-long-sleeve-stretch-cotton-top-lace-cuffs-cream?variant=51742828101915)
     Availability: Not Available
-    Price: $58.00 USD
+    Price: $118.00 USD
   - [Medium](https://artlessforever.com/products/valentina-long-sleeve-stretch-cotton-top-lace-cuffs-cream?variant=51742828134683)
     Availability: Not Available
-    Price: $58.00 USD
+    Price: $118.00 USD
   - [Large](https://artlessforever.com/products/valentina-long-sleeve-stretch-cotton-top-lace-cuffs-cream?variant=51742828167451)
     Availability: Available
-    Price: $58.00 USD
+    Price: $118.00 USD
+- [Women's Satin Lace-Trim Sleeveless Mini Dress in Black](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-black): Shop women's satin lace-trim sleeveless mini dress in black. Structured, feminine silhouette with delicate lace detailing for polished evening style.
+  Updated: 2026-10-21T12:15:06Z
+  Vendor: Artless
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/UntitledCapture1744.jpg?v=1772247031
+  - [XS](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-black?variant=51742835736859)
+    Availability: Not Available
+    Price: $248.00 USD
+  - [Small](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-black?variant=51742835769627)
+    Availability: Available
+    Price: $248.00 USD
+  - [Medium](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-black?variant=51742835802395)
+    Availability: Available
+    Price: $248.00 USD
+  - [Large](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-black?variant=51742835835163)
+    Availability: Available
+    Price: $248.00 USD
 - [Women's Fleece-Lined Stretch Knit Lounge Pants in Light Blue](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-light-blue): Shop women's fleece-lined stretch knit lounge pants in light blue. Mid-rise, straight-leg silhouette crafted from buttery-soft stretch knit for elevated loungewear style.
-  Updated: 2026-10-12T01:58:07Z
+  Updated: 2026-10-17T01:07:43Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look35_1536-retouched.jpg?v=1782021623
   - [XS](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-light-blue?variant=51923137069339)
     Availability: Available
-    Price: $78.00 USD
+    Price: $112.00 USD
   - [Small](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-light-blue?variant=51923137102107)
     Availability: Available
-    Price: $78.00 USD
+    Price: $112.00 USD
   - [Medium](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-light-blue?variant=51923137134875)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $112.00 USD
   - [Large](https://artlessforever.com/products/lou-pants-fleece-lined-stretch-knit-lounge-pants-light-blue?variant=51923137167643)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $112.00 USD
 - [Women's Fitted Stretch Knit Hooded Top in Light Blue](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-light-blue): Shop women's stretch knit hooded loungewear top in light blue. Lightweight fleece-lined fitted hoodie with an elegant flared hem.
-  Updated: 2026-10-10T09:48:56Z
+  Updated: 2026-10-19T12:38:47Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESSFOREVEREDITORIAL3.1801601.jpg?v=1774240888
   - [XS](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-light-blue?variant=51923147948315)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Small](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-light-blue?variant=51923147981083)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Medium](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-light-blue?variant=51923148013851)
     Availability: Available
-    Price: $88.00 USD
+    Price: $124.00 USD
   - [Large](https://artlessforever.com/products/leni-fitted-stretch-knit-hooded-top-light-blue?variant=51923148046619)
     Availability: Not Available
-    Price: $88.00 USD
+    Price: $124.00 USD
 - [Women's Stretch Cotton Vest-Style High-Neck Tank Top in Fog Gray](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-fog-gray): Shop women's stretch cotton vest-style high-neck tank top in fog gray. 90s-inspired sleeveless design with a clean, streamlined fit for effortless everyday style.
-  Updated: 2026-10-10T10:45:57Z
+  Updated: 2026-10-20T02:30:57Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look20_0984-retouched.jpg?v=1782002254
   - [XS](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-fog-gray?variant=52258783363355)
     Availability: Not Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-fog-gray?variant=52258783396123)
     Availability: Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-fog-gray?variant=52258783428891)
     Availability: Available
-    Price: $50.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/campbell-stretch-cotton-vest-style-high-neck-tank-top-fog-gray?variant=52258783461659)
     Availability: Available
-    Price: $50.00 USD
+    Price: $88.00 USD
 - [Women's Stretch Cotton V-Neck Long Sleeve Top in Cream](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-cream): Shop women's stretch cotton V-neck long sleeve top in cream. Soft stretch cotton shirt with a fitted silhouette, a capsule wardrobe essential.
-  Updated: 2026-10-14T21:42:17Z
+  Updated: 2026-10-22T20:37:17Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look25_1190-retouched.jpg?v=1781977916
   - [XS](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-cream?variant=52258820587803)
     Availability: Not Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Small](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-cream?variant=52258820620571)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Medium](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-cream?variant=52258820653339)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Large](https://artlessforever.com/products/reed-top-stretch-cotton-v-neck-long-sleeve-top-cream?variant=52258820686107)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
 - [Women's Stretch Cotton V-Neck Long Sleeve Top in Cherry Red](https://artlessforever.com/products/reed-top-cherry-red-cotton-v-neck-long-sleeve-top): Shop women's stretch cotton V-neck long sleeve top in cherry red. Soft stretch cotton shirt with a fitted silhouette, a capsule wardrobe essential.
-  Updated: 2026-10-12T18:28:16Z
+  Updated: 2026-10-22T20:37:17Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look7_0396-retouched_18962e26-ad42-4b58-a180-fb8f0671da8f.jpg?v=1781925193
   - [XS](https://artlessforever.com/products/reed-top-cherry-red-cotton-v-neck-long-sleeve-top?variant=52258821636379)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Small](https://artlessforever.com/products/reed-top-cherry-red-cotton-v-neck-long-sleeve-top?variant=52258821669147)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Medium](https://artlessforever.com/products/reed-top-cherry-red-cotton-v-neck-long-sleeve-top?variant=52258821701915)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
   - [Large](https://artlessforever.com/products/reed-top-cherry-red-cotton-v-neck-long-sleeve-top?variant=52258821734683)
     Availability: Available
-    Price: $70.00 USD
+    Price: $98.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Frost Gray](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-frost-gray): Shop women's stretch ribbed cotton racerback tank top in frost gray. Soft ribbed cotton with a streamlined fit, perfect for building an elevated capsule wardrobe.
-  Updated: 2026-09-26T20:42:40Z
+  Updated: 2026-10-17T01:07:36Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look18_0490-retouched.jpg?v=1782002510
   - [XS](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-frost-gray?variant=52258824093979)
     Availability: Available
-    Price: $70.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-frost-gray?variant=52258824126747)
     Availability: Available
-    Price: $70.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-frost-gray?variant=52258824159515)
     Availability: Available
-    Price: $70.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/jude-top-stretch-ribbed-cotton-racerback-tank-top-frost-gray?variant=52258824192283)
     Availability: Available
-    Price: $70.00 USD
+    Price: $88.00 USD
 - [Women's Satin Mid-Rise Pull-On Dress Pants with Lace Hem in White](https://artlessforever.com/products/blair-satin-mid-rise-pull-on-dress-pants-lace-white): Shop women's silky satin mid-rise dress pants in white. Fluid drape with delicate lace detailing at hem and a pull-on elastic waistband for effortless style.
-  Updated: 2026-10-09T13:06:00Z
+  Updated: 2026-10-17T01:07:36Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look17_0888-retouched.jpg?v=1782001538
   - [XS](https://artlessforever.com/products/blair-satin-mid-rise-pull-on-dress-pants-lace-white?variant=52258826354971)
     Availability: Available
-    Price: $200.00 USD
+    Price: $240.00 USD
   - [Small](https://artlessforever.com/products/blair-satin-mid-rise-pull-on-dress-pants-lace-white?variant=52258826387739)
     Availability: Available
-    Price: $200.00 USD
+    Price: $240.00 USD
   - [Medium](https://artlessforever.com/products/blair-satin-mid-rise-pull-on-dress-pants-lace-white?variant=52258826420507)
     Availability: Not Available
-    Price: $200.00 USD
+    Price: $240.00 USD
   - [Large](https://artlessforever.com/products/blair-satin-mid-rise-pull-on-dress-pants-lace-white?variant=52258826453275)
     Availability: Available
-    Price: $200.00 USD
+    Price: $240.00 USD
 - [Women's White Satin Tank Top | Racerback Sleeveless Top](https://artlessforever.com/products/wren-lace-top-white-satin-tank-top): The Wren Lace Top is a women's white satin tank featuring a flattering racerback, draped silhouette and effortless elegance for warm-weather style.
-  Updated: 2026-10-09T13:06:00Z
+  Updated: 2026-10-17T01:07:36Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look17_0893-retouched.jpg?v=1782001534
   - [XS](https://artlessforever.com/products/wren-lace-top-white-satin-tank-top?variant=52258831466779)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Small](https://artlessforever.com/products/wren-lace-top-white-satin-tank-top?variant=52258831499547)
     Availability: Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Medium](https://artlessforever.com/products/wren-lace-top-white-satin-tank-top?variant=52258831532315)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Large](https://artlessforever.com/products/wren-lace-top-white-satin-tank-top?variant=52258831565083)
     Availability: Available
-    Price: $108.00 USD
-- [Women's Satin Lace-Trim Sleeveless Mini Dress in Frost Gray](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-frost-gray): Shop women's satin lace-trim sleeveless mini dress in frost gray. Structured, feminine silhouette with delicate lace detailing for polished evening style.
-  Updated: 2026-10-09T13:01:36Z
-  Vendor: Artless
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look21_1005-retouched.jpg?v=1782001823
-  - [XS](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-frost-gray?variant=52258848047387)
-    Availability: Available
-    Price: $188.00 USD
-  - [Small](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-frost-gray?variant=52258848080155)
-    Availability: Not Available
-    Price: $188.00 USD
-  - [Medium](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-frost-gray?variant=52258848112923)
-    Availability: Not Available
-    Price: $188.00 USD
-  - [Large](https://artlessforever.com/products/greer-satin-lace-trim-sleeveless-mini-dress-frost-gray?variant=52258848145691)
-    Availability: Not Available
-    Price: $188.00 USD
+    Price: $138.00 USD
 - [Women's Stretch Cotton Dolman Sleeve Scoop Neck Top in Eggshell White](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white): Shop women's stretch cotton dolman sleeve scoop neck top in eggshell white. Elbow-length sleeves, relaxed draped fit and banded hem for refined relaxed dressing.
-  Updated: 2026-10-09T13:01:40Z
+  Updated: 2026-10-18T02:06:06Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look13_0684-retouched.jpg?v=1781927396
   - [XXS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849030427)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [XS](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849063195)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Small](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849095963)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Medium](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849128731)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [Large](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849161499)
     Availability: Available
-    Price: $108.00 USD
+    Price: $138.00 USD
   - [XL](https://artlessforever.com/products/logan-top-stretch-cotton-dolman-sleeve-scoop-neck-top-eggshell-white?variant=52258849194267)
     Availability: Not Available
-    Price: $108.00 USD
+    Price: $138.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Jet Black](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black): Shop women's cashmere wool blend knit lounge pants in Jet Black. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-14T08:43:41Z
+  Updated: 2026-10-17T01:07:32Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look23_1130-retouched_7d2a8285-eea7-4d87-b3a5-32cc00195902.jpg?v=1782018586
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black?variant=52258859581723)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black?variant=52258859614491)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black?variant=52258859647259)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black?variant=52258859680027)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-jet-black?variant=52258859712795)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $248.00 USD
 - [Women's Layered Cashmere Wool Blend Knit Lounge Pants in Navy Blue](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue): Shop women's cashmere wool blend knit lounge pants in Navy Blue. Soft, breathable knit with a straight leg, mid-rise fit and layered waistband detailing.
-  Updated: 2026-10-14T08:41:13Z
+  Updated: 2026-10-17T01:07:32Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look_1_0129-retouched.jpg?v=1781919938
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue?variant=52258862170395)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue?variant=52258862203163)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue?variant=52258862235931)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue?variant=52258862268699)
     Availability: Available
-    Price: $188.00 USD
+    Price: $248.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-lounge-pants-navy-blue?variant=52258862301467)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $248.00 USD
 - [Women's Cashmere Wool Blend Knit Lounge Pants in Fog](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-lounge-pants-fog): Shop women's cashmere wool blend knit lounge pants in fog gray color. Soft, breathable knit with a straight leg, mid-rise fit and drawstring waistband.
-  Updated: 2026-10-14T08:42:53Z
+  Updated: 2026-10-20T02:31:38Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look27_1255-retouched2_892ea275-4f35-4f59-9b3b-a4e53b39c15a.jpg?v=1782019998
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-lounge-pants-fog?variant=52258862530843)
-    Availability: Available
+    Availability: Not Available
     Price: $248.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-lounge-pants-fog?variant=52258862563611)
     Availability: Available
     Price: $248.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-lounge-pants-fog?variant=52258862596379)
-    Availability: Available
+    Availability: Not Available
     Price: $248.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-lounge-pants-fog?variant=52258862629147)
     Availability: Available
@@ -1898,7 +1898,7 @@
     Availability: Not Available
     Price: $220.00 USD
 - [Women's Cashmere Wool Blend Long Sleeve Polo Sweater in Cream](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-cream): Shop women's cashmere wool blend long sleeve polo sweater in cream. Soft, breathable knit with a ribbed hem, button front and relaxed open collar.
-  Updated: 2026-10-15T09:06:39Z
+  Updated: 2026-10-20T17:06:08Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1907,7 +1907,7 @@
     Availability: Not Available
     Price: $220.00 USD
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-cream?variant=52260927865115)
-    Availability: Available
+    Availability: Not Available
     Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-cream?variant=52260927897883)
     Availability: Available
@@ -1922,28 +1922,28 @@
     Availability: Not Available
     Price: $220.00 USD
 - [Women's Cashmere Wool Blend Long Sleeve Polo Sweater in Navy Blue](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue): Shop women's cashmere wool blend long sleeve polo sweater in navy blue. Soft, breathable knit with a ribbed hem, button front and relaxed open collar.
-  Updated: 2026-10-14T08:43:28Z
+  Updated: 2026-10-17T01:07:32Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look_1_0131-retouched.jpg?v=1781919459
   - [XS](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue?variant=52260930453787)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue?variant=52260930486555)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue?variant=52260930519323)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue?variant=52260930552091)
     Availability: Available
-    Price: $188.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/tove-cashmere-wool-blend-long-sleeve-polo-sweater-navy-blue?variant=52260930584859)
     Availability: Not Available
-    Price: $188.00 USD
+    Price: $220.00 USD
 - [Women's Cashmere Wool Blend Knit Maxi Skirt in Jet Black](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-maxi-skirt-jet-black): Shop women's cashmere wool blend knit maxi skirt in jet black. Soft, breathable knit with a layered waistband detail, mid-to-low rise fit and sleek silhouette.
-  Updated: 2026-10-14T08:44:11Z
+  Updated: 2026-10-19T02:21:43Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -1961,7 +1961,7 @@
     Availability: Available
     Price: $248.00 USD
 - [Women's Mid-Rise Wide-Leg Pull-On Cotton Modal Pants in Olive Green](https://artlessforever.com/products/drew-mid-rise-wide-leg-pull-on-cotton-modal-pants-olive-green): Shop women's mid-rise wide-leg pull-on cotton modal pants in olive green. Soft drape with side pockets and an elastic waistband for elevated comfort.
-  Updated: 2026-09-25T05:00:29Z
+  Updated: 2026-10-18T03:26:16Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -1985,7 +1985,7 @@
     Availability: Not Available
     Price: $144.00 USD
 - [Women's Knit Cashmere Wool Crew Neck Sweater Tee in Fog Gray](https://artlessforever.com/products/tove-tee-cashmere-wool-crew-neck-sweater-tee-fog-gray): Shop women's cashmere blend crew neck sweater tee in fog gray. Soft cashmere-wool blend knit with a ribbed hem for an elevated take on the classic tee.
-  Updated: 2026-10-14T08:41:22Z
+  Updated: 2026-10-20T02:31:53Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -2003,26 +2003,26 @@
     Availability: Available
     Price: $188.00 USD
 - [Women's Layered Cashmere Wool Blend Crew Neck Knit Sweater In Black](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black): Shop women's cashmere wool blend knit crew neck sweater in Black. Soft, warm, breathable knit with double-layer detailing at the neckline, cuffs and hem.
-  Updated: 2026-10-14T21:32:27Z
+  Updated: 2026-10-19T12:38:50Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/Look23_1080-retouched.jpg?v=1782018431
   - [XS](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black?variant=52312136876315)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black?variant=52312136909083)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black?variant=52312136941851)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black?variant=52312136974619)
     Availability: Available
-    Price: $168.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/tove-layered-cashmere-wool-blend-knit-crew-neck-sweater-black?variant=52312137007387)
     Availability: Not Available
-    Price: $168.00 USD
+    Price: $220.00 USD
 - [Women's Cashmere Wool Blend Knit Mini Skirt in Merlot Red](https://artlessforever.com/products/tove-cashmere-wool-blend-knit-mini-skirt-merlot-dark-red): Shop women's cashmere wool blend knit mini skirt in merlot red. Soft, breathable knit with a layered waistband detail, mid-to-low rise fit and clean A-line silhouette.
   Updated: 2026-10-14T08:42:00Z
   Vendor: Artless
@@ -2063,7 +2063,7 @@
     Availability: Not Available
     Price: $144.00 USD
 - [Women's Beige Wide Leg Linen Cotton Pants with Relaxed Fit](https://artlessforever.com/products/august-womens-wide-leg-linen-cotton-pants-beige): Shop women's beige wide leg linen blend pants made from breathable 80% linen and 20% cotton. Relaxed fit with partial lining for effortless everyday wear.
-  Updated: 2026-10-12T19:51:18Z
+  Updated: 2026-10-19T20:51:28Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -2126,7 +2126,7 @@
     Availability: Not Available
     Price: $228.00 USD
 - [Women's Satin Tank Top | Racerback Sleeveless Top](https://artlessforever.com/products/wren-satin-lace-top-black): The Wren Lace Top is a women's black satin tank featuring a flattering racerback, draped silhouette and feminine lace trim.
-  Updated: 2026-10-10T10:36:26Z
+  Updated: 2026-10-19T02:15:56Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -2144,49 +2144,49 @@
     Availability: Available
     Price: $138.00 USD
 - [Rue Tassel Pants](https://artlessforever.com/products/rue-tassel-pants-black): Straight leg crepe pants with elasticized waistband and tassel at waist.
-  Updated: 2026-09-25T17:40:08Z
+  Updated: 2026-10-22T15:41:47Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613746-retouched1_a0cacc08-bb05-4fb7-9378-caf6ea559c6d.jpg?v=1790287097
   - [XS](https://artlessforever.com/products/rue-tassel-pants-black?variant=53990083854619)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/rue-tassel-pants-black?variant=53990083887387)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/rue-tassel-pants-black?variant=53990083920155)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/rue-tassel-pants-black?variant=53990083952923)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/rue-tassel-pants-black?variant=53990083985691)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $220.00 USD
 - [Rue Tassel Pants](https://artlessforever.com/products/rue-tassel-pants-cream): Straight leg crepe pants with elasticized waistband and tassel at waist.
-  Updated: 2026-09-25T10:18:05Z
+  Updated: 2026-10-19T18:41:51Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614046-retouched1.jpg?v=1790288199
   - [XS](https://artlessforever.com/products/rue-tassel-pants-cream?variant=53990105776411)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Small](https://artlessforever.com/products/rue-tassel-pants-cream?variant=53990105809179)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Medium](https://artlessforever.com/products/rue-tassel-pants-cream?variant=53990105841947)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [Large](https://artlessforever.com/products/rue-tassel-pants-cream?variant=53990105874715)
     Availability: Available
-    Price: $198.00 USD
+    Price: $220.00 USD
   - [XL](https://artlessforever.com/products/rue-tassel-pants-cream?variant=53990105907483)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $220.00 USD
 - [Leo Top](https://artlessforever.com/products/leo-top-olive): The Leo Top is a refined essential. Designed with a low halter neckline, open back and ruching across the body, the stretch modal fabric contours comfortably to the figure while creating effortless drape through the front. Leo is an elevated staple made for dressing up or down. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-15T05:02:28Z
+  Updated: 2026-10-19T18:41:46Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2210,7 +2210,7 @@
     Availability: Not Available
     Price: $128.00 USD
 - [Leo Top](https://artlessforever.com/products/leo-top-black): The Leo Top is a refined essential. Designed with a low halter neckline, open back and ruching across the body, the stretch modal fabric contours comfortably to the figure while creating effortless drape through the front. Leo is an elevated staple made for dressing up or down. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-15T23:59:58Z
+  Updated: 2026-10-21T19:28:59Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2234,7 +2234,7 @@
     Availability: Not Available
     Price: $128.00 USD
 - [Leo Top](https://artlessforever.com/products/leo-top-lapis): The Leo Top is a refined essential. Designed with a low halter neckline, open back and ruching across the body, the stretch modal fabric contours comfortably to the figure while creating effortless drape through the front. Leo is an elevated staple made for dressing up or down. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-11T17:36:56Z
+  Updated: 2026-10-19T18:41:37Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2255,7 +2255,7 @@
     Availability: Not Available
     Price: $128.00 USD
 - [Women's Satin Mid-Rise Pull-On Dress Pants with Fringe Hem in Merlot](https://artlessforever.com/products/rowe-satin-fringe-pants-burgundy): Shop women's silky mid-rise dress pants in merlot. Fluid drape with delicate fringe detailing at hem and a pull-on elastic waistband for effortless style.
-  Updated: 2026-10-15T23:59:55Z
+  Updated: 2026-10-22T06:31:27Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2273,16 +2273,16 @@
     Availability: Available
     Price: $240.00 USD
 - [Women's Satin Mid-Rise Pull-On Dress Pants with Fringe Hem in Black](https://artlessforever.com/products/rowe-satin-fringe-pants-black): Shop women's silky mid-rise dress pants in black. Fluid drape with delicate fringe detailing at hem and a pull-on elastic waistband for effortless style.
-  Updated: 2026-10-11T15:39:16Z
+  Updated: 2026-10-22T04:39:06Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613858-retouched1_bb8c04fc-42b6-414a-87a5-3a6774a66a76.jpg?v=1790314142
   - [XS](https://artlessforever.com/products/rowe-satin-fringe-pants-black?variant=53995186782491)
-    Availability: Available
+    Availability: Not Available
     Price: $240.00 USD
   - [Small](https://artlessforever.com/products/rowe-satin-fringe-pants-black?variant=53995186815259)
-    Availability: Available
+    Availability: Not Available
     Price: $240.00 USD
   - [Medium](https://artlessforever.com/products/rowe-satin-fringe-pants-black?variant=53995186848027)
     Availability: Available
@@ -2291,7 +2291,7 @@
     Availability: Available
     Price: $240.00 USD
 - [Women's Mid-Rise Stretch Twill Hotpants Mini Shorts in Burgundy](https://artlessforever.com/products/ellis-low-rise-mini-shorts-burgundy): Shop women's low-rise stretch twill hotpants shorts in burgundy. Concealed zip front, belt loops, pockets and angular hem for a flattering fit.
-  Updated: 2026-10-12T01:58:06Z
+  Updated: 2026-10-16T03:26:46Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2315,7 +2315,7 @@
     Availability: Not Available
     Price: $100.00 USD
 - [Quinn Mini Dress](https://artlessforever.com/products/quinn-mini-dress-black-white-trim): Our most-loved Quinn Mini is back, and this time, refined for your day-to-day wardrobe. Inspired by vintage silhouettes, Quinn features a fitted bodice that hugs the waist, mini length, and a flirty, feminine bell sleeve. Fits true to size, but size up if over 5'8". Model is 5'10" and wears size XS.
-  Updated: 2026-10-12T01:58:06Z
+  Updated: 2026-10-22T16:20:46Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2336,7 +2336,7 @@
     Availability: Not Available
     Price: $144.00 USD
 - [Women's Knit Classic Crew Neck T-Shirt in White](https://artlessforever.com/products/reese-knit-tee-white): Shop women's knit crew neck T-shirt in white. Short sleeve, slightly cropped design with a structured boxy fit for modern classic style.
-  Updated: 2026-10-12T01:58:06Z
+  Updated: 2026-10-19T18:40:48Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
@@ -2360,7 +2360,7 @@
     Availability: Not Available
     Price: $88.00 USD
 - [Cleo Top](https://artlessforever.com/products/cleo-top-black): The Cleo Top is an elevated take on an everyday essential. Designed with a wide, folded neckline that wraps across the upper body and sits off the shoulders, Cleo creates a soft, draped effect while maintaining a close-to-the-body fit. Feminine and refined, it pairs effortlessly with tailored trousers or a midi skirt. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-09T14:05:37Z
+  Updated: 2026-10-19T18:40:42Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2381,7 +2381,7 @@
     Availability: Not Available
     Price: $138.00 USD
 - [Cleo Top](https://artlessforever.com/products/cleo-top-burgundy): The Cleo Top is an elevated take on an everyday essential. Designed with a wide, folded neckline that wraps across the upper body and sits off the shoulders, Cleo creates a soft, draped effect while maintaining a close-to-the-body fit. Feminine and refined, it pairs effortlessly with tailored trousers or a midi skirt. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-07T09:00:29Z
+  Updated: 2026-10-22T00:47:18Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2402,49 +2402,49 @@
     Availability: Not Available
     Price: $138.00 USD
 - [Capri Maxi Dress](https://artlessforever.com/products/capri-maxi-dress-burgundy): The Capri Maxi Dress features an ankle-grazing length, bustier neckline and ruching along the front chest. Fabricated in a stretch jersey that hugs the body perfectly, you'll be making excuses to go out in this one. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-12T01:58:09Z
+  Updated: 2026-10-19T18:40:33Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613194-retouched1.jpg?v=1790268159
   - [XS](https://artlessforever.com/products/capri-maxi-dress-burgundy?variant=53995342528795)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Small](https://artlessforever.com/products/capri-maxi-dress-burgundy?variant=53995342561563)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Medium](https://artlessforever.com/products/capri-maxi-dress-burgundy?variant=53995342594331)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Large](https://artlessforever.com/products/capri-maxi-dress-burgundy?variant=53995342627099)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [XL](https://artlessforever.com/products/capri-maxi-dress-burgundy?variant=53995342659867)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $280.00 USD
 - [Capri Maxi Dress](https://artlessforever.com/products/capri-maxi-dress-black): The Capri Maxi Dress features an ankle-grazing length, bustier neckline and ruching along the front chest. Fabricated in a stretch jersey that hugs the body perfectly, you'll be making excuses to go out in this one. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-02T21:01:48Z
+  Updated: 2026-10-22T15:40:47Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613169-retouched-retouched.jpg?v=1790267816
   - [XS](https://artlessforever.com/products/capri-maxi-dress-black?variant=53995346002203)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Small](https://artlessforever.com/products/capri-maxi-dress-black?variant=53995346034971)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Medium](https://artlessforever.com/products/capri-maxi-dress-black?variant=53995346067739)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [Large](https://artlessforever.com/products/capri-maxi-dress-black?variant=53995346100507)
     Availability: Available
-    Price: $198.00 USD
+    Price: $280.00 USD
   - [XL](https://artlessforever.com/products/capri-maxi-dress-black?variant=53995346133275)
     Availability: Not Available
-    Price: $198.00 USD
+    Price: $280.00 USD
 - [Ezra Jacket](https://artlessforever.com/products/ezra-jacket-burgundy): Make space in your wardrobe for the Ezra Jacket. A true closet staple, Ezra is crafted in a buttery faux leather with a fitted shape and closure at the top. Wear it alone as a top, or layer it over your look during cooler weather. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-12T02:06:38Z
+  Updated: 2026-10-22T16:01:56Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2468,7 +2468,7 @@
     Availability: Not Available
     Price: $288.00 USD
 - [Ezra Jacket](https://artlessforever.com/products/ezra-jacket-black): Make space in your wardrobe for the Ezra Jacket. A true closet staple, Ezra is crafted in a buttery faux leather with a fitted shape and closure at the top. Wear it alone as a top, or layer it over your look during cooler weather. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-13T01:51:59Z
+  Updated: 2026-10-22T15:30:24Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2492,7 +2492,7 @@
     Availability: Not Available
     Price: $288.00 USD
 - [Dylan Jacket](https://artlessforever.com/products/dylan-jacket-burgundy): Dylan embodies refined elegance. With a double closure at the neckline and lace trim along the wrist and hem, the Dylan Jacket easily elevates any evening look. Layer it over your look or wear it on its own, the choice is yours. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-13T01:52:00Z
+  Updated: 2026-10-19T18:40:08Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2516,7 +2516,7 @@
     Availability: Not Available
     Price: $278.00 USD
 - [Dylan Jacket](https://artlessforever.com/products/dylan-jacket-black): Dylan embodies refined elegance. With a double closure at the neckline and lace trim along the wrist and hem, the Dylan Jacket easily elevates any evening look. Layer it over your look or wear it on its own, the choice is yours. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-13T01:51:58Z
+  Updated: 2026-10-22T16:14:13Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2540,7 +2540,7 @@
     Availability: Not Available
     Price: $278.00 USD
 - [Sienne Trouser](https://artlessforever.com/products/sienne-trouser-burgundy): The Sienne Trouser is a fitted, low-rise pant with a subtle bootcut silhouette. Designed with a classic trouser waistband and just the right amount of stretch, it contours the body for a flattering, comfortable fit. An effortless wardrobe staple, Sienne transitions seamlessly from day to night. Runs large, size down if in between sizes. Model is 5'10" and wears size XXS.
-  Updated: 2026-10-07T08:57:51Z
+  Updated: 2026-10-19T18:39:56Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2561,13 +2561,13 @@
     Availability: Not Available
     Price: $188.00 USD
 - [Sienne Trouser](https://artlessforever.com/products/sienne-trouser-black): The Sienne Trouser is a fitted, low-rise pant with a subtle bootcut silhouette. Designed with a classic trouser waistband and just the right amount of stretch, it contours the body for a flattering, comfortable fit. An effortless wardrobe staple, Sienne transitions seamlessly from day to night. Runs large, size down if in between sizes. Model is 5'10" and wears size XS.
-  Updated: 2026-10-15T05:01:52Z
+  Updated: 2026-10-19T18:39:51Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613698-retouched-retouched.jpg?v=1790285609
   - [XXS](https://artlessforever.com/products/sienne-trouser-black?variant=54127447245083)
-    Availability: Available
+    Availability: Not Available
     Price: $188.00 USD
   - [XS](https://artlessforever.com/products/sienne-trouser-black?variant=53995423072539)
     Availability: Available
@@ -2585,7 +2585,7 @@
     Availability: Not Available
     Price: $188.00 USD
 - [Sloan Suede Skirt](https://artlessforever.com/products/sloan-suede-skirt-brown): Sloan is the suede midi skirt of our dreams. Designed to sit low on the waist with a sleek, knee-length silhouette and back slit for ease of movement. Effortless and endlessly versatile, it’s the kind of piece you’ll reach for again and again. Crafted from faux suede with a satin lining. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-12T01:58:07Z
+  Updated: 2026-10-19T21:56:56Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2606,7 +2606,7 @@
     Availability: Not Available
     Price: $248.00 USD
 - [Sloan Vegan Leather Skirt](https://artlessforever.com/products/sloan-leather-skirt-brown): Sloan is the vegan leather midi skirt of our dreams. Designed to sit low on the waist with a sleek, knee-length silhouette and back slit for ease of movement. Effortless and endlessly versatile, it’s the kind of piece you’ll reach for again and again. Crafted from faux leather with a satin lining. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-15T21:42:06Z
+  Updated: 2026-10-22T06:31:42Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2627,7 +2627,7 @@
     Availability: Not Available
     Price: $248.00 USD
 - [Sloan Vegan Leather Skirt](https://artlessforever.com/products/sloan-leather-skirt-burgundy): Sloan is the vegan leather midi skirt of our dreams. Designed to sit low on the waist with a sleek, knee-length silhouette and back slit for ease of movement. Effortless and endlessly versatile, it’s the kind of piece you’ll reach for again and again. Crafted from faux leather with a satin lining. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-14T08:26:53Z
+  Updated: 2026-10-22T16:01:57Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2648,7 +2648,7 @@
     Availability: Not Available
     Price: $248.00 USD
 - [Sloan Vegan Leather Skirt](https://artlessforever.com/products/sloan-leather-skirt-light-blue-ostrich): Sloan is the vegan leather midi skirt of our dreams. Designed to sit low on the waist with a sleek, knee-length silhouette and back slit for ease of movement. Effortless and endlessly versatile, it’s the kind of piece you’ll reach for again and again. Crafted from ostrich-patterned faux leather with a satin lining. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-14T08:24:26Z
+  Updated: 2026-10-22T16:21:51Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2669,7 +2669,7 @@
     Availability: Not Available
     Price: $260.00 USD
 - [Sloan Vegan Leather Skirt](https://artlessforever.com/products/sloan-leather-skirt-cream-ostrich): Sloan is the vegan leather midi skirt of our dreams. Designed to sit low on the waist with a sleek, knee-length silhouette and back slit for ease of movement. Effortless and endlessly versatile, it’s the kind of piece you’ll reach for again and again. Crafted from ostrich-patterned faux leather with a satin lining. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-14T08:23:33Z
+  Updated: 2026-10-21T19:27:13Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2690,13 +2690,13 @@
     Availability: Not Available
     Price: $260.00 USD
 - [Women's 100% Silk Asymmetric Cape Top in Black](https://artlessforever.com/products/stella-silk-cape-black): Shop women's 100% silk charmeuse asymmetrical cape top in black. Luxurious lightweight silk with an elegant drape for elevated capsule wardrobe style.
-  Updated: 2026-10-15T05:02:33Z
+  Updated: 2026-10-19T18:39:10Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613603-retouched1.jpg?v=1790265885
   - [XXS](https://artlessforever.com/products/stella-silk-cape-black?variant=54127449604379)
-    Availability: Available
+    Availability: Not Available
     Price: $340.00 USD
   - [XS](https://artlessforever.com/products/stella-silk-cape-black?variant=53995515576603)
     Availability: Available
@@ -2711,28 +2711,28 @@
     Availability: Available
     Price: $340.00 USD
 - [James Duster](https://artlessforever.com/products/james-duster-grey): The James Duster is a quintessential layering piece. Throw it on in the morning over workout wear or in the evening over a little dress and heels. She's versatile. Spun in a cashmere/silk/Merino wool blend that's designed for premium comfort. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-07T08:55:49Z
+  Updated: 2026-10-22T15:41:47Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613615-retouched1.jpg?v=1790266061
   - [XS](https://artlessforever.com/products/james-duster-grey?variant=53995625644315)
     Availability: Available
-    Price: $328.00 USD
+    Price: $440.00 USD
   - [Small](https://artlessforever.com/products/james-duster-grey?variant=53995625677083)
     Availability: Available
-    Price: $328.00 USD
+    Price: $440.00 USD
   - [Medium](https://artlessforever.com/products/james-duster-grey?variant=53995625709851)
     Availability: Available
-    Price: $328.00 USD
+    Price: $440.00 USD
   - [Large](https://artlessforever.com/products/james-duster-grey?variant=53995625742619)
     Availability: Available
-    Price: $328.00 USD
+    Price: $440.00 USD
   - [XL](https://artlessforever.com/products/james-duster-grey?variant=53995625775387)
     Availability: Not Available
-    Price: $328.00 USD
+    Price: $440.00 USD
 - [Perry Sweater](https://artlessforever.com/products/perry-sweater-frost): The Perry Sweater is an essential knit with a full zipper, stand collar and ribbing at the waist. Style with jeans, leather trousers, or mini shorts, Perry looks good with everything. Fits true to size. Size up if you prefer your knits oversized. Model is 5'10" and wears size XS.
-  Updated: 2026-10-07T19:53:07Z
+  Updated: 2026-10-19T18:39:01Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2753,7 +2753,7 @@
     Availability: Not Available
     Price: $210.00 USD
 - [Perry Sweater](https://artlessforever.com/products/perry-sweater-black): The Perry Sweater is an essential knit with a full zipper, stand collar and ribbing at the waist. Style with jeans, leather trousers, or mini shorts, Perry looks good with everything. Fits true to size. Size up if you prefer your knits oversized. Model is 5'10" and wears size XS.
-  Updated: 2026-10-10T23:38:29Z
+  Updated: 2026-10-19T21:56:53Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2774,7 +2774,7 @@
     Availability: Not Available
     Price: $210.00 USD
 - [Vail Sweater](https://artlessforever.com/products/vail-sweater-black): The Vail Sweater is a contemporary rendition of the classic quarter zip shape. Crafted in a luxurious cotton/cashmere blend, Vail is an obvious essential in any 90s-inspired capsule wardrobe and is sure to be your favorite for seasons to come. Fits true to size. Size up if you prefer your knits oversized. Model is 5'10" and wears size XS.
-  Updated: 2026-10-07T08:54:34Z
+  Updated: 2026-10-22T15:41:47Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2795,7 +2795,7 @@
     Availability: Not Available
     Price: $210.00 USD
 - [Vail Sweater](https://artlessforever.com/products/vail-sweater-white): The Vail Sweater is a contemporary rendition of the classic quarter zip shape. Crafted in a luxurious cotton/cashmere blend, Vail is an obvious essential in any 90s-inspired capsule wardrobe and is sure to be your favorite for seasons to come. Fits true to size. Size up if you prefer your knits oversized. Model is 5'10" and wears size XS.
-  Updated: 2026-10-07T08:54:18Z
+  Updated: 2026-10-22T15:51:49Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2816,49 +2816,49 @@
     Availability: Not Available
     Price: $210.00 USD
 - [Wynn Cashmere Blend Cape](https://artlessforever.com/products/wynn-cashmere-cape-black): With its interesting asymmetrical shape, the Wynn Cape strikes a perfect balance between unique and wearable. Spun in our classic cashmere/wool blend, the Wynn Cape looks equally great thrown over a tank with jeans as it does paired with a leather midi skirt. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-14T08:28:31Z
+  Updated: 2026-10-19T18:38:18Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614028-retouched1.jpg?v=1790265421
   - [XS](https://artlessforever.com/products/wynn-cashmere-cape-black?variant=53995887853851)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Small](https://artlessforever.com/products/wynn-cashmere-cape-black?variant=53995887886619)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Medium](https://artlessforever.com/products/wynn-cashmere-cape-black?variant=53995887919387)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Large](https://artlessforever.com/products/wynn-cashmere-cape-black?variant=53995887952155)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [XL](https://artlessforever.com/products/wynn-cashmere-cape-black?variant=53995887984923)
     Availability: Not Available
-    Price: $154.00 USD
+    Price: $194.00 USD
 - [Wynn Cashmere Blend Cape](https://artlessforever.com/products/wynn-cashmere-cape-white): With its interesting asymmetrical shape, the Wynn Cape strikes a perfect balance between unique and wearable. Spun in our classic cashmere/wool blend, the Wynn Cape looks equally great thrown over a tank with jeans as it does paired with a leather midi skirt. Fits true to size. Model is 5'10" and wears size XS.
-  Updated: 2026-10-14T08:28:57Z
+  Updated: 2026-10-19T20:41:28Z
   Vendor: Artless
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2613459-retouched-retouched.jpg?v=1790264802
   - [XS](https://artlessforever.com/products/wynn-cashmere-cape-white?variant=53995907711259)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Small](https://artlessforever.com/products/wynn-cashmere-cape-white?variant=53995907744027)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Medium](https://artlessforever.com/products/wynn-cashmere-cape-white?variant=53995907776795)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [Large](https://artlessforever.com/products/wynn-cashmere-cape-white?variant=53995907809563)
     Availability: Available
-    Price: $154.00 USD
+    Price: $194.00 USD
   - [XL](https://artlessforever.com/products/wynn-cashmere-cape-white?variant=53995907842331)
     Availability: Not Available
-    Price: $154.00 USD
+    Price: $194.00 USD
 - [Navy Knit Mini Dress](https://artlessforever.com/products/navy-knit-mini-dress-black): With a wide neckline, a chic mini length and a flattering thick rib around the body, the Navy Knit Mini is our answer to effortless cool-weather dressing. Fits true to size, but size up if you're above 5'8". Model is 5'10" and wears size XS.
-  Updated: 2026-10-15T09:06:01Z
+  Updated: 2026-10-20T04:00:48Z
   Vendor: Artless
   Product Type: 
   Availability: Available
@@ -2882,144 +2882,144 @@
     Availability: Not Available
     Price: $248.00 USD
 - [Women's Stretch Ribbed Cotton Racerback Tank Top in Jet Black](https://artlessforever.com/products/haze-top): Shop women's stretch ribbed cotton racerback tank top in jet black. Sleeveless design with a sleek, sculpted fit and rounded hem for elevated comfort.
-  Updated: 2026-10-10T13:38:36Z
+  Updated: 2026-10-18T01:57:07Z
   Vendor: Artless Forever
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0073/6611/5416/files/ARTLESS9.22.2614149-retouched-retouched.jpg?v=1790296137
   - [XXS](https://artlessforever.com/products/haze-top?variant=54038073770267)
     Availability: Not Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [XS](https://artlessforever.com/products/haze-top?variant=54038073803035)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Small](https://artlessforever.com/products/haze-top?variant=54038073835803)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Medium](https://artlessforever.com/products/haze-top?variant=54038073868571)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [Large](https://artlessforever.com/products/haze-top?variant=54038073901339)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
   - [XL](https://artlessforever.com/products/haze-top?variant=54038073934107)
     Availability: Available
-    Price: $78.00 USD
+    Price: $88.00 USD
 [List Continued](https://artlessforever.com/a/llms-agent/llms.txt?shop=artless-forever.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQ3OTgwOTc5MDIzNSwibGFzdF92YWx1ZSI6IjEwNDc5ODA5NzkwMjM1In0%3D)
 
 ## Collections
 
 - [Shop All](https://artlessforever.com/collections/shop-all): Explore the collection.
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 170
 - [Cart Upsell](https://artlessforever.com/collections/cart-upsell)
-  Updated: 2026-10-13T11:02:20Z
+  Updated: 2026-10-17T01:08:25Z
   Total Products: 1
 - [Loungewear](https://artlessforever.com/collections/hoodies)
   Updated: 2026-07-08T21:04:55Z
   Total Products: 0
 - [Dresses](https://artlessforever.com/collections/dresses)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 20
 - [Bottoms](https://artlessforever.com/collections/bottoms): Shorts, pants etc.
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 34
 - [Accessories](https://artlessforever.com/collections/accessories)
   Updated: 2026-07-08T21:04:56Z
   Total Products: 0
 - [Tops](https://artlessforever.com/collections/tops)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 106
 - [MinI Shorts](https://artlessforever.com/collections/shorts)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 3
 - [Best Sellers](https://artlessforever.com/collections/best-sellers)
-  Updated: 2026-10-15T11:02:50Z
-  Total Products: 23
+  Updated: 2026-10-22T11:05:29Z
+  Total Products: 28
 - [New Arrivals](https://artlessforever.com/collections/new-arrivals): New, on-trend and inspired by the simplicity of our favorite fashion era.
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 48
 - [Blazers](https://artlessforever.com/collections/blazers)
   Updated: 2026-07-08T21:04:56Z
   Total Products: 0
 - [Skirts](https://artlessforever.com/collections/skirts)
-  Updated: 2026-10-14T11:04:00Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 19
 - [Outerwear](https://artlessforever.com/collections/outerwear)
-  Updated: 2026-10-12T11:03:57Z
+  Updated: 2026-10-21T11:04:26Z
   Total Products: 2
 - [Tops Under $100](https://artlessforever.com/collections/tops-under-100)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 26
 - [Matching Sets](https://artlessforever.com/collections/matching-sets)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 61
 - [The 90s Uniform](https://artlessforever.com/collections/the-90s-uniform)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 46
 - [All Products](https://artlessforever.com/collections/all)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 181
 - [The Resort Collection](https://artlessforever.com/collections/the-resort-collection)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 27
 - [Basics](https://artlessforever.com/collections/basics)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 53
 - [](https://artlessforever.com/collections/)
-  Updated: 2026-10-15T11:02:50Z
-  Total Products: 65
+  Updated: 2026-10-21T11:04:26Z
+  Total Products: 7
 - [Labor Day ](https://artlessforever.com/collections/labor-day-)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 48
 - [Cashmere Collection](https://artlessforever.com/collections/cashmere-collection)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 36
 - [Founder’s Edit](https://artlessforever.com/collections/founder-s-edit)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 43
 - [The Vacation Shop](https://artlessforever.com/collections/vacation-shop)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 29
 - [Silk Collection](https://artlessforever.com/collections/silk-collection)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 12
 - [June Gloom](https://artlessforever.com/collections/june-gloom)
-  Updated: 2026-10-14T11:04:00Z
+  Updated: 2026-10-21T11:04:26Z
   Total Products: 13
 - [Seasonal Tones](https://artlessforever.com/collections/seasonal-tones)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 52
 - [90s Muses](https://artlessforever.com/collections/90s-muses)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-21T11:04:26Z
   Total Products: 13
 - [Community Styling](https://artlessforever.com/collections/community-styling)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 34
 - [Daria's Look](https://artlessforever.com/collections/darias-look)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 4
 - [Fall Winter 2026](https://artlessforever.com/collections/fall-winter-2026)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 42
 - [Last Call](https://artlessforever.com/collections/last-call)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-21T11:04:26Z
   Total Products: 21
 - [FW26 Outfit 1](https://artlessforever.com/collections/fw26-outfit-1)
-  Updated: 2026-10-14T11:04:00Z
+  Updated: 2026-10-18T02:39:22Z
   Total Products: 8
 - [FW26 Outfit 2](https://artlessforever.com/collections/fw26-outfit-2)
-  Updated: 2026-10-11T11:04:56Z
+  Updated: 2026-10-20T11:02:17Z
   Total Products: 4
 - [FW26 Outfit 3](https://artlessforever.com/collections/fw26-outfit-3)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-21T11:04:26Z
   Total Products: 2
 - [FW26 Outfit 4](https://artlessforever.com/collections/fw26-outfit-4)
-  Updated: 2026-10-15T11:02:50Z
+  Updated: 2026-10-22T11:05:29Z
   Total Products: 4
 - [ Below $75](https://artlessforever.com/collections/-below-75)
-  Updated: 2026-10-15T11:02:50Z
-  Total Products: 28
+  Updated: 2026-10-17T01:09:06Z
+  Total Products: 2
 
 ## Blogs
 
@@ -3067,15 +3067,15 @@
 ## Policies
 
 - [Privacy Policy](https://artlessforever.com/policies/privacy-policy)
-  Updated: 2026-07-14T10:01:09-07:00
+  Updated: 2026-07-14T17:01:09Z
 - [Shipping Policy](https://artlessforever.com/policies/shipping-policy)
-  Updated: 2026-09-17T14:15:45-07:00
+  Updated: 2026-09-17T21:15:45Z
 - [Refund Policy](https://artlessforever.com/policies/refund-policy)
-  Updated: 2026-09-17T14:15:30-07:00
+  Updated: 2026-09-17T21:15:30Z
 - [Terms of Service](https://artlessforever.com/policies/terms-of-service)
-  Updated: 2026-07-10T19:58:46-07:00
+  Updated: 2026-07-11T02:58:46Z
 - [Contact Information](https://artlessforever.com/policies/contact-information)
-  Updated: 2026-05-18T20:49:11-07:00
+  Updated: 2026-05-19T03:49:11Z
 
 ## Optional
 
