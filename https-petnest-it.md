@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-07-02T15:47:10Z
 - Contact Email: bobby009@libero.it
-- Updated At: 2026-10-03T00:00:45.468Z
+- Updated At: 2026-10-23T00:44:38.563Z
 
 ## Products
 
@@ -84,15 +84,15 @@
 ## Policies
 
 - [Privacy Policy](https://petnest.it/policies/privacy-policy)
-  Updated: 2026-07-24T20:33:26+02:00
+  Updated: 2026-07-24T18:33:26Z
 - [Shipping Policy](https://petnest.it/policies/shipping-policy)
-  Updated: 2026-07-20T18:57:12+02:00
+  Updated: 2026-07-20T16:57:12Z
 - [Refund Policy](https://petnest.it/policies/refund-policy)
-  Updated: 2026-07-20T18:52:20+02:00
+  Updated: 2026-07-20T16:52:20Z
 - [Terms of Service](https://petnest.it/policies/terms-of-service)
-  Updated: 2026-07-20T18:54:56+02:00
+  Updated: 2026-07-20T16:54:56Z
 - [Contact Information](https://petnest.it/policies/contact-information)
-  Updated: 2026-07-20T18:57:56+02:00
+  Updated: 2026-07-20T16:57:56Z
 
 ## Optional
 
