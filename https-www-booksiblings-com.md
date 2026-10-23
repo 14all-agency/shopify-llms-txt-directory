@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T17:41:50Z
 - Contact Email: info@tradeborder.com
-- Updated At: 2026-10-10T00:00:32.384Z
+- Updated At: 2026-10-23T00:33:28.001Z
 
 ## Products
 
 - [Arapça 5. Sınıf Hikaye Seti](https://www.booksiblings.com/products/arapca-5-sinif-hikaye-seti): Değerli Eğitimci Arkadaşlar ve Kıymetli Öğrenciler;Hikâyeler ile Arapça öğretimini hedef alan çalışmamız, ders kitabının ünitelerinde geçen tüm kelimelerin bir hikâye içerisinde sunumu şeklinde hazırlanmıştır. Her ünite için bir hikâye oluşturulmuştur. Birinci ünite hazırlık amacıyla iki hikâye ile işlenmiştir. Son üç hikâye genel tekrar amaçlı olarak tüm üniteye yönelik kelimeler üzerinden hazırlanmıştır.Elinizdeki seride tümden gelen metodu takip edilmiştir. Kelime ve cümlelerin anlamları verilerek, işin başında öğrencide Arapçayı başarabileceği fikri oluşturulmaya, öğrenciyi alana çekmeye ve Arapçadan korkutma değil Arapçayı sevdirmeye çalışılmıştır. Arapçayı öğrenebileceği fikri oluşan öğrenci, bir sonraki adımla metni kendi başına çözebileceği alana çekilmiştir.Metinler, hikâye sonunda ve bir sonraki hikâyenin başında toplu olarak tercümesiz verilmiş, öğrencinin kendi başına metni anlama becerisini kazanması hedeflenmiştir.Kişisel Gelişim Uzmanı yazarımız Oğuz Saygın gözetiminde hazırlanan bu seri ile öğrencilerimizin Arapçaya karşı ilgilerini artırmayı, öğrencilerin takip ettikleri kitabı kavramalarında değerli öğretmenlerimize yardımcı olmayı ümit etmekteyiz. Ürün Adı: Arapça 5. Sınıf Hikaye SetiÜrün Kodu: 2014031812295Yazar: Münevvere KocaerBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:53:37Z
+  Updated: 2026-10-19T14:38:06Z
   Vendor: Karma Kitaplar
   Product Type: Eğitim>Dil Eğitimi
   Availability: Available
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2014051515350.jpg?v=1779723471
   Price: $22,40 USD
 - [Evvel Zaman İçinde 15 Kitap](https://www.booksiblings.com/products/evvel-zaman-i̇cinde-15-kitap): Ürün Adı: Evvel Zaman İçinde 15 KitapÜrün Kodu: 2015051412335Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:53:42Z
+  Updated: 2026-10-17T05:44:49Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -39,12 +39,12 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2014082018592.jpg?v=1779723473
   Price: $22,40 USD
 - [Tuş Beyinli 1 - Gıcıklığın Lüzumu Var (Ciltli)](https://www.booksiblings.com/products/tus-beyinli-1-gicikligin-luzumu-var-ciltli): Hey, eger sen de benim kalin kafali bir çocuk oldugumu düsünüyorsan, bu kitabi aldigin yere koy. Çünkü ben kus beyinli degil tus beyinliyim. Ara sira saçmaladigim oluyor belki. Ama aslinda çok fedakâr, güvenilir ve cana yakin biriyimdir. Buna ragmen beni her konuda destekleyecek bir arkadasim yok! Yanlis anlama hiç arkadasim yok demedim, bir arkadasim yok dedim. Acaba sen benim en iyi arkadasim olur musun? Eger kabul edersen söz sana hiç tus beyinlilik yapmam! -Ürün Adı: Tuş Beyinli 1 - Gıcıklığın Lüzumu Var (Ciltli)Ürün Kodu: 9786051624396Yazar: Yusuf AsalBasım Yılı: 2020Kapak Türü: CiltliSayfa Sayısı: 248Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-09T00:33:45Z
+  Updated: 2026-10-22T13:12:06Z
   Vendor: Nesil Yayınları
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786259436951.jpg?v=1779723474
-  Price: $10,24 USD
+  Price: $11,20 USD
 - [Akif'ten Gençliğe](https://www.booksiblings.com/products/akiften-genclige): Akif,medeniyetin sözcüsü,milletin temsilcisidir.Akif,yaşadığı üç kıtanın tarihini bütün derinlikleriyle bilir.Yaşadığı coğrafyanın sıkıntılarını ömür boyu kendi derdi olarak haykıran bir fikir işçisidir.Akif,elindeki sanat ve düşünce fenerini gözüne değil,önüne tutmuştur.Akif bir eylem adamıdır.Hem söz hem de kelam erbabıdır.Sezai Karakoç:”Akif kadar,hayatı şiire ve şiiri hayata ekmiş bir şair yoktur.”der.Onun sanatı hisli bir yüreğin iniltisidir.Safahat şairi,İstiklal Marşı şairi,İslam ve Kur'an şairi gibi sıfatlarla anılan Akif'in şair kimliği yanında idealistliği,dava ve düşünce adamlığı bu unvanlarla iç içedir.Akif,bir medeniyetin sözcüsü,bir milletin temsilcisidir.Akif örnek ve önder bir gençlik inşa eder:Asım'ın nesli:Bu nesil ilim ve irfan kazanarak sorunların üstesinden gelecek kurtarıcı bir nesildir.Bu nesil batılı anlamda bilimi öğrenecek ama İslam ahlakına ve inancına sarsılmaz bir bağlılık gösterecek ve böylece kurtarıcı bir nesil olmanın dinamiklerini temin edecektir.Akif'in bu nesle öğüdü kısa ve nettir:“İhtiyar amcanı dinler misin,oğlum NevruzNe büyük söyle,ne çk söyle,yiğit işte gerek,Lafı bol,karnı geniş soyları taklit etme.Sözü sağlam,özü salpam adam ol,ırkına çek.”Elinizdeki kitap Asım'ın nesline reçete ve rehber niteliğindedir.İyi okumalar.-Ürün Adı: Akif'ten GençliğeÜrün Kodu: 9786055563677Yazar: Aziz ErdoğanBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 176Kağıt Cinsi: 2. HamurÇevirmen:
   Updated: 2026-09-29T17:53:48Z
   Vendor: Çınaraltı Yayınları
@@ -53,47 +53,40 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000007060.jpg?v=1779723476
   Price: $8,96 USD
 - [Our Only Leader The Prophet](https://www.booksiblings.com/products/our-only-leader-the-prophet): Dear children!You all were little children up till a few years ago. Little children who were sleeping by help of lullabies and growing up with fairy tales. But you are now grown up.You have grown to be big children. Perhaps you are saying those lullabies to your brothers or sisters, and telling them those fairy tales. Yes, you are big children now. You think more, read more, and learn more. Of course you learn from your mother and father, from your elders a lot.You learn the good.You learn the correct.You learn the beautiful.Well, who is that who taught them these?Of course, their elders. Well, who then tought their elders? Every society, dear children, has a leader, who teaches the society the good or bad, the correct or false, the beatiful or not. That is, there is a leader of your father and mother, of their elders, of you and me, as a matter of fact there is a leader of all muslims.That leader is Hz Muhammed, dear children, our exalted Prophet who has been our Leader for fourteen centuries.Who shows and tells us the good, the correct, and the beatiful and who is our pride, our joy, our only Leaoder our dear Prophet.In this book, you will read the model life of our only Leader, that holy Man, life of whom is a model for all of us.Yusuf ÖzaslanÜrün Adı: Our Only Leader The ProphetÜrün Kodu: 2016000012408Yazar: Yusuf ÖzaslanBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 392Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:53:50Z
+  Updated: 2026-10-17T05:44:50Z
   Vendor: Marifet Yayınları
   Product Type: Diğer Dildeki Yayınlar>İngilizce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000012408.jpg?v=1779723477
   Price: $11,20 USD
 - [A Takımı 5 te Devre 10 da Biter!](https://www.booksiblings.com/products/a-takimi-5-te-devre-10-da-biter): Yaman ve arkadaşlarının kurduğu A Takımı kendi sahalarında antrenmanlara devam ediyor. .komşu sitenin başarılı takımıyla maç yapmak istiyorlar. Onların karşısına daha güçlü çıkabilmek için önce bir hazırlık maçı yapmalılar. Yaman’ın aklına eski mahallesindeki takımını maça davet etmek geliyor. Bu gerçekten çok iyi bir fikir!Ne dersiniz, Yaman’ın yeni takımı, eski takımını yenebilecek mi? “Yaman’ın futbolu bu kadar çok sevmesi, topunu kolunun altından ayırmayışı, ona hediye edilen kramponları kutusundan çıkarmaya kıyamayışı beni çocukluğuma götürdü. Ben de onun yaşındayken benzer hayaller kuruyordum. Kim bilir, belki o da günün birinde benim gibi hayallerini gerçekleştirir. Bakalım hikayenin devamında onu ve arkadaşlarını neler bekliyor…” Arda Turan“Oğlum Ömer’e A Takımı serisinin ilk kitabını annesi ile birlikte okuduk. Ömer’in ilk tepkisi ‘Keşke ben de onlarla arkadaş olsam!’ oldu. Eray’ın oburluğu, Akın’ın takımda kendine yer bulabilmesi gibi detaylara bayıldık. Çok büyük bir heyecanla bu ikinci kitabı bekliyorduk.” Nuri ŞahinÜrün Adı: A Takımı 5 te Devre 10 da Biter!Ürün Kodu: 2016000012644Yazar: Pınar BekböletBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 80Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:53:51Z
+  Updated: 2026-10-17T05:44:51Z
   Vendor: Yeşil Dinozor
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000012644.jpg?v=1779723478
   Price: $2,40 USD
 - [Buzzi Zeka Oyunları 1](https://www.booksiblings.com/products/buzzi-zeka-oyunlari-1): Ürün Adı: Buzzi Zeka Oyunları 1Ürün Kodu: 9786059290333Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:53:53Z
+  Updated: 2026-10-17T05:44:51Z
   Vendor: Mor Elma Yayıncılık
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000014501.jpg?v=1779723481
   Price: $6,40 USD
 - [Buzzi Zeka Oyunları 4](https://www.booksiblings.com/products/buzzi-zeka-oyunlari-4): Ürün Adı: Buzzi Zeka Oyunları 4Ürün Kodu: 9786059290364Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:53:54Z
+  Updated: 2026-10-17T13:26:56Z
   Vendor: Mor Elma Yayıncılık
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000014532.jpg?v=1779723481
-  Price: $6,40 USD
+  Price: $0,48 USD
 - [Eğlenerek Öğreniyorum / Binbir Fikir - Kış](https://www.booksiblings.com/products/eglenerek-ogreniyorum-binbir-fikir-kis): Üç yüz altmis bes günün her bir günü için tek tek ayrilan ilgi çekici oyunlar, rengârenk resimler ve macera dolu öyküler bir arada toplandi.Islâm sehirlerinden teknoloji günlügüne, lezzetli tariflerden eglenceli deneylere, sevimli kelimelerden oyun dünyasina kadar pek çok merak ettiginiz bilgiler bu hazinede saklaniyor.On iki ay boyunca her aninizi dolu dolu geçirmek isti yorsaniz, Semerkand Çocuk Yayinlari’ndan çikan Eglenerek Ögreniyorum Egitim Seti ’ne basvurabilirsiniz.-Ürün Adı: Eğlenerek Öğreniyorum / Binbir Fikir - KışÜrün Kodu: 2016000015492Yazar: Ö. Özlem GülmezBasım Yılı: 2015Kapak Türü: Karton KapakSayfa Sayısı: 184Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T17:53:57Z
+  Updated: 2026-10-17T05:44:52Z
   Vendor: Semerkand Yayınları
   Product Type: Çocuk Kitapları>Fıkra-Eğlence-Oyun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000015492.jpg?v=1779723482
   Price: $1,60 USD
-- [Gelin Tacı](https://www.booksiblings.com/products/gelin-taci): Bu kitap, Allah'a hakkıyla kulluk edebilmenin yol ve çarelerini gösteren en özlü tasavvuf eserlerinden biridir.Batı dilleri dâhil pek çok dile çevrilen bu değerli eser, kalbi Allah'a bağlamak ve O'nun rızasını kazanmak için neler yapılması gerektiğini ikna edici bir dille anlatır. İnsanoğlunu kendi nefsinin nasıl aldatıp kandırdığını ve onun bu aldatışlarından kurtulmak için ne yapmak gerektiğini misallerle öğretir.İbn Atâullah el-İskenderî tasavvufa sonradan girdiği için, tasavvufa yabancı insanlara nasıl yaklaşmak ve onların yönünü Allah'a tam olarak nasıl çevirmek gerektiğini çok iyi bilir. O yüzden de öğütleri, havada kalan sözler değil, insanın içine işleyen, kalbine dokunan nasihatlerdir.Bu eseri okuyan kişi, kendisini gerçek bir şeyhin, bir mürşid-i kâmilin karşısındaymış gibi hisseder. Eğer Allah yolunda yürümek istiyorsa, bu kitap ona o yolu bütün yönleriyle açar. Kendisine hem dünyasını, hem de âhiretini güzelleştirecek reçeteler sunar.Ürün Adı: Gelin TacıÜrün Kodu: 9786059778886Yazar: İbn Ataullah El-İskenderiBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 110Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-07T19:48:05Z
-  Vendor: Sufi Kitap
-  Product Type: İslam>Tasavvuf
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786059778886.jpg?v=1779723484
-  Price: $5,12 USD
 - [Çeto (Çocuk Edebiyatı Tercüme Ofisi) Dergisi Sayı 5](https://www.booksiblings.com/products/ceto-cocuk-edebiyati-tercume-ofisi-dergisi-sayi-5): Ürün Adı: Çeto (Çocuk Edebiyatı Tercüme Ofisi) Dergisi Sayı 5Ürün Kodu: 2016000019940Yazar: KolektifBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
   Updated: 2026-09-29T17:53:59Z
   Vendor: ÇETO Dergisi
@@ -102,56 +95,56 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2016000019940.jpg?v=1779723485
   Price: $3,20 USD
 - [Doğa Öyküleri Serisi 10 Kitap Takım](https://www.booksiblings.com/products/doga-oykuleri-serisi-10-kitap-takim): Ürün Adı: Doğa Öyküleri Serisi 10 Kitap TakımÜrün Kodu: 2017050211216Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:54:01Z
+  Updated: 2026-10-17T05:44:52Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2017050211216.jpg?v=1779723487
   Price: $28,80 USD
 - [Andersen Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/andersen-masallari-10-kitap-takim): ANDERSEN MASALLARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Geleceğe At Koşturmak2- Leylekler3- Kral Çıplak4- Kibritçi Kız5- Zalim Kral6- Ekmeğe Basan Kız7- Çirkin Ördek Yavrusu8- Bülbül9- Baba Ne Yapsa Yeridir10- AnnaliseÜrün Adı: Andersen Masalları - 10 Kitap TakımÜrün Kodu: 2019102313510Yazar: KolektifBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:05Z
+  Updated: 2026-10-17T05:44:53Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313510.jpg?v=1779723489
   Price: $7,20 USD
 - [Dede Korkut Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/dede-korkut-masallari-10-kitap-takim): DEDE KORKUT MASALLARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Boğaç Han2- Salur Kazan’ın Evinin Yağmalanması3- Deli Dumrul4- Kanlı Koca Oğlu Kanturalı5- Bamsı Beyrek ile Banı Çiçek6- Kazılık Koca Oğlu Yegenek7- Tepegöz8- Begil Oğlu Emren9- Uşun Koca Oğlu Segrek10- Salur Kazan Oğlu UruzÜrün Adı: Dede Korkut Masalları - 10 Kitap TakımÜrün Kodu: 2019102313527Yazar: Ekrem AytarBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-07T19:47:56Z
+  Updated: 2026-10-17T05:44:54Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313527.jpg?v=1779723490
   Price: $7,20 USD
 - [Ezop Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/ezop-masallari-10-kitap-takim): EZOP MASALLARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Tilki ile Yengeç2- Açgözlü Martı3- Farenin İyiliği4- Aslan ile Sivrisinek5- Kartal ile Kaplumbağa6- Yarasa ile Gelincik7- Beyinsiz Geyik8- Kazlar ile Turnalar9- Yılan Yumurtaları10- Tavşan ile KaplumbağaÜrün Adı: Ezop Masalları - 10 Kitap TakımÜrün Kodu: 2019102313534Yazar: Ekrem AytarBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-06T16:39:41Z
+  Updated: 2026-10-17T05:44:55Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313534.jpg?v=1779723491
   Price: $7,20 USD
 - [Keloğlan Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/keloglan-masallari-10-kitap-takim): KELOĞLAN MASALLARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Keloğlan ile Kırk Haramiler2- Keloğlan ile Yavru Kartal3- Keloğlan ile Keleş Dev4- Keloğlan ile Kayın Ağacındaki Yatak5- Keloğlan ile Dev Anası6- Keloğlan ile Annesi7- Keloğlan ile Padişahın Kızı8- Keloğlan ile Aslan Çocuk9- Keloğlan ile Geyik Yavruları10- Keloğlan ile Büyülü GömlekÜrün Adı: Keloğlan Masalları - 10 Kitap TakımÜrün Kodu: 2019102313541Yazar: Ekrem AytarBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:10Z
+  Updated: 2026-10-20T19:04:10Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313541.jpg?v=1779723493
   Price: $7,20 USD
 - [La Fonten Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/la-fonten-masallari-10-kitap-takim): LA FONTEN MASALLARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Ağustos Böceği ile Karınca2- Tilki ve Üzümler3- Karga ile Tilki4- Tilki ile Leylek5- Yunus ile Maymun6- Altın Yumurtlayan Tavuk7- Meşe ile Saz8- Tilkinin Kuyruğu9- Serçe ile Kedi10- Şehir Faresi ile Tarla FaresiÜrün Adı: La Fonten Masalları - 10 Kitap TakımÜrün Kodu: 2019102313558Yazar: Ekrem AytarBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-09T14:38:06Z
+  Updated: 2026-10-17T05:44:55Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313558.jpg?v=1779723494
   Price: $7,20 USD
 - [Nasrettin Hoca Fıkraları - 10 Kitap Takım](https://www.booksiblings.com/products/nasrettin-hoca-fikralari-10-kitap-takim): NASRETTİN HOCA FIKRALARI – 10 KİTAP SET – DEĞERLENDİRME KİTAPÇIĞI İLAVELİSerideki kitaplar :1- Parayı Veren Düdüğü Çalar2- Ye Kürküm Ye3- Ya Tutarsa4- Tavşanın Suyunun Suyu5- Kedi Nerede ?6- Ağaçtan Öteye Yol7- Hırsızın Hiç Mi Suçu Yok ?8- Al Sen Oku9- Aklın Yolu Birdir10- Her Gün Bayram OlsaÜrün Adı: Nasrettin Hoca Fıkraları - 10 Kitap TakımÜrün Kodu: 2019102313565Yazar: Ekrem AytarBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:27Z
+  Updated: 2026-10-20T11:59:46Z
   Vendor: Parıltı Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2019102313565.jpg?v=1779723495
   Price: $7,20 USD
 - [500 Gerçekler - 40 Kitap Kutulu](https://www.booksiblings.com/products/500-gercekler-40-kitap-kutulu): Ürün Adı: 500 Gerçekler - 40 Kitap KutuluÜrün Kodu: 2019102956786Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T17:54:12Z
+  Updated: 2026-10-17T05:44:56Z
   Vendor: Teleskop
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -193,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/2619958015011.jpg?v=1779723503
   Price: $9,60 USD
 - [Cahit Zarifoğlu Gülücük Çocuk Kitapları (9 Kitap)](https://www.booksiblings.com/products/cahit-zarifoglu-gulucuk-cocuk-kitaplari-9-kitap): Cahit Zarifoğlu'nun günümüz çocuk klasikleri arasında sayılan tüm çocuk kitapları, uzun yıllar boyunca korunup okunabilmesi için muhafazalı hale getirildi. Cahit Zarifoğlu tarafından 7'den 77'ye tüm çocuklar için yazıldığı ifade edilen özgün eserler, özel bir kutu içinde satışa sunuldu. Çocukların severek okudukları Serçe Kuş, Ağaçkakanlar, Katıraslan, Yürekdede ile Padişah, Gülücük, Küçük Şehzade, Motorlu Kuş, Kuşların Dili ve Ağaç Okul, şimdi daha kullanışlı ve daha korunaklı bir yapıda, uzun yıllar boyunca çocukların ellerinden düşmeyecek.1. Serçekuş2. Ağaçkakanlar3. Katıraslan4. Yürekdede ile Padişah5. Gülücük6. Küçük Şehzade7. Motorlu Kuş8. Kuşların Dili9. Ağaç OkulÜrün Adı: Cahit Zarifoğlu Gülücük Çocuk Kitapları (9 Kitap)Ürün Kodu: 2770000006453Yazar: Cahit ZarifoğluBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:20Z
+  Updated: 2026-10-17T05:44:58Z
   Vendor: Beyan Yayınları
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
@@ -207,28 +200,28 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/3990000025273.jpg?v=1779723507
   Price: $86,40 USD
 - [Deyimlerin İlginç Hikâyeleri Seti (5 Kitap)](https://www.booksiblings.com/products/deyimlerin-i̇lginc-hikayeleri-seti-5-kitap): Çok öfkelenince ateş püskürür, küplere bineriz. Neşemizi ve konuşkanlığımızı kaybettiğimizde dut yemiş bülbüle döneriz. Leb demeden leblebiyi anladığımız da olur, işin püf noktasını kaçırdığımız da... Kimi zaman başımıza çorap örülür, bazen de işler kabak tadı verir.Böyledir deyimler; uzun uzun anlatacağımız durumları bir çırpıda söyletiverir. Meramımızı etkili ve güçlü bir yolla anlatmamızı sağlayan deyimler, aynı zamanda tarihimizin dilimize bıraktığı mirasın önemli bir parçasıdır.Deyimlerin ortaya çıkış hikâyelerini bulacağınız bu seride, birbirinden ilginç hikâyelere şahit olacak, geçmişe doğru tatlı bir yolculuğa çıkacaksınız. Zaman zaman saraylara konuk olup sultanların yaşantılarına göz atacak, şeyhlerle dervişlerin sohbetlerine dâhil olma imkânı bulacaksınız. Kervancılar, tüccarlar, hocalar, talebeler, kadılar ve daha nicesiyle tanışıp hangi deyimin ilk, ne zaman, kim tarafından, nasıl ve niçin kullanıldığını öğreneceksiniz.Ürün Adı: Deyimlerin İlginç Hikâyeleri Seti (5 Kitap)Ürün Kodu: 5330006480038Yazar: Hale Eştürk AltayBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-02T22:21:36Z
+  Updated: 2026-10-17T05:44:57Z
   Vendor: Uğurböceği Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/5330006480038.jpg?v=1779723508
   Price: $44,80 USD
 - [Allah'ın Güzel İsimleri Seti 2 (5 Kitap)](https://www.booksiblings.com/products/allahin-guzel-i̇simleri-seti-2-5-kitap): Allah ın Güzel İsimleri 2. Seti - Özkan Öze (5 KİTAP)Allah’ın Güzel İsimleri, okul öncesi ve okumaya yeni başlamış 4-8 yaş aralığındaki minik okurlarımız için hazırlandı. Dizinin her bir kitabında, bir esma konu edinilmekte ve bu esma, oyun hamuru kıvamında şeker gibi tatlı resimlerle birlikte anlatılmaktadır.Ürün Adı: Allah'ın Güzel İsimleri Seti 2 (5 Kitap)Ürün Kodu: 5330006480083Yazar: Özkan ÖzeBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:32Z
+  Updated: 2026-10-17T05:45:01Z
   Vendor: Uğurböceği Yayınları
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/5330006480083.jpg?v=1779723510
   Price: $27,20 USD
 - [Her Güne Bir Öykü Seti (10 Kitap)](https://www.booksiblings.com/products/her-gune-bir-oyku-seti-10-kitap): İnsanlar duygularını, düşüncelerini, hayallerini, istek ve tecrübelerini sıklıkla öyküler yoluyla diğer insanlara iletmişlerdir. Çünkü öyküler anlatılan konunun, verilmek istenen mesajın muhatap tarafından daha kolay anlaşılmasını sağlar. Bu bakımdan öyküler, tarih boyunca insanların birbirlerine başlıca dert anlatma yöntemlerinden biri olmuştur.Elinizdeki bu set de insanlık mirası olmuş öykülerden seçilmiştir. Yabancı dilde olanların çevirisi yapılıp, güncelliğini kaybetmiş metinlerin elden geçirilmesi sonrasında öyküler konularına göre sınıflandırılarak on kitaptan oluşan bu set hazırlanmıştır.Ürün Adı: Her Güne Bir Öykü Seti (10 Kitap)Ürün Kodu: 5330006480229Yazar: Muhiddin YenigünBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:54:35Z
+  Updated: 2026-10-17T05:44:59Z
   Vendor: Uğurböceği Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/5330006480229.jpg?v=1779723511
   Price: $89,60 USD
 - [Deyimler Ve Atasözleri Öyküleri Seti (5 Kitap)](https://www.booksiblings.com/products/deyimler-ve-atasozleri-oykuleri-seti-5-kitap): Deyimler Ve Atasözleri dilimizin en büyük hazineleridir. Uzun deneme ve gözlemlere dayanılarak söylenmiş ve halka mal olmuş bu söz grupları yazılarımıza ve anlatımlarımıza müthiş bir renklilik ve canlılık katar. Bazen saatlerce anlatmaya çalıştığımız duygu ve düşüncelerimizi bir deyim veya atasözü bir anda ifade eder.Yıllarca dilimizde dolaşan atasözlerin ve deyimlerin kaynağını büyük bir merakla araştırarak ilginç öykülerini derledik. Bu serideki öyküleri sizler de keyifle okuyacaksınız.Ürün Adı: Deyimler Ve Atasözleri Öyküleri Seti (5 Kitap)Ürün Kodu: 5330006480236Yazar: Muhiddin YenigünBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-03T14:14:46Z
+  Updated: 2026-10-20T17:48:48Z
   Vendor: Uğurböceği Yayınları
   Product Type: Edebiyat>Hikaye
   Availability: Available
@@ -241,6 +234,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002031.jpg?v=1779723514
   Price: $22,66 USD
+- [Papatya Hoper Defter](https://www.booksiblings.com/products/papatya-hoper-defter): 2020 yılının kayıp baharında, göremediğimiz çiçekler artık her zaman sizinle. Birlikte baharı tekrar göremeyeceklerimizin anısına. Bu defterlerde yaşanacak mutlu baharların umudu var.Sayfa Sayısı: 32'dir. 1. Hamur. Çizgisiz Defter.En / Boy: 13,50 / 20,00 cmÜrün Adı: Papatya Hoper DefterÜrün Kodu: 8008002002444Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
+  Updated: 2026-10-13T22:11:35Z
+  Vendor: Ela's Paper
+  Product Type: Hobi>Diğer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002444.jpg?v=1779723515
+  Price: $5,76 USD
 - [Mor Salkım Hoper Defter](https://www.booksiblings.com/products/mor-salkim-hoper-defter): 2020 yılının kayıp baharında, göremediğimiz çiçekler artık her zaman sizinle. Birlikte baharı tekrar göremeyeceklerimizin anısına. Bu defterlerde yaşanacak mutlu baharların umudu var.Sayfa Sayısı: 32'dir. 1. Hamur. Çizgisiz Defter.ÖzelliklerEn / Boy: 13,50 / 20,00 cmÜrün Adı: Mor Salkım Hoper DefterÜrün Kodu: 8008002002468Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
   Updated: 2026-10-07T19:48:11Z
   Vendor: Ela's Paper
@@ -263,21 +263,21 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002574.jpg?v=1779723519
   Price: $5,76 USD
 - [Leopar Gri Defter](https://www.booksiblings.com/products/leopar-gri-defter): En / Boy: 13,00 / 20,00 cmÜrün Adı: Leopar Gri DefterÜrün Kodu: 8008002002673Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-10-07T19:48:05Z
+  Updated: 2026-10-13T22:11:36Z
   Vendor: Ela's Paper
   Product Type: Hobi>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002673.jpg?v=1779723521
   Price: $6,91 USD
 - [Puantiyeli Defter](https://www.booksiblings.com/products/puantiyeli-defter): En / Boy: 13,00 / 20,00 cmÜrün Adı: Puantiyeli DefterÜrün Kodu: 8008002002727Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:54:53Z
+  Updated: 2026-10-18T15:55:27Z
   Vendor: Ela's Paper
   Product Type: Hobi>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002727.jpg?v=1779723522
   Price: $6,91 USD
 - [Yıldızlı Mor Defter](https://www.booksiblings.com/products/yildizli-mor-defter): En / Boy: 13,00 / 20,00 cmÜrün Adı: Yıldızlı Mor DefterÜrün Kodu: 8008002002758Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:54:55Z
+  Updated: 2026-10-13T22:11:45Z
   Vendor: Ela's Paper
   Product Type: Hobi>Diğer
   Availability: Available
@@ -312,56 +312,56 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8008002002918.jpg?v=1779723529
   Price: $6,14 USD
 - [Eğlen Öğren (5-6 Yaş 2. Bölüm)](https://www.booksiblings.com/products/eglen-ogren-5-6-yas-2-bolum): Ürün Adı: Eğlen Öğren (5-6 Yaş 2. Bölüm)Ürün Kodu: 8680009700068Yazar: KolektifBasım Yılı: 2012Kapak Türü: KutuSayfa Sayısı: 72Kağıt Cinsi: Kuşe KağıtÇevirmen: Mehmet Cem Ulugöl
-  Updated: 2026-10-01T17:57:40Z
+  Updated: 2026-10-17T05:45:00Z
   Vendor: Dstil Tasarım
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680009700068.jpg?v=1779723530
   Price: $8,32 USD
 - [Korku Avcıları Skully (Peluş Oyuncak)](https://www.booksiblings.com/products/korku-avcilari-skully-pelus-oyuncak): Ürün Adı: Korku Avcıları Skully (Peluş Oyuncak)Ürün Kodu: 8680009700167Yazar: Gauthier Bribosia,Thomas De CosterBasım Yılı: 2016Kapak Türü: PlastikSayfa Sayısı: 34Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:55:14Z
+  Updated: 2026-10-17T05:45:00Z
   Vendor: Dstil Tasarım
   Product Type: Çocuk Kitapları>Fıkra-Eğlence-Oyun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680009700167.jpg?v=1779723532
   Price: $14,40 USD
 - [Gümüş Göl Masalları - 10 Kitap Takım](https://www.booksiblings.com/products/gumus-gol-masallari-10-kitap-takim): Çok uzak bir ormanın içindeydi Gümüş Göl. Geceleri ay ışığı altında gümüş gibi parlardı gölün suları. Bu nedenle Gümüş Göl denirdi bu güzel yere. Gümüş Göl sakinleri için en önemli şeyler dostluk, arkadaşlık ve yardımlaşmaydı. İşte bu dizide, Gümüş Göl sakinlerinin bu değerlerle ilgili neşeli masallarını okuyacaksınız. Setin içindeki kitaplarTimsah TemsiKüçük YıldızKüçük Şıpır Arkadaş ArıyorHiç Susmayan Cırcır BöceğiTombalak Fil'in Sabah SporuTemsi'nin Can SıkıntısıÜç Küçük AslanSen Sıska DeğilsinArkadaşımı TanırımPeli Spor Şöleninde(Tanıtım Bülteninden)Ürün Adı: Gümüş Göl Masalları - 10 Kitap TakımÜrün Kodu: 8680628430315Yazar: Melike GünyüzBasım Yılı: 2015Kapak Türü: CiltsizSayfa Sayısı: 160Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:55:15Z
+  Updated: 2026-10-17T05:45:02Z
   Vendor: Erdem Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680628430315.jpg?v=1779723536
   Price: $12,80 USD
 - [Taş Masalları (6 Kitap Takım)](https://www.booksiblings.com/products/tas-masallari-6-kitap-takim): Masal ve oyuna kim hayir diyebilir ki?Tas Masallari serisi sizi masalli bir oyuna çagiriyor.Dogadaki en sade ve kolay bulunan malzeme olan taslar oyun arkadaslarimiz. Bu seride, taslar ile yaraticilik, farkindalik, problem çözme becerileri desteklenirken birlikte hareket etme, paylasma, saygi, sevgi, dostluk, farkli olani kabul etme vb. pek çok degere yer verilmektedir. Bu masallari okuduktan sonra çocugunuzla tas toplamaya çikabilirsiniz. Onun istedigi taslari toplamasina izin verin. Hatta isterseniz siz de onunla birlikte tas toplayin. Sonra da toplanan taslari kullanarak istedigi gibi resimler yapsin, oyunlar oynasin, masallar anlatsin. Hep birlikte masallar anlatarak oynamanin tadini çikartin.Ürün Adı: Taş Masalları (6 Kitap Takım)Ürün Kodu: 8680628430445Yazar: Elif ÖzkanBasım Yılı: 2016Kapak Türü: Karton KapakSayfa Sayısı: 144Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:55:18Z
+  Updated: 2026-10-17T05:45:02Z
   Vendor: Erdem Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680628430445.jpg?v=1779723537
   Price: $16,00 USD
 - [Apartman Çocuğu - 5 Kitap Takım](https://www.booksiblings.com/products/apartman-cocugu-5-kitap-takim): Ali büyükşehirde apartmanda yaşamak zorunda kalan herkes gibi bir çocuktur. Apartmanda yaşamak hele de tatil olunca çocuklar için çile demektir. Okul açılınca yaşananlar ise ayrı hikâye. Ali can sıkıntını gidermek için birçok proje üretir. Siz de ona katılmak ister misiniz?Setin Kitapları1. Bana neler oluyor?2. Gıdıklayan proje3. En güzel meslek emeklilik4. Sürprizli şubat tatili5. Atarlanan AsansörÜrün Adı: Apartman Çocuğu - 5 Kitap TakımÜrün Kodu: 8680628430636Yazar: Şebnem Güler KaracanBasım Yılı: 2016Kapak Türü: Karton KapakSayfa Sayısı: 480Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-07T19:48:06Z
+  Updated: 2026-10-17T05:45:02Z
   Vendor: Erdem Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680628430636.jpg?v=1779723539
   Price: $19,20 USD
 - [Petek Kitaplarım-1.Sınıflar İçin 15 Kitap](https://www.booksiblings.com/products/petek-kitaplarim-1-siniflar-i̇cin-15-kitap): Birey ve Toplum, Sağlık ve Çevre, Değerlerimiz, Dünya’mız ve Uzay, Hayal Gücü, Üretim, Tüketim ve Verimlilik, Güzel Sanatlar Alt Tema: Okula başlama, diş sağlığı, müzik, gök cisimleri, vücudumuzu tanıyalım, temizlik, 23 Nisan, dünya çocukları, Aspendos, alışveriş, tatil, arkadaşlık, oyun, kitap sevgisi, yarışma, sevgi, yaratıcı zekâ, çevre kirliliği, hayvanlara yardım Değerler Eğitimi: Paylaşma, mutluluk, kahramanlık, cesaret, yardımlaşma, vefa, başkalarını düşünme, empati, çözüm bulma, çevre bilinci, dayanışma, dürüstlük, hediyeleşme, sorumluluk, temizlik alışkanlığı, barış, yardımseverlik Yeni sistemle çocuklarımız bitişik eğik yazı ile okuma yazma öğrenimine başlamaktadırlar. Birinci dönemin sonunda çocuklar, okumalarını geliştirmeleri için kısa cümlelerden oluşmuş eğlenceli ve ilginç okuma kitaplarına ihtiyaç duymaktalar. Hem özgün öyküler hem kısa cümleler hem de sanat değeri yüksek resimlerden oluşan bu dizi, çocukların okuma heyecanını daha da artırmaktadır. Etkinlik defteri, çocukların öykülerdeki ana düşünceyi anlamalarına ve temel unsurları sorgulayarak metni daha iyi kavramalarına yardımcı olacaktır.Ürün Adı: Petek Kitaplarım-1.Sınıflar İçin 15 KitapÜrün Kodu: 8680628430797Yazar: KolektifBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 16Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-05T14:26:36Z
+  Updated: 2026-10-20T17:48:56Z
   Vendor: Erdem Yayınları
   Product Type: Çocuk Kitapları>Fıkra-Eğlence-Oyun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680628430797.jpg?v=1779723541
   Price: $19,20 USD
 - [Bilimin Öncüleri 2 - 5 Kitap Takım](https://www.booksiblings.com/products/bilimin-onculeri-2-5-kitap-takim): Bilimin Öncüleri serisi bugünün teknoloji ve bilimine temel oluşturan Müslüman ve Türk bilim adamlarının hayatlarını günümüz çocuklarına anlatabilmek için hazırlandı. Serinin beş kitaplık 2. seti, Ali Kuşçu, İbni Baytar, Harizmi, Meryem Usturlabi ve İbni Battûta’nın hayatları hakkındaki temel bilgilerden yola çıkılarak oluşturulmuş kurgu romanları içeriyor. Tarihe adını yazdırmış bu bilim insanlarının çocuklarına, afacanlıklarına ve hayallerine ulaşmak için neler yaptıklarına şahit olacaksınız.Setin İçindeki Kitaplar• Osmanlı’da Astronominin Kurucusu: Ali Kuşçu• Bitkilerin Kâşifi: İbni Baytar• Cebrin Babası Harizmi• İlk Kadın Gök Bilimci: Meryem Usturlabi• Bir Dünya Gezgini: İbni BattûtaÜrün Adı: Bilimin Öncüleri 2 - 5 Kitap TakımÜrün Kodu: 8680628431206Yazar: Ayşenur Gönen, Elif Akardaş, Naz N. VarlıBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 565Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-09T19:09:25Z
+  Updated: 2026-10-17T05:45:04Z
   Vendor: Erdem Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8680628431206.jpg?v=1779723542
   Price: $22,40 USD
 - [Ezber Kartelam](https://www.booksiblings.com/products/ezber-kartelam): Ürün Adı: Ezber KartelamÜrün Kodu: 8680793700015Yazar: KolektifBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:55:22Z
+  Updated: 2026-10-17T05:45:04Z
   Vendor: Edam Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
@@ -382,35 +382,35 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681149050068.jpg?v=1779723546
   Price: $3,84 USD
 - [Kalem Tutma (Çizerim-Silerim) - Kalem Hediyeli](https://www.booksiblings.com/products/kalem-tutma-cizerim-silerim-kalem-hediyeli): Ürün Adı: Kalem Tutma (Çizerim-Silerim) - Kalem HediyeliÜrün Kodu: 8681149050150Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 20Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:55:29Z
+  Updated: 2026-10-17T05:45:05Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681149050150.jpg?v=1779723547
   Price: $5,76 USD
 - [İlk Harfler (Çizerim-Silerim) - Kalem Hediyeli](https://www.booksiblings.com/products/i̇lk-harfler-cizerim-silerim-kalem-hediyeli): Ürün Adı: İlk Harfler (Çizerim-Silerim) - Kalem HediyeliÜrün Kodu: 8681149050167Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 20Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:55:30Z
+  Updated: 2026-10-17T05:45:06Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681149050167.jpg?v=1779723548
   Price: $5,76 USD
 - [İlk Matematik (Çizerim-Silerim) - Kalem Hediyeli](https://www.booksiblings.com/products/i̇lk-matematik-cizerim-silerim-kalem-hediyeli): Ürün Adı: İlk Matematik (Çizerim-Silerim) - Kalem HediyeliÜrün Kodu: 8681149050174Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 20Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:55:31Z
+  Updated: 2026-10-17T05:45:06Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681149050174.jpg?v=1779723549
   Price: $5,76 USD
 - [123 Sayılar (Çizerim-Silerim) - Kalem Hediyeli](https://www.booksiblings.com/products/123-sayilar-cizerim-silerim-kalem-hediyeli): Ürün Adı: 123 Sayılar (Çizerim-Silerim) - Kalem HediyeliÜrün Kodu: 8681149050181Yazar: KolektifBasım Yılı: Kapak Türü: Karton KapakSayfa Sayısı: 20Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:55:32Z
+  Updated: 2026-10-17T05:45:06Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681149050181.jpg?v=1779723551
   Price: $5,76 USD
 - [Erdemlerle Hikayeler - 10 Kitap Takım](https://www.booksiblings.com/products/erdemlerle-hikayeler-10-kitap-takim): Video Destekli Kitaplar / Değerlendirme Soruları İleÇocuklar... Üzerlerine titrediğimiz, en değerli varlıklarımız...Onları erdemli, yüksek ahlaklı, değerlerimizi bilen ve sahip çıkan bireyler olarak yetiştirmek herkesin ortak amacı. Bunun da en önemli aracı hikâyeler.İşte “Erdemlerle Hikâyeler” dizisi buradan yola çıkarak hazırlandı. “Değerler Eğitimi” temel alınarak her hikâyede bir değer işlendi. Her hikâyenin sonundaki “Değerli Sorular” ile verilmek istenilen değerin pekiştirilmesi amaçlanmıştır.• Liderlik• Merhamet• İyimserlik• Sorumluluk• Paylaşmak• Çevre Bilinci• Planlı Olmak• Çalışkan Olmak• Farklılıklara Saygı• Kendine Güvenmekİçindeki Kitaplar1. İyimserlik Oyunu2. Karakulak3. Köstebeğin Planı4. Lider Kim?5. Pugi6. Çalışan Başarır7. Farklı Olmak Kötü mü?8. Sultan Kız9. Temiz Çevre Savaşçıları10. KekitoÜrün Adı: Erdemlerle Hikayeler - 10 Kitap TakımÜrün Kodu: 8681149050594Yazar: Tuba BozcanBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 320Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T17:55:38Z
+  Updated: 2026-10-17T05:45:07Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379310338.jpg?v=1779723568
   Price: $4,16 USD
 - [Funny Mat - Çarpım Tablosu 33,5x48cm](https://www.booksiblings.com/products/funny-mat-carpim-tablosu-33-5x48cm): Ürün Adı: Funny Mat - Çarpım Tablosu 33,5x48cmÜrün Kodu: 8681378310346Yazar: KolektıfBasım Yılı: 2019Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-10-07T23:08:36Z
+  Updated: 2026-10-20T17:48:53Z
   Vendor: Akademi Çocuk
   Product Type: Diğer>Muhtelif
   Availability: Available
@@ -606,7 +606,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379311465.jpg?v=1779723584
   Price: $9,60 USD
 - [Akademi Çocuk-Gelişim Seti Yeni-20 li 38x45cm](https://www.booksiblings.com/products/akademi-cocuk-gelisim-seti-yeni-20-li-38x45cm): Funny Mat Gelişim Seti, her biri farklı desen ve fonksiyona sahip 21 farklı Funny Mat ve kalemlerinden oluşur. Matların üzerindeki desenler, özellikle müfredatta yer alan kavramlara uygun hazırlanmıştır. Sanatsaldır: Funny Mat'ın üzerindeki desenler su bazlı keçeli kalemle boyanır. Desenlere eklemeler yapılabilir. Su ile yıkandığında ya da ıslak bezle silindiğinde boyalar hemen çıkar ve tekrar tekrar boyanabilir. Fonksiyoneldir: Funny Mat, aynı zamanda bir masa koruyucudur. Oyun hamuru şekillendirirken, kilden heykeller yaparken, sulu boya çalışırken masanın temiz kalmasını sağlar. Eğlencelidir: Funny Mat, yemek masalarında servis olarak da kullanılır. Özellikle çocukların yemek saatleri bu eğlenceli desenlerle bir şölene dönüşür. Çevrecidir: Funny Mat, yıkanarak tekrar tekrar kullanılabilir. Çok uzun ömürlüdür. Geri dönüştürülebilir. Ve en önemlisi kâğıt kullanımını azaltır. Sağlıklıdır: Funny Mat PP ‘den üretilmiştir. PVC değildir. Zararlı hiçbir madde içermez.Ürün Adı: Akademi Çocuk-Gelişim Seti Yeni-20 li 38x45cmÜrün Kodu: 8681379311472Yazar: KolektıfBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:56:17Z
+  Updated: 2026-10-17T05:45:08Z
   Vendor: Akademi Çocuk
   Product Type: Çocuk Kitapları
   Availability: Available
@@ -634,14 +634,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379311656.jpg?v=1779723589
   Price: $9,60 USD
 - [Tükenmez Resim Defteri-1 Ressam Kediler - 35x50cm](https://www.booksiblings.com/products/tukenmez-resim-defteri-1-ressam-kediler-35x50cm): Ürün Adı: Tükenmez Resim Defteri-1 Ressam Kediler - 35x50cmÜrün Kodu: 8681379330053Yazar: KolektıfBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-07T23:08:47Z
+  Updated: 2026-10-17T05:45:08Z
   Vendor: Akademi Çocuk
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379330053.jpg?v=1779723590
   Price: $13,76 USD
 - [Tükenmez Resim Defteri 2 - 35x50cm](https://www.booksiblings.com/products/tukenmez-resim-defteri-2-35x50cm): Ürün Adı: Tükenmez Resim Defteri 2 - 35x50cmÜrün Kodu: 8681379330060Yazar: KolektıfBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-07T23:08:47Z
+  Updated: 2026-10-17T05:45:08Z
   Vendor: Akademi Çocuk
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
@@ -676,14 +676,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379330107.jpg?v=1779723596
   Price: $5,44 USD
 - [Tükenmez Resim Defteri - Ressam Kediler - 25x35 cm](https://www.booksiblings.com/products/tukenmez-resim-defteri-ressam-kediler-25x35-cm): Çiz, Boya, Yıka, Tekrar Tekrar Kullan!Yıkanabilir keçeli kalem ile kullanılır, suyla yıkanabilir ya da ıslak mendil ile silinir.Ya da kuru boya kalemleri ile kullanılabilir ve silgi ile silinebilir.Böylece aynı sayfalar defalarca kullanılabilir.Eğlence şimdi başlıyor!PP'den üretilmiştir. PVC ve zararlı madde içermez.Keçeli kalem ile kullanırken, boyanın ele daha az bulaşması için üst kısımlardan başlanıp aşağıya doğru devam edilmelidir.Önerilen boya kalemlerinin kullanılması durumunda, boya elinize ya da giysinize bulaşsa bile yıkandığında çıkacaktır.Dilerseniz bazı çalışmalarıınızı yıkamadan/ silmeden sayfa üzerinde bırakabilirsiniz.Ya da fotoğraflayarak kalıcı hale getirebilirsiniz.Yıkanabilir keçeli kalem ve kuru boya kalemleri dışında farklı bir kalem ya da boya kullanılmamalıdır.Sayfalar, su ile yıkandıktan ya da silindikten sonra kuru bir bez ya da kâğıt mendil ile kurulanmalıdır.Sıcak ile temas ettirilmemelidir. Katlanmamalı ve kesilmemelidir.Ürün Adı: Tükenmez Resim Defteri - Ressam Kediler - 25x35 cmÜrün Kodu: 8681379330121Yazar: KolektıfBasım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-10-07T23:08:46Z
+  Updated: 2026-10-17T05:45:08Z
   Vendor: Akademi Çocuk
   Product Type: Çocuk Kitapları
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681379330121.jpg?v=1779723597
   Price: $9,60 USD
 - [Akademi Çocuk-Resim Defteri 25X35](https://www.booksiblings.com/products/akademi-cocuk-resim-defteri-25x35): Çiz, Boya, Yıka, TEKRAR TEKRAR KULLAN!Yıkanabilir keçeli kalem ile kullanılır,suyla yıkanabilir ya da ıslak mendil ile silinir.Ya da kuru boya kalemleri ile kullanılabilir ve silgi ile silinebilir.Böylece aynı sayfalar defalarca kullanılabilir.Eğlence şimdi başlıyor!Ürün Özellikleri - Kullanım Önerileri:PP'den üretilmiştir. PVC ve zararlı madde içermez.Keçeli kalem ile kullanırken, boyanın ele daha az bulaşması için üst kısımlardan başlanıp aşağıya doğru devam edilmelidir.Önerilen boya kalemlerinin kullanılması durumunda, boya elinize ya da giysinize bulaşsa bile yıkandığında çıkacaktır.Dilerseniz bazı çalışmalarıınızı yıkamadan/ silmeden sayfa üzerinde bırakabilirsiniz.Ya da fotoğraflayarak kalıcı hale getirebilirsiniz.Yıkanabilir keçeli kalem ve kuru boya kalemleri dışında farklı bir kalem ya da boya kullanılmamalıdır.Sayfalar, su ile yıkandıktan ya da silindikten sonra kuru bir bez ya da kâğıt mendil ile kurulanmalıdır.Sıcak ile temas ettirilmemelidir.Katlanmamalı ve kesilmemelidir.Ürün Adı: Akademi Çocuk-Resim Defteri 25X35Ürün Kodu: 8681379330138Yazar: KolektıfBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:56:27Z
+  Updated: 2026-10-17T05:45:10Z
   Vendor: Akademi Çocuk
   Product Type: Çocuk Kitapları
   Availability: Available
@@ -717,15 +717,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681889040244.jpg?v=1779723603
   Price: $10,56 USD
+- [Mıraculous Frame Puzzle  - 35](https://www.booksiblings.com/products/miraculous-frame-puzzle-35): Ürün Adı: Mıraculous Frame Puzzle - 35Ürün Kodu: 8681889040343Yazar: Basım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
+  Updated: 2026-10-22T19:04:33Z
+  Vendor: Ca Games
+  Product Type: Hobi>Puzzle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681889040343.jpg?v=1779723604
+  Price: $3,07 USD
 - [Dünyamız Yer Puzzle](https://www.booksiblings.com/products/dunyamiz-yer-puzzle): Ürün Adı: Dünyamız Yer PuzzleÜrün Kodu: 8681889040398Yazar: Basım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:56:33Z
+  Updated: 2026-10-12T09:01:31Z
   Vendor: Ca Games
   Product Type: Hobi>Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681889040398.jpg?v=1779723606
   Price: $9,60 USD
 - [Eğitici Puzzle - Neşeli Hayvanlar](https://www.booksiblings.com/products/egitici-puzzle-neseli-hayvanlar): Ürün Adı: Eğitici Puzzle - Neşeli HayvanlarÜrün Kodu: 8681889040428Yazar: Basım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:56:36Z
+  Updated: 2026-10-17T13:27:02Z
   Vendor: Ca Games
   Product Type: Hobi>Puzzle
   Availability: Available
@@ -739,14 +746,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681889040466.jpg?v=1779723608
   Price: $8,06 USD
 - [Renkli Satranç Takımı](https://www.booksiblings.com/products/renkli-satranc-takimi): Ürün Adı: Renkli Satranç TakımıÜrün Kodu: 8681889040633Yazar: Basım Yılı: Kapak Türü: Sayfa Sayısı: 0Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:56:45Z
+  Updated: 2026-10-22T19:04:27Z
   Vendor: Ca Games
   Product Type: Hobi>Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8681889040633.jpg?v=1779723609
   Price: $16,90 USD
 - [Örnek İnsanlar Dizisi-3 Muhammed Ali](https://www.booksiblings.com/products/ornek-i̇nsanlar-dizisi-3-muhammed-ali): 1960’lı yılların başında boks ringlerine, kelebek gibi uçan, arı gibi sokan bir boksör çıktı... Cassius M. Clay adındaki bu zenci delikanlı, ringlerde fırtınalar gibi esmekte ve yumruklarını sadece rakibine değil, beyaz adamın ırkçılıktan bulanmış kafasına gözüne indirmekteydi...Kısa zamanda bir boks efsanesi haline gelen Cassius M. Clay, şöhret basamaklarını hızla tırmandığı yıllarda, herkese Müslüman olduğunu ilan etti. Adını da Muhammed Ali olarak değiştirdi...Haksız bir savaş olarak gördüğü Vietnam Savaşı’na gitmeyerek Amerika Devleti’ne kafa tuttu... Onu ezmeye çalıştılar ama ezemediler... Üzerine gidildikçe sesi daha çok çıktı... Muhammed Ali, sadece ringlerde yumruklarını konuşturan başarılı bir sporcu değildi... Gerçek bir boks efsanesi olarak ringlere, bütün mazlumların, bütün ezilenlerin ve hor görülenlerin sevgilisi olarak veda etti...Sadece bir sporcu olarak değil, müthiş bir insan olarak da milyonlarca gence örnek oldu.Ürün Adı: Örnek İnsanlar Dizisi-3 Muhammed AliÜrün Kodu: 9786055523688Yazar: Sevgi BaşmanBasım Yılı: 2023Kapak Türü: Karton KapakSayfa Sayısı: 96Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-09T19:09:36Z
+  Updated: 2026-10-20T17:48:53Z
   Vendor: Uğurböceği Yayınları
   Product Type: Edebiyat>Biyografi-Otobiyografi
   Availability: Available
@@ -760,7 +767,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8690103040731.jpg?v=1779723611
   Price: $9,60 USD
 - [Arapça Kelime Kartları (7. Sınıf)](https://www.booksiblings.com/products/arapca-kelime-kartlari-7-sinif): İmam-Hatip Ortaokulu 5, 6, 7 ve 8. Sınıf ünitelerine dayalı olarak hazırlanan bu çalışmada, Her sınıf için 72 kart 144 kelimeÖrnek cümleler yer almaktadır.-Ürün Adı: Arapça Kelime Kartları (7. Sınıf)Ürün Kodu: 8697911200852Yazar: Rahşan TekBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T17:56:54Z
+  Updated: 2026-10-12T03:10:55Z
   Vendor: Damla Yayınevi
   Product Type: Eğitim>Dil Eğitimi
   Availability: Available
@@ -774,7 +781,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8697911200869.jpg?v=1779723614
   Price: $5,76 USD
 - [Çizgi Defterim (Çizerim-Silerim) - Kalem Hediyeli](https://www.booksiblings.com/products/cizgi-defterim-cizerim-silerim-kalem-hediyeli): Ürün Adı: Çizgi Defterim (Çizerim-Silerim) - Kalem HediyeliÜrün Kodu: 8697911200968Yazar: KolektifBasım Yılı: 2016Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:56:56Z
+  Updated: 2026-10-17T05:45:10Z
   Vendor: Yumurcak Yayınları
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
@@ -795,35 +802,35 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8697911213456.jpg?v=1779723618
   Price: $8,64 USD
 - [Fen ve Teknoloji Serisi Seti (4 Kitap)](https://www.booksiblings.com/products/fen-ve-teknoloji-serisi-seti-4-kitap): Yepyeni setlerimiz; hayranlikla okudugu serilere kütüphanesinde bir bütün olarak yer vermek isteyen koleksiyoncu kitapkurtlari, binlerce okuru pesinden sürükleyen efsane serileri kesfetmek isteyen yeni okurlar ve kitap hediye etmekten hoslanan edebiyatseverler için kaçirilmayacak bir firsat!..(Tanitim Bülteninden)Ürün Adı: Fen ve Teknoloji Serisi Seti (4 Kitap)Ürün Kodu: 8699237593717Yazar: Toprak IşıkBasım Yılı: 2014Kapak Türü: Sayfa Sayısı: 584Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:57:05Z
+  Updated: 2026-10-17T05:45:10Z
   Vendor: Tudem Yayınları
   Product Type: Çocuk Kitapları>Kaynak Kitaplar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8699237593717.jpg?v=1779723620
   Price: $42,88 USD
 - [Cennetin Arka Bahçesi - Gavur İmamdan Çakırın Romanına ( Kutu )](https://www.booksiblings.com/products/cennetin-arka-bahcesi-gavur-i̇mamdan-cakirin-romanina-kutu): Ürün Adı: Cennetin Arka Bahçesi - Gavur İmamdan Çakırın Romanına ( Kutu )Ürün Kodu: 8699237595124Yazar: Habib BektaşBasım Yılı: Kapak Türü: Jelatin PoşetSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:57:06Z
+  Updated: 2026-10-11T12:01:36Z
   Vendor: Deli Dolu
   Product Type: Edebiyat>Roman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8699237595124.jpg?v=1779723621
   Price: $20,48 USD
 - [İşlem Tamam 4 Kitap](https://www.booksiblings.com/products/i̇slem-tamam-4-kitap): Toprak Işık’ın, matematiğin göründüğünden çok daha keyifli olabileceğini kanıtlayan dört kitaplık başvuru serisi “İşlem Tamam”, indirimli fiyat avantajı ve özel saklama kutusuyla set halinde raflardaki yerini alıyor.Doğru dille ve yöntemle anlatılan matematiğin, katıksız bir eğlenceye dönüşebileceğini savunan Işık, “İşlem Tamam”da yaşattığı benzersiz matematik deneyimi ile okurları sayıların büyülü dünyasında sihirli bir yolculuğa çıkarıyor.Toprak Işık’ın mizahi anlatımını Doğan Gençsoy’un karikatür esintili resimleriyle buluşturan seri, öğrencilere matematiği sevdirmenin keyifli yollarını sunuyor.“Matematiği sevsin ya da sevmesin, sıkıcı bulsun ya da bulmasın tüm çocuklara gönül rahatlığıyla önerebileceğiniz bir eser İşlem Tamam. Öte yandan sıkıcı bulanların, bu düşüncelerini gözden geçirmeleri için güzel bir fırsat olduğu da kesin. Doğan Gençsoy’un güzel çizimleri bu fırsatı daha da çekici hale getiriyor.”Ürün Adı: İşlem Tamam 4 KitapÜrün Kodu: 8699237599627Yazar: Toprak IşıkBasım Yılı: 2016Kapak Türü: KutuSayfa Sayısı: 0Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:57:08Z
+  Updated: 2026-10-17T05:45:12Z
   Vendor: Tudem Yayınları
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8699237599627.jpg?v=1779723622
   Price: $52,80 USD
 - [Süperhügo Serisi (5 Kitap Takım)](https://www.booksiblings.com/products/superhugo-serisi-5-kitap-takim): Ve karşınızda, tüm zamanların en süper köpeği Süperhügo!Salah Naoura ile SaBine Büchner'in ortak imzasını taşıyan 5 kitaplık "Süperhügo", "Küçük Yıldızlar - İlk Okuma Kitaplığı” serisindeki yerini alıyor."Okuma Seviyesi 2" olarak sınıflandırılan "Süperhügo" kitapları, okumayı söken 1. sınıf öğrencilerini ve hızlanmak için alıştırma yapan 2. sınıf ilk dönem öğrencilerini sakar köpek Hügo'nun peşinde maceradan maceraya koşturuyor.Büyükanne Frida ile huzurlu ve azıcık da miskin bir yaşam süren Hügo, günlerden bir gün, evdeki şöminenin içine yuvarlanıverir. Hügo, daha önce hiç görmediği bu esrarengiz odada, kitaplara konu olan efsanevi Süperköpek'in gizli sığınağını bulur. Tesadüf bu ya, Süperköpek de tıpkı kendisine benzemektedir. Hügo, onun kıyafetlerini kuşanır; artık o Süperhügo'dur! Ve işte bu noktadan sonra macera başlar... Minik kedi Mimi'nin izini sürer, hırsız tilkiyi yakalar, sular altına yolculuk edip küçük sardalyayı kurtarır ve son olarak da uzaya çıkıp küçük kurbağaya yardım eder. Kahraman olmak zordur ama Süperhügo olmak çok daha zordur...Ürün Adı: Süperhügo Serisi (5 Kitap Takım)Ürün Kodu: 8682328730979Yazar: Salah NaouraBasım Yılı: 2019Kapak Türü: Karton Kapak Sayfa Sayısı: 280Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:57:09Z
+  Updated: 2026-10-17T05:45:12Z
   Vendor: Tudem Yayınları
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/8699237599658.jpg?v=1779723623
   Price: $33,44 USD
 - [Kafiyeli Masallar Seti (5 Kitap Takım)](https://www.booksiblings.com/products/kafiyeli-masallar-seti-5-kitap-takim): Grimm Kardeşler’in en bilinen, en sevilen klasik masalları şimdi şiir olarak karşınızda! Memo Tembelçizer’in dizeleri ve çizgileriyle bu şiirler de şimdiden klasikleşmeye aday. Okuması son derece keyifli “Kafiyeli Masallar dizisi” kafiyeleriyle kulağa, güzel resimleriyle göze hitap ediyor.Bremen Mızıkacıları – Çizer : Emre KaracanÇizmeli Kedi – Çizer : Murat KalkavanPamuk Prenses ve Yedi Cüceler - Çizer: Memo TembelçizerHansel ve Gretel- Çizer : Zeynep ÖzatalayKırmızı Başlıklı Kız – Çizer : Oğuz DemirÜrün Adı: Kafiyeli Masallar Seti (5 Kitap Takım)Ürün Kodu: 9286054176064Yazar: Memo TembelçizerBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 220Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T17:57:10Z
+  Updated: 2026-10-17T05:45:14Z
   Vendor: Tekir Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -879,68 +886,68 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9778587878404.jpg?v=1779723633
   Price: $6,14 USD
 - [Pollyanna - Dünya Çocuk Klasikleri](https://www.booksiblings.com/products/pollyanna-dunya-cocuk-klasikleri): Annesi yıllar önce yaşamını yitiren Pollyanna, babasını da kaybettiği haberini alır. Hayat dolu küçük kız, katı ve kuralcı biri olarak tanınan Polly teyzesiyle birlikte yaşamaya başlar. Pollyanna’nın eve gelmesiyle birlikte çevredeki herkesin hayatı değişmeye başlar. Pollyanna, sapsarı saçları, gülümseyen yüzü ve oynadığı oyun ile etrafındaki herkese neşe saçar. Küçük kız, hem teyzesinin hem de çevresindeki diğer insanların hayatını değiştirecektir. Dünya çocuk edebiyatının en önemli eserlerinden biri olan Pollyanna, her tür olumsuz durumda bile mutlu olunabileceğini; hayata umutla bakılabileceğini anlatır.Ürün Adı: Pollyanna - Dünya Çocuk KlasikleriÜrün Kodu: 9786052045312Yazar: Muhammed T. KaracaBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 120Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T17:57:23Z
+  Updated: 2026-10-17T05:45:12Z
   Vendor: Koloni Çocuk
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9780194228077.jpg?v=1779723634
   Price: $3,20 USD
 - [Dian and the Gorillas](https://www.booksiblings.com/products/dian-and-the-gorillas): Over the years hunters, poachers, and war have killed many of the gorillas of central Africa. But there are still a few hundred living high in the mists of the Virunga Mountains. When Dian Fossey first saw a family of wild mountain gorillas in the Virungas she knew that she must help these wonderful animals. This true story tells of the twenty years she lived with them, watched them, wrote about them, and protected them. In the end, she gave her life for them.Ürün Adı: Dian and the GorillasÜrün Kodu: 9780194248273Yazar: Norma ShapiroBasım Yılı: 2010Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2.HamurÇevirmen:
-  Updated: 2026-09-29T17:57:24Z
+  Updated: 2026-10-18T15:05:22Z
   Vendor: Oxford University Press
   Product Type: Orijinal Dil>İngilizce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9780194248273.jpg?v=1779723636
   Price: $9,36 USD
 - [The Turn of the Screw](https://www.booksiblings.com/products/the-turn-of-the-screw): A young woman arrives at a large country house. Her job is to look after the two children who live there, but she soon discovers that there is something very strange about both the house and the children. The longer she stays, the more she feels that the two children are in danger - or is it that the children are the danger, and the person in danger is herself?Ürün Adı: The Turn of the ScrewÜrün Kodu: 9780194248891Yazar: Henry JamesBasım Yılı: 2009Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2.HamurÇevirmen:
-  Updated: 2026-09-29T17:57:24Z
+  Updated: 2026-10-18T15:05:22Z
   Vendor: Oxford University Press
   Product Type: Orijinal Dil>İngilizce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9780194248891.jpg?v=1779723637
   Price: $9,36 USD
 - [Ömer Seyfettin Kitaplığı - 10 Kitap](https://www.booksiblings.com/products/omer-seyfettin-kitapligi-10-kitap): Ürün Adı: Ömer Seyfettin Kitaplığı - 10 KitapÜrün Kodu: 9780342584666Yazar: Ömer SeyfettinBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 2.HamurÇevirmen:
-  Updated: 2026-10-05T19:19:27Z
+  Updated: 2026-10-17T05:45:13Z
   Vendor: Karatay Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9780342584666.jpg?v=1779723639
   Price: $14,40 USD
 - [Türkçe Sözlük (Yeni Basım)](https://www.booksiblings.com/products/turkce-sozluk-yeni-basim): Ürün Adı: Türkçe Sözlük (Yeni Basım)Ürün Kodu: 9783425848273Yazar: KolektifBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 400Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-09T00:33:55Z
+  Updated: 2026-10-16T14:40:47Z
   Vendor: Karatay Yayınları
   Product Type: Başvuru Kitapları>Sözlük-İmla Kılavuzu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9783425848273.jpg?v=1779723639
   Price: $5,76 USD
 - [English Dictionary İngilizce - Türkçe Türkçe - İngilizce (Yeni Basım)](https://www.booksiblings.com/products/english-dictionary-i̇ngilizce-turkce-turkce-i̇ngilizce-yeni-basim): Ürün Adı: English Dictionary İngilizce - Türkçe Türkçe - İngilizce (Yeni Basım)Ürün Kodu: 9783425848280Yazar: KolektifBasım Yılı: 2018Kapak Türü: Karton KapakSayfa Sayısı: 384Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-10-06T10:52:07Z
+  Updated: 2026-10-14T13:17:02Z
   Vendor: Karatay Yayınları
   Product Type: Başvuru Kitapları>Sözlük-İmla Kılavuzu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9783425848280.jpg?v=1779723641
   Price: $5,76 USD
 - [Sevimli Çocuklara Ceren ve Arkadaşları Dizisi (6 Kitap)](https://www.booksiblings.com/products/sevimli-cocuklara-ceren-ve-arkadaslari-dizisi-6-kitap): Ürün Adı: Sevimli Çocuklara Ceren ve Arkadaşları Dizisi (6 Kitap)Ürün Kodu: 9785123769027Yazar: Bestami YazganBasım Yılı: 2014Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T17:57:41Z
+  Updated: 2026-10-17T05:45:12Z
   Vendor: Nar Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9785123769027.jpg?v=1779723642
   Price: $17,28 USD
 - [Sedef Kız](https://www.booksiblings.com/products/sedef-kiz): Sevgili Çocuklar,Masaldaki Sedef Kiz uçmak istemis. Dünyayi görmek, karli daglarin tepelerinden asmak, denizlerin üzerinden uçmak istemis . . .Sedef Kiz günes isiklariyla, baliklarla, çiçeklerle konusmus . . .Uçma istegini kirlarda gördügü her canliya söylemis . . .Birgün ugur böcegi Sedef Kiz'in bu istegini duymus . . .Kocaman kanatli bir kus olmus . . . , Sedef Kiz'i gökyüzünde bulutlarin arasinda uçurmus.Birlikte serüvenler yasamislar . . .Masalimi okurken siz de tüm dünyayi gezmis olacaksiniz. Düslerinizde serüvenler yaratacaksiniz. Sonra onlarin resimlerini yapip masallarini siz yazacaksiniz . . .Iueila Çaliskan Ürün Adı: Sedef KızÜrün Kodu: 9786050029048Yazar: İncila ÇalışkanBasım Yılı: 2007Kapak Türü: Karton KapakSayfa Sayısı: 42Kağıt Cinsi: 1. Hm. KağıtÇevirmen:
-  Updated: 2026-09-29T17:57:43Z
+  Updated: 2026-10-17T05:45:14Z
   Vendor: Bu Yayınevi
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050029048.jpg?v=1779723643
   Price: $6,40 USD
 - [Zafere ve Mutluluğa Giden Yol](https://www.booksiblings.com/products/zafere-ve-mutluluga-giden-yol): "Zamaninda bir adim atmayan tembel, sonradan yüz adim atmak zorunda kalir." - Giovio"Antrenmanlarin her dakikasindan nefret ediyordum. Fakat kendi kendime, 'Vazgeçme!' dedim. 'simdi sikinti çek ve hayatinin geri kalanini bir sampiyon olarak yasa.'"- Muhammed Ali ClayZafere ve Mutluluga Giden Yol, isinde basarili olmak, kendini gelistirmek, daha iyi iliskiler kurmak ve mutlu bir hayat sürmek isteyen herkese hitap ediyor. Gerçek olaylar ve öyküler içeren bu kitabi okurken hosça vakit geçirecek ve faydasini göreceginiz pek çok sey ögreneceksiniz. Zafere ve Mutluluga Ulasmak Isteyen Kisi, Hedefler belirler Okur, okur, yine okurSosyal etkinliklere katilir Iyi bir ekip kurar Teknolojiyi yakalar Kirik camlari onarir Egosunu dizginler Spor yapar Dogayi severStresle basa çikar Basarisizliktan çekinmez Hobiler edinirEglenmeyi ögrenirInce Kapak: Ürün Adı: Zafere ve Mutluluğa Giden YolÜrün Kodu: 9786050200362Yazar: Timuçin FındıkBasım Yılı: 2011Kapak Türü: Sayfa Sayısı: 184Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:57:56Z
+  Updated: 2026-10-10T05:11:38Z
   Vendor: Omega Yayınları
   Product Type: Diğer>Kişisel Gelişim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050200362.jpg?v=1779723645
-  Price: $4,80 USD
+  Price: $0,32 USD
 - [Sokrates'in Savunması](https://www.booksiblings.com/products/sokratesin-savunmasi): Platon, hiç kuşku yok ki düşünce tarihinin en önemli ve etkili filozoflarından biridir. Felsefenin kurumsallaşmasına ve felsefede yazılı geleneğin oluşmasına katkıda bulunmuş, iki dünyalı metafiziğiyle bütün bir Ortaçağ düşüncesini belirleyecek olan idealist felsefe geleneğinin başlatıcısı olmuştur. Hıristiyan Ortaçağ felsefesine ve İslam düşüncesine etkisi bakımından da ayrıca önem taşıyan Platon, düşünce tarihi boyunca tartışılan tüm problemleri yüzlerce yıl öncesinden ele almış ve ilk büyük felsefi sistemi inşa etmiştir.Sokrates’in ölümünden kısa bir süre sonra kaleme alınan Sokrates’in Savunması, dinsizlik suçu işlediği gerekçesiyle mahkemeye verilmesi etrafında dönen Euthyphron ve hakkında verilen ölüm kararının gerçekleşmesine dek geçen zamanı içeren Kriton’la birlikte Sokrates’i ölüme götüren olaylar dizisinin en önemli noktalarından biridir.Tarihin en önemli savunmalarından birisi olan bu Savunma’yı konu edinen başka eserler olsa da Platon’un kaleme aldığı Savunma pek çok yönden tarihsel gerçeklere en uygun eser olarak kabul edilir. Platon’un, mahkemede fiili olarak bulunduğuna dair yaptığı göndermeler de Savunma’daki aktarımların birinci elden olduğuna dair düşüncemizi pekiştirir.Sokrates’in Savunması ile Sokrates felsefesinin misyonu ve temellendirilmesi hakkında bilgi edinmenin yanı sıra, Antik Yunan’da mahkemelerin yapısı ve işleyişi hakkında da önemli bilgilere ulaşabiliyoruz. Ürün Adı: Sokrates'in SavunmasıÜrün Kodu: 9786050200416Yazar: Ahmet CevizciBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 96Kağıt Cinsi: 2. HamurÇevirmen: Furkan Akderin
   Updated: 2026-09-29T17:57:58Z
   Vendor: Say Yayınları
@@ -956,19 +963,19 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050201161.jpg?v=1779723647
   Price: $12,80 USD
 - [Azeri Masalları](https://www.booksiblings.com/products/azeri-masallari): Samed Behrengi tarafindan derlenen Azerbaycan Masallari, yigitlerin asklari, yüreklilikleri ve mücadeleleri, romantik hikâyeler ve uzun kis gecelerinde çocuklari eglendirmek ve onlarin en güzel uykulara dalmasi için seçilmis masallardan olusuyor.Keloglan'in, devlerin, perilerin, padisahlarin, vezirlerin, hayvanlarin kahramani oldugu bu masallar yüzyillardir bu masallarla büyüyen çocuklarin kendi çocuklarina, onlardan da yeni nesillere aktarilarak anlatilmaya devam edecek...Ürün Adı: Azeri MasallarıÜrün Kodu: 9786050202014Yazar: Samed BehrengiBasım Yılı: 2013Kapak Türü: Sayfa Sayısı: 224Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:58:15Z
+  Updated: 2026-10-17T05:45:17Z
   Vendor: Say Yayınları
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050202014.jpg?v=1779723648
-  Price: $4,80 USD
+  Price: $0,48 USD
 - [Euro Kabusu](https://www.booksiblings.com/products/euro-kabusu): Bütün kitaya yayilmis olan bu yoksulluk hayaleti herkesi hazirliksiz yakalamisti. Rekor bir süre içerisinde vatandaslar bolluktan yokluga, spor sohbetlerinden ekonomi, cari açik ve borç hakkindaki tartismalara kaymislardi. Sokaktaki kuyruklar bir seyler satin almak için degil de artik sadece issizlik sirasinin kendilerine gelmesi için olusuyordu. Önceleri her içeri girene oluk oluk para akitan banka subelerinin oldugu yerde artik emanetçiler ve altin bozdurulup satilan dükkânciklar vardi.Kitaplari yalnizca Ispanya'da 100.000 kopya satan ve çektigi videolarla tüm dünyada 8 milyon takipçiye ulasan genç yazar ve belgesel yapimcisi Aleix Saló, son kitabi EURO KÂBUSU: Biri Orta Sinifi Yedi ile bu kez Türk okuruyla bulusuyor.Avrupali olmak ne demek? Aleix Saló bu sorununun cevabini ararken bizi Tanri'nin bile neresine set çekecegini bilemedigi vahsi ve çilgin Avrupa Birligi'ne dogru bir safariye çikariyor..."Mizrak kadar sivri bir kalem."-Diario ADN-"Çizdigi manzara yikici oldugu kadar isabetli de..."-ABC-(Tanitim Bülteninden)Ürün Adı: Euro KabusuÜrün Kodu: 9786050203332Yazar: Aleix SaloBasım Yılı: 2014Kapak Türü: Sayfa Sayısı: 192Kağıt Cinsi: Çevirmen: Arda Koval
-  Updated: 2026-09-29T17:58:34Z
+  Updated: 2026-10-10T05:11:41Z
   Vendor: Say Yayınları
   Product Type: Tarih>Siyasal Tarih
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050203332.jpg?v=1779723649
-  Price: $6,40 USD
+  Price: $0,64 USD
 - [Dünya Tarihi 1. Cilt - İlkçağ](https://www.booksiblings.com/products/dunya-tarihi-1-cilt-i̇lkcag): Dünya Tarihi adli dört ciltlik eserin bu birinci cildinde, Çatalhöyük ve Eriha gibi ilk insan yerlesimlerinin kurulusundan Roma Imparatorlugu'nun çöküsüne dek olan zaman dilimi ele aliniyor. Mezopotamya, Misir, Hint, Çin, Pers ve Yunan uygarliklarinin öyküsü efsane ve masallarla renklendirilerek anlatiliyor. Kral Narmer'in Misir'i birlestirmesinden Imparator Neron'un Roma'yi yakmasina dek, ilkçaga damgasini vuran olaylar akici bir dille aktariliyor. Ürün Adı: Dünya Tarihi 1. Cilt - İlkçağÜrün Kodu: 9786050203394Yazar: Susan Wise BauerBasım Yılı: 2020Kapak Türü: Kartok KapakSayfa Sayısı: 296Kağıt Cinsi: 2. HamurÇevirmen: Mihriban Doğan
   Updated: 2026-10-09T19:09:35Z
   Vendor: Say Yayınları
@@ -977,26 +984,26 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050203394.jpg?v=1779723650
   Price: $11,20 USD
 - [Aşkın Nü Halleri](https://www.booksiblings.com/products/askin-nu-halleri): Bu dünyada mutlulugun üç esasi; yapacak bir seye, sevecek bir seye ve ümit edecek bir seye sahip olmaktir.Mutluluk, istirap, hüzün, nese... Tüm zitliklari içinde barindiran yüce bir duygudur ask. Askin Nü Halleri, herkesin kendinden bir seyler bulabilecegi öykülerle sevgiliye "Seni Seviyorum" demenin yetmedigini, askin her halini yasamak gerektigini anlatan simsicak bir duygu seli.(Tanitim Bülteninden)Ürün Adı: Aşkın Nü HalleriÜrün Kodu: 9786050204070Yazar: Timuçin FındıkBasım Yılı: 2015Kapak Türü: Sayfa Sayısı: 184Kağıt Cinsi: Çevirmen:
-  Updated: 2026-09-29T17:58:45Z
+  Updated: 2026-10-10T05:11:42Z
   Vendor: Omega Yayınları
   Product Type: Diğer>Kişisel Gelişim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050204070.jpg?v=1779723652
-  Price: $4,80 USD
+  Price: $0,48 USD
 - [Batı Anadolu 1830](https://www.booksiblings.com/products/bati-anadolu-1830): Bilge insanlar için bir sey kaleme aldigim iddiasinda degilim, zaten bu mektuplari da onlar için yayinlamiyorum, çünkü onlara ögretebilecegim hiçbir sey yok; gezdigim yerlerin hiçbirinde döndügümde egitici olabilecek bilgi edinmeme yetecek süre kalmadim ki. Yani bu sayfalarda bilimsel baglamda Dogu'yla ilgili bir sey yok, ama Dogu'yu tarihten, ozanlarin dizelerinden ögrenmis birinin, ilk kez kendi gözleriyle görmesi var. Ben bu mektuplari ciddi ve metodik seylerden hoslananlar için de yayimliyor degilim. Ben bu mektuplari aslinda dostlarima yazdim". Haçlilar Tarihi'nin mütevazi yazari Michaud ve yol arkadasi Poujoulat'nin rotasi bu kez Izmir'den Istanbul'a uzaniyor. Izmir'i, Efes'i ve Kral Priamos'un topraklarini gezen seyyahlar, kâh Priamos'un mezari sanilan tepeye tirmanir, yerini bilmedikleri Troya kapilarinda Homeros'u ve Virgilius'u okurlar, kâh köylülerle sohbet ederler. Bir ay boyunca Çanakkale, Lâpseki, Gelibolu ve Erdek çevresini gezen seyyahlarimizin yeni hedefi Istanbul'dur. Michaud ve Poujoulat'nin kaleminden çikanlar bize Bati Anadolu'nun 185 yil öncesinden tablolar sunuyor.(Tanitim Bülteninden)Ürün Adı: Batı Anadolu 1830Ürün Kodu: 9786050204117Yazar: J. B. PontalisBasım Yılı: 2015Kapak Türü: Sayfa Sayısı: 280Kağıt Cinsi: Çevirmen: Nedim Demirtaş
-  Updated: 2026-09-29T17:58:46Z
+  Updated: 2026-10-10T05:11:43Z
   Vendor: Say Yayınları
   Product Type: Tarih>Dünya
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050204117.jpg?v=1779723652
-  Price: $1,60 USD
+  Price: $0,64 USD
 - [Bir Faytoncunun Serüvenleri](https://www.booksiblings.com/products/bir-faytoncunun-seruvenleri): "Ertesi sabahin erken saatlerinde uyanip hemen güverteye firladigimda, hayranlikla etrafi seyreden digerleri ile beraber, her tarafin mukayese kabul etmez bir muhtesemlikte olan manzarasi karsisinda, saskinligimdan ve hayranligimdan söyleyecek bir söz bulamadim. Gözlerime inanamadim ve geceleyin Binbir Gece Masallari diyarina geçtigimizi zannettim. Mamafih, hakikatin tam ortasinda, Avrupa ile Asya arasindaki sinirda bulunuyordum ve zaman geçtikçe gözüm, seyrettigi bu muhtesemlige yavas yavas alismaya ve kalbimin sessiz hayranligi kendini sesli bir coskuya birakmaya basladi...Sonsuz bolluk ve güzellikte isildayan tabiatin bitmeyen büyüsü yakin uzak her yerde görülürken kalbime hâkim olan tek bir düsüncem vardi; dünyanin hiçbir yerinde ikinci bir Istanbul yoktur."Fayton imalat kalfasi Ernst Christoph Döbel'in seyahati çagdasi seyyahlardan oldukça farkli gelismistir. Her seyden önce o seyahat masraflarini, seyahat sirasinda basta araba tamirati olmak üzere çalistigi farkli islerden kazandigi parayla karsilamaktadir. Bu nedenle harcadigi her kurusun hesabini yapar; kalabilecegi en ucuz mekânlarda kalir, karnini mütevazi bir sekilde doyurur, en hesapli sekilde yolculuk etmenin yollarini arar. Çalisma aletleri her daim yanindadir, bazi yerlerde para kazanmak için uzun süreli ikamet eder, bazi yerlerden sadece geçer gider.Bu kitapta, fayton imalat kalfasi Ernst Christoph Döbel "tuhaf ve garip sergüzestini" naklediyor.(Tanitim Bülteninden)Ürün Adı: Bir Faytoncunun SerüvenleriÜrün Kodu: 9786050204407Yazar: Ernst Christoph DöbelBasım Yılı: 2015Kapak Türü: Sayfa Sayısı: 224Kağıt Cinsi: Çevirmen: Cristina Schnettger
-  Updated: 2026-09-29T17:58:53Z
+  Updated: 2026-10-10T05:11:45Z
   Vendor: Say Yayınları
   Product Type: Tarih>Dünya
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050204407.jpg?v=1779723654
-  Price: $6,40 USD
+  Price: $0,64 USD
 - [Kerem ile Aslı](https://www.booksiblings.com/products/kerem-ile-asli): "Kesis bahçesinde bir güzel gördümAklimi basimdan aldi, ne çareTaramis zülfünü, dökmüs yüzüneSeherde sevdaya saldi, ne çareBen de bildim, bu bir kesis kizidirSeherde çikmis tan yildizidirDarilmis güzel bana küsmüstürHalimden bilmezsiniz ne çare"Isfahan sahinin oglu Kerem sarayda görevli olan bir kesisin kizi Aslihan'a âsik olur. Önceden söz vermesine ragmen kesis, kizini sahin ogluna vermek istemez ve kizi ile birlikte diyar diyar kaçmaya baslar. Sevdigini bulmak için Kerem de onlarin pesinden gider.16. yüzyil halk edebiyatinin en önemli eserlerinden biri olan Kerem ile Asli'da farkli dinlere mensup iki gencin birbirine kavusmak için çektigi sikintilar ve karsilastiklari güçlükler basit ve akici bir dille anlatiliyor.(Tanitim Bülteninden)Ürün Adı: Kerem ile AslıÜrün Kodu: 9786050205138Yazar: KolektifBasım Yılı: 2016Kapak Türü: Sayfa Sayısı: 184Kağıt Cinsi: Çevirmen:
   Updated: 2026-09-29T17:59:04Z
   Vendor: Say Yayınları
@@ -1005,21 +1012,21 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050205138.jpg?v=1779723655
   Price: $6,40 USD
 - [Freud Düşüncesinin Büyüklüğü ve Sınırları](https://www.booksiblings.com/products/freud-dusuncesinin-buyuklugu-ve-sinirlari): “Kendini yanilgilara yönelten kosullari degistirebilmesi için insanin önce bu kosullari doguran yanlisliklari yok etmesi gerekir.”Freud da böyle bir tanimlama yapabilirdi. Marx’inkine benzer bir cümle, psikanaliz teorisini kullanarak tedavi uygulayan bir bilim dali için çok uygun bir slogan olurdu. Gerçek kavramini epeyce genisleten Freud’un en özgün yani, gerçegin bilinçli zihinle düsünülen ya da inanilan sey degil de, asil düsünmek istenilmedigi için bastirilan olgular oldugunu ortaya koymasidir.Onun buluslarinin büyüklügü, gerçek sanilanlarin ötesindeki gizli ve üzeri örtülü olarak duran asil gerçege nasil varilacaginin yöntemini göstermesinden kaynaklanir. Bir insani iyi etmenin yolu, onun ruhsal yapisini anlayip bastirma olayini yok etmekten geçer. Bunu deneysel çalismalariyla kanitlayan Freud, gerçegin iyilestirip kurtaracak tek yol oldugu ilkesini çalismalarinda (yani pratikte) uygulamistir. Her ne kadar uygulamada bazi bozulmalara ugramis ve yeni yanilgilara yol açmissa da bu ilke, onun insanlik tarihine yaptigi en önemli katkidir.Ürün Adı: Freud Düşüncesinin Büyüklüğü ve SınırlarıÜrün Kodu: 9786050205343Yazar: Erich FrommBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 200Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T17:59:07Z
+  Updated: 2026-10-14T18:11:38Z
   Vendor: Say Yayınları
   Product Type: Psikoloji
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050205343.jpg?v=1779723656
   Price: $9,60 USD
 - [Kağıdın Sihirli Dünyası - 2](https://www.booksiblings.com/products/kagidin-sihirli-dunyasi-2): Kalp şeklinde bir zarf, ürkütücü bir örümcek ağı, üzerinde isminizin yazdığı bir elma, kâğıttan bir ağaç... Basit bir dille anlatılan açıklamaları oku; renkli, desenli kâğıtları kullan; birbirinden yaratıcı 10 farklı fikri hayal gücünü de katarak hayata geçir!Ürün Adı: Kağıdın Sihirli Dünyası - 2Ürün Kodu: 9786050205992Yazar: KolektifBasım Yılı: 2017Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: 1. HamurÇevirmen: İsmail Yerguz
-  Updated: 2026-09-29T17:59:19Z
+  Updated: 2026-10-17T05:45:15Z
   Vendor: Pia Yayınları
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050205992.jpg?v=1779723657
   Price: $1,60 USD
 - [Barışın Resmi (Cilti)](https://www.booksiblings.com/products/barisin-resmi-cilti): Barışın resmi çizilebilir mi? Hikayeci ressam kadın kendine bu soruyu tüm dünyada barış olsun isteyen bir kralla tanışınca sordu. O çizdiği her resmin hikayesini de anlatıyordu. İsterseniz size de hikayesini anlatarak BARIŞIN RESMİ'ni çizebilir. Sanat büyülü bir iştir. Belki tüm Dünya'ya barışı getirebilir. Ne dersiniz? Ürün Adı: Barışın Resmi (Cilti)Ürün Kodu: 9786050306101Yazar: Üseyd ÖztuzcuBasım Yılı: 2017Kapak Türü: CiltliSayfa Sayısı: 32Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-29T18:00:06Z
+  Updated: 2026-10-17T05:45:17Z
   Vendor: Ün Yayıncılık
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
@@ -1033,21 +1040,21 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050322293.jpg?v=1779723662
   Price: $15,84 USD
 - [Uzayda Ne Var Ne Yok - Profesör Çokbilmiş İle Memo 1](https://www.booksiblings.com/products/uzayda-ne-var-ne-yok-profesor-cokbilmis-i̇le-memo-1): PROFESÖR ÇOKBİLMİŞ VE MEMO’YLA UZAY YOLCULUĞUNA HAZIR OLUN! Profesör Çokbilmiş, bu kitapta sizi Meraklı Memo’nun sorularıyla uzayın karanlık derinliklerinde hayali yolculuklara çıkaracak!Gökyüzünde kaç yıldız vardır?Güneş’in yüzey sıcaklığı ne kadardır?Kuyruklu yıldız nedir?Geceleri çıplak gözle Uzay İstasyonu’nu görebilir miyiz?Ay’da domates yetişir mi?Bu kitapta, bütün bu sorulara cevap bulacaksınız.Ürün Adı: Uzayda Ne Var Ne Yok - Profesör Çokbilmiş İle Memo 1Ürün Kodu: 9786050360011Yazar: Erdoğan OğultekinBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 128Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:00:29Z
+  Updated: 2026-10-17T05:45:17Z
   Vendor: Genç Hayat
   Product Type: Çocuk Kitapları>Kaynak Kitaplar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050360011.jpg?v=1779723663
   Price: $7,68 USD
 - [Sakar Bora 4 - Kim Korkar Bilimden?](https://www.booksiblings.com/products/sakar-bora-4-kim-korkar-bilimden): Eğlenceli ve Paldır Küldür MaceralarıylaSakar Bora İşte Karşınızda!Merhaba arkadaşlar!Acaba bilim insanı olmayı aklınızdan geçirdiniz mi? Yoksa, “Amaaan çok sıkıcı. Böyle iyi.” diyenlerden misiniz? Bence ucundan da olsa biraz düşünün derim.Gerçi ben de aklımdan geçirmiyordum ama mahallede yaşadığımız o garip olaylardan sonra biraz zoraki oldu sanki. “Garip olaylar da ne?” dediğinizi duyar gibiyim.Ohoo, hangisini söyleyeyim ki? Kafamıza kurbağa yağmasını mı, yoksa köpüklerin mahalleyi basmasını mı, çok gizemli bir sisin her yeri kaplamasını mı? Sahi neden olur bu kadar garip şeyler? Ya da bunların bilimle ne alakası var?Eee, işte onu da bu kitapta öğreneceksiniz. Bu kitabı okuduktan sonra bilim insanı olursanız hiç şaşırmam doğrusu. Haydi o zaman.Başlayalım mı?Ürün Adı: Sakar Bora 4 - Kim Korkar Bilimden?Ürün Kodu: 9786050360028Yazar: Çağrı CebeciBasım Yılı: 2019Kapak Türü: Karton KapakSayfa Sayısı: 128Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-10-07T19:48:26Z
+  Updated: 2026-10-17T05:45:16Z
   Vendor: Genç Hayat
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050360028.jpg?v=1779723664
   Price: $6,08 USD
 - [Korkmasaydın Ne Yapardın?](https://www.booksiblings.com/products/korkmasaydin-ne-yapardin): Bir içinde yaşadığımız hayat var, bir de içimizde taşıdığımız. İçimizde anlatılmamış hikâyeler ve kullanılmamış potansiyeller taşırız. İçimize gömülü hayaller, bizden bir şeyler yapmamızı bekler. “Hayat kişinin cesareti oranında genişler ya da daralır.” diyor Anais Nin. Senin hayatında kaç cesaret denemesi var? Başlangıçta dizlerini titreten ama yaptıktan sonra seni büyüten neler yaşadın? Korkuna rağmen neler yaptın? Korkmasaydın ne yapardın? Bahar Eriş, yeni kitabında insanın dünya içinde kendi küçük dünyasını kurma çabasını anlatıyor. Öğrendiklerini ve düşündüklerini kendi hayatından da hikâyelerle paylaşıyor. Okura serpme kahvaltı tadında bir kültürel karışım sunuyor: Cesaretli kadın modelleri, azimli çocuk hikâyeleri, ebeveynlik halleri, kariyer kurma mücadeleleri, temel insanlık durumları, az gelişmiş ülke dumurları… Başka neler var? • Kendi en iyi versiyonunu nasıl bulacaksın?• Anne olmak ya da olmamak: Bütün mesele bu mu?• “Hak etme” kültürü mü “hak görme” kültürü mü? • Girdiğimiz savaşlar mı bizi yaralar, kaçtıklarımız mı?• Impostor sendromu: Kadının “iç güvesi” nedir?• Tutkun için evlere temizliğe gider miydin?Ürün Adı: Korkmasaydın Ne Yapardın?Ürün Kodu: 9786050380545Yazar: Bahar ErişBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:00:34Z
+  Updated: 2026-10-20T17:49:06Z
   Vendor: Alfa Yayınları
   Product Type: Edebiyat
   Availability: Available
@@ -1075,14 +1082,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050381450.jpg?v=1779723669
   Price: $17,28 USD
 - [Kendine Ait Bir Oda](https://www.booksiblings.com/products/kendine-ait-bir-oda): “Ama kadınlar için diye düşündüm, boş raflara bakarak, bu güçlükler çok daha fazla ürkütücüydü. Bir kere, aile gerçekten varlıklı değilse, ya da soylu değilse bırakın sakin bir odayı ya da ses geçirmez bir odayı, kendine ait bir odası olması bile söz konusu değildi kadının, on dokuzuncu yüzyılın başına kadar durum buydu. Evleneceği erkeğe verilen para, ki kızın babasının iyi niyetine bağlıydı bu, sadece üstüne başına yeterdi kızın, hepsi de yoksul erkekler olan Keats, Tennyson ya da Carlyle’ı avutan şeylerden bile yoksundu kız, bir gezintiden, Fransa’ya kısa bir yolculuktan, ne kadar perişan olsa da kendisini ailesinin taleplerinden ve baskılarından koruyan ayrı bir evden. Bu tür maddi zorluklar çok ürkütücüydü; ama maddi olmayanlar çok daha kötüydü. Keats ve Flaubert ve diğer üstün yetenekli adamlar dünyanın kendilerine kayıtsız kalmasına güç dayanıyorlardı, ama kadınlara baktığımızda bu kayıtsızlığın yerini düşmanlık alıyordu. Dünya kadına, erkeklere dediği gibi ‘İstersen yaz, umurumda değil’, demiyordu. Dünya kaba kaba gülerek, ‘Yazmak mı?’ diyordu. ‘Yazman ne işe yarıyor?’”Virginia Woolf’un sesi, aradan neredeyse yüz yıl geçmesine rağmen, Kendine Ait Bir Oda’daki söylemiyle, düşünceleriyle, gücünü ve etkisini yitirmeden günümüze ulaşıyor.Ürün Adı: Kendine Ait Bir OdaÜrün Kodu: 9786050602203Yazar: Virginia WoolfBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 128Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-08T19:09:05Z
+  Updated: 2026-10-21T17:00:09Z
   Vendor: Sia Kitap
   Product Type: Edebiyat>Roman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050602203.jpg?v=1779723675
   Price: $5,28 USD
 - [Nereden Çıktı Bu Çocuk?](https://www.booksiblings.com/products/nereden-cikti-bu-cocuk): NEREDEN ÇIKTI BU ÇOCUK?On yaşındaki Cantekin yaz tatili başladığında kendince planlar yapar, oturdukları sitedeki arkadaşlarıyla her gün oyun oynayacak, spor yapacak, istediği kadar eğlenecek ve elbette bol bol tembellik edecektir. Ancak bir cumartesi sabahı uyandığında, daha doğrusu kız kardeşi tarafından uyandırıldığında evde olağanüstü bir hareketlilik olduğunu görür. Herkes süslenmiş, gezmeye ya da önemli bir yere gidecek gibi hazırlanmıştır. Üstelik saat de erkendir. Bu telaşın neden olduğunu bilmeyen yalnızca Cantekin’dir. Annesiyle babasının sürprizinin ne olduğunu öğrenen Cantekin şaşırır, ancak pek mutlu olmaz. Planları umduğu gibi gerçekleşmese de beklenmedik bir konuk Cantekin’e farklı bir tatil yaşatacaktır.Ürün Adı: Nereden Çıktı Bu Çocuk?Ürün Kodu: 9786050602210Yazar: İlknur ÖzdemirBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 88Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-04T16:28:15Z
+  Updated: 2026-10-17T05:45:21Z
   Vendor: Sia Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1103,14 +1110,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050602234.jpg?v=1779723678
   Price: $7,68 USD
 - [Zıplamak İsteyen Zozo](https://www.booksiblings.com/products/ziplamak-i̇steyen-zozo): Küçük Zozo'muz serüvenlerine devam ediyor. Zozo'yu tanıyorsunuz artık, hem küçük, hem sevimli hem de çok şirin bir küçük zürafa o. Zozo ve minik arkadaşı Nefila birlikte dolaşmaya bayılıyorlar. Küçük Zozo'nun içinden hep oyun oynamak, koşmak, zıplamak geliyor ve öteki hayvanlar ne yapıyorsa o da onları yapmak istiyor. Oysa siz de bilirsiniz ki herkes kendi boyuna ve yeteneklerine uygun şeyleri yapmalıdır. Bunu hiç düşünmeyen Zozo'muzun başına acaba neler gelecek?VERİLMEK İSTENEN DEĞER: ARKADAŞLIK1- ARKADAŞ SEVGİSİ2- ARKADAŞINI DÜŞÜNMEK VE KOLLAMAK3- ARKADAŞ İÇİN ÖZVERİ4- ARKADAŞ YARDIMLAŞMASI5- FARKLI KİŞİLERLE ARKADAŞLIK ETMEKÜrün Adı: Zıplamak İsteyen ZozoÜrün Kodu: 9786050602258Yazar: Ceren KerimoğluBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 40Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:00:50Z
+  Updated: 2026-10-17T05:45:19Z
   Vendor: Sia Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050602258.jpg?v=1779723680
   Price: $6,40 USD
 - [Eski Değirmendeki Sır](https://www.booksiblings.com/products/eski-degirmendeki-sir): Bulut, Ferman, Nisan ve Zamir aynı yaşlarda dört kuzendir. Evleri birbirine çok yakın olduğu için bütün günleri bir arada, oyunlar oynayarak geçmektedir. En çok da evlerinin tam önünde yer alan çınar ağacının altında...Ancak gitmelerinin yasak olduğu iki yer vardır: Küçük göl ve eski taş değirmen. Bu değirmende görünmez şeylerin, mırıltıların olduğu, değirmenin titrediği gibi söylentiler çocukları iyice meraklandırınca gizlice oraya gitmeye karar verirler.Dört kafadar değirmene gittiklerinde hiç ummadıkları bir dünyaya adım atarlar. Ancak, geriye nasıl döneceklerdir?Bu kitap; arkadaşlık, sevgi, saygı ve aile bağlarının önemini bir solukta okunacak eğlenceli bir macerayla anlatıyor.Ürün Adı: Eski Değirmendeki SırÜrün Kodu: 9786050602272Yazar: Mustafa Hakkı KurtBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 152Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:00:50Z
+  Updated: 2026-10-17T05:45:21Z
   Vendor: Sia Kitap
   Product Type: Çocuk Kitapları>Roman
   Availability: Available
@@ -1124,21 +1131,21 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050602296.jpg?v=1779723682
   Price: $6,40 USD
 - [Saat Kaç?](https://www.booksiblings.com/products/saat-kac): Biz dört insan ve bir uzaylıdan oluşan harika bir astronot ekibiyiz! Tüm gün çalıştık ve akşam yemeğinde lezzetli mi lezzetli bir pizza yemek için sabırsızlanıyoruz!Ama kafamızı kurcalayan bir soru var:Akşam yemeğine kaç saat kaldı?Bu galaksiler arası macerada bize katılıp saatleri, dakikaları, saniyeleri; analog ve dijital saatlerin farkını ve daha pek çok şeyi öğrenmeye ne dersiniz? Haydi! Gelin ve hep birlikte saatlerin gizemli dünyasını keşfedelim!Ürün Adı: Saat Kaç?Ürün Kodu: 9786050603156Yazar: David A. AdlerBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 32Kağıt Cinsi: Kuşe Çevirmen: Ece Çavuşlu
-  Updated: 2026-10-09T00:34:00Z
+  Updated: 2026-10-17T05:45:21Z
   Vendor: İthaki Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050603156.jpg?v=1779723683
   Price: $8,32 USD
 - [Hayalperest](https://www.booksiblings.com/products/hayalperest): Şilili usta şair Pablo Neruda’nın hayatından yola çıkılarak kurgulanmış nefis bir çocukluk öyküsü...Neftali, çocukluğundan beri gizemli bir sesin çağrısını işitiyordu. Mahallesindeki çocuklar sataştığında, dediğim dedik babası onunla dalga geçtiğinde ve hatta kendinden şüphe ettiğinde bile bu çağrıyı duymazdan gelemiyordu. Gür çam ormanlarında, engin ve korkutucu okyanusun kıyısında, dinmek bilmeyen Şili yağmurunda, daima bu sesi işitir ve takip ederdi.Biyografi, şiir ve öykünün ustaca harmanlandığı bu kitapta, Pam Muñoz Ryan ve Peter Sís insanı alıp götüren resimleri büyülü gerçekçilikle birleştirerek okurları insan kalbinin ve hayal gücünün merkezine doğru bir yolculuğa çıkarıyor.Ürün Adı: HayalperestÜrün Kodu: 9786050603187Yazar: Pam Munoz RyanBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 384Kağıt Cinsi: Kitap KağıdıÇevirmen: Özge Nur Küskün
-  Updated: 2026-10-09T12:33:36Z
+  Updated: 2026-10-17T05:45:23Z
   Vendor: İthaki Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050603187.jpg?v=1779723685
   Price: $15,36 USD
 - [Ceri ve Deri - Kuş Evi Yapalım](https://www.booksiblings.com/products/ceri-ve-deri-kus-evi-yapalim): Kedi Ceri ve Köpek Deri, öğrenmeyi seven iki dosttur.Ceri ve Deri, evsiz bir kuş bulurlar ve onun için bir ev yapmaya karar verirler. Kusursuz bir ev tasarlamak çok eğlencelidir, peki ya inşa etmek o kadar kolay mı?Çocuklarla beraber okumak için dört dörtlük bir hikâye olan Kuş Evi Yapalım, küçük çocuklar için harika bir tasarıma giriş kitabı olmasının yanı sıra çocukların okuma becerilerini de geliştirmeyi amaçlıyor. YAZAR HAKKINDA Max Low, Hereford School of Art’tan mezun olmuştur. Çok satan çocuk kitaplarının yazarı Nicola Davies’in Bee Boy and The Moonflowers adlı kitabının ve Graffeg Yayınevi’ne ait Shadows and Lights adlı serisinin çizerliğini yapmıştır. Ceri ve Deri serisi ilk defa yazarlık ve tek başına çizerlik yaptığı ilk seridir. Ürün Adı: Ceri ve Deri - Kuş Evi YapalımÜrün Kodu: 9786050604009Yazar: Max LowBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 36Kağıt Cinsi: Kitap KağıdıÇevirmen: Berrin Şahin
-  Updated: 2026-09-29T18:00:57Z
+  Updated: 2026-10-17T05:45:24Z
   Vendor: The Çocuk
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1159,14 +1166,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050605655.jpg?v=1779723689
   Price: $10,24 USD
 - [Jaguara Dokunmak](https://www.booksiblings.com/products/jaguara-dokunmak): 40'tan Fazla Dilde Uluslararası ÇoksatanBir Ekonomik Tetikçinin İtirafları'nın yazarından Amazon şamanlarıyla doymak bilmez tüketim baronları arasındaki vicdani uçurumdan sesleniyor: Modern zaman kâhini, ekonomik tetikçi John Perkins. “Bu muhteşem kitap, göz alıcı gezegenimizde insan olmaya dair yeni bir gerçeklik yaratmamız için ilham veriyor.”Deepak Chopra Ekonomik tetikçiler (ET'ler) yerküre üzerindeki ülkeleri trilyonlarca dolar dolandıran yüksek ücretli profesyonellerdir. Dünya Bankası, ABD Uluslararası Kalkınma Ajansı ve diğer yabancı "yardım" kuruluşlarından büyük şirketlerin kasalarına ve gezegenimizin doğal kaynaklarını kontrol eden birkaç varlıklı ailenin ceplerine para aktarırlar. Kullandıkları araçlar arasında sahte finansal raporlar, hileli seçimler, darbeler, rüşvet, zorbalık ve cinayet bulunmaktadır. Nereden mi biliyorum? Ben de bir ET idim.Her şey Perkins’in Barış Gönüllüleri’ne katılmasıyla başladı.Gittiği ülkelerde yıllar boyunca yaptıklarının yıkıcı etkisini gördü.Yerli halkların yok oluşuna, köleleşmesine tanık oldu.Ve sonunda anladı, en azılı suçluların ortağıydı.Sonra bir gün, bir Amazon kabilesinde, jaguara dokundu. Jaguara Dokunmak bir tetikçinin Ölüm Ekonomisi'yle savaşan bir kahramana dönüşmesini anlatıyor.Hayatlarımızı ve topraklarımızı yıkıcı sistem ve projelerden korumamızın ipuçlarını veriyor.John Perkins bu kez iyinin yanında, bize yeni hayatın haritasını açıyor.Şimdi elimizi taşın altına koyma zamanı! Perkins son kitabı Jaguara Dokunmak ile okurları korkularıyla yüzleşme, sorumluluk alma ve gerekli değişimleri yapma konusunda yüreklendiriyor.Publishers Weekly Zamanımızda tutulmuş en önemli kayıtlardan biri. Ruhunuza dokunacak, cesaretinizi artıracak, kalbinizi ısıtacak. Büyülü, isyankar ve gerçek. Perkins’ten bir başyapıt.Lynne Twist, Paranın Ruhu kitabının yazarı Yıkıcı Ölüm Ekonomisi'ni sürdürülebilir bir Yaşam Ekonomisi'ne nasıl dönüştürebiliriz? Kendimizin en iyi versiyonu olmanın önünde ne engel var? John güçlü, zekice yanıtlar veriyor. Okuyun!”Marci Shimoff, #1 New York Times çoksatan yazarı Ürün Adı: Jaguara DokunmakÜrün Kodu: 9786050605679Yazar: John PerkinsBasım Yılı: 2021Kapak Türü: Karton Kapak Sayfa Sayısı: 296Kağıt Cinsi: Kitap KağıdıÇevirmen: Esra Even
-  Updated: 2026-09-29T18:01:04Z
+  Updated: 2026-10-13T16:30:42Z
   Vendor: April Yayıncılık
   Product Type: Siyaset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050605679.jpg?v=1779723691
   Price: $8,32 USD
 - [Bana Renk Ver - Mandala](https://www.booksiblings.com/products/bana-renk-ver-mandala): Mandala ile alternatif meditasyon şeklini keşfedin.Mandala, uzakdoğu dinlerinde ruhsal ve törensel açıdan Evren'i temsil eden görsellere verilen isimdir. Bireysel meditasyon ve evren ile bütünleşebilme niyetindeki kişiler mandala çalışmaları yapmaktadır.Bugün de modern hayatın stresinden kurtulmak isteyenlerin yeni gözdesi haline geldi. Beyaz sayfaları renklendirirken bir yandan da ruhunu yansıtanlar, renklerin arasında dinlendiklerini söylüyorlar.Siz de farklı desenlerden oluşturulmuş bu kitapla kendi ruhunuzda bir yolculuğa çıkabilirsiniz.Ürün Adı: Bana Renk Ver - MandalaÜrün Kodu: 9786050606126Yazar: KolektifBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:07Z
+  Updated: 2026-10-15T10:19:26Z
   Vendor: Yade Yayınları
   Product Type: Hobi
   Availability: Available
@@ -1180,7 +1187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050606164.jpg?v=1779723693
   Price: $2,88 USD
 - [Bana Renk Ver Mandala - Mutluluk Terapisi](https://www.booksiblings.com/products/bana-renk-ver-mandala-mutluluk-terapisi): Mandala ile alternatif meditasyon şeklini keşfedin.Mandala, uzakdoğu dinlerinde ruhsal ve törensel açıdan Evren'i temsil eden görsellere verilen isimdir. Bireysel meditasyon ve evren ile bütünleşebilme niyetindeki kişiler mandala çalışmaları yapmaktadır.Bugün de modern hayatın stresinden kurtulmak isteyenlerin yeni gözdesi haline geldi. Beyaz sayfaları renklendirirken bir yandan da ruhunu yansıtanlar, renklerin arasında dinlendiklerini söylüyorlar.Siz de farklı desenlerden oluşturulmuş bu kitapla kendi ruhunuzda bir yolculuğa çıkabilirsiniz.Ürün Adı: Bana Renk Ver Mandala - Mutluluk TerapisiÜrün Kodu: 9786050606171Yazar: KolektıfBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:09Z
+  Updated: 2026-10-22T19:04:46Z
   Vendor: Yade Yayınları
   Product Type: Hobi>Boyama
   Availability: Available
@@ -1194,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050607505.jpg?v=1779723695
   Price: $1,57 USD
 - [Cam-ı Cihan](https://www.booksiblings.com/products/cam-i-cihan): Merhaba, ben iri gözlü pofuduğun annesiyim. Çıtır teyzesiyle oğluma masallar yazdık. Hayat; ben ile oğluma buz pisti şeklinde armağan edilmişti. Kayıp düşmek için her seferinde, ukalaca, sinsice kahkahalar atmak için kurgulanmıştı sanki. Evet, belki düştük, belki kırıldık ama yenilmemek için bir o kadar da savaştık. Çünkü olması gereken güç, yani sevginin gücü ve mücadelede sınırsız olma isteği bizim elimizde olan bir şeydi. Öyle ki, buz pisti olarak bize sunulan bu hayatta patenle kaymak yerine, alçılı ayak ve bacaklarla, hüzünle, acıyla, yeri geldiğinde sevinç ve kahkahayla, tüm duyguları bir arada yaşadık. Çünkü oğlumun en önemsiz yanıydı yaşadığı kırıkları. Biz anneler özel durumu olan yavrularımızın hayatlarına, ellerinde sihirli değnekleri olan periler gibi dokunarak onları mutlu edebiliriz. Çünkü sevginin sınırı yoktur, doyumsuzdur. Bu gibi özel çocuklara sahip anneler şunu unutmamalıdır ki; bizler bu özel çocuklarla anladık sevginin, hayatın gerçek manasını. İyi ki doğdun, iyi ki benim oldun. Eğer bir daha gelirsek bu dünyaya, sen yine benim ol aynı şekilde tüm özelliklerinle.Ürün Adı: Cam-ı CihanÜrün Kodu: 9786050607512Yazar: Ceylan Özer, Jale ÖzerBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 24Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T18:01:11Z
+  Updated: 2026-10-17T05:45:23Z
   Vendor: Parana Yayınları
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1235,15 +1242,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050607581.jpg?v=1779723704
   Price: $1,60 USD
+- [Falaka](https://www.booksiblings.com/products/falaka): Falaka , Ahmet Rasim’in çocukluk günlerini anlattığı, 1927’de yayımlanmış anı kitabıdır.Türkiye Cumhuriyeti Milli Eğitim Bakanlığı tarafından ilköğretim için hazırlanmış olan 100 Temel Eser Listesi’nde yer alır.Yazar, okul günlerini ve çocukluğunda tanıklık ettiği geleneksel mahalle yaşamını aktardığı eserde kendisinde okul korkusuna yol açmış olan falakadan da bahsetmiş ve eğitim ve öğretimde uygulanan dayak yöntemini eleştirmiştir.Ürün Adı: FalakaÜrün Kodu: 9786050609356Yazar: Ahmet RasimBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 109Kağıt Cinsi: Kitap KağıdıÇevirmen:
+  Updated: 2026-10-20T12:00:10Z
+  Vendor: Girdap Kitap
+  Product Type: Çocuk Kitapları>Hikaye
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050609356.jpg?v=1779723705
+  Price: $1,89 USD
 - [Vatan Yahut Silistre](https://www.booksiblings.com/products/vatan-yahut-silistre): Namık Kemal'in Gelibolu'ya devlet memuriyetine gitmeden evvel yazdığı Vatan yahut Silistre, sağlığında sahnelenişini gördüğü tek oyundur. Eser, defalarca sahnelenerek geniş halk kitlelerine ulaşmıştır.Ürün Adı: Vatan Yahut SilistreÜrün Kodu: 9786050609370Yazar: Namık KemalBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 133Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:17Z
+  Updated: 2026-10-17T05:45:24Z
   Vendor: Girdap Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050609370.jpg?v=1779723706
   Price: $1,89 USD
 - [Mevlana’dan Öyküler](https://www.booksiblings.com/products/mevlana-dan-oykuler): Mesnevi, Mevlana'nın ilahi aşkının şahikasıdır; hakikatler ve irfan kitabıdır. Mevlana, Mesnevi-i Şerif'in birinci cildinin önsözüne şöyle başlar:Bu kitap, Mesnevi kitabıdır. Mesnevi, hakikate ulaşmak ve Allah'ın sırlarına agâh olmak, akıl erdirmek isteyenler için bir yoldur.Mevlana'nın her öyküsü insanı doğruya ve güzele götürecek öğütler üzerine kuruludur.Ürün Adı: Mevlana’dan ÖykülerÜrün Kodu: 9786050609387Yazar: KolektifBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 216Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:19Z
+  Updated: 2026-10-17T05:45:25Z
   Vendor: Girdap Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1263,22 +1277,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050614077.jpg?v=1779723710
   Price: $4,61 USD
-- [Çiçek Kurtarma Operasyonu](https://www.booksiblings.com/products/cicek-kurtarma-operasyonu): Dünyaca ünlü sanatçı Peter H. Reynolds, bu kez ikiz kardeşi Paul H. Reynolds’la birlikte eğlenceli bir diziye imza atıyor.Bilim, teknoloji, mühendislik, sanat ve matematiği disiplinler arası çalışma yöntemiyle ele alan kitaplar, özetle şunu söylüyor: Hayat, yaratıcı olma fırsatlarıyla doludur.Bu ilk kitapta, sıkışıp kalan pencerelerinin ardındaki çiçeklerini kurtarma planları yapan ikizler Sidney ve Simon, yeni icatlar peşinde koşuyor; çiçeklerini sulayıp, kasabalarındaki çiçek festivaline zamanında katılmanın yollarını arıyor. Ürün Adı: Çiçek Kurtarma OperasyonuÜrün Kodu: 9786050614800Yazar: Paul A. ReynoldsBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: Kitap KağıdıÇevirmen: Gülüzar Yıldırım
-  Updated: 2026-10-07T23:11:16Z
+- [Çöp Dedektifleri](https://www.booksiblings.com/products/cop-dedektifleri): Ürün Adı: Çöp DedektifleriÜrün Kodu: 9786050614817Yazar: Paul A. ReynoldsBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 48Kağıt Cinsi: 1.HamurÇevirmen:
+  Updated: 2026-10-17T05:45:25Z
   Vendor: Uyurgezer Yayıncılık
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050614800.jpg?v=1779723711
+  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050614817.jpg?v=1779723712
   Price: $7,20 USD
 - [Bir Konuşa Bilse!](https://www.booksiblings.com/products/bir-konusa-bilse): Ürün Adı: Bir Konuşa Bilse!Ürün Kodu: 9786050614831Yazar: Jennifer Mook-SangBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 152Kağıt Cinsi: 2. HamurÇevirmen: Burcu Aksu Güney
-  Updated: 2026-10-07T23:11:17Z
+  Updated: 2026-10-18T21:21:52Z
   Vendor: Uyurgezer Yayıncılık
   Product Type: Edebiyat>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050614831.jpg?v=1779723714
   Price: $7,20 USD
 - [Hep Senin Yüzünden](https://www.booksiblings.com/products/hep-senin-yuzunden): Edebiyatımızın sevilen kalemlerinden Çiğdem Sezer, hayal kırıklıklarını, çocuk olmanın zorluklarını ve gerçek dostluğu eğlenceli bir dille ele alıyor. Yazar, başkalarıyla kıyaslanmanın yarattığı kırgınlığı, öfkenin ve anlaşılamamanın hayatı nasıl zorlaştırdığını ve büyüklerin her zaman haklıolmadığını hatırlatıyor.Erdi, her şeyi mükemmel yapan kuzeni İrem’in bir süreliğine kendilerinde kalacağını öğrenir. Başlangıçta işler yolunda giderken zamanla kuzeninin yaptıkları Erdi’nin gözüne batmaya başlar. İrem’in, karıncasıyla dalga geçmesi bardağı taşıran son damla olur. Erdi’nin öfkesini yenmek için bulduğu tekerlemeli çözümler işe yarayacak mıdır?Ürün Adı: Hep Senin YüzündenÜrün Kodu: 9786050614855Yazar: Çiğdem SezerBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 76Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-09T19:09:46Z
+  Updated: 2026-10-17T05:45:25Z
   Vendor: Uyurgezer Yayıncılık
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1299,35 +1313,42 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050616330.jpg?v=1779723717
   Price: $3,84 USD
 - [Dr. Çınar Erdoğan Ergin](https://www.booksiblings.com/products/dr-cinar-erdogan-ergin): Virüs nedir ki?Çok mu küçük, büyüteçle görülebilir mi?Bulaşır mı mesela, bize zarar verir mi?Ondan nasıl korunabiliriz ki?Dr. Çınar küçük fakat soruları boyundan büyük!Erdoğan ERGİN'in yazdığı ve Rumeysa Zeynep ARAÇLI'nın resimlediği Dr. Çınar tam da ihtiyacımız olduğu bir zamanda ne de güzel anlatmışlar bize.Haydi çocuklar, şimdi de okuma sırası sizde!Ürün Adı: Dr. Çınar Erdoğan ErginÜrün Kodu: 9786050621013Yazar: Erdoğan ErginBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:46Z
+  Updated: 2026-10-17T05:45:26Z
   Vendor: Masal Seramik Evi
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050621013.jpg?v=1779723718
   Price: $8,00 USD
 - [Futbolun Mantıkla Yüzleşmesi](https://www.booksiblings.com/products/futbolun-mantikla-yuzlesmesi): Ürün Adı: Futbolun Mantıkla YüzleşmesiÜrün Kodu: 9786050621020Yazar: Zeki ŞenkalBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 255Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T18:01:49Z
+  Updated: 2026-10-19T08:46:21Z
   Vendor: Masal Seramik Evi
   Product Type: Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050621020.jpg?v=1779723719
   Price: $9,60 USD
+- [Sadece Bir Armadillo](https://www.booksiblings.com/products/sadece-bir-armadillo): Armadillo o gece her gece olduğu gibi yatağına yattı ama bir sorun vardı. Uyuyamıyordu! Belki uykum gelir düşüncesiyle yürüyüşe çıktı amaaa… Başına neler neler geldi.Sen de neler olduğunu merak ettiysen haydi sayfaları çevir ve bu maceraya ortak ol!Ürün Adı: Sadece Bir ArmadilloÜrün Kodu: 9786050621037Yazar: Özlem Balcı SabanBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 41Kağıt Cinsi: Kitap KağıdıÇevirmen:
+  Updated: 2026-10-20T01:15:44Z
+  Vendor: Masal Seramik Evi
+  Product Type: Çocuk Kitapları>Hikaye
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050621037.jpg?v=1779723721
+  Price: $9,60 USD
 - [Beyaz Kaz Albi](https://www.booksiblings.com/products/beyaz-kaz-albi): Ürün Adı: Beyaz Kaz AlbiÜrün Kodu: 9786050621044Yazar: Özlem Balcı SabanBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-07T23:11:26Z
+  Updated: 2026-10-17T05:45:26Z
   Vendor: Masal Seramik Evi
   Product Type: Çocuk Kitapları
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050621044.jpg?v=1779723722
   Price: $9,60 USD
 - [Kapıların Ardındaki](https://www.booksiblings.com/products/kapilarin-ardindaki): Ürün Adı: Kapıların ArdındakiÜrün Kodu: 9786050621051Yazar: Sema YaylıBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:52Z
+  Updated: 2026-10-17T05:45:29Z
   Vendor: Omes Çocuk
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050621051.jpg?v=1779723723
   Price: $8,00 USD
 - [Bu Durum Bambamı Asla İlgilendirmez!](https://www.booksiblings.com/products/bu-durum-bambami-asla-i̇lgilendirmez): Ürün Adı: Bu Durum Bambamı Asla İlgilendirmez!Ürün Kodu: 9786050621068Yazar: Hande Çenesiz Er, Gözde EyceBasım Yılı: 2021Kapak Türü: CiltliSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:01:53Z
+  Updated: 2026-10-17T05:45:29Z
   Vendor: Masal Seramik Evi
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1355,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050635249.jpg?v=1779723728
   Price: $7,68 USD
 - [Yaprağın Renkleri](https://www.booksiblings.com/products/yapragin-renkleri): Ulu Çınar'ın küçük yaprağı, sonbahar geldiğinde çok mutsuz olur, çünkü renk değiştirip süzülerek yere düşmek istememektedir. Öyle mutsuzdur ki arkadaşlarıyla bile konuşmak istemez. Sincaplar, arılar ve öbür hayvanlar onun derdini anlamazlar. Sonunda çok tatlı bir minik kuş sorar ona mutsuzluğunun nedenini. Nar Bülbülü'dür bu minik kuş. Küçük ve sevimli bir kelebeğin de yardımıyla Küçük Yaprak'ın aklındaki kuşkuları giderir ve yeniden mutlu olmasını sağlar.VERİLMEK İSTENEN DEĞER: ARKADAŞLIK1- ARKADAŞ SEVGİSİ2- ARKADAŞINI DÜŞÜNMEK3- GÜZELLİKLERİ GÖRMEK4- BİRLİKTE YAŞAMAK5- ELİNDEKİYLE YETİNMEKÜrün Adı: Yaprağın RenkleriÜrün Kodu: 9786050635256Yazar: Ceren KerimoğluBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 40Kağıt Cinsi: Kuşe KağıtÇevirmen:
-  Updated: 2026-09-29T18:01:58Z
+  Updated: 2026-10-21T10:50:57Z
   Vendor: Sia Kitap
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
@@ -1369,28 +1390,28 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050635270.jpg?v=1779723730
   Price: $1,76 USD
 - [İşaretlerin Peşinde](https://www.booksiblings.com/products/i̇saretlerin-pesinde): Çocuk ve gençlik edebiyatının özgün, cesur ve yenilikçi kalemlerinden Ülker Kurtcan, bizi ülkemizin yedi bölgesinde dolaştırırken hem o bölgelerin özelliklerini tanıtıyor hem de hepsi birbirinden farklı yedi öykü anlatıyor. Bu öykülerde yer alan kahramanların hepsi akıllı, azimli, başarıya odaklı gençler. Kâh dağlarda geziyoruz, kâh mutfakta özgün tatları deniyoruz, kâh deve güreşi izliyor, kâh arkeologların peşine takılıyoruz. Başarmanın, çalışmanın, merak duygusunu canlı tutmanın hayatımızı nasıl dönüştüreceğinin örneklerini okuyoruz. Anadolu’nun gizli hazinelerini siz de keşfetmek isterseniz bu gençlerimizin peşine takılın ve öykülerin içinden geçin diyoruz.Ürün Adı: İşaretlerin PeşindeÜrün Kodu: 9786050635287Yazar: Ülker KurtcanBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 168Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-10-07T23:11:26Z
+  Updated: 2026-10-20T17:49:06Z
   Vendor: Sia Kitap
   Product Type: Edebiyat>Roman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050635287.jpg?v=1779723732
   Price: $6,40 USD
 - [Merhaba Orman - Cırt Cırtlı Hikaye Kitabı](https://www.booksiblings.com/products/merhaba-orman-cirt-cirtli-hikaye-kitabi): "Ormanın sevimli yavru hayvanları yeni güne "Merhaba!" dedi. Tavşan kelebeklerin altında, kirpi dere kenarında, tilki kütüğün üzerinde, rakun kütüğün önünde ve karaca uğur böceğinin yanında durdu. Eğlenceli mi eğlenceli bir oyun kuruldu! Ormandan neşeli kahkahalar yükseldi. Derkeeen akşam oluverdi."Sevimli yavru hayvanların evlerine gitmesi gerekiyor. Sence evlerini bulabilecekler mi?Onlara bu heyecanlı macerada eşlik etmek istersen: Haydi! Sayfaları çevir, cırt cırtları yerleştir; bu macerayı kaçırma!Ürün Adı: Merhaba Orman - Cırt Cırtlı Hikaye KitabıÜrün Kodu: 9786050639919Yazar: Asiye Aslı AslanerBasım Yılı: 2020Kapak Türü: CiltliSayfa Sayısı: 12Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:00Z
+  Updated: 2026-10-17T05:45:31Z
   Vendor: Sincap Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050639919.jpg?v=1779723733
   Price: $12,16 USD
 - [Orman Ailesi - Bilgi Dolu İlk Kitaplarım](https://www.booksiblings.com/products/orman-ailesi-bilgi-dolu-i̇lk-kitaplarim): Ağaçlarla dolu ormanda kimler oynuyor?Görülecek ve keşfedilecek o kadar çok şey var ki!Okul öncesi dönemdeki çocuğunuz bu kitapla orman hayvanlarını eğlenerek öğrenecek.Ürün Adı: Orman Ailesi - Bilgi Dolu İlk KitaplarımÜrün Kodu: 9786050639940Yazar: Kevser AyaBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 10Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:02Z
+  Updated: 2026-10-17T05:45:29Z
   Vendor: Sincap Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050639940.jpg?v=1779723734
   Price: $4,48 USD
 - [Kuşlar Ailesi - Bilgi Dolu İlk Kitaplarım](https://www.booksiblings.com/products/kuslar-ailesi-bilgi-dolu-i̇lk-kitaplarim): Bulutların üstünde kimler uçuyor?Görülecek ve keşfedilecek o kadar çok şey var ki!Okul öncesi dönemdeki çocuğunuz bu kitapla kuşları eğlenerek öğrenecek.Ürün Adı: Kuşlar Ailesi - Bilgi Dolu İlk KitaplarımÜrün Kodu: 9786050639964Yazar: Kevser AyaBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 10Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:02Z
+  Updated: 2026-10-17T05:45:58Z
   Vendor: Sincap Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1404,28 +1425,28 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050640687.jpg?v=1779723736
   Price: $12,48 USD
 - [Kağıttan Şeyler](https://www.booksiblings.com/products/kagittan-seyler): Ari’nin annesinin, ölmeden önce ondan ve abisi Gage’den iki dileği vardı: İki kardeş birbirlerini asla bırakmayacak ve Ari beşinci sınıftan sonra yetenekli öğrencilerin gittiği Carter Ortaokulu’nda okuyacaktı.Bu nedenle, Gage on dokuz yaşına gelip de koruyucuları Janna’nın evinden ayrılma kararı aldığında Ari onunla gitmesi gerektiğini biliyordu. Fakat aradan haftalar geçmesine rağmen Gage ne bir iş ne de bir ev bulabilmişti. O ve Ari bazen bir tanıdığın salonundaki kanepede, bazen sığınma evinde, bazense küçücük bir depoda geceyi geçirirken, bütün bu yaşam mücadelesinin arasında Ari’nin derslerindeki başarısını sürdürüp Carter Ortaokulu’na kabul edilmesi giderek zorlaşıyordu. Yoksa Ari, annesinin son iki dileğinin birinden vazgeçmek zorunda mı kalacaktı?Mücadeleci ve cesur Ari’nin başından geçenler; evsizliği, aitlik duygusunu, kararlılığı ve sadakati on bir yaşındaki bir kız çocuğun gözünden yansıtırken sizlere bambaşka duyguları aynı anda yaşatacak.Ürün Adı: Kağıttan ŞeylerÜrün Kodu: 9786050643022Yazar: Jennifer Richard JacobsonBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 328Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T18:02:08Z
+  Updated: 2026-10-17T05:45:58Z
   Vendor: İthaki Yayınları
   Product Type: Çocuk Kitapları>Roman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050643022.jpg?v=1779723737
   Price: $12,16 USD
 - [Ressam Kedi Pablo ve Diğer Öyküler](https://www.booksiblings.com/products/ressam-kedi-pablo-ve-diger-oykuler): Çok sevilen çocuk kitapları yazarı Zeynep Alpaslan’dan, başkarakterlerini birbirinden sevimli kedilerin oluşturduğu, nefis bir öykü kitabı…İçinde bulunan sekiz öykünün her birinde farklı bir patili dostumuzla tanışacak, ressam kedi Pablo’nun, yazar kedi Kömür’ün, robot kedi Yuki’nin, çöp kedisi Misket’in ve diğerlerinin sımsıcak hikâyelerine ortak olacağız.Burcu Güdücü’nün sevimli resimlerinin eşlik ettiği, kediler dünyasında geçen ve sevginin, dostluğun, hayal kurmanın, hayallerin peşinden koşmanın önemini hatırlatan her bir öykü, yüzünüzde umut dolu bir gülümseme bırakacak.Ürün Adı: Ressam Kedi Pablo ve Diğer ÖykülerÜrün Kodu: 9786050643039Yazar: Zeynep AlpaslanBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 104Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T18:02:09Z
+  Updated: 2026-10-17T05:45:59Z
   Vendor: İthaki Yayınları
   Product Type: Çocuk Kitapları>Roman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050643039.jpg?v=1779723739
   Price: $8,00 USD
 - [Acaba Havuç Tadında Sinek Var Mıdır?](https://www.booksiblings.com/products/acaba-havuc-tadinda-sinek-var-midir): Biriyle yakın arkadaş olmak, her şeyi onunla birlikte yapmayı mı gerektirir? Var mısınız, Nuli ve Pirizut’un sevgi dolu hikayesinde bu sorunun cevabını bulmaya?Ürün Adı: Acaba Havuç Tadında Sinek Var Mıdır?Ürün Kodu: 9786050648454Yazar: Matthias SodtkeBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 32Kağıt Cinsi: Kitap KağıdıÇevirmen: Elif Alkan Haertwig
-  Updated: 2026-09-29T18:02:16Z
+  Updated: 2026-10-17T05:45:59Z
   Vendor: Nito Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050648454.jpg?v=1779723740
   Price: $7,04 USD
 - [Yanlış Kardan Adamı Kim Yaptı?](https://www.booksiblings.com/products/yanlis-kardan-adami-kim-yapti): Gerçek bir kardan adam nasıl görünür? Tavşan Nuli ve Kurbağa Pirizut’unBu konudaki fikirleri birbirinden tamamen farklı. Sizce acaba hangisi haklı?Var mısınız,Nuli ve Pirizut’un sevgi dolu hikâyesinde bu sorunun cevabını bulmaya?Ürün Adı: Yanlış Kardan Adamı Kim Yaptı?Ürün Kodu: 9786050648478Yazar: Matthias SodtkeBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 32Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:17Z
+  Updated: 2026-10-17T05:45:59Z
   Vendor: Nito Kitap
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
@@ -1460,7 +1481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050663136.jpg?v=1779723746
   Price: $8,00 USD
 - [İnsanlığın Geleceği - Beyin Sizsiniz 3](https://www.booksiblings.com/products/i̇nsanligin-gelecegi-beyin-sizsiniz-3): İnsanlık yaşanabilir bir geleceğinin olabilmesi için dünyadan ayrılacak. Siz de ayrılmak ister misiniz?Robotların insanlardan üstün olduğu yeni bir yaşam biçimi ortaya çıkacak. Sizce bu olası mı?Yapay organlarla yaşayıp yaşlanacağız. Gelecekte organ marketlerinden yapay organ siparişi verir misiniz?Beynimizdeki bilgileri istediğimiz kişiye aktarabileceğiz. En sevdiğiniz arkadaşınıza aktarmak ister misiniz?Beyinlerimiz hacklenme tehlikesiyle karşı karşıya kalacak. Biraz önce en sevdiğiniz arkadaşınıza aktarmayı bir an olsun düşündüyseniz, bu cevabı tekrar düşünmeye ne dersiniz?Ücretsiz kullandığımız ürünler yüzünden aslında bizler de ürün olacağız. Vazgeçilmezlerimizden sosyal medya sitelerinin ücretsiz olmasını bu konu çerçevesinde değerlendirmek ister misiniz?Beyinlerimize çip takılacak. Ben buna asla izin vermem diyenlerdenseniz, sizce gelecekte bu kararınızın arkasında gerçekten durabilecek misiniz?İnsanlık modern köleler hâline dönüşecek. Şu an buna ihtimal bile vermiyor musunuz?Tüm dünyada geçerli dijital kimlik kullanılmaya başlanacak. Asla kullanmam diyenlerden misiniz?Elinizde tuttuğunuz bu kitabın da bir canı var. Bunu biliyor muydunuz?Gelecekle ilgili merak ettiğiniz ve daha önce hiç duymadığınız gelişmeler hatta aklınızın ucundan bile geçmeyecek tehlikeler... Hepsi ve daha fazlası, bu kitabın sayfalarının arasına sırlanmış, keşfedilmeyi bekliyor. İnsanlığın Geleceği’ne bugünden hazırlıklı olmak için siz neyi bekliyorsunuz?Ürün Adı: İnsanlığın Geleceği - Beyin Sizsiniz 3Ürün Kodu: 9786050663143Yazar: İsmail Hakkı AydınBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 584Kağıt Cinsi: 2. HamurÇevirmen:
-  Updated: 2026-09-29T18:02:40Z
+  Updated: 2026-10-22T13:12:18Z
   Vendor: Girdap Kitap
   Product Type: Diğer>Kişisel Gelişim
   Availability: Available
@@ -1481,7 +1502,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050663174.jpg?v=1779723749
   Price: $9,60 USD
 - [Hayvan Çiftliği](https://www.booksiblings.com/products/hayvan-ciftligi): “Bütün hayvanlar eşittirama bazı hayvanlaröbürlerinden daha eşittir!”İngiliz yazar George Orwell’ın mecazi bir dille yazdığı Hayvan Çiftliği romanı, çağdaş klasikler arasına girmiş, dünya edebiyatındaki yergi türünün başyapıtlarındandır.Hayvanlar üzerinden sembolik olarak anlatılan bu romanda, olaylar İngiltere’de bir çiftlikte geçer. Hayvanlar daha ileri, daha eşitlikçi bir hayat için, kendilerini sömüren insanların kurduğu sisteme karşı gelerek yönetimi ele geçirir. Domuzların önderliğinde başlayan eşitlikçi hayat ideali, kısa zamanda yolundan sapar ve insanlardan daha acımasız, daha baskıcı bir diktatörlük kurulur.Hayvanlar âlemini konu ediniyor gibi görünen kitapta, her hayvan sembolik bir insan tipini tasvir eder; kara mizah yoluyla toplum yapısına, düzene, yasalara da göndermelerde bulunur.Kendinden sonraki birçok yazara ilham kaynağı olan George Orwell’ın iğneleyici anlatımı, pek çok ülkede sansürlenmeye çalışılmış olsa da Hayvan Çiftliği öyle bir eserdir ki ana fikrinden hiçbir zaman uzaklaşmaz.Ürün Adı: Hayvan ÇiftliğiÜrün Kodu: 9786050663181Yazar: George OrwellBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 160Kağıt Cinsi: Kitap KağıdıÇevirmen: Sevdenur Cebeci
-  Updated: 2026-09-29T18:02:28Z
+  Updated: 2026-10-20T12:00:18Z
   Vendor: Girdap Kitap
   Product Type: Edebiyat>Roman
   Availability: Available
@@ -1495,26 +1516,26 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050663198.jpg?v=1779723752
   Price: $9,28 USD
 - [Eğlen Öğren Ice Cream - 360 Soru (7-8 Yaş)](https://www.booksiblings.com/products/eglen-ogren-ice-cream-360-soru-7-8-yas): Ürün Adı: Eğlen Öğren Ice Cream - 360 Soru (7-8 Yaş)Ürün Kodu: 9786050665208Yazar: KolektifBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T18:02:31Z
+  Updated: 2026-10-17T05:46:01Z
   Vendor: Dstil Tasarım
   Product Type: Çocuk Kitapları>7-12 Yaş
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050665208.jpg?v=1779723753
   Price: $8,32 USD
 - [Bombili Köfte - Can Sıkmaz Bey 1](https://www.booksiblings.com/products/bombili-kofte-can-sikmaz-bey-1): Evimizden ayrılıp başka bir evde kalacak olmak, hele zorunluysak pek de hoşumuza gitmez. Tuna ve Bade de anneanlererinin yanında bir hafta kalmaları gerektiğini öğrendiklerinde üzüldüler. Anneannelerini sert ve sıkıcı, onun yaşadığı evi ve kasabayı ise bunaltıcı ve renksiz buluyorlardı. Televizyonda hava durumu programını sunan Can Sıkmaz Bey’in ekrandan onlarla konuşmaya başlaması ve önerileri çocukların tüm sıkıntılarını bir anda yok etmeye yetti. Bu kitap ihtiyacınız olan fikirleri içinde saklıyor.Ürün Adı: Bombili Köfte - Can Sıkmaz Bey 1Ürün Kodu: 9786050666847Yazar: Pelin GüneşBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 128Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:36Z
+  Updated: 2026-10-17T05:46:01Z
   Vendor: Parmak Çocuk
   Product Type: Çocuk Kitapları
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050666847.jpg?v=1779723754
-  Price: $7,36 USD
+  Price: $8,64 USD
 - [Dünyam Ülkem Bölgem Kültürüm - Eğitici Etkinlik Kitabı](https://www.booksiblings.com/products/dunyam-ulkem-bolgem-kulturum-egitici-etkinlik-kitabi): Dünyam Ülkem Bölgem Kültürüm Eğitici Etkinlik Kitabı’nın örnek iç sayfalarını görmek için “İncele” butonuna basınız.Dünyam Ülkem Bölgem Kültürüm Eğitici Etkinlik Kitabı; çocuklara, kendi kültürlerinin ve farklı kültürlerin özelliklerini tanıtırken, eğitimcilere de planlı, programlı ve eğlenceli bir içerik sunmaktadır. Çocuklar için eğlenceli ve bilgi dolu “Dünyam Ülkem Bölgem Kültürüm Eğitici Etkinlik Kitabı”; asetat, kazı öğren, çıkartma ve karekodlu sayfalarıyla, dünyayı, ülkeleri, tarihi yapıları ve yetişen ürünleri okul öncesi çocukların gelişim özelliklerine göre tanıtıyor.Ürün Adı: Dünyam Ülkem Bölgem Kültürüm - Eğitici Etkinlik KitabıÜrün Kodu: 9786050669404Yazar: Zarife ÜspolatBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 60Kağıt Cinsi: 1. HamurÇevirmen:
-  Updated: 2026-09-30T13:11:02Z
+  Updated: 2026-10-17T05:46:02Z
   Vendor: Mor Elma Yayıncılık
   Product Type: Çocuk Kitapları
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050669404.jpg?v=1779723755
-  Price: $9,60 USD
+  Price: $24,00 USD
 - [Mutlu Bebeğin Günlüğü "İlk Bebeklik"-3](https://www.booksiblings.com/products/mutlu-bebegin-gunlugu-i̇lk-bebeklik-3): Doç. Dr. Osman Abalı’nın yazdığı Mutlu Bebeğin Günlüğü serisi bebek sahibi olmayı düşünen, bebek bekleyen ve bebeğini kucağına almış anne babalara yaşamlarındaki bu yeni dönemde kılavuzluk edecek kitaplardan oluşuyor. Hamilelik öncesi, hamilelik, doğum ve sonrası dönemlerin hepsini ele alarak, mutlu ve sağlıklı bir bebek için yapılacak tüm hazırlıkları ve bütün süreci bir uzman görüşü ile okuyucularına sunuyor.Mutlu Bebeğin Günlüğü; anne ve baba adaylarının strese girmeden, her anı pozitif ve huzurlu bir şekilde yaşayarak bebeklik döneminden başlayarak çocuklarını geleceğe hazırlamak ve onları zararlı etkenlerden korurken, en faydalı olanı sunabilmek, bebeklerinin gelişimini, beden ve ruh sağlığını en iyi şekilde desteklemek için başucu niteliğinde bir seri.Mutlu Bebeğin Günlüğü serisi, Hamilelik ve Öncesi, Doğum ve Sonrası, İlk Bebeklik ve Gelişim Süreci olarak toplam 4 kitaptan oluşuyor. Doç. Dr. Osman Abalı tarafından yazılan kitap serisi, hamileliğin başından sonuna kadar anne ve baba adaylarını bekleyen kronolojik sıraya uygun olarak hazırlanmıştır. Son kitapta ise bebek sahibi olmayı düşünenlerin ve bebeklik döneminde çocuğu olan bütün ebeveynlerin çocukları büyürken dikkat etmesi gereken bebeklik dönemi genel gelişim basamakları bulunuyor.Ürün Adı: Mutlu Bebeğin Günlüğü "İlk Bebeklik"-3Ürün Kodu: 9786050671438Yazar: Doç. Dr. Osman AbalıBasım Yılı: 2020Kapak Türü: Sayfa Sayısı: 60Kağıt Cinsi: Mat KuşeÇevirmen:
   Updated: 2026-09-29T18:02:41Z
   Vendor: Adeda Yayıncılık
@@ -1544,49 +1565,49 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050671469.jpg?v=1779723761
   Price: $5,44 USD
 - [Dikkatli Çizgiler - 5-7 Yaş - (3 Kitap SET)](https://www.booksiblings.com/products/dikkatli-cizgiler-5-7-yas-3-kitap-set): Ürün Adı: Dikkatli Çizgiler - 5-7 Yaş - (3 Kitap SET)Ürün Kodu: 9786050671483Yazar: Doç.Dr. Osman AbalıBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:45Z
+  Updated: 2026-10-21T21:55:27Z
   Vendor: Adeda Yayıncılık
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050671483.jpg?v=1779723761
   Price: $3,20 USD
 - [Köprüdeki Köpek  (3-7 Yaş)](https://www.booksiblings.com/products/koprudeki-kopek-3-7-yas): Yazarımızın notu;"Her çocuk özeldir ve güzel bir gelişimi hak eder. Gelişimsel açıdan çok önemli olan ilk 7 yaş mutlaka değerlendirilmelidir. Bu açıdan duygusal gelişim, empati, hayal dünyası, sosyal ve iletişim zekası hikayelerle desteklenmelidir. Yaklaşık 25 yıldır bütün dünya çocukları için eserler üretiyorum. Hayata katkı sağlayacak bu eser bütün çocuklarımıza armağan olsun. Anne babaların ve eğitimcilerin çocuklarla bir arada keyifle okuyacağı, gelişimsel açıdan katkı sağlayacak bir kitap var. Hepinize keyifli okumalar diler daha nice eserlerle buluşmayı temenni ederim.”Doç. Dr. Osman ABALI Bu kitap ile hedeflenen kazanımlar;• Duygusal zeka gelişimi• Empati• Çok yönlü düşünme• Sosyal gelişim• İletişim kapasitesi• Yargılama• Problem çözme• İşitsel ve sözel zekaÜrün Adı: Köprüdeki Köpek (3-7 Yaş)Ürün Kodu: 9786050671490Yazar: Doç.Dr. Osman AbalıBasım Yılı: 2021Kapak Türü: Karton KapakSayfa Sayısı: 40Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-10-02T04:07:59Z
+  Updated: 2026-10-17T05:46:03Z
   Vendor: Adeda Yayıncılık
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050671490.jpg?v=1779723763
   Price: $5,60 USD
 - [Kat ile Juju](https://www.booksiblings.com/products/kat-ile-juju): Ürün Adı: Kat ile JujuÜrün Kodu: 9786050672213Yazar: Kataneh VandaniBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen: Sema Günaydın Çınar
-  Updated: 2026-09-29T18:02:47Z
+  Updated: 2026-10-17T05:46:03Z
   Vendor: İlksatır Yayınevi
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050672213.jpg?v=1779723764
   Price: $5,60 USD
 - [Bırak Bu İşleri](https://www.booksiblings.com/products/birak-bu-i̇sleri): Ürün Adı: Bırak Bu İşleriÜrün Kodu: 9786050672220Yazar: Gary John BishopBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 199Kağıt Cinsi: Kitap KağıdıÇevirmen: Meriç Mekik
-  Updated: 2026-09-29T18:02:48Z
+  Updated: 2026-10-10T10:38:02Z
   Vendor: İlksatır Yayınevi
   Product Type: Edebiyat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050672220.jpg?v=1779723765
   Price: $7,36 USD
 - [Şarkım Nerede?](https://www.booksiblings.com/products/sarkim-nerede): Ürün Adı: Şarkım Nerede?Ürün Kodu: 9786050672237Yazar: Mavisel YenerBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 0Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:50Z
+  Updated: 2026-10-17T05:46:03Z
   Vendor: İlksatır Yayınevi
   Product Type: Çocuk Kitapları>Hikaye
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050672237.jpg?v=1779723766
   Price: $8,32 USD
 - [Hiç Bitmio](https://www.booksiblings.com/products/hic-bitmio): Kaçınılmaz olarak tüm duyguları kucaklayan, telafi si olmayan, tek kullanımlık yaşamlarımızın anlatısı hiç bitmio. Aşkı sakızlardan çıkan satırlarla tanıyan çocukluğumuzdan, sevdaların yanık izlerini taşımayı seven olgunluğumuza; ölümün ruhumuza felç indiren katılığından, yaşamın arsız umutlarına, yakarışlarına kadar baştan aşağı insanlığımızın kutlaması... Uzman Klinik Psikolog Ayşegül Kalem’in kendine has üslubu, yalın dili, gerçeklerle hayallerin harmanlandığı anlatımı, metinlerarası seslenişleriyle çok tanıdık bir yerlerden hayatlarımıza dokunuyor. Öyle ya, nefes aldığımız sürece hayatla kapı önü muhabbetimiz hiç bitmio...Ürün Adı: Hiç BitmioÜrün Kodu: 9786050672244Yazar: Ayşegül KalemBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 112Kağıt Cinsi: Kitap KağıdıÇevirmen:
-  Updated: 2026-09-29T18:02:50Z
+  Updated: 2026-10-10T10:38:03Z
   Vendor: İlksatır Yayınevi
   Product Type: Edebiyat>Deneme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050672244.jpg?v=1779723767
   Price: $6,40 USD
 - [Babam Kitap Yazıyor](https://www.booksiblings.com/products/babam-kitap-yaziyor): “Benim adım Junior ve benim babam bir yazar. Çalışma odasında çocuk kitapları yazıyor. İyi de babam orada çalışmadığına göre neden odasına çalışma odası diyor ki?” Eğlenceli ve detaylı çizimleri, hayal gücüyle örülmüş, gülümseten öyküsüyle Babam Kitap Yazıyor; ilhamın bazen sandığımızdan daha yakınımızda olduğunu gösteriyor bizlere.Ürün Adı: Babam Kitap YazıyorÜrün Kodu: 9786050672268Yazar: Tomas Dirgela, Inga DagileBasım Yılı: 2020Kapak Türü: Karton KapakSayfa Sayısı: 56Kağıt Cinsi: Kitap KağıdıÇevirmen: Özlem Tutar
-  Updated: 2026-09-29T18:02:53Z
+  Updated: 2026-10-17T05:46:04Z
   Vendor: İlksatır Yayınevi
   Product Type: Çocuk Kitapları>Okul Öncesi
   Availability: Available
@@ -1607,7 +1628,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/9762/0022/files/9786050676211.jpg?v=1779723771
   Price: $11,17 USD
 - [Renkli Çoraplı Kuzgun](https://www.booksiblings.com/products/renkli-corapli-kuzgun): “Şehrin en renkli caddesinde yaşıyor Menesse. Birbirine bitişik renk renk apartmanlardan birinde. Ama bir sabah uyandığında görüyor ki çoraplarının biri siyah diğeri beyaz, pencereden görünen evler de…”Paylaşmanın güzelliğine dair bu keyifli hikâye kalplerinizi ısıtacak.Ürün Adı: Renkli Çoraplı KuzgunÜrün Kodu: 9786050676280Yazar: Didem DemirelBasım Yılı: 2021Kapak Türü: CiltliSayfa Sayısı: 32Kağıt Cinsi: KuşeÇevirmen:
-  Updated: 2026-09-29T18:03:09Z
+  Updated: 2026-10-17T05:46:04Z
   Vendor: Ketebe Çocuk
   Product Type: Çocuk Kitapları>Diğer
   Availability: Available
@@ -1621,110 +1642,131 @@
   Updated: 2026-09-29T17:53:38Z
   Total Products: 1
 - [Akademik](https://www.booksiblings.com/collections/akademik)
-  Updated: 2026-10-05T21:49:32Z
+  Updated: 2026-10-10T00:33:42Z
   Total Products: 146
 - [Başvuru Kitapları](https://www.booksiblings.com/collections/basvuru-kitaplari)
-  Updated: 2026-10-08T14:05:59Z
-  Total Products: 385
+  Updated: 2026-10-22T13:25:10Z
+  Total Products: 398
 - [Bilgisayar](https://www.booksiblings.com/collections/bilgisayar)
-  Updated: 2026-09-30T08:52:06Z
+  Updated: 2026-10-18T05:37:19Z
   Total Products: 49
 - [Bilim-Mühendislik](https://www.booksiblings.com/collections/bilim-muhendislik): Popüler bilim, fizik, matematik, biyoloji ve mühendislik üzerine Türkçe kitaplar. Tüm dünyaya kargo, 50 USD üzeri siparişlerde ücretsiz.
-  Updated: 2026-10-09T19:57:56Z
-  Total Products: 831
+  Updated: 2026-10-22T22:59:09Z
+  Total Products: 836
 - [Dergi](https://www.booksiblings.com/collections/dergi)
-  Updated: 2026-10-06T11:30:20Z
-  Total Products: 111
+  Updated: 2026-10-11T08:41:51Z
+  Total Products: 112
 - [Ders Kitapları](https://www.booksiblings.com/collections/ders-kitaplari)
   Updated: 2026-09-30T03:53:21Z
   Total Products: 17
 - [Din](https://www.booksiblings.com/collections/din): Dinler tarihi, ahlak, dua kitapları, Kur'an-ı Kerim ve mealleri dahil Türkçe dini kitaplar. Yurt dışına kargo, 50 USD üzeri ücretsiz gönderim.
-  Updated: 2026-10-09T20:31:13Z
-  Total Products: 1068
+  Updated: 2026-10-22T13:26:05Z
+  Total Products: 1071
 - [Diğer](https://www.booksiblings.com/collections/diger)
-  Updated: 2026-10-09T20:31:13Z
-  Total Products: 8578
+  Updated: 2026-10-22T22:59:07Z
+  Total Products: 8623
 - [Türkçe Dışındaki Yayınlar](https://www.booksiblings.com/collections/turkce-disindaki-yayinlar)
-  Updated: 2026-10-09T12:39:33Z
-  Total Products: 503
+  Updated: 2026-10-20T06:43:10Z
+  Total Products: 504
 - [Edebiyat](https://www.booksiblings.com/collections/edebiyat): Yurt dışındaki okurlar için binlerce Türkçe roman, öykü, şiir ve klasik. Tüm dünyaya kargo, 50 USD üzeri siparişlerde ücretsiz gönderim.
-  Updated: 2026-10-09T20:31:04Z
-  Total Products: 31760
+  Updated: 2026-10-22T22:59:07Z
+  Total Products: 31979
 - [Ekonomi](https://www.booksiblings.com/collections/ekonomi): Ekonomi, girişimcilik, finans, yönetim ve pazarlama üzerine Türkçe kitaplar. Tüm dünyaya kargo, 50 USD üzeri siparişlerde ücretsiz.
-  Updated: 2026-10-09T19:58:07Z
-  Total Products: 983
+  Updated: 2026-10-22T22:58:38Z
+  Total Products: 987
 - [Eğitim](https://www.booksiblings.com/collections/egitim): Yurt dışında büyüyen çocuklar için Türkçe okuma ve alıştırma kitapları, veliler ve öğretmenler için kaynaklar. Tüm dünyaya kargo.
-  Updated: 2026-10-09T20:08:18Z
-  Total Products: 1979
+  Updated: 2026-10-22T22:58:30Z
+  Total Products: 1985
 - [Eğlence-Mizah](https://www.booksiblings.com/collections/eglence-mizah)
-  Updated: 2026-10-09T20:30:57Z
-  Total Products: 427
+  Updated: 2026-10-20T07:17:54Z
+  Total Products: 434
 - [Felsefe-Düşünce](https://www.booksiblings.com/collections/felsefe-dusunce): Felsefe, sosyoloji, siyaset ve düşünce tarihi üzerine Türkçe kitaplar. Yurt dışına kargo, 50 USD üzeri siparişlerde ücretsiz gönderim.
-  Updated: 2026-10-09T20:30:47Z
-  Total Products: 2042
+  Updated: 2026-10-22T22:58:46Z
+  Total Products: 2051
 - [Hobi](https://www.booksiblings.com/collections/hobi): Yemek, el işleri, bahçecilik, satranç ve sanat üzerine Türkçe hobi kitapları. Tüm dünyaya kargo, 50 USD üzeri siparişlerde ücretsiz.
-  Updated: 2026-10-09T20:24:44Z
-  Total Products: 1596
+  Updated: 2026-10-22T22:57:55Z
+  Total Products: 1605
 - [Hukuk](https://www.booksiblings.com/collections/hukuk)
-  Updated: 2026-10-09T19:58:24Z
-  Total Products: 166
+  Updated: 2026-10-18T15:01:59Z
+  Total Products: 168
 - [İslam](https://www.booksiblings.com/collections/islam): Kur'an, hadis, siyer, tefsir ve tasavvuf üzerine Türkçe İslami kitaplar. Yurt dışına kargo, 50 USD üzeri siparişlerde ücretsiz gönderim.
-  Updated: 2026-10-09T20:31:01Z
-  Total Products: 4124
+  Updated: 2026-10-22T22:58:48Z
+  Total Products: 4140
 - [İstanbul Kitapları](https://www.booksiblings.com/collections/i̇stanbul-kitaplari)
-  Updated: 2026-10-01T22:46:11Z
+  Updated: 2026-10-15T10:27:36Z
   Total Products: 33
 - [Kadın-Erkek](https://www.booksiblings.com/collections/kadin-erkek)
-  Updated: 2026-10-01T12:22:08Z
+  Updated: 2026-10-10T05:21:06Z
   Total Products: 34
 - [Kültür](https://www.booksiblings.com/collections/kultur)
-  Updated: 2026-10-09T12:57:27Z
-  Total Products: 478
+  Updated: 2026-10-20T18:16:57Z
+  Total Products: 481
 - [Müzik](https://www.booksiblings.com/collections/muzik)
-  Updated: 2026-10-08T14:19:54Z
+  Updated: 2026-10-21T11:23:38Z
   Total Products: 178
 - [Orijinal Dil](https://www.booksiblings.com/collections/orijinal-dil)
   Updated: 2026-09-30T06:35:34Z
   Total Products: 21
 - [Psikoloji](https://www.booksiblings.com/collections/psikoloji): Psikoloji, kişisel gelişim, ilişkiler ve ebeveynlik üzerine Türkçe kitaplar. Yurt dışına kargo, 50 USD üzeri siparişlerde ücretsiz gönderim.
-  Updated: 2026-10-09T20:30:51Z
-  Total Products: 1574
-- [Peluş Oyuncaklar](https://www.booksiblings.com/collections/pelus-oyuncaklar)
-  Updated: 2026-09-25T19:10:00Z
+  Updated: 2026-10-22T22:58:41Z
+  Total Products: 1582
+- [Peluş Oyuncaklar](https://www.booksiblings.com/collections/pelus-oyuncaklar): Yumuşacık peluş oyuncaklar. Küçük okurlara ve sevdiklerinize hediye için.
+  Updated: 2026-10-19T05:55:09Z
   Total Products: 243
+- [Kırtasiye](https://www.booksiblings.com/collections/kirtasiye): Defter, kalem, boyama setleri ve kırtasiye ürünleri. Tüm dünyaya kargo; 50 USD üzeri siparişlerde ücretsiz gönderim.
+  Updated: 2026-10-02T21:39:52Z
+  Total Products: 40
 - [İş Bankası Kültür Yayınları](https://www.booksiblings.com/collections/is-bankasi-kultur-yayinlari): Hasan Âli Yücel Klasikleri ve Modern Klasikler başta olmak üzere, Türkiye İş Bankası Kültür Yayınlarının tüm katalogları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T20:01:32Z
-  Total Products: 3508
+  Updated: 2026-10-22T19:58:23Z
+  Total Products: 3549
 - [Yapı Kredi Yayınları](https://www.booksiblings.com/collections/yapi-kredi-yayinlari): Orhan Pamuk'tan Tanpınar'a, Yapı Kredi Yayınlarının edebiyat, şiir ve düşünce kitapları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T20:31:04Z
-  Total Products: 2428
+  Updated: 2026-10-22T04:24:57Z
+  Total Products: 2432
 - [Can Yayınları](https://www.booksiblings.com/collections/can-yayinlari): Türk ve dünya edebiyatının en sevilen isimleriyle Can Sanat Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-08T22:57:59Z
-  Total Products: 1544
+  Updated: 2026-10-22T22:58:42Z
+  Total Products: 1549
 - [İthaki Yayınları](https://www.booksiblings.com/collections/ithaki-yayinlari): Bilimkurgu, fantastik ve polisiyenin adresi İthaki Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T19:21:05Z
-  Total Products: 1063
+  Updated: 2026-10-22T22:59:07Z
+  Total Products: 1067
 - [Pegasus Yayınları](https://www.booksiblings.com/collections/pegasus-yayinlari): Çok satan romanlar, gençlik edebiyatı ve çeviri kitaplarıyla Pegasus Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-08T14:48:50Z
-  Total Products: 1175
+  Updated: 2026-10-17T13:33:00Z
+  Total Products: 1186
 - [Ketebe Yayınları](https://www.booksiblings.com/collections/ketebe-yayinlari): Edebiyat, düşünce ve tarih kitaplarıyla Ketebe Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T19:57:56Z
-  Total Products: 1135
+  Updated: 2026-10-22T22:58:57Z
+  Total Products: 1150
 - [Timaş Yayınları](https://www.booksiblings.com/collections/timas-yayinlari): Tarih, biyografi ve edebiyat kitaplarıyla Timaş Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-08T13:18:08Z
-  Total Products: 578
+  Updated: 2026-10-22T22:58:55Z
+  Total Products: 588
 - [Everest Yayınları](https://www.booksiblings.com/collections/everest-yayinlari): Çağdaş Türk edebiyatı ve dünya klasikleriyle Everest Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T19:45:49Z
-  Total Products: 502
+  Updated: 2026-10-22T22:58:34Z
+  Total Products: 513
 - [İletişim Yayınları](https://www.booksiblings.com/collections/iletisim-yayinlari): Sosyal bilimler, tarih ve edebiyatta İletişim Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-08T02:47:23Z
+  Updated: 2026-10-20T18:04:10Z
   Total Products: 350
 - [Metis Yayınları](https://www.booksiblings.com/collections/metis-yayinlari): Edebiyat, eleştiri ve düşünce kitaplarıyla Metis Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-08T14:22:46Z
-  Total Products: 202
+  Updated: 2026-10-22T19:24:23Z
+  Total Products: 204
 - [Alfa Yayınları](https://www.booksiblings.com/collections/alfa-yayinlari): Tarih, felsefe ve klasiklerle Alfa Yayınları. Orijinal baskılar, dünyanın her yerine kargo.
-  Updated: 2026-10-09T13:11:34Z
-  Total Products: 371
+  Updated: 2026-10-22T22:59:09Z
+  Total Products: 378
+- [Defter & Ajanda](https://www.booksiblings.com/collections/defter-ajanda): Not defterleri, çizgili ve bez ciltli defterler, süresiz ajandalar. Okurken not almak için.
+  Updated: 2026-10-20T07:08:23Z
+  Total Products: 190
+- [Puzzle](https://www.booksiblings.com/collections/puzzle): İstanbul manzaraları, haritalar ve sanat eserlerinden yapbozlar. Her yaşa uygun parça seçenekleri.
+  Updated: 2026-10-22T22:57:55Z
+  Total Products: 386
+- [Eğitici Oyunlar](https://www.booksiblings.com/collections/egitici-oyunlar): Eğitici kart oyunları, zekâ oyunları ve sudoku. Çocuklar ve aileler için.
+  Updated: 2026-10-21T22:18:44Z
+  Total Products: 135
+- [Boyama](https://www.booksiblings.com/collections/boyama): Mandala ve yetişkin boyama kitapları, boyama kartpostalları. Renklerle dinlenmek için.
+  Updated: 2026-10-22T04:21:42Z
+  Total Products: 213
+- [Takvim](https://www.booksiblings.com/collections/takvim): Masa ve duvar takvimleri. Sanat, kedi ve çocuk temalı seçenekler.
+  Updated: 2026-10-20T07:07:22Z
+  Total Products: 24
+- [Yeni Çıkan Kitaplar](https://www.booksiblings.com/collections/yeni-cikan-kitaplar): Mağazamıza en son eklenen kitaplar. Romandan öyküye, taze başlıkları ilk sen keşfet.
+  Updated: 2026-10-22T22:59:09Z
+  Total Products: 76097
 
 ## Store Pages
 
@@ -1736,15 +1778,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.booksiblings.com/policies/privacy-policy)
-  Updated: 2026-05-24T14:55:37-04:00
+  Updated: 2026-05-24T18:55:37Z
 - [Shipping Policy](https://www.booksiblings.com/policies/shipping-policy)
-  Updated: 2026-09-19T17:19:31-04:00
+  Updated: 2026-09-19T21:19:31Z
 - [Refund Policy](https://www.booksiblings.com/policies/refund-policy)
-  Updated: 2026-09-19T17:31:37-04:00
+  Updated: 2026-09-19T21:31:37Z
 - [Terms of Service](https://www.booksiblings.com/policies/terms-of-service)
-  Updated: 2026-09-19T16:01:15-04:00
+  Updated: 2026-09-19T20:01:15Z
 - [Contact Information](https://www.booksiblings.com/policies/contact-information)
-  Updated: 2026-09-19T16:02:49-04:00
+  Updated: 2026-09-19T20:02:49Z
 
 ## Optional
 
