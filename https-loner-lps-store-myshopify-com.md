@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-09-09T16:58:43Z
 - Contact Email: mzair415@gmail.com
-- Updated At: 2026-10-13T00:00:29.214Z
+- Updated At: 2026-10-23T00:31:52.121Z
 
 ## Products
 
-- [Sy RED BLACK | Loup Solitaire](https://loner-lps-store.myshopify.com/products/sy-black-red): Découvrez le Sy RED BLACK, un t-shirt streetwear premium aux accents rouges signature. Style dark luxury par Loup Solitaire.
-  Updated: 2026-10-12T19:40:43Z
+- [Sy RED BLACK | T-Shirt Streetwear Premium – SISYPHE](https://loner-lps-store.myshopify.com/products/sy-black-red): T-shirt streetwear premium noir & rouge, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
+  Updated: 2026-10-16T04:46:10Z
   Vendor: Loup Solitaire 
   Product Type: 
   Availability: Available
@@ -31,26 +31,92 @@
   - [XL](https://loner-lps-store.myshopify.com/products/sy-black-red?variant=59360631095641)
     Availability: Available
     Price: 39,99 € EUR
-- [Loner.LPS ORANGE BLACK | T-Shirt Streetwear Loup Solitaire](https://loner-lps-store.myshopify.com/products/ls-black-orange): Découvrez le Loner.LPS ORANGE BLACK, un t-shirt streetwear premium aux accents orange signature. Style dark luxury par Loup Solitaire.
-  Updated: 2026-10-12T19:31:16Z
+- [Sy ORANGE BLACK | T-Shirt Streetwear Premium – SISYPHE](https://loner-lps-store.myshopify.com/products/ls-black-orange): T-shirt streetwear premium orange & noir, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
+  Updated: 2026-10-16T04:42:38Z
   Vendor: Loup Solitaire 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_1b97e594-714b-4314-adc3-642e692736f2.png?v=1790007705
-  Price: 19,99 € EUR
-- [LPS Cap Black | Casquette Streetwear Loup Solitaire](https://loner-lps-store.myshopify.com/products/lps-cap-black): Casquette noire premium avec logo LS brodé. Style streetwear dark luxury par Loup Solitaire. Taille unique ajustable. Livraison internationale.
-  Updated: 2026-10-12T19:31:05Z
+  - [XL](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918204993881)
+    Availability: Available
+    Price: 19,99 € EUR
+  - [L](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918205026649)
+    Availability: Available
+    Price: 19,99 € EUR
+  - [M](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918205059417)
+    Availability: Available
+    Price: 19,99 € EUR
+  - [S](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918205092185)
+    Availability: Available
+    Price: 19,99 € EUR
+  - [XS](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918205124953)
+    Availability: Available
+    Price: 19,99 € EUR
+- [Sy Cap BLACK | Casquette Streetwear Premium – Loup Solitaire](https://loner-lps-store.myshopify.com/products/lps-cap-black): Casquette streetwear premium noire, 100% polyester, logo LS brodé. Style dark luxury par Loup Solitaire. Taille unique ajustable. Livraison internationale.
+  Updated: 2026-10-16T04:46:13Z
   Vendor: Loup Solitaire 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_ef6fdeed-b490-4080-874c-dda3ba989e1c.png?v=1791833445
   Price: 29,99 € EUR
+- [Sy Dark — Tee Oversized Noir SISYPHE](https://loner-lps-store.myshopify.com/products/sy-dark): Le Sy Dark est le tee le plus épuré de SISYPHE. Coupe oversized, coton lourd, logo loup discret. Streetwear sombre et premium. Livraison rapide.
+  Updated: 2026-10-22T04:07:16Z
+  Vendor: Sisyphe
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_2393f26d-ec21-42f1-ba1f-739b465f4ae8.png?v=1792604107
+  - [XS](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099674457)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [S](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099707225)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [M](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099739993)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [L](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099772761)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [XL](https://loner-lps-store.myshopify.com/products/sy-dark?variant=60060099805529)
+    Availability: Available
+    Price: 49,99 € EUR
+- [Sisyphe Alpha](https://loner-lps-store.myshopify.com/products/sisyphe-alpha)
+  Updated: 2026-10-22T07:30:48Z
+  Vendor: Sisyphe
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_e55a0035-f7eb-4de2-800c-6438e69f0392.png?v=1792610904
+  - [XS](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724156761)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [S](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724189529)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [M](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724222297)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [L](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724255065)
+    Availability: Available
+    Price: 49,99 € EUR
+  - [XL](https://loner-lps-store.myshopify.com/products/sisyphe-alpha?variant=60064724287833)
+    Availability: Available
+    Price: 49,99 € EUR
+- [Bonnet Sisyphe](https://loner-lps-store.myshopify.com/products/sans-titre-22oct-_09-09-02)
+  Updated: 2026-10-22T20:32:56Z
+  Vendor: Sisyphe
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_e166a540-b9cc-4c81-96be-4d0eea51d7bb.png?v=1792700543
+  Price: 20,99 € EUR
 
 ## Collections
 
+- [Page d’accueil](https://loner-lps-store.myshopify.com/collections/frontpage)
+  Updated: 2026-10-15T18:32:25Z
+  Total Products: 1
 - [T-shirts Flocage](https://loner-lps-store.myshopify.com/collections/t-shirts-flocage): 🎨 Collection exclusive LOUP SOLITAIRET-shirts technique avec possibilité de flocage personnalisé (nom, numéro, texte custom).Personnalisation disponible ? Contacte-nous sur Instagram @loup_solitaire 🐺
-  Updated: 2026-09-21T09:22:16Z
-  Total Products: 0
+  Updated: 2026-10-14T07:52:03Z
+  Total Products: 2
 
 ## Blogs
 
@@ -84,6 +150,29 @@
   - [Le streetwear face aux tendances actuelles de la mode](https://loner-lps-store.myshopify.com/blogs/actualites/le-streetwear-face-aux-tendances-actuelles-de-la-mode): Le streetwear face aux tendances actuelles de la mode
     Updated: 2026-10-12T02:10:35Z
     Author: LOUPSOLITAIRE
+  - [Check-list : les essentiels pour un look streetwear parfait](https://loner-lps-store.myshopify.com/blogs/actualites/check-list-les-essentiels-pour-un-look-streetwear-parfait): Check-list : les essentiels pour un look streetwear parfait
+    Updated: 2026-10-14T05:24:38Z
+    Author: LOUPSOLITAIRE
+  - [Sisyphe ne s'arrête jamais — notre philosophie | SISYPHE](https://loner-lps-store.myshopify.com/blogs/actualites/sisyphe-ne-sarrete-jamais-notre-philosophie): Sisyphe ne s'arrête jamais — notre philosophie | SISYPHE
+    Updated: 2026-10-21T15:51:45Z
+    Author: Mohamed Zaïr
+    Tags: marque, philosophie, running
+  - [Pourquoi le noir ? L'esthétique SISYPHE expliquée](https://loner-lps-store.myshopify.com/blogs/actualites/pourquoi-le-noir-lesthetique-sisyphe-expliquee): Pourquoi le noir ? L'esthétique SISYPHE expliquée
+    Updated: 2026-10-21T15:53:05Z
+    Author: Mohamed Zaïr
+    Tags: design, esthétique, streetwear
+  - [Guide des tailles SISYPHE — comment choisir sa taille](https://loner-lps-store.myshopify.com/blogs/actualites/guide-comment-choisir-sa-taille-sisyphe): Guide des tailles SISYPHE — comment choisir sa taille
+    Updated: 2026-10-21T15:53:44Z
+    Author: Mohamed Zaïr
+    Tags: conseil, guide, tailles
+  - [Running et streetwear : deux mondes, une seule tribu | SISYPHE](https://loner-lps-store.myshopify.com/blogs/actualites/running-et-streetwear-deux-mondes-une-seule-tribu): Running et streetwear : deux mondes, une seule tribu | SISYPHE
+    Updated: 2026-10-21T15:54:21Z
+    Author: Mohamed Zaïr
+    Tags: culture, running, streetwear
+  - [Sy RED BLACK — la pièce fondatrice de SISYPHE](https://loner-lps-store.myshopify.com/blogs/actualites/sy-red-black-la-piece-qui-a-tout-lance): Sy RED BLACK — la pièce fondatrice de SISYPHE
+    Updated: 2026-10-21T15:55:06Z
+    Author: Mohamed Zaïr
+    Tags: produit, Sy RED BLACK, tee
 
 ## Store Pages
 
@@ -95,15 +184,15 @@
 ## Policies
 
 - [Privacy Policy](https://loner-lps-store.myshopify.com/policies/privacy-policy)
-  Updated: 2026-09-09T18:58:48+02:00
+  Updated: 2026-09-09T16:58:48Z
 - [Shipping Policy](https://loner-lps-store.myshopify.com/policies/shipping-policy)
-  Updated: 2026-09-17T16:29:13+02:00
+  Updated: 2026-09-17T14:29:13Z
 - [Refund Policy](https://loner-lps-store.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-10T09:04:17+02:00
+  Updated: 2026-10-10T07:04:17Z
 - [Terms of Service](https://loner-lps-store.myshopify.com/policies/terms-of-service)
-  Updated: 2026-09-16T17:55:36+02:00
+  Updated: 2026-09-16T15:55:36Z
 - [Contact Information](https://loner-lps-store.myshopify.com/policies/contact-information)
-  Updated: 2026-09-17T16:45:58+02:00
+  Updated: 2026-09-17T14:45:58Z
 
 ## Optional
 
