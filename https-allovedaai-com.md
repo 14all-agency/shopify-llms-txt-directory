@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-09-12T00:00:44.741Z
+- Updated At: 2026-10-23T00:52:11.850Z
 
 ## Products
 
@@ -144,6 +144,18 @@
   - [Immune System Support for Seniors: What Changes After 50](https://allovedaai.com/blogs/alloveda-ai/immune-system-support-for-seniors-what-changes-after-50)
     Updated: 2026-09-11T13:59:08Z
     Author: Manan Mehta
+  - [Best Immune System Support Supplements: What to Look For](https://allovedaai.com/blogs/alloveda-ai/best-immune-system-support-supplements)
+    Updated: 2026-09-22T11:25:53Z
+    Author: Manan Mehta
+  - [Sleep and Immunity: How Sleep Affects Your Immune System](https://allovedaai.com/blogs/alloveda-ai/sleep-and-immunity): Sleep and Immunity: How Sleep Affects Your Immune System
+    Updated: 2026-09-28T08:09:52Z
+    Author: Manan Mehta
+  - [Ayurveda vs Allopathy: A Fair, Evidence-Based Comparison](https://allovedaai.com/blogs/alloveda-ai/ayurveda-vs-allopathy): Ayurveda vs Allopathy: A Fair, Evidence-Based Comparison
+    Updated: 2026-10-19T10:23:54Z
+    Author: Manan Mehta
+  - [Boswellia Serrata Benefits: What the Research Shows](https://allovedaai.com/blogs/alloveda-ai/boswellia-serrata-benefits): Boswellia Serrata Benefits: What the Research Shows
+    Updated: 2026-10-21T11:41:01Z
+    Author: Manan Mehta
 
 ## Store Pages
 
@@ -183,15 +195,15 @@
 ## Policies
 
 - [Privacy Policy](https://allovedaai.com/policies/privacy-policy)
-  Updated: 2025-07-21T01:22:11-04:00
+  Updated: 2025-07-21T05:22:11Z
 - [Shipping Policy](https://allovedaai.com/policies/shipping-policy)
-  Updated: 2025-11-28T01:08:38-05:00
+  Updated: 2025-11-28T06:08:38Z
 - [Refund Policy](https://allovedaai.com/policies/refund-policy)
-  Updated: 2025-11-28T01:07:43-05:00
+  Updated: 2025-11-28T06:07:43Z
 - [Terms of Service](https://allovedaai.com/policies/terms-of-service)
-  Updated: 2025-11-28T01:08:22-05:00
+  Updated: 2025-11-28T06:08:22Z
 - [Contact Information](https://allovedaai.com/policies/contact-information)
-  Updated: 2025-11-28T01:10:27-05:00
+  Updated: 2025-11-28T06:10:27Z
 
 ## Optional
 
