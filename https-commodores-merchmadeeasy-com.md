@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T17:14:57Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-11T00:00:39.700Z
+- Updated At: 2026-10-23T00:45:10.533Z
 
 ## Products
 
@@ -87,15 +87,15 @@
 ## Policies
 
 - [Privacy Policy](https://commodores.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-08-20T14:43:58-05:00
+  Updated: 2026-08-20T19:43:58Z
 - [Shipping Policy](https://commodores.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-08-20T14:44:03-05:00
+  Updated: 2026-08-20T19:44:03Z
 - [Refund Policy](https://commodores.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-08-20T14:43:52-05:00
+  Updated: 2026-08-20T19:43:52Z
 - [Terms of Service](https://commodores.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-08-20T14:44:12-05:00
+  Updated: 2026-08-20T19:44:12Z
 - [Contact Information](https://commodores.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-08-20T14:44:08-05:00
+  Updated: 2026-08-20T19:44:08Z
 
 ## Optional
 
