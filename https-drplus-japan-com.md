@@ -6,96 +6,96 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-07-07T00:00:43.045Z
+- Updated At: 2026-10-23T01:06:32.100Z
 
 ## Products
 
 - [Dr. Plus Formula  高濃度 リポソーム コエンザイムQ10 100mg](https://drplus-japan.com/products/liposome-coenzyme-q10-liquid): amazonでも購入することができます。 Dr. Plus Formula サプリメント高濃度 リポソーム コエンザイムQ10 100mg 高吸収 液体内容量：180ml・アメリカの医師が調合したサプリメント・高濃度リポソームコエンザイムQ10・錠剤、カプセル、ジェルよりも15倍優れた吸収率・リポソーム化することにより、胃や消化管の酵素が成分を分解しないように働き、効率的に吸収することができます。・1回分 6ml（小さじ1強）あたり コエンザイムQ10（ユビキタス） 100mg・砂糖不使用・人工着色料不使用・グルテンフリー・非遺伝子組換え・乳製品不使用・非加熱処理・原産国：アメリカ＜摂取方法＞1日1回、6ml（小さじ1強）を水またはジュースと混ぜてお飲みください。又は、医師にご相談の上摂取してください。 UPC : 850040045000
-  Updated: 2026-02-20T19:18:55Z
+  Updated: 2026-10-10T00:07:32Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/1_989de369-e0ff-41e1-927c-ba1f957392ce.png?v=1666165106
   Price: ￥4,690.00 JPY
 - [高濃度 リポソーム 亜鉛 15mg 高吸収 120ml](https://drplus-japan.com/products/liposome-zinc): Dr. Plus ドクター プラス サプリメント高濃度 高吸収 リポソーム 亜鉛 15mg 内容量：120ml（4 fl oz）・アメリカの医師が調合したサプリメント・高濃度リポソーム亜鉛・亜鉛は必須ミネラルのひとつです。・錠剤、カプセル、ジェルよりも15倍優れた吸収率・リポソーム化することにより、胃や消化管の酵素が成分を分解しないように働き、効率的に吸収することができます。
-  Updated: 2026-02-21T08:18:09Z
+  Updated: 2026-10-10T00:07:32Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/2_cb242a66-6787-4240-8c82-41a0ca122483.png?v=1666165198
   Price: ￥3,990.00 JPY
 - [高濃度 リポソーム マグネシウム 200mg 高吸収 180ml](https://drplus-japan.com/products/liposome-magnesium): Dr. Plus ドクター プラス サプリメント高濃度 リポソーム マグネシウム 200mg 液体内容量：180ml・アメリカの医師が調合したサプリメント・高濃度リポソームマグネシウム・錠剤、カプセル、ジェルよりも15倍優れた吸収率・リポソーム化することにより、胃や消化管の酵素が成分を分解しないように働き、効率的に吸収することができます。
-  Updated: 2026-02-21T07:42:28Z
+  Updated: 2026-10-10T00:07:32Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/90277d8cbf1db87f05474327d1f68ec1.png?v=1666165184
   Price: ￥4,690.00 JPY
 - [高濃度 リポソーム ビタミンC 1000mg](https://drplus-japan.com/products/liposome-vitamin-c): アメリカの医師が調合したサプリメント・高濃度リポソームビタミンC・従来のカプセルなどのビタミンCに比べて高い吸収率・リポソーム化することにより、胃や消化管の酵素が成分を分解しないように働き、効率的に吸収することができます。
-  Updated: 2026-02-21T08:01:23Z
+  Updated: 2026-10-10T00:07:33Z
   Vendor: Dr.Plus formula
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/3d906b1723a957b797394114f5a2ffe7.png?v=1666165145
   Price: ￥4,790.00 JPY
 - [高濃度ビタミンC 1500mg 高吸収リポソーム180 カプセル [3ヶ月分]](https://drplus-japan.com/products/dr-plus-liposomal-vitamin-c-1500mg): 新しいビタミンCサプリメントは、リポソーム技術を使用し、従来のサプリよりも高い吸収力と効果を持っています。リポソーム化により、ビタミンCが体内に留まり、消化器官での消化や排泄を防ぎ、効果を最大限に引き出せます。ビタミンCは美肌効果だけでなく、免疫力を高めるために重要な栄養素であり、サプリメントで摂取することが効率的です。このサプリメントは高濃度で低価格のカプセルタイプで、味も飲みやすく、アメリカから直接提供。
-  Updated: 2026-02-21T07:24:30Z
+  Updated: 2026-10-10T00:07:33Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/C_2.png?v=1678133230
   Price: ￥4,890.00 JPY
-- [高吸収 コエンザイム CoQ10 200mg 120カプセル [4ヶ月分] ドクタープラス+](https://drplus-japan.com/products/coenzyme-q10-200mg): コエンザイムQ10は体内で合成される脂溶性の化合物で、体内でのエネルギーの消費に欠かせない成分です。近年ではエネルギーの消費サポートだけではなく、健康サポートの働きが注目され、幅広い方々から高い支持を得ています。肉や魚に含まれているものの十分な量を補うのは難しく、また加齢に伴い体内の量も減ってしまうので、サプリでの補給がお勧めです！1カプセルで200mg の高配合！大容量の４ヶ月分！ 【肌のハリにも効果的！】 コエンザイムCoQ10は、体内にあるサビの原因「活性酸素」を取り除く働きをサポートし、身体の老化、生活習慣病を予防する効果があるだけでなく、シワやたるみなどの老化現象を改善し、若々しい肌を保つ効果があります。
-  Updated: 2026-02-21T07:42:36Z
+- [高吸収 コエンザイム CoQ10 200mg 120カプセル [4ヶ月分] ドクタープラス+](https://drplus-japan.com/products/coenzyme-q10-200mg): 【予約販売商品】発送予定：2027年初旬現在在庫切れのため、予約注文を承っております。本商品は入荷後の発送となります。発送予定をご確認のうえ、ご注文ください。 コエンザイムQ10は体内で合成される脂溶性の化合物で、体内でのエネルギーの消費に欠かせない成分です。近年ではエネルギーの消費サポートだけではなく、健康サポートの働きが注目され、幅広い方々から高い支持を得ています。肉や魚に含まれているものの十分な量を補うのは難しく、また加齢に伴い体内の量も減ってしまうので、サプリでの補給がお勧めです！1カプセルで200mg の高配合！大容量の４ヶ月分！ 【肌のハリにも効果的！】 コエンザイムCoQ10は、体内にあるサビの原因「活性酸素」を取り除く働きをサポートし、身体の老化、生活習慣病を予防する効果があるだけでなく、シワやたるみなどの老化現象を改善し、若々しい肌を保つ効果があります。
+  Updated: 2026-10-21T03:15:05Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/CoQ10_1.png?v=1678151170
   Price: ￥3,490.00 JPY
 - [スーパー EPA + DHA オメガ３ 2500mg １回分(EPA 800mg DHA 600mg) フィッシュオイル 180ソフトジェル 3ヶ月分](https://drplus-japan.com/products/super-epa-dha): Dr.Plus のサプリメントは、アメリカの基準で作られたDHA & EPA サプリメントです。Dr.Plus の Super EPA サプリメントは、１回の摂取２粒でEPA 800mg DHA 600mg オメガ３2500mg と高濃度。 今までのオメガ３、DHAのサプリメントで効果が分かりにくかった方におすすめです。
-  Updated: 2026-02-21T07:48:25Z
+  Updated: 2026-10-10T00:07:33Z
   Vendor: Dr.Plus Japan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/EPA_2.png?v=1678152668
   Price: ￥4,900.00 JPY
 - [100%アルロース使用のゼロカロリー甘味料。砂糖の代わりにコーヒー、料理、お菓子作りに使いやすい低糖質スイートナーです](https://drplus-japan.com/products/allulose): 砂糖やはちみつの代替品としてご使用いただけるカロリーゼロの天然の甘味料。自然界にわずかしか存在しない約50種類の希少糖。オリゴ糖・食物繊維などの混合物一切なしの純度100％のアルロースです。
-  Updated: 2026-06-20T11:09:16Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: 甘味料
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/Allulose.jpg?v=1696291224
   Price: ￥3,890.00 JPY
 - [Dr. Plus ルクマパウダー 16オンス | ナチュラル甘味料 粉末タイプ スムージー・ベーキング用](https://drplus-japan.com/products/ルクマパウダー-ナチュラル甘味料-16オンス): 商品説明 ルクマはペルー原産の自然な甘みを持つ果実で、「インカ帝国の黄金」とも呼ばれています。メープルのようなやさしい甘さが特徴で、日々の食事や飲み物に栄養をプラスする食材として親しまれています。 本品は100％ナチュラルパウダーで、素材本来の風味と栄養価を保つために最小限の加工のみを行っています。天然原料を使用しているため
-  Updated: 2026-06-20T11:12:35Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/Lacuma1.jpg?v=1772473787
   Price: ￥4,999.00 JPY
 - [Dr.Plus Formula グリーンバナナパウダー（未熟バナナ）16oz（454g）– グルテンフリー・無添加](https://drplus-japan.com/products/dr-plus-formula-グリーンバナナパウダー-未熟バナナ-16oz-454g-グルテンフリー-無添加): 商品の説明 グリーンバナナパウダーは、未熟なバナナから作られた自然由来の食品で、レジスタントスターチや食物繊維を豊富に含んでいます。砂糖や添加物を一切使用していないため、毎日の食事に安心して取り入れることができます。 グルテンフリーで使いやすく、小麦粉の代替としても活用できるため、健康志向の方や食事管理を意識している方
-  Updated: 2026-06-20T11:02:10Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlus.jpg?v=1774282970
   Price: ￥5,990.00 JPY
 - [ブルーベリーパウダー - フリーズドライ 100％ナチュラル、無添加、ヴィーガン 16oz](https://drplus-japan.com/products/ブルーベリーパウダー-フリーズドライ-100-ナチュラル-無添加-ヴィーガン-16oz): 商品の説明 ブルーベリーパウダーは、フリーズドライ製法で作られた100％ナチュラルなパウダーです。ブルーベリー本来の風味や鮮やかな色合いをそのまま楽しめ、さまざまな料理や飲み物に簡単に取り入れることができます。 添加物や保存料を使用していないため、安心して毎日の食事に取り入れることができ、健康志向の方にもおすすめです。
-  Updated: 2026-06-20T11:02:48Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlusBlueberry2.jpg?v=1774370228
   Price: ￥10,920.00 JPY
 - [パンプキンパウダー Pumpkin Powder 無添加, 食物繊維 454g](https://drplus-japan.com/products/パンプキンパウダー-pumpkin-powder-無添加-食物繊維-454g): 商品の説明 パンプキンパウダーは、かぼちゃを丁寧に乾燥させて作られた100％ナチュラルなパウダーです。自然な甘みや風味、鮮やかなオレンジ色をそのまま閉じ込めており、さまざまな料理や飲み物に簡単に取り入れることができます。 砂糖や保存料、人工添加物を一切使用していないため、安心して毎日の食事に取り入れることができ、健康志向
-  Updated: 2026-06-20T11:14:27Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlusPumpkin2.jpg?v=1774627579
   Price: ￥5,631.00 JPY
 - [カムカムパウダー 大容量 粉末タイプ Dr. Plus Camu Camu Powder 1lb 454g |  スムージー・ジュース・ヨーグルト用](https://drplus-japan.com/products/dr-plus-camu-camu-powder-454g): 自然由来のビタミンCを含むDr. Plus カムカムパウダー。454g大容量の粉末タイプで、スムージー、ジュース、ヨーグルトに手軽に混ぜて楽しめます。
-  Updated: 2026-06-20T11:01:12Z
+  Updated: 2026-10-10T00:07:34Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
@@ -108,7 +108,7 @@
   Updated: 2026-02-20T19:09:47Z
   Total Products: 2
 - [全ての商品](https://drplus-japan.com/collections/all)
-  Updated: 2026-06-19T18:27:23Z
+  Updated: 2026-10-21T11:30:00Z
   Total Products: 16
 - [商品の形状](https://drplus-japan.com/collections/material)
   Updated: 2025-04-21T18:12:20Z
@@ -117,7 +117,7 @@
   Updated: 2026-06-06T06:13:10Z
   Total Products: 4
 - [カプセル](https://drplus-japan.com/collections/capsule)
-  Updated: 2026-06-06T06:13:24Z
+  Updated: 2026-10-21T11:30:00Z
   Total Products: 5
 - [セラム](https://drplus-japan.com/collections/serum)
   Updated: 2025-04-21T18:12:20Z
@@ -156,7 +156,7 @@
   Updated: 2026-06-06T06:13:51Z
   Total Products: 3
 - [肌のハリ](https://drplus-japan.com/collections/firmness)
-  Updated: 2026-06-06T06:14:01Z
+  Updated: 2026-10-21T11:30:00Z
   Total Products: 3
 - [髪の毛のハリ](https://drplus-japan.com/collections/firmness-hair)
   Updated: 2026-06-06T06:13:52Z
@@ -183,7 +183,7 @@
   Updated: 2026-05-14T17:49:52Z
   Total Products: 1
 - [コエンザイム](https://drplus-japan.com/collections/コエンザイム)
-  Updated: 2026-02-20T19:19:55Z
+  Updated: 2026-10-21T11:30:00Z
   Total Products: 2
 - [パウダー・粉末](https://drplus-japan.com/collections/パウダー-粉末)
   Updated: 2026-06-19T18:27:23Z
@@ -218,6 +218,54 @@
   - [カムカムパウダー 成分で選ぶ | 使い方と満足度 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/カムカムパウダーの使い方と選び方-成分を見て失敗しない): カムカムパウダー 成分で選ぶ | 使い方と満足度 | Dr.Plus formula
     Updated: 2026-07-01T01:00:05Z
     Author: Dr.Plus Formula
+  - [スムージー用フルーツパウダーの選び方と使い方｜カムカムパウダーで作る美味しい飲み方ガイド](https://drplus-japan.com/blogs/ブログ/スムージー用フルーツパウダーの選び方とおいしい作り方)
+    Updated: 2026-07-10T00:00:06Z
+    Author: Dr.Plus Formula
+  - [亜鉛サプリメントの選び方｜含有量・形態・続けやすさで比較するポイント](https://drplus-japan.com/blogs/ブログ/亜鉛サプリメントの選び方-失敗しない基準と注意点)
+    Updated: 2026-07-16T00:00:05Z
+    Author: Dr.Plus Formula
+  - [コエンザイムQ10とは？特徴・選び方・続けるコツを徹底解説](https://drplus-japan.com/blogs/ブログ/コエンザイムq10の効果と選び方-迷わない基本チェック)
+    Updated: 2026-07-29T00:00:07Z
+    Author: Dr.Plus Formula
+  - [自然由来のビタミンCとは？選び方・摂り方・よくある誤解を徹底解説](https://drplus-japan.com/blogs/ブログ/自然由来のビタミンcの選び方と摂り方ガイド)
+    Updated: 2026-08-04T00:00:08Z
+    Author: Dr.Plus Formula
+  - [フィッシュオイルの選び方ガイド|オメガ3サプリを無理なく続けるコツ](https://drplus-japan.com/blogs/ブログ/フィッシュオイルの効果を最大化する摂り方と選び方の基本)
+    Updated: 2026-08-06T00:00:06Z
+    Author: Dr.Plus Formula
+  - [EPA DHA オメガ3とは?選び方と続けやすい取り入れ方を徹底解説](https://drplus-japan.com/blogs/ブログ/epa-dha-オメガ3の選び方と摂取目安-失敗しない)
+    Updated: 2026-08-07T00:00:10Z
+    Author: Dr.Plus Formula
+  - [スーパーフルーツとは?選び方・取り入れ方・続けやすい飲み方まとめ](https://drplus-japan.com/blogs/ブログ/スーパーフルーツの選び方と活かし方-成分チェック入門)
+    Updated: 2026-08-19T00:00:03Z
+    Author: Dr.Plus Formula
+  - [免疫力を高める生活習慣ガイド|食事・睡眠・腸活で整える方法](https://drplus-japan.com/blogs/ブログ/免疫力が向上する習慣と栄養の整え方ガイド)
+    Updated: 2026-08-22T00:00:24Z
+    Author: Dr.Plus Formula
+  - [ビタミンCの効果とは？サプリの選び方と続けやすい摂り方を徹底解説](https://drplus-japan.com/blogs/ブログ/ビタミンc効果を徹底解説-期待できる変化と選び方)
+    Updated: 2026-09-01T00:00:04Z
+    Author: Dr.Plus Formula
+  - [南米アマゾンの果実とは?栄養・特徴と選び方、スムージーでの取り入れ方まとめ](https://drplus-japan.com/blogs/ブログ/南米アマゾンの果実で整える栄養バランスと食べ方)
+    Updated: 2026-09-22T22:57:46Z
+    Author: Dr.Plus Formula
+  - [ビタミンCサプリの選び方完全ガイド｜失敗しないチェックポイントと続け方](https://drplus-japan.com/blogs/ブログ/ビタミンcサプリの選び方と摂り方-目的別ガイド)
+    Updated: 2026-09-25T00:00:02Z
+    Author: Dr.Plus Formula
+  - [ビタミンの吸収率を上げる食べ方とは？サプリメント選びのポイントも解説](https://drplus-japan.com/blogs/ブログ/ビタミン吸収率を高める食べ方とコツ-食事設計)
+    Updated: 2026-09-27T00:00:01Z
+    Author: Dr.Plus Formula
+  - [毎日のビタミンC習慣、続けるコツは？摂取方法の選び方を徹底比較](https://drplus-japan.com/blogs/ブログ/毎日のビタミンc摂取で健康習慣を作る実践ガイド)
+    Updated: 2026-09-29T00:00:05Z
+    Author: Dr.Plus Formula
+  - [美容サプリメントの選び方完全ガイド|成分・比較・チェックリストで失敗を防ぐ](https://drplus-japan.com/blogs/ブログ/美容サプリメントの選び方と成分見極めの基礎)
+    Updated: 2026-10-01T00:00:02Z
+    Author: Dr.Plus Formula
+  - [続かないダイエットを変える、ダイエットサポートの考え方と毎日の習慣づくり](https://drplus-japan.com/blogs/ブログ/ダイエットサポートの選び方-食事と習慣の整え方)
+    Updated: 2026-10-23T00:00:01Z
+    Author: Dr.Plus Formula
+  - [カムカムパウダーで作る毎日のドリンクレシピ](https://drplus-japan.com/blogs/ブログ/フルーティーな風味を引き立てる香りと飲み方のコツ)
+    Updated: 2026-10-21T00:00:02Z
+    Author: Dr.Plus Formula
 
 ## Store Pages
 
@@ -229,15 +277,15 @@
 ## Policies
 
 - [Privacy Policy](https://drplus-japan.com/policies/privacy-policy)
-  Updated: 2022-09-30T15:48:55+09:00
+  Updated: 2022-09-30T06:48:55Z
 - [Shipping Policy](https://drplus-japan.com/policies/shipping-policy)
-  Updated: 2022-09-30T15:48:55+09:00
+  Updated: 2022-09-30T06:48:55Z
 - [Refund Policy](https://drplus-japan.com/policies/refund-policy)
-  Updated: 2022-09-30T15:48:55+09:00
+  Updated: 2022-09-30T06:48:55Z
 - [Terms of Service](https://drplus-japan.com/policies/terms-of-service)
-  Updated: 2022-09-30T15:48:55+09:00
+  Updated: 2022-09-30T06:48:55Z
 - [Contact Information](https://drplus-japan.com/policies/contact-information)
-  Updated: 2022-09-30T15:48:55+09:00
+  Updated: 2022-09-30T06:48:55Z
 
 ## Optional
 
