@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-29T02:01:57Z
 - Contact Email: jerry@chatviva.com
-- Updated At: 2026-10-15T00:00:39.498Z
+- Updated At: 2026-10-23T00:40:12.804Z
 
 ## Products
 
@@ -147,9 +147,9 @@
 ## Policies
 
 - [Privacy Policy](https://zhengnian-shop.myshopify.com/policies/privacy-policy)
-  Updated: 2026-01-29T02:36:58-06:00
+  Updated: 2026-01-29T08:36:58Z
 - [Terms of Service](https://zhengnian-shop.myshopify.com/policies/terms-of-service)
-  Updated: 2026-08-12T05:30:48-05:00
+  Updated: 2026-08-12T10:30:48Z
 
 ## Optional
 
