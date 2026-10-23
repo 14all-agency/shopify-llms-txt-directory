@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-10-14T00:00:29.082Z
+- Updated At: 2026-10-23T00:15:58.139Z
 
 ## Products
 
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Cinematic LUTs – Cinematic II LUT Pack | Gradefruit](https://gradefruit.com/products/cinematic-v2): Give your footage a cinematic look in seconds. Cinematic II includes 19 cinematic LUTs + Lightroom presets for DaVinci Resolve, Premiere Pro, Final Cut, CapCut, Lightroo and more.
-  Updated: 2026-09-12T01:36:53Z
+  Updated: 2026-10-21T19:33:20Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -544,13 +544,13 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2026-09-25T11:18:14Z
+  Updated: 2026-10-22T11:15:45Z
   Total Products: 34
 - [Bundles](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2026-06-04T05:13:12Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2026-09-25T11:18:14Z
+  Updated: 2026-10-22T11:15:45Z
   Total Products: 34
 
 ## Store Pages
@@ -571,15 +571,15 @@
 ## Policies
 
 - [Privacy Policy](https://gradefruit.com/policies/privacy-policy)
-  Updated: 2024-08-28T17:17:38+02:00
+  Updated: 2024-08-28T15:17:38Z
 - [Shipping Policy](https://gradefruit.com/policies/shipping-policy)
-  Updated: 2024-11-14T14:57:48+01:00
+  Updated: 2024-11-14T13:57:48Z
 - [Refund Policy](https://gradefruit.com/policies/refund-policy)
-  Updated: 2024-10-03T20:47:23+02:00
+  Updated: 2024-10-03T18:47:23Z
 - [Terms of Service](https://gradefruit.com/policies/terms-of-service)
-  Updated: 2026-02-25T09:02:52+01:00
+  Updated: 2026-02-25T08:02:52Z
 - [Contact Information](https://gradefruit.com/policies/contact-information)
-  Updated: 2026-02-25T09:03:09+01:00
+  Updated: 2026-02-25T08:03:09Z
 
 ## Social Media
 https://www.instagram.com/gradefruit/
