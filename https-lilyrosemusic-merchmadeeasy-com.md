@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2021-03-05T19:31:22Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-10T00:00:43.440Z
+- Updated At: 2026-10-23T00:47:48.957Z
 
 ## Products
 
 - [Villain Tee](https://lilyrosemusic.merchmadeeasy.com/products/yeah-ive-heard-thangs-t-shirt): “Yeah I've Heard Thangs" t-shirt inspired from Lily Rose's song, Villain. Black Unisex
-  Updated: 2026-10-07T20:06:36Z
+  Updated: 2026-10-16T01:23:57Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -38,14 +38,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Black Beanie](https://lilyrosemusic.merchmadeeasy.com/products/black-beanie): Black beanie with red font One size fits most
-  Updated: 2026-10-05T13:01:41Z
+  Updated: 2026-10-14T13:52:07Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/products/BeanieLR.png?v=1719521789
   Price: $15.00 USD
 - [Photo Tour Tee](https://lilyrosemusic.merchmadeeasy.com/products/photo-tour-tee): Lily Rose photo tee! Grey with front + back print 100% Cotton
-  Updated: 2026-10-07T20:06:31Z
+  Updated: 2026-10-14T13:52:05Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -181,14 +181,14 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Villain Hat](https://lilyrosemusic.merchmadeeasy.com/products/villain-hat): Lily Rose two tone Villain Hat in white/black with embroidery on the front. Snapback Closure
-  Updated: 2026-10-08T23:59:21Z
+  Updated: 2026-10-21T00:29:16Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRVILLAINHAT.png?v=1773761870
   Price: $40.00 USD
 - [Camo Logo Hat](https://lilyrosemusic.merchmadeeasy.com/products/camo-logo-hat): Lily Rose two tone Logo Hat in Ivory/Realtree with puff embroidery on the front. One Size Fits Most
-  Updated: 2026-10-05T13:01:47Z
+  Updated: 2026-10-21T00:29:16Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
@@ -216,7 +216,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Tour Part 2 Tee](https://lilyrosemusic.merchmadeeasy.com/products/tour-pt-2-tee): I Know What I Want Tour Part 2 Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:01:49Z
+  Updated: 2026-10-11T22:35:48Z
   Vendor: Lily Rose
   Product Type: T-Shirt
   Availability: Available
@@ -247,7 +247,7 @@
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRBEERBEFORE10KOOZIE.png?v=1773763146
   Price: $5.00 USD
 - [Album Tee](https://lilyrosemusic.merchmadeeasy.com/products/album-tee): I Know What I Want Tour Album Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:01:50Z
+  Updated: 2026-10-16T00:23:06Z
   Vendor: Lily Rose
   Product Type: T-Shirt
   Availability: Available
@@ -275,7 +275,7 @@
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRTEQUILA_LIMEKOOZIE-2.png?v=1788461480
   Price: $5.00 USD
 - [Logo Hat Lily Rose Puff Embroidery](https://lilyrosemusic.merchmadeeasy.com/products/logo-hat): Lily Rose two tone Logo Hat in Natural/Black with puff embroidery on the front. One Size Fits Most
-  Updated: 2026-10-08T23:59:25Z
+  Updated: 2026-10-11T23:37:07Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
@@ -289,7 +289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRTALLBOYKOOZIE.png?v=1788461850
   Price: $8.00 USD
 - [Card Hoodie](https://lilyrosemusic.merchmadeeasy.com/products/card-hoodie): Lily Rose Card Hoodie in natural with front and back print. 80/20 ring-spun USA premium cotton/polyester
-  Updated: 2026-10-09T05:40:27Z
+  Updated: 2026-10-22T20:09:55Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -307,10 +307,10 @@
     Availability: Available
     Price: $65.00 USD
   - [XXL](https://lilyrosemusic.merchmadeeasy.com/products/card-hoodie?variant=47402748084412)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
 - [Lil' Something Like Camo Tee](https://lilyrosemusic.merchmadeeasy.com/products/lil-something-like-camo-tee): Lil' Something Like Tee in darkwood tree camo with front and back print. 100% Cotton Jersey
-  Updated: 2026-10-09T00:10:25Z
+  Updated: 2026-10-22T20:09:57Z
   Vendor: Lily Rose
   Product Type: T-Shirt
   Availability: Available
@@ -328,10 +328,10 @@
     Availability: Available
     Price: $40.00 USD
   - [2X](https://lilyrosemusic.merchmadeeasy.com/products/lil-something-like-camo-tee?variant=47402753884348)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
 - [Fall Tour '26 Tee](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee): Lily Rose Fall Tour '26 Tee with front and back print. Tour dates on back! 100% Cotton
-  Updated: 2026-10-05T13:01:53Z
+  Updated: 2026-10-22T20:09:55Z
   Vendor: Lily Rose
   Product Type: T-Shirt
   Availability: Available
@@ -355,28 +355,28 @@
 ## Collections
 
 - [Apparel](https://lilyrosemusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-20T11:03:31Z
   Total Products: 34
 - [Accessories](https://lilyrosemusic.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-22T15:28:15Z
   Total Products: 23
 - [Shop All](https://lilyrosemusic.merchmadeeasy.com/collections/shop-all)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-22T15:28:16Z
   Total Products: 61
 - [I Know What I Want](https://lilyrosemusic.merchmadeeasy.com/collections/i-know-what-i-want)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-22T15:28:15Z
   Total Products: 11
 - [Lily Rose Collection](https://lilyrosemusic.merchmadeeasy.com/collections/lily-rose-collection)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-16T11:03:24Z
   Total Products: 11
 - [All](https://lilyrosemusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-22T15:28:16Z
   Total Products: 61
 - [Fall Tour Collection](https://lilyrosemusic.merchmadeeasy.com/collections/fall-tour-collection)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-21T11:05:03Z
   Total Products: 7
 - [Last Chance](https://lilyrosemusic.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-10-09T11:03:15Z
+  Updated: 2026-10-22T15:28:15Z
   Total Products: 4
 
 ## Store Pages
@@ -395,15 +395,15 @@
 ## Policies
 
 - [Privacy Policy](https://lilyrosemusic.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T19:31:11-05:00
+  Updated: 2026-06-19T00:31:11Z
 - [Shipping Policy](https://lilyrosemusic.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-26T11:06:14-06:00
+  Updated: 2024-02-26T17:06:14Z
 - [Refund Policy](https://lilyrosemusic.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T19:31:19-05:00
+  Updated: 2026-06-19T00:31:19Z
 - [Terms of Service](https://lilyrosemusic.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-26T11:06:14-06:00
+  Updated: 2024-02-26T17:06:14Z
 - [Contact Information](https://lilyrosemusic.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-02-26T11:06:14-06:00
+  Updated: 2024-02-26T17:06:14Z
 
 ## Optional
 
