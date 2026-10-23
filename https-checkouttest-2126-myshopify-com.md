@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-03-10T05:19:51Z
 - Contact Email: prathambrosteam@gmail.com
-- Updated At: 2026-07-29T00:00:42.403Z
+- Updated At: 2026-10-23T01:01:13.219Z
 
 ## Products
 
@@ -321,15 +321,15 @@
 ## Policies
 
 - [Privacy Policy](https://checkouttest-2126.myshopify.com/policies/privacy-policy)
-  Updated: 2026-03-10T01:20:00-04:00
+  Updated: 2026-03-10T05:20:00Z
 - [Shipping Policy](https://checkouttest-2126.myshopify.com/policies/shipping-policy)
-  Updated: 2026-06-10T05:33:39-04:00
+  Updated: 2026-06-10T09:33:39Z
 - [Refund Policy](https://checkouttest-2126.myshopify.com/policies/refund-policy)
-  Updated: 2026-06-10T05:32:06-04:00
+  Updated: 2026-06-10T09:32:06Z
 - [Terms of Service](https://checkouttest-2126.myshopify.com/policies/terms-of-service)
-  Updated: 2026-06-10T05:32:12-04:00
+  Updated: 2026-06-10T09:32:12Z
 - [Contact Information](https://checkouttest-2126.myshopify.com/policies/contact-information)
-  Updated: 2026-06-10T05:33:59-04:00
+  Updated: 2026-06-10T09:33:59Z
 
 ## Optional
 
