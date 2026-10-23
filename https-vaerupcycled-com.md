@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2022-06-03T13:54:40Z
 - Contact Email: hello@vaerupcycled.com
-- Updated At: 2026-08-31T00:00:44.884Z
+- Updated At: 2026-10-23T00:58:12.520Z
 
 ## Products
 
 - [Blue Phoenix Upcycled Sneakers - Buy online in the VAER webshop](https://vaerupcycled.com/products/blue-phoenix): Blue Sneakers made from repurposed jeans! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these shoes to be as sustainable as possible.
-  Updated: 2026-08-29T17:09:45Z
+  Updated: 2026-09-25T11:40:36Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -52,8 +52,8 @@
   - [46](https://vaerupcycled.com/products/blue-phoenix?variant=43002245710039)
     Availability: Available
     Price: kr 950.00 DKK
-- [Black Phoenix Sneaker](https://vaerupcycled.com/products/black-phoenix): Black Sneakers made from repurposed workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:15Z
+- [Black Phoenix Upcycled Sneakers | Recycled, Natural](https://vaerupcycled.com/products/black-phoenix): Vegan sneakers made in Portugal from upcycled jeans and tablecloths. Lightweight, comfortable and designed for everyday wear by VAER.
+  Updated: 2026-09-14T06:19:30Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -94,92 +94,8 @@
   - [46](https://vaerupcycled.com/products/black-phoenix?variant=43002309247191)
     Availability: Available
     Price: kr 950.00 DKK
-- [Black Gro Sneaker](https://vaerupcycled.com/products/gro-black): Made in Portugal from upcycled aprons and tablecloths! If you like sneakers with a chunky sole this is definitely the one to choose. These kicks will elevate your style in every sense of the word. The contrast between black and white makes these vegan sneakers a timeless sporty classic.
-  Updated: 2026-08-28T22:23:15Z
-  Vendor: VAER UPCYCLED
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/4145/8647/files/01-BlackGroVAERUpcycledSneaker.png?v=1706612896
-  - [35](https://vaerupcycled.com/products/gro-black?variant=43024043311319)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [36](https://vaerupcycled.com/products/gro-black?variant=43024043344087)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [37](https://vaerupcycled.com/products/gro-black?variant=43024043376855)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [38](https://vaerupcycled.com/products/gro-black?variant=43024043409623)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [39](https://vaerupcycled.com/products/gro-black?variant=43024043442391)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [40](https://vaerupcycled.com/products/gro-black?variant=43024043475159)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [41](https://vaerupcycled.com/products/gro-black?variant=43024043507927)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [42](https://vaerupcycled.com/products/gro-black?variant=43024043540695)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [43](https://vaerupcycled.com/products/gro-black?variant=43024043573463)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [44](https://vaerupcycled.com/products/gro-black?variant=43024043606231)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [45](https://vaerupcycled.com/products/gro-black?variant=43024043638999)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [46](https://vaerupcycled.com/products/gro-black?variant=43024043671767)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-- [Green Gro Sneaker](https://vaerupcycled.com/products/green-gro): Made in Portugal from discarded Europcar uniforms and tablecloths! VAER and Europcar have teamed up to fight textile waste together. If you like sneakers with a chunky sole this is definitely the one to choose. These kicks will elevate your style in every sense of the word. The contrast between the green, white and yellow makes these vegan sneakers a timeless classic with a little twist.
-  Updated: 2026-08-28T22:23:15Z
-  Vendor: VAER UPCYCLED
-  Product Type: Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/4145/8647/files/01-GreenGroVAERUpcycledSneaker.png?v=1706612938
-  - [35](https://vaerupcycled.com/products/green-gro?variant=43419656388823)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [36](https://vaerupcycled.com/products/green-gro?variant=43419656421591)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [37](https://vaerupcycled.com/products/green-gro?variant=43419656454359)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [38](https://vaerupcycled.com/products/green-gro?variant=43419656487127)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [39](https://vaerupcycled.com/products/green-gro?variant=43419656519895)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [40](https://vaerupcycled.com/products/green-gro?variant=43419656552663)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [41](https://vaerupcycled.com/products/green-gro?variant=43419656585431)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [42](https://vaerupcycled.com/products/green-gro?variant=43419656618199)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [43](https://vaerupcycled.com/products/green-gro?variant=43419656650967)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [44](https://vaerupcycled.com/products/green-gro?variant=43419656683735)
-    Availability: Not Available
-    Price: kr 1,100.00 DKK
-  - [45](https://vaerupcycled.com/products/green-gro?variant=43419656716503)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-  - [46](https://vaerupcycled.com/products/green-gro?variant=43419656749271)
-    Availability: Available
-    Price: kr 1,100.00 DKK
-- [VAER gift card](https://vaerupcycled.com/products/vaer-gift-card): Not sure which sneaker your loved one would want - or are you just a little late with your Christmas shopping? Get a gift card, that can be used on any of our sneakers in our online store. Once you have made the order, then we will sent you the gift card which you can print and give to the lucky one.
-  Updated: 2026-08-28T22:23:16Z
+- [VAER gift cardVAER Gift Card | Upcycled Sneakers](https://vaerupcycled.com/products/vaer-gift-card): Give the gift of choice with a VAER gift card, redeemable online for upcycled sneakers made from repurposed materials.
+  Updated: 2026-09-14T06:19:31Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -205,8 +121,8 @@
   - [1.149 kr](https://vaerupcycled.com/products/vaer-gift-card?variant=49899429757269)
     Availability: Available
     Price: kr 1,149.00 DKK
-- [Upcycled Green Fleece](https://vaerupcycled.com/products/upcycled-fleece): Oversize Upcycled Fleece This upcycled fleece is made in our upcycling studio in Copenhagen. Transformed from discarded Europcar uniforms into this super cosy oversized fleece. Warning: This fleece is so comfortable that it might be addictive, big risk of wanting to wear it non-stop. Made-to-order:These Fleeces are made-to-order, which means that we only produce it when you buy it. Therefore, there are two weeks waiting time from when you order it until we deliver it.
-  Updated: 2026-08-28T22:23:16Z
+- [Upcycled Green Fleece | VAER](https://vaerupcycled.com/products/upcycled-fleece): Cosy oversized fleece made in Copenhagen from discarded Europcar uniforms. Made to order by VAER, with a two-week delivery time.
+  Updated: 2026-09-14T06:19:31Z
   Vendor: VAER UPCYCLED
   Product Type: Fleece
   Availability: Available
@@ -218,7 +134,7 @@
     Availability: Available
     Price: kr 750.00 DKK
 - [Green/Black Phoenix Upcycled Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/green-black): Made in Portugal from discarded German Europcar uniforms! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:17Z
+  Updated: 2026-09-14T06:19:31Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -230,7 +146,7 @@
     Availability: Available
     Price: kr 950.00 DKK
   - [37](https://vaerupcycled.com/products/green-black?variant=46855851082069)
-    Availability: Available
+    Availability: Not Available
     Price: kr 950.00 DKK
   - [38](https://vaerupcycled.com/products/green-black?variant=46855851114837)
     Availability: Available
@@ -260,7 +176,7 @@
     Availability: Available
     Price: kr 950.00 DKK
 - [Green/White Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/green-white): Made in Portugal from discarded German Europcar uniforms! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:17Z
+  Updated: 2026-09-14T06:19:31Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -301,8 +217,8 @@
   - [46](https://vaerupcycled.com/products/green-white?variant=46935815881045)
     Availability: Available
     Price: kr 950.00 DKK
-- [VAER Insoles](https://vaerupcycled.com/products/vaer-insoles): If you want to transform your VAER sneakers (or any sneakers you own) into work sneakers that you can stand in all day, then these are the insoles for you. They are designed specifically to provide the right support for the right places on your feet. The front part is made from soft recycled PU, the back is made from strong and supportive recycled cork mixed with recycled EVA. The top is made from cotton linen.
-  Updated: 2026-08-28T22:23:17Z
+- [VAER Insoles | Recycled Cork & EVA Support](https://vaerupcycled.com/products/vaer-insoles): Supportive insoles for VAER or other sneakers, made with recycled PU, cork and EVA, topped with cotton linen for comfortable everyday wear.
+  Updated: 2026-09-25T11:32:08Z
   Vendor: VAER
   Product Type: Insole
   Availability: Available
@@ -344,7 +260,7 @@
     Availability: Available
     Price: kr 75.00 DKK
 - [NEW: Sand Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/sand-phoenix): Made in Portugal from upcycled workwear! Embrace understated elegance with these vegan and circular sneakers, a harmonious blend of dusty tones and conscious craftsmanship. Made from durable materials that are primarily upcycled, recycled or natural - we have designed these shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:18Z
+  Updated: 2026-09-21T11:37:45Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -385,15 +301,15 @@
   - [46](https://vaerupcycled.com/products/sand-phoenix?variant=48180588020053)
     Availability: Available
     Price: kr 950.00 DKK
-- [Whirl - Upcycled Denim Cap](https://vaerupcycled.com/products/whirl-upcycled-denim-cap): Made in Bulgaria from upcycled denim! Designed for comfort and durability, this upcycled cap is the perfect finishing touch to any casual ensemble. Whether you're running errands or heading to a weekend getaway, this cap is sure to turn heads with its easy-going look, effortlessly embodying laid-back vibes. One size
-  Updated: 2026-08-28T22:23:18Z
+- [Whirl Upcycled Denim Cap | VAER](https://vaerupcycled.com/products/whirl-upcycled-denim-cap): Upcycled denim cap made in Bulgaria for comfortable, durable everyday wear. One size, easy-going style by VAER.
+  Updated: 2026-09-14T06:19:32Z
   Vendor: VAER
   Product Type: Cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0645/4145/8647/files/01-DenimWhirlVAERUpcycledCap.png?v=1713795343
   Price: kr 350.00 DKK
 - [STARK Yellow Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/stark-yellow-phoenix): VAER x STARK sneakers made from repurposed workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:19Z
+  Updated: 2026-10-16T14:42:11Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -435,7 +351,7 @@
     Availability: Not Available
     Price: kr 500.00 DKK
 - [STARK Orange Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/stark-orange-phoenix): Orange VAER x STARK sneakers from repurposed workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:19Z
+  Updated: 2026-10-16T14:42:11Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -477,7 +393,7 @@
     Availability: Available
     Price: kr 500.00 DKK
 - [STARK Orange/Blue Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/stark-orange-blue-phoenix): Orange and Blue VAER x STARK sneakers made from upcycled workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:19Z
+  Updated: 2026-10-19T00:24:56Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -522,7 +438,7 @@
     Availability: Available
     Price: kr 500.00 DKK
 - [STARK Blue/Orange Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/stark-blue-orange-phoenix): Made from repurposed STARK workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-30T19:19:35Z
+  Updated: 2026-10-16T14:42:11Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -558,7 +474,7 @@
     Availability: Available
     Price: kr 500.00 DKK
   - [45](https://vaerupcycled.com/products/stark-blue-orange-phoenix?variant=49415544799573)
-    Availability: Available
+    Availability: Not Available
     Price: kr 500.00 DKK
   - [46](https://vaerupcycled.com/products/stark-blue-orange-phoenix?variant=49415544832341)
     Availability: Not Available
@@ -567,7 +483,7 @@
     Availability: Available
     Price: kr 500.00 DKK
 - [STARK Black Orange Phoenix Sneaker - Buy online in the VAER webshop](https://vaerupcycled.com/products/stark-black-orange-phoenix): Made from upcycled STARK workwear! Made from durable materials that are primarily upcycled, recycled or natural - we have designed these circular shoes to be as sustainable as possible.
-  Updated: 2026-08-30T19:19:31Z
+  Updated: 2026-10-16T14:42:11Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -612,7 +528,7 @@
     Availability: Available
     Price: kr 500.00 DKK
 - [NEW: Pastel Phoenix Sneakers - Buy online in the VAER webshop](https://vaerupcycled.com/products/new-pastel-phoenix): Made in Portugal from upcycled workwear and tablecloths! Embrace understated elegance with these vegan and circular sneakers, a harmonious blend of dusty tones and conscious craftsmanship. Made from durable materials that are primarily upcycled, recycled or natural - we have designed these shoes to be as sustainable as possible.
-  Updated: 2026-08-28T22:23:21Z
+  Updated: 2026-09-14T06:19:33Z
   Vendor: VAER UPCYCLED
   Product Type: Shoes
   Availability: Available
@@ -656,32 +572,32 @@
 
 ## Collections
 
-- [Upcycled sneakers](https://vaerupcycled.com/collections/shop): Sneakers made from old jeans and workwear. Be part of our upcycling movement and take a step closer to a waste-free fashion future.
-  Updated: 2026-08-30T11:07:48Z
+- [Upcycled sneakers](https://vaerupcycled.com/collections/shop): Shop VAER’s upcycled and recycled sneakers, made from discarded jeans and workwear. Each pair is unique and made for everyday comfort.
+  Updated: 2026-10-19T11:08:28Z
   Total Products: 16
-- [Phoenix](https://vaerupcycled.com/collections/phoenix): Classic sneakers
-  Updated: 2026-08-30T11:07:48Z
+- [Phoenix](https://vaerupcycled.com/collections/phoenix): Explore VAER’s Phoenix sneakers in distinctive colourways, with bold designs so that you stand out as a sustainability hero. Each sneaker is unique.
+  Updated: 2026-10-19T11:08:28Z
   Total Products: 13
 - [Gro](https://vaerupcycled.com/collections/gro): Gro sneakers made from upcycled textile waste and recycled materials.
-  Updated: 2026-06-08T08:44:10Z
+  Updated: 2026-09-20T11:07:41Z
   Total Products: 2
-- [Upcycled Fleece](https://vaerupcycled.com/collections/upcycled-clothes)
-  Updated: 2026-06-08T08:55:14Z
+- [Upcycled Fleece](https://vaerupcycled.com/collections/upcycled-clothes): Shop VAER’s upcycled fleece clothing, made in Copenhagen from discarded workwear. Oversized, made to order, every piece is handmade and unique.
+  Updated: 2026-09-14T06:19:30Z
   Total Products: 1
-- [Europcar DE x VAER Phoenix](https://vaerupcycled.com/collections/europcar-germany)
-  Updated: 2026-06-16T11:10:50Z
+- [Europcar DE x VAER Phoenix](https://vaerupcycled.com/collections/europcar-germany): Explore the Europcar x VAER Phoenix sneaker collection, made from upcycled textiles. Every sneaker is unique!
+  Updated: 2026-09-14T06:19:30Z
   Total Products: 2
-- [Upcycled Cap](https://vaerupcycled.com/collections/whirl-upcycled-cap)
-  Updated: 2026-08-12T11:10:01Z
+- [Upcycled Cap](https://vaerupcycled.com/collections/whirl-upcycled-cap): Shop VAER’s upcycled denim cap, made in Bulgaria for comfortable, durable everyday wear. One size, easy-going style.
+  Updated: 2026-09-14T06:19:30Z
   Total Products: 1
-- [Newest in](https://vaerupcycled.com/collections/newest-in)
-  Updated: 2026-08-28T11:09:13Z
+- [Newest in](https://vaerupcycled.com/collections/newest-in): Discover VAER’s newest arrivals with unique designs and made from upcycled textiles for everyday wear.
+  Updated: 2026-10-19T11:08:28Z
   Total Products: 8
-- [STARK x VAER Phoenix](https://vaerupcycled.com/collections/stark-gensko)
-  Updated: 2026-08-28T11:09:13Z
+- [STARK x VAER Phoenix](https://vaerupcycled.com/collections/stark-gensko): Explore STARK x VAER Phoenix sneakers in bold orange, blue, black and yellow colorways, designed for distinctive everyday style.
+  Updated: 2026-10-19T11:08:28Z
   Total Products: 5
-- [All sneakers](https://vaerupcycled.com/collections/all-sneakers)
-  Updated: 2026-08-30T11:07:48Z
+- [All sneakers](https://vaerupcycled.com/collections/all-sneakers): Explore VAER’s upcycled and recycled sneakers, made from discarded jeans and workwear. Each pair is unique, comfortable and made for everyday wear.
+  Updated: 2026-10-19T11:08:28Z
   Total Products: 13
 
 ## Blogs
@@ -789,8 +705,8 @@
   Updated: 2025-04-03T08:28:42Z
 - [VAER x Folkekirkens Nødhjælp](https://vaerupcycled.com/pages/vaer-x-folkekirkens-nodhjaelp)
   Updated: 2025-04-14T07:55:48Z
-- [Become a reseller](https://vaerupcycled.com/pages/become-a-reseller): Bring VAER’s upcycled fashion and accessories to your customers. We work with selected retailers and businesses that share our commitment to though...
-  Updated: 2026-08-28T12:48:59Z
+- [Become a reseller](https://vaerupcycled.com/pages/become-a-reseller)
+  Updated: 2026-09-23T09:05:46Z
 
 ## Optional
 
