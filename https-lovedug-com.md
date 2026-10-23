@@ -1,7 +1,7 @@
 # love dug (https://lovedug.com)
 
 - Contact Email: business@lovedug.com
-- Updated At: 2026-10-16T00:00:43.034Z
+- Updated At: 2026-10-23T00:40:45.563Z
 
 ## Products
 
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Red_6ff1e416-84d4-4b54-befe-6f48364d310f.jpg?v=1784813458
   Price: $162.00 USD
 - [Love Dug | Women's Fur Jacket Cardigan – Faux Fur](https://lovedug.com/products/womens-fur-jacket-cardigan): Soft faux fur jacket cardigan for women. Relaxed hip-length, hook-and-eye closure, polyester lining. Sizes S–2XL. Machine wash cold. Shop Love Dug.
-  Updated: 2026-10-07T15:50:53Z
+  Updated: 2026-10-22T16:46:21Z
   Vendor: love dug
   Product Type: Women's Fur Jacket Cardigan
   Availability: Available
@@ -141,7 +141,7 @@
   - [Beige / Small](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965935013942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $108.00 USD
+    Price: $144.00 USD
   - [Beige / Medium](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965938585654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
@@ -149,11 +149,11 @@
   - [Beige / Large](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=44335229468726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $108.00 USD
+    Price: $140.00 USD
   - [Beige / X-Large](https://lovedug.com/products/womens-fur-jacket-cardigan?variant=46965935210550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
-    Price: $108.00 USD
+    Price: $144.00 USD
 - [Love Dug | Festive Tabletop Christmas Tree – Mini PVC Tree](https://lovedug.com/products/festive-table-top-christmas-tree): Mini festive tabletop Christmas tree with fluffable PVC branches and included accessories. Available in 11.8" and 23.6". Indoor and covered outdoor use. Shop Love Dug.
   Updated: 2026-08-29T00:11:16Z
   Vendor: love dug
@@ -169,14 +169,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/RusticStand.jpg?v=1784813272
   Price: $53.00 USD
 - [Love Dug | Portable Home Theater Projector – Smart HD Mini](https://lovedug.com/products/portable-home-theater-projector): Portable-size smart projector with Android 11, Wi-Fi 6, Bluetooth 5.0, and 720p native resolution. 40–130 inch screen, ~0.5 kg. Shop at Love Dug.
-  Updated: 2026-10-09T13:04:20Z
+  Updated: 2026-10-22T00:32:34Z
   Vendor: love dug
   Product Type: Portable Home Theater Projector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/BlackandWhite.jpg?v=1784813179
   Price: $133.00 USD
 - [Love Dug | Durable AirTag Case – IPX8 Waterproof, 4-Pack](https://lovedug.com/products/durable-airtag-case): IPX8 waterproof silicone AirTag case with 360° scratch and drop protection. 4 cases + 4 keychains included. Fits 1st and 2nd gen. Shop Love Dug.
-  Updated: 2026-10-07T15:49:38Z
+  Updated: 2026-10-17T19:32:25Z
   Vendor: love dug
   Product Type: Durable AirTag Case
   Availability: Available
@@ -328,7 +328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/W161.jpg?v=1784892552
     Price: $27.00 USD
 - [Love Dug | Handheld Milk Frother – USB Rechargeable, 3-Speed](https://lovedug.com/products/handheld-electric-coffee-milk-frother): Upgrade your coffee with this cordless handheld milk frother. USB rechargeable, 3-speed stainless steel whisk for silky lattes, matcha & cocoa. Shop now at Love Dug.
-  Updated: 2026-10-07T15:47:59Z
+  Updated: 2026-10-23T00:08:57Z
   Vendor: love dug
   Product Type: Handheld Electric Coffee Milk Frother
   Availability: Available
@@ -441,7 +441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/32_colours.jpg?v=1783504997
   Price: $119.00 USD
 - [Love Dug | Non-Stick Mini Waffle Maker & Griddle Set – 4-Inch](https://lovedug.com/products/non-stick-mini-waffle-maker): Non-stick mini waffle maker and griddle set with 4-inch nonstick plates, even heating, and quick heat-up. PFAS free, recipe guide included. Shop Love Dug.
-  Updated: 2026-10-13T04:14:53Z
+  Updated: 2026-10-22T09:42:50Z
   Vendor: love dug
   Product Type: Festive Non-Stick Mini Waffle Maker
   Availability: Available
@@ -460,9 +460,9 @@
   - [Black 2 Pack](https://lovedug.com/products/non-stick-mini-waffle-maker?variant=45569836122166)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_9893e898-77e5-4934-994c-a4a90af01994.jpg?v=1783504291
-    Price: $90.00 USD
+    Price: $479.00 USD
 - [Love Dug | Resistance Workout & Stretch Bands](https://lovedug.com/products/resistance-workout-stretch-bands): Silicone resistance bands with 5 color-coded levels (10–40 lb). For squats, bridges, pilates, yoga. Includes carry bag. Unisex. Shop Love Dug.
-  Updated: 2026-10-10T05:38:16Z
+  Updated: 2026-10-21T08:34:18Z
   Vendor: love dug
   Product Type: Resistance Workout & Stretch Bands
   Availability: Available
@@ -478,7 +478,7 @@
   - [20LB](https://lovedug.com/products/resistance-workout-stretch-bands?variant=45569837072438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Purple_Pink_c6ae6d48-0c5b-4545-8b5e-a32c912da9e6.jpg?v=1783438793
-    Price: $13.00 USD
+    Price: $15.00 USD
   - [30LB](https://lovedug.com/products/resistance-workout-stretch-bands?variant=45569837039670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Fuchsia.jpg?v=1783438808
@@ -530,7 +530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Purple_30cb3f89-09fe-4676-ab11-8f8e5da494f3.jpg?v=1786460163
     Price: $6.00 USD
 - [Love Dug | Christmas Fluffy Reindeer House Slippers](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers): Fluffy Christmas reindeer slippers with flannel upper, plush insole, PVC outsole, and festive animal print design. Indoor use. Runs small, size up. Shop Love Dug.
-  Updated: 2026-10-11T15:33:52Z
+  Updated: 2026-10-17T16:29:07Z
   Vendor: love dug
   Product Type: Christmas Fluffy Reindeer House Slippers
   Availability: Available
@@ -1368,7 +1368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/WY224.png?v=1786629547
     Price: $25.00 USD
 - [Love Dug | "Carbage" Can with Lid – Mini Car Trash Bin](https://lovedug.com/products/carbage-can-with-lid): Compact car trash can with press-open lid and auto-rebound closure. Waterproof plastic, supports liner bags. Black, Pink, White. Shop Love Dug.
-  Updated: 2026-10-07T15:37:13Z
+  Updated: 2026-10-21T00:19:41Z
   Vendor: love dug
   Product Type: "Carbage" Can with Lid
   Availability: Available
@@ -1380,7 +1380,7 @@
   - [Black](https://lovedug.com/products/carbage-can-with-lid?variant=47229937123382)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_039c2de0-b980-459c-89f2-1c466336d580.jpg?v=1786637852
-    Price: $25.00 USD
+    Price: $21.00 USD
   - [White](https://lovedug.com/products/carbage-can-with-lid?variant=47229937090614)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_e48767c6-a31a-488d-b923-913cae98b55d.png?v=1786637852
@@ -1434,22 +1434,22 @@
 ## Collections
 
 - [Shop All](https://lovedug.com/collections/shop-all): Browse the complete Love Dug catalog. From trending kitchen gadgets, cozy home decor, to trending fashion and smart travel solutions, find everything you need in one place.
-  Updated: 2026-10-15T07:44:59Z
+  Updated: 2026-10-22T16:46:22Z
   Total Products: 45
 - [New Arrivals](https://lovedug.com/collections/shop-new): Be the first to shop our newest arrivals. Discover the latest drop of smart gadgets, seasonal fashion items, home upgrades, and more.
-  Updated: 2026-10-15T07:44:59Z
+  Updated: 2026-10-22T16:46:22Z
   Total Products: 5
 - [Seasonal Favorites & Holiday Gear](https://lovedug.com/collections/shop-seasonal): Get ready for winter with our curated holiday picks. Shop festive decor, warm winter wear, and seasonal gifts.
-  Updated: 2026-10-15T07:44:59Z
+  Updated: 2026-10-22T09:42:43Z
   Total Products: 12
 - [Trending](https://lovedug.com/collections/shop-trending): Shop the products everyone is talking about. Discover our best- viral hits, from smart cleaning tools to innovative beauty hacks.
-  Updated: 2026-10-09T13:04:21Z
+  Updated: 2026-10-22T00:32:35Z
   Total Products: 5
 - [Home & Kitchen](https://lovedug.com/collections/home-kitchen): Upgrade your home with our top-rated kitchen tools. Shop the must-have pizza makers, smart lightings, and organization hacks.
-  Updated: 2026-10-09T13:04:21Z
+  Updated: 2026-10-22T09:42:43Z
   Total Products: 17
 - [Fashion & Beauty](https://lovedug.com/collections/fashion-beauty): Elevate your style with our fashion and beauty collection. Shop DIY nail kits, cozy winter boots, and handy travel organizers.
-  Updated: 2026-10-11T15:33:53Z
+  Updated: 2026-10-22T16:46:22Z
   Total Products: 17
 - [Fitness & Recovery](https://lovedug.com/collections/fitness-recovery): Achieve your fitness and wellness goals. Shop resistance bands, safety lights for runners, and deep tissue massage pillows for post-workout recovery.
   Updated: 2026-10-10T05:38:03Z
@@ -1464,10 +1464,10 @@
   Updated: 2026-09-24T06:05:47Z
   Total Products: 5
 - [Gifts For Him](https://lovedug.com/collections/gift-guide-gifts-for-him): Shop the best gifts for men. Discover car gadgets, tech accessories, and grooming tools that he will actually use and love.
-  Updated: 2026-10-09T13:04:21Z
+  Updated: 2026-10-22T00:32:35Z
   Total Products: 4
 - [Gifts Under $100](https://lovedug.com/collections/gift-guide-gifts-under-100): Shop impressive gifts without breaking the bank. Discover high-quality home goods, beauty kits, and tech gadgets all under $100.
-  Updated: 2026-10-08T13:25:30Z
+  Updated: 2026-10-22T09:42:43Z
   Total Products: 4
 - [Gifts Under $50](https://lovedug.com/collections/gift-guide-gifts-under-50): Find thoughtful gifts for any budget. Shop kitchen hacks, cozy winter wear, and fun accessories for under $50.
   Updated: 2026-08-13T17:42:59Z
@@ -1476,7 +1476,7 @@
   Updated: 2026-10-05T16:13:06Z
   Total Products: 4
 - [The Ultimate Gift Guide](https://lovedug.com/collections/gift-guide): Find the perfect gift for any occasion. Explore our curated gift guides for him, her, holidays, and budget-friendly finds under $30, $50, and $100.
-  Updated: 2026-10-08T13:25:30Z
+  Updated: 2026-10-22T09:42:43Z
   Total Products: 13
 - [Digital Goods VAT Tax](https://lovedug.com/collections/digital-goods-vat-tax)
   Updated: 2026-07-27T12:09:30Z
@@ -1490,7 +1490,7 @@
     Author: Love Dug Editorial Team
     Tags: The Love Dug Edit
   - [Love Dug | Home & Kitchen Essentials: A Practical Guide](https://lovedug.com/blogs/all/home-kitchen): Love Dug | Home & Kitchen Essentials: A Practical Guide
-    Updated: 2026-10-08T09:21:54Z
+    Updated: 2026-10-22T05:02:52Z
     Author: Love Dug Editorial Team
     Tags: Home & Kitchen
   - [Love Dug | Fashion & Beauty Essentials: Fit and Care](https://lovedug.com/blogs/all/fashion-beauty): Love Dug | Fashion & Beauty Essentials: Fit and Care
@@ -1509,6 +1509,10 @@
     Updated: 2026-10-08T09:34:33Z
     Author: Love Dug Editorial Team
     Tags: Gift Guide
+  - [Love Dug | How to Choose a Handheld Milk Frother](https://lovedug.com/blogs/all/how-to-choose-a-handheld-milk-frother): Love Dug | How to Choose a Handheld Milk Frother
+    Updated: 2026-10-22T12:16:21Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
 
 ## Store Pages
 
@@ -1524,15 +1528,15 @@
 ## Policies
 
 - [Privacy Policy](https://lovedug.com/policies/privacy-policy)
-  Updated: 2026-07-27T22:04:40+08:00
+  Updated: 2026-07-27T14:04:40Z
 - [Shipping Policy](https://lovedug.com/policies/shipping-policy)
-  Updated: 2026-07-27T22:05:19+08:00
+  Updated: 2026-07-27T14:05:19Z
 - [Refund Policy](https://lovedug.com/policies/refund-policy)
-  Updated: 2026-07-27T22:09:42+08:00
+  Updated: 2026-07-27T14:09:42Z
 - [Terms of Service](https://lovedug.com/policies/terms-of-service)
-  Updated: 2026-07-27T22:01:41+08:00
+  Updated: 2026-07-27T14:01:41Z
 - [Contact Information](https://lovedug.com/policies/contact-information)
-  Updated: 2026-07-27T22:05:36+08:00
+  Updated: 2026-07-27T14:05:36Z
 
 ## Optional
 
