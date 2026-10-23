@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-25T03:25:11Z
 - Contact Email: mitchell@14all.agency
-- Updated At: 2026-07-23T00:00:42.158Z
+- Updated At: 2026-10-23T01:11:05.121Z
 
 ## Collections
 
@@ -26,7 +26,7 @@
 ## Policies
 
 - [Privacy Policy](https://jambos-jeans.myshopify.com/policies/privacy-policy)
-  Updated: 2025-07-24T23:25:22-04:00
+  Updated: 2025-07-25T03:25:22Z
 
 ## Optional
 
