@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-24T11:32:05Z
 - Contact Email: support@carteluxventures.com
-- Updated At: 2026-10-12T00:00:31.417Z
+- Updated At: 2026-10-23T00:32:29.941Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image509.png?v=1790536953
   Price: $75.95 USD
 - [Chocolate Gold Quencher 40 oz Tumbler - Insulated Drinkware](https://carteluxventures.com/products/chocolate-gold-quencher-40oz-tumbler-flowstate-h2-0-factory-sealed): Chocolate Gold Quencher 40 oz Tumbler Flowstate H2.0 Factory Sealed — an insulated tumbler made to slot into the routine you already keep. Make it part.
-  Updated: 2026-09-27T21:10:14Z
+  Updated: 2026-10-14T08:53:06Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image542.jpg?v=1790505150
   Price: $79.95 USD
 - [Barbie X Just Peachy 40 oz Peaches 'n - Beauty & Skincare](https://carteluxventures.com/products/barbie-x-just-peachy-40oz-peaches-n-cream-tumbler): Barbie X Just Peachy 40 oz Peaches 'n Cream Tumbler — a skincare essential built to slot into the routine you already keep, with straightforward daily.
-  Updated: 2026-09-27T22:31:09Z
+  Updated: 2026-10-14T08:53:07Z
   Vendor: Barbie
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -102,14 +102,14 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image459.jpg?v=1790504877
   Price: $71.95 USD
 - [x Barbie Quencher Tumbler Pink Sparkle - Insulated Drinkware](https://carteluxventures.com/products/x-barbie-quencher-tumbler-pink-sparkle-40-oz-with-lid-straw-new): x Barbie Quencher Tumbler Pink Sparkle 40oz With Lid & Straw-NEW — an insulated tumbler made to slot into the routine you already keep. Grab yours while.
-  Updated: 2026-09-27T22:25:04Z
+  Updated: 2026-10-14T08:53:08Z
   Vendor: Barbie Quencher
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image606.jpg?v=1790504535
   Price: $89.95 USD
 - [Rare 40 oz Black the Flowstate - Insulated Drinkware](https://carteluxventures.com/products/rare-40oz-black-the-flowstate-quencher-h2-0-tumbler-ni): Rare 40 oz Black the Flowstate Quencher H2.0 Tumbler NI — an insulated tumbler made to slot into the routine you already keep. Make it part of your day.
-  Updated: 2026-09-27T21:37:29Z
+  Updated: 2026-10-14T08:53:08Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -137,21 +137,21 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image527.jpg?v=1790501602
   Price: $74.95 USD
 - [Hello Kitty Cup Flowstate Tumbler - 40 - Insulated Drinkware](https://carteluxventures.com/products/hello-kitty-cup-flowstate-tumbler-40oz-purple-glitter-limited-edition): Hello Kitty Cup Flowstate Tumbler - 40 oz - Purple Glitter Limited Edition — an insulated tumbler made to slot into the routine you already keep. Start.
-  Updated: 2026-09-27T21:31:52Z
+  Updated: 2026-10-14T08:53:07Z
   Vendor: Sanrio
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image484.png?v=1790501459
   Price: $55.45 USD
 - [PURPLE W/STARS TUMBLER 40 oz - Insulated Drinkware](https://carteluxventures.com/products/purple-w-stars-tumbler-40oz): PURPLE W/STARS TUMBLER 40 oz — an insulated tumbler built to slot into the routine you already keep, with straightforward daily use and no fuss. Order.
-  Updated: 2026-09-27T21:29:14Z
+  Updated: 2026-10-14T08:53:08Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image636.jpg?v=1790500473
   Price: $68.99 USD
 - [BLACK 40 oz Quencher H2.0 Flow State - Insulated Drinkware](https://carteluxventures.com/products/black-40oz-quencher-h2-0-flowstate-stainless-steel-vacuum-tumbler): BLACK 40 oz Quencher H2.0 Flow State Stainless Steel Vacuum Tumbler — an insulated tumbler made to slot into the routine you already keep. Add it to. A dependab
-  Updated: 2026-09-27T21:13:49Z
+  Updated: 2026-10-14T08:53:09Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/1102/9469/6274/files/image494.jpg?v=1790413027
   Price: $68.99 USD
 - [Rare 40 oz Green Chorma the Flowstate - Insulated Drinkware](https://carteluxventures.com/products/rare-40oz-green-chorma-the-flowstate-quencher-h2-0-tumbler-ni): Rare 40 oz Green Chorma the Flowstate Quencher H2.0 Tumbler NI — an insulated tumbler made to slot into the routine you already keep. Make it part of.
-  Updated: 2026-09-27T18:09:39Z
+  Updated: 2026-10-14T08:53:03Z
   Vendor: Stanley
   Product Type: Drinkware
   Availability: Available
@@ -175,70 +175,70 @@
 ## Collections
 
 - [Coffee & Beverages](https://carteluxventures.com/collections/coffee-beverages): Mushroom coffee, matcha and daily brews — clean energy, no crash.
-  Updated: 2026-09-26T08:05:29Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 9
 - [Toys & Kids](https://carteluxventures.com/collections/toys-kids): Play that holds attention and survives real life.
-  Updated: 2026-09-26T08:04:10Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 11
 - [General Merchandise](https://carteluxventures.com/collections/general-merchandise): Practical, well-made picks from across the catalogue.
-  Updated: 2026-09-27T19:22:23Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 140
 - [Beauty](https://carteluxventures.com/collections/luxury-beauty): Skincare and haircare built on proven ingredients, for routines that stick.
-  Updated: 2026-09-27T10:40:10Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 164
 - [Wellness](https://carteluxventures.com/collections/wellness-performance): Supplements and daily wellness — clean formulas, honest labels, US shipping.
-  Updated: 2026-09-26T08:05:27Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 194
 - [Pet](https://carteluxventures.com/collections/pet-care): Everyday care for dogs and horses: flea and tick, grooming, health.
-  Updated: 2026-09-26T08:04:56Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 25
 - [Tools](https://carteluxventures.com/collections/professional-tools): Workshop and outdoor gear for people who use their tools.
-  Updated: 2026-09-26T08:04:20Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 18
 - [Automotive](https://carteluxventures.com/collections/automotive-powersports): Parts and accessories for cars, bikes and powersports.
-  Updated: 2026-09-26T08:04:14Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 11
 - [Kitchen & Home](https://carteluxventures.com/collections/kitchen-dining): Tools and tableware that earn their counter space.
-  Updated: 2026-09-28T02:42:44Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 12
 - [Mushroom Coffee](https://carteluxventures.com/collections/mushroom-coffee): Mushroom coffee for steady focus without the jitters.
-  Updated: 2026-09-26T08:05:29Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 3
 - [Matcha](https://carteluxventures.com/collections/matcha): Ceremonial and everyday matcha, selected for taste.
-  Updated: 2026-09-26T08:05:29Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 1
 - [Skincare](https://carteluxventures.com/collections/skincare): Serums, moisturisers and treatments for skin that behaves.
-  Updated: 2026-09-26T08:04:55Z
+  Updated: 2026-10-17T03:43:14Z
   Total Products: 25
 - [Haircare](https://carteluxventures.com/collections/haircare): Haircare for thinning, volume and repair — with clinical backing.
-  Updated: 2026-09-26T08:05:18Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 5
 - [Dogs](https://carteluxventures.com/collections/dogs): Daily care and health essentials for dogs.
-  Updated: 2026-09-26T08:04:56Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 4
 - [Horse](https://carteluxventures.com/collections/horse): Care and supplements for horses.
-  Updated: 2026-09-26T08:04:26Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 5
 - [Flea & Tick](https://carteluxventures.com/collections/flea-and-tick): Flea and tick control that works, season after season.
-  Updated: 2026-09-26T08:04:23Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 4
 - [Drinkware & Tumblers](https://carteluxventures.com/collections/drinkware-tumblers): Tumblers and drinkware built to keep up with the day.
-  Updated: 2026-09-28T02:42:44Z
+  Updated: 2026-10-17T03:43:13Z
   Total Products: 30
 - [Best Sellers](https://carteluxventures.com/collections/best-sellers)
   Updated: 2026-09-27T11:02:44Z
   Total Products: 0
 - [Stanley](https://carteluxventures.com/collections/stanley): The complete Stanley catalog — tumblers, bottles, mugs and everyday carry. From timeless classics to the colorways everyone wants.
-  Updated: 2026-09-28T02:42:44Z
+  Updated: 2026-10-14T11:52:02Z
   Total Products: 26
 - [Starbucks](https://carteluxventures.com/collections/starbucks): Starbucks collaborations and drinkware — including the coveted Starbucks x Stanley pieces.
   Updated: 2026-09-27T19:20:23Z
   Total Products: 1
 - [Limited Edition](https://carteluxventures.com/collections/limited-edition): Rare, exclusive and collector-grade Stanley releases. When they're gone, they're gone.
-  Updated: 2026-09-27T12:32:56Z
+  Updated: 2026-10-14T11:52:02Z
   Total Products: 7
 - [Collaboration](https://carteluxventures.com/collections/collaboration): Stanley collaborations with Starbucks and other partners — the pieces collectors chase.
-  Updated: 2026-09-27T19:27:39Z
+  Updated: 2026-10-14T11:52:02Z
   Total Products: 9
 
 ## Blogs
@@ -278,15 +278,15 @@
 ## Policies
 
 - [Privacy Policy](https://carteluxventures.com/policies/privacy-policy)
-  Updated: 2026-08-24T13:32:10+02:00
+  Updated: 2026-08-24T11:32:10Z
 - [Shipping Policy](https://carteluxventures.com/policies/shipping-policy)
-  Updated: 2026-10-05T11:37:20+02:00
+  Updated: 2026-10-05T09:37:20Z
 - [Refund Policy](https://carteluxventures.com/policies/refund-policy)
-  Updated: 2026-10-05T11:36:55+02:00
+  Updated: 2026-10-05T09:36:55Z
 - [Terms of Service](https://carteluxventures.com/policies/terms-of-service)
-  Updated: 2026-09-22T21:27:57+02:00
+  Updated: 2026-09-22T19:27:57Z
 - [Contact Information](https://carteluxventures.com/policies/contact-information)
-  Updated: 2026-09-22T21:28:12+02:00
+  Updated: 2026-09-22T19:28:12Z
 
 ## Optional
 
