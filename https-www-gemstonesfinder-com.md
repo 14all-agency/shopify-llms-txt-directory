@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-07-31T11:42:42Z
 - Contact Email: folkmarketgems@gmail.com
-- Updated At: 2026-10-12T00:00:38.965Z
+- Updated At: 2026-10-23T00:38:14.600Z
 
 ## Products
 
@@ -142,6 +142,12 @@
   Product Type: Morganite
   Availability: Available
   Price: $550.00 USD
+- [2.8 Carats 100% Natural Burmese Red Spinel](https://www.gemstonesfinder.com/products/2-8-carats-100-natural-burmese-red-spinel): 2.7 to 3 ct in between Carats 100% Natural Burmese Red Spinel. Dimension: 9 x 8 mm. : None. Clarity: VVS. Shape: Oval. Origin: Burmese, Mogok
+  Updated: 2026-10-14T07:17:47Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Price: $1,000.00 USD
 - [51 carats Facet Rough Rhodolite Garnet Stones](https://www.gemstonesfinder.com/products/51-carats-facet-raw-rhodolite-garnet-stones): This is parcel of natural facet rough rhodolite garnets for faceting Total Weight : 51 CT Total Pieces: 16 PCs Weight Per carat: 2 CT to 5.90 CT clarity: si to vs : No Origin: Madagascar
   Updated: 2026-09-30T16:08:00Z
   Vendor: Gemstones Finder
@@ -710,6 +716,51 @@
 
 ## Collections
 
+- [Amethyst](https://www.gemstonesfinder.com/collections/raw-loose-amethyst-for-): Discover authentic Amethyst gemstones from Brazil, Uruguay & Zambia. Premium rough & cut amethyst stones, healing crystals & birthstone jewelry collection.
+  Updated: 2026-07-14T17:46:03Z
+  Total Products: 6
+- [Spinels](https://www.gemstonesfinder.com/collections/natural-spinel-stones-for-): Discover premium spinel loose gems & rough stones. August birthstone collection featuring Burmese, Sri Lankan & African spinels. Expert healing stones.
+  Updated: 2026-10-13T19:22:13Z
+  Total Products: 7
+- [Morganite](https://www.gemstonesfinder.com/collections/morganite-faceted-stones-rough-morganite): Discover authentic Morganite gemstones from Brazil, Madagascar & Afghanistan. Premium rough & cut morganite stones, healing crystals & love stones.
+  Updated: 2026-07-14T17:45:52Z
+  Total Products: 2
+- [Emeralds](https://www.gemstonesfinder.com/collections/real-emerald-stones): Discover premium emerald loose gems & rough emeralds. May birthstone collection featuring Colombian, Zambian & Brazilian emeralds. Expert healing stones.
+  Updated: 2026-09-30T16:00:59Z
+  Total Products: 16
+- [Sapphires](https://www.gemstonesfinder.com/collections/raw-cut-sapphire-stones-for-): Discover premium loose sapphires & polished stones. September birthstone collection featuring natural sapphire gems. Expert-curated loose stones for jewelry making.
+  Updated: 2026-08-24T12:18:18Z
+  Total Products: 27
+- [Opals](https://www.gemstonesfinder.com/collections/natural-opal-stones-for-): Discover authentic Opal gemstones from Ethiopia & Australia. Premium rough opals, cabochons & fire opals. Natural play-of-color specimens collection.
+  Updated: 2026-07-14T17:45:45Z
+  Total Products: 1
+- [Topaz](https://www.gemstonesfinder.com/collections/raw-topaz-stones-for-): Explore loose topaz gemstones in a range of colors and cuts, including Swiss blue, golden, white, and imperial topaz. This collection includes individual stones, pairs, and multi-stone lots, with sizes and details listed on each product page.
+  Updated: 2026-09-30T16:14:43Z
+  Total Products: 6
+- [Citrine](https://www.gemstonesfinder.com/collections/raw-cut-citrine-stones): Discover authentic Citrine gemstones from Brazil, Bolivia & Madagascar. Premium rough & cut citrine stones, healing crystals & abundance stones collection.
+  Updated: 2026-07-14T17:45:57Z
+  Total Products: 2
+- [Tanzanite](https://www.gemstonesfinder.com/collections/raw-faceted-tanzanite-stones-for-): Buy variety of Natural rough Tanzanite stones with our diverse collection of loose stones and rough crystals. Discover the variety of loose Tanzanite with GemstonesFinder.com.
+  Updated: 2026-07-14T18:02:25Z
+  Total Products: 7
+- [Tourmaline](https://www.gemstonesfinder.com/collections/tourmaline-gemstones): Discover premium tourmaline gemstones in vibrant colors. Raw and loose tourmaline stones for jewelry making. October birthstone collection with authentic gems!
+  Updated: 2026-09-30T13:02:06Z
+  Total Products: 21
+- [Peridots](https://www.gemstonesfinder.com/collections/peridot-rough-loose-stones): Explore a stunning collection of Peridot stones at GemstonesFinder. Choose from a variety of options including Facet Rough, Lapidary Rough Peridots, Loose Peridots, and Peridot Crystals. Peridot Stone Deals available in bulk with competitive price.  Shop now for high-quality, handpicked Peridots to add a touch of brilliance to your designs.
+  Updated: 2026-10-09T19:33:57Z
+  Total Products: 11
+- [Garnet](https://www.gemstonesfinder.com/collections/garnet-rough-stones-loose-garnets): Browse loose garnets in green, orange, and red-purple varieties, including tsavorite, spessartite, rhodolite, and rough Mali garnet. Choose from single cut stones, pairs, larger lots, and rough material for lapidary work.
+  Updated: 2026-09-30T16:15:40Z
+  Total Products: 17
+- [Aquamarine](https://www.gemstonesfinder.com/collections/aquamarine-loose-stones-raw-aqua): Discover premium aquamarine loose gems & rough stones. March birthstone collection featuring Brazilian, Pakistani & African aquamarines. Expert healing stones.
+  Updated: 2026-07-14T17:46:07Z
+  Total Products: 4
+- [Ruby](https://www.gemstonesfinder.com/collections/natural-ruby-stones-collection): Discover premium ruby loose gems & rough rubies. July birthstone collection featuring Burmese, Thai & African rubies. Expert healing stones.
+  Updated: 2026-07-14T17:46:05Z
+  Total Products: 11
+- [Sphene / Titanite](https://www.gemstonesfinder.com/collections/natural-sphene-for-): Discover authentic Sphene Titanite gemstones from Pakistan, Madagascar & Brazil. Premium rough & cut sphene stones, rare specimens & collector gems.
+  Updated: 2026-07-18T19:54:43Z
+  Total Products: 3
 - [Facet Rough Gemstones Deals for Gems Cutters / Lapidary Artists](https://www.gemstonesfinder.com/collections/facet-rough-gemstones-deals-for-gems-cutters-lapidary-artists): Experience the art of lapidary and faceting with our facet rough gemstone deals designed for gems cutters and lapidary artists. Source the best quality rough gems and facet them into extraordinary creations.
   Updated: 2026-09-30T16:16:38Z
   Total Products: 9
@@ -717,14 +768,20 @@
   Updated: 2026-06-03T22:30:46Z
   Total Products: 1
 - [Loose Gemstones](https://www.gemstonesfinder.com/collections/loose-gemstones-for-): Explore Natural loose cut gemstones, birthstones, colored stones for jewelry making. Natural emeralds, rubies, sapphires & more.  quality, competitive prices, fast shipping.
-  Updated: 2026-07-14T18:02:28Z
-  Total Products: 48
+  Updated: 2026-10-13T19:21:30Z
+  Total Products: 47
 - [New Arrival Gems](https://www.gemstonesfinder.com/collections/new-arrivals-gemstones): Shop our latest gemstone arrivals! Discover rare precious stones, healing crystals & natural gems.  authentic with free shipping over $50.
   Updated: 2026-10-09T19:33:57Z
   Total Products: 81
+- [Apatite](https://www.gemstonesfinder.com/collections/buy-apatite-gemstones): Shop premium Apatite gemstones at Gemstones Finder. Natural blue & green crystals, healing stones, jewelry grade specimens. Expert curation, fast shipping, satisfaction .
+  Updated: 2026-08-24T12:35:12Z
+  Total Products: 4
+- [Lapis Lazulli](https://www.gemstonesfinder.com/collections/buy-lapis-lazulli-wholesale): Discover authentic Lapis Lazuli stones wholesale. Premium quality crystals, healing stones & gemstones. Fast shipping, bulk pricing available.
+  Updated: 2026-08-24T12:34:18Z
+  Total Products: 3
 - [Loose Precious Stones](https://www.gemstonesfinder.com/collections/loose-precious-stones): Shop loose gemstones in a variety of colors, shapes, and sizes, from individual sapphires and emeralds to mixed stone lots. Browse each listing for its cut, carat weight, and stated origin where provided.
-  Updated: 2026-10-09T19:33:57Z
-  Total Products: 64
+  Updated: 2026-10-13T19:24:00Z
+  Total Products: 65
 
 ## Blogs
 
@@ -781,6 +838,22 @@
     Updated: 2026-09-29T12:42:11Z
     Author: Samina Gulzar
     Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [AI Gemstone Identification: Recognizing Gems from Photos](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/how-ai-identifies-gemstones): AI Gemstone Identification: Recognizing Gems from Photos
+    Updated: 2026-10-13T19:14:52Z
+    Author: Adnan Akram
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [Natural Gemstone Uses: Jewelry, Design & Industry](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/purpose-of-natural-gemstones): Natural Gemstone Uses: Jewelry, Design & Industry
+    Updated: 2026-10-13T19:13:12Z
+    Author: Adnan Akram
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [Gemstone Buying Guide: Quality, Value & Authenticity](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/gemstone-buying-guide-quality-value-authenticity): Gemstone Buying Guide: Quality, Value & Authenticity
+    Updated: 2026-10-15T14:41:17Z
+    Author: Samina Gulzar
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [Artificial Intelligence and Gemstone Discovery Guide](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/artificial-intelligence-and-gemstone-discovery): Artificial Intelligence and Gemstone Discovery Guide
+    Updated: 2026-10-15T19:44:29Z
+    Author: Samina Gulzar
+    Tags: Gemstone and Jewelry Trends, Gemstone Buying Guide
 
 ## Store Pages
 
@@ -796,15 +869,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.gemstonesfinder.com/policies/privacy-policy)
-  Updated: 2025-12-08T17:03:08+05:00
+  Updated: 2025-12-08T12:03:08Z
 - [Shipping Policy](https://www.gemstonesfinder.com/policies/shipping-policy)
-  Updated: 2023-08-04T03:19:25+05:00
+  Updated: 2023-08-03T22:19:25Z
 - [Refund Policy](https://www.gemstonesfinder.com/policies/refund-policy)
-  Updated: 2025-12-08T17:08:04+05:00
+  Updated: 2025-12-08T12:08:04Z
 - [Terms of Service](https://www.gemstonesfinder.com/policies/terms-of-service)
-  Updated: 2023-08-04T03:19:25+05:00
+  Updated: 2023-08-03T22:19:25Z
 - [Contact Information](https://www.gemstonesfinder.com/policies/contact-information)
-  Updated: 2023-08-04T03:19:46+05:00
+  Updated: 2023-08-03T22:19:46Z
 
 ## Optional
 
