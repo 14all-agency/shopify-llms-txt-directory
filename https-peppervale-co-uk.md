@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-10-11T00:00:50.236Z
+- Updated At: 2026-10-23T00:50:37.304Z
 
 ## Products
 
 - [Organic Colours Tank Top Womens](https://peppervale.co.uk/products/organic-colours-tank-top-womens): The Organic Colours tank top is a simple, 100% organic cotton vest available in a wide selection of colours. It's a customer favourite and can be worn as an undervest in winter or as a lightweight, breathable vest in the summer. An ultimate wardrobe staple.
-  Updated: 2026-10-10T22:03:26Z
+  Updated: 2026-10-22T19:05:43Z
   Vendor: Earth Wardrobe
   Product Type: 
   Availability: Available
@@ -387,7 +387,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_May_7_2026_02_03_53_PM.png?v=1786029432
     Price: £35.42 GBP
 - [Tile Print Fitted 3/4 Sleeve Dress](https://peppervale.co.uk/products/tile-print-fitted-3-4-sleeve-dress): Turn heads with the Tile Print Fitted 3/4 Sleeve Dress – a stunning combination of bold print and flattering design. Crafted from thick, stretchy material, this plus-size dress is designed to contour your curves while providing all-day comfort. The slimming panel details and round neckline with a small v creates a sleek, feminine silhouette, while the 3/4 sleeves offer just the right amount of coverage. Perfect for work, evenings out, or special occasions, this dress will quickly become a wardrobe favourite. Product Features:✨ Tile print design – Bold, eye-catching pattern👗 Slimming panels – Flattering fit for curvy figures🖤 Thick, stretchy material – Comfort with shape retention👒 3/4 sleeves – Stylish and versatile coverage📏 Round neck – Classic and elegant neckline with a slight v➕ Plus-size fit – Designed for RockThoseCurves women (recommend sizing up)🚚 Fast dispatch – Ships in 1–2 working days Confident, chic, and curve-enhancing – this RockThoseCurves dress is a must-have addition to your new-season wardrobe.
-  Updated: 2026-09-18T21:19:09Z
+  Updated: 2026-10-16T18:05:53Z
   Vendor: rockthosecurves
   Product Type: dress
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jun_3_2026_09_08_29_PM.png?v=1786029432
     Price: £34.00 GBP
 - [Sequin & Lace Short Sleeve Peplum Blouse](https://peppervale.co.uk/products/sequin-lace-short-sleeve-peplum-blouse): Step into glamour with the Sequin & Lace Short Sleeve Peplum Blouse from RockThoseCurves ✨This stunning top features delicate lace, sparkling sequin accents and a beautifully flattering peplum silhouette that enhances your waist and skims over curves.With its hip-length fit, comfortable stretch fabric and fully lined bodice, it offers both style and confidence in every movement.Machine washable and crafted for plus-size women, it’s the perfect blend of elegance, comfort and practicality — your new go-to party top. ✨ Key Features ✨ Sequin + lace detailing — elegant, glamorous and perfect for evening style 👚 Short sleeves for comfort with a dressy finish 👗 Peplum shape — flattering, waist-enhancing and curve-defining 🧵 Lined bodice for smooth, comfortable coverage 🧺 Machine washable — easy-care party glamour 📏 Hip-length fit for a sleek silhouette 💕 Designed for plus-size curves
-  Updated: 2026-09-20T06:50:07Z
+  Updated: 2026-10-14T19:58:41Z
   Vendor: rockthosecurves
   Product Type: Tops
   Availability: Available
@@ -595,7 +595,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1275.png?v=1786029433
     Price: £41.08 GBP
 - [Flared Hem Studded Butterflies Long Top](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top): 🦋 Add a touch of sparkle to your everyday wardrobe with our Flared Hem Studded Butterflies Long Top. Beautifully designed with shimmering studded butterfly embellishments and a flattering flared hem, this stylish longline top offers the perfect blend of comfort and elegance. The relaxed fit drapes effortlessly, creating a flattering silhouette that's ideal for everyday wear. Perfect for pairing with leggings, jeans or jeggings, this versatile top is long enough to provide extra coverage while keeping your look effortlessly chic. Whether you're shopping, meeting friends or heading out for lunch, this is a piece you'll wear again and again. ✨ Why You'll Love It: 🦋 Sparkling studded butterfly design 👚 Flattering longline length 🌸 Stylish flared hem for a feminine silhouette 🌿 Soft, lightweight and comfortable fabric 💕 Relaxed fit for effortless everyday wear 👖 Perfect with leggings, jeans or jeggings ☀️ Ideal for casual days, holidays and weekends 💖 Designed to complement curves Style with skinny jeans and trainers for a relaxed daytime outfit, or pair with leggings, ankle boots and a statement bag for an effortlessly stylish look. Sparkly • Flattering • Effortlessly Stylish ✨ 💖 A must-have long top from Rockthosecurves™. ✨
-  Updated: 2026-10-01T06:24:46Z
+  Updated: 2026-10-13T06:16:11Z
   Vendor: rockthosecurves
   Product Type: swing top
   Availability: Available
@@ -1173,7 +1173,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
     Price: £39.67 GBP
 - [Super Stretchy Soft Feel High Waist Jeggings](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings): SUPER STRETCHY SOFT FEEL HIGH WAIST JEGGINGS – Sculpting Comfort, Effortless Style Upgrade your everyday essentials with these must-have Super Stretchy Soft Feel High Waist Jeggings from Rockthosecurves™ — designed to hug your curves in all the right places while keeping you comfortable all day long. Crafted from a soft, stretchy fabric, these jeggings offer the perfect balance of flexibility and support. The high waist with elasticated waistband provides a smooth, flattering fit, while the pull-on design makes them easy to wear. Finished with stylish contrast stitching, these jeggings add a subtle edge to a classic look, making them perfect for both casual and dressed-up outfits. ✨ Why You’ll Love Them: 👖 Flattering high waist design 💕 Comfortable elasticated waistband 🌿 Super soft, stretchy fabric ✨ Stylish contrast stitching detail 👚 Easy pull-on jegging style 🌟 Perfect for everyday wear or dressing up ➕ Designed to complement curves Pair with a longline top and trainers for effortless daytime style, or dress them up with a blouse and heels for a sleek, confident look. Comfort. Shape. Everyday style. A wardrobe essential from Rockthosecurves™. ✨
-  Updated: 2026-10-08T07:09:02Z
+  Updated: 2026-10-20T21:23:35Z
   Vendor: rockthosecurves
   Product Type: jeggings
   Availability: Available
@@ -1247,7 +1247,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
     Price: £25.50 GBP
   - [BLACK / UK 20](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418538309)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/JEGGINGS_BLACK.png?v=1786029434
     Price: £25.50 GBP
   - [BLACK / UK 22-24](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings?variant=58787418571077)
@@ -1497,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/SCALLOP_LEGG_GR-SI.png?v=1786029433
     Price: £21.25 GBP
 - [Plain Elastic High Waist Wide Leg Culottes Shorts](https://peppervale.co.uk/products/plain-elastic-high-waist-wide-leg-culottes-shorts): PLAIN ELASTIC HIGH WAIST WIDE LEG CULOTTES SHORTS – Effortless Comfort, Everyday Style Upgrade your everyday wardrobe with these versatile Plain Elastic High Waist Wide Leg Culottes Shorts from Rockthosecurves™ — designed for comfort, movement and easy styling. Featuring a flattering high waist with elasticated waistband, these culottes provide a comfortable pull-on fit that sits perfectly on your curves. The wide leg design creates beautiful movement while offering a relaxed, breathable feel — ideal for warmer days. Crafted from soft, stretchy fabric, they deliver all-day comfort without compromising on style, making them a go-to piece for both casual and dressed-up looks. ✨ Why You’ll Love Them: 👖 Flattering high waist design 💕 Comfortable elasticated waistband 🌿 Soft, stretchy fabric for all-day wear 💃 Stylish wide leg culotte fit ☀️ Lightweight and perfect for warm weather 🌟 Easy to dress up or down ➕ Designed to complement curves Pair with a simple vest and sandals for relaxed daytime style, or dress them up with a blouse and wedges for effortless summer chic. Comfort. Movement. Effortless style. A must-have wardrobe essential from Rockthosecurves™. ✨
-  Updated: 2026-10-09T06:19:02Z
+  Updated: 2026-10-14T07:04:15Z
   Vendor: rockthosecurves
   Product Type: CULOTTES
   Availability: Available
@@ -1695,7 +1695,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
     Price: £22.67 GBP
 - [ZIP UP HOODIE PLUS SIZE JACKET](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket): Stay warm and stylish with our ZIP UP HOODIE PLUS SIZE JACKET, featuring convenient front pockets! From ROCKTHOSECURVES, this long-sleeve jacket will keep you comfortable and confident in any weather.
-  Updated: 2026-10-09T16:32:10Z
+  Updated: 2026-10-21T18:25:12Z
   Vendor: rockthosecurves
   Product Type: Jacket
   Availability: Available
@@ -1901,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
     Price: £26.92 GBP
 - [Tracksuit with Straight Leopard Panels](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels): Take athleisure to the next level with our Tracksuit with Leopard Panels, combining comfort and bold style in one must-have outfit. Crafted with a fierce leopard panel design, this set adds a wild twist to classic loungewear, making it perfect for workouts, errands, or casual days out. The elasticated waist trousers offer a comfortable, flexible fit, while the matching top with leopard accents brings effortless coordination. Designed for plus-size curves, this tracksuit ensures you look and feel fabulous wherever your day takes you. Product Features: 🐆 Leopard panel detailing – Bold, on-trend styling 👖 Elasticated waist trousers – Comfortable and flattering 👕 Coordinated top with panels – Effortless matching look ✨ Versatile design – Perfect for workouts, lounging, or casual outings ➕ Plus-size fit – Designed for sizes 14–28 Stylish, comfortable, and unapologetically bold – this RockThoseCurves tracksuit is your go-to for everyday confidence and standout athleisure style.
-  Updated: 2026-10-01T06:52:27Z
+  Updated: 2026-10-22T06:54:36Z
   Vendor: rockthosecurves
   Product Type: Tracksuit
   Availability: Available
@@ -2484,20 +2484,23 @@
 
 ## Collections
 
+- [Products 0–9 & Symbols](https://peppervale.co.uk/collections/products-0-9-symbols): Browse PepperVale products beginning with numbers and symbols across clothing, home, beauty, gifts and everyday essentials.
+  Updated: 2026-10-08T10:56:35Z
+  Total Products: 1060
 - [Women’s Clothing](https://peppervale.co.uk/collections/womens-clothing): Shop women's clothing at PepperVale, including dresses, tops, knitwear, jackets and easy everyday layers from independent brands, with UK delivery.
-  Updated: 2026-10-09T19:12:04Z
+  Updated: 2026-10-20T16:47:32Z
   Total Products: 13675
 - [Dresses & One-Pieces](https://peppervale.co.uk/collections/dresses-one-pieces): Explore PepperVale’s dresses and one-piece styles, from easy day dresses to standout occasion pieces. Shop women’s fashion with UK delivery and secure checkout.
   Updated: 2026-09-18T22:26:29Z
   Total Products: 1180
 - [Tops & Blouses](https://peppervale.co.uk/collections/tops-blouses): Find everyday tops, blouses and easy layers at PepperVale, selected for colourful UK wardrobes. Shop relaxed essentials and statement pieces with secure checkout.
-  Updated: 2026-10-08T18:39:57Z
+  Updated: 2026-10-20T16:47:32Z
   Total Products: 3206
 - [Knitwear & Sweatshirts](https://peppervale.co.uk/collections/knitwear-sweatshirts): Discover soft knitwear, cosy sweaters and easy sweatshirts at PepperVale, with colourful layers for relaxed UK dressing. Shop securely with UK delivery.
   Updated: 2026-10-08T18:39:57Z
   Total Products: 639
 - [Jackets & Coats](https://peppervale.co.uk/collections/jackets-coats): Layer up with PepperVale’s women’s jackets and coats, from lightweight cover-ups to cosy outerwear for changeable UK days. Shop secure checkout and UK delivery.
-  Updated: 2026-10-07T13:40:58Z
+  Updated: 2026-10-15T08:50:36Z
   Total Products: 1026
 - [Trousers & Shorts](https://peppervale.co.uk/collections/trousers-shorts): Shop PepperVale’s trousers, jeans, joggers and shorts for easy everyday outfits. Discover comfortable women’s separates with UK delivery and secure checkout.
   Updated: 2026-10-02T06:06:11Z
@@ -2512,10 +2515,10 @@
   Updated: 2026-09-18T22:54:46Z
   Total Products: 554
 - [Footwear](https://peppervale.co.uk/collections/footwear): Shop shoes, boots, trainers, sandals and safety footwear at PepperVale, with trusted brands, clear UK delivery information and secure checkout.
-  Updated: 2026-09-18T22:53:02Z
+  Updated: 2026-10-12T11:43:07Z
   Total Products: 847
 - [Skirts](https://peppervale.co.uk/collections/skirts): Shop women’s skirts at PepperVale, from easy mini and midi styles to flowing maxi skirts, selected from independent brands with secure UK checkout.
-  Updated: 2026-10-09T19:12:04Z
+  Updated: 2026-10-19T14:16:32Z
   Total Products: 235
 - [Jumpsuits & Playsuits](https://peppervale.co.uk/collections/jumpsuits-playsuits): Discover women’s jumpsuits, playsuits and easy one-piece outfits at PepperVale, selected from independent brands for work, weekends and holidays.
   Updated: 2026-09-18T22:26:29Z
@@ -2529,6 +2532,9 @@
 - [Bags & Purses](https://peppervale.co.uk/collections/bags-purses): Shop handbags, totes, crossbody bags, purses and everyday carry essentials at PepperVale, selected from independent brands with secure UK checkout.
   Updated: 2026-09-18T22:52:36Z
   Total Products: 478
+- [Home & Living](https://peppervale.co.uk/collections/home-bedding): Shop bedding and home essentials at PepperVale, including bamboo duvet covers and pillowcases, with clear UK delivery information, secure checkout and returns.
+  Updated: 2026-10-22T10:34:57Z
+  Total Products: 166
 - [Accessories](https://peppervale.co.uk/collections/accessories): Shop bags, hats, scarves and useful everyday accessories from independent and trusted brands, with clear UK delivery information and returns.
   Updated: 2026-09-24T10:03:55Z
   Total Products: 5194
@@ -2536,28 +2542,40 @@
   Updated: 2026-10-05T12:23:13Z
   Total Products: 1871
 - [Workwear & Safety Clothing](https://peppervale.co.uk/collections/workwear-safety-clothing): Shop durable UK workwear, hi-vis clothing, safety footwear, work trousers, jackets and trade accessories from trusted brands for men and women.
-  Updated: 2026-10-07T13:40:58Z
+  Updated: 2026-10-12T11:43:07Z
   Total Products: 5586
+- [Safety Boots & Work Trainers](https://peppervale.co.uk/collections/safety-boots-work-trainers): Shop safety boots, protective work trainers and durable occupational footwear from trusted trade brands, selected for UK workplaces and everyday comfort.
+  Updated: 2026-10-12T11:43:07Z
+  Total Products: 503
+- [Hi-Vis Workwear & Reflective Clothing](https://peppervale.co.uk/collections/hi-vis-workwear-reflective-clothing): Shop hi-vis jackets, trousers, work shirts, hoodies and reflective clothing for safer, more visible working days across UK sites and trades.
+  Updated: 2026-09-18T21:39:14Z
+  Total Products: 485
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-10-09T17:54:00Z
-  Total Products: 839
+  Updated: 2026-10-22T14:52:08Z
+  Total Products: 841
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-10-09T18:13:31Z
-  Total Products: 378
+  Updated: 2026-10-22T11:41:31Z
+  Total Products: 374
+- [Bedding & Bed Linen](https://peppervale.co.uk/collections/bedding-bed-linen): Shop breathable pillowcases, fitted sheets, duvet covers and comfortable bed linen in soft natural fabrics for a calmer, more inviting bedroom.
+  Updated: 2026-10-21T13:03:19Z
+  Total Products: 729
+- [Men's Clothing](https://peppervale.co.uk/collections/mens-workwear-clothing): Shop men's clothing at Peppervale — T-shirts, shirts, jumpers, hoodies, jackets, trousers, jeans, shorts and everyday essentials, plus durable workwear and safety layers. UK sellers, clear delivery and easy returns.
+  Updated: 2026-10-17T10:55:49Z
+  Total Products: 7213
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
   Updated: 2026-10-07T10:53:58Z
   Total Products: 2530
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-08T18:39:57Z
+  Updated: 2026-10-15T08:50:36Z
   Total Products: 15067
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-05T12:23:13Z
+  Updated: 2026-10-20T16:47:32Z
   Total Products: 9980
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-06T10:15:01Z
+  Updated: 2026-10-19T14:16:32Z
   Total Products: 15609
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-09T19:12:04Z
+  Updated: 2026-10-21T09:18:22Z
   Total Products: 12076
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
   Updated: 2026-10-08T18:21:12Z
@@ -2572,10 +2590,10 @@
   Updated: 2026-09-18T22:52:49Z
   Total Products: 137
 - [eBay ramp - £20 profit](https://peppervale.co.uk/collections/ebay-ramp-20-profit)
-  Updated: 2026-10-09T19:12:04Z
+  Updated: 2026-10-20T16:47:32Z
   Total Products: 8350
 - [eBay ramp - £20 profit - part 01](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-01)
-  Updated: 2026-10-09T19:12:04Z
+  Updated: 2026-10-20T16:47:32Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 02](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-02)
   Updated: 2026-09-18T21:40:00Z
@@ -2602,16 +2620,16 @@
   Updated: 2026-09-18T23:12:02Z
   Total Products: 973
 - [eBay ramp - below floor or excluded](https://peppervale.co.uk/collections/ebay-ramp-below-floor-or-excluded)
-  Updated: 2026-10-07T13:40:58Z
+  Updated: 2026-10-19T14:16:32Z
   Total Products: 11924
 - [eBay ramp - 100pc cost + 15 net](https://peppervale.co.uk/collections/ebay-ramp-100pc-cost-15-net): Auto-built. Qualifies for 100% markup on cost AND >= 15 GBP net profit at +85% MC markup. Not published to any sales channel.
-  Updated: 2026-10-08T18:28:07Z
+  Updated: 2026-10-21T09:18:22Z
   Total Products: 22496
 - [eBay eligible – stock 3+ and cost ](https://peppervale.co.uk/collections/ebay-eligible-stock-3-cost-): Internal Marketplace Connect source. Products qualify only after all variants pass the Peppervale cost check and at least one variant has Shopify inventory greater than 2.
-  Updated: 2026-10-10T23:40:59Z
-  Total Products: 40532
+  Updated: 2026-10-22T19:20:21Z
+  Total Products: 39632
 - [eBay rollout – audited stock 3+ – 13 Sep 2026](https://peppervale.co.uk/collections/ebay-rollout-audited-stock-3-2026-09-13): Internal Marketplace Connect rollout set generated from the 13 September 2026 Peppervale cost and inventory audit. The live quantity formula remains the final stock safeguard.
-  Updated: 2026-10-08T18:39:57Z
+  Updated: 2026-10-21T09:18:22Z
   Total Products: 35463
 
 ## Blogs
@@ -2996,6 +3014,60 @@
   - [How to read UK safety footwear labels before you buy](https://peppervale.co.uk/blogs/news/how-to-read-uk-safety-footwear-labels-before-you-buy): A practical guide to UK safety footwear standards, labels and ratings, including EN ISO 20345, toe caps, midsoles and slip resistance.
     Updated: 2026-10-10T06:30:06Z
     Author: peppervale.co.uk
+  - [How to read safety footwear markings before you buy](https://peppervale.co.uk/blogs/news/how-to-read-safety-footwear-markings-before-you-buy): A plain-English guide to UK safety footwear markings, from EN ISO 20345 and toe protection to S3 safety boot features and slip ratings.
+    Updated: 2026-10-11T06:30:07Z
+    Author: peppervale.co.uk
+  - [A Comparative Look at Organic versus Conventional Growing Methods](https://peppervale.co.uk/blogs/news/a-comparative-look-at-organic-versus-conventional-growing-methods): A Comparative Look at Organic versus Conventional Growing Methods
+    Updated: 2026-10-12T02:00:26Z
+    Author: PepperVale Editorial Team
+  - [How UK rules keep children’s clothes safe](https://peppervale.co.uk/blogs/news/uk-rules-childrens-clothes-safe): A practical guide to UK children’s clothing safety rules, including cords, nightwear, labelling and what parents should check before buying.
+    Updated: 2026-10-12T06:30:06Z
+    Author: peppervale.co.uk
+  - [Are composite toe boots allowed in UK warehouse jobs?](https://peppervale.co.uk/blogs/news/composite-toe-boots-warehouse-job-uk): A practical UK guide to whether composite toe boots are suitable for warehouse work, what employers require, and how EN ISO 20345 ratings matter.
+    Updated: 2026-10-13T06:30:09Z
+    Author: peppervale.co.uk
+  - [Exploring Renewable Energy Options for Sustainable Home Living](https://peppervale.co.uk/blogs/news/exploring-renewable-energy-options-for-sustainable-home-living): Exploring Renewable Energy Options for Sustainable Home Living
+    Updated: 2026-10-14T05:06:49Z
+    Author: PepperVale Editorial Team
+  - [Men’s thermal tops that keep costs down this winter](https://peppervale.co.uk/blogs/news/mens-thermal-tops-keep-costs-down-winter): A practical UK guide to men’s thermal tops that balance warmth, fabric, fit and price, with clear advice on layers, sizing and value.
+    Updated: 2026-10-14T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to buy pillow protectors for less in the UK](https://peppervale.co.uk/blogs/news/how-to-buy-pillow-protectors-for-less-in-the-uk): A practical UK guide to choosing lower-cost pillow protectors, including fabrics, closures, sizing, washing and when cheap is still good value.
+    Updated: 2026-10-15T06:30:09Z
+    Author: peppervale.co.uk
+  - [Crafting a Zero-Waste Household: A Step-by-Step Guide](https://peppervale.co.uk/blogs/news/crafting-a-zero-waste-household-a-step-by-step-guide): Crafting a Zero-Waste Household: A Step-by-Step Guide
+    Updated: 2026-10-16T00:09:26Z
+    Author: PepperVale Editorial Team
+  - [What bedding you need for a first rented flat](https://peppervale.co.uk/blogs/news/what-bedding-you-need-for-a-first-rented-flat): A practical UK guide to the bedding you need for a first rented flat, from duvet sizes and tog rating to pillows, protectors and spare sets.
+    Updated: 2026-10-16T06:30:06Z
+    Author: peppervale.co.uk
+  - [Girls’ school pinafores that keep cost down](https://peppervale.co.uk/blogs/news/girls-school-pinafores-that-keep-cost-down): A practical UK comparison of girls’ school pinafore dresses, covering fabrics, fit, durability, care and what usually gives better value.
+    Updated: 2026-10-17T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to buy homeware online without getting the basics wrong](https://peppervale.co.uk/blogs/news/how-to-buy-homeware-online-without-getting-the-basics-wrong): A practical guide to buying homeware online in the UK, from bedding sizes and tog rating to materials, care, delivery and value.
+    Updated: 2026-10-18T06:30:03Z
+    Author: peppervale.co.uk
+  - [Cutting Everyday Plastics: Simple Actions with Profound Impacts](https://peppervale.co.uk/blogs/news/cutting-everyday-plastics-simple-actions-with-profound-impacts): Cutting Everyday Plastics: Simple Actions with Profound Impacts
+    Updated: 2026-10-19T00:25:57Z
+    Author: PepperVale Editorial Team
+  - [How to choose waterproof clothing that works in the UK](https://peppervale.co.uk/blogs/news/how-to-choose-waterproof-clothing-that-works-in-the-uk): A practical guide to women’s waterproof clothing in the UK, including fabrics, fit, layers, features and what to choose for daily wear or work.
+    Updated: 2026-10-19T06:30:02Z
+    Author: peppervale.co.uk
+  - [How to get women’s sizing right when buying online](https://peppervale.co.uk/blogs/news/how-to-get-womens-sizing-right-when-buying-online): A practical UK guide to women’s clothing size conversion, including UK, EU and US sizes, fit differences, measurements and common mistakes.
+    Updated: 2026-10-20T06:30:07Z
+    Author: peppervale.co.uk
+  - [The Essential Guide to Eco-Friendly Home Organisations](https://peppervale.co.uk/blogs/news/the-essential-guide-to-eco-friendly-home-organisations): The Essential Guide to Eco-Friendly Home Organisations
+    Updated: 2026-10-21T00:12:02Z
+    Author: PepperVale Editorial Team
+  - [How to buy women’s clothing well in Black Friday sales](https://peppervale.co.uk/blogs/news/how-to-buy-womens-clothing-well-in-black-friday-sales): A practical UK guide to buying women’s clothing in Black Friday sales, with advice on sizing, fabrics, winter staples and avoiding poor buys.
+    Updated: 2026-10-21T06:30:07Z
+    Author: peppervale.co.uk
+  - [How to buy school uniform at  prices](https://peppervale.co.uk/blogs/news/how-to-buy-school-uniform-at--prices): A practical UK guide to buying school uniform in  sales, with tips on sizing, fabric, timing and what to check before you order.
+    Updated: 2026-10-22T06:30:07Z
+    Author: peppervale.co.uk
+  - [Pioneering Ideas in Sustainable Agriculture Practices Explained](https://peppervale.co.uk/blogs/news/pioneering-ideas-in-sustainable-agriculture-practices-explained): Pioneering Ideas in Sustainable Agriculture Practices Explained
+    Updated: 2026-10-23T00:12:22Z
+    Author: PepperVale Editorial Team
 
 ## Store Pages
 
@@ -3023,15 +3095,15 @@
 ## Policies
 
 - [Privacy Policy](https://peppervale.co.uk/policies/privacy-policy)
-  Updated: 2026-08-12T03:26:22+01:00
+  Updated: 2026-08-12T02:26:22Z
 - [Shipping Policy](https://peppervale.co.uk/policies/shipping-policy)
-  Updated: 2026-08-08T13:41:03+01:00
+  Updated: 2026-08-08T12:41:03Z
 - [Refund Policy](https://peppervale.co.uk/policies/refund-policy)
-  Updated: 2026-08-08T13:40:00+01:00
+  Updated: 2026-08-08T12:40:00Z
 - [Terms of Service](https://peppervale.co.uk/policies/terms-of-service)
-  Updated: 2026-08-06T22:56:31+01:00
+  Updated: 2026-08-06T21:56:31Z
 - [Contact Information](https://peppervale.co.uk/policies/contact-information)
-  Updated: 2026-08-06T23:00:18+01:00
+  Updated: 2026-08-06T22:00:18Z
 
 ## Optional
 
