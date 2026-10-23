@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2026-10-03T00:01:01.505Z
+- Updated At: 2026-10-23T00:23:19.396Z
 
 ## Products
 
@@ -2300,21 +2300,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_aa135d3b-74cd-4869-842c-6c6dcd156e0d.jpg?v=1771352796
   Price: ₹149.00 INR
 - [Minion Kevin Keychain - Fun and Adorable Accessory for Fans](https://theworldofnerds.com/products/minion-kevin-keychain): Get your hands on our adorable Minion Kevin Keychain! Perfect for fans of the Minions, this fun accessory adds a playful touch to your keys or bags. Shop now!
-  Updated: 2026-04-30T04:06:10Z
+  Updated: 2026-10-09T12:57:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_89e85936-44a3-4b76-aaea-b131e37064c0.jpg?v=1771352854
   Price: ₹149.00 INR
 - [Harry Potter Keychain - Harry Potter & Hermione Design Accessory](https://theworldofnerds.com/products/harry-patter-hermione-keychain): Unlock the magic with our Harry Potter keychain featuring Harry and Hermione! Perfect for fans, this charming accessory is a must-have to showcase your love for the wizarding world.
-  Updated: 2026-04-22T03:39:49Z
+  Updated: 2026-10-09T12:57:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e93f1b5a-d162-486d-b6d0-6512cd22f0a2.jpg?v=1771352911
   Price: ₹149.00 INR
 - [Harry Potter Hedwig Keychain - Enchanting Owl Companion Accessory](https://theworldofnerds.com/products/harry-potter-with-owl-hedwig-keychain): Unlock the magic of the wizarding world with our Harry Potter Hedwig keychain. Perfect for fans and collectors, this charming accessory features Hedwig, adding a touch of enchantment to your keys!
-  Updated: 2026-06-02T12:19:06Z
+  Updated: 2026-10-09T12:57:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2391,7 +2391,7 @@
   Updated: 2026-09-10T11:12:56Z
   Total Products: 196
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2026-09-25T11:11:00Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 277
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2026-05-17T11:16:55Z
@@ -2493,16 +2493,16 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2026-10-01T11:12:47Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 447
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
-  Updated: 2026-10-01T11:12:47Z
+  Updated: 2026-10-10T11:11:37Z
   Total Products: 119
 - [DC & MARVEL KEYCHAINS](https://theworldofnerds.com/collections/dc-marvel-keychains): Show off your superhero pride with our epic collection of DC and Marvel keychains! Featuring your favorite characters from both iconic universes, these keychains are perfect for fans of all ages. Whether you're team Batman, Wonder Woman, Spider-Man, or Iron Man, our keychains bring your beloved heroes and villains to life in vibrant, durable designs. Made with high-quality materials, these keychains are not just functional, but a stylish way to express your fandom. Add a heroic touch to your everyday essentials or give the perfect gift to a fellow superhero enthusiast!
   Updated: 2026-09-02T11:11:06Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2026-09-25T11:11:00Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 272
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
   Updated: 2026-09-01T11:10:36Z
@@ -2523,7 +2523,7 @@
   Updated: 2026-09-14T11:09:11Z
   Total Products: 213
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2026-09-25T11:11:00Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 571
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2026-02-05T10:58:13Z
@@ -2544,7 +2544,7 @@
   Updated: 2026-09-19T11:10:13Z
   Total Products: 621
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2026-10-01T11:12:47Z
+  Updated: 2026-10-13T11:10:25Z
   Total Products: 433
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2026-08-12T11:11:37Z
@@ -2565,13 +2565,13 @@
   Updated: 2026-04-13T11:16:28Z
   Total Products: 9
 - [NARUTO](https://theworldofnerds.com/collections/naruto): Naruto Collection – Unleash Your Ninja Spirit! Step into the world of shinobi with our exclusive Naruto merchandise, featuring epic apparel, high-quality hoodies, t-shirts, accessories, collectible figurines, and iconic headbands inspired by the Hidden Leaf Village. Whether you're a die-hard fan of Naruto Uzumaki, Sasuke Uchiha, or the legendary Hokages, our collection lets you showcase your ninja pride in style. Train like a shinobi and represent your favorite anime with officially inspired Naruto gear. Shop now and awaken your inner ninja!
-  Updated: 2026-09-20T11:10:03Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 124
 - [DEMON SLAYER](https://theworldofnerds.com/collections/demon-slayer): Demon Slayer Collection – Embrace the way of the blade and immerse yourself in the world of Kimetsu no Yaiba with our exclusive Demon Slayer merchandise. Discover high-quality apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Nichirin sword replicas. Whether you admire Tanjiro’s determination, Nezuko’s resilience, or the fierce Hashira warriors, our collection lets you showcase your love for the series in style. Gear up like a true demon slayer and bring the spirit of the anime to life. Shop now and join the fight against the demons.
   Updated: 2026-08-20T11:10:54Z
   Total Products: 60
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2026-09-23T11:10:24Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 144
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
   Updated: 2026-09-02T11:11:06Z
@@ -2601,7 +2601,7 @@
   Updated: 2026-05-04T11:16:21Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2026-10-01T11:12:47Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 960
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2026-09-15T11:10:12Z
@@ -2619,8 +2619,8 @@
   Updated: 2026-02-11T09:58:38Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they  out!" 🚗✨
-  Updated: 2026-10-02T11:11:59Z
-  Total Products: 1126
+  Updated: 2026-10-22T10:31:13Z
+  Total Products: 1128
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2026-02-12T12:06:28Z
   Total Products: 8
@@ -2634,7 +2634,7 @@
   Updated: 2026-08-02T11:10:10Z
   Total Products: 17
 - [⚡ ALL ANIME MERCHANDISE ⚔️🔥](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2026-09-25T11:11:00Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 412
 - [MATCHBOX](https://theworldofnerds.com/collections/matchbox)
   Updated: 2026-09-19T11:10:13Z
@@ -2679,7 +2679,7 @@
   Updated: 2026-06-08T10:59:27Z
   Total Products: 38
 - [Doraemon](https://theworldofnerds.com/collections/doremon)
-  Updated: 2026-08-27T11:12:01Z
+  Updated: 2026-10-10T11:11:37Z
   Total Products: 7
 - [MOUSE PAD](https://theworldofnerds.com/collections/keyboard-mouse-pad)
   Updated: 2026-04-19T11:18:37Z
@@ -2697,7 +2697,7 @@
   Updated: 2026-06-08T10:59:42Z
   Total Products: 3
 - [POSTER](https://theworldofnerds.com/collections/poster): - The World Of Nerds
-  Updated: 2026-09-23T11:10:24Z
+  Updated: 2026-10-22T10:31:58Z
   Total Products: 110
 - [test](https://theworldofnerds.com/collections/test): - The World Of Nerds
   Updated: 2026-08-25T10:23:09Z
@@ -2709,8 +2709,8 @@
   Updated: 2026-09-10T11:12:56Z
   Total Products: 67
 - [NARUTO d](https://theworldofnerds.com/collections/naruto-1): - The World Of Nerds
-  Updated: 2026-09-02T11:11:06Z
-  Total Products: 73
+  Updated: 2026-10-14T11:11:22Z
+  Total Products: 74
 - [JUJUTSU KAISEN ACTION FIGURES](https://theworldofnerds.com/collections/jujutsu-kaisen-action-figures): - The World Of Nerds
   Updated: 2026-05-07T11:22:19Z
   Total Products: 26
@@ -2772,7 +2772,7 @@
   Updated: 2026-04-26T11:18:31Z
   Total Products: 2
 - [NARUTO KEYCHAINS](https://theworldofnerds.com/collections/naruto-keychains): - The World Of Nerds
-  Updated: 2026-08-16T11:10:42Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 36
 - [NARUTO LIGHTBOX](https://theworldofnerds.com/collections/naruto-lightbox): - The World Of Nerds
   Updated: 2026-02-25T11:51:15Z
@@ -2817,7 +2817,7 @@
   Updated: 2026-04-09T11:18:26Z
   Total Products: 9
 - [ONE PIECE KEYCHAINS](https://theworldofnerds.com/collections/one-piece-keychains): - The World Of Nerds
-  Updated: 2026-09-23T11:10:24Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 30
 - [ONE PIECE LIGHTBOX](https://theworldofnerds.com/collections/one-piece-lightbox): - The World Of Nerds
   Updated: 2026-04-17T06:51:00Z
@@ -2832,7 +2832,7 @@
   Updated: 2026-09-05T11:12:16Z
   Total Products: 105
 - [MARVEL KEYCHAIN](https://theworldofnerds.com/collections/marvel-keychains): - The World Of Nerds
-  Updated: 2026-09-02T11:11:06Z
+  Updated: 2026-10-10T11:11:37Z
   Total Products: 44
 - [DC ACTION FIGURES](https://theworldofnerds.com/collections/dc-action-figures): - The World Of Nerds
   Updated: 2026-04-17T06:58:40Z
@@ -2853,7 +2853,7 @@
   Updated: 2026-08-20T11:10:54Z
   Total Products: 41
 - [SILICON KEYCHAIN](https://theworldofnerds.com/collections/keychains-at-149): - The World Of Nerds
-  Updated: 2026-09-14T11:09:11Z
+  Updated: 2026-10-14T11:11:22Z
   Total Products: 244
 - [POKEMON COMBOS](https://theworldofnerds.com/collections/pokemon-combos): - The World Of Nerds
   Updated: 2026-04-25T11:18:06Z
@@ -2880,13 +2880,13 @@
   Updated: 2026-09-03T11:11:24Z
   Total Products: 46
 - [CAR KEYCHAIN](https://theworldofnerds.com/collections/car-keychain): - The World Of Nerds
-  Updated: 2026-09-23T11:10:24Z
+  Updated: 2026-10-11T11:11:35Z
   Total Products: 19
 - [SHADOW LIGHT BOX](https://theworldofnerds.com/collections/shadow-light-box): - The World Of Nerds
-  Updated: 2026-09-18T11:09:59Z
-  Total Products: 11
+  Updated: 2026-10-22T10:31:13Z
+  Total Products: 13
 - [Onepiece Shadow light Box](https://theworldofnerds.com/collections/onepiece-shadow-light): - The World Of Nerds
-  Updated: 2026-09-18T11:09:59Z
+  Updated: 2026-10-13T11:10:25Z
   Total Products: 3
 - [Dragon Ball Z Shadow light box](https://theworldofnerds.com/collections/dragon-ball-z-1): - The World Of Nerds
   Updated: 2026-06-17T11:13:19Z
@@ -2928,15 +2928,15 @@
 ## Policies
 
 - [Privacy Policy](https://theworldofnerds.com/policies/privacy-policy)
-  Updated: 2024-08-26T14:27:11+05:30
+  Updated: 2024-08-26T08:57:11Z
 - [Shipping Policy](https://theworldofnerds.com/policies/shipping-policy)
-  Updated: 2024-09-04T11:34:11+05:30
+  Updated: 2024-09-04T06:04:11Z
 - [Refund Policy](https://theworldofnerds.com/policies/refund-policy)
-  Updated: 2024-08-26T14:31:04+05:30
+  Updated: 2024-08-26T09:01:04Z
 - [Terms of Service](https://theworldofnerds.com/policies/terms-of-service)
-  Updated: 2024-08-26T14:37:24+05:30
+  Updated: 2024-08-26T09:07:24Z
 - [Contact Information](https://theworldofnerds.com/policies/contact-information)
-  Updated: 2024-08-24T13:04:06+05:30
+  Updated: 2024-08-24T07:34:06Z
 
 ## Alternate Currencies & Languages
 
