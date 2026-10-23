@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-10-07T20:11:51Z
 - Contact Email: k@kdesign.co.nz
-- Updated At: 2026-10-16T00:00:20.303Z
+- Updated At: 2026-10-23T00:30:16.365Z
 
 ## Products
 
@@ -533,6 +533,9 @@
 
 ## Collections
 
+- [Paperweights](https://kdesign.co.nz/collections/frontpage): Choose from six iconic New Zealand animals — the perfect little gift or keepsake. Compact at just 45 × 30mm, each piece weighs a substantial 75g and comes beautifully presented in its own gift box. Made from solid zinc alloy and designed in New Zealand.
+  Updated: 2026-10-13T11:24:39Z
+  Total Products: 1
 - [Cotton Wallets & Coin Purses](https://kdesign.co.nz/collections/travel-wallets-coin-purses): Keep your documents handy in these stylish, 100% recycled cotton wallets and coin purses featuring a range of New Zealand designs.
   Updated: 2026-08-24T02:22:17Z
   Total Products: 2
@@ -542,6 +545,9 @@
 - [Fun & Games](https://kdesign.co.nz/collections/fun-games): Take home some New Zealand playing cards featuring charming, uniquely Kiwi illustrations. A fun and practical keepsake, perfect for gifting or taking on your travels.
   Updated: 2026-08-25T11:25:41Z
   Total Products: 2
+- [Little Treasures](https://kdesign.co.nz/collections/little-treasures): Little treasures that travel well — the perfect reminder of your New Zealand journey.
+  Updated: 2026-10-13T11:24:39Z
+  Total Products: 3
 - [Kitchen, Tableware & Things](https://kdesign.co.nz/collections/kitchen-tableware): From the kitchen to the table, our Kitchen & Tableware collection brings bold New Zealand design into your everyday. Featuring aprons, coasters, placemats, pot mats, shoe bags and oven mitts — practical pieces that make great gifts too.
   Updated: 2026-09-23T13:12:03Z
   Total Products: 15
@@ -571,7 +577,7 @@
 ## Policies
 
 - [Privacy Policy](https://kdesign.co.nz/policies/privacy-policy)
-  Updated: 2024-10-08T09:15:03+13:00
+  Updated: 2024-10-07T20:15:03Z
 
 ## Optional
 
