@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-10-03T00:00:32.759Z
+- Updated At: 2026-10-23T01:18:25.874Z
 
 ## Products
 
@@ -36,8 +36,6 @@
   Price: 17,95 € EUR — 18,95 € EUR
 - [BIO Jacke Rosa Ringel aus Baumwolle für Kinder | bei Lotties günstig bestellen!](https://www.lotties.de/products/kinder-jacke-rosa-ringel-aus-baumwolle): Jacke Rosa Ringel aus Bio Baumwolle für Kinder ✓ als Jäckchen für Drinnen und Draußen ✓ 100 % kbA-Baumwolle mit reaktiver Färbung nach IVN-Richtlinien ✓ jetzt online kaufen!
   Price: 37,95 € EUR
-- [Bonding Top Baby | für intensiven Hautkontakt mit Ihrem Neugeborenen](https://www.lotties.de/products/bonding-top-baby): Das Bonding Top aus 95% kbA-Baumwolle fördert den ersten Kontakt mit Ihrem Neugeborenen und beschleunigt den Milcheinschuss. Sehr dehnbar, maschinenwaschbar.
-  Price: 24,95 € EUR
 - [BIO Jacke Atlantik für Kinder | bei Lotties günstig bestellen!](https://www.lotties.de/products/kinder-jacke-blauer-ringel-aus-baumwolle): BIO Jacke Atlantik für Kinder ✓ als Jäckchen für Drinnen und Draußen ✓ 100 % kbA-Baumwolle mit reaktiver Färbung nach IVN-Richtlinien ✓ jetzt online kaufen!
   Price: 37,95 € EUR
 - [BIO Plüsch Socken für Babys | jetzt hier im Shop bestellen!](https://www.lotties.de/products/baby-socken-plusch-aus-baumwolle): BIO Plüsch Socken für Babys ✓ flauschig warm, 2-lagig mit breitem und weichem Bund am Handgelenk ✓ Größe M - L ✓ 100 % kbA-Baumwolle ✓ jetzt Kontakt aufnehmen!
@@ -340,8 +338,6 @@
   Price: 37,95 € EUR
 - [BIO Jacke Eisbär Rot für Kinder | jetzt bei Lotties bestellen!](https://www.lotties.de/products/kinder-jacke-eisbar-rot-aus-baumwolle): BIO Jacke Eisbär Rot für Kinder ✓ kleine Eisbären-Applikation in Rot ✓ Kinder-Jacke mit durchgehendem Reißverschluss vorn und Kinnschutz ✓ jetzt einkaufen!
   Price: 37,95 € EUR
-- [Kinder Pullover Eisbär Plüsch Natur](https://www.lotties.de/products/kinder-pullover-eisbar-plusch-natur): Mollig warmes Shirt aus Baumwoll-Plüsch mit Eisbären-Applikation. Aus 100% kbA-Baumwolle, mit Knöpfen im Schulterbereich. Maschinenwaschbar, Made in Germany.
-  Price: 39,95 € EUR
 - [BIO Leggings Vögelchen | Hier günstig bestellen!](https://www.lotties.de/products/kinder-leggings-marine-mit-vogelchen-stick-aus-baumwolle): BIO Leggings Vögelchen ✓ gut kombinierbare Leggings mit süßer Vögelchen Applikation ✓ 100 % kbA-Baumwolle mit reaktiver Färbung ✓ Jetzt Kontakt aufnehmen!
   Price: 24,95 € EUR
 - [Braune Cord Latzhose Country aus Bio Baumwolle](https://www.lotties.de/products/kinder-latzhose-country-cord-aus-baumwolle): Braune Cord Latzhose Country aus Bio Baumwolle ✓ Edle Latzhose im modernen Kastanienton erhältlich ✓ Größen 62 bis 116 ✓ mit Knopf am Latz ✓ jetzt kaufen!
@@ -500,7 +496,11 @@
   Price: 11,95 € EUR
 - [Universaltuch aus 100% Bio Frottee | jetzt bei Lotties bestellen!](https://www.lotties.de/products/frottee-universaltuch-natur-aus-baumwolle): Universaltuch aus 100% Bio Frottee ✓ Hautfreundlich und sanft für feine Hautpartien ✓ 2-lagig und Aufhänger am oberen Ende ✓ jetzt online Kontakt aufnehmen!
   Price: 6,95 € EUR
-[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTU5NDI1ODAyLCJsYXN0X3ZhbHVlIjoiOTY5ODk1OTQyNTgwMiJ9)
+- [Waschbeutel | jetzt bei Lotties Naturtextilien günstig einkaufen!](https://www.lotties.de/products/waschbeutel-waschenetz): Waschbeutel ✓ Für die schonende Wäsche von Kleinteilen ✓ geruchsneutral ✓Verschluss: Kordel und Stopper ✓ Material: Filigranfaser ✓ jetzt günstig einkaufen!
+  Price: 13,95 € EUR — 18,95 € EUR
+- [Waschlappen aus Bio Frottee | bei Lotties Naturtextilien bestellen!](https://www.lotties.de/products/waschlappen-aus-frottee): Waschlappen aus Bio Frottee ✓ 2-lagig und Aufhänger am oberen Ende ✓ Hautfreundlich und sanft für feine Hautpartien ✓ jetzt schnell & einfach online bestellen!
+  Price: 4,00 € EUR
+[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTYwMTQ2Njk4LCJsYXN0X3ZhbHVlIjoiOTY5ODk2MDE0NjY5OCJ9)
 
 ## Collections
 
