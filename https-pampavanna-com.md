@@ -6,46 +6,61 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-07T02:57:28Z
 - Contact Email: contact@pampavanna.com
-- Updated At: 2026-07-23T00:00:45.291Z
+- Updated At: 2026-10-23T01:11:41.412Z
 
 ## Products
 
-- [Magnetic Knife Holder 16in – No Drill Stainless Steel Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-16in-stainless-steel-silver): Pampavanna 16in stainless steel magnetic knife holder. Strong magnets, no-drill adhesive strip, easy wall or fridge mount, modern kitchen organizer.
-  Updated: 2026-07-22T20:05:48Z
+- [No-Drill Magnetic Knife Holder 16" - 304 Stainless | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-16in-stainless-steel-silver): 16-inch magnetic knife holder in 304 stainless steel. Mounts with no drilling (3M adhesive), screws, or fridge magnet. Rust-resistant. Free US shipping.
+  Updated: 2026-10-22T07:05:29Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_04_55_12_PM.png?v=1777079809
   Price: $34.99 USD
-- [Magnetic Knife Holder Black – 16" No-Drill Stainless Steel Strip | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-black-16in): Black magnetic knife holder for wall or fridge. 16" stainless steel strip with strong magnets and no-drill adhesive. Modern, durable, and perfect for kitchen storage.
-  Updated: 2026-07-22T10:05:57Z
+- [Black Magnetic Knife Holder 16" - No Drill Mount | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-black-16in): Black 16-inch magnetic knife holder. No-drill 3M adhesive, screw, or fridge mount. 304 stainless steel, rust-resistant. Free US shipping.
+  Updated: 2026-10-21T09:05:28Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_05_14_29_PM.png?v=1777080338
   Price: $34.99 USD
-- [Gunmetal Magnetic Knife Holder 16″ – No Drill Wall or Fridge | Pampavanna](https://pampavanna.com/products/gunmetal-magnetic-knife-holder-16in-stainless-steel): Upgrade your kitchen with Pampavanna’s 16″ gunmetal magnetic knife holder. Strong stainless steel design with powerful magnets. No-drill wall or fridge mount. Free shipping from Texas.
-  Updated: 2026-07-22T03:05:46Z
+- [Gunmetal Magnetic Knife Holder 16" - Exclusive | Pampavanna](https://pampavanna.com/products/gunmetal-magnetic-knife-holder-16in-stainless-steel): Exclusive Gunmetal 16-inch magnetic knife holder. No-drill mount, 304 stainless steel, rust-resistant. Free US shipping from Texas.
+  Updated: 2026-10-22T23:05:29Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_05_26_55_PM.png?v=1777080295
   Price: $34.99 USD
-- [Teak End Grain Cutting Board – Pampavanna Premium Butcher Block with Handles](https://pampavanna.com/products/pampavanna-teak-wood-cutting-board-premium-kitchen-board): Premium teak end grain cutting board with handles and non-slip feet. Durable, knife-friendly butcher block. Ships fast from Texas.
-  Updated: 2026-07-08T20:19:52Z
+- [Teak End Grain Cutting Board - Premium | Pampavanna](https://pampavanna.com/products/pampavanna-teak-wood-cutting-board-premium-kitchen-board): Premium teak end grain cutting board. Durable, knife-friendly, beautiful. Free US shipping.
+  Updated: 2026-10-09T02:55:44Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_May_17_2026_05_35_23_PM.png?v=1779057353
   Price: $99.99 USD
+- [Knife Holder + Teak Board Bundle - Save $15 | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-teak-board-bundle): Bundle and save $15: 16-inch magnetic knife holder (Silver, Black, or Gunmetal) + teak end grain cutting board. Free US shipping.
+  Updated: 2026-10-09T02:55:51Z
+  Vendor: Pampavanna
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_04_55_12_PM.png?v=1777079809
+  - [Silver](https://pampavanna.com/products/magnetic-knife-holder-teak-board-bundle?variant=67204128735307)
+    Availability: Available
+    Price: $119.99 USD
+  - [Black](https://pampavanna.com/products/magnetic-knife-holder-teak-board-bundle?variant=67204128768075)
+    Availability: Available
+    Price: $119.99 USD
+  - [Gunmetal](https://pampavanna.com/products/magnetic-knife-holder-teak-board-bundle?variant=67204128800843)
+    Availability: Available
+    Price: $119.99 USD
 
 ## Collections
 
 - [Kitchen Essentials](https://pampavanna.com/collections/frontpage): Discover Pampavanna’s premium magnetic knife holders designed for modern kitchens. Crafted from durable stainless steel with powerful magnets, our knife holders offer secure storage, space-saving organization, and elegant style for your wall or refrigerator. Available in black, silver, and exclusive gunmetal finishes.
-  Updated: 2026-07-08T20:19:54Z
+  Updated: 2026-07-23T11:14:33Z
   Total Products: 4
 - [Best Sellers](https://pampavanna.com/collections/pampavanna-magnetic-knife-holders): Upgrade your kitchen with Pampavanna’s premium magnetic knife holders. Strong, space-saving, stainless steel strips in silver, black, and gunmetal.
-  Updated: 2026-07-08T20:19:53Z
+  Updated: 2026-07-23T11:14:33Z
   Total Products: 3
 
 ## Blogs
@@ -55,6 +70,18 @@
     Updated: 2026-05-15T02:24:53Z
     Author: Pampavanna
     Tags: kitchen accessories, magnetic knife holder, modern kitchen, RV kitchen, small kitchen, space saving kitchen, wall mounted storage
+  - [How to Install a Magnetic Knife Holder Without Drilling (3 Ways)](https://pampavanna.com/blogs/news/how-to-install-a-magnetic-knife-holder-without-drilling-3-ways)
+    Updated: 2026-10-09T02:56:28Z
+    Author: Pampavanna
+    Tags: guide, installation, no-drill
+  - [Magnetic Knife Holder vs Knife Block: Which Is Better?](https://pampavanna.com/blogs/news/magnetic-knife-holder-vs-knife-block-which-is-better)
+    Updated: 2026-10-09T02:56:47Z
+    Author: Pampavanna
+    Tags: comparison, guide, kitchen-organization
+  - [The Best Way to Store Knives in an RV or Small Kitchen](https://pampavanna.com/blogs/news/the-best-way-to-store-knives-in-an-rv-or-small-kitchen)
+    Updated: 2026-10-09T02:56:55Z
+    Author: Pampavanna
+    Tags: guide, rv, small-kitchen
 
 ## Store Pages
 
@@ -74,15 +101,15 @@
 ## Policies
 
 - [Privacy Policy](https://pampavanna.com/policies/privacy-policy)
-  Updated: 2025-08-06T21:57:40-05:00
+  Updated: 2025-08-07T02:57:40Z
 - [Shipping Policy](https://pampavanna.com/policies/shipping-policy)
-  Updated: 2025-08-18T13:01:35-05:00
+  Updated: 2025-08-18T18:01:35Z
 - [Refund Policy](https://pampavanna.com/policies/refund-policy)
-  Updated: 2025-08-18T12:59:23-05:00
+  Updated: 2025-08-18T17:59:23Z
 - [Terms of Service](https://pampavanna.com/policies/terms-of-service)
-  Updated: 2025-08-18T13:02:16-05:00
+  Updated: 2025-08-18T18:02:16Z
 - [Contact Information](https://pampavanna.com/policies/contact-information)
-  Updated: 2025-08-18T12:56:15-05:00
+  Updated: 2025-08-18T17:56:15Z
 
 ## Optional
 
