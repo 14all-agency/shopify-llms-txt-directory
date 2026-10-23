@@ -6,484 +6,485 @@
 - Timezone: America/New_York
 - Created At: 2023-06-08T01:11:35Z
 - Contact Email: orders@lignans.com
-- Updated At: 2026-07-12T00:00:46.087Z
+- Updated At: 2026-10-23T01:01:34.948Z
 
 ## Products
 
-- [Buy K9 Select Probiotic With Inulin For Dogs - Peanut Butter Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-probiotic): K9 Select Dog Probiotic is specially formulated to promote overall health, improve digestion, and help with recovery during/after antibiotic /illness.
-  Updated: 2026-07-08T21:27:54Z
+- [K9 Select Probiotic for Dogs with Inulin - Peanut Butter Chewable](https://lignans.com/products/k9-select-probiotic): Peanut butter chewable probiotic for dogs with lactobacillus, bifidobacterium and inulin. Supports healthy digestion, gut balance and immune health.
+  Updated: 2026-10-21T20:33:36Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Probiotic-GalleryImage1.jpg?v=1729436591
   Price: $17.99 USD
-- [Buy K9 Select Flaxseed Lignans 20mg For Dogs - Peanut Butter Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-sdg-lignan-for-dogs): Is your dog a picky eater or cannot tolerate fiber? Give our chewable K9 Select Peanut Butter Lignans a try! Most dogs eat these SDG tablets like a treat!
-  Updated: 2026-07-10T00:02:07Z
+- [20mg Peanut Butter SDG Lignans for Dogs | No Fiber | K9 Select](https://lignans.com/products/k9-select-sdg-lignan-for-dogs): Peanut butter flavored chewable flaxseed SDG lignans for dogs, 20mg per tablet with no fiber. Great for picky eaters. Supports healthy hormone balance.
+  Updated: 2026-10-22T16:49:07Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed20mg-GalleryImage1.jpg?v=1733488408
   Price: $21.99 USD
-- [Buy K9 Select HMR Lignans 20mg For Dogs - Peanut Butter Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-hmr-lignans): Our K9 select HMR lignans tablets help limit oxidative stress in dogs and strengthen their immune system. Comes in peanut butter flavor that your dog will love!
-  Updated: 2026-07-11T22:59:37Z
+- [20mg Peanut Butter HMR Lignans for Dogs | K9 Select](https://lignans.com/products/k9-select-hmr-lignans): Peanut butter flavored chewable HMR lignans for dogs, 20mg per tablet from Norway spruce. Supports healthy hormone balance and antioxidant defense.
+  Updated: 2026-10-22T14:01:15Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans20mgPeanutButter-GalleryImage1.jpg?v=1729434536
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/20mg_PB_HMR_Lignans_out_of_stock.jpg?v=1789054751
   Price: $22.99 USD
-- [Buy Sesamin (Sesame Seed Lignans) | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sesamin-sesame-seed-lignans): Lignans for Life Sesame Seed Lignans is one of the best sesamin supplements in the market today! Sesamin blocks fat storage and promotes natural weight loss.
-  Updated: 2026-07-08T21:27:55Z
+- [Sesamin (Sesame Seed Lignans) | 81mg Sesamin | Lignans for Life](https://lignans.com/products/sesamin-sesame-seed-lignans): Stimulant-free sesame seed lignans: 81mg sesamin plus 27mg sesamolin per serving to support healthy metabolism and weight management. 90 capsules.
+  Updated: 2026-10-21T20:28:48Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Image-01.png?v=1733416693
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1.1.png?v=1792482012
   Price: $23.99 USD
-- [Buy K9 Select CoQ10 10mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-coq10): CoQ10 supplements help support cardiovascular and periodontal health in canines. The K9 Select CoQ10 for dogs is very safe to use under veterinary supervision.
-  Updated: 2026-07-08T21:27:56Z
+- [Multi-Vite 9-in-1 Dog Multivitamin Soft Chews | K9 Select](https://lignans.com/products/k9-select-multivitamin): Complete 9-in-1 daily multivitamin for dogs — probiotics, taurine, colostrum, vitamins & minerals in a duck & tuna soft chew. Immune, skin, coat & gut support.
+  Updated: 2026-10-21T09:10:14Z
+  Vendor: Lignans
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Main_Image_7bf5fe2f-def5-4847-b145-b5178d260591.jpg?v=1791384877
+  Price: $22.99 USD
+- [CoQ10 30mg for Dogs | Heart & Energy Support | K9 Select](https://lignans.com/products/k9-select-coq10): CoQ10 for dogs, 30 mg per liquid capsule, to support heart health, cellular energy and antioxidant defense, especially in senior dogs. 60 capsules.
+  Updated: 2026-10-22T00:57:35Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/COQ10-GalleryImage1.jpg?v=1729435403
   Price: $17.99 USD
-- [Buy K9 Select SAMe 200mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-same-200mg): SAMe is recommended for dogs with disease that stress the liver, forcing it to work harder. Supplementing with K9 Choice SAMe can be very helpful for sick dogs.
-  Updated: 2026-07-11T21:01:37Z
+- [K9 Select SAMe 200mg for Dogs | Liver Support | 60 Tablets](https://lignans.com/products/k9-select-same-200mg): Pharmaceutical-grade SAMe 200mg for medium and large dogs. Enteric-coated, nitrogen-packed tablets for liver health and healthy aging. 60 tablets.
+  Updated: 2026-10-21T20:25:54Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe200mg-GalleryImage1.jpg?v=1729436456
   Price: $27.99 USD
-- [Buy SAMe 200mg For People | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-same): Lignans for Life SAMe supplements support a healthy liver by improving metabolism. Our tablets are enteric coated for enhanced bio availability and stability.
-  Updated: 2026-07-08T21:27:57Z
+- [SAMe 200mg | Liver, Mood & Joint Support | Lignans for Life](https://lignans.com/products/lignans-for-life-same): Pharmaceutical-grade SAMe, 200 mg per enteric-coated tablet, to support liver health, positive mood and joint comfort. Nitrogen packed. 60 tablets.
+  Updated: 2026-10-21T20:24:51Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/LFLSAMe-GalleryImage1.jpg?v=1729436544
   Price: $25.99 USD
-- [Buy K9 Choice Milk Thistle For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-choice-milk-thistle): The new K9 Choice Milk Thistle for dogs can benefit dogs with elevated liver enzymes or in need of extra liver support. Consult your vet for dosage suggestions.
-  Updated: 2026-07-08T21:27:57Z
+- [K9 Select Milk Thistle for Dogs | 100 mg Liver Support](https://lignans.com/products/k9-choice-milk-thistle): Milk thistle liver support for dogs: 100 mg per vegetarian capsule, standardized to 80% silymarin. No preservatives, gluten free, non-GMO. 60 servings.
+  Updated: 2026-10-21T20:23:37Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/K9MilkThistle-GalleryImage1.jpg?v=1733488388
   Price: $16.99 USD
-- [Buy K9 Choice Milk Thistle For Dogs - Beef Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-beef-flavored-milk-thistle-for-dogs): Introducing our new liver support for dogs! A delicious beef flavored Milk Thistle chewable that you can give to your dog as a treat or mix with their food!
-  Updated: 2026-07-08T21:27:57Z
+- [K9 Select Beef Flavored Milk Thistle Chewables for Dogs](https://lignans.com/products/k9-select-beef-flavored-milk-thistle-for-dogs): Beef-flavored chewable milk thistle for dogs: 100 mg per tablet, 60 servings. Liver support your dog can take as a treat or mixed into food.
+  Updated: 2026-10-21T20:22:33Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/K9MilkThistleBeef-GalleryImage1.jpg?v=1733404431
   Price: $16.99 USD
-- [Buy Milk Thistle Liver Support For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-milk-thistle): Lignans for Life 100mg milk thistle supplement is standardized to 80% sylimarin, and safe for use by people and pets in need of extra liver support. Order here.
-  Updated: 2026-07-08T21:27:58Z
+- [Milk Thistle 100mg (80% Silymarin) | Lignans for Life](https://lignans.com/products/lignans-for-life-milk-thistle): Lignans for Life Milk Thistle: 100 mg per capsule, standardized to 80% silymarin, to support healthy liver function. 60 vegetarian capsules.
+  Updated: 2026-10-21T20:21:28Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/LFLMilkThistle-GalleryImage1.jpg?v=1732626439
   Price: $16.99 USD
-- [Buy K9 Choice Joint Support (Glucose Alternative) For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-choice-egg-shell-membrane-joint-support): K9 Choice Joint Support improves range of motion, promotes anti-inflammatory response, reduces free radicals, and provides collagen for a healthy coat.
-  Updated: 2026-07-11T04:55:04Z
+- [Eggshell Membrane Joint Support for Dogs | K9 Select](https://lignans.com/products/k9-select-egg-shell-membrane-joint-support): Bacon-flavored eggshell membrane tablets for dogs. A natural glucosamine alternative with collagen and elastin to support mobility and a healthy coat.
+  Updated: 2026-10-22T13:19:36Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/JointSupport-GalleryImage1.jpg?v=1729436171
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1.png?v=1792481607
   Price: $25.99 USD
-- [Buy HMR Lignans 10mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-10-mg): Our 10mg HMR lignans for dogs are derived from Norwegian Spruce knots; can help balance hormone levels, limit oxidative stress, and support immune system.
-  Updated: 2026-07-10T21:00:38Z
+- [HMR Lignans 10mg for Dogs | Norway Spruce | Lignans for Life](https://lignans.com/products/hmr-lignans-10-mg): 10mg HMR lignans from Norway spruce knots for dogs and small pets. Supports healthy hormone balance and antioxidant defense. 90 capsules.
+  Updated: 2026-10-23T00:39:06Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans10mg-GalleryImage1.jpg?v=1729435709
   Price: $18.99 USD
-- [Buy HMR Lignans 20mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-20-mg): Lingans for Life 20mg HMR lignans can help strengthen immune system and balance hormone levels in dogs. Consult your vet before giving your dog new supplements.
-  Updated: 2026-07-11T00:02:06Z
+- [HMR Lignans 20mg for Dogs | Norway Spruce | Lignans for Life](https://lignans.com/products/hmr-lignans-20-mg): 20mg HMR lignans from Norway spruce knots for dogs. Supports healthy hormone balance and antioxidant defense. 90 capsules.
+  Updated: 2026-10-21T09:10:11Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_20mg_out_of_stock.png?v=1781283413
   Price: $22.99 USD
-- [Buy HMR Lignans 40mg For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-90-capsules-40-mg): Our 40mg HMR lignans are derived from Norway spruce trees. Consistent, daily intake can help prevent or limit oxidative stress and support the immune system.
-  Updated: 2026-07-10T17:29:59Z
+- [HMR Lignans 40mg | Norway Spruce | Lignans for Life](https://lignans.com/products/hmr-lignans-90-capsules-40-mg): 40mg HMR lignans from Norway spruce knots for people or dogs. Supports healthy hormone balance and antioxidant defense. 90 human-grade capsules.
+  Updated: 2026-10-21T20:15:52Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_40mg_out_of_stock.png?v=1781283378
   Price: $26.99 USD
-- [Buy HMR Lignans 40mg 2-Pack | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-2-pack-40-mg-hmr-lignans): SPECIAL OFFER: 40mg HMR Lignans 2-pack! Our lignans capsules, made from Norwegian Spruce Pineknots, can help prevent stress and strengthen the immune system.
-  Updated: 2026-07-10T00:02:07Z
+- [HMR Lignans 40mg 2-Pack | Norway Spruce | Lignans for Life](https://lignans.com/products/hmr-lignans-2-pack-40-mg-hmr-lignans): Two bottles of 40mg HMR lignans from Norway spruce knots for people or dogs. Supports healthy hormone balance and antioxidant defense. 180 capsules.
+  Updated: 2026-10-22T14:01:55Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_40mg_2pack_out_of_stock.png?v=1781283505
   Price: $42.99 USD
-- [Buy Flaxseed Lignans 15mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/organic-flaxseed-lignans-15mg): Lignans for Life Concentrated 15mg flaxseed lignans capsules are  organic, derived 100% from flaxseed hulls. Each bottle contains 90 15mg capsules.
-  Updated: 2026-07-08T21:28:00Z
+- [Organic Flaxseed Lignans 15mg | 90 Capsules | Lignans for Life](https://lignans.com/products/organic-flaxseed-lignans-15mg): Organic flaxseed SDG lignans, 15mg per vegetarian capsule, for people or dogs. Made only from organic flax hulls. Gluten free, 90 count.
+  Updated: 2026-10-23T00:01:35Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed15mg-GalleryImage1.jpg?v=1729435560
   Price: $18.99 USD
-- [Buy Flaxseed Lignans 15mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/organic-flaxseed-lignans-15mg-2-pack): Concentrated 15mg Flaxseed Lignans 2-pack contains a total of 180 servings of 15mg capsules. Take capsules directly or sprinkle powder onto food or smoothies.
-  Updated: 2026-07-08T21:28:01Z
+- [Organic Flaxseed Lignans 15mg 2-Pack | Lignans for Life](https://lignans.com/products/organic-flaxseed-lignans-15mg-2-pack): Two bottles of organic flaxseed SDG lignans, 15mg per vegetarian capsule, for people or dogs. Made only from organic flax hulls. Gluten free.
+  Updated: 2026-10-21T20:11:17Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/Flaxseed-Lignans-15mg-2-pack-600x600-1.png?v=1688703489
   Price: $30.99 USD
-- [Buy Flaxseed Lignans 30 mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/organic-flaxseed-lignans-30mg): A bottle contains 90 servings of Lignans for Life 30mg flaxseed lignans that are 100% derived from flaxseed, gluten free, and  USDA Organic. Buy here.
-  Updated: 2026-07-08T21:28:01Z
+- [Organic Flaxseed Lignans 30mg | 180 Capsules | Lignans for Life](https://lignans.com/products/organic-flaxseed-lignans-30mg): Organic flaxseed SDG lignans, 30mg per 2-capsule serving, for people or dogs. Made only from organic flax hulls. Gluten free, 180 vegetarian capsules.
+  Updated: 2026-10-21T20:09:24Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed30mg-GalleryImage1.jpg?v=1729435635
   Price: $27.99 USD
-- [Buy Flaxseed Lignans 30mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/organic-flaxseed-lignan-30mg-2-pack): Get more savings when you buy Lignans for Life Concentrated 30mg Flaxseed Lignans 2-pack! Each bottle contains 180 ct. 15 mg vegetarian capsules. Order here.
-  Updated: 2026-07-08T21:28:02Z
+- [Organic Flaxseed Lignans 30mg 2-Pack | Lignans for Life](https://lignans.com/products/organic-flaxseed-lignan-30mg-2-pack): Two bottles of organic flaxseed SDG lignans, 30mg per 2-capsule serving, for people or dogs. Made only from organic flax hulls. Gluten free.
+  Updated: 2026-10-21T20:08:22Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/Flaxseed-Lignans-30mg-2-pack-600x600-1.png?v=1688703516
   Price: $49.99 USD
-- [Buy Flaxseed Lignans 25mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-25mg): Each concentrated 25mg sdg flaxseed lignans capsule is a natural source of dietary fiber and Omega 3 and 6 fatty acids which help bolster immunity. Order now!
-  Updated: 2026-07-09T13:23:06Z
+- [25mg Flaxseed SDG Lignans | 90 Capsules | Lignans for Life](https://lignans.com/products/sdg-lignans-from-flaxseed-25mg): Concentrated flaxseed SDG lignans, 25mg per vegetarian capsule, for people or dogs. Standardized extract with organic flax hulls. Gluten free, 90 count.
+  Updated: 2026-10-22T23:01:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed25mg-GalleryImage1.jpg?v=1729434803
   Price: $23.99 USD
-- [Buy Flaxseed Lignans 25mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-25-mg-2-pack): Our Concentrated 25mg SDG Flaxseed Lignans 2-Pack Special contains a total of 180 vegetarian capsules for natural hormone support and a stronger immune system.
-  Updated: 2026-07-08T21:28:03Z
+- [25mg Flaxseed SDG Lignans 2-Pack | Lignans for Life](https://lignans.com/products/sdg-lignans-from-flaxseed-25-mg-2-pack): Two bottles of concentrated flaxseed SDG lignans, 25mg per vegetarian capsule, for people or dogs. Standardized extract with organic flax hulls.
+  Updated: 2026-10-21T20:05:24Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/25mg-SDG-Lignans-from-Flaxseed-2-pack-600x600-1.png?v=1688703543
   Price: $35.99 USD
-- [Buy Flaxseed Lignans 35mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg): LIGNANS FOR LIFE TWO BOTTLE SPECIAL. Double the benefits; double the savings! Avail of our Concentrated 35mg SDG Flaxseed Lignans 2-Pack Promo today!
-  Updated: 2026-07-11T02:00:48Z
+- [35mg Flaxseed SDG Lignans 2-Pack | Lignans for Life](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg): Two bottles of concentrated flaxseed SDG lignans, 35mg per vegetarian capsule, for people or dogs. Standardized extract with organic flax hulls.
+  Updated: 2026-10-22T21:50:42Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/35mg-SDG-Lignans-from-Flaxseed-2-pack-600x600-1.png?v=1688703556
   Price: $35.99 USD
-- [Buy Flaxseed Lignans 35mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg-2): Daily intake of Lignans for Life Concentrated 35 mg SDG Flaxseed Lignans Capsules can help boost the immune system and balance hormone levels in the body.
-  Updated: 2026-07-08T21:28:03Z
+- [35mg Flaxseed SDG Lignans | 90 Capsules | Lignans for Life](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg-2): Concentrated flaxseed SDG lignans, 35mg per vegetarian capsule, for people or dogs. Standardized extract with organic flax hulls. Gluten free, 90 count.
+  Updated: 2026-10-22T17:58:07Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed35mg-GalleryImage1.jpg?v=1729434887
   Price: $23.49 USD
-- [Buy Concentrated Flaxseed Hulls Powder For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/flaxseed-hulls-powder-organic-80-mg-7-6-oz-jar): Lignans for Life Flaxseed Hulls Powder help supply the body with valuable Omega 3 and 6 oils and are an excellent source of both soluble and insoluble fiber.
-  Updated: 2026-07-08T21:28:04Z
+- [Organic Flaxseed Hulls Powder | 80mg Lignans | Lignans for Life](https://lignans.com/products/flaxseed-hulls-powder-organic-80-mg-7-6-oz-jar): Organic flaxseed hulls powder with 80mg SDG lignans per scoop for people or dogs. Cold milled, gluten free, nothing added. 7.6 oz  jar, 60 servings.
+  Updated: 2026-10-21T19:58:20Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/FlaxseedBulk-GalleryImage1.jpg?v=1733487569
   Price: $27.99 USD
-- [Buy Flaxseed Hulls Powder 2-Pack For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/flaxseed-hulls-bulk-powder-organic-2-pack): Save more with our Concentrated Flaxseed Hulls 2-pack SPECIAL! Each bottle of contains 7.6 oz of All Natural, Organic bulk flaxseed hulls ground into a powder.
-  Updated: 2026-07-08T21:28:04Z
+- [Organic Flaxseed Hulls Powder 2-Pack | Lignans for Life](https://lignans.com/products/flaxseed-hulls-bulk-powder-organic-2-pack): Two jars of organic flaxseed hulls powder, 80mg SDG lignans per scoop, for people or dogs. Cold milled, gluten free, nothing added.
+  Updated: 2026-10-21T19:59:28Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/Flaxseed-Hulls-Powder-2-pack.png?v=1688703596
   Price: $43.99 USD
-- [Buy K9 Choice Melatonin 1mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/melatonin-1mg-180-capsules): Aside from promoting natural sleep-wake cycle, melatonin may also help reduce stress hormone levels in anxious dogs. Shop K9 Choice 1mg melatonin for dogs here.
-  Updated: 2026-07-08T21:28:04Z
+- [1mg Melatonin Capsules for Small Dogs | 180 Count | K9 Select](https://lignans.com/products/melatonin-1mg-180-capsules): Unflavored 1mg melatonin capsules for small dogs and precise dosing. Supports restful sleep, calm and normal hormone balance. 180 capsules.
+  Updated: 2026-10-21T19:56:15Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1mg-GalleryImage1.jpg?v=1729436236
   Price: $14.49 USD
-- [Buy K9 Select Melatonin 1mg For Dogs - Beef Liver Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-chewable-1-mg-melatonin-for-dogs-beef-flavor-180-tabs): Our K9 Select melatonin supplement is now available in a tasty beef-liver-flavored chewables! A bottle contains 180 servings of 1mg beef melatonin for dogs.
-  Updated: 2026-07-10T16:51:17Z
+- [1mg Beef Melatonin for Small Dogs | 180 Chewables | K9 Select](https://lignans.com/products/k9-select-chewable-1-mg-melatonin-for-dogs-beef-flavor-180-tabs): Beef liver flavored 1mg melatonin chewables for small dogs and precise dosing. Supports restful sleep, calm and normal hormone balance. 180 tablets.
+  Updated: 2026-10-22T14:57:57Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1mgBeef-GalleryImage1_c3e45523-87a1-4e83-900e-4a698e673df7.jpg?v=1733488463
   Price: $14.99 USD
-- [Buy K9 Select Melatonin 3mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/melatonin-3-mg-100-tablets-k9-select-brand-for-dogs): Melatonin is an antioxidant useful in regulating hormones, reducing stress, and promoting better sleep. You can purchase K9 Choice 3mg melatonin for dogs here.
-  Updated: 2026-07-09T17:39:57Z
+- [3mg Unflavored Melatonin for Dogs | 100 Tablets | K9 Select](https://lignans.com/products/melatonin-3-mg-100-tablets-k9-select-brand-for-dogs): Unflavored 3mg melatonin tablets for dogs, ideal for food sensitivities. Supports restful sleep, calm and normal hormone balance. 100 tablets.
+  Updated: 2026-10-21T22:04:27Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mg-GalleryImage1.jpg?v=1729436276
   Price: $13.99 USD
-- [K9 Choice Melatonin for Dogs - 3mg Beef Flavored Chewable Tablets](https://lignans.com/products/k9-select-chewable-3-mg-melatonin-for-dogs-beef-flavor-120-tabs): Like people, dogs produce less melatonin as they age and find it difficult to get quality sleep. With our 3mg melatonin for dogs, your pet will sleep better!
-  Updated: 2026-07-11T21:01:39Z
+- [3mg Beef Melatonin for Dogs | 120 Chewables | K9 Select](https://lignans.com/products/k9-select-chewable-3-mg-melatonin-for-dogs-beef-flavor-120-tabs): Beef liver flavored 3mg melatonin chewables for small and medium dogs. Supports restful sleep, calm and normal hormone balance. 120 tablets.
+  Updated: 2026-10-22T16:49:08Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mgBeef-GalleryImage1.jpg?v=1733488488
   Price: $15.49 USD
-- [K9 Select Melatonin For Dogs - 3mg Peanut Butter Flavor](https://lignans.com/products/k9-choice-chewable-3-mg-melatonin-for-dogs-peanut-butter-flavor-120-tabs): The K9 Select 3mg melatonin for dogs also comes in peanut butter flavored chewables that your dog will love! Each bottle contains 120 tablets of 3mg melatonin.
-  Updated: 2026-07-08T21:28:06Z
+- [3mg Peanut Butter Melatonin for Dogs | 120 Chewables | K9 Select](https://lignans.com/products/k9-choice-chewable-3-mg-melatonin-for-dogs-peanut-butter-flavor-120-tabs): Peanut butter flavored 3mg melatonin chewables for small and medium dogs. Supports restful sleep, calm and normal hormone balance. 120 tablets.
+  Updated: 2026-10-22T04:01:25Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mgPeanut-GalleryImage1.jpg?v=1733488435
   Price: $16.49 USD
-- [Buy K9 Select Melatonin 5mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-melatonin-5-mg-180-tablets): A daily dose of 5mg melatonin for dogs may help reduce symptoms of stress in canines, including refusal to eat, excessive pacing/panting, and whimpering.
-  Updated: 2026-07-10T21:00:38Z
+- [5mg Melatonin for Dogs | 180 Tablets | K9 Select](https://lignans.com/products/k9-select-melatonin-5-mg-180-tablets): Human-grade 5mg melatonin tablets for dogs. Supports restful sleep, calm and normal hormone balance. 180 tablets, dosed per the UT vet school protocol.
+  Updated: 2026-10-21T19:50:15Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/5mg-GalleryImage1.jpg?v=1729435138
   Price: $18.99 USD
-- [Buy Melatonin 6mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-melatonin-6mg-120-capsules): Our 6mg melatonin capsules is safe for humans and dogs. Melatonin supplements help regulate sleep and hormones, and reduce stress/anxiety in humans and animals.
-  Updated: 2026-07-10T11:08:57Z
+- [6mg Melatonin Capsules for People & Dogs | Lignans for Life](https://lignans.com/products/lignans-for-life-melatonin-6mg-120-capsules): Human-grade 6mg melatonin capsules for people or dogs. Supports restful sleep, calm and normal hormone balance. Regular release, 120 capsules.
+  Updated: 2026-10-21T19:48:28Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/6mg-GalleryImage1.jpg?v=1729435343
   Price: $15.99 USD
-- [Buy K9 Select Melatonin 6mg For Dogs - Beef Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/6-mg-melatonin-for-dogs-beef-flavor): Beef flavored melatonin tablets for dogs in 1mg, 3mg, and 6mg doses. Supports Cushing's disease management, anxiety relief, and healthy sleep cycles.
-  Updated: 2026-07-11T00:08:16Z
+- [6mg Beef Melatonin for Dogs | 90 Chewables | K9 Select](https://lignans.com/products/6-mg-melatonin-for-dogs-beef-flavor): Beef flavored 6mg melatonin chewables for dogs. Supports restful sleep, calm and normal hormone balance. Dosed per the UT vet school protocol.
+  Updated: 2026-10-22T03:41:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Screenshot2024-10-20at16.11.11.png?v=1729437101
   Price: $19.99 USD
-- [HMR Multi-Formula 30mg Beef Flavored Tablets](https://lignans.com/products/hmr-multi-formula-30mg-beef): HMR lignans 30mg beef flavored tablets for dogs — all-in-one formula with lignans, melatonin, and milk thistle for complete Cushing's disease support.
-  Updated: 2026-07-11T19:24:37Z
-  Vendor: Lignans
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/30Beef-GalleryImage1_dc86eba4-2401-4b28-a67d-7e59c065a56d.jpg?v=1729436066
-  Price: $31.99 USD
-- [HMR Multi-Formula 20mg Capsules](https://lignans.com/products/hmr-multi-formula-20mg-capsules): HMR lignans 20mg capsules for dogs — all-in-one formula with lignans, melatonin, and milk thistle for complete Cushing's disease support.
-  Updated: 2026-07-11T21:01:37Z
-  Vendor: Lignans
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/20Unflavored-GalleryImage1.jpg?v=1729436010
-  Price: $27.49 USD
-- [HMR Multi-Formula 10mg Tablets Peanut Butter Flavored](https://lignans.com/products/hmr-multi-formula-10mg-peanut-butter): HMR lignans 10mg peanut butter tablets for dogs — an all-in-one formula with lignans, melatonin, and milk thistle for complete Cushing's disease support.
-  Updated: 2026-07-11T17:07:28Z
+- [HMR Multi-Formula 10mg for Dogs | Peanut Butter | K9 Select](https://lignans.com/products/hmr-multi-formula-10mg-peanut-butter): HMR lignans, melatonin and milk thistle in one peanut butter tablet for dogs. Supports hormone balance, calm and liver health. 90 tablets.
+  Updated: 2026-10-21T19:55:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/10PeanutButter-GalleryImage1.jpg?v=1729435882
   Price: $21.49 USD
-- [K9 Select SAMe 225mg for Dogs | Liver & Joint Support](https://lignans.com/products/k9select-same-225mg): K9 Select SAMe 225mg tablets for dogs. High-dose liver, joint, and mood support for larger dogs. 90 tablets of pharmaceutical-grade S-Adenosyl methionine.
-  Updated: 2026-07-08T21:28:09Z
+- [K9 Select SAMe 225mg for Dogs | Liver Support | 60 Tablets](https://lignans.com/products/k9select-same-225mg): High-strength SAMe 225mg for medium and large dogs. Enteric-coated, nitrogen-packed tablets for liver health and healthy aging. 60 tablets from K9 Select.
+  Updated: 2026-10-21T19:42:07Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe225mg-GalleryImage1.jpg?v=1729436493
   Price: $26.99 USD
-- [K9 Select SAMe 90mg for Dogs | Liver & Joint Support](https://lignans.com/products/k9select-same-90mg): K9 Select SAMe 90mg tablets for dogs. Supports liver health, joint function, and mood in dogs. 90 tablets of pharmaceutical-grade S-Adenosyl methionine.
-  Updated: 2026-07-10T18:46:48Z
+- [K9 Select SAMe 90mg for Dogs | Liver Support | 60 Tablets](https://lignans.com/products/k9select-same-90mg): SAMe 90mg for small and medium dogs. Enteric-coated, nitrogen-packed tablets for liver health and healthy aging. 60 tablets from K9 Select.
+  Updated: 2026-10-21T19:41:16Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe90mg-GalleryImage1.jpg?v=1729436392
   Price: $19.99 USD
-- [K9 Select 6MG Peanut Butter Melatonin for Dogs](https://lignans.com/products/6mg-peanut-butter-melatonin-for-dogs): K9 Select 6mg peanut butter melatonin for dogs. Supports Cushing's disease, anxiety relief, and healthy sleep. Dog-friendly chewable formula.
-  Updated: 2026-07-11T02:01:28Z
+- [6mg Peanut Butter Melatonin for Dogs | 120 Chewables | K9 Select](https://lignans.com/products/6mg-peanut-butter-melatonin-for-dogs): Peanut butter flavored 6mg melatonin chewables for dogs. Supports restful sleep, calm and normal hormone balance. Dosed per the UT vet school protocol.
+  Updated: 2026-10-21T19:38:02Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/6mgPeanut-GalleryImage1.jpg?v=1733488560
   Price: $20.99 USD
-- [K9 Select SAMeThistle Pro | Liver Support for Dogs | Lignans for Life](https://lignans.com/products/k9-select-samethistle-pro): SAMe and milk thistle supplement for dogs. K9 Select SAMeThistle Pro supports liver health, detoxification, and joint function. Natural canine formula.
-  Updated: 2026-07-09T02:04:48Z
+- [K9 Select SAMeThistle - Liver Supplement | Lignans For Life](https://lignans.com/products/k9-select-samethistle-pro): SAMe and milk thistle liver supplement for dogs. K9 Select SAMeThistle Pro delivers 225mg SAMe and 82mg silybin per tablet to support healthy liver function.
+  Updated: 2026-10-22T10:28:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe_Thistle_Pro_3D.png?v=1752659664
   Price: $29.99 USD
-- [K9 Prime - 200mg SAMe](https://lignans.com/products/k9-prime-200mg-same): K9 Prime SAMe 200 mg For Dogs Pharmaceutical Grade. 60 tablets. 60 servings. SAMe, also known as S-Adenosyl L-Methionine, is a dietary supplement used for liver support. Our K9 SAMe is designed for dogs. Each bottle contains 60 tablets of 400 mg of S-Adenosyl-L-Methionine Disulfate Tosylate and a net of 200 mg of SAMe per tablet. Our SAMe is enteric coated, which enhances bioavailability and stability. SAMe is often recommended for dogs with Canine Cushing's Disease because this adrenal disorder causes stress on the liver and forces the liver to work harder. Supplementation with SAMe, which is naturally occurring in the body, can be very helpful for ailing dogs because naturally occurring SAMe is used up quickly when the liver is overworked.* SAMe supports a healthy liver by improving metabolism in the liver. SAMe is a nutrient that carries and donates methyl molecules necessary to facilitate the manufacture of DNA and brain neurotransmitters. SAMe boosts hepatic levels of the antioxidant glutamine. It is formed in the body by an enzymatic reaction between adenosine-triphosphate (ADP) and methionine. SAMe works closely with folic acid and vitamin B-12 and functions as a methyl donor for the manufacturing of phosphatidylcholine and L-cystein, both of which are necessary for maintaining liver health. SAMe levels are greatly reduced in the elderly and supplementation can be very beneficial when the liver is stressed over overworked. SAMe contains antioxidants that help reduce oxygen free radicals. SAMe is used for mood support and healthy liver functions. It provides nutritional support for the liver and helps return normal liver function.* Our SAMe is packaged with nitrogen. This reduces the oxygen content in the package, which helps prevent the breakdown of the product and keeps it fresh for a longer period of time. This helps prevent oxidation. Note: Keep product refrigerated How much SAMe should I give my dog? For medium sized dogs 21 lbs to 40 lbs: give 1 tablet per day. For large dogs 41 lbs to 80 lbs: give 2 tablets per day. For very large dogs over 80 lbs: give 3-4 tablets per day. Our SAMe is best for dogs over 20 lbs; however, for small dogs under 20 lbs: give 1/2 tablet per day. When the tablet in cut in half, the second half must be thrown away because when the enteric coating is cut, the product loses bioavailability and stability. SAMe should be ingested whole. It is usually recommend to give SAMe on an empty stomach; however, it can be given to dog in peanut butter, cheese, a pill pocket, a small amount of food, etc. if necessary. If your dog will not take it, you may cut/crush the tablet, but it must be given to dog immediately as it is an enteric coated tablet. Note: Another product to consider is milk thistle for liver support SAMe and Milk Thistle are often used together for added benefits.
-  Updated: 2026-07-08T21:28:10Z
-  Vendor: Lignans for Life
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Screenshot2025-09-16at13.12.57.png?v=1758560691
-  Price: $27.99 USD
-- [Kitty Cat Select - 1MG Beef flavored chewable tables - 180 tablets](https://lignans.com/products/kitty-cat-select-1mg-beef): Beef-flavored 1mg melatonin chewables for cats—supports restful sleep, reduces anxiety, and promotes calm. Easy-to-administer, vet-recommended supplement made with premium ingredients and tested for purity. Perfect for travel, stress, and nightly routines.
-  Updated: 2026-07-08T21:28:11Z
+- [All-Natural Cat Melatonin | Lignans for Life](https://lignans.com/products/kitty-cat-select-1mg-beef): Help your cat settle into a calmer nighttime routine with cat melatonin from Lignans for Life. Explore easy-to-administer beef-flavored chewables for felines.
+  Updated: 2026-10-21T19:34:25Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/B0FS26PFVTlisting-01.png?v=1762079454
   Price: $14.99 USD
-- [Kitty Cat Select - 10MG HMR lignans](https://lignans.com/products/kitty-cat-select-10mg-hmr-lignans): 10mg HMR lignan supplement for cats—supports hormonal balance, adrenal health, and immune function. Easy-to-administer capsules, third-party tested for purity. Ideal for aging cats or those needing natural hormone support.
-  Updated: 2026-07-08T21:28:11Z
+- [HMR Lignans for Cats | Lignans for Life](https://lignans.com/products/kitty-cat-select-10mg-hmr-lignans): HMR lignans for cats, made simple. Explore Lignans for Life’s 10mg capsules, a convenient option for adding lignans to your cat’s everyday wellness routine.
+  Updated: 2026-10-21T19:11:48Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/B0FS26D8T8listing-01.png?v=1762080075
   Price: $19.99 USD
-- [Flaxseed (SDG) Lignans 40mg | Canine Formula | 90 Vegetarian Capsules](https://lignans.com/products/flaxseed-sdg-lignans-40mg): Flaxseed SDG lignans 20mg canine formula for dogs with Cushing's disease. Natural hormonal support in 90 vegetarian capsules. HMR Lignan alternative.
-  Updated: 2026-07-11T13:15:57Z
+- [Flaxseed (SDG) Lignans 40mg for Dogs | Fiber-Free | K9 Select](https://lignans.com/products/flaxseed-sdg-lignans-40mg): Concentrated, fiber-free flaxseed SDG lignans for dogs in 40mg vegetarian capsules. Supports healthy hormone metabolism. An alternative to HMR lignans.
+  Updated: 2026-10-22T03:41:26Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/FlaxseedSDGLignans_40mg_listing-01.png?v=1779889690
   Price: $21.99 USD
-- [Flaxseed (SDG) Lignans 20mg | Canine Formula | 90 Vegetarian Capsules](https://lignans.com/products/flaxseed-sdg-lignans-20mg): Flaxseed SDG lignans 20mg canine formula for dogs with Cushing's disease. Natural hormonal support in 90 vegetarian capsules. Lignans For Life.
-  Updated: 2026-07-10T09:01:23Z
+- [Flaxseed (SDG) Lignans 20mg for Dogs | Fiber-Free | K9 Select](https://lignans.com/products/flaxseed-sdg-lignans-20mg): Fiber-Free flaxseed SDG lignans for dogs in 20mg vegetarian capsules. Supports healthy hormone metabolism and adrenal function. Ideal for smaller dogs.
+  Updated: 2026-10-22T04:59:55Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/FlaxseedSDGLignans_20mglisting_-01.png?v=1779889652
   Price: $18.99 USD
+- [Calming Soft Chews for Dogs - Melatonin Peanut Butter | K9 Select](https://lignans.com/products/k9-select-calming-soft-chews): Peanut butter calming soft chews for dogs with melatonin, L-theanine, chamomile & valerian. Eases stress, hyperactivity & promotes relaxation - 120 treats.
+  Updated: 2026-10-21T09:17:26Z
+  Vendor: Lignans for Life
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Main_Image.jpg?v=1791384765
+  Price: $23.99 USD
 
 ## Collections
 
 - [Dog & Human Lignan Supplements | Lignans for Life](https://lignans.com/collections/all): Want to balance your dog's hormone health, reduce cholesterol, and more? Browse our products on this page. Call (480) 899-0713 or visit our site to learn more.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 48
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 49
 - [Uncategorized](https://lignans.com/collections/uncategorized): Discover other Lignans For Life Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 5
 - [People Products](https://lignans.com/collections/people-products): Balance your hormonal health, reduce cholesterol, and more with Lignans For Life's Flaxseed Products for People. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 19
 - [HMR Lignans](https://lignans.com/collections/hmrlignans): Balance and support you and your dog's hormone levels with Lignans For Life's HMR Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 11
 - [Dog Products](https://lignans.com/collections/dogs): Improve your dog's overall health and combat Canine Cushing's Disease with our natural remedies here at Lignans For Life. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 41
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 42
 - [Featured Products](https://lignans.com/collections/featured): Discover Lignans For Life Featured Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 6
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 8
 - [Flaxseed](https://lignans.com/collections/flaxseed): Browse Lignans For Life's Flaxseed products and find out how they can improve you and your dog's overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 13
 - [SDG/Flaxseed Lignans](https://lignans.com/collections/sdgflaxseedlignans): Browse Lignans For Life's SDG/Flaxseed products and find out how they can improve you and your dog's overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 13
 - [Lignans Health Supplements | Lignans for Life](https://lignans.com/collections/lignans): Browse our Lignans products and find out how they can improve overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 15
 - [Melatonin](https://lignans.com/collections/melatonin): Improve you and your dog's sleep, reduce stress and anxiety, regulate hormones, and more with Lignans For Life's Melatonin Products. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 13
-- [Liver Support](https://lignans.com/collections/liversupport): Achieve a healthy and worry-free liver with Lignans For Life's Liver Support products. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 14
+- [Liver Support](https://lignans.com/collections/liversupport): Liver support supplements for dogs, including milk thistle, SAMe, and SAMeThistle Pro, a Denamarin alternative. Shop Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 13
 - [Joint Support](https://lignans.com/collections/jointsupport): Improve your joint health, stability, and flexibility with Lignans For Life's Joint Support Products. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-21T11:15:40Z
   Total Products: 2
 - [Other](https://lignans.com/collections/other): Discover other Lignans For Life Products on this page.Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 6
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 7
 - [Sesamin](https://lignans.com/collections/sesamin): Want to lower cholesterol, stimulate weight loss, break down fatty acids, and more? Browse Lignans For Life's Sesamin products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-07-08T21:39:55Z
+  Updated: 2026-10-19T11:11:41Z
   Total Products: 1
 - [Melatonin For People](https://lignans.com/collections/melatonin-people-products): Get quality sleep with Lignans for Life melatonin sleep aid! This supplement is carefully formulated to promote calm, relaxation, and natural sleep-wake cycle.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-21T11:15:40Z
   Total Products: 1
-- [Liver Support For People](https://lignans.com/collections/liver-support): Achieve a healthier liver with Lignans for Life’s liver support products! Browse our liver supplements here and feel free to contact us for more information.
-  Updated: 2026-07-08T21:39:57Z
+- [Liver Support For People](https://lignans.com/collections/liver-support): Looking for a liver support supplement? Add targeted support to your routine with a liver support milk thistle supplement from Lignans for Life. Shop now.
+  Updated: 2026-10-16T11:17:52Z
   Total Products: 2
 - [Joint Support For People](https://lignans.com/collections/joint-support): Browse Lignans for Life joint supplements. Our joint support products contain raw nutritional materials necessary to promote joint health, stability and flexibility.
-  Updated: 2026-07-08T20:57:51Z
+  Updated: 2026-08-10T16:18:43Z
   Total Products: 1
-- [All People Products](https://lignans.com/collections/all-products): Discover the health benefits of flaxseed lignans. We have natural supplements specifically-made for men and women. Shop Lignans for Life People Products here.
-  Updated: 2026-07-11T11:13:21Z
+- [All People Products](https://lignans.com/collections/all-products): Give your wellness routine a natural boost with Lignans for Life. Explore flaxseed lignans and health supplements formulated for all people. Shop now!
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 17
-- [Lignan Health Supplements | Lignans for LIfe & K9 Select](https://lignans.com/collections/lignans-dogs): Our lignans for dogs products support overall health and promote ideal cortisol levels in dogs. Suitable for dogs with low fiber tolerance. Shop here.
-  Updated: 2026-07-11T11:13:21Z
+- [Lignan Supplements for Dogs at Every Stage of Life, Including Dogs with Cushing’s](https://lignans.com/collections/lignans-dogs): Find lab-tested lignans for dogs that support healthy hormone balance and daily wellness. Suitable for pet parents caring for dogs with Cushing’s. Shop Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 21
-- [Melatonin For Dogs](https://lignans.com/collections/melatonin-dogs): Shop K9 Select melatonin for dogs in flavored chewable tablets, carefully formulated to promote calm, relaxation, and natural sleep-wake cycle.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 12
-- [Liver Support For Dogs](https://lignans.com/collections/liver-support-dogs): Keep your pet’s liver healthy! Browse our selection of liver supplement for dogs. *Consult your vet before giving your dog new supplements.
-  Updated: 2026-07-11T11:13:21Z
+- [Dog Melatonin for Calmer Days and Restful Nights](https://lignans.com/collections/melatonin-dogs): Shop lab-tested melatonin for dogs, formulated to support hormone balance, calm, and healthy sleep-wake patterns. Order today for daily canine wellness.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 13
+- [Liver Support For Dogs](https://lignans.com/collections/liver-support-dogs): Liver support supplements for dogs, including milk thistle, SAMe, and SAMeThistle Pro, a Denamarin alternative. Shop Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 11
-- [Joint Support For Dogs | K9 Select](https://lignans.com/collections/joint-support-dogs): Shop joint supplements for dogs. Our products provide the nutrition necessary to promote joint health, stability and flexibility, plus healthier skin and coat.
-  Updated: 2026-07-11T11:13:21Z
+- [Joint Support For Dogs | K9 Select](https://lignans.com/collections/joint-support-dogs): Help your dog stay active through every stage of life with Lignans for Life's joint support for dogs. Shop proven, tested supplements for daily wellness today!
+  Updated: 2026-10-21T11:15:40Z
   Total Products: 1
-- [Dog Health Supplements | Lignans for life & K9 Select](https://lignans.com/collections/all-products-dogs): We carry a wide selection of dog supplements to provide your pets with essential nutrients and boost their immune system. Shop our products for dogs here.
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 40
-- [Human Health Supplements | Lignans for Life](https://lignans.com/collections/lignans-people-products): Experience the health benefits of Lignans for Life today! We have dietary supplements specifically formulated for men and women. Shop our products here.
-  Updated: 2026-07-11T11:13:21Z
+- [Dog Health Supplements | Lignans for life & K9 Select](https://lignans.com/collections/all-products-dogs): Give your dog’s daily wellness routine a natural boost. Explore Lignans for Life supplements for dogs, made to support their everyday health and well-being.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 41
+- [Human Health Supplements | Lignans for Life](https://lignans.com/collections/lignans-people-products): Make natural wellness part of your daily routine with Lignans. Shop supplements formulated for the unique needs of people from Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 14
-- [Milk Thistle for Dogs](https://lignans.com/collections/milk-thistle-for-dogs)
-  Updated: 2026-07-08T21:39:57Z
+- [Milk Thistle for Dogs](https://lignans.com/collections/milk-thistle-for-dogs): Searching for milk thistle for dogs? Lignans for Life offers natural supplement options to complement your pet’s everyday wellness. Explore our products today.
+  Updated: 2026-10-19T11:11:41Z
   Total Products: 2
 - [AVADA - Best Sellers](https://lignans.com/collections/avada-best-sellers)
-  Updated: 2026-07-11T11:13:21Z
-  Total Products: 48
-- [SamE | Liver Support | K9 Select](https://lignans.com/collections/same): SAMe contains antioxidants that help reduce oxygen free radicals. SAMe is used for mood support and healthy liver functions. It provides nutritional support for the liver and helps return normal liver function.
-  Updated: 2026-07-11T11:13:21Z
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 43
+- [Daily Liver and Wellness Support Starts with SAMe for Dogs](https://lignans.com/collections/same): Shop lab-tested SAMe supplements for dogs, formulated to support liver health, hormone balance, and daily wellness. Order today from Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
   Total Products: 4
-- [Cat Products](https://lignans.com/collections/cat-products)
-  Updated: 2026-07-08T21:40:09Z
+- [Cat Products](https://lignans.com/collections/cat-products): Good nutrition goes beyond the food bowl. Discover natural cat supplements from Lignans for Life, with thoughtful formulas for your cat’s everyday wellness.
+  Updated: 2026-10-21T08:36:00Z
   Total Products: 2
 - [Melatonin for Cats](https://lignans.com/collections/melatonin-for-cats)
-  Updated: 2026-07-08T21:40:09Z
+  Updated: 2026-10-21T08:36:00Z
   Total Products: 1
 - [Lignans for Cats](https://lignans.com/collections/lignans-for-cats)
-  Updated: 2026-07-08T21:40:09Z
+  Updated: 2026-10-10T11:13:28Z
   Total Products: 1
+- [New Products](https://lignans.com/collections/new-products): Two new K9 Select soft chews for dogs - 1mg melatonin calming chews and a 9-in1 daily multivitamin. For dogs who won't take a pill. Third-party tested.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 4
+- [New Products (Copy)](https://lignans.com/collections/new-products-copy): Two new K9 Select soft chews for dogs - 1mg melatonin calming chews and a 9-in1 daily multivitamin. For dogs who won't take a pill. Third-party tested.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 6
+- [Dog Melatonin for Calmer Days and Restful Nights v2](https://lignans.com/collections/melatonin-dogs-v2): Every dog has their own rhythm. Some just need a little help finding it. Our melatonin supplements for dogs support healthy hormone balance, encourage a sense of calm, and help promote more consistent sleep. Lab-tested for purity and easy to fold into your pup’s daily wellness routine, even for dogs living with Cushing's.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 13
+- [Daily Liver and Wellness Support Starts with SAMe for Dogs](https://lignans.com/collections/same-v2): Shop lab-tested SAMe supplements for dogs, formulated to support liver health, hormone balance, and daily wellness. Order today from Lignans for Life.
+  Updated: 2026-10-22T11:13:43Z
+  Total Products: 4
 
 ## Blogs
 
 - [Health Articles & Guides](https://lignans.com/blogs/articles): Articles and guides on lignans, natural supplements, Cushing's disease in dogs, and health topics for people and pets — from Lignans For Life.
   - [Cushings in Dogs:  Options Overview](https://lignans.com/blogs/articles/cushings-in-dogs--options-overview): <p><meta charset="UTF-8"><span>A complete overview of Cushing's disease  options in dogs — pharmaceutical, natural, and combination approaches clearly explained.</span><span></span></p>
-    Updated: 2026-06-25T06:58:10Z
+    Updated: 2026-09-22T09:00:18Z
     Author: admin
     Tags: Blog, Cushings disease, dog health
-  - [Diet for Dogs with Cushing's Disease: What to Feed (and What to Avoid)](https://lignans.com/blogs/articles/diet-for-dogs-with-cushings-disease): <p><meta charset="UTF-8"><i><span>Diet doesn't  Cushing's disease in dogs — but what you feed directly affects how well your dog manages it. Here's the practical guide: what to avoid, what to feed, and why it matters.</span></i><span></span></p>
-    Updated: 2026-06-25T06:58:39Z
+  - [Diet for Your Pet with Cushing’s Syndrome: Nutrition Guide](https://lignans.com/blogs/articles/diet-for-dogs-with-cushings-disease): Diet for Your Pet with Cushing’s Syndrome: Nutrition Guide
+    Updated: 2026-09-22T08:32:24Z
     Author: admin
     Tags: Blog, Cushings disease, dog health
-  - [Antioxidants for Dogs with Cushing's Disease: What They Do and Why They Matter](https://lignans.com/blogs/articles/antioxidants): Antioxidants for Dogs with Cushing's Disease: What They Do and Why They Matter
-    Updated: 2026-06-25T06:57:42Z
+  - [Antioxidants Explained: Benefits, Sources & Health Impact](https://lignans.com/blogs/articles/antioxidants): Antioxidants Explained: Benefits, Sources & Health Impact
+    Updated: 2026-09-22T08:57:18Z
     Author: admin
     Tags: antioxidants, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, men's health, women's health
   - [COVID-19, Pets and Other Animals](https://lignans.com/blogs/articles/covid-19-pets-and-other-animals): 
     Updated: 2024-09-18T06:05:33Z
     Author: admin
     Tags: Blog, dog health
-  - [Cushing's Disease and Diabetes in Dogs: How They're Connected](https://lignans.com/blogs/articles/cushing-and-diabetes): <p><span>Cushing's disease and diabetes frequently occur together in dogs. Here's how they interact and what managing both conditions looks like.</span><span></span></p>
-    Updated: 2026-06-25T07:06:35Z
+  - [Cushing’s & Diabetes: How Cortisol Impacts Blood Sugar](https://lignans.com/blogs/articles/cushing-and-diabetes): Cushing’s & Diabetes: How Cortisol Impacts Blood Sugar
+    Updated: 2026-09-09T22:37:39Z
     Author: admin
     Tags: Blog, Cushing's Disease and Diabetes in Dogs: How They're Connected, Cushings disease, dog health
   - [Melatonin for Dogs: It Does More Than Help With Sleep'](https://lignans.com/blogs/articles/melatonin-not-the-sleep-hormone-people-think): Melatonin for Dogs: It Does More Than Help With Sleep'
-    Updated: 2026-06-25T06:55:36Z
+    Updated: 2026-08-15T08:30:59Z
     Author: admin
     Tags: Blog, Cushings disease, dog health, men's health, women's health
-  - [SAMe: More than just Liver Support](https://lignans.com/blogs/articles/same-more-than-just-liver-support): <p><meta charset="UTF-8"><span>SAMe does more than protect the liver — it plays a role in brain function, joint health, and mood in dogs and people. Here's the full picture.</span><span></span></p>
-    Updated: 2026-06-25T06:54:43Z
+  - [SAMe Benefits: More than Just Liver Support](https://lignans.com/blogs/articles/same-more-than-just-liver-support): SAMe Benefits: More than Just Liver Support
+    Updated: 2026-09-09T22:35:39Z
     Author: admin
     Tags: Blog, dog health, men's health, women's health
-  - [Milk Thistle - Common uses for Liver Support and Diabetes](https://lignans.com/blogs/articles/milk-thistle-common-uses-for-liver-support-and-diabetes): <p><span>Milk thistle has well-documented liver-protective benefits and may support blood sugar management. Here's how it works and when to use it.</span><span></span></p>
-    Updated: 2026-06-25T06:53:49Z
+  - [Milk Thistle Benefits: Liver Support, Blood Sugar and More](https://lignans.com/blogs/articles/milk-thistle-common-uses-for-liver-support-and-diabetes): Milk Thistle Benefits: Liver Support, Blood Sugar and More
+    Updated: 2026-10-07T18:15:11Z
     Author: admin
     Tags: Blog, dog health, men's health, women's health
-  - [Diet with cushings](https://lignans.com/blogs/articles/diet-for-your-pet-with-cushings-syndrome): Diet with cushings
-    Updated: 2026-06-25T06:53:22Z
-    Author: admin
-    Tags: Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Dogs with diabetes, Lignans, lignans for life
   - [Exercise and Extra Care of Dogs suffering from Cushing's Disease](https://lignans.com/blogs/articles/exercise-and-extra-care-of-dogs-suffering-from-cushings-disease): <p><meta charset="UTF-8"><span>Exercise matters for Cushing's dogs — but needs to be adjusted for their limitations. Here's how to keep your dog safely active.</span><span></span></p>
-    Updated: 2026-06-25T06:52:41Z
+    Updated: 2026-07-29T14:08:46Z
     Author: admin
     Tags: Blog, Cushings disease, dog health
-  - [Gallbladder and Milk Thistle](https://lignans.com/blogs/articles/gallbladder-and-milk-thistle): <p><span>Milk thistle supports gallbladder and liver function in dogs and people. Here's how it works and when it's the right supplement to reach for.</span><span></span></p>
-    Updated: 2026-06-25T06:52:07Z
+  - [Milk Thistle for Gallbladder Health: Does It Help?](https://lignans.com/blogs/articles/gallbladder-and-milk-thistle): Milk Thistle for Gallbladder Health: Does It Help?
+    Updated: 2026-10-07T17:47:33Z
     Author: admin
     Tags: Blog, dog health
   - [Mental Health Benefits of Melatonin for Dogs](https://lignans.com/blogs/articles/mental-health-benefits-of-melatonin-for-dogs): <p><meta charset="UTF-8"><span>Melatonin supports more than sleep in dogs — it helps with anxiety, stress, and mood regulation. Here's what the research shows.</span><span></span></p>
-    Updated: 2026-06-25T06:51:10Z
+    Updated: 2026-08-15T08:20:16Z
     Author: admin
     Tags: Blog, dog health
-  - [Care for Aging Dogs](https://lignans.com/blogs/articles/care-for-aging-dogs): 
-    Updated: 2026-06-25T06:50:23Z
+  - [How to Care for Aging Dogs: Senior Dog Wellness Tips](https://lignans.com/blogs/articles/care-for-aging-dogs): How to Care for Aging Dogs: Senior Dog Wellness Tips
+    Updated: 2026-09-27T06:37:31Z
     Author: admin
     Tags: Blog, dog health
   - [What To Do if Lignans Aren't Working](https://lignans.com/blogs/articles/what-to-do-if-lignans-arent-working): <p><meta charset="UTF-8"><span>Lignans not working for your dog's Cushing's? Here are the most common reasons — dosing, gut health, product quality — and how to troubleshoot.</span><span></span></p>
-    Updated: 2026-06-25T06:49:59Z
+    Updated: 2026-09-22T09:24:15Z
     Author: admin
     Tags: Blog, dog health, men's health, women's health
   - [Adding Probiotic to Lignans Enhances Bioavailability](https://lignans.com/blogs/articles/adding-probiotic-to-lignans-enhances-bioavailability): <p><meta charset="UTF-8"><span>Probiotics enhance lignan bioavailability in dogs. Here's how gut bacteria convert SDG into active compounds — and why it matters for Cushing's.</span><span></span></p>
-    Updated: 2026-06-25T07:05:56Z
+    Updated: 2026-09-22T08:27:25Z
     Author: admin
     Tags: antioxidants, Antioxidants for Dogs with Cushing's Disease: What They Do and Why They Matter, Blog, Cushings disease, dog health
   - [What Can Your Dog's Poop Tell You?](https://lignans.com/blogs/articles/what-can-your-dogs-poop-tell-you)
-    Updated: 2026-06-25T06:49:29Z
+    Updated: 2026-08-12T08:28:04Z
     Author: Tim Osborne
     Tags: Blog, dog health
   - [How To Read Your Dog's Test Results](https://lignans.com/blogs/articles/test-results)
@@ -494,12 +495,12 @@
     Updated: 2026-06-25T06:48:16Z
     Author: Tim Osborne
     Tags: Blog, Cushings disease, dog health
-  - [Hidden Ingredients (excipients) in Supplements for Dogs](https://lignans.com/blogs/articles/hidden-ingredients)
-    Updated: 2026-06-25T06:47:42Z
+  - [Is Magnesium Stearate Safe for Dogs? Fillers in Dog Supplements](https://lignans.com/blogs/articles/hidden-ingredients)
+    Updated: 2026-10-07T11:31:48Z
     Author: Tim Osborne
     Tags: Blog, dog health
-  - [The Role of Cortisol in Pets](https://lignans.com/blogs/articles/the-role-of-cortisol-in-pets)
-    Updated: 2026-06-25T06:47:16Z
+  - [Cortisol in Pets: Understanding Its Role in Dogs Health](https://lignans.com/blogs/articles/the-role-of-cortisol-in-pets): Cortisol in Pets: Understanding Its Role in Dogs Health
+    Updated: 2026-09-09T22:33:57Z
     Author: Tim Osborne
     Tags: antioxidants, Articles, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Lignans, lignans for life, Liver support, Uncategorized
   - [New Respiratory Disease in Dogs](https://lignans.com/blogs/articles/new-respiratory-disease-in-dogs)
@@ -511,7 +512,7 @@
     Author: Tim Osborne
     Tags: dog health
   - [What Breeds are More Likely to Have Cushing's Disease?](https://lignans.com/blogs/articles/breeds-likely-to-have-cushings-disease): This article is to provide information regarding what dog breeds are more susceptible in getting Cushing's Disease.
-    Updated: 2026-06-25T06:45:44Z
+    Updated: 2026-07-29T14:09:38Z
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, lignans for life
   - [Gut Microbes and Cushing’s Syndrome](https://lignans.com/blogs/articles/gut-microbes)
@@ -519,11 +520,11 @@
     Author: Tim Osborne
     Tags: Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Lignans, lignans for life, Uncategorized
   - [Hypertension (High Blood Pressure) in Cushing’s Dogs](https://lignans.com/blogs/articles/hypertension)
-    Updated: 2026-06-25T06:44:33Z
+    Updated: 2026-07-29T13:59:34Z
     Author: Tim Osborne
     Tags: Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Dogs with diabetes, Lignans, Milk thistle
   - [What are Lignans? Health Benefits, Sources, and More](https://lignans.com/blogs/articles/what-are-lignans-health-benefits-sources-and-more): What are Lignans? Health Benefits, Sources, and More
-    Updated: 2026-06-25T06:44:04Z
+    Updated: 2026-08-15T10:09:18Z
     Author: Kenneth Froyalde
     Tags: dog health, men's health, women's health
   - [Your Dog’s Thyroid and the Impact of Cushing’s Syndrome](https://lignans.com/blogs/articles/thyroid-and-cushings)
@@ -531,33 +532,33 @@
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Lignans, lignans for life, Uncategorized
   - [What Is Flaxseed Good For? - Lignans for Life](https://lignans.com/blogs/articles/what-is-flaxseed-good-for): What Is Flaxseed Good For? - Lignans for Life
-    Updated: 2026-06-25T06:42:34Z
+    Updated: 2026-08-18T03:52:50Z
     Author: Kenneth Froyalde
     Tags: dog health, men's health, women's health
-  - [Dog Cushing’s Syndrome Test Guide (Types, Costs)](https://lignans.com/blogs/articles/cushings-test-guide): <meta charset="utf-8"><span data-mce-fragment="1">Read this guide to learn about different dog Cushing’s syndrome tests, understand costs and results, and how to select the right test for accurate .</span>
-    Updated: 2026-06-25T06:42:01Z
+  - [How is Cushing's Disease Diagnosed in Dogs? Tests & Costs](https://lignans.com/blogs/articles/cushings-test-guide): <meta charset="utf-8"><span data-mce-fragment="1">Read this guide to learn about different dog Cushing’s syndrome tests, understand costs and results, and how to select the right test for accurate .</span>
+    Updated: 2026-07-28T14:40:00Z
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Lignans, Uncategorized
   - [Natural Ways on How to Boost Immune System in Dogs](https://lignans.com/blogs/articles/boost-imune-system): <span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Learn how to boost immune system in dogs naturally! Explore how nutrition, exercise, and lifestyle changes can contribute to your furry friend's overall health.</span>
-    Updated: 2026-07-11T05:53:54Z
+    Updated: 2026-08-18T03:41:31Z
     Author: Tim Osborne
-  - [Managing Anxiety in Dogs](https://lignans.com/blogs/articles/managing-anxiety-in-dogs)
-    Updated: 2026-06-25T06:40:37Z
+  - [Managing Anxiety in Dogs: Causes, Symptoms & Calming](https://lignans.com/blogs/articles/managing-anxiety-in-dogs): Managing Anxiety in Dogs: Causes, Symptoms & Calming
+    Updated: 2026-09-22T08:55:44Z
     Author: Kenneth Froyalde
   - [Cushing’s vs. Addison’s Disease: Key Differences in Dogs](https://lignans.com/blogs/articles/cushing-s-vs-addison-s-disease-key-differences-in-dogs): <p class="p1" data-mce-fragment="1">Read this vet guide to explore signs, risks, and  options of Cushing's and Addison's disease in dogs.</p>
     Updated: 2026-06-25T06:39:50Z
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease, Lignans, Uncategorized
-  - [How Long Can a Dog Live With Cushing's Disease?](https://lignans.com/blogs/articles/how-long-can-a-dog-live-with-cushings-disease): <p><meta charset="utf-8"><meta charset="UTF-8"><i><span>How long can a dog live with Cushing's disease? The honest answer depends on type, , and what 'living well' actually means. Here's what the research shows — and what matters more than the number.</span></i><span></span><br></p>
-    Updated: 2026-06-25T06:39:18Z
+  - [Cushing's in Dogs Life Expectancy: How Long Can a Dog Live?](https://lignans.com/blogs/articles/how-long-can-a-dog-live-with-cushings-disease): Cushing's in Dogs Life Expectancy: How Long Can a Dog Live?
+    Updated: 2026-10-07T11:39:06Z
     Author: Emily Cote
     Tags: Blog, cushing in dogs, Cushings disease
   - [Overcoming Dog Separation Anxiety: Natural Solutions and Expert Advice](https://lignans.com/blogs/articles/overcoming-dog-separation-anxiety): <p class="p1">Is your dog struggling with separation anxiety? From natural remedies like <span class="s1"><b>Lignans and melatonin</b></span> to training tips and calming strategies, we cover everything you need to help your pup feel safe and secure—even when you’re away. <span class="s1"><b>Explore solutions today!</b></span></p>
     Updated: 2026-06-25T06:38:51Z
     Author: Fi Varotsi
     Tags: Blog, dog health
-  - [Melatonin for Dogs: Can You Give Dogs Melatonin?](https://lignans.com/blogs/articles/melatonin-for-dogs): <p><meta charset="utf-8"><span>Melatonin for dogs is a safe, natural sleep aid that helps with anxiety, Cushing’s disease, and sleep issues. Learn proper dosage and benefits here.</span></p>
-    Updated: 2026-06-25T06:37:39Z
+  - [Melatonin for Dogs: Is It Safe and How Long Does It Take?](https://lignans.com/blogs/articles/melatonin-for-dogs): Melatonin for Dogs: Is It Safe and How Long Does It Take?
+    Updated: 2026-10-08T11:38:28Z
     Author: Fi Varotsi
     Tags: Blog, dog health
   - [Signs Your Dog Needs Probiotics - Lignans for Life](https://lignans.com/blogs/articles/signs-your-dog-needs-probiotics): Signs Your Dog Needs Probiotics - Lignans for Life
@@ -570,12 +571,8 @@
   - [Can a Dog Take Human Probiotics? What Pet Owners Should Know](https://lignans.com/blogs/articles/can-a-dog-take-human-probiotics): Can a Dog Take Human Probiotics? What Pet Owners Should Know
     Updated: 2026-06-24T18:31:46Z
     Author: Fi Varotsi
-  - [Milk Thistle vs. SAMe: What’s the Difference and Which Is Right for You (or Your Pet)?](https://lignans.com/blogs/articles/milk-thistle-vs-same): <p><meta charset="utf-8"><span>Discover how these two popular supplements work, their unique benefits for both people and pets, and which one might be right for your needs. Whether you’re looking for gentle daily support or targeted help for advanced liver concerns, our guide breaks down everything you need to know—so you can make the best choice for your health or your pet’s well-being.</span></p>
-    Updated: 2026-06-24T18:22:22Z
-    Author: Tim Osborne
-    Tags: Articles, Blog, cushing in dogs, Cushings disease
-  - [How is Cushing’s Disease Diagnosed in Dogs? Tests & Estimated Costs Explained](https://lignans.com/blogs/articles/cushings-tests-estimates): <p><meta charset="utf-8"><strong>Wondering how vets diagnose Cushing’s disease in dogs and what it might cost? This post breaks down the key tests—like bloodwork, the low-dose dexamethasone suppression test, and ACTH stimulation test—plus estimated costs for each step. Get a clear overview to help you plan your dog’s care and make informed decisions.</strong></p>
-    Updated: 2026-06-24T18:21:58Z
+  - [SAMe vs. Milk Thistle: Differences and Which to Choose](https://lignans.com/blogs/articles/milk-thistle-vs-same): SAMe vs. Milk Thistle: Differences and Which to Choose
+    Updated: 2026-10-07T17:53:46Z
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease
   - [How CoQ10 Supports Your Dog’s Health: Benefits, Uses, and What to Know](https://lignans.com/blogs/articles/coq10): <p><meta charset="utf-8"><meta charset="utf-8"><span>Is your dog slowing down with age? Discover how CoQ10 can support heart health, boost energy, and promote overall wellness for senior dogs. Learn the science behind this powerful antioxidant and find out if it’s the right supplement for your furry friend.</span><br></p>
@@ -586,30 +583,90 @@
     Updated: 2026-06-24T18:21:12Z
     Author: Tim Osborne
     Tags: antioxidants, Articles, Blog
-  - [SAMeThistle Pro Dosing by Weight: Simple Chart and Tips for Picky Eaters](https://lignans.com/blogs/articles/samethistle-pro-dosing): <p><b id="docs-internal-guid-81889532-7fff-10db-e45c-743c580f073f"><span>Get samethistle pro dosing by weight right with this easy chart, plus tips to help picky eaters take their supplements. </span></b></p>
-    Updated: 2026-06-24T18:20:52Z
+  - [SAMeThistle Pro Dosage Chart for Dogs by Weight](https://lignans.com/blogs/articles/samethistle-pro-dosing): SAMeThistle Pro Dosage Chart for Dogs by Weight
+    Updated: 2026-10-07T17:39:57Z
     Author: Tim Osborne
     Tags: antioxidants, Articles, Blog, cushing in dogs, Cushings disease
-  - [SAMeThistle Pro vs. Denamarin: What’s the Difference and Which Is Right for Your Dog?](https://lignans.com/blogs/articles/samethistle-pro)
-    Updated: 2026-05-22T05:42:01Z
+  - [SAMeThistle Pro vs. Denamarin: Differences and Which to Choose](https://lignans.com/blogs/articles/samethistle-pro): SAMeThistle Pro vs. Denamarin: Differences and Which to Choose
+    Updated: 2026-10-08T11:42:30Z
     Author: Tim Osborne
     Tags: antioxidants, Articles, Blog, cushing in dogs, Cushings disease
   - [My Dog Has Cushing's — Now What? A Plain-English Starting Point](https://lignans.com/blogs/articles/my-dog-has-cushings): <p><meta charset="UTF-8"><b id="docs-internal-guid-8be89962-7fff-fcdb-e1e8-a7e8f1f82aa9"><span>Just got a Cushing's  for your dog and feeling overwhelmed? Here's a clear, simple breakdown of what it means, what causes it, and what your options actually are.   </span></b></p>
-    Updated: 2026-06-24T18:20:25Z
+    Updated: 2026-09-28T13:42:19Z
     Author: Tim Osborne
     Tags: Articles, Blog, cushing in dogs, Cushings disease
   - [HMR Lignans vs SDG Lignans — Which One Is Right for Your Dog?](https://lignans.com/blogs/articles/hmr-lignans-vs-sdg-lignans-which-one-is-right-for-your-dog): <p><i><span>Lignans for dogs come in two forms: SDG from flaxseed hulls and HMR from Norwegian spruce trees. Here's what the difference actually means for your Cushing's dog, and how to choose.</span></i><span></span></p>
-    Updated: 2026-06-29T08:50:43Z
+    Updated: 2026-09-22T12:51:23Z
     Author: Tim Goff
     Tags: Blog, cushing in dogs, Cushings disease
   - [Atypical Cushing's Disease in Dogs — What It Is and Why Lignans Matter](https://lignans.com/blogs/articles/atypical-cushings-disease): <p><meta charset="UTF-8">Atypical Cushing's in dogs involves  hormone overproduction rather than cortisol — and it often goes undiagnosed. Here's what it is, how it's different, and why lignans are a particularly strong fit.</p>
-    Updated: 2026-07-08T12:26:40Z
+    Updated: 2026-09-30T10:26:10Z
     Author: Tim Goff
     Tags: Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease
-  - [Lignans for Women: Hormone Balance, Menopause, and What the Research Says](https://lignans.com/blogs/articles/lignans-for-women): <p><meta charset="UTF-8"><i><span>Flaxseed hull lignans have been studied for decades in the context of women's hormonal health. Here's what the research actually shows about lignans, menopause, and hormone balance — without the hype.</span></i><span></span></p>
-    Updated: 2026-07-03T18:52:39Z
+  - [Lignans for Women: Hormone Balance, Menopause & the Research](https://lignans.com/blogs/articles/lignans-for-women): <p><meta charset="UTF-8"><i><span>Flaxseed hull lignans have been studied for decades in the context of women's hormonal health. Here's what the research actually shows about lignans, menopause, and hormone balance — without the hype.</span></i><span></span></p>
+    Updated: 2026-07-29T14:12:16Z
     Author: Tim Goff
     Tags: Blog, women's health
+  - [Trilostane for Dogs with Cushing's — Side Effects Owners Should Know](https://lignans.com/blogs/articles/trilostane-for-dogs): <p><meta charset="UTF-8"><i><span>Trilostane (Vetoryl) is the most commonly prescribed Cushing's medication for dogs. It's effective — and it has a real side effect profile. Here's what every owner should know before and during .</span></i><span></span></p>
+    Updated: 2026-07-29T14:13:36Z
+    Author: Tim Goff
+  - [Can Cushing's Disease in Dogs Be Reversed? What Owners Need to Know](https://lignans.com/blogs/articles/can-cushings-disease-be-reversed): <p><meta charset="UTF-8"><i><span>Can a dog with Cushing's disease actually get better — not just managed, but truly improved? The answer depends on the type, the , and what "reversed" actually means. Here's the honest breakdown.</span></i><span></span></p>
+    Updated: 2026-07-29T14:12:56Z
+    Author: Tim Goff
+    Tags: Blog, cushing in dogs, Cushings disease, dog health, dogs with cushings disease
+  - [Cushing's Disease in Dachshunds — What Owners Need to Know](https://lignans.com/blogs/articles/dachshunds): <p><i><span>Dachshunds are one of the breeds most commonly diagnosed with Cushing's disease. Here's why they're predisposed, what signs to watch for, and how most Dachshund owners manage the condition.</span></i><span></span></p>
+    Updated: 2026-07-15T11:32:22Z
+    Author: Tim Goff
+  - [How to Choose a Lignan & Melatonin Supplement for Dogs](https://lignans.com/blogs/articles/how-to-choose-lignan-melatonin-supplement-dogs): How to Choose a Lignan & Melatonin Supplement for Dogs
+    Updated: 2026-08-27T09:29:18Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Can You Give Lignans & Melatonin With Trilostane?](https://lignans.com/blogs/articles/lignans-melatonin-with-trilostane-vetoryl): Can You Give Lignans & Melatonin With Trilostane?
+    Updated: 2026-08-27T09:30:37Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Managing Daily Cushing's Symptoms in Dogs: A Practical Guide](https://lignans.com/blogs/articles/managing-daily-cushings-symptoms-dogs): Managing Daily Cushing's Symptoms in Dogs: A Practical Guide
+    Updated: 2026-08-27T09:31:04Z
+    Author: Tim Goff
+  - [Is It Cushing's or Just Old Age in Your Dog?](https://lignans.com/blogs/articles/cushings-or-old-age-in-dogs): Is It Cushing's or Just Old Age in Your Dog?
+    Updated: 2026-08-27T09:31:33Z
+    Author: Tim Goff
+  - [How Long Do Lignans and Melatonin Take to Work in Dogs?](https://lignans.com/blogs/articles/first-90-days-lignans-melatonin-dogs): How Long Do Lignans and Melatonin Take to Work in Dogs?
+    Updated: 2026-10-01T06:04:45Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Melatonin for Dogs With Cushing's: Dose and Timing](https://lignans.com/blogs/articles/melatonin-for-dogs-with-cushings): Melatonin for Dogs With Cushing's: Dose and Timing
+    Updated: 2026-10-01T05:34:06Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Cushing's Muscle Loss in Dogs: Exercise and Mobility](https://lignans.com/blogs/articles/cushings-muscle-loss-exercise-dogs): Cushing's Muscle Loss in Dogs: Exercise and Mobility
+    Updated: 2026-10-01T05:27:26Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Questions to Ask Your Vet About Your Dog's Cushing's](https://lignans.com/blogs/articles/questions-to-ask-vet-about-cushings): Questions to Ask Your Vet About Your Dog's Cushing's
+    Updated: 2026-10-01T05:42:27Z
+    Author: Tim Goff
+    Tags: Blog
+  - [Lignan Dosage for Dogs by Weight: A Simple Guide](https://lignans.com/blogs/articles/lignan-dosage-for-dogs-by-weight): Lignan Dosage for Dogs by Weight: A Simple Guide
+    Updated: 2026-10-02T08:46:24Z
+    Author: Ray Ball
+    Tags: Blog
+  - [How to Give a Picky Dog Supplements Every Day](https://lignans.com/blogs/articles/how-to-give-a-picky-dog-supplements): How to Give a Picky Dog Supplements Every Day
+    Updated: 2026-10-07T11:30:02Z
+    Author: Ray Ball
+    Tags: Blog
+  - [Cushing's Coat Regrowth in Dogs: What Helps](https://lignans.com/blogs/articles/cushings-coat-regrowth-in-dogs): Cushing's Coat Regrowth in Dogs: What Helps
+    Updated: 2026-10-14T11:00:02Z
+    Author: Ray Ball
+    Tags: Blog
+  - [Traveling With a Dog With Cushing's: A Checklist](https://lignans.com/blogs/articles/traveling-with-a-dog-with-cushings): Traveling With a Dog With Cushing's: A Checklist
+    Updated: 2026-10-21T14:00:02Z
+    Author: Ray Ball
+    Tags: Blog
+  - [Ovary-Sparing Spay vs. Traditional Spay: What the Research Says](https://lignans.com/blogs/articles/ovary-sparing-spay-dogs)
+    Updated: 2026-10-19T08:52:46Z
+    Author: Tim Goff
+    Tags: Articles, Blog, cushing in dogs
 
 ## Store Pages
 
@@ -620,29 +677,27 @@
 - [Frequently Asked Questions | Lignans for Life | View FAQs](https://lignans.com/pages/faqs): When it comes to decisions about your health, high-quality products are worth the . Lignans for Life offers a complete line of powerful h...
   Updated: 2023-07-29T14:02:25Z
 - [Understanding What Is Cushing's Disease in Dogs | Shop Lignans for Life](https://lignans.com/pages/canine-cushings--options): Cushing’s disease in dogs happens when the body makes too much cortisol, a vital hormone. This often results from tumors in the pituitary or adrena...
-  Updated: 2026-07-11T05:57:50Z
+  Updated: 2026-08-12T08:58:34Z
 - [Women's Ovarian Health | Lignans For Life](https://lignans.com/pages/ovarian-and-uterine-health): Lignans have anti-estrogenic properties that mimic estrogen and bind to estrogen receptors, but they do not have the same antagonistic effects of e...
   Updated: 2023-07-07T04:22:59Z
-- [Return & Exchange Policy](https://lignans.com/pages/return-exchange-policy): OUR PROMISE TO YOU: ALL OF OUR PRODUCTS ARE THIRD PARTY TESTED TO ENSURE POTENCY AND EFFICACY. When starting any new  and/or product suppl...
-  Updated: 2025-01-15T11:12:45Z
 - [Flaxseed Lignan Studies | Shop Lignans for Life](https://lignans.com/pages/flax-seed-lignan-studies-and-research): There has been a great  of scientific and  interest in lignans. Provided below are quotations selected from flaxseed lignan studies publ...
-  Updated: 2024-08-01T04:19:37Z
+  Updated: 2026-09-22T09:02:51Z
 - [ Sign-Up | Lignans For Life | Shop Flaxseed Online](https://lignans.com/pages/-sign-up): If you'd like to save money on future orders, Sign up for our monthly newsletter and receive new product announcements, great information, and coup...
   Updated: 2024-08-01T03:35:01Z
-- [Benefits of Probiotics For Dogs | Shop Probiotics Today](https://lignans.com/pages/benefits-of-probiotics-for-dogs): “All disease begins in the gut.” The idea that gut health plays a fundamental role in overall health has existed for centuries and is gaining incre...
-  Updated: 2024-08-15T16:26:04Z
+- [Benefits of Probiotics for Dogs: How They Support Gut Health](https://lignans.com/pages/benefits-of-probiotics-for-dogs): “All disease begins in the gut.” The idea that gut health plays a fundamental role in overall health has existed for centuries and is gaining incre...
+  Updated: 2026-10-07T14:16:31Z
 - [Contact Us | Lignans For Life | | Shop Flaxseed Online](https://lignans.com/pages/contact): Hey there! How Can We Help? Lignans for Life is dedicated to providing you with premium health and wellness products to help you and your pets live...
   Updated: 2024-08-28T07:48:21Z
 - [Lignans Health Benefits for Women | Lignans for Women](https://lignans.com/pages/lignans-and-womens-health-benefits): Lignans are compounds found in certain plant-based foods that offer huge benefits to health and well-being. And because they are classified as phyt...
-  Updated: 2024-08-15T16:38:29Z
+  Updated: 2026-09-22T09:21:53Z
 - [Lignans for Men | Lignans Health Benefits for Men | Shop Now](https://lignans.com/pages/lignans-and-mens-health-benefits): Lignans are chemical compounds found in plants. They are phytoestrogens, which means they can resemble the effects of estrogen in the body while al...
-  Updated: 2023-08-08T06:25:14Z
+  Updated: 2026-09-22T08:43:56Z
 - [Lignans and Cholesterol Reduction | Shop Lignans for Life](https://lignans.com/pages/lignans-and-cholesterol-reduction): Not all cholesterol is bad. Some types of cholesterol are essential for good health and performing bodily functions, such as making hormones and bu...
-  Updated: 2026-07-11T06:20:26Z
+  Updated: 2026-09-22T08:49:31Z
 - [Breast Health & Lignans | Shop Lignans for Life](https://lignans.com/pages/breast-health-and-lignans): Breast cancer is currently the most commonly diagnosed cancer among women in the United States. According to the American Cancer Society (ACS), abo...
   Updated: 2023-08-08T06:48:05Z
 - [Flaxseed Hulls Orac Value | Lignans For Life](https://lignans.com/pages/flaxseed-hulls-orac-values): FLAXSEED HULLS ORAC VALUES This chart compares 100g of each fruit and/or flaxseed hulls (lignans). We recommend a daily amount of one teaspoon or a...
-  Updated: 2024-08-01T04:10:32Z
+  Updated: 2026-07-15T07:48:31Z
 - [Lignans & Reduced Risk of Prostate Cancer | Lignans for Life](https://lignans.com/pages/lignans-prostate-cancer): Lignans and Prostate Health Prostate cancer is the most prevalent cancer among men in the United States. This cancer was thought to only affect eld...
   Updated: 2023-07-07T04:23:30Z
 - [Lignans & Colon Cancer | Reduce Colon Cancer Risk](https://lignans.com/pages/lignans-for-reducing-colon-cancer-risk): The colon health affects every other system in your body and its ability to function. A healthy colon is essential for good digestion, absorption o...
@@ -654,15 +709,15 @@
 - [Lignans For Dogs - Dose | Lignans For Life](https://lignans.com/pages/recommended-dosages-for-dogs): Recommended dosages for dogs The recommended lignan dosage for dogs (either for cortisol reduction or for general health) is 1-2 mg per pound of bo...
   Updated: 2023-07-07T04:23:38Z
 - [Dr. Jack Oliver Adrenal Disorders | Lignans For Life](https://lignans.com/pages/study-on-adrenal-disorders-by-dr-jack-oliver): Study By Dr Jack Oliver DVM, Ph.D covering Canine Adrenal Disorders, including Atypical Cushing's Disease, Cushing's Disease, and other adrenal dis...
-  Updated: 2023-07-07T04:23:40Z
+  Updated: 2026-08-12T08:34:58Z
 - [Lignans And Melatonin For Canine Cushing's Disease | Lignans For Life](https://lignans.com/pages/survey-results-for-dogs-using-hmr-lignans-and-melatonin-for-cushings): SURVEY RESULTS FOR DOGS HMR LIGNANS AND MELATONIN FOR CUSHINGS PAGE 1 Survey Questions For Dogs Responses Name Karen S Buffalo Grove IL Jody W Dela...
   Updated: 2023-07-07T04:23:41Z
 - [Survey Results - Lignans For Dogs | Lignans For Life](https://lignans.com/pages/survey-results-from-customers-who-ordered-lignans-for-life-for-their-dogs): Survey Results from Customers who ordered Lignans For Life for their Dogs We recently sent out a survey to our customers to obtain more data regard...
-  Updated: 2023-07-07T04:23:44Z
+  Updated: 2026-09-22T09:04:19Z
 - [Hormonal Replacement Therapy Alternative | Lignans For Life](https://lignans.com/pages/lignans-are-a-good-natural-alternative-to-hormone-replacement-therapy): Lignans Are a Good Natural Alternative to Hormone Replacement Therapy Lignans are a natural way to supplement estrogen with plant estrogens which a...
   Updated: 2023-07-07T04:23:48Z
 - [Probiotic SDG Metabolism | Lignans For Life](https://lignans.com/pages/probiotic-sdg-metabolism): The primary reason for taking lignans is that they are eventually converted into the enterolignans called enterodiol (ED) and enterolactone (EL). E...
-  Updated: 2024-08-17T10:48:14Z
+  Updated: 2026-08-12T08:33:31Z
 - [Comparing Different Types of Lignans](https://lignans.com/pages/lignans-comparison): Lignans are a diverse group of plant-derived compounds that can interfere with estrogen metabolism in animals and humans. As phytoestrogens, lignan...
   Updated: 2023-08-08T07:35:14Z
 - [Thank You!](https://lignans.com/pages/wholesale-thank-you): Thanks for registering as a wholesaler. We will get back to you soon!
@@ -675,27 +730,27 @@
   Updated: 2023-08-08T06:28:40Z
 - [Product Information | Lignans Benefits | Lignans For Life](https://lignans.com/pages/product-info): Lignans are bioactive compounds found in nature that exhibit various biological properties, including anti-inflammatory, antioxidant and antitumor ...
   Updated: 2023-07-29T14:31:38Z
-- [Melatonin Dosage For Dogs | Lignans for Life](https://lignans.com/pages/melatonin-dosage-for-dogs): The pineal glands in both humans and dogs produce melatonin naturally. It regulates the sleep-wake cycle and helps to maintain a regular circadian ...
-  Updated: 2025-03-24T13:40:44Z
-- [Wholesale Registration](https://lignans.com/pages/wholesale-registration)
-  Updated: 2024-01-17T03:05:29Z
+- [Melatonin Dosage For Dogs by Weight: Chart & Calculator](https://lignans.com/pages/melatonin-dosage-for-dogs): The pineal glands in both humans and dogs produce melatonin naturally. It regulates the sleep-wake cycle and helps to maintain a regular circadian ...
+  Updated: 2026-10-08T11:31:38Z
+- [Wholesale Registration - Apply Now! | Lignans For Life](https://lignans.com/pages/wholesale-registration): 
+  Updated: 2026-09-09T22:40:48Z
 - [Request a wholesale account](https://lignans.com/pages/register): (function(d, s, id){var js,wjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)) return;js=d.createElement(s);js.id=id;js.src="https://wholesal...
   Updated: 2024-01-17T09:26:44Z
-- [Your Privacy Choices](https://lignans.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T17:18:18Z
+- [Data Sharing Opt-Out | Lignans For Life](https://lignans.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-09-09T22:42:55Z
 
 ## Policies
 
 - [Privacy Policy](https://lignans.com/policies/privacy-policy)
-  Updated: 2025-06-16T05:29:44-04:00
+  Updated: 2026-10-21T10:02:19Z
 - [Shipping Policy](https://lignans.com/policies/shipping-policy)
-  Updated: 2025-06-24T07:10:19-04:00
+  Updated: 2026-09-27T06:02:23Z
 - [Refund Policy](https://lignans.com/policies/refund-policy)
-  Updated: 2026-06-19T10:22:24-04:00
+  Updated: 2026-10-21T09:43:03Z
 - [Terms of Service](https://lignans.com/policies/terms-of-service)
-  Updated: 2024-08-28T03:34:20-04:00
+  Updated: 2026-10-21T10:00:46Z
 - [Contact Information](https://lignans.com/policies/contact-information)
-  Updated: 2023-06-20T23:04:19-04:00
+  Updated: 2026-10-21T10:03:42Z
 
 ## Optional
 
