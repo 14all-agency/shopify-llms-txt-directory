@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-15T07:07:28Z
 - Contact Email: qc.trueprofit@firegroup.io
-- Updated At: 2026-07-23T00:00:43.404Z
+- Updated At: 2026-10-23T01:12:15.363Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0760/7946/4640/files/snowboard_purple_hydrogen.png?v=1778828876
   Price: $949.95 USD
 - [The Compare at Price Snowboard](https://triettm-trueprofit-stag-678.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2026-05-27T10:51:36Z
+  Updated: 2026-10-16T17:56:44Z
   Vendor: triettm-trueprofit-stag-678
   Product Type: snowboard
   Availability: Available
@@ -145,7 +145,7 @@
 ## Policies
 
 - [Privacy Policy](https://triettm-trueprofit-stag-678.myshopify.com/policies/privacy-policy)
-  Updated: 2026-05-15T03:07:37-04:00
+  Updated: 2026-05-15T07:07:37Z
 
 ## Optional
 
