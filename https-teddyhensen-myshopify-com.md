@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-09-27T16:41:54Z
 - Contact Email: james.findlater@shopify.com
-- Updated At: 2026-08-05T00:00:45.180Z
+- Updated At: 2026-10-23T01:07:59.895Z
 
 ## Products
 
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0874/2699/0102/files/Screenshot2024-10-29at1.21.51PM.png?v=1730222793
   Price: $150.00 USD
 - [Golden Baseball](https://teddyhensen.myshopify.com/products/golden-baseball): Unleash your competitive spirit with our Golden baseball! This stunning trophy adds a touch of luxury to any game, motivating you to push your limits and strive for victory. Feel the rush as you kick and score with this elegant, must-have item for any baseball enthusiast.
-  Updated: 2026-07-19T14:57:45Z
+  Updated: 2026-10-17T03:51:58Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -547,13 +547,13 @@
 ## Policies
 
 - [Privacy Policy](https://teddyhensen.myshopify.com/policies/privacy-policy)
-  Updated: 2024-09-27T12:42:02-04:00
+  Updated: 2024-09-27T16:42:02Z
 - [Refund Policy](https://teddyhensen.myshopify.com/policies/refund-policy)
-  Updated: 2025-01-21T12:52:21-05:00
+  Updated: 2025-01-21T17:52:21Z
 - [Terms of Service](https://teddyhensen.myshopify.com/policies/terms-of-service)
-  Updated: 2025-01-21T12:52:48-05:00
+  Updated: 2025-01-21T17:52:48Z
 - [Contact Information](https://teddyhensen.myshopify.com/policies/contact-information)
-  Updated: 2025-01-21T12:50:31-05:00
+  Updated: 2025-01-21T17:50:31Z
 
 ## Optional
 
