@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-10-23T14:51:10Z
 - Contact Email: info@levarneilsonjewelry.com
-- Updated At: 2026-08-01T00:00:50.720Z
+- Updated At: 2026-10-23T01:05:51.634Z
 
 ## Products
 
 - [Moissanite Rhodium-Plated Sterling Silver Chain Necklace | Le'Var Neilson](https://levarjewelry.com/products/moissanite-rhodium-plated-necklace): Shop the moissanite rhodium-plated 925 sterling silver chain necklace at Le'Var. 106 stones, 18-inch chain, includes certificate & gift box.
-  Updated: 2026-07-18T12:22:21Z
+  Updated: 2026-09-04T09:16:06Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fdb7b696a8a9420a8327cc5c9efc483c-Max.webp?v=1779724625
     Price: $869.85 USD
 - [Light and luxurious four-leaf clover hollowed out diamond-set high-end gift box necklace for your lover](https://levarjewelry.com/products/light-and-luxurious-four-leaf-clover-hollowed-out-diamond-set-high-end-gift-box-necklace-for-your-lover): This light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace is a unique and romantic gift, suitable for your loved ones. Its design is inspired by the lucky four-leaf clover, which symbolizes good luck and happiness.The pendant of the necklace is designed with a hollow four-leaf clover, which is exquisite and chic. Each leaf is inlaid with shining diamonds, exuding a charming light, giving people a noble and elegant feeling. The shape of the four-leaf clover symbolizes luck and a bright future, letting your lover feel your deep affection.The chain is made of high-quality material, carefully treated and polished to ensure a comfortable wearing experience. The length of the chain is moderate, suitable for wearing on various occasions, allowing your lover to show her charm and elegance at all times.This necklace also comes with an exquisite gift box, with a high-end and exquisite appearance, and a delicate and soft interior, which provides perfect protection for this precious jewelry. Whether it is a birthday gift, Valentine's Day gift or other special anniversaries, this gift box will bring more surprises and touches to your lover.The light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace for her lover will become one of her precious collections. It not only represents your deep love and cherishment for her, but also symbolizes your bright future and happy time together.
-  Updated: 2026-07-30T11:47:55Z
+  Updated: 2026-10-21T12:46:30Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3274cea6-23ee-4984-8f42-7c7ebae3dbdc.jpg?v=1783161502
     Price: $47.30 USD
 - [Four-Leaf Clover Diamond Necklace in Gift Box | Le'Var Neilson](https://levarjewelry.com/products/exquisite-and-fashionable-four-leaf-clover-hollow-out-diamond-high-end-gift-box-necklace): Exquisite four-leaf clover hollow diamond necklace presented in a luxury gift box. Elegant sterling silver design for the modern woman.
-  Updated: 2026-07-30T11:47:57Z
+  Updated: 2026-10-21T12:46:28Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/716db626-2333-4e0d-a2b7-c4ef9673b05e.jpg?v=1783161526
     Price: $57.00 USD
 - [Cuban chain with diamond design exquisite fashion bracelet](https://levarjewelry.com/products/cuban-chain-with-diamond-design-exquisite-fashion-bracelet): This bracelet adopts a Cuban chain structure with diamond inlay design, presenting a unique style of exquisiteness and fashion. The chain links are full and stylish, the details are polished, and the overall shape is gorgeous but not ostentatious, suitable for wearers who pursue texture and fashion.0.8cm/0.31inMaterial: S925 Silver; DiamondDesign highlights:Cuban chain structure: The chain links are tight, and the lines are smooth, showing a strong and neat masculine temperament.Diamond decoration: The diamond design with partial embellishment enhances the overall refinement, enhances the visual level, and the details are more attentive.Fashion texture: Full luster, comfortable to wear, suitable for a variety of dressing styles, whether it is daily or occasional style, it can be easily controlled.Summary:This bracelet cleverly combines exquisite diamond inlay with tough structure, which not only retains the power of metal, but also adds fashionable light. It is an ideal choice to show taste and personality.
-  Updated: 2026-07-30T07:46:37Z
+  Updated: 2026-10-21T07:50:31Z
   Vendor: Le'Var
   Product Type: Bracelets
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/93f4bc14-17cd-4d79-8545-266602b7bb14.jpg?v=1783161576
     Price: $69.00 USD
 - [Moissanite Sunflower Ring in S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/light-luxury-s925-sterling-silver-moissanite-sunflower-ring): Material: S925 Sterling Silver, MoissaniteSize: 5US 6US 7US 8US 9USWeight: 5gThis lightweight luxury S925 sterling silver moissanite sunflower ring is inspired by blooming sunflowers, cleverly combining dazzling moissanite with an elegant floral design. It symbolizes warmth, hope, and love, with an overall exquisite and radiant appearance, full of sophisticated romance.Design Highlights:💎 S925 Sterling Silver Material · Lightweight Luxury TextureMade of selected S925 sterling silver, the silver luster is clear and delicate, comfortable and skin-friendly to wear, and resistant to fading, showcasing a clean and high-end lightweight luxury style.✨ Moissanite Sunflower DesignThe main stone uses high-quality moissanite with brilliant fire and sparkle, surrounded by a petal-shaped setting design, like a blooming sunflower, reflecting light in layers, dazzling and eye-catching.🌸 Full of Symbolic MeaningThe sunflower symbolizes sunshine, hope, and unwavering love. Wearing it on your finger not only shines beautifully but also carries wonderful blessings and positive energy.🌟 Exquisite Three-Dimensional CraftsmanshipThe ring face has clear layers, the petals are three-dimensional and full, and the overall proportion is harmonious, making the diamond appear large without being ostentatious, combining elegance and presence.👗 Versatile and ElegantWhether for daily wear, dates, parties, or important occasions, it can easily become a highlight on your finger. It's elegant when worn alone and equally stunning when stacked with other rings.🎁 Suitable for Gifting or Personal UseRomantic and meaningful, it's perfect as a sophisticated gift for birthdays, anniversaries, proposals, or as a treat for yourself.This lightweight luxury S925 sterling silver moissanite sunflower ring interprets sophisticated romance with its dazzling brilliance and floral beauty, making every wear as radiant and captivating as sunshine.
-  Updated: 2026-07-30T14:46:31Z
+  Updated: 2026-10-21T14:47:36Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -294,7 +294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9579efc8-4c06-4402-b3c0-943414df927d.jpg?v=1783161579
     Price: $56.70 USD
 - [18K Gold Double-Layer Serpentine Zircon Necklace | Le'Var Neilson](https://levarjewelry.com/products/18k-gold-double-layer-serpentine-zircon-necklace): Shop the 18K Gold Double-Layer Serpentine Zircon Necklace at Le'Var Neilson. Cubic zirconia accents, titanium steel, skin-friendly. Free shipping available.
-  Updated: 2026-07-30T14:46:32Z
+  Updated: 2026-10-21T14:47:37Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -324,7 +324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fb986cb6-b3ec-4b46-94bd-7b21a457495b.jpg?v=1783161592
     Price: $113.40 USD
 - [Twisted Elegance Moissanite Ring | S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/s925-sterling-silver-moissanite-micro-set-twisted-band-square-four-prong-diamond-ring): Shop the Twisted Elegance Moissanite Ring, crafted from S925 sterling silver with a chic twisted band. Perfect for any occasion, it exudes elegance and luxury.
-  Updated: 2026-07-30T14:46:33Z
+  Updated: 2026-10-21T14:47:38Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -534,7 +534,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/87d26c32-a54e-41f8-8332-370216f4d862-Max-Origin.webp?v=1777319586
   Price: $89.55 USD
 - [3 Carat Moissanite Ring | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring): Shop our 3 carat moissanite ring in 925 sterling silver. Sizes 4.5–10. Diamond brilliance at a fraction of the cost. Certificate included. Free shipping over $75.
-  Updated: 2026-07-21T11:41:07Z
+  Updated: 2026-10-09T01:21:07Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -568,7 +568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
   - [Silver / 9.5](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring?variant=51676119138625)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
   - [Silver / 10](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring?variant=51676119171393)
@@ -583,7 +583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/2eaa92c1-276e-4985-832c-016e28238404-Max-Origin.webp?v=1777319670
   Price: $64.89 USD
 - [999 Sterling Silver Flower Stud Earrings](https://levarjewelry.com/products/999-sterling-silver-flower-stud-earrings): Pieces:1-pair Material: 999 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements in inches) & Size Conversion Size Actual Length One Size 0.4
-  Updated: 2026-07-21T11:41:11Z
+  Updated: 2026-08-10T01:01:37Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -636,7 +636,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1a29cd90-7a21-45da-ac01-9d25feafa06c-Max-Origin.webp?v=1777319847
   Price: $81.12 USD
 - [Layered Snake Chain Y Necklace](https://levarjewelry.com/products/layered-snake-chain-y-necklace): Pieces:1-piece Material: Alloy Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 47.2
-  Updated: 2026-07-22T04:16:36Z
+  Updated: 2026-09-13T16:04:56Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -678,7 +678,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a630e32-8f78-4afe-bc03-b6802a56ddf0-Max-Origin.webp?v=1777319949
   Price: $62.79 USD
 - [18K Gold-Plated 925 Sterling Silver Chain Necklace](https://levarjewelry.com/products/18k-gold-plated-925-sterling-silver-chain-necklace): Pieces:1-piece Includes: A matching box. Material:18K Gold-Plated,925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-18T12:25:07Z
+  Updated: 2026-09-04T14:43:13Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -741,7 +741,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0bfa85e2-4519-411c-9f82-c4d2f5c1d1bb-Max-Origin.webp?v=1777320212
   Price: $88.20 USD
 - [925 Sterling Silver Zircon Snake Bypass Ring | Le'Var Neilson](https://levarjewelry.com/products/925-sterling-silver-zircon-snake-bypass-ring): Shop the 925 sterling silver zircon snake bypass ring at Le'Var Neilson. Adjustable fit, elegant serpent design. Free shipping available.
-  Updated: 2026-07-21T11:41:26Z
+  Updated: 2026-08-27T17:10:18Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -851,7 +851,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/571601747219_0.jpg?v=1779251171
   Price: $29.09 USD
 - [1 Carat Moissanite Pendant Necklace | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-necklace): Shop our 1 carat moissanite pendant necklace in 925 sterling silver. Available in gold-plated & platinum finishes. Certificate included. Free shipping over $75.
-  Updated: 2026-07-21T11:41:37Z
+  Updated: 2026-08-21T04:03:23Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -888,9 +888,9 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/08f31986d5734cde90d8fe04ed41f710-Max.webp?v=1778042387
     Price: $95.25 USD
 - [1 Carat Moissanite Stud Earrings | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-stud-earrings): Shop our 1 carat moissanite stud earrings in 925 sterling silver. Gold & platinum finishes available. Certificate included. Free shipping over $75.
-  Updated: 2026-07-21T11:41:41Z
+  Updated: 2026-08-16T12:31:05Z
   Vendor: Le'Var
-  Product Type: Rings
+  Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3f88b385453f4f1f96513f53b46f37f6-Max.jpg?v=1778042410
   - [Gold / 18K gold-plated](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-stud-earrings?variant=51700574224705)
@@ -926,7 +926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cbdc6146020341449978405fa5b3d6c6-Max.jpg?v=1778042411
     Price: $69.00 USD
 - [1 Carat Moissanite Necklace & Earrings Set | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-necklace-and-earrings): Shop our 1 carat moissanite necklace & earrings gift set in 925 sterling silver. Gold & platinum finishes. Certificate included. Free shipping over $75.
-  Updated: 2026-07-21T11:41:38Z
+  Updated: 2026-10-01T20:05:50Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1034,7 +1034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/levar-neilson-gift-card.png?v=1781426418
     Price: $1,000.00 USD
 - [Infinity Symbol Photo Projection Bracelet | Le'Var](https://levarjewelry.com/products/customized-infinity-symbol-photo-projection-bracelet): Infinity symbol photo projection bracelet in copper or S925 silver. Your photo hidden inside the gemstone. Unique personalized gift. Free shipping available.
-  Updated: 2026-07-29T16:08:28Z
+  Updated: 2026-09-02T19:43:13Z
   Vendor: Le'Var
   Product Type: Bracelets
   Availability: Available
@@ -1064,7 +1064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1e48376d-4a70-4295-be9b-aae1dfd394d0.jpg?v=1782576012
     Price: $91.00 USD
 - [Personalized Snowflake Projection Pendant Necklace | Le'Var](https://levarjewelry.com/products/personalized-snowflake-projection-pendant): Custom photo projection snowflake pendant necklace. Available in S925 silver, 18K gold, or rose gold. Unique personalized gift. Free shipping available.
-  Updated: 2026-07-30T05:33:33Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1082,7 +1082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/4b22dfb2-d441-4186-bcdf-33f48c4afd17.jpg?v=1782576468
     Price: $49.00 USD
 - [Heart Photo Projection Bangle Bracelet | Le'Var](https://levarjewelry.com/products/customized-heart-photo-projection-bangle-bracelet): Heart photo projection bangle bracelet in S925 silver, 18K gold, or rose gold. Your photo hidden inside the gemstone. Unique personalized gift. Free shipping.
-  Updated: 2026-07-29T22:18:13Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Bracelets
   Availability: Available
@@ -1100,7 +1100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/2b49156d-211b-4b72-8d4e-0a2a17b33042.jpg?v=1782576757
     Price: $49.00 USD
 - [Elegant fashion dream catcher design projection necklace](https://levarjewelry.com/products/elegant-fashion-dream-catcher-design-projection-necklace): Welcome to the noble and fashionable dream catcher design journey, explore our projection necklace, this is a unique jewelry, weaving dreams and memories into the pattern of dream catcher, let your precious moments through projection technology Glittering eternally on the necklace.Features and functions:Dream Catcher Design: Each necklace is designed with an exquisite dream catcher pattern, an ancient and mysterious pattern that represents the symbol of capturing dreams and guarding happiness.High-definition projection: The built-in projection gem has high-definition, which can project your uploaded photos in a clear and realistic way, making your memories more vivid.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the images on the projection stones come to life.Dreamcatchers and Memories Together: This regal and stylish dreamcatcher design projection necklace is more than just a piece of jewelry, it's an exquisite expression of dreams. It will forever treasure your precious moments in the dream catcher, and every time you wear it is a beautiful review of dreams and memories.
-  Updated: 2026-07-23T06:28:10Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1166,7 +1166,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Exquisite and noble love diamond projection necklace](https://levarjewelry.com/products/exquisite-and-noble-love-diamond-projection-necklace): Welcome to the noble and exquisite world of love, we proudly present the exquisite and noble Heart Diamond Projection Necklace. This jewelry is the perfect expression of love and elegance, through the nobility of diamonds and the uniqueness of projection technology, to cherish your precious memories forever in a shining gem.Features and functions:Noble Heart Design: Each necklace is designed with a delicate heart, which is a symbol of love and affection. It is both noble and romantic, the perfect choice for love.Shiny diamonds: The brilliance of diamonds is eternal, we set diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition to ensure that the details of the photos are clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure Love and Memories: This exquisite and regal heart diamond projection necklace is more than just a piece of jewelry, it is a symbol of your love and affection. It will forever treasure your precious moments and unique love in a gem, and every time you wear it is a beautiful tribute to love and precious memories.
-  Updated: 2026-07-23T06:28:23Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1252,7 +1252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/e0e579f3-973c-47b3-8d3a-d4c1e1637868.jpg?v=1782577066
     Price: $46.00 USD
 - [Trendy and fashionable dog paw print projection necklace](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace): Welcome to the world of Style and Personality, we proudly present On Trend Fashion Dog Paw Print Projection Necklace. This is a unique jewelry that combines the affectionate remembrance between you and your lovely pet with a unique design, presented on the necklace through projection technology, making you miss your furry companion all the time.Features and functions:UNIQUE DOG PAW PRINT DESIGN: Each necklace is designed with delicate dog paw print, which is lovely for youA unique tribute to your pet. Unique and touching, this design will keep your pet forever in your heart.High-definition projection: The built-in projection gem has high-definition, which can project your uploaded photos to ensure that the details of the image are clearly visible.FASHIONABLE STYLE: This necklace is not just sentimental, it's stylish too. It combines your favorite pet with the trend, adding a lot of color to your style.When placing your order, you will have the opportunity to upload the photos you wish to project.Our technical team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure the love of pets: This trendy and fashionable dog paw print projection necklace is not only a jewelry, but also a symbol of the affectionate memory between you and your pet. It will forever embed your pet's footprints in a gemstone, and each wear is a beautiful tribute to the deep bond between you and your pet.
-  Updated: 2026-07-23T06:28:10Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1378,7 +1378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
     Price: $46.00 USD
 - [Trendy fashion rotating circular projection necklace](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace): Staying ahead of fashion, we confidently present on-trend and stylish Twist Circle Projection Necklace. This is a jewelry that combines innovative design and high technology, through the rotation of round projected gemstones, it will show your personality and precious memories to the fullest.Features and functions:Swirled Circle Design: Each necklace features a unique swirled circle design for a modern and edgy look that will set you apart on the fashion scene.High-tech projection: The built-in projection technology projects your uploaded photos in high-definition, creating a visually stunning effect.Adjustable Chain: The necklace is equipped with an adjustable chain to ensure that you can easily adjust the length according to the needs of different occasions.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our technical team will carefully process your photos to ensure that the image on the projection stone is perfect.The Perfect Combination of Personality and Fashion: This trendy and fashionable swirling circle projection necklace is not just a jewelry, but also a symbol of your personality and fashion taste. It spins your memories and unique style together, and every wear is a tribute to personality and trend.
-  Updated: 2026-07-23T06:28:10Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1464,7 +1464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
     Price: $46.00 USD
 - [Simple atmosphere round diamond projection necklace](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace): Welcome to the world of sophistication and elegance, we proudly present a simple yet elegant round diamond drop necklace. The perfect combination of sophistication and style, this jewellery, through inlaid diamonds and projection technology, will forever preserve your precious memories in a sparkling gemstone.Material: Titanium steel.Features and functions:Simple and atmospheric design: Each necklace adopts a simple and atmospheric circular design, which is both elegant and refined. This design makes it stand out in various occasions.Noble diamonds: Diamonds represent nobility and eternity, and we have inlaid delicate diamonds on the necklace to make it more dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition to ensure that the details of the photos are clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Combination of individuality and nobility: This simple and atmospheric round diamond-encrusted projection necklace is not just a piece of jewelry, but also a perfect combination of nobility and individuality. It will forever cherish your precious moments in a gemstone, and each wear is a beautiful tribute to unique memories.
-  Updated: 2026-07-23T06:28:10Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1530,7 +1530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
     Price: $46.00 USD
 - [Retro Fashion Hollow Camera Projection Necklace](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace): Welcome to the photography journey of vintage and fashion, we proudly present the Vintage Fashion Cutout Camera Projector Necklace. More than a stylish accessory, this jewelry is the perfect homage to photography and memories, projecting your precious moments onto the necklace.Material: Titanium steel.Features and functions:Vintage Camera Design: Each necklace features a vintage camera design, a unique tribute to the art of photography. The design is both retro and stylish, making it an ideal choice for photography enthusiasts.High-Definition Projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that the details of the photos are clearly visible.Retro Style Chain: The design of the necklace chain complements the retro camera and adds to the overall sense of fashion.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be your photography portfolio or a photo of a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure Photography and Memories: More than just jewelry, this vintage fashion cutout camera projection necklace is the perfect memorial to the art of photography and precious moments. It will forever treasure your photography works or precious memories in a jewel, and every time you wear it is a beautiful tribute to photography and memories.
-  Updated: 2026-07-23T06:28:10Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1596,7 +1596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
     Price: $46.00 USD
 - [Novel fashion round projection necklace](https://levarjewelry.com/products/novel-fashion-round-projection-necklace): Welcome to the cutting edge of fashion and technology, we proudly present a new and trendy round projection necklace. The perfect combination of innovation and fashion, this jewelry presents your personality and precious memories vividly through round projected gemstones.Features and functions:Unique circular design: Each necklace adopts a unique circular design, which is simple and delicate, full of modernity and fashion elements.Cutting-edge projection technology: The built-in projection gem can project your uploaded photos in high definition, ensuring that the details of the image are clearly visible.Personalization Choice: This necklace can be customized, you can choose the picture or text you want to project, making it a unique personalized jewelry.When placing an order, you will have the opportunity to upload the photo or text you wish to project.Our professional team will take care of your selection to ensure that the image or text on the projected stone is perfect.The Perfect Combination of Personality and Fashion: This novelty and fashionable circular projection necklace is not just a jewelry, but also a perfect combination of personality and fashion. It brings your personality and cherished memories to life on a necklace that is a beautiful tribute to self-expression every time it is worn.
-  Updated: 2026-07-23T06:28:09Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1682,7 +1682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
     Price: $46.00 USD
 - [Noble and light luxury flower projection necklace](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace): Welcome to the realm of noble and luxurious flowers, we proudly present the noble and luxurious flower projection necklace. Not only a tribute to the beauty of nature, this jewelry combines the perfection of noble design and projection technology to preserve your precious memories forever in a dazzling gemstone.Material: Titanium steel.Features and functions:Delicate Flower Design: Each necklace features a delicate flower design that is a compliment to the beauty of nature. The design is both noble and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect combination of natural beauty and nobility: This noble and light luxury flower projection necklace is not just a jewelry, but also a perfect combination of natural beauty and precious memories. It will forever treasure your precious moments and the beauty of nature in a gemstone, and every time you wear it, it is a compliment to the beauty of nature.
-  Updated: 2026-07-23T06:28:09Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1728,7 +1728,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
     Price: $46.00 USD
 - [Exquisite and Fashionable Sunflower Diamond Projection Necklace](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace): Welcome into the warmth and life-giving energy of the sun, we proudly present a stunning and stylish sunflower diamond projection necklace. The perfect combination of natural beauty and noble design, this jewelry will cherish your precious memories forever in a dazzling gemstone through the pattern of sunflowers and the luxury of diamonds.Features and functions:Sunflower Design: Each necklace features a sunflower design, a symbol of life and hope. The design is both vibrant and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect fusion of life and preciousness: This exquisite and fashionable sunflower and diamond projection necklace is not just a jewelry, but also a beautiful fusion of the vitality of life and precious moments. It will forever embed your precious memories and the beauty of nature in a gem, and every time you wear it, it is a compliment to life.
-  Updated: 2026-07-23T06:28:09Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1813,15 +1813,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
     Price: $46.00 USD
-- [Exquisite Trend Love House Diamond Design Projection Necklace](https://levarjewelry.com/products/exquisite-trend-love-house-diamond-design-projection-necklace): Welcome to Romantic and Trendy Love Cottage, we are proud to present an Exquisite Trendy Love Cottage Diamond Design Projection Necklace. Not only is this jewelry a beautiful tribute to love, but it also combines the warmth of a cabin with the uniqueness of projection technology to preserve your precious memories with your loved one forever in a dazzling gemstone.Material: Titanium steel.Features and functions:Romantic cottage design: Each necklace adopts the romantic cottage design, which is a symbol of love and warm family. The design is both warm and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved one, a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect combination of love house and preciousness: This delicate and trendy love house diamond design projection necklace is not only a jewelry, but also a beautiful tribute to love. It combines your precious memories with your loved ones and the romance of a cozy cottage in one gemstone, and every time you wear it, it is a beautiful tribute to love and warm family.
-  Updated: 2026-07-28T12:10:36Z
-  Vendor: Le'Var
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1bf682f4-2e27-44af-91fc-82ad1a4cc7c9.jpg?v=1782577121
-  Price: $0.00 USD
 - [U-Shape Projection Pendant Necklace — Personalized Photo | Le'Var](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace): Personalized U-shape projection necklace in gold, silver, and rose gold. Upload your photo and wear your memory in stunning clarity. Free shipping. Le'Var jewelry.
-  Updated: 2026-07-21T11:41:52Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1887,7 +1880,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
     Price: $46.00 USD
 - [Fashion Simple Cross Projection Necklace](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace): Welcome to the intersection of fashion and faith, we proudly present the trendy minimalist Cross Projection Necklace. A beautiful tribute to faith, this jewelry allows you to hold cherished memories and beliefs close to your heart through the classic design of the cross and projection technique.Features and functions:SIMPLE CROSS DESIGN: Each necklace features a simple cross design, representing faith and purity. This design is both contemporary and suitable for a variety of styles.High-Quality Projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.A Perfect Combination of Faith and Memories: The Trendy Simple Cross Projection Necklace is more than just a piece of jewelry, it is the perfect combination of faith and cherished memories. It allows you to forever embed your faith and cherished memories in a single gemstone, a beautiful tribute to your faith and memories every time you wear it.
-  Updated: 2026-07-23T06:28:09Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -1968,7 +1961,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Classic Simple Hollow Cross Projection Necklace](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace): Welcome to the world of eternal faith and pure love. We are proud to present the Classic Simple Cutout Cross Projection Necklace. This necklace is not just a piece of jewelry, but a symbol of faith and love. Its classic cross design and advanced projection technology enable you to keep your precious memories and beliefs close at hand.Features and functions:CLASSIC CROSS DESIGN: Each necklace features a classic cutout cross design, representing faith and purity. This design has timeless appeal and looks great with any outfit.High-Quality Projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail is clearly visible.Personalization: This necklace can be customized according to your choice, you can choose the photo to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will take care of your selection to ensure that the photo projection on the stone is perfect.A Fusion of Faith and Memories: The Classic Simple Cutout Cross Projection Necklace is more than just a piece of jewelry, it is the perfect fusion of faith and precious memories. It allows you to forever enshrine your faith and the memories of your loved ones within a single gemstone, making each wear a beautiful tribute to faith and love.
-  Updated: 2026-07-23T06:28:09Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2064,7 +2057,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Delicate Dazzling Open Heart Shaped Diamond Projection Necklace](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace): Welcome to the world of fine and luxurious jewelry, we proudly present an exquisite and dazzling Open Heart Diamond Projection Necklace. A perfect blend of love and unique design, this jewelry keeps your precious memories forever within a single gemstone with a heart-shaped cutout and sparkling diamonds.Features and functions:Unique Heart Cutout Design: Each necklace has a unique heart cutout design, representing love and uniqueness. The design is both romantic and expressive.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.A Perfect Blend of Love and Preciousness: More than just a piece of jewelry, this dainty pierced heart-shaped diamond projection necklace is the perfect fusion of love and precious memories. It will forever treasure your precious moments and heart-shaped design in a gemstone, and every time you wear it is a beautiful tribute to love and preciousness.
-  Updated: 2026-07-23T06:28:08Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2160,7 +2153,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Exquisite fashion LOVE design projection necklace](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace): Welcome to the world of love and fashion, we proudly present exquisite fashion LOVE design projection necklace. This jewelry is not only a beautiful tribute to love, but also through LOVE design and projection technology, you can cherish your precious memories forever in a gemstone, so that your love will never fade.Features and functions:Exquisite LOVE design: Each necklace adopts an exquisite LOVE design, which is a symbol of love and passion. The design is both vibrant and artistic.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved one, a memory of a special moment, or a message of love.Our professional team will carefully handle your selection to ensure that the image on the projected stone is perfect.The perfect combination of love and personality: The exquisite and fashionable LOVE design projection necklace is not only a jewelry, but also a perfect combination of love and personality. It allows you to forever embed love and unique memories in a single gemstone, a beautiful tribute to love and individuality every time you wear it.
-  Updated: 2026-07-23T06:28:08Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2256,7 +2249,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Noble Fashion Cross Inlaid Gem Design Projection Necklace](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace): Welcome to the realm of regal and stylish jewellery, we proudly present the regal and stylish Cross Set Gemstone Design Projection Necklace. This jewelry is not only a respect for faith, but also combines the sacredness of the cross and the luxury of gemstones. Through projection technology, precious memories are forever treasured in a gemstone.Material: Titanium steel.Features and functions:Noble Cross Design: Each necklace adopts a noble cross design, representing faith and holiness. This design is both solemn and stylish.Luxurious Gemstone Inlay: Gemstones represent luxury and preciousness, we inlaid exquisite gemstones on the necklace to make it more noble and dazzling.High-Definition Projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing an order, you will have the opportunity to upload the photos or information you would like to be projected. This can be a photo of your faith-related or a special moment together.Our professional team will carefully handle your selection to ensure that the image on the projected stone is perfect.A Blend of Faith and Memories: More than just jewelry, this regal and stylish cross-set gemstone design projection necklace is a perfect blend of faith and cherished memories. It will forever embed your beliefs and precious moments in a gemstone, and every time you wear it, it is a beautiful tribute to your beliefs and precious moments.
-  Updated: 2026-07-23T06:28:08Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2302,7 +2295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
     Price: $46.00 USD
 - [Classic Simple Hollow Round Projection Necklace](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace): Welcome to the world of classic and minimal jewelry, we proudly present the Classic Simple Cutout Round Drop Necklace. This jewelry not only represents the classic beauty, but also adds a classic charm to your style by enshrining your precious memories forever in a gemstone through the circular cutout design and projection technology.Features and functions:Classic circular cutout design: Each necklace adopts a classic circular cutout design, representing perfection and infinity. This design is full of classic beauty and suitable for all styles.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The blend of classics and memories: The classic and simple hollowed-out round projection necklace is not just a piece of jewelry, but also a perfect blend of classic beauty and precious memories. It will forever embed your precious moments and classic designs in a gem, and every time you wear it, it is a tribute to the classic beauty.
-  Updated: 2026-07-23T06:28:08Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2428,7 +2421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
     Price: $46.00 USD
 - [Noble and light luxury love with wings projection necklace](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace): Welcome to the world of noble and luxurious jewelry, we proudly present the noble and luxurious Heart with Wings Projection Necklace. This jewelry is not only a unique expression of love and freedom, but also incorporates the design elements of hearts and wings. Through projection technology, your precious memories will be forever treasured in a gemstone, adding a touch of luxury to your style charm.Features and functions:Unique Design Fusion: Each necklace is a fusion of noble heart and wings elements, representing love and freedom. This design is full of romance and light luxury.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing an order, you will have the opportunity to upload the photos or information you would like to be projected. This can be a photo of you with a loved one, a memory of a special moment, or a message of love and freedom.Our professional team will carefully handle your selection to ensure that the image or message on the projected stone is perfect.The perfect combination of love and freedom: Noble and light luxury heart with wings projection necklace is not only a jewelry, but also a perfect combination of love and freedom. It will forever treasure your personality and precious memories in a gemstone, and every time it is worn, it is a beautiful tribute to love and freedom.
-  Updated: 2026-07-23T06:28:08Z
+  Updated: 2026-09-02T19:43:14Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -2513,175 +2506,88 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
     Price: $46.00 USD
-- [Dazzling four-leaf clover diamond projection necklace](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace): Welcome to the world of lucky and elegant jewelry, we proudly present the exquisite Dazzling Four Leaf Clover and Diamond Projection Necklace. This jewelry perfectly combines the lucky meaning of four-leaf clover and the luxury of diamonds. Through projection technology, your precious memories will forever shine in a gemstone.Features and functions:Charming Four-Leaf Clover Design: Each necklace features a charming four-leaf clover design, representing luck and happiness. This design is full of elegance and blessing.Luxury Diamond Inlay: Diamond represents luxury and preciousness, we have inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-Definition Projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a memory of your lucky moment, or a message expressing your blessings.Our professional team will carefully handle your selection to ensure that the image on the projected stone is perfect.The Perfect Combination of Luck and Elegance: This dainty four-leaf clover diamond projection necklace is more than just jewelry, it is the perfect combination of luck and elegance. It will forever sparkle your precious memories and the blessings of the four-leaf clover in a gemstone, and every time you wear it, it is a beautiful tribute to happiness and elegance.
-  Updated: 2026-07-23T06:28:07Z
-  Vendor: Le'Var
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fa449100-3f72-45b4-8440-7da41f4b861c.jpg?v=1782577243
-  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889967956289)
-    Availability: Available
-    Price: $58.00 USD
-  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889967989057)
-    Availability: Available
-    Price: $58.00 USD
-  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968021825)
-    Availability: Available
-    Price: $58.00 USD
-  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968054593)
-    Availability: Available
-    Price: $58.00 USD
-  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968087361)
-    Availability: Available
-    Price: $58.00 USD
-  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968120129)
-    Availability: Available
-    Price: $46.00 USD
-  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968152897)
-    Availability: Available
-    Price: $46.00 USD
-  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968185665)
-    Availability: Available
-    Price: $46.00 USD
-  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968218433)
-    Availability: Available
-    Price: $46.00 USD
-  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968251201)
-    Availability: Available
-    Price: $46.00 USD
-  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968283969)
-    Availability: Available
-    Price: $58.00 USD
-  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968316737)
-    Availability: Available
-    Price: $58.00 USD
-  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968349505)
-    Availability: Available
-    Price: $58.00 USD
-  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968382273)
-    Availability: Available
-    Price: $58.00 USD
-  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968415041)
-    Availability: Available
-    Price: $58.00 USD
-  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968447809)
-    Availability: Available
-    Price: $46.00 USD
-  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968480577)
-    Availability: Available
-    Price: $46.00 USD
-  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968513345)
-    Availability: Available
-    Price: $46.00 USD
-  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968546113)
-    Availability: Available
-    Price: $46.00 USD
-  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968578881)
-    Availability: Available
-    Price: $46.00 USD
-  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968611649)
-    Availability: Available
-    Price: $58.00 USD
-  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968644417)
-    Availability: Available
-    Price: $58.00 USD
-  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968677185)
-    Availability: Available
-    Price: $58.00 USD
-  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968709953)
-    Availability: Available
-    Price: $58.00 USD
-  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968742721)
-    Availability: Available
-    Price: $58.00 USD
-  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968775489)
-    Availability: Available
-    Price: $46.00 USD
-  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968808257)
-    Availability: Available
-    Price: $46.00 USD
-  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968841025)
-    Availability: Available
-    Price: $46.00 USD
-  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968873793)
-    Availability: Available
-    Price: $46.00 USD
-  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/dazzling-four-leaf-clover-diamond-projection-necklace?variant=51889968906561)
-    Availability: Available
-    Price: $46.00 USD
-[List Continued](https://levarjewelry.com/a/llms-agent/llms.txt?shop=blackboxjewelry-926.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI5NTg3NzU2Njc4NSwibGFzdF92YWx1ZSI6IjEwMjk1ODc3NTY2Nzg1In0%3D)
+[List Continued](https://levarjewelry.com/a/llms-agent/llms.txt?shop=blackboxjewelry-926.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI5NTg3NzUzNDAxNywibGFzdF92YWx1ZSI6IjEwMjk1ODc3NTM0MDE3In0%3D)
 
 ## Collections
 
 - [New Arrivals](https://levarjewelry.com/collections/new-arrivals): Shop the latest jewelry arrivals at Le'Var Neilson. New moissanite, diamond, and gemstone pieces added regularly.
-  Updated: 2026-07-17T01:10:22Z
-  Total Products: 6
+  Updated: 2026-10-21T07:19:23Z
+  Total Products: 7
 - [Necklaces](https://levarjewelry.com/collections/necklaces): Shop moissanite and sterling silver necklaces at Le'Var Neilson. Delicate chains, bold pendants, and projection necklaces. Free shipping available.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 85
+  Updated: 2026-10-22T17:20:30Z
+  Total Products: 91
 - [Rings](https://levarjewelry.com/collections/rings): Shop moissanite and sterling silver rings at Le'Var Neilson. Solitaires, stacking rings, bypass styles & more for women and men. Free shipping available.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 115
+  Updated: 2026-10-21T07:42:32Z
+  Total Products: 114
 - [Bridal & Engagement Jewelry](https://levarjewelry.com/collections/bridal-engagement-jewelry): Shop moissanite bridal and engagement jewelry at Le'Var Neilson. Engagement rings, wedding bands, and bridal sets in 925 sterling silver. Free shipping.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 18
+  Updated: 2026-10-21T07:43:08Z
+  Total Products: 23
 - [Earrings](https://levarjewelry.com/collections/earrings): Shop moissanite and sterling silver earrings at Le'Var Neilson. Studs, hoops, drop earrings and more. Everyday luxury for every occasion. Free shipping available.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-09-20T06:57:38Z
   Total Products: 27
 - [Gift Cards](https://levarjewelry.com/collections/gift-cards): Give the gift of fine moissanite jewelry with a Le'Var Neilson Gift Card. Redeemable on any piece, delivered instantly, and never expires.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-08-16T07:44:26Z
   Total Products: 0
 - [Bracelets](https://levarjewelry.com/collections/bracelets-smart): Shop fine bracelets at Le'Var Neilson. Moissanite, diamond, and gemstone designs in gold and silver for everyday luxury.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 73
+  Updated: 2026-09-29T10:08:02Z
+  Total Products: 74
 - [Women's Bracelets](https://levarjewelry.com/collections/womens-bracelets-smart): Shop Le'Var Neilson's women's moissanite bracelets — tennis, bangle & layering styles in rose gold, white gold & silver. Timeless elegance awaits.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 15
+  Updated: 2026-08-24T22:44:21Z
+  Total Products: 16
 - [Photo Projection Jewelry](https://levarjewelry.com/collections/photo-projection-jewelry): Shop Le'Var photo projection jewelry. Upload your photo and wear it forever in a stunning ring or necklace. Perfect personalized gift for any occasion.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 72
+  Updated: 2026-09-04T12:02:11Z
+  Total Products: 71
 - [Projection Necklaces](https://levarjewelry.com/collections/projection-necklaces): Shop Le'Var's projection necklaces — unique jewelry with a hidden photo or message inside. Perfect gifts for her. Free shipping available.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-09-04T11:57:47Z
   Total Products: 42
 - [Projection Bracelets](https://levarjewelry.com/collections/projection-bracelets): Shop Le'Var's projection bracelets — elegant bracelets with a hidden photo or message inside. Unique jewelry gifts for her.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 22
+  Updated: 2026-09-04T12:02:11Z
+  Total Products: 21
 - [Projection Rings](https://levarjewelry.com/collections/projection-rings): Shop Le'Var's projection rings — stunning rings with a hidden photo or message inside. Unique, personal jewelry gifts for her.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-08-16T07:44:26Z
   Total Products: 3
 - [Moissanite Gift Sets](https://levarjewelry.com/collections/moissanite-gift-sets): Shop curated moissanite gift sets at Le'Var Neilson. Rings, necklaces & earrings bundled for the perfect luxury jewelry gift.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 8
+  Updated: 2026-09-21T10:35:44Z
+  Total Products: 0
 - [Moissanite Bridal Sets](https://levarjewelry.com/collections/moissanite-bridal-sets): Shop moissanite bridal jewelry sets at Le'Var Neilson. Curated rings, earrings & necklace pairings for your wedding day.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 17
+  Updated: 2026-10-21T07:43:08Z
+  Total Products: 22
 - [Moissanite Everyday Stack](https://levarjewelry.com/collections/moissanite-everyday-stack): Shop moissanite everyday stack jewelry at Le'Var Neilson. Mix & match rings, bracelets, and necklaces for effortless daily luxury.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-08-28T01:28:10Z
   Total Products: 15
 - [Men's Necklaces](https://levarjewelry.com/collections/mens-necklaces): Shop premium men's necklaces at Le'Var — Cuban link chains, cross pendants, dragon designs & more. Bold jewelry for men who lead.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 29
+  Updated: 2026-08-28T20:09:32Z
+  Total Products: 30
 - [Men's Bracelets](https://levarjewelry.com/collections/mens-bracelets): Shop premium men's bracelets at Le'Var — Cuban link, dragon bone, snake bone & punk styles. Bold wrist jewelry for men who lead.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 11
+  Updated: 2026-08-28T20:04:49Z
+  Total Products: 13
 - [Men's Earrings](https://levarjewelry.com/collections/mens-earrings): Shop premium men's earrings at Le'Var — moissanite studs and sterling silver designs. Unisex styles, diamond-rivaling brilliance.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-09-20T06:57:38Z
   Total Products: 6
 - [Women's Earrings](https://levarjewelry.com/collections/womens-earrings): Shop premium women's earrings at Le'Var — moissanite studs, drop earrings, hoops & custom designs in 925 sterling silver.
-  Updated: 2026-07-26T00:34:46Z
+  Updated: 2026-09-20T06:57:38Z
   Total Products: 15
 - [Personalized Jewelry](https://levarjewelry.com/collections/personalized-jewelry): Shop personalized jewelry at Le'Var — custom name earrings, engraved pieces & photo projection jewelry. Unique gifts in sterling silver & gold.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 20
+  Updated: 2026-09-10T03:48:03Z
+  Total Products: 197
 - [Women's Necklaces](https://levarjewelry.com/collections/womens-necklaces): Shop premium women's necklaces at Le'Var — moissanite pendants, diamond-cut chains & personalized pieces in sterling silver and gold.
-  Updated: 2026-07-26T00:34:46Z
-  Total Products: 49
+  Updated: 2026-10-21T07:49:59Z
+  Total Products: 51
 - [Birthstone Jewelry](https://levarjewelry.com/collections/birthstone-jewelry): Shop birthstone rings, necklaces, earrings & bracelets in 925 sterling silver. Perfect gifts for birthdays & Mother's Day. Free shipping available.
-  Updated: 2026-07-30T22:52:19Z
-  Total Products: 21
+  Updated: 2026-09-10T03:48:03Z
+  Total Products: 20
 - [Anklets](https://levarjewelry.com/collections/anklets): Shop Le'Var's anklet collection — 18K gold & sterling silver designs. Bold tassel, layered, and minimalist styles. Gift-ready.
-  Updated: 2026-07-26T00:34:47Z
+  Updated: 2026-08-16T07:44:27Z
   Total Products: 4
+- [Men's Rings](https://levarjewelry.com/collections/mens-rings): Explore Le'Var men's rings, from sterling silver and moissanite designs to bold everyday styles made to stand apart.
+  Updated: 2026-10-21T06:52:31Z
+  Total Products: 0
+- [Women's Rings](https://levarjewelry.com/collections/womens-rings): Explore Le'Var women's rings, from sterling silver and moissanite designs to refined everyday styles made to stand apart.
+  Updated: 2026-10-21T07:43:09Z
+  Total Products: 31
+- [Jewelry Sets](https://levarjewelry.com/collections/jewelry-sets): Shop coordinated jewelry sets from Le’Var, featuring polished finishes, symbolic details, and gift-worthy styles for effortless everyday elegance.
+  Updated: 2026-09-29T10:22:30Z
+  Total Products: 7
 
 ## Blogs
 
@@ -2720,6 +2626,42 @@
   - [Comparing Different Cut Styles in Gemstones Which One is Right for You](https://levarjewelry.com/blogs/news/comparing-different-cut-styles-in-gemstones-which-one-is-right-for-you): Comparing Different Cut Styles in Gemstones Which One is Right for You
     Updated: 2026-07-26T00:04:29Z
     Author: Le'Var Neilson Jewelry
+  - [The Healing Properties of Gemstones Fact or Fiction](https://levarjewelry.com/blogs/news/the-healing-properties-of-gemstones-fact-or-fiction): The Healing Properties of Gemstones Fact or Fiction
+    Updated: 2026-08-02T00:04:58Z
+    Author: Le'Var Neilson Jewelry
+  - [Troubleshooting Issues When Gemstones Lose Their Luster](https://levarjewelry.com/blogs/news/troubleshooting-issues-when-gemstones-lose-their-luster): Troubleshooting Issues When Gemstones Lose Their Luster
+    Updated: 2026-08-09T00:04:42Z
+    Author: Le'Var Neilson Jewelry
+  - [Educational Insights: The Journey of a Gemstone from Mine to Market](https://levarjewelry.com/blogs/news/educational-insights-the-journey-of-a-gemstone-from-mine-to-market): Educational Insights: The Journey of a Gemstone from Mine to Market
+    Updated: 2026-08-16T00:04:37Z
+    Author: Le'Var Neilson Jewelry
+  - [A Checklist for Purchasing Gemstones Safely and Smartly](https://levarjewelry.com/blogs/news/a-checklist-for-purchasing-gemstones-safely-and-smartly): A Checklist for Purchasing Gemstones Safely and Smartly
+    Updated: 2026-08-23T00:04:48Z
+    Author: Le'Var Neilson Jewelry
+  - [The Most Valuable Gemstones in the World](https://levarjewelry.com/blogs/news/the-most-valuable-gemstones-in-the-world): The Most Valuable Gemstones in the World
+    Updated: 2026-08-30T00:04:15Z
+    Author: Le'Var Neilson Jewelry
+  - [A Guide to Finding the Ideal Birthstone for Every Month](https://levarjewelry.com/blogs/news/a-guide-to-finding-the-ideal-birthstone-for-every-month): A Guide to Finding the Ideal Birthstone for Every Month
+    Updated: 2026-09-06T00:03:57Z
+    Author: Le'Var Neilson Jewelry
+  - [Exploring the Impact of Light on Gemstone Clarity](https://levarjewelry.com/blogs/news/exploring-the-impact-of-light-on-gemstone-clarity): Exploring the Impact of Light on Gemstone Clarity
+    Updated: 2026-09-13T00:04:26Z
+    Author: Le'Var Neilson Jewelry
+  - [Different Types of Gemstone Treatments Explained](https://levarjewelry.com/blogs/news/different-types-of-gemstone-treatments-explained): Different Types of Gemstone Treatments Explained
+    Updated: 2026-09-20T00:04:53Z
+    Author: Le'Var Neilson Jewelry
+  - [Frequently Asked Questions About Investing in Gemstones](https://levarjewelry.com/blogs/news/frequently-asked-questions-about-investing-in-gemstones): Frequently Asked Questions About Investing in Gemstones
+    Updated: 2026-09-27T00:03:53Z
+    Author: Le'Var Neilson Jewelry
+  - [How Artisans Craft Beautiful Jewelry from Raw Gemstones](https://levarjewelry.com/blogs/news/how-artisans-craft-beautiful-jewelry-from-raw-gemstones): How Artisans Craft Beautiful Jewelry from Raw Gemstones
+    Updated: 2026-10-04T00:03:50Z
+    Author: Le'Var Neilson Jewelry
+  - [Emerging Trends: Gemstones Taking the Jewelry Market by Storm](https://levarjewelry.com/blogs/news/emerging-trends-gemstones-taking-the-jewelry-market-by-storm): Emerging Trends: Gemstones Taking the Jewelry Market by Storm
+    Updated: 2026-10-11T00:03:34Z
+    Author: Le'Var Neilson Jewelry
+  - [The Cultural Significance of Gemstones in Different Traditions](https://levarjewelry.com/blogs/news/the-cultural-significance-of-gemstones-in-different-traditions): The Cultural Significance of Gemstones in Different Traditions
+    Updated: 2026-10-18T00:03:38Z
+    Author: Le'Var Neilson Jewelry
 
 ## Store Pages
 
@@ -2751,21 +2693,25 @@
   Updated: 2026-04-25T10:18:52Z
 - [Media Kit — Le'Var Neilson | Premium Moissanite Jewelry](https://levarjewelry.com/pages/media-kit): Le'Var Neilson Media KitThank you for your interest in partnering with Le'Var Neilson. We're a premium moissanite jewelry brand crafting timeless r...
   Updated: 2026-06-24T00:48:31Z
+- [Ring Size Guide | Le'Var Neilson](https://levarjewelry.com/pages/ring-size-guide): Ring Size GuideNot sure what size you wear? Use the chart below to find your perfect fit. For the most accurate measurement, measure the circumfere...
+  Updated: 2026-09-04T11:30:02Z
 - [Le'Var Rewards Program | Earn Points on Every Purchase](https://levarjewelry.com/pages/rewards): Le'Var RewardsShop and earn Le'Var Points on every purchase. Redeem your points for exclusive discounts on premium moissanite jewelry.How It Works ...
   Updated: 2026-07-27T19:21:32Z
+- [Wholesale Inquiries](https://levarjewelry.com/pages/wholesale-inquiries): Bring Le’Var to your boutique.Le’Var Neilson Jewelry is a Washington-based jewelry business with a refined, timeless point of view. We welcome inqu...
+  Updated: 2026-10-18T02:44:58Z
 
 ## Policies
 
 - [Privacy Policy](https://levarjewelry.com/policies/privacy-policy)
-  Updated: 2025-08-22T00:21:34-07:00
+  Updated: 2025-08-22T07:21:34Z
 - [Shipping Policy](https://levarjewelry.com/policies/shipping-policy)
-  Updated: 2026-07-04T18:48:30-07:00
+  Updated: 2026-07-05T01:48:30Z
 - [Refund Policy](https://levarjewelry.com/policies/refund-policy)
-  Updated: 2026-07-04T18:54:15-07:00
+  Updated: 2026-07-05T01:54:15Z
 - [Terms of Service](https://levarjewelry.com/policies/terms-of-service)
-  Updated: 2026-07-04T18:55:30-07:00
+  Updated: 2026-07-05T01:55:30Z
 - [Contact Information](https://levarjewelry.com/policies/contact-information)
-  Updated: 2026-07-04T18:53:25-07:00
+  Updated: 2026-07-05T01:53:25Z
 
 ## Optional
 
