@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-21T11:17:34Z
 - Contact Email: kashmirgemsjewelry@gmail.com
-- Updated At: 2026-09-28T00:00:37.610Z
+- Updated At: 2026-10-23T00:43:01.236Z
 
 ## Products
 
@@ -477,7 +477,7 @@ collectors. September birthstone.
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/emerald_rough_gems_swat.jpg?v=1784670681
   Price: $1,600.00 USD
 - [Buy 3.85 Carats Faceted Natural Ruby loose Gem For Jewellery Online](https://www.kashmirstones.com/products/faceted-natural-ruby-loose-gem): This Natural Ruby gemstone is a beautiful and rare gemstone from Kashmir. This genuine Natural Ruby weighs 3.85 carats, it is very beautiful size for jewellery designs and gemstone collections. The gemstone has a dimension of 9.87 × 8.66 × 5.40 mm, it is best for rings, pendants, earrings, and other fine jewellery pieces. This Kashmir Ruby is a special gemstone known for its beauty and unique origin. Perfect for collectors, jewellery designers, and gemstone lovers who love rare and natural precious stones. Add this beautiful Ruby gemstone to your collection. Frequently Asked Questions Q1: Is this a natural Ruby gemstone from Kashmir? Yes, this is a Natural Ruby gemstone from Kashmir. It is a genuine Ruby stone with a beautiful look, which is best for collectors and jewellery lovers. Q2: Can this loose Ruby gemstone be used for making jewellery? Yes, this loose Ruby gemstone is suitable for making rings, pendants, earrings, and other fine jewellery pieces. Its size and natural beauty make it a lovely choice for custom jewellery. Q3: Why is Kashmir Ruby special? Kashmir Ruby is special because of its rare origin and beautiful appearance. This precious Ruby stone is a great addition to any gemstone collection.
-  Updated: 2026-09-15T20:36:19Z
+  Updated: 2026-10-19T09:01:30Z
   Vendor: Kashmir Stones
   Product Type: Loose Gemstones
   Availability: Available
@@ -553,13 +553,6 @@ collectors. September birthstone.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/20.88_carat_natural_faceted_Paraiba_tourmaline.jpg?v=1790158988
   Price: $7,000.00 USD
-- [1.03 carats Burma Ruby](https://www.kashmirstones.com/products/1-03-carats-burma-ruby): 1.03 carats Burma ruby
-  Updated: 2026-09-15T20:36:20Z
-  Vendor: Kashmir Stones
-  Product Type: Loose Gemstones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/334C4425-FD49-46A5-A7D8-DE0641CA226E.jpg?v=1788479940
-  Price: $2,500.00 USD
 - [Buy 1.75 Carats Untreated Mozambique Ruby Loose Stone Online](https://www.kashmirstones.com/products/untreated-mozambique-ruby-loose-stone): Natural Mozambique Ruby — Oval Cut, 1.75 Carats This 1.75 carat ruby originates from Mozambique, one of the world's most significant ruby-producing regions since the early 2000s. Mozambican rubies are known for their strong red saturation and fluorescence under UV light, characteristics that closely rival classic Burma material. The stone is cut in an oval shape measuring 9 × 5 × 3 mm, a form that maximizes carat weight retention while maintaining symmetry and face-up colour. It displays transparent clarity with a glowing red body colour visible under both natural and artificial light. Specimen Details Species: Corundum (Ruby)Origin: MozambiqueWeight: 1.75 CaratsShape: OvalDimensions: 9 × 5 × 3 mmColor: RedTreatment: NoneBirthstone: July FAQs Is this 1.75 carat Mozambique ruby treated?No, this ruby is listed as untreated and has not been subjected to heat  or any enhancement process. What are the dimensions and shape of this Mozambique ruby?This natural ruby has an oval cut and measures approximately 9 × 5 × 3 mm, with a weight of 1.75 carats. Is this ruby suitable for jewellery and collectors?Yes, its oval cut and red body colour make it suitable for custom jewellery settings, while its untreated status can also appeal to gemstone collectors.
   Updated: 2026-09-25T00:42:24Z
   Vendor: Kashmir Stones
@@ -595,6 +588,48 @@ collectors. September birthstone.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/74_grams_facet_grade_raw_peridot_parcel.jpg?v=1790340323
   Price: $1,650.00 USD
+- [Buy 90g Untreated Peridot Rough from Pakistan Online](https://www.kashmirstones.com/products/untreated-peridot-rough-from-pakistan): Looking for untreated peridot rough for faceting? This 90g untreated peridot faceting material lot from Pakistan contains green, uncut stones in different shapes and sizes. Each piece of authentic untreated Pakistani peridot rough weighs from under 1 gram to 4 grams. This peridot rough lot from Pakistan is listed for faceting, with no treatments recorded. Key features Gemstone: Peridot rough Total weight: 90 grams Weight per piece: Under 1 gram to 4 grams Origin: Pakistan Color: Light to dark green Form: Uncut stones in different shapes and sizes : No treatments recorded Use: Listed for faceting and gem-cutting projects Frequently asked questions What is the total weight of this peridot rough lot from Pakistan? The lot weighs 90 grams. Each piece weighs from under 1 gram to 4 grams. Is this untreated peridot rough for faceting? Yes. The product is listed as rough peridot for faceting, with no treatments recorded.
+  Updated: 2026-10-08T02:41:00Z
+  Vendor: Kashmir Stones
+  Product Type: Rough Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/90g_Untreated_Peridot_Rough_from_Pakistan.jpg?v=1791385214
+  Price: $1,400.00 USD
+- [Buy 15.3ct Untreated Fancy Cut Peridot Pair from Pakistan Online](https://www.kashmirstones.com/products/untreated-fancy-cut-peridot-pair-from-pakistan): This untreated fancy cut peridot pair from Pakistan weighs 15.3 carats in total. Each green loose stone measures 9 × 8 mm, with individual weights listed from 7.5 to 7.8 carats. The photos show bright green color and shiny cut faces. This loose peridot gemstone pair is sold without a jewelry setting. For a custom jewelry project, compare the stone measurements with your planned design. View both photos to see this green peridot gemstone pair in detail. Key features Gemstone: Peridot Sold as: Two loose stones Total weight: 15.3 carats Individual weight: 7.5 to 7.8 carats Size: 9 × 8 mm each Cut: Fancy cut Color: Green Listed clarity: VS Origin: Pakistan : None recorded Price: $550 for the pair View both photos to see this green peridot gemstone pair in detail. Colors may look different with lighting and screen settings. Frequently asked questions How much does this 15.3-carat fancy cut peridot pair weigh per stone? Individual weights are listed from 7.5 to 7.8 carats. The pair weighs 15.3 carats in total. What are the measurements of this loose peridot pair for custom jewelry? Each stone measures 9 × 8 mm. Check these measurements against your planned setting. What origin and  are listed for this green peridot gemstone pair? The stones are listed as originating from Pakistan, with no treatments recorded.
+  Updated: 2026-10-08T03:08:06Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/15.3ct_untreated_fancy_cut_peridot_pair_from_Pakistan.jpg?v=1791386977
+  Price: $550.00 USD
+- [7.75 Carats Natural Aquamarine Loose Gemstones](https://www.kashmirstones.com/products/7-75-carats-natural-aquamarine-loose-gemstones): This natural aquamarine loose gemstone has a soft, pale blue color and a rectangular shape clipped corners. Its step-cut facets give it a simple, clean look. Weighing 7.75 carats, this pale blue aquamarine for custom jewelry is an option for a ring or pendant. You can also keep it as part of a gemstone collection. Ask your jeweler to check its size and depth before choosing a setting. Key Features Gemstone: Natural aquamarineColour: Pale blueWeight: 7.75 caratsSize: 14.8 × 10.6 × 8.1 mmShape: Rectangular with clipped cornersCut: Step cutClarity: SI to eye-clean, as stated in the current listing FAQs Can I use this natural aquamarine loose gemstone for a ring? Yes, it can be considered for a custom ring. Your jeweler should check its measurements and choose a suitable setting. What size is this 7.75 carat aquamarine gemstone? It measures 14.8 × 10.6 × 8.1 mm. Check these measurements when planning a ring or pendant. Is this an untreated natural aquamarine gemstone? The listing identifies it as natural aquamarine, but does not state its  status. Natural does not necessarily mean untreated.
+  Updated: 2026-10-12T05:39:38Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/7.75_carats_natural_aquamarine_loose_gemstone.jpg?v=1791740853
+  Price: $520.00 USD
+- [Buy 68 Natural Tourmaline Gemstone For Custom Jewelry](https://www.kashmirstones.com/products/natural-tourmaline-loose-cut-tourmaline): This lot contains 68 carats of natural green tourmaline loose stones. The stones come in different sizes, with green and blue-green shades visible in the photo. They have step cuts and a mix of rectangular and square shapes. These untreated green tourmaline gemstones offer a simple mix of colours and shapes for your gemstone collection. Key features Gemstone: Natural tourmalineTotal weight: 68 caratsColour: GreenCut: Step cutShape: Rectangular and squareTreatment: NoneForm: Loose stonesBirthstone: October FAQs What is the total weight of this natural green tourmaline lot? The whole lot weighs 68 carats. This is not the weight of each stone. What shapes are in this green step-cut tourmaline lot? The lot has rectangular and square shapes in different sizes. Are these green tourmaline loose stones untreated? Yes. The product details list no treatments.
+  Updated: 2026-10-12T05:50:01Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/natural_tourmaline_gemstone_for_ring_setting.jpg?v=1791741516
+  Price: $3,740.00 USD
+- [Buy African Rough Ruby Stones For Collectors](https://www.kashmirstones.com/products/raw-rubies-from-africa): Raw ruby crystals from Africa make up this 100-gram lot of loose gemstones. The total weight applies to the combined lot, not to each individual crystal. The crystals have purplish-pink coloring, with variation in tone across the pieces. Their shapes range from elongated forms to shorter, irregular crystals, and their surfaces have visible texture. These untreated raw ruby crystals have received no treatments. Individual dimensions and an exact piece count are not confirmed, so the total weight is the useful measure of quantity. This is a raw-crystal lot rather than a finished jewelry item, with differences in shape and surface texture between pieces. For background on the gemstone and its origins, read our ruby composition and formation guide. Key details Gemstone: RubyTotal weight: 100 gramsOrigin: AfricaColor: Purplish pinkTreatment: No treatments Frequently asked questions What does the weight mean in this 100-gram raw ruby lot? The 100-gram raw ruby lot weighs 100 grams in total, not per crystal. Are these raw ruby crystals for jewelry making already faceted? No. These raw ruby crystals for jewelry making are not faceted stones or finished jewelry components. What color are these untreated ruby crystals from Africa? These untreated ruby crystals from Africa are purplish pink, with visible differences in tone between crystals.
+  Updated: 2026-10-16T02:08:29Z
+  Vendor: Kashmir Stones
+  Product Type: Rough Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Raw_Ruby_Stones_For_Lapidary_Use.jpg?v=1792071741
+  Price: $250.00 USD
+- [Buy Aquamarine Pendants in 925 Sterling Silver – 60 Pieces](https://www.kashmirstones.com/products/60-pieces-aquamarine-pendant): Aquamarine pendants in this 60-piece lot combine natural aquamarine with 925 sterling silver fittings. Blue is the defining stone colour, with pale, translucent tones across the assortment. Sterling silver forms the metal fittings at the top of each pendant. The elongated stones have visible internal lines and cloudy areas, giving the pieces different appearances rather than a uniform look. This natural aquamarine pendant lot includes a mixture of lengths, widths, and outlines, with both straighter and more irregular shapes. The pendants belong to the fine jewellery category, pairing gemstone bodies with precious-metal fittings. The 60-piece assortment offers jewellery collectors and resellers a group of pendants with a shared stone type and differing individual shapes. To explore other stones alongside these blue aquamarine pendants in sterling silver, browse our gemstone collection. Key features Colour: BlueMaterial: Sterling silverJewelry type: Fine jewelryTarget gender: FemaleAge group: All ages FAQs How many pendants come in this aquamarine pendant lot? The lot contains 60 natural aquamarine pendants with 925 sterling silver fittings. Are the elongated aquamarine pendants identical in shape? No. The assortment includes different lengths, widths, and outlines, with straighter and more irregular shapes. What metal is used for these natural aquamarine pendant fittings? The metal fittings are 925 sterling silver.
+  Updated: 2026-10-16T02:30:19Z
+  Vendor: Kashmir Stones
+  Product Type: Healing Crystal Pendants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Aquamarine_crystal_pendants.jpg?v=1792074035
+  Price: $2,400.00 USD
 
 ## Collections
 
@@ -602,23 +637,23 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:33Z
   Total Products: 1
 - [All Type Gemstones](https://www.kashmirstones.com/collections/all-type-gemstones): Shop  natural gemstones including rubies, sapphires, emeralds & rare stones. Authentic loose gems for jewelry making & collecting. Worldwide shipping available.
-  Updated: 2026-09-25T12:46:33Z
-  Total Products: 81
+  Updated: 2026-10-15T13:44:47Z
+  Total Products: 86
 - [Emerald Gemstones](https://www.kashmirstones.com/collections/buy-emeralds-for-): Shop authentic natural emerald gemstones from Swat emeralds, Colombian Emeralds, Afghan Panjshir Emeralds, Zambian Emeralds.  precious gemstones with vivid green color. Perfect for fine jewelry and collectors.
   Updated: 2026-09-25T12:40:40Z
   Total Products: 27
 - [Loose Gemstones](https://www.kashmirstones.com/collections/loose-gemstones): Shop premium loose gemstones for jewelry making and collecting. Natural rubies, sapphires, emeralds & semi-precious stones.  quality, various cuts & sizes.
-  Updated: 2026-09-25T12:44:07Z
-  Total Products: 65
+  Updated: 2026-10-11T18:02:51Z
+  Total Products: 68
 - [New Arrivals](https://www.kashmirstones.com/collections/new-arrivals-gemstones): Discover our newest gemstone arrivals! Emeralds, Kashmir Rubies, Batakundi Kashmir Sapphire, Burmese Rubies, Ceylon Sapphire, Peridots from Kohistan, Rare gems,  and many more Fresh inventory of rare and unique natural stones. Limited availability. Check our latest precious and semi-precious gems.
-  Updated: 2026-09-25T12:46:33Z
-  Total Products: 70
+  Updated: 2026-10-15T14:20:55Z
+  Total Products: 77
 - [Rough Gemstones](https://www.kashmirstones.com/collections/rough-gemstones-for-): Shop authentic rough faceting, collectors, jewelers & lapidary work. Uncut precious & semi-precious stones. Expert ethical sourcing.
-  Updated: 2026-09-25T12:46:33Z
-  Total Products: 21
+  Updated: 2026-10-15T13:44:47Z
+  Total Products: 23
 - [Rubies](https://www.kashmirstones.com/collections/rubies-gemstones-for-): Shop premium natural rubies in stunning red hues.  authentic, ethically sourced ruby gemstones for engagement rings & fine jewelry. Free shipping.
-  Updated: 2026-09-25T12:44:07Z
-  Total Products: 21
+  Updated: 2026-10-21T12:02:01Z
+  Total Products: 24
 - [Sapphires](https://www.kashmirstones.com/collections/buy-sapphires-gemstones): Shop  natural blue sapphires from Kashmir, Ceylon & Burma. Premium quality sapphire gemstones for engagement rings. Ethically sourced, expert-.
   Updated: 2026-09-22T13:53:37Z
   Total Products: 33
@@ -626,14 +661,14 @@ collectors. September birthstone.
   Updated: 2026-09-24T11:11:28Z
   Total Products: 6
 - [Corundum](https://www.kashmirstones.com/collections/corundum): Shop  natural rubies and sapphires from our premium corundum collection. Ethically sourced, -grade gemstones with authentication. Free worldwide shipping.
-  Updated: 2026-09-25T12:44:07Z
-  Total Products: 53
+  Updated: 2026-10-21T12:02:01Z
+  Total Products: 56
 - [Precious Colored Stones](https://www.kashmirstones.com/collections/buy-precious-colored-stones): Shop -grade natural rubies, emeralds & sapphires with authenticity certificates. Expert-curated precious colored stones, transparent sourcing, competitive prices.
-  Updated: 2026-09-25T12:44:07Z
-  Total Products: 80
+  Updated: 2026-10-21T12:02:01Z
+  Total Products: 83
 - [Loose Rubies Stones](https://www.kashmirstones.com/collections/buy-loose-rubies-gemstones): Shop  loose ruby gemstones including pigeon blood, Burmese & Mozambique rubies. Natural, unheated options available. Perfect for engagement rings. Free shipping.
-  Updated: 2026-09-25T12:44:07Z
-  Total Products: 10
+  Updated: 2026-09-29T13:18:14Z
+  Total Products: 11
 - [Loose Sapphire Gems](https://www.kashmirstones.com/collections/loose-sapphire-gems-for-): Shop  loose sapphire gemstones in blue, pink, yellow & rare colors. Natural, unheated options available. Perfect for custom engagement rings. Free shipping worldwide.
   Updated: 2026-09-22T13:38:18Z
   Total Products: 22
@@ -665,8 +700,8 @@ collectors. September birthstone.
   Updated: 2026-09-22T13:53:37Z
   Total Products: 9
 - [Beryl](https://www.kashmirstones.com/collections/beryl-gems-for-): Shop  natural beryl gemstones including emeralds, aquamarine, morganite, and heliodor. Ethically sourced, expertly graded loose beryl stones with global shipping.
-  Updated: 2026-09-25T12:40:40Z
-  Total Products: 32
+  Updated: 2026-10-15T14:20:55Z
+  Total Products: 34
 - [Semi Precious Gemstones](https://www.kashmirstones.com/collections/semi-precious-gemstones-for-): Shop  natural semi precious gemstones including tourmaline, peridot, garnet, and aquamarine. Ethically sourced loose stones with gemological certificates.
   Updated: 2026-08-21T15:28:41Z
   Total Products: 6
@@ -674,8 +709,8 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:47Z
   Total Products: 5
 - [Peridot Gemstones](https://www.kashmirstones.com/collections/peridot-gemstones): Explore Authentic Peridot Gemstones - Natural Loose & Rough Stones Discover our exquisite collection of natural peridot gemstones, featuring both loose peridot stones and rough peridot crystals sourced from renowned deposits. Known for their vibrant olive-green to lime-green color, peridots are one of the few gemstones that occur in only one color, making them highly sought after for fine jewelry and gemstone collections. What We Offer at Kashmirstones.com At Kashmirstones.com, we specialize in premium-quality peridot gemstones available in multiple forms: Loose Peridot Stones: Expertly cut and polished loose gemstones ready for jewelry setting, available in various shapes including oval, round, cushion, and emerald cuts Rough Peridot Crystals: Natural, uncut peridot specimens perfect for collectors, lapidary work, and custom cutting projects  Authenticity: Each peridot comes with detailed provenance information and quality assurance Wholesale Options: Competitive pricing for bulk orders and wholesale gemstone supply About Peridot: The August Birthstone Peridot (pronounced "PAIR-ih-dot") is the gem-quality variety of the mineral olivine. This stunning semi-precious gemstone has been treasured for over 3,500 years, with historical sources including Egypt's Zabargad Island and modern deposits in Pakistan, Myanmar, China, and Arizona. As the official August birthstone, peridot symbolizes strength, prosperity, and positive energy. Why Choose Our Peridot Collection? Ethically sourced from premium deposits including Kohistan, Pakistan Hand-selected for superior color saturation and clarity Available in sizes ranging from small accent stones to rare large specimens Competitive wholesale and retail pricing Expert gemological guidance and customer support Frequently Asked Questions About Peridot Gemstones What is peridot gemstone good for? Peridot is excellent for fine jewelry including rings, earrings, pendants, and bracelets. With a Mohs hardness of 6.5-7, it's durable enough for everyday wear with proper care. Peridot is also valued by collectors and is believed to bring prosperity, good health, and restful sleep in crystal healing traditions. How can you tell if a peridot is real? Genuine peridot displays a characteristic olive to lime-green color with slight golden undertones. Real peridots show double refraction when viewed under magnification, have natural inclusions (often lily pad-shaped), and exhibit strong pleochroism. At Kashmirstones.com, all our peridots are  natural with detailed authenticity documentation. What is the difference between rough and loose peridot? Rough peridot refers to natural, uncut crystals in their raw form, ideal for collectors or custom cutting. Loose peridot stones are professionally cut and polished gemstones ready for jewelry setting. Rough stones offer more flexibility for custom designs, while loose stones provide immediate use in jewelry projects. Is peridot expensive? Peridot is generally affordable compared to precious gemstones like emerald or sapphire. Prices vary based on size, color intensity, clarity, and origin. Fine-quality peridots with vivid green color and minimal inclusions command premium prices, while commercial-grade stones remain budget-friendly. Large peridots over 10 carats are rare and more valuable. Can peridot be worn every day? Yes, peridot can be worn daily with proper care. While durable at 6.5-7 on the Mohs scale, it should be protected from harsh chemicals, extreme temperature changes, and hard impacts. Remove peridot jewelry during vigorous activities and clean with mild soap and water. Where does the best peridot come from? Historically, Egypt's Zabargad Island produced the finest peridots. Today, premium specimens come from Pakistan (especially Kohistan), Myanmar, China, and Arizona's San Carlos reservation. Pakistani peridots are particularly prized for their rich color and clarity. Browse our curated selection of natural peridot gemstones and experience the exceptional quality and authenticity that Kashmirstones.com is known for. Whether you're seeking loose stones for jewelry creation or rough specimens for your collection, we offer expert guidance and competitive pricing on every piece.
-  Updated: 2026-09-25T12:46:33Z
-  Total Products: 4
+  Updated: 2026-10-07T15:31:59Z
+  Total Products: 6
 - [Rare Gemstones](https://www.kashmirstones.com/collections/rare-gemstones-list)
   Updated: 2026-08-21T15:28:41Z
   Total Products: 45
@@ -683,8 +718,8 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:40Z
   Total Products: 1
 - [Faceting Rough](https://www.kashmirstones.com/collections/faceting-rough-gemstones): Buy rough gemstone parcels for faceting in all quality grades (SI, Eye Clean, VS, VVS). Small beginner lots to bulk wholesale. Natural sapphires, emeralds, rubies with origin certification.
-  Updated: 2026-09-25T12:46:33Z
-  Total Products: 13
+  Updated: 2026-10-07T15:04:03Z
+  Total Products: 14
 - [Hackmanite Rare Gems](https://www.kashmirstones.com/collections/hackmanite-rare-gems-collection): Discover genuine hackmanite rare gems with remarkable color-change properties. Premium fluorescent & phosphorescent specimens from Afghanistan.  authentic with provenance.
   Updated: 2026-07-08T21:38:41Z
   Total Products: 1
@@ -814,15 +849,15 @@ collectors. September birthstone.
 ## Policies
 
 - [Privacy Policy](https://www.kashmirstones.com/policies/privacy-policy)
-  Updated: 2026-01-21T03:17:43-08:00
+  Updated: 2026-01-21T11:17:43Z
 - [Shipping Policy](https://www.kashmirstones.com/policies/shipping-policy)
-  Updated: 2026-04-08T08:38:39-07:00
+  Updated: 2026-04-08T15:38:39Z
 - [Refund Policy](https://www.kashmirstones.com/policies/refund-policy)
-  Updated: 2026-06-16T03:43:47-07:00
+  Updated: 2026-06-16T10:43:47Z
 - [Terms of Service](https://www.kashmirstones.com/policies/terms-of-service)
-  Updated: 2026-06-13T07:41:03-07:00
+  Updated: 2026-06-13T14:41:03Z
 - [Contact Information](https://www.kashmirstones.com/policies/contact-information)
-  Updated: 2026-04-08T08:38:52-07:00
+  Updated: 2026-10-17T16:26:02Z
 
 ## Optional
 
