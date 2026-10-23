@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-10-16T00:00:50.725Z
+- Updated At: 2026-10-23T00:45:26.083Z
 
 ## Products
 
@@ -2285,14 +2285,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/97e0451a-e33f-41cd-8030-555b3cf4b833.jpg?v=1698014043
   Price: $75.97 USD
-- [Loving Heart In Sterling Silver Ring For Women](https://surazy.com/products/s925-loving-heart-in-sterling-silver-ring-for-women): Infuse Romance into Every Gesture: "Capture the essence of romance with our Sterling Silver Loving Heart Ring, crafted to perfection for the modern woman who appreciates style and sentiment." Elevate your style with our exquisite Loving Heart Sterling Silver Ring for women. Crafted with precision and passion, this timeless piece showcases a delicate heart motif, symbolizing love and devotion. The sterling silver adds a touch of elegance, making it a perfect accessory for any occasion. Embrace the sentiment of love with this stunning ring, a meaningful addition to your jewelry collection Type: Jewellery Process: Electroplating Color: Platinum Color Ring Size: US Size 6, US Size 7, US Size 8, US Size 9, US Size 10 Material: 925 Silver Shape: Geometry Popular Elements: Love / Heart Packing list: Rings * 1 Piece
-  Updated: 2026-07-10T13:38:59Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/bedd0672-3dd6-4f0a-888c-db3470aa379e.jpg?v=1698014177
-  Price: $38.95 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY1OTI3MjE2LCJsYXN0X3ZhbHVlIjoiODc4NDk2NTkyNzIxNiJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY0NjQ5MjY0LCJsYXN0X3ZhbHVlIjoiODc4NDk2NDY0OTI2NCJ9)
 
 ## Collections
 
@@ -3068,6 +3061,15 @@
   - [Discover How Women's Winter Warm and Cozy High Boots Revolutionize Cold Weather Style](https://surazy.com/blogs/news/discover-how-womens-winter-warm-and-cozy-high-boots-revolutionize-cold-weather-style): Discover How Women's Winter Warm and Cozy High Boots Revolutionize Cold Weather Style
     Updated: 2026-10-14T05:48:47Z
     Author: Surazy.com
+  - [Styling Tips for the Perfect Balance: Adjustable 18K Gold-Plated Bar Bracelet and Ring Set](https://surazy.com/blogs/news/styling-tips-for-the-perfect-balance-adjustable-18k-gold-plated-bar-bracelet-and-ring-set): Styling Tips for the Perfect Balance: Adjustable 18K Gold-Plated Bar Bracelet and Ring Set
+    Updated: 2026-10-17T00:08:53Z
+    Author: Surazy.com
+  - [Button Front Ruffle Sleeve Denim Midi Dress: A Stylist's Guide to Everyday Elegance](https://surazy.com/blogs/news/button-front-ruffle-sleeve-denim-midi-dress-a-stylists-guide-to-everyday-elegance): Button Front Ruffle Sleeve Denim Midi Dress: A Stylist's Guide to Everyday Elegance
+    Updated: 2026-10-19T00:45:06Z
+    Author: Surazy.com
+  - [Exploring the Bold Elegance of Cutout Spaghetti Strap One-Piece Swimwear](https://surazy.com/blogs/news/exploring-the-bold-elegance-of-cutout-spaghetti-strap-one-piece-swimwear): Exploring the Bold Elegance of Cutout Spaghetti Strap One-Piece Swimwear
+    Updated: 2026-10-21T00:30:46Z
+    Author: Surazy.com
 
 ## Store Pages
 
@@ -3093,15 +3095,15 @@
 ## Policies
 
 - [Privacy Policy](https://surazy.com/policies/privacy-policy)
-  Updated: 2023-07-11T10:59:19-04:00
+  Updated: 2023-07-11T14:59:19Z
 - [Shipping Policy](https://surazy.com/policies/shipping-policy)
-  Updated: 2024-01-28T13:05:43-05:00
+  Updated: 2024-01-28T18:05:43Z
 - [Refund Policy](https://surazy.com/policies/refund-policy)
-  Updated: 2023-07-11T10:59:19-04:00
+  Updated: 2023-07-11T14:59:19Z
 - [Terms of Service](https://surazy.com/policies/terms-of-service)
-  Updated: 2023-07-11T10:59:19-04:00
+  Updated: 2023-07-11T14:59:19Z
 - [Contact Information](https://surazy.com/policies/contact-information)
-  Updated: 2023-07-11T10:59:19-04:00
+  Updated: 2023-07-11T14:59:19Z
 
 ## Optional
 
