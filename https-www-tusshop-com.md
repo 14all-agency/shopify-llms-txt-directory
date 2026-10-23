@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T05:33:08Z
 - Contact Email: 119074729@qq.com
-- Updated At: 2026-09-13T00:00:45.452Z
+- Updated At: 2026-10-23T00:58:49.082Z
 
 ## Products
 
@@ -381,7 +381,7 @@ This is a modal window.
       
 
                                                                      How to use 10X magnifying mirror?
-  Updated: 2026-08-28T22:28:35Z
+  Updated: 2026-10-16T17:31:38Z
   Vendor: https://www.amazon.com/dp/B0DK1LNS9Z
   Product Type: 
   Availability: Available
@@ -1971,15 +1971,15 @@ Bring Back the Look of Volume — Anytime, AnywhereThe PDRN Pink Collagen Volume
 ## Policies
 
 - [Privacy Policy](https://www.tusshop.com/policies/privacy-policy)
-  Updated: 2026-07-27T23:45:45-07:00
+  Updated: 2026-07-28T06:45:45Z
 - [Shipping Policy](https://www.tusshop.com/policies/shipping-policy)
-  Updated: 2026-07-28T00:07:50-07:00
+  Updated: 2026-07-28T07:07:50Z
 - [Refund Policy](https://www.tusshop.com/policies/refund-policy)
-  Updated: 2026-07-27T23:44:17-07:00
+  Updated: 2026-07-28T06:44:17Z
 - [Terms of Service](https://www.tusshop.com/policies/terms-of-service)
-  Updated: 2026-07-28T00:36:02-07:00
+  Updated: 2026-07-28T07:36:02Z
 - [Contact Information](https://www.tusshop.com/policies/contact-information)
-  Updated: 2026-07-28T00:48:09-07:00
+  Updated: 2026-07-28T07:48:09Z
 
 ## Optional
 
