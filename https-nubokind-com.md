@@ -10,7 +10,7 @@
 - Contact Email: care@nubokind.com
 - Contact Phone: +919403892248
 - Address: B-838 G.F Back Portion Right Green Field Colony, Nhpc Colony, Faridabad, Haryana 121010, India
-- Updated At: 2026-09-23T00:00:28.590Z
+- Updated At: 2026-10-23T01:22:31.512Z
 
 ## About us
   Nubokind (also known as nubo) was founded in May 2025 by Aditya Chopra (LinkedIn:
@@ -37,8 +37,8 @@
 
 ## Products
 
-- [Ele Ring Silicone Teether for Babies | Pack of 2](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): Ele Ring Silcione teether is made from 100% food-grade, BPA-free and BIS  for Indian babies aged 3–12 months. Pack of 2, safe to chew and sterilise.
-  Updated: 2026-09-22T21:03:33Z
+- [Silicone Teether for Baby, Ele Ring teether Pack of 2](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): Silicone teether for babies 3+ months – elephant ring, pack of 2 for ₹599. BIS , BPA-free, food-grade. Free delivery & COD.
+  Updated: 2026-10-22T20:03:49Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -49,30 +49,30 @@
     Price: ₹599.00 INR
   - [sage green & baby pink](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44413558620275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/6_e7e9aa21-a8e3-468a-ae99-266ca66d867f.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/elegp1.png?v=1790278353
     Price: ₹599.00 INR
   - [baby pink & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44078049853555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/7_d0d86b0b-a4f6-452e-b6c8-da3595174ce8.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/elepw1.png?v=1790278365
     Price: ₹599.00 INR
   - [aqua blue & baby pink](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44413558653043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/4_697e0efc-856f-46a8-8f5f-d9cd48021c1c.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/elebp1.png?v=1790278353
     Price: ₹599.00 INR
   - [aqua blue & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44413558554739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/3_9040d6ca-cace-46e3-8c63-00d6cb1ebdd5.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/elebw1.png?v=1790278353
     Price: ₹599.00 INR
   - [sage green & slate grey](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43755867897971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/2_17380a48-64d2-40eb-9c98-19ee7592c018.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/eleggr1.png?v=1790278365
     Price: ₹499.00 INR
   - [sage green & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44413558587507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/5_ab296e40-9242-4d7f-81a3-130bd79a626a.png?v=1777510506
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/elegw1.png?v=1790278353
     Price: ₹599.00 INR
-- [Kiko No-Drop Silicone Teether | BPA-Free | BIS ](https://nubokind.com/products/kiko-no-drop-newborn-teether): Nubokind Kiko No-Drop Silicone Teether features a unique anti-drop design that keeps the teether with your baby at all times no more floor pickups.
-  Updated: 2026-09-22T14:00:27Z
+- [Kiko No-Drop Silicone Teether, BIS ](https://nubokind.com/products/kiko-no-drop-newborn-teether): Nubokind Kiko No-Drop Silicone Teether features a unique anti-drop design that keeps the teether with your baby at all times no more floor pickups.
+  Updated: 2026-10-22T11:08:40Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -89,55 +89,101 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko_teether_blue.png?v=1789774086
     Price: ₹649.00 INR
-- [Infant Cloth Book | High Contrast Books Pack of 3](https://nubokind.com/products/high-contrast-cloth-book-set): Infant cloth book set with newborn high-contrast images. Pack of 3, BIS-, crinkle pages, baby mirror. Safe from birth. Free shipping India.
-  Updated: 2026-09-22T16:07:37Z
+- [Infant Cloth Books, High Contrast, Pack of 3](https://nubokind.com/products/high-contrast-cloth-book-set): BIS- infant cloth book set - high-contrast black & white books for newborns 0–12 months. Pack of 3, crinkle pages & baby-safe mirror, perfect for tummy time.
+  Updated: 2026-10-22T20:25:04Z
   Vendor: Nubokind
   Product Type: Baby Toys > Cloth Books > High Contrast Cloth Books
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/cloth-book-1.webp?v=1784885045
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/CB1.png?v=1790275206
   Price: ₹549.00 INR
-- [Newborn Gift Set | Montessori Kit | Tummy Time](https://nubokind.com/products/high-contrast-newborn-essential-kit): BIS- newborn gift set - Montessori flashcards, cloth book and tummy time banner. 3 tools, gift-ready packaging. Free shipping India.
-  Updated: 2026-09-22T17:12:35Z
+- [Newborn Baby Gift Set, High Contrast Toys 0-6 Months](https://nubokind.com/products/high-contrast-newborn-essential-kit): High-contrast developmental gift set for newborns 0–6 months — flashcards, cloth book & activity banner in a premium gift box. Bold black & white for early visual development. BIS .
+  Updated: 2026-10-22T20:04:48Z
   Vendor: Nubokind
   Product Type: high contrat flashcards, tummy time toy, newborn gift
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/Sensory_Kit.png?v=1777924753
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ngs1.png?v=1790275859
   Price: ₹449.00 INR
-- [High Contrast Flashcards for Newborn | Tummy Time](https://nubokind.com/products/high-contrast-flashcards-tummy-time-banner): BIS- high contrast flashcards for newborns with self-standing tummy time banner. 10 double-sided cards. Safe from birth. Free shipping India.
-  Updated: 2026-09-22T15:18:04Z
+- [High Contrast Flash Cards for Babies 0-6 Months](https://nubokind.com/products/high-contrast-flashcards-tummy-time-banner): Black & white flash cards for babies 0–6 months with tummy time banner. 10 double-sided high contrast cards, BIS . Gift-ready box.
+  Updated: 2026-10-22T20:24:00Z
   Vendor: Nubokind
   Product Type: high contrast flashcards, tummy time toy, newborn gift
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/1.webp?v=1779033600
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/fk1.png?v=1790276315
   Price: ₹299.00 INR
-- [Orbi Ball Silicone Sensory Teether | BIS  Baby Toy](https://nubokind.com/products/orbi-ball-silicone-sensory-teether): Orbi Ball is a BIS-, 100% food-grade silicone ball teether and sensory toy for babies aged 3–12 months. BPA-free, no plastic, open-lattice design.
-  Updated: 2026-09-22T16:59:57Z
+- [Orbi Silicone Baby Teether Ball, BIS ](https://nubokind.com/products/orbi-ball-silicone-sensory-teether): Orbi is a BIS-, 100% food-grade silicone baby teether ball for 3–12 months. BPA-free, plastic-free, open-lattice design for teething and sensory play.
+  Updated: 2026-10-22T16:59:24Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbi_teether_white_bg.png?v=1787039411
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbihero1.png?v=1790276988
   - [navy blue](https://nubokind.com/products/orbi-ball-silicone-sensory-teether?variant=45124539514995)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbihero1.png?v=1790276988
     Price: ₹599.00 INR
   - [mustard yellow](https://nubokind.com/products/orbi-ball-silicone-sensory-teether?variant=45124539547763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbi_ball_yellow.webp?v=1785879787
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbiyellow.png?v=1790279730
     Price: ₹599.00 INR
+- [Newborn Visual Development Kit | Cloth Book Set + Flashcards](https://nubokind.com/products/high-contrast-books-and-flashcards): Help your newborn see more from day one. 3 high contrast cloth books, 10 flashcards and a tummy time banner. BIS , made in India.
+  Updated: 2026-10-23T01:21:13Z
+  Vendor: Nubokind
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/bundlehero.png?v=1791277441
+  Price: ₹848.00 INR
+- [Sensory Baby Play Mat for 0-18 months baby](https://nubokind.com/products/sensory-baby-play-mat-for-0-18-months-baby): BIS  BABY SENSORY MAT | IS 9873 | LICENCE NO. CML-7100138395 Babies don't explore the world in just one way. First, they look. Then they reach, touch, listen, pull, squeeze and discover. The Nubokind Sensory Adventure Mat is a reversible baby sensory mat and tummy time mat designed to give little explorers different ways to engage as their exploration changes from 0–18 months. One side features high-contrast black-and-white patterns, large simple shapes and friendly animal faces for early visual exploration and tummy time. Flip it over and discover a colourful sensory world with textures, sounds, peek-a-boo surprises and a baby-safe mirror. One mat. Two sides. Multiple ways to explore. 🤔 Why Choose a Reversible Baby Sensory Mat? Most baby play mats offer a single visual or sensory experience. The Sensory Adventure Mat brings two distinct play experiences into one reversible design. The Black & White side keeps things visually simple with bold contrast, big shapes and friendly animal faces, making it especially suited to early visual exploration. The Colourful Sensory side introduces more active discovery through textures, sounds, interactive flaps and a mirror as baby's way of exploring develops. So instead of buying one mat for visual play and another for sensory exploration, you get a high-contrast tummy time mat and a colourful sensory activity mat in one. 🖤 Black & White Side | Early Visual Exploration Designed for the early months when babies are beginning to focus on and notice their surroundings. Large shapes. High contrast. Friendly faces. Bold black-and-white patterns Large, simple visual elements Friendly animal faces Designed for early visual exploration Ideal for tummy time and floor play Designed for 0–4 months. 🌈 Colourful Sensory Side | Touch, Sound & Discovery Flip the mat and enter a colourful jungle-inspired world filled with little things to see, touch, hear and discover. Touch:Puffy cloud, felt lion mane and felt monkey Hear:Crinkle lotus, crinkle sun, rattle inside the flower pouch and squeaker inside the mango pouch Discover:Peek-a-boo lotus flap with a hidden fish and a baby-safe mirror Designed for 4–18 months. 👶 Designed to Grow With Baby The Sensory Adventure Mat changes with the way your baby explores. 0–4 MONTHSLOOK + FOCUSBlack & white side with high-contrast patterns, big shapes and animal faces. 4–18 MONTHSTOUCH + EXPLOREColourful side with textures, sounds, interactive features and discovery play. From first visual exploration to more active sensory play, one reversible mat stays part of baby's playtime journey. ✨ More Than Just Texture This isn't just a textured baby mat. It brings together multiple ways to play: ✅ High-Contrast VisualsBold black-and-white patterns and large shapes for early visual exploration. ✅ Tactile TexturesPuffy, soft and felt elements give little hands different textures to discover. ✅ Crinkle PlayThe lotus and sun create a crinkle sound when explored. ✅ Sound PlayA rattle inside the flower pouch and a squeaker inside the mango pouch add auditory play. ✅ Peek-a-Boo DiscoveryLift the lotus flap to reveal a hidden fish underneath. ✅ Baby-Safe MirrorA mirror adds another visual discovery for growing little explorers. 🛏️ More Ways to Use It The Sensory Adventure Mat is made for more than floor play. ON THE FLOORCreate a dedicated space for tummy time and sensory exploration. IN A COT / PRAMUse the built-in tie-up straps to attach the mat securely for appropriate supervised awake-time play. HUNG UPThe straps can also be used to hang the mat vertically in suitable supervised settings. Always use under  supervision and follow safe-sleep and product-use guidelines. 🛡️ Is the Sensory Adventure Mat Safe for My Baby? Yes. The Sensory Adventure Mat is BIS  under IS 9873. BIS Certification: Licence No. CML-7100138395 The mat is designed with baby-focused interactive features including soft fabric textures, crinkle elements, enclosed sound features, a peek-a-boo flap and a baby-safe mirror. The product is designed for 0–18 months and should always be used with appropriate  supervision. 🌟 Why Parents Love It ✅ BIS  | IS 9873Made to meet the applicable Indian safety requirements for children's products. ✅ Two-Sided Reversible DesignHigh-contrast visual play on one side and colourful sensory exploration on the other. ✅ 0–18 MonthsDesigned to offer different play experiences as baby's exploration develops. ✅ Tummy Time FriendlyA visually engaging surface for tummy time and floor play. ✅ Multiple Sensory ExperiencesTouch, sound, visual exploration, peek-a-boo and mirror play in one mat. ✅ Bigger in SizeA generously sized play surface gives baby more room to look, reach and explore. ✅ Tie-Up StrapsDesigned to allow the mat to be attached to suitable cots or prams for supervised awake-time play. 📦 What's Included 1 × Nubokind Sensory Adventure Mat Product: Sensory Adventure MatDesign: Reversible, two-sided activity matAge: 0–18 months 📋 Product Specifications Detail Specification Product Sensory Adventure Mat Dimensions 29 × 18 inches Age Range 0–18 months Design Reversible, two-sided Side 1 High-contrast Black & White Side 2 Colourful Sensory Sensory Features Textures, crinkle, rattle, squeaker, peek-a-boo, mirror Interactive Features Lotus flap with hidden fish Attachment Tie-up straps Certification BIS  · IS 9873 Licence No. CML-7100138395 🧼 How to Care for Your Baby Sensory Mat To keep the mat clean and ready for everyday play: Hand wash in cold water Do not machine wash Do not bleach Allow the mat to dry completely before use Keep all interactive features clean and dry
+  Updated: 2026-10-22T16:07:42Z
+  Vendor: Nubokind
+  Product Type: Baby toys > Play mat > Sensory play mat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/sensorymathero1_1.png?v=1790916023
+  Price: ₹999.00 INR
+- [Silicone Baby Teether Set of 3 | BIS , BPA Free | nübo](https://nubokind.com/products/silicone-baby-teether-best-bundle): Set of 3 BIS  silicone baby teethers: Ele ring, Kiko no-drop and Orbi ball. BPA free, 100% food grade. Free shipping and COD.
+  Updated: 2026-10-23T01:15:03Z
+  Vendor: nubo
+  Product Type: dental, teething, toy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/teetherbundlesoft1_3.png?v=1791968050
+  - [Sunny Meadow](https://nubokind.com/products/silicone-baby-teether-best-bundle?variant=66849492762739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/teetherbundlesoft1_3.png?v=1791968050
+    Price: ₹1,847.00 INR
+  - [Ocean Breeze](https://nubokind.com/products/silicone-baby-teether-best-bundle?variant=66849492795507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/teetherbundledark01.png?v=1791967890
+    Price: ₹1,847.00 INR
+- [Newborn Sensory Kit & Teether Bundle | 0-18 Months](https://nubokind.com/products/complete-newborn-sensory-bundle-0-18-months): Orbi + Newborn Sensory Kit Bundle Everything your baby needs to see, touch, grip and chew through their first year. BIS- newborn gift bundle: 3 Montessori sensory tools for 0-6 months, plus the Orbi Silicone Teether Ball for 3-12 months. Safe from birth, gift-ready, free shipping across India. Most baby gifts cover a few weeks. This bundle covers the whole first year. The Newborn Sensory Kit builds your baby's vision, tummy time strength and early thinking from Day 1. When teething starts around 3 months, Orbi takes over as a teether and a sensory toy in one. One box, two developmental stages, no gaps. Oxford-founder designed · Brain-science backed · BIS  · Montessori aligned · Made in India 🧠 One Bundle, One Full Year 0-3 months: SeeAt birth, babies can only focus 8 to 12 inches away and can't see colour yet. Bold black-and-white images are what wake up the visual cortex. The high contrast flashcards and cloth book give your baby exactly that. 2-6 months: Move and ExploreThe tummy time banner gives your baby a reason to lift their head and build neck, shoulder and core strength. The crinkle, squeak and mirror pages in the cloth book teach cause and effect and early self-recognition. 3-12 months: Grip and ChewTeething starts and Orbi steps in. The open-lattice ball is easy to grab from any angle, soothes sore gums on every side, and keeps your baby busy with rolling, poking and passing it hand to hand. 📦 What's Inside the Bundle 1. Sensory Infant Cloth Book (6" x 6")Soft fabric book with high contrast images, a baby-safe mirror page, squeaky and crinkly elements, mixed textures, and hang ribbons for prams and cribs. 2. Fold-Out Tummy Time Banner, Zoo and Aquatic (6" x 6")Self-standing and reversible, with bold animal images on both sides. Stand it in front of your baby during tummy time as a visual target. 3. 10 Double-Sided High Contrast Flashcards (6" x 6")20 image sides that move from simple patterns to real faces to everyday objects, joined with a linking ribbon for easy sequencing and storage. 4. Orbi Silicone Baby Teether Ball100% food-grade silicone in an open-lattice sphere. Comes with a potli for safe storage. Available in Mustard Yellow or Ocean Blue. ✅ Is This Bundle Safe for My Baby? Yes. Every item is BIS  and independently tested, not self-declared. Orbi: BIS  under IS 9873 (CML-7600198513), India's mandatory standard for teethers. 100% food-grade silicone, free from BPA, PVC, phthalates, lead and plastic. Seamless one-piece build with no detachable parts. 📄 View our official BIS Certificate (PDF) Sensory Kit: BIS , lead and phthalate free. Saliva-resistant, non-toxic inks on poly cotton fabric that's safe to mouth. Shatterproof mirror, no sharp edges, in line with IAP guidance on infant sensory tools. Always use under  supervision. 🌟 Why Parents Choose This Bundle ✅ Covers 0-12 months: visual, motor, sensory and teething needs in one box✅ Built for development: every item is designed around a real milestone✅ High contrast where it counts: the most effective visual input for the first 3 months✅ Two jobs, one teether: Orbi soothes gums and works as a sensory toy✅ BIS  throughout: no lead, no phthalates, no BPA, no sharp edges✅ Gift-ready packaging: the baby shower gift parents will actually use all year✅ Proudly Made in India 📋 Product Specifications Detail Specification Age Range Kit: 0-6 months (useful till 12) · Orbi: 3-12 months (useful till 24) Orbi Material 100% Food-Grade Silicone Orbi Design Open-lattice sphere, one-piece Orbi Colours Mustard Yellow, Ocean Blue Cloth Book Material Poly Cotton Fabric Flashcard Material Durable Baby-Safe Card Stock Inks Saliva-Resistant, Non-Toxic Kit Item Size 6 x 6 inches each Certification BIS  (Orbi: IS 9873, CML-7600198513) Free From BPA, PVC, Phthalates, Lead Country of Origin India 🧼 Care Instructions Orbi: Wash with warm water and mild baby-safe soap. Rinse well and air dry. Store in the potli. Cloth Book: Hand wash in cold water with mild baby-safe detergent. Air dry flat. Don't bleach or tumble dry. Flashcards and Banner: Wipe with a damp cloth. Don't submerge. Mirror Page: Wipe with a soft damp cloth.
+  Updated: 2026-10-23T01:21:56Z
+  Vendor: nubo
+  Product Type: high contrast flashcards, tummy time toy, newborn gift
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/blue1.png?v=1792482948
+  - [navy blue](https://nubokind.com/products/complete-newborn-sensory-bundle-0-18-months?variant=66943025774707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/blue1_e2de6b0f-d53e-4017-b30d-bbe22c3bd5ec.png?v=1792487408
+    Price: ₹1,048.00 INR
+  - [mustard yellow](https://nubokind.com/products/complete-newborn-sensory-bundle-0-18-months?variant=66943025807475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/yellow1_9b80b67b-f9f7-4ec6-bdcc-c7973683de8c.png?v=1792487430
+    Price: ₹1,048.00 INR
 
 ## Collections
 
-- [Newborn Essentials](https://nubokind.com/collections/newborn-essentials): Shop BIS  infant teethers, Montessori newborn kits & high contrast books for babies 0-12 months. Made in India. Free shipping. Shop now!
-  Updated: 2026-09-22T11:17:59Z
-  Total Products: 8
+- [Newborn Essentials](https://nubokind.com/collections/newborn-essentials): Shop BIS  infant teethers, newborn toys & high contrast books for babies 0-12 months. Made in India. Free shipping. Shop now!
+  Updated: 2026-10-22T11:24:30Z
+  Total Products: 15
+- [Newborn Essentials (Copy)](https://nubokind.com/collections/newborn-essentials-copy): Shop BIS  infant teethers, newborn toys & high contrast books for babies 0-12 months. Made in India. Free shipping. Shop now!
+  Updated: 2026-10-22T11:24:30Z
+  Total Products: 15
 
 ## Blogs
 
-- [The nübo Guide to Developmental Science & Early Learning](https://nubokind.com/blogs/early-learning-sensory-development): Expert-led insights into infant brain development. From oral mapping and -grade teethers to high-contrast learning, explore how nübo supports milestones.
+- [The nubo Guide to Developmental Science & Early Learning](https://nubokind.com/blogs/early-learning-sensory-development): Expert-led insights into infant brain development. From oral mapping and -grade teethers to high-contrast learning, explore how nubo supports milestones.
   - [When Do Babies Start Teething? India Guide (2026)](https://nubokind.com/blogs/early-learning-sensory-development/baby-teething-essentials): When Do Babies Start Teething? India Guide (2026)
-    Updated: 2026-07-03T10:18:54Z
+    Updated: 2026-09-24T19:06:55Z
     Author: nubo Baby
   - [How to Choose the Best Baby Teething Toy: Safe Picks for Indian Parents](https://nubokind.com/blogs/early-learning-sensory-development/happy-baby-happy-gums-a-fun-guide-to-choosing-teethers): How to Choose the Best Baby Teething Toy: Safe Picks for Indian Parents
-    Updated: 2026-06-25T17:20:06Z
+    Updated: 2026-09-24T19:09:37Z
     Author: nubo Baby
   - [Infant Oral Health and Teething: Guide to Safe Newborn Teethers (India)](https://nubokind.com/blogs/early-learning-sensory-development/healthy-smiles-happy-babies-a-guide-to-oral-health-development): Infant Oral Health and Teething: Guide to Safe Newborn Teethers (India)
     Updated: 2026-06-25T17:20:07Z
@@ -146,10 +192,10 @@
     Updated: 2026-06-25T17:20:07Z
     Author: nubo Baby
   - [Fever and Teething in Babies: What Is Normal vs When to Worry (India)](https://nubokind.com/blogs/early-learning-sensory-development/fever-and-teething-what-s-normal-and-when-to-worry): Fever and Teething in Babies: What Is Normal vs When to Worry (India)
-    Updated: 2026-06-25T17:20:22Z
+    Updated: 2026-09-24T19:04:49Z
     Author: nubo Baby
   - [Teething Foods for Babies: Ragi, Paneer, Fruit](https://nubokind.com/blogs/early-learning-sensory-development/how-nutrition-supports-teething): Teething Foods for Babies: Ragi, Paneer, Fruit
-    Updated: 2026-09-11T10:00:09Z
+    Updated: 2026-09-24T19:04:02Z
     Author: nubo Baby
   - [Teething and Feeding Problems: What Indian Parents Need to Know](https://nubokind.com/blogs/early-learning-sensory-development/teething-and-feeding-what-parents-need-to-know): Teething and Feeding Problems: What Indian Parents Need to Know
     Updated: 2026-06-25T17:20:22Z
@@ -199,8 +245,8 @@
   - [How the Nubokind Ele Teether Earned Amazon's Choice (2026)](https://nubokind.com/blogs/early-learning-sensory-development/why-the-nubo-ele-teether-earned-amazon-s-choice): How the Nubokind Ele Teether Earned Amazon's Choice (2026)
     Updated: 2026-06-04T12:24:06Z
     Author: Nubokind Experts
-  - [Best Baby Teether by Age (0-12 Months): 2026 Guide](https://nubokind.com/blogs/early-learning-sensory-development/how-to-choose-the-right-teether-by-age-0-12-months): Best Baby Teether by Age (0-12 Months): 2026 Guide
-    Updated: 2026-09-18T08:05:12Z
+  - [Best Baby Teether by Age in India (0-12 Months)](https://nubokind.com/blogs/early-learning-sensory-development/how-to-choose-the-right-teether-by-age-0-12-months): Best Baby Teether by Age in India (0-12 Months)
+    Updated: 2026-10-01T12:31:29Z
     Author: Nubokind Experts
     Tags: baby development, baby teether, baby teether by age, BPA free teether, kiko no drop teether, safe baby products, silicone teether, teething baby, teething relief
   - [Why Silicone Is the Gold Standard for Safe Baby Products](https://nubokind.com/blogs/early-learning-sensory-development/why-silicone-is-the-gold-standard-for-safe-baby-products): Why Silicone Is the Gold Standard for Safe Baby Products
@@ -220,7 +266,7 @@
     Updated: 2026-08-28T06:38:16Z
     Author: nubo Baby
   - [5 Checks to Spot Unsafe Baby Products Online Before You Buy](https://nubokind.com/blogs/early-learning-sensory-development/5-quick-checks-to-spot-unsafe-baby-products-online-before-you-click-buy): 5 Checks to Spot Unsafe Baby Products Online Before You Buy
-    Updated: 2026-06-04T12:24:06Z
+    Updated: 2026-09-24T19:08:47Z
     Author: Nubokind Experts
   - [Are Baby Teethers Safe? 5 Materials Compared](https://nubokind.com/blogs/early-learning-sensory-development/top-5-pediatrician-recommended-materials-for-baby-teethers-a-safety-guide): Are Baby Teethers Safe? 5 Materials Compared
     Updated: 2026-09-18T08:40:27Z
@@ -289,8 +335,8 @@
   - [5 Baby Teething Myths Indian Parents Still Believe in 2026 | Nubokind](https://nubokind.com/blogs/early-learning-sensory-development/5-things-indian-parents-get-wrong-about-baby-teething): 5 Baby Teething Myths Indian Parents Still Believe in 2026 | Nubokind
     Updated: 2026-03-03T15:29:22Z
     Author: Nubokind Experts
-  - [Infant Cloth Books and Brain Development | Nubokind Guide](https://nubokind.com/blogs/early-learning-sensory-development/cloth-books-brain-development-baby): Infant Cloth Books and Brain Development | Nubokind Guide
-    Updated: 2026-06-11T05:00:02Z
+  - [Are Cloth Books Good for Babies? The Science](https://nubokind.com/blogs/early-learning-sensory-development/cloth-books-brain-development-baby): Are Cloth Books Good for Babies? The Science
+    Updated: 2026-09-25T10:29:50Z
     Author: Nubokind Experts
   - [Yes, Silicone Teethers Are Safe for Newborns — India Guide](https://nubokind.com/blogs/early-learning-sensory-development/is-silicone-teether-safe-for-newborns): Yes, Silicone Teethers Are Safe for Newborns — India Guide
     Updated: 2026-09-18T07:46:09Z
@@ -612,32 +658,60 @@
     Updated: 2026-09-15T03:17:22Z
     Author: Nubokind Experts
     Tags: montessori kit
+  - [Best Newborn Toys 0-6 Months India: Parent's Guide](https://nubokind.com/blogs/early-learning-sensory-development/best-newborn-toys-0-6-months-india-parents-guide): <p>Choosing the right newborn toys supports your baby's vision, grasping, and sensory development. Learn which toys work for each stage—from high-contrast visuals to soft silicone teethers—plus expert safety tips and product recommendations for Indian parents.</p>
+    Updated: 2026-09-25T07:47:05Z
+    Author: Nubokind Experts
+    Tags: cloth books
+  - [Best Tummy Time Toys 0–6 Months India | Nubokind Guide](https://nubokind.com/blogs/early-learning-sensory-development/best-tummy-time-toys-0-6-months-india-nubokind-guide): <p>Tummy time builds strength and coordination in babies 0–6 months. Learn which high-contrast toys, cloth books, and sensory items keep your newborn engaged and support their developmental milestones with expert guidance.</p>
+    Updated: 2026-09-25T07:56:27Z
+    Author: Nubokind Experts
+    Tags: montessori kit
+  - [High-Contrast Toys for Babies: Eye Development Guide | Nubokind](https://nubokind.com/blogs/early-learning-sensory-development/high-contrast-toys-for-babies-eye-development-guide-nubokind): <p>Your newborn's eyes are developing fast. High-contrast toys aren't just eye-catching—they're developmental tools that match how your baby's vision actually works. Learn what pediatricians and Montessori experts know about visual development in the first 6 months.</p>
+    Updated: 2026-09-25T08:06:45Z
+    Author: Nubokind Experts
+    Tags: cloth books
+  - [High Contrast Flashcards for Babies: When & How to Use Them](https://nubokind.com/blogs/early-learning-sensory-development/high-contrast-flashcards-for-babies-when-how-to-use-them): <p>You're on the floor during tummy time, wondering what your newborn can actually see and when to show them flashcards. This guide explains the exact age to start, how far to hold them, and how to pair high contrast images with sensory play for real developmental impact.</p>
+    Updated: 2026-09-25T08:19:49Z
+    Author: Nubokind Experts
+    Tags: montessori kit
+  - [BIS IS 9873 vs EN71 vs FDA-Grade Silicone: Baby Product Safety Standards](https://nubokind.com/blogs/early-learning-sensory-development/bis-is-9873-vs-en71-vs-fda-grade-silicone-baby-product-safety-standards): <p>Safety standards for baby products aren't bureaucratic overhead—they protect your child's developing brain during critical growth. Learn what BIS IS 9873, EN71, and FDA-grade silicone actually certify, and how to read labels like a research-driven parent.</p>
+    Updated: 2026-09-25T08:25:07Z
+    Author: Nubokind Experts
+    Tags: ele ring teether set
+  - [Best Newborn Toys for 0–6 Months in India: A Parent's Guide](https://nubokind.com/blogs/early-learning-sensory-development/best-newborn-toys-for-0-6-months-in-india-a-parents-guide): <p>Choosing the right toys for your newborn supports their early development and keeps them safe. Discover the best newborn toys for 0–6 months, including high-contrast books, silicone teethers, and sensory toys—all explained in simple, practical terms for first-time parents.</p>
+    Updated: 2026-10-22T10:05:55Z
+    Author: Nubokind Experts
+  - [Best Tummy Time Toys for Babies 0–6 Months in India](https://nubokind.com/blogs/early-learning-sensory-development/best-tummy-time-toys-for-babies-0-6-months-in-india): <p>Your baby struggles through tummy time—but the right toys change everything. Discover how high-contrast books, sensory teethers, and flashcards build neck strength, visual focus, and development in those critical first six months. Indian parents trust Nubokind for toys that actually work.</p>
+    Updated: 2026-10-22T10:15:50Z
+    Author: Nubokind Experts
+    Tags: cloth books
+  - [Are High-Contrast Toys Good for Babies' Eyes? What Parents Should Know](https://nubokind.com/blogs/early-learning-sensory-development/are-high-contrast-toys-good-for-babies-eyes-what-parents-should-know): <p>Your newborn focuses intently on black-and-white flashcards but ignores pastel toys. Is this a real developmental advantage—or just clever marketing? We break down what high-contrast actually does for baby vision, what parents should know, and which products truly work.</p>
+    Updated: 2026-10-22T10:27:34Z
+    Author: Nubokind Experts
 
 ## Store Pages
 
-- [nubo's philosophy for safe teething](https://nubokind.com/pages/our-philosophy): Safety first. Always. A baby's mouth is their first tool for exploring the world. Everything they pick up goes in. So the materials matter enormous...
-  Updated: 2026-03-31T07:40:36Z
+- [Our Philosophy: BIS  Baby Safety](https://nubokind.com/pages/our-philosophy): Safety first. Always. A baby's mouth is their first tool for exploring the world. Everything they pick up goes in. So the materials matter enormous...
+  Updated: 2026-10-01T12:34:48Z
 - [contact us: teething support and inquiries](https://nubokind.com/pages/contact): nubo: reach out with your teething questions and feedback! Use our contact form or email us for friendly support and expert advice.
   Updated: 2025-06-13T12:11:54Z
 - [Teething FAQs: Symptoms, Relief & Nubo Teether Tips](https://nubokind.com/pages/faq): About Nubokind Teethers Are your teethers safe for my baby? Yes. All our teethers are BIS  under IS 9873 — India's mandatory safety standa...
   Updated: 2026-03-31T07:38:23Z
-- [About Us](https://nubokind.com/pages/about-us): We make baby products that are actually safe Most baby teethers sold in India are not tested. They carry no certification. Parents have no way to v...
-  Updated: 2026-03-31T07:39:53Z
-- [Ele Teether Safety](https://nubokind.com/pages/ele-teether-safety)
-  Updated: 2026-04-22T15:17:02Z
+- [About Nubokind: BIS  Baby Brand India](https://nubokind.com/pages/about-us): nubo makes baby products that are actually safe Most baby teethers sold in India are not tested. They carry no certification. Parents have no way t...
+  Updated: 2026-10-09T06:46:27Z
 
 ## Policies
 
 - [Privacy Policy](https://nubokind.com/policies/privacy-policy)
-  Updated: 2025-06-27T18:19:01+05:30
+  Updated: 2025-06-27T12:49:01Z
 - [Shipping Policy](https://nubokind.com/policies/shipping-policy)
-  Updated: 2025-07-17T19:29:02+05:30
+  Updated: 2025-07-17T13:59:02Z
 - [Refund Policy](https://nubokind.com/policies/refund-policy)
-  Updated: 2026-03-30T18:48:17+05:30
+  Updated: 2026-03-30T13:18:17Z
 - [Terms of Service](https://nubokind.com/policies/terms-of-service)
-  Updated: 2025-06-27T18:21:07+05:30
+  Updated: 2025-06-27T12:51:07Z
 - [Contact Information](https://nubokind.com/policies/contact-information)
-  Updated: 2025-07-17T13:07:37+05:30
+  Updated: 2025-07-17T07:37:37Z
 
  ## Social Media
   - Instagram: https://www.instagram.com/nubokind/
