@@ -6,76 +6,76 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-09-30T17:15:18.653Z
+- Updated At: 2026-10-23T01:14:49.913Z
 
 ## Products
 
 - [Perseverance | Tiger's Eye Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-tigers-eye-crystal-infused-candle): Perseverance is an aromachology soy candle with tiger's eye. Grounding gardenia and mandarin for the days you need to remember your own strength. Handmade in NJ
-  Updated: 2026-09-24T19:23:28Z
+  Updated: 2026-10-16T16:00:05Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Perseverance_crystal-infused_soy_candle_by_The_Phoenix_Candles_open_matte_cream_vessel_with_wooden_wick_centered.png?v=1782414281
   Price: $36.00 USD
 - [Hope | Amazonite Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/hope-amazonite-crystal-infused-candle): Hope is an aromachology soy candle with amazonite. A warm citrus and neroli blend for the seasons when letting yourself believe again feels brave. Handmade in NJ.
-  Updated: 2026-09-19T17:54:47Z
+  Updated: 2026-10-16T00:19:46Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Hope_crystal-infused_soy_candle.png?v=1782414603
   Price: $60.00 USD
 - [Optimism | Citrine Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/optimism-citrine-crystal-infused-candle): Optimism is an aromachology soy candle with citrine. Bright bergamot and guava to help you shift the lens and find the light in the ordinary. Handcrafted in NJ.
-  Updated: 2026-09-19T19:20:49Z
+  Updated: 2026-10-14T21:00:51Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Optimism_crystal-infused_soy_candle.png?v=1782494138
   Price: $60.00 USD
 - [Empowerment | Sodalite Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/empowerment-sodalite-crystal-infused-candle): Empowerment is an aromachology soy candle with sodalite. A crisp bergamot and eucalyptus blend for the woman ready to trust her own voice again. Handmade in NJ.
-  Updated: 2026-09-19T20:36:58Z
+  Updated: 2026-10-21T00:38:33Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Empowerment_crystal-infused_soy_candle.png?v=1782493472
   Price: $60.00 USD
 - [Nurture | Amethyst Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/nurture-amethyst-crystal-infused-candle): Nurture is an aromachology soy candle with amethyst. Warm citrus and turmeric for the woman who gives endlessly and forgets to receive. Handmade in New Jersey.
-  Updated: 2026-09-19T20:19:20Z
+  Updated: 2026-10-14T21:00:51Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Nurture_crystal-infused_soy_candle.png?v=1782493097
   Price: $60.00 USD
 - [Intuition | Clear Quartz Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/intuition-clear-quartz-crystal-infused-candle): Intuition is an aromachology soy candle with clear quartz. Calming sage and violet to help you reconnect with your inner knowing. Handcrafted in New Jersey.
-  Updated: 2026-09-19T20:19:19Z
+  Updated: 2026-10-21T00:38:37Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Intuition_crystal-infused_soy_candle.png?v=1782491593
   Price: $60.00 USD
 - [Xenacious | Carnelian Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/xenacious-carnelian-crystal-infused-candle): Xenacious is an aromachology soy candle with carnelian. Vibrant lemon and jasmine for the woman ready to explore who she is beyond her roles. Handcrafted in NJ.
-  Updated: 2026-09-19T20:58:08Z
+  Updated: 2026-10-15T23:01:46Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Xenacious_crystal-infused_soy_candle.png?v=1782491351
   Price: $60.00 USD
 - [Wooden Wick Trimmer](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length): Care for your Phoenix Candles with this amazing addition to your candle care kit. Trim your wooden wicks to just the right length before each burn with this luxurious wick trimmer. 6.8" length
-  Updated: 2026-07-08T22:22:48Z
+  Updated: 2026-10-17T02:14:47Z
   Vendor: My Store
   Product Type: Candle Trimmer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/The_Phoenix_Candles_61.jpg?v=1690809977
   - [Gold](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=46767535718716)
     Availability: Available
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [Silver](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=46767535751484)
     Availability: Available
-    Price: $20.00 USD
+    Price: $12.00 USD
   - [Black](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=52856273600828)
     Availability: Available
-    Price: $20.00 USD
+    Price: $12.00 USD
 - [Namaste | Shiva Lingam Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/namaste): Come home to yourself. Namaste is a handmade aromachology soy candle infused with Shiva Lingam crystal and warm notes of cinnamon bark and sandalwood. Made in New Jersey.
-  Updated: 2026-09-22T18:59:34Z
+  Updated: 2026-10-16T00:19:46Z
   Vendor: The Phoenix Candles
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
     Availability: Available
     Price: $12.00 USD
 - [Bergamot, Lavender & Clean Cotton | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/bergamot-lavender-clean-cotton): A calming blend of bergamot, lavender, and clean cotton formulated to quiet the noise and ease anxious tension. Handcrafted in small batches in New Jersey.
-  Updated: 2026-09-19T16:11:27Z
+  Updated: 2026-10-14T21:00:52Z
   Vendor: The Phoenix Candles
   Product Type: Candle
   Availability: Available
@@ -99,7 +99,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Gardenia + Grapefruit | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/gardenia-grapefruit): A mood-lifting blend of gardenia and grapefruit formulated to restore joy and emotional openness. Handcrafted in small batches in New Jersey.
-  Updated: 2026-07-08T22:22:49Z
+  Updated: 2026-10-14T21:00:52Z
   Vendor: The Phoenix Candles
   Product Type: Candle
   Availability: Available
@@ -110,63 +110,48 @@
   - [12 oz](https://thephoenixcandles.com/products/gardenia-grapefruit?variant=53154473640252)
     Availability: Available
     Price: $50.00 USD
-- [Pomelo + Purple Basil | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/pomelo-purple-basil): A clarifying blend of pomelo and purple basil formulated to sharpen focus and ease mental fatigue. Handcrafted in small batches in New Jersey.
-  Updated: 2026-09-19T20:19:17Z
+- [Lemon, Rosemary + Jasmine | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/eucalyptus-peppermint-lavender): A layered blend of lemon, rosemary, and jasmine formulated to sharpen focus, stabilize mood, and keep you grounded through it all. Handcrafted in small batches in New Jersey.
+  Updated: 2026-10-17T02:15:32Z
   Vendor: The Phoenix Candles
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_limited-edition_Pomelo_and_Purple_Basil_soy_candle.png?v=1782322690
-  - [7 oz](https://thephoenixcandles.com/products/pomelo-purple-basil?variant=53154483700028)
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/9DF810C7-8196-42EB-B404-67F2DC001C6D.png?v=1787362241
+  - [7 oz](https://thephoenixcandles.com/products/eucalyptus-peppermint-lavender?variant=53984207438140)
     Availability: Not Available
     Price: $35.00 USD
-  - [12 oz](https://thephoenixcandles.com/products/pomelo-purple-basil?variant=53154483667260)
+  - [12 oz](https://thephoenixcandles.com/products/eucalyptus-peppermint-lavender?variant=53984207470908)
     Availability: Available
     Price: $50.00 USD
-- [Lemon, Rosemary + Jasmine | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/lemon-rosemary-jasmine): A layered blend of lemon, rosemary, and jasmine formulated to sharpen focus, stabilize mood, and keep you grounded through it all. Handcrafted in small batches in New Jersey.
-  Updated: 2026-09-19T17:24:52Z
-  Vendor: The Phoenix Candles
-  Product Type: Candle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_Lemon_Rosemary_Jasmine.png?v=1782320074
-  - [7 oz](https://thephoenixcandles.com/products/lemon-rosemary-jasmine?variant=53154487632188)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [12 oz](https://thephoenixcandles.com/products/lemon-rosemary-jasmine?variant=53154487599420)
-    Availability: Available
-    Price: $50.00 USD
-- [Mystery Mini](https://thephoenixcandles.com/products/mystery-mini)
-  Updated: 2026-09-19T20:19:08Z
-  Vendor: The Phoenix Candles
-  Product Type: 
-  Availability: Available
-  Price: $10.00 USD
 
 ## Collections
 
 - [classics](https://thephoenixcandles.com/collections/classics): The candles that started it all. Seven small-batch Aromachology soy candles, each paired with a genuine crystal and built on fragrance notes research has linked to specific emotional states. Handcrafted in New Jersey.
-  Updated: 2026-09-25T11:19:47Z
+  Updated: 2026-10-21T11:18:52Z
   Total Products: 7
 - [the lab](https://thephoenixcandles.com/collections/the-lab): Small-batch Aromachology soy candles born from our creative process. Poured with the same love and clean ingredients as our core collection. Handcrafted in NJ.
-  Updated: 2026-09-20T11:17:02Z
+  Updated: 2026-10-17T02:15:55Z
   Total Products: 7
 - [limited editions](https://thephoenixcandles.com/collections/limited-editions): Small-batch Aromachology soy candles crafted seasonally in limited quantities. Built on scent research. Handcrafted in New Jersey.
-  Updated: 2026-09-20T11:17:02Z
+  Updated: 2026-10-16T11:21:25Z
   Total Products: 2
 - [accessories](https://thephoenixcandles.com/collections/accessories)
-  Updated: 2026-07-08T22:28:05Z
+  Updated: 2026-10-17T02:14:48Z
   Total Products: 1
 - [spring picks](https://thephoenixcandles.com/collections/spring-picks): You've been running on fumes since January — holding it together through the cold, the dark, the endless demands. But something is shifting. The light is coming back, and so is that quiet voice inside you whispering: it's time. Not time to add more. Time to let yourself bloom. These three candles were chosen for this season because they meet you exactly where you are — exhausted but hopeful, worn but ready. Let them be your first intentional act of renewal.Every candle is hand-poured in small batches — never mass-produced, always made with intention. New drops release every 4 to 6 weeks. Join the List to be the first to know when the next batch is ready.
-  Updated: 2026-09-25T11:19:47Z
+  Updated: 2026-10-16T11:21:25Z
   Total Products: 3
 - [shop all](https://thephoenixcandles.com/collections/shop-all): Handcrafted aromachology soy candles infused with crystals, wooden wicks, and toxin-free fragrance. Built on scent science, made by hand in New Jersey. Shop now.
-  Updated: 2026-09-25T11:19:47Z
+  Updated: 2026-10-21T11:18:52Z
   Total Products: 17
 - [summer edit](https://thephoenixcandles.com/collections/summer-edit): Three soy candles for the woman summer drains instead of restores. Be held, choose your light, believe in renewal. Science-backed Aromachology, soul-led ritual.
-  Updated: 2026-09-22T19:08:29Z
+  Updated: 2026-10-16T11:21:25Z
   Total Products: 4
 - [fall edit](https://thephoenixcandles.com/collections/fall-edit): Fall asks more of you. It always does. The school year. The work push. The holidays stacking up before you've had a chance to catch your breath. From the outside, you handle it. You always do. This edit is for what's happening underneath that. Three candles, one quiet arc: keep going, trust yourself, come home. Perseverance moves alongside you on the days that demand everything. Intuition keeps you company while you trust what you already know. Namaste is for the quiet at the end of the day. Not a reward you have to earn. A place you already belong. Aromachology built on scent notes research has associated with strength, clarity, and grounding. Craftswomanship in every pour.
-  Updated: 2026-09-28T18:56:05Z
+  Updated: 2026-10-21T11:18:52Z
   Total Products: 3
+- [New! Shopify performance sharing is now turned on](https://thephoenixcandles.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
+  Updated: 2026-10-21T11:18:52Z
+  Total Products: 19
 
 ## Blogs
 
@@ -261,13 +246,25 @@
     Author: Shaina Brooks
     Tags: color psychology, crystal candles, holistic wellness, intentional living, Intuition, mental health, multisensory experience, nervous system, scent and mood, self-care for busy women, small batch candles, soy candles, The Phoenix Candles, wooden wick
   - [The Meaning Behind Namaste and Why We Poured It Into a Candle](https://thephoenixcandles.com/blogs/rise-up/the-meaning-behind-namaste-and-why-we-poured-it-into-a-candle): <p><span>Some candles start with a fragrance. This one started with a memory.</span></p>
-    Updated: 2026-08-19T04:00:03Z
+    Updated: 2026-10-07T15:52:06Z
     Author: Shaina Brooks
     Tags: BIPOC owned, crystal candles, cultural heritage, founder story, Indian ancestry, intentional living, limited edition candle, Namaste, Namaste meaning, self-care for busy women, Shiva Lingam, small batch candles, The Phoenix Candles, woman owned
   - [You Don't Have to Have It All Figured Out to Feel Ready](https://thephoenixcandles.com/blogs/rise-up/you-dont-have-to-have-it-all-figured-out-to-feel-ready): <p class="font-claude-response-body break-words whitespace-normal" dir="ltr">Readiness was never a checklist. Here is what it actually is.</p>
     Updated: 2026-08-26T04:00:02Z
     Author: Shaina Brooks
     Tags: BIPOC owned, burnout recovery, how to rest without guilt, intentional living, mental health, mindfulness, Namaste, readiness, seasonal transition, self-care for busy women, small batch candles, The Phoenix Candles, woman owned
+  - [What Is Aromachology? How Scent Affects Your Mood and Your Body](https://thephoenixcandles.com/blogs/rise-up/whatisaromachology): <p><span>Ever notice how one smell can change your whole mood before you even name it? That's Aromachology, the study of how scent affects emotion. Here's what the research says, how it differs from aromatherapy, and why we build every candle on it.</span></p>
+    Updated: 2026-10-05T05:00:02Z
+    Author: Shaina Brooks
+    Tags: Fall Edit, Intuition, Mood, Namaste, Scent and Memory, Scent Science
+  - [Burnout Symptoms in Women: Why Fall Feels So Heavy](https://thephoenixcandles.com/blogs/rise-up/why-fall-feels-so-heavy): <p><span>Tired in a way sleep doesn't touch, even when nothing is "wrong"? You're not imagining it. Here's why fall feels so heavy for women carrying everything, and why being tired and strong can both be true.</span></p>
+    Updated: 2026-10-09T11:44:05Z
+    Author: Shaina Brooks
+    Tags: Fall Edit, invisible load, Mood
+  - [Diwali Gift Ideas: The Story Behind Our Namaste Candle](https://thephoenixcandles.com/blogs/rise-up/namaste-diwali-candle-story): <p><span>Some candles start with a scent. Namaste started with a feeling. Here's the story behind our candle rooted in Indian ancestry and the meaning of Diwali, and a Diwali gift made to be shared.</span></p>
+    Updated: 2026-10-21T04:01:02Z
+    Author: Shaina Brooks
+    Tags: Diwali, Fall Edit, founder story, Namaste
 
 ## Store Pages
 
@@ -285,19 +282,21 @@
   Updated: 2026-06-23T18:31:46Z
 - [Free Self-Care Ritual Guide for Busy Women | The Phoenix Candles](https://thephoenixcandles.com/pages/reset-rituals): A free ritual guide for the woman who holds everything together — and is ready to hold space for herself too.
   Updated: 2026-04-16T21:07:17Z
+- [FAQ](https://thephoenixcandles.com/pages/faq): 
+  Updated: 2026-09-30T18:19:20Z
 
 ## Policies
 
 - [Privacy Policy](https://thephoenixcandles.com/policies/privacy-policy)
-  Updated: 2026-03-20T12:48:55-04:00
+  Updated: 2026-03-20T16:48:55Z
 - [Shipping Policy](https://thephoenixcandles.com/policies/shipping-policy)
-  Updated: 2026-03-20T12:49:51-04:00
+  Updated: 2026-03-20T16:49:51Z
 - [Refund Policy](https://thephoenixcandles.com/policies/refund-policy)
-  Updated: 2026-03-20T12:50:57-04:00
+  Updated: 2026-03-20T16:50:57Z
 - [Terms of Service](https://thephoenixcandles.com/policies/terms-of-service)
-  Updated: 2026-03-20T14:07:58-04:00
+  Updated: 2026-03-20T18:07:58Z
 - [Contact Information](https://thephoenixcandles.com/policies/contact-information)
-  Updated: 2023-09-04T21:32:49-04:00
+  Updated: 2023-09-05T01:32:49Z
 
 ## Optional
 
