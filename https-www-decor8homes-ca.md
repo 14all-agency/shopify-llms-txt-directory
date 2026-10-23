@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-10-07T00:00:30.594Z
+- Updated At: 2026-10-23T01:22:23.802Z
 
 ## Products
 
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM096-3.jpg?v=1782485823
   Price: $14.99 CAD
 - [The Orbit Vase – Simplicity Shaped to Perfection | Modern Luxury Decorative Vase for Refined Contemporary Interiors](https://www.decor8homes.ca/products/88): The Orbit Vase: Simplicity shaped to perfection.A modern icon of form and balance, The Orbit Vase embodies minimal elegance with a bold sculptural edge. Its circular silhouette and central void create a sense of movement and calm — making it a timeless décor piece that enhances any interior style.Crafted in matte black ceramic, it brings understated luxury to coffee tables, console tops, or shelving displays. Whether styled with dried florals or standing beautifully on its own, The Orbit Vase is a celebration of design simplicity and artistic precision. Key Features:• Premium ceramic• Matte black finish• Minimalist design• Perfect for flowers or standalone décor Care & Maintenance:Wipe with damp cloth; avoid heavy impact
-  Updated: 2026-08-29T04:03:32Z
+  Updated: 2026-10-16T19:27:18Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
@@ -415,7 +415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_green-6.jpg?v=1782485842
     Price: $14.99 CAD
 - [The Halo Vase – Soft Curves with Bold Presence | Modern Sculptural Decorative Vase for Contemporary Home Styling, Centerpieces, Shelves & Luxury Interior Decor](https://www.decor8homes.ca/products/92): The Halo Vase: Soft curves. Bold presence.Designed with sculptural grace, The Halo Vase transforms simplicity into sophistication. Its elliptical form and open center create a balanced aesthetic that blends modern artistry with timeless elegance.The smooth teal finish adds a refreshing pop of color while maintaining a minimalist charm — perfect for contemporary interiors. Whether standing solo or paired with delicate stems, The Halo Vase radiates serenity and refined taste. Key Features:• Premium ceramic• Gloss teal finish• Minimalist and modern• Sculptural centerpiece Care & Maintenance:Clean with damp cloth; avoid abrasive cleaners
-  Updated: 2026-08-29T04:03:33Z
+  Updated: 2026-10-16T19:27:18Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
@@ -436,7 +436,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM103_white-3.jpg?v=1782485830
   Price: $19.99 CAD
 - [The Blush Eucalyptus – Soft Elegance in Every Stem | Premium Artificial Eucalyptus Stems for Vase Styling, Table Centerpieces & Modern Luxury Home Decor](https://www.decor8homes.ca/products/98): The Blush Eucalyptus: Soft elegance in every stem.Delicate and refined, The Blush Eucalyptus brings natural serenity and timeless style into modern interiors. Its muted mauve and earthy brown tones create a calming palette that pairs beautifully with both light and dark décor themes.Perfect for minimalist vases or statement centerpieces, this arrangement adds warmth without overpowering the space. Whether used alone or blended with other botanicals, The Blush Eucalyptus captures nature’s quiet luxury in every leaf. Key Features:• Vibrant artificial blooms• Tall floor vase suitable• Easy maintenance• Permanent decorative solution Care & Maintenance:Dust occasionally; keep dry
-  Updated: 2026-08-29T04:03:34Z
+  Updated: 2026-10-16T19:27:18Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM126_1-1.jpg?v=1782941824
     Price: $37.99 CAD
 - [The Classic Rider – Crafted for Those Who Live to Move | Premium Decorative Art Object Celebrating Motion, Freedom & Timeless Style for Modern Home and Office Interiors](https://www.decor8homes.ca/products/105): The Classic Rider: Crafted for those who live to move.Inspired by the spirit of adventure, The Classic Rider captures the timeless allure of open roads and endless journeys — all sculpted from natural wood. Each curve and contour is hand-carved with care, turning a symbol of speed into a piece of art that speaks of freedom and craftsmanship.With its smooth polished finish and meticulous detailing, this wooden motorcycle exudes vintage sophistication. Whether placed on a study shelf, office desk, or living room console, it adds warmth, nostalgia, and style to any space.A perfect gift for enthusiasts, dreamers, or collectors, The Classic Rider reminds us that the journey itself is the true destination. Key Features:• Handcrafted wood• Natural woodgrain polish• Represents freedom and adventure• Vintage sophistication Care & Maintenance:Wipe with dry cloth; avoid water
-  Updated: 2026-08-29T04:03:35Z
+  Updated: 2026-10-16T19:27:18Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
@@ -573,15 +573,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.decor8homes.ca/policies/privacy-policy)
-  Updated: 2025-08-10T16:26:21-04:00
+  Updated: 2025-08-10T20:26:21Z
 - [Shipping Policy](https://www.decor8homes.ca/policies/shipping-policy)
-  Updated: 2025-09-09T08:07:56-04:00
+  Updated: 2025-09-09T12:07:56Z
 - [Refund Policy](https://www.decor8homes.ca/policies/refund-policy)
-  Updated: 2025-09-15T17:00:49-04:00
+  Updated: 2025-09-15T21:00:49Z
 - [Terms of Service](https://www.decor8homes.ca/policies/terms-of-service)
-  Updated: 2025-09-15T16:59:18-04:00
+  Updated: 2025-09-15T20:59:18Z
 - [Contact Information](https://www.decor8homes.ca/policies/contact-information)
-  Updated: 2025-09-09T09:36:11-04:00
+  Updated: 2025-09-09T13:36:11Z
 
 ## Optional
 
