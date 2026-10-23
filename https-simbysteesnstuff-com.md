@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-27T19:41:54Z
 - Contact Email: simbysteesnstuff@gmail.com
-- Updated At: 2026-09-29T00:00:34.138Z
+- Updated At: 2026-10-23T01:22:02.532Z
 
 ## Products
 
@@ -513,7 +513,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/cute_little_ghost_2_on_white.png?v=1783624843
   Price: $13.99 USD
 - [Caffeinated Ghost Sweatshirt – Cute Fall & Halloween Vibes](https://simbysteesnstuff.com/products/cute-coffee-ghost): This cozy ghost sweatshirt runs on coffee & spooky vibes! Perfect for fall, Halloween, or anytime you need a cute, caffeinated pick-me-up.
-  Updated: 2026-09-19T16:30:14Z
+  Updated: 2026-10-16T17:48:41Z
   Vendor: SimbysTeesNStuff
   Product Type: Sweatshirts
   Availability: Available
@@ -730,12 +730,91 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Checkered_Let_it_Snow_faux_embroidered_Graphic_Sweatshirt_white.png?v=1789063984
   Price: $29.99 USD
 - [Blinged-Out Santa Coffee Graphic Sweatshirt](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt): Shine bright this Christmas! Cozy glitter Santa sweatshirt with coffee design — perfect for festive mornings and caffeine-loving holiday fans.
-  Updated: 2026-09-23T22:05:24Z
+  Updated: 2026-10-03T00:58:55Z
   Vendor: SimbysTeesNStuff
   Product Type: Sweatshirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
-  Price: $29.99 USD
+  - [White / S](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201533247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
+    Price: $29.99 USD
+  - [White / M](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201566015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
+    Price: $29.99 USD
+  - [White / L](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201598783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
+    Price: $29.99 USD
+  - [White / XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201631551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
+    Price: $29.99 USD
+  - [White / 2XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201664319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_white.png?v=1785157028
+    Price: $29.99 USD
+  - [Pink / S](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201697087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_light_pink.png?v=1785157016
+    Price: $29.99 USD
+  - [Pink / M](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201729855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_light_pink.png?v=1785157016
+    Price: $29.99 USD
+  - [Pink / L](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201762623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_light_pink.png?v=1785157016
+    Price: $29.99 USD
+  - [Pink / XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201795391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_light_pink.png?v=1785157016
+    Price: $29.99 USD
+  - [Pink / 2XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201828159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_light_pink.png?v=1785157016
+    Price: $29.99 USD
+  - [Black / S](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201860927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_black.png?v=1785157019
+    Price: $29.99 USD
+  - [Black / M](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201893695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_black.png?v=1785157019
+    Price: $29.99 USD
+  - [Black / L](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201926463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_black.png?v=1785157019
+    Price: $29.99 USD
+  - [Black / XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201959231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_black.png?v=1785157019
+    Price: $29.99 USD
+  - [Black / 2XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625201991999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_black.png?v=1785157019
+    Price: $29.99 USD
+  - [Team Purple / S](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625202024767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_purple.png?v=1785157012
+    Price: $29.99 USD
+  - [Team Purple / M](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625202057535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_purple.png?v=1785157012
+    Price: $29.99 USD
+  - [Team Purple / L](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625202090303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_purple.png?v=1785157012
+    Price: $29.99 USD
+  - [Team Purple / XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625202123071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_purple.png?v=1785157012
+    Price: $29.99 USD
+  - [Team Purple / 2XL](https://simbysteesnstuff.com/products/blingy-santa-drinking-coffee-graphic-sweatshirt?variant=67625202155839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Blingy_Santa_with_Coffee_Graphic_Sweatshirt_on_purple.png?v=1785157012
+    Price: $29.99 USD
 - [Baby's First Christmas Graphic Onesie](https://simbysteesnstuff.com/products/baby-s-first-christmas): Celebrate baby's first Christmas with this adorable teddy bear onesie — soft, cozy, and perfect for holiday photos, family gatherings, or gifting.
   Updated: 2026-09-19T16:32:09Z
   Vendor: SimbysTeesNStuff
@@ -863,7 +942,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Practical_Magic_Graphic_Sweatshirt_on_white.png?v=1783884996
   Price: $29.99 USD
 - [Chicken Tree Christmas Graphic Sweatshirt](https://simbysteesnstuff.com/products/merry-cluckin-christmas-graphic-sweatshirt): Get festive with our Merry Cluckin’ Christmas Chicken Sweatshirt! Cozy Christmas sweatshirt with stacked chickens forming a tree—perfect for holiday cheer.
-  Updated: 2026-09-19T16:32:05Z
+  Updated: 2026-10-16T17:48:41Z
   Vendor: SimbysTeesNStuff
   Product Type: Sweatshirts
   Availability: Available
@@ -891,12 +970,111 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Merry_Christmas_in_pastel_colors_on_white.png?v=1777210886
   Price: $29.99 USD
 - [Stuffed & Happy Graphic T-Shirt](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt): Celebrate Thanksgiving in style! Cozy T-Shirt featuring a festive turkey, cornucopia, and pilgrim penguin—perfect for family gatherings and holiday fun.
-  Updated: 2026-09-19T16:32:05Z
+  Updated: 2026-10-02T10:07:39Z
   Vendor: SimbysTeesNStuff
   Product Type: T-Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
-  Price: $19.99 USD
+  - [Sand / S](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970028863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
+    Price: $21.99 USD
+  - [Sand / M](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970061631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
+    Price: $21.99 USD
+  - [Sand / L](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970094399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
+    Price: $21.99 USD
+  - [Sand / XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970127167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
+    Price: $21.99 USD
+  - [Sand / 2XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970159935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sand.png?v=1783703462
+    Price: $21.99 USD
+  - [Black / S](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970192703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_black.png?v=1783703457
+    Price: $21.99 USD
+  - [Black / M](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970225471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_black.png?v=1783703457
+    Price: $21.99 USD
+  - [Black / L](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970258239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_black.png?v=1783703457
+    Price: $21.99 USD
+  - [Black / XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970291007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_black.png?v=1783703457
+    Price: $21.99 USD
+  - [Black / 2XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970323775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_black.png?v=1783703457
+    Price: $21.99 USD
+  - [White / S](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970356543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_white.png?v=1783703467
+    Price: $21.99 USD
+  - [White / M](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970389311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_white.png?v=1783703467
+    Price: $21.99 USD
+  - [White / L](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970422079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_white.png?v=1783703467
+    Price: $21.99 USD
+  - [White / XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970454847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_white.png?v=1783703467
+    Price: $21.99 USD
+  - [White / 2XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970487615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_white.png?v=1783703467
+    Price: $21.99 USD
+  - [Orange / S](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970520383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_orange.png?v=1783703453
+    Price: $21.99 USD
+  - [Orange / M](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970553151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_orange.png?v=1783703453
+    Price: $21.99 USD
+  - [Orange / L](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970585919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_orange.png?v=1783703453
+    Price: $21.99 USD
+  - [Orange / XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970618687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_orange.png?v=1783703453
+    Price: $21.99 USD
+  - [Orange / 2XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970651455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_orange.png?v=1783703453
+    Price: $21.99 USD
+  - [Sage / S](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970684223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sage.png?v=1783703450
+    Price: $21.99 USD
+  - [Sage / M](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970716991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sage.png?v=1783703450
+    Price: $21.99 USD
+  - [Sage / L](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970749759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sage.png?v=1783703450
+    Price: $21.99 USD
+  - [Sage / XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970782527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sage.png?v=1783703450
+    Price: $21.99 USD
+  - [Sage / 2XL](https://simbysteesnstuff.com/products/gobble-til-you-wobble-graphic-tshirt?variant=67617970815295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Gobble_Til_You_Wobble_-_Graphic_tshirt_on_sage.png?v=1783703450
+    Price: $21.99 USD
 - [In October We Wear Pink T-Shirt](https://simbysteesnstuff.com/products/in-october-we-wear-pink-trick-or-treat-ghost): Support the cause with our In October We Wear Pink Graphic T-Shirt! Cute ghost design blends Halloween fun with breast cancer awareness.
   Updated: 2026-09-19T16:32:04Z
   Vendor: SimbysTeesNStuff
@@ -1248,7 +1426,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Be_My_Valentine_Starbys_on_white.png?v=1781129366
   Price: $19.99 USD
 - [My Dog Is My Valentine Graphic T-Shirt](https://simbysteesnstuff.com/products/my-dog-is-my-valentine): Shop the My Dog Is My Valentine graphic tee — adorable, soft, and perfect for dog moms, pet lovers, Valentine’s Day outings, and gifting.
-  Updated: 2026-08-16T03:36:35Z
+  Updated: 2026-10-19T16:57:57Z
   Vendor: SimbysTeesNStuff
   Product Type: T-Shirts
   Availability: Available
@@ -1523,13 +1701,6 @@ Running late? At least you’ll look good doing it.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/You_ve_just_buttered_your_last_biscuit_on_White.png?v=1778597797
   Price: $25.99 USD
-- [Support Your Local Sourdough Dealer Funny Baking Graphic T-Shirt](https://simbysteesnstuff.com/products/support-your-local-sourdough-dealer): Funny “Support Your Local Sourdough Dealer” tee for bread lovers. Soft unisex fit perfect for bakers, farmer’s markets, and carb-obsessed gift giving.
-  Updated: 2026-09-20T15:38:55Z
-  Vendor: SimbysTeesNStuff
-  Product Type: T-Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Support_Your_Local_Sourdough_Dealer_Graphic_T-Shirt_on_maroon.png?v=1777213158
-  Price: $21.99 USD
 - [Yarn Smiley Face with Flowers Graphic T-Shirt](https://simbysteesnstuff.com/products/yarn-smiley-face): Cute yarn smiley flower graphic tee with retro vibes. Soft unisex shirt for crafters & happy aesthetic lovers perfect for everyday wear & gifting.
   Updated: 2026-09-20T15:39:24Z
   Vendor: SimbysTeesNStuff
@@ -1884,7 +2055,7 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Introverted_but_willing_to_discuss_sourdough_t-shirt_on_sand.png?v=1780165954
   Price: $21.99 USD
 - [On My Way to Make Some Bad Decisions Raccoon Graphic T-Shirt](https://simbysteesnstuff.com/products/on-my-way-to-make-some-bad-decisions-graphic-t-shirt): On My Way To Make Some Bad Decisions design featuring a raccoon driving a car with sunglasses. Funny sarcastic gift idea for friends.
-  Updated: 2026-09-20T15:01:13Z
+  Updated: 2026-10-19T16:52:06Z
   Vendor: SimbysTeesNStuff
   Product Type: T-Shirts
   Availability: Available
@@ -1909,52 +2080,52 @@ Running late? At least you’ll look good doing it.
 ## Collections
 
 - [Bold 4th of July T-Shirts — Patriotic Red, White & Blue](https://simbysteesnstuff.com/collections/4th-of-july): Celebrate the 4th of July in style with patriotic graphic t-shirts featuring bold red, white & blue designs perfect for BBQs, fireworks, and summer fun.
-  Updated: 2026-09-04T17:44:50Z
+  Updated: 2026-10-11T14:33:32Z
   Total Products: 17
 - [Women’s Collection of Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/women): Shop bold and trendy women’s graphic t-shirts and sweatshirts. Soft, stylish, and made to express your mood—find your new favorite graphic top today.
-  Updated: 2026-09-28T22:22:43Z
-  Total Products: 338
+  Updated: 2026-10-22T21:27:47Z
+  Total Products: 415
 - [Men’s Graphic Tees, T-Shirts & Sweatshirts – Built for Self-Expression](https://simbysteesnstuff.com/collections/men): Shop men’s graphic tees, t-shirts, and sweatshirts designed for bold style and everyday comfort. Streetwear-inspired pieces made for self-expression.
-  Updated: 2026-09-23T22:18:08Z
-  Total Products: 123
+  Updated: 2026-10-19T13:41:21Z
+  Total Products: 125
 - [Sarcastic Graphic T-Shirts — Bold, Witty & Funny Styles](https://simbysteesnstuff.com/collections/quotes-sayings): Shop sarcastic graphic tees with passive-aggressive quotes, funny humor, and brutally honest sayings made for bold personalities who stand out.
-  Updated: 2026-09-28T22:22:43Z
-  Total Products: 57
+  Updated: 2026-10-21T22:00:08Z
+  Total Products: 65
 - [Holiday Graphic T-Shirts & Sweatshirts Collection](https://simbysteesnstuff.com/collections/holidays): Shop holiday graphic t-shirts and sweatshirts for Christmas, Halloween, Easter, Thanksgiving, and more. Festive styles for every season.
-  Updated: 2026-09-28T16:48:24Z
-  Total Products: 166
+  Updated: 2026-10-20T22:02:47Z
+  Total Products: 227
 - [Shop By Theme](https://simbysteesnstuff.com/collections/shop-by-theme): Browse graphic tees and sweatshirts organized by theme. Find the perfect design for your style at Simby's Tees N Stuff.
-  Updated: 2026-07-08T20:15:14Z
-  Total Products: 0
+  Updated: 2026-10-06T21:55:30Z
+  Total Products: 1
 - [Pride Collection LGBTQIA+ Graphic T-Shirts](https://simbysteesnstuff.com/collections/pride): Shop LGBTQIA+ Pride graphic tees and inclusive apparel celebrating love, identity, and self-expression. Bold designs for Pride Month and every day.
   Updated: 2026-08-15T20:20:22Z
   Total Products: 2
 - [Graphic T-Shirts & Sweatshirts for Adults — Attitude & Humor](https://simbysteesnstuff.com/collections/adults-only): Shop Adults Only graphic tees and sweatshirts with bold humor, edgy attitude, and unapologetic designs made for adults who love to stand out.
-  Updated: 2026-09-28T11:15:02Z
-  Total Products: 99
+  Updated: 2026-10-22T21:45:24Z
+  Total Products: 69
 - [Witchy Vibes Collection of Graphic Apparel](https://simbysteesnstuff.com/collections/witchy-vibes): Channel your inner magic with our Witchy Vibes Collection of t-shirts— where mystical meets modern. Whether you're into moon phases, tarot cards or crystals .
-  Updated: 2026-09-12T18:42:13Z
-  Total Products: 13
+  Updated: 2026-10-22T22:00:56Z
+  Total Products: 16
 - [4/20 Graphic T-Shirts & High Vibes Sweatshirts](https://simbysteesnstuff.com/collections/4-20-): Shop 4/20 graphic tees and sweatshirts designed for the chill, the bold, and the unapologetically elevated. Funny -inspired styles for every mood.
   Updated: 2026-09-18T21:52:26Z
   Total Products: 2
 - [Kids T-Shirts & Sweatshirts | Comfy, Cute & Playful Tees](https://simbysteesnstuff.com/collections/kids): Shop kids t-shirts & sweatshirts at Simby's! Playful designs, bright colors & comfy styles made for little ones. Cute tees perfect for school & playdates.
-  Updated: 2026-09-28T23:12:36Z
-  Total Products: 127
+  Updated: 2026-10-19T15:19:56Z
+  Total Products: 187
 - [Girls Collection of Graphic Tees & Sweatshirts | Soft & Stylish Kids Wear](https://simbysteesnstuff.com/collections/girls-collection): Shop girls graphic tees and sweatshirts with fun designs, playful sayings, and comfy fits perfect for everyday adventures and big personalities.
-  Updated: 2026-09-26T20:51:29Z
-  Total Products: 68
+  Updated: 2026-10-19T15:19:56Z
+  Total Products: 82
 - [Boys T-Shirt Collection — Adventure-Ready and Fun](https://simbysteesnstuff.com/collections/boys-collection): Our boys’ t-shirts are made for nonstop fun and all-day comfort with bold graphics perfect for kids who love adventure, games, trucks, and dinosaurs.
-  Updated: 2026-09-28T22:24:56Z
-  Total Products: 54
+  Updated: 2026-10-19T15:19:56Z
+  Total Products: 65
 - [New Releases - T-Shirts, Sweatshirts & More](https://simbysteesnstuff.com/collections/new-releases): Shop our latest new releases featuring fresh graphic tees, sweatshirts, tumblers, mugs, and wind spinners with trendy designs and bold style.
-  Updated: 2026-09-28T23:24:21Z
-  Total Products: 293
+  Updated: 2026-10-22T22:00:56Z
+  Total Products: 461
 - [Tester Tees & Tumblers  – One-of-a-Kind Samples](https://simbysteesnstuff.com/collections/ready-to-ship-ts): Unique tester shirts featuring sample prints and one-off designs. Ready to ship with possible minor imperfections noted in listing.
   Updated: 2026-07-27T12:25:13Z
   Total Products: 5
 - [Tumblers - 20oz with graphic design](https://simbysteesnstuff.com/collections/20-oz-tumblers): 20 oz insulated tumbler with a vibrant graphic design. Keeps drinks hot or cold for hours and includes a lid and reusable straw for daily use.
-  Updated: 2026-07-26T02:37:29Z
+  Updated: 2026-10-11T14:51:03Z
   Total Products: 6
 - [Mugs - 15oz](https://simbysteesnstuff.com/collections/15-oz-mug): Shop 15oz graphic mugs with bold, funny, and unique designs. Perfect for coffee and tea lovers. Find your favorite at Simby's Tees N Stuff.
   Updated: 2026-07-08T20:15:15Z
@@ -1963,55 +2134,55 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-09-04T14:12:44Z
   Total Products: 9
 - [Christmas T-Shirts & Cozy Sweatshirts Collection](https://simbysteesnstuff.com/collections/christmas): Shop our Christmas Collection of graphic t-shirts & cozy sweatshirts! Perfect for holiday parties, gifts & festive cheer. Available for men, women & kids.
-  Updated: 2026-09-28T16:48:24Z
-  Total Products: 118
+  Updated: 2026-10-19T15:20:44Z
+  Total Products: 160
 - [Awareness Collection of Graphic Apparel](https://simbysteesnstuff.com/collections/awareness): Shop awareness graphic tees and sweatshirts supporting cancer, mental health, suicide prevention, and more. Wear your support and inspire change.
-  Updated: 2026-09-17T22:13:00Z
+  Updated: 2026-10-11T14:22:58Z
   Total Products: 12
 - [Fall Vibes Collection – Graphic Tees & Sweatshirts](https://simbysteesnstuff.com/collections/fall-graphic-tees-sweatshirts): Shop fall graphic tees & sweatshirts cozy autumn styles for pumpkin patches, bonfires & spooky season. Layer up in your new fall favorites!
-  Updated: 2026-09-20T12:34:08Z
-  Total Products: 27
+  Updated: 2026-10-20T22:02:47Z
+  Total Products: 40
 - [Halloween Graphic T-Shirts & Sweatshirts | Spooky Styles](https://simbysteesnstuff.com/collections/halloween): Shop Halloween graphic t-shirts, tees, and sweatshirts featuring spooky, cute, and bold designs. Perfect for haunted houses, parties, and fall vibes!
-  Updated: 2026-09-21T18:34:36Z
-  Total Products: 58
+  Updated: 2026-10-16T23:13:43Z
+  Total Products: 59
 - [Faith & Inspiration Collection](https://simbysteesnstuff.com/collections/religious): Shop faith-inspired graphic tees and sweatshirts featuring uplifting messages, meaningful quotes, and designs that inspire hope and encouragement.
-  Updated: 2026-09-26T16:00:06Z
-  Total Products: 34
+  Updated: 2026-10-22T21:45:24Z
+  Total Products: 39
 - [Shop All](https://simbysteesnstuff.com/collections/front-page): Simby's Tees N Stuff is your ultimate destination for cool graphic tees, sweatshirts & accessories. Bold prints, clever sayings & quality styles that stand out.
-  Updated: 2026-09-28T23:24:22Z
-  Total Products: 417
+  Updated: 2026-10-22T22:00:56Z
+  Total Products: 587
 - [Wind Spinners](https://simbysteesnstuff.com/collections/wind-spinners): Bring your outdoor space to life with our beautifully crafted 10" wind spinners, designed to add movement, color, and personality to any garden, patio, or porch. Made from durable stainless steel, these decorative spinners are built to withstand the elements while creating a mesmerizing display as they catch the breeze and sunlight. Each wind spinner features vibrant artwork and intricate designs that reflect light beautifully, creating a stunning visual effect from every angle. Whether you're decorating your backyard, flower beds, front porch, or gifting one to someone who loves unique outdoor décor, these spinners make the perfect statement piece. Easy to hang and designed for lasting beauty, our stainless steel wind spinners are a simple way to add charm and character to your outdoor décor. Perfect for year-round display, they make thoughtful gifts for birthdays, holidays, housewarmings, or anyone who enjoys adding a little magic and motion to their space.
   Updated: 2026-09-04T14:12:44Z
   Total Products: 1
 - [Animal Collection of Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/animals-graphic-apparel): Shop animal graphic t-shirts and cozy sweatshirts featuring dogs, cats, cows, chickens & more. Soft, fun designs for pet lovers & farm fans!
-  Updated: 2026-09-28T22:15:10Z
-  Total Products: 185
+  Updated: 2026-10-22T22:00:56Z
+  Total Products: 256
 - [Thanksgiving Graphic Tees & Cozy Sweatshirt Collection](https://simbysteesnstuff.com/collections/thanksgiving-themed-apparel): Shop festive Thanksgiving shirts, fall graphic tees & cozy sweatshirts. Perfect for family gatherings, Friendsgiving, or gifting this holiday season!
-  Updated: 2026-08-10T01:37:26Z
-  Total Products: 4
+  Updated: 2026-10-20T22:02:47Z
+  Total Products: 13
 - [St. Patrick's Day T-Shirt and Sweatshirt Collection](https://simbysteesnstuff.com/collections/st-patricks-day): Shop St. Patrick's Day graphic tees and sweatshirts with fun, festive designs. Celebrate in style with bold green looks from Simby's Tees N Stuff.
-  Updated: 2026-07-27T15:16:44Z
+  Updated: 2026-10-11T14:29:25Z
   Total Products: 6
 - [Easter Graphic T-shirt Collection](https://simbysteesnstuff.com/collections/easter-collection): Celebrate spring with our Easter graphic tees and sweatshirts! Cute bunny prints, pastel designs & cozy fits—perfect for Easter brunch or gifting.
   Updated: 2026-09-07T22:11:27Z
   Total Products: 11
 - [New Year's Graphic T-Shirt and Sweatshirt Collection](https://simbysteesnstuff.com/collections/new-years-collection): Celebrate in Style. Shop our New Year’s Graphic T-Shirt & Sweatshirt Collection is all about fresh starts, bold energy, and celebrating every moment that’s ahead.
-  Updated: 2026-07-26T02:03:45Z
-  Total Products: 1
+  Updated: 2026-10-11T14:10:23Z
+  Total Products: 12
 - [Valentines Day Graphic T-Shirt & Sweatshirt Collection](https://simbysteesnstuff.com/collections/valentines-day-graphic-t-shirt-sweatshirt-collection): Get ready to fall in love with our Valentine’s Day graphic t-shirts and sweatshirts, designed to make your outfit as sweet as the season!
-  Updated: 2026-07-27T14:26:13Z
+  Updated: 2026-10-11T14:27:14Z
   Total Products: 8
 - [Sweatpants](https://simbysteesnstuff.com/collections/sweatpants): Gildan Heavy Weight Sweatpants feature soft heavyweight fleece, a relaxed fit, ribbed cuffs, and lasting comfort perfect for everyday wear.
   Updated: 2026-07-09T02:49:19Z
   Total Products: 1
 - [On  — Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/): Shop discounted graphic tees, sweatshirts & more at SimbysTeesNStuff. Bold prints, premium quality, limited stock grab your favorites before they're gone.
-  Updated: 2026-09-25T22:49:13Z
+  Updated: 2026-10-11T14:19:49Z
   Total Products: 46
 - [Occupation Themed Graphic T-Shirts](https://simbysteesnstuff.com/collections/occupation-themed-graphic-t-shirts): Shop occupation-themed graphic tees for teachers, nurses, first responders, and more with funny, stylish designs that celebrate what you do.
-  Updated: 2026-07-27T15:16:44Z
+  Updated: 2026-10-11T14:13:17Z
   Total Products: 4
 - [Hats - Cool and Stylish Graphic Designs](https://simbysteesnstuff.com/collections/hats): Shop graphic hats and caps with fun, bold designs. Great for everyday wear or gifting. Find your perfect fit at Simby's Tees N Stuff.
-  Updated: 2026-09-27T21:34:49Z
+  Updated: 2026-10-11T13:57:42Z
   Total Products: 6
 - [Aprons - Funny & Sarcastic Graphic Aprons for Cooking, Baking & Grilling](https://simbysteesnstuff.com/collections/aprons-funny-sarcastic-graphic-aprons-for-cooking-baking-grilling): Shop funny graphic aprons for cooking, baking, and grilling. Stylish, comfortable, and perfect for kitchen or BBQ. Add personality to every meal!
   Updated: 2026-07-12T18:06:10Z
@@ -2020,29 +2191,38 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-09-04T15:20:59Z
   Total Products: 5
 - [Build Your Own Apparel](https://simbysteesnstuff.com/collections/build-your-own-apparel): Our Build Your Own Apparel collection lets you customize your favorite t-shirts, sweatshirts, hoodies, tank tops, and more by choosing one of our designs.
-  Updated: 2026-09-27T21:34:49Z
+  Updated: 2026-10-05T11:17:20Z
   Total Products: 8
 - [Highland Cow Collection T-Shirts &  More](https://simbysteesnstuff.com/collections/highland-cow-collection-t-shirts-more): Shop Highland cow graphic tees for kids & adults. Soft, cute farm animal designs pressed to order. Find your moo-worthy style at SimbysTeesNStuff.
-  Updated: 2026-09-28T11:22:55Z
-  Total Products: 79
+  Updated: 2026-10-13T12:36:48Z
+  Total Products: 82
 - [Toddler Graphic T-Shirts & Sweatshirts Collection](https://simbysteesnstuff.com/collections/toddler-graphic-t-shirts-sweatshirts-collection): Shop toddler graphic tees & sweatshirts with playful, colorful designs. Pressed to order on soft, comfy blanks. Perfect for gifting or everyday wear.
-  Updated: 2026-09-28T23:24:22Z
-  Total Products: 44
+  Updated: 2026-10-13T12:38:06Z
+  Total Products: 61
 - [Baby Collection - Graphic Onesies & Tees](https://simbysteesnstuff.com/collections/baby-collection-graphic-onesies-tees): Shop baby graphic onesies & tees pressed to order. Adorable designs perfect for gifting, holidays & everyday wear. Find the cutest baby styles today.
-  Updated: 2026-09-28T23:12:36Z
-  Total Products: 30
+  Updated: 2026-10-13T12:42:21Z
+  Total Products: 49
 - [Seasons Collection - Spring, Summer, Fall and Winter](https://simbysteesnstuff.com/collections/seasons-collection-spring-summer-fall-and-winter): Shop seasonal graphic tees & sweatshirts for spring, summer, fall & winter. Playful pressed-to-order designs for men, women & kids. Style for every season.
-  Updated: 2026-09-26T20:46:54Z
-  Total Products: 12
+  Updated: 2026-10-20T22:02:47Z
+  Total Products: 31
 - [Summer Collection Graphic T-Shirts](https://simbysteesnstuff.com/collections/summer-collection-graphic-t-shirts): Shop summer graphic tees with bold, playful designs. Pressed to order for men, women & kids. Bright, fun styles made for warm weather and good vibes.
-  Updated: 2026-09-10T17:41:44Z
+  Updated: 2026-10-11T14:25:13Z
   Total Products: 11
 - [Spring Collection Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/spring-collection-graphic-t-shirts): Shop spring graphic tees & sweatshirts with fresh, playful designs. Pressed to order for men, women & kids. Bright styles perfect for the new season.
-  Updated: 2026-09-10T17:50:31Z
-  Total Products: 1
+  Updated: 2026-10-14T20:14:53Z
+  Total Products: 2
 - [Winter Collection Graphic T-Shirt & Sweatshirts](https://simbysteesnstuff.com/collections/winter-collection-graphic-t-shirt-sweatshirts): Shop winter graphic tees & sweatshirts with bold seasonal designs. Pressed to order for men, women & kids. Perfect for gifting or cozy cold-weather style.
-  Updated: 2026-09-26T20:46:54Z
-  Total Products: 8
+  Updated: 2026-10-18T22:40:03Z
+  Total Products: 22
+- [Dog Collection](https://simbysteesnstuff.com/collections/dog-collection): Shop dog graphic tees featuring lovable breeds, wildflowers, and cottagecore charm. Find your favorite pup or a gift for dog lovers at SimbysTeesNStuff.
+  Updated: 2026-10-16T14:46:03Z
+  Total Products: 30
+- [Cat Collection](https://simbysteesnstuff.com/collections/cat-collection): Shop cat graphic tees with watercolor cats, vintage florals, cottagecore charm, and playful sayings. Find your favorite or a gift for a cat lover.
+  Updated: 2026-10-22T22:00:56Z
+  Total Products: 29
+- [Decorative Kitchen Towels](https://simbysteesnstuff.com/collections/decorative-kitchen-towels): Shop decorative kitchen towels with sourdough humor, cozy winter designs, and festive cocktail recipes. Find charming accents and thoughtful gifts.
+  Updated: 2026-10-22T11:43:02Z
+  Total Products: 7
 
 ## Blogs
 
@@ -2108,20 +2288,20 @@ Running late? At least you’ll look good doing it.
 - [Graphic apparel care Instructions](https://simbysteesnstuff.com/pages/caring-for-your-new-tee): To keep your graphic T-shirt looking fresh and vibrant, wait at least 24–48 hours before washing to allow the design to fully set. When washing, tu...
   Updated: 2026-05-25T17:14:32Z
 - [FAQ | Simby's Tees N Stuff – Shipping, Sizing, Returns & More](https://simbysteesnstuff.com/pages/faq): Frequently Asked Questions Ordering & Shipping How long does shipping take? Most orders from Simby's Tees N Stuff are processed within 6–8 business...
-  Updated: 2026-08-08T14:16:41Z
+  Updated: 2026-09-30T20:49:03Z
 - [Apparel Specs & Sizing Guide – SimbysTeesNStuff](https://simbysteesnstuff.com/pages/apparel-spec-details): Comfort Colors 1717: 6.1 oz./yd² (US), 10 oz/L yd (CA), 100% ring-spun cotton Comfort Colors styles are garment dyed for a lived-in feel with minim...
   Updated: 2026-09-16T17:21:33Z
 
 ## Policies
 
 - [Privacy Policy](https://simbysteesnstuff.com/policies/privacy-policy)
-  Updated: 2025-04-27T14:42:05-05:00
+  Updated: 2025-04-27T19:42:05Z
 - [Shipping Policy](https://simbysteesnstuff.com/policies/shipping-policy)
-  Updated: 2026-08-01T17:19:35-05:00
+  Updated: 2026-08-01T22:19:35Z
 - [Refund Policy](https://simbysteesnstuff.com/policies/refund-policy)
-  Updated: 2026-03-18T10:02:48-05:00
+  Updated: 2026-03-18T15:02:48Z
 - [Terms of Service](https://simbysteesnstuff.com/policies/terms-of-service)
-  Updated: 2025-05-11T13:16:49-05:00
+  Updated: 2025-05-11T18:16:49Z
 
 ## Optional
 
