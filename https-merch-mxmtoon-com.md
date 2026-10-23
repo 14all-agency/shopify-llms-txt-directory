@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-06T00:00:46.275Z
+- Updated At: 2026-10-23T00:49:10.108Z
 
 ## Products
 
@@ -130,14 +130,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-purple.png?v=1650918959
   Price: $30.00 USD
 - [rising - limited edition pink vinyl](https://merch.mxmtoon.com/products/rising-spotify-fans-first-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" light pink vinyl and features full color tri fold packaging. Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-10-05T13:03:45Z
+  Updated: 2026-10-07T17:40:41Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-spotify-pink.png?v=1650919025
   Price: $30.00 USD
 - [mxmtoon logo tee](https://merch.mxmtoon.com/products/mxmtoon-logo-tee): Product Brand/Style: Royal 5051ORG - Eggplant Fit: StandardFabric: 100% Organic Cotton, USA Made
-  Updated: 2026-10-05T13:03:45Z
+  Updated: 2026-10-12T15:21:11Z
   Vendor: mxmtoon
   Product Type: Shirts
   Availability: Available
@@ -199,7 +199,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_Rising_CD_signed.png?v=1774462988
   Price: $20.00 USD
 - [cherry tee](https://merch.mxmtoon.com/products/cherry-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-05T13:03:50Z
+  Updated: 2026-10-12T15:21:10Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -211,21 +211,21 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [worse + older tee](https://merch.mxmtoon.com/products/worse-older-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-05T13:03:51Z
+  Updated: 2026-10-12T15:21:10Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0002_159020_1_288917_d-copy.png?v=1695411463
   Price: $20.00 USD
 - [heart keychain](https://merch.mxmtoon.com/products/heart-keychain): 2.5 inch wide enamel keychain
-  Updated: 2026-10-05T13:03:53Z
+  Updated: 2026-10-12T15:19:21Z
   Vendor: mxmtoon
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0005_159016_1_288913_d-_1.png?v=1695416594
   Price: $10.00 USD
 - [1-800-date-me crop tee](https://merch.mxmtoon.com/products/1-800-date-me-crop-tee): hotline open now 📞 60/40 combed ring-spun cotton/polyester size chart size body length (in) chest width (in) s 19 1/2 18 1/2 m 20 19 1/2 l 20 1/2 20 1/2 xl 21 1/4 21 1/2 2xl 22 23 1/2 3xl 22 1/2 25 1/2
-  Updated: 2026-10-05T13:03:53Z
+  Updated: 2026-10-12T15:18:43Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -249,7 +249,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [hey, hello tee](https://merch.mxmtoon.com/products/hey-hello-tee): what's your name, i'd really like to know about you... 100% cotton size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-10-05T13:03:54Z
+  Updated: 2026-10-12T15:18:44Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -271,6 +271,30 @@ your agent can transact everywhere.
     Price: $30.00 USD
   - [3X-Large](https://merch.mxmtoon.com/products/hey-hello-tee?variant=47288638243115)
     Availability: Available
+    Price: $30.00 USD
+- [plum blossom (revisited) tee](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee): shipping in 2-3 weeks in bloom 🌸 ﻿100% cotton size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
+  Updated: 2026-10-12T15:18:44Z
+  Vendor: mxmtoon
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_0002_160246_1_291551_d.png?v=1697835944
+  - [Small](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650498347)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [Medium](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650531115)
+    Availability: Available
+    Price: $30.00 USD
+  - [Large](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650563883)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [X-Large](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650596651)
+    Availability: Available
+    Price: $30.00 USD
+  - [2X-Large](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650629419)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [3X-Large](https://merch.mxmtoon.com/products/plum-blossom-revisited-tee?variant=47288650662187)
+    Availability: Not Available
     Price: $30.00 USD
 - [plum blossom - limited edition vinyl](https://merch.mxmtoon.com/products/plum-blossom-limited-edition-vinyl): 2 sided LP featuring mxmtoon's latest EP, plum blossom (revisited) on side a, and debut EP, plum blossom, on side b. Pressed in purple and white dual color vinyl. SIDE A the idea of you (revisited) cliché (revisited) feelings are fatal (revisited) stuck (revisited) temporary nothing (revisited) hong kong (revisited) 1-800-DATEME (revisited) SIDE B cliché i feel like chet feelings are fatal the idea of you porcelain temporary nothing i miss you Release Date: march 2024
   Updated: 2026-10-05T13:03:55Z
@@ -317,15 +341,30 @@ your agent can transact everywhere.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_0002_161379_1_294174_d.png?v=1710516821
   Price: $25.00 USD
+- [mxmtoon cropped logo tee](https://merch.mxmtoon.com/products/mxmtoon-cropped-logo-tee): hand-cropped version of this super cute mxmtoon logo tee! Product Brand/Style: Royal 5051ORG - Eggplant Fit: Standard, croppedFabric: 100% Organic Cotton, USA Made
+  Updated: 2026-10-12T15:14:44Z
+  Vendor: mxmtoon
+  Product Type: Shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmtcroppedlogotee.png?v=1714073045
+  - [Small](https://merch.mxmtoon.com/products/mxmtoon-cropped-logo-tee?variant=48715430789419)
+    Availability: Available
+    Price: $20.00 USD
+  - [Medium](https://merch.mxmtoon.com/products/mxmtoon-cropped-logo-tee?variant=48715430822187)
+    Availability: Not Available
+    Price: $20.00 USD
+  - [Large](https://merch.mxmtoon.com/products/mxmtoon-cropped-logo-tee?variant=48715430854955)
+    Availability: Not Available
+    Price: $20.00 USD
 - [dawn & dusk - black vinyl](https://merch.mxmtoon.com/products/dawn-dusk-black-vinyl-1): dawn & dusk 12" Black Vinyl side a track listing1. fever dream2. used to you3. lessons4. quiet emotions5. 1, 26. no faker7. almost home side b track listing1. bon iver2. ok on your own3. myrtle ave.4. wallflower5. asking for a friend6. show and tell7. first
-  Updated: 2026-10-05T13:04:00Z
+  Updated: 2026-10-07T17:40:37Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt-dawndusk-Vinyl-Mockup2__1___1_006b884c-9101-414f-beae-4985f05dc595.png?v=1714757759
   Price: $30.00 USD
 - [baby blue logo hoodie](https://merch.mxmtoon.com/products/baby-blue-logo-hoodie): 80% cotton, 20% recycled polyester hoodie in Blue Mist size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-10-05T13:04:02Z
+  Updated: 2026-10-12T15:13:14Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -349,7 +388,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $55.00 USD
 - [cowboy cloud tee](https://merch.mxmtoon.com/products/cowboy-cloud-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt; garment-dyed and pre-shrunk for a lived-in feel size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-10-05T13:04:02Z
+  Updated: 2026-10-12T15:13:14Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -394,7 +433,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_logo_sticker.png?v=1739394048
   Price: $5.00 USD
 - [raccoon tee](https://merch.mxmtoon.com/products/lose-my-cool-tee): 100% ringspun heavyweight cotton, comfort colors t-shirt in natural; garment-dyed and pre-shrunk for a lived-in feel size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26 3xl 33 28
-  Updated: 2026-10-05T13:04:09Z
+  Updated: 2026-10-12T15:08:54Z
   Vendor: mxmtoon
   Product Type: T-Shirt
   Availability: Available
@@ -422,7 +461,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0001_163884_1_299887_d.png?v=1744142035
   Price: $30.00 USD
 - [liminal space tour hoodie](https://merch.mxmtoon.com/products/liminal-space-tour-hoodie): 80% cotton, 20% recycled polyester hoodie in black size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-10-05T13:04:10Z
+  Updated: 2026-10-12T15:08:54Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -471,7 +510,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/0000_Mxmtoon-Picture-disc-w-cover.png?v=1783714255
   Price: $30.00 USD
 - [plum blossom (revisited) tour hoodie](https://merch.mxmtoon.com/products/plum-blossom-revisited-tour-hoodie): 50% cotton, 50% polyester hoodie in purple *please note that color and blank may vary and differ from the product photo size chart size body length (in) chest width (in) sleeve length (in) s 27 20 33 1/2 m 28 22 34 1/2 l 29 24 35 1/2 xl 30 26 36 1/2 xxl 31 28 37 1/2
-  Updated: 2026-10-05T13:04:13Z
+  Updated: 2026-10-16T23:01:26Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -495,22 +534,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:42Z
   Total Products: 50
 - [sweatshirts](https://merch.mxmtoon.com/collections/sweatshirts)
-  Updated: 2026-07-08T20:17:26Z
+  Updated: 2026-10-12T15:16:42Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
-  Updated: 2026-07-08T20:17:26Z
+  Updated: 2026-10-12T15:15:51Z
   Total Products: 9
 - [accessories](https://merch.mxmtoon.com/collections/accessories)
-  Updated: 2026-09-20T11:03:58Z
+  Updated: 2026-10-12T15:16:44Z
   Total Products: 56
 - [vintage](https://merch.mxmtoon.com/collections/vintage)
   Updated: 2026-09-09T11:04:21Z
@@ -522,100 +561,100 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
   Total Products: 15
 - [Spotify](https://merch.mxmtoon.com/collections/spotify)
-  Updated: 2026-09-09T11:04:21Z
+  Updated: 2026-10-08T11:04:14Z
   Total Products: 3
 - [Livestream Promotions](https://merch.mxmtoon.com/collections/livestream-promotions)
   Updated: 2026-07-08T20:17:27Z
   Total Products: 0
 - [ Collection](https://merch.mxmtoon.com/collections/-collection)
-  Updated: 2026-07-09T15:13:49Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 18
 - [mxmtoon artist collab collection](https://merch.mxmtoon.com/collections/mxmtoon-artist-collab-collection)
   Updated: 2023-09-20T19:37:07Z
   Total Products: 6
 - [apparel](https://merch.mxmtoon.com/collections/apparel)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 73
 - [Spotify Fans First](https://merch.mxmtoon.com/collections/spotify-fans-first)
   Updated: 2026-07-08T20:17:27Z
   Total Products: 0
 - [rising](https://merch.mxmtoon.com/collections/rising)
-  Updated: 2026-09-20T11:03:58Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 18
 - [Misc](https://merch.mxmtoon.com/collections/misc)
-  Updated: 2026-09-20T11:03:58Z
+  Updated: 2026-10-12T15:16:44Z
   Total Products: 35
 - [rising (the tour) merch](https://merch.mxmtoon.com/collections/rising-tour)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:42Z
   Total Products: 13
 - [new arrivals](https://merch.mxmtoon.com/collections/new-arrivals)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 34
 - [bittersweet daze tour merch](https://merch.mxmtoon.com/collections/bittersweet-daze-tour-merch)
-  Updated: 2026-09-28T18:36:09Z
+  Updated: 2026-10-12T15:16:44Z
   Total Products: 6
 - [plum blossom (revisited)](https://merch.mxmtoon.com/collections/plum-blossom-revisited)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:01Z
   Total Products: 7
 - [graphic novels](https://merch.mxmtoon.com/collections/graphic-novels)
   Updated: 2026-09-09T11:04:21Z
   Total Products: 2
 - [valentine's gift guide](https://merch.mxmtoon.com/collections/valentines-gift-guide)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:42Z
   Total Products: 11
 - [the spring line](https://merch.mxmtoon.com/collections/the-spring-line)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:15:52Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
-  Updated: 2026-09-25T11:08:10Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 29
 - [$35](https://merch.mxmtoon.com/collections/30)
-  Updated: 2026-07-09T20:14:13Z
+  Updated: 2026-10-12T15:16:42Z
   Total Products: 11
 - [$20](https://merch.mxmtoon.com/collections/20)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:16:44Z
   Total Products: 26
 - [$10 & under](https://merch.mxmtoon.com/collections/smart-collection)
-  Updated: 2026-09-16T11:04:14Z
+  Updated: 2026-10-12T15:15:51Z
   Total Products: 41
 - [the signed section](https://merch.mxmtoon.com/collections/the-signed-section)
-  Updated: 2026-09-09T11:04:21Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 11
 - [summer tour merch](https://merch.mxmtoon.com/collections/summer-tour-merch)
-  Updated: 2026-09-10T11:04:14Z
+  Updated: 2026-10-12T15:15:52Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
-  Updated: 2026-09-20T11:03:58Z
+  Updated: 2026-10-12T15:15:52Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
-  Updated: 2026-10-02T11:04:28Z
+  Updated: 2026-10-12T15:15:35Z
   Total Products: 7
 - [liminal space collection](https://merch.mxmtoon.com/collections/liminal-space-collection)
-  Updated: 2026-07-08T20:17:28Z
+  Updated: 2026-10-12T15:15:34Z
   Total Products: 3
 - [blind boxes](https://merch.mxmtoon.com/collections/blind-boxes)
   Updated: 2026-07-08T20:17:28Z
   Total Products: 1
 - [cold weather gear](https://merch.mxmtoon.com/collections/cold-weather-gear)
-  Updated: 2026-09-25T11:08:10Z
+  Updated: 2026-10-15T11:04:46Z
   Total Products: 6
 - [liminal space tour](https://merch.mxmtoon.com/collections/liminal-space-tour)
   Updated: 2026-09-24T11:04:32Z
   Total Products: 5
 - [](https://merch.mxmtoon.com/collections/)
-  Updated: 2026-07-09T15:13:49Z
+  Updated: 2026-10-12T15:16:43Z
   Total Products: 19
 - [bfcm bundles](https://merch.mxmtoon.com/collections/bfcm-bundles)
-  Updated: 2026-07-08T20:17:28Z
+  Updated: 2026-10-12T15:15:03Z
   Total Products: 4
 - [Stocking Stuffers](https://merch.mxmtoon.com/collections/stocking-stuffers)
   Updated: 2026-09-20T11:03:58Z
@@ -655,15 +694,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://merch.mxmtoon.com/policies/privacy-policy)
-  Updated: 2026-06-18T15:37:29-05:00
+  Updated: 2026-06-18T20:37:29Z
 - [Shipping Policy](https://merch.mxmtoon.com/policies/shipping-policy)
-  Updated: 2026-09-25T11:04:48-05:00
+  Updated: 2026-09-25T16:04:48Z
 - [Refund Policy](https://merch.mxmtoon.com/policies/refund-policy)
-  Updated: 2026-06-18T15:37:16-05:00
+  Updated: 2026-06-18T20:37:16Z
 - [Terms of Service](https://merch.mxmtoon.com/policies/terms-of-service)
-  Updated: 2026-09-25T11:04:35-05:00
+  Updated: 2026-09-25T16:04:35Z
 - [Contact Information](https://merch.mxmtoon.com/policies/contact-information)
-  Updated: 2024-10-23T15:58:23-05:00
+  Updated: 2024-10-23T20:58:23Z
 
 ## Optional
 
