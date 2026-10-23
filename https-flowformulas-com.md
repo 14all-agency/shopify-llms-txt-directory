@@ -6,14 +6,14 @@
 - Timezone: America/Chicago
 - Created At: 2017-11-25T02:23:40Z
 - Contact Email: Info@flowformulas.com
-- Updated At: 2026-08-18T00:00:42.589Z
+- Updated At: 2026-10-23T01:03:58.754Z
 
 ## Products
 
-- [Purist Water Bottles - Flow Formulas](https://flowformulas.com/products/water-bottle): Keep your fluids cold longer and with all the things you love about your purist water bottle. Purist technology shields the bottle from any bad taste, mold, or staining. As pure as drinking from a glass, but with all the advantages of a flexible bottle. Nothing sticks, so your bottle stays clean and your water always taste pure. MoFlow lid is easy to open, effortless to use, and leak-proof when closed. - Flow Formulas
-  Updated: 2026-08-16T15:59:07Z
+- [Purist Water Bottles | Flow Formulas](https://flowformulas.com/products/water-bottle): Choose Flow Formulas Purist bottles in clear 22 oz, clear 26 oz or insulated 23 oz. MoFlow lids are leak-proof when closed.
+  Updated: 2026-10-20T01:19:06Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Water Bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-26OZ-BOTTLE-01.jpg?v=1688133242
   - [Clear 26oz Purist Bottle](https://flowformulas.com/products/water-bottle?variant=36999750025380)
@@ -28,10 +28,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-22OZ-BOTTLE-01.jpg?v=1688133258
     Price: $9.99 USD
-- [Recovery Drink Mix - Flow Formulas](https://flowformulas.com/products/recovery-drink-mix): This recovery drink mix was designed from current research for endurance athletes to use within 30 minutes after exercise. It contains a ratio of carbohydrates and protein to maximum recovery for next day bouts of exercise. Developed from current sports performance research Replaces the most effective amount of carbohydrates post exercise Contains two types of carbohydrates to refuel muscle and liver glycogen Contains 480mg per serving of CherryPURE® backed by two clinical studies on muscle recovery Vegan and Top 12 allergen free Exceptional taste Directions: Follow the chart to calculate the appropriate number of scoops based on the research for your weight. For Best Results: Use a personal sized blender Pour liquid first (water or nondairy milk) Scoop the mix on top Add two to three ice cubes Blend and enjoy within 30 minutes after exercise Ingredients: Chocolate - organic tapioca maltodextrin, pea protein powder, organic agave powder, organic cane sugar, organic cocoa processed with alkali, organic brown rice protein, sea salt, montmorency tart cherries. Vanilla - organic tapioca maltodextrin, pea protein powder, organic agave powder, organic vanilla powder (organic cane sugar, vanilla bean extract), organic brown rice protein, sea salt, montmorency tart cherries. - Flow Formulas
-  Updated: 2026-08-17T22:21:26Z
+- [Recovery Drink Mix | Flow Formulas](https://flowformulas.com/products/recovery-drink-mix): Chocolate or Vanilla recovery drink powder with carbohydrates, pea protein, brown rice protein and tart cherries. Blend with water or nondairy milk.
+  Updated: 2026-10-22T23:38:27Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Recovery Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/RDM-CHOCO-MOCKUP-PREVIEWFRONT_1efcd7e0-f485-43dd-a56a-dd68288c50c2.jpg?v=1611761419
   - [Chocolate](https://flowformulas.com/products/recovery-drink-mix?variant=40773100798116)
@@ -42,10 +42,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/Recovery_Drink_Mix_VANILLA_Front.jpg?v=1683573572
     Price: $46.00 USD
-- [Endurance Drink Mix - Single Serving Reusable Tube - Flow Formulas](https://flowformulas.com/products/race-formula-single-serving-reusable-tube): Developed to help you perform your best during a race so you can easily refuel with one simple tube. Designed to be refilled with our Endurance Drink Mix to reduce packaging. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Top 12 allergen free Exceptional taste With caffeine contains 184 mg of caffeine to boost performance Directions: Mix one tube with 16-24 ounces (2-3) cups of water. Shake vigorously. Drink 1/2 - 3/4 cup every 15 minutes. Ingredients: organic tapioca maltodextrin, organic agave powder, citric acid, sea salt, fruit powder, rice maltodextrin. With caffeine contains 184mg caffeine per serving. - Flow Formulas
-  Updated: 2026-08-14T15:35:50Z
+- [Carbohydrate Powder in a Reusable Tube | Flow Formulas](https://flowformulas.com/products/race-formula-single-serving-reusable-tube): Shop Flow carbohydrate powder in a single-serving reusable tube. Mix with water for endurance training and racing, then refill for your next session.
+  Updated: 2026-10-22T02:28:44Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/RaceFormulaTubePreviewFront.png?v=1618605128
   - [Lemon-Lime / 1 Reusable Tube](https://flowformulas.com/products/race-formula-single-serving-reusable-tube?variant=39675648802980)
@@ -68,10 +68,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/files/R90-OR-FRONT.png?v=1745945326
     Price: $5.99 USD
-- [Electrolyte Hydration Mix - Flow Formulas](https://flowformulas.com/products/electrolyte-replacement-mix): This electrolyte mix was developed from research for effective hydration. It can be used post exercise when hydration is needed to restore fluid balance or during activities when additional calories may not be desired or required. Developed from current sports performance research Replaces needed electrolytes to restore fluid balance Top 12 allergen free Exceptional taste Directions: Mix one scoop with 12 ounces of water. Stir and let dissolve for five minutes. Lemonade Ingredients: organic cane sugar, lemon (lemon juice, rice maltodextrin), citric acid, sea salt, stevia extract Passion Fruit Ingredients: organic agave powder, passion fruit (passion fruit, rice maltodextrin), sea salt, citric acid, stevia extract - Flow Formulas
-  Updated: 2026-08-17T15:27:47Z
+- [Electrolyte Hydration Mix | Flow Formulas](https://flowformulas.com/products/electrolyte-replacement-mix): Choose Lemonade or Passion Fruit electrolyte drink powder. Mix one scoop with 12 ounces of water, stir and let dissolve for five minutes.
+  Updated: 2026-10-21T16:41:06Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Electrolyte Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/LemonadeElectrolyteProofFront.png?v=1680535268
   - [Lemonade](https://flowformulas.com/products/electrolyte-replacement-mix?variant=42155042373844)
@@ -82,15 +82,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/PassionFruitElectrolyteProofFront.png?v=1680535268
     Price: $36.99 USD
-- [Flow Formulas Clear Sticker - Flow Formulas](https://flowformulas.com/products/flow-formulas-clear-sticker): Add a Flow sticker to your bike, helmet, or water bottles! Premium vinyl with a strong adhesive. Protects from rain and sunlight. Waterproof Scratchproof Made to last - Flow Formulas
-  Updated: 2026-08-14T15:35:50Z
+- [Flow Formulas Clear Vinyl Sticker | Flow Formulas](https://flowformulas.com/products/flow-formulas-clear-sticker): Add Flow Formulas branding to your bike, helmet or water bottle with a clear premium vinyl sticker featuring a strong adhesive.
+  Updated: 2026-10-18T12:23:46Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Vinyl Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FrontLogo.png?v=1644421875
   Price: $1.00 USD
-- [Flow Formulas E-Gift Card - Flow Formulas](https://flowformulas.com/products/flow-formulas-e-gift-card): - Flow Formulas
-  Updated: 2026-08-14T15:35:51Z
+- [Flow Formulas E-Gift Card | Flow Formulas](https://flowformulas.com/products/flow-formulas-e-gift-card): Give a Flow Formulas E-Gift Card. Choose from the available denominations for a gift that lets the recipient select their products.
+  Updated: 2026-10-09T14:42:42Z
   Vendor: Flow Formulas
   Product Type: Gift Card
   Availability: Available
@@ -113,10 +113,10 @@
   - [$200.00](https://flowformulas.com/products/flow-formulas-e-gift-card?variant=43532748751060)
     Availability: Available
     Price: $200.00 USD
-- [Endurance Gel Mix 1.0 - Flow Formulas](https://flowformulas.com/products/endurance-gel-mix): Our Endurance Gel Mix is customizable, cuts down on waste and is cost effective for athletes. Just add a heaping scoop to water and mix in one of the reusable flasks! Easy way to add calories and electrolytes for training and racing Glucose to Fructose ratio of 1:0.8 based on current sports performance research Reduces waste with reusable gel flasks Allows customization for your preference of calories and thickness Multiple size flasks allows you to carry up to four gels in one flask Reduces cost compared to similar sized gels As always - Top 12 allergen free with exceptional taste. Why Flavorless? Ever get tired of flavor after hours and hours of racing? Try our Flavorless - it goes down easy and can keep you going when you find it difficult to take in other nutrition. - Flow Formulas
-  Updated: 2026-08-17T13:56:26Z
+- [Carbohydrate Powder for Endurance Gels | Flow Formulas](https://flowformulas.com/products/endurance-gel-mix): Mix Flow carbohydrate powder into your own endurance gel. Customize thickness and calories in a reusable flask for cycling, running, training, and racing.
+  Updated: 2026-10-22T02:28:59Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Gel Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/EGM-RFB-2-FRONT-2048.jpg?v=1693931469
   - [Rainbow Fruit Blast](https://flowformulas.com/products/endurance-gel-mix?variant=43805118693588)
@@ -127,10 +127,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/EGM-FLAVORLESS-FRONT-2048.jpg?v=1693931469
     Price: $46.99 USD
-- [Reusable Gel Flask - Flow Formulas](https://flowformulas.com/products/reusable-gel-flask): Now in stock with an all new bite valve Flask Lid. This valve requires a break in period to loosen and allow the fluids to flow free. PBA free. Cut down on waste with these reusable gel flasks. Simply scoop in our gel mix, add water, shake, and its race ready! 150 ml flask can hold up to two gels - best for mixing and racing 250 ml flask can hold up to four gels - best for long days in the saddle - Flow Formulas
-  Updated: 2026-08-14T15:35:51Z
+- [Reusable Gel Flask, 150 ml & 250 ml | Flow Formulas](https://flowformulas.com/products/reusable-gel-flask): Carry your Flow Formulas gel mix in a reusable flask with a bite valve lid. Choose 150 ml for up to two gels or 250 ml for up to four.
+  Updated: 2026-10-21T19:50:00Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Reusable Gel Flask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-FLASK-LID-150ML-PREVIEW.jpg?v=1690828383
   - [150 ml](https://flowformulas.com/products/reusable-gel-flask?variant=43805126590676)
@@ -141,10 +141,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-FLASK-LID-250ML-PREVIEW.jpg?v=1690828595
     Price: $8.99 USD
-- [Recovery Drink Mix Single Serving - Flow Formulas](https://flowformulas.com/products/recovery-drink-mix-single-serving): Sample our Recovery Drink Mix now available in a single serving compostable PLA pouch. Designed from current research for endurance athletes to use within 30 minutes after exercise. It contains a ratio of carbohydrates and protein to maximum recovery for next day bouts of exercise. Developed from current sports performance research Replaces the most effective amount of carbohydrates post exercise Contains two types of carbohydrates to refuel muscle and liver glycogen Contains 480mg per serving of CherryPURE® backed by two clinical studies on muscle recovery Vegan and Top 12 allergen free Exceptional taste For Best Results: Use a personal sized blender Use 12 ounces of water or nondairy milk Pour liquid first Scoop the mix on top Add two to three ice cubes Blend and enjoy within 30 minutes after exercise Ingredients: Chocolate - organic tapioca maltodextrin, pea protein powder, organic agave powder, organic cane sugar, organic cocoa processed with alkali, organic brown rice protein, sea salt, montmorency tart cherries. Vanilla - organic tapioca maltodextrin, pea protein powder, organic agave powder, organic vanilla powder (organic cane sugar, vanilla bean extract), organic brown rice protein, sea salt, montmorency tart cherries. - Flow Formulas
-  Updated: 2026-08-14T15:35:51Z
+- [Recovery Drink Mix, Single Serving | Flow Formulas](https://flowformulas.com/products/recovery-drink-mix-single-serving): Try Chocolate or Vanilla Recovery Drink Mix in a single-serving PLA pouch. A blend of carbohydrates, pea protein and brown rice protein.
+  Updated: 2026-10-18T12:23:47Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Recovery Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/RDM-CHOCO-SS-FRONT.png?v=1713975639
   - [Vanilla](https://flowformulas.com/products/recovery-drink-mix-single-serving?variant=44920608227540)
@@ -155,41 +155,42 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2581/8346/files/RDM-CHOCO-SS-FRONT.png?v=1713975639
     Price: $5.99 USD
-- [Flow Formulas Heather Grey Trucker Hat - Flow Formulas](https://flowformulas.com/products/flow-formulas-heather-grey-trucker-cap): Classic Richardson Cap with adjustable snapback. 60/40 cotton/polyester 100% polyester mesh back Structured, mid-profile, five-panel Pre-curved contrast stitched visor Adjustable plastic snapback - Flow Formulas
-  Updated: 2026-08-14T15:35:52Z
+- [Heather Grey Trucker Hat | Flow Formulas](https://flowformulas.com/products/flow-formulas-heather-grey-trucker-cap): Flow Formulas Richardson trucker hat with a polyester mesh back, pre-curved visor and adjustable snapback. Heather grey, five-panel design.
+  Updated: 2026-10-18T12:23:47Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Trucker Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/FFHeatherGreyHatSm.png?v=1715703323
   Price: $29.99 USD
-- [Endurance Chews - Beta 2.0 - Flow Formulas](https://flowformulas.com/products/endurance-chews): Our Endurance chews got a lift. These chews are a tasty way to add calories to training, racing, hiking, and all your adventure needs. Tasty way to add calories and electrolytes Top 12 allergen free 5 chews per package - Flow Formulas
-  Updated: 2026-08-17T22:01:27Z
+- [Endurance Chews Beta 2.0 | Flow Formulas](https://flowformulas.com/products/endurance-chews): Portable Endurance Chews with calories and electrolytes for training, racing and hiking. Five chews per package; choose your flavor.
+  Updated: 2026-10-22T14:15:24Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Chews
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/A3_-_1250x1250_-_v3_-_MB_-_TMMC_-_362913.png?v=1776440979
+  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/strawberry-main-v2.png?v=1790863804
   - [Strawberry](https://flowformulas.com/products/endurance-chews?variant=45359044329684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2581/8346/files/A3_-_1250x1250_-_v3_-_MB_-_TMMC_-_362913.png?v=1776440979
+    Image: https://cdn.shopify.com/s/files/1/2581/8346/files/strawberry-main-v2.png?v=1790863804
     Price: $3.49 USD
   - [Very Berry](https://flowformulas.com/products/endurance-chews?variant=45359044755668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2581/8346/files/A5_-_1250x1250_-_v2_-_MB_-_TMMC_-_362913.png?v=1776440979
+    Image: https://cdn.shopify.com/s/files/1/2581/8346/files/very-berry-main-v1_b223186a-f340-4ac8-b5c9-b296f7fbf74c.png?v=1790808131
     Price: $3.49 USD
   - [Pineapple](https://flowformulas.com/products/endurance-chews?variant=45359045181652)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2581/8346/files/pineapple-main-v1_01df9972-2741-4078-86ea-0f69adbf4fbb.png?v=1790808119
     Price: $3.49 USD
-- [Flow Formulas Custom Ambassador Sock - Flow Formulas](https://flowformulas.com/products/flow-formulas-custom-ambassador-sock): Made in Italy these customs socks will take your style up a notch. Get your custom Flow Formulas ambassador socks today! The custom woven performance sock is made of a durable Meryl Skinlife Polyesterfiber. Silver processing has made the fabric antibacterial, preventingfoul odors. In addition, the sock features standard 160 needles forultimate stretch. One Size Fits Most - Flow Formulas
-  Updated: 2026-08-14T15:35:52Z
-  Vendor: Flow Formulas 
-  Product Type: 
+- [Flow Formulas Custom Ambassador Socks | Flow Formulas](https://flowformulas.com/products/flow-formulas-custom-ambassador-sock): Made in Italy, Flow Formulas ambassador socks feature Meryl Skinlife polyester fiber and custom woven branding. One size fits most.
+  Updated: 2026-10-18T12:23:47Z
+  Vendor: Flow Formulas
+  Product Type: Athletic Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/NavyFFSocksBack.jpg?v=1735058106
   Price: $19.99 USD
-- [Endurance Drink Mix All Flavors - 10 Serving Bag - Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-1): Research based fuel to feel and perform your best. Created specifically for activities over one hour. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Exceptional taste Optimal fuel and electrolytes for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Best if used as a pre workout 30-45 minutes in advance and throughout a workout Ingredients: organic tapioca maltodextrin, organic agave powder, citric acid, sea salt, fruit, rice maltodextrin Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* High Sodium: Contains 780 mg Sodium per two scoops and 1170mg per 3 scoops. Low Sodium: Contains 200 mg Sodium per two scoops and 300 mg per 3 scoops. - Flow Formulas
-  Updated: 2026-08-17T22:21:07Z
+- [Carbohydrate Powder Endurance Drink Mix | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-1): Fuel long rides, runs, and races with Flow carbohydrate powder. A research-backed endurance drink mix with electrolytes in a 10-serving bag.
+  Updated: 2026-10-22T23:38:22Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-RASPBERRY-LEMON-FRONT.jpg?v=1778523086
   - [Raspberry-Lemon](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-1?variant=46089082536148)
@@ -221,26 +222,27 @@
     Availability: Available
     Price: $32.99 USD
   - [Lemon-Lime Retail](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-1?variant=46089082437844)
-    Availability: Available
+    Availability: Not Available
     Price: $32.99 USD
-- [Blueberry Agave Special Edition! - Flow Formulas](https://flowformulas.com/products/blueberry-agave-special-edition): Get your Special Edition Blueberry Agave Endurance mix in our all new bag size! Same great product! Same price per ounce and updated with some great perks. Wider mouth for easier scoop access Bag made out of post consumer recycled material (PCR) Scoop made out of post consumer recycled material (PCR) GFCO  Research based fuel to feel and perform your best. Created specifically for activities over one hour. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Exceptional taste Optimal fuel for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Ingredients: organic tapioca maltodextrin, organic agave powder, blueberry (blueberry powder, rice maltodextrin) citric acid, sea salt. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* - Flow Formulas
-  Updated: 2026-08-17T13:56:15Z
+- [Carbohydrate Powder 30-Serving Bulk Bag | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-copy): Stock up on Flow carbohydrate powder in a 30-serving bulk bag. Endurance drink mix for cycling, running, and triathlon. Scoop sold separately.
+  Updated: 2026-10-22T22:08:07Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-BLUEBERRY-AGAVE-FRONT.jpg?v=1776703453
-  Price: $32.99 USD
-- [Tropical Passion Special Edition! - Flow Formulas](https://flowformulas.com/products/tropical-passion-special-edition-1): Get your Summer Special Edition Tropical Passion Endurance mix in our all new bag size! Same great product! Same price per ounce and updated with some great perks. Wider mouth for easier scoop access Bag made out of post consumer recycled material (PCR) Scoop made out of post consumer recycled material (PCR) GFCO  Research based fuel to feel and perform your best. Created specifically for activities over one hour. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Exceptional taste Optimal fuel for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Ingredients: organic tapioca maltodextrin, organic agave powder, fruit powder (rice maltodextrin), citric acid, sea salt. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes. - Flow Formulas
-  Updated: 2026-08-14T15:35:52Z
+  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/Bulk_Bag_Three_Bags.png?v=1754595209
+  - [Lemon-Lime](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-copy?variant=46111590449364)
+    Availability: Available
+    Price: $89.99 USD
+  - [Raspberry-Lemon](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-copy?variant=46111590482132)
+    Availability: Available
+    Price: $89.99 USD
+  - [Strawberry](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-copy?variant=46111590514900)
+    Availability: Available
+    Price: $89.99 USD
+- [Flavorless Carbohydrate Powder & Sodium | Flow Formulas](https://flowformulas.com/products/high-low-sodium-endurance-mix-new-bag-size): Explore Flow flavorless carbohydrate powder with high and low sodium options. Use alone or blend with flavored endurance drink mixes for your fueling plan.
+  Updated: 2026-10-22T14:23:40Z
   Vendor: Flow Formulas
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-TROPICAL-PASSION-FRONT.jpg?v=1743707564
-  Price: $32.99 USD
-- [High & Low Sodium Flavorless Endurance Mix - 10 Serving Bag - Flow Formulas](https://flowformulas.com/products/high-low-sodium-endurance-mix-new-bag-size): Take 40% Off Flavorless and Low Sodium! Use code Flavorless40 * excludes High Sodium Our High and Low Sodium Endurance mix allows you to create the perfect sodium blend for you. The flavorless can be used on its own or to add calories and sodium to our other flavored Endurance mixes. Same great product! Same price per ounce. New bag size updated with some great perks. Wider mouth for easier scoop access Bag made out of post consumer recycled material (PCR) Scoop made out of post consumer recycled material (PCR) GFCO  Research based fuel to feel and perform your best. Created specifically for activities over one hour. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Exceptional taste Optimal fuel for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Ingredients: organic tapioca maltodextrin, organic agave powder, citric acid, sea salt. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* High Sodium: Contains 780 mg Sodium per two scoops and 1170mg per 3 scoops. Low Sodium: Contains 200 mg Sodium per two scoops and 300 mg per 3 scoops. - Flow Formulas
-  Updated: 2026-08-17T22:21:17Z
-  Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-HIGH-SODIUM-FRONT_6d129d6b-59f6-4d0e-a747-60dc7ceddfa1.jpg?v=1743703137
   - [High Sodium Flavorless](https://flowformulas.com/products/high-low-sodium-endurance-mix-new-bag-size?variant=46192706879700)
@@ -254,31 +256,31 @@
   - [Flavorless](https://flowformulas.com/products/high-low-sodium-endurance-mix-new-bag-size?variant=47835616805076)
     Availability: Not Available
     Price: $32.99 USD
-- [Endurance Drink Mix Scoop - 53 cc - Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-scoop-53-cc): Need a scoop for your bulk bag of Endurance Mix? Add this plastic 53 cc scoop to your cart. - Flow Formulas
-  Updated: 2026-08-14T15:35:53Z
-  Vendor: Flow Formulas 
-  Product Type: 
+- [Endurance Drink Mix Scoop, 53 cc | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-scoop-53-cc): Add a plastic 53 cc measuring scoop for your Flow Formulas bulk Endurance Drink Mix bag.
+  Updated: 2026-10-09T14:42:02Z
+  Vendor: Flow Formulas
+  Product Type: Measuring Scoop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/53CCLongHandleScoop.jpg?v=1745946455
   Price: $1.00 USD
-- [Dylan Johnson Special Edition - Flow Formulas](https://flowformulas.com/products/dylan-johnson-special-edition): Train like Dylan Johnson and maximize every marginal gain by using his drink mix of choice. Made with the fewest ingredients possible for minimal flavor and maximum absorption. No flavor, no citric acid - pure carbs and sea salt Prevent flavor fatigue by using this neutral product for races such as Unbound or the Leadville 100 Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Optimal fuel for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Ingredients: organic tapioca maltodextrin, organic agave powder, sea salt. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* - Flow Formulas
-  Updated: 2026-08-17T13:56:16Z
+- [Dylan Johnson Carbohydrate Powder | Flow Formulas](https://flowformulas.com/products/dylan-johnson-special-edition): Fuel long rides with Dylan Johnson Special Edition carbohydrate powder. A flavorless endurance drink mix with carbs and sea salt, without citric acid.
+  Updated: 2026-10-22T02:29:30Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-DJ-SE-FRONT.jpg?v=1749654135
   Price: $32.99 USD
-- [Starter Pack - Flow Formulas](https://flowformulas.com/products/starter-pack): This convenient bundle features a full-size Recovery Mix bag to maximize post workout recovery, an Endurance Mix bag for sustained performance, and a pack of Endurance Chews for easy, on-the-go fuel. Perfect for athletes looking to optimize every stage of their adventure - from starting line to finish and beyond. - Flow Formulas
-  Updated: 2026-08-17T22:21:38Z
-  Vendor: Flow Formulas 
-  Product Type: 
+- [Endurance & Recovery Nutrition Starter Pack | Flow Formulas](https://flowformulas.com/products/starter-pack): Explore Flow Formulas with a bundle of Endurance Drink Mix, Recovery Drink Mix and Endurance Chews. Choose your flavor combination.
+  Updated: 2026-10-22T23:38:38Z
+  Vendor: Flow Formulas
+  Product Type: Sports Nutrition Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/StarterPackGraphic.png?v=1754002491
   - [Strawberry / Lemon-Lime / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617236996308)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Strawberry / Lemon-Lime / Vanilla](https://flowformulas.com/products/starter-pack?variant=46617237029076)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Strawberry / Raspberry-Lemon / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617237061844)
     Availability: Available
@@ -317,10 +319,10 @@
     Availability: Available
     Price: $78.48 USD
   - [Very Berry / Lemon-Lime / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617237455060)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Very Berry / Lemon-Lime / Vanilla](https://flowformulas.com/products/starter-pack?variant=46617237487828)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Very Berry / Raspberry-Lemon / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617237520596)
     Availability: Available
@@ -359,10 +361,10 @@
     Availability: Available
     Price: $78.48 USD
   - [Pineapple Passion Fruit / Lemon-Lime / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617237913812)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Pineapple Passion Fruit / Lemon-Lime / Vanilla](https://flowformulas.com/products/starter-pack?variant=46617237946580)
-    Availability: Available
+    Availability: Not Available
     Price: $78.48 USD
   - [Pineapple Passion Fruit / Raspberry-Lemon / Chocolate](https://flowformulas.com/products/starter-pack?variant=46617237979348)
     Availability: Available
@@ -400,17 +402,17 @@
   - [Pineapple Passion Fruit / Low Sodium Flavorless / Vanilla](https://flowformulas.com/products/starter-pack?variant=46617238339796)
     Availability: Available
     Price: $78.48 USD
-- [Endurance Drink Mix Apple Cider - Kerry Werner Special Edition 10 Serving - Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-apple-cider-kerry-werner-special-edition-10-serving): The ultimate fall flavor is here for you to prepare hot or cold for your fall rides! Introducing our favorite seasonal flavor of our 60/90 Endurance drink mix: It's a flavor that encapsulates the essence of fall: the crisp, golden days, the aroma of ripe apples, and the warm embrace of spices like cinnamon and cloves. With a perfect blend of sweetness and tartness, this cider takes you on a journey through an orchard bathed in autumn sunlight. Let this flavor transport you to the heart of autumn, where every sip is a moment of pure seasonal delight. Can be prepared to drink as a hot or cold beverage to fuel your fall rides! As always this product is created specifically from research for endurance athletes. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Top 12 allergen free Exceptional taste Ingredients: organic tapioca maltodextrin, organic agave powder, citric acid, sea salt, apple powder (apple powder, rice maltodextrin), cinnamon, allspice. Directions: Mix 2-3 scoops with 16-24 ounces (2-3) cups of room temperature or hot water. Shake vigorously and let dissolve for 15 minutes. - Flow Formulas
-  Updated: 2026-08-15T03:25:12Z
+- [Apple Cider Carbohydrate Powder | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-apple-cider-kerry-werner-special-edition-10-serving): Shop Kerry Werner Apple Cider carbohydrate powder from Flow Formulas. A 10-serving endurance drink mix you can prepare hot or cold for your next ride.
+  Updated: 2026-10-22T02:29:34Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-KW-APPLE-CIDER-FRONT.jpg?v=1760027851
   Price: $32.99 USD
-- [Caffeinated Endurance Drink Mix - 10 Serving - Flow Formulas](https://flowformulas.com/products/caffeinated-endurance-drink-mix-10-serving): Same great product! Same price per ounce. New bag size updated with some great perks. Wider mouth for easier scoop access Bag made out of post consumer recycled material (PCR) Scoop made out of post consumer recycled material (PCR) GFCO  Research based fuel to feel and perform your best. Created specifically for activities over one hour. Developed from current sports performance research Replaces needed nutrients during hard racing and training efforts Glucose to Fructose ratio of 1:0.8 based on current sports performance research Top 12 allergen free Exceptional taste Optimal fuel and electrolytes for cyclists, triathletes, ultra runners, backpacking, climbing, snow sports, ball sports, and outdoor adventures Best if used as a pre workout 30-45 minutes in advance and throughout a workout Ingredients: organic tapioca maltodextrin, organic agave powder, citric acid, sea salt, fruit, rice maltodextrin, caffeine extracted from green coffee beans. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* - Flow Formulas
-  Updated: 2026-08-17T13:56:16Z
+- [Caffeinated Carbohydrate Powder, 10 Servings | Flow Formulas](https://flowformulas.com/products/caffeinated-endurance-drink-mix-10-serving): Shop Flow caffeinated carbohydrate powder in a 10-serving bag. Endurance drink mix with sodium for cycling, running, triathlon, training, and racing.
+  Updated: 2026-10-22T02:29:39Z
   Vendor: Flow Formulas
-  Product Type: 
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-LEMON-LIME-CAFF-FRONT.jpg?v=1765557208
   - [Lemon-Lime with Caffeine](https://flowformulas.com/products/caffeinated-endurance-drink-mix-10-serving?variant=47344415211732)
@@ -419,136 +421,155 @@
   - [Raspberry Lemon with Caffeine](https://flowformulas.com/products/caffeinated-endurance-drink-mix-10-serving?variant=47344415244500)
     Availability: Available
     Price: $32.99 USD
-- [Hillary Allen Special Edition Endurance Bag 10 Serving - White Peach Edition - Flow Formulas](https://flowformulas.com/products/hillary-allen-special-edition-bag-white-peach-edition): Built for big days in the mountains and long efforts where fueling matters most, this special edition endurance mix is a collaboration with elite hybrid athlete Hillary Allen. Known for pushing limits across ultra running and cycling, Hillary brings a real-world, high-performance perspective to a formula designed to keep you moving strong for hours. Crafted in Colorado and inspired by Boulder’s rugged mountain landscape and the iconic Palisade peaches, this limited White Peach Edition delivers a clean, refreshing flavor that’s easy to drink deep into long sessions. In collaboration with Hillary’s Hillygoat branding, it reflects the grit, resilience, and adventurous spirit behind every mile At its core, this is research-driven fuel built for sustained performance. The optimized 1:0.8 glucose-to-fructose ratio supports high carbohydrate absorption rates, helping you maintain energy output while reducing the risk of gut fatigue during extended efforts. Whether you’re racing, training, or exploring, it’s designed to deliver consistent, reliable energy when it matters most. Key Benefits: Research-based fuel designed for efforts over one hour Optimized 1:0.8 glucose-to-fructose ratio for efficient energy delivery Helps replace key nutrients lost during hard training and racing Light, refreshing White Peach flavor that stays palatable over time Top 12 allergen free and made with simple, functional ingredients Packaged in a PCR bag for reduced environmental impact Ideal for: Cycling, triathlon, ultra running, backpacking, climbing, snow sports, and long outdoor adventures where consistent energy is critical. Ingredients: organic tapioca maltodextrin, organic agave powder, white peach (white peach, rice maltodextrin), citric acid, sea salt. Directions: Mix 2-3 scoops with 16-24 ounces of water (use room temperature for best results and add ice as desired). Shake vigorously and let dissolve for 15 minutes.* - Flow Formulas
-  Updated: 2026-08-17T13:56:27Z
-  Vendor: Flow Formulas 
-  Product Type: 
+- [White Peach Carbohydrate Powder, Hillary Allen | Flow Formulas](https://flowformulas.com/products/hillary-allen-special-edition-bag-white-peach-edition): Discover Hillary Allen White Peach carbohydrate powder. Flow endurance drink mix in a 10-serving bag for long rides, trail runs, and mountain adventures.
+  Updated: 2026-10-22T23:38:28Z
+  Vendor: Flow Formulas
+  Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-HA-SE-FRONT.jpg?v=1778614247
   Price: $32.99 USD
+- [Caffeinated Carbohydrate Powder, 15 Servings | Flow Formulas](https://flowformulas.com/products/caffeine-endurance-drink-mix-15-serving-bag): Shop Flow Raspberry-Lemon carbohydrate powder with caffeine and sodium. A 15-serving endurance drink mix for long training sessions and race preparation.
+  Updated: 2026-10-22T02:29:48Z
+  Vendor: Flow Formulas
+  Product Type: Endurance Drink Mix
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2581/8346/files/6090RLCAFF_FRONT_2048_cc4d755d-bc08-4cba-bacf-e6f209addcf6.jpg?v=1790177302
+  Price: $45.00 USD
 
 ## Collections
 
 - [Home page](https://flowformulas.com/collections/frontpage): - Flow Formulas
-  Updated: 2026-08-15T20:49:35Z
+  Updated: 2026-08-20T18:06:24Z
   Total Products: 0
 - [Caffeinated](https://flowformulas.com/collections/caffeinated): - Flow Formulas
-  Updated: 2026-08-15T20:49:35Z
-  Total Products: 0
+  Updated: 2026-10-20T11:03:00Z
+  Total Products: 1
 - [Large Bags](https://flowformulas.com/collections/large-bags): - Flow Formulas
-  Updated: 2026-08-15T20:49:35Z
+  Updated: 2026-08-20T18:06:24Z
   Total Products: 0
 - [Caffeine-free](https://flowformulas.com/collections/caffeine-free): - Flow Formulas
-  Updated: 2026-08-15T20:49:35Z
-  Total Products: 0
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 2
 - [This is a great drink that gives you enough electrolytes and fuel for short or long rides. -Greg Holick, Golden, CO](https://flowformulas.com/collections/this-is-a-great-drink-that-gives-you-enough-electrolytes-and-fuel-for-short-or-long-rides-greg-holick-golden-co): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [No more trying to stomach gels and chews; I simply add Flow Formulas to a bottle and go! -Cecilia, Memphis, TN](https://flowformulas.com/collections/no-more-trying-to-stomach-gels-and-chews-i-simply-add-90g-to-a-bottle-and-go-cecilia-memphis-tn): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Thanks Flow Formulas for finally creating an allergen free, clean drink that everyone can enjoy!" -Toni, Arvada, CO](https://flowformulas.com/collections/thanks-90g-for-finally-creating-an-allergen-free-clean-drink-that-everyone-can-enjoy-toni-arvada-co-1): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Your products allow me to maintain very consistent energy levels for both training and racing - Mark Wallace, Golden, CO](https://flowformulas.com/collections/your-products-allow-me-to-maintain-very-consistent-energy-levels-for-both-training-and-racing-mark-wallace-golden-co): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Box of Individual Packets](https://flowformulas.com/collections/box-of-single-packets): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [What Athletes are Saying](https://flowformulas.com/collections/what-athletes-are-saying): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Products](https://flowformulas.com/collections/all-products): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 26
 - [Individual Race Tubes](https://flowformulas.com/collections/individual-packets): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 2
 - [Single Packets Only](https://flowformulas.com/collections/single-packets-only): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Flow Formulas is my go to for clean burning great tasting nutrition. With light refreshing fruit flavors and no high fructose corn syrup my stomach can stay bloat free allowing me to stay strong all day long! - Jeremiah Bishop](https://flowformulas.com/collections/flow-formulas-is-my-go-to-for-clean-burning-great-tasting-nutrition-with-light-refreshing-fruit-flavors-and-no-high-fructose-corn-syrup-my-stomach-can-stay-bloat-free-allowing-me-to-stay-strong-all-day-long-jeremiah-bishop): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Logan](https://flowformulas.com/collections/logan): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Gear](https://flowformulas.com/collections/gear): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 10
 - [Blog](https://flowformulas.com/collections/blog): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Collection for  codes](https://flowformulas.com/collections/collection-for--codes): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 26
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 27
 - [Endurance Drink Mix](https://flowformulas.com/collections/endurance-drink-mix): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 10
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 9
 - [Best  Products](https://flowformulas.com/collections/best--products): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 43
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
 - [Newest Products](https://flowformulas.com/collections/newest-products): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 43
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
 - [Endurance Gel Mix](https://flowformulas.com/collections/endurance-gel-mix): - Flow Formulas
-  Updated: 2026-08-16T11:02:40Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 2
 - [Hydration Electrolyte Mix](https://flowformulas.com/collections/electrolyte-mix): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 1
 - [Recovery Drink Mix](https://flowformulas.com/collections/recovery-drink-mix): - Flow Formulas
-  Updated: 2026-08-15T20:49:36Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 2
 - [Digital Goods VAT Tax](https://flowformulas.com/collections/digital-goods-vat-tax): - Flow Formulas
   Updated: 2026-07-01T19:45:28Z
   Total Products: 0
 - [Endurance Chews](https://flowformulas.com/collections/endurance-chews): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 2
 - [All Products](https://flowformulas.com/collections/all): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 43
-- [Before Activity](https://flowformulas.com/collections/before-activity): Prepare Before You Perform The best  know that performance starts long before the workout begins. Flow's Before Activity collection helps  - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 7
-- [During Activity](https://flowformulas.com/collections/during-activity): Stay Fueled When Effort Gets Real When intensity increases, preparation alone isn't enough. Flow's During Activity collection is designed to help  - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 23
-- [After Activity](https://flowformulas.com/collections/after-activity): Recover Better. Prepare For What's Next. Performance doesn't end when the workout is over. Recovery is where adaptation happens. Flow's After Activity  - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 5
-- [Special Edition Nutrition](https://flowformulas.com/collections/special-edition-nutrition): - Flow Formulas
-  Updated: 2026-08-15T20:49:37Z
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
+- [Before Activity](https://flowformulas.com/collections/before-activity): Prepare for training with Flow Formulas hydration and fuel. Explore before-activity products, mixing directions and a repeatable preparation routine.
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 8
-- [Running](https://flowformulas.com/collections/running): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 34
-- [Swimming](https://flowformulas.com/collections/swimming): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 26
-- [Trail Running](https://flowformulas.com/collections/trail-running): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 34
-- [Cycling](https://flowformulas.com/collections/cycling): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 34
-- [Mountain Biking](https://flowformulas.com/collections/mountain-biking): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 22
-- [Hiking](https://flowformulas.com/collections/hiking): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 22
-- [Skiing](https://flowformulas.com/collections/skiing): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+- [During Activity](https://flowformulas.com/collections/during-activity): Shop endurance fuel for long workouts and races. Compare Flow Formulas drink mixes, gel formats and hydration options for nutrition during activity.
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 25
-- [Triathlon](https://flowformulas.com/collections/triathlon): - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
-  Total Products: 26
+- [After Activity](https://flowformulas.com/collections/after-activity): Shop post-workout recovery nutrition from Flow Formulas. Explore carbohydrate and plant-protein recovery mixes, hydration and product preparation guides.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 6
+- [Special Edition Nutrition](https://flowformulas.com/collections/special-edition-nutrition): - Flow Formulas
+  Updated: 2026-10-21T11:04:37Z
+  Total Products: 8
+- [Running](https://flowformulas.com/collections/running): Shop running nutrition for training miles and race day. Explore electrolyte hydration, drink mixes, gel fuel and recovery from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 35
+- [Swimming](https://flowformulas.com/collections/swimming): Shop swimming nutrition for pool and open-water training. Explore hydration, fuel for longer sessions and recovery drink mixes from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 27
+- [Trail Running](https://flowformulas.com/collections/trail-running): Shop trail running nutrition for climbs, long routes and ultra training. Find drink mixes, flask-ready gel fuel and recovery nutrition from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 35
+- [Cycling](https://flowformulas.com/collections/cycling): Shop cycling nutrition for road, gravel and long rides. Explore endurance drink mixes, hydration, gel fuel and post-ride recovery from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 35
+- [Mountain Biking](https://flowformulas.com/collections/mountain-biking): Shop mountain biking nutrition for climbs, singletrack and long laps. Explore hydration, endurance drink mix, gel fuel and recovery from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 25
+- [Hiking](https://flowformulas.com/collections/hiking): Shop hiking nutrition for long days outside. Explore electrolyte hydration, endurance drink mixes and portable gel fuel for your next route.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 25
+- [Skiing](https://flowformulas.com/collections/skiing): Shop skiing nutrition for Nordic sessions, touring and mountain days. Explore hydration, endurance drink mixes and recovery nutrition from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 27
+- [Triathlon](https://flowformulas.com/collections/triathlon): Shop triathlon nutrition for swim, bike and run training. Build your routine with hydration, endurance drink mix, gel fuel and recovery from Flow Formulas.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 27
 - [Flow+](https://flowformulas.com/collections/flow): Products that can be put on a regular subscription - Flow Formulas
-  Updated: 2026-08-17T11:02:14Z
+  Updated: 2026-10-22T11:03:15Z
   Total Products: 15
+- [Endurance Nutrition](https://flowformulas.com/collections/endurance-nutrition): Shop endurance nutrition for long workouts and race day, including hydration, energy, chews, drink mix, and recovery support.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
+- [Sports Nutrition for Runners](https://flowformulas.com/collections/sports-nutrition-for-runners): Shop sports nutrition for runners, including hydration, endurance fuel, chews, and recovery support for training and race day.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
+- [Fitness](https://flowformulas.com/collections/fitness): Shop workout nutrition for gym sessions, conditioning and longer training. Explore Flow Formulas hydration, endurance fuel and recovery drink mixes.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 10
+- [Halloween ](https://flowformulas.com/collections/halloween-): Halloween SaleSave 20% sitewide October 9–18, 2026. Use code SPOOKY20 at checkout.The only monster is the bonk.
+  Updated: 2026-10-22T11:03:15Z
+  Total Products: 44
 
 ## Blogs
 
@@ -1252,6 +1273,15 @@
     Updated: 2026-07-31T01:07:32Z
     Author: Flow Formulas
     Tags: best foods during cycling, bike nutrition, cycling, cycling electrolyte drink, cycling fuel, cycling hydration, cycling nutrition, cycling recovery, cycling supplements, endurance cycling, energy bars, gravel cycling nutrition, hydration, hydration for cyclists, nutrition, nutrition tips for cyclists, performance fueling, ride snacks, road cycling nutrition, sports drink for cycling
+- [Endurance Nutrition](https://flowformulas.com/blogs/endurance-nutrition)
+  - [Sports Nutritionist Cost for Runners | Flow Formulas](https://flowformulas.com/blogs/endurance-nutrition/sports-nutritionist-cost-for-runners): Sports Nutritionist Cost for Runners | Flow Formulas
+    Updated: 2026-10-09T12:00:10Z
+    Author: Flow Formulas
+    Tags: Endurance Nutrition, Nutrition Coaching, Running
+  - [Is a Sports Dietitian Worth It? | Flow Formulas](https://flowformulas.com/blogs/endurance-nutrition/is-a-sports-dietitian-worth-it): Is a Sports Dietitian Worth It? | Flow Formulas
+    Updated: 2026-10-09T18:00:04Z
+    Author: Flow Formulas
+    Tags: Endurance Nutrition, Endurance Training, Nutrition Coaching
 
 ## Store Pages
 
@@ -1293,8 +1323,8 @@
   Updated: 2021-04-30T23:56:22Z
 - [New About Us](https://flowformulas.com/pages/new-about-us)
   Updated: 2021-11-15T16:22:12Z
-- [Orders FAQ](https://flowformulas.com/pages/faq): Do you offer free shipping? Flow Formulas offers free shipping on all subscription orders. I would like to change my order, what can I do? Once an ...
-  Updated: 2026-06-09T14:22:18Z
+- [Orders FAQ](https://flowformulas.com/pages/faq): Do you offer free shipping? Flow Formulas offers free shipping on all subscription orders. Do you offer shipping services other than USPS? If you n...
+  Updated: 2026-09-10T22:48:01Z
 - [The First Fat Bike Everest](https://flowformulas.com/pages/the-first-fat-bike-everest): Let’s start from the beginning. For a while now I was thinking of a unique fat bike challenge to do. I spend so much time on that bike due to the a...
   Updated: 2022-02-12T00:09:43Z
 - [Electrolyte Drink Research](https://flowformulas.com/pages/electrolyte-drink-research): Why does the electrolyte replacement mix only contain sodium chloride? Many other hydration products contain other types electrolytes such as potas...
@@ -1318,20 +1348,20 @@
 - [Shop by Sport](https://flowformulas.com/pages/shop-by-sport): SHOP BY SPORT Every Sport Has Different Demands. Your Fueling Should Too. A 30-minute run. A six-hour ride. A day in the mountains. Different activ...
   Updated: 2026-06-12T14:07:15Z
 - [Flow+ | Stay Prepared. Stay Consistent.](https://flowformulas.com/pages/flow-plus): 
-  Updated: 2026-06-24T21:14:46Z
+  Updated: 2026-09-30T22:29:49Z
 
 ## Policies
 
 - [Privacy Policy](https://flowformulas.com/policies/privacy-policy)
-  Updated: 2024-10-30T16:26:16-05:00
+  Updated: 2026-08-26T20:17:33Z
 - [Shipping Policy](https://flowformulas.com/policies/shipping-policy)
-  Updated: 2021-12-07T09:11:32-06:00
+  Updated: 2026-10-03T21:03:30Z
 - [Refund Policy](https://flowformulas.com/policies/refund-policy)
-  Updated: 2026-01-05T10:11:01-06:00
+  Updated: 2026-01-05T16:11:01Z
 - [Terms of Service](https://flowformulas.com/policies/terms-of-service)
-  Updated: 2026-06-29T10:49:47-05:00
+  Updated: 2026-08-26T20:10:42Z
 - [Contact Information](https://flowformulas.com/policies/contact-information)
-  Updated: 2026-08-12T14:54:16-05:00
+  Updated: 2026-08-12T19:54:16Z
 
 ## Optional
 
