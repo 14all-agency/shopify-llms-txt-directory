@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-09-15T00:00:46.726Z
+- Updated At: 2026-10-23T00:53:46.138Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -32,94 +32,108 @@ https://bioliskincare.com/blogs/bionotes
 
 ## Products
 
-- [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Rich yet airy cream with antioxidant protection, anti-inflammatory properties, and 8-hour moisturization. Leaves skin smooth and balanced throughout the day. 100% biodegradable packaging.
-  Updated: 2026-09-13T14:06:02Z
+- [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare for healthy skin, with 8-hour moisturization and antioxidant protection. In a beautiful gift box. 100% biodegradable packaging
+  Updated: 2026-10-22T04:30:09Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-moisturizing-and-protecting-day-cream-unisex-50ml-biotech-skincare.jpg?v=1754219045
   Price: kr 485.00 DKK
-- [Day Cream & Facial Towel Set – Daily Skincare | Bioli](https://bioliskincare.com/products/daily-day-cream-facial-towel): Discover mindful daily skincare with Moisturizing and Protecting Day Cream, paired with a soft Bioli face towel for simple everyday care.
-  Updated: 2026-09-10T06:43:49Z
+- [Day Cream & Facial Towel Set – Daily Skincare | Bioli](https://bioliskincare.com/products/daily-day-cream-facial-towel): Discover mindful daily skincare with Moisturizing and Protecting Day Cream, paired with a soft Bioli face towel for simple everyday care. Save 10% on Routine Sets.
+  Updated: 2026-09-28T07:55:46Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
   Price: kr 549.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-09-12T21:12:10Z
+  Updated: 2026-10-22T04:30:06Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-strengthening_serum-30ml-grey-background.jpg?v=1776617996
   Price: kr 625.00 DKK
 - [Clarifying Cleanser and Exfoliator – 2-in-1 for all skin types | Bioli](https://bioliskincare.com/products/clarifying-cleanser-and-exfoliator): A velvety 2-in-1 gel cleanser that gently cleanses and moisturizes. When left on the skin for longer, it also exfoliates. Leaves skin clean, soft and refreshed. 100% biodegradable packaging.
-  Updated: 2026-09-14T05:02:15Z
+  Updated: 2026-10-22T04:30:10Z
   Vendor: Bioli
   Product Type: Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-clarifyingcleanserandexfoliator-250ml-grey-background_e3041a1b-cdcd-4345-a3f4-da3cd79eb8ea.jpg?v=1776606162
   Price: kr 375.00 DKK
 - [Soft Cotton Facial Towel for Sensitive Skin | Bioli](https://bioliskincare.com/products/facial-towel): Soft white facial towel made from 100% pure cotton. Gentle on sensitive skin and ideal for daily facial cleansing.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-10-17T10:12:57Z
   Vendor: Bioli
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Face_Towel_196c8dce-f067-4de9-8934-7bc0fbcbdd66.png?v=1767553438
   Price: kr 125.00 DKK
-- [Skincare Trio Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/trio-cleanser-serum-day-cream): Mindful skincare gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. Beautifully gift-ready.
-  Updated: 2026-08-29T06:36:45Z
+- [Skincare Trio Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/trio-cleanser-serum-day-cream): Mindful skincare gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
+  Updated: 2026-10-16T20:00:19Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Gift_Set_-_Cleanser_Serum_Day_Cream.png?v=1777442179
   Price: kr 1,336.50 DKK
 - [Full Skincare Gift Set – 4 Piece Biotech Bundle | Bioli](https://bioliskincare.com/products/gift-set-cleanser-serum-daycream-towel): Beautiful skincare gift set with cleanser, day cream, serum and a facial towel. Fragrance-free, allergy- and gentle on sensitive skin. Beautifully gift-ready.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-09-24T20:49:56Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-serum-daycream-towel-4.5.png?v=1780646584
   Price: kr 1,610.00 DKK
 - [Skincare Gift Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/gift-set-cleanser-serum-daycream): Conscious gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. 100% biodegradable packaging. For yourself or some you care about.
-  Updated: 2026-08-29T06:36:45Z
+  Updated: 2026-09-24T20:48:23Z
   Vendor: Bioli
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioliskincare.com_Images_4.5.png?v=1780645959
   Price: kr 1,485.00 DKK
-- [Skincare Essentials – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/cleanser-day-cream): Mindful skincare gift set with cleanser and serum. Fragrance-free, allergy- and gentle on sensitive skin.
-  Updated: 2026-09-03T16:27:39Z
+- [Skincare Essentials – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/cleanser-day-cream): Mindful skincare gift set with cleanser and serum. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
+  Updated: 2026-09-16T21:17:32Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Cleanser_DayCream.png?v=1780747040
   Price: kr 774.00 DKK
-- [Skincare Trio Set – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/serum-day-cream): Mindful skincare gift set with serum and day cream. Fragrance-free, allergy- and gentle on sensitive skin.
-  Updated: 2026-08-29T06:36:45Z
+- [Skincare Trio Set – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/serum-day-cream): Mindful skincare gift set with serum and day cream. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
+  Updated: 2026-10-16T13:34:26Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Serum_DayCream.png?v=1780747700
   Price: kr 999.00 DKK
 - [Moisturizing and Protecting Day Cream – 2 FOR 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): 2 FOR 1  on Bioli's most-loved day cream with 8-hour hydration and high antioxidant protection. Calms even the most sensitive skin. 100% biodegradable packaging.
-  Updated: 2026-09-05T19:14:17Z
+  Updated: 2026-10-12T15:55:10Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-daycream-unisex-groming-beaty-skincare-versitile-biotech.jpg?v=1788164167
   Price: kr 485.00 DKK
+- [Skincare Gift Set – 2-in-1-cleanser and face towel | Bioli](https://bioliskincare.com/products/gift-set-cleanser-towel): Gift set with Bioli's gentle 2-in-1-cleanser and exfoliator and a soft facial towel. Fragrance-free, unisex skincare for healthy skin in a beautiful gift box. 100% biodegradable packaging.
+  Updated: 2026-09-24T21:47:34Z
+  Vendor: Bioli
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-towel-1.jpg?v=1789654063
+  Price: kr 500.00 DKK
+- [Skincare Gift Set – Gentle face cream and face towel | Bioli](https://bioliskincare.com/products/gift-set-face-cream-towel): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare with 8-hour moisturization and antioxidant protection. 100% biodegradable packaging.
+  Updated: 2026-09-24T22:29:57Z
+  Vendor: Bioli
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-conscious-gift-set-cleanser-daycream-1.jpg?v=1790245723
+  Price: kr 610.00 DKK
 
 ## Collections
 
 - [Conscious Gift Boxes](https://bioliskincare.com/collections/conscious-gift-set): Thoughtful skincare gift sets for all skin types. Fragrance-free, allergy-, and 100% biodegradable packaging.
-  Updated: 2026-09-13T18:48:13Z
-  Total Products: 2
-- [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-09-06T11:06:41Z
+  Updated: 2026-10-22T07:56:15Z
   Total Products: 4
+- [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
+  Updated: 2026-10-22T11:07:16Z
+  Total Products: 3
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-09-13T18:43:09Z
+  Updated: 2026-10-22T07:55:56Z
   Total Products: 4
 
 ## Blogs
@@ -153,12 +167,12 @@ https://bioliskincare.com/blogs/bionotes
     Tags: Sensitive skin
   - [Active Ingredient-Based Delivery Systems: Elevating skincare formulations](https://bioliskincare.com/blogs/bionotes/active-ingredient-based-delivery-systems-elevating-skincare-formulations): <p><meta charset="utf-8">In the dynamic realm of skincare, a revolutionary concept is taking center stage: Active Ingredient-Based Delivery Systems. These systems are the architects of modern skincare formulations, ushering in a new era of protection, preservation, and optimization of active substances. Learn more in this article, when Bioli’s Research Scientist explores how these <meta charset="utf-8">Active Ingredient-Based Delivery Systems elevate skincare formulations.</p>
 <p><!-- notionvc: 533a9a16-ce48-4002-b308-9d0dcecbfba7 --></p>
-    Updated: 2026-03-07T13:10:15Z
+    Updated: 2026-09-23T11:06:03Z
     Author: Nina Wiberg Rosenquist
     Tags: Ingredient spotlight, Scientist perspective, Sensitive skin
   - [Retinoids: Exploring clinical evidence for anti-aging treatments](https://bioliskincare.com/blogs/bionotes/retinoids-exploring-clinical-evidence-for-anti-aging-treatments): <p><meta charset="utf-8"><meta charset="utf-8"><em>When it comes to skincare, the quest for effective solutions including anti-aging solutions is a journey fueled by scientific advancements. Retinoids, a class of compounds derived from vitamin A, have emerged, holding promises for radiant and youthful skin. But what are retinoids exactly, and do they live up to their claimed efficacy? In this article, Bioli’s Research Scientist delves into the topic and explores the different options, along with their clinical evidence, applications, potency, and side effect profiles.</em><br></p>
 <!-- notionvc: f14bb089-7b38-44c8-8664-279682b60809 --><!-- notionvc: 2115b141-6b91-4c39-99a8-44853eaf208a -->
-    Updated: 2026-02-14T10:11:14Z
+    Updated: 2026-09-23T10:56:32Z
     Author: Nina Wiberg Rosenquist
     Tags: Ingredient spotlight, Scientist perspective, Sensitive skin, Skincare routines
   - [Spotlight on SDGs in skincare](https://bioliskincare.com/blogs/bionotes/spotlight-on-sdgs-in-skincare): <p><meta charset="utf-8"><em><span class="notion-enable-hover" data--index="0">While there's a growing emphasis on UN Sustainable Development Goals (SDGs) across industries, the skincare sector holds the potential for greater contributions to the broader global agenda for sustainable development. Sustainability must be addressed throughout the product life cycle, from production to use, and after use. This article delves into the intersection of skincare and SDGs, putting the spotlight on the impact of skincare practices on global goals, and presenting actionable steps for both businesses and consumers.</span></em></p>
@@ -181,9 +195,9 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-08-20T15:18:09Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Ingredient spotlight, Sensitive skin, Skincare routines, Skincare trends, Sustainable care
-  - [Biological rhythm deep dive: Why you need both a day and night cream](https://bioliskincare.com/blogs/bionotes/biological-rhythm-deep-dive-why-you-need-both-a-day-and-night-cream): <p><em>Did you know that your skin follows its own biological rhythm, influencing how it functions throughout the day and night? During the day, it focuses on defending against environmental stressors, while at night, it shifts to repair and renewal. That’s why using a dedicated day cream and night cream—rather than one product for both—is essential. It's also important that the ingredients in these products are tailored to your skin’s needs at the right time. In this article, our scientist explains much more and provides tips on which product types and ingredients to use to support your skin's natural rhythm, keeping it healthy and radiant.</em></p>
+  - [Biological rhythm deep dive: Why you need both a day and night cream](https://bioliskincare.com/blogs/bionotes/biological-rhythm-deep-dive-why-you-need-both-a-day-and-night-cream): <p><em>Did you know that your skin follows its own biological rhythm, influencing how it functions throughout the day and night? During the day, it focuses on defending against environmental stressors, while at night, it shifts to repair and renewal. That’s why using a dedicated day cream and night cream – rather than one product for both – is essential. It's also important that the ingredients in these products are tailored to your skin’s needs at the right time. In this article, our scientist explains much more and provides tips on which product types and ingredients to use to support your skin's natural rhythm, keeping it healthy and radiant.</em></p>
 <p> </p>
-    Updated: 2026-02-12T18:45:07Z
+    Updated: 2026-09-23T11:04:51Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Skincare routines
   - [Gentler antioxidants: Why choose enzymes over vitamin C and plant extracts](https://bioliskincare.com/blogs/bionotes/gentler-antioxidants-why-choose-enzymes-over-vitamin-c-and-plant-extracts): <p>While antioxidants are often associated with nutrition and wellness, their role in skincare is just as vital. Antioxidants not only protect the skin but also help combat the effects of environmental aggressors like pollution, UV rays, and stress. H<span data--index="1" class="notion-enable-hover">owever, while this all sounds good, the conventional antioxidants such as Ascorbic acid (vitamin C), Tocopherol (vitamin E), and plant extracts with antioxidant claims like green tea that can irritate the skin and require high volumes to </span>work, which takes a toll on both the skin and the environment, and with skin issues of the rise, it’s time we look beyond conventional choices. In this article, we explore pros and cons of popular antioxidants and lesser-known yet highly promising alternatives: biotech and enzyme-based antioxidants.<!-- notionvc: 53e8a47a-298d-4238-8c0b-85d1c69ebbe2 --></p>
@@ -196,8 +210,8 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-08-20T15:31:45Z
     Author: Nina Wiberg Møller
     Tags: Industry spotlight, Sustainable care
-  - [What are enzymes in skincare? 8 quick benefits](https://bioliskincare.com/blogs/bionotes/what-are-enzymes-in-skincare-8-quick-benefits): <p><meta charset="utf-8"><meta charset="utf-8"><em><span class="notion-enable-hover" data--index="0">Skincare has evolved beyond traditional ingredients, and enzymes are emerging as a game-changer. These nature derived powerhouses offer a gentle yet effective approach to skincare, enhancing exfoliation and antioxidant protection—all while being environmentally friendly. What makes lab-made enzymes stand out? Let’s dive into 8 quick benefits and why they might be the future of skincare.</span><!-- notionvc: bdbd8f48-1da0-4da8-a34b-069aec8e062e --></em><br></p>
-    Updated: 2026-02-02T07:24:39Z
+  - [What are enzymes in skincare? 8 quick benefits](https://bioliskincare.com/blogs/bionotes/what-are-enzymes-in-skincare-8-quick-benefits): <p><meta charset="utf-8"><meta charset="utf-8"><em><span class="notion-enable-hover">Skincare has evolved beyond traditional ingredients, and enzymes are emerging as a game-changer. These nature derived powerhouses offer a gentle yet effective approach to skincare, enhancing exfoliation and antioxidant protection – all while being environmentally friendly. What makes lab-made enzymes stand out? Let’s dive into 8 quick benefits and why they might be the future of skincare.</span><!-- notionvc: bdbd8f48-1da0-4da8-a34b-069aec8e062e --></em><br></p>
+    Updated: 2026-09-23T10:57:36Z
     Author: Nina Wiberg Møller
     Tags: Industry spotlight, Ingredient spotlight, Scientist perspective
   - [Sustainable skincare: What is it really?](https://bioliskincare.com/blogs/bionotes/sustainable-skincare-what-is-it-really): <p data-start="90" data-end="602" class=""><meta charset="utf-8"><meta charset="utf-8"><em>Sustainable skincare is, fortunately, a growing focus. But without a regulated and universal definition, it can be hard to know what it really means. At its core, it involves thoughtful choices across a product’s entire lifecycle—before, during, and after use—to reduce environmental harm. This article explores what sustainable skincare is, what it is not, and offers tips on how to get a more sustainable skincare routine.</em><br><em><meta charset="utf-8"></em></p>
@@ -219,7 +233,7 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Article, Industry spotlight
   - [Autumn dryness and season shift: What your skin needs now](https://bioliskincare.com/blogs/bionotes/autumn-dryness-and-season-shift-what-your-skin-needs-now): <p><meta charset="utf-8">As summer winds down and the crisp air of early autumn sets in, your skin starts to feel the change. Cooler temperatures, lower humidity, and indoor heating can all lead to dryness, tightness, and irritation – especially for sensitive or reactive skin. In this article, we explore what your skin needs this season, including the key ingredient hyaluronic acid, and break down the different types so you know what to look for.</p>
-    Updated: 2026-08-20T14:08:50Z
+    Updated: 2026-09-17T09:26:51Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight, Skincare routines
   - [Bionotes Interview #1 – Yume, Founder of THE CARE](https://bioliskincare.com/blogs/bionotes/bionotes-interview-no1): <p><span data--index="0" class="notion-enable-hover"> </span><span data--index="0" class="notion-enable-hover">Through <meta charset="utf-8"> <em data-start="221" data-end="242">Bionotes Interviews</em>, we share stories from people we admire—those who care, live, and work with intention. <meta charset="utf-8"> <span style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; color: rgb(74, 71, 69);">Each interview gives a peek into their daily routines, what inspires them, and their approach to life and skincare.</span></span></p>
@@ -227,17 +241,14 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-01-30T08:47:50Z
     Author: Nina Wiberg Rosenquist
     Tags: Interview
-  - [Fermented Niacinamide: A better form of Vitamin B3](https://bioliskincare.com/blogs/bionotes/fermented-niacinamide-a-better-form-of-vitamin-b3): <p><meta charset="utf-8"><span lang="EN-US" style="mso-ansi-language: EN-US;">Niacinamide has become a favourite in many skincare routines, valued for its ability to strengthen the skin barrier, improve hydration, balance sebum production, and reduce inflammation. It’s even used to support conditions like atopic dermatitis. However, recent insights show that some synthetically produced niacinamide can contain impurities that irritate the skin. Learn as our scientist, Andreia, explores a new form of niacinamide—fermented niacinamide, a gentler, effective, and more sustainable form of vitamin B3.<br></span></p>
-<p><span lang="EN-US" style="mso-ansi-language: EN-US;"><meta charset="utf-8">
-<strong>Author: Andreia Lopes – Research Scientist</strong></span></p>
-    Updated: 2026-08-14T15:03:13Z
+  - [Fermented Niacinamide: A better form of Vitamin B3](https://bioliskincare.com/blogs/bionotes/fermented-niacinamide-a-better-form-of-vitamin-b3): <p><meta charset="utf-8"><span lang="EN-US" style="mso-ansi-language: EN-US;">Niacinamide has become a favourite in many skincare routines, valued for its ability to strengthen the skin barrier, improve hydration, balance sebum production, and reduce inflammation. It’s even used to support conditions like atopic dermatitis. However, recent insights show that some synthetically produced niacinamide can contain impurities that irritate the skin. Learn as our scientist, Andreia, explores a new form of niacinamide –fermented niacinamide, a gentler, effective, and more sustainable form of vitamin B3.</span></p>
+    Updated: 2026-10-01T07:55:44Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight
   - [Gut-skin axis: How gut health affects your skin](https://bioliskincare.com/blogs/bionotes/gut-skin-axis-how-gut-health-affects-your-skin): <p>The <a href="https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524">gut–skin axis</a> describes the connection between gut health and skin health. As inflammatory skin conditions such as acne, eczema, and psoriasis continue to rise, research increasingly shows that skin health is influenced not only by topical care, but also by what happens inside the body.</p>
 <p><meta charset="utf-8">In this article, our scientist, Andreia, takes a deep dive into the biological mechanisms behind the gut–skin axis. Learn about the role of the microbiome and how gut health and skincare work together to support long-term skin health.</p>
-<p><meta charset="utf-8"><strong>Author: Andreia Lopes – Research Scientist</strong></p>
 <p><br></p>
-    Updated: 2026-08-20T14:54:45Z
+    Updated: 2026-10-01T07:56:20Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
   - [Guide: What to eat for better skin, combating acne and eczema](https://bioliskincare.com/blogs/bionotes/guide-what-to-eat-for-better-skin-combating-acne-and-eczema): <p><em>High-quality, gentle skincare is essential for troubled skin—but your diet matters too. Many skin issues, like acne and eczema, are influenced by what you eat.</em></p>
@@ -255,14 +266,13 @@ https://bioliskincare.com/blogs/bionotes
     Tags: Article, Industry spotlight
   - [Cleansing and exfoliation: From harsh acids (AHA, BHA) and scrubs to gentle enzymes](https://bioliskincare.com/blogs/bionotes/cleansing-and-exfoliation-from-acids-aha-bha-and-scrubs-to-gentle-enzymes): <p>Cleansing and exfoliation are essential for healthy skin—they remove impurities, support cell turnover, and help maintain a clear, balanced complexion. But not all methods are created equal, and some can be unnecessarily harsh, especially for sensitive or reactive skin.</p>
 <p>In this article, our scientist Andreia breaks down the most common approaches from acids (AHA, BHA) and physical scrubs with their pros and cons, and and introduces enzyme-based exfoliation as a gentler, effective alternative.</p>
-<p><strong>Author: Andreia Lopes – Research Scientist</strong></p>
-    Updated: 2026-08-20T15:54:17Z
+    Updated: 2026-10-01T07:54:46Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight, Scientist perspective, Sensitive skin
   - [A guide to sustainable, thoughtful gifts](https://bioliskincare.com/blogs/bionotes/a-guide-to-sustainable-thoughtful-gifts): <p>No matter how well you know someone, selecting the right gift can be difficult. These days, you may also want it to feel thoughtful and long-lasting. <a href="https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life">The rise of “enoughfluencers”</a> reflects a growing interest in conscious consumption as a way to improve our day-to-day lives – and the world.</p>
 <p>So how do you pick a gift that feels relevant and personal, maybe even a bit luxe, without adding to the pile? While gift-giving is often associated with indulgence, thoughtfully chosen, sustainable gifts offer an impactful way to show you care for both the recipient and the planet.</p>
-<p>But how do you find those? We’ve put together a guide to sustainable, quality gifts that don’t cost the Earth, including a few tips for getting started.<br><br><meta charset="utf-8"><strong>Author: Elizabeth Grant – <span>Comms Lead </span></strong><br></p>
-    Updated: 2026-08-14T13:58:09Z
+<p>But how do you find those? We’ve put together a guide to sustainable, quality gifts that don’t cost the Earth, including a few tips for getting started.<br></p>
+    Updated: 2026-10-01T07:55:10Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Sustainable care
   - [Interview in Elle – Changing the direction of skincare with biotech](https://bioliskincare.com/blogs/bionotes/interview-in-elle-changing-the-direction-of-skincare-with-biotech): <h5>
@@ -272,11 +282,16 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-04-30T09:21:24Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Interview
-  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.<br><br><strong>Author: Elizabeth Grant – <span>Comms Lead </span></strong></p>
+  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.<br></p>
 <p><!-- notionvc: ae67825d-4701-42ce-8494-8d68c687aab6 --></p>
-    Updated: 2026-08-21T06:10:39Z
+    Updated: 2026-10-01T07:54:26Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
+  - [The evolution of peptides: From collagen to broader skin health, including microbiome support](https://bioliskincare.com/blogs/bionotes/the-evolution-of-peptides-from-collagen-to-broader-skin-health-including-microbiome-support): <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2212429226005158" target="_blank" title="Peptides in skincare" rel="noopener">Peptides</a> are widely used in skincare because they support collagen production and help reduce the visible signs of ageing. But advances in peptide research and biotechnology are expanding their potential role in skin health, including the skin barrier and microbiome.</p>
+<p>Our Research Scientist Andreia explains what peptides are, how they work, and why the focus is expanding beyond collagen towards broader skin health thanks to next-generation bioactive peptides.</p>
+    Updated: 2026-10-15T07:05:45Z
+    Author: Nina Wiberg Rosenquist
+    Tags: Article, Ingredient spotlight
 - [Media](https://bioliskincare.com/blogs/media): Explore the latest media mentions, press releases, and announcements on research, development, and new product releases.
   - [DTU & Bioli to collaborate on low-impact skincare innovations](https://bioliskincare.com/blogs/media/dtu-bioli-to-collaborate-on-low-impact-skincare-innovations): <p><meta charset="utf-8"><meta charset="utf-8"><strong>Copenhagen, November 2023 - </strong><em>Bioli is excited to announce its collaboration with DTU to develop novel, low-environmental-impact skincare formulations. The innovation project: ‘Advancing skincare through biosolutions’, made possible by Innovation Fund Denmark, will focus on efficacy and sustainability in skincare, prioritizing both skin health and environmental well-being.</em><br></p>
     Updated: 2025-04-21T14:16:44Z
@@ -322,6 +337,9 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-06-23T06:33:26Z
     Author: Nina Wiberg Rosenquist
     Tags: Press release
+  - [Bioli nominated for an ELLE Award 2026](https://bioliskincare.com/blogs/media/bioli-nominated-for-elle-award-2026): <p>Copenhagen, Denmark, September 2026 – Danish biotech skincare brand Bioli has been nominated for an ELLE Award 2026 in the category "Årets skønhedspris" (Beauty Award of the Year) as one of four nominees.<br><br>In its nomination, ELLE asks: <meta charset="utf-8"><em>“Can biotechnology help shape the future of skincare? Danish brand Bioli offers a compelling answer.”</em> <meta charset="utf-8"><span>ELLE highlights Bioli as an ambitious Danish approach to skincare – one that explores how innovation, effective skincare and a lower environmental impact can go hand in hand.</span></p>
+    Updated: 2026-09-21T11:49:03Z
+    Author: Nina Wiberg Rosenquist
 
 ## Store Pages
 
@@ -330,11 +348,11 @@ https://bioliskincare.com/blogs/bionotes
 - [Terms and Conditions](https://bioliskincare.com/pages/terms-and-conditions): The terms and conditions on bioliskincare.com are administered by: Bioli ApSSankt Pauls Gade 661313 København KDenmark Phone: +45 31530010CVR: 4280...
   Updated: 2025-02-11T10:59:27Z
 - [Retailers](https://bioliskincare.com/pages/retailers): Want to become a retailer? We are on the lookout for partners to join the biomovement, offering better products that prioritize both skin health an...
-  Updated: 2025-04-27T09:11:38Z
+  Updated: 2026-10-19T14:19:18Z
 - [Cookie and Privacy Policy](https://bioliskincare.com/pages/cookie-and-privacy-policy): Cookies This website uses ’cookies’, a text file that is saved to your computer, phone or similar, with the purpose of optimising the website and i...
   Updated: 2025-02-06T07:42:20Z
 - [FAQ – Ingredients, Safety and Certifications](https://bioliskincare.com/pages/q-a): Explore our Q&A for clear and honest information about Bioli skincare, allergy-friendly products, biotech-based ingredients, sustainable packaging,...
-  Updated: 2026-04-10T07:30:39Z
+  Updated: 2026-10-19T14:20:28Z
 - [About](https://bioliskincare.com/pages/about): Founded in 2021, we are on an impact-driven mission to improve skin health while minimizing environmental impact through mild yet effective and mor...
   Updated: 2025-04-21T08:21:10Z
 - [Biotechnology](https://bioliskincare.com/pages/biotechnology): Built on biotechnology, our skincare is thoughtfully designed from beginning to end and for every stage: before, during, and after use–caring for b...
@@ -342,56 +360,62 @@ https://bioliskincare.com/blogs/bionotes
 - [Newsletter](https://bioliskincare.com/pages/newsletter): Subscribe to our newsletter and join the biomovement to get 15% off your first order and stay updated with the latest insights on skin and planet h...
   Updated: 2025-10-21T18:49:32Z
 - [Contact](https://bioliskincare.com/pages/contact): Get in touch.
-  Updated: 2025-04-21T08:42:19Z
+  Updated: 2026-10-19T14:19:40Z
 - [Sustainability Policy](https://bioliskincare.com/pages/sustainability-policy): Sustainability is embedded in everything we do – from the lab to your skin, and back to the earth. As global skincare consumption continues to grow...
   Updated: 2026-09-11T10:13:17Z
 - [The Bioli Guide to biotech skincare](https://bioliskincare.com/pages/biotech-skincare-guide): The next generation of skincare is biotech. Developed with scientists to be gentle yet high performing, biotech skincare uses bioactive ingredients...
-  Updated: 2026-03-02T14:39:51Z
+  Updated: 2026-10-19T14:18:29Z
 - [The Bioli Guide to sensitive skin and skin conditions](https://bioliskincare.com/pages/sensitive-skin-and-skin-conditions-guide): Over 50% of the global population suffers from skin sensitivity. Establishing the root cause in consultation with a  professional is an impo...
-  Updated: 2026-03-02T16:23:59Z
+  Updated: 2026-10-19T14:18:12Z
 - [The Bioli Guide to the effects of biology and environment on skin health](https://bioliskincare.com/pages/skin-health-guide): Your skin doesn’t exist in a vacuum. Its health is impacted by a range of physiological and environmental factors, and even by your psychological w...
-  Updated: 2026-03-02T14:38:01Z
+  Updated: 2026-10-19T14:18:49Z
 - [The Bioli Guide to sustainable skincare](https://bioliskincare.com/pages/sustainable-skincare-guide): There’s no way around it: the only sustainable skincare is no skincare at all. What's equally true? Millions of people worldwide, including us, rel...
-  Updated: 2026-03-02T16:48:01Z
+  Updated: 2026-10-19T14:17:46Z
 - [The Bioli Guide to optimize skincare routines for seasons and cycles](https://bioliskincare.com/pages/skincare-routine-guide): Sometimes it’s the things we do every day that we think about the least. But that doesn’t mean they don’t matter. A skincare routine can reflect po...
-  Updated: 2026-03-02T16:48:50Z
+  Updated: 2026-10-19T14:17:19Z
 - [The Bioli Guide to skincare ingredients](https://bioliskincare.com/pages/skincare-ingredients-guide): Some people say they ‘aren’t into labels,’ but not us. If you live with a skin condition, sensitivity, or if you suffer from allergies, the fine pr...
-  Updated: 2026-03-02T16:55:53Z
+  Updated: 2026-10-19T14:17:04Z
 - [Bioli Guides](https://bioliskincare.com/pages/bioli-guides): Ever changing, our skin reflects multiple influences acting on us from the inside, and out. This means that effective skincare goes beyond the prod...
-  Updated: 2026-04-09T06:26:06Z
+  Updated: 2026-10-22T18:14:10Z
 - [Fermented Niacinamide](https://bioliskincare.com/pages/ingredients-fermented-niacinamide): Fermented niacinamide helps even skin tone, reduce visible imperfections including hyperpigmentation and balance sebum production. Produced using b...
-  Updated: 2026-09-05T14:54:45Z
+  Updated: 2026-10-19T14:13:21Z
 - [Superoxide Dismutase](https://bioliskincare.com/pages/ingredients-superoxide-dismutase): Superoxide Dismutase (SOD) is an antioxidant enzyme naturally found in living organisms, including human skin. It forms part of the skin’s natural ...
-  Updated: 2026-09-05T16:48:35Z
+  Updated: 2026-10-21T09:36:08Z
 - [Bioactive Peptides](https://bioliskincare.com/pages/ingredients-bioactive-peptides): Bioactive peptides are short chains of amino acids designed to interact with biological processes in the skin. Their targeted functions allow them ...
-  Updated: 2026-09-05T14:29:35Z
+  Updated: 2026-10-19T14:11:57Z
 - [Multi-Weight, Full-Spectrum Hyaluronic Acid](https://bioliskincare.com/pages/ingredients-multi-weight-full-spectrum-hyaluronic-acid): Multi-weight hyaluronic acid helps attract and retain moisture in the skin, providing both immediate and long-lasting hydration. By combining multi...
-  Updated: 2026-09-06T08:03:01Z
+  Updated: 2026-10-19T14:12:58Z
 - [Acetylated Hyaluronic Acid](https://bioliskincare.com/pages/ingredients-acetylated-hyaluronic-acid): Acetylated hyaluronic acid is an advanced form of hyaluronic acid designed to provide long-lasting hydration while strengthening the skin barrier. ...
-  Updated: 2026-09-05T14:25:33Z
+  Updated: 2026-10-19T14:13:44Z
 - [Biotech-Derived Cellulose](https://bioliskincare.com/pages/ingredients-biotech-derived-cellulose): Biotech-derived cellulose is a helper ingredient that improves the absorption of formulas, reduces oiliness on the skin, and is also used as a sens...
-  Updated: 2026-09-06T08:55:15Z
+  Updated: 2026-10-19T14:12:33Z
 - [Bioactive Emollient](https://bioliskincare.com/pages/ingredients-bioactive-emollient): A bioactive emollient is an ingredient that helps soften and smooth the skin while improving the texture and application experience of skincare pro...
-  Updated: 2026-09-05T14:24:01Z
+  Updated: 2026-10-19T14:14:20Z
 - [Protease and Lipase](https://bioliskincare.com/pages/ingredients-protease-and-lipase): Protease and lipase are enzymes that naturally break down specific components found on the skin’s surface. Protease enzymes help break down protein...
-  Updated: 2026-09-06T13:56:43Z
+  Updated: 2026-10-19T14:12:20Z
 - [Hero Ingredients](https://bioliskincare.com/pages/hero-ingredients): Harnessing the power of biotechnology, Bioli’s formulations include hero ingredients like bioactive enzymes and other biotech ingredients. Develope...
-  Updated: 2026-09-05T14:19:34Z
-- [Skincare for men](https://bioliskincare.com/pages/skincare-for-men): What does men’s skin need? Men’s skin can produce more sebum and is, on average, somewhat thicker than women’s skin. Shaving can also place additio...
-  Updated: 2026-09-13T09:38:37Z
+  Updated: 2026-10-19T14:21:14Z
+- [What is the best skincare routine for men?](https://bioliskincare.com/pages/skincare-for-men): What does men’s skin need? Men’s skin can produce more sebum and is, on average, somewhat thicker than women’s skin. Shaving can also place additio...
+  Updated: 2026-10-15T12:50:28Z
+- [What is the best face cream for redness-prone skin?](https://bioliskincare.com/pages/face-cream-for-redness-and-rosacea-prone-skin): What causes facial redness? Facial redness is not always caused by the same thing. Some people experience temporary redness after exercise, changes...
+  Updated: 2026-10-15T12:51:17Z
+- [Bioactive Enzyme Technology](https://bioliskincare.com/pages/bioactive-enzyme-technology)
+  Updated: 2026-10-19T14:11:35Z
+- [Insights](https://bioliskincare.com/pages/insights): We believe transparency and knowledge are essential to making informed choices. By sharing insights, we aim to make complex topics easier to unders...
+  Updated: 2026-10-22T18:24:17Z
 
 ## Policies
 
 - [Privacy Policy](https://bioliskincare.com/policies/privacy-policy)
-  Updated: 2025-01-21T19:14:09+01:00
+  Updated: 2025-01-21T18:14:09Z
 - [Shipping Policy](https://bioliskincare.com/policies/shipping-policy)
-  Updated: 2025-11-13T08:15:11+01:00
+  Updated: 2025-11-13T07:15:11Z
 - [Refund Policy](https://bioliskincare.com/policies/refund-policy)
-  Updated: 2025-02-09T16:25:35+01:00
+  Updated: 2025-02-09T15:25:35Z
 - [Terms of Service](https://bioliskincare.com/policies/terms-of-service)
-  Updated: 2025-11-13T08:17:34+01:00
+  Updated: 2025-11-13T07:17:34Z
 - [Contact Information](https://bioliskincare.com/policies/contact-information)
-  Updated: 2025-11-13T08:15:48+01:00
+  Updated: 2025-11-13T07:15:48Z
 
 ## Core Knowledge
 
