@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2020-08-27T05:02:46Z
 - Contact Email: support@buccisimo.com
-- Updated At: 2026-06-26T00:00:44.499Z
+- Updated At: 2026-10-23T01:13:30.726Z
 
 ## Products
 
 - [5MM TENNIS BRACELET - WHITE GOLD](https://buccisimo.com/products/5mm-tennis-bracelet-white-gold): Wrap your wrist in the luxe look of this impressive lab-created diamond tennis bracelet. Crafted in 18k white gold plating, this anytime dazzler will catch light from all angles. You will be catching looks all-day long. This bracelet features a row of shimmering 5mm prong-set lab-created diamonds. Buffed to a bright luster, this style secures with a box clasp.Gold Plating: 18K Stones: Lab-Created
-  Updated: 2026-06-21T23:09:16Z
+  Updated: 2026-09-24T15:37:57Z
   Vendor: Buccisimo
   Product Type: Bracelet
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0469/6883/2154/products/4.png?v=1615769047
     Price: $268.00 USD
 - [5MM TENNIS BRACELET - GOLD](https://buccisimo.com/products/5mm-tennis-bracelet-gold): Wrap your wrist in the luxe look of this impressive lab-created diamond tennis bracelet. Crafted in 18k gold, this anytime dazzler will catch light from all angles. You will be catching looks all-day long. This bracelet features a row of shimmering 5mm prong-set lab-created diamonds. Buffed to a bright luster, this style secures with a box clasp.Gold: 18K Diamonds: Lab-Created
-  Updated: 2026-06-22T10:34:30Z
+  Updated: 2026-09-24T15:37:57Z
   Vendor: Buccisimo
   Product Type: Bracelet
   Availability: Available
@@ -51,14 +51,14 @@
     Availability: Available
     Price: $268.00 USD
 - [GOLD CROSS PENDANT WITH CHAIN](https://buccisimo.com/products/gold-cross-pendant): Wrap your neck in the luxe look of this impressive lab-created diamond Cross Pendant. Crafted in 18k gold, this anytime dazzler will catch light from all angles. You will be catching looks all-day long. This necklace features a row of shimmering 5mm prong-set lab-created diamonds. Buffed to a bright luster, this style secures with a clasp.Gold: 18K Diamonds: Lab-Created
-  Updated: 2026-06-21T22:58:28Z
+  Updated: 2026-07-08T22:28:50Z
   Vendor: Buccisimo
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0469/6883/2154/products/GOLDCROSS.png?v=1615769348
   Price: $335.00 USD
 - [5MM TENNIS CHAIN - WHITE GOLD](https://buccisimo.com/products/5mm-tennis-chain-gold): Wrap your neck in the luxe look of this impressive lab-created diamond tennis chain. Crafted in 18k white gold, this anytime dazzler will catch light from all angles. You will be catching looks all-day long. This necklace features a row of shimmering 5mm prong-set lab-created diamonds. Buffed to a bright luster, this style secures with a box clasp.Gold: 18K White GoldDiamonds: Lab-Created
-  Updated: 2026-06-21T23:08:16Z
+  Updated: 2026-07-08T22:28:50Z
   Vendor: Buccisimo
   Product Type: Chain
   Availability: Available
@@ -76,7 +76,7 @@
     Availability: Available
     Price: $584.00 USD
 - [2.5MM FRANCO GOLD CHAIN](https://buccisimo.com/products/2-5mm-franco-gold-chain): Wrap your neck in the luxe look of this impressive Franco Gold chain. Crafted in 18k gold and 316L Stainless Steel, this dazzler will catch light from all angles. Buffed to a bright luster, this style secures with a lobster claw clasp.Gold: 18K GPClasp: Lobster Claw
-  Updated: 2026-06-21T22:58:27Z
+  Updated: 2026-07-08T22:28:50Z
   Vendor: Buccisimo
   Product Type: Chain
   Availability: Available
@@ -94,7 +94,7 @@
     Availability: Available
     Price: $289.00 USD
 - [5MM ROPE BRACELET - GOLD](https://buccisimo.com/products/5mm-rope-bracelet-gold): Wrap your wrist in the luxe look of this impressive classic rope bracelet. Crafted in 18k Gold plating and 316L Stainless Steel, this dazzler will catch light from all angles. Buffed to a bright luster, this style secures with a lobster claw clasp.Gold: 18K GPClasp: Lobster Claw
-  Updated: 2026-06-21T22:58:27Z
+  Updated: 2026-07-08T22:28:51Z
   Vendor: Buccisimo
   Product Type: Bracelet
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $229.00 USD
 - [14MM DIAMOND PRONG LINK CHAIN - WHITE GOLD](https://buccisimo.com/products/14mm-diamond-prong-link-chain): Wrap your neck in the luxe look of this impressive Diamond Prong Link chain. Crafted in 18k white gold and 316L Stainless Steel, this dazzler will catch light from all angles. Buffed to a bright luster, this style will set you apart.Gold: 18K GP
-  Updated: 2026-06-21T23:09:42Z
+  Updated: 2026-07-08T22:28:51Z
   Vendor: Buccisimo
   Product Type: Chain
   Availability: Available
@@ -127,7 +127,7 @@
     Availability: Available
     Price: $515.00 USD
 - [14MM DIAMOND PRONG LINK BRACELET - WHITE GOLD](https://buccisimo.com/products/14mm-diamond-prong-link-bracelet-white-gold): Wrap your wrist in the luxe look of this impressive Diamond Prong Link Bracelet. Crafted in 18k White Gold and 316L Stainless Steel, this dazzler will catch light from all angles. Buffed to a bright luster, this style will be sure to set you apart and feel like an absolute winner.Gold: 18K GP
-  Updated: 2026-06-22T11:05:18Z
+  Updated: 2026-07-08T22:28:51Z
   Vendor: Buccisimo
   Product Type: Bracelet
   Availability: Available
@@ -142,7 +142,7 @@
     Availability: Available
     Price: $298.00 USD
 - [3mm Rope Chain](https://buccisimo.com/products/3mm-rope-chain): The Buccisimo Rope Chain brings a clean, refined twist that stands out without trying too hard. Its tight braided pattern gives it a natural shine, whether you rock it solo or pair it with other pieces from your collection. Metal: 316L Stainless SteelFinish: Rhodium Protective Coating
-  Updated: 2026-06-21T23:01:32Z
+  Updated: 2026-07-08T22:28:51Z
   Vendor: Buccisimo
   Product Type: Chain
   Availability: Available
@@ -163,28 +163,28 @@
 ## Collections
 
 - [BEST SELLERS](https://buccisimo.com/collections/best-sellers)
-  Updated: 2026-06-22T11:10:52Z
+  Updated: 2026-09-25T11:13:48Z
   Total Products: 10
 - [Rings](https://buccisimo.com/collections/rings)
-  Updated: 2026-04-01T19:00:48Z
+  Updated: 2026-07-08T20:38:52Z
   Total Products: 0
 - [Chains](https://buccisimo.com/collections/chains)
-  Updated: 2026-06-21T23:01:33Z
+  Updated: 2026-07-08T20:38:52Z
   Total Products: 4
 - [Pendants](https://buccisimo.com/collections/pendents)
-  Updated: 2026-04-01T19:00:48Z
+  Updated: 2026-07-08T20:38:52Z
   Total Products: 0
 - [Bracelet](https://buccisimo.com/collections/bracelet)
-  Updated: 2026-06-22T11:10:52Z
+  Updated: 2026-09-25T11:13:48Z
   Total Products: 3
 - [MENS](https://buccisimo.com/collections/mens)
-  Updated: 2026-06-22T11:10:52Z
+  Updated: 2026-09-25T11:13:48Z
   Total Products: 10
 - [WOMENS](https://buccisimo.com/collections/womens)
-  Updated: 2026-06-22T11:10:52Z
+  Updated: 2026-09-25T11:13:48Z
   Total Products: 5
 - [](https://buccisimo.com/collections/)
-  Updated: 2026-06-22T11:10:52Z
+  Updated: 2026-09-25T11:13:48Z
   Total Products: 6
 
 ## Blogs
@@ -230,13 +230,13 @@
 ## Policies
 
 - [Privacy Policy](https://buccisimo.com/policies/privacy-policy)
-  Updated: 2021-02-15T00:16:11-07:00
+  Updated: 2021-02-15T07:16:11Z
 - [Shipping Policy](https://buccisimo.com/policies/shipping-policy)
-  Updated: 2021-02-15T00:14:45-07:00
+  Updated: 2021-02-15T07:14:45Z
 - [Refund Policy](https://buccisimo.com/policies/refund-policy)
-  Updated: 2021-06-22T20:25:18-07:00
+  Updated: 2021-06-23T03:25:18Z
 - [Terms of Service](https://buccisimo.com/policies/terms-of-service)
-  Updated: 2021-02-15T00:17:02-07:00
+  Updated: 2021-02-15T07:17:02Z
 
 ## Optional
 
