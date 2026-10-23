@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-03T23:30:58Z
 - Contact Email: stylevinesfashion@gmail.com
-- Updated At: 2026-10-08T00:00:39.275Z
+- Updated At: 2026-10-23T00:35:45.704Z
 
 ## Products
 
@@ -120,24 +120,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2002404.jpg?v=1791231343
     Price: $35.00 USD
-- [Leopard Button Down Cardigan: Fierce Everyday Style](https://stylevines.com/products/bun2-6-ql8102-pink-id-59733): Make a statement with this Leopard Button Down Cardigan, perfect for layering. Embrace bold fashion. Elevate your wardrobe today!
-  Updated: 2026-10-05T20:18:02Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59733.jpg?v=1791231367
-  - [S](https://stylevines.com/products/bun2-6-ql8102-pink-id-59733?variant=48963510173888)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59733.jpg?v=1791231367
-    Price: $19.00 USD
-  - [M](https://stylevines.com/products/bun2-6-ql8102-pink-id-59733?variant=48963510206656)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59733.jpg?v=1791231367
-    Price: $19.00 USD
-  - [L](https://stylevines.com/products/bun2-6-ql8102-pink-id-59733?variant=48963510239424)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59733.jpg?v=1791231367
-    Price: $19.00 USD
 - [Overlap V Neck Sweater for Effortless Style](https://stylevines.com/products/bun2-6-qj9178-white-id-59736): Stay chic with the Overlap V Neck Sweater, designed for comfort and versatility. Perfect for any occasion. Shop your new favorite today!
   Updated: 2026-10-05T20:18:02Z
   Vendor: Style Vines
@@ -202,24 +184,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249463C.jpg?v=1791231435
     Price: $41.00 USD
-- [Basic Soft Long Line Open Front Sweater Cardigan](https://stylevines.com/products/bbj2-6-sw4811s-id-59307b): Experience all-day comfort with this versatile cardigan. Perfect for layering in any season, it's your go-to for effortless style.
-  Updated: 2026-10-05T20:18:06Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59307B.jpg?v=1791231442
-  - [S](https://stylevines.com/products/bbj2-6-sw4811s-id-59307b?variant=48963580657856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59307B.jpg?v=1791231442
-    Price: $21.40 USD
-  - [M](https://stylevines.com/products/bbj2-6-sw4811s-id-59307b?variant=48963580690624)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59307B.jpg?v=1791231442
-    Price: $21.40 USD
-  - [L](https://stylevines.com/products/bbj2-6-sw4811s-id-59307b?variant=48963580723392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59307B.jpg?v=1791231442
-    Price: $21.40 USD
 - [Open Front Pocket Kimono for Stylish Comfort](https://stylevines.com/products/wh2hda-zck320013-c-id-wh2001401): Elevate your wardrobe with our chic Open Front Pocket Kimono. Perfectly designed for day-to-night transitions, embrace effortless elegance.
   Updated: 2026-10-05T20:18:29Z
   Vendor: Style Vines
@@ -341,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60483.jpg?v=1791231583
     Price: $18.50 USD
 - [By Design Open Cardigan Sweater for Everyday Ease](https://stylevines.com/products/coq2-6-1848bg-id-60476): Effortlessly style up with the By Design Open Cardigan Sweater. Its breathable fabric and printed design will elevate your everyday outfits.
-  Updated: 2026-10-05T20:20:14Z
+  Updated: 2026-10-14T13:32:17Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -363,7 +327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
     Price: $18.50 USD
 - [By Design Pull Over Sweater for Cozy Charm](https://stylevines.com/products/coq2-6-1315fl-id-60482): Embrace comfort with the By Design Pull Over Sweater. Its feminine floral design and lightweight knit make it a cozy favorite for any season.
-  Updated: 2026-10-05T20:20:33Z
+  Updated: 2026-10-21T12:23:42Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -373,7 +337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
     Price: $18.50 USD
   - [M](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586293952)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
     Price: $18.50 USD
   - [L](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586326720)
@@ -403,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250535D.jpg?v=1791231663
     Price: $38.00 USD
 - [Mid Rise Flare Jeans with Released Hem Style](https://stylevines.com/products/sai2-14-p8148m-id-60135): Enjoy retro charm with these mid-rise flare jeans featuring a comfortable stretch blend. Elevate your look with effortless style today.
-  Updated: 2026-10-05T20:23:41Z
+  Updated: 2026-10-14T13:32:08Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -751,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60120_c1c178a5-f220-4b7c-81e1-57cac1d492cc.jpg?v=1791232283
     Price: $44.60 USD
 - [High Rise Star & Heart Patched Dad Jeans](https://stylevines.com/products/sai2-14-p8110-id-60119): Make a statement in our high rise dad jeans adorned with playful patches. Relaxed fit with a trendy edge—perfect for any fun outing. Check them out!
-  Updated: 2026-10-05T20:34:09Z
+  Updated: 2026-10-08T12:19:46Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -845,7 +809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234C.jpg?v=1791232481
     Price: $13.80 USD
 - [Panel Straight Cut Denim Jeans with Pockets for Trendy Wear](https://stylevines.com/products/umg2-j4068-id-54234b): Enhance your wardrobe with our stylish panel straight cut jeans. Comfortable and practical with pockets, they’re ideal for any outfit. Shop today!
-  Updated: 2026-10-05T20:34:57Z
+  Updated: 2026-10-14T13:30:39Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -855,7 +819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234B.jpg?v=1791232491
     Price: $13.80 USD
   - [3](https://stylevines.com/products/umg2-j4068-id-54234b?variant=48966501073088)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234B.jpg?v=1791232491
     Price: $13.80 USD
   - [5](https://stylevines.com/products/umg2-j4068-id-54234b?variant=48966501105856)
@@ -897,7 +861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234A.jpg?v=1791232501
     Price: $13.80 USD
 - [Hammered Satin Pocket Pants for Modern Elegance](https://stylevines.com/products/tyc2-6-p-9308-id-60158a): Experience the luxe feel of hammered satin with functional pockets. These pants elevate your everyday look, perfect for day-to-night style!
-  Updated: 2026-10-05T20:36:08Z
+  Updated: 2026-10-08T12:19:47Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -911,7 +875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60158A.jpg?v=1791232549
     Price: $41.40 USD
   - [L](https://stylevines.com/products/tyc2-6-p-9308-id-60158a?variant=48966513098944)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60158A.jpg?v=1791232549
     Price: $41.40 USD
 - [High Waist Fashion Pants for a Chic Look](https://stylevines.com/products/val2-6-p80200-id-59658): Elevate your style with our sleek high waist pants. Perfect fit for a polished look, pair them with your favorite tops today!
@@ -932,26 +896,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59658.jpg?v=1791232573
     Price: $31.60 USD
-- [Contrast Denim Waist Straight Long Pants](https://stylevines.com/products/act2-6-p14205-id-59486): Upgrade your casual wardrobe with unique contrast waist pants. Stylish and comfortable, they effortlessly enhance any outfit. Check them out!
-  Updated: 2026-10-05T20:37:15Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59486.jpg?v=1791232610
-  - [S](https://stylevines.com/products/act2-6-p14205-id-59486?variant=48966514802880)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59486.jpg?v=1791232610
-    Price: $19.60 USD
-  - [M](https://stylevines.com/products/act2-6-p14205-id-59486?variant=48966514835648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59486.jpg?v=1791232610
-    Price: $19.60 USD
-  - [L](https://stylevines.com/products/act2-6-p14205-id-59486?variant=48966514868416)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59486.jpg?v=1791232610
-    Price: $19.60 USD
-- [Front Button Fold-over Inside Zipper Pants](https://stylevines.com/products/jul2-6-bt1470-id-59548b): Refine your look with these tailored fold-over pants. Stylish and contemporary, they’re a perfect fit for modern fashion lovers!
-  Updated: 2026-10-05T20:37:46Z
+- [Front Button Fold-over Inside Zipper Pants - Style Vines](https://stylevines.com/products/jul2-6-bt1470-id-59548b): Product Description: Refine your wardrobe with these front button fold-over pants, a sleek fusion of tailored style and contemporary detail. Designed with a
+  Updated: 2026-10-08T03:36:11Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -968,26 +914,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59548B.jpg?v=1791232638
     Price: $15.80 USD
-- [Premium Scuba High Waist Button Zip Up Fly Pants](https://stylevines.com/products/pro2-6-ypc1502b-id-58319): Discover comfort and style with our high waist scuba pants. Perfect for any occasion, shop your new favorite pants today!
-  Updated: 2026-10-05T20:37:59Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58319.jpg?v=1791232666
-  - [S](https://stylevines.com/products/pro2-6-ypc1502b-id-58319?variant=48966515720384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58319.jpg?v=1791232666
-    Price: $20.40 USD
-  - [M](https://stylevines.com/products/pro2-6-ypc1502b-id-58319?variant=48966515753152)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58319.jpg?v=1791232666
-    Price: $20.40 USD
-  - [L](https://stylevines.com/products/pro2-6-ypc1502b-id-58319?variant=48966515785920)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58319.jpg?v=1791232666
-    Price: $20.40 USD
-- [Solid Raw Edge Expose Seam Flare Pants](https://stylevines.com/products/pro2-6-yps1477b-id-58318): Embrace versatility with our chic flare pants. Their stylish design and comfortable fit make them a must-have in your wardrobe!
-  Updated: 2026-10-05T20:38:28Z
+- [Solid Raw Edge Expose Seam Flare Pants - Style Vines](https://stylevines.com/products/pro2-6-yps1477b-id-58318): Introducing our Solid Raw Edge Exposed Seam Flare Pants, a stylish and comfortable addition to your wardrobe that effortlessly combines versatility and chic
+  Updated: 2026-10-08T03:36:13Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1022,8 +950,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC51698A.jpg?v=1791232712
     Price: $6.40 USD
-- [High Waist Plaid Print Wide Leg Pants](https://stylevines.com/products/car2-9662pw_b_12-id-51977b): Elevate your style with our plaid print wide leg pants. Comfortable and chic, they’re perfect for any occasion. Discover your new look!
-  Updated: 2026-10-05T20:39:00Z
+- [High Waist Plaid Print Wide Leg Pants - Style Vines](https://stylevines.com/products/car2-9662pw_b_12-id-51977b): Elevate your wardrobe with our High Waist Plaid Print Wide Leg Pants, a chic and versatile addition designed to enhance your style. Meticulously crafted with
+  Updated: 2026-10-08T03:36:13Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1381,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2002328J.jpg?v=1791233051
     Price: $26.00 USD
 - [Leopard Print Activewear Leggings for Fashion](https://stylevines.com/products/wh2bun-sy6076-id-wh2252557): Stand out with our Leopard Print Activewear Leggings, perfect for the gym or casual outings. Make a statement today!
-  Updated: 2026-10-05T20:44:55Z
+  Updated: 2026-10-08T12:20:56Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1465,7 +1393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252535D.jpg?v=1791233226
     Price: $30.00 USD
 - [Basic Solid Leggings for Versatile Style](https://stylevines.com/products/cla2-6-bp5566-id-59098b): Enhance your wardrobe with our Basic Solid Leggings. Soft fabric and figure-hugging fit make them a must-have. Shop this essential now!
-  Updated: 2026-10-05T20:47:34Z
+  Updated: 2026-10-08T12:19:06Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1475,7 +1403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59098B.jpg?v=1791233231
     Price: $6.00 USD
   - [M](https://stylevines.com/products/cla2-6-bp5566-id-59098b?variant=48966533808320)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59098B.jpg?v=1791233231
     Price: $6.00 USD
   - [L](https://stylevines.com/products/cla2-6-bp5566-id-59098b?variant=48966533841088)
@@ -1501,7 +1429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59098A.jpg?v=1791233259
     Price: $6.00 USD
 - [Onque Casual Textured Jacket with Mock Neck and Zipper](https://stylevines.com/products/coq2-6-0101-id-60402): Stay stylish and comfortable in the Onque Casual Textured Jacket. Perfect for layering—make it a staple in your wardrobe!
-  Updated: 2026-10-05T20:48:20Z
+  Updated: 2026-10-21T12:23:38Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1515,7 +1443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60402.jpg?v=1791233288
     Price: $29.80 USD
   - [L](https://stylevines.com/products/coq2-6-0101-id-60402?variant=48966535479488)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60402.jpg?v=1791233288
     Price: $29.80 USD
   - [XL](https://stylevines.com/products/coq2-6-0101-id-60402?variant=48966535512256)
@@ -1588,24 +1516,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60402A.jpg?v=1791233342
     Price: $29.80 USD
-- [Solid Long Sleeve Trench Coat for Modern Women](https://stylevines.com/products/acg2-6-acg2025trenwint-id-60097b): Be timeless with our Solid Long Sleeve Trench Coat. Perfectly tailored for style and warmth—layer it beautifully this season!
-  Updated: 2026-10-05T20:49:24Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60097B.jpg?v=1791233360
-  - [S](https://stylevines.com/products/acg2-6-acg2025trenwint-id-60097b?variant=48966536462528)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60097B.jpg?v=1791233360
-    Price: $25.20 USD
-  - [M](https://stylevines.com/products/acg2-6-acg2025trenwint-id-60097b?variant=48966536495296)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60097B.jpg?v=1791233360
-    Price: $25.20 USD
-  - [L](https://stylevines.com/products/acg2-6-acg2025trenwint-id-60097b?variant=48966536528064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60097B.jpg?v=1791233360
-    Price: $25.20 USD
 - [Cozy Faux Fur Hooded Jacket for Ultimate Warmth](https://stylevines.com/products/wbg2-3-2217-id-60102a): Stay warm and stylish in our Faux Fur Hooded Jacket. Perfect for cold days—grab yours now to elevate your winter wardrobe!
   Updated: 2026-10-05T20:18:54Z
   Vendor: Style Vines
@@ -1613,26 +1523,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60102A.png?v=1788713550
   Price: $48.60 USD
-- [Timeless Wool Toggle Button Peacoat with Pockets](https://stylevines.com/products/acg2-6-acglavt31008-bk-id-59965): Add sophistication with our Wool Toggle Button Peacoat. Designed for warmth and style—perfect for every occasion—get yours today!
-  Updated: 2026-10-05T20:50:47Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59965.jpg?v=1791233398
-  - [S](https://stylevines.com/products/acg2-6-acglavt31008-bk-id-59965?variant=48966537445568)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59965.jpg?v=1791233398
-    Price: $21.60 USD
-  - [M](https://stylevines.com/products/acg2-6-acglavt31008-bk-id-59965?variant=48966537478336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59965.jpg?v=1791233398
-    Price: $21.60 USD
-  - [L](https://stylevines.com/products/acg2-6-acglavt31008-bk-id-59965?variant=48966537511104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59965.jpg?v=1791233398
-    Price: $21.60 USD
 - [Luxurious Faux Fur Collar Kimono for Chic Outfits](https://stylevines.com/products/wh2hda-wck320116-id-wh2001395): Embrace elegance with our Faux Fur Collar Kimono, blending warmth and style effortlessly. Elevate your wardrobe today with this key piece!
-  Updated: 2026-10-05T20:51:16Z
+  Updated: 2026-10-14T13:31:26Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1645,24 +1537,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2001395.jpg?v=1791233451
     Price: $102.00 USD
-- [Solid Woven Jacket - Timeless Black Style](https://stylevines.com/products/pro2-18-njs0941-id-57086a): Elevate your wardrobe with our classic Black Woven Jacket. Enjoy a luxurious feel and effortless elegance. Shop this versatile piece today!
-  Updated: 2026-10-05T20:51:38Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC57086A.jpg?v=1791233481
-  - [S](https://stylevines.com/products/pro2-18-njs0941-id-57086a?variant=48966539280576)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC57086A.jpg?v=1791233481
-    Price: $21.40 USD
-  - [M](https://stylevines.com/products/pro2-18-njs0941-id-57086a?variant=48966539313344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC57086A.jpg?v=1791233481
-    Price: $21.40 USD
-  - [L](https://stylevines.com/products/pro2-18-njs0941-id-57086a?variant=48966539346112)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC57086A.jpg?v=1791233481
-    Price: $21.40 USD
 - [Long Sleeve Notched Collar Blazer - A Professional Staple](https://stylevines.com/products/act2-6-j14215-id-59159): Add sophistication with our Long Sleeve Blazer in Black. Perfect for work or events, this stylish piece is a must-have for your collection!
   Updated: 2026-10-05T20:52:13Z
   Vendor: Style Vines
@@ -1753,8 +1627,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60521A.jpg?v=1791234709
     Price: $59.00 USD
-- [Metallic Flower Tube Maxi Dress](https://stylevines.com/products/cod2-6-d2008-id-60518): Achieve modern elegance with our metallic flower maxi dress, featuring a sleek turtleneck. It's perfect for a stunning evening look—shop now!
-  Updated: 2026-10-05T21:12:23Z
+- [Metallic Flower Tube Maxi Dress - Style Vines](https://stylevines.com/products/cod2-6-d2008-id-60518): Product Description:This sleeveless turtleneck drape maxi dress offers a refined silhouette with modern elegance. The high neckline creates a sophisticated
+  Updated: 2026-10-21T12:23:57Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1771,8 +1645,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60518.jpg?v=1791234724
     Price: $59.00 USD
-- [Sleeveless Turtle Neck Drape Maxi Dress](https://stylevines.com/products/cod2-6-d2689-id-60517): Embrace elegance with this refined turtleneck maxi dress designed for a flattering fit. Create stunning looks effortlessly—grab yours today!
-  Updated: 2026-10-05T21:12:41Z
+- [Sleeveless Turtle Neck Drape Maxi Dress - Style Vines](https://stylevines.com/products/cod2-6-d2689-id-60517): Product Description:This sleeveless turtleneck drape maxi dress offers a refined silhouette with modern elegance. The high neckline creates a sophisticated
+  Updated: 2026-10-21T12:23:47Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1786,11 +1660,11 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60517.jpg?v=1791234748
     Price: $48.00 USD
   - [L](https://stylevines.com/products/cod2-6-d2689-id-60517?variant=48966558023872)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60517.jpg?v=1791234748
     Price: $48.00 USD
-- [Cowl Neck Mini Dress With Back Chain Detail](https://stylevines.com/products/cod2-6-md2673-id-60501a): Elevate your evening look with this cowl neck mini dress featuring bold back chain detail. Step out in style and make a statement tonight!
-  Updated: 2026-10-05T21:12:53Z
+- [Cowl Neck Mini Dress With Back Chain Detail - Style Vines](https://stylevines.com/products/cod2-6-md2673-id-60501a): Product Description:Elevate your evening look with this cowl neck mini dress designed for sleek, modern appeal. The softly draped neckline creates elegant
+  Updated: 2026-10-08T03:36:20Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1807,8 +1681,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60501A.jpg?v=1791234766
     Price: $48.00 USD
-- [Sleeveless Collared Shirred Mini Dress](https://stylevines.com/products/hyf2-6-dz26a751_1-id-60612c): Combine comfort and style with our collared shirred mini dress. Perfect for warm days, it's a must-have for your wardrobe. Explore your options!
-  Updated: 2026-10-05T21:13:21Z
+- [Sleeveless Collared Shirred Mini Dress - Style Vines](https://stylevines.com/products/hyf2-6-dz26a751_1-id-60612c): Product Description:This sleeveless collared shirred mini dress combines classic structure with a playful, feminine silhouette. Crafted from breathable cotton
+  Updated: 2026-10-08T03:36:20Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1844,7 +1718,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60604.jpg?v=1791234806
     Price: $56.00 USD
 - [Elysian Drape Dress for Effortless Sophistication](https://stylevines.com/products/dio2-6-imd70512_015-id-60640): Embrace elegance with the Elysian Drape Dress. Its soft silhouette and off-shoulder design offer chic comfort. Shop now!
-  Updated: 2026-10-05T21:14:17Z
+  Updated: 2026-10-14T13:32:36Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1858,7 +1732,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60640.jpg?v=1791234839
     Price: $78.00 USD
   - [L](https://stylevines.com/products/dio2-6-imd70512_015-id-60640?variant=48966558777536)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60640.jpg?v=1791234839
     Price: $78.00 USD
 - [Passion Bloom Ruched Dress for Bold Elegance](https://stylevines.com/products/dio2-6-imd70653_007-id-60631a): Make a statement in the Passion Bloom Ruched Dress, featuring a figure-enhancing design. Elevate your style with a beautiful twist.
@@ -1879,24 +1753,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60631A.jpg?v=1791234862
     Price: $64.00 USD
-- [One Shoulder Maxi Dress with Waist Cut Out](https://stylevines.com/products/dio2-6-d11648_060-id-60666): Turn heads in our One Shoulder Maxi Dress with a stylish waist cut out. Experience modern elegance and defined shapes today.
-  Updated: 2026-10-05T21:15:06Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60666.jpg?v=1791234885
-  - [S](https://stylevines.com/products/dio2-6-d11648_060-id-60666?variant=48966559596736)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60666.jpg?v=1791234885
-    Price: $36.00 USD
-  - [M](https://stylevines.com/products/dio2-6-d11648_060-id-60666?variant=48966559629504)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60666.jpg?v=1791234885
-    Price: $36.00 USD
-  - [L](https://stylevines.com/products/dio2-6-d11648_060-id-60666?variant=48966559662272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60666.jpg?v=1791234885
-    Price: $36.00 USD
 - [Elysian Drape Dress for Timeless Appeal](https://stylevines.com/products/dio2-6-imd70512_015-id-60640a): Enjoy the luxury of the Elysian Drape Dress, designed to contour beautifully while keeping you comfortable. Redefine your wardrobe.
   Updated: 2026-10-05T21:15:35Z
   Vendor: Style Vines
@@ -1969,8 +1825,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60581.jpg?v=1791235000
     Price: $70.00 USD
-- [Glamour With Modern Construction Maxi Dress](https://stylevines.com/products/cod2-6-d2839-id-60500a): Step into Old Hollywood glamour with our modern Maxi Dress. Enjoy elegant style and comfort—explore your new favorite dress!
-  Updated: 2026-10-05T21:17:05Z
+- [Glamour With Modern Construction Maxi Dress - Style Vines](https://stylevines.com/products/cod2-6-d2839-id-60500a): Product Description:This maxi dress captures the essence of Old Hollywood glamour with a sleek, modern construction. Designed to flatter, the central gathering
+  Updated: 2026-10-08T03:36:21Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1987,8 +1843,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60500A.jpg?v=1791235018
     Price: $50.50 USD
-- [Modern Take On Draped Grecian Styles Maxi Dress](https://stylevines.com/products/cod2-6-d2787-id-60499a): Discover contemporary elegance with our Draped Grecian Styles Maxi Dress, designed for style and comfort. Elevate your outfit today.
-  Updated: 2026-10-05T21:17:29Z
+- [Modern Take On Draped Grecian Styles Maxi Dress - Style Vines](https://stylevines.com/products/cod2-6-d2787-id-60499a): Product Description:This maxi gown offers a modern interpretation of classic draped Grecian styling with a sleek, contemporary edge. Designed to flatter, the
+  Updated: 2026-10-08T03:36:21Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2312,7 +2168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59801.jpg?v=1791235368
     Price: $26.60 USD
 - [Ribbed Halter Neck Backless Bodycon Dress - Bold Appeal](https://stylevines.com/products/wh2cla-bd5504-id-wh200249558): Turn heads in our Ribbed Halter Neck Backless Dress, designed for confidence with a sultry silhouette. Get yours for a night out!
-  Updated: 2026-10-05T21:23:34Z
+  Updated: 2026-10-14T13:31:46Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2366,13 +2222,13 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249558E.jpg?v=1791235413
     Price: $21.00 USD
 - [Strapless Linen Pattern Dress - Breeze into Elegance](https://stylevines.com/products/val2-6-d24085-id-59555): Enjoy effortless charm with our Flower Lining Strapless Dress, perfect for any occasion. Discover romantic style today!
-  Updated: 2026-10-05T21:25:13Z
+  Updated: 2026-10-20T12:33:26Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59555.jpg?v=1791235477
   - [S](https://stylevines.com/products/val2-6-d24085-id-59555?variant=48966578897088)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59555.jpg?v=1791235477
     Price: $43.00 USD
   - [M](https://stylevines.com/products/val2-6-d24085-id-59555?variant=48966578929856)
@@ -2384,7 +2240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59555.jpg?v=1791235477
     Price: $43.00 USD
 - [3/4 Sleeve Dress with Tassel Tie - Boho Chic Style](https://stylevines.com/products/gig2-6-tg1548-id-59439): Embrace boho vibes with this 3/4 Sleeve Printed Dress, featuring playful tassel ties and fringe detail. Perfect for relaxed chic!
-  Updated: 2026-10-05T21:26:35Z
+  Updated: 2026-10-08T12:19:17Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2420,7 +2276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59258A.jpg?v=1791235600
     Price: $30.60 USD
 - [Ribbed Side Slit Long Cami Dress - Comfort & Style](https://stylevines.com/products/wh2cla-bd3159-x-id-wh2000630): Embrace comfort with our Ribbed Side Slit Long Cami Dress. Perfect for any occasion, this flattering fit moves with you effortlessly!
-  Updated: 2026-10-05T21:28:37Z
+  Updated: 2026-10-20T12:33:16Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2605,26 +2461,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2000630G.jpg?v=1791235658
     Price: $31.00 USD
-- [Solid Tie Waist Ruffle Midi Dress - Elegant Charm](https://stylevines.com/products/mav2-6-dm4189-id-59286): Elevate your look with our Solid Tie Waist Ruffle Midi Dress. Enjoy a custom fit and charming movement for any outing!
-  Updated: 2026-10-05T21:29:11Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59286.jpg?v=1791235722
-  - [S](https://stylevines.com/products/mav2-6-dm4189-id-59286?variant=48966589284544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59286.jpg?v=1791235722
-    Price: $29.80 USD
-  - [M](https://stylevines.com/products/mav2-6-dm4189-id-59286?variant=48966589317312)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59286.jpg?v=1791235722
-    Price: $29.80 USD
-  - [L](https://stylevines.com/products/mav2-6-dm4189-id-59286?variant=48966589350080)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59286.jpg?v=1791235722
-    Price: $29.80 USD
-- [Spaghetti Strap Art Deco Sequins Maxi Dress](https://stylevines.com/products/cef2-6-cd21439-id-59124): Make a statement with our Art Deco Sequins Maxi Dress. Unleash your inner glamour and stand out effortlessly at any event!
-  Updated: 2026-10-05T21:29:42Z
+- [Spaghetti Strap Art Deco Sequins Maxi Dress - Style Vines](https://stylevines.com/products/cef2-6-cd21439-id-59124): Elevate your style with our Spaghetti Strap Art Deco Sequins Maxi Dress, designed to make a bold statement while ensuring comfort. Key Features:1. Fabric: Made
+  Updated: 2026-10-08T03:36:22Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2642,7 +2480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59124.jpg?v=1791235757
     Price: $42.20 USD
 - [Ribbed Cardigan & Cami Midi Bodycon Dress - Chic Ensemble](https://stylevines.com/products/wh2cla-btd3742-o-id-wh2000549): Upgrade your wardrobe with our Ribbed Cardigan & Cami Midi Bodycon Dress. Enjoy a stylish and comfy fit perfect for any day!
-  Updated: 2026-10-05T21:31:39Z
+  Updated: 2026-10-14T13:31:27Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2815,42 +2653,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2000549S.jpg?v=1791235898
     Price: $57.00 USD
-- [Spaghetti Strap Art Deco Sequins Maxi Dress - Vintage Charm](https://stylevines.com/products/cef2-6-cd21439-id-59124b): Step into elegance with our Art Deco Sequins Maxi Dress. Experience comfort and style with a touch of vintage allure!
-  Updated: 2026-10-05T21:32:08Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59124B.jpg?v=1791235904
-  - [S](https://stylevines.com/products/cef2-6-cd21439-id-59124b?variant=48966594003136)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59124B.jpg?v=1791235904
-    Price: $42.20 USD
-  - [M](https://stylevines.com/products/cef2-6-cd21439-id-59124b?variant=48966594035904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59124B.jpg?v=1791235904
-    Price: $42.20 USD
-  - [L](https://stylevines.com/products/cef2-6-cd21439-id-59124b?variant=48966594068672)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59124B.jpg?v=1791235904
-    Price: $42.20 USD
-- [Sleeveless Power Shoulder Slitted Maxi Dress - Bold Style](https://stylevines.com/products/cef2-6-d9983-id-58333a): Embrace sophistication with our Sleeveless Power Shoulder Slitted Maxi Dress. Tailored for a striking silhouette at any event!
-  Updated: 2026-10-05T21:32:26Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333A.jpg?v=1791235933
-  - [S](https://stylevines.com/products/cef2-6-d9983-id-58333a?variant=48966595346624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333A.jpg?v=1791235933
-    Price: $18.40 USD
-  - [M](https://stylevines.com/products/cef2-6-d9983-id-58333a?variant=48966595379392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333A.jpg?v=1791235933
-    Price: $18.40 USD
-  - [L](https://stylevines.com/products/cef2-6-d9983-id-58333a?variant=48966595412160)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333A.jpg?v=1791235933
-    Price: $18.40 USD
 - [Sleeveless Power Shoulder Slitted Maxi Dress - Statement Piece](https://stylevines.com/products/cef2-6-d9983-id-58333): Introduce bold sophistication into your wardrobe with our Power Shoulder Slitted Maxi Dress. Perfect for making a lasting impression!
   Updated: 2026-10-05T21:32:42Z
   Vendor: Style Vines
@@ -2870,7 +2672,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333.jpg?v=1791235950
     Price: $18.40 USD
 - [Sleeveless Power Shoulder Slitted Maxi Dress - Ultimate Comfort](https://stylevines.com/products/cef2-6-d9983-id-58333b): Enhance your style with our Power Shoulder Slitted Maxi Dress. Experience comfort and luxury that makes a statement anywhere!
-  Updated: 2026-10-05T21:33:06Z
+  Updated: 2026-10-14T13:31:07Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2884,7 +2686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333B.jpg?v=1791235967
     Price: $18.40 USD
   - [L](https://stylevines.com/products/cef2-6-d9983-id-58333b?variant=48966596264128)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC58333B.jpg?v=1791235967
     Price: $18.40 USD
 - [Halter Polka Dot Back Knot Tulle Dress - Timeless Elegance](https://stylevines.com/products/wh3sup-d261ds60092-id-wh328265): Capture vintage charm with our Halter Polka Dot Back Knot Tulle Dress. Enjoy beautiful movement and a flattering fit for any occasion!
@@ -2910,7 +2712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH328265D.jpg?v=1791236022
     Price: $48.00 USD
 - [Cloud Puff Off-shoulder Top for Romantic Style](https://stylevines.com/products/wh2rhb-lt82212b-id-wh2252575): Elevate your look with the lightweight Cloud Puff Off-Shoulder Top featuring dramatic puff sleeves. Perfect for a chic ensemble, shop now!
-  Updated: 2026-10-05T21:34:30Z
+  Updated: 2026-10-08T12:21:07Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2927,8 +2729,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252575D.jpg?v=1791236052
     Price: $78.50 USD
-- [Elegant Satin-finish Victorian Button-up Top](https://stylevines.com/products/acg2-6-acga26003-id-60588a): Transform your style with the Elegant Satin-finish Button-up Top. Its polished design and flattering fit are perfect for any occasion—explore today!
-  Updated: 2026-10-05T21:34:51Z
+- [Elegant Satin-finish Victorian Button-up Top - Style Vines](https://stylevines.com/products/acg2-6-acga26003-id-60588a): Product Description: Refine your everyday style with this Plus Size Textured Wrap Top With Tie Neck, designed to flatter with soft structure and feminine
+  Updated: 2026-10-08T03:36:23Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -2945,8 +2747,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60588A.jpg?v=1791236074
     Price: $39.50 USD
-- [Elegant Satin-finish Victorian Button-up Top](https://stylevines.com/products/acg2-6-acga26003-id-60588): Refine your wardrobe with the Plus Size Textured Wrap Top. Its feminine details and soft structure make it a must-have for effortless elegance!
-  Updated: 2026-10-05T21:35:21Z
+- [Elegant Satin-finish Victorian Button-up Top - Style Vines](https://stylevines.com/products/acg2-6-acga26003-id-60588): Product Description: Refine your everyday style with this Plus Size Textured Wrap Top With Tie Neck, designed to flatter with soft structure and feminine
+  Updated: 2026-10-08T12:20:16Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3134,13 +2936,13 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60037.jpg?v=1791236288
     Price: $17.20 USD
 - [Rhinestone Diamond Lined Satin Blouse | Glamorous Style](https://stylevines.com/products/acg2-6-acglaf0107-bl-id-60034): Shine at any occasion with our Rhinestone Diamond Lined Blouse. Smooth satin and elegant design offer both comfort and style. Explore your new favorite!
-  Updated: 2026-10-05T21:39:54Z
+  Updated: 2026-10-14T13:31:52Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60034.jpg?v=1791236362
   - [S](https://stylevines.com/products/acg2-6-acglaf0107-bl-id-60034?variant=48966615171264)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60034.jpg?v=1791236362
     Price: $21.60 USD
   - [M](https://stylevines.com/products/acg2-6-acglaf0107-bl-id-60034?variant=48966615204032)
@@ -3152,7 +2954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60034.jpg?v=1791236362
     Price: $21.60 USD
 - [Elegant Rhinestone Diamond Lined Satin Blouse](https://stylevines.com/products/acg2-6-acglaf0107-pk-id-60036): Enhance your wardrobe with our stunning Rhinestone Diamond Lined Blouse, combining luxury and comfort. Perfect for both work and play. Shop now!
-  Updated: 2026-10-05T21:40:36Z
+  Updated: 2026-10-21T12:23:28Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3166,7 +2968,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60036.jpg?v=1791236399
     Price: $21.60 USD
   - [L](https://stylevines.com/products/acg2-6-acglaf0107-pk-id-60036?variant=48966615630016)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60036.jpg?v=1791236399
     Price: $21.60 USD
 - [Sleeveless Mock Neck Top with Tie | Bold Fashion](https://stylevines.com/products/wh2cla-bt5631-id-wh2250225): Make a statement with our Sleeveless Mock Neck Top featuring a tie detail. Tailor your look with adjustable style. Get yours for a chic update!
@@ -3241,8 +3043,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60163B.jpg?v=1791236517
     Price: $41.40 USD
-- [Washed Poly Silk Asymmetrical Drawstring Top](https://stylevines.com/products/tyc2-6-t-9100-id-60207a): Style meets comfort in our Asymmetrical Drawstring Top. Its modern design and customizable fit make it a standout piece for any outfit. Grab yours today!
-  Updated: 2026-10-05T21:42:28Z
+- [Washed Poly Silk Asymmetrical Drawstring Top - Style Vines](https://stylevines.com/products/tyc2-6-t-9100-id-60207a): Product Description:Contemporary and polished, the Washed Poly Silk Asymmetrical Drawstring Top offers a sleek take on everyday dressing. Crafted from soft
+  Updated: 2026-10-08T03:36:24Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3332,7 +3134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60163.jpg?v=1791236617
     Price: $41.40 USD
 - [Off The Shoulder Crisscross Ribbed Top – Stylish & Versatile](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058): Embrace modern femininity with the Off The Shoulder Crisscross Top. Enjoy comfort and style, making it a wardrobe essential. Discover your new favorite top.
-  Updated: 2026-10-05T21:44:50Z
+  Updated: 2026-10-08T12:19:42Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3342,31 +3144,13 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
     Price: $14.40 USD
   - [M](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058?variant=48966618808512)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
     Price: $14.40 USD
   - [L](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058?variant=48966618841280)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
     Price: $14.40 USD
-- [Solid Pear Bead Flower Patch Cut Out Sweatshirt for Chic Comfort](https://stylevines.com/products/acg2-6-acgla-acgvs8-wt-id-59949): Add charm to your casual wear with the Pearl Bead Flower Sweatshirt. Its unique detailing ensures you stand out. Explore this elegant piece today.
-  Updated: 2026-10-05T21:45:06Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59949.jpg?v=1791236693
-  - [S](https://stylevines.com/products/acg2-6-acgla-acgvs8-wt-id-59949?variant=48966619594944)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59949.jpg?v=1791236693
-    Price: $12.60 USD
-  - [M](https://stylevines.com/products/acg2-6-acgla-acgvs8-wt-id-59949?variant=48966619627712)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59949.jpg?v=1791236693
-    Price: $12.60 USD
-  - [L](https://stylevines.com/products/acg2-6-acgla-acgvs8-wt-id-59949?variant=48966619660480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59949.jpg?v=1791236693
-    Price: $12.60 USD
 - [Essential Short Sleeve Round Neck T Shirt for Everyday Style](https://stylevines.com/products/wh2cla-bt5564-id-wh200249549): The perfect layering piece, this Short Sleeve T-Shirt offers comfort and a clean look. Dress it up or keep it casual, it's an ultimate wardrobe staple.
   Updated: 2026-10-05T21:46:01Z
   Vendor: Style Vines
@@ -3620,7 +3404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59320B.jpg?v=1791237292
     Price: $16.00 USD
 - [Ribbed Round Neck Long Sleeve Top for Everyday Wear](https://stylevines.com/products/wh2cla-bt5343-f-id-wh2000564): The Ribbed Round Neck Top combines comfort and style effortlessly. Perfect for layering or solo wear—get yours and upgrade your wardrobe!
-  Updated: 2026-10-05T21:57:07Z
+  Updated: 2026-10-14T13:31:16Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3799,8 +3583,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60025C.jpg?v=1791237521
     Price: $25.20 USD
-- [Multi Color Yarn Pattern Smart Touch Gloves](https://stylevines.com/products/wh2hda-mg0081-id-wh2002366): Brighten chilly days with these vibrant gloves. Enjoy warmth and functionality with smart-touch fingertips. Elevate your winter style today!
-  Updated: 2026-10-05T21:59:26Z
+- [Multi Color Yarn Pattern Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0081-id-wh2002366): Product Description: Brighten up chilly days with the Multi Color Yarn Pattern Smart Touch Gloves, where vibrant design meets everyday functionality. Crafted
+  Updated: 2026-10-08T03:36:25Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3821,8 +3605,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2002366C.jpg?v=1791237565
     Price: $14.50 USD
-- [Faux Suede Band Smart Touch Gloves](https://stylevines.com/products/wh2hda-mg0078-id-wh2002368): Embrace winter fashion with these chic gloves featuring a faux suede band. Experience warmth and elegance on cold days. Discover your style now!
-  Updated: 2026-10-05T21:59:50Z
+- [Faux Suede Band Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0078-id-wh2002368): Product Description: Refined and stylish, the Faux Suede Band Smart Touch Gloves are the perfect blend of fashion and function for colder days. Crafted from
+  Updated: 2026-10-08T03:36:26Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3891,7 +3675,195 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249479C.jpg?v=1791237644
     Price: $13.50 USD
-[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU1NDU4NzUyLCJsYXN0X3ZhbHVlIjoiODcyNjk1NTQ1ODc1MiJ9)
+- [Leopard Faux Fur Cuff Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481): Product Description: Keep warm while staying stylish with the Leopard Faux Fur Cuff Smart Touch Gloves. Designed with smart touch technology, these gloves let
+  Updated: 2026-10-08T03:36:26Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481.jpg?v=1791237656
+  - [Black](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889504960)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481.jpg?v=1791237656
+    Price: $17.00 USD
+  - [Dusty Blue](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889537728)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481A.jpg?v=1791237662
+    Price: $17.00 USD
+  - [Green](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889570496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481C.jpg?v=1791237668
+    Price: $17.00 USD
+  - [Navy](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889603264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481D.jpg?v=1791237674
+    Price: $17.00 USD
+  - [Olive](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889636032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481E.jpg?v=1791237680
+    Price: $17.00 USD
+  - [Pink](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889668800)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481F.jpg?v=1791237686
+    Price: $17.00 USD
+  - [Rust](https://stylevines.com/products/wh2hda-mg0084-id-wh200249481?variant=48966889701568)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249481G.jpg?v=1791237692
+    Price: $17.00 USD
+- [Fuzzy Check Plaid Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0085-id-wh200249482): Product Description: Add a playful twist to your cold-weather accessories with the Fuzzy Check Plaid Smart Touch Gloves. These cozy gloves feature a bold check
+  Updated: 2026-10-08T03:36:27Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249482.jpg?v=1791237698
+  - [Beige](https://stylevines.com/products/wh2hda-mg0085-id-wh200249482?variant=48966891208896)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249482.jpg?v=1791237698
+    Price: $16.50 USD
+  - [Black](https://stylevines.com/products/wh2hda-mg0085-id-wh200249482?variant=48966891241664)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249482A.jpg?v=1791237704
+    Price: $16.50 USD
+  - [Brown](https://stylevines.com/products/wh2hda-mg0085-id-wh200249482?variant=48966891274432)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249482B.jpg?v=1791237710
+    Price: $16.50 USD
+  - [Pink](https://stylevines.com/products/wh2hda-mg0085-id-wh200249482?variant=48966891307200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249482C.jpg?v=1791237716
+    Price: $16.50 USD
+- [Faux Fur Cuff Mixed Color Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0086-id-wh200249483): Product Description: The Faux Fur Cuff Mixed Color Smart Touch Gloves combine practicality with sophisticated style. Featuring a plush faux fur cuff and subtle
+  Updated: 2026-10-08T03:36:28Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249483.jpg?v=1791237722
+  - [Beige](https://stylevines.com/products/wh2hda-mg0086-id-wh200249483?variant=48966893043904)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249483B.jpg?v=1791237735
+    Price: $17.00 USD
+  - [Black](https://stylevines.com/products/wh2hda-mg0086-id-wh200249483?variant=48966893076672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249483.jpg?v=1791237722
+    Price: $17.00 USD
+  - [Pink](https://stylevines.com/products/wh2hda-mg0086-id-wh200249483?variant=48966893109440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249483A.jpg?v=1791237728
+    Price: $17.00 USD
+- [Bow And Faux Fur Cuff Fleece Smart Touch Gloves - Style Vines](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485): Product Description: Elevate your cold-weather wardrobe with the Bow and Faux Fur Cuff Fleece Smart Touch Gloves. Designed for both warmth and elegance, these
+  Updated: 2026-10-08T03:36:29Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485.jpg?v=1791237764
+  - [Black](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485?variant=48966894026944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485.jpg?v=1791237764
+    Price: $21.00 USD
+  - [Gray](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485?variant=48966894059712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485A.jpg?v=1791237769
+    Price: $21.00 USD
+  - [Pink](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485?variant=48966894092480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485C.jpg?v=1791237780
+    Price: $21.00 USD
+  - [Purple](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485?variant=48966894125248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485D.jpg?v=1791237775
+    Price: $21.00 USD
+  - [Taupe](https://stylevines.com/products/wh2hda-mg0076-id-wh200249485?variant=48966894158016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249485E.jpg?v=1791237786
+    Price: $21.00 USD
+- [Christmas Tree Gloves - Style Vines](https://stylevines.com/products/wh2hda-hgl105-id-wh2249881): Product Description: Celebrate the season with the festive charm of the Christmas Tree Gloves. Adorned with whimsical Christmas tree patterns and fluffy
+  Updated: 2026-10-08T03:36:30Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249881.jpg?v=1791237798
+  Price: $13.00 USD
+- [Plaid Pattern Gloves for Classic Winter Style](https://stylevines.com/products/wh2hda-tt8442-id-wh2249961): Stay warm and stylish with these Plaid Pattern Gloves. Perfect for chilly days, they're a classic choice for every winter outfit. Shop now!
+  Updated: 2026-10-05T22:03:56Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249961.jpg?v=1791237822
+  Price: $14.00 USD
+- [Sophisticated Plaid Pattern Gloves for Winter](https://stylevines.com/products/wh2hda-tt8432-id-wh2249963): Enjoy warmth and elegance with these Plaid Pattern Gloves. A refined touch for your winter wear, they're perfect for outdoor adventures. Grab yours!
+  Updated: 2026-10-05T22:04:41Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249963.jpg?v=1791237861
+  - [Black](https://stylevines.com/products/wh2hda-tt8432-id-wh2249963?variant=48966894715072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249963.jpg?v=1791237861
+    Price: $14.00 USD
+  - [Green](https://stylevines.com/products/wh2hda-tt8432-id-wh2249963?variant=48966894747840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249963A.jpg?v=1791237867
+    Price: $14.00 USD
+  - [Red](https://stylevines.com/products/wh2hda-tt8432-id-wh2249963?variant=48966894780608)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2249963B.jpg?v=1791237874
+    Price: $14.00 USD
+- [Flower Fishnet Glove for Retro Charm](https://stylevines.com/products/wh2hda-tt8373-id-wh2250041): Add elegance to your look with the Flower Fishnet Glove. Perfect for themed events or parties, embrace creativity in your styling. Explore now!
+  Updated: 2026-10-05T22:04:59Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250041.jpg?v=1791237886
+  Price: $7.00 USD
+- [Puffer Padded Quilted Mittens for Ultimate Warmth](https://stylevines.com/products/wh2hda-mg0068-id-wh2250374): Stay cozy in chilly weather with Puffer Padded Quilted Mittens. Their sleek design and plush padding provide comfort for all your activities. Buy today!
+  Updated: 2026-10-05T22:05:16Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250374.jpg?v=1791237904
+  Price: $22.50 USD
+- [Soft Knit Smart Touch Gloves for Device Use](https://stylevines.com/products/wh2hda-mg0070-id-wh2250478): Stay warm and connected with Soft Knit Smart Touch Gloves. Enjoy cozy hands and seamless device compatibility. Don't let the cold stop you—shop now!
+  Updated: 2026-10-05T22:05:28Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250478.jpg?v=1791237920
+  - [Coral](https://stylevines.com/products/wh2hda-mg0070-id-wh2250478?variant=48966895108288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250478.jpg?v=1791237920
+    Price: $17.00 USD
+  - [Purple](https://stylevines.com/products/wh2hda-mg0070-id-wh2250478?variant=48966895141056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250478A.jpg?v=1791237926
+    Price: $17.00 USD
+- [Lurex Leopard Pattern Smart Gloves with Style](https://stylevines.com/products/wh2hda-mg0064-id-wh2250525): Keep your hands warm and stylish in Lurex Leopard Pattern Smart Gloves. Enjoy everyday comfort with a touch of shimmer. Check them out today!
+  Updated: 2026-10-05T22:05:33Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250525.jpg?v=1791237932
+  Price: $16.50 USD
+- [Knit Aztec Smart Gloves for Southwest Flair](https://stylevines.com/products/wh2hda-mg0059-id-wh2250526): Embrace warmth and style with Knit Aztec Smart Gloves. Their unique pattern and smart-touch tips make them perfect for winter. Discover your pair!
+  Updated: 2026-10-05T22:05:42Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250526.jpg?v=1791237939
+  Price: $10.50 USD
+- [Camo Knit Smart Touch Gloves for Edgy Fashion](https://stylevines.com/products/wh2hda-mg0045-id-wh2250527): Stand out in style with Camo Knit Smart Touch Gloves. Soft and warm, they're perfect for outdoor activities and digital connectivity. Order yours now!
+  Updated: 2026-10-05T22:05:49Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250527.jpg?v=1791237945
+  Price: $10.00 USD
+- [Leopard Knit Smart Touch Gloves for Wild Warmth](https://stylevines.com/products/wh2hda-mg0039-id-wh2250528): Add flair to winter with Leopard Knit Smart Touch Gloves. Stylish and cozy, they keep you connected while looking fierce. Visit us to buy!
+  Updated: 2026-10-05T22:05:52Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250528.jpg?v=1791237951
+  Price: $10.00 USD
+[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU3MzI2NTI4LCJsYXN0X3ZhbHVlIjoiODcyNjk1NzMyNjUyOCJ9)
 
 ## Collections
 
@@ -3959,10 +3931,10 @@
   Updated: 2026-09-23T00:46:08Z
   Total Products: 18
 - [Jewellery](https://stylevines.com/collections/jewelery): Discover Style Vines' jewellery collection — elegant necklaces, rings, and earrings designed to complement a quiet luxury wardrobe with understated sophistication.
-  Updated: 2026-10-04T21:31:07Z
+  Updated: 2026-10-10T11:21:30Z
   Total Products: 66
 - [Necklaces](https://stylevines.com/collections/necklaces): Shop Style Vines' necklace collection — delicate chains, pendants, and statement pieces in refined designs that add a subtle, luxurious touch to any outfit.
-  Updated: 2026-09-23T00:50:03Z
+  Updated: 2026-10-10T11:21:30Z
   Total Products: 41
 - [Bracelets](https://stylevines.com/collections/bracelets): - Style Vines
   Updated: 2026-09-27T19:00:49Z
@@ -4016,6 +3988,24 @@
   - [The Ultimate Guide to Choosing the Right Colors for Your Skin Tone](https://stylevines.com/blogs/news/the-ultimate-guide-to-choosing-the-right-colors-for-your-skin-tone): The Ultimate Guide to Choosing the Right Colors for Your Skin Tone
     Updated: 2026-10-07T09:12:50Z
     Author: Style Vines
+  - [Essential Clothing Care Tips for Long-Lasting Style](https://stylevines.com/blogs/news/essential-clothing-care-tips-for-long-lasting-style): Essential Clothing Care Tips for Long-Lasting Style
+    Updated: 2026-10-10T09:06:16Z
+    Author: Style Vines
+  - [Breaking Down Seasonal Fashion Challenges and Their Solutions](https://stylevines.com/blogs/news/breaking-down-seasonal-fashion-challenges-and-their-solutions): Breaking Down Seasonal Fashion Challenges and Their Solutions
+    Updated: 2026-10-12T09:12:31Z
+    Author: Style Vines
+  - [Major Fashion Innovations That Changed the Industry](https://stylevines.com/blogs/news/major-fashion-innovations-that-changed-the-industry): Major Fashion Innovations That Changed the Industry
+    Updated: 2026-10-14T09:01:13Z
+    Author: Style Vines
+  - [Understanding Fabrics A Beginner's Guide](https://stylevines.com/blogs/news/understanding-fabrics-a-beginners-guide): Understanding Fabrics A Beginner's Guide
+    Updated: 2026-10-17T09:00:47Z
+    Author: Style Vines
+  - [The Do's and Don'ts of Mixing Patterns and Prints](https://stylevines.com/blogs/news/the-dos-and-donts-of-mixing-patterns-and-prints): The Do's and Don'ts of Mixing Patterns and Prints
+    Updated: 2026-10-19T09:00:58Z
+    Author: Style Vines
+  - [FAQ Everything You Need to Know About Ethical Fashion](https://stylevines.com/blogs/news/faq-everything-you-need-to-know-about-ethical-fashion): FAQ Everything You Need to Know About Ethical Fashion
+    Updated: 2026-10-21T09:01:21Z
+    Author: Style Vines
 
 ## Store Pages
 
@@ -4037,13 +4027,13 @@
 ## Policies
 
 - [Privacy Policy](https://stylevines.com/policies/privacy-policy)
-  Updated: 2026-09-03T18:31:04-05:00
+  Updated: 2026-09-03T23:31:04Z
 - [Refund Policy](https://stylevines.com/policies/refund-policy)
-  Updated: 2026-09-05T23:13:17-05:00
+  Updated: 2026-09-06T04:13:17Z
 - [Terms of Service](https://stylevines.com/policies/terms-of-service)
-  Updated: 2026-09-05T23:11:36-05:00
+  Updated: 2026-09-06T04:11:36Z
 - [Contact Information](https://stylevines.com/policies/contact-information)
-  Updated: 2026-09-05T23:14:01-05:00
+  Updated: 2026-09-06T04:14:01Z
 
 ## Optional
 
