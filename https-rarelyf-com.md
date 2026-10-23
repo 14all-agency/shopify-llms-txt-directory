@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-10-13T00:00:40.572Z
+- Updated At: 2026-10-23T00:42:12.254Z
 
 ## About RareLyf 
 
@@ -42,14 +42,14 @@
 ## Products
 
 - [RareLyf Calm | 15-Ingredient Stress and Sleep Support](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
-  Updated: 2026-10-08T22:18:15Z
+  Updated: 2026-10-22T12:15:44Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero.jpg?v=1791457395
   Price: $59.99 USD
 - [90 Days Restoration Scratchcard](https://rarelyf.com/products/90-days-restoration-scratchcard)
-  Updated: 2026-10-06T19:30:13Z
+  Updated: 2026-10-22T12:17:34Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
@@ -82,19 +82,21 @@
   Updated: 2026-10-08T10:38:44Z
 - [Thanks for your feedback](https://rarelyf.com/pages/thanks-for-your-feedback): .rlc{--v:#2d1a4e;--g:#b8960a;--ink:#111;--mu:#5e5a52;--ln:#e4dfd2;--card:#fffdf8;--cr:#f2f0ea;font-family:var(--font-body--family,Poppins),Poppins,...
   Updated: 2026-09-30T06:15:32Z
+- [The Sleep Fix Quiz](https://rarelyf.com/pages/sleep-quiz): #sfq {--cream: #FAFAF5; --cream-dark: #F2F0EA; --ink: #111111; --grey: #6B6B6B; --line: #E4E0D6; --gold: #B8960A; --gold-light: #D4AE2E; --violet: ...
+  Updated: 2026-10-21T06:39:19Z
 
 ## Policies
 
 - [Privacy Policy](https://rarelyf.com/policies/privacy-policy)
-  Updated: 2026-06-09T04:03:12-07:00
+  Updated: 2026-06-09T11:03:12Z
 - [Shipping Policy](https://rarelyf.com/policies/shipping-policy)
-  Updated: 2026-07-07T00:32:03-07:00
+  Updated: 2026-07-07T07:32:03Z
 - [Refund Policy](https://rarelyf.com/policies/refund-policy)
-  Updated: 2026-07-07T00:34:54-07:00
+  Updated: 2026-07-07T07:34:54Z
 - [Terms of Service](https://rarelyf.com/policies/terms-of-service)
-  Updated: 2026-07-07T00:33:54-07:00
+  Updated: 2026-07-07T07:33:54Z
 - [Contact Information](https://rarelyf.com/policies/contact-information)
-  Updated: 2026-07-02T05:05:04-07:00
+  Updated: 2026-07-02T12:05:04Z
 
 ## Social Media
 - [Instagram](https://www.instagram.com/liverarelyf/)
