@@ -6,159 +6,159 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-16T15:49:21Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-30T00:00:41.360Z
+- Updated At: 2026-10-23T00:45:27.977Z
 
 ## Products
 
 - [Break Our Fall - Vinyl](https://dispatchmerch.com/products/break-our-fall-vinyl): Standard black vinyl LPTRACKLIST:1. May We All2. All This Time3. One By One4. As Old As I5. The Legend Of Connie Hawkins6. Silent Type7. Break Our Fall8. Second Class Soldier9. Promise Land10. Born On Earth11. Greta12. Elevator Operator13. Stoned Enough To Gather In The Night14. The Poet Nurse And The Identical Queen15. Pour Into You16. Connie Hawkins Coda
-  Updated: 2026-09-09T00:55:26Z
+  Updated: 2026-10-21T17:01:59Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-BREAKOURFALL-VINYL.png?v=1707852590
   Price: $35.00 USD
 - [Break Our Fall - CD](https://dispatchmerch.com/products/break-our-fall-cd): TRACKLIST:1. May We All2. All This Time3. One By One4. As Old As I5. The Legend Of Connie Hawkins6. Silent Type7. Break Our Fall8. Second Class Soldier9. Promise Land10. Born On Earth11. Greta12. Elevator Operator13. Stoned Enough To Gather In The Night14. The Poet Nurse And The Identical Queen15. Pour Into You16. Connie Hawkins Coda (available on physical copies only)
-  Updated: 2026-08-04T21:18:17Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-BREAKOURFALL-CD.png?v=1708116582
   Price: $13.00 USD
 - [Silent Steeples - Highlighter Yellow Vinyl](https://dispatchmerch.com/products/silent-steeples-highlighter-yellow-vinyl): 2x LP Highlighter Yellow vinylTRACKLIST: SIDE A1. Steeples2. Past The Falls3. Water Stop SIDE B4. Hey, Hey5. Flying Horses6. Questioned Apocalypse SIDE C7. Seasons - Movement III8. Mayday9. Born Normal SIDE D10. Bridges11. Walk With You12. Elias Released 1996
-  Updated: 2026-09-23T06:02:29Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-SILENT-STEEPLES-NEON-YELLOW-DOUBLE-VINYL.png?v=1708117145
   Price: $35.00 USD
 - [Silent Steeples - Black Vinyl](https://dispatchmerch.com/products/silent-steeples-black-vinyl): 2x LP Standard black vinylTRACKLIST: SIDE A1. Steeples2. Past The Falls3. Water Stop SIDE B4. Hey, Hey5. Flying Horses6. Questioned Apocalypse SIDE C7. Seasons - Movement III8. Mayday9. Born Normal SIDE D10. Bridges11. Walk With You12. Elias Released 1996
-  Updated: 2026-09-11T22:33:36Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-SILENT-STEEPLES-BLACK-DOUBLE-VINYL.png?v=1708117241
   Price: $35.00 USD
 - [Four Day Trials - Insomnia Vinyl](https://dispatchmerch.com/products/four-day-trials-insomnia-vinyl): Insomnia splatter vinylTRACKLIST: SIDE A1. What Do You Wanna Be2. Bullet Holes3. Wide Right Turns4. Here We Go5. Mission SIDE B6. Cover This7. Hubs8. Root Down9. Headlights Released 1999
-  Updated: 2026-09-12T20:46:56Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-FOUR-DAY-TRIALS-COLORED-VINYL.png?v=1708117352
   Price: $35.00 USD
 - [Four Day Trials - Black Vinyl](https://dispatchmerch.com/products/four-day-trials-black-vinyl): Standard black vinylTRACKLIST: SIDE A1. What Do You Wanna Be2. Bullet Holes3. Wide Right Turns4. Here We Go5. Mission SIDE B6. Cover This7. Hubs8. Root Down9. Headlights Released 1999
-  Updated: 2026-08-23T22:37:26Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-FOUR-DAY-TRIALS-BLACK-VINYL.png?v=1708117492
   Price: $35.00 USD
 - [Live From The Boston Woods - Limited Edition Vinyl](https://dispatchmerch.com/products/live-from-the-woods-vinyl): 2x LP Standard black vinylTRACKLIST: SIDE APasserbyBreak Our FallOpen UpOnly the Wild OnesSIDE BPainted Yellow LinesBang BangPast The FallsSIDE COutloud feat. G. LoveFlying HorsesLookin’ Out My Back DoorEliasSIDE DCame For The FireThe General feat. Jerry DePizzo and Jon LampleyIt’s the End of the World As We Know It (and I Feel Fine) feat. O.A.R., G. LoveLetter to Lady J feat. O.A.R., G. Love Released 2023
-  Updated: 2026-09-09T00:55:26Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LFTW.png?v=1708117774
   Price: $35.00 USD
 - [America Location 12 - CD](https://dispatchmerch.com/products/america-location-12-cd): TRACKLIST:1. Be Gone2. Only The Wild Ones3. Curse + Crush4. Painted Yellow Lines5. Skin The Rabbit6. Midnight Lorry7. Begin Again8. Rice Water9. Windylike10. Ghost Town11. Atticus Cobain
-  Updated: 2026-09-04T15:26:07Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AMERICA-LOCATION12-CD3.png?v=1708967415
   Price: $12.00 USD
 - [Circles Around The Sun - Limited Edition Red Vinyl](https://dispatchmerch.com/products/circles-around-the-sun-red-vinyl): 180-gram red vinyl with hardcover bound book featuring photographs from the studio, and includes CD version inside. TRACKLIST:1. Circles Around The Sun2. Not Messin3. Get Ready Boy4. Sign Of The Times5. Josaphine6. Flag7. Come To Me8. Never Or Now9. We Hold A Gun10. Feels So Good
-  Updated: 2026-09-12T20:46:57Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CIRCLESAROUNDTHESUN-DELUXE-VINYL.png?v=1708967624
   Price: $35.00 USD
 - [Live 18 - Triple Deluxe Vinyl](https://dispatchmerch.com/products/live-18-triple-deluxe-vinyl): Dispatch LIVE 18 Deluxe Triple Vinyl featuring blue, purple and black vinyl. Full color, gatefold packaging.TRACKLIST: SIDE A1. Time Served2. So Good3. Open Up4. Beto SIDE B5. Curse + Crush6. Bang Bang7. Skin the Rabbit8. Rice Water SIDE C9. Uncle John’s Band10. Only the Wild Ones11. Bats in the Belfry12. Fallin’ SIDE D13. Flag (feat. Tim Snider)14. Elias15. Midnight Lorry SIDE E16. Painted Yellow Lines17. Came for the Fire18. The General SIDE F19. Outloud / Don’t Let Me Down (feat. Raye Zaragoza & Nahko)20. Letter to Lady J (feat Nahko and  For the People & Raye Zaragoza)21. Here We Go (feat. Rashawn Ross)
-  Updated: 2026-09-12T20:46:57Z
+  Updated: 2026-10-21T17:01:56Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/Dispatch_Live_18.png?v=1708968297
   Price: $35.00 USD
 - [Who Are We Living For - Pink Vinyl](https://dispatchmerch.com/products/who-are-we-living-for-pink-vinyl): 2x LP pink vinylTRACKLIST: SIDE A1. Everybody Clap2. Open Up3. Just Like Larry4. Time Served5. Even SIDE B6. Passerby7. Carry You8. D. Bits9. How Now10. Lightning SIDE C11. Granite12. Prince of Spades13. Parade Speed14. Headlights15. Blood SIDE D16. 10ft, 5ft Bag ‘em17. Douggie Mayu’s18. Gone19. Spades (Acoustic)20. 5 / 4
-  Updated: 2026-09-28T16:29:01Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-WHO-ARE-WE-LIVING-FOR-PINK-VINYL.png?v=1708968883
   Price: $35.00 USD
 - [Who Are We Living For - Black Vinyl](https://dispatchmerch.com/products/who-are-we-living-for-black-vinyl): 2x LP Standard black vinylTRACKLIST: SIDE A1. Everybody Clap2. Open Up3. Just Like Larry4. Time Served5. Even SIDE B6. Passerby7. Carry You8. D. Bits9. How Now10. Lightning SIDE C11. Granite12. Prince of Spades13. Parade Speed14. Headlights15. Blood SIDE D16. 10ft, 5ft Bag ‘em17. Douggie Mayu’s18. Gone19. Spades (Acoustic)20. 5 / 4
-  Updated: 2026-09-13T22:13:48Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-WHO-ARE-WE-LIVING-FOR-BLACK-VINYL.png?v=1708972300
   Price: $35.00 USD
 - [Live 18 - CD](https://dispatchmerch.com/products/live-18-cd): CD Features:- Featuring select live recordings Dispatch's 2018 North American Tour- Double CD's nested in Deluxe Gatefold PackagingTRACKLIST: DISC 11. Time Served (Live)2. So Good (Live)3. Open Up (Live)4. Beto (Live)5. Curse + Crush (Live)6. Bang Bang (Live)7. Skin the Rabbit (Live)8. Rice Water (Live)9. Uncle John's Band (Live)10. Only The Wild Ones (Live)11. Bats in the Belfry (Live)DISC 212. Fallin' (Live)13. Flag (Live) [feat. Tim Snider]14. Elias (Live)15. Midnight Lorry (Live)16. Painted Yellow Lines (Live)17. Came for the Fire (Live)18. The General (Live)19. Outloud / Don't Let Me Down (Live) [feat. Raye Zaragoza, Nahko]20. Letter to Lady J (Live) [feat. Nahko and  for the People, Raye Zaragoza]21. Here We Go (Live) [feat. Rashawn Ross]
-  Updated: 2026-08-04T21:18:16Z
+  Updated: 2026-10-22T15:18:44Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LIVE-18-DOUBLE-CD.png?v=1708974385
   Price: $14.00 USD
 - [Location 13 - CD](https://dispatchmerch.com/products/location-13-cd): TRACKLIST: 1. Cross The World2. Daft Alchemist3. London Daughters4. So Good5. Black Land Prairie6. Came For The Fire7. Letter to Lady J8. Don Juan Tango9. Follow I The River10. Prisoner’s Visitor11. Dear Congress12. Born & Razed13. One Word Of A Lie
-  Updated: 2026-07-17T19:10:56Z
+  Updated: 2026-10-22T15:16:35Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LOCATION-13-CD.png?v=1708974989
   Price: $13.00 USD
 - [Break Our Fall Bandana](https://dispatchmerch.com/products/break-our-fall-bandana): Break Our Fall multicolored tie dye bandana. 22" x 22" inches 100% Cotton
-  Updated: 2026-08-21T20:17:17Z
+  Updated: 2026-10-05T13:03:47Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallBandana.png?v=1710520140
   Price: $10.00 USD
 - [Patch Beanie](https://dispatchmerch.com/products/dispatch-beanie): Dispatch beanie in black with woven label. Made in the USA. 100% Acrylic
-  Updated: 2026-08-21T13:55:06Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchBeanie.png?v=1710520170
   Price: $20.00 USD
 - [Summer Stops '19 Trucker Hat](https://dispatchmerch.com/products/summer-stops-2019-trucker-hat): Summer Stops '19 5-panel trucker hat. Made from recycled bottles. 50% polyester, 50% cottonAdjustable snapback closure, one size fits all
-  Updated: 2026-08-21T23:54:51Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/SummerStops2019TruckerHatfront3.png?v=1710520356
   Price: $15.00 USD
 - [Enamel Pin Set](https://dispatchmerch.com/products/dispatch-enamel-pin-set): Custom Dispatch enamel pin set and printed backing card. Silver pin clutches Dimensions:- Owl: 2" x 1"- Bison: 1 1/4" x 1"- Dispatch 2019: 1 1/4" x 1"
-  Updated: 2026-09-18T18:02:05Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchEnamelPinSet.png?v=1710520609
   Price: $10.00 USD
 - [Dispatch Vinyl Slipmat](https://dispatchmerch.com/products/dispatch-slipmat): 12" double sided felt slipmat.
-  Updated: 2026-09-07T20:57:46Z
+  Updated: 2026-10-16T17:03:55Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchSlipmat.png?v=1710520869
   Price: $10.00 USD
 - [Logo Tumbler](https://dispatchmerch.com/products/dispatch-logo-tumbler): Copper logo tumbler that includes a vacuum sealed push-on lid with slide closure and reusable straw included. 22 oz.
-  Updated: 2026-09-07T01:37:35Z
+  Updated: 2026-10-05T13:03:50Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchLogoTumbler.png?v=1710520889
   Price: $10.00 USD
 - [Lightning Water Bottle](https://dispatchmerch.com/products/dispatch-water-bottle): Lightning water bottle with detachable lid. 16 oz.
-  Updated: 2026-09-07T01:37:35Z
+  Updated: 2026-10-05T13:03:50Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchWaterBottle.png?v=1710520910
   Price: $15.00 USD
 - [Break Our Fall Tee](https://dispatchmerch.com/products/break-our-fall-t-shirt): Break Our Fall tee in deep charcoal or black. Deep Charcoal- 100% Cotton / Black- 65% Polyester, 35% Cotton
-  Updated: 2026-09-28T01:59:03Z
+  Updated: 2026-10-17T12:36:46Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -184,7 +184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
     Price: $20.00 USD
 - [Rainbow Butterfly Tee](https://dispatchmerch.com/products/rainbow-butterfly-tee): Rainbow butterfly print on a black tee. 100% Cotton
-  Updated: 2026-08-26T14:31:11Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -208,7 +208,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Bomber Logo Crewneck Sweatshirt](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt): Dispatch logo crewneck in gray. Features raglan sleeves and soft material. 50% Polyester, 37.5% Cotton, 12.5% Rayon
-  Updated: 2026-09-25T05:36:07Z
+  Updated: 2026-10-17T12:36:52Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -229,7 +229,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Rainbow Tie Dye Tee](https://dispatchmerch.com/products/tie-dye-t-shirt): Dispatch rainbow tie dye tee with front print only. 100% Cotton
-  Updated: 2026-09-29T12:52:16Z
+  Updated: 2026-10-05T13:03:53Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -250,7 +250,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Rainbow Tee](https://dispatchmerch.com/products/rainbow-t-shirt): Dispatch rainbow print on navy tee. 100% Cotton
-  Updated: 2026-09-29T12:52:16Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -271,7 +271,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Tie-Dye Crewneck](https://dispatchmerch.com/products/tie-dye-crewneck): Tie-Dye Crewneck with lighting logo. 100% Cotton
-  Updated: 2026-09-18T16:28:43Z
+  Updated: 2026-10-05T13:03:54Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -292,14 +292,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Summer '22 Poster](https://dispatchmerch.com/products/summer-22-poster): Dispatch Summer '22 Poster.
-  Updated: 2026-09-10T14:58:00Z
+  Updated: 2026-10-05T13:03:54Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/D-Poster.png?v=1710522113
   Price: $10.00 USD
 - [Ranger Bear Tee](https://dispatchmerch.com/products/ranger-bear-tee): Ranger Bear Tee. 100% Cotton
-  Updated: 2026-09-10T02:52:11Z
+  Updated: 2026-10-11T19:36:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -317,20 +317,20 @@
     Availability: Not Available
     Price: $15.00 USD
   - [XXL](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492663869)
-    Availability: Available
+    Availability: Not Available
     Price: $15.00 USD
   - [XXXL](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102614036541)
     Availability: Available
     Price: $15.00 USD
 - [Location 13 - Tri-Colored Vinyl](https://dispatchmerch.com/products/location-13-tri-colored-vinyl): Location 13 available on a Tri-Colored Vinyl. TRACKLIST: Side A: 1. Cross The World2. Daft Alchemist3. London Daughters4. So Good5. Black Land Prairie Side B: 6. Came For The Fire7. Letter to Lady J8. Don Juan Tango9. Follow I The River10. Prisoner’s Visitor11. Dear Congress (17)
-  Updated: 2026-09-12T20:46:57Z
+  Updated: 2026-10-20T15:35:35Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LOCATION-13-VINYL.png?v=1715182566
   Price: $35.00 USD
 - [Summer Stops '24 Tee](https://dispatchmerch.com/products/summer-stops-24-tee): Summer Stops '24 Tee, front print only. 100% Cotton
-  Updated: 2026-08-22T01:14:12Z
+  Updated: 2026-10-05T13:03:56Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -354,7 +354,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Retro Hoodie](https://dispatchmerch.com/products/circle-hoodie): Retro Hoodie in cream with front pocket and drawstring 100% Cotton
-  Updated: 2026-09-18T16:28:41Z
+  Updated: 2026-10-05T13:03:56Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -378,42 +378,42 @@
     Availability: Available
     Price: $30.00 USD
 - [Retro Beanie](https://dispatchmerch.com/products/circle-beanie): Retro Beanie with patch
-  Updated: 2026-09-21T16:49:15Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CIRCLE-BEANIE-NAVY-2024.png?v=1722527853
   Price: $15.00 USD
 - [Circles Around The Sun - CD](https://dispatchmerch.com/products/circles-around-the-sun-cd): Standard CD. TRACKLIST:1. Circles Around The Sun2. Not Messin3. Get Ready Boy4. Sign Of The Times5. Josaphine6. Flag7. Come To Me8. Never Or Now9. We Hold A Gun10. Feels So Good
-  Updated: 2026-07-16T23:01:16Z
+  Updated: 2026-10-05T13:03:57Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CATS-CD.png?v=1739222647
   Price: $10.00 USD
 - [Gut The Van - CD](https://dispatchmerch.com/products/gut-the-van-cd): This is a Standard CD. TRACKLIST: Disc 1 – "Peg" 1. Open Up (Recorded on April 28, 2001 at Merrimack College, MA)2. Passerby (Recorded on June 16–17, 2001 at Irving Plaza, NYC)3. Cut It Ya Match It (Recorded on June 16–17, 2001 at Irving Plaza, NYC)4. Lightning (Recorded on June 8, 2001 at Fleet Boston Pavilion, MA)5. Out Loud (Recorded on June 16–17, 2001 at Irving Plaza, NYC)6. Even (Recorded on April 28, 2001 at Merrimack College, MA)7. Prince of Spades (Recorded on June 14, 2001 at The Electric Factory in Philadelphia, PA)8. Flying Horses (Recorded on June 9, 2001 at the 9:30 Club in Washington, DC)9. 5/4 Here We Go (Recorded on June 8, 2001 at Fleet Boston Pavilion, MA)10. Bullet Holes (Recorded on June 8, 2001 at Fleet Boston Pavilion, MA)11. Bats in the Belfry (Recorded on June 16–17, 2001 at Irving Plaza, NYC)12. The General (Recorded on April 28, 2001 at Merrimack College, MA) Disc 2 – "Wimpy" 1. Elias (Recorded on April 7, 2001 at The Electric Factory in Philadelphia, PA)2. Cover This (Recorded on February 24–25, 2001 at Irving Plaza, NYC)3. Steeples (Recorded on April 16, 1996 at Middlebury College, VT)4. Two Coins (Recorded on April 12, 2001 at Lupo's in Providence, RI)5. Bang Bang (Recorded on April 12, 2001 at Lupo's in Providence, RI)6. Railway (Recorded on April 12, 2001 at Lupo's in Providence, RI)7. Questioned Apocalypse (Recorded on February 24–25, 2001 at Irving Plaza, NYC)8. Water Stop (Recorded on February 24–25, 2001 at Irving Plaza, NYC)9. Carry You (Recorded on March 24, 2001 at Norva in Norfolk, VA)10. Mission (Recorded on April 7, 2001 at The Electric Factory in Philadelphia, PA)11. Time Served (Recorded on April 28, 2001 at Merrimack College, MA)
-  Updated: 2026-09-03T13:54:18Z
+  Updated: 2026-10-05T13:03:58Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-GUT-THE-VAN-CD.png?v=1739222640
   Price: $10.00 USD
 - [Dispatch EP - CD](https://dispatchmerch.com/products/dispatch-ep-cd): Standard CD. Tracklist: Melon Bend Con Man Valentine Beto Broken American Turn This Ship Around Released May 2011
-  Updated: 2026-08-24T22:02:49Z
+  Updated: 2026-10-05T13:03:58Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-EP-CD.png?v=1739222630
   Price: $10.00 USD
 - [Dispatch  Fold-Up Blanket](https://dispatchmerch.com/products/dispatch-blanket): Large Dispatch Blanket that folds up so it is easy to take from show to show! 45 x 52 in / Thin blanket
-  Updated: 2026-09-21T16:49:16Z
+  Updated: 2026-10-13T02:43:17Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CLOSED-BLANKET.png?v=1729719778
   Price: $10.00 USD
 - [Amplifying Democracy Tee](https://dispatchmerch.com/products/amplifying-democracy-tee): Amplifying Democracy Tour Tee, now available online! 100% Cotton
-  Updated: 2026-09-01T21:04:18Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -437,42 +437,42 @@
     Availability: Available
     Price: $15.00 USD
 - [Amplifying Democracy Tote](https://dispatchmerch.com/products/amplifying-democracy-tote): Amplifying Democracy canvas tote bag!
-  Updated: 2026-09-08T03:50:05Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-TOTE.png?v=1730125147
   Price: $10.00 USD
 - [Amplifying Democracy Button](https://dispatchmerch.com/products/amplifying-democracy-button): Amplifying Democracy button! 2.5 x 2.5 in
-  Updated: 2026-08-24T22:00:22Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-TEE-BUTTON.png?v=1730125312
   Price: $2.50 USD
 - [Amplifying Democracy Sticker](https://dispatchmerch.com/products/amplifying-democracy-sticker): Amplifying Democracy sticker! 3 x 3.5 in
-  Updated: 2026-09-19T12:32:06Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-STICKER.png?v=1730125381
   Price: $2.50 USD
 - [Ranger Bear Koozie](https://dispatchmerch.com/products/ranger-bear-koozie): Ranger Bear doubled sided koozie in green. 12 oz koozie
-  Updated: 2026-09-29T12:52:16Z
+  Updated: 2026-10-05T13:04:01Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-RANGER-BEAR-KOOZIE.png?v=1731953927
   Price: $5.00 USD
 - [Patch Party Bottle Opener](https://dispatchmerch.com/products/patch-party-bottle-opener): Patch Party Bottle Opener in orange. 7 in x 1 5/8 in
-  Updated: 2026-08-29T20:16:37Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-BOTTLE-OPENER-2024.png?v=1731953448
   Price: $7.00 USD
 - [Patch Party Tee](https://dispatchmerch.com/products/patch-party-tee): Patch Party Tee in white with front print only. 100% Cotton / Bella Canvas Tee
-  Updated: 2026-08-30T22:58:25Z
+  Updated: 2026-10-16T17:03:57Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -493,35 +493,35 @@
     Availability: Available
     Price: $15.00 USD
 - [Yellow Jacket - CD [SIGNED]](https://dispatchmerch.com/products/yellow-jacket-cd): Standard CD + SIGNED art card. Tracklist: 1. Yellow Jacket 2. Whisk Me Away 3. Trinket (ft. John Butler) 4. The Night Young 5. Everyone's In The Street (ft. Ani DiFranco) 6. Johnny Whoops 7. Flood 8. The Moon and the Seven Seas 9. Hush Money 10. Tulsa Picnic 11. Darker Light Release Date: June 6, 2025 "Yellow Jacket" was recorded and produced almost entirely in Boston, together with the full band and Craig Welsch at Rear Window Studios. The 11-song collection of music harkens back to the infectious blend of reggae, ska and roots rock that built the band’s heralded career and dedicated fanbase.“For us, this album is a way to acknowledge what our culture is facing and the effects of the abuse of power. In this album, you’ll find the effects war has on family in 'Johnny Whoops,' the complexity and brilliance of Emily Dickinson’s words in 'Trinket (ft. John Butler),' and we pay homage to the great activists of our time alongside Ani DiFranco on 'In the Street,' as a reminder of how crucial it is to not sit back idly. But mostly, our goal with this album is for listeners to enjoy the tunes in whatever way, hopefully at times collectively, and in community.” - Chadwick Stokes
-  Updated: 2026-09-20T01:35:15Z
+  Updated: 2026-10-05T13:04:03Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH_YELLOW_JACKET_SIGNED_CD-6.png?v=1746018959
   Price: $9.99 USD
 - [Yellow Jacket - Standard Black Vinyl](https://dispatchmerch.com/products/yellow-jacket-vinyl): Standard vinyl Each vinyl includes a double sided 11x17 lyric poster. Tracklist: Side A 1. Yellow Jacket 2. Whisk Me Away 3. Trinket (ft. John Butler) 4. The Night Young 5. Everyone's In The Street (ft. Ani DiFranco) 6. Johnny Whoops Side B 7. Flood 8. The Moon and the Seven Seas 9. Hush Money 10. Tulsa Picnic 11. Darker Light Release Date: June 6, 2025 "Yellow Jacket" was recorded and produced almost entirely in Boston, together with the full band and Craig Welsch at Rear Window Studios. The 11-song collection of music harkens back to the infectious blend of reggae, ska and roots rock that built the band’s heralded career and dedicated fanbase.“For us, this album is a way to acknowledge what our culture is facing and the effects of the abuse of power. In this album, you’ll find the effects war has on family in 'Johnny Whoops,' the complexity and brilliance of Emily Dickinson’s words in 'Trinket (ft. John Butler),' and we pay homage to the great activists of our time alongside Ani DiFranco on 'In the Street,' as a reminder of how crucial it is to not sit back idly. But mostly, our goal with this album is for listeners to enjoy the tunes in whatever way, hopefully at times collectively, and in community.” - Chadwick Stokes
-  Updated: 2026-08-24T21:54:47Z
+  Updated: 2026-10-05T13:04:03Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH_YELLOW_JACKET_BLACK_VINYL.png?v=1746023402
   Price: $35.00 USD
 - [Yellow Jacket - Tour Edition "Black and Yellow" Vinyl](https://dispatchmerch.com/products/yellow-jacket-tour-exclusive-black-and-yellow-vinyl): TOUR EDITION "Black and Yellow" Vinyl Each vinyl includes a double sided 11x17 lyric poster. Tracklist: Side A 1. Yellow Jacket 2. Whisk Me Away 3. Trinket (ft. John Butler) 4. The Night Young 5. Everyone's In The Street (ft. Ani DiFranco) 6. Johnny Whoops Side B 7. Flood 8. The Moon and the Seven Seas 9. Hush Money 10. Tulsa Picnic 11. Darker Light Release Date: June 6, 2025 "Yellow Jacket" was recorded and produced almost entirely in Boston, together with the full band and Craig Welsch at Rear Window Studios. The 11-song collection of music harkens back to the infectious blend of reggae, ska and roots rock that built the band’s heralded career and dedicated fanbase.“For us, this album is a way to acknowledge what our culture is facing and the effects of the abuse of power. In this album, you’ll find the effects war has on family in 'Johnny Whoops,' the complexity and brilliance of Emily Dickinson’s words in 'Trinket (ft. John Butler),' and we pay homage to the great activists of our time alongside Ani DiFranco on 'In the Street,' as a reminder of how crucial it is to not sit back idly. But mostly, our goal with this album is for listeners to enjoy the tunes in whatever way, hopefully at times collectively, and in community.” - Chadwick Stokes
-  Updated: 2026-08-27T23:54:37Z
+  Updated: 2026-10-05T13:04:04Z
   Vendor: Dispatch
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCHTOURYELLOWJACKETVINYL.png?v=1748030445
   Price: $35.00 USD
 - [Yellow Jacket - CD](https://dispatchmerch.com/products/yellow-jacket-cd-1): Standard CD Tracklist: 1. Yellow Jacket 2. Whisk Me Away 3. Trinket (ft. John Butler) 4. The Night Young 5. Everyone's In The Street (ft. Ani DiFranco) 6. Johnny Whoops 7. Flood 8. The Moon and the Seven Seas 9. Hush Money 10. Tulsa Picnic 11. Darker Light Release Date: June 6, 2025 "Yellow Jacket" was recorded and produced almost entirely in Boston, together with the full band and Craig Welsch at Rear Window Studios. The 11-song collection of music harkens back to the infectious blend of reggae, ska and roots rock that built the band’s heralded career and dedicated fanbase.“For us, this album is a way to acknowledge what our culture is facing and the effects of the abuse of power. In this album, you’ll find the effects war has on family in 'Johnny Whoops,' the complexity and brilliance of Emily Dickinson’s words in 'Trinket (ft. John Butler),' and we pay homage to the great activists of our time alongside Ani DiFranco on 'In the Street,' as a reminder of how crucial it is to not sit back idly. But mostly, our goal with this album is for listeners to enjoy the tunes in whatever way, hopefully at times collectively, and in community.” - Chadwick Stokes
-  Updated: 2026-08-24T21:51:47Z
+  Updated: 2026-10-05T13:04:05Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCHYELLOWJACKETCD.png?v=1749158750
   Price: $8.99 USD
 - [Yellow Jacket Tee - Black](https://dispatchmerch.com/products/yellow-jacket-tee-black): Dispatch Yellow Jacket Tee in back with front print only. 100% combed ring-spun cotton
-  Updated: 2026-09-27T12:04:47Z
+  Updated: 2026-10-05T13:04:05Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -542,7 +542,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Summer Tour Tee](https://dispatchmerch.com/products/summer-tour-tee): Dispatch Summer Tour Tee in "natural" with front and back print. 100% combed ring-spun cotton
-  Updated: 2026-09-14T01:12:47Z
+  Updated: 2026-10-13T22:23:26Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
@@ -563,35 +563,35 @@
     Availability: Available
     Price: $15.00 USD
 - [Microphone Sticker - Orange](https://dispatchmerch.com/products/microphone-sticker-orange): Approx 4 x 4 inches
-  Updated: 2026-09-20T01:35:15Z
+  Updated: 2026-10-17T12:36:55Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPMICSTICKER_0b61f065-17cb-4da3-92ec-f42df7a4d119.png?v=1756392224
   Price: $2.50 USD
 - [Charleston, SC Poster [SIGNED]](https://dispatchmerch.com/products/charleston-sc-poster): Limited quantities available. 18 x 24 in
-  Updated: 2026-09-21T16:49:16Z
+  Updated: 2026-10-05T13:04:08Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPCHARLESTONPOSTER.png?v=1756315142
   Price: $20.00 USD
 - [Live From The Boston Woods - Lumberjack Vinyl](https://dispatchmerch.com/products/live-from-the-boston-woods-lumberjack-edition-vinyl): 30th Anniversary Edition Live From The Boston Woods - Lumberjack Edition 2 LP in “Evergreen” and “Stump Brown". This repress is excluded from the Dispatch30 Vinyl . TRACKLIST: SIDE APasserbyBreak Our FallOpen UpOnly the Wild OnesSIDE BPainted Yellow LinesBang BangPast The FallsSIDE COutloud feat. G. LoveFlying HorsesLookin’ Out My Back DoorEliasSIDE DCame For The FireThe General feat. Jerry DePizzo and Jon LampleyIt’s the End of the World As We Know It (and I Feel Fine) feat. O.A.R., G. LoveLetter to Lady J feat. O.A.R., G. Love
-  Updated: 2026-09-28T22:14:06Z
+  Updated: 2026-10-16T21:00:09Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCHLFTWREPRESS.png?v=1783016598
   Price: $35.00 USD
 - [Bang Bang - Blended Citrus Vinyl](https://dispatchmerch.com/products/bang-bang-blended-citrus-vinyl): Limited Edition Bang Bang Vinyl in "Blended Citrus" TRACKLIST: SIDE A1. Here We Go2. Bats In The Belfry3. The General4. Bang Bang5. Mission SIDE B6. Drive7. Two Coins8. Railway9. Whirlwind10. Out Loud
-  Updated: 2026-09-28T02:18:00Z
+  Updated: 2026-10-22T15:26:17Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPBANGBANGBLENDEDCITRUS.png?v=1783016929
   Price: $30.00 USD
 - [Location 13 - Red Vinyl](https://dispatchmerch.com/products/location-13-red-vinyl): Location 13 on Red Vinyl from Chad's Garage, currently out of print. Packaging and shrink wrap conditions may slightly vary. Only 7 vinyl available. White 7" included. TRACKLIST: Side A: 1. Cross The World2. Daft Alchemist3. London Daughters4. So Good5. Black Land Prairie Side B: 6. Came For The Fire7. Letter to Lady J8. Don Juan Tango9. Follow I The River10. Prisoner’s Visitor11. Dear Congress (17)
-  Updated: 2026-08-26T14:28:36Z
+  Updated: 2026-10-05T13:04:09Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -601,31 +601,31 @@
 ## Collections
 
 - [Apparel](https://dispatchmerch.com/collections/apparel)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 37
 - [Accessories](https://dispatchmerch.com/collections/accessories)
-  Updated: 2026-09-22T11:14:43Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 52
 - [Hats](https://dispatchmerch.com/collections/hats)
   Updated: 2026-07-08T21:40:16Z
   Total Products: 0
 - [All Music](https://dispatchmerch.com/collections/music)
-  Updated: 2026-09-29T11:14:03Z
+  Updated: 2026-10-22T11:20:44Z
   Total Products: 43
 - [CDs](https://dispatchmerch.com/collections/cds)
   Updated: 2026-09-20T11:14:34Z
   Total Products: 9
 - [Featured](https://dispatchmerch.com/collections/featured)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 21
 - [Garage ](https://dispatchmerch.com/collections/)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-14T11:40:21Z
   Total Products: 22
 - [Amplifying Democracy Collection](https://dispatchmerch.com/collections/amplifying-democracy-collection)
-  Updated: 2026-09-20T11:14:34Z
+  Updated: 2026-10-14T11:40:21Z
   Total Products: 4
 - [Winter Gear Collection](https://dispatchmerch.com/collections/winter-gear-collection)
-  Updated: 2026-09-25T11:17:15Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 14
 - [The Yellow Jacket Album Collection](https://dispatchmerch.com/collections/yellow-jacket-album-collection)
   Updated: 2026-09-20T11:14:34Z
@@ -634,55 +634,55 @@
   Updated: 2026-09-20T11:14:34Z
   Total Products: 5
 - [Tour Essentials](https://dispatchmerch.com/collections/tour-essentials)
-  Updated: 2026-09-22T11:14:43Z
+  Updated: 2026-10-13T11:12:53Z
   Total Products: 10
 - [Vinyl](https://dispatchmerch.com/collections/vinyl)
-  Updated: 2026-09-29T11:14:03Z
+  Updated: 2026-10-22T11:20:44Z
   Total Products: 30
 - [Summer Tour Collection](https://dispatchmerch.com/collections/summer-tour-collection)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 15
 - [All](https://dispatchmerch.com/collections/all)
-  Updated: 2026-09-29T11:14:03Z
+  Updated: 2026-10-22T11:20:44Z
   Total Products: 129
 - [4th of July ](https://dispatchmerch.com/collections/4th-of-july-)
-  Updated: 2026-09-20T11:14:34Z
+  Updated: 2026-10-14T11:40:21Z
   Total Products: 10
 - [UPSELL](https://dispatchmerch.com/collections/upsell)
-  Updated: 2026-09-20T11:14:34Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 4
 - [Black Friday ](https://dispatchmerch.com/collections/black-friday-)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 48
 - [$20.25 Tees](https://dispatchmerch.com/collections/20-25-tees)
-  Updated: 2026-09-14T11:15:43Z
+  Updated: 2026-10-14T11:40:21Z
   Total Products: 4
 - [$5 and Below Collection](https://dispatchmerch.com/collections/5-and-below-collection)
-  Updated: 2026-09-20T11:14:34Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 9
 - [$10 Collection](https://dispatchmerch.com/collections/10-collection)
-  Updated: 2026-09-22T11:14:43Z
+  Updated: 2026-10-14T11:40:21Z
   Total Products: 13
 - [$15 Collection](https://dispatchmerch.com/collections/15-collection)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 12
 - [$25 and Above Collection](https://dispatchmerch.com/collections/25-and-above-collection)
-  Updated: 2026-09-25T11:17:15Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 6
 - [SPRING CLEANING ](https://dispatchmerch.com/collections/spring-cleaning-)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 42
 - [DISPATCH30](https://dispatchmerch.com/collections/dispatch30)
-  Updated: 2026-09-29T11:14:03Z
+  Updated: 2026-10-22T11:20:44Z
   Total Products: 2
 - [From the Garage](https://dispatchmerch.com/collections/from-the-garage)
-  Updated: 2026-08-31T17:24:10Z
+  Updated: 2026-10-03T11:23:40Z
   Total Products: 11
 - [VINYL ](https://dispatchmerch.com/collections/vinyl-)
-  Updated: 2026-09-29T11:14:03Z
+  Updated: 2026-10-22T11:20:44Z
   Total Products: 14
 - [90's Pricing ](https://dispatchmerch.com/collections/90s-pricing-)
-  Updated: 2026-09-28T11:13:25Z
+  Updated: 2026-10-18T11:14:57Z
   Total Products: 41
 
 ## Store Pages
@@ -697,15 +697,15 @@
 ## Policies
 
 - [Privacy Policy](https://dispatchmerch.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:35:55-05:00
+  Updated: 2026-06-19T15:35:55Z
 - [Shipping Policy](https://dispatchmerch.com/policies/shipping-policy)
-  Updated: 2024-02-22T13:52:12-06:00
+  Updated: 2024-02-22T19:52:12Z
 - [Refund Policy](https://dispatchmerch.com/policies/refund-policy)
-  Updated: 2026-06-19T10:36:05-05:00
+  Updated: 2026-06-19T15:36:05Z
 - [Terms of Service](https://dispatchmerch.com/policies/terms-of-service)
-  Updated: 2024-02-22T13:52:12-06:00
+  Updated: 2024-02-22T19:52:12Z
 - [Contact Information](https://dispatchmerch.com/policies/contact-information)
-  Updated: 2024-02-22T13:52:12-06:00
+  Updated: 2024-02-22T19:52:12Z
 
 ## Optional
 
