@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-08-11T00:00:42.940Z
+- Updated At: 2026-10-23T00:59:47.962Z
 
 ## Collections
 
@@ -90,11 +90,19 @@
     Updated: 2026-08-04T06:01:24Z
     Author: -Crafted Editorial Team
     Tags: ai, ai for wholesale distribution, ai implementation for distributors, ai in distribution, automation, business process automation, distributor automation, distributor technology, logistics, operational efficiency, operational efficiency wholesale, supply chain, wholesale distribution ai
+  - [Addressing Distribution Challenges through AI Solutions](https://-crafted.com/blogs/-crafted-journal/addressing-distribution-challenges-through-ai-solutions): Addressing Distribution Challenges through AI Solutions
+    Updated: 2026-08-11T06:01:26Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in distribution, ai solutions for wholesalers, business process automation, distribution, distributor automation, inventory management, logistics, operational efficiency wholesale, supply chain, wholesale distribution ai, wholesale solutions
+  - [Business Process Enhancements in Distribution via AI](https://-crafted.com/blogs/-crafted-journal/business-process-enhancements-in-distribution-via-ai): Business Process Enhancements in Distribution via AI
+    Updated: 2026-08-18T06:01:28Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in wholesale, automation, business process automation, distribution, distributor automation, inventory management, operational efficiency wholesale, process improvement, supply chain, wholesale distribution ai, wholesale distribution solutions
 
 ## Policies
 
 - [Privacy Policy](https://-crafted.com/policies/privacy-policy)
-  Updated: 2025-04-06T21:56:49-07:00
+  Updated: 2025-04-07T04:56:49Z
 
 ## Optional
 
