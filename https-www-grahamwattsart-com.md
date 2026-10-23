@@ -8,7 +8,7 @@
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
 - Address: 1704 Charles Street, Vancouver, BC 
-- Updated At: 2026-10-07T05:30:13.041Z
+- Updated At: 2026-10-23T00:52:31.834Z
 
 ## Products
 
@@ -583,13 +583,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.grahamwattsart.com/policies/privacy-policy)
-  Updated: 2026-03-24T14:46:37-07:00
+  Updated: 2026-03-24T21:46:37Z
 - [Refund Policy](https://www.grahamwattsart.com/policies/refund-policy)
-  Updated: 2026-07-06T10:23:43-07:00
+  Updated: 2026-07-06T17:23:43Z
 - [Terms of Service](https://www.grahamwattsart.com/policies/terms-of-service)
-  Updated: 2026-03-30T15:53:07-07:00
+  Updated: 2026-03-30T22:53:07Z
 - [Contact Information](https://www.grahamwattsart.com/policies/contact-information)
-  Updated: 2026-03-24T14:48:19-07:00
+  Updated: 2026-03-24T21:48:19Z
 
 ## Optional
 
