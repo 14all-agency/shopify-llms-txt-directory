@@ -6,82 +6,82 @@
 - Timezone: Europe/Vilnius
 - Created At: 2024-10-31T17:49:19Z
 - Contact Email: hello@ciatau.com
-- Updated At: 2026-07-23T21:05:37.558Z
+- Updated At: 2026-10-23T01:07:05.018Z
 
 ## Products
 
-- [Beige Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-beige-silk-scarf): Beige 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hypoallergenic, hand-hemmed, gift-ready packaging.
-  Updated: 2026-07-22T15:00:51Z
+- [Beige Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-beige-silk-scarf): Beige 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hand-hemmed, gift-ready packaging.
+  Updated: 2026-10-18T18:19:55Z
   Vendor: CIATAU
   Product Type: Silk Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Large_Beige_Silk_Scarf_Folded_CIATAU.jpg?v=1784721435
   Price: €80.00 EUR
-- [Blue Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/blue-folk-pattern-silk-ribbon-scarf): Original Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T13:08:49Z
+- [Blue Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/blue-folk-pattern-silk-ribbon-scarf): Blue Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem, gift-ready.
+  Updated: 2026-09-03T09:56:20Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Blue_Folk_Pattern_Ribbon_Scarf_CIATAU.jpg?v=1784725370
   Price: €35.00 EUR
-- [Lilac Baltic Sashes Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/lilac-baltic-sashes-silk-ribbon-scarf): Authentic Baltic sash pattern on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T12:54:42Z
+- [Lilac Baltic Sashes Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/lilac-baltic-sashes-silk-ribbon-scarf): Lilac Baltic sash pattern on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem.
+  Updated: 2026-09-03T09:58:11Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Lilac_Baltic_Sashes_Design_Ribbon_Scarf_CIATAU.jpg?v=1784708926
   Price: €35.00 EUR
-- [Pink Watercolor Silk Ribbon, Hand-Hemmed 100% Silk | CIATAU](https://ciatau.com/products/pink-watercolor-design-silk-ribbon-scarf): Hand-painted watercolor design on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T13:05:07Z
+- [Pink Watercolor Silk Ribbon, Hand-Hemmed 100% Silk | CIATAU](https://ciatau.com/products/pink-watercolor-design-silk-ribbon-scarf): Pink hand-painted watercolor design on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem.
+  Updated: 2026-09-03T09:59:58Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Pink_Watercolor_Ribbon_Scarf_CIATAU.jpg?v=1784725416
   Price: €35.00 EUR
-- [Royal Blue Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-royal-blue-silk-scarf): Royal Blue 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hypoallergenic, hand-hemmed, gift-ready packaging.
-  Updated: 2026-07-22T15:00:00Z
+- [Royal Blue Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-royal-blue-silk-scarf): Royal Blue 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hand-hemmed, gift-ready packaging.
+  Updated: 2026-10-18T18:14:27Z
   Vendor: CIATAU
   Product Type: Silk Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Large_Royal_Blue_Silk_Scarf_Folded_CIATAU.jpg?v=1784721754
   Price: €80.00 EUR
-- [Pink Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-pink-silk-scarf): Pink 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hypoallergenic, hand-hemmed, gift-ready packaging.
-  Updated: 2026-07-22T14:56:52Z
+- [Pink Silk Scarf with Gold Pendant | 100% Silk | CIATAU](https://ciatau.com/products/large-pink-silk-scarf): Pink 100% silk scarf (90x90cm / 35x35in) with an original Baltic motif and gold-plated pendant. Hand-hemmed, gift-ready packaging.
+  Updated: 2026-09-03T22:01:12Z
   Vendor: CIATAU
   Product Type: Silk Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Large_Pink_Silk_Scarf_Folded_CIATAU.jpg?v=1733248959
   Price: €80.00 EUR
-- [Blue Watercolor Silk Ribbon, Hand-Hemmed 100% Silk | CIATAU](https://ciatau.com/products/blue-watercolor-design-silk-ribbon-scarf): Hand-painted watercolor design on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T13:06:14Z
+- [Blue Watercolor Silk Ribbon, Hand-Hemmed 100% Silk | CIATAU](https://ciatau.com/products/blue-watercolor-design-silk-ribbon-scarf): Blue hand-painted watercolor design on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem.
+  Updated: 2026-10-18T18:14:30Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Blue_Watercolor_Ribbon_Scarf_CIATAU.jpg?v=1784725356
   Price: €35.00 EUR
-- [Pink Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/pink-folk-pattern-silk-ribbon-scarf): Original Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T13:07:30Z
+- [Pink Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/pink-folk-pattern-silk-ribbon-scarf): Pink Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem, gift-ready.
+  Updated: 2026-09-03T10:03:46Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Pink_Folk_Pattern_Ribbon_Scarf_CIATAU.jpg?v=1784725400
   Price: €35.00 EUR
-- [Latte Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/latte-folk-pattern-silk-ribbon-scarf): Original Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T13:09:40Z
+- [Latte Baltic Folk Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/latte-folk-pattern-silk-ribbon-scarf): Latte Baltic folk motif on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem, gift-ready.
+  Updated: 2026-09-06T11:22:56Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Latte_Folk_Pattern_Ribbon_Scarf_CIATAU.jpg?v=1784725385
   Price: €35.00 EUR
-- [Coral Baltic Sashes Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/coral-baltic-sashes-silk-ribbon-scarf): Authentic Baltic sash pattern on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-hemmed, gift-ready. Shop now.
-  Updated: 2026-07-22T12:54:09Z
+- [Coral Baltic Sashes Silk Ribbon, 100% Silk | CIATAU](https://ciatau.com/products/coral-baltic-sashes-silk-ribbon-scarf): Coral Baltic sash pattern on 100% silk. Style as a headband, ponytail wrap, or bag charm. 85x5cm / 34x2in, hand-sewn hem.
+  Updated: 2026-10-18T18:14:28Z
   Vendor: CIATAU
   Product Type: Silk Ribbon Scarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Coral_Baltic_Sashes_Design_Ribbon_Scarf_CIATAU.jpg?v=1784709231
   Price: €35.00 EUR
-- [CIATAU Gift Card](https://ciatau.com/products/ciatau-gift-card): Give the gift of timeless elegance with a CIATAU Silk Scarf Gift Card. Perfect for every occasion, this gift card allows your loved ones to choose from our exclusive collection of luxurious silk scarves and ribbon scarves, each inspired by rich Baltic heritage and crafted with meticulous attention to detail. Available in a range of denominations, it's the ultimate thoughtful gesture for someone special.
-  Updated: 2026-07-23T20:53:37Z
+- [Gift Card - Silk Scarves & Ribbon Scarves | CIATAU](https://ciatau.com/products/ciatau-gift-card): Give the gift of luxury Baltic-inspired silk. Redeemable on any CIATAU silk scarf or ribbon scarf. Available in multiple denominations.
+  Updated: 2026-10-18T18:14:30Z
   Vendor: CIATAU
   Product Type: 
   Availability: Available
@@ -104,44 +104,59 @@
 
 ## Collections
 
-- [Folk Pattern Silk Ribbon Scarves](https://ciatau.com/collections/folk-pattern-silk-ribbon-scarves): These folk-inspired silk ribbon scarves bring a modern take on traditional Baltic patterns. Made from 100% silk, each 85cm x 5cm scarf can be styled around the neck, as a headband, or as a bag accent.
-  Updated: 2026-07-22T08:19:48Z
+- [Folk Pattern Silk Ribbon Scarves](https://ciatau.com/collections/folk-pattern-silk-ribbon-scarves): Silk ribbon scarves with a modern take on traditional Baltic folk patterns. 100% silk, 85x5cm, styled as a headband, ponytail wrap, or bag charm.
+  Updated: 2026-09-07T11:19:27Z
   Total Products: 3
-- [Large Silk Scarves](https://ciatau.com/collections/large-silk-scarves): Crafted from 100% silk, CIATAU's large scarves (90cm x 90cm) feature an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch.
-  Updated: 2026-07-22T15:22:59Z
+- [Large Silk Scarves](https://ciatau.com/collections/large-silk-scarves): Large 90x90cm silk scarves with an exclusive Baltic folk pattern and gold-plated pendant. 100% silk, hand-sewn hem.
+  Updated: 2026-09-15T11:19:40Z
   Total Products: 3
-- [Baltic Sashes Pattern Silk Ribbon Scarves](https://ciatau.com/collections/baltic-sashes-pattern-silk-ribbon-scarves): Inspired by traditional Baltic sashes, these silk ribbon scarves (85cm x 5cm) merge heritage with contemporary style. Each scarf is designed for versatile styling, from a headscarf to a chic bag accessory.
-  Updated: 2026-07-22T08:21:32Z
+- [Baltic Sashes Pattern Silk Ribbon Scarves](https://ciatau.com/collections/baltic-sashes-pattern-silk-ribbon-scarves): Silk ribbon scarves inspired by traditional Baltic sashes. 100% silk, 85x5cm, merging heritage with contemporary style.
+  Updated: 2026-08-30T11:19:42Z
   Total Products: 2
-- [Watercolor Design Silk Ribbon Scarves](https://ciatau.com/collections/watercolor-design-silk-ribbon-scarves): These two silk ribbon scarves feature delicate watercolor artwork, creating a blend of elegance and art in wearable form. Each piece offers a soft, luxurious feel, ready to be worn as a neck scarf or accessory.
-  Updated: 2026-07-22T08:22:43Z
+- [Watercolor Design Silk Ribbon Scarves](https://ciatau.com/collections/watercolor-design-silk-ribbon-scarves): Silk ribbon scarves with delicate hand-painted watercolor artwork. 100% silk, 85x5cm, elegant and wearable as a neck scarf or accessory.
+  Updated: 2026-08-12T11:20:50Z
   Total Products: 2
+
+## Blogs
+
+- [News](https://ciatau.com/blogs/news): Silk care guides, styling ideas, and the stories behind our Baltic-inspired designs. From the CIATAU journal.
+  - [How to Care for a Silk Scarf | CIATAU](https://ciatau.com/blogs/news/how-to-care-for-a-silk-scarf-guide): How to Care for a Silk Scarf | CIATAU
+    Updated: 2026-08-30T23:01:14Z
+    Author: Justas Makauskas
+  - [5 Ways to Style a Silk Ribbon Scarf | CIATAU](https://ciatau.com/blogs/news/5-ways-to-style-a-silk-ribbon-scarf): 5 Ways to Style a Silk Ribbon Scarf | CIATAU
+    Updated: 2026-07-25T07:25:57Z
+    Author: Justas Makauskas
+  - [The Meaning Behind Baltic Folk Patterns | CIATAU](https://ciatau.com/blogs/news/the-meaning-behind-baltic-folk-patterns): The Meaning Behind Baltic Folk Patterns | CIATAU
+    Updated: 2026-07-25T07:27:15Z
+    Author: Justas Makauskas
+  - [How to Tie a Silk Scarf: 7 Ways | CIATAU](https://ciatau.com/blogs/news/how-to-tie-a-silk-scarf): How to Tie a Silk Scarf: 7 Ways | CIATAU
+    Updated: 2026-08-31T05:27:47Z
+    Author: CIATAU
+  - [What Is Silk? Mulberry Silk and Momme Weight | CIATAU](https://ciatau.com/blogs/news/what-is-silk-mulberry-vs-wild-silk): What Is Silk? Mulberry Silk and Momme Weight | CIATAU
+    Updated: 2026-09-01T18:31:43Z
+    Author: CIATAU
 
 ## Store Pages
 
-- [Contact Us](https://ciatau.com/pages/contact)
-  Updated: 2024-12-03T16:20:00Z
-- [Your Privacy Choices](https://ciatau.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T15:34:09Z
-- [About Us](https://ciatau.com/pages/about-us)
-  Updated: 2024-11-06T07:58:41Z
-- [FAQ](https://ciatau.com/pages/faq)
-  Updated: 2024-11-06T08:22:58Z
-- [Large Silk Scarf](https://ciatau.com/pages/large-silk-scarf)
-  Updated: 2024-11-07T08:44:18Z
+- [Contact Us | CIATAU](https://ciatau.com/pages/contact): 
+  Updated: 2026-07-25T08:09:43Z
+- [About Us | CIATAU](https://ciatau.com/pages/about-us): 
+  Updated: 2026-07-25T08:07:51Z
+- [Frequently Asked Questions | CIATAU](https://ciatau.com/pages/faq): 
+  Updated: 2026-07-25T08:06:22Z
 
 ## Policies
 
 - [Privacy Policy](https://ciatau.com/policies/privacy-policy)
-  Updated: 2026-07-23T23:26:05+03:00
+  Updated: 2026-08-31T13:51:21Z
 - [Shipping Policy](https://ciatau.com/policies/shipping-policy)
-  Updated: 2026-07-23T23:40:10+03:00
+  Updated: 2026-09-02T11:23:30Z
 - [Refund Policy](https://ciatau.com/policies/refund-policy)
-  Updated: 2026-07-23T23:30:10+03:00
+  Updated: 2026-08-31T21:44:01Z
 - [Terms of Service](https://ciatau.com/policies/terms-of-service)
-  Updated: 2026-07-23T23:36:20+03:00
+  Updated: 2026-08-31T13:51:25Z
 - [Contact Information](https://ciatau.com/policies/contact-information)
-  Updated: 2026-07-23T23:47:11+03:00
+  Updated: 2026-09-02T20:42:07Z
 
 ## Optional
 
