@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-08-23T00:00:48.570Z
+- Updated At: 2026-10-23T00:59:43.842Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -20,1750 +20,1750 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 ## Products
 
 - [BARI | Silla Ejecutiva Ergonómica con Soporte Lumbar Giratorio y Mecanismo de 5 Posiciones](https://great-mini.mx/products/sillas-ejecutivas-silla-mecanismo-rodilla-bari): Maximiza tu productividad con la Silla BARI. Mecanismo de rodilla de 5 posiciones, asiento inyectado y soporte lumbar ajustable. 🛡️ Garantía y calidad BIFMA.
-  Updated: 2026-08-13T14:51:12Z
+  Updated: 2026-10-15T10:08:12Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SILLABARI1.png?v=1776476998
   Price: 8949,00 $ MXN
 - [BARI E | Silla Ejecutiva Ergonómica con Mecanismo de Bloqueo y Soporte Lumbar](https://great-mini.mx/products/sillas-ejecutivas-silla-ergonomica-bloqueo-bari-e): Optimiza tu rendimiento con la BARI E: silla ejecutiva con mecanismo de bloqueo, soporte lumbar ajustable y certificación BIFMA. 🛡️ ¡Calidad y confort garantizados en México!
-  Updated: 2026-08-13T14:50:52Z
+  Updated: 2026-10-15T10:08:13Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BARIE1.png?v=1776478344
   Price: 6799,00 $ MXN
 - [ROMA GRIS  C | Silla Roma Color Gris con Cabecera](https://great-mini.mx/products/silla-roma-color-gris-con-cabecera): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla, y asiento tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T17:21:10Z
+  Updated: 2026-10-15T10:08:13Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/4_943758b6-cc8d-43a1-a671-28232c932f75.jpg?v=1499142349
   Price: 10.349,00 $ MXN
 - [SAN MARCO H | Silla para Oficina](https://great-mini.mx/products/valentina-a): Sillón Ergonómico Ejecutivo reclinable, con ajuste neumático de altura, mecanismo de bloqueo y control de tensión, respaldo alto y asiento tapizados en tela, base de 5 puntas y descansabrazos fijos. Con espuma de poliuretano inyectado.
-  Updated: 2026-07-01T11:46:15Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/10_9be72b6a-ac18-4246-8bc2-7e70ec14d7c8.jpg?v=1495563209
   Price: 4899,00 $ MXN
 - [SAN MARCO M | Silla para Oficina](https://great-mini.mx/products/valentina-b): Sillón Ergonómico Ejecutivo reclinable, con ajuste neumático de altura, mecanismo de bloqueo y control de tensión, respaldo alto y asiento tapizados en tela, base de 5 puntas y descansabrazos fijos.
-  Updated: 2026-07-01T11:46:17Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/11_d9448935-9541-41f0-9056-a44ba6b7e2a5.jpg?v=1495563211
   Price: 4329,00 $ MXN
 - [Silla para Oficina - San Marco - Ergo](https://great-mini.mx/products/valentina-v): Sillón Ergonómico Directivo, para visitante con base de trineo, respaldo y asiento tapizados en tela.
-  Updated: 2025-09-03T14:14:52Z
+  Updated: 2026-10-15T10:08:14Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/12_ab678aed-c60c-4f37-88ec-1a60e764e5d9.jpg?v=1495563214
   Price: 4329,00 $ MXN
 - [TURÍN | Silla Operativa Negro](https://great-mini.mx/products/silla-turin): Silla Ergonómica Operativa con ajuste neumático de altura, respaldo medio tapizado  en malla, asiento tapizado en mesh color negro, con descansabrazos fijos.
-  Updated: 2026-07-01T11:46:16Z
+  Updated: 2026-10-15T10:08:14Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/TURIN.jpg?v=1712552107
   Price: 1299,00 $ MXN
 - [MESSINA | Silla para Oficina Ejecutiva Negra](https://great-mini.mx/products/berlin): Sillón Ergonómico Ejecutivo, con ajuste neumático de altura, mecanismo reclinable con control de bloqueo y tensión, respaldo tapizado en malla con soporte lumbar ajustable, asiento tapizado en mesh y descansabrazos giratorios, disponible en color negro.
-  Updated: 2026-07-01T12:28:08Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/26.jpg?v=1495563242
   Price: 3849,00 $ MXN
 - [TRENTO | Silla para Oficina Negro](https://great-mini.mx/products/silla-para-oficina-trento): Sillón Ergonómico Directivo con ajuste neumático de altura, mecanismo reclinable con control de tensión y bloqueo de reclinación, respaldo tapizado en malla con soporte lumbar ajustable, asiento tapizado en mesh y descanzabrazos con ajuste de altura. Disponible en color negro.
-  Updated: 2026-07-01T11:46:16Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/27.jpg?v=1495563244
   Price: 3099,00 $ MXN
 - [MILÁN C | Sillón Directivo Ergonómico con Cabecera y Seguridad Premium 🛡️👔](https://great-mini.mx/products/sillas-ejecutivas-sillon-directivo-ergonomico-cabecera-milan-c): Eleva tu oficina con el Sillón MILÁN C. Diseño directivo con cabecera, asiento deslizante y materiales certificados BIFMA y retardantes de fuego. 🛡️ Garantía de por vida en componentes de base. ¡Ergonomía de élite en México!
-  Updated: 2026-06-30T23:18:06Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SILLAMILANC3-4.png?v=1776275544
   Price: 4879,00 $ MXN
 - [MILÁN | Sillón Ejecutivo Ergonómico con Seguridad Retardante 🛡️💼](https://great-mini.mx/products/sillas-ejecutivas-sillon-ergonomico-ejecutivo-slider-milan): Optimiza tu oficina con el Sillón MILÁN. Asiento deslizante, materiales retardantes de fuego norma CA117 y componentes certificados BIFMA. 🛡️ Garantía de por vida en componentes de base. ¡Calidad y seguridad en México!
-  Updated: 2026-06-30T23:18:06Z
+  Updated: 2026-10-16T14:36:31Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SILLA_MILAN_3-4.png?v=1776274787
   Price: 4469,00 $ MXN
 - [CASELLI C  | Sillón Ergonómico Directivo: Alto Rendimiento y Bienestar 👔🚀](https://great-mini.mx/products/sillas-ejecutivas-sillon-ergonomico-directivo-malla-negra): Transforma tu oficina con el Sillón Ergonómico Directivo. Respaldo de malla, soporte lumbar ajustable y mecanismo de bloqueo. 🛡️ Garantía de por vida en componentes de base. ¡Ergonomía de élite en México!
-  Updated: 2026-04-14T03:19:20Z
+  Updated: 2026-10-15T10:08:15Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CASELLIC3-4.jpg?v=1721086051
   Price: 3099,00 $ MXN
 - [Mesa para Juntas Modular Enzzo 14 P](https://great-mini.mx/products/21814): Mesa de Juntas Modular Enzzo 14 Personas
-  Updated: 2026-03-02T04:52:19Z
+  Updated: 2026-10-15T10:08:16Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/21814-4.jpg?v=1529895970
   Price: 52.899,00 $ MXN
 - [Mesa para Juntas Modular Enzzo 10 P](https://great-mini.mx/products/21810): Mesa de Juntas Modular Enzzo 10 Personas
-  Updated: 2026-01-29T19:45:15Z
+  Updated: 2026-10-15T10:08:16Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/21810-1.jpg?v=1529895612
   Price: 37.949,00 $ MXN
 - [Mesa para Juntas Ejecutiva 8P](https://great-mini.mx/products/118xl): Mesa de Juntas Ejecutiva
-  Updated: 2026-01-29T19:45:15Z
+  Updated: 2026-10-15T10:08:16Z
   Vendor: Linea Italia
   Product Type: Mesa de Juntas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_0dd20629-be8c-4714-a2c4-6238d6605503.jpg?v=1496190716
   Price: 19.699,00 $ MXN
 - [Mesa para Juntas Gerencial 6P](https://great-mini.mx/products/118): Mesa de Juntas GerEncial
-  Updated: 2026-01-29T19:45:15Z
+  Updated: 2026-10-15T10:08:16Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_d8d344f4-a50b-4776-802d-7e760df5bc29.jpg?v=1496190718
   Price: 9969,00 $ MXN
 - [Mesa Redonda para Juntas](https://great-mini.mx/products/129): Mesa Redonda
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:17Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_c671ed0c-6b68-429f-a594-9614dcde2631.jpg?v=1496190720
   Price: 7299,00 $ MXN
 - [Mesa Nápoles Redonda](https://great-mini.mx/products/719): Mesa Nápoles
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:17Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_fedb6754-5674-4784-87ad-a51b96464055.jpg?v=1496190723
   Price: 6199,00 $ MXN
 - [Mesa Nápoles Vidrio Redonda](https://great-mini.mx/products/702): Mesa Palermo
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:17Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/src_719GL_1.jpg?v=1496190725
   Price: 21.859,00 $ MXN
 - [Mesa Palermo para Restaurante](https://great-mini.mx/products/762c): Mesa Palermo Cristal Con Base Cromada
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:18Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_ce75bd3a-ca4b-49d5-adb6-2d227a572f6a.jpg?v=1496190728
   Price: 4799,00 $ MXN
 - [Mesa Central Sala de Espera](https://great-mini.mx/products/183): Mesa Central
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:18Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_374b8021-4cc8-4453-8635-b1b79b7ccaff.jpg?v=1496190731
   Price: 3779,00 $ MXN
 - [Mesa Lateral para Salas de Espera](https://great-mini.mx/products/184): Mesa Lateral
-  Updated: 2026-03-24T08:49:48Z
+  Updated: 2026-10-15T10:08:18Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_aa4fc2b0-363a-4f38-a2f9-89fe42844fde.jpg?v=1496190733
   Price: 2949,00 $ MXN
 - [Mesa para Juntas E-LINK (28mm)](https://great-mini.mx/products/630): Mesa de Juntas
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:18Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MESA_E-LINK_630.jpg?v=1529894945
   Price: 22.449,00 $ MXN
 - [Mesa Alta E-LINK (120CMS)](https://great-mini.mx/products/656): Mesa alta de 120cm
-  Updated: 2026-01-29T19:45:14Z
+  Updated: 2026-10-15T10:08:19Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MESA_E-LINK_656.jpg?v=1529896554
   Price: 10.999,00 $ MXN
 - [Mesa Alta E-LINK 150cm](https://great-mini.mx/products/657): Mesa alta de 150cm
-  Updated: 2026-01-29T19:45:13Z
+  Updated: 2026-10-15T10:08:19Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MESA_E-LINK_657.jpg?v=1529894554
   Price: 11.949,00 $ MXN
 - [Escritorio Ejecutivo Vittra](https://great-mini.mx/products/escritorio-846): Escritorio Ejecutivo Vittra
-  Updated: 2026-01-29T19:45:13Z
+  Updated: 2026-10-15T10:08:19Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_0e75e607-4cda-4d04-87fb-a248bf08aa34.jpg?v=1496194330
   Price: 63.249,00 $ MXN
 - [Escritorio Ejecutivo Forzza,](https://great-mini.mx/products/escritorio-145): Escritorio Ejecutivo Forzza,
-  Updated: 2026-01-29T19:45:13Z
+  Updated: 2026-10-15T10:08:19Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_ff993ce0-1b06-487d-acc2-e0b107d15d24.jpg?v=1496194332
   Price: 21.509,00 $ MXN
 - [Escritorio Retorno Klass y Forzza](https://great-mini.mx/products/escritorio-165): Retorno Klass y Forzza
-  Updated: 2026-01-29T19:45:13Z
+  Updated: 2026-10-15T10:08:20Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/width_390_f79cf93c-4bd6-43e6-b8c9-ca7fdc7db58c.jpg?v=1496194334
   Price: 7349,00 $ MXN
 - [Armario Ejecutivo Forzza con Cerradura](https://great-mini.mx/products/armario-116): Credenza Forzza
-  Updated: 2026-01-29T19:45:12Z
+  Updated: 2026-10-15T10:08:20Z
   Vendor: Linea Italia
   Product Type: Credenza
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_4e790f2a-c034-43da-8e91-327cb58b0238.jpg?v=1496194336
   Price: 22.549,00 $ MXN
 - [Escritorio Ejecutivo Klass](https://great-mini.mx/products/escritorio-klass01): Escritorio Ejecutivo Klass
-  Updated: 2026-04-06T05:08:31Z
+  Updated: 2026-10-15T10:08:20Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_0444e342-a4cd-4f55-99f9-47aa274730e3.jpg?v=1496194339
   Price: 19.149,00 $ MXN
 - [Credenza Ejecutiva Klass Con Cerradura](https://great-mini.mx/products/credenza-klass03): Credenza Ejecutiva Klass Con Cerradura
-  Updated: 2026-01-29T19:45:12Z
+  Updated: 2026-10-15T10:08:21Z
   Vendor: Linea Italia
   Product Type: Credenza
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_80411ddb-5a94-46f6-96f8-c502011e0958.jpg?v=1496194340
   Price: 17.899,00 $ MXN
 - [Librero Klass](https://great-mini.mx/products/librero-klass04): Librero Klass
-  Updated: 2026-01-29T19:45:12Z
+  Updated: 2026-10-15T10:08:21Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_df6b4c70-4b0d-4686-8c4f-601b34033b2f.jpg?v=1496194341
   Price: 12.999,00 $ MXN
 - [Escritorio Ejecutivo](https://great-mini.mx/products/escritorio-117): Escritorio Ejecutivo
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:21Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_ef983db2-d3ad-474b-ac98-f792ac8ad656.jpg?v=1496194344
   Price: 12.499,00 $ MXN
 - [STILA 716 | Escritorio Ejecutivo de Alta Resistencia 🖥️🏢](https://great-mini.mx/products/escritorios-ejecutivos-escritorio-melamina-cajonera-stila-716): Optimiza tu despacho con el Escritorio STILA 716. Superficie de 175cm resistente a impactos, cajonera metálica de seguridad y certificación BIFMA. 🛡️ ¡Hecho en México!
-  Updated: 2026-04-28T08:01:46Z
+  Updated: 2026-10-15T10:08:21Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/716.jpg?v=1777320067
   Price: 21.779,00 $ MXN
 - [Escritorio Piccolo](https://great-mini.mx/products/escritorio-123-s): Escritorio Piccolo
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:22Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_34cd15f0-9bb2-4150-81cd-402f516c246c.jpg?v=1496194348
   Price: 4579,00 $ MXN
 - [Escritorio Básico](https://great-mini.mx/products/escritorio-basico-103s): Escritorio Básico
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:22Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_15415957-2f20-44a2-8b3c-f127419885ad.jpg?v=1496194351
   Price: 4869,00 $ MXN
 - [Escritorio Capacitación](https://great-mini.mx/products/escritorio-capacitacion141-s): Escritorio Capacitación
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:22Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_18ea08b0-de14-4a3b-971c-7e1854cf29a7.jpg?v=1496194354
   Price: 6559,00 $ MXN
 - [Línea Italia - Escritorio Magistralle](https://great-mini.mx/products/escritorio-153-s): Escritorio Magistralle
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:23Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/153S-blanco_1024x_d6608d2c-2187-4b5c-892f-74542cd7654c.jpg?v=1626809119
   Price: 6889,00 $ MXN
 - [Escritorio Península Ejecutiva](https://great-mini.mx/products/escritorio-114): PEninsula Ejecutiva
-  Updated: 2026-01-29T19:45:11Z
+  Updated: 2026-10-15T10:08:23Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_85a46b26-d9bb-4a0c-bc20-57866c522216.jpg?v=1496948960
   Price: 10.259,00 $ MXN
-- [Escritorio Módulo " L "](https://great-mini.mx/products/escritorio-120-s): Módulo " L "
-  Updated: 2026-01-29T19:45:11Z
+- [120S | Escritorio Semi-Ejecutivo 140 × 170 cm | Diseño funcional y profesional](https://great-mini.mx/products/escritorio-semi-ejecutivo-140x170): Escritorio semi-ejecutivo de 140 × 170 cm con melamina de 19 mm, estructura de acero y pasacables. Ideal para oficinas, despachos y home office.
+  Updated: 2026-10-15T10:08:23Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_0321c469-9239-4263-91df-8d506e07ac84.jpg?v=1496194361
-  Price: 9729,00 $ MXN
+  Price: 10.409,00 $ MXN
 - [Escritorio Isla de trabajo](https://great-mini.mx/products/escritorio-210-s): Isla de trabajo
-  Updated: 2026-01-29T19:45:10Z
+  Updated: 2026-10-15T10:08:23Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_de69f2f9-7a74-433f-9ebe-1b2e583d448e.jpg?v=1496194364
   Price: 11.119,00 $ MXN
 - [Escritorio Delta](https://great-mini.mx/products/escritorio-149-s): Escritorio Delta
-  Updated: 2026-01-29T19:45:10Z
+  Updated: 2026-10-15T10:08:24Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_b3b0fac2-ef9b-4ec9-9fc1-125d9ca06e75.jpg?v=1496194367
   Price: 7319,00 $ MXN
 - [Escritorio Abatible Multifunciones con Ruedas](https://great-mini.mx/products/escritorio-abatible-217): Mesa Abatible
-  Updated: 2026-01-29T19:45:10Z
+  Updated: 2026-10-15T10:08:24Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/217_CAOBA_3.jpg?v=1523295204
   Price: 8889,00 $ MXN
 - [Escritorio Trapezoidal para Capacitación y Multiusos](https://great-mini.mx/products/escritorio-239): Mesa trapezoidal
-  Updated: 2026-01-29T19:45:10Z
+  Updated: 2026-10-15T10:08:24Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_63ff1f56-7ab2-4f01-8bfe-ab9b4be4a9c1.jpg?v=1496194372
   Price: 4149,00 $ MXN
 - [Mesa Multiusos](https://great-mini.mx/products/111): Mesa Multiusos
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:24Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/mesa-multiusos_111.jpg?v=1521072347
   Price: 3759,00 $ MXN
 - [Archivero Móvil](https://great-mini.mx/products/archivero-106): Archivero Móvil
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:25Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/archivero-movil-con-cerradura_106.jpg?v=1521074770
   Price: 5299,00 $ MXN
 - [Archivero Móvil metálico Con Cerradura](https://great-mini.mx/products/archivero-310): Archivero Móvil metálico Con Cerradura
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:25Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_d0536862-f6d0-4996-ace8-9c3b536da4be.jpg?v=1496269138
   Price: 6519,00 $ MXN
 - [Archivero Dos Gavetas](https://great-mini.mx/products/archivero-303): Archivero Dos Gavetas
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:25Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_e7329362-8a17-45f7-9278-acf70998e82b.jpg?v=1496269141
   Price: 8429,00 $ MXN
 - [Archivero Multi-Gavetas](https://great-mini.mx/products/archivero-305): Archivero multiGavetas
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:25Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_b1f6cc15-06e7-4fd2-a933-c0a348672ab1.jpg?v=1496269144
   Price: 8649,00 $ MXN
 - [Archivero Tres Gavetas](https://great-mini.mx/products/archivero-106xl): Archivero Tres Gavetas
-  Updated: 2026-04-06T08:26:21Z
+  Updated: 2026-10-15T10:08:26Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_a0b3221e-d600-448d-8427-b9063c5af877.jpg?v=1496269146
   Price: 11.279,00 $ MXN
 - [Archivero de 4 gavetas con cerradura](https://great-mini.mx/products/archivero-304): Archivero Cuatro Gavetas
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:26Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_1ec003a7-3675-42a3-ad0f-0cbad2616b57.jpg?v=1496269149
   Price: 15.399,00 $ MXN
 - [Credenza Dos Puertas](https://great-mini.mx/products/credenza-135): Credenza
-  Updated: 2026-01-29T19:45:09Z
+  Updated: 2026-10-15T10:08:26Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_9df9c78c-9eff-46ab-8093-f33cd624c983.jpg?v=1496269151
   Price: 13.349,00 $ MXN
 - [Librero Con Cerradura](https://great-mini.mx/products/librero-115c): Librero Con Cerradura
-  Updated: 2026-01-29T19:45:08Z
+  Updated: 2026-10-15T10:08:26Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_4213bb01-a04e-40e8-9aa5-a6e3ad5ba756.jpg?v=1496269154
   Price: 9929,00 $ MXN
 - [Librero Colgante,medidas](https://great-mini.mx/products/librero-175): Librero Colgante,medidas
-  Updated: 2026-01-29T19:45:08Z
+  Updated: 2026-10-15T10:08:27Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_2071b6a0-c796-4496-886c-7bf5e099fb2c.jpg?v=1496269156
   Price: 2999,00 $ MXN
 - [Librero Colgante Abierto](https://great-mini.mx/products/librero-185): Librero Colgante Abierto
-  Updated: 2025-01-25T00:51:46Z
+  Updated: 2026-10-15T10:08:27Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_8731028a-5eba-4467-a49a-0fd73a71c052.jpg?v=1496269159
   Price: 1719,00 $ MXN
 - [Librero Colgante Abierto](https://great-mini.mx/products/librero-285): Librero Colgante Abierto
-  Updated: 2025-08-17T00:11:48Z
+  Updated: 2026-10-15T10:08:27Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_fc1c8ef3-eecc-49de-96a3-368543227a7c.jpg?v=1496269162
   Price: 1599,00 $ MXN
 - [Librero Fortte](https://great-mini.mx/products/librero-168): Librero Fortte
-  Updated: 2026-01-29T19:45:08Z
+  Updated: 2026-10-15T10:08:28Z
   Vendor: Linea Italia
   Product Type: Accesorios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_153e81f3-8abb-40ad-859d-1ed62b5fe49f.jpg?v=1496948836
   Price: 9069,00 $ MXN
 - [Credenza TRIZZA](https://great-mini.mx/products/credenza-236): Credenza TRIZZA medidas
-  Updated: 2026-01-29T19:45:08Z
+  Updated: 2026-10-15T10:08:28Z
   Vendor: Linea Italia
   Product Type: Credenza
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_f5270577-2ae0-4d85-8550-e1573bb68d0d.jpg?v=1496269165
   Price: 13.999,00 $ MXN
 - [Mini Mampara Principal](https://great-mini.mx/products/150): MiniMampara Principal
-  Updated: 2025-07-16T10:00:39Z
+  Updated: 2026-10-15T10:08:28Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_14c673c2-a4a1-4bf3-9f8c-d7e626237403.jpg?v=1496269168
   Price: 1429,00 $ MXN
 - [MiniMampara Principal](https://great-mini.mx/products/226): MiniMampara Principal
-  Updated: 2025-11-19T12:13:03Z
+  Updated: 2026-10-15T10:08:29Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_0cc30862-8445-4f43-b4c9-a60b72988b8c.jpg?v=1496269171
   Price: 1119,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/12060): Mampara de Piso
-  Updated: 2025-09-12T01:12:41Z
+  Updated: 2026-10-15T10:08:29Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_9044d8b1-3eb2-4974-8c70-46b682950a4a.jpg?v=1496340699
   Price: 4169,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/12075): Mampara de Piso
-  Updated: 2026-03-01T09:43:15Z
+  Updated: 2026-10-15T10:08:29Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_a10f1af1-248e-40c8-9572-2bfa6512b00e.jpg?v=1496340702
   Price: 5299,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/12090): Mampara de Piso
-  Updated: 2026-01-22T11:24:30Z
+  Updated: 2026-10-15T10:08:29Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_98770d84-80f0-4eaf-a728-22f718b74daf.jpg?v=1496340705
   Price: 6049,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/120120): Mampara de Piso
-  Updated: 2025-09-07T20:51:05Z
+  Updated: 2026-10-15T10:08:30Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_41791b43-0655-4eae-a8d1-ccbaf6fb1b98.jpg?v=1496340708
   Price: 6469,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/16060): Mampara de Piso
-  Updated: 2025-08-02T20:53:53Z
+  Updated: 2026-10-15T10:08:30Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_96bfee44-cea3-45e9-8e3c-877278dd0bbe.jpg?v=1496340711
   Price: 5369,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/16075): Mampara de Piso
-  Updated: 2025-09-14T18:39:59Z
+  Updated: 2026-10-15T10:08:30Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_03289ff2-f037-4de2-a980-72c3be1234fe.jpg?v=1496340716
   Price: 6449,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/16090): Mampara de Piso
-  Updated: 2025-08-11T22:47:33Z
+  Updated: 2026-10-15T10:08:30Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_babd7511-4bd7-4151-9094-1356b9cb8bfe.jpg?v=1496340719
   Price: 6949,00 $ MXN
 - [Mampara de Piso](https://great-mini.mx/products/160120): Mampara de Piso
-  Updated: 2025-01-16T03:04:30Z
+  Updated: 2026-10-15T10:08:31Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_7fe840c3-08e3-4e4a-a45e-9e7f89345cbb.jpg?v=1496340721
   Price: 7549,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p12060): Mampara de Piso Con Policarbonato
-  Updated: 2025-08-16T14:16:15Z
+  Updated: 2026-10-15T10:08:31Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_9c6d9f6d-65e2-400a-942f-7792e0647961.jpg?v=1496340732
   Price: 4589,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p12075): Mampara de Piso Con Policarbonato
-  Updated: 2026-03-23T23:36:53Z
+  Updated: 2026-10-15T10:08:31Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_f3980720-4598-4814-95b0-abd5b2497d51.jpg?v=1496340735
   Price: 5469,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p12090): Mampara de Piso Con Policarbonato
-  Updated: 2025-09-22T18:20:16Z
+  Updated: 2026-10-15T10:08:32Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_9de0d35d-28f5-4855-bea6-727a8da1efcd.jpg?v=1496340737
   Price: 6109,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p120120): Mampara de Piso Con Policarbonato
-  Updated: 2025-11-16T10:01:07Z
+  Updated: 2026-10-15T10:08:32Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_3c3111bf-4f82-4fd7-ac42-9d0553b14818.jpg?v=1496340739
   Price: 6739,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p16060): Mampara de Piso Con Policarbonato
-  Updated: 2025-08-22T09:30:43Z
+  Updated: 2026-10-15T10:08:32Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_b6d856af-5602-41e3-a867-3b115de0522e.jpg?v=1496340742
   Price: 5279,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p16075): Mampara de Piso Con Policarbonato
-  Updated: 2025-10-27T07:16:13Z
+  Updated: 2026-10-15T10:08:32Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_e1c737ab-3f70-4999-bb22-9d2a03816133.jpg?v=1496340745
   Price: 6709,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p16090): Mampara de Piso Con Policarbonato
-  Updated: 2025-09-12T05:18:58Z
+  Updated: 2026-10-15T10:08:33Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_ed88ec73-de0d-4e94-a8f9-f854f5ad6c35.jpg?v=1496340748
   Price: 7359,00 $ MXN
 - [Mampara de Piso Con Policarbonato](https://great-mini.mx/products/p160120): Mampara de Piso Con Policarbonato
-  Updated: 2025-11-13T15:12:20Z
+  Updated: 2026-10-15T10:08:33Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_a3fc759c-a7b1-4615-81cc-20e70f81fa47.jpg?v=1496340751
   Price: 8079,00 $ MXN
 - [Mampara Curva de Policarbonato A=160.](https://great-mini.mx/products/cur16): Mampara Curva de Policarbonato A=160.
-  Updated: 2025-08-14T18:34:41Z
+  Updated: 2026-10-15T10:08:33Z
   Vendor: Linea Italia
   Product Type: Mampara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_36fcb74d-1dd9-4f39-b030-669330c5ff88.jpg?v=1496340772
   Price: 10.299,00 $ MXN
 - [Mampara Acrílico, para Cubiertas de 19mm](https://great-mini.mx/products/636): Mampara Acrílico, para Cubiertas de 19mm
-  Updated: 2026-03-26T05:48:37Z
+  Updated: 2026-10-15T10:08:34Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/logo_it_grande_1024x1024_3939ede4-0349-46c8-be72-749e45060cdc.jpg?v=1497377976
   Price: 2429,00 $ MXN
 - [MiniMampara Lateral x2](https://great-mini.mx/products/151): MiniMampara Lateral x2
-  Updated: 2025-11-07T22:58:20Z
+  Updated: 2026-10-15T10:08:34Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_23436e10-2726-4312-ace3-a9faa63997c9.jpg?v=1496340419
   Price: 1449,00 $ MXN
 - [Mamparas de Piso I-WORK 120X60](https://great-mini.mx/products/iw12060): Mamparas de Piso I-WORK 120X60
-  Updated: 2025-09-04T06:56:16Z
+  Updated: 2026-10-15T10:08:34Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_b1ed16c8-143a-40fe-9d9e-d1872799fe13.jpg?v=1496340423
   Price: 4169,00 $ MXN
 - [Mamparas de Piso I-WORK 120X75](https://great-mini.mx/products/iw12075): Mamparas de Piso I-WORK 120X75
-  Updated: 2025-11-30T10:59:24Z
+  Updated: 2026-10-15T10:08:34Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso.jpg?v=1496340424
   Price: 5069,00 $ MXN
 - [Mamparas de Piso I-WORK 120X90](https://great-mini.mx/products/iw12090): Mamparas de Piso I-WORK 120X90
-  Updated: 2025-12-24T01:25:24Z
+  Updated: 2026-10-15T10:08:35Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_6a9f61ea-c2cd-4d99-a509-3463547561eb.jpg?v=1496340426
   Price: 5199,00 $ MXN
 - [Mamparas de Piso I-WORK 120X120](https://great-mini.mx/products/iw120120): Mamparas de Piso I-WORK 120X120
-  Updated: 2026-03-06T09:31:33Z
+  Updated: 2026-10-15T10:08:35Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_e10d9c6d-fccc-4d42-80be-2c7a10419eb4.jpg?v=1496340427
   Price: 6069,00 $ MXN
 - [Mamparas de Piso I-WORK 160X60](https://great-mini.mx/products/iw16060): Mamparas de Piso I-WORK 160X60
-  Updated: 2025-09-05T16:28:05Z
+  Updated: 2026-10-15T10:08:35Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_3a3ec65d-0b1d-4782-a72d-f2a26d81c5c7.jpg?v=1496340428
   Price: 5099,00 $ MXN
 - [Mamparas de Piso I-WORK 160X75](https://great-mini.mx/products/iw16075): Mamparas de Piso I-WORK 160X75
-  Updated: 2025-08-25T22:37:30Z
+  Updated: 2026-10-15T10:08:36Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_77de8a2a-5869-433f-9bd7-e3db0ec79383.jpg?v=1496340429
   Price: 6319,00 $ MXN
 - [Mamparas de Piso I-WORK 160X90](https://great-mini.mx/products/iw16090): Mamparas de Piso I-WORK 160X90
-  Updated: 2025-09-18T12:04:55Z
+  Updated: 2026-10-15T10:08:36Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_21db5534-0117-4282-989c-254e7f65594b.jpg?v=1496340430
   Price: 6889,00 $ MXN
 - [Mamparas de Piso I-WORK 160X120](https://great-mini.mx/products/iw160120): Mamparas de Piso I-WORK 160X120
-  Updated: 2025-08-05T12:51:49Z
+  Updated: 2026-10-15T10:08:36Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_df5e7836-458a-42fe-a7f1-25f0fdca8d34.jpg?v=1496340432
   Price: 7649,00 $ MXN
 - [Mampara Con Policarbonato I-WORK 160X75](https://great-mini.mx/products/piw16075): Mampara Con Policarbonato I-WORK 160X75
-  Updated: 2025-11-18T04:52:21Z
+  Updated: 2026-10-15T10:08:36Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_b01a4e83-1fa7-4a0f-bc38-4c2602eb4ae5.jpg?v=1496340449
   Price: 6299,00 $ MXN
 - [Mampara con policarbonato I-work.](https://great-mini.mx/products/piw16090): Mampara Con Policarbonato I-WORK 160X90
-  Updated: 2025-11-05T10:15:22Z
+  Updated: 2026-10-15T10:08:37Z
   Vendor: Linea Italia
   Product Type: Mamparas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/piso_b8c40b37-1ac9-4ce9-b70a-aee375fd2578.jpg?v=1496340450
   Price: 6789,00 $ MXN
 - [Recepción Privacía](https://great-mini.mx/products/221): Amplia recepción apta para todo tipo de espacio: oficinas, escuelas y consultorios. Fácil de armar ya que no requiere de herramientas. Diseño moderno que le dará el toque perfecto a la recepción de su empresa. Para dar el toque final de elegancia a esa área de visitas se puede añadir a la recepción un sillón ejecutivo airgrid con cabecera mod. 3100, adquiriéndolo por separado.
-  Updated: 2026-01-29T19:19:32Z
+  Updated: 2026-10-15T10:08:37Z
   Vendor: Linea Italia
   Product Type: Recepción
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_cebc1c03-0ea8-4aff-9092-26bdc418dfa3.jpg?v=1497377985
   Price: 12.129,00 $ MXN
 - [Recepción Primma](https://great-mini.mx/products/223): Amplia recepción apta para todo tipo de espacio: oficinas, escuelas y consultorios. Fácil de armar ya que no requiere de herramientas. Diseño moderno que le dará el toque perfecto a la recepción de su empresa. Para dar el toque final de elegancia a esa área de visitas se puede añadir a la recepción un sillón ejecutivo airgrid con cabecera mod. 3100, adquiriéndolo por separado.
-  Updated: 2026-01-29T19:19:32Z
+  Updated: 2026-10-15T10:08:37Z
   Vendor: Linea Italia
   Product Type: Recepción
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/height_1200_7ae8f7f0-2090-4949-9ecb-934962ecaa9d.jpg?v=1497377988
   Price: 18.929,00 $ MXN
 - [Silla Para Oficina - Villanova N (Visita o Pupitre)](https://great-mini.mx/products/silla-para-oficina-villanova-n-visita-o-pupitre): Silla con paleta abatible y giratoria derecha o izquierda con estructura de acero, asiento tapizado en tela, respaldo de polipropileno, con ruedas, portalibros y portavasos, disponible en color negro, asiento tapizado en color gris.
-  Updated: 2025-11-19T07:49:18Z
+  Updated: 2026-10-15T10:08:38Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/VILLANOVA_N.jpg?v=1572011815
   Price: 7299,00 $ MXN
 - [TIVOLI | Silla Operativa Ergonómica con Respaldo de Malla 🖥️⚙️](https://great-mini.mx/products/sillas-operativas-silla-ergonomica-malla-tivoli): Maximiza la eficiencia operativa con la Silla TIVOLI. Diseño ergonómico con malla coreana, asiento de espuma inyectada y componentes certificados BIFMA. 🛡️ ¡Durabilidad garantizada en México!
-  Updated: 2026-06-30T23:18:06Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/TIVOLI1.png?v=1777498305
   Price: 2599,00 $ MXN
 - [Mesa Palermo de Cristal Cuadrada](https://great-mini.mx/products/mesa-palermo-de-cristal-cuadrada): Mesa Palermo de Cristal Cuadrada Mod. 762C Es una mesa que se puede usar para restaurante y en realidad es multiusos. Ideal para reuniones de 2 a 4 personas para juntas informales. Alto : 75 cms Ancho: 84 cms Prof: 80 cms
-  Updated: 2026-03-06T01:57:43Z
+  Updated: 2026-10-15T10:08:38Z
   Vendor: Linea Italia
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/762C.jpg?v=1509125937
   Price: 10.149,00 $ MXN
 - [Silla para Exteriores - Alissa](https://great-mini.mx/products/lagoon-silla-con-descansa-brazos-7050): Mod. 7050 Esta silla tiene un diseño ergonómico con una amplia superficie para sentarse y descasabrazos y se adapta a cualquier persona para descansar. Especificaciones: Dimensiones: 58cm x 60cm x 79.5 cmMaterial: PolipropilenoPeso Neto: 4.4 kgColor: K5 / G6 / W9 / B7 / V5 / R4 / R7 / YB / Y7 / BF
-  Updated: 2026-04-04T04:55:00Z
+  Updated: 2026-10-15T10:08:38Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7050-b7-fondo-gris.jpg?v=1543412647
   Price: 2499,00 $ MXN
 - [Silla para Exteriores - Rue](https://great-mini.mx/products/silla-rue): SILLA PLÁSTICA IMITACIÓN DE RATTAN Mod. RUE Características: Dimensiones: 48 X 58 X 88 CM Colores: Café/ Gris/ Blanco/ Negro Perlado/ Camello/Bronce Metalico/Verde Perlado Material: Polipropileno
-  Updated: 2026-04-07T00:41:58Z
+  Updated: 2026-10-15T10:08:39Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7025-g6-fondo-gris.jpg?v=1529866663
   Price: 2999,00 $ MXN
 - [Silla para Exteriores - Koppla](https://great-mini.mx/products/lagoon-silla-plastica-koppla): SILLA PLASTICA CON DESCANSA BRAZO, IMITACION DE RATTAN Mod. Koppla Características: Dimensiones: 57 X 57 X 80 CM Colores: Café/ Gris/ Blanco/ Negro Perlado/ Camello/ Bronce Metalico Material: Polipropileno
-  Updated: 2025-12-17T06:31:40Z
+  Updated: 2026-10-15T10:08:39Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7027-w8-fondo-gris.jpg?v=1529867227
   Price: 1749,00 $ MXN
 - [Silla para Exteriores - Citrus](https://great-mini.mx/products/lagoon-silla-con-descansa-brazo-citrus): SILLA PATA TUBULAR DE METAL CON DESCANSA BRAZO Mod. Citrus Características: Dimensiones: 55.1 X 55 X 77.6 CM Colores disponibles: Rojo, Azul, Naranja, Fushia, Amarillo y Verde Material: Polipropileno + Acero galvanizado
-  Updated: 2026-01-25T01:43:34Z
+  Updated: 2026-10-15T10:08:39Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7051-r4-fondo-gris.jpg?v=1529867497
   Price: 2249,00 $ MXN
 - [Silla para Exteriores - Sencilla](https://great-mini.mx/products/lagoon-silla-plastica-sencilla): SILLA PLÁSTICA Mod. Sencilla Características: Dimensiones: 49.5 X 52.5 X 82 CM Colores Disponibles: Rojo, Azul, Naranja, Verde, Blanco, Amarillo, Fushia, Gris Oscuro y Gris Material: Polipropileno
-  Updated: 2026-03-20T05:26:12Z
+  Updated: 2026-10-15T10:08:40Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7052_yb-fondo-gris_68b2f94e-6f62-4f1e-b1da-766940b803eb.jpg?v=1529867854
   Price: 2629,00 $ MXN
 - [Silla para Exteriores - Ángel´s Trumpet](https://great-mini.mx/products/lagoon-silla-plastica-angel-s-trumpet): SILLÓN TIPO CAMASTRO Mod. Trumpet Características: Dimensiones: 64 x 96 x 68 CM Colores Disponibles: Negro/ Rojo/ Blanco/ Amarillo Moztaza Material: Polipropileno
-  Updated: 2026-03-18T09:46:13Z
+  Updated: 2026-10-15T10:08:40Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7058_1-con-fondo-gris.jpg?v=1529868599
   Price: 2999,00 $ MXN
 - [Silla para Exteriores - Nido](https://great-mini.mx/products/lagoon-silla-plastica-nido): SILLA PLÁSTICA Mod. Nido Características: Dimensiones: 65.5 x 58 x 82 CM Colores Disponibles: Naranja/ Verde/ Blanco/ Gris/ Castaño Material: Polipropileno
-  Updated: 2026-03-04T00:32:53Z
+  Updated: 2026-10-15T10:08:40Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7055-v5-fondo-gris.jpg?v=1529868938
   Price: 4899,00 $ MXN
 - [Silla para Exteriores - Pavone](https://great-mini.mx/products/lagoon-silla-plastica-pavone): SILLA PLÁSTICA Mod. Pavone Características: Dimensiones: 61 x 61 x 79 CM Colores Disponibles: Blanco Material: High Impact Polystyrene + Aluminium Alloy
-  Updated: 2025-07-18T11:24:56Z
+  Updated: 2026-10-15T10:08:41Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7056.JPG?v=1529869221
   Price: 13.999,00 $ MXN
 - [Silla para Exteriores - Taburete Plástico Joyous](https://great-mini.mx/products/lagoon-taburete-plastico-joyous): TABURETE PLÁSTICO Mod. Joyous Características: Dimensiones: 43 x 41 x 58 CM Colores Disponibles: Salmon/ Verde Pistacho/ Amarillo Moztaza/ Blanco Material: Polipropileno
-  Updated: 2025-08-29T22:58:24Z
+  Updated: 2026-10-15T10:08:41Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7057A.JPG?v=1529869531
   Price: 2249,00 $ MXN
 - [Silla para Exteriores - Taburete de Bar Plástico Joyous](https://great-mini.mx/products/lagoon-taburete-de-bar-plastico-joyous): TABURETE DE BAR Mod. Joyous 87 Características: Dimensiones: 45.5 x 46 x 87 CM Colores Disponibles: Salmon/ Verde Pistacho/ Amarillo Moztaza/ Blanco Material: Polipropileno
-  Updated: 2025-09-22T03:54:14Z
+  Updated: 2026-10-15T10:08:41Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/7057b.JPG?v=1529869843
   Price: 3349,00 $ MXN
 - [Silla para Exteriores - Río](https://great-mini.mx/products/lagoon-silla-plastica-rio): Silla Plástica para uso interior Mod. Río Características: Dimensiones: 51.5 x 55 x 90 CM Colores: Verde Pistacho/ Salmon/ Amarillo/ Blanco/ Café Material: Polipropileno
-  Updated: 2025-08-26T01:09:20Z
+  Updated: 2026-10-15T10:08:41Z
   Vendor: Lagoon
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/AMARILLA.jpg?v=1589323909
   Price: 1999,00 $ MXN
 - [Pupitre Ergonómico con Paleta Abatible - Ergo](https://great-mini.mx/products/ergo-pupitre-ergonomico-con-paleta-abatible): BRASI AB Pupitre Ergonómico, con paleta abatible, tapizada en tela. Color Negra
-  Updated: 2025-09-08T08:02:45Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Pupitre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/PUPITRE_1621.jpg?v=1530851738
   Price: 2939,00 $ MXN
 - [Pupitre Ergonómico con Paleta Abatible H - Ergo](https://great-mini.mx/products/ergo-pupitre-ergonomico-con-paleta-abatible-1): Pupitre Ergonómico, con paleta abatible, tapizado en tela. Con espuma de poliuretano inyectado. Color Negra
-  Updated: 2026-06-30T22:52:20Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Pupitre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/PUPITRE_1621_87681dd7-7c72-4393-94e6-f6565f8b6f76.jpg?v=1530851871
   Price: 3129,00 $ MXN
 - [Pupitre Brasi FI - Ergo](https://great-mini.mx/products/copy-of-ergo-pupitre-brasi-fi): Pupitre ergonómico tapizado en tela con paleta fija. *Parrilla Opcional Color Negro. Pedido especial en colores Negro, Gris, Azul, Rojo principalmente
-  Updated: 2025-08-09T09:41:15Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/ERGO1622.jpg?v=1530852277
   Price: 2519,00 $ MXN
 - [BENESSERE 1P | Sillón para Oficina - Soffá de Una Plaza (Tela)](https://great-mini.mx/products/ergo-pupitre-brasi-fi): BENESSERE 1P Mod. ERGO5201P Sofá de una plaza, con brazo izquierdo, tapiz en tela.Fr=69, Fo=60, A=78cm, Colores disponibles: Negro, Gris, Café, Azul y Rojo.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:43Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/ERGO5201P.jpg?v=1530852785
   Price: 6729,00 $ MXN
 - [BENESSERE 2P | Sillón para Oficina - Soffá de 2 Plazas (Tela)](https://great-mini.mx/products/ergo-soffa-de-dos-plazas): BENESSERE 2P Sofá de dos plazas, tapiz en tela.Fr=138, Fo=60, A=78cm, Colores disponibles: Negro, Gris, Café, Azul y Rojo.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:43Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/ERGO5202P.jpg?v=1530853087
   Price: 10.799,00 $ MXN
 - [BENESSERE 3P | Sillón para Oficina - Soffá de 3 Plazas (Tela)](https://great-mini.mx/products/ergo-soffa-de-3-plazas): BENESSERE 3P Sofá de tres plazas, tapiz en tela.Fr=198, Fo=60, A=78cm." Colores disponibles: Negro, Gris, Café, Azul y Rojo.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:43Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/ERGO5203P.jpg?v=1530853213
   Price: 15.199,00 $ MXN
 - [DADO-1P | Sillón para Oficina - Soffá de 1 Plaza Negro](https://great-mini.mx/products/ergo-soffa-de-1-plaza-dado): Dado - 1P Sofá de 1 plaza, tapizado en teknoleather. Medidas: FR=90 FO=73 A=70 CM Colores disponibles: Negro, Gris, Café, Azul y Rojo.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:43Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/DADO1P.jpg?v=1530853766
   Price: 8099,00 $ MXN
 - [DADO-3P | Sillón para Oficina - Soffá de 3 Plazas Negro](https://great-mini.mx/products/dado-3p): Dado - 3P Sofá de 3 plazas, tapizado en teknoleather. Medidas:FR=204 FO=73 A=70 CM Colores disponibles: Negro, Gris, Café, Azul y Rojo.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:44Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/DADO3P.jpg?v=1530854065
   Price: 16.799,00 $ MXN
 - [Escritorio Básico Seven](https://great-mini.mx/products/escritorio-basico-seven): Escritorio básico Seven ideal para trabajo en casa.Medidas: Fr=120, Fo=60, A=75cm."
-  Updated: 2026-02-27T19:43:08Z
+  Updated: 2026-10-15T10:08:44Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/escritorio_basico_urban.jpg?v=1532295784
   Price: 5519,00 $ MXN
 - [Silla para Oficina - Rosseto con Cabecera - Ergo](https://great-mini.mx/products/linea-italia-silla-rosseto-con-cabecera): SILLÓN ROSSETO CON CABECERA Mod. N432A Silla que proporciona ergonomía, calidad y diseño. Características: Base: Polipropileno de alta resistencia Estructura: Polipropileno de alta resistencia Asiento: Tapizado en tela Respaldo: Malla Mecanismo: Bloqueo y ajuste de altura Descansabrazos: Fijos Descanso Lumbar Ajustable Cabecera Ajustable Medidas: Ancho- 67x57 cm Altura del asiento 62 cm Altura T. 116-128 cm
-  Updated: 2026-01-29T19:19:32Z
+  Updated: 2026-10-15T10:08:45Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/rosetto-cabecera_1.jpg?v=1532297545
   Price: 6549,00 $ MXN
 - [Silla para Oficina - Silla Rosseto](https://great-mini.mx/products/linea-italia-silla-rosseto-con-cabecera-1): SILLÓN ROSSETO CON CABECERA Mod. N433NJ Silla que proporciona ergonomía, calidad y diseño. Características: -Base: Polipropileno de alta resistencia -Estructura: Polipropileno de alta resistencia -Asiento: Tapizado en tela -Respaldo: Malla -Mecanismo: Bloqueo y ajuste de altura -Descansabrazos: Fijos -Descanso Lumbar Ajustable -Medidas: Ancho- 67x57 cm Altura del asiento 62 cm Altura T. 95-107 cm
-  Updated: 2026-01-29T19:19:31Z
+  Updated: 2026-10-15T10:08:45Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/rosetto.jpg?v=1532297585
   Price: 5489,00 $ MXN
 - [Silla para Oficina - Rosseto - Ergo](https://great-mini.mx/products/linea-italia-silla-rosseto-visita): SILLÓN ROSSETO VISITA Mod. CM434 Silla que proporciona ergonomía, calidad y diseño. Características: Base: Polipropileno de alta resistencia Estructura: Polipropileno de alta resistencia Asiento: Tapizado en tela Respaldo: Malla Mecanismo: Bloqueo y ajuste de altura Descansabrazos: Fijos Descanso Lumbar Ajustable Base Cromada Medidas: Ancho- 67x57 cm Altura del asiento 62 cm Altura T. 99 cm
-  Updated: 2026-01-29T19:19:31Z
+  Updated: 2026-10-15T10:08:45Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/rosetto-visita.jpg?v=1532297616
   Price: 4989,00 $ MXN
 - [Banco para Cafetería con Estructura Cromada, Blanco](https://great-mini.mx/products/cm516): Banco alto, estructura cromada. Mod. CM516 Estructura: Cromo y Aluminio -Asiento: Plastico -Respaldo: Plastico -Medidas: -Alto: 88.7 cm -Ancho: 52 cm -Profundidad: 52 cm
-  Updated: 2026-03-10T00:35:48Z
+  Updated: 2026-10-15T10:08:45Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/banco-alto.jpg?v=1532343062
   Price: 1779,00 $ MXN
 - [N658  | Sillón para Recepción Neón Negro Individual Modular](https://great-mini.mx/products/linea-italia-sillon-neon): SILLÓN NEÓN Mod. N658 -Estructura: Metálica -Asiento: Vinipiel / Tapiz -Respaldo: Vinipiel / Tapíz -Medidas: -Alto: 75 cm -Ancho: 64 cm -Profundidad: 77 cm
-  Updated: 2026-07-01T16:58:11Z
+  Updated: 2026-10-15T10:08:46Z
   Vendor: Linea Italia
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/neon.jpg?v=1532343439
   Price: 8049,00 $ MXN
 - [Locker de 4 Puertas con Chapa - Ergo](https://great-mini.mx/products/ergo-locker-de-4-puertas-con-chapa): Locker Metálico de 4 puertas con chapa Mod. LOCK-345-4P Medidas: Ancho : 38 cm Profundo : 45 cm Altura : 180 cms Nota: También se puede cotizar en colores y diferente número de puertas.
-  Updated: 2025-10-15T12:05:05Z
+  Updated: 2026-10-15T10:08:46Z
   Vendor: ERGO
   Product Type: Locker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/LOCKER_ERGO.jpg?v=1532347755
   Price: 6809,00 $ MXN
 - [BRASI H | Sillón Ergonómico Brasi H](https://great-mini.mx/products/brasi-h): Sillón Ergonómico para visitante con base de cuatro patas, con concha protectora de plástico en el respaldo, tapizado en tela. Con espuma de poliuretano inyectado.
-  Updated: 2026-07-01T17:21:07Z
+  Updated: 2026-10-15T10:08:46Z
   Vendor: ERGO
   Product Type: SILLAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/ERGO1620.jpg?v=1712550644
   Price: 1669,00 $ MXN
 - [Silla para Oficina - Montebello](https://great-mini.mx/products/silla-montebello): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla color gris con cabecera, asiento tapizado en tela color negro, descansabrazos con altura y giro ajustables. Base de aluminio.
-  Updated: 2026-07-01T12:25:25Z
+  Updated: 2026-10-15T10:08:46Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Madagascar.jpg?v=1572272767
   Price: 12.099,00 $ MXN
 - [Silla de Capacitación Monopoli Plegable c/Ruedas](https://great-mini.mx/products/silla-de-capacitacion-monopoli-plegable-ruedas): Silla de Oficina MONOPOLI GR Estructura Resistente: Fabricada con acero color gris, brindando durabilidad y estabilidad. Diseño Plegable: Facilita el almacenamiento y el ahorro de espacio. Comodidad Superior: Asiento tapizado en tela para una mayor comodidad. Respaldo Transpirable: Respaldo en malla de color negro que permite una ventilación adecuada. Brazos Ajustables: Brazos con ajuste horizontal para personalizar la comodidad. Movilidad Óptima: Equipada con ruedas para un fácil desplazamiento.
-  Updated: 2026-03-07T23:58:57Z
+  Updated: 2026-10-15T10:08:47Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONOPOLIR3-41400X1400.png?v=1721003758
   Price: 4139,00 $ MXN
 - [OSTUNI G | Silla para Oficina Gris](https://great-mini.mx/products/silla-ostuni-gris): Silla Ostuni G para Ejecutivos con buen gusto por su diseño moderno y atractivo. Cuenta con asiento y respaldo en una sola pieza de polipropileno color gris, con curvatura ergonómica y perforación decorativa. El asiento es de espuma insertado, tapizado en tela mesh color gris. Su base es de nylon de 26" con mecanismo palanca para ajuste de altura y reclinamiento sin bloqueo. Los brazos son fijos con pad en polipropileno, integrados a la estructura.
-  Updated: 2026-07-01T11:46:14Z
+  Updated: 2026-10-15T10:08:47Z
   Vendor: ERGO
   Product Type: SILLAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Silla_Colombia_Gris_-_2.JPG?v=1552865555
   Price: 5119,00 $ MXN
 - [LEVANTO | Silla para Oficina Negra](https://great-mini.mx/products/silla-levanto-negra): Te presentamos nuestra Silla Ergonómica Ejecutiva, diseñada para proporcionar el máximo confort y apoyo durante tus largas jornadas de trabajo.Características destacadas: Reclinable para adaptarse a tus preferencias de comodidad. Ajuste neumático de altura para una posición óptima. Mecanismo reclinable con control de tensión y bloqueo de reclinación para ajustar según tu preferencia. Soporte lumbar integrado para cuidar tu espalda. Descansabrazos para un apoyo adicional. Asiento tapizado en tela mesh y respaldo en malla para una ventilación óptima y frescura durante todo el día. Disponible en elegante color negro, que se adapta a cualquier entorno de oficina. Con nuestra Silla Ergonómica Ejecutiva, disfrutarás de una experiencia de trabajo más cómoda y productiva.
-  Updated: 2026-07-01T11:46:13Z
+  Updated: 2026-10-15T10:08:47Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/LEVANTO3-4.jpg?v=1712552498
   Price: 1599,00 $ MXN
 - [MONOPOLI GP | Silla para Oficina Gris Plegable con Paleta](https://great-mini.mx/products/silla-monopoli-gris-paleta): MONOPOLI GPSilla de Vista Plegable Estructura: Acero color gris Asiento: Tapizado en tela color negro Respaldo: Malla color negro Brazos: Ajuste horizontal con paleta de polipropileno plegable También se puede solicitar con ruedas. Ideal para oficinas, salas de espera o cualquier espacio que requiera versatilidad y comodidad.
-  Updated: 2026-07-01T12:25:26Z
+  Updated: 2026-10-15T10:08:48Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONOPOLI_P_3-4_1400X1400_0cabc18d-38a7-40ea-9c2b-4964683a093b.png?v=1721670029
   Price: 4729,00 $ MXN
 - [ASTI | Sillón Ergonómico con Base de Aluminio Pulido 🛋️✨](https://great-mini.mx/products/sillas-contract-sillon-ergonomico-giratorio-asti): ¡Un icono de nuestra línea contract! 🕊️ El sillón ASTI destaca por ser cómodo, sencillo y perfectamente balanceado. Con una base de aluminio pulido de 4 puntas y ajuste de altura, este modelo tapizado en tela premium (Negro o Gris) es la pieza ideal para proyectos que exigen elegancia y funcionalidad. Garantía de 5 años. Beneficios Premium: Diseño Icónico y Atemporal: Reconocido por su estética equilibrada que se integra a la perfección en cualquier espacio colaborativo o de espera. Confort de Alta Gama: Estructura monocasco con interior reforzado y espuma de poliuretano inyectado de 35 mm que asegura suavidad y durabilidad. Ingeniería de Movimiento: Base de aluminio pulido de 27" con mecanismo giratorio suave y ajuste de altura por medio de pistón cromado. Resistencia Certificada: Fabricada para soportar un peso máximo de 120 kg, garantizando estabilidad y seguridad total. Sustentabilidad y Salud: Producto con certificación GREENGUARD y BIFMA, asegurando bajos niveles de emisiones químicas y alta durabilidad.
-  Updated: 2026-04-13T02:24:05Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ASTI_G_3-4_1500x1500_f059b47b-a429-4c95-91c3-1b6eb911b477.jpg?v=1775084886
   Price: 6849,00 $ MXN
 - [ASTI-R | Sillón Ergonómico de Diseño con Ruedas 🦢🎡](https://great-mini.mx/products/sillas-contract-sillon-ergonomico-ruedas-asti-r): Potencia tu oficina con el Sillón ASTI-R. Diseño icónico ergonómico, base de aluminio con ruedas y tapizado premium. 🛡️ Garantía de por vida en componentes de base. ¡Calidad Contract en México!
-  Updated: 2026-04-13T02:24:05Z
+  Updated: 2026-10-15T10:08:48Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ASTI_3-4_1.jpg?v=1775084359
   Price: 5899,00 $ MXN
 - [BELLAGIO-R | Sillón Ergonómico de Diseño con Ruedas 🦢🎡](https://great-mini.mx/products/sillas-contract-sillon-ergonomico-ruedas-bellagio-r): Eleva tu oficina con el Sillón BELLAGIO-R. Diseño ergonómico de lujo, base con ruedas y tapizado premium. 🛡️ Garantía de por vida en componentes de base. ¡Calidad Contract en México!
-  Updated: 2026-07-01T05:25:21Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BELLAGIO3-4.jpg?v=1775083132
   Price: 7949,00 $ MXN
 - [BELLAGIO | Sillón Ergonómico de Diseño Vanguardista 🦢✨](https://great-mini.mx/products/sillas-contract-sillon-ergonomico-lujo-bellagio): Transforma tu espacio con el Sillón BELLAGIO. Diseño ergonómico único con base de acero pulido y tapizado premium. 🛡️ Garantía de por vida en componentes de base. ¡Lujo Contract en México!
-  Updated: 2026-04-13T02:24:05Z
+  Updated: 2026-10-16T14:39:51Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BELLAGIOG3-4_1.jpg?v=1775082495
   Price: 6749,00 $ MXN
 - [Mesa Redonda con 2 Sillas Noruega](https://great-mini.mx/products/mesa-redonda-con-2-sillas-noruega): RECIBIDOR PLEGABLE, CARACTERÍSTICAS: ESTRUCTURA DE ALUMINIO CUBIERTA FORRADA DE RATÁN SINTÉTICO. INCLUYE: DOS SILLAS PLEGABLES, FORRADAS DE RATÁN SINTÉTICO.
-  Updated: 2026-03-30T00:08:54Z
+  Updated: 2026-10-15T10:08:49Z
   Vendor: EXTBEK
   Product Type: EXTERIORES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/BKTNU_15.jpg?v=1572200137
   Price: 4999,00 $ MXN
 - [LÍNEA ITALIA - Archivero Móvil Vasari](https://great-mini.mx/products/linea-italia-archivero-movil-vasari): Archivero móvil Vasari Modelo: 811 Características:Fabricado een melamina de 19mm. Medidas: Fr=.41, Fo=39.2, A=.58cm.
-  Updated: 2026-01-29T19:01:39Z
+  Updated: 2026-10-15T10:08:49Z
   Vendor: Linea Italia
   Product Type: Archivero
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Archivero_Coleccion_Vasari.jpg?v=1584999136
   Price: 4949,00 $ MXN
 - [LÍNEA ITALIA - Escritorio Básico Vasari](https://great-mini.mx/products/linea-italia-escritorio-basico-vasari): Escritorio Básico Modelo: 803 Melamina de 16mm Tubular calibre 20 (1 3/4” x 3/4”) Grommet pasacables (plástico) Canaleta pasacables Sistema de ensamble oculto • Dimensiones: Alto 75 cm, Ancho 120 cm, Prof. 60 cm
-  Updated: 2026-01-29T19:01:39Z
+  Updated: 2026-10-15T10:08:49Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Escritorio_Basico_Coleccion_Vasari.jpg?v=1584999682
   Price: 5359,00 $ MXN
 - [LÍNEA ITALIA - Escritorio Delta Vasari](https://great-mini.mx/products/linea-italia-escritorio-delta-vasari): Escritorio en L Modelo: 805 Características: Escritorio en Delta con grommet, canaleta pasacables, cubierta en melamina de 16mm. Melamina de 16mm Tubular calibre 20 (1 3/4” x 3/4”) Grommet pasacables (plástico) Canaleta pasacables Sistema de ensamble oculto Medidas: Fr=1.20, Fo=1.20, A=.75cm. "
-  Updated: 2026-01-29T19:01:39Z
+  Updated: 2026-10-15T10:08:50Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Escritorio_Delta_Coleccion_Vasari.jpg?v=1584999906
   Price: 8579,00 $ MXN
 - [LÍNEA ITALIA - Escritorio "L"  Vasari](https://great-mini.mx/products/linea-italia-escritorio-l-vasari): Escritorio L Vasari Mod. 804 Características • Melamina de 16mm• Tubular calibre 20 (1 3/4” x 3/4”)• Grommet pasacables (plástico)• Canaleta pasacables• Sistema de ensamble oculto Medidas:• Dimensiones: Alto 75 cm, Ancho 150 cm, Prof. 150 cm
-  Updated: 2026-01-29T19:01:39Z
+  Updated: 2026-10-15T10:08:50Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Escritorio_L_Coleccion_Vasari.jpg?v=1585022185
   Price: 10.389,00 $ MXN
 - [LÍNEA ITALIA - Estación de Trabajo 2P Vasari (150 cms)](https://great-mini.mx/products/linea-italia-estacion-de-trabajo-vasari): Mod. 806 Para dos personas Características • Melamina de 16mm• Tubular calibre 20 (1 3/4” x 3/4”)• Grommet pasacables (aluminio)• Canaleta pasacables Dimensiones (por usuario):Alto 75 cm, Ancho 150.2 cm, Prof. 60 cm
-  Updated: 2026-01-29T18:29:56Z
+  Updated: 2026-10-15T10:08:50Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Estacion_de_Trabajo_Coleccion_Vasari_1.jpg?v=1585022488
   Price: 12.419,00 $ MXN
 - [LÍNEA ITALIA - Estación de Trabajo 2P Vasari (120 cms)](https://great-mini.mx/products/linea-italia-estacion-de-trabajo-4p-vasari): Mod. 809 Para dos personas Características • Melamina de 16mm• Tubular calibre 20 (1 3/4” x 3/4”)• Grommet pasacables (aluminio)• Canaleta pasacables Dimensiones (por usuario):Alto 75 cm, Ancho 120.2 cm, Prof. 60 cm
-  Updated: 2026-03-01T09:18:30Z
+  Updated: 2026-10-15T10:08:50Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Estacion_de_Trabajo_Coleccion_Vasari_1_6774eddf-9bb5-4fa3-a8a3-1b9c49ae952f.jpg?v=1585022620
   Price: 10.299,00 $ MXN
 - [LÍNEA ITALIA - Estación de Trabajo 4P Vasari (300 cms)](https://great-mini.mx/products/linea-italia-estacion-de-trabajo-4p-vasari-300-cms): Mod. 807Para cuatro personas Características • Melamina de 16mm• Tubular calibre 20 (1 3/4” x 3/4”)• Grommet pasacables (aluminio)• Canaleta pasacables Dimensiones (por usuario):Medidas: Fr=3.00, Fo=1.20, A=.75cm
-  Updated: 2026-02-25T05:17:34Z
+  Updated: 2026-10-15T10:08:51Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Estacion_de_Trabajo_para_4_Coleccion_Vasari.jpg?v=1585023755
   Price: 26.949,00 $ MXN
 - [LÍNEA ITALIA - Estación de Trabajo 4P Vasari (240 cms)](https://great-mini.mx/products/linea-italia-estacion-de-trabajo-4p-vasari-240-cms): Mod. 808Para cuatro personas Características • Melamina de 16mm• Tubular calibre 20 (1 3/4” x 3/4”)• Grommet pasacables (aluminio)• Canaleta pasacables Dimensiones (por usuario):Medidas: Fr=2.40, Fo=1.20, A=.75cm
-  Updated: 2026-03-06T04:45:49Z
+  Updated: 2026-10-15T10:08:51Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Estacion_de_Trabajo_para_4_Coleccion_Vasari_446c3d21-d202-4386-b14a-08dc0091243a.jpg?v=1585023820
   Price: 21.829,00 $ MXN
 - [LÍNEA ITALIA - Mesa para Sala de Juntas Vasari](https://great-mini.mx/products/linea-italia-mesa-para-sala-de-juntas-vasari): Mod. 810 Características • Melamina de 28mm• Tubular calibre 20 (1 3/4” x 3/4”) Dimensiones (por usuario):Alto 75 cm, Ancho 120 cm, Prof. 240 cm
-  Updated: 2026-01-29T18:29:55Z
+  Updated: 2026-10-15T10:08:51Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/Mesa_Sala_de_Juntas_Coleccion_Vasari.jpg?v=1585024121
   Price: 19.059,00 $ MXN
 - [BENESSERE P  | Sillón para Oficina con Paleta](https://great-mini.mx/products/sillon-con-paleta): Presentamos nuestro exclusivo Sillón Benessere con Paleta, un símbolo de confort y estilo para cualquier ambiente:Diseño Versátil: Este Sillón Sofá con Paleta se adapta a diversas necesidades, ofreciendo la posibilidad de fabricarlo en el color y la cantidad requerida por el cliente.Materiales de Calidad: La paleta está construida con partículas de madera estándar, recubiertas con resinas melamínicas termofusionadas para garantizar resistencia y durabilidad. Sus cantos de PVC con mecanismo rotativo aseguran un uso práctico y seguro.Tapizado de Excelencia: Disponible en tela o techno-leather (a seleccionar colores disponibles), el tapizado de este sillón combina elegancia y facilidad de limpieza, proporcionando una experiencia de lujo y confort.Dimensiones Ideales: Con unas medidas de altura de 78 cm, fondo de 60 cm y frente de 80 cm, este sillón se adapta perfectamente a cualquier espacio sin comprometer la comodidad.Construcción Robusta: La estructura está fabricada con madera de pino de primera calidad, mientras que el respaldo, brazos y asiento están acolchados para ofrecer el máximo confort durante su uso.Con el Sillón Benessere con Paleta, no solo obtienes un mueble de alta calidad, sino también un elemento que realza la estética y la funcionalidad de tu espacio. ¡Hazte con el tuyo y descubre el verdadero significado de la comodidad!
-  Updated: 2026-07-01T16:58:12Z
+  Updated: 2026-10-15T10:08:52Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/BENESSEREP.jpg?v=1612057581
   Price: 9769,00 $ MXN
 - [DIVANO 2P  | Sofá de 2 Plazas](https://great-mini.mx/products/sillon-para-oficina-sofa-con-paleta): Sofá de dos plazas, con costados altos tapiz en tela.Fr=120, Fo=63, A=140cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T16:58:15Z
+  Updated: 2026-10-15T10:08:52Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/DIVANO2P.jpg?v=1612059060
   Price: 13.869,00 $ MXN
 - [DIVANO 3P |Sofá de 3 Plazas Divano 3P](https://great-mini.mx/products/ergo-contract-sofa-de-2-plazas-linea-proyectos): Sofá de tres plaza, con costados altos, tapiz en tela.Fr=178, Fo=63, A=140cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:21:09Z
+  Updated: 2026-10-15T10:08:52Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/DIVANO3P.jpg?v=1612059482
   Price: 19.969,00 $ MXN
 - [SMESQ | Sofá Individual Modular Esquinero](https://great-mini.mx/products/ergo-contract-sofa-individual-modular-esquinero): Sofá modular de una plaza para esquina, tapizado en tela, Medidas: Fr=60, Fo=60, A=60cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:21:08Z
+  Updated: 2026-10-15T10:08:52Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/SMESQ.jpg?v=1612060608
   Price: 7799,00 $ MXN
 - [SM1PCR | Sofá Individual Modular 1 Plaza](https://great-mini.mx/products/ergo-contract-sofa-individual-modular-1-plaza): Sofá modular de una plaza con respaldo, tapizado en tela. Medidas: Fr=60, Fo=60, A=60cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:09:02Z
+  Updated: 2026-10-15T10:08:53Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/SM1PCR.jpg?v=1612060855
   Price: 7229,00 $ MXN
 - [SM1P | Sofá Individual Modular 1 Plaza sin Respaldo](https://great-mini.mx/products/ergo-contract-sofa-individual-modular-1-plaza-sin-respaldo): Sofá modular de una plaza sin respaldo, tapizado en tela. Medidas: Fr=60, Fo=60, A=60cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:09:03Z
+  Updated: 2026-10-15T10:08:53Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/SM1P.jpg?v=1612060990
   Price: 6649,00 $ MXN
 - [PUFF1 | Puff Individual Tapizado en Vinipiel](https://great-mini.mx/products/puff-individual-tapizado-en-vinipiel): Puff individual tapizado en vinipiel. Medidas: Fr=75, Fo=75, A=65cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:09:00Z
+  Updated: 2026-10-15T10:08:53Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/PUFF1.jpg?v=1612061452
   Price: 2999,00 $ MXN
 - [TH50CIR | Taburete Tapizado en Tela  Circular 50](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-circular): Taburete circular tapizado en tela, medidas: Diámetro=50, Altura=45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:59Z
+  Updated: 2026-10-15T10:08:53Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH50CIR.jpg?v=1612062168
   Price: 2299,00 $ MXN
 - [TH25PEN | Taburete Tapizado en Tela Pentagonal](https://great-mini.mx/products/copy-of-ergo-contract-taburete-tapizado-en-tela-circular-d50): Taburete pentagonal tapizado en tela de 50cm por lado, alto= 45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:09:04Z
+  Updated: 2026-10-15T10:08:54Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH25PEN.jpg?v=1612062579
   Price: 4859,00 $ MXN
 - [TH50CUA | Taburete Tapizado en Tela Cuadrado 50 cms](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-pentagonal): Taburete cuadrado tapizado en tela, Medidas: Fr=50, Fo=50, A= 45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:58Z
+  Updated: 2026-10-15T10:08:54Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH50CUA.jpg?v=1612062828
   Price: 2449,00 $ MXN
 - [TH40TRI | Taburete Tapizado en Tela Triangular](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-triangular): Taburete triangular tapizado en tela, Medidas: Lado=50, Altura=45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:59Z
+  Updated: 2026-10-15T10:08:54Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH40TRI.jpg?v=1612063122
   Price: 2449,00 $ MXN
 - [TH40REC | Taburete Tapizado en Tela Rectangular](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-rectangular): Taburete rectangular tapizado en tela, Medidas: Fr=100, Fo=50, Altura=45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:57Z
+  Updated: 2026-10-15T10:08:55Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH40REC.jpg?v=1612063538
   Price: 4859,00 $ MXN
 - [TH40CUR | Taburete Tapizado en Tela Curvo](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-rectangular-1): Taburete curvo tapizado en tela, Medidas: Fr=115, Fo=50, Altura=45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:58Z
+  Updated: 2026-10-15T10:08:55Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH40CUR.jpg?v=1612064017
   Price: 5049,00 $ MXN
 - [TH401/4C | Taburete Tapizado en Tela Trapezoidal](https://great-mini.mx/products/ergo-contract-taburete-tapizado-en-tela-trapezoidal): Taburete trapezoidal, tapizado en tela, Medidas: Fr=100-50, Fo=43, Altura=45cm. Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:58Z
+  Updated: 2026-10-15T10:08:55Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/TH4014C.jpg?v=1612064319
   Price: 4859,00 $ MXN
 - [MÓNACO  |  Sofá de 1 Plaza Tapizado en Tela](https://great-mini.mx/products/ergo-sofa-de-1-plaza-monaco): Sofá de una plaza, tapiz en tela. Medidas: Fr=77, Fo=75, A=75cm Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:57Z
+  Updated: 2026-10-15T10:08:56Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MONACO1P.jpg?v=1612066040
   Price: 6499,00 $ MXN
 - [MÓNACO 2P  | Sofá de 2 Plazas Tapizado en Tela](https://great-mini.mx/products/ergo-sofa-de-2-plazas-tapizado-en-tela-monaco): Sofá de dos plazas, tapiz en tela. Medidas Fr=134, Fo=75, A=75cm, Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:09:01Z
+  Updated: 2026-10-15T10:08:56Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MONACO2P.jpg?v=1612066658
   Price: 10.799,00 $ MXN
 - [MÓNACO 3P  | Sofá de 3 Plazas Tapizado en Tela](https://great-mini.mx/products/ergo-sofa-de-3-plazas-tapizado-en-tela-monaco): Sofá de tres plazas, tapiz en tela. Medidas: Fr=192, Fo=75, A=75cm, Se fabrica en el color de tela que desee el cliente en las cantidades que requiera.
-  Updated: 2026-07-01T17:08:57Z
+  Updated: 2026-10-15T10:08:56Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MONACO3P.jpg?v=1612066978
   Price: 14.449,00 $ MXN
 - [Escritorio Básico - Línea Italia](https://great-mini.mx/products/103s-escritorio-basico): Escritorio Básico Maple
-  Updated: 2026-01-29T17:46:54Z
+  Updated: 2026-10-15T10:08:57Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/103s.jpg?v=1629861359
   Price: 4869,00 $ MXN
 - [Escritorio Piccolo -Línea Italia](https://great-mini.mx/products/123s-escritorio-piccolo): Escritorio Piccolo
-  Updated: 2026-02-28T01:58:42Z
+  Updated: 2026-10-15T10:08:57Z
   Vendor: Linea Italia
   Product Type: Escritorio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/123S.jpg?v=1629862761
   Price: 4579,00 $ MXN
 - [MESSINA C  | Silla para Oficina c/ Cabecera Negra](https://great-mini.mx/products/silla-para-oficina-messina-c-cabecera): Sillón Ergonómico Ejecutivo, con ajuste neumático de altura, mecanismo reclinable con control de bloqueo y tensión, respaldo alto con cabecera tapizado en malla y soporte lumbar ajustable, asiento tapizado en mesh y descansabrazos giratorios, disponible en color negro.
-  Updated: 2026-07-01T17:09:04Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MESSINACONCABECERA.jpg?v=1629864495
   Price: 4389,00 $ MXN
 - [Mesa Lateral Multiusos (Home Office) - Ergo](https://great-mini.mx/products/ergo-mesa-lateral-multiusos-home-office): Mesa lateral con base de placa de acero de 40x40cm x 1/4" cubierta rectangular de 50x50cm, 60cm de altura.
-  Updated: 2025-01-24T10:33:59Z
+  Updated: 2026-10-15T10:08:57Z
   Vendor: ERGO
   Product Type: Mesa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/products/MESALATERAL.png?v=1638162854
   Price: 4629,00 $ MXN
 - [UMBRIA | Silla Ergonómica Ejecutiva](https://great-mini.mx/products/silla-umbria): Silla Ergonómica Ejecutiva, reclinable, con ajuste neumático de altura, mecanismo reclinable con control de tensión, y bloqueo de reclinación, soporte lumbar, descanzabrazos, asiento tapizado en tela y respaldo en malla, disponible en color negro. Respaldo alto con cabecera.
-  Updated: 2026-07-01T11:46:13Z
+  Updated: 2026-10-15T10:08:58Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/UMBRIA1.jpg?v=1690075092
   Price: 3189,00 $ MXN
 - [MONTENEGRO G | Sillón Ergonómico Directivo Gris de Élite 🦾🏛️](https://great-mini.mx/products/sillas-directivas-sillon-ergonomico-directivo-montenegro-g): Maximiza tu productividad con el Sillón MONTENEGRO G. Diseño directivo ergonómico con soporte lumbar adaptable, cabecera ajustable y base de aluminio. 🛡️ Garantía de por vida en componentes de base. ¡La silla más completa para tu oficina en México!
-  Updated: 2026-06-30T23:18:04Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONTENEGRO_G_3-4.png?v=1775090187
   Price: 5449,00 $ MXN
 - [MONTENEGRO | Sillón Ejecutivo Ergonómico Directivo Negro de Elite](https://great-mini.mx/products/silla-ejecutiva-ergonomica-montenegro): Descubre la Silla Montenegro en Great Mini: ergonomía ejecutiva con mecanismo Synchro, soporte lumbar y malla de alta resistencia. ¡Garantía de por vida en base y pistón!
-  Updated: 2026-06-30T23:18:04Z
+  Updated: 2026-10-15T10:08:58Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONTENEGRO_3-4.jpg?v=1774962582
   Price: 4699,00 $ MXN
 - [PARMA | Sillón Ergonómico Ejecutivo](https://great-mini.mx/products/sillon-parma): Sillón Ergonómico Ejecutivo, con ajuste neumático de altura, mecanismo reclinable con control de bloqueo y tensión, asiento y respaldo tapizados en malla con soporte lumbar, descansabrazos con ajuste de altura, disponible en color negro.
-  Updated: 2026-07-01T11:46:15Z
+  Updated: 2026-10-15T10:08:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/PARMA.png?v=1690076748
   Price: 2969,00 $ MXN
 - [PARMA C | Sillón Ergonómico Ejecutivo](https://great-mini.mx/products/sillon-parma-c): Sillón Ergonómico Ejecutivo, con ajuste neumático de altura, mecanismo reclinable con control de bloqueo y tensión, asiento y respaldo tapizados en malla con soporte lumbar, descansabrazos con ajuste de altura, disponible en color negro.
-  Updated: 2026-07-01T11:46:17Z
+  Updated: 2026-10-15T10:08:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/PARMAC.png?v=1690076817
   Price: 3349,00 $ MXN
 - [Silla Multiusos Castello (3 Pzas Min)](https://great-mini.mx/products/silla-castello): Silla de polipropileno inyectado con patas de acero cromado, apilable. Colores blanco, negro, azúl marino, verde, naranja y rojo.
-  Updated: 2026-07-01T10:52:22Z
+  Updated: 2026-10-15T10:08:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CASTELLO.png?v=1690078271
   Price: 2499,00 $ MXN
 - [Silla Multiusos Arezzo (6 Pzas Mín)](https://great-mini.mx/products/silla-multiusos-arezzo): Silla de polipropileno inyectado apta para exteriores, con patas de aluminio, apilable. Colores rojo, blanco, azúl, verde, negro y naranja.
-  Updated: 2026-07-01T10:52:22Z
+  Updated: 2026-10-15T10:09:00Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/AREZZO.png?v=1690078974
   Price: 1219,00 $ MXN
 - [Silla Alta Castello (2 Pzas Min)](https://great-mini.mx/products/castello-a): Silla alta con estructura de polipropileno inyectado, complementada con patas de acero cromado. Disponible en una gama de colores sofisticados que incluyen blanco, negro, azul marino, verde, naranja y rojo, esta pieza combina funcionalidad y estilo para ofrecer una experiencia elegante en cualquier entorno.
-  Updated: 2026-07-01T10:52:23Z
+  Updated: 2026-10-15T10:09:00Z
   Vendor: ERGO
   Product Type: Banco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CASTELLOA.png?v=1690079070
   Price: 4319,00 $ MXN
 - [Silla Merino de Visita A442N](https://great-mini.mx/products/a442n): Experimenta el encanto vintage con la silla Merino Visita. Su diseño elegante y sofisticado añade estilo a cualquier entorno. Con un mecanismo de rodilla multibloqueo y descansabrazos fijos, ofrece comodidad y soporte personalizados. Fabricada con materiales de alta calidad.
-  Updated: 2026-01-29T19:20:35Z
+  Updated: 2026-10-15T10:09:00Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/A442N-2.png?v=1691335743
   Price: 6749,00 $ MXN
 - [Silla Merino Alta A441N](https://great-mini.mx/products/a441n): La silla Merino combina elegancia y funcionalidad en un diseño clásico. Con respaldo y asiento en veg-leather negro, se adapta a la anatomía del usuario. Estructura de acero cromado, descansabrazos en forma de «D» y mecanismo de reclinación. Descubre el equilibrio perfecto entre estilo y confort con Merino.
-  Updated: 2026-01-29T19:20:36Z
+  Updated: 2026-10-15T10:09:01Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/A441N-1.png?v=1691376525
   Price: 8789,00 $ MXN
 - [CORSEGA C | Sillón Ergonómico para Oficina](https://great-mini.mx/products/sillon-ergonomico-para-oficina-corcega-c): Silla Ejecutiva Bari con Cabecera
-  Updated: 2026-07-01T11:46:14Z
+  Updated: 2026-10-15T10:09:01Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORSEGAC-3-4.png?v=1712087431
   Price: 6999,00 $ MXN
 - [CORSEGA | Sillón Ergonómico para Oficina](https://great-mini.mx/products/sillon-ergonomico-para-oficina-corcega): Silla Ejecutiva Bari con Cabecera
-  Updated: 2026-07-01T11:46:13Z
+  Updated: 2026-10-15T10:09:01Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORSEG-3-4.png?v=1712087798
   Price: 6499,00 $ MXN
 - [CORSEGA CG | Sillon Ergonomico para Oficina](https://great-mini.mx/products/sillon-ergonomico-para-oficina-corcega-cg): Silla Ejecutiva Bari con Cabecera
-  Updated: 2026-07-01T11:46:15Z
+  Updated: 2026-10-15T10:09:01Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORSEGACG-3-4.png?v=1712088036
   Price: 8649,00 $ MXN
 - [CORSEGA G | Sillon Ergonomico para Oficina Gris](https://great-mini.mx/products/sillon-ergonomico-para-oficina-corcega-g): Silla Ejecutiva Bari con Cabecera
-  Updated: 2026-07-01T11:46:17Z
+  Updated: 2026-10-15T10:09:02Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORSEGAG3-4.png?v=1712088262
   Price: 8049,00 $ MXN
 - [MODENA NEGRA A | Sillón Ergonómico para Oficina Alta](https://great-mini.mx/products/sillon-ergonomico-para-oficina-modena-alta-negra): Sillon Ergonomico para Oficina MODENA Alta Negra
-  Updated: 2026-07-01T11:37:28Z
+  Updated: 2026-10-15T10:09:02Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MODENAN3-4.png?v=1712115850
   Price: 6199,00 $ MXN
 - [MODENA CAFÉ A | Sillon Ergonomico para Oficina Alta](https://great-mini.mx/products/sillon-ergonomico-para-oficina-modena-alta-cafe): Sillon Ergonomico para Oficina MODENA Alta Café
-  Updated: 2026-07-01T11:37:29Z
+  Updated: 2026-10-15T10:09:02Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MODENA3-4.png?v=1712116000
   Price: 6199,00 $ MXN
 - [MODENA CAFÉ M | Sillon Ergonomico para Oficina](https://great-mini.mx/products/sillon-ergonomico-para-oficina-modena-m-cafe): Sillon Ergonomico para Oficina MODENA M Café
-  Updated: 2026-07-01T11:37:29Z
+  Updated: 2026-10-15T10:09:03Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MODENAM3-4.png?v=1712116215
   Price: 5189,00 $ MXN
 - [MODENA MN | Sillón Ergonómico para Oficina](https://great-mini.mx/products/sillon-ergonomico-para-oficina-modena-m-negro): Sillon Ergonomico para Oficina MODENA M Negro
-  Updated: 2026-07-01T11:26:06Z
+  Updated: 2026-10-15T10:09:03Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MODENAMN3-4.png?v=1712116321
   Price: 5189,00 $ MXN
 - [Banca Ergonómica de Acero 4 Plazas CRCH](https://great-mini.mx/products/ravena-4crch): Es una banca ergonómica de acero con capacidad para cuatro personas, diseñada para proporcionar comodidad y durabilidad. Sus brazos, patas y bordes están cromados, lo que no solo le brinda un aspecto elegante, sino también una resistencia adicional contra la corrosión y el desgaste. Su diseño ergonómico garantiza una postura cómoda durante períodos prolongados de uso, ideal para áreas de espera, salas de reuniones o espacios públicos donde se requiera asientos de calidad y estilo.
-  Updated: 2026-04-13T01:59:13Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/RAVENA4CR.jpg?v=1712527694
   Price: 6999,00 $ MXN
 - [Banca Ergonómica de Acero 2 Plazas CRCH](https://great-mini.mx/products/ravena-2cr): Banca Ergonómica de acero de dos plazas brazos, patas y bordes, cromados. Es una banca ergonómica de acero con capacidad para dos personas, diseñada para proporcionar comodidad y durabilidad. Sus brazos, patas y bordes están cromados, lo que no solo le brinda un aspecto elegante, sino también una resistencia adicional contra la corrosión y el desgaste. Su diseño ergonómico garantiza una postura cómoda durante períodos prolongados de uso, ideal para áreas de espera, salas de reuniones o espacios públicos donde se requiera asientos de calidad y estilo.
-  Updated: 2026-04-13T01:59:13Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/RAVENA2CR.png?v=1712528580
   Price: 4399,00 $ MXN
 - [Banca Ergonómica de Acero 3 Plazas CRCH](https://great-mini.mx/products/bancas-espera-ravena-3crch-acero-ergonomica): Optimiza la comodidad de tus espacios con la banca ergonómica Ravena 3CRCH de 3 plazas. Acero de alta resistencia con acabados cromados. ¡Calidad y estilo aquí!
-  Updated: 2026-04-13T01:59:13Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/RAVENA3CR.jpg?v=1712528757
   Price: 5499,00 $ MXN
 - [Banca Ergonómica Brasi 2P - Ergo](https://great-mini.mx/products/brasi-2p-h): La banca ergonómica de dos plazas está construida sobre una sólida estructura metálica y cuenta con un tapizado de tela para ofrecer comodidad y estilo. Además, está equipada con espuma de poliuretano inyectado para proporcionar un soporte adicional y una experiencia de asiento aún más confortable.
-  Updated: 2025-02-17T22:24:57Z
+  Updated: 2026-10-15T10:09:04Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASI2P.png?v=1712530221
   Price: 4439,00 $ MXN
 - [Banca Ergonómica Brasi 2P - Ergo](https://great-mini.mx/products/brasi-2p): La BRASI 2P es una banca ergonómica diseñada para dos personas, que descansa sobre una estructura metálica robusta y duradera. Está tapizada en tela, lo que garantiza comodidad y un aspecto agradable.
-  Updated: 2025-09-12T05:13:26Z
+  Updated: 2026-10-15T10:09:04Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASI2P_1.png?v=1712530454
   Price: 4199,00 $ MXN
 - [Banca Ergonómica Brasi 3P - Ergo](https://great-mini.mx/products/brasi-3p-ergo): La banca ergonómica de tres plazas está construida sobre una sólida estructura metálica y cuenta con un tapizado de tela para ofrecer comodidad y estilo. Además, está equipada con espuma de poliuretano inyectado para proporcionar un soporte adicional y una experiencia de asiento aún más confortable.
-  Updated: 2026-03-28T05:49:18Z
+  Updated: 2026-10-15T10:09:05Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASI3P.png?v=1712530620
   Price: 5319,00 $ MXN
 - [Banca Ergonómica Brasi P 3P](https://great-mini.mx/products/brasi-p-3p-ergo): La BRASI P 3P es una banca ergonómica diseñada para tres personas, que se sustenta sobre una resistente estructura metálica. Tanto el asiento como el respaldo están fabricados con plástico antiderrapante, asegurando así una experiencia de asiento segura y cómoda para los usuarios.
-  Updated: 2025-08-07T15:44:14Z
+  Updated: 2026-10-15T10:09:05Z
   Vendor: ERGO
   Product Type: Bancas Espera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASIP3P.png?v=1712530797
   Price: 4209,00 $ MXN
 - [Silla Alta Siracusa Gris](https://great-mini.mx/products/silla-alta-siracusa-gris-ergo): Silla alta de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables.
-  Updated: 2026-06-30T22:52:18Z
+  Updated: 2026-10-15T10:09:05Z
   Vendor: ERGO
   Product Type: Banco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7211B-G6.png?v=1712531229
   Price: 2599,00 $ MXN
 - [Silla Alta Siracusa Negra](https://great-mini.mx/products/silla-alta-siracusa-negra): Silla alta de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables.
-  Updated: 2026-06-30T22:52:18Z
+  Updated: 2026-10-15T10:09:05Z
   Vendor: ERGO
   Product Type: Banco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7211B-G7_1.png?v=1712531325
   Price: 2599,00 $ MXN
 - [Silla Alta Siracusa Blanca](https://great-mini.mx/products/silla-alta-siracusa-blanca): Silla alta de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables.
-  Updated: 2026-06-30T22:52:18Z
+  Updated: 2026-10-15T10:09:06Z
   Vendor: ERGO
   Product Type: Banco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7211B-W9.png?v=1712531632
   Price: 2599,00 $ MXN
 - [Silla Siracusa con Descansa Brazos Blanca](https://great-mini.mx/products/silla-siracusa-blanca): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable en varios colores.
-  Updated: 2026-06-30T22:52:18Z
+  Updated: 2026-10-15T10:09:06Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7050-W9.png?v=1712532135
   Price: 2229,00 $ MXN
 - [Silla Siracusa con Descansa Brazos Azul](https://great-mini.mx/products/silla-siracusa-con-descansa-brazos-azul): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable en varios colores.
-  Updated: 2026-06-30T22:52:18Z
+  Updated: 2026-10-15T10:09:06Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7050-B7.png?v=1712532302
   Price: 2229,00 $ MXN
 - [Silla Siracusa con Descansa Brazos Negro](https://great-mini.mx/products/silla-siracusa-con-descansa-brazos-negro): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable en varios colores.
-  Updated: 2026-06-30T22:52:17Z
+  Updated: 2026-10-15T10:09:07Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7050-K5.png?v=1712532393
   Price: 2229,00 $ MXN
 - [Silla Siracusa con Descansa Brazos Gris](https://great-mini.mx/products/silla-siracusa-con-descansa-brazos-gris): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable en varios colores.
-  Updated: 2026-06-30T22:52:17Z
+  Updated: 2026-10-15T10:09:07Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7050-G6.png?v=1712532467
   Price: 2229,00 $ MXN
 - [Silla Siracusa Gris](https://great-mini.mx/products/silla-siracusa-gris): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable.
-  Updated: 2026-06-30T22:52:17Z
+  Updated: 2026-10-15T10:09:07Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7052-G6_1.png?v=1712532609
   Price: 1999,00 $ MXN
 - [Silla Siracusa Negra](https://great-mini.mx/products/silla-siracusa-negra): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable.
-  Updated: 2026-06-30T22:52:17Z
+  Updated: 2026-10-15T10:09:08Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7052-G7_1.png?v=1712532706
   Price: 1999,00 $ MXN
 - [Silla Siracusa Blanca](https://great-mini.mx/products/siracusa-blanca): Silla de polipropileno inyectado apta para exteriores, con protectores en las patas tipo goma de seguridad no deslizables, apilable.
-  Updated: 2026-06-30T22:52:16Z
+  Updated: 2026-10-15T10:09:08Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/7052-W9_1.png?v=1712532788
   Price: 1999,00 $ MXN
 - [Silla Palazzo](https://great-mini.mx/products/silla-palazzo): La silla PALAZZO es una opción elegante y funcional con estructura tubular de aluminio, destacando por su durabilidad y ligereza. Incluye descansabrazos para mayor confort y apoyo. Su diseño moderno y versátil la hace ideal para interiores y exteriores, adaptable a hogares, oficinas, restaurantes o espacios públicos.
-  Updated: 2026-06-30T22:52:16Z
+  Updated: 2026-10-16T14:39:54Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/PALAZOLATERAL.jpg?v=1712533394
   Price: 2379,00 $ MXN
 - [CORRICELLA BGR | Silla Ejecutiva Corricella Blanca](https://great-mini.mx/products/corricella-bgr): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:25:25Z
+  Updated: 2026-10-15T10:09:08Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORRICELLABGR-1.webp?v=1712534452
   Price: 4949,00 $ MXN
 - [CORRICELLA BVE | Silla Ejecutiva Verde](https://great-mini.mx/products/silla-ejecutiva-corricella-bve): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:25:26Z
+  Updated: 2026-10-15T10:09:09Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORRICELLABVE.jpg?v=1712535644
   Price: 4949,00 $ MXN
 - [CORRICELLA BSCH | Silla Ejecutiva Shedron](https://great-mini.mx/products/silla-ejecutiva-corricella-shedron): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:42Z
+  Updated: 2026-10-15T10:09:09Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CORRICELLASHEDRON.jpg?v=1712535564
   Price: 4949,00 $ MXN
 - [MANAROLA | Silla Ergonómica](https://great-mini.mx/products/silla-manarola): Un sofisticado y distinguido Sillón Ergonómico Directivo, diseñado para ofrecer el máximo confort y funcionalidad. Este sofisticado sillón se caracteriza por su capacidad de reclinación, acompañado de un ajuste neumático de altura que garantiza una experiencia personalizada para cada usuario.Equipado con un avanzado mecanismo syncro, este sillón ofrece un control de bloqueo multiposiciones, permitiendo al usuario encontrar la posición perfecta para sus necesidades individuales. Su respaldo alto, confeccionado en una elegante malla color gris, incluye una cabecera que añade un toque de distinción y comodidad adicional.El asiento, tapizado en una exquisita tela gris, ofrece una sensación de lujo y suavidad al tacto. Los descansabrazos, ajustables en altura y giro, brindan un soporte óptimo para los brazos, mientras que el mecanismo "slider" del asiento permite ajustar la profundidad para adaptarse a diferentes longitudes de piernas.En resumen, este Sillón Ergonómico Directivo combina elegancia, funcionalidad y comodidad en una pieza de mobiliario excepcionalmente diseñada para satisfacer las demandas del entorno laboral contemporáneo.
-  Updated: 2026-07-01T11:26:07Z
+  Updated: 2026-10-15T10:09:10Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MANAROLA3-4.jpg?v=1712541738
   Price: 10.349,00 $ MXN
 - [DIRETTORE | Silla Ejecutiva – Ergonomía de Alta Dirección en Teknoleather Negro](https://great-mini.mx/products/sillon-direttore): Potencie su liderazgo con la silla DIRETTORE de Great+Mini. Diseño ergonómico en Teknoleather, mecanismo Knee Tilt y estética premium para oficinas de alto desempeño. ¡Envíos a todo México!
-  Updated: 2026-07-01T11:26:06Z
+  Updated: 2026-10-15T10:09:10Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/DIRETTORE3-4.png?v=1712542165
   Price: 12.219,00 $ MXN
 - [Silla para Oficina - Montebello Negra](https://great-mini.mx/products/sillon-montebello-negro): Presentamos el Sillón Ergonómico Directivo, una pieza de mobiliario que encarna la esencia del confort y la funcionalidad en el entorno ejecutivo.Este sofisticado sillón, diseñado para proporcionar el máximo apoyo y comodidad, cuenta con un mecanismo reclinable y un ajuste neumático de altura, garantizando una postura ergonómica óptima en todo momento. Su avanzado mecanismo syncro, equipado con control de bloqueo multiposiciones, permite al usuario personalizar su experiencia de asiento según sus preferencias individuales.El respaldo alto, adornado con una cabecera, y el asiento tapizados en malla color negro, ofrecen una combinación perfecta de transpirabilidad y soporte. Esta elección de materiales asegura una ventilación adecuada y una sensación de frescura durante las largas jornadas de trabajo.Además, los descansabrazos, con altura y giro ajustables, proporcionan un apoyo adicional para los brazos, permitiendo al usuario encontrar la posición más cómoda para su bienestar. En resumen, el Sillón Ergonómico Directivo es la elección ideal para aquellos que buscan un equilibrio perfecto entre estilo, funcionalidad y confort en su espacio de trabajo.
-  Updated: 2026-07-01T11:26:06Z
+  Updated: 2026-10-15T10:09:10Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONTEBELLON3-4.jpg?v=1712545623
   Price: 11.499,00 $ MXN
 - [BECCHIA | Silla para Oficina Ergonómica](https://great-mini.mx/products/silla-becchia): Silla Ergonómica Ejecutiva, con ajuste neumático de altura, mecanismo reclinable con control de tensión, y bloqueo de reclinación, descanzabrazos. Asiento tapizado en tela gris y respaldo en malla gris, estructura gris. Respaldo alto con cabecera.
-  Updated: 2026-07-01T11:26:07Z
+  Updated: 2026-10-15T10:09:10Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BECCHIA-3-4.png?v=1712546584
   Price: 2209,00 $ MXN
 - [UMBRIA G | Silla para Oficina Ergonómica](https://great-mini.mx/products/silla-umbria-g-1): Presentamos la UMBRIA G, una silla ergonómica ejecutiva diseñada para brindar confort y soporte durante tus jornadas de trabajo.Características: Ajuste neumático de altura para adaptarse a tus necesidades. Mecanismo reclinable con control de tensión y bloqueo para mayor comodidad. Soporte lumbar integrado para cuidar tu espalda. Descanzabrazos para un apoyo adicional. Asiento tapizado en tela negra y respaldo en malla negra para una ventilación óptima. Estructura gris para un estilo elegante y moderno. Respaldo alto con cabecera para un apoyo adicional al cuello. Con la UMBRIA G, disfruta de una experiencia de trabajo ergonómica y confortable.
-  Updated: 2026-07-01T11:26:06Z
+  Updated: 2026-10-15T10:09:11Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/UMBRIAG3-4.png?v=1712546795
   Price: 3189,00 $ MXN
 - [SAN MARINO | Silla Ergonómica Neumática](https://great-mini.mx/products/silla-san-marino): Silla Ergonómica neumática con base de 5 puntas, respaldo bajo ajustable y asiento de poliuretano antiderrapante.
-  Updated: 2026-07-01T12:12:42Z
+  Updated: 2026-10-15T10:09:11Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SANMARINO3-4.jpg?v=1712548123
   Price: 3199,00 $ MXN
 - [SAN MARINO A | Silla Tipo Cajero Industrial Ergonómica con Certificación BIFMA ⚙️](https://great-mini.mx/products/silla-tipo-cajero-san-marino-a-industrial): Optimiza tu área de trabajo con la Silla San Marino A 🛠️. Diseño industrial tipo cajero con ajuste neumático, certificaciones BIFMA y aro descansapiés ajustable. ¡Resistencia pura! ✅
-  Updated: 2026-07-01T12:12:43Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SANMARINOA3-4.jpg?v=1712548363
   Price: 3619,00 $ MXN
 - [ERGO 171 A | Silla Ergonómica Cajero Alta](https://great-mini.mx/products/silla-alta-cajero): Banco Ergonómico neumático con base de 5 puntas, ajustable y asiento de poliuretano antiderrapante con agarradera.
-  Updated: 2026-07-01T12:12:40Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ERGO171A.jpg?v=1712548563
   Price: 2199,00 $ MXN
 - [ERGO 171 | Silla Ergonómica Secretarial](https://great-mini.mx/products/silla-ergonomica-secretarial): Silla Ergonómica neumática con base de 5 puntas, ajustable y asiento de poliuretano antiderrapante con agarradera.
-  Updated: 2026-07-01T12:12:42Z
+  Updated: 2026-10-15T10:09:12Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ERGO171.png?v=1712548716
   Price: 1769,00 $ MXN
 - [ERGO 170 A | Silla Ergonómica Cajero Alta Asiento Redondo](https://great-mini.mx/products/silla-cajero-alta-asiento-redondo): Banco Ergonómico neumático con base de 5 puntas, ajustable y asiento de poliuretano antiderrapante REDONDO. CAJERO
-  Updated: 2026-07-01T12:12:42Z
+  Updated: 2026-10-15T10:09:12Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ERGO170A.jpg?v=1712548963
   Price: 2149,00 $ MXN
 - [ERGO 170 | Silla Ergonómica Secretarial Asiento Redondo](https://great-mini.mx/products/silla-ergonomica-secretarial-asiento-redondo): Silla Ergonómica neumática con base de 5 puntas, ajustable y asiento de poliuretano antiderrapante REDONDO. SECRETARIAL
-  Updated: 2026-07-01T12:12:43Z
+  Updated: 2026-10-15T10:09:12Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ERGO170.png?v=1712549091
   Price: 1719,00 $ MXN
 - [SCALA A | Silla Ergonómica Alta](https://great-mini.mx/products/silla-scala-alta): Silla Ergonómica Operativa tipo cajero con base de 5 puntas, respaldo medio ajustable, arillo descansa piés y ajuste neumático de altura, tapiz en tela.
-  Updated: 2026-07-01T12:12:41Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SCALAA.jpg?v=1712549747
   Price: 2799,00 $ MXN
 - [BRASI E  |  Silla Estibable Multiusos](https://great-mini.mx/products/sillon-brasi-estibable): Presentamos nuestro Sillón Ergonómico para visitantes, una opción sofisticada y confortable para complementar cualquier espacio de recepción o sala de espera. Características principales: Base de cuatro patas que proporciona estabilidad y durabilidad. Concha protectora de plástico en el respaldo, diseñada para ofrecer un soporte ergonómico y protección adicional. Tapizado en tela negra que combina elegancia con facilidad de limpieza y mantenimiento. Estructura resistente fabricada en calibre 18, garantizando una construcción sólida y duradera. Este sillón es la elección ideal para recibir a tus visitantes con estilo y confort, asegurando una experiencia agradable mientras esperan. Su diseño ergonómico y su sólida construcción lo convierten en una opción práctica y atractiva para cualquier entorno de recepción.
-  Updated: 2026-07-01T16:53:18Z
+  Updated: 2026-10-15T10:09:13Z
   Vendor: ERGO
   Product Type: SILLAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASI3-4.jpg?v=1712551046
   Price: 1199,00 $ MXN
 - [BRASI B  | Silla Ergonómica Multiusos](https://great-mini.mx/products/sillon-brasi-b): Presentamos nuestro Sillón Ergonómico para visitantes, equipado con una base de cuatro patas para estabilidad, una concha protectora de plástico en el respaldo y descansabrazos para mayor comodidad. Además, está tapizado en tela para una experiencia de asiento confortable y agradable.
-  Updated: 2026-07-01T16:53:17Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: SILLAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/BRASIB3-4.jpg?v=1712551438
   Price: 1719,00 $ MXN
 - [LEVANTO V | Silla para Oficina  Visita](https://great-mini.mx/products/silla-levanto-visita): Nuestra Silla Ergonómica de visita, diseñada para ofrecer comodidad y estilo en entornos de recepción y salas de espera.Características destacadas: Soporte lumbar integrado para una postura saludable. Descansabrazos que proporcionan un apoyo adicional. Asiento tapizado en tela mesh y respaldo en malla para una ventilación óptima y frescura. Disponible en elegante color negro para adaptarse a cualquier ambiente. Base tubular tipo trineo para estabilidad y durabilidad. Con esta silla de visita, tus invitados disfrutarán de una experiencia confortable y acogedora mientras esperan.
-  Updated: 2026-07-01T11:26:05Z
+  Updated: 2026-10-15T10:09:13Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/LEVANTOV3-4.png?v=1712552634
   Price: 2129,00 $ MXN
 - [LEVANTO B | Silla para Oficina  Blanca](https://great-mini.mx/products/silla-levanto-blanca): Te presentamos la silla Levanto Blanca, una opción ergonómica y elegante para tu entorno ejecutivo.Características destacadas: Reclinable para proporcionar comodidad personalizada. Ajuste neumático de altura para adaptarse a tus necesidades individuales. Mecanismo reclinable con control de tensión y bloqueo para un ajuste óptimo. Soporte lumbar integrado para una postura saludable. Descansabrazos para un apoyo adicional. Asiento tapizado en tela mesh y respaldo en malla color gris para una ventilación óptima. Estructura en color blanco para un estilo moderno y sofisticado. Base cromada para una mayor durabilidad y elegancia. Con la silla Levanto Blanca, disfrutarás de una experiencia de trabajo confortable y con estilo.
-  Updated: 2026-07-01T11:26:05Z
+  Updated: 2026-10-15T10:09:14Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/01-LEVANTOB-1400X1400.jpg?v=1712552960
   Price: 2179,00 $ MXN
 - [STELLA G | Silla Ejecutiva Stella Gris](https://great-mini.mx/products/silla-stella-g): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:46Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/STELLAGRIS3-4.jpg?v=1712553657
   Price: 5549,00 $ MXN
 - [SORRENTO | Sillón Ejecutivo de Alta Resistencia y Diseño Reforzado 🦾👔](https://great-mini.mx/products/sillas-ejecutivas-sillon-ergonomico-ejecutivo-sorrento): Eleva tu despacho con el Sillón SORRENTO. Estructura metálica reforzada, respaldo de malla con vinil y componentes certificados BIFMA. 🛡️ Garantía de por vida en componentes de base. ¡Resistencia y elegancia en México!
-  Updated: 2026-06-30T23:03:10Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SILLA_SORRENTO_3-4.png?v=1776277240
   Price: 2409,00 $ MXN
 - [CIVITA B C | Silla Ergonómica Ejecutiva  con Cabecera Blanca](https://great-mini.mx/products/civita-cb): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:42Z
+  Updated: 2026-10-15T10:09:15Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CIVITACB.png?v=1714936139
   Price: 3199,00 $ MXN
 - [CIVITA G C | Silla Ergonómica Ejecutiva con Cabecera Gris](https://great-mini.mx/products/civita-con-cabecera-gris): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:50Z
+  Updated: 2026-10-15T10:09:15Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CIVITACG.jpg?v=1714936509
   Price: 3199,00 $ MXN
 - [CIVITA B | Silla Ergonómica Ejecutiva Blanca](https://great-mini.mx/products/civita-blanca): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:39Z
+  Updated: 2026-10-15T10:09:15Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CIVITAB.png?v=1714936985
   Price: 2799,00 $ MXN
 - [CIVITA G | Silla Ergonómica Ejecutiva Gris](https://great-mini.mx/products/silla-civita-gris): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-07-01T12:12:39Z
+  Updated: 2026-10-15T10:09:15Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/CIVITAG.jpg?v=1714937141
   Price: 2799,00 $ MXN
 - [NUVOLA | Sillón Directivo Ergonómico de Diseño Escultural ☁️💼](https://great-mini.mx/products/sillas-directivas-sillon-ergonomico-diseno-nuvola): Define tu estilo con el Sillón NUVOLA. Diseño directivo de silueta orgánica, respaldo alto y base de aluminio pulido. 🛡️ ¡Elegancia y ergonomía de autor en México!
-  Updated: 2026-04-30T13:12:04Z
+  Updated: 2026-10-15T10:09:16Z
   Vendor: Linea Italia
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/NUVOLA.png?v=1777511507
   Price: 15.499,00 $ MXN
 - [Silla de Capacitación Monopoli Plegable Fija](https://great-mini.mx/products/silla-de-capacitacion-monopoli-plegable-fija): Silla de Oficina MONOPOLI G Estructura Resistente: Fabricada con acero color gris, ofreciendo durabilidad y estabilidad. Diseño Plegable: Facilita el almacenamiento y el ahorro de espacio. Comodidad Superior: Asiento tapizado en tela para una mayor comodidad. Respaldo Transpirable: Respaldo en malla de color negro que permite una ventilación adecuada. Brazos Ajustables: Brazos con ajuste horizontal para personalizar la comodidad.
-  Updated: 2026-06-30T22:52:16Z
+  Updated: 2026-10-15T10:09:16Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONOPOLI3-41400X1400.png?v=1721004215
   Price: 3849,00 $ MXN
 - [ISOLA | Banco Alto Contract](https://great-mini.mx/products/banco-alto-contract-isola): Banco Contract Isola – Comodidad y Ergonomía para tu Espacio de Trabajo Optimiza tu postura y confort con el Banco Contract Isola, un banco ergonómico diseñado para oficinas y espacios de trabajo dinámicos. Su diseño curvo favorece una correcta postura, mientras que su altura ajustable permite adaptarlo a diferentes necesidades. 🔹 Ergonomía Superior: Curvatura que promueve una postura saludable.🔹 Ajuste Personalizado: Regulación de altura baja o alta.🔹 Base de Libre Basculamiento: Para mayor estabilidad y adaptación al usuario.🔹 Material Premium: Espuma de poliuretano tapizada en tela air mesh transpirable.🔹 Colores Disponibles: Negro y gris.🔹 Durabilidad Garantizada: 5 años de garantía en todos los componentes.🔹 Resistencia Certificada: Base de polipropileno con certificación BIFMA, soporta hasta 1,136 kg. Eleva tu experiencia de trabajo con el Banco Contract Isola, la combinación perfecta entre diseño, funcionalidad y confort. ¡Hazlo tuyo hoy mismo!
-  Updated: 2026-07-01T11:26:05Z
+  Updated: 2026-10-15T10:09:16Z
   Vendor: ERGO
   Product Type: Banco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Banco_Alto_Contract_Isola.webp?v=1748044671
   Price: 3149,00 $ MXN
 - [STAZZO | Sillón Contract Gris](https://great-mini.mx/products/sillon-contract-stazzo): Sillón con Elegancia y confort para salas de espera y visitas Dale un toque moderno y sofisticado a cualquier estancia con el Sillón Contract Stazzo, diseñado para combinar estilo y comodidad. Características:✔ Tapizado en tela gris con tonalidades claras y oscuras, aportando un acabado refinado y versátil.✔ Respaldo ergonómico, con forma arqueada que proporciona soporte óptimo. Fabricado con madera maciza de primera calidad y acojinado con espuma estándar.✔ Asiento cómodo y duradero, con estructura de madera maciza, espuma transpirable y tapizado en tela para mayor frescura.✔ Cenefa resistente, fabricada en madera maciza y cubierta con espuma estándar para un acabado impecable. Ideal para salas de espera, recepciones y espacios de descanso, el Sillón Contract Stazzo es la combinación perfecta de diseño y funcionalidad.
-  Updated: 2026-07-01T17:08:56Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillón
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Sillon_Contract_Stazzo.jpg?v=1748045397
   Price: 8499,00 $ MXN
 - [Whirlpool Refrigerador 18' y Congelador 18'](https://great-mini.mx/products/wsr57r18dm-wsz57l18dm-skt60m): Conjunto de refrigerador y congelador separados, ambos de 18 pies cúbicos con control electrónico y luz LED. El congelador incluye Fast Freeze, compartimento para pizza y es Frost Free. El refrigerador tiene cajones para frutas, verduras y carnes frías. Incluye jaladeras metálicas y un trim de empotre en acero inoxidable.
-  Updated: 2026-07-17T11:16:34Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: WHIRLPOOL
   Product Type: Enfriador
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/82001638883358.webp?v=1750206477
   Price: 94.999,00 $ MXN
 - [❄️ WWCCF05145LHWSD / Congelador Horizontal 5 pies 145 Litros](https://great-mini.mx/products/wwccf05145lhwsd-congelador-horizontal-5-pies-145-litros): Congelador horizontal White-Westinghouse 5 pies 145L color blanco con control dual de temperatura y cerradura. Ideal para hogar o negocio.
-  Updated: 2026-08-04T16:26:32Z
+  Updated: 2026-10-15T10:09:17Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: CONGELADOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCCF05145LHWSD_1.png?v=1777910478
   Price: 5399,00 $ MXN
 - [🧺 WWXCTT11703BK / Lavadora Doble Tina 11 kg](https://great-mini.mx/products/wwxctt11703bk-lavadora-doble-tina-11-kg): Lavadora doble tina White-Westinghouse 11 kg, eficiente y ahorradora de agua y energía. Ideal para hogar o negocio.
-  Updated: 2026-08-04T16:26:33Z
+  Updated: 2026-10-15T10:09:17Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: LAVADORA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWXCTT11703BK_-_1.png?v=1777835348
   Price: 3699,00 $ MXN
 - [🍽️ WWCR3011OOMIRWE / Horno de Microondas 1.1 pies Espejo](https://great-mini.mx/products/wwcr3011oomirwe-horno-microondas-1-1-pies-espejo): Horno de microondas White-Westinghouse 1.1 pies acabado espejo, 900W, 10 niveles de potencia. Diseño moderno y elegante para cocina u oficina.
-  Updated: 2026-08-04T16:26:33Z
+  Updated: 2026-10-15T10:09:18Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: MICROONDAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCR3011OOMIRWE-1.png?v=1777835039
   Price: 2499,00 $ MXN
 - [🍽️ WWCMV10028WE / Horno de Microondas 0.9 pies Acero Inoxidable](https://great-mini.mx/products/wwcmv10028we-horno-microondas-0-9-pies-acero-inoxidable): Horno de microondas White-Westinghouse 0.9 pies color negro/acero, 900W, 5 niveles de potencia. Ideal para hogar u oficina.
-  Updated: 2026-08-04T16:26:29Z
+  Updated: 2026-10-15T10:09:18Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: MICROONDAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCMV10028WE_-_1.png?v=1777834644
   Price: 2199,00 $ MXN
 - [MDC12A2 / 🍱⚡ - Microondas Menumaster® de Alto Volumen (1200W)](https://great-mini.mx/products/microondas-menumaster-heavy-volume-mdc12a2): Maximiza la eficiencia de tu cocina industrial con el Horno Microondas Menumaster MDC12A2 de 1200W. Alta potencia, durabilidad industrial y diseño compacto. ¡Cómpralo aquí!
-  Updated: 2026-04-25T10:03:18Z
+  Updated: 2026-10-15T10:09:18Z
   Vendor: MENUMASTER
   Product Type: MICROONDAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Screenshot2025-06-19123049.png?v=1750358107
   Price: 1299,00 $ MXN
 - [Freidora de Gas Imperial IFS-40:](https://great-mini.mx/products/freidora-de-gas-imperial-ifs-40): IMPERIALFreidora de Potencia, Eficiencia y Sabor Superior Experimenta la fritura profesional y optimiza tu cocina con la freidora de gas Imperial IFS-40. Diseñada para la velocidad y la eficiencia, esta unidad de una tina es la solución ideal para producir alimentos deliciosos con la máxima calidad. Rendimiento y Control de Precisión: Potencia Impresionante: Con una salida total de 105,000 BTU (31 kW), calienta el aceite rápidamente para una producción eficiente. Termostato de Acción Rápida: Rango de temperatura de 93°C a 204°C (200°F - 400°F) que garantiza una recuperación veloz a la temperatura deseada, asegurando una cocción consistente. Sabor Superior, Menos Absorción: Al calentar el aceite rápidamente, los alimentos se cocinan mejor y absorben menos aceite, resultando en un producto de sabor más auténtico y textura ideal. Diseño Robusto y Seguro: Construcción Duradera: Exterior mayoritariamente de acero inoxidable, incluyendo una puerta de doble panel y patas de acero inoxidable de seis pulgadas para un soporte estructural completo y una larga vida útil. Seguridad Integral: Incorpora un 100% de cierre de seguridad y un escudo térmico completo que protege el panel de control, garantizando una operación segura en todo momento. Accesorios Prácticos: Incluye 2 canastillas para facilitar el proceso de fritura. Versatilidad de Combustible: Disponible en configuraciones para gas LP y Natural (NAT), adaptándose a tus necesidades.DimensionesFrente: 0.394 mAlto: 0.914 mFondo: 0.845 m La Imperial IFS-40 es la elección perfecta para establecimientos que buscan fiabilidad, rendimiento superior y resultados consistentemente deliciosos en sus frituras. PRECIO: El precio publicado es en dólares (USD) y será convertido al tipo de cambio vigente el día de la operación de venta a moneda nacional.
-  Updated: 2026-02-25T12:09:03Z
+  Updated: 2026-10-15T10:09:19Z
   Vendor: IMPERIAL
   Product Type: FREIDORA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/FreidoraImperialIFS-40.png?v=1750364993
   Price: 1315,00 $ MXN
 - [Horno Turbochef Bullet](https://great-mini.mx/products/equipos-cocina-hornos-de-alta-velocidad-turbochef-bullet-con-coccion-hibrida): Cocina en tiempo récord con el Horno TurboChef Bullet. Tecnología de impacto de aire y microondas para resultados perfectos sin ventilación. ¡Incluye accesorios!
-  Updated: 2026-07-24T15:11:08Z
+  Updated: 2026-10-15T10:09:19Z
   Vendor: TURBOCHEF
   Product Type: HORNO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Bullet-Front-min.webp?v=1750365898
   Price: 27.129,00 $ MXN
 - [🍕HHB-8603-1K2098 / Horno de Convección de Alto Rendimiento TurboChef High h Batch 2™ ⚡](https://great-mini.mx/products/horno-de-conveccion-de-alto-rendimiento-high-h-batch-2-hhb-8603-1k2098): ⚡ ¡Lleva tu cocina al siguiente nivel con el TurboChef High h Batch 2™! Hornea hasta 5x más rápido con su sistema de convección por impacto y rejilla oscilante 🍕🛑 Operación Ventless sin campana. SKU: HHB-8603-1K2098. ¡Cómpralo en México! 🇲🇽🛒
-  Updated: 2026-07-29T20:40:47Z
+  Updated: 2026-10-15T10:09:19Z
   Vendor: TURBOCHEF
   Product Type: HORNO ALTA VELOCIDAD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Horno_de_conveccion_HIGH_h_BATCH_2_-_2.webp?v=1752798941
   Price: 149.999,00 $ MXN
 - [Silla Ergonómica Plegable VENETO PL](https://great-mini.mx/products/silla-veneto-pl): Sillón Ergonómico Directivo, reclinable, con ajuste neumático de altura, mecanismo syncro con control de bolqueo multiposiciones, respaldo alto en malla con cabecera, asiento  tapizado en mesh color negro con mecanismo Slider y descansabrazos con altura y giro ajustables.
-  Updated: 2026-04-13T01:33:03Z
+  Updated: 2026-10-15T10:09:19Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Silla_plegable_de_Capacitaci_n_Veneto_PL_5.webp?v=1762541303
   Price: 929,00 $ MXN
 - [Silla Monopoli Plegable con Paleta y Ruedas](https://great-mini.mx/products/monopoli-gr): MONOPOLI GRSilla de Vista Plegable con Ruedas Estructura: Acero color gris Asiento: Tapizado en tela color negro Respaldo: Malla color negro Brazos: Ajuste horizontal con paleta de polipropileno plegable También se puede solicitar sin ruedas. Ideal para oficinas, salas de espera o cualquier espacio que requiera versatilidad y comodidad.
-  Updated: 2026-04-13T01:33:02Z
+  Updated: 2026-10-16T14:39:59Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/MONOPOLIRP3-41400X1400.png?v=1765336341
   Price: 4499,00 $ MXN
 - [Set de Sala de Jardín / Terraza de Lujo](https://great-mini.mx/products/set-de-sala-de-jardin-terraza-de-lujo): Set de Exterior Great Mini: Máxima Resistencia y Diseño Premium para Uso Rudo Descubre el Set de Mobiliario de Exterior Great Mini, la solución definitiva para espacios de alto tráfico, ya sean comerciales (hoteles, restaurantes) o residenciales de lujo. Este conjunto combina un diseño elegante con una durabilidad inigualable para garantizar años de disfrute sin preocupaciones. Características de Durabilidad y Calidad: Estructura Antióxido: Cuenta con una estructura interna de metal con recubrimiento protector de plástico PP, garantizando una protección superior contra la corrosión. Tejido de Alto Rendimiento: Presenta un meticuloso tejido de Ratán Sintético de PP de alta densidad, conocido por su extrema resistencia a la intemperie y su alta eficacia contra la degradación causada por los rayos UV. Cojines con Tecnología Olefin: Los cojines de doble forro están fabricados con tela Olefin, un textil de calidad premium para exteriores que es: Totalmente repelente al agua. Antihongos. No presenta decoloración bajo la exposición solar. Uso Rudo Garantizado: Diseñado para soportar hasta 200 kg de capacidad máxima por asiento, ideal para un uso constante. El Set Incluye: 2 Butacas con Brazo: 70x110x92cm 1 Mesa de Centro: 60x80x30cm 2 Set de Cojines (Asiento y Respaldo) Confianza y Soporte: Garantía de 3 años del fabricante.
-  Updated: 2025-12-11T23:47:15Z
+  Updated: 2026-10-15T10:09:20Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/28_6591634c-7a55-46bd-99a2-43cd166932af.jpg?v=1765491805
   Price: 55.699,00 $ MXN
 - [Set de Sala de Exterior XL (4 Piezas) / Terraza de Lujo](https://great-mini.mx/products/set-de-sala-de-exterior-xl-4-piezas): Set de Exterior Great Mini de 4 Piezas: Confort y Resistencia Extrema para Alto Tráfico El Set de Mobiliario de Exterior Great Mini es la elección ideal para amueblar terrazas o jardines que demandan la máxima resistencia y estilo, perfecto tanto para uso comercial intensivo como para entornos residenciales exigentes. Este set completo de 4 piezas ofrece asientos amplios y una durabilidad garantizada. Calidad Insuperable y Componentes de Alto Tráfico: Estructura Base Reforzada: La estructura interna es de metal y está protegida con un recubrimiento de plástico PP que proporciona una protección anticorrosiva superior, ideal para cualquier clima. Tejido Premium Anti-UV: Presenta un meticuloso y denso tejido de Ratán Sintético de PP de alta densidad, caracterizado por su extrema resistencia a la intemperie y su alta eficacia contra el deterioro causado por los rayos UV. Cojinería Olefin (Repelente al Agua): Los cojines de doble forro están confeccionados con tela Olefin, un textil de alta calidad diseñado para exteriores. Esta tela es antihongos, totalmente repelente al agua y está formulada para no presentar decoloración bajo el sol. Capacidad Máxima Soportada: 200 kg por asiento. El Set de 4 Piezas Incluye: 1 Sofá de 2 Plazas con Brazo: 70x180x92cm 2 Butacas con Brazo: 70x110x92cm 1 Mesa de Centro: 60x80x30cm 4 Set de Cojines (Asiento y Respaldo) Confianza y Garantía: Respaldado por una Garantía de 3 años del fabricante. .
-  Updated: 2025-12-12T10:40:33Z
+  Updated: 2026-10-15T10:09:20Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Capturadepantalla2025-10-31165755.jpg?v=1765492819
   Price: 91.699,00 $ MXN
 - [Set de Sala de 4 Piezas Exterior Great Mini de Lujo](https://great-mini.mx/products/set-de-sala-de-4-piezas-exterior): Set de Exterior: Elegancia, Espacio y Durabilidad Extrema Maximiza tu área de convivencia exterior con el Set de Mobiliario, un conjunto robusto de 4 piezas diseñado para el confort y la máxima resistencia. Este set es ideal para alto tráfico (comercial) o para crear un oasis de lujo y durabilidad en tu residencia. Construcción Superior para Exteriores: Máxima Protección Anticorrosiva: Cuenta con una estructura interna de metal revestida con plástico PP, garantizando una protección superior contra la corrosión y una larga vida útil. Ratán Sintético de Alta Densidad: El mueble presenta un tejido artesanal de Ratán Sintético de PP de alta densidad, que ofrece una resistencia excepcional a la intemperie y es altamente efectivo contra la degradación causada por los rayos UV. Cojinería Premium Olefin: Los cojines de doble forro utilizan tela Olefin, un textil de exteriores de primera calidad que es: Antihongos. Totalmente repelente al agua. Resistente a la decoloración por la exposición al sol. Capacidad de Uso Rudo: Soporta una Capacidad Máxima de 200 kg por asiento, ideal para uso constante y concurrente. El Set de 4 Piezas Incluye: 1 Sofá Amplio de 3 Plazas con Brazo: 70x252x92cm 2 Butacas con Brazo: 70x110x92cm 1 Mesa de Centro: 60x80x30cm 5 Set de Cojines (Asiento y Respaldo) Garantía de Tranquilidad: Ofrecemos una Garantía de 3 años directamente del fabricante.
-  Updated: 2025-12-12T10:52:12Z
+  Updated: 2026-10-15T10:09:20Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Capturadepantalla2025-11-06160057.jpg?v=1765493527
   Price: 101.899,00 $ MXN
 - [Sala Esquinera Modular de Exterior Great Mini (5 Pzas)](https://great-mini.mx/products/sala-esquinera-modular-de-exterior-great-mini-5-pzas): Set Esquinero Modular: Versatilidad y Resistencia Inigualable Presentamos el Set de Mobiliario de Exterior Modular, un conjunto de 5 piezas diseñado para adaptarse perfectamente a cualquier rincón o distribución de tu terraza o jardín. Gracias a sus componentes flexibles, es la opción ideal para el uso rudo o de alto tráfico, tanto en entornos comerciales como en residencias amplias. Tecnología de Resistencia Exterior: Estructura con Protección Antióxido: La base cuenta con una estructura interna de metal que incorpora un recubrimiento de plástico PP, ofreciendo una protección superior y duradera contra la corrosión. Tejido de Ratán Sintético Premium: El mueble está meticulosamente tejido con Ratán Sintético de PP de alta densidad, garantizando una resistencia extrema a la intemperie y una alta eficacia contra los daños y la decoloración por rayos UV. Cojinería Olefin (Antihongos y Repelente): Los cojines de doble forro utilizan tela Olefin, el estándar de oro para exteriores. Esta tela es: Totalmente repelente al agua. Antihongos. Resistente a la decoloración solar. Capacidad Reforzada: Diseñado para soportar una Capacidad Máxima de 200 kg por asiento, apto para uso continuo. El Set Modular de 5 Piezas Incluye: 1 Sofá de 2 Plazas (1 Brazo): 70x133x80cm 1 Sofá de 3 Plazas (1 Brazo): 70x193x80cm 1 Otomano (Pouf): 60x65x30cm 1 Mesa de Esquina: 80x80x40cm 1 Mesa de Centro: 70x70x30cm Cojines Incluidos: 1 Cojín de Otomano y 5 Sets de Cojines de Asiento/Respaldo. Garantía: Respaldamos la calidad con una Garantía de 3 años del fabricante.
-  Updated: 2025-12-12T11:02:22Z
+  Updated: 2026-10-15T10:09:21Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/1_ce32f315-49e8-499f-b7ad-41d61fd3bcfb.jpg?v=1765494135
   Price: 56.499,00 $ MXN
 - [Set de Sala de Jardín Great Mini (4 Piezas Compacto)](https://great-mini.mx/products/set-de-sala-de-jardin-great-mini-4-piezas-compacto): Set de Exterior Great Mini: Confort Compacto y Durabilidad Extrema El Set de Mobiliario de Exterior Great Mini es la solución perfecta para optimizar espacios más reducidos sin sacrificar la calidad ni la resistencia. Este set de 4 piezas ofrece el máximo confort y está diseñado específicamente para uso rudo o alto tráfico (comercial o residencial), garantizando un mobiliario que perdura. Diseño y Componentes de Larga Duración: Estructura con Tratamiento Anticorrosivo: La base de la sala cuenta con una estructura interna de metal protegida con un revestimiento de plástico PP, asegurando una protección eficaz contra la corrosión en ambientes exteriores. Ratán Sintético de Alta Resistencia: El tejido es un meticuloso entramado de Ratán Sintético de PP de alta densidad, conocido por su extrema resistencia a la intemperie y su capacidad para neutralizar la degradación causada por los rayos UV. Cojines Olefin de Alto Rendimiento: Los cojines de doble forro están confeccionados con tela Olefin, un textil premium de exteriores que proporciona: Propiedades antihongos. Repelencia total al agua. Ausencia de decoloración por exposición solar. Soporte Garantizado: Capacidad Máxima Soportada de 200 kg por asiento. El Set de 4 Piezas Incluye: 1 Sofá de 2 Plazas con Brazo: 70x145x80cm 2 Butacas con Brazo: 70x85x80cm 1 Mesa de Centro: 60x80x30cm 4 Sets de Cojines (Asiento y Respaldo) Garantía: Tranquilidad total con 3 años de garantía del fabricante.
-  Updated: 2025-12-12T11:15:42Z
+  Updated: 2026-10-15T10:09:21Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/24.jpg?v=1765494714
   Price: 49.499,00 $ MXN
 - [Set de Conversación Great Mini (3 Piezas)](https://great-mini.mx/products/set-de-conversacion-great-mini-3-piezas): Set de Exterior Compacto: Durabilidad y Estilo en 3 Piezas Optimiza tu balcón, terraza o rincón de jardín con este Set de Mobiliario de Exterior de 3 piezas. Diseñado para ofrecer una solución elegante y funcional en espacios reducidos, este set no escatima en robustez, siendo ideal para uso rudo o de alto tráfico (comercial o residencial). Calidad Inquebrantable para Exteriores: Máxima Resistencia a la Corrosión: Su estructura interna de metal está protegida con un revestimiento de plástico PP, garantizando una defensa superior y duradera contra el óxido y la corrosión. Ratán de Alto Rendimiento Anti-UV: Presenta un exquisito tejido de Ratán Sintético de PP de alta densidad, que asegura una resistencia extrema a la intemperie y es altamente efectivo contra el daño y la decoloración producida por los rayos UV. Cojinería Olefin (Premium): Los cojines de doble forro están fabricados con tela Olefin, un textil de exteriores de alta gama que es: Antihongos. Totalmente repelente al agua. Resistente a la decoloración solar. Capacidad de Carga: Diseñado para soportar hasta 200 kg por asiento, apto para uso constante. El Set de 3 Piezas Incluye: 2 Butacas con Brazo: 70x85x80cm 1 Mesa de Centro: 60x80x30cm 2 Sets de Cojines (Asiento y Respaldo) Garantía: Respaldado por una sólida Garantía de 3 años del fabricante.
-  Updated: 2025-12-12T11:18:22Z
+  Updated: 2026-10-15T10:09:21Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/52.jpg?v=1765495275
   Price: 30.999,00 $ MXN
 - [Set de Camastro Reclinable Great Mini con Mesa Auxiliar](https://great-mini.mx/products/set-de-camastro-reclinable-con-mesa-auxiliar): Set de Camastro de Lujo, Confort Ajustable y Resistencia Superior Disfrute del sol y la relajación con el Set de Camastro Reclinable, diseñado para ofrecer el máximo confort y una durabilidad excepcional. Este conjunto de 2 piezas es perfecto para piscinas, playas privadas o terrazas de alto tráfico, garantizando un rendimiento óptimo tanto en uso comercial (hoteles, resorts) como residencial. Máxima Resistencia y Diseño Funcional: Estructura Antióxido: El camastro y la mesa cuentan con una estructura interna de metal revestida con plástico PP para una protección anticorrosiva duradera contra el clima y la humedad. Tejido de Ratán Sintético Premium: El cuerpo del camastro y la mesa auxiliar tienen un tejido meticuloso de Ratán Sintético de PP de alta densidad, que es extremadamente resistente a la intemperie y altamente eficaz contra el deterioro por rayos UV. Respaldo Ajustable: El camastro ofrece cuatro posiciones de reclinación para que ajuste su nivel de confort ideal. Cojín con Tecnología Olefin: El cojín utiliza tela Olefin, un textil de exteriores de alta calidad que es: Antihongos. Totalmente repelente al agua. No presenta decoloración bajo el sol. Uso Rudo Garantizado: Capacidad Máxima Soportada por la tumbona de 200 kg. El Set Incluye: 1 Camastro Reclinable: 200x70x35cm 1 Mesa Auxiliar Cuadrada: 40x50x50cm 1 Cojín de Camastro: 200x70x6cm Garantía: La inversión está protegida con una Garantía de 3 años del fabricante.
-  Updated: 2025-12-12T11:30:04Z
+  Updated: 2026-10-15T10:09:22Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Capturadepantalla2025-10-09143637.jpg?v=1765495800
   Price: 24.999,00 $ MXN
 - [Cama Balinesa Reclinable Great Mini (2x2m)](https://great-mini.mx/products/cama-balinesa-reclinable-2x2m): Cama Balinesa: Tu Santuario de Lujo y Resistencia Máxima 🌴 Transforma tu espacio exterior en un destino de ensueño con la Cama Balinesa Great Mini. Diseñada para ofrecer el máximo esplendor y funcionalidad, esta pieza es ideal para uso rudo o de alto tráfico en hoteles de lujo, resorts o residencias exclusivas. ¡Máxima relajación sin preocuparse por el clima! Características de un Mobiliario 5 Estrellas: Estructura Indestructible: 🛡️ La cama cuenta con una estructura interna de metal con recubrimiento de plástico PP que garantiza una protección superior y total contra la corrosión. Ratán Sintético de Alta Tecnología: El tejido meticuloso es de Ratán Sintético de PP de alta densidad, que es: Extremadamente resistente a la intemperie. Altamente eficaz contra la degradación por rayos UV. ☀️ Confort a tu Medida: El respaldo de la cama es ajustable en cuatro posiciones para que disfrutes de tu ángulo de descanso perfecto. Cojinería Olefin (Insuperable): Los cojines utilizan tela Olefin, el textil premium para exteriores, que es: Totalmente repelente al agua. 💧 Antihongos. Resistente a la decoloración solar. Capacidad Garantizada: Soporta una Capacidad Máxima de 200 kg. Especificaciones Clave: 1 Cama Balinesa: 200x200x200cm 2 Cojines Gigantes: 200x100x6cm Tranquilidad y Respaldo: Disfruta de la confianza con 3 años de Garantía del fabricante. ✅
-  Updated: 2025-12-12T11:36:56Z
+  Updated: 2026-10-15T10:09:22Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Gemini_Generated_Image_2uiv0b2uiv0b2uiv.png?v=1765496181
   Price: 92.999,00 $ MXN
 - [Silla de Exterior Great Mini Reforzada](https://great-mini.mx/products/silla-de-exterior-reforzada): Silla de Exterior: Durabilidad Profesional para Cualquier Clima 🌦️ La Silla de Exterior es la elección ideal para amueblar terrazas, jardines o áreas comunes donde se requiere una resistencia excepcional. Diseñada para uso rudo o de alto tráfico, garantiza un rendimiento impecable tanto en establecimientos comerciales (cafeterías, restaurantes) como en hogares exigentes. Construcción y Materiales de Grado Profesional: Estructura de Aluminio Reforzado: 💪 La silla cuenta con un armazón de aluminio reforzado recubierto con pintura electroestática, lo que proporciona una protección superior contra la corrosión, el óxido y el desgaste. Ratán Sintético Anti-Desgaste: Presenta un meticuloso tejido de Ratán Sintético de PP de alta densidad, que ofrece: Resistencia extrema a la intemperie. 🌧️ Alta eficacia contra la degradación causada por los rayos UV. ☀️ Uso Rudo Garantizado: Soporta una Capacidad Máxima de 200 kg. Especificaciones por Unidad: 1 Silla: 93x58x53cm Confianza y Respaldo: La calidad está asegurada con 3 años de Garantía del fabricante. ✅
-  Updated: 2025-12-12T11:45:21Z
+  Updated: 2026-10-15T10:09:22Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/ImagendeWhatsApp2024-07-15alas07.47.17_ba354717.jpg?v=1765496649
   Price: 5119,00 $ MXN
 - [Sillón Individual con Brazo: Confort Reforzado para Alto Tráfico ✨](https://great-mini.mx/products/sillon-individual-confort-reforzado): La Butaca con Brazo es el asiento individual perfecto que combina la elegancia del diseño con la robustez necesaria para uso rudo o de alto tráfico (comercial o residencial). Ideal para complementar un set existente o como pieza central en un rincón de lectura. Diseño y Durabilidad Excepcional: Estructura Antióxido: 🛡️ Su base de metal interno está revestida con plástico PP para garantizar una protección superior contra la corrosión en cualquier ambiente exterior. Ratán Sintético Premium: El tejido es un meticuloso entramado de Ratán Sintético de PP de alta densidad, que ofrece extrema resistencia a la intemperie y alta eficacia contra el daño por rayos UV. ☀️ Cojín con Tecnología Olefin: El cojín de doble forro utiliza tela Olefin, un textil de alta calidad para exteriores que es antihongos, totalmente repelente al agua y no presenta decoloración bajo el sol. Capacidad de Uso Rudo: Soporta una Capacidad Máxima de 200 kg. Especificaciones Técnicas (Por Unidad): 1 Butaca con Brazo: 70x110x92cm 1 Set de Cojines Incluido (Asiento y Respaldo) Confianza: Garantía de 3 años ✅
-  Updated: 2025-12-12T12:25:40Z
+  Updated: 2026-10-15T10:09:23Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Gemini_Generated_Image_csw2t2csw2t2csw2.png?v=1765499057
   Price: 23.999,00 $ MXN
 - [Set Desayunador / Comedor Exterior Great Mini (7 Piezas)](https://great-mini.mx/products/set-desayunador-comedor-exterior-7-piezas): Set Desayunador: Elegancia y Robustez para Comidas al Aire Libre ☀️ El Set Desayunador de Exterior es la solución ideal para crear un espacio de convivencia funcional y altamente duradero. Este juego de 7 piezas, diseñado para uso rudo o de alto tráfico, es perfecto para establecimientos comerciales (terrazas de restaurantes) o para ampliar el lujo de tu residencia. Construcción Superior para Uso Comercial: Estructura Reforzada Total: Las 6 sillas y la mesa cuentan con una estructura de aluminio reforzado y están protegidas con pintura electroestática, garantizando la máxima protección contra la corrosión y la intemperie. 🛡️ Ratán Sintético de Alto Rendimiento: El meticuloso tejido de Ratán Sintético de PP de alta densidad asegura: Resistencia extrema a la intemperie. 🌧️ Protección efectiva contra la degradación por rayos UV. Máxima Capacidad: Cada silla está diseñada para soportar una Capacidad Máxima de 200 kg. El Juego de 7 Piezas Incluye: 6 Sillas de Exterior: 93x58x53cm 1 Mesa de Aluminio: 90x90x71cm Confianza y Garantía: Respaldado por una Garantía de 3 años del fabricante. ✅
-  Updated: 2025-12-12T12:31:08Z
+  Updated: 2026-10-15T10:09:23Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Capturadepantalla2025-10-09142202_1.jpg?v=1765499453
   Price: 38.599,00 $ MXN
 - [Set Desayunador / Comedor Exterior Great Mini (5 Piezas)](https://great-mini.mx/products/set-desayunador-comedor-exterior-5-piezas): Set Desayunador Compacto: Estilo, Resistencia y Alto Rendimiento 🏡 Ideal para terrazas, balcones o áreas de comedor con espacio limitado, el Set Desayunador de Exterior de 5 piezas ofrece una combinación perfecta de estilo y durabilidad. Diseñado para uso rudo o de alto tráfico, este juego es una inversión inteligente para negocios (cafeterías, bistrós) y hogares que exigen la máxima calidad. Materiales Insuperables para Exteriores: Estructura de Aluminio Premium: La mesa y las 4 sillas están construidas con una estructura de aluminio reforzado y un acabado de pintura electroestática, proporcionando la máxima protección anticorrosiva y estabilidad. 🛡️ Ratán Sintético de Alta Densidad: El tejido de Ratán Sintético de PP de alta densidad asegura una resistencia extrema a la intemperie y una defensa efectiva contra la degradación causada por los rayos UV. ☀️ Uso Rudo Garantizado: Cada silla está diseñada para soportar hasta 200 kg de capacidad máxima. El Juego de 5 Piezas Incluye: 4 Sillas de Exterior: 93x58x53cm 1 Mesa de Aluminio Cuadrada: 90x90x71cm Confianza y Garantía: Tu compra está protegida con 3 años de Garantía del fabricante. ✅
-  Updated: 2025-12-12T12:37:27Z
+  Updated: 2026-10-15T10:09:23Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/4sillas.jpg?v=1765499726
   Price: 26.699,00 $ MXN
 - [Silla de Exterior Great Mini (Estructura PP)](https://great-mini.mx/products/silla-de-exterior-estructura-pp): Silla de Exterior: Resistencia Total y Confort Ligero 🌦️ Descubre la Silla de Exterior, diseñada para combinar ligereza y una robustez insuperable. Ideal para uso rudo o de alto tráfico en terrazas, jardines o áreas de piscina (comerciales o residenciales), esta silla garantiza durabilidad y fácil mantenimiento. Ingeniería Diseñada para Exteriores: Estructura Plástica Antióxido: La silla cuenta con una estructura interna de Plástico PP, proporcionando una máxima protección anticorrosiva y haciendo que sea extremadamente resistente a la humedad. 💧 Tejido Ratán Sintético de Alta Densidad: Presenta un meticuloso tejido de Ratán Sintético de PP de alta densidad, que es: Extremadamente resistente a la intemperie. Altamente eficaz contra la degradación por rayos UV. ☀️ Máxima Capacidad: Diseñada para soportar hasta 200 kg. Cojín para Mayor Confort: Incluye un cojín de 55x55x5cm para un asiento más cómodo. Especificaciones Técnicas (Por Unidad): 1 Silla de Plástico: 80x58x60cm 1 Cojín Incluido: 55x55x5cm Confianza y Respaldo: 3 años de Garantía del fabricante. ✅
-  Updated: 2025-12-12T13:02:42Z
+  Updated: 2026-10-15T10:09:23Z
   Vendor: GREAT+MINI
   Product Type: SALA DE JARDIN
   Availability: Available
@@ -1774,7 +1774,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 ## Collections
 
 - [MOBILIARIO LÍNEA ITALIA](https://great-mini.mx/collections/linea-italia): ASESORÍA EN PROYECTOS Se ofrece gratuitamente asesoría en la planeación de espacios de trabajo orientados a aumentar la productividad en las empresas y presentar un diseño elegante, minimalista y moderno.
-  Updated: 2026-07-01T04:58:08Z
+  Updated: 2026-09-23T22:42:29Z
   Total Products: 100
 - [SILLAS DE VISITAS](https://great-mini.mx/collections/sillas-para-oficina-de-visitas): En Great+Mini encontrarás la solución completa de tus proyectos y contarás con entregas completas de sillas para oficina como lo son las de visitantes.
   Updated: 2026-08-13T02:51:05Z
@@ -1783,7 +1783,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-08-13T02:51:06Z
   Total Products: 25
 - [ESCRITORIOS Y MESAS](https://great-mini.mx/collections/mesas-y-escritorios): En esta colección reunimos todos los escritorios directivos, mesas multusos, mesas de visita, etc
-  Updated: 2026-06-19T23:56:57Z
+  Updated: 2026-09-23T22:42:29Z
   Total Products: 40
 - [SOFÁS Y LOUNGES](https://great-mini.mx/collections/sillones-para-oficina)
   Updated: 2026-07-01T05:24:24Z
@@ -1798,7 +1798,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-08-04T17:19:36Z
   Total Products: 16
 - [SILLAS EJECUTIVAS](https://great-mini.mx/collections/sillas-ejecutivas-ergonomicas): En Great+Mini encontrarás una gran variedad de sillas ejecutivas con excelentes precios, calidad y servicio.
-  Updated: 2026-08-13T02:50:45Z
+  Updated: 2026-09-26T11:08:37Z
   Total Products: 23
 - [SILLAS LÍNEA ITALIA](https://great-mini.mx/collections/sillas-linea-italia)
   Updated: 2026-06-08T06:48:08Z
@@ -1846,8 +1846,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-16T01:34:06Z
   Total Products: 8
 - [BÁSICOS FOOD SERVICE](https://great-mini.mx/collections/food-service)
-  Updated: 2026-08-04T11:01:18Z
-  Total Products: 50
+  Updated: 2026-10-20T00:05:15Z
+  Total Products: 104
 - [FREGADEROS](https://great-mini.mx/collections/fregaderos)
   Updated: 2026-06-08T18:28:04Z
   Total Products: 5
@@ -1855,14 +1855,14 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-08-19T05:17:42Z
-  Total Products: 27
+  Updated: 2026-10-12T01:36:29Z
+  Total Products: 34
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
-  Updated: 2026-06-29T20:30:58Z
-  Total Products: 12
+  Updated: 2026-10-09T12:13:12Z
+  Total Products: 13
 - [PARRILLAS](https://great-mini.mx/collections/parrillas)
-  Updated: 2026-06-08T18:39:44Z
-  Total Products: 16
+  Updated: 2026-10-09T12:38:27Z
+  Total Products: 18
 - [TEKA](https://great-mini.mx/collections/teka)
   Updated: 2026-06-08T18:40:13Z
   Total Products: 23
@@ -1878,8 +1878,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 - [KITCHEN AID](https://great-mini.mx/collections/kitchen-aid)
   Updated: 2026-08-19T05:17:42Z
   Total Products: 6
-- [IMPERIAL](https://great-mini.mx/collections/imperial)
-  Updated: 2026-06-08T18:46:59Z
+- [IMPERIAL](https://great-mini.mx/collections/imperial-comercial): Descubre la línea de estufas, freidoras, hornos de convección y planchas industriales de Imperial Range. Alta durabilidad y rendimiento para restaurantes y cocinas profesionales.
+  Updated: 2026-10-09T13:12:02Z
   Total Products: 7
 - [VIKING APPLIANCES](https://great-mini.mx/collections/viking-appliances-mexico-lujo-profesional): 💡Descubra la gama completa de electrodomésticos de lujo Viking en México con GREAT+MINI. Estufas profesionales, refrigeradores integrados y la exclusiva serie Tuscany. Potencia de chef y diseño premium para su hogar. ¡Cotice hoy mismo!
   Updated: 2026-06-09T03:13:57Z
@@ -1924,10 +1924,10 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-08-06T05:02:05Z
   Total Products: 9
 - [WHITE-WESTINHOUSE](https://great-mini.mx/collections/white-westinghouse-electrodomesticos): Compra electrodomésticos White-Westinghouse: refrigeradores, lavadoras, congeladores y más. Calidad, eficiencia y excelente precio para hogar o negocio. Considera mínimos de compra en esta marca.
-  Updated: 2026-08-04T04:34:56Z
+  Updated: 2026-09-19T11:01:53Z
   Total Products: 13
 - [JOSPER](https://great-mini.mx/collections/josper)
-  Updated: 2026-06-08T23:48:11Z
+  Updated: 2026-10-19T19:47:57Z
   Total Products: 8
 - [U-LINE RESIDENCIAL](https://great-mini.mx/collections/u-line-residential): Lleva el lujo a tu cocina o terraza con U-LINE Residential en Great-Mini.mx. Refrigeración premium, cajones panelables y fábricas de hielo gourmet.
   Updated: 2026-06-16T01:33:37Z
@@ -1942,7 +1942,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-07-03T21:54:15Z
   Total Products: 2
 - [HATCO](https://great-mini.mx/collections/hatco)
-  Updated: 2026-07-03T22:13:11Z
+  Updated: 2026-10-20T00:05:15Z
   Total Products: 1
 - [Pantallas Smart TV JVC Roku](https://great-mini.mx/collections/pantallas-jvc-smart-tv): 📺 Compra tu Pantalla JVC Smart TV con Roku integrado en Great Mini. Envíos a todo México, tecnología 4K UHD, sonido Dolby Audio y las mejores ofertas. ¡Elige la tuya hoy! 🚀
   Updated: 2026-08-06T05:09:49Z
@@ -1950,6 +1950,15 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 - [Cocinetas](https://great-mini.mx/collections/cocinetas)
   Updated: 2026-08-19T01:24:25Z
   Total Products: 8
+- [ASBER](https://great-mini.mx/collections/asber): Compra equipamiento gastronómico industrial Asber al mejor precio en Mexico. Refrigeración, cocción y lavado de vajilla para restaurantes y hoteles. Envío rápido y garantía.
+  Updated: 2026-10-09T12:49:03Z
+  Total Products: 20
+- [METALFRIO](https://great-mini.mx/collections/metalfrio): Compra refrigeradores, congeladores y cerveceros Metalfrio en Great-Mini.mx. Equipos comerciales con gas R290, bajo consumo y envío a todo México. ¡Cotiza aquí!
+  Updated: 2026-10-10T05:32:31Z
+  Total Products: 15
+- [MIGSA](https://great-mini.mx/collections/migsa): Descubre el catálogo completo de equipos gastronómicos MIGSA en Great-Mini.mx. Refrigeración, hornos, batidoras, freidoras y maquinaria comercial con envío a todo México. ⚙️🚀
+  Updated: 2026-10-12T02:29:16Z
+  Total Products: 20
 
 ## Blogs
 
@@ -1970,8 +1979,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   - [Great+Mini Space](https://great-mini.mx/blogs/news/great-mini-space): Great+Mini Space
     Updated: 2026-06-11T19:12:28Z
     Author: Villo Culebro Peña
-  - [NOSOTROS SOMOS](https://great-mini.mx/blogs/news/nosotros-somos)
-    Updated: 2026-04-02T01:43:48Z
+  - [Nosotros | Great+Mini / ERGO: mobiliario y equipamiento premium](https://great-mini.mx/blogs/news/nosotros-somos): Nosotros | Great+Mini / ERGO: mobiliario y equipamiento premium
+    Updated: 2026-10-10T04:31:07Z
     Author: Villo Culebro Peña
 
 ## Store Pages
@@ -1998,11 +2007,11 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 ## Policies
 
 - [Privacy Policy](https://great-mini.mx/policies/privacy-policy)
-  Updated: 2019-07-08T04:23:57-05:00
+  Updated: 2019-07-08T09:23:57Z
 - [Refund Policy](https://great-mini.mx/policies/refund-policy)
-  Updated: 2019-07-08T04:23:57-05:00
+  Updated: 2019-07-08T09:23:57Z
 - [Terms of Service](https://great-mini.mx/policies/terms-of-service)
-  Updated: 2019-07-08T04:23:57-05:00
+  Updated: 2019-07-08T09:23:57Z
 
 ## Líneas de Producto Especializadas
 - **Sillería Ergonómica:** Sillas ejecutivas, operativas con mecanismo sincrónico, sillería de visita y de juntas de gama media-alta con certificación BIFMA.
