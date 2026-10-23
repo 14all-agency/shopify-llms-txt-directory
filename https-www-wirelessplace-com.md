@@ -9,33 +9,33 @@
 - Created At: 2016-01-13T15:53:45Z
 - Contact Email: info@wirelessplace.com
 - Contact Phone: 9177452527
-- Updated At: 2026-10-12T00:00:37.535Z
+- Updated At: 2026-10-23T00:34:16.366Z
 
 ## Products
 
 - [Fast Car Charger | Type C Cable](https://www.wirelessplace.com/products/car-usb-fast-charger-with-type-c-cable): Dual USB Fast Car Charger perfect for charging your phone or tablet in the car that fits the car lighter area. Buy now & enjoy free 2-day shipping in the US.
-  Updated: 2026-10-09T03:46:22Z
+  Updated: 2026-10-22T22:23:48Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/FastCarCharger.png?v=1711537407
   Price: $14.99 USD
 - [Fast 15W Wall Charger & USB Type-C Cable | Adaptive Fast Charge](https://www.wirelessplace.com/products/fast-15w-wall-charger-usb-type-c-cable): Shop the 15W Fast Wall Charger & USB-C Cable at Wireless Place. Adaptive fast charge, battery saver tech, compatible with USB-C phones. Free 2-day shipping!
-  Updated: 2026-10-09T06:06:56Z
+  Updated: 2026-10-22T17:22:02Z
   Vendor: Wireless Place
   Product Type: Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitled_design_1_49b1533c-8dc2-44fc-a8d9-2b00982b9790.png?v=1724959997
   Price: $14.99 USD
 - [15W Adaptive Fast Charge USB Wall Adapter | Wireless Place](https://www.wirelessplace.com/products/adaptive-fast-charge-single-usb-wall-adapter): 15W adaptive fast charging USB wall adapter — charges 0–50% in 50 min. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-07T17:48:07Z
+  Updated: 2026-10-22T03:46:36Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitled_design_2_beddc743-be2c-4c16-b891-c3f3b6b8bb79.png?v=1724960977
   Price: $12.99 USD
 - [Samsung Galaxy A16 4G (A165M) GSM Unlocked | Wireless Place](https://www.wirelessplace.com/products/samsung-galaxy-a16-4g-a165m-gsm-unlocked-international-version-new): Shop Samsung Galaxy A16 4G (A165M) GSM unlocked at Wireless Place. 6.7" display, 50MP camera, 5000mAh battery & free 2-day shipping!
-  Updated: 2026-10-10T00:06:38Z
+  Updated: 2026-10-22T03:46:36Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/c234eccdb956755187512f90e94a9b7d.png?v=1732691724
   Price: $4.99 USD
 - [Nintendo Switch Lite Japanese Model (New)](https://www.wirelessplace.com/products/nintendo-switch-lite-new): The Nintendo Switch Lite (Japanese model) is a compact, lightweight gaming console built for gamers who prefer handheld play. Unlike the standard Nintendo Switch, the Lite version is designed solely for portable use. It doesn’t connect to a TV, but it makes up for it with a sleek design, lower price point, and easy portability—perfect for travel, commuting, or casual gaming at home. This Japanese version works the same as models sold elsewhere. It includes a 5.5-inch HD touchscreen, built-in controls, and access to the full Nintendo Switch game library (with the exception of titles requiring Joy-Con motion features). It comes in a range of vibrant colors, and some models feature limited-edition artwork inspired by popular games. Language isn’t a barrier here—despite being a Japanese model, the console allows you to switch the interface to English or other major languages. It also supports all Nintendo eShop regions and physical game cartridges from around the world. In terms of hardware, the Switch Lite offers about 3 to 7 hours of battery life depending on the game, 32GB of internal storage (expandable via microSD), and supports Wi-Fi and Bluetooth. It’s region-free and uses the same USB-C charging port as other models, though you may want to check if the plug type suits your region. If you’re looking for a budget-friendly way to dive into the Nintendo ecosystem or just want a dedicated handheld device, the Japanese Nintendo Switch Lite delivers the same great performance in a smaller, stylish package.
-  Updated: 2026-10-07T17:48:08Z
+  Updated: 2026-10-22T03:46:43Z
   Vendor: Wireless Place
   Product Type: console
   Availability: Available
@@ -86,7 +86,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/490.png?v=1743000755
     Price: $227.50 USD
 - [Samsung Galaxy S25 5G S931B Unlocked | 6.2" AMOLED | Snapdragon 8](https://www.wirelessplace.com/products/samsung-galaxy-s25-5g-s931b-gsm-unlocked-international-version-new): Shop Samsung Galaxy S25 5G (S931B) unlocked at Wireless Place. 6.2" 120Hz AMOLED, Snapdragon 8 Elite, 50MP triple cam, 5G, IP68. Free 2-day shipping!
-  Updated: 2026-10-07T20:07:46Z
+  Updated: 2026-10-22T03:46:42Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -94,21 +94,21 @@
   - [Navy / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-5g-s931b-gsm-unlocked-international-version-new?variant=46471644643498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_-_4.jpg?v=1762962038
-    Price: $659.50 USD
+    Price: $654.50 USD
   - [Icyblue / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-5g-s931b-gsm-unlocked-international-version-new?variant=46471652507818)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_b0c12706-02c7-4403-b4b6-260bb93986f5.png?v=1762962038
-    Price: $659.50 USD
+    Price: $654.50 USD
   - [Silver Shadow / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-5g-s931b-gsm-unlocked-international-version-new?variant=46471644709034)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_c956d93d-cf58-41bb-92d5-e0e29c33dd31.png?v=1762962038
-    Price: $659.50 USD
+    Price: $654.50 USD
   - [Mint / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-5g-s931b-gsm-unlocked-international-version-new?variant=46471644741802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_f49714f4-f98c-4c70-a807-f7b48165e8fe.png?v=1762962038
-    Price: $659.50 USD
+    Price: $654.50 USD
 - [Samsung Galaxy S25 Ultra S938B Unlocked | 200MP | Snapdragon 8 Elite](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new): Shop Samsung Galaxy S25 Ultra (S938B) unlocked at Wireless Place. 6.9" QHD+ AMOLED, Snapdragon 8 Elite, 200MP quad cam, 5000mAh, 45W. Free 2-day shipping!
-  Updated: 2026-10-11T19:58:58Z
+  Updated: 2026-10-22T15:11:20Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -116,53 +116,53 @@
   - [Titanium Black / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480810999978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_f24d040b-c9f1-4135-b7c1-396ab9982378.png?v=1762879753
-    Price: $819.50 USD
+    Price: $834.50 USD
   - [Titanium Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46471657521322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_f24d040b-c9f1-4135-b7c1-396ab9982378.png?v=1762879753
-    Price: $874.50 USD
+    Price: $882.50 USD
   - [Titanium Black / 1TB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811032746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_f24d040b-c9f1-4135-b7c1-396ab9982378.png?v=1762879753
-    Price: $929.50 USD
+    Price: $936.50 USD
   - [Titanium Gray / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811065514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_e18fff14-0cb0-4098-a3b9-74a4c300e024.png?v=1762879753
-    Price: $819.50 USD
+    Price: $834.50 USD
   - [Titanium Gray / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46471657554090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_e18fff14-0cb0-4098-a3b9-74a4c300e024.png?v=1762879753
-    Price: $874.50 USD
+    Price: $882.50 USD
   - [Titanium Gray / 1TB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811098282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_e18fff14-0cb0-4098-a3b9-74a4c300e024.png?v=1762879753
-    Price: $929.50 USD
+    Price: $936.50 USD
   - [Titanium Whitesilver / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811196586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e64eb64d-44f8-4f17-8aab-fc51904a342e.png?v=1762879753
-    Price: $819.50 USD
+    Price: $834.50 USD
   - [Titanium Whitesilver / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46471657619626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e64eb64d-44f8-4f17-8aab-fc51904a342e.png?v=1762879753
-    Price: $874.50 USD
+    Price: $882.50 USD
   - [Titanium Whitesilver / 1TB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811229354)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e64eb64d-44f8-4f17-8aab-fc51904a342e.png?v=1762879753
-    Price: $929.50 USD
+    Price: $936.50 USD
   - [Titanium Silverblue / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811131050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_bbb31d02-4fd0-4f24-b4c9-068785f7207e.png?v=1762879753
-    Price: $819.50 USD
+    Price: $834.50 USD
   - [Titanium Silverblue / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46471657586858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_bbb31d02-4fd0-4f24-b4c9-068785f7207e.png?v=1762879753
-    Price: $874.50 USD
+    Price: $882.50 USD
   - [Titanium Silverblue / 1TB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-ultra-5g-s938b-gsm-unlocked-international-version-new?variant=46480811163818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_bbb31d02-4fd0-4f24-b4c9-068785f7207e.png?v=1762879753
-    Price: $929.50 USD
+    Price: $936.50 USD
 - [45W USB-C Wall Charger — Super Fast Charging | Wireless Place](https://www.wirelessplace.com/products/45w-usb-c-wall-charger-super-fast-charging-block): Charge your phone, tablet, or laptop fast with this 45W USB-C wall charger. Supports USB PD, compact design, Black. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-10T14:09:11Z
+  Updated: 2026-10-22T03:46:47Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -176,45 +176,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/17_15de3a74-2627-4ed4-9ff4-6c3bfa4ac047.png?v=1743522892
     Price: $19.99 USD
 - [Samsung Galaxy A56 5G A566E Unlocked | 6.7" 120Hz | Exynos 1580 | 5G](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new): Shop Samsung Galaxy A56 5G (A566E) unlocked at Wireless Place. 6.7" 120Hz AMOLED, Exynos 1580, 50MP triple cam, 5000mAh, 45W, IP67. Free 2-day shipping!
-  Updated: 2026-10-11T19:37:58Z
+  Updated: 2026-10-22T17:21:56Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Blackie-feature-galaxy-a-545288810.png?v=1752630154
-  - [Awesome Graphite / 128GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46621309436074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Blackie-feature-galaxy-a-545288810.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Graphite / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46624970801322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Blackie-feature-galaxy-a-545288810.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Light Gray / 128GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46621309468842)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/77.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Light Gray / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46624970834090)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/77.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Olive / 128GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46621310419114)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/79.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Olive / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46624970866858)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/79.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Pink / 128GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46621310451882)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/78.png?v=1752630154
-    Price: $394.50 USD
-  - [Awesome Pink / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a56-5g-gsm-unlocked-international-version-new?variant=46624970899626)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/78.png?v=1752630154
-    Price: $394.50 USD
+  Price: $382.50 USD
 - [Xiaomi 15 5G Unlocked | Snapdragon 8 Elite, Leica Triple 50MP, 512GB](https://www.wirelessplace.com/products/xiaomi-15-5g-gsm-unlocked-international-version-new): Xiaomi 15 5G unlocked — Snapdragon 8 Elite, 6.36" 120Hz AMOLED, Leica triple 50MP cameras, 90W fast charge, IP68. GSM international version Free 2Day Shipping
-  Updated: 2026-10-07T17:48:17Z
+  Updated: 2026-10-22T03:46:47Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -222,21 +191,43 @@
   - [Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-15-5g-gsm-unlocked-international-version-new?variant=46753753039018)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/pms_1730124020.85532513_54a5e221-526f-4a35-85ab-7d1bb0c40bc4.png?v=1748488342
-    Price: $699.50 USD
+    Price: $704.50 USD
   - [White / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-15-5g-gsm-unlocked-international-version-new?variant=46753753071786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/pms_1730124020.81653464_f8a8314f-ceb2-4074-b560-9da294806930.png?v=1748488342
-    Price: $699.50 USD
+    Price: $704.50 USD
   - [Green / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-15-5g-gsm-unlocked-international-version-new?variant=46753753104554)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/pms_1730124020.81975836_e49c4f7b-d02d-4052-8f8f-0f633a6270f5.png?v=1748488342
-    Price: $699.50 USD
+    Price: $704.50 USD
   - [Glacier Silver / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-15-5g-gsm-unlocked-international-version-new?variant=46753753137322)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/pms_1730124020.8613571_63e38bbc-2976-475e-997d-61d8c89a3d49.png?v=1748488342
-    Price: $699.50 USD
+    Price: $704.50 USD
+- [Samsung Galaxy SmartTag2 (New)](https://www.wirelessplace.com/products/samsung-galaxy-smarttag2-new): Redesigned to do even more The redesigned Galaxy SmartTag2 is made so you can keep calm and keep track. Its design makes it easy for you to tag and carry your belongings. It's also IP67-rated water- and dust-resistant, activates your compatible IoT devices and stays powered for up to 500 days or even up to 40% more on Power Saving Mode. Relax, you've got it tagged No need to retrace your steps. Simply register a new Galaxy SmartTag2 and get started right away with SmartThings Find. With its intuitive tracking experience, you now have a way to keep track of things you love right in the palm of your hand. Search near when it's not far Lose something? Switch on Search Nearby and get guided instructions to your item's location via Compass View. If you still don't see it, just ring your Galaxy SmartTag2 to have it send out an audible signal. Help bring your stuff back home When Lost Mode is activated, NFC (Near Field Communication) from Galaxy SmartTag2 will display your registered contact information and a message on the finder's smartphone, no matter their OS.
+  Updated: 2026-10-22T03:46:48Z
+  Vendor: Wireless Place
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1126/0898/files/EI-T5600B_001_Front_Black-1600x1200.jpg?v=1747072190
+  - [Black / 1-Pack](https://www.wirelessplace.com/products/samsung-galaxy-smarttag2-new?variant=46801162109098)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/EI-T5600B_001_Front_Black-1600x1200.jpg?v=1747072190
+    Price: $59.50 USD
+  - [Black / 4-Pack](https://www.wirelessplace.com/products/samsung-galaxy-smarttag2-new?variant=46801162141866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_35271990-99ba-4b3b-a483-6cb61d92f68b.jpg?v=1747072198
+    Price: $59.50 USD
+  - [White / 1-Pack](https://www.wirelessplace.com/products/samsung-galaxy-smarttag2-new?variant=46801162174634)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/EI-T5600B_001_Front_White-1600x1200.jpg?v=1747072194
+    Price: $59.50 USD
+  - [White / 4-Pack](https://www.wirelessplace.com/products/samsung-galaxy-smarttag2-new?variant=46801162207402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_35271990-99ba-4b3b-a483-6cb61d92f68b.jpg?v=1747072198
+    Price: $59.50 USD
 - [Xiaomi Redmi Pad 2 WiFi Global – 11" 2.5K 90Hz, 9000mAh, Dolby Atmos](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new): Xiaomi Redmi Pad 2 WiFi Global Version. 11" 2.5K 90Hz IPS, Helio G100 Ultra, 9000mAh, quad Dolby Atmos speakers, up to 256GB. New. Free 2-Day Shipping!
-  Updated: 2026-10-10T03:20:37Z
+  Updated: 2026-10-22T14:33:36Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -244,7 +235,7 @@
   - [Graphite Gray / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=46909902094506)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_64f8f8f2-4a9a-4366-b842-836a3c346524.png?v=1782837295
-    Price: $184.50 USD
+    Price: $186.50 USD
   - [Graphite Gray / 256GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=67552378585258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_64f8f8f2-4a9a-4366-b842-836a3c346524.png?v=1782837295
@@ -252,23 +243,23 @@
   - [Graphite Gray / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=46909902127274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_64f8f8f2-4a9a-4366-b842-836a3c346524.png?v=1782837295
-    Price: $219.50 USD
+    Price: $222.50 USD
   - [Mint Green / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=47276088983722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_6e39a85c-b593-4fd1-8ae1-610681463afb.png?v=1782837295
-    Price: $184.50 USD
+    Price: $186.50 USD
   - [Mint Green / 256GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=67552378618026)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_6e39a85c-b593-4fd1-8ae1-610681463afb.png?v=1782837295
     Price: $209.50 USD
   - [Mint Green / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=47276089016490)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_6e39a85c-b593-4fd1-8ae1-610681463afb.png?v=1782837295
-    Price: $219.50 USD
+    Price: $222.50 USD
   - [Lavender Purple / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=47276089049258)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_ac5355ba-6d79-4d8a-89fd-ca15a5b7ad0d.png?v=1782837295
-    Price: $184.50 USD
+    Price: $186.50 USD
   - [Lavender Purple / 256GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=67552378650794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_ac5355ba-6d79-4d8a-89fd-ca15a5b7ad0d.png?v=1782837295
@@ -276,9 +267,9 @@
   - [Lavender Purple / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-2-wifi-only-global-version-new?variant=47276089082026)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_ac5355ba-6d79-4d8a-89fd-ca15a5b7ad0d.png?v=1782837295
-    Price: $219.50 USD
+    Price: $222.50 USD
 - [Samsung Galaxy Z Flip7 5G Unlocked | 256GB & 512GB – Wireless Place](https://www.wirelessplace.com/products/samsung-galaxy-z-flip7-5g-f766b-gsm-unlocked-international-version-new): Samsung Galaxy Z Flip7 5G unlocked: 6.9" AMOLED, Exynos 2500, 50MP camera, 4300mAh & 25W charging. 256GB & 512GB. Ships fast from Wireless Place.
-  Updated: 2026-10-07T17:48:21Z
+  Updated: 2026-10-22T03:46:57Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -308,7 +299,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-zflip7-f766-sm-f766uzreatt-547918286.jpg?v=1753803561
     Price: $959.50 USD
 - [Samsung Galaxy Z Fold7 5G (F966B) GSM Unlocked Version](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new): The Samsung Galaxy Z Fold7 5G (model F966B) represents the pinnacle of foldable smartphone technology, combining innovation, performance, and design into a single premium device. As the newest addition to Samsung’s flagship Z Fold series, this model is engineered to redefine how users interact with their mobile devices. The hallmark feature of the Fold7 is its large foldable main display, which unfolds to provide an expansive 7.6-inch Dynamic AMOLED 2X screen with a crisp resolution and vibrant colors. This spacious screen is perfect for multitasking, media consumption, gaming, and productivity tasks, offering a tablet-like experience in a device that still fits comfortably in your hand when folded. The exterior features a 6.2-inch cover screen with the same smooth adaptive 120Hz refresh rate, allowing users to quickly check notifications, respond to messages, or control media playback without unfolding the device. Both displays support an adaptive refresh rate that dynamically adjusts between 1Hz and 120Hz, which optimizes battery life while ensuring smooth scrolling and responsiveness when needed. Powered by a cutting-edge chipset, the Galaxy Z Fold7 delivers high performance suitable for demanding apps and seamless multitasking. It runs on the latest Android 16 operating system, layered with Samsung’s One UI 8 interface. This combination provides a user-friendly experience with enhanced productivity features specifically optimized for foldable screens, such as improved multi-window support and taskbar navigation. Connectivity is robust with support for 5G networks worldwide, Wi-Fi 7, Bluetooth 5.4, and NFC, allowing for fast data transfers and seamless contactless payments. The NFC functionality makes it convenient to use mobile payment platforms or quickly pair with other compatible devices, which is particularly useful in today’s contactless-focused world. The device also emphasizes durability, featuring an Armor Aluminum frame and Gorilla Glass Victus 2 on both the front and back, ensuring protection against everyday wear and tear. It carries an IPX8 rating for water resistance, allowing it to withstand submersion in water up to 1.5 meters for 30 minutes. As an international GSM unlocked model, the Galaxy Z Fold7 offers broad carrier compatibility, making it an excellent choice for global travelers or those who want the freedom to choose their network provider. Its combination of premium hardware, large foldable displays, powerful software, and modern connectivity options makes the Galaxy Z Fold7 a versatile and cutting-edge smartphone designed for users who demand the best in technology and innovation.
-  Updated: 2026-10-07T17:48:22Z
+  Updated: 2026-10-22T15:20:06Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -316,7 +307,7 @@
   - [Jet Black / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=48755847233706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966uzkexaa-547864098.jpg?v=1753804102
-    Price: $1,364.50 USD
+    Price: $1,289.50 USD
   - [Jet Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=47279813951658)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966uzkexaa-547864098.jpg?v=1753804102
@@ -324,7 +315,7 @@
   - [Blue Shadow / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=48755847266474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966udbexaa-547829380.jpg?v=1753804106
-    Price: $1,364.50 USD
+    Price: $1,289.50 USD
   - [Blue Shadow / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=47279813984426)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966udbexaa-547829380.jpg?v=1753804106
@@ -332,13 +323,13 @@
   - [Silver Shadow / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=48755847299242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966uzsexaa-547867253.jpg?v=1753804114
-    Price: $1,364.50 USD
+    Price: $1,289.50 USD
   - [Silver Shadow / 512GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-z-fold7-5g-f966b-gsm-unlocked-international-version-new?variant=47279814017194)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-z-fold7-f966-sm-f966uzsexaa-547867253.jpg?v=1753804114
     Price: $1,579.50 USD
 - [Samsung Galaxy Buds Core Wireless Earbuds | 26-Hr | Bluetooth 5.3](https://www.wirelessplace.com/products/samsung-galaxy-buds-core-new): Shop Samsung Galaxy Buds Core at Wireless Place. Bluetooth 5.3, 6mm drivers, 26-hr battery, fast charge, wireless charging, Dolby Atmos. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:26Z
+  Updated: 2026-10-22T17:11:09Z
   Vendor: Wireless Place
   Product Type: Earbuds
   Availability: Available
@@ -346,13 +337,13 @@
   - [Black](https://www.wirelessplace.com/products/samsung-galaxy-buds-core-new?variant=47331335307434)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/levant-galaxy-buds-core-r410-sm-r410nzkamea-547814701_14250fed-3f0f-4126-b86e-e3d0a322732f.jpg?v=1755184545
-    Price: $55.00 USD
+    Price: $54.50 USD
   - [White](https://www.wirelessplace.com/products/samsung-galaxy-buds-core-new?variant=47331335340202)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/levant-galaxy-buds-core-r410-sm-r410nzwamea-547814714.jpg?v=1755184540
-    Price: $56.50 USD
-- [Samsung Galaxy A17 5G (A176B) GSM Unlocked International Version](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new): Ideal for budget-conscious users and frequent travelers who want reliable 5G connectivity without flagship pricing, the Samsung Galaxy A17 5G (A176B/L) is a factory unlocked international version compatible with major GSM carriers — including T-Mobile, AT&T, and 5G networks worldwide. Designed for everyday performance, this dual-SIM smartphone features a 6.6-inch PLS LCD display with HD+ resolution, a MediaTek Dimensity processor, and a long-lasting 5000mAh battery. Its slim bezels and lightweight build make it comfortable for browsing, streaming, gaming, and social media on the go. Powered by a MediaTek Dimensity processor, the Galaxy A17 5G ensures efficient multitasking and smooth performance across various apps and activities. The device comes with up to 6GB of RAM and generous internal storage options, allowing users to store apps, media, and documents without worry. As a factory unlocked international version, the phone provides broad network compatibility, making it suitable for global users and travelers seeking 5G access across different regions. The smartphone boasts a quad-camera setup on the rear, led by a high-resolution main sensor that captures detailed and vibrant photos. Complemented by ultra-wide, macro, and depth sensors, the camera system offers versatility for everyday photography. A front-facing camera ensures crisp selfies and smooth video calls, with additional features such as portrait mode, HDR, and AI scene optimization enhancing the overall photography experience. Battery performance is robust thanks to the 5,000 mAh battery, which supports extended daily usage and reduces the need for frequent recharging. The device supports fast wired charging, allowing users to quickly replenish the battery and get back to using their phone. Running Android 15 with Samsung One UI, the Galaxy A17 5G provides a clean, user-friendly interface, optimized multitasking, and access to Samsung’s ecosystem of apps and features. Overall, the Samsung Galaxy A17 5G (A176B/L) DS Factory Unlocked International Version combines a large display, reliable performance, versatile cameras, long battery life, and 5G connectivity. It is a practical and modern smartphone choice for users who want a balance of affordability, global compatibility, and future-ready network support.
-  Updated: 2026-10-10T14:09:07Z
+    Price: $54.50 USD
+- [Samsung Galaxy A17 5G (A176B) GSM Unlocked International Version](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new): The Samsung Galaxy A17 5G (SM-A176B) is a stylish and affordable smartphone designed for everyday use, entertainment, and staying connected while traveling. This factory unlocked international version supports 5G connectivity and is compatible with supported GSM networks, depending on the carrier and regional network bands. Its slim design and large display make it a practical choice for browsing, streaming videos, social media, and everyday communication. The Galaxy A17 5G features a 6.7-inch Super AMOLED display with Full HD+ resolution of 2340 × 1080 pixels and a 90Hz refresh rate. Enjoy vibrant colors, deep blacks, sharp details, and smooth scrolling when watching videos, browsing websites, or using your favorite apps. Powered by the Samsung Exynos 1330 octa-core processor, the phone delivers dependable performance for everyday applications, multitasking, and entertainment. Memory and storage configurations vary by market and model. Capture everyday moments with the triple rear camera system, featuring a 50MP main camera with optical image stabilization, a 5MP ultra-wide camera, and a 2MP macro camera. The 13MP front-facing camera is suitable for selfies and video calls, helping you capture photos and stay connected with friends and family. A 5,000mAh battery provides dependable power for daily activities, while support for up to 25W wired fast charging helps you recharge more quickly with a compatible charger. The Galaxy A17 5G launched with Android 15 and Samsung One UI 7, offering a familiar interface and access to Samsung's apps and features. With its vibrant Super AMOLED display, capable processor, versatile cameras, and 5G connectivity, the Samsung Galaxy A17 5G is a practical choice for customers looking for useful features and modern performance without flagship pricing.
+  Updated: 2026-10-22T16:28:59Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -360,48 +351,43 @@
   - [Black / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=48191236800682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_bf895d8c-0f30-49b9-bee4-405736cf42b9.png?v=1761144855
-    Price: $207.50 USD
-  - [Black / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47331971039402)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_bf895d8c-0f30-49b9-bee4-405736cf42b9.png?v=1761144855
-    Price: $207.50 USD
+    Price: $209.50 USD
   - [Black / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47424047349930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_bf895d8c-0f30-49b9-bee4-405736cf42b9.png?v=1761144855
-    Price: $304.50 USD
+    Price: $314.50 USD
   - [Blue / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=48191236833450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_3e38b7d2-259a-48aa-95e5-b95b18b2e3de.png?v=1761144855
-    Price: $207.50 USD
-  - [Blue / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47331971072170)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_3e38b7d2-259a-48aa-95e5-b95b18b2e3de.png?v=1761144855
-    Price: $207.50 USD
+    Price: $209.50 USD
   - [Blue / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47424047382698)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_3e38b7d2-259a-48aa-95e5-b95b18b2e3de.png?v=1761144855
-    Price: $304.50 USD
+    Price: $314.50 USD
   - [Gray / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=48191236866218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_4eceb00e-0ad1-4875-984e-ee92b09b02cb.png?v=1761144855
-    Price: $207.50 USD
-  - [Gray / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47331971104938)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_4eceb00e-0ad1-4875-984e-ee92b09b02cb.png?v=1761144855
-    Price: $207.50 USD
+    Price: $209.50 USD
   - [Gray / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-5g-a176b-l-ds-factory-unlocked-international-version-new?variant=47424047415466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_4eceb00e-0ad1-4875-984e-ee92b09b02cb.png?v=1761144855
-    Price: $304.50 USD
+    Price: $314.50 USD
 - [MSI 31.5" Curved FHD (1920x1080) HDMI DP 165Hz 1ms FreeSync - Optix G32C4W (NEW)](https://www.wirelessplace.com/products/msi-31-5-curved-fhd-1920x1080-hdmi-dp-165hz-1ms-freesync-optix-g32c4w-new): The MSI Optix G32C4W is a compelling gaming monitor that blends immersive design with competitive-grade performance. Its 31.5-inch Full HD (1920 × 1080) display brings clarity and detail suited for fast-paced gameplay, while the curved 1500R VA panel wraps around your field of view, enhancing depth and reducing eye fatigue during long sessions. Performance-wise, this monitor delivers a smooth gaming experience through its 165 Hz refresh rate and 1 ms response time, keeping motion fluid and input delay practically unnoticeable. It features AMD FreeSync support, which coordinates refresh rates between the GPU and display to minimize screen tearing and stuttering, ensuring a seamless visual experience even during complex scenes. Built with gamers in mind, the Optix G32C4W offers wide viewing angles and a large color coverage (over 94% DCI-P3 and around 120% sRGB), making visuals vibrant and accurate. It also includes eye comfort technologies like Anti-Flicker and Low Blue Light modes to reduce strain during prolonged use. The monitor's frameless design further enhances immersion and works well in multi-monitor setups. Mounting and setup are made flexible through VESA compatibility, allowing it to be wall-mounted or paired with desk arms. With DisplayPort and HDMI connectivity and user-friendly OSD navigation, setting up the monitor is smooth and intuitive. All these features position the Optix G32C4W as a balanced pick for gamers seeking performance, eye comfort, and immersive viewing at an accessible price.
-  Updated: 2026-10-07T17:48:26Z
+  Updated: 2026-10-22T03:46:58Z
   Vendor: Wireless Place
   Product Type: Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_3_13af68c5-2222-430d-890f-c4370d0ecc0e.png?v=1756418213
   Price: $204.99 USD
+- [Motorola Moto G Play (2024) Unlocked | 64GB, Sapphire Blue](https://www.wirelessplace.com/products/motorola-g-play-2024-4-gb-ram-64-gb-storage-sapphire-blue-usa-version): Motorola G Play 2024 unlocked — 6.5" 90Hz display, 50MP camera, 5000mAh battery (46hr), Snapdragon 680, 64GB. Free 2-day shipping.
+  Updated: 2026-10-22T18:12:04Z
+  Vendor: TD Wireless Place
+  Product Type: Cell Phone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_84f26be6-ba1a-4d83-8c4f-e86864ee930e.png?v=1762462441
+  Price: $121.50 USD
 - [Samsung Galaxy A07 Unlocked | 50MP, 5000mAh, 6 Years of Updates](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new): Samsung Galaxy A07 unlocked — 6.7" display, 50MP camera, 5000mAh + 25W charging, Android 15, IP54, 6yr updates. Free 2-day shipping.
-  Updated: 2026-10-10T00:32:18Z
+  Updated: 2026-10-22T03:47:02Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -409,36 +395,36 @@
   - [Black / 64GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849206442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_1_4662e5f9-b3d5-4556-abd8-69788f354a17.jpg?v=1767366366
-    Price: $134.50 USD
+    Price: $136.50 USD
   - [Black / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849239210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_1_4662e5f9-b3d5-4556-abd8-69788f354a17.jpg?v=1767366366
-    Price: $154.50 USD
+    Price: $149.50 USD
   - [Green / 64GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849271978)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_2_10c2ca7a-ca11-4c9a-b43b-83caaf54ccff.jpg?v=1767366366
-    Price: $134.50 USD
+    Price: $136.50 USD
   - [Green / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849304746)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_2_10c2ca7a-ca11-4c9a-b43b-83caaf54ccff.jpg?v=1767366366
-    Price: $154.50 USD
+    Price: $149.50 USD
   - [Violet / 64GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849337514)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_3_4a9685bf-d2e8-49a0-ae92-b5a1f1cc5c52.jpg?v=1767366366
-    Price: $134.50 USD
+    Price: $136.50 USD
   - [Violet / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a07-a075m-gsm-unlocked-international-version-new?variant=47402849370282)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai_3_4a9685bf-d2e8-49a0-ae92-b5a1f1cc5c52.jpg?v=1767366366
-    Price: $154.50 USD
+    Price: $149.50 USD
 - [Lenovo Tab 10.1" Tablet – 4GB RAM, 128GB, 4G LTE, Android 14](https://www.wirelessplace.com/products/lenovo-tab-10-1-zaeh0148us-128gb-4gb-ram-luna-grey-new): Lenovo Tab 10.1" tablet with 4GB RAM, 128GB storage, 4G LTE, Android 14, Dolby Audio & 5000mAh battery. Includes case with kickstand. Luna Grey.
-  Updated: 2026-10-07T17:48:31Z
+  Updated: 2026-10-22T03:47:02Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_99625196-1276-4f26-a1d1-1a9251dfa644.png?v=1757533333
   Price: $237.50 USD
 - [Xiaomi Redmi 15C 4G GSM Unlocked International Version (New)](https://www.wirelessplace.com/products/xiaomi-redmi-15c-4g-gsm-unlocked-international-version-new): The Xiaomi Redmi 15C 4G GSM Unlocked International Version (New) is a budget-friendly smartphone designed to deliver solid everyday performance with modern features, all in a globally compatible package. As a GSM unlocked device, it works with a wide range of carriers around the world, making it ideal for international users or frequent travelers who need flexible connectivity. Running on Android 15 with Xiaomi’s custom HyperOS 2.0, the Redmi 15C provides a clean, optimized user experience with improved battery efficiency and smooth multitasking. The phone is equipped with a 6.9-inch HD+ IPS LCD display featuring a 120Hz adaptive refresh rate, offering fluid visuals whether you're browsing, gaming, or watching videos. Despite its budget category, the high refresh rate ensures a modern touch in screen responsiveness. In terms of connectivity, the Redmi 15C includes NFC support, allowing users to make contactless payments, pair with compatible devices, and access smart card-based features. The international version typically comes with dual SIM support and generous internal storage options, giving users flexibility and convenience without the high cost. Overall, the Xiaomi Redmi 15C 4G is a well-rounded entry-level smartphone that doesn't compromise on essential features. With a large display, fast refresh rate, global compatibility, and NFC support, it provides excellent value for users looking for a dependable phone at an affordable price.
-  Updated: 2026-10-11T03:46:06Z
+  Updated: 2026-10-22T03:47:02Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -446,24 +432,24 @@
   - [Midnight Black / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-15c-4g-gsm-unlocked-international-version-new?variant=47410973474986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e51f00f2-4ed8-4c6e-8779-166f4d73b121.png?v=1762446845
-    Price: $142.50 USD
+    Price: $144.50 USD
   - [Moonlight Blue / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-15c-4g-gsm-unlocked-international-version-new?variant=47410973540522)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_9cf27ba6-efea-4ae7-9ac5-b6d1efd855fc.png?v=1762446845
-    Price: $142.50 USD
+    Price: $144.50 USD
   - [Mint Green / 128GB/4GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-15c-4g-gsm-unlocked-international-version-new?variant=47410973606058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_f8bd3fa5-5604-4002-8a9d-8c31eb9247c2.png?v=1762446845
-    Price: $142.50 USD
+    Price: $144.50 USD
 - [ASUS ROG Strix G18 (2025) G814FP-WS96 | RTX 5070 | 1TB | 32GB RAM](https://www.wirelessplace.com/products/asus-rog-strix-g18-2025-18-g814fp-ws96-1tb-32gb-ram-eclipse-gray-new): Shop the ASUS ROG Strix G18 (2025) at Wireless Place. Ryzen 9 9955HX, RTX 5070, 32GB DDR5, 1TB SSD, 18" 240Hz 2.5K display. Eclipse Gray. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:31Z
+  Updated: 2026-10-22T03:47:02Z
   Vendor: Wireless Place
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_4_-Picsart-AiImageEnhancer_c112e223-94e4-4963-892e-ad1f2d7f5328.png?v=1757626160
   Price: $2,399.50 USD
 - [PlayStation PULSE Elite Wireless Headset | Planar Magnetic, PS5 & PC](https://www.wirelessplace.com/products/playstation-pulse-elite-wireless-headset-new): The PlayStation PULSE Elite Wireless Headset. Planar magnetic drivers, PlayStation Link low-latency wireless, 30-hr battery & AI mic. Free 2 day shipping.
-  Updated: 2026-10-07T17:48:36Z
+  Updated: 2026-10-22T03:47:07Z
   Vendor: Wireless Place
   Product Type: Earbuds
   Availability: Available
@@ -477,56 +463,56 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_1_6ba86198-e436-454c-b01f-1c7412a2331c.png?v=1757691179
     Price: $182.50 USD
 - [Onn+ Wired Gaming Headset (HZ-WD-GD1) — 3.5mm | Wireless Place](https://www.wirelessplace.com/products/onn-hz-wd-gd1-wired-video-gaming-headset-new): Onn+ wired gaming headset with 3.5mm connector — compatible with PS5, Xbox, Nintendo Switch & PC. Flip-to-mute mic. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-07T17:48:36Z
+  Updated: 2026-10-22T03:47:07Z
   Vendor: Wireless Place
   Product Type: Earbuds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_2_29219b59-50f2-4fad-aa4f-9c391acaee37.png?v=1757695376
   Price: $37.50 USD
 - [ASUS ROG Strix G16 (2025) G614FM-WS94 | RTX 5060 | 1TB | 16GB RAM](https://www.wirelessplace.com/products/asus-rog-strix-g16-2025-g614fm-ws94-1tb-16gb-ram-eclipse-gray-new): Shop the ASUS ROG Strix G16 (2025) at Wireless Place. Ryzen 9 9955HX, RTX 5060, 16GB DDR5, 1TB SSD, 165Hz display. Eclipse Gray. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:37Z
+  Updated: 2026-10-22T03:47:06Z
   Vendor: Wireless Place
   Product Type: Laptop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_4_-Picsart-AiImageEnhancer_7fd0ccb5-a0c1-4088-8117-50313908d2b0.png?v=1757946764
   Price: $1,582.50 USD
 - [Google Nest Cam 2-Pack GA01894-US | Indoor & Outdoor | 1080p HDR](https://www.wirelessplace.com/products/google-nest-cam-2-pack-ga01894-us-outdoor-or-indoor-snow-new): Shop Google Nest Cam 2-Pack at Wireless Place. 1080p HDR, 130° FOV, night vision, 2-way audio, 6-mo battery, IP54, Google Home & Assistant. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:36Z
+  Updated: 2026-10-22T03:47:07Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_7ab045f6-729c-4ac0-a4f3-84cb69ba76c0.png?v=1758203397
   Price: $404.99 USD
 - [TP-Link Tapo TCW61 1080p Camera – Color Night Vision | Wireless Place](https://www.wirelessplace.com/products/tp-link-tapo-tcw61-indoor-outdoor-hd-security-camera-white-new): Shop TP-Link Tapo TCW61 1080p camera with color night vision, motion alerts & no monthly fees at Wireless Place. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:37Z
+  Updated: 2026-10-22T03:47:08Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/Untitleddesign_4_5e44d12a-cf6c-4c45-99c1-3afebd7a7cdc.png?v=1758207782
   Price: $37.50 USD
 - [TP-Link Tapo TCW30 Pan/Tilt 1080p Security Camera – White | Wireless Place](https://www.wirelessplace.com/products/tp-link-tapo-tcw30-indoor-outdoor-hd-security-camera-with-pan-tilt-white-new): Shop the TP-Link Tapo TCW30 HD security camera with 360° pan/tilt, night vision, two-way audio & motion alerts. Easy app setup. Compatible with Alexa & Google.
-  Updated: 2026-10-07T17:48:36Z
+  Updated: 2026-10-22T03:47:07Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_3ae74527-72f2-4b0a-b41e-404a13c07faf.png?v=1758210590
   Price: $42.50 USD
 - [Merkury Dual-Lens Outdoor Camera 1080p | IP65, Pan & Tilt](https://www.wirelessplace.com/products/merkury-smart-outdoor-camera-mi-cw084-199w-white-new): Merkury dual-lens outdoor camera — 1080p, IP65 weatherproof, 355° pan/tilt, motion tracking & two-way audio. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:36Z
+  Updated: 2026-10-22T03:47:10Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_424637d6-a4e3-4aa4-a65c-ae6c0dcc6edb.png?v=1758219230
   Price: $49.99 USD
 - [MobiCam MP Smart Baby Monitor Camera | Dual-Band Wi-Fi & Night Vision](https://www.wirelessplace.com/products/mobicam-mp-smart-baby-nursery-monitoring-camera-white-new): MobiCam MP baby & nursery camera — dual-band Wi-Fi, HD live video, two-way audio, night vision & motion alerts. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:38Z
+  Updated: 2026-10-22T03:47:13Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_5ebb435d-c1f2-4326-bf1d-c5a02a7f5e1a.png?v=1758224809
   Price: $49.99 USD
 - [Merkury Smart Indoor Camera 1080p | Night Vision & Two-Way Audio](https://www.wirelessplace.com/products/merkury-mi-cw051-199w-smart-indoor-camera-1080p-white-new): Merkury 1080p smart indoor camera — night vision, motion alerts, two-way audio & Alexa/Google support. 1 or 2-Pack. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:39Z
+  Updated: 2026-10-22T03:47:12Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -540,14 +526,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_7cfc139f-933e-4a29-96c1-439ef8666bb3.png?v=1758229516
     Price: $59.99 USD
 - [Merkury Smart Indoor Camera 1080p | Auto-Tracking & Night Vision](https://www.wirelessplace.com/products/merkury-smart-indoor-camera-1080p-mi-cw054-199w-white-new): Merkury 1080p indoor camera with auto-tracking, night vision, motion alerts & two-way audio. Works with Alexa & Google. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:41Z
+  Updated: 2026-10-22T03:47:14Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_1faffb31-f5c5-46d4-a62a-7d7b2e5d3648.png?v=1758230263
   Price: $44.99 USD
 - [Samsung Galaxy Tab S10 FE X520 WiFi International | S Pen | IP68](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-fe-x520-wifi-only-international-version-new): Shop Samsung Galaxy Tab S10 FE (X520) international at Wireless Place. 10.9" 90Hz, Exynos 1580, S Pen, 8000mAh, 45W, IP68, Wi-Fi 6E. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:41Z
+  Updated: 2026-10-22T17:07:48Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -565,29 +551,29 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_41c6cba8-de3a-4670-8cd1-fc47b116abe7.png?v=1762379102
     Price: $389.50 USD
 - [Samsung Galaxy S25 FE 5G S731B Unlocked | 6.7" AMOLED | Exynos 2400](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-5g-s731b-gsm-unlocked-international-version-new): Shop Samsung Galaxy S25 FE 5G (S731B) unlocked at Wireless Place. 6.7" 120Hz AMOLED, Exynos 2400, 50MP triple cam, 4900mAh, 45W, IP68. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:42Z
+  Updated: 2026-10-22T16:55:32Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_bb8622c3-7e7e-4d70-aee9-d1702edcf957.png?v=1763390827
   - [Jet Black / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-5g-s731b-gsm-unlocked-international-version-new?variant=47500550897834)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_4335a524-8110-4714-81d9-a3e63700b797.png?v=1763390827
-    Price: $552.50 USD
+    Price: $556.50 USD
   - [Icyblue / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-5g-s731b-gsm-unlocked-international-version-new?variant=47500550865066)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_61b60201-c0f9-4ce8-a1db-2e7bc972c566.png?v=1763390827
-    Price: $552.50 USD
+    Price: $556.50 USD
   - [Navy / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-5g-s731b-gsm-unlocked-international-version-new?variant=47500550930602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_a524ad0b-6d62-498c-86cb-1619ee473b50.png?v=1763390827
-    Price: $552.50 USD
+    Price: $556.50 USD
   - [White / 256GB/8GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-5g-s731b-gsm-unlocked-international-version-new?variant=47500550963370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_751a0972-66c0-450e-970a-717cf3eb41f7.png?v=1763390827
-    Price: $552.50 USD
+    Price: $556.50 USD
 - [Samsung Galaxy Tab S10 Lite (X400) WiFi International Version](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-lite-x400-wifi-only-international-version-new): Discover a new level of versatility and performance with the Samsung Galaxy Tab S10 Lite (X400) — a tablet designed to meet the needs of both work and play. Combining premium craftsmanship with advanced technology, the Tab S10 Lite offers a smooth, immersive experience whether you’re streaming, studying, creating, or staying connected. This brand-new international version comes factory sealed and ready to use, ensuring compatibility and top-notch quality. Equipped with 128GB of internal storage and 6GB of RAM, the Galaxy Tab S10 Lite provides the power and space you need to handle multitasking with ease. From editing documents and attending virtual meetings to watching movies or playing games, performance remains fast and reliable. You can store more of what you love — apps, photos, videos, and files — without worrying about running out of space. And with Samsung’s intelligent system optimization, you’ll enjoy smooth operation even during heavy use. The WiFi-only configuration makes this model perfect for users who primarily use their tablet at home, at school, or in the office. You’ll enjoy stable connectivity for streaming, browsing, and video calls, without the need for a SIM card or data plan. Visually, the Galaxy Tab S10 Lite stands out with its sleek and modern design, available in Gray, Silver, and Coral Red finishes. The slim metal body feels premium in hand, while the vivid display offers crisp colors and excellent clarity — ideal for everything from reading and drawing to enjoying your favorite entertainment in full detail. Samsung’s intuitive One UI interface ensures a seamless user experience, enhanced by powerful software features for productivity, security, and customization. You can sync effortlessly with other Samsung Galaxy devices, share files instantly, and take advantage of Samsung’s ecosystem for a connected digital lifestyle. Whether you’re a student, professional, or casual user, the Samsung Galaxy Tab S10 Lite (X400) delivers the ideal balance of performance, design, and reliability. It’s more than just a tablet — it’s your everyday companion for learning, creativity, and entertainment, all in one sophisticated package
-  Updated: 2026-10-07T17:48:46Z
+  Updated: 2026-10-22T17:07:10Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -595,38 +581,45 @@
   - [Gray / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-lite-x400-wifi-only-international-version-new?variant=47500560171178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_2a317cc5-d7a5-40e8-966f-a87445e37a2f.png?v=1762381823
-    Price: $304.50 USD
+    Price: $307.50 USD
   - [Glacier Silver / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-lite-x400-wifi-only-international-version-new?variant=47500560203946)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_45d03679-59eb-4ba9-9504-c97c42c79a40.png?v=1762381823
-    Price: $304.50 USD
+    Price: $307.50 USD
   - [Coral Red / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-lite-x400-wifi-only-international-version-new?variant=47500560236714)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_c93e0c71-f9dd-4a5a-bad3-b4b008518085.png?v=1762381823
-    Price: $304.50 USD
+    Price: $307.50 USD
+- [ASUS Chromebook Plus CX34 — 128GB/8GB RAM | Wireless Place](https://www.wirelessplace.com/products/asus-chromebook-plus-cx34-cx3402cva-ws388t-gr-128gb-8gb-ram-gray-new): ASUS Chromebook Plus CX34 with Intel Core i3, 8GB RAM, 128GB storage, 14" FHD display & Google AI. Free 2-day shipping at Wireless Place.
+  Updated: 2026-10-22T03:47:18Z
+  Vendor: Wireless Place
+  Product Type: Laptop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_6af5d84a-ab56-4be1-8e97-d71733fae4ac.png?v=1759865773
+  Price: $404.99 USD
 - [AOSU 2K QHD Outdoor Wi-Fi Security Camera | AI Detection & Spotlight](https://www.wirelessplace.com/products/aosu-c6l2ba11-2k-qhd-3-0-mp-wi-fi-outdoor-ai-smart-security-camera-white-new): AOSU C6L2BA11 2K QHD outdoor security camera with AI person detection, PIR sensor, spotlight, 2-way audio & up to 180-day battery. IP65 weatherproof.
-  Updated: 2026-10-07T17:48:46Z
+  Updated: 2026-10-22T03:47:17Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/aosu-2K-QHD-3-0-MP-Wi-Fi-Outdoor-AI-Smart-Security-Camera-Battery-Powered-with-PIR-Motion-Detection-2-Way-Audio-and-Spotlight-C6L2BA11-C6L2BA11_c43ead23-1cf7-48ae-ba33-fe75fb791141.f1.avif?v=1759935749
   Price: $69.99 USD
 - [AOSU 2K Solar Security Camera C9L2BA11 – PTZ, AI Tracking, White](https://www.wirelessplace.com/products/aosu-c9l2ba11-2k-wi-fi-outdoor-ai-smart-solar-security-camera-white-new): AOSU C9L2BA11 2K solar security camera with 355° PTZ, AI auto-tracking, color night vision, two-way audio & IP65 weatherproofing. Wire-free outdoor protection.
-  Updated: 2026-10-07T17:48:45Z
+  Updated: 2026-10-22T03:47:17Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_07a60575-a061-49b4-9a15-c8aa7cb643a1.png?v=1759937031
   Price: $114.99 USD
 - [Night Owl 10-Channel 4K Wi-Fi NVR | 1TB HDD + 4 Spotlight Cameras](https://www.wirelessplace.com/products/night-owl-10-channel-4k-wi-fi-nvr-with-1tb-hard-drive-wm-btwn81-2-4l-white-new): Night Owl 10-channel 4K Wi-Fi NVR with 1TB HDD & 4 HD spotlight cameras. No monthly fees, two-way audio & motion alerts. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:47Z
+  Updated: 2026-10-22T03:47:17Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_c86c8241-ef3e-42f2-9a91-d601afd6c5fe.png?v=1759939251
   Price: $414.99 USD
 - [Samsung Galaxy A17 4G (A175F) GSM Unlocked | Wireless Place](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new): Shop Samsung Galaxy A17 4G (A175F) GSM unlocked at Wireless Place. 6.7" AMOLED, 50MP camera, 5000mAh battery & free 2-day shipping!
-  Updated: 2026-10-09T02:27:16Z
+  Updated: 2026-10-22T03:47:19Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -634,57 +627,59 @@
   - [Black / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47885086458026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_9b3975a3-624f-48ea-9339-86be053ad04e.png?v=1761144647
-    Price: $179.50 USD
-  - [Black / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47551640862890)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_9b3975a3-624f-48ea-9339-86be053ad04e.png?v=1761144647
-    Price: $179.50 USD
+    Price: $174.50 USD
   - [Gray / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47885086490794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_ddab4e06-917a-4941-bc41-4a38a0cf5644.png?v=1761144647
-    Price: $179.50 USD
-  - [Gray / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47551640895658)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_ddab4e06-917a-4941-bc41-4a38a0cf5644.png?v=1761144647
-    Price: $179.50 USD
+    Price: $174.50 USD
   - [Light Blue / 128GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47885086523562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_077f6977-9b96-43f7-9a66-734807571ab8.png?v=1761144647
-    Price: $179.50 USD
-  - [Light Blue / 128GB/6GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-a17-4g-a175m-gsm-unlocked-international-version-new?variant=47551640928426)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_077f6977-9b96-43f7-9a66-734807571ab8.png?v=1761144647
-    Price: $179.50 USD
+    Price: $174.50 USD
+- [Samsung Galaxy Watch 8 Classic International Model | 46MM | Black & White](https://www.wirelessplace.com/products/samsung-watch-8-classic-international-model-new): Shop the Samsung Galaxy Watch 8 Classic International Model. Rotating bezel, Super AMOLED, ECG, Gemini AI, 5ATM+IP68, 46MM. Unlocked. Free 2Day Shipping.
+  Updated: 2026-10-22T17:12:05Z
+  Vendor: Wireless Place
+  Product Type: Watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1126/0898/files/SM-L500NZK_ET-SNL32SN.jpg?v=1761059018
+  - [Black / 46MM (L500) / Bluetooth/WiFi](https://www.wirelessplace.com/products/samsung-watch-8-classic-international-model-new?variant=47551712428202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/SM-L500NZK_ET-SNL32SN.jpg?v=1761059018
+    Price: $264.50 USD
+  - [White / 46MM (L500) / Bluetooth/WiFi](https://www.wirelessplace.com/products/samsung-watch-8-classic-international-model-new?variant=47551712460970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1126/0898/files/SM-L500NZW_ET-SNL32SN.jpg?v=1761059020
+    Price: $264.50 USD
 - [TP-Link Tapo TC53 Smart Floodlight Camera | 2K | 2800 Lumens](https://www.wirelessplace.com/products/tp-link-tapo-wired-tc53-weatherproof-floodlight-with-2k-camera-white-new): Shop TP-Link Tapo TC53 floodlight camera. 2K QHD, 2800 lumens, 270° AI detection, two-way audio, siren, IP65, 512GB storage. Hardwired. Ships fast.
-  Updated: 2026-10-07T17:48:51Z
+  Updated: 2026-10-22T03:47:22Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e38160cb-e12f-4ab0-ac9e-fd46a372a11d.png?v=1761147450
   Price: $124.99 USD
 - [Night Owl 12-Ch DVR Security System 1TB + 4 Cameras – Wireless Place](https://www.wirelessplace.com/products/night-owl-wm-ftd281-4l-security-system-with-1tb-hard-drive-and-4-wired-1080p-deterrence-cameras-white-new): Shop Night Owl WM-FTD281-4L 12-ch DVR with 1TB HDD & 4 wired 1080p spotlight cameras. 2-way audio, no subscription. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:51Z
+  Updated: 2026-10-22T03:47:22Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_77bf53b3-7724-4397-b733-f15690650d62.png?v=1761150795
   Price: $337.50 USD
 - [Merkury 2K Light Bulb Security Camera | 360° Pan & Tilt, Night Vision](https://www.wirelessplace.com/products/merkury-mi-cw107-199w-smart-2k-light-bulb-security-camera-360-pan-tilt-new): Merkury 2K smart bulb camera — 360° pan/tilt, night vision, motion alerts & two-way audio. Screws into E26/E27 socket. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:52Z
+  Updated: 2026-10-22T03:47:22Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/unblurimageai.jpg?v=1761151911
   Price: $54.99 USD
 - [Arlo VMC3083 Essential Pan Tilt Camera – 2K & Color Night Vision](https://www.wirelessplace.com/products/arlo-vmc3083-100nas-essential-pan-tilt-security-camera-white-new): Shop the Arlo VMC3083-100NAS pan tilt camera with 2K video, 360° pan, color night vision, auto-tracking, built-in siren & dual-band Wi-Fi. Wired, always-on.
-  Updated: 2026-10-07T17:48:52Z
+  Updated: 2026-10-22T03:47:23Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_3d574285-4564-4a41-a7d8-6c760da4522c.png?v=1761156731
   Price: $82.50 USD
 - [Google Nest Cam Outdoor Wired 2nd Gen | 2K HDR | IP65 | 152° FOV](https://www.wirelessplace.com/products/google-nest-cam-outdoor-2nd-gen-wired-security-camera-with-2k-video-new): Shop Google Nest Cam Outdoor Wired 2nd Gen at Wireless Place. 2K HDR, 152° FOV, IP65, night vision, AI alerts, 2-way audio, Google Home. Free 2-day shipping!
-  Updated: 2026-10-07T17:48:51Z
+  Updated: 2026-10-22T03:47:27Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -702,21 +697,21 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_b3d24237-22c9-44d2-832b-26d6c8d15154.png?v=1761157929
     Price: $294.99 USD
 - [Arlo VMC2083 Outdoor Pan Tilt Camera – 2K HDR & Auto-Tracking](https://www.wirelessplace.com/products/arlo-vmc2083-1wmnas-essential-pan-tilt-security-camera-2025-white-new): The Arlo VMC2083 outdoor pan tilt camera with 2K HDR, 360° pan, auto-tracking, IR night vision, built-in siren & dual-band Wi-Fi. Wired, always-on coverage.
-  Updated: 2026-10-07T17:48:57Z
+  Updated: 2026-10-22T03:47:27Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_1db29e4c-df09-49ec-8a30-75bb10170588.png?v=1761160650
   Price: $59.99 USD
 - [Night Owl 10-Channel 4K Wi-Fi NVR 1TB + 3 Cameras – Wireless Place](https://www.wirelessplace.com/products/night-owl-wm-8bbtwn1-32b-10-channel-4k-wi-fi-nvr-with-1tb-hard-drive-and-3-wire-free-battery-new): Shop Night Owl WM-8BBTWN1-32B 10-channel 4K Wi-Fi NVR with 1TB HDD & 3 wire-free spotlight cameras. No subscription. Free 2-day shipping.
-  Updated: 2026-10-07T17:48:56Z
+  Updated: 2026-10-22T03:47:27Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_3375a7fb-4429-47b2-b86b-817b54d4f28d.png?v=1761161653
   Price: $404.99 USD
 - [Arlo Essential Indoor Pan Tilt Camera VMC2073 – 360°, Two-Way Audio](https://www.wirelessplace.com/products/arlo-vmc2073-1wmnas-essential-indoor-pan-tilt-security-camera-2025-white-new): Shop the Arlo VMC2073 Essential Indoor Pan Tilt camera with 360° pan, 1080p, IR night vision, two-way audio & dual-band Wi-Fi. Plug-in power, no hub needed.
-  Updated: 2026-10-07T17:48:56Z
+  Updated: 2026-10-22T03:47:27Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -730,28 +725,28 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_23517e77-3c80-4afe-b954-6982f40bdbff.png?v=1761165652
     Price: $69.99 USD
 - [Arlo (VMC2082-1WMNAS) Essential XL Security Camera 3rd Gen](https://www.wirelessplace.com/products/arlo-vmc2082-1wmnas-essential-xl-security-camera-3rd-gen-2025-white-new): The Arlo Essential XL Security Camera 3rd Gen (VMC2082‑1WMNAS) is a wireless outdoor security camera designed to simplify home monitoring by delivering extended battery life, solid resolution, and hassle‑free installation. Released in 2025, this model stands out with an “XL” battery capacity, meaning you’ll need to recharge far less frequently compared with standard models. Its wire‑free design allows for flexible placement both outdoors and indoors without worrying about wiring constraints. The camera supports 1080p HD video (or optionally 2K, depending on variant) and connects directly to your Wi‑Fi network—making setup quick and mobile‑friendly. One of the key features of the Essential XL is its 4× longer battery life compared to previous models, making it suitable for hard‑to‑reach areas or installations where frequent recharging would be inconvenient. The camera includes two‑way audio, enabling you to listen and talk through the camera directly from your smartphone—useful for greeting visitors, checking on pets, or simply communicating remotely. It also supports smart home integration, so you can view live feeds on compatible smart displays or manage it via voice assistants with your existing smart home ecosystem. The camera also offers reliable day‑and‑night monitoring: color night vision and other low‑light enhancements help maintain visibility after sunset, while motion detection triggers alerts to your device whenever activity is detected. With its weather‑resistant housing, it’s built for outdoor use—withstanding rain, heat, and cold. All things considered, the Arlo Essential XL 3rd Gen is a strong option for users who want a wireless, long‑lasting surveillance camera that balances performance and convenience, especially in locations where wiring is impractical.
-  Updated: 2026-10-07T17:48:56Z
+  Updated: 2026-10-22T03:47:32Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_44bbd422-6ec7-40f3-8042-a5f0f97f072b.png?v=1761166514
   Price: $92.50 USD
 - [Arlo VMC3070 Essential Indoor Camera 3rd Gen – 2K & Privacy Shield](https://www.wirelessplace.com/products/arlo-vmc3070-100nas-essential-indoor-security-camera-3rd-gen-2025-white-new): The Arlo VMC3070-100NAS 3rd Gen indoor camera with 2K video, automated privacy shield plug-in power, smart alerts & dual-band Wi-Fi. Always-on indoor security.
-  Updated: 2026-10-07T17:48:56Z
+  Updated: 2026-10-22T03:47:33Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_ec6d0ca4-079e-4341-979e-dc988319efc4.png?v=1761167524
   Price: $59.99 USD
 - [Arlo Pro 3 (FB1001-100NAS) Floodlight Camera White (NEW)](https://www.wirelessplace.com/products/arlo-pro-3-fb1001-100nas-floodlight-camera-white-new): The Arlo Pro 3 Floodlight Camera (FB1001-100NAS) is a cutting-edge wireless security solution designed to provide comprehensive protection for homes and properties. Featuring 2K video resolution with High Dynamic Range (HDR), this camera delivers crystal-clear video with rich detail, ensuring that every movement and face is captured with remarkable clarity. Its wide 160-degree field of view allows for maximum coverage of your surroundings, while the built-in floodlight enhances visibility both day and night. Color night vision ensures that even in low-light conditions, video footage remains vivid and detailed, giving homeowners peace of mind around the clock. This camera is designed for convenience and flexibility, operating wire-free and connecting directly to Wi-Fi without the need for a hub. Homeowners can easily install it in desired locations and control it via the Arlo app on mobile devices. Two-way audio allows for seamless communication through the camera, enabling users to speak to visitors, delivery personnel, or even potential intruders in real time. The system integrates smoothly with smart home assistants, including Amazon Alexa, allowing for voice commands and smart home automation features. The Arlo Pro 3 Floodlight Camera is an ideal choice for those seeking a high-performance, easy-to-install security solution. Its combination of advanced video quality, enhanced night vision, flexible placement options, and smart home integration makes it a versatile tool for both indoor and outdoor security. Whether monitoring entrances, driveways, or backyard areas, this camera provides reliable protection with professional-grade features, ensuring safety and confidence in your home security setup.
-  Updated: 2026-10-07T17:49:02Z
+  Updated: 2026-10-22T03:47:36Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_93ac2292-d5d5-4786-9438-4f17e79a14fe.png?v=1761169407
   Price: $294.99 USD
 - [Arlo Essential 3rd Gen (2025) 2K Security Camera VMC3080 – Wire-Free, White](https://www.wirelessplace.com/products/arlo-essential-security-camera-3rd-gen-2025-vmc3080-100nas-vmc3280-100nas-new): Shop the Arlo Essential 3rd Gen (2025) 2K wire-free security camera. Color night vision, smart detection, dual-band Wi-Fi & up to 4-month battery.
-  Updated: 2026-10-07T17:48:58Z
+  Updated: 2026-10-22T03:47:34Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -769,56 +764,56 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_7f931064-5a27-4c89-94d4-327a3f48c275.png?v=1761313900
     Price: $204.99 USD
 - [Oumilen Wireless Camera Baby Monitor with Remote Viewing (NEW)](https://www.wirelessplace.com/products/oumilen-wireless-camera-baby-monitor-with-remote-viewing-new): The Spy Hidden Camera LED Light WiFi Wireless Camera Baby Monitor is a discreet and multifunctional security device designed to blend seamlessly into home and office environments. Disguised as a standard LED light, it houses a 1080P HD camera capable of capturing clear video footage. This covert design makes it ideal for monitoring areas without drawing attention, offering a practical solution for those seeking unobtrusive surveillance. Equipped with WiFi connectivity, the camera allows for remote viewing via compatible iOS and Android devices. Users can access live feeds and recorded footage from anywhere, providing flexibility and peace of mind. The camera also features motion detection capabilities, sending alerts to your device when movement is detected, ensuring timely awareness of any activity. Additionally, it functions as a video recorder, storing footage for later review, which is essential for security purposes. This device is particularly beneficial for monitoring children, pets, or sensitive areas in both residential and office settings. Its dual functionality as both a light and a camera means it can be placed in common areas without raising suspicion. Whether you're at home or away, this hidden camera offers a reliable and discreet method to enhance your security measures.
-  Updated: 2026-10-07T17:48:58Z
+  Updated: 2026-10-22T03:47:34Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_9f91a72d-7929-420b-bb61-ff20d0e9308b.png?v=1761315863
   Price: $59.99 USD
 - [Merkury Smart Floodlight Camera 1080p | 1800 Lumens & Motion Alerts](https://www.wirelessplace.com/products/merkury-floodlight-camera-mi-cw073-199w-smart-wi-fi-1800-lumens-motion-alerts-white-new): Merkury smart floodlight camera — 1080p HD, 1800 lumens, motion alerts, 100dB siren & two-way audio. No hub needed. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:01Z
+  Updated: 2026-10-22T03:47:33Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_62a43b06-ca7f-4bea-a78a-099658b15b67.png?v=1761316646
   Price: $102.50 USD
 - [Google Nest Camera GA01317-US | Battery | Indoor & Outdoor | 1080p](https://www.wirelessplace.com/products/google-nest-camera-ga01317-us-outdoor-or-indoor-battery-white-new): Shop Google Nest Camera GA01317-US at Wireless Place. 1080p HD, 130° FOV, night vision, 2-way audio, 6x zoom, Google Home & Assistant. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:02Z
+  Updated: 2026-10-22T03:47:35Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_bec6f7a7-9762-41ee-b852-e42781a28140.png?v=1761317817
   Price: $237.50 USD
 - [Night Owl Wi-Fi Security Hub | 2K Cameras, 64GB SD, No Monthly Fees](https://www.wirelessplace.com/products/night-owl-fwr8-64gb-b43l-expandable-wi-fi-security-hub-with-64gb-sd-card-white-new): Night Owl FWR8 Wi-Fi security hub — 3 wire-free 2K cameras, 64GB SD, IP65, two-way audio & siren. Expandable to 8 cameras. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:02Z
+  Updated: 2026-10-22T03:47:35Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_be0b844f-d105-447b-8228-b1646092c6ad.png?v=1761319553
   Price: $309.99 USD
 - [WITHit Deca Smartwatch 1.43" AMOLED | Heart Rate, SpO₂, 120-Hr Battery](https://www.wirelessplace.com/products/withit-deca-smartwatch-42-9000bkbkw-amoled-1-43-black-new): WITHit Deca Smartwatch with 1.43" AMOLED display, heart rate, SpO₂, sleep tracking, 100+ sports modes & up to 120-hr battery, Free 2Day Shipping.
-  Updated: 2026-10-07T17:49:06Z
+  Updated: 2026-10-22T03:47:38Z
   Vendor: Wireless Place
   Product Type: Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_5d75109c-2d04-4688-9797-fc111f2a6a71.png?v=1761664025
   Price: $64.99 USD
 - [Fitbit Versa 4 Fitness Smartwatch | Built-in GPS | Google Assistant](https://www.wirelessplace.com/products/fitbit-versa-4-fitness-smartwatch-new): Shop Fitbit Versa 4 at Wireless Place. Built-in GPS, 24/7 heart rate, 40+ exercise modes, 6-day battery, Google Assistant & Fitbit Pay. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:02Z
+  Updated: 2026-10-22T03:47:36Z
   Vendor: Wireless Place
   Product Type: Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_d02f17c1-8d77-441e-a4de-2c8dba59bf49.png?v=1786467459
   Price: $204.99 USD
 - [Shop Proscan Elite 10.1" Tablet & DVD Player | 32GB | Android 11](https://www.wirelessplace.com/products/proscan-elite-10-1-tablet-with-portable-dvd-combo-32gb-2gb-ram-black-new): Proscan Elite 10.1" tablet with built-in DVD player, 32GB storage, Android 11, quad-core processor & 5000mAh battery. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:06Z
+  Updated: 2026-10-22T03:47:38Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_4c47f183-9ea3-405f-8eca-3346ce358823.png?v=1761774590
   Price: $124.99 USD
 - [Samsung Galaxy Tab S10 FE X520 WiFi | S Pen | 10.9" | IP68](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-fe-10-9-x520-wifi-only-tablet-with-s-pen-us-version-new): Shop Samsung Galaxy Tab S10 FE (X520) at Wireless Place. 10.9" 90Hz, Exynos 1580, S Pen, 8000mAh, 45W, IP68, Wi-Fi 6. 128/256GB. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:10Z
+  Updated: 2026-10-22T03:48:00Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -848,7 +843,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_9b5d43f7-ac77-4bcc-a161-02d0521dd69e.png?v=1761847699
     Price: $674.99 USD
 - [Samsung Galaxy Tab S11 11" SM-X730 Tablet with S Pen | US Version](https://www.wirelessplace.com/products/samsung-galaxy-tab-s11-11-sm-x730-tablet-with-s-pen-us-version-new): Shop the Samsung Galaxy Tab S11 11" (SM-X730) with S Pen. AMOLED 120Hz display, Snapdragon processor, 128GB–512GB storage, DeX mode. Free 2Day shipping.
-  Updated: 2026-10-07T17:49:10Z
+  Updated: 2026-10-22T03:48:01Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -878,7 +873,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_218811d8-a148-413a-884b-de98092cf7b1.png?v=1761848973
     Price: $1,359.99 USD
 - [Samsung Galaxy Tab S10 Lite SM-X400 | 10.9" S Pen | 90Hz | Wi-Fi 6](https://www.wirelessplace.com/products/samsung-galaxy-tab-s10-lite-sm-x400-widescreen-tablet-with-s-pen-us-version-new): Shop Samsung Galaxy Tab S10 Lite (SM-X400) at Wireless Place. 10.9" 90Hz, Exynos 1380, S Pen, 6/8GB RAM, 8000mAh, 25W, Wi-Fi 6. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:13Z
+  Updated: 2026-10-22T03:47:42Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -900,14 +895,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_6c7c0871-ae42-4fb1-be30-16cb8416857e.png?v=1761850330
     Price: $564.99 USD
 - [ASUS ROG Xbox Ally 7" 120Hz Gaming Handheld | 512GB | 16GB RAM](https://www.wirelessplace.com/products/asus-rog-xbox-ally-7-120hz-gaming-handheld-touchscreen-512gb-16gb-ram-white-new): Shop the ASUS ROG Xbox Ally at Wireless Place. 7" 120Hz FHD touchscreen, AMD Ryzen Z2, 16GB LPDDR5, 512GB SSD, Xbox Game Pass ready. White. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:16Z
+  Updated: 2026-10-22T03:47:41Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_27cad750-3aa0-4d38-a5a7-acaf05f3a11a.png?v=1761859654
   Price: $684.99 USD
 - [Samsung Galaxy S25 FE SM-S731U USA Unlocked | 6.7" | Exynos 2400](https://www.wirelessplace.com/products/samsung-galaxy-s25-fe-6-7-sm-s731u-usa-version-unlocked-new): Shop Samsung Galaxy S25 FE (SM-S731U) USA unlocked at Wireless Place. 6.7" 120Hz AMOLED, Exynos 2400, 50MP triple cam, 4900mAh, 45W, IP68. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:16Z
+  Updated: 2026-10-22T03:47:54Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -945,7 +940,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_b8f3e159-b9e9-4021-a98e-c9c29c4bf133.png?v=1761919849
     Price: $787.50 USD
 - [JLab Go Air Pop True Wireless Earbuds – 26H Battery, IP55, Bluetooth](https://www.wirelessplace.com/products/jlab-go-air-pop-bluetooth-earbuds-new): JLab Go Air Pop true wireless earbuds with 26H battery, IP55, Bluetooth 5.0, touch controls & 10 colors. Clear audio starting at $34.50.
-  Updated: 2026-10-07T17:49:14Z
+  Updated: 2026-10-22T03:47:58Z
   Vendor: Wireless Place
   Product Type: Earbuds
   Availability: Available
@@ -971,7 +966,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/6_0573944d-327c-4831-86e6-91565acf6aef.png?v=1761926069
     Price: $37.50 USD
 - [Beats Studio Buds+ True Wireless ANC Earbuds | 28-Hr Battery](https://www.wirelessplace.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-new): Shop Beats Studio Buds+ at Wireless Place. ANC, Transparency mode, Bluetooth 5.3, 28-hr battery, IPX4, fast charge. 4 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:25Z
+  Updated: 2026-10-22T15:08:52Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -979,17 +974,17 @@
   - [Black/Gold](https://www.wirelessplace.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-new?variant=47585859961002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_9645d7cc-1be4-4b98-ac63-7069b4baa711.png?v=1761927505
-    Price: $127.50 USD
+    Price: $179.50 USD
   - [Transparent](https://www.wirelessplace.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-new?variant=47585859993770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_dff776c9-5e77-40a5-aa3f-de40a397678a.png?v=1761927505
-    Price: $127.50 USD
+    Price: $179.50 USD
   - [Ivory](https://www.wirelessplace.com/products/beats-studio-buds-true-wireless-noise-cancelling-earbuds-new?variant=47585860026538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_39c2cba3-eaf7-47da-9dab-61df913291ff.png?v=1761927505
-    Price: $127.50 USD
+    Price: $179.50 USD
 - [Skullcandy Smokin Buds XT True Wireless Earbuds Big Sound Small Price](https://www.wirelessplace.com/products/skullcandy-smokin-buds-xt-true-wireless-in-ear-earbuds-new): Shop Skullcandy Smokin' Buds XT true wireless earbuds. Bluetooth 5.0, 24-hr battery, Fast Charge, IP55, 7 colors. Ships fast from Wireless Place.
-  Updated: 2026-10-07T17:49:15Z
+  Updated: 2026-10-22T03:47:56Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1015,14 +1010,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_b23f1da1-80ec-4a91-9b11-3950272d144b.png?v=1761928383
     Price: $34.99 USD
 - [JBL Tune Beam True Wireless Earbuds – ANC, 48H Battery, Bluetooth 5.3](https://www.wirelessplace.com/products/jbl-tune-beam-true-wireless-noise-cancelling-earbud-new): JBL Tune Beam true wireless earbuds with ANC, 48H battery, Bluetooth 5.3 multipoint, IP54, Pure Bass sound & fast charge. Available in White & Black.
-  Updated: 2026-10-07T17:49:16Z
+  Updated: 2026-10-22T03:48:01Z
   Vendor: Wireless Place
   Product Type: Earbuds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_e340b3cd-7834-4f07-abe5-95a2fad78bdb.png?v=1786463126
   Price: $69.99 USD
 - [Beats Flex All-Day Wireless Earphones | 12-Hr Battery | Apple W1](https://www.wirelessplace.com/products/beats-flex-wireless-earphones-new): Shop Beats Flex Earphones at Wireless Place. Apple W1 chip, 12-hr battery, Fast Fuel, dual-chamber sound. 4 colors available. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:17Z
+  Updated: 2026-10-22T03:47:57Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1044,7 +1039,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_ae595a50-9bcd-439d-a69f-c55ba44b9e93.png?v=1761931032
     Price: $69.99 USD
 - [JBL Live Pro 2 TWS Noise Cancelling Earbuds | Wireless Place](https://www.wirelessplace.com/products/jbl-live-pro-2-tws-true-wireless-noise-cancelling-earbuds-new): JBL Live Pro 2 TWS earbuds, ANC, Bluetooth 5.2, 40hr battery, IPX5, touch controls. Free 2-day shipping. New.
-  Updated: 2026-10-07T17:49:22Z
+  Updated: 2026-10-22T03:47:56Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1066,7 +1061,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_209f4766-b974-47cc-bbdc-660810033e82.png?v=1761931628
     Price: $204.99 USD
 - [Google Pixel Buds Pro — ANC Wireless Earbuds | Wireless Place](https://www.wirelessplace.com/products/google-pixel-buds-pro-wireless-earbuds-with-active-noise-cancellation-new): Google Pixel Buds Pro with Active Noise Cancellation, 11hr battery, wireless charging & multipoint connectivity. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-07T17:49:24Z
+  Updated: 2026-10-22T03:47:57Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1088,21 +1083,21 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_7b697a16-2aaf-421c-959c-6d894f24b8e0.png?v=1761939160
     Price: $239.99 USD
 - [Soundcore by Anker- Liberty 4 SE Earbuds True Wireless ACAA](https://www.wirelessplace.com/products/soundcore-by-anker-liberty-4-se-earbuds-true-wireless-acaa-headphones-black-new): Experience the perfect blend of innovation, comfort, and premium sound with the Soundcore by Anker Liberty 4 SE True Wireless Earbuds. Designed for modern listeners, these earbuds feature Anker’s signature ACAA™ 2.0 coaxial dual-driver technology, delivering rich, detailed sound with deep bass and crisp highs across all genres. Whether you’re working, traveling, or training, the Liberty 4 SE ensures an immersive and balanced audio experience every time you press play. Enjoy next-level realism with 3D Spatial Audio, creating a surround-sound listening environment that brings music, movies, and calls to life. The built-in Heart Rate Sensor provides real-time wellness tracking, giving you insight into your performance during workouts or daily routines—all directly from your ears. Equipped with Active Noise Cancelling (ANC) technology, the Liberty 4 SE reduces unwanted background noise while maintaining natural sound quality, letting you focus on your world. When you need to stay aware, Transparency Mode allows external sounds in, keeping you connected to your surroundings. Crafted for all-day comfort, these earbuds feature a sleek, lightweight design and an IPX4 water-resistance rating, protecting them from sweat and light rain. With up to 10 hours of battery life (and 50 hours total with the charging case), the Liberty 4 SE keeps your music going from morning to night. Fast charging ensures quick top-ups, while the wireless charging case adds convenience to your daily routine. Available in Black, the Soundcore Liberty 4 SE combines cutting-edge features, smart health tracking, and superior audio quality—perfect for those who expect more from their wireless listening experience
-  Updated: 2026-10-07T17:49:26Z
+  Updated: 2026-10-22T03:48:02Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_d576e07f-54dd-4b38-9daa-49636117336a.png?v=1761940655
   Price: $159.99 USD
 - [Philips T5506 True Wireless Earbuds — ANC, 32hr Battery | Wireless Place](https://www.wirelessplace.com/products/philips-t5506-true-wireless-headphones-black-new): Philips T5506 true wireless earbuds with ANC Pro, 32hr battery, Qi wireless charging & IPX4 resistance. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-07T17:49:24Z
+  Updated: 2026-10-22T03:47:57Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_4ece21bc-df77-4d66-a3a2-2947c2677023.png?v=1761941356
   Price: $112.50 USD
 - [Beats Solo Buds True Wireless Earbuds | 18-Hr Battery | Bluetooth 5.3](https://www.wirelessplace.com/products/beats-solo-buds-portable-true-wireless-new): Shop Beats Solo Buds at Wireless Place. Bluetooth 5.3, dual-layer drivers, 18-hr total battery, fast charge, sweat-resistant. 4 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:23Z
+  Updated: 2026-10-22T03:48:03Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1124,7 +1119,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_f73ba94e-f0b7-46e5-b266-860cd1bd913c.png?v=1761943231
     Price: $94.99 USD
 - [Bose QuietComfort Wireless ANC Earbuds | 18-Hr Battery | IPX4](https://www.wirelessplace.com/products/bose-quietcomfort-earbuds-wireless-noise-cancelling-earbuds-new): Shop Bose QuietComfort Earbuds at Wireless Place. ANC, Transparency mode, Bluetooth 5.1, 18-hr battery, fast charge, IPX4. 6 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:27Z
+  Updated: 2026-10-22T03:48:02Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1154,14 +1149,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_338e9afe-e076-48f5-beac-0080e6ab03e4.png?v=1790017199
     Price: $214.99 USD
 - [Skullcandy Push Play XT True Wireless Earbuds | In-Ear Earbuds](https://www.wirelessplace.com/products/skullcandy-push-play-xt-true-wireless-bluetooth-in-ear-earbuds-new): Shop Skullcandy Push Play XT true wireless earbuds. Bluetooth 5.0, 24-hr battery, Fast Charge, IP55, touch controls. Black. Ships fast from Wireless Place.
-  Updated: 2026-10-07T17:49:26Z
+  Updated: 2026-10-22T03:48:03Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_60163447-fe3c-4015-be25-795306f895f3.png?v=1761946216
   Price: $69.99 USD
 - [Bose Ultra Open Ear Wireless Earbuds | OpenAudio | 21-Hr Battery](https://www.wirelessplace.com/products/bose-ultra-open-ear-wireless-earbuds-new): Shop Bose Ultra Open Earbuds at Wireless Place. OpenAudio tech, Bluetooth 5.3, 21-hr battery, IPX4, multipoint, fast charge. 8 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:31Z
+  Updated: 2026-10-22T03:48:02Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1187,21 +1182,21 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_78a8ba59-405f-400d-a942-8e477e310923.png?v=1761947542
     Price: $349.99 USD
 - [Skullcandy Hesh Evo Wireless Over-Ear Headphones](https://www.wirelessplace.com/products/skullcandy-hesh-evo-bluetooth-wireless-over-ear-foldable-headphones-true-black-new): Shop Skullcandy Hesh Evo wireless over-ear headphones. 40mm drivers, 36-hr battery, Rapid Charge, Bluetooth 5.0, Tile tracking, foldable. Free 2Day Shipping.
-  Updated: 2026-10-07T17:49:32Z
+  Updated: 2026-10-22T03:48:03Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_e44bb7db-f0b1-4b2f-80bc-9f64d23dab7d.png?v=1762181043
   Price: $132.50 USD
 - [Logitech G432 Wired Gaming Headset | DTS 7.1 Surround Sound, Black](https://www.wirelessplace.com/products/logitech-g432-wired-gaming-headset-black-new): Logitech G432 wired headset — DTS 7.1 surround, 50mm drivers, flip-to-mute mic, USB & 3.5mm. PC, PS5, Xbox & Switch. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:31Z
+  Updated: 2026-10-22T03:48:05Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_220491f9-5086-4388-897f-a8c324f96c21.png?v=1762183206
   Price: $59.99 USD
 - [Turtle Beach Recon 50 Wired Gaming Headset | PS5 Xbox PC](https://www.wirelessplace.com/products/turtle-beach-recon-50-wired-gaming-headset-new): Shop Turtle Beach Recon 50 wired gaming headset. 40mm drivers, removable boom mic, 3.5mm universal, PS5/Xbox/PC/Mobile, Free 2Day Shipping.
-  Updated: 2026-10-07T17:49:31Z
+  Updated: 2026-10-22T03:48:06Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1215,7 +1210,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_71d52188-4854-4868-b92a-be29c8e9c1ce.png?v=1762188211
     Price: $47.50 USD
 - [HyperX Cloud III Wired Gaming Headset – 53mm Drivers | Wireless Place](https://www.wirelessplace.com/products/hyperx-cloud-iii-wired-gaming-headset-new): HyperX Cloud III wired headset, 53mm drivers, DTS Spatial Audio, memory foam, USB-C/A & 3.5mm. Free 2-day shipping. New.
-  Updated: 2026-10-07T17:49:31Z
+  Updated: 2026-10-22T03:48:06Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1229,42 +1224,42 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_d9f15dc5-e922-4a82-9d66-3c2096999ce8.png?v=1762265849
     Price: $124.99 USD
 - [Logitech G733 LIGHTSPEED Wireless Gaming Headset | RGB](https://www.wirelessplace.com/products/logitech-g733-lightspeed-wireless-pc-gaming-headset-new): Logitech G733 wireless headset — 29hr battery, LIGHTSPEED 2.4GHz, PRO-G drivers, Blue VO!CE mic & RGB. PC, PS5, Switch. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:36Z
+  Updated: 2026-10-22T03:48:06Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_4decdaec-cb26-42a0-8b84-d6a8e0dacc3a.png?v=1762267137
   Price: $149.99 USD
 - [Logitech G PRO X 2nd Gen Gaming Headset Black | Blue VO!CE & DTS 7.1](https://www.wirelessplace.com/products/logitech-g-pro-x-gaming-headset-2nd-generation-black-new): Logitech G PRO X 2nd Gen wired gaming headset with 50mm PRO-G drivers, Blue VO!CE mic & DTS 7.1 surround. Compatible with PC, PS5, Xbox & Switch.
-  Updated: 2026-10-07T17:49:35Z
+  Updated: 2026-10-22T03:48:07Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_1673e4f2-b531-47c0-8eaa-7517cb5fdfc4.png?v=1762268269
   Price: $119.99 USD
 - [Logitech G735 Wireless Gaming Headset — White Mist | RGB](https://www.wirelessplace.com/products/logitech-g735-wireless-gaming-headset-white-mist-new): Logitech G735 White Mist — 56hr battery, LIGHTSPEED + Bluetooth + aux, dual-audio mix, Blue VO!CE mic & RGB. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:36Z
+  Updated: 2026-10-22T03:48:07Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_029d6cc3-eb55-4b6f-911e-83b9c89b548c.png?v=1762273258
   Price: $272.50 USD
 - [SteelSeries Arctis Nova 5P Wireless Gaming Headset | PS5 PC Switch](https://www.wirelessplace.com/products/steelseries-arctis-nova-5p-wireless-gaming-headset-black-new): Shop SteelSeries Arctis Nova 5P Wireless gaming headset. PS5/PS4/PC/Switch, 2.4GHz + BT 5.3, 60-hr battery, ClearCast 2.X mic, 100+ presets. Free 2Day Shipping.
-  Updated: 2026-10-07T17:49:37Z
+  Updated: 2026-10-22T03:48:10Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_aa967a38-57b4-4646-918b-76d264e79c9c.png?v=1762284268
   Price: $182.50 USD
 - [ASTRO Gaming A20 Gen 2 Wireless Headset – White/Green | Xbox & PC](https://www.wirelessplace.com/products/astro-gaming-a20-wireless-headset-gen-2-white-green-new): Shop ASTRO Gaming A20 Gen 2 Wireless Headset at Wireless Place. 40mm drivers, 15+ hr battery, flip-to-mute mic, Xbox & PC ready. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:37Z
+  Updated: 2026-10-22T03:48:13Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_35c43772-cb98-4999-850d-f337228c79cd.png?v=1762286207
   Price: $124.99 USD
 - [Turtle Beach Stealth 500 Wireless Gaming Headset | PS5 & Xbox](https://www.wirelessplace.com/products/turtle-beach-stealth-500-wireless-gaming-headset-licensed-for-xbox-series-x-s-xbox-one-black-new): Shop Turtle Beach Stealth 500 wireless headset. 2.4GHz + BT 5.2, 40-hr battery, 40mm drivers, Superhuman Hearing, flip mic. PS5 & Xbox. Ships fast.
-  Updated: 2026-10-07T17:49:38Z
+  Updated: 2026-10-22T03:48:12Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1278,14 +1273,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_5b69f750-7f46-4aad-9b8d-b3ec5b446c23.png?v=1779985259
     Price: $99.99 USD
 - [Turtle Beach Stealth 700 Gen 3 Wireless Headset | PS4/PS5, Xbox & PC](https://www.wirelessplace.com/products/turtle-beach-stealth-700-headset-gen-3-wireless-gaming-headset-new): Turtle Beach Stealth 700 Gen 3 wireless gaming headset — 50mm speakers, Superhuman Hearing™, 30-hr battery, Bluetooth 5.2. For PS4/PS5, Xbox & PC.
-  Updated: 2026-10-07T17:49:42Z
+  Updated: 2026-10-22T03:48:13Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_329769b4-1ff8-4bbb-8f14-fb5a49a82993.png?v=1762290852
   Price: $239.99 USD
 - [Razer Barracuda X Wireless Headset | PC, PS5, Switch](https://www.wirelessplace.com/products/razer-barracuda-x-wireless-gaming-headset-new): Razer Barracuda X wireless headset — 50hr battery, HyperSpeed 2.4GHz + Bluetooth, 250g, detachable mic. PC, PS5, Switch & mobile. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:41Z
+  Updated: 2026-10-22T03:48:11Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1303,7 +1298,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_ef405a8a-1f1b-42e4-a535-f00c2938d11b.png?v=1762292690
     Price: $127.50 USD
 - [Turtle Beach Stealth 600 Gen 3 Wireless Gaming Headset | PS5 & Xbox](https://www.wirelessplace.com/products/turtle-beach-stealth-600-gen-3-wireless-amplified-gaming-headset-new): Shop Turtle Beach Stealth 600 Gen 3 wireless headset. 80-hr battery, 50mm Nanoclear, AI mic, 2.4GHz + BT 5.2, Superhuman Hearing. PS5 & Xbox. Ships fast.
-  Updated: 2026-10-07T17:49:41Z
+  Updated: 2026-10-22T03:48:21Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1325,14 +1320,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_665e28ab-c3a5-4dd8-bb13-c5dd6b477056.png?v=1762295129
     Price: $114.99 USD
 - [SteelSeries Arctis Nova 5 Wireless Gaming Headset | PC PS5 Switch](https://www.wirelessplace.com/products/steelseries-arctis-nova-5-wireless-gaming-headset-black-new): Shop SteelSeries Arctis Nova 5 Wireless gaming headset. 2.4GHz + BT 5.3, 60-hr battery, fast charge, 100+ presets, retractable mic. Free 2Day Shipping
-  Updated: 2026-10-07T17:49:42Z
+  Updated: 2026-10-22T03:48:16Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_0b02d3de-71f4-48f7-a930-a99d982e0e18.png?v=1762296745
   Price: $159.99 USD
 - [JBL Tune 770NC Wireless Over-Ear Headphones – ANC, 70H Battery](https://www.wirelessplace.com/products/jbl-tune-770nc-wireless-over-ear-adaptive-noise-cancelling-headphones-new): JBL Tune 770NC over-ear headphones with Adaptive ANC, 70H battery, Bluetooth 5.3 multipoint, Pure Bass sound & USB-C. Available in Black, Blue & White.
-  Updated: 2026-10-07T17:49:42Z
+  Updated: 2026-10-22T03:48:17Z
   Vendor: Wireless Place
   Product Type: Headphones
   Availability: Available
@@ -1350,7 +1345,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_f8897b45-880c-4fd6-9a8c-e9f6ff129c9e.png?v=1762353235
     Price: $182.50 USD
 - [Bose QuietComfort Over-Ear ANC Headphones | 24-Hr Battery](https://www.wirelessplace.com/products/bose-quietcomfort-headphones-bluetooth-over-ear-noise-cancelling-headphones-mew): Shop Bose QuietComfort Headphones at Wireless Place. ANC, Aware Mode, 24-hr battery, fast charge, multipoint, Bluetooth 5.1. 9 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:46Z
+  Updated: 2026-10-22T03:48:17Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1380,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/6_611833df-7a49-4ef3-abde-392e75f77859.png?v=1762355015
     Price: $417.50 USD
 - [JBL Tune 520BT Wireless on-ear headphones (NEW)](https://www.wirelessplace.com/products/jbl-tune-520bt-wireless-on-ear-headphones-new): The JBL Tune 520BT Wireless On-Ear Headphones deliver a powerful and dynamic audio experience with JBL’s signature Pure Bass Sound, letting you enjoy deep, rich tones wherever you go. Designed for everyday use, these lightweight and comfortable headphones offer the perfect balance of style, performance, and convenience. Whether you’re commuting, studying, or relaxing, the Tune 520BT ensures a seamless wireless listening experience with clear, high-quality sound. Equipped with the latest Bluetooth 5.3 technology, these headphones provide stable and energy-efficient connectivity, allowing you to enjoy your music or podcasts without interruptions. You can even connect to multiple devices and switch easily between them, ensuring you never miss a call while listening to your favorite tracks. With an impressive up to 57 hours of battery life, the JBL Tune 520BT keeps you powered for days, and a quick five-minute charge delivers up to three additional hours of playtime—perfect for when you’re on the move. Comfort is a top priority with the JBL Tune 520BT. The adjustable headband and soft ear cushions ensure a snug, comfortable fit for long listening sessions. The headphones are lightweight and foldable, making them easy to carry and store. Simple on-ear controls let you manage music, adjust volume, and activate your preferred voice assistant—Google Assistant or Siri—with just a touch. Through the JBL Headphones App, you can personalize your audio experience by adjusting the EQ settings to match your listening preferences. Available in a range of modern colors—Black, Blue, Purple, and White—the JBL Tune 520BT combines stylish design with premium sound quality and lasting comfort. These headphones are built to keep up with your lifestyle, providing exceptional performance wherever life takes you.
-  Updated: 2026-10-07T17:49:46Z
+  Updated: 2026-10-22T03:48:17Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1402,7 +1397,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_279ce9d3-cda7-42f6-a661-b534d76810e6.png?v=1762550583
     Price: $82.50 USD
 - [Sony ULT WEAR Over-Ear Noise Cancelling | Hear All Block the Rest](https://www.wirelessplace.com/products/sony-ult-wear-over-ear-noise-cancelling-bluetooth-headphones-new): Shop Sony ULT WEAR over-ear headphones. ANC, LDAC hi-res audio, Bluetooth 5.2, ULT button, 50-hr battery, foldable. Black & Off White. Ships fast.
-  Updated: 2026-10-07T17:49:46Z
+  Updated: 2026-10-22T03:48:21Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
@@ -1416,14 +1411,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_bc20d5b3-fb7a-4ade-be6f-966263d92202.png?v=1762554103
     Price: $294.99 USD
 - [Onn Wired Indoor Security Camera — 1080p Google Home | Wireless Place](https://www.wirelessplace.com/products/onn-wired-indoor-security-camera-white-new): Onn wired indoor security camera with 1080p HDR, night vision, two-way audio & Google Home integration. Free 2-day shipping at Wireless Place.
-  Updated: 2026-10-07T17:49:48Z
+  Updated: 2026-10-22T03:48:21Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_de6ea0a4-3542-4256-97a5-a8faa83f220f.png?v=1762556438
   Price: $39.99 USD
 - [Xiaomi Redmi Pad 2 Pro WiFi Global – 12.1" 2.5K 120Hz, 12000mAh](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new): Free 2-Day Shipping! Xiaomi Redmi Pad 2 Pro WiFi Global. 12.1" 2.5K 120Hz Dolby Vision, Snapdragon 7s Gen 4, 12000mAh, 33W, quad Dolby Atmos. New.
-  Updated: 2026-10-07T17:49:52Z
+  Updated: 2026-10-22T15:08:51Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1431,50 +1426,50 @@
   - [Graphite Gray / 128GB/6GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656243986602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_36fe54f7-7173-4a1e-ab90-2a57af2174b3.png?v=1767365706
-    Price: $249.50 USD
+    Price: $252.50 USD
   - [Graphite Gray / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656244773034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_36fe54f7-7173-4a1e-ab90-2a57af2174b3.png?v=1767365706
-    Price: $286.50 USD
+    Price: $289.50 USD
   - [Glacier Silver / 128GB/6GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656244019370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_bf9ffb74-2c78-4401-8e48-f50c682916d1.png?v=1767365706
-    Price: $249.50 USD
+    Price: $252.50 USD
   - [Glacier Silver / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656244805802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_bf9ffb74-2c78-4401-8e48-f50c682916d1.png?v=1767365706
-    Price: $286.50 USD
+    Price: $289.50 USD
   - [Lavender Purple / 128GB/6GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656244052138)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_c8c52da9-0d82-4e42-9f70-64f52390f623.png?v=1767365706
-    Price: $249.50 USD
+    Price: $252.50 USD
   - [Lavender Purple / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-pad-pro-2-wifi-only-global-version-new?variant=47656244838570)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_c8c52da9-0d82-4e42-9f70-64f52390f623.png?v=1767365706
-    Price: $286.50 USD
+    Price: $289.50 USD
 - [TCL 32" R84 4K QD-Mini LED Gaming Monitor](https://www.wirelessplace.com/products/tcl-32-r84-series-4k-32r84-2025-gaming-monitor-165hz-refresh-rate-white-new): Shop TCL 32" R84 4K QD-Mini LED gaming monitor. 165Hz, 1ms, DisplayHDR1400, AMD FreeSync, HDMI 2.1, KVM, 1400 dimming zones. White. Free 2Day Shipping.
-  Updated: 2026-10-07T17:49:52Z
+  Updated: 2026-10-22T03:48:22Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_c58f3498-12a5-484a-a126-3edc385e0ba6.png?v=1768928483
   Price: $909.99 USD
 - [Samsung 34" Odyssey G55T Curved Gaming Monitor | 165Hz WQHD FreeSync](https://www.wirelessplace.com/products/samsung-34-odyssey-lc34g55twdnxza-165hz-1msmprt-gaming-monitor-new): Samsung 34" Odyssey G55T — 1000R curve, 3440×1440 WQHD, 165Hz, 1ms MPRT, AMD FreeSync Premium & HDR10. Free 2-day shipping.
-  Updated: 2026-10-07T17:49:51Z
+  Updated: 2026-10-22T03:48:26Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_ea20a0cc-800c-4f6d-b280-a70e4f75ffff.png?v=1768930456
   Price: $327.50 USD
 - [LG 32" UltraGear Curved QHD Gaming Monitor – 180Hz, 1ms, AMD FreeSync](https://www.wirelessplace.com/products/lg-32-ultragear-32g60wa-b-ausq-gaming-monitor-180hz-1ms-black-new-2): LG UltraGear 32" curved QHD gaming monitor with 180Hz, 1ms, AMD FreeSync, HDR10, 99% sRGB & VA panel. Model 32G60WA-B.AUSQ. Black.
-  Updated: 2026-10-07T17:49:52Z
+  Updated: 2026-10-22T03:48:26Z
   Vendor: Wireless Place
   Product Type: Monitor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_08a3b216-bb1b-42c9-9f5d-70be42f0aea7.png?v=1769010349
   Price: $254.99 USD
 - [Samsung Galaxy Tab A11+ SM-X230 – 11" 90Hz, Android 16, 7040mAh (New)](https://www.wirelessplace.com/products/samsung-galaxy-tab-a11-11-sm-x230-widescreen-tablet-android-16-new): Samsung Galaxy Tab A11+ SM-X230. 11" WUXGA 90Hz, Android 16, quad Dolby Atmos, 7040mAh, 25W charging, 128/256GB, up to 2TB. New. Free 2-Day Shipping!
-  Updated: 2026-10-07T17:49:52Z
+  Updated: 2026-10-22T03:48:27Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1496,7 +1491,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_ae2bbfc3-9ee0-4b1d-a86b-5fbeface6c17.png?v=1769036514
     Price: $362.50 USD
 - [Garmin Forerunner® 165 Running Smartwatch (New)](https://www.wirelessplace.com/products/garmin-forerunner-165-running-smartwatch-new): The Garmin Forerunner 165 is a lightweight, user-friendly running smartwatch designed to support runners of all levels with advanced training tools and smart health insights. At its core is a bright, colorful AMOLED touchscreen display that makes stats easy to read at a glance, whether you’re checking pace mid-run or reviewing your daily progress. Its 43 mm size strikes a balance between a large, readable screen and comfortable all-day wear, while traditional button controls complement the touchscreen for reliable navigation during workouts. Built-in GPS enables accurate tracking of pace, distance, and route without needing to bring your phone, and the Forerunner 165 goes beyond basic metrics with comprehensive training features. Personalized daily suggested workouts adapt based on your performance and recovery status, helping you train smarter over time. The watch also offers adaptive plans for race training and a “morning report” that summarizes your sleep, recovery, and readiness for the day, giving you actionable insights to guide your training schedule. Health tracking on the Forerunner 165 is robust, with continuous wrist-based heart rate monitoring, pulse oximetry (blood oxygen), stress and sleep analysis, and Body Battery™ energy monitoring to help you understand your body’s condition throughout the day and night. These features make it easy to see how your workouts, rest, and everyday activities affect your overall health and recovery. Despite all these capabilities, the Forerunner 165 maintains excellent battery life, lasting up to about 11 days in smartwatch mode and up to around 19 hours in GPS mode on a single charge, which keeps you going through long training cycles without frequent recharging. The watch also supports smart features like smartphone notifications and compatibility with the Garmin Connect™ app so you can sync data, customize metrics, and plan workouts easily.
-  Updated: 2026-10-07T17:49:56Z
+  Updated: 2026-10-22T03:48:26Z
   Vendor: Wireless Place
   Product Type: Watch
   Availability: Available
@@ -1510,14 +1505,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/3_b5b513b6-3085-4f6c-b9fe-f92556d0fa57.png?v=1769109541
     Price: $262.50 USD
 - [Amazfit T-Rex 3 Military Smartwatch 48mm Black | GPS & 27-Day Battery](https://www.wirelessplace.com/products/amazfit-t-rex-3-military-smart-watch-48mm-black-new): Amazfit T-Rex 3 rugged military smartwatch with dual-band GPS, offline maps, 170+ sports modes, 10 ATM water resistance & up to 27-day battery life.
-  Updated: 2026-10-07T17:49:56Z
+  Updated: 2026-10-22T03:48:31Z
   Vendor: Wireless Place
   Product Type: Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_24c98ac9-2c06-460a-aa7b-bc4b79255142.png?v=1769118520
   Price: $317.50 USD
 - [Fitbit Sense 2 Advanced Health & Fitness Smartwatch | Built-in GPS](https://www.wirelessplace.com/products/fitbit-sense-2-advanced-health-and-fitness-smartwatch-new): Shop Fitbit Sense 2 at Wireless Place. ECG, SpO2, EDA stress sensor, built-in GPS, 6+ day battery, Fitbit Pay, sleep tracking. 3 colors. Free 2-day shipping!
-  Updated: 2026-10-07T17:49:56Z
+  Updated: 2026-10-22T03:48:32Z
   Vendor: Wireless Place
   Product Type: Watch
   Availability: Available
@@ -1535,7 +1530,7 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/9022a705161ff42b7879d88f1fd6d0e8_a6aac687-3904-4fd2-b8af-6a160347af3d.png?v=1769183489
     Price: $239.99 USD
 - [Samsung Galaxy S11 Ultra (X930) WiFi Only International Version](https://www.wirelessplace.com/products/samsung-galaxy-s11-ultra-x930-wifi-only-international-version-new): Experience flagship performance on an expansive display with the Samsung Galaxy Tab S11 Ultra (SM-X930) WiFi Only International Version. Designed for work, creativity, entertainment, and everyday productivity, this premium Android tablet combines Samsung's largest tablet display with powerful hardware, advanced software, and a sleek, durable design. Whether you're multitasking between apps, streaming high-resolution content, taking notes, or creating digital artwork, the Galaxy Tab S11 Ultra delivers a smooth and responsive experience. The Galaxy Tab S11 Ultra features a stunning 14.6-inch Dynamic AMOLED 2X display with a sharp 2960 × 1848 resolution and an adaptive 120Hz refresh rate for fluid scrolling, gaming, and navigation. Rich colors, deep contrast, HDR support, and exceptional brightness provide an immersive viewing experience whether you're watching movies, editing photos, reading documents, or browsing the web. The ultra-slim bezels maximize screen space while maintaining a modern and elegant appearance. Powered by the MediaTek Dimensity 9400+ octa-core processor and paired with 12GB of RAM, the Galaxy Tab S11 Ultra is built to handle demanding applications, multitasking, and entertainment with ease. The 256GB of internal storage provides ample room for apps, documents, photos, and videos, while support for microSD cards up to 2TB allows you to expand your storage whenever you need additional space. Designed for productivity and creativity, the Galaxy Tab S11 Ultra supports Samsung DeX, allowing you to enjoy a desktop-like interface when working with compatible accessories. The included Samsung S Pen offers precise input for handwriting, note-taking, drawing, editing, and navigating the tablet with exceptional accuracy. Running Android 16 with Samsung One UI 8, the tablet also includes Galaxy AI features that help simplify everyday tasks and improve productivity. Capture everyday moments with the dual rear camera system featuring a 13MP wide camera and an 8MP ultra-wide camera capable of recording UHD 4K video. The 12MP ultra-wide front camera delivers high-quality video for virtual meetings, online classes, and video calls while supporting UHD 4K recording. Entertainment is enhanced by a quad-speaker system professionally tuned by AKG with Dolby Atmos support, delivering rich, immersive sound for movies, music, and games. Fast WiFi 7 connectivity provides reliable wireless performance for streaming, downloading, cloud services, and online collaboration, while Bluetooth 5.4 makes it easy to connect compatible accessories. Built with a premium Armor Aluminum frame and rated IP68 for water and dust resistance, the Galaxy Tab S11 Ultra is engineered for durability without sacrificing its slim profile. The large 11,600mAh battery provides all-day power for work and entertainment, and 45W Super Fast Charging support helps minimize downtime when it's time to recharge.
-  Updated: 2026-10-07T17:49:57Z
+  Updated: 2026-10-22T17:09:20Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1543,13 +1538,13 @@
   - [Gray / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s11-ultra-x930-wifi-only-international-version-new?variant=47982998814890)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzaaxar-548666703.jpg?v=1770221239
-    Price: $1,064.50 USD
+    Price: $1,069.50 USD
   - [Glacier Silver / 256GB/12GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-s11-ultra-x930-wifi-only-international-version-new?variant=47982998847658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzsaxar-548666739.jpg?v=1770221239
-    Price: $1,064.50 USD
+    Price: $1,069.50 USD
 - [Xiaomi Poco M8 Pro 5G GSM Unlocked – 6500mAh, 100W, 1.5K AMOLED (New)](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new): Free 2-Day Shipping! Xiaomi Poco M8 Pro 5G GSM Unlocked. 6.83" 1.5K AMOLED 120Hz, Snapdragon 7s Gen 4, 50MP OIS, 6500mAh, 100W charging. New.
-  Updated: 2026-10-07T17:50:02Z
+  Updated: 2026-10-22T03:48:31Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -1557,7 +1552,7 @@
   - [Black / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986720538794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_c4b6115c-7c54-4eab-a10a-a42f232c948f.png?v=1775657042
-    Price: $334.50 USD
+    Price: $336.50 USD
   - [Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986721063082)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_c4b6115c-7c54-4eab-a10a-a42f232c948f.png?v=1775657042
@@ -1565,7 +1560,7 @@
   - [Glacier Silver / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986720571562)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_900ba47f-1df8-412d-b2f2-bc4870e2d61b.png?v=1775657041
-    Price: $334.50 USD
+    Price: $336.50 USD
   - [Glacier Silver / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986721095850)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_900ba47f-1df8-412d-b2f2-bc4870e2d61b.png?v=1775657041
@@ -1573,13 +1568,13 @@
   - [Green / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986720604330)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_40f071e2-1e12-471e-b47e-bd8360e41388.png?v=1775657042
-    Price: $334.50 USD
+    Price: $336.50 USD
   - [Green / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-poco-m8-pro-5g-gsm-unlocked-international-version-new?variant=47986721128618)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_40f071e2-1e12-471e-b47e-bd8360e41388.png?v=1775657042
     Price: $334.50 USD
 - [Samsung Galaxy Tab A11+ X230 WiFi | 11" 90Hz | 6GB RAM | Android 16](https://www.wirelessplace.com/products/samsung-galaxy-a11-x230-wifi-only-international-version-new): Shop Samsung Galaxy Tab A11+ (X230) at Wireless Place. 11" 90Hz display, MediaTek octa-core, 6GB RAM, 128/256GB, 7040mAh, 25W charge. Free 2-day shipping!
-  Updated: 2026-10-07T17:50:01Z
+  Updated: 2026-10-22T03:48:36Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1601,19 +1596,19 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/1_7e69349a-1b83-4be2-afc8-e8e550b11f04.png?v=1775599195
     Price: $259.50 USD
 - [Xiaomi Redmi Note 15 Pro 5G GSM Unlocked – 200MP, IP68/IP69K, 6580mAh](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new): Free 2-Day Shipping! Xiaomi Redmi Note 15 Pro 5G GSM Unlocked. 200MP OIS, 6.83" AMOLED 120Hz 3200 nits, Dimensity 7400 Ultra, IP68/IP69K, 6580mAh. New.
-  Updated: 2026-10-09T17:52:56Z
+  Updated: 2026-10-22T03:48:37Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/12_1c080796-ac4f-48a0-8326-529c77549a49.png?v=1775570956
   - [Black / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=48028500164778)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/11_1ed4ae1f-1144-4b8f-a6a1-3c98e2aa4f6d.png?v=1775570956
     Price: $316.50 USD
   - [Black / 512GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=48224488554666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/11_1ed4ae1f-1144-4b8f-a6a1-3c98e2aa4f6d.png?v=1775570956
-    Price: $344.50 USD
+    Price: $347.50 USD
   - [Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=47996775399594)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/11_1ed4ae1f-1144-4b8f-a6a1-3c98e2aa4f6d.png?v=1775570956
@@ -1625,7 +1620,7 @@
   - [Glacier Blue / 512GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=48224488587434)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_1b66a9c0-befe-4495-92bf-e2ca8028f38c.png?v=1775570956
-    Price: $344.50 USD
+    Price: $347.50 USD
   - [Glacier Blue / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=47996775432362)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_1b66a9c0-befe-4495-92bf-e2ca8028f38c.png?v=1775570956
@@ -1637,7 +1632,7 @@
   - [Titanium Color / 512GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=48224488620202)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_66abb58c-71e0-46d7-b94a-029014d01035.png?v=1775570956
-    Price: $344.50 USD
+    Price: $347.50 USD
   - [Titanium Color / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=47996775465130)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_66abb58c-71e0-46d7-b94a-029014d01035.png?v=1775570956
@@ -1649,13 +1644,13 @@
   - [Mist Purple / 512GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=48224488652970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_23c912d3-ec36-4757-a6b6-2b9d1ee2460f.png?v=1775570956
-    Price: $344.50 USD
+    Price: $347.50 USD
   - [Mist Purple / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new?variant=47996775497898)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_23c912d3-ec36-4757-a6b6-2b9d1ee2460f.png?v=1775570956
     Price: $369.50 USD
 - [Xiaomi Redmi Note 15 Pro+ 5G GSM Unlocked – 200MP, 32MP, 120W (New)](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1): Free 2-Day Shipping! Xiaomi Redmi Note 15 Pro+ 5G GSM Unlocked. 200MP OIS, 32MP front, 6.83" 1.5K AMOLED 120Hz, Snapdragon 5G, 120W charging. New.
-  Updated: 2026-10-10T14:02:16Z
+  Updated: 2026-10-22T20:33:48Z
   Vendor: Wireless Place
   Product Type: Cell Phone
   Availability: Available
@@ -1663,29 +1658,29 @@
   - [Black / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=48075497963690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_39306298-1a02-4c1d-99f0-0041f84f3da0.png?v=1775247116
-    Price: $349.50 USD
+    Price: $352.50 USD
   - [Black / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=47996807577770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/8_39306298-1a02-4c1d-99f0-0041f84f3da0.png?v=1775247116
-    Price: $416.50 USD
+    Price: $419.50 USD
   - [Glacier Blue / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=48075497996458)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_9101c822-5efc-4c34-98e6-66377f61c987.png?v=1775247116
-    Price: $349.50 USD
+    Price: $352.50 USD
   - [Glacier Blue / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=47996807545002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/5_9101c822-5efc-4c34-98e6-66377f61c987.png?v=1775247116
-    Price: $416.50 USD
+    Price: $419.50 USD
   - [Mocha Brown / 256GB/8GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=48075498029226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_cf4bbdce-dc23-4c58-944b-211b01bf7f7e.png?v=1775247116
-    Price: $349.50 USD
+    Price: $352.50 USD
   - [Mocha Brown / 512GB/12GB RAM](https://www.wirelessplace.com/products/xiaomi-redmi-note-15-pro-5g-gsm-unlocked-international-version-new-1?variant=47996807610538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_cf4bbdce-dc23-4c58-944b-211b01bf7f7e.png?v=1775247116
-    Price: $416.50 USD
+    Price: $419.50 USD
 - [Samsung Galaxy Tab A11 (X135) GSM Unlocked International Version (New)](https://www.wirelessplace.com/products/samsung-tab-a11-x135-gsm-unlocked-international-version-new): The Samsung Galaxy Tab A11 (X135) is a versatile and affordable tablet designed for everyday use, combining portability with essential features. As a GSM unlocked international version, it supports cellular connectivity, allowing you to stay connected on the go with mobile data in addition to WiFi. This makes it a great option for users who want flexibility for browsing, streaming, and communication without relying solely on wireless networks. Available in Gray and Silver, the tablet offers a clean and modern look suitable for both casual and professional use. Featuring an 8.7-inch display, the Galaxy Tab A11 delivers a comfortable viewing experience for watching videos, reading, and browsing the web. Its compact size and lightweight design make it easy to carry and hold for extended periods, whether you're at home, commuting, or traveling. The display provides clear visuals and smooth performance for everyday entertainment and basic tasks. Powered by an efficient octa-core processor and 4GB of RAM, the tablet handles daily activities such as social media, web browsing, and light multitasking with ease. With 64GB of internal storage, there is enough space for apps, photos, and files, and the option to expand storage via microSD adds extra flexibility for users who need more room. The Galaxy Tab A11 (X135) is also equipped with a reliable battery that supports extended use throughout the day, along with dual connectivity options including WiFi and cellular networks. Whether you need a simple device for entertainment, staying connected, or light productivity, this tablet offers a balanced combination of performance, portability, and value.
-  Updated: 2026-10-07T17:50:06Z
+  Updated: 2026-10-22T17:06:27Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1707,14 +1702,14 @@
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_71f98734-2370-45f5-9a73-764770578aab.png?v=1775245974
     Price: $204.50 USD
 - [Lenovo Legion Go S 8" Handheld Touchscreen Gaming 1TB/32GB RAM - Glacier White (New)](https://www.wirelessplace.com/products/lenovo-legion-go-s-8-handheld-touchscreen-gaming-1tb-32gb-ram-glacier-white-new): The Lenovo Legion Go S Handheld Touchscreen Gaming PC in Glacier White is a powerful portable gaming device that brings the full PC gaming experience into a compact, handheld form factor. Designed for gamers who want to play AAA titles and modern PC games on the go, this unit runs Windows 11 Home and is built around high-end AMD hardware that balances performance and power efficiency. Its sleek white chassis and ergonomic controls make it comfortable to hold during extended gaming sessions, while the built-in software ecosystem simplifies access to your game library. At the heart of the Legion Go S is a combination of AMD Ryzen Z1 Extreme and Z2 Go processors, delivering multi-core performance capable of handling demanding titles and multitasking scenarios. The integrated AMD RDNA 2 graphics provide console-class visuals and smooth frame delivery for many popular games, while responsive hall effect RGB joysticks and a large Pivot D-Pad give you precise control for both action and strategy games. The gaming experience is anchored by an 8-inch Lenovo PureSight touchscreen display that features a 120 Hz refresh rate, 16:10 aspect ratio, and 10-point touch support, creating crisp visuals with vibrant color accuracy and fluid motion — ideal for fast-paced gameplay and immersive worlds. With 500 nits of brightness and 100 % sRGB color coverage, the display produces rich image quality whether you’re exploring dark dungeons or bright open landscapes. Built-in Wi-Fi and Bluetooth connectivity let you stay connected online and pair compatible accessories, and the compact form factor means you can take powerful PC gaming wherever you go. Legion Space software integrates your games from Xbox Game Pass, Steam, and others in one place so you can switch between platforms with ease. Whether docked or in handheld mode, the Legion Go S aims to deliver a flexible and portable gaming experience for enthusiasts and casual players alike.
-  Updated: 2026-10-07T17:50:06Z
+  Updated: 2026-10-22T03:48:41Z
   Vendor: Wireless Place
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_9e8542b5-44c1-41d9-b410-0c51b9049c1a.png?v=1771450955
   Price: $1,804.99 USD
 - [Samsung Galaxy Tab A11 (X133) WiFi Only International Version (New)](https://www.wirelessplace.com/products/samsung-galaxy-tab-a11-x135-wifi-only-international-version-new): The Samsung Galaxy Tab A11 (X133) is a compact and practical tablet designed for everyday entertainment, browsing, and light productivity. As a WiFi-only international version, it offers reliable wireless connectivity without cellular features, making it ideal for use at home, school, or on the go with available WiFi networks. With its clean and modern design, the tablet is available in stylish Gray and Silver finishes that blend well with both personal and professional environments. Featuring an 8.7-inch display, the Galaxy Tab A11 delivers a comfortable viewing experience for streaming videos, reading, and casual gaming. The screen supports smooth visuals with a 90Hz refresh rate, helping content feel more fluid and responsive. Its compact size and lightweight build make it easy to hold for extended use, whether you're watching shows, browsing the web, or using apps throughout the day. Powered by an efficient octa-core processor and paired with 4GB of RAM, the tablet handles everyday tasks like web browsing, social media, and media playback with ease. The 64GB of internal storage provides space for apps, photos, and files, while support for expandable storage via microSD allows you to add even more space when needed. This makes it a flexible option for users who want a simple and dependable device. The Galaxy Tab A11 is also equipped with a long-lasting 5100 mAh battery, allowing for extended usage throughout the day without frequent charging. Additional features such as stereo speakers with Dolby Atmos support enhance the media experience, while the tablet’s straightforward Android interface ensures easy navigation. Overall, the Samsung Galaxy Tab A11 (X133) is a well-balanced tablet that offers essential features, portability, and value for everyday use.
-  Updated: 2026-10-07T17:50:24Z
+  Updated: 2026-10-22T21:13:32Z
   Vendor: Wireless Place
   Product Type: Tablet
   Availability: Available
@@ -1722,17 +1717,17 @@
   - [Gray / 64GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-tab-a11-x135-wifi-only-international-version-new?variant=48053417574570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/4_35d1d55e-9e8c-4938-898a-b925a0d872eb.png?v=1775244858
-    Price: $141.50 USD
+    Price: $139.50 USD
   - [Glacier Silver / 64GB/4GB RAM](https://www.wirelessplace.com/products/samsung-galaxy-tab-a11-x135-wifi-only-international-version-new?variant=48053417607338)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1126/0898/files/2_d89b9def-dddb-4c88-a9b8-f30d58bced72.png?v=1775244858
-    Price: $141.50 USD
+    Price: $139.50 USD
 [List Continued](https://www.wirelessplace.com/a/llms-agent/llms.txt?shop=wirelessplace.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Mzg1MDkzNjMyMTcwLCJsYXN0X3ZhbHVlIjoiODM4NTA5MzYzMjE3MCJ9)
 
 ## Collections
 
-- [Samsung](https://www.wirelessplace.com/collections/samsung-phones): Shop unlocked Samsung Galaxy S, A & Z Series phones, tablets & accessories at Wireless Place. All carriers, no contracts. Free 2-day shipping.
-  Updated: 2026-10-11T20:18:45Z
+- [Unlocked Samsung Galaxy Devices](https://www.wirelessplace.com/collections/samsung-phones): Shop unlocked Samsung Galaxy phones, tablets, watches and earbuds. Brand-new, carrier-free devices with free 2-day US shipping and easy returns.
+  Updated: 2026-10-22T21:12:30Z
   Total Products: 363
 - [Unlocked OnePlus Smartphones](https://www.wirelessplace.com/collections/unlocked-oneplus-smartphones): Looking For A New Cell Phone? Explore Wireless Place's Selection and Buy OnePlus Unlocked Cell Phones or More Unlocked Phones! Visit Wireless Place Today!
   Updated: 2026-07-08T21:22:42Z
@@ -1741,31 +1736,31 @@
   Updated: 2026-07-08T21:22:42Z
   Total Products: 9
 - [Unlocked Android Tablets](https://www.wirelessplace.com/collections/tablets): Shop unlocked Android tablets from Samsung, Huawei, Xiaomi & more. Wi-Fi & SIM-ready options for every need and budget. In stock at Wireless Place.
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 59
+  Updated: 2026-10-22T21:13:06Z
+  Total Products: 58
 - [Unlocked Refurbished Smartphones](https://www.wirelessplace.com/collections/unlocked-refurbished-phones): If you’re looking for cheap mobile phones then Unlocked Refurbished Mobile Phones is the best option. Shop Oneplus, Samsung, Xiaomi, Huawei Refurbished Phones today!
   Updated: 2026-08-11T19:58:13Z
   Total Products: 26
 - [Unlocked Devices](https://www.wirelessplace.com/collections/unlocked-other-devices): At WirelessPlace you will find the latest smartphones at good prices, whether you are looking for new or refurbished ones. Discover brands such as Honor, Google Pixel, Motorola & ZTE, Realme, and more.
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 301
+  Updated: 2026-10-22T11:04:33Z
+  Total Products: 304
 - [Unlocked Apple Smartphones](https://www.wirelessplace.com/collections/unlocked-apple): At WirelessPlace you can find some of the best deals for unlocked new or refurbished Apple products such as smartphones, iPads, AirPods, MacBook’s & more. Our Apple smartphones are compatible with T-Mobile & Verizon.
   Updated: 2026-08-11T19:58:21Z
   Total Products: 11
 - [Smartphone & Device Accessories](https://www.wirelessplace.com/collections/accessories): Shop premium smartphone & device accessories at Wireless Place. Chargers, memory cards, cases & more — quality gear at great prices. Free shipping available.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T18:12:04Z
   Total Products: 357
 - [Unlocked Google Smartphones](https://www.wirelessplace.com/collections/unlocked-google-devices): Shop unlocked Google Pixel phones, new & refurbished. Compatible with T-Mobile, Verizon & more. Great prices, no contracts at Wireless Place.
-  Updated: 2026-10-01T18:08:39Z
+  Updated: 2026-10-20T18:08:21Z
   Total Products: 44
-- [Unlocked Motorola Smartphones](https://www.wirelessplace.com/collections/unlocked-motorola-smartphones): Shop unlocked Motorola phones including Moto G, Edge & Razr series. No contracts, carrier-free, great prices. New & refurbished at Wireless Place.
-  Updated: 2026-10-10T11:02:08Z
-  Total Products: 91
+- [Unlocked Motorola Phones](https://www.wirelessplace.com/collections/unlocked-motorola-smartphones): Shop unlocked Motorola phones, from budget Moto G models to Edge and Razr flagships. USA and international versions, free 2-day US shipping.
+  Updated: 2026-10-22T08:30:15Z
+  Total Products: 93
 - [Samsung Tablets](https://www.wirelessplace.com/collections/samsung-tablets): Shop unlocked Samsung Android tablets — perfect for browsing, work, school & more. Find the right Galaxy Tab for you today!
-  Updated: 2026-10-10T08:16:03Z
+  Updated: 2026-10-22T21:12:30Z
   Total Products: 48
 - [Samsung Accessories](https://www.wirelessplace.com/collections/samsung-accessories): Shop Samsung accessories including smartwatches, earbuds & more. Build your perfect Samsung ecosystem with our curated selection.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T11:04:33Z
   Total Products: 40
 - [Apple Accessories](https://www.wirelessplace.com/collections/apple-accessories): Shop premium Apple accessories at Wireless Place — chargers, cases, AirPods add-ons & more. Compatible with iPhone, iPad & Apple Watch. Great prices.
   Updated: 2026-08-11T19:58:19Z
@@ -1777,16 +1772,16 @@
   Updated: 2026-07-20T15:58:18Z
   Total Products: 5
 - [New Arrivals](https://www.wirelessplace.com/collections/new-arrivals)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 215
+  Updated: 2026-10-22T18:12:54Z
+  Total Products: 228
 - [Unlocked Smartphones](https://www.wirelessplace.com/collections/unlocked-smartphones)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 216
-- [Samsung Smartphones](https://www.wirelessplace.com/collections/samsung-smartphones): Shop unlocked Samsung Galaxy smartphones at Wireless Place. Latest models to budget-friendly picks. All carriers, no contracts. Free 2-day shipping!
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 85
+  Updated: 2026-10-22T18:12:55Z
+  Total Products: 228
+- [Unlocked Samsung Galaxy Phones](https://www.wirelessplace.com/collections/samsung-smartphones): Shop unlocked Samsung Galaxy phones, from budget A series to S and Z flagships. USA and international models, free 2-day US shipping, easy returns.
+  Updated: 2026-10-22T15:20:39Z
+  Total Products: 88
 - [Unlocked Xiaomi Phones and Tablets for the USA](https://www.wirelessplace.com/collections/xiaomi): Shop unlocked Xiaomi phones & tablets - Redmi, POCO & the latest 5G flagships. Works on AT&T, T-Mobile & Verizon. No bloatware, free 2-day US shipping.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T14:54:22Z
   Total Products: 56
 - [Shop OnePlus](https://www.wirelessplace.com/collections/oneplus-smartphones): Shop OnePlus unlocked smartphones at Wireless Place. Fast, powerful & stylish phones for every budget. Free shipping available.
   Updated: 2026-07-20T14:22:15Z
@@ -1795,17 +1790,17 @@
   Updated: 2026-07-08T21:22:44Z
   Total Products: 7
 - [](https://www.wirelessplace.com/collections/)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 376
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 413
 - [Smartphones and Tablets](https://www.wirelessplace.com/collections/smartphones-and-tablets)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2893
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 2909
 - [Hot Picks](https://www.wirelessplace.com/collections/smartphones-hot-picks): Shop Wireless Place's best- unlocked phones & accessories. Samsung, Xiaomi, OnePlus & more. All carriers, no contracts. In stock & ships fast.
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 186
+  Updated: 2026-10-22T15:20:39Z
+  Total Products: 193
 - [All Products](https://www.wirelessplace.com/collections/all-products)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2429
+  Updated: 2026-10-22T21:13:06Z
+  Total Products: 2452
 - [Samsung Galaxy Z Fold5 & Z Flip5](https://www.wirelessplace.com/collections/samsung-galaxy-z-fold5-z-flip5)
   Updated: 2026-07-08T21:22:45Z
   Total Products: 4
@@ -1813,64 +1808,64 @@
   Updated: 2025-11-17T06:39:00Z
   Total Products: 0
 - [All Products](https://www.wirelessplace.com/collections/all-products-1)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 3043
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 3058
 - [Xiaomi Smartphones](https://www.wirelessplace.com/collections/xiaomi-smartphones): Shop unlocked Xiaomi smartphones at Wireless Place. Xiaomi 14, Redmi & POCO Series with 5G. All carriers, no contracts. Free 2-day shipping.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T14:54:22Z
   Total Products: 105
 - [Xiaomi Tablets](https://www.wirelessplace.com/collections/xiaomi-tablets): Shop Xiaomi tablets at Wireless Place. From budget to flagship — Xiaomi Pad 5, 6, 7, 8 & more. Free shipping available.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-21T17:32:58Z
   Total Products: 15
 - [Xiaomi Accessories](https://www.wirelessplace.com/collections/xiaomi-accessories): Shop Xiaomi accessories at Wireless Place — fast chargers, earbuds, Mi Band, cases & more. Compatible with all Xiaomi devices. Free 2-day shipping.
   Updated: 2026-07-09T14:52:15Z
   Total Products: 4
 - [Consumer Electronics](https://www.wirelessplace.com/collections/consumer-electronics)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 924
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 934
 - [Phone & Telecommunications](https://www.wirelessplace.com/collections/phone-telecommunications)
-  Updated: 2026-10-11T20:18:45Z
+  Updated: 2026-10-22T18:12:08Z
   Total Products: 213
 - [Under $300](https://www.wirelessplace.com/collections/under-300)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 910
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 913
 - [$300-$700](https://www.wirelessplace.com/collections/300-700)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 358
+  Updated: 2026-10-22T15:20:39Z
+  Total Products: 365
 - [Over $700](https://www.wirelessplace.com/collections/over-700)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 217
+  Updated: 2026-10-22T15:20:26Z
+  Total Products: 221
 - [Samsung Devices](https://www.wirelessplace.com/collections/samsung-devices)
-  Updated: 2026-10-11T20:18:45Z
+  Updated: 2026-10-22T21:12:30Z
   Total Products: 334
 - [Xiaomi Devices](https://www.wirelessplace.com/collections/xiaomi-devices)
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T14:54:22Z
   Total Products: 56
 - [All](https://www.wirelessplace.com/collections/all)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2422
+  Updated: 2026-10-22T21:13:06Z
+  Total Products: 2445
 - [Samsung S24 Series](https://www.wirelessplace.com/collections/samsung-s24-series)
-  Updated: 2026-10-10T08:16:03Z
+  Updated: 2026-10-20T12:00:37Z
   Total Products: 16
 - [$10 off 2+ items collection](https://www.wirelessplace.com/collections/1--eligible)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 730
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 735
 - [1%  collection](https://www.wirelessplace.com/collections/1--collection)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2429
+  Updated: 2026-10-22T21:13:06Z
+  Total Products: 2452
 - [Samsung A Series](https://www.wirelessplace.com/collections/samsung-a-series)
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T15:09:33Z
   Total Products: 49
 - [New Arrivals](https://www.wirelessplace.com/collections/new-arrivals-samsung)
-  Updated: 2026-10-10T08:16:03Z
+  Updated: 2026-10-20T08:03:37Z
   Total Products: 44
 - [Unlocked Xiaomi Phones for the USA](https://www.wirelessplace.com/collections/xiaomi-phone): Buy the latest unlocked Xiaomi phones - from budget-friendly Redmi and POCO models to Xiaomi’s 5G flagships - ready to use on any US GSM carrier. Xiaomi doesn’t  through US carriers, so this is one of the easiest ways to get the newest models in the States: brand-new, fully unlocked, and shipped fast. Every phone is carrier-free with zero bloatware, backed by free 2-day shipping, a 30-day return window, and US-based support. Not ready to buy new? Trade in your old phone through our Buyback Program and put the credit toward your next Xiaomi.
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T14:54:22Z
   Total Products: 45
 - [Samsung Galaxy A35 & A55](https://www.wirelessplace.com/collections/samsung-galaxy-a35-a55)
-  Updated: 2026-10-10T08:16:03Z
+  Updated: 2026-10-20T12:00:37Z
   Total Products: 6
 - [Samsung Tab A9 & A9 Plus](https://www.wirelessplace.com/collections/samsung-tab-a9-a9-plus)
-  Updated: 2026-10-10T08:16:03Z
+  Updated: 2026-10-20T12:00:37Z
   Total Products: 6
 - [Google Accessories](https://www.wirelessplace.com/collections/google-accessories)
   Updated: 2026-07-09T17:04:05Z
@@ -1879,28 +1874,28 @@
   Updated: 2026-07-08T21:22:48Z
   Total Products: 9
 - [Bundles](https://www.wirelessplace.com/collections/bundles)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 23
+  Updated: 2026-10-22T04:13:18Z
+  Total Products: 24
 - [Flash ](https://www.wirelessplace.com/collections/flash-)
   Updated: 2026-07-08T21:22:48Z
   Total Products: 6
 - [above 1000](https://www.wirelessplace.com/collections/above-1000)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 192
+  Updated: 2026-10-22T18:12:22Z
+  Total Products: 194
 - [Laptops](https://www.wirelessplace.com/collections/laptops): Browse our top-rated laptops & notebooks. Free 2-day shipping on new arrivals. Best deals on Chromebooks, Windows & more.
-  Updated: 2026-10-10T18:08:03Z
-  Total Products: 228
+  Updated: 2026-10-22T18:12:08Z
+  Total Products: 238
 - [Tablets](https://www.wirelessplace.com/collections/tablets-1): Shop tablets at Wireless Place. Top brands, latest models, fast processors & vivid displays. Free 2-day shipping on all orders.
-  Updated: 2026-10-10T11:02:08Z
+  Updated: 2026-10-22T21:12:30Z
   Total Products: 76
 - [Headphones](https://www.wirelessplace.com/collections/headphones)
-  Updated: 2026-10-11T00:01:49Z
+  Updated: 2026-10-22T15:08:53Z
   Total Products: 124
 - [Watches](https://www.wirelessplace.com/collections/watches)
   Updated: 2026-09-21T20:02:47Z
   Total Products: 41
 - [5G Devices](https://www.wirelessplace.com/collections/5g-devices)
-  Updated: 2026-10-11T20:18:45Z
+  Updated: 2026-10-22T15:20:07Z
   Total Products: 231
 - [Google Pixel 9 Series](https://www.wirelessplace.com/collections/pixel-9-series): Shop the Google Pixel 9 Series at Wireless Place. Pixel 9, 9 Pro, 9 Pro XL & Fold — unlocked, AI-powered, with Google Gemini. Free 2day shipping.
   Updated: 2026-09-11T15:11:53Z
@@ -1909,10 +1904,10 @@
   Updated: 2026-07-08T21:22:49Z
   Total Products: 2
 - [Samsung Galaxy A16](https://www.wirelessplace.com/collections/samsung-galaxy-a16)
-  Updated: 2026-10-10T11:02:08Z
+  Updated: 2026-10-22T11:04:33Z
   Total Products: 5
 - [BFCM Collection #1](https://www.wirelessplace.com/collections/bfcm-collection-1)
-  Updated: 2026-10-10T08:16:04Z
+  Updated: 2026-10-20T08:03:38Z
   Total Products: 9
 - [Holiday Galaxy Essentials](https://www.wirelessplace.com/collections/holiday-galaxy-essentials)
   Updated: 2026-09-30T14:46:24Z
@@ -1924,25 +1919,25 @@
   Updated: 2026-09-30T14:46:24Z
   Total Products: 20
 - [Foldable phones](https://www.wirelessplace.com/collections/foldable-phones)
-  Updated: 2026-10-10T08:16:04Z
+  Updated: 2026-10-22T15:20:07Z
   Total Products: 24
 - [Nintendo](https://www.wirelessplace.com/collections/nintendo)
   Updated: 2026-09-21T15:03:43Z
   Total Products: 6
 - [USA Models](https://www.wirelessplace.com/collections/usa-models)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2497
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 2516
 - [Samsung - USA Models](https://www.wirelessplace.com/collections/usa-models-samsung)
-  Updated: 2026-10-10T11:02:08Z
-  Total Products: 36
+  Updated: 2026-10-22T18:12:55Z
+  Total Products: 37
 - [Google Pixel Phones](https://www.wirelessplace.com/collections/google-usa-models): Shop unlocked Google Pixel phones — USA models in stock. Compatible with AT&T, T-Mobile & Verizon. Free 2-day shipping at Wireless Place.
   Updated: 2026-09-11T15:11:53Z
   Total Products: 15
 - [Motorola - USA Models](https://www.wirelessplace.com/collections/motorola-usa-models)
-  Updated: 2026-10-10T11:02:08Z
-  Total Products: 15
+  Updated: 2026-10-22T06:14:52Z
+  Total Products: 19
 - [Price 0](https://www.wirelessplace.com/collections/price-0)
-  Updated: 2026-10-02T14:29:26Z
+  Updated: 2026-10-14T14:32:43Z
   Total Products: 1428
 - [Brand Sony](https://www.wirelessplace.com/collections/brand-sony)
   Updated: 2026-09-21T21:54:44Z
@@ -1951,47 +1946,47 @@
   Updated: 2026-08-11T19:46:20Z
   Total Products: 5
 - [Bundles](https://www.wirelessplace.com/collections/bundles-1)
-  Updated: 2026-10-10T08:16:04Z
+  Updated: 2026-10-20T12:00:37Z
   Total Products: 9
 - [Samsung Watches](https://www.wirelessplace.com/collections/samsung-watches)
-  Updated: 2026-10-10T08:16:04Z
+  Updated: 2026-10-20T19:08:03Z
   Total Products: 9
 - [Stock 0](https://www.wirelessplace.com/collections/stock-0)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 780
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 770
 - [Shop Samsung](https://www.wirelessplace.com/collections/unlocked-samsung-smartphones): Buy unlocked Samsung Galaxy smartphones at Wireless Place. No contracts, carrier-free. Galaxy S, A & Z Series with 5G. Compatible with all major carriers.
-  Updated: 2026-10-11T20:18:45Z
+  Updated: 2026-10-22T15:20:39Z
   Total Products: 37
 - [Smartphones](https://www.wirelessplace.com/collections/smartphones)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 193
+  Updated: 2026-10-22T15:20:39Z
+  Total Products: 205
 - [Under $250](https://www.wirelessplace.com/collections/under-250)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 85
+  Updated: 2026-10-22T15:09:33Z
+  Total Products: 89
 - [Between $250 - $500](https://www.wirelessplace.com/collections/between-250-500)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 59
+  Updated: 2026-10-22T14:54:46Z
+  Total Products: 62
 - [Over $500](https://www.wirelessplace.com/collections/over-500)
-  Updated: 2026-10-11T11:02:35Z
-  Total Products: 80
+  Updated: 2026-10-22T18:12:55Z
+  Total Products: 85
 - [Casual Battery](https://www.wirelessplace.com/collections/casual-battery): Shop our collection of cell phones in light colors. Find white, silver, beige, and pastel smartphones perfect for your style.
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2481
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 2502
 - [Medium Battery](https://www.wirelessplace.com/collections/medium-battery): Shop our collection of cell phones in dark colors. Find black, dark gray, midnight blue, and deep-toned smartphones.
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2627
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 2645
 - [Great Camera](https://www.wirelessplace.com/collections/great-camera)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2471
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 2493
 - [Medium Camera](https://www.wirelessplace.com/collections/great-camera-copy)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2484
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 2506
 - [Low camera](https://www.wirelessplace.com/collections/medium-camera-copy)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2465
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 2489
 - [More Top Brands](https://www.wirelessplace.com/collections/more-top-brands)
-  Updated: 2026-10-10T18:08:03Z
-  Total Products: 356
+  Updated: 2026-10-22T18:12:22Z
+  Total Products: 368
 - [Camera](https://www.wirelessplace.com/collections/different-devices)
   Updated: 2026-09-21T20:28:28Z
   Total Products: 56
@@ -1999,64 +1994,64 @@
   Updated: 2026-09-21T20:28:28Z
   Total Products: 51
 - [Accesories](https://www.wirelessplace.com/collections/accesories)
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T11:04:33Z
   Total Products: 33
 - [Stock 0](https://www.wirelessplace.com/collections/stock-1)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 780
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 770
 - [High Battery](https://www.wirelessplace.com/collections/high-battery)
-  Updated: 2026-10-11T20:18:45Z
-  Total Products: 2445
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 2468
 - [Monitors](https://www.wirelessplace.com/collections/monitors)
-  Updated: 2026-10-03T11:03:22Z
+  Updated: 2026-10-22T18:12:04Z
   Total Products: 87
 - [Google](https://www.wirelessplace.com/collections/google)
-  Updated: 2026-10-01T18:08:39Z
+  Updated: 2026-10-20T18:08:21Z
   Total Products: 56
 - [Honor](https://www.wirelessplace.com/collections/honor)
-  Updated: 2026-10-08T17:07:51Z
-  Total Products: 13
+  Updated: 2026-10-20T18:40:34Z
+  Total Products: 15
 - [Huawei](https://www.wirelessplace.com/collections/huawei-1)
   Updated: 2026-08-07T07:59:39Z
   Total Products: 10
 - [International Models](https://www.wirelessplace.com/collections/international-models)
-  Updated: 2026-10-11T20:18:46Z
-  Total Products: 556
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 561
 - [Samsung](https://www.wirelessplace.com/collections/brand-samsung)
-  Updated: 2026-10-11T20:18:46Z
-  Total Products: 166
+  Updated: 2026-10-22T21:13:07Z
+  Total Products: 171
 - [Xiaomi](https://www.wirelessplace.com/collections/brand-xiaomi)
-  Updated: 2026-10-11T11:02:35Z
+  Updated: 2026-10-22T14:54:22Z
   Total Products: 56
 - [Motorola](https://www.wirelessplace.com/collections/brand-motorola)
-  Updated: 2026-10-10T11:02:08Z
-  Total Products: 44
+  Updated: 2026-10-22T06:14:53Z
+  Total Products: 50
 - [HP](https://www.wirelessplace.com/collections/brand-hp)
-  Updated: 2026-10-08T21:13:53Z
-  Total Products: 73
+  Updated: 2026-10-22T18:12:52Z
+  Total Products: 74
 - [Google](https://www.wirelessplace.com/collections/brand-google)
   Updated: 2026-09-21T20:29:47Z
   Total Products: 37
 - [Lenovo](https://www.wirelessplace.com/collections/brand-lenovo)
-  Updated: 2026-10-08T21:35:56Z
-  Total Products: 52
+  Updated: 2026-10-22T18:11:55Z
+  Total Products: 57
 - [OnePlus](https://www.wirelessplace.com/collections/brand-oneplus)
   Updated: 2026-08-13T11:07:17Z
   Total Products: 11
 - [Asus](https://www.wirelessplace.com/collections/brand-asus)
-  Updated: 2026-10-05T14:18:39Z
-  Total Products: 36
+  Updated: 2026-10-17T11:05:00Z
+  Total Products: 38
 - [Anker](https://www.wirelessplace.com/collections/brand-anker)
   Updated: 2026-08-13T11:07:46Z
   Total Products: 1
 - [Dell](https://www.wirelessplace.com/collections/brand-dell)
-  Updated: 2026-10-10T18:08:03Z
+  Updated: 2026-10-22T18:12:40Z
   Total Products: 23
 - [JBL](https://www.wirelessplace.com/collections/brand-jbl)
   Updated: 2026-09-21T19:18:13Z
   Total Products: 16
 - [Beats](https://www.wirelessplace.com/collections/brand-beats)
-  Updated: 2026-10-07T11:02:26Z
+  Updated: 2026-10-22T15:08:53Z
   Total Products: 13
 - [Garmin](https://www.wirelessplace.com/collections/brand-garmin)
   Updated: 2026-09-21T18:09:10Z
@@ -2065,8 +2060,8 @@
   Updated: 2026-09-21T21:55:48Z
   Total Products: 10
 - [Honor](https://www.wirelessplace.com/collections/brand-honor)
-  Updated: 2026-10-08T17:07:52Z
-  Total Products: 2
+  Updated: 2026-10-20T18:40:34Z
+  Total Products: 4
 - [LG](https://www.wirelessplace.com/collections/brand-lg)
   Updated: 2026-09-21T17:56:54Z
   Total Products: 13
@@ -2080,7 +2075,7 @@
   Updated: 2026-08-13T11:18:08Z
   Total Products: 3
 - [Microsoft](https://www.wirelessplace.com/collections/brand-microsoft)
-  Updated: 2026-10-03T06:08:59Z
+  Updated: 2026-10-22T06:14:36Z
   Total Products: 8
 - [Fitbit](https://www.wirelessplace.com/collections/brand-fitbit)
   Updated: 2026-09-21T20:02:47Z
@@ -2092,8 +2087,8 @@
   Updated: 2026-09-18T20:49:59Z
   Total Products: 8
 - [Out of stock](https://www.wirelessplace.com/collections/out-of-stock)
-  Updated: 2026-10-11T20:18:46Z
-  Total Products: 780
+  Updated: 2026-10-22T21:12:30Z
+  Total Products: 770
 
 ## Blogs
 
@@ -2694,8 +2689,8 @@
   Updated: 2026-07-14T15:01:26Z
 - [ Buyback Program –  Your Phone Fast - Wireless Place](https://www.wirelessplace.com/pages/-buyback-program): Why  Your Phone to Wireless Place? Upgrading your device shouldn't mean letting your old one collect dust. With the Wireless Place  B...
   Updated: 2026-07-14T14:14:01Z
-- [Buyback Program](https://www.wirelessplace.com/pages/reusely): new Buyback({ tenantId: "e3e00c3fb96fc0ee966fa74e5ed1da011ea03b9b66313b7bf4b87734873ebf2b", apiKey: "2KfRzUR7zRk5fEYBskuEfqypOD4DlI54Xvp7dH63TTEuNp...
-  Updated: 2026-06-10T12:37:04Z
+- [Buyback Program](https://www.wirelessplace.com/pages/reusely):  your old device! With the Wireless Place Buy Back Program, upgrading is easy and comes with extra benefits. Here is how it works: Get your ins...
+  Updated: 2026-10-20T11:58:58Z
 - [Subscribe & Save](https://www.wirelessplace.com/pages/subscribe)
   Updated: 2024-12-09T14:25:29Z
 - [Subscribe to Our SMS Notifications](https://www.wirelessplace.com/pages/subscribe-to-our-sms-notifications)
@@ -2720,15 +2715,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.wirelessplace.com/policies/privacy-policy)
-  Updated: 2025-01-27T10:02:31-05:00
+  Updated: 2025-01-27T15:02:31Z
 - [Shipping Policy](https://www.wirelessplace.com/policies/shipping-policy)
-  Updated: 2026-01-12T12:38:41-05:00
+  Updated: 2026-01-12T17:38:41Z
 - [Refund Policy](https://www.wirelessplace.com/policies/refund-policy)
-  Updated: 2026-06-11T18:22:15-04:00
+  Updated: 2026-06-11T22:22:15Z
 - [Terms of Service](https://www.wirelessplace.com/policies/terms-of-service)
-  Updated: 2024-02-02T07:14:57-05:00
+  Updated: 2024-02-02T12:14:57Z
 - [Contact Information](https://www.wirelessplace.com/policies/contact-information)
-  Updated: 2023-09-15T17:13:13-04:00
+  Updated: 2023-09-15T21:13:13Z
 
 ## Optional
 
