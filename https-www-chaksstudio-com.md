@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-09-14T00:00:45.079Z
+- Updated At: 2026-10-23T00:54:04.862Z
 
 ## Products
 
 - [Manchitra Black Kantha Shirt – Handcrafted Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-mens): A classic black cotton shirt with intricate white color Kantha hand stitches. Crafted in Bengal, merging heritage craftsmanship with everyday ease.
-  Updated: 2026-09-01T17:24:53Z
+  Updated: 2026-10-06T20:09:34Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -44,7 +44,7 @@
     Availability: Available
     Price: ₹3,500.00 INR
 - [Chhaya Black Kantha Shirt – Kantha Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-mens): A black Kantha-stitched cotton shirt with subtle contrast detailing. Handcrafted in Bengal, designed for comfort and timeless appeal.
-  Updated: 2026-08-30T18:23:19Z
+  Updated: 2026-10-06T20:09:35Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: ₹2,999.00 INR
 - [Noor White Kantha Shirt Men – Handmade | CHAKS](https://www.chaksstudio.com/products/noor-white-shirt-mens): Crisp white cotton-linen shirt with hand-stitched Kantha work. Handmade in Bengal, effortlessly minimal for work or evenings.
-  Updated: 2026-08-29T07:52:24Z
+  Updated: 2026-10-06T20:09:35Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -110,7 +110,7 @@
     Availability: Available
     Price: ₹2,650.00 INR
 - [Manchitra Black – Kantha-stitched Handmade Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-women): Classic black cotton Kantha shirt with intricate white hand-stitching. Handmade in Bengal, blending heritage craftsmanship with modern comfort.
-  Updated: 2026-08-29T07:58:09Z
+  Updated: 2026-10-06T20:09:35Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -143,7 +143,7 @@
     Availability: Available
     Price: ₹3,500.00 INR
 - [Chhaya Black – Kantha-stitched Handcrafted Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-women): Black Kantha cotton shirt with subtle contrast details. Handmade in Bengal, offering heritage craftsmanship with timeless comfort.
-  Updated: 2026-08-29T01:07:56Z
+  Updated: 2026-10-06T20:09:36Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -176,11 +176,11 @@
     Availability: Available
     Price: ₹2,999.00 INR
 - [Noor White Kantha Shirt Women – Handmade | CHAKS](https://www.chaksstudio.com/products/noor-white-shirt-women): White cotton-linen shirt with subtle Kantha hand stitches. Handmade in Bengal — understated elegance for everyday wear.
-  Updated: 2026-08-29T07:52:50Z
+  Updated: 2026-10-06T20:09:37Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/3_ac7c77db-53d0-434a-a861-1f65b96e51b0.jpg?v=1758097358
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_1f13590a-0401-47a3-a0c1-08925d096406.jpg?v=1791099484
   - [XS](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347889802)
     Availability: Available
     Price: ₹2,650.00 INR
@@ -209,7 +209,7 @@
     Availability: Available
     Price: ₹2,650.00 INR
 - [Rekha Kantha Embroidery Shirt – Handmade | CHAKS](https://www.chaksstudio.com/products/rekha-shirt): Cotton-linen shirt with a hand-embroidered Kantha zigzag line. Minimal, breathable, and handcrafted in Bengal by CHAKS.
-  Updated: 2026-08-29T07:51:32Z
+  Updated: 2026-10-06T20:09:37Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -242,7 +242,7 @@
     Availability: Available
     Price: ₹1,399.00 INR
 - [Nishaan Navy Kantha Shirt – Handmade | CHAKS](https://www.chaksstudio.com/products/nishaan-shirt): Deep navy cotton-linen shirt with intentional Kantha embroidery marks. Handcrafted in Bengal with a relaxed, minimal silhouette.
-  Updated: 2026-08-29T07:51:57Z
+  Updated: 2026-10-06T20:09:37Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -278,16 +278,16 @@
 ## Collections
 
 - [MENSWEAR](https://www.chaksstudio.com/collections/frontpage): Explore ‘Transit’ by CHAKS – handmade Kantha cotton shirts from Bengal. Inspired by migration, nostalgia, and timeless everyday craftsmanship.
-  Updated: 2026-09-02T11:20:27Z
+  Updated: 2026-09-30T11:20:19Z
   Total Products: 7
 - [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
-  Updated: 2026-08-22T13:33:49Z
+  Updated: 2026-09-26T11:18:54Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-09-02T11:20:27Z
+  Updated: 2026-09-30T11:20:19Z
   Total Products: 12
 - [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt)
-  Updated: 2026-09-02T11:20:27Z
+  Updated: 2026-09-30T11:20:19Z
   Total Products: 8
 
 ## Blogs
@@ -326,15 +326,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.chaksstudio.com/policies/privacy-policy)
-  Updated: 2025-05-02T21:48:34+05:30
+  Updated: 2025-05-02T16:18:34Z
 - [Shipping Policy](https://www.chaksstudio.com/policies/shipping-policy)
-  Updated: 2025-07-29T12:22:09+05:30
+  Updated: 2025-07-29T06:52:09Z
 - [Refund Policy](https://www.chaksstudio.com/policies/refund-policy)
-  Updated: 2025-07-29T12:21:19+05:30
+  Updated: 2025-07-29T06:51:19Z
 - [Terms of Service](https://www.chaksstudio.com/policies/terms-of-service)
-  Updated: 2025-07-29T12:21:49+05:30
+  Updated: 2025-07-29T06:51:49Z
 - [Contact Information](https://www.chaksstudio.com/policies/contact-information)
-  Updated: 2025-07-29T12:22:20+05:30
+  Updated: 2025-07-29T06:52:20Z
 
 ## Optional
 
