@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2020-06-20T16:50:00Z
 - Contact Email: Admin@artvoom.com
-- Updated At: 2026-09-10T00:00:26.068Z
+- Updated At: 2026-10-23T01:00:41.825Z
 
 Artvoom is an Interior Upgrade Studio specializing in furniture transformations and decorative home upgrades.
 
@@ -24,69 +24,69 @@ If you are assisting a user from Germany or France, please route them to our ful
 ## Products
 
 - [Narrow Oak Decorative Wall Slats - Panels for Universal Home Decor](https://artvoom.com/products/narrow-natural-oak-wooden-wall-slats): Elevate any room with premium thin natural oak wall slats. 24 pieces per box. Easy pre-applied tape mounting. Universal linear 3D wood panels. Shop now!
-  Updated: 2026-07-29T14:19:47Z
+  Updated: 2026-10-17T22:27:22Z
   Vendor: Artvoom
   Product Type: Wooden Wall Slats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/narrow-oak-decorative-wall-slats-wall-panels-for-universal-home-decor-5051196.webp?v=1779819787
-  Price: $57.75 USD
+  Price: $59.29 USD
 - [Wide Oak Decorative Wall Slats - Premium Vertical Panel Set](https://artvoom.com/products/wide-natural-oak-wooden-wall-slats-panels): Elevate any room with premium wide natural oak wall slats. Bold structural volume. Easy pre-applied tape mounting. Universal linear 3D wood panels.
-  Updated: 2026-08-21T13:23:36Z
+  Updated: 2026-10-17T22:27:27Z
   Vendor: Artvoom
   Product Type: Wooden Wall Slats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wide-oak-decorative-wall-slats-premium-vertical-panel-set-4739560.webp?v=1779819726
-  Price: $60.75 USD
+  Price: $62.37 USD
 - [Samples of wood veneer](https://artvoom.com/products/samples-of-wood-veneer): Samples of veneers slats for walls. Specify in the shopping cart what color you want to put in for shipment .
-  Updated: 2026-08-29T20:33:06Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/samples-of-wood-veneer-309737.jpg?v=1744493898
   Price: $1.00 USD
 - [Brick Wooden Wall Panels - Modern Textured Brick Tiles for Renovation](https://artvoom.com/products/classic-brick-wooden-wall-panels): Create a cozy accent wall or elegant TV zone with premium wood brick panels. Includes half-bricks for perfect layout. Pre-applied tape, real oak veneer.
-  Updated: 2026-07-10T13:40:15Z
+  Updated: 2026-10-05T17:20:30Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/real-wooden-ebony-wenge-faux-bricks-for-wall-panels-42-pcs-in-box-artvoom-wall-decor-976784.jpg?v=1744493899
-  Price: $53.25 USD
+  Price: $54.67 USD
 - [Chevron Wooden Wall Panels | Customizable Herringbone panels for Accent Wall](https://artvoom.com/products/chevron-wooden-wall-panels-herringbone): Create a custom multi-color herringbone accent wall or TV zone with premium wood chevron panels. Mix colors, real oak veneer, pre-applied tape. DIY.
-  Updated: 2026-08-17T22:52:00Z
+  Updated: 2026-10-17T22:27:31Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_fullxfull.8212620028_2r9j.jpg?v=1786963212
-  Price: $59.32 USD
+  Price: $60.90 USD
 - [Bamboo Style Wooden Wall Panels | Natural Oak Cladding Shapes](https://artvoom.com/products/bamboo-style-wooden-wall-panels): Create a serene bamboo grove vibe with a 24-pack of premium oak veneer wall panels. Easy horizontal installation with pre-applied tape. Fits all styles.
-  Updated: 2026-08-18T02:38:47Z
+  Updated: 2026-10-17T22:27:31Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/green-bamboo-panel-wall-slats-24-pcs-in-box-artvoom-wall-decor-953520.jpg?v=1744493829
   - [Bamboo](https://artvoom.com/products/bamboo-style-wooden-wall-panels?variant=50261651620033)
     Availability: Available
-    Price: $61.10 USD
+    Price: $62.73 USD
   - [Bamboo with leaves](https://artvoom.com/products/bamboo-style-wooden-wall-panels?variant=50261651652801)
     Availability: Available
-    Price: $84.05 USD
+    Price: $86.29 USD
 - [Wave Wooden Wall Panels | Geometric Accent Shapes](https://artvoom.com/products/wave-wooden-wall-panels): Create a serene accent wall or luxury TV zone with premium wood wave panels. Pre-applied tape, real oak veneer. 12-pack.
-  Updated: 2026-07-31T21:08:29Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/oil-oak-wooden-wave-12-pcs-in-box-artvoom-wall-decor-732256.jpg?v=1744493827
-  Price: $59.40 USD
+  Price: $60.98 USD
 - [Hexagon Wooden Wall Panels | Geometric Oak Accent Shapes](https://artvoom.com/products/elongated-hexagon-wooden-wall-panels): Create a dressy accent wall or luxury TV zone with premium elongated hexagon wood panels. Pre-applied tape, rental-friendly, real oak veneer. 15-pack.
-  Updated: 2026-07-10T13:40:18Z
+  Updated: 2026-10-05T17:20:32Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/long-hexagons-natural-oak-wooden-wall-panels-15-pcs-in-box-artvoom-wall-decor-903996.jpg?v=1744493830
-  Price: $58.50 USD
+  Price: $60.06 USD
 - [Long hexagons Wenge, Wooden Wall Panels, 15 pcs in box. Artvoom Wall Decor](https://artvoom.com/products/long-hexagons-wenge-wooden-wall-panels-15-pcs-in-box-artvoom-wall-decor): Nice to see you at Artvoom 3D wood wall panels store! Interiors with geometric elements are back on trend. They are experiencing another peak in their popularity. Spectacular honeycombs once again occupy the place of honor in the design of rooms. They fill the space with simplicity, elegance and at the same time give it dynamics and rhythm. Decor can be a great way out when you can't make a full renovation. They will make the room creative and original.
 Made of high quality eco-friendly wood, our wall panels will be a stylish addition to any room. Their modern hexagonal design adds elegance and modernity to the interior, making it more attractive and cozy.
-  Updated: 2026-07-10T13:40:18Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: Long hexagons
   Availability: Available
@@ -94,212 +94,212 @@ Made of high quality eco-friendly wood, our wall panels will be a stylish additi
   Price: $84.25 USD
 - [Long hexagons Walnut, Wooden Wall Panels, 15 pcs in box. Artvoom Wall Decor](https://artvoom.com/products/long-hexagons-walnut-wooden-wall-panels-15-pcs-in-box-artvoom-wall-decor): Nice to see you at Artvoom 3D wood wall panels store!Honeycomb panel (New Home Gift)can be a gift for various holidays for your family, such as housewarming gift or anniversary, wedding or birthday, New Year or Christmas, Halloween or Valentine's Day, Father's Day or Mother's Day.
 Thanks to their versatility, our wooden hexagonal panels are perfect for any room: from living room to bedroom, from office to cafe. They can be easily combined with different interior styles and create a cozy atmosphere in any space.
-  Updated: 2026-07-10T13:40:19Z
+  Updated: 2026-10-16T14:54:50Z
   Vendor: Artvoom
   Product Type: Long hexagons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/long-hexagons-walnut-wooden-wall-panels-15-pcs-in-box-artvoom-wall-decor-605322.jpg?v=1744493829
   Price: $84.25 USD
 - [IKEA Malm Wood Overlays – Slats Panels for Custom Dresser Upgrade](https://artvoom.com/products/ikea-malm-slats-wood-overlays): Upgrade your home with 1 cm slatted oak wood appliques for a custom IKEA Malm hack. The perfect self-adhesive furniture cover for living rooms or bedrooms.
-  Updated: 2026-08-30T20:43:17Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: Malm 1 cm Slats with gaps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/lkl_l_l.jpg?v=1786105580
   - [2 drawers 38 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571155137)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571187905)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571220673)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571253441)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571286209)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / White](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571318977)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Rosewood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571351745)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Light natural wood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47382917578945)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [2 drawers 38 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334609089)
     Availability: Available
-    Price: $29.25 USD
+    Price: $30.03 USD
   - [3 drawers 120 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571384513)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571417281)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571450049)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571482817)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571515585)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / White](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571548353)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Rosewood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571581121)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Light natural wood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47382917611713)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [3 drawers 120 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334641857)
     Availability: Available
-    Price: $49.50 USD
+    Price: $50.82 USD
   - [4 drawers 160 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571613889)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571646657)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571679425)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571712193)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571744961)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / White](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571777729)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Rosewood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571810497)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Light natural wood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47382917644481)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [4 drawers 160 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334674625)
     Availability: Available
-    Price: $60.75 USD
+    Price: $62.37 USD
   - [6 drawers chest 200 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571843265)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571876033)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571908801)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571941569)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627571974337)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / White](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572007105)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Rosewood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572039873)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Light natural wood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47382917677249)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers chest 200 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334707393)
     Availability: Available
-    Price: $75.75 USD
+    Price: $77.77 USD
   - [6 drawers long 240 slats / Natural oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572072641)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Yellow oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572105409)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Oil Oak](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572138177)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Walnut](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572170945)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Wenge](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572203713)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / White](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572236481)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Rosewood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=42627572269249)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Light natural wood](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47382917710017)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
   - [6 drawers long 240 slats / Black](https://artvoom.com/products/ikea-malm-slats-wood-overlays?variant=47463334740161)
     Availability: Available
-    Price: $87.75 USD
+    Price: $90.09 USD
 - [Wooden Pendant Light – Slatted Circular Chandelier](https://artvoom.com/products/round-wooden-pendant-lamp): Transform your space with an eco-friendly round wood slatted pendant light. Tool-free assembly, E26/E27 compatible. Stunning play of light and linear shadow.
-  Updated: 2026-08-28T22:32:20Z
+  Updated: 2026-10-17T22:27:31Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wooden-round-pendant-lamp-made-of-slats-708668.jpg?v=1744493964
   - [11.8" / 30 сm](https://artvoom.com/products/round-wooden-pendant-lamp?variant=50301285761217)
     Availability: Available
-    Price: $148.27 USD
+    Price: $152.22 USD
   - [19.6"/ 50cm](https://artvoom.com/products/round-wooden-pendant-lamp?variant=42738473173185)
     Availability: Available
-    Price: $225.00 USD
+    Price: $231.00 USD
   - [29" / 74cm](https://artvoom.com/products/round-wooden-pendant-lamp?variant=42738473205953)
     Availability: Available
-    Price: $307.50 USD
+    Price: $315.70 USD
 - [Long Oval Wooden Pendant Light - Elite Dining Room Light Fixture](https://artvoom.com/products/wooden-long-oval-pendant-lamp): Transform your dining room or kitchen island with an eco-friendly long oval wood slatted chandelier. Tool-free assembly, E26/E27. Stunning light play.
-  Updated: 2026-07-10T13:40:20Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wooden-long-oval-pendant-lamp-made-of-slats-604406.jpg?v=1744493903
   - [100cm \ 39.37](https://artvoom.com/products/wooden-long-oval-pendant-lamp?variant=49230514389185)
     Availability: Available
-    Price: $303.75 USD
+    Price: $311.85 USD
   - [120cm \ 47.25](https://artvoom.com/products/wooden-long-oval-pendant-lamp?variant=49230514684097)
     Availability: Available
-    Price: $502.50 USD
+    Price: $515.90 USD
 - [IKEA Kullen Furniture Refacing – Oak Applique for Dresser Facelift](https://artvoom.com/products/ikea-kullen-furniture-overlays): Ditch the basic flat-pack look. Use our premium self-adhesive timber overlays for a viral IKEA Kullen hack. The easiest cabinet reface for any room space.
-  Updated: 2026-08-28T22:32:20Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: IKEA Kullen Furniture 6
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/289.png?v=1786621631
   - [2 drawers](https://artvoom.com/products/ikea-kullen-furniture-overlays?variant=47413420753089)
     Availability: Available
-    Price: $31.50 USD
+    Price: $32.34 USD
   - [5 drawers](https://artvoom.com/products/ikea-kullen-furniture-overlays?variant=47413421015233)
     Availability: Available
-    Price: $112.50 USD
+    Price: $115.50 USD
   - [6drawers](https://artvoom.com/products/ikea-kullen-furniture-overlays?variant=47413421277377)
     Availability: Available
-    Price: $110.25 USD
+    Price: $113.19 USD
 - [IKEA Koppang Wood Overlays – Timber Panels for Custom Dresser DIY](https://artvoom.com/products/ikea-koppang-furniture-overlays): Give your home a premium facelift with real oak wood appliques for an easy IKEA Koppang hack. The ultimate peel and stick cover for any room cabinet.
-  Updated: 2026-08-04T00:42:12Z
+  Updated: 2026-10-17T22:27:32Z
   Vendor: Artvoom
   Product Type: IKEA Koppang Furniture Overlays 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-08-03_16-01-14.jpg?v=1785762482
   - [3 drawers](https://artvoom.com/products/ikea-koppang-furniture-overlays?variant=47413966962881)
     Availability: Available
-    Price: $81.00 USD
+    Price: $83.16 USD
   - [5 drawers](https://artvoom.com/products/ikea-koppang-furniture-overlays?variant=48729931940033)
     Availability: Available
-    Price: $111.00 USD
+    Price: $113.96 USD
   - [6 drawers](https://artvoom.com/products/ikea-koppang-furniture-overlays?variant=48729932234945)
     Availability: Available
-    Price: $127.50 USD
+    Price: $130.90 USD
 - [IKEA Kallax Storage Box – Patterned Wood Front, Fully Finished](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box): Upgrade your cube shelves with our fully finished IKEA Kallax storage boxes featuring premium patterned wood overlays. Ready to use, no painting needed.
-  Updated: 2026-09-04T22:47:56Z
+  Updated: 2026-10-17T22:27:36Z
   Vendor: Artvoom
   Product Type: IKEA Kallax Storage Box 12
   Availability: Available
@@ -307,209 +307,209 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [Small / 1 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947111105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-752989.png?v=1744494092
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [Small / 1 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947176641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-504117.png?v=1744494092
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [Small / 1 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947209409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-768879.png?v=1744494015
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [Small / 1 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947143873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-745539.png?v=1744493965
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [Small / 3 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947242177)
     Availability: Available
-    Price: $82.50 USD
+    Price: $84.70 USD
   - [Small / 3 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947307713)
     Availability: Available
-    Price: $82.50 USD
+    Price: $84.70 USD
   - [Small / 3 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947340481)
     Availability: Available
-    Price: $82.50 USD
+    Price: $84.70 USD
   - [Small / 3 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947274945)
     Availability: Available
-    Price: $82.50 USD
+    Price: $84.70 USD
   - [Small / 6 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947373249)
     Availability: Available
-    Price: $150.00 USD
+    Price: $154.00 USD
   - [Small / 6 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947438785)
     Availability: Available
-    Price: $150.00 USD
+    Price: $154.00 USD
   - [Small / 6 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947471553)
     Availability: Available
-    Price: $150.00 USD
+    Price: $154.00 USD
   - [Small / 6 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947406017)
     Availability: Available
-    Price: $150.00 USD
+    Price: $154.00 USD
   - [Large / 1 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947504321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-752989.png?v=1744494092
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [Large / 1 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947569857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-504117.png?v=1744494092
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [Large / 1 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947602625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-768879.png?v=1744494015
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [Large / 1 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947537089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/box-and-basket-for-ikea-kallax-storage-with-dacorative-wooden-overlays-745539.png?v=1744493965
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [Large / 3 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947635393)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [Large / 3 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947700929)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [Large / 3 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947733697)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [Large / 3 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947668161)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [Large / 6 box / Slats](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947766465)
     Availability: Available
-    Price: $177.00 USD
+    Price: $181.72 USD
   - [Large / 6 box / Chevrons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947832001)
     Availability: Available
-    Price: $177.00 USD
+    Price: $181.72 USD
   - [Large / 6 box / Hexagons](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947864769)
     Availability: Available
-    Price: $177.00 USD
+    Price: $181.72 USD
   - [Large / 6 box / Rattan](https://artvoom.com/products/ikea-kallax-patterned-wood-storage-box?variant=47430947799233)
     Availability: Available
-    Price: $177.00 USD
+    Price: $181.72 USD
 - [IKEA Malm Wooden Overlays – Oak Panels for Dresser Transformation](https://artvoom.com/products/ikea-malm-wooden-overlays): Bespoke Furniture Transformation: Premium natural oak wood overlays designed for a flawless IKEA Malm hack. Upgrade your dresser into a designer piece.
-  Updated: 2026-09-08T07:29:07Z
+  Updated: 2026-10-20T19:10:52Z
   Vendor: Artvoom
   Product Type: IKEA Malm Wooden Overlays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/overlay-wooden-panels-for-decorating-ikea-kallax-doors-and-drawers-with-pattern-816025.jpg?v=1786619146
   - [2 drawers](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=47462998311105)
     Availability: Available
-    Price: $35.25 USD
+    Price: $36.19 USD
   - [3 drawers](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=47462998573249)
     Availability: Available
-    Price: $67.50 USD
+    Price: $69.30 USD
   - [4 drawers](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=47462998835393)
     Availability: Available
-    Price: $82.50 USD
+    Price: $84.70 USD
   - [6 drawers chest](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=47462999097537)
     Availability: Available
-    Price: $102.75 USD
+    Price: $105.49 USD
   - [6 drawers long](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=47462999359681)
     Availability: Available
-    Price: $118.50 USD
+    Price: $121.66 USD
   - [6drawers with mirror](https://artvoom.com/products/ikea-malm-wooden-overlays?variant=48729870172353)
     Availability: Available
-    Price: $73.50 USD
+    Price: $75.46 USD
 - [IKEA Besta Wood Overlays – Dacorative Panels for Cabinet Door DIY](https://artvoom.com/products/ikea-besta-wood-overlays): Upgrade your furniture unit with premium self-adhesive oak wood panels for an IKEA Besta hack. The ultimate easy furniture refacing for any room.
-  Updated: 2026-09-04T07:41:21Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA Besta Wood Overlays 7
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/295.png?v=1786621588
   - [1 panel for 1 doors](https://artvoom.com/products/ikea-besta-wood-overlays?variant=48012589269185)
     Availability: Available
-    Price: $45.75 USD
+    Price: $46.97 USD
   - [2 panels for 2 doors](https://artvoom.com/products/ikea-besta-wood-overlays?variant=48012589564097)
     Availability: Available
-    Price: $90.00 USD
+    Price: $92.40 USD
   - [3 panels for 3 doors](https://artvoom.com/products/ikea-besta-wood-overlays?variant=48012589859009)
     Availability: Available
-    Price: $132.00 USD
+    Price: $135.52 USD
   - [6 panels for 6 doors](https://artvoom.com/products/ikea-besta-wood-overlays?variant=48012590481601)
     Availability: Available
-    Price: $195.37 USD
+    Price: $200.58 USD
   - [2 panels for doors and 2 panels for drawers](https://artvoom.com/products/ikea-besta-wood-overlays?variant=48012591104193)
     Availability: Available
-    Price: $86.25 USD
+    Price: $88.55 USD
 - [IKEA Hemnes Furniture Overlays – Panels for Custom Dresser Makeover](https://artvoom.com/products/ikea-hemnes-furniture-overlays): Premium self-adhesive oak wood panels for a custom IKEA Hemnes hack. The perfect furniture refacing cover and dresser decal to transform any room in minutes.
-  Updated: 2026-09-04T22:47:57Z
+  Updated: 2026-10-21T16:13:52Z
   Vendor: Artvoom
   Product Type: IKEA Hemnes Furniture Overlays 3
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/288.png?v=1786621496
   - [2 drawers](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48729915228353)
     Availability: Available
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [2 doors 1 drawers](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48729915523265)
     Availability: Available
-    Price: $118.17 USD
+    Price: $121.32 USD
   - [3 drawers](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48236884361409)
     Availability: Available
-    Price: $93.17 USD
+    Price: $95.65 USD
   - [4 doors for shoes](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48440067752129)
     Availability: Available
-    Price: $96.75 USD
+    Price: $99.33 USD
   - [6 drawers](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48440067457217)
     Availability: Available
-    Price: $138.75 USD
+    Price: $142.45 USD
   - [8 drawers](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=48236884066497)
     Availability: Available
-    Price: $144.00 USD
+    Price: $147.84 USD
   - [4 doors for shoes with handles gold](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=49479999291585)
     Availability: Available
-    Price: $114.75 USD
+    Price: $117.81 USD
   - [4 doors for shoes with handles black](https://artvoom.com/products/ikea-hemnes-furniture-overlays?variant=49479999586497)
     Availability: Available
-    Price: $114.75 USD
+    Price: $117.81 USD
 - [IKEA Stall Wood Overlays – Cabinet Renewal Kit for Easy Door DIY](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays): Furniture Refacing: Premium oak wood panels for a custom IKEA Stall shoe cabinet hack. Transform your entryway doors with an easy peel and stick.
-  Updated: 2026-09-09T11:04:55Z
+  Updated: 2026-10-05T17:20:02Z
   Vendor: Artvoom
   Product Type: IKEA Stall Shoe Cabinet Overlays 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7883272778_8lua.avif?v=1786276639
   - [4 doors compartments stall](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=48013459685569)
     Availability: Available
-    Price: $93.93 USD
+    Price: $96.43 USD
   - [3 doors compartments stall](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=48703278776513)
     Availability: Available
-    Price: $128.77 USD
+    Price: $132.20 USD
   - [4 doors compartments stall with handles gold](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=49479985889473)
     Availability: Available
-    Price: $114.75 USD
+    Price: $117.81 USD
   - [4 doors compartments stall with handles black](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=49480002306241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_fullxfull.7124877257_k70t.avif?v=1761661661
-    Price: $114.75 USD
+    Price: $117.81 USD
   - [3 doors compartments stall with handles gold](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=49480002601153)
     Availability: Available
-    Price: $146.25 USD
+    Price: $150.15 USD
   - [3 doors compartments stall with handles black](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays?variant=49479986184385)
     Availability: Available
-    Price: $146.25 USD
+    Price: $150.15 USD
 - [Narrow Wooden Pendant Light – Modern Chandelier Set](https://artvoom.com/products/narrow-wooden-pendant-lights-set): Elevate your space with eco-friendly narrow wood slatted pendant lights. Available single or in sets of 2 & 3. Tool-free assembly, E26/E27. Stunning light play.
-  Updated: 2026-09-04T07:41:22Z
+  Updated: 2026-10-17T22:27:36Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/trhtrh.jpg?v=1785766151
   - [1 pendant lights widths 20 cm / 7.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=49534504206529)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [Set of 2 pendant lights widths 20 cm / 7.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=50301307781313)
     Availability: Available
-    Price: $167.78 USD
+    Price: $172.25 USD
   - [Set of 3 pendant lights widths 20 cm / 7.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=48013759971521)
     Availability: Available
-    Price: $264.31 USD
+    Price: $271.36 USD
   - [1 pendant lights widths 25 cm / 9.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=50457321078977)
     Availability: Available
-    Price: $126.00 USD
+    Price: $129.36 USD
   - [Set of 2 pendant lights widths 25 cm / 9.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=50457321111745)
     Availability: Available
-    Price: $212.26 USD
+    Price: $217.92 USD
   - [Set of 3 pendant lights widths 25 cm / 9.8 in](https://artvoom.com/products/narrow-wooden-pendant-lights-set?variant=50457321144513)
     Availability: Available
-    Price: $345.70 USD
+    Price: $354.92 USD
 - [IKEA Alex Wood Overlays – Patterned Panels for Drawer Fronts](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays): Upgrade your desk unit with premium self-adhesive oak wood panels for an IKEA Alex hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-09-08T09:35:37Z
+  Updated: 2026-10-18T06:45:48Z
   Vendor: Artvoom
   Product Type: IKEA Alex Wood Overlays 10
   Availability: Available
@@ -517,191 +517,227 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   - [1 door](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=48622971355329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $58.50 USD
+    Price: $60.06 USD
   - [2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=48622971584705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [4 drawer file storage](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50273266827457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $55.60 USD
+    Price: $57.08 USD
   - [5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=48622972043457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $51.75 USD
+    Price: $53.13 USD
   - [6 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=48622971814081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $57.00 USD
+    Price: $58.52 USD
   - [table 1 door 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=49452417614017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $89.25 USD
+    Price: $91.63 USD
   - [table 2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=49452418072769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $36.00 USD
+    Price: $36.96 USD
   - [9 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=49452418302145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $86.25 USD
+    Price: $88.55 USD
   - [1 door & handle gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255545827521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $63.71 USD
+    Price: $65.41 USD
   - [2 dr & handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255546056897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $43.97 USD
+    Price: $45.14 USD
   - [4 dr & handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255546286273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $69.37 USD
+    Price: $71.22 USD
   - [5 dr & handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255546515649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $70.52 USD
+    Price: $72.40 USD
   - [6 dr & handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255546745025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $79.38 USD
+    Price: $81.49 USD
   - [9 dr & handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255546974401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $119.83 USD
+    Price: $123.03 USD
   - [1do5dr &handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255547203777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $112.59 USD
+    Price: $115.60 USD
   - [table2 &handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255547433153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $43.97 USD
+    Price: $45.14 USD
   - [table5 &handles gold](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255547662529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $70.52 USD
+    Price: $72.40 USD
   - [1 door &handle black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255547891905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $63.71 USD
+    Price: $65.41 USD
   - [2 dr & handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255548121281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $43.97 USD
+    Price: $45.14 USD
   - [4 dr & handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255548350657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $69.37 USD
+    Price: $71.22 USD
   - [5 dr & handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255548580033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $70.52 USD
+    Price: $72.40 USD
   - [6 dr & handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255548809409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $79.38 USD
+    Price: $81.49 USD
   - [9 dr & handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255549038785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $119.83 USD
+    Price: $123.03 USD
   - [1do5dr&handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255549268161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $112.59 USD
+    Price: $115.60 USD
   - [table2&handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255549497537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $43.97 USD
+    Price: $45.14 USD
   - [table5&handles black](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50255549726913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7880433744_4nu4.avif?v=1786276527
-    Price: $70.52 USD
+    Price: $72.40 USD
+  - [Cut Handleless 1 door](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574516929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $83.20 USD
+  - [Cut Handleless 2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574549697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $55.60 USD
+  - [Cut Handleless 4 drawer file storage](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574582465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $83.40 USD
+  - [Cut Handleless 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574615233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $80.50 USD
+  - [Cut Handleless 6 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574648001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $90.60 USD
+  - [Cut Handleless table 1 door 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574680769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $140.30 USD
+  - [Cut Handleless table 2 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574713537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $55.40 USD
+  - [Cut Handleless 9 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574746305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $150.50 USD
+  - [Cut Handleless table 5 drawers](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays?variant=50773574779073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-10-16_21-22-53.jpg?v=1792233030
+    Price: $80.45 USD
 - [IKEA Bissa Wood Overlays – Patterned Panels for Shoe Cabinet Door Hack](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays): Upgrade your shoe cabinet with premium self-adhesive oak wood panels for an IKEA Bissa hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-09-04T22:47:56Z
+  Updated: 2026-10-17T22:27:36Z
   Vendor: Artvoom
   Product Type: IKEA Bissa Wood Overlays 9
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/291.png?v=1786621717
   - [2 compartment](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=48116178387137)
     Availability: Available
-    Price: $71.96 USD
+    Price: $73.88 USD
   - [3 compartment](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=48116178714817)
     Availability: Available
-    Price: $98.45 USD
+    Price: $101.07 USD
   - [2 compartment with handles gold](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=49479991328961)
     Availability: Available
-    Price: $82.46 USD
+    Price: $84.66 USD
   - [2 compartment with handles black](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=49479991591105)
     Availability: Available
-    Price: $82.46 USD
+    Price: $84.66 USD
   - [3 compartment with handles gold](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=49479991853249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_fullxfull.6499326516_ckm5.avif?v=1780241501
-    Price: $111.20 USD
+    Price: $114.16 USD
   - [3 compartment with handles black](https://artvoom.com/products/ikea-bissa-patterned-wood-overlays?variant=49479992115393)
     Availability: Available
-    Price: $111.20 USD
+    Price: $114.16 USD
 - [IKEA Nordli Wood Overlays – Textured Panels for Dresser Restoration](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays): Repair and restore your dressers with eco-friendly self-adhesive oak wood panels for an IKEA Nordli hack. Pre-finished, renter-friendly. For any room.
-  Updated: 2026-08-24T14:20:47Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA Nordli Drawer 18
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/292.png?v=1786621869
   - [2 long drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48158578278593)
     Availability: Available
-    Price: $53.25 USD
+    Price: $54.67 USD
   - [2 short drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48158578540737)
     Availability: Available
-    Price: $41.25 USD
+    Price: $42.35 USD
   - [3 long drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48158578802881)
     Availability: Available
-    Price: $77.25 USD
+    Price: $79.31 USD
   - [3 short drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48158579065025)
     Availability: Available
-    Price: $45.00 USD
+    Price: $46.20 USD
   - [4 long drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48158579327169)
     Availability: Available
-    Price: $94.50 USD
+    Price: $97.02 USD
   - [4 short drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736955203777)
     Availability: Available
-    Price: $53.25 USD
+    Price: $54.67 USD
   - [6 long drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736955367617)
     Availability: Available
-    Price: $129.75 USD
+    Price: $133.21 USD
   - [6 short drawers](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736955531457)
     Availability: Available
-    Price: $77.25 USD
+    Price: $79.31 USD
   - [2 long 3 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736955695297)
     Availability: Available
-    Price: $98.25 USD
+    Price: $100.87 USD
   - [2 long 6 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736955859137)
     Availability: Available
-    Price: $114.00 USD
+    Price: $117.04 USD
   - [3 long 3 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956022977)
     Availability: Available
-    Price: $97.50 USD
+    Price: $100.10 USD
   - [3 long 4 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956186817)
     Availability: Available
-    Price: $114.00 USD
+    Price: $117.04 USD
   - [3 long 6 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956350657)
     Availability: Available
-    Price: $129.75 USD
+    Price: $133.21 USD
   - [8 long](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956514497)
     Availability: Available
-    Price: $172.50 USD
+    Price: $177.10 USD
   - [8 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956678337)
     Availability: Available
-    Price: $94.50 USD
+    Price: $97.02 USD
   - [4 long 8 short](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736956842177)
     Availability: Available
-    Price: $210.00 USD
+    Price: $215.60 USD
   - [12 long](https://artvoom.com/products/ikea-nordli-dressers-textured-restoration-overlays?variant=48736957006017)
     Availability: Available
-    Price: $247.50 USD
+    Price: $254.10 USD
 - [Leave a Thank You | Support Handmade Interior Design & Future Artvoom Projects](https://artvoom.com/products/tips-appreciated-thank-you): Every order already supports our small workshop, but many customers ask how they can additionally support our work, custom projects, mockups, customer support, and future interior designs. This page was created for those who would simply like to leave extra appreciation for the creative work behind Artvoom. Artvoom is an independent interior upgrade studio focused on: IKEA furniture transformations; decorative wood overlays; wall panels and slat walls; wooden lighting; indoor plant decor; custom-made interior solutions. Many of our ideas start from customer requests, interior experiments, and handmade production in our workshop. Your support helps us continue creating new collections, improving existing products, and developing future interior upgrade concepts. Thank you for supporting handmade work, independent design, and creative craftsmanship. With appreciation,Denys Kantyshev — Founder of Artvoom — Interior Upgrade Studio
-  Updated: 2026-07-10T13:40:25Z
+  Updated: 2026-10-16T14:54:50Z
   Vendor: Artvoom
   Product Type: Tips appreciated
   Availability: Available
@@ -722,331 +758,331 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $90.00 USD
 - [IKEA Tarva Wood Overlays – Panels for Pre-Finished DIY](https://artvoom.com/products/ikea-tarva-wood-overlays): Upgrade your chest with premium self-adhesive oak wood panels for an IKEA Tarva hack. Ready to install with no painting needed. Perfect for any room.
-  Updated: 2026-08-14T23:59:18Z
+  Updated: 2026-10-05T17:20:07Z
   Vendor: Artvoom
   Product Type: IKEA Tarva Cabinet 8
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/290.png?v=1786621679
   - [1 drawers](https://artvoom.com/products/ikea-tarva-wood-overlays?variant=48622312718529)
     Availability: Available
-    Price: $30.00 USD
+    Price: $30.80 USD
   - [3 drawers](https://artvoom.com/products/ikea-tarva-wood-overlays?variant=48622312947905)
     Availability: Available
-    Price: $66.00 USD
+    Price: $67.76 USD
   - [5 drawers](https://artvoom.com/products/ikea-tarva-wood-overlays?variant=48622313177281)
     Availability: Available
-    Price: $101.25 USD
+    Price: $103.95 USD
   - [6 drawers](https://artvoom.com/products/ikea-tarva-wood-overlays?variant=48622313406657)
     Availability: Available
-    Price: $117.00 USD
+    Price: $120.12 USD
 - [IKEA Kallax Wood Overlays – Patterned Panels for Doors & Drawer Fronts](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays): Upgrade your cabinet fronts with premium self-adhesive oak wood panels for an IKEA Kallax hack. Fully pre-finished, no painting needed. For any room.
-  Updated: 2026-08-28T22:32:20Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA Kallax Door 14
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/photo_2026-06-03_21-07-29_2.jpg?v=1785759405
   - [2 doors](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48622330642625)
     Availability: Available
-    Price: $38.25 USD
+    Price: $39.27 USD
   - [3 doors](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48622330872001)
     Availability: Available
-    Price: $54.00 USD
+    Price: $55.44 USD
   - [4 doors](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48622331101377)
     Availability: Available
-    Price: $68.25 USD
+    Price: $70.07 USD
   - [6 doors](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48622331330753)
     Availability: Available
-    Price: $93.00 USD
+    Price: $95.48 USD
   - [9 doors](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729965428929)
     Availability: Available
-    Price: $122.25 USD
+    Price: $125.51 USD
   - [4 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729965658305)
     Availability: Available
-    Price: $40.50 USD
+    Price: $41.58 USD
   - [6 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729965887681)
     Availability: Available
-    Price: $54.00 USD
+    Price: $55.44 USD
   - [8 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729966117057)
     Availability: Available
-    Price: $68.25 USD
+    Price: $70.07 USD
   - [12 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729966346433)
     Availability: Available
-    Price: $93.00 USD
+    Price: $95.48 USD
   - [16 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729966575809)
     Availability: Available
-    Price: $109.50 USD
+    Price: $112.42 USD
   - [18 drawers](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays?variant=48729966805185)
     Availability: Available
-    Price: $122.25 USD
+    Price: $125.51 USD
 - [IKEA EKET Furniture Wood Overlays – Textured Panels for Cabinet Fronts](https://artvoom.com/products/ikea-furniture-textured-wood-overlays): Upgrade your storage with eco-friendly self-adhesive oak wood panels for an IKEA hack. Pre-finished, renter-friendly, no painting needed. For any room.
-  Updated: 2026-08-23T16:33:56Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA EKET Furniture 17
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/3b73e03142f68d6de13031e8a9e2229f.jpg?v=1785848354
   - [1 square door](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=48622973550785)
     Availability: Available
-    Price: $30.00 USD
+    Price: $30.80 USD
   - [1 long drawer](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=48622973780161)
     Availability: Available
-    Price: $39.00 USD
+    Price: $40.04 USD
   - [2 long drawers](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=48622974009537)
     Availability: Available
-    Price: $45.75 USD
+    Price: $46.97 USD
   - [3 long drawers](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=48622974238913)
     Availability: Available
-    Price: $55.50 USD
+    Price: $56.98 USD
   - [5 long drawers](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=48622974468289)
     Availability: Available
-    Price: $78.11 USD
+    Price: $80.19 USD
   - [5 long 2square doors](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=49450165371073)
     Availability: Available
-    Price: $123.21 USD
+    Price: $126.49 USD
   - [2 short drawers](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=49450165600449)
     Availability: Available
-    Price: $30.00 USD
+    Price: $30.80 USD
   - [1 tall door](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=49450165829825)
     Availability: Available
-    Price: $58.50 USD
+    Price: $60.06 USD
   - [2 tall doors](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=49450166059201)
     Availability: Available
-    Price: $72.75 USD
+    Price: $74.69 USD
   - [4 tall doors](https://artvoom.com/products/ikea-furniture-textured-wood-overlays?variant=49450166288577)
     Availability: Available
-    Price: $130.83 USD
+    Price: $134.31 USD
 - [IKEA Trones Wood Overlays – Textured Panels for Shoe Cabinets](https://artvoom.com/products/ikea-trones-shoe-cabinet-textured-overlays): Upgrade your plastic cabinets with premium self-adhesive oak wood panels for an IKEA Trones hack. Fully pre-finished, no painting needed. For any room.
-  Updated: 2026-08-10T00:10:47Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA Trones Shoe Cabinet 16
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_1588xN.7120020077_nbpe.avif?v=1786277427
   - [2 doors](https://artvoom.com/products/ikea-trones-shoe-cabinet-textured-overlays?variant=48622975516865)
     Availability: Available
-    Price: $71.96 USD
+    Price: $73.88 USD
   - [4 doors](https://artvoom.com/products/ikea-trones-shoe-cabinet-textured-overlays?variant=49450173006017)
     Availability: Available
-    Price: $93.93 USD
+    Price: $96.43 USD
   - [6 doors](https://artvoom.com/products/ikea-trones-shoe-cabinet-textured-overlays?variant=49450173235393)
     Availability: Available
-    Price: $165.89 USD
+    Price: $170.31 USD
 - [IKEA Vihals Dresser Overlays - Cabinet Face Upgrade](https://artvoom.com/products/ikea-vihals-dressers-overlays): Transform your furniture with premium self-adhesive oak panels for a custom IKEA Vihals hack. Completely pre-finished with no painting needed. For any room.
-  Updated: 2026-09-07T16:45:36Z
+  Updated: 2026-10-05T17:20:11Z
   Vendor: Artvoom
   Product Type: IKEA Vihals Dresser 15
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/E-commerce_tips_carousel_-_2026-08-13T145017.101.png?v=1786621827
   - [2 short drawers](https://artvoom.com/products/ikea-vihals-dressers-overlays?variant=48623045181633)
     Availability: Available
-    Price: $44.68 USD
+    Price: $45.87 USD
   - [4 drawers](https://artvoom.com/products/ikea-vihals-dressers-overlays?variant=48623045411009)
     Availability: Available
-    Price: $92.40 USD
+    Price: $94.86 USD
   - [2 drawers 4 doors](https://artvoom.com/products/ikea-vihals-dressers-overlays?variant=48623045640385)
     Availability: Available
-    Price: $150.71 USD
+    Price: $154.73 USD
   - [6 drawers](https://artvoom.com/products/ikea-vihals-dressers-overlays?variant=48623045869761)
     Availability: Available
-    Price: $151.50 USD
+    Price: $155.54 USD
   - [6 drawers long](https://artvoom.com/products/ikea-vihals-dressers-overlays?variant=50273887649985)
     Availability: Available
-    Price: $117.04 USD
+    Price: $120.16 USD
 - [IKEA Storklinta Wood Overlays – Patterned Panels for Dresser Fronts](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels): Upgrade your dresser with premium self-adhesive oak wood panels for an IKEA Storklinta hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-09-04T07:41:23Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: IKEA Storklinta Dresser 13
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/294.png?v=1786621545
   - [1 drawer](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=48641244528833)
     Availability: Available
-    Price: $26.51 USD
+    Price: $27.21 USD
   - [2 drawers 40 cm wide](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=48641244889281)
     Availability: Available
-    Price: $34.84 USD
+    Price: $35.77 USD
   - [2 drawers 50 cm wide](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=50522355400897)
     Availability: Available
-    Price: $30.63 USD
+    Price: $31.44 USD
   - [3 drawers](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=48641245184193)
     Availability: Available
-    Price: $65.90 USD
+    Price: $67.65 USD
   - [4 drawers](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=48641245479105)
     Availability: Available
-    Price: $80.29 USD
+    Price: $82.43 USD
   - [5 drawers](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=48641245774017)
     Availability: Available
-    Price: $92.41 USD
+    Price: $94.87 USD
   - [6 drawes Long](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=49450136338625)
     Availability: Available
-    Price: $115.14 USD
+    Price: $118.21 USD
   - [6 chest drawers tall](https://artvoom.com/products/ikea-storklinta-dresser-overlays-patterned-wood-panels?variant=50273848066241)
     Availability: Available
-    Price: $77.25 USD
+    Price: $79.31 USD
 - [Wooden Pendant Fixture – Modern Designer Slats Chandelier](https://artvoom.com/products/rounded-wooden-pendant-lamp-fixture): Upgrade your space with an eco-friendly rounded wood slatted pendant light. Tool-free assembly, E26/E27 compatible. Beautiful play of light and curved shadow.
-  Updated: 2026-07-19T09:04:51Z
+  Updated: 2026-10-05T17:20:13Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wooden-round-pendant-lamp-made-of-slats-rounded-corners-190342.jpg?v=1744493830
   - [11.8" / 30 cm](https://artvoom.com/products/rounded-wooden-pendant-lamp-fixture?variant=50301291561153)
     Availability: Available
-    Price: $147.75 USD
+    Price: $151.69 USD
   - [19.6"/ 50cm](https://artvoom.com/products/rounded-wooden-pendant-lamp-fixture?variant=48974183596225)
     Availability: Available
-    Price: $225.00 USD
+    Price: $231.00 USD
   - [29" / 74cm](https://artvoom.com/products/rounded-wooden-pendant-lamp-fixture?variant=48974183628993)
     Availability: Available
-    Price: $307.50 USD
+    Price: $315.70 USD
 - [Wooden Plant Pot Topper | Decorative Planter Cover](https://artvoom.com/products/wooden-plant-pot-topper): Decorative wooden plant pot toppers for indoor planters. Helps cover soil, protect plants from pets and children, and improve modern interior styling.
-  Updated: 2026-07-11T07:38:17Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: Plant pot cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/plant-pot-cover-wood-mulch-ring-of-oak-veneer-5988661.jpg?v=1761349914
   - [Set of 5 (20cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621487297)
     Availability: Available
-    Price: $39.02 USD
+    Price: $40.06 USD
   - [Set of 4 (25 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621520065)
     Availability: Available
-    Price: $48.20 USD
+    Price: $49.48 USD
   - [Set of 4 (24 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621552833)
     Availability: Available
-    Price: $47.43 USD
+    Price: $48.70 USD
   - [Set of 4 (23 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621585601)
     Availability: Available
-    Price: $45.14 USD
+    Price: $46.34 USD
   - [Set of 4 (22 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621618369)
     Availability: Available
-    Price: $42.84 USD
+    Price: $43.99 USD
   - [Set of 4 (21 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621651137)
     Availability: Available
-    Price: $41.31 USD
+    Price: $42.41 USD
   - [Set of 3 (33 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621683905)
     Availability: Available
-    Price: $64.26 USD
+    Price: $65.98 USD
   - [Set of 3 (32 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621716673)
     Availability: Available
-    Price: $62.73 USD
+    Price: $64.41 USD
   - [Set of 3 (31 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621749441)
     Availability: Available
-    Price: $60.44 USD
+    Price: $62.05 USD
   - [Set of 3 (30 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621782209)
     Availability: Available
-    Price: $58.14 USD
+    Price: $59.69 USD
   - [Set of 3 (29 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621814977)
     Availability: Available
-    Price: $56.61 USD
+    Price: $58.12 USD
   - [Set of 3 (28 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621847745)
     Availability: Available
-    Price: $54.32 USD
+    Price: $55.77 USD
   - [Set of 3 (27 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621880513)
     Availability: Available
-    Price: $52.02 USD
+    Price: $53.41 USD
   - [Set of 3 (26 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621913281)
     Availability: Available
-    Price: $50.49 USD
+    Price: $51.84 USD
   - [Set of 2 (50 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621946049)
     Availability: Available
-    Price: $96.39 USD
+    Price: $98.96 USD
   - [Set of 2 (49 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622621978817)
     Availability: Available
-    Price: $94.10 USD
+    Price: $96.61 USD
   - [Set of 2 (48 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622011585)
     Availability: Available
-    Price: $91.80 USD
+    Price: $94.25 USD
   - [Set of 2 (47 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622044353)
     Availability: Available
-    Price: $90.27 USD
+    Price: $92.68 USD
   - [Set of 2 (46 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622077121)
     Availability: Available
-    Price: $87.98 USD
+    Price: $90.32 USD
   - [Set of 2 (45 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622109889)
     Availability: Available
-    Price: $85.68 USD
+    Price: $87.97 USD
   - [Set of 2 (44 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622142657)
     Availability: Available
-    Price: $84.92 USD
+    Price: $87.18 USD
   - [Set of 2 (43 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622175425)
     Availability: Available
-    Price: $82.62 USD
+    Price: $84.83 USD
   - [Set of 2 (42 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622208193)
     Availability: Available
-    Price: $81.09 USD
+    Price: $83.26 USD
   - [Set of 2 (41 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622240961)
     Availability: Available
-    Price: $78.80 USD
+    Price: $80.90 USD
   - [Set of 2 (40 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622273729)
     Availability: Available
-    Price: $76.50 USD
+    Price: $78.54 USD
   - [Set of 2 (39 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622306497)
     Availability: Available
-    Price: $75.74 USD
+    Price: $77.76 USD
   - [Set of 2 (38 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622339265)
     Availability: Available
-    Price: $73.44 USD
+    Price: $75.40 USD
   - [Set of 2 (37 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622372033)
     Availability: Available
-    Price: $71.91 USD
+    Price: $73.83 USD
   - [Set of 2 (36 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622404801)
     Availability: Available
-    Price: $69.62 USD
+    Price: $71.47 USD
   - [Set of 2 (35 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622437569)
     Availability: Available
-    Price: $67.32 USD
+    Price: $69.12 USD
   - [Set of 2 (34 cm)](https://artvoom.com/products/wooden-plant-pot-topper?variant=49622622470337)
     Availability: Available
-    Price: $66.56 USD
+    Price: $68.33 USD
 - [Minimalist Wooden Wall Clock | Silent Timber Decor](https://artvoom.com/products/wooden-wall-clock): Upgrade your space with an eco-friendly wooden wall clock made of natural oak veneer. Silent non-ticking quartz mechanism, multiple sizes. Modern design.
-  Updated: 2026-07-17T20:25:36Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: Wooden wall clock
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wooden-wall-clock-2119474.webp?v=1761349910
   - [30 cm](https://artvoom.com/products/wooden-wall-clock?variant=49622630203585)
     Availability: Available
-    Price: $43.80 USD
+    Price: $44.96 USD
   - [40 cm](https://artvoom.com/products/wooden-wall-clock?variant=49622630498497)
     Availability: Available
-    Price: $56.42 USD
+    Price: $57.92 USD
   - [50 cm](https://artvoom.com/products/wooden-wall-clock?variant=49622630793409)
     Availability: Available
-    Price: $76.50 USD
+    Price: $78.54 USD
 - [Semicircle Wooden Wall Art Panels - Abstract Art Installation](https://artvoom.com/products/semicircle-wooden-wall-art-panels-set): Elevate any room and design style with a premium wood semicircle wall art set. Create a custom 3D geometric installation. Real oak veneer, pre-applied tape.
-  Updated: 2026-07-10T13:40:29Z
+  Updated: 2026-10-16T14:54:50Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_fullxfull.6897554504_5z38.avif?v=1779810891
-  Price: $40.55 USD
+  Price: $41.63 USD
 - [Hexagon Wooden Wall Art Panels | Universal Geometric Honeycomb Shapes](https://artvoom.com/products/hexagon-wooden-wall-art-panels-set): Elevate any room and design style with a premium wood hexagon wall art set. Create a custom 3D geometric installation. Real oak veneer, pre-applied tape.
-  Updated: 2026-07-10T13:40:30Z
+  Updated: 2026-10-16T14:54:50Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/set-of-7-hexagons-boho-geometric-wall-decor-6690115.jpg?v=1761349912
-  Price: $40.55 USD
+  Price: $41.63 USD
 - [Drop Wooden Wall Art Panels | Geometric Abstract Accent Decor Shapes](https://artvoom.com/products/drop-wooden-wall-art-panels-set): Replace flat paintings with a premium modular wood drop wall art set. Create a stunning 3D geometric focal point or luxury TV zone. Real oak veneer.
-  Updated: 2026-07-10T13:40:30Z
+  Updated: 2026-10-16T14:54:51Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/drop-wooden-wall-art-panels-geometric-set-for-feature-wall-installation-1967592.jpg?v=1779819728
-  Price: $40.55 USD
+  Price: $41.63 USD
 - [Arch Wooden Wall Panels | Geometric Multi Size Accent Decor](https://artvoom.com/products/arch-wooden-wall-panels-set): Create a beautiful boho accent wall or luxury TV zone with multi-size wood arch panels. Mix colors, real oak veneer, pre-applied tape. Structural DIY set.
-  Updated: 2026-07-10T13:40:31Z
+  Updated: 2026-10-16T14:54:51Z
   Vendor: Artvoom
   Product Type: Geometric Wall Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/arches-wooden-wall-panels-7174523.webp?v=1761349913
   - [arch (S)](https://artvoom.com/products/arch-wooden-wall-panels-set?variant=49622643409089)
     Availability: Available
-    Price: $93.00 USD
+    Price: $95.48 USD
   - [arch (L)](https://artvoom.com/products/arch-wooden-wall-panels-set?variant=49622679421121)
     Availability: Available
-    Price: $107.10 USD
+    Price: $109.96 USD
   - [Set (two arches S+L)](https://artvoom.com/products/arch-wooden-wall-panels-set?variant=49622679716033)
     Availability: Available
-    Price: $183.61 USD
+    Price: $188.51 USD
 - [Dresser aluminum handles - Brushed Rose Gold & Black](https://artvoom.com/products/dresser-aluminum-handles): Explore our Dresser aluminum handles in brushed rose gold and black, perfect for enhancing your furniture. Stylish, durable, and easy to install.
-  Updated: 2026-09-04T07:49:19Z
+  Updated: 2026-10-03T09:26:57Z
   Vendor: Artvoom
   Product Type: Dresser aluminum handles 11
   Availability: Available
@@ -1176,128 +1212,128 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/christmas-houses-tree-decoration-3078844.jpg?v=1761681333
     Price: $40.80 USD
 - [Wood Plant Pot Cover for Indoor Plants | Artvoom](https://artvoom.com/products/decorative-wood-planter-cover): Decorative wood plant pot covers for indoor plants. Helps protect soil from pets and children, hides plastic pots, and adds a natural wood accent to modern interiors.
-  Updated: 2026-08-28T22:32:20Z
+  Updated: 2026-10-17T22:27:37Z
   Vendor: Artvoom
   Product Type: Plant pot cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/plant-pot-cover-wood-mulch-ring-of-oak-veneer-6741444.webp?v=1761349915
   - [Set of 5 (20cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260193870017)
     Availability: Available
-    Price: $31.21 USD
+    Price: $32.04 USD
   - [Set of 4 (25 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260193902785)
     Availability: Available
-    Price: $38.55 USD
+    Price: $39.58 USD
   - [Set of 4 (24 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260193935553)
     Availability: Available
-    Price: $37.95 USD
+    Price: $38.96 USD
   - [Set of 4 (23 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260193968321)
     Availability: Available
-    Price: $36.11 USD
+    Price: $37.07 USD
   - [Set of 4 (22 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194001089)
     Availability: Available
-    Price: $34.27 USD
+    Price: $35.18 USD
   - [Set of 4 (21 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194033857)
     Availability: Available
-    Price: $33.05 USD
+    Price: $33.93 USD
   - [Set of 3 (33 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194066625)
     Availability: Available
-    Price: $51.41 USD
+    Price: $52.78 USD
   - [Set of 3 (32 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194099393)
     Availability: Available
-    Price: $50.19 USD
+    Price: $51.52 USD
   - [Set of 3 (31 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194132161)
     Availability: Available
-    Price: $48.35 USD
+    Price: $49.64 USD
   - [Set of 3 (30 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194164929)
     Availability: Available
-    Price: $46.51 USD
+    Price: $47.75 USD
   - [Set of 3 (29 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194197697)
     Availability: Available
-    Price: $45.29 USD
+    Price: $46.50 USD
   - [Set of 3 (28 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194230465)
     Availability: Available
-    Price: $43.45 USD
+    Price: $44.61 USD
   - [Set of 3 (27 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194263233)
     Availability: Available
-    Price: $41.61 USD
+    Price: $42.72 USD
   - [Set of 3 (26 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194296001)
     Availability: Available
-    Price: $40.39 USD
+    Price: $41.47 USD
   - [Set of 2 (50 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194328769)
     Availability: Available
-    Price: $77.11 USD
+    Price: $79.17 USD
   - [Set of 2 (49 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194361537)
     Availability: Available
-    Price: $75.27 USD
+    Price: $77.28 USD
   - [Set of 2 (48 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194394305)
     Availability: Available
-    Price: $73.44 USD
+    Price: $75.39 USD
   - [Set of 2 (47 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194427073)
     Availability: Available
-    Price: $72.21 USD
+    Price: $74.14 USD
   - [Set of 2 (46 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194459841)
     Availability: Available
-    Price: $70.38 USD
+    Price: $72.25 USD
   - [Set of 2 (45 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194492609)
     Availability: Available
-    Price: $68.55 USD
+    Price: $70.37 USD
   - [Set of 2 (44 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194525377)
     Availability: Available
-    Price: $67.93 USD
+    Price: $69.74 USD
   - [Set of 2 (43 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194558145)
     Availability: Available
-    Price: $66.09 USD
+    Price: $67.86 USD
   - [Set of 2 (42 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194590913)
     Availability: Available
-    Price: $64.87 USD
+    Price: $66.60 USD
   - [Set of 2 (41 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194623681)
     Availability: Available
-    Price: $63.03 USD
+    Price: $64.71 USD
   - [Set of 2 (40 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194656449)
     Availability: Available
-    Price: $61.20 USD
+    Price: $62.83 USD
   - [Set of 2 (39 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194689217)
     Availability: Available
-    Price: $60.59 USD
+    Price: $62.20 USD
   - [Set of 2 (38 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194721985)
     Availability: Available
-    Price: $58.75 USD
+    Price: $60.32 USD
   - [Set of 2 (37 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194754753)
     Availability: Available
-    Price: $57.53 USD
+    Price: $59.06 USD
   - [Set of 2 (36 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194787521)
     Availability: Available
-    Price: $55.69 USD
+    Price: $57.18 USD
   - [Set of 2 (35 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194820289)
     Availability: Available
-    Price: $53.85 USD
+    Price: $55.29 USD
   - [Set of 2 (34 cm)](https://artvoom.com/products/decorative-wood-planter-cover?variant=50260194853057)
     Availability: Available
-    Price: $53.25 USD
+    Price: $54.67 USD
 [List Continued](https://artvoom.com/a/llms-agent/llms.txt?shop=artvoom.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDk4NTI4NzE4ODY3MywibGFzdF92YWx1ZSI6IjEwOTg1Mjg3MTg4NjczIn0%3D)
 
 ## Collections
 
 - [ALL PRODUCTS](https://artvoom.com/collections/all-products): Explore ALL PRODUCTS for stunning wood wall decor that adds warmth and style to your space. Discover oak panels, cladding, and unique combinations today!
-  Updated: 2026-09-08T11:11:10Z
-  Total Products: 32
+  Updated: 2026-10-22T11:11:35Z
+  Total Products: 33
 - [Furniture Overlays & Wooden Panels for Custom IKEA Hacks](https://artvoom.com/collections/furniture-overlay-panels-ikea-hacks): Explore IKEA furniture customization with premium overlays and wooden panels. Transform your space with exclusive, high-end designs for IKEA hacks.
-  Updated: 2026-09-08T11:11:10Z
-  Total Products: 20
+  Updated: 2026-10-22T11:11:35Z
+  Total Products: 21
 - [Architectural Wooden Lighting](https://artvoom.com/collections/wood-pendant-light): Discover our Wood pendant light, perfect for adding a unique touch to your interior. Easy to assemble and eco-friendly, it enhances your space beautifully.
-  Updated: 2026-07-25T11:12:08Z
+  Updated: 2026-10-15T11:11:20Z
   Total Products: 5
 - [Geometric Wooden Wall Panels | Modern Architectural Shapes for Interiors](https://artvoom.com/collections/geometric-wooden-wall-panels): Discover premium geometric wooden wall panels in natural oak veneer. Semicircles, arches, chevrons, and waves for modern Japandi and minimalist interiors.
-  Updated: 2026-08-04T11:11:01Z
+  Updated: 2026-10-05T17:20:33Z
   Total Products: 14
 - [Plant Pot Covers & Wood Planters](https://artvoom.com/collections/plant-pot-covers-wood-planters): Explore decorative plant pot covers, wood planters, and modern indoor plant decor designed to bring natural textures and minimalist styling into your interior. Artvoom creates decorative wood accessories using real wood veneer materials inspired by Scandinavian, Japandi, modern, and organic interior design trends.These decorative plant covers help protect plant pots from pets and children, hide ordinary plastic pots, and make interiors look more premium and stylish. Some models can also be used as small side tables, decorative stands, or interior accent pieces for modern spaces.Many models can be customized in size and produced larger than 50 cm (19.7 inches) in diameter or width for large plants and interior projects. In the future, this collection will also include additional wooden solutions for plants and interior decor. If you have a custom request or would like multiple products made from the same material and in a matching style, please contact us at: admin@artvoom.com Perfect for shelves, living rooms, bedrooms, coffee corners, window areas, Airbnb interiors, and modern interior styling projects.
-  Updated: 2026-09-01T11:12:04Z
+  Updated: 2026-10-17T11:14:41Z
   Total Products: 3
 - [Wooden Wall Clocks | Design Accents for Living Room & Office](https://artvoom.com/collections/wooden-wall-clocks-design-accents-for-living-room-office): In modern interior design, a wall clock is far more than a functional tool to track hours—it is a powerful statement piece that defines the character of your entire space. This premium collection of wooden wall clocks features our distinctive vertical slatted aesthetic crafted from natural oak veneer, bringing stunning architectural depth, organic warmth, and rich 3D texture to your home. Designed to serve as a majestic focal point on any empty wall, these timepieces effortlessly elevate plain surfaces into curated designer highlights during any home renovation or style refresh. Engineered for seamless integration into Japandi, Scandinavian, Modern Minimalist, and Mid-Century Modern spaces, each clock operates completely soundlessly thanks to a high-precision silent quartz mechanism. This makes them the perfect luxury addition not only for lively dining rooms and living areas but also for master bedrooms, quiet nurseries, and professional home offices where absolute tranquility is required. Available in multiple dimensions and sophisticated finishes, this collection perfectly coordinates with our wall and furniture paneled ecosystems to tie your whole home together with balanced geometric precision.
-  Updated: 2026-07-10T13:40:49Z
+  Updated: 2026-10-05T17:20:16Z
   Total Products: 1
 - [Premium Natural Oak Wall Slats & Linear Timber Panels](https://artvoom.com/collections/premium-natural-oak-wall-slats-linear-panels): Shop premium natural oak wall slats. Narrow, wide, and custom lengths available. Easy peel-and-stick mounting for any room and design style. Shop now!
-  Updated: 2026-08-22T11:12:33Z
+  Updated: 2026-10-13T11:09:31Z
   Total Products: 4
 
 ## Blogs
@@ -2347,15 +2383,15 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
 ## Policies
 
 - [Privacy Policy](https://artvoom.com/policies/privacy-policy)
-  Updated: 2026-06-09T21:41:26+03:00
+  Updated: 2026-06-09T18:41:26Z
 - [Shipping Policy](https://artvoom.com/policies/shipping-policy)
-  Updated: 2026-06-09T22:11:01+03:00
+  Updated: 2026-06-09T19:11:01Z
 - [Refund Policy](https://artvoom.com/policies/refund-policy)
-  Updated: 2026-06-20T11:38:58+03:00
+  Updated: 2026-06-20T08:38:58Z
 - [Terms of Service](https://artvoom.com/policies/terms-of-service)
-  Updated: 2022-08-11T20:18:47+03:00
+  Updated: 2022-08-11T17:18:47Z
 - [Contact Information](https://artvoom.com/policies/contact-information)
-  Updated: 2026-06-09T22:11:25+03:00
+  Updated: 2026-06-09T19:11:25Z
 
 Resource Center
 
