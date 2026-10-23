@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2021-09-09T14:00:46Z
 - Contact Email: Info@solextacy.com
-- Updated At: 2026-08-04T00:00:39.988Z
+- Updated At: 2026-10-23T00:57:32.078Z
 
 ## Products
 
 - [Pearl Embellished Heels | High Heels Shoes | SoleXtacy](https://solextacy.com/products/white-pearl-encrusted-heel): You can wear these Pearl embellished Heels at any formal event like weddings, ceremonies, anniversaries, baby showers, and so much more. Shop now at our store SoleXtacy!
-  Updated: 2026-07-17T18:50:02Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: White Elegant
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_07f30d64-8617-48ab-8857-0d3536762eff.jpg?v=1631520409
     Price: $79.99 USD
 - [Pearl Wedding Shoes | High Heel Shoes | SoleXtacy](https://solextacy.com/products/lucite-pearl-encrusted-heel): Elevate your style with Cinxia clear lucite pearl shoes. Exquisite and elegant formal footwear for a glamorous look.
-  Updated: 2026-07-15T07:37:47Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: solextacy
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_d3b461d5-2789-4505-a790-3635c3ed0e64.jpg?v=1631520862
     Price: $79.99 USD
 - [Satin Platform Shoes | Pearl Shoes | SoleXtacy](https://solextacy.com/products/fayanna): Fayana pearl studded white satin platform shoes shimmer with every step. Cushioned & glamorous — the ultimate formal platform heel. Shop SoleXtacy!
-  Updated: 2026-07-17T08:02:19Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -128,7 +128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/77BBD04B-78E1-4EDF-9D43-AAFDC77F0481.jpg?v=1781046906
     Price: $49.00 USD
 - [Leather Platform Shoes | Women's Shoes | SoleXtacy](https://solextacy.com/products/electra): Step up your style game with spike studded shoes by Electra. These patent leather platforms are the perfect blend of edgy and chic, offering comfortable high heels.
-  Updated: 2026-07-15T15:00:32Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -162,7 +162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/5D25F183-2A11-4A3A-AA21-E1CC0B6C83EE.jpg?v=1781046906
     Price: $79.99 USD
 - [Rosetta Rose Stiletto Sandals | Formal Heels | SoleXtacy](https://solextacy.com/products/rosetta): Bloom in elegance with Rosetta's rose-adorned 2" stiletto sandals. Stunning formal footwear for weddings & special events. Shop SoleXtacy!
-  Updated: 2026-07-15T15:24:34Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: White Elegant
   Availability: Available
@@ -196,63 +196,63 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_8f8305c0-b7d9-4eeb-badd-542b91753010.jpg?v=1781046906
     Price: $79.99 USD
 - [Pearl Clutch Bag | White Pearl Clutch | SoleXtacy](https://solextacy.com/products/hand-beaded-clutch): Clutch Your Pearls — a stunning white pearl clutch bag that pairs perfectly with pearl shoes. Classic, elegant evening bag for formal occasions.
-  Updated: 2026-06-28T06:12:10Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/B051F609-B0DF-4201-8C6B-F7AA89D13616.jpg?v=1781046907
   Price: $40.00 USD
 - [Pearl Heart Bag | Heart Shaped Pearl Bag | SoleXtacy](https://solextacy.com/products/lovely): Lovely pearl heart bag is a fashionable heart-shaped evening clutch for formal occasions. A charming, eye-catching accessory that completes any look.
-  Updated: 2026-06-28T06:13:56Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_a30fc2c1-4edc-4bdc-b986-c0e4efafd326.jpg?v=1781046906
   Price: $40.00 USD
 - [White Silk Gloves | White Sheer Gloves | SoleXtacy](https://solextacy.com/products/olivia): Olivia white sheer pearl full-fingered gloves are silky smooth & elegant. The perfect luxurious finishing touch for any formal evening look.
-  Updated: 2026-07-17T10:05:40Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/0E6FAF88-371A-4650-836F-2022757E107C.jpg?v=1781046906
   Price: $20.00 USD
 - [Red Velvet Handbag | Women's Handbag | SoleXtacy](https://solextacy.com/products/zephyr): Zephyr red velvet clutch evening bag adds a rich, glamorous glow to any formal look. A timeless must-have for your evening bag collection.
-  Updated: 2026-06-28T06:15:48Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/4B42636B-C6FD-4AE1-A4A7-176197035944.jpg?v=1650842553
   Price: $40.00 USD
 - [White Pearl Gloves | White Silk Gloves | SoleXtacy](https://solextacy.com/products/maria): These white pearl gloves are so silky smooth and comfortable, even the finest cashmere will feel inferior. The elegant look will make these classic Pearl Elegant Full-Fingered Gloves the perfect addition to your evening attire.
-  Updated: 2026-07-18T07:43:51Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image.heic?v=1656952324
   Price: $20.00 USD
 - [Women's White Gloves | Full Fingered Gloves | SoleXtacy](https://solextacy.com/products/diana): Diana white gloves with bow & pearl accents are soft, elegant, and full-fingered. The classic finishing touch for any formal evening attire.
-  Updated: 2026-07-15T07:35:53Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_44e31870-9b48-44a7-9da4-c4e5e628bf6d.jpg?v=1781046906
   Price: $20.00 USD
 - [White Silk Wedding Gloves | Full Fingered Gloves | SoleXtacy](https://solextacy.com/products/lola): These luxurious white silk wedding gloves are eye-catching masterpieces. Satin with sheer accented Full-Fingered Gloves is the finishing to your evening attire. Buy now!
-  Updated: 2026-07-16T16:33:43Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_0f6b7089-f971-4afd-ba62-a44ab54c2b62.jpg?v=1781046906
   Price: $20.00 USD
 - [Women's Princess Gloves | Princess Gloves | SoleXtacy](https://solextacy.com/products/princess): Princess gloves exude royalty with jewel accents, silky satin & sheer fabric. A luxurious, full-fingered statement piece for formal occasions.
-  Updated: 2026-07-15T23:49:52Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_0016f44b-0bb9-4eaa-97a9-823ee9415be0.jpg?v=1781046907
   Price: $20.00 USD
 - [Blossom Rose Ankle Sandals | Formal Occasion Heels | SoleXtacy](https://solextacy.com/products/blossom): Step into elegance with Blossom's rose-adorned ankle sandals. Stunning formal footwear for weddings, galas, and special occasions. Shop SoleXtacy!
-  Updated: 2026-07-18T09:11:35Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: White Elegant
   Availability: Available
@@ -279,7 +279,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Helena Pearl Satin Low Heel Shoes | Comfortable Formal Heels | SoleXtacy](https://solextacy.com/products/helena): Helena pearl-studded satin low heel shoes offer cushioned comfort and shimmer. 1-inch block heel with elegant pearl embellishments — perfect for weddings, galas & formal events.
-  Updated: 2026-08-02T11:53:37Z
+  Updated: 2026-09-23T23:07:56Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_2ce573d0-4d0a-4fe4-8b73-2378f27a07a7.jpg?v=1781046907
     Price: $49.00 USD
 - [JAYA Pearl Block Heel Sandals | Bridal Platform Shoes | SoleXtacy](https://solextacy.com/products/jaya): JAYA pearl-studded block heel sandals shimmer with every step. White satin with cushioned platform — perfect for weddings, sorority events & formal occasions.
-  Updated: 2026-07-15T07:49:13Z
+  Updated: 2026-09-23T23:10:07Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -348,14 +348,14 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_d2918fd4-004d-4a70-8bde-337f6997ffa7.jpg?v=1781046906
     Price: $49.00 USD
   - [9](https://solextacy.com/products/jaya?variant=42702932902045)
-    Availability: Available
+    Availability: Not Available
     Price: $49.00 USD
   - [10](https://solextacy.com/products/jaya?variant=42702932934813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_d2918fd4-004d-4a70-8bde-337f6997ffa7.jpg?v=1781046906
     Price: $49.00 USD
   - [11](https://solextacy.com/products/jaya?variant=42702932967581)
-    Availability: Available
+    Availability: Not Available
     Price: $49.00 USD
   - [12](https://solextacy.com/products/jaya?variant=42702933000349)
     Availability: Available
@@ -375,7 +375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_d2918fd4-004d-4a70-8bde-337f6997ffa7.jpg?v=1781046906
     Price: $49.00 USD
 - [Marcela Princess Gloves | Bow & Pearl Formal Gloves | SoleXtacy](https://solextacy.com/products/marcella): Marcela princess gloves feature bow & pearl accents on silky satin & sheer fabric. Elegant full-fingered gloves for weddings, galas & formal occasions.
-  Updated: 2026-07-16T17:29:14Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -389,14 +389,14 @@
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_6f387515-3fd1-4856-9dc0-a9bbeec84bcd.heic?v=1666577708
   Price: $20.00 USD
 - [Tyana Pearl Satin Gloves | Full-Fingered Formal Gloves | SoleXtacy](https://solextacy.com/products/tyana): Tyana pearl satin full-fingered gloves are silky smooth & luxurious. The perfect elegant finishing touch for weddings, galas & formal evening attire.
-  Updated: 2026-07-17T20:52:01Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_047b0866-9d06-4536-801a-e8afc3865eef.jpg?v=1781046906
   Price: $20.00 USD
 - [Shirley White Fluffy Heels | Pearl Heel Accent Formal Shoes | SoleXtacy](https://solextacy.com/products/shirley): Shirley white fluffy heels feature a sparkling pearl heel accent & low block heel. Chic, comfortable formal shoes for weddings, galas & sorority events.
-  Updated: 2026-07-15T05:43:46Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: solextacy
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@
     Availability: Available
     Price: $59.99 USD
 - [Crystal Clutch Evening Bag | Gemstone Purse | SoleXtacy](https://solextacy.com/products/lyra): Shop Lyra crystal clutch bags featuring a stunning sunflower gemstone design. Available in 6 colors — perfect for formal events. Shop SoleXtacy!
-  Updated: 2026-06-24T16:38:55Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -465,7 +465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_5086d278-6977-4be0-818a-276289a988a9.jpg?v=1781046906
     Price: $40.00 USD
 - [Jazmene White Fluffy Wedding Heels | Feather Heels | SoleXtacy](https://solextacy.com/products/jazmene-2): Step into elegance with Jazmene's white fluffy wedding heels. Feathery, glamorous & comfortable — the perfect bridal shoe for your special day.
-  Updated: 2026-07-18T05:21:45Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: solextacy
   Product Type: 
   Availability: Available
@@ -513,7 +513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_474d3f21-5f04-4b59-9331-912ec03edf29.heic?v=1680577379
     Price: $79.99 USD
 - [Kanzashi Ribbon Flower Corsage & Shoe Clips | SoleXtacy](https://solextacy.com/products/kanzashi): Handcrafted Kanzashi satin ribbon flower corsages and shoe clips with pearl & rhinestone detail. Perfect for sorority events and formal occasions.
-  Updated: 2026-07-15T08:25:22Z
+  Updated: 2026-08-06T06:27:48Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -569,7 +569,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Ms Pearly Pearl Heel Pumps | Women's Heels | SoleXtacy](https://solextacy.com/products/miss-pearly): Shop Ms Pearly pearl strand pumps in Blue, Red & Green. Sizes 5–12 with half sizes. Cushioned matte leather heels for elegant comfort. SoleXtacy.
-  Updated: 2026-07-18T12:00:36Z
+  Updated: 2026-08-06T06:27:49Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -775,7 +775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/files/image_5194da5f-b3eb-40a4-bdad-e04a1ebbc4fe.jpg?v=1781046907
     Price: $79.99 USD
 - [Ms Pearly White Pearl Heel Pumps | Bridal Heels | SoleXtacy](https://solextacy.com/products/miss-pearly-white-only-pre-order): Elevate your bridal look with Ms Pearly White pearl strand pumps. Low & high heel options, sizes 5–12 with half sizes. Shop SoleXtacy today!
-  Updated: 2026-07-17T07:35:06Z
+  Updated: 2026-08-06T06:27:50Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -901,14 +901,14 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/files/shoe2.jpg?v=1781046906
     Price: $69.99 USD
 - [White Leather Logo Tote Bag | Embossed Shopper | SoleXtacy](https://solextacy.com/products/white-tote): Elegant white leather tote with embossed SoleXtacy logo. Adjustable strap, zip interior pocket. 8.2"H x 13.3"W x 3.3"D. Pre-order now at SoleXtacy!
-  Updated: 2026-06-27T17:54:51Z
+  Updated: 2026-08-06T06:27:50Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/files/IMG-3037.jpg?v=1781046907
   Price: $150.00 USD
 - [Spiked Red Bottom White Leather Tote | Bold Evening Bag | SoleXtacy](https://solextacy.com/products/spiked-red-bottom-tote): Bold white calf leather tote with metallic spike handles, red lining & detachable clutch pouch. A statement bag for the fearlessly elegant. Pre-order at SoleXtacy!
-  Updated: 2026-06-27T17:55:12Z
+  Updated: 2026-08-09T13:35:27Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -918,13 +918,13 @@
 ## Collections
 
 - [Heels](https://solextacy.com/collections/heels): Shop SoleXtacy's luxury formal heels — pearl pumps, platform heels, and elegant stilettos for weddings, galas, sorority events, church, and every special occasion.
-  Updated: 2026-08-03T11:06:25Z
+  Updated: 2026-09-02T11:06:16Z
   Total Products: 14
 - [Elegant Handbags](https://solextacy.com/collections/elegant-handbags): Shop SoleXtacy's luxury evening bags and clutches — pearl clutches, sphere bags, and formal minaudieres for weddings, galas, sorority events, and church occasions.
-  Updated: 2026-06-27T19:24:04Z
+  Updated: 2026-08-10T11:06:23Z
   Total Products: 7
 - [Best Sellers](https://solextacy.com/collections/best-sellers): Shop SoleXtacy's best- formal heels, evening bags, and gloves — the most-loved styles for weddings, galas, church events, sorority conferences, and more.
-  Updated: 2026-08-03T11:06:25Z
+  Updated: 2026-09-02T11:06:16Z
   Total Products: 12
 - [Gloves](https://solextacy.com/collections/gloves): Shop SoleXtacy's luxury formal gloves — pearl, satin, rhinestone, and sheer styles for weddings, galas, church events, sorority conferences, and Masonic occasions.
   Updated: 2026-08-03T11:06:25Z
@@ -933,7 +933,7 @@
   Updated: 2026-06-27T19:25:56Z
   Total Products: 3
 - [Bela Collection](https://solextacy.com/collections/bela-collection): Shop the SoleXtacy Bela Collection — bold, glamorous formal heels and accessories for galas, award ceremonies, sorority boules, and retirement celebrations.
-  Updated: 2026-08-03T11:06:25Z
+  Updated: 2026-09-02T11:06:16Z
   Total Products: 24
 - [Spiked Tote (Cabata Inspired)](https://solextacy.com/collections/spiked-tote-cabata-inspired): Signature metallic spikes encircling the handles, a bold sneaker sole and Loubi red lining. It is crafted in grained white leather and features a detachable pouch that can be carried as a clutch. - Dimensions : H 29 x L 39 x W 16 cm
   Updated: 2026-06-14T08:10:30Z
@@ -942,13 +942,13 @@
   Updated: 2026-06-27T19:31:35Z
   Total Products: 6
 - [Church Elegance Collection](https://solextacy.com/collections/church-elegance-collection): Shop the SoleXtacy Church Elegance Collection — refined heels, pearl clutch, and gloves for Women's Day, First Lady events, Sunday service, and church milestones.
-  Updated: 2026-08-03T11:06:25Z
+  Updated: 2026-09-02T11:06:16Z
   Total Products: 6
 - [First Lady Collection](https://solextacy.com/collections/first-lady-collection): Shop the SoleXtacy First Lady Collection — statement heels, pearl sphere bag, and rhinestone gloves for First Lady Anniversary events and formal occasions.
   Updated: 2026-06-27T19:33:12Z
   Total Products: 5
 - [Sorority Conference Collection](https://solextacy.com/collections/sorority-conference-collection): Shop the SoleXtacy Sorority Conference Collection — coordinated heels, bags, and gloves for boules, regional conferences, grand sessions, and sorority events.
-  Updated: 2026-06-27T19:33:58Z
+  Updated: 2026-09-02T11:06:16Z
   Total Products: 6
 - [Grand Session & Boule Collection](https://solextacy.com/collections/grand-session-boule-collection): Shop the SoleXtacy Grand Session & Boule Collection — luxury heels, bags, and gloves for national boules, grand sessions, and formal organizational convocations.
   Updated: 2026-06-27T19:37:51Z
@@ -988,13 +988,13 @@
 ## Policies
 
 - [Privacy Policy](https://solextacy.com/policies/privacy-policy)
-  Updated: 2021-09-10T22:12:08-04:00
+  Updated: 2021-09-11T02:12:08Z
 - [Shipping Policy](https://solextacy.com/policies/shipping-policy)
-  Updated: 2022-03-02T15:48:54-05:00
+  Updated: 2022-03-02T20:48:54Z
 - [Refund Policy](https://solextacy.com/policies/refund-policy)
-  Updated: 2021-09-12T10:23:50-04:00
+  Updated: 2021-09-12T14:23:50Z
 - [Terms of Service](https://solextacy.com/policies/terms-of-service)
-  Updated: 2021-09-10T22:12:16-04:00
+  Updated: 2021-09-11T02:12:16Z
 
 ## Optional
 
