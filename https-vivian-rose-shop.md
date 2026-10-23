@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-12-06T02:03:24Z
 - Contact Email: hello@vivian-rose.shop
-- Updated At: 2026-10-15T00:00:29.647Z
+- Updated At: 2026-10-23T00:30:30.177Z
 
 ## Products
 
@@ -68,14 +68,14 @@
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/products/pink-hydrangea-arrangement-in-glass-vase-vivian-rose.jpg?v=1609440393
   Price: $325.00 USD
 - [Artificial snake plant in black pot - 28" | Artificial plants](https://vivian-rose.shop/products/artificial-snake-plant-in-chic-black-planter-28): This 28" artificial sansevieria snake plant is styled in a sleek black planter adding a desert chic vibe to the home. Realistic and no maintenance required.
-  Updated: 2026-10-10T15:25:09Z
+  Updated: 2026-10-18T16:22:50Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Artificial Flora
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/products/ScreenShot2021-05-01at7.14.38PM.jpg?v=1619915401
-  Price: $145.00 USD
+  Price: $149.99 USD
 - [Succulent mix In bowl | Artificial succulents](https://vivian-rose.shop/products/succulent-mix-in-bowl): The stone bowl holds mini succulents on the outer ring and three large echeveria succulents in the center, all sitting on an artificial moss bed. | Succulent mix in bowl
-  Updated: 2026-10-10T15:25:08Z
+  Updated: 2026-10-18T16:33:04Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Artificial Flora
   Availability: Available
@@ -152,6 +152,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/products/artificialferninbasket-fauxfern.jpg?v=1648668781
   Price: $140.00 USD
+- [Realistic artificial boxwood plant in concrete pot - 8"](https://vivian-rose.shop/products/artificial-boxwood-plant-in-concrete-pot): This cute artificial boxwood plant is styled in a small concrete planter for a chic and minimalist vibe. Very realistic artificial plant for your home.
+  Updated: 2026-10-18T09:06:39Z
+  Vendor: Vivian Rose Shop
+  Product Type: Home & Garden > Decor > Artificial Flora
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/products/smallboxwoodplantminimalistplant.jpg?v=1648996252
+  Price: $28.00 USD
 - [Faux Potted Orchid Plant - White Phalaenopsis Orchid - 21"](https://vivian-rose.shop/products/faux-potted-orchid-plant-white-phalaenopsis-orchid-in-black-pot): Beautiful single stem faux potted orchid plant; handcrafted and styled in a gorgeous black planter. Low maintenance floral decor, orchid blooms year round!
   Updated: 2026-10-11T03:07:02Z
   Vendor: Vivian Rose Shop
@@ -405,7 +412,7 @@
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/white_peonies.jpg?v=1775480597
   Price: $215.00 USD
 - [Artificial Fiddle Leaf Fig Tree - 38"](https://vivian-rose.shop/products/artificial-fiddle-leaf-fig-tree-38): Artificial Fig Tree Brighten any corner of your home with this beautiful, realistic fiddle leaf fig tree! This indoor house plant is truly the perfect floor plant and goes well with any style. - No maintenance greenery - Stylish and complimentary to any room - Lifelike and natural appearance - Perfect as an Office Plant or Indoor House Plant 38" H
-  Updated: 2026-10-11T03:06:57Z
+  Updated: 2026-10-19T02:10:51Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -434,35 +441,35 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/boxwood_wreath.jpg?v=1765302660
     Price: $125.00 USD
 - [Ficus Tree Drop In 51"](https://vivian-rose.shop/products/ficus-tree-drop-in-51): This realistic ficus tree is a a drop-in no-maintenance work of art. Add this indoor faux tree to any space to bring a touch of nature indoors.
-  Updated: 2026-10-11T03:06:56Z
+  Updated: 2026-10-18T14:25:10Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/ficus_tree.jpg?v=1765302505
   Price: $625.00 USD
 - [Artificial Olive Tree 82"](https://vivian-rose.shop/products/artificial-olive-tree-82): Indoor Olive Tree This popular olive artificial tree is the perfect vertical accent for your home, standing tall at 82". Light, thin and airy, many love this tree for its sophisticated, yet rustic look and feel. Adorned with faux olives, very lifelike giving Italian countryside feels. Enhance the beauty of your home by adding this artificial olive tree to any corner of your space. We recommend a natural basket or any planter that blends with your existing décor. This faux tree gives boho, minimalist, rustic or Tuscan vibes. Very versatile, ideal in a home with tall ceilings. Low maintenance care: To ensure your new artificial olive tree always looks fresh, dust once a month with a feather duster. 24w x 82h x 16d " This item is Final .
-  Updated: 2026-10-11T03:06:56Z
+  Updated: 2026-10-18T15:46:26Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-82-olive-artificial-tree-nearly-natural-824108.jpg?v=1765321182
   Price: $188.00 USD
 - [Minimalist Artificial Tree, Citrus Tree 6.5'](https://vivian-rose.shop/products/minimalist-artificial-tree-citrus-tree-6-5): This minimalist artificial tree stand tall at 6.5" and is the perfect addition to a foyer, kitchen nook, living room or bedroom corner.
-  Updated: 2026-10-11T03:06:56Z
+  Updated: 2026-10-18T14:25:09Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial_minimalist_tree.jpg?v=1765320856
   Price: $285.00 USD
 - [White Buddha Candle](https://vivian-rose.shop/products/white-buddha-candle): Find serenity and peace in your home with this beautiful White Buddha 3-wick scented candle. Each candle is hand-sculpted and hand-poured in the USA, using only the finest essential oils curated by the Swiss perfume house, Givaudan. The white buddha vessel, symbolizes purity and simplicity. Filled with a proprietary wax blend and finished with three wicks, this candle is a true work of art, offering a clean and long-lasting burn. Its elegant white design adds a touch of minimalism to your living room or bedroom, while the gardenia fragrance transports you to a serene and tranquil world. Experience the ultimate in luxury home decor fragrance with this Buddha 3-wick scented candle.
-  Updated: 2026-10-14T06:06:02Z
+  Updated: 2026-10-21T13:32:18Z
   Vendor: Vivian Rose Shop
   Product Type: Luxury Scented Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Buddha_White_2.png?v=1765573598
   Price: $195.00 USD
 - [Silver Grande Buddha Candle](https://vivian-rose.shop/products/silver-grande-buddha-candle): Silver Grande Buddha Candle: Experience the epitome of luxury and grandeur with our Silver Grande Buddha Candle. Each candle is hand-sculpted, intricately detailed, and hand-poured in the USA, using only the finest essential oils curated by the renowned Swiss perfume house, Givaudan. This larger-than-life masterpiece stands at 12" x 12" x 12" and offers over 3,500 hours of burn time. The silver Buddha ceramic vessel, designed in our NYC office, symbolizes wisdom and tranquility. Light this candle and let its warm glow transport you to a world of serenity and enlightenment. The vessel is filled with a proprietary wax blend and finished with cotton wicks to ensure a clean burn. The decorative lid features a branded handle, adding an elegant touch. Experience the ultimate in luxury home decor and fragrance with our Silver Grande Buddha Candle. Let its warm ambiance envelop your space, and allow the stories of ancient wisdom and tranquility to unfold in your home. Available In These Fragrances: Ash Ember Rose Palo Santo Cassis Pomegranate Champagne Rose English Rose French Gardenia Ivory Musk Jasmine Lily Midnight Orchid Neroli Eucalyptus Orange Blossom Unscented
-  Updated: 2026-10-12T00:09:27Z
+  Updated: 2026-10-18T09:05:10Z
   Vendor: Thompson Ferrier
   Product Type: Luxury Scented Candle
   Availability: Available
@@ -507,21 +514,21 @@
     Availability: Available
     Price: $1,540.00 USD
 - [Silver Buddha Candle, Decorative Candle](https://vivian-rose.shop/products/silver-buddha-candle): Transport yourself to a realm of serenity and elegance with the Silver Buddha 3-wick scented candle. Each candle is hand-sculpted and hand-poured in the USA.
-  Updated: 2026-10-12T00:09:26Z
+  Updated: 2026-10-18T09:05:09Z
   Vendor: Thompson Ferrier
-  Product Type: Home & Garden > Decor > Home Fragrances > Candles
+  Product Type: Luxury Scented Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/silver-ceramic-buddha-head-candle-with-3-cotton-wicks.jpg?v=1765398140
-  Price: $215.00 USD
+  Price: $250.00 USD
 - [Blue Glass Buddha Candle](https://vivian-rose.shop/products/blue-glass-buddha-candle): 24K Gold Sapphire Blue Glass Buddha Candle Royale: Transport yourself to the world of ancient royalty  Each candle is hand-sculpted and hand-poured in the USA.
-  Updated: 2026-10-12T02:46:25Z
+  Updated: 2026-10-17T18:54:07Z
   Vendor: Thompson Ferrier
   Product Type: Luxury Scented Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/glass-buddha-head-candle-with-24-gold-lining-3-cotton-wicks-soy-wax1.png?v=1765398205
   Price: $385.00 USD
 - [Gold Grand Alligator Decorative Candle](https://vivian-rose.shop/products/gold-grand-alligator-decorative-candle): Gold Grand Alligator Decorative Candle designed as a bold decorative statement piece, meticulously hand crafted in the USA.
-  Updated: 2026-10-13T00:49:07Z
+  Updated: 2026-10-18T22:05:06Z
   Vendor: Thompson Ferrier
   Product Type: Luxury Scented Candle
   Availability: Available
@@ -593,7 +600,7 @@
     Availability: Available
     Price: $950.00 USD
 - [Large Home Candle](https://vivian-rose.shop/products/large-home-candle): This large home candle is a magnificent fusion of natural beauty and artisan craftsmanship. Meticulously handcrafted at 14 inches high x 8 inches in diameter
-  Updated: 2026-10-13T13:25:30Z
+  Updated: 2026-10-18T09:05:08Z
   Vendor: Thompson Ferrier
   Product Type: Home & Garden > Decor > Home Fragrances > Candles
   Availability: Available
@@ -641,14 +648,21 @@
     Availability: Available
     Price: $950.00 USD
 - [24K Gold Clear Glass Buddha Royale Candle](https://vivian-rose.shop/products/croesus-24k-gold-clear-glass-buddha-royale): Experience the ultimate in luxury and opulence with this Clear Glass Buddha Candle, lined with 24K Gold. Each candle is hand-sculpted and hand-poured in the USA
-  Updated: 2026-10-14T12:02:35Z
+  Updated: 2026-10-18T23:07:06Z
   Vendor: Thompson Ferrier
   Product Type: Luxury Scented Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/glass-buddha-head-candle-with-24-gold-lining-3-cotton-wicks-soy-wax_2024-04-27T20_56_17.244Z.png?v=1765398629
   Price: $385.00 USD
+- [Glass Buddha Candle](https://vivian-rose.shop/products/glass-buddha-candle): Experience modern luxury and elegance with the Supernova Clear Glass Buddha Candle, lined with Pure Silver. Hand-sculpted and hand-poured in the USA.
+  Updated: 2026-10-16T21:57:58Z
+  Vendor: Thompson Ferrier
+  Product Type: Luxury Scented Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/glass-buddha-head-candle-with-24-gold-lining-3-cotton-wicks-soy-wax.png?v=1765398688
+  Price: $385.00 USD
 - [Gold Grande Buddha Candle](https://vivian-rose.shop/products/gold-grande-buddha-candle): Gold Grande Buddha Candle: Experience the epitome of luxury and grandeur, each candle is hand-sculpted, detailed and hand-poured in the USA.
-  Updated: 2026-10-13T01:58:27Z
+  Updated: 2026-10-18T09:05:08Z
   Vendor: Thompson Ferrier
   Product Type: Luxury Scented Candle
   Availability: Available
@@ -693,9 +707,9 @@
     Availability: Available
     Price: $1,540.00 USD
 - [Silver Grand Alligator Candle](https://vivian-rose.shop/products/silver-grand-alligator-candle): Silver Grand Alligator CandleSilver Grand Alligator Candle is designed as a bold decorative statement piece that also serves to fragrance your home. This ceramic candle is meticulously hand-detailed to ensure every aspect of the design stands out, making it a striking addition to any space. The Silver Grand Alligator Candle allows you to fill your room with luxurious fragrance while making a bold design statement. Each Silver Grand Alligator Candle includes a scaled alligator cover (lid), allowing you to conceal the candle when it’s not in use. The base of each figurine is finished with our signature blue velvet for an added touch of elegance. The candle features a removable tray and comes with four refill trays. Each tray is hand-poured with a proprietary wax blend, highly fragranced with essential oils, and finished with two lead-free cotton wicks to ensure a clean, even burn. This candle is available in your choice of 11 fragrances, and with your purchase, you will receive four trays of your selected fragrance.
-  Updated: 2026-10-11T13:32:17Z
+  Updated: 2026-10-18T09:05:09Z
   Vendor: Thompson Ferrier
-  Product Type: Home & Garden > Decor > Home Fragrances > Candles
+  Product Type: Luxury Scented Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Alligator_Silver_8.png?v=1765398445
   - [Palo Santo](https://vivian-rose.shop/products/silver-grand-alligator-candle?variant=46735843393685)
@@ -764,15 +778,15 @@
   - [Buddha Royale Supernova](https://vivian-rose.shop/products/silver-grand-alligator-candle?variant=67611039629461)
     Availability: Available
     Price: $950.00 USD
-- [Artificial Mixed Succulents in Contemporary Planter](https://vivian-rose.shop/products/artificial-mixed-succulents-in-contemporary-planter): Artificial Mixed Succulents in Contemporary Planter Agave plant with mixed succulents displayed in a contemporary planter. This item is Final .
-  Updated: 2026-10-13T13:42:16Z
+- [Artificial Mixed Succulents in Contemporary Planter](https://vivian-rose.shop/products/artificial-mixed-succulents-in-contemporary-planter): Artificial Mixed Succulents in Contemporary Planter Agave plant with mixed succulents displayed in a contemporary planter. Dimensions: 13 x 16 in (33 x 40.6 cm) Weight: 12 lb (5.44 kg) This item is Final .
+  Updated: 2026-10-19T02:04:36Z
   Vendor: DWSilks
-  Product Type: Home & Garden > Plants > Indoor Plants or Home & Garden > Plants > Succulents & Cactus
+  Product Type: Home & Garden > Decor > Artificial Flora
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/mixed_succulent_bowl.webp?v=1765451591
   Price: $185.00 USD
 - [Olive Tree in Planter 7.5'](https://vivian-rose.shop/products/olive-tree-in-planter-7): This indoor artificial olive tree stands tall at 7.5'.This faux tree its sophisticated, yet rustic; adorned with faux olives, very lifelike.
-  Updated: 2026-10-11T03:06:54Z
+  Updated: 2026-10-18T15:46:26Z
   Vendor: DWSilks
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -780,20 +794,20 @@
   - [Black](https://vivian-rose.shop/products/olive-tree-in-planter-7?variant=46738695192725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/indoor_olive_tree.jpg?v=1765454755
-    Price: $850.00 USD
+    Price: $650.00 USD
   - [White](https://vivian-rose.shop/products/olive-tree-in-planter-7?variant=46738695225493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/olive_tree_in_vase.jpg?v=1765976568
-    Price: $850.00 USD
+    Price: $650.00 USD
 - [Areca Palm Tree in White Planter 8′](https://vivian-rose.shop/products/areca-palm-tree-in-white-planter-8): Areca Palm Tree in White Planter 8′ This indoor artificial palm tree stands tall at 8'. Enhance the beauty of your home by adding this artificial areca palm.
-  Updated: 2026-10-11T03:06:53Z
+  Updated: 2026-10-18T14:25:09Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/318909_Web.jpg?v=1765453722
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Tall_Artificial_Palm_Tree_in_White_Planter.jpg?v=1792320125
   Price: $850.00 USD
 - [Olive Tree Potted Indoor Tree](https://vivian-rose.shop/products/olive-tree-potted): This artificial olive tree potted is a sophisticated, yet rustic indoor tree.Very realistic and adds the perfect touch of greenery to any room.
-  Updated: 2026-10-11T03:06:55Z
+  Updated: 2026-10-18T15:46:26Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -807,21 +821,21 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/indoor_potted_olive_tree.jpg?v=1765461849
     Price: $385.00 USD
 - [Palm Tree Drop-In](https://vivian-rose.shop/products/palm-tree-drop-in): Palm Tree Drop-In 4.5' This indoor artificial palm tree stands 4.5' tall. Enhance the beauty of your home by adding this artificial palm tree to your space.
-  Updated: 2026-10-10T15:25:09Z
+  Updated: 2026-10-18T14:25:08Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial_palm_tree.jpg?v=1765482814
   Price: $695.00 USD
 - [Eucalyptus Tree Drop-In 49"](https://vivian-rose.shop/products/eucalyptus-tree-drop-in-49): Eucalyptus Tree Drop-In 49" is a no-maintenance work of art. Add this indoor faux tree to any space to bring a touch of nature indoors.
-  Updated: 2026-10-11T03:06:53Z
+  Updated: 2026-10-18T14:25:08Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/N2CC06.jpg?v=1765494017
   Price: $375.00 USD
 - [Fiddle Leaf Fig Tree 43"](https://vivian-rose.shop/products/fiddle-leaf-fig-tree-43): Fiddle Leaf Fig Tree 43" Brighten any room with this realistic fiddle leaf fig tree. Add this indoor faux tree to any space to bring a touch of nature indoors.
-  Updated: 2026-10-11T03:06:53Z
+  Updated: 2026-10-18T14:25:08Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -835,7 +849,7 @@
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/N4GP06.jpg?v=1765496619
   Price: $150.00 USD
 - [10 WICK GOLD CANDLE TRAY](https://vivian-rose.shop/products/10-wick-gold-candle-tray-cashmere): 10 WICK GOLD CANDLE TRAY, CASHMERE Chic, soothing, warm and comforting large gold candle. With a burn time of up to 13 hours, the flames in this organic gold tin will last through the party and beyond. Product Dimensions: 11.5 x 11.5 x 2.5
-  Updated: 2026-10-11T13:08:27Z
+  Updated: 2026-10-18T09:05:07Z
   Vendor: Napa Home & Garden
   Product Type: Home & Garden > Decor > Home Fragrances > Candles
   Availability: Available
@@ -853,140 +867,140 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/SH246.jpg?v=1765498380
     Price: $188.00 USD
 - [Faux Fiddle Leaf Fig Tree In White Planter 6'](https://vivian-rose.shop/products/faux-fiddle-leaf-fig-tree-in-white-planter-6): Faux Fiddle Leaf Fig Tree In White Planter 6' This realistic indoor faux ficus tree stands tall at 6' and is the perfect way to bring a touch of nature inside.
-  Updated: 2026-10-11T03:00:39Z
+  Updated: 2026-10-18T14:25:08Z
   Vendor: AM
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/FicusTree.jpg?v=1765547249
   Price: $225.00 USD
 - [Artificial Fiddle Leaf Fig Tree 5ft](https://vivian-rose.shop/products/artificial-fiddle-leaf-tree-5ft): Artificial Fiddle Leaf Fig Tree In White Planter 5' This realistic indoor faux ficus tree stands tall at 5' and is the perfect way to bring a touch of nature inside.
-  Updated: 2026-10-11T03:00:38Z
+  Updated: 2026-10-18T22:45:07Z
   Vendor: AM
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/FLT-W4-60.jpg?v=1765559847
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Artificial_Fiddle_Leaf_Tree.jpg?v=1792320323
   Price: $275.00 USD
 - [Faux Fiddle Leaf Fig Tree 6'](https://vivian-rose.shop/products/faux-fiddle-leaf-fig-tree-6): Faux Fiddle Leaf Fig Tree In White Planter 6' This realistic indoor faux ficus tree stands tall at 6' and is the perfect way to bring a touch of nature inside.
-  Updated: 2026-10-11T03:00:40Z
+  Updated: 2026-10-18T22:34:18Z
   Vendor: AM
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/FLT-W3-72.jpg?v=1767876317
   Price: $315.00 USD
 - [55oz Natural Non-Toxic Candle ( Inspired by YSL L'Homme®)](https://vivian-rose.shop/products/non-toxic-candle-coconut-soy-candle): Vegan, cruelty free, natural non-toxic candle, coconut apricot wax candle. Inspired by YSL L'HOMME®. 55 oz
-  Updated: 2026-10-11T03:06:52Z
+  Updated: 2026-10-22T00:15:29Z
   Vendor: Stone Candles
-  Product Type: Home & Garden > Decor > Home Fragrances > Candles
+  Product Type: Environment - Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/YSL_Candle.jpg?v=1765572871
-  Price: $150.00 USD
+  Price: $139.00 USD
 - [55oz Natural Non-Toxic Candle, Rosewater, Peony Water, Washed Woods](https://vivian-rose.shop/products/natural-non-toxic-candle-rosewater-peony): 55oz Natural Non-Toxic Candle. Vegan, cruelty free, made with coconut apricot wax. Inspired by Issey Miyake L'Eau d'Issey®. Clean burning candle.
-  Updated: 2026-10-11T02:05:29Z
+  Updated: 2026-10-22T12:15:22Z
   Vendor: Stone Candles
-  Product Type: Home & Garden > Decor > Home Fragrances > Candles
+  Product Type: Environment - Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/d_IsseyMiyake_1000pxx1000px.jpg?v=1765574211
-  Price: $150.00 USD
+  Price: $139.00 USD
 - [Artificial Succulent Arrangement In Natural Planter](https://vivian-rose.shop/products/round-artificial-succulent-arrangement-natural-planter): This artificial succulent arrangement in natural planter is a modern house plant for indoor or outdoors.
-  Updated: 2026-10-14T19:07:06Z
+  Updated: 2026-10-22T20:48:59Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/round-natural-succulent-main.jpg?v=1765974351
   Price: $149.99 USD
-- [Rectangular Artificial Succulent Arrangement, Natural Planter](https://vivian-rose.shop/products/rectangular-artificial-succulent-arrangement-natural-planter): Artificial Succulent Arrangement In Natural Planter Incorporate natural elements into your home with this stylish and versatile lifelike faux succulent arrangement. This meticulously crafted arrangement brings the eternal beauty of succulents into any space, effortlessly complementing a wide range of interior design styles. Perfect centerpiece for tables indoors or covered areas outdoors, or can be displayed on a shelf, tabletop, or windowsill. Lifelike appearance, maintaining an elegant and vibrant look for years to come Modern natural pot, adding a sleek and sophisticated design to your space Low maintenance and built to last This item is Final .
-  Updated: 2026-10-14T23:08:06Z
+- [Rectangular Artificial Succulent Arrangement, Natural Planter](https://vivian-rose.shop/products/rectangular-artificial-succulent-arrangement-natural-planter): Artificial Succulent Arrangement In Natural Planter Incorporate natural elements into your home with this stylish and versatile lifelike faux succulent arrangement. This meticulously crafted arrangement brings the eternal beauty of succulents into any space, effortlessly complementing a wide range of interior design styles. Perfect centerpiece for tables indoors or covered areas outdoors, or can be displayed on a shelf, tabletop, or windowsill. Lifelike appearance, maintaining an elegant and vibrant look for years to come Modern natural pot, adding a sleek and sophisticated design to your space Low maintenance and built to last Dimensions: 17" length Weight: 8 lbs This item is Final .
+  Updated: 2026-10-22T20:48:59Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Untitled-Session0526.jpg?v=1765974469
   Price: $249.99 USD
 - [30" Faux Olive Arrangement in Artisan Vase](https://vivian-rose.shop/products/30-faux-olive-arrangement-in-artisan-vase): Bring a sense of timeless beauty to your home with this lifelike 30" faux olive arrangement, set in an exquisite artisan cream natural vase.
-  Updated: 2026-10-12T22:06:57Z
+  Updated: 2026-10-22T20:48:56Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Olive-Arrangement.jpg?v=1765974650
   Price: $249.99 USD
 - [7ft Artificial Olive Tree with Planter](https://vivian-rose.shop/products/7ft-artificial-olive-tree-with-planter): Large Artificial Olive tree with realistic leaves; Mediterranean Style faux olive tree. This Artificial Olive Tree is 7 feet tall.
-  Updated: 2026-10-14T15:22:08Z
+  Updated: 2026-10-22T20:40:46Z
   Vendor: CG Hunter
   Product Type: Faux Tree
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Untitleddesign_4.jpg?v=1765975775
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/7ft_Artificial_Olive_Tree_with_Planter.jpg?v=1792319756
   Price: $549.99 USD
 - [7' Citrus Lemon Tree](https://vivian-rose.shop/products/7-citrus-lemon-tree): Enhance your home or office decor with the lifelike 7’ Faux Citrus Lemon Tree. Experience the charm of the Mediterranean without the maintenance.
-  Updated: 2026-10-14T15:22:04Z
+  Updated: 2026-10-22T15:01:23Z
   Vendor: CG Hunter
   Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/LEM-23022-7FT-LEMON-TREE_-POTTED-WHITE-BKGRD-IMG-04_shadow.jpg?v=1765975384
   Price: $499.99 USD
 - [Artificial Eucalyptus Tree, 7' Tall Faux Tree](https://vivian-rose.shop/products/artificial-eucalyptus-tree-7): 7FT Artificial Eucalyptus Tree – Realistic Faux Potted Plant, Tall Silk Silver Dollar Eucalyptus Tree for Indoor/Outdoor Decor. Tall Faux Tree
-  Updated: 2026-10-14T15:52:08Z
+  Updated: 2026-10-22T03:15:11Z
   Vendor: CG Hunter
   Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Eucalyptus-Tree.jpg?v=1769310124
   Price: $499.99 USD
 - [Artificial Olive Topiary Tree with Mediterranean Pot, 34"](https://vivian-rose.shop/products/artificial-olive-topiary-tree-with-mediterranean-pot): Lifelike Artificial Faux Olive Topiary Tree; meticulously crafted 34" tall lifelike artificial faux Olive Topiary Tree.
-  Updated: 2026-10-13T10:21:37Z
+  Updated: 2026-10-22T03:14:15Z
   Vendor: CG Hunter
   Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/OLV-23004-34in-Olive-Topiary-White-Background-Image_shadow.jpg?v=1765975616
   Price: $199.99 USD
 - [5' Artificial Monstera Tree](https://vivian-rose.shop/products/5-artificial-monstera-tree): Elevate your interior with this realistic 5' artificial monstera tree; the perfect statement piece to enhance the contemporary elegance of your living space.
-  Updated: 2026-10-11T03:00:36Z
+  Updated: 2026-10-22T14:51:20Z
   Vendor: CG Hunter
-  Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
+  Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Monstera-Plant.jpg?v=1765975264
   Price: $289.99 USD
 - [7' Artificial Palm Tree](https://vivian-rose.shop/products/7-artificial-palm-tree): Tall Artificial Palm Tree Transform your living space into a tropical oasis with the captivating Artificial Palm Tree 7' in a sleek black 9.5" grower pot.
-  Updated: 2026-10-13T10:21:36Z
+  Updated: 2026-10-22T14:51:19Z
   Vendor: CG Hunter
   Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/PAL-230247FTPalmTreewDropInPlanter_WhiteBackgroundPhoto_dca14b8d-7920-443b-acef-e05ea7381d92.jpg?v=1765975693
   Price: $399.99 USD
 - [Mixed Artificial Succulent Arrangement](https://vivian-rose.shop/products/mixed-artificial-succulent-arrangement): Mixed Artificial Succulent Arrangement is a stylish and versatile centerpiece arrangement. Bring the natural beauty of succulents into any space, effortlessly.
-  Updated: 2026-10-14T11:31:58Z
+  Updated: 2026-10-22T20:48:57Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Square_0003_oblong_succulent_white__3.jpg?v=1765976282
   Price: $249.99 USD
 - [Artificial Succulent Arrangement](https://vivian-rose.shop/products/artificial-succulent-arrangement): This lifelike artificial succulent arrangement is the perfect centerpiece for tables; a versatile and stylish piece for modern home decor.
-  Updated: 2026-10-14T21:36:46Z
+  Updated: 2026-10-22T20:48:57Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Artificial_Succulent_Arrangement.jpg?v=1765977560
   Price: $149.99 USD
 - [Artificial Snake Plant - 40"](https://vivian-rose.shop/products/artificial-snake-plant): This sansevieria artificial snake plant will elevate your interior design; 40" faux snake plant in a modern grey pot.
-  Updated: 2026-10-13T17:21:25Z
+  Updated: 2026-10-22T20:48:53Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Artificial_Snake_Plant.jpg?v=1768567540
   Price: $229.99 USD
 - [Faux Maidenhair Fern Plant, 48"](https://vivian-rose.shop/products/faux-maidenhair-fern-plant-48): This artificial fern plant is the perfect way to add greenery to any space. Perfect medium size faux fern plant measuring 48” high x 20” wide.
-  Updated: 2026-10-13T10:21:37Z
+  Updated: 2026-10-22T23:01:26Z
   Vendor: CG Hunter
   Product Type: Faux Plant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/fern_plant_drop_in.jpg?v=1772926659
   Price: $299.99 USD
 - [Large Artificial Olive Tree 90" Tall](https://vivian-rose.shop/products/large-artificial-olive-tree-90-tall): Large Artificial Olive Tree 90" Tall
-  Updated: 2026-10-11T03:00:36Z
+  Updated: 2026-10-18T15:44:00Z
   Vendor: RusticReach
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-XLargeOlive901.webp?v=1766669443
   Price: $2,074.10 USD
 - [Artificial Minimalist Tree, Green Leaf Faux Tree In Pot](https://vivian-rose.shop/products/artificial-minimalist-tree-green-leaf-faux-tree-in-pot): Artificial Minimalist Green Leaf Tree DIMENSIONS & WEIGHT [Small] 59" Tall; 5.3 lb[Pot] 5.9" D X 4.7" H [Large] 70.1" Tall; 8.9 lb[Pot] 6.5" D X 5.7" H This item is Final .
-  Updated: 2026-10-12T19:23:06Z
+  Updated: 2026-10-21T19:22:57Z
   Vendor: RusticReach
   Product Type: 
   Availability: Available
@@ -1000,7 +1014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-green-leaf-tree-rusticreach-533788.jpg?v=1766669660
     Price: $183.87 USD
 - [Moroccan Artificial Palm Tree In Pot](https://vivian-rose.shop/products/moroccan-artificial-palm-tree-in-pot): Moroccan Artificial Palm Tree In Pot
-  Updated: 2026-10-11T03:00:40Z
+  Updated: 2026-10-18T14:24:49Z
   Vendor: RusticReach
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -1026,36 +1040,36 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-MrcPalmS11-min.jpg?v=1766669842
     Price: $894.30 USD
 - [Faux Olive Tree In Pot](https://vivian-rose.shop/products/faux-olive-tree-in-pot): Faux Olive Tree In Pot, Fake Tree/ Artificial Plant / Artificial Tree - Handmade Olive Tree In Pot
-  Updated: 2026-10-13T07:22:59Z
+  Updated: 2026-10-19T02:43:18Z
   Vendor: RusticReach
-  Product Type: 
+  Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-OliveTreeS2.jpg?v=1766669521
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/olive_tree_in_basket.jpg?v=1792320422
   - [Small](https://vivian-rose.shop/products/faux-olive-tree-in-pot?variant=46783972147349)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-olive-tree-rusticreach-325891.jpg?v=1766669534
-    Price: $84.49 USD
+    Price: $119.00 USD
   - [Medium](https://vivian-rose.shop/products/faux-olive-tree-in-pot?variant=46783972180117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-olive-tree-rusticreach-273996.jpg?v=1766669558
-    Price: $119.39 USD
+    Price: $149.99 USD
   - [Large](https://vivian-rose.shop/products/faux-olive-tree-in-pot?variant=46783972212885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-olive-tree-rusticreach-513819.jpg?v=1766669539
-    Price: $108.35 USD
+    Price: $164.99 USD
   - [X Large](https://vivian-rose.shop/products/faux-olive-tree-in-pot?variant=46783972245653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-OliveTreeS2.jpg?v=1766669521
-    Price: $250.22 USD
+    Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/olive_tree_in_basket.jpg?v=1792320422
+    Price: $289.99 USD
 - [Tall Olive Tree 118"](https://vivian-rose.shop/products/tall-olive-tree-118): PRODUCT Artificial Plant / Artificial Tree - Handmade Olive Tree PLANT Olive Tree DIMENSIONS & WEIGHT 62.9" W X 118" Tall
-  Updated: 2026-10-11T03:00:35Z
+  Updated: 2026-10-18T15:43:59Z
   Vendor: RusticReach
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-XLargeOlive1181.png?v=1766670096
   Price: $1,505.83 USD
 - [Artificial Silk Fig Tree In Pot](https://vivian-rose.shop/products/artificial-silk-fig-tree-in-pot): Artificial Silk Fig Tree In Pot This handmade fig tree is realistic and allows you to bring nature indoors.*Please note that decorative basket in the pictures are NOT included. Size Options: [Small] 25.9" W X 34.6" Tall; Pot 4.9" D Top X 3.3" D Bottom X 4.3" H; 3.4 lb [Medium] 29.9" W X 48.4" Tall; Pot 4.9" D Top X 4.3" D Bottom X 4.3" H; 4.5 lb [Large] 31.5" W X 59" Tall; Pot 4.9" D Top X 4.3" D Bottom X 4.5" H; 4.9 lb [X Large] 45.3" W X 82.6" Tall; Pot 5.9" D Top X 5.3" D Bottom X 5.1" H; 8.1 lb MATERIAL Silk Cloth, Real Touch Material, Plastic, Other COLOR Green, Black, Mixed Colors This item is Final .
-  Updated: 2026-10-11T03:00:35Z
+  Updated: 2026-10-18T14:22:24Z
   Vendor: RusticReach
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
@@ -1077,103 +1091,103 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/JH-FigTreeS11-min.jpg?v=1766670093
     Price: $534.97 USD
 - [10’ Artificial Olive Tree](https://vivian-rose.shop/products/10-artificial-olive-tree): Tall faux olive tree, 10’ artificial olive tree
-  Updated: 2026-10-14T20:26:19Z
+  Updated: 2026-10-20T11:46:09Z
   Vendor: Nearly Natural
   Product Type: Tree
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-10-artificial-olive-tree-tree-nearly-natural-647809.jpg?v=1768930425
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-10-artificial-olive-tree-tree-nearly-natural-793754.jpg?v=1768930450
   Price: $377.99 USD
 - [6’ Olive Tree in Stone Planter](https://vivian-rose.shop/products/6-olive-tree-in-stone-planter): 6ft Olive Tree in Stone Planter a Mediterranean Style faux olive tree.
-  Updated: 2026-10-14T00:18:06Z
+  Updated: 2026-10-22T16:20:29Z
   Vendor: Nearly Natural
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-6-olive-tree-in-stone-planter-nearly-natural-701022.jpg?v=1768930528
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-6-olive-tree-in-stone-planter-nearly-natural-586776.jpg?v=1768930546
   Price: $404.99 USD
 - [5’ Olive Tree in White Planter](https://vivian-rose.shop/products/5-olive-tree-in-white-planter): 5ft Olive Tree in White Planter Exquisite craftsmanship is evident in the fine details of this artificial olive tree.
-  Updated: 2026-10-14T12:18:15Z
+  Updated: 2026-10-22T16:20:29Z
   Vendor: Nearly Natural
   Product Type: Tree in Planter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-5-olive-tree-in-white-oval-planter-tree-nearly-natural-184612.jpg?v=1768930554
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-5-olive-tree-in-white-oval-planter-nearly-natural-468988.jpg?v=1768930572
   Price: $404.99 USD
 - [Faux Olive Tree in White Planter](https://vivian-rose.shop/products/faux-olive-tree-in-white-planter): This tall faux olive tree in white planter is a popular artificial olive tree measuring 6' tall.
-  Updated: 2026-10-14T00:24:27Z
+  Updated: 2026-10-19T20:22:08Z
   Vendor: Nearly Natural
   Product Type: Tree in Planter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Faux_Olive_Tree_in_White_Planter.jpg?v=1769021821
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Tall_Faux_Olive_Tree_in_White_Planter.jpg?v=1769021849
   Price: $206.99 USD
 - [Artificial Fiddle Leaf Tree in White Planter - 7'](https://vivian-rose.shop/products/artificial-fiddle-leaf-tree-in-white-planter-7): Artificial Fiddle Leaf Tree in White Planter - 7' Transform your space with this incredibly realistic faux fiddle leaf fig tree. Add a lush, green touch to any room.
-  Updated: 2026-10-12T16:26:07Z
+  Updated: 2026-10-23T00:24:36Z
   Vendor: Nearly Natural
   Product Type: Tree in Planter
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/7_Artificial_Fiddle_Leaf_Tree_in_White_Planter.jpg?v=1768937763
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-7-artificial-fiddle-leaf-tree-in-decorative-white-planter-nearly-natural-349091.jpg?v=1768930746
   Price: $206.99 USD
 - [Artificial Fiddle Leaf Fig Tree in White Planter, 45”](https://vivian-rose.shop/products/artificial-fiddle-leaf-fig-tree-in-white-planter-45): Artificial Fiddle Leaf Fig Tree in White Planter, 45” Transform your space with this incredibly lifelike faux fiddle leaf fig tree.
-  Updated: 2026-10-11T03:00:37Z
+  Updated: 2026-10-18T14:24:39Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Fiddle_Leaf_Artificial_Tree_in_White_Planter_45.jpg?v=1768937202
   Price: $125.99 USD
 - [Artificial Fiddle Leaf Fig Tree in White Planter, 52”](https://vivian-rose.shop/products/artificial-fiddle-leaf-fig-tree-in-white-planter-52): Artificial Fiddle Leaf Fig Tree in White Planter, 52” Transform your space with this incredibly lifelike faux fiddle leaf fig tree.
-  Updated: 2026-10-11T03:00:32Z
+  Updated: 2026-10-18T22:14:48Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-52-fiddle-leaf-artificial-tree-in-white-planter-nearly-natural-846876.jpg?v=1768930852
-  Price: $242.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-52-fiddle-leaf-artificial-tree-in-white-planter-nearly-natural-671542.jpg?v=1768930878
+  Price: $249.99 USD
 - [UV Resistant Artificial Areca Palm Tree (Indoor/Outdoor)](https://vivian-rose.shop/products/artificial-areca-palm-tree-indoor-outdoor): 8ft Artificial Areca Palm Tree, Indoor Outdoor Tree This tall artificial areca palm tree is the perfect piece for those who want the tropical feels without the hassle.
-  Updated: 2026-10-14T20:26:58Z
+  Updated: 2026-10-23T00:24:18Z
   Vendor: Nearly Natural
   Product Type: Tree
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-8-uv-resistant-artificial-areca-palm-tree-indooroutdoor-nearly-natural-551942.jpg?v=1768930938
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/8_ft_Artificial_Areca_Palm_Tree_Indoor_Outdoor.jpg?v=1769341424
   Price: $423.99 USD
 - [Artificial Monstera Tree UV Resistant (Indoor/Outdoor) 4’](https://vivian-rose.shop/products/artificial-monstera-tree-uv-resistant-indoor-outdoor-4): Elevate your space with this 4-foot artificial Monstera tree. Known as the "Swiss Cheese Plant," this modern, tropical faux plant is the perfect houseplant.
-  Updated: 2026-10-14T13:29:26Z
+  Updated: 2026-10-19T02:43:20Z
   Vendor: Nearly Natural
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Artificial_Monstera_Tree_UV_Resistant_Indoor_Outdoor_4.jpg?v=1769339856
   Price: $184.99 USD
 - [Faux Ficus Tree in Black Planter, 74”](https://vivian-rose.shop/products/faux-ficus-tree-in-black-planter-74): Bring this favorite realistic faux ficus tree into your home; expertly designed featuring lush, vibrant green variegated leaves and a natural wood trunk.
-  Updated: 2026-10-11T03:00:33Z
+  Updated: 2026-10-18T14:24:35Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Faux_Ficus_Tree_in_Black_Planter.jpg?v=1769018746
   Price: $225.99 USD
 - [Minimalist Artificial Citrus Tree, 7' Tall Faux Tree](https://vivian-rose.shop/products/minimalist-artificial-citrus-tree-7): This minimalist artificial citrus tree is a 7' tall faux tree. Branches are bendable to customize for your space. Perfect for a home with high ceilings.
-  Updated: 2026-10-14T20:26:56Z
+  Updated: 2026-10-22T16:28:47Z
   Vendor: Nearly Natural
   Product Type: Tree
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-7-minimalist-citrus-artificial-tree-tree-nearly-natural-834042.jpg?v=1768931260
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-7-minimalist-citrus-artificial-tree-tree-nearly-natural-245327.jpg?v=1768931283
   Price: $377.99 USD
 - [Golden Cane Artificial Palm Tree, 10'](https://vivian-rose.shop/products/golden-cane-artificial-palm-tree-10): This 10’ Golden Cane Artificial Palm Tree is designed to mimic nature, this tall faux palm tree features two realistic trunks and lush green leaves.
-  Updated: 2026-10-11T03:00:32Z
+  Updated: 2026-10-18T22:01:29Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Tall_Artificial_Palm_Tree.jpg?v=1769303800
-  Price: $230.39 USD
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-10-double-stalk-golden-cane-artificial-palm-tree-nearly-natural-246326.jpg?v=1768931511
+  Price: $399.99 USD
 - [Artificial Ficus Tree 6.5’  | Tall Artificial Ficus Tree](https://vivian-rose.shop/products/artificial-ficus-tree-6-5): This tall artificial ficus tree is 6.5, expertly designed to mimic the real thing; with vibrant green variegated leaves and a natural wood trunk.
-  Updated: 2026-10-11T03:00:32Z
+  Updated: 2026-10-18T14:23:25Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/tall_artificial_ficus_tree.jpg?v=1769015951
   Price: $316.99 USD
 - [Tall Artificial Fiddle Leaf Fig Tree, 13'](https://vivian-rose.shop/products/tall-artificial-fiddle-leaf-fig-tree-13): Tall Artificial Fiddle Leaf Fig Tree, 13' Tall faux fiddle leaf fig tree adds a lush, green touch to any room. Standing at 13' and potted in a nursery planter.
-  Updated: 2026-10-14T19:18:57Z
+  Updated: 2026-10-18T22:02:50Z
   Vendor: Nearly Natural
-  Product Type: Tree
+  Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-13-artificial-fiddle-leaf-fig-tree-tree-nearly-natural-907962.jpg?v=1768931646
-  Price: $1,007.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Large_Artificial_Indoor_Tree.jpg?v=1768935007
+  Price: $1,200.00 USD
 - [Mini Orchid Arrangement - Realistic Potted Faux Orchid Plant](https://vivian-rose.shop/products/mini-orchid-arrangement-in-square-glass-vase): Elevate small spaces with our mini orchid arrangement; a realistic potted faux orchid plant. Add instant elegance to desk, nightstands, and bathrooms. Shop now!
   Updated: 2026-10-11T03:11:46Z
   Vendor: Vivian Rose Shop
@@ -1394,28 +1408,28 @@
     Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/white_orchid_centerpiece_arrangement_in_gold_vase.jpg?v=1775480946
     Price: $595.00 USD
 - [8' Olive Tree Potted in White Stone Pot](https://vivian-rose.shop/products/8-olive-tree-potted-in-white-stone-pot): Bring warmth, sophistication, and natural beauty into your home with the lifelike real-looking olive tree – 8FT in White Pot. Expertly designed with premium foliage and authentic trunk detailing, this tall artificial olive tree captures the charm of Mediterranean living—without the maintenance. Its impressive height and sculptural form make it a statement piece for residential and commercial interiors alike. All tree sales are final .
-  Updated: 2026-10-11T03:00:32Z
+  Updated: 2026-10-22T14:54:18Z
   Vendor: CG Hunter
-  Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
+  Product Type: Faux Tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/OLV-25020.jpg?v=1790886404
   Price: $699.99 USD
 - [Realistic Artificial Ficus Tree](https://vivian-rose.shop/products/realistic-artificial-ficus-tree-potted-fake-plant-with-planter-for-indoor-outdoor-home-decor): Add a splash of greenery to your interior space without the need for a green thumb. FICUS TREE: Featuring abundant foliage of glossy leaves and a twisted trunk, our this tall artificial tree captures the look and feel of a refined ficus tree. This weeping fig tree is known for its gracefulness. PRE-POTTED: Our plant comes pre-potted so you can easily place this accessory in your favorite basket or planter pot, making this easy for you to complement any existing decor in your home. DIMENSIONS: Choose an accessory that is the perfect size for you and your furniture. This plant comes in 31.50” W x 31.50” D x 71.00” H. You will love how much your space can transform with the simple addition of this charming artificial plant. All trees are final .
-  Updated: 2026-10-11T03:00:33Z
+  Updated: 2026-10-16T12:50:55Z
   Vendor: Vivalo
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Artificial_ficus_tree.webp?v=1791393825
   Price: $957.00 USD
 - [7.5’ Artificial Greco Locust Citrus Tree in Decorative Planter](https://vivian-rose.shop/products/7-5-artificial-greco-locust-citrus-tree-in-decorative-planter): Immerse your space in the verdant embrace of the jungle with the Greco - a testament to nature's allure. Drawing inspiration from the wild, its myriad of delicate leaves converge to form a canopy, exuding lifelike vibrancy and detail. With its roots in superior craftsmanship, the Greco is inspired by seasoned horticulturists using the finest materials. Its versatile design invites you to mold each branch, tailoring its appearance to your unique aesthetic. Rising elegantly to 7.5' and housed in a sophisticated decorative planter, this faux tree stands poised to redefine and elevate any setting. Perfect for a living room, bedroom, or a foyer. This item is final .
-  Updated: 2026-10-11T03:00:32Z
+  Updated: 2026-10-18T21:47:15Z
   Vendor: Nearly Natural
   Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-75-artificial-greco-locust-citrus-tree-in-decorative-planter-nearly-natural-463005.jpg?v=1791150369
-  Price: $543.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/artificial-75-artificial-greco-locust-citrus-tree-in-decorative-planter-nearly-natural-273653.jpg?v=1791150369
+  Price: $529.99 USD
 - [Blue Crystal Celestine - Decorative Object](https://vivian-rose.shop/products/celestine-specimen-with-orange-hue-on-lucite-stand): Celestine: Add an ethereal energy to any space with this rare orange-hued crystal specimen. Perfect for meditation or as a stunning art piece.
-  Updated: 2026-10-10T15:41:01Z
+  Updated: 2026-10-18T09:05:07Z
   Vendor: Rare Earth Gallery
   Product Type: Crystals & Minerals > Specimens
   Availability: Available
@@ -1429,7 +1443,7 @@
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Geode_display_Purple_Amethyst_Crystal_cluster_o.jpg?v=1791646980
   Price: $9,400.00 USD
 - [Agate Geode Ring on Fitted Rotating Stand](https://vivian-rose.shop/products/agate-geode-ring-on-fitted-rotating-stand): This exquisite geode display isi an artful blend of nature and craftsmanship that enriches any space. One-of-one piece. Luxury interior design must have.
-  Updated: 2026-10-10T15:47:28Z
+  Updated: 2026-10-18T14:01:33Z
   Vendor: Rare Earth Gallery
   Product Type: Crystals & Minerals > Specimens
   Availability: Available
@@ -1443,14 +1457,14 @@
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/51811_60f1c29aca3846db9f89161fcf67b843.jpg?v=1791501127
   Price: $44,500.00 USD
 - [Amethyst Crystal Sphere on Lucite Ring Stand](https://vivian-rose.shop/products/amethyst-crystal-sphere-with-glistening-sheen-large-crystal-feature-on-lucite-ring-stand): Discover the mesmerizing beauty of this stunning amethyst sphere, where deep purple hues catch the light with an irresistible glistening sheen. A prominent crystal feature adds visual intrigue and natural character to this geological treasure. Elegantly displayed on a sleek lucite ring stand, it's the perfect accent for a shelf, desk, or meditation space. Whether you're a crystal enthusiast or seeking a conversation-starting décor piece, this amethyst sphere brings calming energy and timeless elegance to any room. 4.5" x 5" x 5"
-  Updated: 2026-10-10T15:25:06Z
+  Updated: 2026-10-20T22:39:06Z
   Vendor: Rare Earth Gallery
   Product Type: Crystals & Minerals > Specimens
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Photoroom_20251129_113413.jpg?v=1791501127
   Price: $775.00 USD
 - [Palo Santo Scented Soy Candle | 100% Natural Wax | Meditation Candle](https://vivian-rose.shop/products/palo-santo-scented-soy-candle-100-natural-wax): Palo Santo Soy Candle | 100% Natural Wax for Meditation & Energy Cleansing | Clean Burning Woodsy Scent. Non-toxic scented candle. Calm, rich, woody aroma.
-  Updated: 2026-10-11T12:45:30Z
+  Updated: 2026-10-18T09:05:09Z
   Vendor: Vivian Rose Shop
   Product Type: Home & Garden > Decor > Home Fragrances > Candles
   Availability: Available
@@ -1463,7 +1477,63 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/palo_santo_candle_large_wood_tray_candle.webp?v=1791721087
   Price: $150.00 USD
-[List Continued](https://vivian-rose.shop/a/llms-agent/llms.txt?shop=vivian-rose-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQxNzI5ODcxNDc3MywibGFzdF92YWx1ZSI6IjE1NDE3Mjk4NzE0NzczIn0%3D)
+- [8' Faux Olive Tree](https://vivian-rose.shop/products/8-faux-olive-tree): Transform rooms with our lifelike 8′ olive tree: natural-looking wood trunk, leaf varieties, hand-tied fruit clusters—Mediterranean luxury, zero maintenance.Plucked from a sun-drenched hillside—then perfected by artisans. A real wood trunk anchors three meticulously color-blended foliar varieties for layered authenticity. Hand-tied baby olives lend a just-harvested vibe, while a weighted moss-topped pot drops straight into your favorite planter. This item is Final .
+  Updated: 2026-10-22T21:10:07Z
+  Vendor: CG Hunter
+  Product Type: Faux Tree
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Tall_Olive_Tree.jpg?v=1792319408
+  Price: $599.99 USD
+- [8' Bird of Paradise Tree in Modern Gray Planter](https://vivian-rose.shop/products/8-bird-of-paradise-tree-in-modern-gray-planter): Elevate your interior decor with the stunning 8' Bird of Paradise, artfully placed in a sleek modern gray planter. This lifelike artificial plant features hand-painted trunks and leaves, meticulously crafted to mimic the natural beauty of the real Bird of Paradise. Perfect for both residential and commercial spaces, it offers a touch of tropical elegance without the need for maintenance.
+  Updated: 2026-10-22T14:51:21Z
+  Vendor: CG Hunter
+  Product Type: Faux Tree
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/Bird-of-Paradise-Tree-8FT-BRD-24011_CAVA_White-Background-Image_Shadow.jpg?v=1792316174
+  Price: $549.99 USD
+- [40" Artificial Snake Plant in Black Pot](https://vivian-rose.shop/products/40-artificial-snake-plant-in-black-pot): The 40" Artificial Snake Plant in Black Pot delivers bold, architectural greenery with refined realism. Featuring elongated, upright leaves with natural variegation and subtle tonal depth, this piece captures the strong vertical presence of a living snake plant while maintaining a polished, design-forward aesthetic. The carefully arranged foliage creates structure and movement, offering visual impact from every angle. Set in a sleek black pot, this snake plant provides a modern contrast that grounds the silhouette and enhances contemporary, minimalist, and luxury interiors. Its taller scale makes it ideal for anchoring empty corners, styling beside consoles or sofas, or adding height to living rooms, bedrooms, and offices. Whether used as a standalone focal point or layered with complementary greenery, it brings balance and intention to the space. Completely maintenance-free, this artificial snake plant requires no sunlight, watering, or care, remaining perfectly styled year-round. It’s an ideal solution for busy homes, second residences, and commercial environments where consistency and ease are essential. Strong yet timeless, this snake plant offers effortless sophistication and architectural clarity—an essential finishing touch for thoughtfully curated interiors. Dimensions: 40 inches Weight: 4.5 lb This item is Final .
+  Updated: 2026-10-22T20:49:13Z
+  Vendor: CG Hunter
+  Product Type: Faux Plant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/SNK-26001_4_1_4c864b4f-5c5c-4972-b33f-8cda2bd296b2.webp?v=1792316196
+  Price: $199.99 USD
+- [12" Round Faux Succulent Arrangement in Ceramic Pot](https://vivian-rose.shop/products/12-round-faux-succulent-arrangement-in-ceramic-pot): This handmade 12" faux succulent arrangement in a white ceramic pot offers a maintenance-free, eco-friendly decor option. Lifelike and versatile.
+  Updated: 2026-10-22T20:49:15Z
+  Vendor: CG Hunter
+  Product Type: Faux Plant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/SpringCollection-57.jpg?v=1792316203
+  Price: $119.99 USD
+- [30" Faux Evergreen Cedar Wreath](https://vivian-rose.shop/products/30-faux-evergreen-cedar-wreath): Enhance your festive decor with our lifelike 30-inch faux cedar wreath. This stunning wreath captures the essence of real cedar with incredible realism. Hang it on your door or use it as a centerpiece to infuse your space with the beauty of the outdoors. Enjoy the lasting greenery of this artificial cedar wreath throughout the holiday season and beyond. 30" Cedar Wreath
+  Updated: 2026-10-22T17:21:47Z
+  Vendor: CG Hunter
+  Product Type: Wreath
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/cedar-wreath.jpg?v=1792316246
+  Price: $99.99 USD
+- [Faux Olive Tree - 29 in](https://vivian-rose.shop/products/faux-olive-tree-29-in): This artificial olive tree beauty gives Mediterranean vibes with a modern feel. The delicately layered leaves with subtle tonal variation, creates a natural, airy silhouette that feels both organic and intentional. The realism lies in the details—from the gentle branching to the soft movement of the foliage—crafted to mirror the look of a mature olive tree. Set in minimalist stone-finished pots, this pairing blends seamlessly into a wide range of interiors, from modern and transitional to coastal and European-inspired spaces. Style in a bathroom, on a console table, fireplace, or entryway table to provide the perfect touch of greenery for elevated ambiance. Completely maintenance-free, this artificial olive tree require no watering, sunlight, or pruning, staying perfectly styled year-round. They’re an ideal solution for busy homes, second residences, or commercial spaces where consistency and ease are essential. Elegant, versatile, and enduring, this olive tree set delivers timeless greenery with zero upkeep—an effortless way to elevate your space through thoughtful design. Dimensions: 29"h x 13" w Weight: 4.5 lbs SKU: OLV-29
+  Updated: 2026-10-19T03:29:33Z
+  Vendor: Vivian Rose Shop
+  Product Type: Home & Garden > Decor > Artificial Flora > Artificial Trees
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/olive_tree_topiary.webp?v=1792337335
+  Price: $115.00 USD
+- [Rose Echeveria Succulent Arrangement Centerpiece](https://vivian-rose.shop/products/rose-echeveria-succulent-arrangement): This beautiful table top succulent arrangement is the perfect small centerpiece or accent piece to elevate the ambiance of any room. The mauve pink and green succulents are perfectly arranged in a unique rose frosted planter that gives a chic rustic feel. Display on a coffee table, small dining table, living room table, or entryway table for all to admire. Dimensions: 16"W X 11"H Weight: 8 lb SKU: SBR-1 This item is Final .
+  Updated: 2026-10-19T04:02:39Z
+  Vendor: Vivian Rose Shop
+  Product Type: Home & Garden > Decor > Artificial Flora
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/succulentarrangement.webp?v=1792339369
+  Price: $285.00 USD
+- [Succulent Arrangement in Long White Planter](https://vivian-rose.shop/products/succulent-arrangement-in-long-white-planter): This succulents and echeveria arrangement is displayed in a long white planter for the perfect table centerpiece. Style on a rectangular dining room table, living room table, or grand entryway table for best placement. Dimensions: 9"h x 36" Categories: Table Top This item is Final .
+  Updated: 2026-10-19T04:11:30Z
+  Vendor: Vivian Rose Shop
+  Product Type: Home & Garden > Decor > Artificial Flora
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0513/7953/6021/files/succulentarrangementdiningroomtable_24d4667e-4377-45fc-9493-7e5a4ec36f8b.webp?v=1792340176
+  Price: $550.00 USD
+[List Continued](https://vivian-rose.shop/a/llms-agent/llms.txt?shop=vivian-rose-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ0ODkxMDkyMTg3NywibGFzdF92YWx1ZSI6IjE1NDQ4OTEwOTIxODc3In0%3D)
 
 ## Collections
 
@@ -1483,11 +1553,11 @@
   Updated: 2024-11-06T16:06:45Z
   Total Products: 0
 - [Artificial Plants | Faux House Plants](https://vivian-rose.shop/collections/artificial-plants-faux-house-plants): Artificial house plants : artificial sansevieria ( snake plant ), faux olive topiary trees, faux ferns, artificial monstera plants, faux orchids, and succulents
-  Updated: 2026-10-13T13:40:15Z
-  Total Products: 46
+  Updated: 2026-10-22T02:59:16Z
+  Total Products: 52
 - [Topiaries](https://vivian-rose.shop/collections/topiaries-boxwood-cedar-tea-leaf): Topiaries | Preserved  boxwood, preserved cedar and tea leaf topiaries
-  Updated: 2026-10-12T22:21:33Z
-  Total Products: 14
+  Updated: 2026-10-19T16:04:35Z
+  Total Products: 15
 - [Faux Ranunculus Arrangements](https://vivian-rose.shop/collections/faux-ranunculus-arrangements-silk-flower-arrangements): Vivian Rose offers gorgeous faux ranunculus arrangements, no maintenance required and blooms year-round. These silk flower arrangements are timeless and elevate your home.
   Updated: 2026-10-10T15:06:55Z
   Total Products: 4
@@ -1504,38 +1574,38 @@
   Updated: 2026-07-08T20:17:01Z
   Total Products: 2
 - [Preserved Wreaths and Accents](https://vivian-rose.shop/collections/preserved-wreaths-and-accents): Front door wreaths and indoor wreaths made of real, natural preserved boxwood, eucalyptus and lavender.
-  Updated: 2026-07-08T20:17:06Z
-  Total Products: 1
+  Updated: 2026-10-19T14:28:32Z
+  Total Products: 2
 - [Artificial Trees](https://vivian-rose.shop/collections/artificial-trees): Shop fiddle leaf fig trees, faux olive trees, artificial palm trees, ficus trees. Indoor outdoor high quality artificial trees. 4FT, 5FT, 6FT, 7FT, 10FT >>>
-  Updated: 2026-10-14T19:18:43Z
-  Total Products: 76
+  Updated: 2026-10-22T17:54:10Z
+  Total Products: 81
 - [Luxury Home Scents](https://vivian-rose.shop/collections/home-scents): Handmade luxury decorative candles, home diffusers, and room sprays
-  Updated: 2026-10-14T00:02:32Z
+  Updated: 2026-10-22T00:15:17Z
   Total Products: 22
 - [Artificial Succulent Plants](https://vivian-rose.shop/collections/artificial-succulent-plants): Shop high-quality artificial succulent plants and realistic faux succulent arrangements. Low-maintenance artificial desert plants: artificial snake plant etc.
-  Updated: 2026-10-12T14:23:16Z
-  Total Products: 10
+  Updated: 2026-10-22T02:59:16Z
+  Total Products: 14
 - [Faux Olive Trees](https://vivian-rose.shop/collections/faux-olive-trees): Realistic Faux Olive Trees Transform your space with our curated collection of realistic faux olive trees, the ultimate choice for adding a touch of Mediterranean charm and organic, airy beauty to your home. Designed for the modern, busy lifestyle, these artificial olive trees offer the stunning, natural look of live plants with absolutely zero maintenance—no watering, no pruning, and no sunlight required.
-  Updated: 2026-10-14T00:17:51Z
-  Total Products: 22
+  Updated: 2026-10-22T16:20:13Z
+  Total Products: 24
 - [Artificial Fiddle Leaf Fig Tree](https://vivian-rose.shop/collections/artificial-fiddle-leaf-fig-tree): Elevate your interior design with our curated collection of artificial fiddle leaf fig trees, the ultimate low-maintenance solution for bringing vibrant greenery into your home.
-  Updated: 2026-10-14T19:18:43Z
+  Updated: 2026-10-19T00:21:32Z
   Total Products: 16
 - [Artificial Palm Trees](https://vivian-rose.shop/collections/artificial-palm-trees): Artificial Palm Trees Bring tropical vibes indoors with this stunning collection of artificial palm trees. These lifelike fake palm trees include Areca Palm Trees, Golden Cane Artificial Palms, Realistic Paradise Palm Trees, Kentia Palm, and Bamboo Palms, Majesty Palms. UV resistant options for indoor outdoor faux tree decor, potted palm trees or drop-in options available.
-  Updated: 2026-10-12T22:21:33Z
+  Updated: 2026-10-22T02:51:16Z
   Total Products: 10
-- [Artificial Ficus Trees](https://vivian-rose.shop/collections/artificial-ficus-trees): Artificial ficus trees transform your space with our curated collection of lifelike artificial ficus trees, designed to bring timeless, natural beauty indoors without the maintenance.
-  Updated: 2026-10-10T15:06:53Z
-  Total Products: 8
+- [Artificial Ficus Trees](https://vivian-rose.shop/collections/artificial-ficus-trees): Artificial ficus trees transform your space; lifelike artificial ficus trees, designed to bring timeless, natural beauty indoors without the maintenance.
+  Updated: 2026-10-18T14:53:08Z
+  Total Products: 13
 - [2 FT- 4 FT Artificial Trees ( 24" to 48" )](https://vivian-rose.shop/collections/2-ft-4-ft-trees-24-to-48): 2' trees , 3' trees and 4' artificial trees.
-  Updated: 2026-10-11T20:22:02Z
-  Total Products: 11
+  Updated: 2026-10-22T02:59:16Z
+  Total Products: 15
 - [5FT - 6FT Artificial Trees ( 60" to 72" )](https://vivian-rose.shop/collections/5ft-6ft-artificial-trees-60-to-72): Fiddle leaf fig trees, faux olive trees, artificial palm trees, ficus trees, artificial monstera tree, artificial snake plants. artificial trees for modern home decor.
-  Updated: 2026-10-14T00:17:51Z
-  Total Products: 19
+  Updated: 2026-10-22T16:20:13Z
+  Total Products: 23
 - [7 FT Artificial Trees ( 72" + )](https://vivian-rose.shop/collections/7-ft-artificial-trees): 7 FT Artificial Trees: faux olive trees, fiddle leaf fig trees, artificial palm trees, faux ficus trees and UV resistant indoor outdoor artificial trees.
-  Updated: 2026-10-14T19:18:43Z
-  Total Products: 31
+  Updated: 2026-10-22T17:54:10Z
+  Total Products: 40
 - [Vanda Orchid Arrangements](https://vivian-rose.shop/collections/vanda-orchid-arrangements): Elevate your decor with a realistic Faux Vanda Orchid Arrangement; handcrafted, maintenance-free silk florals that bring exotic tropical beauty to any room!
   Updated: 2026-07-08T20:17:23Z
   Total Products: 2
@@ -1550,8 +1620,8 @@
     Updated: 2025-08-18T23:44:11Z
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, artificial orchid plant, faux florals, faux flowers, floral decor, home decor, interior design, orchid arrangements, orchid plants, silk floral arrangement
-  - [Orchid plants and orchid arrangements are a MUST have for the home](https://vivian-rose.shop/blogs/news/orchid-plants-and-orchid-arrangements-are-a-must-have-for-the-home): Orchid plants and orchid arrangements are a MUST have for the home
-    Updated: 2025-08-18T23:03:01Z
+  - [Why Faux Orchid Plants & Arrangements Are a Home Must-Have](https://vivian-rose.shop/blogs/news/orchid-plants-and-orchid-arrangements-are-a-must-have-for-the-home): Why Faux Orchid Plants & Arrangements Are a Home Must-Have
+    Updated: 2026-10-20T19:37:17Z
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, artificial orchid plant, faux florals, faux flowers, faux orchid centerpiece, feng shui, floral decor, interior design, orchid arrangements, orchid centerpiece, orchid gift, orchid plants, orchids, silk floral arrangement
   - [Best Placement for Orchid Centerpieces in Your Home](https://vivian-rose.shop/blogs/news/best-placement-for-orchid-centerpieces-in-your-home)
@@ -1563,15 +1633,19 @@
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, artificial orchid plant, faux florals, faux flowers, faux orchid centerpiece, feng shui, home decor, interior design, orchid arrangements, orchid centerpiece, orchid gift, orchid plants, orchids
   - [Five Ways Interior Designers Use Faux Flowers to Elevate a Space](https://vivian-rose.shop/blogs/news/five-ways-interior-designers-use-faux-flowers-to-elevate-a-space): <p data-end="3410" data-start="3158">Interior designers use flowers not just for decoration but as a tool to shape ambiance, balance colors, and bring nature into a space. Whether for a simple refresh or a dramatic statement, flowers add charm, warmth, and a touch of luxury to any home. </p>
-    Updated: 2025-08-18T23:42:55Z
+    Updated: 2026-10-20T19:47:48Z
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, faux florals, faux flowers, feng shui, floral decor, home decor, interior design, silk floral arrangement, silk flower arrangement
   - [Design with Faux Peony Arrangements](https://vivian-rose.shop/blogs/news/design-with-peonies-symbolism-cultural-significance-and-feng-shui-benefits): <p><meta charset="utf-8">Peonies are more than just beautiful flowers; they carry powerful meanings of love, prosperity, and protection. Whether in feng shui, wedding décor, or home arrangements, these blooms bring positive energy and timeless elegance.</p>
     Updated: 2025-08-19T00:01:22Z
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, faux florals, faux flowers, faux peonies, faux peony arrangement, feng shui, floral decor, home decor, peonies, peonies in vase, silk floral arrangement
-  - [Silk Flower Arrangements: The Hypoallergenic, Pet-Friendly Alternative to Fresh Blooms](https://vivian-rose.shop/blogs/news/silk-flower-arrangements-the-hypoallergenic-pet-friendly-alternative-to-fresh-blooms)
-    Updated: 2025-02-20T14:43:38Z
+  - [Silk Flower Arrangements: The Hypoallergenic, Pet-Friendly Alternative to Fresh Blooms](https://vivian-rose.shop/blogs/news/silk-flower-arrangements-the-hypoallergenic-pet-friendly-alternative-to-fresh-blooms): <div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="c" data-hveid="CAAICRAA" data-complete="true" data-processed="true">
+<strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true">Looking for gorgeous floral decor without the sneezing fits or pet safety worries? Discover why high-quality silk flower arrangements are the ultimate hypoallergenic, pet-safe, and non-toxic alternative to fresh blooms<!--TgQPHd|||[]--></strong>. This guide highlights the benefits of premium faux florals for allergy sufferers, homes with cats and dogs, and busy professionals seeking stunning, low-maintenance centerpieces.<span></span><!--TgQPHd|||[]-->
+</div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+    Updated: 2026-10-20T19:32:35Z
     Author: Catherine Clishem
     Tags: artificial flower arrangement, artificial orchid plant, faux florals, faux flowers, faux orchid centerpiece, faux peony arrangement, home decor, hypoalergenic, pet friendly flowers, silk floral arrangement, silk flower arrangement
   - [Peony Flowers Symbolic Meaning](https://vivian-rose.shop/blogs/news/peony-flowers-symbolic-meaning): <p><meta charset="utf-8">Peonies are believed to bring <strong data-start="2644" data-end="2685">positive energy, love, and prosperity</strong> to a home. They are often placed in the bedroom to enhance romantic relationships or in the living room to attract wealth.</p>
@@ -1586,20 +1660,33 @@
     Updated: 2026-03-25T21:50:54Z
     Author: Vivian Rose.Shop
     Tags: artificial flower arrangement, faux florals, faux flowers, faux orchid centerpiece, feng shui, floral decor, interior design, silk floral arrangement, silk flower arrangement
-  - [Which Artificial Trees Are The Most Popular in 2026?](https://vivian-rose.shop/blogs/news/which-artificial-trees-are-the-most-popular-in-2026)
-    Updated: 2026-10-07T18:08:25Z
+  - [Which Artificial Trees Are The Most Popular in Home Decor?](https://vivian-rose.shop/blogs/news/which-artificial-trees-are-the-most-popular-in-home-decor)
+    Updated: 2026-10-19T13:26:40Z
     Author: Vivian Rose.Shop
     Tags: artificial trees
   - [How can I make my fake tree look real?](https://vivian-rose.shop/blogs/news/how-can-i-make-my-fake-tree-look-real)
     Updated: 2026-01-27T16:30:01Z
     Author: Vivian Rose.Shop
     Tags: artificial trees
-  - [How Tall Should My Faux Tree Be?](https://vivian-rose.shop/blogs/news/how-tall-should-my-faux-tree-be)
-    Updated: 2026-10-05T13:00:12Z
+  - [How Tall Should My Faux Tree Be?](https://vivian-rose.shop/blogs/news/how-tall-should-my-faux-tree-be): <div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-hveid="CAAIDRAA" data-complete="true" data-processed="true">
+<strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">An indoor faux tree should stand at least 12 inches lower than your ceiling height to maintain correct interior design proportions.<!--TgQPHd|||[]--></strong> Our comprehensive <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">Faux Tree Height Guide<!--TgQPHd|||[]--></strong> from Vivian Rose Shop provides clear size rules: standard 8-to-9 foot ceilings require a <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">6 ft to 7.5 ft tree<!--TgQPHd|||[]--></strong>, while compact spaces like kitchens or apartments are best suited for <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">4 ft to 6 ft trees<!--TgQPHd|||[]--></strong>. For grand rooms or entryways with high or vaulted ceilings, select <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">9 ft, 10 ft, or taller trees<!--TgQPHd|||[]--></strong> to fill the vertical space effectively without crowding. Learn the best tips for selecting slim vs. full widths, measuring spaces accurately, and utilizing designer planter tricks to effortlessly boost your artificial greenery’s height.<span></span><!--TgQPHd|||[]-->
+</div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<hr class="s6NV4e" data-sfc-root="ep" data-epip="" data-sfc-pl="|||[]" data-complete="true" data-processed="true" data-sae="">
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<div class="ZLzG0d ncoeY E8xBUb" role="heading" aria-level="3" data-animation-nesting="" data-sfc-cp="" data-wiz-attrbind="aria-level=vdfOAf_1w/fLk2Md" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sae="" aria-owns="action-menu-parent-container"><br></div>
+<p class="n6owBd awi2gc" data-sfc-root="ep" data-hveid="CAAICRAA" data-complete="true" data-processed="true"><br><!--TgQPHd|||[]--></p>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<hr class="s6NV4e" data-sfc-root="ep" data-epip="" data-sfc-pl="|||[]" data-complete="true" data-processed="true" data-sae="">
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+    Updated: 2026-10-19T14:48:50Z
     Author: Vivian Rose.Shop
     Tags: artificial trees
-  - [How To Choose The Right Artificial Tree For A Space?](https://vivian-rose.shop/blogs/news/how-to-choose-the-right-artificial-tree-for-a-space)
-    Updated: 2026-10-05T13:12:36Z
+  - [How To Choose The Right Artificial Tree For A Space?](https://vivian-rose.shop/blogs/news/how-to-choose-the-right-artificial-tree-for-a-space): <div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="c" data-hveid="CAAICBAA" data-complete="true" data-processed="true">
+<strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true"><span data-subtree="aimfl" data-processed="true">Elevate your interior decor instantly by learning how to choose the right artificial tree for your home or office</span><!--TgQPHd|||[]--></strong>. This definitive guide breaks down the essential factors for buying faux greenery, including room <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true">height proportions<!--TgQPHd|||[]--></strong>, <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true">volume scaling<!--TgQPHd|||[]--></strong>, <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true">believable lighting conditions<!--TgQPHd|||[]--></strong>, and <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true">design styling tips<!--TgQPHd|||[]--></strong>.<span></span><!--TgQPHd|||[]-->
+</div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="c" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+    Updated: 2026-10-20T19:30:20Z
     Author: Vivian Rose.Shop
     Tags: artificial trees
   - [What Size Artificial Tree Do I Need?](https://vivian-rose.shop/blogs/news/what-size-artificial-tree-do-i-need)
@@ -1617,8 +1704,12 @@
   - [Are Artificial Trees Tacky?](https://vivian-rose.shop/blogs/news/are-artificial-trees-tacky)
     Updated: 2026-01-30T17:00:01Z
     Author: Vivian Rose.Shop
-  - [Frequently Asked Questions About Faux Flowers in 2026](https://vivian-rose.shop/blogs/news/frequently-asked-questions-about-faux-flowers-in-2026)
-    Updated: 2026-10-05T16:06:32Z
+  - [Frequently Asked Questions About Faux Flowers in 2026](https://vivian-rose.shop/blogs/news/frequently-asked-questions-about-faux-flowers-in-2026): <div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-hveid="CAAICRAA" data-complete="true" data-processed="true">Curious about upgrading your home decor with high-end artificial botanicals? <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">Vivian Rose Shop<!--TgQPHd|||[]--></strong> answers all your questions in our comprehensive 2026 guide to <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">premium faux floral arrangements<!--TgQPHd|||[]--></strong>. Discover how to select lifelike <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">"Real Touch" silk flowers<!--TgQPHd|||[]--></strong>, learn the best styling tips to make artificial centerpieces look realistic, and find out how to easily clean your investments. Serving design enthusiasts, both interior designers and home owners alike, we break down the top trending 2026 floral styles—including luxury faux orchids and silk peonies—bringing permanent, pet-friendly elegance to your space.<span></span><!--TgQPHd|||[]-->
+</div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<hr class="s6NV4e" data-sfc-root="ep" data-epip="" data-sfc-pl="|||[]" data-complete="true" data-processed="true" data-sae="">
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+    Updated: 2026-10-19T13:42:59Z
     Author: Catherine Clishem
     Tags: artificial flower arrangement, artificial orchid plant, faux florals, faux flowers, floral decor, home decor, interior design, pet friendly flowers, silk floral arrangement, silk flower arrangement
   - [Artificial Orchids vs. Real Orchids: Which Is Better for Your Home?](https://vivian-rose.shop/blogs/news/artificial-orchids-vs-real-orchids-which-is-better-for-your-home): Artificial Orchids vs. Real Orchids: Which Is Better for Your Home?
@@ -1646,13 +1737,24 @@
     Author: Catherine Clishem
     Tags: apartment decor orchids, artificial flower arrangement, artificial flower arrangement care, artificial orchid buying guide, artificial orchid care, artificial orchid gift, artificial orchids vs real orchids, faux floral maintenance, faux orchid longevity, how long do faux orchids last, PE orchid lifespan, premium artificial flowers, silk orchid care tips
   - [How to Decorate a Small Space with Orchids (Without Overcrowding It)](https://vivian-rose.shop/blogs/news/how-to-decorate-a-small-space-with-orchids-without-overcrowding-it): How to Decorate a Small Space with Orchids (Without Overcrowding It)
-    Updated: 2026-10-05T13:15:08Z
-    Author: Catherine Clishem
+    Updated: 2026-10-19T13:45:30Z
+    Author: Vivian Rose.Shop
     Tags: apartment decor orchids, artificial flower arrangement, artificial orchid gift, artificial orchids, bathroom orchid decor, faux florals, faux orchid arrangement, faux orchid styling, faux orchids, feng shui, floral decor, floral home decor, home decor, home office orchid, interior design, interior design florals, luxury home decor, minimalist home decor, nightstand orchid, orchid gift, orchids for small rooms, small space decor, small space florals
-  - [Why Premium Faux Floral Arrangements are the New Standard for Anniversary Gifting](https://vivian-rose.shop/blogs/news/why-premium-faux-floral-arrangements-are-the-new-standard-for-anniversary-gifting)
-    Updated: 2026-10-05T16:06:39Z
+  - [The Best Anniversary Gift for Her: Why Premium Faux Florals Are the New Luxury Standard](https://vivian-rose.shop/blogs/news/the-best-anniversary-gift-for-her-why-premium-faux-florals-are-the-new-luxury-standard): <div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-hveid="CAAIBxAA" data-complete="true" data-processed="true">
+<span data-subtree="aimfl" data-processed="true">Looking for the best </span><strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">anniversary gift for her<!--TgQPHd|||[]--></strong> that breaks the mold of temporary bouquets? <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">Vivian Rose Shop<!--TgQPHd|||[]--></strong> is redefining luxury gifting with <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">premium faux floral arrangements<!--TgQPHd|||[]--></strong>. While fresh flowers fade within a week, our stunning, masterfully crafted silk designs serve as an everlasting symbol of your journey together. Handcrafted with lifelike <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">"Real Touch" technology<!--TgQPHd|||[]--></strong>, these high-end artificial flowers bring breathtaking, stress-free elegance to any home, making them the ultimate luxury keepsake for your milestone celebration.<!--TgQPHd|||[]-->
+</div>
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+<hr class="s6NV4e" data-sfc-root="ep" data-epip="" data-sfc-pl="|||[]" data-complete="true" data-processed="true" data-sae="">
+<div class="yhAwj" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true" data-sfc-inited="2"><!--TgQPHd|||[]--></div>
+    Updated: 2026-10-19T13:40:54Z
     Author: Catherine Clishem
     Tags: anniversary gift, artificial flower arrangement, faux florals, faux flowers, faux orchid centerpiece, faux peonies, faux peony arrangement, floral home decor, home decor, interior design, luxury home decor, luxury home decor gift, orchid arrangements, orchid centerpiece, orchid gift, orchid home decor, orchid plants, peonies in vase, premium artificial flowers, premium faux arrangements, premium faux florals, real touch florals, silk floral arrangement, silk flower arrangement, wedding gift, wedding gift florals
+  - [Why Top Luxury Interior Designers are Switching to Silk Flower Arrangements](https://vivian-rose.shop/blogs/news/why-top-luxury-interior-designers-are-switching-to-silk-flower-arrangements): <p><meta charset="utf-8">Top interior designers are replacing fresh stems with premium silk flower arrangements and real-touch faux botanicals. Driven by the "quiet luxury" movement, high-end artificial arrangements offer hyper-realistic artistry, zero maintenance, and permanent structural perfection. Discover why multi-million dollar estates from Austin to Miami are investing in sustainable, lifelong faux floral centerpieces.</p>
+    Updated: 2026-10-19T16:06:17Z
+    Author: Vivian Rose.Shop
+  - [Faux Tree Height Guide: How to Choose the Perfect Size for Your Space](https://vivian-rose.shop/blogs/news/faux-tree-height-guide-how-to-choose-the-perfect-size-for-your-space): <p><meta charset="utf-8"><meta charset="utf-8"><strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">An indoor faux tree should stand at least 12 inches lower than your ceiling height to maintain correct interior design proportions.<!--TgQPHd|||[]--></strong> Our comprehensive <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">Faux Tree Height Guide<!--TgQPHd|||[]--></strong> provides exact scaling rules for every space: standard 8-to-9 foot ceilings require a <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">6 ft to 7.5 ft tree<!--TgQPHd|||[]--></strong>, high vaulted ceilings demand <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">9 ft to 14 ft trees<!--TgQPHd|||[]--></strong>, while compact rooms are best suited for <strong class="rQesXe MPyX" data-sfc-cp="" data-sfc-root="ep" data-epip="" data-complete="true" data-processed="true">4 ft to 6 ft trees<!--TgQPHd|||[]--></strong>. Learn how to accurately measure vertical space, select slim versus full tree widths, and use professional designer planter tricks to effortlessly boost the height of your artificial greenery.<br></p>
+    Updated: 2026-10-19T16:06:21Z
+    Author: Catherine Clishem
 
 ## Store Pages
 
@@ -1688,15 +1790,15 @@
 ## Policies
 
 - [Privacy Policy](https://vivian-rose.shop/policies/privacy-policy)
-  Updated: 2020-12-30T13:28:35-06:00
+  Updated: 2020-12-30T19:28:35Z
 - [Shipping Policy](https://vivian-rose.shop/policies/shipping-policy)
-  Updated: 2024-12-23T05:31:58-06:00
+  Updated: 2024-12-23T11:31:58Z
 - [Refund Policy](https://vivian-rose.shop/policies/refund-policy)
-  Updated: 2025-12-11T04:53:24-06:00
+  Updated: 2025-12-11T10:53:24Z
 - [Terms of Service](https://vivian-rose.shop/policies/terms-of-service)
-  Updated: 2022-11-30T13:25:15-06:00
+  Updated: 2022-11-30T19:25:15Z
 - [Contact Information](https://vivian-rose.shop/policies/contact-information)
-  Updated: 2022-11-30T13:15:50-06:00
+  Updated: 2022-11-30T19:15:50Z
 
 ## Optional
 
