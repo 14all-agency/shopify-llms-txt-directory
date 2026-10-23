@@ -6,46 +6,46 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-12T22:57:06Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-09-18T00:00:43.118Z
+- Updated At: 2026-10-23T00:48:20.062Z
 
 ## Products
 
 - [Love You to Death Vinyl](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl): Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-09-09T23:44:36Z
+  Updated: 2026-10-13T17:10:45Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDVinyl_cdeaa362-d9c0-4e33-940d-bab610d71a62.png?v=1775498022
   Price: $29.98 USD
 - [Love You to Death CD](https://juliacole.merchmadeeasy.com/products/love-you-to-death-cd): Love You to Death by Julia Cole available on CD Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-09-16T18:09:57Z
+  Updated: 2026-10-14T02:02:06Z
   Vendor: Julia Cole
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDCD_71cc0df2-0228-458f-99c4-08ce1a1cf9e4.png?v=1775497949
   Price: $9.98 USD
 - [Love You to Death Vinyl (Signed)](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl-signed): Cover signed by Julia Cole Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-09-16T05:59:32Z
+  Updated: 2026-10-21T21:39:43Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDVinylSigned_2de4b781-ef4d-4af7-9e94-2fbc6a694ad0.png?v=1775497970
   Price: $39.98 USD
 - [Love You to Death CD (Signed)](https://juliacole.merchmadeeasy.com/products/love-you-to-death-cd-signed): Inner sleeve signed by Julia Love You to Death by Julia Cole available on CD Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-09-17T16:54:56Z
+  Updated: 2026-10-20T13:17:36Z
   Vendor: Julia Cole
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDCDSigned_60175d55-43ff-46d2-b397-8151da8998f7.png?v=1775497977
   Price: $19.98 USD
 - [Sisterhood Country Tee](https://juliacole.merchmadeeasy.com/products/sisterhood-country-tee): Sisterhood Country design on the front 100% Cotton tee in Natural Unisex
-  Updated: 2026-09-12T22:27:57Z
+  Updated: 2026-10-16T20:37:42Z
   Vendor: Julia Cole
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/Sisterhood-Country-Tee_6f1fe18d-f02d-4acf-bdc8-d3b0e5479d00.png?v=1778162990
   - [S](https://juliacole.merchmadeeasy.com/products/sisterhood-country-tee?variant=48221434151104)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [M](https://juliacole.merchmadeeasy.com/products/sisterhood-country-tee?variant=48221434183872)
     Availability: Available
@@ -60,14 +60,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Red Logo Koozie](https://juliacole.merchmadeeasy.com/products/red-logo-koozie): Julia Cole logo printed on both size Red koozie Fits standard size cans
-  Updated: 2026-09-02T02:50:27Z
+  Updated: 2026-10-06T15:23:08Z
   Vendor: Julia Cole
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/Red-Logo-Koozie.png?v=1777578742
   Price: $5.00 USD
 - [Red Logo Tee](https://juliacole.merchmadeeasy.com/products/red-logo-tee): JC logo on the front chest Julia Cole on the back 100% Cotton tee in Red Unisex
-  Updated: 2026-09-12T19:40:56Z
+  Updated: 2026-10-16T20:37:43Z
   Vendor: Julia Cole
   Product Type: T-Shirt
   Availability: Available
@@ -91,14 +91,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Daddy Daughter Dance Card](https://juliacole.merchmadeeasy.com/products/daddy-daughter-dance-card): Folded greeting card featuring Daddy Daughter Dance lyrics Does not come with an envelope
-  Updated: 2026-08-13T09:26:21Z
+  Updated: 2026-10-05T13:06:18Z
   Vendor: Julia Cole
   Product Type: Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/JULIA_Dance_Card_front.png?v=1781287469
   Price: $8.00 USD
 - [Love You To Death Photo Tee](https://juliacole.merchmadeeasy.com/products/love-you-to-death-photo-tee): Love You To Death album cover on the front 100% Cotton tee in Black Unisex
-  Updated: 2026-09-14T19:09:46Z
+  Updated: 2026-10-16T20:37:43Z
   Vendor: Julia Cole
   Product Type: T-Shirt
   Availability: Available
@@ -118,27 +118,83 @@
   - [2XL](https://juliacole.merchmadeeasy.com/products/love-you-to-death-photo-tee?variant=48935050707136)
     Availability: Available
     Price: $35.00 USD
+- [Buck Short Hat](https://juliacole.merchmadeeasy.com/products/buck-short-hat): 5 panel two-tone trucker hat in natural/red. Day Late and a Buck Short embroidery on front, Julia Cole logo embroidery on reverse
+  Updated: 2026-10-13T05:19:07Z
+  Vendor: Julia Cole
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/167965_2_310564_d.png?v=1791034452
+  Price: $35.00 USD
+- [Sisterhood Country Crewneck](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck): Sisterhood Country design on the front Navy sweatshirt 80/20 cotton/polyester Unisex
+  Updated: 2026-10-16T20:37:31Z
+  Vendor: Julia Cole
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/JuliaSisterhoodCountryCrew.png?v=1791469866
+  - [S](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck?variant=50445528334528)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck?variant=50445528367296)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck?variant=50445528400064)
+    Availability: Available
+    Price: $60.00 USD
+  - [XL](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck?variant=50445528432832)
+    Availability: Available
+    Price: $60.00 USD
+  - [2XL](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck?variant=50445528465600)
+    Availability: Available
+    Price: $60.00 USD
+- [White Bandana](https://juliacole.merchmadeeasy.com/products/white-bandana): Julia Cole logo printed on the front in a paisley pattern 100% cotton 22x22"
+  Updated: 2026-10-10T02:36:59Z
+  Vendor: Julia Cole
+  Product Type: Bandana
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/JuliaColeWhiteBandana_a0ae58a1-9eb9-40b8-8c55-c4256ac27b3e.png?v=1791558223
+  Price: $15.00 USD
+- [Love You To Death Maroon Tee](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee): Love You To Death 100% cotton tee in Maroon Unisex
+  Updated: 2026-10-16T20:37:44Z
+  Vendor: Julia Cole
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LoveYouToDeathMaroonTee.png?v=1791568151
+  - [S](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068863680)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068896448)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068929216)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068961984)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://juliacole.merchmadeeasy.com/products/love-you-to-death-maroon-tee?variant=50457068994752)
+    Availability: Available
+    Price: $35.00 USD
 
 ## Collections
 
 - [Home page](https://juliacole.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-17T11:13:46Z
-  Total Products: 14
+  Updated: 2026-10-22T11:17:55Z
+  Total Products: 16
 - [Apparel](https://juliacole.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-13T11:11:23Z
-  Total Products: 5
+  Updated: 2026-10-16T20:37:32Z
+  Total Products: 7
 - [Accessories](https://juliacole.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-02T11:13:12Z
-  Total Products: 2
+  Updated: 2026-10-10T11:12:49Z
+  Total Products: 4
 - [All](https://juliacole.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-17T11:13:46Z
-  Total Products: 10
+  Updated: 2026-10-22T11:17:55Z
+  Total Products: 14
 - [Music](https://juliacole.merchmadeeasy.com/collections/music)
-  Updated: 2026-09-17T11:13:46Z
+  Updated: 2026-10-22T11:17:55Z
   Total Products: 5
 - [Love You to Death](https://juliacole.merchmadeeasy.com/collections/love-you-to-death)
-  Updated: 2026-09-17T11:13:46Z
-  Total Products: 8
+  Updated: 2026-10-22T11:17:55Z
+  Total Products: 9
 
 ## Store Pages
 
@@ -158,15 +214,15 @@
 ## Policies
 
 - [Privacy Policy](https://juliacole.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-19T11:24:49-05:00
+  Updated: 2026-06-19T16:24:49Z
 - [Shipping Policy](https://juliacole.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-03-05T09:25:25-06:00
+  Updated: 2026-03-05T15:25:25Z
 - [Refund Policy](https://juliacole.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-19T11:24:43-05:00
+  Updated: 2026-06-19T16:24:43Z
 - [Terms of Service](https://juliacole.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-03-05T09:25:08-06:00
+  Updated: 2026-03-05T15:25:08Z
 - [Contact Information](https://juliacole.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-03-05T09:24:57-06:00
+  Updated: 2026-03-05T15:24:57Z
 
 ## Optional
 
