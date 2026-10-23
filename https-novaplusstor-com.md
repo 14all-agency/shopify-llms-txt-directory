@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-09-16T00:00:47.559Z
+- Updated At: 2026-10-23T00:56:57.873Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -14,7 +14,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Products
 
 - [Genouillère Kuangmi® Nova+ — Soulager la douleur au genou | Maintien réglable](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus): Genouillère réglable et respirante pour soulager la douleur au genou, l'arthrose et la reprise du sport. Tailles M à XL. Livraison rapide.
-  Updated: 2026-08-16T11:59:16Z
+  Updated: 2026-10-19T13:28:47Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -56,7 +56,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 27,99 € EUR
 - [Sangle Rotulienne Nova+ — Soulager la tendinite et la douleur sous la rotule](https://novaplusstor.com/products/sangle-rotulienne): Sangle rotulienne réglable en néoprène pour soulager la tendinite rotulienne et le syndrome rotulien. Légère, discrète, efficace.
-  Updated: 2026-09-12T13:13:13Z
+  Updated: 2026-10-19T13:28:46Z
   Vendor: Nova+
   Product Type: Sangle rotulienne
   Availability: Available
@@ -68,7 +68,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 14,99 € EUR
 - [Genouillère Thermique Nova+ — Chaud & Froid pour la récupération du genou](https://novaplusstor.com/products/genouillere-thermique-nova-plus): Genouillère thermique chaud & froid pour accompagner la récupération du genou. Poche gel amovible, compression douce. Peut aider à réduire l'inconfôrt après l'effort.
-  Updated: 2026-07-29T16:00:45Z
+  Updated: 2026-10-19T13:22:56Z
   Vendor: Nova+
   Product Type: Genouillère thermique
   Availability: Available
@@ -82,14 +82,14 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/d33391cd-0a7f-4ea3-8322-10812307d2a2.jpg?v=1780832455
     Price: 25,00 € EUR
 - [Patch Genou Nova+ — Confort articulaire discret au quotidien](https://novaplusstor.com/products/patch-genou-nova-plus): Patch genou discret à appliquer directement sur la zone inconfortable. Peut contribuer au confort articulaire au quotidien. 15 patchs par sachet.
-  Updated: 2026-07-29T18:56:40Z
+  Updated: 2026-10-19T13:23:02Z
   Vendor: Nova+
   Product Type: Patch antidouleur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_b3fbe75f-d8b6-4faa-9cc2-4a96efb34bfd.png?v=1780870780
   Price: 14,99 € EUR
 - [Genouillère Sport 3D Nova+ — Maintien genou pour course et musculation](https://novaplusstor.com/products/genouillere-flex-3d-nova-plus): Genouillère sport 3D en nylon/lycra pour maintien renforcé du genou. Idéale course, musculation, rééducation. Tailles S à 4XL, 5 coloris.
-  Updated: 2026-07-29T16:00:50Z
+  Updated: 2026-10-19T13:23:01Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -187,7 +187,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Not Available
     Price: 19,99 € EUR
 - [Manchon de Compression Jambe Nova+ — Soutien cuisse, genou & mollet](https://novaplusstor.com/products/manchon-compression-jambe-nova-plus): Manchon de compression léger pour soutenir cuisse, genou et mollet. Peut aider à réduire la fatigue et la lourdeur dans la jambe pendant et après l'effort.
-  Updated: 2026-07-29T16:00:58Z
+  Updated: 2026-10-19T13:22:47Z
   Vendor: Nova+
   Product Type: Manchon de compression
   Availability: Available
@@ -579,15 +579,15 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Policies
 
 - [Privacy Policy](https://novaplusstor.com/policies/privacy-policy)
-  Updated: 2026-09-15T16:16:00+02:00
+  Updated: 2026-09-15T14:16:00Z
 - [Shipping Policy](https://novaplusstor.com/policies/shipping-policy)
-  Updated: 2026-09-15T16:22:34+02:00
+  Updated: 2026-09-15T14:22:34Z
 - [Refund Policy](https://novaplusstor.com/policies/refund-policy)
-  Updated: 2026-09-15T16:13:44+02:00
+  Updated: 2026-09-15T14:13:44Z
 - [Terms of Service](https://novaplusstor.com/policies/terms-of-service)
-  Updated: 2026-09-15T16:20:30+02:00
+  Updated: 2026-09-15T14:20:30Z
 - [Contact Information](https://novaplusstor.com/policies/contact-information)
-  Updated: 2026-09-15T16:25:15+02:00
+  Updated: 2026-09-15T14:25:15Z
 
 ## Réseaux sociaux
 - https://www.tiktok.com/@novaplus
