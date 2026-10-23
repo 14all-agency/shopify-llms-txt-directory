@@ -6,55 +6,51 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-08-31T08:07:01Z
 - Contact Email: info@minadays.com
-- Updated At: 2026-10-06T00:00:43.284Z
+- Updated At: 2026-10-23T00:51:28.537Z
 
 ## Products
 
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-09-30T08:15:06Z
+  Updated: 2026-10-18T09:54:55Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Warum_Sie_auf_ein_Gratisaktion.jpg?v=1787551144
   - [16 Stück / Normal](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=52014220902732)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/CBD-Tampons-Normal-16stueck.png?v=1786644959
     Price: 19,80 € EUR
   - [16 Stück / Super](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=53425008869708)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/CBD-Tampons-Normal-16stueck.png?v=1786644959
     Price: 19,80 € EUR
   - [4 Stück / Normal](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=52014220935500)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Minadays-tampons-1_-_Normal_-_4Pack_1992585f-4c97-4e82-83a5-dc8ef314e796.webp?v=1785443514
     Price: 6,70 € EUR
   - [4 Stück / Super](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=53425008902476)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Minadays-tampons-1_-_Normal_-_4Pack_1992585f-4c97-4e82-83a5-dc8ef314e796.webp?v=1785443514
     Price: 6,70 € EUR
 - [Damenbinden mit Bambusviskose | MinaDays](https://www.minadays.com/products/bambusfaser-binden): Erlebe natürlichen Komfort und Schutz mit MinaDays Binden ♥ Ultraleicht, dünn und extrem saugfähig – ideal für jeden Tag ♥ Hier klicken
-  Updated: 2026-09-25T03:19:07Z
+  Updated: 2026-10-19T09:49:10Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Bambusbinden-kaufen.webp?v=1787550836
   Price: 8,50 € EUR
 - [Bambus-Slipeinlagen vegan | MinaDays®](https://www.minadays.com/products/bambus-slipeinlagen): 45 Premium-Slipeinlagen aus Bambus mit weicher Oberfläche und ultradünn. Vegan, chlorfrei und für ein angenehmes Tragegefühl entwickelt. Nicht jeder Tag der Periode ist gleich – und auch an den Tagen davor oder danach wünschst du dir ein gutes Gefühl im Alltag. Genau dafür wurden die MinaDays® Slipeinlagen entwickelt. Die weiche Oberfläche aus Bambusviskose sorgt für ein angenehmes Tragegefühl und begleitet dich unauffällig durch den Tag. Dank ihrer ultradünnen Form schmiegen sich die Slipeinlagen komfortabel an, ohne aufzutragen für ein sicheres Gefühl im Alltag. Ob als täglicher Begleiter oder als Ergänzung deiner Periodenroutine – MinaDays® Slipeinlagen verbinden Komfort mit sorgfältig ausgewählten Materialien und einem durchdachten Produktkonzept. So kannst du dich auf das konzentrieren, was wirklich zählt. Warum MinaDays®? MinaDays® steht für eine neue Generation von Perioden- und Intimpflegeprodukten. Wir glauben, dass auch die kleinen Begleiter des Alltags mit derselben Sorgfalt entwickelt werden sollten wie jedes andere Produkt, das täglich mit dem Körper in Berührung kommt. Unsere Slipeinlagen aus Bambusviskose sind Ausdruck dieses Anspruchs. Sorgfältig ausgewählte Materialien, ein angenehmes Tragegefühl und eine durchdachte Verarbeitung machen sie zu einem unauffälligen Begleiter. Leicht. Unauffällig. Für deinen Alltag gemacht.
-  Updated: 2026-09-07T19:28:47Z
+  Updated: 2026-10-20T13:46:26Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-Bambusviskose-kaufen.webp?v=1787550792
   Price: 7,50 € EUR
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-mit-cbd-kamille-normal): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-10-04T10:03:45Z
+  Updated: 2026-10-20T13:46:15Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/CBD-Tampons-Normal-16stueck.png?v=1786644959
+  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Tampons-Normal_1.jpg?v=1791469973
   Price: 0,00 € EUR
 - [MinaDays Perioden-Set](https://www.minadays.com/products/minadays-perioden-set): Hier im Set erhältst du unsere 3 Perioden-Produkte: 1x 16 CBD-Tampons (Super oder Normal), 1x 20 Slipeinlagen und 1x 45 Binden. So kannst du alle unsere Produkte einmal ausprobieren! 16 Tampons aus Viskose mit Cannabidiol (CBD)* und römischer Kamille** 100 % vegan, chlorfrei gebleicht (TCF) Abbildung dient nur als Beispiel, Design der Verpackung kann abweichen. 45 Premium-Slipeinlagen aus Bambus mit weicher Oberfläche und ultradünn. 20 Premium-Binden aus Bambusviskose mit weicher Oberfläche und hoher Saugkraft. Jeweils aus Bambusviskose * Cannabidiol (CBD) ist ein Bestandteil der Hanfpflanze und gehört zur Gruppe der sogenannten Cannabinoide (natürliche Verbindungen in der Pflanze). * * Römische Kamille ist eine traditionelle Pflanze aus dem Mittelmeerraum, die seit langem in verschiedenen Pflegeprodukten genutzt wird.
-  Updated: 2026-09-25T03:23:15Z
+  Updated: 2026-10-14T13:54:06Z
   Vendor: MinaDays® GmbH
   Product Type: 
   Availability: Available
@@ -69,10 +65,10 @@
 ## Collections
 
 - [Produkte](https://www.minadays.com/collections/all): Mit CBD-Tampons & Bambus-Binden durch deine Tage
-  Updated: 2026-10-04T11:15:03Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 11
 - [Intimpflege](https://www.minadays.com/collections/intimpflege)
-  Updated: 2026-09-08T11:16:22Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 3
 - [Körperpflege & Entspannung](https://www.minadays.com/collections/korperpflege-entspannung)
   Updated: 2026-08-29T00:58:12Z
@@ -84,19 +80,19 @@
   Updated: 2026-08-29T00:58:13Z
   Total Products: 0
 - [Damenhygiene](https://www.minadays.com/collections/damenhygiene)
-  Updated: 2026-09-20T11:11:57Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 2
 - [Tampons](https://www.minadays.com/collections/tampons)
-  Updated: 2026-10-04T11:15:03Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 2
 - [Binden](https://www.minadays.com/collections/binden)
-  Updated: 2026-09-20T11:11:57Z
+  Updated: 2026-10-19T11:14:05Z
   Total Products: 1
 - [Slipeinlagen](https://www.minadays.com/collections/slipeinlagen)
-  Updated: 2026-09-08T11:16:22Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 1
 - [Orderly Emails - Recommended Products](https://www.minadays.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-10-04T11:15:03Z
+  Updated: 2026-10-21T11:16:55Z
   Total Products: 6
 
 ## Blogs
@@ -129,6 +125,10 @@
     Updated: 2026-09-01T05:53:42Z
     Author: Patrick Meier
     Tags: CBD-Tampons, Schwimmen während der Periode, Tampons zum Schwimmen
+  - [Welche Tampons sind sicher? Gehören CBD-Tampons dazu?](https://www.minadays.com/blogs/news/welche-tampons-sind-sicher-erkundung-der-vorteile-von-cbd-tampons)
+    Updated: 2026-10-21T06:50:37Z
+    Author: Patrick Meier
+    Tags: CBD-Tampons, Menstruationspflege, natürliche Tampons, sichere Tampons
   - [Slipeinlagen: Wann sind sie sinnvoll und wie verwendet man sie richtig?](https://www.minadays.com/blogs/news/slipeinlagen-ratgeber)
     Updated: 2026-08-27T06:21:53Z
     Author: Patrick Meier
@@ -141,6 +141,10 @@
     Updated: 2026-09-23T06:24:01Z
     Author: Thomas Wrobel
     Tags: Gesundheit, Menstruation, PeriodeTipps
+  - [Perioden-Starter-Set: Alles, was du für deine erste Periode brauchst!](https://www.minadays.com/blogs/news/perioden-starter-set-alles-was-du-fur-deine-erste-periode-brauchst): Perioden-Starter-Set: Alles, was du für deine erste Periode brauchst!
+    Updated: 2026-10-08T14:27:47Z
+    Author: Patrick Meier
+    Tags: first period, menstrual hygiene, menstrual products, period starter kit, teen health
 
 ## Store Pages
 
@@ -262,13 +266,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.minadays.com/policies/privacy-policy)
-  Updated: 2026-07-02T15:38:52+02:00
+  Updated: 2026-07-02T13:38:52Z
 - [Refund Policy](https://www.minadays.com/policies/refund-policy)
-  Updated: 2025-05-12T19:15:02+02:00
+  Updated: 2025-05-12T17:15:02Z
 - [Terms of Service](https://www.minadays.com/policies/terms-of-service)
-  Updated: 2025-05-15T17:20:49+02:00
+  Updated: 2025-05-15T15:20:49Z
 - [Contact Information](https://www.minadays.com/policies/contact-information)
-  Updated: 2025-01-22T09:36:16+01:00
+  Updated: 2025-01-22T08:36:16Z
 
 ## Optional
 
