@@ -83,24 +83,24 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-06-14T16:33:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-13T00:00:42.499Z
+- Updated At: 2026-10-23T00:49:53.142Z
 
 ## Products
 
 - [First Heartbreak Blanket](https://shopus.lauvsongs.com/products/first-heartbreak-blanket): 50x60" woven blanket
-  Updated: 2026-10-08T13:48:05Z
+  Updated: 2026-10-13T15:48:03Z
   Vendor: Lauv
   Product Type: Blanket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVFHBlanket.png?v=1726071667
-  Price: $48.75 USD
+  Price: $55.00 USD
 - [Lauv = Love Hat](https://shopus.lauvsongs.com/products/lauv-love-hat): Mesh-back trucker hat
-  Updated: 2026-10-08T13:48:05Z
+  Updated: 2026-10-13T15:48:03Z
   Vendor: Lauv
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVlovehat_ae8ec62c-f582-41ce-9f94-1859e4284b47.png?v=1726172757
-  Price: $22.50 USD
+  Price: $25.00 USD
 - [Lauv = Love Tee](https://shopus.lauvsongs.com/products/lauv-love-tee): Heavyweight, garment-dyed t-shirt. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
   Updated: 2026-10-05T19:10:13Z
   Vendor: Lauv
@@ -123,205 +123,205 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [First Heartbreak Tee](https://shopus.lauvsongs.com/products/first-heartbreak-tee): Heavyweight, garment-dyed t-shirt. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-10-08T13:48:06Z
+  Updated: 2026-10-13T15:48:04Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVFHTeeFront.png?v=1726071677
   - [S](https://shopus.lauvsongs.com/products/first-heartbreak-tee?variant=42653014949939)
     Availability: Not Available
-    Price: $26.25 USD
+    Price: $25.00 USD
   - [M](https://shopus.lauvsongs.com/products/first-heartbreak-tee?variant=42653014982707)
     Availability: Not Available
-    Price: $26.25 USD
+    Price: $25.00 USD
   - [L](https://shopus.lauvsongs.com/products/first-heartbreak-tee?variant=42653015015475)
     Availability: Not Available
-    Price: $26.25 USD
+    Price: $25.00 USD
   - [XL](https://shopus.lauvsongs.com/products/first-heartbreak-tee?variant=42653015048243)
     Availability: Not Available
-    Price: $26.25 USD
+    Price: $25.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/first-heartbreak-tee?variant=42653015081011)
     Availability: Available
-    Price: $26.25 USD
+    Price: $25.00 USD
 - [First Heartbreak Hoodie](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie): 70% combed ringspun US cotton / 30% recycled polyester hoodie Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38 3XL 33 30 39
-  Updated: 2026-10-08T13:48:07Z
+  Updated: 2026-10-13T15:48:05Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_FH_Hoodie_FrontBack.png?v=1726071680
   - [S](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie?variant=42653015179315)
     Availability: Available
-    Price: $52.50 USD
+    Price: $60.00 USD
   - [M](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie?variant=42653015212083)
     Availability: Available
-    Price: $52.50 USD
+    Price: $60.00 USD
   - [L](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie?variant=42653015244851)
     Availability: Available
-    Price: $52.50 USD
+    Price: $60.00 USD
   - [XL](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie?variant=42653015277619)
     Availability: Available
-    Price: $52.50 USD
+    Price: $60.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie?variant=42653015310387)
     Availability: Available
-    Price: $52.50 USD
+    Price: $60.00 USD
 - [Overlap Tee](https://shopus.lauvsongs.com/products/overlap-tee): Heavyweight, garment-dyed t-shirt in mushroom. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-10-08T13:48:07Z
+  Updated: 2026-10-13T15:48:05Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Overlap_Tee.png?v=1759351981
   - [S](https://shopus.lauvsongs.com/products/overlap-tee?variant=43663763111987)
     Availability: Available
-    Price: $22.50 USD
+    Price: $30.00 USD
   - [M](https://shopus.lauvsongs.com/products/overlap-tee?variant=43663763144755)
     Availability: Available
-    Price: $22.50 USD
+    Price: $30.00 USD
   - [L](https://shopus.lauvsongs.com/products/overlap-tee?variant=43663763177523)
     Availability: Available
-    Price: $22.50 USD
+    Price: $30.00 USD
   - [XL](https://shopus.lauvsongs.com/products/overlap-tee?variant=43663763210291)
     Availability: Available
-    Price: $22.50 USD
+    Price: $30.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/overlap-tee?variant=43663763243059)
     Availability: Available
-    Price: $22.50 USD
+    Price: $30.00 USD
 - [Blush Logo Hoodie](https://shopus.lauvsongs.com/products/blush-logo-hoodie): 70% combed ringspun US cotton / 30% recycled polyester hoodie in blush Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38 3XL 33 30 39
-  Updated: 2026-10-08T13:48:08Z
+  Updated: 2026-10-13T15:48:06Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Blush_Logo_Hoodie.png?v=1759351981
   - [S](https://shopus.lauvsongs.com/products/blush-logo-hoodie?variant=43664875782195)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $80.00 USD
   - [M](https://shopus.lauvsongs.com/products/blush-logo-hoodie?variant=43664875814963)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $80.00 USD
   - [L](https://shopus.lauvsongs.com/products/blush-logo-hoodie?variant=43664875847731)
     Availability: Available
-    Price: $60.00 USD
+    Price: $80.00 USD
   - [XL](https://shopus.lauvsongs.com/products/blush-logo-hoodie?variant=43664875880499)
     Availability: Available
-    Price: $60.00 USD
+    Price: $80.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/blush-logo-hoodie?variant=43664875913267)
     Availability: Not Available
-    Price: $60.00 USD
+    Price: $80.00 USD
 - [Cassette Keychain](https://shopus.lauvsongs.com/products/cassette-keychain): Metal and enamel keychain
-  Updated: 2026-10-08T13:48:10Z
+  Updated: 2026-10-13T15:48:08Z
   Vendor: Lauv
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_0000_Cassette-Keychain.png?v=1774290890
-  Price: $11.25 USD
+  Price: $15.00 USD
 - [Charm Tee](https://shopus.lauvsongs.com/products/charm-tee): 100% cotton t-shirt in powder blue.
-  Updated: 2026-10-10T22:50:52Z
+  Updated: 2026-10-13T15:48:09Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Charm_Tee.png?v=1778621346
   - [S](https://shopus.lauvsongs.com/products/charm-tee?variant=44297883910195)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [M](https://shopus.lauvsongs.com/products/charm-tee?variant=44297883942963)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [L](https://shopus.lauvsongs.com/products/charm-tee?variant=44297883975731)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [XL](https://shopus.lauvsongs.com/products/charm-tee?variant=44297884008499)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/charm-tee?variant=44297884041267)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
 - [Heart Tee](https://shopus.lauvsongs.com/products/heart-tee): 100% cotton t-shirt in cream.
-  Updated: 2026-10-12T01:32:16Z
+  Updated: 2026-10-13T15:48:10Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Heart_Tee.png?v=1778621346
   - [S](https://shopus.lauvsongs.com/products/heart-tee?variant=44297889972275)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [M](https://shopus.lauvsongs.com/products/heart-tee?variant=44297890005043)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [L](https://shopus.lauvsongs.com/products/heart-tee?variant=44297890037811)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [XL](https://shopus.lauvsongs.com/products/heart-tee?variant=44297890070579)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/heart-tee?variant=44297890103347)
     Availability: Available
-    Price: $30.00 USD
+    Price: $40.00 USD
 - [Logo Hoodie](https://shopus.lauvsongs.com/products/logo-hoodie): 80/20 cotton/recycled polyester hoodie in black
-  Updated: 2026-10-12T18:24:47Z
+  Updated: 2026-10-13T15:48:10Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Logo_Hoodie.png?v=1778621345
   - [S](https://shopus.lauvsongs.com/products/logo-hoodie?variant=44297890267187)
     Availability: Available
-    Price: $52.50 USD
+    Price: $70.00 USD
   - [M](https://shopus.lauvsongs.com/products/logo-hoodie?variant=44297890299955)
     Availability: Available
-    Price: $52.50 USD
+    Price: $70.00 USD
   - [L](https://shopus.lauvsongs.com/products/logo-hoodie?variant=44297890332723)
     Availability: Available
-    Price: $52.50 USD
+    Price: $70.00 USD
   - [XL](https://shopus.lauvsongs.com/products/logo-hoodie?variant=44297890365491)
     Availability: Available
-    Price: $52.50 USD
+    Price: $70.00 USD
   - [2XL](https://shopus.lauvsongs.com/products/logo-hoodie?variant=44297890398259)
     Availability: Available
-    Price: $52.50 USD
+    Price: $70.00 USD
 - [Charm Bracelet](https://shopus.lauvsongs.com/products/charm-bracelet): Metal and enamel charm bracelet in silver with 3 custom charms
-  Updated: 2026-10-08T13:48:13Z
+  Updated: 2026-10-13T15:48:11Z
   Vendor: Lauv
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Charm_Bracelet.png?v=1778621345
-  Price: $22.50 USD
+  Price: $30.00 USD
 - [Likes Hat](https://shopus.lauvsongs.com/products/likes-hat): 100% cotton twill dad hat in black with embroidered design
-  Updated: 2026-10-08T13:48:14Z
+  Updated: 2026-10-13T15:48:12Z
   Vendor: Lauv
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Likes_Hat.png?v=1778621345
-  Price: $26.25 USD
+  Price: $35.00 USD
 
 ## Collections
 
 - [Home page](https://shopus.lauvsongs.com/collections/frontpage)
-  Updated: 2026-10-08T13:48:15Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 8
 - [Apparel](https://shopus.lauvsongs.com/collections/apparel)
-  Updated: 2026-10-12T11:15:28Z
+  Updated: 2026-10-13T15:48:12Z
   Total Products: 10
 - [Accessories](https://shopus.lauvsongs.com/collections/accessories)
-  Updated: 2026-10-08T13:48:15Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 6
 - [Hats](https://shopus.lauvsongs.com/collections/hats)
-  Updated: 2026-10-08T13:48:15Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 2
 - [Music](https://shopus.lauvsongs.com/collections/music)
   Updated: 2026-07-08T20:19:36Z
   Total Products: 0
 - [All](https://shopus.lauvsongs.com/collections/all)
-  Updated: 2026-10-12T11:15:28Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 13
 - [First Heartbreak](https://shopus.lauvsongs.com/collections/first-heartbreak)
-  Updated: 2026-10-08T13:48:08Z
+  Updated: 2026-10-13T15:48:06Z
   Total Products: 5
 - [Potential](https://shopus.lauvsongs.com/collections/potential)
   Updated: 2026-07-08T20:19:37Z
   Total Products: 0
 - [New](https://shopus.lauvsongs.com/collections/new)
-  Updated: 2026-10-12T11:15:28Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 16
 - [2026 Tour Merch](https://shopus.lauvsongs.com/collections/songs-i-couldnt-forget-collection)
-  Updated: 2026-10-12T11:15:28Z
+  Updated: 2026-10-13T15:48:13Z
   Total Products: 9
 
 ## Store Pages
@@ -336,15 +336,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://shopus.lauvsongs.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:30:17-05:00
+  Updated: 2026-06-19T15:30:17Z
 - [Shipping Policy](https://shopus.lauvsongs.com/policies/shipping-policy)
-  Updated: 2026-09-25T10:58:45-05:00
+  Updated: 2026-09-25T15:58:45Z
 - [Refund Policy](https://shopus.lauvsongs.com/policies/refund-policy)
-  Updated: 2026-06-19T10:30:04-05:00
+  Updated: 2026-06-19T15:30:04Z
 - [Terms of Service](https://shopus.lauvsongs.com/policies/terms-of-service)
-  Updated: 2026-09-25T10:58:23-05:00
+  Updated: 2026-09-25T15:58:23Z
 - [Contact Information](https://shopus.lauvsongs.com/policies/contact-information)
-  Updated: 2024-06-14T13:46:07-05:00
+  Updated: 2024-06-14T18:46:07Z
 
 ## Optional
 
